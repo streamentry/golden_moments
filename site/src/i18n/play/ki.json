@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Thoma na mũgambo",
+      "stopReading": "Tiga gũthoma",
+      "region": "Ithaako",
+      "restart": "Ambĩrĩria rĩngĩ",
+      "soundOn": "Mĩgambo mĩhooreri yakia",
+      "soundOff": "Mĩgambo mĩhooreri yagĩkio",
+      "done": "Nĩ kũiganĩte rĩu",
+      "feedbackQuestion": "Gĩkĩ nĩgĩagũteithia ũmũthĩ?",
+      "feedbackYes": "Ĩĩ",
+      "feedbackNo": "Aca, ti mũno",
+      "feedbackThanks": "Nĩ wega nĩ gũtwĩra."
+    },
+    "tile": {
+      "named": "{name}, kĩbaũ {n}",
+      "hidden": "Mbica ĩhithĩtwo, kĩbaũ {n}",
+      "withState": "{label}, {state}",
+      "matched": "Nĩciagwatanio",
+      "selected": "Gĩthuurĩtwo",
+      "picture": "Mbica",
+      "photoNumber": "Mbica {n}"
+    },
+    "pairs": {
+      "allTogether": "Cia ngwatanio ciothe nĩciagwatana. Thaaka rĩngĩ kana ũhurũke hanini.",
+      "photoPair": "Mbica igĩrĩ irahanaine hamwe.",
+      "picturePair": "Mbica igĩrĩ cia {name|lower}, irĩ hamwe.",
+      "selected": "{name}. Rĩu caria ĩrĩa ĩhaana nayo.",
+      "mismatch": "Tegera kahora. Hũũra mbica ĩngĩ nĩguo ũthiĩ na mbere.",
+      "mismatchNamed": "{a} na {b}. Tegera kahora. Hũũra mbica nĩguo ũthiĩ na mbere."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Hũũra mbica ĩmwe, ũcoke ũhũũre ĩrĩa ĩhaana nayo.",
+      "guidanceHidden": "Hũũra tũbaũ twĩrĩ nĩguo ũtũgarũre. Caria igĩrĩ irahanaine.",
+      "restart": "Mbica njerũ",
+      "sizeLegend": "Ũingĩ wa tũbaũ",
+      "size": {
+        "one": "Kĩbaũ {n}",
+        "other": "Tũbaũ {n}"
+      },
+      "viewLegend": "Ũrĩa gũthaakagwo",
+      "viewShowing": "Mbica cionekete",
+      "viewHidden": "Mbica hithĩke",
+      "playAgain": "Thaaka rĩngĩ na mbica njerũ",
+      "talk": "Arĩrĩriai ũhoro wa mbica hamwe"
+    },
+    "choose": {
+      "countLegend": "Ũingĩ wa mbica",
+      "count": "Mbica {n} cia gũthuura",
+      "thatOne": "Ĩyo nĩ {name|lower}. Tegera kahora."
+    },
+    "findTheSame": {
+      "guidance": "Rora mbica ĩrĩa ĩrĩ igũrũ. Hũũra ĩrĩa ĩhaana nayo gũkũ thĩ.",
+      "yes": "Ĩĩ, nĩyo {name|lower} o ĩyo.",
+      "next": "Mbica ĩrĩa ĩngĩ"
+    },
+    "shadowMatch": {
+      "guidance": "Rora kĩĩgunyĩ kĩrĩa kĩrĩ igũrũ. Hũũra mbica ĩrĩa ĩkĩumbĩte.",
+      "yes": "Ĩĩ, {name|lower} nĩyo yũmbĩte kĩĩgunyĩ kĩu.",
+      "next": "Kĩĩgunyĩ kĩrĩa kĩngĩ",
+      "shadowAlt": "Kĩĩgunyĩ gĩa kũgwatania",
+      "foundAlt": "Kĩĩgunyĩ kĩa {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Hũũra mbica ĩmwe, ũcoke ũhũũre gĩkabu kĩrĩa yagĩrĩirwo nĩ gũkorwo.",
+      "restart": "Mbica njerũ",
+      "themeLegend": "Mũthemba",
+      "selected": "{name}. Rĩu hũũra gĩkabu kĩrĩa yagĩrĩirwo nĩ gũthiĩ.",
+      "pickFirst": "Amba ũhũũre mbica ĩmwe, ũcoke ũhũũre gĩkabu.",
+      "hint": "{name|lower} no ĩthiĩ thĩinĩ wa \"{basket}\". Hũũra gĩkabu kĩu nĩguo ũmĩige ho.",
+      "placed": "{name|lower} ĩrĩ thĩinĩ wa \"{basket}\".",
+      "sorted": "Ciothe nĩciahũũrwo na mĩthemba yacio. Rorai thĩinĩ wa ikabu hamwe, kana mũgerie mũthemba ũngĩ.",
+      "basket": {
+        "one": "Gĩkabu kĩa {basket}, gĩrĩ na mbica {count} thĩinĩ",
+        "other": "Gĩkabu kĩa {basket}, gĩrĩ na mbica {count} thĩinĩ"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Hũũra gĩcunjĩ kĩmwe, ũcoke ũhũũre kĩngĩ. Nĩikũgarũrĩra handũ.",
+      "restart": "Tukania rĩngĩ",
+      "pictureLegend": "Mbica",
+      "pictures": {
+        "sailboat": "Gatumbĩ ka ruoho",
+        "house": "Nyũmba",
+        "balloon": "Baluni",
+        "sunflower": "Ihua rĩa riũa",
+        "lighthouse": "Mũthĩgi wa ũtheri wa iria",
+        "cat": "Nyau"
+      },
+      "sizeLegend": "Icunjĩ",
+      "size": {
+        "one": "Gĩcunjĩ {n}",
+        "other": "Icunjĩ {n}"
+      },
+      "pickedUp": "Gĩcunjĩ nĩkĩoetiirwo. Rĩu hũũra harĩa kĩagĩrĩirwo nĩ gũthiĩ.",
+      "whole": "{name|lower} nĩnyũmbanu rĩngĩ. Thuura mbica ĩngĩ rĩrĩa rĩothe ũngĩenda.",
+      "swapped": {
+        "one": "Nĩcigaranĩtio. Gĩcunjĩ {correct} kĩa {total} kĩrĩ harĩa kĩagĩrĩirwo.",
+        "other": "Nĩcigaranĩtio. Icunjĩ {correct} cia {total} irĩ harĩa ciagĩrĩirwo."
+      },
+      "guideAlt": "Mbica ĩrĩ njuurĩru: {name}",
+      "guideText": "Ũũ nĩguo mbica ĩhanaga yakorwo ĩrĩ njuurĩru.",
+      "piece": "Gĩcunjĩ kĩrĩa kĩrĩ {place}",
+      "pieceInPlace": ", kĩrĩ harĩa kĩagĩrĩirwo",
+      "piecePickedUp": ", kĩoeletwo",
+      "places4": [
+        "igũrũ mwena wa ũmotho",
+        "igũrũ mwena wa ũrĩo",
+        "thĩ mwena wa ũmotho",
+        "thĩ mwena wa ũrĩo"
+      ],
+      "places9": [
+        "igũrũ mwena wa ũmotho",
+        "igũrũ gatagatĩ",
+        "igũrũ mwena wa ũrĩo",
+        "gatagatĩ mwena wa ũmotho",
+        "gatagatĩ",
+        "gatagatĩ mwena wa ũrĩo",
+        "thĩ mwena wa ũmotho",
+        "thĩ gatagatĩ",
+        "thĩ mwena wa ũrĩo"
+      ],
+      "done": "Mbica nĩnyũmbanu rĩngĩ. Thaaka rĩngĩ kana ũhurũke hanini.",
+      "playAgain": "Tukania rĩngĩ"
+    },
+    "finishTheSaying": {
+      "guidance": "Thomai thimo ĩno hamwe, mũcoke mũhũũre kiugo kĩrĩa gĩkũmĩrĩkia.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ĩĩ, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" nĩ kĩega o nakĩo. Thimo ya kaingĩ ĩrĩkaga na \"{end}\".",
+      "revealed": "Thimo ĩno nĩ \"{start} {end}.\"",
+      "choicesLabel": "Thuura kiugo kĩa marĩkĩriro",
+      "show": "Onya marĩkĩriro",
+      "talk": "Arĩrĩriai ũhoro wayo: ",
+      "next": "Thimo ĩrĩa ĩngĩ"
+    },
+    "wordSearch": {
+      "guidance": "Ciugo ithiaga kũrũngarũra kana gũthiĩ thĩ. Hũũra ndemwa ya mbere ya kiugo, ũcoke ũhũũre ndemwa ya marĩkĩriro.",
+      "restart": "Ithaako rĩerũ",
+      "themeLegend": "Mũthemba",
+      "sizeLegend": "Ũnene wa gĩcango",
+      "size": {
+        "one": "{n} na {n} (kiugo {words})",
+        "other": "{n} na {n} (ciugo {words})"
+      },
+      "print": "Cabia ithaako rĩrĩ",
+      "letterChosen": "Ndemwa {letter} nĩĩthuurĩtwo. Rĩu hũũra ndemwa ya marĩkĩriro ya kiugo.",
+      "found": "{word} nĩyoneka.",
+      "foundAll": "{word} nĩyoneka. Ciugo ciothe nĩcioneka. Thaaka rĩngĩ kana ũhurũke hanini.",
+      "tryAgain": "Tegera kahora. Hũũra ndemwa ya mbere ya kiugo, ũcoke ũhũũre ndemwa ya marĩkĩriro.",
+      "gridLabel": "Gĩcango kĩa mandemwa, mĩhari {n} ya ndemwa {n}. Hũthĩra tũkuha twa mĩguĩ gũthiĩ ndemwa-inĩ ingĩ.",
+      "cell": "{letter}, mũhari {row}, itĩrĩ {col}",
+      "cellFound": ", gĩcunjĩ kĩa kiugo kĩoneku",
+      "wordsHeading": "Ciugo cia gũcaria",
+      "wordFound": " (nĩyoneka)",
+      "sheetTitle": "Gũcaria ciugo: {theme}",
+      "sheetNote": "Ciugo nĩ cia kũthiĩ kĩũraihu kana gũtheerera thĩ.",
+      "unavailable": "Gĩcango kĩa mandemwa gĩtianagĩrĩra rũthiomi rũrũ, kwoguo gũcaria ciugo gũtĩrĩ gũkũ. Geria thaatha cia mbica handũ hayo."
+    },
+    "coloring": {
+      "guidance": "Hũũra rangi, ũcoke ũhũũre gĩcunjĩ kĩa mbica.",
+      "restart": "Eheria marangi",
+      "cleared": "Ithangũ nĩrĩtheru rĩngĩ.",
+      "pageLegend": "Ithangũ",
+      "print": "Cabia ithangũ rĩrĩ",
+      "colorsLabel": "Marangi",
+      "paintChosen": "Rangi wa {paint} nĩũthuurĩtwo.",
+      "painted": "{part} rĩu nĩ ya {paint|lower}.",
+      "artLabel": "{page}, icunjĩ {count} cia gũhaka rangi",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ĩtĩhakĩtwo rangi",
+      "paints": {
+        "red": "Mũtũne",
+        "orange": "Rangi wa macungwa",
+        "yellow": "Ngoikoni",
+        "green": "Kĩruru",
+        "blue": "Buruu",
+        "purple": "Nambau",
+        "pink": "Rangi wa ihua",
+        "brown": "Mũbuu",
+        "sky-blue": "Buruu ya igũrũ",
+        "cream": "Rangi wa iria",
+        "gray": "Rangi wa mũhu",
+        "white": "Mwerũ"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Thomai karata gano na mũgambo mũnene. Gũtirĩ macokio mahĩtĩku kana meega.",
+      "position": "Karata {n} kĩa {total}",
+      "themeLegend": "Mũthemba",
+      "next": "Karata karĩa kangĩ",
+      "previous": "Karata karĩa kahĩtũku",
+      "print": "Cabia makarata moothe",
+      "sheetTitle": "Makarata ma kwarĩrĩria"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Amba na gũthuura mbica ciaku.",
+      "guidance": "Hũũra mbica ĩmwe, ũcoke ũhũũre ĩrĩa ĩhaana nayo.",
+      "restart": "Citukanie rĩngĩ",
+      "intro": "**Thuura mbica 2 nginya 6** kuuma thĩinĩ wa kĩhũũro gĩkĩ. Cionekaga o thĩinĩ wa ithangũ rĩrĩ na gũtirĩ rĩrĩa ciigagwo kana gũtũmwo handũ hangĩ.",
+      "choose": "Thuura mbica",
+      "chooseDifferent": "Thuura mbica ingĩ ngũrani",
+      "clear": "Eheria mbica",
+      "cleared": "Mbica nĩcieherio thĩinĩ wa ithangũ rĩrĩ.",
+      "atLeastTwo": "Thaakĩra ũthuure mbica itanyihĩire igĩrĩ.",
+      "usingFirst": "Gũhũthĩra mbica {max} cia mbere.",
+      "skipped": {
+        "one": "Faindi {count} ti mbica tũngĩhota kuonia.",
+        "other": "Faindi {count} ti mbica tũngĩhota kuonia."
+      },
+      "playAgain": "Thaaka rĩngĩ na mbica ici",
+      "empty": "Mbica ciaku nĩikũoneka haha, o ĩmwe maita merĩ."
+    },
+    "pictureBingo": {
+      "guidance": "Amba na gũcabia makarata. Ũcoke wonanie ũmwĩtani ũyũ thĩinĩ wa kĩhũũro kĩrĩa kĩnene mũno ũrĩ nakĩo.",
+      "called": {
+        "one": "{name}. Mbica {called} ya {total} nĩyĩtwo.",
+        "other": "{name}. Mbica {called} cia {total} nĩciĩtwo."
+      },
+      "start": "Hũũra \"Mbica ĩrĩa ĩngĩ\" nĩguo wĩte mbica ya mbere.",
+      "restart": "Ambĩrĩria ithaako rĩerũ",
+      "squaresLegend": "Tũcunjĩ o karata-inĩ",
+      "squares": "Tũcunjĩ {n} ({side} na {side})",
+      "cardsLegend": "Makarata maigana ma gũcabia",
+      "cards": {
+        "one": "Karata {n}",
+        "other": "Makarata {n}"
+      },
+      "print": {
+        "one": "Cabia karata {n} ka bingo",
+        "other": "Cabia makarata {n} ma bingo"
+      },
+      "ready": "Twĩhaarĩirie rĩrĩa wĩyaria",
+      "next": "Mbica ĩrĩa ĩngĩ",
+      "allCalled": "Mbica ciothe nĩciĩtwo",
+      "alreadyCalled": "Nĩyĩtĩtwo tene",
+      "sheetTitle": "Bingo ya mbica · karata {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Gucia rĩera rĩrĩa gĩthiũrũrĩ gĩkũneneha, na ũrute rĩrĩa gĩkũnyiha. Nĩ kĩrũgamaga kĩene thutha wa mĩhũmũko ĩtandatũ.",
+      "paceLegend": "Mũthiĩre",
+      "paceSlow": "Kahora mũno (sekondi 5 o mwena)",
+      "paceGentle": "Kahora (sekondi 4 o mwena)",
+      "ready": "Wĩhaarĩirie rĩrĩa wenda",
+      "in": "Gucia rĩera",
+      "hold": "Hũmũka",
+      "out": "Ruta rĩera",
+      "start": "Ambĩrĩria",
+      "stop": "Rũgama",
+      "started": "Nĩkwambĩrĩria. Gucia rĩera rĩrĩa gĩthiũrũrĩ gĩkũneneha.",
+      "stopped": "Nĩkwarũgama.",
+      "finished": "Ĩyo yarĩ mĩhũmũko ĩtandatũ ya kahora. Ambĩrĩria rĩngĩ rĩrĩa wenda wothe."
+    }
+  },
+  "pictures": {
+    "teacup": "Gĩkombe kĩa cai",
+    "kettle": "Bĩtĩka",
+    "bread": "Mũgati",
+    "frying-pan": "Karai na itumbĩ",
+    "cake": "Keki ya gĩkeno",
+    "sunflower": "Ihũa rĩa riũa",
+    "tulip": "Ihũa itune",
+    "watering-can": "Ndobo ya kwitĩrĩria maĩ",
+    "potted-plant": "Mũmera thĩinĩ wa nyũngũ",
+    "tree": "Mũtĩ",
+    "bird": "Nyoni rũhonge-inĩ",
+    "butterfly": "Kĩĩhuruta",
+    "dog": "Ngui",
+    "cat": "Paka",
+    "fish": "Thamakĩ",
+    "apple": "Ihabo itune",
+    "pear": "Pera",
+    "strawberry": "Sitirawberi",
+    "banana": "Irigũ",
+    "lemon": "Ndimu",
+    "cherries": "Cherry",
+    "house": "Nyũmba",
+    "lamp": "Taa ya metha",
+    "armchair": "Gĩtĩ kĩa kũhurũka",
+    "key": "Kĩhingũro kĩa tene",
+    "umbrella": "Thambũreri",
+    "sailboat": "Maarabu ma rũhuho",
+    "car": "Ngaari ya tene",
+    "bicycle": "Baisikiri",
+    "balloon": "Mũbira wa rĩera",
+    "lighthouse": "Kĩrĩti gĩa kũmũrĩka iria-inĩ",
+    "sun": "Riũa",
+    "moon": "Mwerĩ na njata",
+    "teapot": "Nyũngũ ya cai",
+    "apple-pie": "Keki ya mahabo",
+    "honey-jar": "Nduba ya ũũkĩ",
+    "boiled-egg": "Itumbĩ rĩrugĩte",
+    "toaster": "Mũhĩngio wa mũgati",
+    "cheese": "Chizi",
+    "milk-jug": "Nduba ya iria",
+    "cupcake": "Gakeki",
+    "orange": "Icungwa",
+    "grapes": "Thabibũ",
+    "watermelon": "Irenge rĩa maĩ",
+    "pineapple": "Nanasi",
+    "peach": "Pici",
+    "rose": "Ihũa rĩa rosi",
+    "daisies": "Mahũa merũ",
+    "mushroom": "Ikũnũ",
+    "wheelbarrow": "Gatorodi",
+    "birdhouse": "Kanyũmba ka nyoni",
+    "cactus": "Mũthũga nyũngũ-inĩ",
+    "acorn": "Mbeo ya mũtĩ",
+    "autumn-leaf": "Ithangũ riumĩte",
+    "rabbit": "Mbũkũ",
+    "duck": "Bata",
+    "hen": "Ngũkũ",
+    "sheep": "Ngondu",
+    "owl": "Nundu",
+    "ladybird": "Kanyamũ ka matondo",
+    "snail": "Ngonongwa",
+    "frog": "Kĩũngũyũ",
+    "bee": "Nyoki",
+    "clock": "Thaa ya metha",
+    "vase-of-flowers": "Nyũngũ ya mahũa",
+    "radio": "Redio ya tene",
+    "books": "Ibuku ciigĩirwo igũrũ",
+    "candle": "Mũthobari",
+    "glasses": "Gĩcicio kĩa gũthoma",
+    "telephone": "Thimũ",
+    "ball-of-wool": "Mũbira wa wũru",
+    "straw-hat": "Ngobia ya riũa",
+    "train": "Ngaari ya moshi",
+    "bus": "Bathi",
+    "airplane": "Ndege",
+    "suitcase": "Sandũkũ ya rũgendo",
+    "tractor": "Tirakita",
+    "rowing-boat": "Gatũrũ ka moko",
+    "rainbow": "Mũkora wa Ngai",
+    "rain-cloud": "Matu ma mbũra",
+    "snowflake": "Kĩguũ kĩa thaara",
+    "kite": "Kĩbegũ",
+    "sunrise": "Kũratha gwa riũa irĩma-inĩ"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEGHIĨKMNOŨRTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Matunda",
+          "words": [
+            "IEMBE",
+            "NDIMU",
+            "PAPAI",
+            "IBERA",
+            "IRIGŨ",
+            "NANASI",
+            "ITŨNDA",
+            "MAEMBE",
+            "MABERA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Mũgũnda",
+          "words": [
+            "MŨTĨ",
+            "IHŨA",
+            "TĨIRI",
+            "NYOKI",
+            "MBEO",
+            "MBŨRA",
+            "RŨŨĨ",
+            "MAHŨA",
+            "MŨRI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Rĩko",
+          "words": [
+            "CAI",
+            "MAĨ",
+            "RĨKO",
+            "NYŨNGŨ",
+            "RŨHIŨ",
+            "MWAKĨ",
+            "MŨGATI",
+            "THANIA",
+            "GĨCUKO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Rĩera",
+          "words": [
+            "RIŨA",
+            "MBŨRA",
+            "MATU",
+            "HEHO",
+            "RŨMBU",
+            "MWERĨ",
+            "ŨTHERI",
+            "RŨHŨHO",
+            "KĨGUU"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Nyamũ",
+          "words": [
+            "NGUI",
+            "PAKA",
+            "NYONI",
+            "MBŨRI",
+            "NGŨKŨ",
+            "NJOGU",
+            "MBWE",
+            "HUKO",
+            "MBĨA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Mũciĩ",
+          "words": [
+            "TAA",
+            "GĨTĨ",
+            "RĨKO",
+            "ŨRĨRĨ",
+            "RŨHIŨ",
+            "NYŨMBA",
+            "THANIA",
+            "GĨTARA",
+            "RŨGIRI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kathi ciothe",
+        "food": "Irio",
+        "home": "Mũciĩ",
+        "outdoors": "Nja",
+        "animals": "Nyamũ",
+        "travel": "Ngendo",
+        "work": "Wĩra na maũndũ ma kwĩkenia",
+        "music": "Nyĩmbo na gĩkeno",
+        "seasons": "Mahinda ma mwaka"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Nĩ mũnungo ũrĩkũ ũngĩkenera mũno kuuma rĩko?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Keki ĩrĩkũ ũngĩthuura rĩrĩa kũrĩ na gĩkeno?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ta njĩra ũhoro wa itũnda rĩrĩa wendete kũrĩa rĩrugĩtwo kana ta kĩndũ kĩa thutha wa irio."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Wendeire cai kana kahũa gakoragwo gatariĩ atĩa?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Nĩ kĩĩ gĩtũmaga irio cia rũcinĩ ikorwo irĩ njega biũ?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Hihi nĩ ũrĩ watua itũnda rĩkĩumĩte mũtĩ-inĩ narua?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Kĩnenehetie mũrĩo kana kĩrũrũ: nĩ kĩrĩkũ ũngĩkenio nĩkĩo mũno?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Nĩ irio irĩkũ ciakũririkanagia ihinda rĩa mwanya rĩa riũa?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ta njĩra ũhoro wa nyũmba wakenagĩra gũtũũra thĩinĩ wayo."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Nĩ kũ harĩa wendete gũikara ũgĩhurũkaga?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Nĩ maũndũ marĩkũ wendete gwĩka hwaĩ-inĩ rĩrĩa gũtarĩ na inegene?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Nĩ kĩndũ kĩrĩkũ gĩa goro ũngĩiga thĩinĩ wa ithandũkũ rĩa mwanya?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Nũ ũngĩeta agwĩkĩre kĩbũĩ gĩa cai?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Nĩ maũndũ marĩkũ wendete gwĩka mũthenya ũrĩa kũroira mbũra?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Nĩ mahũa marĩkũ ũngĩhanda mũgũnda-inĩ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ta njĩra ũhoro wa mũtĩ kana kĩharo kĩa mathako kĩrĩa ũkenerete."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Nĩ kĩĩ kĩrĩa kĩega biũ rĩrĩa ũrĩ nja mũgũnda-inĩ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Mahũa ma rangi ũrĩkũ ũtethekaga nĩmo mũno?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Nĩ ũkenagĩra kũgĩa na mĩmera thĩinĩ wa nyũmba?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Mũthenya mwega biũ wa riũa ũkoragwo ũtariĩ atĩa harĩ we?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ta njĩra ũhoro wa ngui ĩrĩa wamanyĩte tene."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Paka kana ngui, kana gũtirĩ o na ĩmwe? Nĩ kĩĩ wendete igũrũ rĩacio?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Nĩ nyoni irĩkũ wonaga kana ũkoigua kũu nja?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Hihi nĩ ũrĩ watega thamakĩ, kana ũkaiga thamakĩ nyũmba-inĩ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Nyamũ ĩrĩa thaka mũno ũrĩ wona nĩ ĩrĩkũ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ta njĩra ũhoro wa ngaari ĩrĩa wakenagĩra."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ũngĩenda gũtinda mũthenya kũrĩa hũgũrũrũ-inĩ cia iria kana kĩrĩma-inĩ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Nĩ kũ ũngĩenda gũthiĩ ũgĩtwara baisikiri?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Korwo nĩ ũkũgũrũka igũrũ rĩa handũ hoothe, ũngĩenda kuona kũ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ta njĩra ũhoro wa rũgendo rũmwe rwarĩ rũkenio harĩ we."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Nĩ wĩra ũrĩkũ ũrĩ watinda ũkĩwĩka na gĩkeno?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Nĩ maũndũ marĩkũ ma kwĩkenia ũngĩhũthĩra mathaa maingĩ wĩkĩte?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Nĩ kĩndũ kĩrĩkũ wamenyereirwo kũthondeka kana kũrũmbũiya?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ũtaaro ũrĩkũ ũngĩhe mwanake kana mwarĩ ũkwanjĩrĩria wĩra?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Nĩ rwĩmbo rũrĩkũ rũtũmaga wende kũhũra magũrũ thĩ?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Nĩ kĩĩ gĩtũmaga kĩama gĩa gĩkeno gĩkorwo kĩrĩ kĩega mũno?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Nĩ mũini ũrĩkũ wendete kũmũthikĩrĩria?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Nĩ thenema ĩrĩkũ wendete gũcookera kwĩrorera rĩngĩ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Nĩ kĩĩ ũkenagĩra mũno hĩndĩ ya riũa rĩingĩ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Nĩ kĩĩ ũkenagĩra rĩrĩa mahangũ magũgwa kuuma mĩtĩ-inĩ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Nĩ ũndũ ũrĩkũ ũheaga thaayũ hwaĩ-inĩ ũrĩa kũrĩ na heho?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Nĩ rĩrĩa ũmenyaga ihinda rĩa mĩmera mĩerũ nĩ rĩakinya?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Mbũra, thaara, kana riũa: nĩ kĩrĩkũ ũngĩthuura?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Ihũa thĩinĩ wa nyũngũ",
+          "regions": {
+            "sky": "Na thutha",
+            "table": "Metha",
+            "stem": "Kũgũrũ kwa ihũa",
+            "leaf-left": "Ithangũ rĩa ũmotho",
+            "leaf-right": "Ithangũ rĩa ũrĩo",
+            "petal-1": "Ithangũ rĩa ihũa 1",
+            "petal-2": "Ithangũ rĩa ihũa 2",
+            "petal-3": "Ithangũ rĩa ihũa 3",
+            "petal-4": "Ithangũ rĩa ihũa 4",
+            "petal-5": "Ithangũ rĩa ihũa 5",
+            "petal-6": "Ithangũ rĩa ihũa 6",
+            "petal-7": "Ithangũ rĩa ihũa 7",
+            "petal-8": "Ithangũ rĩa ihũa 8",
+            "center": "Gatagatĩ ka ihũa",
+            "pot": "Nyũngũ ya ihũa",
+            "pot-rim": "Mũromo wa nyũngũ"
+          }
+        },
+        "house": {
+          "name": "Nyũmba",
+          "regions": {
+            "sky": "Igũrũ",
+            "sun": "Riũa",
+            "grass": "Nyeki",
+            "chimney": "Mũberethi wa moshi",
+            "walls": "Thingo",
+            "roof": "Mũhianhio",
+            "door": "Mũrango",
+            "window-left": "Ndirica ya ũmotho",
+            "window-right": "Ndirica ya ũrĩo",
+            "path": "Kajĩra"
+          }
+        },
+        "teacup": {
+          "name": "Gĩkombe kĩa cai",
+          "regions": {
+            "background": "Na thutha",
+            "saucer": "Kĩsahani",
+            "handle": "Mũkwa",
+            "cup": "Gĩkombe",
+            "band": "Mũhari wa gĩkombe",
+            "tea": "Cai"
+          }
+        },
+        "butterfly": {
+          "name": "Kĩĩhuruta",
+          "regions": {
+            "background": "Na thutha",
+            "wing-top-left": "Ithagu rĩa igũrũ rĩa ũmotho",
+            "wing-top-right": "Ithagu rĩa igũrũ rĩa ũrĩo",
+            "wing-bottom-left": "Ithagu rĩa thĩ rĩa ũmotho",
+            "wing-bottom-right": "Ithagu rĩa thĩ rĩa ũrĩo",
+            "spot-left": "Itondo rĩa ithagu rĩa ũmotho",
+            "spot-right": "Itondo rĩa ithagu rĩa ũrĩo",
+            "body": "Mmwĩrĩ"
+          }
+        },
+        "sailboat": {
+          "name": "Maarabu ma rũhuho",
+          "regions": {
+            "sky": "Igũrũ",
+            "sea": "Iria",
+            "sail-big": "Kĩtambaa kĩnene kĩa rũhuho",
+            "sail-small": "Kĩtambaa kĩnini kĩa rũhuho",
+            "mast": "Mũtĩ wa maarabu",
+            "hull": "Gatũrũ",
+            "flag": "Bendera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Rĩko na mũgũnda",
+          "baskets": [
+            "Rĩiko-inĩ",
+            "Mũgũnda-inĩ"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Matunda na nyamũ",
+          "baskets": [
+            "Matunda",
+            "Nyamũ"
+          ]
+        },
+        "home-travel": {
+          "label": "Mũciĩ na ng'endo",
+          "baskets": [
+            "Mũciĩ-inĩ",
+            "Ng'endo-inĩ"
+          ]
+        }
+      }
+    }
+  }
+}

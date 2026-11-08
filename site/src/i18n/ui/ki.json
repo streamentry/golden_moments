@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Thiĩ kũrĩ ũhoro ũrĩa mũnene",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Mĩbango ya andũ arĩa marĩ na thĩna wa kũriganĩrwo (dementia)",
+    "homeLabel": "Kĩambĩrĩria kĩa Golden Moments",
+    "mainNav": "Mũbango mũnene",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Gĩkũyũ",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: mbica nene cia kwendeka cia gĩkombe kĩa cai, ihũa rĩa riũa, na ngui",
+    "languages": "Rũthiomi",
+    "englishOnly": "(Gĩthũngũ)",
+    "machineTranslated": "Ithangũ rĩrĩ rĩtaũrĩtwo nĩ kombiũta na rĩtithuthurĩtwo nĩ mũndũ ũkĩĩgĩte rũthiomi rũrũ rwa gĩciarĩro.",
+    "readOriginal": "Thoma ũhoro wa kĩambĩrĩria na Gĩthũngũ",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Mĩthako",
+      "activities": "Maũndũ ma gwĩka",
+      "caregiving": "Kũrũmbũiya arĩa maremwo",
+      "brainHealth": "Ũgima wa meciria"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Ciũria na macokio",
+    "breadcrumb": "Mũrũrũmo wa mathangũ",
+    "home": "Kĩambĩrĩria",
+    "lastUpdated": "Kũcokererwo mũico",
+    "topics": "Mĩthemba ya maũndũ",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Ũnene wa maandĩko",
+      "smaller": "Maandĩko ma kũiganĩra",
+      "larger": "Maandĩko manene",
+      "contrast": "Ũtheri mũkĩrĩru"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
+    "play": "Thaaka",
+    "picturePairs": "Mbica igĩrĩ ihaanaine",
+    "conversationCards": "Kadi cia kwaria",
+    "pictureBingo": "Bingo ya mbica",
+    "allGames": "Mĩthako yothe",
+    "pictures": "Mbica cia gũcaba",
+    "activityIdeas": "Mawoni ma maũndũ ma gwĩka",
+    "ideas101": "Mawoni 101 ma maũndũ ma gwĩka",
+    "lateStage": "Maũndũ ma gwĩka rĩrĩa thĩna ũkũrĩte",
+    "printable": "Maũndũ marĩa mangĩcabĩka",
+    "allActivities": "Maũndũ mothe ma gwĩka",
+    "forCaregivers": "Kũrĩ arĩa marũmbũyagia andũ",
+    "playTogether": "Ũrĩa mwathaaka hamwe",
+    "selfCare": "Kwĩrũmbũiya we mwene",
+    "brainHealth": "Ũthuthuria wa ũgima wa meciria",
+    "faq": "Ciũria na macokio",
+    "about": "Ũhoro witũ",
+    "approach": "Mũtaratara witũ",
+    "howWeWrite": "Ũrĩa twandĩkaga",
+    "organizations": "Kũrĩ ciama na ikundi cia wĩra",
+    "app": "App ya Golden Moments",
+    "appHelp": "Ũteithio wa App",
+    "support": "Ũteithio",
+    "legal": "Maũndũ ma watho",
+    "sitePrivacy": "Hitho ya kĩhumo kĩkĩ kĩa ũhoro",
+    "appPrivacy": "Watho wa hitho wa App",
+    "privacyChoices": "Mĩthũro yaku ya hitho",
+    "terms": "Watho na rũtha rwa App",
+    "safety": "Ũgitĩri na ũrĩa yagĩrĩirwo kũhũthĩrwo",
+    "accessibility": "Ũhũthĩru kũrĩ andũ othe",
+    "healthNotice": "Ũhoro ũkoniĩ ũgima wa mwĩrĩ",
+    "allLegal": "Maũndũ mothe ma kĩwatho",
+    "note": "Golden Moments nĩ ĩheanaga maũndũ mahũthũ ma kũhũthĩra hamwe nĩ getha kũgĩe na gĩkeno. Ti ũtaaro wa ndagitari, ti kĩgeranio, na ti ũrigiti, na ndĩthimaga kana gũtua mũndũ ũhoro. Angĩkorwo wĩ na ciũria cia ũgima wa mwĩrĩ, aria na ndagitari. Rĩrĩa kwagĩa mũtino wa narua, hũũra thimũ 999.",
     "publisher": "Published by Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Mĩthako na Maũndũ ma Gwĩka ma Andũ arĩa marĩ na Dementia na Alzheimer's | Golden Moments",
+    "description": "Mĩthako ya mbica ĩtarĩ ya kũrĩhio na ĩtekũhiũhĩrĩria ya gũthaaka thĩinĩ wa intaneti, hamwe na mawoni ma maũndũ ma gwĩka kũrĩ andũ arĩa marĩ na thĩna wa kũriganĩrwo (dementia) kana Alzheimer's na arĩa mamarũmbũyagia. Gũtirĩ kwĩyandĩkithia, ndagĩka cia kũhĩtĩka, kana ũtũri.",
+    "eyebrow": "Gũtirĩ kũrĩhia · Gũtirĩ mathandũkũ ma kũhunjia · Gũtirĩ kwĩyandĩkithia · Gũtirĩ ndagĩka kana ũtũri",
+    "h1": "Mĩthako na Maũndũ Marerũhĩte kũrĩ Andũ arĩa marĩ na Thĩna wa Kũriganĩrwo (Dementia)",
+    "lede": "Mĩthako mĩhũthũ ya mbica, mbica ciĩkaine cia famĩlĩ, na maũndũ ma kũgĩa na gĩkeno kĩaguo mũrĩ hamwe—o mũndũ kũringana na ihenya rĩake.",
+    "playGame": "Thaaka Mũthako",
+    "findIdeas": "Carania na mawoni ma maũndũ ma gwĩka",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Nĩ ĩrutaga wĩra thĩinĩ wa thimũ, taabuleti, na kombiũta",
+      "Mbica nene iria citathiraga gũkorwo ho",
+      "Tigithĩria rĩrĩa wenda; gũtirĩ kĩndũ kĩa kũgũa"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Ningĩ nĩ kũrĩ app ĩtarĩ ya kũrĩhio ya iPhone, iPad na Android, ĩrĩa ĩhũthagĩra mbica ciaku cia famĩlĩ",
+    "albumNote": "“Mbica igĩrĩ cia gĩkombe kĩa cai, hamwe.”",
+    "gamesEyebrow": "Thaakĩra thĩinĩ wa kĩambĩrĩria gĩaku gĩa intaneti",
+    "gamesTitle": "Mĩthako ũngĩthaaka ihinda rĩrĩ o rĩu",
+    "gamesLede": "O mũthako nĩ mũhooreri, nĩ wagĩrĩire andũ agima, na nĩ ũrambĩrĩria o narua. Thuura ũmwe, mũikare mũtharanĩtie, na mũtindĩkanĩre gũkinya.",
+    "seeAllGames": "Rora mĩthako yothe {count}",
+    "howTitle": "Ũrĩa ĩrutaga wĩra",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Thuura kĩndũ kĩũĩkaine",
+        "text": "Mbica cia ikombe cia cai, mĩgũnda, nyamũ cia mũciĩ, na matumbĩ ma maarũwa. Gũtirĩ gũthoma kana mawatho marabatara kwĩrutwo mbere."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Ikarai mũtharanĩtie",
+        "text": "Mũreke ahutie mbica. Arie igũrũ rĩa mbica icio. Rĩrĩa mbica itahanaine, o ĩtetereire gũkinywo rĩngĩ."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Tigithĩriai rĩrĩa ũhoro ũcio ũrĩ mũgaacĩru",
+        "text": "Mũthako ũmwe ũiganĩte gũkorwo ũrĩ ũndũ mwiganu. Ciugo “Tũrĩkĩtie rĩu” ikoragwo ho hĩndĩ ciothe."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Makĩria ma gĩthithio gĩa thimũ",
+    "stageTitle": "Mawoni ma maũndũ ma gwĩka kũringana na o mũrango",
+    "stageLede": "Rwĩmbo, mawĩra ma o mũthenya, kũririkana maũndũ ma tene, na tũhinda twa gũtua meciria tũhoorereire, kũringana na kĩrĩa kĩrehithia thayũ rĩu.",
+    "ideas101": "Mawoni 101 ma maũndũ ma gwĩka",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Kĩambĩrĩria",
+        "text": "Thiĩi na mbere gwĩka maũndũ marĩa mendete, mũkĩgarũra o maũndũ manini: maũndũ ma kwĩgucĩrĩria, kũceera nja, mĩthako ya ciugo, na kũbanga hamwe.",
+        "label": "Mawoni ma kĩambĩrĩria"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Gatagatĩ",
+        "text": "Mawĩra mahũthũ na meũĩkaine marutĩtwo na njĩra ndũrĩrũ: gũkũnja nguo, gũthuthura indo, nyĩmbo, mĩthako ya mbica, na kũtembẽra gwa kahinda kanini.",
+        "label": "Mawoni ma gatagatĩ"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Rĩrĩa ũhoro ũkũrĩte",
+        "text": "Thayũ na ũiguano kũgerera kũhutia, mũgambo, na kuona: kũthambĩra moko, nyĩmbo iria mendete, mbica, na gũikara o hamwe.",
+        "label": "Mawoni ma rĩrĩa ũhoro ũkũrĩte"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Nĩ ũracaria ũndũ mwanya? Thuthuria <a href=\"/activities/alzheimers/\">maũndũ ma gwĩka na mĩthako ya Alzheimer's</a>, <a href=\"/activities/memory-games/\">mĩthako mĩhooreri ya kũririkana</a>, <a href=\"/activities/trivia/\">ciũria hũthũ cia maũndũ ma gũkenerwo</a> kana <a href=\"/activities/puzzles/\">puzzles cia gũcokerania</a>.",
+    "approachEyebrow": "Mũtaratara witũ",
+    "approachTitle": "Ũndũ wa gũkenerwo hamwe, ti kĩgeranio kĩa kũririkana",
+    "approachLede": "Mĩthako mĩingĩ ya meciria yũkĩte ĩthondeketwo na njĩra ya ihenya, ũtũri, na kũrũmĩrĩra mĩtũrĩre. Kũrĩ mũndũ ũrĩa ũrĩ na thĩna wa kũriganĩrwo (dementia), ũndũ ũcio ũngĩtũgĩka akorwo ta aratara kĩgeranio. Ithuĩ twathondekire ũndũ ngũrani biũ.",
+    "approachLink": "Kĩrĩa gĩtũmaga tũthondeke ũguo",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Gũtirĩ kĩndũ kĩa kũgũa",
+        "text": "Gũtirĩ thaa, ũtũri, mĩoyo ĩrathira, kana kũhootwo. Mbica ĩrĩa ĩtahanaine no kũrũgama gwa kahinda, ti rĩhĩtia."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Mbica nĩ itũũraga irĩ ho",
+        "text": "Kũmenya kĩndũ nĩ kũkĩrĩte kũkĩririkana. Kũringithania kwambagĩrĩria mbica irĩ theri, kwoguo gũtirĩ kĩndũ kĩa gũcokererio meciria."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Kwĩgĩrĩra na gĩtĩo kĩa andũ agima",
+        "text": "Ciugo njega, ihũthũ, na mbica cia maũndũ ma rũrĩrĩ rũkĩrĩku. Gũtirĩ mbica cia kũhũra cia twana kana mĩario ya tũkenge."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Hitho nĩyo ya kĩambĩrĩria",
+        "text": "Gũtirĩ akaunti kana kũhunjĩrio maũndũ. Mbica ciaku itiumaga thĩinĩ wa thimũ kana kombiũta yaku o rĩmwe."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Kũrĩ arĩa marũmbũyagia andũ",
+    "guidesTitle": "Mataaro ma kũhũthĩra mawĩra-inĩ ma o mũthenya",
+    "allCaregiving": "Mataaro mothe ma kũrũmbũiya",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Ũrĩa mwathaaka mĩthako hamwe",
+        "text": "Kwĩhaarĩria, kũrũmĩrĩra ihenya rĩao, na ũrĩa ũngĩka rĩrĩa mũthako wathira kũgĩa na gĩkeno."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Rĩrĩa marega ũndũ wa gwĩka",
+        "text": "Itũmi iria cionekaga kaingĩ cia kũrega, na njĩra nyororo cia kũgeria rĩngĩ thutha-inĩ."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Kũbanga taabuleti wega",
+        "text": "Maandĩko manene, kũnyihia maũndũ marĩa maringithagia meciria, na kĩharo kĩmwe kĩhũthũ kĩa kĩambĩrĩria."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Maũndũ ma gũcaba matarĩ ma kũrĩhio",
+        "text": "Gũcaria ciugo na maandĩko manene, mathangũ ma gũthaka rangi, bingo, na kadi cia kwarĩria maũndũ."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Ũgima wa meciria: ũrĩa ũthuthuria uugaga kũna",
+    "researchText": "Hihi thĩna wa kũriganĩrwo (dementia) no ũgirio? Hihi mĩthako ya meciria nĩ ĩteithagia? Kũrĩ atĩa igũrũ rĩa kũitĩrĩria kĩyo, ũrĩĩrĩro, toro, na kũigua? Macokio mahũthũ maarĩ na kĩhumo, o hamwe na harĩa ũira ũtarĩ mũrũmu wega.",
+    "researchLink": "Thoma maũndũ marĩa maumanĩte na ũthuthuria",
+    "appEyebrow": "Ningĩ nĩ kũrĩ app",
+    "appTitle": "Golden Moments thĩinĩ wa iPhone, iPad na Android",
+    "appText": "App ĩno ĩtarĩ ya kũrĩhio nĩ ĩrutaga wĩra o na hatarĩ intaneti, na no ĩhũthĩre mbica cia famĩlĩ iria ũkũthuura, ikĩigwo o thĩinĩ wa thimũ yaku. Nĩ ĩkoretwo ĩthondeketwo na njĩra o ĩyo ĩhoorereire: tũbainĩ tũnene tuna, gũtirĩ ndagĩka, na gũtirĩ ũtũri.",
+    "aboutApp": "Ũhoro ũkoniĩ app",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Nĩ mĩthako ĩrĩkũ mĩega kũrĩ andũ arĩa marĩ na thĩna wa kũriganĩrwo (dementia)?",
+        "a": "Mĩthako mĩega nĩ ĩrĩa mĩhũthũ, ĩmenyereirwo na ĩtarĩ na mĩtangĩko: mbica nene cia kũringithania, gũthathaũra, thambo hũthũ cia gũtukania na kũrũnga, kũrĩkĩria thimo ciĩkaine, kũhaka marangi, bingo ya mbica na kadi cia kwarĩria maũndũ. Ithĩro rĩrĩa rĩega biũ nĩ rĩrĩa mũndũ ekũkenio narĩo ũmũthĩ. Thenga thaa cia gũtara ihinda, gũtara morũngo na kĩndũ o gĩothe kĩroneka ta kĩgeranio."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Hihi mĩthako ĩno ya andũ arĩa marĩ na kũũrwo nĩ meciria nĩ ya tũhũ?",
+        "a": "Ĩĩ. O mũthako na rũkungu rwa kũcabithio rũrĩa rwĩ Golden Moments nĩ rwa tũhũ, hatarĩ kũhingũra akaunti, kwĩyandĩkĩithia kana gũkobia kĩndũ. Mĩthako ĩno ĩthakagwo thĩinĩ wa kĩheani kĩa ũhoro kĩa thimũ, tabuleti kana kompiuta."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Hihi mĩthako ya tombo no ĩgirĩrĩrie kũũrwo nĩ meciria?",
+        "a": "Gũtirĩ mũthako o na ũmwe wonanĩtio atĩ nĩ ũgiragĩrĩria kũũrwo nĩ meciria, na Golden Moments ndĩĩrutaga atĩ nĩ ĩhonagia kana kũgirĩrĩria kĩndũ o na kĩrĩkũ. Mĩthako iitũ ĩrĩ kuo nĩ ũndũ wa gũkenera na gũkorwo hamwe. Gĩcunjĩ giitũ kĩa ũgima wa tombo nĩ gĩtaragĩria kĩrĩa ũthuthuria wonanĩtie na kĩrĩa ũtoonanĩtie."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Hihi mĩthako ĩno nĩ ĩgwatanĩire mũndũ ũrĩ na mũrimũ wa Alzheimer's?",
+        "a": "Ĩĩ. Mũrimũ wa Alzheimer's nĩguo kĩhumo kĩrĩa kĩnene kĩa kũũrwo nĩ meciria, na mĩthako ĩno ĩthondeketwo nĩ ũndũ waguo: mbica nene ikaraga ikĩoneka, itua inini cia gũthura, na gũtirĩ kĩndũ gĩa kũririkana kana kũhĩngĩca. Kũringithania, gũthathaũra na kũrĩkĩria thimo menyere kũhũthagĩra ũũgĩ wa tene ũrĩa ũtiganĩte na mũndũ handũ ha kwĩruta maũndũ meerũ."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Hihi mũndũ ũrĩ thĩinĩ wa rũgendo rwa mũico rwa kũũrwo nĩ meciria no ahote kũhũthĩra maũndũ maya?",
+        "a": "Kaingĩ, ĩĩ, arĩ hamwe na mũndũ ũkũmũteithĩrĩria. Ambĩrĩria na Caria ĩrĩa ĩhaana ũguo ũhũthĩrĩte mbica igĩrĩ, Ringithania mbica ũhũthĩrĩte tũbathiĩ tuna, ihũra rĩa kũhaka marangi kana ihinda inini rĩa kũhuhĩra thĩ ũhoreri-inĩ. Tũma ĩkorwo ĩtarĩ ndaaya, rũmĩrĩra mwerekera wao na ũtige rĩrĩa mona makĩganio."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Hihi ũhoro wakwa nĩ mũgitĩre?",
+        "a": "Kĩhandĩro gĩkĩ gĩtirĩ akaunti o na gũtirĩ biacara cia kũmenyithia. Tũhũthagĩra Google Analytics nĩguo tũmenye mathangũ marĩa maraceererwo. Mbica iria ũthuurĩte nĩ ũndũ wa Ringithania mbica cionekaga o thĩinĩ wa kĩheani gĩaku kĩa ũhoro na itirĩ rĩ ciumbagwo."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Nũ ũthondekaga Golden Moments?",
+        "a": "Golden Moments nĩ gĩkundi kĩnini gĩthondekaga maũndũ mahooreru ma mbica ma andũ agima nĩ ũndũ wa mĩciĩ na arũmbũiya, thĩinĩ wa kĩhandĩro kĩa ũhoro na ta apu ya tũhũ. Tũtirĩ ndagĩtarĩ, na gũtirĩ kĩndũ gĩkĩ kĩrĩ ũtaaro wa ũrigiti."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "kĩambĩrĩria",
+    "middle": "gatagatĩ",
+    "late": "mũico",
+    "hintOne": "Kaingĩ nĩ kwagĩrĩire rũgendo rwa {list}",
+    "hintMany": "Kaingĩ nĩ kwagĩrĩire ngendo cia {list}",
+    "labelEarly": "Rũgendo rwa kĩambĩrĩria",
+    "labelMiddle": "Rũgendo rwa gatagatĩ",
+    "labelLate": "Rũgendo rwa mũico"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Ũhoro wĩgiĩ mũthako ũyũ",
+    "printable": "No ũcabĩke",
+    "play": "Thaka {name} →",
+    "readGuide": "Thoma ũtongoria"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Wĩhaarĩirie mũthako mũhooreru?",
+    "text": "Mbica nene, gũtirĩ thaa ya gũtara ihinda, gũtirĩ morũngo na gũtirĩ kwĩyandĩkĩithia. Thakai hamwe thĩinĩ wa kĩheani kĩanyu kĩa ũhoro.",
+    "play": "Thaka mũthako",
+    "all": "Rora mĩthako yoothe",
+    "aria": "Thaka mũthako"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Kuua mĩthako ĩno nawe",
+    "text": "Apu ya tũhũ ya Golden Moments nĩ ũndũ wa iPhone, iPad na Android: tũbathiĩ twa mbica nene, mĩthako ĩrĩ na mbica cia famĩlĩ yanyu mwene, na ikundi cia mbica iria irutaga wĩra hatarĩ Wi‑Fi. Gũtirĩ akaunti, biacara cia kũmenyithia, thaa ya gũtara ihinda kana morũngo.",
+    "appStore": "Yoe thĩinĩ wa App Store",
+    "googlePlay": "Yoe thĩinĩ wa Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Ũhoro wĩgiĩ apu",
+    "aria": "Oya apu"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Maũndũ ma gwĩka",
+      "title": "Maũndũ ma Gwĩka nĩ ũndũ wa Andũ arĩa Marĩ na Kũũrwo nĩ Meciria",
+      "seo": "Maũndũ ma Gwĩka nĩ ũndũ wa Andũ arĩa Marĩ na Kũũrwo nĩ Meciria: Mawoni Kũringana na Rũgendo",
+      "description": "Mawoni ma maũndũ ma gwĩka nĩ ũndũ wa andũ arĩa matũũraga na kũũrwo nĩ meciria kũrĩ o rũgendo: nyĩmbo, kũririkana ma tene, mĩruti ya o mũthenya, maũndũ ma kũhutia meciria, mawĩra ma moko, kũndũ nja na morũngo ma gũcabithio ma tũhũ.",
+      "lede": "Ũndũ wĩ bata nĩ kĩndũ o gĩothe kĩrehaga kĩhoorero, muoroto kana ihinda rĩa kũgwatana ngoro. Ambĩrĩria na kĩrĩa mũndũ akenagĩra tene, na ũkĩgarũre gĩkũrũgama wega ũmũthĩ."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Ũrũmbũiya",
+      "title": "Mĩtaratara ya Ũrũmbũiya",
+      "seo": "Mĩtaratara ya Ũrũmbũiya wa Kũũrwo nĩ Meciria: Ũteithio wa Kũhũthĩka wa o Mũthenya",
+      "description": "Mĩtaratara ya kĩteithio na ya tha nĩ ũndũ wa arũmbũiya a andũ arĩa marĩ na kũũrwo nĩ meciria: gũthaka mĩthako hamwe, kwaranĩria, kũrega maũndũ, kũrega gũkora thaayũ hwaĩ-inĩ, tabuleti, gũthura apu na kwĩrũmbũiya we mwene.",
+      "lede": "Ũteithio mũhũthũ na wa kũhũthĩka nĩ ũndũ wa mahinda ma o mũthenya ma kũrũmbũiya mũndũ ũtũũraga na kũũrwo nĩ meciria, nginya kwĩrũmbũiya we mwene."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Ũgima wa tombo",
+      "title": "Ũgima wa Tombo: Kĩrĩa Ũthuthuria Uugĩte",
+      "seo": "Ũgima wa Tombo na Ũgwati wa Kũũrwo nĩ Meciria: Kĩrĩa Ũthuthuria Uugĩte",
+      "description": "Hihi kũũrwo nĩ meciria no kũgirĩrĩrio? Mĩtaratara ya ma na ĩrĩ na mĩhĩrĩgo ĩgiĩ maũndũ marĩa marehaga ũgwati wa kũũrwo nĩ meciria, mĩthako ya tombo, kwĩhinga irio, irio, rũthaambo rwa mwĩrĩ, toro, kũigua na rũrĩrĩ rwa kĩambĩrĩria.",
+      "lede": "Kĩrĩa ũthuthuria mũnene wonanĩtie biũ kũhoria ũgwati wa kũũrwo nĩ meciria, gĩtaarĩtio na ũhũthũ, hamwe na harĩa ũira ũtanyitĩte wega kana ũtukanĩte. Ũhoro wa kĩũndũ o ũndũ, ti ũtaaro wa ũrigiti."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Gĩkĩrĩtwo kĩerũ",
+    "minuteRead": "Gũthoma kwa ndagĩka {n}",
+    "byTeam": "Nĩ gĩkundi kĩa Golden Moments",
+    "howWeWrite": "Ũrĩa twandĩkaga",
+    "shortAnswer": "Icookio rĩkuhĩ",
+    "onThisPage": "Thĩinĩ wa rũkungu rũrũ (icunjĩ {n})",
+    "commonQuestions": "Ciũria iria ciũragio kaingĩ",
+    "sources": "Kĩhumo kĩa ũhoro",
+    "sourcesNote": "Nĩ tũnyitanĩte na ikundi na mothuthuria marĩa rũkungu rũrũ rwĩhokete. O kĩmwe nĩ kĩarorirwo rĩrĩa rũkungu rũkĩrĩtwo kĩerũ.",
+    "tryTogether": "Geriei hamwe",
+    "relatedGuides": "Mĩtaratara ĩngĩ ĩhaanaine",
+    "related": "Ihaanaine",
+    "startHere": "Ambĩrĩria haha"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Ũhoro wa kũmenya ũgima wa mwĩrĩ",
+    "title": "Ũhoro wa kũheana ũmenyo, ti ũtaaro wa ũrigiti",
+    "textHtml": "Rũkungu rũrũ nĩ rũkunyanĩirie ũthuthuria wandĩkĩtwo nĩ ũndũ wa mĩciĩ. Rũtingĩhota gũkwĩra kĩrĩa kĩagĩrĩire mũndũ ũmwe mwene. Arĩria ndagĩtarĩ mbere ya kũgarũra irio, rũthaambo rwa mwĩrĩ, toro, ndawa kana mongerere ma mwĩrĩ. Kũngĩoneka kũhĩngĩca kwa na ihenya kana mogarũrũku mangĩ ma narua, caria ũteithio wa ndagĩtarĩ o rĩu. <a href=\"/medical-disclaimer/\">Thoma ũhoro witũ wa kũmenya ũgima wa mwĩrĩ</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Ũndũ wa Gwĩka Hamwe, Ti Kĩgeranio kĩa Kĩririkano",
+      "seoTitle": "Ũhoro wĩgiĩ Golden Moments: Mũtaratara Witũ",
+      "description": "Kĩrĩa gĩtũmaga mĩthako ya Golden Moments ĩtikorwo na thaa cia gũtara ihinda, morũngo kana mĩhango ĩrũmanĩrĩire, kĩrĩa gĩtũmaga mbica ikare ciikĩonanie, na kĩrĩa tũngĩuga na tũtingĩuga kĩĩgiĩ kũũrwo nĩ meciria.",
+      "crumb": "Mũtaratara witũ",
+      "lede": "Golden Moments ĩthondekaga maũndũ mahooreru ma mbica ma andũ agima marĩa mũrũmbũiya na mũndũ ũrĩa ũtũũraga na kũũrwo nĩ meciria mangĩkenera arĩ hakuhĩ nake.",
+      "bodyHtml": "<h2>Ũrĩa twĩtĩkĩtie</h2><p>Kĩhoto kĩa ithaako nĩ ihinda rĩu rĩenyene: kwarĩria maũndũ hamwe, gũtheka, gĩkeno kĩa gũkũhanyia mbica igĩrĩ, kana gũkora mũikarĩte hamwe hakuhĩ na ũhoreri. Ti kũgera mũndũ ũhoti wake, kũmũhatĩrĩria athingate maũndũ, kana kuonania ũndũ o wothe.</p><p>Purogiramu nyingĩ cia tombo ciakĩtwo igũrũ rĩa ihenya, makisi, kũthiĩ na mbere na gũkũria ngerekano. Kũrĩ mũndũ ũrĩ na kũriganĩrwo, ũcio ũngĩtuĩka ta kĩgeranio atangĩhota kũkĩria. Ithuĩ twathondekire kĩndũ gĩkĩ kĩhũranĩte biũ na macio, na nĩ twĩrũmĩtie harĩ mawatho maya:</p><ul><li><strong>Gũtĩ kĩndũ gĩa kũgũa.</strong> Gũtirĩ thaa, makisi, kũtara matambũrĩro, mĩoyo, mĩrũrũmo ya confetti kana kũtara ihinda rĩgĩthira, kĩhũro-inĩ o giothe.</li><li><strong>Kũmenya mĩhianĩre gũkĩra kũririkana meciria-inĩ.</strong> Mbica itũũraga cionekete o rĩrĩ. Ciũria cirehaga ndeereti na itikũragia marĩĩtwa kana kũthuthuria kĩririkano.</li><li><strong>Nene, hũthũ na ndĩrũmu.</strong> Randi na mbica nene, ũtheri mwega wa kũhũrana marangi, na harĩa ha kũhutia hatagarũragwo handũ.</li><li><strong>Gĩtĩo kĩa andũ agima.</strong> Mbica cia maũndũ ma ma ma thĩ na ciugo ndwarũ cia kĩeha kĩnini na ũhoreri. Gũtirĩ mbica cia katuni, kũgaathĩrĩzia na rwĩmbo ta twana kana ihembe cia emoji.</li><li><strong>Njĩra hũthũ ya kũrĩkĩria.</strong> “Nĩ ndigana rĩu” nĩ ĩtuuraga ĩroneka hĩndĩ ciothe. Gũtiganĩria gatagatĩ nĩ ũndũ mwega biũ.</li><li><strong>Hitho kuuma kĩambĩrĩria.</strong> Gũtirĩ kũhingũra akaunti kana mĩhianĩre ya ndũnyũ. Mbica iria wathura ciikaraga thĩinĩ wa kĩgwatĩro gĩaku kĩu o kĩu.</li></ul><h2>Maũndũ marĩa tũtoiigamba</h2><p>Ithaako ciitũ nĩ cia kũrehe gĩkeno na kũnyitanĩra hamwe. Itirĩ cia gũtuĩria mũrimũ, kũgeria, kũthima, kũhonia, kũrũgamia kana kũgirĩrĩria mũrimũ wa kũriganĩrwo kana mũrimũ wa Alzheimer’s, na gũtirĩ mũndũ wagĩrĩirwo nĩ gũcithura nĩ ũndũ wa mawoni macio. Rĩrĩa twandĩka ũhoro wa ũthuthuria thĩinĩ wa <a href=\"/brain-health/\">mabara maitũ ma ũgima wa tombo</a>, tuugaga wega kũrĩa ũira ũrĩ mũhũthũ, na tũtiũnyitanagia o na hanini na ithaako ciitũ mwene.</p><h2>Ithuĩ nĩ we</h2><p>Golden Moments nĩ gĩkundi kĩnini kĩĩrũgamĩrĩire gĩkĩ. Tũtirĩ ndagĩtarĩ a gũthĩnja kana a mathibitarĩ. Mabuku maitũ mandĩkĩtwo kuuma kũrĩ mawatho maandĩke nĩ mĩhothi ta National Institute on Aging na Alzheimer’s Association, na o ibuku nĩ rĩonanĩtie kũrĩa ũhoro woimire. Thoma <a href=\"/editorial-policy/\">ũrĩa twandĩkaga na kũrora mabara maitũ</a>.</p><h2>Twĩre kĩrĩa kĩngĩteithia</h2><p>Tũngĩkenera mũno kũigua kĩrĩa kĩragũteithia na kĩrĩa gĩtĩkũruta wĩra, makĩria kuuma kũrĩ andũ arĩa marĩ na kũriganĩrwo, andũ a famĩlĩ arĩa mamamenyagĩrĩra hamwe na arĩa marutanaga wĩra wa ithaako. Tũtũmĩre ndũmĩrĩri kũrĩ <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Ũrĩa Twandĩkaga na Kũrora Mabara Maitũ",
+      "seoTitle": "Mũtaratara wa Wandĩki",
+      "description": "Ũrĩa Golden Moments ĩthuthuragia, yandĩkaga, yoyaga ũhoro kuuma kũrĩ ithooko na kũmĩĩkĩra icio njerũ harĩ mabara mayo ma ciĩko cia kũriganĩrwo na ũgima wa tombo, na maũndũ marĩa tũtikanarehe o na rĩ.",
+      "crumb": "Mũtaratara wa wandĩki",
+      "bodyHtml": "<h2>Ithooko citũ cia ũhoro</h2><p>Mabuku maitũ ma kũhũra njĩra twamomĩte harĩ ũtaaro wa kĩĩmũingĩ kuuma mĩhothi-inĩ ta National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance na NHS, o hamwe na ũthuthuria ũrorirwo nĩ athomi angĩ a maũndũ macio ta ũhoro wa Cochrane na magerio manene ma kĩĩndagĩtarĩ. O ibuku nĩ rĩronania ithooko iria rĩrũmĩrĩire. Nĩ tũthomagĩra gĩthooko o kĩũ mbere ya kũkĩgweta, na twandĩkaga o kĩrĩa kĩonanĩtio kũna kũrĩ kĩo.</p><h2>Ũrĩa twandĩkaga</h2><ul><li>Maũndũ marĩa mangĩhũthĩka mbere: kĩrĩa kĩngĩĩkwo ũmũthĩ, na rũthiomi rũhũthũ.</li><li>Kũheana ũhoro wa ma igũrũ rĩa ũira: tuugaga “nĩ ĩkonainie na”, “no kũhote kũgĩa” na “ũira ndũrĩ handũ hamwe” rĩrĩa ũcio nĩguo ũhoro ũrĩ.</li><li>Gĩtĩo: twandĩkaga igũrũ rĩa andũ arĩa matũũraga na kũriganĩrwo ta andũ agima, na tũtihũthagĩra ciugo cia kũmageria kana kũmaconorithia.</li><li>Gũtĩ maũndũ ma kũmbwo: gũtirĩ ndari cia kũnengerera, ciugo cia kwĩringia, kũgweta akĩĩma matarĩ ho, ithuthuria cia kwĩtungania kana ũira wa kũheenia.</li></ul><h2>Nu ũroraga mabara maitũ</h2><p>Mabara maya mandĩkagwo na makarorwo nĩ gĩkundi kĩa Golden Moments, marĩ na ũteithio wa indo cia kwandĩka cia kĩĩ-AI harĩ ũthuthuria na kũthondeka kĩambĩrĩria. O bara nĩ rĩroragwo rĩngĩ kwĩgerekanio na ithooko ciario nĩ gĩkundi kĩu. Mabara maitũ <strong>matiarorirwo</strong> nĩ ndagĩtarĩ o na ũmwe kana mũramati wa ũgima wa mwĩrĩ, na tũtiugaga ũguo o na hanini. Nĩ maũndũ ma kĩĩmũingĩ ma kũmenya tu, ti ũtaaro wa kĩĩndagĩtarĩ.</p><h2>Maũndũ marĩa tũtikanarehe o na rĩ</h2><ul><li>Kwĩgamba atĩ thaako, irio, mũthaiga wa gũtĩrĩria mwĩrĩ, kũrĩĩra kana mũtaratara wa o mũthenya nĩ ũgirĩrĩria, ũrahonia, ũrateithia kũrũgamia kana kũhonokia mũrimũ wa kũriganĩrwo.</li><li>Igeranio, ciũria cia gũtua ciama kana makisi iria ikonania mũndũ arĩ, kana ndarĩ, na mũrimũ wa kũriganĩrwo.</li><li>Ũtaaro wa kwambĩrĩria, gũtiga kana kũgarũra ndawa o yothe.</li><li>Kũmenyithia biacara kana maũndũ ma gũkũria ndũnyũ makoniĩtwo ta marĩ ũtaaro mũrũngʼarũ.</li></ul><h2>Kũgarũrĩrwo na gũtherio maũndũ</h2><p>O bara nĩ rĩonanagia mũthenya ũrĩa rĩerĩkirwo rĩka rĩerũ. Ungĩkora mahĩtia kana gĩthooko kĩrĩkĩtie gũthira ihinda, tũtũmĩre ndũmĩrĩri kũrĩ <a href=\"mailto:{email}\">{email}</a> na nĩ tũkũmĩrora na ihenya.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Ciũria na Macokio",
+      "seoTitle": "Ithaako na Ciĩko cia Andũ arĩa marĩ na Kũriganĩrwo: Ciũria na Macokio",
+      "description": "Macokio ma ciũria iria ciũragio mũno igũrũ rĩa ithaako na ciĩko cia andũ arĩa marĩ na kũriganĩrwo: ithaako rĩrĩa rĩngĩgerio, ihinda rĩa gũthaaka, mawoni ma hĩndĩ ĩrĩa kũriganĩrwo gũkũrĩte, ũgima wa tombo na hitho.",
+      "crumb": "Ciũria na macokio",
+      "lede": "Macokio marũngʼarũ na mahũthũ harĩ ciũria iria arerani moragia mũno.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Igũrũ rĩa ithaako",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Nĩ ithaako rĩrĩkũ rĩega biũ kũrĩ mũndũ ũrĩ na kũriganĩrwo?",
+              "a": "Ithaako rĩrĩa rĩega biũ nĩ rĩrĩa rĩoĩkaine wega, rĩhũthũ na rĩtarĩ na kũhinyĩrĩria, na rĩrĩa rĩagĩrĩire nĩ o rĩrĩa mũndũ wanyu arakenera ũmũthĩ. Gũkũhanyia mbica iria cionekete, gũthura indo, ithaako cia kũnyitanagia mbica ciahũthĩrĩria, kũrĩkĩria thimo iria cimenyeretwo, gũthondeka marangi na bingo ya mbica ciothe nĩ iteithagia andũ aingĩ wega. Thengia thaa, makisi na kĩndũ o gĩothe kĩngĩĩgua ta kĩgeranio."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Hihi ithaako ici nĩ cia tũhũ kũna?",
+              "a": "Ĩĩ. Mathako mothe na maratathi ma gũcabithia nĩ ma tũhũ, gũtirĩ vata wa gũthondeka akaunti, kwĩandĩkithia, gũkobia kĩndũ o na kĩrĩkũ, kana kwendĩrio maũndũ ma biacara."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Nĩ kĩĩ gĩtũmĩte gũtikagĩe na maksi, ngathĩka, kana ithaa rĩa gũtara mahinda?",
+              "a": "Ihenya na kũgĩa na maksi itũmaga ũndũ mwega wa gũkenerũka ũtuĩke ta kĩgeranio, kĩrĩa kĩngĩrehe thoni kana gũtangĩka ngoro. Muoroto witũ nĩ gũkenera na gũkora ihinda hamwe, kwoguo gũtirĩ kĩndũ mũndũ angĩka na age, na no mũtigithĩrie rĩrĩa rĩothe mwareka."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Nĩ indo irĩkũ ciigana wega makĩria gũtũmĩra?",
+              "a": "Thimũ, tabuleti, kana kompiuta o yothe ĩrĩ na kĩhũngĩro gĩa thimo kĩa ica ikũhĩ. Tabuleti ĩigĩtwo igũrũ rĩa metha ĩrĩ na gĩtĩ nĩyo kaingĩ ĩkoragwo ĩhũthĩkĩte wega makĩria kũrĩ andũ erĩ mathaake me hamwe hakuhĩ. Kompiuta ya moko ĩnyitanĩtio na TV nĩ ĩrutaga wĩra wega mũno kũrĩ gĩkundi kĩa andũ aingĩ."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "No tũthaake na mbica citũ cia famĩlĩ?",
+              "a": "Ĩĩ. Ithako rĩa Gũcũranĩria Mbica (Photo pairs) rĩgarũraga mbica 2 nginya 6 iria mwathuurĩte igatuĩka ithako rĩa gũtũrania mbica cianana. Mbica icio citũũraga thĩinĩ wa kĩhũngĩro kĩanyu kĩa thimo na ititũmagwo handũ kana kũigwo."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Maũndũ ma gwĩka na kũrũmbũiya",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Ithako rĩagĩrĩirwo gũtũũra ihinda rĩigana atĩa?",
+              "a": "Kaingĩ ndagĩka 10 nginya 20 nĩ nyingĩ biũ, na rĩmwe o na ndagĩka 2 nĩ ũteithio mũnene. Rorai kũrĩ mbica cia kũnoga kana gũtangĩka ngoro, mũtigithĩrie hĩndĩ ĩrĩa kĩrĩ kĩega ngoro-inĩ. Gũtirĩ ihinda rĩmwe rĩtua rĩrĩa rĩagĩrĩire."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Gũkaagĩa atĩa angĩkorwo mũndũ wanyu ndangĩenda gũthaaka?",
+              "a": "Tĩĩyai kũrega kũu, na mũgere rĩngĩ thutha-inĩ kana na njĩra ĩngĩ. Kũrega no kuume kũnoga, ruo, gũkorwo mũndũ atarĩ na ũũgĩ kũrĩ ũndũ ũcio, kana o kwaga kwenda rĩu. Rorai ũtaaro witũ wa maũndũ ma gwĩka rĩrĩa mũndũ arega."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Nĩ maũndũ marĩkũ magĩrĩire mũno hĩndĩ ĩrĩa mũrimũ wa kũũrwo nĩ meciria ũkũrĩte makĩria?",
+              "a": "Ũhoro wa ũhooreru na maũndũ ma mwĩrĩ: gũthikĩrĩria nyĩmbo iria mendete, kũrĩmũra moko na maguta, kũrora mbica hamwe, gũkumbatĩra burangĩti ĩrĩ yororo, gũikara thĩ nja heho-inĩ, kana ithako rĩhũthũ mũno rĩa mbica me na mũndũ ũmwe hakuhĩ nao. Ũtaaro witũ wa hĩndĩ ĩrĩa mũrimũ ũkũrĩte nĩ ũrĩ na mawoni mangĩ maingĩ."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Nĩ kũrĩ maũndũ mangĩkwo nĩ ikundi thĩinĩ wa mĩciĩ ya kũrũmbũiya akũrũ?",
+              "a": "Ĩĩ. Ithako rĩa Picture bingo rĩrĩ na maratathi ma gũcabithia na mũthomi kĩhũngĩro-inĩ, nacio Finish the saying hamwe na kaada cia kwaria (Conversation cards) nĩ irutaga wĩra wega rĩrĩa ithometwo na mũgambo mũnene. Ũtaaro witũ wa ikundi cia mĩciĩ ya kũrũmbũiya nĩ ũkoragwo na ũhoro wa ũnene wa gĩkundi, mĩikarĩre, na kũgarũra mathako nĩguo magĩrĩire o mũndũ kũringana na ũhoti wake."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Ũgima wa meciria na tombo",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Hihi mathako no magirĩrĩrie kana mathuthie kũũrwo nĩ meciria?",
+              "a": "Gũtirĩ ithako o na rĩmwe rĩonanĩtio atĩ no rĩgirĩrĩrie kũũrwo nĩ meciria, na mathako maitũ matiugaga ũguo o na hanini. Gũthugũnda meciria harĩ gĩkundi kĩa andũ nĩ kuonanĩtio ũthuthuria-inĩ atĩ no kũrehe kĩguni kĩnini kũrĩ andũ arĩa maratũũra na kũũrwo nĩ meciria gwa gĩkĩro kĩa thĩ kana kĩgatagatĩ, ĩndĩ ũndũ ũcio nĩ ngũrani na ithako kũgirĩrĩria mũrimũ. Ithako ritũ nĩ rĩa gũtũma andũ makene na marũmanĩrĩre hamwe."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Hihi kũũrwo nĩ meciria no kũgirĩrĩrio?",
+              "a": "Ti na ma biũ. Ũthuthuria nĩ wonanĩtie maũndũ 14 marĩkoniĩ ũgima wa mwĩrĩ na mĩtũũrĩre marĩ na ngwatanĩro na ũgwati wa kũũrwo nĩ meciria, ta gũtua matũ, thakame gũtuurĩra igũrũ, kwaga kũrũta wĩra wa mwĩrĩ, na gũtũũra mũndũ e wiki hatarĩ andũ angĩ. Kũrũmbũiya maũndũ macio no kũnyihe ũgwati ũcio kũrĩ andũ amwe, ĩndĩ andũ aingĩ arĩa meka maũndũ mothe wega no magĩe na kũũrwo nĩ meciria. Gũtirĩ mũndũ o na ũmwe ũrĩ na mahĩtia."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Hihi kwaga kũrĩa ihinda rĩamũre (intermittent fasting) nĩ kwega harĩ ũgima wa tombo?",
+              "a": "Ũira wonekete kũrĩ andũ nĩ mũnini mũno na nĩ wa kĩambĩrĩria, naguo ũthuthuria ũrĩa mũingĩ ũkoretwo ũkĩrũtĩrwo kũrĩ nyamũ. Kwaga kũrĩa kĩndũ no gũtũme gũgĩe na ũgwati kũrĩ andũ akũrũ, makĩria arĩa maranyua ndawa cia sukari kana arĩa morũrĩtwo nĩ ũritũ gũtekũrirũka, na gũtitaarĩtwo kũrĩ andũ arĩa maratũũra na kũũrwo nĩ meciria. Aria na ndagĩtarĩ mbere ya kũgarũra mũtaratara waku wa irio."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Ũhoro wa kĩũmbe na ũgitĩri",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Hihi nĩ mũcokanagĩrĩria ũhoro o wothe wĩkoniĩ andũ?",
+              "a": "Gũtirĩ akaunti kana mawoni ma biacara. Tũhũthagĩra Google Analytics gũtara andũ arĩa maceera na kũmenya maratathi marĩa marateithia, nakĩo kĩhũngĩro gĩaku nĩ kĩririkanaga kana nĩ warakirie mĩgambo mĩhooreri. Mbica iria wathuurĩra Photo pairs ititiagwo thĩinĩ wa intaneti o na rĩmwe. Rora ũhoro wa ũgitĩri wa kĩũmbe nĩguo wone maũndũ mothe."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Hihi ũyũ nĩ ũtaaro wa kĩndagĩtarĩ?",
+              "a": "Aca. Golden Moments nĩ ya gũkenera na kũheana ũhoro wa kĩũndũ o ũrĩa ũkoretwo ũrĩ. Rĩrĩa ũrĩ na ciũria cia ũgima wa mwĩrĩ, aria na ndagĩtarĩ, na hĩndĩ ya mĩtũkĩ ĩtĩria thimũ ya 999 kana 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Ũhoro makĩria: <a href=\"/caregiving/how-to-play-together/\">ũrĩa mũngĩthaaka hamwe</a>, <a href=\"/caregiving/when-they-say-no/\">rĩrĩa marega</a>, <a href=\"/activities/late-stage/\">maũndũ ma hĩndĩ ĩrĩa mũrimũ ũkũrĩte</a> na <a href=\"/brain-health/can-dementia-be-prevented/\">hihi kũũrwo nĩ meciria no kũgirĩrĩrio?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Mathako ma Tũhũ na Mahooreri ma Andũ Arĩa Maratũũra na Kũũrwo nĩ Meciria",
+      "seoTitle": "Iratathi rĩa Gũcabithia: Mathako ma Tũhũ ma Kũũrwo nĩ Meciria Kũndũ kwa Intaneti",
+      "description": "Iratathi rĩmwe rĩa gũcabithia rĩa famĩlĩ na arũmbũiya rĩkoniĩ mathako ma tũhũ na mahooreri ma mbica ma andũ arĩa maratũũra na kũũrwo nĩ meciria, rĩa ikundi cia kũteithĩrĩria na mĩbango ya ũrũmbũiya.",
+      "crumb": "Iratathi rĩa gũcabithia",
+      "lede": "Cabithia rũratathi rũrũ nĩ ũndũ wa gĩkundi kĩa ũteithio, mĩbango ya ũrũmbũiya kana mũrango-inĩ wa firinji. Hũthĩra watho wa gũcabithia (Print) thĩinĩ wa kĩhũngĩro gĩaku; mĩtaratara na tũcunjĩ twa kũhinyia itirĩ thĩinĩ wa karatathi karĩa gacakabithio.",
+      "introHtml": "<p>Mbica nene, ciugo therie na gũtirĩ kĩndũ kĩa kũhĩtia. Nĩ ma tũhũ thĩinĩ wa thimũ, tabuleti kana kompiuta, hatarĩ kwĩandĩkithia, mĩbango ya biacara, gũtara mahinda kana kũhũũra maksi. Ikarai hakuhĩ mũrũmanĩrĩire na mũthaake mũkĩturanagĩra.</p>",
+      "gamesTitle": "Mathako ma kũgeria hamwe",
+      "restHtml": "<h2>Mawoni manini</h2><ul><li>Thuurai ihinda rĩa mũthenya rĩrĩa mũndũ wanyu akoragwo arĩ mũhooreru makĩria.</li><li>Ambĩrĩriai na ũrĩa mũhũthũ makĩria. Tũcunjĩ tuna nĩ tũiganu mũno.</li><li>Ariei ũhoro wĩkoniĩ mbica icio. Ndeereti kaingĩ nĩyo ĩkoragwo ĩrĩ kĩndũ kĩega makĩria.</li><li>Tigithĩriei hĩndĩ ĩrĩa kĩrĩ kĩega ngoro-inĩ. Kũrĩkĩrĩria tene nĩ ũndũ mwega mũno.</li></ul><h2>O na kũrĩ thĩinĩ wa kĩharo gĩkĩ</h2><ul><li>Maratathi ma tũhũ ma gũcabithia: gũcaria ciugo cia maandĩko manene, maratathi ma gũhaka rangi, kaada cia kwaria na picture bingo.</li><li>Mawoni ma maũndũ ma gwĩka kũrĩ o kĩgĩro, na mĩtaratara ya gũthaaka hamwe na kwĩrũmbũiya mwene.</li></ul><p class=\"muted\">Nĩ ũndũ wa gũkenera na gũtũũra hamwe. Ti ũtaaro wa kĩndagĩtarĩ, kĩgeranio kana kũhonio. Golden Moments ĩcabĩthĩtio nĩ Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Kũrĩ Mĩciĩ ya Kũrũmbũiya Akũrũ, Nyũmba cia Mabuku na Ikundi cia Ũteithio",
+      "seoTitle": "Mĩhang'o ya Tũhũ ya Andũ arĩa Marĩ na Mathĩna ma Kũriganĩrwo nĩ ũndũ wa Mĩciĩ ya Kũrera na Ikundi",
+      "description": "Ũrĩa mĩciĩ ya kũrera, mĩbango ya mĩthenya ya andũ agima, nyũmba cia mabuku, honge cia kũrũmbũiya akũrũ na ikundi cia ũteithio ihũthagĩra mĩthako iitũ ya tũhũ ya andũ arĩa mariganagĩrwo, hamwe na ciugo cia gũtũĩkĩra rũrenda-inĩ rwanyu rwa maũndũ ma ũteithio.",
+      "crumb": "Nĩ ũndũ wa honge na ikundi",
+      "lede": "Kĩndũ o gĩothe gĩkĩ thĩinĩ wa rũrenda rũrũ nĩ kĩa tũhũ kũhũthĩra hamwe na aikari, memba na andũ arĩa mũrũmbũyagia, hatarĩ akaunti, rũtha rwa marĩhi kana thĩna o wothe. Thĩnji ĩno nĩ ĩrataarĩria kĩrĩa gĩothe kĩrĩ gũkũ na ũrĩa mũngĩkĩgayana.",
+      "shortText": "{name}: mĩthako ya tũhũ na mĩhũthũ ya mbica hamwe na motaaro ma mĩhang'o nĩ ũndũ wa andũ arĩa marĩ na mũrimũ wa kũriganĩrwo na arũmbũiya ao. Gũtirĩ kwĩyandĩkithia, gũtirĩ thaaha ya gũtua ihinda, na gũtirĩ marũrũ ma kũgaana.",
+      "longText": "{name} ({domain}) nĩ ĩheanaga mĩthako {count} ya tũhũ ya rũrenda ĩthondekeirwo andũ arĩa marĩ na mũrimũ wa kũriganĩrwo, hamwe na gũkuhanania mbica iria itigarĩtwo cionekete, jigsaw ĩhũthũ, gũthuurania mĩthemba, thimo iria cĩĩkaine na bingo ya mbica ĩrĩ na kaada ciagũcabiwo. Gũtirĩ akaunti, mathandĩko ma biacara, thaaha ya gũtua ihinda kana marũrũ. Rũrenda rũrũ nĩ rũrĩ na motaaro ma mĩhang'o mandĩkĩtwo na rũthiomi rũhũthũ nĩ ũndũ wa o kĩgarũrĩro gĩa mũrimũ wa kũriganĩrwo marĩa marũmanĩrĩire na maũndũ ma National Institute on Aging na Alzheimer's Association.",
+      "useTitle": "Kĩrĩa honge na ikundi ingĩhũthĩra",
+      "gamesItemHtml": "<strong>Mĩthako {count} ya rũrenda</strong> ĩrĩa ĩthakagĩrwo thĩinĩ wa kompiuta ya moko, tebuleti kana TV ĩkuhanĩtio na kompiuta. Gũtirĩ kwĩkĩra purogramu, akaunti kana kũruta maũndũ intaneti-inĩ. Rora <a href=\"/games/\">mĩthako yothe</a>.",
+      "printablesLabel": "Maũndũ {count} mangĩcabiwo:",
+      "printablesAfter": "Hũthĩra gĩcunjĩ kĩa Gũcaba harĩ o thĩnji.",
+      "moreItemsHtml": "<li><strong>Mĩthemba ya ikundi:</strong> <a href=\"/games/picture-bingo/\">Bingo ya mbica</a> ĩrĩ na kaada cia gũcaba na mũtũmĩri ũrĩa ũkĩraga kũrĩ rũkũngũ, na <a href=\"/activities/trivia/\">ciũria mahũthũ</a> irĩ na ciũria 50 hamwe na macokio ma gũthuurwo na maũndũ ma kwaranĩria.</li><li><strong>Motaaro ma mĩhang'o</strong> nĩ ũndũ wa aruti wĩra na famĩlĩ, kũringana na igarũrĩro na mũthemba, mandĩkĩtwo na rũthiomi rũhũthũ hamwe na kũrĩa maumĩte. Ambĩrĩria na <a href=\"/activities/ideas/\">meeciria 101 ma mĩhang'o</a> kana <a href=\"/activities/care-home-groups/\">mĩhang'o ya ikundi nĩ ũndũ wa mĩciĩ ya kũrera</a>.</li>",
+      "restHtml": "<h2>Ũrĩa ikundi ikĩhũthagĩra</h2><ul><li><strong>Mĩciĩ ya kũrera na ũrũmbũiya wa meciria:</strong> bingo ya mbica kana gũtĩrĩria thimo thĩinĩ wa TV ya rumu ya aikari othe, mũndũ ũmwe akĩhinyagĩrĩria gĩkundi.</li><li><strong>Mĩbango ya mĩthenya ya andũ agima:</strong> handũ ha tebuleti harĩ na gũkuhanania mbica kũigĩtwo tũcunjĩ tuna, nĩ ũndũ wa mahinda makuhĩ ma mũndũ na ũmwe.</li><li><strong>Nyũmba cia mabuku cia mwingĩ:</strong> macaria ma ciugo macabitwo na kaada cia kwaranĩria thĩinĩ wa tũsandũkũ twa meciria, na rũrenda rũkĩigwo he bukũmaki thĩinĩ wa tebuleti cia nyũmba ya mabuku.</li><li><strong>Ikundi cia ũteithio wa arũmbũiya na kũndũ gwa gũceera kĩa meciria:</strong> <a href=\"/handout/\">karatathi kamwe ka gũcaba</a> nĩ ũndũ wa famĩlĩ gũthiĩ nako mũciĩ.</li><li><strong>Thibitarĩ na arũmbũiya a kuuma thibitarĩ:</strong> karatathi kau thĩinĩ wa makũha ma arũmbũiya, nĩ gĩtũmi gĩa kĩndũ gĩkĩndĩru gĩa gwĩka mũciĩ kana handũ ha kũrara.</li></ul><h2>Kĩrĩa tũtekaga</h2><p>Mĩthako ĩno nĩ ya gĩkeno na kũhũthĩra mahinda hamwe. Ndĩringaga ũrũaru, ndĩgeragia, ndĩheanaga marũrũ, ndĩhonagia kana gũtĩria mũrimũ wa kũriganĩrwo, na nĩ tũũragia honge citige kũmĩtaarĩria na njĩra ĩyo. Gũtirĩ mathandĩko ma biacara, na mĩthako ndĩũragia marĩĩtwa, ũhoro wa ũgima wa mwĩrĩ kana mbica ciĩkĩrwo rũrenda-inĩ. Rũrenda rũhũthagĩra Google Analytics gũtara andũ arĩa maroceera; <a href=\"/privacy/\">kĩmenyithia giitũ kĩa ũthithe</a> nĩ gĩtaaragĩria kĩrĩa kĩũnganagio. Mbica iria ihũthĩrĩtwo thĩinĩ wa <a href=\"/games/photo-pairs/\">Photo pairs</a> itigaraga thĩinĩ wa biraũja yaku.</p><h2>Tũĩkĩre mũkũkũ-inĩ waku wa maũndũ ma ũteithio</h2><p>Angĩkorwo wĩ na mũkũkũ wa maũndũ ma gũteithia arũmbũiya, nĩ wamũkĩrwo kwĩkĩra rĩĩrĩte rĩa <a href=\"/\">{domain}</a>. No ũkobie ũhoro o wothe harĩ ĩno ĩĩgĩrĩ.</p>",
+      "shortTitle": "Ũhoro mũkuhĩ",
+      "longTitle": "Ũhoro mũraihu",
+      "linksHtml": "<p>Thĩnji iria ciagũteithia kũrũmanĩrĩria nacio imwe kwa imwe: <a href=\"/games/\">mĩthako ya tũhũ</a>, <a href=\"/activities/printable/\">maũndũ ma tũhũ ma gũcaba</a>, <a href=\"/activities/alzheimers/\">mĩhang'o ya Alzheimer's</a> hamwe na <a href=\"/caregiving/how-to-play-together/\">ũrĩa mũngĩthaaka hamwe</a>.</p><h2>Ciũria kana kũrũnga</h2><p>Angĩkorwo harĩ kĩndũ kĩhĩtanu kana gĩtatũũkĩte thĩinĩ wa rũrenda rũrũ, kana mabataro ma mũikari matiakinyanĩrio nĩ kĩrĩa kĩrĩ gũkũ, twĩre thĩinĩ wa <a href=\"mailto:{email}\">{email}</a>. Thaai tũtĩkĩreheere ũhoro wa mũndũ kĩũmbe kana ũhoro wa ũgima wa mwĩrĩ wĩgiĩ aikari kana andũ arĩa mũrũmbũyagia.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "App ya Golden Moments",
+      "seoTitle": "App ya Golden Moments nĩ ũndũ wa iPhone na Android",
+      "description": "App ya tũhũ ya Golden Moments: kũhianania mbica kũhũthũ kũrĩ na tũcunjĩ tuna tũnene, mbica cia famĩlĩ ikĩigwo thĩinĩ wa kĩhũũro gĩaku, ikundi cia mbica citarĩ bata wa intaneti na gũtirĩ akaunti.",
+      "crumb": "App ĩno",
+      "lede": "Maũndũ mothe marĩa wendete thĩinĩ wa rũrenda, marĩ thĩinĩ wa app ĩrutaga wĩra o na hatarĩ intaneti na no ĩhũthĩre mbica cia famĩlĩ iria ũthuurĩte.",
+      "worksOn": "Ĩrutaga wĩra thĩinĩ wa {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Ambĩrĩria kahora</h2><p>Ambĩrĩria na tũcunjĩ tũna tũnene na mbica imenyekire wega. Rekei mbica ikare cionekete, kana mũcihithe rĩrĩa mwona nĩ kwagĩrĩire. Mũtaratara ũyũ ũrĩ tha ndũkoragwo na thaa ĩgĩtara, maaraka kana ihũũro. Thuura tũcunjĩ 4, 6, 8 kana 12.</p><h2>Tũma ĩkorwo ĩkoniĩ famĩlĩ yanyu</h2><p>Thuura mbica cia famĩlĩ kũgerera gĩthuurĩro kĩa mbica kĩa thimũ kana tebuleti yaku. App ĩno nĩ ĩigaga kopi nini nĩguo ihũthĩrwo ciĩko-inĩ ici. Ndĩthuthuragia ndebe yaku ya mbica kana ĩgarũre mbica ciaku cia kĩambĩrĩria, na no ĩige nginya mbica 24 kĩũmbĩro-inĩ kĩmwe.</p><h2>Rorai hamwe tu</h2><p>Rorai mbica ĩmwe o rĩmwe. Mawoni ma kwambĩrĩria ndeereti nĩ makũnyita ũgeni kwaranĩria hatarĩ kũria mũndũ aririkane marĩĩtwa kana aheane macokio meega. Kũrora mbica tu nĩ kũigana.</p><h2>Nĩ ĩraruta wĩra hatarĩ intaneti</h2><p>Mbica cia kwambĩrĩria hamwe na ikundi ciothe inyanya cia mbica nĩ ikoretwo thĩinĩ wa app ĩno. Kopi cia mbica iria nyingĩrie nĩ iraruta wĩra hatarĩ intaneti. Gũthuura mbica cia kĩambĩrĩria iria ciigĩtwo o thĩinĩ wa iCloud no kũbatare ũnyitanĩri wa intaneti.</p><h2>Gũtirĩ akaunti, gũtirĩ kĩiga gĩa kũtwara mbica</h2><p>Kopi cia mbica cia famĩlĩ itũũraga thĩinĩ wa app thĩinĩ wa thimũ yaku. No weherie kopi ici hatarĩ kũtheria mbica ciaku cia kĩambĩrĩria. Mũkũĩkĩro wa ũhoro wa thimũ no ũkorwo ũrĩ na ũhoro wa app ĩno. Thoma <a href=\"/app-privacy/\">ũhoro wa kĩmbithĩ wa app</a>, nayo <a href=\"/help/\">ũteithio wa app</a> nĩ ĩronia iteanya o iteanya.</p>",
+      "disclaimer": "Golden Moments ĩrĩ kuo nĩ ũndũ wa kwĩkenia na kwaranĩria hamwe. Ndĩthimaga, ndĩhonagia, ndĩgiragĩrĩria kana gũpimĩra mũrimũ wa kũriganĩrwo kana mũrimũ wa Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Mĩthaako ya Tũhũ ya Intaneti ya Mũrimũ wa Kũriganĩrwo na Alzheimer",
+    "description": "Mĩthaako ya tũhũ ya intaneti nĩ ũndũ wa andũ akũrũ arĩa marĩ na mũrimũ wa kũriganĩrwo kana Alzheimer: kũhianania mbica, thigira hũthũ, kũbanga maũndũ, thimo, gũcora rangi, na bingo. Gũtirĩ kwĩyandĩkithia, thaa cia gũtara, kana maaraka.",
+    "crumb": "Mĩthaako",
+    "h1": "Mĩthaako Ĩrĩ Tha nĩ ũndũ wa Andũ arĩa marĩ na Mũrimũ wa Kũriganĩrwo",
+    "lede": "Mĩthaako {count} ya tũhũ ya gũthaaka hamwe thĩinĩ wa njanjiro yaku ya intaneti. Mbica nene, ciugo hũthũ, na gũtirĩ kũgwa: gũtirĩ thaa cia gũtara, gũtirĩ maaraka, gũtirĩ kwĩyandĩkithia.",
+    "listName": "Mĩthaako ĩrĩ tha nĩ ũndũ wa andũ arĩa marĩ na mũrimũ wa kũriganĩrwo",
+    "byStageTitle": "Gũthuura mũthaako kũringana na gĩkĩro",
+    "byStageLede": "Ikĩro no cia gũkũteithia tu hanini. Rũmĩrĩra kĩrĩa mũndũ ũrĩa ũramenya akenagĩra na kĩrĩa kĩmwagĩrĩire ũmũthĩ.",
+    "stageCol": "Gĩkĩro",
+    "gamesCol": "Mĩthaako ĩrĩa kaingĩ yaganagĩra",
+    "moreHtml": "Meciria mangĩ kũndũ gũtarĩ mbica-inĩ ya thimũ kana kompiuta: <a href=\"/activities/ideas/\">Ciĩko 101 nĩ ũndũ wa andũ arĩa marĩ na mũrimũ wa kũriganĩrwo</a>, <a href=\"/activities/alzheimers/\">ciĩko na mĩthaako nĩ ũndũ wa Alzheimer</a>, <a href=\"/activities/memory-games/\">mĩthaako ĩrĩ tha ya meciria</a> na <a href=\"/activities/puzzles/\">thigira</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Twagĩrĩirwo nĩ kwambĩrĩria na mũthaako ũrĩkũ?",
+        "a": "Gũcũrania mbica igĩrĩ na tũcunjĩ tũna nĩ kĩambĩrĩria kĩega kĩrĩ ũhooreri. Angĩkorwo gũthuura gatagatĩ ka mbica nĩ kũritũhanĩra mũndũ, geriai Kũruta ĩrĩa ĩhaanaine na mbica igĩrĩ. Nĩ ũndũ wa gĩkundi, geriai Bingo ya Mbica."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Hihi mĩthaako ĩno nĩ ĩrutaga wĩra thĩinĩ wa iPad kana thimũ?",
+        "a": "Ĩĩ. O mũthaako nĩ ũrutaga wĩra njanjiro-inĩ ya intaneti thĩinĩ wa thimũ, tebuleti na kompiuta, nacio mbica ikĩneneha igaiyũria kĩgirĩki. Tebuleti ĩigĩtwo igũrũ rĩa gĩtĩĩro kaingĩ nĩyo ĩkoragwo ĩhũthĩkĩte wega nĩ ũndũ wa andũ erĩ."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Hihi mĩthaako ĩno nĩ mĩega kũrĩ mũndũ ũrĩ na mũrimũ wa Alzheimer?",
+        "a": "Ĩĩ. Yũmbĩtwo nĩ ũndũ wa andũ arĩa marĩ na mũrimũ wa kũriganĩrwo, hamwe na Alzheimer, ĩrĩa ĩkoragwo ĩrĩ kĩhumo kĩnene mũno. Mbica itũũraga cionekete, gũkoragwo o na mathuuro manini tu, na gũtirĩ kĩndũ kĩgĩtarĩrwo thaa kana maaraka, kwoguo mĩthaako ĩno ĩhũthagĩra kũmenya indo imenyekire wega handũ ha kũririkana maũndũ meerũ."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Hihi ĩno nĩ mĩthaako ya meciria nĩ ũndũ wa andũ akũrũ?",
+        "a": "Ĩno nĩ mĩthaako ya kũringithania na ya mbica ĩrĩa mũndũ o wothe mũkũrũ angĩkenagĩra, no yombĩtwo ĩtekũgeria ũhoti wa meciria: thĩinĩ wa Kũringithania mbica, mbica itũũraga cionekete o tiga wathuurire gũcihitha. Ibuku ritũ rĩa gũtongoria kũrĩ mĩthaako ya meciria nĩ ũndũ wa andũ akũrũ arĩa marĩ na mũrimũ wa kũriganĩrwo nĩ rĩtaragĩria ũrĩa mũthaako o wothe wa meciria ũngĩtũũrio ũrĩ mũhooreri."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Hihi nĩ kũrĩ mĩthaako ya ikundi thĩinĩ wa nyũmba cia kũrera andũ akũrũ?",
+        "a": "Ĩĩ. Bingo ya mbica ĩrĩ na tũkarata twa gũkaba na mũkũani ũroneka kĩgirĩki-inĩ, nacio Rĩkia thimo hamwe na Tũkarata twa ndeereti nĩ irutaga wĩra wega rĩrĩa irathomerwo igũrũ kũrĩ gĩkundi."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad na Android",
+    "requirements": "iOS 15 kana cia thuutha; Android 7.0 kana cia thuutha",
+    "summary": "App ya tũhũ nĩ ũndũ wa iPhone, iPad na Android ĩrĩ na kũhianania mbica kũrĩ ũhooreri kũgerera tũcunjĩ tũnene tũna nginya ikũmi na twĩrĩ, kũhianania na kũrora mbica cia famĩlĩ iria we mwene wathũũra, na ikundi inyanya cia mbica ciĩ thĩinĩ ĩrĩa irutaga wĩra hatarĩ intaneti. Gũtirĩ akaunti, mathingĩrĩrio ma biacara, thaa cia gũtara kana maaraka.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Kũhianania mbica kũrĩ ũhooreri na tũcunjĩ tũnene 4, 6, 8 kana 12; mbica itũũraga cionekete o tiga wathuurire gũcihitha",
+      "Mbica cia famĩlĩ iria wathũũra nĩ ikopagio igathii thĩinĩ wa app nĩ ũndũ wa kũhianania na kũrorera hamwe",
+      "Rorai hamwe: mbica ĩmwe o rĩmwe ĩrĩ na mawoni ma ndeereti ũngĩenda",
+      "Ikundi inyanya cia mbica ciĩ thĩinĩ wa app; nĩ iraruta wĩra hatarĩ intaneti",
+      "Gũtirĩ akaunti, mathingĩrĩrio ma biacara, kũgũra kĩndũ thĩinĩ wa app, thaa, maaraka kana ihũũro"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Hihi nĩ kũrĩ app ya ciĩko cia andũ arĩa marĩ na mũrimũ wa kũriganĩrwo?",
+        "a": "Ĩĩ. Golden Moments (ĩndĩkĩtwo ta \"{storeName}\") nĩ ya tũhũ thĩinĩ wa App Store na Google Play. Nĩ ĩheanaga kũhianania mbica kũrĩ ũhooreri na tũcunjĩ tũnene, mĩthaako ĩrĩ na mbica cia famĩlĩ iria wathũũra, na ikundi cia mbica iria irutaga wĩra hatarĩ intaneti."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Hihi app ya Golden Moments nĩ ya tũhũ?",
+        "a": "Ĩĩ. Nĩ ya tũhũ gũkobia, hatarĩ mathingĩrĩrio ma biacara, akaunti kana kũgũra kĩndũ thĩinĩ wa app."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Hihi app ĩno nĩ ĩrutaga wĩra hatarĩ intaneti?",
+        "a": "Ĩĩ. Mbica cia kwambĩrĩria hamwe na ikundi ciothe inyanya cia mbica ciĩ thĩinĩ wa app, nacio mbica cia famĩlĩ nĩ iraruta wĩra hatarĩ intaneti hĩndĩ ĩrĩa ciakopĩrwo thĩinĩ wa app. Gũthuura mbica ĩrĩa ĩigĩtwo o thĩinĩ wa iCloud no kũbatare intaneti."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Hihi no ngũhũthĩre mbica citũ mwene cia famĩlĩ?",
+        "a": "Ĩĩ. Thuura mbica ũkĩhũthĩra gacunjĩ ga gũthuura mbica thĩinĩ wa thimũ yaku. App ĩno ĩigaga mbica nini thĩinĩ wa thimũ nĩguo ihũthĩrwo mathako-inĩ mayo, ndĩmatũmaga kũngĩ na ndĩgarũraga mbica iria cia mbere o na atĩa. No ũte mbica icio hĩndĩ o yothe ũkwenda."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Hihi ĩno nĩ app ya kũmenyeria meciria kana gũthima kĩririkano?",
+        "a": "Aca. Golden Moments nĩ ya gũkenera na gũtũũra hamwe. Ndĩrĩ maũndũ ma makoro kana ithimi, na ndĩthimaga, ndĩrigagĩrĩria, ndĩhonagia kana gũthima ũhoro wa kwaga kũririkana (dementia) kana mũrimũ wa Alzheimer’s."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Ĩrutaga wĩra thĩinĩ wa thimũ irĩkũ?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Hihi nĩ kũrĩ app ya ithako rĩrĩ?",
+      "a": "Ĩĩ. App ya Golden Moments ĩrĩa ya tũhũ ya iPhone, iPad na Android ĩrĩ na mathako ma ũhoreri ma kũhũrania mbica, no ĩhũthĩre mbica cia famĩlĩ iria ũgũthuura, na nĩ ĩrutaga wĩra gũtekĩ intaneti. Gũtirĩ akaunti, biacara cia kũmenyithia kana makoro."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Hihi nĩ kũrĩ app ya ithako rĩrĩ?",
+      "a": "Aca, ti ya ithako rĩrĩ. No app ya Golden Moments ĩrĩa ya tũhũ ya iPhone, iPad na Android ĩrĩ na mathako ma ũhoreri ma kũhũrania mbica ĩhũthĩrĩte tũthandũkũ tũnene na mbica cia famĩlĩ iria ũgũthuura, na nĩ ĩrutaga wĩra gũtekĩ intaneti. Ithako rĩrĩ nĩ rĩgũtũũra rĩrĩ rĩa tũhũ gũkũ thĩinĩ wa browser yaku."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: mbica nene na cia gũkenia",
+    "noscript": "Ithako rĩrĩ rĩrabatara JavaScript ĩkĩrio thĩinĩ wa browser yaku. Morutani marĩa marĩ haha thĩ no marute wĩra o na ĩtekĩtio.",
+    "about": "Ũhoro wĩgie {name}",
+    "aboutAria": "Ũhoro wĩgie ithako rĩrĩ",
+    "noTimer": "Gũtirĩ kĩthimi kĩa hĩndĩ kana makoro",
+    "printable": "No ĩrutwo karatasi-inĩ",
+    "howTo": "Ũrĩa ũngĩthaaka {name}",
+    "tips": "Mataaro ma gũthaaka hamwe",
+    "newToPlayingHtml": "Nĩ rĩa mbere gũthaaka na mũndũ ũrĩ na mathĩna ma kũririkana? Thoma <a href=\"/caregiving/how-to-play-together/\">ũrĩa mũngĩthaaka mathako hamwe</a>, nginya ũrĩa ũngĩka angĩaga kũgwatio nĩ ngoro.",
+    "moreAria": "Maũndũ mangĩ ma kũrora",
+    "helpfulGuides": "Mataaro ma gũteithia",
+    "appTitle": "Thakĩra thĩinĩ wa app",
+    "appText": "App ya tũhũ ya Golden Moments ĩrĩ na mathako ma ũhoreri ma kũhũrania mbica ĩhũthĩrĩte tũthandũkũ tũnene na mbica cia famĩlĩ yaku, na nĩ ĩrutaga wĩra gũtekĩ Wi‑Fi. iPhone, iPad na Android.",
+    "photoAppTitle": "Iga mbica ciaku ciĩhaarĩirie",
+    "photoAppText": "Thĩinĩ wa app ya tũhũ ya Golden Moments, mbica iria ũgũthuura itũũraga thĩinĩ wa thimũ yaku nĩguo igathakĩrwo rĩngĩ, na mathako nĩ marutaga wĩra gũtekĩ Wi‑Fi. iPhone, iPad na Android.",
+    "goodToKnow": "Nĩ wega kũmenya",
+    "goodToKnowText": "Ithako rĩrĩ nĩ rĩa gũkena na kũhũthĩra ihinda hamwe. Rĩtirutaga ithimi, rĩtipimaga kana kũhonia kĩndũ o na kĩrĩkũ.",
+    "moreGames": "Mathako mangĩ ma ũhoreri",
+    "crumb": "Mathako"
   }
 }

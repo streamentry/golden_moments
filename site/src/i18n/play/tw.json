@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Kenkan so",
+      "stopReading": "Gyae kenkan",
+      "region": "Agodi",
+      "restart": "Fi ase bio",
+      "soundOn": "Dwoodwoo nne aso",
+      "soundOff": "Dwoodwoo nne asɛe",
+      "done": "Awie ɛnnɛ",
+      "feedbackQuestion": "Ɛboa ɛnnɛ anaa?",
+      "feedbackYes": "Aane",
+      "feedbackNo": "Ɛnyɛ yiye",
+      "feedbackThanks": "Meda wo ase sɛ woaka no kyerɛ yɛn."
+    },
+    "tile": {
+      "named": "{name}, tile {n}",
+      "hidden": "Mfonini a wɔakata ho, tile {n}",
+      "withState": "{label}, {state}",
+      "matched": "Ɛtoo mu",
+      "selected": "Wɔapaw",
+      "picture": "Mfonini",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Mpaebɔ nyinaa ka bom. Yɛ bio anaa hom.",
+      "photoPair": "Foto mmienu, ka bom.",
+      "picturePair": "Mfonini mmienu a ɛyɛ {name|lower}, ka bom.",
+      "selected": "{name}. Afei hwehwɛ ne nkabom.",
+      "mismatch": "Fa wo ho to ase. Tɔ mfonini biara na yɛnkɔ so.",
+      "mismatchNamed": "{a} ne {b}. Fa wo ho to ase. Tɔ mfonini biara na yɛnkɔ so."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tɔ mfonini, afei tɔ baako a ɛtoo mu.",
+      "guidanceHidden": "Tɔ mfonini mmienu na wɔadan. Hwehwɛ mmienu a ɛyɛ pɛ.",
+      "restart": "Mfonini foforo",
+      "sizeLegend": "Tile dodow",
+      "size": {
+        "one": "Tile {n}",
+        "other": "Tile {n}"
+      },
+      "viewLegend": "Sɛnea wɔbɛyɛ agodi no",
+      "viewShowing": "Mfonini a wɔda so",
+      "viewHidden": "Mfonini a wɔakata",
+      "playAgain": "Yɛ bio wɔ mfonini foforo so",
+      "talk": "Ka mfonini ho asɛm bom"
+    },
+    "choose": {
+      "countLegend": "Mfonini dodow a wɔbɛpaw",
+      "count": "{n} a wɔbɛpaw afi mu",
+      "thatOne": "Ɛno ne {name|lower}. Fa wo ho to ase."
+    },
+    "findTheSame": {
+      "guidance": "Hwɛ mfonini a ɛwɔ soro no. Tɔ ne pɛ a ɛwɔ fam no.",
+      "yes": "Aane, {name|lower} pɛ no ara.",
+      "next": "Mfonini a ɛdi so"
+    },
+    "shadowMatch": {
+      "guidance": "Hwɛ esum a ɛwɔ soro no. Tɔ mfonini a ɛyɛ saa esum no.",
+      "yes": "Aane, {name|lower} ne saa esum no.",
+      "next": "Esum a ɛdi so",
+      "shadowAlt": "Esum a wɔbɛtoa so",
+      "foundAlt": "Esum a ɛfiri {name|lower} mu"
+    },
+    "sortTogether": {
+      "guidance": "Tɔ mfonini, afei tɔ kɛntɛn a ɛbɛkɔ mu no.",
+      "restart": "Mfonini foforo",
+      "themeLegend": "Asɛmfua",
+      "selected": "{name}. Afei tɔ kɛntɛn a ɛbɛkɔ mu no.",
+      "pickFirst": "Fi ase tɔ mfonini, afei tɔ kɛntɛn.",
+      "hint": "{name|lower} bɛkɔ \"{basket}\" mu. Tɔ kɛntɛn no na ɛbɛkɔ mu.",
+      "placed": "{name|lower} wɔ \"{basket}\" mu.",
+      "sorted": "Biribiara ahyɛ mu. Hwɛ kɛntɛn no mu bom anaa fa asɛmfua foforo.",
+      "basket": {
+        "one": "Kɛntɛn {basket}, mfonini {count} pɛ wɔ mu",
+        "other": "Kɛntɛn {basket}, mfonini {count} wɔ mu"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tɔ akwakyerɛ baako, afei tɔ foforɔ. Wɔbɛsesa wɔn beaeɛ.",
+      "restart": "Fa ano bio",
+      "pictureLegend": "Mfonini",
+      "pictures": {
+        "sailboat": "Sɛlboat",
+        "house": "Fie",
+        "balloon": "Balɔn",
+        "sunflower": "Sanflawa",
+        "lighthouse": "Lighthaus",
+        "cat": "Kat"
+      },
+      "sizeLegend": "Akwakyerɛ",
+      "size": {
+        "one": "Akwakyerɛ {n}",
+        "other": "Akwakyerɛ {n}"
+      },
+      "pickedUp": "Wɔafa akwakyerɛ no. Afei tɔ baabi a ɛsɛ sɛ ɛkɔ.",
+      "whole": "{name|lower} no ayɛ pɛ bio. Fa mfonini foforo a wopɛ.",
+      "swapped": {
+        "one": "Wɔasesa. {correct} wɔ {total} mu no wɔ beaeɛ so.",
+        "other": "Wɔasesa. {correct} wɔ {total} mu no wɔ beaeɛ so."
+      },
+      "guideAlt": "Mfonini a ɛyɛ pɛ: {name}",
+      "guideText": "Eyi na mfonini no te sɛ ɛyɛ pɛ.",
+      "piece": "Akwakyerɛ a ɛwɔ {place} fa",
+      "pieceInPlace": ", wɔ beaeɛ a ɛfata mu",
+      "piecePickedUp": ", wɔafa mu",
+      "places4": [
+        "soro nifa",
+        "soro benkum",
+        "fam nifa",
+        "fam benkum"
+      ],
+      "places9": [
+        "soro nifa",
+        "soro mfinimfini",
+        "soro benkum",
+        "mfinimfini nifa",
+        "mfinimfini",
+        "mfinimfini benkum",
+        "fam nifa",
+        "fam mfinimfini",
+        "fam benkum"
+      ],
+      "done": "Mfonini no ayɛ pɛ bio. Fa ano bio anaa hom.",
+      "playAgain": "Fa ano bio"
+    },
+    "finishTheSaying": {
+      "guidance": "Ka mmebusɛm no bom, afei tɔ asɛm a ɛde awiei besi so no.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Aane, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" nso yɛ. Mmebusɛm a ɛyɛ dodoɔ no awiei ne \"{end}\".",
+      "revealed": "Mmebusɛm no ne \"{start} {end}.\"",
+      "choicesLabel": "Paw asɛm a ɛdi awiei no",
+      "show": "Kyerɛ awiei no",
+      "talk": "Kasa ho: ",
+      "next": "Mmebusɛm foforo"
+    },
+    "wordSearch": {
+      "guidance": "Nsɛm no kɔ nifa-benkum anaa soro-fam. Tɔ nsɛm no mfiase, afei tɔ ne awiei.",
+      "restart": "Ɛpɛ foforo",
+      "themeLegend": "Asɛmfua",
+      "sizeLegend": "Nkyɛn kɛse",
+      "size": {
+        "one": "{n} x {n} (nsɛm {words} pɛ)",
+        "other": "{n} x {n} (nsɛm {words})"
+      },
+      "print": "Print saa agodi yi",
+      "letterChosen": "Woapaw nsɛmfa {letter}. Afei tɔ nsɛm no awiei nsɛmfa.",
+      "found": "Yɛahu {word}.",
+      "foundAll": "Yɛahu {word}. Yɛahu nsɛm nyinaa. Fa ano bio anaa hom.",
+      "tryAgain": "Fa wo ho to ase. Tɔ nsɛm mfiase, afei tɔ ne awiei.",
+      "gridLabel": "Nsɛmfa kwan, {n} nkyɛn a ɛwɔ nsɛmfa {n}. Fa mpɔnkyekye so kɔ nsɛmfa foforo.",
+      "cell": "{letter}, nkyɛn {row}, afa {col}",
+      "cellFound": ", ɛwɔ nsɛm a yɛahu mu",
+      "wordsHeading": "Nsɛm a ɛsɛ sɛ yɛhu",
+      "wordFound": " (yɛahu)",
+      "sheetTitle": "Nsɛmhwehwɛ: {theme}",
+      "sheetNote": "Nsɛm no kɔ nifa-benkum anaa soro-fam.",
+      "unavailable": "Nsɛmfa nkyɛn nhyɛ saa kasa yi so, enti yɛnnyɛ nsɛmhwehwɛ wɔ ha. Sɔ agodi mfonini no hwɛ."
+    },
+    "coloring": {
+      "guidance": "Tɔ kɔla, afei tɔ mfonini no baabi.",
+      "restart": "Yi kɔla no nyinaa",
+      "cleared": "Krataa no ayɛ fitaa bio.",
+      "pageLegend": "Krataa",
+      "print": "Print saa krataa yi",
+      "colorsLabel": "Kɔla",
+      "paintChosen": "Woapaw {paint}.",
+      "painted": "{part} ayɛ {paint|lower}.",
+      "artLabel": "{page}, ɛwɔ {count} baabi a wɔbɛtɔ kɔla.",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, wɔrenfa kɔla",
+      "paints": {
+        "red": "Kɔkɔɔ",
+        "orange": "Oranjɛ",
+        "yellow": "Yɛlo",
+        "green": "Ahabammono",
+        "blue": "Bluu",
+        "purple": "Purpul",
+        "pink": "Pink",
+        "brown": "Brawn",
+        "sky-blue": "Ɔsoro bluu",
+        "cream": "Kirim",
+        "gray": "Gray",
+        "white": "Fitaa"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Kenkan kaad no. Mmuae a ɛyɛ pɛ nni hɔ.",
+      "position": "Kaad {n} afi {total} mu",
+      "themeLegend": "Asɛmfua",
+      "next": "Kaad a ɛdi so",
+      "previous": "Kaad a ɛdi kan",
+      "print": "Print kaad nyinaa",
+      "sheetTitle": "Kaad a yɛbɛkasa so"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Fi ase paw wo foto.",
+      "guidance": "Tɔ foto, afei tɔ baako a ɛtoo mu.",
+      "restart": "Fa ano bio",
+      "intro": "**Paw foto 2 kɔsi 6** afiri saa dwumadie yi so. Wɔbɛda so wɔ saa krataa yi nko ara so, na wɔrenkɔ so anaa wɔrenkora.",
+      "choose": "Paw foto",
+      "chooseDifferent": "Paw foto foforo",
+      "clear": "Yi foto no nyinaa",
+      "cleared": "Wɔayi foto no afi krataa yi so.",
+      "atLeastTwo": "Mesrɛ wo, paw foto mmienu anaa nea ɛboro saa.",
+      "usingFirst": "Yɛde foto {max} a ɛdi kan no na yɛreyɛ dwuma.",
+      "skipped": {
+        "one": "Faele {count} nyɛ foto a yɛbɛtumi adaa.",
+        "other": "Faele {count} nyinaa nyɛ foto a yɛbɛtumi adaa."
+      },
+      "playAgain": "Yɛ agodi bio wɔ saa foto yi so",
+      "empty": "Wo foto bɛba ha, biara mmienu mmienu."
+    },
+    "pictureBingo": {
+      "guidance": "Print kaad no kan. Afei kyerɛ saa frɛ yi wɔ ɔhyɛ kɛse a wowɔ so.",
+      "called": {
+        "one": "{name}. Mfonini {called} afi {total} mu na wɔafrɛ.",
+        "other": "{name}. Mfonini {called} afi {total} mu na wɔafrɛ."
+      },
+      "start": "Tɔ \"Mfonini a ɛdi so\" na wofrɛ mfonini a ɛdi kan.",
+      "restart": "Fi ase agodi foforo",
+      "squaresLegend": "Nkyɛn a ɛwɔ kaad biara so",
+      "squares": "{n} nkyɛn ({side} x {side})",
+      "cardsLegend": "Kaad dodow a wɔbɛprint",
+      "cards": {
+        "one": "Kaad {n}",
+        "other": "Kaad {n}"
+      },
+      "print": {
+        "one": "Print kaad bingo {n} pɛ",
+        "other": "Print kaad bingo {n}"
+      },
+      "ready": "Wɔayɛ yiye ma wo",
+      "next": "Mfonini a ɛdi so",
+      "allCalled": "Wɔafrɛ mfonini nyinaa",
+      "alreadyCalled": "Wɔafrɛ dada",
+      "sheetTitle": "Mfonini bingo · kaad {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Fa mframa to mu bere a sakara no reyɛ kɛse, na fa mframa fi mu bere a ɛreyɛ ketewa. Ɛbɛgyae ankasa wɔ ahome enum akyi.",
+      "paceLegend": "Ntɛm",
+      "paceSlow": "Brɛoo (sɛkɛnd 5 biara)",
+      "paceGentle": "Dodoɔ (sɛkɛnd 4 biara)",
+      "ready": "Yɛreyɛ sɛ wopɛ",
+      "in": "Fa mframa to mu",
+      "hold": "Dwo",
+      "out": "Fa mframa fi mu",
+      "start": "Fi ase",
+      "stop": "Gyae",
+      "started": "Afi ase. Fa mframa to mu bere a sakara no reyɛ kɛse.",
+      "stopped": "Agyae.",
+      "finished": "Ɛno ne ahome enum a dodoɔ. Fi ase bio bere biara a wopɛ."
+    }
+  },
+  "pictures": {
+    "teacup": "Tii kɔp",
+    "kettle": "Kettle",
+    "bread": "Paanoo",
+    "frying-pan": "Frai pan ne atoko",
+    "cake": "Afe kek",
+    "sunflower": "Sunflower",
+    "tulip": "Tulip kɔkɔɔ",
+    "watering-can": "Nsuo kan",
+    "potted-plant": "Dua wɔ pot mu",
+    "tree": "Dua",
+    "bird": "Bird wɔ dua so",
+    "butterfly": "Butterfly",
+    "dog": "Kraman",
+    "cat": "Cat",
+    "fish": "Sika fish",
+    "apple": "Apol kɔkɔɔ",
+    "pear": "Pear",
+    "strawberry": "Strawberry",
+    "banana": "Banana",
+    "lemon": "Lemon",
+    "cherries": "Cherries",
+    "house": "Fie",
+    "lamp": "Lamp",
+    "armchair": "Armchair",
+    "key": "Key",
+    "umbrella": "Umbrella",
+    "sailboat": "Sailboat",
+    "car": "Car",
+    "bicycle": "Baisikɛl",
+    "balloon": "Balloon",
+    "lighthouse": "Lighthouse",
+    "sun": "Owia",
+    "moon": "Bosome ne nsoromma",
+    "teapot": "Tii pot",
+    "apple-pie": "Apol pie",
+    "honey-jar": "Honey",
+    "boiled-egg": "Atoko wɔ egg cup mu",
+    "toaster": "Toaster",
+    "cheese": "Cheese",
+    "milk-jug": "Milk",
+    "cupcake": "Cupcake",
+    "orange": "Orange",
+    "grapes": "Grapes",
+    "watermelon": "Watermelon",
+    "pineapple": "Ɔnanaa",
+    "peach": "Peach",
+    "rose": "Rose",
+    "daisies": "Daisies",
+    "mushroom": "Mushroom",
+    "wheelbarrow": "Wheelbarrow",
+    "birdhouse": "Bird fie",
+    "cactus": "Cactus",
+    "acorn": "Acorn",
+    "autumn-leaf": "Ahaban",
+    "rabbit": "Rabbit",
+    "duck": "Duck",
+    "hen": "Hen",
+    "sheep": "Sheep",
+    "owl": "Owl",
+    "ladybird": "Ladybird",
+    "snail": "Snail",
+    "frog": "Frog",
+    "bee": "Bee",
+    "clock": "Clock",
+    "vase-of-flowers": "Vase",
+    "radio": "Radio",
+    "books": "Nwoma",
+    "candle": "Candle",
+    "glasses": "Glasses",
+    "telephone": "Telefon",
+    "ball-of-wool": "Ball",
+    "straw-hat": "Hat",
+    "train": "Train",
+    "bus": "Bus",
+    "airplane": "Plane",
+    "suitcase": "Suitcase",
+    "tractor": "Tractor",
+    "rowing-boat": "Boat",
+    "rainbow": "Rainbow",
+    "rain-cloud": "Cloud",
+    "snowflake": "Snowflake",
+    "kite": "Kite",
+    "sunrise": "Sunrise"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGHIKLMNOPRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Aduaba",
+          "words": [
+            "APPLE",
+            "PEAR",
+            "PLUM",
+            "LEMON",
+            "GRAPE",
+            "MANGO",
+            "ORANGE",
+            "BANANA",
+            "FIG"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Afuo",
+          "words": [
+            "ROSE",
+            "TULIP",
+            "DUA",
+            "ASASE",
+            "FLOWER",
+            "LEAF",
+            "BEE",
+            "GRASS",
+            "NSUO"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kitchen",
+          "words": [
+            "SPOON",
+            "PAANOO",
+            "PAN",
+            "BOWL",
+            "PLATE",
+            "TEA",
+            "OVEN",
+            "FORK",
+            "KETTLE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tebea",
+          "words": [
+            "OWIA",
+            "OSUO",
+            "MFRAMA",
+            "HAIL",
+            "STORM",
+            "FOG",
+            "HEAT",
+            "DEW",
+            "MIST"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Mmoa",
+          "words": [
+            "KRAMAN",
+            "BIRD",
+            "FISH",
+            "HORSE",
+            "DUCK",
+            "GOAT",
+            "HEN",
+            "LION",
+            "MOUSE"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Fie",
+          "words": [
+            "DOOR",
+            "STOOL",
+            "LAMP",
+            "BED",
+            "RUG",
+            "SOFA",
+            "TABLE",
+            "DESK",
+            "KEY"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kaad nyinaa",
+        "food": "Aduane",
+        "home": "Fie",
+        "outdoors": "Wɔ ahoma",
+        "animals": "Mmoa",
+        "travel": "Akwantuo",
+        "work": "Adwuma ne ahodwo",
+        "music": "Nnwom ne anigye",
+        "seasons": "Mmere"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ɛdɛn ne kitchen mu ewɔ a ɛde wo ani gye?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kek bɛn na wobɛpaw sɛ wɔbɛyɛ afahyɛ ho?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ka aduaba pie anaa dessert a wopɛ no ho asɛm kyerɛ me."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Sɛnea wopɛ tii anaa kɔfi no?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ɛdɛn na ɛma anɔpa aduane yɛ paa?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Wo ankasa atwa aduaba fi dua so da?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Ɛdɛ anaa ɛyɛ nkyɛ? Ɛdɛn na wopɛ sen?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Aduane bɛn na ɛte sɛ owia bere wɔ wo ho?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ka fie a wopɛ wɔ mu a wotenaa mu no ho asɛm kyerɛ me."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ɛhe na wopɛ sɛ wotena ase na woama wo ho ayɛ?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Dɛn na wopɛ sɛ woyɛ anadwo a ɛyɛ dwo?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Biribi bɛn na wopɛ sɛ wokora wɔ adekyeɛ mu?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Hena na wopɛ sɛ wofrɛ aba tii?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Dɛn na wopɛ sɛ woyɛ bere a osuo reto?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Nhwiren bɛn na wobɛdua wɔ afuo mu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ka dua anaa park a wopɛ no ho asɛm kyerɛ me."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Dɛn ne afuo ho nea wopɛ sen biara?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Nhwiren ɛdɛ bɛn na wopɛ paa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Wopɛ sɛ nnua wɔ fie mu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Owia da a ɛyɛ fɛ paa no yɛ dɛn?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ka kraman a woahunu no ho asɛm kyerɛ me."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Cat anaa kraman, anaa dɛn? Dɛn na wopɛ wɔ wɔn ho?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Bird bɛn na wohu anaa wote wɔ fie akyi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Woawɔ fish ankasa, anaa woakora fish a wɔwɔ tank mu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ɔmoa bɛn na woahu a ɛyɛ fɛ paa?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ka kar a wopɛɛ no ho asɛm kyerɛ me."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Wopɛ sɛ woyɛ da wɔ mpoano anaa bepɔw so?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ɛhe na wopɛ sɛ wokɔ baisikɛl so?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Sɛ wotumi fɔ kɔ baabi biara so a, ɛhe na wopɛ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Akwantuo bɛn na woanya ani gye?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Adwuma bɛn na wowɔ a wopɛ?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ahodwo bɛn na wopɛ a wobɛtumi de mmere pii yɛ?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Biribi bɛn na wɔka wo ho sɛ wobɛyɛ anaa wosiesie?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Afotu bɛn na wobɛma ɔbarima anaa ɔbaa a ɔrefi ase yɛ adwuma?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Nnwom bɛn na ɛma wo nan nam?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Dɛn na ɛma afahyɛ yɛ paa?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ɔdwomfo bɛn na wopɛ sɛ wotie?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Sini anaa TV bɛn na wopɛ sɛ woreyɛ bio?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Dɛn na wopɛ paa wɔ owia bere mu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Dɛn na wopɛ wɔ ahaban bere mu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Dɛn ne biribi a ɛyɛ fɛ a wobɛyɛ wɔ hyew anadwo mu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Nsɛnkyerɛnne bɛn na ɛkyerɛ wo sɛ bere foforo abɛba?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Snow, osuo anaa owia: ɛdɛn na wopɛ sen?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Dua a wɔadua wɔ pot mu",
+          "regions": {
+            "sky": "Background",
+            "table": "Tebul",
+            "stem": "Stem",
+            "leaf-left": "Ahaban benkum",
+            "leaf-right": "Ahaban nifa",
+            "petal-1": "Petal 1",
+            "petal-2": "Petal 2",
+            "petal-3": "Petal 3",
+            "petal-4": "Petal 4",
+            "petal-5": "Petal 5",
+            "petal-6": "Petal 6",
+            "petal-7": "Petal 7",
+            "petal-8": "Petal 8",
+            "center": "Flower center",
+            "pot": "Pot",
+            "pot-rim": "Pot ntoma"
+          }
+        },
+        "house": {
+          "name": "Fie",
+          "regions": {
+            "sky": "Ewiem",
+            "sun": "Owia",
+            "grass": "Ahahan",
+            "chimney": "Chimney",
+            "walls": "Walls",
+            "roof": "Roof",
+            "door": "Door",
+            "window-left": "Window benkum",
+            "window-right": "Window nifa",
+            "path": "Ɔkwan"
+          }
+        },
+        "teacup": {
+          "name": "Tii kɔp",
+          "regions": {
+            "background": "Background",
+            "saucer": "Saucer",
+            "handle": "Handle",
+            "cup": "Kɔp",
+            "band": "Stripe a ɛwɔ kɔp so",
+            "tea": "Tii"
+          }
+        },
+        "butterfly": {
+          "name": "Butterfly",
+          "regions": {
+            "background": "Background",
+            "wing-top-left": "Wing benkum soro",
+            "wing-top-right": "Wing nifa soro",
+            "wing-bottom-left": "Wing benkum fam",
+            "wing-bottom-right": "Wing nifa fam",
+            "spot-left": "Spot benkum",
+            "spot-right": "Spot nifa",
+            "body": "Nipadua"
+          }
+        },
+        "sailboat": {
+          "name": "Sailboat",
+          "regions": {
+            "sky": "Ewiem",
+            "sea": "Po",
+            "sail-big": "Sail kɛse",
+            "sail-small": "Sail ketewa",
+            "mast": "Mast",
+            "hull": "Boat",
+            "flag": "Flag"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kitchen ne afuo",
+          "baskets": [
+            "Aduanedan mu",
+            "Afuom mu"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Aba ne mmoa",
+          "baskets": [
+            "Aba",
+            "Mmoa"
+          ]
+        },
+        "home-travel": {
+          "label": "Efie ne akwantu",
+          "baskets": [
+            "Efie mu",
+            "Akwantu mu"
+          ]
+        }
+      }
+    }
+  }
+}

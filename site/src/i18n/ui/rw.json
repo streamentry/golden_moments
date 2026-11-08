@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Simbuka ujye ku bikubiye mu nyandiko nyamukuru",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Imyidagaduro ku babana n'uburwayi bwo kwibagirwa",
+    "homeLabel": "Ahabanza ha Golden Moments",
+    "mainNav": "Ibiyobora nyamukuru",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Ikinyarwanda",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: amafoto manini, agaragara neza y'igikombe cy'icyayi, indabyo y'irizuba n'imbwa",
+    "languages": "Ururimi",
+    "englishOnly": "(Mu Cyongereza)",
+    "machineTranslated": "Uru rupapuro rwahinduwe mu bundi rurimi hifashishijwe mudasobwa, ntiruragenzurwa n'umunyagihugu uvuga uru rurimi.",
+    "readOriginal": "Soma inyandiko y'umwimerere mu Cyongereza",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Imikino",
+      "activities": "Imyidagaduro",
+      "caregiving": "Kwitaho uwo ukunda",
+      "brainHealth": "Ubuzima bw'ubwonko"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Ibibazo n'ibisubizo",
+    "breadcrumb": "Aho uherereye",
+    "home": "Ahabanza",
+    "lastUpdated": "Iheruka kuvugururwa",
+    "topics": "Ingingo",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Ingano y'inyandiko",
+      "smaller": "Inyandiko isanzwe",
+      "larger": "Inyandiko nini",
+      "contrast": "Kugaragara cyane kurushaho"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Gukina",
+    "picturePairs": "Guhuza amafoto asa",
+    "conversationCards": "Amakarita yo kuganira",
+    "pictureBingo": "Bingo y'amafoto",
+    "allGames": "Imikino yose",
+    "pictures": "Amafoto yo gucapa",
+    "activityIdeas": "Ibitekerezo by'imyidagaduro",
+    "ideas101": "Ibitekerezo 101 by'imyidagaduro",
+    "lateStage": "Imyidagaduro yo mu cyiciro cya nyuma",
+    "printable": "Imyidagaduro yo gucapa",
+    "allActivities": "Imyidagaduro yose",
+    "forCaregivers": "Ku bita ku babana n'ubu burwayi",
+    "playTogether": "Uburyo bwo gukinira hamwe",
+    "selfCare": "Kwikurikirana no kwiyitaho",
+    "brainHealth": "Ubushakashatsi ku buzima bw'ubwonko",
+    "faq": "Ibibazo n'ibisubizo",
+    "about": "Ibyerekeye",
+    "approach": "Uburyo tubikoramo",
+    "howWeWrite": "Uburyo twandikamo",
+    "organizations": "Ku miryango n'ibigo",
+    "app": "Apurikasiyo ya Golden Moments",
+    "appHelp": "Ubufasha kuri apurikasiyo",
+    "support": "Ubufasha",
+    "legal": "Amategeko",
+    "sitePrivacy": "Ubuzima bwite ku rubuga",
+    "appPrivacy": "Amabwiriza y'ubuzima bwite kuri apurikasiyo",
+    "privacyChoices": "Amahitamo ku buzima bwite",
+    "terms": "Amabwiriza n'uruhushya rwa apurikasiyo",
+    "safety": "Umutekano n'intego yo gukoresha",
+    "accessibility": "Uburyo bworohereza bose",
+    "healthNotice": "Itangazo ryerekeye amakuru y'ubuzima",
+    "allLegal": "Amakuru yose yerekeye amategeko",
+    "note": "Golden Moments itanga imyidagaduro yoroheje yo gusangira no kwishimana. Ntabwo ari inama z'ubuvuzi, isuzuma cyangwa ubuvuzi, kandi ntisuzuma, ngo ipime cyangwa ngo itange amanota ku muntu uwo ari we wese. Ku bibazo byerekeye ubuzima, gana muganga. Mu gihe cy'ubutabazi bwihuse, hamagara 112.",
+    "publisher": "Byatangajwe na Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Imikino n'imyidagaduro ku babana n'uburwayi bwo kwibagirwa na Alzheimer | Golden Moments",
+    "description": "Imikino y'amafoto ituje kandi y'ubuntu yo gukinira kuri interineti n'ibitekerezo by'imyidagaduro ku babana n'uburwayi bwo kwibagirwa cyangwa Alzheimer n'ababitaho. Nta kwiyandikisha, nta gihe kibara cyangwa amanota.",
+    "eyebrow": "Ubuntu · Nta matangazo · Nta kwiyandikisha · Nta gihe kibara cyangwa amanota",
+    "h1": "Imikino ituje n'imyidagaduro y'ababana n'uburwayi bwo kwibagirwa",
+    "lede": "Imikino yoroheje y'amafoto, amafoto amenyerewe, n'imyidagaduro yo gusangira mufatanyije—buri wese ku muvuduko umubereye.",
+    "playGame": "Kina umukino",
+    "findIdeas": "Shaka ibitekerezo by'imyidagaduro",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Bikora kuri terefoni, tabuleti na mudasobwa",
+      "Amafoto manini aguma kugaragara",
+      "Hagarara igihe cyose ubishakiye; nta gutsindwa bibamo"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Hari na apurikasiyo y'ubuntu ya iPhone, iPad na Android, ikoresha amafoto y'umuryango wawe bwite",
+    "albumNote": "“Amafoto abiri y'igikombe cy'icyayi, ari kumwe.”",
+    "gamesEyebrow": "Kinira muri mushakisha yawe ya interineti",
+    "gamesTitle": "Imikino ushobora gukina aka kanya",
+    "gamesLede": "Buri mukino uratuje, ukwiranye n'abantu bakuru kandi utangira vuba. Hitamo umwe, mwicarane iruhande, maze mugende mukora kuri ecran musimburana.",
+    "seeAllGames": "Reba imikino yose {count}",
+    "howTitle": "Uko bikora",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Hitamo ikintu kimenyerewe",
+        "text": "Amafoto y'ibikombe by'icyayi, ubusitani, amatungo n'amato yo mu mazi. Nta gusoma cyangwa amategeko yo kubanza kwiga."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Mwicarane iruhande",
+        "text": "Mureke akore kuri ecran. Muganire ku mafoto. Iyo amafoto adahuje, haguma gutegerezwa gusa ikindi gikorwa cyo gukoraho."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Muhagarike mu gihe bikiri byiza",
+        "text": "Umukino umwe ni umwidagaduro wuzuye. Ahanditse “Bihagije aka kanya” hahora kuri ecran."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Ibirenze kuri ecran",
+    "stageTitle": "Ibitekerezo by'imyidagaduro kuri buri cyiciro",
+    "stageLede": "Umuziki, imirimo ya buri munsi, kwibuka ibyahise, n'ibihe bituje byo kumva no gukoraho, bihuje n'ibimworoheye muri iki gihe.",
+    "ideas101": "Ibitekerezo 101 by'imyidagaduro",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Icyiciro cyo gutangira",
+        "text": "Komeza gukora ibyo bakunda, uhindureho bike gusa: ibyo bishimira gukora, gutembera, imikino y'amagambo no gupangira ibintu hamwe.",
+        "label": "Ibitekerezo byo mu cyiciro cyo gutangira"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Icyiciro cyo hagati",
+        "text": "Imirimo yoroheje kandi imenyerewe igabanyijemo intambwe: gufunika, gutondeka ibintu, umuziki, imikino y'amafoto no gutembera ahitaruye gato.",
+        "label": "Ibitekerezo byo mu cyiciro cyo hagati"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Icyiciro cya nyuma",
+        "text": "Ihumure no kwiyumvanamo binyuze mu gukorana ku mubiri, amajwi n'amashusho: kwitaho ibiganza, indirimbo zikunzwe, amafoto no kuba hamwe.",
+        "label": "Ibitekerezo byo mu cyiciro cya nyuma"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Hari ikintu cyihariye ushaka? Gerageza <a href=\"/activities/alzheimers/\">imyidagaduro n'imikino y'ababana na Alzheimer</a>, <a href=\"/activities/memory-games/\">imikino ituje yo kwibuka</a>, <a href=\"/activities/trivia/\">ibibazo n'ibisubizo byoroheje</a> cyangwa <a href=\"/activities/puzzles/\">puzzle</a>.",
+    "approachEyebrow": "Uburyo tubikoramo",
+    "approachTitle": "Umwidagaduro wo gusangira, atari ikizamini cyo kwibuka",
+    "approachLede": "Imikino myinshi “y'ubwonko” yubakiye ku muvuduko, amanota no gutsinda kenshi wikurikiranya. Ku muntu ubana n'uburwayi bwo kwibagirwa, ibyo bishobora kumera nk'ikizamini. Twebwe twubatse ibitandukanye n'ibyo.",
+    "approachLink": "Impamvu tubitegura muri ubu buryo",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Nta gutsindwa bibamo",
+        "text": "Nta saha, amanota, umubare w'amahirwe cyangwa gutsindwa. Ifoto idahuye iba ari ukuruhuka gato, si ikosa."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Amafoto aguma kugaragara",
+        "text": "Gusobanukirwa ibigaragara aho gusubiza mu mutwe. Guhuza bitangira amafoto agaragara hejuru, bityo nta kintu cyo gufata mu mutwe kiba gikenewe."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Bikwiriye abantu bakuru kandi byiyubashye",
+        "text": "Amagambo yuje urugwiro, asobanutse neza n'amafoto yo mu buzima busanzwe. Nta bishushanyo by'abana cyangwa imvugo nk'igenewe abana bibamo."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Ibyo ukora birinzwe kuva ku ntangiriro",
+        "text": "Nta makonti cyangwa amatangazo. Amafoto yawe ntiyigera ava ku gikoresho cyawe."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ku bita ku babana n'ubu burwayi",
+    "guidesTitle": "Inyoborabumenyi ngiro zo kwita ku muntu buri munsi",
+    "allCaregiving": "Inyoborabumenyi zose zo kwita ku bandi",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Uburyo bwo gukinira imikino hamwe",
+        "text": "Gutegura, umuvuduko ukwiye, n'icyo gukora mu gihe umukino utakiri mwiza."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Iyo banse gukora umwidagaduro",
+        "text": "Impamvu zikunze gutuma banga, n'uburyo bworoshye bwo kongera kubigerageza nyuma."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Gutegura tabuleti",
+        "text": "Inyandiko nini, ibirangaza bike na ecran ibanza yoroheje kandi imwe."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Imyidagaduro y'ubuntu yo gucapa",
+        "text": "Gushakisha amagambo mu nyandiko nini, impapuro zo gusiga amabara, bingo n'amakarita yo kuganira."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Ubuzima bw'ubwonko: icyo ubushakashatsi bubivugaho mu by'ukuri",
+    "researchText": "Ese uburwayi bwo kwibagirwa bushobora gukumirwa? Ese imikino y'ubwonko igira icyo ifasha? Bite se ku kwiyiriza, imirire, ibitotsi no kumva? Ibisubizo bisobanutse kandi bishingiye ku bimenyetso, harimo n'aho ibimenyetso bikiri bike.",
+    "researchLink": "Soma inyoborabumenyi z'ubushakashatsi",
+    "appEyebrow": "Hari na apurikasiyo",
+    "appTitle": "Golden Moments kuri iPhone, iPad na Android",
+    "appText": "Apurikasiyo y'ubuntu ikora na interineti idahari, kandi ishobora gukoresha amafoto y'umuryango wihitiyemo, abikwa nk'amakopi ku gikoresho cyawe. Ihuriro rituje nk'iryasanzwe: amakara ane manini, nta gihe kibara, nta manota.",
+    "aboutApp": "Ibyerekeye apurikasiyo",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ni iyihe mikino myiza ku bantu babana n'uburwayi bwo kwibagirwa?",
+        "a": "Imikino myiza iroroshye, iramenyerewe kandi nta gahato iteza: amashusho manini yo guhuza, gutoranya no gushyira ku murongo, uduce tworoshye tw'amashusho duteranywa, kuzuza imvugo zizwi, gusiga amabara, bingo y'amashusho n'amakarita yo kuganira. Igihitamo cyiza ni igishimisha uwo muntu uyu munsi. Irinde kubara igihe, amanota n'ikintu cyose gisa n'ikizamini."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Ese iyi mikino y'abafite indwara yo kwibagirwa ni ubuntu?",
+        "a": "Yego. Buri mukino n'ibikoresho byo gucapa biri kuri Golden Moments ni ubuntu, nta konti, nta kwiyandikisha cyangwa kumanura kuri interineti. Imikino ikinirwa muri mushakisha y'urubuga kuri telefone, tabuleti cyangwa mudasobwa."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Ese imikino y'ubwonko irinda indwara yo kwibagirwa?",
+        "a": "Nta mukino wigeze ugaragaza ko urinda indwara yo kwibagirwa, kandi Golden Moments ntivuga ko ivura cyangwa irinda ikintu icyo ari cyo cyose. Imikino yacu igenewe kwidagadura no kumarana igihe hamwe. Igice cyacu cy'ubuzima bw'ubwonko gisobanura icyo ubushakashatsi bwerekana n'icyo buterekana."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Ese iyi mikino ibereye umuntu ufite indwara ya Alzheimer?",
+        "a": "Yego. Indwara ya Alzheimer niyo itera cyane indwara yo kwibagirwa, kandi imikino yakorewe ibyo: amashusho manini aguma kugaragara, amahitamo make, kandi nta kintu cyo gufata mu mutwe cyangwa kwibeshaho. Guhuza, gutoranya no kuzuza imvugo zimenyerewe byishingikiriza ku bumenyi bwa kera aho kuba ibintu bishya byo kwiga."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Ese umuntu uri mu cyiciro cyisumbuye cy'indwara yo kwibagirwa ashobora gukora ibi bikorwa?",
+        "a": "Akenshi birashoboka, igihe hari umuntu bari kumwe. Tangirira kuri Shaka ibisa bifite amashusho abiri, Guhuza amashusho asa bifite uduce tune, urupapuro rwo gusiga amabara cyangwa akanya gato ko guhumeka mu ituze. Bikore mu gihe gito, ugendere ku byo bifuza kandi uhagarike igihe bumva bihagije."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Ese amakuru yanjye agirwa ibanga?",
+        "a": "Uru rubuga ntirugira amakonti kandi nta kwamamaza kurangwaho. Dukoresha Google Analytics kugira ngo dusobanukirwe amapaji asurwa. Amafoto uhitamo muri Photo pairs agaragara gusa muri mushakisha yawe kandi ntajya ku mbuga z'ububiko na rimwe."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Ni nde ukora Golden Moments?",
+        "a": "Golden Moments ni itsinda rito rikora ibikorwa bituje by'amashusho bigenewe abantu bakuru, bikozwe ku bw'imiryango n'abitaho ababo, biboneka ku rubuga no kuri porogaramu y'ubuntu. Ntituri abaganga, kandi nta biri hano bigize inama z'ubuvuzi."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "cyo gutangira",
+    "middle": "cyo hagati",
+    "late": "cyisumbuye",
+    "hintOne": "Akenshi bibereye icyiciro {list}",
+    "hintMany": "Akenshi bibereye ibyiciro {list}",
+    "labelEarly": "Icyiciro cyo gutangira",
+    "labelMiddle": "Icyiciro cyo hagati",
+    "labelLate": "Icyiciro cyisumbuye"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Ibyerekeye uyu mukino",
+    "printable": "Ibyo gucapa",
+    "play": "Kina {name} →",
+    "readGuide": "Soma amabwiriza"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Witeguye umukino utuje?",
+    "text": "Amashusho manini, nta kubara igihe, nta manota kandi nta kwiyandikisha bisabwa. Kinire hamwe muri mushakisha yawe.",
+    "play": "Kina umukino",
+    "all": "Reba imikino yose",
+    "aria": "Kina umukino"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Gendana iyi mikino aho uri hose",
+    "text": "Porogaramu y'ubuntu ya Golden Moments ya iPhone, iPad na Android: amashusho manini, imikino irimo amafoto y'umuryango wawe, n'amatsinda y'amashusho akora nta Wi‑Fi. Nta konti, nta matangazo, nta kubara igihe cyangwa amanota.",
+    "appStore": "Yikure kuri App Store",
+    "googlePlay": "Yikure kuri Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Ibyerekeye porogaramu",
+    "aria": "Bona porogaramu"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Ibikorwa",
+      "title": "Ibikorwa by'abantu bafite indwara yo kwibagirwa",
+      "seo": "Ibikorwa by'abantu bafite indwara yo kwibagirwa: Ibitekerezo ukurikije ibyiciro",
+      "description": "Ibitekerezo by'ibikorwa by'abantu babana n'indwara yo kwibagirwa muri buri cyiciro: umuziki, kwibuka ibya kera, imirimo ya buri munsi, ibikorwa bikangura ingingo, ubukorikori, ibyo hanze n'ibikoresho byo gucapa by'ubuntu.",
+      "lede": "Igikorwa gifite agaciro ni ikintu cyose kizana ihumure, intego cyangwa umwanya wo gusabana. Tangirira ku cyo umuntu yahoraga akunda, maze ugihuze n'uko ameze uyu munsi."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Kwita ku muntu",
+      "title": "Inyoborabumenyi zo kwita ku muntu",
+      "seo": "Inyoborabumenyi zo kwita ku bafite indwara yo kwibagirwa: Ubufasha ngirakamaro bwa buri munsi",
+      "description": "Inyoborabumenyi zifatika kandi zigaragaza impuhwe ku bita ku bafite indwara yo kwibagirwa: gukinira hamwe, itumanaho, kwanga gukora ibintu, guhangayika ku mugoroba, tabuleti, guhitamo porogaramu no kwiyitaho.",
+      "lede": "Ubufasha bworoshye kandi bufatika mu bihe bya buri munsi byo kwita ku muntu ubana n'indwara yo kwibagirwa, harimo no kwiyitaho ubwawe."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Ubuzima bw'ubwonko",
+      "title": "Ubuzima bw'ubwonko: Icyo ubushakashatsi bubivugaho",
+      "seo": "Ubuzima bw'ubwonko n'ibyago byo kurwara indwara yo kwibagirwa: Icyo ubushakashatsi bubivugaho",
+      "description": "Ese indwara yo kwibagirwa ishobora kwirindwa? Inyoborabumenyi z'ukuri kandi zishingiye ku bimenyetso zivuga ku bintu byongera ibyago byo kurwara indwara yo kwibagirwa, imikino y'ubwonko, kwiyiriza ubusa, imirire, imyitozo ngororamubiri, ibitotsi, ukumva n'ibimenyetso by'imbuzi.",
+      "lede": "Icyo ubushakashatsi bunini bwerekana by'ukuri ku bijyanye no kugabanya ibyago by'indwara yo kwibagirwa, bisobanuye mu buryo bworoshye, harimo n'aho ibimenyetso bidahagije cyangwa bivuguruzanya. Ni amakuru muri rusange, si inama z'ubuvuzi."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Yavuguruwe",
+    "minuteRead": "Isomwa mu minota {n}",
+    "byTeam": "Yanditswe n'itsinda rya Golden Moments",
+    "howWeWrite": "Uko twandika",
+    "shortAnswer": "Igisubizo mu ncamake",
+    "onThisPage": "Kuri iyi paji (ibice {n})",
+    "commonQuestions": "Ibibazo bikunze kubazwa",
+    "sources": "Aho amakuru akomoka",
+    "sourcesNote": "Dushyiraho imiyoboro igana ku miryango n'ubushakashatsi iyi paji yifashishije. Buri kimwe cyasuzumwe igihe paji yavugururwaga.",
+    "tryTogether": "Mubigerageze hamwe",
+    "relatedGuides": "Inyoborabumenyi zifitanye isano",
+    "related": "Bifitanye isano",
+    "startHere": "Tangirira hano"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Itangazo ry'amakuru y'ubuzima",
+    "title": "Amakuru muri rusange, si inama z'ubuvuzi",
+    "textHtml": "Iyi paji ikubiyemo incamake y'ubushakashatsi bwashyizwe ahagaragara igenewe imiryango. Ntiyashobora kukubwira ibikwiriye umuntu runaka by'umwihariko. Vugana na muganga mbere yo guhindura imirire, imyitozo ngororamubiri, ibitotsi, imiti cyangwa inyongeramirire. Ku rujijo rutunguranye cyangwa izindi mpinduka zitunguranye, shaka ubufasha bw'ubuvuzi bwihuse. <a href=\"/medical-disclaimer/\">Soma itangazo ryacu ry'amakuru y'ubuzima</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Igikorwa cyo gusangira, si ikizamini cyo kwibuka",
+      "seoTitle": "Ibyerekeye Golden Moments: Uburyo dukoramo",
+      "description": "Impamvu imikino ya Golden Moments itagira kubara igihe, amanota cyangwa gukurikiranya gutsinda, impamvu amashusho aguma kugaragara, n'icyo tuvuga n'icyo tutavuga ku ndwara yo kwibagirwa.",
+      "crumb": "Uburyo dukoramo",
+      "lede": "Golden Moments ikora ibikorwa bituje by'amashusho bigenewe abantu bakuru, ibyo uwita ku muntu n'umuntu ubana n'indwara yo kwibagirwa bashobora kwishimira bari kumwe.",
+      "bodyHtml": "<h2>Icyo twemera</h2><p>Intego y'umukino cyangwa igikorwa ni uwo mwanya ubwawo: ikiganiro, kumwenyura, ibyishimo byo guhuza amafoto abiri, cyangwa kwicarana gusa mwegeranye. Si ukugena ubushobozi bw'umuntu, kumuhata cyangwa kugaragaza ikintu icyo ari cyo cyose.</p><p>Porogaramu nyinshi zivuga ko zitoza ubwonko ziba zubatse ku muvuduko, amanota, urukurikirane n'intera. Ku muntu ubana n'indwara yo kwibagirwa, ibyo bishobora kumera nk'ikizamini adashobora gutsinda. Twe twateguye ibitandukanye n'ibyo, kandi twubahiriza aya mabwiriza:</p><ul><li><strong>Nta gutsindwa kubamo.</strong> Nta saha, nta manota, nta kubara ibikorwa wakoze, nta buzima bubarwa, nta nkurikirane, nta birori by'ibipapuro bimanuka cyangwa kubara igihe kigabanuka, ku rukuta urwo ari rwo rwose.</li><li><strong>Kumenya icyo ubona aho kwibuka mu mutwe.</strong> Amafoto akomeza kugaragara igihe cyose. Ubutumwa buteganyijwe buteza imbere ibiganiro kandi ntibwigera bubaza amazina cyangwa ibyabaye kera mu buryo bwo gupima umuntu.</li><li><strong>Binini, bisobanutse kandi bidahindagurika.</strong> Amagambo n'amafoto binini, ibiranga bitandukanye neza mu mabara, n'uburyo bwo gukoresha buguma ahantu hamwe.</li><li><strong>Icyubahiro gikwiriye umuntu mukuru.</strong> Amafoto y'ibintu bifatika byo mu buzima busanzwe n'amagambo asanzwe kandi yuje urugwiro. Nta bishushanyo by'abana, nta gusingiza birenze cyangwa ibihembo bya emoji.</li><li><strong>Uburyo bworoshye bwo guhagarika igihe ushakiye.</strong> Ahagira hati “Bihagije ubu” haba hagaragara igihe cyose. Guhagarika umukino utarangiye na byo ni byiza cyane.</li><li><strong>Kugira ibanga kuva ku ntangiriro.</strong> Nta konti isabwa cyangwa amatangazo yamamaza. Amafoto uhisemo aguma mu gikoresho cyawe bwite.</li></ul><h2>Ibyo tutavuga cyangwa ngo twizeze</h2><p>Imikino yacu igenewe gushimisha no kwegerana. Ntishobora gusuzuma, gupima, kuvura, gukumira cyangwa kugabanya umuvuduko w'indwara yo kwibagirwa cyangwa Alzheimer, kandi nta muntu ukwiriye kuyihitamo abishingiye kuri ibyo. Iyo twanditse ku bushakashatsi ku <a href=\"/brain-health/\">mpapuro zacu z'ubuzima bw'ubwonko</a>, tuvuga mu buryo bweruye aho ibimenyetso biba bidahagije, kandi ntitwigera tubihuza n'imikino yacu bwite.</p><h2>Abo turi bo</h2><p>Golden Moments ni itsinda rito ryigenga. Ntituri abaganga. Inyandiko zacu n'ubuyobozi butangwa bishingira ku nyandiko zatangajwe n'imiryango nka National Institute on Aging na Alzheimer’s Association, kandi buri nyandiko igaragaza aho amakuru yakomotse. Soma <a href=\"/editorial-policy/\">uburyo twandikamo kandi tugasuzuma impapuro zacu</a>.</p><h2>Tubwire icyagufasha</h2><p>Twakwishimira cyane kumva ibigenda neza n'ibitagenda neza, by'umwihariko biturutse ku bantu babana n'indwara yo kwibagirwa, abagize umuryango babitaho n'abakozi bategura imyidagaduro. Twandikire kuri <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Uburyo Twandikamo Kandi Tugasuzuma Impapuro Zacu",
+      "seoTitle": "Amabwiriza Agenga Ibyandikwa",
+      "description": "Uburyo Golden Moments ikoramo ubushakashatsi, yandika, itunganya amasoko y'amakuru, ikanavugurura impapuro zayo z'imyidagaduro yo kwibagirwa n'ubuzima bw'ubwonko, hamwe n'ibyo tutazigera na rimwe dutangaza.",
+      "crumb": "Amabwiriza agenga ibyandikwa",
+      "bodyHtml": "<h2>Aho dukura amakuru</h2><p>Inyandiko zacu zishingira ku mabwiriza n'inama rusange bitangwa n'imiryango nka National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance na NHS, hamwe n'ubushakashatsi bwasuzumwe n'abahanga nka Cochrane reviews n'igeragezwa ryagutse ry'ubuvuzi. Buri nyandiko igaragaza aho amakuru yayifashishijwemo yakomotse. Dusoma neza buri soko y'amakuru mbere yo kuyisobanura, kandi dutangaza gusa ibyo ivuga nyabyo.</p><h2>Uburyo twandikamo</h2><ul><li>Ibikorwa bifatika mbere na mbere: ibyo gukora uyu munsi, mu rurimi rworoshye kandi rusobanutse.</li><li>Kuvugisha ukuri ku bimenyetso: tuvuga ko “bifitanye isano na”, “bishobora” no kuba “ibimenyetso bivuguruzanya” igihe ari byo biriho koko.</li><li>Kubaha: twandika ku bantu babana n'indwara yo kwibagirwa nk'abantu bakuru, kandi ntitwigera dukoresha amagambo yo kubapima cyangwa kubakoza isoni.</li><li>Nta byahimbwe: nta mibare, amagambo y'abantu, inzobere, ubushakashatsi, isuzuma cyangwa ubuhamya byahimbwe.</li></ul><h2>Abasuzuma impapuro zacu</h2><p>Impapuro zandikwa kandi zigasuzumwa n'itsinda rya Golden Moments, rifashijwe n'ibikoresho by'ubwenge bw'ubukorano mu gukora ubushakashatsi no gutegura inyandiko z'ibanze. Buri rupapuro rusuzumwa n'itsinda hakurikijwe amasoko y'amakuru yarwo. Impapuro zacu <strong>ntizigeze</strong> zisuzumwa na muganga cyangwa impuguke mu buvuzi, kandi ntituvuga ko ari byo. Zitanga amakuru rusange gusa, si inama z'ubuvuzi.</p><h2>Ibyo tutazigera dutangaza</h2><ul><li>Ibyemezo bivuga ko umukino, ibyokurya, inyongeramirire, kwiyiriza ubusa cyangwa gahunda runaka bikumira, bivura, bidindiza cyangwa bikiza indwara yo kwibagirwa.</li><li>Ibizamini, ibibazo cyangwa amanota agaragaza ko umuntu afite, cyangwa adafite, indwara yo kwibagirwa.</li><li>Inama zo gutangira, guhagarika cyangwa guhindura umuti uwo ari wo wose.</li><li>Amatangazo yamamaza cyangwa inyandiko zishyuriwe zihishe mu isura y'ubuyobozi n'inama.</li></ul><h2>Kuvugurura no gukosora</h2><p>Buri rupapuro rugaragaza itariki ruherukira kuvugururwaho. Niba ubonye ikosa cyangwa isoko y'amakuru itakijyanye n'igihe, tubashimiye kohereza ubutumwa kuri <a href=\"mailto:{email}\">{email}</a> kandi tuzabisuzuma vuba bishoboka.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Ibibazo n'Ibisubizo",
+      "seoTitle": "Imikino n'Imyidagaduro ku Babana n'Indwara yo Kwibagirwa: Ibibazo n'Ibisubizo",
+      "description": "Ibisubizo by'ibibazo bikunze kubazwa ku mikino n'imyidagaduro y'ababana n'indwara yo kwibagirwa: imikino yo kugerageza, igihe cyo gukina, ibitekerezo byo mu byiciro bikurikiraho, ubuzima bw'ubwonko no kubika ibanga.",
+      "crumb": "Ibibazo n'ibisubizo",
+      "lede": "Ibisubizo bigufi kandi bisobanutse by'ibibazo abita ku bandi bakunze kubaza cyane.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Ku byerekeye imikino",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Ni iyihe mikino myiza ku muntu ubana n'indwara yo kwibagirwa?",
+              "a": "Imikino myiza ni isanzwe izwi, yoroshye kandi itarimo igitutu, kandi umukino ukwiriye ni uwushimisha umuntu kuri uwo munsi. Guhuza amafoto agaragara neza, gutoranya no gushyira mu matsinda, ibikwasi byoroshye by'amafoto, kuzuza imvugo cyangwa imigani isanzwe izwi, gusiga amabara na bingo y'amashusho, byose bigirira akamaro abantu benshi. Irinde ibipima igihe, amanota n'ikintu cyose cyakumvikana nk'ikizamini."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Ese koko iyi mikino itangirwa ubuntu?",
+              "a": "Yego. Imikino yose n'ibishushanyo byo gucapa ni ubuntu, nta konti, kwiyandikisha, gukuramo cyangwa kwamamaza."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Kuki nta manota, inzego cyangwa ibihe?",
+              "a": "Umuvuduko n'amanota bihindura igikorwa cyiza mo ikizamini, bishobora kuzana isoni cyangwa umujinya. Dushyira imbere kwishimana no kumarana igihe, ku buryo nta kintu cyo gutsindwa kirimo, kandi mushobora guhagarara igihe icyo ari cyo cyose."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Ni ibihe bikoresho bikora neza?",
+              "a": "Telefoni, tabuleti cyangwa mudasobwa yose ifite urubuga rugezweho. Tabuleti iri ku kirenge ku meza akenshi ni yo ituma abantu babiri bakina bicaranye neza. Mudasobwa ihuzwa na televiziyo ikora neza ku matsinda."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Dushobora gukina dukoresheje amafoto yacu y'umuryango?",
+              "a": "Yego. Amafoto ahuje ahindura amafoto 2 kugeza kuri 6 mwatoranyije umukino wo guhuza. Amafoto aguma mu rubuga rwanyu ntaboherezwa cyangwa ngo abikwe."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Ibikorwa n'ukwita ku bantu",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Igikorwa kigomba kumara igihe kingana iki?",
+              "a": "Akenshi iminota 10 kugeza kuri 20 irahagije, kandi rimwe na rimwe iminota 2 ni intsinzi. Witegereze ibimenyetso by'umunaniro cyangwa by'umujinya, maze uhagarike igihe bikiri byiza. Nta gihe cy'ukuri gihari."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Bigenda bite niba batifuza gukora igikorwa?",
+              "a": "Yubahiriza 'oya' yabo, hanyuma ugerageze nyuma cyangwa mu buryo bundi. Kwanga bishobora guterwa n'umunaniro, ububabare, kutumva neza cyangwa kutagira icyo bashaka. Reba igitabo cyacu ku byo gukora igihe bavuze oya."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Ni ibihe bikorwa bikwiriye igihe cya dementia cyateye imbere?",
+              "a": "Guhumuriza no kumva ibyiyumvo: kumva umuziki bakunda, gukanda ibiganza ukoresheje amavuta, kureba amafoto hamwe, gufata igitambaro cyoroshye, kwicara hanze, cyangwa umukino woroshye w'ishusho uri kumwe nabo. Igitabo cyacu cy'icyiciro cya nyuma gifite ibitekerezo byinshi."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Hari ibikorwa by'amatsinda mu kigo cyita ku bageze mu za bukuru?",
+              "a": "Yego. Bingo y'amashusho ifite amakarita yo gucapa n'uwuhamagara kuri ecran, naho Uzuza imvugo n'Amakarita y'ibiganiro bikora neza iyo bisomwe mu ijwi riranguruye. Igitabo cyacu cy'amatsinda mu bigo byita ku bantu gisobanura umubare w'abantu, aho bicara no guhindura igikorwa ku bafite ubushobozi butandukanye."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Ubuzima bw'ubwonko",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Imikino ishobora kwirinda cyangwa gutinza dementia?",
+              "a": "Nta mukino wigeze werekana ko wakwirinda dementia, kandi imikino yacu ntivuga ibyo. Gukangurira ubwonko mu buryo bw'imibanire byagaragaje inyungu nto mu bushakashatsi ku bantu bafite dementia yoroheje cyangwa iringaniye, ariko ibyo ni ibindi bitandukanye no kuvuga ko umukino wakwirinda indwara. Dutanga imikino yo kwishimana no kwishyira hamwe."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Dementia ishobora kwirindwa?",
+              "a": "Ntibishoboka neza. Ubushakashatsi buhuza ibintu 14 by'ubuzima n'imibereho n'ibyago bya dementia, nko kutumva neza, umuvuduko w'amaraso mwinshi, kutagira imyitozo y'umubiri no kwigunga mu bantu. Kubikemura bishobora kugabanya ibyago ku bamwe, ariko abantu benshi bakora ibyiza byose bakarwara dementia. Nta muntu ugomba kubiryozwa."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Kwiyiriza ubusa by'igihe gito bifasha ubwonko?",
+              "a": "Ibimenyetso ku bantu ni bike kandi bikiri bishya, naho ubushakashatsi benshi bwakorewe ku nyamaswa. Kwiyiriza ubusa bishobora guteza akaga ku bakuze, cyane cyane ku bafata imiti ya diyabete cyangwa ku bagabanuka ibiro batabishaka, kandi ntibisabwa ku bantu babana na dementia. Vugana na muganga mbere yo guhindura uko murya."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Ibanga n'umutekano",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Mukusanya amakuru y'umuntu?",
+              "a": "Nta konti cyangwa kwamamaza. Dukoresha Google Analytics kubara gusura no kumenya amapaji afasha, kandi urubuga rwanyu rwibuka niba mwafunguye amajwi yoroheje. Amafoto mwatoranyije ya Amafoto ahuje ntiboherezwa na rimwe. Reba Itangazo ry'ibanga kugira ngo mumenye byinshi."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Ibi ni inama z'ubuvuzi?",
+              "a": "Oya. Golden Moments ni iy'imyidagaduro no kumenyesha muri rusange. Ku bibazo by'ubuzima, vugana na muganga, naho mu gihe cy'ihutirwa hamagara 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Ibindi bisobanuro: <a href=\"/caregiving/how-to-play-together/\">uko mwakinira hamwe</a>, <a href=\"/caregiving/when-they-say-no/\">igihe bavuze oya</a>, <a href=\"/activities/late-stage/\">ibikorwa by'icyiciro cya nyuma</a> na <a href=\"/brain-health/can-dementia-be-prevented/\">dementia ishobora kwirindwa?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Imikino yoroheje kandi y'ubuntu ku bantu babana na dementia",
+      "seoTitle": "Urupapuro rwo gucapa: Imikino y'ubuntu ya dementia kuri interineti",
+      "description": "Urupapuro rumwe rwo gucapa ku miryango n'abita ku bantu, ku mikino y'amashusho yoroheje kandi y'ubuntu ku bantu babana na dementia, ku matsinda y'inkunga n'ibikapu by'ubufasha.",
+      "crumb": "Urupapuro rwo gucapa",
+      "lede": "Capisha iyi paji ku itsinda ry'inkunga, ku gikapu cy'ubufasha cyangwa ku rugi rw'ifriji. Koresha Print ya browser yanyu; amamenu n'amabuto ntibizajya ku mpapuro.",
+      "introHtml": "<p>Amashusho manini, amagambo yoroshye kandi nta kintu cyo gutsindwa. Ni ubuntu kuri telefoni, tabuleti cyangwa mudasobwa, nta konti, nta kwamamaza, nta bihe cyangwa amanota. Mwicarane iruhande rumwe kandi mufatanye ibihe byo gukina.</p>",
+      "gamesTitle": "Imikino mwagerageza hamwe",
+      "restHtml": "<h2>Inama nke</h2><ul><li>Hitamo igihe cy'umunsi uwo muntu aba ameze neza.</li><li>Tangira n'igenamiterere ryoroshye. Amashusho ane arahagije.</li><li>Muvugane ku mashusho. Ikiganiro akenshi ni cyo gice cyiza.</li><li>Muhagarike igihe bikiri bishimishije. Guhagarika hakiri kare ni umusaruro mwiza.</li></ul><h2>Ibindi biri ku rubuga</h2><ul><li>Ibyo gucapa by'ubuntu: ishakisha ry'amagambo y'inyuguti nini, amapaji yo gushushanya, amakarita y'ibiganiro na bingo y'amashusho.</li><li>Ibitekerezo by'ibikorwa ku cyiciro cyose, n'ibitabo ku gukinira hamwe no kwita ku buzima bwanyu.</li></ul><p class=\"muted\">Ni ukwishimana no kumarana igihe. Ntabwo ari inama z'ubuvuzi, ikizamini cyangwa ubuvuzi. Golden Moments itangazwa na Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Ku bigo byita ku bageze mu za bukuru, amasomero n'amatsinda y'inkunga",
+      "seoTitle": "Imyidagaduro y'ubuntu ku bantu babana n'indwara yo kwibagirwa igenewe ibigo n'amatsinda",
+      "description": "Uburyo ibigo byita ku bageze mu za bukuru, gahunda z'amanywa, amasomero, ibigo bishinzwe abageze mu za bukuru n'amatsinda yo gufashanya bakoresha imikino yacu y'ubuntu igenewe abantu babana n'indwara yo kwibagirwa, hamwe n'amagambo yo kudushyira ku rutonde rw'ibikoresho bifasha.",
+      "crumb": "Ku miryango n'ibigo",
+      "lede": "Ibiri kuri uru rubuga byose ni ubuntu kubikoresha hamwe n'ababa mu bigo, abanyamuryango n'abandi bantu mwitaho, nta konti, uruhushya cyangwa ikiguzi bisabwa. Uru rupapuro rusobanura ibiri hano n'uburyo bwo kubisangiza abandi.",
+      "shortText": "{name}: imikino yoroheje ifite amashusho n'ibitabo biyobora imyidagaduro by'ubuntu ku bantu babana n'indwara yo kwibagirwa n'ababitaho. Nta kwiyandikisha, nta kubara igihe, nta n'amanota.",
+      "longText": "{name} ({domain}) itanga imikino {count} yo kuri murandasi y'ubuntu yakorewe abantu babana n'indwara yo kwibagirwa, harimo guhuza amashusho asa aguma agaragara, puzzle yoroheje, gushyira ibintu mu byiciro, imvugo zizwi, na bingo y'amashusho ifite amakarita ashobora gucapwa. Nta konti, nta matangazo, nta kubara igihe cyangwa amanota. Uru rubuga rufite kandi amabwiriza y'imyidagaduro yanditse mu rurimi rworoshye ku byiciro byose by'indwara yo kwibagirwa, ashingiye ku bushakashatsi bwa National Institute on Aging na Alzheimer's Association.",
+      "useTitle": "Ibyo ibigo n'imiryango bishobora gukoresha",
+      "gamesItemHtml": "<strong>Imikino {count} yo kuri murandasi</strong> ikorera kuri mudasobwa igendanwa, tabuleti cyangwa televiziyo ifatanye na mudasobwa. Nta gushyiramo porogaramu, nta konti, nta no gukurura kuri interineti. Reba <a href=\"/games/\">imikino yose</a>.",
+      "printablesLabel": "Inyandiko {count} zo gucapa:",
+      "printablesAfter": "Koresha akabuto ko gucapa kuri buri rupapuro.",
+      "moreItemsHtml": "<li><strong>Uburyo bw'amatsinda:</strong> <a href=\"/games/picture-bingo/\">Bingo y'amashusho</a> ifite amakarita ashobora gucapwa n'amashusho agaragara kuri mudasobwa ahamagara, kandi <a href=\"/activities/trivia/\">ibibazo byoroheje</a> bifite ibibazo 50 birimo amahitamo y'ibisubizo n'ingingo zo kuganiraho.</li><li><strong>Ibitabo biyobora imyidagaduro</strong> byagenewe abakozi n'imiryango, bikurikije icyiciro n'ubwoko, byanditse mu magambo asanzwe kandi bigaragaza inkomoko. Tangirira ku <a href=\"/activities/ideas/\">bitekerezo 101 by'imyidagaduro</a> cyangwa <a href=\"/activities/care-home-groups/\">imyidagaduro y'amatsinda mu bigo byita ku bageze mu za bukuru</a>.</li>",
+      "restHtml": "<h2>Uburyo amatsinda abikoresha</h2><ul><li><strong>Ibigo byita ku bageze mu za bukuru no kwibuka:</strong> bingo y'amashusho cyangwa kuzuza imvugo kuri televiziyo yo mu cyumba rusange, umuntu umwe agakanda ku bikoresho afasha itsinda ryose.</li><li><strong>Gahunda z'amanywa z'abakuze:</strong> ahantu hari tabuleti irimo imikino yo guhuza amashusho igizwe n'uduce tune gusa, igenewe ibihe bigufi hagati y'umuntu umwe n'umwita ho.</li><li><strong>Amasomero rusange:</strong> gushakisha amagambo kwacapwe n'amakarita y'ibiganiro mu bikoresho byo kwibuka, hamwe no kubika uru rubuga kuri tabuleti zo mu isomero.</li><li><strong>Amatsinda yo gufasha abitaho abandi n'ahantu ho guhurira:</strong> <a href=\"/handout/\">urupapuro rumwe rucapwa</a> rurimo amakuru agenewe imiryango ngo bajyane mu rugo.</li><li><strong>Ibitaro n'abategura gusezerera abari mu bitaro:</strong> urupapuro mu bikoresho bihabwa abitaho abandi, kugira ngo babone igikorwa gituje cyo gukorera mu rugo cyangwa iruhande rw'igitanda.</li></ul><h2>Ibyo tudakora</h2><p>Iyi mikino igenewe kwidagadura no kumara igihe hamwe. Ntabwo isuzuma, ntipima, ntiyerekana amanota, ntikiza cyangwa ngo igabanye umuvuduko w'indwara yo kwibagirwa, kandi dusaba ibigo kutayisobanura muri ubwo buryo. Nta matangazo arimo, kandi imikino ntiyaka amazina, amakuru y'ubuzima cyangwa ngo isabe gushyiraho amafoto. Uru rubuga rukoresha Google Analytics kugira ngo rubare abasura; <a href=\"/privacy/\">amabwiriza yacu yerekeye ubuzima bwite</a> asobanura ibyo ikusanya. Amafoto akoreshwa muri <a href=\"/games/photo-pairs/\">Guhuza amafoto</a> aguma muri mudasobwa cyangwa telefoni ukoresha.</p><h2>Dushyire ku rutonde rw'ibikoresho byanyu bifasha</h2><p>Niba ufite urutonde rw'ibikoresho bifasha abitaho abandi, uhawe ikaze gushyiraho umurongowerekeza kuri <a href=\"/\">{domain}</a>. Ushobora gukoporora ibisobanuro bigufi cyangwa ibirambuye.</p>",
+      "shortTitle": "Ibisobanuro bigufi",
+      "longTitle": "Ibisobanuro birambuye",
+      "linksHtml": "<p>Impapuro z'ingirakamaro ushobora gushyiraho imirongo yerekezaho: <a href=\"/games/\">imikino y'ubuntu</a>, <a href=\"/activities/printable/\">inyandiko zicapwa z'ubuntu</a>, <a href=\"/activities/alzheimers/\">imyidagaduro ku bantu bafite Alzheimer</a> na <a href=\"/caregiving/how-to-play-together/\">uburyo bwo gukinira hamwe</a>.</p><h2>Ibibazo cyangwa gukosora</h2><p>Niba hari ikintu kitari cyo cyangwa kidasobanutse kuri uru rubuga, cyangwa se ibiri hano bikaba bidahuye n'ibyo umuntu mwitaho akeneye, tubwire kuri <a href=\"mailto:{email}\">{email}</a>. Nyamuneka ntimukohereze amakuru bwite cyangwa ay'ubuzima bw'abo mwitaho.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Porogaramu ya Golden Moments",
+      "seoTitle": "Porogaramu ya Golden Moments ya iPhone na Android",
+      "description": "Porogaramu y'ubuntu ya Golden Moments: guhuza amafoto mu buryo bworoshye ukoresheje uduce tune tunini, amafoto y'umuryango aguma ku gikoresho cyawe, amatsinda y'amashusho akora nta interineti, kandi nta konti isabwa.",
+      "crumb": "Porogaramu",
+      "lede": "Ibyo wakunze byose kuri uru rubuga, muri porogaramu ikora nta interineti kandi ishobora gukoresha amafoto y'umuryango wihitiyemo.",
+      "worksOn": "Ikora kuri {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Tangirira ku bito</h2><p>Tangirira ku dukarita tune tunini n'amafoto asanzwe amenyerewe. Amafoto yaguma agaragara, cyangwa mukayahisha igihe mubona bibabereye byiza. Uburyo butuje butarimo kubara igihe, amanota cyangwa ibihano. Hitamo udukarita 4, 6, 8 cyangwa 12.</p><h2>Bikore mu buryo bwite</h2><p>Hitamo amafoto y'umuryango ukoresheje ahabugenewe ku gikoresho cyawe. Porogaramu ibika kopi nto zo gukoresha muri iyi mikino. Ntabwo isoma ahandi hose mu mafoto yawe cyangwa ngo ihindure amafoto yawe y'umwimerere, kandi ibika amafoto agera kuri 24 mu cyiciro kimwe.</p><h2>Kurebera hamwe gusa</h2><p>Murebe ifoto imwe icyarimwe. Hari ibibazo byoroheje bishobora gufasha gutangiza ikiganiro, bitiriwe bisaba umuntu kwibuka amazina cyangwa gutanga igisubizo cy'ukuri. Kureba gusa birahagije.</p><h2>Ikora no mu gihe udafite interineti</h2><p>Amafoto yo gutangiriraho n'ibice byose uko ari umunani by'amafoto bibarizwa muri porogaramu. Kopi z'amafoto zinjijwemo zikora nta nterineti. Guhitamo amafoto y'umwimerere abitswe muri iCloud gusa bishobora gukenera interineti.</p><h2>Nta konti ikenewe, nta seriveri ibika amafoto</h2><p>Kopi z'amafoto y'umuryango ziguma muri porogaramu ku gikoresho cyawe. Urashobora gukuramo izo kopi utangiritse amafoto yawe y'umwimerere. Kopi y'ububiko bw'igikoresho cyawe ishobora kubika amakuru ya porogaramu. Soma <a href=\"/app-privacy/\">amategeko agenga ubuzima bwite ya porogaramu</a>, kandi <a href=\"/help/\">ubufasha bwa porogaramu</a> busobanura buri ntambwe.</p>",
+      "disclaimer": "Golden Moments igamije kwidagadura no gusangira ikiganiro. Ntabwo isuzuma, ivura, irinda cyangwa ipima uburwayi bwo kwibagirwa (dementia) cyangwa indwara ya Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Imikino yo kuri Interineti y'Ubuntu ku Bantu Babana no Kwibagirwa na Alzheimer",
+    "description": "Imikino y'ubuntu yo kuri interineti igenewe abakuze babana no kwibagirwa cyangwa Alzheimer: guhuza amafoto, guteranya amashusho byoroshye, gutoranya, imigani n'imvugo, gusiga amabara, na bingo. Nta kwiyandikisha, nta kubara igihe cyangwa amanota.",
+    "crumb": "Imikino",
+    "h1": "Imikino Ituje ku Bantu Babana no Kwibagirwa",
+    "lede": "Imikino {count} y'ubuntu mukinira hamwe muri mushakisha yanyu. Amafoto manini, amagambo yoroheje, kandi nta gutsindwa: nta kubara igihe, nta manota, nta no kwiyandikisha.",
+    "listName": "Imikino ituje ku bantu babana no kwibagirwa",
+    "byStageTitle": "Guhitamo umukino ukurikije ikiciro",
+    "byStageLede": "Ibiciro bitangwa nk'ubuyobozi rusange gusa. Kurikiza icyo uwo mwitaho yishimira n'icyo yumva kimubereye neza uyu munsi.",
+    "stageCol": "Ikiciro",
+    "gamesCol": "Imikino ikunze kubera neza",
+    "moreHtml": "Ibindi bitekerezo bitari ibyo kuri mudasobwa: <a href=\"/activities/ideas/\">ibikorwa 101 ku bantu babana no kwibagirwa</a>, <a href=\"/activities/alzheimers/\">ibikorwa n'imikino ku barwaye Alzheimer</a>, <a href=\"/activities/memory-games/\">imikino ituje y'ubwenge</a> hamwe na <a href=\"/activities/puzzles/\">puzile</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Ni uwuhe mukino twatangiriraho?",
+        "a": "Guhuza amafoto abiri abiri ku dukarita tune ni amahitamo meza kandi atuje yo gutangiriraho. Niba guhitamo hagati y'amafoto bisa nk'ibigoranye, gerageza Gushaka asa ukoresheje amafoto abiri. Ku itsinda ry'abantu, gerageza Bingo y'amafoto."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Ese iyi mikino ikora kuri iPad cyangwa telefoni?",
+        "a": "Yego. Buri mukino ukora muri mushakisha kuri telefoni, mudasobwa zikoze nk'ibirahure (tableti) na mudasobwa zisanzwe, kandi amafoto yaguka akwirwa kuri ecran. Tableti iteretse ku cyo kuyifata ikunze kubera neza abantu babiri."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Ese iyi mikino ibereye umuntu ubana na Alzheimer?",
+        "a": "Yego. Yateguriwe abantu babana n'uburwayi bwo kwibagirwa, harimo na Alzheimer ari na yo ikunze kubitera cyane. Amafoto aguma agaragara, amahitamo ni make, kandi nta kubara igihe cyangwa amanota, bityo imikino yibanda ku kumenya ibintu bimenyerewe aho kwibuka ibishya."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Ese iyi ni imikino yo kwibuka igenewe abageze mu zabukuru?",
+        "a": "Ni imikino yo guhuza no kureba amafoto buri muntu wese ugeze mu zabukuru yakwishimira, ariko yakozwe ku buryo idasuzuma ubushobozi bwo kwibuka: muri Guhuza amafoto, amafoto aguma agaragara keretse wowe ubwawe uhisemo kuyahisha. Ubuyobozi bwacu ku mikino yo kwibuka ku bageze mu zabukuru babana no kwibagirwa busobanura uburyo umukino uwo ari wo wose wakorwa mu buryo butuje."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Ese hari imikino igenewe amatsinda mu bigo byita ku bageze mu zabukuru?",
+        "a": "Yego. Bingo y'amafoto ifite amakarita ashobora gucapwa n'uyobora umukino ugaragara kuri ecran, kandi Kurangiza umugani hamwe n'Amakarita yo gutangiza ikiganiro birakora neza iyo bisomewe itsinda mu ijwi riranguruye."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad na Android",
+    "requirements": "iOS 15 cyangwa nshya; Android 7.0 cyangwa nshya",
+    "summary": "Porogaramu y'ubuntu ya iPhone, iPad na Android ifite imikino ituje yo guhuza amafoto ku dukarita tune kugeza kuri cumi n'abiri tunini, guhuza no kureba amafoto y'umuryango wihitiyemo, hamwe n'ibice umunani by'amafoto bibarizwamo bikora nta nterineti. Nta konti, nta matangazo, nta kubara igihe cyangwa amanota.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Guhuza amafoto mu buryo butuje ukoresheje udukarita 4, 6, 8 cyangwa 12 tunini; amafoto aguma agaragara keretse uhisemo kuyahisha",
+      "Amafoto y'umuryango wahisemo akopororerwa muri porogaramu kugira ngo muyahuze no kuyarebera hamwe",
+      "Kurebera hamwe: ifoto imwe icyarimwe hamwe n'ibibazo byo gutangiza ikiganiro niba ubyifuza",
+      "Ibice umunani by'amafoto bibarizwa muri porogaramu; bikora nta nterineti",
+      "Nta konti, nta matangazo, nta kugura muri porogaramu, nta kubara igihe, amanota cyangwa ibihano"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Ese hari porogaramu y'imikino n'ibikorwa ku bantu babana no kwibagirwa?",
+        "a": "Yego. Golden Moments (yanditse nka \"{storeName}\") iboneka ku buntu kuri App Store na Google Play. Itanga imikino ituje yo guhuza amafoto ku dukarita tunini, imikino ikoresha amafoto y'umuryango wihitiyemo, n'ibice by'amafoto bikora nta nterineti."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Ese porogaramu ya Golden Moments ni ubuntu?",
+        "a": "Yego. Kuyimanura ni ubuntu, nta matangazo, nta konti cyangwa kugira ibyo ugura muri yo."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Ese iyi porogaramu ikora nta nterineti?",
+        "a": "Yego. Amafoto yo gutangiriraho n'ibice byose uko ari umunani by'amafoto bibarizwa muri porogaramu, kandi amafoto y'umuryango akora nta nterineti iyo amaze gukopororwa muri porogaramu. Guhitamo ifoto ibitswe muri iCloud gusa bishobora gukenera interineti."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Ese nshobora gukoresha amafoto yacu bwite y'umuryango?",
+        "a": "Yego. Hitamo amafoto ukoresheje icyuma gihitamo amafoto cy’igikoresho cyawe. Porogaramu ibika kopi nto z’ayo mafoto ku gikoresho kugira ngo ikoreshe mu mikino yayo, ntiyohereza ayo mafoto ahandi kandi ntihindura amafoto y’umwimerere. Ushobora gukuraho izo kopi igihe icyo ari cyo cyose."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Ese ni porogaramu yo gukora imyitozo y’ubwonko cyangwa igerageza ry’ubwibuke?",
+        "a": "Oya. Golden Moments igenewe kwishimisha no kumarana igihe. Nta manota cyangwa ibizamini irimo, kandi ntisuzuma, ntivura, ntirinda cyangwa ngo ipime indwara yo kwibagirwa cyangwa indwara ya Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Ikora ku bikoresho bihe?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Hari verisiyo ya porogaramu y’uyu mukino?",
+      "a": "Yego. Porogaramu ya Golden Moments yo ku buntu, ikora ku iPhone, iPad na Android, irimo umukino woroheje wo guhuza amafoto, ishobora gukoresha amafoto y’umuryango wawe uhitamo, kandi ikora idafite interineti. Nta konti, nta matangazo kandi nta manota."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Hari verisiyo ya porogaramu y’uyu mukino?",
+      "a": "Ntabwo ari verisiyo y’uyu mukino. Porogaramu ya Golden Moments yo ku buntu, ikora ku iPhone, iPad na Android, irimo umukino woroheje wo guhuza amafoto ufite amashusho manini n’amafoto y’umuryango uhitamo, kandi ikora idafite interineti. Uyu mukino uguma ari ubuntu hano, mu mushakisha wawe."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: amashusho manini kandi meza",
+    "noscript": "Uyu mukino ukeneye JavaScript ifunguye mu mushakisha wawe. Inama ziri hepfo zikora utayifunguye.",
+    "about": "Ibyerekeye {name}",
+    "aboutAria": "Ibyerekeye uyu mukino",
+    "noTimer": "Nta gihe cyangwa amanota",
+    "printable": "Ushobora gucapa",
+    "howTo": "Uko wakina {name}",
+    "tips": "Inama zo gukinana",
+    "newToPlayingHtml": "Ntibisanzwe ko ukina n’umuntu urwaye indwara yo kwibagirwa? Soma <a href=\"/caregiving/how-to-play-together/\">uko mwakinana imikino</a>, harimo icyo wakora igihe atakishimira umukino.",
+    "moreAria": "Ibindi wasura",
+    "helpfulGuides": "Amabwiriza afasha",
+    "appTitle": "Kuyikinira muri porogaramu",
+    "appText": "Porogaramu ya Golden Moments yo ku buntu irimo umukino woroheje wo guhuza amafoto ufite amashusho manini n’amafoto y’umuryango wawe, kandi ikora idafite Wi‑Fi. iPhone, iPad na Android.",
+    "photoAppTitle": "Tegura amafoto yawe",
+    "photoAppText": "Muri porogaramu ya Golden Moments yo ku buntu, amafoto uhitamo abikwa ku gikoresho cyawe kugira ngo azaboneke ubutaha, kandi imikino ikora idafite Wi‑Fi. iPhone, iPad na Android.",
+    "goodToKnow": "Ibyo ukwiye kumenya",
+    "goodToKnowText": "Uyu mukino ugenewe kwishimisha no kumarana igihe. Nta kintu ugerageza, ugereranya cyangwa uvura.",
+    "moreGames": "Indi mikino yoroheje",
+    "crumb": "Imikino"
   }
 }

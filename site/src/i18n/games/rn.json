@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Guhuza amashusho asa",
+    "seoTitle": "Urukino rwo Guhuza Amashusho ku Babana n'Ingorane yo Kwibagira: Guhuza Amashusho Asa",
+    "h1": "Guhuza Amashusho Asa: Urukino Rutuje rwo Guhuza Amashusho",
+    "description": "Urukino rw'ubuntu kandi rutuje rwo guhuza amashusho ku bantu babana n'ingorane yo kwibagira. Amashusho manini aguma aboneka, nta saha ibara umwanya canke amanota, kandi muhitamwo udukaro 4 gushika 12.",
+    "short": "Rondera amashusho abiri asa. Amashusho arashobora kuguma agaragara.",
+    "players": "Umuntu 1 canke 2, bicaye begeranye",
+    "intro": "Fyonda ku gishusho, hanyuma ufyonde ku gisa naco. Amashusho asanzwe aguma agaragara, kugira ntihagire ibikeneye kwibukwa. Iyo amashusho abiri ajanye, aca agira urubibi rw'inzahabu n'akamenyetso ko kwemeza.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Hitamwo igitigiri c'udukaro mukoresha. Udukaro tune ni intango nziza kandi ituje yo gutangurirako.",
+      "Fyonda ku gishusho ico ari co cose. Gica kigira urubibi rw'inzahabu.",
+      "Fyonda ku gishusho gisa naco. Ayo mashusho yompi aca agumana akamenyetso ko kwemeza.",
+      "Iyo amashusho abiri atandukanye, nta kintu kibi kiba. Fyonda kandi igihe cose mwiteguye.",
+      "Koresha « Amashusho anyegeje » gusa mu gihe mwembi muryoherwa n'uburyo busanzwe aho amashusho aba yubitse."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Vugira mu ijwi ryumvikana amazina y'amashusho muriko murayaganirako: « Igikombe gitukura c'iti. Woba ushiramwo amata mu kwayi yawe? »",
+      "Reka uwo mwitaho abe ari we afyonda, naho vyotora umwanya. Ni vyiza kumwereka aho kumucondera.",
+      "Gumana udukaro tune igihe cose bikibanezereza. Kongereza udukaro ni uguhitamo, si urugero umuntu agomba gushikako.",
+      "Hezeza igihe mugifise akanyamuneza. Urukino rumwe ni igikorwa gikwiye rwose."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hoba hariho isaha ibara umwanya canke amanota?",
+        "a": "Oya. Nta saha, nta manota, nta kubara incuro wakanze, canke gutsindwa. Murashobora guhagarika umwanya uwo ari wo wose, kandi no guhagararira hagati ni uburyo bwiza bwo guheza."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Kubera iki amashusho aguma agaragara?",
+        "a": "Kugumiza amashusho agaragara bituma urukino ruba urwo kuraba no guhuza aho kuba urwo kwibuka. Abantu benshi basanga ibi bituje cane. Murashobora guhindura mukajya ku mashusho anyegeje mu kufyonda rimwe gusa niba mubyifuza."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Uru rukino ni urw'ubuntu, kandi biba bikenewe kwiyandikisha?",
+        "a": "Ego, ni urw'ubuntu, kandi nta konti, nta kwiyandikisha canke gukuraho porogarame. Rukorera muri brawuza yo kuri terefone, tabuleti canke mudasobwa."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Twoba dushobora gukoresha amafoto yacu y'umuryango?",
+        "a": "Ego. Koresha Photo pairs, ibemerera guhitamo amafoto ari muri apareye yanyu. Ayo mafoto aguma muri brawuza yanyu kandi ntiyigera ashikirizwa ahandi."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Rondera irisa nayo",
+    "seoTitle": "Rondera Ishusho Isa Nayo: Urukino Rworoheje ku Babana n'Ingorane yo Kwibagira",
+    "h1": "Rondera Ishusho Isa Nayo",
+    "description": "Ishusho imwe hejuru, abiri gushika kuri ane munsi. Fyonda ku gishusho gisa nayo. Urukino rutuje kandi rw'ubuntu ku bantu babana n'ingorane yo kwibagira, rutagira isaha yo kubara umwanya.",
+    "short": "Raba ishusho iri hejuru uce ufyonda ku gisa nayo munsi.",
+    "players": "Umuntu 1 canke 2",
+    "intro": "Ishusho imwe gusa iba iri hejuru kuri ecran. Munsi yayo hari amashusho abiri, atatu canke ane. Fyonda ku gisa nayo. Ni uguhitamo kumwe kworoheje ku nshuro imwe, biteza umwanya uhagije wo kuyaga.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Hitamwo amashusho abiri, atatu canke ane yo guhitamwo. Abiri niyo yoroshe cane.",
+      "Rabire hamwe ishusho iri hejuru.",
+      "Fyonda ku gishusho gisa nayo munsi. Gica kirangwaho akamenyetso ko kwemeza n'amajambo macye y'igishika.",
+      "Iyo ufyonze ku gishusho gitandukanye, urukino ruvuga gusa izina ryaco rugaca rurindira. Fata umwanya wawe.",
+      "Fyonda kuri « Ishusho ikurikira » igihe cose mwiteguye iyindi."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Banza muyage kuri buri gishusho imbere yo guhitamo: amabara, uko kimeze, n'aho mushobora kugisanga.",
+      "Guhitamwo muri bibiri ntibisobanura ko « bworoshe burenze ». Intumbero ni ukugira umwanya unejeje, si ihiganwa.",
+      "Nimba gukora kuri ecran bigoye, uwo muntu arashobora kwerekana n'urutoki maze mukamufyondera."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hoba hariho isaha ibara umwanya canke amanota?",
+        "a": "Oya. Nta saha, nta manota, nta kubara incuro wakanze, canke gutsindwa. Murashobora guhagarika umwanya uwo ari wo wose, kandi no guhagararira hagati ni uburyo bwiza bwo guheza."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Haca hagenda gute iyo ufyonze ku gishusho kitari co?",
+        "a": "Nta kintu kidashimishije kiba. Nta nzogera irira, nta musaraba utukura canke kunyiganyiga. Urukino ruvuga gusa izina ry'ishusho yafyondwa rugaca rurindira indi nshuro mukanda."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Uru rukino ni urw'ubuntu, kandi biba bikenewe kwiyandikisha?",
+        "a": "Ego, ni urw'ubuntu, kandi nta konti, nta kwiyandikisha canke gukuraho porogarame. Rukorera muri brawuza yo kuri terefone, tabuleti canke mudasobwa."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Guhuza n'igitutu",
+    "seoTitle": "Urukino rwo Guhuza n'Igitutu ku Babana n'Ingorane yo Kwibagira: Nta Kwishyura kuri Interineti",
+    "h1": "Guhuza n'Igitutu: Urukino Rutuje rw'Amashusho",
+    "description": "Igitutu c'umukara hejuru, amashusho abiri gushika kuri ane munsi. Fyonda ku gishusho kirema ico gitutu. Urukino rw'ubuntu kandi rutuje rwo guhuza ibitutu ku babana n'ingorane yo kwibagira, rutagira isaha.",
+    "short": "Raba igitutu uce ufyonda ku gishusho kigize ico gitutu.",
+    "players": "Umuntu 1 canke 2",
+    "intro": "Guhuza n'igitutu ni igikorwa gisanzwe kimenyerewe mu mpapuro zo gukorerako, ariko hano kizanwe n'amashusho manini kandi nta gucapa bikenewe. Igitutu gikeye kiri hejuru kuri ecran, hanyuma amashusho abiri, atatu canke ane akaba ari munsi. Fyonda ku gishusho kimeze nk'ico gitutu. Ibintu nk'ikinga, umutaka canke igikombe c'iti biroroshe no kubiganirako.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Hitamwo amashusho abiri, atatu canke ane yo guhitamwo. Abiri niyo yoroshe cane.",
+      "Rabire hamwe ico gitutu. Kimeze gute? Kiragutse canke kiriburungushuye?",
+      "Fyonda ku gishusho kigize igitutu. Izina ryaco rica riboneka munsi y'igitutu.",
+      "Iyo ufyonze ku gishusho gitandukanye, urukino ruvuga gusa izina ryaco rugaca rurindira. Fata umwanya wawe.",
+      "Fyonda kuri « Igitutu gikurikira » igihe cose mwiteguye ikindi."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Koresha urutoki mukurikirana imbibi z'igitutu muce muganira ku kuntu kimeze.",
+      "Nimba ibitutu bibagoye uyu musi, mushobora guhindura mukaja kuri Rondera irisa nayo, aho amashusho asa neza.",
+      "Muvugane ku gishusho kimaze kuboneka: « Twarigeze kugira umutaka nk'urya. »"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hoba hariho isaha ibara umwanya canke amanota?",
+        "a": "Oya. Nta saha, nta manota, nta kubara incuro wakanze, canke gutsindwa. Murashobora guhagarika umwanya uwo ari wo wose, kandi no guhagararira hagati ni uburyo bwiza bwo guheza."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Guhuza igicucu n'ishusho yaco vyoba bibereye abantu bafise indwara yo kwibagira?",
+        "a": "Birashobora kuba igikorwa gihumuriza kandi coroshe ku bantu bamwe, canecane mu ntangiriro. Gumenya ibishusho biroroha kuruta amajambo. Ni uburyo bwo kunezerwa no kuyaga, si ikibazo c'ikizamini, kandi ntikivura canke ngo kigobereze indwara yo kwibagira. Nimba bitera umwikomo, gerageza Kurondera ibisa canke murabire hamwe amashusho gusa."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Hagenda gute iyo umuntu akanze ku gicapo kitari co?",
+        "a": "Nta kintu kibabaza kiba. Nta nzogera irira, nta musaraba utukura canke guhinda umushitsi. Urukino ruvuga izina ry'ishusho yakanzwe rukarindira ko mwongera gukanda."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Urukino ni ubuntu, kandi mbega birakwiye ko niyandikisha?",
+        "a": "Ego, ni ubuntu, kandi nta konte, kwiyandikisha canke gukoporora bikenewe. Rurakora muri brawuza yo kuri terefone, itaruburete canke mudasobwa."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Dutondekanye hamwe",
+    "seoTitle": "Urukino rwo Gutondekanya ku Bafise Indwara yo Kwibagira: Dutondekanye Hamwe",
+    "h1": "Dutondekanye Hamwe: Igikorwa co Gutondekanya Amashusho",
+    "description": "Kanda ku gicapo, uce ukanda ku giseke gikwiriye: mu gikoni canke mu murima, ivyamwa canke ibikoko. Igikorwa gitekereje kandi c'ubuntu co gutondekanya ku bantu bafise indwara yo kwibagira.",
+    "short": "Shira igicapo cose mu giseke caco: mu gikoni canke mu murima, n'ibindi.",
+    "players": "Umuntu 1 canke 2",
+    "intro": "Gutondekanya ni igikorwa gisanzwe kimenyerewe mu buzima bwa misi yose, nko kubika ibidandazwa canke guhuza amasogisi. Kanda ku gicapo, uce ukanda ku giseke gikwiriye. Nta kwihuta kandi nta gukosa.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Hitamo icigwa: igikoni n'umurima, ivyamwa n'ibikoko, canke muhira n'urugendo.",
+      "Kanda ku gicapo. Kica kigira urubibe rw'inzahabu.",
+      "Kanda ku giseke kigenewe. Igicapo gica cinjira muri ico giseke.",
+      "Iyo bikwiye mu kindi giseke, urukino rubibabwira buhoro rukarindira.",
+      "Iyo amashusho yose atunganijwe, rabanira hamwe mu biseke."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Mu buzima busanzwe, kenshi nta nsiguro mbi ibaho. Nimba umuntu avuze ko ikintu co kuhira gikwiye kuba mu gikoni, mubaze igituma. Murashobora kwumva inkuru nziza.",
+      "Koresha amashusho mu gutangura ikiyago: «Mwararima ibiki mu murima wanyu?»",
+      "Gutondekanya ibintu bifatika, nk'amayiko n'amasuka mato canke ibifungo ku mabara, ni igikorwa ciza co gukora kure ya terefone canke mudasobwa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hoba harimwo igiharura umwanya canke amanota?",
+        "a": "Oya. Nta saha, nta manota, nta giharura intambwe canke gutsindwa. Murashobora guhagarika igihe cose mushakiye, kandi guhagararira hagati ni uburyo bwiza bwo guheza."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Kubera iki gutondekanya?",
+        "a": "Abantu benshi barakunda gutondekanya kubera biboneka nk'igikorwa kigirira akamaro kandi bamenyereye. Biba kandi vyoroshe kuyaga ku mashusho uko mugenda murakina."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Urukino ni ubuntu, kandi mbega birakwiye ko niyandikisha?",
+        "a": "Ego, ni ubuntu, kandi nta konte, kwiyandikisha canke gukoporora bikenewe. Rurakora muri brawuza yo kuri terefone, itaruburete canke mudasobwa."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Guteranya amashusho",
+    "seoTitle": "Guteranya Amashusho Kworoshe ku Bafise Indwara yo Kwibagira: Ibice 4 canke 9",
+    "h1": "Guteranya Amashusho: Urukino rworoshe",
+    "description": "Urukino rworoshe rwo guteranya amashusho ku rubuga ku bantu bafise indwara yo kwibagira: ibice binini 4 canke 9, ishusho yose iguma iboneka, kandi mukanda ku bice bibiri kugira bihindure ibibanza.",
+    "short": "Kanda ku bice bibiri kugira bihindure ibibanza gushika ishusho yose yuzure.",
+    "players": "Umuntu 1 canke 2",
+    "intro": "Ishusho ibereye igaburwamwo ibice binini bine canke icenda bikavangwa. Ishusho yose iguma iboneka kugira ibayobore. Kanda ku gice kimwe, uce ukanda ku kindi, bice bihindura ibibanza. Nta gukwega gukenewe.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Hitamo ishusho n'ibice 4 canke 9. Bine ni intangiriro yoroshe.",
+      "Raba ishusho yose hejuru.",
+      "Kanda ku gice, uce ukanda aho gikwiye kuja. Ivyo bice bibiri bica bihindura ibibanza.",
+      "Ibice biri mu kibanza gikwiye bironka akamenyetso gato ko kwemeza.",
+      "Iyo ishusho yuzuye, yirabire hamwe munezerwe, muce muhitamo iyindi."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Gukanda ku bice bibiri kugira bihindure ibibanza biroroha cane kuruta kubikwega ku bantu benshi.",
+      "Yage ku mashusho uko agenda yegerana: «Ng'urwo rusenge rutukura.»",
+      "Urukino rwo guteranya ibiti ruboneka rw'ibice binini 12 gushika 24 ni igikorwa ciza cane ku meza."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hoba harimwo igiharura umwanya canke amanota?",
+        "a": "Oya. Nta saha, nta manota, nta giharura intambwe canke gutsindwa. Murashobora guhagarika igihe cose mushakiye, kandi guhagararira hagati ni uburyo bwiza bwo guheza."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Birasaba gukwega ibice?",
+        "a": "Oya. Kanda ku gice kimwe, uce ukanda ku kindi, bice bihindura ibibanza. Ivyo biroroha iyo ukuboko kudurumbata canke ku kirahuri gito."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Urukino ni ubuntu, kandi mbega birakwiye ko niyandikisha?",
+        "a": "Ego, ni ubuntu, kandi nta konte, kwiyandikisha canke gukoporora bikenewe. Rurakora muri brawuza yo kuri terefone, itaruburete canke mudasobwa."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Heza umugani",
+    "seoTitle": "Heza Umugani: Urukino rw'Imigani ku Bageze mu Zabukuru",
+    "h1": "Heza Umugani",
+    "description": "Imigani imenyerewe yo muri Amerika ibura ijambo rya nyuma, nk'«A penny saved is a penny ___». Kanda ku gihitamwo canke werekane iherezo, muce muyagako.",
+    "short": "Mwuzuze hamwe imigani imenyerewe, muce muyagako.",
+    "players": "Umuntu 1, 2 canke umugwi",
+    "intro": "Imigani ya kera kenshi irazwi mu buzima bwose. Agakarata kose kerekana umugani umenyerewe ubura ijambo rya nyuma, amahitamo atatu, n'ububiko bwanditseko «Erekana iherezo». Inyuma y'iherezo, ikibazo gitekereje gituma muganira.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Somerani hamwe umugani mu ijwi ryumvikana.",
+      "Kanda ku jambo riwuheza, canke ukande «Erekana iherezo».",
+      "Ongera musome umugani wose muce muganira mukoresheje ikibazo babazanye.",
+      "Kanda «Umugani ukurikira» iyo mwiteguye."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Soma buhoro kandi urindire gatoyi imbere y'ijambo rya nyuma. Kenshi abantu bararivuga imbere y'uko uruheza.",
+      "Nimba hari uwatanze irindi herezo, ribezerere. Imigani imwe n'imwe iratandukana bivanye n'umuryango canke intara.",
+      "Mu mugwi, umuntu umwe arasoma maze abandi bose bakungikanya ku kanyuma."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hoba harimwo igiharura umwanya canke amanota?",
+        "a": "Oya. Nta saha, nta manota, nta mubare w'imigendo, nta gutsindwa. Mushobora guhagarara igihe cose, kandi guhagarara hagati ni uburyo bwiza bwo kurangiza."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Ese twahitamo irindi jambo?",
+        "a": "Umukino werekana umusozo usanzwe maze ugakomeza mu biganiro. Nta manota, kandi igisubizo gitandukanye ni cyiza."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ese ni ubuntu, kandi nkeneye kwiyandikisha?",
+        "a": "Yego, ni ubuntu, nta konti, nta kwiyandikisha, nta gukuramo. Ikora mu mushakisho wa interineti kuri telefone, tabuleti cyangwa mudasobwa."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ishakiro ry'amagambo rifite inyuguti nini",
+    "seoTitle": "Ishakiro ry'amagambo rifite inyuguti nini ku barwaye indwara yo kwibagirwa, ryo gucapa",
+    "h1": "Ishakiro ry'amagambo rifite inyuguti nini",
+    "description": "Ishakiro ry'amagambo ku buntu rifite inyuguti nini ku bakuze n'abantu babana n'indwara yo kwibagirwa. Amagambo make, inyuguti nini, asomwa uva ibumoso ujya iburyo cyangwa uva hejuru ujya hasi gusa. Mushobora gukinira kuri interineti cyangwa mukaricapa.",
+    "short": "Inyuguti nini, amagambo make, asomwa uva ibumoso ujya iburyo cyangwa uva hejuru ujya hasi gusa. Mushobora no kuricapa.",
+    "players": "Umuntu 1 cyangwa 2",
+    "intro": "Ikibaho gito cy'inyuguti nini n'amagambo make gusa, yose asomwa uva ibumoso ujya iburyo cyangwa uva hejuru ujya hasi. Mukande ku nyuguti ya mbere y'ijambo, hanyuma mukande ku nyuguti yaryo ya nyuma. Mukunda impapuro? Mushobora gucapa ikibaho gishya mu kanya gato.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Muhitemo insanganyamatsiko n'ingano y'ikibaho.",
+      "Murebe urutonde rw'amagambo. Amagambo asomwa uva ibumoso ujya iburyo cyangwa uva hejuru ujya hasi.",
+      "Mukande ku nyuguti ya mbere y'ijambo, hanyuma mukande ku nyuguti yaryo ya nyuma.",
+      "Ijambo ryabonetse rirashushanywa kandi rirakurwa ku rutonde.",
+      "Mukande “Mucape iki kibazo” mukine ku mpapuro n'ikaramu cyangwa irangi."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Mwereke ijambo riri ku rutonde, mureberere hamwe inyuguti yaryo ya mbere.",
+      "Ku mpapuro, ikaramu y'irangi iroroshye gufata kurusha ikaramu isanzwe.",
+      "Muganire ku magambo y'insanganyamatsiko. Amagambo y'imbuto ni uburyo bworoshye bwo kwibuka igihe mwasaruraga, mutekaga imigati cyangwa mujya ku isoko."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hari isaha cyangwa amanota?",
+        "a": "Oya. Nta saha, nta manota, nta mubare w'imigendo, nta gutsindwa. Mushobora guhagarara igihe cose, kandi guhagarara hagati ni uburyo bwiza bwo kurangiza."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Nshobora gucapa ishakiro ry'amagambo?",
+        "a": "Yego. Mukande “Mucape iki kibazo” kugira ngo icapwe ikibaho kiriho ubu mu nyuguti nini, urutonde rw'amagambo ruri munsi yacyo. Buri kibazo gishya kiba gitandukanye."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ese ni ubuntu, kandi nkeneye kwiyandikisha?",
+        "a": "Yego, ni ubuntu, nta konti, nta kwiyandikisha, nta gukuramo. Ikora mu mushakisho wa interineti kuri telefone, tabuleti cyangwa mudasobwa."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Impapuro zo gushushanya",
+    "seoTitle": "Impapuro zo gushushanya ku bakuze barwaye indwara yo kwibagirwa (ku buntu)",
+    "h1": "Impapuro zo gushushanya",
+    "description": "Impapuro zoroheje zo gushushanya zigenewe abakuze, zifite ahantu hanini: mukande ibara, hanyuma mukande ku ishusho. Nta mwanda, nta mabara adakwiye, kandi buri rupapuro rushobora gucapwa ku buntu.",
+    "short": "Mukande ibara, hanyuma mukande ahantu ku ishusho. Mushobora no gucapa impapuro.",
+    "players": "Umuntu 1 cyangwa 2",
+    "intro": "Impapuro zifite amashusho manini kandi yoroheje: ururabo mu nkono, inzu, igikombe cy'icyayi, ikinyugunyugu n'ubwato bugenda ku mazi. Mukande ibara, hanyuma mukande ahantu ku ishusho kugira ngo muyuzuze. Nta mabara adakwiye.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Muhitemo urupapuro.",
+      "Mukande ibara. Buri bara ryanditseho izina ryaryo.",
+      "Mukande ahantu ku ishusho kugira ngo muyuzuze n'iryo bara.",
+      "Mushobora guhindura igihe cyose mwongeye kuyuzuza.",
+      "Mukande “Mucape uru rupapuro” kugira ngo mubone urupapuro rwera rwo gushushanya n'ikaramu cyangwa irangi."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Mubahe amabara abiri yo guhitamo aho guhabwa amabara yose, niba guhitamo bibagoye.",
+      "Ibiti by'umuyugubwe n'izuba ry'ubururu biremewe. Ni ukwishimira amabara, si ukuba impamo.",
+      "Impapuro zacapwe zikora neza n'amakaramu manini cyangwa ibiti by'irangi, byoroshye gufata."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hari isaha cyangwa amanota?",
+        "a": "Oya. Nta saha, nta manota, nta mubare w'imigendo, nta gutsindwa. Mushobora guhagarara igihe cose, kandi guhagarara hagati ni uburyo bwiza bwo kurangiza."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Ese izi mpapuro ni iz'abana cyane?",
+        "a": "Twashushanyije ibintu bituje kandi byoroheje aho gushushanya ibishushanyo bisekeje, kugira ngo impapuro zikwiriye abakuze. Ibice binini bituma gushushanya byoroha nta kuba ibintu by'abana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ese ni ubuntu, kandi nkeneye kwiyandikisha?",
+        "a": "Yego, ni ubuntu, nta konti, nta kwiyandikisha, nta gukuramo. Ikora mu mushakisho wa interineti kuri telefone, tabuleti cyangwa mudasobwa."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Amakarita yo kuganira",
+    "seoTitle": "Ibibazo byo gutangiza ibiganiro ku barwaye indwara yo kwibagirwa: amakarita y'amashusho",
+    "h1": "Amakarita yo kuganira",
+    "description": "Amakarita y'amashusho afite ibibazo byoroheje byo gutangiza ibiganiro ku bantu babana n'indwara yo kwibagirwa: nta kubaza ibibazo, nta gisubizo cy'ukuri. Mushobora kuyakoresha kuri ekarani cyangwa mukacapa amakarita yose.",
+    "short": "Amakarita y'amashusho afite ibibazo byoroheje bifunguye. Nta kubaza ibibazo.",
+    "players": "Abantu 2 cyangwa itsinda",
+    "intro": "Buri karita ihuza ishusho imenyerewe n'ubutumire bufunguye bwo kuganira, nk'ati “Ni ubuhe bwoko bw'ikirere ukunda?” Nta gisubizo cy'ukuri, nta kintu cyo kwibuka. Muhitemo insanganyamatsiko cyangwa mubivange byose.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Muhitemo insanganyamatsiko, cyangwa musige “Amakarita yose”.",
+      "Musome ikibazo mu ijwi riranguruye, hanyuma mureberere hamwe ishusho.",
+      "Mwumve, musangize igisubizo cyanyu, hanyuma muganire uko bishaka.",
+      "Mukande “Ikarita ikurikira” igihe mwiteguye, cyangwa mugume ku ikarita imwe igihe cyose mwifuza.",
+      "Mukande “Mucape amakarita yose” kugira ngo mubone urupapuro rw'amakarita yo gukata."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Nawe subiza ikibazo. Bizasa n'ikiganiro, si ikizamini.",
+      "Kurikirana inkuru, si ukuri kw'ibintu. Niba amakuru ahinduka, nta kibazo.",
+      "Niba ikarita ikoze ku kintu cy'agahinda, mwemere icyo bumva hanyuma mwimukire buhoro ku yindi karita."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Kuki nta bibazo bya “Mwibuka…?” bihari?",
+        "a": "Ibibazo bipima kwibuka bishobora gusa n'ikizamini kandi bigatera isoni. Ibitumira gufungura nka “Mumbwire ibyerekeye…” bituma umuntu wese yinjira mu kiganiro, icyo yibuka cyose."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Nshobora gucapa amakarita?",
+        "a": "Yego. “Mucape amakarita yose” icapa amakarita yose mu nyuguti nini, nk'amakarita menshi ku rupapuro, yiteguye gukatwa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ese ni ubuntu, kandi nkeneye kwiyandikisha?",
+        "a": "Ego, ni ku buntu, kandi nta konte, kwiyandikisha canke gukoporora bisabwa. Bikora muri mukerarugendo yo kuri telefone, itabureti canke mudasobwa."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Guhuza amafoto",
+    "seoTitle": "Gukora umukino wo guhuza uhereye ku mafoto yo mu muryango",
+    "h1": "Amafoto ajanye: Huza amafoto yawe bwite",
+    "description": "Hindura amafoto y'umuryango wawe mu mukino woroshe wo guhuza. Hitamo amafoto 2 gushika kuri 6 ari ku cuma cawe; aguma muri mukerarugendo yawe kandi ntiyigera arungikwa ahandi.",
+    "short": "Hitamo amafoto yawe bwite maze uyahuze. Nta kintu na kimwe kirungikwa ahandi.",
+    "players": "Abantu 2, bicaranye",
+    "intro": "Hitamo amafoto kuva kuri abiri gushika kuri atandatu kuri telefone, itabureti canke mudasobwa yawe, maze acike umukino wo guhuza ufise amasanamu manini kandi abumburutse neza. Ayo mafoto yerekanwa gusa kuri uru rupapuro. Ntiyarungikwa ahandi, ntiyabikwa canke ngo asangizwe abandi, kandi arazimangana igihe wugaye uru rupapuro.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Fyonda ahanditse \"Hitamo amafoto\" maze utore amafoto kuva kuri abiri gushika kuri atandatu.",
+      "Buri foto igaragara kabiri. Fyonda kuri imwe, uce ufyonda ku yindi isa na yo.",
+      "Kuyaga ku bijanye na buri foto uko muyibonye.",
+      "Iyo murangije, mwugare urupapuro canke mufyonde ahanditse \"Kura ho amafoto\". Nta kintu na kimwe kigumizwa."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Hitamo amafoto agaragara neza y'ibintu bizwi bitera akanyamuneza: igitungwa co mu nzu, umurima w'amashurwe, ahantu hakunzwe, canke umusi w'ubugeni.",
+      "Amasanamu y'ahantu n'ibintu ashobora kworoherana gusumba uburanga bw'abantu, kandi birinda umutwaro wo gusaba uwo muri kumwe kwibuka amazina y'abantu.",
+      "Mureke gukoresha amafoto y'abitavye Imana nimba ashobora gutera intuntu y'igiturumbuka, kiretse gusa niba muzi neza ko amutera ituze n'ihumure."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Hoba hari aho amafoto yanje arungikwa?",
+        "a": "Oya. Uru rupapuro rusoma amafoto mwahisemwo rigororotse muri mukerarugendo yanyu maze rukayerekana ku kirahuri canyu. Ntiyarungikirwa twebwe canke uwundi muntu uwo ari we wese, kandi arahita azimangana iyo mwugaye canke mukanguye uru rupapuro."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Hoba hariho isaha ibara umwanya canke amanota?",
+        "a": "Oya. Nta saha, nta manota, nta kubara ingendo mukora, kandi nta gutsindwa kubaho. Murashobora guhagarara igihe cose mubishakiye, kandi no guhagararira hagati ni uburyo bwiza bwo gusozera."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ndashobora kubika uyu mukino kugira ngo nzowukine ubutaha?",
+        "a": "Ntibikunda muri mukerarugendo, ku bw'impamvu zo gukingira amabanga yanyu, kugira ngo nta kintu c'umwihariko kibikwe. Porogaramu yo ku buntu ya Golden Moments igenewe iPhone na iPad irashobora kugumiza kopi z'amafoto mwahisemwo ku cuma canyu."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo y'amasanamu",
+    "seoTitle": "Bingo y'amasanamu ku bageze mu zabukuru bibagiranwa: Ishobora gucapwa",
+    "h1": "Bingo y'amasanamu ku matsinda",
+    "description": "Bingo y'amasanamu yo gucapa ku buntu igenewe amatsinda y'abageze mu zabukuru n'abafashwa kwibuka, ifise n'uwerekana amasanamu manini kuri televiziyo canke mudasobwa. Amasanamu manini ari kumwe n'amajambo, udukaru 9 canke 16, ntibisaba kumenya gusoma.",
+    "short": "Udukarata twa bingo y'amasanamu two gucapa n'uburyo bwo kwerekana amasanamu ku kirahuri kinini ku matsinda.",
+    "players": "Itsinda ry'abantu kuva kuri 2 gushika kuri 30",
+    "intro": "Bingo isanzwe ikoresha amasanamu mu kibanza c'ibiharuro, kugira ngo ntihagire uwugorwa no gusoma inyuguti ntoya. Capa urukurikirane rw'udukarata tudasa, hanyuma ukoreshe uburyo bwo kwerekana amasanamu manini kuri televiziyo, mudasobwa igendanwa canke itabureti.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Hitamo udukaru 9 canke 16 kuri buri gakarata n'igitigiri c'abakinyi.",
+      "Fyonda \"Capa udukarata\". Buri gakarata karatandukanye n'akandi.",
+      "Yugurura ahaboneka amasanamu ku kirahuri kinini. Fyonda \"Isanamu ikurikira\" kugira ngo mwerekane buri sanamu n'izina ryayo.",
+      "Abakinyi bapfuka isanamu ihuye n'iyo ku gakarata kabo bakoresheje igiceri, ibuto canke akamenyetso.",
+      "Umuntu wese yujuje umurongo, canke igakarata cose, arakomerwa amashi. Nta wutsindwa muri uyu mukino: mubandanye gukina gushika buri muntu yuzuze nibura umurongo umwe."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Koresha ibintu binini vyo gupfukisha nk'amabuji y'amakarata canke imitiba y'amacupa. Ubuto buto bushobora kugora gutora.",
+      "Vuga izina ry'isanamu uce ugira ico uyivuzeko: \"Ubwato bucira umuyaga. Ni nde yaba yarigeze kugendera mu bwato?\"",
+      "Igize abantu bagorwa no kubona neza hafi y'ikirahuri, kandi mushire abafasha iruhande rw'abakinyi bakeneye ubufasha.",
+      "Udukaru cenda turakwiye cane ku matsinda menshi. Mwame mukora umukino umara hagati y'iminota 20 na 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Noshobora gute gutunganya bingo y'amasanamu mu kigo c'abageze mu zabukuru?",
+        "a": "Capa igakarata kimwe kuri buri mukinyi, shyira ahaboneka amasanamu ku kirahuri kinini kuruta ibindi mufise, maze muhamagare amasanamu buhoro buhoro, muvuga izina rya buri yose. Mukine gushika buri muntu yuzuze nibura umurongo umwe, kugira ngo ntihagire uwusigara inyuma."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Hoba ari ku buntu gucapa?",
+        "a": "Ego meza. Capa udukarata twinshi uko ubikeneye, kenshi uko ubishaka, ku bwawe bwite canke mu tsinda."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Abantu bashobora gukina batarinze gusoma?",
+        "a": "Ego meza. Buri karu ni isanamu nini, ifise izina ryayo musi ku bakunda amagambo."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Guhumeka mu mutuzo",
+    "seoTitle": "Akaruhuko ko guhumeka mu mutuzo ku bageze mu zabukuru n'ababafasha",
+    "h1": "Akaruhuko ko guhumeka mu mutuzo",
+    "description": "Akaruhuko katekanye ko guhumeka buhoro musangiye: uruziga rutuje ruraguka rukongera rukagabanuka mu bihe bitandatu vyo guhumeka. Murarutangiza, kandi murashobora kuruhagarika igihe cose mubishakiye.",
+    "short": "Uruziga rugenda buhoro rwo guhumekana na rwo. Tangiza wongere uhagarike igihe ubishakiye.",
+    "players": "Umuntu 1 canke 2",
+    "intro": "Rimwe na rimwe igikorwa ciza kuruta ibindi ni akaruhuko katekanye. Fyonda \"Tangura\", hanyuma mukwipfe umwuka igihe uruziga ruriko rwaguka, muwusohore igihe uruziga ruriko rugabanuka. Hitamo umuvuduko woroshe canke wishimira. Si umuti canke ubuvuzi, ni umwanya w'amahoro n'ituze wo gusangira gusa.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Mwicare mu buryo bworoshe kandi bubereye iruhande n'iruhande.",
+      "Hitamo umuvuduko: buhoro canke woroshe.",
+      "Fyonda \"Tangura\". Mukwipfe umwuka igihe uruziga rwiyongera, muwusohore igihe rugabanuka.",
+      "Rurihagarika rwonyene inyuma yo guhumeka gatandatu, canke mufyonde \"Hagarika\" igihe cose mubishakiye."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Fatanani mu ntoke canke mushire ukuboko ku kuboko kw'uwo muri kumwe niba abyakira neza.",
+      "Ntimwigere muhata umuntu. Nimba yipfuza kuraba gusa, nta kibazo na gitoya.",
+      "Nimba hari uwufise ingorane zo guhumeka, nahumeke bisanzwe kandi arabe gusa urwo ruziga. Mubaze muganga ku kibazo cose cerekeye guhumeka."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Hoba ubu ari uburyo bwo guhumeka bwo mu buvuzi?",
+        "a": "Oya. Ni akaruhuko koroshe ko guhitamo kugira ngo mutuze kandi mube kumwe. Si umuti wo gukiza amaganya canke ubundi burwayi ubwo ari bwo bwose. Vugana na muganga ku bijanye n'amagara yawe."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Uruziga rwoba rugenda ntarutangije?",
+        "a": "Oya. Nta kintu kinyeganyega gushika ufyonde kuri Tangura, kandi bihagarara inyuma yo guhumeka gatandatu canke iyo ufyonze kuri Hagarara. Nimba igikoresho cawe kigenewe kugabanya ukunyeganyega, amajambo arahinduka uruziga rutiyongereye ubunini."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbega ni ku buntu, kandi biransaba kwiyandikisha?",
+        "a": "Ego, ni ku buntu, kandi nta konte, kwiyandikisha canke gukuraho bisabwa. Bikorera muri burawuza yo kuri telefone, tablete canke orudinateri."
       }
     ]
   }

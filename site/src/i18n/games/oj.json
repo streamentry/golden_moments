@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Niizh mazinaakwanan",
+    "seoTitle": "Gigoonan Ganawendamowin Dibenindizowin: Niizh Mazinaakwanan",
+    "h1": "Niizh Mazinaakwanan: Gigoonan Mino-Ganawendamowin",
+    "description": "Gigoonan ganawendamowin gaawiin aabajitoon, gaa-mino-ganawendamang bemaadiziwinan gaa-ganawendamowag dibenindizowin. Mazinaakwanan ganawendamang gaa-ganawendamowag, gaawiin mashkawizii aabajitoon, miinawaa 4 gaa-ni-niizh 12 ziigwanan giwenh-ganawendamaan.",
+    "short": "Ganawendamo niizh mazinaakwanan gaa-gii-ezhi-ganawendamaanaa. Mazinaakwanan gaa-ganawendamowag ganawendamang.",
+    "players": "1 bemaadizi, 2 bemaadiziwinan, gaa-ganawendamowag",
+    "intro": "Mazinaakwan ganawendamo, miinawaa ganawendamo mazinaakwan gaa-ezhi-ganawendamaanaan. Mazinaakwanan gaa-ganawendamowag ganawendamang, gaawiin ganawenjigaadeg gaa-ganawendamaanaan. Niizh mazinaakwanan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan, ginoonendaanan gaa-biboonaagwad miinawaa ziigwaan gaa-ganawendamaanaan.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Gaa-ganawendamo ziigwanan gaa-ganawendamaanaan. Nisidotaan ziigwanan gaa-ganawendamaanaan.",
+      "Ganawendamo mazinaakwan. Gaa-ganawendamaanaan ginoonendaanan.",
+      "Ganawendamo mazinaakwan gaa-ganawendamowag. Niizh mazinaakwanan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan.",
+      "Mazinaakwanan gaawiin gaa-ezhi-ganawendamowag, gaawiin mashkawizii aabajitoon. Ganawendamo dash gaa-mino-ganawendamaanaan.",
+      "Gaa-ganawendamo \"Mazinaakwanan gaa-ganawendamowag\" gaa-ezhi-ganawendamaanaan gaa-ganawendamowag gii-dibenindizowin."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Mazinaakwanan dibaajimo gaa-ganawendamaanaan miinawaa gaa-ganawendamaanaan: \"Miskwaan sheshkaanaak. Gaa-ganawendamowag shiinzhishiin?\"",
+      "Gaa-ganawendamo bemaadizi gaa-ganawendamo, gaawiin nanaagadawendam gaa-ganawendamowag. Gaa-ganawendamo mazinaakwan gaa-ganawendamowag.",
+      "Niizh ziigwanan gaa-ganawendamowag, gaawiin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan. Ziigwanan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan.",
+      "Gigoonan gaa-ganawendamowag, gaawiin gaa-ganawendamowag. Gigoonan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gaawiin aabajitoon gaa-ganawendamowag?",
+        "a": "Gaawiin. Gaawiin aabajitoon, gaawiin ganawendamowin, gaawiin gaa-ganawendamowag. Gaa-ganawendamo gaa-ezhi-ganawendamaanaan, miinawaa gaa-ganawendamo gaa-ezhi-ganawendamaanaan."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Dash gaawiin mazinaakwanan gaa-ganawendamowag?",
+        "a": "Mazinaakwanan gaa-ganawendamowag gigoonan ganawendamowin gaa-ganawendamowag. Gaa-ganawendamowag gaa-ezhi-ganawendamaanaan. Gaa-ganawendamo \"Gaa-ganawendamowag mazinaakwanan\" gaa-ezhi-ganawendamaanaan gaa-ganawendamowag."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Gaa-ganawendamo gaawiin gidoodaagiiwin, dash gaawiin gaa-ganawendamowag?",
+        "a": "Ee, gaawiin gidoodaagiiwin, gaawiin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan, gaawiin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan. Gaa-ganawendamo gaa-ganawendamaanaan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Gaa-ganawendamo gaa-ganawendamowag dibaajimowinan gaa-ganawendamowag?",
+        "a": "Ee. Gaa-ganawendamo Niizh mazinaakwanan gaa-ganawendamowag, gaa-ganawendamo mazinaakwanan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan. Mazinaakwanan gaawiin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Gaa-ganawendamo gaa-ganawendamowag",
+    "seoTitle": "Gaa-ganawendamo Mazinaakwan: Gigoonan Ganawendamowin Dibenindizowin",
+    "h1": "Gaa-ganawendamo Mazinaakwan",
+    "description": "Mazinaakwan gaa-ganawendamowag, niizh gaa-ganawendamowag 4 mazinaakwanan. Ganawendamo gaa-ganawendamowag. Gigoonan ganawendamowin gaawiin aabajitoon, gaa-mino-ganawendamang bemaadiziwinan gaa-ganawendamowag dibenindizowin.",
+    "short": "Ganawendamo mazinaakwan gaa-ganawendamowag miinawaa ganawendamo gaa-ganawendamowag.",
+    "players": "1 bemaadizi, 2 bemaadiziwinan",
+    "intro": "Mazinaakwan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan. Niizh, nswi, 4 mazinaakwanan gaa-ganawendamowag. Ganawendamo gaa-ganawendamowag. Gaa-ganawendamo ginoonendaan gaa-ganawendamaanaan miinawaa gaa-ganawendamaanaan.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Gaa-ganawendamo niizh, nswi, 4 mazinaakwanan gaa-ganawendamowag. Niizh gaa-ganawendamowag gaa-ezhi-ganawendamaanaan.",
+      "Ganawendamo mazinaakwan gaa-ganawendamowag.",
+      "Ganawendamo gaa-ganawendamowag mazinaakwan. Gaa-ganawendamowag gaa-ezhi-ganawendamaanaan.",
+      "Mazinaakwan gaa-ganawendamowag gaawiin gaa-ezhi-ganawendamowag, gigoonan gaa-ganawendamowag. Ganawendamo dash gaa-mino-ganawendamaanaan.",
+      "Gaa-ganawendamo \"Mazinaakwan gaa-ganawendamowag\" gaa-ezhi-ganawendamaanaan."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Dibaajimo mazinaakwan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan: miskwaan, ezhi-ganawendamowag, gaa-ganawendamowag.",
+      "Niizh gaa-ganawendamowag gaawiin \"gaa-ganawendamowag\". Gigoonan gaa-ezhi-ganawendamaanaan gaa-mino-ganawendamaanaan.",
+      "Gaa-ganawendamowag, gaa-ganawendamo bemaadizi gaa-ganawendamo, gaa-ganawendamo gaa-ganawendamowag."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gaawiin aabajitoon gaa-ganawendamowag?",
+        "a": "Gaawiin. Gaawiin aabajitoon, gaawiin ganawendamowin, gaawiin gaa-ganawendamowag. Gaa-ganawendamo gaa-ezhi-ganawendamaanaan, miinawaa gaa-ganawendamo gaa-ezhi-ganawendamaanaan."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Dash gaawiin mazinaakwan gaa-ganawendamowag gaa-ganawendamowag?",
+        "a": "Gaawiin gaa-ganawendamowag mashkawizii. Gaawiin gaa-ganawendamowag, gaawiin gaa-ganawendamowag. Gigoonan gaa-ganawendamowag mazinaakwan gaa-ganawendamowag miinawaa gaa-ganawendamowag."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Gaa-ganawendamo gaawiin gidoodaagiiwin, dash gaawiin gaa-ganawendamowag?",
+        "a": "Ee, gaawiin gidoodaagiiwin, gaawiin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan, gaawiin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan. Gaa-ganawendamo gaa-ganawendamaanaan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Gaa-ganawendamo ziibiiwin",
+    "seoTitle": "Ziibiiwin Ganawendamowin Dibenindizowin: Gaawiin Gidoodaagiiwin",
+    "h1": "Ziibiiwin Ganawendamo: Gigoonan Mazinaakwan",
+    "description": "Ziibiiwin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan, niizh gaa-ganawendamowag 4 mazinaakwanan. Gaa-ganawendamo mazinaakwan gaa-ganawendamowag ziibiiwin. Gigoonan ganawendamowin gaawiin aabajitoon, gaa-mino-ganawendamang dibenindizowin.",
+    "short": "Ganawendamo ziibiiwin miinawaa gaa-ganawendamo mazinaakwan gaa-ganawendamowag ziibiiwin.",
+    "players": "1 bemaadizi, 2 bemaadiziwinan",
+    "intro": "Ziibiiwin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan gigoonan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan, gaawiin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan. Ziibiiwin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan. Niizh, nswi, 4 mazinaakwanan gaa-ganawendamowag. Ganawendamo mazinaakwan gaa-ganawendamowag ziibiiwin. Bisiikiwan, dagwaagi, zhiishiiboo gaa-ganawendamowag gaa-ezhi-ganawendamaanaan.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Gaa-ganawendamo niizh, nswi, 4 mazinaakwanan gaa-ganawendamowag. Niizh gaa-ganawendamowag gaa-ezhi-ganawendamaanaan.",
+      "Ganawendamo ziibiiwin gaa-ganawendamowag. Gaa-ezhi-ganawendamaanaan? Gaa-ganawendamowag gaa-ezhi-ganawendamaanaan?",
+      "Ganawendamo mazinaakwan gaa-ganawendamowag ziibiiwin. Gaa-ganawendamowag gaa-ezhi-ganawendamaanaan gaa-ganawendamowag ziibiiwin.",
+      "Mazinaakwan gaa-ganawendamowag gaawiin gaa-ezhi-ganawendamowag, gigoonan gaa-ganawendamowag. Ganawendamo dash gaa-mino-ganawendamaanaan.",
+      "Gaa-ganawendamo \"Ziibiiwin gaa-ganawendamowag\" gaa-ezhi-ganawendamaanaan."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Gaa-ganawendamo ziibiiwin gaa-ganawendamowag gaa-ezhi-ganawendamaanaan miinawaa dibaajimo gaa-ezhi-ganawendamaanaan.",
+      "Gaa-ganawendamowag ziibiiwin gaa-ganawendamowag gaawiin gaa-ezhi-ganawendamaanaan, gaa-ganawendamo Gaa-ganawendamo gaa-ganawendamowag mazinaakwanan gaa-ganawendamowag gaa-ezhi-ganawendamaanaan.",
+      "Dibaajimo mazinaakwan gaa-ganawendamowag gaa-ganawendamaanaan: \"Gaa-ganawendamowag mashkawizii gaa-ganawendamowag.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Gaawiin aabajitoon gaa-ganawendamowag?",
+        "a": "Gaawiin. Gaawiin aabajitoon, gaawiin ganawendamowin, gaawiin gaa-ganawendamowag. Gaa-ganawendamo gaa-ezhi-ganawendamaanaan, miinawaa gaa-ganawendamo gaa-ezhi-ganawendamaanaan."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Ezhi-gii-nendamowin dementia ayaawag bemaadiziwag shadow matching?",
+        "a": "Gaye bemaadiziwag, ezhi-ayaawag ezhi-nendamowin; giiwiwin ezhi-ayaawag ezhi-maajiinaagoziwin, gaa-inaadizinaagooyin. Gaawiin aanjibimaadiziwin dementia. Ginwaabandaan miinawaa wiigiwaaman ezhi-ginawaabamaajig, gaawiin gaa-giiwenigoo. Ezhi-wiidookaagooyan ezhi-maajiinaagoziwin, Find the same, gaye ezhi-ginwaabamaajig."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Aaniin ezhi-gaa-ganawaabandaan wiigiwaaman ezhi-maajiinaagoziwin?",
+        "a": "Gaawiin ezhi-gii-ayaawag ezhi-ginaagooyin. Gaawiin ezhi-bi-nagadaanaagoziwin. Wiigiwaaman ezhi-ginaadamaan giiwiwin, gaawiin waabiyaan; gaawiin ezhi-gaa-aanjibiyaan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezhi-gii-ayaawag gaawiin ezhi-gaa-wiindamaagoo?",
+        "a": "Aaw, ezhi-gii-ayaawag gaawiin ezhi-gaa-wiindamaagoo; gaawiin account, sign-up gaye download. Ezhi-maajiinaagoziwin ezhi-ayaawag web browser ezhi-ayaawag phone, tablet gaye computer."
       }
     ]
   },
   "sort-together": {
     "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "seoTitle": "Dementia Game ezhi-ginawaabamaajig: Sort Together",
+    "h1": "Sort Together: ginwaabandaan ezhi-maajiinaagoziwin",
+    "description": "Ginwaabandaan wiigiwaaman, gaye ezhi-biindigejig ezhi-ayaawag: kitchen naa garden, fruit naa animals. Ezhi-maajiinaagoziwin, gaawiin ezhi-gaa-aanjibiyaan, dementia ayaawag bemaadiziwag.",
+    "short": "Ezhi-ginawaabamaajig wiigiwaaman ezhi-biindigejig ayaawag: kitchen naa garden, gaye ezhi-mino.",
+    "players": "1 naa 2 bemaadiziwag",
+    "intro": "Ezhi-maajiinaagoziwin ezhi-ayaawag ezhi-gikinaagoziwin, ezhi-biindigejig ezhi-ayaawag. Ginwaabandaan wiigiwaaman, gaye ezhi-biindigejig ezhi-ayaawag ezhi-gikinaagoziwin. Gaawiin ezhi-giiwenigoo; gaawiin gaa-giiwenigoo.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Ginwaabandaan ezhi-maajiinaagoziwin: kitchen naa garden, fruit naa animals, naa home naa travel.",
+      "Ginwaabandaan wiigiwaaman. Ezhi-ayaawag gold border.",
+      "Ginwaabandaan biindige ezhi-ayaawag. Wiigiwaaman ezhi-biindigejig.",
+      "Ezhi-ayaawag biindige, ezhi-wiindamaagoo gaawiin ezhi-gaa-giiwenigoo.",
+      "Wiigiwaaman ezhi-biindigejig gaye ezhi-ginawaabamaajig biindigejig ezhi-maajiinaagoziwin."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Gaawiin ezhi-gaa-ayaawag wiigiwaaman ezhi-gaa-giiwenigoo. Ezhi-wiindamaagoo watering can ezhi-ayaawag kitchen, ezhi-gikendan aaniin.",
+      "Wiigiwaaman ezhi-gaa-maajiinaagoziwin: \"Aaniin ezhi-gii-nisidotaman garden?\"",
+      "Ezhi-biindigejig ezhi-ayaawag, spoons naa forks, buttons ezhi-ayaawag color, ezhi-maajiinaagoziwin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ezhi-gaa-ayaawag timer naa score?",
+        "a": "Gaawiin. Gaawiin clock, score, move counter naa ezhi-gaa-giiwenigoo. Ezhi-gii-ayaawag giiwiwin ezhi-ayaawag, gaye ezhi-gii-ayaawag gaa-giiwenigoo ezhi-maajiinaagoziwin."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Aaniin sorting?",
+        "a": "Gaye bemaadiziwag ezhi-nendamowag sorting, ezhi-ayaawag ezhi-gikinaagoziwin. Ezhi-maajiinaagoziwin wiigiwaaman ezhi-dibaajimowin."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezhi-gii-ayaawag gaawiin ezhi-gaa-wiindamaagoo?",
+        "a": "Aaw, ezhi-gii-ayaawag gaawiin ezhi-gaa-wiindamaagoo; gaawiin account, sign-up gaye download. Ezhi-maajiinaagoziwin ezhi-ayaawag web browser ezhi-ayaawag phone, tablet gaye computer."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Wiigiwaaman puzzle",
+    "seoTitle": "Ezhi-maajiinaagoziwin Puzzle dementia-ayaawag: 4 naa 9 biindigejig",
+    "h1": "Picture Puzzle: ezhi-maajiinaagoziwin puzzle",
+    "description": "Ezhi-maajiinaagoziwin online puzzle dementia ayaawag bemaadiziwag: 4 naa 9 biindigejig, wiigiwaaman ezhi-ayaawag ezhi-ginawaabamaajig, gaye ezhi-ginaadamaan biindige ezhi-ayaawag swap.",
+    "short": "Ginaadamaan biindige ezhi-ayaawag swap, wiigiwaaman ezhi-ayaawag.",
+    "players": "1 naa 2 bemaadiziwag",
+    "intro": "Wiigiwaaman ezhi-ayaawag 4 naa 9 biindigejig, ezhi-ginaadamaan. Wiigiwaaman ezhi-ayaawag guide. Ginaadamaan biindige, gaye biindige, ezhi-ayaawag swap. Gaawiin ezhi-dragging.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Ginwaabandaan wiigiwaaman naa 4 naa 9 biindigejig. Naanaa 4 ezhi-ayaawag ezhi-mino-aaniin.",
+      "Ezhi-ginawaabamaajig wiigiwaaman ezhi-ayaawag ezhi-ayaawag.",
+      "Ginaadamaan biindige, gaye ezhi-ginaadamaan ezhi-ayaawag. Biindigejig ezhi-swap.",
+      "Biindigejig ezhi-ayaawag ezhi-ayaawag small check mark.",
+      "Wiigiwaaman ezhi-ayaawag whole, ezhi-maajiinaagoziwin, gaye ginwaabandaan miinawaa."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Ginaadamaan biindige ezhi-swap ezhi-ayaawag, dragging ezhi-gaa-ayaawag gaye.",
+      "Wiigiwaaman ezhi-dibaajimowin ezhi-ayaawag: \"Ezhi-ayaawag red roof.\"",
+      "Real wooden jigsaw 12 naa 24 biindigejig ezhi-ayaawag ezhi-maajiinaagoziwin table activity."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ezhi-gaa-ayaawag timer naa score?",
+        "a": "Gaawiin. Gaawiin clock, score, move counter naa ezhi-gaa-giiwenigoo. Ezhi-gii-ayaawag giiwiwin ezhi-ayaawag, gaye ezhi-gii-ayaawag gaa-giiwenigoo ezhi-maajiinaagoziwin."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Ezhi-gaa-ayaawag dragging biindigejig?",
+        "a": "Gaawiin. Ginaadamaan biindige, gaye ginaadamaan miinawaa, ezhi-swap. Ezhi-maajiinaagoziwin ezhi-ayaawag ezhi-gaa-ayaawag shaky hand naa small screen."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezhi-gii-ayaawag gaawiin ezhi-gaa-wiindamaagoo?",
+        "a": "Aaw, ezhi-gii-ayaawag gaawiin ezhi-gaa-wiindamaagoo; gaawiin account, sign-up gaye download. Ezhi-maajiinaagoziwin ezhi-ayaawag web browser ezhi-ayaawag phone, tablet gaye computer."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
+    "name": "Giiwe-dibaajimowin",
+    "seoTitle": "Finish the Saying: Ezhi-dibaajimowin Game ezhi-ayaawag seniors",
     "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "description": "Ezhi-ayaawag English dibaajimowin, gaye ezhi-gaa-ayaawag last word gaa-gii-ayaawag, \"A penny saved is a penny ___\". Ginwaabandaan biindige naa \"Show the ending\", ezhi-dibaajimowin.",
+    "short": "Ezhi-maajiinaagoziwin dibaajimowin, gaye ezhi-dibaajimowin.",
+    "players": "1, 2 naa group",
+    "intro": "Gaa-ezhi-ayaawag dibaajimowin ezhi-ayaawag ezhi-gikinaagoziwin. Card ezhi-ayaawag dibaajimowin last word gaa-gii-ayaawag, nswe choices, gaye \"Show the ending\" biindige. Ending ezhi-ayaawag, ezhi-wiindamaagoo question ezhi-dibaajimowin.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Ezhi-dibaajimowin dibaajimowin ezhi-biindigejig.",
+      "Ginwaabandaan word ezhi-ayaawag, naa \"Show the ending\".",
+      "Dibaajimowin ezhi-dibaajimowin, gaye ezhi-maajiinaagoziwin prompt.",
+      "Ginwaabandaan \"Next saying\" ezhi-ayaawag ezhi-gaa-ayaawag."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Ezhi-dibaajimowin, pause ezhi-ayaawag last word. Ezhi-ayaawag bemaadiziwag ezhi-dibaajimowin ezhi-gaa-ayaawag.",
+      "Ezhi-ayaawag different ending, ezhi-ayaawag family naa region ezhi-ayaawag.",
+      "Group ezhi-ayaawag, one person ezhi-dibaajimowin, everyone ezhi-ayaawag ending."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ezhi-gaa-ayaawag timer naa score?",
+        "a": "Gaawiin. Gaawiin ayaasinoon diba'igiiziswan, agindaasowin, maagizhaa bakegijigewin. Gidayaan ji-boonitood pii go wenji-minwendaman, gaye aabita go ji-boonitood aapiji gwayakwendagwad."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Aaniin dash aaniish bakannji ikidowin nawadinang?",
+        "a": "Iwe daminowin odaa-waabanda'iwean gaa-inendagwak mii dash ji-gagwejimidiwan. Gaawiin ayaasinoon agindaasowin, gaye bakannji nakwetamowin aapiji go minwendagwad."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Gaa na onaaganzisinoon, miinawaa aaniish indaa-ozhibii'idis?",
+        "a": "Enya, gaawiin diba'igaadesinoon, gaawiin ayaasinoon anikweshkodadiwin, ozhibii'idisowin maagizhaa biindigebii'an. Minose omaa web mazina'iganing giigidowining, babaamibii'iganing maagizhaa chi-mazinaatesijiganing."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Gichi-ozhibii'igaansan ikidowin nandawaabandamowin",
+    "seoTitle": "Gichi-ozhibii'igaansan Ikidowin Nandawaabandamowin Gaa-wanenindangig, Ojibii'igan",
+    "h1": "Gichi-ozhibii'igaansan Ikidowin Nandawaabandamowin",
+    "description": "Gaa-diba'igaadesinoog gichi-ozhibii'igaansan ikidowin nandawaabandamowin gichi-aya'aag miinawaa bemaadizijig gaa-wanenindangig. Bangii eta ikidowinan, mamangaabiigisinon, gaagwekwesinon miinawaa niisayiing eta. Daminon mazinaatesijiganing maagizhaa ojibii'an maziniganing.",
+    "short": "Mamangaabiigisinon ozhibii'igaansan, bangii eta ikidowinan, gaagwekwesinon miinawaa niisayiing eta. Ojibii'an maziniganing gaye.",
+    "players": "1 maagizhaa 2 bemaadizijig",
+    "intro": "Agaasaa babamibii'igan mamangaabiigisinon ozhibii'igaansan gaye bangishenh eta ikidowinan, gakina gaagwekwesinon maagizhaa niisayiing. Taminamowin nitam ozhibii'igaans ikidowining, mii dash ishkwii-ozhibii'igaans. Aaniish gidaa-nandawendaan mazinigan? Bezhig eta taminamowin ji-ojibii'aman oshki-daminowin.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Onapinan gegoo enendaman miinawaa endasobii'igaadek.",
+      "Ganaabandan ikidowini-mazina'igan. Ikidowinan agwajiing inabi (gwayakwayiing) maagizhaa niisayiing inabi.",
+      "Taminan nitam ozhibii'igaans ikidowining, mii dash taminan ishkwii-ozhibii'igaans.",
+      "Ikidowin gaa-mikaadek gichi-waaban miinawaa giishkibii'igaade mazina'iganing.",
+      "Taminan \"Ojibii'an o'ow daminowin\" ji-daminoyan maziniganing aabajitooyan ozhibii'iganaatig."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Ininjamawishin ikidowining mii dash mawandoobinandomaweg nitam ozhibii'igaans.",
+      "Maziniganing aabajitood gaa-waabanjiged ozhibii'iganaatig nawach nishiishiwan ji-takonang apane dash zhiishiibizhe-ozhibii'iganaatig.",
+      "Gagwejimidiwag iwe bimaadiziwini-ikidowin. Miinensan miinawaa meenag ikidowinan weweni gidaa-onji-mikwendamoom ji-mawinzoyan, ji-jiibaakweyan maagizhaa adaawewigamigong."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ayaa na diba'igiiziswan maagizhaa agindaasowin?",
+        "a": "Gaawiin. Gaawiin ayaasinoon diba'igiiziswan, agindaasowin, maagizhaa bakegijigewin. Gidayaan ji-boonitood pii go wenji-minwendaman, gaye aabita go ji-boonitood aapiji gwayakwendagwad."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Indaa-gashkitoon na ji-ojibii'amaan maziniganing o'ow ikidowin nandawaabandamowin?",
+        "a": "Enya. Taminan \"Ojibii'an o'ow daminowin\" ji-ojibii'aman noongom ezhiwebak mangi-ozhibii'igaansan, ikidowinan anaamayiing etaatig. Endaso-oshki-daminowin bakani-ayaa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Gaa na onaaganzisinoon, miinawaa aaniish indaa-ozhibii'idis?",
+        "a": "Enya, gaawiin diba'igaadesinoon, gaawiin ayaasinoon anikweshkodadiwin, ozhibii'idisowin maagizhaa biindigebii'an. Minose omaa web mazina'iganing giigidowining, babaamibii'iganing maagizhaa chi-mazinaatesijiganing."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Zhesowaasowin mazina'iganan",
+    "seoTitle": "Zhesowaasowin Mazina'iganan Gichi-aya'aag Gaa-wanenindangig (Gaa-diba'igaadesinoog)",
+    "h1": "Zhesowaasowin Mazina'iganan",
+    "description": "Weweni gichi-aya'aa zhesowaasowin mazina'iganan mangeyawag: taminan zhesinaagan, mii dash taminan mazinibii'igan. Gaawiin wiinaagwasinoon, gaawiin gashkendagwasinoon aaniin ezhi-zhesowang, gaye gakina mazina'iganan gidaa-ojibii'anan maziniganing gaa-diba'igaadesinoog.",
+    "short": "Taminan zhesinaagan, mii dash taminan bangii mazinibii'iganing. Ojibii'an maziniganing gaye.",
+    "players": "1 maagizhaa 2 bemaadizijig",
+    "intro": "Mazina'iganan mamangibikwaag: waabigwan akikong, waakaa'igan, oniijaanza-minikwaagan, memengwaa miinawaa nabikwaan. Taminan zhesinaagan, mii dash taminan mazinibii'iganing ji-mooshkinadood. Gaawiin onjidasinoon enaandeg.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Onapinan bezhig mazina'igan.",
+      "Taminan zhesinaagan. Endaso-zhesinaagan ozhibii'igaade izhinikaazowin.",
+      "Taminan abitaa mazinibii'iganing ji-mooshkinadood iwe enaandeg.",
+      "Aanji-inendaman pii go wenji-minwendaman miinawaa aabajitooyan bakannji zhesinaagan.",
+      "Taminan \"Ojibii'an o'ow mazina'igan\" ji-ayaaman biinisaa mazina'igan ji-zhesowad aabajitooyan ozhibii'iganaatigoon."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Miin niizho-zhesinaaganan ji-onapid, gaawiin dash gakina megwaa zanaagwendang ji-onapid.",
+      "Miinaande mitigoog miinawaa zhaawashkwaande giizis minwendagwad go. O'ow mii gaa-onji-minwendang zhesinaagan, gaawiin gwayakwaakonigewin ayaasinoon.",
+      "Maziniganing gaa-ojibii'igaadegin aapiji minwaawin gaa-mangi-ozhibii'igemagak zhesinaatigoon, nawach nishiishiwan ji-takonang."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ayaa na diba'igiiziswan maagizhaa agindaasowin?",
+        "a": "Gaawiin. Gaawiin ayaasinoon diba'igiiziswan, agindaasowin, maagizhaa bakegijigewin. Gidayaan ji-boonitood pii go wenji-minwendaman, gaye aabita go ji-boonitood aapiji gwayakwendagwad."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Abinoojiiying na inaabajichigan iniw mazina'iganan?",
+        "a": "Niinawind nindoozhibii'aanaan bekinaagwak, bekadendaagwakin gegoo gaawiin dash abinoojii-mazinibii'iganan, mii dash gichi-aya'aag ji-inendagwak. Mamangeyawag ji-wenpanak ji-zhesowaasong, gaawiin dash abinoojiing izhi-naagwasinoon."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Gaa na onaaganzisinoon, miinawaa aaniish indaa-ozhibii'idis?",
+        "a": "Enya, gaawiin diba'igaadesinoon, gaawiin ayaasinoon anikweshkodadiwin, ozhibii'idisowin maagizhaa biindigebii'an. Minose omaa web mazina'iganing giigidowining, babaamibii'iganing maagizhaa chi-mazinaatesijiganing."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Gagwejimidiwini-mazina'igaansan",
+    "seoTitle": "Gagwejimidiwin Maajitaawinan Gaa-wanenindangig: Mazinibii'igan Mazina'igaansan",
+    "h1": "Gagwejimidiwini-Mazina'igaansan",
+    "description": "Mazinibii'igan mazina'igaansan bekaaji-gagwejimidiwin gaa-onji-maajitaang bemaadizijig gaa-wanenindangig: gaawiin gagwetwewin, gaawiin gwayak nakwetamowin. Aabajitoon mazinaatesijiganing maagizhaa gakina ojibii'an maziniganing.",
+    "short": "Mazinibii'igan mazina'igaansan bagidinigan dagonigewin gagwedwewinan. Gaawiin gagwetwewin.",
+    "players": "2 bemaadizijig maagizhaa memaawisijig",
+    "intro": "Endaso-mazina'igaans dagonigade ezhi-gikenjigaadek mazinibii'igan miinawaa weweni ji-dibaajimod, dibishkoo \"Aaniin ezhi-minwendaman giziibaate maagizhaa gimiwan?\" Gaawiin gwayak nakwetamowin ayaasinoon miinawaa gaawiin gegoo mikwendamowin zanaa-ayaasinoon. Onapinan gegoo maagizhaa mamawi-dakobidon gakina.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Onapinan dagonigewin, maagizhaa ganawenindan \"Gakina mazina'igaansan\".",
+      "Nitaa-agindan iwe gagwedwewin miinawaa mawandoo-ganaabamig mazinibii'igan.",
+      "Bizindan, dibaajimon giin gidikidowin, mii dash ganawenindamog ezhi-babaamosek iwe ganoonidiwin.",
+      "Taminan \"Ani-nawadin mazina'igaans\" pii giizhiitayan, maagizhaa apane ayaan bezhig mazina'igaans aaniin minik menwendaman.",
+      "Taminan \"Ojibii'an gakina mazina'igaansan\" ji-giishkizhaman maziniganing."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Giin gaye nakwetamawishin iwe gagwedwewin. Mii ge-onji-inendagwak ganoonidiwin, gaawiin gagwedwewinikawin.",
+      "Biminizha'an aadizookaan, gaawiin debwewin eta. Giishpin aanji-ezhiwebak, minwendagwad go.",
+      "Giishpin mazina'igaans miikwendamiwego gegoo gashkendamowin, dagonamog iwe inendamowin miinawaa bekaajing aazhogewag bakannji mazina'igaans."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Aaniin dash wenji-ayaasinoog \"Gimikwendan na…?\" gagwedwewinan?",
+        "a": "Gagwedwewinan gaa-gagwe-gikendamowag mikwendamowin dibishkoo akozide'ewin inaabajichigan mii dash agaji'iwemagak. Bekaaji-gagwedwewinan dibishkoo \"Wiindamawishin debwewin…\" bagidinigade awiiya ji-dagonid, aaniin go minik mekwendang."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Indaa-gashkitoon na ji-ojibii'amaan iniw mazina'igaansan maziniganing?",
+        "a": "Enya. \"Ojibii'an gakina mazina'igaansan\" ojibii'am gakina mangi-ozhibii'igaansan, baatiinowag mazina'igaansan bezhig maziniganing, wiiba ji-giishkizhamang."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Gaa na onaaganzisinoon, miinawaa aaniish indaa-ozhibii'idis?",
+        "a": "Enyaa, gaawiin gegoo diba'igaadenoog, gaawiin dagonzisinook ji-ozhibii'idizoyang gemaa gegoo ji-bi-aazhoodaabaadooyan. Anokiimagad web browser-ing omaa gi-giigidoobii'iganing, tablet gemaa mazinaabikiwebiniganing."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Niizhoo-mazinaakiziganan",
+    "seoTitle": "Ozhitoon Nasawaabi-odaminowin Gidinawemaaganag Omazinaakiziganiwaan",
+    "h1": "Niizhoo-mazinaakiziganan: Nasawaabidaan Gidinawemaaganag Omazinaakiziganiwaan",
+    "description": "Gidinawemaaganag omazinaakiziganiwaan aabaji' e-ozhitood begish nasawaabi-odaminowin. Onaabandan 2 debishgoo' 6 mazinaakiziganan omaa gid-aabajichiganing; omaa eta browser-ing atewan, gaawiin ningoji aazhodaabaanigaadesinoon.",
+    "short": "Onaabandan gi-mazinaakiziganan miinawaa nasawaabidaan. Gaawiin gegoo aazhodaabaanigaadenoog.",
+    "players": "2 bemaadizijig, bebaashkwayi'ii namadabiwag",
+    "intro": "Onaabandan 2 debishgoo' 6 mazinaakiziganan biinjayi'ii gi-giigidoobii'iganing, tablet gemaa mazinaabikiwebiniganing, mii dash da-aawanoon nayaasaawaabii-odaminowin mindido-mazinaakiziganan aabajichigaadegin. Omaa eta mazinaatesichiganing aabajitoowan. Gaawiin aazhodaabaanigaadesinoon, ganawenjigaadesinoon gemaa maada'oonidiwin gaawiin, mii dash wanisewan giishpin giba'aman mazinaatesichigan.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Daminikwen \"Onaabandan mazinaakiziganan\" miinawaa onaabandan 2 debishgoo' 6 mazinaakiziganan.",
+      "Endaso-mazinaakizigan niizhing noogise. Daminikwen bezhig, mii dash daminikwen wii-wiidookawaad.",
+      "Dibaajimotan endaso-mazinaakizigan mikaamoyan.",
+      "Giishpin giizhiitaayan, giba'an o'ow mazinaatesichigan gemaa daminikwen \"Biinizh mazinaakiziganan\". Gaawiin gegoo ganawenjigaadesinoon."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Onaabandan gwayak-mazinaakiziganan minwendamowin miinawaa gakina awiya gaa-nagadenimowaad: awesiinyens, gitigaan, minwendang danakiiwin, gemaa wiidigendi-giizhigad.",
+      "Mazinaakiziganan danakiiwin miinawaa aabajichiganan noonde-nanaandawendamo-inaabinjigad iwidi zhiibimaaji'aang ezhi-nagadenimangwaa bemaadizijig, gaawiin dash awiya da-gagwedwe ji-wiindamaaged awenen aawid.",
+      "Gego aabajitoosiken gaa-ishkwaa-bimaadizijig omazinaakiziganiwaan giishpin nishiwanenjige-inakamigak, baamaa gwayak kekendaman minwendamoog."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Aaniindi mazinaakiziganan aazhoodaabaanigaadegin?",
+        "a": "Gaawiin ningoji. Omaa mazinaatesichiganing agindam mazinaakiziganan gaa-onaabandaman omaa gi-browser-ing miinawaa waabandahiwemagad omaa gi-mazinaatesichiganing. Gaawiin maajii-aazhoodaabaanigaadesinoon ninanang gemaa awiya bakaan, mii dash wanisewag giishpin giba'aman gemaa minawaa maadaadaman."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Dagon na diba'igiizhiswan gemaa agindaasowin?",
+        "a": "Gaawiin. Gaawiin dagonzisinook diba'igiizhiswan, agindaasowin, gemaa wanitoowin. Gidaa-boonitaa aaniin apii menwendaman, mii go naawayi'ii ji-boonitaayan gwayak mino-gwekajiwin."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Gidaa-ganawendaan na odaminowin wii-aabajitooyan biijiinag?",
+        "a": "Gaawiin omaa browser-ing, gwayak wenji-ozhigaadeg ji-ganawenjigaadenook gegoo gaa-inaabandaman. O'ow bina Golden Moments app omaa iPhone miinawaa iPad da-gashkitoon ji-ganawendang omaa gid-aabajichiganing."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Mazinaakizigan-bingo",
+    "seoTitle": "Mazinaakizigan-bingo Gechi-aya'aag Gaa-waninendamowaad: Gidaa-maziniganikan",
+    "h1": "Mazinaakizigan-bingo Bebaamaadizijig",
+    "description": "Bina gidaa-maziniganikan mazinaakizigan-bingo gechi-aya'aag gaa-waninendamowaad miinawaa gekinaagwad mindido-mazinaatesichigan. Mindido-mazinaakiziganan gakina ikidowinan, 9 gemaa 16 aazhodii-atewan, gaawiin dagonzisinook agindamowin.",
+    "short": "Maziniganan mazinaakizigan-bingo miinawaa mindido-mazinaatesichiganing noondaagozi-wiindamaage.",
+    "players": "Maamawi 2 debishgoo' 30 bemaadizijig",
+    "intro": "Bwaanawi-bingo mazinaakiziganan aabajichigaadewan mii dash gaawiin agindaasowinan, mii dash gaawiin awiya da-nanaandawendamoosiin ji-agindang biindig agaasaag. Maziniganaandaan mazinaakiziganan, mii dash aabajitoon mazinaatesichigan ji-waabandahiweng gichi-mindido mazinaakizigan omaa TV, mazinaabikiwebiniganing gemaa tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Onaabandan 9 gemaa 16 mazinaakiziganan endaso-maziniganing miinawaa aaniin minik bemaadizijig.",
+      "Daminikwen \"Maziniganaandaan maziniganan\". Endaso-mazinigan baakaanigo-ate.",
+      "Baakinan mazinaatesichigan mindidong. Daminikwen \"Mina-mazinaakizigan\" ji-waabandahiweng endaso-mazinaakizigan wiingashk-ikidowin.",
+      "Bemaadizijig od-agwanawaan nasawaabi-mazinaakizigan omaa omaziniganiwaang zhooniyaansens, gichi-biiwaabikoons, gemaa mazinaate-aabajichigans.",
+      "Awiya gakina gaa-mooshkinebinaad niizhi-nibeg gemaa gakina maziniganing minwaabanjigaazo. Gaawiin awiya bi-wanitoosiin: odaminoog aaniin apii gakina awiya gashkitoowaad bezhig niizhi-nibeg."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Aabajitoon mindido-aabajichiganensag checkers gemaa omoondayan. Agaasaa-giizhikensag sanagiziwag ji-onda'amang.",
+      "Wiindamaw mazinaakizigan miinawaa gego inaajimotan: \"Jiimaan. Awenen gaa-bimaadagewid jiimaaning?\"",
+      "Abishinowaad bemaadizijig zeginaagwadinig besho omaa mazinaatesichiganing, miinawaa wiidookaw bemaadizijig nandawendangig wiidookawaagewin.",
+      "9 mazinaakiziganan debise gakina awiya. Gwayak ganawendan 20 debishgoo' 30 diba'iganensan."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Aaniin ge-zhi-doodamaan ji-odaminong mazinaakizigan-bingo omaa gechi-aya'aag owaakaa'iganiwaang?",
+        "a": "Maziniganaandaan bezhig mazinigan endaso-bemaadizid, atoon noondaagozid omaa mamawi-mindidong mazinaatesichiganing, miinawaa bedoseyan wiindamaw mazinaakiziganan, wiindamaw endaso-bezhig. Odaminog aaniin apii gakina awiya gashkitoowaad, mii dash gaawiin awiya da-naganaasosiin."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Bina na ji-maziniganaadeng?",
+        "a": "Enyaa. Maziniganaandaan aaniin minik nandawendaman maziniganan, aaniin apii nandawendaman, giin igo gemaa maamawi-odaminooyan."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Gidaa-odaminom na gaa-wiikaa agindanzigwaa?",
+        "a": "Enyaa. Endaso-ate mindido mazinaakizigan, anaamayi'ii atewan ikidowinan awiya menwendangig ikidowinan."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Bekaa nesewin",
+    "seoTitle": "Bekaa Nesewin Anishinaabeg Miinawaa Genawenimajig",
+    "h1": "Bekaa Nesewin Ji-anwebing",
+    "description": "Bekaa, mino-nesewin ji-maamaawii-doodamang: wawiye-ayaa gichi-mindidomagad miinawaa agaasaamagad 6 nese-giizhig. Giin gi-maadaadon, miinawaa gidaa-boonitaa aaniin apii.",
+    "short": "Wawiye-ayaa ji-wiidookawaad nesewin. Maadaadon miinawaa boonitoon apii menwendaman.",
+    "players": "1 gemaa 2 bemaadizijig",
+    "intro": "Aaniin apii maamawi-onizhishin bekaa ji-anwebing. Daminikwen \"Maajitaataam\", mii dash biindigewebin nesewin apii wawiye-ayaa gichi-mindidomagak, miinawaa maajiiwebin nesewin apii agaasaamagak. Onaabandan bekaa gemaa gizhiikaamagak. Gaawiin mashkikiwi-inakamigasinook, gwayak eta mino-giizhig ji-maamawi-ayaayang.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Minwaa-namadabig baati-babiizhitaawin.",
+      "Onaabandan aaniin ge-zhi-bimaadakamigak: bekaa gemaa noojimowin.",
+      "Daminikwen \"Maajitaataam\". Biindige-nese apii mindidomagak wawiye-ayaa, miinawaa maajiise-nese apii agaasaamagak.",
+      "Boonisemagad owi-6 nesewinan, gemaa daminikwen \"Boonitaam\" aaniin apii menwendaman."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Dagonaan ninjiwan gemaa toon omaa onikang giishpin minwendang awenen genawenimad.",
+      "Gego baabaamendamokagen. Giishpin ganawaabandang eta menwendang, mii gwayak.",
+      "Giishpin awiya sanagendam nese-inakamigak, nese gwayak miinawaa ganawaabandan wawiye-ayaa. Gagwejim mashkikiwinini aaniin ge-doodaman gi-nesewining."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Mashkikiwi-nesewin na o'ow?",
+        "a": "Gaawiin. O'ow bekaa ji-maamawi-anwebing. Gaawiin aawasinook mashkikiwi-wiidookoodadiwin gotaajiwining gemaa aakoziwining. Ganawenindizoon miinawaa giigido mashkikiwinini o'ow bimaadiziwin."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Maajisemagad na o'ow waawiyeyaa jibwaa giin maadaadooyan?",
+        "a": "Gaawiin. Gegoo gaa-maajiitaasiin ata gaa-bagidinaan Start, miinawaa gaa-bagidinaan Stop naano'ig 6 anaamiiwin. Ge-ezhi-gikinaaji'iwewin ata gaa-bi-ayaawaad ezhi-anokiiwin, gaawiin ginwaabamaagoyaan ... "
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Gaawiin gaa-naadamaagoyaan miinawaa gaa-ganawendamaan ina ... ?",
+        "a": "Ee, gaawiin gaa-ganawaajiiyaan, miinawaa gaawiin account, sign-up ni download ... . Ezhi-maajiitaaigoo ata web browser gaa-bi-ayaawaad phone, tablet, ni computer."
       }
     ]
   }

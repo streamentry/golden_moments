@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Çifte fotografish",
+    "seoTitle": "Lojë përputhjeje për demencën: Çifte fotografish",
+    "h1": "Çifte fotografish: një lojë e butë përputhjeje",
+    "description": "Një lojë përputhjeje falas dhe e butë për persona që jetojnë me demencë. Fotografitë e mëdha mbeten të dukshme, nuk ka kohëmatës as pikë, dhe ju zgjidhni nga 4 deri në 12 pllaka.",
+    "short": "Gjeni dy fotografitë që janë të njëjta. Fotografitë mund të mbeten të dukshme.",
+    "players": "1 ose 2 persona, ulur njëri pranë tjetrit",
+    "intro": "Prekni një fotografi, pastaj prekni atë që i përngjan. Fotografitë mbeten të dukshme si parazgjedhje, kështu që asgjë nuk duhet të mbahet mend. Kur dy fotografi përputhen, ato marrin një kornizë ari dhe një shenjë kontrolli.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Zgjidhni sa pllaka të përdorni. Katër pllaka është një fillim i qetë.",
+      "Prekni çdo fotografi. Ajo merr një kornizë ari.",
+      "Prekni fotografinë që duket e njëjtë. Çifti mbetet bashkë me një shenjë kontrolli.",
+      "Nëse dy fotografitë janë të ndryshme, nuk ndodh asgjë e keqe. Prekni përsëri kur të jeni gati.",
+      "Ndizni „Fotografi të fshehura“ vetëm nëse të dy e pëlqeni versionin klasik me fotografitë me faqe poshtë."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Emërtoni fotografitë me zë bashkë dhe bisedoni për to: „Një filxhan i kuq çaji. A e pini çajin me qumësht?“",
+      "Lëreni personin për të cilin kujdeseni të prekë vetë, edhe nëse kjo merr kohë. Tregojini me gisht në vend që ta prekni ju për të.",
+      "Qëndroni me katër pllaka për aq kohë sa ndihet mirë. Më shumë pllaka janë një zgjedhje, kurrë një nivel për t'u arritur.",
+      "Përfundoni ndërsa është ende e këndshme. Një lojë është një aktivitet i plotë."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A ka kohëmatës apo pikë?",
+        "a": "Jo. Nuk ka orë, pikë, numërues lëvizjesh apo humbje. Mund të ndaloni në çdo moment, dhe ndalimi në mes është një mënyrë krejt e mirë për të përfunduar."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Përse fotografitë qëndrojnë me faqen lart?",
+        "a": "Mbajtja e fotografive të dukshme e bën lojën një çështje shikimi dhe përputhjeje, jo kujtese. Shumë njerëz e gjejnë këtë më të qetë. Mund të kaloni te fotografitë e fshehura me një prekje nëse e preferoni."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A është falas, dhe duhet të regjistrohem?",
+        "a": "Po, është falas, dhe nuk nevojitet llogari, regjistrim apo shkarkim. Funksionon në shfletuesin e uebit në telefon, tablet ose kompjuter."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "A mund të përdorim fotografitë tona familjare?",
+        "a": "Po. Provoni „Çifte me foto familjare“, që ju lejon të zgjidhni fotografi nga pajisja juaj. Fotografitë mbeten në shfletuesin tuaj dhe nuk ngarkohen askund."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Gjej të njëjtën",
+    "seoTitle": "Gjej të njëjtën fotografi: lojë e thjeshtë për demencën",
+    "h1": "Gjej të njëjtën fotografi",
+    "description": "Një fotografi lart, dy deri në katër poshtë. Prekni atë që është e njëjtë. Një lojë fotografish e qetë dhe falas për persona që jetojnë me demencë, pa kohëmatës.",
+    "short": "Shikoni fotografinë lart dhe prekni të njëjtën poshtë.",
+    "players": "1 ose 2 persona",
+    "intro": "Një fotografi e vetme qëndron në krye të ekranit. Poshtë saj janë dy, tre ose katër fotografi. Prekni atë që është e njëjtë. Është një zgjedhje e thjeshtë çdo herë, me shumë hapësirë për të biseduar.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Zgjidhni dy, tre ose katër fotografi për të zgjedhur. Dy është më e thjeshta.",
+      "Shikoni fotografinë lart së bashku.",
+      "Prekni të njëjtën fotografi poshtë. Ajo shënohet me një shenjë kontrolli dhe disa fjalë të ngrohta.",
+      "Nëse prekët një fotografi tjetër, loja thjesht e emërton dhe pret. Merrni kohën tuaj.",
+      "Prekni „Fotografia tjetër“ kur të jeni gati për një tjetër."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Bisedoni për secilën fotografi para se të zgjidhni: ngjyra, forma, ku mund ta keni parë.",
+      "Dy zgjedhje nuk janë „shumë të lehta“. Qëllimi është një moment i këndshëm, jo një sfidë.",
+      "Nëse prekja është e vështirë, personi mund të tregojë me gisht dhe ju mund të prekni për të."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A ka kohëmatës apo pikë?",
+        "a": "Jo. Nuk ka orë, pikë, numërues lëvizjesh apo humbje. Mund të ndaloni në çdo moment, dhe ndalimi në mes është një mënyrë krejt e mirë për të përfunduar."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Çfarë ndodh nëse prekët fotografinë e gabuar?",
+        "a": "Asgjë e pakëndshme. Nuk ka zë alarmi, kryq të kuq apo dridhje. Loja e emërton fotografinë që u prek dhe pret prekjen tjetër."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A është falas, dhe duhet të regjistrohem?",
+        "a": "Po, është falas, dhe nuk nevojitet llogari, regjistrim apo shkarkim. Funksionon në shfletuesin e uebit në telefon, tablet ose kompjuter."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Përputhja e hijeve",
+    "seoTitle": "Lojë përputhjeje hijesh për demencën: falas në internet",
+    "h1": "Përputhja e hijeve: një lojë e butë me fotografi",
+    "description": "Një hije e errët lart, dy deri në katër fotografi poshtë. Prekni fotografinë që e krijon hijen. Një lojë e qetë dhe falas përputhjeje hijesh për demencën, pa kohëmatës.",
+    "short": "Shikoni hijen dhe prekni fotografinë që e krijon atë.",
+    "players": "1 ose 2 persona",
+    "intro": "Përputhja e hijeve është një aktivitet i njohur nga fletët e shtypura, këtu me fotografi të mëdha dhe pa nevojë për shtypje. Një hije e butë ndodhet lart në ekran dhe dy, tre ose katër fotografi presin poshtë. Prekni atë që e krijon hijen. Format si biçikleta, çadra apo filxhani i çajit janë të lehta për t'u folur edhe për to.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Zgjidhni dy, tre ose katër fotografi për të zgjedhur. Dy është më e thjeshta.",
+      "Shikoni hijen së bashku. Çfarë forme ka? A është e gjatë apo e rrumbullakët?",
+      "Prekni fotografinë që e krijon hijen. Emri i saj shfaqet nën hije.",
+      "Nëse prekët një fotografi tjetër, loja thjesht e emërton dhe pret. Merrni kohën tuaj.",
+      "Prekni „Hija tjetër“ kur të jeni gati për një tjetër."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Ndiqni me gisht konturin e hijes dhe bisedoni për formën.",
+      "Nëse hijet duken të vështira sot, kaloni te „Gjej të njëjtën“, ku fotografitë duken të ngjashme.",
+      "Bisedoni për fotografinë pasi të gjendet: „Kishim një çadër si kjo.“"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A ka kohëmatës apo pikë?",
+        "a": "Jo. Nuk ka orë, pikë, numërues lëvizjesh apo humbje. Mund të ndaloni në çdo moment, dhe ndalimi në mes është një mënyrë krejt e mirë për të përfunduar."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "A është e mirë loja e hijeve për personat me demencë?",
+        "a": "Për disa persona mund të jetë një aktivitet i këndshëm dhe i thjeshtë, sidomos në fazat e hershme. Format njihen më lehtë se fjalët. Është për kënaqësi dhe bisedë, jo për test, dhe nuk e trajton apo ngadalëson demencën. Nëse shkakton mërzi, provoni „Gjej të njëjtën“ ose thjesht shikoni fotografi së bashku."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Çfarë ndodh nëse prekët foton e gabuar?",
+        "a": "Asgjë e pakëndshme. Nuk ka zile, kryq të kuq apo dridhje. Loja e emëron foton që u prek dhe pret prekjen tjetër."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A është falas, dhe a duhet të regjistrohem?",
+        "a": "Po, është falas, dhe nuk ka llogari, regjistrim apo shkarkim. Funksionon në shfletuesin e uebit në telefon, tablet ose kompjuter."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Rendit së bashku",
+    "seoTitle": "Lojë renditjeje për demencën: Rendit së bashku",
+    "h1": "Rendit së bashku: një aktivitet renditjeje me foto",
+    "description": "Prek një foto, pastaj prek shportën ku i takon: kuzhinë ose kopsht, fruta ose kafshë. Një aktivitet renditjeje i qetë dhe falas për personat që jetojnë me demencë.",
+    "short": "Vendos çdo foto në shportën e vet: kuzhinë ose kopsht, e të tjera.",
+    "players": "1 ose 2 persona",
+    "intro": "Renditja është një detyrë e njohur dhe e kënaqshme e përditshme, si të vendosësh ushqimet në frigorifer ose të çiftëzosh çorapet. Prek një foto, pastaj prek shportën ku i takon. Nuk ka nxitim dhe nuk ka hap të gabuar.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Zgjidhni një temë: kuzhinë dhe kopsht, fruta dhe kafshë, ose shtëpi dhe udhëtim.",
+      "Prekni një foto. Ajo merr një kornizë ari.",
+      "Prekni shportën ku i takon. Fotoja zhvendoset në atë shportë.",
+      "Nëse i takon shportës tjetër, loja e thotë me butësi dhe pret.",
+      "Kur çdo foto është renditur, shikoni shportat së bashku."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Në jetën reale shpesh nuk ka përgjigje të gabuara. Nëse dikush thotë se kanaçja e ujitjes i takon kuzhinës, pyesni pse. Mund të dëgjoni një histori të bukur.",
+      "Përdorni fotot si nxitje: „Çfarë rritnit në kopsht?“",
+      "Renditja e objekteve reale, si lugët dhe pirunët ose butonat sipas ngjyrës, është një vazhdim i shkëlqyer larg ekranit."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A ka kohëmatës apo pikë?",
+        "a": "Jo. Nuk ka orë, pikë, numërues lëvizjesh apo humbje. Mund të ndaloni në çdo moment, dhe ndalimi në mes është një mënyrë e mirë për ta përfunduar."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Pse renditja?",
+        "a": "Shumë persona e duan renditjen sepse duket si punë e dobishme dhe e njohur. Gjithashtu, është e lehtë të flitet për fotot ndërsa punoni."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A është falas, dhe a duhet të regjistrohem?",
+        "a": "Po, është falas, dhe nuk ka llogari, regjistrim apo shkarkim. Funksionon në shfletuesin e uebit në telefon, tablet ose kompjuter."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle me foto",
+    "seoTitle": "Puzzle i lehtë për demencën: 4 ose 9 copëza",
+    "h1": "Puzzle me foto: një puzzle i lehtë",
+    "description": "Një puzzle i lehtë në internet për personat që jetojnë me demencë: 4 ose 9 copëza të mëdha, e gjithë fotoja mbetet e dukshme, dhe prekni dy copëza për t’i ndërruar vendet.",
+    "short": "Prek dy copëza për t’i ndërruar vendet, derisa fotoja të jetë e plotë.",
+    "players": "1 ose 2 persona",
+    "intro": "Një foto miqësore pritet në katër ose nëntë copëza të mëdha dhe përzihet. E gjithë fotoja mbetet e dukshme si udhëzues. Prek një copëz, pastaj një tjetër, dhe ato ndërrojnë vend. Nuk nevojitet tërheqja me miun.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Zgjidhni një foto dhe 4 ose 9 copëza. Katër është një fillim i butë.",
+      "Shikoni të gjithë fotografinë lart.",
+      "Prekni një copëz, pastaj prekni vendin ku duhet të shkojë. Dy copëzat ndërrojnë vend.",
+      "Copëzat në vendin e duhur marrin një shenjë të vogël kontrolli.",
+      "Kur fotoja është e plotë, shijojeni së bashku, pastaj zgjidhni një tjetër."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Prekja e dy copëzave për t’i ndërruar vendet është shumë më e lehtë se tërheqja për shumë persona.",
+      "Flisni për fotografinë ndërsa bashkohet: „Ja çatia e kuqe.“",
+      "Një puzzle druri i vërtetë me 12 deri në 24 copëza të mëdha është gjithashtu një aktivitet i bukur në tavolinë."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A ka kohëmatës apo pikë?",
+        "a": "Jo. Nuk ka orë, pikë, numërues lëvizjesh apo humbje. Mund të ndaloni në çdo moment, dhe ndalimi në mes është një mënyrë e mirë për ta përfunduar."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Duhet t’i tërheq copëzat?",
+        "a": "Jo. Prek një copëz, pastaj një tjetër, dhe ato ndërrojnë vend. Kjo është më e lehtë me dorë që dridhet ose në ekran të vogël."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A është falas, dhe a duhet të regjistrohem?",
+        "a": "Po, është falas, dhe nuk ka llogari, regjistrim apo shkarkim. Funksionon në shfletuesin e uebit në telefon, tablet ose kompjuter."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Plotëso shprehjen",
+    "seoTitle": "Plotëso shprehjen: lojë me shprehje të njohura për të moshuarit",
+    "h1": "Plotëso shprehjen",
+    "description": "Shprehje amerikane të njohura me fjalën e fundit të hequr, si „A penny saved is a penny ___“. Prek një zgjedhje ose shfaq fundin, pastaj flisni për të.",
+    "short": "Plotësoni së bashku shprehje të njohura, pastaj flisni për to.",
+    "players": "1, 2 ose një grup",
+    "intro": "Fjalët e urta të vjetra shpesh njihen gjatë gjithë jetës. Çdo kartelë tregon një shprehje të njohur me fjalën e fundit të hequr, tre zgjedhje dhe një buton „Shfaq fundin“. Pas fundit, një pyetje e butë fton për bisedë.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lexoni shprehjen me zë të lartë së bashku.",
+      "Prekni fjalën që e mbyll, ose prekni „Shfaq fundin“.",
+      "Lexoni përsëri shprehjen e plotë dhe flisni për të duke përdorur pyetjen.",
+      "Prekni „Shprehja tjetër“ kur të jeni gati."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lexoni ngadalë dhe lini një pauzë para fjalës së fundit. Shpesh personi e thotë atë para se ju ta përfundoni.",
+      "Nëse dikush jep një fund tjetër, shijojeni. Disa versione të shprehjeve ndryshojnë sipas familjes ose zonës.",
+      "Në grup, një person lexon dhe të gjithë bashkohen në fund."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A ka kohëmatës apo pikë?",
+        "a": "Jo. Nuk ka kohëmatës, pikë, numërues lëvizjesh apo humbje. Mund të ndaloni në çdo moment, dhe ndalimi në mes të lojës është një mënyrë e mirë për ta përfunduar."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Po nëse zgjedhim një fjalë tjetër?",
+        "a": "Loja tregon përfundimin e zakonshëm dhe kalon te biseda. Nuk ka pikë, dhe një përgjigje tjetër është në rregull."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A është falas, dhe duhet të regjistrohem?",
+        "a": "Po, është falas, dhe nuk nevojitet llogari, regjistrim apo shkarkim. Funksionon në shfletuesin e internetit në telefon, tablet ose kompjuter."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Kërkimi i fjalëve me shkronja të mëdha",
+    "seoTitle": "Kërkimi i fjalëve me shkronja të mëdha për demencën, për printim",
+    "h1": "Kërkimi i fjalëve me shkronja të mëdha",
+    "description": "Kërkim fjalësh falas me shkronja të mëdha për personat e moshuar dhe për personat që jetojnë me demencë. Pak fjalë, shkronja të mëdha, vetëm horizontalisht dhe vertikalisht. Luani në internet ose printoni.",
+    "short": "Shkronja të mëdha, pak fjalë, vetëm horizontalisht dhe vertikalisht. Mund ta printoni edhe.",
+    "players": "1 ose 2 persona",
+    "intro": "Një rrjetë e vogël me shkronja të mëdha dhe vetëm disa fjalë, të gjitha të lexueshme horizontalisht ose vertikalisht. Prekni shkronjën e parë të një fjale, pastaj shkronjën e fundit të saj. Preferoni letrën? Printoni një puzzle të ri me një prekje.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Zgjidhni një temë dhe madhësinë e rrjetës.",
+      "Shikoni listën e fjalëve. Fjalët lexohen horizontalisht (nga e majta në të djathtë) ose vertikalisht (nga lart poshtë).",
+      "Prekni shkronjën e parë të një fjale, pastaj prekni shkronjën e fundit.",
+      "Një fjalë e gjetur theksohet dhe hiqet nga lista.",
+      "Prekni „Printo këtë puzzle“ për të luajtur në letër me laps ose flumaster."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Tregoni me gisht një fjalë në listë dhe kërkoni bashkë shkronjën e saj të parë.",
+      "Në letër, një theksues është më i lehtë për t’u mbajtur sesa një laps.",
+      "Flisni për fjalët e temës. Fjalët për fruta janë një mënyrë natyrale për të kujtuar mbledhjen, pjekjen ose pazarin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A ka kohëmatës apo pikë?",
+        "a": "Jo. Nuk ka kohëmatës, pikë, numërues lëvizjesh apo humbje. Mund të ndaloni në çdo moment, dhe ndalimi në mes të lojës është një mënyrë e mirë për ta përfunduar."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "A mund ta printoj kërkimin e fjalëve?",
+        "a": "Po. Prekni „Printo këtë puzzle“ për të printuar rrjetën aktuale me shkronja të mëdha, me listën e fjalëve poshtë. Çdo puzzle i ri është i ndryshëm."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A është falas, dhe duhet të regjistrohem?",
+        "a": "Po, është falas, dhe nuk nevojitet llogari, regjistrim apo shkarkim. Funksionon në shfletuesin e internetit në telefon, tablet ose kompjuter."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Faqe për ngjyrosje",
+    "seoTitle": "Faqe për ngjyrosje për të rriturit me demencë (falas)",
+    "h1": "Faqe për ngjyrosje",
+    "description": "Faqe ngjyrosjeje të thjeshta për të rritur, me sipërfaqe të mëdha: prekni një ngjyrë, pastaj prekni figurën. Pa ndotje, pa ngjyra të gabuara, dhe çdo faqe mund të printohet falas.",
+    "short": "Prekni një ngjyrë, pastaj një pjesë të figurës. Mund të printoni edhe faqe.",
+    "players": "1 ose 2 persona",
+    "intro": "Faqe me forma të mëdha dhe të thjeshta: një lule në vazo, një shtëpi, një filxhan çaji, një flutur dhe një anije me vela. Prekni një ngjyrë, pastaj prekni një pjesë të figurës për ta mbushur. Nuk ka ngjyra të gabuara.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Zgjidhni një faqe.",
+      "Prekni një ngjyrë. Çdo ngjyrë ka emrin e vet të shkruar mbi të.",
+      "Prekni një pjesë të figurës për ta mbushur me atë ngjyrë.",
+      "Ndryshoni mendje në çdo kohë duke e mbushur sërish.",
+      "Prekni „Printo këtë faqe“ për një faqe boshe për të ngjyrosur me laps ose flumaster."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Ofroni dy ngjyra për të zgjedhur, në vend të gjithë paletës, nëse zgjedhja duket shumë.",
+      "Pemët e purpurta dhe diellet blu janë të mirëpritura. Kjo ka të bëjë me kënaqësinë e ngjyrave, jo me saktësinë.",
+      "Faqet e printuara funksionojnë mirë me flumastra ose kreta të trasha, që janë më të lehta për t’u mbajtur."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A ka kohëmatës apo pikë?",
+        "a": "Jo. Nuk ka kohëmatës, pikë, numërues lëvizjesh apo humbje. Mund të ndaloni në çdo moment, dhe ndalimi në mes të lojës është një mënyrë e mirë për ta përfunduar."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "A janë këto faqe shumë fëmijërore?",
+        "a": "Ne kemi vizatuar objekte të qetë dhe të thjeshta, jo karikatura, kështu që faqet i përshtaten të rriturve. Format e mëdha e bëjnë ngjyrosjen të lehtë pa e bërë fëmijërore."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A është falas, dhe duhet të regjistrohem?",
+        "a": "Po, është falas, dhe nuk nevojitet llogari, regjistrim apo shkarkim. Funksionon në shfletuesin e internetit në telefon, tablet ose kompjuter."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kartat e bisedës",
+    "seoTitle": "Nisës bisede për demencën: karta me figura",
+    "h1": "Kartat e bisedës",
+    "description": "Karta me figura dhe pyetje të buta për nisje bisede për personat që jetojnë me demencë: pa pyetje si provim, pa përgjigje të sakta. Përdorni në ekran ose printoni grupin e plotë.",
+    "short": "Karta me figura dhe pyetje të hapura e të buta. Pa pyetje si provim.",
+    "players": "2 persona ose një grup",
+    "intro": "Çdo kartë lidh një figurë të njohur me një ftesë të hapur për të folur, si „Cili është lloji juaj i preferuar i motit?“ Nuk ka përgjigje të sakta dhe nuk ka asgjë për t’u kujtuar. Zgjidhni një temë ose përzieni të gjitha.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Zgjidhni një temë, ose mbani „Të gjitha kartat“.",
+      "Lexoni pyetjen me zë të lartë dhe shikoni figurën bashkë.",
+      "Dëgjoni, ndani edhe përgjigjen tuaj dhe lëreni bisedën të shtrihet.",
+      "Prekni „Karta tjetër“ kur jeni gati, ose qëndroni te një kartë sa të doni.",
+      "Prekni „Printo të gjitha kartat“ për të prerë një grup në letër."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Përgjigjuni edhe ju pyetjes. Ndihet si bisedë, jo si intervistë.",
+      "Ndiqni historinë, jo faktet. Nëse detajet ndryshojnë, kjo është në rregull.",
+      "Nëse një kartë prek diçka të trishtueshme, njihni ndjenjën me butësi dhe kaloni me kujdes te një kartë tjetër."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Pse nuk ka pyetje si „A e mban mend…?“",
+        "a": "Pyetjet që testojnë kujtesën mund të ndihen si provim dhe të shkaktojnë turp. Ftesat e hapura si „Më trego për…“ lejojnë këdo të marrë pjesë, çfarëdo që kujton."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "A mund t’i printoj kartat?",
+        "a": "Po. „Printo të gjitha kartat“ printon grupin e plotë me shkronja të mëdha, disa karta për faqe, gati për t’u prerë."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A është falas, dhe duhet të regjistrohem?",
+        "a": "Po, është falas, dhe nuk duhet llogari, regjistrim apo shkarkim. Funksionon në shfletuesin e uebit në telefon, tablet ose kompjuter."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Çifte fotografish",
+    "seoTitle": "Lojë përputhjeje me fotot e familjes",
+    "h1": "Çifte fotografish: përputhni fotot tuaja",
+    "description": "Ktheni fotot e familjes suaj në një lojë të butë përputhjeje. Zgjidhni 2 deri në 6 foto në pajisjen tuaj; ato qëndrojnë në shfletuesin tuaj dhe nuk ngarkohen kurrë.",
+    "short": "Zgjidhni fotot tuaja dhe përputhini. Asgjë nuk ngarkohet.",
+    "players": "2 persona, ulur njëri pranë tjetrit",
+    "intro": "Zgjidhni dy deri në gjashtë foto nga telefoni, tableti ose kompjuteri juaj dhe ato bëhen një lojë përputhjeje me figura të mëdha e të dukshme. Fotot shfaqen vetëm brenda kësaj faqeje. Ato nuk ngarkohen, nuk ruhen dhe nuk ndahen me askënd, dhe zhduken kur mbyllni faqen.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Prekni „Zgjidh fotot“ dhe zgjidhni dy deri në gjashtë foto.",
+      "Secila foto shfaqet dy herë. Prekni një, pastaj prekni çiftin e saj.",
+      "Flisni për secilën foto kur e gjeni.",
+      "Kur të keni mbaruar, mbyllni faqen ose prekni „Fshi fotot“. Asgjë nuk mbahet."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Zgjidhni foto të qarta me gjëra të gëzuara dhe të njohura: një kafshë shtëpiake, një kopsht, një vend të preferuar, ditën e dasmës.",
+      "Fotot e vendeve dhe objekteve mund të jenë më të lehta se fytyrat, dhe nuk krijojnë presion për të emërtuar njerëz.",
+      "Mos përfshini foto të njerëzve që kanë ndërruar jetë nëse mund të sjellin pikëllim të papritur, përveç nëse e dini se ato sjellin ngushëllim."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "A ngarkohen fotot e mia diku?",
+        "a": "Jo. Faqja i lexon fotot që zgjidhni drejtpërdrejt në shfletuesin tuaj dhe i shfaq në ekran. Ato nuk dërgohen tek ne apo tek askush tjetër, dhe zhduken kur mbyllni ose rifreskoni faqen."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A ka kohëmatës apo pikë?",
+        "a": "Jo. Nuk ka orë, pikë, numërues lëvizjesh apo humbje. Mund të ndaloni në çdo moment, dhe ndalimi në mes të lojës është gjithashtu një mënyrë e mirë për ta përfunduar."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "A mund ta ruaj lojën për herën tjetër?",
+        "a": "Jo në shfletues, me qëllim, që asgjë private të mos ruhet. Aplikacioni falas Golden Moments për iPhone dhe iPad mund të mbajë kopje të zgjedhura fotosh në pajisjen tuaj."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo me figura",
+    "seoTitle": "Bingo me figura për të moshuarit me demencë: për printim",
+    "h1": "Bingo me figura për grupe",
+    "description": "Bingo me figura falas për printim, për qendra kujdesi dhe grupe të moshuarish, me një thirrës të madh në ekran. Figura të mëdha me fjalë, 9 ose 16 katrorë, pa nevojë për lexim.",
+    "short": "Karta bingo me figura për printim dhe një thirrës në ekran të madh për grupe.",
+    "players": "Një grup prej 2 deri në 30 personash",
+    "intro": "Bingo klasike me figura në vend të numrave, kështu që askush nuk ka nevojë të lexojë shkronja të vogla. Printoni një set kartash unike, pastaj përdorni thirrësin në ekran për të shfaqur çdo figurë të madhe në një televizor, laptop ose tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Zgjidhni 9 ose 16 katrorë për kartë dhe sa lojtarë janë.",
+      "Prekni „Printo kartat“. Çdo kartë është ndryshe.",
+      "Hapni thirrësin në një ekran të madh. Prekni „Figura tjetër“ për të shfaqur çdo figurë me emrin e saj.",
+      "Lojtarët mbulojnë figurën përkatëse në kartën e tyre me një monedhë, buton ose shenjues.",
+      "Kushdo që plotëson një rresht, ose të gjithë kartën, merr brohoritje. Në këtë version nuk ka humbës: vazhdoni të luani derisa të gjithë të kenë një rresht."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Përdorni objekte të mëdha si dama ose kapakë shishesh. Butonat e vegjël mund të jenë të vështirë për t'u marrë.",
+      "Emërtoni figurën dhe thoni diçka për të: „Një anije me velë. Kush ka qenë me varkë?“",
+      "Uluni personat me vështirësi shikimi më afër ekranit, dhe çiftoni ndihmës me lojtarët që kanë nevojë.",
+      "Nëntë katrorë mjaftojnë për shumicën e grupeve. Mbajeni seancën rreth 20 deri në 30 minuta."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Si luhet bingo me figura në një qendër kujdesi?",
+        "a": "Printoni një kartë për lojtar, vendosni thirrësin në ekranin më të madh që keni dhe thirrni figurat ngadalë, duke emërtuar secilën. Luani derisa të gjithë të kenë një rresht, që askush të mos mbetet jashtë."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "A është falas printimi?",
+        "a": "Po. Printoni sa karta të nevojiten, sa herë dëshironi, për përdorim personal ose në grup."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "A mund të luajnë njerëzit pa lexuar?",
+        "a": "Po. Çdo katror është një figurë e madhe, me emrin nën të për ata që preferojnë fjalët."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Frymëmarrje e qetë",
+    "seoTitle": "Një pauzë e qetë frymëmarrjeje për të moshuarit dhe kujdestarët",
+    "h1": "Një pauzë e qetë frymëmarrjeje",
+    "description": "Një pauzë e ngadaltë, e qetë frymëmarrjeje për t'u ndarë: një rreth i butë rritet dhe zvogëlohet për gjashtë frymëmarrje. Ju e filloni, dhe mund ta ndaloni në çdo kohë.",
+    "short": "Një rreth i ngadaltë për të marrë frymë së bashku. Filloni dhe ndaloni kur dëshironi.",
+    "players": "1 ose 2 persona",
+    "intro": "Ndonjëherë aktiviteti më i mirë është një pauzë e qetë. Prekni „Fillo“, pastaj merrni frymë ndërsa rrethi rritet dhe nxirrni frymë ndërsa ai zvogëlohet. Zgjidhni një ritëm më të ngadaltë ose më të shpejtë. Nuk është trajtim, thjesht një moment i qetë për t'u ndarë.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Uluni rehat njëri pranë tjetrit.",
+      "Zgjidhni një ritëm: të ngadaltë ose të butë.",
+      "Prekni „Fillo“. Merrni frymë ndërsa rrethi rritet, dhe nxirrni frymë ndërsa ai zvogëlohet.",
+      "Ndalet vetvetiu pas gjashtë frymëmarrjeve, ose prekni „Ndalo“ kur të dëshironi."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Mbani duart së bashku ose vendosni një dorë mbi krahun e personit, nëse kjo është e mirëpritur.",
+      "Mos insistoni kurrë. Nëse ai ose ajo preferon të shikojë, është në rregull.",
+      "Nëse dikush ka probleme me frymëmarrjen, merrni frymë normalisht dhe thjesht shikoni rrethin. Pyetni mjekun për çdo shqetësim lidhur me frymëmarrjen."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "A është kjo një ushtrim mjekësor frymëmarrjeje?",
+        "a": "Jo. Është një pauzë e thjeshtë, opsionale, për qetësi dhe shoqëri. Nuk është trajtim për ankthin apo ndonjë gjendje tjetër. Flisni me mjekun për shqetësimet shëndetësore."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "A lëviz rrethi pa e filluar unë?",
+        "a": "Jo. Asgjë nuk lëviz derisa të shtypni Fillo, dhe ndalon pas gjashtë frymëmarrjeve ose kur shtypni Ndalo. Nëse pajisja juaj është caktuar të kufizojë lëvizjet, fjalët ndryshojnë pa u zmadhuar rrethi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A është falas, dhe a duhet të krijoj llogari?",
+        "a": "Po, është falas, dhe nuk ka llogari, regjistrim apo shkarkim. Funksionon në shfletuesin e uebit në telefon, tablet ose kompjuter."
       }
     ]
   }

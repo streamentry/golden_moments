@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Серпас паръяс",
+    "seoTitle": "Деменцияӧн олысь йӧзлы ворсӧм: Серпас паръяс",
+    "h1": "Серпас паръяс: лӧсьыд ворсӧм",
+    "description": "Деменцияӧн олысь йӧзлы донтӧм, лӧсьыд серпас ворсӧм. Ыджыд серпасъяс дзикӧдз тыдалӧны, кад видзысь тайӧ абу да очкояс оз лыддьысьны, а плиткаяс позьӧ бӧрйыны 4-сянь 12-ӧдз.",
+    "short": "Аддзы кык ӧткодь серпас. Серпасъяс вермасны кольны восьсаӧсь.",
+    "players": "1 либӧ 2 морт, ӧта-мӧд дорын",
+    "intro": "Нюжӧд серпас вылӧ, сэсся сылы лӧсялысь вылӧ. Серпасъяс медводдзасянь восьсаӧсь, сы вӧсна нинӧм юрын кутны оз ков. Кор кык серпас лӧсялӧны ӧта-мӧдлы, на гӧгӧр лоӧ зарни визь да птичка пасйӧд.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Бӧрйы, мыйта плитка колас. Нёль плитка — заводитны медся лӧсьыд да спокоен.",
+      "Нюжӧд быдласа серпас вылӧ. Сы гӧгӧр лоӧ зарни визь.",
+      "Нюжӧд ӧткодь серпас вылӧ. Кыкнан серпасыс кольӧны ӧтлаын птичка пасйӧдкӧд.",
+      "Кӧть серпасъясыс оз лӧсявны, нинӧм сьӧкыд оз ло. Нюжӧд бара, кор кӧсйан.",
+      "«Дзебӧм серпасъяс» восьты сӧмын сэк, кор кыкнанныдлы кажитчӧ важ ногӧн дзебӧм серпасъясӧн ворсӧм."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Шуалӧй серпасъяссӧ гӧлӧсӧн ӧтлаын да баитӧй на йылысь: «Гӧрд чашка. А тэ чайӧ йӧв пуктан?»",
+      "Лэдз код йылысь видзӧдан мортлы аслыс нюжӧдны, кӧть тайӧ босьтас кад. Мыччйы чуньӧн, а эн нюжӧд сы пыдди.",
+      "Ворс нёль плиткаӧн сідз дыр, мыйта кажитчӧ. Унджык плитка — тайӧ сӧмын бӧрйӧм, а оз тшуп, кодӧс ковмас ворсыны.",
+      "Помав ворсӧмсӧ сэк, кор сійӧ на вайӧ гаж. Ӧти ворсӧм — тайӧ тырмыд олӧм да удж."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Тайӧ кад вылӧ ворсӧм либӧ эмӧсь очкояс?",
+        "a": "Абу. Тайӧ ворсӧмын абу час, очкояс, вуджӧм лыддьӧм либӧ кушмунӧм. Позьӧ дугдыны быд здукӧ, да ворсӧм джын вылын помалӧм — бур ног помавны."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Мыйла серпасъясыс кольӧны восьсаӧсь?",
+        "a": "Восьса серпасъяс отсалӧны видзӧдны да лӧсьӧдны, а оз казьтыштны. Уна мортлы тадзи водзджык да спокоен. Кӧсйан кӧ, позьӧ ӧти нюжӧдӧмӧн пыртны дзебӧм серпасъяс."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Тайӧ донтӧм, да ковмас ли гижсьыны?",
+        "a": "Донтӧм, эстӧн абу аккаунт, гижсьӧм либӧ лэдзӧм. Сійӧ уджалӧ браузерын телефон, планшет либӧ компьютер вылын."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Позьӧ ли пыртны ассьыным семьяса снимокъяс?",
+        "a": "Позьӧ. Видзӧд Photo pairs («Снимок паръяс»), кӧні позьӧ бӧрйыны снимокъяс аслад телефон либӧ компьютерсянь. Снимокъясыс кольӧны тэнад браузерын да сетьӧ оз лэптысьны."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Аддзы ӧткоддьӧмсӧ",
+    "seoTitle": "Аддзы ӧткодь серпас: кокни ворсӧм деменция дырйи",
+    "h1": "Аддзы ӧткодь серпас",
+    "description": "Вылын ӧти серпас, улынджык кыксянь нёльӧдз. Нюжӧд ӧткодь серпас вылӧ. Деменцияӧн олысь йӧзлы лӧсьыд, донтӧм серпас ворсӧм, кад видзысьтӧг.",
+    "short": "Видзӧд вылыс серпас вылӧ да нюжӧд сы кодь вылӧ улынджык.",
+    "players": "1 либӧ 2 морт",
+    "intro": "Экран вылын пукалӧ ӧти серпас. Сы улысь — кык, куим либӧ нёль серпас. Нюжӧд сы вылӧ, коді сы кодь жӧ. Ӧти кокни бӧрйӧм ӧтчыдысь, да уна кад сёрнитны.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Бӧрйы кык, куим либӧ нёль серпас, на котырысь бӧрйыны. Кык — медся кокни.",
+      "Видзӧдӧй вылыс серпас вылӧ ӧтлаын.",
+      "Нюжӧд улыс ӧткодь серпас вылӧ. Сійӧ пасйӧма лоӧ птичкаӧн да шондіа кывъясӧн.",
+      "Мӧд серпас вылӧ нюжӧдігӧн ворсӧм сӧмын шуас сылысь нимсӧ да видзӧдас. Эн ӧвсьӧ.",
+      "Нюжӧд «Мӧд серпас» вылӧ, кор кӧсйан выльсӧ."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Бӧрйытӧдз сёрнитӧй быд серпас йылысь: рӧмъяс, форма, кӧні сэтшӧмсӧ позьӧ аддзыны.",
+      "Кык бӧрйӧм — тайӧ абу «дзик кокни». Медшӧр мог — гажа здук, а оз кутшӧмкӧ сьӧкыд вермасьӧм.",
+      "Кӧть экран вылӧ нюжӧдны сьӧкыд, мортыс вермас мыччыны чуньӧн, а тэ нюжӧд сы пыдди."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Тайӧ кад вылӧ ворсӧм либӧ эмӧсь очкояс?",
+        "a": "Абу. Тайӧ ворсӧмын абу час, очкояс, вуджӧм лыддьӧм либӧ кушмунӧм. Позьӧ дугдыны быд здукӧ, да ворсӧм джын вылын помалӧм — бур ног помавны."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Мый лоӧ, кӧть нюжӧдан мӧд серпас вылӧ?",
+        "a": "Нинӧм мыжтӧм. Абу гудок, гӧрд перна либӧ дрожитӧм. Ворсӧм сӧмын шуас нюжӧдӧм серпаслысь нимсӧ да видзӧдас мӧд нюжӧдӧмсӧ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Тайӧ донтӧм, да ковмас ли гижсьыны?",
+        "a": "Донтӧм, эстӧн абу аккаунт, гижсьӧм либӧ лэдзӧм. Сійӧ уджалӧ браузерын телефон, планшет либӧ компьютер вылын."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Вуджӧр паръяс",
+    "seoTitle": "Вуджӧр паръяс: деменция дырйи донтӧм онлайн-ворсӧм",
+    "h1": "Вуджӧр паръяс: лӧсьыд серпас ворсӧм",
+    "description": "Вылын сьӧд вуджӧр, улынджык кыксянь нёль серпасӧдз. Нюжӧд сійӧ серпас вылӧ, кодлӧн вуджӧрыс. Донтӧм, лӧсьыд вуджӧр ворсӧм деменция дырйи, кад видзысьтӧг.",
+    "short": "Видзӧд вуджӧр вылӧ да нюжӧд сійӧ серпас вылӧ, кодлӧн тайӧ вуджӧрыс.",
+    "players": "1 либӧ 2 морт",
+    "intro": "Вуджӧр серти лӧсьӧдӧм — тӧдса удж кабала вылысь, но эстӧн эм ыджыд серпасъяс да нинӧм печатайтны оз ков. Экран вылын пукалӧ небыд вуджӧр, а улынджык видзӧдӧны кык, куим либӧ нёль серпас. Нюжӧд сійӧ серпас вылӧ, кодлӧн вуджӧрыс. Велосипед, зонтик либӧ чашка кодь формаяс йылысь сідзжӧ кокни сёрнитны.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Бӧрйы кык, куим либӧ нёль серпас, на котырысь бӧрйыны. Кык — медся кокни.",
+      "Видзӧдӧй вуджӧр вылӧ ӧтлаын. Кутшӧм форма сылӧн? Джуджыд либӧ гӧгрӧс?",
+      "Нюжӧд сійӧ серпас вылӧ, кодлӧн вуджӧрыс. Сылысь нимсӧ петкӧдлас вуджӧр улысь.",
+      "Мӧд серпас вылӧ нюжӧдігӧн ворсӧм сӧмын шуас сылысь нимсӧ да видзӧдас. Эн ӧвсьӧ.",
+      "Нюжӧд «Мӧд вуджӧр» вылӧ, кор кӧсйан выльсӧ."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Чуньӧн гӧгӧрт вуджӧрлысь визьсӧ да сёрнит форма йылысь.",
+      "Кӧть талун вуджӧръяс сьӧкыдӧсь, вудж «Аддзы ӧткоддьӧмсӧ» ворсӧм вылӧ, кӧні серпасъясыс ӧткодьӧсь.",
+      "Сёрнит серпас йылысь, кор аддзан: «Миян вӧлі татшӧм жӧ зонтик»."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Тайӧ кад вылӧ ворсӧм либӧ эмӧсь очкояс?",
+        "a": "Абу. Тайӧ ворсӧмын абу час, очкояс, вуджӧм лыддьӧм либӧ кушмунӧм. Позьӧ дугдыны быд здукӧ, да ворсӧм джын вылын помалӧм — бур ног помавны."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Вуджердъяс серпасӧн аддзыны отсӧг — бур удж деменцияӧн олысь йӧзлы?",
+        "a": "Мукӧд йӧзлы тайӧ вермас лоны шань да кокни удж, тӧдчана водзын кадъясын. Формаясӧ позьӧ аддзыны кокнитджыка, кыдзи кывъясӧ. Тайӧ гажтӧм да сёрнитӧм понда, абу видлалӧм, сійӧ оз бурдӧд, оз видзӧд и оз дугодӧ деменцияӧс. Тіян дорын олысь мортлы сьӧкыд кӧ лоӧ, видлӧй «Корсь ӧткодьторсӧ» либӧ видзӧдлӧй серпасъяс вылӧ ӧтлаын."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Мый лоӧ, абу сійӧ серпас вылӧ кӧ личкыны?",
+        "a": "Некутшӧм лёктор оз ло. Оз гӧгӧрво, оз тыдав торкыс и оз ворссьы. Ворсӧм висьталӧ, кутшӧм серпас вылӧ личкисны, да виччысьӧ мӧд личкӧм."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Тайӧ донмӧд-ӧ, да колӧ-ӧ пасйыны?",
+        "a": "Да, тайӧ донмӧд, и некутшӧм аккаунт, пасйӧм либӧ босьтӧм абу колӧ. Сійӧ уджалӧ браузерын телефон, планшет либӧ компьютер вылын."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Ӧтувтӧ тэчам",
+    "seoTitle": "Деменцияӧн олысь йӧзлы тэчӧм ворсӧм: Ӧтувтӧ тэчам",
+    "h1": "Ӧтувтӧ тэчам: серпасъяс тэчӧм удж",
+    "description": "Личкы серпас вылӧ, сэсся личкы сійӧ корзина вылӧ, кӧні сійӧ колӧ: кухняын либӧ садын, вотӧсъяс либӧ пемӧсъяс. Лӧнь, донмӧд тэчӧм удж деменцияӧн олысь йӧзлы.",
+    "short": "Пукты быд серпас ас корзинаас: кухня да сад, да мукӧдтор.",
+    "players": "1 либӧ 2 морт",
+    "intro": "Тэчӧм — тӧдса да нимкодь быдлунъя удж, кыдзи сёян-юан видзны либӧ носкиӧс ӧтувтӧ лӧсьӧдны. Личкы серпас вылӧ, сэсся личкы корзина вылӧ, кӧні сійӧ колӧ. Абу тэрмасьӧм, абу и абу лӧсявтӧм вуджӧд.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Бӧрйы тема: кухня да сад, вотӧсъяс да пемӧсъяс либӧ горт да ветлӧм.",
+      "Личкы серпас вылӧ. Сылы лоӧ зарни гӧгрӧс.",
+      "Личкы корзина вылӧ, кӧні сійӧ колӧ. Серпас вуджӧ тайӧ корзинаӧ.",
+      "Мӧд корзинаӧ кӧ колӧ, ворсӧм небыдикӧн висьталӧ тайӧ йылысь да виччысьӧ.",
+      "Быд серпас тэчӧма кӧ, видзӧдлӧй корзинаясӧ ӧтлаын."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Олысьын ӧтчыд абу дзик ӧти правильнӧй вочакыв. Морт шуӧ кӧ, мый ва нюкӧмтор колӧ кухняын, юав, мыля. Вермас воны бур висьт.",
+      "Вӧдитчы серпасъясӧн кыдз сёрнитӧм заводитӧмӧн: «Мый ті быдтісӧ ас садын?»",
+      "Збыль торъяс тэчӧм, шуам, пань да вилка либӧ пуговицаяс рӧм серти, — бур удж экрантӧг пызан вылын."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Эм-ӧ кад лыддьӧм либӧ баллъяс?",
+        "a": "Абу. Абу час, балл, вуджӧм лыд либӧ вошӧм. Ті верманныд дугдны кӧть кутшӧм кадӧ, и шӧрас дугдӧм — тшӧтш бура помалӧм ног."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Мыйла тэчӧм?",
+        "a": "Уна морт радейтӧ тэчӧм, сы вӧсна мый сійӧ колана да тӧдса удж кодь. Сідзжӧ кокни сёрнитны серпасъяс йылысь, кор ті уджаланныд."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Тайӧ донмӧд-ӧ, да колӧ-ӧ пасйыны?",
+        "a": "Да, тайӧ донмӧд, и некутшӧм аккаунт, пасйӧм либӧ босьтӧм абу колӧ. Сійӧ уджалӧ браузерын телефон, планшет либӧ компьютер вылын."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Серпас мозаика",
+    "seoTitle": "Деменцияӧн олысь йӧзлы кокни мозаика: 4 либӧ 9 юкӧн",
+    "h1": "Серпас мозаика: кокни мозаика",
+    "description": "Кокни онлайн мозаика деменцияӧн олысь йӧзлы: 4 либӧ 9 ыджыд юкӧн, став серпасыс тыдалӧ отсӧгӧн, и ті личканныд кык юкӧн вылӧ, медым вежны найӧс местаӧн.",
+    "short": "Личкы кык юкӧн вылӧ, медым вежны найӧс местаӧн, дзикӧдз серпасыс оз ло тыр.",
+    "players": "1 либӧ 2 морт",
+    "intro": "Мича серпас юклӧма нёль либӧ ӧкмыс ыджыд юкӧн вылӧ да сорӧма. Став серпасыс тыдалӧ отсӧгӧн. Личкы ӧти юкӧн вылӧ, сэсся мӧд вылӧ — найӧ вежӧны ас местаӧннысӧ. Кыскыны абу колӧ.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Бӧрйы серпас да 4 либӧ 9 юкӧн. Нёль юкӧн — лӧнь заводитӧм.",
+      "Видзӧдлы став серпас вылӧ вылын.",
+      "Личкы юкӧн вылӧ, сэсся личкы сійӧ места вылӧ, кӧні сійӧ колӧ. Кык юкӧныс вежасны местаӧн.",
+      "Правильнӧй местаын юкӧнъяс вылын лоӧ ичӧтик пас.",
+      "Серпасыс тыр кӧ лоӧ, гажӧдлӧй сійӧ ӧтлаын, сэсся бӧрйӧй мӧдӧс."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Кык юкӧн вылӧ личкӧм да местаӧн вежӧм уна мортлы кокнитджык, кыдзи кыскӧм.",
+      "Сёрнитӧй серпас йылысь, кор сійӧ артмӧ: «Татчӧ гӧрд вевтсӧ».",
+      "Збыль пу мозаика 12–24 ыджыд юкӧнӧн — бур удж пызан вылын тшӧтш."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Эм-ӧ кад лыддьӧм либӧ баллъяс?",
+        "a": "Абу. Абу час, балл, вуджӧм лыд либӧ вошӧм. Ті верманныд дугдны кӧть кутшӧм кадӧ, и шӧрас дугдӧм — тшӧтш бура помалӧм ног."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Коло-ӧ юкӧнъясӧс кыскыны?",
+        "a": "Абу. Личкы ӧти юкӧн вылӧ, сэсся мӧд вылӧ — найӧ вежасны местаӧн. Тайӧ кокнитджык, кытчӧ киыс ворссьӧ либӧ экран посни."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Тайӧ донмӧд-ӧ, да колӧ-ӧ пасйыны?",
+        "a": "Да, тайӧ донмӧд, и некутшӧм аккаунт, пасйӧм либӧ босьтӧм абу колӧ. Сійӧ уджалӧ браузерын телефон, планшет либӧ компьютер вылын."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Помав шуӧмсӧ",
+    "seoTitle": "Помав шуӧмсӧ: ыджыд йӧзлы шуӧмъяс ворсӧм",
+    "h1": "Помав шуӧмсӧ",
+    "description": "Тӧдса шуӧмъяс, кӧні бӧръя кывыс абу. Бӧрйы вочакыв либӧ петкӧдлы помсӧ, сэсся сёрнитӧй сійӧ йылысь.",
+    "short": "Ӧтувтӧ помалӧй тӧдса шуӧмъясӧс, сэсся сёрнитӧй найӧ йылысь.",
+    "players": "1, 2 либӧ чукӧр",
+    "intro": "Важ шуӧмъясӧс ӧтчыд тӧдӧны дыр овмӧдчыныс. Быд картаын петкӧдлӧма тӧдса шуӧм, кӧні бӧръя кывыс абу, куим бӧрйӧм да «Петкӧдлы помсӧ» кнопка. Помсӧ аддзӧм бӧрын небыдик юалӧм корӧ сёрнитӧм.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Лыддьӧй шуӧмсӧ гораа ӧтлаын.",
+      "Личкы кыв вылӧ, кӧда помалӧ сійӧс, либӧ личкы «Петкӧдлы помсӧ».",
+      "Лыддьӧй став шуӧмсӧ бара да сёрнитӧй сійӧ йылысь юалӧм серти.",
+      "Личкы «Мӧд шуӧм», кор дасьӧсь лоанныд."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Лыддьӧй ӧдйӧтӧг да кольӧй ичӧтик видзчисьӧм бӧръя кыв водзын. ӧтчыд йӧз шуӧны сійӧс тіян водзын.",
+      "Морт сетӧ кӧ мӧд пом, нимкодьӧн лыддьӧй сійӧс. Шуӧмъяс вермасны торъявны семьяын либӧ инӧн.",
+      "Чукӧрын ӧти морт лыддьӧ, а ставыс ӧтувтӧ шуӧны помсӧ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Эм-ӧ кад лыддьӧм либӧ баллъяс?",
+        "a": "Абу. Некутшӧм кад туялӧм, баллъяс, вӧчӧм лыд либӧ вошӧм абу. Ті верманныд дугдӧдны кӧть кытчӧдз, шӧркоддьӧм дорын дугдӧмтӧ оз позь нин помавны бур ногӧн."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Мый, кор ми бӧрйим мӧд кыв?",
+        "a": "Ворсӧм петкӧдлӧ медшӧр пом и вуджӧ сёрнитӧм вылӧ. Баллъяс абуӧсь, мӧд вочакыв сідзжӧ лӧсяв."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Сійӧ донмӧм-ӧ, и колӧ-ӧ регистрируйтчыны?",
+        "a": "Да, сійӧ донмӧм, и аккаунт, регистрация либӧ скачайтӧм абу колӧ. Сійӧ уджалӧ веб-браузерын телефон вылын, планшетын либӧ компьютерын."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ыджыд шрифтӧн кыв корсьӧм",
+    "seoTitle": "Деменцияӧн олысь йӧзлы ыджыд шрифтӧн кыв корсьӧм, печатайтны позян",
+    "h1": "Ыджыд шрифтӧн кыв корсьӧм",
+    "description": "Ыджыд йӧзлы да деменцияӧн олысь йӧзлы донмӧм ыджыд шрифтӧн кыв корсьӧм. Этша кыв, ыджыд шыпасъяс, кывъяс сӧмын веськыдӧн да уладжык. Ворсӧд онлайн либӧ печатайт.",
+    "short": "Ыджыд шыпасъяс, этша кыв, сӧмын веськыдӧн да уладжык. Печатайтны позьӧ сідзжӧ.",
+    "players": "1 либӧ 2 морт",
+    "intro": "Дженьыдик сетка ыджыд шыпасъясӧн да сӧмын кымынкӧ кыв, быдӧн лыддьысьӧ веськыдӧн либӧ уладжык. Личкы кывлӧн медводдза шыпас, сэсся бӧръя шыпас. Кӧсъянныд бумага вылын? Печатайтӧй выль моз ӧти личкӧмӧн.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Бӧрйӧй тема да сетка ыджда.",
+      "Видзӧдлӧй кыв лыддьӧг. Кывъяс лыддьысьӧны веськыдӧн (веськыдладорсянь веськыдвывлань) либӧ уладжык (вылысен улыс).",
+      "Личкы кывлӧн медводдза шыпас, сэсся личкы бӧръя шыпас.",
+      "Аддзӧм кыв торъялӧма да лыддьӧгын чышкӧма.",
+      "Личкы «Печатайтны тайӧ мозтӧ», медым ворсны бумага вылын карандашӧн либӧ маркерӧн."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Висьтав лыддьӧгысь кыв вылӧ да корсьӧй сылысь медводдза шыпассӧ ӧтлаын.",
+      "Бумага вылын маркер отсалӧ кутны кокниа, карандаш дорысь.",
+      "Сёрнитӧй тема кывъяс йылысь. Вотӧсса кывъяс вермасны вӧчны кокни туй гӧгӧрвоӧмъяс вылӧ вотӧс босьтӧм, пӧжӧм либӧ базар йылысь."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Кад туялӧм либӧ баллъяс эмӧсь-ӧ?",
+        "a": "Абу. Некутшӧм кад туялӧм, баллъяс, вӧчӧм лыд либӧ вошӧм абу. Ті верманныд дугдӧдны кӧть кытчӧдз, шӧркоддьӧм дорын дугдӧмтӧ оз позь нин помавны бур ногӧн."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ме верма печатайтны кыв корсьӧмсӧ?",
+        "a": "Да. Личкы «Печатайтны тайӧ мозтӧ», медым печатайтны ӧнія сеткасӧ ыджыд шрифтӧн, кыв лыддьӧг улас. Быд выль моз торъя."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Сійӧ донмӧм-ӧ, и колӧ-ӧ регистрируйтчыны?",
+        "a": "Да, сійӧ донмӧм, и аккаунт, регистрация либӧ скачайтӧм абу колӧ. Сійӧ уджалӧ веб-браузерын телефон вылын, планшетын либӧ компьютерын."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Мичмӧдан листбокъяс",
+    "seoTitle": "Деменцияӧн олысь ыджыд йӧзлы мичмӧдан листбокъяс (донмӧм)",
+    "h1": "Мичмӧдан листбокъяс",
+    "description": "Прӧстӧй, ыджыд йӧзлы лӧсялана мичмӧдан листбокъяс ыджыд юкӧнъясӧн: личкы рӧм, сэсся личкы серпас. Зільӧм абу, абу рӧмъяс абу, и быд листбоксӧ позьӧ печатайтны донмӧмӧн.",
+    "short": "Личкы рӧм, сэсся серпас юкӧн. Листбоксӧ позьӧ печатайтны сідзжӧ.",
+    "players": "1 либӧ 2 морт",
+    "intro": "Ыджыд, прӧстӧй формаа листбокъяс: горшокын дзоридз, керка, чай доз, бобув да паруса пызан. Личкы рӧм, сэсся личкы серпас юкӧн, медым тыртны сійӧс. Абу рӧмъяс абуӧсь.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Бӧрйӧй листбок.",
+      "Личкы рӧм. Быд рӧмлӧн нимыс гижӧма сы вылын.",
+      "Личкы серпас юкӧн, медым тыртны сійӧс бӧрйӧм рӧмӧн.",
+      "Кӧть кор верманныд вежны мӧвп, выльысь тыртӧмӧн.",
+      "Личкы «Печатайтны тайӧ листбоксӧ», медым босьтны тыртӧм листбок карандашъясӧн либӧ маркеръясӧн мичмӧдӧм понда."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Кӧ бӧрйӧм сьӧкыд, сетӧй бӧрйыны кык рӧм, а став наборсӧ оз.",
+      "Лӧз пуяс да виж енэжыс бурӧсь. Тайӧ рӧмъясӧн гажӧдчӧм йылысь, а стӧчлун йылысь абу.",
+      "Печатайтӧм листбокъяс бурӧсь кыз маркеръясӧн либӧ мелокъясӧн, найӧс кокниа кутны."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Кад туялӧм либӧ баллъяс эмӧсь-ӧ?",
+        "a": "Абу. Некутшӧм кад туялӧм, баллъяс, вӧчӧм лыд либӧ вошӧм абу. Ті верманныд дугдӧдны кӧть кытчӧдз, шӧркоддьӧм дорын дугдӧмтӧ оз позь нин помавны бур ногӧн."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Татшӧм листбокъяс вывті посни челядьлы-ӧ лӧсяланаӧсь?",
+        "a": "Ми гижим лӧнь, прӧстӧй предметъяс, а мультфильмъяс абу, медым листбокъяс лӧсявны ыджыд йӧзлы. Ыджыд формаяс отсалӧны мичмӧдны кокниа, но оз вӧчны сійӧс челядь ногӧн."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Сійӧ донмӧм-ӧ, и колӧ-ӧ регистрируйтчыны?",
+        "a": "Да, сійӧ донмӧм, и аккаунт, регистрация либӧ скачайтӧм абу колӧ. Сійӧ уджалӧ веб-браузерын телефон вылын, планшетын либӧ компьютерын."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Сёрнитан картаяс",
+    "seoTitle": "Деменцияӧн олысь йӧзлы сёрнитӧм заводитана картаяс: серпаса картаяс",
+    "h1": "Сёрнитан картаяс",
+    "description": "Деменцияӧн олысь йӧзлы небзьӧдан сёрнитӧм заводитан юалӧмъясӧн серпаса картаяс: видлалӧм абу, стӧч вочакывъяс абу. Вӧдитӧй экран вылын либӧ печатайтӧй став наборсӧ.",
+    "short": "Восьса, небзьӧдан юалӧмъясӧн серпаса картаяс. Видлалӧм абу.",
+    "players": "2 морт либӧ чукӧр",
+    "intro": "Быд карта ӧтувтӧ тӧдса серпас да восьса корӧм сёрнитны, шуам: «Кутшӧм поводдя тіян медрадейтанныд?» Стӧч вочакывъяс абу и некодӧс оз ков казьтыштны. Бӧрйӧй тема либӧ сорлав ставсӧ ӧтлаын.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Бӧрйӧй тема либӧ кольӧй «Став картаяс».",
+      "Лыддьӧй юалӧмсӧ гора да видзӧдлӧй серпас вылӧ ӧтлаын.",
+      "Кывзӧй, висьтавӧй ассьыныд вочакыв да лэдзӧй сёрнитӧмлы мунны вӧляӧн.",
+      "Личкы «Матыстча карта», кор дасьӧсь, либӧ кольӧй ӧти карта дорын кыдз кӧсъянныд.",
+      "Личкы «Печатайтны став картаяссӧ», медым вундыны бумага набор."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Вочавидзӧй юалӧм вылӧ ачныд сідзжӧ. Тайӧ сёрнитӧм кодь, а видлалӧм абу.",
+      "Вуджӧй висьт серти, а стӧчлунъяс серти абу. Кӧ юӧрысъяс вежсьӧны, бур.",
+      "Кӧ карта чӧвтӧ сьӧкыдтор, казялӧй сійӧс да небзьӧн вуджӧй мӧд карта вылӧ."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Мыйла татчӧ абу «Ті казьтыланныд-ӧ…?» ногса юалӧмъяс?",
+        "a": "Гӧгӧрвоӧм видлалана юалӧмъяс вермасны лоны экзамен кодь да вайӧдны нямӧдлӧм. Восьса корӧмъяс, шуам «Висьтавӧй…» йылысь, сетӧны пырны сёрнитӧмӧ быдӧнлы, кытшӧмтор сійӧ казьтылӧ."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ме верма печатайтны картатӧ?",
+        "a": "Да. «Печатайтны став картаяссӧ» печатайтӧ став наборсӧ ыджыд шрифтӧн, кымынкӧ карта ӧти листбок вылын, дасьӧн вундны."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Сійӧ донмӧм-ӧ, и колӧ-ӧ регистрируйтчыны?",
+        "a": "Да, тайӧ донтӧм, да оз ков аккаунт, гижсьӧм либӧ мыйкӧ лэдзӧм. Браузерын уджалӧ телефонын, планшетын либӧ компьютерын."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Фото параяс",
+    "seoTitle": "Семьяса фотоясысь параяс корсян ворсӧм вӧчӧм",
+    "h1": "Фото параяс: пантав ассьыд снимкъястӧ",
+    "description": "Пӧртӧй ас семьяныдлысь фотояссӧ шоныд ӧткодь снимкъяс корсян ворсӧмӧ. Бӧрйӧй ассьыныд девайсысь 2-ысь 6-ӧдз фото; найӧ кольччӧны браузерад да некодлы оз мӧдӧдчыны.",
+    "short": "Бӧрйӧй ас фотояс да корсьӧй параяссӧ. Мыйкӧ мӧдӧдны оз ков.",
+    "players": "2 морт, ӧтвылысь пукалігӧн",
+    "intro": "Бӧрйӧй ас телефонысь, планшетысь либӧ компьютерысь кыкысь квайтӧдз фото, да найӧ лоасны ыджыд, бура тыдалысь снимкъяса ворсӧмӧн. Фотоясыс тыдалӧны сӧмын тайӧ листас. Найӧ некодлы оз мӧдӧдчыны, оз видзчыны да оз юксьыны, а лист боксӧ тупкӧм бӧрын бырӧны.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Тшыкӧдлӧй «Бӧрйыны фотояс» вылӧ да бӧрйӧй кыкысь квайтӧдз фото.",
+      "Быд фото тыдалӧ кыкысь. Тшыкӧдлӧй ӧти вылӧ, сэсся сылӧн пара вылӧ.",
+      "Сёрнитӧй быд аддзӧм фото йылысь.",
+      "Кор помаласныд, тупкӧй тайӧ лист боксӧ либӧ тшыкӧдлӧй «Вештыны фотояс» вылӧ. Мыйкӧ оз кольччы."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Бӧрйӧй лӧсьыд, бура тӧдса муслун сетісьторъяса бур снимкъяс: гортса пемӧс, сад, мелі места, кӧрзян лун.",
+      "Местаяса да эмторъяса снимкъяс вермасны лоны кокньыдджык чужӧмъясысь, да оз ков нимтыны йӧзтӧ, мый оз сьӧкмыдӧд мортсӧ.",
+      "Эн пуктӧй кулысь йӧзлысь снимкъяссӧ, кӧть эськӧ найӧ вермасны вайны сьӧкыд шог, кӧть тӧданныд, мый найӧ вайӧны сӧмын шоныдлун."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Мӧдӧдчӧны-ӧ менам фотояс кытчӧкӧ?",
+        "a": "Абу. Лист бокыс лыддьӧ бӧрйӧм фотояссӧ пыр ас браузерад да петкӧдлӧ экранад. Найӧ оз мӧдӧдчыны миян дорӧ либӧ кодкӧ мӧдлы, а кор тупканныд либӧ выльмӧданныд лист боксӧ, найӧ бырӧны."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Эм-ӧ кад видзан либӧ очкояс лыддян?",
+        "a": "Абу. Сэнi абу чассӧ видзан, очкояс лыддян либӧ воштысьӧм. Верманныд сувтны быд кадӧ, да шӧрас сувтӧмыс — тайӧ сідзжӧ бур помасьӧм."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Позьӧ-ӧ видзны ворсӧмсӧ мӧдпырысьлы?",
+        "a": "Браузерын тайӧ абу позьӧмӧн, медым абу видзсьӧма сы йылысь нимӧн торъя юӧр. iPhone да iPad вылӧ Golden Moments донтӧм приложение вермӧ видзны бӧрйӧм фотояссӧ ас девайсад."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Серпаса бинго",
+    "seoTitle": "Серпаса бинго деменцияӧн олысь пӧрысь йӧзлы: печать вылӧ лэдзан",
+    "h1": "Серпаса бинго чукӧрлы",
+    "description": "Донтӧм печать вылӧ лэдзан серпаса бинго тӧждысьӧм улын олысь пӧрысь йӧз чукӧръяслы, экранын ыджыд петкӧдчанкӧд. Кывъяса ыджыд серпасъяс, 9 либӧ 16 паськӧм, лыддьысьны оз ков.",
+    "short": "Печать вылӧ лэдзан карточкаяс да ыджыд экранын серпас петкӧдчан чукӧръяслы.",
+    "players": "2-ысь 30-ӧдз мортысь чукӧр",
+    "intro": "Классическӧй бинго, кӧні лыдпасъяс пыдди серпасъяс, медым некодлы эз ков лыддьыны ичӧтик гижӧд. Печатайтӧй торьясьысь карточкаяс, сэсся экранын петкӧдчан пыр мыччӧй быд серпассӧ ыджыда телевизор, ноутбук либӧ планшет вылын.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Бӧрйӧй быд карточка вылӧ 9 либӧ 16 паськӧм да мыйта лоӧ ворсысьыс.",
+      "Тшыкӧдлӧй «Печатайтны карточкаяс» вылӧ. Быд карточка лоӧ аслыспӧлӧс.",
+      "Восьтӧй петкӧдчансӧ ыджыд экран вылын. Тшыкӧдлӧй «Мӧд серпас» вылӧ, медым мыччыны быд серпас нимкӧд ӧтвылысь.",
+      "Ворсысьяс дзебӧны лӧсялана серпассӧ ас карточка выланыс монетаӧн, пуговицяӧн либӧ фишкаӧн.",
+      "Быд морт, кодi тыртас визь либӧ тыр карточка, шедӧдас аттьӧалӧм. Тайӧ ворсӧмын ворсысьяс абуӧсь воштысьяс: ворсӧй сідз, медым быд мортлӧн тырмис ӧти визь."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Вӧдитчӧй ыджыд фишкаясӧн, шуам, шашкаясӧн либӧ пробкаясӧн. Ичӧтик пуговицяяс вермасны лоны сьӧкыдӧсь босьтны кымӧрӧн.",
+      "Нимтӧй серпассӧ да висьталӧй сы йылысь мыйкӧ: «Паруса пыж. Кодi ветлӧма пыжӧн?»",
+      "Сьӧкыда аддзысь йӧзӧс пуксьӧдӧй экранлы матынджык, а отсасьысьясӧс пуксьӧдӧй на бокӧ, кодлы тайӧ колӧ.",
+      "9 паськӧм тырмӧ унджык чукӧрлы. Ворсӧмыс мед мунас 20-ысь 30 минутӧдз."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Кыдзи нуӧдны серпаса бинго видзан керкаын?",
+        "a": "Печатайтӧй быд ворсысьлы ӧти карточка, петкӧдчансӧ пуктӧй медыджыд экран вылӧ да дыр петкӧдлӧй серпасъяссӧ, быдӧнӧс шуалӧмӧн. Ворсӧй сэтчӧдз, кытчӧдз быдӧн оз тырт ӧти визь, медым некод эз кольччы бокын."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Печатайтӧмыс донтӧм-ӧ?",
+        "a": "Да. Печатайтӧй карточкаяссӧ мыйта колӧ да кор кӧсйыланныд, аслыныд либӧ чукӧрын ворсӧм понда."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Позьӧ-ӧ ворсны лыддьысьтӧг?",
+        "a": "Да. Быд паськӧм — тайӧ ыджыд серпас, а сы улӧ гижӧма ним на понда, кодлы кажитчӧ лыддьыны кывъяс."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Шойна ловзисьӧм",
+    "seoTitle": "Шойна ловзиялан шойччӧм пӧрысь йӧз да на йылысь тӧждысьысьяс понда",
+    "h1": "Шойна ловзиялан шойччӧм",
+    "description": "Дырджык, шойна ловзиялан шойччӧм ӧтвылысь: лӧсьыд гӧгрӧс быдмӧ да ичӧтмӧ квайт ловзиялӧм чӧж. Тi заводитчныд сійӧс да верманныд сувтӧдны быд кадӧ.",
+    "short": "Шойна гӧгрӧс, кодкӧд ӧтвылысь позьӧ ловзиялыны. Заводитӧй да сувтӧдӧй кор кӧсйӧныд.",
+    "players": "1 либӧ 2 морт",
+    "intro": "Коркӧ медбур вӧчӧмтор — тайӧ шойна шойччӧм. Тшыкӧдлӧй «Заводитны» вылӧ, сэсся ловзиялӧй пытшкӧ, кор гӧгрӧсыс быдмӧ, да петкӧдлӧй ловтӧ, кор сійӧ ичӧтмӧ. Бӧрйӧй дырджык либӧ кокньыдджык кад. Тайӧ абу емӧс, сӧмын лӧсьыд шойччӧм ӧтвылысь.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Пуксьӧй лӧсьыда ӧтвылысь.",
+      "Бӧрйӧй кад: дыр либӧ шойна.",
+      "Тшыкӧдлӧй «Заводитны» вылӧ. Ловзиялӧй пытшкӧ, кор гӧгрӧсыс быдмӧ, да петкӧдлӧй ловсӧ, кор сійӧ ичӧтмӧ.",
+      "Сійӧ ачыс сувтӧ квайт ловзиялӧм бӧрын, либӧ тшыкӧдлӧй «Сувтӧдны» вылӧ, кор кӧсйӧныд."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Кутӧй китӧ либӧ пуктӧй кинытӧ мортлӧн сойлӧ, кӧть сійӧ оз паныдась.",
+      "Эн косьтысьӧй. Кӧть найӧ кӧсйӧны сӧмын видзӧдлыны, тайӧ сідзжӧ бур.",
+      "Кӧть кодкӧ сьӧкыда ловзиялӧ, мед ловзиялас пырся моз да видзӧдлас гӧгрӧс вылӧ. Ловзиялӧм серти юалӧй дохтырлысь."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Тайӧ емӧс ловзиялан удж-ӧ?",
+        "a": "Абу. Тайӧ кокни, шойна шойччӧм ӧтвылысь кад колянас. Тайӧ абу повзӧмысь либӧ кутшӧмкӧ висьӧмысь емӧс. Дзоньвидзалун йылысь юалӧй дохтырлысь."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Гӧгрӧсыс кыссьӧ-ӧ ачыс, менам заводитӧмтӧг?",
+        "a": "Абу. «Start» личкӧдтӧдз некод оз вӧрзьӧд, сійӧ дугдӧ 6 ловшӧр бӧрын либӧ «Stop» личкӧдігӧн. Тіян устройствоын вӧрзьӧдӧм чинтӧм индӧма кӧ, кывъяс вежсьӧны, а гӧгрӧс оз ыдждӧ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Тайӧ донтӧм-ӧ, да колӧ-ӧ регистрируйтчыны?",
+        "a": "Да, тайӧ донтӧм, аккаунт, регистрация да скачайтӧм абу колӧ. Сійӧ уджалӧ телефон, планшет либӧ компьютерлысь веб-браузерын."
       }
     ]
   }

@@ -1,0 +1,789 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Skaityti balsu",
+      "stopReading": "Sustabdyti skaitymą",
+      "region": "Žaidimas",
+      "restart": "Pradėti iš naujo",
+      "soundOn": "Švelnūs garsai įjungti",
+      "soundOff": "Švelnūs garsai išjungti",
+      "done": "Šiam kartui baigta",
+      "feedbackQuestion": "Ar tai šiandien padėjo?",
+      "feedbackYes": "Taip",
+      "feedbackNo": "Nelabai",
+      "feedbackThanks": "Dėkojame, kad pasidalijote."
+    },
+    "tile": {
+      "named": "{name}, {n} kortelė",
+      "hidden": "Paslėptas paveikslėlis, {n} kortelė",
+      "withState": "{label}, {state}",
+      "matched": "Sutampa",
+      "selected": "Pasirinkta",
+      "picture": "Paveikslėlis",
+      "photoNumber": "{n} nuotrauka"
+    },
+    "pairs": {
+      "allTogether": "Visos poros sujungtos. Žaiskite dar kartą arba pailsėkite.",
+      "photoPair": "Nuotraukų pora kartu.",
+      "picturePair": "Abu paveikslėliai su {name|lower} kartu.",
+      "selected": "{name}. Dabar raskite porą.",
+      "mismatch": "Neskubėkite. Palieskite paveikslėlį ir tęskite.",
+      "mismatchNamed": "{a} ir {b}. Neskubėkite. Palieskite paveikslėlį ir tęskite."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Palieskite paveikslėlį, o tada antrą tokį patį.",
+      "guidanceHidden": "Palieskite dvi korteles, kad jas atverstumėte. Ieškokite dviejų vienodų.",
+      "restart": "Nauji paveikslėliai",
+      "sizeLegend": "Kiek kortelių",
+      "size": {
+        "one": "{n} kortelė",
+        "few": "{n} kortelės",
+        "many": "{n} kortelių",
+        "other": "{n} kortelės"
+      },
+      "viewLegend": "Kaip žaisti",
+      "viewShowing": "Paveikslėliai matomi",
+      "viewHidden": "Paslėpti paveikslėliai",
+      "playAgain": "Žaisti dar kartą su naujais paveikslėliais",
+      "talk": "Pasikalbėkite apie paveikslėlius kartu"
+    },
+    "choose": {
+      "countLegend": "Kiek paveikslėlių",
+      "count": "{n} pasirinkimui",
+      "thatOne": "Tai yra {name|lower}. Neskubėkite."
+    },
+    "findTheSame": {
+      "guidance": "Pažiūrėkite į viršuje esantį paveikslėlį. Apačioje palieskite tokį patį.",
+      "yes": "Taip, toks pat {name|lower}.",
+      "next": "Kitas paveikslėlis"
+    },
+    "shadowMatch": {
+      "guidance": "Pažiūrėkite į viršuje esantį šešėlį. Palieskite paveikslėlį, kuris jį meta.",
+      "yes": "Taip, šį šešėlį meta {name|lower}.",
+      "next": "Kitas šešėlis",
+      "shadowAlt": "Šešėlis, kuriam reikia rasti porą",
+      "foundAlt": "{name|lower} šešėlis"
+    },
+    "sortTogether": {
+      "guidance": "Palieskite paveikslėlį, o tada krepšelį, į kurį jis tinka.",
+      "restart": "Nauji paveikslėliai",
+      "themeLegend": "Tema",
+      "selected": "{name}. Dabar palieskite krepšelį, į kurį jis tinka.",
+      "pickFirst": "Pirmiausia palieskite paveikslėlį, o tada krepšelį.",
+      "hint": "{name|lower} galėtų tikti į krepšelį „{basket}“. Palieskite tą krepšelį, kad įdėtumėte.",
+      "placed": "{name|lower} įdėtas į krepšelį „{basket}“.",
+      "sorted": "Viskas surūšiuota. Peržiūrėkite krepšelius kartu arba išbandykite kitą temą.",
+      "basket": {
+        "one": "Krepšelis „{basket}“, viduje {count} paveikslėlis",
+        "few": "Krepšelis „{basket}“, viduje {count} paveikslėliai",
+        "many": "Krepšelis „{basket}“, viduje {count} paveikslėlių",
+        "other": "Krepšelis „{basket}“, viduje {count} paveikslėlio"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Palieskite vieną detalę, o tada kitą. Jos sukeis vietas.",
+      "restart": "Sumaišyti iš naujo",
+      "pictureLegend": "Paveikslėlis",
+      "pictures": {
+        "sailboat": "Burlaivis",
+        "house": "Namas",
+        "balloon": "Balionas",
+        "sunflower": "Saulėgrąža",
+        "lighthouse": "Švyturys",
+        "cat": "Katė"
+      },
+      "sizeLegend": "Detalės",
+      "size": {
+        "one": "{n} detalė",
+        "few": "{n} detalės",
+        "many": "{n} detalių",
+        "other": "{n} detalės"
+      },
+      "pickedUp": "Detalė paimta. Dabar palieskite vietą, kurioje ji turi būti.",
+      "whole": "{name|lower} vėl sudėtas. Kada norite, pasirinkite kitą paveikslėlį.",
+      "swapped": {
+        "one": "Sukeista vietomis. Savo vietoje yra {correct} iš {total} detalių.",
+        "few": "Sukeista vietomis. Savo vietoje yra {correct} iš {total} detalių.",
+        "many": "Sukeista vietomis. Savo vietoje yra {correct} iš {total} detalių.",
+        "other": "Sukeista vietomis. Savo vietoje yra {correct} iš {total} detalių."
+      },
+      "guideAlt": "Visas paveikslėlis: {name}",
+      "guideText": "Taip paveikslėlis atrodo sudėtas.",
+      "piece": "Detalė: {place}",
+      "pieceInPlace": ", savo vietoje",
+      "piecePickedUp": ", paimta",
+      "places4": [
+        "viršuje kairėje",
+        "viršuje dešinėje",
+        "apačioje kairėje",
+        "apačioje dešinėje"
+      ],
+      "places9": [
+        "viršuje kairėje",
+        "viršuje viduryje",
+        "viršuje dešinėje",
+        "viduryje kairėje",
+        "viduryje",
+        "viduryje dešinėje",
+        "apačioje kairėje",
+        "apačioje viduryje",
+        "apačioje dešinėje"
+      ],
+      "done": "Paveikslėlis vėl sudėtas. Žaiskite dar kartą arba pailsėkite.",
+      "playAgain": "Sumaišyti iš naujo"
+    },
+    "finishTheSaying": {
+      "guidance": "Perskaitykite posakį kartu, o tada palieskite žodį, kuris jį užbaigia.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Taip: „{start} {end}.“",
+      "otherEnding": "Tinka ir „{word}“. Įprastai posakis baigiasi taip: „{end}“.",
+      "revealed": "Posakis skamba taip: „{start} {end}.“",
+      "choicesLabel": "Pasirinkite paskutinį žodį",
+      "show": "Parodyti pabaigą",
+      "talk": "Pasikalbėkite apie tai: ",
+      "next": "Kitas posakis"
+    },
+    "wordSearch": {
+      "guidance": "Žodžiai eina horizontaliai arba vertikaliai. Palieskite pirmą žodžio raidę, o tada – paskutinę.",
+      "restart": "Naujas galvosūkis",
+      "themeLegend": "Tema",
+      "sizeLegend": "Tinklelio dydis",
+      "size": {
+        "one": "{n} × {n} ({words} žodis)",
+        "few": "{n} × {n} ({words} žodžiai)",
+        "many": "{n} × {n} ({words} žodžių)",
+        "other": "{n} × {n} ({words} žodžio)"
+      },
+      "print": "Spausdinti šį galvosūkį",
+      "letterChosen": "Pasirinkta raidė {letter}. Dabar palieskite paskutinę žodžio raidę.",
+      "found": "Rastas žodis {word}.",
+      "foundAll": "Rastas žodis {word}. Tai visi žodžiai. Žaiskite dar kartą arba pailsėkite.",
+      "tryAgain": "Neskubėkite. Palieskite pirmą žodžio raidę, o tada – paskutinę.",
+      "gridLabel": "Raidžių tinklelis: {n} eilučių po {n} raidžių. Rodyklių klavišais judėkite tarp raidžių.",
+      "cell": "{letter}, {row} eilutė, {col} stulpelis",
+      "cellFound": ", dalis rasto žodžio",
+      "wordsHeading": "Ieškomi žodžiai",
+      "wordFound": " (rasta)",
+      "sheetTitle": "Žodžių paieška: {theme}",
+      "sheetNote": "Žodžiai eina horizontaliai arba vertikaliai.",
+      "unavailable": "Raidžių tinklelis netinka šiai kalbai, todėl žodžių paieškos čia nėra. Išbandykite paveikslėlių žaidimus."
+    },
+    "coloring": {
+      "guidance": "Palieskite spalvą, o tada – paveikslėlio dalį.",
+      "restart": "Išvalyti spalvas",
+      "cleared": "Lapas vėl tuščias.",
+      "pageLegend": "Puslapis",
+      "print": "Spausdinti šį puslapį",
+      "colorsLabel": "Spalvos",
+      "paintChosen": "Pasirinkta spalva: {paint}.",
+      "painted": "{part} dabar nuspalvinta ({paint|lower}).",
+      "artLabel": "{page}, dalių nuspalvinti: {count}",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, nenuspalvinta",
+      "paints": {
+        "red": "Raudona",
+        "orange": "Oranžinė",
+        "yellow": "Geltona",
+        "green": "Žalia",
+        "blue": "Mėlyna",
+        "purple": "Violetinė",
+        "pink": "Rausva",
+        "brown": "Ruda",
+        "sky-blue": "Žydra",
+        "cream": "Kreminė",
+        "gray": "Pilka",
+        "white": "Balta"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Garsiai perskaitykite kortelę. Neteisingų atsakymų nėra.",
+      "position": "{n} kortelė iš {total}",
+      "themeLegend": "Tema",
+      "next": "Kita kortelė",
+      "previous": "Ankstesnė kortelė",
+      "print": "Spausdinti visas korteles",
+      "sheetTitle": "Pokalbių kortelės"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Pirmiausia pasirinkite savo nuotraukas.",
+      "guidance": "Palieskite nuotrauką, o tada antrą tokią pačią.",
+      "restart": "Sumaišyti iš naujo",
+      "intro": "**Pasirinkite nuo 2 iki 6 nuotraukų** iš šio įrenginio. Jos rodomos tik šiame puslapyje, niekur neįkeliamos ir neišsaugomos.",
+      "choose": "Pasirinkti nuotraukas",
+      "chooseDifferent": "Pasirinkti kitas nuotraukas",
+      "clear": "Pašalinti nuotraukas",
+      "cleared": "Nuotraukos pašalintos iš šio puslapio.",
+      "atLeastTwo": "Prašome pasirinkti bent dvi nuotraukas.",
+      "usingFirst": "Naudojamos pirmosios {max} nuotraukų.",
+      "skipped": {
+        "one": "{count} failas nebuvo nuotrauka, kurią galėtume parodyti.",
+        "few": "{count} failai nebuvo nuotraukos, kurias galėtume parodyti.",
+        "many": "{count} failų nebuvo nuotraukos, kurias galėtume parodyti.",
+        "other": "{count} failo nebuvo nuotrauka, kurią galėtume parodyti."
+      },
+      "playAgain": "Žaisti dar kartą su šiomis nuotraukomis",
+      "empty": "Jūsų nuotraukos pasirodys čia, kiekviena po du kartus."
+    },
+    "pictureBingo": {
+      "guidance": "Pirmiausia atspausdinkite korteles. Tada atidarykite šį vedėjo langą didžiausiame turimame ekrane.",
+      "called": {
+        "one": "{name}. Paskelbtas {called} iš {total} paveikslėlių.",
+        "few": "{name}. Paskelbti {called} iš {total} paveikslėlių.",
+        "many": "{name}. Paskelbta {called} iš {total} paveikslėlių.",
+        "other": "{name}. Paskelbta {called} iš {total} paveikslėlių."
+      },
+      "start": "Palieskite „Kitas paveikslėlis“, kad paskelbtumėte pirmąjį paveikslėlį.",
+      "restart": "Pradėti naują žaidimą",
+      "squaresLegend": "Langelių skaičius kortelėje",
+      "squares": "{n} langelių ({side} × {side})",
+      "cardsLegend": "Kiek kortelių spausdinti",
+      "cards": {
+        "one": "{n} kortelė",
+        "few": "{n} kortelės",
+        "many": "{n} kortelių",
+        "other": "{n} kortelės"
+      },
+      "print": {
+        "one": "Spausdinti {n} bingo kortelę",
+        "few": "Spausdinti {n} bingo korteles",
+        "many": "Spausdinti {n} bingo kortelių",
+        "other": "Spausdinti {n} bingo kortelių"
+      },
+      "ready": "Galite pradėti, kai tik būsite pasiruošę",
+      "next": "Kitas paveikslėlis",
+      "allCalled": "Visi paveikslėliai paskelbti",
+      "alreadyCalled": "Jau paskelbta",
+      "sheetTitle": "Paveikslėlių bingo · {n} kortelė"
+    },
+    "calmBreathing": {
+      "guidance": "Įkvėpkite, kai apskritimas didėja, ir iškvėpkite, kai mažėja. Po šešių įkvėpimų jis sustos pats.",
+      "paceLegend": "Tempas",
+      "paceSlow": "Lėtas (po 5 sekundes)",
+      "paceGentle": "Švelnus (po 4 sekundes)",
+      "ready": "Pradėkite, kai būsite pasiruošę",
+      "in": "Įkvėpkite",
+      "hold": "Pailsėkite",
+      "out": "Iškvėpkite",
+      "start": "Pradėti",
+      "stop": "Sustabdyti",
+      "started": "Pradėta. Įkvėpkite, kai apskritimas didėja.",
+      "stopped": "Sustabdyta.",
+      "finished": "Tai buvo šeši lėti įkvėpimai. Pradėkite iš naujo, kada tik norite."
+    }
+  },
+  "pictures": {
+    "teacup": "Arbatos puodelis",
+    "kettle": "Virdulys",
+    "bread": "Duonos kepalas",
+    "frying-pan": "Keptuvė su kiaušiniu",
+    "cake": "Gimtadienio tortas",
+    "sunflower": "Saulėgrąža",
+    "tulip": "Raudona tulpė",
+    "watering-can": "Laistytuvas",
+    "potted-plant": "Augalas vazone",
+    "tree": "Medis",
+    "bird": "Paukštis ant šakos",
+    "butterfly": "Drugelis",
+    "dog": "Šuo",
+    "cat": "Katė",
+    "fish": "Auksinė žuvelė",
+    "apple": "Raudonas obuolys",
+    "pear": "Kriaušė",
+    "strawberry": "Braškė",
+    "banana": "Bananas",
+    "lemon": "Citrina",
+    "cherries": "Vyšnios",
+    "house": "Namas",
+    "lamp": "Stalinė lempa",
+    "armchair": "Fotelis",
+    "key": "Senovinis raktas",
+    "umbrella": "Skėtis",
+    "sailboat": "Burlaivis",
+    "car": "Senovinis automobilis",
+    "bicycle": "Dviratis",
+    "balloon": "Oro balionas",
+    "lighthouse": "Švyturys",
+    "sun": "Saulė",
+    "moon": "Mėnulis ir žvaigždės",
+    "teapot": "Arbatnukis",
+    "apple-pie": "Obuolių pyragas",
+    "honey-jar": "Medaus stiklainis",
+    "boiled-egg": "Kiaušinis dėkle",
+    "toaster": "Skrudintuvas",
+    "cheese": "Sūrio gabalėlis",
+    "milk-jug": "Pieno ąsotėlis",
+    "cupcake": "Keksiukas",
+    "orange": "Apelsinas",
+    "grapes": "Vynuogių kekė",
+    "watermelon": "Arbūzo riekė",
+    "pineapple": "Ananasas",
+    "peach": "Persikas",
+    "rose": "Rožė",
+    "daisies": "Saulutės",
+    "mushroom": "Grybas",
+    "wheelbarrow": "Karutis",
+    "birdhouse": "Inkilas",
+    "cactus": "Kaktusas vazone",
+    "acorn": "Gilė",
+    "autumn-leaf": "Rudens lapas",
+    "rabbit": "Triušis",
+    "duck": "Antis",
+    "hen": "Višta",
+    "sheep": "Avis",
+    "owl": "Pelėda",
+    "ladybird": "Boružė",
+    "snail": "Sraigė",
+    "frog": "Varlė",
+    "bee": "Bitė",
+    "clock": "Stalinis laikrodis",
+    "vase-of-flowers": "Vaza su gėlėmis",
+    "radio": "Senas radijas",
+    "books": "Knygų krūva",
+    "candle": "Žvakė",
+    "glasses": "Akiniai skaitymui",
+    "telephone": "Telefonas",
+    "ball-of-wool": "Siūlų kamuolys",
+    "straw-hat": "Skrybėlė nuo saulės",
+    "train": "Garinis traukinys",
+    "bus": "Autobusas",
+    "airplane": "Lėktuvas",
+    "suitcase": "Lagaminas",
+    "tractor": "Traktorius",
+    "rowing-boat": "Valtis su irklais",
+    "rainbow": "Vaivorykštė",
+    "rain-cloud": "Lietaus debesis",
+    "snowflake": "Snaigė",
+    "kite": "Aitvaras",
+    "sunrise": "Saulėtekis virš kalvų"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEIKLMNOPRSTUVZŽ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Vaisiai",
+          "words": [
+            "SLYVA",
+            "BRAŠKĖ",
+            "AVIETĖ",
+            "VYŠNIA",
+            "FIGA",
+            "KIVIS",
+            "LAIMAS",
+            "DATULĖ",
+            "MANGAS"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Sodas",
+          "words": [
+            "ROŽĖ",
+            "TULPĖ",
+            "SĖKLA",
+            "ŽEMĖ",
+            "LAPAS",
+            "MEDIS",
+            "ŽOLĖ",
+            "KŪDRA",
+            "BITĖ"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Virtuvė",
+          "words": [
+            "DUONA",
+            "PEILIS",
+            "ŠAKUTĖ",
+            "LĖKŠTĖ",
+            "DUBUO",
+            "PUODAS",
+            "ARBATA",
+            "KAVA",
+            "DRUSKA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Orai",
+          "words": [
+            "SAULĖ",
+            "LIETUS",
+            "VĖJAS",
+            "RŪKAS",
+            "AUDRA",
+            "PŪGA",
+            "ŠALNA",
+            "ŠILUMA",
+            "ŽAIBAS"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Gyvūnai",
+          "words": [
+            "ŠUO",
+            "KATĖ",
+            "ŽUVIS",
+            "ARKLYS",
+            "KARVĖ",
+            "VIŠTA",
+            "ANTIS",
+            "OŽKA",
+            "LAPĖ"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Namai",
+          "words": [
+            "DURYS",
+            "LOVA",
+            "KĖDĖ",
+            "STALAS",
+            "LEMPA",
+            "RAKTAS",
+            "LANGAS",
+            "SIENA",
+            "SOFA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Visos kortelės",
+        "food": "Maistas",
+        "home": "Namai",
+        "outdoors": "Gamta",
+        "animals": "Gyvūnai",
+        "travel": "Kelionės",
+        "work": "Darbas ir pomėgiai",
+        "music": "Muzika ir pramogos",
+        "seasons": "Metų laikai"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Koks virtuvės kvapas jums maloniausias?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kokį tortą pasirinktumėte šventei?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Papasakokite apie savo mėgstamiausią pyragą ar desertą."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kaip labiausiai mėgstate gerti arbatą ar kavą?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Kas jums yra patys geriausi pusryčiai?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ar esate skynę uogų tiesiai nuo krūmo?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Kas jums labiau patinka: saldu ar rūgštu?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Koks skonis jums labiausiai primena vasarą?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Papasakokite apie namus, kuriuose jums patiko gyventi."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Kur jums labiausiai patinka prisėsti ir pailsėti?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ką mėgstate veikti ramų vakarą?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Kokią brangenybę laikytumėte ypatingoje dėžutėje?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ką pakviestumėte į svečius puodeliui arbatos?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ką labiausiai mėgstate veikti lietingą dieną?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kokių gėlių pasisodintumėte savo gėlyne?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Papasakokite apie medį ar parką, kuris jums patinka."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kas jums maloniausia būnant sode?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kokios spalvos gėlės jums gražiausios?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ar jums patinka, kai namuose žaliuoja augalai?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kokia būtų jūsų tobula saulėta diena?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Papasakokite apie šunį, kurį esate pažinoję."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katės ar šunys, o gal nei vieni? Kuo jie jums patinka?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Kokius paukščius matote ar girdite lauke?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ar esate žvejoję, o gal auginę žuvytes akvariume?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Koks gražiausias gyvūnas, kurį esate matę?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Papasakokite apie automobilį, kuris jums patiko."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Kur mieliau praleistumėte dieną: prie jūros ar kalnuose?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Kur norėtumėte pasivažinėti?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Jei galėtumėte praskristi virš bet kurios vietos, kas tai būtų?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Papasakokite apie kelionę, kuri jums paliko gerų įspūdžių."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Koks darbas jums teikė daugiausia džiaugsmo?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Koks yra tas pomėgis, kuriam galėtumėte skirti ištisas valandas?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Papasakokite, ką labiausiai mėgote gaminti ar taisyti."
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ką patartumėte jaunam žmogui, pradedančiam dirbti?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Pagal kokią muziką jums norisi judėti į taktą?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Kas sukuria tikrai gerą šventę?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kokio dainininko ar dainininkės mėgstate klausytis?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Kokį filmą ar laidą mielai pažiūrėtumėte dar kartą?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Kas jums labiausiai patinka vasarą?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kuo jus džiugina ruduo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ką jaukaus mėgstate veikti žiemos vakarą?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Kokie pirmieji pavasario ženklai jus labiausiai džiugina?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Sniegas, lietus ar saulė – kas jums labiausiai prie širdies?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Gėlė vazone",
+          "regions": {
+            "sky": "Fonas",
+            "table": "Stalas",
+            "stem": "Stiebas",
+            "leaf-left": "Kairysis lapas",
+            "leaf-right": "Dešinysis lapas",
+            "petal-1": "Žiedlapis 1",
+            "petal-2": "Žiedlapis 2",
+            "petal-3": "Žiedlapis 3",
+            "petal-4": "Žiedlapis 4",
+            "petal-5": "Žiedlapis 5",
+            "petal-6": "Žiedlapis 6",
+            "petal-7": "Žiedlapis 7",
+            "petal-8": "Žiedlapis 8",
+            "center": "Žiedo vidurys",
+            "pot": "Vazonas",
+            "pot-rim": "Vazono kraštas"
+          }
+        },
+        "house": {
+          "name": "Namas",
+          "regions": {
+            "sky": "Dangus",
+            "sun": "Saulė",
+            "grass": "Žolė",
+            "chimney": "Kaminas",
+            "walls": "Sienos",
+            "roof": "Stogas",
+            "door": "Durys",
+            "window-left": "Kairysis langas",
+            "window-right": "Dešinysis langas",
+            "path": "Takelis"
+          }
+        },
+        "teacup": {
+          "name": "Arbatos puodelis",
+          "regions": {
+            "background": "Fonas",
+            "saucer": "Lėkštutė",
+            "handle": "Aselė",
+            "cup": "Puodelis",
+            "band": "Juostelė ant puodelio",
+            "tea": "Arbata"
+          }
+        },
+        "butterfly": {
+          "name": "Drugelis",
+          "regions": {
+            "background": "Fonas",
+            "wing-top-left": "Viršutinis kairysis sparnas",
+            "wing-top-right": "Viršutinis dešinysis sparnas",
+            "wing-bottom-left": "Apatinis kairysis sparnas",
+            "wing-bottom-right": "Apatinis dešinysis sparnas",
+            "spot-left": "Kairiojo sparno dėmelė",
+            "spot-right": "Dešiniojo sparno dėmelė",
+            "body": "Kūnelis"
+          }
+        },
+        "sailboat": {
+          "name": "Burlaivis",
+          "regions": {
+            "sky": "Dangus",
+            "sea": "Jūra",
+            "sail-big": "Didžioji burė",
+            "sail-small": "Mažoji burė",
+            "mast": "Stiebas",
+            "hull": "Valtis",
+            "flag": "Vėliavėlė"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Virtuvė ir sodas",
+          "baskets": [
+            "Virtuvėje",
+            "Sode"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Vaisiai ir gyvūnai",
+          "baskets": [
+            "Vaisiai",
+            "Gyvūnai"
+          ]
+        },
+        "home-travel": {
+          "label": "Namai ir kelionės",
+          "baskets": [
+            "Namuose",
+            "Išvykoje"
+          ]
+        }
+      }
+    }
+  }
+}

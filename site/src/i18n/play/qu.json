@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Rimarispa ñawinchay",
+      "stopReading": "Ñawinchayta sayachiy",
+      "region": "Pukllay",
+      "restart": "Kaqmanta qallariy",
+      "soundOn": "Llampu ruqyay kacharisqa",
+      "soundOff": "Llampu ruqyay wañuchisqa",
+      "done": "Kunanpaqqa kaykamalla",
+      "feedbackQuestion": "¿Kunan p'unchaw kay yanapasunkichu?",
+      "feedbackYes": "Arí",
+      "feedbackNo": "Mana anchatachu",
+      "feedbackThanks": "Añay willawasqaykumanta."
+    },
+    "tile": {
+      "named": "{name}, {n} kaq lasqa",
+      "hidden": "Pakasqa rikch'ay, {n} kaq lasqa",
+      "withState": "{label}, {state}",
+      "matched": "Tinkisqa",
+      "selected": "Akllasqa",
+      "picture": "Rikch'ay",
+      "photoNumber": "{n} kaq fotu"
+    },
+    "pairs": {
+      "allTogether": "Tukuy yanantin huñusqaña. Kaqmanta pukllay icha samariy.",
+      "photoPair": "Huk yanantin fotukuna, huñusqa.",
+      "picturePair": "Iskay {name|lower} rikch'aykuna, huñusqa.",
+      "selected": "{name}. Kunanqa yanantinta tariy.",
+      "mismatch": "Allillamanta. Huk rikch'ayta llamiy hinalla katinaykipaq.",
+      "mismatchNamed": "{a} hinallataq {b}. Allillamanta. Huk rikch'ayta llamiy hinalla katinaykipaq."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Huk rikch'ayta llamiy, chaymanta yanantinta llamiy.",
+      "guidanceHidden": "Iskay lasqakunata llamiy t'ikranapaq. Iskay kaqllata maskhay.",
+      "restart": "Musuq rikch'aykuna",
+      "sizeLegend": "Hayk'a lasqakuna",
+      "size": {
+        "one": "{n} lasqa",
+        "other": "{n} lasqakuna"
+      },
+      "viewLegend": "Imayna pukllana",
+      "viewShowing": "Rikukuq rikch'aykuna",
+      "viewHidden": "Pakasqa rikch'aykuna",
+      "playAgain": "Musuq rikch'aykunawan kaqmanta pukllay",
+      "talk": "Kuska rikch'aykunamanta rimariy"
+    },
+    "choose": {
+      "countLegend": "Hayk'a rikch'aykuna",
+      "count": "{n} akllanapaq",
+      "thatOne": "Chaymi {name|lower}. Allillamanta."
+    },
+    "findTheSame": {
+      "guidance": "Hawa kaq rikch'ayta qhaway. Urapi kaqlla kaqta llamiy.",
+      "yes": "Arí, kaqlla {name|lower}.",
+      "next": "Qatiq rikch'ay"
+    },
+    "shadowMatch": {
+      "guidance": "Hawa kaq llanthuta qhaway. Chay llanthuta ruwaq rikch'ayta llamiy.",
+      "yes": "Arí, {name|lower} chay llanthuta ruwan.",
+      "next": "Qatiq llanthu",
+      "shadowAlt": "Tinkuchinapaq llanthu",
+      "foundAlt": "{name|lower} llanthun"
+    },
+    "sortTogether": {
+      "guidance": "Huk rikch'ayta llamiy, chaymanta mayman yaykunan canastata llamiy.",
+      "restart": "Musuq rikch'aykuna",
+      "themeLegend": "Yuyay",
+      "selected": "{name}. Kunanqa mayman yaykunan canastata llamiy.",
+      "pickFirst": "Ñawpaqta huk rikch'ayta llamiy, chaymanta huk canastata llamiy.",
+      "hint": "{name|lower} nisqaqa \"{basket}\" canastaman yaykunman. Chay canastata llamiy chaypi churanaykipaq.",
+      "placed": "{name|lower} nisqaqa \"{basket}\" canastapiña kachkan.",
+      "sorted": "Tukuymi allichasqaña. Kuska canastakunata qhawariy, icha huk temata pukllariy.",
+      "basket": {
+        "one": "\"{basket}\" canasta, {count} rikch'ay ukunpi",
+        "other": "\"{basket}\" canasta, {count} rikch'aykuna ukunpi"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Huk ch'iqata llamiy, chaymanta huk kaqta llamiy. Tiyanankuta t'ikranakunku.",
+      "restart": "Kaqmanta chaqruy",
+      "pictureLegend": "Rikch'ay",
+      "pictures": {
+        "sailboat": "Wayra wampu",
+        "house": "Wasi",
+        "balloon": "Pukuchu",
+        "sunflower": "Inti t'ika",
+        "lighthouse": "K'anchana wasi",
+        "cat": "Misi"
+      },
+      "sizeLegend": "Ch'iqakuna",
+      "size": {
+        "one": "{n} ch'iqa",
+        "other": "{n} ch'iqakuna"
+      },
+      "pickedUp": "Ch'iqa uqarisqaña. Kunanqa mayman rinanta llamiy.",
+      "whole": "{name|lower}qa hunt'asqañam kachkan. Munaspaykiqa huk rikch'ayta akllakuy.",
+      "swapped": {
+        "one": "T'ikrasqaña. {total} ch'iqamanta {correct} kitiyllanpi kachkan.",
+        "other": "T'ikrasqaña. {total} ch'iqamanta {correct} kitiyllanpi kachkanku."
+      },
+      "guideAlt": "Hunt'asqa rikch'ay: {name}",
+      "guideText": "Kayhinatam hunt'asqa kaspa rikch'ayqa qhawarikun.",
+      "piece": "{place} kaq ch'iqa",
+      "pieceInPlace": ", kitiyllanpi",
+      "piecePickedUp": ", uqarisqa",
+      "places4": [
+        "hawa lluq'i",
+        "hawa paña",
+        "ura lluq'i",
+        "ura paña"
+      ],
+      "places9": [
+        "hawa lluq'i",
+        "hawa chawpi",
+        "hawa paña",
+        "chawpi lluq'i",
+        "chawpi",
+        "chawpi paña",
+        "ura lluq'i",
+        "ura chawpi",
+        "ura paña"
+      ],
+      "done": "Rikch'ayqa hunt'asqañam kachkan. Kaqmanta pukllay icha samariy.",
+      "playAgain": "Kaqmanta chaqruy"
+    },
+    "finishTheSaying": {
+      "guidance": "Kuska kay yachay rimayta ñawinchaychik, chaymanta tukukuq simita llamiy.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Arí, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" nisqapas allillantaqmi. Ichaqa kay rimayqa \"{end}\" nisqawanmi tukukun.",
+      "revealed": "Rimayqa kaymi: \"{start} {end}.\"",
+      "choicesLabel": "Tukukuq simita akllay",
+      "show": "Tukukuyninta qhawachiy",
+      "talk": "Kaymanta rimariy: ",
+      "next": "Qatiq rimay"
+    },
+    "wordSearch": {
+      "guidance": "Simikunaqa kinrayman uraymanpas purinku. Simip qallariq sanampanta llamiy, chaymanta tukukuq sanampanta llamiy.",
+      "restart": "Musuq pukllana",
+      "themeLegend": "Yuyay",
+      "sizeLegend": "Kancha sayaynin",
+      "size": {
+        "one": "{n} x {n} ({words} simi)",
+        "other": "{n} x {n} ({words} simikuna)"
+      },
+      "print": "Kay pukllanata ch'ipichiy",
+      "letterChosen": "{letter} sanampa akllasqaña. Kunanqa simip tukukuq sanampanta llamiy.",
+      "found": "{word} tarisqaña.",
+      "foundAll": "{word} tarisqaña. Llapallan simikunata tarinkiña. Kaqmanta pukllay icha samariy.",
+      "tryAgain": "Allillamanta. Simip qallariq sanampanta llamiy, chaymanta tukukuq sanampanta llamiy.",
+      "gridLabel": "Sanampakunap kankan, {n} wachu {n} sanampakunawan. Wachi ñit'inakunawan sanampakunapi puriy.",
+      "cell": "{letter}, {row} kaq wachu, {col} kaq saywa",
+      "cellFound": ", tarisqa simip ch'iqan",
+      "wordsHeading": "Maskhana simikuna",
+      "wordFound": " (tarisqa)",
+      "sheetTitle": "Simi maskhana: {theme}",
+      "sheetNote": "Simikunaqa kinrayman uraymanpas rinkum.",
+      "unavailable": "Kay simipaqqa sanampakunap kankan mana allinchu t'uqyan, chaymi kaypi mana simi maskhana kanchu. Rikch'ay pukllanakunata pukllariy."
+    },
+    "coloring": {
+      "guidance": "Huk llimp'ita llamiy, chaymanta rikch'aypa huk ch'iqanta llamiy.",
+      "restart": "Llimp'ikunata pichay",
+      "cleared": "Pankaqa kaqmanta ch'usaqllaña kachkan.",
+      "pageLegend": "Panka",
+      "print": "Kay pankata ch'ipichiy",
+      "colorsLabel": "Llimp'ikuna",
+      "paintChosen": "{paint} llimp'i akllasqaña.",
+      "painted": "{part}qa kunan {paint|lower} llimp'iyuqñam.",
+      "artLabel": "{page}, {count} ch'iqakuna llimp'inapaq",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, mana llimp'isqa",
+      "paints": {
+        "red": "Puka",
+        "orange": "Laranqa",
+        "yellow": "Q'illu",
+        "green": "Q'umir",
+        "blue": "Anqas",
+        "purple": "Kulli",
+        "pink": "Llullu puka",
+        "brown": "Ch'umpi",
+        "sky-blue": "Hanaqpacha anqas",
+        "cream": "Yuraq q'illu",
+        "gray": "Uqi",
+        "white": "Yuraq"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Tarhitata kunkawan ñawinchay. Manam huklla allin kutichiypas kanchu.",
+      "position": "{total} tarhitamanta {n} kaq",
+      "themeLegend": "Yuyay",
+      "next": "Qatiq tarhita",
+      "previous": "Ñawpaq tarhita",
+      "print": "Llapan tarhitakunata ch'ipichiy",
+      "sheetTitle": "Rimanakuna tarhitakuna"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Fotuykikunata akllaspa qallariy.",
+      "guidance": "Huk fotuta llamiy, chaymanta yanantinta llamiy.",
+      "restart": "Kaqmanta chaqruy",
+      "intro": "**Iskaymanta suqtakama fotukunata akllay** kay llamk'anallaykimanta. Kay pankallapim rikukunqaku, manapuni maymanpas apachisqachu nitaq waqaychasqachu kanqaku.",
+      "choose": "Fotukunata akllay",
+      "chooseDifferent": "Huk fotukunata akllay",
+      "clear": "Fotukunata pichay",
+      "cleared": "Fotukunaqa kay pankamanta pichasqañam.",
+      "atLeastTwo": "Ama hina kaspa, iskay fotutapas akllariy.",
+      "usingFirst": "Ñawpaq {max} fotukunallatam llamk'achisunchik.",
+      "skipped": {
+        "one": "{count} willañiqiqa manam rikuchinapaq hinachu fotu kasqa.",
+        "other": "{count} willañiqikunaqa manam rikuchinapaq hinachu fotu kasqaku."
+      },
+      "playAgain": "Kay fotukunawan kaqmanta pukllay",
+      "empty": "Fotuykikunaqa kaypim rikurimunqa, sapa huk iskay kuti."
+    },
+    "pictureBingo": {
+      "guidance": "Ñawpaqta tarhitakunata ch'ipichiy. Chaymanta kay waqyaqta aswan hatun pantallaykipi qhawachiy.",
+      "called": {
+        "one": "{name}. {total} rikch'aymanta {called} kaq rikch'ay waqyasqaña.",
+        "other": "{name}. {total} rikch'aykunamanta {called} rikch'aykuna waqyasqaña."
+      },
+      "start": "Tap \"Next picture\" nisqata llamiy ñawpaq kaq rikch'ayta waqyanapaq.",
+      "restart": "Musuq pukllayta qallariy",
+      "squaresLegend": "Sapa tarhitapi k'itichakuna",
+      "squares": "{n} k'itichakuna ({side} x {side})",
+      "cardsLegend": "Hayk'a tarhitakuna ch'ipichinapaq",
+      "cards": {
+        "one": "{n} tarhita",
+        "other": "{n} tarhitakuna"
+      },
+      "print": {
+        "one": "{n} bingo tarhitata ch'ipichiy",
+        "other": "{n} bingo tarhitakunata ch'ipichiy"
+      },
+      "ready": "Wakichisqañam kachkan munaspaykiqa",
+      "next": "Qatiq rikch'ay",
+      "allCalled": "Llapan rikch'aykunaqa waqyasqañam",
+      "alreadyCalled": "Waqyasqaña",
+      "sheetTitle": "Rikch'ay bingo · {n} kaq tarhita"
+    },
+    "calmBreathing": {
+      "guidance": "Muyu hatunyaptin samayta aysay, huch'uyyaptintaq samayta kachariy. Suqta kutita samaptiykiqa kikinmi sayanqa.",
+      "paceLegend": "Samaypa utqaynin",
+      "paceSlow": "Allillamanta (phishqa sikuntu aysaspa kacharispa)",
+      "paceGentle": "Llamp'ullamanta (tawa sikuntu aysaspa kacharispa)",
+      "ready": "Wakichisqaña munaptiykiqa",
+      "in": "Samayta aysay",
+      "hold": "Samarillay",
+      "out": "Samayta kachariy",
+      "start": "Qallariy",
+      "stop": "Sayachiy",
+      "started": "Qallarinñam. Muyu hatunyaptin samayta aysay.",
+      "stopped": "Sayachisqañam.",
+      "finished": "Chayqa suqta allillamanta samaykunam karqan. Munaspaykiqa kaqmanta qallariwaqmi."
+    }
+  },
+  "pictures": {
+    "teacup": "Tasa tiyapaq",
+    "kettle": "Pukpuchina tetera",
+    "bread": "Tanta",
+    "frying-pan": "Sartin runtuyuq",
+    "cake": "Torta raymipaq",
+    "sunflower": "Inti wayta",
+    "tulip": "Tulipan puka",
+    "watering-can": "Qarpana",
+    "potted-plant": "Yura makitapi",
+    "tree": "Sacha",
+    "bird": "Pisqu k'allmapi",
+    "butterfly": "Pillpintu",
+    "dog": "Allqu",
+    "cat": "Misi",
+    "fish": "Challwa quri llimphi",
+    "apple": "Mansa puka",
+    "pear": "Pera",
+    "strawberry": "Fresa",
+    "banana": "Platano",
+    "lemon": "Limun",
+    "cherries": "Sirwisakuna",
+    "house": "Wasi",
+    "lamp": "Kanchana hampapi",
+    "armchair": "Tiyana llamp'u",
+    "key": "Llave mawka",
+    "umbrella": "Para hark'ana",
+    "sailboat": "Wamp'u wayrawaq",
+    "car": "Awtumuwil mawka",
+    "bicycle": "Bikliklita",
+    "balloon": "Balun wayrawan",
+    "lighthouse": "Faro kanchaq",
+    "sun": "Inti",
+    "moon": "Killa ch'askakunawan",
+    "teapot": "Tetera",
+    "apple-pie": "Pastel mansayuq",
+    "honey-jar": "Misk'i putu",
+    "boiled-egg": "Runtu qirupi",
+    "toaster": "Tanta kankana",
+    "cheese": "Qisu k'ata",
+    "milk-jug": "Leche wirqi",
+    "cupcake": "Torta huch'uy",
+    "orange": "Naranha",
+    "grapes": "Uwas k'umpa",
+    "watermelon": "Sandiya k'ata",
+    "pineapple": "Piña",
+    "peach": "Durasnu",
+    "rose": "Rosas wayta",
+    "daisies": "Margarita waytakuna",
+    "mushroom": "K'allampa",
+    "wheelbarrow": "Karitilla",
+    "birdhouse": "Pisqu wasicha",
+    "cactus": "Kaktus makitapi",
+    "acorn": "Ruru k'ullu",
+    "autumn-leaf": "Raphi ch'aki",
+    "rabbit": "Kunu",
+    "duck": "Patu",
+    "hen": "Wallpa",
+    "sheep": "Uwiha",
+    "owl": "Tuku",
+    "ladybird": "Mariquita",
+    "snail": "Ch'uru",
+    "frog": "K'ayra",
+    "bee": "Lachiwa",
+    "clock": "Reloj pirqapaq",
+    "vase-of-flowers": "Waytayuq p'ukpu",
+    "radio": "Radio mawka",
+    "books": "Liwrukuna tawqa",
+    "candle": "Candela",
+    "glasses": "Lentes nawipaq",
+    "telephone": "Telefono",
+    "ball-of-wool": "Millma kurur",
+    "straw-hat": "Chuku intipaq",
+    "train": "Tren q'usñi",
+    "bus": "Omnibus",
+    "airplane": "Antanka",
+    "suitcase": "Maleta",
+    "tractor": "Tractor chakarapaq",
+    "rowing-boat": "Wamp'u kawituyuq",
+    "rainbow": "K'uychi",
+    "rain-cloud": "Para phuyu",
+    "snowflake": "Riti ch'aska",
+    "kite": "Kometa",
+    "sunrise": "Inti lloqsimuy urqukunamanta"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ACHIKLMNPQRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Rurukuna",
+          "words": [
+            "TUNA",
+            "PERA",
+            "MANSA",
+            "LIMUN",
+            "UWAS",
+            "DURAS",
+            "LIMA",
+            "PAKAY",
+            "RURU"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Muya",
+          "words": [
+            "ROSAS",
+            "TIKA",
+            "MUHU",
+            "ALLPA",
+            "RAPHI",
+            "SACHA",
+            "WAYTA",
+            "QUCHA",
+            "YURA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Yanuna wasi",
+          "words": [
+            "QIRU",
+            "WISLLA",
+            "TANTA",
+            "MANKA",
+            "PUKU",
+            "CHUWA",
+            "TIYA",
+            "TULLPA",
+            "WIRA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Pachap kaynin",
+          "words": [
+            "INTI",
+            "PARA",
+            "RITI",
+            "WAYRA",
+            "PHUYU",
+            "CHIRI",
+            "RUPHAY",
+            "CHIKCHI",
+            "ILLAPA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Uywakuna",
+          "words": [
+            "ALLQU",
+            "MISI",
+            "PISQU",
+            "WAKA",
+            "LLAMA",
+            "WALLPA",
+            "QUWI",
+            "URPI",
+            "ATUQ"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Wasi",
+          "words": [
+            "PUNKU",
+            "TIYANA",
+            "AKCHI",
+            "PUÑUNA",
+            "QATA",
+            "PIRQA",
+            "WASI",
+            "MEZA",
+            "TOQO"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Llapan tarhitakuna",
+        "food": "Mikhuna",
+        "home": "Wasi",
+        "outdoors": "Hawa pacha",
+        "animals": "Uywakuna",
+        "travel": "Illaykuna",
+        "work": "Llamk'ay pukllaypas",
+        "music": "Taki kusikuypas",
+        "seasons": "Watap pachankuna"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "¿Ima mikhunap q'apaynintataq yanuna wasipi astawan munakunki?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "¿Ima laya tortatataq akllakuwaq hatun raymipaq?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Willariyway munasqayki misk'i mikhuymanta utaq ruru pastelmanta."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "¿Imaynatataq tiyaykita utaq kafeykita upyayta munanki?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "¿Imataq sumaq tutamanta mikhuyman tukuchin?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "¿Hayk'aqllapas yurallanmantapacha ruruta p'itirqankichu?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "¿Misk'ichu icha p'uchquchu: mayqentaq aswan allin qampaq?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "¿Ima mikhunataq ruphay pachata yuyarichisunki?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Willariyway tiyakusqayki wasimanta, chaypi kawsay sumaq kasqanmanta."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "¿Maypitaq samarinaykipaq astawan tiyayta munanki?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "¿Imata ruwaytataq munanki ch'in ch'isi chayamuptin?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "¿Ima chaniyuq kaqllaykitataq huk sumaq kahachapi waqaychakuwaq?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "¿Pitantataq wasiykiman mink'akuwaq huk vaso tiyata upyarinaykichikpaq?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "¿Imata ruwaytataq munanki paraptin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "¿Ima waytakunatataq tarpuruwaq muyapi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Willariyway munasqayki sach'amanta utaq plazamanta."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "¿Imataq astawan kusichisunki muyapi kachkaptiyki?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "¿Ima llimphiyuq waytatataq astawan munakunki?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "¿Wasi ukhupi yurakunayuq kay gustasunkichu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "¿Imaynataq qampaq kanman huk sumaq punchaw intichawan?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Willariyway riqsisqayki allquchamanta."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "¿Misitachu icha allqutachu munanki, icha manachu mayqennintapas? ¿Imataq paykunamanta gustasunki?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "¿Ima pisqukunatataq qhawanki icha uyanki hawa pachapi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "¿Hayk'aqllapas challwata challpichirqankichu, icha wasiykipi uywarqankichu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "¿Mayqentaq rikusqayki uywakunamanta aswan sumaq kachkan?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Willariyway munasqayki awtumuwilmanta."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "¿Maypitaq punchawta pasarikuwaq: lamar quchap patanpichu icha urqukunapichu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "¿Maytataq illayta munawaq puririkunaykipaq?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "¿Maypapas hananta phawayta atiwaq chayqa, maytaq kanman?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "¿Ima illaykunamantataq astawan kusikurqanki?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "¿Ima laya llamk'aykunatataq kusisqa ruwarqanki?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "¿Ima pukllaypitaq utaq ruwaypitaq unay pachata kusisqa pasariwaq?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "¿Ima ruwasqaykimantataq runakuna allinta riqsisurqanki?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "¿Ima yuyaychaytataq quwaq huk wayna-sipasta llamk'ayta qallarichkaptin?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "¿Ima taki uyarispataq chakiykita kuyuchiyta munanki?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "¿Imataq sumaq kusikuy raymiman tukuchin?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "¿Pitaq uyariyta munasqayki takiq runa?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "¿Ima pelikulatataq utaq televisionpi kaqtataq kaqmanta qhawayta munawaq?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "¿Imataq ruphay mit'amanta astawan gustasunki?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "¿Imatataq wayra mit'amanta utaq jawkay pachamanta munakunki?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "¿Imata ruwaspataq sumaq q'uñillapi kakuwaq chiri tutapi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "¿Imaynatataq yachanki pacha phuturimuy qallarisqanta?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "¿Rit'itachu, paratachu icha intitachu aswan munanki?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Wayta makitapi",
+          "regions": {
+            "sky": "Hawa pacha",
+            "table": "Mesa",
+            "stem": "K'aspin",
+            "leaf-left": "Lloq'e raphi",
+            "leaf-right": "Paña raphi",
+            "petal-1": "Wayta raphi 1",
+            "petal-2": "Wayta raphi 2",
+            "petal-3": "Wayta raphi 3",
+            "petal-4": "Wayta raphi 4",
+            "petal-5": "Wayta raphi 5",
+            "petal-6": "Wayta raphi 6",
+            "petal-7": "Wayta raphi 7",
+            "petal-8": "Wayta raphi 8",
+            "center": "Waytap sonqon",
+            "pot": "Makita",
+            "pot-rim": "Makitap patan"
+          }
+        },
+        "house": {
+          "name": "Wasi",
+          "regions": {
+            "sky": "Hanaq pacha",
+            "sun": "Inti",
+            "grass": "Pastu",
+            "chimney": "Q'usñina",
+            "walls": "Pirqakuna",
+            "roof": "Wasi qata",
+            "door": "Punku",
+            "window-left": "Lloq'e ventana",
+            "window-right": "Paña ventana",
+            "path": "Ñan"
+          }
+        },
+        "teacup": {
+          "name": "Tasa tiyapaq",
+          "regions": {
+            "background": "Qhipa pacha",
+            "saucer": "Platillu",
+            "handle": "Aysana",
+            "cup": "Tasa",
+            "band": "Tasapi siq'i",
+            "tea": "Tiya"
+          }
+        },
+        "butterfly": {
+          "name": "Pillpintu",
+          "regions": {
+            "background": "Qhipa pacha",
+            "wing-top-left": "Hanaq lloq'e rikra",
+            "wing-top-right": "Hanaq paña rikra",
+            "wing-bottom-left": "Ura lloq'e rikra",
+            "wing-bottom-right": "Ura paña rikra",
+            "spot-left": "Lloq'e rikrapi iñu",
+            "spot-right": "Paña rikrapi iñu",
+            "body": "Ukhu kurku"
+          }
+        },
+        "sailboat": {
+          "name": "Wamp'u wayrawaq",
+          "regions": {
+            "sky": "Hanaq pacha",
+            "sea": "Hatun qucha",
+            "sail-big": "Hatun wela",
+            "sail-small": "Huch'uy wela",
+            "mast": "Wamp'up k'aspin",
+            "hull": "Wamp'u",
+            "flag": "Unancha"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Yanuna wasiwan muyawan",
+          "baskets": [
+            "Wayk'unapi",
+            "Muyapi"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Rurukuna uywakunawan",
+          "baskets": [
+            "Rurukuna",
+            "Uywakuna"
+          ]
+        },
+        "home-travel": {
+          "label": "Wasi puriywan",
+          "baskets": [
+            "Wasipi",
+            "Hawapi"
+          ]
+        }
+      }
+    }
+  }
+}

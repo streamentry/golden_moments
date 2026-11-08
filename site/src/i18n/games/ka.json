@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "სურათების წყვილები",
+    "seoTitle": "შესაბამისობის თამაში დემენციით მცხოვრები ადამიანებისთვის: სურათების წყვილები",
+    "h1": "სურათების წყვილები: მშვიდი შესაბამისობის თამაში",
+    "description": "უფასო, მშვიდი შესაბამისობის თამაში დემენციით მცხოვრები ადამიანებისთვის. დიდი სურათები მუდმივად ჩანს, არ არის ტაიმერი ან ქულები და შეგიძლიათ აირჩიოთ 4-დან 12 ბარათამდე.",
+    "short": "იპოვეთ ორი ერთნაირი სურათი. სურათები შეიძლება მუდმივად გახსნილი დარჩეს.",
+    "players": "1 ან 2 ადამიანი, გვერდიგვერდ",
+    "intro": "შეეხეთ სურათს, შემდეგ კი მის შესაბამის მეორე სურათს. სურათები თავიდანვე გახსნილი რჩება, ამიტომ არაფრის დამახსოვრება არ არის საჭირო. როცა ორი სურათი ერთმანეთს ემთხვევა, მათ ოქროსფერი ჩარჩო და მონიშვნის ნიშანი უჩნდებათ.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "აირჩიეთ ბარათების რაოდენობა. ოთხი ბარათი დასაწყებად მშვიდი და მოსახერხებელი არჩევანია.",
+      "შეეხეთ ნებისმიერ სურათს. მას ოქროსფერი ჩარჩო გაუჩნდება.",
+      "შეეხეთ იმავე გამოსახულების სურათს. წყვილი ერთად დარჩება მონიშვნის ნიშნით.",
+      "თუ ორი სურათი განსხვავებულია, ცუდი არაფერია. შეეხეთ თავიდან, როცა მზად იქნებით.",
+      "ჩართეთ „დამალული სურათები“ მხოლოდ იმ შემთხვევაში, თუ ორივეს მოგწონთ კლასიკური, პირქვე გადაბრუნებული ვერსია."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "ერთად ხმამაღლა დაასახელეთ სურათები და ისაუბრეთ მათზე: „წითელი ჩაის ჭიქა. ჩაის რძით მიირთმევთ?“",
+      "მიეცით საშუალება ადამიანს, რომელზეც ზრუნავთ, თვითონ შეეხოს ეკრანს, თუნდაც ამას დრო დასჭირდეს. უმჯობესია თითით მიუთითოთ, ვიდრე მის ნაცვლად შეეხოთ.",
+      "დარჩით ოთხ ბარათზე იმდენ ხანს, რამდენ ხანსაც კომფორტულია. მეტი ბარათი მხოლოდ არჩევანია და არა აუცილებლად მისაღწევი დონე.",
+      "დაასრულეთ მანამ, სანამ თამაში ჯერ კიდევ სასიამოვნოა. ერთი თამაშიც სავსებით სრულფასოვანი აქტივობაა."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "არის ტაიმერი ან ქულები?",
+        "a": "არა. აქ არ არის საათი, ქულები, სვლების მთვლელი ან წაგება. შეგიძლიათ ნებისმიერ დროს შეჩერდეთ, და ნახევრად დასრულებაც სავსებით კარგი შედეგია."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "რატომ რჩება სურათები გახსნილი?",
+        "a": "როდესაც სურათები ჩანს, თამაში დამახსოვრების ნაცვლად დაკვირვებასა და წყვილების მოძებნაზეა ორიენტირებული. ბევრისთვის ეს უფრო მშვიდია. თუ გსურთ, შეგიძლიათ ერთი შეხებით გადახვიდეთ დამალულ სურათებზე."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "უფასოა თუ არა და საჭიროა რეგისტრაცია?",
+        "a": "დიახ, უფასოა და არ საჭიროებს ანგარიშს, რეგისტრაციას ან ჩამოტვირთვას. თამაში მუშაობს ვებბრაუზერში ტელეფონზე, ტაბლეტსა თუ კომპიუტერზე."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "შეგვიძლია გამოვიყენოთ საკუთარი საოჯახო ფოტოები?",
+        "a": "დიახ. სცადეთ „ფოტოების წყვილები“, სადაც ფოტოების არჩევა თქვენი მოწყობილობიდან შეგიძლიათ. ფოტოები რჩება თქვენს ბრაუზერში და არსად იტვირთება."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "იპოვეთ იგივე",
+    "seoTitle": "იპოვეთ იგივე სურათი: მარტივი თამაში დემენციით მცხოვრები ადამიანებისთვის",
+    "h1": "იპოვეთ იგივე სურათი",
+    "description": "ერთი სურათი ზემოთ, ორიდან ოთხამდე ქვემოთ. შეეხეთ იმას, რომელიც იგივეა. მშვიდი, უფასო თამაში სურათებით დემენციით მცხოვრები ადამიანებისთვის, ყოველგვარი ტაიმერის გარეშე.",
+    "short": "დახედეთ სურათს ზემოთ და შეეხეთ იგივეს ქვემოთ.",
+    "players": "1 ან 2 ადამიანი",
+    "intro": "ეკრანის ზედა ნაწილში ერთი სურათია. მის ქვემოთ კი — ორი, სამი ან ოთხი სურათი. შეეხეთ იმას, რომელიც იგივეა. ეს არის თითო მარტივი არჩევანი ყოველ ჯერზე, სასაუბროდ საკმარისი დროითა და სივრცით.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "აირჩიეთ ორი, სამი ან ოთხი სურათი ასარჩევად. ორი ყველაზე მარტივია.",
+      "ერთად შეხედეთ ზედა სურათს.",
+      "შეეხეთ იმავე სურათს ქვემოთ. ის მოინიშნება ნიშნით და გამოჩნდება რამდენიმე თბილი სიტყვა.",
+      "თუ სხვა სურათს შეეხებით, თამაში უბრალოდ დაასახელებს მას და დაელოდება. ნუ იჩქარებთ.",
+      "შეეხეთ ღილაკს „შემდეგი სურათი“, როდესაც მზად იქნებით ახლისთვის."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "არჩევამდე ისაუბრეთ თითოეულ სურათზე: ფერებზე, ფორმებზე, იმაზე, თუ სად შეიძლებოდა მისი ნახვა.",
+      "ორი არჩევანი არ არის „მეტისმეტად მარტივი“. მიზანი სასიამოვნო წუთებია და არა გამოცდა.",
+      "თუ ეკრანზე შეხება უჭირს, ადამიანს შეუძლია თითით მიუთითოს, თქვენ კი მის მაგივრად შეეხოთ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "არის ტაიმერი ან ქულები?",
+        "a": "არა. აქ არ არის საათი, ქულები, სვლების მთვლელი ან წაგება. შეგიძლიათ ნებისმიერ დროს შეჩერდეთ, და ნახევრად დასრულებაც სავსებით კარგი შედეგია."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "რა ხდება, თუ სხვა სურათს შევეხებით?",
+        "a": "არაფერი უსიამოვნო. არ არის ხმოვანი სიგნალი, წითელი ჯვარი ან ეკრანის შერყევა. თამაში ასახელებს იმ სურათს, რომელსაც შეეხეთ, და ელოდება შემდეგ შეხებას."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "უფასოა თუ არა და საჭიროა რეგისტრაცია?",
+        "a": "დიახ, უფასოა და არ საჭიროებს ანგარიშს, რეგისტრაციას ან ჩამოტვირთვას. თამაში მუშაობს ვებბრაუზერში ტელეფონზე, ტაბლეტსა თუ კომპიუტერზე."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "ჩრდილების შესაბამისობა",
+    "seoTitle": "ჩრდილების შესაბამისობის თამაში დემენციით მცხოვრები ადამიანებისთვის: უფასოდ ონლაინ",
+    "h1": "ჩრდილების შესაბამისობა: მშვიდი თამაში სურათებით",
+    "description": "მუქი ჩრდილი ზემოთ, ორიდან ოთხამდე სურათი ქვემოთ. შეეხეთ სურათს, რომელიც ამ ჩრდილს ქმნის. უფასო, მშვიდი თამაში ჩრდილების შესაბამისობაზე დემენციით მცხოვრები ადამიანებისთვის, ყოველგვარი ტაიმერის გარეშე.",
+    "short": "დახედეთ ჩრდილს და შეეხეთ სურათს, რომელიც მას შეესაბამება.",
+    "players": "1 ან 2 ადამიანი",
+    "intro": "ჩრდილების შესაბამისობის პოვნა ნაცნობი აქტივობაა ნაბეჭდი ფურცლებიდან — ოღონდ აქ დიდი სურათებით და ამობეჭდვის გარეშე. ეკრანის ზედა ნაწილში მკაფიო ჩრდილია, ქვემოთ კი ორი, სამი ან ოთხი სურათი გელოდებათ. შეეხეთ იმას, რომელიც ამ ჩრდილს ქმნის. ისეთ ფორმებზე, როგორიცაა ველოსიპედი, ქოლგა ან ჩაის ჭიქა, საუბარიც ძალიან მარტივი და სასიამოვნოა.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "აირჩიეთ ორი, სამი ან ოთხი სურათი ასარჩევად. ორი ყველაზე მარტივია.",
+      "ერთად შეხედეთ ჩრდილს. რა ფორმისაა? მაღალია თუ მრგვალი?",
+      "შეეხეთ სურათს, რომელიც ამ ჩრდილს ქმნის. მისი სახელი გამოჩნდება ჩრდილის ქვეშ.",
+      "თუ სხვა სურათს შეეხებით, თამაში უბრალოდ დაასახელებს მას და დაელოდება. ნუ იჩქარებთ.",
+      "შეეხეთ ღილაკს „შემდეგი ჩრდილი“, როდესაც მზად იქნებით ახლისთვის."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "თითით შემოხაზეთ ჩრდილის კონტური და ისაუბრეთ მის ფორმაზე.",
+      "თუ დღეს ჩრდილები რთული მოგეჩვენებათ, გადადით თამაშზე „იპოვეთ იგივე“, სადაც სურათები ერთმანეთის მსგავსია.",
+      "ისაუბრეთ სურათზე მისი პოვნის შემდეგ: „ჩვენც გვქონდა ასეთი ქოლგა“."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "არის ტაიმერი ან ქულები?",
+        "a": "არა. აქ არ არის საათი, ქულები, სვლების მთვლელი ან წაგება. შეგიძლიათ ნებისმიერ დროს შეჩერდეთ, და ნახევრად დასრულებაც სავსებით კარგი შედეგია."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "კარგია თუ არა ჩრდილების შეხამება დემენციის მქონე ადამიანებისთვის?",
+        "a": "ზოგიერთი ადამიანისთვის ეს შეიძლება სასიამოვნო და მარტივი საქმიანობა იყოს, განსაკუთრებით ადრეულ ეტაპზე. ფორმების ამოცნობა უფრო ადვილია, ვიდრე სიტყვების. ეს აქტივობა შექმნილია სიამოვნებისა და სასაუბროდ და არა შესამოწმებლად; ის არ კურნავს და არ ანელებს დემენციას. თუ ის უხერხულობას ან გაღიზიანებას იწვევს, სცადეთ თამაში „იპოვე იგივე“ ან უბრალოდ ერთად დაათვალიერეთ სურათები."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "რა მოხდება, თუ არასწორ სურათს შევეხებით?",
+        "a": "არაფერი უსიამოვნო. არ არის ხმოვანი სიგნალი, წითელი ჯვარი ან ეკრანის კანკალი. თამაში უბრალოდ ასახელებს არჩეულ სურათს და ელოდება შემდეგ შეხებას."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "უფასოა თუ არა და საჭიროა თუ არა რეგისტრაცია?",
+        "a": "დიახ, სრულიად უფასოა. არ გჭირდებათ ანგარიშის შექმნა, რეგისტრაცია ან რაიმეს ჩამოტვირთვა. თამაში პირდაპირ ვებბრაუზერში იხსნება — ტელეფონზე, ტაბლეტზე თუ კომპიუტერზე."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "დავალაგოთ ერთად",
+    "seoTitle": "დახარისხების თამაში დემენციის დროს: დავალაგოთ ერთად",
+    "h1": "დავალაგოთ ერთად: სურათების დახარისხება",
+    "description": "შეეხეთ სურათს, შემდეგ კი შესაბამის კალათას: სამზარეულო თუ ბაღი, ხილი თუ ცხოველები. მშვიდი, უფასო აქტივობა დემენციის მქონე ადამიანებისთვის.",
+    "short": "ჩადეთ თითოეული სურათი თავის კალათაში: სამზარეულო, ბაღი და სხვა.",
+    "players": "1 ან 2 ადამიანი",
+    "intro": "დალაგება და დახარისხება ნაცნობი, სასიამოვნო ყოველდღიური საქმეა, როგორიცაა პროდუქტების შენახვა ან წინდების დაწყვილება. შეეხეთ სურათს, შემდეგ კი კალათას, სადაც ის უნდა მოთავსდეს. აქ არავინ გეჩქარებათ და არ არსებობს შეცდომა.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "აირჩიეთ თემა: სამზარეულო და ბაღი, ხილი და ცხოველები, ან სახლი და მოგზაურობა.",
+      "შეეხეთ სურათს. მას ოქროსფერი ჩარჩო შემოევლება.",
+      "შეეხეთ შესაბამის კალათას. სურათი გადავა ამ კალათაში.",
+      "თუ სურათი მეორე კალათას ეკუთვნის, თამაში ამას მშვიდად შეგატყობინებთ და დაელოდება.",
+      "როდესაც ყველა სურათი დალაგდება, ერთად გადაავლეთ თვალი კალათებს."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "ცხოვრებაში ხშირად არ არსებობს არასწორი პასუხი. თუ ადამიანი იტყვის, რომ სარწყავი სამზარეულოს ეკუთვნის, ჰკითხეთ რატომ. შესაძლოა საინტერესო ამბავი მოგიყვეთ.",
+      "გამოიყენეთ სურათები სასაუბროდ: „რას თესავდით ხოლმე ბაღში?“",
+      "ნამდვილი ნივთების დახარისხება, მაგალითად კოვზებისა და ჩანგლების, ან ღილების ფერების მიხედვით, შესანიშნავი საქმიანობაა ეკრანის მიღმაც."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "არის თუ არა დროის ათვლა ან ქულები?",
+        "a": "არა. აქ არ არის საათი, ქულები, სვლების მთვლელი ან წაგება. შეგიძლიათ ნებისმიერ დროს შეჩერდეთ, და შუა გზაზე შეწყვეტაც სავსებით ბუნებრივი და კარგი დასასრულია."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "რატომ დახარისხება?",
+        "a": "ბევრს მოსწონს დახარისხება, რადგან ის სასარგებლო, ნაცნობ საქმედ აღიქმება. თანაც, თამაშის დროს სურათებზე საუბარი ძალიან მარტივი და ბუნებრივია."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "უფასოა თუ არა და საჭიროა თუ არა რეგისტრაცია?",
+        "a": "დიახ, სრულიად უფასოა. არ გჭირდებათ ანგარიშის შექმნა, რეგისტრაცია ან რაიმეს ჩამოტვირთვა. თამაში პირდაპირ ვებბრაუზერში იხსნება — ტელეფონზე, ტაბლეტზე თუ კომპიუტერზე."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "სურათის ფაზლი",
+    "seoTitle": "მარტივი ფაზლი დემენციის დროს: 4 ან 9 ნაწილი",
+    "h1": "სურათის ფაზლი: მარტივი ასაწყობი",
+    "description": "მარტივი ონლაინ ფაზლი დემენციის მქონე ადამიანებისთვის: 4 ან 9 დიდი ნაწილი, მთლიანი სურათი მუდმივად ჩანს, ადგილების შესაცვლელად კი უბრალოდ ორ ნაწილს უნდა შეეხოთ.",
+    "short": "შეეხეთ ორ ნაწილს ადგილების შესაცვლელად, სანამ სურათი არ აეწყობა.",
+    "players": "1 ან 2 ადამიანი",
+    "intro": "თბილი და სასიამოვნო სურათი დაყოფილია ოთხ ან ცხრა დიდ ნაწილად და არეულია. მთლიანი სურათი მინიშნებად რჩება ეკრანზე. შეეხეთ ერთ ნაწილს, შემდეგ მეორეს და ისინი ადგილებს გაცვლიან. ნაწილების გადათრევა საჭირო არ არის.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "აირჩიეთ სურათი და 4 ან 9 ნაწილი. ოთხი ნაწილი მშვენიერი, მშვიდი დასაწყისია.",
+      "დახედეთ მთლიან სურათს ზედა ნაწილში.",
+      "შეეხეთ ნაწილს, შემდეგ კი იმ ადგილს, სადაც ის უნდა იდოს. ორი ნაწილი ადგილს გაცვლის.",
+      "სწორ ადგილზე მოხვედრილ ნაწილებს პატარა აღნიშვნა გაუჩნდება.",
+      "როდესაც სურათი აეწყობა, ერთად დატკბით შედეგით და შემდეგ აირჩიეთ ახალი."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "ორ ნაწილზე შეხება და მათი გაცვლა ბევრისთვის გაცილებით მარტივია, ვიდრე თითით გადათრევა.",
+      "აწყობისას ისაუბრეთ სურათზე: „აი, გამოჩნდა წითელი სახურავიც“.",
+      "12-დან 24-მდე დიდი ნაწილისგან შემდგარი ნამდვილი ხის ფაზლი ასევე შესანიშნავი სამაგიდო საქმიანობაა."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "არის თუ არა დროის ათვლა ან ქულები?",
+        "a": "არა. აქ არ არის საათი, ქულები, სვლების მთვლელი ან წაგება. შეგიძლიათ ნებისმიერ დროს შეჩერდეთ, და შუა გზაზე შეწყვეტაც სავსებით ბუნებრივი და კარგი დასასრულია."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "საჭიროა თუ არა ნაწილების გადათრევა?",
+        "a": "არა. შეეხეთ ერთ ნაწილს, შემდეგ მეორეს და ისინი ადგილებს გაცვლიან. ეს ბევრად უფრო მოსახერხებელია, თუ ხელი გიკანკალებთ ან პატარა ეკრანზე თამაშობთ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "უფასოა თუ არა და საჭიროა თუ არა რეგისტრაცია?",
+        "a": "დიახ, სრულიად უფასოა. არ გჭირდებათ ანგარიშის შექმნა, რეგისტრაცია ან რაიმეს ჩამოტვირთვა. თამაში პირდაპირ ვებბრაუზერში იხსნება — ტელეფონზე, ტაბლეტზე თუ კომპიუტერზე."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "დაასრულეთ გამონათქვამი",
+    "seoTitle": "დაასრულეთ გამონათქვამი: ანდაზების თამაში უფროსი თაობისთვის",
+    "h1": "დაასრულეთ გამონათქვამი",
+    "description": "ნაცნობი ამერიკული გამონათქვამები გამოტოვებული ბოლო სიტყვით, როგორიცაა „A penny saved is a penny ___“. შეეხეთ ერთ-ერთ ვარიანტს ან გამოაჩინეთ დასასრული და ისაუბრეთ მასზე.",
+    "short": "ერთად დაასრულეთ ნაცნობი გამონათქვამები და ისაუბრეთ მათ შესახებ.",
+    "players": "1, 2 ან ადამიანთა ჯგუფი",
+    "intro": "ხალხური გამონათქვამები ხშირად მთელი ცხოვრება გვახსოვს. თითოეულ ბარათზე მოცემულია ნაცნობი გამონათქვამი გამოტოვებული ბოლო სიტყვით, არჩევანის სამი ვარიანტი და ღილაკი „დასასრულის ჩვენება“. დასასრულის ნახვის შემდეგ, მარტივი შეკითხვა საუბრის წამოწყებაში დაგეხმარებათ.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "ხმამაღლა, ერთად წაიკითხეთ გამონათქვამი.",
+      "შეეხეთ სიტყვას, რომელიც მას ასრულებს, ან დააჭირეთ „დასასრულის ჩვენებას“.",
+      "კიდევ ერთხელ წაიკითხეთ მთლიანი გამონათქვამი და ისაუბრეთ შეთავაზებულ კითხვაზე.",
+      "როდესაც მზად იქნებით, შეეხეთ „შემდეგ გამონათქვამს“."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "წაიკითხეთ ნელა და ბოლო სიტყვის წინ მცირე პაუზა გააკეთეთ. ხშირად ადამიანები მას თქვენს დასრულებამდე წარმოთქვამენ.",
+      "თუ ვინმე სხვაგვარ დასასრულს იტყვის, გაიზიარეთ იგი. გამონათქვამების ვარიანტები ოჯახისა თუ კუთხის მიხედვით ხშირად განსხვავდება.",
+      "ჯგუფში ყოფნისას, ერთმა ადამიანმა შეიძლება წაიკითხოს დასაწყისი, სხვები კი დასასრულს ერთად იტყვიან."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "არის თუ არა დროის ათვლა ან ქულები?",
+        "a": "არა. აქ არ არის ტაიმერი, ქულები, სვლების მთვლელი ან წაგება. შეგიძლიათ ნებისმიერ დროს შეჩერდეთ, და ნახევარ გზაზე გაჩერებაც სავსებით კარგი დასასრულია."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "რა მოხდება, თუ სხვა სიტყვას ავირჩევთ?",
+        "a": "თამაში გაჩვენებთ ჩვეულებრივ დაბოლოებას და საუბარზე გადადის. ქულები არ იწერება, და განსხვავებული პასუხიც სრულიად მისაღებია."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "უფასოა? და მჭირდება თუ არა რეგისტრაცია?",
+        "a": "დიახ, უფასოა. არ გჭირდებათ ანგარიშის შექმნა, რეგისტრაცია ან ჩამოტვირთვა. თამაში მუშაობს ვებბრაუზერში ტელეფონზე, ტაბლეტსა თუ კომპიუტერზე."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "სიტყვების ძიება დიდი შრიფტით",
+    "seoTitle": "სიტყვების ძიება დიდი შრიფტით დემენციის მქონე ადამიანებისთვის, ამოსაბეჭდი",
+    "h1": "სიტყვების ძიება დიდი შრიფტით",
+    "description": "უფასო სიტყვების ძიება დიდი შრიფტით ხანდაზმულებისა და დემენციის მქონე ადამიანებისთვის. ცოტა სიტყვა, დიდი ასოები, სიტყვები მხოლოდ ჰორიზონტალურად და ვერტიკალურად. ითამაშეთ ონლაინ ან ამობეჭდეთ.",
+    "short": "დიდი ასოები, ცოტა სიტყვა, მხოლოდ ჰორიზონტალურად და ვერტიკალურად. შეგიძლიათ ამობეჭდოთ კიდეც.",
+    "players": "1 ან 2 ადამიანი",
+    "intro": "პატარა ბადე დიდი ასოებით და სულ რამდენიმე სიტყვით, რომლებიც მხოლოდ ჰორიზონტალურად ან ვერტიკალურად იკითხება. დააჭირეთ სიტყვის პირველ ასოს, შემდეგ კი ბოლოს. ქაღალდზე გირჩევნიათ? ამობეჭდეთ ახალი თავსატეხი ერთი დაჭერით.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "აირჩიეთ თემა და ბადის ზომა.",
+      "დახედეთ სიტყვების სიას. სიტყვები იკითხება ჰორიზონტალურად (მარცხნიდან მარჯვნივ) ან ვერტიკალურად (ზემოდან ქვემოთ).",
+      "დააჭირეთ სიტყვის პირველ ასოს, შემდეგ კი მის ბოლო ასოს.",
+      "ნაპოვნი სიტყვა გაფერადდება და სიიდან გადაიხაზება.",
+      "დააჭირეთ ღილაკს „ამობეჭდეთ ეს თავსატეხი“, რათა ქაღალდზე ფანქრით ან მარკერით ითამაშოთ."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "მიუთითეთ სიტყვაზე სიაში და ერთად მოძებნეთ მისი პირველი ასო.",
+      "ქაღალდზე ტექსტის მარკერის დაჭერა უფრო ადვილია, ვიდრე ფანქრის.",
+      "ისაუბრეთ თემატურ სიტყვებზე. ხილის სახელები ბუნებრივად აღვიძებს მოგონებებს მოსავლის კრეფაზე, ცხობასა თუ ბაზარზე გასვლაზე."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "არის ტაიმერი ან ქულები?",
+        "a": "არა. აქ არ არის ტაიმერი, ქულები, სვლების მთვლელი ან წაგება. შეგიძლიათ ნებისმიერ დროს შეჩერდეთ, და ნახევარ გზაზე გაჩერებაც სავსებით კარგი დასასრულია."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "შემიძლია სიტყვების ძიების ამობეჭდვა?",
+        "a": "დიახ. დააჭირეთ ღილაკს „ამობეჭდეთ ეს თავსატეხი“, რომ მიმდინარე ბადე დიდი შრიფტით ამობეჭდოთ, სიტყვების სიით ქვემოთ. ყოველი ახალი თავსატეხი განსხვავებულია."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "უფასოა? და მჭირდება თუ არა რეგისტრაცია?",
+        "a": "დიახ, უფასოა. არ გჭირდებათ ანგარიშის შექმნა, რეგისტრაცია ან ჩამოტვირთვა. თამაში მუშაობს ვებბრაუზერში ტელეფონზე, ტაბლეტსა თუ კომპიუტერზე."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "გასაფერადებელი გვერდები",
+    "seoTitle": "გასაფერადებელი გვერდები დემენციის მქონე უფროსებისთვის (უფასო)",
+    "h1": "გასაფერადებელი გვერდები",
+    "description": "მარტივი გასაფერადებელი გვერდები უფროსებისთვის დიდი დეტალებით: დააჭირეთ ფერს, შემდეგ კი ნახატს. არანაირი არეულობა, არასწორი ფერები არ არსებობს, და თითოეული გვერდის ამობეჭდვა უფასოა.",
+    "short": "დააჭირეთ ფერს, შემდეგ ნახატის ნაწილს. შეგიძლიათ გვერდები ამობეჭდოთ კიდეც.",
+    "players": "1 ან 2 ადამიანი",
+    "intro": "გვერდები დიდი, მარტივი ფორმებით: ყვავილი ქოთანში, სახლი, ჩაის ჭიქა, პეპელა და იალქნიანი ნავი. დააჭირეთ ფერს, შემდეგ კი ნახატის ნაწილს მის გასაფერადებლად. აქ არასწორი ფერები არ არსებობს.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "აირჩიეთ გვერდი.",
+      "დააჭირეთ ფერს. თითოეულ ფერს აწერია თავისი სახელი.",
+      "დააჭირეთ ნახატის ნაწილს მის ამ ფერით შესავსებად.",
+      "აზრის შეცვლა ნებისმიერ დროს შეგიძლიათ ხელახლა შეღებვით.",
+      "დააჭირეთ ღილაკს „ამობეჭდეთ ეს გვერდი“, რათა სუფთა გვერდი ფანქრებით ან მარკერებით გააფერადოთ."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "თუ არჩევანის გაკეთება რთულია, მთელი ნაკრების ნაცვლად შესთავაზეთ ორი ფერი.",
+      "იასამნისფერი ხეები და ლურჯი მზე სრულიად მისაღებია. მთავარი ფერებით სიამოვნების მიღებაა და არა სიზუსტე.",
+      "ამობეჭდილი გვერდებისთვის კარგია სქელი მარკერები ან ცვილის ფანქრები, რომელთა დაჭერაც უფრო ადვილია."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "არის ტაიმერი ან ქულები?",
+        "a": "არა. აქ არ არის ტაიმერი, ქულები, სვლების მთვლელი ან წაგება. შეგიძლიათ ნებისმიერ დროს შეჩერდეთ, და ნახევარ გზაზე გაჩერებაც სავსებით კარგი დასასრულია."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "ეს გვერდები ზედმეტად ბავშვური ხომ არ არის?",
+        "a": "ანიმაციური გმირების ნაცვლად ჩვენ მშვიდი, მარტივი საგნები დავხატეთ, რათა გვერდები უფროსებს მოერგოს. დიდი ფორმები გაფერადებას აადვილებს ისე, რომ ის ბავშვურად არ გამოიყურებოდეს."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "უფასოა? და მჭირდება თუ არა რეგისტრაცია?",
+        "a": "დიახ, უფასოა. არ გჭირდებათ ანგარიშის შექმნა, რეგისტრაცია ან ჩამოტვირთვა. თამაში მუშაობს ვებბრაუზერში ტელეფონზე, ტაბლეტსა თუ კომპიუტერზე."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "სასაუბრო ბარათები",
+    "seoTitle": "თემები საუბრის დასაწყებად დემენციის დროს: ილუსტრირებული ბარათები",
+    "h1": "სასაუბრო ბარათები",
+    "description": "ილუსტრირებული ბარათები საუბრის მშვიდად დასაწყებად დემენციის მქონე ადამიანებისთვის: გამოკითხვისა და სწორი პასუხების გარეშე. გამოიყენეთ ეკრანზე ან ამობეჭდეთ სრული ნაკრები.",
+    "short": "ილუსტრირებული ბარათები ღია, მშვიდი შეკითხვებით. გამოკითხვის გარეშე.",
+    "players": "2 ადამიანი ან ჯგუფი",
+    "intro": "თითოეულ ბარათზე ნაცნობი ნახატი შერწყმულია საუბრის ღია წინადადებასთან, როგორიცაა „როგორი ამინდი გიყვართ ყველაზე მეტად?“. აქ არ არის სწორი პასუხები და არაფრის გახსენება არ არის საჭირო. აირჩიეთ თემა ან აურიეთ ყველა ბარათი.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "აირჩიეთ თემა, ან დატოვეთ „ყველა ბარათი“.",
+      "ხმამაღლა წაიკითხეთ შეკითხვა და ერთად შეხედეთ ნახატს.",
+      "მოუსმინეთ, გაუზიარეთ თქვენი პასუხიც და მიეცით საუბარს თავისუფალი მსვლელობა.",
+      "როდესაც მზად იქნებით, დააჭირეთ ღილაკს „შემდეგი ბარათი“, ან დარჩით ერთ ბარათთან იმდენ ხანს, რამდენიც გსურთ.",
+      "დააჭირეთ ღილაკს „ამობეჭდეთ ყველა ბარათი“, რომ ქაღალდის ნაკრები გამოჭრათ."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "უპასუხეთ შეკითხვას თქვენც. ასე პროცესი საუბარს დაემსგავსება და არა გამოკითხვას.",
+      "მიჰყევით ამბავს და არა ფაქტებს. თუ დეტალები იცვლება, ეს სრულიად ბუნებრივია.",
+      "თუ ბარათი რაიმე სევდიანს შეეხება, გაითვალისწინეთ ეს ემოცია და ფრთხილად გადადით სხვა ბარათზე."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "რატომ არ არის შეკითხვები ფორმით „გახსოვთ...?“?",
+        "a": "შეკითხვები, რომლებიც მეხსიერებას ამოწმებს, შეიძლება გამოცდას დაემსგავსოს და უხერხულობა გამოიწვიოს. ღია წინადადებები, როგორიცაა „მომიყევით...“, ყველას აძლევს ჩართვის საშუალებას, მიუხედავად იმისა, თუ რა ახსოვს."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "შემიძლია ბარათების ამობეჭდვა?",
+        "a": "დიახ. ღილაკი „ამობეჭდეთ ყველა ბარათი“ ბეჭდავს სრულ ნაკრებს დიდი შრიფტით, რამდენიმე ბარათს თითო გვერდზე, გამოსაჭრელად მზად."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "უფასოა? და მჭირდება თუ არა რეგისტრაცია?",
+        "a": "დიახ, უფასოა და არ საჭიროებს ანგარიშს, რეგისტრაციას ან ჩამოტვირთვას. მუშაობს პირდაპირ ბრაუზერში ტელეფონზე, ტაბლეტზე ან კომპიუტერზე."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "ფოტოების წყვილები",
+    "seoTitle": "შექმენით წყვილების პოვნის თამაში ოჯახური ფოტოებით",
+    "h1": "ფოტოების წყვილები: იპოვეთ თქვენივე ფოტოების წყვილები",
+    "description": "გადააქციეთ თქვენი ოჯახური ფოტოები მშვიდ თამაშად. აირჩიეთ 2-დან 6-მდე ფოტო თქვენს მოწყობილობაში; ისინი რჩება თქვენს ბრაუზერში და არსად იტვირთება.",
+    "short": "აირჩიეთ თქვენი ფოტოები და იპოვეთ წყვილები. არაფერი იტვირთება.",
+    "players": "2 ადამიანი, გვერდიგვერდ",
+    "intro": "აირჩიეთ ორიდან ექვსამდე ფოტო თქვენი ტელეფონიდან, ტაბლეტიდან ან კომპიუტერიდან და ისინი გადაიქცევა წყვილების თამაშად დიდი, მკაფიო სურათებით. ფოტოები ჩანს მხოლოდ ამ გვერდზე. ისინი არ იტვირთება, არ ინახება და არ ზიარდება, ხოლო გვერდის დახურვისას ქრება.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "შეეხეთ ღილაკს „ფოტოების არჩევა“ და შეარჩიეთ ორიდან ექვსამდე ფოტო.",
+      "თითოეული ფოტო ორჯერ გამოჩნდება. შეეხეთ ერთს, შემდეგ კი მის წყვილს.",
+      "ისაუბრეთ თითოეულ ფოტოზე, როდესაც მას იპოვით.",
+      "როდესაც დაასრულებთ, დახურეთ გვერდი ან შეეხეთ ღილაკს „ფოტოების გასუფთავება“. არაფერი ინახება."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "შეარჩიეთ სასიამოვნო და ნაცნობი რამეების მკაფიო ფოტოები: შინაური ცხოველი, ბაღი, საყვარელი ადგილი, ქორწილის დღე.",
+      "ადგილებისა და ნივთების სურათები ხშირად უფრო მარტივი აღსაქმელია, ვიდრე სახეები, და თავიდან არიდებს ადამიანების სახელების გახსენების უხერხულობას.",
+      "მოერიდეთ გარდაცვლილი ადამიანების ფოტოებს, თუ მათ შეიძლება მოულოდნელი სევდა გამოიწვიონ, გარდა იმ შემთხვევისა, როდესაც იცით, რომ ისინი სიმშვიდეს ჰგვრის."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "იტვირთება ჩემი ფოტოები სადმე?",
+        "a": "არა. გვერდი თქვენ მიერ არჩეულ ფოტოებს პირდაპირ თქვენს ბრაუზერში კითხულობს და ეკრანზე აჩვენებს. ისინი არ იგზავნება არც ჩვენთან და არც სხვასთან, ხოლო გვერდის დახურვისას ან განახლებისას ქრება."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "არის თამაშში დროის ათვლა ან ქულები?",
+        "a": "არა. აქ არ არის საათი, ქულები, სვლების მთვლელი ან წაგება. შეგიძლიათ შეჩერდეთ ნებისმიერ დროს, და შუა გზაზე შეწყვეტაც თამაშის დასრულების სრულიად ბუნებრივი გზაა."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "შემიძლია თამაშის შენახვა შემდეგი დროისთვის?",
+        "a": "ბრაუზერში არა — ეს განზრახ არის ასე მოწყობილი, რათა პირადი მონაცემები არ შეინახოს. iPhone-ისა და iPad-ის უფასო აპლიკაციას Golden Moments შეუძლია არჩეული ფოტოების ასლები თქვენს მოწყობილობაში შეინახოს."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "სურათებიანი ბინგო",
+    "seoTitle": "სურათებიანი ბინგო დემენციის მქონე ასაკოვანი ადამიანებისთვის: ამოსაბეჭდი",
+    "h1": "სურათებიანი ბინგო ჯგუფებისთვის",
+    "description": "უფასო ამოსაბეჭდი სურათებიანი ბინგო მეხსიერების მხარდაჭერისა და ხანდაზმულთა ჯგუფებისთვის, ეკრანზე წამყვანის დიდი გამოსახულებით. დიდი სურათები წარწერებით, 9 ან 16 უჯრა, კითხვა არ არის საჭირო.",
+    "short": "ამოსაბეჭდი ბარათები სურათებიანი ბინგოსთვის და წამყვანის დიდი ეკრანი ჯგუფებისთვის.",
+    "players": "2-დან 30 ადამიანამდე ჯგუფი",
+    "intro": "კლასიკური ბინგო რიცხვების ნაცვლად სურათებით, რათა არავის დასჭირდეს წვრილი შრიფტის კითხვა. ამობეჭდეთ განსხვავებული ბარათები, შემდეგ კი გამოიყენეთ ეკრანის წამყვანი, რათა თითოეული სურათი დიდად გამოჩნდეს ტელევიზორზე, ლეპტოპზე ან ტაბლეტზე.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "აირჩიეთ 9 ან 16 უჯრა თითოეულ ბარათზე და მოთამაშეთა რაოდენობა.",
+      "შეეხეთ ღილაკს „ბარათების ამობეჭდვა“. თითოეული ბარათი განსხვავებულია.",
+      "გახსენით წამყვანის გვერდი დიდ ეკრანზე. შეეხეთ ღილაკს „შემდეგი სურათი“, რათა თითოეული სურათი სახელწოდებასთან ერთად გამოჩნდეს.",
+      "მოთამაშეები შესაბამის სურათს საკუთარ ბარათზე მონეტით, ღილით ან მარკერით ფარავენ.",
+      "ყველა, ვინც რიგს ან მთელ ბარათს შეავსებს, შექებასა და გამხნევებას იმსახურებს. ამ ვერსიაში დამარცხებული არავინაა: გააგრძელეთ თამაში, სანამ თითოეული მოთამაშე ხაზს არ შეავსებს."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "გამოიყენეთ დიდი საგნები, მაგალითად შაშის ქვები ან ბოთლის თავსახურები. პატარა ღილების აღება შესაძლოა რთული იყოს.",
+      "დაასახელეთ სურათი და თქვით რამე მასზე: „იალქნიანი ნავი. ვის უმოგზაურია ნავით?“",
+      "დასვით ადამიანები, რომლებსაც მხედველობა უჭირთ, ეკრანთან ყველაზე ახლოს, და საჭიროების შემთხვევაში დაახმარეთ დამხმარეები.",
+      "ცხრა უჯრა სრულიად საკმარისია ჯგუფების უმეტესობისთვის. თამაშის ხანგრძლივობა სასურველია იყოს დაახლოებით 20-30 წუთი."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "როგორ ჩავატარო სურათებიანი ბინგო მზრუნველობის სახლში?",
+        "a": "ამობეჭდეთ თითო ბარათი თითოეული მოთამაშისთვის, ჩართეთ წამყვანი ყველაზე დიდ ეკრანზე, რაც გაქვთ, და ნელა აჩვენეთ სურათები თან სახელწოდების წარმოთქმით. ითამაშეთ მანამ, სანამ ხაზი ყველას არ შეევსება, რათა ყურადღების მიღმა არავინ დარჩეს."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "ამობეჭდვა უფასოა?",
+        "a": "დიახ. ამობეჭდეთ იმდენი ბარათი, რამდენიც გჭირდებათ, რამდენჯერაც გსურთ, პირადი ან ჯგუფური გამოყენებისთვის."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "შეუძლიათ ადამიანებს თამაში კითხვის გარეშე?",
+        "a": "დიახ. თითოეულ უჯრაში დიდი სურათია, ხოლო მათთვის, ვისაც სიტყვები უყვარს, ქვეშ სახელწოდებაც წერია."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "მშვიდი სუნთქვა",
+    "seoTitle": "მშვიდი სუნთქვის პაუზა ასაკოვანი ადამიანებისა და მათი მომვლელებისთვის",
+    "h1": "მშვიდი სუნთქვის პაუზა",
+    "description": "ნელი, მშვიდი სუნთქვის პაუზა ერთად ყოფნისთვის: წრე ნაზად იზრდება და პატარავდება ექვსი ჩასუნთქვა-ამოსუნთქვის განმავლობაში. თქვენ იწყებთ და შეგიძლიათ ნებისმიერ დროს შეაჩეროთ.",
+    "short": "ნელი წრე სუნთქვის ასაყოლებლად. დაიწყეთ და შეაჩერეთ, როდესაც გსურთ.",
+    "players": "1 ან 2 ადამიანი",
+    "intro": "ხანდახან საუკეთესო აქტივობა უბრალოდ მშვიდი პაუზაა. შეეხეთ ღილაკს „დაწყება“, შემდეგ ჩაისუნთქეთ, როდესაც წრე იზრდება, და ამოისუნთქეთ, როდესაც პატარავდება. აირჩიეთ შედარებით ნელი ან ჩქარი ტემპი. ეს არ არის სამკურნალო პროცედურა — მხოლოდ მშვიდი წუთები ერთად გასატარებლად.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "დასხედით მოხერხებულად, გვერდიგვერდ.",
+      "აირჩიეთ ტემპი: ნელი თუ მშვიდი.",
+      "შეეხეთ ღილაკს „დაწყება“. ჩაისუნთქეთ, როდესაც წრე იზრდება, და ამოისუნთქეთ, როდესაც პატარავდება.",
+      "იგი თავისით ჩერდება ექვსი ჩასუნთქვა-ამოსუნთქვის შემდეგ, ან შეგიძლიათ შეეხოთ ღილაკს „შეჩერება“, როდესაც მოისურვებთ."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "ჩასჭიდეთ ხელი ან დაადეთ ხელი მკლავზე, თუ ეს მისთვის სასიამოვნოა.",
+      "არასოდეს დააძალოთ. თუ ურჩევნია, უბრალოდ უყუროს, ესეც სრულიად მისაღებია.",
+      "თუ ვინმეს სუნთქვის პრობლემები აქვს, ისუნთქოს ჩვეულებრივად და უბრალოდ უყუროს წრეს. სუნთქვასთან დაკავშირებული ნებისმიერი ეჭვის შემთხვევაში მიმართეთ ექიმს."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "არის ეს სამედიცინო სუნთქვითი ვარჯიში?",
+        "a": "არა. ეს არის მარტივი, არასავალდებულო პაუზა სიმშვიდისა და ურთიერთობისთვის. ის არ წარმოადგენს შფოთვის ან რაიმე მდგომარეობის მკურნალობას. ჯანმრთელობასთან დაკავშირებულ საკითხებზე მიმართეთ ექიმს."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "მოძრაობს წრე ჩემი დაწყების გარეშე?",
+        "a": "არა. სანამ „დაწყებას“ არ დააჭერთ, არაფერი მოძრაობს; ის ჩერდება ექვსი ჩასუნთქვა-ამოსუნთქვის შემდეგ ან მაშინ, როცა „შეჩერებას“ დააჭერთ. თუ თქვენს მოწყობილობაზე მოძრაობის შემცირებაა ჩართული, სიტყვები ისე იცვლება, რომ წრე არ იზრდება."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "უფასოა და მჭირდება რეგისტრაცია?",
+        "a": "დიახ, უფასოა და არ გჭირდებათ არც ანგარიში, არც რეგისტრაცია და არც ჩამოტვირთვა. ის მუშაობს ვებბრაუზერში — ტელეფონზე, პლანშეტსა თუ კომპიუტერზე."
       }
     ]
   }

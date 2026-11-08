@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Pānui ā-waha",
+      "stopReading": "Whakamutua te pānui",
+      "region": "Kēmu",
+      "restart": "Tīmata anō",
+      "soundOn": "Kā ngā oro ngāwari",
+      "soundOff": "Weto ngā oro ngāwari",
+      "done": "Kua oti mō tēnei wā",
+      "feedbackQuestion": "I āwhina tēnei i tēnei rā?",
+      "feedbackYes": "Āe",
+      "feedbackNo": "Kāore i tino pērā",
+      "feedbackThanks": "Ngā mihi mō tō kōrero mai."
+    },
+    "tile": {
+      "named": "{name}, tāera {n}",
+      "hidden": "Whakaahua huna, tāera {n}",
+      "withState": "{label}, {state}",
+      "matched": "Kua taurite",
+      "selected": "Kua kōwhiria",
+      "picture": "Whakaahua",
+      "photoNumber": "Whakaahua {n}"
+    },
+    "pairs": {
+      "allTogether": "Kua kitea ngā takirua katoa. Tākaro anō, whakatā rānei.",
+      "photoPair": "He takirua whakaahua, kua hono.",
+      "picturePair": "Ngā whakaahua e rua o te {name|lower}, kua hono tahi.",
+      "selected": "{name}. Ināianei rapua tōna takirua.",
+      "mismatch": "Kaua e tere. Pāwhiritia tētahi whakaahua kia haere tonu ai.",
+      "mismatchNamed": "{a} me {b}. Kaua e tere. Pāwhiritia tētahi whakaahua kia haere tonu ai."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Pāwhiritia tētahi whakaahua, kā tahi ka pāwhiri i tētahi e ōrite ana.",
+      "guidanceHidden": "Pāwhiritia ētahi tāera e rua hei hurihuri. Rapua kia rua e ōrite ana.",
+      "restart": "He whakaahua hōu",
+      "sizeLegend": "Te maha o ngā tāera",
+      "size": {
+        "one": "{n} te tāera",
+        "other": "{n} ngā tāera"
+      },
+      "viewLegend": "Me pēhea te tākaro",
+      "viewShowing": "E kitea ana ngā whakaahua",
+      "viewHidden": "Kua hunaia ngā whakaahua",
+      "playAgain": "Tākaro anō me ētahi whakaahua hōu",
+      "talk": "Kōrerorero tahi mō ngā whakaahua"
+    },
+    "choose": {
+      "countLegend": "Te maha o ngā whakaahua",
+      "count": "E {n} hei kōwhiringa",
+      "thatOne": "Ko tēnā te {name|lower}. Kaua e tere."
+    },
+    "findTheSame": {
+      "guidance": "Titiro ki te whakaahua i runga. Pāwhiritia te mea ōrite kei raro.",
+      "yes": "Āe rā, ko te {name|lower} ōrite tonu.",
+      "next": "Whakaahua e whai ake nei"
+    },
+    "shadowMatch": {
+      "guidance": "Titiro ki te ata i runga. Pāwhiritia te whakaahua e hāngai ana ki taua ata.",
+      "yes": "Āe rā, nā te {name|lower} tēnā ata.",
+      "next": "Ata e whai ake nei",
+      "shadowAlt": "He ata hei hono atu",
+      "foundAlt": "Te ata o te {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Pāwhiritia tētahi whakaahua, kā tahi ka pāwhiri i te kete e tika ana mōna.",
+      "restart": "He whakaahua hōu",
+      "themeLegend": "Kaupapa",
+      "selected": "{name}. Ināianei pāwhiritia te kete e tika ana mōna.",
+      "pickFirst": "Matua pāwhiri i tētahi whakaahua, kā tahi ka pāwhiri i tētahi kete.",
+      "hint": "Ka taea te tuku te {name|lower} ki roto i \"{basket}\". Pāwhiritia taua kete hei tuku ki reira.",
+      "placed": "Kua tau te {name|lower} ki roto i \"{basket}\".",
+      "sorted": "Kua whakarōpūtia ngā mea katoa. Tirohia ngātahi ngā kete, whakamātauhia rānei tētahi kaupapa kē.",
+      "basket": {
+        "one": "Kete \"{basket}\", {count} te whakaahua kei roto",
+        "other": "Kete \"{basket}\", {count} ngā whakaahua kei roto"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Pāwhiritia tētahi wāhanga, kā tahi ka pāwhiri i tētahi atu. Ka whakawhiti tūranga rāua.",
+      "restart": "Whakaranua anō",
+      "pictureLegend": "Whakaahua",
+      "pictures": {
+        "sailboat": "Waka rā",
+        "house": "Whare",
+        "balloon": "Poihau",
+        "sunflower": "Putirā",
+        "lighthouse": "Whare rama",
+        "cat": "Ngeru"
+      },
+      "sizeLegend": "Ngā wāhanga",
+      "size": {
+        "one": "{n} te wāhanga",
+        "other": "{n} ngā wāhanga"
+      },
+      "pickedUp": "Kua mau te wāhanga. Ināianei pāwhiritia te wāhi e tika ana mōna.",
+      "whole": "Kua tūhono anō te {name|lower}. Kōwhiria he whakaahua kē i te wā e pai ai ki a koe.",
+      "swapped": {
+        "one": "Kua whakawhitia. Kua tau {correct} o te {total} wāhanga ki tōna tūranga.",
+        "other": "Kua whakawhitia. Kua tau {correct} o ngā wāhanga e {total} ki ō rātou tūranga."
+      },
+      "guideAlt": "Te whakaahua katoa: {name}",
+      "guideText": "Koia tēnei te āhua o te whakaahua ina tūhonohono katoa.",
+      "piece": "Wāhanga kei te {place}",
+      "pieceInPlace": ", kei te tūranga tika",
+      "piecePickedUp": ", kua mau",
+      "places4": [
+        "runga mauī",
+        "runga matau",
+        "raro mauī",
+        "raro matau"
+      ],
+      "places9": [
+        "runga mauī",
+        "runga waenga",
+        "runga matau",
+        "waenga mauī",
+        "waenga pū",
+        "waenga matau",
+        "raro mauī",
+        "raro waenga",
+        "raro matau"
+      ],
+      "done": "Kua tūhono anō te whakaahua. Tākaro anō, whakatā rānei.",
+      "playAgain": "Whakaranua anō"
+    },
+    "finishTheSaying": {
+      "guidance": "Pānuitia ngātahi te whakataukī, kā tahi ka pāwhiri i te kupu hei whakaoti.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Āe rā, \"{start} {end}.\"",
+      "otherEnding": "He pai anō a \"{word}\". Ko te otinga o te whakataukī tūturu ko \"{end}\".",
+      "revealed": "Ko te whakataukī ko \"{start} {end}.\"",
+      "choicesLabel": "Kōwhiria te kupu whakamutunga",
+      "show": "Whakaaturia te otinga",
+      "talk": "Kōrerohia tahi: ",
+      "next": "Whakataukī e whai ake nei"
+    },
+    "wordSearch": {
+      "guidance": "Ka takoto whakapae, poutū rānei ngā kupu. Pāwhiritia te pūreta tuatahi o te kupu, kā tahi ka pāwhiri i te pūreta whakamutunga.",
+      "restart": "Panga hōu",
+      "themeLegend": "Kaupapa",
+      "sizeLegend": "Rahinga o te mātiti",
+      "size": {
+        "one": "{n} ki te {n} ({words} te kupu)",
+        "other": "{n} ki te {n} ({words} ngā kupu)"
+      },
+      "print": "Tāngia tēnei panga",
+      "letterChosen": "Kua kōwhiria te pūreta {letter}. Ināianei pāwhiritia te pūreta whakamutunga o te kupu.",
+      "found": "Kua kitea a {word}.",
+      "foundAll": "Kua kitea a {word}. Kua kitea ngā kupu katoa. Tākaro anō, whakatā rānei.",
+      "tryAgain": "Kaua e tere. Pāwhiritia te pūreta tuatahi o te kupu, kā tahi ka pāwhiri i te pūreta whakamutunga.",
+      "gridLabel": "Mātiti pūreta, e {n} ngā rārangi o ngā pūreta e {n}. Whakamahia ngā kī pere hei nuku i waenga i ngā pūreta.",
+      "cell": "{letter}, rārangi {row}, tīwae {col}",
+      "cellFound": ", he wāhanga nō tētahi kupu kua kitea",
+      "wordsHeading": "Ngā kupu hei rapu",
+      "wordFound": " (kua kitea)",
+      "sheetTitle": "Rapu kupu: {theme}",
+      "sheetNote": "Ka takoto whakapae, poutū rānei ngā kupu.",
+      "unavailable": "Kāore te mātiti pūreta e tino tau ana ki tēnei reo, nō reira kāore he rapu kupu i konei. Whakamātauhia kē ngā kēmu whakaahua."
+    },
+    "coloring": {
+      "guidance": "Pāwhiritia tētahi tae, kā tahi ka pāwhiri i tētahi wāhanga o te whakaahua.",
+      "restart": "Whakawāteatia ngā tae",
+      "cleared": "Kua noho wātea anō te whārangi.",
+      "pageLegend": "Whārangi",
+      "print": "Tāngia tēnei whārangi",
+      "colorsLabel": "Ngā tae",
+      "paintChosen": "Kua kōwhiria te {paint}.",
+      "painted": "Kua {paint|lower} ināianei te {part}.",
+      "artLabel": "{page}, e {count} ngā wāhanga hei whakatae",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, kāore anō kia whakataea",
+      "paints": {
+        "red": "Whero",
+        "orange": "Karaka",
+        "yellow": "Kōwhai",
+        "green": "Kākāriki",
+        "blue": "Kikorangi",
+        "purple": "Tūāpore",
+        "pink": "Māwhero",
+        "brown": "Parāone",
+        "sky-blue": "Kikorangi tea",
+        "cream": "Kirīmi",
+        "gray": "Kiwikiwi",
+        "white": "Mā"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Pānuitia ā-waha te kāri. Kāore he whakautu tika, hē rānei.",
+      "position": "Kāri {n} o te {total}",
+      "themeLegend": "Kaupapa",
+      "next": "Kāri e whai ake nei",
+      "previous": "Kāri o mua",
+      "print": "Tāngia ngā kāri katoa",
+      "sheetTitle": "Ngā kāri kōrerorero"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Me mātua kōwhiri i ō whakaahua.",
+      "guidance": "Pāwhiritia tētahi whakaahua, kā tahi ka pāwhiri i tētahi e ōrite ana.",
+      "restart": "Whakaranua anō",
+      "intro": "**Kōwhiria kia 2 ki te 6 ngā whakaahua** mai i tēnei pūrere. Ka whakaaturia ki tēnei whārangi anake, ā, e kore rawa e tukuna, e tiakina rānei.",
+      "choose": "Kōwhiria ētahi whakaahua",
+      "chooseDifferent": "Kōwhiria he whakaahua kē",
+      "clear": "Whakawāteatia ngā whakaahua",
+      "cleared": "Kua whakawāteatia ngā whakaahua mai i tēnei whārangi.",
+      "atLeastTwo": "Tēnā, kōwhiria kia rua neke atu rānei ngā whakaahua.",
+      "usingFirst": "E whakamahi ana i ngā whakaahua tuatahi e {max}.",
+      "skipped": {
+        "one": "Ehara {count} kōnae i te whakaahua ka taea te whakaatu.",
+        "other": "Ehara ngā kōnae e {count} i te whakaahua ka taea te whakaatu."
+      },
+      "playAgain": "Tākaro anō me ēnei whakaahua",
+      "empty": "Ka puta mai ō whakaahua ki konei, kia rua ngā putanga o ia whakaahua."
+    },
+    "pictureBingo": {
+      "guidance": "Me mātua tā ngā kāri. Kātahi ka whakaatu i tēnei kaiwhakahua ki te mata rahi rawa kei a koe.",
+      "called": {
+        "one": "{name}. Kua karangahia {called} o te {total} whakaahua.",
+        "other": "{name}. Kua karangahia {called} o ngā whakaahua e {total}."
+      },
+      "start": "Pāwhiritia \"Whakaahua e whai ake nei\" hei karanga i te whakaahua tuatahi.",
+      "restart": "Tīmatatia he kēmu hōu",
+      "squaresLegend": "Ngā pouaka kei ia kāri",
+      "squares": "E {n} ngā pouaka ({side} ki te {side})",
+      "cardsLegend": "Te maha o ngā kāri hei tā",
+      "cards": {
+        "one": "{n} te kāri",
+        "other": "{n} ngā kāri"
+      },
+      "print": {
+        "one": "Tāngia {n} te kāri pingo",
+        "other": "Tāngia ngā kāri pingo e {n}"
+      },
+      "ready": "Kua rite ina rite mai koe",
+      "next": "Whakaahua e whai ake nei",
+      "allCalled": "Kua karangahia ngā whakaahua katoa",
+      "alreadyCalled": "Kua karangahia kētia",
+      "sheetTitle": "Pingo whakaahua · kāri {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Hā mai ina nui haere te porohita, ka tuku atu ina iti haere. Ka mutu noa i muri i te ono hā.",
+      "paceLegend": "Tere",
+      "paceSlow": "Pōturi (5 hēkona ia ara)",
+      "paceGentle": "Mārire (4 hēkona ia ara)",
+      "ready": "Kua reri ina hiahia koe",
+      "in": "Hā ki roto",
+      "hold": "Okioki",
+      "out": "Hā ki waho",
+      "start": "Tīmata",
+      "stop": "Mutu",
+      "started": "Kua tīmata. Hā mai ina nui haere te porohita.",
+      "stopped": "Kua mutu.",
+      "finished": "Kua ono ngā hā pōturi. Tīmata anō ina hiahia koe."
+    }
+  },
+  "pictures": {
+    "teacup": "Kapu tī",
+    "kettle": "Tīkera",
+    "bread": "Parāoa",
+    "frying-pan": "Paraharaha me te hēki",
+    "cake": "Keke huritau",
+    "sunflower": "Putiputi rā",
+    "tulip": "Tūrīpi whero",
+    "watering-can": "Ipu wai",
+    "potted-plant": "Tipu ipu",
+    "tree": "Rākau",
+    "bird": "Manu iti i te peka",
+    "butterfly": "Pūrerehua",
+    "dog": "Kurī",
+    "cat": "Ngeru",
+    "fish": "Ika kōura",
+    "apple": "Āporo whero",
+    "pear": "Pea",
+    "strawberry": "Rōpere",
+    "banana": "Panana",
+    "lemon": "Rēmana",
+    "cherries": "Tiere",
+    "house": "Whare",
+    "lamp": "Rama tēpu",
+    "armchair": "Tūru ā-ringa",
+    "key": "Kī tawhito",
+    "umbrella": "Amarara",
+    "sailboat": "Waka hēra",
+    "car": "Motokā tawhito",
+    "bicycle": "Pahikara",
+    "balloon": "Poihau wera",
+    "lighthouse": "Whare rama",
+    "sun": "Rā",
+    "moon": "Marama me ngā whetū",
+    "teapot": "Ipu tī",
+    "apple-pie": "Pāi āporo",
+    "honey-jar": "Ipu mīere",
+    "boiled-egg": "Hēki i te kapu",
+    "toaster": "Mīhini tōhi",
+    "cheese": "Tīhi",
+    "milk-jug": "Ipu miraka",
+    "cupcake": "Keke iti",
+    "orange": "Ārani",
+    "grapes": "Kāhui karepe",
+    "watermelon": "Wāhanga merengi",
+    "pineapple": "Painapu",
+    "peach": "Pītiti",
+    "rose": "Rōhi",
+    "daisies": "Puāwai",
+    "mushroom": "Harore",
+    "wheelbarrow": "Pāra wīra",
+    "birdhouse": "Whare manu",
+    "cactus": "Tipu tara i te ipu",
+    "acorn": "Hua oki",
+    "autumn-leaf": "Rau ngahuru",
+    "rabbit": "Rāpeti",
+    "duck": "Pārera",
+    "hen": "Heihei",
+    "sheep": "Hipi",
+    "owl": "Ruru",
+    "ladybird": "Mumutawa",
+    "snail": "Ngata",
+    "frog": "Poraka",
+    "bee": "Pī",
+    "clock": "Karaka",
+    "vase-of-flowers": "Ipu putiputi",
+    "radio": "Rēhio tawhito",
+    "books": "Tāpui pukapuka",
+    "candle": "Kānara",
+    "glasses": "Mōhiti pānui",
+    "telephone": "Waea",
+    "ball-of-wool": "Poi wūru",
+    "straw-hat": "Pōtae rā",
+    "train": "Tereina mamaoa",
+    "bus": "Pahi",
+    "airplane": "Wakarere",
+    "suitcase": "Pēke",
+    "tractor": "Tarakitā",
+    "rowing-boat": "Waka hoe",
+    "rainbow": "Kahukura",
+    "rain-cloud": "Kapua ua",
+    "snowflake": "Whetū huka",
+    "kite": "Manu tukutuku",
+    "sunrise": "Whitinga rā i ngā puke"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "AEGHIKMNOPRTUW",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Hua rākau",
+          "words": [
+            "APORO",
+            "PEA",
+            "PARAMU",
+            "REMANA",
+            "KAREPE",
+            "PITITI",
+            "PANANA",
+            "RAIMA",
+            "PIKI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Māra",
+          "words": [
+            "ROHI",
+            "TURIPI",
+            "KAKANO",
+            "ONEONE",
+            "RAU",
+            "RAKAU",
+            "PUAWAI",
+            "ROTO",
+            "MIERE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kīhini",
+          "words": [
+            "KAPU",
+            "PUNE",
+            "PARAOA",
+            "KOHUA",
+            "IPU",
+            "PERETI",
+            "WAI",
+            "OUMU",
+            "PAOKA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Huarere",
+          "words": [
+            "RAA",
+            "HAU",
+            "KAPUA",
+            "AWHA",
+            "KOHU",
+            "HUKA",
+            "UIRA",
+            "WERA",
+            "MAKUU"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Kararehe",
+          "words": [
+            "KURI",
+            "NGERU",
+            "MANU",
+            "IKA",
+            "HOIHO",
+            "KAU",
+            "PARERA",
+            "KOATI",
+            "HEIHEI"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Kāinga",
+          "words": [
+            "TATAU",
+            "TURU",
+            "RAMA",
+            "MOENGA",
+            "WHARE",
+            "HOOPA",
+            "KARAKA",
+            "TEPU",
+            "WHATA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Ngā kāri katoa",
+        "food": "Kai",
+        "home": "Kāinga",
+        "outdoors": "Waho",
+        "animals": "Kararehe",
+        "travel": "Haere ki ngā wāhi",
+        "work": "Mahi me ngā mahi pārekareka",
+        "music": "Puoro me te ngahau",
+        "seasons": "Ngā kaupeka"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "He aha tētahi kakara o te kīhini e pai ana ki a koe?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "He aha te momo keke ka whiriwhiria e koe mō te whakanui?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Kōrerotia mai tētahi pāi hua rākau, tētahi kai reka rānei e pai ana ki a koe."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "E pēhea ana tō inu tī, kawhe rānei?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "He aha e tino pai ai tētahi parakuihi?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Kua kohia e koe he hua rākau i te tipu?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Te reka, te kawa rānei: ko tēhea e pai ake ana ki a koe?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "He aha tētahi kai he rite tōna reka ki te raumati ki a koe?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Kōrerotia mai tētahi whare i pai ai koe ki te noho."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Kei hea tō wāhi pai ki te noho me te whakangā?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "He aha tāu e pai ai ki te mahi i tētahi ahiahi mārire?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "He aha tētahi taonga ka puritia e koe ki tētahi pouaka motuhake?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ko wai ka tonoa e koe kia haere mai mō tētahi kapu tī?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "He aha tāu e pai ai ki te mahi i tētahi rā ua?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "He aha ngā putiputi ka whakatōhia e koe ki te māra?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Kōrerotia mai tētahi rākau, tētahi papa rēhia rānei e pai ana ki a koe."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "He aha te wāhanga pai rawa o te noho i te māra?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "He aha te tae o ngā putiputi e tino pai ana ki a koe?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "E pai ana ki a koe te whai tipu i roto i te whare?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "He aha tō whakaaro mō tētahi rā paki tino pai?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Kōrerotia mai tētahi kurī kua mōhiotia e koe."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Ngeru, kurī rānei, kāore rānei? He aha ngā mea e pai ana ki a koe mō rāua?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "He aha ngā manu ka kitea, ka rangona rānei e koe i waho?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Kua hī ika koe i mua, kua whai pouaka ika rānei?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "He aha te kararehe tino ātaahua kua kitea e koe?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Kōrerotia mai tētahi motokā i pai ai ki a koe."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "He pai ake ki a koe te whakapau i tētahi rā ki te tahatai, ki ngā maunga rānei?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ki hea koe e pai ai ki te haere mā runga pahikara?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Mēnā ka taea e koe te rere i runga i tētahi wāhi, ko hea tērā?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "He aha tētahi haerenga i pai ai ki a koe?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "He aha tētahi momo mahi i pai ai ki a koe?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "He aha tētahi mahi pārekareka ka taea e koe te mahi mō ngā hāora roa?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "He aha tētahi mea i mōhiotia ai koe mō te hanga, mō te whakatika rānei?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "He aha tētahi tohutohu ka hoatu e koe ki tētahi taiohi ka tīmata ana ki te mahi?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "He aha te momo puoro e hiahia ai koe ki te patipati i ō waewae?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "He aha e tino pai ai tētahi whakangahau?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ko wai tētahi kaiwaiata e pai ana ki a koe ki te whakarongo?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "He aha tētahi kiriata, hōtaka pouaka whakaata rānei e pai ana ki a koe ki te mātakitaki anō?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "He aha tāu e tino pai ai mō te raumati?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "He aha tāu e pai ai mō te ngahuru?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "He aha tētahi mahi whakamahana i te ahiahi hōtoke?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "He aha ngā tohu tuatahi o te kōanga ki a koe?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Huka, ua, rā rānei: ko tēhea e pai ake ana ki a koe?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Putiputi i te ipu",
+          "regions": {
+            "sky": "Muri",
+            "table": "Tēpu",
+            "stem": "Tākau",
+            "leaf-left": "Rau mauī",
+            "leaf-right": "Rau matau",
+            "petal-1": "Pētara 1",
+            "petal-2": "Pētara 2",
+            "petal-3": "Pētara 3",
+            "petal-4": "Pētara 4",
+            "petal-5": "Pētara 5",
+            "petal-6": "Pētara 6",
+            "petal-7": "Pētara 7",
+            "petal-8": "Pētara 8",
+            "center": "Pokapū putiputi",
+            "pot": "Ipu",
+            "pot-rim": "Ngutu ipu"
+          }
+        },
+        "house": {
+          "name": "Whare",
+          "regions": {
+            "sky": "Rangi",
+            "sun": "Rā",
+            "grass": "Pātītī",
+            "chimney": "Putara",
+            "walls": "Pakitara",
+            "roof": "Tuanui",
+            "door": "Tatau",
+            "window-left": "Matapihi mauī",
+            "window-right": "Matapihi matau",
+            "path": "Ara"
+          }
+        },
+        "teacup": {
+          "name": "Kapu tī",
+          "regions": {
+            "background": "Muri",
+            "saucer": "Pereti",
+            "handle": "Kakau",
+            "cup": "Kapu",
+            "band": "Tāhei i te kapu",
+            "tea": "Tī"
+          }
+        },
+        "butterfly": {
+          "name": "Pūrerehua",
+          "regions": {
+            "background": "Muri",
+            "wing-top-left": "Parirau runga mauī",
+            "wing-top-right": "Parirau runga matau",
+            "wing-bottom-left": "Parirau raro mauī",
+            "wing-bottom-right": "Parirau raro matau",
+            "spot-left": "Ira parirau mauī",
+            "spot-right": "Ira parirau matau",
+            "body": "Tinana"
+          }
+        },
+        "sailboat": {
+          "name": "Waka hēra",
+          "regions": {
+            "sky": "Rangi",
+            "sea": "Moana",
+            "sail-big": "Hēra nui",
+            "sail-small": "Hēra iti",
+            "mast": "Tira",
+            "hull": "Waka",
+            "flag": "Haki"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kīhini me te māra",
+          "baskets": [
+            "Kei te kīhini",
+            "Kei te māra"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Huarākau me ngā kararehe",
+          "baskets": [
+            "Huarākau",
+            "Kararehe"
+          ]
+        },
+        "home-travel": {
+          "label": "Kāinga me te haereere",
+          "baskets": [
+            "Kei te kāinga",
+            "Kei te haereere"
+          ]
+        }
+      }
+    }
+  }
+}

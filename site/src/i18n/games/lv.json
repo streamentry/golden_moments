@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Attēlu pāri",
+    "seoTitle": "Pāru meklēšanas spēle cilvēkiem ar demenci: Attēlu pāri",
+    "h1": "Attēlu pāri: mierīga pāru meklēšanas spēle",
+    "description": "Bezmaksas, mierīga pāru meklēšanas spēle cilvēkiem ar demenci. Lieli attēli paliek redzami, nav laika ierobežojuma un punktu skaitīšanas, un jūs varat izvēlēties no 4 līdz 12 lauciņiem.",
+    "short": "Atrodiet divus vienādus attēlus. Attēli var palikt atvērti.",
+    "players": "1 vai 2 cilvēki, blakus viens otram",
+    "intro": "Pieskarieties attēlam, pēc tam pieskarieties otram tādam pašam. Pēc noklusējuma attēli paliek redzami, tāpēc nekas nav jāpatur prātā. Kad divi attēli sakrīt, tie iegūst zelta krāsas maliņu un atzīmi.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Izvēlieties, cik lauciņus izmantot. Četri lauciņi ir mierīgs sākums.",
+      "Pieskarieties jebkuram attēlam. Tas iegūst zelta krāsas maliņu.",
+      "Pieskarieties otram tādam pašam attēlam. Pāris paliek atvērts ar atzīmi.",
+      "Ja abi attēli ir atšķirīgi, nekas slikts nenotiek. Pieskarieties vēlreiz, kad esat gatavi.",
+      "Ieslēdziet „Apslēptie attēli” tikai tad, ja jums abiem patīk klasiskā spēle ar aizvērtām kārtīm."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Kopā nosauciet attēlus vārdā un parunājieties par tiem: „Sarkana tējas tasīte. Vai jūs dzerat tēju ar pienu?”",
+      "Ļaujiet cilvēkam, par kuru rūpējaties, pašam pieskarties ekrānam, pat ja tas prasa laiku. Labāk norādiet ar pirkstu, nevis pieskarieties viņa vietā.",
+      "Spēlējiet ar četriem lauciņiem tik ilgi, kamēr tas sagādā prieku. Vairāk lauciņu ir tikai izvēle, nevis līmenis, kas jāsasniedz.",
+      "Pabeidziet spēli, kamēr tā vēl sagādā prieku. Arī viena spēle jau ir pilnvērtīga nodarbe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vai šeit ir laika skaitītājs vai punkti?",
+        "a": "Nē. Nav ne pulksteņa, ne punktu, ne gājienu skaitītāja, ne zaudēšanas. Jūs varat apstāties jebkurā brīdī, un pabeigt spēli pusceļā ir pilnīgi dabiski."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Kāpēc attēli paliek atvērti?",
+        "a": "Kad attēli ir redzami, spēle kļūst par mierīgu vērošanu un meklēšanu, nevis atcerēšanos. Daudziem tas šķiet patīkamāk un mierīgāk. Ja vēlaties, ar vienu pieskārienu varat ieslēgt paslēptos attēlus."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vai tā ir bez maksas un vai ir jāreģistrējas?",
+        "a": "Jā, tā ir bez maksas, un nav nepieciešams konts, reģistrācija vai lejupielāde. Tā darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Vai varam izmantot savas ģimenes fotogrāfijas?",
+        "a": "Jā. Izmēģiniet spēli „Fotoattēlu pāri”, kurā varat izvēlēties fotogrāfijas no savas ierīces. Fotogrāfijas paliek jūsu pārlūkprogrammā un netiek nekur augšupielādētas."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Atrodi tādu pašu",
+    "seoTitle": "Atrodi tādu pašu attēlu: vienkārša spēle cilvēkiem ar demenci",
+    "h1": "Atrodi tādu pašu attēlu",
+    "description": "Viens attēls augšā, divi līdz četri apakšā. Pieskarieties tam, kas ir tāds pats. Mierīga, bezmaksas attēlu spēle bez laika ierobežojuma cilvēkiem ar demenci.",
+    "short": "Paskatieties uz attēlu augšā un pieskarieties tādam pašam apakšā.",
+    "players": "1 vai 2 cilvēki",
+    "intro": "Ekrāna augšpusē ir viens attēls. Zem tā ir divi, trīs vai četri attēli. Pieskarieties tam, kurš ir tāds pats. Tā ir viena vienkārša izvēle vienā reizē, atstājot pietiekami daudz laika sarunām.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Izvēlieties divus, trīs vai četrus attēlus, no kuriem izvēlēties. Divi ir visvienkāršākais variants.",
+      "Kopā apskatiet attēlu augšpusē.",
+      "Pieskarieties tādam pašam attēlam apakšā. Tas tiek atzīmēts ar ķeksīti un dažiem sirsnīgiem vārdiem.",
+      "Ja tiek nospiests cits attēls, spēle vienkārši to nosauc un gaida. Nesteidzieties.",
+      "Pieskarieties „Nākamais attēls”, kad esat gatavi nākamajam."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Pirms izvēles pārrunājiet katru attēlu: krāsas, formas, kur to varētu redzēt.",
+      "Divas izvēles nav „pārāk viegli”. Mērķis ir patīkams brīdis, nevis pārbaudījums.",
+      "Ja pieskarties ir grūti, cilvēks var norādīt ar pirkstu, un jūs varat pieskarties viņa vietā."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vai šeit ir laika skaitītājs vai punkti?",
+        "a": "Nē. Nav ne pulksteņa, ne punktu, ne gājienu skaitītāja, ne zaudēšanas. Jūs varat apstāties jebkurā brīdī, un pabeigt spēli pusceļā ir pilnīgi dabiski."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kas notiek, ja pieskaras nepareizajam attēlam?",
+        "a": "Nekas nepatīkams. Nav nekādu skaņas signālu, sarkana krustiņa vai vibrācijas. Spēle nosauc izvēlēto attēlu un gaida nākamo pieskārienu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vai tā ir bez maksas un vai ir jāreģistrējas?",
+        "a": "Jā, tā ir bez maksas, un nav nepieciešams konts, reģistrācija vai lejupielāde. Tā darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Ēnu spēle",
+    "seoTitle": "Ēnu meklēšanas spēle cilvēkiem ar demenci: bez maksas tiešsaistē",
+    "h1": "Ēnu spēle: mierīga attēlu spēle",
+    "description": "Tumša ēna augšā, divi līdz četri attēli apakšā. Pieskarieties attēlam, kas atbilst ēnai. Bezmaksas, mierīga ēnu meklēšanas spēle cilvēkiem ar demenci, bez laika ierobežojuma.",
+    "short": "Apskatiet ēnu un pieskarieties attēlam, kas tai atbilst.",
+    "players": "1 vai 2 cilvēki",
+    "intro": "Ēnu meklēšana ir pazīstama nodarbe no drukātām darba lapām, taču šeit attēli ir lieli un nekas nav jādrukā. Ekrāna augšdaļā ir redzama maiga ēna, un apakšā gaida divi, trīs vai četri attēli. Pieskarieties tam, kurš atbilst ēnai. Par tādām formām kā velosipēds, lietussargs vai tējas tasīte ir arī viegli parunāties.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Izvēlieties divus, trīs vai četrus attēlus, no kuriem izvēlēties. Divi ir visvienkāršākais variants.",
+      "Kopā apskatiet ēnu. Kāda ir tās forma? Vai tā ir gara vai apaļa?",
+      "Pieskarieties attēlam, kas atbilst ēnai. Tā nosaukums parādās zem ēnas.",
+      "Ja tiek nospiests cits attēls, spēle vienkārši to nosauc un gaida. Nesteidzieties.",
+      "Pieskarieties „Nākamā ēna”, kad esat gatavi nākamajai."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Ar pirkstu apvelciet ēnas kontūru un aprunājieties par formu.",
+      "Ja ēnas šodien šķiet par grūtu, pārslēdzieties uz spēli „Atrodi tādu pašu”, kur attēli ir vienādi.",
+      "Parunājieties par attēlu, kad tas ir atrasts: „Mums reiz bija tāds lietussargs.”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vai šeit ir laika skaitītājs vai punkti?",
+        "a": "Nē. Nav ne pulksteņa, ne punktu, ne gājienu skaitītāja, ne zaudēšanas. Jūs varat apstāties jebkurā brīdī, un pabeigt spēli pusceļā ir pilnīgi dabiski."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Vai ēnu saskaņošana ir piemērota cilvēkiem ar demenci?",
+        "a": "Dažiem cilvēkiem tā var būt patīkama un vienkārša nodarbe, jo īpaši agrīnā posmā. Formas ir vieglāk atpazīt nekā vārdus. Tā ir paredzēta priekam un sarunām, nevis pārbaudei, un tā neārstē un nepalēnina demenci. Ja tā rada satraukumu, izmēģiniet spēli „Atrodi vienādos” vai vienkārši kopā aplūkojiet attēlus."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kas notiek, ja pieskaras nepareizajam attēlam?",
+        "a": "Nekas nepatīkams. Nav skaņas signālu, sarkanu krustiņu vai vibrācijas. Spēle nosauc attēlu, kuram pieskārāties, un sagaida nākamo pieskārienu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vai tā ir bez maksas un vai ir jāreģistrējas?",
+        "a": "Jā, tā ir bez maksas, un nav nepieciešams konts, reģistrācija vai lejupielāde. Tā darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Šķirosim kopā",
+    "seoTitle": "Šķirošanas spēle cilvēkiem ar demenci: Šķirosim kopā",
+    "h1": "Šķirosim kopā: attēlu šķirošanas nodarbe",
+    "description": "Pieskarieties attēlam un pēc tam grozam, pie kura tas pieder: virtuve vai dārzs, augļi vai dzīvnieki. Mierīga, bezmaksas šķirošanas nodarbe cilvēkiem ar demenci.",
+    "short": "Ievietojiet katru attēlu atbilstošajā grozā: virtuve vai dārzs un daudzi citi.",
+    "players": "1 vai 2 cilvēki",
+    "intro": "Šķirošana ir pazīstams un patīkams ikdienas darbs, gluži kā pirkumu nolikšana vietā vai zeķu sapārošana. Pieskarieties attēlam un pēc tam grozam, pie kura tas pieder. Šeit nav jāsteidzas un nav iespējams kļūdīties.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Izvēlieties tēmu: virtuve un dārzs, augļi un dzīvnieki vai mājas un ceļojumi.",
+      "Pieskarieties attēlam. Tam parādīsies zelta maliņa.",
+      "Pieskarieties grozam, pie kura tas pieder. Attēls pārvietosies uz šo grozu.",
+      "Ja tas pieder pie otra groza, spēle to mierīgi pasaka un pagaida.",
+      "Kad visi attēli ir sašķiroti, kopīgi apskatiet grozu saturu."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Ikdienā bieži vien nemaz nav nepareizu atbilžu. Ja kāds saka, ka lejkannai jābūt virtuvē, pajautājiet, kāpēc tā. Iespējams, uzzināsiet jauku stāstu.",
+      "Izmantojiet attēlus sarunas uzsākšanai: „Ko jūs agrāk audzējāt savā dārzā?”",
+      "Arī īstu priekšmetu šķirošana bez ekrāna, piemēram, karotes un dakšiņas vai pogas pēc krāsas, ir lieliska nodarbe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vai te ir laika skaitītājs vai punkti?",
+        "a": "Nē. Te nav pulksteņa, punktu, gājienu skaitītāja un nav iespējams zaudēt. Varat pārtraukt jebkurā brīdī, un apstāšanās pusceļā ir lielisks veids, kā pabeigt."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Kāpēc tieši šķirošana?",
+        "a": "Daudziem patīk šķirot, jo tas rada sajūtu par noderīgu un pazīstamu nodarbi. Turklāt tās laikā ir viegli aprunāties par attēliem."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vai tā ir bez maksas un vai ir jāreģistrējas?",
+        "a": "Jā, tā ir bez maksas, un nav nepieciešams konts, reģistrācija vai lejupielāde. Tā darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Attēlu puzle",
+    "seoTitle": "Vienkārša puzle cilvēkiem ar demenci: 4 vai 9 gabaliņi",
+    "h1": "Attēlu puzle: viegli saliekama puzle",
+    "description": "Vienkārša tiešsaistes puzle cilvēkiem ar demenci: 4 vai 9 lieli gabaliņi, pilns attēls paliek redzams, un pietiek pieskarties diviem gabaliņiem, lai samainītu tos vietām.",
+    "short": "Pieskarieties diviem gabaliņiem, lai samainītu tos vietām, līdz attēls ir salikts.",
+    "players": "1 vai 2 cilvēki",
+    "intro": "Jauks attēls ir sadalīts četrās vai deviņās lielās daļās un sajaukts. Pilns attēls paliek redzams kā paraugs. Pieskarieties vienam gabaliņam, pēc tam otram, un tie samainīsies vietām. Gabaliņi nav jāvelk.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Izvēlieties attēlu un 4 vai 9 gabaliņus. Četri gabaliņi būs mierīgs sākums.",
+      "Apskatiet pilno attēlu augšpusē.",
+      "Pieskarieties gabaliņam un pēc tam vietai, kur tam jābūt. Abi gabaliņi samainīsies vietām.",
+      "Pareizajā vietā esošie gabaliņi iegūst mazu atzīmi.",
+      "Kad attēls ir salikts, kopīgi papriecājieties par to un izvēlieties nākamo."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Daudziem cilvēkiem pieskarties diviem gabaliņiem, lai samainītu tos vietām, ir daudz vieglāk nekā vilkt.",
+      "Pārrunājiet attēlu, kamēr tas top: „Re, kur sarkanais jumts.”",
+      "Arī īsta koka puzle ar 12 līdz 24 lieliem gabaliņiem ir jauka nodarbe pie galda."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vai te ir laika skaitītājs vai punkti?",
+        "a": "Nē. Te nav pulksteņa, punktu, gājienu skaitītāja un nav iespējams zaudēt. Varat pārtraukt jebkurā brīdī, un apstāšanās pusceļā ir lielisks veids, kā pabeigt."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Vai gabaliņi ir jāvelk?",
+        "a": "Nē. Pieskarieties vienam gabaliņam, pēc tam otram, un tie samainīsies vietām. Tā ir vieglāk, ja roka trīc vai ja ekrāns ir neliels."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vai tā ir bez maksas un vai ir jāreģistrējas?",
+        "a": "Jā, tā ir bez maksas, un nav nepieciešams konts, reģistrācija vai lejupielāde. Tā darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Pabeidz teicienu",
+    "seoTitle": "Pabeidz teicienu: sakāmvārdu spēle senioriem",
+    "h1": "Pabeidz teicienu",
+    "description": "Pazīstami sakāmvārdi ar iztrūkstošu pēdējo vārdu, piemēram, „Mūžu dzīvo, mūžu ___”. Pieskarieties variantam vai apskatiet nobeigumu un parunājieties par to.",
+    "short": "Pabeidziet pazīstamus teicienus kopā un aprunājieties par tiem.",
+    "players": "1, 2 cilvēki vai grupa",
+    "intro": "Veci teicieni un sakāmvārdi bieži paliek atmiņā uz visu mūžu. Katrā kartītē ir redzams pazīstams teiciens bez pēdējā vārda, trīs izvēles varianti un poga „Rādīt nobeigumu”. Pēc nobeiguma parādīšanas seko sirsnīgs jautājums, kas aicina uz sarunu.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Kopīgi izlasiet teicienu skaļi.",
+      "Pieskarieties vārdam, kas to pabeidz, vai nospiediet „Rādīt nobeigumu”.",
+      "Izlasiet visu teicienu vēlreiz un pārrunājiet to, izmantojot rosināto jautājumu.",
+      "Kad esat gatavi, pieskarieties „Nākamais teiciens”."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lasiet lēni un pirms pēdējā vārda ieturiet pauzi. Bieži vien cilvēks to pasaka vēl pirms jūs pabeidzat.",
+      "Ja kāds nosauc citādu nobeigumu, priecājieties par to. Teicienu varianti mēdz atšķirties ģimenēs vai novados.",
+      "Grupā viens cilvēks var lasīt teiciena sākumu, un visi pārējie kopā pasaka nobeigumu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vai te ir laika skaitītājs vai punkti?",
+        "a": "Nē. Šeit nav ne pulksteņa, ne punktu, ne gājienu skaitītāja vai zaudēšanas. Jūs varat apstāties jebkurā brīdī, un nodarbi mierīgi var pabeigt arī pusceļā."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Ko darīt, ja izvēlamies citu vārdu?",
+        "a": "Spēle parāda ierasto nobeigumu un aicina turpināt sarunu. Punkti netiek skaitīti, un arī cita atbilde ir pavisam laba."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vai tas ir bez maksas, un vai ir jāreģistrējas?",
+        "a": "Jā, tas ir bez maksas, un nav nepieciešams konts, reģistrācija vai lejupielāde. Tā darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Vārdu meklēšana lielā drukā",
+    "seoTitle": "Vārdu meklēšana lielā drukā cilvēkiem ar demenci, izdrukājama",
+    "h1": "Vārdu meklēšana lielā drukā",
+    "description": "Bezmaksas vārdu meklēšanas spēle lielā drukā senioriem un cilvēkiem ar demenci. Maz vārdu, lieli burti, vārdi izvietoti tikai horizontāli un vertikāli. Spēlējiet tiešsaistē vai izdrukājiet.",
+    "short": "Lieli burti, daži vārdi, tikai horizontāli un vertikāli. Var arī izdrukāt.",
+    "players": "1 vai 2 cilvēki",
+    "intro": "Neliels laukums ar lieliem burtiem un tikai dažiem vārdiem, kas lasāmi no kreisās uz labo pusi vai no augšas uz leju. Pieskarieties vārda pirmajam burtam un pēc tam pēdējam burtam. Vēlaties darboties uz papīra? Izdrukājiet jaunu mīklu ar vienu pieskārienu.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Izvēlieties tēmu un laukuma izmēru.",
+      "Apskatiet vārdu sarakstu. Vārdi lasāmi horizontāli (no kreisās uz labo pusi) vai vertikāli (no augšas uz leju).",
+      "Pieskarieties vārda pirmajam burtam un pēc tam pēdējam burtam.",
+      "Atrastais vārds tiek iezīmēts un izsvītrots no saraksta.",
+      "Pieskarieties „Izdrukāt šo mīklu”, lai spēlētu uz papīra ar zīmuli vai marķieri."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Norādiet uz vārdu sarakstā un meklējiet tā pirmo burtu kopā.",
+      "Uz papīra marķieri vai flomāsteru ir vieglāk turēt nekā zīmuli.",
+      "Pārrunājiet tēmas vārdus. Piemēram, vārdi par augļiem var dabiski rosināt atmiņas par ogu lasīšanu, kūku cepšanu vai tirgus apmeklējumu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vai šeit ir laika skaitītājs vai punkti?",
+        "a": "Nē. Šeit nav ne pulksteņa, ne punktu, ne gājienu skaitītāja vai zaudēšanas. Jūs varat apstāties jebkurā brīdī, un nodarbi mierīgi var pabeigt arī pusceļā."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Vai vārdu meklēšanu var izdrukāt?",
+        "a": "Jā. Pieskarieties „Izdrukāt šo mīklu”, lai izdrukātu pašreizējo mīklu lielā drukā ar vārdu sarakstu apakšā. Katra jaunā mīkla ir citāda."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vai tas ir bez maksas, un vai ir jāreģistrējas?",
+        "a": "Jā, tas ir bez maksas, un nav nepieciešams konts, reģistrācija vai lejupielāde. Tā darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Krāsojamās lapas",
+    "seoTitle": "Krāsojamās lapas pieaugušajiem ar demenci (bez maksas)",
+    "h1": "Krāsojamās lapas",
+    "description": "Vienkāršas krāsojamās lapas pieaugušajiem ar lieliem laukumiem: pieskarieties krāsai, pēc tam attēlam. Nekādas nekārtības, nav nepareizu krāsu, un katru lapu var izdrukāt bez maksas.",
+    "short": "Pieskarieties krāsai, pēc tam attēla daļai. Lapas var arī izdrukāt.",
+    "players": "1 vai 2 cilvēki",
+    "intro": "Lapas ar lielām, vienkāršām formām: zieds podiņā, māja, tējas krūze, tauriņš un burulaiva. Pieskarieties krāsai, pēc tam attēla daļai, lai to iekrāsotu. Šeit nav nepareizu krāsu.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Izvēlieties lapu.",
+      "Pieskarieties krāsai. Katrai krāsai ir uzrakstīts tās nosaukums.",
+      "Pieskarieties kādai attēla daļai, lai to iekrāsotu izvēlētajā krāsā.",
+      "Jebkurā brīdī varat mainīt izvēli, iekrāsojot laukumu no jauna.",
+      "Pieskarieties „Izdrukāt šo lapu”, lai saņemtu tīru lapu krāsošanai ar zīmuļiem vai flomāsteriem."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Piedāvājiet izvēlēties no divām krāsām, nevis no visa komplekta, ja izvēlēties šķiet par grūtu.",
+      "Violets koks vai zila saule ir pilnīgi vietā. Galvenais ir prieks par krāsām, nevis precizitāte.",
+      "Izdrukātām lapām labi noder biezie marķieri vai vaska krītiņi, kurus ir vieglāk satvert."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vai šeit ir laika skaitītājs vai punkti?",
+        "a": "Nē. Šeit nav ne pulksteņa, ne punktu, ne gājienu skaitītāja vai zaudēšanas. Jūs varat apstāties jebkurā brīdī, un nodarbi mierīgi var pabeigt arī pusceļā."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Vai šīs lapas nav pārāk bērnišķīgas?",
+        "a": "Mēs uzzīmējām mierīgus, vienkāršus priekšmetus, nevis multfilmu tēlus, tāpēc lapas ir piemērotas pieaugušajiem. Lielās formas atvieglo krāsošanu, neradot bērnišķīgu iespaidu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vai tas ir bez maksas, un vai ir jāreģistrējas?",
+        "a": "Jā, tas ir bez maksas, un nav nepieciešams konts, reģistrācija vai lejupielāde. Tā darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Sarunu kartītes",
+    "seoTitle": "Sarunu rosinātāji cilvēkiem ar demenci: attēlu kartītes",
+    "h1": "Sarunu kartītes",
+    "description": "Attēlu kartītes ar iejūtīgiem sarunu rosinātājiem cilvēkiem ar demenci: bez eksaminēšanas, bez pareizām atbildēm. Izmantojiet ekrānā vai izdrukājiet pilnu komplektu.",
+    "short": "Attēlu kartītes ar atvērtiem, iejūtīgiem jautājumiem. Bez zināšanu pārbaudes.",
+    "players": "2 cilvēki vai grupa",
+    "intro": "Katrā kartītē pazīstams attēls ir apvienots ar sirsnīgu aicinājumu parunāties, piemēram: „Kādi laikapstākļi jums patīk vislabāk?” Šeit nav pareizu atbilžu un nekas nav jāatceras. Izvēlieties tēmu vai sajauciet visas kopā.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Izvēlieties tēmu vai atstājiet „Visas kartītes”.",
+      "Nolasiet jautājumu skaļi un apskatiet attēlu kopā.",
+      "Uzklausiet, padalieties ar savu atbildi un ļaujiet sarunai brīvi ritēt.",
+      "Kad esat gatavi, pieskarieties „Nākamā kartīte” vai uzkavējieties pie vienas kartītes tik ilgi, cik vēlaties.",
+      "Pieskarieties „Izdrukāt visas kartītes”, lai izgrieztu papīra komplektu."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Atbildiet uz jautājumu arī pats. Lai tā būtu saruna, nevis izjautāšana.",
+      "Sekojiet stāstam, nevis faktiem. Ja kādas detaļas mainās, tas nekas.",
+      "Ja kartīte aizskar kādas skumjas atmiņas, pieņemiet šīs sajūtas un maigi pārejiet pie citas kartītes."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Kāpēc šeit nav jautājumu „Vai atceraties…?”",
+        "a": "Jautājumi, kas pārbauda atmiņu, var radīt eksāmena sajūtu un mulsumu. Atvērti aicinājumi, piemēram, „Pastāstiet par…”, ļauj iesaistīties ikvienam neatkarīgi no tā, ko izdodas atcerēties."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Vai kartītes var izdrukāt?",
+        "a": "Jā. Izvēle „Izdrukāt visas kartītes” izdrukā visu komplektu lielā drukā, pa vairākām kartītēm lapā, sagatavotas izgriešanai."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vai tas ir bez maksas, un vai ir jāreģistrējas?",
+        "a": "Jā, tā ir bez maksas, un nav nepieciešams konts, reģistrācija vai lejupielāde. Tā darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Fotoattēlu pāri",
+    "seoTitle": "Izveidojiet pāru spēli no ģimenes fotogrāfijām",
+    "h1": "Fotoattēlu pāri: meklējiet savu fotogrāfiju pārus",
+    "description": "Pārvērtiet savas ģimenes fotogrāfijas mierīgā pāru spēlē. Izvēlieties no 2 līdz 6 fotogrāfijām savā ierīcē; tās paliek jūsu pārlūkprogrammā un nekad netiek augšupielādētas.",
+    "short": "Izvēlieties savas fotogrāfijas un meklējiet pārus. Nekas netiek augšupielādēts.",
+    "players": "2 cilvēki, līdzās viens otram",
+    "intro": "Izvēlieties no divām līdz sešām fotogrāfijām no sava tālruņa, planšetdatora vai datora, un tās pārtaps pāru meklēšanas spēlē ar lieliem, labi saskatāmiem attēliem. Fotogrāfijas tiek rādītas tikai šajā lapā. Tās netiek augšupielādētas, saglabātas vai kopīgotas, un tās pazūd, tiklīdz aizverat lapu.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Pieskarieties „Izvēlēties fotogrāfijas” un atlasiet no divām līdz sešām fotogrāfijām.",
+      "Katra fotogrāfija parādās divreiz. Pieskarieties vienai, pēc tam tās pārim.",
+      "Atrodot katru fotogrāfiju, aprunājieties par to.",
+      "Kad esat beiguši, aizveriet lapu vai pieskarieties „Notīrīt fotogrāfijas”. Nekas netiek saglabāts."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Izvēlieties skaidras fotogrāfijas ar patīkamām, pazīstamām lietām: mājdzīvnieku, dārzu, iemīļotu vietu vai kāzu dienu.",
+      "Vietu un priekšmetu attēli var būt vienkāršāki par sejām un nerada spriedzi par cilvēku vārdu atcerēšanos.",
+      "Neizmantojiet aizgājušo tuvinieku fotogrāfijas, ja tās var izraisīt pēkšņas skumjas, ja vien nezināt, ka tās sniedz mierinājumu."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Vai manas fotogrāfijas tiek kaut kur augšupielādētas?",
+        "a": "Nē. Lapa nolasa jūsu izvēlētās fotogrāfijas tieši jūsu pārlūkprogrammā un parāda tās ekrānā. Tās netiek nosūtītas ne mums, ne kādam citam, un tās pazūd, tiklīdz aizverat vai pārlādējat lapu."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Vai šeit ir laika skaitītājs vai punkti?",
+        "a": "Nē. Šeit nav pulksteņa, punktu, gājienu skaitītāja vai zaudēšanas. Jūs varat apstāties jebkurā brīdī, un apstāšanās pusceļā ir pilnīgi dabisks veids, kā pabeigt nodarbi."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Vai varu saglabāt spēli nākamajai reizei?",
+        "a": "Pārlūkprogrammā nē — tas darīts ar nolūku, lai nekas privāts netiktu saglabāts. Bezmaksas lietotne Golden Moments ierīcēm iPhone un iPad var saglabāt atlasīto fotogrāfiju kopijas jūsu ierīcē."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Attēlu bingo",
+    "seoTitle": "Attēlu bingo senioriem ar demenci: izdrukājams",
+    "h1": "Attēlu bingo grupām",
+    "description": "Bezmaksas izdrukājams attēlu bingo atmiņas aprūpes un senioru grupām ar lielu izsaucēja ekrānu. Lieli attēli ar uzrakstiem, 9 vai 16 lauciņi, lasītprasme nav nepieciešama.",
+    "short": "Izdrukājamas attēlu bingo kartītes un liela ekrāna izsaucējs grupām.",
+    "players": "Grupa no 2 līdz 30 cilvēkiem",
+    "intro": "Klasiskais bingo ar attēliem, nevis skaitļiem, lai nevienam nebūtu jālasa sīks teksts. Izdrukājiet unikālu kartīšu komplektu un pēc tam izmantojiet ekrāna izsaucēju, lai rādītu katru attēlu lielā formātā televizorā, klēpjdatorā vai planšetdatorā.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Izvēlieties 9 vai 16 lauciņus vienā kartītē un spēlētāju skaitu.",
+      "Pieskarieties „Drukāt kartītes”. Katra kartīte ir atšķirīga.",
+      "Atveriet izsaucēju lielajā ekrānā. Pieskarieties „Nākamais attēls”, lai parādītu katru attēlu ar tā nosaukumu.",
+      "Dalībnieki pārklāj atbilstošo attēlu savā kartītē ar monētu, pogu vai kauliņu.",
+      "Ikviens, kurš aizpilda rindu vai visu kartīti, saņem aplausus. Šajā versijā zaudētāju nav: turpiniet spēli, līdz katrs ir sakrājis līniju."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Izmantojiet lielus žetonus, piemēram, dambretes kauliņus vai pudeļu vāciņus. Mazas pogas var būt grūti pacelt.",
+      "Nosauciet attēlu un pastāstiet par to kaut ko vairāk: „Buru laiva. Kurš no jums ir braucis ar laivu?”",
+      "Apsēdiniet cilvēkus ar redzes grūtībām tuvāk ekrānam un piesaistiet palīgus tiem dalībniekiem, kuriem tas nepieciešams.",
+      "Deviņi lauciņi ir pilnīgi pietiekami lielākajai daļai grupu. Ieturiet nodarbības ilgumu apmēram no 20 līdz 30 minūtēm."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kā vadīt attēlu bingo aprūpes namā?",
+        "a": "Izdrukājiet vienu kartīti katram dalībniekam, atveriet izsaucēju uz lielākā pieejamā ekrāna un lēnām sauciet attēlus, nosaucot katru vārdā. Spēlējiet, līdz katram ir aizpildīta līnija, lai neviens nejustos atstumts."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Vai to var izdrukāt bez maksas?",
+        "a": "Jā. Drukājiet tik daudz kartīšu, cik nepieciešams, un tik bieži, cik vēlaties, personīgai vai grupas lietošanai."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Vai var spēlēt bez lasīšanas?",
+        "a": "Jā. Katrs lauciņš ir liels attēls ar nosaukumu apakšā tiem, kuriem patīk vārdi."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Mierīga elpošana",
+    "seoTitle": "Mierīgas elpošanas pauze senioriem un aprūpētājiem",
+    "h1": "Mierīgas elpošanas pauze",
+    "description": "Lēna, klusa elpošanas pauze, ko piedzīvot kopā: maigs aplis izplešas un saraujas sešu elpas vilcienu laikā. Jūs to sākat un varat apturēt jebkurā brīdī.",
+    "short": "Lēns aplis, kuram elpot līdzi. Sāciet un apturiet, kad vien vēlaties.",
+    "players": "1 vai 2 cilvēki",
+    "intro": "Dažreiz vislabākā nodarbe ir klusa pauze. Pieskarieties „Sākt”, pēc tam ieelpojiet, aplim izplešoties, un izelpojiet, kad tas saraujas. Izvēlieties lēnāku vai straujāku tempu. Tā nav ārstēšana, tikai mierīgs mirklis, ko pavadīt kopā.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Apsēdieties ērti līdzās viens otram.",
+      "Izvēlieties tempu: lēnu vai rāmu.",
+      "Pieskarieties „Sākt”. Ieelpojiet, kamēr aplis izplešas, un izelpojiet, kamēr tas saraujas.",
+      "Tas apstājas pats pēc sešiem elpas vilcieniem, vai arī pieskarieties „Apturēt”, kad vien vēlaties."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Sadodiet rokas vai uzlieciet roku uz otra cilvēka rokas, ja viņam tas ir patīkami.",
+      "Nekad neuzstājiet. Ja cilvēks labprātāk vēlas tikai skatīties, tas ir pilnīgi pieņemami.",
+      "Ja kādam ir elpošanas grūtības, elpojiet parastā ritmā un vienkārši vērojiet apli. Ja rodas bažas par elpošanu, konsultējieties ar ārstu."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Vai šis ir medicīnisks elpošanas vingrinājums?",
+        "a": "Nē. Tā ir vienkārša, brīvprātīga pauze mieram un kopā būšanai. Tā nav trauksmes vai kādas citas veselības problēmas ārstēšana. Par veselības jautājumiem konsultējieties ar ārstu."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Vai aplis sāk kustēties bez manas palaišanas?",
+        "a": "Nē. Nekas nekustas, kamēr nepieskaraties „Sākt“, un tas apstājas pēc sešiem elpas vilcieniem vai tad, kad pieskaraties „Apturēt“. Ja jūsu ierīcē ir ieslēgta kustību samazināšana, vārdi mainās, bet aplis nepalielinās."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Vai tas ir bez maksas, un vai man ir jāreģistrējas?",
+        "a": "Jā, tas ir bez maksas, un nav vajadzīgs ne konts, ne reģistrācija, ne lejupielāde. Tas darbojas tīmekļa pārlūkprogrammā tālrunī, planšetdatorā vai datorā."
       }
     ]
   }

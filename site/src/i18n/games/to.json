@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Ngaahi ata tatau",
+    "seoTitle": "Kemu Fakatatau ki he Mahaki ʻo e Ngalo: Ngaahi Ata Tatau",
+    "h1": "Ngaahi Ata Tatau: Ko e Kemu Fakatatau Malu",
+    "description": "Ko ha kemu fakatatau ta'etotongi pea malu ki he kakai ʻoku ʻi ai ʻa e mahaki ʻo e ngalo. ʻOku tuʻu maʻu ʻa e ngaahi ata lalahi, ʻikai ha taimi pe pointi, pea ʻoku ke fili ai ʻa e ngaahi kupu ʻe 4 ki he 12.",
+    "short": "Kumi ʻa e ngaahi ata ʻe ua ʻoku tatau. ʻE lava ke tuʻu maʻu ʻa e ngaahi ata.",
+    "players": "Kakai ʻe 1 pe 2, ʻi he tafaʻaki ʻe ua",
+    "intro": "Tūtuki ʻa e ata, pea tūtuki ʻa e ata ʻoku tatau mo ia. ʻI he taimi ʻoku ʻi ai ha ngaahi ata ʻe ua ʻoku fetaulaki, ʻe ʻi ai ha makomako ʻi he tuʻunga koula mo e tiki.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Filifili ʻa e lahi ʻo e ngaahi kupu ʻe fakaʻaongaʻi. Ko e kupu ʻe fā ko ha potu fiemālie ke kamata ai.",
+      "Tūtuki ʻa e ata ʻoku ke fie. ʻE ʻi ai ha tuʻunga koula.",
+      "Tūtuki ʻa e ata ʻoku hangē ia. ʻE tuʻu ʻa e ongo ata ni fakataha ʻi ha tiki.",
+      "Kapau ʻoku kehe ʻa e ongo ata, ʻoku ʻikai ha me'a ʻikai lelei. Tūtuki toe ʻi he taimi ʻoku ke loto ai.",
+      "Fakaʻaongaʻi ʻa e \"Ngaahi ata fufū\" pe ko e taimi ʻe fiemālie ai ʻa kimoutolu ʻi he founga motuʻa ʻoku fufū ai ʻa e ngaahi ata."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Lea ki he ngaahi ata fakataha pea talanoa ki ai: \"Ko e kapu teā kulokula. ʻOku ke inu teā mo e mīliki?\"",
+      "Fakaʻatā ke ko e tangata pe fefine ʻoku ke tokangaʻi ke ne tūtuki, neongo ʻe fuoloa. Fakahā ʻaki ʻa e fakaʻikai ʻi he tūtuki maʻana.",
+      "Tuʻu ʻi he ngaahi kupu ʻe fā ʻo fuoloa ʻi he taimi ʻoku lelei ai. Ko e ngaahi kupu lahi ange ko ha filifili, ʻikai ko ha tuʻunga ke ʻai.",
+      "Fakaʻosi ʻi he taimi ʻoku ʻi ai pe ʻa e fiefia. Ko ha kemu ʻe taha ko ha ngaue kakato."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ʻOku ʻi ai ha taimi pe ha pointi?",
+        "a": "ʻIkai. ʻOku ʻikai ha uasi, pointi, kaunga ʻo e ngaahi tūtuki, pe ʻikai ha faingata'a. ʻOku lava ke ke tuku ʻi ha taimi ʻe taha, pea ko e tuku ʻi he vahaʻa ko ha founga lelei ke fakaʻosi ai."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Ko e hā ʻoku tuʻu ai ʻa e ngaahi ata ʻi ʻolunga?",
+        "a": "Ko e tuʻu maʻu ʻa e ngaahi ata ʻe fakaʻikai ai ke sio mo fakatatau, ʻikai ko ha ngaue ke manatu. ʻOku lau ʻe he tokolahi ʻoku fiemālie ange ai. ʻE lava ke ke liliu ki he ngaahi ata fufū ʻi he tūtuki ʻe taha, kapau ʻoku ke fie."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ʻOku ta'etotongi ia, pea ʻoku fie ʻi ai ha lesisita?",
+        "a": "ʻIo, ʻoku ta'etotongi ia, pea ʻoku ʻikai ha ʻakaunti, ʻikai ha lesisita, pe ʻikai ha download. ʻOku ngaue ia ʻi he ʻesi initaneti ʻi he telefoni, tapale pe kompiuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Te tau lava ʻo ngaueʻaki ʻetau ngaahi ata ʻo e fāmili?",
+        "a": "ʻIo. Fakaʻaongaʻi ʻa e \"Ngaahi ata ʻo e fāmili\", ʻa ia ʻe lava ai ke ke fili ngaahi ata mei ho telefoni pe kompiuta. ʻOku tuku ʻa e ngaahi ata ʻi he ʻesi initaneti pea ʻikai ʻave ki ha potu kehe."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Kumi ʻa e tatau",
+    "seoTitle": "Kumi ʻa e Ata Tatau: Ko ha Kemu Faingofua ki he Mahaki ʻo e Ngalo",
+    "h1": "Kumi ʻa e Ata Tatau",
+    "description": "Ko e ata ʻe taha ʻi ʻolunga, ko e ua ki he fā ʻi lalo. Tūtuki ʻa e ata ʻoku tatau. Ko ha kemu fiemālie pea ta'etotongi ʻa e ngaahi ata ki he kakai ʻoku ʻi ai ʻa e mahaki ʻo e ngalo, ʻikai ha taimi.",
+    "short": "Vakai ki he ata ʻi ʻolunga pea tūtuki ʻa e ata tatau ʻi lalo.",
+    "players": "Kakai ʻe 1 pe 2",
+    "intro": "ʻOku tuʻu ʻa e ata ʻe taha ʻi ʻolunga ʻo e siritini. ʻI lalo ʻe ua, tolu pe fā ʻa e ngaahi ata. Tūtuki ʻa e ata ʻoku tatau. Ko ha filifili faingofua ʻi he taimi ʻe taha, mo e potu lahi ki he talanoa.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Filifili ʻa e ngaahi ata ʻe ua, tolu pe fā ke filifili mei ai. Ko e ua ko e faingofua taha.",
+      "Vakai ki he ata ʻi ʻolunga fakataha.",
+      "Tūtuki ʻa e ata tatau ʻi lalo. ʻE ʻi ai ha makomako mo ha ngaahi lea fakafiefia siʻisiʻi.",
+      "Kapau ʻe tūtuki ʻa e ata ʻoku kehe, ʻe lea pe ʻa e kemu ki he ata kuo tūtuki pea ʻe tuʻu ʻo faʻa talitali. Fakaʻaʻau ʻa e taimi.",
+      "Tūtuki ʻa e \"Ata hoko\" ʻi he taimi ʻoku ke loto ai ki ha taha kehe."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Talanoa ki he ata kotoa pē ki mu'a ke filifili: ngaahi lanu, ngaahi fo'i, ʻi fē ʻoku mahino ai ke ke sio ki ai.",
+      "Ko e ngaahi filifili ʻe ua ʻikai ko e \"faingofua lahi\". Ko e taumuʻa ko ha taimi fiemālie, ʻikai ko ha faingataʻa.",
+      "Kapau ʻoku faingataʻa ʻa e tūtuki, ʻe lava ke tuʻu ʻa e tangata pe fefine ʻo fakahā, pea te ke tūtuki maʻana."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ʻOku ʻi ai ha taimi pe ha pointi?",
+        "a": "ʻIkai. ʻOku ʻikai ha uasi, pointi, kaunga ʻo e ngaahi tūtuki, pe ʻikai ha faingataʻa. ʻOku lava ke ke tuku ʻi ha taimi ʻe taha, pea ko e tuku ʻi he vahaʻa ko ha founga lelei ke fakaʻosi ai."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ko e hā ʻe hoko kapau ʻoku tūtuki ʻa e ata hala?",
+        "a": "ʻOku ʻikai ha me'a ʻikai fiemālie. ʻOku ʻikai ha uasi, ʻaʻau kulokula, pe ʻuhinga ke mahaʻi. ʻOku lea ʻa e kemu ki he ata kuo tūtuki pea tuʻu ʻo ʻeke ʻa e tūtuki hoko."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ʻOku ta'etotongi ia, pea ʻoku fie ʻi ai ha lesisita?",
+        "a": "ʻIo, ʻoku ta'etotongi ia, pea ʻoku ʻikai ha ʻakaunti, ʻikai ha lesisita, pe ʻikai ha download. ʻOku ngaue ia ʻi he ʻesi initaneti ʻi he telefoni, tapale pe kompiuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Fakatatau ʻaka",
+    "seoTitle": "Kemu Fakatatau ʻAka ki he Mahaki ʻo e Ngalo: Ta'etotongi ʻi he Initaneti",
+    "h1": "Fakatatau ʻAka: Ko ha Kemu Ata Malu",
+    "description": "Ko e ʻaka poʻuli ʻi ʻolunga, ko e ngaahi ata ʻe ua ki he fā ʻi lalo. Tūtuki ʻa e ata ʻoku ʻai ai ʻa e ʻaka. Ko ha kemu fakatatau ʻaka malu pea ta'etotongi ki he mahaki ʻo e ngalo, ʻikai ha taimi.",
+    "short": "Vakai ki he ʻaka pea tūtuki ʻa e ata ʻoku ʻai ai ia.",
+    "players": "Kakai ʻe 1 pe 2",
+    "intro": "Ko e fakatatau ʻaka ko ha ngaue ʻoku ʻiloa mei he ngaahi pepa ʻoku paʻi, ka ʻi heni ʻoku ʻaonga ʻaki ʻa e ngaahi ata lalahi pea ʻikai ha paʻi. ʻOku tuʻu ʻa e ʻaka malu ʻi ʻolunga ʻo e siritini pea ʻoku ʻi lalo ʻa e ngaahi ata ʻe ua, tolu pe fā. Tūtuki ʻa e ata ʻoku ʻai ai ʻa e ʻaka. ʻOku faingofua ke talanoa ki he ngaahi fo'i hangē ko e pasikoolo, ʻumipela, pe kapu teā.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Filifili ʻa e ngaahi ata ʻe ua, tolu pe fā ke filifili mei ai. Ko e ua ko e faingofua taha.",
+      "Vakai ki he ʻaka fakataha. Ko e hā ʻa e fo'i ʻo ia? ʻOku māʻolunga pe mōʻui?",
+      "Tūtuki ʻa e ata ʻoku ʻai ai ʻa e ʻaka. ʻE hā ʻa e hingoa ʻo ia ʻi lalo ʻo e ʻaka.",
+      "Kapau ʻoku tūtuki ʻa e ata kehe, ʻe lea pe ʻa e kemu ki ai pea tuʻu ʻo ʻeke. Fakaʻaʻau ʻa e taimi.",
+      "Tūtuki ʻa e \"ʻAka hoko\" ʻi he taimi ʻoku ke loto ai ki ha taha kehe."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Hiki ʻa e tuʻunga ʻo e ʻaka ʻaki ʻa e fingota pea talanoa ki he fo'i.",
+      "Kapau ʻoku faingataʻa ʻa e ngaahi ʻaka ʻi he ʻaho ni, liliu ki he \"Kumi ʻa e tatau\", ʻa ia ʻoku hangē ai ʻa e ngaahi ata.",
+      "Talanoa ki he ata ʻi he taimi kuo ʻilo ai: \"Naʻe ʻi heni ʻa e ʻumipela pehē ʻi homau fale.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ʻOku ʻi ai ha taimi pe ha pointi?",
+        "a": "ʻIkai. ʻOku ʻikai ha uasi, pointi, kaunga ʻo e ngaahi tūtuki, pe ʻikai ha faingataʻa. ʻOku lava ke ke tuku ʻi ha taimi ʻe taha, pea ko e tuku ʻi he vahaʻa ko ha founga lelei ke fakaʻosi ai."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Ko e fakatatau ʻa e ʻata malu ʻoku lelei ki he kakai mo e dementia?",
+        "a": "ʻE lava ke fiefia ʻaupito ia ki ha niʻihi, makehe ʻi he ngaahi taimi ʻo e kamata. ʻOku faingofua ange ke ʻilo ʻa e ngaahi vaʻa ʻi he ngaahi lea. Ko e meʻa ʻeni ke fiefia ai mo fetalanoa, ʻaʻikai ko ha fakatotolo, pea ʻoku ʻikai ia ke fakalelei pe fakatuʻuloa ʻa e dementia. Kapau ʻe langa ʻa e mamahi, ngāue ki he Kumi ʻa e tatau pe sio fakataha ki he ngaahi ʻata."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Ko e hā ʻe hoko kapau ʻe taʻo ʻa e ʻata hala?",
+        "a": "ʻOku ʻikai ha meʻa ʻoku mamahi. ʻOku ʻikai ha tangi, ʻaʻa kulokula pe ngaue ʻo e ngaahi meʻa. ʻOku fakahā ʻe he vaʻinga ʻa e ʻata ʻi he taʻo pea tali ʻa e taʻo hoko ʻe taha."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ʻOku totongi ia, pea ʻoku fiemaʻu ke ke tuʻu ʻi ha lēsisita?",
+        "a": "ʻIo, ʻoku ta’etotongi, pea ʻoku ʻikai ha ʻaunti, fakahingoa pe download. ʻE ngāue ia ʻi he browser ʻi ha telefoni, teupolo pe kompiuta."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Fakatatau fakataha",
+    "seoTitle": "Vaʻinga Fakatatau ki he Dementia: Fakatatau Fakataha",
+    "h1": "Fakatatau Fakataha: Ko e Ngaue Fakatatau ʻo e ʻAta",
+    "description": "Taʻo ha ʻata, pea taʻo ʻaki ʻa e kato ʻoku fe’unga mo ia: fale kuka pe ngoue, fua pe manu. Ko ha ngaue fakatatau melino mo ta’etotongi ki he kakai mo’ui mo e dementia.",
+    "short": "Fakatatau ʻa e ʻata kotoa ki hono kato: fale kuka pe ngoue, mo e ni’ihi kehe.",
+    "players": "1 pe 2 ha kakai",
+    "intro": "Ko e fakatatau ko ha ngaue ʻoku ʻiloa pea fiefia ki ai, hangē ko e teuteu ʻo e koloa fakatau pe fakatatau ʻo e kofu. Taʻo ha ʻata, pea taʻo ʻaki ʻa e kato ʻoku ʻi ai. ʻOku ʻikai ha vave pe hala ʻe fai.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Filifili ha kaveinga: fale kuka mo e ngoue, fua mo e manu, pe fale mo e fononga.",
+      "Taʻo ha ʻata. ʻE ʻi ai ha tafa koula ʻoku ʻaʻana.",
+      "Taʻo ʻaki ʻa e kato ʻoku fe’unga mo ia. ʻE fakahoko ʻa e ʻata ki he kato ko iá.",
+      "Kapau ʻoku ʻi he kato kehe, ʻe fakahā melino ʻe he vaʻinga pea ʻe tatali.",
+      "Hili ʻa e fakatatau ʻo e ʻata kotoa, sio fakataha ki he ngaahi kato."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "ʻOku faʻa ʻikai ha tali hala ʻi he moʻui fakafonua. Kapau ʻe pehē ʻe ha taha ʻoku tatau ʻa e kapu vai mo e fale kuka, fehuʻi pe ko e hā. ʻE lava ke ke maʻu ha talanoa lelei.",
+      "Fakaʻaongaʻi ʻa e ngaahi ʻata ko e fakamanatu: “Ko e hā ne mou tupu ʻi ho ngoue?”",
+      "Ko e fakatatau ʻo e ngaahi meʻa moʻoni, hangē ko e ngaahi kutu mo e ngaahi foli, pe ngaahi tulituli ʻaki ʻa e lanu, ko ha ngaue lelei ʻi tua ʻo e skrini."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ʻOku ʻi ai ha taimi pe ngaahi tohi?",
+        "a": "ʻIkai. ʻOku ʻikai ha kloki, tohi, kaunga ʻo e ngaue, pe ha hia. ʻE lava ke ke fakamavahe ʻi ha taimi pe, pea ko e fakamavahe ʻi he feituʻu ko ha founga lelei ke fakaʻosi ai."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Ko e hā ʻoku fakatatau ai?",
+        "a": "ʻOku fiefia ai ʻa e tokolahi ʻi he fakatatau, koeʻuhi ʻoku hangē ia ko ha ngaue ʻaonga pea ʻiloa. ʻOku faingofua foki ke fetalanoa ki he ngaahi ʻata ʻi he fai ʻo e ngaue."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ʻOku totongi ia, pea ʻoku fiemaʻu ke ke tuʻu ʻi ha lēsisita?",
+        "a": "ʻIo, ʻoku ta’etotongi, pea ʻoku ʻikai ha ʻaunti, fakahingoa pe download. ʻE ngāue ia ʻi he browser ʻi ha telefoni, teupolo pe kompiuta."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle ʻata",
+    "seoTitle": "Puzzle Faingofua ki he Dementia: 4 pe 9 Potu",
+    "h1": "Puzzle ʻAta: Ko ha Puzzle Faingofua",
+    "description": "Ko ha puzzle faingofua ʻi he laine ki he kakai mo’ui mo e dementia: potu lahi ʻe 4 pe 9, ʻoku sio ʻa e ʻata kotoa, pea taʻo ʻe ua ke fetongi ai.",
+    "short": "Taʻo ʻe ua ha potu ke fetongi ai kae oʻi ʻa e ʻata.",
+    "players": "1 pe 2 ha kakai",
+    "intro": "ʻOku vahevahe ʻa ha ʻata fakafiefia ki he potu ʻe fā pe iva lahi, pea fakafefeki. ʻOku sio ʻa e ʻata kotoa ko ha fakahinohino. Taʻo ha potu, pea taʻo ha potu kehe, pea ʻe fetongi ʻenau feituʻu. ʻOku ʻikai fiemaʻu ke toʻo.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Filifili ha ʻata mo e potu ʻe 4 pe 9. Ko e fā ko ha kamata melino.",
+      "Sio ki he ʻata kotoa ʻi ʻolunga.",
+      "Taʻo ha potu, pea taʻo ʻa e feituʻu ʻoku totonu ki ai. ʻE fetongi ʻa e potu ʻe ua.",
+      "ʻOku maʻu ʻe he potu ʻoku ʻi he feituʻu totonu ha tohi tikeʻi iiki.",
+      "Hili ʻa e kakato ʻo e ʻata, fiefia fakataha ai, pea filifili ha ʻata kehe."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "ʻOku faingofua ʻaupito ki he tokolahi ke taʻo ʻe ua ʻa e potu ke fetongi kae ʻikai ke toʻo.",
+      "Talanoa ki he ʻata ʻi he taimi ʻoku kakato ai: “ʻOku ʻi ai ʻa e tuʻa kulokula.”",
+      "Ko ha puzzle ʻakau moʻoni ʻe 12 ki he 24 ko e potu lahi ko ha ngaue lelei ʻi he laupapa foki."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ʻOku ʻi ai ha taimi pe ngaahi tohi?",
+        "a": "ʻIkai. ʻOku ʻikai ha kloki, tohi, kaunga ʻo e ngaue, pe ha hia. ʻE lava ke ke fakamavahe ʻi ha taimi pe, pea ko e fakamavahe ʻi he feituʻu ko ha founga lelei ke fakaʻosi ai."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "ʻOku fiemaʻu ke toʻo ʻa e potu?",
+        "a": "ʻIkai. Taʻo ha potu, pea taʻo ha potu kehe, pea ʻe fetongi ʻenau feituʻu. ʻOku faingofua ʻaupito ʻi he nima ʻoku ngingila pe ʻi ha skrini iiki."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ʻOku totongi ia, pea ʻoku fiemaʻu ke ke tuʻu ʻi ha lēsisita?",
+        "a": "ʻIo, ʻoku ta’etotongi, pea ʻoku ʻikai ha ʻaunti, fakahingoa pe download. ʻE ngāue ia ʻi he browser ʻi ha telefoni, teupolo pe kompiuta."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Fakaʻosi ʻa e lea",
+    "seoTitle": "Fakaʻosi ʻa e Lea: Vaʻinga Lea Fakatuʻutuʻuni ki he Kakai Motua",
+    "h1": "Fakaʻosi ʻa e Lea",
+    "description": "Ko e ngaahi lea fakatuʻutuʻuni ʻoku ʻiloa ʻaupito, ʻo ʻikai ha lea ʻi he fakaʻosinga. Taʻo ha filifili pe fakahā ʻa e fakaʻosinga, pea fetalanoa ki ai.",
+    "short": "Fakaʻosi ʻa e ngaahi lea ʻoku ʻiloa fakataha, pea fetalanoa ki ai.",
+    "players": "1, 2 pe ha kulupu",
+    "intro": "ʻOku faʻa ʻiloa ʻa e ngaahi lea ko ia ʻi he moʻui kotoa. ʻOku ʻi he kāte kotoa ha lea ʻoku ʻiloa, ʻo ʻikai ha lea ʻi he fakaʻosinga, ngaahi tali ʻe tolu, mo e patani “Fakahā ʻa e fakaʻosinga”. Hili ʻa e fakaʻosinga, ʻoku ʻi ai ha fehuʻi melino ke fakalotolahi ai ʻa e fetalanoa.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lau ʻa e lea leva ʻo fakataha.",
+      "Taʻo ʻa e lea ʻoku fakaʻosi ai, pe taʻo “Fakahā ʻa e fakaʻosinga”.",
+      "Lau ʻa e lea kotoa leva ʻo fetalanoa ʻaki ʻa e fehuʻi.",
+      "Taʻo “Lea hono hoko” ʻi he taimi ʻoku ke teuteu ai."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lau melino pea tuku ha taimi ki muʻa he lea fakaʻosi. ʻOku faʻa lea ʻa e tokotaha ki ai ʻi muʻa ke ke fakaʻosi.",
+      "Kapau ʻe foaki ha fakaʻosinga kehe, fiefia ki ai. ʻOku kehekehe ʻa e ngaahi lea ʻi he famili pe feituʻu.",
+      "ʻI ha kulupu, ko e taha ʻe lau, pea ko e kakai kotoa ʻe kau ʻi he fakaʻosinga."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ʻOku ʻi ai ha taimi pe ngaahi tohi?",
+        "a": "Ikai. ʻOku ʻikai ha taimi, ha sikoa, ha kaunga ngaahi fakahoko pe ha tō. ʻE lava ke ke tuku ʻi ha taimi pe, pea ko e tuku ʻi he vaha‘a ko ha founga lelei ia ke fakaʻiku ai."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Kapau te tau fili ha kupu kehe?",
+        "a": "‘E hā atu ‘e he kemi ‘a e ngata‘anga ‘o hangē ko e founga ‘oku tau ‘ai, pea ‘e ‘alu leva ki he talanoa. ʻOku ʻikai ha sikoa, pea ʻoku lelei pe ha tali kehe."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ko e koloa ia, pea ʻoku fiemaʻu ke ke fakahingoa?",
+        "a": "ʻIo, ʻoku koloa ia, pea ʻoku ʻikai ha ʻakaunti, fakahingoa pe ha taʻa. ʻE ngāue ʻi he kemi ʻi he telefoni, tapolo pe kompiuta."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Faʻalo kupu tohi lahi",
+    "seoTitle": "Faʻalo Kupu Tohi Lahi ki he Mahaki ʻo e ʻAtamai, ʻE Lava ke Taʻi",
+    "h1": "Faʻalo Kupu Tohi Lahi",
+    "description": "Faʻalo kupu tohi lahi ʻoku koloa ʻikai ki he kakai motua mo e kakai ʻoku ma‘u ʻa e mahaki ʻo e ʻatamai. Tohi lahi, kupu si‘i pe, ʻalu hake pe lalo pe. Taʻi ʻi he initaneti pe lolomi.",
+    "short": "Tohi lahi, kupu si‘i, ʻalu hake pe lalo pe. Lolomi ʻaki foki.",
+    "players": "1 pe 2 kakai",
+    "intro": "Potu si‘i ʻoku ʻi ai ʻa e tohi lahi mo e kupu si‘i pe nai, ʻoku ʻalu kotoa ʻi he fakafeituʻu pe lalo. Tā ʻa e tohi ʻuluaki ʻo e kupu, pea tā ʻa e tohi hope. Fiemaʻu ke taʻi ʻi he pepa? Lolomi ha puzzle foʻou ʻi ha tā pe.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Fili ha kaveinga mo e lahi ʻo e potu.",
+      "Vakai ki he lisi ʻo e kupu. ʻOku tohi ʻa e kupu fakafeituʻu (mei he taha ki he taha) pe lalo (mei ʻolunga ki lalo).",
+      "Tā ʻa e tohi ʻuluaki ʻo e kupu, pea tā ʻa e tohi hope.",
+      "Ko e kupu kuo ʻilo‘i ʻoku ʻai ke mā‘oluolu, pea ʻoku tā ʻi he lisi.",
+      "Tā ʻa “Lolomi e puzzle ni” ke taʻi ʻi he pepa mo e penisolo pe mākā."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Tā ki ha kupu ʻi he lisi, pea vakai ki hono tohi ʻuluaki fakataha.",
+      "ʻI he pepa, ʻoku faingofua ange ke ʻai ha mākā lanu ke fakamāmaʻi ha kupu.",
+      "Talanoa ki he ngaahi kupu ʻo e kaveinga. Ko e kupu ʻo e fua ʻoku ʻai ke fakamanatu ki he tanu, kuki pe maketi."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ʻOku ʻi ai ha taimi pe sikoa?",
+        "a": "Ikai. ʻOku ʻikai ha taimi, ha sikoa, ha kaunga ngaahi fakahoko pe ha tō. ʻE lava ke ke tuku ʻi ha taimi pe, pea ko e tuku ʻi he vaha‘a ko ha founga lelei ia ke fakaʻiku ai."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "ʻE lava ke u lolomi ʻa e faʻalo kupu?",
+        "a": "ʻIo. Tā ʻa “Lolomi e puzzle ni” ke lolomi ʻa e kupu ʻoku ʻi he taimi ni ʻi he tohi lahi, mo e lisi ʻo e kupu ʻi lalo. ʻOku kehe ʻa e puzzle kotoa ʻi he taimi kotoa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ʻOku koloa ia, pea ʻoku fiemaʻu ke ke fakahingoa?",
+        "a": "ʻIo, ʻoku koloa ia, pea ʻoku ʻikai ha ʻakaunti, fakahingoa pe ha taʻa. ʻE ngāue ʻi he kemi ʻi he telefoni, tapolo pe kompiuta."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Ngaahi peesi lanu",
+    "seoTitle": "Ngaahi Peesi Lanu ki he Kakai Motua ʻoku Maʻu ʻa e Mahaki ʻo e ʻAtamai (ʻOku ʻikai totongi)",
+    "h1": "Ngaahi Peesi Lanu",
+    "description": "Ngaahi peesi lanu faingofua ki he kakai motua ʻoku ʻi ai ha potu lahi: tā ʻa e lanu, pea tā ʻa e konga ʻo e tāʻā. ʻOku ʻikai ha lanu hala, pea ʻe lava ke lolomi ʻa e peesi kotoa ʻoku ʻikai totongi.",
+    "short": "Tā ʻa e lanu, pea tā ʻa e konga ʻo e tāʻā. ʻE lava foki ke lolomi ʻa e peesi.",
+    "players": "1 pe 2 kakai",
+    "intro": "Peesi ʻoku ʻi ai ʻa e ngaahi tāʻā lahi mo faingofua: ko e fuá ʻi he ipu, ko e fale, ko e tī ʻoku ʻi ha ipu, ko e pepe, mo e vaka lauʻi. Tā ʻa e lanu, pea tā ha konga ʻo e tāʻā ke fakakīʻi ia. ʻOku ʻikai ha lanu hala.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Fili ha peesi.",
+      "Tā ha lanu. ʻOku tohi ʻa e hingoa ʻo e lanu ʻi he lanu ko iá.",
+      "Tā ha konga ʻo e tāʻā ke fakakīʻi ia ʻaki e lanu ko iá.",
+      "Ke liliu hoʻo loto ʻi ha taimi pe, fakakīʻi ʻa e konga ko iá ʻi ha lanu kehe.",
+      "Tā ʻa “Lolomi e peesi ni” ke maʻu ha peesi mataʻa ke lanu ʻaki ʻa e penisolo pe mākā."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "ʻOku talia ʻa e ngaahi ʻakau lanu pulu mo e la lanu lanu. Ko e fiefia ʻi he lanu ʻoku fiemaʻu, ʻikai ko e totonu.",
+      "Ke ʻikai faingata‘a ke fili, ʻe lelei ke ʻai ha lanu ʻe ua ke fili, ʻikai ha seti kotoa.",
+      "Ko e peesi kuo lolomi ʻoku lelei ke fakatokaʻi mo e penisolo mafana pe mākā lahi, ʻoku faingofua ange ke puke."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ʻOku ʻi ai ha taimi pe sikoa?",
+        "a": "Ikai. ʻOku ʻikai ha taimi, ha sikoa, ha kaunga ngaahi fakahoko pe ha tō. ʻE lava ke ke tuku ʻi ha taimi pe, pea ko e tuku ʻi he vaha‘a ko ha founga lelei ia ke fakaʻiku ai."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "ʻOku fakatamasiʻi ʻa e ngaahi peesi ni?",
+        "a": "ʻOku ʻikai. Kuo tā ʻa e ngaahi me‘a faingofua mo mā‘oluolu ʻikai ko e ngaahi talatala, ko ia ʻoku lelei ai ki he kakai motua. Ko e ngaahi tāʻā lahi ʻoku faingofua ke tā ʻaki e lanu, ʻikai ko e fakatamasiʻi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ʻOku koloa ia, pea ʻoku fiemaʻu ke ke fakahingoa?",
+        "a": "ʻIo, ʻoku koloa ia, pea ʻoku ʻikai ha ʻakaunti, fakahingoa pe ha taʻa. ʻE ngāue ʻi he kemi ʻi he telefoni, tapolo pe kompiuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Ngaahi kāati talanoa",
+    "seoTitle": "Ngaahi Kupu Kamata Talanoa ki he Mahaki ʻo e ʻAtamai: Ngaahi Kāati Tāʻā",
+    "h1": "Ngaahi Kāati Talanoa",
+    "description": "Ngaahi kāati tāʻā mo e ngaahi fakaafe mā‘oluolu ki he talanoa ki he kakai ʻoku maʻu ʻa e mahaki ʻo e ʻatamai: ʻikai ha fehuʻi ʻo hangē ko ha ʻekisāmi, ʻikai ha tali totonu. Ngāue ʻi he sikirini pe lolomi ʻa e seti kotoa.",
+    "short": "Kāati tāʻā mo e ngaahi fehuʻi mā‘oluolu. ʻIkai ha fehuʻi ki he fakamanatu.",
+    "players": "2 kakai pe ha kulupu",
+    "intro": "Ko e kāati kotoa ʻoku ʻi ai ha tāʻā ʻoku ʻilo, mo ha fakaafe ke talanoa, hangē ko “Ko e hā ʻa e ʻea ʻoku ke ʻofa ʻaupito ki ai?” ʻOku ʻikai ha tali totonu pe ko e maʻu ke manatu. Fili ha kaveinga pe fakatafeholo ʻa e kāati kotoa.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Fili ha kaveinga, pe tuʻu ki he “Kāati kotoa”.",
+      "Lau ʻa e fehuʻi ʻi he leo lahi, pea vakai ki he tāʻā fakataha.",
+      "Fanongo, fakahā hoʻo tali ʻoku, pea tuku ke ʻalu ʻa e talanoa.",
+      "Tā ʻa “Kāati hoko” ʻi he taimi ʻoku ke loto ai, pe tuʻu ʻi he kāati ko ia ʻi he taimi ʻoku ke loto ai.",
+      "Tā ʻa “Lolomi kāati kotoa” ke maʻu ha seti pepa ke tipuʻi."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Tali foki ʻa e fehuʻi ʻe koe. ʻOku hangē ko ha talanoa, ʻikai ko ha fakatotolo.",
+      "Muimui ʻi he talanoa, ʻikai ʻa e faktaʻ. Kapau ʻoku liliu ʻa e fakamatala, ʻoku ʻikai ha palopalema.",
+      "Kapau ʻoku ʻai ʻe ha kāati ha ongo mamahi, ʻoku ʻai ke talia ʻa e ongo ko iá mo e liliu mā‘oluolu ki ha kāati kehe."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Ko e hā ʻoku ʻikai ai ha fehuʻi “ʻOku ke manatu…?”",
+        "a": "Ko e ngaahi fehuʻi ʻoku fakatotolo ki he fakamanatu ʻoku lava ke hangē ko ha ʻekisāmi, ʻo ʻai ai ha maʻuʻā. Ko e ngaahi fakaafe mā‘oluolu hangē ko “Talanoa mai ki he…” ʻoku lava ke kau ai ha taha, ʻi he me‘a ʻoku ne manatu ai."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "ʻE lava ke u lolomi ʻa e ngaahi kāati?",
+        "a": "ʻIo. “Lolomi ʻa e kāati kotoa” ʻoku lolomi ai ʻa e seti kotoa ʻi he tohi lahi, ʻe lahi ʻa e kāati ʻi he peesi kotoa, ʻoku lelei ke tipuʻi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ʻOku koloa ia, pea ʻoku fiemaʻu ke ke fakahingoa?",
+        "a": "ʻIo, ko e koloa ia ʻe taʻetotongi, pea ʻikai ha akauni, lesisita pe download. ʻOku ngāue ia ʻi he web browser ʻi he telefoni, tapolete pe kompiuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Fakatatau ʻa e ngaahi ata",
+    "seoTitle": "Ngāue ha Taʻaʻi Fakatatau mei he Ngaahi Ata ʻo e Famili",
+    "h1": "Fakatatau ʻa e Ngaahi Ata: Fakatatau ʻa Ho Ngaahi Ata",
+    "description": "Liliu ho ngaahi ata famili ko ha taʻaʻi fakatatau fiemālie. Filifili ngaahi ata ʻe 2 ki he 6 ʻi ho meʻa fakamatala; ʻe nofo ia ʻi ho browser pea ʻikai ʻave ki ha feituʻu.",
+    "short": "Filifili ho ngaahi ata pea fakatatau ia. ʻIkai ʻave ha meʻa.",
+    "players": "2 ha tangata, ʻi he taha mo e taha",
+    "intro": "Filifili ngaahi ata ʻe ua ki he ono mei ho telefoni, tapolete pe kompiuta, pea ʻe hoko ia ko ha taʻaʻi fakatatau mo e ngaahi ata lalahi mo ʻaonga ke mamata ki ai. ʻE ʻikai ʻave, tauhi pe fakafaingofua ʻa e ngaahi ata ni; ʻe hā pē ia ʻi loto ʻi he peesi ni, pea ʻe mole ia ʻi ho tāpuni ʻo e peesi.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tuʻu ʻo “Filifili ngaahi ata” pea filifili ngaahi ata ʻe ua ki he ono.",
+      "Ko e ata taki taha ʻe hā ʻo ua. Tuʻu ʻe taha, pea tuʻu ʻa ʻene tatau.",
+      "Lea ki he ata taki taha ʻi he taimi ʻoku ke ʻilo ai ia.",
+      "ʻI he faʻa ngata ʻa koe, tāpuni ʻa e peesi pe tuʻu ʻo “Toʻo ʻa e ngaahi ata”. ʻOku ʻikai ha meʻa ʻe tauhi."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Filifili ngaahi ata mahino ʻo e ngaahi meʻa ʻoku fiefia mo ʻiloa: ʻulu ʻi, ngoue, feituʻu ʻoku ʻofa ki ai, ʻaho malanga.",
+      "Ko e ngaahi ata ʻo e feituʻu mo e koloa ʻe faingofua ange ʻi he kanokano, pea ʻe ʻikai ai ha fakamamafa ke tala ʻaki ha hingoa.",
+      "Tuku ngaahi ata ʻo e kau tangata kuo mate ʻi tuʻa, kapau ʻe lava ke fakamamafa ʻa e loto ʻi ai, neongo kapau ʻoku ke ʻiloa ʻe fakafiemālie ia."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "ʻOku ʻave ʻa ho ngaahi ata ki ha feituʻu?",
+        "a": "ʻIkai. ʻE lau ʻe he peesi ʻa e ngaahi ata ʻaho ʻoku ke filifili ai ʻi ho browser pea hā ia ʻi ho sikirini. ʻOku ʻikai ʻave ki kimautolu pe ki ha taha kehe, pea ʻe mole ʻi ho tāpuni pe toe hiki ʻa e peesi."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ʻOku ʻi ai ha taimi pe ngaahi tohi?",
+        "a": "ʻIkai. ʻOku ʻikai ha taimi, tohi, kauʻi ʻo e ngaahi kaveinga, pe hē. ʻE lava ke ke tuku ʻi ha taimi ʻo ʻikai ha ʻuhinga, pea ko e tuku ʻi he vaʻe ʻo e ngāue ko ha founga lelei ke fakaʻosi ai."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "ʻE lava ke u tauhi ʻa e kēmi ki he taimi kehe?",
+        "a": "ʻIkai ʻi he browser, ʻi he ʻuhinga ʻo e fakatotoló, koeʻuhí ke ʻikai tauhi ha meʻa taʻetokoni. Ko e ʻapi Golden Moments ki he iPhone mo e iPad ʻe lava ke ne tauhi ha kopi ʻo ha ngaahi ata filifili ʻi ho meʻa fakamatala."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ʻaki e ngaahi ata",
+    "seoTitle": "Bingo ʻaki e Ngaahi Ata ma e Kau Mātuʻa ʻoku Mahaki ʻi he Fakamanatu: ʻOku Lava ke Paʻi",
+    "h1": "Bingo ʻaki e Ngaahi Ata ma e Kulupu",
+    "description": "Bingo ʻaki e ngaahi ata ʻoku lava ke paʻi ʻaupito, ma e kau tokanga ki he fakamanatu mo e kulupu motuʻa, mo ha tokotaha ui ʻi he sikirini lalahi. Ngaahi ata lalahi mo e ngaahi hingoa, 9 pe 16 ngaahi sikuea, ʻikai fiema'u ke lau.",
+    "short": "Ngaahi kāati bingo ʻoku lava ke paʻi mo ha tokotaha ui ʻi he sikirini lalahi ma e kulupu.",
+    "players": "Ha kulupu ʻe 2 ki he 30",
+    "intro": "Bingo fakakalasi ʻaki e ngaahi ata ʻi he ʻuhinga ʻo e ngaahi namba, koeʻuhí ke ʻikai fiema'u ha taha ke lau ʻa e kupu iiki. Paʻi ha sete ʻo e ngaahi kāati ʻoku ʻikai tatau, pea ko e tokotaha ui ʻi he sikirini ʻe hā ai ʻa e ata taki taha lalahi ʻi he TV, laptop pe tapolete.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Filifili ngaahi sikuea ʻe 9 pe 16 ʻi he kāati taki taha mo e ʻuhinga ʻo e kau tokotaha.",
+      "Tuʻu ʻo “Paʻi ngaahi kāati”. ʻE ʻikai tatau ʻa e kāati taki taha.",
+      "Fakaʻā ʻa e tokotaha ui ʻi he sikirini lalahi. Tuʻu ʻo “Ata hoko mai” ke hā ai ʻa e ata taki taha mo ʻene hingoa.",
+      "Ko e kau tokotaha ʻe ʻufi ʻa e ata tatau ʻi honau kāati ʻaki ha pātone, ʻuhila pe maka.",
+      "Ko ia ʻoku kātoa ha laine, pe ko e kāati kotoa, ʻe fiefia ʻaki ha hiva. ʻOku ʻikai ha tokotaha hē ʻi he founga ni: kuo pe ke ʻoua ʻe tuku ha taha ʻo ʻikai ha laine."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Ngaahi tokeni lalahi hangē ko e ngaahi tafa pe ngaahi fufu pulu. Ko e ngaahi kiʻi putoni ʻe faingataʻa ke toʻo.",
+      "Tala ʻa e hingoa ʻo e ata mo ha lea nounou ki ai: “Ko e vaka fefaʻuaki. Ko hai kuo ʻalu ʻi he vaka?”",
+      "Tuʻu ʻa e kau tokotaha ʻoku faingataʻa ʻenau mamata ofi ange ki he sikirini, pea fakatatau ʻa e tokoni mo e kau tokotaha ʻoku fiema'u ia.",
+      "Ngaahi sikuea ʻe 9 ʻoku lahi ia ki he kulupu lahi. Tauhi ʻa e fakatahaʻi ʻi he taimi ʻe 20 ki he 30 minite."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Pehē ʻe fēfē ʻa e fai ʻo e bingo ʻaki e ngaahi ata ʻi ha feituʻu tokanga?",
+        "a": "Paʻi ha kāati ʻe taha ki he tokotaha taki taha, tuku ʻa e tokotaha ui ʻi he sikirini lalahi tahá ʻoku ʻi ai, pea ui ʻa e ngaahi ata ʻo fakatōmalie, mo lea ki he hingoa ʻo e taki taha. Ngāue ʻo ʻoua ʻe tuku ha taha ʻo ʻikai ha laine."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "ʻOku totongi ke paʻi?",
+        "a": "ʻIo, ko e koloa ia ʻe taʻetotongi. Paʻi ʻa e ngaahi kāati ʻe fiemaʻu, ʻi he taimi ʻe fiemaʻu ai, ki he ngāue fakafāmili pe fakakulupu."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "ʻE lava ke fakafiefia ʻa e kau tokotaha ʻo ʻikai ke lau?",
+        "a": "ʻIo. Ko e sikuea taki taha ko ha ata lalahi, mo ʻene hingoa ʻi lalo ki he kau tokotaha ʻoku fiefia ki he lea."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Mānava Filemu",
+    "seoTitle": "Ha Taimi Filemu ʻo e Mānava ma e Kau Mātuʻa mo e Kau Tokanga",
+    "h1": "Ha Taimi Filemu ʻo e Mānava",
+    "description": "Ha taimi mānava fiemālie mo filemu ke fakatahaʻi: ha kāutaha ʻoku tupu mo mamaʻa ʻi he ongo mānava ʻe ono. Ko koe ʻoku kamata, pea ʻe lava ke ke tuku ʻi ha taimi.",
+    "short": "Ha kāutaha ʻoku mānava ai. Kamata pe tuku ʻi ha taimi ʻoku ke loto ki ai.",
+    "players": "Ha tokotaha 1 pe 2",
+    "intro": "ʻI he taimi lahi, ko e ngāue lelei taha ko ha taimi filemu. Tuʻu ʻo “Kamata”, pea mānava ʻi he taimi ʻoku tupu ai ʻa e kāutaha, mo ʻaʻaku ʻi he taimi ʻoku mamaʻa ai. Filifili ha vave pe ngingila ʻo e founga. ʻOku ʻikai ko ha faitoʻo, ka ko ha taimi fiemālie ke fakatahaʻi.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Nofo fiemālie ʻi he tafaʻaki ʻe taha.",
+      "Filifili ʻa e vave: ngingila pe fiemālie.",
+      "Tuʻu ʻo “Kamata”. Mānava ʻi he taimi ʻoku tupu ai ʻa e kāutaha, pea ʻaʻaku ʻi he taimi ʻoku mamaʻa ai.",
+      "ʻE tuku ia ʻi he taimi ʻe ono ʻo e mānava, pe tuʻu ʻo “Tuku” ʻi he taimi ʻoku loto ki ai."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Fekumi ʻa e nima pe tuku ha nima ki he nima ʻo e tokotaha kapau ʻoku talitali lelei ia.",
+      "ʻOua ʻe fakamālohi. Kapau ʻe loto ia ke vakai pē, ko ia ʻoku lelei.",
+      "Kapau ʻoku ʻi ai ha faingataʻa ʻi he mānava, mānava ʻo hangē ko e founga ʻi he ʻaho pea vakai pē ki he kāutaha. Fehuʻi ki ha foungamotuʻa ki ha ngaahi tokanga ʻo e mānava."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ko ha ngāue mānava faitoʻo ni?",
+        "a": "ʻIkai. Ko ha taimi filemu, faingofua, ʻoku ʻikai fiemaʻu, mo e kau fakataha. ʻOku ʻikai ko ha faitoʻo ki he manavahē pe ha mahaki ʻe taha. Talanoa mo ha foungamotuʻa ʻi he ngaahi tokanga ʻo e moʻui."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "ʻOku fetuʻutaki ʻa e kāutaha ʻo ʻikai ke u kamata ia?",
+        "a": "ʻIkai. ʻOku ʻikai ke fakanekeneka ha me'a ʻoua ke ke tōmui ʻi he Kamata, pea ʻe ngata ia hili ʻa e mānava ʻe ono pe ʻi ho tōmui ʻi he Taʻofi. Kapau kuo fakatonutonu ho fakamatala ke siʻisiʻi ʻa e nekeneka, ʻe liliu pē ʻa e ngaahi lea ka ʻe ʻikai ke tupu ʻa e tōʻā."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ʻOku ʻikai ha totongi ia, pea ʻe fiemaʻu ke ke fakahingoa?",
+        "a": "ʻIo, ʻoku ʻikai ha totongi, pea ʻoku ʻikai ha kaunga, fakahingoa pe download. ʻE ngāue ia ʻi he laka ʻi he initaneti ʻi he telefoni, tapaleti pe komipiuta."
       }
     ]
   }

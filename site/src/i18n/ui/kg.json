@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Kutina sambu na kukwenda na mambu ya mfunu",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Bansaka sambu na bantu bavilaka mambu",
+    "homeLabel": "Lupangu ya luyantiku ya Golden Moments",
+    "mainNav": "Mambu ya nene",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "KiKongo",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: bifwanisu ya nene mpi ya mbote ya kopo ya ti, kifulu ya mwini mpi mbwa",
+    "languages": "Ndinga",
+    "englishOnly": "(Kingelezi)",
+    "machineTranslated": "Mukanda yai me balulama na ordinatere mpi muntu ya ndinga yai me tala yo naino ve.",
+    "readOriginal": "Tanga mukanda ya luyantiku na Kingelezi",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Bansaka",
+      "activities": "Mambu ya kusala",
+      "caregiving": "Kusansa muntu",
+      "brainHealth": "Vimpi ya butomfu"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Biuvu mpi bamvutu",
+    "breadcrumb": "Nzila ya mukanda",
+    "home": "Luyantiku",
+    "lastUpdated": "Mbala ya nsuka yina me yidikama",
+    "topics": "Mambu ya kutubila",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Nene ya bisono",
+      "smaller": "Bisono ya me fwana",
+      "larger": "Bisono ya nene",
+      "contrast": "Nsemo ya ngolo"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Sakana",
+    "picturePairs": "Bifwanisu ya kufwanana",
+    "conversationCards": "Bikarte sambu na kusolula",
+    "pictureBingo": "Bingo ya bifwanisu",
+    "allGames": "Bansaka yonso",
+    "pictures": "Bifwanisu ya kubimisa na papie",
+    "activityIdeas": "Bangindu ya mambu ya kusala",
+    "ideas101": "Bangindu 101 ya mambu ya kusala",
+    "lateStage": "Mambu ya kusala na ntangu ya nsuka",
+    "printable": "Mambu ya kubimisa na papie",
+    "allActivities": "Mambu yonso ya kusala",
+    "forCaregivers": "Sambu na bantu yina ke sansaka bankaka",
+    "playTogether": "Inki mutindu ya kusakana kisika mosi",
+    "selfCare": "Kukitanina nge mosi",
+    "brainHealth": "Bansosa na zulu ya vimpi ya butomfu",
+    "faq": "Biuvu mpi bamvutu",
+    "about": "Mambu me tala beto",
+    "approach": "Mutindu na beto ya kusala mambu",
+    "howWeWrite": "Mutindu beto ke sonikaka",
+    "organizations": "Sambu na bimvuka",
+    "app": "Aplikasion ya Golden Moments",
+    "appHelp": "Lusadisu sambu na aplikasion",
+    "support": "Lusadisu",
+    "legal": "Minsiku",
+    "sitePrivacy": "Kinsweki ya sitiwiti",
+    "appPrivacy": "Kinsweki ya aplikasion",
+    "privacyChoices": "Baponami na nge ya kinsweki",
+    "terms": "Minsiku mpi nswa ya kusadila aplikasion",
+    "safety": "Lutaninu mpi lukanu ya kusadila",
+    "accessibility": "Kukota kukonda mpasi",
+    "healthNotice": "Kuzabisa me tala vimpi",
+    "allLegal": "Minsiku yonso",
+    "note": "Golden Moments ke pesaka mambu ya pete ya kusala kisika mosi sambu na kiese. Yo kele ve ndongisila ya dotolo, kimeko to lusansu, mpi yo ke sengumunaka ve to kupesa muntu manaka. Sambu na biuvu me tala vimpi, solula ti dotolo. Na ntangu ya mpasi ya kintulumukina, binga 112.",
+    "publisher": "Me bimisama na Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Bansaka mpi Mambu ya Kusala sambu na Bantu bena ye Maladi ya Kuvila Mambu ti Alzheimer | Golden Moments",
+    "description": "Bansaka ya ofele mpi ya pete ya bifwanisu na internet ti bangindu ya mambu ya kusala sambu na bantu bena ye maladi ya kuvila mambu to Alzheimer ti bantu yina ke sansaka bo. Konda kusonikisa zina, konda bangonga to manaka.",
+    "eyebrow": "Ofele · Konda bapiblisite · Konda kusonikisa zina · Konda bangonga to manaka",
+    "h1": "Bansaka ya Malembe mpi Mambu ya Kusala sambu na Bantu bena ye Maladi ya Kuvila Mambu",
+    "lede": "Bansaka ya pete ya bifwanisu, bafoto ya me zabanaka, mpi mambu ya kusepela kisika mosi—na vitesi na beno mosi.",
+    "playGame": "Sakana nsaka mosi",
+    "findIdeas": "Sosa bangindu ya mambu ya kusala",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Ke salaka na telefone, tablete mpi ordinatere",
+      "Bifwanisu ya nene yina ke bikalaka ya kumonana",
+      "Pema konso ntangu; ata kima mosi ve ya kukonda"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Aplikasion ya ofele mpi sambu na iPhone, iPad ti Android, ti bafoto ya dibuta na nge mosi",
+    "albumNote": "« Bifwanisu zole ya kopo ya ti, kisika mosi. »",
+    "gamesEyebrow": "Sakana na browser na nge",
+    "gamesTitle": "Bansaka yina nge lenda sakana kaka bubu yai",
+    "gamesLede": "Konso nsaka kele ya pima, ya bantu ya nene mpi ke yantikaka nswalu. Pona mosi, vandisa pembeni, mpi sikisa na kutula musapi muntu na muntu.",
+    "seeAllGames": "Tala bansaka yonso {count}",
+    "howTitle": "Mutindu yo ke salaka",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Pona kima mosi ya me zabanaka mbote",
+        "text": "Bifwanisu ya bakopo ya ti, bilanga, bibulu ya bwala mpi bamaswa ya impepo. Konda kutanga to kulonguka bansiku ntete."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Vanda pembeni na pembeni",
+        "text": "Bika yandi tula musapi. Solula na zulu ya bifwanisu. Kana bifwanisu me fwana ve, yo ke vingila kaka kutula musapi ya nlandikina."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Bika ntangu yo kele naino kitoko",
+        "text": "Nsaka mosi me fwana sambu na kusala kima mosi ya mvimba. « Me fwana sambu na bubu » ke monanaka ntangu yonso na ekran."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Kuluta kaka ekran",
+    "stageTitle": "Bangindu ya mambu ya kusala sambu na konso kitambi",
+    "stageLede": "Miziki, bisalu ya konso kilumbu, kuyindula mambu ya ntama mpi ntangu ya pima ya banzikisa, me yidika sambu na kusepelisa na mutindu ya mbote bubu yai.",
+    "ideas101": "Bangindu 101 ya mambu ya kusala",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Kitambi ya luyantiku",
+        "text": "Landa kusala mambu yina yandi ke zolaka, ti mwa bansoba ya fioti: bisalu ya kiese, kutambula na nganda, bansaka ya bangogo mpi kubongisa mambu kisika mosi.",
+        "label": "Bangindu sambu na kitambi ya luyantiku"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Kitambi ya katikati",
+        "text": "Bisalu ya pete ya me zabanaka ya kukabula na bitambi: kuvunga bilele, kukabula bima, miziki, bansaka ya bifwanisu mpi kutambula mwa fioti.",
+        "label": "Bangindu sambu na kitambi ya katikati"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Kitambi ya nsuka",
+        "text": "Lulembusu mpi bumosi na nzila ya kusimba, kuwa mpi kutala: kutanina maboko, bankunga ya zola, bafoto mpi kuvanda kisika mosi.",
+        "label": "Bangindu sambu na kitambi ya nsuka"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Keti nge ke sosa kima mosi ya sikisiki? Meka <a href=\"/activities/alzheimers/\">mambu ya kusala mpi bansaka sambu na Alzheimer</a>, <a href=\"/activities/memory-games/\">bansaka ya pete ya ngindu</a>, <a href=\"/activities/trivia/\">biuvu ya pete</a> to <a href=\"/activities/puzzles/\">bipuzzle</a>.",
+    "approachEyebrow": "Mutindu na beto ya kusala mambu",
+    "approachTitle": "Kusala kima kisika mosi, kasi kimeko ya ngindu ve",
+    "approachLede": "Bansaka mingi ya « butomfu » ke tulaka dikebi na vitesi, manaka mpi kulanda mbote. Sambu na muntu yina kele ye maladi ya kuvila mambu, yo lenda vanda bonso kimeko ya nzo-nkanda. Beto salaka kima ya nsololo ya mutindu ya nkaka.",
+    "approachLink": "Sambu na nki beto me salaka yo mutindu yai",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ata kima mosi ve ya kukonda",
+        "text": "Konda montre, konda manaka, konda bamoyo to kubwa. Kifwanisu ya kuswaswana kele kaka ngolo ya kupema, kasi kifu ve."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Bifwanisu ke bikalaka ya kumonana",
+        "text": "Kuzaba na kutala kuluta kusosa na ntu. Kufwanisa ke yantikaka ti bifwanisu ya kutandula, yo yina kima mosi ve kele ya kubumba na ntu."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Sambu na muntu ya nene mpi ti lukumu",
+        "text": "Bangogo ya zola mpi ya pete ti bifwanisu ya kieleka ya ntoto. Ata fioti ve badesen anime to kutuba bonso ti mwana ya fioti."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Kinsweki ya kubongisa banda na luyantiku",
+        "text": "Konda konte to bapiblisite. Bafoto na nge ke bimaka ata fioti ve na apareyi na nge."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Sambu na bantu yina ke sansaka bankaka",
+    "guidesTitle": "Bantwadisila ya mfunu sambu na kutanina konso kilumbu",
+    "allCaregiving": "Bantwadisila yonso ya kusansa",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Inki mutindu ya kusakana bansaka kisika mosi",
+        "text": "Kubongisa, vitesi, mpi nki ya kusala kana nsaka me bika kuvanda ya kiese."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Kana bo me buya kusala kima mosi",
+        "text": "Bambuma yina ke pusaka na kubuya, mpi mitindu ya malembe ya kumeka diaka na nima."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Kubongisa tablete",
+        "text": "Bisono ya nene, mambu ya kukangisa ya fioti mpi ekran ya luyantiku mosi ya pete."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Mambu ya ofele ya kubimisa na papie",
+        "text": "Kusosa bangogo na bisono ya nene, bapapie ya kupakula bakolo, bingo mpi bikarte sambu na kusolula."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Vimpi ya butomfu: mambu yina bansosa ke tubaka kibeni",
+    "researchText": "Keti maladi ya kuvila mambu lenda kakidilama? Keti bansaka ya butomfu ke sadisaka? Inki mutindu sambu na kukonda kudia, madia, mpongi mpi kuwa na makutu? Bamvutu ya pete mpi ya kutenduka, ti kisika banzikisa kele ngolo ve.",
+    "researchLink": "Tanga bantwadisila ya bansosa",
+    "appEyebrow": "Aplikasion mpi kele",
+    "appTitle": "Golden Moments na iPhone, iPad mpi Android",
+    "appText": "Aplikasion ya ofele ke salaka ata konda internet mpi lenda sadila bafoto ya dibuta yina nge me pona, ya kubumbama bonso kopi na apareyi na nge. Yidika kaka ya pima: bapave iya ya nene, konda ntangu, konda manaka.",
+    "aboutApp": "Mambu me tala aplikasion",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Inki bansaka ya mbote sambu na bantu bena ye maladi ya kuvila mambu?",
+        "a": "Bansaka ya mbote ke vandaka ya pete, ya me zabanaka mpe ya kukonda kutelemisa ntima: bifwanisu ya nene ya kufwanisa, kukabula bima, bapuzzle ya pete, kumanisa bingana ya me zabanaka, kutula mikubu, bingo ya bifwanisu mpe bakarti ya kusolula. Kima ya mbote mpenza kele yina muntu yango ke sepela na yo bubu yai. Bika bamonitre ya ntangu, banoti mpe konso kima yina ke monana bonso meki."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Bansaka yai sambu na bantu yina ke zinga ti maladi ya kuvilakana mambu kele ya ofele?",
+        "a": "Ee. Konso nsaka mpe papie ya kubimisa na imprimate na Golden Moments kele ya ofele, kukonda konte, kukomisa zina to kukotisa kima na apareyi. Bansaka yango ke salaka na browser ya web na telefone, tableti to ordinatere."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Bansaka ya tomfu lenda kanga nzila na maladi ya kuvilakana mambu?",
+        "a": "Ata nsaka mosi ve me monana nde yo ke kangaka nzila na maladi ya kuvilakana mambu, mpe Golden Moments ke tuba ve nde yo ke belulaka to ke kangaka nzila na kima mosi. Bansaka na beto kele sambu na kiese mpe kulutisa ntangu kumosi. Kitini na beto ya mavimpi ya tomfu ke tendula mambu yina bansosa me monisa mpe yina yo me monisa ve."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Bansaka yai me fwana sambu na muntu yina kele ti maladi ya Alzheimer?",
+        "a": "Ee. Maladi ya Alzheimer kele kikuma ya nene ya maladi ya kuvilakana mambu, mpe bansaka yai me salama sambu na yo: bifwanisu ya nene yina ke bikalaka ya kumonana, bansola ya fioti, mpe kima ve ya kubumba na mutu to ya kusala kifu. Kufwanisa, kukabula bima mpe kumanisa bingana ya me zabanaka ke tadilaka mayele ya ntama na kisika ya kulonguka mambu ya mpa."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Muntu yina me kuma mpenza na nsuka ya maladi ya kuvilakana mambu lenda sala bisalu yai?",
+        "a": "Mbala mingi, ee, kana muntu mosi kele penepene na yandi. Yantika ti Sosa bifwanisu ya kufwana ti bifwanisu zole, Bifwanisu ya kutulana na mapasa ti bitini iya, lutiti ya kutula mikubu to ntangu ya kupema na ngemba. Sala yo na ntangu ya nkufi, landa mutindu yandi ke zola mpe suka ntangu yandi me lemba."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Mambu na mono kele ya kubumbama na kinsweki?",
+        "a": "Site yai kele ve ti bakonte mpe ata bapiblisite. Beto ke sadilaka Google Analytics sambu na kubakisa balutiti yina bantu ke talaka mingi. Bafoti yina nge ke sola sambu na Bifwanisu ya kutulana na mapasa ke monanaka kaka na browser na nge mpe bo ke tulaka yo ve ata fioti na internet."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Nani ke salaka Golden Moments?",
+        "a": "Golden Moments kele kibuka ya fioti ya bantu yina ke salaka bisalu ya bifwanisu ya ngemba sambu na bambuta, sambu na mabuta mpe bantu yina ke taninaka bantu na bo, na web mpe bonso aplikasio ya ofele. Beto kele ve minganga, mpe ata kima mosi awa kele ve ndongisila ya munganga."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "ya luyantiku",
+    "middle": "ya katikati",
+    "late": "ya nsuka",
+    "hintOne": "Mbala mingi me fwana na kitini {list}",
+    "hintMany": "Mbala mingi me fwana na bitini {list}",
+    "labelEarly": "Kitini ya luyantiku",
+    "labelMiddle": "Kitini ya katikati",
+    "labelLate": "Kitini ya nsuka"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Mambu me tala nsaka yai",
+    "printable": "Ya kubimisa na papie",
+    "play": "Sakana {name} →",
+    "readGuide": "Tanga lutwadisu"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Nge me yilama sambu na nsaka ya pete?",
+    "text": "Bifwanisu ya nene, ata montre ya kutesa ntangu ve, ata banoti ve mpe kima mosi ve ya kukomisa zina. Sakana kumosi na browser na nge.",
+    "play": "Sakana nsaka mosi",
+    "all": "Tala bansaka yonso",
+    "aria": "Sakana nsaka mosi"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Baka bansaka yai ti nge",
+    "text": "Aplikasion ya ofele ya Golden Moments sambu na iPhone, iPad mpe Android: bifwanisu ya nene, bansaka ti bafoti ya dibuta na nge mosi, mpe bibuka ya bifwanisu yina ke salaka ata kukonda Wi‑Fi. Kukonda konte, bapiblisite, montre ya ntangu to banoti.",
+    "appStore": "Baka yo na App Store",
+    "googlePlay": "Baka yo na Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Mambu me tala aplikasio",
+    "aria": "Baka aplikasio"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Bisalu",
+      "title": "Bisalu sambu na bantu yina ke zinga ti maladi ya kuvilakana mambu",
+      "seo": "Bisalu sambu na bantu yina ke zinga ti maladi ya kuvilakana mambu: Bangindu na kutadila kitini",
+      "description": "Bangindu ya bisalu sambu na bantu yina ke zinga ti maladi ya kuvilakana mambu na konso kitini: miziki, kuyindula mambu ya ntama, bisalu ya konso kilumbu, bisalu ya kusamuna, bisalu ya maboko, kubasika na nganda mpe bapapie ya ofele ya kubimisa.",
+      "lede": "Kisalu ya mbote kele konso kima yina ke nataka kikesa, ntendula to ntangu ya kusala mambu kumosi. Yantika ti mambu yina muntu yango vandaka kusepela ti yo ntangu yonso, mpe soba yo sambu na bubu yai."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Kutanina muntu",
+      "title": "Bantwadisu sambu na kutanina muntu",
+      "seo": "Bantwadisu sambu na kutanina muntu yina kele ti maladi ya kuvilakana mambu: Lusadisu ya mbote sambu na konso kilumbu",
+      "description": "Bantwadisu ya mfunu mpe ya mawete sambu na bantu yina ke taninaka bantu yina ke zinga ti maladi ya kuvilakana: kusakana kumosi, kusolula, kukonda kundima, mavwanga na nsuka ya kilumbu, batableti, kusola ba-aplikasio mpe kudikeba nge mosi.",
+      "lede": "Lusadisu ya pete mpe ya mfunu sambu na ntangu ya konso kilumbu ya kutanina muntu yina ke zinga ti maladi ya kuvilakana mambu, tanga mpe kudikeba nge mosi."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Mavimpi ya tomfu",
+      "title": "Mavimpi ya tomfu: Mambu yina bansosa ke tuba",
+      "seo": "Mavimpi ya tomfu mpe kigonsa ya maladi ya kuvilakana mambu: Mambu yina bansosa ke tuba",
+      "description": "Keti maladi ya kuvilakana mambu lenda kanganama nzila? Bantwadisu ya kieleka mpe ya me katuka na mikanda ya mbote me tala mambu yina lenda nata kigonsa ya maladi ya kuvilakana mambu, bansaka ya tomfu, kufila nzala, madia, ngalasisi, mpongi, kuwa mpe bidimbu ya luyantiku.",
+      "lede": "Mambu yina bansosa ya nene me monisa mpenza sambu na kulembisa kigonsa ya maladi ya kuvilakana mambu, me tendulama na mutindu ya pete, ti bisika yina banzikisa kele ngolo ve to me vukana. Bansangu ya mvimba, kele ve ndongisila ya munganga."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Me vutukilama na mpa",
+    "minuteRead": "Lutangu ya miniti {n}",
+    "byTeam": "Na kibuka ya Golden Moments",
+    "howWeWrite": "Mutindu beto ke sonikaka",
+    "shortAnswer": "Mvutu ya nkufi",
+    "onThisPage": "Na lutiti yai (bitini {n})",
+    "commonQuestions": "Bangiufula ya mbala mingi",
+    "sources": "Bisina ya masolo",
+    "sourcesNote": "Beto ke tulaka balien na bimvuka mpe bansosa yina lutiti yai me simbama. Konso kima me talatamaka ntangu lutiti me vutukilamaka na mpa.",
+    "tryTogether": "Meka kumosi",
+    "relatedGuides": "Bantwadisu ya nkaka ya me fwana",
+    "related": "Ya me fwana",
+    "startHere": "Yantika awa"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Lukebiso ya mavimpi",
+    "title": "Bansangu ya mvimba, kele ve ndongisila ya munganga",
+    "textHtml": "Lutiti yai ke vukisa na bunkufi bansosa yina me bimaka sambu na mabuta. Yo lenda tuba ve kima yina me fwana sambu na muntu mosi kaka. Solula ti munganga na ntwala ya kusoba madia, ngalasisi, mpongi, babilisi to bavitamini. Kana mavwanga to bansoba ya nkaka me bima na mbala mosi, sosa lusadisu ya munganga na nswalu yonso. <a href=\"/medical-disclaimer/\">Tanga lukebiso na beto ya mavimpi</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Kisalu ya kusala kumosi, kele ve kutesa mayele ya ntu",
+      "seoTitle": "Mambu me tala Golden Moments: Mutindu beto ke salaka",
+      "description": "Sambu na nki bansaka ya Golden Moments kele ve ti montre ya ntangu, banoti to ndonga ya milongi, sambu na nki bifwanisu ke bikalaka ya kumonana, mpe mambu yina beto lenda tuba to beto lenda tuba ve me tala maladi ya kuvilakana mambu.",
+      "crumb": "Mutindu beto ke salaka",
+      "lede": "Golden Moments ke salaka bisalu ya bifwanisu ya ngemba sambu na bambuta yina ntanini mpe muntu yina ke zinga ti maladi ya kuvilakana mambu lenda sepela na yo penepene.",
+      "bodyHtml": "<h2>Mambu yina beto ke ndimaka</h2><p>Lukanu ya konso kisalu kele kaka ntangu yina beno kele kumosi: disolo, kuseka, kiese ya kutula bifwanisu zole kumosi, to kaka kuvanda penepene. Yo kele ve sambu na kupima muntu, kutinda yandi na ngolo, to kumonisa kima mosi buna.</p><p>Baprograme mingi ya kutomisa mabanza me yidikama na zulu ya nswalu, bapwente, kulandana mpi bandonga. Sambu na muntu yina ke zinga ti kimbevo ya kuvilakana, yo lenda monana bonso ekzamɛ yina yandi lenda luta ve. Beto salaka kima ya nkaka ya kuswaswana kibeni, mpi beto ke zitaka bansiku yai:</p><ul><li><strong>Ata kima mosi ve ya kufwa.</strong> Ata montre mosi ve, ata pwente, ata kutanga ya ntangu to ya mambu yina me luta, ata mioyo, ata bifwanisu ya confetti to ntangu ya kutanga na nima, na efsa to ekran mosi ve.</li><li><strong>Kumona na meso me luta kuyindula na ntu.</strong> Bifwanisu ke bikalaka ya kumonana mbala mosi. Bangogo ke bendaka masolo mpi yo ke yulaka ve na kikesa bankumbu to mambu ya ntama.</li><li><strong>Nene, ya pete mpi ya kutetama.</strong> Masono ti bifwanisu ya nene, yina ke monana pwelele, mpi bisadilu yina ke bikalaka kaka na kisika mosi.</li><li><strong>Luzitu bonso mbuta.</strong> Bifwanisu ya kieleka ya ntoto mpi bangogo ya pete ya kiese ti luzitu. Ata badesɛ anime ve, ata kumatisa ndinga bonso na bana, to matabisi ya b'emodji.</li><li><strong>Nzila ya pete ya kubasika.</strong> «Me suka sambu na bubu yai» ke monanaka ntangu yonso. Kuyambula na katikati kele mpi kima ya mbote.</li><li><strong>Kinsweki na luyantiku.</strong> Ata konte to bansangu ya bitekolo ve. Bafoto yina nge me pona ke bikalaka kaka na apareyi na nge.</li></ul><h2>Mambu yina beto ke tubaka ve</h2><p>Bansaka na beto kele sambu na kiese mpi kuvanda kumosi. Yo ke zaba ve maladi na luyantiku, yo ke mekaka ve, yo ke pimaka ve, yo ke belulaka ve, yo ke kulumusaka ve to kukanga nzila na kimbevo ya kuvilakana to maladi ya Alzheimer, mpi ata muntu mosi ve fwete pona yo sambu na bikuma yina. Ntangu beto ke sonikaka sambu na bansosa na <a href=\"/brain-health/\">balukasa na beto ya mavimpi ya butomfu</a>, beto ke tubaka pwelele bisika wapi banzikisa kele ngolo ve, mpi beto ke vukisaka yo ata fioti ve ti bansaka na beto mosi.</p><h2>Beto kele banani</h2><p>Golden Moments kele kimvuka mosi ya fioti ya kimpwanza. Beto kele ve minganga. Bantendula na beto me sonamaka na nzila ya malongi yina me panzanaka ti bimvuka bonso National Institute on Aging ti Alzheimer’s Association, mpi konso mukanda ke pesaka bazina ya mikanda yina me sadisaka beto. Tanga <a href=\"/editorial-policy/\">mutindu beto ke sonikaka mpi ke tadilaka balukasa na beto</a>.</p><h2>Zabisa beto nki lenda sadisa</h2><p>Beto ta vanda na kiese mingi na kuwa mambu yina me simba mpi yina me simba ve, mingi-mingi na bantu yina ke zinga ti kimbevo ya kuvilakana, bantu ya dibuta yina ke sadisaka bo, mpi bampangi yina ke twadisaka bisalu yai. Tindila beto mesaje na <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Mutindu beto ke sonikaka mpi ke tadilaka balukasa na beto",
+      "seoTitle": "Bansiku na beto ya kusonika mikanda",
+      "description": "Mutindu Golden Moments ke sosaka, ke sonikaka, ke bakilaka bazuzi mpi ke yidulaka balukasa na yo ya bisalu ya kimbevo ya kuvilakana mpi ya mavimpi ya butomfu, mpi mambu yina beto ta basisa ata fioti ve.",
+      "crumb": "Bansiku ya kusonika",
+      "bodyHtml": "<h2>Bisika beto ke bakaka bansangu</h2><p>Beto ke yidikaka bantendula na beto na zulu ya malongi ya pwelele yina me katuka na bimvuka bonso National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ti NHS, mpi na bansosa ya mayele ya baprofeze bonso Cochrane reviews ti bamekolo ya nene ya minganga. Konso mukanda ke tulaka molongo ya bisika ya bansangu yina yo ke sadilaka. Beto ke kangulaka konso mukanda ya kinsweki na ntwala ya kutanga yo, mpi beto ke vutukilaka kaka mambu yina yo ke tubaka mpenza.</p><h2>Mutindu beto ke sonikaka</h2><ul><li>Mambu ya kusadila na luyantiku: nki lenda salama bubu yai, na ndinga ya pete.</li><li>Kieleka na zulu ya banzikisa: beto ke tubaka «kele ti kuwakana ti», «lenda vanda» mpi «banzikisa kele ve na kuwakana ya mvimba» ntangu yo kele kibeni kieleka.</li><li>Luzitu: beto ke sonikaka sambu na bantu yina ke zinga ti kimbevo ya kuvilakana bonso bambuta, mpi beto ke sadilaka ata fioti ve bangogo ya kumeka to ya kupesa nsoni.</li><li>Kima ya kuyindula kaka na ntu ve: ata bitalu ya luvunu ve, ata mambu ya bantu ya luvunu, ata bantu ya mayele ya luvunu, ata bansosa to kimbangi ya luvunu.</li></ul><h2>Banani ke tadilaka balukasa na beto</h2><p>Balukasa ke sonamaka mpi ke tadilamaka na kimvuka ya Golden Moments, ti lusadisu ya bisadilu ya mayele ya kasonasona sambu na kusosa mpi kuyidika mambu. Konso lukasa ke tadilamaka na kudedisa ti bisika ya bansangu na kimvuka yai. Balukasa na beto me tadilama <strong>ve</strong> na munganga to muntu ya mavimpi, mpi beto ke tubaka ve nde yo me salama. Yo kele kaka bansangu ya mvimba, yo kele ve bandongisila ya bunganga.</p><h2>Mambu yina beto ta basisa ata fioti ve</h2><ul><li>Kutuba nde nsaka mosi, madia, nkisi ya ngolo, kukonda kudia to mambu ya konso kilumbu ke kanga nzila, ke belula, ke kulumusa to ke vukisa kimbevo ya kuvilakana.</li><li>Bamekolo, biyufula to bapwente yina ke monisa nde muntu kele ti kimbevo ya kuvilakana, to kele ve na yo.</li><li>Malongi ya kubanda, kuyambula to kusoba nkisi mosi buna.</li><li>Bansangu ya mumbongo to ya bitekolo yina me bumbama bonso bandongisila.</li></ul><h2>Kuyidika mpi kubongisa</h2><p>Konso lukasa ke monisaka kilumbu yina yo me yidikamaka ya nsuka. Kana nge me mona kifu to kisika ya bansangu yina me nuna, tindila beto mesaje na <a href=\"mailto:{email}\">{email}</a> mpi beto ta tadila yo nswalu.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Biyufula mpi bamvutu",
+      "seoTitle": "Bansaka mpi bisalu sambu na kimbevo ya kuvilakana: Biyufula mpi bamvutu",
+      "description": "Bamvutu na biyufula yina bantu ke yulaka mingi na zulu ya bansaka mpi bisalu sambu na bantu yina ke zinga ti kimbevo ya kuvilakana: bansaka ya kumeka, ntangu ikwa ya kusakana, bangindu sambu na bantangu ya nima, mavimpi ya butomfu ti kinsweki.",
+      "crumb": "Biyufula mpi bamvutu",
+      "lede": "Bamvutu ya nkufi mpi ya pete na biyufula yina bantu yina ke lungaka bampangi ke yulaka mingi.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Mambu ya metala bansaka",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Inki kele bansaka ya kuluta mbote sambu na muntu yina ke zinga ti kimbevo ya kuvilakana?",
+              "a": "Bansaka ya mbote mpenza kele yina muntu me yikana na yo, ya pete mpi yina kele ve ti bupusi, mpi nsaka ya mbote kele kaka yina ke pesaka muntu kiese bubu yai. Kutedisa bifwanisu yina ke monana na meso, kukabula bima na mutindu na yo, bapuzzle ya pete, kumanisa bingana ya kuzabana, kutula bakolo mpi bingo ya bifwanisu ke sadisaka bantu mingi mbote. Beno vanda mosika ti bamontre, bapwente mpi kima yonso yina ke monana bonso ekzamɛ."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Keti bansaka yai kele kibeni ya ofele?",
+              "a": "Ingeta. Bansaka yonso ti bima ya kubimisa na papie kele ya ofele, kukonda konte, kudisonikisa, kukulumusa to bansangu ya mumbongo."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Sambu na nki ata bamanoti, balukalalu to ntangu ya kufunda kele ve?",
+              "a": "Kuvutula nswalu ti kusosa bamanoti lenda kumisa kikalulu mosi ya kiese bonso ekzamɛ, mpi yo lenda nata nsoni to kutelemisa ntima. Beto ke tulaka dikebi na kiese ti ntangu ya kuvanda kumosi, yo yina kima ya kubwa kele ve mpi beno lenda bika na konso ntangu."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Bisadilu ya nki mutindu ke salaka mbote kibeni?",
+              "a": "Konso telefone, tableti to ordinatere yina kele ti navigatere ya sika ya Internet. Kutula tableti na mesa ke vandaka mutindu ya mbote mingi sambu bantu zole kusakana pene-pene. Ordinatere ya maboko yina me vukana ti televizio ke salaka mpi mbote sambu na bimvuka."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Keti beto lenda sakana ti bafoto na beto mosi ya dibuta?",
+              "a": "Ingeta. Bansaka ya bafoto ya kufwanana (Photo pairs) ke kumisaka bafoto 2 tii 6 yina beno me pona bonso nsaka ya kusangisa bima ya kufwanana. Bafoto ke bikalaka kaka na aparɛyi na beno mpi beto ke tindaka to ke bumbaka yo ve."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Bansaka ti lusadisu sambu na muntu yina nge ke sansaka",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Nsaka lenda baka ntangu ya nki kiteso?",
+              "a": "Mbala mingi miniti 10 tii 20 me lunga kibeni, mpi bantangu yankaka ata miniti 2 ke vandaka mbote. Tala bilembo ya kulemba to ya kubuluka ntima mpi bika na ntangu kiese kele kaka. Ntangu mosi ya sikisiki kele ve."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Inki beto fwete sala kana yandi me buyi kusakana?",
+              "a": "Zitisa kubuya na yandi, mpi meka diaka na nima to na mutindu yankaka. Kubuya lenda katuka na kulemba, mpasi na nitu, kukonda kusepela to kudiyangisa. Tala ndongisila na beto sambu na mambu ya kusala kana yandi me buyi."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Bansaka ya nki mutindu me fwana sambu na ntangu maladi ya kuvilakana mambu me kuma na nima kibeni?",
+              "a": "Kulembika nitu ti bima ya kudiwa: kuwidikila miziki yina yandi ke zolaka, kukosula maboko ti mafuta ya kulembika, kutala bafoto kumosi, kusimba bulanketi ya pɛtɛpɛtɛ, kuvanda na nganda, to nsaka ya pete kibeni ya bafoto ti muntu pene-pene na yandi. Mukanda na beto sambu na bitambi ya nima kele ti bangindu mingi diaka."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Keti bansaka kele sambu na bimvuka na banzo ya kusansila bambuta?",
+              "a": "Ingeta. Bingo ya bafoto kele ti bapapie ya kubimisa mpi muntu ya kubinga na ekra, mpi Manaka ya kumanisa bangogo ti Bakarte ya masolo ke salaka mbote kana beno ke tanga na ndinga ya ngolo. Mukanda na beto sambu na bimvuka na banzo ya kusansila bambuta ke tubilaka kiteso ya bimvuka, kuvanda, ti mutindu ya kubongisa sambu na bantu yonso."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Mavimpi ya butomfu",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Keti bansaka lenda kakidila to kukulumusa vitese ya maladi ya kuvilakana mambu?",
+              "a": "Ata nsaka mosi ve me monana nde yo ke kakidilaka maladi ya kuvilakana mambu, mpi bansaka na beto ke tubaka ve mutindu yina. Kusadisa mabanza na kati ya bantu me monisa mwa mambote fyoti na bansosa sambu na bantu yina kele ti maladi ya kuvilakana mambu na kiteso ya fyoti to ya kati-kati, kansi yo kele ya kuswaswana ti nsaka yina ke kakidila maladi. Beto ke pesaka bansaka kaka sambu na kiese ti kuvanda kumosi."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Keti lenda kakidila maladi ya kuvilakana mambu?",
+              "a": "Kukonda ntembe ve. Bansosa ke vukisaka mambu 14 ya mavimpi ti mutindu ya kuzinga ti kigonsa ya maladi ya kuvilakana mambu, mu mbandu kukonda kuwa mbote, tansio ya ngolo, kukonda kutambusa nitu ti kuvanda kaka nge mosi. Kusala mambu sambu na bima yai lenda kulumusa kigonsa sambu na bantu yankaka, kansi bantu mingi yina ke salaka yonso mbote ke bakaka kaka maladi yai. Yo kele ata kifu ya muntu mosi ve."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Keti kubika kudia na bantangu ya kuswaswana kele mbote sambu na butomfu?",
+              "a": "Banzikisa na bantu kele fyoti mpi ya luyantiku, mpi bansosa mingi me salamaka kaka na bambisi. Kubika kudia lenda vanda kigonsa sambu na bambuta, mingi-mingi kana muntu ke nwa bankisi ya maladi ya sukadi to me kulumuka kilo kukonda kuzola, mpi yo me fwana ve sambu na bantu yina ke zinga ti maladi ya kuvilakana mambu. Sola ti munganga na ntwala ya kusoba mutindu nge ke diaka."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Kinsweki ti lutaninu",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Keti beno ke bumbaka bansangu na beto?",
+              "a": "Ata konte mosi ve to bupiblisite. Beto ke sadilaka Google Analytics sambu na kutanga bantu yina me kwisa kutala mpi kumona balukasa yina ke sadisaka, mpi navigatere na beno ke bumbaka kana beno me pedisa mwa bidimbu ya pɛtɛpɛtɛ. Bafoto yina beno me pona sambu na Photo pairs ke kotaka ata fioti ve na Internet. Tala bansangu ya kinsweki sambu na kuzaba mambu yonso."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Keti yai kele ndongisila ya munganga?",
+              "a": "Ve. Golden Moments kele sambu na kiese ti bansangu ya mbote. Sambu na bangiufula ya mavimpi, sola ti munganga, mpi sambu na mambu ya kimbwetete binga 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Bansangu yankaka: <a href=\"/caregiving/how-to-play-together/\">mutindu ya kusakana kumosi</a>, <a href=\"/caregiving/when-they-say-no/\">kana yandi me buyi</a>, <a href=\"/activities/late-stage/\">bansaka ya bitambi ya nima</a> mpi <a href=\"/brain-health/can-dementia-be-prevented/\">keti lenda kakidila maladi ya kuvilakana mambu?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Bansaka ya Pete mpi ya Ofele Sambu na Bantu Yina Ke Zinga ti Maladi ya Kuvilakana Mambu",
+      "seoTitle": "Papie ya Kubimisa: Bansaka ya Ofele ya Maladi ya Kuvilakana Mambu na Internet",
+      "description": "Papie ya lukasa mosi ya kubimisa sambu na mabuta ti bantu yina ke sansaka bampangi, ya me tadila bansaka ya pɛtɛpɛtɛ ya bafoto sambu na bantu yina ke zinga ti maladi ya kuvilakana mambu, sambu na bimvuka ya lusadisu ti bima ya dikebi.",
+      "crumb": "Papie ya kubimisa",
+      "lede": "Bimisa lukasa yai na papie sambu na kimvuka ya lusadisu, sakosi ya lusadisu to na kielo ya frigo. Sadila komande ya Kubimisa ya navigatere na nge; bamenyu ti babuton ta basika ve na papie.",
+      "introHtml": "<p>Bafoto ya nene, bangogo ya pete mpi kima ya kubwa kele ve. Ya ofele na telefone, tableti to ordinatere, kukonda kudisonikisa, kukonda bupiblisite, kukonda kutanga ntangu mpi kukonda bamanoti. Vanda pene-pene mpi beno sakana muntu na ngonda na yandi.</p>",
+      "gamesTitle": "Bansaka ya kumeka kumosi",
+      "restHtml": "<h2>Mwa bandongisila fyoti</h2><ul><li>Pona ntangu mosi na kilumbu yina muntu ke vandaka na ngolo mbote.</li><li>Yantika ti mutindu ya pete kibeni. Bafoto iya me lunga.</li><li>Solula sambu na bafoto. Masolo ke vandaka mbala mingi kitini ya kitoko kibeni.</li><li>Bika na ntangu kiese kele kaka. Kumanisa nswalu kele mpi kima ya mbote.</li></ul><h2>Bima yankaka na site</h2><ul><li>Mikanda ya ofele ya kubimisa: kusosa bangogo ya bisono ya nene, balukasa ya kupakula bakolo, bakarte ya masolo ti bingo ya bafoto.</li><li>Bangindu ya bansaka sambu na konso kitambi, ti bandongisila sambu na kusakana kumosi mpi kudikeba nge mosi.</li></ul><p class=\"muted\">Sambu na kiese ti kuvanda kumosi. Kele ve ndongisila ya munganga, ekzamɛ to lusansu. Golden Moments me bantisama na Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Sambu na Banzo ya Kusansila Bambuta, Babiblio-tɛke ti Bimvuka ya Lusadisu",
+      "seoTitle": "Bansaka ya ofele sambu na bantu yina kele na maladi ya kuvila mambu na banzo ya bambuta mpi bimvuka",
+      "description": "Mutindu banzo ya kutanina bambuta, bisika ya kuyamba bambuta na mwini, babiblio-teke, bimvuka ya kesadisaka bambuta mpi bimvuka ya lusadisu lenda sadila bansaka na beto ya ofele, mpi masonama sambu na kutula beto na lukanu ya bisadilu na beno.",
+      "crumb": "Sambu na bimvuka",
+      "lede": "Mambu yonso yina kele na site yai kele ya ofele sambu na kusadila ti bantu yina ke zingaka kuna, bantu ya bimvuka mpi banzenza, kukonda konte, nswa to mbongo. Lutiti yai ke tendula mambu yina kele awa mpi mutindu ya kukabula yo.",
+      "shortText": "{name}: bansaka ya bifwanisu ya pete mpi ya ofele, mpi batwazisi ya bisalu sambu na bantu yina kele na maladi ya kuvila mambu ti bansansi na bo. Kukonda kudikomisila, kukonda ntangu ya kutanga, kukonda banoti.",
+      "longText": "{name} ({domain}) ke pesaka bansaka {count} ya ofele na nzila ya navigateur yina bo me salaka sambu na bantu yina kele na maladi ya kuvila mambu, mu mbandu kukangisa bifwanisu ya mutindu mosi yina ke bikala ya kukanuka, kizunguzungu ya pete, kukabula bima na bansonga, bingana ya mezabanaka mpi bingo ya bifwanisu ti bakarte ya kubimisa na papie. Konte kele ve, bansangu ya mumbongo kele ve, ntangu ya kutanga kele ve, to banoti kele ve. Site yai kele mpi ti batwazisi ya bisalu na ndinga ya pete sambu na konso kitini ya maladi ya kuvila mambu, yina ke tubilaka mikanda ya National Institute on Aging mpi Alzheimer's Association.",
+      "useTitle": "Mambu yina bimvuka lenda sadila",
+      "gamesItemHtml": "<strong>Bansaka {count} na navigateur</strong> yina ke salaka na ordinatere ya maboko, tablete to televizio yina me kangama na ordinatere. Kukonda kutula programe, konte to kukulumusa kima. Tala <a href=\"/games/\">bansaka yonso</a>.",
+      "printablesLabel": "Bima {count} ya kubimisa na papie:",
+      "printablesAfter": "Sadila buto ya Kubimisa na papie yina kele na konso lutiti.",
+      "moreItemsHtml": "<li><strong>Mutindu ya bimvuka:</strong> <a href=\"/games/picture-bingo/\">Bingo ya bifwanisu</a> kele ti bakarte ya kubimisa na papie mpi muntu ya kutanga na ekra, mpi <a href=\"/activities/trivia/\">biuvu ya pete</a> kele ti biuvu 50 ti biponami ya bamvutu mpi mambu ya kutubila.</li><li><strong>Batwazisi ya bisalu</strong> sambu na basadi mpi mabuta, na kiteso mpi na mutindu na yo, yina bo me sonika na ndinga ya pete ti bito ya bansangu. Yantika na <a href=\"/activities/ideas/\">makanisi 101 ya bisalu</a> to <a href=\"/activities/care-home-groups/\">bisalu ya kimvuka sambu na banzo ya kutanina bambuta</a>.</li>",
+      "restHtml": "<h2>Mutindu bimvuka ke sadilaka yo</h2><ul><li><strong>Banzo ya kutanina bambuta mpi lutaninu ya mabanza:</strong> bingo ya bifwanisu to kumanisa kingana na televizio ya suku ya banso, ti muntu mosi yina ke niata sambu na kimvuka.</li><li><strong>Bisika ya kuyamba bambuta na mwini:</strong> kisika ya tablete yina kele ti bansaka ya bafoto me tulama na bitini iya, sambu na bantangu ya nkufi ya muntu ti muntu.</li><li><strong>Babiblio-teke ya banso:</strong> bansosa-bangogo ya kubimisa na papie mpi bakarte ya masolo na bakiti ya mabanza, mpi site me bumbama na batablete ya biblio-teke.</li><li><strong>Bimvuka ya lusadisu ya bansansi mpi bakafe ya mabanza:</strong> <a href=\"/handout/\">papie mosi ya kubimisa</a> sambu mabuta kunata na nzo.</li><li><strong>Balopitalo mpi batwazisi ya kubimisa bantu:</strong> papie yango na mikanda ya bansansi, sambu na kima mosi ya pima ya kusala na nzo to pembeni ya mbeto.</li></ul><h2>Mambu yina beto ke salaka ve</h2><p>Bansaka yai kele sambu na kyese mpi ntangu ya kuvanda kumosi. Yo ke sengulaka ve, ke mekisaka ve, ke pesaka ve banoti, ke belulaka ve to ke kulumusaka ve vitesi ya maladi ya kuvila mambu, mpi beto ke lombaka bimvuka na kutubila yo ve na mutindu yina. Bansangu ya mumbongo kele ve, mpi bansaka ke lombaka ve bazina, bansangu ya mavimpi to kutula bafoto. Site yai ke sadilaka Google Analytics sambu na kutanga bantu yina ke kotaka; <a href=\"/privacy/\">nsangu na beto ya kinsweki</a> ke tendula mambu yina yo ke vukisaka. Bafoto yina bo ke sadila na <a href=\"/games/photo-pairs/\">Bafoto ya kukangisa</a> ke bikalaka kaka na kati ya navigateur.</p><h2>Kotesa beto na lukanu na beno ya bisadilu</h2><p>Kana beno ke bumbaka lukanu ya bisadilu sambu na bansansi, beno lenda tula lien na <a href=\"/\">{domain}</a>. Beno lenda kopa konso ntendula na kati ya yai zole.</p>",
+      "shortTitle": "Ntendula ya nkufi",
+      "longTitle": "Ntendula ya nda",
+      "linksHtml": "<p>Malutiti ya mfunu sambu na kutula lien mbala mosi: <a href=\"/games/\">bansaka ya ofele</a>, <a href=\"/activities/printable/\">bima ya ofele ya kubimisa na papie</a>, <a href=\"/activities/alzheimers/\">bisalu sambu na Alzheimer</a> mpi <a href=\"/caregiving/how-to-play-together/\">mutindu ya kusakana kumosi</a>.</p><h2>Biuvu to kusemisa</h2><p>Kana kima mosi na site kele ya mbote ve to ke monana pwelele ve, to mfunu ya muntu yina ke zinga kuna me lungana ve na mambu yina kele awa, pardo zabisa beto na <a href=\"mailto:{email}\">{email}</a>. Pardo tinda ve bansangu ya muntu kibeni to ya mavimpi ya bantu yina ke zinga kuna to ya banzenza na beno.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Aplikasio Golden Moments",
+      "seoTitle": "Aplikasio Golden Moments sambu na iPhone mpi Android",
+      "description": "Aplikasio ya ofele ya Golden Moments: kukangisa bafoto ya pete ti bitini iya ya nene, bafoto ya dibuta ke bikala kaka na apareyi na nge, bikuku ya bifwanisu yina ke salaka kukonda enterneki, mpi kukonda konte.",
+      "crumb": "Aplikasio",
+      "lede": "Mambu yonso yina nge ke zolaka na site, na kati ya aplikasio mosi yina ke salaka kukonda enterneki mpi yina lenda sadila bafoto ya dibuta yina nge me pona.",
+      "worksOn": "Ke salaka na {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Yantika na mambu ya fioti</h2><p>Yantika ti bakarte iya ya nene mpi bifwanisu yina yandi me zaba mbote. Bika bifwanisu ya kumonana, to bumbaka yo kana yina me luta mbote sambu na yandi. Mutindu ya malembe kele ve ti ntangu, pwentu to ndola. Sola bakarte 4, 6, 8 to 12.</p><h2>Sikisa yo sambu na dibuta na beno</h2><p>Sola bafoto ya dibuta na nzila ya kisika ya kupona bafoto na aparaye na nge. Programe ke bumbaka bakopi ya fioti sambu na bansaka yai. Yo ke salaka ve ekzame na bibyoteke na nge mpi yo ke sobaka ve bafoto na nge ya kieleka, mpi yo lenda bumba tii bafoto 24 na kimvuka mosi.</p><h2>Beno tala kaka kumosi</h2><p>Tala kifwanisu mosi na mbala mosi. Bangogo ya kusadisa lenda vutula masolo na nzila ya pima kukonda kulomba muntu kukanga bazina na mutu to kupesa mvutu ya mbote. Kutala kaka kumosi me fwana mpenza.</p><h2>Sosa yo ata internet kele ve</h2><p>Bifwanisu ya luyantiku mpi bimvuka ya bifwanisu yonso nana kele na kati ya programe. Bakopi ya bafoto yina nge kotisaka ke salaka ata internet kele ve. K规范kufidisa bafoto ya kieleka yina kele kaka na iCloud lenda lomba internet.</p><h2>Konte ve, servere ya kusangisa bafoto ve</h2><p>Bakopi ya bafoto ya dibuta ke bikalaka kaka na aparaye na kati ya programe. Nge lenda katula bakopi kukonda kufwa bafoto ya kieleka. Baprogram ya kubumba bansangu na aparaye lenda bumba mpi bansangu ya programe yai. Tanga <a href=\"/app-privacy/\">bansiku ya kinsweki ya programe</a>, mpi <a href=\"/help/\">lusadisu ya programe</a> ke tendula konso inta.</p>",
+      "disclaimer": "Golden Moments kele sambu na bansaka mpi masolo ya kimvuka. Yo ke pimaka ve, yo ke belulaka ve, yo ke kangaka ve nzila mpi yo ke tesaka ve maladi ya kuvilakana mambu to maladi ya Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Bansaka ya ofele na internet sambu na bantu yina kele ti maladi ya kuvilakana mpi Alzheimer",
+    "description": "Bansaka ya ofele na internet sambu na bambuta yina kele ti maladi ya kuvilakana to Alzheimer: kufwanisa bifwanisu, puzzle ya pete, kukabula bima, bingana, kupakola bakulere, bingo. Kukonda kusonama, ntangu to pwentu.",
+    "crumb": "Bansaka",
+    "h1": "Bansaka ya malembe sambu na bantu yina kele ti maladi ya kuvilakana",
+    "lede": "Bansaka ya ofele {count} sambu na kusakana kumosi na navigatere na nge. Bifwanisu ya nene, bangogo ya pete, mpi kima mosi ve ya kulemba: ntangu ve, pwentu ve, kusonama mpi ve.",
+    "listName": "Bansaka ya malembe sambu na bantu yina kele ti maladi ya kuvilakana",
+    "byStageTitle": "Kupona nsaka na kutadila kiteso ya maladi",
+    "byStageLede": "Biteso ya maladi kele kaka lutwadisu ya ngemba. Landa kaka yina muntu ke zolaka mpi yina ke pesaka yandi pima bubu yai.",
+    "stageCol": "Kiteso",
+    "gamesCol": "Bansaka yina me fwana mingi",
+    "moreHtml": "Bangindu ya nkaka ya kukonda aparaye: <a href=\"/activities/ideas/\">bisalu 101 sambu na bantu yina kele ti maladi ya kuvilakana</a>, <a href=\"/activities/alzheimers/\">bisalu mpi bansaka sambu na Alzheimer</a>, <a href=\"/activities/memory-games/\">bansaka ya malembe ya mabanza</a> mpi <a href=\"/activities/puzzles/\">puzzle</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Inki nsaka beto fwete yantika na yo?",
+        "a": "Kufwanisa bifwanisu ti bakarte iya kele nsaka ya pima sambu na kuyantika. Kana kupona na kati ya bifwanisu mingi me kuma mpasi, meka Sosa kifwanisu ya kufwana ti bifwanisu zole. Sambu na kimvuka, meka Bingo ya bifwanisu."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Bansaka yai ke salaka na iPad to na telefoni?",
+        "a": "Ee. Konso nsaka ke salaka na navigatere na ba telefoni, ba tablɛti mpi ba ordinatere, mpi bifwanisu ke kumaka nene sambu na kufulusa ekra. Tablɛti yina me tulama na kiti na yo ke vandaka mbala mingi mbote sambu na bantu zole."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Keti bansaka yai kele mbote sambu na muntu yina kele ti maladi ya Alzheimer?",
+        "a": "Ee. Yo salamaka sambu na bantu yina ke zinga ti maladi ya kuvilakana, yo vanda mpi Alzheimer, kikuma yina me zabanaka mingi. Bifwanisu ke bikalaka ya kumonana, banzila ya kupona kele kaka fioti, mpi kima mosi ve kele ti ntangu to pwentu, yo yina bansaka yai ke bendaka dikebi na kuzaba bima ya kikalulu na kisika ya kuyindula mambu ya mpa."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Keti yai kele bansaka ya mabanza sambu na bambuta?",
+        "a": "Yo kele bansaka ya kufwanisa mpi ya bifwanisu yina konso mbuta lenda sepela na yo, kansi yo salamaka ve sambu na kumeka ngolo ya mabanza: na Kufwanisa bifwanisu, bifwanisu ke bikalaka ya kutanduka kaka kana nge mosi me zola kubumba yo. Lutwadisu na beto ya bansaka ya mabanza sambu na bambuta yina kele ti maladi ya kuvilakana ke tendula mutindu ya kubikisa konso nsaka ya mabanza na pima yonso."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Keti bansaka kele sambu na bimvuka na nzo ya kusansila bambuta?",
+        "a": "Ee. Bingo ya bifwanisu kele ti bakarte ya kubimisa na papie mpi muntu ya kubinga na ekra, mpi Manisa kingana ti Bakarte ya masolo ke salaka mbote ntangu bo ke tanga yo na ndinga ya ngolo na kimvuka."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad mpi Android",
+    "requirements": "iOS 15 to yina me landa; Android 7.0 to yina me landa",
+    "summary": "Programe ya ofele sambu na iPhone, iPad mpi Android yina kele ti kufwanisa ya malembe ya bifwanisu na bakarte ya nene iya tii kumi na zole, kufwanisa mpi kutala kumosi bafoto ya dibuta yina nge me pona, mpi bimvuka nana ya bifwanisu yina ke salaka ata internet kele ve. Konte ve, bapasiti ve, ntangu ve to pwentu ve.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Kufwanisa ya malembe ya bifwanisu ti bakarte ya nene 4, 6, 8 to 12; bifwanisu ke bikalaka ya kumonana kaka kana nge me pona kubumba yo",
+      "Bafoto ya dibuta yina nge me pona ke kopiamaka na kati ya programe sambu na kufwanisa mpi sambu na kutala yo kumosi",
+      "Tala kumosi: kifwanisu mosi na mbala mosi ti bangogo ya kusadisa masolo",
+      "Bimvuka nana ya bifwanisu kele na kati ya programe; yo ke salaka ata internet kele ve",
+      "Konte ve, bapasiti ve, mambu ya kusumba ve na programe, ntangu ve, pwentu ve to ndola ve"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Keti programe ya bisalu sambu na maladi ya kuvilakana kele?",
+        "a": "Ee. Golden Moments (yina me sonama na zina ya \"{storeName}\") kele ya ofele na App Store mpi Google Play. Yo ke pesaka kufwanisa ya malembe ya bifwanisu ti bakarte ya nene, bansaka ti bafoto ya dibuta yina nge me pona, mpi bimvuka ya bifwanisu yina ke salaka ata internet kele ve."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Keti programe ya Golden Moments kele ya ofele?",
+        "a": "Ee. Yo kele ya ofele sambu na kukotisa na aparaye, kukonda bapasiti, konte to bima ya kusumba na kati."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Keti programe ke salaka ata internet kele ve?",
+        "a": "Ee. Bifwanisu ya luyantiku mpi bimvuka ya bifwanisu yonso nana kele na kati ya programe, mpi bafoto ya dibuta ke salaka kukonda internet ntangu yo me kotiama na programe. Kupona foto yina me bumbama kaka na iCloud lenda lomba internet."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Keti mono lenda sadila bafoto na beto mosi ya dibuta?",
+        "a": "Ee. Sola bafoto na kisolilu ya bafoto ya apareyi na nge. Porograme ke bumbaka kopi ya fioti na apareyi sambu na bisalu na yo, yo ke tindaka yo ve na internet mpi ke sobaka ata fioti ve bafoto ya kisina. Nge lenda katula bafoto yango na konso ntangu."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Keti yo kele porograme ya kulonga butomfu to ya kumeka ngindu?",
+        "a": "Ve. Golden Moments kele kaka sambu na kiese mpi kuvanda kumosi. Yo kele ve ti banoti to bimekamu, mpi yo ke sengumunaka ve, ke belulaka ve, ke buyisaka ve to ke tezaka ve kimbevo ya kuvilakana mambu to maladi ya Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Yo ke salaka na baapareyi ya nki mutindu?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Keti kele ti porograme ya nsaka yai?",
+      "a": "Ee. Porograme ya ofele ya Golden Moments sambu na iPhone, iPad mpi Android kele ti nsaka ya pete ya kufwanisa bafoto, lenda sadila bafoto ya dibuta yina nge me sola, mpi ke salaka ata kukonda internet. Konda konte, bansangu ya mumbongo to banoti."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Keti kele ti porograme ya nsaka yai?",
+      "a": "Ve sambu na nsaka yai. Porograme ya ofele ya Golden Moments sambu na iPhone, iPad mpi Android kele ti nsaka ya pete ya kufwanisa bafoto ya nene mpi bafoto ya dibuta yina nge me sola, mpi yo ke salaka ata kukonda internet. Nsaka yai ke bikalaka ya ofele awa na browser na nge."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: bafoto ya nene mpi ya kiese",
+    "noscript": "Nsaka yai ke lombaka kupelisa JavaScript na browser na nge. Bandongisila yina kele na nsi ke salaka ata yo kele ve.",
+    "about": "Sambu na {name}",
+    "aboutAria": "Sambu na nsaka yai",
+    "noTimer": "Konda kutanga ntangu to banoti",
+    "printable": "Ya kuniema",
+    "howTo": "Mutindu ya kusakana {name}",
+    "tips": "Bandongisila sambu na kusakana kumosi",
+    "newToPlayingHtml": "Nge me yantika kusakana ti muntu yina kele ti kimbevo ya kuvilakana mambu? Tanga <a href=\"/caregiving/how-to-play-together/\">mutindu ya kusakana bansaka kumosi</a>, kumosi ti mambu ya kusala kana yandi me vidisa mpusa.",
+    "moreAria": "Mambu ya nkaka ya kutala",
+    "helpfulGuides": "Bantwadisu ya mfunu",
+    "appTitle": "Sakana yo na porograme",
+    "appText": "Porograme ya ofele ya Golden Moments kele ti nsaka ya pete ya kufwanisa bafoto ya nene ti bafoto ya dibuta na nge mosi, mpi yo ke salaka ata kukonda Wi‑Fi. iPhone, iPad mpi Android.",
+    "photoAppTitle": "Bumba bafoto na nge ya kuyilama",
+    "photoAppText": "Na kati ya porograme ya ofele ya Golden Moments, bafoto yina nge me sola ke bikalaka na apareyi na nge sambu na mbala ya nkaka, mpi bansaka ke salaka ata kukonda Wi‑Fi. iPhone, iPad mpi Android.",
+    "goodToKnow": "Yo kele mbote na kuzaba",
+    "goodToKnowText": "Nsaka yai kele kaka sambu na kiese mpi kuvanda kumosi. Yo ke mekaka ve, ke tezaka ve to ke belulaka ve kima mosi.",
+    "moreGames": "Bansaka ya nkaka ya pete",
+    "crumb": "Bansaka"
   }
 }

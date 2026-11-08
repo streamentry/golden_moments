@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Transi ad argumentum principale",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Actiones pro dementia",
+    "homeLabel": "Pagina prima Golden Moments",
+    "mainNav": "Navigatio principalis",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Latina",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: imagines magnae et amicae poculi, helianti et canis",
+    "languages": "Lingua",
+    "englishOnly": "(Anglice)",
+    "machineTranslated": "Haec pagina automatice conversa est et nondum a locutore nativo recognita est.",
+    "readOriginal": "Lege textum originalem Anglice",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Ludi",
+      "activities": "Actiones",
+      "caregiving": "Cura",
+      "brainHealth": "Valetudo cerebri"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Quaestiones et responsa",
+    "breadcrumb": "Iter paginarum",
+    "home": "Pagina prima",
+    "lastUpdated": "Postremo renovatum",
+    "topics": "Argumenta",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Magnitudo litterarum",
+      "smaller": "Litterae solitae",
+      "larger": "Litterae maiores",
+      "contrast": "Maior oppositio colorum"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Lude",
+    "picturePairs": "Paria imaginum",
+    "conversationCards": "Chartulae colloquii",
+    "pictureBingo": "Bingo imaginum",
+    "allGames": "Omnes ludi",
+    "pictures": "Imagines imprimendae",
+    "activityIdeas": "Consilia actionum",
+    "ideas101": "101 consilia actionum",
+    "lateStage": "Actiones pro gradu provectiore",
+    "printable": "Actiones imprimendae",
+    "allActivities": "Omnes actiones",
+    "forCaregivers": "Pro eis qui curam praebent",
+    "playTogether": "Quomodo una ludatis",
+    "selfCare": "Cura tui ipsius",
+    "brainHealth": "Investigationes de valetudine cerebri",
+    "faq": "Quaestiones et responsa",
+    "about": "De nobis",
+    "approach": "Noster modus",
+    "howWeWrite": "Quomodo scribimus",
+    "organizations": "Pro societatibus",
+    "app": "Applicatio Golden Moments",
+    "appHelp": "Auxilium applicationis",
+    "support": "Auxilium",
+    "legal": "Iuridica",
+    "sitePrivacy": "Privata situs interretialis",
+    "appPrivacy": "Ratio privatitatis applicationis",
+    "privacyChoices": "Electiones privatitatis",
+    "terms": "Condiciones et licentia applicationis",
+    "safety": "Securitas et usus destinatus",
+    "accessibility": "Accessibilitas",
+    "healthNotice": "Notitia de valetudine",
+    "allLegal": "Omnes notitiae iuridicae",
+    "note": "Golden Moments actiones simplices ad una fruendum praebet. Non est consilium medicum, non probatio nec curatio, neque quemquam dignoscit, metitur aut aestimat. De quaestionibus valetudinis cum medico loquere. In casu subito, voca numerum auxilii subiti tuae regionis.",
+    "publisher": "Editum a Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Ludi et actiones pro dementia et morbo Alzheimer | Golden Moments",
+    "description": "Ludi imaginum lenes et gratuiti, in rete ludendi, et consilia actionum pro hominibus cum dementia vel morbo Alzheimer viventibus et pro eis qui curam praebent. Sine inscriptione, sine horologiis, sine punctis.",
+    "eyebrow": "Gratuitum · Sine praeconiis · Sine inscriptione · Sine horologiis aut punctis",
+    "h1": "Ludi et actiones lenes pro hominibus cum dementia viventibus",
+    "lede": "Ludi imaginum simplices, imagines familiares et actiones quibus una frui potestis, vestro modo.",
+    "playGame": "Lude ludum",
+    "findIdeas": "Inveni consilia actionum",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "In telephono, tabula et computatro adhiberi potest",
+      "Imagines magnae quae semper videntur",
+      "Quovis tempore desistere potes; nihil est quod male fiat"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Etiam applicatio gratuita pro iPhone, iPad et Android, cum propriis imaginibus familiae tuae",
+    "albumNote": "«Duae imagines poculi, una.»",
+    "gamesEyebrow": "Lude in navigatro tuo",
+    "gamesTitle": "Ludi quos statim ludere potes",
+    "gamesLede": "Quisque ludus est tranquillus, adultus et cito incipiendus. Elige unum, sedete una, et tangite vicissim.",
+    "seeAllGames": "Vide omnes {count} ludos",
+    "howTitle": "Quomodo fit",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Elige aliquid familiare",
+        "text": "Imagines poculorum, hortorum, animalium domesticorum et navium veliferarum. Nihil legendum aut discendum ante est."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Sedete una",
+        "text": "Sine eum vel eam tangere. De imaginibus loquimini. Si imagines non congruunt, ludus simpliciter proximum tactum exspectat."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Desistite dum bene se habet",
+        "text": "Unus ludus est actio perfecta. «Nunc satis» semper in screen apparet."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Ultra screen",
+    "stageTitle": "Consilia actionum pro omni gradu",
+    "stageLede": "Musica, opera cotidiana, recordatio et momenta quieta sensuum, accommodata ad id quod nunc commodum videtur.",
+    "ideas101": "101 consilia actionum",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Gradus prior",
+        "text": "Pergite facere ea quae ei vel ei placent, cum parvis mutationibus: studia, exitus, ludi verborum et consilia una facienda.",
+        "label": "Consilia pro gradu priore"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Gradus medius",
+        "text": "Opera simplicia et familiaria in gradus divisa: plicare, ordinare, musica, ludi imaginum et breves ambulationes.",
+        "label": "Consilia pro gradu medio"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Gradus posterior",
+        "text": "Solacium et coniunctio per tactum, sonum et visum: cura manuum, cantus dilecti, imagines et tempus una actum.",
+        "label": "Consilia pro gradu posteriore"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Aliquid certum quaeris? Conare <a href=\"/activities/alzheimers/\">actiones et ludos pro morbo Alzheimer</a>, <a href=\"/activities/memory-games/\">ludos memoriae lenes</a>, <a href=\"/activities/trivia/\">quaestiones faciles</a> aut <a href=\"/activities/puzzles/\">aenigmata</a>.",
+    "approachEyebrow": "Noster modus",
+    "approachTitle": "Actio communis, non probatio memoriae",
+    "approachLede": "Multi «ludi cerebri» circa celeritatem, puncta et series struuntur. Ei qui cum dementia vivit hoc fortasse sicut examen videtur. Nos contrarium fecimus.",
+    "approachLink": "Cur ita hoc formemus",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Nihil est quod male fiat",
+        "text": "Nullum horologium, nulla puncta, nullae vitae, nulla amissio. Imago alia est pausa, non error."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Imagines semper videntur",
+        "text": "Agnitio potius quam recordatio. Ludus congruentiae incipit omnibus imaginibus apertis, ita nihil memoria tenendum est."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Adultum et dignum",
+        "text": "Verba calida et plana atque imagines rerum cotidianarum. Numquam imagines pueriles aut sermo infantilis."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Privatum ex consilio",
+        "text": "Nullae rationes, nulla praeconia. Imagines tuae numquam machinam tuam relinquunt."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Pro eis qui curam praebent",
+    "guidesTitle": "Consilia utilia pro cura cotidiana",
+    "allCaregiving": "Omnia consilia de cura",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Quomodo una ludos ludatis",
+        "text": "Praeparatio, modus et quid facias cum ludus iam iucundus non est."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Cum actionem recusat",
+        "text": "Causae communes recusandi et modi lenes postea iterum conandi."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Quomodo tabulam instruas",
+        "text": "Litterae maiores, pauciores interpellationes et una screen prima simplex."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Actiones gratuita imprimendae",
+        "text": "Verba quaerenda magnis litteris, paginae colorandae, bingo et chartulae colloquii."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Valetudo cerebri: quid investigationes vere dicant",
+    "researchText": "Potestne dementia praecaveri? Ludi cerebri iuvantne? Quid de ieiunio, victu, somno et auditu? Responsa plana et fontibus nixa, etiam ubi indicia infirma sunt.",
+    "researchLink": "Lege consilia de investigationibus",
+    "appEyebrow": "Etiam applicatio",
+    "appTitle": "Golden Moments in iPhone, iPad et Android",
+    "appText": "Applicatio gratuita etiam sine rete operatur et imaginibus familiae uti potest quas tu eligis, in machina tua ut exempla servatis. Idem consilium tranquillum: quattuor tesserae magnae, sine horologio, sine punctis.",
+    "aboutApp": "De applicatione",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Qui ludi hominibus cum dementia viventibus apti sunt?",
+        "a": "Ludi boni simplices et familiares sunt, sine pressione: magnae imagines componendae, res ordinandae, faciles picturae dissecandae, dicta nota perficienda, imagines colorandae, bingo imaginum et chartae ad colloquendum. Optima electio est id quod persona hodie iucundum invenit. Vita horologia, puncta et omnia quae probationem sentiuntur."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Suntne hi ludi de dementia gratuiti?",
+        "a": "Ita. Omnes ludi et paginae imprimendae in Golden Moments gratuiti sunt, sine ratione, inscriptione aut deoneratione. Ludi in navigatro interretiali in telephono, tabula computatrali aut computatro currunt."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Prohibentne ludi cerebrales dementiam?",
+        "a": "Nullus ludus demonstratus est dementiam prohibere, et Golden Moments non affirmat se quidquam curare aut prohibere. Ludi nostri ad delectationem et tempus una agendum sunt. Pars nostra de valetudine cerebri explicat quid investigatio monstret et quid non monstret."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Suntne hi ludi apti ei qui morbo Alzheimer vivit?",
+        "a": "Ita. Morbus Alzheimer est causa frequentissima dementiae, et ludi ad hoc facti sunt: magnae imagines quae visibiles manent, paucae electiones, et nihil quod meminisse aut errare debeas. Imagines componere, res ordinare et dicta familiaria perficere scientia diu retenta nituntur potius quam nova discendo."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Potestne aliquis qui in gradu posteriore dementiae vivit his actionibus uti?",
+        "a": "Saepe ita, si aliquis iuxta adest. Incipe cum «Inveni idem» cum duabus imaginibus, «Paria imaginum» cum quattuor tegulis, pagina coloranda aut tranquilla respirationis pausa. Breve serva, eius ductum sequere et desine cum satis habuerit."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Suntne notitiae meae privatae?",
+        "a": "Situs rationes non habet nec praeconia. Google Analytics utimur ut intellegamus quae paginae visitentur. Photographemata quae pro «Paria imaginum» eligis solum in navigatro tuo ostenduntur et numquam onerantur."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Quis Golden Moments facit?",
+        "a": "Golden Moments est parva turma quae tranquillas actiones imaginum pro adultis facit, pro familiis et iis qui curam praebent, in interreti et ut applicationem gratuitam. Clinici non sumus, et nihil hic est consilium medicum."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "praecox",
+    "middle": "medius",
+    "late": "posterior",
+    "hintOne": "Saepe aptum gradui {list}",
+    "hintMany": "Saepe aptum gradibus {list}",
+    "labelEarly": "Gradus praecox",
+    "labelMiddle": "Gradus medius",
+    "labelLate": "Gradus posterior"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "De hoc ludo",
+    "printable": "Imprimendum",
+    "play": "Lude {name} →",
+    "readGuide": "Lege ducem"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Paratus ad lenem ludum?",
+    "text": "Magnae imagines, nullum horologium, nulla puncta et nihil cui inscribaris. Lude una in navigatro tuo.",
+    "play": "Lude ludum",
+    "all": "Vide omnes ludos",
+    "aria": "Lude ludum"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Hos ludos tecum fer",
+    "text": "Applicatio gratuita Golden Moments pro iPhone, iPad et Android: magnae tegulae imaginum, ludi cum photographiis familiae tuae, et fasciculi imaginum qui sine Wi‑Fi operantur. Nulla ratio, nulla praeconia, nullum horologium, nulla puncta.",
+    "appStore": "Accipe in App Store",
+    "googlePlay": "Accipe in Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "De applicatione",
+    "aria": "Accipe applicationem"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Actiones",
+      "title": "Actiones pro hominibus qui cum dementia vivunt",
+      "seo": "Actiones pro hominibus qui cum dementia vivunt: consilia per gradum",
+      "description": "Consilia actionum pro hominibus qui cum dementia vivunt in omni gradu: musica, memoria, opera cotidiana, momenta sensuum, artificia, foris et paginae gratuita imprimendae.",
+      "lede": "Actio significans est quidquid solacium, propositum aut momentum coniunctionis affert. Incipe ab eo quod persona semper amavit, et id hodie apta."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Cura",
+      "title": "Duces de cura",
+      "seo": "Duces de cura dementiae: auxilium cotidianum utile",
+      "description": "Duces utiles et benigni pro iis qui curam praebent: ludere una, communicare, recusationes, inquietudo vespertina, tabulae computatrales, eligere applicationes et cura sui.",
+      "lede": "Auxilium simplex et utile pro momentis cotidianis curandi aliquem qui cum dementia vivit, etiam curando te ipsum."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Valetudo cerebri",
+      "title": "Valetudo cerebri: quid investigatio dicat",
+      "seo": "Valetudo cerebri et periculum dementiae: quid investigatio dicat",
+      "description": "Potestne dementia prohiberi? Duces honesti, fontibus muniti, de factoribus periculi dementiae, ludis cerebralibus, ieiunio, victu, exercitatione, somno, auditu et signis praecocibus.",
+      "lede": "Quid magna studia re vera ostendant de periculo dementiae minuendo, plane explicatum, etiam ubi indicia infirma aut mixta sunt. Notitia generalis, non consilium medicum."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Renovatum",
+    "minuteRead": "Lectio {n} minutarum",
+    "byTeam": "A turma Golden Moments",
+    "howWeWrite": "Quomodo scribimus",
+    "shortAnswer": "Responsum breve",
+    "onThisPage": "In hac pagina ({n} partes)",
+    "commonQuestions": "Quaestiones communes",
+    "sources": "Fontes",
+    "sourcesNote": "Coniungimus ad instituta et studia quibus haec pagina nititur. Unumquodque revisum est cum pagina renovata est.",
+    "tryTogether": "Conamini una",
+    "relatedGuides": "Duces cognati",
+    "related": "Cognata",
+    "startHere": "Incipe hic"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Notitia de valetudine",
+    "title": "Notitia generalis, non consilium medicum",
+    "textHtml": "Haec pagina investigationem editam pro familiis summatim exponit. Non potest dicere quid uni personae aptum sit. Loquere cum medico antequam victum, exercitationem, somnum, medicamenta aut supplementa mutes. Si confusio subita aut aliae mutationes subitae fiunt, auxilium medicum statim pete. <a href=\"/medical-disclaimer/\">Lege nostram notitiam de valetudine</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Actio communis, non probatio memoriae",
+      "seoTitle": "De Golden Moments: nostra ratio",
+      "description": "Cur ludi Golden Moments horologia, puncta aut series non habeant, cur imagines visibiles maneant, et quid de dementia affirmabimus aut non affirmabimus.",
+      "crumb": "Nostra ratio",
+      "lede": "Golden Moments tranquillas actiones imaginum pro adultis facit, quibus is qui curam praebet et aliquis qui cum dementia vivit una frui possunt.",
+      "bodyHtml": "<h2>Quid credimus</h2><p>Finis actionis est ipse hic momentus: sermo, risus, gaudium cum duas imagines coniungis, aut simpliciter una sedere. Non est quemquam metiri, urgere aut aliquid probare.</p><p>Multae applicationes ad exercitationem mentis celeritate, punctis, seriebus et gradibus nituntur. Homini qui cum dementia vivit hoc examen videri potest quod vincere non potest. Nos contrarium excogitavimus et his regulis nos obligamus:</p><ul><li><strong>Nihil quod deficere possis.</strong> Nullum horologium, nulla puncta, nullus numerus motuum, nullae vitae, nullae series, nullae confetti, nulla tempora decurrentia, in nulla pagina.</li><li><strong>Agnoscere, non meminisse cogere.</strong> Imagines plerumque apertae manent. Monita ad sermonem invitant et numquam nomina aut memorias interrogant.</li><li><strong>Magna, clara et stabilia.</strong> Litterae et imagines magnae, clarus colorum contrastus, et moderamina quae eodem loco manent.</li><li><strong>Dignitas adulta.</strong> Imagines rerum cotidianarum et verba clara ac benigna. Nullae imagines pueriles, nulla laudatio cantilenae similis, nulla praemia per emoji.</li><li><strong>Facilis exitus.</strong> \"Nunc satis est\" semper videri potest. Intermittere media in actione bonum eventum est.</li><li><strong>Tutum ex origine.</strong> Nullae rationes usoris, nulla praeconia. Photographemata quae eligis in tuo instrumento manent.</li></ul><h2>Quae non affirmamus</h2><p>Ludi nostri ad delectationem et coniunctionem pertinent. Dementiam aut morbum Alzheimer non dignoscunt, non probant, non metiuntur, non curant, non tardant, non impediunt, neque quisquam eos ob hanc causam eligere debet. Cum de investigationibus in <a href=\"/brain-health/\">paginis nostris de valetudine cerebri</a> scribimus, aperte dicimus ubi indicia infirma sunt, et ea numquam cum ludis nostris coniungimus.</p><h2>Qui simus</h2><p>Golden Moments est parvus grex sui iuris. Medici non sumus. Duces nostri ex praeceptis editis ab institutis sicut National Institute on Aging et Alzheimer’s Association scribuntur, et omnis dux fontes suos enumerat. Lege <a href=\"/editorial-policy/\">quomodo paginas nostras scribamus et comprobemus</a>.</p><h2>Dic nobis quid iuvet</h2><p>Libenter audimus quid tibi bene succedat et quid minus, praesertim ab hominibus qui cum dementia vivunt, a familiaribus qui curam praebent et ab eis qui actiones ducunt. Scribe ad <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Quomodo paginas nostras scribimus et comprobamus",
+      "seoTitle": "Ratio editorialis",
+      "description": "Quomodo Golden Moments paginas de actionibus pro dementia et de valetudine cerebri investigat, scribit, fontibus munit et renovat, et quid numquam edemus.",
+      "crumb": "Ratio editorialis",
+      "bodyHtml": "<h2>Fontes nostri</h2><p>Duces nostri in praeceptis publicis nituntur ab institutis sicut National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance et NHS, atque in investigationibus a peritis recognitis sicut recognitiones Cochrane et magna experimenta clinica. Omnis dux fontes enumerat quibus nititur. Quemque fontem aperimus antequam eum citamus, et solum id referimus quod revera dicit.</p><h2>Quomodo scribimus</h2><ul><li>Primum utilitas: quid hodie facere possis, verbis claris.</li><li>Honeste de indiciis: dicimus \"coniunctum cum\", \"fortasse\" et \"indicia mixta sunt\", cum id verum est.</li><li>Cum reverentia: de hominibus qui cum dementia vivunt ut de adultis scribimus, et numquam verbis interrogantibus aut pudorem afferentibus utimur.</li><li>Nulla ficta: nullae statisticae, sententiae, periti, studia, recognitiones aut testimonia conficta.</li></ul><h2>Quis paginas nostras recognoscit</h2><p>Paginae a grege Golden Moments scribuntur et comprobantur, adiuvantibus instrumentis scriptionis intellegentiae artificialis ad investigandum et scribendum. Omnis pagina a grege cum fontibus suis confertur. Paginae nostrae <strong>non</strong> a medico aut alio clinico recognitae sunt, neque id affirmamus. Sunt notitiae generales, non consilium medicum.</p><h2>Quae numquam edemus</h2><ul><li>Affirmationes quod ludus, cibus, supplementum, ieiunium aut consuetudo dementiam impedit, curat, tardat aut sanat.</li><li>Probationes, interrogationes aut puncta quae suadent aliquem dementiam habere aut non habere.</li><li>Consilium ut medicamentum incipias, desinas aut mutes.</li><li>Praeconia aut contentum sponsoratum quod tamquam consilium apparet.</li></ul><h2>Renovationes et correctiones</h2><p>In omni pagina dies ostenditur quo novissime renovata est. Si errorem aut fontem obsoletum inveneris, scribe quaeso ad <a href=\"mailto:{email}\">{email}</a> et rem celeriter comprobabimus.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Quaestiones et responsa",
+      "seoTitle": "Ludi et actiones pro dementia: quaestiones et responsa",
+      "description": "Responsa ad quaestiones communes de ludis et actionibus pro dementia: quos ludos experiri, quam diu ludere, consilia pro gradibus posterioribus, valetudo cerebri et tutela vitae privatae.",
+      "crumb": "Quaestiones et responsa",
+      "lede": "Brevia et clara responsa ad quaestiones quas curatores saepissime rogant.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "De ludis",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Qui ludi optimi sunt homini cum dementia?",
+              "a": "Optimi ludi sunt noti, simplices et sine pressura, et aptissimus est is quo homo hodie gaudet. Coniungere imagines apertas, ordinare, facilia fragmenta imaginis, complere dicta nota, colorare et bingo imaginum multis hominibus bene conveniunt. Vita tempora decurrentia, puncta et quidquid tamquam examen videtur."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Ludi vere gratuiti sunt?",
+              "a": "Ita. Omnes ludi et paginae imprimendae gratuiti sunt, sine ratione, inscriptione, deductione aut praeconiis mercatoriis."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Cur nulla sunt puncta, gradus aut horologia?",
+              "a": "Celeritas et puncta iucundam actionem in examen vertunt, quod pudorem aut frustrationem afferre potest. Animum ad delectationem et tempus una actum intendimus, ut nihil sit quod male eveniat et quovis momento desistere possis."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Quae instrumenta optime apta sunt?",
+              "a": "Quilibet telephonum gestabile, tabula computatralis aut computatrum cum navigatro interretiali recenti. Tabula computatralis in fulcro ad mensam posita saepe commodissima est via duobus hominibus una iuxta ludentibus. Computatrum gestabile ad televistrum coniunctum bene aptum est coetibus."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Possumusne nostris familiaribus photographiis ludere?",
+              "a": "Ita. Paria photographica 2 ad 6 photographias, quas eligis, in ludum comparationis vertunt. Photographemata in navigatro tuo manent neque transmittuntur neque servantur."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Actiones et cura",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Quam diu actio durare debet?",
+              "a": "Saepe 10 ad 20 minuta satis sunt, et interdum 2 minuta iam successus sunt. Observa signa defatigationis aut frustrationis et desiste dum adhuc iucundum videtur. Nulla est recta mensura."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Quid si is quem curas actionem facere non vult?",
+              "a": "Hoc «non» observa et postea aut alio modo iterum tempta. Recusatio ex defatigatione, dolore, dubitatione aut simpliciter ex eo oriri potest quod res non placet. Vide ducem nostrum de eo quod faciendum est cum dicit «non»."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Quae actiones aptae sunt dementia provectiore?",
+              "a": "Solacium et sensus: musicam gratissimam audire, manus unguento leniter fricare, una photographias spectare, lodicem mollem tenere, foris sedere, aut ludum imaginum simplicissimum cum aliquo iuxta sedente agere. Dux noster de stadio provectiore plures ideas habet."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Suntne actiones aptae coetibus in domo curae?",
+              "a": "Ita. Bingo imaginum chartas imprimendas et vocatorem in scrinio habet, et Perfice dictum et Chartae colloquii bene leguntur clara voce. Dux noster de coetibus in domo curae magnitudinem coetus, sedes et accommodationem ad varias facultates tractat."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Valetudo cerebri",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Possuntne ludi dementiam prohibere aut retardare?",
+              "a": "Nullus ludus demonstratus est dementiam prohibere, neque ludi nostri tale quid affirmant. Stimulatio cognitiva in rerum socialium contextu in investigationibus parva commoda hominibus cum dementia levi ad moderatam ostendit, sed hoc aliud est atque ludus qui morbum prohibeat. Ludos ad delectationem et coniunctionem praebemus."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Potestne dementia prohiberi?",
+              "a": "Non certo. Investigatio 14 factores valetudinis et vitae cum periculo dementiae coniungit, sicut iacturam auditus, pressionem sanguinis altam, inactivitatem corporis et solitudinem socialem. His occurrere periculum quibusdam hominibus fortasse minuere potest, sed multi qui omnia recte faciunt tamen dementiam accipiunt. Numquam culpa cuiusquam est."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Estne ieiunium intermittens utile valetudini cerebri?",
+              "a": "Documenta in hominibus circumscripta et prima sunt, et magna pars investigationis in animalibus fit. Ieiunium maioribus natu periculosum esse potest, praesertim cum medicamentis contra diabetem aut cum pondere non consulto amisso, neque hominibus qui cum dementia vivunt commendatur. Cum medico colloquere antequam rationem edendi mutas."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Tutela secretorum et securitas",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Colligitisne aliqua indicia?",
+              "a": "Nullae rationes aut praeconia mercatoria. Google Analytics adhibemus ut visitationes numeremus et videamus quae paginae prosint, et navigator tuus meminit utrum sonos lenes accenderis necne. Photographemata quae ad Paria photographica eligis numquam transmittuntur. Vide nuntium de tutela secretorum plura cognoscendi causa."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Estne hoc consilium medicum?",
+              "a": "Non. Golden Moments ad recreationem et informationem generalem destinatur. De quaestionibus valetudinis cum medico loquere, et in rebus subitis numerum auxilii subiti loci tui voca."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Plura: <a href=\"/caregiving/how-to-play-together/\">quomodo una ludatis</a>, <a href=\"/caregiving/when-they-say-no/\">cum dicit «non»</a>, <a href=\"/activities/late-stage/\">actiones stadio provectiore</a> et <a href=\"/brain-health/can-dementia-be-prevented/\">potestne dementia prohiberi?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Ludi gratuiti et lenes hominibus qui cum dementia vivunt",
+      "seoTitle": "Pagina imprimenda: ludi gratuiti de dementia in interreti",
+      "description": "Pagina una imprimenda familiis et curatoribus de ludis imaginum gratuitis et lenibus hominibus qui cum dementia vivunt, apta coetibus auxilii et fasciculis curae.",
+      "crumb": "Pagina imprimenda",
+      "lede": "Hanc paginam imprime pro coetu auxilii, fasciculo curae aut ianua armarii refrigerantis. Utere iussu Imprime navigatoris tui; indices et globuli in impressione non apparent.",
+      "introHtml": "<p>Imagines magnae, verba plana et nihil quod male eveniat. Gratuitum in telephono gestabili, tabula computatrali aut computatro, sine inscriptione, sine praeconiis mercatoriis, sine horologiis et sine punctis. Iuxta sedete et vicissim agite.</p>",
+      "gamesTitle": "Ludi una temptandi",
+      "restHtml": "<h2>Pauca consilia</h2><ul><li>Elige tempus diei quo is quem curas optime se habet.</li><li>Incipe a gradu facillimo. Quattuor tesserae satis sunt.</li><li>De imaginibus colloquimini. Colloquium saepe pars optima est.</li><li>Desiste dum adhuc iucundum videtur. Cito finire bonus exitus est.</li></ul><h2>Etiam in hoc situ</h2><ul><li>Paginae imprimendae gratuita: inquisitio verborum magnis litteris, paginae colorandae, chartae colloquii et bingo imaginum.</li><li>Ideae actionum cuique stadio aptae, et duces de ludo una agendo et de cura tui ipsius.</li></ul><p class=\"muted\">Ad delectationem et tempus una actum. Non est consilium medicum, probatio aut curatio. Golden Moments a Cloudjet Solutions Pte. Ltd. editur.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Pro domibus curae, bibliothecis et coetibus auxilii",
+      "seoTitle": "Actiones liberae pro iis qui cum dementia vivunt, pro domibus curae et gregibus",
+      "description": "Quomodo domus curae, sedes diurnae, bibliothecae, et greges auxilii ludis nostris liberis utantur, una cum verbis ad nos in indicem utilium addendos.",
+      "crumb": "Pro institutis",
+      "lede": "Omnia in hoc situ gratis adhiberi possunt cum incolis, sodalibus, et iis quos curatis, nullo indice nominis, diplomatibus, vel mercede postulatis. Haec pagina explicat quid hic inveniatur et quomodo communicari possit.",
+      "shortText": "{name}: ludi imaginum faciles et liberi, atque duces actionum pro iis qui cum dementia vivunt et eorum curantibus. Sine perscriptione, sine horologiis, sine punctis.",
+      "longText": "{name} ({domain}) praebet {count} ludos navigatri liberos, factos pro iis qui cum dementia vivunt, inter quos paria imaginum quae aperta manent, facilia aenigmata composita, res ordinandas, proverbia nota, et ludum aleatorium imaginum (bingo) cum chartulis imprimendis. Nullus est index nominis, nulla praeconia, nullum horologium, nulla puncta. Situs etiam duces actionum verbis planis pro omnibus gradibus dementiae continet, qui National Institute on Aging et Alzheimer's Association commemorant.",
+      "useTitle": "Quae instituta adhibere possunt",
+      "gamesItemHtml": "<strong>{count} ludi navigatri</strong> qui in computatro portabili, tabula electronica, vel televisorio cum computatro conexo agi possunt. Sine institutione, indice nominis, vel oneratione. Vide <a href=\"/games/\">omnes ludos</a>.",
+      "printablesLabel": "{count} res imprimendae:",
+      "printablesAfter": "Utere globulo Imprimere in unaquaque pagina.",
+      "moreItemsHtml": "<li><strong>Formae pro gregibus:</strong> <a href=\"/games/picture-bingo/\">Bingo imaginum</a> chartulas imprimendas et monitorem in scrinio habet, et <a href=\"/activities/trivia/\">quaestiones faciles</a> 50 interrogationes cum optionibus responsionum et argumentis ad colloquendum praebent.</li><li><strong>Duces actionum</strong> pro ministris et familiis, pro gradu ac genere dispositi, verbis planis et fontibus allatis conscripti. Incipe a <a href=\"/activities/ideas/\">101 consiliis actionum</a> vel <a href=\"/activities/care-home-groups/\">actionibus gregalibus pro domibus curae</a>.</li>",
+      "restHtml": "<h2>Quomodo greges his utantur</h2><ul><li><strong>Domus curae et custodia memoriae:</strong> bingo imaginum vel complere sententias in televisorio conclavis communis, uno homine pro toto grege tangendo eligente.</li><li><strong>Programmata diurna adultorum:</strong> statio cum tabula electronica et paribus imaginum ad quattuor tessellas compositis, pro brevibus sessionibus singularibus.</li><li><strong>Bibliothecae publicae:</strong> investigationes verborum impressae et chartulae ad colloquendum in instrumentis memoriae, et hic situs in tabulis bibliothecae servatus.</li><li><strong>Greges auxilii curantibus et cauponae memoriae:</strong> <a href=\"/handout/\">libellus unius paginae imprimendus</a> quem familiae domum ferant.</li><li><strong>Nosocomia et qui de missione disponunt:</strong> idem libellus in fasciculis curantium datus, ut sit res tranquilla quam domi vel ad lectum agant.</li></ul><h2>Quae non facimus</h2><p>Hi ludi ad delectationem et tempus una transigendum parati sunt. Non iudicant, non probant, non puncta computant, neque dementiam curant vel retardant, et instituta rogamus ne eos ita describant. Nulla sunt praeconia, nec ludi nomina, indicia valetudinis, vel imagines imponendas poscunt. Hic situs interretialis Google Analytics adhibet ad visitationes numerandas; <a href=\"/privacy/\">notitia de secretis tuendis</a> explicat quid colligatur. Imagines adhibitae in <a href=\"/games/photo-pairs/\">Paria imaginum</a> intra navigatrum manent.</p><h2>Adde nos ad indicem subsidiorum tuum</h2><p>Si indicem subsidiorum curantibus servas, libenter vinculum ad <a href=\"/\">{domain}</a> addere potes. Licet utramvis descriptionem transcribere.</p>",
+      "shortTitle": "Descriptio brevis",
+      "longTitle": "Descriptio fusior",
+      "linksHtml": "<p>Paginae utiles ad quas directe coniungatur: <a href=\"/games/\">ludi liberi</a>, <a href=\"/activities/printable/\">res imprimendae liberae</a>, <a href=\"/activities/alzheimers/\">actiones pro morbo Alzheimeriano</a> et <a href=\"/caregiving/how-to-play-together/\">quomodo una ludatur</a>.</p><h2>Quaestiones vel emendationes</h2><p>Si quid in situ mendosum vel obscurum est, aut si necessitates incolae his non satisfiunt, quaesumus nos certiores facias apud <a href=\"mailto:{email}\">{email}</a>. Noli mittere indicia privata vel valetudinis de incolis aut iis quos curatis.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Applicatio Golden Moments",
+      "seoTitle": "Applicatio Golden Moments pro iPhone et Android",
+      "description": "Applicatio libera Golden Moments: paria imaginum facilia cum quattuor tessellis magnis, imagines familiarum in instrumento tuo servatae, sarcinae imaginum sine interrete adhibendae, et sine indice nominis.",
+      "crumb": "Applicatio",
+      "lede": "Omnia quae in situ interretiali tibi placent, in applicatione quae sine interrete operatur et imagines familiares a te electas adhibere potest.",
+      "worksOn": "Aptum pro {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Incipe parvis</h2><p>Incipe cum quattuor magnis tesseris et imaginibus notis. Imagines visibiles relinque, aut eas absconde si id commodius videtur. Modus lenis horologium, puncta aut poenam non habet. Elige 4, 6, 8 aut 12 tesseras.</p><h2>Fac id personale</h2><p>Photographemata familiaria cum selectore photographiarum instrumenti tui elige. Applicatio minores exemplares ad suas actiones servat. Bibliothecam tuam non perscrutatur nec photographias originales mutat, et usque ad 24 photographias in una collectione servat.</p><h2>Una simpliciter aspicite</h2><p>Unam imaginem simul aspicite. Quaestiones voluntariae ad colloquium invitant, neminem rogantes ut nomina meminerit aut responsum rectum det. Satis est simpliciter aspicere.</p><h2>Sine conexione interretiali ubi maxime refert</h2><p>Imagines initiales et omnes octo fasciculi imaginum in applicatione continentur. Exemplaria photographiarum importata sine conexione interretiali operantur. Eligere originalia quae solum in iCloud servantur conexione interretiali egere potest.</p><h2>Nullum rationarium, nullus servus ad photographias synchronizandas</h2><p>Exemplaria photographiarum familiarium in applicatione in instrumento manent. Exemplaria removere potes sine deletione originalium. Exemplaria securitatis instrumenti data applicationis continere possunt. Lege <a href=\"/app-privacy/\">decretum de tutela vitae privatae applicationis</a>, et <a href=\"/help/\">auxilium applicationis</a> singulos gradus explicat.</p>",
+      "disclaimer": "Golden Moments ad recreationem et colloquium commune destinatur. Dementiam aut morbum Alzheimer non dignoscit, non curat, non prohibet nec metitur.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Ludi gratuiti de dementia et morbo Alzheimer in interreti",
+    "description": "Ludi gratuiti in interreti pro senioribus qui cum dementia aut morbo Alzheimer vivunt: paria imaginum, facilia aenigmata ex partibus, ordinatio, dicta, coloratio, bingo. Sine inscriptione, sine horologiis, sine punctis.",
+    "crumb": "Ludi",
+    "h1": "Ludi lenes pro hominibus qui cum dementia vivunt",
+    "lede": "{count} ludi gratuiti, una in navigatro ludendi. Imagines magnae, verba plana, nihil ubi deficias: nulla horologia, nulla puncta, nulla inscriptio.",
+    "listName": "Ludi lenes pro hominibus qui cum dementia vivunt",
+    "byStageTitle": "Ludum secundum gradum eligere",
+    "byStageLede": "Gradus sunt tantum indicium generale. Sequere id quod homini placet et quod hodie commodum videtur.",
+    "stageCol": "Gradus",
+    "gamesCol": "Ludi qui saepe conveniunt",
+    "moreHtml": "Plura consilia extra scrinium: <a href=\"/activities/ideas/\">101 actiones pro hominibus qui cum dementia vivunt</a>, <a href=\"/activities/alzheimers/\">actiones et ludi pro morbo Alzheimer</a>, <a href=\"/activities/memory-games/\">leni ludi memoriae</a> et <a href=\"/activities/puzzles/\">aenigmata</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Quo ludo incipiamus?",
+        "a": "Paria imaginum cum quattuor tesseris sunt initium tranquillum. Si inter imagines eligere nimis difficile videtur, experire Inveni idem cum duabus imaginibus. Pro grege, experire Bingo imaginum."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Ludine in iPad aut telephono mobili operantur?",
+        "a": "Ita. Omnis ludus in navigatro telephonorum, tabularum et computatrorum operatur, et imagines scrinium implent. Tabula in fulcro posita saepe commodissima est duobus hominibus."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Hi ludine homini qui cum morbo Alzheimer vivit conveniunt?",
+        "a": "Ita. Pro hominibus qui cum dementia vivunt creati sunt, inter quos etiam morbus Alzheimer, causa frequentissima. Imagines visibiles manent, paucae tantum optiones sunt, et nihil tempore aut punctis metitur, ita ut ludi magis in rebus notis agnoscendis quam in novis rebus memoria tenendis nitantur."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Suntne hi ludi memoriae pro senioribus?",
+        "a": "Sunt ludi coniungendi et imaginum quibus quivis adultus senior frui potest, sed ita facti sunt ut memoriam non probent: in Pariis imaginum imagines apertae manent, nisi aliter eligas. Dux noster de ludis memoriae pro senioribus qui cum dementia vivunt explicat quomodo quivis ludus memoriae lenis servari possit."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Suntne ludi pro gregibus in domo curae?",
+        "a": "Ita. Bingo imaginum chartas imprimendas et vocatorem in scrinio habet, et Perfice dictum atque Chartae colloquii bene gregi clara voce leguntur."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad et Android",
+    "requirements": "iOS 15 aut recentius; Android 7.0 aut recentius",
+    "summary": "Applicatio gratuita pro iPhone, iPad et Android cum leni coniunctione imaginum in quattuor usque ad duodecim magnis tesseris, coniunctione et contemplatione cum photographiis familiaribus quas eligis, et octo fasciculis imaginum inclusis qui sine interreti operantur. Nullum rationarium, nulla praeconia, nullum horologium, nulla puncta.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Lenis coniunctio imaginum cum 4, 6, 8 aut 12 magnis tesseris; imagines visibiles manent, nisi eas abscondere eligis",
+      "Photographemata familiaria quae eligis in applicationem ad coniungendum et ad una aspiciendum copiantur",
+      "Una aspicite: una imago simul cum quaestionibus voluntariis ad colloquium",
+      "Octo fasciculi imaginum in applicatione inclusi; sine conexione interretiali operantur",
+      "Nullum rationarium, nulla praeconia, nullae emptiones in applicatione, nullum horologium, nulla puncta, nulla poena"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Estne applicatio actionum pro dementia?",
+        "a": "Ita. Golden Moments (nomine \"{storeName}\" proposita) gratuita est in App Store et Google Play. Lenem coniunctionem imaginum cum magnis tesseris, ludos cum photographiis familiaribus quas eligis, et fasciculos imaginum qui sine conexione interretiali operantur offert."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Estne applicatio Golden Moments gratuita?",
+        "a": "Ita. Gratis deponi potest, sine praeconiis, sine rationario, sine emptionibus in applicatione."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Operaturne applicatio sine interreti?",
+        "a": "Ita. Imagines initiales et omnes octo fasciculi imaginum in applicatione continentur, et photographiae familiares sine conexione interretiali operantur postquam in applicationem copiatae sunt. Eligere photographiam quae solum in iCloud servatur conexione egere potest."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Possumne nostris propriis photographiis familiaribus uti?",
+        "a": "Ita. Imagines e phototheca instrumenti tui selige. Applicatio minora exemplaria in instrumento ad ludos servat, ea non mittit nec primigenia umquam mutat. Exemplaria quandoque delere potes."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Num haec applicatio mentem exercet aut memoriam probat?",
+        "a": "Non. Golden Moments ad oblectationem et tempus una degendum facta est. Nullos calculos nec probationes habet, nec dementiam vel morbum Alzheimerianum dignoscit, curat, praecavet aut metitur."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Quibus in instrumentis operatur?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Num huius ludi applicatio praesto est?",
+      "a": "Ita. Applicatio gratuita Golden Moments pro iPhone, iPad et Android lenem imaginum comparationem praebet, photographemata familiaria a te selecta adhibere potest, et sine interreti operatur. Sine rationibus usorum, praeconiis vel punctis."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Num huius ludi applicatio praesto est?",
+      "a": "Huius ludi non est. Applicatio gratuita Golden Moments pro iPhone, iPad et Android lenem imaginum comparationem cum tessellis amplis et photographematibus familiaribus a te selectis praebet, et sine interreti operatur. Hic autem ludus gratuitus hic in navigatro tuo manet."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: imagines amplae et amabiles",
+    "noscript": "Hic ludus requirit ut JavaScript in navigatro tuo sit activum. Consilia infra scripta etiam sine eo operantur.",
+    "about": "De {name}",
+    "aboutAria": "De hoc ludo",
+    "noTimer": "Sine tempore praestituto aut punctis",
+    "printable": "Forma imprimenda",
+    "howTo": "Quomodo {name} ludatur",
+    "tips": "Consilia ad una ludendum",
+    "newToPlayingHtml": "Primum ludis cum aliquo qui cum dementia vivit? Lege <a href=\"/caregiving/how-to-play-together/\">quomodo una ludere possitis</a>, una cum consiliis quid faciendum sit si studium amittat.",
+    "moreAria": "Alia invenienda",
+    "helpfulGuides": "Duces utiles",
+    "appTitle": "Lude in applicatione",
+    "appText": "Applicatio gratuita Golden Moments lenem imaginum comparationem cum amplis tessellis et propriis photographematibus familiaribus praebet, et sine Wi‑Fi operatur. iPhone, iPad et Android.",
+    "photoAppTitle": "Imagines paratas habe",
+    "photoAppText": "In gratuita applicatione Golden Moments, imagines a te selectae in instrumento tuo ad usum proximum manent, et ludi sine Wi‑Fi operantur. iPhone, iPad et Android.",
+    "goodToKnow": "Scitu utile",
+    "goodToKnowText": "Hic ludus ad oblectationem et tempus una degendum factus est. Nihil probat, metitur aut curat.",
+    "moreGames": "Plures ludi lenes",
+    "crumb": "Ludi"
   }
 }

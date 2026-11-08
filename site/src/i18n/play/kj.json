@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lesha mokule",
+      "stopReading": "Efa okulesha",
+      "region": "Oudanau",
+      "restart": "Hovela vali",
+      "soundOn": "Tema omawi e lile pedu",
+      "soundOff": "Dima omawi e lile pedu",
+      "done": "Twa mana manga",
+      "feedbackQuestion": "Eshi osha kwafa tuu nena?",
+      "feedbackYes": "Heeno",
+      "feedbackNo": "Hasho lela",
+      "feedbackThanks": "Tangi eshi we tu lombwela."
+    },
+    "tile": {
+      "named": "{name}, okatendo {n}",
+      "hidden": "Efano la holekwa, okatendo {n}",
+      "withState": "{label}, {state}",
+      "matched": "Ya faafana",
+      "selected": "La hoololwa",
+      "picture": "Efano",
+      "photoNumber": "Efano {n}"
+    },
+    "pairs": {
+      "allTogether": "Omapeha aehe opamwe e li. Dana vali ile fuda po manga.",
+      "photoPair": "Omafano avali a faafana, e li pamwe.",
+      "picturePair": "Omafano avali o-{name|lower}, e li pamwe.",
+      "selected": "{name}. Paife konga ekwao la faafana nalo.",
+      "mismatch": "Ino endelela. Kanya efano opo u twikile.",
+      "mismatchNamed": "{a} na-{b}. Ino endelela. Kanya efano opo u twikile."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Kanya efano limwe, opo nee to kanya olo la faafana nalo.",
+      "guidanceHidden": "Kanya outendo vavali u va piteke. Konga outendo vavali va faafana.",
+      "restart": "Omafano mape",
+      "sizeLegend": "Outendo vangapi",
+      "size": {
+        "one": "Okatendo {n}",
+        "other": "Outendo {n}"
+      },
+      "viewLegend": "Onghedi yokudana",
+      "viewShowing": "Omafano otaa holoka",
+      "viewHidden": "Omafano a holekwa",
+      "playAgain": "Dana vali nomafano mape",
+      "talk": "Kundafaneni kombinga yomafano pamwe"
+    },
+    "choose": {
+      "countLegend": "Omafano mangapi",
+      "count": "{n} vokuhoolola mwavo",
+      "thatOne": "Olo olo {name|lower}. Ino endelela."
+    },
+    "findTheSame": {
+      "guidance": "Tala kefano li li pombada. Kanya olo la faafana nalo pedu.",
+      "yes": "Heeno, {name|lower} ya faafana.",
+      "next": "Efano tali landula"
+    },
+    "shadowMatch": {
+      "guidance": "Tala komudidimbe u li pombada. Kanya efano olo tali u ningi.",
+      "yes": "Heeno, {name|lower} olo tali ningi omudidimbe oo.",
+      "next": "Omudidimbe tau landula",
+      "shadowAlt": "Omudidimbe wokufaafanifa",
+      "foundAlt": "Omudidimbe wo-{name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Kanya efano, opo nee to kanya oshimbale omo li na okuya.",
+      "restart": "Omafano mape",
+      "themeLegend": "Oshipalanyole",
+      "selected": "{name}. Paife kanya oshimbale omo li na okuya.",
+      "pickFirst": "Tete kanya efano, opo nee to kanya oshimbale.",
+      "hint": "{name|lower} otali dulu okuya mo-\"{basket}\". Kanya oshimbale osho opo u li tule mo.",
+      "placed": "{name|lower} oli li mo-\"{basket}\".",
+      "sorted": "Aishe oya yoololwa nawa. Taleni moishimbale pamwe, ile mu kendabale oshipalanyole shimwe.",
+      "basket": {
+        "one": "Oshimbale sha-\"{basket}\", omu na efano {count}",
+        "other": "Oshimbale sha-\"{basket}\", omu na omafano {count}"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Kanya oshitukulwa shimwe, opo nee to kanya shikwao. Otai pingenafana omitunda.",
+      "restart": "Pwiinganifa vali",
+      "pictureLegend": "Efano",
+      "pictures": {
+        "sailboat": "Owato yomhepo",
+        "house": "Eumbo",
+        "balloon": "Embalona",
+        "sunflower": "Onghano yetango",
+        "lighthouse": "Oshungotenda shefuta",
+        "cat": "Ombwishi"
+      },
+      "sizeLegend": "Oitukulwa",
+      "size": {
+        "one": "Oshitukulwa {n}",
+        "other": "Oitukulwa {n}"
+      },
+      "pickedUp": "Oshitukulwa osha kufwa po. Paife kanya apa shi na okuya.",
+      "whole": "{name|lower} ola pama vali alishe. Hoolola efano likwao efimbo keshe wa hala.",
+      "swapped": {
+        "one": "Osha pingenafana. Oshitukulwa {correct} shomwiitukulwa {total} oshi li pomutunda watsho.",
+        "other": "Osha pingenafana. Oitukulwa {correct} yomwiitukulwa {total} oi li pomitunda dayo."
+      },
+      "guideAlt": "Efano alishe kumwe: {name}",
+      "guideText": "Osho efano tali monika ngaha ngeenge la pama alishe.",
+      "piece": "Oshitukulwa sha-{place}",
+      "pieceInPlace": ", shi li pomutunda washo",
+      "piecePickedUp": ", sha kufwa po",
+      "places4": [
+        "kolumoho pombada",
+        "kolulyo pombada",
+        "kolumoho pedu",
+        "kolulyo pedu"
+      ],
+      "places9": [
+        "kolumoho pombada",
+        "pokati pombada",
+        "kolulyo pombada",
+        "kolumoho pokati",
+        "pokati kapu",
+        "kolulyo pokati",
+        "kolumoho pedu",
+        "pokati pedu",
+        "kolulyo pedu"
+      ],
+      "done": "Efano ola pama vali alishe. Dana vali ile fuda po manga.",
+      "playAgain": "Li pwiinganifa vali"
+    },
+    "finishTheSaying": {
+      "guidance": "Lesheni omayeletumbulo pamwe, opo nee to kanya oshitya osho tashi a manifa.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Heeno, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" nalo otali longo. Moyeletumbulo omuhololwe ohaku ti \"{end}\".",
+      "revealed": "Eyeletumbulo oli li ngaha: \"{start} {end}.\"",
+      "choicesLabel": "Hoolola oshitya shaxuuninwa",
+      "show": "Ulika exulilo",
+      "talk": "Kundafana kombinga yaasho: ",
+      "next": "Eyeletumbulo tali landula"
+    },
+    "wordSearch": {
+      "guidance": "Eendjovo odi li koushita ile kopedo. Kanya ondanda yotete yoshitya, opo nee to kanya yaxuuninwa.",
+      "restart": "Okakongandjovo kapye",
+      "themeLegend": "Oshipalanyole",
+      "sizeLegend": "Ounene womandiki",
+      "size": {
+        "one": "{n} k-{n} (oshitya {words})",
+        "other": "{n} k-{n} (eendjovo {words})"
+      },
+      "print": "Nyanyangida okakongandjovo aka",
+      "letterChosen": "Ondanda {letter} ya hoololwa. Paife kanya ondanda yaxuuninwa yoshitya.",
+      "found": "{word} sha monika.",
+      "foundAll": "{word} sha monika. Eendjovo adishe oda monika paife. Dana vali ile fuda po manga.",
+      "tryAgain": "Ino endelela. Kanya ondanda yotete yoshitya, opo nee to kanya yaxuuninwa yatsho.",
+      "gridLabel": "Olukalwandanda lweendanda, eemikweyo {n} deendanda {n}. Longifa omikweyo domiti doiti u ye keendanda dikwao.",
+      "cell": "{letter}, omukweyo {row}, ongodi {col}",
+      "cellFound": ", oshitukulwa shoshitya sha monika",
+      "wordsHeading": "Eendjovo dokukonga",
+      "wordFound": " (sha monika)",
+      "sheetTitle": "Okakongandjovo: {theme}",
+      "sheetNote": "Eendjovo odi li koushita ile kopedo.",
+      "unavailable": "Olukalwa leendanda inali wapala melaka eli, onghee okakongandjovo inaka pewa apa. Kendabala oudanau vomafano ponhele yaasho."
+    },
+    "coloring": {
+      "guidance": "Kanya oluvala, opo nee to kanya oshitukulwa shefano.",
+      "restart": "Kufa mo omavala",
+      "cleared": "Epandja ola kala vali lihena sha.",
+      "pageLegend": "Epandja",
+      "print": "Nyanyangida epandja eli",
+      "colorsLabel": "Omavala",
+      "paintChosen": "{paint} la hoololwa.",
+      "painted": "{part} paife oli na {paint|lower}.",
+      "artLabel": "{page}, oitukulwa {count} yokupendelwa",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, inali vaekwa oluvala",
+      "paints": {
+        "red": "Oshitilyana",
+        "orange": "O-oranje",
+        "yellow": "Oshifilu",
+        "green": "Oshiziza",
+        "blue": "Ombulau",
+        "purple": "O-pula",
+        "pink": "O-pinki",
+        "brown": "Oshimbwembwe",
+        "sky-blue": "Ombulau yewulu",
+        "cream": "Oluvala lomashini",
+        "gray": "Omute",
+        "white": "Oshitoka"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lesha okafo pombada. Kamu na omanyamukulo a puka.",
+      "position": "Okafo {n} k-{total}",
+      "themeLegend": "Oshipalanyole",
+      "next": "Okafo tali landula",
+      "previous": "Okafo sha pita",
+      "print": "Nyanyangida omafo aehe",
+      "sheetTitle": "Omafo eendafano"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Hovela mokuhoolola omafano oye.",
+      "guidance": "Kanya efano limwe, opo nee to kanya olo la faafana nalo.",
+      "restart": "A pwiinganifa vali",
+      "intro": "**Hoolola omafano 2 fiyo 6** koshingangamwi eshi. Otaa ulikwa ashike kepandja eli ndele ihaa tulwa pondje ile a tuvikilwe.",
+      "choose": "Hoolola omafano",
+      "chooseDifferent": "Hoolola omafano amwe e lili",
+      "clear": "Kufa mo omafano",
+      "cleared": "Omafano a kufwa mo kepandja eli.",
+      "atLeastTwo": "Alikana hoolola omafano konyala avali.",
+      "usingFirst": "Otamu longifwa omafano otete e li {max}.",
+      "skipped": {
+        "one": "Efano {count} kali fi olo hatu dulu okuulika.",
+        "other": "Omafano {count} kaa fi oo hatu dulu okuulika."
+      },
+      "playAgain": "Dana vali nomafano aa",
+      "empty": "Omafano oye otaa ka holoka apa, keshe limwe lwaali."
+    },
+    "pictureBingo": {
+      "guidance": "Tete nyanyangida oukalata. Opo nee to ulike omukongifi ou kokashikololo ka kula lela u na.",
+      "called": {
+        "one": "{name}. Efano {called} lomafano {total} la ifanwa.",
+        "other": "{name}. Omafano {called} lomafano {total} a ifanwa."
+      },
+      "start": "Kanya \"Efano tali landula\" opo u ifane efano lotete.",
+      "restart": "Hovela oudanau mupe",
+      "squaresLegend": "Eembinga kokalata keshe",
+      "squares": "Eembinga {n} ({side} k-{side})",
+      "cardsLegend": "Oukalata vangapi vokunyanyangida",
+      "cards": {
+        "one": "Okalata {n}",
+        "other": "Oukalata {n}"
+      },
+      "print": {
+        "one": "Nyanyangida okalata {n} ko-bingo",
+        "other": "Nyanyangida oukalata {n} vo-bingo"
+      },
+      "ready": "Otwa lilongekida ngeenge we lilongekida",
+      "next": "Efano tali landula",
+      "allCalled": "Omafano aehe a ifanwa paife",
+      "alreadyCalled": "Osha ifanwa nale",
+      "sheetTitle": "Bingo yomafano · okalata {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Fuda mo eshi odingoli tali kulu, ndele to fuda mo eshi tali shonopala. Otali ka kanghama olo vene konima yokufuda kolutano nafimbo.",
+      "paceLegend": "Ondapo",
+      "paceSlow": "Ngondu (ousekondi 5 olufo keshe)",
+      "paceGentle": "Nawa (ousekondi 4 olufo keshe)",
+      "ready": "Owe lilongekida ngeenge we lilongekida",
+      "in": "Fuda mo",
+      "hold": "Fudika",
+      "out": "Fuda mupya",
+      "start": "Hovela",
+      "stop": "Kanghama",
+      "started": "Sha hovela. Fuda mo eshi odingoli tali kulu.",
+      "stopped": "Sha kanghama.",
+      "finished": "Oyo ya li omifudo hamano di li ngondu. Otamu dulu okuhovela vali efimbo keshe mwa hala."
+    }
+  },
+  "pictures": {
+    "teacup": "Eholo lotee",
+    "kettle": "Okeketela",
+    "bread": "Omboloto",
+    "frying-pan": "Okapana ke na eyi",
+    "cake": "Okaka kedalelo",
+    "sunflower": "Ondjabalala",
+    "tulip": "Onduwo itilyana",
+    "watering-can": "Okamwenge kokutekela",
+    "potted-plant": "Oshimeno moshimbale",
+    "tree": "Omuti",
+    "bird": "Okadila koshiti",
+    "butterfly": "Epupululu",
+    "dog": "Ombwa",
+    "cat": "Okambishi",
+    "fish": "Oshi",
+    "apple": "Eapula litilyana",
+    "pear": "Epeye",
+    "strawberry": "Ostroberi",
+    "banana": "Ebanana",
+    "lemon": "Elemono",
+    "cherries": "Eesherezi",
+    "house": "Eumbo",
+    "lamp": "Olampi yotavula",
+    "armchair": "Oshipundi shiwa",
+    "key": "Oshapi yakulu",
+    "umbrella": "Onduda yodula",
+    "sailboat": "Owatowato yomhepo",
+    "car": "Ohauto yakulu",
+    "bicycle": "Okabashikela",
+    "balloon": "Ombulaye yomhepo yapya",
+    "lighthouse": "Oshungodilu yomofuta",
+    "sun": "Etango",
+    "moon": "Ohani neenyofi",
+    "teapot": "Oshiteyiketa",
+    "apple-pie": "Oshikuki sheeapula",
+    "honey-jar": "Onyama youshi",
+    "boiled-egg": "Eyi moshihalo",
+    "toaster": "Oshinima shokupupyaleka omboloto",
+    "cheese": "Oshikwa",
+    "milk-jug": "Okanano komashini",
+    "cupcake": "Okakuki komwele",
+    "orange": "Ehelememe",
+    "grapes": "Eendjambelendje",
+    "watermelon": "Enuwa",
+    "pineapple": "Epanapolo",
+    "peach": "Olipitji",
+    "rose": "Onduwo yombili",
+    "daisies": "Eenduwo ditoka",
+    "mushroom": "Owa",
+    "wheelbarrow": "Okatemba",
+    "birdhouse": "Okambo keedila",
+    "cactus": "Endume li li moshimbale",
+    "acorn": "Oshiimati shomuti",
+    "autumn-leaf": "Elifo lakukuta",
+    "rabbit": "Ndimba",
+    "duck": "Mbaye",
+    "hen": "Oxuxwa",
+    "sheep": "Odi",
+    "owl": "Esikivi",
+    "ladybird": "Okambudumbudu",
+    "snail": "Enghumbwi",
+    "frog": "Efuma",
+    "bee": "Onyiki",
+    "clock": "Ovili yotavula",
+    "vase-of-flowers": "Oshipana sheenduwo",
+    "radio": "Oradio yakulu",
+    "books": "Omusholondondo womambo",
+    "candle": "Oyelela",
+    "glasses": "Oukalata vokulesha",
+    "telephone": "Ongodi ypeumbo",
+    "ball-of-wool": "Ehanga lodidila",
+    "straw-hat": "Embale letango",
+    "train": "Oshishiima shomushika",
+    "bus": "Ombesa",
+    "airplane": "Ondjila yomewangandjo",
+    "suitcase": "Oshikopa",
+    "tractor": "Otrakatala",
+    "rowing-boat": "Owatowato yomashiliko",
+    "rainbow": "Outa wodula",
+    "rain-cloud": "Oshilemo shodula",
+    "snowflake": "Okakoko komeva matalala",
+    "kite": "Okadila kopepa",
+    "sunrise": "Epiti letango keemhunda"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "A E F H I K L M N O P T U V W Y",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Oiimati",
+          "words": [
+            "EPAYE",
+            "ENUWA",
+            "EYI",
+            "OMVI",
+            "EAPU",
+            "OSHI",
+            "EHELE",
+            "ODIVA",
+            "ONDJE"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Oshikunino",
+          "words": [
+            "OMUTI",
+            "ELIFO",
+            "EDU",
+            "OMEVA",
+            "EFUMA",
+            "ONYIKI",
+            "EHO",
+            "OSHITI",
+            "EVI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Eliko",
+          "words": [
+            "EHALO",
+            "EFO",
+            "OMUTO",
+            "OMBIKA",
+            "OMVILE",
+            "OMBELE",
+            "OTEE",
+            "EDIKO",
+            "EPANA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Omhepo",
+          "words": [
+            "ODULA",
+            "ETANGO",
+            "OHANI",
+            "OMBEPO",
+            "OULA",
+            "OUTA",
+            "OMWI",
+            "ENI",
+            "OMUNGO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Oinamwenyo",
+          "words": [
+            "OMBWA",
+            "OXUXWA",
+            "ODI",
+            "OSHI",
+            "ONGO",
+            "OHATU",
+            "OMHUNDA",
+            "NDIMBA",
+            "MBAYE"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Meumbo",
+          "words": [
+            "EUMBO",
+            "OMWEELO",
+            "OLAMPI",
+            "OMBETE",
+            "OVILI",
+            "OSHAPI",
+            "EKUVA",
+            "EHOVI",
+            "ODUDU"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Eekalata adishe",
+        "food": "Oikulya",
+        "home": "Meumbo",
+        "outdoors": "Pondje",
+        "animals": "Oinamwenyo",
+        "travel": "Omalweendo",
+        "work": "Oilonga nohole",
+        "music": "Oshikwiila nehokololo",
+        "seasons": "Omafimbo omudo"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Oshike u hole okunyika moshinyanga shokutelekela?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Oludi lilipi lokaka wa hala okuhoolola poshituthi?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Hokolola kombinga yoiimati ile oikulya yoipuna oyo u hole unene."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Otee ile okofi yoye ou i hole ngahelipi?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Oshike hashi ningi oikulya yongula i kale iwa unene?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Mbela owa teya nale oiyimati komuti kove mwene?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Oyo yitoyo ile oyo yalula: oilipi wa panda unene?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Oikulya ilipi hai ku dimbulukifa efimbo lokufu ile lokwenye?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Hokolola kombinga yeumbo limwe olo wa li u hole okukala mulo."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Openi ponhele yoye ya fimanenena yokukutukila nokutulumukwa?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Oho hafele okuninga shike konguloshi ya ngungumana?"
+        },
+        {
+          "theme": "eumbo",
+          "picture": "key",
+          "prompt": "Oshinima shilipi shi na ongushu to dulu okutuwa moshiketha she likaleka?"
+        },
+        {
+          "theme": "eumbo",
+          "picture": "kettle",
+          "prompt": "Olyelye to dulu okuhiya e ye okunwa otee pamwe naave?"
+        },
+        {
+          "theme": "eumbo",
+          "picture": "umbrella",
+          "prompt": "Oho hafele okuninga shike mefiku tali loko?"
+        },
+        {
+          "theme": "pondje",
+          "picture": "sunflower",
+          "prompt": "Eengala dilipi wa hala okutula moshikunino?"
+        },
+        {
+          "theme": "pondje",
+          "picture": "tree",
+          "prompt": "Hokolola kombinga yomuti ile yoshikunino osho u hole."
+        },
+        {
+          "theme": "pondje",
+          "picture": "watering-can",
+          "prompt": "Oshike u hole unene ngeenge u li moshikunino?"
+        },
+        {
+          "theme": "pondje",
+          "picture": "tulip",
+          "prompt": "Eengala dolwaalo lilipi u hole unene?"
+        },
+        {
+          "theme": "pondje",
+          "picture": "potted-plant",
+          "prompt": "Ou hole okukala neemeno meumbo?"
+        },
+        {
+          "theme": "pondje",
+          "picture": "sun",
+          "prompt": "Efiku letango liwa kwoove oli li ngahelipi?"
+        },
+        {
+          "theme": "oinamwenyo",
+          "picture": "dog",
+          "prompt": "Hokolola kombinga yombwa oyo wa li u shii nawa."
+        },
+        {
+          "theme": "oinamwenyo",
+          "picture": "cat",
+          "prompt": "Oumbishi ile eembwa, ile kapu na nande shimwe? Oshike u hole kuyo?"
+        },
+        {
+          "theme": "oinamwenyo",
+          "picture": "bird",
+          "prompt": "Eedila dilipi ho di mono ile ho di udu pondje?"
+        },
+        {
+          "theme": "oinamwenyo",
+          "picture": "fish",
+          "prompt": "Owa ka kwata nale eeshi, ile owa li u na eeshi meumbo?"
+        },
+        {
+          "theme": "oinamwenyo",
+          "picture": "butterfly",
+          "prompt": "Oshinamwenyo shilipi shiwa unene wa mona nale?"
+        },
+        {
+          "theme": "oulweendo",
+          "picture": "car",
+          "prompt": "Hokolola kombinga yohauto oyo wa li u hole."
+        },
+        {
+          "theme": "oulweendo",
+          "picture": "sailboat",
+          "prompt": "Owa hala okukala efiku keshanga lefuta ile keemhunda?"
+        },
+        {
+          "theme": "oulweendo",
+          "picture": "bicycle",
+          "prompt": "Openi wa hala okuya u ka ende?"
+        },
+        {
+          "theme": "oulweendo",
+          "picture": "balloon",
+          "prompt": "Ngeno oto dulu okutuka kombanda yehala keshe, oto ka tuka peni?"
+        },
+        {
+          "theme": "oulweendo",
+          "picture": "lighthouse",
+          "prompt": "Oulweendo ulipi wa hafele unene?"
+        },
+        {
+          "theme": "oilonga",
+          "picture": "key",
+          "prompt": "Oilonga yoludi lilipi wa hafele okulongwa?"
+        },
+        {
+          "theme": "oilonga",
+          "picture": "watering-can",
+          "prompt": "Oshinima shilipi u hole okuninga to dulu okulongifa po eevili dihapu?"
+        },
+        {
+          "theme": "oilonga",
+          "picture": "bread",
+          "prompt": "Oshinima shilipi wa li wa shiivikila oku shi longa ile oku shi panga?"
+        },
+        {
+          "theme": "oilonga",
+          "picture": "house",
+          "prompt": "Omayele elipi to pe omunyasha ta hovele oilonga?"
+        },
+        {
+          "theme": "omusika",
+          "picture": "balloon",
+          "prompt": "Omusika yoludi lilipi hai ku hafifa u thine eemhadi doye?"
+        },
+        {
+          "theme": "omusika",
+          "picture": "cake",
+          "prompt": "Oshike hashi ningifa oshituthi shi kale shiwa lela?"
+        },
+        {
+          "theme": "omusika",
+          "picture": "lamp",
+          "prompt": "Olyelye omuimbili oo u hole okupwilikina kuye?"
+        },
+        {
+          "theme": "omusika",
+          "picture": "armchair",
+          "prompt": "Efilimi ile oprograma yotelevisi ilipi u hole okutala vali?"
+        },
+        {
+          "theme": "omafimbo omudo",
+          "picture": "sun",
+          "prompt": "Oshike u hole unene pefimbo lokwenye?"
+        },
+        {
+          "theme": "omafimbo omudo",
+          "picture": "tree",
+          "prompt": "Oshike ho hafele pefimbo leteyo?"
+        },
+        {
+          "theme": "omafimbo omudo",
+          "picture": "moon",
+          "prompt": "Oshinima shilipi shiwa to dulu okuninga konguloshi yopefimbo loutalala?"
+        },
+        {
+          "theme": "omafimbo omudo",
+          "picture": "tulip",
+          "prompt": "Didiliko dilipi dotete hadi ku ulikile efimbo lemaso?"
+        },
+        {
+          "theme": "omafimbo omudo",
+          "picture": "umbrella",
+          "prompt": "Ohaela, omvula ile etango: oshike u hole unene?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Ongala moshimbale",
+          "regions": {
+            "sky": "Kombanda",
+            "table": "Otafula",
+            "stem": "Oshitayi",
+            "leaf-left": "Efo lokolumoho",
+            "leaf-right": "Efo lokolulyo",
+            "petal-1": "Efo longala 1",
+            "petal-2": "Efo longala 2",
+            "petal-3": "Efo longala 3",
+            "petal-4": "Efo longala 4",
+            "petal-5": "Efo longala 5",
+            "petal-6": "Efo longala 6",
+            "petal-7": "Efo longala 7",
+            "petal-8": "Efo longala 8",
+            "center": "Pokati kongala",
+            "pot": "Oshimbale",
+            "pot-rim": "Omilungu doshimbale"
+          }
+        },
+        "house": {
+          "name": "Eumbo",
+          "regions": {
+            "sky": "Eulu",
+            "sun": "Etango",
+            "grass": "Omwiidi",
+            "chimney": "Omunoko",
+            "walls": "Omakuma",
+            "roof": "Onduda",
+            "door": "Omuvelo",
+            "window-left": "Ekende lokolumoho",
+            "window-right": "Ekende lokolulyo",
+            "path": "Ondjila"
+          }
+        },
+        "teacup": {
+          "name": "Ekopi lotee",
+          "regions": {
+            "background": "Kombanda",
+            "saucer": "Okatoshalo",
+            "handle": "Okwako kekopi",
+            "cup": "Ekopi",
+            "band": "Omusinda kekopi",
+            "tea": "Otee"
+          }
+        },
+        "butterfly": {
+          "name": "Embepabili",
+          "regions": {
+            "background": "Kombanda",
+            "wing-top-left": "Evava lokombada kolumoho",
+            "wing-top-right": "Evava lokombada kolulyo",
+            "wing-bottom-left": "Evava lokoshi kolumoho",
+            "wing-bottom-right": "Evava lokoshi kolulyo",
+            "spot-left": "Okatongo kevava lokolumoho",
+            "spot-right": "Okatongo kevava lokolulyo",
+            "body": "Olutu"
+          }
+        },
+        "sailboat": {
+          "name": "Owato yomhepo",
+          "regions": {
+            "sky": "Eulu",
+            "sea": "Efuta",
+            "sail-big": "Elapi linene",
+            "sail-small": "Elapi lashona",
+            "mast": "Omuti wowato",
+            "hull": "Owato",
+            "flag": "Epandela"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Okombitha noshikunino",
+          "baskets": [
+            "Mokombifa",
+            "Moshikunino"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Oiimati noinamwenyo",
+          "baskets": [
+            "Oiimati",
+            "Oinamwenyo"
+          ]
+        },
+        "home-travel": {
+          "label": "Eumbo nolweendo",
+          "baskets": [
+            "Keumbo",
+            "Pondje"
+          ]
+        }
+      }
+    }
+  }
+}

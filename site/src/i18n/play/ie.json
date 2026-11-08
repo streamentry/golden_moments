@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Leer laut",
+      "stopReading": "Cessar de leer",
+      "region": "Lude",
+      "restart": "Ricomensar",
+      "soundOn": "Dulci sones activat",
+      "soundOff": "Dulci sones desactivat",
+      "done": "Finit por li moment",
+      "feedbackQuestion": "Esque to auxiliat hodie?",
+      "feedbackYes": "Yes",
+      "feedbackNo": "Ne tre",
+      "feedbackThanks": "Mersí por dir it a nos."
+    },
+    "tile": {
+      "named": "{name}, telette {n}",
+      "hidden": "Celat image, telette {n}",
+      "withState": "{label}, {state}",
+      "matched": "Aparit",
+      "selected": "Selectet",
+      "picture": "Image",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Omni pares junt. Lude denov o fa un pause.",
+      "photoPair": "Un pare de fotos, junt.",
+      "picturePair": "Du images del {name|lower}, junt.",
+      "selected": "{name}. Trova nu su pare.",
+      "mismatch": "Prende vor témpor. Toca un image por continuar.",
+      "mismatchNamed": "{a} e {b}. Prende vor témpor. Toca un image por continuar."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Toca un image, e poy toca ti quel acorda con it.",
+      "guidanceHidden": "Toca du telettes por revirar les. Sercha du queles es identic.",
+      "restart": "Nov images",
+      "sizeLegend": "Quantes telettes",
+      "size": {
+        "one": "{n} telette",
+        "other": "{n} telettes"
+      },
+      "viewLegend": "Qualmen luder",
+      "viewShowing": "Images visibil",
+      "viewHidden": "Images celat",
+      "playAgain": "Lude denov con nov images",
+      "talk": "Parla pri images junt"
+    },
+    "choose": {
+      "countLegend": "Quantes images",
+      "count": "{n} por selecter",
+      "thatOne": "Ti-ci es li {name|lower}. Prende vor témpor."
+    },
+    "findTheSame": {
+      "guidance": "Regarda li image al sima. Toca li sam image a bass.",
+      "yes": "Yes, li sam {name|lower}.",
+      "next": "Sequent image"
+    },
+    "shadowMatch": {
+      "guidance": "Regarda li ombre al sima. Toca li image quel fa it.",
+      "yes": "Yes, li {name|lower} fa ti ombre.",
+      "next": "Sequent ombre",
+      "shadowAlt": "Un ombre por acordar",
+      "foundAlt": "Li ombre del {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Toca un image, e poy toca li corb in quel it deve ear.",
+      "restart": "Nov images",
+      "themeLegend": "Tema",
+      "selected": "{name}. Toca nu li corb in quel it deve ear.",
+      "pickFirst": "Primu toca un image, e poy toca un corb.",
+      "hint": "Li {name|lower} vell posser ear in \"{basket}\". Toca ti corb por poner it ta.",
+      "placed": "Li {name|lower} es in \"{basket}\".",
+      "sorted": "Omnicos es rangiat. Regarda tra li corbes junt, o prova un altri tema.",
+      "basket": {
+        "one": "Corb \"{basket}\", {count} image intern",
+        "other": "Corb \"{basket}\", {count} images intern"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Toca un pece, e poy toca un altri. Ili cambia de loc.",
+      "restart": "Mister denov",
+      "pictureLegend": "Image",
+      "pictures": {
+        "sailboat": "Veliero",
+        "house": "Domo",
+        "balloon": "Balon",
+        "sunflower": "Tirasol",
+        "lighthouse": "Far",
+        "cat": "Gatte"
+      },
+      "sizeLegend": "Peces",
+      "size": {
+        "one": "{n} pece",
+        "other": "{n} peces"
+      },
+      "pickedUp": "Pece prendet. Toca nu u it deve ear.",
+      "whole": "Li {name|lower} es complet denov. Selecte un altri image quande vu vole.",
+      "swapped": {
+        "one": "Permutat. {correct} de {total} pece es in bon loc.",
+        "other": "Permutat. {correct} de {total} peces es in bon loc."
+      },
+      "guideAlt": "Li complet image: {name}",
+      "guideText": "Talmen aspecte li image quande it es complet.",
+      "piece": "Pece in li {place}",
+      "pieceInPlace": ", in li bon loc",
+      "piecePickedUp": ", prendet",
+      "places4": [
+        "alt levul",
+        "alt dextri",
+        "bass levul",
+        "bass dextri"
+      ],
+      "places9": [
+        "alt levul",
+        "alt centre",
+        "alt dextri",
+        "medie levul",
+        "centre",
+        "medie dextri",
+        "bass levul",
+        "bass centre",
+        "bass dextri"
+      ],
+      "done": "Li image es complet denov. Lude denov o fa un pause.",
+      "playAgain": "Mister it denov"
+    },
+    "finishTheSaying": {
+      "guidance": "Lee li dicton junt, e poy toca li parol quel completa it.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Yes, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" anc conveni. Li usal dicton fini con \"{end}\".",
+      "revealed": "Li dicton es \"{start} {end}.\"",
+      "choicesLabel": "Selecte li ultim parol",
+      "show": "Monstrar li fin",
+      "talk": "Parla pri it: ",
+      "next": "Sequent dicton"
+    },
+    "wordSearch": {
+      "guidance": "Paroles va transversal o vers bass. Toca li prim líttere de un parol, e poy su ultim líttere.",
+      "restart": "Nov enigma",
+      "themeLegend": "Tema",
+      "sizeLegend": "Grandore del grille",
+      "size": {
+        "one": "{n} per {n} ({words} parol)",
+        "other": "{n} per {n} ({words} paroles)"
+      },
+      "print": "Printar ti-ci enigma",
+      "letterChosen": "Líttere {letter} selectet. Toca nu li ultim líttere del parol.",
+      "found": "{word} trovat.",
+      "foundAll": "{word} trovat. To es omni parol. Lude denov o fa un pause.",
+      "tryAgain": "Prende vor témpor. Toca li prim líttere de un parol, e poy su ultim líttere.",
+      "gridLabel": "Grille de lítteres, {n} ranges de {n} lítteres. Usa li flech-tastes por mover inter lítteres.",
+      "cell": "{letter}, rang {row}, colona {col}",
+      "cellFound": ", parte de un trovat parol",
+      "wordsHeading": "Paroles por trovar",
+      "wordFound": " (trovat)",
+      "sheetTitle": "Sercha de paroles: {theme}",
+      "sheetNote": "Paroles va transversal o vers bass.",
+      "unavailable": "Un grille de lítteres ne conveni a ti-ci lingue, dunc li sercha de paroles ne es ofertat ci. Prova li ludes de images vice to."
+    },
+    "coloring": {
+      "guidance": "Toca un color, e poy toca un parte del image.",
+      "restart": "Remover li colores",
+      "cleared": "Li págine es blanc denov.",
+      "pageLegend": "Págine",
+      "print": "Printar ti-ci págine",
+      "colorsLabel": "Colores",
+      "paintChosen": "{paint} selectet.",
+      "painted": "{part} es nu {paint|lower}.",
+      "artLabel": "{page}, {count} partes por colorar",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ne colorat",
+      "paints": {
+        "red": "Rubi",
+        "orange": "Orangi",
+        "yellow": "Yelb",
+        "green": "Verdi",
+        "blue": "Blau",
+        "purple": "Purpur",
+        "pink": "Rosi",
+        "brown": "Brun",
+        "sky-blue": "Celest-blau",
+        "cream": "Creme",
+        "gray": "Grisi",
+        "white": "Blanc"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lee li carte laut. Ne existe respondes just o fallit.",
+      "position": "Carte {n} de {total}",
+      "themeLegend": "Tema",
+      "next": "Sequent carte",
+      "previous": "Precedent carte",
+      "print": "Printar omni cartes",
+      "sheetTitle": "Cartes de conversation"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Comensa per selecter vor fotos.",
+      "guidance": "Toca un foto, e poy toca ti quel acorda con it.",
+      "restart": "Mister les denov",
+      "intro": "**Selecte 2 til 6 fotos** de ti-ci aparate. Ili es monstrat solmen sur ti-ci págine e nequande cargat o salvat.",
+      "choose": "Selecter fotos",
+      "chooseDifferent": "Selecter altri fotos",
+      "clear": "Remover fotos",
+      "cleared": "Fotos removet de ti-ci págine.",
+      "atLeastTwo": "Ples selecter adminim du fotos.",
+      "usingFirst": "Usa li prim {max} fotos.",
+      "skipped": {
+        "one": "{count} file ne esset un foto quel noi posse monstrar.",
+        "other": "{count} files ne esset un foto quel noi posse monstrar."
+      },
+      "playAgain": "Lude denov con ti-ci fotos",
+      "empty": "Vor fotos va aparir ci, chascun duvez."
+    },
+    "pictureBingo": {
+      "guidance": "Printa li cartes primu. Poy monstra ti-ci apellator sur li max grand ecran quel vu have.",
+      "called": {
+        "one": "{name}. {called} de {total} image apellat.",
+        "other": "{name}. {called} de {total} images apellat."
+      },
+      "start": "Toca \"Sequent image\" por apellar li prim image.",
+      "restart": "Comensar un nov lude",
+      "squaresLegend": "Quadres sur chascun carte",
+      "squares": "{n} quadres ({side} per {side})",
+      "cardsLegend": "Quantes cartes a printar",
+      "cards": {
+        "one": "{n} carte",
+        "other": "{n} cartes"
+      },
+      "print": {
+        "one": "Printar {n} bingo-carte",
+        "other": "Printar {n} bingo-cartes"
+      },
+      "ready": "Pront quande vu vole",
+      "next": "Sequent image",
+      "allCalled": "Chascun image ha esset apellat",
+      "alreadyCalled": "Ja apellat",
+      "sheetTitle": "Bingo de images · carte {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Inspira durante que li circul cresce, e expira quande it diminui. It cessa per se pos six respirationes.",
+      "paceLegend": "Cadentie",
+      "paceSlow": "Lent (5 secundes por chascun)",
+      "paceGentle": "Tranquil (4 secundes por chascun)",
+      "ready": "Pret quande vu vole",
+      "in": "Inspira",
+      "hold": "Reposa",
+      "out": "Expira",
+      "start": "Comensa",
+      "stop": "Cessa",
+      "started": "Comensat. Inspira durante que li circul cresce.",
+      "stopped": "Cessat.",
+      "finished": "To esset six lent respirationes. Recomensa quande vu vole."
+    }
+  },
+  "pictures": {
+    "teacup": "Tasse de té",
+    "kettle": "Bouloir",
+    "bread": "Pane",
+    "frying-pan": "Panniere con un ov",
+    "cake": "Torta de anniversarie",
+    "sunflower": "Girasol",
+    "tulip": "Tulipan rubi",
+    "watering-can": "Aquatiera",
+    "potted-plant": "Planta in potte",
+    "tree": "Árbore",
+    "bird": "Péct-rubi sur un rame",
+    "butterfly": "Papilion",
+    "dog": "Cande",
+    "cat": "Gatte",
+    "fish": "Pisc aurei",
+    "apple": "Poma rubi",
+    "pear": "Pira",
+    "strawberry": "Fraga",
+    "banana": "Banana",
+    "lemon": "Citron",
+    "cherries": "Ceresias",
+    "house": "Domo",
+    "lamp": "Lámpada de tàvula",
+    "armchair": "Fauteuil",
+    "key": "Claf ancian",
+    "umbrella": "Parapluvie",
+    "sailboat": "Barca a veles",
+    "car": "Auto classic",
+    "bicycle": "Biciclet",
+    "balloon": "Mongolfiere",
+    "lighthouse": "Far",
+    "sun": "Sole",
+    "moon": "Lune e stelas",
+    "teapot": "Tetiera",
+    "apple-pie": "Torta de pomas",
+    "honey-jar": "Bocal de miel",
+    "boiled-egg": "Ov in un oviere",
+    "toaster": "Tostator",
+    "cheese": "Tranche de formage",
+    "milk-jug": "Cruche de lacte",
+    "cupcake": "Petit torta",
+    "orange": "Orange",
+    "grapes": "Grappe de uvas",
+    "watermelon": "Tranche de pasteca",
+    "pineapple": "Ananas",
+    "peach": "Péssica",
+    "rose": "Rosa",
+    "daisies": "Margaritas",
+    "mushroom": "Champinion",
+    "wheelbarrow": "Carreta de manu",
+    "birdhouse": "Nidiera por aves",
+    "cactus": "Cactus in un potte",
+    "acorn": "Glande",
+    "autumn-leaf": "Folie autumnal",
+    "rabbit": "Coneo",
+    "duck": "Anate",
+    "hen": "Gallina",
+    "sheep": "Ove",
+    "owl": "Chuvetta",
+    "ladybird": "Coccinella",
+    "snail": "Cochlea",
+    "frog": "Rana",
+    "bee": "Ape",
+    "clock": "Horloge de chemíneo",
+    "vase-of-flowers": "Vase con flores",
+    "radio": "Radio ancian",
+    "books": "Pila de libres",
+    "candle": "Candela",
+    "glasses": "Lunettes de letion",
+    "telephone": "Telefon",
+    "ball-of-wool": "Pelote de lana",
+    "straw-hat": "Chapel contra li sole",
+    "train": "Tren a vapore",
+    "bus": "Autobus",
+    "airplane": "Aeroplano",
+    "suitcase": "Valise",
+    "tractor": "Tractor",
+    "rowing-boat": "Barca a remes",
+    "rainbow": "Arc-in-ciel",
+    "rain-cloud": "Nube de pluvie",
+    "snowflake": "Floc de nive",
+    "kite": "Draque de papere",
+    "sunrise": "Levar del sole sur li colines"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frutas",
+          "words": [
+            "POMA",
+            "PIRA",
+            "PRUNA",
+            "CITRON",
+            "UVA",
+            "MELON",
+            "FIGA",
+            "DATIL",
+            "MANGO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Jardin",
+          "words": [
+            "ROSA",
+            "TULIP",
+            "SEMEN",
+            "TERRA",
+            "FOLIE",
+            "ARBORE",
+            "HERBA",
+            "FLOR",
+            "APE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cusine",
+          "words": [
+            "TASSE",
+            "CULLER",
+            "PANE",
+            "OLLA",
+            "BOL",
+            "PLAT",
+            "FORN",
+            "FURCA",
+            "VERRE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tempe",
+          "words": [
+            "SOLE",
+            "PLUVIE",
+            "NIVE",
+            "VENT",
+            "NUBE",
+            "GEL",
+            "CALOR",
+            "NEBUL",
+            "ORAGE"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animales",
+          "words": [
+            "CANDE",
+            "GATTE",
+            "AVO",
+            "PISC",
+            "CAVAL",
+            "VACCA",
+            "ANATE",
+            "CAPRA",
+            "URSO"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Hem",
+          "words": [
+            "PORTA",
+            "SILLA",
+            "LAMPA",
+            "LECTE",
+            "TEPECE",
+            "SOFA",
+            "MUR",
+            "TAVULA",
+            "CLAF"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Omni cartes",
+        "food": "Manjar",
+        "home": "Hem",
+        "outdoors": "Natura",
+        "animals": "Animales",
+        "travel": "Viages",
+        "work": "Labor e passetempos",
+        "music": "Musica e joya",
+        "seasons": "Sasones"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Quel odore de cusine vu prefere?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Quel sorte de torta vu vell selecter por un festa?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Raconta me pri un dessert o torta de frutas que vu ama."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Qualmen vu prefere prender vostre té o café?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Secun vos, quo fa un ver bon dejuné?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Esque vu ha jamas recoliet frutas directmen del planta?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dulci o acid: quel vu prefere?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Quel manjar evoca por vos li sapore del estive?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Raconta me pri un domo u vu ha amat viver."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "U es vostre preferet loc por sider e relaxar vos?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Quo vu ama far durante un tranquil sove?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Quel tesor vu vell gardar in un buxe special?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Quem vu vell invitar por un tasse de té?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Quo vu ama far in un die pluviosi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Quel flores vu vell plantar in un jardin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Raconta me pri un árbore o un parc que vu ama."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Quo es li max agreabil quande on es in un jardin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Quel color de flores vu prefere?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Esque vu ama har plantas intra li domo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Qualmen vell esser por vos un die solari perfect?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Raconta me pri un cande que vu ha conosset."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Gattes o candes, o nequi? Quo vu ama che les?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Quel aves vu vide o audi exter li domo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Esque vu ha jamas piscat, o possedet un aquarium?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Quel es li max bell animal que vu ha jamas videt?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Raconta me pri un auto que vu ha amat."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Esque vu vell preferer passar un die al plaje o in li montes?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "U vu vell amar ear por un promenada?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Si vu vell posser survolar un loc, quel vell it esser?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Raconta me pri un viage que vu ha amat."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Quel sorte de labor vu ha amat far?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Che quel passetemp vu vell posser passar hores?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Por quel fabrication o reparation vu esset conosset?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Quel consilie vu vell dar a un yuno qui comensa laborar?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Quel musica dona vos li desire de bater li cadentie con li pedes?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Quo fa un ver felic festa?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Quel cantator o cantatoressa vu ama escutar?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Quel film o emission de television vu vell revider con plesir?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Quo vu ama li max mult durante li estive?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Quo plese vos durante li autun?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Quo es agreabil far durante un sove hibernal?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Quel es li prim signes del verne por vos?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Nive, pluvie o sole: quel vu prefere?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flor in un potte",
+          "regions": {
+            "sky": "Funde",
+            "table": "Távula",
+            "stem": "Tigie",
+            "leaf-left": "Folie levul",
+            "leaf-right": "Folie dextri",
+            "petal-1": "Petale 1",
+            "petal-2": "Petale 2",
+            "petal-3": "Petale 3",
+            "petal-4": "Petale 4",
+            "petal-5": "Petale 5",
+            "petal-6": "Petale 6",
+            "petal-7": "Petale 7",
+            "petal-8": "Petale 8",
+            "center": "Centre del flor",
+            "pot": "Potte",
+            "pot-rim": "Borde del potte"
+          }
+        },
+        "house": {
+          "name": "Domo",
+          "regions": {
+            "sky": "Ciel",
+            "sun": "Sole",
+            "grass": "Herba",
+            "chimney": "Chemíneo",
+            "walls": "Mures",
+            "roof": "Tegment",
+            "door": "Porta",
+            "window-left": "Fenestre levul",
+            "window-right": "Fenestre dextri",
+            "path": "Sentiero"
+          }
+        },
+        "teacup": {
+          "name": "Tasse de té",
+          "regions": {
+            "background": "Funde",
+            "saucer": "Subtasse",
+            "handle": "Anse",
+            "cup": "Tasse",
+            "band": "Stria sur li tasse",
+            "tea": "Té"
+          }
+        },
+        "butterfly": {
+          "name": "Papilion",
+          "regions": {
+            "background": "Funde",
+            "wing-top-left": "Ale superior levul",
+            "wing-top-right": "Ale superior dextri",
+            "wing-bottom-left": "Ale inferior levul",
+            "wing-bottom-right": "Ale inferior dextri",
+            "spot-left": "Macul del ale levul",
+            "spot-right": "Macul del ale dextri",
+            "body": "Córpor"
+          }
+        },
+        "sailboat": {
+          "name": "Barca a veles",
+          "regions": {
+            "sky": "Ciel",
+            "sea": "Mare",
+            "sail-big": "Grand vele",
+            "sail-small": "Peti vele",
+            "mast": "Maste",
+            "hull": "Barca",
+            "flag": "Banderola"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cusine e jardin",
+          "baskets": [
+            "In li cuisine",
+            "In li jardin"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fructes e animales",
+          "baskets": [
+            "Fructes",
+            "Animales"
+          ]
+        },
+        "home-travel": {
+          "label": "Hem e viage",
+          "baskets": [
+            "A hem",
+            "In viage"
+          ]
+        }
+      }
+    }
+  }
+}

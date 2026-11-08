@@ -1,0 +1,762 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Tene na yâ",
+      "stopReading": "Hunda tene na yâ",
+      "region": "Yeke",
+      "restart": "Tambisa kue",
+      "soundOn": "Kpe nzoni ayeke ni",
+      "soundOff": "Kpe nzoni ayeke ahunda",
+      "done": "Hunda ni na lo",
+      "feedbackQuestion": "Ye so ayeke nzoni na lo lâ?",
+      "feedbackYes": "Ee",
+      "feedbackNo": "Ahan",
+      "feedbackThanks": "Merci ti tene na mbi."
+    },
+    "tile": {
+      "named": "{name}, kpale {n}",
+      "hidden": "Pictures ayeke gi, kpale {n}",
+      "withState": "{label}, {state}",
+      "matched": "A mbeni na lo",
+      "selected": "A yeke na lo",
+      "picture": "Picture",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Mbeni tî pictures kue ayeke na lo. Ala tambisa so wala ala hunda ni.",
+      "photoPair": "Mbeni tî foto, ala ye lâ.",
+      "picturePair": "Pictures tî {name|lower} mbaa, ala ye lâ.",
+      "selected": "{name}. Sở ala gbu mbeni ti lo.",
+      "mismatch": "Ala gbu ngangu. Ala tâ picture so ti tambisa.",
+      "mismatchNamed": "{a} na {b}. Ala gbu ngangu. Ala tâ picture so ti tambisa."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Ala tâ picture, then ala tâ so ayeke tongana lo.",
+      "guidanceHidden": "Ala tâ kpale mbaa ti gi ndo pictures. Ala gbu mbeni tî pictures ti ye lâ.",
+      "restart": "Pictures tî kue",
+      "sizeLegend": "Kpale pë",
+      "size": {
+        "other": "{n} kpale"
+      },
+      "viewLegend": "Tongana ayeke ngangu",
+      "viewShowing": "Pictures ayeke fa",
+      "viewHidden": "Pictures ayeke gi",
+      "playAgain": "Tambisa so na pictures tî kue",
+      "talk": "Tene nga na pictures ti ala ye lâ"
+    },
+    "choose": {
+      "countLegend": "Pictures pë",
+      "count": "{n} ti gbu",
+      "thatOne": "Lo ni ayeke {name|lower}. Ala gbu ngangu."
+    },
+    "findTheSame": {
+      "guidance": "Ala sara picture so ayeke na kota. Ala tâ so ayeke tongana lo na nduzu.",
+      "yes": "Ee, {name|lower} so ayeke tongana lo.",
+      "next": "Picture so ayeke na ngoi"
+    },
+    "shadowMatch": {
+      "guidance": "Ala sara yângâ ti picture so ayeke na kota. Ala tâ picture so asala yângâ ni.",
+      "yes": "Ee, {name|lower} asala yângâ ni.",
+      "next": "Yângâ so ayeke na ngoi",
+      "shadowAlt": "Yângâ ti gbu na picture",
+      "foundAlt": "Yângâ ti {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Ala tâ picture, then ala tâ kpâ so a yeke fa lo tî ye.",
+      "restart": "Pictures tî kue",
+      "themeLegend": "Mbeni tî pictures",
+      "selected": "{name}. Sở ala tâ kpâ so a yeke fa lo.",
+      "pickFirst": "Tambisa ala tâ picture, then ala tâ kpâ.",
+      "hint": "{name|lower} lo lingbi ayeke na kpâ « {basket} ». Ala tâ kpâ so ti fa lo na lo.",
+      "placed": "{name|lower} ayeke na kpâ « {basket} ».",
+      "sorted": "Pictures kue asara na kpâ. Ala sara kpâ kue nga ti ala, wala ala gbu mbeni tî pictures so.",
+      "basket": {
+        "other": "Kpâ {basket}, pictures {count} ayeke na lo"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Ala tâ mbeni kpale, then ala tâ mbeni so. Ala ngbâ ti lo na ngoi ti lo.",
+      "restart": "Ala bi nga so ti kpale ti kue",
+      "pictureLegend": "Picture",
+      "pictures": {
+        "sailboat": "Bato",
+        "house": "Ndâ",
+        "balloon": "Ballon",
+        "sunflower": "Tournesol",
+        "lighthouse": "Phare",
+        "cat": "Chat"
+      },
+      "sizeLegend": "Kpale",
+      "size": {
+        "other": "{n} kpale"
+      },
+      "pickedUp": "Kpale asara na lo. Sở ala tâ kota so a tï lo ti fa.",
+      "whole": "{name|lower} ayeke kue asara ngbâ. Ala gbu picture so ala ye so ngbâ ti tambisa.",
+      "swapped": {
+        "other": "Ala ngbâ ti lo. Kpale {correct} na {total} ayeke na kota tî lo."
+      },
+      "guideAlt": "Picture kue: {name}",
+      "guideText": "Tongana picture ayeke tongana ayeke kue asara.",
+      "piece": "Kpale na {place}",
+      "pieceInPlace": ", na kota tî lo",
+      "piecePickedUp": ", asara na lo",
+      "places4": [
+        "ndoye yanga",
+        "ndoye lo",
+        "ngo yanga",
+        "ngo lo"
+      ],
+      "places9": [
+        "ndoye yanga",
+        "ndoye ngbanga",
+        "ndoye lo",
+        "yanga tî ngbanga",
+        "ngbanga",
+        "lo tî ngbanga",
+        "ngo yanga",
+        "ngo ngbanga",
+        "ngo lo"
+      ],
+      "done": "Picture asara kue ngbâ. Ala tambisa so wala ala hunda ni.",
+      "playAgain": "Ala bi nga so ngbâ"
+    },
+    "finishTheSaying": {
+      "guidance": "Ala tene nga ti kete zo na yâ, then ala tâ kete so ayeke fa mbeni tî kete.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ee, « {start} {end}. »",
+      "otherEnding": "« {word} » lo ayeke nzoni kue. Kete ti tënë ayeke pë na « {end} ».",
+      "revealed": "Kete ni ayeke « {start} {end}. »",
+      "choicesLabel": "Gbu kete so ti nga",
+      "show": "Fa mbeni tî kete",
+      "talk": "Tene nga na ni: ",
+      "next": "Kete so ayeke na ngoi"
+    },
+    "wordSearch": {
+      "guidance": "Kete ayeke na yanga wala na ndoye. Ala tâ lettre ti tongasoro ti kete, then ala tâ lettre ti nga ti kete.",
+      "restart": "Mbeni puzzle so ayeke na ngoi",
+      "themeLegend": "Mbeni tî pictures",
+      "sizeLegend": "Tâ tî grille",
+      "size": {
+        "other": "{n} x {n} ({words} kete)"
+      },
+      "print": "Print puzzle so",
+      "letterChosen": "Lettre {letter} asara. Sở ala tâ lettre ti nga ti kete.",
+      "found": "{word} asara.",
+      "foundAll": "{word} asara. Kete kue asara ngbâ. Ala tambisa so wala ala hunda ni.",
+      "tryAgain": "Ala gbu ngangu. Ala tâ lettre ti tongasoro ti kete, then ala tâ lettre ti nga.",
+      "gridLabel": "Grille ti lettres, {n} ndoye na lettres {n}. Ala gbu arrow keys ti gbu ndo lettres.",
+      "cell": "{letter}, ndoye {row}, kota {col}",
+      "cellFound": ", kete ti asara",
+      "wordsHeading": "Kete ti asara",
+      "wordFound": " (asara)",
+      "sheetTitle": "Puzzle ti kete: {theme}",
+      "sheetNote": "Kete ayeke na yanga wala na ndoye.",
+      "unavailable": "Grille ti lettres ayeke pas nzoni ape na yâ tî sängö, so a tene kete tî puzzle ape. Ala gbu pictures games ti ngangu ni."
+    },
+    "coloring": {
+      "guidance": "Ala tâ kpâ tî ngangu, then ala tâ mbeni tî picture.",
+      "restart": "Ala hunda kpâ kue",
+      "cleared": "Page ayeke blanc ngbâ.",
+      "pageLegend": "Page",
+      "print": "Print page so",
+      "colorsLabel": "Kpâ tî ngangu",
+      "paintChosen": "{paint} asara.",
+      "painted": "{part} ayeke {paint|lower} sòro.",
+      "artLabel": "{page}, mbeni tî ngangu {count} ayeke",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ayeke na kpâ ape",
+      "paints": {
+        "red": "Rouge",
+        "orange": "Orange",
+        "yellow": "Jaune",
+        "green": "Vert",
+        "blue": "Bleu",
+        "purple": "Violet",
+        "pink": "Rose",
+        "brown": "Marron",
+        "sky-blue": "Bleu ciel",
+        "cream": "Crème",
+        "gray": "Gris",
+        "white": "Blanc"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Ala tene kaart na yâ. Pas mbeni tî tënë ti tâ ayeke nzoni.",
+      "position": "Kaart {n} na {total}",
+      "themeLegend": "Mbeni tî pictures",
+      "next": "Kaart so ayeke na ngoi",
+      "previous": "Kaart so ayeke kue",
+      "print": "Print kaart kue",
+      "sheetTitle": "Kaart tî tene nga"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Tambisa ala gbu foto ti ala.",
+      "guidance": "Ala tâ foto, then ala tâ so ayeke tongana lo.",
+      "restart": "Ala ye lâ nga so",
+      "intro": "**Gbu foto 2 na 6** na appareil ti ala. Ayeke fa na page so kpe, ayeke sara kodro ape, wala ayeke ti tongana ape.",
+      "choose": "Gbu foto",
+      "chooseDifferent": "Gbu foto so ayeke na ngoi",
+      "clear": "Hunda foto",
+      "cleared": "Foto ayeke hunda na page so.",
+      "atLeastTwo": "Ala gbu foto na tâ 2 mbi bâa.",
+      "usingFirst": "Ayeke gbu foto {max} tî tongasoro.",
+      "skipped": {
+        "other": "Fichier {count} ayeke foto ti so mbi lingbi ti fa ape."
+      },
+      "playAgain": "Tambisa so na foto so",
+      "empty": "Foto ti ala ayeke fa awe, mbeni kue ayeke na lo mbaa."
+    },
+    "pictureBingo": {
+      "guidance": "Print kaart ni kue ngbâ. Then fa caller so na screen so ayeke guerê na ala.",
+      "called": {
+        "other": "{name}. Picture {called} na {total} ayeke biti."
+      },
+      "start": "Ala tâ « Picture so ayeke na ngoi » ti biti picture tongasoro.",
+      "restart": "Tambisa yeke so ngbâ",
+      "squaresLegend": "Carré na kaart kue",
+      "squares": "Carré {n} ({side} na {side})",
+      "cardsLegend": "Kaart pë so ala lingbi print",
+      "cards": {
+        "other": "Kaart {n}"
+      },
+      "print": {
+        "other": "Print kaart bingo {n}"
+      },
+      "ready": "Ayeke na ngoi ti ala",
+      "next": "Picture so ayeke na ngoi",
+      "allCalled": "Picture kue asara biti",
+      "alreadyCalled": "Asara biti ngbâ",
+      "sheetTitle": "Bingo tî pictures · kaart {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Mo hon na ngu tongana sese ti kpe ti ngu ayeke ngbâ, na mo wâ tongana ngu ayeke kpe. Lo kpe nzoni tongana mbeni ngu ti sioko ti kâ ti sioko.",
+      "paceLegend": "Sese ti ngu",
+      "paceSlow": "Sese (5 sekondo na mbeni ngu)",
+      "paceGentle": "Mbakë (4 sekondo na mbeni ngu)",
+      "ready": "Tongana mo yeke ye",
+      "in": "Hon na ngu",
+      "hold": "Gbâ-kpe",
+      "out": "Wâ na ngu",
+      "start": "Gbâ",
+      "stop": "Kpe",
+      "started": "A gbâ. Hon na ngu tongana kpe ayeke ngbâ.",
+      "stopped": "A kpe.",
+      "finished": "Oko ayeke sioko ti kâ ti ngu sese. Gbâ lani tongana mo yeke sö."
+    }
+  },
+  "pictures": {
+    "teacup": "Kopo tî shai",
+    "kettle": "Kettle",
+    "bread": "Pain",
+    "frying-pan": "Poêle na ngu",
+    "cake": "Gato tî ndo",
+    "sunflower": "Tournesol",
+    "tulip": "Tulipe kôrô",
+    "watering-can": "Arrosoir",
+    "potted-plant": "Plante na pot",
+    "tree": "Arbre",
+    "bird": "Rouge-gorge na branche",
+    "butterfly": "Papillon",
+    "dog": "Ngbakua",
+    "cat": "Pusi",
+    "fish": "Poisson rouge",
+    "apple": "Pomme kôrô",
+    "pear": "Poire",
+    "strawberry": "Fraise",
+    "banana": "Banane",
+    "lemon": "Citron",
+    "cherries": "Cerises",
+    "house": "Ndâ",
+    "lamp": "Lampe tî table",
+    "armchair": "Fauteuil",
+    "key": "Clé tî kâ-lâ",
+    "umbrella": "Parapluie",
+    "sailboat": "Bateau à voile",
+    "car": "Voiture tî kâ-ngu",
+    "bicycle": "Vélo",
+    "balloon": "Ballon à air chaud",
+    "lighthouse": "Phare",
+    "sun": "Ngu-lâ",
+    "moon": "Lune na ndâ-sîrî",
+    "teapot": "Théière",
+    "apple-pie": "Tarte tî pomme",
+    "honey-jar": "Pot tî miel",
+    "boiled-egg": "Ngu na coquetier",
+    "toaster": "Grille-pain",
+    "cheese": "Fromage",
+    "milk-jug": "Pot tî lait",
+    "cupcake": "Petit gato",
+    "orange": "Orange",
+    "grapes": "Grappe tî raisin",
+    "watermelon": "Tranche tî pastèque",
+    "pineapple": "Ananas",
+    "peach": "Pêche",
+    "rose": "Rose",
+    "daisies": "Marguerites",
+    "mushroom": "Champignon",
+    "wheelbarrow": "Brouette",
+    "birdhouse": "Ndâ tî oiseau",
+    "cactus": "Cactus na pot",
+    "acorn": "Gland",
+    "autumn-leaf": "Feuille d'automne",
+    "rabbit": "Lapin",
+    "duck": "Canard",
+    "hen": "Poule",
+    "sheep": "Mouton",
+    "owl": "Hibou",
+    "ladybird": "Coccinelle",
+    "snail": "Escargot",
+    "frog": "Grenouille",
+    "bee": "Abeille",
+    "clock": "Pendule tî mantel",
+    "vase-of-flowers": "Vase tî fleur",
+    "radio": "Radio tî kâ",
+    "books": "Pile tî livre",
+    "candle": "Bougie",
+    "glasses": "Lunettes",
+    "telephone": "Téléphone",
+    "ball-of-wool": "Pelote tî laine",
+    "straw-hat": "Chapeau de soleil",
+    "train": "Train à vapeur",
+    "bus": "Bus",
+    "airplane": "Avion",
+    "suitcase": "Valise",
+    "tractor": "Tracteur",
+    "rowing-boat": "Bateau à rames",
+    "rainbow": "Arc-en-ciel",
+    "rain-cloud": "Nuage tî pluie",
+    "snowflake": "Flocon tî neige",
+    "kite": "Cerf-volant",
+    "sunrise": "Lever tî ngu-lâ na kôlé"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruit",
+          "words": [
+            "POMME",
+            "POIRE",
+            "ORANGE",
+            "BANANE",
+            "MANGO",
+            "ANANAS",
+            "FRAISE",
+            "RAISIN",
+            "GOYAVE"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Jardin",
+          "words": [
+            "ROSE",
+            "TULIPE",
+            "GRAINE",
+            "TERRE",
+            "ARBRE",
+            "FLEUR",
+            "ETANG",
+            "HERBE",
+            "PELLE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cuisine",
+          "words": [
+            "TASSE",
+            "LOUCHE",
+            "PAIN",
+            "POELE",
+            "BOL",
+            "PLAT",
+            "SHAI",
+            "FOUR",
+            "VERRE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Temps",
+          "words": [
+            "SOLEIL",
+            "PLUIE",
+            "NEIGE",
+            "VENT",
+            "NUAGE",
+            "ORAGE",
+            "BRUME",
+            "FROID",
+            "ECLAIR"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animaux",
+          "words": [
+            "OISEAU",
+            "LAPIN",
+            "POULE",
+            "MOUTON",
+            "ANE",
+            "LION",
+            "SINGE",
+            "OURS",
+            "TIGRE"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Maison",
+          "words": [
+            "PORTE",
+            "SIEGE",
+            "LAMPE",
+            "LIT",
+            "TAPIS",
+            "DIVAN",
+            "MIROIR",
+            "BUREAU",
+            "MUR"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Tî kaadi âla",
+        "food": "Ngangba",
+        "home": "Ndâ",
+        "outdoors": "Na kôlé",
+        "animals": "Zo-ngu",
+        "travel": "Lenge na yâ",
+        "work": "Gbâ-tâ na yeke-yeke",
+        "music": "Ngoro na yeke-yeke",
+        "seasons": "Ngu-ngu"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Mo yeke mû ngangba ti kuisine ni, ngo tî ndo ni?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Gato so mo yeke hinga ti ndo ti lâ tî ngu ti kâ?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Tala ndo mbi tî ngangba tî fruit wala tî dessert so mo yeke hinga."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Mo yeke mû shai wala kafe ti mo tongana ni?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ngangba ti kuku so ayeke nzoni mingi ayeke nga ni?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Mo sala tî ngu ye ti fruit na kôlé ti ndö ni?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Doux wala aigre: mo yeke hinga ye so ni mingi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ngangba nyen so ayeke tongana lâ tî ngu na mo?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Tala ndâ so mo hinga mingi ti dö ni."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ndö nyen so mo yeke hinga ti sigi na ti sioko?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Mo yeke sala nyen na ngu tî lâ ti ngu nzoni?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ye nyen so mo yeke kpe na boîte ti ye nzoni?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Zo nyen so mo yeke wara na kopo tî shai?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Mo yeke sala nyen na lâ tî pluie?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Fleur nyen so mo yeke planté na jardin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Tala arbre wala jardin so mo yeke hinga."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Ye nyen so ayeke nzoni mingi na jardin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Fleur ti loko nyen so mo yeke hinga mingi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Mo yeke hinga plante na ndâ wala?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Lâ tî ngu nzoni tongana mo yeke hinga ayeke tongana nyen?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Tala ngbakua so mo mû tî ye."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Pusi wala ngbakua, wala ye ti mo ayeke? Mo yeke hinga nyen na ni?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Oiseau nyen so mo yeke mä wala mo yeke mä na ndâ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Mo sala pêche wala mo kpe poisson na ndâ ti poisson ni?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Zo nyen so mo mä ti nzoni mingi na kôlé?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Tala voiture so mo hinga."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Mo yeke hinga lâ kete na beach wala na mbeko?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Mo yeke gi na vélo na kôlé nyen?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Tongana mo lingbi ti fly na ballon, mo yeke gi na kôlé nyen?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Lenge nyen so mo hinga?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Gbâ-tâ nyen so mo hinga ti sala?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Gbâ-tâ nyen so mo yeke sala lâ ti ngu?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Mo yeke sala wala mo yeke zia nyen so zo ayeke mä na mo?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Mo yeke tene nyen na zo ti kôdro so ayeke mbi gbâ-tâ ti sioko?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ngoro nyen so ayeke mo yeke gbâ ndo?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Nyen so ayeke sala fête ayeke nzoni mingi?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Zo nyen so ayeke yeke yeke mo yeke mä tî ngoro?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Film wala émission nyen so mo yeke hinga ti mä lani?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Mo yeke hinga nyen mingi na ngu-lâ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Mo yeke nzoni nyen na fini?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Nyen so ayeke nzoni ti sala na lâ tî ngu tî ngu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Ye nyen so ayeke kete mbeni na printemps na mo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Neige, pluie wala ngu-lâ: mo yeke hinga nyen?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Fleur na pot",
+          "regions": {
+            "sky": "Ciel",
+            "table": "Table",
+            "stem": "Tige",
+            "leaf-left": "Feuille na gauche",
+            "leaf-right": "Feuille na droite",
+            "petal-1": "Pétale 1",
+            "petal-2": "Pétale 2",
+            "petal-3": "Pétale 3",
+            "petal-4": "Pétale 4",
+            "petal-5": "Pétale 5",
+            "petal-6": "Pétale 6",
+            "petal-7": "Pétale 7",
+            "petal-8": "Pétale 8",
+            "center": "Milieu tî fleur",
+            "pot": "Pot",
+            "pot-rim": "Bord tî pot"
+          }
+        },
+        "house": {
+          "name": "Ndâ",
+          "regions": {
+            "sky": "Ciel",
+            "sun": "Ngu-lâ",
+            "grass": "Herbe",
+            "chimney": "Cheminée",
+            "walls": "Mur",
+            "roof": "Toit",
+            "door": "Porte",
+            "window-left": "Fenêtre na gauche",
+            "window-right": "Fenêtre na droite",
+            "path": "Sentier"
+          }
+        },
+        "teacup": {
+          "name": "Kopo tî shai",
+          "regions": {
+            "background": "Fond",
+            "saucer": "Soucoupe",
+            "handle": "Anse",
+            "cup": "Kopo",
+            "band": "Ligne na kopo",
+            "tea": "Shai"
+          }
+        },
+        "butterfly": {
+          "name": "Papillon",
+          "regions": {
+            "background": "Fond",
+            "wing-top-left": "Aile na gauche en haut",
+            "wing-top-right": "Aile na droite en haut",
+            "wing-bottom-left": "Aile na gauche en bas",
+            "wing-bottom-right": "Aile na droite en bas",
+            "spot-left": "Tache na aile gauche",
+            "spot-right": "Tache na aile droite",
+            "body": "Corps"
+          }
+        },
+        "sailboat": {
+          "name": "Bateau à voile",
+          "regions": {
+            "sky": "Ciel",
+            "sea": "Mer",
+            "sail-big": "Grande voile",
+            "sail-small": "Petite voile",
+            "mast": "Mât",
+            "hull": "Bateau",
+            "flag": "Drapeau"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cuisine na jardin",
+          "baskets": [
+            "Na ndo ti sâkpa",
+            "Na yanga-ngu"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Mbungu na nyama",
+          "baskets": [
+            "Mbungu",
+            "Nyama"
+          ]
+        },
+        "home-travel": {
+          "label": "Gbe na lêgê",
+          "baskets": [
+            "Na gbe",
+            "Na ndo ti lêgê"
+          ]
+        }
+      }
+    }
+  }
+}

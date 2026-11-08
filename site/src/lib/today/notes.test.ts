@@ -87,6 +87,6 @@ describe('notes', () => {
   it('toggles situation selection', () => {
     expect(toggleSituation(null, 'go-home')).toBe('go-home');
     expect(toggleSituation('go-home', 'go-home')).toBe(null);
-    expect(toggleSituation('go-home', 'wandering')).toBe('wandering');
+    expect(toggleSituation('go-home', 'visit')).toBe('visit');
   });
 });

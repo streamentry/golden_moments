@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Sesli okamak",
+      "stopReading": "Okamagy saklaň",
+      "region": "Oýun",
+      "restart": "Täzeden başlaň",
+      "soundOn": "Ýumşak sesler açyk",
+      "soundOff": "Ýumşak sesler öçürilen",
+      "done": "Häzirlik ýeterlik",
+      "feedbackQuestion": "Bu şu gün size kömek etdimi?",
+      "feedbackYes": "Hawa",
+      "feedbackNo": "Onça däl",
+      "feedbackThanks": "Bize aýdanyňyz üçin sag boluň."
+    },
+    "tile": {
+      "named": "{name}, plitka {n}",
+      "hidden": "Gizlin surat, plitka {n}",
+      "withState": "{label}, {state}",
+      "matched": "Gabat geldi",
+      "selected": "Saýlandy",
+      "picture": "Surat",
+      "photoNumber": "Surat {n}"
+    },
+    "pairs": {
+      "allTogether": "Ähli jübütler tapyldy. Ýene oýnaň ýa-da dynç alyň.",
+      "photoPair": "Bir jübüt surat, bilelikde.",
+      "picturePair": "Iki sany {name|lower} suraty, bilelikde.",
+      "selected": "{name}. Indi onuň jübütini tapyň.",
+      "mismatch": "Howsala düşmäň. Dowam etmek üçin surata basyň.",
+      "mismatchNamed": "{a} we {b}. Howsala düşmäň. Dowam etmek üçin surata basyň."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Bir surata basyň, soň oňa meňzeýän surata basyň.",
+      "guidanceHidden": "Plitkalary açmak üçin ikisine basyň. Deň iki sany tapyň.",
+      "restart": "Täze suratlar",
+      "sizeLegend": "Plitka sany",
+      "size": {
+        "one": "{n} plitka",
+        "other": "{n} plitka"
+      },
+      "viewLegend": "Nädip oýnamak",
+      "viewShowing": "Suratlar görkezilýär",
+      "viewHidden": "Gizlin suratlar",
+      "playAgain": "Täze suratlar bilen ýene oýnaň",
+      "talk": "Suratlar hakda bilelikde gürrüň ediň"
+    },
+    "choose": {
+      "countLegend": "Näçe surat",
+      "count": "Saýlamak üçin {n}",
+      "thatOne": "Ol {name|lower}. Howsala düşmäň."
+    },
+    "findTheSame": {
+      "guidance": "Ýokardaky surata serediň. Aşakdaky şol bir surata basyň.",
+      "yes": "Hawa, şol bir {name|lower}.",
+      "next": "Indiki surat"
+    },
+    "shadowMatch": {
+      "guidance": "Ýokardaky kölege serediň. Ony döredýän suraty basyň.",
+      "yes": "Hawa, {name|lower} şol kölegäni döredýär.",
+      "next": "Indiki kölege",
+      "shadowAlt": "Deňeşdirmeli kölege",
+      "foundAlt": "{name|lower} kölegesi"
+    },
+    "sortTogether": {
+      "guidance": "Bir surata basyň, soň ony degişli sebede basyň.",
+      "restart": "Täze suratlar",
+      "themeLegend": "Tema",
+      "selected": "{name}. Indi ony salmaly sebede basyň.",
+      "pickFirst": "Ilki bir surata, soň sebede basyň.",
+      "hint": "{name|lower} «{basket}» sebedine degişli bolup biler. Ony şol sebede basyň.",
+      "placed": "{name|lower} «{basket}» sebedinde.",
+      "sorted": "Hemmesi tertipleşdirildi. Sebetlere bilelikde serediň ýa-da başga tema saýlaň.",
+      "basket": {
+        "one": "{basket} sebedi, içinde {count} surat",
+        "other": "{basket} sebedi, içinde {count} surat"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Bir bölekden basyň, soň başga bölege basyň. Olar ýerlerini çalşar.",
+      "restart": "Ýene garyşdyryň",
+      "pictureLegend": "Surat",
+      "pictures": {
+        "sailboat": "Ýelkenli gaýyk",
+        "house": "Öý",
+        "balloon": "Şar",
+        "sunflower": "Günebakar",
+        "lighthouse": "Mayak",
+        "cat": "Pişik"
+      },
+      "sizeLegend": "Bölekler",
+      "size": {
+        "one": "{n} bölek",
+        "other": "{n} bölek"
+      },
+      "pickedUp": "Bölek alyndy. Indi ony ýerleşdirmeli ýerine basyň.",
+      "whole": "{name|lower} ýene bütin boldy. Islän wagtyňyz başga surat saýlaň.",
+      "swapped": {
+        "one": "Çalşyldy. {total} bölekden {correct} sany dogry ýerde.",
+        "other": "Çalşyldy. {total} bölekden {correct} sany dogry ýerde."
+      },
+      "guideAlt": "Bütin surat: {name}",
+      "guideText": "Surat bütin bolanda şeýle görünýär.",
+      "piece": "{place} ýerdäki bölek",
+      "pieceInPlace": ", dogry ýerde",
+      "piecePickedUp": ", alyndy",
+      "places4": [
+        "ýokarky çep",
+        "ýokarky sag",
+        "aşaky çep",
+        "aşaky sag"
+      ],
+      "places9": [
+        "ýokarky çep",
+        "ýokarky ortada",
+        "ýokarky sag",
+        "ortanky çep",
+        "merkez",
+        "ortanky sag",
+        "aşaky çep",
+        "aşaky ortada",
+        "aşaky sag"
+      ],
+      "done": "Surat ýene bütin boldy. Ýene oýnaň ýa-da dynç alyň.",
+      "playAgain": "Ýene garyşdyryň"
+    },
+    "finishTheSaying": {
+      "guidance": "Nakyly bilelikde okaň, soň ony tamamlaýan sözi basyň.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Hawa, «{start} {end}.»",
+      "otherEnding": "«{word}» hem bolup biler. Adaty nakyl «{end}» bilen gutarýar.",
+      "revealed": "Nakyl şeýle: «{start} {end}.»",
+      "choicesLabel": "Soňky sözi saýlaň",
+      "show": "Gutarşygyny görkez",
+      "talk": "Bu barada gürrüň ediň: ",
+      "next": "Indiki nakyl"
+    },
+    "wordSearch": {
+      "guidance": "Sözler gorizontal ýa-da wertikal ýazylýar. Sözüň ilkinji harpyna, soň soňky harpyna basyň.",
+      "restart": "Täze tapmaça",
+      "themeLegend": "Tema",
+      "sizeLegend": "Setkanyň ululygy",
+      "size": {
+        "one": "{n} × {n} ({words} söz)",
+        "other": "{n} × {n} ({words} söz)"
+      },
+      "print": "Bu tapmacany çap ediň",
+      "letterChosen": "{letter} harpy saýlandy. Indi sözüň soňky harpyna basyň.",
+      "found": "{word} tapyldy.",
+      "foundAll": "{word} tapyldy. Sözleriň hemmesi tapyldy. Ýene oýnaň ýa-da dynç alyň.",
+      "tryAgain": "Howsala düşmäň. Sözüň ilkinji harpyna, soň soňky harpyna basyň.",
+      "gridLabel": "Harp setkasy, {n} setir, her setirde {n} harp. Harplaryň arasynda hereket etmek üçin ok düwmelerini ulanyň.",
+      "cell": "{letter}, setir {row}, sütün {col}",
+      "cellFound": ", tapylan sözüň bölegi",
+      "wordsHeading": "Tapmaly sözler",
+      "wordFound": " (tapyldy)",
+      "sheetTitle": "Sözleriň tapmacasy: {theme}",
+      "sheetNote": "Sözler gorizontal ýa-da wertikal ýazylýar.",
+      "unavailable": "Bu dil üçin harp setkasy amatly däl, şonuň üçin sözleriň tapmacasy şu ýerde hödürlenmeýär. Ornuna surat oýunlaryny synap görüň."
+    },
+    "coloring": {
+      "guidance": "Bir reňk saýlaň, soň suratyň bir bölegine basyň.",
+      "restart": "Reňkleri arassalaň",
+      "cleared": "Sahypa ýene boş.",
+      "pageLegend": "Sahypa",
+      "print": "Bu sahypany çap ediň",
+      "colorsLabel": "Reňkler",
+      "paintChosen": "{paint} saýlandy.",
+      "painted": "{part} indi {paint|lower} reňkde.",
+      "artLabel": "{page}, reňklemeli {count} bölek",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, reňklenmedi",
+      "paints": {
+        "red": "Gyzyl",
+        "orange": "Narynç",
+        "yellow": "Sary",
+        "green": "Ýaşyl",
+        "blue": "Gök",
+        "purple": "Benewşe",
+        "pink": "Gülgüne",
+        "brown": "Goňur",
+        "sky-blue": "Asman gögi",
+        "cream": "Krem",
+        "gray": "Çal",
+        "white": "Ak"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Kartoçkany ses çykaryp okaň. Dogry jogap ýok.",
+      "position": "Kartoçka {n}, jemi {total}",
+      "themeLegend": "Tema",
+      "next": "Indiki kartoçka",
+      "previous": "Öňki kartoçka",
+      "print": "Ähli kartoçkalary çap ediň",
+      "sheetTitle": "Gürrüň kartoçkalary"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Ilki suratlaryňyzy saýlaň.",
+      "guidance": "Bir surata basyň, soň oňa meňzeýän surata basyň.",
+      "restart": "Ýene garyşdyryň",
+      "intro": "**Bu enjamdan 2-den 6-a çenli surat saýlaň.** Olar diňe bu sahypada görkezilýär we hiç haçan ýüklenmeýär ýa-da saklanmaýar.",
+      "choose": "Suratlary saýlaň",
+      "chooseDifferent": "Başga suratlary saýlaň",
+      "clear": "Suratlary aýyryň",
+      "cleared": "Bu sahypadan suratlar aýryldy.",
+      "atLeastTwo": "Iň az iki surat saýlaň, sag boluň.",
+      "usingFirst": "Ilkinji {max} surat ulanylýar.",
+      "skipped": {
+        "one": "{count} faýl surat hökmünde görkezilip bilinmedi.",
+        "other": "{count} faýl surat hökmünde görkezilip bilinmedi."
+      },
+      "playAgain": "Bu suratlar bilen ýene oýnaň",
+      "empty": "Suratlaryňyz şu ýerde peýda bolar, her biri iki gezek."
+    },
+    "pictureBingo": {
+      "guidance": "Ilki kartoçkalary çap ediň. Soň bu çagyryjyny iň uly ekranyňyzda görkeziň.",
+      "called": {
+        "one": "{name}. {total} suratdan {called} sy çagyryldy.",
+        "other": "{name}. {total} suratdan {called} sy çagyryldy."
+      },
+      "start": "Ilkinji suraty çagyrmak üçin «Indiki surat» düwmesine basyň.",
+      "restart": "Täze oýun başlaň",
+      "squaresLegend": "Her kartoçkadaky kwadratlar",
+      "squares": "{n} kwadrat ({side} × {side})",
+      "cardsLegend": "Çap ediljek kartoçkalar",
+      "cards": {
+        "one": "{n} kartoçka",
+        "other": "{n} kartoçka"
+      },
+      "print": {
+        "one": "{n} bingo kartoçkasyny çap ediň",
+        "other": "{n} bingo kartoçkasyny çap ediň"
+      },
+      "ready": "Taýýar, başlamaga bolýar",
+      "next": "Indiki surat",
+      "allCalled": "Ähli suratlar çagyryldy",
+      "alreadyCalled": "Eýýäm çagyryldy",
+      "sheetTitle": "Suratly bingo · kartoçka {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Tegelek ulalanda dem alyň, kiçelende dem çykaryň. Alty dem alandan soň özi togtaýar.",
+      "paceLegend": "Tizlik",
+      "paceSlow": "Haýal (her biri 5 sekunt)",
+      "paceGentle": "Ýuwaş (her biri 4 sekunt)",
+      "ready": "Taýyn bolanyňyzda",
+      "in": "Dem alyň",
+      "hold": "Dynç alyň",
+      "out": "Dem çykaryň",
+      "start": "Başla",
+      "stop": "Dur",
+      "started": "Başlandy. Tegelek ulalanda dem alyň.",
+      "stopped": "Durduryldy.",
+      "finished": "Bu alty haýal dem boldy. Islän wagtyňyz täzeden başlaň."
+    }
+  },
+  "pictures": {
+    "teacup": "Çaý käsesi",
+    "kettle": "Çäýnek",
+    "bread": "Nan çöregi",
+    "frying-pan": "Tawa we ýumurtga",
+    "cake": "Doglan gün torty",
+    "sunflower": "Gün gülü",
+    "tulip": "Gyzyl lale",
+    "watering-can": "Suw guýgyç",
+    "potted-plant": "Küpli ösümlik",
+    "tree": "Agaç",
+    "bird": "Guş şahada",
+    "butterfly": "Kebelek",
+    "dog": "It",
+    "cat": "Pişik",
+    "fish": "Altyn balyk",
+    "apple": "Gyzyl alma",
+    "pear": "Armyt",
+    "strawberry": "Çilek",
+    "banana": "Banan",
+    "lemon": "Limon",
+    "cherries": "Gilas",
+    "house": "Öý",
+    "lamp": "Stol lampasy",
+    "armchair": "Kreslo",
+    "key": "Açar",
+    "umbrella": "Çetir",
+    "sailboat": "Ýelkenli gämi",
+    "car": "Köne maşyn",
+    "bicycle": "Welosiped",
+    "balloon": "Howa şary",
+    "lighthouse": "Mayak",
+    "sun": "Gün",
+    "moon": "Aý we ýyldyzlar",
+    "teapot": "Demlik",
+    "apple-pie": "Alma pirogy",
+    "honey-jar": "Bal gutusy",
+    "boiled-egg": "Gaýnadylan ýumurtga",
+    "toaster": "Tosteri",
+    "cheese": "Peýnir bölegi",
+    "milk-jug": "Süýt kuwşy",
+    "cupcake": "Kiçi tort",
+    "orange": "Apelsin",
+    "grapes": "Üzüm çogy",
+    "watermelon": "Gawun bölegi",
+    "pineapple": "Ananas",
+    "peach": "Şeptäli",
+    "rose": "Gül",
+    "daisies": "Romaşkalar",
+    "mushroom": "Kömelek",
+    "wheelbarrow": "Tekerlekli arba",
+    "birdhouse": "Guş öýjügi",
+    "cactus": "Küpdäki kaktus",
+    "acorn": "Palamar",
+    "autumn-leaf": "Güýz ýapragy",
+    "rabbit": "Towşan",
+    "duck": "Ördek",
+    "hen": "Towuk",
+    "sheep": "Goýun",
+    "owl": "Baýguş",
+    "ladybird": "Gyzyl böcek",
+    "snail": "Ulitka",
+    "frog": "Gurbaga",
+    "bee": "Ary",
+    "clock": "Diwar sagaty",
+    "vase-of-flowers": "Güldan",
+    "radio": "Köne radio",
+    "books": "Kitaplar",
+    "candle": "Mum",
+    "glasses": "Äýnek",
+    "telephone": "Telefon",
+    "ball-of-wool": "Ýüň topary",
+    "straw-hat": "Kepe",
+    "train": "Parowoz",
+    "bus": "Awtobus",
+    "airplane": "Uçar",
+    "suitcase": "Çemodan",
+    "tractor": "Traktor",
+    "rowing-boat": "Gaýyk",
+    "rainbow": "Gök kemer",
+    "rain-cloud": "Ýagyşly bulut",
+    "snowflake": "Gar tanesi",
+    "kite": "Uçurtma",
+    "sunrise": "Gün dogmagy"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "AÄBÇDEGHIKLMNOÖPRSŞTUÜWYÝZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Miwe",
+          "words": [
+            "ALMA",
+            "ARMUT",
+            "ERIK",
+            "LIMON",
+            "ÜZÜM",
+            "GAWUN",
+            "NAR",
+            "ÝEMIŞ",
+            "BANAN"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Bagça",
+          "words": [
+            "GÜL",
+            "LALE",
+            "TOHUM",
+            "TOPRAK",
+            "ÝAPRAK",
+            "AGAÇ",
+            "SUW",
+            "HOWUZ",
+            "ARI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Aşhana",
+          "words": [
+            "KÄSE",
+            "GAŞYK",
+            "NAN",
+            "TAWA",
+            "GAP",
+            "TABAK",
+            "ÇAÝ",
+            "PEÇ",
+            "ÇATAL"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Howa",
+          "words": [
+            "GÜN",
+            "ÝAGYŞ",
+            "GAR",
+            "ŞAMAL",
+            "BULUT",
+            "TUMAN",
+            "BORAN",
+            "HAVA",
+            "SOWUK"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Haýwanlar",
+          "words": [
+            "BALYK",
+            "PIŞIK",
+            "TOWUK",
+            "ÖRDEK",
+            "KEÇI",
+            "SYGYR",
+            "GUŞ",
+            "EŞEK",
+            "ÝYLAN"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Öý",
+          "words": [
+            "GAPY",
+            "STUL",
+            "ÝATAK",
+            "HALY",
+            "DIWAN",
+            "SAAT",
+            "STOL",
+            "AÇAR",
+            "LAMPA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Ähli kartlar",
+        "food": "Nahar",
+        "home": "Öý",
+        "outdoors": "Daşary",
+        "animals": "Haýwanlar",
+        "travel": "Syýahat",
+        "work": "Iş we meşgullanyk",
+        "music": "Aýdym-saz we şatlyk",
+        "seasons": "Möwsümler"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Aşhanadan haýsy ys siziň iň ýakymly ysyňyz?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Bir baýramda haýsy torty saýlardyňyz?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Halaýan miwe pirogyňyz ýa-da desertiňiz barada aýdyp beriň."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Çaýyňyzy ýa-da kofeňizi nähili içmegi halaýarsyňyz?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Haýsy ertirlik nahar siziň üçin hakykatdanam ýagşy?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Hiç wagt miwäni bakjadan dakyp iýenizmi?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Şirin ýa-da turşy: haýsysyny has gowy görýärsiňiz?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Size tomusy ýada salýan haýsy iým?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ýaşamagyňyz ýakymly bolan öý barada aýdyp beriň."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Dynç alyp oturmak üçin iň halaýan ýeriňiz nirede?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Parahat agşamda nämeler etmegi halaýarsyňyz?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Aýratyn gutujykda saklamak isleýän hazynaňyz näme?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Çaý içmäge kimi çagyrardyňyz?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ýagyşly günde nämeler etmegi halaýarsyňyz?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Bakjada haýsy gülleri ekerdiňiz?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Halaýan agajyňyz ýa-da seýilgähiňiz barada aýdyp beriň."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Bakjada bolmagyň iň ýakymly tarapy nämedir?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Haýsy reňkli gülleri iň gowy görýärsiňiz?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Öýde ösümlik saklamagy halaýarsyňyzmy?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Siziň pikiriňizde kämil ýagty gün nähili bolardy?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Bir wagtlar tanaýan itiňiz barada aýdyp beriň."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Pişik ýa-da it, ýa-da hiç biri? Olar barada nämeler halaýarsyňyz?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Daşarda haýsy guşlary görýärsiňiz ýa-da eşidýärsiňiz?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Haçan-da balyk tutanyňyz ýa-da akwarium saklanyňyz barmy?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Görenleriňiziň içinde iň owadan haýwan haýsydy?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Halaýan maşyňyz barada aýdyp beriň."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Deňizde ýa-da daglarda bir gün geçirmegi haýsy has gowy görýärsiňiz?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Gezelenç üçin nirä gitmek isleýärsiňiz?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Islän ýeriňiziň üstünden uçup bilseňiz, haýsy ýer bolardy?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Lezzet alan syýahatyňyz nämedi?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Haýsy işde işlemek size has ýakdy?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Sagatlap meşgullanyp bilýän hobbiňiz haýsy?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ýasamagyňyz ýa-da düzetmegiňiz bilen tanalan zat haýsy?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Işe ilkinji gadam basýan ýaş adama haýsy maslahaty berersiňiz?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Haýsy aýdym-saz aýagyňyzy depelemäge mejbur edýär?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Hakykatdan gowy toýy näme ýasaýar?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Diňlemäge halaýan aýdymçyňyz kim?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Gaýtadan tomaşa etmäge halaýan film ýa-da teleserialyňyz haýsy?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Tomusda iň köp haýsy zady halaýarsyňyz?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Güýzüň size ýakýan tarapy näme?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Gyş agşamynda nämeler etmek ýakymly?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Siz üçin ýazyň ilkinji alamatlary nämeler?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Gar, ýagyş ýa-da gün: haýsysyny has gowy görýärsiňiz?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Küpdäki gül",
+          "regions": {
+            "sky": "Fon",
+            "table": "Stol",
+            "stem": "Sap",
+            "leaf-left": "Çep ýaprak",
+            "leaf-right": "Sag ýaprak",
+            "petal-1": "Gül ýapragy 1",
+            "petal-2": "Gül ýapragy 2",
+            "petal-3": "Gül ýapragy 3",
+            "petal-4": "Gül ýapragy 4",
+            "petal-5": "Gül ýapragy 5",
+            "petal-6": "Gül ýapragy 6",
+            "petal-7": "Gül ýapragy 7",
+            "petal-8": "Gül ýapragy 8",
+            "center": "Gülüň ortasy",
+            "pot": "Küp",
+            "pot-rim": "Küpüň gyrasy"
+          }
+        },
+        "house": {
+          "name": "Öý",
+          "regions": {
+            "sky": "Gökyüzi",
+            "sun": "Gün",
+            "grass": "Otlar",
+            "chimney": "Mörü",
+            "walls": "Diwarlar",
+            "roof": "Çatyk",
+            "door": "Gapy",
+            "window-left": "Çep penjire",
+            "window-right": "Sag penjire",
+            "path": "Ýol"
+          }
+        },
+        "teacup": {
+          "name": "Çaý käsesi",
+          "regions": {
+            "background": "Fon",
+            "saucer": "Tabakça",
+            "handle": "Tutgy",
+            "cup": "Käse",
+            "band": "Käsedäki zolak",
+            "tea": "Çaý"
+          }
+        },
+        "butterfly": {
+          "name": "Kebelek",
+          "regions": {
+            "background": "Fon",
+            "wing-top-left": "Ýokarky çep ganat",
+            "wing-top-right": "Ýokarky sag ganat",
+            "wing-bottom-left": "Aşaky çep ganat",
+            "wing-bottom-right": "Aşaky sag ganat",
+            "spot-left": "Çep ganatdaky nokat",
+            "spot-right": "Sag ganatdaky nokat",
+            "body": "Beden"
+          }
+        },
+        "sailboat": {
+          "name": "Ýelkenli gämi",
+          "regions": {
+            "sky": "Gökyüzi",
+            "sea": "Deňiz",
+            "sail-big": "Uly ýelken",
+            "sail-small": "Kiçi ýelken",
+            "mast": "Mačta",
+            "hull": "Gämi",
+            "flag": "Baýdak"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Aşhana we bagça",
+          "baskets": [
+            "Aşhanada",
+            "Bagda"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Miwe we haýwanlar",
+          "baskets": [
+            "Miwe",
+            "Haýwanlar"
+          ]
+        },
+        "home-travel": {
+          "label": "Öý we syýahat",
+          "baskets": [
+            "Öýde",
+            "Daşarda"
+          ]
+        }
+      }
+    }
+  }
+}

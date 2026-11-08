@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Okugatta ebifaananyi",
+    "seoTitle": "Omuzannyo gw'Okugatta Ebifaananyi eri Abantu Abalina Obulwadde bw'Okwerabira: Okugatta Ebifaananyi",
+    "h1": "Okugatta Ebifaananyi: Omuzannyo Omukkakkamu ogw'Okugatta",
+    "description": "Omuzannyo ogw'okugatta ebifaananyi ogwa bwereere era omukkakkamu eri abantu ababeera n'obulwadde bw'okwerabira. Ebifaananyi ebinene bisigala nga birabika, tewali ssaawa oba bubonero, era olonda obutundu 4 okutuuka ku 12.",
+    "short": "Zuula ebifaananyi ebibiri ebifaanagana. Ebifaananyi biyinza okusigala nga birabika.",
+    "players": "Omuntu 1 oba 2, nga batudde ku lusegere",
+    "intro": "Koonya ku kifaananyi, oluvannyuma okoonye ku ekikifaanagana. Ebifaananyi bisigala nga birabika okuva ku ntandikwa, kale tewali kyetaagisa kujjukira. Ebifaananyi ebibiri bwe bigendera wamu biba n'olukoloboze lwa zaabu n'akabonero akalaga nti kituufu.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Londa obutundu bungi bw'oyagala okukozesa. Obutundu buna butandikirwako bulungi era mu bukkakkamu.",
+      "Koonya ku kifaananyi kyonna. Kiba n'olukoloboze lwa zaabu.",
+      "Koonya ku kifaananyi ekifaanagana nakyo. Ekibiri ekyo kisigala wamu n'akabonero akalaga nti kituufu.",
+      "Ebifaananyi ebibiri bwe biba tebifaanagana, tewali kibi kibaawo. Ddamu okoonye buli lwe mwetegeka.",
+      "Teekako \"Ebifaananyi ebikwekeddwa\" bw'aba mmwe mwembi munyumirwa engeri ey'edda ey'ebifaananyi ebikyusiddwa."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Mwogerere ku bifaananyi wamu mu ddoboozi eriwulikika era mwogereko: \"Ekikopo ky'ecaayi ekimyufu. Onywa caayi n'amata?\"",
+      "Leka omuntu gw'olabirira y'akoonye, ne bw'akitwala akaseera. Mulage n'engalo okusinga okumukoonyera.",
+      "Sigala n'obutundu buna okumala ebbanga lyonna lye kiwulira nga kirungi. Obutundu obungi kiri ku lulonda, si ddaala lye muteekwa okutuukako.",
+      "Mumalirize nga mukyanyumirwa. Omuzannyo gumu guba omulimu ogujjuvu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Waliwo essaawa oba obubonero?",
+        "a": "Nedda. Tewali ssaawa, bubonero, kubala ntambula oba kuwangulwa. Osobola okuyimirira ekiseera kyonna, era okuyimirira wakati kiba ngeri nnungi ey'okumaliriza."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Lwaki ebifaananyi bisigala nga birabika?",
+        "a": "Okusigaza ebifaananyi nga birabika kifuula omuzannyo okuba ogw'okutunuulira n'okugatta so si ogw'okujjukira. Abantu bangi kino bakisanga nga kikkakkanya. Osobola okukyusa ogende ku bifaananyi ebikwekeddwa mu kukoonya lumu bw'oba oyagala."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Gwa bwereere, era nneetaaga okuwandiika erinnya lyange?",
+        "a": "Yee, gwa bwereere, era tewali akawunti, kuwandiika linnya oba kuwanuula. Gukolera mu bulawuzi y'omukutu ku ssimu, ku tabuleeti oba ku kompyuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Tusobola okukozesa ebifaananyi byaffe eby'amaka?",
+        "a": "Yee. Gezaako Okugatta ebifaananyi byammwe, ekikusobozesa okulonda ebifaananyi okuva ku kyuma kyo. Ebifaananyi bisigala mu bulawuzi yo era tebitwalibwa ku mukutu."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Zuula ekifaanagana",
+    "seoTitle": "Zuula Ekifaananyi Ekifaanagana: Omuzannyo Omwangu eri Abantu Abalina Obulwadde bw'Okwerabira",
+    "h1": "Zuula Ekifaananyi Ekifaanagana",
+    "description": "Ekifaananyi kimu waggulu, bibiri okutuuka ku bina wansi. Koonya ku ekifaanagana nakyo. Omuzannyo gw'ebifaananyi ogukkakkamu era ogwa bwereere eri abantu ababeera n'obulwadde bw'okwerabira, nga tewali ssaawa.",
+    "short": "Tunuulira ekifaananyi ekiri waggulu era okoonye ku ekifaanagana nakyo wansi.",
+    "players": "Omuntu 1 oba 2",
+    "intro": "Ekifaananyi kimu kiba waggulu ku lutimbe. Wansi waakyo wabaawo ebifaananyi bibiri, bisatu oba bina. Koonya ku ekifaanagana nakyo. Kiba kironda kimu ekinyangu buli mulundi, nga mulina ekifo ekimala okwogeramu.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Londa ebifaananyi bibiri, bisatu oba bina by'oyagala okulondamu. Bibiri bye byangu ennyo.",
+      "Mutunuulire ekifaananyi ekiri waggulu wamu.",
+      "Koonya ku kifaananyi ekifaanagana nakyo wansi. Kiteekebwako akabonero akalaga nti kituufu n'ebigambo ebiwombeefu bitono.",
+      "Ekifaananyi ekirala bwe kikoonyeebwa, omuzannyo gwogera linnya lyakyo bugwi era gulinda. Mutwale akaseera kammwe.",
+      "Koonya ku \"Ekifaananyi ekiddako\" bwe mwetegeka okulaba ekirala."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Mwogere ku buli kifaananyi nga temunnalonda: langi zaakyo, engeri gye kifaananamu, n'awa we muyinza okukiraba.",
+      "Okulonda kubiri si \"kwangu nnyo\". Ekigendererwa kwe kuba n'akaseera akawoomu, si kusoomoozagana.",
+      "Okukoonya bwe kuba kuzibu, omuntu ayinza okulaga n'engalo naawe n'okoonya ku lulwe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Waliwo essaawa oba obubonero?",
+        "a": "Nedda. Tewali ssaawa, bubonero, kubala ntambula oba kuwangulwa. Osobola okuyimirira ekiseera kyonna, era okuyimirira wakati kiba ngeri nnungi ey'okumaliriza."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kibaawo ki ekifaananyi ekitali kituufu bwe kikoonyeebwa?",
+        "a": "Tewali kibi kibaawo. Tewali ddoboozi erikanga, musaalaba gumyufu oba kukankana. Omuzannyo gwogera linnya ly'ekifaananyi ekikoonyeeddwa era gulinda okukoonya okuddako."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Gwa bwereere, era nneetaaga okuwandiika erinnya lyange?",
+        "a": "Yee, gwa bwereere, era tewali akawunti, kuwandiika linnya oba kuwanuula. Gukolera mu bulawuzi y'omukutu ku ssimu, ku tabuleeti oba ku kompyuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Okugatta ekisiikirize",
+    "seoTitle": "Omuzannyo gw'Okugatta Ekisiikirize eri Abantu Abalina Obulwadde bw'Okwerabira: Ku Mukutu gwa Bwereere",
+    "h1": "Okugatta Ekisiikirize: Omuzannyo Omukkakkamu ogw'Ebifaananyi",
+    "description": "Ekisiikirize ekiddugavu waggulu, ebifaananyi bibiri okutuuka ku bina wansi. Koonya ku kifaananyi ekireeta ekisiikirize ekyo. Omuzannyo ogw'okugatta ebisiikirize ogwa bwereere era omukkakkamu eri obulwadde bw'okwerabira, nga tewali ssaawa.",
+    "short": "Tunuulira ekisiikirize era okoonye ku kifaananyi ekikireeta.",
+    "players": "Omuntu 1 oba 2",
+    "intro": "Okugatta ebisiikirize mulimu ogumanyiddwa okuva ku lupapula olukubiddwa, wano nga guliko ebifaananyi ebinene era nga tewali kya kukuba. Ekisiikirize ekiwombeefu kiba waggulu ku lutimbe, ate ebifaananyi bibiri, bisatu oba bina birinda wansi. Koonya ku ekireeta ekisiikirize ekyo. Ebintu nga ggaali, muggalo oba ekikopo ky'ecaayi byangu okwogerako.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Londa ebifaananyi bibiri, bisatu oba bina by'oyagala okulondamu. Bibiri bye byangu ennyo.",
+      "Mutunuulire ekisiikirize wamu. Kifaanana kitya? Kiwanvu oba kya nvuumu?",
+      "Koonya ku kifaananyi ekireeta ekisiikirize ekyo. Erinnya lyakyo lirabika wansi w'ekisiikirize.",
+      "Ekifaananyi ekirala bwe kikoonyeebwa, omuzannyo gwogera linnya lyakyo bugwi era gulinda. Mutwale akaseera kammwe.",
+      "Koonya ku \"Ekisiikirize ekiddako\" bwe mwetegeka okulaba ekirala."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Goberera ensalosalo y'ekisiikirize n'olugalo era mwogere ku ngeri gye kifaananamu.",
+      "Ebisiikirize bwe biwulira nga bizibu leero, kyusa ogende ku Zuula ekifaanagana, awa ebifaananyi we bifaanagana.",
+      "Mwogere ku kifaananyi nga kimaze okuzuulibwa: \"Twalina muggalo ng'ogwo.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Waliwo essaawa oba obubonero?",
+        "a": "Nedda. Tewali ssaawa, bubonero, kubala ntambula oba kuwangulwa. Osobola okuyimirira ekiseera kyonna, era okuyimirira wakati kiba ngeri nnungi ey'okumaliriza."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Okukwataganya ebisikirize kulungi eri abantu abalina obulwadde bw'okwerabira?",
+        "a": "Kiyinza okuba eky'okukola ekisanyusa era ekyangu eri abantu abamu, naddala mu biseera eby'olubereberye. Ebibumbidwa byangu okutegeera okusinga ebigambo. Kiriwo lwa kusanyuka na kunyumyako, si kigezo, era tekijjanjaala wadde okukendeeza ku bulwadde bw'okwerabira. Singa kireeta embeera ey'okusoberwa, gezaako Onoonye ekifaanagana oba mutunule ku bifaananyi mwenna awamu."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kiki ekibaawo ssinga okoona ku kifaananyi ekitakwatagana?",
+        "a": "Tewali kintu kibi kibawo. Tewali ddoboozi litiisa, musalaba mumyufu wadde okukankana. Omuzannyo gwatula erinnya ly'ekifaananyi ekikooneddwako era ne gulindirira okukoona okulala."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kya bwereere, era nneetaaga okwewandiisa?",
+        "a": "Yee, kya bwereere, era tewali kwetaagisa akawunti, kwewandiisa wadde okuteeka kintu ku ssimu oba kompyuta. Kikola bulungi mu mukutu gw'okubaza ku ssimu, taabuleti oba kompyuta."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sengeka awamu",
+    "seoTitle": "Omuzannyo gw'Okusengeka eri Abalina Obulwadde bw'Okwerabira: Sengeka Awamu",
+    "h1": "Sengeka Awamu: Eky'okukola eky'Okusengeka Ebifaananyi",
+    "description": "Koona ku kifaananyi, oluvannyuma okoone ku kibbo mwe kisaana okuba: mu ffumbiro oba mu lusuku, ebibala oba ebisolo. Eky'okukola eky'okusengeka ekiteefu era eky'ebwereere eri abantu abalina obulwadde bw'okwerabira.",
+    "short": "Teeka buli kifaananyi mu kibbo kyakyo: effumbiro oba olusuku, n'ebirala.",
+    "players": "Omuntu 1 oba 2",
+    "intro": "Okusengeka mulimu gwa bulijjo ogumanyiddwa era oguleeta essanyu, gamba ng'okutereka ebintu ebiguliddwa oba okugatta sitokingizi ezifaanagana. Koona ku kifaananyi, oluvannyuma okoone ku kibbo we kisaana okuba. Tewali kwanguyiriza era tewali nsobi.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Londa omulamwa: effumbiro n'olusuku, ebibala n'ebisolo, oba eka n'olugendo.",
+      "Koona ku kifaananyi. Kifuna olukugiro lwa zaabu.",
+      "Koona ku kibbo mwe kisaana okuba. Ekifaananyi kigenda mu kibbo ekyo.",
+      "Bwe kiba kisaana kuba mu kibbo ekirala, omuzannyo gukiraga mu ngeri ey'empisa era ne gulinda.",
+      "Buli kifaananyi bwe kimala okusengekebwa, mutunulire awamu ebyateekeddwa mu bibbo."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Mu bulamu obwa bulijjo emirundi mingi tewabaawo kuddamu kukyamu. Singa omuntu agamba nti ekipompo kisaana kuba mu ffumbiro, mubuuze ensonga. Oyinza okufunamu olugero olulungi.",
+      "Kozesa ebifaananyi okutandika emboozi: \"Kiki kye watereka oba kye walima mu lusuku lwo?\"",
+      "Okusengeka ebintu ebya ddala, gamba ng'amagiiko n'ewuma oba amapeesa ng'ogoberera langi, kintu kirungi nnyo ekiyinza okukolebwa oluvannyuma nga temuli ku sikuliini."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Waliwo ekipimo ky'obudde oba obubonero?",
+        "a": "Nedda. Tewali ssaawa, bubonero, kubala mirundi egy'okukwatako wadde okuwangulwa. Muyinza okuyimiriza ekiseera kyonna, era n'okukomya akayingiro wakati ngeri nnungi nnyo ey'okumalirizaamu."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Lwaki kusengeka?",
+        "a": "Abantu bangi banyumirwa okusengeka kubanga kiba kiwulirika ng'omulimu ogugasa era ogumanyiddwa. Era kiba kyangu nnyo okwogerako ku bifaananyi nga bwe mugenda mu maaso."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kya bwereere, era nneetaaga okwewandiisa?",
+        "a": "Yee, kya bwereere, era tewali kwetaagisa akawunti, kwewandiisa wadde okuteeka kintu ku ssimu oba kompyuta. Kikola bulungi mu mukutu gw'okubaza ku ssimu, taabuleti oba kompyuta."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Pazolo y'ebifaananyi",
+    "seoTitle": "Pazolo Eyangu eri Abalina Obulwadde bw'Okwerabira: Ebitundu 4 oba 9",
+    "h1": "Pazolo y'Ebifaananyi: Omuzannyo Omwangu Ogw'okugatta",
+    "description": "Pazolo eyangu ey'oku yintaneeti eri abantu abalina obulwadde bw'okwerabira: ebitundu 4 oba 9 ebinene, ekifaananyi kyonna kisigala nga kirabika, era okoona ku bitundu bibiri okubikyusa ebifo.",
+    "short": "Koona ku bitundu bibiri okubikyusa ebifo okutuusa ng'ekifaananyi kyonna kiweddeyo.",
+    "players": "Omuntu 1 oba 2",
+    "intro": "Ekifaananyi ekisanyusa kisalibwamu ebitundu ebinene bina oba mwenda ne bitabulwa. Ekifaananyi kyonna kisigala nga kirabika okubalagirira. Koona ku kitundu kimu, oluvannyuma okoone ku kirala, era ne bikyusa ebifo. Tewali kwetaagisa kusika kitundu.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Londa ekifaananyi n'ebitundu 4 oba 9. Ebitundu ebina kitandikilo kirungi era ekyangu.",
+      "Tunuulira ekifaananyi kyonna waggulu.",
+      "Koona ku kitundu, oluvannyuma okoone mu kifo we kisaana okugenda. Ebitundu ebyo ebibiri bikyusa ebifo.",
+      "Ebitundu ebiri mu kifo ekituufu bifuna akabonero akatono akalaga nti kituufu.",
+      "Ekifaananyi bwe kimala okujjula, mukisanyukireko mwenna awamu, oluvannyuma mulonde ekirala."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Okukoona ku bitundu bibiri okubikyusa ebifo kwangu nnyo okusinga okubisika eri abantu bangi.",
+      "Mwogere ku kifaananyi nga bwe kigattibwa: \"Akalanga akamyufu kaali awo.\"",
+      "Pazolo eya ddala ey'embaawo erimu ebitundu ebinene 12 okutuuka ku 24 nakyo kintu kirungi nnyo ekiyinza okuzannyirwa ku mmeeza."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Waliwo ekipimo ky'obudde oba obubonero?",
+        "a": "Nedda. Tewali ssaawa, bubonero, kubala mirundi egy'okukwatako wadde okuwangulwa. Muyinza okuyimiriza ekiseera kyonna, era n'okukomya akayingiro wakati ngeri nnungi nnyo ey'okumalirizaamu."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Nneetaaga okusika ebitundu?",
+        "a": "Nedda. Koona ku kitundu kimu, oluvannyuma okoone ku kirala, era ne bikyusa ebifo. Kino kyangu nnyo eri omuntu alina omukono ogukankana oba ng'akozesa sikuliini entono."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kya bwereere, era nneetaaga okwewandiisa?",
+        "a": "Yee, kya bwereere, era tewali kwetaagisa akawunti, kwewandiisa wadde okuteeka kintu ku ssimu oba kompyuta. Kikola bulungi mu mukutu gw'okubaza ku ssimu, taabuleti oba kompyuta."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Maliriza olugero",
+    "seoTitle": "Maliriza Olugero: Omuzannyo gw'Engero eri Abakadde",
+    "h1": "Maliriza Olugero",
+    "description": "Engero ez'Olumerika ezimanyiddwa ennyo ezibulamu ekigambo ekisembayo, gamba nga \"A penny saved is a penny ___\". Koona ku ky'olonze oba laga enkomerero, oluvannyuma mugyogerereko.",
+    "short": "Mumalirize awamu engero ezimanyiddwa, oluvannyuma muzinyumyeeko.",
+    "players": "Omuntu 1, 2 oba ekibiina",
+    "intro": "Engero enkadde emirundi mingi zimanyibwa obulamu bwonna. Buli kaada eraga olugero olumanyiddwa ng'ekigambo ekisembayo tekiriiko, ebyokulondako bisatu, ne peesa erigamba nti \"Laga enkomerero\". Oluvannyuma lw'enkomerero, ekibuuzo ekiteefu kiyitawo emboozi.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Musome olugero mu ddoboozi eriwulikika mwenna awamu.",
+      "Koona ku kigambo ekirumaliriza, oba koona ku \"Laga enkomerero\".",
+      "Musome olugero lwonna nate era mukubaganye ebirowoozo nga mukozesa ekibuuzo ekikubiriza emboozi.",
+      "Koona ku \"Olugero oluddako\" nga mwetegekedde."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Musome mpolampola era muwummuleko katono nga temunnatuuka ku kigambo ekisembayo. Emirundi mingi abantu bakyogerako nga tonnakimaliriza.",
+      "Omuntu bw'awaayo enkomerero ey'enjawulo, mukisanyukireko. Enkozesa z'engero ezimu zaawukana okusinziira ku ffamire oba ekitundu.",
+      "Mu kibiina, omuntu omu asoma ate abalala bonna ne bamaliriza wamu enkomerero."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Waliwo ekipimo ky'obudde oba obubonero?",
+        "a": "Nedda. Tewali ssaawa ebala biseera, bubonero, kubala mirundi gigendeddwamu wadde okuwangulwa. Muyinza okuyimirira akaseera konna, era n'okukoma wakati ngeri nnungi nnyo ey'okumalirizaamu."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Bwe tulonda ekigambo ekirala kiba kitya?",
+        "a": "Omuzannyo gulaga enkomerero eya bulijjo ne gukwasa emboozi. Tewali bubonero, era n'okuddamu okw'enjawulo kukkirizibwa bulungi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Bwa bwereere, era nneetaaga okwewandiisa?",
+        "a": "Yee, bwa bwereere, era tewali akaawunti, kwewandiisa wadde okuteekamu pulogulaamu. Bukolera bulungi mu mukutu gwa yintaneeti ku ssimu, tabuleeti oba kompyuta."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Okunoonya ebigambo mu nnukuta ennene",
+    "seoTitle": "Okunoonya Ebigambo mu Nnukuta Ennene ku lw'Abalina Obulwadde bw'Okwerabira, Ebikubibwa ku Lupapula",
+    "h1": "Okunoonya Ebigambo mu Nnukuta Ennene",
+    "description": "Omuzannyo ogw'obwereere ogw'okunoonya ebigambo mu nnukuta ennene ku lw'abakadde n'abantu abalina obulwadde obw'okwerabira. Ebigambo bitono, ennukuta nnene, era bisimbiddwa oba byebise byokka. Zannyira ku yintaneeti oba gukube ku lupapula.",
+    "short": "Ennukuta nnene, ebigambo bitono, bisimbiddwa oba byebise byokka. Gukube ne ku lupapula.",
+    "players": "Omuntu 1 oba 2",
+    "intro": "Akaboozi katono akalimu ennukuta ennene n'ebigambo bitonotono, byonna nga bisomebwa bwebise oba bisimbiddwa. Koona ku nnukuta y'ekigambo ey'olubereberye, oluvannyuma koona ku nnukuta yaakyo esembayo. Mwagala lupapula? Kuba omuzannyo omupya ku lupapula n'okukoona kumwe kwokka.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Londa omutwe gw'ebigambo n'obunene bw'akaboozi.",
+      "Kebera olukalala lw'ebigambo. Ebigambo bisomebwa bwebise (okuva ku kkono okudda ku ddyo) oba bisimbiddwa (okuva waggulu okudda wansi).",
+      "Koona ku nnukuta y'ekigambo ey'olubereberye, oluvannyuma koona ku nnukuta yaakyo esembayo.",
+      "Ekigambo ekizuuliddwa kitangaazibwa era ne kisalibwako ku lukalala.",
+      "Koona ku \"Kuba omuzannyo guno\" okuguzannyira ku lupapula n'ekkalaamu eya ppeensulo oba ekkalaamu ey'ekiraala."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Songa ku kigambo ku lukalala munoonyeze wamu ennukuta yaakyo ey'olubereberye.",
+      "Ku lupapula, ekkalaamu ey'ekiraala (highlighter) yanguwa okukwata okusinga ppeensulo.",
+      "Munyumye ku bigambo ebikwatagana n'omutwe ogwo. Ebigambo by'ebibala bikutwala mu ngeri ey'obutonde mu bijjukizo by'okunoga, okufumba oba okugenda mu katale."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Waliwo essawa ebala ebiseera oba obubonero?",
+        "a": "Nedda. Tewali ssaawa ebala biseera, bubonero, kubala mirundi gigendeddwamu wadde okuwangulwa. Muyinza okuyimirira akaseera konna, era n'okukoma wakati ngeri nnungi nnyo ey'okumalirizaamu."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Nnyinza okukuba omuzannyo guno gw'ebigambo ku lupapula?",
+        "a": "Yee. Koona ku \"Kuba omuzannyo guno\" okukuba akaboozi kano mu nnukuta ennene, ng'olukalala lw'ebigambo luli wansi waako. Buli muzannyo omupya guba gwa njawulo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Gwa bwereere, era nneetaaga okwewandiisa?",
+        "a": "Yee, gwa bwereere, era tewali akaawunti, kwewandiisa wadde okuteekamu pulogulaamu. Gukolera bulungi mu mukutu gwa yintaneeti ku ssimu, tabuleeti oba kompyuta."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Empapula z'okusiiga langi",
+    "seoTitle": "Empapula z'Okusiiga Langi ez'Abakulu Abalina Obulwadde bw'Okwerabira (Za Bwereere)",
+    "h1": "Empapula z'Okusiiga Langi",
+    "description": "Empapula z'okusiiga langi ennyangu ez'abakulu ezirimu ebitundu ebinene: koona ku langi, oluvannyuma koona ku kifaananyi. Tewali kutaataaganya, tewali langi nsobi, era buli lupapula luyinza okukubibwa ku lupapula lwa bwereere.",
+    "short": "Koona ku langi, oluvannyuma koona ku kitundu ky'ekifaananyi. Kuba n'empapula ku lupapula.",
+    "players": "Omuntu 1 oba 2",
+    "intro": "Empapula eziriko ebifaananyi ebinene era ebyangu: ekimuli mu nsiimbi, ennyumba, ekikopo ky'ecaayi, ekiwojjolo n'eryato. Koona ku langi, oluvannyuma koona ku kitundu ky'ekifaananyi okukisiigamu langi. Tewali langi nsobi.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Londa olupapula.",
+      "Koona ku langi. Buli langi eriko erinnya lyayo erirowandiikiddwako.",
+      "Koona ku kitundu ky'ekifaananyi okukisiigamu langi eyo.",
+      "Oyinza okukikyusa akaseera konna ng'osiigamu langi endala.",
+      "Koona ku \"Kuba olupapula luno\" ofune olupapula olwereere lw'oyinza okusiiga n'ekkalaamu oba obuti bwa langi."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Muteerewo langi bbiri zokka z'asobola okulondako mu kifo ky'okumuwa zonna omulundi gumu singa okulonda kuba nga kumukaluubirira.",
+      "Emiti gya kakkobe n'enjuba eya bbulu byonna bikkirizibwa. Ekikulu kwe kunyumirwa langi, si kutuukiriza butuufu bwabyo.",
+      "Empapula ezikubiddwa zikola bulungi n'ekkalaamu ez'ebiraala ennene oba obuti bwa langi (crayons), kubanga byangu okukwata mu ngalo."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Waliwo essawa ebala ebiseera oba obubonero?",
+        "a": "Nedda. Tewali ssaawa ebala biseera, bubonero, kubala mirundi gigendeddwamu wadde okuwangulwa. Muyinza okuyimirira akaseera konna, era n'okukoma wakati ngeri nnungi nnyo ey'okumalirizaamu."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Empapula zino ziringa ez'abaana abato ennyo?",
+        "a": "Twayiiya ebintu ebikkakkamu era ebyangu mu kifo ky'ebifaananyi bya katuni, n'olwekyo empapula zino zisaanira abakulu. Ebifaananyi ebinene byanguya okusiiga awatali kubifuula bya kito."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Za bwereere, era nneetaaga okwewandiisa?",
+        "a": "Yee, za bwereere, era tewali akaawunti, kwewandiisa wadde okuteekamu pulogulaamu. Zikolera bulungi mu mukutu gwa yintaneeti ku ssimu, tabuleeti oba kompyuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kaada z'emboozi",
+    "seoTitle": "Ebitandika Emboozi ku lw'Abalina Obulwadde bw'Okwerabira: Kaada ez'Ebifaananyi",
+    "h1": "Kaada z'Emboozi",
+    "description": "Kaada eziriko ebifaananyi ezitandika emboozi mu ngeri ey'ekisa eri abantu abalina obulwadde obw'okwerabira: tewali kubuuza bibuuzo nga kigezo, tewali kuddamu kutuufu kwokka. Kozesa ku ssikirini oba kuba omugogo gwonna ku lupapula.",
+    "short": "Kaada ez'ebifaananyi eziriko ebibuuzo ebyangu era eby'ekisa. Tewali kubuuza kigezo.",
+    "players": "Abantu 2 oba ekibinja",
+    "intro": "Buli kaada egatta ekifaananyi ekimanyiddwa obulungi n'omukisa omwangu ogw'okunyumya, gamba nga \"Mbeera ki ey'obudde gy'osinga okwagala?\" Tewali kuddamu kutuufu kwokka era tewali kyetaagisa kujjukirwa. Londa omutwe gw'emboozi oba zitabulatabule zonna.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Londa omutwe gw'emboozi, oba leka ku \"Kaada zonna\".",
+      "Soma ekibuuzo mu ddoboozi eriwulikika mutunuulire ekifaananyi mwembi.",
+      "Wuliriza, gabanako ky'olowooza naawe, era muleke emboozi etambule bulungi.",
+      "Koona ku \"Kaada eddako\" nga mwetegekedde, oba musigale ku kaada emu ebbanga lyonna lye mwagala.",
+      "Koona ku \"Kuba kaada zonna\" osobole okusala kaada ez'olupapula."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Ddamu n'ekibuuzo ekyo naawe. Kino kireetera emboozi okuwulika nga lussa lwa bantu abanyumya, si kubuuzibwa bibuuzo.",
+      "Goberera emboozi, si butuufu bwa bintu. Ebintu bwe bikyuka mu nnyumya, tewali buzibu.",
+      "Singa kaada ekwata ku kintu ekinakuwaza, tegeera enneewulira eyo era oluvannyuma mukyusizeemu mpola mugende ku kaada endala."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Lwaki tewali bibuuzo bigamba nti \"Ojjukira...?\"",
+        "a": "Ebibuuzo ebigezesa okujjukira biyinza okuwulikika ng'ekigezo era ne biviirako okuswala. Okuyita abantu okunyumya nga \"Mbulirako ebikwata ku...\" kukkiriza buli muntu okwenyigiramu, kikkakkana kye yandiba ng'ajjukira."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Nnyinza okukuba kaada zino ku lupapula?",
+        "a": "Yee. \"Kuba kaada zonna\" ekuba omugogo gwonna mu nnukuta ennene, kaada eziwerako ku buli lupapula, nga zeetegekedde okusalwako."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Za bwereere, era nneetaaga okwewandiisa?",
+        "a": "Yee, ya bwereere, era tewali kwetaagisa kuggulawo akawunti, kwewandiisa wadde okukoppolola pulogulaamu. Ekola butereevu mu mukutu gwa yintaneeti ku ssimu, taabuleti oba kompyuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Ebifaananyi eby'emigogo",
+    "seoTitle": "Kola omuzannyo gw'okugatta ebifaananyi by'amaka",
+    "h1": "Ebifaananyi eby'emigogo: Gatta ebifaananyi byammwe byennyini",
+    "description": "Fuula ebifaananyi by'amaka gammwe omuzannyo omwangu ogw'okugattagana. Londa ebifaananyi 2 okutuuka ku 6 ku kyuma kyo; bisigala mu mukutu gwo ogwa yintaneeti era tebitikkibwa ku mutimbagano.",
+    "short": "Londa ebifaananyi byo obigatte wamu. Tewali kitikkibwa ku mutimbagano.",
+    "players": "Abantu 2, nga batudde wamu",
+    "intro": "Londa ebifaananyi bibiri okutuuka ku mukaaga okuva ku ssimu, taabuleti oba kompyuta yo, bifuuke omuzannyo ogw'okugatta ebifaananyi ebinene era ebirabika obulungi. Ebifaananyi birabikira wano wokka ku lupapula luno. Tebitikkibwa, tebiterekebwa era tebigabanibwa, era bibulawo olumala okuggalawo olupapula.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Nyiga ku \"Londa ebifaananyi\" olonde ebifaananyi bibiri okutuuka ku mukaaga.",
+      "Buli kifaananyi kirabika emirundi ebiri. Nyiga ku kimu, oluvannyuma onyige ku kinnaakyo ekikifaanana.",
+      "Munyumyeeko ku buli kifaananyi nga mukizudde.",
+      "Bwe mumala, ggalawo olupapula oba nyiga ku \"Ggyawo ebifaananyi\". Tewali kiterekebwa."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Londa ebifaananyi ebirabika obulungi eby'ebintu ebisanyusa era ebimanyiddwa obulungi: ebisolo by'omuka, olusuku, ekifo ekyagalwa ennyo, oba olunaku olw'embaga.",
+      "Ebifaananyi by'ebifo n'ebintu biviiramu okuba ebyangu okusinga eby'obwenyi bw'abantu, era biteekawo eddembe awatali kuwalirizibwa kuteebereza mannya ga bantu.",
+      "Leka ebifaananyi by'abantu abaafa singa birowoozebwa nti biyinza okuleeta ennaku ey'amangwago, okuggyako nga mukakasa nti bireeta okubudaabudibwa."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ebifaananyi byange bitikkibwa awalala wonna ku mutimbagano?",
+        "a": "Nedda. Olupapula lusoma ebifaananyi by'olonze butereevu mu mukutu gwo gwa yintaneeti ne lubiraga ku sikuliini yo. Tebisindikibwa gye tuli wadde eri omuntu omulala yenna, era bibulawo ssinga oggalawo oba n'oddilamu okusoma olupapula."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Waliwo ekipimo ky'ekiseera oba obubonero?",
+        "a": "Nedda. Tewali ssaawa, bubonero, kubala mirundi wadde okuwangulwa. Muyinza okuyimirira ekiseera kyonna kye mwagadde, era n'okukoma mu makkati kukkirizibwa bulungi nnyo."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Nnyinza okutereka omuzannyo guno gunkolere omulundi oguliddako?",
+        "a": "Nedda mu mukutu gwa yintaneeti, kubanga kyategekebwa kityo okukuuma ebyama byo nga tewali kiterekebwa. Pulogulaamu eya bwereere eya Golden Moments ey'ebikozesebwa ebya iPhone ne iPad eyinza okutereka kkopi z'ebifaananyi ebirondeddwa ku kyuma kyo."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo y'ebifaananyi",
+    "seoTitle": "Bingo y'ebifaananyi ey'abakadde abalina obuzibu bw'okwerabira: Eyinza okukubibwa ku lupapula",
+    "h1": "Bingo y'ebifaananyi ey'ebibiina",
+    "description": "Bingo y'ebifaananyi eya bwereere eyinza okukubibwa ku mpapula ey'abakadde n'abantu abalina obuzibu bw'okwerabira, erina ekiraga ebifaananyi ekinene ku sikuliini. Ebifaananyi binene nga biriko ebigambo, obusonda 9 oba 16, tewali kusoma kwetaagisa.",
+    "short": "Kkaadi za bingo ez'ebifaananyi ezikubibwa ku lupapula n'ekiraga ebifaananyi ku sikuliini ennene eby'ebibiina.",
+    "players": "Ekibiina ky'abantu 2 okutuuka ku 30",
+    "intro": "Bingo ey'abulijjo ekozesa ebifaananyi mu kifo ky'ennamba, bwe kityo tewali yetaaga kusoma nnyukuta ntono. Kuba kkaadi ezitali za ngeri emu ku lupapula, oluvannyuma kozesa ekiraga ebifaananyi ku sikuliini okulaga buli kifaananyi mu bunene bwakyo ku ttivi, laaputoopu oba taabuleti.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Londa obusonda 9 oba 16 ku buli kkaadi n'omuwendo gw'abazannyi.",
+      "Nyiga ku \"Kuba kkaadi ku lupapula\". Buli kkaadi ya njawulo.",
+      "Ggulawo ekiraga ebifaananyi ku sikuliini ennene. Nyiga ku \"Ekifaananyi ekiddako\" okulaga buli kifaananyi n'erinnya lyakyo.",
+      "Abazannyi babikkako ku kifaananyi ekyenkana ku kkaadi yaabwe nga bakozesa ekinusu, eppeesa oba akabonero konna.",
+      "Buli azuula olunyiriri olujjuvu, oba kkaadi yonna, akubirwa empi. Tewali awangulwa mu nteekateeka eno: mugende mu maaso n'okuzannya okutuusa nga buli omu afunye olunyiriri."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Kozesa obubonero obunene nga bukkapu oba ebisaanikira by'eccupa. Amapeesa amatono gayinza okuzibuwalira abamu okukwata.",
+      "Yatuuma ekifaananyi era oyogereko ekintu ekikwata ku kyo: \"Eryato ery'empewo. Ani eyali atambuliddeko mu lyato?\"",
+      "Tuuza abantu abalina obuzibu mu kulaba okumpi ennyo ne sikuliini, era gatta abayambi n'abazannyi abeetaaga obuyambi.",
+      "Obusonda omwenda bumala bulungi mu bibiina ebisinga obungi. Ekiseera ky'omuzannyo kibeere wakati w'eddakiika 20 ne 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Nnyinza ntya okukulembera bingo y'ebifaananyi mu maka g'abakadde n'abalabirirwa?",
+        "a": "Kuba kkaadi emu ku buli muzannyi ku lupapula, teeka ekiraga ebifaananyi ku sikuliini esinga obunene gye mulina, era oyatuume ebifaananyi mpola mpola, ng'oyita buli kimu erinnya lyakyo. Muzannye okutuusa nga buli omu afunye olunyiriri, waleme kubaawo alemwa oba asigalira emmabega."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Kikubibwa ku lupapula ku bwereere?",
+        "a": "Yee. Kuba kkaadi zonna ze mwetaaga ku lupapula, emirundi gyonna gye mwagadde, ku lwammwe oba ng'ekibiina."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Abantu bayinza okuzannya nga tebasaanye kusoma?",
+        "a": "Yee. Buli kasonda kaliko ekifaananyi ekinene, ng'erinnya lyakyo liri wansi waakyo eri abo abaagala ebigambo."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Okwissa mu mirembe",
+    "seoTitle": "Akafo k'okuwummulamu n'okwissa mu mirembe eri abakadde n'ababalabirira",
+    "h1": "Okuwummulamu n'okwissa mu mirembe",
+    "description": "Okuwummulamu okw'akaboozi akasaale mu kussa: enkulungo empolempole egejja n'ekendeeva okumala emikka mukaaga. Mugitandika mmwe, era muyinza okugiyimiriza ekiseera kyonna.",
+    "short": "Enkulungo empolempole gye mwissizaako. Gitandike era ogiyimirize nga bw'oyagala.",
+    "players": "Omuntu 1 oba 2",
+    "intro": "Oluusi ekintu ekisinga obulungi kwe kuba n'akaseera ak'okuwummulamu mu kasirise. Nyiga ku \"Tandika\", oluvannyuma osse omukka ng'enkulungo eno egejja era ogufulumye ng'ekendeeva. Londa emisinde empola oba amangwago. Guno si musawo wadde obujjanjabi, kaseera ka ddembe na kukkakkana ka kugabanira wamu.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Mutuule obulungi nga mutudde wamu.",
+      "Mwerondere emisinde: empola oba ey'akaboozi akasaale.",
+      "Nyiga ku \"Tandika\". Ssa omukka munda ng'enkulungo egejja, era ogufulumye ng'ekendeeva.",
+      "Eyimirira yokka oluvannyuma lw'emikka mukaaga, oba nyiga ku \"Yimiriza\" ekiseera kyonna kye mwagadde."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Mukwatagane mu ngalo oba teeka omukono gwo ku mukono gw'omuntu gw'olabirira singa aba akiwulira bulungi.",
+      "Temukaka muntu n'akamu. Singa baagala kutunulako butunuzi, ekyo kiba kirungi nnyo.",
+      "Singa omuntu aba n'obuzibu mu kussa, assenga bulijjo era atunuulire obutunuulizi enkulungo eno. Buuza omusawo ku nsonga zonna ezikwata ku kussa."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Kuno kutendekebwa kwa kussa okw'ekisawo?",
+        "a": "Nedda. Kaseera kangu era ak'okwerondera ak'okukkakkana n'okubeerako wamu. Si bujjanjabi bwa kweraliikirira wadde obulwadde obulala bwonna. Tegeezezzaako omusawo ku nsonga zonna ez'obulamu."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Enkulungo eno etambula nga nze ssi gitandise?",
+        "a": "Nedda. Tewali kintu kyonna ekitambula okutuusa lw’onyiga Okutandika, era kiyimirira oluvannyuma lw’okussa emirundi mukaaga oba lw’onyiga Okulekera awo. Singa ekyuma kyo kitegekeddwa okukendeeza ku ntambula, ebigambo bikyuka nga enkulungo teyeeyongera bunene."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kya bwereere, era nnina okwewandiisa?",
+        "a": "Yee, kya bwereere, era tekyetaagisa akawunti, kwewandiisa wadde okuwanula. Kikola mu mutimbagano gw’omu ssimu, tabuleeti oba kompyuta."
       }
     ]
   }

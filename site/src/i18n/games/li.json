@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Plaetjespaore",
+    "seoTitle": "Zeukspilke veur luuj mit dementie: Plaetjespaore",
+    "h1": "Plaetjespaore: e röstig zeukspilke",
+    "description": "E gratis, röstig zeukspilke veur luuj mit dementie. Groate plaetjes blieve zichbaar, d'r is geine tiedmaeter of score, en geer keest tösje de 4 en 12 tegelkes.",
+    "short": "Zeuk de twie plaetjes die 'tzelvde zeen. De plaetjes kinne gewoan zichbaar blieve.",
+    "players": "1 of 2 luuj, naeve-n-ein",
+    "intro": "Tik op e plaetje en tik den op 't plaetje wat d'r biej heurt. De plaetjes blieve sjtandaard zichbaar, dus d'r hoof niks ónthaje te waere. Es twie plaetjes biej-ein heure, kriege ze e gouwe rendje en e vinkske.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Kees wieväöl tegelkes geer wilt gebroeke. Veer tegelkes is e röstig begin.",
+      "Tik op e willekäörig plaetje. 't Kriet e gouwe rendje.",
+      "Tik op 't plaetje wat 'tzelvde oetzüt. 't Paorke blief biej-ein mit e vinkske.",
+      "Es de twie plaetjes angesj zeen, gebeurt d'r niks ergs. Tik gerös opnuuj wen geer d'r klaor veur zeet.",
+      "Zèt „Verbórge plaetjes“ allein aan es geer allebei van de klassieke versie mit ómgedriejde plaetjes haot."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Benteum de plaetjes same helop en klets d'r euver: „E road teeköpske. Drinkt geer ouch milk in de thee?“",
+      "Laot de persoan veur wae geer zörg zelf tikke, ouch es 't aeve doert. Wiez lever get aan in plaats van veur daegeine te tikke.",
+      "Blief bie veer tegelkes zolang es det prettig veult. Meer tegelkes is 'n keus, noats e niveau wat gehaold mót waere.",
+      "Sjei oet zolang 't nog leuk is. Ein spilke is al 'n complete activiteit."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Is d'r 'ne tiedmaeter of 'ne score?",
+        "a": "Nae. D'r is gein klok, score, stappenteller of verlere. Geer kint op eder memènt ophaje, en halverwaeges stoppe is ouch helemaol good."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Waeróm blieve de plaetjes nao baove ligke?",
+        "a": "Door de plaetjes zichbaar te laote, geit 't spilke euver kieke en zeuke in plaats van ónthaje. Veur väöl luuj veult dit röstiger. Es geer wilt, kint geer mit éin tik euversjakele nao verbórge plaetjes."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Is 't gratis, en mót ich mich aanmelde?",
+        "a": "Jao, 't is gratis, en d'r is gein account, aanmelding of download nuuedig. 't Wèrk gewoan in de webbrowser op 'ne telefoon, tablet of computer."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Kinne veer oos eige familiefoto's gebroeke?",
+        "a": "Jao. Probeert Fotopaore ens, wo geer foto's van eur eige apparaat kint keze. De foto's blieve in eur browser en waere neet geüpload."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Zeuk 'tzelvde",
+    "seoTitle": "Zeuk 'tzelvde plaetje: Einvawwig spilke veur luuj mit dementie",
+    "h1": "Zeuk 'tzelvde plaetje",
+    "description": "Ein plaetje baovenaan, twie toet veer plaetjes d'rungert. Tik op 't plaetje wat 'tzelvde is. E röstig, gratis plaetjesspilke veur luuj mit dementie, zónger tiedmaeter.",
+    "short": "Kiek nao 't plaetje baovenaan en tik óngeraan op 'tzelvde plaetje.",
+    "players": "1 of 2 luuj",
+    "intro": "E plaetje sjteit baovenaan 't sjerm. D'rungert sjtaon twie, drie of veer plaetjes. Tik op degene dae 'tzelvde is. 't Is sjteeds éin einvawwige keus tegeliek, mit alle ruumde veur e gesprekske.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Kees oet twie, drie of veer plaetjes. Twie is 't gemekkelikste.",
+      "Kiek same nao 't plaetje baovenaan.",
+      "Tik óngeraan op 'tzelvde plaetje. 't Kriet e vinkske en e paar werme weurd.",
+      "Es d'r op 'n anger plaetje weurt getik, neump 't spilke gewoan wat 't is en wach 't aeve. Numpt gerös de tied.",
+      "Tik op „Volgend plaetje“ wen geer toe zeet aan 'n anger."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Praot euver eder plaetje veurdet geer keest: kleure, vorme of wo geer 't teugezoud kinne kómme.",
+      "Twie keuzes zeen neet „te gemekkelik“. 't Doel is e fijn memènt, gein oetdaging.",
+      "Es 't tikke lestig geit, kint de persoan ouch wieze en kint geer in de plaats daovan tikke."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Is d'r 'ne tiedmaeter of 'ne score?",
+        "a": "Nae. D'r is gein klok, score, stappenteller of verlere. Geer kint op eder memènt ophaje, en halverwaeges stoppe is ouch helemaol good."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Wat gebeurt d'r es 't verkierde plaetje weurt getik?",
+        "a": "Niks verwaelends. D'r kump geine zoemer, road kruus of trilling. 't Spilke neump 't plaetje wat getik is en wach op de volgende tik."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Is 't gratis, en mót ich mich aanmelde?",
+        "a": "Jao, 't is gratis, en d'r is gein account, aanmelding of download nuuedig. 't Wèrk gewoan in de webbrowser op 'ne telefoon, tablet of computer."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Sjeem zeuke",
+    "seoTitle": "Sjeemspilke veur luuj mit dementie: Gratis online",
+    "h1": "Sjeemspilke: e röstig plaetjesspilke",
+    "description": "'n Dónkere sjeem baovenaan, twie toet veer plaetjes d'rungert. Tik op 't plaetje wat biej de sjeem heurt. E gratis, röstig sjeemspilke veur luuj mit dementie, zónger tiedmaeter.",
+    "short": "Kiek nao de sjeem en tik op 't plaetje wat d'r biej heurt.",
+    "players": "1 of 2 luuj",
+    "intro": "Sjeeme zeuke is 'n bekinde activiteit oet beukskes en werkblajer, hie mit groate plaetjes en zónger te hoove printe. 'n Zachte sjeem sjteit baovenaan 't sjerm en twie, drie of veer plaetjes sjtaon d'rungert. Tik op 't plaetje wat de sjeem mak. Vorme wie 'ne fiets, 'ne paraplu of e teeköpske gaeve ouch geliek get óm euver te kletse.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Kees oet twie, drie of veer plaetjes. Twie is 't gemekkelikste.",
+      "Kiek same nao de sjeem. Welke vorm is 't? Is 't hoag of róndj?",
+      "Tik op 't plaetje wat de sjeem mak. De naam versjient ónger de sjeem.",
+      "Es d'r op 'n anger plaetje weurt getik, neump 't spilke gewoan wat 't is en wach 't aeve. Numpt gerös de tied.",
+      "Tik op „Volgende sjeem“ wen geer toe zeet aan 'n anger."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Volg de lien van de sjeem mit 'ne vinger en praot euver de vorm.",
+      "Es sjeeme vandaag lestig veule, sjakelt den euver nao Zeuk 'tzelvde, wo de plaetjes geliek zeen.",
+      "Praot euver 't plaetje wen 't gevonje is: „Zoe'ne paraplu haje veer vreuger ouch.“"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Is d'r 'ne tiedmaeter of 'ne score?",
+        "a": "Nae. D'r is gein klok, score, stappenteller of verlere. Geer kint op eder memènt ophaje, en halverwaeges stoppe is ouch helemaol good."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Is sjeemkes passe good veur luuj mit dementie?",
+        "a": "'t Kan veur sómmige luuj 'n prettige, einvoudige bezigheid zeen, zeker in de ieërsjte fasen. Vörme zeen döks gemekkeliker te herkinne es wäörd. 't Is bedoeld veur plezeer en 'ne gezellige kal, neet es 'nen tes, en 't behanjelt of vertraog dementie neet. Es 't veur frustratie zörg, perbeer dan Ving 't zelfde of bekiek gewoen same pleetjes."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Wat gebäört d'r es op 't verkieërde pleetje weurt getik?",
+        "a": "Niks vervaelends. D'r kump geine zoemer, roead kruuts of getril. 't Sjpel neump de naam van 't pleetje wo-op getik is en wach röstig op de volgende tik."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Is 't gratis, en mót ich mich aanmelle?",
+        "a": "Jao, 't is gratis, en geer hoof gein account aan te make, uch aan te melle of get te downloade. 't Wèrk gewoen in de webbrowser op 'ne telefoon, tablet of computer."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Same sortere",
+    "seoTitle": "Sorteersjpel veur luuj mit dementie: Same sortere",
+    "h1": "Same sortere: 'n activiteit mit pleetjes",
+    "description": "Tik op 'n pleetje en den op de koer wo 't biejhuuërt: keuke of tuin, fruit of bieëster. 'n Röstige, gratis sorteeractiviteit veur luuj mit dementie.",
+    "short": "Lègk eder pleetje in de gooie koer: keuke of tuin, en nog väöl mieë.",
+    "players": "1 of 2 persone",
+    "intro": "Sortere is 'n vertroewde, fijne bezigheid oet 't dageliks laeve, zjust wie de boadschappe opbringe of kómme biejèn zeuke. Tik op 'n pleetje en den op de koer wo 't thoeshuurt. D'r is gein haos en gein verkieërde keuze.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Kees 'n thema: keuke en tuin, fruit en bieëster, of thoes en op reis.",
+      "Tik op 'n pleetje. 't Kriet 'ne gouwe randj.",
+      "Tik op de koer wo 't biejhuuërt. 't Pleetje geit nao die koer.",
+      "Huuërt 't in de anger koer, dan zaet 't sjpel det vrundjelik en wach 't aaf.",
+      "Es alle pleetjes gesorteerd zeen, bekiek de köer den gezellig same."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "In 't echt zeen d'r döks gein verkieërde antwäörd. Es emes vindj det 'ne geter in de keuke huuërt, vraog gerös woróm. Geer kriet dao döks e sjoan verhaol van.",
+      "Gebroek de pleetjes veur e gesprek: „Wat houwt geer vreuger in de tuin sjtaon?”",
+      "Echte dinger sortere, wie laepele en versjette of knuipkes op kleur, is ouch 'n prachtige activiteit los van 't sjerm."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Is d'r 'ne wekker of 'n puntetelling?",
+        "a": "Nae. D'r is geine klok, gein score, geine zatteller en verleze besjteit neet. Geer kint op eder memènt sjtoppe, en halverwaeges oetsjeiie is ouch al gans prima."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Woróm sortere?",
+        "a": "Väöl luuj vènje sortere fien ómdet 't veult wie nuttig, vertroewd werk. Ouch kint geer óngertössen hieël gemekkelik same euver de pleetjes kalle."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Is 't gratis, en mót ich mich aanmelle?",
+        "a": "Jao, 't is gratis, en geer hoof gein account aan te make, uch aan te melle of get te downloade. 't Wèrk gewoen in de webbrowser op 'ne telefoon, tablet of computer."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Pleetjespuzzel",
+    "seoTitle": "Einvoudige legpuzzel veur luuj mit dementie: 4 of 9 sjtökskes",
+    "h1": "Pleetjespuzzel: 'nen einvoudige legpuzzel",
+    "description": "'nen Einvoudige online legpuzzel veur luuj mit dementie: 4 of 9 groate sjtökskes, 't ganse pleetje blief altied te zeen, en geer tikt op twieë sjtökskes óm ze van plaats te wissele.",
+    "short": "Tik op twieë sjtökskes óm ze te wissele wies 't pleetje compleet is.",
+    "players": "1 of 2 persone",
+    "intro": "'n Vrundjelik pleetje is verdeild in veer of neuge groate sjtökskes en dooreen gehaold. 't Ganse pleetje blief baove-aan te zeen es veurbeeld. Tik op 't ein sjtökske en den op 't anger, en ze wissele van plaats. Sjleipe is neet nuuëdig.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Kees 'n aafbeilding en 4 of 9 sjtökskes. Veer is 'ne röstige sjtart.",
+      "Bekiek 't ganse pleetje aan de baovekant.",
+      "Tik op 'n sjtökske en den op de plek wo 't mót kómme. De twieë sjtökskes wissele van plaats.",
+      "Sjtökskes op de gooie plek kriege e klein vènkske.",
+      "Es 't pleetje compleet is, geniet d'r same van en kees gerös 'n nuuj."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Op twieë sjtökskes tikke óm ze te wissele is veur väöl luuj väöl gemekkeliker es sjleipe.",
+      "Kal euver 't pleetje wiel 't vörm kriet: „Dao is 't roeaj daak al.”",
+      "Echte houte legpuzzels mit 12 wies 24 groate sjtökskes zeen aan toafel ouch 'n biezunjer gezellige bezigheid."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Is d'r 'ne wekker of 'n puntetelling?",
+        "a": "Nae. D'r is geine klok, gein score, geine zatteller en verleze besjteit neet. Geer kint op eder memènt sjtoppe, en halverwaeges oetsjeiie is ouch al gans prima."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Mót ich de sjtökskes sjleipe?",
+        "a": "Nae. Tik op 't ein sjtökske en den op 't anger, en ze wissele van plaats. Dit is väöl gemekkeliker biej 'n trillende handj of op e kleiner sjerm."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Is 't gratis, en mót ich mich aanmelle?",
+        "a": "Jao, 't is gratis, en geer hoof gein account aan te make, uch aan te melle of get te downloade. 't Wèrk gewoen in de webbrowser op 'ne telefoon, tablet of computer."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Maak 't sjpraekwaord aaf",
+    "seoTitle": "Maak 't sjpraekwaord aaf: Sjpraekwäördsjpel veur awwere",
+    "h1": "Maak 't sjpraekwaord aaf",
+    "description": "Bekènde sjpraekwäörd wo 't lètste waord van óntbrèk, wie „Wie 't klökske thoes tik, tik 't ___”. Tik op 'n keuze of toan 't inj, en kal d'r gezellig euver door.",
+    "short": "Völt same bekènde sjpraekwäörd aan en kal d'r gezellig euver door.",
+    "players": "1, 2 of 'n ganse groep",
+    "intro": "Aw sjpraekwäörd kint me döks e laeve lank oet de kop. Eder keertsje tuint e bekènd sjpraekwaord wo 't lètste waord van óntbrèk, drie keuzes en 'ne knoep „Toan 't inj”. Nao de oetkóms nuuëdigh 'n röstige vraog oet tót e fien gesprek.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Laes 't sjpraekwaord gezellig hardop veur.",
+      "Tik op 't waord det 't aafmaak, of tik op „Toan 't inj”.",
+      "Laes 't ganse sjpraekwaord nog 'ns en kal d'r same euver door aan de handj van de vraog.",
+      "Tik op „Volgend sjpraekwaord” es geer zowied zeet."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Laes röstig en las 'n klein pauze in veur 't lètste waord. Döks weurt 't al gezag veurdet geer oetgesjpraoke zeet.",
+      "Es emes 'n anger inj guf, geniet dao ouch gerös van. Sómmige versies van sjpraekwäörd versjille per femilie of sjtreeke.",
+      "In 'n groep laest ein persoen veur en völt de res same 't inj aan."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Is d'r 'ne wekker of 'n puntetelling?",
+        "a": "Nae. D'r is geine klok, geine score, geine zattèller en verleze besjteit neet. Geer kint op eder memènt sjtoppe, en halverwaeges oetsjeie is ouch hiel good."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Wat es veer e anger waord keze?",
+        "a": "’t Sjpel leët ’t gewoene inj zeen en geit daonao wiejer nao e gesprekske. D'r is geine score, en e anger antjwaord is ouch prima."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Is ’t gratis, en mót ich mich aanmelde?",
+        "a": "Jao, ’t is gratis, en d'r is gein account, aanmeljing of download neudig. ’t Wirk gewoen in de webbrowser op ’ne tillefoon, tablet of computer."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Waordzeuker mit groate lètters",
+    "seoTitle": "Waordzeuker mit groate lètters veur luuj mit dementie, óm te printe",
+    "h1": "Waordzeuker mit groate lètters",
+    "description": "’Ne gratis waordzeuker mit groate lètters veur eawere en luuj mit dementie. Weinig wäörd, groate lètters, allein horizontaal en verticaal. Sjpel online of print oet.",
+    "short": "Groate lètters, e paar wäörd, allein horizontaal en verticaal. Ouch óm te printe.",
+    "players": "1 of 2 persone",
+    "intro": "E klein raster mit groate lètters en mer e paar wäörd, allein horizontaal of verticaal. Tik op de ieësjte lètter van e waord en den op de lètste. Lever op pepier? Print mit éin tik ’ne nuie puzzel.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Kees e thema en ’t formaat van ’t raster.",
+      "Kiek nao de waordlies. Wäörd sjtaon horizontaal (van links nao rechs) of verticaal (van baove nao biejje).",
+      "Tik op de ieësjte lètter van e waord en den op de lètste lètter.",
+      "E gevónje waord weurt gemarkeerd en doorgesjtreep op de lies.",
+      "Tik op \"Print deze puzzel\" óm op pepier te sjpele mit ’ne potlood of sjtift."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Wies e waord aan op de lies en zeuk same nao de ieësjte lètter.",
+      "Op pepier is ’ne markeersjtift dèks gemekkeliker vas te haje es ’ne potlood.",
+      "Praot euver de themawäörd. Wäörd euver fruit bringe vanzelf herinjeringe op euver plökke, bakke of de mert."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Is d'r ’ne timer of ’ne score?",
+        "a": "Nae. D'r is geine klok, geine score, geine zattèller en verleze besjteit neet. Geer kint op eder memènt sjtoppe, en halverwaeges oetsjeie is ouch hiel good."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Kan ich de waordzeuker printe?",
+        "a": "Jao. Tik op \"Print deze puzzel\" óm ’t raster in groate lètters aaf te drökke, mit de waordlies d'rónger. Eder nuie puzzel is weer angesj."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Is ’t gratis, en mót ich mich aanmelde?",
+        "a": "Jao, ’t is gratis, en d'r is gein account, aanmeljing of download neudig. ’t Wirk gewoen in de webbrowser op ’ne tillefoon, tablet of computer."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Kleurplate",
+    "seoTitle": "Kleurplate veur volwassene mit dementie (gratis)",
+    "h1": "Kleurplate",
+    "description": "Einvoudige kleurplate veur volwassene mit groate vlakter: tik op ’n kleur en den op de teikening. Gein knoeie, gein verkierde kleure, en eder plaat kan gratis waere aafgedrök.",
+    "short": "Tik op ’n kleur en den op e deil van de teikening. Ouch óm te printe.",
+    "players": "1 of 2 persone",
+    "intro": "Plate mit groate, einvoudige vorme: ’n bloom in ’ne pot, e hoes, ’n täötsjke thee, ’ne kapel en ’ne zeilboot. Tik op ’n kleur en den op e deil van de teikening óm ’t in te kleure. D'r zeen gein verkierde kleure.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Kees ’n plaat oet.",
+      "Tik op ’n kleur. Biej eder kleur sjteit de naam gesjreve.",
+      "Tik op e deil van de teikening óm ’t mit die kleur te völle.",
+      "Bedenk geer uch? Völ ’t gerös opnuits mit ’n anger kleur.",
+      "Tik op \"Print deze pagina\" veur ’n laege plaat óm te kleure mit potlode of sjtifte."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Bèj twieë kleure aan óm oet te keze es de ganse set te väöl veult.",
+      "Peurse buim en blauw zónne maoge gerös. ’t Geit óm ’t plezeer van kleure, neet óm wie ’t heurt.",
+      "Geprinte plate wirke good mit diekke sjtifte of waskriete, die gemekkeliker vas te haje zeen."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Is d'r ’ne timer of ’ne score?",
+        "a": "Nae. D'r is geine klok, geine score, geine zattèller en verleze besjteit neet. Geer kint op eder memènt sjtoppe, en halverwaeges oetsjeie is ouch hiel good."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Zeen dees plate neet te kènjerlik?",
+        "a": "V'r höbbe röstige, einvoudige dinger geteikend in plaats van sjtripfigure, zoe-det de plate passe biej volwassene. De groate vorme make ’t kleure gemekkelik zónger kènjerlik te waere."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Is ’t gratis, en mót ich mich aanmelde?",
+        "a": "Jao, ’t is gratis, en d'r is gein account, aanmeljing of download neudig. ’t Wirk gewoen in de webbrowser op ’ne tillefoon, tablet of computer."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Gesprekskaerte",
+    "seoTitle": "Gespreksstarters veur luuj mit dementie: plaetjeskaerte",
+    "h1": "Gesprekskaerte",
+    "description": "Plaetjeskaerte mit zachte gespreksstarters veur luuj mit dementie: gein euverheuring, gein gooj of foute antjwaorde. Gebroek ze op ’t sjerm of print de ganse set oet.",
+    "short": "Plaetjeskaerte mit aope, vrundjelike vraoge. Zónger te euverheure.",
+    "players": "2 persone of ’n gróp",
+    "intro": "Eder kaart combineert e herkinbaar plaetje mit ’n oetnuèdiging óm te vertèlle, wie: \"Wat veur waer haet geer ’t leefs?\" D'r zeen gein foute antjwaorde en me hoof niks te ónthaje. Kees e thema of sjöt ze allemaol doorein.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Kees e thema, of laot \"Alle kaarten\" sjtaon.",
+      "Laes de vraog helop veur en kiek same nao ’t plaetje.",
+      "Loester, deil ouch zelf e antjwaord, en laot ’t gesprek gerös dwalen.",
+      "Tik op \"Volgende kaart\" wen geer zowied zeet, of blief zolang biej ein kaart es geer wilt.",
+      "Tik op \"Print alle kaarten\" óm ’n pepiere set oet te knippe."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Gaef zelf ouch antjwaord op de vraog. Dan veult ’t wie e gesprek en neet wie ’n euverheuring.",
+      "Volg ’t verhaol, neet de feite. Es details angersj waere, is det gaer good.",
+      "Raak ’n kaart aan get verdreetigs? Erkèn ’t geveul en gaot röstig wiejer nao ’n anger kaart."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Waeróm zeen d'r gein \"Wit geer nog…?\"-vraoge?",
+        "a": "Vraoge die ’t geheuge teste kónne veule wie e examen en ónzeker make. Aope oetnuèdiginge wie \"Vertèl ins euver…\" zörge det ederein kan mètdoon, wat me zich ouch herinjert."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Kan ich de kaerte printe?",
+        "a": "Jao. Mit \"Print alle kaarten\" drök geer de ganse set aaf in groate lètters, e paar kaerte de pagina, klaor óm oet te knippe."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Is ’t gratis, en mót ich mich aanmelde?",
+        "a": "Jao, 't is gratis, en geer höb gein account, registratie of download nuëdeg. 't Wirk gewoen in de webbrowser op 'ne tillefoon, tablet of computer."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Fotopäörkes",
+    "seoTitle": "Maak 'n koppelspèl van femiliefoto's",
+    "h1": "Fotopäörkes: zeuk eur eige foto's biejein",
+    "description": "Maak van eur eige femiliefoto's e röstig koppelspèl. Kees 2 toet 6 foto's op eur apparaat; ze blieve in eur browser en waere noets geüpload.",
+    "short": "Kees eur eige foto's en zeuk ze biejein. D'r weurt nieks geüpload.",
+    "players": "2 minse, naevenein",
+    "intro": "Kees twee toet zès foto's vanop eure tillefoon, tablet of computer, en ze waere e koppelspèl mit groeate, dudelike plaetjes. De foto's zeet geer allein op dees pagina. Ze waere neet geüpload, opgesjlage of gedeild, en ze verdwiene es geer de pagina sjloet.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tik op \"Kees foto's\" en kees twee toet zès foto's oet.",
+      "Edere foto kump twee kier veur. Tik op de eine, en dan op 't päörke.",
+      "Kald röstig euver edere foto es geer 'm vindj.",
+      "Es geer klaor ziet, sjloet geer de pagina of tikt geer op \"Foto's wisse\". D'r weurt nieks bewaard."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Kees dudelike foto's van fiene, vertroewde dinger: e hoesdeer, 'nen haof, 'n geleefde plek of 'nen troowdaag.",
+      "Plaetjes van plekke en dinger kónne gemekkeliker zeen es gezichte, en ze veurkómme drang óm name te mótte herkinne.",
+      "Laot foto's van minse die euverleje zeen eweg es die plots verdreet kónne oprope, behalve es geer weit det ze juus treus beeje."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Waere mien foto's erges geüpload?",
+        "a": "Nein. De pagina leus de foto's die geer kees rechstreeks in eur browser en leet ze op 't sjerm zeen. Ze waere neet nao ós of nao emes angesj gesjik, en ze zeen eweg es geer de pagina sjloet of vernujt."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Is d'r 'ne tiedmaeter of 'n score?",
+        "a": "Nein. D'r is geine klok, gein score, geine zattèller en verleze besteit neet. Geer kint op eder memènt sjtoppe, en halverwaege ophaje is ouch hielemaol good."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Kan ich 't spèl opsjlaon veur de volgende kier?",
+        "a": "Nein, bewus neet in de browser, zoadat d'r gein privégaeves waere bewaard. De gratis Golden Moments-app veur iPhone en iPad kan gekoze kopieë van foto's waal op eur apparaat bewaare."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Plaetjesbingo",
+    "seoTitle": "Plaetjesbingo veur seniore mit dementie: óm aaf te drökke",
+    "h1": "Plaetjesbingo veur gróppe",
+    "description": "Gratis aaf te drökke plaetjesbingo veur de zörg en senioregróppe, mit 'ne groeate bingoroper op 't sjerm. Groeate aafbeildinge mit weurd, 9 of 16 vakjes, laeze is neet nuëdeg.",
+    "short": "Aaf te drökke plaetjesbingokaarte en 'ne bingoroper op e groeat sjerm veur gróppe.",
+    "players": "'n Gróp van 2 toet 30",
+    "intro": "Klassieke bingo mit plaetjes in plaats van nummers, zoadat nemes klein lètters hoof te laeze. Drök 'n serie unieke kaarte aaf en gebroek de roper op 't sjerm óm eder plaetje groeat te laote zeen op 'n tv, laptop of tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Kees 9 of 16 vakjes de kaart en 't aantal sjpelers.",
+      "Tik op \"Kaarte aafdrökke\". Edere kaart is angesj.",
+      "Aon de roper op e groeat sjerm. Tik op \"Volgend plaetje\" óm eder aafbeilding mit de naam te tuine.",
+      "Sjpelers dëkke 't bieburend plaetje op hun kaart aaf mit 'n mönts, knoup of fiche.",
+      "Ederein dae 'ne riej of de ganse kaart vol haet, krieg e röstig applaus. In dees versie zeen gein verlezers: sjpeul door toet ederein 'ne riej vol haet."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Gebroek groeate fiches zoas damsjtein of kroenkorke. Klein knuipkes kónne lestig op te pakke zeen.",
+      "Neum 't plaetje en vertèl d'r get bie: \"'n Zeilboot. Wae haet waal 'ns op 'n boot gevaare?\"",
+      "Zèt minse die minder good zeen 't dichste bie 't sjerm, en koppel 'ne hölper aan 'ne sjpeler dae get sjteun kan gebroeke.",
+      "Neuge vakjes is veur de meiste gróppe genóg. Haje de bijeinkóms róndj de 20 toet 30 minute."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Wie organiseer ich plaetjesbingo in e zörgtehoes?",
+        "a": "Drök ein kaart aaf de sjpeler, zèt de roper op 't grótste sjerm det geer höb, en reup de plaetjes röstig aaf terwiel geer edert beneump. Sjpeul toet ederein 'ne riej vol haet, zoadat nemes achterblief."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Is 't gratis óm aaf te drökke?",
+        "a": "Jao. Drök zoväöl kaarte aaf es nuëdeg is, zoväöl kier es geer wilt, veur eige gebroek of veur de gróp."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Kónne minse mètsjpeule zónger te laeze?",
+        "a": "Jao. Eder vakje is e groeat plaetje, mit de naam d'rónger veur wae gaer weurd leus."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Röstig aome",
+    "seoTitle": "'n Röstige aompauze veur seniore en mantelzörgers",
+    "h1": "'n Röstige aompauze",
+    "description": "'n Röstige aompauze óm same te deile: 'ne kalme cirkel weurt groeter en kleiner gedourende zès aomhaole. Geer sjtart 't zellef en kint eder memènt sjtoppe.",
+    "short": "'ne Kalme cirkel óm mit mèt te aome. Sjtart en sjtop wanneer geer wilt.",
+    "players": "1 of 2 minse",
+    "intro": "Soms is 'n röstige pauze de fienste bezigheid. Tik op \"Sjtart\", aom in terwiel de cirkel groeter weurt en oet terwiel d'r kleiner weurt. Kees e röstiger of get vlotter tempo. 't Is gein behanjeling, mer 'n röstig memènt óm same te belaeve.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Gank gemekkelik naevenein zitte.",
+      "Kees e tempo: röstig of kalm.",
+      "Tik op \"Sjtart\". Aom in terwiel de cirkel groeter weurt, en oet terwiel d'r kleiner weurt.",
+      "Hae sjtop vanzelf nao zès aomhaole, of tik op \"Sjtop\" wanneer geer mer wilt."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Haj mekaars handj vas of lègk 'n handj op d'n erm van de angere es det prettig veult.",
+      "Dringk noets aan. Es daegeen liever kikt, is det ouch hielemaol good.",
+      "Es emes meite haet mit aome, aom dan gewoen normaal en bekiek de cirkel. Vraog 'nen dokter bie zörge euver d'n aomhaoling."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Is dit 'n medische aomoefening?",
+        "a": "Nein. 't Is 'n eenvoudige, vrieblievende pauze veur rös en gezelsjap. 't Is gein behanjeling veur ónrös of enige aandoening. Besjprik zörge euver de gezóndjheid mit 'nen dokter."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Bewaeg de cirkel zónger det ich 'm sjtart?",
+        "a": "Nee. D'r bewaegt niks totdet geer op Start tikt, en 't sjtop nao zès aomhaolinge of wen geer op Stop tikt. Es eur apparaat is ingesjtèld óm bewaeging te vermindere, verandere de wäörd zónger det de cirkel gruit."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Is 't gratis, en mót ich mich aanmelde?",
+        "a": "Jao, 't is gratis, en d'r is gein account, aanmelding of download. 't Wèrk in de webbrowser op 'nen tillefoon, tablet of computer."
       }
     ]
   }

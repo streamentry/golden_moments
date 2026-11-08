@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Mapeyari ya swifaniso",
+    "seoTitle": "Ntlawa wo tlhanganisa swifaniso wa Dementia: Mapeyari ya Swifaniso",
+    "h1": "Mapeyari ya Swifaniso: Ntlawa wo Olova wo Tlhanganisa",
+    "description": "Ntlawa wo olova, wo tlhanganisa wa mahala wa vanhu lava hanyaka hi dementia. Swifaniso leswikulu swi tshama swi komba, a ku na nkarhi kumbe mpimo, naswona u hlawula swifaniso swa 4 ku fika eka 12.",
+    "short": "Kuma swifaniso swimbirhi leswi fanaka. Swifaniso swi nga tshama swi komba.",
+    "players": "Munhu un'we kumbe vavirhi, va tshamile ekusuhi",
+    "intro": "Tsenga xifaniso, kutani tsenga xin'wana lexi fanaka na xona. Swifaniso swi tshama swi komba hi ku tlangela, ku nga ri na xilaveko xo tsundzuka nchumu. Loko swifaniso swimbirhi swi fanaka swi va na mupfudzo wa nsuku ni tiki.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Hlawula ku tirhisa swifaniso swingahi. Swinharhu i ndlela yo olova yo sungula.",
+      "Tsenga xifaniso xin'wana xo va xo tsakisa. Xi ta va ni mupfudzo wa nsuku.",
+      "Tsenga xifaniso lexi fanaka. Swimbirhi swi ta tshama swi tlhanganile swi ri ni tiki.",
+      "Loko swifaniso swimbirhi swi hambana, a ku na nchumu lowu biha. Tsenga nkarhi wun'wana loko u lulamile.",
+      "Cinca \"Swifaniso leswi fihliweke\" ntsena loko n'wina mi tsakela ndlela ya khale yo fihla swifaniso."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Vitanani swifaniso hi mui, u vulavula hi swona: \"Xikomu xa tiye xo tshuka. Xana u nwa tiye na mavele?\"",
+      "Leka munhu loyi u n'wi khathalelaka a tirha hi yena, hambi swi teka nkarhi. Loko swi tika, kombisa xifaniso hi xandla xa wena, u nga tirhi hi xandla xa yena.",
+      "Tshama u ri hi swifaniso swi nga ri swintlhanu ku fikela loko swi ha tsakisa. Swifaniso swo tala i xihlawulo, a swi ri leveri yo fikelela.",
+      "Heta loko swi ha tsakisa. Ntlawa wun'we i xiendlakalo xo heleleka."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Xana ku na sikhawu kumbe mpimo?",
+        "a": "Ayi. A ku na sikhawu, mpimo, nhlayo ya tinyiko kumbe ku hluleka. U nga yimisa nkarhi wun'wana, naswona ku yimisa hakatikati i ndlela leyinene yo heta."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Ha yini swifaniso swi tshama swi komba?",
+        "a": "Ku tshama swi komba swifaniso swi endla ntlawa wu va ku languta na ku tlhanganisa, ku nga ri ku tsundzuka. Vanhu vo tala va kuma leswi swi olova. U nga cinca u ya eka swifaniso leswi fihliweke hi ku khoma bakha kan'we loko u lava."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Xana i mahala, xana ndzi lava ku tsarisa?",
+        "a": "Ina, i mahala, a ku na akhawunti, ku tsarisa kumbe ku kuma xo kurisa. Yi tirha eka web browser eka foni, tablete kumbe khompyuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Xana hi nga tirhisa swifaniso swa miti ya hina?",
+        "a": "Ina. Ringanyeta \"Mapeyari ya swifaniso swa hina\", leyi nga ku pfumelelaka ku hlawula swifaniso eka xitirhisiwa xa wena. Swifaniso swi tshama eka browser ya wena naswona a swi rhwanyiwi."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Kuma lexi fanaka",
+    "seoTitle": "Kuma Xifaniso Lexi Fanaka: Ntlawa wo Olova wa Dementia",
+    "h1": "Kuma Xifaniso Lexi Fanaka",
+    "description": "Xifaniso xin'we ekhombyeni le henhla, swimbirhi ku ya eka swine le hansi. Tsenga lexi fanaka. Ntlawa wo olova wa swifaniso wa mahala wa vanhu lava hanyaka hi dementia, a ku na nkarhi.",
+    "short": "Languta xifaniso xa le henhla u tsenga xi fanaka xa le hansi.",
+    "players": "Munhu un'we kumbe vavirhi",
+    "intro": "Xifaniso xin'we xi va le henhla ka skrini. Le hansi ku va swimbirhi, swinharhu kumbe swine. Tsenga lexi fanaka. Hi ku hlawula xin'we hi nkarhi, ku na nkarhi wo vulavula.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Hlawula swifaniso swimbirhi, swinharhu kumbe swine ku hlawula ku suka eka swona. Swimbirhi i ndlela yo olova swinene.",
+      "Languta xifaniso xa le henhla n'we swin'we.",
+      "Tsenga xifaniso lexi fanaka le hansi. Xi ta va ni tiki na marito man'wana yo olova.",
+      "Loko xifaniso xo hambana xi tsengiwa, ntlawa wu ta vitana vito ra xona kutani wu yima. Teka nkarhi wa wena.",
+      "Tsenga \"Xifaniso xo landzela\" loko u lulamile ku languta xin'wana."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Vulavula hi xifaniso xin'wana na xin'wana u nga si hlawula: mivala, swibumbe, laha u nga xi vonaka kona.",
+      "Swimbirhi a swi vuli \"ku olova swinene\". Xikongomelo i nkarhi lowu tsakisaka, a xi ri ku ringanyeta.",
+      "Loko ku tsenga swi tika, munhu a nga kombisa hi xandla, kutani wena u nga n'wi tsengela."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Xana ku na sikhawu kumbe mpimo?",
+        "a": "Ayi. A ku na sikhawu, mpimo, nhlayo ya tinyiko kumbe ku hluleka. U nga yimisa nkarhi wun'wana, naswona ku yimisa hakatikati i ndlela leyinene yo heta."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Xana swi ta endleka yini loko xifaniso lexi hambanaka xi tsengiwa?",
+        "a": "A swi na nchumu lowu biha. A ku na xiyimo xa ku hlakahla, xikhutsi xa tsvuka kumbe ku rhurhumela. Ntlawa wu vitana xifaniso lexi tsengiweke kutani wu yima ku fika eka ku tsenga kun'wana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Xana i mahala, xana ndzi lava ku tsarisa?",
+        "a": "Ina, i mahala, a ku na akhawunti, ku tsarisa kumbe ku kuma xo kurisa. Yi tirha eka web browser eka foni, tablete kumbe khompyuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kuma xifuwo",
+    "seoTitle": "Ntlawa wo Kuma Xifuwo wa Dementia: Wa Mahala eInthanete",
+    "h1": "Kuma Xifuwo: Ntlawa wo Olova wa Swifaniso",
+    "description": "Xifuwo xo tima ekhombyeni le henhla, swimbirhi ku ya eka swine swifaniso le hansi. Tsenga xifaniso lexi endlaka xifuwo. Ntlawa wo olova, wa mahala wo kuma swifuwo wa dementia, a ku na nkarhi.",
+    "short": "Languta xifuwo u tsenga xifaniso lexi xi endlaka.",
+    "players": "Munhu un'we kumbe vavirhi",
+    "intro": "Ku kuma swifuwo i ntlawa lowu tivekaka eka swipapila swa khale, kambe la hi swifaniso leswikulu naswona a ku na ku printa nchumu. Xifuwo xo olova xi tshama ekhombyeni le henhla, naswona swifaniso swimbirhi, swinharhu kumbe swine swi tshama le hansi. Tsenga xifaniso lexi endlaka xifuwo. Swifaniso swo fana na baisikili, xiambrela kumbe xikomu xa tiye swi olova ku vulavula hi swona.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Hlawula swifaniso swimbirhi, swinharhu kumbe swine ku hlawula ku suka eka swona. Swimbirhi i ndlela yo olova swinene.",
+      "Languta xifuwo swin'we. Xi ni xibumbe xihi? I ndzende kumbe i tende?",
+      "Tsenga xifaniso lexi endlaka xifuwo. Vito ra xona ri ta humelela ehansi ka xifuwo.",
+      "Loko xifaniso xo hambana xi tsengiwa, ntlawa wu vitana vito ra xona kutani wu yima. Teka nkarhi wa wena.",
+      "Tsenga \"Xifuwo xo landzela\" loko u lulamile ku languta xin'wana."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Landzelela ndzhwalo wa xifuwo hi munwe kutani u vulavula hi xibumbe xa xona.",
+      "Loko swifuwo swi tika namuntlha, cinca u ya eka \"Kuma lexi fanaka\", laha swifaniso swi fanaka.",
+      "Vulavula hi xifaniso endzhaku ka ku xi kuma: \"Hi a ri na xiambrela xo fana na xona.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Xana ku na sikhawu kumbe mpimo?",
+        "a": "Ayi. A ku na sikhawu, mpimo, nhlayo ya tinyiko kumbe ku hluleka. U nga yimisa nkarhi wun'wana, naswona ku yimisa hakatikati i ndlela leyinene yo heta."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Xana ku hlanganisa mithunzi swi antswa eka vanhu lava nga na dementia?",
+        "a": "Swi nga va ntsako lowu olovaneke eka van'wana, ngopfu-ngopfu eka tinhlayo ta le hakeni ya nkarhi. Swifaniso swi olova ku swi tiva ku tlula mavhu. I ntirho wa ntsako ni ku vulavula, a wu ri ntlhahlo, naswona a wu rapfi kumbe wu tshinetanga dementia. Loko swi tisa ku vilela, ringetelani Kuma swo fana kumbe languteni swifaniso swin'we hi ku hlanganyela."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Xana ku ni yini loko ku tlhayisiwa xifaniso lexi nga ringanangiki?",
+        "a": "A ku na nchumu lowu vabyaka. A ku na ntlhohlo, a ku na xikhoxo xa rihlaza kumbe ku rhurhumela. Masewu wu vitana xifaniso lexi tlhayisiweke, kutani wu rindza ku tlhayisa loku landzelaka."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Xana i mahala, naswona ndzi fanele ku tsarisa?",
+        "a": "Ina, i mahala, naswona a ku lavi akhawunti, ku tsarisa kumbe ku kandziyisa. Yi tirha eka browser ya web eka foni, tablete kumbe khomphyuta."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Hlela swin'we",
+    "seoTitle": "Masewu yo hlela eka Dementia: Hlela swin'we",
+    "h1": "Hlela swin'we: ntirho wo hlela swifaniso",
+    "description": "Tlhayisani xifaniso kutani mi tlhayisa xibasketi leswi xi faneleke kona: khitchini kumbe ntsimu, mihandzu kumbe swiharhi. Ntirho lowu rhuleke, wa mahala wo hlela eka vanhu lava nga na dementia.",
+    "short": "Veka xifaniso xin'wana ni xin'wana exibaskedini xa xona: khitchini kumbe ntsimu, ni swin'wana.",
+    "players": "1 kumbe 2 vanhu",
+    "intro": "Ku hlela i ntirho lowu tolovelekeke naswona lowu tsakisaka wa siku ni siku, ku fana ni ku veka swakudya endhawini ya swona kumbe ku hlanganisa swihambanetana. Tlhayisani xifaniso, kutani mi tlhayisa xibasketi laha xi faneleke kona. A ku na ku hatimela naswona a ku na ndlela yo homboloka.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Hlawulani nkoka: khitchini ni ntsimu, mihandzu ni swiharhi, kumbe yindlu ni rendzo.",
+      "Tlhayisani xifaniso. Xi ta va ni switsongo swa golide.",
+      "Tlhayisani xibasketi leswi xi faneleke kona. Xifaniso xi ta nghena exibaskedini yoleyo.",
+      "Loko xi faneleke exibaskedini yin'wana, masewu wu ta vula sweswo hi ku olova kutani wu rindza.",
+      "Loko swifaniso hinkwaswo swi hleriwile, languteni swibasketi swin'we."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Eka vutomi bya ntiyiso a ku tlhela ku va ni ndlela yo homboloka. Loko munhu a ku xikhamu xo tshela mati xi fanele khitchini, vutisani ha yini. Mi nga kuma ku vulavula ku tsakisaka.",
+      "Tirhisani swifaniso tanihi xikhutazo: \"Mi byalile yini entsimu ya n'wina?\"",
+      "Ku hlela swinhu swa ntiyiso, ku fana ni switsanza ni mafolo kumbe switlhokovetselo hi mtlhaba, i ntirho lowu tsakisaka ehandle ka screen."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Xana ku na kloko kumbe mpimo?",
+        "a": "Ayi. A ku na kloko, mpimo, mpimo wa switalo kumbe ku lahleka. Mi nga yimisa nkarhi wun'wana na wun'wana, naswona ku yimisa hakatikati swi nga ri ndlela leyi nyikaka ku hetisa."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Hikwalaho ka yini ku hlela?",
+        "a": "Vanhu vo tala va tsakela ku hlela hikuva swi fana ni ntirho lowu pfuneka naswona lowu tolovelekeke. Swi tlhela swi olova ku vulavula hi swifaniso loko mi ri karhi mi hlela."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Xana i mahala, naswona ndzi fanele ku tsarisa?",
+        "a": "Ina, i mahala, naswona a ku lavi akhawunti, ku tsarisa kumbe ku kandziyisa. Yi tirha eka browser ya web eka foni, tablete kumbe khomphyuta."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle ya swifaniso",
+    "seoTitle": "Puzzle yo olova ya swifaniso eka dementia: swiphiri swa 4 kumbe 9",
+    "h1": "Puzzle ya swifaniso: jigsaw yo olova",
+    "description": "Jigsaw yo olova eka inthanete ya vanhu lava nga na dementia: swiphiri swa 4 kumbe 9 leswikulu, xifaniso hinkwaxo xi vonakala, naswona mi tlhayisa swiphiri swimbirhi ku swi tshinanisa.",
+    "short": "Tlhayisani swiphiri swimbirhi ku swi tshinanisa ku fikela loko xifaniso xi hetile.",
+    "players": "1 kumbe 2 vanhu",
+    "intro": "Xifaniso xo olova xi hlotiwa xi va swiphiri swa 4 kumbe 9 leswikulu kutani xi xisiwa. Xifaniso hinkwaxo xi ya vonaka tanihi xikombiso. Tlhayisani xiphiri xin'wana, kutani xin'wana, kutani swi tshinanisa tindhawu. A swi lavi ku hoxa.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Hlawulani xifaniso ni swiphiri swa 4 kumbe 9. Swa 4 i ku sungula hi ku olova.",
+      "Languteni xifaniso hinkwaxo xa le henhla.",
+      "Tlhayisani xiphiri, kutani tlhayisani ndhawu leyi xi faneleke kona. Swiphiri swimbirhi swi tshinanisa tindhawu.",
+      "Swiphiri leswi nga endhawini leyi faneleke swi ta va ni xikhavi xo tiva.",
+      "Loko xifaniso xi hetile, tsakelani swin'we, kutani hlawulani xin'wana."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Ku tlhayisa swiphiri swimbirhi ku swi tshinanisa swi olova swinene eka vanhu vo tala ku tlula ku swi hoxa.",
+      "Vulavulani hi xifaniso loko xi ri karhi xi hetiseka: \"Leyi i ndlu leyi tshwukeke.\"",
+      "Puzzle ya switilo ya mpfhuka leyi nga na swiphiri swa 12 ku ya fika eka 24 leswikulu yi tlhela yi va ntirho lowu tsakisaka ehenhla ka tafula."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Xana ku na kloko kumbe mpimo?",
+        "a": "Ayi. A ku na kloko, mpimo, mpimo wa switalo kumbe ku lahleka. Mi nga yimisa nkarhi wun'wana na wun'wana, naswona ku yimisa hakatikati swi nga ri ndlela leyi nyikaka ku hetisa."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Xana ndzi fanele ku hoxa swiphiri?",
+        "a": "Ayi. Tlhayisani xiphiri xin'wana, kutani xin'wana, kutani swi tshinanisa tindhawu. Sweswi swi olova swinene loko voko ri rhurhumela kumbe loko screen yi ntsongo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Xana i mahala, naswona ndzi fanele ku tsarisa?",
+        "a": "Ina, i mahala, naswona a ku lavi akhawunti, ku tsarisa kumbe ku kandziyisa. Yi tirha eka browser ya web eka foni, tablete kumbe khomphyuta."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Hetisa xivulavulo",
+    "seoTitle": "Hetisa xivulavulo: masewu ya swivulavulo eka vakulu",
+    "h1": "Hetisa xivulavulo",
+    "description": "Swivulavulo leswi tolovelekeke swa Xitsonga leswi nga na rito ro hetelela leri nga kona. Hlawulani rito leri hetelelaka kumbe komba ndzhaka, kutani mi vulavula hi xona.",
+    "short": "Hetisani swivulavulo leswi tolovelekeke swin'we, kutani mi vulavula hi swona.",
+    "players": "1, 2 kumbe qembu",
+    "intro": "Swivulavulo swa khale swa tiva handle ka vutomi hinkwabyo. Khadi ri nga ni xivulavulo lexi tiviwaka lexi nga na rito ro hetelela ri nga kona, swihlawulelo swa nharhu, ni bhatani ya \"Komba ndzhaka\". Endzhaku ka ndzhaka, xivutiso xo olova xi hlohlotela ku vulavula.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Hlayani xivulavulo hi lehlu swin'we.",
+      "Tlhayisani rito leri hetelelaka kumbe tlhayisani \"Komba ndzhaka\".",
+      "Hlayani xivulavulo hinkwaxo nakambe, kutani mi vulavula hi xona mi tirhisa xivutiso.",
+      "Tlhayisani \"Xivulavulo xo landzela\" loko mi lulamile."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Hlayani hi ku hatimela, mi tshika nkarhi wo tiyisa ehenhla ka rito ra makumu. Vanhu vo tala va vulavula rito hi nkarhi lowu mi nga si ri vulavula.",
+      "Loko munhu a nyika ndzhaka leyi hambaneke, yi tsakelani. Swivulavulo swin'wana swi hambana hi tindzhaku kumbe hi tindhawu.",
+      "Loko mi eqenerini, un'wana u hlaya naswona hinkwavo va hlanganyela eka ndzhaka."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Xana ku na kloko kumbe mpimo?",
+        "a": "Ayi. A ku na kloko, mpimo, xibalo xa swihenha kumbe ku lahleka. U nga yima nkarhi wihi na wihi, naswona ku yima hi nkarhi wa xihlovo i ndlela leyinene yo heta."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Xana hi nga hlawula rito leri hambaneke?",
+        "a": "Papatwa ri kombisa ndlela yo heta leyi tolovelekeke kutani ri ya eka vulavurisano. A ku na mpimo, naswona nhlamulo leri hambaneke ri amukeriwa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Xana i mahala, naswona ndzi fanele ku ngenisa vito?",
+        "a": "Ina, i mahala, naswona a ku lavi akhawunti, ku ngenisa vito kumbe ku kuma ku xa nchumu. Ri tirha eka browser ya web eka foni, thablete kumbe khomputa."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ndzandzelo wa marito hi letere lerikulu",
+    "seoTitle": "Ndzandzelo wa Marito hi Letere Lerikulu eka Dementia, Wu Nga Printiwa",
+    "h1": "Ndzandzelo wa Marito hi Letere Lerikulu",
+    "description": "Ndzandzelo wa marito wa mahala hi letere lerikulu eka vakulu ni vanhu lava hanyaka hi dementia. Marito man'wana, letere lerikulu, marito ya kule ni ya ehansi ntsena. Tirha online kumbe printa.",
+    "short": "Letere lerikulu, marito man'wana, ya kule ni ya ehansi ntsena. Printa na yona.",
+    "players": "1 kumbe 2 vanhu",
+    "intro": "Griddi yo ringana leyitsongo hi letere lerikulu ni marito ya nharhu ntsena, hinkwawo ya kule kumbe ya ehansi. Klika letere ro sungula ra rito, kutani klika letere ro hetelela. Mi rhandza papila? Printa puzzle leyintshwa hi ku klika kun'we.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Hlawula thema ni ku tele ka griddi.",
+      "Languta mpimo wa marito. Marito ma hlaya ekule (ku suka exineneni ku ya exineni) kumbe ehansi (ku suka ehenhla ku ya ehansi).",
+      "Klika letere ro sungula ra rito, kutani klika letere ro hetelela.",
+      "Rito leri kumiweke ri languteke ku tshuka ri susiwa eka mpimo.",
+      "Klika \"Printa puzzle leli\" ku tirha hi papila hi pensele kumbe marker."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Kombisa rito eka mpimo kutani lavani letere ro sungula swin'we hi mativula.",
+      "Eka papila, highlighter yi olova ku yi khoma ku tlula pensele.",
+      "Vulavula hi marito ya thema. Marito ya michero i ndlela leyinene yo nghena eka mintsharhelo ya ku hlaya, ku baka kumbe mimakethe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Xana ku na kloko kumbe mpimo?",
+        "a": "Ayi. A ku na kloko, mpimo, xibalo xa swihenha kumbe ku lahleka. U nga yima nkarhi wihi na wihi, naswona ku yima hi nkarhi wa xihlovo i ndlela leyinene yo heta."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Xana ndzi nga printa ndzandzelo wa marito?",
+        "a": "Ina. Klika \"Printa puzzle leli\" ku printa griddi leyi nga kona hi tlhelo lerikulu, ni mpimo wa marito ehansi. Puzzle yin'wana ni yin'wana yi hambane."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Xana i mahala, naswona ndzi fanele ku ngenisa vito?",
+        "a": "Ina, i mahala, naswona a ku lavi akhawunti, ku ngenisa vito kumbe ku kuma ku xa nchumu. Ri tirha eka browser ya web eka foni, thablete kumbe khomputa."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Mapeji yo tsona",
+    "seoTitle": "Mapeji yo Tsona eka Vakulu lava nga na Dementia (Mahala)",
+    "h1": "Mapeji yo Tsona",
+    "description": "Mapeji yo tsona yo olova ya vakulu, ya swibumabumelo leswikulu: klika muvala, kutani klika xifaniso. A ku na swisweswo, a ku na muvala lowu hoxeke, naswona peji yin'wana ni yin'wana yi nga printiwa hi mahala.",
+    "short": "Klika muvala, kutani xiphemu xa xifaniso. Printa mapeji nawu.",
+    "players": "1 kumbe 2 vanhu",
+    "intro": "Mapeji hi swibumabumelo leswikulu, leswi olova: ntshuwa eka mbiya, yindlu, tiye ya tiyi, bulufi ni xikepe xa mugangu. Klika muvala, kutani klika xiphemu xa xifaniso ku xi tata hi wona. A ku na mimuvala leyi hoxeke.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Hlawula peji.",
+      "Klika muvala. Muvala wun'wana ni wun'wana wu tsariwe vito ra wona.",
+      "Klika xiphemu xa xifaniso ku xi tata hi muvala wolowo.",
+      "Ku cinca mianakanyo nkarhi wun'wana wihi na wihi hi ku xi tata nakambe.",
+      "Klika \"Printa peji leli\" ku kuma peji ro basa ro tsona hi pensele kumbe marker."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Nyika mimuvala mimbirhi leyi hlawulaka ku tlula seti hinkwayo loko ku hlawula swi tika ku va xivangalele.",
+      "Mihandzu ya purple ni tilo ra blue swi amukeriwa. Leswi i ku tsakela muvala, a hi ku va ku tiyisa.",
+      "Mapeji lama printiweke ma tirha kahle hi marker lama tlhelaka kumbe crayon, lama olovaka ku khoma."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Xana ku na kloko kumbe mpimo?",
+        "a": "Ayi. A ku na kloko, mpimo, xibalo xa swihenha kumbe ku lahleka. U nga yima nkarhi wihi na wihi, naswona ku yima hi nkarhi wa xihlovo i ndlela leyinene yo heta."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Xana mapeji lawa ma vonaka ma vana swinene?",
+        "a": "Hi endle swilo leswi olova ni leswi tshameke hansi, ku nga ri swifaniso swa matimu. Hikwalaho mapeji ma fanele vakulu. Swibumabumelo leswikulu swi endla ku tsona ku olova handle ko endla leswaku swi va ya vana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Xana i mahala, naswona ndzi fanele ku ngenisa vito?",
+        "a": "Ina, i mahala, naswona a ku lavi akhawunti, ku ngenisa vito kumbe ku kuma ku xa nchumu. Ri tirha eka browser ya web eka foni, thablete kumbe khomputa."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Tikhadi ra vulavurisano",
+    "seoTitle": "Swisungulo swa Vulavurisano eka Dementia: Tikhadi ra Swifaniso",
+    "h1": "Tikhadi ra Vulavurisano",
+    "description": "Tikhadi ra swifaniso ni swisungulo swa vulavurisano swo olova eka vanhu lava hanyaka hi dementia: a ku na ku vutisa, a ku na nhlamulo leyi lulameke. Tirha eka screen kumbe printa seti hinkwayo.",
+    "short": "Tikhadi ra swifaniso ni swivutiso swo olova, swo pfuleka. A ku na ku vutisa.",
+    "players": "2 vanhu kumbe ntlawa",
+    "intro": "Khadi ro tshinya ri hlanganisa xifaniso lexi tolovelekeke ni xikombelo xo pfuleka xo vulavula, lerova ku fana na \"Xana mhalamhala leyi u yi rhandzaka i yihi?\" A ku na nhlamulo leyi lulameke naswona a ku na nchumu wo tsundzuka. Hlawula thema kumbe hlanganyisa hinkwawo.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Hlawula thema, kumbe hlayisa \"Tikhadi hinkwato\".",
+      "Hlaya xivutiso hi ku vulavula, kutani languta xifaniso swin'we.",
+      "Yingisela, avelela nhlamulo ra wena, u nyika vulavurisano nkarhi ku famba.",
+      "Klika \"Khadi leri landzelaka\" loko u lulamile, kumbe tshama na khadi rin'we nkarhi lowu u lavaka.",
+      "Klika \"Printa tikhadi hinkwato\" ku tsema seti ya papila."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Hlamula xivutiso xo ka wena pfunyana. Swi va vulavurisano, ku nga ri xivutiso xa ndzavisiso.",
+      "Landzelela ntsumi wa vulavurisano, ku nga ri ntiyiso hinkwayo. Loko swin'wana swi cinca, a swi biha.",
+      "Loko khadi ri khoma nchumu wo vava, amukela mintwelo kutani u ya eka khadi rin'wana hi ku olova."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Hikwalaho ka yini ku nga ri swivutiso swa \"Xana u tsundzuka...?\"",
+        "a": "Swivutiso swo ringeta ndzandzelo swi nga endla ku va ku fana ni ku ringetiwa, swi nga endla munhu a titwa a nyanyuriwa. Swivutiso swo pfuleka ku fana na \"Ndzi byele hi...\" swi endla leswaku un'wana ni un'wana a nghena eka vulavurisano, hi ku tsundzuka ka yena kwihi na kwihi."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Xana ndzi nga printa tikhadi?",
+        "a": "Ina. \"Printa tikhadi hinkwato\" yi printa seti hinkwayo hi tlhelo lerikulu, tikhadi ro tala eka peji ro tala, ri lulamile ku tsemiwa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Xana i mahala, naswona ndzi fanele ku ngenisa vito?",
+        "a": "Ina, i mahala, naswona a ku lavi akhawunti, ku ngenela kumbe ku download. Yi tirha eka browser ya webu eka foni, tablet kumbe khomphyuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Mapheya ya swifaniso",
+    "seoTitle": "Endla Ntsengo wo Fanisa ku suka eka Swifaniso swa Ndyangu",
+    "h1": "Mapheya ya Swifaniso: Fanisa Swifaniso swa Wena",
+    "description": "Hundzula swifaniso swa ndyangu swa wena ku va ntsengo wo olova wo fanisa. Hlawula swifaniso swa 2 ku ya eka 6 eka xitirhisiwa xa wena; swi tshama eka browser ya wena naswona a swi rhumeriwi.",
+    "short": "Hlawula swifaniso swa wena u swi fanisa. A ku rhumeriwi nchumu.",
+    "players": "Vanhu va 2, va tshamile swikan'wana",
+    "intro": "Hlawula swifaniso swa 2 ku ya eka 6 eka foni, tablet kumbe khomphyuta ya wena, kutani swi va ntsengo wo fanisa na swifaniso leswi kulu leswi vonakaka. Swifaniso swi kombisiwa ntsena eka tsalwa leyi. A swi rhumeriwi, a swi hlayisiwi kumbe a swi avanyisiwi, naswona swi ya loko u pfala tsalwa.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tlanga \"Hlawula swifaniso\" u hlawula swifaniso swa 2 ku ya eka 6.",
+      "Xifaniso xin'wana na xin'wana xi humelela kaye. Tlanga xin'we, kutani tlanga xifaniso xa xona xo fanana.",
+      "Vulavula hi xifaniso xin'wana na xin'wana loko u xi kuma.",
+      "Loko u heleke, pfala tsalwa kumbe tlanga \"Susa swifaniso\". A ku hlayisiwi nchumu."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Hlawula swifaniso leswi vonakaka leswi tsakisaka swa swilo leswi tivekaka: mbyana, xivandla, ndhawu leyi u yi rhandaka, siku ra vukati.",
+      "Swifaniso swa tindhawu ni swilo swi nga olova ku tlula swa swikandza, naswona a swi endli munhu a va a tshikeleka ku vitana vito.",
+      "Leswi nga vulaveka hi ku hatlisa swi nga tisa ku vava swinene, hi swo tshinya u nga hlawuli swifaniso swa vanhu lava feke, handle ka loko u tiva leswaku swi tisa mpfuno."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Xana swifaniso swa mina swi rhumeriwa kwihi?",
+        "a": "Ayi. Tsalwa yi hlaya swifaniso leswi u swi hlawuleke eka browser ya wena naswona yi swi kombisa eka screen ya wena. A swi rhumeriwi eka hina kumbe eka munhu un'wana, naswona swi hela loko u pfala kumbe u vuyisa tsalwa."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Xana ku na nkarhi kumbe mpapalata?",
+        "a": "Ayi. A ku na nkarhi, mpapalata, ku verenga swo endla kumbe ku thyakeka. U nga yima nkarhi wihi na wihi, naswona ku yima hakatsongo i ndlela leyinene yo hetisa."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Xana ndzi nga hlayisa ntsengo wa nkarhi lowu landzelaka?",
+        "a": "Ayi, eka browser, hi swo tiyisisa, leswaku ku nga hlayisiwi nchumu wa xihundla. Ntirho wa Golden Moments wa iPhone ni iPad wu nga hlayisa swikopi swa swifaniso leswi hlawuleke eka xitirhisiwa xa wena."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ya swifaniso",
+    "seoTitle": "Bingo ya Swifaniso ya Vakulu lava nga ni Dementia: Ya ku Printa",
+    "h1": "Bingo ya Swifaniso ya Mintlawa",
+    "description": "Bingo ya swifaniso ya mahala yo printa ya tinkhomo ta ku tlhokomela ni mintlawa ya vakulu, ni muvitani lowu kulu eka screen. Swifaniso leswi kulu ni marito, tinkhwanyana 9 kumbe 16, a ku laveki ku hlaya.",
+    "short": "Tikhadi ta bingo ya swifaniso leti printiwaka ni muvitani wa screen leyikulu wa mintlawa.",
+    "players": "Mintlawa ya vanhu va 2 ku ya eka 30",
+    "intro": "Bingo leyi tlhelelaka yi ri ya swifaniso ku nga ri tinomboro, leswaku a ku na munhu loyi a lavaka ku hlaya tinhlamu leti tsongo. Printa seti ya tikhadi leti hlawukeke, kutani tirhisa muvitani ku kombisa xifaniso xin'wana na xin'wana xi kulu eka TV, laptop kumbe tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Hlawula tinkhwanyana 9 kumbe 16 eka khadi ni nhlayo ya vanhu lava tlhelelaka.",
+      "Tlanga \"Printa tikhadi\". Khadi rin'wana na rin'wana ri hambane.",
+      "Pfula muvitani eka screen leyikulu. Tlanga \"Xifaniso xo landzelela\" ku kombisa xifaniso xin'wana na xin'wana ni vito ra xona.",
+      "Vanhu va funengeta xifaniso lexi fanaka eka khadi ra vona hi xibanana, batani kumbe markara.",
+      "Un'wana na un'wana loyi a tladza murhi, kumbe khadi hinkwaro, u ta vuyeriwa. Eka bingo leyi a ku na lavi hluleke: tlhelela ku fikela loko un'wana na un'wana a ri ni murhi."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Tirhisa swibanana leswikulu swa ku tiva, swo fana na swipasa kumbe swivandla swa mabotolo. Swibatani leswitsongo swi nga va swi tika ku swi tola.",
+      "Vito xifaniso kutani u vulavula hi xona: \"Bowe. Ha yini un'wana a tshame emikepeni ya bowe?\"",
+      "Tshama vanhu lava nga ni ku vona ku tika kun'wana eduvi ra screen, u veka vapfuni eka vanhu lava va lavaka mpfuno.",
+      "Tinkhwanyana 9 i swo lava eka mintlawa yo tala. Hlayisa nkarhi wa miniti ya 20 ku ya eka 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ndzi tirha njhani bingo ya swifaniso eka ndhawu leyi tlhokomelaka vakulu?",
+        "a": "Printa khadi rin'we eka munhu un'wana na un'wana, veka muvitani eka screen leyikulu swinene leyi u nga na yona, u vitana swifaniso hi ku hatlisa, u vitana vito ra xin'wana na xin'wana. Tlhelela ku fikela loko un'wana na un'wana a ri ni murhi, leswaku ku nga va na loyi a siyiweke ehandle."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Xana swo printa swi ni mahala?",
+        "a": "Ina. Printa tikhadi leti u swi lavaka, hi nkarhi wo tala leswi u swi lavaka, eka ntirho wa munhu kumbe wa mintlawa."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Xana vanhu va nga tlhelela va nga hlayi?",
+        "a": "Ina. Xiviri xin'wana na xin'wana i xifaniso lexikulu, ni vito ra xona ehansi eka lava rhandaka marito."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Ku phefula hi ku rhula",
+    "seoTitle": "Nkarhi wo Phefula hi Ku Rhula eka Vakulu ni Vatlhokomeri",
+    "h1": "Nkarhi wo Phefula hi Ku Rhula",
+    "description": "Nkarhi wo phefula hi kakarhi, wo rhula wo avelana: xirhendzevutana xo olova xi kula ni ku tsutsuma hi ku phefula ka 6. U sungula, naswona u nga yima nkarhi wihi na wihi.",
+    "short": "Xirhendzevutana xo olova xo phefula swin'we. Sungula ni yima loko u lava.",
+    "players": "Munhu 1 kumbe 2",
+    "intro": "Hi nkarhi win'wana nkarhi wo rhula i wo antswa swinene. Tlanga \"Sungula\", kutani u phefula loko xirhendzevutana xi kula, naswona u phefula ehansi loko xi tsutsuma. Hlawula ku hahalela kumbe ku hatlisa. Ku nga ri ndlela yo pfuna miri; i nkarhi wo rhula ntsena wo avelana.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Tshama hi ku olova ehansi ka munhu un'wana.",
+      "Hlawula ku hahalela kumbe ku olova.",
+      "Tlanga \"Sungula\". Phefula loko xirhendzevutana xi kula, naswona phefula ehansi loko xi tsutsuma.",
+      "Xi yima hi xona ku sukela ka phefula ra 6, kumbe tlanga \"Yima\" nkarhi wihi na wihi loko u lava."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Khomana mavoko kumbe veka voko ehenhla ka mhala wa munhu loko swi amukelekile.",
+      "Mi nga tshikileli nchumu. Loko va lava ku languta ntsena, swi kahle.",
+      "Loko munhu a ni swiphiqo swa ku phefula, phefula hi ndlela leyi tolovelekeke u languta xirhendzevutana ntsena. Vutisa dokotela hi swivilelo swa ku phefula."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Xana i ntirho wa ku phefula wa ndlela ya vutshila?",
+        "a": "Ayi. I nkarhi wo olova, wa ku hlawula, wo rhula ni vanhu. A ku ri ndlela yo pfuna ku vilela kumbe xiphiqo xin'wana xo hambana. Vulavula ni dokotela hi swiphiqo swa miri."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Xana xirhendzevutana xi tsutsuma xoxe handle ka loko ndzi sungula?",
+        "a": "Ayi. Ku na nchumu lowu hundzaka ku fikela loko u tlhandlamisa Sungula, kutani wu yima endzhaku ka ku hefemula ka tsevu kumbe loko u tlhandlamisa Yima. Loko xitirhisi xa wena xi vekiwile leswaku swi tsutsuma swi ntsongo, xibumba a xi kuli, kambe marito ma ya ma cinca."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Xana i mahala, kutani ndzi fanele ku tsarisa?",
+        "a": "Ina, i mahala, naswona a ku laveki akhawundi, ku tsarisa kumbe ku download. Yi tirha eka browser ya web eka foni, tablete kumbe khompyuta."
       }
     ]
   }

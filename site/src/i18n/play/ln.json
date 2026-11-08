@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Tángá na mongongo",
+      "stopReading": "Tika kotánga",
+      "region": "Lisano",
+      "restart": "Banda lisusu",
+      "soundOn": "Makɛlɛ́lɛ ya pɛtɛ́ɛ efungwami",
+      "soundOff": "Makɛlɛ́lɛ ya pɛtɛ́ɛ ekangami",
+      "done": "Esili mpo na sik'oyo",
+      "feedbackQuestion": "Yango esalisi lelo?",
+      "feedbackYes": "Ɛɛ",
+      "feedbackNo": "Mpenza te",
+      "feedbackThanks": "Matɔ́ndi mingi na ndenge oyebisi biso."
+    },
+    "tile": {
+      "named": "{name}, eteni {n}",
+      "hidden": "Elilingi ebombami, eteni {n}",
+      "withState": "{label}, {state}",
+      "matched": "Esangani",
+      "selected": "Eponami",
+      "picture": "Elilingi",
+      "photoNumber": "Fɔ́tɔ {n}"
+    },
+    "pairs": {
+      "allTogether": "Bikanganeli nyonso esangani. Bóbetela lisusu to bópema mwa moke.",
+      "photoPair": "Bafɔ́tɔ mibale ya lolenge moko, esangani.",
+      "picturePair": "Bililingi mibale ya {name|lower}, esangani.",
+      "selected": "{name}. Sik'oyo luka ekanganeli na yango.",
+      "mismatch": "Bómipesa ntango. Finá elilingi mpo na kokoba.",
+      "mismatchNamed": "{a} mpe {b}. Bómipesa ntango. Finá elilingi mpo na kokoba."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Finá elilingi moko, na nsima finá oyo ekokani na yango.",
+      "guidanceHidden": "Finá biteni mibale mpo na kobalola yango. Luka mibale oyo ezali ndenge moko.",
+      "restart": "Bililingi ya sika",
+      "sizeLegend": "Motángo ya biteni",
+      "size": {
+        "one": "Eteni {n}",
+        "other": "Biteni {n}"
+      },
+      "viewLegend": "Ndenge ya kobeta",
+      "viewShowing": "Bililingi oyo ezali komonana",
+      "viewHidden": "Bililingi oyo ebombami",
+      "playAgain": "Bóbetela lisusu na bililingi ya sika",
+      "talk": "Bósolola elongo mpo na bililingi"
+    },
+    "choose": {
+      "countLegend": "Motángo ya bililingi",
+      "count": "{n} mpo na kopona",
+      "thatOne": "Oyo ezali {name|lower}. Bómipesa ntango."
+    },
+    "findTheSame": {
+      "guidance": "Tálá elilingi oyo ezali na likoló. Finá oyo ekokani na yango na nse.",
+      "yes": "Ɛɛ, ezali kaka {name|lower}.",
+      "next": "Elilingi elandi"
+    },
+    "shadowMatch": {
+      "guidance": "Tálá elili oyo ezali na likoló. Finá elilingi oyo ezali kobimisa yango.",
+      "yes": "Ɛɛ, {name|lower} nde ezali kobimisa elili wana.",
+      "next": "Elili elandi",
+      "shadowAlt": "Elili ya kokokanisa",
+      "foundAlt": "Elili ya {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Finá elilingi, na nsima finá kitúnga oyo esengeli kokɔta.",
+      "restart": "Bililingi ya sika",
+      "themeLegend": "Motó ya likambo",
+      "selected": "{name}. Sik'oyo finá kitúnga oyo esengeli kokɔta.",
+      "pickFirst": "Yambo finá elilingi, na nsima finá kitúnga.",
+      "hint": "{name|lower} ekoki kokɔta na \"{basket}\". Finá kitúnga wana mpo na kotya yango kuna.",
+      "placed": "{name|lower} ekɔti na \"{basket}\".",
+      "sorted": "Nyonso esili kokɔta na bisika na yango. Bótala bitúnga elongo, to bómeka motó ya likambo mosusu.",
+      "basket": {
+        "one": "Kitúnga \"{basket}\", elilingi {count} na kati",
+        "other": "Kitúnga \"{basket}\", bililingi {count} na kati"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Finá eteni moko, na nsima finá eteni mosusu. Bikobongola bisika.",
+      "restart": "Búngisa lisusu bisika",
+      "pictureLegend": "Elilingi",
+      "pictures": {
+        "sailboat": "Masuwa ya mopɛpɛ",
+        "house": "Ndáko",
+        "balloon": "Mupira ya mopɛpɛ",
+        "sunflower": "Fololo ya mwese",
+        "lighthouse": "Ndáko ya mwinda",
+        "cat": "Nyau"
+      },
+      "sizeLegend": "Biteni",
+      "size": {
+        "one": "Eteni {n}",
+        "other": "Biteni {n}"
+      },
+      "pickedUp": "Eteni eponami. Sik'oyo finá esika esengeli kokende.",
+      "whole": "{name|lower} ebongi lisusu mobimba. Bópona elilingi mosusu ntango nyonso bolingi.",
+      "swapped": {
+        "one": "Eteni ebongoli esika. Eteni {correct} na kati ya {total} ezali na esika na yango.",
+        "other": "Biteni bibongoli bisika. Biteni {correct} na kati ya {total} bizali na esika na yango."
+      },
+      "guideAlt": "Elilingi ya mobimba: {name}",
+      "guideText": "Boye nde elilingi esengeli kozala ntango ezali mobimba.",
+      "piece": "Eteni na {place}",
+      "pieceInPlace": ", na esika ya solosolo",
+      "piecePickedUp": ", etombwami",
+      "places4": [
+        "likoló na lobɔ́kɔ ya mwasi",
+        "likoló na lobɔ́kɔ ya mobali",
+        "nse na lobɔ́kɔ ya mwasi",
+        "nse na lobɔ́kɔ ya mobali"
+      ],
+      "places9": [
+        "likoló na lobɔ́kɔ ya mwasi",
+        "likoló na katikati",
+        "likoló na lobɔ́kɔ ya mobali",
+        "katikati na lobɔ́kɔ ya mwasi",
+        "katikati",
+        "katikati na lobɔ́kɔ ya mobali",
+        "nse na lobɔ́kɔ ya mwasi",
+        "nse na katikati",
+        "nse na lobɔ́kɔ ya mobali"
+      ],
+      "done": "Elilingi ebongi lisusu mobimba. Bóbetela lisusu to bópema mwa moke.",
+      "playAgain": "Búngisa lisusu bisika"
+    },
+    "finishTheSaying": {
+      "guidance": "Bótánga lisese elongo, na nsima finá liloba oyo esilisaka yango.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ɛɛ, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" pe ekoki kobonga. Lisese ya mbala mingi esukaka na \"{end}\".",
+      "revealed": "Lisese yango ezali \"{start} {end}.\"",
+      "choicesLabel": "Pona liloba ya suka",
+      "show": "Lakisá suka na yango",
+      "talk": "Bósolola mpo na yango: ",
+      "next": "Lisese elandi"
+    },
+    "wordSearch": {
+      "guidance": "Maloba ezali kotambola na molɔngɔ to na nse. Finá liyetere ya yambo ya liloba, na nsima finá liyetere ya suka.",
+      "restart": "Lisano ya sika",
+      "themeLegend": "Motó ya likambo",
+      "sizeLegend": "Bonene ya etando",
+      "size": {
+        "one": "{n} na {n} (liloba {words})",
+        "other": "{n} na {n} (maloba {words})"
+      },
+      "print": "Bimisa lisano oyo na papye",
+      "letterChosen": "Liyetere {letter} eponami. Sik'oyo finá liyetere ya suka ya liloba.",
+      "found": "{word} emonani.",
+      "foundAll": "{word} emonani. Maloba nyonso emonani sik'oyo. Bóbetela lisusu to bópema mwa moke.",
+      "tryAgain": "Bómipesa ntango. Finá liyetere ya yambo ya liloba, na nsima finá liyetere ya suka.",
+      "gridLabel": "Etando ya balyetere, milɔngɔ {n} ya balyetere {n}. Salelá bafleshe mpo na kotambola na balyetere.",
+      "cell": "{letter}, molɔngɔ {row}, kolone {col}",
+      "cellFound": ", eteni ya liloba oyo emonani",
+      "wordsHeading": "Maloba ya koluka",
+      "wordFound": " (emonani)",
+      "sheetTitle": "Boluki maloba: {theme}",
+      "sheetNote": "Maloba ezali kotambola na molɔngɔ to na nse.",
+      "unavailable": "Etando ya balyetere ebongi te mpo na monɔkɔ oyo, yango wana lisano ya koluka maloba ezali te awa. Bómeka nde masano ya bililingi."
+    },
+    "coloring": {
+      "guidance": "Finá langi moko, na nsima finá eteni ya elilingi.",
+      "restart": "Longolá balangi",
+      "cleared": "Lokasa ezali lisusu mpamba.",
+      "pageLegend": "Lokasa",
+      "print": "Bimisa lokasa oyo na papye",
+      "colorsLabel": "Balangi",
+      "paintChosen": "Langi {paint} eponami.",
+      "painted": "{part} ekomi sik'oyo {paint|lower}.",
+      "artLabel": "{page}, biteni {count} ya kopakola langi",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, epakolami langi te",
+      "paints": {
+        "red": "Motane",
+        "orange": "Lilála",
+        "yellow": "Yelo",
+        "green": "Matiti",
+        "blue": "Ble",
+        "purple": "Violet",
+        "pink": "Rozɛ",
+        "brown": "Chokolá",
+        "sky-blue": "Ble ya likoló",
+        "cream": "Krɛmɛ",
+        "gray": "Putulu",
+        "white": "Mpɛ́mbɛ́"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Bótánga karte na mongongo makasi. Eyano ya mabe ezali te.",
+      "position": "Karte {n} na kati ya {total}",
+      "themeLegend": "Motó ya likambo",
+      "next": "Karte elandi",
+      "previous": "Karte ya liboso",
+      "print": "Bimisa bakarte nyonso na papye",
+      "sheetTitle": "Bakarte ya masolo"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Bándá na kopona bafɔ́tɔ na bino.",
+      "guidance": "Finá fɔ́tɔ moko, na nsima finá oyo ekokani na yango.",
+      "restart": "Búngisa lisusu bisika",
+      "intro": "**Bópona bafɔ́tɔ 2 kino 6** uta na apareyi oyo. Ekomonana kaka na lokasa oyo mpe ekobombama to kotindama epai mosusu te ata moke.",
+      "choose": "Pona bafɔ́tɔ",
+      "chooseDifferent": "Pona bafɔ́tɔ mosusu",
+      "clear": "Longolá bafɔ́tɔ",
+      "cleared": "Bafɔ́tɔ elongolami na lokasa oyo.",
+      "atLeastTwo": "Bóbondela bópona ata bafɔ́tɔ mibale.",
+      "usingFirst": "Tozali kosalela bafɔ́tɔ ya liboso {max}.",
+      "skipped": {
+        "one": "Fisye {count} ezalaki fɔ́tɔ oyo tokoki kolakisa te.",
+        "other": "Bafisye {count} ezalaki bafɔ́tɔ oyo tokoki kolakisa te."
+      },
+      "playAgain": "Bóbetela lisusu na bafɔ́tɔ oyo",
+      "empty": "Bafɔ́tɔ na bino ekomonana awa, mokomoko mbala mibale."
+    },
+    "pictureBingo": {
+      "guidance": "Bimisa bakarte na papye liboso. Na nsima lakisá motángi oyo na ekran ya monene koleka oyo bozali na yango.",
+      "called": {
+        "one": "{name}. Elilingi {called} na kati ya {total} ebengami.",
+        "other": "{name}. Bililingi {called} na kati ya {total} bibengami."
+      },
+      "start": "Finá \"Elilingi elandi\" mpo na kobenga elilingi ya liboso.",
+      "restart": "Banda lisano ya sika",
+      "squaresLegend": "Bakatukatu na karte mokomoko",
+      "squares": "Bakatukatu {n} ({side} na {side})",
+      "cardsLegend": "Motángo ya bakarte ya kobimisa na papye",
+      "cards": {
+        "one": "Karte {n}",
+        "other": "Bakarte {n}"
+      },
+      "print": {
+        "one": "Bimisa karte {n} ya bingo na papye",
+        "other": "Bimisa bakarte {n} ya bingo na papye"
+      },
+      "ready": "Malamu ntango nyonso bolingi",
+      "next": "Elilingi elandi",
+      "allCalled": "Bililingi nyonso bibengami",
+      "alreadyCalled": "Ebengami kala",
+      "sheetTitle": "Bingo ya bililingi · karte {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Benda mpema wana zinga ezali kokola, mpe bimisa mpema wana ezali kokoma moke. Ekotelema yango moko nsima ya kopema mbala motoba.",
+      "paceLegend": "Lolenge ya kopema",
+      "paceSlow": "Malembe (segonde 5 mpo na kokota to kobima)",
+      "paceGentle": "Petee (segonde 4 mpo na kokota to kobima)",
+      "ready": "Omibongisi, tokoki kobanda",
+      "in": "Benda mpema",
+      "hold": "Pema moke",
+      "out": "Bimisa mpema",
+      "start": "Banda",
+      "stop": "Telema",
+      "started": "Ebandi. Benda mpema wana zinga ezali kokola.",
+      "stopped": "Etelemi.",
+      "finished": "Osilisi kopema mbala motoba na malembe. Okoki kobanda lisusu ntango nyonso olingi."
+    }
+  },
+  "pictures": {
+    "teacup": "Kopa ya ti",
+    "kettle": "Buiyare ya mai",
+    "bread": "Lipa ya mobimba",
+    "frying-pan": "Pani na likei",
+    "cake": "Gato ya feti",
+    "sunflower": "Folele ya moi",
+    "tulip": "Tulipe ya motane",
+    "watering-can": "Arowazware ya mai",
+    "potted-plant": "Nzete na nzungu",
+    "tree": "Nzete",
+    "bird": "Ndeke likolo ya etape",
+    "butterfly": "Lipekapeka",
+    "dog": "Mbwa",
+    "cat": "Nyau",
+    "fish": "Mbisi ya wolo",
+    "apple": "Pome ya motane",
+    "pear": "Pire",
+    "strawberry": "Freze",
+    "banana": "Litabe",
+    "lemon": "Ndimo",
+    "cherries": "Bazerize",
+    "house": "Ndako",
+    "lamp": "Mwinda ya mesa",
+    "armchair": "Kiti ya fotei",
+    "key": "Fongola ya kala",
+    "umbrella": "Mongalu",
+    "sailboat": "Masuwa ya mopepe",
+    "car": "Motuka ya kala",
+    "bicycle": "Velo",
+    "balloon": "Balo ya mopepe ya molunge",
+    "lighthouse": "Ndako ya mwinda ya mai",
+    "sun": "Moi",
+    "moon": "Sanza na minzoto",
+    "teapot": "Nzungu ya ti",
+    "apple-pie": "Tarte ya bapome",
+    "honey-jar": "Molangi ya mafuta ya nzoi",
+    "boiled-egg": "Likei na kopo",
+    "toaster": "Masini ya kotumba lipa",
+    "cheese": "Eteni ya fwomaji",
+    "milk-jug": "Kopo ya miliki",
+    "cupcake": "Gato moke",
+    "orange": "Lilala",
+    "grapes": "Rezɛ",
+    "watermelon": "Eteni ya pasteke",
+    "pineapple": "Anana",
+    "peach": "Pɛshɛ",
+    "rose": "Roze",
+    "daisies": "Bafolele ya mikemike",
+    "mushroom": "Liyebo",
+    "wheelbarrow": "Pusetɛ ya bilanga",
+    "birdhouse": "Ndako ya bandeke",
+    "cactus": "Kaktisi na nzungu",
+    "acorn": "Mbuma ya nzete",
+    "autumn-leaf": "Nkasa ya kokauka",
+    "rabbit": "Lapin",
+    "duck": "Kwakwa",
+    "hen": "Nsoso ya mwasi",
+    "sheep": "Mpata",
+    "owl": "Esulungutu",
+    "ladybird": "Kanyama ya mikemike",
+    "snail": "Kolo",
+    "frog": "Chula",
+    "bee": "Nzoi",
+    "clock": "Ngonga ya mesa",
+    "vase-of-flowers": "Vaze ya bafolele",
+    "radio": "Radio ya kala",
+    "books": "Babuku ebele",
+    "candle": "Buji",
+    "glasses": "Mitalatala ya kotanga",
+    "telephone": "Telefoni",
+    "ball-of-wool": "Balo ya nsinga ya lɛnɛ",
+    "straw-hat": "Ekoti ya moi",
+    "train": "Engbunduka ya molinga",
+    "bus": "Bisi",
+    "airplane": "Mpepo",
+    "suitcase": "Valize",
+    "tractor": "Traktere",
+    "rowing-boat": "Bwato ya nkai",
+    "rainbow": "Monama",
+    "rain-cloud": "Lipata ya mbula",
+    "snowflake": "Eteni ya neje",
+    "kite": "Mpepo ya papie",
+    "sunrise": "Kobima ya moi na ngomba"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Mbuma",
+          "words": [
+            "LITABE",
+            "LILALA",
+            "NDIMO",
+            "ANANA",
+            "AVOKA",
+            "PAIPAI",
+            "MANGO",
+            "KOKO",
+            "MBUMA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Elanga",
+          "words": [
+            "FOLELE",
+            "NZETE",
+            "NKASA",
+            "MBOTO",
+            "MABELE",
+            "NZOI",
+            "LIZIBA",
+            "NZELA",
+            "TITI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kuku",
+          "words": [
+            "KOPA",
+            "SANI",
+            "LUTO",
+            "MBELI",
+            "MPAO",
+            "POTI",
+            "SUKALI",
+            "MOTO",
+            "NDUNDA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Mopepe",
+          "words": [
+            "MOI",
+            "MBULA",
+            "LIPATA",
+            "MOPEPE",
+            "MALILI",
+            "NKAKE",
+            "MPELA",
+            "LIKOLO",
+            "TONGO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Banyama",
+          "words": [
+            "MBWA",
+            "NYAU",
+            "NDEKE",
+            "MBISI",
+            "TABA",
+            "NSOSO",
+            "NGOMBE",
+            "MPATA",
+            "NKEMA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ndako",
+          "words": [
+            "KITI",
+            "MBETO",
+            "EKUKI",
+            "MESA",
+            "MWINDA",
+            "LITOKO",
+            "NDAKO",
+            "SALO",
+            "BUKU"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Bakarti nyonso",
+        "food": "Bilei",
+        "home": "Ndako",
+        "outdoors": "Libanda",
+        "animals": "Banyama",
+        "travel": "Mibembo",
+        "work": "Mosala mpe bisengo",
+        "music": "Miziki mpe kosepela",
+        "seasons": "Bieleko ya mobu"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Solo nini ya kuku oyo osepelaka na yango mingi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Gato ya ndenge nini okopona mpo na feti?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Yebisa ngai eloko ya sukali to gato ya mbuma oyo olingaka mingi."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Olingaka komela ti to kafe na yo ndenge nini?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Bilei nini ya tongo esalaka ete mokolo ebanda malamu mpenza?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Osilá kobuka mbuma mbala moko na nzete?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Eloko ya sukali to ya konganga: nini olingaka mingi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Bilei nini ekanisaka yo ntango ya moi makasi?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Yebisa ngai likambo ya ndako moko oyo osepelaki kofanda mpenza."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Esika nini olingaka kofanda mpo na kopema mpe kozala na kimia?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Olingaka kosala nini na mpokwa ya kimia?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Eloko nini ya motuya mingi okoki kobomba na kase ya sipesiali?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Nani okosepela kobenga mpo na komela kopa ya ti elongo?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Osepelaka kosala nini na mokolo oyo mbula ezali konoka?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Bafolele nini okosepela kolona na elanga?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Yebisa ngai likambo ya nzete to esika ya banzete oyo olingaka mingi."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Eloko nini esepelisaka yo koleka ntango ozali na elanga?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Bafolele ya langi nini olingaka mingi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Olingaka kozala na mwa banzete to folele na kati ya ndako?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Mokolo ya moi ya malamu mpenza ezalaka ndenge nini mpo na yo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Yebisa ngai likambo ya mbwa moko oyo oyebaki."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Nyau to mbwa, to ata moko te? Eloko nini esepelisaka yo na bango?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Bandeke nini omonaka to oyokaka na libanda?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Osilá kokende koloba mbisi to kobomba mbisi na akwariome?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Nyama nini ya kitoko mingi oyo osilá komona?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Yebisa ngai likambo ya motuka moko oyo olingaki mingi."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Okosepela kolekisa mokolo na pembeni ya mai to likolo ya ngomba?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Esika nini okosepela kokende kotambola mwa moke?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Soki okokaki kopumbwa likolo ya esika moko, mbele ekozala wapi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Mobembo nini oyo osalaki mpe osepelaki na yango mingi?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Mosala ya ndenge nini osepelaki kosala na bomoi na yo?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Eloko nini ya kosepela oyo okokaki kolekisa bangonga ebele na kosala yango?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Eloko nini bato bayebaki yo mpo na kosala to kobongisa yango?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Toli nini okopesa elenge moko oyo azali kobanda mosala?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Miziki ya ndenge nini etindaka yo kobina to koningisa makolo?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Eloko nini esalaka ete feti ezala ya esengo mpenza?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Moyembi nini osepelaka koyoka nzembo na ye?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Sinema to programɛ nini ya televizyo oyo okosepela kotala lisusu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Eloko nini olingaka mingi na eleko ya moi makasi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Eloko nini esepelisaka yo ntango nkasa ezali kokauka mpe kokwea?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Eloko nini ya esengo okoki kosala na mpokwa ntango malili ezali makasi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Elembo nini ya liboso emonisaka yo ete eleko ya malili esili mpe matiti ezali kobima?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Mbula, malili makasi to moi: nini olingaka mingi koleka?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Folele na nzungu",
+          "regions": {
+            "sky": "Nsima",
+            "table": "Mesa",
+            "stem": "Nzete ya folele",
+            "leaf-left": "Nkasa ya loboko ya mwasi",
+            "leaf-right": "Nkasa ya loboko ya mobali",
+            "petal-1": "Petale 1",
+            "petal-2": "Petale 2",
+            "petal-3": "Petale 3",
+            "petal-4": "Petale 4",
+            "petal-5": "Petale 5",
+            "petal-6": "Petale 6",
+            "petal-7": "Petale 7",
+            "petal-8": "Petale 8",
+            "center": "Kati ya folele",
+            "pot": "Nzungu",
+            "pot-rim": "Mpembeni ya nzungu"
+          }
+        },
+        "house": {
+          "name": "Ndako",
+          "regions": {
+            "sky": "Likolo",
+            "sun": "Moi",
+            "grass": "Matiti",
+            "chimney": "Ebimiseli molinga",
+            "walls": "Bipimbi ya ndako",
+            "roof": "Samba ya ndako",
+            "door": "Ekuki",
+            "window-left": "Fenɛtrɛ ya loboko ya mwasi",
+            "window-right": "Fenɛtrɛ ya loboko ya mobali",
+            "path": "Nzela"
+          }
+        },
+        "teacup": {
+          "name": "Kopa ya ti",
+          "regions": {
+            "background": "Nsima",
+            "saucer": "Sani moke ya kopa",
+            "handle": "Loboko ya kopa",
+            "cup": "Kopa",
+            "band": "Mokoloto na kopa",
+            "tea": "Ti"
+          }
+        },
+        "butterfly": {
+          "name": "Lipekapeka",
+          "regions": {
+            "background": "Nsima",
+            "wing-top-left": "Lipapu ya likolo ya loboko ya mwasi",
+            "wing-top-right": "Lipapu ya likolo ya loboko ya mobali",
+            "wing-bottom-left": "Lipapu ya se ya loboko ya mwasi",
+            "wing-bottom-right": "Lipapu ya se ya loboko ya mobali",
+            "spot-left": "Litono ya lipapu ya loboko ya mwasi",
+            "spot-right": "Litono ya lipapu ya loboko ya mobali",
+            "body": "Nzoto"
+          }
+        },
+        "sailboat": {
+          "name": "Masuwa ya mopepe",
+          "regions": {
+            "sky": "Likolo",
+            "sea": "Ebale monene",
+            "sail-big": "Elamba monene ya mopepe",
+            "sail-small": "Elamba moke ya mopepe",
+            "mast": "Nzete ya masuwa",
+            "hull": "Bwato",
+            "flag": "Bendiere"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kuku mpe elanga",
+          "baskets": [
+            "Na kuku",
+            "Na elanga"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Mbuma na banyama",
+          "baskets": [
+            "Mbuma",
+            "Banyama"
+          ]
+        },
+        "home-travel": {
+          "label": "Ndako na mibembo",
+          "baskets": [
+            "Na ndako",
+            "Na libanda"
+          ]
+        }
+      }
+    }
+  }
+}

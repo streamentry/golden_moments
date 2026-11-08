@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Hlaya hi mpfilo",
+      "stopReading": "Yima ku hlaya",
+      "region": "Masewu",
+      "restart": "Sungula nakambe",
+      "soundOn": "Mintsoro leyi olovaka yi tshameka",
+      "soundOff": "Mintsoro leyi olovaka yi pfariwile",
+      "done": "Se hi hetile namuntlha",
+      "feedbackQuestion": "Xana leswi swi pfunile namuntlha?",
+      "feedbackYes": "Ina",
+      "feedbackNo": "A swi pfuni swinyingi",
+      "feedbackThanks": "Hi khensa ku hi byela."
+    },
+    "tile": {
+      "named": "{name}, tayili {n}",
+      "hidden": "Xifaniso xo fihliwa, tayili {n}",
+      "withState": "{label}, {state}",
+      "matched": "Xi fanana",
+      "selected": "Xi hlawuriwile",
+      "picture": "Xifaniso",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Mapeya hinkwawo ya kumiwe. Tshameka nakambe kumbe u teka ku wisa.",
+      "photoPair": "Pheya ra mifaniso, swi tshame swi ri swin'we.",
+      "picturePair": "Mifaniso mimbirhi ya {name|lower}, swi tshame swi ri swin'we.",
+      "selected": "{name}. Sweswi lavisisa pheya ra xona.",
+      "mismatch": "Teka nkarhi wo tala. Khinsa xifaniso ku ya emahlweni.",
+      "mismatchNamed": "{a} na {b}. Teka nkarhi wo tala. Khinsa xifaniso ku ya emahlweni."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Khinsa xifaniso, kutani khinsa leyi fanaka na xona.",
+      "guidanceHidden": "Khinsa tayili mbirhi u ti hundzulisa. Lavisisa mimbirhi leyi fanaka.",
+      "restart": "Swifaniso swa leswaku",
+      "sizeLegend": "Tayili yo hambana hambana",
+      "size": {
+        "one": "tayili {n}",
+        "other": "tayili {n}"
+      },
+      "viewLegend": "Ndlela yo tshama",
+      "viewShowing": "Swifaniso swi komba",
+      "viewHidden": "Swifaniso swi fihliwe",
+      "playAgain": "Tshameka nakambe hi swifaniso swa leswaku",
+      "talk": "Vulavula hi swifaniso swin'we"
+    },
+    "choose": {
+      "countLegend": "Swifaniso swi nga kanakana",
+      "count": "{n} ku hlawula",
+      "thatOne": "Leyi i ya {name|lower}. Teka nkarhi wo tala."
+    },
+    "findTheSame": {
+      "guidance": "Lavisisa xifaniso xa henhla. Khinsa leyi fanaka laha hansi.",
+      "yes": "Ina, i {name|lower} leyi fanaka.",
+      "next": "Xifaniso xo landzelela"
+    },
+    "shadowMatch": {
+      "guidance": "Lavisisa xivumbeko xa henhla. Khinsa xifaniso lexi xi endlaka xona.",
+      "yes": "Ina, {name|lower} yi endla xivumbeko lexo.",
+      "next": "Xivumbeko xo landzelela",
+      "shadowAlt": "Xivumbeko xo fanana na xifaniso",
+      "foundAlt": "Xivumbeko xa {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Khinsa xifaniso, kutani khinsa basketi leyi xi faneleke eka yona.",
+      "restart": "Swifaniso swa leswaku",
+      "themeLegend": "Nhlokomhaka",
+      "selected": "{name}. Sweswi khinsa basketi leyi xi yaka eka yona.",
+      "pickFirst": "Khinsa xifaniso kutani khinsa basketi.",
+      "hint": "{name|lower} a xi nga ta ya eka \"{basket}\". Khinsa basketi yoleyo ku xi veka kona.",
+      "placed": "{name|lower} i eka \"{basket}\".",
+      "sorted": "Hinkwaswo swi hlamuseriwile. Lavisisa swibasketi swin'we, kumbe ringeta nhlokomhaka yin'wana.",
+      "basket": {
+        "one": "Basketi ya {basket}, xifaniso {count} xi kona",
+        "other": "Basketi ya {basket}, swifaniso {count} swi kona"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Khinsa xinxe rin'we, kutani khinsa rin'wana. Va cinca ndhawu.",
+      "restart": "Hlanganisa nakambe",
+      "pictureLegend": "Xifaniso",
+      "pictures": {
+        "sailboat": "Xikepe",
+        "house": "Yindlu",
+        "balloon": "Bhalune",
+        "sunflower": "Dyambu",
+        "lighthouse": "Xibaxa",
+        "cat": "Katsi"
+      },
+      "sizeLegend": "Tinxinxe",
+      "size": {
+        "one": "xinxe {n}",
+        "other": "tinxinxe {n}"
+      },
+      "pickedUp": "Xinxe xi tekiwile. Sweswi khinsa laha xi faneleke ku ya kona.",
+      "whole": "{name|lower} yi hlanganile nakambe. Hlawula xifaniso xin'wana loko u lava.",
+      "swapped": {
+        "one": "Va cinca. {correct} ya {total} yi eka ndhawu ya yona.",
+        "other": "Va cinca. {correct} ya {total} ti eka ndhawu ya tona."
+      },
+      "guideAlt": "Xifaniso hinkwaxo: {name}",
+      "guideText": "Xifaniso xi tano loko xi hlanganile.",
+      "piece": "Xinxe laha {place}",
+      "pieceInPlace": ", eka ndhawu ya xona",
+      "piecePickedUp": ", xi tekiwile",
+      "places4": [
+        "henhla ximatsi",
+        "henhla xinene",
+        "hansi ximatsi",
+        "hansi xinene"
+      ],
+      "places9": [
+        "henhla ximatsi",
+        "henhla exikarhi",
+        "henhla xinene",
+        "exikarhi ximatsi",
+        "exikarhi",
+        "exikarhi xinene",
+        "hansi ximatsi",
+        "hansi exikarhi",
+        "hansi xinene"
+      ],
+      "done": "Xifaniso xi hlanganile nakambe. Tshameka nakambe kumbe teka ku wisa.",
+      "playAgain": "Hlanganisa nakambe"
+    },
+    "finishTheSaying": {
+      "guidance": "Hlaya rito ra vanhu swin'we, kutani khinsa rito leri ri hetisaka rona.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ina, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" na yona yi fanele. Rito leri tlangiweke hi ro sungula i \"{end}\".",
+      "revealed": "Rito ra vanhu i \"{start} {end}.\"",
+      "choicesLabel": "Hlawula rito ra makumu",
+      "show": "Komba makumu",
+      "talk": "Vulavula hi yona: ",
+      "next": "Rito ra vanhu leri landzelaka"
+    },
+    "wordSearch": {
+      "guidance": "Marito ya famba ehenhla kumbe ehansi. Khinsa xihlovo xo sungula ra rito, kutani xo hetelela.",
+      "restart": "Puzzle yo sha",
+      "themeLegend": "Nhlokomhaka",
+      "sizeLegend": "Vukulu bya gridi",
+      "size": {
+        "one": "{n} hi {n} ({words} rito)",
+        "other": "{n} hi {n} ({words} marito)"
+      },
+      "print": "Printa puzzle leyi",
+      "letterChosen": "Xihlovo {letter} xi hlawuriwile. Sweswi khinsa xihlovo xo hetelela ra rito.",
+      "found": "{word} yi kumiwile.",
+      "foundAll": "{word} yi kumiwile. Hinkwaswo swi kumiwile. Tshameka nakambe kumbe teka ku wisa.",
+      "tryAgain": "Teka nkarhi wo tala. Khinsa xihlovo xo sungula ra rito, kutani xo hetelela.",
+      "gridLabel": "Gridi ya tihlovo, mizuku {n} ya tihlovo {n}. Tirhisa tinhompfu ta mimpfi ku famba exihlovweni xin'wana na xin'wana.",
+      "cell": "{letter}, murhi {row}, kholomu {col}",
+      "cellFound": ", xiphemu xa rito leri kumiweke",
+      "wordsHeading": "Marito ya ku lavisisa",
+      "wordFound": " (yi kumiwile)",
+      "sheetTitle": "Ku lavisisa marito: {theme}",
+      "sheetNote": "Marito ya famba ehenhla kumbe ehansi.",
+      "unavailable": "Gridi ya tihlovo a yi fanelani na ririmi leri, hikokwalo ku lavisisa marito a ku nyikiwi laha. Ringeta swimasewu swa swifaniso swa laha."
+    },
+    "coloring": {
+      "guidance": "Khinsa mpfhuka, kutani khinsa xiphemu xa xifaniso.",
+      "restart": "Susa mipfhuka",
+      "cleared": "Pheji yi tshame yi tshembe nakambe.",
+      "pageLegend": "Pheji",
+      "print": "Printa pheji leyi",
+      "colorsLabel": "Mipfhuka",
+      "paintChosen": "{paint} yi hlawuriwile.",
+      "painted": "{part} sweswi i {paint|lower}.",
+      "artLabel": "{page}, tinxenye ta {count} ta ku pendiwa",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, a yi pendiwanga",
+      "paints": {
+        "red": "Rhoxo",
+        "orange": "Orenji",
+        "yellow": "Yeloyi",
+        "green": "Hlaza",
+        "blue": "Bulu",
+        "purple": "Pepule",
+        "pink": "Pinki",
+        "brown": "Brawuni",
+        "sky-blue": "Bulu ya tilo",
+        "cream": "Krimu",
+        "gray": "Gire",
+        "white": "Nyeleti"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Hlaya khadi hi mantlha. A ku na tinhlamuselo leti nga ni ntsena.",
+      "position": "Khadi {n} ya {total}",
+      "themeLegend": "Nhlokomhaka",
+      "next": "Khadi leri landzelaka",
+      "previous": "Khadi leri nga emahlweni",
+      "print": "Printa makhadi hinkwawo",
+      "sheetTitle": "Makhadi ya ku vulavula"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Sungula hi ku hlawula mifaniso ya wena.",
+      "guidance": "Khinsa foto, kutani khinsa leyi yi fanaka na yona.",
+      "restart": "Hlanganisa nakambe",
+      "intro": "**Hlawula mifaniso ya 2 ku fika ya 6** eka xitirhisiwa lexi. Yi kombisiwa laha ntsena, a yi rhwexiwi kumbe yi hlayisiwa.",
+      "choose": "Hlawula mifaniso",
+      "chooseDifferent": "Hlawula mifaniso yin'wana",
+      "clear": "Susa mifaniso",
+      "cleared": "Mifaniso yi susiwile eka pheji leyi.",
+      "atLeastTwo": "Hi kombela u hlawula mifaniso ya mbirhi hi ntsena.",
+      "usingFirst": "Ku tirhisiwa mifaniso ya {max} yo sungula.",
+      "skipped": {
+        "one": "Fayili {count} a yi ri foto leyi hi nga kwetsimeleni ku yi komba.",
+        "other": "Mafayili {count} a ma ri mafoto lama hi nga kwetsimeleni ku ma komba."
+      },
+      "playAgain": "Tshameka nakambe hi mifaniso leyi",
+      "empty": "Mifaniso ya wena yi ta humelela laha, yin'wana na yin'wana yi ri mbirhi."
+    },
+    "pictureBingo": {
+      "guidance": "Printa makhadi ku sungula. Kutani komba muvitari leyi eskirini leri kulu swinene leri u nga na rona.",
+      "called": {
+        "one": "{name}. Xifaniso xi vitaniwile {called} ya {total}.",
+        "other": "{name}. Swifaniso swi vitaniwile {called} ya {total}."
+      },
+      "start": "Khinsa \"Xifaniso xo landzelela\" ku vitana xifaniso xo sungula.",
+      "restart": "Sungula ntlawa wo sha",
+      "squaresLegend": "Tinxaxa eka khadi ngopfu",
+      "squares": "tinxaxa {n} ({side} hi {side})",
+      "cardsLegend": "Makhadi ya ku printa yo tala",
+      "cards": {
+        "one": "khadi {n}",
+        "other": "makhadi {n}"
+      },
+      "print": {
+        "one": "Printa khadi ya bingo {n}",
+        "other": "Printa makhadi ya bingo {n}"
+      },
+      "ready": "Hi ku lulamile loko u lulamile",
+      "next": "Xifaniso xo landzelela",
+      "allCalled": "Swifaniso hinkwaswo swi vitaniwile",
+      "alreadyCalled": "Se yi vitaniwile",
+      "sheetTitle": "Bingo ya swifaniso · khadi {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Hefemula loko xikhwama xi kula, u hefemula kutlula loko xi tsakama. Xi ta yima hi xona endzhaku ka mihefemulo ya tsevu.",
+      "paceLegend": "Xiyimo xa ku hefemula",
+      "paceSlow": "Kakan'wana (ka timbirhi kwala ngun'wana na ngun'wana)",
+      "paceGentle": "Hi ku olova (ka mune kwala ngun'wana na ngun'wana)",
+      "ready": "Hi lunghele loko u lulamile",
+      "in": "Hefemula",
+      "hold": "Phumula",
+      "out": "Hefemula kutlula",
+      "start": "Sungula",
+      "stop": "Yima",
+      "started": "Ku sungurile. Hefemula loko xikhwama xi kula.",
+      "stopped": "Ku yimile.",
+      "finished": "Lowu a ku ri mihefemulo ya tsevu leyi nyaka. Sungula nakambe loko u lava."
+    }
+  },
+  "pictures": {
+    "teacup": "Xikopo xa ti",
+    "kettle": "Ketile",
+    "bread": "Xinkwa",
+    "frying-pan": "Pani yo frya ni mahanyi",
+    "cake": "Keke ya siku ra ku velekiwa",
+    "sunflower": "Muluvha wa dyambu",
+    "tulip": "Tulipe yo tshuka",
+    "watering-can": "Bikana ra mati",
+    "potted-plant": "Muti wa ka potu",
+    "tree": "Muti",
+    "bird": "Nyuni ya ntsuvu enthanyini",
+    "butterfly": "Bhatafelayi",
+    "dog": "Mbwa",
+    "cat": "Katsi",
+    "fish": "Hlampfi",
+    "apple": "Apula yo tshuka",
+    "pear": "Pere",
+    "strawberry": "Sitirobheri",
+    "banana": "Banana",
+    "lemon": "Lemoni",
+    "cherries": "Tshereji",
+    "house": "Yindlu",
+    "lamp": "Lamphe ya tafula",
+    "armchair": "Setulo ro etlela",
+    "key": "Kiyi ya khale",
+    "umbrella": "Ambrela",
+    "sailboat": "Boti ya mafurho",
+    "car": "Movha wa khale",
+    "bicycle": "Baisikele",
+    "balloon": "Bhaluni ya moya",
+    "lighthouse": "Lighthouse ya lwandle",
+    "sun": "Dyambu",
+    "moon": "Nyanga na tinyeleti",
+    "teapot": "Tiphoti",
+    "apple-pie": "Pai ya apula",
+    "honey-jar": "Potu ya masi",
+    "boiled-egg": "Mahanyi lama bilaka eka kopo",
+    "toaster": "Tositara",
+    "cheese": "Xiphepho xa tshizi",
+    "milk-jug": "Jagi ya mafasi",
+    "cupcake": "Kapukeki",
+    "orange": "Orenji",
+    "grapes": "Xitshuhu xa magrepe",
+    "watermelon": "Xiphepho xa mavhudzu",
+    "pineapple": "Phayinapulo",
+    "peach": "Pitshi",
+    "rose": "Rhozi",
+    "daisies": "Madesi",
+    "mushroom": "Nkowa",
+    "wheelbarrow": "Vhili ra ku rhwala",
+    "birdhouse": "Yindlu ya nyuni",
+    "cactus": "Kaktusi ka ka potu",
+    "acorn": "Nhovo ya muti wa oki",
+    "autumn-leaf": "Luvha ro wa ehlobo",
+    "rabbit": "Hlave",
+    "duck": "Dakwa",
+    "hen": "Nkuku",
+    "sheep": "Nyimpfu",
+    "owl": "Nkwahla",
+    "ladybird": "Nkuku wa ntondzo",
+    "snail": "Ndzedze",
+    "frog": "Xikwembu xa mati",
+    "bee": "Nyosi",
+    "clock": "Kloko ya le ndzhuti",
+    "vase-of-flowers": "Vhazi ya tiluvha",
+    "radio": "Radiyo ya khale",
+    "books": "Tibuku ta tiko",
+    "candle": "Kandela",
+    "glasses": "Magalasi yo hlaya",
+    "telephone": "Ntelefona",
+    "ball-of-wool": "Bola ya volo",
+    "straw-hat": "Hati ya ku fisa dyambu",
+    "train": "Xitimela xa mhandzi",
+    "bus": "Bazi",
+    "airplane": "Ndzhovo",
+    "suitcase": "Sutikesi",
+    "tractor": "Tirakitara",
+    "rowing-boat": "Boti ya ku chela",
+    "rainbow": "Nyanga wa mpfula",
+    "rain-cloud": "Gova ra mpfula",
+    "snowflake": "Xinyuvu xa snow",
+    "kite": "Kaiti",
+    "sunrise": "Ku vuka ka dyambu ehenhla ka tintshava"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Mihandzu",
+          "words": [
+            "APULA",
+            "PERE",
+            "LEMONI",
+            "ORENJI",
+            "BANANA",
+            "GUAVA",
+            "MELON",
+            "PAPAYA",
+            "TOMATO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Munda",
+          "words": [
+            "ROSE",
+            "TULIP",
+            "MUTI",
+            "LUVHA",
+            "MBEWU",
+            "DAISY",
+            "BLOMA",
+            "MATI",
+            "NYOSI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Khitchini",
+          "words": [
+            "KOPO",
+            "SPUNI",
+            "BREDI",
+            "PANI",
+            "BOLO",
+            "PLATI",
+            "TEYI",
+            "OVENI",
+            "FOLOKO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Moya",
+          "words": [
+            "DYAMBU",
+            "MPFULA",
+            "SNOW",
+            "MOYA",
+            "STORM",
+            "FOG",
+            "CLOUD",
+            "TILO",
+            "MULILO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Swiharhi",
+          "words": [
+            "MBWA",
+            "KATI",
+            "NYUNI",
+            "FISH",
+            "HOSI",
+            "HOMU",
+            "DAKI",
+            "NKUKU",
+            "NDLOVU"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Kaya",
+          "words": [
+            "MBHOKO",
+            "SETULO",
+            "LAMPE",
+            "BEDI",
+            "KAPETI",
+            "SOFA",
+            "KLOKO",
+            "DESKI",
+            "KIYI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Makhadi hinkwawo",
+        "food": "Swakudya",
+        "home": "Kaya",
+        "outdoors": "Ehandle",
+        "animals": "Swiharhi",
+        "travel": "Ku fambisa",
+        "work": "Ntirho ni swo tsakisa",
+        "music": "Mimbhoyo ni ntsako",
+        "seasons": "Minkarhi ya lembe"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Hi nhlamuselo yihi ya khitchini leyi u yi tsakelaka swinene?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Xana keke yihi leyi u yi hlawulaka eka ntsako wo tlhela?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Vulavula hi pai kumbe swakudya swa mihandzu leswi u swi rhandzaka."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "U rhandza ti kumbe kofi hi ndlela yihi?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Chavelelo leri nandziha hi ndlela yihi?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Xana u kile u hlaya mihandzu kusuka ehenhla ka muti?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Ku nandziha kumbe ku tsuma: xihi lexi u xi rhandzaka ku tlula?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Xihi xakudya lexi nunhetaka ehlobo eka wena?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Vulavula hi yindlu leyi u yi rhandzeke ku tshama eka yona."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Hi kwihi laha u rhandzaka ku tshama u phumula kona?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "U rhandza ku endla yini ka madyambu ya nyama ya vusiku?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Xihi xuma xa nkateko lexi u nga xi hlayisaka ebokisini ya xona?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "U nga tsakela ku vitana mani eka ti ka mixe?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "U rhandza ku endla yini ka siku ra mpfula?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "U nga byala tiluvha tihi emunda?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Vulavula hi muti kumbe pakeni leyi u yi rhandzaka."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Xihi xa xinene swinene xa ku va emunda?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Tiluvha leti rhandzaka swinene i ti yini?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "U tsakela ku va ni tihuku ekaya?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Siku ro ka ro dyambu ri nga ntiyiso ri vonaka njhani eka wena?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Vulavula hi mbwa leyi u yi tivaka."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katsi kumbe mbwa, kumbe ku nga ri ko? Xana u tsakela yini hi tona?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Nyuni tihi leti u ti vonaka kumbe u ti yingiserisaka handle?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Xana u kile u famba u ya khuvuka kumbe u hlayisa hlampfi ka tanka?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Xibumba xihi lexi nga ntiyiso xi tshwukaka laha u kambisiseke kona?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Vulavula hi movha lowu u wu tsakelaka."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "U rhandza ku tshama siku hinkwaro emahlweni ka lwandle kumbe e tintshaveni?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "U rhandza ku ya kwihi loko u khwela baisikele?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Loko u nga kota ku famba hi bhaluni, u ta ya kwihi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Vulavula hi rendzo leri u ri tsakeleke."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Ntirho wihi lowu u wu tsakeleke ku wu endla?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ntirho wa tintsimu wihi lowu u nga wu endlaka tiawara to tala?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Xihi xa swona lexi u tivekaka ha xona loko u endla kumbe u lulamisa?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "U nga nyika xitsundzuxo yihi nhwanyana kumbe nwana loyi a sungula ntirho?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Mimbhoyo yihi leyi u yi endlaka u tlhela u tsakela ku tlhela ku hambana?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Xihi xa swinene xa phathi?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Mimbhoyo yihi leyi u yi tsakelaka?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Nhlamuselo yihi kumbe ndzhuti wo tsakisa lowu u tlhelaka u wu languta?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Xana u tsakela yini swinene hi ehlobo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "U tsakela yini hi tlhelo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Xihi xinene lexi nga ku titiva eka madyambu ya vusiku ya xixika?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Swikombiso swa ntsombo swa xirhendzevutana eka wena i swihi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Ntsovo, mpfula kumbe dyambu: xihi lexi u xi rhandzaka ku tlula?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Muluvha ka potu",
+          "regions": {
+            "sky": "Mahlweni",
+            "table": "Tafula",
+            "stem": "Nkoti",
+            "leaf-left": "Luvha ra le xinene",
+            "leaf-right": "Luvha ra le xilo",
+            "petal-1": "Phetla 1",
+            "petal-2": "Phetla 2",
+            "petal-3": "Phetla 3",
+            "petal-4": "Phetla 4",
+            "petal-5": "Phetla 5",
+            "petal-6": "Phetla 6",
+            "petal-7": "Phetla 7",
+            "petal-8": "Phetla 8",
+            "center": "Xikandza xa muluvha",
+            "pot": "Potu",
+            "pot-rim": "Mpfhuka wa potu"
+          }
+        },
+        "house": {
+          "name": "Yindlu",
+          "regions": {
+            "sky": "Tintshava",
+            "sun": "Dyambu",
+            "grass": "Mbyana",
+            "chimney": "Nkongolo",
+            "walls": "Tinhlanga",
+            "roof": "Hlonga",
+            "door": "Mbhoko",
+            "window-left": "Fasitere ra le xinene",
+            "window-right": "Fasitere ra le xilo",
+            "path": "Nkambo"
+          }
+        },
+        "teacup": {
+          "name": "Xikopo xa ti",
+          "regions": {
+            "background": "Mahlweni",
+            "saucer": "Xiphanana",
+            "handle": "Xiphatlo",
+            "cup": "Xikopo",
+            "band": "Tinhlawuri eka xikopo",
+            "tea": "Ti"
+          }
+        },
+        "butterfly": {
+          "name": "Bhatafelayi",
+          "regions": {
+            "background": "Mahlweni",
+            "wing-top-left": "Liphiko ra le xinene ehenhla",
+            "wing-top-right": "Liphiko ra le xilo ehenhla",
+            "wing-bottom-left": "Liphiko ra le xinene ehansi",
+            "wing-bottom-right": "Liphiko ra le xilo ehansi",
+            "spot-left": "Xibonakalo xa liphiko ra le xinene",
+            "spot-right": "Xibonakalo xa liphiko ra le xilo",
+            "body": "Miri"
+          }
+        },
+        "sailboat": {
+          "name": "Boti ya mafurho",
+          "regions": {
+            "sky": "Tintshava",
+            "sea": "Lwandle",
+            "sail-big": "Mafurho lamakulu",
+            "sail-small": "Mafurho lamatsongo",
+            "mast": "Nkoti wa boti",
+            "hull": "Boti",
+            "flag": "Bendera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Khitchini ni munda",
+          "baskets": [
+            "Ekhitshini",
+            "Exikarhini"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Mihandzu ni swiharhi",
+          "baskets": [
+            "Mihandzu",
+            "Swiharhi"
+          ]
+        },
+        "home-travel": {
+          "label": "Ekaya ni rendzo",
+          "baskets": [
+            "Ekaya",
+            "Ehandle"
+          ]
+        }
+      }
+    }
+  }
+}

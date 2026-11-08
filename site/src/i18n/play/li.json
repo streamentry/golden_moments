@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Veurleze",
+      "stopReading": "Sjtoeppe mit veurleze",
+      "region": "Sjpel",
+      "restart": "Opnuuj beginne",
+      "soundOn": "Zachte geluide aan",
+      "soundOff": "Zachte geluide oet",
+      "done": "Klaor veur noe",
+      "feedbackQuestion": "Haet dit vandaag geholpe?",
+      "feedbackYes": "Jao",
+      "feedbackNo": "Neet ech",
+      "feedbackThanks": "Bedank veur 't laote weite."
+    },
+    "tile": {
+      "named": "{name}, tegel {n}",
+      "hidden": "Verstopt plaetje, tegel {n}",
+      "withState": "{label}, {state}",
+      "matched": "Gevonge paar",
+      "selected": "Gekoze",
+      "picture": "Plaetje",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Alle paore biejein. Sjpel gerös nog 'ns of num 'n pauze.",
+      "photoPair": "'n Paar foto's, biejein.",
+      "picturePair": "Twie plaetjes van de {name|lower}, biejein.",
+      "selected": "{name}. Zeuk noe 't passende plaetje.",
+      "mismatch": "Num uch d'n tied. Tik op e plaetje óm wiejer te gaon.",
+      "mismatchNamed": "{a} en {b}. Num uch d'n tied. Tik op e plaetje óm wiejer te gaon."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tik op e plaetje en tik den op 't plaetje det 'tzelvde is.",
+      "guidanceHidden": "Tik op twie tegels óm ze óm te drejje. Zeuk d'r twie die 'tzelvde zeen.",
+      "restart": "Nuuj plaetjes",
+      "sizeLegend": "Wieväöl tegels",
+      "size": {
+        "one": "{n} tegel",
+        "other": "{n} tegels"
+      },
+      "viewLegend": "Wie te sjpelle",
+      "viewShowing": "Plaetjes zichbaar",
+      "viewHidden": "Verstopte plaetjes",
+      "playAgain": "Opnuuj sjpelle mit nuuj plaetjes",
+      "talk": "Kald tezaam euver de plaetjes"
+    },
+    "choose": {
+      "countLegend": "Wieväöl plaetjes",
+      "count": "{n} óm oet te keze",
+      "thatOne": "Det is de {name|lower}. Num uch gerös d'n tied."
+    },
+    "findTheSame": {
+      "guidance": "Kiek nao 't baoveste plaetje. Tik ónger op 'tzelvde plaetje.",
+      "yes": "Jao, dezelvde {name|lower}.",
+      "next": "Volgend plaetje"
+    },
+    "shadowMatch": {
+      "guidance": "Kiek nao de sjeem baovenaan. Tik op 't plaetje det bie die sjeem heurt.",
+      "yes": "Jao, de {name|lower} heurt bie die sjeem.",
+      "next": "Volgende sjeem",
+      "shadowAlt": "'n Sjeem óm te vergelieke",
+      "foundAlt": "De sjeem van de {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tik op e plaetje en tik den op 't mandje wo 't in heurt.",
+      "restart": "Nuuj plaetjes",
+      "themeLegend": "Thema",
+      "selected": "{name}. Tik noe op 't mandje wo 't in geit.",
+      "pickFirst": "Tik eësj op e plaetje en den op e mandje.",
+      "hint": "De {name|lower} pas in \"{basket}\". Tik op det mandje óm 'm d'rin te zètte.",
+      "placed": "De {name|lower} zit in \"{basket}\".",
+      "sorted": "Alles is gesorteerd. Kiek tezaam nao de mendjes, of prober e anger thema.",
+      "basket": {
+        "one": "Mandje \"{basket}\", {count} plaetje d'rin",
+        "other": "Mandje \"{basket}\", {count} plaetjes d'rin"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tik op ein sjtökske en den op 'n anger. Ze wissele van plaats.",
+      "restart": "Opnuuj doorerein sjödden",
+      "pictureLegend": "Plaetje",
+      "pictures": {
+        "sailboat": "Zeilboot",
+        "house": "Hoes",
+        "balloon": "Lochballon",
+        "sunflower": "Zonnebloom",
+        "lighthouse": "Vuurtaore",
+        "cat": "Kat"
+      },
+      "sizeLegend": "Sjtökskes",
+      "size": {
+        "one": "{n} sjtökske",
+        "other": "{n} sjtökskes"
+      },
+      "pickedUp": "Sjtökske gepak. Tik noe wo 't haer mót.",
+      "whole": "De {name|lower} is weer compleet. Kees gerös e anger plaetje es geer wilt.",
+      "swapped": {
+        "one": "Gewisseld. {correct} van 't {total} sjtökske ligk op zien plaats.",
+        "other": "Gewisseld. {correct} van de {total} sjtökskes ligke op hun plaats."
+      },
+      "guideAlt": "'t Heele plaetje: {name}",
+      "guideText": "Zoe zuut 't plaetje d'roet es 't compleet is.",
+      "piece": "Sjtökske {place}",
+      "pieceInPlace": ", op de gooie plaats",
+      "piecePickedUp": ", vasgepak",
+      "places4": [
+        "linksbaove",
+        "rechsbaove",
+        "linkssónger",
+        "rechssónger"
+      ],
+      "places9": [
+        "linksbaove",
+        "middebaove",
+        "rechsbaove",
+        "links in de midde",
+        "in de midde",
+        "rechs in de midde",
+        "linkssónger",
+        "middesónger",
+        "rechssónger"
+      ],
+      "done": "'t Plaetje is weer compleet. Sjpel gerös wiejer of num 'n pauze.",
+      "playAgain": "Opnuuj doorerein sjödden"
+    },
+    "finishTheSaying": {
+      "guidance": "Lees de oetdrökking tezaam en tik op 't waord det 'm aafmaak.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Jao, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" pas ouch. De gewoene oetdrökking eindig op \"{end}\".",
+      "revealed": "De oetdrökking is \"{start} {end}.\"",
+      "choicesLabel": "Kees 't litste waord",
+      "show": "Laot 't inj zeen",
+      "talk": "Kald d'reuver: ",
+      "next": "Volgende oetdrökking"
+    },
+    "wordSearch": {
+      "guidance": "Wäörd loupe horizontaal of verticaal. Tik op de eësjte lètter van e waord en den op de litste.",
+      "restart": "Nuuj puzzel",
+      "themeLegend": "Thema",
+      "sizeLegend": "Gruutde van 't rooster",
+      "size": {
+        "one": "{n} bie {n} ({words} waord)",
+        "other": "{n} bie {n} ({words} wäörd)"
+      },
+      "print": "Druk dees puzzel aaf",
+      "letterChosen": "Lètter {letter} gekoze. Tik noe op de litste lètter van 't waord.",
+      "found": "{word} gevonge.",
+      "foundAll": "{word} gevonge. Det wore alle wäörd. Sjpel gerös wiejer of num 'n pauze.",
+      "tryAgain": "Num uch d'n tied. Tik op de eësjte lètter van e waord en den op de litste.",
+      "gridLabel": "Lètterrooster, {n} rieje van {n} lètters. Gebroek de pielkestoetse óm tösse de lètters te bewaege.",
+      "cell": "{letter}, riej {row}, kolom {col}",
+      "cellFound": ", deil van e gevonge waord",
+      "wordsHeading": "Wäörd óm te zeuke",
+      "wordFound": " (gevonge)",
+      "sheetTitle": "Waordzeuker: {theme}",
+      "sheetNote": "Wäörd loupe horizontaal of verticaal.",
+      "unavailable": "E lètterrooster pas neet good bie dees taal, daoróm is de waordzeuker hiej neet besjikbaar. Prober gerös de anger plaetjessjpelkes."
+    },
+    "coloring": {
+      "guidance": "Tik op 'n kleur en tik den op e deil van 't plaetje.",
+      "restart": "Kleure wisse",
+      "cleared": "De pagina is weer laeg.",
+      "pageLegend": "Pagina",
+      "print": "Druk dees pagina aaf",
+      "colorsLabel": "Kleure",
+      "paintChosen": "{paint} gekoze.",
+      "painted": "{part} is noe {paint|lower}.",
+      "artLabel": "{page}, {count} deiler óm te kleure",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, nog neet gekleurd",
+      "paints": {
+        "red": "Roed",
+        "orange": "Oranje",
+        "yellow": "Gael",
+        "green": "Greun",
+        "blue": "Blauw",
+        "purple": "Paars",
+        "pink": "Roze",
+        "brown": "Broen",
+        "sky-blue": "Hiemelsblauw",
+        "cream": "Crème",
+        "gray": "Gries",
+        "white": "Wit"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lees 't keertsje helop veur. D'r zeen gein foute antwäörd.",
+      "position": "Keertsje {n} van {total}",
+      "themeLegend": "Thema",
+      "next": "Volgend keertsje",
+      "previous": "Veurig keertsje",
+      "print": "Druk alle keertsjes aaf",
+      "sheetTitle": "Gesjprekskeertsjes"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Begin mit 't oetzeuke van dien foto's.",
+      "guidance": "Tik op 'n foto en tik den op de foto die 'tzelvde is.",
+      "restart": "Opnuuj doorerein sjödden",
+      "intro": "**Kees 2 wies 6 foto's** van dit apparaat. Ze waere allein op dees pagina getuind en waere noets geüpload of opgesjlage.",
+      "choose": "Kees foto's",
+      "chooseDifferent": "Kees anger foto's",
+      "clear": "Foto's wisse",
+      "cleared": "Foto's van dees pagina gewis.",
+      "atLeastTwo": "Kees estebleef minstes twie foto's.",
+      "usingFirst": "Allein de eësjte {max} foto's waere gebroek.",
+      "skipped": {
+        "one": "{count} besjtand waor gein foto die v'r kinne tuine.",
+        "other": "{count} besjtande wore gein foto's die v'r kinne tuine."
+      },
+      "playAgain": "Opnuuj sjpelle mit dees foto's",
+      "empty": "Uch foto's versjiene hiej, ederein twie kier."
+    },
+    "pictureBingo": {
+      "guidance": "Druk eësj de kaarte aaf. Tuin den dezen omroper op 't grótste sjerm det geer hubt.",
+      "called": {
+        "one": "{name}. {called} van 't {total} plaetje geneump.",
+        "other": "{name}. {called} van de {total} plaetjes geneump."
+      },
+      "start": "Tik op \"Volgend plaetje\" óm 't eësjte plaetje te neume.",
+      "restart": "Nuuj sjpel beginne",
+      "squaresLegend": "Vekskes op eder kaart",
+      "squares": "{n} vekskes ({side} bie {side})",
+      "cardsLegend": "Wieväöl kaarte aaf te drukke",
+      "cards": {
+        "one": "{n} kaart",
+        "other": "{n} kaarte"
+      },
+      "print": {
+        "one": "Druk {n} bingokaart aaf",
+        "other": "Druk {n} bingokaarte aaf"
+      },
+      "ready": "Klaor veur te beginne",
+      "next": "Volgend plaetje",
+      "allCalled": "Eder plaetje is geneump",
+      "alreadyCalled": "Al geneump",
+      "sheetTitle": "Plaetjesbingo · kaart {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Aom in wie de krink greujt, en oet wie hae weer kleiner weurt. Nao zès aomhaolinge sjtop 't vanzelf.",
+      "paceLegend": "Tempo",
+      "paceSlow": "Röstig (5 seconde de kantj op)",
+      "paceGentle": "Zjach (4 seconde de kantj op)",
+      "ready": "Klaor wienie geer d'r klaor veur zeet",
+      "in": "Aom in",
+      "hold": "Rös",
+      "out": "Aom oet",
+      "start": "Begin",
+      "stop": "Sjtop",
+      "started": "Begós. Aom in wie de krink greujt.",
+      "stopped": "Gesjtopt.",
+      "finished": "Det waore zès röstige aomhaolinge. Geer kint weer beginne wienie geer wilt."
+    }
+  },
+  "pictures": {
+    "teacup": "Theekopke",
+    "kettle": "Waterkaetel",
+    "bread": "Broad",
+    "frying-pan": "Pan mit 'n ei",
+    "cake": "Taart",
+    "sunflower": "Zonnebloom",
+    "tulip": "Tulp, roed",
+    "watering-can": "Geeter",
+    "potted-plant": "Plaant in 'ne pót",
+    "tree": "Boum",
+    "bird": "Roodbeursjke op 'nen tak",
+    "butterfly": "Vlinder",
+    "dog": "Hóndj",
+    "cat": "Kat",
+    "fish": "Goudvis",
+    "apple": "Appel, roed",
+    "pear": "Paer",
+    "strawberry": "Aerzjebei",
+    "banana": "Banaan",
+    "lemon": "Citroen",
+    "cherries": "Kaersje",
+    "house": "Hoes",
+    "lamp": "Taafellamp",
+    "armchair": "Fauteuil",
+    "key": "Sjleutel, aad",
+    "umbrella": "Paraplu",
+    "sailboat": "Zeilbaot",
+    "car": "Oldtimer auto",
+    "bicycle": "Fiets",
+    "balloon": "Lochballon",
+    "lighthouse": "Vuurtaore",
+    "sun": "Zon",
+    "moon": "Maon en sjterre",
+    "teapot": "Theepot",
+    "apple-pie": "Appelvlaai",
+    "honey-jar": "Pót honing",
+    "boiled-egg": "Ei in 'n eierdopke",
+    "toaster": "Broodrooster",
+    "cheese": "Sjtök kieës",
+    "milk-jug": "Mèlkkan",
+    "cupcake": "Cupcake",
+    "orange": "Sinasappel",
+    "grapes": "Tros droeve",
+    "watermelon": "Sjief watermeloen",
+    "pineapple": "Ananas",
+    "peach": "Pierik",
+    "rose": "Roos",
+    "daisies": "Madeliefkes",
+    "mushroom": "Paddesjtool",
+    "wheelbarrow": "Kroodkaar",
+    "birdhouse": "Vogelhuuske",
+    "cactus": "Cactus in 'ne pót",
+    "acorn": "Eikel",
+    "autumn-leaf": "Herfsblaad",
+    "rabbit": "Konien",
+    "duck": "Aensj",
+    "hen": "Hoor",
+    "sheep": "Sjaop",
+    "owl": "Uul",
+    "ladybird": "Ulezeikske",
+    "snail": "Sjlek",
+    "frog": "Kikkert",
+    "bee": "Bie",
+    "clock": "Sjouwklok",
+    "vase-of-flowers": "Vaas mit blome",
+    "radio": "Radio, aad model",
+    "books": "Sjtapel beuk",
+    "candle": "Kaars",
+    "glasses": "Leesbril",
+    "telephone": "Tillefoon",
+    "ball-of-wool": "Bol wol",
+    "straw-hat": "Zonnehoud",
+    "train": "Sjtoumtrein",
+    "bus": "Bös",
+    "airplane": "Vleegmesjien",
+    "suitcase": "Koffer",
+    "tractor": "Tractor",
+    "rowing-boat": "Reeibaot",
+    "rainbow": "Regebäög",
+    "rain-cloud": "Regenwolk",
+    "snowflake": "Sjnieëvlok",
+    "kite": "Vleger",
+    "sunrise": "Zonsopgank baove de heuvels"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruit",
+          "words": [
+            "APPEL",
+            "PAER",
+            "PRUUM",
+            "BANAAN",
+            "VIEG",
+            "MELOEN",
+            "KAERS",
+            "DROOF",
+            "PIERIK"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Gaard",
+          "words": [
+            "ROOS",
+            "TULP",
+            "ZAOD",
+            "AARDE",
+            "BLAAD",
+            "BOUM",
+            "BLOOM",
+            "VIEVER",
+            "BIE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Käöke",
+          "words": [
+            "KOPKE",
+            "LAEPEL",
+            "BROOD",
+            "PAN",
+            "KOMP",
+            "BORD",
+            "THEE",
+            "AOVE",
+            "VORK"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Waer",
+          "words": [
+            "ZON",
+            "RAEN",
+            "SJNIE",
+            "WINDJ",
+            "WOLK",
+            "SJTORM",
+            "MES",
+            "HAGEL",
+            "IES"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Dere",
+          "words": [
+            "HONDJ",
+            "KAT",
+            "VOGEL",
+            "VIS",
+            "PAERD",
+            "KOO",
+            "AENSJ",
+            "GEIT",
+            "HOOR"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Hoes",
+          "words": [
+            "DEUR",
+            "STOOL",
+            "LAMP",
+            "BED",
+            "MAT",
+            "BAANK",
+            "KLOK",
+            "TAAFEL",
+            "KAS"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Alle kaarte",
+        "food": "Aete en drinke",
+        "home": "Thoes",
+        "outdoors": "Boete",
+        "animals": "Dere",
+        "travel": "Óngerwaeges",
+        "work": "Werk en hobby's",
+        "music": "Meziek en plezeer",
+        "seasons": "Seizoene"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Wat veur 'ne reuk oet de käöke vènjt geer 't fienste?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Wat veur 'n taart zow geer keze es d'r get te viere vilt?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Vertèlt ins euver 'n lekkere vlaai of toetje wo geer van haajt."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Wie drinkt geer uch 't leefs 'ne kop koffie of thee?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Wat moog neet óntbraeke bie 'n good óntbijt?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Höb geer oats fruit zo van de sjtruuk of de boum geplök?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Zeut of zoer: wo haajt geer 't meiste van?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Wat sjmaak veur uch ech nao de zomer?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Vertèlt ins euver 'n hoes wo geer gaer gewoond höb."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Wo zit geer 't leefs óm efkes lekker oet te röste?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Wat doot geer gaer op 'nen röstigen aovend?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Wat is get biezunders det geer in 'n speciaal dueske zow beware?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Wae zow geer oetneuëdige veur 'ne gezelligen tas thee?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Wat doot geer 't leefste op 'ne raenachtige daag?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Wat veur blome zow geer gaer in de gaard zètte?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Vertèlt ins euver 'ne sjoene boum of 'n park det geer kint."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Wat vènjt geer 't fienste aan boete in de gaard zeen?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Wat veur kleur blome vènjt geer 't sjoonste?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Haajt geer van plante in hoes?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Wie zuut 'ne heerlike zonnige daag d'r veur uch oet?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Vertèlt ins euver 'nen hóndj dae geer gekènd höb."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katte of hunj, of geine van bei? Wat vènjt geer zoe leuk aan ze?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Wat veur veugel zuut of huurt geer boete waal ins?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Höb geer waal ins gevèst, of 'n aquarium gehad?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Wat is 't sjoonste deer det geer oats gezeen höb?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Vertèlt ins euver 'n auto wo geer gooj herinneringe aan höb."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Zow geer lever 'nen daag nao de zieë gaon of de berg in?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Wo zow geer gaer 'n rundje nao toe make?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Es geer örges euverhaer kós vlege, wat zow geer dan wille zeen?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Vertèlt ins euver 'ne sjoenen oetsjtap dae geer gemaakt höb."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Wat veur werk höb geer vreuger mit plezeer gedaon?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Aan wat veur hobby kint geer uren bestaeje?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Wat kós geer altied biezunder good make of reparere?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Wat veur raod zow geer gaeve aan emes dae net begint mit werke?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Bie wat veur meziek kint geer bekans neet sjtille zitte?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Wat maak e fieëske ech gezellig?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Nao wat veur zanger of zangeres loestert geer gaer?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Wat veur film of serie zuut geer gaer nog 'ne kier?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Wat vènjt geer 't sjoonste aan de zomer?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Wat vènjt geer 't fienste aan de herfs?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Wat doot geer gaer op 'ne gezelligen winteraovend?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Woraan mèrk geer es 't ierste det de lente begint?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Sjnie, raen of zonnesjien: wat haet geer 't leefste?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Bloom in 'ne pót",
+          "regions": {
+            "sky": "Achtergróndj",
+            "table": "Taafel",
+            "stem": "Sjtengel",
+            "leaf-left": "Linkerblaad",
+            "leaf-right": "Rechterblaad",
+            "petal-1": "Bloomblaadje 1",
+            "petal-2": "Bloomblaadje 2",
+            "petal-3": "Bloomblaadje 3",
+            "petal-4": "Bloomblaadje 4",
+            "petal-5": "Bloomblaadje 5",
+            "petal-6": "Bloomblaadje 6",
+            "petal-7": "Bloomblaadje 7",
+            "petal-8": "Bloomblaadje 8",
+            "center": "Hart van de bloom",
+            "pot": "Pót",
+            "pot-rim": "Randj van de pót"
+          }
+        },
+        "house": {
+          "name": "Hoes",
+          "regions": {
+            "sky": "Loch",
+            "sun": "Zon",
+            "grass": "Gras",
+            "chimney": "Sjouw",
+            "walls": "Moere",
+            "roof": "Daak",
+            "door": "Deur",
+            "window-left": "Linkerfinster",
+            "window-right": "Rechterfinster",
+            "path": "Paad"
+          }
+        },
+        "teacup": {
+          "name": "Theekopke",
+          "regions": {
+            "background": "Achtergróndj",
+            "saucer": "Sjuttelke",
+            "handle": "Oear",
+            "cup": "Kopke",
+            "band": "Sjtreep op 't kopke",
+            "tea": "Thee"
+          }
+        },
+        "butterfly": {
+          "name": "Vlinder",
+          "regions": {
+            "background": "Achtergróndj",
+            "wing-top-left": "Linkerbaovevleugel",
+            "wing-top-right": "Rechterbaovevleugel",
+            "wing-bottom-left": "Linkeróngervleugel",
+            "wing-bottom-right": "Rechteróngervleugel",
+            "spot-left": "Sjtip op linkervleugel",
+            "spot-right": "Sjtip op rechtervleugel",
+            "body": "Lief"
+          }
+        },
+        "sailboat": {
+          "name": "Zeilbaot",
+          "regions": {
+            "sky": "Loch",
+            "sea": "Zieë",
+            "sail-big": "Groat zeil",
+            "sail-small": "Klein zeil",
+            "mast": "Mês",
+            "hull": "Baot",
+            "flag": "Vlegske"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Käöke en gaard",
+          "baskets": [
+            "In de keuke",
+            "In d'n haof"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fruit en diere",
+          "baskets": [
+            "Fruit",
+            "Diere"
+          ]
+        },
+        "home-travel": {
+          "label": "Thoes en op reis",
+          "baskets": [
+            "Thoes",
+            "Op paad"
+          ]
+        }
+      }
+    }
+  }
+}

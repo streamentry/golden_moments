@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Nipitun taigualugu",
+      "stopReading": "Taiguaiġiñ",
+      "region": "Ulapqin",
+      "restart": "Aullaġniiqqigiñ",
+      "soundOn": "Nipikillaurat ikillugit",
+      "soundOff": "Nipikillaurat qamiłługit",
+      "done": "Taimaa pakma",
+      "feedbackQuestion": "Una ikayuutauva uvluqpaq?",
+      "feedbackYes": "Ii",
+      "feedbackNo": "Naaggamikallak",
+      "feedbackThanks": "Quyanaqpak uqautigigaptigut."
+    },
+    "tile": {
+      "named": "{name}, igalauraq {n}",
+      "hidden": "Ijiqsimasuaq piksa, igalauraq {n}",
+      "withState": "{label}, {state}",
+      "matched": "Ajjigiiñiksuak",
+      "selected": "Piguuruaq",
+      "picture": "Piksa",
+      "photoNumber": "Piksa {n}"
+    },
+    "pairs": {
+      "allTogether": "Ajjigiiñiksut iluqatik atautchiksuat. Ulapqiqigiñ naagga miñŋuiqsrilutin.",
+      "photoPair": "Piksak malġuk ajjigiiñiksuak atautchimiktuak.",
+      "picturePair": "Piksak malġuk {name|lower}-mik atautchiksuak.",
+      "selected": "{name}. Pakma naniŋaruŋ aipaa.",
+      "mismatch": "Sukkaitmikallagin. Aktullagu piksauraq suli aullaaġuvich.",
+      "mismatchNamed": "{a} suli {b}. Sukkaitmikallagin. Aktullagu piksauraq suli aullaaġuvich."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Aktullagu piksa, tavra suli aktullagu aipaa ajjigikkaŋa.",
+      "guidanceHidden": "Aktukkit malġuk igalaurak pikutillugik. Qiniġniaġik malġuk ajjigiiñiksuak.",
+      "restart": "Nutlaat piksat",
+      "sizeLegend": "Qapsiich igalaurat",
+      "size": {
+        "one": "{n} igalauraq",
+        "other": "{n} igalaurat"
+      },
+      "viewLegend": "Qanuq ulapqitilaaq",
+      "viewShowing": "Piksat qinnaqtut",
+      "viewHidden": "Piksat ijiqsimasuat",
+      "playAgain": "Ulapqiqigiñ nutlaaniñ piksanik",
+      "talk": "Uqautigillagik piksat atautchikun"
+    },
+    "choose": {
+      "countLegend": "Qapsiich piksat",
+      "count": "{n} piksraqtaat",
+      "thatOne": "Tavvani ittuq una {name|lower}. Sukkaitmikallagin."
+    },
+    "findTheSame": {
+      "guidance": "Qiniġruŋ piksa qulaani ittuq. Aktullagu ajjigikkaŋa ataani.",
+      "yes": "Ii, ajjigikkaŋa una {name|lower}.",
+      "next": "Tugliq piksa"
+    },
+    "shadowMatch": {
+      "guidance": "Qiniġruŋ tarraq qulaani ittuq. Aktullagu piksa taavrumiŋa tarraqaqtitkaa.",
+      "yes": "Ii, taavruma {name|lower}-m tarraqaqtitkaa.",
+      "next": "Tugliq tarraq",
+      "shadowAlt": "Tarraq naipikkaqsraq",
+      "foundAlt": "Tarraŋa taavruma {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Aktullagu piksa, tavra suli aktullagu agluuraq ilitilaaŋa.",
+      "restart": "Nutlaat piksat",
+      "themeLegend": "Ulapqiutiksraq",
+      "selected": "{name}. Pakma aktullagu agluuraq iliuraġviŋa.",
+      "pickFirst": "Sivullikun aktullagu piksa, tavra suli aktullagu agluuraq.",
+      "hint": "Una {name|lower} ilitillaruq \"{basket}\"-mun. Aktullagu taamna agluuraq iliniarugu.",
+      "placed": "Una {name|lower} iliruq \"{basket}\"-mun.",
+      "sorted": "Iluqatik iliraullasut. Qiniġlagik agluurak atautchikun, naagga allamik aullaġniiġisigiñ.",
+      "basket": {
+        "one": "{basket} agluuraq, {count} piksa iluani ittuq",
+        "other": "{basket} agluuraq, {count} piksat iluani ittut"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Aktullagu atauxiq avguun, tavra aktullagu alla. Inimiŋnun simmiñiartuk.",
+      "restart": "Akulliqigiñ suli",
+      "pictureLegend": "Piksa",
+      "pictures": {
+        "sailboat": "Umiaq anorautilik",
+        "house": "Iglu",
+        "balloon": "Puptaqutauraq",
+        "sunflower": "Siqinġum nauriaŋa",
+        "lighthouse": "Ikumaqaġvik",
+        "cat": "Kuka"
+      },
+      "sizeLegend": "Avguutit",
+      "size": {
+        "one": "{n} avguun",
+        "other": "{n} avguutit"
+      },
+      "pickedUp": "Avguun tiguŋaruq. Pakma aktullagu iliuraġviŋa.",
+      "whole": "Una {name|lower} katitigaullasuuq suli. Piksraqtaaqigiñ allamik piksamik pisuutilaaġuvich.",
+      "swapped": {
+        "one": "Simmiñiqsuk. {correct} {total}-niñ avguun inimiittuq.",
+        "other": "Simmiñiqsuk. {correct} {total}-niñ avguutit inimiittut."
+      },
+      "guideAlt": "Iluqaan piksa: {name}",
+      "guideText": "Uvaŋa ittuq piksa katitigauraullaniami.",
+      "piece": "Avguun {place}-mi",
+      "pieceInPlace": ", nalliqsuami inimi",
+      "piecePickedUp": ", tiguŋaruaq",
+      "places4": [
+        "qulaani saumik",
+        "qulaani taliqpik",
+        "alaani saumik",
+        "alaani taliqpik"
+      ],
+      "places9": [
+        "qulaani saumik",
+        "qulaani qitiani",
+        "qulaani taliqpik",
+        "qitiani saumik",
+        "qitiq",
+        "qitiani taliqpik",
+        "alaani saumik",
+        "alaani qitiani",
+        "alaani taliqpik"
+      ],
+      "done": "Piksa katitigaullasuuq suli. Ulapqiqigiñ naagga miñŋuiqsrilutin.",
+      "playAgain": "Akulliqigiñ suli"
+    },
+    "finishTheSaying": {
+      "guidance": "Taigualagik uqautchiq atautchikun, tavra aktullagu uqałiq iniqtirutaa.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ii, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" naamakturuq suli. Nalunaillaksaq uqallaut iniqtuq uvani \"{end}\".",
+      "revealed": "Uqallaut una imna \"{start} {end}.\"",
+      "choicesLabel": "Piksraqtagu aqulliq uqałiq",
+      "show": "Qinnaguk iniqtirutaa",
+      "talk": "Uqautigillagu una: ",
+      "next": "Tugliq uqallaut"
+    },
+    "wordSearch": {
+      "guidance": "Uqałhit sanmuktuat naagga unmun. Aktullagu sivulliuraaq uqałhum titiraŋa, tavra suli aqulliuraaq titiraŋa.",
+      "restart": "Nutlaaq ulapqin",
+      "themeLegend": "Uqautiksraq",
+      "sizeLegend": "Akunŋaŋita aktilaaŋat",
+      "size": {
+        "one": "{n} saniraq {n}-mi ({words} uqałiq)",
+        "other": "{n} saniraq {n}-mi ({words} uqałhit)"
+      },
+      "print": "Titiqullagu una ulapqin",
+      "letterChosen": "Titiraq {letter} piguuruaq. Pakma aktullagu aqulliuraaq uqałhum titiraŋa.",
+      "found": "{word} naniñiqsuq.",
+      "foundAll": "{word} naniñiqsuq. Taimaa iluqatik uqałhit. Ulapqiqigiñ naagga miñŋuiqsrilutin.",
+      "tryAgain": "Sukkaitmikallagin. Aktullagu sivulliuraaq titiraq, tavra aqulliuraaq titiraŋa.",
+      "gridLabel": "Titirat akunŋat, {n} tukiruaqtut {n}-nik titiranik. Atullagik tikkuutit titirat akunŋanni.",
+      "cell": "{letter}, tukiruaq {row}, unmun {col}",
+      "cellFound": ", ilaŋa naniruarum uqałhum",
+      "wordsHeading": "Uqałhit naninialiksat",
+      "wordFound": " (naniñiqsuq)",
+      "sheetTitle": "Uqałhinik nanisillan: {theme}",
+      "sheetNote": "Uqałhit sanmuktuat naagga unmun.",
+      "unavailable": "Una titiranik akunŋaluk naamaitchuq uqautchimtignun, tavra una ulapqisuaq ilisimangitchuq uvani. Qiniġlikkik piksani ulapqit."
+    },
+    "coloring": {
+      "guidance": "Aktullagu qaluaq, tavra aktullagu ilaŋa piksauram.",
+      "restart": "Piqsillugit qaluat",
+      "cleared": "Makkaluk imaiġiñiqsuq suli.",
+      "pageLegend": "Makkaluk",
+      "print": "Titiqullagu una makkaluk",
+      "colorsLabel": "Qaluat",
+      "paintChosen": "{paint} piguuruaq.",
+      "painted": "{part} pakma {paint|lower}-ŋuruq.",
+      "artLabel": "{page}, {count} avguutit qalualiksat",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, qaluaŋaitchuq",
+      "paints": {
+        "red": "Kaviqsuaq",
+        "orange": "Kavisuŋaqtuaq",
+        "yellow": "Qusurnaqtuaq",
+        "green": "Suŋaaqtuaq",
+        "blue": "Tuŋuqtuaq",
+        "purple": "Tuŋuqtauraq",
+        "pink": "Kaviññauraq",
+        "brown": "Kavraqtuq",
+        "sky-blue": "Qilaŋaaqtuaq",
+        "cream": "Qaqullauraruaq",
+        "gray": "Qirraqtuaq",
+        "white": "Qakuqtuaq"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Taigualagu makkalauraq nipitun. Nalliqsuaq kiutiksraq piiñngitchuq.",
+      "position": "Makkalauraq {n} {total}-niñ",
+      "themeLegend": "Uqautiksraq",
+      "next": "Tugliq makkalauraq",
+      "previous": "Sivullia makkalauraq",
+      "print": "Titiqullugit iluqatik makkalaurat",
+      "sheetTitle": "Uqallautiksrat makkalaurat"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Aullaġniigiñ piksraqtallutin piksaniñ.",
+      "guidance": "Aktullagu piksa, tavra suli aktullagu ajjigikkaŋa.",
+      "restart": "Akulliqigiñ suli",
+      "intro": "**Piksraqtagik 2-miñ 6-mun piksat** uumaniñ qaritauyamik. Qinnaniaqtut uvani makkaluŋmi kisian suli aullautitaunġitchut naagga ijiqsitaunġitchut allamun.",
+      "choose": "Piksraqtagik piksat",
+      "chooseDifferent": "Piksraqtagik allat piksat",
+      "clear": "Piqsillugit piksat",
+      "cleared": "Piksat piqsigaullasut uvaniñ makkaluŋmiñ.",
+      "atLeastTwo": "Piksraqtagik malġuk piksat suli.",
+      "usingFirst": "Atuġaat sivulliich {max} piksat.",
+      "skipped": {
+        "one": "{count} titiq piksauŋitchuq qinnayumiñaqtaqput.",
+        "other": "{count} titiqat piksauŋitchut qinnayumiñaqtavut."
+      },
+      "playAgain": "Ulapqiqigiñ ukuniŋa piksaniñ",
+      "empty": "Piksatin qinnaniaqtut uvani, tamatkik malġuiññuk."
+    },
+    "pictureBingo": {
+      "guidance": "Sivullikun titiqullugit makkalaurat. Tavra qinnallagu una tuqłuruaq aŋinirpaami qiniġviŋmi.",
+      "called": {
+        "one": "{name}. {called} {total}-niñ piksa tuqłuuraŋaruaq.",
+        "other": "{name}. {called} {total}-niñ piksat tuqłuuraŋaruat."
+      },
+      "start": "Aktullagu \"Tugliq piksa\" sivulliq piksa tuqłuruam.",
+      "restart": "Aullaġniiqqigiñ nutlaamik ulapqimmik",
+      "squaresLegend": "Kakkiat atautchimi makkalaurami",
+      "squares": "{n} kakkiat ({side} saniraq {side}-mi)",
+      "cardsLegend": "Qapsiich makkalaurat titiquliksat",
+      "cards": {
+        "one": "{n} makkalauraq",
+        "other": "{n} makkalaurat"
+      },
+      "print": {
+        "one": "Titiqullagu {n} bingo makkalauraq",
+        "other": "Titiqullugit {n} bingo makkalaurat"
+      },
+      "ready": "Upaluksaullasutin upalunguvich",
+      "next": "Tugliq piksa",
+      "allCalled": "Iluqatik piksat tuqłuuraŋaruat",
+      "alreadyCalled": "Tuqłuuraŋaruat",
+      "sheetTitle": "Piksa bingo · makkalauraq {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Anertilaallaglutin ammaluktuam aglitilaaŋani, aneqaaġlutin mikłitilaaŋani. Taamna iŋmiñik nutqasiruq itchaksrat anertikpata.",
+      "paceLegend": "Sukalilaaŋa",
+      "paceSlow": "Sukailluni (5 sekontit iluqaanun)",
+      "paceGentle": "Sukailluaqtuaq (4 sekontit iluqaanun)",
+      "ready": "Upalŋaurugut pisukkuvich",
+      "in": "Anertilaarit",
+      "hold": "Taqsiġiiñ",
+      "out": "Aneqaaġit",
+      "start": "Aullaġniġit",
+      "stop": "Nutqaarit",
+      "started": "Aullaqtuq. Anertilaarit ammaluktuam aglitilaaŋani.",
+      "stopped": "Nutqaktuq.",
+      "finished": "Itchaksrat sukailluta anertiqsimaaqtugut. Aullaġniqsigik suli pisukkuvich."
+    }
+  },
+  "pictures": {
+    "teacup": "Qallu tiituġvik",
+    "kettle": "Tiiliuġun",
+    "bread": "Qaqqiaq",
+    "frying-pan": "Salatqaq mannilik",
+    "cake": "Kaik aniviksimasiun",
+    "sunflower": "Nauraq siqiniaq",
+    "tulip": "Tulip kaviaqtuaq",
+    "watering-can": "Qattauraq maqisiun",
+    "potted-plant": "Nauraq qallumiittuaq",
+    "tree": "Napaaqtuq",
+    "bird": "Tinmiaq avalaqpami",
+    "butterfly": "Taqalikisaaq",
+    "dog": "Qimmiq",
+    "cat": "Pusi",
+    "fish": "Iqaluk kavraqtuq",
+    "apple": "Apul kaviaqtuaq",
+    "pear": "Pear",
+    "strawberry": "Asiaq kaviaqtuaq",
+    "banana": "Banana",
+    "lemon": "Lemon suuraqtuaq",
+    "cherries": "Asiat kaviaqtat",
+    "house": "Iglu",
+    "lamp": "Ikuma",
+    "armchair": "Iksivautaq aqittuaq",
+    "key": "Umiun utuqaq",
+    "umbrella": "Silaursraun",
+    "sailboat": "Umiaraq tinikauralik",
+    "car": "Akhaluutik utuqaq",
+    "bicycle": "Aksraalik malġuk",
+    "balloon": "Pullauraq tinisuuq",
+    "lighthouse": "Ikumatuaq ikumaġvik",
+    "sun": "Siqiñiq",
+    "moon": "Tatlqiq uvluġialu",
+    "teapot": "Tiiliuġvik",
+    "apple-pie": "Paaq apullik",
+    "honey-jar": "Uqummiaq umiulik",
+    "boiled-egg": "Manniq qalluurami",
+    "toaster": "Qaqqialiuġun",
+    "cheese": "Tiisaq",
+    "milk-jug": "Imuuraġvik",
+    "cupcake": "Kaikuraq",
+    "orange": "Orange",
+    "grapes": "Grape-sat",
+    "watermelon": "Watermelon quppaa",
+    "pineapple": "Pineapple",
+    "peach": "Peach",
+    "rose": "Nauraq kaviaqtuaq",
+    "daisies": "Naurat qatiqtut",
+    "mushroom": "Taiyayuq",
+    "wheelbarrow": "Qamutaurat",
+    "birdhouse": "Tinmiat igluat",
+    "cactus": "Kaktus qallumi",
+    "acorn": "Napaaqtum asiana",
+    "autumn-leaf": "Uqpiŋaaq ukiaksrami",
+    "rabbit": "Ukalik",
+    "duck": "Mitiq",
+    "hen": "Aqargiq",
+    "sheep": "Sauvrak",
+    "owl": "Ukpik",
+    "ladybird": "Qupilquaq kaviaqtuaq",
+    "snail": "Siutauraq",
+    "frog": "Narruyiaq",
+    "bee": "Iguptaq",
+    "clock": "Sass'aq",
+    "vase-of-flowers": "Qallu nauralik",
+    "radio": "Naalautik utuqaq",
+    "books": "Makpiraat qalligiit",
+    "candle": "Ikumauraq",
+    "glasses": "Iggaak",
+    "telephone": "Uqaqtiun",
+    "ball-of-wool": "Uivvaaq qiviumik",
+    "straw-hat": "Nasaq siqiñisiun",
+    "train": "Qamutiikpallak puyulik",
+    "bus": "Pasi",
+    "airplane": "Tinmun",
+    "suitcase": "Ikpiuraq",
+    "tractor": "Traktuq",
+    "rowing-boat": "Umiaraq iputulik",
+    "rainbow": "Nimġiaq",
+    "rain-cloud": "Nuvuya sialulik",
+    "snowflake": "Qanitauraq",
+    "kite": "Tinmiuraq",
+    "sunrise": "Siqiñiq nuituaq ikpiani"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "AGIKLMNPQRSTUVY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Asiat",
+          "words": [
+            "AQPIK",
+            "ASIAQ",
+            "KAVLAQ",
+            "TINNIK",
+            "APUL",
+            "MILUN",
+            "LIMA",
+            "PAUNAQ",
+            "ASIAT"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Naurat",
+          "words": [
+            "NUNA",
+            "IVIK",
+            "NAPAQ",
+            "UQPIG",
+            "NAURAQ",
+            "IVLUK",
+            "PALIQ",
+            "UQPAT",
+            "SUUK"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Igavik",
+          "words": [
+            "QALLU",
+            "ALUUT",
+            "SAVIK",
+            "NIQI",
+            "QAYUQ",
+            "PUUQ",
+            "QATTAQ",
+            "KAAFI",
+            "TII"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Sila",
+          "words": [
+            "SILA",
+            "ANUQI",
+            "APUN",
+            "QANIK",
+            "SIKU",
+            "MAQI",
+            "NUVUYA",
+            "ALAPA",
+            "UUNA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Niġrutit",
+          "words": [
+            "TUTTU",
+            "NANUQ",
+            "QIMMIQ",
+            "IQALUK",
+            "MITIQ",
+            "UGRUK",
+            "AMAGUQ",
+            "UKALIK",
+            "KAVIK"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Iglu",
+          "words": [
+            "IGLU",
+            "TUPIQ",
+            "TALU",
+            "NATIQ",
+            "QIPPIQ",
+            "INIQ",
+            "IGA",
+            "SAVIK",
+            "QALLU"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Iluqait makpiraat",
+        "food": "Niqit",
+        "home": "Iglu",
+        "outdoors": "Silami",
+        "animals": "Niġrutit",
+        "travel": "Aullaaraaqłuni",
+        "work": "Savaktilluni suli aliikkutat",
+        "music": "Atuutit suli qiñuilat",
+        "seasons": "Ukiut aallanŋuġningat"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Qanuq ittuamik igavigmi tipikittusiungavich nuanisautigiviuŋ?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Qanuritpauramik kaiksiuġuvich nalliursiurunmi aliahugiñaqpat?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Uqaallaksauraallanritpiñ asialik paaq uqummiariñauralluunniit ilinnun nuanisautigikkanik."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Qanuq ittuamik tiimik kaafimikluunniit iġñiutiqaġukpisiñ?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Sunamiŋ ublaarusiqsułik nakuuyumiñaqpat ilinnun?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Asiatnik nauvianiŋ asiasuŋaqsimavisiñ?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Siiqaqtuaq suuraqtualuunniit: nalliak nuanisautigineruviuŋ?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Qanuq ittuq niqi upinġaami ittuatun itpa ilinnun?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Uqaluaqtuallautigin iglumik inuuniarvigikkaqpanik ilagikkanik."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Nani iksivaġviksukpisiñ taqsiqsillasiñ?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Sumiñ nuanisautigiñaqpisiñ unnumi nuatqanaqpan?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Suuqpak suuraq ilitchuqsriusukpisiñ iksivikmi aŋalatnamik?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kiaqai tiituaqataugisukpat ilinnun?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Sumiñ nuanisautiqaqpisiñ sialuqtillugu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Qanuritpauranik nauranik pisuŋaqpisiñ nauriaġvigmi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Uqaallaułhiñ napaaqtumik nauriaġvigmilluunniit ilinnun nuanisaulluataqtamik."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Suna nakukpanik nuanisautigiviuŋ naurat akunanatniitłuni?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Qanuritpauramik qalialik nauranik nuanisautiqalluataqpisiñ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Nauranik iglum iluaniititit nakuagivigit?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Qanuq itpa ubluq siqiñiqtuaq ilinnun nakuuqpiaqtuaq?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Uqaallaktuaġluitch qimmimik ilitchuqsriŋasikkanik."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Pusit qimmilluunniit, aallamikluunniit? Sunamik nuanisautigivigit?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Qanuritpanik tinmianik qiñiqpisiñ tusraapisiñluunniit silami?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Iqalliaqsimavisin, iqalulikmilluunniit aŋalatchivisiñ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Suna uummaqsraq qiñiqqaaġikkaqpiñ piqpaŋnaqpanitpa ilinnun?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Uqaallaułhiñ akhaluutimik aliagikkanik."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Siniŋmiittusukpat qairulikmilluunniit ubluq iluani?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Sumi aŋalaraasuvich pisuŋaqpisiñ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Tinisinnaġuvich nunaaqqim qaaŋagun, sumik qiñiusukpat?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Uqaallautigin aullaaqsimaaqłutit aliagikkanik."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Qanuq ittuamik savagutinik aliagisuanik savaksimavisiñ?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Suna aliikkutaq suliarisukpiuŋ akuni?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Suna hanakkakput ilisimagiviuŋ inuilluunniit nakuagigaat?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Qanuq uqaallautigisiuŋ inuusuqtuaq suliñiġiaqsitillugu?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Qanuritpam atuum anayuisaaġitisukpat itigagnik?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Suna katimaqatigiiktuani nakuulluataqtitausuuq?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kiaqai atuqtuaq naalaġigukpat?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Suna qiñiqtuaq TV-kun aliahukługu qiñiqtuaġigukpiuŋ suli?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Suna upinġaami nuanisaulluataqtigiviuŋ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Suna ukiaksrami aliagisukpiuŋ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Suna ukiumi unnumi iglumiittuni aliaginaqpat?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Suna upinġaksraq aglaan ilisimanartuaq ilinnun?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Apun, sialuk, siqiñiġluunniit: nalliak nakuagineruviuŋ?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Nauraq qallumiittuaq",
+          "regions": {
+            "sky": "Tunuaniittuaq",
+            "table": "Estulaq",
+            "stem": "Nauram ayauppiaŋa",
+            "leaf-left": "Uqpiŋaaq saumik",
+            "leaf-right": "Uqpiŋaaq taliqpik",
+            "petal-1": "Nauram kaginauraŋa 1",
+            "petal-2": "Nauram kaginauraŋa 2",
+            "petal-3": "Nauram kaginauraŋa 3",
+            "petal-4": "Nauram kaginauraŋa 4",
+            "petal-5": "Nauram kaginauraŋa 5",
+            "petal-6": "Nauram kaginauraŋa 6",
+            "petal-7": "Nauram kaginauraŋa 7",
+            "petal-8": "Nauram kaginauraŋa 8",
+            "center": "Nauram qitiŋa",
+            "pot": "Qallu",
+            "pot-rim": "Qallum sinaa"
+          }
+        },
+        "house": {
+          "name": "Iglu",
+          "regions": {
+            "sky": "Qilaq",
+            "sun": "Siqiñiq",
+            "grass": "Ivik",
+            "chimney": "Puyiuġvik",
+            "walls": "Iglum qilaŋisaŋai",
+            "roof": "Qilaaq",
+            "door": "Ukkuaq",
+            "window-left": "Igaliaq saumik",
+            "window-right": "Igaliaq taliqpik",
+            "path": "Apqun"
+          }
+        },
+        "teacup": {
+          "name": "Qallu tiituġvik",
+          "regions": {
+            "background": "Tunuaniittuaq",
+            "saucer": "Qallum iliŋaa",
+            "handle": "Tiguġvik",
+            "cup": "Qallu",
+            "band": "Titiqtuq qallumi",
+            "tea": "Tii"
+          }
+        },
+        "butterfly": {
+          "name": "Taqalikisaaq",
+          "regions": {
+            "background": "Tunuaniittuaq",
+            "wing-top-left": "Isiqsaq qulaani saumik",
+            "wing-top-right": "Isiqsaq qulaani taliqpik",
+            "wing-bottom-left": "Isiqsaq ataani saumik",
+            "wing-bottom-right": "Isiqsaq ataani taliqpik",
+            "spot-left": "Milik saumik isiqsami",
+            "spot-right": "Milik taliqpik isiqsami",
+            "body": "Timia"
+          }
+        },
+        "sailboat": {
+          "name": "Umiaraq tinikauralik",
+          "regions": {
+            "sky": "Qilaq",
+            "sea": "Taġiuq",
+            "sail-big": "Tiniqaun aŋiyuaq",
+            "sail-small": "Tiniqaun mikiyuaq",
+            "mast": "Napaaqtaa",
+            "hull": "Umiaq",
+            "flag": "Auraqitaun"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Igavik suli nauriaġvik",
+          "baskets": [
+            "Iggavigmi",
+            "Nautchiaqaġvigmi"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Asiat suli niġrutit",
+          "baskets": [
+            "Asiat",
+            "Niġrutit"
+          ]
+        },
+        "home-travel": {
+          "label": "Iglu suli aullaġniq",
+          "baskets": [
+            "Iglumi",
+            "Aullaġniġmi"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Eqela kokuqukethweko okusemqoka",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Imisebenzi yabantu abaphila nobulwelwe bokukhohlwa",
+    "homeLabel": "Ikhasi lokuthoma le-Golden Moments",
+    "mainNav": "Okuqukethweko okukhulu",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "IsiNdebele",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: iinthombe ezikulu nezihle zendebe yetiye, isithombo selanga nenja",
+    "languages": "Ilimi",
+    "englishOnly": "(IsiNgisi)",
+    "machineTranslated": "Ikhasi leli litjhugululwe ngomtjhini begodu alikahlolwa muntu olikhuluma njengelimi lekhaya.",
+    "readOriginal": "Funda ngelimi lokuthoma lesiNgisi",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Imidlalo",
+      "activities": "Imisebenzi",
+      "caregiving": "Ukutlhogomela",
+      "brainHealth": "Iphilo yomkhumbulo"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Imibuzo neempendulo",
+    "breadcrumb": "Umkhondo wekhasi",
+    "home": "Ekhaya",
+    "lastUpdated": "Kwalungiswa kokugcina",
+    "topics": "Iinhloko zekulumo",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Ubukhulu bamagama",
+      "smaller": "Amagama ajayelekileko",
+      "larger": "Amagama amakhulu",
+      "contrast": "Umehluko ophakamileko wokukhanya"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Dlala",
+    "picturePairs": "Ukufanisa iinthombe",
+    "conversationCards": "Amakhada wokukhulumisana",
+    "pictureBingo": "Ibhingo yeenthombe",
+    "allGames": "Yoke imidlalo",
+    "pictures": "Iinthombe ongazigandisa",
+    "activityIdeas": "Imibono yemisebenzi",
+    "ideas101": "Imibono eyi-101 yemisebenzi",
+    "lateStage": "Imisebenzi yebanga eliphezulu",
+    "printable": "Imisebenzi egandiswako",
+    "allActivities": "Yoke imisebenzi",
+    "forCaregivers": "Kwebatlhogomeli",
+    "playTogether": "Ukudlala ndawonye",
+    "selfCare": "Ukuzitlhogomela wena mathupha",
+    "brainHealth": "Irhubhululo ngephilo yomkhumbulo",
+    "faq": "Imibuzo neempendulo",
+    "about": "Nge-Golden Moments",
+    "approach": "Indlela esisebenza ngayo",
+    "howWeWrite": "Indlela esitlola ngayo",
+    "organizations": "Yeenhlangano",
+    "app": "I-aphulekheyitjhini ye-Golden Moments",
+    "appHelp": "Isizo nge-aphulekheyitjhini",
+    "support": "Isizo",
+    "legal": "Ezomthetho",
+    "sitePrivacy": "Ipholisi yefihlo yewebhsayithi",
+    "appPrivacy": "Ipholisi yefihlo ye-aphulekheyitjhini",
+    "privacyChoices": "Ukukhetha kwakho kwefihlo",
+    "terms": "Imibandela nelayisensi ye-aphulekheyitjhini",
+    "safety": "Ukuphepha nokusetjenziswa okuhlosiweko",
+    "accessibility": "Ukufikeleleka",
+    "healthNotice": "Isaziso selwazi lezepilo",
+    "allLegal": "Loke ilwazi lezomthetho",
+    "note": "I-Golden Moments iletha imisebenzi elula yokuzithabisa ngokuhlanganyela. Akusiso seluleko sezepilo, ukuhlola namkha ukwelapha, begodu ayihloli, ayilinganisi namkha ukunika amaphuzu kunanyana ngubani. Ngingabe unemibuzo ngezepilo, khuluma nodorhodere. Esimeni sokugogeka kwepilo, biza i-10111 namkha i-112.",
+    "publisher": "Igandiswe yi-Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Imidlalo Nemisebenzi Yabaphila Nobulwelwe Bokukhohlwa Ne-Alzheimer's | Golden Moments",
+    "description": "Imidlalo yeenthombe yamahala nethobekileko ongayidlala ku-inthanethi nemibono yemisebenzi yabantu abaphila nobulwelwe bokukhohlwa namkha i-Alzheimer's nebatlhogomeli babo. Ayinamarekhodi wokuzitlolisa, isikhathi namkha amaphuzu.",
+    "eyebrow": "Mahala · Azikho izikhangisi · Akukho ukuzitlolisa · Asikho isikhathi namkha amaphuzu",
+    "h1": "Imidlalo Nemisebenzi Ethobekileko Yabantu Abaphila Nobulwelwe Bokukhohlwa",
+    "lede": "Imidlalo yeenthombe elula, iinthombe ezijayelekileko, nemisebenzi yokuzithabisa ndawonye—ngesiphande sakho.",
+    "playGame": "Dlala Umdlalo",
+    "findIdeas": "Fumana imibono yemisebenzi",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Isebenza efowunini, kuthebhulethi nekhompyutheni",
+      "Iinthombe ezikulu ezihlala zibonakala",
+      "Lisa nanyana kunini; akukho ukuhluleka"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Ikhona ne-aphulekheyitjhini yamahala ye-iPhone, i-iPad ne-Android, ehlanganisa neenthombe zomndeni wakho",
+    "albumNote": "“Iinthombe ezimbili zendebe yetiye, ndawonye.”",
+    "gamesEyebrow": "Dlala kusiphequluli sakho",
+    "gamesTitle": "Imidlalo ongayidlala khonapha nje",
+    "gamesLede": "Umunye nomunye umdlalo uthobile, wenzelwe abantu abadala begodu uthoma msinyana. Khethani owodwa, nihlale ndawonye ebhedeni namkha esihlalweni, nithinte isikrini ngokutjhintjana.",
+    "seeAllGames": "Bona yoke imidlalo eyi-{count}",
+    "howTitle": "Isebenza njani",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Khetha into ejayelekileko",
+        "text": "Iinthombe zeendebe zetiye, amagade, iinlwana zasekhaya neenkepe zomoya. Akukho ukufunda namkha imithetho ekufuze uyifunde qangi."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Hlalani ndawonye",
+        "text": "Bavumele bathinte isikrini. Khulumani ngeenthombezo. Iinthombe ezingafaniko zilinda ukuthintwa okulandelako kwaphela."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Lisani nisesathabile",
+        "text": "Umdlalo owodwa umumsebenzi oweneleko. Isiqeshana esithi “Kwanelisile kwanjesi” sihlala sikhona esikrinini."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Ngaphandle kwesikrini",
+    "stageTitle": "Imibono yemisebenzi yawo woke amabanga",
+    "stageLede": "Ikoloyi, imisebenzi yamalanga woke, ukukhumbula izinto zakadeni neenkhathi ezithuleko zokuzwa, zilungiselelwe lokho okukhandleka kamnandi kwanjesi.",
+    "ideas101": "Imibono eyi-101 yemisebenzi",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Ibanga lokuthoma",
+        "text": "Ragelani phambili ngokwenza lokho abakuthandako, ngokwenza amatjhuguluko amancani: amaphrojekthi wothando, ukungcebeleka, imidlalo yamagama nokuhlela izinto ndawonye.",
+        "label": "Imibono yebanga lokuthoma"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Ibanga eliphakathi",
+        "text": "Imisebenzi elula nejayelekileko ehlukaniswe ngeengaba ezilula: ukugoqa izambatho, ukuhlela, ikoloyi, imidlalo yeenthombe nokukhamba kancani ngaphandle.",
+        "label": "Imibono yebanga eliphakathi"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Ibanga eliphezulu",
+        "text": "Ukududuzeka nokuxhumana ngokuthinta, ukuzwa nokubona: ukuhlikihla izandla ngokucophelela, iingoma ezithandwako, iinthombe nokuhlala ndawonye.",
+        "label": "Imibono yebanga eliphezulu"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Ingabe unomsebenzi othileko owufunako? Linga <a href=\"/activities/alzheimers/\">imisebenzi nemidlalo ye-Alzheimer's</a>, <a href=\"/activities/memory-games/\">imidlalo ethobekileko yokukhumbula</a>, <a href=\"/activities/trivia/\">imibuzo elula yolwazi</a> namkha <a href=\"/activities/puzzles/\">amaphazili</a>.",
+    "approachEyebrow": "Indlela esisebenza ngayo",
+    "approachTitle": "Umsebenzi wokuhlanganyela, ingasi ukuhlola umkhumbulo",
+    "approachLede": "Imidlalo eminengi yomkhumbulo yakhelwe phezu kokugijima, amaphuzu nokungaphazami. Kumuntu ophila nobulwelwe bokukhohlwa, lokho kungazwakala njengehlolo. Thina sakhe okuphambene nalokho.",
+    "approachLink": "Ibanga elisenza sakhe ngendlela le",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Akukho ukuhluleka",
+        "text": "Awukho umrhatjho wesikhathi, amaphuzu, amaphilo namkha ukuhlulwa. Isithombe esingafaniko sima kancani kwaphela, akusiso isiphoso."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Iinthombe zihlala zibonakala",
+        "text": "Ukubona nokwazi kunokuzama ukukhumbula. Ukufanisa kuthoma zibonakala zoke, ngalokho akukho okufanele kukhunjulwe ngehloko."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Kuhloniphekile begodu kukhulile",
+        "text": "Amagama ahloniphekileko, alula neenthombe zephilo yamambala. Azange kube neemfanekiso yopopayi namkha amagama wabantwana."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Ifihlo ihlala ivikelekile",
+        "text": "Azikho ii-akhawunti namkha izikhangisi. Iinthombe zakho aziphumi efowunini namkha ethuluzini lakho."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Kwebatlhogomeli",
+    "guidesTitle": "Iinqophiso ezisebenzako zokutlhogomela kwamalanga woke",
+    "allCaregiving": "Zoke iinqophiso zokutlhogomela",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Indlela yokudlala imidlalo ndawonye",
+        "text": "Ukuhlela, isiphande sokudlala, nalokho okumele ukwenze lokha umdlalo nawulisa ukuthabisa."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Lokha nabangafuni ukwenza umsebenzi",
+        "text": "Iimbangela ezijayelekileko zokwala, neendlela ezithobekileko zokulinga godu ngomuso."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Ukulungisa ithebhuilethi",
+        "text": "Amagama amakhulu, ukuphazamiseka okuncani nesikrini sokuthoma esisodwa nesilula."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Imisebenzi yamahala egandiswako",
+        "text": "Ukufuna amagama ngamagama amakhulu, amakhasi wokufaka imibala, ibhingo namakhada wokukhulumisana."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Iphilo yomkhumbulo: lokho okutjhiwo lirhubhululo lamambala",
+    "researchText": "Ingabe ubulwelwe bokukhohlwa bungavikelwa na? Imidlalo yomkhumbulo iyasiza na? Kuthiwani ngokuzila ukudla, ukudla okunempilo, ubuthongo nokuzwa ngamadlebe? Iimpendulo ezilula ezisukela ebufakazini, kuhlanganise nalapho ubufakazi bungakaqini khona.",
+    "researchLink": "Funda iinqophiso zerhubhululo",
+    "appEyebrow": "Ikhona nange-aphulekheyitjhini",
+    "appTitle": "I-Golden Moments ku-iPhone, i-iPad ne-Android",
+    "appText": "I-aphulekheyitjhini yamahala isebenza ngaphandle kwe-inthanethi begodu ingasebenzisa iinthombe zomndeni ozikhethako, ezihlala zibulungwe kithuluzi lakho kwaphela. Isakhiwo esifanako esithobileko: amabloko amane amakhulu, asikho isikhathi, awekho amaphuzu.",
+    "aboutApp": "Nge-aphulekheyitjhini",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ngiyiphi imidlalo emihle yabantu abaphila nobulwelwe bokukhohlwa?",
+        "a": "Imidlalo emihle ibulula, ijayelekile begodu ayina katelelo: iinthombe ezikulu zokumatanisa, ukuhlela, amaphazili alula, ukuqeda izitjho ezaziwako, ukufaka imibala, ibhingo yeenthombe namakhadi wokukhulumisana. Ikhetho elihle khulu ngilelo umuntu alithabelako namhlanjesi. Gwema iimbalikhathi, amaphuzu nananyana yini ebonakala ngasuthi kukuhlola."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Kazi lemidlalo yedementia ayibhadalelwa na?",
+        "a": "Iye. Yoke imidlalo nezinto ezigadangiswako ku-Golden Moments zifunyanwa simahla, akunamlandu wokuzitlolisa, ukuvula i-akhawunti namkha ukuthatha ifayili uyibeke efowunini. Imidlalo isebenza kubhrawuza yefowuni, yethebulethi namkha yekhomphyutha."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Kazi imidlalo yomqondo iyayivikela idementia?",
+        "a": "Ayikho imidlalo ebonakaliswe bona ivikela idementia, begodu i-Golden Moments ayitjho bona yelapha namkha ivikela nanyana yini. Imidlalo yethu yenzelwe ukuthabela nokuba sesikhathini ndawonye. Ingcenye yethu yepilo yomqondo ihlathulula lokho amatshwayo werhubhululo akutjhoko nalokho angakutjhoko."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Kazi lemidlalo imfanele umuntu one-Alzheimer's?",
+        "a": "Iye. Isifo se-Alzheimer's sibangela idementia ngokujayelekileko, begodu lemidlalo yenzelwe bano: iinthombe ezikulu ezihlala zibonakala, iinkhetho ezimbalwa, begodu akunalitho lokukhumbula namkha lokona. Ukumatanisa, ukuhlela nokuqeda izitjho ezijayelekileko kuncike elwazini laphambilini kunelemfundiso etja."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Kazi umuntu osezingeni eliphezulu ledementia angayisebenzisa lemidlalo?",
+        "a": "Kanengi iye, lokha nanomuntu oseceleni kwakhe. Thoma ngokuthi Thola okufanako ngeenthombe ezimbili, Amapheya weenthombe ngeentayili ezine, ikhasi lokufaka imibala namkha ukuphefumula ngokuthula. Kwenze kube kufitjhani, landela indlela yakhe begodu ukhombele ukulisa lokha nakubonakala bona unelisekile."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Kazi ilwazi lami livikelekile?",
+        "a": "Isayithi le ayinama-akhawunti begodu ayinazaziso zokuthengisa. Sisebenzisa i-Google Analytics ukuzwisisa amakhasi avakatjhelwako. Iinthombe ozikhethela Amapheya weenthombe zibonakala kwaphela kubhrawuza yakho begodu azigcinwa kwenye indawo."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Ngubani owenza i-Golden Moments?",
+        "a": "I-Golden Moments siqhema esincani esenza imisebenzi yeenthombe ethulileko yabadala, elungiselelwe iimndeni nabatlhogomeli, ebhrawuzeni njengohlelo lwe-app lwasimahla. Asisibo odorhodere, begodu akunalitho lapha elisiyeleliso sezepilo."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "yaphambili",
+    "middle": "yephakathi",
+    "late": "yemva",
+    "hintOne": "Kanengi ifanela isigaba se-{list}",
+    "hintMany": "Kanengi ifanela iingaba ze-{list}",
+    "labelEarly": "Isigaba saphambili",
+    "labelMiddle": "Isigaba sephakathi",
+    "labelLate": "Isigaba semva"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Ngeyalomdlalo",
+    "printable": "Okugadangiswako",
+    "play": "Dlala i-{name} →",
+    "readGuide": "Funda isinqophiso"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Ukulungele ukudlala umdlalo othulileko?",
+    "text": "Iinthombe ezikulu, akunamabalikhathi, akunamaphuzu begodu akunamlandu wokuzitlolisa. Dlalani ndawonye kubhrawuza yakho.",
+    "play": "Dlala umdlalo",
+    "all": "Bona yoke imidlalo",
+    "aria": "Dlala umdlalo"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Khamba nemidlalo le",
+    "text": "I-app ye-Golden Moments yasimahla ye-iPhone, iPad ne-Android: iintayili zeenthombe ezikulu, imidlalo eneenthombe zomndeni wakho, namaphakheji weenthombe asebenza ngaphandle kwe-Wi‑Fi. Ayinama-akhawunti, izaziso, imbalikhathi namkha amaphuzu.",
+    "appStore": "Yithole ku-App Store",
+    "googlePlay": "Yithole ku-Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Ngeye-app",
+    "aria": "Thola i-app"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Imisebenzi",
+      "title": "Imisebenzi yabantu abaphila nedementia",
+      "seo": "Imisebenzi yabantu abaphila nedementia: Imibono ngeengaba",
+      "description": "Imibono yemisebenzi yabantu abaphila nedementia esigabeni sinye nesinye: umculo, ukukhumbula izinto zaphambili, imisebenzi yamalanga woke, iinkhathi zokuzwa ngezitho zepilo, imisebenzi yezandla, ngaphandle nezinto zegadangiso zasimahla.",
+      "lede": "Umsebenzi onqophisekileko nginanyana yini eletha ukuthula, injongo namkha isikhathi sokuthintana. Thoma ngalokho umuntu kade akuthanda, begodu ukulungelelanise namhlanjesi."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Ukutlhogomela",
+      "title": "Iinqophiso zokutlhogomela",
+      "seo": "Iinqophiso zokutlhogomela idementia: Isizo elisebenzako lamalanga woke",
+      "description": "Iinqophiso ezisebenzako nezinomusa zabatlhogomeli bedementia: ukudlala imidlalo ndawonye, ukukhulumisana, ukwala, ukungahlaliseki kwantambama, amathebulethi, ukukhetha ama-app nokuzitlhogomela.",
+      "lede": "Isizo elisebenzako neliqondileko leenkhathi zamalanga woke zokutlhogomela umuntu ophila nedementia, kuhlanganise nokuzitlhogomela ngokwakho."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Ipilo yomqondo",
+      "title": "Ipilo yomqondo: Lokho irhubhululo elikutjhoko",
+      "seo": "Ipilo yomqondo nengozi yedementia: Lokho irhubhululo elikutjhoko",
+      "description": "Kazi idementia ingavikelwa na? Iinqophiso ezithembekileko nezisuselwa elwazini ngeengozi zedementia, imidlalo yomqondo, ukuzila ukudla, ukudla, ukuzilolonga, ubuthongo, ukuzwa namatshwayo wokuyelelisa waphambili.",
+      "lede": "Lokho amaphrojekthi amakhulu werhubhululo akutjengisako ngokwehlisa ingozi yedementia, kuhlathululwe ngokulula, kuhlanganise nalapho ubufakazi bungakaqini khona namkha buhlanganisweko. Lilwazi elijayelekileko kwaphela, alisiyeleliso sezepilo."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Kubuyekeziwe",
+    "minuteRead": "Ukufunda kwemizuzu eyi-{n}",
+    "byTeam": "Kutlolwe siqhema se-Golden Moments",
+    "howWeWrite": "Indlela esitlola ngayo",
+    "shortAnswer": "Ipendulo efitjhani",
+    "onThisPage": "Ekhsini eli (iingcenye eziyi-{n})",
+    "commonQuestions": "Imibuzo ejayelekileko",
+    "sources": "Iminthombo",
+    "sourcesNote": "Sihlanganisa neenhlangano namaphrojekthi werhubhululo lelikhasi elisekelwe kiwo. Yinye ngayinye yahlolwa lokha ikhasi nalibuyekezwako.",
+    "tryTogether": "Lingani ndawonye",
+    "relatedGuides": "Iinqophiso eziphathelanako",
+    "related": "Okuphathelanako",
+    "startHere": "Thomela lapha"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Isaziso selwazi lezepilo",
+    "title": "Ilwazi elijayelekileko, alisiyeleliso sezepilo",
+    "textHtml": "Lelikhasi lishwankgathela irhubhululo eligadangisiweko leemndeni. Alikwazi ukutjho lokho okulungele umuntu oyedwa. Khuluma nodorhodere ngaphambi kokutjhugulula ukudla, ukuzilolonga, ubuthongo, iinhlahla namkha iingezelelo zepilo. Nange kuvela ukuraduluka okungazelelwako namkha amanye amatjhuguluko arhabako, thola isizo lezepilo msinyana. <a href=\"/medical-disclaimer/\">Funda isaziso sethu selwazi lezepilo</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Umsebenzi owabelwanako, ingasi ukuhlola ikhumbulo",
+      "seoTitle": "Nge-Golden Moments: Indlela yethu yokusebenza",
+      "description": "Ibanga elenza imidlalo ye-Golden Moments ingabi neembalikhathi, amaphuzu namkha imida, ibanga lokobana iinthombe zihlale zibonakala, nalokho esingakutjho nalesingekhe sakutjho ngedementia.",
+      "crumb": "Indlela yethu yokusebenza",
+      "lede": "I-Golden Moments yenza imisebenzi yeenthombe ethulileko yabadala umtlhogomeli nomuntu ophila nedementia abangayithabela baseceleni kwomunye nomunye.",
+      "bodyHtml": "<h2>Esikukholelwayo</h2><p>Inhloso yomdlalo ingumzuzu uqobo: ingxoxo, unyawo, injabulo yokubeka izithombe ezimbili ndawonye, noma ukuhlala nje eduze. Akusikho ukumlinganisa umuntu, ukumsunda ngaphezu kwalokho akwenzayo, noma ukufakazela okuthile.</p><p>Izinhlelo eziningi zokuqeqesha ingqondo zakhelwe ngokuzenzela, amaphuzu, imizila yokuphumelela nezinga. Kumuntu ophila nesifo sokulibala lokho kungaba njengesivivinyo angeke amelane naso. Sakha okuphambene nalokho, futhi sizibophezela kulezi zimiso:</p><ul><li><strong>Akukho okokuhluleka.</strong> Akukho iwashi, amaphuzu, inani lezinyathelo, impilo, izinsuku ezilandelanayo, imibala egcwala noma ukubalwa emuva, kunoma iyiphi iskrini.</li><li><strong>Ukubona kungaphezu kokukhumbula.</strong> Izithombe zihlala zibonakala ngokuzenzakalelayo. Imiyalelo ikhuthaza ingxoxo futhi ayikaze ibuze ngamagama noma izinkumbulo.</li><li><strong>Kukhulu, kulula futhi kuzinzile.</strong> Umbhalo nezithombe ezinkulu, umehluko omkhulu wemibala, nezinkinobho ezihlala endaweni efanayo.</li><li><strong>Isithunzi somuntu omdala.</strong> Izithombe zempilo yangempela namagama alula nafudumele. Akukho mifanekiso yabantwana, ukudumisa okunengoma noma imiklomelo yophawu.</li><li><strong>Indlela elula yokuphuma.</strong> “Ngiyeka okwamanje” ihlala ibonakala. Ukuyeka phakathi kuyisiphetho esihle.</li><li><strong>Imfihlo njengokuzenzakalelayo.</strong> Akukho ama-akhawunti nezikhangiso. Izithombe onazikhethela zihlala edivayisini yakho.</li></ul><h2>Esingakuthi ngeqiniso</h2><p>Imidlalo yethu yokujabulisa nokuxhumana. Ayihlolisisi, ayikalinganisi, ayelapheli, ayinciphisi futhi ayivimbi isifo sokulibala noma i-Alzheimer’s disease, futhi akekho okufanele awakhethe ngalesi sizathu. Lapho sibhala ngocwaningo kumakhasi ethu <a href=\"/brain-health/\">ngempilo yengqondo</a>, sithi ngokusobala lapho ubufakazi buncane khona, futhi asikaze sililokhe emidlalweni yethu.</p><h2>Thina ngubani</h2><p>I-Golden Moments yiqembu elincane elizimele. Asiyona ingcweti yezempilo. Imihlahlandlela yethu ibhalwe ngokusekelwe kwisiqondiso esishicilelwe izinhlangano ezifana ne-National Institute on Aging ne-Alzheimer’s Association, futhi yonke imihlahlandlela ibala imithombo yayo. Funda <a href=\"/editorial-policy/\">ukuthi sibhala futhi sihlola kanjani amakhasi ethu</a>.</p><h2>Sitshele okuzosiza</h2><p>Sizothokoza ukuzwa ukuthi yini esebenzayo kuwe nokuthi yini engasebenzi, ikakhulu kubantu abaphila nesifo sokulibala, kubanakekeli abangemindeni nakubasebenzi bemisebenzi. Thumela i-imeyili ku-<a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Indlela Esibhala Ngayo Futhi Esihlola Ngayo Amakhasi Ethu",
+      "seoTitle": "Inqubomgomo Yokuhlela",
+      "description": "Indlela iGolden Moments ecwaninga ngayo, ebhala ngayo, ehlola imithombo yayo ngayo futhi ebuyekeza ngayo amakhasi ethu ezimisebenzi zesifo sokulibala nezempilo yengqondo, kanye nalokho esingeke sikushicilele ngakho.",
+      "crumb": "Inqubomgomo yokuhlela",
+      "bodyHtml": "<h2>Imithombo yethu</h2><p>Imihlahlandlela yethu isekelwe esiqondisweni somphakathi esivela ezinhlanganweni ezifana ne-National Institute on Aging, i-CDC, i-Alzheimer’s Association, i-Alzheimer’s Foundation of America, i-Family Caregiver Alliance ne-NHS, nasocwaningweni olubhalwe ngabahlolwa abanolwazi, njengokubuyekezwa kwe-Cochrane nezivivinyo ezinkulu zezempilo. Yonke imihlahlandlela ibala imithombo ayisekelwe kuyo. Sivula ngayinye imithombo ngaphambi kokuyibhekisela, futhi sibika kuphela lokho empeleni ekushoyo.</p><h2>Sibhala kanjani</h2><ul><li>Okusebenzayo kuqala: okufanele wenze namuhla, ngolimi olulula.</li><li>Siqotho ngobufakazi: sithi “ihlobene ne-”, “kungenzeka” kanye “ubufakazi buhlukahlukene” lapho kuyiqiniso.</li><li>Ukuhlonipha: sibhala ngabantu abaphila nesifo sokulibala njengabantu abadala, futhi asisoze sisebenzise ulimi lokuhlola noma lokunyelisa.</li><li>Akukho okungekho: akukho izibalo, amazwi, ochwepheshe, ocwaningo, ukubuyekezwa noma izincomo ezenziwe.</li></ul><h2>Ubani obuyekeza amakhasi ethu</h2><p>Amakhasi abhalwa futhi ahlolwe yiqembu le-Golden Moments, lisizwa amathuluzi okubhala ngobuhlakani bokwenziwa ocwaningweni nasekwakheni okusho kwawo. Yonke ikhasi lihlolwa ngokumelene nemithombo yalo yiqembu. Amakhasi ethu <strong>awazange</strong> ahlolwe udokotela noma enye ingcweti yezempilo, futhi asiyikuthi kwenjalo. Ulwazi lwejwayelekile, hhayi iseluleko sezokwelashwa.</p><h2>Esingeke sikushicilele</h2><ul><li>Izimangalo zokuthi umdlalo, ukudla, isengezo, ukuzila noma uhlelo oluthile luvimba, luyelapha, luncipisa noma lunciphisa isifo sokulibala.</li><li>Ukuhlolwa, imibuzo noma amaphuzu aphakamisa ukuthi umuntu unalo noma akanaso isifo sokulibala.</li><li>Iseluleko sokuqala, ukuyeka noma ukushintsha noma yimuphi umuthi.</li><li>Izikhangiso noma okuqukethwe okuxhasiwe okufihliwe njengeseluleko.</li></ul><h2>Izibuyekezo nokulungisa</h2><p>Ikhasi ngalinye libonisa usuku lokubuyekezwa kwalo okokugcina. Uma uthola iphutha noma umthombo ongasafanele, sicela uthumele i-imeyili ku-<a href=\"mailto:{email}\">{email}</a> futhi sizokuhlola masinyane.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Imibuzo Nezimpendulo",
+      "seoTitle": "Imidlalo Nezimisebenzi Zesifo Sokulibala: Imibuzo Nezimpendulo",
+      "description": "Izimpendulo zemibuzo evamile ngemidlalo nezimisebenzi zesifo sokulibala: imidlalo okufanele uzame, isikhathi sokudlala, imibono yesigaba sokugcina, impilo yengqondo nobumfihlo.",
+      "crumb": "Imibuzo nezimpendulo",
+      "lede": "Izimpendulo ezimfushane nezicacile zemibuzo ebuzwa kakhulu ngabanakekeli.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Ngemidlalo",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Yimiphi imidlalo emihle kumuntu onesifo sokulibala?",
+              "a": "Imidlalo emihle ijwayelekile, ilula futhi ayinacindezelo, futhi okulungele yilokho umuntu akujabulelayo namuhla. Ukuhlanganisa izithombe nezithombe ezibonakalayo, ukuhlela, ama-jigsaw alulamayo, ukuqeda izreko ezijwayelekile, ukupeyinta imibala nobhingo wezithombe kusebenza kahle kwabaningi. Gwema amawashi, amaphuzu nanoma yini efana nevivinyo."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Ingabe imidlalo ngempela mahhala?",
+              "a": "Iye. Yoke imihlalo nezinto zokugadangisa zitholakala simahla, ngaphandle kwe-akhawundi, ukutlolisisa, ukudawuniloda namkha amaphasalazo."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Kubayini kunganamanqaku, amaleveli namkha izibali-sikhathi?",
+              "a": "Ijubane namanqaku kwenza umsebenzi othokozisako ujike ufane nokuhlolwa, okungahle kulethe ihlazo namkha ukudaniseka. Sinqophe khulu ekuthokozeni nasesikhathini sokuba ndawonye, akukho okufanele uhluleke kiko begodu ungalisa ngananyana ngisiphi isikhathi."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Ngiziphi iinsetjenziswa ezisebenza kuhle khulu?",
+              "a": "Nanyana ngiyiphi ifowuni, ithebulethi namkha ikhompyutha enebrawuza yewebhu yanje. Ithebulethi ebekwe entweni yokuyiphakamisa etafuleni ivamise ukukhululeka khulu ukuze abantu ababili badlale bahlezi eceleni kwalomunye. Ikhompyutha ephathwako ehlanganiswe nethelevitjhini isebenza kuhle ezinqepheni zabantu."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Kghani singadlala ngeentombe zethu zomndeni?",
+              "a": "Iye. I-Photo pairs yenza iintombe ezi-2 ukuya kwezi-6 ozikhethileko zibe ngumhlalo wokufanisa. Iintombe zihlala ebrawuzeni yakho begodu azilayitjhwa ku-inthanethi namkha zibulungwe."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Imisebenzi nokunakekela",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Kufanele umsebenzi uthathe isikhathi esingangani?",
+              "a": "Kanengi imizuzu eli-10 ukuya kwengama-20 yanele, kanti ngezinye iinkhathi imizuzu emi-2 iyipumelelo. Qalisisani amatshwayo wokudinwa namkha ukudaniseka begodu nilise kusesemnandi. Asikho isikhathi esinqophileko esifaneleko."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Kuthiwani nengabe abafuni ukwenza umsebenzi lo?",
+              "a": "Hloniphani ukwala kwabo, begodu ningalinga godu ngokukhamba kwesikhathi namkha ngenye indlela. Ukwala kungahle kubangelwe kudinwa, buhlungu, ukungaqiniseki namkha ukungabi nentshisekelo. Qalani umhlahlandlela wethu omalungana nokuthi kungenziwani nabalako."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Ngimiphi imisebenzi efanele isigaba esiphambili sedementia?",
+              "a": "Ukunethezeka nezinzwa: ukulalela umculo othandwako, ukubhula izandla ngelotjhini, ukuqala iintombe nibabili, ukugona ingubo ethambileko, ukuhlala ngaphandle, namkha umhlalo olula khulu weentombe unomuntu oseduze kwabo. Umhlahlandlela wethu wesigaba esiphambili unemiyelelo eminengi godu."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Kghani ikhona imisebenzi yeenqhema emakhaya wokunakekela?",
+              "a": "Iye. I-Picture bingo inamakhadi wokugadangisa nomrhubi osesikrinini, begodu i-Finish the saying namakhadi we-Conversation asebenza kuhle lokha nakafundelwa phezulu. Umhlahlandlela wethu weenqhema zamakhaya wokunakekela ukhuluma ngobukhulu beenqhema, ukuhlala nokwenza izinto zifanele amakghono ahlukahlukeneko."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Ipilo yengqondo",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Kghani imihlalo ingavimbela namkha ilibazise idementia?",
+              "a": "Akunamhlalo owakatjengisa bona uvimbela idementia, nemihlalo yethu ayitjho njalo. Ukuvuselela ingqondo hlangana nabantu kutjengise iinzuzo ezincani erhubhululweni ebantwini abaphila nedementia ebuthaka ukuya phakathi, kodwana lokho kuhluke khulu ekutheni umhlalo uvimbela ukugula. Sinikela ngemihlalo ngebanga lokuzithokozisa nokukhulumisana."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Kghani idementia ingavinjelwa?",
+              "a": "Ingasi ngokuqinisekileko. Irhubhululo lihlanganisa iimbalobalo ezili-14 zepilo nendlela yokuphila nengozi yedementia, njengokungezwa kuhle, ingcindezi ephezulu yeengazi, ukunganikini umzimba nokuzihlukanisa nabantu. Ukuzilungisa kungahle kunciphise ingozi ebantwini abathileko, kodwana abantu abanengi abenza koke okuhle basagula nge-dementia. Akusilo iphoso lananyana ngubani."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Kghani ukuzila ukudla ngezikhathi ezithileko kuhle epilweni yengqondo?",
+              "a": "Ubufakazi ngabantu buncani begodu busese matjhisekelo wokuthoma, kanti irhubhululo elinengi lenziwe ezenjeni. Ukuzila ukudla kungaba yingozi ebantwini abadala, khulukhulu nakunatjhwa imithi yesifo seswekile namkha ukwehla emzimbeni okungakhambisani nesifiso, begodu akukhuthazwa ebantwini abaphila nedementia. Khulumani nodorhodere ngaphambi kokutjhugulula indlela enidla ngayo."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Iyimfihlo nokuphepha",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Kghani nibuthelela ilwazi elithileko?",
+              "a": "Akuna-akhawundi namkha amaphasalazo. Sisebenzisa i-Google Analytics ukubala abavakjengako nokubona bona ngimaphi amakhasi ancedako, begodu ibrawuza yakho iyakhumbula bona uthumele imisindo ethambileko na. Iintombe ozikhethela i-Photo pairs azilayitjhwa nakanye. Qalani isaziso seeyimfihlo ngemininingwana."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Kghani lesi seluleko sezepilo?",
+              "a": "Awa. I-Golden Moments ngeyokuzithokozisa nelwazi elijayelekileko kwaphela. Ebuzweni zepilo, khulumani nodorhodere, kanti ngeenkhathi zeengozi eziphuthumako biza u-112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Imininingwana eyengeziweko: <a href=\"/caregiving/how-to-play-together/\">indlela yokudlala nina nobabili</a>, <a href=\"/caregiving/when-they-say-no/\">lokha nabalako</a>, <a href=\"/activities/late-stage/\">imisebenzi yesigaba esiphambili</a> kanye <a href=\"/brain-health/can-dementia-be-prevented/\">kghani idementia ingavinjelwa?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Imihlalo Esimahla Nelula Yabantu Abaphila neDementia",
+      "seoTitle": "Iphepha Lokugadangisa: Imihlalo Yesimahla YeDementia Ku-inthanethi",
+      "description": "Iphepha elilodwa lokugadangisa lemindeni nabanakekeli elimayelana nemihlalo yeentombe esimahla nethambileko yabantu abaphila nedementia, elenzelwe iinqhema zokusekela namaphakethe wokunakekela.",
+      "crumb": "Iphepha lokugadangisa",
+      "lede": "Gadangisa lelikhasi lenzele iqhema lokusekela, iphakethe lokunakekela namkha emnyango wefrijidji. Sebenzisa umyalo we-Print webrawuza yakho; amamenyu namabhatoni akazukufakwa ephepheni eligadangiweko.",
+      "introHtml": "<p>Iintombe ezikulu, amezwi alula begodu akunamuntu ohlulekako. Kusimahla efowunini, ethebulethini namkha ekhompyutheni, ngaphandle kokutlolisisa, amaphasalazo, izibali-sikhathi namanqaku. Hlalani eceleni kwalomunye nithathelane amathuba.</p>",
+      "gamesTitle": "Imihlalo eningayilinga nobabili",
+      "restHtml": "<h2>Iinyelelo ezimbalwa</h2><ul><li>Khethani isikhathi selanga lapho umuntu azizwa akhululeke khulu.</li><li>Thomani ngendlela elula khulu. Amathayili amane anele khulu.</li><li>Khulumani ngeentombe. Ukucoca kuvamise ukuba yingcenye emnandi khulu.</li><li>Lisani kusesemnandi. Ukuphetha msinya kuwumphumela omuhle.</li></ul><h2>Kukhona godu kusayithi</h2><ul><li>Izinto zokugadangisa ezisimahla: ukufuna amagama ngamagama amakhulu, amakhasi wokufaka imibala, amakhadi wokucoca ne-picture bingo.</li><li>Imiyelelo yemisebenzi yesigaba ngasinye, nemihlahlandlela yokudlala ndawonye kanye nokuzinakekela wena ngokwakho.</li></ul><p class=\"muted\">Kukwenzela ukuzithokozisa nesikhathi sokuba ndawonye. Akusiso seluleko sezepilo, ukuhlolwa namkha ukulatjhwa. I-Golden Moments igadangiswa yi-Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Yenzelwe Amakhaya Wokunakekela, Amalayibrari Neenqhema Zokusekela",
+      "seoTitle": "Imisebenzi Yamahhala Yesifo Sokulibala Yezikhungo Zokunakekela Nezeqembu",
+      "description": "Indlela izikhungo zokunakekela, izinhlelo zosuku zabadala, imitapo yolwazi, izinhlangano zokunakekela abadala namaqembu okuxhasa ezisebenzisa ngayo imidlalo yethu yamahhala yesifo sokulibala, kanye nombhalo wokusifaka ohlwini lwezinsiza.",
+      "crumb": "Ezezinhlangano",
+      "lede": "Konke okusesikhungweni sethu kungasetshenziswa mahhala nabahlali, amalunga nabasizwa, ngaphandle kwe-akhawunti, ilayisensi noma intengo. Leli khasi lichaza ukuthi kukhona yini nokuthi ningakwabelana kanjani ngakho.",
+      "shortText": "{name}: imidlalo yezithombe emnene nemihlahlandlela yemisebenzi yamahhala yabantu abaphila nesifo sokulibala nabanakekeli babo. Akudingeki ubhalise, akukho sikhathi, akukho mphumela.",
+      "longText": "{name} ({domain}) inikeza imidlalo yesiphequluli engu-{count} yamahhala eyenzelwe abantu abaphila nesifo sokulibala, kubandakanya ukufanisa izithombe ezisasalokhu zibonakala, i-puzzle elula, ukuhlela, izisho ezijwayelekile kanye ne-bingo yezithombe enamakhadi okuphrinta. Akukho akhawunti, isikhangiso, isikhathi noma umphumela. Lesi sayithi siphinde sibe nemihlahlandlela yemisebenzi ngolimi olulula yezigaba zesifo sokulibala, enezinkomba ku-National Institute on Aging ne-Alzheimer's Association.",
+      "useTitle": "Okungasetshenziswa yizinhlangano",
+      "gamesItemHtml": "<strong>imidlalo yesiphequluli engu-{count}</strong> esebenza kukhompyutha ephathekayo, ethebhulethi noma kuthelevishini exhunywe kukhompyutha. Akudingeki ukufaka, i-akhawunti noma ukulanda. Bona <a href=\"/games/\">yonke imidlalo</a>.",
+      "printablesLabel": "izinto zokuphrinta engu-{count}:",
+      "printablesAfter": "Sebenzisa inkinobho ethi Phrinta kwelinye nelinye ikhasi.",
+      "moreItemsHtml": "<li><strong>Izindlela zamaqembu:</strong> <a href=\"/games/picture-bingo/\">I-bingo yezithombe</a> inamakhadi okuphrinta nomthathi wemidlalo osesikrinini, kanti <a href=\"/activities/trivia/\">imibuzo elula</a> inemibuzo engu-50 enezinketho zokuphendula nezihloko zokuxoxa.</li><li><strong>Imihlahlandlela yemisebenzi</strong> yabasebenzi nemindeni, ngezigaba nangezinhlobo, ibhalwe ngolimi olulula inezinkomba. Qalani nge-<a href=\"/activities/ideas/\">imibono yemisebenzi engu-101</a> noma nge-<a href=\"/activities/care-home-groups/\">imisebenzi yamaqembu ezikhungweni zokunakekela</a>.</li>",
+      "restHtml": "<h2>Indlela amaqembu asisebenzisa ngayo</h2><ul><li><strong>Izikhungo zokunakekela nokunakekelwa kwenkumbulo:</strong> i-bingo yezithombe noma ukuqeda isisho esaziwayo kuthelevishini egumbini elihlanganyelwayo, kukhethwe omunye umuntu ukuthi acindezele ngenxa yeqembu.</li><li><strong>Izinhlelo zosuku zabadala:</strong> isiteshi sethebhulethi esinemidlalo yezithombe ezifanayo esetshenziswa ngamathayili amane, ezikhathini ezimfushane zomuntu nomuntu.</li><li><strong>Imitapo yolwazi yomphakathi:</strong> imisebenzi yamagama eyaphrintiwe namakhadi okuxoxa emikhwameni yenkumbulo, nesayithi libekwe kumabhukumaki kumathebhulethi emitapo.</li><li><strong>Amaqembu okuxhasa abanakekeli nezindawo zokuxoxela zenkumbulo:</strong> <a href=\"/handout/\">incwadana eyodwa yokuphrinta</a> ukuze imindeni ithathe iyiphi ekhaya.</li><li><strong>Izibhedlela nabahleli bokukhululwa kwezigulane:</strong> incwadana engaphakathi kwamapakethe abanakekeli, ukuze kube nokuthile okuthulile okwenza ekhaya noma ngasebhedeni.</li></ul><h2>Lokho esingakwenzi</h2><p>Imidlalo yokujabula nokuchitha isikhathi kanye nomndeni. Ayixilongi, ayihloli, ayiphakamisi, ayelapheli noma ayinciphisi isifo sokulibala, futhi sicela ukuthi izinhlangano ningayichazi ngaleyo ndlela. Akukho zikhangiso, futhi imidlalo ayicelinaki mabizo, imininingwane yezempilo noma izithombe ukuthi zilayishwe. Iwebhusayithi isebenzisa i-Google Analytics ukubala izindwendwe; <a href=\"/privacy/\">isaziso sethu sobumfihlo</a> sichaza ukuthi yona iqoqa ini. Izithombe ezisetshenziswa ku-<a href=\"/games/photo-pairs/\">Izithombe ezifanayo</a> zihlala kusiphequluli.</p><h2>Faka thina ohlwini lwakho lwezinsiza</h2><p>Uma nigcina uhlu lwezinsiza zabanakekeli, ningaxhuma ku-<a href=\"/\">{domain}</a>. Ningakopisha noma iyiphi yezincazelo.</p>",
+      "shortTitle": "Incazelo emfushane",
+      "longTitle": "Incazelo ende",
+      "linksHtml": "<p>Amakhasi asizayo okuxhuma ngqo kiwo: <a href=\"/games/\">imidlalo yamahhala</a>, <a href=\"/activities/printable/\">izinto zamahhala zokuphrinta</a>, <a href=\"/activities/alzheimers/\">imisebenzi yesifo se-Alzheimer's</a> kanye <a href=\"/caregiving/how-to-play-together/\">indlela yokudlala ndawonye</a>.</p><h2>Imibuzo noma izilungiso</h2><p>Uma kukhona okungalungile noma okungacacile kwesayithi, noma izidingo zomhlali ezingahlangatshezwa yilokho okukhona lapha, sicela nisitshele ku-<a href=\"mailto:{email}\">{email}</a>. Sicela ningathumeli ulwazi lomuntu siqu noma lwezempilo lwabahlali noma lwabasizwa.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "I-App yeGolden Moments",
+      "seoTitle": "I-App yeGolden Moments ye-iPhone ne-Android",
+      "description": "I-app yamahhala yeGolden Moments: ukufanisa izithombe ngobumnene ngamathayili amakhulu amane, izithombe zomndeni egcinwa kudivayisi yakho, amaphakethe ezithombe asebenza ngaphandle kwe-inthanethi kanye nokungabi ne-akhawunti.",
+      "crumb": "I-app",
+      "lede": "Konke osikhonzayo esayithini, ku-app esebenza ngaphandle kwe-inthanethi futhi engasebenzisa izithombe zomndeni onazikhethela.",
+      "worksOn": "Isebenza ku-{platforms} ({requirements}).",
+      "bodyHtml": "<h2>Thoma kancani</h2><p>Thoma ngamakhadi amane amakhulu neenthombe ezijayelekileko. Lisa iinthombe zibonakale, nofana uzifihle lokha naku kukhululekile ukwenza njalo. Indlela yokuthula ayinaso isibali-skhathi, amaphuzu nofana isijeziso. Khetha amakhadi a-4, 6, 8 nofana ama-12.</p><h2>Yenze ibe ngeyakho</h2><p>Khetha iinthombe zekhaya ngokusebenzisa isikhethi-zithombe sedivayisi yakho. I-epu ibulunga amakhophi amancani wemisebenzi yayo. Ayihloli umtapo wakho weenthombe nofana ukutjhugulula iinthombe zakho zekuthomeni, begodu ibulunga iinthombe ezifika ema-24 eqoqweni linye.</p><h2>Qalani ndawonye kwaphela</h2><p>Qalani isithombe sinye ngesikhathi. Imibuzo oyikhethako ivula ikulumo ngaphandle kokubawa umuntu bona akhumbule amabizo nofana aphendule ngendlela ekhambisanako. Ukuqala kwaphela kwanele.</p><h2>Isebenza ngaphandle kwe-inthanethi lapho kuqakatheke khona</h2><p>Iinthombe zokuthoma neenqoqo zeenthombe zoke ezibunane zifakiwe nge-epwini. Amakhophi weenthombe afakiweko asebenza ngaphandle kwe-inthanethi. Ukukhetha iinthombe zekuthomeni ezibulungwe ku-iCloud kwaphela kungatlhoga ukuthintana kwe-inthanethi.</p><h2>Ayinayo i-akhawunti, ayinasi-seva sokuvumelanisa iinthombe</h2><p>Amakhophi weenthombe zekhaya ahlala nge-epwini kileyo divayisi. Ungawasusa amakhophi ngaphandle kokususa iinthombe zekuthomeni. Iinkhophi zokuphepha zedivayisi zingafaka ilwazi le-epu. Funda <a href=\"/app-privacy/\">umthetho wokuvikela ilwazi we-epu</a>, begodu <a href=\"/help/\">isizo le-epu</a> lichaza igadango ngalinye.</p>",
+      "disclaimer": "I-Golden Moments yenzelwe ukuzithabisa nokukhulumisana ndawonye. Ayihloleli, ayilaphi, ayivimbeli begodu ayipimi i-dementia nofana ukugula kwe-Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Imithlalo Yamahala Ye-Dementia ne-Alzheimer Ku-inthanethi",
+    "description": "Imithlalo yamahala yaku-inthanethi yabantu abadala abaphila ne-dementia nofana i-Alzheimer: ukufanisa iinthombe, amaphazili alula, ukuhlela, izaga, ukufaka imibala, i-bingo. Akunamrejhisto, izibali-skhathi namaphuzu.",
+    "crumb": "Imithlalo",
+    "h1": "Imithlalo Ethambileko Yabantu Abaphila ne-Dementia",
+    "lede": "Imithlalo yamahala eyingi-{count} yokudlala ndawonye kusiphequluli sakho. Iinthombe ezikulu, amezwi alula, begodu akunalitho lokuhluleka: azikho izibali-skhathi, amaphuzu, nofana ukutlolisa.",
+    "listName": "Imithlalo ethambileko yabantu abaphila ne-dementia",
+    "byStageTitle": "Ukukhetha umthlalo ngokuya ngesiteji",
+    "byStageLede": "Iinteji zisisinqophiso esijayelekileko kwaphela. Landela lokho okuthabisako nomuntu omtlhogomelako nalokho okuzizwa kukhululekile namhlanjesi.",
+    "stageCol": "Isiteji",
+    "gamesCol": "Imithlalo evamise ukufaneleka",
+    "moreHtml": "Imicabango eminye ekhatjhana nesikrini: <a href=\"/activities/ideas/\">imisebenzi eyi-101 yabantu abaphila ne-dementia</a>, <a href=\"/activities/alzheimers/\">imisebenzi nemithlalo ye-Alzheimer</a>, <a href=\"/activities/memory-games/\">imithlalo yomkhumbulo ethambileko</a> kunye <a href=\"/activities/puzzles/\">namaphazili</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Kufuze sithome ngowuphi umthlalo?",
+        "a": "Ukufanisa iinthombe ngamakhadi amane kukhetho lokuthoma elithulileko. Nangabe ukukhetha hlangana neenthombe kuzwakala kubudisi, lingani Thola efanako ngeenthombe ezimbili. Esiqopheni seengidi, lingani I-bingo yeenthombe."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Kazi imithlalo iyasebenza ku-iPad nofana ifowuni?",
+        "a": "Iye. Woke umthlalo usebenza kusiphequluli eemfowunini, kumathebulethi nakumakhompuyutha, begodu iinthombe ziyakhula zizale isikrini. Ithebulethi esisekisekelweni ivamise ukukhululeka khulu ebantwini ababili."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Ingabe imithlalo le ilungele umuntu ophila ne-Alzheimer?",
+        "a": "Iye. Yenzelwe abantu abaphila ne-dementia, kuhlanganise ne-Alzheimer, okungiyo ebangela lokhu ngokuvamileko. Iinthombe zihlala zibonakala, kuneenkhetho ezimbalwa kwaphela, begodu akunalitho elinesikhathi namaphuzu, ngalokho imithlalo itjheja ukulemuka izinto ezijayelekileko kunokukhumbula ezitjha."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Ingabe le yimithlalo yomkhumbulo yabantu abadala?",
+        "a": "Yimithlalo yokufanisa neyeenthombe engathatjiswa nginanyana ngimuphi umuntu omdala, kodwana yakhelwe ukungahloli umkhumbulo: ku-Picture pairs iinthombe zihlala zibheke phezulu ngaphandle kwalokha ukhetha ngenye indlela. Isinqophiso sethu semithlalo yomkhumbulo yabantu abadala abaphila ne-dementia sihlathulula indlela yokwenza nanyana ngimuphi umthlalo womkhumbulo uthambe."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Ingabe ikhona imithlalo yeengidi ekhaya labagugileko?",
+        "a": "Iye. I-bingo yeenthombe inamakhadi agadangiswako nommemezi osesikrinini, begodu Qeda isaga namakhadi wekulumo asebenza kuhle lokha nafundelwa isiqhema phezulu."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad ne-Android",
+    "requirements": "iOS 15 nofana engaphezulu; Android 7.0 nofana engaphezulu",
+    "summary": "I-epu yamahala ye-iPhone, iPad ne-Android enokufaniswa kweenthombe okuthambileko emakhadini amakhulu amane ukuya kwalitjhumi nambili, ukufanisa nokuqala ngeenthombe zekhaya ozikhethako, neenqoqo zeenthombe ezibunane ezifakiweko ezisebenza ngaphandle kwe-inthanethi. Ayina-akhawunti, iinzikiso, isibali-skhathi namaphuzu.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Ukufaniswa kweenthombe okuthambileko ngamakhadi amakhulu a-4, 6, 8 nofana ama-12; iinthombe zihlala zibonakala ngaphandle kwalokha ukhetha ukuzifihla",
+      "Iinthombe zekhaya ozikhethako zikhutshelwa nge-epwini ukwenzela ukufaniswa nokuqalwa ndawonye",
+      "Qalani ndawonye: isithombe sinye ngesikhathi kuneenkulumo ozikhethako",
+      "Iinqoqo zeenthombe ezibunane zifakiwe nge-epwini; zisebenza ngaphandle kwe-inthanethi",
+      "Akunamikhawulo ye-akhawunti, iinzikiso, ukuthenga nge-epwini, isibali-skhathi, amaphuzu nofana isijeziso"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Ingabe ikhona i-epu yemisebenzi ye-dementia?",
+        "a": "Iye. I-Golden Moments (efakwe njenge-\"{storeName}\") isimahla ku-App Store ne-Google Play. Inikela ngokufaniswa kweenthombe okuthambileko ngamakhadi amakhulu, imithlalo eneenthombe zekhaya ozikhethako, neenqoqo zeenthombe ezisebenza ngaphandle kwe-inthanethi."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Ingabe i-epu ye-Golden Moments isimahla?",
+        "a": "Iye. Isimahla ukuyidawuniloda, ayinazinzikiso, i-akhawunti nofana ukuthenga nge-epwini."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Ingabe i-epu iyasebenza ngaphandle kwe-inthanethi?",
+        "a": "Iye. Iinthombe zokuthoma nazo zoke iinqoqo zeenthombe ezibunane zifakiwe nge-epwini, begodu iinthombe zekhaya zisebenza ngaphandle kwe-inthanethi lokha nazikhutshelwe nge-epwini. Ukukhetha isithombe esibulungwe ku-iCloud kwaphela kungatlhoga ukuthintana kwe-inthanethi."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Ngingakwazi ukusebenzisa iinthombe zekhaya lekhethu?",
+        "a": "Iye. Khetha iinthombe usebenzisa isikhethi-zithombe sesisetjenziswa sakho. I-app ibulunga amakhophi amancani esisetjenzisweni semisebenzi yayo, ayiwafaki ku-inthanethi begodu ayitjhugululi iinthombe zokuthoma. Ungawasusa amakhophi la nanyana ngasiphi isikhathi."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Kazi le y-app yokuqeqetjha ingqondo namkha yokuhlola ikhumbulo?",
+        "a": "Awa. I-Golden Moments yenzelwe ukuthabela nokuba ndawonye. Ayinamaphuzu namkha iinhlolo, begodu ayihloli, ayilaphi, ayikhandeli namkha ayilinganisi idementia namkha ubulwelwe be-Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Isebenza kuphi iinsetjenziswa?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Ikhona i-app yomdlalo lo?",
+      "a": "Iye. I-app yamahala ye-Golden Moments ye-iPhone, iPad ne-Android inokufanisa iinthombe ngobumnene okufanako, ingasebenzisa iinthombe zomndeni ozikhethako, begodu isebenza ngaphandle kwe-inthanethi. Ayifuni i-akhawunti, iikhangiso namkha amaphuzu."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Ikhona i-app yomdlalo lo?",
+      "a": "Awa, ingasi ngomdlalo lo. I-app yamahala ye-Golden Moments ye-iPhone, iPad ne-Android inokufanisa iinthombe ngobumnene ngamathayili amakhulu neenthombe zomndeni ozikhethako, begodu isebenza ngaphandle kwe-inthanethi. Umdlalo lo uhlala umumahala lapha kubhrawuza yakho."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: iinthombe ezikulu nezithandekako",
+    "noscript": "Umdlalo lo utlhoga bona i-JavaScript ivulwe kubhrawuza yakho. Amacebiso angezasi asebenza ngaphandle kwayo.",
+    "about": "Mayelana ne-{name}",
+    "aboutAria": "Mayelana nomdlalo lo",
+    "noTimer": "Akunasibali-sikhathi namkha amaphuzu",
+    "printable": "Ingagadangiswa",
+    "howTo": "Indlela yokudlala i-{name}",
+    "tips": "Amacebiso wokudlala ndawonye",
+    "newToPlayingHtml": "Kukutjha kuwe ukudlala nomuntu ophila nedementia? Funda <a href=\"/caregiving/how-to-play-together/\">indlela yokudlala imidlalo ndawonye</a>, kuhlanganise nokobana kungenziwani nange baphelelwa yikareko.",
+    "moreAria": "Okunye ongakuhlola",
+    "helpfulGuides": "Iinqophiso ezilisizo",
+    "appTitle": "Wudlale ku-app",
+    "appText": "I-app yamahala ye-Golden Moments inokufanisa iinthombe ngobumnene ngamathayili amakhulu neenthombe zomndeni wakho, begodu isebenza ngaphandle kwe-Wi‑Fi. iPhone, iPad ne-Android.",
+    "photoAppTitle": "Lungisa iinthombe zakho",
+    "photoAppText": "Ku-app yamahala ye-Golden Moments, iinthombe ozikhethako zihlala esisetjenzisweni sakho zenzela isikhathi esilandelako, nemidlalo isebenza ngaphandle kwe-Wi‑Fi. iPhone, iPad ne-Android.",
+    "goodToKnow": "Kuhle ukwazi",
+    "goodToKnowText": "Umdlalo lo wenzelwe ukuthabela nokuba ndawonye. Awuhloli, awulinganisi begodu awulaphi litho.",
+    "moreGames": "Imidlalo eminye yobumnene",
+    "crumb": "Imidlalo"
   }
 }

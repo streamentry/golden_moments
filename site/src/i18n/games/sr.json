@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Парови слика",
+    "seoTitle": "Игра подударања за деменцију: Парови слика",
+    "h1": "Парови слика: нежна игра спајања",
+    "description": "Бесплатна, нежна игра спајања за особе које живе са деменцијом. Велике слике остају видљиве, нема мерача времена ни бодова, а бирате од 4 до 12 поља.",
+    "short": "Пронађите две исте слике. Слике могу стално остати видљиве.",
+    "players": "1 или 2 особе, једна поред друге",
+    "intro": "Додирните једну слику, па додирните ону која јој одговара. Слике су по подразумеваним подешавањима увек видљиве, па ништа не морате да памтите. Када два пара иду заједно, добијају златни оквир и знак за потврду.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Изаберите колико поља желите. Четири поља су миран почетак.",
+      "Додирните било коју слику. Добиће златни оквир.",
+      "Додирните слику која изгледа исто. Пар остаје заједно, уз знак за потврду.",
+      "Ако су две слике различите, ништа лоше се не дешава. Додирните поново кад будете спремни.",
+      "Укључите „Скривене слике“ само ако обоје волите класичну верзију с окренутим картама."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Заједно именујте слике и разговарајте о њима: „Црвена шољица за чај. Да ли пијете чај с млеком?“",
+      "Нека особа о којој бринете сама додирује слике, чак и ако то потраје. Уместо да додирујете уместо ње, покажите прстом.",
+      "Останите при четири поља докле год вам је пријатно. Више поља је избор, а никада ниво који треба достићи.",
+      "Завршите док је још пријатно. Једна игра је сасвим довољна за потпуну активност."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Има ли мерача времена или бодова?",
+        "a": "Не. Нема сата, бодова, бројача потеза ни губљења. Можете стати у било ком тренутку, а прекид на пола пута је сасвим добар начин да завршите."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Зашто слике остају окренуте нагоре?",
+        "a": "Ако слике стално буду видљиве, игра постаје гледање и спајање, а не памћење. Многи људи то доживе као смиреније. Ако желите, можете прећи на скривене слике једним додиром."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Да ли је бесплатно и морам ли да се региструјем?",
+        "a": "Да, бесплатно је и није потребан налог, регистрација ни преузимање. Ради у веб прегледачу на телефону, таблету или рачунару."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Можемо ли да користимо наше породичне фотографије?",
+        "a": "Можете. Пробајте Парови фотографија, где можете да изаберете фотографије са уређаја. Фотографије остају у вашем прегледачу и не отпремају се."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Пронађи исту",
+    "seoTitle": "Пронађи исту слику: једноставна игра за деменцију",
+    "h1": "Пронађи исту слику",
+    "description": "Једна слика при врху, две до четири испод. Додирните ону која је иста. Мирна, бесплатна игра са сликама за особе које живе са деменцијом, без мерача времена.",
+    "short": "Погледајте слику при врху и додирните исту такву испод.",
+    "players": "1 или 2 особе",
+    "intro": "При врху екрана стоји једна слика. Испод ње су две, три или четири слике. Додирните ону која је иста. То је један једноставан избор у једном тренутку, уз доста простора за разговор.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Изаберите две, три или четири слике за избор. Две су најједноставније.",
+      "Заједно погледајте слику при врху.",
+      "Додирните исту слику испод. Биће обележена знаком за потврду и неколико топлих речи.",
+      "Ако се додирне друга слика, игра је једноставно именује и сачека. Узмите колико вам треба.",
+      "Додирните „Следећа слика“ кад будете спремни за још једну."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Пре избора разговарајте о свакој слици: боје, облици, где бисте је могли видети.",
+      "Два избора нису „прелако“. Циљ је пријатан тренутак, а не изазов.",
+      "Ако је додиривање тешко, особа може показати прстом, а ви можете додирнути уместо ње."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Има ли мерача времена или бодова?",
+        "a": "Не. Нема сата, бодова, бројача потеза ни губљења. Можете стати у било ком тренутку, а прекид на пола пута је сасвим добар начин да завршите."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Шта се дешава ако се додирне погрешна слика?",
+        "a": "Ништа непријатно. Нема звука упозорења, црвеног крста ни треперења. Игра именује додирнуту слику и чека следећи додир."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Да ли је бесплатно и морам ли да се региструјем?",
+        "a": "Да, бесплатно је и није потребан налог, регистрација ни преузимање. Ради у веб прегледачу на телефону, таблету или рачунару."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Подударање сенке",
+    "seoTitle": "Игра подударања сенки за деменцију: бесплатно на мрежи",
+    "h1": "Подударање сенке: нежна игра са сликама",
+    "description": "Тамна сенка при врху, две до четири слике испод. Додирните слику која прави сенку. Бесплатна, мирна игра подударања сенки за деменцију, без мерача времена.",
+    "short": "Погледајте сенку и додирните слику која је ствара.",
+    "players": "1 или 2 особе",
+    "intro": "Подударање сенки је позната активност из штампаних радних листова, овде са великим сликама и без штампања. Мекана сенка стоји при врху екрана, а испод чекају две, три или четири слике. Додирните ону која прави сенку. Облике попут бицикла, кишобрана или шољице лако је и описати.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Изаберите две, три или четири слике за избор. Две су најједноставније.",
+      "Заједно погледајте сенку. Какав је облик? Да ли је висока или округла?",
+      "Додирните слику која прави сенку. Њен назив се појављује испод сенке.",
+      "Ако се додирне друга слика, игра је једноставно именује и чека. Узмите колико вам треба.",
+      "Додирните „Следећа сенка“ кад будете спремни за још једну."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Прстом пратите контуру сенке и разговарајте о облику.",
+      "Ако су сенке данас тешке, пређите на Пронађи исту, где слике изгледају слично.",
+      "Кад се слика пронађе, разговарајте о њој: „И ми смо имали овакав кишобран.“"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Има ли мерача времена или бодова?",
+        "a": "Не. Нема сата, бодова, бројача потеза ни губљења. Можете стати у било ком тренутку, а прекид на пола пута је сасвим добар начин да завршите."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Da li je igra podudaranja senki dobra za osobe koje žive sa demencijom?",
+        "a": "Može biti prijatna i jednostavna aktivnost za neke ljude, naročito u ranijim fazama. Oblike je obično lakše prepoznati nego reči. Namenjena je zabavi i razgovoru, a ne testiranju, i ne leči niti usporava demenciju. Ako izaziva nervozu, probajte igru „Pronađi isto“ ili jednostavno zajedno gledajte slike."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Šta se dešava ako se dodirne pogrešna slika?",
+        "a": "Ništa neprijatno. Nema zvučnog signala, crvenog krsta ni treperenja. Igra kaže koja je slika dodirnuta i čeka sledeći dodir."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Da li je besplatna i da li treba da se registrujem?",
+        "a": "Da, besplatna je, i nema naloga, registracije ni preuzimanja. Radi u veb pregledaču na telefonu, tabletu ili računaru."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Razvrstavanje zajedno",
+    "seoTitle": "Igra razvrstavanja za demenciju: Razvrstajte zajedno",
+    "h1": "Razvrstajte zajedno: aktivnost razvrstavanja slika",
+    "description": "Dodirnite sliku, pa korpu u koju ona pripada: kuhinja ili bašta, voće ili životinje. Mirna i besplatna aktivnost razvrstavanja za osobe koje žive sa demencijom.",
+    "short": "Stavite svaku sliku u njenu korpu: kuhinja ili bašta, i još mnogo toga.",
+    "players": "1 ili 2 osobe",
+    "intro": "Razvrstavanje je poznat i prijatan svakodnevni posao, kao kada slažete namirnice ili uparujete čarape. Dodirnite sliku, pa korpu u koju ona pripada. Nema žurbe i nema pogrešnog koraka.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Izaberite temu: kuhinja i bašta, voće i životinje, ili dom i putovanja.",
+      "Dodirnite sliku. Dobija zlatni okvir.",
+      "Dodirnite korpu u koju ona pripada. Slika se premešta u tu korpu.",
+      "Ako pripada drugoj korpi, igra to blago kaže i čeka.",
+      "Kada su sve slike razvrstane, zajedno pogledajte korpe."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "U stvarnom životu često nema pogrešnih odgovora. Ako neko kaže da kanta za zalivanje pripada kuhinji, pitajte zašto. Možda ćete čuti lepu priču.",
+      "Koristite slike kao povod za razgovor: „Šta ste gajili u bašti?“",
+      "Razvrstavanje pravih predmeta, kao što su kašike i viljuške ili dugmad po boji, odlična je nastavka van ekrana."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Da li postoji tajmer ili bodovanje?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete stati u bilo kom trenutku, a prekid na pola puta je sasvim dobar način da završite."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Zašto razvrstavanje?",
+        "a": "Mnogima je prijatno razvrstavanje jer deluje kao koristan i poznat posao. Uz to je lako razgovarati o slikama dok radite."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Da li je besplatna i da li treba da se registrujem?",
+        "a": "Da, besplatna je, i nema naloga, registracije ni preuzimanja. Radi u veb pregledaču na telefonu, tabletu ili računaru."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Slagalica sa slikom",
+    "seoTitle": "Laka slagalica za demenciju: 4 ili 9 delova",
+    "h1": "Slagalica sa slikom: laka slagalica",
+    "description": "Laka slagalica na mreži za osobe koje žive sa demencijom: 4 ili 9 velikih delova, cela slika ostaje vidljiva, a delove menjate tako što dodirnete dva dela.",
+    "short": "Dodirnite dva dela da ih zamenite, dok slika ne bude cela.",
+    "players": "1 ili 2 osobe",
+    "intro": "Prijatna slika se seče na četiri ili devet velikih delova i meša. Cela slika ostaje vidljiva kao vodič. Dodirnite jedan deo, pa drugi, i zameniće mesta. Prevlačenje nije potrebno.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Izaberite sliku i 4 ili 9 delova. Četiri je blag početak.",
+      "Pogledajte celu sliku na vrhu.",
+      "Dodirnite deo, pa mesto na kome treba da bude. Dva dela se zamene.",
+      "Delovi na pravom mestu dobijaju malu kvačicu.",
+      "Kada je slika cela, uživajte u njoj zajedno, pa izaberite drugu."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Dodirivanje dva dela da ih zamenite mnogima je znatno lakše nego prevlačenje.",
+      "Razgovarajte o slici dok se sastavlja: „Evo crvenog krova.“",
+      "Prava drvena slagalica sa 12 do 24 velika dela takođe je lepa aktivnost za stolom."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Da li postoji tajmer ili bodovanje?",
+        "a": "Ne. Nema sata, bodova, brojača poteza ni gubljenja. Možete stati u bilo kom trenutku, a prekid na pola puta je sasvim dobar način da završite."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Da li moram da prevlačim delove?",
+        "a": "Ne. Dodirnite jedan deo, pa drugi, i zameniće mesta. Ovo je lakše ako ruka drhti ili je ekran mali."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Da li je besplatna i da li treba da se registrujem?",
+        "a": "Da, besplatna je, i nema naloga, registracije ni preuzimanja. Radi u veb pregledaču na telefonu, tabletu ili računaru."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Dovršite izreku",
+    "seoTitle": "Dovršite izreku: igra poslovica za starije",
+    "h1": "Dovršite izreku",
+    "description": "Poznate narodne izreke kojima nedostaje poslednja reč, na primer „Bolje vrabac u ruci nego golub na ___“. Dodirnite odgovor ili pokažite završetak, pa razgovarajte o tome.",
+    "short": "Zajedno dovršite poznate izreke, pa razgovarajte o njima.",
+    "players": "1, 2 ili grupa",
+    "intro": "Stare izreke su često dugo poznate. Svaka kartica prikazuje poznatu izreku kojoj nedostaje poslednja reč, tri ponuđena odgovora i dugme „Pokaži završetak“. Posle završetka, blago pitanje poziva na razgovor.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Zajedno glasno pročitajte izreku.",
+      "Dodirnite reč koja je završava ili dodirnite „Pokaži završetak“.",
+      "Pročitajte celu izreku ponovo i razgovarajte o njoj uz pomoć pitanja.",
+      "Dodirnite „Sledeća izreka“ kada budete spremni."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Čitajte polako i ostavite pauzu pre poslednje reči. Često osoba izgovori reč pre vas.",
+      "Ako neko da drugačiji završetak, uživajte u tome. Neke verzije izreka razlikuju se od porodice do porodice i od kraja do kraja.",
+      "U grupi jedna osoba čita, a svi se pridružuju pri završetku."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Da li postoji tajmer ili bodovanje?",
+        "a": "Не. Нема сата, бодова, бројача потеза ни губитка. Можете да станете у било ком тренутку, а прекидање на пола пута је сасвим добар начин да завршите."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Шта ако изаберемо другу реч?",
+        "a": "Игра приказује уобичајени завршетак и прелази на разговор. Нема бодова, а други одговор је у реду."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Да ли је бесплатно и да ли треба да се региструјем?",
+        "a": "Да, бесплатно је и нема налога, регистрације ни преузимања. Ради у веб прегледачу на телефону, таблету или рачунару."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Слагалица речи великим словима",
+    "seoTitle": "Слагалица речи велика слова за деменцију, за штампу",
+    "h1": "Слагалица речи великим словима",
+    "description": "Бесплатна слагалица речи великим словима за старије особе и особе са деменцијом. Мало речи, велика слова, само водоравно и усправно. Игра се на мрежи или се штампа.",
+    "short": "Велика слова, мало речи, само водоравно и усправно. Можете и да је одштампате.",
+    "players": "1 или 2 особе",
+    "intro": "Мала мрежа са великим словима и само неколико речи, све написане водоравно или усправно. Додирните прво слово речи, па њено последње слово. Више волите папир? Одштампајте нову слагалицу једним додиром.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Изаберите тему и величину мреже.",
+      "Погледајте списак речи. Речи се читају слева удесно или одозго надоле.",
+      "Додирните прво слово речи, па додирните њено последње слово.",
+      "Пронађена реч се обележи и прецрта на списку.",
+      "Додирните „Одштампај ову слагалицу“ да бисте играли на папиру оловком или маркером."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Покажите на реч на списку и заједно тражите њено прво слово.",
+      "На папиру је маркер лакши за држање од оловке.",
+      "Причајте о темама речи. Речи о воћу су природан начин да се дође до сећања на брање, печење или пијаце."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Да ли има тајмера или бодова?",
+        "a": "Не. Нема сата, бодова, бројача потеза ни губитка. Можете да станете у било ком тренутку, а прекидање на пола пута је сасвим добар начин да завршите."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Могу ли да одштампам слагалицу?",
+        "a": "Да. Додирните „Одштампај ову слагалицу“ да одштампате тренутну мрежу великим словима, са списком речи испод. Свака нова слагалица је другачија."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Да ли је бесплатно и да ли треба да се региструјем?",
+        "a": "Да, бесплатно је и нема налога, регистрације ни преузимања. Ради у веб прегледачу на телефону, таблету или рачунару."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Странице за бојење",
+    "seoTitle": "Странице за бојење за особе са деменцијом (бесплатно)",
+    "h1": "Странице за бојење",
+    "description": "Једноставне странице за бојење за одрасле, са великим површинама: додирните боју, па слику. Без нереда, без погрешних боја, а свака страница може бесплатно да се штампа.",
+    "short": "Додирните боју, па део слике. Можете и да штампате странице.",
+    "players": "1 или 2 особе",
+    "intro": "Странице са великим, једноставним облицима: цвет у саксији, кућа, шољица чаја, лептир и једрилица. Додирните боју, па део слике да га попуните. Нема погрешних боја.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Изаберите страницу.",
+      "Додирните боју. Име сваке боје је написано на њој.",
+      "Додирните део слике да га попуните том бојом.",
+      "Промените мишљење било када тако што ћете га поново попунити.",
+      "Додирните „Одштампај ову страницу“ за празну страницу за бојење оловкама или маркерима."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Понудите две боје на избор уместо целе палете ако избор делује превише.",
+      "Љубичасто дрвеће и плаво сунце су добродошли. Ради се о уживању у боји, а не о тачности.",
+      "Одштампане странице добро иду уз дебеле маркере или воштане бојице, које је лакше држати."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Да ли има тајмера или бодова?",
+        "a": "Не. Нема сата, бодова, бројача потеза ни губитка. Можете да станете у било ком тренутку, а прекидање на пола пута је сасвим добар начин да завршите."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Да ли су ове странице превише дечје?",
+        "a": "Нацртали смо мирне, једноставне предмете, а не цртиће, па странице одговарају одраслима. Велики облици олакшавају бојење и не делују детињасто."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Да ли је бесплатно и да ли треба да се региструјем?",
+        "a": "Да, бесплатно је и нема налога, регистрације ни преузимања. Ради у веб прегледачу на телефону, таблету или рачунару."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Картице за разговор",
+    "seoTitle": "Теме за разговор за деменцију: картице са сликама",
+    "h1": "Картице за разговор",
+    "description": "Картице са сликама и нежним темама за разговор за особе са деменцијом: без испитивања, без тачних одговора. Користите их на екрану или одштампајте цео сет.",
+    "short": "Картице са сликама и отвореним, нежним питањима. Без испитивања.",
+    "players": "2 особе или група",
+    "intro": "Свака картица спаја познату слику са отвореним позивом на разговор, као што је „Какво време највише волите?“ Нема тачних одговора и ништа се не мора запамтити. Изаберите тему или измешајте све картице.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Изаберите тему или оставите „Све картице“.",
+      "Прочитајте питање наглас и заједно погледајте слику.",
+      "Слушајте, поделите и свој одговор и пустите разговор да тече слободно.",
+      "Додирните „Следећа картица“ када будете спремни или останите на једној картици колико желите.",
+      "Додирните „Одштампај све картице“ за папирни сет за исецање."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Одговорите и ви на питање. Тако је то разговор, а не испит.",
+      "Пратите причу, а не чињенице. Ако се детаљи промене, то је у реду.",
+      "Ако нека картица дотакне нешто тужно, признајте осећање и нежно пређите на другу картицу."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Зашто нема питања типа „Да ли се сећате…?“",
+        "a": "Питања која проверавају памћење могу да делују као испит и изазову непријатност. Отворени позиви, попут „Причајте ми о…“, омогућавају свакоме да се укључи, без обзира на то шта се сећа."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Могу ли да одштампам картице?",
+        "a": "Да. „Одштампај све картице“ штампа цео сет великим словима, више картица на страници, спремно за исецање."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Да ли је бесплатно и да ли треба да се региструјем?",
+        "a": "Да, бесплатно је, и не треба налог, пријава или преузимање. Ради у веб прегледачу на телефону, таблету или рачунару."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Парови фотографија",
+    "seoTitle": "Направите игру спаривања од породичних фотографија",
+    "h1": "Парови фотографија: спојите своје фотографије",
+    "description": "Претворите своје породичне фотографије у нежну игру спаривања. Изаберите од 2 до 6 фотографија на свом уређају; оне остају у вашем прегледачу и никада се не отпремају.",
+    "short": "Изаберите своје фотографије и спојите их у парове. Ништа се не отпрема.",
+    "players": "2 особе, једна поред друге",
+    "intro": "Изаберите две до шест фотографија са телефона, таблета или рачунара, и оне постају игра спаривања са великим, јасно видљивим сликама. Фотографије се приказују само на овој страници. Не отпремају се, не чувају се и не дele се, а нестају када затворите страницу.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Додирните „Изаберите фотографије“ и изаберите од две до шест фотографија.",
+      "Свака фотографија се појављује два пута. Додирните једну, па додирните њен пар.",
+      "Причајте о свакој фотографији када је пронађете.",
+      "Када завршите, затворите страницу или додирните „Обришите фотографије“. Ништа се не чува."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Изаберите јасне фотографије нечега драгог и познатог: кућног љубимца, баште, омиљеног места, венчања.",
+      "Слике места и предмета могу бити лакше од лица и не стварају притисак да се неко именује.",
+      "Изоставите фотографије особа које су преминуле ако могу изазвати изненадну тугу, осим ако знате да доносе утеху."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Да ли се моје фотографије отпремају негде?",
+        "a": "Не. Страница чита фотографије које изаберете директно у вашем прегледачу и приказује их на екрану. Не шаљу се нама нити било коме другом, а нестају када затворите или поново учитате страницу."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Да ли постоји тајмер или резултат?",
+        "a": "Не. Нема сата, бодова, бројача потеза ни губитка. Можете стати у било ком тренутку, а прекид на пола пута је сасвим добар начин да завршите."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Могу ли сачувати игру за следећи пут?",
+        "a": "Не у прегледачу, намерно, тако да се ништа лично не чува. Бесплатна апликација Golden Moments за iPhone и iPad може на вашем уређају да чува одабране копије фотографија."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Бинго са сликама",
+    "seoTitle": "Бинго са сликама за старије особе са деменцијом: за штампање",
+    "h1": "Бинго са сликама за групе",
+    "description": "Бесплатан бинго са сликама за штампање, за установе за негу памћења и групе старијих, са великим прозивањем на екрану. Велике слике са речима, 9 или 16 поља, без потребе за читањем.",
+    "short": "Картице за бинго са сликама за штампање и велики екран за групе.",
+    "players": "Група од 2 до 30 особа",
+    "intro": "Класичан бинго са сликама уместо бројева, тако да нико не мора да чита ситан текст. Одштампајте сет јединствених картица, па користите екранског водитеља да се свака слика прикаже велика на телевизору, лаптопу или таблету.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Изаберите 9 или 16 поља по картици и број играча.",
+      "Додирните „Штампајте картице“. Свака картица је другачија.",
+      "Отворите водитеља на великом екрану. Додирните „Следећа слика“ да прикажете сваку слику са њеним називом.",
+      "Играчи прекривају одговарајућу слику на својој картици новчићем, дугметом или маркером.",
+      "Свако ко попуни ред или целу картицу добија аплауз. У овој верзији нема губитника: настављајте да играте док сви не добију ред."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Користите велике жетоне, као што су дама или чепови од флаша. Мала дугмад може бити тешка за хватање.",
+      "Именујте слику и кажите нешто о њој: „Једрилица. Ко је некада био на броду?“",
+      "Посадите особе са слабим видом најближе екрану и упарите помоћнике са играчима којима је помоћ потребна.",
+      "Девет поља је довољно за већину група. Трајање од око 20 до 30 минута је добро."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Како да водим бинго са сликама у установи за смештај?",
+        "a": "Одштампајте по једну картицу за сваког играча, поставите водитеља на највећи екран који имате и прозивајте слике полако, називајући сваку. Играјте док сви не добију ред, тако да нико не остане по страни."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Да ли је штампање бесплатно?",
+        "a": "Да. Одштампајте онолико картица колико вам треба, колико пута желите, за личну или групну употребу."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Могу ли људи да играју без читања?",
+        "a": "Да. Свако поље је велика слика, а њен назив је испод за оне који воле речи."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Смирено дисање",
+    "seoTitle": "Смирена пауза за дисање за старије особе и неговатеље",
+    "h1": "Смирена пауза за дисање",
+    "description": "Спора, тиха пауза за дисање коју делите: нежни круг се шири и скупља током шест удисаја. Ви покрећете, а можете и стати у било ком тренутку.",
+    "short": "Спор круг уз који дишете. Покрените и зауставите кад год желите.",
+    "players": "1 или 2 особе",
+    "intro": "Понекад је најбоља активност тиха пауза. Додирните „Почните“, па удишите док се круг шири и издишите док се скупља. Изаберите спорији или бржи ритам. Није терапија, већ миран тренутак који делите.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Седите удобно једно поред другог.",
+      "Изаберите ритам: спор или нежан.",
+      "Додирните „Почните“. Удишите док се круг шири, а издишите док се скупља.",
+      "Зауставља се сам након шест удисаја, или додирните „Зауставите“ кад год желите."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Држите се за руке или положите руку на руку особе ако је то добродошло.",
+      "Никада не инсистирајте. Ако би радије гледали, то је у реду.",
+      "Ако неко има тешкоћа са дисањем, дишите природно и једноставно посматрајте круг. Питајте лекара о свим бригама у вези са дисањем."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Да ли је ово медицинска вежба дисања?",
+        "a": "Не. То је једноставна, изборна пауза за смиреност и дружење. Није лечење анксиозности нити било којег стања. Разговарајте са лекаром о здравственим тегобама."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Да ли се круг креће ако ја не почнем?",
+        "a": "Не. Ништа се не помера док не додирнете „Започни“, а престаје после шест удисаја или кад додирнете „Заустави“. Ако је уређај подешен да смањи покрет, речи се мењају, а круг се не шири."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Да ли је бесплатно и треба ли да се региструјете?",
+        "a": "Да, бесплатно је, и не треба вам налог, пријава ни преузимање. Ради у интернет прегледачу на телефону, таблету или рачунару."
       }
     ]
   }

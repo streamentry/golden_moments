@@ -15,6 +15,8 @@ from __future__ import annotations
 
 import argparse
 import csv
+import itertools
+import random
 import json
 import re
 import subprocess
@@ -74,25 +76,149 @@ def plural_cats(bcp47: str) -> list[str]:
         return ['other']
 
 
-MAX_JOBS = 5  # never more than 5 agy processes at once
+MAX_JOBS = 10  # never more than 10 agy/opencode processes at once
 slots = threading.BoundedSemaphore(MAX_JOBS)
 
 
-def agy(prompt: str, timeout: int = 900) -> str:
-    """One agy call. Quota/rate errors (429) wait and retry with backoff instead of failing."""
-    wait = 60
+_rr = itertools.count()
+BACKENDS = ['agy', 'opencode']  # primary pool
+# Fallback: used only while 'opencode' is rate-limited; once opencode's health check passes it drops out again.
+FALLBACK = {'opencode': 'deepseek'}
+ALL_BACKENDS = ['agy', 'opencode', 'deepseek']
+OPENCODE_MODEL = 'opencode-go/claude-haiku-5-5'
+DEEPSEEK_MODEL = 'explabs/deepseek-v4.1-flash'
+MODEL_FOR = {'opencode': OPENCODE_MODEL, 'deepseek': DEEPSEEK_MODEL}
+QUOTA = re.compile(r'RESOURCE_EXHAUSTED|\b429\b|\b402\b|provider\.quota|usage limit|quota|insufficient funds|rate.?limit|too many requests|overloaded', re.I)
+AUTH = re.compile(r'authentication required|not logged in|unauthorized|invalid api key|\b401\b|\b403\b', re.I)
+fails: dict[str, int] = {}
+hits: dict[str, int] = {}
+disabled_until: dict[str, float] = {}  # backend -> time.time() when it may be used again
+dis_lock = threading.Lock()
+
+
+def retry_after(msg: str) -> float:
+    """Seconds from a 'retry in 30s' / 'Retry-After: 120' / 'try again in 2 minutes' hint, else 0."""
+    m = re.search(r'(?:retry[- ]after|retry in|try again in|resets? in)\D{0,3}(\d+(?:\.\d+)?)\s*(ms|s|sec|seconds|m|min|minutes|h|hours)?', msg, re.I)
+    if not m:
+        return 0.0
+    n, u = float(m.group(1)), (m.group(2) or 's').lower()
+    return n * (0.001 if u == 'ms' else 60 if u.startswith('m') and u != 'ms' else 3600 if u.startswith('h') else 1)
+
+
+class BackendError(Exception):
+    def __init__(self, kind: str, msg: str):
+        super().__init__(msg)
+        self.kind = kind  # 'quota' | 'auth' | 'error'
+
+
+def _run(backend: str, prompt: str, cwd: str, timeout: int) -> str:
+    """Run one backend; return the answer text or raise BackendError with a classified kind."""
+    if backend == 'agy':
+        argv = ['agy', '--model', MODEL, f'-p={prompt}']
+    else:
+        argv = ['opencode', 'run', '-m', MODEL_FOR[backend], '--format', 'json', prompt]
+    try:
+        r = subprocess.run(argv, capture_output=True, text=True, cwd=cwd, timeout=timeout)
+    except subprocess.TimeoutExpired:
+        raise BackendError('error', 'timeout')
+    raw = r.stdout + r.stderr
+    if backend in MODEL_FOR:  # opencode CLI: JSON event stream on stdout
+        text, err = [], ''
+        for line in r.stdout.splitlines():
+            try:
+                ev = json.loads(line)
+            except ValueError:
+                continue
+            if ev.get('type') == 'text':
+                text.append(ev.get('part', {}).get('text', ''))
+            elif ev.get('type') == 'error':
+                err = json.dumps(ev.get('error', ev))
+        answer = ''.join(text).strip()
+        if err and not answer:
+            raise BackendError('quota' if QUOTA.search(err) else 'auth' if AUTH.search(err) else 'error', err[:200])
+        if not answer:
+            raise BackendError('error', ('empty output ' + r.stderr[-200:]).strip())
+        return answer
+    answer = r.stdout.strip()
+    # agy prints errors as AGY_ERROR / "Error:" lines instead of an answer
+    if (not answer or answer.startswith(('AGY_ERROR', 'Error:', 'error:'))) or (r.returncode != 0 and len(answer) < 400):
+        msg = (raw[:300] or 'no output')
+        raise BackendError('quota' if QUOTA.search(msg) else 'auth' if AUTH.search(msg) else 'error', msg)
+    return r.stdout
+
+
+def health_check_loop(every: int = 600) -> None:
+    """Probe each backend every `every` seconds with a tiny translation. A backend that
+    answers is re-enabled at once; one that fails stays paused and the reason is logged."""
     while True:
-        with slots, tempfile.TemporaryDirectory() as cwd:
-            r = subprocess.run(['agy', '--model', MODEL, f'-p={prompt}'], capture_output=True, text=True, cwd=cwd, timeout=timeout)
-        out = r.stdout + r.stderr
-        if 'RESOURCE_EXHAUSTED' in out or 'code 429' in out:
-            print(f'quota hit, waiting {wait}s', flush=True)
+        time.sleep(every)
+        for be in ALL_BACKENDS:
+            try:
+                with tempfile.TemporaryDirectory() as cwd:
+                    out = _run(be, 'Translate to French, output only the translation: "Take your time."', cwd, 240)
+                with dis_lock:
+                    was = disabled_until.pop(be, 0) > time.time()
+                    fails[be] = 0
+                print(f'health: {be} ok' + (' (re-enabled)' if was else ''), flush=True)
+            except BackendError as e:
+                with dis_lock:
+                    disabled_until[be] = time.time() + (900 if e.kind == 'quota' else 600)
+                print(f'health: {be} {e.kind}: {str(e)[:100]}', flush=True)
+
+
+def agy(prompt: str, timeout: int = 900) -> str:
+    """One translation call, alternating agy and opencode.
+
+    While opencode is rate-limited, DeepSeek (explabs) joins the pool in its place and
+    leaves again as soon as opencode is usable. Quota errors put that backend on a cooldown
+    and use the others; auth errors disable it for an hour. Only when nothing is usable does it wait."""
+    wait = 30
+    while True:
+        now = time.time()
+        with dis_lock:
+            pool = list(BACKENDS)
+            if FALLBACK['opencode'] and disabled_until.get('opencode', 0) > now:
+                pool.append(FALLBACK['opencode'])
+            usable = [b for b in pool if disabled_until.get(b, 0) <= now]
+        if not usable:
+            nxt = min(disabled_until.values()) - now
+            wait = max(10, min(nxt, 900))
+            print(f'all backends limited, waiting {int(wait)}s', flush=True)
             time.sleep(wait)
-            wait = min(wait * 2, 900)
             continue
-        if r.returncode != 0 and not r.stdout.strip():
-            raise RuntimeError(r.stderr[-300:])
-        return r.stdout
+        start = next(_rr)
+        backoff = 2.0
+        for i in range(len(usable)):
+            be = usable[(start + i) % len(usable)]
+            with slots, tempfile.TemporaryDirectory() as cwd:
+                try:
+                    out = _run(be, prompt, cwd, timeout)
+                    fails[be] = 0
+                    hits[be] = 0
+                    return out
+                except BackendError as e:
+                    with dis_lock:
+                        if e.kind == 'quota':
+                            # honour a "retry in N seconds/minutes" hint, else escalate 5 -> 10 -> 20 -> 40 -> 60 min
+                            hint = retry_after(str(e))
+                            hits[be] = hits.get(be, 0) + 1
+                            cool = hint or min(300 * 2 ** (hits[be] - 1), 3600)
+                            cool = cool * random.uniform(1.0, 1.25)
+                            if time.time() >= disabled_until.get(be, 0):  # one cooldown per outage, not per racing worker
+                                disabled_until[be] = time.time() + cool
+                                print(f'{be}: rate limited, cooling down {int(cool)}s ({str(e)[:80]})', flush=True)
+                        elif e.kind == 'auth':
+                            disabled_until[be] = time.time() + 3600
+                            print(f'{be}: AUTH problem, disabled 1 h ({str(e)[:80]})', flush=True)
+                        else:
+                            fails[be] = fails.get(be, 0) + 1
+                            backoff = min(2 ** fails[be], 30) * random.uniform(0.5, 1.5)
+                            print(f'{be}: error ({str(e)[:80]})', flush=True)
+                            if fails[be] >= 6:
+                                disabled_until[be] = time.time() + 600
+                                fails[be] = 0
+                                print(f'{be}: 6 errors in a row, paused 10 min until the health check passes', flush=True)
+        time.sleep(backoff)
 
 
 def extract_json(text: str):
@@ -353,7 +479,7 @@ def main():
     ap.add_argument('cmd', choices=['status', 'run'])
     ap.add_argument('--kinds', default='ui,games,play,guides')
     ap.add_argument('--langs', default='')
-    ap.add_argument('--jobs', type=int, default=5, help='parallel tasks, capped at 5')
+    ap.add_argument('--jobs', type=int, default=5, help='parallel tasks, capped at 10')
     ap.add_argument('--limit', type=int, default=0)
     a = ap.parse_args()
     meta = locale_codes()
@@ -380,6 +506,7 @@ def main():
                 cats[c] = plural_cats(meta[c]['bcp47'])
         return t, str(translate_json(k, lang, cats[c]))
 
+    threading.Thread(target=health_check_loop, daemon=True).start()
     done = 0
     with ThreadPoolExecutor(min(a.jobs, MAX_JOBS)) as ex:
         futs = [ex.submit(work, t) for t in todo]

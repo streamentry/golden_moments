@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Chiqan qillqaman yaykuy",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Demencia ruraykuna",
+    "homeLabel": "Golden Moments wasi",
+    "mainNav": "Hatun",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Runa Simi",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: hatun rikch'akuna, tasa, inti sisa hinaspa allqu",
+    "languages": "Simi",
+    "englishOnly": "(Inglis simi)",
+    "machineTranslated": "Kay qillqa automatikamanta tikrasqa, manaraqmi runa simi yachaq qhawasqachu.",
+    "readOriginal": "Inglis simipi qillqata qhawariy",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Pukllaykuna",
+      "activities": "Ruraykuna",
+      "caregiving": "Qhawaqkunapaq",
+      "brainHealth": "Yuyay allin kay"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Tapuykuna hinaspa kutichiykuna",
+    "breadcrumb": "Ñan rikuchiy",
+    "home": "Wasi",
+    "lastUpdated": "Qhipa kutichisqa",
+    "topics": "Temakuna",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Qillqa tamañu",
+      "smaller": "Chaninchasqa qillqa",
+      "larger": "Hatun qillqa",
+      "contrast": "Aswan k'anchay"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Pukllay",
+    "picturePairs": "Rikch'a jinakuna",
+    "conversationCards": "Rimanakuy kartakuna",
+    "pictureBingo": "Rikch'a bingo",
+    "allGames": "Llapa pukllaykuna",
+    "pictures": "Printaypaq rikch'akuna",
+    "activityIdeas": "Ruray yuyaykuna",
+    "ideas101": "101 ruray yuyaykuna",
+    "lateStage": "Qhipa tiempo ruraykuna",
+    "printable": "Printaypaq ruraykuna",
+    "allActivities": "Llapa ruraykuna",
+    "forCaregivers": "Qhawaqkunapaq",
+    "playTogether": "Kuska pukllanapaq imaynatas",
+    "selfCare": "Qanmanta qhawariy",
+    "brainHealth": "Yuyay allin kaypa yachaykuna",
+    "faq": "Tapuykuna hinaspa kutichiykuna",
+    "about": "Kaymanta",
+    "approach": "Imaynata ruraykusqanchis",
+    "howWeWrite": "Imaynata qillqanchis",
+    "organizations": "Llamkaq wasikunapaq",
+    "app": "Golden Moments app",
+    "appHelp": "App yanapay",
+    "support": "Yanapay",
+    "legal": "Kamachikuy",
+    "sitePrivacy": "Wasi kaypa pakasqa kaynin",
+    "appPrivacy": "App pakasqa kay kamachikuy",
+    "privacyChoices": "Pakasqa kay akllaykuna",
+    "terms": "Kamachikuykuna hinaspa app licencia",
+    "safety": "Waqaychay hinaspa ruraypa ruwanapaq",
+    "accessibility": "Llapallanpaq yaykuy",
+    "healthNotice": "Hampi yachaykuna willakuy",
+    "allLegal": "Llapa kamachikuy willakuykuna",
+    "note": "Golden Moments kay sasa kaq llapallanchik ruraykunata qun, kusikuynin rayku. Kay manam hampimanta yachaymi, manam tanteo nitaq hampi kaqchu, manataq pipas yuyayninta tupanchu, qhawanchu nitaq puntuchu. Hampi tapukuykunapaq doctor kaqwan rimay. Emergencia kaqpi, pacha llaqtaykipi emergencia numeruta waqyay.",
+    "publisher": "Cloudjet Solutions Pte. Ltd. qillqasqa."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Demencia & Alzheimer's pukllaykuna hinaspa ruraykuna | Golden Moments",
+    "description": "Qolqe mana, sumaq rikch'a pukllaykuna internetpi pukllanapaq, hinallataq ruraykuna demencia kaq runakunapaq, Alzheimer's kaq runakunapaq hinaspa paykunata qhawaq runakunapaq. Mana registro, mana tiempo, mana puntukuna.",
+    "eyebrow": "Qolqe mana · Anunsiu mana · Registro mana · Tiempo nitaq puntu mana",
+    "h1": "Sumaq pukllaykuna hinaspa ruraykuna demencia kaq runakunapaq",
+    "lede": "Sasa mana sasa rikch'a pukllaykuna, riqsisqa rikch'akuna, hinaspa kuska kusikunapaq ruraykuna, qanpa ritmuykiwan.",
+    "playGame": "Huk pukllayta pukllay",
+    "findIdeas": "Ruray yuyaykunata maskay",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Telefonpi, tabletpi hinallataq computadorapi llamkan",
+      "Hatun rikch'akuna qawachkan",
+      "Hayk'aqpas tiyarikuy; mana ima pantaypas kanchu"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Mana qolqeyuq app iPhone, iPad hinallataq Androidpaq, qankunaq familia rikch'akunawan",
+    "albumNote": "“Iskay rikch'a tasa, kuska.”",
+    "gamesEyebrow": "Navegadorpi pukllay",
+    "gamesTitle": "Kunan pukllaykuna pukllanapaq",
+    "gamesLede": "Sapa huk sumaq, hatun runa, sasa qallarinapaq. Huk pukllayta akllay, paykuna kuska tiyay, turnukuspa tuqay.",
+    "seeAllGames": "Llapa {count} pukllaykunata qhawariy",
+    "howTitle": "Imaynata llamkan",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Riqsisqanta akllay",
+        "text": "Tasa, huertakuna, uywakuna hinallataq velerokuna rikch'akuna. Manan qillqay nitaq kamachikuy yachanaykichu."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Kuska tiyay",
+        "text": "Paykunata tuqachiy. Rikch'akunamanta rimariy. Mana kasqa rikch'a kaqtinqa qipa tuqaykunata suyay."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Allin kaqtin tiyarikuy",
+        "text": "Huk pukllay tukuy ruraymi. “Kunanqa tukusqa” sapa kutipas k'anchanmi."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Pantallamanta hawaman",
+    "stageTitle": "Sapa tiempopaq ruraykuna",
+    "stageLede": "Takiy, sapa p'unchay llamkaykuna, yuyariy hinaspa k'anchay sumaq ruraykuna, kunan kusikunapaq rikch'arispa.",
+    "ideas101": "101 ruray yuyaykuna",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Qallariy tiempo",
+        "text": "Kusikuq ruraykunata sapa kaqta ruray, huchallachata allichaspa: hobbykuna, sawarikuykuna, simi pukllaykuna, kuska yuyaykuna.",
+        "label": "Qallariy tiempo yuyaykuna"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Chawpi tiempo",
+        "text": "Sasa, riqsisqa llamkaykuna, ruwanakuna huk huk kaqpi rakisqa: tiqsiy, akllay, takiy, rikch'a pukllaykuna, hinallataq pisi purikuy.",
+        "label": "Chawpi tiempo yuyaykuna"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Qhipa tiempo",
+        "text": "Sonqo allin kay hinaspa tupanakuy llapan kallpaywan: makiwan qhawakuy, riqsisqa takikuna, rikch'akuna hinallataq kuska kay.",
+        "label": "Qhipa tiempo yuyaykuna"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Tapuy kaqta maskankichu? Qhawariy <a href=\"/activities/alzheimers/\">Alzheimer's nisqapaq ruraykuna hinaspa pukllaykuna</a>, <a href=\"/activities/memory-games/\">sumaq yuyay pukllaykuna</a>, <a href=\"/activities/trivia/\">sasa tapukuykuna</a> utaq <a href=\"/activities/puzzles/\">rompecabezakuna</a>.",
+    "approachEyebrow": "Imaynata ruraykusqanchis",
+    "approachTitle": "Huk kuska ruray, mana yuyay tapuy",
+    "approachLede": "Achka “yuyay pukllaykuna” utqaylla kanku, puntukunawan, sapa kutipi rikhurispa. Demencia kaq runapaq kayqa tapuy hina rikurin. Ñuqayku ch'aqwan kaqta ruranchis.",
+    "approachLink": "Imarayku kayta ruranchis",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ima pantaypas mana kanchu",
+        "text": "Mana tiempo, mana puntu, mana vidakuna, mana chinkaypas. Huk rikch'a mana kaqpas samay kaqmi, mana pantaymi."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Rikch'akuna qawachkan",
+        "text": "Riqsiypi yanapakun, mana yuyariypi. Tupanakuy qawaypi qallarin, mana imapas yuyanaykichu."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Hatun runapaq, chaninchasqa",
+        "text": "Sumaq, sasa simikunawan hinaspa kawsaq rikch'akunawan. Mana dibujo kaq rikch'akuna nitaq wawa simi."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Sapa kaqpi pakasqa",
+        "text": "Mana cuentakuna nitaq anunsiukuna. Qankunaq rikch'akunaqa mana aparinmanchu wasiykimanta."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Qhawaqkunapaq",
+    "guidesTitle": "Sapa p'unchay qhawariypaq yanapay qillqakuna",
+    "allCaregiving": "Llapa qhawariy yanapaykuna",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Imaynata kuska pukllana",
+        "text": "Ruwariy, ritmu, hinaspa ima ruwanaykichu pukllay kusikuyta chinkaptin."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Ruraypi mana ninakuptin",
+        "text": "Mana munaspa ninakuyninkupaq rasonkuna, hinaspa qhipa kutipi wakmanta ruranapaq sumaq ñankuna."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Tabletta churay",
+        "text": "Hatun qillqa, pisi lluqsiykuna hinaspa huk sapa wasi rikch'a."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Printaypaq ruraykuna mana qolqeyuq",
+        "text": "Hatun qillqayuq palabra maskay, pintay rikch'akuna, bingo hinallataq rimanakuy kartakuna."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Yuyay allin kay: yachay ima nin chiqanta",
+    "researchText": "Demenciata waqaychay atinchu? Yuyay pukllaykunaqa yanapanchu? Ayunuy, mikuy, puñuy, uyariy imaynata? Sasa, chiqan willakuykuna, pi yachaykuna mana sasa kaqtinpas.",
+    "researchLink": "Yachay qillqakunata qhawariy",
+    "appEyebrow": "Huk app kaqtaq",
+    "appTitle": "Golden Moments iPhone, iPad hinallataq Androidpi",
+    "appText": "Mana qolqeyuq app, mana internet kaqtinpas llamkan, hinaspa qanpa rikch'akunata yupachikuyta atin, wasipi waqaychasqa. Chaymi kay ch'aqa ruraymi: tawa hatun rikch'a, mana tiempo, mana puntu.",
+    "aboutApp": "App kaymanta",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ima allin pukllaykunam demencia kaq runakunapaq?",
+        "a": "Allin pukllaykunaqa sasachu, reqsisqa kanku, manataq llakichiqchu: hatun rikchaq tarjetakunata tinkuy, rakiy, sasa rumi-rumi rakiy, reqsisqa rimaykunata tukuchiy, pintay, rikchaq bingo, tapuy-rimay tarjetakuna. Allinmi kunan punchaw kusichiq chay ruraq. Relojkunata, puntakunata, yachaq hina kaqkunata qarqusun."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Kay demencia pukllaykunaqa qolqeqchu?",
+        "a": "Arí. Golden Moments-pi llapa pukllaykuna, ruraykuna qolqeq mana. Mana cuentallapas, mana registrokunapas, mana hapiypas kanchu. Pukllaykunaqa web-pi, celularpi, tabletapi icha computadorapi llankan."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Yuyay pukllaykunaqa demenciata harkanmanchu?",
+        "a": "Mana. Ima pukllaypas demenciata harkasqa rikukuchu, Golden Moments-pas mana ima hampikunata, harkaykunata icha qispichiykunata willanchu. Pukllaykunaqa kusikuypaq, familiawan kuska kaqpaqmi. Yachay ukhu kaqpi yachanki yachaykuna imata rikuchisqankuta, mana imata rikuchisqankutapas."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Kay pukllaykunaqa Alzheimer nisqawan kawsaqman allinchu?",
+        "a": "Arí. Alzheimer nisqaqa demenciapa achka kaq hamuqnin, pukllaykunapas chaypaq ruraschasqa kanku: hatun rikchakuna qawasqa qolqanku, achka akllana mana kanchu, mana yuyanankupaq icha pantanankupaq ima kanchu. Tupuchiy, tiqsiy, reqsisqa rimaykuna tukuchiy, kawsasqan yachaykunata, mana musuq yachaykunata llamk'achin."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Qhipa pachapi demenciata kawsaq runaqa kay llankaykunata ruwanmanchu?",
+        "a": "Achka kutipi, arí, chaskiqnin kuska kaspa. Qallariy Find the same ichaqa iskay rikchawan, Picture pairs chusku ch'eqachawan, pintana rikchaq icha sinchi samay hayk'aq samay. Pisi kachun, paykunapa rikunanta qatiy, mana munaspaqa tukuchiy."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Willakuyniyqa pakasqachu?",
+        "a": "Kay sitioqa mana cuentankuchu, mana propagandankuchu. Google Analytics nisqawanmi yachanchis imapi page-kuna qhawasqa kasqanta. Photo pairs-paq akllasqaykiki rikchakunaqa tan web-llapi rikunqa, mana hawaman kachkachunchu."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Pitaq Golden Moments-ta ruran?",
+        "a": "Golden Moments huch'uy llank'aqkunapa tiyanmi, familiakunapaq, qhawakuqkunapaq sumaq, adultu rikchaq llankaykunata ruran, web-pi icha free app hina. Ñoqaykuna mana doctorkunachu kayku, kaypi ima hampi yachaypas mana kanchu."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "qallariy",
+    "middle": "chawpi",
+    "late": "tukukuy qhipa",
+    "hintOne": "Allinmi {list} pachaq runakunaman",
+    "hintMany": "Allinmi {list} pachakunaq runakunaman",
+    "labelEarly": "Qallariy pacha",
+    "labelMiddle": "Chawpi pacha",
+    "labelLate": "Tukukuy qhipa pacha"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Kay pukllaymanta",
+    "printable": "Qillqaypaq",
+    "play": "Pukllay {name} →",
+    "readGuide": "Qillqata liyiy"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Llakiypi mana kaspa pukllanaykipaq listo kankichu?",
+    "text": "Hatun rikchakuna, mana rellojchu, mana puntachu, mana hapiyta. Web-pi qanwan kuska pukllaychis.",
+    "play": "Pukllay",
+    "all": "Llapa pukllaykunata qhawariy",
+    "aria": "Pukllayta qallariy"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Kay pukllaykunata qanwan apariy",
+    "text": "Free Golden Moments app iPhone, iPad, Android-paqmi: hatun rikchaq makinakuna, familiaykipa rikchankunawan pukllay, Wi‑Fi mana kaspapas llankaq rikchakuna. Mana cuentachu, mana propagandachu, mana rellojchu, mana puntachu.",
+    "appStore": "App Store-pi hapiy",
+    "googlePlay": "Google Play-pi hapiy",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Appmanta yachay",
+    "aria": "Appta hapiy"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Llankaykuna",
+      "title": "Demencia nisqawan kawsaq runakunapaq llankaykuna",
+      "seo": "Demencia nisqawan kawsaq runakunapaq llankaykuna: pachanman rikuspa ideakuna",
+      "description": "Demencia nisqawan kawsaq runakunapaq llankay ideakuna sapa pachapi: takiy, yuyaykuna, sapa punchaw ruranakuna, sentidukunapaq tiempokuna, ruway, pampapi kay, free qillqay rikchakuna.",
+      "lede": "Allin llankaymi kusiyta, ruwanata, icha tinkuchiyta apan. Qallariy runa allinta yachasqanwan, kunan punchawman tikrachispa."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Qhawakuy",
+      "title": "Qhawakuq qillqakuna",
+      "seo": "Demencia qhawakuq qillqakuna: sapa punchaw llapan yanapay",
+      "description": "Qhawakuqkunapaq llanp'u, sumaq qillqakuna: kuska pukllay, rimay, mana munay, tardeq pisi puñuy, tabletakuna, appkunata akllay, kikiykita qhaway.",
+      "lede": "Sapa punchaw qhawakuypi llanp'u, ruwana yanapay, demencia nisqawan kawsaq runata qhawaspaqa, kikiykitapas qhawaspaqa."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Yuyay allin kay",
+      "title": "Yuyay allin kay: yachaykuna imata willan",
+      "seo": "Yuyay allin kay, demencia harkakuy: yachaykuna imata willan",
+      "description": "Demencia harkasqa kanmanchu? Chiqap, qillqasqa qillqakuna demencia harkakuq kaqkunamanta, yuyay pukllaykunamanta, ayunomanta, mikuymanta, llank'aymanta, puñuymanta, uyariymanta, ñawpaq willakuq rikuchikuykunamanta.",
+      "lede": "Hatun yachaykuna imata rikuchin demencia harkakuyta pisiyachispa, llanp'uta willasqa, chaypi yachaykuna pisi icha mana chiqap kasqanpas. Llapan willakuy, mana doctor yanapaymi."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Musuqyachisqa",
+    "minuteRead": "{n} minutu liyiy",
+    "byTeam": "Golden Moments llank'aqkunawan",
+    "howWeWrite": "Imaynatataq qillqanchis",
+    "shortAnswer": "Pisi kaq khuyapayay",
+    "onThisPage": "Kay page-pi ({n} tapuna)",
+    "commonQuestions": "Achka tapukuykuna",
+    "sources": "Qhawana",
+    "sourcesNote": "Kay page-pi yachaykunata qispichiq llank'aqkunata, yachaykunata willanchis. Llapan chaykunataqa musuqyachisqa kaqtinmi qhawarisqa karqan.",
+    "tryTogether": "Kuska ensayay",
+    "relatedGuides": "Hinallaq qillqakuna",
+    "related": "Hinallaq",
+    "startHere": "Kaypi qallariy"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Hampi yachaypa willakuynin",
+    "title": "Llanp'u yachay, mana hampi yachay",
+    "textHtml": "Kay page familiakunapaq qillqasqa yachaykunata pisiyachin. Mana imapaq allinchus sapa runapaq willanchu. Mikuyta, llank'aytaq, puñuyta, hampikunata icha suplementokunata llukchiy ñawpaqtaqa doctorwan rimay. Ch'aqwa llakiy icha hukniray hina llakiqkunapaq, chaskiy hampi yanapayta. <a href=\"/medical-disclaimer/\">Hampi yachay willakuyninchista liyiy</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Kuska llankay, mana yuyay tesტu",
+      "seoTitle": "Golden Moments-manta: ñawpaq ruraynin",
+      "description": "Imaraykutaq Golden Moments pukllaykunapi rellojkuna, puntakuna, seriekuna mana kanchu, imaraykutaq rikchakuna qawasqa qolqanku, imatataq demenciamanta willanchis icha mana willanchischu.",
+      "crumb": "Ñawpaq ruraynin",
+      "lede": "Golden Moments-qa sumaq, adultu rikchaq llankaykunata ruran, qhawakuqwan demencia nisqawan kawsaq runa kuska kusikunankupaq.",
+      "bodyHtml": "<h2>Imatam iñiniku</h2><p>Ruwaykunaqa chay pachallapaqmi: rimarinakuy, asirikuy, iskay rikch'akunata kuskachaspa kusikuy, utaq ladollanpi tiyaykuylla. Manam pitapas tupunapaqchu, aswan kallpachaspa ñawparichinapaqchu, nitaq imatapas rikuchinapaqchu.</p><p>Achka ñutqu kallpachaq app nisqakunaqa utqayllaman, puntukunaman, patakunaman ima churasqam kashan. Yuyay chinkaywan kawsaq runapaqqa mana llalliy atina examen hinam rikurinman. Ñuqaykuqa huknatam ruwarqaniku, kay kamachiykunatataq qatipakuniku:</p><ul><li><strong>Manam imapas pantanapaqchu kashan.</strong> Manam reluq, puntu, ruwasqakuna yupaq, kawsaykuna, qati-qati llalliykuna, papelchawan kusiypas, nitaq watayupaqpas kanchu, mayqin qhawarinapipas.</li><li><strong>Riqsiyqa yuyarinamanta aswan allinmi.</strong> Rikch'akunaqa qhawasqallapunim kashan. Tapukuykunaqa rimarinakuymanmi mink'akun, manataqmi sutikunamantachu nitaq yuyaykunamantachu tapupayan.</li><li><strong>Hatun, ch'uya, takyasqalla ima.</strong> Hatuchaq qillqakuna, hatun rikch'akuna, sut'i llimp'ikuna, kaq kitiypipuni kaq botunkunapas.</li><li><strong>Kuraq runap sumaq kaynin.</strong> Chiqap pacha rikch'akuna, llamp'u sumaq simikuna ima. Manam dibuhukuna, takisqa yupaychaykuna, nitaq emojikunawan saminchaypas kanchu.</li><li><strong>Chinkarinapaq hawalla.</strong> “Kaykamalla” nisqaqa rikukushanpunim. Kuskanpi sayachiyqa allinmi.</li><li><strong>Pakasqalla kapun.</strong> Manam cuentakunachu nitaq willakuykunachu kan. Akllasqayki fotokunapas celularniykipim utaq makinaykipim qhipakun.</li></ul><h2>Imatam mana ninikuchu</h2><p>Pukllaynaykuqa kusirikunapaq, munanakunapaqllam. Manam yuyay chinkayta utaq Alzheimer unquyta tarinchu, pruebanchu, tupunchu, hampinchu, tatichinchu nitaq hark'anchu; manam pipas chayraykuchu akllanman. <a href=\"/brain-health/\">Ñutqu allin kawsaymanta raphiykunapi</a> yachaykuna tarisqamanta qillqaspaykuqa, sut'illatam willakuniku maypichus yachaykuna pisi kashan chayta, manataqmi pukllaynaykuwanqa t'inkinchischu.</p><h2>Pikunam kaniku</h2><p>Golden Moments nisqaqa huk huch'uy kikinmanta llank'aq huñum. Manam doctorkunachu kaniku. Pusariq qillqaykunaqa National Institute on Aging, Alzheimer’s Association nisqakunaq lluqsichisqan yachachiykunamantam qillqasqa kashan, sapanka pusariq qillqataq maymantachus horqosqa kasqanta willakun. Qhaway <a href=\"/editorial-policy/\">imaynatam raphiykunata qillqaniku, allichaniku ima</a>.</p><h2>Willawayku ima yanapasunkiman chayta</h2><p>Kusikuywanmi uyarisaqkiku ima yanapasusqaykichista, imataq mana chayta; astawantaqa yuyay chinkaywan kawsaq runakunamanta, ayllu qhawariqkunamanta, pukllachiykunapi llank'aqkunamantapas. Qillqamuy kayman: <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Imaynatam Raphiykunata Qillqaniku Ch'uyanchaniku Ima",
+      "seoTitle": "Qillqaypa Kamachikuynin",
+      "description": "Imaynatam Golden Moments mask'an, qillqan, pukyukuna churan, musuqyachinpas yuyay chinkay ruwaykunamanta ñutqu allin kaymantawan raphinkunata, imatataq mana hayk'aqpas willanqachu.",
+      "crumb": "Qillqanapaq kamachikuy",
+      "bodyHtml": "<h2>Pukyukunayku</h2><p>Pusariq qillqaykunaqa llapa runapaq willakuykunamantam hamun, kay huñukunaq willasqanmanta: National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance, NHS ima; chaymantapas yachaqkunaq qhawarisqan mask'aykunamanta, Cochrane qhawariykunamanta, hatun hampi tupuykunamantapas. Sapanka pusariq qillqam maymantachus yachaykuna horqosqata sut'inchan. Sapanka pukyutam qhawaniku manaraq willachkaspa, chiqap nisqallantataqmi willakuniku.</p><h2>Imaynatam qillqaniku</h2><ul><li>Ñawpaqtaqa ruwayllapaq: kunan p'unchay imatam ruwana, llamp'u simillapi.</li><li>Yachaykunamanta chiqapllata willay: “tupanmanmi”, “kanmanmi”, “manaraq sut'ichu kashan” ninikum chiqap kaptinqa.</li><li>Sumaqllata qhawariy: yuyay chinkaywan kawsaq runakunamanta kuraq runakunata hinam qillqaniku, manataqmi pinqachinapaq hina nitaq tapupayanapaq hina simikunata uqharinikuchu.</li><li>Manam qillqakunata paqarichinikuchu: manam llulla yupaykuna, rimaykuna, yachaqkuna, yachaykuna, qhawariykuna nitaq willakuypas kanchu.</li></ul><h2>Pikunam raphiykunata qhawarin</h2><p>Raphiykunataqa Golden Moments huñum qillqan qhawarinpas, mask'anapaq qallariy qillqanapaqpas AI nisqa llamk'anawan yanapachikuspa. Sapanka raphitam chay huñu pukyunkunawan kuskachaspa qhawarin. Raphiynaykuqa <strong>manam</strong> doctorpa nitaq huk hampi yachaqpa qhawarisqanchu, manataqmi chaytachu niniku. Llapa runapaq willakuyllam, manam hampi kamachiychu.</p><h2>Imatam mana hayk'aqpas willasaqkuchu</h2><ul><li>Pukllay, mikhuna, kallpachaq, ayunay utaq sapa p'unchaw ruway yuyay chinkayta hark'an, hampin, tatichin utaq allinyachin nispa rimaykunata.</li><li>Pruebakuna, tapukuykuna utaq puntukuna pipas yuyay chinkayniyuq kasqanta mana kasqantapas rikuchiqta.</li><li>Ima hampitapas qallarinapaq, sayachinapaq utaq t'ikranapaq kunaykunata.</li><li>Pusariq hina rikukuq qhatuypaq willakuykunata.</li></ul><h2>Musuqyachiykuna allichaykunapas</h2><p>Sapanka raphipim rikukun hayk'aqchus musuqyachisqa kasqan p'unchay. Pantasqata utaq mawk'ayarquq pukyuta tarinki chayqa, ama hina kaspa qillqamuy kayman: <a href=\"mailto:{email}\">{email}</a>, usqhayllatam qhawarisaqkiku.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Tapukuykuna Kutichiykunapas",
+      "seoTitle": "Yuyay Chinkaypaq Pukllaykuna Ruwaykunapas: Tapukuykuna Kutichiykunapas",
+      "description": "Yuyay chinkaypaq pukllaykunamanta ruwaykunamantawan sapa kuti tapukuykunapaq kutichiykuna: mayqin pukllaykunatam ruwana, mayk'aqkamam pukllana, aswan ñawparisqa kaypaq yuyaykuna, ñutqu allin kay, pakasqa willakuykunapas.",
+      "crumb": "Tapukuykuna kutichiykunapas",
+      "lede": "Tumpalla, sut'i kutichiykuna qhawariqkunaq astawan tapukusqankupaq.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Pukllaykunamanta",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Mayqin pukllaykunataq aswan allin yuyay chinkaywan kawsaq runapaq?",
+              "a": "Aswan allin pukllaykunaqa riqsisqa, ch'uya, mana llakichikuqllam kanku, allin kaqtaqmi chay runa kunan p'unchay kusikusqan. Rikch'akunata rikukuqtin kuskachay, t'aqay, sasalla rompecabezas, riqsisqa rimaykunata hunt'achiy, llimp'iy, rikch'akunawan bingo pukllay ima achka runapaq allinpuni. Ama watayupaqkunata, puntukunata nitaq examen hina kaqkunata churaychu."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Pukllaykunaqa chiqaptapunichu mana qullqillapaq?",
+              "a": "Arí. Llapa pukllaykuna hinaspa imprimiblekuna qolqe mana kanchu. Mana cuentayuq, mana inscripciónniyuq, mana descarga nitaq propaganda kanchu."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "¿Imarayku mana puntakuna, mana nivelkuna nitaq mana tiempo qawaqkuna kanchu?",
+              "a": "Utqayllan kaspa puntakunawan pukllayqa exameman tikrachikun, chaymi llakiyta utaq phiñakuyta apamun. Chaymi kusikuyman hinaspa kuska pasasqanchikman qhawarikunchik. Mana pantanapaq kanchu, hinaspa munaspaykiqa hayk'aqpas tukuyta atinki."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "¿Ima aparatukunam allintapas llamkan?",
+              "a": "Llapa celular, tablet utaq computadora moderno web navegadorniyuq. Mesapi tablet suyuqwan, sapa kuti iskay runa kuska pukllanankupaq allin ch'uya. Laptop televisor ukhupi chaskisqa grupokunapaq allinmi."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "¿Kikin familiamanta rikchaq photokunawan pukllayta atinchu?",
+              "a": "Arí. Photo pairs nisqanpi qanchasqa 2 kaqta 6 kaqkama photokunata akllaspa tupanakuy pukllayta ruranki. Photokunaqa navegadorniykipi qolanqa, mana hawaman apakunchu nitaq waqaychakunchu."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Pukllaykuna hinaspa qhawariy",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "¿Ima hora pukllaypas kanan?",
+              "a": "Miraq 10 kaqkama 20 minutu allinmi, astawanqa 2 minutu allin logro. Sinchi sasachakuq utaq llakiq rikchakunata qhawariy, hinaspa allin kashaqtin tukuy. Mana chaninchasqa tiempo kanchu."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "¿Imanasqataq mana munanman pukllayta?",
+              "a": "Mana niyninta respetay, hinaspa qhipaman utaq huk rikchawan yapamanta ruray. Mana niyqa sasachakuymanta, mana kallpa kaymanta, mana yachaymanta utaq sapsa mana munaymantam hamun. Qan qhawariy “mana niqtin” nisqa willakuyta."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "¿Ima pukllaykunataq qhipa etapa demenciapaq allin?",
+              "a": "Kusikuyta hinaspa sentidokunata: munasqa taqkunata uyariy, maki masajita losionwan ruray, photokunata kuska qhawariy, sinchi mawk'a manta awaqta aywiy, utaq sapa sumaq pukllayta ruraspa qanpa kuskaykiwan. Qhipa etapa willakuyninchispi astawan ideakuna kan."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "¿Ima pukllaykunataq kan qhawana wasipi grupokunapaq?",
+              "a": "Arí. Picture bingo nisqapi imprimiblekuna cartakuna hinaspa pantallapi qayakuq kan, Finish the saying nisqawan hinaspa Conversation cards nisqawan allinta rimayta atinchis. Qhawana wasikunapaq grupo willakuyninchispi rikunki grupo hatun, asientokuna hinaspa llapa kaqkunapaq allichay."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Yachay sanolla kaypaq",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "¿Pukllaykunachu demenciata ch'aqnichinman utaq ayqichinman?",
+              "a": "Mana pukllaypas demenciata ch'aqnichinmanta rikuchisqa kanchu, nitaq pukllaykunapas chaytaqa ninchu. Ayllu kuskapi yuyaykunata kallpachay, qhawana kayniyuq runakunapaq investigacionpi sapsa allinkunata rikuchisqa, sinchi mana sinchi demencia kaqkunapaq. Chaywanpas chaymi kanchu pukllay ch'aqnichinman. Kusikuyta hinaspa kuska kaynintapas qowanchik."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "¿Demenciachu ch'aqnichisqa kanman?",
+              "a": "Mana seguro. Investigacionkuna 14 hampikuna hinaspa kawsay ruraykunata demencia riesgoywan tupachin, hinallataq uyariy chinkaspa, sinchi presion, mana kallpachakuspa, ayllu manan kuskachakuspa. Chaykunata qhawarispa, pisi runakunapaq riesgo pisiyachikunman, astawan runakunapas tukuy allinta ruraspapas demencia chayanman. Manan pitapas huchanmi."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "¿Allinchu ruraspa mikuyta mana mikuspa yachayman?",
+              "a": "Runa yachaypi pisi, qallariyninpi, astawanqa animalkunapi cheqaq. Mana mikuyqa hatun runakunapaq peligrosomi, sinchi diabetes hampikunawan utaq mana munaspa wasiyta pisiyachispa. Demencia kaq runakunapaqqa mana kanchu. Mikuyta allichanki ñawpaqtaqa doctorwan rimay."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Kikin willakuy hinaspa seguridad",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "¿Imatapas willakuytachu waqaychankichis?",
+              "a": "Mana cuentakuna nitaq propaganda. Google Analytics nisqawan wasitapas qhawanchik, hinaspa qhawasqa paginakunata yachanchik. Navegadorniykipi qolqanmi sonido suave kichasqa kasqanta. Photo pairs nisqapaq akllasqaykiq photokunaqa mana hawaman apakunchu. Astawan yachanaykipaqqa privacidad willakuyta qhawariy."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "¿Kayqa medicina yachayninchu?",
+              "a": "Mana. Golden Moments pukllay kusikuypaqmi, hinallataq sapsa yachaypaq. Hampi tapukuykunapaqqa doctorwan rimay, emergencia kaqtinqa emergenciapaq telefonuta waqyay."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Astawan willakuy: <a href=\"/caregiving/how-to-play-together/\">imaynata kuska pukllanchis</a>, <a href=\"/caregiving/when-they-say-no/\">mana niqtin</a>, <a href=\"/activities/late-stage/\">qhipa etapa pukllaykuna</a> hinaspa <a href=\"/brain-health/can-dementia-be-prevented/\">¿demenciachu ch'aqnichisqa kanman?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Qespichiq, sapsa demencia kawsaq runakunapaq sin gastos pukllaykuna",
+      "seoTitle": "Imprimible willakuy: Sin gastos demencia pukllaykuna internetpi",
+      "description": "Huk paginayuq imprimible willakuy familiakunapaq hinaspa qhawaqkunapaq, demencia kawsaq runakunapaq sin gastos, sapsa rikchaq pukllaykunamanta, yanapay grupokunapaq hinaspa qhawana qipikunapaq.",
+      "crumb": "Imprimible willakuy",
+      "lede": "Kay paginata imprimiy yanapay grupopaq, qhawana qipipaq utaq refrigeradorpi churanaykipaq. Navegadorniykipi Print kamachiyta llamkachiy; menukuna hinaspa botonkuna imprimiypi mana rikunchu.",
+      "introHtml": "<p>Hatun rikchakuna, sasa rimaykuna hinaspa mana pantanapaq. Sin gastos celularpi, tabletpi utaq computadorapi, mana cuentayuq, mana propagandayuq, mana tiempo qawaqniyuq, mana puntayuq. Kuska tiyaspa turnuta kuska rurarispa pukllay.</p>",
+      "gamesTitle": "Kuska pukllay munaspa ruranapaq",
+      "restHtml": "<h2>Pisi yanapaykuna</h2><ul><li>Uruq horata akllay, chaypi runa allinpi kashaqtin.</li><li>Ñawpaqta sasa nivelta akllay. Tawa chakra kaqkunapas allinmi.</li><li>Rikchakunamanta rimay. Rimanakuyqa astawan kusikuchiq kanman.</li><li>Kusikuyniyuq kashaqtin tukuy. Utqayllan tukuyqa allinmi.</li></ul><h2>Wasipi kaqkunapas</h2><ul><li>Sapsa imprimiblekuna: hatun letrapi tupuy, pintanapaq paginakuna, rimanakuy cardkuna hinaspa picture bingo.</li><li>Sapa etapapaq pukllay ideakuna, hinallataq kuska pukllanapaq hinaspa qhawaq kikinpaq yanapaykuna.</li></ul><p class=\"muted\">Kusikuypaq hinaspa kuska kaypaq. Mana medicina yachay, mana tapuy, nitaq tratamiento. Golden Moments Cloudjet Solutions Pte. Ltd. nisqawan qillqasqa.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Qhawana wasikunapaq, biblioteca kaqkunapaq hinaspa yanapay grupokunapaq",
+      "seoTitle": "Mana qolqeniyuq demencia ruwaykuna qhawana wasikunapaq hinaspa grupokunapaq",
+      "description": "Imaynatataq qhawana wasikuna, huk kawsaq watukuna, llaqta yachana wasikuna, machulla qhawaq yanapay tiyanakuna hinaspa yanapaq grupokuna kay mana qolqeniyuq demencia pukllaykunata llamkachinku, hinallataq listaykiman yapanaykipaq qillqa.",
+      "crumb": "Tiyanakunapaq",
+      "lede": "Kay wasipi llapan kaqkuna mana qolqewanchu llamkachiyta atinkichik, mana qillqanakuywanchu, mana licenciawanchu, qhawana wasikunapi tiyaqkunawan, miembrokunawan hinaspa yanapasqa runakunawan. Kay paginaqa willanmi imakunatataq kaq kasqanta hinaspa imaynatataq rakinakuyta.",
+      "shortText": "{name}: mana qolqeniyuq, llamp'u rikchakuna pukllaykuna hinaspa yanapakuq ruwaykuna demencia nanaywan kawsaq runakunapaq hinallataq qhawaqkunapaq. Mana qillqanakuy kanchu, mana tiempo yupaq kanchu, mana puntos kanchu.",
+      "longText": "{name} ({domain}) qowan {count} mana qolqeniyuq nawegator pukllaykunata, demencia nanaywan kawsaq runakunapaq ruwasqa, chaykunapin kanku rikchakuna chaninchay, sencillu rompecabezas, rikchakuna akllay, sapa kawsaq rimaykuna tukuchiy hinaspa rikchakunawan bingo imprimisqa cartakunawan. Mana qillqanakuy, propaganda, tiempo yupaq nitaq puntos kanchu. Wasipi hinallataq tiyan llanu yachaykuna demencia kawsaypi sapa pachapaq, National Institute on Aging hinaspa Alzheimer's Association qillqakunata rimaspa.",
+      "useTitle": "Imatataq tiyanakuna llamkachinman",
+      "gamesItemHtml": "<strong>{count} nawegator pukllaykuna</strong> llamkan laptop, tablet icha TV computadorawan tupusqa. Mana instalasqa, mana qillqanakuy, mana descarga. Qhawariy <a href=\"/games/\">llapan pukllaykunata</a>.",
+      "printablesLabel": "{count} imprimisqa kaqkuna:",
+      "printablesAfter": "Sapa rikchapi Print botonta llamkachiy.",
+      "moreItemsHtml": "<li><strong>Grupo formatokuna:</strong> <a href=\"/games/picture-bingo/\">Rikchakuna bingo</a>-pi kanmi imprimisqa cartakuna hinaspa pantallapi kaq qayaq, <a href=\"/activities/trivia/\">sencillu trivia</a>-pi kanmi 50 tapuykuna akllana kaqkunawan hinaspa rimanakuy temakunawan.</li><li><strong>Yachay ruwaykuna</strong> qhawaqkunapaq hinaspa familiakunapaq, sapa pachapi hinaspa tipo ruwaykunapi, sencillu rimaywan qillqasqa, fuentekunawan. Qallariy <a href=\"/activities/ideas/\">101 ruway ideakuna</a> icha <a href=\"/activities/care-home-groups/\">qhawana wasikunapi grupo ruwaykuna</a>.</li>",
+      "restHtml": "<h2>Imaynatataq grupokuna llamkachinku</h2><ul><li><strong>Qhawana wasikuna hinaspa memory care:</strong> rikchakuna bingo icha rimaykuna tukuchiy TV-pi, huk runa grupopaq tupasqa.</li><li><strong>Huk kawsaq watukuna:</strong> tablet-pi Picture pairs, tawa rikchakunawan, pisi sesionkunapaq huk ruwanapaq.</li><li><strong>Llaqta yachana wasikuna:</strong> imprimisqa palabra búsqueda hinaspa rimanakuy cartakuna memory kitkunapi, hinallataq webpaqa biblioteka tablet-kunapi.</li><li><strong>Qhawaq yanapay grupokuna hinaspa memory café-kuna:</strong> <a href=\"/handout/\">huk hojasqa imprimisqa willakuy</a> familiakunapaq wasinman apanankupaq.</li><li><strong>Hospitalkuna hinaspa wasiman kutichiq yanapaqkuna:</strong> willakuyta caregiver paquetekunapi, wasipi icha cama pataypi sumaq tukuchiy ruwanapaq.</li></ul><h2>Imatataq mana ruwanchu</h2><p>Pukllaykunaqa kusikuypaq hinaspa kuska tiempo pasanapaqmi. Mana diagnosticanchu, mana qawanchu, mana puntosta qanchu, mana sanonchu nitaq demenciata qhawanchu, chayta organizacionkunamanta mañakuyku ama chayta hina ninankuta. Mana propagandakunachu kan, pukllaykunapas mana sutikunata, hampi willakuykunata nitaq rikchakunata churanaykichikta mañanchu. Wasipi Google Analytics llamkachin visitakunata yupaspa; <a href=\"/privacy/\">privacy notice</a> willakun imakunatataq huñun. <a href=\"/games/photo-pairs/\">Photo pairs</a>-pi rikchakuna nawegatorpi qhatsan.</p><h2>Yapaychay listaykiman</h2><p>Qhawaqkunapaq willakuy listata waqaychanki chaqpi, <a href=\"/\">{domain}</a> rakinakuyta munankichik. Ima descripcionpas kaqta copiay atinki.</p>",
+      "shortTitle": "Sipi willakuy",
+      "longTitle": "Hatun willakuy",
+      "linksHtml": "<p>Sapa rakinakuyman tiyaq paginakuna: <a href=\"/games/\">mana qolqeniyuq pukllaykuna</a>, <a href=\"/activities/printable/\">mana qolqeniyuq imprimisqa kaqkuna</a>, <a href=\"/activities/alzheimers/\">Alzheimer-paq ruwaykuna</a> hinaspa <a href=\"/caregiving/how-to-play-together/\">imaynatataq kuska pukllanki</a>.</p><h2>Tapuykuna icha allinchaykuna</h2><p>Wasipi huk kaqqa mana allinchu icha mana entiendekuchu kanman, icha qhawana wasipi tiyaqkunaq munayninkuna mana kay wasiwan tupanmanchu, <a href=\"mailto:{email}\">{email}</a> nisunki. Ama qhawana wasipi tiyaqkunaq personal hinaspa hampi willakuyninta kachaykuychu.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Golden Moments Yupaq App",
+      "seoTitle": "Golden Moments App iPhone-paq hinaspa Android-paq",
+      "description": "Mana qolqeniyuq Golden Moments app: sapa rikchakuna tupuchiy tawa tapakunawan, familiakunaq rikchakuna aparisqaykipi waqaychasqa, mana internetwan llamkana rikcha paquetekuna hinaspa mana qillqanakuy.",
+      "crumb": "App",
+      "lede": "Wasiq ruwaykunata munasqaykita llapanta, mana internetwan llamkana app-pi, chaypi ajllasqaykichik familia rikchakunatapas atinki.",
+      "worksOn": "Llamkan {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Huch'uymanta qallariy</h2><p>Tawa hatun raprakunawan riqsisqa rikch'akunawanpas qallariy. Rikch'akunata qhawana kachiy, icha allin rikch'akuptinqa pakay. Llamp'u pukllayqa manam pachayuqchu, manam puntospas nitaq wanaypas kanchu. 4, 6, 8 icha 12 raprakunata akllay.</p><h2>Kikinpaq hina ruway</h2><p>Aylluykipa rikch'ankunata llamk'anallaykipi akllay. Kay app nisqaqa pukllananpaq huch'uylla kopyakunata hallch'an. Manam llapa rikch'aykikunata maskanchu nitaq ñawpaq rikch'aykikunatapas tikranchu, huk huñupitaq 24 rikch'akama waqaychan.</p><h2>Kuskayá qhawaychik</h2><p>Huk rikch'allata sapankama qhawaychik. Munaspaykiqa parlarinapaq tapukuykunata qhawariy, manam sutikunata yuyarinatachu nitaq allintapuni kutichinatachu mañakun. Qhawayllapas allinmi.</p><h2>Mana internetniyuqpas llamk'anmi</h2><p>Qallarinapaq rikch'akunapas pusaqnintin rikch'a huñukunapas app ukhupim hamun. Yaykuchisqa rikch'a kopyakunaqa mana internetniyuqpas llamk'anmi. iCloud nisqapi waqaychasqa ñawpaq rikch'akunata akllanaykipaqqa internetta munankimanmi.</p><h2>Mana yupaychu, mana chawpi sirwiqchu</h2><p>Ayllupa rikch'ankunapa kopyanqa llamk'anallaykipa app nisqanpim qhipakun. Kopyakunataqa qulluchiyta atinki ñawpaq rikch'akunata mana chinkachispa. Llamk'anaykipa waqaychasqankunapiqa app nisqapa willakuynin rikurinmanmi. <a href=\"/app-privacy/\">App-pa willakuy waqaychayninmanta</a> ñawinchay, <a href=\"/help/\">app yanapakuypas</a> sapanka thatkiyta qawachisunki.</p>",
+      "disclaimer": "Golden Moments nisqaqa kusirikunapaq kuska parlarinapaqpas ruwasqam. Manam ima unquytapas qhawanachu, hampinachu, hark'anachu nitaq yuyay chinkayta icha Alzheimer unquytapas tupunachu.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Yuyay Chinkachiyniyuqkunapaq Alzheimer Unquyniyuqkunapaqpas Yanqalla Pukllaykuna Internetpi",
+    "description": "Yuyay pisipaywan icha Alzheimer unquiywan tiyaq kurak runakunapaq yanqalla internetpi pukllaykuna: rikch'akuna tupachiy, ch'ulla rompecabezas, t'aqay, rimaykuna hunt'achiy, llimp'iy, bingo nisqapas. Mana qillqakuywan, mana pachawan, mana puntoswan.",
+    "crumb": "Pukllaykuna",
+    "h1": "Yuyay Chinkachiywan Kawsakuqkunapaq Llamp'u Pukllaykuna",
+    "lede": "{count} yanqalla pukllaykuna wamp'unaykipi kuska pukllanapaq. Hatun rikch'akuna, sut'i simikuna, mana pantay atiy: mana pachayuq, mana puntosyuq, mana qillqakuna.",
+    "listName": "Yuyay chinkachiywan kawsakuqkunapaq llamp'u pukllaykuna",
+    "byStageTitle": "Pukllayta imayna kayninman hina akllay",
+    "byStageLede": "Taqakunaqa yacharinallapaqmi. Runapa kusikusqanta kunan p'unchaw imachus allillan tarikusqantapas qatiy.",
+    "stageCol": "Imayna kasqan",
+    "gamesCol": "Allin tupaq pukllaykuna",
+    "moreHtml": "Qhawana karupi huk yuyaykuna: <a href=\"/activities/ideas/\">101 ruraykuna yuyay chinkachiywan kawsakuqkunapaq</a>, <a href=\"/activities/alzheimers/\">Alzheimer unquyniyuqkunapaq ruraykuna pukllaykunapas</a>, <a href=\"/activities/memory-games/\">llamp'u yuyariy pukllaykuna</a> hinallataq <a href=\"/activities/puzzles/\">rompecabezaskuna</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "¿Mayqin pukllaywantaq qallarisunman?",
+        "a": "Tawa raprawan Rikch'akuna tupachiyqa hawkalla qallarinapaq allinmi. Rikch'akunata akllay sasa rikch'akuptinqa, iskay rikch'awan Kikin rikch'ata tariy nisqata qhawariy. Huñupaqtaq, Rikch'akunawan bingo nisqata pukllaychik."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "¿iPad nisqapi icha tiliphunupi kay pukllaykuna llamk'anchu?",
+        "a": "Arí. Llapallan pukllaymi tiliphunupi, tabletapi computadorapipas wamp'unapi llamk'an, rikch'akunapas qhawanaman hunt'ananpaq hatunyapun. Iskay runapaqqa tableta sayachinapi churaymi astawanqa allillan kachkan."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "¿Kay pukllaykuna allinchu Alzheimer unquyniyuq runapaq?",
+        "a": "Arí. Yuyay chinkachiywan kawsakuqkunapaq ruwasqam, Alzheimer unquyniyuqkunapaqpas, chay unquymi astawanqa rikurin. Rikch'akunaqa qhawasqallam kachkan, pisi akllanakunallam kachkan, manataqmi pachayuqchu nitaq puntosyuqchu; chayraykum kay pukllaykunaqa musuq kaqta yuyarinamantaqa riqsisqa kaqkunata riqsirinallatam maskan."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "¿Kurak runakunapaq yuyay pukllaykunachu kaykuna?",
+        "a": "Tupachina rikch'a pukllaykunam, mayqin kurak runapas kusirikunmanmi, ichaqa manam yuyayta tupanapaqchu ruwasqa kanku: Rikch'akuna tupachiypiqa rikch'akunaqa qhawasqallam kachkan mana pakayta munaptiykiqa. Yuyay chinkachiywan tiyaq kurak runakunapaq pukllaykunamanta yachachiyniykum willakun imaynatas ima yuyay pukllaytapas llamp'ulla waqaychayta."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "¿Qhawana wasipi huñukunapaq pukllaykuna kanchu?",
+        "a": "Arí. Rikch'akunawan bingo nisqapiqa raphipi ch'ipachinapaq kartakunapas qhawanapi waqyaqpas kanmi; Rimayta hunt'achiy nisqapas Parlarinapaq kartakunapas huñupi kunkawan ñawinchaspaqa allintam puririn."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad hinallataq Android",
+    "requirements": "iOS 15 icha aswan musuq; Android 7.0 icha aswan musuq",
+    "summary": "iPhone, iPad hinallataq Android nisqapaq yanqalla app; tawa ukhumanta chunka iskayniyuqkama hatun raprakunapi llamp'u rikch'akuna tupachiyniyuq, kikinpa akllasqan ayllu rikch'akunawan tupachinapaq qhawanapaqpas, pusaqnintin rikch'a huñuyuq mana internetwan llamk'aq. Mana yupayniyuq, mana willakuykunayuq, mana pachayuq, mana puntosyuq.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "4, 6, 8 icha 12 hatun raprakunawan llamp'u rikch'akuna tupachiy; rikch'akunaqa qhawasqallam kachkan mana pakayta munaptiykiqa",
+      "Akllasqayki ayllu rikch'akunaqa app ukhuman kopyasqam kanku tupachinapaq kuska qhawanapaqpas",
+      "Kuska qhawaychik: sapanka rikch'allata qhaway, munaspaykiqa parlarinapaq tapukuykunawan",
+      "Pusaqnintin rikch'a huñukuna app ukhupi churasqa; mana internetniyuqpas llamk'anmi",
+      "Mana yupaychu, mana willakuykunachu, mana app ukhupi rantiychu, mana pachayuq, mana puntosyuq, mana wanayniyuq"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "¿Yuyay chinkachiywan kawsakuqkunapaq ruraykunayuq app kanchu?",
+        "a": "Arí. Golden Moments (qhawachisqa kay sutinwan \"{storeName}\") nisqaqa yanqallam App Store hinallataq Google Play nisqapi. Hatun raprakunawan llamp'u rikch'akuna tupachiyta, kikinpa akllasqan ayllu rikch'akunawan pukllaykunata, mana internetwan llamk'aq rikch'a huñukunatapas qusunki."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "¿Golden Moments app nisqa yanqallachu?",
+        "a": "Arí. Urayk'achinapaqqa yanqallam, mana willakuykunayuq, mana yupayniyuq, manataqmi app ukhupi rantiykunapas kanchu."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "¿App nisqa mana internetniyuq llamk'anchu?",
+        "a": "Arí. Qallarinapaq rikch'akunapas pusaqnintin rikch'a huñukunapas app ukhupim hamun, ayllu rikch'akunataq app ukhuman kopyasqaña kaspaqa mana internetniyuqpas llamk'anmi. iCloud nisqallapi waqaychasqa rikch'ata akllanaykipaqqa internetta munankimanmi."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "¿Kikiykupa ayllu rikch'aykuta llamk'achiyta atiymanchu?",
+        "a": "Arí. Llamk'anapikimanta fotokunata akllay. Kay appqa llamk'anallaykipim huch'uy fotokunata waqaychan ruranakunapaq, manam maymanpas apachinchu, manataqmi qallariy fotokunatapas tikranchu. Munaspaqa mayqin pachapas chay fotokunata qulluchiyta atinki."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "¿Kay appqa ñutqu yachachinapaqchu icha yuyay qhawanapaqchu?",
+        "a": "Manam. Golden Moments nisqaqa kusirikunapaq kuska tiempota pasanapaqwanmi. Manam puntukunayuqchu nitaq pruebayuqchu, manataqmi unquykunata tarinchu, hampinchu, hark'anchu nitaq yuyay chinkayta icha Alzheimer nisqata tupunchu."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "¿Mayqin llamk'anakunapim llamk'an?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "¿Kay pukllaypaq app kanchu?",
+      "a": "Arí. Yanqa Golden Moments app iPhone, iPad hinallataq Android nisqapaqqa kikin sumaq fotokuna tupachiyniyuqmi, akllasqayki aylluypa fotonkunawan pukllayta atin, internet illaptinpas llamk'anmi. Manam cuentata, willakuykunata nitaq puntukunatapas mañakunchu."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "¿Kay pukllaypaq app kanchu?",
+      "a": "Kay pukllaypaqqa manam. Yanqa Golden Moments app iPhone, iPad hinallataq Android nisqapaqqa hatuchaq fotokunawan sumaq tupachiyniyuqmi, akllasqayki aylluypa fotonkunawanpas, internet illaptinpas llamk'anmi. Kay pukllayqa navegadorniykipi yanqallapuni qhipakunqa."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: hatuchaq, sumaq rikch'akuna",
+    "noscript": "Kay pukllaypaqqa navegadorniykipi JavaScript kichasqa kananmi. Uraypi kaq yachachikuykunaqa manapas chaywanqa llamk'anmi.",
+    "about": "{name} nisqamanta",
+    "aboutAria": "Kay pukllaymanta",
+    "noTimer": "Mana pachachaqniyuq, mana puntukunayuq",
+    "printable": "Ch'ipichinapaq",
+    "howTo": "Imaynata {name} pukllana",
+    "tips": "Kuska pukllanapaq yuyaychaykuna",
+    "newToPlayingHtml": "¿Yuyay pisiyaywan kawsakuq runawan manaraq hayk'aq pukllarqankichu? Ñawiriy <a href=\"/caregiving/how-to-play-together/\">imaynata kuska pukllanata</a>, manaña pukllayta munanman chaypas imatachus ruranata.",
+    "moreAria": "Aswan mask'anapaq",
+    "helpfulGuides": "Yanapaq yachachikuykuna",
+    "appTitle": "App nisqapi pukllay",
+    "appText": "Yanqa Golden Moments appqa hatuchaq fotokunawan sumaq tupachiyniyuqmi, kikin aylluykipa fotonkunawanpas, manataqmi Wi‑Fi nisqata munanchu. iPhone, iPad hinallataq Android.",
+    "photoAppTitle": "Fotoykikunata wakichisqata waqaychay",
+    "photoAppText": "Yanqa Golden Moments apppiqa, akllasqayki fotokunaqa llamk'anallaykipim qhipakun qhipa kutikunapaq, pukllanakunataq mana Wi‑Fi nisqawanpas llamk'anmi. iPhone, iPad hinallataq Android.",
+    "goodToKnow": "Yachanapaq allin",
+    "goodToKnowText": "Kay pukllayqa kusirikunapaq kuska tiempota pasanapaqwanmi. Manam imatapas pruebanchu, tupunchu nitaq hampinchu.",
+    "moreGames": "Aswan sumaq pukllanakuna",
+    "crumb": "Pukllanakuna"
   }
 }

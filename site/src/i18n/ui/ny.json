@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Pitani ku mfundo yaikulu ya tsamba",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Zochita za dementia",
+    "homeLabel": "Tsamba loyamba la Golden Moments",
+    "mainNav": "Menyu yaikulu",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "ChiCheŵa",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: zithunzi zazikulu, zokoma za kapu ya tiyi, duwa la mpendadzuwa ndi galu",
+    "languages": "Chilankhulo",
+    "englishOnly": "(Chingelezi)",
+    "machineTranslated": "Tsamba ili lamasuliridwa ndi makina ndipo silinayang'aniridwe ndi munthu wodziwa chilankhulo bwino.",
+    "readOriginal": "Werengani choyambirira mu Chingelezi",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Masewera",
+      "activities": "Zochita",
+      "caregiving": "Kusamalira",
+      "brainHealth": "Thanzi la ubongo"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Mafunso ndi mayankho",
+    "breadcrumb": "Njira ya tsamba",
+    "home": "Kunyumba",
+    "lastUpdated": "Yasinthidwa komaliza",
+    "topics": "Mitu",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Kukula kwa malemba",
+      "smaller": "Malemba wamba",
+      "larger": "Malemba akulu",
+      "contrast": "Kusiyana kwakukulu kwa mitundu"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Sewerani",
+    "picturePairs": "Mapeyala a zithunzi",
+    "conversationCards": "Makhadi okambirana",
+    "pictureBingo": "Bingo ya zithunzi",
+    "allGames": "Masewera onse",
+    "pictures": "Zithunzi zosindikiza",
+    "activityIdeas": "Malingaliro a zochita",
+    "ideas101": "Malingaliro 101 a zochita",
+    "lateStage": "Zochita za gawo lomaliza",
+    "printable": "Zochita zosindikizika",
+    "allActivities": "Zochita zonse",
+    "forCaregivers": "Kwa osamalira",
+    "playTogether": "Momwe mungasewerere limodzi",
+    "selfCare": "Kudzisamalira",
+    "brainHealth": "Kafukufuku wa thanzi la ubongo",
+    "faq": "Mafunso ndi mayankho",
+    "about": "Za ife",
+    "approach": "Njira yathu",
+    "howWeWrite": "Momwe timalembera",
+    "organizations": "Kwa mabungwe",
+    "app": "Pulogalamu ya Golden Moments",
+    "appHelp": "Thandizo la pulogalamu",
+    "support": "Thandizo",
+    "legal": "Malamulo",
+    "sitePrivacy": "Chinsinsi cha tsamba",
+    "appPrivacy": "Ndondomeko ya chinsinsi cha pulogalamu",
+    "privacyChoices": "Zosankha za chinsinsi",
+    "terms": "Zikhalidwe ndi laisensi ya pulogalamu",
+    "safety": "Chitetezo ndi cholinga chogwiritsira ntchito",
+    "accessibility": "Kupezeka mosavuta",
+    "healthNotice": "Chidziwitso cha zaumoyo",
+    "allLegal": "Zamalamulo zonse",
+    "note": "Golden Moments imapereka zochita zosavuta zogawana kuti anthu asangalale. Si malangizo azachipatala, si mayeso kapena chithandizo, ndipo siziwunika kapena kuyeza munthu aliyense. Ngati muli ndi mafunso okhudza thanzi, lankhulani ndi dokotala. Pakagwa ngozi, imbani nambala ya ngozi m'dziko lanu.",
+    "publisher": "Yofalitsidwa ndi Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Masewera ndi Zochita za Dementia ndi Alzheimer's | Golden Moments",
+    "description": "Masewera aulere, ofatsa a zithunzi oti musewere pa intaneti ndi malingaliro a zochita kwa anthu okhala ndi dementia kapena Alzheimer's ndi osamalira awo. Palibe kulembetsa, palibe nthawi kapena mapointi.",
+    "eyebrow": "Yaulere · Palibe malonda · Palibe kulembetsa · Palibe nthawi kapena mapointi",
+    "h1": "Masewera ndi Zochita Zofatsa kwa Anthu Okhala ndi Dementia",
+    "lede": "Masewera osavuta a zithunzi, zithunzi zodziwika bwino, ndi zochita zosangalalira limodzi, pa liwiro lanu.",
+    "playGame": "Sewerani Masewera",
+    "findIdeas": "Pezani malingaliro a zochita",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Imagwira ntchito pa foni, piritsi ndi kompyuta",
+      "Zithunzi zazikulu zomwe zimakhalabe zoonekera",
+      "Imani nthawi iliyonse; palibe chimene chingalephereke"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Komanso pulogalamu yaulere ya iPhone, iPad ndi Android, ndi zithunzi za banja lanu",
+    "albumNote": "“Zithunzi ziwiri za kapu ya tiyi, pamodzi.”",
+    "gamesEyebrow": "Sewerani mu msakatuli wanu",
+    "gamesTitle": "Masewera omwe mungasewere tsopano",
+    "gamesLede": "Lililonse ndi lodekha, la akulu, ndipo ndi losavuta kuyamba. Sankhani limodzi, khalani pafupi, ndipo mugwirizane kugunda pa zithunzi.",
+    "seeAllGames": "Onani masewera onse {count}",
+    "howTitle": "Momwe zimagwirira ntchito",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Sankhani chinthu chodziwika",
+        "text": "Zithunzi za makapu a tiyi, minda, ziweto ndi mabwato oyenda panyanja. Palibe kuwerenga kapena malamulo oti muphunzire poyamba."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Khalani pafupi pafupi",
+        "text": "Lolani wina agwire pazithunzi. Lankhulani za zithunzizo. Chithunzi chosagwirizana chimangodikira kugunda kotsatira."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Imani pamene zikumveka bwino",
+        "text": "Masewera amodzi ndi zochita zonse. “Zokwanira pakali pano” imakhalapo nthawi zonse pazenera."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Kupitirira pazenera",
+    "stageTitle": "Malingaliro a zochita pa gawo lililonse",
+    "stageLede": "Nyimbo, ntchito za tsiku ndi tsiku, kukumbukira zakale ndi nthawi zabata zamaganizo, zosinthidwa malinga ndi zomwe zimamveka bwino pano.",
+    "ideas101": "Malingaliro 101 a zochita",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Gawo loyamba",
+        "text": "Pitirizani kuchita zomwe amakonda, ndi kusintha pang'ono: zosangalatsa, maulendo, masewera a mawu ndi kukonzekera limodzi.",
+        "label": "Malingaliro a gawo loyamba"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Gawo lapakati",
+        "text": "Ntchito zosavuta komanso zodziwika bwino zogawidwa m'magawo: kupinda, kusanja, nyimbo, masewera a zithunzi ndi maulendo afupi oyenda.",
+        "label": "Malingaliro a gawo lapakati"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Gawo lomaliza",
+        "text": "Chitonthozo ndi kulumikizana kudzera mukhudzo, phokoso ndi kuona: kusamalira manja, nyimbo zomwe amakonda, zithunzi ndi kukhala limodzi.",
+        "label": "Malingaliro a gawo lomaliza"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Mukufuna chinachake chapadera? Yesani <a href=\"/activities/alzheimers/\">zochita ndi masewera a Alzheimer's</a>, <a href=\"/activities/memory-games/\">masewera ofatsa okumbukira</a>, <a href=\"/activities/trivia/\">mafunso osavuta</a> kapena <a href=\"/activities/puzzles/\">zithunzithunzi</a>.",
+    "approachEyebrow": "Njira yathu",
+    "approachTitle": "Chochita chogawana, osati mayeso a kukumbukira",
+    "approachLede": "Masewera ambiri a “ubongo” amamangidwa pa liwiro, mapointi ndi mizere yopambana. Kwa munthu wokhala ndi dementia, zimenezo zingamveke ngati mayeso. Ife tapanga mosiyana.",
+    "approachLink": "Chifukwa chake timapanga motere",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Palibe chimene chingalephereke",
+        "text": "Palibe nthawi, mapointi, miyoyo kapena kugonja. Chithunzi china si cholakwika; ndi kaima kakang'ono."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Zithunzi zimakhalabe zoonekera",
+        "text": "Kuzindikira m'malo mokumbukira. Kufananiza kumayambira zithunzi zikuyang'ana kumwamba, kotero palibe chimene chiyenera kukumbukiridwa."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Wa akulu ndi wolemekezeka",
+        "text": "Mawu ofunda, osavuta ndi zithunzi za moyo weniweni. Osati zojambula za ana kapena kulankhula ngati mwana."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Zachinsinsi mwa kapangidwe",
+        "text": "Palibe maakaunti kapena malonda. Zithunzi zanu sizichoka pa chipangizo chanu."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Kwa osamalira",
+    "guidesTitle": "Malangizo othandiza pa chisamaliro cha tsiku ndi tsiku",
+    "allCaregiving": "Malangizo onse a chisamaliro",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Momwe mungasewerere masewera limodzi",
+        "text": "Kukonzekera, liwiro, ndi zochita pamene masewera asiya kusangalatsa."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Akakana kuchita zochita",
+        "text": "Zifukwa zofala zokanira, ndi njira zofatsa zoyesera kachiwiri pambuyo pake."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Kukhazikitsa piritsi",
+        "text": "Malemba akulu, zosokoneza zochepa ndi tsamba limodzi lapanyumba losavuta."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Zochita zaulere zosindikizika",
+        "text": "Mafunso a mawu akulu, masamba ojambula, bingo ndi makhadi okambirana."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Thanzi la ubongo: kafukufuku akunena chiyani kwenikweni",
+    "researchText": "Kodi dementia ingalephereke? Kodi masewera a ubongo amathandiza? Nanga kusala kudya, zakudya, tulo ndi kumva? Mayankho omveka bwino, ndi magwero, kuphatikizapo kumene umboni ndi wofooka.",
+    "researchLink": "Werengani maupangiri a kafukufuku",
+    "appEyebrow": "Komanso pulogalamu",
+    "appTitle": "Golden Moments pa iPhone, iPad ndi Android",
+    "appText": "Pulogalamu yaulere imagwira ntchito popanda intaneti ndipo ingagwiritse ntchito zithunzi za banja zomwe mwasankha, zosungidwa ngati makope pa chipangizo chanu. Mapangidwe omwewo odekha: matailosi anayi akulu, palibe nthawi, palibe mapointi.",
+    "aboutApp": "Za pulogalamuyi",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ndi masewera ati abwino kwa anthu okhala ndi dementia?",
+        "a": "Masewera abwino ndi osavuta, odziwika bwino komanso opanda kukakamizidwa: zithunzi zazikulu zofananitsa, kusanja, zithunzi zosavuta kumanga, kumaliza mawu odziwika, kujambula mitundu, bingo ya zithunzi ndi makadi okambirana. Chisankho chabwino ndi chimene munthuyo amakonda lero. Pewani nthawi yoyezera, zigoli ndi chilichonse chomwe chingaoneke ngati mayeso."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Kodi masewera a dementia ndi aulere?",
+        "a": "Inde. Masewera ndi zosindikizira zonse za Golden Moments ndi zaulere, popanda akaunti, kulembetsa kapena kutsitsa. Masewerawa amayenda pa msakatuli wa foni, piritsi kapena kompyuta."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Kodi masewera a ubongo amaletsa dementia?",
+        "a": "Palibe masewera omwe asonyezedwa kuti amaletsa dementia, ndipo Golden Moments sinena kuti imachiritsa kapena kuletsa chilichonse. Masewera athu ndi osangalatsa komanso kuti mukhale limodzi nthawi. Gawo lathu la thanzi la ubongo likufotokoza zomwe kafukufuku amasonyeza ndi zomwe sanasonyeze."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Kodi masewerawa ndi oyenera munthu wa Alzheimer's?",
+        "a": "Inde. Matenda a Alzheimer's ndi omwe amayambitsa dementia kwambiri, ndipo masewerawa anapangidwa poganizira zimenezi: zithunzi zazikulu zomwe zimakhalabe zoonekera, zosankha zochepa, ndipo palibe chokumbukira kapena cholakwika. Kufananitsa, kusanja ndi kumaliza mawu odziwika zimadalira chidziwitso chakale, osati kuphunzira zatsopano."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Kodi munthu wa dementia ya gawo lakumapeto angagwiritse ntchito zochitazi?",
+        "a": "Nthawi zambiri inde, ngati wina ali naye pafupi. Yambani ndi Pezani chimodzimodzi ndi zithunzi ziwiri, Zithunzi zofanana ndi matailosi anayi, pepala lojambula mitundu kapena kupuma pang'ono mwakachetechete. Sungani nthawi yochepa, tsatirani zomwe akufuna ndipo siyani akakhala atakwanira."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Kodi zambiri zanga ndi zachinsinsi?",
+        "a": "Tsambali lilibe maakaunti ndipo lilibe malonda. Timagwiritsa ntchito Google Analytics kuti timvetse masamba omwe amayendera. Zithunzi zomwe mwasankha pa Zithunzi zofanana zimaonetsedwa mu msakatuli wanu kokha ndipo sizikwezedwa."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Ndani amapanga Golden Moments?",
+        "a": "Golden Moments ndi gulu laling'ono lomwe limapanga zochitika zodekha za zithunzi za akulu kwa mabanja ndi osamalira, pa webusaiti komanso ngati pulogalamu yaulere. Ife si madokotala, ndipo palibe chomwe chili pano ndi upangiri wa zachipatala."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "oyambirira",
+    "middle": "wapakati",
+    "late": "wakumapeto",
+    "hintOne": "Nthawi zambiri imagwirizana ndi gawo la {list}",
+    "hintMany": "Nthawi zambiri imagwirizana ndi magawo a {list}",
+    "labelEarly": "Gawo loyamba",
+    "labelMiddle": "Gawo lapakati",
+    "labelLate": "Gawo lakumapeto"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Za masewerawa",
+    "printable": "Chosindikizika",
+    "play": "Sewerani {name} →",
+    "readGuide": "Werengani bukuli"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Mwakonzeka masewera odekha?",
+    "text": "Zithunzi zazikulu, palibe nthawi yoyezera, palibe zigoli ndipo palibe chomwe muyenera kulembetsa. Sewerani pamodzi pa msakatuli wanu.",
+    "play": "Sewerani masewera",
+    "all": "Onani masewera onse",
+    "aria": "Sewerani masewera"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Tengani masewerawa nanu",
+    "text": "Pulogalamu yaulere ya Golden Moments ya iPhone, iPad ndi Android: matailosi azithunzi akulu, masewera ndi zithunzi zanu za banja, ndi mapaketi a zithunzi omwe amagwira ntchito popanda Wi‑Fi. Palibe akaunti, malonda, nthawi kapena zigoli.",
+    "appStore": "Ipeze pa App Store",
+    "googlePlay": "Ipeze pa Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Za pulogalamuyi",
+    "aria": "Pezani pulogalamuyi"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Zochita",
+      "title": "Zochita za Anthu Omwe Ali ndi Dementia",
+      "seo": "Zochita za Anthu Omwe Ali ndi Dementia: Malingaliro Malinga ndi Gawo",
+      "description": "Malingaliro a zochita kwa anthu omwe ali ndi dementia m'magawo onse: nyimbo, kukumbukira zakale, ntchito za tsiku ndi tsiku, zomverera, zaluso, kukhala panja ndi zosindikizira zaulere.",
+      "lede": "Chochita chofunika ndi chilichonse chobweretsa chitonthozo, cholinga kapena nthawi yolumikizana. Yambani ndi zomwe munthuyo wakhala akukonda nthawi zonse, ndipo zisinthireni ku momwe alili lero."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Kusamalira",
+      "title": "Malangizo a Osamalira",
+      "seo": "Malangizo a Osamalira Dementia: Thandizo Lothandiza Tsiku ndi Tsiku",
+      "description": "Malangizo othandiza komanso achifundo kwa osamalira a dementia: kusewera masewera pamodzi, kulankhulana, kukana kuchita zinthu, kusakhazikika madzulo, mapiritsi, kusankha mapulogalamu ndi kudzisamalira.",
+      "lede": "Thandizo lomveka komanso lothandiza pa nthawi za tsiku ndi tsiku posamalira munthu wa dementia, kuphatikizapo kudzisamalira nokha."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Thanzi la ubongo",
+      "title": "Thanzi la Ubongo: Zomwe Kafukufuku Akunena",
+      "seo": "Thanzi la Ubongo ndi Chiopsezo cha Dementia: Zomwe Kafukufuku Akunena",
+      "description": "Kodi dementia ingapewedwe? Malangizo owona, ozikidwa pa magwero, okhudza zinthu zomwe zimawonjezera chiopsezo cha dementia, masewera a ubongo, kusala kudya, zakudya, masewera olimbitsa thupi, kugona, kumva ndi zizindikiro zoyambirira.",
+      "lede": "Zomwe maphunziro akuluakulu amasonyeza za kuchepetsa chiopsezo cha dementia, zofotokozedwa momveka, kuphatikizapo komwe umboni ndi wofooka kapena wosakhazikika. Ndi chidziwitso chambiri, osati upangiri wa zachipatala."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Zasinthidwa",
+    "minuteRead": "Kuwerenga kwa mphindi {n}",
+    "byTeam": "Lolembedwa ndi gulu la Golden Moments",
+    "howWeWrite": "Momwe timalembera",
+    "shortAnswer": "Yankho lalifupi",
+    "onThisPage": "Pa tsambali ({n} magawo)",
+    "commonQuestions": "Mafunso ofala",
+    "sources": "Magwero",
+    "sourcesNote": "Timalumikiza ku mabungwe ndi maphunziro omwe tsamba ili likudalira. Chilichonse chinayesedwa tsamba likasinthidwa.",
+    "tryTogether": "Yesani pamodzi",
+    "relatedGuides": "Maupangiri ogwirizana",
+    "related": "Zogwirizana",
+    "startHere": "Yambirani apa"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Chidziwitso cha thanzi",
+    "title": "Chidziwitso chambiri, osati upangiri wa zachipatala",
+    "textHtml": "Tsambali likufotokoza mwachidule kafukufuku wofalitsidwa kwa mabanja. Silingakuuzeni chomwe chili choyenera kwa munthu mmodzi. Lankhulani ndi dokotala musanasinthe zakudya, masewera olimbitsa thupi, kugona, mankhwala kapena zowonjezera. Ngati pachitika chisokonezo chadzidzidzi kapena kusintha kwina kwadzidzidzi, pezani thandizo lachipatala nthawi yomweyo. <a href=\"/medical-disclaimer/\">Werengani chidziwitso chathu cha thanzi</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Zochitika Pamodzi, Osati Mayeso a Kukumbukira",
+      "seoTitle": "Za Golden Moments: Njira Yathu",
+      "description": "Chifukwa chake masewera a Golden Moments alibe nthawi yoyezera, zigoli kapena mizere yopambana, chifukwa chake zithunzi zimakhalabe zoonekera, ndi zomwe sitinena za dementia komanso zomwe sitingalonjeze.",
+      "crumb": "Njira yathu",
+      "lede": "Golden Moments imapanga zochitika zodekha za zithunzi za akulu zomwe wosamalira ndi munthu wa dementia angasangalale nazo pambali pake.",
+      "bodyHtml": "<h2>Zomwe timakhulupirira</h2><p>Cholinga chenicheni cha zochitika ndi nthawi yomwe mukukhala limodziyo: kucheza, kumwetulira, kusangalala pofananiza zithunzi ziwiri, kapena kungokhala pafupi limodzi. Sikuyesa munthu aliyense, kumukakamiza kupitilira muyeso, kapena kutsimikizira chilichonse.</p><p>Mapulogalamu ambiri olimbitsa ubongo amapangidwa kuti azitsata liwiro, mapointi, kupambana motsatizana komanso magawo a masewera. Kwa munthu amene akukhala ndi vuto la kuiwala (dementia), zimenezi zikhoza kuoneka ngati mayeso omwe sangathe kuwapambana. Ifeyo tinapanga zosiyana kwambiri ndi zimenezo, ndipo timatsatira malamulo awa:</p><ul><li><strong>Palibe cholephera.</strong> Palibe wotchi, mapointi, kuwerengera mayendedwe, miyoyo yamwayi, zokondwerera kapena kuwerengera nthawi yotsala, pazenera lililonse.</li><li><strong>Kuzindikira m'malo mokumbukira molimbikira.</strong> Zithunzi zimakhala zikuonekera nthawi zonse. Mafunso ndi olimbikitsa kukambirana ndipo sayesa mayina kapena zokumbukira za munthu.</li><li><strong>Zazikulu, zosavuta komanso zosasunthasuntha.</strong> Malemba ndi zithunzi zazikulu, zoonekera bwino, ndipo mabatani amakhala pamalo amodzi osasuntha.</li><li><strong>Ulemu wachikulire.</strong> Zithunzi zenizeni za m'moyo ndi mawu odekha, aulemu komanso olankhulidwa mwachibadwa. Palibe zithunzi zoseketsa za ana, zolimbikitsa ngati nyimbo za ana kapena mphoto za zizindikiro za emoji.</li><li><strong>Kutuluka mosavuta.</strong> Mawu akuti “Tasiya pamenepa panopa” amaonekera nthawi zonse. Kusiya panjira ndi zotsatira zabwino zomwe zilibe vuto lililonse.</li><li><strong>Chinsinsi chotetezedwa nthawi zonse.</strong> Palibe akaunti kapena zotsatsa malonda. Zithunzi zomwe mumasankha zimangosala pa chipangizo chanu.</li></ul><h2>Zomwe sitinena kapena kulonjeza</h2><p>Masewera athu ndi osangalala komanso ochezera limodzi. Sazindikira, kuyesa, kuyeza, kuchiza, kuchedwetsa kapena kupewa vuto la dementia kapena matenda a Alzheimer, ndipo palibe amene ayenera kuwasankha pa chifukwa chimenecho. Tikamalemba za kafukufuku pamasamba athu a <a href=\"/brain-health/\">umoyo wa ubongo</a>, timanena mosapita m'mbali pamene umboni uli wosakwanira, ndipo sitilumikiza zimenezo ndi masewera athu ayi.</p><h2>Ndife ndani</h2><p>Golden Moments ndi gulu laling'ono lodziimira palokha. Ndife osati madotolo kapena asing'anga. Malangizo athu alembedwa motsatira malangizo ofalitsidwa ndi mabungwe monga National Institute on Aging ndi Alzheimer’s Association, ndipo kalozera aliyense amalemba komwe kumatengedwa uthengawo. Werengani <a href=\"/editorial-policy/\">momwe timalembera ndi kuunika masamba athu</a>.</p><h2>Tiuzeni zomwe zingakuthandizeni</h2><p>Tingakonde kumva zomwe zikukuyenderani bwino komanso zomwe sizikuyenda, makamaka kuchokera kwa anthu okhala ndi vuto la dementia, achibale omwe akusamalira komanso ogwira ntchito zotsogolera zochitika. Lembani imelo ku <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Momwe Timalembera ndi Kuunika Masamba Athu",
+      "seoTitle": "Ndondomeko Yolemba Nkhani",
+      "description": "Momwe Golden Moments imafufuzira, kulemba, kupeza magwero a nkhani ndi kukonzanso masamba ake okhudza zochitika za dementia ndi umoyo wa ubongo, komanso zomwe sitidzafalitsa konse.",
+      "crumb": "Ndondomeko yolemba nkhani",
+      "bodyHtml": "<h2>Magwero athu a nkhani</h2><p>Malangizo athu timawazikira pa chitsogozo chochokera ku mabungwe monga National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ndi NHS, komanso pa kafukufuku wounikidwa ndi asayansi ena monga maumboni a Cochrane ndi mayesero aakulu azachipatala. Kalozera aliyense amatchula magwero omwe adalirapo. Timawerenga gwero lililonse tisanatchule, ndipo timangolemba zomwe limanena zenizeni.</p><h2>Momwe timalembera</h2><ul><li>Zothandiza poyamba: zomwe mungachite lero, m'chinenero chosavuta kumva.</li><li>Oona mtima pa za umboni: timagwiritsa ntchito mawu akuti “zimagwirizana ndi”, “zingathe” komanso “umboni uli wosiyanasiyana” ngati zimenezo zili zoona.</li><li>Mwaulemu: timalemba za anthu okhala ndi vuto la dementia monga akuluakulu, ndipo sitigwiritsa ntchito mawu owafunsa ngati mayeso kapena kuwachititsa manyazi.</li><li>Palibe zopeka: palibe ziwerengero zopeka, mawu obwereza osatsimikizika, akatswiri oyesera, maphunziro kapena maumboni achinyengo.</li></ul><h2>Amene amaunika masamba athu</h2><p>Masamba amalemba ndi kuunikidwa ndi gulu la Golden Moments, mothandizidwa ndi zida za nzeru zopangapanga (AI) pa kafukufuku ndi zolemba zoyambirira. Tsamba lililonse limaunikidwa ndi gululi poyerekeza ndi magwero ake. Masamba athu <strong>sanaunikidwe</strong> ndi dotolo kapena katswiri wazachipatala, ndipo sitinena kuti aunikidwa. Ndi chidziwitso chonse chabe, osati upangiri wamankhwala.</p><h2>Zomwe sitidzafalitsa konse</h2><ul><li>Mawu osonyeza kuti masewera, chakudya, mankhwala owonjezera m'thupi, kusaidya kapena chizolowezi chimalepheretsa, kuchiza, kuchedwetsa kapena kuthetsa dementia.</li><li>Mayeso, mafunso kapena mapointi osonyeza kuti munthu ali ndi dementia kapena alibe.</li><li>Upangiri woyamba, kusiya kapena kusintha mankhwala aliwonse.</li><li>Zotsatsa malonda kapena nkhani zolipiridwa zobisika ngati malangizo othandiza.</li></ul><h2>Zowonjezedwa ndi zowongoleredwa</h2><p>Tsamba lililonse limasonyeza tsiku lomwe linalikonzedwanso komaliza. Mukapeza cholakwika kapena nkhani yachikale, chonde lemberani imelo ku <a href=\"mailto:{email}\">{email}</a> ndipo tiziunika mwachangu.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Mafunso ndi Mayankho",
+      "seoTitle": "Masewera ndi Zochitika za Dementia: Mafunso ndi Mayankho",
+      "description": "Mayankho a mafunso omwe amafunsidwa kawirikawiri okhudza masewera ndi zochitika za anthu okhala ndi dementia: masewera oyenera kuyesa, nthawi yosewera, malingaliro a m'magawo apamwamba, umoyo wa ubongo komanso chitetezo cha chinsinsi.",
+      "crumb": "Mafunso ndi mayankho",
+      "lede": "Mayankho achidule komanso omveka bwino pa mafunso omwe anthu osamalira amafunsa kwambiri.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Zokhudza masewera",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Kodi ndi masewera ati abwino kwambiri kwa munthu amene ali ndi vuto la kuiwala (dementia)?",
+              "a": "Masewera abwino kwambiri ndi omwe ali ozolowereka, osavuta komanso opanda zokakamiza zilizonse, ndipo masewera abwino ndi chilichonse chomwe munthuyo akusangalala nacho lero. Kufananiza zithunzi zomwe zikuonekera kale, kusanja zinthu, masewera osavuta olumikiza zidutswa za zithunzi (jigsaws), kumaliza miyambi yodziwika bwino, kupenta ndi masewera a bingo a zithunzi zimagwira ntchito bwino kwa anthu ambiri. Pewani mawotchi owerengera nthawi, mapointi ndi chilichonse chimene chikuoneka ngati mayeso."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Kodi masewerawa ndi aulere ndithu?",
+              "a": "Inde. Masewera onse ndi zinthu zosindikiza ndi zaulere, popanda kufunika kukhala ndi akaunti, kulembetsa, kutsitsa kapena zotsatsa."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "N’chifukwa chiyani kulibe zigoli, magawo kapena mawotchi owerengera nthawi?",
+              "a": "Kuthamangira nthawi ndi zigoli zimasandutsa masewera osangalatsa kukhala ngati mayeso, zomwe zitha kubweretsa manyazi kapena kukhumudwa. Cholinga chathu ndi kusangalala komanso kucheza limodzi, kotero palibe cholephera ndipo mutha kusiya nthawi iliyonse imene mukufuna."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Kodi ndi zipangizo ziti zomwe zimagwira bwino ntchito?",
+              "a": "Foni, tabuleti kapena kompyuta iliyonse yomwe ili ndi pulogalamu yatsopano yofufuzira pa intaneti. Tabuleti yoikidwa pa tebulo nthawi zambiri imakhala yabwino kwambiri kuti anthu awiri azisewera atakhala limodzi mbali ndi mbali. Laputopu yolumikizidwa pa wailesi yakanema imagwira bwino ntchito kwa magulu."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Kodi titha kusewera pogwiritsa ntchito zithunzi za banja lathu?",
+              "a": "Inde. Masewera a Photo pairs amagwiritsa ntchito zithunzi 2 mpaka 6 zomwe mwasankha kukhala masewera ofananitsa zithunzi. Zithunzizi zimangokhala pa pulogalamu yanu yofufuzira pa intaneti ndipo sizitumizidwa kapena kusungidwa kwina kulikonse."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Zochita ndi chisamaliro",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Kodi zochita zizitenga nthawi yaitali bwanji?",
+              "a": "Nthawi zambiri mphindi 10 mpaka 20 ndi zokwanira, ndipo nthawi zina ngakhale mphindi 2 zimakhala zopambana. Yang'anani zizindikiro zotopa kapena kukhumudwa ndipo lekani pamene zidakali zosangalatsa. Palibe nthawi yeniyeni yoyikidwa."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Bwanji ngati sakufuna kutengapo mbali pa zochitazo?",
+              "a": "Lemekezani kukana kwawo, ndipo yesaninso nthawi ina kapena munjira ina. Kukana kutha kubwera chifukwa chotopa, kupwetekedwa m’thupi, kusadzidalira kapena kusakhala ndi chidwi. Onani kalozera wathu wonena za zomwe mungachite ngati akana."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Kodi ndi zochita ziti zomwe zili zoyenera pa vuto la dementia lomwe lapita patsogolo?",
+              "a": "Zinthu zotonthoza komanso zokhudza mphamvu zam’thupi: kumvetsera nyimbo zomwe amazikonda, kuwasisita m’manja ndi mafuta, kuyang’anira limodzi zithunzi, kukhala ndi bulangeti lofewa, kukhala panja, kapena masewera osavuta a zithunzi munthu wina atakhala nawo pafupi. Kalozera wathu wa zochita za dementia yapamwamba ali ndi malingaliro enanso ambiri."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Kodi pali zochita za magulu m’nyumba zosamalira anthu?",
+              "a": "Inde. Picture bingo ili ndi makhadi osindikiza komanso zowerengera pa sikirini, ndipo Finish the saying ndi Conversation cards zimagwira bwino ntchito powerenga mokweza. Kalozera wathu wa magulu a m’nyumba zosamalira anthu akufotokoza za kukula kwa gulu, makhalidwe a mipando komanso kusintha zinthu kuti zikwanire anthu a maluso osiyanasiyana."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Thanzi la ubongo",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Kodi masewera amatha kupewa kapena kubweza m’mbuyo dementia?",
+              "a": "Palibe masewera omwe asonyezedwa kuti amachepetsa kapena kupewa dementia, ndipo masewera athu satero konse. Kuchangamutsa maganizo pamodzi ndi anthu ena kwasonyeza phindu laling’ono mu kafukufuku kwa anthu omwe ali ndi vuto la dementia loyambirira kapena lapakati, koma zimenezo n’zosiyana ndi masewera opewa matenda. Timapereka masewera kuti anthu asangalale komanso alumikizane."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Kodi n’zotheka kupewa dementia?",
+              "a": "Sitingatsimikizire kotheratu. Kafukufuku amalumikiza zinthu 14 za umoyo ndi kakhalidwe ndi chiwopsezo cha dementia, monga kusva bwino, kuthamanga kwambiri kwa magazi, kusachita masewera olimbitsa thupi komanso kukhala nokha popanda kucheza ndi anthu. Kusamala pa zinthu zimenezi kutha kuchepetsa chiwopsezo kwa anthu ena, koma anthu ambiri omwe amachita chilichonse moyenera amakhalabe ndi dementia. Sikulakwa kwa aliyense konse."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Kodi kusala kudya kwakanthawi n’kothandiza pa thanzi la ubongo?",
+              "a": "Umboni wokhudza anthu ndi wochepa komanso uli pachiyambi, ndipo kafukufuku wambiri amachitika pa nyama. Kusala kudya kutha kukhala kowopsa kwa achikulire, makamaka ngati akumwa mankhwala a matenda a shuga kapena akuwonda mosayembekezereka, ndipo sikulimbikitsidwa kwa anthu omwe ali ndi vuto la dementia. Lankhulani ndi dokotala musanasinthe kadyedwe kanu."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Zinsinsi ndi chitetezo",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Kodi mumatenga mfundo zilizonse zokhudza ife?",
+              "a": "Kulibe ma akaunti kapena zotsatsa. Timagwiritsa ntchito Google Analytics powerengera alendo komanso kuona masamba omwe akuthandiza, ndipo pulogalamu yanu yofufuzira pa intaneti imakumbukira ngati mwatsegula mamvekedwe odekha. Zithunzi zomwe mumasankha pa Photo pairs sizitumizidwa konse pa intaneti. Onani chidziwitso chachinsinsi kuti mudziwe zambiri."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Kodi uwu ndi upangiri wa zachipatala?",
+              "a": "Ayi. Golden Moments ndi yongosangalatsa komanso kupereka uthenga wamba. Pa mafunso a zaumoyo, lankhulani ndi dokotala, ndipo pakakhala zadzidzidzi imbani 998."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Zambiri: <a href=\"/caregiving/how-to-play-together/\">mmene mungasewere limodzi</a>, <a href=\"/caregiving/when-they-say-no/\">ngati akana</a>, <a href=\"/activities/late-stage/\">zochita pa nthawi yomwe dementia yapita patsogolo</a> komanso <a href=\"/brain-health/can-dementia-be-prevented/\">kodi n’zotheka kupewa dementia?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Masewera Aulere ndi Odekha a Anthu Omwe Ali ndi Vuto la Dementia",
+      "seoTitle": "Kapepala Kosindikiza: Masewera Aulere a Dementia pa Intaneti",
+      "description": "Kapepala kosindikiza ka tsamba limodzi ka mabanja ndi osamalira konena za masewera aulere komanso odekha a zithunzi a anthu omwe ali ndi vuto la dementia, oyenera magulu othandizana komanso mapaketi a chisamaliro.",
+      "crumb": "Kapepala kosindikiza",
+      "lede": "Sindikizani tsambali kaamba ka gulu lothandizana, phukusi la chisamaliro kapena kumamatira pa furiji. Gwiritsani ntchito lamulo losindikiza la pulogalamu yanu yofufuzira; mindandanda ya zosankha ndi mabatani sizidzaonekera pa zosindikizazo.",
+      "introHtml": "<p>Zithunzi zazikulu, mawu osavuta komanso palibe cholephera. Zaulere pa foni, tabuleti kapena kompyuta, popanda kulembetsa, popanda zotsatsa, popanda mawotchi owerengera nthawi ndipo palibe zigoli. Khalani mbali ndi mbali n’kumalandirana mwayi wosewera.</p>",
+      "gamesTitle": "Masewera oti muyese limodzi",
+      "restHtml": "<h2>Malangizo ochepa</h2><ul><li>Sankhani nthawi ya tsiku pamene munthu amene mukumusamalirayu akumva bwino kwambiri.</li><li>Yambani ndi magawo osavuta kwambiri. Zithunzi zinayi n’zokwanira.</li><li>Kambilanani za zithunzizo. Kukambirana nthawi zambiri ndi gawo labwino koposa.</li><li>Lekani pamene zidakali zosangalatsa. Kusiya msanga ndi chinthu chabwino.</li></ul><h2>Zinanso zopezeka patsambali</h2><ul><li>Zinthu zaulere zosindikiza: kufufuza mawu olembedwa mokulirapo, masamba opaka utoto, makhadi a makambirano komanso picture bingo.</li><li>Malingaliro a zochita pagawo lililonse, komanso malangizo osewera limodzi ndi odzisamalira nokha.</li></ul><p class=\"muted\">Zongofuna kusangalatsa komanso kukhala limodzi. Si upangiri wamankhwala, mayeso kapena chithandizo cha matenda. Golden Moments imafalitsidwa ndi Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Za Nyumba Zosamalira Anthu, Malaibulale ndi Magulu Othandizana",
+      "seoTitle": "Zochita Zaulere za Dementia za Nyumba Zosamalira Okalamba ndi Magulu",
+      "description": "Momwe nyumba zosamalira okalamba, mapulogalamu a tsiku la akulu, malaibulale, mabungwe a okalamba ndi magulu othandizira amagwiritsira ntchito masewera athu aulere a dementia, komanso mawu oti tiwonjezere pa mndandanda wa zothandizira.",
+      "crumb": "Za mabungwe",
+      "lede": "Zonse zomwe zili patsamba lino ndi zaulere kuzigwiritsa ntchito ndi okhala nawo, mamembala ndi makasitomala, popanda akaunti, layisensi kapena malipiro. Tsamba ili likufotokoza zomwe zilipo komanso momwe mungagawire.",
+      "shortText": "{name}: masewera aulere a zithunzi odekha ndi malangizo a zochita kwa anthu omwe ali ndi dementia ndi osamalira awo. Palibe kulembetsa, palibe nthawi, palibe mavoti.",
+      "longText": "{name} ({domain}) imapereka masewera {count} aulere a pa intaneti opangidwira anthu omwe ali ndi dementia, kuphatikizapo kufananiza zithunzi awiriawiri ndi zithunzi zikhalebe zooneka, puzzle yosavuta, kusanja, mawu odziwika ndi bingo ya zithunzi yokhala ndi makadi osindikizika. Palibe akaunti, malonda, nthawi kapena mavoti. Tsambali lilinso ndi malangizo a zochita olembedwa m'chinenero chosavuta a gawo lililonse la dementia, omwe amatchula National Institute on Aging ndi Alzheimer's Association.",
+      "useTitle": "Zomwe mabungwe angagwiritse ntchito",
+      "gamesItemHtml": "<strong>masewera {count} a pa intaneti</strong> omwe amayenda pa laputopu, piritsi kapena pa TV yolumikizidwa ndi kompyuta. Palibe kuikira, akaunti kapena kutsitsa. Onani <a href=\"/games/\">masewera onse</a>.",
+      "printablesLabel": "Zosindikizika {count}:",
+      "printablesAfter": "Gwiritsani ntchito batani la Sindikiza patsamba lililonse.",
+      "moreItemsHtml": "<li><strong>Mitundu ya magulu:</strong> <a href=\"/games/picture-bingo/\">Bingo ya zithunzi</a> ili ndi makadi osindikizika ndi woitana pazenera, ndipo <a href=\"/activities/trivia/\">trivia yosavuta</a> ili ndi mafunso 50 okhala ndi mayankho osankha ndi mfundo zokambirana.</li><li><strong>Malangizo a zochita</strong> a antchito ndi mabanja, malinga ndi gawo ndi mtundu wa zochita, olembedwa m'chinenero chosavuta ndi magwero. Yambani ndi <a href=\"/activities/ideas/\">malingaliro 101 a zochita</a> kapena <a href=\"/activities/care-home-groups/\">zochita za magulu m'nyumba zosamalira okalamba</a>.</li>",
+      "restHtml": "<h2>Momwe magulu amagwiritsira ntchito</h2><ul><li><strong>Nyumba zosamalira okalamba ndi chisamaliro cha kukumbukira:</strong> bingo ya zithunzi kapena kumaliza mawu pa TV ya malo ogawana, ndi munthu m'modzi akukhudza chinsalu kuti gulu lonse lichite nawo.</li><li><strong>Mapulogalamu a tsiku la akulu:</strong> siteshoni ya piritsi ndi Zithunzi awiriawiri zokhala ndi matailosi anayi, pa magawo afupi a munthu ndi munthu.</li><li><strong>Malaibulale a boma:</strong> mapepala osindikizika a mawu obisika ndi makadi okambirana m'mabokosi a kukumbukira, ndipo tsambali likhale lolembedwa pa mapiritsi a laibulale.</li><li><strong>Magulu othandizira osamalira ndi malo a zokambirana za kukumbukira:</strong> <a href=\"/handout/\">pepala limodzi losindikizika</a> loti mabanja atenge kunyumba.</li><li><strong>Zipatala ndi okonzekera kutulutsa odwala:</strong> pepalalo m'mapaketi a osamalira, kuti pakhale chinthu chodekha choti achite kunyumba kapena pambali pa bedi.</li></ul><h2>Zomwe sitichita</h2><p>Masewerawa ndi a zosangalatsa ndi nthawi yocheza pamodzi. Sizizindikira, kuyesa, kuwerengera mfundo, kuchiza kapena kuchepetsa dementia, ndipo tikupempha mabungwe kuti asazifotokoze mwanjira imeneyo. Palibe malonda, ndipo masewerawa sapempha mayina, zambiri za thanzi kapena kukweza zithunzi. Tsambali limagwiritsa ntchito Google Analytics powerengera maulendo; <a href=\"/privacy/\">chidziwitso chathu chachinsinsi</a> chimafotokoza zomwe imasonkhanitsa. Zithunzi zomwe zimagwiritsidwa ntchito mu <a href=\"/games/photo-pairs/\">Zithunzi awiriawiri</a> zimakhalabe mu msakatuli.</p><h2>Tiwonjezereni pa mndandanda wanu wa zothandizira</h2><p>Ngati muli ndi mndandanda wa zothandizira osamalira, mukulandiridwa kulumikiza ku <a href=\"/\">{domain}</a>. Mungathe kukopera kufotokozera kulikonse kwa awiriwo.</p>",
+      "shortTitle": "Kufotokozera kwachidule",
+      "longTitle": "Kufotokozera kwautali",
+      "linksHtml": "<p>Masamba othandiza omwe mungawalumikize mwachindunji: <a href=\"/games/\">masewera aulere</a>, <a href=\"/activities/printable/\">zosindikizika zaulere</a>, <a href=\"/activities/alzheimers/\">zochita za Alzheimer's</a> ndi <a href=\"/caregiving/how-to-play-together/\">momwe mungasewere pamodzi</a>.</p><h2>Mafunso kapena kukonza</h2><p>Ngati chinachake patsamba ndi cholakwika kapena chosamveka, kapena ngati zosowa za wokhala nawo sizikwaniritsidwa ndi zomwe zilipo, chonde tiuzeni pa <a href=\"mailto:{email}\">{email}</a>. Chonde musatumize zambiri zaumwini kapena zaumoyo za okhala nawo kapena makasitomala.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Pulogalamu ya Golden Moments",
+      "seoTitle": "Pulogalamu ya Golden Moments ya iPhone ndi Android",
+      "description": "Pulogalamu yaulere ya Golden Moments: kufananiza zithunzi modekha ndi matailosi anayi akuluakulu, zithunzi za banja zosungidwa pa chipangizo chanu, mapaketi a zithunzi osagwiritsa ntchito intaneti ndi popanda akaunti.",
+      "crumb": "Pulogalamuyi",
+      "lede": "Zonse zomwe mumakonda patsamba, mu pulogalamu yomwe imagwira ntchito popanda intaneti ndipo ingagwiritse ntchito zithunzi za banja zomwe mwasankha.",
+      "worksOn": "Imagwira pa {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Yambani mophweka</h2><p>Yambani ndi matailo anayi akuluakulu ndi zithunzi zodziwika bwino. Sungani zithunzi zikuonekera, kapena zibiseni ngati zikukomerani. Njira yodekha ilibe nthawi, mfundo kapena chilango. Sankhani matailo 4, 6, 8 kapena 12.</p><h2>Pangani kukhala kwanu</h2><p>Sankhani zithunzi za banja lanu pogwiritsa ntchito chosankhira zithunzi cha chipangizo chanu. Pulogalamuyi imasunga makope ang’onoang’ono a zithunzizo kuti azigwiritsidwa ntchito pa zochita zake. Siifufuza laibulale yanu kapena kusintha zithunzi zanu zoyambirira, ndipo imasunga zithunzi zokwana 24 mu gulu limodzi.</p><h2>Ingoyang’anani limodzi</h2><p>Onani chithunzi chimodzi panthawi. Mafunso osankha amakuitanani kukambirana popanda kufunsa wina kukumbukira mayina kapena kupereka yankho lolondola. Kungoyang’ana limodzi n’kokwanira.</p><h2>Popanda intaneti komwe kuli kofunika</h2><p>Zithunzi zoyambira ndi mapaketi onse asanu ndi atatu a zithunzi zili mkati mwa pulogalamuyi. Makope a zithunzi zomwe mwatengera amagwira ntchito popanda intaneti. Kusankha zithunzi zoyambirira zosungidwa mu iCloud kokha kungafunike intaneti.</p><h2>Palibe akaunti, palibe seva yolumikiza zithunzi</h2><p>Makope a zithunzi za banja amakhala mkati mwa pulogalamuyi pa chipangizo chanu. Mungathe kuchotsa makopewo popanda kuchotsa zoyambirira. Makope osungira a chipangizo angaphatikizepo deta ya pulogalamuyi. Werengani <a href=\"/app-privacy/\">mfundo zachinsinsi za pulogalamu</a>, ndipo <a href=\"/help/\">thandizo la pulogalamu</a> limakuwongolerani sitepe iliyonse.</p>",
+      "disclaimer": "Golden Moments ndi ya zosangalatsa komanso kukambirana pamodzi. Siizindikira, siichiza, siiletsa kapena kuyeza dementia kapena matenda a Alzheimer’s.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Masewera Aulere a Dementia ndi Alzheimer’s Pa Intaneti",
+    "description": "Masewera aulere pa intaneti kwa okalamba omwe ali ndi dementia kapena Alzheimer’s: kufananiza zithunzi, zithunzithunzi zosavuta, kusanja, mawu, kujambula mitundu, bingo. Palibe kulembetsa, nthawi kapena mfundo.",
+    "crumb": "Masewera",
+    "h1": "Masewera Odekha kwa Anthu Omwe Ali ndi Dementia",
+    "lede": "Masewera {count} aulere oti muzisewera limodzi pa msakatuli wanu. Zithunzi zazikulu, mawu osavuta, ndipo palibe chimene chingalephereke: palibe nthawi, mfundo kapena kulembetsa.",
+    "listName": "Masewera odekha kwa anthu omwe ali ndi dementia",
+    "byStageTitle": "Kusankha masewera malinga ndi gawo",
+    "byStageLede": "Magawo ndi chitsogozo chochepa chabe. Tsatirani zomwe munthuyo amakonda ndi zomwe zikumukomera lero.",
+    "stageCol": "Gawo",
+    "gamesCol": "Masewera omwe nthawi zambiri amakwanira",
+    "moreHtml": "Malingaliro ena kutali ndi chinsalu: <a href=\"/activities/ideas/\">Zochita 101 kwa anthu omwe ali ndi dementia</a>, <a href=\"/activities/alzheimers/\">zochita ndi masewera a Alzheimer’s</a>, <a href=\"/activities/memory-games/\">masewera odekha a kukumbukira</a> ndi <a href=\"/activities/puzzles/\">zithunzithunzi</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Ndi masewera ati omwe tiyambe nawo?",
+        "a": "Zithunzi ziwiri zofanana ndi matailo anayi ndi chisankho chodekha choyamba. Ngati kusankha pakati pa zithunzi kukuoneka kochulukira, yesani Pezani zomwezo ndi zithunzi ziwiri. Ngati muli gulu, yesani Bingo ya zithunzi."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Kodi masewerawa amagwira ntchito pa iPad kapena foni?",
+        "a": "Inde. Masewera onse amagwira ntchito pa msakatuli pa mafoni, mapiritsi ndi makompyuta, ndipo zithunzi zimakula kuti zidzaze chinsalu. Piritsi lokhala pa choyimirira nthawi zambiri ndi lomasuka kwambiri kwa anthu awiri."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Kodi masewerawa ndi abwino kwa munthu yemwe ali ndi Alzheimer’s?",
+        "a": "Inde. Anapangidwa kwa anthu okhala ndi dementia, kuphatikizapo Alzheimer’s, yomwe ndi yofala kwambiri. Zithunzi zimakhalabe zikuonekera, pali zosankha zochepa, ndipo palibe nthawi kapena mfundo, choncho masewerawa amadalira kuzindikira zinthu zodziwika bwino m’malo mokumbukira zatsopano."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Kodi aya ndi masewera a kukumbukira a okalamba?",
+        "a": "Ndi masewera ofananiza ndi zithunzi omwe okalamba aliyense angasangalale nawo, koma anapangidwa kuti asayese kukumbukira: mu Zithunzi ziwiri zofanana, zithunzi zimakhala zikuoneka pamwamba pokhapokha mutasankha mwanjira ina. Buku lathu la masewera a kukumbukira kwa okalamba omwe ali ndi dementia likufotokoza momwe mungasungire masewera aliwonse a kukumbukira odekha."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Kodi pali masewera a magulu m’nyumba yosamalira okalamba?",
+        "a": "Inde. Bingo ya zithunzi ili ndi makadi osindikizika ndi woyitanitsa pa chinsalu, ndipo Malizitsani mwambi ndi Makadi a kukambirana zimagwira bwino pamene zawerengedwa mokweza kwa gulu."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad ndi Android",
+    "requirements": "iOS 15 kapena yatsopano; Android 7.0 kapena yatsopano",
+    "summary": "Pulogalamu yaulere ya iPhone, iPad ndi Android yokhala ndi kufananiza zithunzi modekha pa matailo akuluakulu 4 mpaka 12, kufananiza ndi kuonerera zithunzi za banja zomwe mwasankha, ndi mapaketi asanu ndi atatu a zithunzi omwe amagwira ntchito popanda intaneti. Palibe akaunti, malonda, nthawi kapena mfundo.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Kufananiza zithunzi modekha ndi matailo akuluakulu 4, 6, 8 kapena 12; zithunzi zimakhala zikuoneka pokhapokha mutasankha kuzibisa",
+      "Zithunzi za banja zomwe mwasankha zimakoperedwa mu pulogalamuyi kuti zifananizidwe ndi kuonedwa pamodzi",
+      "Onani limodzi: chithunzi chimodzi panthawi ndi mafunso osankha okambirana",
+      "Mapaketi asanu ndi atatu a zithunzi omwe ali mkati mwa pulogalamuyi; amagwira ntchito popanda intaneti",
+      "Palibe akaunti, malonda, kugula mkati mwa pulogalamu, nthawi, mfundo kapena chilango"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Kodi pali pulogalamu ya zochita za dementia?",
+        "a": "Inde. Golden Moments (yolembedwa ngati \"{storeName}\") ndi yaulere pa App Store ndi Google Play. Imapereka kufananiza zithunzi modekha ndi matailo akuluakulu, masewera ndi zithunzi za banja zomwe mwasankha, ndi mapaketi a zithunzi omwe amagwira ntchito popanda intaneti."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Kodi pulogalamu ya Golden Moments ndi yaulere?",
+        "a": "Inde. Ndi yaulere kutsitsa, popanda malonda, akaunti kapena kugula mkati mwa pulogalamu."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Kodi pulogalamuyi imagwira ntchito popanda intaneti?",
+        "a": "Inde. Zithunzi zoyambira ndi mapaketi onse asanu ndi atatu a zithunzi zili mkati mwa pulogalamuyi, ndipo zithunzi za banja zimagwira ntchito popanda intaneti zikangokoperedwa mu pulogalamuyi. Kusankha chithunzi chosungidwa mu iCloud kokha kungafunike intaneti."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Kodi ndingagwiritse ntchito zithunzi zathu za banja?",
+        "a": "Inde. Sankhani zithunzi ndi chosankhira zithunzi cha chipangizo chanu. Pulogalamuyi imasunga makope ang’onoang’ono pa chipangizocho kuti igwiritse ntchito pa zochita zake, siitumiza zithunzizo kwina ndipo siisintha zithunzi zoyambirira. Mukhoza kuchotsa makopewo nthawi iliyonse."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Kodi ndi pulogalamu yophunzitsa ubongo kapena yoyesa kukumbukira?",
+        "a": "Ayi. Golden Moments ndi ya zosangalatsa ndi nthawi yocheza limodzi. Ilibe mavoti kapena mayeso, ndipo siizindikira, siichiza, siiteteza kapena kuyesa dementia kapena matenda a Alzheimer’s."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Zimagwira ntchito pa zipangizo ziti?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Kodi pali mtundu wa masewerawa mu pulogalamu?",
+      "a": "Inde. Pulogalamu yaulere ya Golden Moments ya iPhone, iPad ndi Android ili ndi masewera omwewo ofananiza zithunzi mofatsa, imatha kugwiritsa ntchito zithunzi za banja zomwe mwasankha, ndipo imagwira ntchito popanda intaneti. Palibe akaunti, malonda kapena mavoti."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Kodi pali mtundu wa masewerawa mu pulogalamu?",
+      "a": "Osati masewerawa. Pulogalamu yaulere ya Golden Moments ya iPhone, iPad ndi Android ili ndi kufananiza zithunzi mofatsa ndi matailosi akulu, komanso zithunzi za banja zomwe mwasankha, ndipo imagwira ntchito popanda intaneti. Masewerawa adzakhalabe aulere pano, mu msakatuli wanu."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: zithunzi zazikulu, zokoma",
+    "noscript": "Masewerawa amafuna kuti JavaScript ikhale yoyatsidwa mu msakatuli wanu. Malangizo ali pansipa amagwira ntchito popanda izo.",
+    "about": "Za {name}",
+    "aboutAria": "Za masewerawa",
+    "noTimer": "Palibe nthawi kapena mavoti",
+    "printable": "Yosindikizika",
+    "howTo": "Momwe mungasewerere {name}",
+    "tips": "Malangizo osewera limodzi",
+    "newToPlayingHtml": "Simunazolowere kusewera ndi munthu amene ali ndi dementia? Werengani <a href=\"/caregiving/how-to-play-together/\">momwe mungasewerere masewera limodzi</a>, kuphatikizapo zoti muchite ngati ataya chidwi.",
+    "moreAria": "Zina zoti mufufuze",
+    "helpfulGuides": "Malangizo othandiza",
+    "appTitle": "Sewerani mu pulogalamu",
+    "appText": "Pulogalamu yaulere ya Golden Moments ili ndi kufananiza zithunzi mofatsa ndi matailosi akulu, komanso zithunzi zanu za banja, ndipo imagwira ntchito popanda Wi‑Fi. iPhone, iPad ndi Android.",
+    "photoAppTitle": "Sungani zithunzi zanu zokonzeka",
+    "photoAppText": "Mu pulogalamu yaulere ya Golden Moments, zithunzi zomwe mwasankha zimakhalabe pa chipangizo chanu kuti mudzazigwiritsenso ntchito nthawi ina, ndipo masewera amagwira ntchito popanda Wi‑Fi. iPhone, iPad ndi Android.",
+    "goodToKnow": "Chidziwitso chofunika",
+    "goodToKnowText": "Masewerawa ndi a zosangalatsa ndi nthawi yocheza limodzi. Sayesa, siyeza kapena kuchiza chilichonse.",
+    "moreGames": "Masewera ena ofatsa",
+    "crumb": "Masewera"
   }
 }

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Сурет жұптары",
+    "seoTitle": "Деменциямен өмір сүретін жандарға арналған сәйкестендіру ойыны: Сурет жұптары",
+    "h1": "Сурет жұптары: жайлы сәйкестендіру ойыны",
+    "description": "Деменциямен өмір сүретін жандарға арналған тегін әрі жайлы сәйкестендіру ойыны. Үлкен суреттер ашық тұрады, уақыт өлшеуіш пен ұпай есебі жоқ, ал тақтайшалар санын 4-тен 12-ге дейін өзіңіз таңдайсыз.",
+    "short": "Бір-біріне ұқсас екі суретті табыңыз. Суреттер жабылмастан ашық тұра береді.",
+    "players": "Қатар отырған 1 немесе 2 адам",
+    "intro": "Бір суретті, содан кейін оған сәйкес келетін екінші суретті басыңыз. Әдетте суреттер ашық күйінде қалады, сондықтан оларды есте сақтаудың қажеті жоқ. Сәйкес келген екі суреттің айналасында алтын түстес жиек пайда болып, құсбелгі қойылады.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Қанша тақтайша болатынын таңдаңыз. Бастау үшін төрт тақтайша өте қолайлы.",
+      "Кез келген суретті басыңыз. Оның айналасында алтын түстес жиек пайда болады.",
+      "Оған ұқсас суретті басыңыз. Жұптасқан суреттер құсбелгімен белгіленіп қалады.",
+      "Егер екі сурет сәйкес келмесе, еш қауіп жоқ. Ыңғайлы уақытта қайта басып көріңіз.",
+      "«Жасырын суреттер» нұсқасын екеуіңізге де суреттерді жауып ойнайтын классикалық түрі ұнаса ғана қосыңыз."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Суреттерді бірге дауыстап атап, олар туралы сөйлесіңіз: «Мынау қызыл кесе. Шайға сүт қосқанды ұнатасыз ба?»",
+      "Біраз уақыт алса да, суретті өзіңіз қамқорлық жасайтын кісінің өзі басқаны жөн. Оның орнына басқанша, саусақпен ғана көрсетіңіз.",
+      "Өздеріңізге ыңғайлы болса, төрт тақтайшамен ойнай беріңіз. Тақтайшалар санын көбейту міндетті деңгей емес, тек қалау бойынша.",
+      "Ойын әлі қызық болып тұрған кезде аяқтаған абзал. Бір ойынның өзі толыққанды шара саналады."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Уақыт өлшеуіш немесе ұпай саны бар ма?",
+        "a": "Жоқ. Мұнда уақыт өлшеуіш, ұпай есебі, жүріс санауышы немесе ұтылу деген жоқ. Кез келген сәтте тоқтата аласыз, тіпті орта жолда аяқтаудың өзі өте орынды."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Суреттер неліктен ашық күйінде тұрады?",
+        "a": "Суреттер ашық тұрғанда, ойын есте сақтауды емес, жай ғана көзбен қарап, сәйкесін табуды талап етеді. Көптеген адамдар үшін бұл әлдеқайда тыныш әрі жайлы. Қаласаңыз, бір ғана басу арқылы жасырын суреттер нұсқасына ауыстыра аласыз."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бұл тегін бе, тіркелу керек пе?",
+        "a": "Иә, бұл тегін. Тіркелгі жасаудың, тіркелудің немесе жүктеп алудың қажеті жоқ. Ойын телефондағы, планшеттегі немесе компьютердегі браузерде тікелей ашылады."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Жеке отбасылық фотосуреттерді қолдануға бола ма?",
+        "a": "Иә. Құрылғыңыздан суреттерді таңдауға мүмкіндік беретін «Фото жұптары» ойынын байқап көріңіз. Фотосуреттер тек браузеріңізде қалады, ешқайда жүктелмейді."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Сәйкесін тап",
+    "seoTitle": "Сәйкес суретті тап: деменциямен өмір сүретін жандарға арналған қарапайым ойын",
+    "h1": "Сәйкес суретті тап",
+    "description": "Жоғарыда бір сурет, ал төменде екіден төртке дейін сурет беріледі. Дәл сондай суретті басыңыз. Деменциямен өмір сүретін жандарға арналған, уақыт өлшеуішсіз, тыныш әрі тегін ойын.",
+    "short": "Жоғарыдағы суретке қарап, төмендегі дәл сондай суретті басыңыз.",
+    "players": "1 немесе 2 адам",
+    "intro": "Экранның жоғарғы жағында бір сурет тұрады. Төменде екі, үш немесе төрт сурет орналасқан. Соған ұқсас суретті басыңыз. Әр жолы тек бір қарапайым таңдау жасалады және асықпай әңгімелесуге толық мүмкіндік бар.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Таңдау үшін екі, үш немесе төрт суретті белгілеңіз. Екі сурет — ең қарапайымы.",
+      "Жоғарыдағы суретке бірге қараңыз.",
+      "Төмендегі дәл сондай суретті басыңыз. Оған құсбелгі қойылып, бірнеше жылы сөз шығады.",
+      "Басқа сурет басылса, ойын тек оның атауын айтып, күтіп тұрады. Асықпаңыз.",
+      "Келесі суретке көшуге дайын болғанда «Келесі сурет» түймесін басыңыз."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Таңдамас бұрын әр сурет туралы әңгімелесіңіз: түсі, пішіні, оны қайдан көруге болады.",
+      "Екі таңдау «тым оңай» болып көрінбесін. Басты мақсат — сынақ емес, жағымды сәт сыйлау.",
+      "Егер басу қиын болса, жақыныңыз саусағымен көрсетіп, оның орнына өзіңіз бассаңыз болады."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Уақыт өлшеуіш немесе ұпай саны бар ма?",
+        "a": "Жоқ. Мұнда уақыт өлшеуіш, ұпай есебі, жүріс санауышы немесе ұтылу деген жоқ. Кез келген сәтте тоқтата аласыз, тіпті орта жолда аяқтаудың өзі өте орынды."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Басқа сурет басылып кетсе не болады?",
+        "a": "Еш жағымсыз нәрсе болмайды. Дыбыстық сигнал, қызыл крест немесе дірілдеу жоқ. Ойын тек басылған суреттің атын атайды да, келесі таңдауды күтеді."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бұл тегін бе, тіркелу керек пе?",
+        "a": "Иә, бұл тегін. Тіркелгі жасаудың, тіркелудің немесе жүктеп алудың қажеті жоқ. Ойын телефондағы, планшеттегі немесе компьютердегі браузерде тікелей ашылады."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Көлеңкесін тап",
+    "seoTitle": "Деменциямен өмір сүретін жандарға арналған көлеңке сәйкестендіру ойыны: Онлайн тегін",
+    "h1": "Көлеңкесін тап: жайлы сурет ойыны",
+    "description": "Жоғарыда күңгірт көлеңке, төменде екіден төртке дейін сурет. Сол көлеңкеге сәйкес келетін суретті басыңыз. Деменциямен өмір сүретін жандарға арналған, уақыт өлшеуішсіз, тегін әрі жайлы ойын.",
+    "short": "Көлеңкеге қарап, оған сәйкес келетін суретті басыңыз.",
+    "players": "1 немесе 2 адам",
+    "intro": "Көлеңке сәйкестендіру — қағаз тапсырмалардан жақсы таныс әрекет, тек мұнда суреттер үлкен және ештеңені басып шығарудың қажеті жоқ. Экранның жоғарғы жағында жұмсақ көлеңке, ал төменде екі, үш немесе төрт сурет орналасады. Көлеңкеге сәйкес суретті басыңыз. Велосипед, қолшатыр немесе кесе сияқты қарапайым пішіндер туралы әңгімелесу де жеңіл әрі қызықты.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Таңдау үшін екі, үш немесе төрт суретті белгілеңіз. Екі сурет — ең қарапайымы.",
+      "Көлеңкеге бірге қараңыз. Оның пішіні қандай? Ұзын ба, әлде дөңгелек пе?",
+      "Көлеңкеге сай келетін суретті басыңыз. Оның атауы көлеңкенің астында пайда болады.",
+      "Басқа сурет басылса, ойын тек оның атауын айтып, күтіп тұрады. Асықпаңыз.",
+      "Келесісіне көшуге дайын болғанда «Келесі көлеңке» түймесін басыңыз."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Көлеңкенің жиегін саусақпен жүргізіп көріп, оның пішіні туралы әңгімелесіңіз.",
+      "Егер бүгін көлеңкелер күрделірек көрінсе, суреттері бірдей «Сәйкесін тап» ойынына ауысыңыз.",
+      "Сурет табылған соң, ол туралы сөйлесіңіз: «Бізде дәл осындай қолшатыр бар еді»."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Уақыт өлшеуіш немесе ұпай саны бар ма?",
+        "a": "Жоқ. Мұнда уақыт өлшеуіш, ұпай есебі, жүріс санауышы немесе ұтылу деген жоқ. Кез келген сәтте тоқтата аласыз, тіпті орта жолда аяқтаудың өзі өте орынды."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Көлеңкені сәйкестендіру деменциясы бар адамдарға пайдалы ма?",
+        "a": "Кейбір адамдар үшін, әсіресе ертерек кезеңде, бұл жағымды әрі қарапайым іс болуы мүмкін. Пішіндерді сөздерге қарағанда тану оңайырақ. Бұл сынақ емес, көңіл көтеру мен әңгімелесуге арналған, сондай-ақ деменцияны емдемейді немесе бәсеңдетпейді. Егер ол көңілге қаяу түсірсе, «Ұқсасын тап» ойынын байқап көріңіз немесе жай ғана суреттерді бірге тамашалаңыз."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Қате сурет басылса не болады?",
+        "a": "Ешқандай жағымсыз нәрсе болмайды. Ешқандай дыбыстық белгі, қызыл крест немесе дірілдеу жоқ. Ойын басылған суреттің атын атайды да, келесі рет басқанды күтеді."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бұл тегін бе және тіркелу керек пе?",
+        "a": "Иә, тегін, әрі ешқандай аккаунт ашу, тіркелу немесе жүктеп алу қажет емес. Ол телефонда, планшетте немесе компьютерде веб-шолғыш арқылы ашылады."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Бірге сұрыптау",
+    "seoTitle": "Деменциясы бар адамдарға арналған сұрыптау ойыны: Бірге сұрыптау",
+    "h1": "Бірге сұрыптау: суреттерді сұрыптау ойыны",
+    "description": "Суретті басып, сосын оның тиісті себетін түртіңіз: асүй немесе бақша, жемістер немесе жануарлар. Деменциямен өмір сүретін адамдарға арналған тыныш, тегін сұрыптау ойыны.",
+    "short": "Әр суретті өз себетіне салыңыз: асүй немесе бақша және басқалар.",
+    "players": "1 немесе 2 адам",
+    "intro": "Сұрыптау — азық-түлікті орнына қою немесе шұлықты жұптау сияқты таныс әрі жағымды күнделікті іс. Суретті басыңыз, содан кейін оған тиісті себетті түртіңіз. Асығудың қажеті жоқ және қате қадам болмайды.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Тақырыпты таңдаңыз: асүй мен бақша, жемістер мен жануарлар немесе үй мен саяхат.",
+      "Суретті басыңыз. Оның айналасында алтын түстес жиек пайда болады.",
+      "Ол тиесілі себетті басыңыз. Сурет сол себетке ауысады.",
+      "Егер ол басқа себетке тиесілі болса, ойын оны жай ғана ескертіп, күтеді.",
+      "Барлық сурет сұрыпталған соң, себеттерді бірге қарап шығыңыз."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Шынайы өмірде көбіне қате жауап болмайды. Егер біреу құты асүйге тиесілі десе, себебін сұраңыз. Қызықты әңгіме естуіңіз мүмкін.",
+      "Суреттерді әңгіме бастауға пайдаланыңыз: «Бақшаңызда не өсіруші едіңіз?»",
+      "Экраннан тыс уақытта қасық пен шанышқыларды немесе түймелерді түсі бойынша реттеу сияқты нақты заттарды сұрыптау — тамаша жалғасы."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Мұнда таймер немесе ұпай бар ма?",
+        "a": "Жоқ. Уақыт шектеуі, ұпай, жүріс санағышы немесе ұтылу деген жоқ. Кез келген уақытта тоқтата аласыз, тіпті орта жолда тоқтату да ойынды аяқтаудың дұрыс жолы."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Неге сұрыптау?",
+        "a": "Көптеген адамдар сұрыптауды ұнатады, себебі бұл таныс әрі пайдалы іс сияқты әсер береді. Сонымен қатар барысында суреттер жайлы әңгімелесу де оңай."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бұл тегін бе және тіркелу керек пе?",
+        "a": "Иә, тегін, әрі ешқандай аккаунт ашу, тіркелу немесе жүктеп алу қажет емес. Ол телефонда, планшетте немесе компьютерде веб-шолғыш арқылы ашылады."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Суретті пазл",
+    "seoTitle": "Деменциясы бар адамдарға арналған оңай пазл: 4 немесе 9 бөлік",
+    "h1": "Суретті пазл: оңай мозаика",
+    "description": "Деменциямен өмір сүретін адамдарға арналған оңай онлайн-пазл: 4 немесе 9 үлкен бөлік, тұтас сурет үнемі көрініп тұрады, ал орындарын ауыстыру үшін екі бөлікті басу жеткілікті.",
+    "short": "Сурет тұтас болғанша екі бөліктің орнын ауыстыру үшін оларды басыңыз.",
+    "players": "1 немесе 2 адам",
+    "intro": "Жағымды сурет төрт немесе тоғыз үлкен бөлікке бөлініп, араластырылған. Тұтас сурет нұсқау ретінде көрініп тұрады. Бір бөлікті, сосын екіншісін бассаңыз, олардың орындары ауысады. Сүйреп апарудың қажеті жоқ.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Суретті және 4 немесе 9 бөлікті таңдаңыз. Төрт бөліктен бастаған қолайлы.",
+      "Жоғарғы жақтағы тұтас суретке қараңыз.",
+      "Бір бөлікті басып, сосын ол тұруы тиіс орынды басыңыз. Екі бөліктің орны ауысады.",
+      "Дұрыс орналасқан бөліктерде кішкентай белгі пайда болады.",
+      "Сурет жиналғанда, оны бірге тамашалап, келесісін таңдаңыз."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Көп адам үшін бөліктерді сүйрегеннен гөрі, екі бөлікті басып орнын ауыстыру әлдеқайда оңай.",
+      "Сурет құралып жатқанда, ол туралы сөйлесіңіз: «Міне, қызыл шатыр».",
+      "12-ден 24-ке дейін үлкен бөлігі бар нағыз ағаш пазл да үстел басында бірге ойнауға өте жақсы."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Мұнда таймер немесе ұпай бар ма?",
+        "a": "Жоқ. Уақыт шектеуі, ұпай, жүріс санағышы немесе ұтылу деген жоқ. Кез келген уақытта тоқтата аласыз, тіпті орта жолда тоқтату да ойынды аяқтаудың дұрыс жолы."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Бөліктерді сүйреп апару керек пе?",
+        "a": "Жоқ. Бір бөлікті, сосын екіншісін бассаңыз болғаны, олардың орны ауысады. Бұл қол дірілдеген кезде немесе шағын экранда әлдеқайда ыңғайлы."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бұл тегін бе және тіркелу керек пе?",
+        "a": "Иә, тегін, әрі ешқандай аккаунт ашу, тіркелу немесе жүктеп алу қажет емес. Ол телефонда, планшетте немесе компьютерде веб-шолғыш арқылы ашылады."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Мәтелді аяқтау",
+    "seoTitle": "Мәтелді аяқтау: егде жастағы адамдарға арналған мақал-мәтел ойыны",
+    "h1": "Мәтелді аяқтау",
+    "description": "Соңғы сөзі түсіп қалған таныс америкалық мәтелдер, мысалы: «A penny saved is a penny ___». Жауап нұсқасын басыңыз немесе соңын көрсетіңіз, содан соң ол туралы әңгімелесіңіз.",
+    "short": "Таныс мәтелдерді бірге аяқтап, сосын олар туралы әңгімелесіңіз.",
+    "players": "1, 2 адам немесе шағын топ",
+    "intro": "Бұрынғы мәтелдер көбінесе өмір бойы жадта сақталады. Әр карточкада соңғы сөзі түсіп қалған таныс мәтел, үш жауап нұсқасы және «Соңын көрсету» батырмасы бар. Мәтел аяқталған соң, ой қозғайтын қарапайым сұрақ әңгімеге жетелейді.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Мәтелді бірге дауыстап оқыңыз.",
+      "Оны аяқтайтын сөзді басыңыз немесе «Соңын көрсету» батырмасын түртіңіз.",
+      "Мәтелді тұтастай қайта оқып, сұрақтың көмегімен ол туралы әңгімелесіңіз.",
+      "Дайын болғанда «Келесі мәтел» батырмасын басыңыз."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Асықпай оқып, соңғы сөздің алдында кідіріс жасаңыз. Көбіне адамдар сіз аяқтамай тұрып-ақ айтып қояды.",
+      "Егер біреу басқаша аяқтаса, оған қуаныңыз. Кейбір мәтелдердің нұсқасы отбасына немесе өңірге байланысты өзгеше болуы мүмкін.",
+      "Топпен ойнағанда, бір адам оқып, қалғандары соңын бірге айта алады."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Мұнда таймер немесе ұпай бар ма?",
+        "a": "Жоқ. Мұнда уақыт өлшегіш, ұпай, жүріс санауышы немесе жеңілу деген жоқ. Кез келген сәтте тоқтата аласыз, тіпті жарты жолдан доғару да ойынды аяқтаудың тамаша тәсілі."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Басқа сөзді таңдасақ не болады?",
+        "a": "Ойын әдеттегідей жалғасын көрсетіп, әңгімеге ұласады. Мұнда ұпай саналмайды, басқа жауап айтылса да еш оқасы жоқ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бұл тегін бе, әлде тіркелу керек пе?",
+        "a": "Иә, бұл тегін, әрі аккаунт ашу, тіркелу немесе жүктеп алу қажет емес. Телефон, планшет немесе компьютердегі кез келген браузерде ашыла береді."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ірі қаріпті сөз іздеу",
+    "seoTitle": "Деменциясы бар жандарға арналған ірі қаріпті сөз іздеу ойыны, басып шығаруға болады",
+    "h1": "Ірі қаріпті сөз іздеу",
+    "description": "Қарт кісілер мен деменциямен өмір сүретін жандарға арналған тегін әрі ірі қаріпті сөз іздеу ойыны. Сөздері аз, әріптері үлкен, тек көлденең және тігінен жазылған. Онлайн ойнаңыз немесе басып шығарыңыз.",
+    "short": "Үлкен әріптер, аз ғана сөз, тек көлденең және тігінен. Басып шығаруға да болады.",
+    "players": "1 немесе 2 адам",
+    "intro": "Үлкен әріптері және санаулы ғана сөзі бар шағын тор; сөздер тек көлденең немесе тігінен оқылады. Сөздің алғашқы әрпін, содан кейін соңғы әрпін түртіңіз. Қағазға ойнағыңыз келе ме? Бір түртумен жаңа жұмбақты басып шығарыңыз.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Тақырыпты және тордың көлемін таңдаңыз.",
+      "Сөздер тізіміне қараңыз. Сөздер көлденең (солдан оңға) немесе тігінен (жоғарыдан төмен) оқылады.",
+      "Сөздің бірінші әрпін, содан соң соңғы әрпін түртіңіз.",
+      "Табылған сөз ерекшеленіп, тізімнен сызылып тасталады.",
+      "Қарындашпен немесе маркермен қағазда ойнау үшін «Бұл жұмбақты басып шығару» түймесін басыңыз."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Тізімдегі сөзді көрсетіп, оның бірінші әрпін бірге іздеңіздер.",
+      "Қағазда ойнағанда қарындашқа қарағанда мәтін ерекшелегіш маркерді ұстау оңайырақ.",
+      "Тақырып сөздері туралы сөйлесіңіздер. Мысалы, жеміс-жидек атаулары өнім жинау, ас пісіру немесе базарға бару туралы жылы естеліктерді қозғауға таптырмас себеп болады."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Мұнда уақыт өлшегіш немесе ұпай бар ма?",
+        "a": "Жоқ. Мұнда уақыт өлшегіш, ұпай, жүріс санауышы немесе жеңілу деген жоқ. Кез келген сәтте тоқтата аласыз, тіпті жарты жолдан доғару да ойынды аяқтаудың тамаша тәсілі."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Сөз іздеу ойынын басып шығаруға бола ма?",
+        "a": "Иә. Торды астындағы сөздер тізімімен бірге ірі қаріппен шығару үшін «Бұл жұмбақты басып шығару» түймесін басыңыз. Әрбір жаңа жұмбақ алдыңғысына ұқсамайды."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бұл тегін бе, әлде тіркелу керек пе?",
+        "a": "Иә, бұл тегін, әрі аккаунт ашу, тіркелу немесе жүктеп алу қажет емес. Телефон, планшет немесе компьютердегі кез келген браузерде ашыла береді."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Боямақтар",
+    "seoTitle": "Деменциясы бар ересектерге арналған боямақтар (тегін)",
+    "h1": "Боямақтар",
+    "description": "Бояйтын аумағы үлкен, ересектерге арналған қарапайым боямақтар: түсті таңдап, суретті түртіңіз. Үсті-бас былғанбайды, қате түс деген болмайды, әрі әр парақты тегін басып шығаруға болады.",
+    "short": "Түсті түртіп, содан кейін суреттің бір бөлігін басыңыз. Парақтарды басып шығаруға да болады.",
+    "players": "1 немесе 2 адам",
+    "intro": "Үлкен әрі қарапайым бейнелері бар парақтар: түбектегі гүл, үй, шай кесесі, көбелек және желкенді қайық. Түсті түртіп, содан кейін суреттің бір бөлігін бояу үшін оны басыңыз. Қате түс деген болмайды.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Парақты таңдаңыз.",
+      "Түсті түртіңіз. Әр түстің атауы жазылып тұрады.",
+      "Суретті сол түспен бояу үшін оның бір бөлігін түртіңіз.",
+      "Қалаған уақытта басқа түспен қайта бояп өзгерте аласыз.",
+      "Қарындашпен немесе маркермен бояуға арналған бос парақты шығару үшін «Бұл парақты басып шығару» түймесін басыңыз."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Түс таңдау қиындық туғызса, барлық түстердің орнына таңдауға тек екі түс ұсыныңыз.",
+      "Күлгін ағаштар мен көк түсті күн де жарай береді. Мұнда бастысы — дәлдік емес, түстерден ләззат алу.",
+      "Басып шығарылған парақтарды ұстауға ыңғайлы жуан маркерлермен немесе балауыз қарындаштармен бояған өте жақсы нәтиже береді."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Мұнда уақыт өлшегіш немесе ұпай бар ма?",
+        "a": "Жоқ. Мұнда уақыт өлшегіш, ұпай, жүріс санауышы немесе жеңілу деген жоқ. Кез келген сәтте тоқтата аласыз, тіпті жарты жолдан доғару да ойынды аяқтаудың тамаша тәсілі."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Бұл суреттер тым балаларға арналғандай көрінбей ме?",
+        "a": "Суреттер ересектерге сай болуы үшін мультфильм кейіпкерлерінің орнына байсалды, қарапайым заттарды салдық. Үлкен пішіндер суретті балабақшаның суретіндей етпей-ақ бояуды жеңілдетеді."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бұл тегін бе, әлде тіркелу керек пе?",
+        "a": "Иә, бұл тегін, әрі аккаунт ашу, тіркелу немесе жүктеп алу қажет емес. Телефон, планшет немесе компьютердегі кез келген браузерде ашыла береді."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Әңгімелесу карталары",
+    "seoTitle": "Деменциясы бар жандарға арналған әңгіме бастау сұрақтары: суретті карталар",
+    "h1": "Әңгімелесу карталары",
+    "description": "Деменциямен өмір сүретін жандарға арналған жылы әңгіме бастауға арналған суретті карталар: тексеру сұрақтары мен дұрыс жауаптар жоқ. Экранда қолданыңыз немесе толық жинақты басып шығарыңыз.",
+    "short": "Ашық әрі жылы сұрақтары бар суретті карталар. Ешқандай сұрақтың астына алу жоқ.",
+    "players": "2 адам немесе бір топ адам",
+    "intro": "Әр картада таныс сурет пен әңгімеге жетелейтін «Қандай ауа райын жақсы көресіз?» сияқты ашық сұрақ берілген. Мұнда дұрыс жауап жоқ және ештеңені есте сақтау талап етілмейді. Белгілі бір тақырыпты таңдаңыз немесе бәрін араластырыңыз.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Тақырыпты таңдаңыз немесе «Барлық карталар» күйінде қалдырыңыз.",
+      "Сұрақты дауыстап оқып, суретке бірге қараңыздар.",
+      "Тыңдаңыз, өз жауабыңызбен бөлісіңіз және әңгіменің еркін өрбуіне мүмкіндік беріңіз.",
+      "Дайын болғанда «Келесі карта» түймесін басыңыз, немесе бір картада қалағаныңызша ұзақ тоқталыңыз.",
+      "Қағаз жинақты қиып алу үшін «Барлық карталарды басып шығару» түймесін басыңыз."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Сұраққа өзіңіз де жауап беріңіз. Сонда бұл сұрақ-жауап емес, шынайы әңгімелесу сияқты болады.",
+      "Нақты деректерге емес, әңгіменің желісіне мән беріңіз. Егер кейбір жайттар өзгеше айтылса, оған мән бермеңіз.",
+      "Егер карта көңілсіз естелікті қозғаса, оның сезімін түсініп, ақырындап басқа картаға ауысыңыз."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Неліктен мұнда «Есіңізде ме...?» деген сияқты сұрақтар жоқ?",
+        "a": "Жадты тексеретін сұрақтар емтихан сияқты сезіліп, адамды ыңғайсыз жағдайға қалдыруы мүмкін. Ал «Маған ... туралы айтып беріңізші» сияқты ашық шақырулар адам нені есіне түсірсе де, әңгімеге еркін қосылуына жол ашады."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Карталарды басып шығаруға бола ма?",
+        "a": "Иә. «Барлық карталарды басып шығару» түймесі арқылы бүкіл жинақты қиып алуға ыңғайлы етіп, әр параққа бірнеше картадан ірі қаріппен басып шығара аласыз."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бұл тегін бе, әлде тіркелу керек пе?",
+        "a": "Иә, бұл тегін және аккаунт ашуды, тіркелуді немесе жүктеп алуды қажет етпейді. Телефондағы, планшеттегі немесе компьютердегі веб-шолғышта жұмыс істейді."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Фотожұптар",
+    "seoTitle": "Отбасылық фотосуреттерден жұп табу ойынын жасау",
+    "h1": "Фотожұптар: өз фотосуреттеріңізден жұп табыңыз",
+    "description": "Өз отбасылық фотосуреттеріңізді жайлы жұп табу ойынына айналдырыңыз. Құрылғыңыздан 2-ден 6-ға дейін фото таңдаңыз; олар тек шолғышыңызда қалады және ешқайда жүктелмейді.",
+    "short": "Өз фотосуреттеріңізді таңдап, жұбын табыңыз. Ешқандай сурет интернетке жүктелмейді.",
+    "players": "Қатар отырған 2 адам",
+    "intro": "Телефоныңыздан, планшетіңізден немесе компьютеріңізден екі-алты фотосурет таңдаңыз, сонда олар үлкен әрі анық суреттері бар жұп табу ойынына айналады. Фотолар тек осы бетте көрсетіледі. Олар интернетке жүктелмейді, сақталмайды немесе бөлісілмейді, ал парақшаны жапқан кезде өшіп қалады.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "«Фотосуреттерді таңдау» түймесін басып, екі-алты фото таңдаңыз.",
+      "Әр фото екі рет шығады. Біреуін басып, кейін оның жұбын түртіңіз.",
+      "Жұбы табылған әр сурет туралы бірге әңгімелесіңіз.",
+      "Ойынды аяқтаған соң, парақшаны жабыңыз немесе «Фотоларды тазалау» түймесін басыңыз. Ешбір сурет сақталмайды."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Жақсы әсер қалдыратын, таныс нәрселердің анық фотоларын таңдаңыз: үй жануары, бақша, сүйікті орын немесе үйлену тойы.",
+      "Орындар мен заттардың суреттері адам жүздеріне қарағанда жеңілірек болуы мүмкін әрі кісінің есімін еске түсіруге қысым жасамайды.",
+      "Егер кенеттен көңілге қаяу түсіруі мүмкін болса, дүниеден өткен адамдардың фотоларын қалдыра тұрыңыз; тек ол естеліктер жайлылық сыйлайтынына сенімді болсаңыз ғана қолданыңыз."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Менің фотосуреттерім бір жерге жүктеле ме?",
+        "a": "Жоқ. Парақша сіз таңдаған фотоларды тікелей шолғышыңызда ғана ашып, экранда көрсетеді. Олар бізге де, басқа ешкімге де жіберілмейді және парақшаны жапқанда немесе қайта жүктегенде жойылады."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Мұнда уақыт өлшегіш немесе ұпай саны бар ма?",
+        "a": "Жоқ. Мұнда уақыт шектеуі, ұпай, жүріс есебі немесе жеңілу деген жоқ. Кез келген сәтте тоқтата аласыз, тіпті жарты жолдан тоқтаудың өзі – ойынды аяқтаудың тамаша тәсілі."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ойынды келесі жолға сақтап қоюға бола ма?",
+        "a": "Жеке деректер сақталмауы үшін шолғышта бұл мүмкіндік әдейі қарастырылмаған. iPhone және iPad құрылғыларына арналған тегін Golden Moments қолданбасы таңдалған фотолардың көшірмесін құрылғыңызда сақтай алады."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Суретті бинго",
+    "seoTitle": "Деменциясы бар қарт кісілерге арналған суретті бинго: басып шығаруға арналған",
+    "h1": "Топтарға арналған суретті бинго",
+    "description": "Егде жастағы кісілер мен жадына көмек қажет ететін топтарға арналған экрандағы үлкен жүргізушісі бар тегін, басып шығарылатын суретті бинго. Сөздері жазылған үлкен суреттер, 9 немесе 16 торкөз, оқуды талап етпейді.",
+    "short": "Басып шығаруға арналған суретті бинго карточкалары және топтар үшін үлкен экрандағы жүргізуші.",
+    "players": "2-ден 30-ға дейінгі адамнан тұратын топ",
+    "intro": "Сандардың орнына суреттер қойылған классикалық бинго, сондықтан ұсақ жазуларды оқудың қажеті жоқ. Бірнеше қайталанбайтын карточкаларды басып шығарыңыз, содан кейін әр суретті теледидардан, ноутбуктен немесе планшеттен үлкен етіп көрсету үшін экрандағы жүргізушіні пайдаланыңыз.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Әр карточка үшін 9 немесе 16 торкөзді және ойыншылар санын таңдаңыз.",
+      "«Карточкаларды басып шығару» түймесін басыңыз. Әр карточка әртүрлі болады.",
+      "Жүргізушіні үлкен экранда ашыңыз. Әр суретті өз атауымен көрсету үшін «Келесі сурет» түймесін басыңыз.",
+      "Ойыншылар өз карточкасындағы сәйкес келетін суретті тиынмен, түймемен немесе фишкамен жабады.",
+      "Бір қатарды немесе бүкіл карточканы толтырған әр адам қолдауға ие болады. Бұл ойында жеңілгендер болмайды: әрбір адам кемінде бір қатарды толтырғанша ойнай беріңіз."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Шашка немесе бөтелке қақпағы сияқты ірі фишкаларды пайдаланыңыз. Ұсақ түймелерді ұстау қиын болуы мүмкін.",
+      "Суретті атап, ол туралы бірдеңе айтыңыз: «Желкенді қайық. Қайықпен кім серуендеп көріп еді?»",
+      "Нашар көретін кісілерді экранға жақынырақ отырғызыңыз және көмекке мұқтаж ойыншылардың қасына көмекшілерді қосыңыз.",
+      "Көптеген топтар үшін тоғыз торкөз әбден жеткілікті. Ойын ұзақтығын 20-30 минут шамасында ұстаңыз."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Күтім үйінде суретті бингоны қалай өткізуге болады?",
+        "a": "Әр ойыншыға бір карточкадан басып шығарыңыз, жүргізушіні қолда бар ең үлкен экранға қойыңыз және әр суреттің атын асықпай атап отырыңыз. Ешкім шетте қалмауы үшін әр адам бір қатарды толтырғанша ойнаңыз."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Басып шығару тегін бе?",
+        "a": "Иә. Жеке немесе топпен пайдалану үшін қалағаныңызша және қанша қажет болса, сонша карточка басып шығара аласыз."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Оқу білмей-ақ ойнауға бола ма?",
+        "a": "Иә. Әрбір торкөзде үлкен сурет бар, ал оқуды қалайтындар үшін астында атауы жазылған."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Тыныш тыныс алу",
+    "seoTitle": "Қарт кісілер мен күтім жасаушыларға арналған тыныш тыныс алу үзілісі",
+    "h1": "Тыныш тыныс алу үзілісі",
+    "description": "Бірге бөлісуге болатын баяу, тыныш тыныс алу сәті: алты рет тыныс алғанша шеңбер жайлап үлкейіп, кішірейеді. Оны өзіңіз бастайсыз және кез келген уақытта тоқтата аласыз.",
+    "short": "Шеңбермен бірге тыныс алуға арналған баяу жаттығу. Қалаған уақытта бастап, тоқтатыңыз.",
+    "players": "1 немесе 2 адам",
+    "intro": "Кейде ең жақсы әрекет – тыныш қана үзіліс жасау. «Бастау» түймесін басып, шеңбер үлкейгенде ішке тыныс алып, кішірейгенде сыртқа тыныс шығарыңыз. Баяуырақ немесе жылдамырақ қарқынды таңдаңыз. Бұл емдеу тәсілі емес, жай ғана бірге тыныштық орнататын сәт.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Қатар жайғасып отырыңыз.",
+      "Қарқынын таңдаңыз: баяу немесе бірқалыпты.",
+      "«Бастау» түймесін басыңыз. Шеңбер үлкейгенде ішке тыныс алып, кішірейгенде сыртқа шығарыңыз.",
+      "Ол алты рет тыныс алған соң өзі тоқтайды, немесе қалаған уақытта «Тоқтату» түймесін басыңыз."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Егер жақыныңыз қарсы болмаса, қолынан ұстаңыз немесе қолыңызды оның білегіне қойыңыз.",
+      "Ешқашан мәжбүрлемеңіз. Егер ол тек қарап отырғысы келсе, бұл да жарайды.",
+      "Егер тыныс алу қиындықтары болса, қалыпты тыныс алып, жай ғана шеңберге қарап отырыңыз. Тыныс алуға қатысты кез келген алаңдаушылық бойынша дәрігермен кеңесіңіз."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Бұл медициналық тыныс алу жаттығуы ма?",
+        "a": "Жоқ. Бұл – тыныштық пен серіктестікке арналған қарапайым, ерікті үзіліс. Ол мазасыздықты немесе қандай да бір жағдайды емдеуге арналмаған. Денсаулыққа қатысты алаңдаушылықтар болса, дәрігермен кеңесіңіз."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Шеңбер мен бастамасам да қозғала бере ме?",
+        "a": "Жоқ. «Бастау» түймесін басқанға дейін ештеңе қозғалмайды, сондай-ақ ол алты рет тыныс алған соң немесе «Тоқтату» түймесін басқанда тоқтайды. Егер құрылғыңызда қозғалысты азайту бапталған болса, шеңбер ұлғаймай, тек сөздер өзгеріп отырады."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бұл тегін бе және тіркелу керек пе?",
+        "a": "Иә, бұл тегін, әрі ешқандай тіркелгі, тіркелу немесе жүктеп алу қажет емес. Ол телефон, планшет немесе компьютердің веб-шолғышында жұмыс істейді."
       }
     ]
   }

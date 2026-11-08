@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Direk nao d'n inhawd",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Activiteite bie dementie",
+    "homeLabel": "Golden Moments sjtartpagina",
+    "mainNav": "Hoofmenu",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Limburgs",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: groate, vrundjelike pleetjes van e theeköpske, 'ne zonnebloom en 'nen hóndj",
+    "languages": "Taal",
+    "englishOnly": "(Ingels)",
+    "machineTranslated": "Deze pagina is automatisch vertaald en nog neet nao-gezeen door 'ne moojerspraaksjpraeker.",
+    "readOriginal": "Lèes 't orizjineel in 't Ingels",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Sjpelkes",
+      "activities": "Activiteite",
+      "caregiving": "Zörg veur 'nen angere",
+      "brainHealth": "Hersengezóndheid"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Vraoge en antjwaorde",
+    "breadcrumb": "Kroamkroemele",
+    "home": "Sjtart",
+    "lastUpdated": "Lèts biegewirk",
+    "topics": "Óngerwerpe",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Teksgrótte",
+      "smaller": "Sjtandaardteks",
+      "larger": "Groatere teks",
+      "contrast": "Hoeger kóntras"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
+    "play": "Sjpele",
+    "picturePairs": "Pleetjeskoppele",
+    "conversationCards": "Praotkaerte",
+    "pictureBingo": "Pleetjesbingo",
+    "allGames": "Alle sjpelkes",
+    "pictures": "Pleetjes veur aaf te drökke",
+    "activityIdeas": "Ideeë veur activiteite",
+    "ideas101": "101 ideeë veur activiteite",
+    "lateStage": "Activiteite veur de latere faze",
+    "printable": "Activiteite veur aaf te drökke",
+    "allActivities": "Alle activiteite",
+    "forCaregivers": "Veur mantelzörgers",
+    "playTogether": "Wie geer same sjpeelt",
+    "selfCare": "Zörg veur uchzelf",
+    "brainHealth": "Óngerzeuk nao hersengezóndheid",
+    "faq": "Vraoge en antjwaorde",
+    "about": "Euver ós",
+    "approach": "Ózze aanpak",
+    "howWeWrite": "Wie v'r sjrieve",
+    "organizations": "Veur organisasies",
+    "app": "De Golden Moments app",
+    "appHelp": "Hölp bie de app",
+    "support": "Óngersjteuning",
+    "legal": "Juridische infermasie",
+    "sitePrivacy": "Privacy van de website",
+    "appPrivacy": "Privacybeleid van de app",
+    "privacyChoices": "Privacykeuzes",
+    "terms": "Veurwaarde en applicatielicentie",
+    "safety": "Veiligheid en bedoeld gebroek",
+    "accessibility": "Toegankelikheid",
+    "healthNotice": "Berich euver medische infermasie",
+    "allLegal": "Alle juridische infermasie",
+    "note": "Golden Moments beejt einvoudige gezamelike activiteite veur plezeer. 't Is gein medisch advies, geinen tes of behanjeling, en 't sjtelt gein diagnose, maet of beoordeilt nemes. Praot bie gezóndheidsvraoge mit 'nen dokter. Bel in 'n noedgeval 112.",
     "publisher": "Published by Cloudjet Solutions Pte. Ltd."
   },
   "home": {
     "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "description": "Gratis, röstige pleetjessjpelkes veur online te sjpele en activiteite-ideeë veur mense mit dementie of Alzheimer en häör mantelzörgers. Zónger aanmelje, tiedmaeters of punte.",
+    "eyebrow": "Gratis · Gein advertensies · Gein aanmelje · Gein tiedmaeters of punte",
+    "h1": "Röstige sjpelkes en activiteite veur mense mit dementie",
+    "lede": "Einvoudige pleetjessjpelkes, vertroewde foto's en activiteite veur same van te genete—op eige tempo.",
+    "playGame": "Sjpel e sjpelke",
+    "findIdeas": "Vinj activiteite-ideeë",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Wèrk op tillefoon, tablet en kómpiuter",
+      "Groate pleetjes die in beeld blieve",
+      "Sjtop op eeder memènt; geer kint niks fout doon"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Ouch 'n gratis app veur iPhone, iPad en Android, mit eur eige femiliefoto's",
+    "albumNote": "„Twie pleetjes van 't theeköpske, biejein.”",
+    "gamesEyebrow": "Sjpel in de browser",
+    "gamesTitle": "Sjpelkes die geer drek kint sjpele",
+    "gamesLede": "Eeder sjpelke is röstig, volwasse en sjnel gesjtart. Kees d'r eint oet, gaot naevenein zitte en tik om de beurt.",
+    "seeAllGames": "Bekiek alle {count} sjpelkes",
+    "howTitle": "Wie 't wèrk",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Kees get vertroewds",
+        "text": "Pleetjes van theeköpskes, häöf, hoesdere en zeilboate. Zónger te laeze of regels veuraaf te leere."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Gaot naevenein zitte",
+        "text": "Laot häör tikke. Praot euver de pleetjes. E paar dat neet klop, wach gewoon toet de volgende tik."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Sjtop zolang 't prettig vuult",
+        "text": "Eint sjpelke is al 'n ganse activiteit. „Klaor veur noe” sjteit altied op 't sjerm."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Boete 't sjerm",
+    "stageTitle": "Ideeë veur activiteite in eedere faze",
+    "stageLede": "Meziek, alledaagse täökskes, herinneringe ophaole en röstige zintuuglike memènte, aangepas aan wat noe prettig vuult.",
+    "ideas101": "101 ideeë veur activiteite",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Vreuge faze",
+        "text": "Bief doon wat de persoan wo geer veur zörgt gaer deit, mit klein aanpassinge: hobby's, oetstepkes, waordsjpelkes en same planne.",
+        "label": "Ideeë veur de vreuge faze"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Middelste faze",
+        "text": "Einvoudige, vertroewde taakskes in sjtappe: vouwe, sortere, meziek, pleetjessjpelkes en kótte wanjelinge.",
+        "label": "Ideeë veur de middelste faze"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Latere faze",
+        "text": "Treus en verbènjing via aanraking, geluid en zich: handjzörg, leevlingsleedjes, foto's en same zeen.",
+        "label": "Ideeë veur de latere faze"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Zökt geer get specifieks? Prebeert ins <a href=\"/activities/alzheimers/\">activiteite en sjpelkes bie Alzheimer</a>, <a href=\"/activities/memory-games/\">röstige geheugesjpelkes</a>, <a href=\"/activities/trivia/\">einvoudige kwisse</a> of <a href=\"/activities/puzzles/\">puzzels</a>.",
+    "approachEyebrow": "Ózze aanpak",
+    "approachTitle": "'n Gezamelike activiteit, geine geheugetes",
+    "approachLede": "Veul „hersen-sjpelkes” drejje om sjnelheid, punte en series. Veur emes mit dementie kint dat veule wie 'n examen. Veer höbbe zjuus 't taegeneuvergesjtèlde gemaak.",
+    "approachLink": "Waerom v'r 't zoe óntwerpe",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Geer kint niks fout doon",
+        "text": "Geine klok, gein punte, gein laeves of verleze. E verkièrd pleetje is 'n pauze, gein fout."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Pleetjes blieve zichbaar",
+        "text": "Herkènning in plaats van herinnere. Koppele begint mit de pleetjes nao baove, dus d'r hoof niks ónthaje te waere."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Volwasse en waerdig",
+        "text": "Werme, einvoudige waord en pleetjes oet de echte waereld. Noeits stripkes of kènjerpraot."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Vanoet de basis besjermd",
+        "text": "Gein accounts of advertensies. Eur foto's verlaote eur apparaat noeits."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Veur mantelzörgers",
+    "guidesTitle": "Praktische handjriejinge veur de dagelikse zörg",
+    "allCaregiving": "Alle handjriejinge veur mantelzörg",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Wie geer same sjpelt",
+        "text": "Klaorzitte, tempo, en wat te doon wen e sjpelke neet leuk mie is."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Wen emes „nae” zaet taenge 'n activiteit",
+        "text": "Veulveurkómmende raejene om te weigere, en vrundjelike menere om 't later nog 'ns te prebere."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "'ne Tablet klaormake",
+        "text": "Groatere teks, minder óngerbraekinge en ei einvoudig sjtartskerm."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Gratis activiteite veur aaf te drökke",
+        "text": "Waordzeukers mit groate lètters, kleurplate, bingo en praotkaerte."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Hersengezóndheid: wat 't óngerzeuk ech zaet",
+    "researchText": "Kint dementie waere veurkómme? Helpe hersensjpelkes? Wie zit 't mit vaste, aete, sjlaop en gehuur? Duidelike antjwaorde mit bronne, ouch wo 't bewies zjwaak is.",
+    "researchLink": "Lèes de óngerzeuksartikele",
+    "appEyebrow": "Ouch 'n app",
+    "appTitle": "Golden Moments op iPhone, iPad en Android",
+    "appText": "De gratis app wèrk offline en kint gekaoze femiliefoto's gebroeke, die as kopie op eur apparaat blieve sjtaon. 't Zelfde röstige óntwerp: veer groate tegels, geine tiedmaeter, gein punte.",
+    "aboutApp": "Euver de app",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Wat zeen gooj sjpelkes veur mense mit dementie?",
+        "a": "Goj spellekes zeen sumpel, vertroewd en zónger drök: groete plaetjes óm biejein te zeuke, sortere, gemekkelike puzzels, bekènde gezègkdes aafmake, kleure, pleetsjesbingo en praotkaertjes. De bèste keus is get wo de persoen vandaag plezeer aan haet. Vermied timers, punte en al wat wie 'nen test veult."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Zeen dees spellekes veur dementie gratis?",
+        "a": "Jao. Eder spelleke en aafdrukbaar materiaal op Golden Moments is gratis, zónger account, aanmelje of downloade. De spellekes loupe gewoen in de webbrowser op 'ne tillefoon, tablet of computer."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Kinne hersespellekes dementie veurkómme?",
+        "a": "Gein inkel spelleke haet beweze dementie te veurkómme, en Golden Moments bewaert neet get te behanjele of te veurkómme. Ós spellekes zeen bedoeld veur plezeer en tied saame. Ós óngerdeil euver hersegezóndjheid lègk oet wat weitesjappelik óngerzeuk waal en neet aentoent."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Zeen dees spellekes gesjik veur emes mit Alzheimer?",
+        "a": "Jao. De ziekte van Alzheimer is de meis veurkómmende oerzaak van dementie, en de spellekes zeen speciaal daoveur gemaak: groete plaetjes die in beeld blieve, weinig keuzemäögelikhede, en nieks óm te ónthaje of fout te doon. Biejein zeuke, sortere en bekènde spraekwäörd aafmake steune op vertroewde kennis van vreuger in plaats van get nuuts te mótte liere."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Kin emes in 'n wiejer gevorderd stadium van dementie dees activiteite doon?",
+        "a": "Dök waal, mit emes d'rneve. Begin mit 'Zuk 'tzelvde' mit twee plaetjes, 'Plaetjespeerkis' mit veer tegele, 'n kleurplaat of 'n röstige aomhaolingspauze. Haaj 't kort, volg 't tempo van de persoen en stop wen 't genóg is gewaes."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Zeen mien gegaeves privé?",
+        "a": "De site haet gein accounts en gein advertensies. Veer gebroeke Google Analytics óm te begriepe welke pagina's weure bezóch. Foto's die geer oetzuk veur Foto-peerkis weure allein in eure eige browser getuind en noets geüpload."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Wae maak Golden Moments?",
+        "a": "Golden Moments is e klein team dat röstige plaetjesactiviteite veur volwassene maak veur femilies en verzörgers, op 't web en es 'n gratis app. Veer zeen gein dokters, en nieks hie is medisch advies."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "vreug",
+    "middle": "midde",
+    "late": "wiejer gevorderd",
+    "hintOne": "Dök passend veur 't {list} stadium",
+    "hintMany": "Dök passend veur de {list} stadia",
+    "labelEarly": "Vreug stadium",
+    "labelMiddle": "Middestadium",
+    "labelLate": "Wiejer gevorderd stadium"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Euver dit spelleke",
+    "printable": "Aafdrukbaar",
+    "play": "Späöl {name} →",
+    "readGuide": "Lees de gids"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Klaor veur e röstig spelleke?",
+    "text": "Groete plaetjes, geine timer, gein punte en gein insjrieving nuèdig. Späöl saame in eure browser.",
+    "play": "Späöl e spelleke",
+    "all": "Bekiek alle spellekes",
+    "aria": "Späöl e spelleke"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Num dees spellekes mit",
+    "text": "De gratis Golden Moments-app veur iPhone, iPad en Android: groete plaetjestegels, spellekes mit eige femiliefoto's en plaetjespakkètte die zónger wifi wirke. Gein account, reclame, timer of punte.",
+    "appStore": "Download in de App Store",
+    "googlePlay": "Download op Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Euver de app",
+    "aria": "Download de app"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Activiteite",
+      "title": "Activiteite veur luuj mit dementie",
+      "seo": "Activiteite veur luuj mit dementie: ideeë per stadium",
+      "description": "Ideeë veur activiteite veur luuj mit dementie in eder stadium: meziek, herinneringe ophaole, alledaagse take, zintuuglike momente, knutsele, boete zeen en gratis aafdrukbare blajer.",
+      "lede": "'n Zinvol activiteit is al wat troes, zin of e moment van verbènjing brink. Begin mit wat de persoen ummer gaer haet gedaon, en pas 't aan nao vandaag."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Zörg",
+      "title": "Gidse veur de verzörging",
+      "seo": "Gidse veur de zörg bie dementie: praktische alledaagse hölp",
+      "description": "Praktische, aandachtige gidse veur wie zörg veur emes mit dementie: saame spele, communicatie, weigeringe, ónrös aan 't ènj van d'n daag, tablets, apps oetzeuke en zelfzörg.",
+      "lede": "Heldere, praktische hölp veur de alledaagse momente van de zörg veur emes mit dementie, inclusief zörg veur uchzelf."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Hersegezóndjheid",
+      "title": "Hersegezóndjheid: wat 't óngerzeuk zaet",
+      "seo": "Hersegezóndjheid en 't risico op dementie: wat óngerzeuk zaet",
+      "description": "Kin me dementie veurkómme? Eerlike, óngerboewde gidse euver risicofactore veur dementie, hersespellekes, vaste, voeding, bewaege, slaop, gehuur en vreug alarmsignale.",
+      "lede": "Wat groete óngerzeuke ech aentoene euver 't verlege van 't dementierisico, helder oetgelag, ouch wo de bewieze zjwaak of verdeild zeen. Algemein informatie, gein medisch advies."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Biegewèrk",
+    "minuteRead": "{n} minute laestied",
+    "byTeam": "Door 't team van Golden Moments",
+    "howWeWrite": "Wie veer sjrieve",
+    "shortAnswer": "'t Kórt antjwaord",
+    "onThisPage": "Op dees pagina ({n} óngerdeile)",
+    "commonQuestions": "Väölgestèlde vraoge",
+    "sources": "Bronne",
+    "sourcesNote": "Veer linke nao de organisaties en óngerzeuke wo dees pagina op steunt. Eder bron is gecontroleerd bie 't biewirke van de pagina.",
+    "tryTogether": "Perbeer saame",
+    "relatedGuides": "Verwantje gidse",
+    "related": "Verwantj",
+    "startHere": "Begin hie"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Kennisgaeving euver gezóndjheidsinformatie",
+    "title": "Algemein informatie, gein medisch advies",
+    "textHtml": "Dees pagina vat gepubliceerd óngerzeuk saame veur femilies. 't Kin neet zègke wat zjuus is veur ein individueel persoen. Praot mit 'nen dokter veurdet geer get verandert aan dieet, bewaeging, slaop, medicamente of supplemente. Sjakel bie acute verwardheid of anger plotselinge veranderinge direk medische hölp in. <a href=\"/medical-disclaimer/\">Lees ós kennisgaeving euver gezóndjheidsinformatie</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "'n Gezamelike activiteit, geine geheugentest",
+      "seoTitle": "Euver Golden Moments: ós aanpak",
+      "description": "Waeróm spellekes van Golden Moments gein timers, punte of reeks-scores höbbe, waeróm plaetjes in beeld blieve, en wat veer waal en neet bewaere euver dementie.",
+      "crumb": "Ós aanpak",
+      "lede": "Golden Moments maak röstige plaetjesactiviteite veur volwassene die 'ne verzörger en emes mit dementie ziej aan ziej kinne beleve.",
+      "bodyHtml": "<h2>Wat veer geluive</h2><p>Bie 'n activiteit geit 't óm 't memènt zelf: e gesprek, 'ne glimlaach, 't plezeer van twie plaetsjes biejein lègke, of gewoen gezellig naeve-n-ein zitte. 't Is neet bedoeld óm emes te maete, wiejer te pushe of get te bewieze.</p><p>Väöl hersentraenings-apps zeen óntworpe rónk sjnelheid, punte, reekse en levels. Veur emes mit dementie kan det veule wie e sjoal-exame det se neet kins haole. Veer höbbe zjuus 't taegeneuvergesjtèlde gemaak, en veer haoje ós aan dees regele:</p><ul><li><strong>Niks kan fout goon.</strong> Geine klok, gein punte, geine zatteler, gein laeves, gein reekse, gein confetti of aaftèllers, op gein inkel sjirm.</li><li><strong>Herkinning baove herinnere.</strong> Plaetsjes blieve sjtandaard in beeld. Vräögskes neuie oet tot e gesprek en teste noets name of herinneringe.</li><li><strong>Groat, dudelik en röstig.</strong> Groate tekste en plaetsjes, hoog contras, en knóppe die ummer op dezelfde plaatsj blieve sjtaon.</li><li><strong>Volwasse waerdigheid.</strong> Echte foto's en gewoen, werme wäörd. Gein teikenteikens, kènjerlikke complimente of emoji-beloaninge.</li><li><strong>Gemekkelik kónne sjtoppe.</strong> „Klaor veur noe” is ummer te zeen. Halfwaeges oetsjeie is ouch gewoen good.</li><li><strong>Sjtandaard privé.</strong> Gein accounts of reclames. Foto's die geer oetkeus, blieve op eur eige apparaat sjtaon.</li></ul><h2>Wat veer neet bewaere</h2><p>Ós sjpeletjes zeen bedoeld veur plezeer en kóntak. Ze sjtèlle gein diagnose, ze teste, maete, behanjele, vertrage of veurkaome gein dementie of de gekrenkde van Alzheimer, en nemes zouw ze óm die raej mótte keze. Es veer sjrieve euver óngerzeuk op ós <a href=\"/brain-health/\">pagina's euver hersegezóndheid</a>, zègke veer dudelik wo 't bewies zjwaak is, en veer bringe det noets in verband mit ós eige sjpeletjes.</p><h2>Wae veer zeen</h2><p>Golden Moments is e klein ónaafhenkelik team. Veer zeen gein dokters of zörgprenfessionals. Ós giddse zeen gesjreve op basis van gepubliceerde richtliene van organisaties wie de National Institute on Aging en de Alzheimer’s Association, en edere gids vermeldt zien brónne. Laes <a href=\"/editorial-policy/\">wie veer ós pagina's sjrieve en controlere</a>.</p><h2>Laot ós weite wat zów helpe</h2><p>Veer huire heel gaer wat veur uch wèrk en wat neet, in 't biezónjer van mense mit dementie, mantelzörgers en activiteitebegeleiders. Sjik 'n e-mail nao <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Wie veer ós pagina's sjrieve en controlere",
+      "seoTitle": "Redactioneel beleid",
+      "description": "Wie Golden Moments óngerzeuk deit, sjrif, brónne vermeldt en de pagina's euver dementie-activiteite en hersegezóndheid biewèrk, en wat veer noets zölle publicere.",
+      "crumb": "Redactioneel beleid",
+      "bodyHtml": "<h2>Ós brónne</h2><p>Veer basere ós giddse op openbaar richtliene van organisaties wie de National Institute on Aging, de CDC, de Alzheimer’s Association, de Alzheimer’s Foundation of America, de Family Caregiver Alliance en de NHS, en op peer-reviewed óngerzeuk wie Cochrane reviews en groate klinische sjtudies. Edere gids vermeldt de brónne wo dae op sjteunt. Veer bekieke edere brón veurdat veer 'm numme, en veer numme allein euver wat d'r wirkelik in sjteit.</p><h2>Wie veer sjrieve</h2><ul><li>Praktisch op de ieërste plaatsj: wat geer vandaag kint doon, in dudelike taal.</li><li>Eerlik euver bewies: veer zègke „kan samehange mit”, „zou kónne” en „'t bewies is verdeild” es det de waorheid is.</li><li>Mit respek: veer sjrieve euver mense mit dementie wie euver volwassene, en veer gebroeke noets belaerende of besjaamende taal.</li><li>Gein verzonne dinger: gein bedachte ciefers, citate, experts, óngerzeuke, beoordeilinge of ervaringsverhaole.</li></ul><h2>Wae ós pagina's nao-kik</h2><p>Pagina's waere gesjreve en gecontroleerd door 't team van Golden Moments, mit hölp van AI-sjriefhölpmiddele veur óngerzeuk en concepttekste. Edere pagina weurt aan de handj van de brónne door 't team gecontroleerd. Ós pagina's zeen <strong>neet</strong> nagekeke door 'ne dokter of 'nen angere zorgprofessional, en veer bewaere det ouch neet. 't Is algemein infermatie, gein medisch advies.</p><h2>Wat veer noets zölle publicere</h2><ul><li>Bewaeringe det e sjpeletje, voeding, e supplement, vaste of 'n vaste routine dementie veurkump, behanjelt, vertraagt of genees.</li><li>Teste, quizze of scores die lègke det emes waal of gein dementie haet.</li><li>Advies óm te beginne, sjtoppe of te verangere mit medicijne.</li><li>Reclame of gesponsorde inhoud dae vermomp is wie advies.</li></ul><h2>Biewirkinge en correcties</h2><p>Op edere pagina sjteit de datum van de lètste biewirking. Es geer 'n fout vènk of 'n brón die verouderd is, sjik dan 'n e-mail nao <a href=\"mailto:{email}\">{email}</a> en veer zölle 't sjnel nakieke.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Vraoge en antjwaorde",
+      "seoTitle": "Sjpeletjes en activiteite bie dementie: Vraoge en antjwaorde",
+      "description": "Antjwaorde op väölgesjtèlde vraoge euver sjpeletjes en activiteite bie dementie: welke sjpeletjes te probere, wie lank te sjpaele, ideeë veur latere fases, hersegezóndheid en privacy.",
+      "crumb": "Vraoge en antjwaorde",
+      "lede": "Kórte, dudelike antjwaorde op de vraoge die mantelzörgers 't meiste sjtèlle.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Euver de sjpeletjes",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Wat zeen de bèste sjpeletjes veur emes mit dementie?",
+              "a": "De bèste sjpeletjes zeen vertroewd, einvoudig en zónger drök, en 't zjuuste sjpeletje is wat de persoen vandaag fijn vundj. Plaetsjes zuke mit zichbare pleetjes, sortere, gemekkelikke puzzels, bekinde sjpraekwäörd aafmake, kleure en plaetsjesbingo wèrke veur väöl mense good. Vermied timers, punte en al wat wie 'nen tes veult."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Zeen de sjpeletjes echt gratis?",
+              "a": "Jao. Alle spellekes en printbare blajer zeen gratis, zónger account, registratie, downloade of advertenties."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Waerom zeen d'r gein punte, niveaus of timers?",
+              "a": "Sjnelheid en punte make van 'n gezellige activiteit 'n saort examen, en det kin leie tot sjaamte of frustratie. V'r lègke de naodruk op plezeer en tied same, zoe det d'r niks fout kin gaon en geer op eder memènt kint sjtoppe."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Welke apparate wirke 't bèste?",
+              "a": "Ederen tillefoan, tablet of computer mit 'ne moderne webbrowser. 'Ne tablet in 'ne sjtander op de taofel is dök de fienste meneer veur twee luuj óm naevenein te sjpele. 'Ne laptop dae aangesjlaote is op 'ne tv wirk good veur groepe."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Kónne v'r mit ós eige femiliefoto's sjpele?",
+              "a": "Jao. Fotopäörkes maak van 2 wies 6 foto's die geer oetkeus 'n combinatiesjpel. De foto's blieve gewoen in euren browser en waere nörges geüpload of opgesjlage."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Activiteite en zörg",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Wie lank mót 'n activiteit dure?",
+              "a": "Dök is 10 wies 20 minute mie es genóg, en soms is 2 minute al 'n succes. Lèt op teikens van meugheid of frustratie en sjtop zolang 't nog plezerig veult. D'r is gein vaste doer."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Wat es ze gein activiteit wille doon?",
+              "a": "Respecteer 't 'naee', en perbeer 't later nog 'ns of op 'n anger meneer. Weigere kin kómme door meugheid, pien, ónzekerheid of gewoen gein intresse höbbe. Bekiek ós gids euver wat geer kint doon es emes 'naee' zaet."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Welke activiteite passe bie wiejer gevorderde dementie?",
+              "a": "Tros en de zintuge: loestere nao favoriete meziek, 'ne handjmassage mit lotion, same nao foto's kieke, 'n zachte daeke vashaje, boete zitte, of e gans sumpel plaetjessjpel mit emes d'rneve. Ós gids veur wiejer gevorderde fasen haet nog väöl mie ideeë."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Zeen d'r activiteite veur groepe in 'n zörgtehoes?",
+              "a": "Jao. Plaetjesbingo haet printbare kaarte en 'nen aafroeper op 't sjerm, en Gezègkdes aafmake en Gesjprekskaertjes wirke good es ze waere veurgelaeze. Ós gids veur groepe in 't zörgtehoes besjprik groepsgruimde, zitsjtelling en 't aanpasse veur versjillende niveaus."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Herregezóndheid",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Kónne spellekes dementie veurkómme of vertrage?",
+              "a": "Van gein inkel spelleke is aangetuind det 't dementie veurkump, en ós spellekes bewaere det ouch neet. Cognitieve stimulatie in 'ne sociale conteks haet in ónderzeuk klein veurdeile laote zeen veur mense mit lichte wies maotige dementie, meh det is get gans anges es 'n spelleke det 'n krenkde veurkump. V'r beeje spellekes aan veur plezeer en verbènjing."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Kin dementie waere veurkómme?",
+              "a": "Neet mit zekerheid. Ónderzeuk brink 14 gezóndheids- en laefsjtielfactore in verband mit 't risico op dementie, zoewie gehuurverlees, hoage blooddrök, te weinig bewaeging en sociaal isolement. 't Aanpakke daovan kin 't risico veur sómmige mense verlieëge, meh väöl mense die alles good doon kriege toch dementie. 't Is noets emes zien sjoeld."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Is periodiek vaste good veur de herres?",
+              "a": "Bewies bie mense is bepèrk en pril, en väöl ónderzeuk is bie dere gedaon. Vaste kin riskant zeen veur ajere, zeker bie diabetesmedikamente of ónbedoeld gewichsverlees, en 't weurt aafgeraoje veur mense mit dementie. Euverlèk mit 'nen dokter veurdet geer get verandert aan wie geer aat."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Privacy en veiligheid",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Verzamelt geer infermasie?",
+              "a": "Gein accounts of advertenties. V'r gebroeke Google Analytics óm bezeukers te telle en te zeen welke pagina's helpe, en euren browser ónthaud of geer zachte geluide haet aangezat. Foto's die geer oetkeus veur Fotopäörkes waere noets geüpload. Bekiek de privacyverklaoring veur details."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Is dit medisch advies?",
+              "a": "Naee. Golden Moments is bedoeld veur óntsjpanning en algemein infermasie. Veur gezóndheidsvraoge kint geer 'nen dokter raodplege, en veur noodgevalle belt geer 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Mie infermasie: <a href=\"/caregiving/how-to-play-together/\">wie geer same sjpeelt</a>, <a href=\"/caregiving/when-they-say-no/\">es ze 'naee' zègke</a>, <a href=\"/activities/late-stage/\">activiteite veur de latere fase</a> en <a href=\"/brain-health/can-dementia-be-prevented/\">kin dementie waere veurkómme?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Gratis, röstige spellekes veur mense mit dementie",
+      "seoTitle": "Printbare flyer: Gratis online spellekes bie dementie",
+      "description": "'N Printbare flyer van ein pagina veur femilies en mantelzörgers euver gratis, röstige plaetjesspellekes veur mense mit dementie, veur sjteungroepe en zörgpakkette.",
+      "crumb": "Printbare flyer",
+      "lede": "Print dees pagina veur 'ne sjteungroep, 't zörgpakket of veur op de koelkaskasdeur. Gebroek de printopdrach van euren browser; de menu's en knóppe waere op de aafdruk weggelaote.",
+      "introHtml": "<p>Groate plaetjes, dudelike wäörd en niks wat fout kin gaon. Gratis op 'ne tillefoan, tablet of computer, zónger aanmelle, zónger advertenties, zónger timers en zónger punte. Zit naevenein en wessel mekoar aaf.</p>",
+      "gamesTitle": "Spellekes óm same oet te perbere",
+      "restHtml": "<h2>'N paar tips</h2><ul><li>Kees e memènt op d'n daag wo-op de persoan zich 't bèste veult.</li><li>Begin mit de sumpelste insjtelling. Veer tegelkes is al gans genóg.</li><li>Praot euver de plaetjes. 't Gesjprek is dök 't fijnste sjtök.</li><li>Sjtop zolang 't nog plezerig veult. Iërder oetsjeie is ouch e prima rizzeltaat.</li></ul><h2>Ouch op de website</h2><ul><li>Gratis printblajer: waordszeukers mit groate lètters, kleurplate, gesjprekskaertjes en plaetjesbingo.</li><li>Ideeë veur activiteite in eder fase, en gidse euver same sjpele en good veur uchzelf zörge.</li></ul><p class=\"muted\">Veur plezeer en tied same. Gein medisch advies, tes of behanjeling. Golden Moments weurt oetgegaeve door Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Veur zörgtehoezer, bibliotheke en sjteungroepe",
+      "seoTitle": "Gratis activiteite bie dementie veur verzörgingstehoezer en groepe",
+      "description": "Wie verzörgingstehoezer, daagbestedinge, bibliotheke, organisaties veur awwere en steungroepe ós gratis spölkes bie dementie gebroeke, plus teks óm ós toe te veuge aan 'n euverzich van hölpmiddele.",
+      "crumb": "Veur organisaties",
+      "lede": "Al op dees site is gratis te gebroeke mit bewuëners, leje en cliënte, zónger account, licentie of koste. Dees pagina lègk oet wat hie te vènje is en wie geer 't kint deile.",
+      "shortText": "{name}: gratis, röstige pleetjesspölkes en activiteitengidse veur luuj mit dementie en häör mantelzörgers. Zónger aanmelle, zónger timers, zónger punte.",
+      "longText": "{name} ({domain}) beejt {count} gratis browserspölkes gemaak veur luuj mit dementie, wo-ónger pleetjeskoppele wo-bie de pleetjes zichbaar blieve, 'ne gemekkelike lègkpuzzel, sortere, bekènde oetdrökkinge en pleetjesbingo mit kaarte die geer kint aafdrokke. D'r is gein account, gein reclame, geine timer en gein puntetèlling. De site haet ouch dudelike activiteitengidse veur eder fase van dementie mit brónne van 't National Institute on Aging en de Alzheimer's Association.",
+      "useTitle": "Wat organisaties kinne gebroeke",
+      "gamesItemHtml": "<strong>{count} browserspölkes</strong> die werke op 'ne laptop, tablet of 'ne tv aangesjlote op 'ne computer. Zónger installatie, account of download. Bekiek <a href=\"/games/\">alle spölkes</a>.",
+      "printablesLabel": "{count} aaf te drökke activiteite:",
+      "printablesAfter": "Gebroek de knoep Aafdrokke op eder pagina.",
+      "moreItemsHtml": "<li><strong>Vorm veur groepe:</strong> <a href=\"/games/picture-bingo/\">Pleetjesbingo</a> haet aaf te drökke kaarte en 'ne omrooper op 't sjerm, en <a href=\"/activities/trivia/\">gemekkelike trivia</a> haet 50 vraoge mit antjwaordkeuzes en thema's óm euver te kalle.</li><li><strong>Activiteitengidse</strong> veur personeel en femielie, per fase en per saort, gesjreve in dudelike taal mit brónvermelding. Begin mit <a href=\"/activities/ideas/\">101 ideeë veur activiteite</a> of <a href=\"/activities/care-home-groups/\">groepsactiviteite veur verzörgingstehoezer</a>.</li>",
+      "restHtml": "<h2>Wie groepe 't gebroeke</h2><ul><li><strong>Verzörgingstehoezer en zörgafdeilinge:</strong> pleetjesbingo of sjprèkwaord aafmake op de tv in de gezamelike ruimde, wo-bie ein persoen tikt veur de groep.</li><li><strong>Daagbestedinge:</strong> 'ne tablethook mit Pleetjeskoppele ingestèld op veer tegele, veur kórte ein-op-ein momenter.</li><li><strong>Aopebaar bibliotheke:</strong> aafgedrokde waordzeukers en gesprekskaarte in herinneringskoffers, en de site es bladwiezer op tablets van de bibliotheek.</li><li><strong>Steungroepe veur mantelzörgers en geheugencafés:</strong> 'n <a href=\"/handout/\">aaf te drökke hand-out van ein pagina</a> veur femielies óm mit nao hoes te numme.</li><li><strong>Zekenhoezer en zörgbemiddeling:</strong> de hand-out in informatiemapkes veur mantelzörgers, veur get röstigs óm thoes of aan 't bèd te doon.</li></ul><h2>Wat veer neet doon</h2><p>De spölkes zeen bedoeld veur plezeer en tied same. Ze diagnosticere, teste, beoordeile, behanjele of vertraoge gein dementie, en veer vraoge organisaties óm ze ouch neet zoe te besjrieve. D'r is gein reclame, en de spölkes vraoge neet óm name, gezóndheidsgegaeves of 't uploade van foto's. De website gebroek Google Analytics óm bezeukersaantalle te tèlle; ós <a href=\"/privacy/\">privacyverklaoring</a> lègk oet wat verzameld weurt. Foto's die gebroek waere in <a href=\"/games/photo-pairs/\">Fotopare</a> blieve in de browser.</p><h2>Voog ós toe aan eur euverzich</h2><p>Es geer 'n lies van hölpbronne biehawt veur mantelzörgers, kint geer gerös linke nao <a href=\"/\">{domain}</a>. Geer moog ein van bei besjrievinge kopiëre.</p>",
+      "shortTitle": "Kórte besjrieving",
+      "longTitle": "Oetgebreidere besjrieving",
+      "linksHtml": "<p>Handige pagina's óm drek nao te linke: <a href=\"/games/\">gratis spölkes</a>, <a href=\"/activities/printable/\">gratis aaf te drökke materiaal</a>, <a href=\"/activities/alzheimers/\">activiteite bie alzheimer</a> en <a href=\"/caregiving/how-to-play-together/\">wie geer same kint spöle</a>.</p><h2>Vraoge of correcties</h2><p>Es get op de site neet klop of óndudelik is, of es 'n activiteit neet aansjleit bie de behoofte van 'ne bewuëner, laot 't ós dan gerös weite via <a href=\"mailto:{email}\">{email}</a>. Sjtuurt estebleef gein persuunlike of medische gegaeves euver bewuëners of cliënte.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "De Golden Moments App",
+      "seoTitle": "De Golden Moments App veur iPhone en Android",
+      "description": "De gratis Golden Moments app: röstig fotopare zeuke mit veer groate tegele, femieliefoto's veilig op eur eige apparaat, offline pleetjespakkette en gein account.",
+      "crumb": "De app",
+      "lede": "Al wat geer prettig vindj aan de website, in 'n app die offline wirk en femieliefoto's kint gebroeke die geer zelf oetkeus.",
+      "worksOn": "Wirk op {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Klein beginne</h2><p>Begin mit veer groete tegele en vertroewde plaetjes. Laot de plaetjes zichbaar blieve, of verberg ze wen dat prettiger veult. De röstige sjtand haet geine timer, score of sjtraofpunte. Kees oet 4, 6, 8 of 12 tegele.</p><h2>Maak 't persuunlik</h2><p>Kees femiliefoto's mit de fotokezer van eur apparaat. De app sjlaat kleiner kopieë op veur de activiteite. Hae kump neet aan eur originele foto's en kiek neet door eur fotobibliotheek, en bewaart toet 24 foto's in ein verzameling.</p><h2>Gewoen same kieke</h2><p>Bekiek ei plaetje tegeliek. Optionele vraoge nuuedige oet tot e gesprekske, zónger det emes name mót ónthaje of e good antjwaord mót gaeve. Gewoen kieke is al genóg.</p><h2>Offline wo 't d'rop aankump</h2><p>Sjtartplaetjes en al ach de plaetjespakkètte zitte al bie de app. Geïmporteerde fotokopieë wirke offline. Bie 't oetzeuke van originelen die allein in iCloud sjtaon, kan internet nuedig zeen.</p><h2>Gein account, geine foto-synchronisatieserver</h2><p>Kopieë van femiliefoto's blieve in de app op 't apparaat sjtaon. Geer kènt de kopieë wisse zónger de originele te wisse. Back-ups van 't apparaat kónne app-gaeves bevatte. Laes 't <a href=\"/app-privacy/\">privacybeleid van de app</a>, en de <a href=\"/help/\">app-hulp</a> loup edere sjtap mit uuch door.</p>",
+      "disclaimer": "Golden Moments is bedoeld veur ontsjpanning en same kalle. 't Sjtelt gein diagnoses en 't behanjelt, veurkump of maet gein dementie of de ziekte van Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Gratis online sjpelkes bie dementie en Alzheimer",
+    "description": "Gratis online sjpelkes veur awwere mit dementie of Alzheimer: plaetjes combinere, einvouwoeëdige puzzels, sortere, sjpraekwäörd, kleure en bingo. Zónger aanmelle, timers of scores.",
+    "crumb": "Sjpelkes",
+    "h1": "Röstige sjpelkes veur luuj mit dementie",
+    "lede": "{count} gratis sjpelkes óm same te sjpele in eur browser. Groete plaetjes, dudelike wäörd en niks wo geer mit kènt verleze: gein timers, gein scores en gein registratie.",
+    "listName": "Röstige sjpelkes veur luuj mit dementie",
+    "byStageTitle": "E sjpelke keze nao fase",
+    "byStageLede": "Fases zeen allein mer e hölpmiddel. Kiek veural nao wo de persoen plezeer aan haet en wat vandaag prettig veult.",
+    "stageCol": "Fase",
+    "gamesCol": "Sjpelkes die dèks passe",
+    "moreHtml": "Mie ideeë boete 't sjerm: <a href=\"/activities/ideas/\">101 activiteite veur luuj mit dementie</a>, <a href=\"/activities/alzheimers/\">activiteite en sjpelkes bie Alzheimer</a>, <a href=\"/activities/memory-games/\">röstige geheugensjpelkes</a> en <a href=\"/activities/puzzles/\">puzzels</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Mit welk sjpelke kónne veer 't bèste beginne?",
+        "a": "Plaetjespare mit veer tegele is 'n röstige ieëste keus. Es 't keze tösse plaetjes te väöl weurt, prebeer dan 'Zeuk 'tzelvde' mit twieë plaetjes. Veur 'n groep is Plaetjesbingo hiel gesjik."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Wirke de sjpelkes op 'nen iPad of tillefoen?",
+        "a": "Jao. Eder sjpelke wirk in de browser op tillefoons, tablets en computers, en de plaetjes passe zich automatisch aan 't sjerm aan. 'ne Tablet op 'ne sjtander is veur twieë luuj dèks 't gemekkelikste."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Zeen dees sjpelkes gesjik veur emes mit Alzheimer?",
+        "a": "Jao. Ze zeen gemaak veur luuj mit dementie, wo-ónger Alzheimer, de maes veurkómmende vorm. Plaetjes blieve zichbaar, d'r zeen mer e paar keuzes en niks geit op tied of punte. Zo richte de sjpelkes zich op 't herkinne van vertroewde dinger in plaats van 't ónthaje van nuuj dinger."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Zeen dit geheugensjpelkes veur awwere?",
+        "a": "Dit zeen zeuk- en plaetjessjpelkes wo edere awwere van kan genete, mer ze zeen zo opgezat det ze 't geheuge neet teste: bie Plaetjespare blieve de plaetjes gewoen aopelègke, behalve es geer det anges wilt. Ónze gids veur geheugensjpelkes veur awwere mit dementie lègk oet wie geer eder sjpelke röstig en prettig hajt."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Zeen d'r ouch sjpelkes veur groepe in e verzörgingstehoes?",
+        "a": "Jao. Plaetjesbingo haet kaarte die geer kènt oetprinte en 'ne omrooper op 't sjerm. En 'Maak 't sjpraekwaord aaf' en de Gesprekskaarte wirke hiel fijn wen ze aan 'n groep weure veurgelaeze."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad en Android",
+    "requirements": "iOS 15 of nujer; Android 7.0 of nujer",
+    "summary": "'n Gratis app veur iPhone, iPad en Android mit röstig plaetjes combinere op veer toet twelf groete tegele, combinere en bekieke mit zelfgekaoze femiliefoto's, en ach biegevoogde plaetjespakkètte die zónger internet wirke. Gein account, reclame, timer of score.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Röstig plaetjes combinere mit 4, 6, 8 of 12 groete tegele; plaetjes blieve zichbaar, behalve es geer ze wilt verberge",
+      "Zelfgekaoze femiliefoto's weure nao de app gekopieerd óm mit te combinere of same te bekieke",
+      "Same kieke: ei plaetje tegeliek mit optionele vraoge veur e gesprekske",
+      "Ach plaetjespakkètte zitte al bie de app; ze wirke offline",
+      "Gein account, reclame, in-app aankoupe, timer, score of sjtraofpunte"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Besteit d'r 'n app veur activiteite bie dementie?",
+        "a": "Jao. Golden Moments (te vinje es \"{storeName}\") is gratis in de App Store en op Google Play. De app beejt röstig plaetjes combinere mit groete tegele, sjpelkes mit zelfgekaoze femiliefoto's en plaetjespakkètte die offline wirke."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Is de app Golden Moments gratis?",
+        "a": "Jao. De app is gratis te downloade, zónger reclame, account of in-app aankoupe."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Wirk de app zónger internet?",
+        "a": "Jao. De sjtartplaetjes en al ach de plaetjespakkètte zitte al in de app, en femiliefoto's wirke offline zodra ze in de app zeen gekopieerd. Bie 't oetzeuke van 'n foto die allein in iCloud sjteit, kan 'n internetverbinjing nuedig zeen."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Kèn ich óns eige femiliefoto's gebroeke?",
+        "a": "Jao. Kees foto's mit de fotokezer van eur apparaat. De app bewaart kleiner kopieë op 't apparaat veur de activiteite, uploadt ze neet en verangert noets de originele. Geer kint de kopieë op eder memènt ewegdoon."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Is dit 'n app veur hersentraining of 'n geheugentest?",
+        "a": "Nae. Golden Moments is bedoeld veur plezeer en tied same. 't Haet gein punte of teste, en 't deit dementie of de gekrenkde van Alzheimer neet diagnosticere, behanjele, veurkaome of maete."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Op welke apparate wirk 't?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Besteit d'r 'n app-versie van dit spel?",
+      "a": "Jao. De gratis Golden Moments-app veur iPhone, iPad en Android haet 'tzelvde röstige plaetjes combineere, kan zelfgekaoze femiliefoto's gebroeke en wirk offline. Zónger account, reclame of punte."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Besteit d'r 'n app-versie van dit spel?",
+      "a": "Neet van dit spel. De gratis Golden Moments-app veur iPhone, iPad en Android haet röstig plaetjes combineere mit groate tegels en zelfgekaoze femiliefoto's, en wirk offline. Dit spel blif gratis hie in eur browser."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: groate, vrundjelike plaetjes",
+    "noscript": "Dit spel haet JavaScript neudig in eur browser. De tips hie-ónger wirke ouch zónger.",
+    "about": "Euver {name}",
+    "aboutAria": "Euver dit spel",
+    "noTimer": "Geinen timer of punte",
+    "printable": "Aaf te drökke",
+    "howTo": "Wie geer {name} späölt",
+    "tips": "Tips om same te späöle",
+    "newToPlayingHtml": "Späölt geer veur 't iers mit emmes mit dementie? Laes <a href=\"/caregiving/how-to-play-together/\">wie geer same spölkes kint späöle</a>, inclusief wat geer kint doon es de aondach versjlap.",
+    "moreAria": "Mee om te óntdèkke",
+    "helpfulGuides": "Hulprieke gidse",
+    "appTitle": "Späöl 't in de app",
+    "appText": "De gratis Golden Moments-app haet röstig plaetjes combineere mit groate tegels en eige femiliefoto's, en wirk zónger wifi. iPhone, iPad en Android.",
+    "photoAppTitle": "Haj eur foto's klaor",
+    "photoAppText": "In de gratis Golden Moments-app blieve de foto's die geer kees op eur apparaat staon veur de volgende kieër, en de spölkes wirke zónger wifi. iPhone, iPad en Android.",
+    "goodToKnow": "Good om te weite",
+    "goodToKnowText": "Dit spel is veur plezeer en tied same. 't Test, maet of behanjelt niks.",
+    "moreGames": "Mee röstige spölkes",
+    "crumb": "Spölkes"
   }
 }

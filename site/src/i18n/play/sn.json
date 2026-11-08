@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Verengai nezwi",
+      "stopReading": "Mirirai kuverenga",
+      "region": "Mutambo",
+      "restart": "Tangai zvakare",
+      "soundOn": "Mazwi akapfava avhurwa",
+      "soundOff": "Mazwi akapfava adzimwa",
+      "done": "Ngatipedzei panguva ino",
+      "feedbackQuestion": "Izvi zvakakubatsirai nhasi here?",
+      "feedbackYes": "Hongu",
+      "feedbackNo": "Kwete zvakanyanya",
+      "feedbackThanks": "Tatenda kuti mataura nesu."
+    },
+    "tile": {
+      "named": "{name}, chidimbu {n}",
+      "hidden": "Mufananidzo wakavanzwa, chidimbu {n}",
+      "withState": "{label}, {state}",
+      "matched": "Zvakabatanidzwa",
+      "selected": "Yasarudzwa",
+      "picture": "Mufananidzo",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Mapaya ose akabatanidzwa. Tambai zvakare kana kuti muzorore.",
+      "photoPair": "Mifananidzo miviri, pamwechete.",
+      "picturePair": "Mifananidzo miviri ine {name|lower}, pamwechete.",
+      "selected": "{name}. Zvino tsvakai rimwe rakafanana naro.",
+      "mismatch": "Torai nguva yenyu. Tsvodai mufananidzo kuti muenderere.",
+      "mismatchNamed": "{a} ne {b}. Torai nguva yenyu. Tsvodai mufananidzo kuti muenderere."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tsvodai mufananidzo, mozotsvoda imwe inoenderana nawo.",
+      "guidanceHidden": "Tsvodai zvidimbu zviviri kuti zvitendeuke. Tsvakai zviviri zvakafanana.",
+      "restart": "Mifananidzo mitsva",
+      "sizeLegend": "Zvidimbu zvingani",
+      "size": {
+        "one": "{n} chidimbu",
+        "other": "{n} zvidimbu"
+      },
+      "viewLegend": "Nzira yokutamba",
+      "viewShowing": "Mifananidzo yakaratidzwa",
+      "viewHidden": "Mifananidzo yakavanzwa",
+      "playAgain": "Tamba zvakare nemifananidzo mitsva",
+      "talk": "Tauriranai nezvemifananidzo pamwechete"
+    },
+    "choose": {
+      "countLegend": "Mifananidzo mingani",
+      "count": "{n} yokusarudza",
+      "thatOne": "Ndiyo {name|lower} iyoyo. Torai nguva yenyu."
+    },
+    "findTheSame": {
+      "guidance": "Tarisai mufananidzo uri pamusoro. Tsvodai wakafanana uri pasi.",
+      "yes": "Hongu, ndiyo {name|lower} yakafanana.",
+      "next": "Mufananidzo unotevera"
+    },
+    "shadowMatch": {
+      "guidance": "Tarisai mumvuri uri pamusoro. Tsvodai mufananidzo unoita mumvuri uyo.",
+      "yes": "Hongu, ndiyo {name|lower} inoita mumvuri uyo.",
+      "next": "Mumvuri unotevera",
+      "shadowAlt": "Mumvuri wokuenderanisa",
+      "foundAlt": "Mumvuri we {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tsvodai mufananidzo, mozotsvoda dengu rinoenderana nawo.",
+      "restart": "Mifananidzo mitsva",
+      "themeLegend": "Nyaya",
+      "selected": "{name}. Zvino tsvodai dengu rinopinda.",
+      "pickFirst": "Tanga mutsvoda mufananidzo, mozotsvoda dengu.",
+      "hint": "{name|lower} rinogona kuenda mu \"{basket}\". Tsvodai dengu iroro kuti muriise ipapo.",
+      "placed": "{name|lower} riri mu \"{basket}\".",
+      "sorted": "Zvose zvarongwa. Tarirai madengu pamwechete, kana kuti sarudzai nyaya imwe.",
+      "basket": {
+        "one": "Dengu {basket}, mufananidzo {count} mukati",
+        "other": "Madengu {basket}, mifananidzo {count} mukati"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tsvodai chidimbu chimwe, wozotsvoda chimwe. Zvinotsinhana nzvimbo.",
+      "restart": "Sanganisai zvakare",
+      "pictureLegend": "Mufananidzo",
+      "pictures": {
+        "sailboat": "Ngarava",
+        "house": "Imba",
+        "balloon": "Bhaluni",
+        "sunflower": "Muzuva",
+        "lighthouse": "Mwenje wegungwa",
+        "cat": "Katsi"
+      },
+      "sizeLegend": "Zvidimbu",
+      "size": {
+        "one": "{n} chidimbu",
+        "other": "{n} zvidimbu"
+      },
+      "pickedUp": "Chidimbu chatorwa. Zvino tsvodai panofanira kuenda.",
+      "whole": "{name|lower} yazara zvakare. Sarudzai mumwe mufananidzo kana muchida.",
+      "swapped": {
+        "one": "Zvachinjwa nzvimbo. {correct} ye{total} chidimbu chiri panzvimbo yacho.",
+        "other": "Zvachinjwa nzvimbo. {correct} ye{total} zvidimbu zviri panzvimbo dzazvo."
+      },
+      "guideAlt": "Mufananidzo wose: {name}",
+      "guideText": "Izvi ndizvo zvinoita mufananidzo wakazara.",
+      "piece": "Chidimbu chiri {place}",
+      "pieceInPlace": ", chiri panzvimbo yacho",
+      "piecePickedUp": ", chatorwa",
+      "places4": [
+        "kumusoro kuruboshwe",
+        "kumusoro kurudyi",
+        "pasi kuruboshwe",
+        "pasi kurudyi"
+      ],
+      "places9": [
+        "kumusoro kuruboshwe",
+        "kumusoro pakati",
+        "kumusoro kurudyi",
+        "pakati kuruboshwe",
+        "pakatikati",
+        "pakati kurudyi",
+        "pasi kuruboshwe",
+        "pasi pakati",
+        "pasi kurudyi"
+      ],
+      "done": "Mufananidzo wazara zvakare. Tambai zvakare kana kuti muzorore.",
+      "playAgain": "Sanganisai zvakare"
+    },
+    "finishTheSaying": {
+      "guidance": "Verengai tsumo pamwechete, wozotsvoda shoko rinoipedzisa.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Hongu, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" zvinobatawo zvakare. Tsumo yacho inowanzopera ne\"{end}\".",
+      "revealed": "Tsumo ndeyokuti \"{start} {end}.\"",
+      "choicesLabel": "Sarudzai shoko rekupedzisira",
+      "show": "Ratidzai mugumisiro",
+      "talk": "Tauriranai nazvo: ",
+      "next": "Tsumo inotevera"
+    },
+    "wordSearch": {
+      "guidance": "Mashoko anoenda kumativi kana pasi. Tsvodai tsamba yekutanga reshoko, wozotsvoda tsamba yekupedzisira.",
+      "restart": "Puzzle itsva",
+      "themeLegend": "Nyaya",
+      "sizeLegend": "Hukuru hwegridhi",
+      "size": {
+        "one": "{n} x {n} ({words} shoko)",
+        "other": "{n} x {n} ({words} mashoko)"
+      },
+      "print": "Dhinda puzzle iyi",
+      "letterChosen": "Tsamba {letter} yasarudzwa. Zvino tsvodai tsamba yekupedzisira yeshoko.",
+      "found": "{word} yawanikwa.",
+      "foundAll": "{word} yawanikwa. Ndiyo mashoko ose. Tambai zvakare kana kuti muzorore.",
+      "tryAgain": "Torai nguva yenyu. Tsvodai tsamba yekutanga reshoko, wozotsvoda yekupedzisira.",
+      "gridLabel": "Gridhi yetsamba, mitsara {n} ine tsamba {n} muimwe. Shandisai miseve yekumwe kwekumwe kuchifamba pakati petsamba.",
+      "cell": "{letter}, mutsara {row}, kholamu {col}",
+      "cellFound": ", chikamu chershoko rawanikwa",
+      "wordsHeading": "Mashoko ekutsvaka",
+      "wordFound": " (yawanikwa)",
+      "sheetTitle": "Kutsvaka mashoko: {theme}",
+      "sheetNote": "Mashoko anoenda kumativi kana pasi.",
+      "unavailable": "Gridhi yetsamba haikodzeri mutauro uyu, saka kutsvaka mashoko hakuna pano. Edzai mitambo yemifananidzo."
+    },
+    "coloring": {
+      "guidance": "Tsvodai ruvara, wozotsvoda chikamu chemufananidzo.",
+      "restart": "Bvisai mavara",
+      "cleared": "Peji rakachena zvakare.",
+      "pageLegend": "Peji",
+      "print": "Dhinda peji iyi",
+      "colorsLabel": "Mavara",
+      "paintChosen": "{paint} yasarudzwa.",
+      "painted": "{part} ibva yava {paint|lower}.",
+      "artLabel": "{page}, zvikamu {count} zvekupenda",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, hazvina kupenda",
+      "paints": {
+        "red": "Dzvuku",
+        "orange": "Orenji",
+        "yellow": "Yero",
+        "green": "Girinhi",
+        "blue": "Bhuruu",
+        "purple": "Pepuru",
+        "pink": "Pingi",
+        "brown": "Bhurauni",
+        "sky-blue": "Bhuruu rekudenga",
+        "cream": "Chena yero",
+        "gray": "Girei",
+        "white": "Chena"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Verengai kadhi nenzwi rakanaka. Hapana mhinduro dzakarurama.",
+      "position": "Kadhi {n} kubva pa{total}",
+      "themeLegend": "Nyaya",
+      "next": "Kadhi rinotevera",
+      "previous": "Kadhi rakapfuura",
+      "print": "Dhinda makadhi ese",
+      "sheetTitle": "Makadhi ekutaurirana"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Tanga musarudza mifananidzo yenyu.",
+      "guidance": "Tsvodai foto, wozotsvoda imwe inoenderana nayo.",
+      "restart": "Sanganisai zvakare",
+      "intro": "**Sarudzai mifananidzo 2 kusvika ku6** kubva pachishandiso ichi. Inongoratidzwa peji iyi chete, uye haizotumirwi kana kuchengetwa.",
+      "choose": "Sarudzai mifananidzo",
+      "chooseDifferent": "Sarudzai mifananidzo yakasiyana",
+      "clear": "Bvisai mifananidzo",
+      "cleared": "Mifananidzo yabviswa peji iyi.",
+      "atLeastTwo": "Ndapota sarudzai mifananidzo miviri kana kupfuura.",
+      "usingFirst": "Tichishandisa mifananidzo {max} yekutanga.",
+      "skipped": {
+        "one": "Faira {count} haisi foto tingaratidza.",
+        "other": "Mafaira {count} haasi mifananidzo tingaratidza."
+      },
+      "playAgain": "Tamba zvakare nemifananidzo iyi",
+      "empty": "Mifananidzo yenyu ichaonekwa pano, imwe neimwe kaviri."
+    },
+    "pictureBingo": {
+      "guidance": "Dhindai makadhi kutanga. Wozoratidza uyu pa skrini hombe yaunayo.",
+      "called": {
+        "one": "{name}. {called} kubva pa{total} mufananidzo wadanwa.",
+        "other": "{name}. {called} kubva pa{total} mifananidzo yadanwa."
+      },
+      "start": "Tsvodai \"Mufananidzo unotevera\" kuti mudane mufananidzo wekutanga.",
+      "restart": "Tangai mutambo mutsva",
+      "squaresLegend": "Masikweya pakadhi imwe neimwe",
+      "squares": "{n} masikweya ({side} x {side})",
+      "cardsLegend": "Makadhi mangani ekudhinda",
+      "cards": {
+        "one": "{n} kadhi",
+        "other": "{n} makadhi"
+      },
+      "print": {
+        "one": "Dhinda kadhi {n} rebingo",
+        "other": "Dhinda makadhi {n} ebingo"
+      },
+      "ready": "Takagadzirira kana muri pachena",
+      "next": "Mufananidzo unotevera",
+      "allCalled": "Mifananidzo yose yadanwa",
+      "alreadyCalled": "Yadanwa kare",
+      "sheetTitle": "Bingo yemifananidzo · kadhi {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Fema mukati pamusoro pedenderedzwa rinenge richikura, uye bvisa mhepo pariri kudzika. Rinomira ega mushure memafemo matanhatu.",
+      "paceLegend": "Kumhanya",
+      "paceSlow": "Zvinonyorova (masekonzi mashanu imwe neimwe)",
+      "paceGentle": "Zvinyoro (masekonzi mana imwe neimwe)",
+      "ready": "Takagadzirira kana muchida",
+      "in": "Fema mukati",
+      "hold": "Mira",
+      "out": "Bvisa mhepo",
+      "start": "Tanga",
+      "stop": "Gumisa",
+      "started": "Tangwa. Fema mukati pamene denderedzwa rinenge richikura.",
+      "stopped": "Gumiswa.",
+      "finished": "Ndiwo mafemo matanhatu akanyorova. Tanga zvakare kana muchida."
+    }
+  },
+  "pictures": {
+    "teacup": "Kapu yetii",
+    "kettle": "Kiteri",
+    "bread": "Chingwa",
+    "frying-pan": "Pani ine zai",
+    "cake": "Keke yekuzvarwa",
+    "sunflower": "Duwa rezuva",
+    "tulip": "Tulip itsvuku",
+    "watering-can": "Kani yokudiririra",
+    "potted-plant": "Muti mumudziyo",
+    "tree": "Muti",
+    "bird": "Shiri pamuti",
+    "butterfly": "Bhatafura",
+    "dog": "Imbwa",
+    "cat": "Katsi",
+    "fish": "Hove yegoridhe",
+    "apple": "Apuro itsvuku",
+    "pear": "Peari",
+    "strawberry": "Sitiroberi",
+    "banana": "Banana",
+    "lemon": "Lemoni",
+    "cherries": "Cheri",
+    "house": "Imba",
+    "lamp": "Lambu yetafura",
+    "armchair": "Chigaro chine maoko",
+    "key": "Kiyi yekare",
+    "umbrella": "Humbwende",
+    "sailboat": "Bhoti yemhepo",
+    "car": "Motokari yekare",
+    "bicycle": "Baisikoro",
+    "balloon": "Bhaluni rinopisa",
+    "lighthouse": "Mwenje wegungwa",
+    "sun": "Zuva",
+    "moon": "Mwedzi nenyeredzi",
+    "teapot": "Tepoti",
+    "apple-pie": "Pai yeapuro",
+    "honey-jar": "Tanga yeuchi",
+    "boiled-egg": "Zai mukapu",
+    "toaster": "Tositi",
+    "cheese": "Chidimbu chechizi",
+    "milk-jug": "Jagi yemukaka",
+    "cupcake": "Keke diki",
+    "orange": "Orenji",
+    "grapes": "Bunji remazambiro",
+    "watermelon": "Chidimbu chewatermero",
+    "pineapple": "Pinapo",
+    "peach": "Pichi",
+    "rose": "Rozi",
+    "daisies": "Madhaisi",
+    "mushroom": "Howa",
+    "wheelbarrow": "Chitoro",
+    "birdhouse": "Imba yeshiri",
+    "cactus": "Kaketasi mumudziyo",
+    "acorn": "Muchero weoki",
+    "autumn-leaf": "Shizha rekwasva",
+    "rabbit": "Sungura",
+    "duck": "Dhadha",
+    "hen": "Huku",
+    "sheep": "Gwai",
+    "owl": "Mhou",
+    "ladybird": "Ladibhadhi",
+    "snail": "Nzeve",
+    "frog": "Chura",
+    "bee": "Nyuchi",
+    "clock": "Wachi yepamantera",
+    "vase-of-flowers": "Vazi rine maruva",
+    "radio": "Redhiyo yekare",
+    "books": "Mabhuku akaunganidzwa",
+    "candle": "Kendo",
+    "glasses": "Magirazi ekuverenga",
+    "telephone": "Foni",
+    "ball-of-wool": "Bhora rejira",
+    "straw-hat": "Hati yezuva",
+    "train": "Sitima yemhepo",
+    "bus": "Bhazi",
+    "airplane": "Ndege",
+    "suitcase": "Sutikesi",
+    "tractor": "Trekta",
+    "rowing-boat": "Bhoti rechipadiro",
+    "rainbow": "Mhenderekedzo",
+    "rain-cloud": "Gore remvura",
+    "snowflake": "Chando",
+    "kite": "Kaiti",
+    "sunrise": "Zuva rinobuda pamakomo"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Michero",
+          "words": [
+            "MAPERA",
+            "MANGO",
+            "PICHI",
+            "PEARI",
+            "BANANA",
+            "PAPAYA",
+            "CHERI",
+            "LEMONI",
+            "PINAPO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Munda",
+          "words": [
+            "RUVA",
+            "MBEU",
+            "IVHU",
+            "MUTI",
+            "DAISI",
+            "MUNDA",
+            "NYUCHI",
+            "DUWA",
+            "BOKA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kicheni",
+          "words": [
+            "KAPU",
+            "SPUNI",
+            "HARI",
+            "NDIRO",
+            "MBIYA",
+            "TII",
+            "OVENI",
+            "FORKI",
+            "BANGA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Mamiriro ekunze",
+          "words": [
+            "MVURA",
+            "MHEPO",
+            "AYISI",
+            "MOTO",
+            "DENGA",
+            "CHANDO",
+            "MHUTE",
+            "DUTU",
+            "RIMA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Mhuka",
+          "words": [
+            "IMBWA",
+            "KATSI",
+            "SHIRI",
+            "HOVE",
+            "HOSI",
+            "MOMBE",
+            "DHADHA",
+            "NYATI",
+            "HUKU"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Musha",
+          "words": [
+            "MUSUO",
+            "STULI",
+            "LAMBU",
+            "BHEDHA",
+            "KAPETI",
+            "SOFA",
+            "WACHI",
+            "DESIKI",
+            "KIYI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Makadhi ose",
+        "food": "Zvekudya",
+        "home": "Musha",
+        "outdoors": "Kunze",
+        "animals": "Mhuka",
+        "travel": "Kufamba",
+        "work": "Basa nezvaunoda",
+        "music": "Mimhanzi nemafaro",
+        "seasons": "Nguva dzegore"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ndeipi kunhuwa kwamunofarira kubva kukicheni?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Mungasarudza keke ipi kana muri kupemberera?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ndiudzei nezvepai kana chikafu chitsva chemichero chamunofarira."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Munofarira tii kana kofi yenyu sei?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Chii chinoita kuti mangwanani anake zvakanyanya?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Makambonyatsotora michero zvakananga kubva pamuti here?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Inotapira kana inovava: ipi yamunofarira zvakanyanya?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ndechipi chikafu chinonaka sezhizha kwamuri?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ndiudzei nezvemba yamakanga mafarira kugara."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ndiko kupi kwamunofarira kugara muchizorora?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Munoitei manheru akanyarara?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Chii chamungachengeta mubhokisi rakakosha?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ndianiko wamungade kudana kuzonwa tii?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Munoitei mazuva emvura?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ndimaruva ipi amungadyara mumunda?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ndiudzei nezvemuti kana paki yamunofarira."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Chii chinonakisa zvakanyanya pakugara mumunda?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Ndimaruva emavara ipi amunofarira zvakanyanya?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Munofarira kuva nemiti mumba?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Zuva rakanaka rizere nezuva rinoita sei kwamuri?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ndiudzei nezveimbwa yamakambozviziva."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katsi kana imbwa, kana zvose hazviite? Munofarira chii pamusoro pavo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Shiri dzipi dzamunoona kana kuzwa kunze?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Makambofamba kuseka hove here, kana makambochengeta hove mumudziyo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ndimhuka ipi yakanaka kwazvo yamakambotarira?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ndiudzei nezvemotokari yamakafarira."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Mungada here kupedza zuva mugungwa kana mumakomo?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Munoda kuenda kupi nebhasikoro?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Kana mungakwanisa kubhururuka pamusoro penzvimbo ipi chete, ingava ipi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ndirwendo ripi rwamakafarira?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Ndibasa ripi ramakafarira kuita?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ndihobi ipi yamungagara muchiita maawa akawanda?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Chii chamakanga muchiziviwa nacho kugadzira kana kugadzirisa?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Mungapa zano ripi kumudiki anotanga basa?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Mimhanzi ipi inokuita kuti mugwedezere tsoka?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Chii chinoita kuti pati ive yakanaka zvakanyanya?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Munoda kunzwa muimbi ipi?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ndefirimu ipi kana shoo yepaTV yamunoda kuona zvakare?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Chii chamunofarira zvakanyanya nezhizha?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Chii chamunofarira nezvekudonha kwemashizha?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Chii chinonyaradza chamunoita manheru echando?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Zviratidzo zvekutanga zvegutsa zvinoonekwa sei kwamuri?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Chando, mvura, kana zuva: ipi yamunofarira?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Ruva remumudziyo",
+          "regions": {
+            "sky": "Denga",
+            "table": "Tafura",
+            "stem": "Tsinga",
+            "leaf-left": "Shizha rekuruboshwe",
+            "leaf-right": "Shizha rekurudyi",
+            "petal-1": "Petara 1",
+            "petal-2": "Petara 2",
+            "petal-3": "Petara 3",
+            "petal-4": "Petara 4",
+            "petal-5": "Petara 5",
+            "petal-6": "Petara 6",
+            "petal-7": "Petara 7",
+            "petal-8": "Petara 8",
+            "center": "Pakati peruva",
+            "pot": "Mudziyo",
+            "pot-rim": "Mupendero wemudziyo"
+          }
+        },
+        "house": {
+          "name": "Imba",
+          "regions": {
+            "sky": "Denga",
+            "sun": "Zuva",
+            "grass": "Uswa",
+            "chimney": "Chimini",
+            "walls": "Madziro",
+            "roof": "Padenga",
+            "door": "Musuo",
+            "window-left": "Hwindo rekuruboshwe",
+            "window-right": "Hwindo rekurudyi",
+            "path": "Nzira"
+          }
+        },
+        "teacup": {
+          "name": "Kapu yetii",
+          "regions": {
+            "background": "Kumashure",
+            "saucer": "Dhishi",
+            "handle": "Mubato",
+            "cup": "Kapu",
+            "band": "Mutsara pakapu",
+            "tea": "Tii"
+          }
+        },
+        "butterfly": {
+          "name": "Bhatafura",
+          "regions": {
+            "background": "Kumashure",
+            "wing-top-left": "Bapiro rekumusoro kuruboshwe",
+            "wing-top-right": "Bapiro rekumusoro kurudyi",
+            "wing-bottom-left": "Bapiro repasi kuruboshwe",
+            "wing-bottom-right": "Bapiro repasi kurudyi",
+            "spot-left": "Chimbo chekuruboshwe",
+            "spot-right": "Chimbo chekurudyi",
+            "body": "Muviri"
+          }
+        },
+        "sailboat": {
+          "name": "Bhoti yemhepo",
+          "regions": {
+            "sky": "Denga",
+            "sea": "Gungwa",
+            "sail-big": "Sheri hombe",
+            "sail-small": "Sheri diki",
+            "mast": "Muti webhoti",
+            "hull": "Bhoti",
+            "flag": "Bendera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kicheni nemunda",
+          "baskets": [
+            "Mukicheni",
+            "Mugadheni"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Michero nemhuka",
+          "baskets": [
+            "Michero",
+            "Mhuka"
+          ]
+        },
+        "home-travel": {
+          "label": "Kumba nekufamba",
+          "baskets": [
+            "Kumba",
+            "Kunze uye kufamba"
+          ]
+        }
+      }
+    }
+  }
+}

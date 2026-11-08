@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "ຂ້າມໄປຫາເນື້ອຫາຫຼັກ",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "ກິດຈະກຳສຳລັບຜູ້ມີພາວະສະໝອງເສື່ອມ",
+    "homeLabel": "ໜ້າຫຼັກ Golden Moments",
+    "mainNav": "ເມນູຫຼັກ",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "ພາສາລາວ",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: ຮູບພາບຂະໜາດໃຫຍ່ທີ່ເບິ່ງສະບາຍຕາ ເປັນຮູບຈອກນ້ຳຊາ ດອກຕາເວັນ ແລະ ໝາ",
+    "languages": "ພາສາ",
+    "englishOnly": "(ພາສາອັງກິດ)",
+    "machineTranslated": "ໜ້ານີ້ໄດ້ຮັບການແປໂດຍລະບົບອັດຕະໂນມັດ ແລະ ຍັງບໍ່ທັນໄດ້ຜ່ານການກວດສອບໂດຍເຈົ້າຂອງພາສາເທື່ອ.",
+    "readOriginal": "ອ່ານຕົ້ນສະບັບເປັນພາສາອັງກິດ",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "ເກມ",
+      "activities": "ກິດຈະກຳ",
+      "caregiving": "ການເບິ່ງແຍງ",
+      "brainHealth": "ສຸຂະພາບສະໝອງ"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "ຄຳຖາມ ແລະ ຄຳຕອບ",
+    "breadcrumb": "ເສັ້ນທາງການທ່ອງເວັບ",
+    "home": "ໜ້າຫຼັກ",
+    "lastUpdated": "ອັບເດດຫຼ້າສຸດ",
+    "topics": "ຫົວຂໍ້",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "ຂະໜາດໂຕໜັງສື",
+      "smaller": "ໂຕໜັງສືຂະໜາດມາດຕະຖານ",
+      "larger": "ໂຕໜັງສືຂະໜາດໃຫຍ່ຂຶ້ນ",
+      "contrast": "ຄວາມຄົມຊັດສູງຂຶ້ນ"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
+    "play": "ຫຼິ້ນເກມ",
+    "picturePairs": "ຈັບຄູ່ຮູບພາບ",
+    "conversationCards": "ບັດສົນທະນາ",
+    "pictureBingo": "ບິງໂກຮູບພາບ",
+    "allGames": "ເກມທັງໝົດ",
+    "pictures": "ຮູບພາບສຳລັບພິມ",
+    "activityIdeas": "ແນວຄວາມຄິດກິດຈະກຳ",
+    "ideas101": "101 ແນວຄວາມຄິດກິດຈະກຳ",
+    "lateStage": "ກິດຈະກຳສຳລັບໄລຍະທ້າຍ",
+    "printable": "ກິດຈະກຳທີ່ສາມາດພິມອອກໄດ້",
+    "allActivities": "ກິດຈະກຳທັງໝົດ",
+    "forCaregivers": "ສຳລັບຜູ້ເບິ່ງແຍງ",
+    "playTogether": "ວິທີຫຼິ້ນນຳກັນ",
+    "selfCare": "ການເບິ່ງແຍງຕົນເອງ",
+    "brainHealth": "ງານວິໄຈກ່ຽວກັບສຸຂະພາບສະໝອງ",
+    "faq": "ຄຳຖາມ ແລະ ຄຳຕອບ",
+    "about": "ກ່ຽວກັບພວກເຮົາ",
+    "approach": "ແນວທາງຂອງພວກເຮົາ",
+    "howWeWrite": "ຫຼັກການຂຽນເນື້ອຫາຂອງພວກເຮົາ",
+    "organizations": "ສຳລັບອົງກອນ",
+    "app": "ແອັບ Golden Moments",
+    "appHelp": "ວິທີການນຳໃຊ້ແອັບ",
+    "support": "ສູນຊ່ວຍເຫຼືອ",
+    "legal": "ຂໍ້ກຳນົດທາງກົດໝາຍ",
+    "sitePrivacy": "ຄວາມເປັນສ່ວນຕົວຂອງເວັບໄຊ",
+    "appPrivacy": "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງແອັບ",
+    "privacyChoices": "ຕົວເລືອກຄວາມເປັນສ່ວນຕົວ",
+    "terms": "ຂໍ້ກຳນົດ ແລະ ໃບອະນຸຍາດການໃຊ້ແອັບ",
+    "safety": "ຄວາມປອດໄພ ແລະ ຈຸດປະສົງການນຳໃຊ້",
+    "accessibility": "ການເຂົ້າເຖິງສຳລັບທຸກຄົນ",
+    "healthNotice": "ຂໍ້ແຈ້ງເຕືອນກ່ຽວກັບຂໍ້ມູນສຸຂະພາບ",
+    "allLegal": "ຂໍ້ມູນທາງກົດໝາຍທັງໝົດ",
+    "note": "Golden Moments ນຳສະເໜີກິດຈະກຳງ່າຍໆເພື່ອຄວາມເພີດເພີນຮ່ວມກັນ. ເວັບໄຊນີ້ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ ການກວດ ຫຼື ການປິ່ນປົວ ແລະ ບໍ່ໄດ້ມີໄວ້ເພື່ອບົ່ງມະຕິ ວັດຜົນ ຫຼື ໃຫ້ຄະແນນຜູ້ໃດເລີຍ. ຫາກມີຂໍ້ສົງໄສກ່ຽວກັບສຸຂະພາບ ກະລຸນາປຶກສາທ່ານໝໍ. ໃນກໍລະນີສຸກເສີນ ກະລຸນາໂທ 1195.",
     "publisher": "Published by Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "ເກມ ແລະ ກິດຈະກຳສຳລັບຜູ້ມີພາວະສະໝອງເສື່ອມ ແລະ ອາລໄຊເມີ | Golden Moments",
+    "description": "ເກມຮູບພາບທີ່ອ່ອນໂຍນ ແລະ ຫຼິ້ນໄດ້ຟຣີຜ່ານອອນລາຍ ພ້ອມແນວຄວາມຄິດກິດຈະກຳສຳລັບຜູ້ມີພາວະສະໝອງເສື່ອມ ຫຼື ອາລໄຊເມີ ແລະ ຜູ້ເບິ່ງແຍງ. ບໍ່ຕ້ອງລົງທະບຽນ ບໍ່ມີການຈັບເວລາ ແລະ ບໍ່ມີການນັບຄະແນນ.",
+    "eyebrow": "ຟຣີ · ບໍ່ມີໂຄສະນາ · ບໍ່ຕ້ອງລົງທະບຽນ · ບໍ່ມີການຈັບເວລາ ຫຼື ໃຫ້ຄະແນນ",
+    "h1": "ເກມ ແລະ ກິດຈະກຳທີ່ອ່ອນໂຍນ ສຳລັບຜູ້ມີພາວະສະໝອງເສື່ອມ",
+    "lede": "ເກມຮູບພາບທີ່ລຽບງ່າຍ ຮູບຖ່າຍທີ່ຄຸ້ນເຄີຍ ແລະ ກິດຈະກຳເພື່ອຄວາມເພີດເພີນຮ່ວມກັນ—ຕາມຈັງຫວະທີ່ສະບາຍໃຈຂອງທ່ານ.",
+    "playGame": "ເລີ່ມຫຼິ້ນເກມ",
+    "findIdeas": "ຄົ້ນຫາແນວຄວາມຄິດກິດຈະກຳ",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "ໃຊ້ງານໄດ້ທັງໃນໂທລະສັບ ແທັບເລັດ ແລະ ຄອມພິວເຕີ",
+      "ຮູບພາບຂະໜາດໃຫຍ່ທີ່ສະແດງຄ້າງໄວ້ ບໍ່ຫາຍໄປໃສ",
+      "ຢຸດຫຼິ້ນເມື່ອໃດກໍໄດ້ ບໍ່ມີຄຳວ່າຫຼິ້ນເສຍ"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "ພ້ອມທັງມີແອັບຟຣີສຳລັບ iPhone, iPad ແລະ Android ທີ່ສາມາດນຳໃຊ້ຮູບຖ່າຍຄອບຄົວຂອງທ່ານເອງໄດ້",
+    "albumNote": "“ຮູບຈອກນ້ຳຊາສອງໃບ ຄືກັນເລີຍ.”",
+    "gamesEyebrow": "ຫຼິ້ນຜ່ານບຣາວເຊີຂອງທ່ານ",
+    "gamesTitle": "ເກມທີ່ທ່ານສາມາດເລີ່ມຫຼິ້ນໄດ້ທັນທີ",
+    "gamesLede": "ແຕ່ລະເກມມີຄວາມສະຫງົບ ເໝາະສຳລັບຜູ້ໃຫຍ່ ແລະ ເລີ່ມຫຼິ້ນໄດ້ງ່າຍ. ພຽງແຕ່ເລືອກເກມ ນັ່ງຄຽງຂ້າງກັນ ແລ້ວຜັດປ່ຽນກັນກົດເທິງໜ້າຈໍ.",
+    "seeAllGames": "ເບິ່ງເກມທັງໝົດ {count} ເກມ",
+    "howTitle": "ວິທີການຫຼິ້ນ",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "ເລືອກສິ່ງທີ່ຄຸ້ນເຄີຍ",
+        "text": "ຮູບພາບຈອກນ້ຳຊາ ສວນດອກໄມ້ ສັດລ້ຽງ ແລະ ເຮືອໃບ. ບໍ່ຕ້ອງອ່ານໜັງສື ຫຼື ຮຽນຮູ້ກະຕິກາລ່ວງໜ້າ."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "ນັ່ງຄຽງຂ້າງກັນ",
+        "text": "ໃຫ້ເພິ່ນໄດ້ກົດເອງ. ສົນທະນາກ່ຽວກັບຮູບພາບເຫຼົ່ານັ້ນ. ຖ້າເລືອກບໍ່ກົງກັນ ຮູບກໍພຽງແຕ່ລໍຖ້າການກົດຄັ້ງຕໍ່ໄປ."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "ຢຸດພັກໃນຂະນະທີ່ຍັງຮູ້ສຶກດີ",
+        "text": "ການຫຼິ້ນພຽງຮອບດຽວກໍຖືເປັນກິດຈະກຳທີ່ສົມບູນແລ້ວ. ປຸ່ມ “ພໍເທົ່ານີ້ກ່ອນ” ຈະສະແດງຢູ່ໜ້າຈໍສະເໝີ."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "ກິດຈະກຳນອກໜ້າຈໍ",
+    "stageTitle": "ແນວຄວາມຄິດກິດຈະກຳສຳລັບແຕ່ລະໄລຍະ",
+    "stageLede": "ສຽງເພງ ວຽກປະຈຳວັນງ່າຍໆ ການເລົ່າເລື່ອງຄວາມຫຼັງ ແລະ ຊ່ວງເວລາຜ່ອນຄາຍຜ່ານຜັດສະພິເສດ ທີ່ປັບໃຫ້ເຂົ້າກັບຄວາມສະບາຍໃຈໃນປັດຈຸບັນ.",
+    "ideas101": "101 ແນວຄວາມຄິດກິດຈະກຳ",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "ໄລຍະເລີ່ມຕົ້ນ",
+        "text": "ສືບຕໍ່ເຮັດສິ່ງທີ່ເພິ່ນມັກ ໂດຍປັບປ່ຽນພຽງເລັກນ້ອຍ: ວຽກອະດິເລກ ການອອກໄປທ່ຽວນອກບ້ານ ເກມຄຳສັບ ແລະ ການວາງແຜນຮ່ວມກັນ.",
+        "label": "ແນວຄວາມຄິດສຳລັບໄລຍະເລີ່ມຕົ້ນ"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "ໄລຍະກາງ",
+        "text": "ກິດຈະກຳທີ່ຄຸ້ນເຄີຍ ແລະ ບໍ່ຊັບຊ້ອນ ໂດຍແບ່ງເປັນຂັ້ນຕອນງ່າຍໆ: ການພັບຜ້າ ການແຍກສິ່ງຂອງ ສຽງດົນຕີ ເກມຮູບພາບ ແລະ ການຍ່າງຫຼິ້ນໄລຍະສັ້ນໆ.",
+        "label": "ແນວຄວາມຄິດສຳລັບໄລຍະກາງ"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "ໄລຍະທ້າຍ",
+        "text": "ຄວາມສະບາຍໃຈ ແລະ ຄວາມຜູກພັນຜ່ານການສຳຜັດ ສຽງ ແລະ ສາຍຕາ: ການນວດມື ເພງທີ່ມັກ ຮູບຖ່າຍເກົ່າໆ ແລະ ການຢູ່ຄຽງຂ້າງກັນ.",
+        "label": "ແນວຄວາມຄິດສຳລັບໄລຍະທ້າຍ"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "ກຳລັງຊອກຫາສິ່ງທີ່ສະເພາະເຈາະຈົງຢູ່ບໍ? ລອງເບິ່ງ <a href=\"/activities/alzheimers/\">ກິດຈະກຳ ແລະ ເກມສຳລັບອາລໄຊເມີ</a>, <a href=\"/activities/memory-games/\">ເກມຄວາມຈຳທີ່ອ່ອນໂຍນ</a>, <a href=\"/activities/trivia/\">ຄຳຖາມທວາຍງ່າຍໆ</a> ຫຼື <a href=\"/activities/puzzles/\">ເກມປິດສະໜາ</a>.",
+    "approachEyebrow": "ແນວທາງຂອງພວກເຮົາ",
+    "approachTitle": "ກິດຈະກຳຮ່ວມກັນ ບໍ່ແມ່ນການທົດສອບຄວາມຈຳ",
+    "approachLede": "“ເກມຝຶກສະໝອງ” ຈຳນວນຫຼາຍເນັ້ນໃສ່ຄວາມໄວ ຄະແນນ ແລະ ການຊະນະຢ່າງຕໍ່ເນື່ອງ. ສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ ສິ່ງເຫຼົ່ານັ້ນອາດໃຫ້ຄວາມຮູ້ສຶກຄືກັບການສອບເສັງ. ພວກເຮົາຈຶ່ງສ້າງສິ່ງທີ່ແຕກຕ່າງອອກໄປ.",
+    "approachLink": "ເຫດຜົນທີ່ພວກເຮົາອອກແບບໃນຮູບແບບນີ້",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "ບໍ່ມີຄຳວ່າຫຼິ້ນເສຍ",
+        "text": "ບໍ່ມີໂມງຈັບເວລາ ບໍ່ມີຄະແນນ ບໍ່ມີການນັບຊີວິດ ແລະ ບໍ່ມີການເສຍໄຊ. ການເລືອກຮູບທີ່ຕ່າງກັນເປັນພຽງການຢຸດພັກຊົ່ວຄາວ ບໍ່ແມ່ນຄວາມຜິດພາດ."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "ຮູບພາບສະແດງຄ້າງໄວ້ສະເໝີ",
+        "text": "ເນັ້ນການຈື່ໄດ້ເມື່ອເຫັນ ຫຼາຍກວ່າການຕ້ອງນຶກໃຫ້ອອກ. ຮູບຈະຫງາຍຂຶ້ນຕັ້ງແຕ່ເລີ່ມຕົ້ນ ຈຶ່ງບໍ່ມີສິ່ງໃດທີ່ຕ້ອງພະຍາຍາມຈື່."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "ເໝາະສຳລັບຜູ້ໃຫຍ່ ແລະ ໃຫ້ກຽດ",
+        "text": "ໃຊ້ພາສາທີ່ອົບອຸ່ນ ສຸພາບ ແລະ ຮູບພາບຈາກຊີວິດຈິງ. ບໍ່ມີພາບກາຕູນເດັກນ້ອຍ ຫຼື ຄຳເວົ້າແບບເດັກນ້ອຍ."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "ເນັ້ນຄວາມເປັນສ່ວນຕົວຕັ້ງແຕ່ເລີ່ມຕົ້ນ",
+        "text": "ບໍ່ຕ້ອງມີບັນຊີຜູ້ໃຊ້ ແລະ ບໍ່ມີໂຄສະນາ. ຮູບຖ່າຍຂອງທ່ານຈະບໍ່ອອກໄປຈາກອຸປະກອນຂອງທ່ານຢ່າງເດັດຂາດ."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "ສຳລັບຜູ້ເບິ່ງແຍງ",
+    "guidesTitle": "ຄຳແນະນຳທີ່ນຳໃຊ້ໄດ້ຈິງສຳລັບການເບິ່ງແຍງໃນແຕ່ລະວັນ",
+    "allCaregiving": "ຄູ່ມືການເບິ່ງແຍງທັງໝົດ",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "ວິທີຫຼິ້ນເກມນຳກັນ",
+        "text": "ການຈັດຕຽມ ຈັງຫວະການຫຼິ້ນ ແລະ ສິ່ງທີ່ຄວນເຮັດເມື່ອເກມເລີ່ມບໍ່ໜ້າມ່ວນ."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "ເມື່ອເພິ່ນປະຕິເສດບໍ່ຢາກຮ່ວມກິດຈະກຳ",
+        "text": "ສາເຫດທົ່ວໄປຂອງການປະຕິເສດ ແລະ ວິທີທີ່ອ່ອນໂຍນໃນການຊວນຫຼິ້ນໃໝ່ໃນພາຍຫຼັງ."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "ການຕັ້ງຄ່າແທັບເລັດ",
+        "text": "ປັບໂຕໜັງສືໃຫ້ໃຫຍ່ຂຶ້ນ ຫຼຸດການລົບກວນ ແລະ ຈັດໜ້າຈໍຫຼັກໃຫ້ຮຽບງ່າຍ."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "ກິດຈະກຳທີ່ພິມອອກມານຳໃຊ້ໄດ້ຟຣີ",
+        "text": "ເກມຊອກຫາຄຳສັບໂຕໜັງສືໃຫຍ່ ໜ້າຮູບພາບສຳລັບລະບາຍສີ ບິງໂກ ແລະ ບັດສົນທະນາ."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "ສຸຂະພາບສະໝອງ: ສິ່ງທີ່ງານວິໄຈບອກໄວ້ແທ້ໆ",
+    "researchText": "ພາວະສະໝອງເສື່ອມສາມາດປ້ອງກັນໄດ້ແທ້ບໍ? ເກມຝຶກສະໝອງຊ່ວຍໄດ້ແທ້ຫຼືບໍ່? ແລ້ວການອົດອາຫານຊົ່ວຄາວ ອາຫານການກິນ ການນອນຫຼັບ ແລະ ການໄດ້ຍິນເດ? ຄຳຕອບທີ່ເຂົ້າໃຈງ່າຍ ພ້ອມແຫຼ່ງອ້າງອີງ ລວມເຖິງຈຸດທີ່ຫຼັກຖານທາງວິທະຍາສາດຍັງບໍ່ຈະແຈ້ງ.",
+    "researchLink": "ອ່ານຄູ່ມືງານວິໄຈ",
+    "appEyebrow": "ພ້ອມໃຫ້ບໍລິການໃນຮູບແບບແອັບ",
+    "appTitle": "Golden Moments ໃນ iPhone, iPad ແລະ Android",
+    "appText": "ແອັບຟຣີທີ່ໃຊ້ງານແບບອອບລາຍໄດ້ ແລະ ສາມາດເລືອກໃຊ້ຮູບຖ່າຍຄອບຄົວຂອງທ່ານເອງ ເຊິ່ງຈະຖືກເກັບຮັກສາໄວ້ໃນອຸປະກອນຂອງທ່ານເທົ່ານັ້ນ. ຍັງຄົງການອອກແບບທີ່ສະຫງົບຄືເກົ່າ: ປຸ່ມຮູບພາບໃຫຍ່ສີ່ຊ່ອງ ບໍ່ມີການຈັບເວລາ ແລະ ບໍ່ມີການໃຫ້ຄະແນນ.",
+    "aboutApp": "ກ່ຽວກັບແອັບ",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "ເກມແບບໃດທີ່ເໝາະສຳລັບຜູ້ມີພາວະສະໝອງເສື່ອມ?",
+        "a": "ເກມທີ່ດີຄວນຈະລຽບງ່າຍ, ຄຸ້ນເຄີຍ ແລະ ບໍ່ສ້າງຄວາມກົດດັນ: ເຊັ່ນ ຮູບພາບຂະໜາດໃຫຍ່ສຳລັບຈັບຄູ່, ການແຍກປະເພດ, ຕໍ່ຮູບແບບງ່າຍໆ, ຕໍ່ຄຳສຸພາສິດທີ່ຄຸ້ນເຄີຍ, ລະບາຍສີ, ບິງໂກຮູບພາບ ແລະ ບັດສົນທະນາ. ທາງເລືອກທີ່ດີທີ່ສຸດແມ່ນສິ່ງທີ່ຄົນທີ່ທ່ານດູແລມັກ ແລະ ເພີດເພີນໃນມື້ນີ້. ຫຼີກລ່ຽງການຈັບເວລາ, ການຄິດໄລ່ຄະແນນ ແລະ ສິ່ງໃດກໍຕາມທີ່ໃຫ້ຄວາມຮູ້ສຶກຄືກັບການສອບເສັງ."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "ເກມສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມເຫຼົ່ານີ້ ຫຼິ້ນຟຣີບໍ່?",
+        "a": "ແມ່ນແລ້ວ. ທຸກໆເກມ ແລະ ເອກະສານສຳລັບພິມໃນ Golden Moments ແມ່ນໃຊ້ຟຣີ, ບໍ່ຕ້ອງມີບັນຊີ, ບໍ່ຕ້ອງລົງທະບຽນ ຫຼື ດາວໂຫຼດ. ເກມສາມາດຫຼິ້ນໄດ້ຜ່ານເວັບບຣາວເຊີໃນໂທລະສັບ, ແທັບເລັດ ຫຼື ຄອມພິວເຕີ."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "ເກມຝຶກສະໝອງຊ່ວຍປ້ອງກັນພາວະສະໝອງເສື່ອມໄດ້ບໍ່?",
+        "a": "ຍັງບໍ່ມີເກມໃດທີ່ພິສູດໄດ້ວ່າຊ່ວຍປ້ອງກັນພາວະສະໝອງເສື່ອມ, ແລະ Golden Moments ກໍບໍ່ໄດ້ອ້າງວ່າສາມາດປິ່ນປົວ ຫຼື ປ້ອງກັນຫຍັງໄດ້ເລີຍ. ເກມຂອງພວກເຮົາສ້າງຂຶ້ນເພື່ອຄວາມເພີດເພີນ ແລະ ໃຊ້ເວລານຳກັນ. ໝວດສຸຂະພາບສະໝອງຂອງພວກເຮົາໄດ້ອະທິບາຍສິ່ງທີ່ງານວິໄຈພົບ ແລະ ບໍ່ໄດ້ພົບ."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "ເກມເຫຼົ່ານີ້ເໝາະສົມກັບຜູ້ທີ່ມີພາວະອັນໄຊເມີ່ບໍ່?",
+        "a": "ແມ່ນແລ້ວ. ພະຍາດອັນໄຊເມີ່ແມ່ນສາເຫດທີ່ພົບເລື້ອຍທີ່ສຸດຂອງພາວະສະໝອງເສື່ອມ, ແລະ ເກມເຫຼົ່ານີ້ກໍຖືກສ້າງຂຶ້ນມາເພື່ອສິ່ງນີ້ໂດຍສະເພາະ: ຮູບພາບຂະໜາດໃຫຍ່ທີ່ສະແດງຄ້າງໄວ້ຕະຫຼອດ, ຕົວເລືອກບໍ່ຫຼາຍ, ບໍ່ມີສິ່ງທີ່ຕ້ອງຈື່ ແລະ ບໍ່ມີຄຳວ່າຜິດ. ການຈັບຄູ່, ການແຍກປະເພດ ແລະ ການຕໍ່ຄຳສຸພາສິດທີ່ຄຸ້ນເຄີຍ ຈະອາໄສຄວາມຊົງຈຳໄລຍະຍາວທີ່ມີຢູ່ແລ້ວ ຫຼາຍກວ່າການຮຽນຮູ້ສິ່ງໃໝ່."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "ຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມໃນໄລຍະທ້າຍ ສາມາດຮ່ວມກິດຈະກຳເຫຼົ່ານີ້ໄດ້ບໍ່?",
+        "a": "ສ່ວນໃຫຍ່ແມ່ນໄດ້ ຖ້າມີຄົນຢູ່ຄຽງຂ້າງຊ່ວຍເຫຼືອ. ລອງເລີ່ມຕົ້ນດ້ວຍການຊອກຫາຮູບທີ່ຄືກັນ 2 ຮູບ, ຈັບຄູ່ຮູບພາບ 4 ແຜ່ນ, ໜ້າລະບາຍສີ ຫຼື ການພັກຜ່ອນຫາຍໃຈແບບສະຫງົບ. ຄວນໃຊ້ເວລາສັ້ນໆ, ໃຫ້ຜູ້ທີ່ທ່ານດູແລເປັນຜູ້ນຳພາ ແລະ ຢຸດເຊົາເມື່ອເພິ່ນຮູ້ສຶກພໍແລ້ວ."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "ຂໍ້ມູນຂອງຂ້າພະເຈົ້າເປັນສ່ວນຕົວບໍ່?",
+        "a": "ເວັບໄຊນີ້ບໍ່ມີລະບົົບບັນຊີ ແລະ ບໍ່ມີໂຄສະນາ. ພວກເຮົາໃຊ້ Google Analytics ເພື່ອເຂົ້າໃຈວ່າມີໜ້າໃດແດ່ທີ່ມີຄົນເຂົ້າມາເບິ່ງ. ຮູບພາບທີ່ທ່ານເລືອກສຳລັບ Photo pairs ຈະສະແດງສະເພາະໃນເວັບບຣາວເຊີຂອງທ່ານເທົ່ານັ້ນ ແລະ ບໍ່ເຄີຍຖືກອັບໂຫຼດຂຶ້ນສູ່ລະບົບ."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "ໃຜເປັນຜູ້ສ້າງ Golden Moments?",
+        "a": "Golden Moments ເປັນທີມງານນ້ອຍໆ ທີ່ສ້າງກິດຈະກຳຮູບພາບທີ່ສະຫງົບ ແລະ ເໝາະສຳລັບຜູ້ໃຫຍ່ ເພື່ອຄອບຄົວ ແລະ ຜູ້ດູແລ ທັງໃນເວັບໄຊ ແລະ ແອັບຟຣີ. ພວກເຮົາບໍ່ແມ່ນແພດໝໍ ແລະ ບໍ່ມີຂໍ້ມູນໃດໃນນີ້ທີ່ຖືເປັນຄຳແນະນຳທາງການແພດ."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "ເລີ່ມຕົ້ນ",
+    "middle": "ກາງ",
+    "late": "ທ້າຍ",
+    "hintOne": "ມັກຈະເໝາະກັບໄລຍະ {list}",
+    "hintMany": "ມັກຈະເໝາະກັບໄລຍະ {list}",
+    "labelEarly": "ໄລຍະເລີ່ມຕົ້ນ",
+    "labelMiddle": "ໄລຍະກາງ",
+    "labelLate": "ໄລຍະທ້າຍ"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "ກ່ຽວກັບເກມນີ້",
+    "printable": "ເອກະສານສຳລັບພິມ",
+    "play": "ຫຼິ້ນ {name} →",
+    "readGuide": "ອ່ານຄູ່ມື"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "ພ້ອມສຳລັບເກມທີ່ສະບາຍໆ ຜ່ອນຄາຍແລ້ວບໍ່?",
+    "text": "ຮູບພາບຂະໜາດໃຫຍ່, ບໍ່ຈັບເວລາ, ບໍ່ມີຄະແນນ ແລະ ບໍ່ຕ້ອງສະໝັກສະມາຊິກ. ຫຼິ້ນນຳກັນໄດ້ເລີຍຜ່ານເວັບບຣາວເຊີຂອງທ່ານ.",
+    "play": "ຫຼິ້ນເກມ",
+    "all": "ເບິ່ງເກມທັງໝົດ",
+    "aria": "ຫຼິ້ນເກມ"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "ພົກພາເກມເຫຼົ່ານີ້ໄປນຳທ່ານທຸກບ່ອນ",
+    "text": "ແອັບຟຣີ Golden Moments ສຳລັບ iPhone, iPad ແລະ Android: ແຜ່ນຮູບພາບຂະໜາດໃຫຍ່, ເກມທີ່ໃຊ້ຮູບພາບຄອບຄົວຂອງທ່ານເອງ ແລະ ຊຸດຮູບພາບທີ່ໃຊ້ໄດ້ໂດຍບໍ່ຕ້ອງມີ Wi‑Fi. ບໍ່ມີບັນຊີ, ບໍ່ມີໂຄສະນາ, ບໍ່ຈັບເວລາ ແລະ ບໍ່ມີຄະແນນ.",
+    "appStore": "ດາວໂຫຼດໄດ້ທີ່ App Store",
+    "googlePlay": "ດາວໂຫຼດໄດ້ທີ່ Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "ກ່ຽວກັບແອັບ",
+    "aria": "ດາວໂຫຼດແອັບ"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "ກິດຈະກຳ",
+      "title": "ກິດຈະກຳສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ",
+      "seo": "ກິດຈະກຳສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ: ໄອເດຍແບ່ງຕາມໄລຍະ",
+      "description": "ໄອເດຍກິດຈະກຳສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມໃນທຸກໆໄລຍະ: ສຽງເພງ, ການລະນຶກຄວາມຫຼັງ, ວຽກປະຈຳວັນ, ຜ່ອນຄາຍປະສາດສຳຜັດ, ງານປະດິດ, ກິດຈະກຳກາງແຈ້ງ ແລະ ເອກະສານພິມຟຣີ.",
+      "lede": "ກິດຈະກຳທີ່ມີຄວາມໝາຍແມ່ນສິ່ງໃດກໍຕາມທີ່ນຳມາເຊິ່ງຄວາມສະບາຍໃຈ, ເປົ້າໝາຍ ຫຼື ຊ່ວງເວລາແຫ່ງຄວາມຜູກພັນ. ເລີ່ມຕົ້ນຈາກສິ່ງທີ່ຄົນທີ່ທ່ານດູແລມັກມາຕະຫຼອດ ແລ້ວນຳມາປັບໃຫ້ເໝາະສົມກັບມື້ນີ້."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "ການເບິ່ງແຍງດູແລ",
+      "title": "ຄູ່ມືການເບິ່ງແຍງດູແລ",
+      "seo": "ຄູ່ມືການເບິ່ງແຍງດູແລຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ: ຕົວຊ່ວຍທີ່ໃຊ້ໄດ້ຈິງໃນຊີວິດປະຈຳວັນ",
+      "description": "ຄູ່ມືທີ່ໃຊ້ໄດ້ຈິງ ແລະ ເຕັມໄປດ້ວຍຄວາມເຂົ້າອົກເຂົ້າໃຈສຳລັບຜູ້ດູແລ: ການຫຼິ້ນເກມນຳກັນ, ການສື່ສານ, ການຮັບມືເມື່ອຖືກປະຕິເສດ, ອາການກະວົນກະວາຍໃນຍາມແລງ, ການໃຊ້ແທັບເລັດ, ການເລືອກແອັບ ແລະ ການດູແລຕົນເອງ.",
+      "lede": "ຄຳແນະນຳທີ່ເຂົ້າໃຈງ່າຍ ແລະ ໃຊ້ໄດ້ຈິງສຳລັບທຸກຊ່ວງເວລາໃນການເບິ່ງແຍງຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ ລວມທັງການດູແລຕົວທ່ານເອງ."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "ສຸຂະພາບສະໝອງ",
+      "title": "ສຸຂະພາບສະໝອງ: ສິ່ງທີ່ງານວິໄຈບອກພວກເຮົາ",
+      "seo": "ສຸຂະພາບສະໝອງ ແລະ ຄວາມສ່ຽງພາວະສະໝອງເສື່ອມ: ສິ່ງທີ່ງານວິໄຈບອກພວກເຮົາ",
+      "description": "ພາວະສະໝອງເສື່ອມປ້ອງກັນໄດ້ບໍ່? ຄູ່ມືທີ່ກົງໄປກົງມາພ້ອມແຫຼ່ງອ້າງອີງ ກ່ຽວກັບປັດໄຈສ່ຽງ, ເກມຝຶກສະໝອງ, ການອົດອາຫານເປັນຊ່ວງ, ອາຫານການກິນ, ການອອກກຳລັງກາຍ, ການນອນຫຼັບ, ການໄດ້ຍິນ ແລະ ສັນຍານເຕືອນເລີ່ມຕົ້ນ.",
+      "lede": "ສິ່ງທີ່ງານວິໄຈຂະໜາດໃຫຍ່ສະແດງໃຫ້ເຫັນກ່ຽວກັບການຫຼຸດຄວາມສ່ຽງພາວະສະໝອງເສື່ອມ ອະທິບາຍຢ່າງເຂົ້າໃຈງ່າຍ ລວມເຖິງຈຸດທີ່ຫຼັກຖານຍັງບໍ່ຊັດເຈນ ຫຼື ຍັງມີຄວາມເຫັນທີ່ຫຼາກຫຼາຍ. ນີ້ແມ່ນຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "ອັບເດດແລ້ວ",
+    "minuteRead": "ໃຊ້ເວລາອ່ານ {n} ນາທີ",
+    "byTeam": "ໂດຍທີມງານ Golden Moments",
+    "howWeWrite": "ວິທີການຂຽນບົດຄວາມຂອງພວກເຮົາ",
+    "shortAnswer": "ຄຳຕອບແບບສັ້ນ",
+    "onThisPage": "ໃນໜ້ານີ້ ({n} ຫົວຂໍ້)",
+    "commonQuestions": "ຄຳຖາມທີ່ພົບເລື້ອຍ",
+    "sources": "ແຫຼ່ງຂໍ້ມູນອ້າງອີງ",
+    "sourcesNote": "ພວກເຮົາໄດ້ເຊື່ອມຕໍ່ໄປຍັງອົງກອນ ແລະ ງານວິໄຈທີ່ໜ້ານີ້ໃຊ້ອ້າງອີງ. ທຸກແຫຼ່ງຂໍ້ມູນໄດ້ຮັບການກວດສອບເມື່ອມີການອັບເດດໜ້ານີ້.",
+    "tryTogether": "ລອງເຮັດນຳກັນ",
+    "relatedGuides": "ຄູ່ມືທີ່ກ່ຽວຂ້ອງ",
+    "related": "ທີ່ກ່ຽວຂ້ອງ",
+    "startHere": "ເລີ່ມຕົ້ນທີ່ນີ້"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "ແຈ້ງການກ່ຽວກັບຂໍ້ມູນສຸຂະພາບ",
+    "title": "ຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ",
+    "textHtml": "ໜ້ານີ້ສະຫຼຸບງານວິໄຈທີ່ໄດ້ຮັບການຕີພິມສຳລັບຄອບຄົວ. ຂໍ້ມູນນີ້ບໍ່ສາມາດບອກໄດ້ວ່າສິ່ງໃດເໝາະສົມກັບແຕ່ລະບຸກຄົນ. ຄວນປຶກສາແພດໝໍກ່ອນທີ່ຈະປ່ຽນແປງອາຫານການກິນ, ການອອກກຳລັງກາຍ, ການນອນຫຼັບ, ຢາ ຫຼື ອາຫານເສີມ. ຫາກມີອາການສັບສົນກະທັນຫັນ ຫຼື ການປ່ຽນແປງກະທັນຫັນອື່ນໆ ໃຫ້ຕິດຕໍ່ຂໍຄວາມຊ່ວຍເຫຼືອທາງການແພດທັນທີ. <a href=\"/medical-disclaimer/\">ອ່ານແຈ້ງການກ່ຽວກັບຂໍ້ມູນສຸຂະພາບຂອງພວກເຮົາ</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "ກິດຈະກຳທີ່ເຮັດຮ່ວມກັນ ບໍ່ແມ່ນການທົດສອບຄວາມຈຳ",
+      "seoTitle": "ກ່ຽວກັບ Golden Moments: ແນວທາງຂອງພວກເຮົາ",
+      "description": "ເຫດຜົນທີ່ເກມຂອງ Golden Moments ບໍ່ມີການຈັບເວລາ, ບໍ່ມີຄະແນນ ຫຼື ການຫຼິ້ນຕໍ່ເນື່ອງ, ເຫດຜົນທີ່ຮູບພາບສະແດງຄ້າງໄວ້ ແລະ ສິ່ງທີ່ພວກເຮົາກ່າວເຖິງ ຫຼື ບໍ່ກ່າວອ້າງກ່ຽວກັບພາວະສະໝອງເສື່ອມ.",
+      "crumb": "ແນວທາງຂອງພວກເຮົາ",
+      "lede": "Golden Moments ສ້າງກິດຈະກຳຮູບພາບທີ່ສະຫງົບ ແລະ ເໝາະສຳລັບຜູ້ໃຫຍ່ ເພື່ອໃຫ້ຜູ້ດູແລ ແລະ ຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ ສາມາດເພີດເພີນໄປພ້ອມໆກັນ.",
+      "bodyHtml": "<h2>ສິ່ງທີ່ພວກເຮົາເຊື່ອໝັ້ນ</h2><p>ຈຸດປະສົງຂອງກິດຈະກຳແມ່ນຊ່ວງເວລາທີ່ຢູ່ຮ່ວມກັນ: ການສົນທະນາ, ຮອຍຍິ້ມ, ຄວາມພໍໃຈຈາກການວາງຮູບສອງຮູບເຂົ້າກັນ, ຫຼື ພຽງແຕ່ການນັ່ງໃກ້ຊິດກັນ. ມັນບໍ່ແມ່ນການວັດແທກໃຜ, ບໍ່ໄດ້ກົດດັນໃຫ້ເຮັດຫຼາຍຂຶ້ນ, ຫຼື ພິສູດສິ່ງໃດເລີຍ.</p><p>ແອັບຝຶກສະໝອງຫຼາຍແອັບຖືກອອກແບບມາໂດຍເນັ້ນໃສ່ຄວາມໄວ, ຄະແນນ, ສະຖິຕິຕໍ່ເນື່ອງ ແລະ ລະດັບຂັ້ນ. ສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ, ສິ່ງນັ້ນອາດຮູ້ສຶກຄືກັບການສອບເສັງທີ່ພວກເພິ່ນບໍ່ສາມາດເສັງຜ່ານໄດ້. ພວກເຮົາຈຶ່ງອອກແບບໃນທາງກົງກັນຂ້າມ, ແລະ ພວກເຮົາຍຶດໝັ້ນໃນຫຼັກການເຫຼົ່ານີ້:</p><ul><li><strong>ບໍ່ມີການສອບຕົກ.</strong> ບໍ່ມີໂມງຈັບເວລາ, ຄະແນນ, ຕົວນັບຈຳນວນຄັ້ງທີ່ຍ້າຍ, ຈຳນວນຊີວິດ, ສະຖິຕິຕໍ່ເນື່ອງ, ພາບສະເຫຼີມສະຫຼອງ, ຫຼື ການນັບຖອຍຫຼັງ, ໃນທຸກໜ້າຈໍ.</li><li><strong>ເນັ້ນການຈື່ໄດ້ຫຼາຍກວ່າການນຶກອອກເອງ.</strong> ຮູບພາບຈະສະແດງໄວ້ຕະຫຼອດເປັນຄ່າເລີ່ມຕົ້ນ. ຂໍ້ຄວາມຊວນລົມຈະເຊີນຊວນໃຫ້ສົນທະນາ ແລະ ບໍ່ເຄີຍຖາມທົດສອບຊື່ ຫຼື ຄວາມຊົງຈຳ.</li><li><strong>ຂະໜາດໃຫຍ່, ຮຽບງ່າຍ ແລະ ສະໝ່ຳສະເໝີ.</strong> ຕົວໜັງສື ແລະ ຮູບພາບຂະໜາດໃຫຍ່, ສີຕັດກັນຊັດເຈນ, ແລະ ປຸ່ມຄວບຄຸມຢູ່ບ່ອນເກົ່າສະເໝີ.</li><li><strong>ໃຫ້ກຽດ ແລະ ສັກສີຂອງຜູ້ໃຫຍ່.</strong> ໃຊ້ຮູບພາບຈາກຊີວິດຈິງ ແລະ ຖ້ອຍຄຳທີ່ອົບອຸ່ນ, ຮຽບງ່າຍ. ບໍ່ມີພາບກາຕູນ, ຄຳຊົມເຊີຍແບບເດັກນ້ອຍ, ຫຼື ຮູບອີໂມຈິເປັນລາງວັນ.</li><li><strong>ຢຸດພັກໄດ້ງ່າຍ.</strong> ປຸ່ມ “ພໍເທົ່ານີ້ກ່ອນ” ມີໃຫ້ເຫັນຕະຫຼອດ. ການຢຸດກາງຄັນກໍຖືວ່າເປັນສິ່ງທີ່ດີແລ້ວ.</li><li><strong>ເປັນສ່ວນຕົວຕັ້ງແຕ່ເລີ່ມຕົ້ນ.</strong> ບໍ່ມີການສ້າງບັນຊີ ຫຼື ໂຄສະນາ. ຮູບພາບທີ່ທ່ານເລືອກຈະຢູ່ໃນອຸປະກອນຂອງທ່ານເທົ່ານັ້ນ.</li></ul><h2>ສິ່ງທີ່ພວກເຮົາບໍ່ເຄີຍອ້າງ</h2><p>ເກມຂອງພວກເຮົາແມ່ນເພື່ອຄວາມເພີດເພີນ ແລະ ຄວາມຜູກພັນ. ເກມເຫຼົ່ານີ້ບໍ່ໄດ້ວິນິດໄສ, ທົດສອບ, ວັດແທກ, ປິ່ນປົວ, ຊະລໍ ຫຼື ປ້ອງກັນພາວະສະໝອງເສື່ອມ ຫຼື ພະຍາດອັນໄຊເມິ, ແລະ ບໍ່ຄວນມີໃຜເລືອກຫຼິ້ນເກມຍ້ອນເຫດຜົນດັ່ງກ່າວ. ເມື່ອພວກເຮົາຂຽນກ່ຽວກັບຜົນການວິໄຈໃນ<a href=\"/brain-health/\">ໜ້າສຸຂະພາບສະໝອງ</a>ຂອງພວກເຮົາ, ພວກເຮົາຈະບອກຢ່າງກົງໄປກົງມາຫາກຫຼັກຖານຍັງບໍ່ຊັດເຈນ, ແລະ ພວກເຮົາບໍ່ເຄີຍເຊື່ອມໂຍງຜົນການວິໄຈນັ້ນເຂົ້າກັບເກມຂອງພວກເຮົາເອງ.</p><h2>ພວກເຮົາແມ່ນໃຜ</h2><p>Golden Moments ແມ່ນທີມງານອິດສະຫຼະຂະໜາດນ້ອຍ. ພວກເຮົາບໍ່ແມ່ນແພດໝໍ ຫຼື ບຸກຄະລາກອນທາງການແພດ. ຄູ່ມືຂອງພວກເຮົາຖືກຂຽນຂຶ້ນຈາກຄຳແນະນຳທີ່ເຜີຍແຜ່ໂດຍອົງການຕ່າງໆ ເຊັ່ນ National Institute on Aging ແລະ Alzheimer’s Association, ແລະ ທຸກຄູ່ມືຈະລະບຸແຫຼ່ງຂໍ້ມູນສະເໝີ. ອ່ານເພີ່ມເຕີມກ່ຽວກັບ<a href=\"/editorial-policy/\">ວິທີທີ່ພວກເຮົາຂຽນ ແລະ ກວດສອບເນື້ອຫາຂອງພວກເຮົາ</a>.</p><h2>ບອກພວກເຮົາວ່າສິ່ງໃດຈະເປັນປະໂຫຍດ</h2><p>ພວກເຮົາຍິນດີຮັບຟັງສິ່ງທີ່ເໝາະສົມ ແລະ ສິ່ງທີ່ບໍ່ໄດ້ຜົນສຳລັບທ່ານ, ໂດຍສະເພາະຈາກຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ, ຜູ້ດູແລໃນຄອບຄົວ ແລະ ພະນັກງານຈັດກິດຈະກຳ. ສົ່ງອີເມວຫາພວກເຮົາໄດ້ທີ່ <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "ວິທີທີ່ພວກເຮົາຂຽນ ແລະ ກວດສອບເນື້ອຫາຂອງພວກເຮົາ",
+      "seoTitle": "ນະໂຍບາຍດ້ານເນື້ອຫາ",
+      "description": "ວິທີທີ່ Golden Moments ຄົ້ນຄວ້າ, ຂຽນ, ອ້າງອີງແຫຼ່ງຂໍ້ມູນ ແລະ ອັບເດດໜ້າກິດຈະກຳສຳລັບພາວະສະໝອງເສື່ອມ ແລະ ສຸຂະພາບສະໝອງ, ລວມທັງສິ່ງທີ່ພວກເຮົາຈະບໍ່ເຜີຍແຜ່ຢ່າງເດັດຂາດ.",
+      "crumb": "ນະໂຍບາຍດ້ານເນື້ອຫາ",
+      "bodyHtml": "<h2>ແຫຼ່ງຂໍ້ມູນຂອງພວກເຮົາ</h2><p>ພວກເຮົາອີງໃສ່ຄູ່ມືຈາກຄຳແນະນຳສາທາລະນະຂອງອົງການຕ່າງໆ ເຊັ່ນ National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ແລະ NHS, ພ້ອມທັງງານວິໄຈທີ່ຜ່ານການກວດສອບຈາກຊ່ຽວຊານ ເຊັ່ນ Cochrane reviews ແລະ ການທົດລອງທາງຄລີນິກຂະໜາດໃຫຍ່. ທຸກຄູ່ມືຈະລະບຸແຫຼ່ງຂໍ້ມູນທີ່ນຳມາໃຊ້ສະເໝີ. ພວກເຮົາກວດເບິ່ງແຕ່ລະແຫຼ່ງຂໍ້ມູນກ່ອນທີ່ຈະອ້າງອີງ, ແລະ ລາຍງານສະເພາະສິ່ງທີ່ຂໍ້ມູນນັ້ນລະບຸໄວ້ແທ້ໆ ເທົ່ານັ້ນ.</p><h2>ວິທີທີ່ພວກເຮົາຂຽນ</h2><ul><li>ເນັ້ນການນຳໃຊ້ໄດ້ຈິງກ່ອນ: ສິ່ງທີ່ສາມາດເຮັດໄດ້ໃນມື້ນີ້ ດ້ວຍພາສາທີ່ເຂົ້າໃຈງ່າຍ.</li><li>ຊື່ສັດຕໍ່ຫຼັກຖານ: ພວກເຮົາຈະໃຊ້ຄຳວ່າ “ກ່ຽວຂ້ອງກັບ”, “ອາດຈະ” ແລະ “ຫຼັກຖານຍັງບໍ່ຊັດເຈນ” ເມື່ອນັ້ນຄືຄວາມຈິງ.</li><li>ໃຫ້ຄວາມເຄົາລົບ: ພວກເຮົາຂຽນເຖິງຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມໃນຖານະຜູ້ໃຫຍ່, ແລະ ບໍ່ເຄີຍໃຊ້ພາສາທີ່ເປັນການທົດສອບ ຫຼື ເຮັດໃຫ້ຮູ້ສຶກອັບອາຍ.</li><li>ບໍ່ມີເນື້ອຫາທີ່ສ້າງຂຶ້ນເອງ: ບໍ່ມີການແຕ່ງຕົວເລກສະຖິຕິ, ຄຳເວົ້າອ້າງອີງ, ຊ່ຽວຊານ, ງານວິໄຈ, ບົດວິຈານ ຫຼື ຄຳຍ້ອງຍໍຂຶ້ນມາເອງ.</li></ul><h2>ໃຜເປັນຜູ້ກວດສອບເນື້ອຫາຂອງພວກເຮົາ</h2><p>ເນື້ອຫາຖືກຂຽນ ແລະ ກວດສອບໂດຍທີມງານ Golden Moments, ໂດຍມີການນຳໃຊ້ເຄື່ອງມື AI ຊ່ວຍໃນການຄົ້ນຄວ້າ ແລະ ຮ່າງເນື້ອຫາ. ທຸກໜ້າຈະຖືກກວດສອບທຽບກັບແຫຼ່ງຂໍ້ມູນຕົ້ນສະບັບໂດຍທີມງານ. ເນື້ອຫາຂອງພວກເຮົາ<strong>ບໍ່ໄດ້</strong>ຜ່ານການກວດສອບໂດຍແພດໝໍ ຫຼື ບຸກຄະລາກອນທາງການແພດອື່ນໆ, ແລະ ພວກເຮົາບໍ່ເຄີຍອ້າງເປັນຢ່າງອື່ນ. ເນື້ອຫາເຫຼົ່ານີ້ເປັນຂໍ້ມູນທົ່ວໄປ, ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ.</p><h2>ສິ່ງທີ່ພວກເຮົາຈະບໍ່ເຜີຍແຜ່ຢ່າງເດັດຂາດ</h2><ul><li>ການກ່າວອ້າງວ່າເກມ, ອາຫານ, ອາຫານເສີມ, ການອົດອາຫານ ຫຼື ກິດຈະວັດໃດໜຶ່ງ ສາມາດປ້ອງກັນ, ປິ່ນປົວ, ຊະລໍ ຫຼື ຮັກສາພາວະສະໝອງເສື່ອມໃຫ້ຫາຍຂາດໄດ້.</li><li>ແບບທົດສອບ, ຄຳຖາມ ຫຼື ຄະແນນ ທີ່ບົ່ງບອກວ່າຄົນໃດຄົນໜຶ່ງມີ ຫຼື ບໍ່ມີພາວະສະໝອງເສື່ອມ.</li><li>ຄຳແນະນຳໃຫ້ເລີ່ມ, ຢຸດ ຫຼື ປ່ຽນແປງຢາປິ່ນປົວໃດໆ.</li><li>ການໂຄສະນາ ຫຼື ເນື້ອຫາທີ່ມີຜູ້ສະໜັບສະໜູນ ເຊິ່ງແອບແຝງມາໃນຮູບແບບຂອງຄຳແນະນຳ.</li></ul><h2>ການອັບເດດ ແລະ ການແກ້ໄຂ</h2><p>ແຕ່ລະໜ້າຈະສະແດງວັນທີທີ່ໄດ້ຮັບການອັບເດດຫຼ້າສຸດ. ຫາກທ່ານພົບຂໍ້ຜິດພາດ ຫຼື ແຫຼ່ງຂໍ້ມູນທີ່ເກົ່າແລ້ວ, ກະລຸນາສົ່ງອີເມວຫາ <a href=\"mailto:{email}\">{email}</a> ແລະ ພວກເຮົາຈະຮີບກວດສອບໂດຍໄວ.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "ຄຳຖາມ ແລະ ຄຳຕອບ",
+      "seoTitle": "ເກມ ແລະ ກິດຈະກຳສຳລັບພາວະສະໝອງເສື່ອມ: ຄຳຖາມ ແລະ ຄຳຕອບ",
+      "description": "ຄຳຕອບສຳລັບຄຳຖາມທົ່ວໄປກ່ຽວກັບເກມ ແລະ ກິດຈະກຳສຳລັບພາວະສະໝອງເສື່ອມ: ເກມໃດທີ່ຄວນລອງ, ຄວນຫຼິ້ນດົນປານໃດ, ແນວຄິດສຳລັບໄລຍະທ້າຍ, ສຸຂະພາບສະໝອງ ແລະ ຄວາມເປັນສ່ວນຕົວ.",
+      "crumb": "ຄຳຖາມ ແລະ ຄຳຕອບ",
+      "lede": "ຄຳຕອບສັ້ນໆ ແລະ ເຂົ້າໃຈງ່າຍ ສຳລັບຄຳຖາມທີ່ຜູ້ດູແລມັກຖາມຫຼາຍທີ່ສຸດ.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "ກ່ຽວກັບເກມ",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "ເກມໃດທີ່ດີທີ່ສຸດສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ?",
+              "a": "ເກມທີ່ດີທີ່ສຸດແມ່ນເກມທີ່ຄຸ້ນເຄີຍ, ຮຽບງ່າຍ ແລະ ບໍ່ມີຄວາມກົດດັນ, ແລະ ເກມທີ່ເໝາະສົມກໍຄືເກມໃດກໍຕາມທີ່ເພິ່ນເພີດເພີນໃນມື້ນີ້. ການຈັບຄູ່ຮູບພາບທີ່ເປີດໃຫ້ເຫັນຮູບ, ການຈັດໝວດໝູ່, ຕໍ່ຮູບຈິກຊໍແບບງ່າຍໆ, ການຕໍ່ຄຳເວົ້າທີ່ຄຸ້ນເຄີຍໃຫ້ຈົບ, ການລະບາຍສີ ແລະ ບິງໂກຮູບພາບ ລ້ວນແຕ່ເໝາະສຳລັບຫຼາຍໆ ຄົນ. ຫຼີກລ່ຽງການຈັບເວລາ, ຄະແນນ ແລະ ສິ່ງໃດກໍຕາມທີ່ໃຫ້ຄວາມຮູ້ສຶກຄືກັບການທົດສອບ."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "ເກມເຫຼົ່ານີ້ຫຼິ້ນຟຣີແທ້ໆ ບໍ່?",
+              "a": "ແມ່ນແລ້ວ. ເກມ ແລະ ເອກະສານພິມທັງໝົດແມ່ນໃຊ້ໄດ້ຟຣີ ໂດຍບໍ່ຕ້ອງສ້າງບັນຊີ, ບໍ່ຕ້ອງລົງທະບຽນ, ບໍ່ຕ້ອງດາວໂຫຼດ ແລະ ບໍ່ມີໂຄສະນາ."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "ເປັນຫຍັງຈຶ່ງບໍ່ມີຄະແນນ, ລະດັບຂັ້ນ ຫຼື ການຈັບເວລາ?",
+              "a": "ຄວາມໄວ ແລະ ຄະແນນ ອາດປ່ຽນກິດຈະກຳທີ່ຜ່ອນຄາຍໃຫ້ກາຍເປັນຄືກັບການສອບເສັງ ເຊິ່ງອາດເຮັດໃຫ້ເກີດຄວາມອັບອາຍ ຫຼື ຄວາມອຸກອັ່ງໄດ້. ພວກເຮົາເນັ້ນໃສ່ຄວາມເພີດເພີນ ແລະ ເວລາທີ່ໄດ້ຢູ່ຮ່ວມກັນ ດັ່ງນັ້ນຈຶ່ງບໍ່ມີການເສຍ ຫຼື ຜິດພາດຫຍັງເລີຍ ແລະ ທ່ານສາມາດຢຸດເຊົາໄດ້ທຸກເວລາ."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "ອຸປະກອນໃດໃຊ້ໄດ້ດີທີ່ສຸດ?",
+              "a": "ໂທລະສັບ, ແທັບເລັດ ຫຼື ຄອມພິວເຕີທຸກລຸ້ນທີ່ມີເວັບບຣາວເຊີທັນສະໄໝ. ການຕັ້ງແທັບເລັດໄວ້ເທິງໂຕະມັກຈະສະດວກສະບາຍທີ່ສຸດສຳລັບສອງຄົນທີ່ຈະຫຼິ້ນໄປພ້ອມໆກັນ. ສ່ວນຄອມພິວເຕີໂນ້ດບຸກທີ່ຕໍ່ໃສ່ໂທລະພາບກໍເໝາະສຳລັບການຫຼິ້ນເປັນກຸ່ມ."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "ພວກເຮົາສາມາດຫຼິ້ນໂດຍໃຊ້ຮູບຄອບຄົວຂອງຕົນເອງໄດ້ບໍ່?",
+              "a": "ໄດ້. ເກມ Photo pairs ຈະປ່ຽນຮູບພາບ 2 ຫາ 6 ຮູບທີ່ທ່ານເລືອກໃຫ້ເປັນເກມຈັບຄູ່. ຮູບພາບຈະຢູ່ໃນບຣາວເຊີຂອງທ່ານເທົ່ານັ້ນ ແລະ ບໍ່ມີການອັບໂຫຼດ ຫຼື ບັນທຶກໄວ້ແຕ່ຢ່າງໃດ."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "ກິດຈະກຳ ແລະ ການເບິ່ງແຍງດູແລ",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "ກິດຈະກຳຄວນໃຊ້ເວລາດົນປານໃດ?",
+              "a": "ໂດຍທົ່ວໄປ 10 ຫາ 20 ນາທີກໍພຽງພໍແລ້ວ, ແລະ ບາງຄັ້ງພຽງແຕ່ 2 ນາທີກໍຖືວ່າປະສົບຜົນສຳເລັດ. ໃຫ້ສັງເກດອາການເມື່ອຍລ້າ ຫຼື ຄວາມອຸກອັ່ງ ແລະ ຢຸດເຊົາໃນຕອນທີ່ຍັງຮູ້ສຶກດີຢູ່. ບໍ່ມີກຳນົດເວລາຕາຍຕົວ."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "ຖ້າເພິ່ນບໍ່ຢາກເຮັດກິດຈະກຳ ຄວນເຮັດແນວໃດ?",
+              "a": "ໃຫ້ເຄົາລົບການປະຕິເສດນັ້ນ ແລ້ວຄ່ອຍລອງໃໝ່ໃນເວລາອື່ນ ຫຼື ດ້ວຍວິທີອື່ນ. ການປະຕິເສດອາດເກີດຈາກຄວາມເມື່ອຍ, ອາການເຈັບປວດ, ຄວາມບໍ່ໝັ້ນໃຈ ຫຼື ພຽງແຕ່ບໍ່ສົນໃຈ. ສາມາດເບິ່ງຄຳແນະນຳຂອງພວກເຮົາກ່ຽວກັບສິ່ງທີ່ຄວນເຮັດເມື່ອເພິ່ນປະຕິເສດ."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "ກິດຈະກຳໃດທີ່ເໝາະສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມໃນໄລຍະທ້າຍ?",
+              "a": "ກິດຈະກຳທີ່ເນັ້ນຄວາມສະບາຍ ແລະ ຜ່ານປະສາດສຳຜັດ: ການຟັງເພງທີ່ມັກ, ນວດມືດ້ວຍໂລຊັ່ນ, ເບິ່ງຮູບພາບນຳກັນ, ຈັບບາຍຜ້າຫົ່ມນຸ່ມໆ, ນັ່ງຫຼິ້ນກາງແຈ້ງ, ຫຼື ຫຼິ້ນເກມຮູບພາບງ່າຍໆ ໂດຍມີຄົນຢູ່ຄຽງຂ້າງ. ຄຳແນະນຳສຳລັບໄລຍະທ້າຍຂອງພວກເຮົາມີແນວຄວາມຄິດເພີ່ມເຕີມອີກຫຼາຍຢ່າງ."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "ມີກິດຈະກຳສຳລັບກຸ່ມໃນສູນເບິ່ງແຍງດູແລບໍ່?",
+              "a": "ມີ. ເກມ Picture bingo ມີບັດທີ່ສາມາດພິມອອກມາໄດ້ ແລະ ມີຕົວຂານເທິງໜ້າຈໍ, ສ່ວນເກມ Finish the saying ແລະ Conversation cards ກໍເໝາະສຳລັບການອ່ານອອກສຽງຮ່ວມກັນ. ຄູ່ມືກິດຈະກຳກຸ່ມໃນສູນເບິ່ງແຍງຂອງພວກເຮົາຈະແນະນຳເລື່ອງຂະໜາດຂອງກຸ່ມ, ການຈັດບ່ອນນັ່ງ ແລະ ການປັບປ່ຽນໃຫ້ເໝາະກັບຄວາມສາມາດທີ່ແຕກຕ່າງກັນ."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "ສຸຂະພາບສະໝອງ",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "ເກມສາມາດປ້ອງກັນ ຫຼື ຊະລໍພາວະສະໝອງເສື່ອມໄດ້ບໍ່?",
+              "a": "ຍັງບໍ່ມີເກມໃດທີ່ພົບວ່າສາມາດປ້ອງກັນພາວະສະໝອງເສື່ອມໄດ້, ແລະ ເກມຂອງພວກເຮົາກໍບໍ່ໄດ້ອ້າງສິດດັ່ງກ່າວເລີຍ. ງານວິໄຈພົບວ່າ ການກະຕຸ້ນຄວາມຄິດໃນບັນຍາກາດການພົບປະສັງສັນມີປະໂຫຍດເລັກນ້ອຍສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມໃນລະດັບເລີ່ມຕົ້ນເຖິງປານກາງ, ແຕ່ນັ້ນກໍແຕກຕ່າງຈາກການທີ່ເກມຈະປ້ອງກັນພະຍາດໄດ້. ພວກເຮົາສ້າງເກມຂຶ້ນມາເພື່ອຄວາມເພີດເພີນ ແລະ ການສ້າງຄວາມຜູກພັນເທົ່ານັ້ນ."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "ພາວະສະໝອງເສື່ອມສາມາດປ້ອງກັນໄດ້ບໍ່?",
+              "a": "ບໍ່ສາມາດປ້ອງກັນໄດ້ຢ່າງແນ່ນອນ. ງານວິໄຈຊີ້ໃຫ້ເຫັນວ່າ ມີ 14 ປັດໄຈດ້ານສຸຂະພາບ ແລະ ການດຳລົງຊີວິດທີ່ກ່ຽວຂ້ອງກັບຄວາມສ່ຽງຂອງພາວະສະໝອງເສື່ອມ ເຊັ່ນ: ການສູນເສຍການໄດ້ຍິນ, ຄວາມດັນເລືອດສູງ, ການຂາດການເຄື່ອນໄຫວຮ່າງກາຍ ແລະ ການຢູ່ໂດດດ່ຽວ. ການດູແລສິ່ງເຫຼົ່ານີ້ອາດຊ່ວຍຫຼຸດຄວາມສ່ຽງສຳລັບບາງຄົນໄດ້, ແຕ່ຫຼາຍຄົນທີ່ດູແລຕົນເອງເປັນຢ່າງດີກໍຍັງສາມາດເກີດພາວະສະໝອງເສື່ອມໄດ້. ສິ່ງນີ້ບໍ່ແມ່ນຄວາມຜິດຂອງໃຜເລີຍ."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "ການອົດອາຫານເປັນໄລຍະ (Intermittent Fasting) ດີຕໍ່ສຸຂະພາບສະໝອງຫຼືບໍ່?",
+              "a": "ຫຼັກຖານໃນມະນຸດຍັງມີຈຳກັດ ແລະ ຢູ່ໃນໄລຍະເລີ່ມຕົ້ນ, ໂດຍງານວິໄຈສ່ວນໃຫຍ່ຍັງເຮັດໃນສັດ. ການອົດອາຫານອາດມີຄວາມສ່ຽງສຳລັບຜູ້ສູງອາຍຸ, ໂດຍສະເພາະຜູ້ທີ່ກິນຢາປິ່ນປົວພະຍາດເບົາຫວານ ຫຼື ມີນ້ຳໜັກຫຼຸດລົງໂດຍບໍ່ໄດ້ຕັ້ງໃຈ, ແລະ ບໍ່ແນະນຳສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ. ຄວນປຶກສາແພດກ່ອນທີ່ຈະປ່ຽນແປງຮູບແບບການກິນອາຫານ."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພ",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "ທ່ານມີການເກັບກຳຂໍ້ມູນໃດໆຫຼືບໍ່?",
+              "a": "ບໍ່ມີການສ້າງບັນຊີ ຫຼື ໂຄສະນາ. ພວກເຮົາໃຊ້ Google Analytics ເພື່ອນັບຈຳນວນການເຂົ້າຊົມ ແລະ ເບິ່ງວ່າໜ້າໃດເປັນປະໂຫຍດ, ແລະ ບຣາວເຊີຂອງທ່ານຈະຈື່ໄວ້ວ່າທ່ານໄດ້ເປີດສຽງຄ່ອຍໆໄວ້ຫຼືບໍ່. ສ່ວນຮູບພາບທີ່ທ່ານເລືອກສຳລັບເກມ Photo pairs ຈະບໍ່ມີການອັບໂຫຼດຂຶ້ນລະບົບເລີຍ. ເບິ່ງລາຍລະອຽດເພີ່ມເຕີມໄດ້ທີ່ແຈ້ງການຄວາມເປັນສ່ວນຕົວ."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "ນີ້ແມ່ນຄຳແນະນຳທາງການແພດຫຼືບໍ່?",
+              "a": "ບໍ່ແມ່ນ. Golden Moments ມີໄວ້ເພື່ອຄວາມບັນເທີງ ແລະ ຂໍ້ມູນທົ່ວໄປເທົ່ານັ້ນ. ສຳລັບຄຳຖາມດ້ານສຸຂະພາບ, ຄວນປຶກສາແພດ, ແລະ ໃນກໍລະນີສຸກເສີນໃຫ້ໂທ 1195."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "ລາຍລະອຽດເພີ່ມເຕີມ: <a href=\"/caregiving/how-to-play-together/\">ວິທີຫຼິ້ນນຳກັນ</a>, <a href=\"/caregiving/when-they-say-no/\">ເມື່ອເພິ່ນປະຕິເສດ</a>, <a href=\"/activities/late-stage/\">ກິດຈະກຳໄລຍະທ້າຍ</a> ແລະ <a href=\"/brain-health/can-dementia-be-prevented/\">ພາວະສະໝອງເສື່ອມປ້ອງກັນໄດ້ບໍ່?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "ເກມຟຣີທີ່ອ່ອນໂຍນ ແລະ ຜ່ອນຄາຍ ສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ",
+      "seoTitle": "ເອກະສານພິມແຈກ: ເກມອອນລາຍຟຣີສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ",
+      "description": "ເອກະສານພິມແຈກໜ້າດຽວສຳລັບຄອບຄົວ ແລະ ຜູ້ເບິ່ງແຍງ ກ່ຽວກັບເກມຮູບພາບຟຣີທີ່ອ່ອນໂຍນສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ, ເໝາະສຳລັບກຸ່ມຊ່ວຍເຫຼືອເຊິ່ງກັນແລະກັນ ແລະ ຊຸດເອກະສານການເບິ່ງແຍງ.",
+      "crumb": "ເອກະສານພິມແຈກ",
+      "lede": "ພິມໜ້ານີ້ໄວ້ສຳລັບກຸ່ມຊ່ວຍເຫຼືອເຊິ່ງກັນແລະກັນ, ຊຸດເອກະສານການເບິ່ງແຍງ ຫຼື ຕິດໄວ້ໜ້າຕູ້ເຢັນ. ໃຊ້ຄຳສັ່ງພິມ (Print) ຂອງບຣາວເຊີຂອງທ່ານ; ເມນູ ແລະ ປຸ່ມຕ່າງໆ ຈະບໍ່ປາກົດໃນໃບພິມ.",
+      "introHtml": "<p>ຮູບພາບໃຫຍ່, ຂໍ້ຄວາມເຂົ້າໃຈງ່າຍ ແລະ ບໍ່ມີການຫຼິ້ນເສຍ. ຫຼິ້ນຟຣີເທິງໂທລະສັບ, ແທັບເລັດ ຫຼື ຄອມພິວເຕີ ໂດຍບໍ່ຕ້ອງລົງທະບຽນ, ບໍ່ມີໂຄສະນາ, ບໍ່ມີການຈັບເວລາ ແລະ ບໍ່ມີຄະແນນ. ນັ່ງຄຽງຂ້າງກັນ ແລະ ຜຽນກັນຫຼິ້ນ.</p>",
+      "gamesTitle": "ເກມທີ່ໜ້າລອງຫຼິ້ນນຳກັນ",
+      "restHtml": "<h2>ຂໍ້ແນະນຳເລັກໆນ້ອຍໆ</h2><ul><li>ເລືອກຊ່ວງເວລາຂອງມື້ທີ່ຄົນທີ່ທ່ານເບິ່ງແຍງຮູ້ສຶກດີ ແລະ ແຈ່ມໃສທີ່ສຸດ.</li><li>ເລີ່ມຕົ້ນດ້ວຍການຕັ້ງຄ່າທີ່ງ່າຍທີ່ສຸດ. ສີ່ຊ່ອງກໍພຽງພໍແລ້ວ.</li><li>ລົມກັນກ່ຽວກັບຮູບພາບຕ່າງໆ. ການສົນທະນາມັກຈະເປັນຊ່ວງເວລາທີ່ດີທີ່ສຸດ.</li><li>ຢຸດເຊົາໃນຂະນະທີ່ຍັງຮູ້ສຶກເພີດເພີນຢູ່. ການເລີກຫຼິ້ນໄວຂຶ້ນກໍຖືວ່າເປັນຜົນດີ.</li></ul><h2>ສິ່ງອື່ນໆໃນເວັບໄຊ</h2><ul><li>ເອກະສານພິມຟຣີ: ເກມຊອກຄຳສັບຕົວໜັງສືໃຫຍ່, ຮູບລະບາຍສີ, ບັດສົນທະນາ ແລະ ເກມບິງໂກຮູບພາບ.</li><li>ແນວຄວາມຄິດກິດຈະກຳສຳລັບທຸກໄລຍະ, ພ້ອມຄູ່ມືການຫຼິ້ນນຳກັນ ແລະ ການດູແລຕົນເອງ.</li></ul><p class=\"muted\">ເພື່ອຄວາມເພີດເພີນ ແລະ ເວລາທີ່ດີຮ່ວມກັນ. ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ, ການທົດສອບ ຫຼື ການປິ່ນປົວ. Golden Moments ຈັດພິມໂດຍ Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "ສຳລັບສູນເບິ່ງແຍງດູແລ, ຫໍສະໝຸດ ແລະ ກຸ່ມຊ່ວຍເຫຼືອເຊິ່ງກັນແລະກັນ",
+      "seoTitle": "ກິດຈະກຳຟຣີສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ ໃນສູນດູແລ ແລະ ກຸ່ມຕ່າງໆ",
+      "description": "ວິທີທີ່ສູນດູແລ, ສູນກິດຈະກຳກາງເວັນສຳລັບຜູ້ສູງອາຍຸ, ຫໍສະໝຸດ, ອົງການຊ່ວຍເຫຼືອຜູ້ສູງອາຍຸ ແລະ ກຸ່ມສະໜັບສະໜູນ ນຳໃຊ້ເກມຟຣີສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມຂອງພວກເຮົາ ພ້ອມທັງຂໍ້ຄວາມສຳລັບເພີ່ມພວກເຮົາເຂົ້າໃນລາຍການແຫຼ່ງຂໍ້ມູນ.",
+      "crumb": "ສຳລັບອົງກອນ",
+      "lede": "ທຸກສິ່ງໃນເວັບໄຊນີ້ສາມາດນຳໃຊ້ໄດ້ຟຣີຮ່ວມກັບຜູ້ພັກເຊົາ, ສະມາຊິກ ແລະ ຜູ້ຮັບບໍລິການ ໂດຍບໍ່ຕ້ອງມີບັນຊີ, ບໍ່ຕ້ອງມີໃບອະນຸຍາດ ຫຼື ບໍ່ມີຄ່າທຳນຽມໃດໆ. ໜ້ານີ້ຈະອະທິບາຍສິ່ງທີ່ມີຢູ່ໃນເວັບໄຊ ແລະ ວິທີແບ່ງປັນຕໍ່.",
+      "shortText": "{name}: ເກມຮູບພາບທີ່ອ່ອນໂຍນ ແລະ ຄູ່ມືກິດຈະກຳຟຣີ ສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ ແລະ ຜູ້ດູແລ. ບໍ່ຕ້ອງລົງທະບຽນ, ບໍ່ມີການຈັບເວລາ, ບໍ່ມີການນັບຄະແນນ.",
+      "longText": "{name} ({domain}) ມີ {count} ເກມເທິງບຣາວເຊີທີ່ຫຼິ້ນຟຣີ ເຊິ່ງອອກແບບມາສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ ໂດຍມີທັງເກມຈັບຄູ່ຮູບພາບທີ່ເປີດຮູບໄວ້ໃຫ້ເຫັນ, ເກມຕໍ່ຮູບພາບແບບງ່າຍ, ເກມຈັດໝວດໝູ່, ຄຳເວົ້າທີ່ຄຸ້ນເຄີຍ ແລະ ບິງໂກຮູບພາບພ້ອມບັດທີ່ສາມາດສັ່ງພິມໄດ້. ບໍ່ຕ້ອງມີບັນຊີ, ບໍ່ມີໂຄສະນາ, ບໍ່ມີການຈັບເວລາ ຫຼື ນັບຄະແນນ. ນອກຈາກນີ້ ເວັບໄຊຍັງມີຄູ່ມືກິດຈະກຳທີ່ໃຊ້ພາສາເຂົ້າໃຈງ່າຍສຳລັບແຕ່ລະໄລຍະຂອງພາວະສະໝອງເສື່ອມ ໂດຍອ້າງອີງຂໍ້ມູນຈາກ National Institute on Aging ແລະ Alzheimer's Association.",
+      "useTitle": "ສິ່ງທີ່ອົງກອນສາມາດນຳໃຊ້ໄດ້",
+      "gamesItemHtml": "<strong>{count} ເກມເທິງບຣາວເຊີ</strong> ທີ່ຫຼິ້ນໄດ້ເທິງຄອມພິວເຕີໂນດບຸກ, ແທັບເລັດ ຫຼື ໂທລະພາບທີ່ເຊື່ອມຕໍ່ກັບຄອມພິວເຕີ. ບໍ່ຕ້ອງຕິດຕັ້ງ, ບໍ່ຕ້ອງມີບັນຊີ ຫຼື ດາວໂຫຼດ. ເບິ່ງ<a href=\"/games/\">ເກມທັງໝົດ</a>.",
+      "printablesLabel": "ເອກະສານສັ່ງພິມໄດ້ {count} ລາຍການ:",
+      "printablesAfter": "ກົດປຸ່ມ ສັ່ງພິມ ໃນແຕ່ລະໜ້າ.",
+      "moreItemsHtml": "<li><strong>ຮູບແບບກິດຈະກຳກຸ່ມ:</strong> <a href=\"/games/picture-bingo/\">ບິງໂກຮູບພາບ</a> ພ້ອມບັດສັ່ງພິມໄດ້ ແລະ ລະບົບສຸ່ມຮູບພາບເທິງໜ້າຈໍ, ແລະ <a href=\"/activities/trivia/\">ຄຳຖາມທວາຍບັນຫາແບບງ່າຍ</a> ຈຳນວນ 50 ຂໍ້ ພ້ອມຕົວເລືອກຄຳຕອບ ແລະ ຫົວຂໍ້ສົນທະນາ.</li><li><strong>ຄູ່ມືກິດຈະກຳ</strong> ສຳລັບພະນັກງານ ແລະ ຄອບຄົວ ແບ່ງຕາມໄລຍະ ແລະ ປະເພດ, ຂຽນດ້ວຍພາສາທີ່ເຂົ້າໃຈງ່າຍພ້ອມແຫຼ່ງອ້າງອີງ. ເລີ່ມຕົ້ນດ້ວຍ <a href=\"/activities/ideas/\">101 ໄອເດຍກິດຈະກຳ</a> ຫຼື <a href=\"/activities/care-home-groups/\">ກິດຈະກຳກຸ່ມສຳລັບສູນດູແລ</a>.</li>",
+      "restHtml": "<h2>ວິທີທີ່ກຸ່ມຕ່າງໆ ນຳໃຊ້</h2><ul><li><strong>ສູນດູແລ ແລະ ສູນດູແລຜູ້ມີບັນຫາຄວາມຈຳ:</strong> ຫຼິ້ນບິງໂກຮູບພາບ ຫຼື ຕໍ່ຄຳເວົ້າໃຫ້ຄົບ ເທິງໂທລະພາບໃນຫ້ອງສ່ວນກາງ ໂດຍມີຄົນໜຶ່ງກົດໜ້າຈໍແທນກຸ່ມ.</li><li><strong>ສູນກິດຈະກຳກາງເວັນສຳລັບຜູ້ສູງອາຍຸ:</strong> ມຸມແທັບເລັດທີ່ມີເກມຈັບຄູ່ຮູບພາບຕັ້ງຄ່າໄວ້ 4 ຊ່ອງ ສຳລັບການຫຼິ້ນຮ່ວມກັນແບບໜຶ່ງຕໍ່ໜຶ່ງໃນໄລຍະສັ້ນ.</li><li><strong>ຫໍສະໝຸດສາທາລະນະ:</strong> ເກມຊອກຫາຄຳສັບແບບສັ່ງພິມ ແລະ ບັດສົນທະນາໃນຊຸດອຸປະກອນຟື້ນຟູຄວາມຊົງຈຳ ພ້ອມທັງບັນທຶກເວັບໄຊໄວ້ໃນແທັບເລັດຂອງຫໍສະໝຸດ.</li><li><strong>ກຸ່ມສະໜັບສະໜູນຜູ້ດູແລ ແລະ ຮ້ານກາເຟຊ່ວຍຄວາມຈຳ (memory cafés):</strong> <a href=\"/handout/\">ເອກະສານແນະນຳ 1 ໜ້າທີ່ສັ່ງພິມໄດ້</a> ສຳລັບຄອບຄົວນຳກັບໄປເຮືອນ.</li><li><strong>ໂຮງໝໍ ແລະ ຜູ້ວາງແຜນການສົ່ງຕໍ່ກັບເຮືອນ:</strong> ແນບເອກະສານແນະນຳໃນຊຸດຂໍ້ມູນສຳລັບຜູ້ດູແລ ເພື່ອເປັນກິດຈະກຳທີ່ຜ່ອນຄາຍຢູ່ເຮືອນ ຫຼື ຂ້າງຕຽງ.</li></ul><h2>ສິ່ງທີ່ພວກເຮົາບໍ່ໄດ້ເຮັດ</h2><p>ເກມເຫຼົ່ານີ້ມີໄວ້ເພື່ອຄວາມເພີດເພີນ ແລະ ໃຊ້ເວລາຮ່ວມກັນ. ເກມບໍ່ໄດ້ວິນິດໄສ, ທົດສອບ, ວັດຄະແນນ, ປິ່ນປົວ ຫຼື ຊະລໍພາວະສະໝອງເສື່ອມ, ແລະ ພວກເຮົາຂໍຄວາມຮ່ວມມືຈາກອົງກອນຕ່າງໆ ບໍ່ໃຫ້ອະທິບາຍເກມໃນລັກສະນະດັ່ງກ່າວ. ບໍ່ມີໂຄສະນາ, ແລະ ເກມບໍ່ໄດ້ຂໍຊື່, ຂໍ້ມູນສຸຂະພາບ ຫຼື ຂໍໃຫ້ອັບໂຫຼດຮູບພາບ. ເວັບໄຊນີ້ໃຊ້ Google Analytics ເພື່ອນັບຈຳນວນຜູ້ເຂົ້າຊົມ, ເຊິ່ງ<a href=\"/privacy/\">ແຈ້ງການຄວາມເປັນສ່ວນຕົວ</a>ຂອງພວກເຮົາຈະອະທິບາຍສິ່ງທີ່ຖືກເກັບກຳ. ຮູບພາບທີ່ໃຊ້ໃນ <a href=\"/games/photo-pairs/\">Photo pairs</a> ຈະຢູ່ໃນບຣາວເຊີເທົ່ານັ້ນ.</p><h2>ເພີ່ມພວກເຮົາເຂົ້າໃນລາຍການແຫຼ່ງຂໍ້ມູນຂອງທ່ານ</h2><p>ຫາກທ່ານມີລາຍການແຫຼ່ງຂໍ້ມູນສຳລັບຜູ້ດູແລ, ທ່ານສາມາດໃສ່ລິ້ງໄປຍັງ <a href=\"/\">{domain}</a> ໄດ້ຢ່າງເຕັມໃຈ. ທ່ານສາມາດຄັດລອກຂໍ້ຄວາມອະທິບາຍແບບໃດກໍໄດ້.</p>",
+      "shortTitle": "ຄຳອະທິບາຍແບບສັ້ນ",
+      "longTitle": "ຄຳອະທິບາຍແບບຍາວ",
+      "linksHtml": "<p>ໜ້າທີ່ເປັນປະໂຫຍດສຳລັບການເຊື່ອມຕໍ່ລິ້ງໂດຍກົງ: <a href=\"/games/\">ເກມຟຣີ</a>, <a href=\"/activities/printable/\">ເອກະສານສັ່ງພິມໄດ້ຟຣີ</a>, <a href=\"/activities/alzheimers/\">ກິດຈະກຳສຳລັບຜູ້ມີອາການອັນໄຊເມິ</a> ແລະ <a href=\"/caregiving/how-to-play-together/\">ວິທີຫຼິ້ນຮ່ວມກັນ</a>.</p><h2>ຄຳຖາມ ຫຼື ການແຈ້ງແກ້ໄຂ</h2><p>ຫາກມີສິ່ງໃດໃນເວັບໄຊບໍ່ຖືກຕ້ອງ ຫຼື ບໍ່ຈະແຈ້ງ, ຫຼື ສິ່ງທີ່ມີຢູ່ນີ້ຍັງບໍ່ຕອບໂຈດຄວາມຕ້ອງການຂອງຜູ້ພັກເຊົາ, ກະລຸນາບອກພວກເຮົາໄດ້ທີ່ <a href=\"mailto:{email}\">{email}</a>. ກະລຸນາຢ່າສົ່ງຂໍ້ມູນສ່ວນຕົວ ຫຼື ຂໍ້ມູນສຸຂະພາບຂອງຜູ້ພັກເຊົາ ຫຼື ຜູ້ຮັບບໍລິການ.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "ແອັບ Golden Moments",
+      "seoTitle": "ແອັບ Golden Moments ສຳລັບ iPhone ແລະ Android",
+      "description": "ແອັບ Golden Moments ຟຣີ: ເກມຈັບຄູ່ຮູບຖ່າຍທີ່ອ່ອນໂຍນພ້ອມ 4 ແຜ່ນປ້າຍໃຫຍ່, ຮູບຖ່າຍຄອບຄົວຖືກເກັບໄວ້ໃນອຸປະກອນຂອງທ່ານ, ຊຸດຮູບພາບແບບອອບລາຍ ແລະ ບໍ່ຕ້ອງມີບັນຊີ.",
+      "crumb": "ແອັບ",
+      "lede": "ທຸກສິ່ງທີ່ທ່ານມັກກ່ຽວກັບເວັບໄຊ ລວບລວມຢູ່ໃນແອັບທີ່ໃຊ້ງານແບບອອບລາຍໄດ້ ແລະ ສາມາດເລືອກໃຊ້ຮູບຖ່າຍຄອບຄົວຂອງທ່ານເອງ.",
+      "worksOn": "ໃຊ້ງານໄດ້ເທິງ {platforms} ({requirements}).",
+      "bodyHtml": "<h2>ເລີ່ມຕົ້ນເທື່ອລະໜ້ອຍ</h2><p>ເລີ່ມຕົ້ນດ້ວຍແຜ່ນຮູບຂະໜາດໃຫຍ່ 4 ແຜ່ນ ແລະ ຮູບພາບທີ່ຄຸ້ນຕາ. ສາມາດເປີດຮູບພາບໄວ້ໃຫ້ເຫັນຕະຫຼອດ ຫຼື ປິດຮູບໄວ້ເມື່ອຮູ້ສຶກສະບາຍໃຈ. ໂໝດແບບຜ່ອນຄາຍບໍ່ມີການຈັບເວລາ, ບໍ່ມີຄະແນນ ແລະ ບໍ່ມີການຕັດຄະແນນ. ເລືອກໄດ້ 4, 6, 8 ຫຼື 12 ແຜ່ນ.</p><h2>ເລືອກຮູບຂອງຕົນເອງ</h2><p>ເລືອກຮູບພາບຄອບຄົວຈາກອຸປະກອນຂອງທ່ານ. ແອັບຈະບັນທຶກສຳເນົາຂະໜາດນ້ອຍໄວ້ສຳລັບກິດຈະກຳ. ແອັບຈະບໍ່ສະແກນຄັງຮູບ ແລະ ບໍ່ປ່ຽນແປງຮູບພາບຕົ້ນສະບັບຂອງທ່ານ, ພ້ອມທັງເກັບຮູບໄດ້ສູງສຸດ 24 ຮູບໃນໜຶ່ງຊຸດ.</p><h2>ເບິ່ງຮູບໄປນຳກັນ</h2><p>ເບິ່ງຮູບເທື່ອລະຮູບ. ມີຫົວຂໍ້ຊວນລົມທີ່ຊ່ວຍສ້າງບົດສົນທະນາ ໂດຍບໍ່ຈຳເປັນຕ້ອງຈື່ຊື່ ຫຼື ຕອບໃຫ້ຖືກຕ້ອງ. ພຽງແຕ່ເບິ່ງນຳກັນກໍພຽງພໍແລ້ວ.</p><h2>ໃຊ້ງານໄດ້ໂດຍບໍ່ຕ້ອງໃຊ້ອິນເຕີເນັດ</h2><p>ຮູບພາບເລີ່ມຕົ້ນ ແລະ ຊຸດຮູບພາບທັງ 8 ຊຸດມີພ້ອມຢູ່ໃນແອັບແລ້ວ. ສຳເນົາຮູບພາບທີ່ເລືອກເຂົ້າມາສາມາດໃຊ້ງານໄດ້ແບບອອບລາຍ. ການເລືອກຮູບຕົ້ນສະບັບທີ່ເກັບໄວ້ສະເພາະໃນ iCloud ອາດຕ້ອງເຊື່ອມຕໍ່ອິນເຕີເນັດ.</p><h2>ບໍ່ຕ້ອງສ້າງບັນຊີ, ບໍ່ມີການສົ່ງຮູບໄປເຊີບເວີ</h2><p>ສຳເນົາຮູບພາບຄອບຄົວຈະຖືກເກັບໄວ້ໃນແອັບເທິງອຸປະກອນເທົ່ານັ້ນ. ທ່ານສາມາດລຶບສຳເນົາອອກໄດ້ໂດຍບໍ່ກະທົບຮູບຕົ້ນສະບັບ. ການສຳຮອງຂໍ້ມູນອຸປະກອນອາດຮວມເຖິງຂໍ້ມູນແອັບນຳດ້ວຍ. ອ່ານເພີ່ມເຕີມໄດ້ທີ່ <a href=\"/app-privacy/\">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງແອັບ</a>, ແລະ ເບິ່ງ <a href=\"/help/\">ວິທີໃຊ້ງານແອັບ</a> ເຊິ່ງມີຄຳແນະນຳແຕ່ລະຂັ້ນຕອນ.</p>",
+      "disclaimer": "Golden Moments ສ້າງຂຶ້ນເພື່ອຄວາມເພີດເພີນ ແລະ ການສົນທະນາຮ່ວມກັນ. ແອັບນີ້ບໍ່ໄດ້ມີຈຸດປະສົງເພື່ອບົ່ງມະຕິ, ປິ່ນປົວ, ປ້ອງກັນ ຫຼື ວັດແທກພາວະສະໝອງເສື່ອມ ຫຼື ພະຍາດອັນໄຊເມີ.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "ເກມອອນລາຍຟຣີສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ ແລະ ອັນໄຊເມີ",
+    "description": "ເກມອອນລາຍຟຣີສຳລັບຜູ້ສູງອາຍຸທີ່ມີພາວະສະໝອງເສື່ອມ ຫຼື ອັນໄຊເມີ: ຈັບຄູ່ຮູບພາບ, ຕໍ່ຮູບພາບງ່າຍໆ, ຈັດໝວດໝູ່, ຕໍ່ຄຳສຸພາສິດ, ລະບາຍສີ, ບິງໂກ. ບໍ່ຕ້ອງລົງທະບຽນ, ບໍ່ມີການຈັບເວລາ ແລະ ບໍ່ມີຄະແນນ.",
+    "crumb": "ເກມ",
+    "h1": "ເກມທີ່ຜ່ອນຄາຍສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ",
+    "lede": "ເກມຟຣີ {count} ເກມສຳລັບຫຼິ້ນຮ່ວມກັນໃນບຣາວເຊີ. ຮູບພາບຂະໜາດໃຫຍ່, ຂໍ້ຄວາມເຂົ້າໃຈງ່າຍ, ບໍ່ມີຄຳວ່າເຮັດຜິດ: ບໍ່ຈັບເວລາ, ບໍ່ມີຄະແນນ, ບໍ່ຕ້ອງລົງທະບຽນ.",
+    "listName": "ເກມທີ່ຜ່ອນຄາຍສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ",
+    "byStageTitle": "ການເລືອກເກມຕາມໄລຍະຂອງອາການ",
+    "byStageLede": "ໄລຍະຕ່າງໆ ເປັນພຽງຄຳແນະນຳເບື້ອງຕົ້ນເທົ່ານັ້ນ. ໃຫ້ເລືອກຕາມສິ່ງທີ່ຄົນທີ່ທ່ານດູແລມັກ ແລະ ຮູ້ສຶກສະບາຍໃຈໃນແຕ່ລະມື້.",
+    "stageCol": "ໄລຍະ",
+    "gamesCol": "ເກມທີ່ມັກຈະເໝາະສົມ",
+    "moreHtml": "ໄອເດຍກິດຈະກຳເພີ່ມເຕີມໂດຍບໍ່ຕ້ອງໃຊ້ໜ້າຈໍ: <a href=\"/activities/ideas/\">101 ກິດຈະກຳສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ</a>, <a href=\"/activities/alzheimers/\">ກິດຈະກຳ ແລະ ເກມສຳລັບອັນໄຊເມີ</a>, <a href=\"/activities/memory-games/\">ເກມຄວາມຈຳແບບຜ່ອນຄາຍ</a> ແລະ <a href=\"/activities/puzzles/\">ເກມປິດສະໜາ</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "ພວກເຮົາຄວນເລີ່ມຕົ້ນດ້ວຍເກມໃດກ່ອນ?",
+        "a": "ເກມຈັບຄູ່ຮູບພາບແບບ 4 ແຜ່ນ ເປັນທາງເລືອກເລີ່ມຕົ້ນທີ່ຜ່ອນຄາຍ. ຖ້າການເລືອກລະຫວ່າງຮູບພາບຮູ້ສຶກວ່າຫຼາຍເກີນໄປ, ລອງເກມຊອກຫາຮູບທີ່ຄືກັນແບບ 2 ຮູບ. ສຳລັບການຫຼິ້ນເປັນກຸ່ມ, ລອງເກມບິງໂກຮູບພາບ."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "ເກມເຫຼົ່ານີ້ສາມາດຫຼິ້ນໃນ iPad ຫຼື ໂທລະສັບໄດ້ບໍ່?",
+        "a": "ໄດ້. ທຸກເກມສາມາດຫຼິ້ນຜ່ານບຣາວເຊີເທິງໂທລະສັບ, ແທັບເລັດ ແລະ ຄອມພິວເຕີ ໂດຍຮູບພາບຈະຂະຫຍາຍເຕັມໜ້າຈໍ. ການໃຊ້ແທັບເລັດຕັ້ງເທິງຂາຕັ້ງມັກຈະສະດວກສະບາຍທີ່ສຸດສຳລັບການຫຼິ້ນນຳກັນສອງຄົນ."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "ເກມເຫຼົ່ານີ້ເໝາະສຳລັບຜູ້ທີ່ມີພະຍາດອັນໄຊເມີບໍ່?",
+        "a": "ເໝາະສົມ. ເກມເຫຼົ່ານີ້ຖືກອອກແບບມາສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ, ລວມເຖິງພະຍາດອັນໄຊເມີ ເຊິ່ງເປັນສາເຫດທີ່ພົບເລື້ອຍທີ່ສຸດ. ຮູບພາບຈະສະແດງໃຫ້ເຫັນຕະຫຼອດ, ຕົວເລືອກມີບໍ່ຫຼາຍ, ບໍ່ມີການຈັບເວລາ ຫຼື ຄິດໄລ່ຄະແນນ, ເກມຈຶ່ງເນັ້ນໃສ່ການຄຸ້ນເຄີຍກັບສິ່ງທີ່ເຫັນ ແທນທີ່ຈະຕ້ອງຈື່ສິ່ງໃໝ່ໆ."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "ເກມເຫຼົ່ານີ້ແມ່ນເກມຄວາມຈຳສຳລັບຜູ້ສູງອາຍຸແມ່ນບໍ່?",
+        "a": "ເກມເຫຼົ່ານີ້ເປັນເກມຈັບຄູ່ ແລະ ເກມຮູບພາບທີ່ຜູ້ສູງອາຍຸທຸກຄົນສາມາດເພີດເພີນໄດ້, ແຕ່ຖືກສ້າງຂຶ້ນໂດຍບໍ່ໄດ້ມີຈຸດປະສົງເພື່ອທົດສອບຄວາມຈຳ: ໃນເກມຈັບຄູ່ຮູບພາບ ຮູບພາບຈະຫງາຍຢູ່ຕະຫຼອດ ເວັ້ນເສຍແຕ່ທ່ານຈະເລືອກປິດຮູບ. ຄູ່ມືກ່ຽວກັບເກມຄວາມຈຳສຳລັບຜູ້ສູງອາຍຸທີ່ມີພາວະສະໝອງເສື່ອມຂອງພວກເຮົາ ໄດ້ອະທິບາຍວິທີຫຼິ້ນເກມຄວາມຈຳຕ່າງໆ ໃຫ້ຜ່ອນຄາຍ ແລະ ບໍ່ກົດດັນ."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "ມີເກມສຳລັບຫຼິ້ນເປັນກຸ່ມໃນສູນດູແລຜູ້ສູງອາຍຸບໍ່?",
+        "a": "ມີ. ເກມບິງໂກຮູບພາບມີໃບກາດທີ່ສາມາດພິມອອກມາໄດ້ ແລະ ມີຕົວຂານຮູບເທິງໜ້າຈໍ, ສ່ວນເກມຕໍ່ຄຳສຸພາສິດ ແລະ ກາດຊວນລົມກໍເໝາະສຳລັບການອ່ານອອກສຽງໃຫ້ກຸ່ມຟັງ."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad ແລະ Android",
+    "requirements": "iOS 15 ຂຶ້ນໄປ; Android 7.0 ຂຶ້ນໄປ",
+    "summary": "ແອັບຟຣີສຳລັບ iPhone, iPad ແລະ Android ພ້ອມເກມຈັບຄູ່ຮູບພາບແບບຜ່ອນຄາຍເທິງແຜ່ນຮູບຂະໜາດໃຫຍ່ 4 ຫາ 12 ແຜ່ນ, ສາມາດຈັບຄູ່ ແລະ ເບິ່ງຮູບຄອບຄົວທີ່ທ່ານເລືອກເອງ, ແລະ ມີຊຸດຮູບພາບໃນຕົວ 8 ຊຸດທີ່ໃຊ້ໄດ້ໂດຍບໍ່ຕ້ອງມີອິນເຕີເນັດ. ບໍ່ຕ້ອງມີບັນຊີ, ບໍ່ມີໂຄສະນາ, ບໍ່ຈັບເວລາ ແລະ ບໍ່ມີຄະແນນ.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "ເກມຈັບຄູ່ຮູບພາບແບບຜ່ອນຄາຍດ້ວຍແຜ່ນຮູບຂະໜາດໃຫຍ່ 4, 6, 8 ຫຼື 12 ແຜ່ນ; ຮູບພາບຈະເປີດສະແດງໄວ້ຕະຫຼອດ ເວັ້ນເສຍແຕ່ທ່ານເລືອກທີ່ຈະປິດໄວ້",
+      "ຮູບພາບຄອບຄົວທີ່ທ່ານເລືອກຈະຖືກສຳເນົາເຂົ້າໄປໃນແອັບ ສຳລັບການຈັບຄູ່ ແລະ ເບິ່ງຮ່ວມກັນ",
+      "ເບິ່ງຮ່ວມກັນ: ເບິ່ງເທື່ອລະຮູບ ພ້ອມຫົວຂໍ້ຊວນລົມທີ່ເລືອກໄດ້",
+      "ມີຊຸດຮູບພາບ 8 ຊຸດພ້ອມຢູ່ໃນແອັບ; ສາມາດໃຊ້ງານແບບອອບລາຍໄດ້",
+      "ບໍ່ຕ້ອງສ້າງບັນຊີ, ບໍ່ມີໂຄສະນາ, ບໍ່ມີການຊື້ໃນແອັບ, ບໍ່ຈັບເວລາ, ບໍ່ມີຄະແນນ ຫຼື ການຕັດຄະແນນ"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "ມີແອັບກິດຈະກຳສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມບໍ່?",
+        "a": "ມີ. Golden Moments (ໃນຊື່ \"{storeName}\") ເປີດໃຫ້ດາວໂຫຼດຟຣີເທິງ App Store ແລະ Google Play. ມີເກມຈັບຄູ່ຮູບພາບແບບຜ່ອນຄາຍດ້ວຍແຜ່ນຮູບຂະໜາດໃຫຍ່, ເກມທີ່ໃຊ້ຮູບພາບຄອບຄົວທີ່ທ່ານເລືອກ, ແລະ ຊຸດຮູບພາບທີ່ໃຊ້ງານແບບອອບລາຍໄດ້."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "ແອັບ Golden Moments ໃຊ້ຟຣີບໍ່?",
+        "a": "ແມ່ນແລ້ວ. ດາວໂຫຼດຟຣີ, ບໍ່ມີໂຄສະນາ, ບໍ່ຕ້ອງສ້າງບັນຊີ ແລະ ບໍ່ມີການຊື້ເພີ່ມເຕີມໃນແອັບ."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "ແອັບນີ້ໃຊ້ງານໂດຍບໍ່ມີອິນເຕີເນັດໄດ້ບໍ່?",
+        "a": "ໄດ້. ຮູບພາບເລີ່ມຕົ້ນ ແລະ ຊຸດຮູບພາບທັງ 8 ຊຸດມີພ້ອມຢູ່ໃນແອັບແລ້ວ, ແລະ ຮູບພາບຄອບຄົວສາມາດໃຊ້ງານແບບອອບລາຍໄດ້ເມື່ອຖືກສຳເນົາເຂົ້າມາໃນແອັບແລ້ວ. ສ່ວນການເລືອກຮູບທີ່ເກັບໄວ້ສະເພາະໃນ iCloud ອາດຕ້ອງເຊື່ອມຕໍ່ອິນເຕີເນັດ."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "ສາມາດໃຊ້ຮູບພາບຄອບຄົວຂອງຕົນເອງໄດ້ບໍ່?",
+        "a": "ແມ່ນແລ້ວ. ທ່ານສາມາດເລືອກຮູບພາບຜ່ານຕົວເລືອກຮູບໃນອຸປະກອນຂອງທ່ານ. ແອັບຈະເກັບຮູບສະບັບສຳເນົາຂະໜາດນ້ອຍໄວ້ໃນອຸປະກອນເພື່ອໃຊ້ໃນກິດຈະກຳ, ໂດຍບໍ່ມີການອັບໂຫຼດຮູບຂຶ້ນລະບົບ ແລະ ບໍ່ມີການປ່ຽນແປງຮູບຕົ້ນສະບັບເລີຍ. ທ່ານສາມາດລຶບຮູບສຳເນົາເຫຼົ່ານັ້ນອອກໄດ້ທຸກເວລາ."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "ນີ້ແມ່ນແອັບຝຶກສະໝອງ ຫຼື ທົດສອບຄວາມຈຳບໍ່?",
+        "a": "ບໍ່ແມ່ນ. Golden Moments ສ້າງຂຶ້ນເພື່ອຄວາມເພີດເພີນ ແລະ ການໃຊ້ເວລາຮ່ວມກັນ. ບໍ່ມີການນັບຄະແນນ ຫຼື ການທົດສອບ, ແລະ ບໍ່ໄດ້ມີໄວ້ເພື່ອວິນິດໄສ, ປິ່ນປົວ, ປ້ອງກັນ ຫຼື ວັດແທກພາວະສະໝອງເສື່ອມ ຫຼື ໂຣກອານໄຊເມີ."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "ແອັບນີ້ສາມາດໃຊ້ໄດ້ກັບອຸປະກອນໃດແດ່?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "ເກມນີ້ມີເວີຊັນແອັບບໍ່?",
+      "a": "ມີ. ແອັບ Golden Moments ທີ່ໃຫ້ບໍລິການຟຣີສຳລັບ iPhone, iPad ແລະ Android ມີເກມຈັບຄູ່ຮູບພາບທີ່ສະບາຍຕາແບບດຽວກັນ, ສາມາດໃຊ້ຮູບຄອບຄົວທີ່ທ່ານເລືອກເອງໄດ້ ແລະ ຫຼິ້ນແບບອອບລາຍໄດ້. ບໍ່ຕ້ອງສ້າງບັນຊີ, ບໍ່ມີໂຄສະນາ ແລະ ບໍ່ມີການນັບຄະແນນ."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "ເກມນີ້ມີເວີຊັນແອັບບໍ່?",
+      "a": "ເກມນີ້ຍັງບໍ່ທັນມີໃນແອັບ. ແຕ່ແອັບ Golden Moments ທີ່ໃຫ້ບໍລິການຟຣີສຳລັບ iPhone, iPad ແລະ Android ມີເກມຈັບຄູ່ຮູບພາບທີ່ສະບາຍຕາ ພ້ອມແຜ່ນປ້າຍຂະໜາດໃຫຍ່ ແລະ ຮູບຄອບຄົວທີ່ທ່ານເລືອກເອງໄດ້, ທັງຍັງຫຼິ້ນແບບອອບລາຍໄດ້ນຳ. ສຳລັບເກມນີ້ ທ່ານຍັງສາມາດຫຼິ້ນໄດ້ຟຣີຢູ່ທີ່ນີ້ຜ່ານບຣາວເຊີຂອງທ່ານ."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: ຮູບພາບຂະໜາດໃຫຍ່, ສະບາຍຕາ",
+    "noscript": "ເກມນີ້ຕ້ອງການໃຫ້ເປີດໃຊ້ JavaScript ໃນບຣາວເຊີຂອງທ່ານ. ສ່ວນຄຳແນະນຳດ້ານລຸ່ມຍັງສາມາດອ່ານໄດ້ໂດຍບໍ່ຕ້ອງເປີດໃຊ້.",
+    "about": "ກ່ຽວກັບ {name}",
+    "aboutAria": "ກ່ຽວກັບເກມນີ້",
+    "noTimer": "ບໍ່ມີການຈັບເວລາ ຫຼື ນັບຄະແນນ",
+    "printable": "ສາມາດພິມອອກໄດ້",
+    "howTo": "ວິທີຫຼິ້ນ {name}",
+    "tips": "ຄຳແນະນຳສຳລັບການຫຼິ້ນນຳກັນ",
+    "newToPlayingHtml": "ຫາກຫາກໍ່ເລີ່ມຫຼິ້ນເກມກັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ? ອ່ານ<a href=\"/caregiving/how-to-play-together/\">ວິທີຫຼິ້ນເກມຮ່ວມກັນ</a>, ລວມທັງສິ່ງທີ່ຄວນເຮັດຫາກເຂົາເຈົ້າເລີ່ມໝົດຄວາມສົນໃຈ.",
+    "moreAria": "ສິ່ງທີ່ໜ້າສົນໃຈເພີ່ມເຕີມ",
+    "helpfulGuides": "ຄູ່ມືທີ່ເປັນປະໂຫຍດ",
+    "appTitle": "ຫຼິ້ນໃນແອັບ",
+    "appText": "ແອັບ Golden Moments ທີ່ໃຫ້ບໍລິການຟຣີ ມີເກມຈັບຄູ່ຮູບພາບທີ່ສະບາຍຕາ ພ້ອມແຜ່ນປ້າຍຂະໜາດໃຫຍ່ ແລະ ຮູບຄອບຄົວຂອງທ່ານເອງ, ທັງຍັງຫຼິ້ນໄດ້ໂດຍບໍ່ຕ້ອງໃຊ້ Wi‑Fi. iPhone, iPad ແລະ Android.",
+    "photoAppTitle": "ກຽມຮູບພາບຂອງທ່ານໃຫ້ພ້ອມ",
+    "photoAppText": "ໃນແອັບ Golden Moments ທີ່ໃຫ້ບໍລິການຟຣີ, ຮູບພາບທີ່ທ່ານເລືອກຈະຖືກເກັບໄວ້ໃນອຸປະກອນຂອງທ່ານສຳລັບຄັ້ງຕໍ່ໄປ ແລະ ສາມາດຫຼິ້ນເກມໄດ້ໂດຍບໍ່ຕ້ອງໃຊ້ Wi‑Fi. iPhone, iPad ແລະ Android.",
+    "goodToKnow": "ຂໍ້ຄວນຮູ້",
+    "goodToKnowText": "ເກມນີ້ສ້າງຂຶ້ນເພື່ອຄວາມເພີດເພີນ ແລະ ການໃຊ້ເວລາຮ່ວມກັນ. ບໍ່ໄດ້ມີໄວ້ເພື່ອທົດສອບ, ວັດແທກ ຫຼື ປິ່ນປົວສິ່ງໃດເລີຍ.",
+    "moreGames": "ເກມທີ່ຫຼິ້ນສະບາຍເພີ່ມເຕີມ",
+    "crumb": "ເກມ"
   }
 }

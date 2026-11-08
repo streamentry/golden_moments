@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Vhalani nga nngu",
+      "stopReading": "Fhedzani u vhala",
+      "region": "Mutambo",
+      "restart": "Thomani hafhu",
+      "soundOn": "Mireṱo ya tshiṱuku i a shuma",
+      "soundOff": "Mireṱo ya tshiṱuku i a imisa",
+      "done": "Ri fhedza zwino",
+      "feedbackQuestion": "Zwo thusa namusi?",
+      "feedbackYes": "Ee",
+      "feedbackNo": "Hai zwavhuḓi",
+      "feedbackThanks": "Ro livhuwa u ri vhudza."
+    },
+    "tile": {
+      "named": "{name}, tayili ya {n}",
+      "hidden": "Tshifanyiso tshi fhisiwaho, tayili ya {n}",
+      "withState": "{label}, {state}",
+      "matched": "Zwo fanana",
+      "selected": "Yo khethiwa",
+      "picture": "Tshifanyiso",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Zwiṅwe zwothe zwo vhumbiwa. Tambani hafhu kana ṱuwani.",
+      "photoPair": "Foto mbili dzi fanana, dzi vhumbiwa.",
+      "picturePair": "Zwifanyiso zwiviri zwa {name|lower}, zwi vhumbiwa.",
+      "selected": "{name}. Zwino wanani tshifanyiso tshi fanaho nacho.",
+      "mismatch": "Ni nga ṱuwa. Tshinyani tshifanyiso u ya phanḓa.",
+      "mismatchNamed": "{a} na {b}. Ni nga ṱuwa. Tshinyani tshifanyiso u ya phanḓa."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tshinyani tshifanyiso, hezwi tshinyani tshi fanaho nacho.",
+      "guidanceHidden": "Tshinyani tayili mbili u i fhindula. Lavhelani zwiviri zwo fanana.",
+      "restart": "Zwifanyiso zwitsva",
+      "sizeLegend": "Tayili dzingafhani",
+      "size": {
+        "one": "Tayili ya {n}.",
+        "other": "Tayili dza {n}."
+      },
+      "viewLegend": "U tamba hani",
+      "viewShowing": "Zwifanyiso zwi tshi vhonala",
+      "viewHidden": "Zwifanyiso zwi fhisiwaho",
+      "playAgain": "Tambani hafhu nga zwifanyiso zwitsva.",
+      "talk": "Ambani nga zwifanyiso zwenezwi, ni tshi vhumbiwa."
+    },
+    "choose": {
+      "countLegend": "Zwifanyiso zwingafhani",
+      "count": "{n} zwa u khetha",
+      "thatOne": "Hezwi ndi {name|lower}. Ni nga ṱuwa."
+    },
+    "findTheSame": {
+      "guidance": "Vhonani tshifanyiso tshi re phanḓa. Tshinyani tshi fanaho tshi re fhasi.",
+      "yes": "Ee, ndi {name|lower} i fanaho.",
+      "next": "Tshifanyiso tshi tevhelaho"
+    },
+    "shadowMatch": {
+      "guidance": "Vhonani thithi i re phanḓa. Tshinyani tshifanyiso tshi fanyisaho thithi iyo.",
+      "yes": "Ee, {name|lower} i ita thithi iyo.",
+      "next": "Thithi i tevhelaho",
+      "shadowAlt": "Thithi ya u fanyisa",
+      "foundAlt": "Thithi ya {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tshinyani tshifanyiso, hezwi tshinyani tshivhalo tshe tshi ya kha tshone.",
+      "restart": "Zwifanyiso zwitsva",
+      "themeLegend": "Thandanyo",
+      "selected": "{name}. Zwino tshinyani tshivhalo tshe tshi ya kha tshone.",
+      "pickFirst": "Tshinyani tshifanyiso kha u thoma, hezwi tshinyani tshivhalo.",
+      "hint": "{name|lower} i nga ya kha \"{basket}\". Tshinyani tshivhalo tshiṅwe nga tshiṅwe u i fhambanyisa henefho.",
+      "placed": "{name|lower} i kha \"{basket}\".",
+      "sorted": "Zwothe zwo fhambanyiswa. Vhonani zwivhalo zwothe nga u vhumbiwa, kana ni linge thandanyo nnwe.",
+      "basket": {
+        "one": "Tshivhalo tsha {basket}, tshifanyiso tshi {count} tshi re ngayo",
+        "other": "Tshivhalo tsha {basket}, zwifanyiso zwi {count} zwi re ngayo"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tshinyani tshipiḓa tshimwe, hezwi tshinyani tshinwe. Zwi a shandukisana fhethu.",
+      "restart": "Vhuvhanganyani hafhu",
+      "pictureLegend": "Tshifanyiso",
+      "pictures": {
+        "sailboat": "Bwato ḽa muya",
+        "house": "Ndu",
+        "balloon": "Balune",
+        "sunflower": "Rovha ya ḽanga",
+        "lighthouse": "Tshiṱaṱa tsha mulilo",
+        "cat": "Katsi"
+      },
+      "sizeLegend": "Zwipiḓa",
+      "size": {
+        "one": "Tshipiḓa tshi {n}.",
+        "other": "Zwipiḓa zwi {n}."
+      },
+      "pickedUp": "Tshipiḓa tsha kwamiwa. Zwino tshinyani fhethu he tshi fanela u ya hone.",
+      "whole": "{name|lower} yo vhuya ya fhelela. Khetha tshifanyiso tshinwe nḓila ine ni takalela.",
+      "swapped": {
+        "one": "Zwo shandukiswa. {correct} ya {total} tshipiḓa tshi kha fhethu hayo.",
+        "other": "Zwo shandukiswa. {correct} ya {total} zwipiḓa zwi kha fhethu zwazwo."
+      },
+      "guideAlt": "Tshifanyiso tshothe: {name}",
+      "guideText": "Hezwi ndi zwine tshifanyiso tshi vhonala musi tshi fhelela.",
+      "piece": "Tshipiḓa kha {place}",
+      "pieceInPlace": ", kha fhethu ha u fanela",
+      "piecePickedUp": ", tshi kwamiwa",
+      "places4": [
+        "phanḓa ḽeṱuwa",
+        "phanḓa ḽaṱali",
+        "fhasi ḽeṱuwa",
+        "fhasi ḽaṱali"
+      ],
+      "places9": [
+        "phanḓa ḽeṱuwa",
+        "phanḓa vhukati",
+        "phanḓa ḽaṱali",
+        "vhukati ḽeṱuwa",
+        "vhukati",
+        "vhukati ḽaṱali",
+        "fhasi ḽeṱuwa",
+        "fhasi vhukati",
+        "fhasi ḽaṱali"
+      ],
+      "done": "Tshifanyiso tshi fhelela hafhu. Tambani hafhu kana ṱuwani.",
+      "playAgain": "Vhuvhanganyani hafhu."
+    },
+    "finishTheSaying": {
+      "guidance": "Vhalani luambo nga u vhumbiwa, hezwi tshinyani inyimo yo fhedzaho.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ee, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" yo fhelela nayo. Luambo lwa tshoḓa lu fhela nga \"{end}\".",
+      "revealed": "Luambo ndi \"{start} {end}.\"",
+      "choicesLabel": "Khetha inyimo ya u fhedza",
+      "show": "Sumbedzani mafhedzo",
+      "talk": "Ambani nga zwo: ",
+      "next": "Luambo lwo tevhelaho"
+    },
+    "wordSearch": {
+      "guidance": "Mafhungo a ya kha tshiṱanḓa kana fhasi. Tshinyani tshiṱanḓa tsha u thoma tsha lehe, hezwi tshinyani tsha u fhedza.",
+      "restart": "Tshiṱuṱuwedzo tshitsva",
+      "themeLegend": "Thandanyo",
+      "sizeLegend": "Vhukhulu ha gridi",
+      "size": {
+        "one": "{n} nga {n} ({words} ḽiṅwe)",
+        "other": "{n} nga {n} ({words} mafhungo)"
+      },
+      "print": "Pirinthani tshiṱuṱuwedzo itshi",
+      "letterChosen": "Tshiṱanḓa {letter} tshi khethiwa. Zwino tshinyani tshiṱanḓa tsha u fhedza tsha lehe.",
+      "found": "{word} yo wanala.",
+      "foundAll": "{word} yo wanala. Hezwo ndi mafhungo othe. Tambani hafhu kana ṱuwani.",
+      "tryAgain": "Ni nga ṱuwa. Tshinyani tshiṱanḓa tsha u thoma tsha lehe, hezwi tsha u fhedza.",
+      "gridLabel": "Gridi ya tshiṱanḓa, mirwe {n} ya tshiṱanḓa {n}. Shumisani makiyi a mutsivho u ya kha tshiṱanḓa tshi tevhelaho.",
+      "cell": "{letter}, mutsheo {row}, kholomo {col}",
+      "cellFound": ", karo ya lehe le la wanala",
+      "wordsHeading": "Mafhungo a u wana",
+      "wordFound": " (yo wanala)",
+      "sheetTitle": "U wana mafhungo: {theme}",
+      "sheetNote": "Mafhungo a ya kha tshiṱanḓa kana fhasi.",
+      "unavailable": "Gridi ya tshiṱanḓa a i fanele luambo lwenelwo, ngauri u wana mafhungo a hu si hone henefho. Edzani mitambo ya zwifanyiso."
+    },
+    "coloring": {
+      "guidance": "Tshinyani vhumbeo, hezwi tshinyani tshipiḓa tsha tshifanyiso.",
+      "restart": "Fhufhulani zwivhumbeo",
+      "cleared": "Peji i tshi vhuya i sa ri na tshithu.",
+      "pageLegend": "Peji",
+      "print": "Pirinthani peji iyi",
+      "colorsLabel": "Zwivhumbeo",
+      "paintChosen": "{paint} yo khethiwa.",
+      "painted": "{part} i vhumbiwa nga {paint|lower}.",
+      "artLabel": "{page}, zwipiḓa zwa u vhumbiwa {count}",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, a hu si ya vhumbiwa",
+      "paints": {
+        "red": "Tswuku",
+        "orange": "Orenji",
+        "yellow": "Yelo",
+        "green": "Tswayo",
+        "blue": "Blu",
+        "purple": "Pureple",
+        "pink": "Pinki",
+        "brown": "Ṱhoṱho",
+        "sky-blue": "Blu ya tshitshingo",
+        "cream": "Kiriimu",
+        "gray": "Gireyi",
+        "white": "Tshena"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Vhalani kharadi nga nngu. A hu na mpendulo dzo lugiswaho.",
+      "position": "Kharadi {n} ya {total}",
+      "themeLegend": "Thandanyo",
+      "next": "Kharadi i tevhelaho",
+      "previous": "Kharadi i fhiraho",
+      "print": "Pirinthani kharadi dzothe",
+      "sheetTitle": "Kharadi dza u ambelana"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Thoma nga u khetha foto dzanu.",
+      "guidance": "Tshinyani foto, hezwi tshinyani ya tshi fanaho nayo.",
+      "restart": "Vhuvhanganyani hafhu",
+      "intro": "**Khetha foto dza 2 u ya kha 6** kha ḽa ḽa yone. Dzi sumbedziwa henefho fhedzi, a dzi lingwi u ṱuṱuwedzwa kana u sevhelwa.",
+      "choose": "Khetha foto",
+      "chooseDifferent": "Khetha foto dzi sa fani",
+      "clear": "Fhufhulani foto",
+      "cleared": "Foto dzo fhufhuliwa kha peji iyi.",
+      "atLeastTwo": "Ni humbelwa u khetha foto dza mbili nthihi.",
+      "usingFirst": "Ri shumisa foto dza u thoma dza {max}.",
+      "skipped": {
+        "one": "Fayili ya {count} a i ndi foto ye ri nga i sumbedza.",
+        "other": "Fayili dza {count} a dzi ndi foto dzine ri nga dzi sumbedza."
+      },
+      "playAgain": "Tambani hafhu nga foto idzi.",
+      "empty": "Foto dzanu dzi ḓo vhonala henefha, ya nḓila mbili."
+    },
+    "pictureBingo": {
+      "guidance": "Pirinthani kharadi u thoma. Hezwi sumbedzani muṱanganyi uyu kha sikirini khulu ine ni nayo.",
+      "called": {
+        "one": "{name}. Tshifanyiso tsha {called} kha {total} tsho vhidzwa.",
+        "other": "{name}. Zwifanyiso {called} kha {total} zwo vhidzwa."
+      },
+      "start": "Tshinyani \"Tshifanyiso tshi tevhelaho\" u vhidza tshifanyiso tsha u thoma.",
+      "restart": "Thomani mutambo mutsva",
+      "squaresLegend": "Zwikwere kha kharadi nngwe nngwe",
+      "squares": "{n} zwikwere ({side} nga {side})",
+      "cardsLegend": "Kharadi dzingafhani dza u pirinthiwa",
+      "cards": {
+        "one": "Kharadi ya {n}",
+        "other": "Kharadi dza {n}"
+      },
+      "print": {
+        "one": "Pirinthani kharadi ya bingo ya {n}.",
+        "other": "Pirinthani kharadi dza bingo dza {n}."
+      },
+      "ready": "Ri konḓelela musi ni tshi konḓelela",
+      "next": "Tshifanyiso tshi tevhelaho",
+      "allCalled": "Zwifanyiso zwothe zwo vhidzwa.",
+      "alreadyCalled": "Yo no vhidzwa.",
+      "sheetTitle": "Bingo ya zwifanyiso · kharadi {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Fufhelani musi tshiṋwe tshi tshi vha tshikhulu, nahone fhulufhelani musi tshi tshi vha tshiṱuku. Tshi ḓo ima nga boḽa musi ni fulufhela nga mbili nthihi.",
+      "paceLegend": "Nḓila",
+      "paceSlow": "Vhuthihi (sekhondo 5 nga ḽiṅwe na ḽiṅwe)",
+      "paceGentle": "Nga ṱhoḓisa (sekhondo 4 nga ḽiṅwe na ḽiṅwe)",
+      "ready": "Ro vha ro ḓo ita zwenezwo musi ni tshi ḓo",
+      "in": "Fufhelani",
+      "hold": "Ṱhoḓisani",
+      "out": "Fhulufhelani",
+      "start": "Thoma",
+      "stop": "Imani",
+      "started": "Zwo thoma. Fufhelani musi tshiṋwe tshi tshi khulu.",
+      "stopped": "Zwo imela.",
+      "finished": "Zwo vha zwa mbili nthihi dza u fhulufhela nga vhuthihi. Ni nga thoma hafhu musi ni tshi ṱoḓa."
+    }
+  },
+  "pictures": {
+    "teacup": "Kapu ya tii",
+    "kettle": "Kiṱili",
+    "bread": "Bureda",
+    "frying-pan": "Pani ya fulai ine ya vha na ḽanyi",
+    "cake": "Keke ya tshivhidzo",
+    "sunflower": "Luvhone ḽa ḽanga",
+    "tulip": "Tulipu ṱhukhu",
+    "watering-can": "Ṱhoḽo ya u ṋanga",
+    "potted-plant": "Tshimela kha ṱhoḽo",
+    "tree": "Muḓi",
+    "bird": "Tshinyoni kha thavha",
+    "butterfly": "Tshivhapfu",
+    "dog": "Mbwa",
+    "cat": "Katsi",
+    "fish": "Hũthi ya ngolide",
+    "apple": "Apulo ṱhukhu",
+    "pear": "Pere",
+    "strawberry": "Stiroberi",
+    "banana": "Banana",
+    "lemon": "Lemoni",
+    "cherries": "Tsheri",
+    "house": "Nndu",
+    "lamp": "Lamba ya tafula",
+    "armchair": "Tshiṱulo tsha u dzula",
+    "key": "Tshikiri tsha kale",
+    "umbrella": "Tshimbulu",
+    "sailboat": "Tshikepe tsha mabelu",
+    "car": "Moṱo wa kale",
+    "bicycle": "Bayisikeli",
+    "balloon": "Balune ya moya",
+    "lighthouse": "Tshiṱaiṱa tsha mulilo",
+    "sun": "Ḽanga",
+    "moon": "Ṅwedzi na nyeledzi",
+    "teapot": "Pitsi ya tii",
+    "apple-pie": "Paii ya apulo",
+    "honey-jar": "Pote ya uchi",
+    "boiled-egg": "Ḽanyi kha kapu ya ḽanyi",
+    "toaster": "Thosti",
+    "cheese": "Tshizi",
+    "milk-jug": "Pitsi ya mashi",
+    "cupcake": "Kapukeke",
+    "orange": "Orenji",
+    "grapes": "Dzambari",
+    "watermelon": "Mutavha",
+    "pineapple": "Phinafuru",
+    "peach": "Phishi",
+    "rose": "Rose",
+    "daisies": "Dzeisi",
+    "mushroom": "Muroho",
+    "wheelbarrow": "Tulu ya mavu",
+    "birdhouse": "Ndu ya tshinyoni",
+    "cactus": "Kaktasi kha ṱhoḽo",
+    "acorn": "Mbeu ya mugalu",
+    "autumn-leaf": "Tshivhuli tsha tshilimo",
+    "rabbit": "Mbulungu",
+    "duck": "Tshidaka",
+    "hen": "Khuku",
+    "sheep": "Nngu",
+    "owl": "Nḓiḓili",
+    "ladybird": "Tshikhatso",
+    "snail": "Mbwiḽi",
+    "frog": "Tshiḽodi",
+    "bee": "Nyuku",
+    "clock": "Ḽiḽoko ḽa mbeḽe",
+    "vase-of-flowers": "Ṱhoḽo ya luvhone",
+    "radio": "Redio ya kale",
+    "books": "Vhukwamu ha mabuku",
+    "candle": "Kandele",
+    "glasses": "Miṱhaḓa ya u vhala",
+    "telephone": "Foni",
+    "ball-of-wool": "Kubilo ya vhuḓi",
+    "straw-hat": "Ḽikhoṱhi ḽa ḽanga",
+    "train": "Tshitimela tsha mutsi",
+    "bus": "Bazi",
+    "airplane": "Ndege",
+    "suitcase": "Sutikheisi",
+    "tractor": "Thirakitha",
+    "rowing-boat": "Tshikepe tsha u ṱusa",
+    "rainbow": "Mutalo",
+    "rain-cloud": "Tshidzudzu tsha mvula",
+    "snowflake": "Muvhodo wa tshisi",
+    "kite": "Kaite",
+    "sunrise": "Ḽanga ḽi tshi bva kha tundu"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "AEFGHIKLMOPRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Zwiṱhavhi",
+          "words": [
+            "APULO",
+            "PERE",
+            "PULUMU",
+            "LEMONI",
+            "DZAMBA",
+            "PHISHI",
+            "MELONI",
+            "LAIME",
+            "FIKI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Tshigadi",
+          "words": [
+            "ROSE",
+            "TULIPU",
+            "MBEU",
+            "MAVU",
+            "VHULI",
+            "MUDI",
+            "DZEISI",
+            "DZIBA",
+            "NYUKU"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kichini",
+          "words": [
+            "KAPU",
+            "SPUNI",
+            "BUREDA",
+            "PANE",
+            "BOLO",
+            "PLETE",
+            "TII",
+            "OFENI",
+            "FORKI"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tshifhinga tsha mupo",
+          "words": [
+            "LANGA",
+            "MVULA",
+            "TSHISI",
+            "MOYA",
+            "DZUDZU",
+            "DZIVHO",
+            "MUFU",
+            "NTHU",
+            "FHISA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Zwipfuwo",
+          "words": [
+            "MBWA",
+            "KATSI",
+            "NYONI",
+            "HUTHI",
+            "HOSI",
+            "KHOLO",
+            "DAKA",
+            "MBUDZI",
+            "KHUKU"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ndu",
+          "words": [
+            "THOHO",
+            "TULO",
+            "LAMBA",
+            "BEDI",
+            "KHAPI",
+            "SOFA",
+            "WATSHI",
+            "TAFULA",
+            "KIRI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Zwothe",
+        "food": "Zwiḽiwa",
+        "home": "Ndu",
+        "outdoors": "Nnḓa",
+        "animals": "Zwipfuwo",
+        "travel": "U ya ulendoni",
+        "work": "Mushumo na zwiṱuḓea",
+        "music": "Muziki na u takala",
+        "seasons": "Minwedzi"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ndi ipfi ipi ya tshitoho tshine na tshi takalisa?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ndi keke ipi ye na ḓo khetha musi hu tshi vha na tshivhidzo?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ambiwani nga pai kana dezeṱi ya zwiṱhavhi ine na i funa."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Ndi u funa tii kana kofi hani?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ndi zwiḽiwa zwipi zwine zwa ita mugwama wa maduvha manzhi?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ni tshi kha ḓi vha ni tshi kha ḓi kuvhanganya zwiṱhavhi zwo bva kha tshimela?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Ndi u funa u vhavha kana u vhavha hu si hu vhavhe?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ndi zwiḽiwa zwipi zwine zwa ṱanganyisa tshifhinga tsha zwi ṱuwaho?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ambiwani nga nndu ine na i takalela u dzula kha yone."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ndi fhethu hi ipi hine na ḓo takala u dzula na u ḓi ṱhogomela?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ndi zwiṱuḓea zwipi zwine na zwi takalela musi zwi tshi vha zwa u ḓi ṱhogomela?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ndi zwiṋwe zwipi zwine na ḓo zwi vhulunga kha bogisi ya khethekanyo?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ndi ndi mini ane na ḓo mu ṱanganyisa kha kapu ya tii?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ndi zwiṱuḓea zwipi zwine na zwi takalela musi mvula i tshi na?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ndi luvhone ḽipi ḽine na ḓo ḽi ṱanga kha tshigadi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ambiwani nga muḓi kana pakhe ine na i takalela."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Ndi ndi fhethu hufhio hu tshi vhuya hu takalisa kha tshigadi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Ndi luvhone ḽa mivhala ipi ḽine na ḽi takalela nga maanḓa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ndi u takalela u vha na zwimela nnḓuni?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ndi maduvha a ḽanga a zwavhuḓi ndi afhio?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ambiwani nga mbwa ine na i ṱoḓa."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katsi kana mbwa, kana a hu na nnyi? Ndi zwifhio zwine na zwi takalela kha zwone?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Ndi tshinyoni dzifhio dzine na dzi vhona kana u dzi pfa ngaṋa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ndi na vha no tshi ṱoḓa kana u vha na hũthi kha ṱhanka?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ndi zwipfuwo zwifhio zwine na zwi ṱhoḓea zwi tshi ṱhogomela?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ambiwani nga moṱo une na wu takalela."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ni ḓo ṱoḓa u vha maduvha a lwanḓe kana a dzi ṱhavhani?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ndi fhethu hufhio hune na ḓo takala u ya hone nga bayisikeli?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Ndi fhethu hufhio hune na ḓo takala u hu tsha nga balune?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ndi ulendo ufhio hune na wu takalela?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Ndi mushumo mufhio une na wu takalela u ita?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ndi zwiṱuḓea zwifhio zwine na zwi vha na u ṱhogomela maawa a mvelaphanḓa?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ndi zwiṋwe zwifhio zwine na zwi vha zwo ḓivhea nga u zwi ita kana u zwi lulamisa?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ndi zwifhio zwine na zwi ḓo ṱoḓa u ambela muṅwe muṱali a tshi thoma mushumo?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ndi mvumo ipi ye ya ṱhoḓisa u dzhenisa maoro kha mutakalo?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ndi zwifhio zwine zwa ita phathi ya tshiṱuku ya u takala?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ndi muimbi ufhio ane na takalela u mu pfa?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ndi filimu kana pfanelo ipi ye na ḓo takalela u i ṱalutshedza hafhu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Ndi zwifhio zwine na zwi takalela nga maanḓa kha ṱhanganelo ya zwishango?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Ndi zwifhio zwine na zwi takalela nga ha ṱhanganelo ya fhethu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ndi zwifhio zwine zwa vha zwa u funza kha vhufuṱi ha vhusiku ha mafhi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Ndi zwiga zwifhio zwine zwa u thoma zwa tshifhinga tsha mathomo kha inwi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Dzidzi, mvula kana ḽanga: ndi ifhio ine na i takalela nga maanḓa?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Luvhone kha ṱhoḽo",
+          "regions": {
+            "sky": "Shango",
+            "table": "Tafula",
+            "stem": "Tshiṱhu",
+            "leaf-left": "Vhuli ḽa ḽeṱhu",
+            "leaf-right": "Vhuli ḽa ḽanḓa",
+            "petal-1": "Gala 1",
+            "petal-2": "Gala 2",
+            "petal-3": "Gala 3",
+            "petal-4": "Gala 4",
+            "petal-5": "Gala 5",
+            "petal-6": "Gala 6",
+            "petal-7": "Gala 7",
+            "petal-8": "Gala 8",
+            "center": "Tsheo ya luvhone",
+            "pot": "Ṱhoḽo",
+            "pot-rim": "Muṱanḓo wa ṱhoḽo"
+          }
+        },
+        "house": {
+          "name": "Nndu",
+          "regions": {
+            "sky": "Mupo",
+            "sun": "Ḽanga",
+            "grass": "Mutshe",
+            "chimney": "Tshimbo",
+            "walls": "Madindi",
+            "roof": "Denga",
+            "door": "Thoho",
+            "window-left": "Fasiri ḽa ḽeṱhu",
+            "window-right": "Fasiri ḽa ḽanḓa",
+            "path": "Tshiṱaḓa"
+          }
+        },
+        "teacup": {
+          "name": "Kapu ya tii",
+          "regions": {
+            "background": "Shango",
+            "saucer": "Tshiṱiṱi tsha kapu",
+            "handle": "Mbuṱo",
+            "cup": "Kapu",
+            "band": "Mutsimo kha kapu",
+            "tea": "Tii"
+          }
+        },
+        "butterfly": {
+          "name": "Tshivhapfu",
+          "regions": {
+            "background": "Shango",
+            "wing-top-left": "Phapu ḽa ḽeṱhu ḽa ṱhoḓoni",
+            "wing-top-right": "Phapu ḽa ḽanḓa ḽa ṱhoḓoni",
+            "wing-bottom-left": "Phapu ḽa ḽeṱhu ḽa fhasi",
+            "wing-bottom-right": "Phapu ḽa ḽanḓa ḽa fhasi",
+            "spot-left": "Tshiṱuku tsha phapu ḽa ḽeṱhu",
+            "spot-right": "Tshiṱuku tsha phapu ḽa ḽanḓa",
+            "body": "Muvhili"
+          }
+        },
+        "sailboat": {
+          "name": "Tshikepe tsha mabelu",
+          "regions": {
+            "sky": "Mupo",
+            "sea": "Lwanḓe",
+            "sail-big": "Belu khulu",
+            "sail-small": "Belu ḽiṱuku",
+            "mast": "Mutṱhu",
+            "hull": "Tshikepe",
+            "flag": "Bendera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kichini na gadeni",
+          "baskets": [
+            "Kha khitshini",
+            "Kha gaadeni"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Zwiṱhavhi na zwipfuwo",
+          "baskets": [
+            "Zwiṱhavhi",
+            "Zwipfuwo"
+          ]
+        },
+        "home-travel": {
+          "label": "Hayani na u fhambana",
+          "baskets": [
+            "Kha hayani",
+            "Kha u fhambana"
+          ]
+        }
+      }
+    }
+  }
+}

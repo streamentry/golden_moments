@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Govvapárat",
+    "seoTitle": "Párrastanspeallu demensa várás: Govvapárat",
+    "h1": "Govvapárat: ráfálaš párrastanspeallu",
+    "description": "Nuvttá ja ráfálaš párrastanspeallu olbmuide geain lea demensa. Stuorra govat oidnojit oppa áigge, dás ii leat áigegeahčadeapmi ii ge čuoggát, ja beassabeahtti válljet 4 gitta 12 govvakoartta.",
+    "short": "Oza daid guokte gova mat leat seammálágánat. Govat sáhttet oidnot oppa áigge.",
+    "players": "1 dahje 2 olbmo, bálddalaga",
+    "intro": "Deaddil gova, ja deaddil dasto dan mii heive dasa. Govat oidnojit oppa áigge, nu ahte ii mihkkege dárbbaš muitit. Go guokte gova heiveba oktii, de daidda boahtá golleravda ja riekta-mearka.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Vállje galle govvakoartta geavahat. Njeallje koartta lea ráfálaš álgu.",
+      "Deaddil man beare gova. Dasa boahtá golleravda.",
+      "Deaddil dan gova mii lea seammálágán. Pára bissu ovttas ja oažžu riekta-mearkka.",
+      "Juos govat leaba iešguđetláganat, ii dáhpáhuva mihkkege heitogiid. Deaddil fas go leat gárvvis.",
+      "Coggge «Čihkkon govat» fal dalle juos goappašagat liikobeahtti dábálaš veršuvdnii gos govat leat jorggu."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Nammeheahkki govaid jitnosit ovttas ja hálešteahkki daid birra: «Rukses teagohppu. Liikot go mielkái teajasat?»",
+      "Divtte olbmo gean fuolahat deaddilit ieš, vaikko dat válddášii veaháš áigge. Čujut baicce go deaddilat su beales.",
+      "Biso njealji koarttas nu guhká go dat orru buorren. Eanet koarttat leat válljenmunni, eai goassege dássemearri mii galggašii olahuvvot.",
+      "Heaitti dalle go lea vel suohtas. Okta speallu lea ollislaš doibma."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Lea go dás áigi dahje čuoggát?",
+        "a": "Ii. Dás ii leat diibmu, eai leat čuoggát, lihkastatlohkki ii ge vuoittahallan. Sáhtát heaitit goas beare, ja gaskkamuttos heaitin lea áibbas buorre vuohki loahpahit."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Manne govat oidnojit oppa áigge?",
+        "a": "Go govat oidnojit, de speallu šaddá geahčadeapmin ja heiveheamin muitima sajis. Ollugat atnet dán ráfálabbon. Sáhtát molsohit čihkkon govaide ovttain deaddilemiin juos háliidat."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Lea go dát nuvttá, ja ferten go dieđihit iežan?",
+        "a": "Joo, dat lea nuvttá, eai ge gáibiduvvo geavaheaddjedovddaldat, dieđiheapmi dahje viežžan. Dat doaibmá fierbmelohkkis telefovnnas, dihtortableahtas dahje dihtoris."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Sáhttit go geavahit iežamet bearašgovaid?",
+        "a": "Joo. Geahččal spealu Photo pairs, mainna beassabeahtti válljet govaid du reaidus. Govat bissot du fierbmelohkkis eai ge sirdojuvvo eará sajiide."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Oza seammálágána",
+    "seoTitle": "Oza seamma gova: Álkes speallu olbmuide geain lea demensa",
+    "h1": "Oza seamma gova",
+    "description": "Okta govva bajimusas, guokte gitta njeallje vuolimusas. Deaddil dan mii lea seammálágán. Ráfálaš ja nuvttá govvaspeallu olbmuide geain lea demensa, mas ii leat áigegeahčadeapmi.",
+    "short": "Geahča gova bajimusas ja deaddil seamma gova vuolimusas.",
+    "players": "1 dahje 2 olbmo",
+    "intro": "Oktonas govva lea šearpma bajagettis. Dan vuolábealde leat guokte, golbma dahje njeallje gova. Deaddil dan mii lea seammálágán. Dás lea okta álkes válljen háválassii, ja buorre áigi ságastallat.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Vállje guokte, golbma dahje njeallje gova maid gaskkas válljet. Guokte lea buot álkkesumus.",
+      "Geahčadeahkki bajimus gova ovttas.",
+      "Deaddil seamma gova vuolábealde. Dat merkejuvvo riekta-mearkkain ja muhtin liegga sániiguin.",
+      "Juos deaddiluvvo eará govva, speallu dušše namuha dan ja vuordá. Váldeahkki áiggi.",
+      "Deaddil «Boahtte govva» go leat gárvvis fas ođđa govvii."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Hálešteahkki iešguđege gova birra ovdal go válljebeahtti: ivnniid, hámiid ja gos dan sáhttá oaidnit.",
+      "Guokte molssaeavttu eai leat «menddo álki». Ulbmil lea suohtas boddu, ii ge hástalus.",
+      "Juos deaddileapmi lea váttis, de olmmoš sáhttá čujuhit ja don deaddilat su beales."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Lea go dás áigi dahje čuoggát?",
+        "a": "Ii. Dás ii leat diibmu, eai leat čuoggát, lihkastatlohkki ii ge vuoittahallan. Sáhtát heaitit goas beare, ja gaskkamuttos heaitin lea áibbas buorre vuohki loahpahit."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Mii dáhpáhuva juos deaddila boastto gova?",
+        "a": "Ii mihkkege unohas. Dás ii leat jietnačuodji, rukses ruossa ii ge hehkken. Speallu namuha gova mii deaddiluvvui ja vuordá boahtte deaddileami."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Lea go dát nuvttá, ja ferten go dieđihit iežan?",
+        "a": "Joo, dat lea nuvttá, eai ge gáibiduvvo geavaheaddjedovddaldat, dieđiheapmi dahje viežžan. Dat doaibmá fierbmelohkkis telefovnnas, dihtortableahtas dahje dihtoris."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Suoivvanspeallu",
+    "seoTitle": "Suoivvanpárrastanspeallu demensa várás: Nuvttá neahtas",
+    "h1": "Suoivvanspeallu: ráfálaš govvaspeallu",
+    "description": "Sevdnjes suoivvan bajimusas, guokte gitta njeallje gova vuolimusas. Deaddil gova mii ráhkada suoivvana. Nuvttá ja ráfálaš suoivvanspeallu demensa várás, mas ii leat áigegeahčadeapmi.",
+    "short": "Geahča suoivvana ja deaddil gova mii lea dan suoivvan.",
+    "players": "1 dahje 2 olbmo",
+    "intro": "Suoivvaniid párrastan lea oahpes bargobihttá prentejuvvon árkkain, muhto dás leat stuorra govat eai ge dárbbašuvvo prentejuvvot. Leahttohis suoivvan lea šearpma bajagettis ja guokte, golbma dahje njeallje gova vuordet vuolábealde. Deaddil gova mii ráhkada suoivvana. Dakkár hámiid birra nugo sihkkela, arvesuoji dahje teagohpu lea maiddái álki háleštit.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Vállje guokte, golbma dahje njeallje gova maid gaskkas válljet. Guokte lea buot álkkesumus.",
+      "Geahčadeahkki suoivvana ovttas. Makkár hápmi das lea? Lea go dat allat dahje jorbbas?",
+      "Deaddil gova mii ráhkada suoivvana. Dan namma ihtá suoivvana vuollái.",
+      "Juos deaddiluvvo eará govva, speallu dušše namuha dan ja vuordá. Váldeahkki áiggi.",
+      "Deaddil «Boahtte suoivvan» go leat gárvvis fas ođđasii."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Duohtat suoivvana ravdda suorpmain ja hálešteahkki dan hámi birra.",
+      "Juos suoivvanat orrot váddásat odne, de molsso speallui Oza seammálágána, mas govat leat ovttalágánat.",
+      "Hálešteahkki gova birra go dat lea gávdnon: «Mis lei dakkár arvesuodji.»"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Lea go dás áigi dahje čuoggát?",
+        "a": "Ii. Dás ii leat diibmu, eai leat čuoggát, lihkastatlohkki ii ge vuoittahallan. Sáhtát heaitit goas beare, ja gaskkamuttos heaitin lea áibbas buorre vuohki loahpahit."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Lea go suoivvanheiveheapmi buorre olbmuide geain lea demeas?",
+        "a": "Dat sáhttá leat somás ja álkes doaibma muhtin olbmuide, erenoamážit álgomuttus. Hámiid lea álkibut dovdat go sániid. Dát lea suohtastallamii ja ságastallamii, ii ge leat iskosa várás, iige dat dálkkot dahje njoazit demeanssa. Jos dat buktá mielahehttehusa, geahččaleahkki «Oza seammalágána» dahje dušše gehččiide govaid ovttas."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Mii dáhpáhuvvá jos coahkkala boastto gova?",
+        "a": "Ii mihkkege unohasaid. Eai leat jietnaskireheaddjit, rukses ruossat eaige doarggisteamit. Speallu namuha gova mii coahkkaluvvui ja vuordá ođđa coahkkaleami."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Lea go dat nuvttá, ja dárbbaša go registreret?",
+        "a": "Juo, dat lea nuvttá, iige dása dárbbašuvvo konto, registrerenseahtta dahje luđen. Dat doaibmá neahttalohkkis telefovnnas, dábblehtas dahje dihtoris."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Rátkit ovttas",
+    "seoTitle": "Rátkinspeallu demeansii: Rátkit ovttas",
+    "h1": "Rátkit ovttas: Govvarátkendoaibma",
+    "description": "Coahkkal gova, ja de coahkkal gáve masa dat gullá: gievkkan dahje gárdi, šattut dahje eallit. Ráfálaš, nuvttá rátkindoaibma olbmuide geain lea demeas.",
+    "short": "Bija guđege gova iežas gávái: gievkkan dahje gárdi, ja eará.",
+    "players": "1 dahje 2 olbmo",
+    "intro": "Rátkin lea oahppes ja somás árgabeaidahku, nugo gálvvuid sadjásis bidjan dahje suohkuid páran bidjan. Coahkkal gova, ja de coahkkal gáve masa dat gullá. Ii leat mihkkege huppuid iige dáhpáhuva boasttodahku.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Vállje fáttá: gievkkan ja gárdi, šattut ja eallit, dahje ruoktu ja mátki.",
+      "Coahkkal gova. Dat oažžu golleravdda.",
+      "Coahkkal gáve masa dat gullá. Govva sirdása dan gávái.",
+      "Jos dat gullá nuppi gávái, speallu muitala dan siivvuid ja vuordá.",
+      "Go buot govat leat rátkiduvvon, geahččaleahkki gáviid sisdoalu ovttas."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Dábálaš eallimis eai dávjá leat boasttovástádusat. Jos muhtin dadjá ahte njuoskkadankanŋa gullá gievkkanii, jeara manne. Sáhtát gulat somás muitalusa.",
+      "Geavahit govaid ságastallamii: «Maid don gilvvit gárddistat?»",
+      "Duohta diŋggaid rátkin, nugo basttiid ja gáfloid dahje boaluid ivnniid mielde, lea buorre joatkka eret šearpmas."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Lea go áigečájánas dahje čuoggát?",
+        "a": "Ii leat. Ii leat diibmu, čuoggát, lihkasteami rehkenastin iige vuoittahallan. Sáhtát bissehit goas beare, ja gaskamuttus bisseheapmi lea áibbas buorre vuohki loahpahit."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Manne rátkit?",
+        "a": "Ollugat liikojit rátkit go dat orru ávkkálaš ja oahppes bargun. Lea maiddái álki ságastallat govaid birra seammás."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Lea go dat nuvttá, ja dárbbaša go registreret?",
+        "a": "Juo, dat lea nuvttá, iige dása dárbbašuvvo konto, registrerenseahtta dahje luđen. Dat doaibmá neahttalohkkis telefovnnas, dábblehtas dahje dihtoris."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Govvapusle",
+    "seoTitle": "Álkes pusle demeansii: 4 dahje 9 bihtá",
+    "h1": "Govvapusle: Álkes bihttáspeallu",
+    "description": "Álkes neahttapusle olbmuide geain lea demeas: 4 dahje 9 stuorra bihtá, olles govva oidno oppa áigge, ja coahkkalat guokte bihtá lonuhit daid sajádaga.",
+    "short": "Coahkkal guokte bihtá lonuhit daid sajádaga dassážii go govva lea ollislaš.",
+    "players": "1 dahje 2 olbmo",
+    "intro": "Hávski govva lea čullojuvvon njealji dahje ovcci stuorra bihttán ja sehkkejuvvon. Olles govva oidno bagadussan. Coahkkal ovtta bihtá, ja de nuppi, ja dat lonuheaba sajádaga. Ii dárbbaš geassit bihtáid.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Vállje gova ja 4 dahje 9 bihtá. Njeallje lea buorre ja ráfálaš álgu.",
+      "Geahča olles gova bajil.",
+      "Coahkkal bihtá, ja de coahkkal saji gosa dat galgá. Dát guokte bihtá lonuheaba sajádaga.",
+      "Bihtát mat leat rievttes sajis ožžot smávva rihccosa.",
+      "Go govva lea ollislaš, illudeahkki dasa ovttas, ja válljejeahkki dasto ođđa gova."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Guovtte bihtá coahkkaleapmi daid lonuheapmái lea ollugiidda mealgat álkibut go daid geassit.",
+      "Ságastalleahkki gova birra dađistaga go dat šaddá gárvvisin: «Dohko bođii rukses dáhkki.»",
+      "Duohta muorrapusle mas leat 12 gitta 24 stuorra bihtá lea maiddái somás beavdedoaibma."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Lea go áigečájánas dahje čuoggát?",
+        "a": "Ii leat. Ii leat diibmu, čuoggát, lihkasteami rehkenastin iige vuoittahallan. Sáhtát bissehit goas beare, ja gaskamuttus bisseheapmi lea áibbas buorre vuohki loahpahit."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Ferte go geassit bihtáid?",
+        "a": "Ii dárbbaš. Coahkkal ovtta bihtá, ja de nuppi, ja dat lonuheaba sajádaga. Dat lea álkibut jos giehta doarggista dahje smávva šearpmas."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Lea go dat nuvttá, ja dárbbaša go registreret?",
+        "a": "Juo, dat lea nuvttá, iige dása dárbbašuvvo konto, registrerenseahtta dahje luđen. Dat doaibmá neahttalohkkis telefovnnas, dábblehtas dahje dihtoris."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Loahpat dajaldaga",
+    "seoTitle": "Loahpat dajaldaga: Dajaldatspeallu vuorasolbmuide",
+    "h1": "Loahpat dajaldaga",
+    "description": "Oahppes amerihkálaš dajaldagat main maŋimuš sátni váilu, nugo «A penny saved is a penny ___». Coahkkal válljosa dahje čájet loahpa, ja ságastalleahkki dasto dan birra.",
+    "short": "Ollismahttejeahkki oahppes dajaldagaid ovttas, ja ságastalleahkki dasto daid birra.",
+    "players": "1, 2 olbmo dahje joavku",
+    "intro": "Boares dajaldagat leat dávjá oahppásat oppa eallima. Juohke goarddas lea oahppes dajaldat mas maŋimuš sátni váilu, golbma válljosa, ja «Čájet loahpa» -boallu. Maŋŋel loahpa lea ráfálaš gažaldat mii bovde ságastallamii.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lohkki dajaldaga jitnosit ovttas.",
+      "Coahkkal sáni mii loahpaha dan, dahje coahkkal «Čájet loahpa».",
+      "Lohkki olles dajaldaga oktii vel ja ságastalleahkki gažaldaga vuođul.",
+      "Coahkkal «Boahtte dajaldat» go leahkki gárvásat."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Loga njozet ja doala bottoža ovdal maŋimuš sáni. Dávjá olmmoš dadjá dan ovdal go leat geargan.",
+      "Jos muhtin cealká earálágán loahpa, illudeahkki dasa. Dajaldagain sáhttet leat earálágán hápmit bearraša dahje guovllu mielde.",
+      "Joavkkus sáhttá okta lohkat ja earát fas oassálastit lohppii."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Lea go áigečájánas dahje čuoggát?",
+        "a": "Ii. Dás ii leat diibmu, eai leat čuoggát, lihkástuslohkki iige dás vuoittahala. Sáhtát heaitit goas beare, ja gaskamuttus heaitin lea maid áibbas buorre vuohki loahpahit."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Mii dáhpáhuvvá jus mii válljet eará sáni?",
+        "a": "Speallu čájeha dábálaš loahpa ja manná viidáseappot ságastallamii. Eai leat makkárge čuoggát, ja eará vástádus lea áibbas buorre."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Lea go dat nuvttá, ja fertego registreret?",
+        "a": "Jua, dat lea nuvttá, iige dárbbaš konttu, sisaloggehusa iige luđet maidege. Dat doaibmá fierbmelohkkis telefovnnas, dihtordulbbosis dahje dihtoris."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Sátneohcan stuorra bustávaiguin",
+    "seoTitle": "Sátneohcan stuorra bustávaiguin olbmuide geain lea demensa, maid sáhttá čálihit",
+    "h1": "Sátneohcan stuorra bustávaiguin",
+    "description": "Nuvttá sátneohcan stuorra bustávaiguin vuorrasiidda ja olbmuide geain lea demensa. Veaháš sánit, stuorra bustávat, sánit dušše rastá ja vulos. Speala neahtas dahje čálit báhpárii.",
+    "short": "Stuorra bustávat, moadde sáni, dušše rastá ja vulos. Sáhtát maid čálihit.",
+    "players": "1 dahje 2 olbmo",
+    "intro": "Unna távval stuorra bustávaiguin ja dušše muhtun sánit, mat lohkkojit rastá dahje vulos. Deaddil sáni vuosttaš bustáva, ja dasto dan maŋimuš bustáva. Liikot go buorebut báhpárii? Čálit ođđa spealu ovttain deaddilemiin.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Vállje fáttá ja távvallávvuda.",
+      "Geahča sániid listtu. Sánit lohkkojit rastá (gurutbeales olgešbeallai) dahje vulos (bajil vuollái).",
+      "Deaddil sáni vuosttaš bustáva, ja deaddil dasto dan maŋimuš bustáva.",
+      "Gávdnon sátni merkejuvvo ja sihkkojuvvo listtus.",
+      "Deaddil «Čálit dán spealu» jus háliidat speallat báhpáris blyánttain dahje tusšain."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Čujut sánni listtus ja ozaidet dan vuosttaš bustáva ovttas.",
+      "Báhpáris lea merkontusša dávjá álkit doallat gieđas go dábálaš blyántta.",
+      "Ságastallie fáddásániid birra. Hedmesánit buktet luonddolaččat millii muittuid čoaggimis, láibumis dahje márnaniin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Lea go dás diibmu dahje čuoggát?",
+        "a": "Ii. Dás ii leat diibmu, eai leat čuoggát, lihkástuslohkki iige dás vuoittahala. Sáhtát heaitit goas beare, ja gaskamuttus heaitin lea maid áibbas buorre vuohki loahpahit."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Sáhttá go sátneohcama čálihit?",
+        "a": "Jua. Deaddil «Čálit dán spealu» čálihan dihte dálá távvala stuorra bustávaiguin, mas sátnelistu lea vuolábealde. Juohke ođđa speallu lea iešguđetlágan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Lea go dat nuvttá, ja fertego registreret?",
+        "a": "Jua, dat lea nuvttá, iige dárbbaš konttu, sisaloggehusa iige luđet maidege. Dat doaibmá fierbmelohkkis telefovnnas, dihtordulbbosis dahje dihtoris."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Ivdnensiiddut",
+    "seoTitle": "Ivdnensiiddut rávisolbmuide geain lea demensa (Nuvttá)",
+    "h1": "Ivdnensiiddut",
+    "description": "Oktageardán ivdnensiiddut rávisolbmuide stuorra viidodagaiguin: deaddil ivnni, ja deaddil dasto gova. Ii makkárge duolvvas, eai makkárge boasttoivnnit, ja juohke siiddu sáhttá čálihit nuvttá.",
+    "short": "Deaddil ivnni, ja dasto gova oasi. Sáhtát maid čálihit siidduid.",
+    "players": "1 dahje 2 olbmo",
+    "intro": "Siiddut main leat stuorra, oktageardán hámit: rássi ruvttus, dállu, deadássa, beaiveloddi ja borjjasfanas. Deaddil ivnni, ja deaddil dasto gova oasi man háliidat devdit. Eai leat makkárge boasttoivnnit.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Vállje siiddu.",
+      "Deaddil ivnni. Juohke ivnnis lea namma čállojuvvon dasa.",
+      "Deaddil gova oasi devdin dihte dan dainna ivnniin.",
+      "Sáhtát molsut miela goas beare ja devdit dan ođđasit.",
+      "Deaddil «Čálit dán siiddu» oažžun dihte guoros siiddu maid sáhtát ivdnet blyánttaiguin dahje tusšain."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Fála guokte ivnni maid gaskkas válljet obba ivdneráiddu sajis, jus válljen dovdo menddo váttisin.",
+      "Purpur muorat ja alit beaivvážat leat buresboahtimat. Dás lea sáhka ivnniin návddašeamis, ii dárkilvuođas.",
+      "Čáliluvvon siidduide heivejit bures assás tusšat dahje váksoblyánttat, maid lea álkit doallat gieđas."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Lea go dás diibmu dahje čuoggát?",
+        "a": "Ii. Dás ii leat diibmu, eai leat čuoggát, lihkástuslohkki iige dás vuoittahala. Sáhtát heaitit goas beare, ja gaskamuttus heaitin lea maid áibbas buorre vuohki loahpahit."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Leat go dát siiddut menddo mánnálaččat?",
+        "a": "Mii leat sárgon ráfálaš, oktageardán diŋggaid tegneseriegovaid sajis, nu ahte siiddut heivejit rávisolbmuide. Stuorra hámit dahket ivdnema álkin almmá ahte dat dovdo mánnálažžan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Lea go dat nuvttá, ja fertego registreret?",
+        "a": "Jua, dat lea nuvttá, iige dárbbaš konttu, sisaloggehusa iige luđet maidege. Dat doaibmá fierbmelohkkis telefovnnas, dihtordulbbosis dahje dihtoris."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Ságastallankoarttat",
+    "seoTitle": "Ságastallankoarttat olbmuide geain lea demensa: Govvakoarttat",
+    "h1": "Ságastallankoarttat",
+    "description": "Govvakoarttat main leat litna álggahusat ságastallamii olbmuide geain lea demensa: ii makkárge jearahallan, eai makkárge rivttes vástádusat. Geavahit šearpmas dahje čálit olles koartaráiddu.",
+    "short": "Govvakoarttat main leat rabas, litna jearaldagat. Ii makkárge iskkusjearahallan.",
+    "players": "2 olbmo dahje joavku",
+    "intro": "Juohke koarttas lea oahpis govva ja rabas bovdehus ságastallat, nugo «Makkár dálkkiide liikot eanemusat?» Eai leat makkárge rivttes vástádusat iige maidege dárbbaš muitit. Vállje fáttá dahje seahkat buot koarttaid.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Vállje fáttá, dahje doalat «Buot koarttat».",
+      "Loga jearaldaga jitnosit ja geahččabeahtti gova ovttas.",
+      "Guldal, juogat iežat vástádusa ja divtte ságastallama johtit friddja.",
+      "Deaddil «Boahtte koarta» go leat gárvvis, dahje bisán ovtta koartta lusa nu guhká go háliidat.",
+      "Deaddil «Čálit buot koarttaid» čuohppan dihte báhpirkoarttaid."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Vástit jearaldahkii ieš maid. Dalle dat dovdo ságastallamin, ii jearahallamin.",
+      "Čuovo muitalusa, alege fáktáid. Jus detáljjat rievddalit, de dat ii hehtte maidege.",
+      "Jus koarta guoskkaha juoidá mii lea morašlaš, de dohkket dovddu ja sirdás várrogasat nuppi koartii."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Manne eai leat makkárge «Muittát go…?» -jearaldagat?",
+        "a": "Jearaldagat mat geahččalit muittu, sáhttet dovdot eksámenin ja dagahit heahpama. Rabas bovdehusat nugo «Muital munnje…» addet buohkaide vejolašvuođa searvat, beroškeahttá das maid sii muitet."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Sáhttá go koarttaid čálihit?",
+        "a": "Jua. «Čálit buot koarttaid» čáliha olles ráiddu stuorra bustávaiguin, máŋga koartta juohke siiddus, gárvvisin čuohppamii."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Lea go dat nuvttá, ja fertego registreret?",
+        "a": "Jo, dat lea billežis. Eai dárbbaš kontu, registrerema dahje lađasmuvvan. Dat bargá veabageahčis telefovnnas, tablehtas dahje dihtorii."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Govvapárat",
+    "seoTitle": "Ráhkat mátkkeprošeavtta iežat ássanvázzi govvidiin",
+    "h1": "Govvapárat: Mátke iežat govvidiid",
+    "description": "Ráhkat iežat ássanvázzi govvidiin hálddašeaddji mátkkeprošeavtta. Vállje 2–6 govvva iežat telefonas, tablehtas dahje dihtorii; dat orrot du veabageahčis ja eai sáddejuvvo lassin.",
+    "short": "Vállje iežat govvidat ja mátke daid. Eai ge sáddejuvvo mihkkege.",
+    "players": "2 olbmo, ovttasa",
+    "intro": "Vállje guokte–guhtta govvva telefonas, tablehtas dahje dihtorii, ja daid šaddet mátkkeprošeavttan stuorra, oainnusmeahttun govvidin. Govvit čájehuvvojit dušše dán siidduin. Eai sáddejuvvo, eai vurkejuvvo ja eai juhkkojuvvo; sii duššot go gihppát siidduid.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Deavdde «Vállje govvit» ja vállje guokte–guhtta govvva.",
+      "Juohke govva čájehuvvo guovttegeardi. Deavdde okta, ja deavdde dan párra.",
+      "Go gávnnat govvva, muitalit dan birra.",
+      "Go leat geargan, rahpa siidduid dahje deavdde «Sihkkel govvit». Ii mihkkege bissot."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Vállje čielga govvaid bohtosat, buot dearvvaš ja dovddus áššiid: fidnu, sárdni, dan lágan báikki, bearjadatbeaivi.",
+      "Báikkiid ja objektaid govvidat sáhttet leat álkit go olbmuid govvat, ja dat eai ásat dárbbu namuhit olbmuid.",
+      "Ii gálgga čuovvut olbmuid govvid geat leat jápman, jus dat sáhttá buktit äkkás surggi, jus it dieđe ahte dat addá duhtadeami."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Sáddejuvvojit go govvit goassege?",
+        "a": "Eai. Siidu lohkká govvid go vállje iežat veabageahčis ja čájeha daid ruvdedis. Eai sáddejuvvo mihkkege mis, ii mis ii eará olbmuide, ja dat duššot go gihppát dahje ođasmahttit siidu."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Lea go áigi dahje bealli?",
+        "a": "Ii. Ii leat čuovu, bealli, sirdimat dahje hávivuohta. Don sáhtát geassit juohkeáigge, ja geassit gaskkas lea buorre loahppa."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Sáhttet go mii seaguhit spiela boahtteáigái?",
+        "a": "Ii veabageahčis, go ii oaččo muitot priváhta dieđuid. Ilmmalaš Golden Moments -app iPhone- ja iPad-laitteide sáhttá bissehit vállje govvidiid du laitteis."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Govvabingo",
+    "seoTitle": "Govvabingo eldit olbmuide geain lea dementiija: printejuvvon",
+    "h1": "Govvabingo joavkkuide",
+    "description": "Ilmmalaš printejuvvon govvabingo muitovuođahoavdda ja eldit olbmuid joavkkuide, stuorra govvidiin ja stuorra skearráiduin lieddjes. Stuorra govvat sánaiguin, 9 dahje 16 ruvdnji, eai dárbbaš lohkat.",
+    "short": "Printejuvvon govvabingo-kárttat ja stuorra skearráidu joavkkuide.",
+    "players": "Joavku 2–30 olbmos",
+    "intro": "Klassalaš bingo govviiguin numeriid sadjái, nu ii dárbbaš geaigga lohkat smávva čállosiid. Printte kárttajoavku oktaovttasdaddát, ja geavat bingo-čájeheaddji stuorra TV:s, lahtohkas dahje tablehtas, čájehit juohke gova stuorran.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Vállje 9 dahje 16 ruvdnji juohke kárttas ja movt ollu olbmot spealet.",
+      "Deavdde «Printte kártát». Juohke kárta lea erenoamáš.",
+      "Rahpa stuorra skearráiduin čájeheaddji. Deavdde «Boahtte govva» ja čájet juohke gova nammain.",
+      "Spealit meroštalet heivvolaš govvidiid kárttas nubbin, knappiin dahje merkkiin.",
+      "Juohkehaš geas lea rivdda dahje oppa kárta, oažžu rávvejumi. Dán versiovnnas ii leat geasuhusat; spealat joatkkit, ođđa go buohkat leat gávdnan rivdda."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Geavat stuorra mearkkaid nugo dámmat dahje korkkat. Smávva nappot eai leat álkit njálmmit.",
+      "Nama govva ja muitte dan birra: «Seilu. Geas lea leamaš mearas?»",
+      "Čoaggat olbmuid geain lea hástalus geahččat lahkku skearráidu, ja buktit veahkkiid sidjiide geat dárbbašit dan.",
+      "Ovcci ruvdnji lea ollu joavkkuide. Sessiun sáhttá leat 20–30 minuhta."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Movt spealan govvabingo eldinbáikkis?",
+        "a": "Printte okta kárta spealli, bija čájeheaddji stuorimus skearráiduin ja muitte govvidiid hillu, nammain juohke gova. Spealat gitta go buohkat leat rivdda, nu ii oktage geassat gaskkas."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Lea go printejuvvon eaktuh?",
+        "a": "Jo. Printte nu ollu kártáid go dárbbašat, nu tihkkat go háliidat, persovnnalaš dahje joavkkuid várás."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Sáhttet go olbmot spealat lohkkama haga?",
+        "a": "Jo. Juohke ruvdnji lea stuorra govva, ja nammá lea vuollel dan geat háliidit sáni."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Rahpas háhkku",
+    "seoTitle": "Rahpas háhkkunbáhppa eldit olbmuide ja dárkkisteddjiide",
+    "h1": "Rahpas háhkkunbáhppa",
+    "description": "Hiljas, rahpas háhkkunbáhppa juhkkojuvvon: čuovga stuorrá ja smiŋgu guđa háhkkuin. Don álggat dan, ja don sáhtát sihkkat juohkeáigge.",
+    "short": "Hiljas čuovga, mii leat mielde háhkkut. Álggat ja sihkkat dalle go háliidat.",
+    "players": "1 dahje 2 olbmo",
+    "intro": "Ovdal goahpat eaktun lea hiljas báhppa. Deavdde «Álgge», ja háhkat go čuovga stuorrá, ja biehtat go čuovga smiŋgá. Vállje hitálmit dahje gosiid. Dat ii leat bálvalat, dušše rahpas moment juohkan.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Istte rafi guovtti lahkku.",
+      "Vállje vuolggas: hitálmit dahje ruvkes.",
+      "Deavdde «Álgge». Háhkat go čuovga stuorrá, ja biehtat go čuovga smiŋgá.",
+      "Dat sihkkar iežas guđa háhkkus, dahje deavdde «Sihkkat» dalle go háliidat."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Gávnnadit vuoddjiidet dahje biehtat čuovvu oktii, jos dat lea buorre.",
+      "Ii goassige gieldde. Jos son háliida geahččat, dat lea buorre.",
+      "Jos olbmos lea hengejumi váttisvuođat, hanhen normála ja geahčča dušše čuovga. Jearra dohtára go leat hengejumi huolat."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Lea go dát lassi hengejumi?",
+        "a": "Ii. Dat lea álkit ja vállohis rahpas áigi jagi. Ii dat leat dávdahis hoavddadoallu, ja dohtára gaskkas jearra daid buohkaid dearvvasvuođa birra."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Liigá go čuovga iežas, go in álggat dan?",
+        "a": "Ii. Ii mihkkal liiku ovdal go deavdát “Álggahit”-nappi, ja dat heaitá guhtta háhkki maŋŋel dahje go deavdát “Heaitit”-nappi. Jos du laittemis lea nannon geahpedit liikkuma, sánit rievdet muhto sirkkel ii stuorru."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Lea go dat bilohis, ja dárbbašatgo ráhkadit kontoa?",
+        "a": "Lea, dat lea bilohis, ja ii dárbbaš kontu, registreren ii ge viežžat. Dat doaibmá weabbalohkkis telefovnnas, tablettas dahje dihtorin."
       }
     ]
   }

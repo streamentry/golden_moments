@@ -1,0 +1,780 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lasīt skaļi",
+      "stopReading": "Apturēt lasīšanu",
+      "region": "Spēle",
+      "restart": "Sākt no jauna",
+      "soundOn": "Klusas skaņas ieslēgtas",
+      "soundOff": "Klusas skaņas izslēgtas",
+      "done": "Pagaidām pietiks",
+      "feedbackQuestion": "Vai tas šodien noderēja?",
+      "feedbackYes": "Jā",
+      "feedbackNo": "Ne visai",
+      "feedbackThanks": "Paldies, ka pastāstījāt."
+    },
+    "tile": {
+      "named": "{name}, lauciņš {n}",
+      "hidden": "Apslēpts attēls, lauciņš {n}",
+      "withState": "{label}, {state}",
+      "matched": "Atrasts pāris",
+      "selected": "Izvēlēts",
+      "picture": "Attēls",
+      "photoNumber": "Fotoattēls {n}"
+    },
+    "pairs": {
+      "allTogether": "Visi pāri ir atrasti. Spēlējiet vēlreiz vai atpūtieties.",
+      "photoPair": "Fotoattēlu pāris ir kopā.",
+      "picturePair": "Divi attēli ar {name|lower} ir kopā.",
+      "selected": "{name}. Tagad atrodiet tam pāri.",
+      "mismatch": "Nesteidzieties. Pieskarieties attēlam, lai turpinātu.",
+      "mismatchNamed": "{a} un {b}. Nesteidzieties. Pieskarieties attēlam, lai turpinātu."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Pieskarieties attēlam, pēc tam pieskarieties otram tādam pašam.",
+      "guidanceHidden": "Pieskarieties diviem lauciņiem, lai tos apgrieztu. Meklējiet divus vienādus.",
+      "restart": "Jauni attēli",
+      "sizeLegend": "Cik lauciņu",
+      "size": {
+        "zero": "{n} lauciņu",
+        "one": "{n} lauciņš",
+        "other": "{n} lauciņi"
+      },
+      "viewLegend": "Kā spēlēt",
+      "viewShowing": "Attēli ir redzami",
+      "viewHidden": "Apslēpti attēli",
+      "playAgain": "Spēlēt vēlreiz ar jauniem attēliem",
+      "talk": "Pārrunājiet attēlus kopā"
+    },
+    "choose": {
+      "countLegend": "Cik attēlu",
+      "count": "{n}, no kā izvēlēties",
+      "thatOne": "Tas ir {name|lower}. Nesteidzieties."
+    },
+    "findTheSame": {
+      "guidance": "Paskatieties uz attēlu augšā. Pieskarieties tādam pašam apakšā.",
+      "yes": "Jā, tas pats {name|lower}.",
+      "next": "Nākamais attēls"
+    },
+    "shadowMatch": {
+      "guidance": "Paskatieties uz ēnu augšā. Pieskarieties attēlam, kas to rada.",
+      "yes": "Jā, šo ēnu rada {name|lower}.",
+      "next": "Nākamā ēna",
+      "shadowAlt": "Ēna, kurai jāatrod atbilstība",
+      "foundAlt": "Ēna no {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Pieskarieties attēlam, pēc tam pieskarieties groziņam, kurā tas iederas.",
+      "restart": "Jauni attēli",
+      "themeLegend": "Tēma",
+      "selected": "{name}. Tagad pieskarieties groziņam, kurā tas jāieliek.",
+      "pickFirst": "Vispirms pieskarieties attēlam, pēc tam groziņam.",
+      "hint": "{name|lower} varētu iederēties groziņā „{basket}”. Pieskarieties šim groziņam, lai to tur ieliktu.",
+      "placed": "{name|lower} ir ielikts groziņā „{basket}”.",
+      "sorted": "Viss ir sašķirots. Pārskatiet groziņus kopā vai izmēģiniet citu tēmu.",
+      "basket": {
+        "zero": "Groziņš „{basket}”, tajā ir {count} attēlu",
+        "one": "Groziņš „{basket}”, tajā ir {count} attēls",
+        "other": "Groziņš „{basket}”, tajā ir {count} attēli"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Pieskarieties vienam gabaliņam, pēc tam otram. Tie apmainīsies vietām.",
+      "restart": "Sajaukt vēlreiz",
+      "pictureLegend": "Attēls",
+      "pictures": {
+        "sailboat": "Burinieks",
+        "house": "Māja",
+        "balloon": "Gaisa balons",
+        "sunflower": "Saulespuķe",
+        "lighthouse": "Bāka",
+        "cat": "Kaķis"
+      },
+      "sizeLegend": "Gabaliņi",
+      "size": {
+        "zero": "{n} gabaliņu",
+        "one": "{n} gabaliņš",
+        "other": "{n} gabaliņi"
+      },
+      "pickedUp": "Gabaliņš ir paņemts. Tagad pieskarieties vietai, kur tam jāatrodas.",
+      "whole": "{name|lower} atkal ir salikts. Kad vēlaties, izvēlieties citu attēlu.",
+      "swapped": {
+        "zero": "Samainīts. Savā vietā ir {correct} no {total} gabaliņiem.",
+        "one": "Samainīts. Savā vietā ir {correct} no {total} gabaliņa.",
+        "other": "Samainīts. Savā vietā ir {correct} no {total} gabaliņiem."
+      },
+      "guideAlt": "Viss attēls: {name}",
+      "guideText": "Šādi attēls izskatās, kad tas ir salikts.",
+      "piece": "Gabaliņš vietā: {place}",
+      "pieceInPlace": ", pareizajā vietā",
+      "piecePickedUp": ", paņemts",
+      "places4": [
+        "augšā pa kreisi",
+        "augšā pa labi",
+        "apakšā pa kreisi",
+        "apakšā pa labi"
+      ],
+      "places9": [
+        "augšā pa kreisi",
+        "augšā pa vidu",
+        "augšā pa labi",
+        "pa vidu pa kreisi",
+        "centrā",
+        "pa vidu pa labi",
+        "apakšā pa kreisi",
+        "apakšā pa vidu",
+        "apakšā pa labi"
+      ],
+      "done": "Attēls atkal ir salikts. Spēlējiet vēlreiz vai atpūtieties.",
+      "playAgain": "Sajaukt vēlreiz"
+    },
+    "finishTheSaying": {
+      "guidance": "Izlasiet teicienu kopā un pēc tam pieskarieties vārdam, kas to pabeidz.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Jā, „{start} {end}.”",
+      "otherEnding": "Arī „{word}” labi der. Parasti šis teiciens beidzas ar „{end}”.",
+      "revealed": "Teiciens skan: „{start} {end}.”",
+      "choicesLabel": "Izvēlieties pēdējo vārdu",
+      "show": "Parādīt nobeigumu",
+      "talk": "Pārrunājiet to: ",
+      "next": "Nākamais teiciens"
+    },
+    "wordSearch": {
+      "guidance": "Vārdi ir izvietoti horizontāli vai vertikāli. Pieskarieties vārda pirmajam burtam, pēc tam pēdējam burtam.",
+      "restart": "Jauna mīkla",
+      "themeLegend": "Tēma",
+      "sizeLegend": "Režģa izmērs",
+      "size": {
+        "zero": "{n} uz {n} ({words} vārdu)",
+        "one": "{n} uz {n} ({words} vārds)",
+        "other": "{n} uz {n} ({words} vārdi)"
+      },
+      "print": "Drukāt šo mīklu",
+      "letterChosen": "Izvēlēts burts {letter}. Tagad pieskarieties vārda pēdējam burtam.",
+      "found": "Atrasts vārds: {word}.",
+      "foundAll": "Atrasts vārds: {word}. Visi vārdi ir atrasti. Spēlējiet vēlreiz vai atpūtieties.",
+      "tryAgain": "Nesteidzieties. Pieskarieties vārda pirmajam burtam, pēc tam pēdējam burtam.",
+      "gridLabel": "Burtu režģis, {n} rindas pa {n} burtiem. Izmantojiet bulttaustiņus, lai pārvietotos starp burtiem.",
+      "cell": "{letter}, {row}. rinda, {col}. kolonna",
+      "cellFound": ", daļa no atrastā vārda",
+      "wordsHeading": "Meklējamie vārdi",
+      "wordFound": " (atrasts)",
+      "sheetTitle": "Vārdu meklēšana: {theme}",
+      "sheetNote": "Vārdi ir izvietoti horizontāli vai vertikāli.",
+      "unavailable": "Burtu režģis nav piemērots šai valodai, tāpēc vārdu meklēšana šeit netiek piedāvāta. Tā vietā izmēģiniet attēlu spēles."
+    },
+    "coloring": {
+      "guidance": "Pieskarieties krāsai, pēc tam pieskarieties attēla daļai.",
+      "restart": "Notīrīt krāsas",
+      "cleared": "Lapa atkal ir tīra.",
+      "pageLegend": "Lapa",
+      "print": "Drukāt šo lapu",
+      "colorsLabel": "Krāsas",
+      "paintChosen": "Izvēlēts: {paint}.",
+      "painted": "{part} tagad nokrāsots: {paint|lower}.",
+      "artLabel": "{page}, {count} iekrāsojamas daļas",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, nav nokrāsots",
+      "paints": {
+        "red": "Sarkans",
+        "orange": "Oranžs",
+        "yellow": "Dzeltens",
+        "green": "Zaļš",
+        "blue": "Zils",
+        "purple": "Violets",
+        "pink": "Rozā",
+        "brown": "Brūns",
+        "sky-blue": "Debeszils",
+        "cream": "Krēmkrāsas",
+        "gray": "Pelēks",
+        "white": "Balts"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Nolasiet kartīti skaļi. Šeit nav pareizu vai nepareizu atbilžu.",
+      "position": "{n}. kartīte no {total}",
+      "themeLegend": "Tēma",
+      "next": "Nākamā kartīte",
+      "previous": "Iepriekšējā kartīte",
+      "print": "Drukāt visas kartītes",
+      "sheetTitle": "Sarunu kartītes"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Vispirms izvēlieties fotoattēlus.",
+      "guidance": "Pieskarieties fotoattēlam un pēc tam tam, kas tam atbilst.",
+      "restart": "Sajaukt vēlreiz",
+      "intro": "**Izvēlieties no 2 līdz 6 fotoattēliem** no šīs ierīces. Tie tiek parādīti tikai šajā lapā un nekad netiek augšupielādēti vai saglabāti.",
+      "choose": "Izvēlēties fotoattēlus",
+      "chooseDifferent": "Izvēlēties citus fotoattēlus",
+      "clear": "Noņemt fotoattēlus",
+      "cleared": "Fotoattēli no šīs lapas ir noņemti.",
+      "atLeastTwo": "Lūdzu, izvēlieties vismaz divus fotoattēlus.",
+      "usingFirst": "Tiek izmantoti pirmie {max} fotoattēli.",
+      "skipped": {
+        "zero": "{count} failu nebija fotoattēli, ko varam parādīt.",
+        "one": "{count} fails nebija fotoattēls, ko varam parādīt.",
+        "other": "{count} faili nebija fotoattēli, ko varam parādīt."
+      },
+      "playAgain": "Spēlēt vēlreiz ar šiem fotoattēliem",
+      "empty": "Šeit parādīsies jūsu fotoattēli, katrs divas reizes."
+    },
+    "pictureBingo": {
+      "guidance": "Vispirms izdrukājiet kartītes. Pēc tam atveriet šo spēles vadītāju uz lielākā ekrāna, kāds jums ir.",
+      "called": {
+        "zero": "{name}. Nosaukti {called} no {total} attēliem.",
+        "one": "{name}. Nosaukts {called} no {total} attēla.",
+        "other": "{name}. Nosaukti {called} no {total} attēliem."
+      },
+      "start": "Pieskarieties „Nākamais attēls”, lai nosauktu pirmo attēlu.",
+      "restart": "Sākt jaunu spēli",
+      "squaresLegend": "Lauciņu skaits katrā kartītē",
+      "squares": "{n} lauciņi ({side} uz {side})",
+      "cardsLegend": "Cik kartīšu drukāt",
+      "cards": {
+        "zero": "{n} kartīšu",
+        "one": "{n} kartīte",
+        "other": "{n} kartītes"
+      },
+      "print": {
+        "zero": "Drukāt {n} bingo kartīšu",
+        "one": "Drukāt {n} bingo kartīti",
+        "other": "Drukāt {n} bingo kartītes"
+      },
+      "ready": "Gatavs, kad vēlaties sākt",
+      "next": "Nākamais attēls",
+      "allCalled": "Visi attēli ir nosaukti",
+      "alreadyCalled": "Jau nosaukts",
+      "sheetTitle": "Attēlu bingo · {n}. kartīte"
+    },
+    "calmBreathing": {
+      "guidance": "Ieelpojiet, kad aplis aug, un izelpojiet, kad tas saraujas. Pēc sešiem elpas vilcieniem tas pats apstāsies.",
+      "paceLegend": "Temps",
+      "paceSlow": "Lēns (5 sekundes katrā virzienā)",
+      "paceGentle": "Mierīgs (4 sekundes katrā virzienā)",
+      "ready": "Sāciet, kad vien vēlaties",
+      "in": "Ieelpojiet",
+      "hold": "Atpūtieties",
+      "out": "Izelpojiet",
+      "start": "Sākt",
+      "stop": "Apturēt",
+      "started": "Sākts. Ieelpojiet, kad aplis aug.",
+      "stopped": "Apturēts.",
+      "finished": "Tie bija seši mierīgi elpas vilcieni. Sāciet no jauna, kad vien vēlaties."
+    }
+  },
+  "pictures": {
+    "teacup": "Tase",
+    "kettle": "Tējkanna",
+    "bread": "Maizes klaips",
+    "frying-pan": "Panna ar olu",
+    "cake": "Dzimšanas dienas torte",
+    "sunflower": "Saulespuķe",
+    "tulip": "Sarkana tulpe",
+    "watering-can": "Laistīrkanna",
+    "potted-plant": "Augs podiņā",
+    "tree": "Koks",
+    "bird": "Putns zarā",
+    "butterfly": "Tauriņš",
+    "dog": "Suns",
+    "cat": "Kaķis",
+    "fish": "Zelta zivtiņa",
+    "apple": "Sarkans ābols",
+    "pear": "Bumbieris",
+    "strawberry": "Zemene",
+    "banana": "Banāns",
+    "lemon": "Citrons",
+    "cherries": "Ķirši",
+    "house": "Māja",
+    "lamp": "Galda lampa",
+    "armchair": "Atpūtas krēsls",
+    "key": "Sena atslēga",
+    "umbrella": "Lietussargs",
+    "sailboat": "Buru laiva",
+    "car": "Senlaicīgs auto",
+    "bicycle": "Velosipēds",
+    "balloon": "Gaisa balons",
+    "lighthouse": "Bāka",
+    "sun": "Saule",
+    "moon": "Mēness un zvaigznes",
+    "teapot": "Tējkanna",
+    "apple-pie": "Ābolu pīrāgs",
+    "honey-jar": "Medus burciņa",
+    "boiled-egg": "Ola trauciņā",
+    "toaster": "Tosteris",
+    "cheese": "Siera šķēle",
+    "milk-jug": "Piena krūze",
+    "cupcake": "Kēksiņš",
+    "orange": "Apelsīns",
+    "grapes": "Vīnogu ķekars",
+    "watermelon": "Arbūza šķēle",
+    "pineapple": "Ananass",
+    "peach": "Persiks",
+    "rose": "Roze",
+    "daisies": "Margrietiņas",
+    "mushroom": "Sēne",
+    "wheelbarrow": "Ķerra",
+    "birdhouse": "Putnu būrītis",
+    "cactus": "Kaktuss podiņā",
+    "acorn": "Zīle",
+    "autumn-leaf": "Rudens lapa",
+    "rabbit": "Trusis",
+    "duck": "Pīle",
+    "hen": "Vista",
+    "sheep": "Aita",
+    "owl": "Pūce",
+    "ladybird": "Mārīte",
+    "snail": "Gliemezis",
+    "frog": "Varde",
+    "bee": "Bite",
+    "clock": "Kamīna pulkstenis",
+    "vase-of-flowers": "Vāze ar ziediem",
+    "radio": "Senlaicīgs radio",
+    "books": "Grāmatu kaudze",
+    "candle": "Svece",
+    "glasses": "Lasāmbrilles",
+    "telephone": "Tālrunis",
+    "ball-of-wool": "Dziju kamols",
+    "straw-hat": "Salmu cepure",
+    "train": "Tvaika vilciens",
+    "bus": "Autobuss",
+    "airplane": "Lidmašīna",
+    "suitcase": "Čemodāns",
+    "tractor": "Traktors",
+    "rowing-boat": "Airu laiva",
+    "rainbow": "Varavīksne",
+    "rain-cloud": "Lietus mākonis",
+    "snowflake": "Sniegpārsla",
+    "kite": "Pūķis",
+    "sunrise": "Saullēkts virs pakalniem"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEGILMNOPRSTUVZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Augļi",
+          "words": [
+            "ĀBOLS",
+            "PLŪME",
+            "KIVI",
+            "VĪĢE",
+            "MELONE",
+            "BANĀNS",
+            "VĪNOGA",
+            "MANGO",
+            "LAIMS"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Dārzs",
+          "words": [
+            "ROZE",
+            "TULPE",
+            "SĒKLA",
+            "ZEME",
+            "LAPA",
+            "KOKS",
+            "DOBE",
+            "DĪĶIS",
+            "BITE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Virtuve",
+          "words": [
+            "KRŪZE",
+            "KAROTE",
+            "MAIZE",
+            "PANNA",
+            "BĻODA",
+            "ŠĶĪVIS",
+            "TĒJA",
+            "KRĀSNS",
+            "DAKŠA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Laiks",
+          "words": [
+            "SAULE",
+            "LIETUS",
+            "SNIEGS",
+            "VĒJŠ",
+            "VĒTRA",
+            "MIGLA",
+            "SALS",
+            "KRUSA",
+            "RASA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Dzīvnieki",
+          "words": [
+            "SUNS",
+            "KAĶIS",
+            "PUTNS",
+            "ZIVS",
+            "ZIRGS",
+            "GOVS",
+            "PĪLE",
+            "KAZA",
+            "VISTA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Māja",
+          "words": [
+            "DURVIS",
+            "KRĒSLS",
+            "LAMPA",
+            "GULTA",
+            "DĪVĀNS",
+            "GALDS",
+            "LOGS",
+            "JUMTS",
+            "SIENA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Visas kartītes",
+        "food": "Ēdiens",
+        "home": "Mājas",
+        "outdoors": "Daba",
+        "animals": "Dzīvnieki",
+        "travel": "Ceļojumi",
+        "work": "Darbs un vaļasprieki",
+        "music": "Mūzika un prieks",
+        "seasons": "Gadalaiki"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Kāda smarža no virtuves jums patīk vislabāk?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kādu kūku jūs izvēlētos svētku reizē?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Pastāstiet par savu mīļāko augļu pīrāgu vai desertu."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kādu tēju vai kafiju jums labpatīk dzert?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Kas, jūsuprāt, ir patiešām labas brokastis?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Vai esat kādreiz plūkuši augļus vai ogas tieši no koka vai krūma?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Salds vai skābs – kas jums labāk iet pie sirds?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kāds ēdiens jums visvairāk atgādina vasaru?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Pastāstiet par mājām, kurās jums patika dzīvot."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Kur ir jūsu iecienītākā vieta, kur apsēsties un atpūsties?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ko jums patīk darīt mierīgā vakarā?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Kādu dārgumu jūs glabātu īpašā lādītē?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kuru jūs labprāt uzaicinātu uz tasi tējas?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ko jums patīk darīt lietainā dienā?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kādas puķes jūs stādītu dārzā?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Pastāstiet par kādu koku vai parku, kas jums ir mīļš."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kas dārzā sniedz vislielāko prieku?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kādas krāsas ziedi jums patīk vislabāk?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Vai jums patīk, ja mājās ir telpaugi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kāda, jūsuprāt, ir lieliska saulaina diena?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Pastāstiet par kādu suni, kuru esat pazinuši."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kaķi vai suņi, vai varbūt neviens no tiem? Kas jums tajos patīk?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Kādus putnus jūs mēdzat redzēt vai dzirdēt aiz loga?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Vai esat kādreiz makšķerējuši vai turējuši akvāriju?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kāds ir skaistākais dzīvnieks, ko esat redzējuši?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Pastāstiet par automašīnu, kas jums kādreiz patika."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Vai jūs labprātāk pavadītu dienu pie jūras vai kalnos?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Kurp jūs labprāt dotos izbraucienā?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Ja jūs varētu pārlidot pāri jebkurai vietai, kura tā būtu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Pastāstiet par kādu ceļojumu vai izbraukumu, kas palicis patīkamā atmiņā."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Kāds darbs jums savulaik sagādāja gandarījumu?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Kāds ir tas vaļasprieks, kam jūs varētu veltīt stundām ilgu laiku?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ko tādu jūs pratāt labi pagatavot vai salabot?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Kādu padomu jūs dotu jaunietim, kurš tikko sāk darba gaitas?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kāda mūzika liek kājām pašām sist ritmu?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Kas viesības padara patiešām izdevušās?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kuru dziedātāju jums patīk klausīties?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Kāda ir jūsu mīļākā filma vai raidījums, ko labprāt noskatītos vēlreiz?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Kas jums vasarā patīk visvairāk?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kas jums sagādā prieku rudenī?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Kā jums patīk omulīgi pavadīt ziemas vakaru?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Kādas jums ir pirmās pavasara vēstis?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Sniegs, lietus vai saule – kas jums iet pie sirds vislabāk?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Zieds podiņā",
+          "regions": {
+            "sky": "Fons",
+            "table": "Galds",
+            "stem": "Kāts",
+            "leaf-left": "Kreisā lapa",
+            "leaf-right": "Labā lapa",
+            "petal-1": "Ziedlapiņa 1",
+            "petal-2": "Ziedlapiņa 2",
+            "petal-3": "Ziedlapiņa 3",
+            "petal-4": "Ziedlapiņa 4",
+            "petal-5": "Ziedlapiņa 5",
+            "petal-6": "Ziedlapiņa 6",
+            "petal-7": "Ziedlapiņa 7",
+            "petal-8": "Ziedlapiņa 8",
+            "center": "Zieda viducis",
+            "pot": "Pods",
+            "pot-rim": "Poda maliņa"
+          }
+        },
+        "house": {
+          "name": "Māja",
+          "regions": {
+            "sky": "Debesis",
+            "sun": "Saule",
+            "grass": "Zāle",
+            "chimney": "Skurstenis",
+            "walls": "Sienas",
+            "roof": "Jumts",
+            "door": "Durvis",
+            "window-left": "Kreisais logs",
+            "window-right": "Labais logs",
+            "path": "Taciņa"
+          }
+        },
+        "teacup": {
+          "name": "Tase",
+          "regions": {
+            "background": "Fons",
+            "saucer": "Apakštase",
+            "handle": "Osiņa",
+            "cup": "Tase",
+            "band": "Svītra uz tases",
+            "tea": "Tēja"
+          }
+        },
+        "butterfly": {
+          "name": "Tauriņš",
+          "regions": {
+            "background": "Fons",
+            "wing-top-left": "Augšējais kreisais spārns",
+            "wing-top-right": "Augšējais labais spārns",
+            "wing-bottom-left": "Apakšējais kreisais spārns",
+            "wing-bottom-right": "Apakšējais labais spārns",
+            "spot-left": "Kreisā spārna punkts",
+            "spot-right": "Labā spārna punkts",
+            "body": "Ķermenis"
+          }
+        },
+        "sailboat": {
+          "name": "Buru laiva",
+          "regions": {
+            "sky": "Debesis",
+            "sea": "Jūra",
+            "sail-big": "Lielā bura",
+            "sail-small": "Mazā bura",
+            "mast": "Masts",
+            "hull": "Laiva",
+            "flag": "Karodziņš"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Virtuve un dārzs",
+          "baskets": [
+            "Virtuvē",
+            "Dārzā"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Augļi un dzīvnieki",
+          "baskets": [
+            "Augļi",
+            "Dzīvnieki"
+          ]
+        },
+        "home-travel": {
+          "label": "Mājas un ceļojumi",
+          "baskets": [
+            "Mājās",
+            "Ārpus mājas"
+          ]
+        }
+      }
+    }
+  }
+}

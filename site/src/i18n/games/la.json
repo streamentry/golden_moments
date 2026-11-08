@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Paria imaginum",
+    "seoTitle": "Ludus coniungendi pro dementia: Paria imaginum",
+    "h1": "Paria imaginum: ludus coniungendi lenis",
+    "description": "Ludus coniungendi gratuitus et lenis pro hominibus qui cum dementia vivunt. Imagines magnae manent visibiles, sine horologio aut punctis, et eligis 4 usque ad 12 tessellas.",
+    "short": "Inveni duas imagines quae eaedem sunt. Imagines possunt manere visibiles.",
+    "players": "1 vel 2 homines, una sedentes",
+    "intro": "Tange imaginem, deinde tange eam quae ei congruit. Imagines per se visibiles manent, ita ut nihil memoria tenendum sit. Cum duae imagines inter se conveniunt, marginem aureum et signum comprobationis accipiunt.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Elige quot tessellas adhibere velis. Quattuor tessellae locus tranquillus sunt ad incipiendum.",
+      "Tange quamlibet imaginem. Marginem aureum accipit.",
+      "Tange imaginem quae eadem videtur. Par una manet cum signo comprobationis.",
+      "Si duae imagines diversae sunt, nihil mali accidit. Tange iterum cum paratus vel parata es.",
+      "Verte ad \"Imagines occultae\" solum si ambo versione classica aversa gaudetis."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Nominate imagines una voce clara et de eis colloquimini: \"Poculum rubrum. Lac in thea tua sumis?\"",
+      "Sine personam cui curam praebes ipsam tangere, etiam si tempus requirit. Ostende potius digito quam pro ea tange.",
+      "Mane cum quattuor tessellis quamdiu bene se habet. Plures tessellae sunt electio, numquam gradus assequendus.",
+      "Desine dum adhuc iucundum est. Unus ludus est actio perfecta."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Estne horologium aut puncta?",
+        "a": "Non. Nullum est horologium, nulla puncta, nullus numerus motuum, nulla iactura. Quovis momento desinere potes, et media in parte desinere est modus omnino bonus finiendi."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Cur imagines aversae non sunt?",
+        "a": "Imagines visibiles servare ludum in spectando et coniungendo ponit potius quam in recordando. Multi hoc tranquillius inveniunt. Si mavis, uno tactu ad imagines occultas transire potes."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Estne gratuitum, et mihi inscribendum est?",
+        "a": "Ita, gratuitum est, neque rationem, neque inscriptionem, neque deonerationem requirit. In navigatro interretiali in telephono, tabula vel computatro operatur."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Possumusne nostris photographiis familiaribus uti?",
+        "a": "Ita. Experire Paria photographiarum, quod sinit te photographias ex instrumento tuo eligere. Photographae in navigatro tuo manent neque imponuntur."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Inveni eandem",
+    "seoTitle": "Inveni eandem imaginem: ludus simplex pro dementia",
+    "h1": "Inveni eandem imaginem",
+    "description": "Una imago superne, duae usque ad quattuor infra. Tange eam quae eadem est. Ludus imaginum tranquillus et gratuitus pro hominibus qui cum dementia vivunt, sine horologio.",
+    "short": "Specta imaginem superne et tange eandem infra.",
+    "players": "1 vel 2 homines",
+    "intro": "Una imago in summo scrinio posita est. Infra sunt duae, tres vel quattuor imagines. Tange eam quae eadem est. Una electio simplex simul fit, cum satis spatio ad colloquendum.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Elige duas, tres vel quattuor imagines ex quibus eligas. Duae sunt simplicissimae.",
+      "Spectate una imaginem superne.",
+      "Tange eandem imaginem infra. Signo comprobationis et paucis verbis benignis notatur.",
+      "Si alia imago tangitur, ludus eam simpliciter nominat et exspectat. Sume tempus tuum.",
+      "Tange \"Proxima imago\" cum ad aliam paratus vel parata es."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "De unaquaque imagine colloquimini antequam eligatis: colores, formae, ubi eam videre possis.",
+      "Duae electiones non sunt \"nimis faciles\". Propositum est momentum iucundum, non certamen.",
+      "Si tangere difficile est, persona digito ostendere potest et tu pro ea tangere potes."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Estne horologium aut puncta?",
+        "a": "Non. Nullum est horologium, nulla puncta, nullus numerus motuum, nulla iactura. Quovis momento desinere potes, et media in parte desinere est modus omnino bonus finiendi."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Quid fit si imago non recta tangitur?",
+        "a": "Nihil iniucundum. Nullus sonus molestus, nulla crux rubra, nulla trepidatio. Ludus imaginem tactam nominat et proximum tactum exspectat."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Estne gratuitum, et mihi inscribendum est?",
+        "a": "Ita, gratuitum est, neque rationem, neque inscriptionem, neque deonerationem requirit. In navigatro interretiali in telephono, tabula vel computatro operatur."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Umbrae coniunctio",
+    "seoTitle": "Ludus umbrarum coniungendarum pro dementia: gratuitus in rete",
+    "h1": "Umbrae coniunctio: ludus imaginum lenis",
+    "description": "Umbra obscura superne, duae usque ad quattuor imagines infra. Tange imaginem quae umbram facit. Ludus umbrarum coniungendarum gratuitus et tranquillus pro dementia, sine horologio.",
+    "short": "Specta umbram et tange imaginem quae eam facit.",
+    "players": "1 vel 2 homines",
+    "intro": "Umbras coniungere est actio nota ex schedis impressis, hic cum magnis imaginibus et sine necessitate imprimendi. Umbra lenis in summo scrinio sedet et duae, tres vel quattuor imagines infra exspectant. Tange eam quae umbram facit. Formae sicut birota, umbella vel poculum etiam facilem materiam colloquendi praebent.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Elige duas, tres vel quattuor imagines ex quibus eligas. Duae sunt simplicissimae.",
+      "Spectate una umbram. Quae forma est? Estne alta an rotunda?",
+      "Tange imaginem quae umbram facit. Nomen eius sub umbra apparet.",
+      "Si alia imago tangitur, ludus eam simpliciter nominat et exspectat. Sume tempus tuum.",
+      "Tange \"Proxima umbra\" cum ad aliam paratus vel parata es."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Extremum umbrae digito sequere et de forma colloquere.",
+      "Si umbrae hodie difficiles videntur, transi ad Inveni eandem, ubi imagines similes apparent.",
+      "De imagine colloquere postquam inventa est: \"Umbellam talem habebamus.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Estne horologium aut puncta?",
+        "a": "Non. Nullum est horologium, nulla puncta, nullus numerus motuum, nulla iactura. Quovis momento desinere potes, et media in parte desinere est modus omnino bonus finiendi."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Num umbras conferre iis qui cum dementia vivunt prodest?",
+        "a": "Aliquot personis iucunda et facilis actio esse potest, praesertim primis temporibus. Formae facilius quam verba agnoscuntur. Ad oblectationem et colloquium pertinet, non ad examen, neque dementiam curat vel retardat. Si molestiam affert, conare Reperi idem vel simpliciter imagines una aspicite."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Quid evenit si imago falsa tangitur?",
+        "a": "Nihil ingrati. Nullus sonus acutus, nulla crux rubra, nulla trepidatio adest. Ludus imaginem tactam nominat et proximum tactum exspectat."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Estne gratuitum, et num rationem creare oportet?",
+        "a": "Ita, gratuitum est, neque ulla ratio, inscriptio vel deoneratio requiritur. In navigatro interretiali telephoni, tabulae vel computatri operatur."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Una ordinare",
+    "seoTitle": "Ludus ordinandi iis qui cum dementia vivunt: Una ordinare",
+    "h1": "Una ordinare: actio imaginum disponendarum",
+    "description": "Tange imaginem, deinde tange calathum ad quem pertinet: culinam an hortum, poma an animalia. Tranquilla et gratuita actio disponendi iis qui cum dementia vivunt.",
+    "short": "Pone quamque imaginem in suo calatho: culinae an horti, et pluribus.",
+    "players": "1 vel 2 homines",
+    "intro": "Res disponere est opus cotidianum, notum atque gratum, velut cibos reponere aut soccos componere. Tange imaginem, deinde tange calathum ad quem pertinet. Nulla est festinatio neque iter falsum.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Elige argumentum: culinam et hortum, poma et animalia, aut domum et itinera.",
+      "Tange imaginem. Margo aureus ei circumdatur.",
+      "Tange calathum ad quem pertinet. Imago in illum calathum migrat.",
+      "Si ad alterum calathum pertinet, ludus leniter indicat et exspectat.",
+      "Omnibus imaginibus dispositis, calathos una inspicite."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "In vita cotidiana saepe nulla sunt responsa falsa. Si quis dicit urceolum aquarium ad culinam pertinere, quaere cur. Iucundam fabulam audire potes.",
+      "Utere imaginibus ad colloquium incipiendum: «Quid in horto tuo colebas?»",
+      "Vera obiecta disponere, ut cochlearia et furcillas vel fibulas secundum colores, est actio optima extra velum perficienda."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Num horologium aut puncta computantur?",
+        "a": "Non est. Nullum est horologium, nulla puncta, nullus motuum computator, nulla clades. Quovis momento desinere potes, et in medio cursu consistere est optimus modus finiendi."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Cur res disponere?",
+        "a": "Multis placet res disponere quia opus utile et notum videtur. Facile quoque est per ludum de imaginibus colloqui."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Estne gratuitum, et num rationem creare oportet?",
+        "a": "Ita, gratuitum est, neque ulla ratio, inscriptio vel deoneratio requiritur. In navigatro interretiali telephoni, tabulae vel computatri operatur."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Aenigma pictum",
+    "seoTitle": "Aenigma pictum facile iis qui cum dementia vivunt: 4 vel 9 partes",
+    "h1": "Aenigma pictum: ludus partium facilis",
+    "description": "Aenigma pictum interretiale et facile iis qui cum dementia vivunt: 4 vel 9 magnae partes, tota imago conspicua manet, et duas partes tangis ut locum inter se mutent.",
+    "short": "Tange duas partes ut locum mutent, donec imago integra sit.",
+    "players": "1 vel 2 homines",
+    "intro": "Iucunda imago in quattuor vel novem magnas partes secta et commixta est. Tota imago ad ducendum conspicua manet. Tange unam partem, deinde aliam, et locum inter se mutant. Nihil trahendum est.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Elige imaginem et 4 vel 9 partes. Quattuor partes initium lene praebent.",
+      "Aspice totam imaginem in summa parte.",
+      "Tange partem, deinde locum ubi esse debeat. Duae partes locum inter se mutant.",
+      "Partibus recte conlocatis parva nota comprobationis additur.",
+      "Cum imago integra est, una ea gaudete, deinde aliam eligite."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Multis multo facilius est duas partes tangere ad mutandum quam eas trahere.",
+      "Colloquimini de imagine dum componitur: «En tectum rubrum.»",
+      "Verum aenigma ligneum 12 ad 24 magnarum partium est etiam iucunda actio ad mensam."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Num horologium aut puncta computantur?",
+        "a": "Non est. Nullum est horologium, nulla puncta, nullus motuum computator, nulla clades. Quovis momento desinere potes, et in medio cursu consistere est optimus modus finiendi."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Oportetne me partes trahere?",
+        "a": "Non oportet. Tange unam partem, deinde aliam, et locum inter se mutant. Hoc facilius est manu tremente vel in parvo velo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Estne gratuitum, et num rationem creare oportet?",
+        "a": "Ita, gratuitum est, neque ulla ratio, inscriptio vel deoneratio requiritur. In navigatro interretiali telephoni, tabulae vel computatri operatur."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Sententiam perficere",
+    "seoTitle": "Sententiam perficere: ludus proverbiorum senioribus",
+    "h1": "Sententiam perficere",
+    "description": "Sententiae notae quibus extremum verbum deest, velut «As servatus est as ___». Tange optionem vel ostende finem, deinde de ea colloqui.",
+    "short": "Sententias notas una perficite, deinde de eis colloquimini.",
+    "players": "1, 2 vel grex",
+    "intro": "Sententiae antiquae saepe per totam vitam bene memoria tenentur. Quaeque chartula sententiam notam exhibet cui ultimum verbum deest, tres optiones, et bullam «Ostende finem». Fine ostenso, lenis quaestio ad colloquium invitat.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Sententiam clara voce una legite.",
+      "Tange verbum quod eam perficit, vel tange «Ostende finem».",
+      "Totam sententiam rursus legite et ope quaestionis de ea colloquimini.",
+      "Tange «Proxima sententia» cum parati eritis."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Legite lente et paulum desinite ante ultimum verbum. Saepe homines id pronuntiant antequam finieris.",
+      "Si quis alium finem dixerit, eo gaudete. Nonnullae versiones sententiarum pro familia aut regione variant.",
+      "In circulo, unus legit et ceteri omnes finem una pronuntiant."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Num horologium aut puncta computantur?",
+        "a": "Minime. Nullum est horologium, nulla puncta, nullus motuum computus, nec ulla clades. Quoquo momento desinere potes, et in medio itinere consistere optime sufficit."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Quid si aliud verbum eligimus?",
+        "a": "Ludus finem solitum ostendit et ad colloquium procedit. Nullus est calculus punctorum, et aliud responsum aeque placet."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Estne gratuitum, et oportetne me nomen profiteri?",
+        "a": "Ita, gratuitum est, sine rationis confectione, sine professione nominis aut oneratione documentorum. In navigatro interretiali telephoni, tabulae vel computatri operatur."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Verborum inquisitio litteris grandioribus",
+    "seoTitle": "Verborum inquisitio litteris grandibus ad personas cum dementia viventes, imprimenda",
+    "h1": "Verborum inquisitio litteris grandioribus",
+    "description": "Gratuita verborum inquisitio litteris grandibus ad seniores et personas cum dementia viventes. Pauca verba, litterae amplae, tantum transversa et deorsum spectantia. Lude in interreti vel imprime.",
+    "short": "Litterae amplae, pauca verba, transversa et deorsum tantum. Etiam imprimere licet.",
+    "players": "Una vel duae personae",
+    "intro": "Cancellata parva litteris amplis et paucis verbis instructa, omnibus transversim aut deorsum directis. Tange primam verbi litteram, deinde ultimam. Chartamne mavis? Novum aenigma uno tactu imprime.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Elige argumentum et cancellorum magnitudinem.",
+      "Inspice indicem verborum. Verba a sinistra ad dextram aut a summo ad imum leguntur.",
+      "Tange primam verbi litteram, deinde ultimam.",
+      "Verbum repertum colore clariore notatur et ex indice transfigitur.",
+      "Tange \"Imprime hoc aenigma\" ut in charta graphio vel atramento scribas."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Monstra verbum in indice et primam eius litteram una quaerite.",
+      "In charta, graphium crassius facilius manu tenetur quam stilus.",
+      "De verbis argumenti conloquimini. Verba pomorum memoriam legendi, coquendi aut fori suaviter revocant."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Estne horologium aut punctorum calculus?",
+        "a": "Minime. Nullum est horologium, nulla puncta, nullus motuum computus, nec ulla clades. Quoquo momento desinere potes, et in medio itinere consistere optime sufficit."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Possumne verborum inquisitionem imprimere?",
+        "a": "Ita. Tange \"Imprime hoc aenigma\" ut praesentem cancellaturam litteris amplis cum indice verborum subiecto imprimas. Quodque novum aenigma diversum est."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Estne gratuitum, et oportetne me nomen profiteri?",
+        "a": "Ita, gratuitum est, sine rationis confectione, sine professione nominis aut oneratione documentorum. In navigatro interretiali telephoni, tabulae vel computatri operatur."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Paginae colorandae",
+    "seoTitle": "Paginae colorandae adultis cum dementia viventibus (Gratuitae)",
+    "h1": "Paginae colorandae",
+    "description": "Paginae simplices ad adultos accommodatae amplis spatiis: elige colorem, deinde imaginem tange. Nihil foedatur, nulli colores vitiosi sunt, et omnis pagina gratis imprimi potest.",
+    "short": "Tange colorem, deinde partem imaginis. Paginas etiam imprime.",
+    "players": "Una vel duae personae",
+    "intro": "Paginae formis amplis et simplicibus: flos in fictili, domus, calix theae, papilio, navis velifera. Tange colorem, deinde partem imaginis ut eam impleas. Nulli colores reprehenduntur.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Elige paginam.",
+      "Tange colorem. Cuique colori nomen suum inscriptum est.",
+      "Tange partem imaginis ut eam hoc colore impleas.",
+      "Sententiam mutare potes quandocumque alio colore denuo infuso.",
+      "Tange \"Imprime hanc paginam\" ut paginam vacuam stilis aut cretis tingas."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Duos potius colores quam omnes propone, si electio nimis gravis videtur.",
+      "Arbores purpureae et soles caerulei libenter accipiuntur. Hic de laetitia colorum, non de veritate agitur.",
+      "Paginae impressae graphiis crassioribus aut cretis aptissime complentur, quae facilius manu tenentur."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Estne horologium aut punctorum calculus?",
+        "a": "Minime. Nullum est horologium, nulla puncta, nullus motuum computus, nec ulla clades. Quoquo momento desinere potes, et in medio itinere consistere optime sufficit."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Num hae paginae pueriliores videntur?",
+        "a": "Res serenas et simplices potius quam figuras iocosas delineavimus, ut paginae adultis convenirent. Formae amplae picturam facilem servant sine ulla puerilitate."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Estne gratuitum, et oportetne me nomen profiteri?",
+        "a": "Ita, gratuitum est, sine rationis confectione, sine professione nominis aut oneratione documentorum. In navigatro interretiali telephoni, tabulae vel computatri operatur."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Chartulae colloquii",
+    "seoTitle": "Initia colloquii ad personas cum dementia viventes: chartulae cum imaginibus",
+    "h1": "Chartulae colloquii",
+    "description": "Chartulae cum imaginibus et mitibus sermonum initiis ad personas cum dementia viventes: sine probationibus, sine responsis exquisitis. Utere in scrinio vel imprime seriem integram.",
+    "short": "Chartulae cum imaginibus et quaestionibus apertis ac mitibus. Sine interrogationibus anxiis.",
+    "players": "Duae personae vel coetus",
+    "intro": "Quaeque chartula imaginem notam cum aperta invitatione ad confabulandum coniungit, ut \"Quale caelum maxime diligis?\". Nullae sunt responsiones exactae neque quicquam meminisse necesse est. Elige argumentum vel omnes permisce.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Elige argumentum, vel retine \"Omnes chartulae\".",
+      "Quaestionem clara voce lege et imaginem una aspicite.",
+      "Ausculta, tuum responsum impertire, et sermonem libere vagari sine.",
+      "Tange \"Chartula sequens\" cum paratus eris, vel in una chartula mane quamdiu voles.",
+      "Tange \"Imprime omnes chartulas\" ut seriem chartaceam decerpas."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Tu quoque quaestioni responde. Colloquium enim decet esse, non percontatio.",
+      "Fabulae cursum sequere, non singula facta. Si minuta variantur, nihil impedit.",
+      "Si qua chartula animum tristiorem tangit, adfectum agnosce et leniter ad aliam transi."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Cur nullae quaestiones sunt de genere \"Meministine…\"?",
+        "a": "Quaestiones quae memoriam examinant probationis speciem afferre et pudorem movere possunt. Mites invitationes ut \"Narra mihi de…\" omnibus facultatem una participandi praebent, quidquid meminerint."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Possumne chartulas imprimere?",
+        "a": "Ita. \"Imprime omnes chartulas\" totam seriem litteris amplis imprimit, compluribus chartulis in singulis paginis ad resecandum instructis."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Estne gratuitum, et oportetne me nomen profiteri?",
+        "a": "Ita, omnino gratuitum est, nec ratio, nec subscriptio, nec receptio documenti requiritur. In navigatro interretiali telephoni, tabulae aut computatri operatur."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Paria imaginum",
+    "seoTitle": "Ludum comparationis ex imaginibus familiaribus crea",
+    "h1": "Paria imaginum: imagines tuas ipsius compone",
+    "description": "Imagines domesticas in lene comparandi ludicrum converte. Sume 2 ad 6 imagines in instrumento tuo; in navigatro manent nec umquam transmittuntur.",
+    "short": "Elige imagines tuas et paria compone. Nihil transmittitur.",
+    "players": "Duo homines, alter iuxta alterum",
+    "intro": "Sume duas ad sex imagines e telephono, tabula aut computatro tuo, quae in ludum imaginum magnarum et clararum convenient. Imagines tantum in hac pagina exhibentur. Non transmittuntur, non servantur, non communicantur, atque pagina clausa statim evanescunt.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tange «Elige imagines» et duas ad sex imagines sume.",
+      "Quaeque imago bis apparet. Tange unam, deinde tangito parem.",
+      "De singulis imaginibus, prout reperiuntur, libenter confabulamini.",
+      "Re peracta, claude paginam aut tange «Dele imagines». Nihil servatur."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Elige claras imagines rerum laetarum ac notarum: animalis domestici, horti, loci dilecti, diei nuptiarum.",
+      "Imagines locorum ac rerum faciliores esse possunt quam voltus, nec necessitatem nominandi homines inferunt.",
+      "Omitte imagines eorum qui e vita excesserunt si forte dolorem afferant, nisi scias eas solacium parere."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Num imagines meae usquam transmittuntur?",
+        "a": "Minime. Haec pagina imagines electas directe in navigatro tuo legit et in velo ostendit. Nec ad nos nec ad alium quemquam mittuntur, et pagina clausa vel denuo refecta statim evanescunt."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Num index temporis aut punctorum adest?",
+        "a": "Minime. Nullum horologium, nulla puncta, nullus motuum computus, nulla amissio est. Quovis momento desinere potes, et in medio cursu finem facere optime decet."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Possumne ludum in posterum servare?",
+        "a": "Non in navigatro, consulto quidem, ne quid privati servetur. Applicatio gratuita Golden Moments pro iPhone et iPad exempla imaginum selectorum in instrumento tuo servare potest."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo imaginum",
+    "seoTitle": "Bingo imaginum pro senioribus cum memoriae defectu: chartis imprimendis",
+    "h1": "Bingo imaginum pro circulis",
+    "description": "Bingo imaginum gratuitum chartis imprimendis pro circulis seniorum et eorum qui memoria labant, cum monstratore magno in velo. Imagines amplae cum verbis, 9 vel 16 quadrata, sine legendi necessitate.",
+    "short": "Chartae bingo imaginum imprimendae et monstrator in amplo velo pro circulis.",
+    "players": "Circulus 2 ad 30 hominum",
+    "intro": "Ludus notus bingo cum imaginibus loco numerorum, ut nemo parvas litteras legere cogatur. Imprime seriem chartarum singularium, deinde monstratore in velo utere ad singulas imagines ampliter exhibendas in televisorio, computatro gestabili aut tabula.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Elige 9 vel 16 quadrata in singulis chartis et numerum ludentium.",
+      "Tange «Imprime chartas». Quaeque charta dissimilis est.",
+      "Aperi monstratorem in amplo velo. Tange «Proxima imago» ut singulae imagines cum nomine monstrentur.",
+      "Ludentes congruentem imaginem in charta sua nummo, globulo vel calculo tegunt.",
+      "Omnes qui seriem vel totam chartam complent, plausu excipiuntur. In hac ratione nemo vincitur: pergite ludere donec omnes seriem compleverint."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Utere calculis grandioribus, sicut damarum calculis vel operculis vasorum. Globuli parvi manu difficilius capiuntur.",
+      "Imaginem nomine apella et aliquid de ea adice: «Navis velifera. Quis umquam in navi navigavit?»",
+      "Qui difficulter vident, quam proxime ad velum consideant, atque adiutores cum iis ludentibus iunge qui ope indigent.",
+      "Novem quadrata plerisque circulis sufficiunt. Tempus ludendi circa 20 ad 30 minuta contineatur."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Quomodo bingo imaginum in domo curae agere possum?",
+        "a": "Imprime singulas chartas pro singulis ludentibus, monstratorem in maximo velo colloca, et imagines lente prome, singulis nominatis. Ludite donec quisque seriem compleverit, ne quis praetermittatur."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Num chartas gratis imprimere licet?",
+        "a": "Ita. Imprime tot chartas quot opus est, quotiens voles, ad usum privatum vel circularem."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Possuntne homines ludere sine legendi usu?",
+        "a": "Ita. Quodque quadratum imaginem magnam habet, nomine infra scripto iis qui litteras legere gaudent."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Spiratio tranquilla",
+    "seoTitle": "Mora spirandi tranquilla pro senioribus et curatoribus",
+    "h1": "Mora spirandi tranquilla",
+    "description": "Mora spirandi lenta ac tranquilla communiter capienda: orbis lenis per sex spiritus crescit et minuitur. Tu incipis, et quovis tempore desinere potes.",
+    "short": "Lentus orbis ad una spirandum. Incipe ac desine cum voles.",
+    "players": "1 vel 2 homines",
+    "intro": "Aliquando optima actio est tranquilla requies. Tange «Incipe», deinde duc spiritum cum orbis crescit et emitte cum minuitur. Elige cursum lentiorem vel celeriorem. Non est curatio, sed placidum temporis spatium una communicandum.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Commoditer alter iuxta alterum consedete.",
+      "Elige modum: lentum vel lene.",
+      "Tange «Incipe». Spiritum duc dum orbis crescit, et emitte dum minuitur.",
+      "Post sex spiritus sponte cessat, vel tange «Desine» cum voles."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Iunge manus aut manum super bracchium comitis leniter impone, si gratum est.",
+      "Numquam coge. Si spectare mavult, optime se habet.",
+      "Si quis difficulter spirat, more solito spiret et simpliciter orbem intueatur. De omnibus spirandi sollicitudinibus medicum consule."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Num hoc est exercitium spirandi medicum?",
+        "a": "Minime. Est simplex ac libitum intervallum ad quietem ac societatem captandam. Non est curatio angoris vel cuiusvis morbi. De valetudinis sollicitudinibus cum medico colloquere."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Num orbis movetur nisi ipse incipiam?",
+        "a": "Non. Nihil movetur antequam 'Incipe' tangis, et post sex respirationes vel cum 'Siste' tangis desinit. Si instrumentum tuum ad motum minuendum aptatum est, verba mutantur nec circulus crescit."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Estne gratuitum, et oportetne nomen dare?",
+        "a": "Ita, gratuitum est, neque ulla ratione, inscriptione, aut deoneratione opus est. In navigatro interretiali telephoni, tabulae, vel computatri operatur."
       }
     ]
   }

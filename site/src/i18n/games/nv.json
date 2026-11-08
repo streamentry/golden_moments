@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Eʼelyaaígíí ałhą́ą́h ádaatʼéii",
+    "seoTitle": "Diné Bee Bééhózin Yóóʼ Adeezʼeeʼígíí bá Ałhą́ą́h Ádaatʼéii Hánítá: Eʼelyaaígíí Ałhą́ą́h Naaznilígíí",
+    "h1": "Eʼelyaaígíí Ałhą́ą́h Naaznilígíí: Hazhóʼógo Ałhą́ą́h Ádaatʼéii Hánítá",
+    "description": "Diné bee bééhózin yóóʼ adeezʼeeʼígíí bá tʼáá jííkʼeh, hazhóʼógo ałhą́ą́h ádaatʼéii hánítá. Eʼelyaaígíí nitsxaago tʼáá daaltsééh, bee oolkił dóó ahiih yiisdzooígíí ádin, áádóó 4 bitsʼą́ą́dóó 12jįʼ eʼelyaaígíí bíká nanináa dooleeł.",
+    "short": "Naaki eʼelyaaígíí tʼáá aheełtʼéii hánítá. Eʼelyaaígíí tʼáá daaltsééh dooleeł.",
+    "players": "1 doodaiiʼ 2 diné, ałhą́ą́h nitsíkeesgo",
+    "intro": "Łaʼ eʼelyaaígíí bikʼi didíilnih, áádóó bił aheełtʼéii bikʼi didíilnih. Eʼelyaaígíí tʼáá bíyó daaltsééh ńtʼééʼ, áko tʼáadoo leʼé béénáhojizhdiilzin da. Naaki ałhą́ą́h aheełtʼéii ałhą́ą́h yitʼihgo óola bibaʼ dahooleʼ dóó bee lá oolzinígíí bikʼi siláa dooleeł.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Díkwíísh eʼelyaaígíí choidooʼįįłígíí nídidíiłtsoos. Dį́įʼgo choidooʼįįłígíí tʼáá hazhóʼógo bee hahodoolzhish.",
+      "Tʼáá háiida eʼelyaaígíí bikʼi didíilnih. Óola bibaʼ siliiʼ dooleeł.",
+      "Eʼelyaaígíí bił tʼáá aheełtʼéii bikʼi didíilnih. Tʼáá ałchʼish ałhą́ą́h siliiʼgo bee lá oolzinígíí bikʼi siláa dooleeł.",
+      "Naaki eʼelyaaígíí ałʼąą átʼéego áko tʼáadoo dahooʼaʼí. Áko hashtʼedoolzhishgo náánáłaʼ bikʼi didíilnih.",
+      "\"Hidden pictures\" tʼóó ałchʼish tʼáá aheełtʼéego ałkʼidą́ą́ʼ naʼaneʼ nisin ládą́ą́ʼ tʼéiyá díiltʼih."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Eʼelyaaígíí ałhą́ą́h yisínółtʼéego bízhiʼ bił dahohtí dóó baa yádaahłtiʼ: \"Chʼil ahwééh bee hadaʼditʼéhí łichíʼígíí. Abeʼ daatsʼí bee nitchʼil ahwééh áyíłʼį́?\"",
+      "Diné baa áhólyánígíí tʼáá bí eʼelyaaígíí bikʼi daʼdilnih dooleeł, tʼáá nzaad nidi. Bíká bikʼi daʼdilnihgi átʼéego tʼóó bee bichʼįʼ bibiká ádídíílííł.",
+      "Dį́įʼgo naaznilígíí tʼáá bił yáʼátʼéhégóó bee nohłaa dooleeł. Tʼóó ahayóí naaznilígíí tʼáá bee akʼinaʼaʼáhígíí átʼé, dooda bikʼijiʼ hodoodleełígíí átʼée da.",
+      "Tʼah yáʼátʼééh yę́ędą́ą́ʼ tʼóó ałchʼįʼ kónóhłééh. Tʼáá łahda naʼanéhígíí haneʼ ałtso siláago átʼé."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Bee oolkił doodaiiʼ ahiih yiisdzooígíí daatsʼí hólǫ́?",
+        "a": "Dooda. Oolkił, aíitsʼoodí, daashkidí doodaiiʼ baa chʼéhónéhígíí ádin. Tʼáá kódzaagóó tʼóó baa aníhootʼiʼ dóó ałnííʼ góneʼ tʼáadoo átʼéhí bee kódoolnííł."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Haʼátʼéegoshąʼ eʼelyaaígíí tʼáá daaltsééh?",
+        "a": "Eʼelyaaígíí tʼáá daaltsééh ládą́ą́ʼ, tʼóó ałhą́ą́h aheełtʼéii jineelʼį́į́ dooleeł, béénáhojizhdiilzinihígíí ádin. Tʼóó ahayóí diné díí bee hazhóʼó nitsídaakees. Tʼáá łaʼ bikʼi didíilnihgo biiʼ daaltsoozígíí nanilʼį́į́ dooleeł."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Tʼáá jííkʼehísh átʼé, áádóó yisdzoosh bá dooleeł?",
+        "a": "Aooʼ, tʼáá jííkʼeh, dóó haʼátʼiida bíkaahjįʼ ádá hoł dahoozhood da doodaiiʼ bízhiʼ ahíjilzhood da. Béeso bichʼáayaahí, naaltsoos bikáaʼgi naatsʼǫǫdii doodaiiʼ béésh bee nidaʼaʼnéhí yikáaʼgi tʼáá bíyó yitʼį́."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Nihikʼéí dabiʼeʼelyaaígíísh choideiilʼįįł doo?",
+        "a": "Aooʼ. Photo pairs wolyéhígíí choiníłʼįįh, nibéésh biiʼ eʼelyaaígíí tʼáá nííłnízinígi átʼéego choididíiłtsooł. Eʼelyaaígíí nibéésh tʼáá biiʼ siłtsooz dóó tʼáadoo dahoʼdeiłtʼóod da."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Tʼáá aheełtʼéii hánítá",
+    "seoTitle": "Tʼáá Aheełtʼéii Hánítá: Diné Bee Bééhózin Yóóʼ Adeezʼeeʼígíí bá Naʼané",
+    "h1": "Tʼáá Aheełtʼéii Hánítá",
+    "description": "Deigo łaʼ eʼelyaa silá, biyaagi naaki bitsʼą́ą́dóó dį́įʼjįʼ naaznil. Tʼáá aheełtʼéii bikʼi didíilnih. Diné bee bééhózin yóóʼ adeezʼeeʼígíí bá tʼáá jííkʼeh, hazhóʼógo naʼané, bee oolkił ádin.",
+    "short": "Deigo eʼelyaaígíí jidííłtsééł dóó biyaadi bił tʼáá aheełtʼéii bikʼi didíilnih.",
+    "players": "1 doodaiiʼ 2 diné",
+    "intro": "Eʼelyaa bikáaʼgi tʼáá sáhí deigo silá. Biyaagi naaki, tááʼ doodaiiʼ dį́įʼgo eʼelyaa naaznil. Tʼáá aheełtʼéii bikʼi didíilnih. Tʼáá łaʼ hazhóʼógo ałhą́ą́h siláago átʼé, dóó ałhą́ą́h yáʼátʼeehgo yátiʼ hólǫ́.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Naaki, tááʼ doodaiiʼ dį́įʼgo eʼelyaa bitahdóó nídidíiłtsoos. Naakigo átʼéhígíí tʼáá áłtsʼíísí bee áhootʼé.",
+      "Deigo eʼelyaaígíí ałhą́ą́h jineelʼį́į́ dooleeł.",
+      "Biyaagi tʼáá aheełtʼéii bikʼi didíilnih. Bee lá oolzin dóó tʼáá hazhóʼó saad bikʼi dah shijaaʼ dooleeł.",
+      "Łahgo átʼéii bikʼi didíilnih ládą́ą́ʼ, naʼanéhígíí bízhiʼ ayóíltíʼ dóó bibaa tʼáá siʼą́. Tʼáadoo nitsʼíʼkéez da.",
+      "Náánáłaʼ hazhóʼógo bee hahodoolzhishgo \"Next picture\" bikʼi didíilnih."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Eʼelyaa nídidíiłtsoosgo tʼahdoo nídazhʼdiiłtsoozdą́ą́ʼ baa yádaahłtiʼ: bidaʼitʼéhígíí, anoołninígíí, dóó háájí daatsʼí jooʼį́į́ dooleeł.",
+      "Naakigo eʼelyaa naaznilígíí tʼáadoo \"ayóó ániitʼée da\" nízingo biniinaa átʼée da. Hazhóʼógo baa ahooʼniihígíí biniyé átʼé, dooda naalnishígi átʼée da.",
+      "Bikʼi didíilnih tʼóó nanitłʼah ládą́ą́ʼ, diné baa áhólyánígíí tʼóó bibiká ádoolnííł dóó ní tʼáá ní bikʼi didíilnih."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Bee oolkił doodaiiʼ ahiih yiisdzooígíí daatsʼí hólǫ́?",
+        "a": "Dooda. Oolkił, aíitsʼoodí, daashkidí doodaiiʼ baa chʼéhónéhígíí ádin. Tʼáá kódzaagóó tʼóó baa aníhootʼiʼ dóó ałnííʼ góneʼ tʼáadoo átʼéhí bee kódoolnííł."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Łahgo átʼéii bikʼi didíilnihgo haa doodziił?",
+        "a": "Haʼátʼiida doo yáʼátʼééhii ádin. Doo ditsʼaʼ da, tsin ałkʼidą́ą́ʼ łichíiʼgo ádin, dóó doo naʼanáhoʼditʼéh da. Naʼanéhígíí eʼelyaa bikʼi didoolnihígíí bízhiʼ ayóíltíʼ dóó náánáłaʼ bikʼi didoolnih bibaʼ siʼą́."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Tʼáá jííkʼehísh átʼé, áádóó yisdzoosh bá dooleeł?",
+        "a": "Aooʼ, tʼáá jííkʼeh, dóó haʼátʼiida bíkaahjįʼ ádá hoł dahoozhood da doodaiiʼ bízhiʼ ahíjilzhood da. Béeso bichʼáayaahí, naaltsoos bikáaʼgi naatsʼǫǫdii doodaiiʼ béésh bee nidaʼaʼnéhí yikáaʼgi tʼáá bíyó yitʼį́."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Chahaʼoh bił aheełtʼéii hánítá",
+    "seoTitle": "Chahaʼoh Bił Aheełtʼéii Diné Bee Bééhózin Yóóʼ Adeezʼeeʼígíí bá Naʼané: Tʼáá Jííkʼeh",
+    "h1": "Chahaʼoh Bił Aheełtʼéii Hánítá: Hazhóʼógo Naʼané",
+    "description": "Deigo chahaʼoh diłhiłgo silá, biyaagi naaki bitsʼą́ą́dóó dį́įʼjįʼ eʼelyaa naaznil. Eʼelyaa chahaʼoh áyiilaaígíí bikʼi didíilnih. Diné bee bééhózin yóóʼ adeezʼeeʼígíí bá tʼáá jííkʼeh, hazhóʼógo chahaʼoh ałhą́ą́h aheełtʼéii hánítá, bee oolkił ádin.",
+    "short": "Chahaʼohígíí jineelʼį́į́ dooleeł dóó eʼelyaa áyiilaaígíí bikʼi didíilnih.",
+    "players": "1 doodaiiʼ 2 diné",
+    "intro": "Chahaʼoh bił aheełtʼéii hánítahígíí éí naaltsoos bikáaʼgi naʼaneʼ yę́ęgi átʼé, ákondi kǫ́ǫ́ éí eʼelyaa nitsaago tʼáá daaltsééh dóó tʼáadoo haʼátʼiida bee bikʼedaʼashchį́į́hí. Hazhóʼógo chahaʼoh deigo silá dóó biyaagi naaki, tááʼ doodaiiʼ dį́įʼgo eʼelyaa bibaʼ naaznil. Eʼelyaa chahaʼoh áyiilaaígíí bikʼi didíilnih. Dziʼizí, bee chahaʼohí doodaiiʼ chʼil ahwééh bibeʼestłʼóhí átʼéhígíí baa yádaʼatiʼgo yáʼátʼéeh dooleeł.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Naaki, tááʼ doodaiiʼ dį́įʼgo eʼelyaa bitahdóó nídidíiłtsoos. Naakigo átʼéhígíí tʼáá áłtsʼíísí bee áhootʼé.",
+      "Chahaʼoh ałhą́ą́h jineelʼį́į́ dooleeł. Haash anoołnin? Nitsxaa daatsʼí doodaiiʼ némazí?",
+      "Eʼelyaa chahaʼoh áyiilaaígíí bikʼi didíilnih. Bízhiʼ chahaʼoh biyaagi yitʼį́į dooleeł.",
+      "Łahgo átʼéii bikʼi didíilnih ládą́ą́ʼ, naʼanéhígíí bízhiʼ ayóíltíʼ dóó bibaa tʼáá siʼą́. Tʼáadoo nitsʼíʼkéez da.",
+      "Náánáłaʼ chahaʼoh hazhóʼógo bee hahodoolzhishgo \"Next shadow\" bikʼi didíilnih."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Bíláshgaan bee chahaʼoh bibaʼígíí hazhóʼógo bikʼijįʼ adoolniił dóó anoołninígíí baa yádaahłtiʼ.",
+      "Díí jį́ chahaʼoh nanitłʼahgo áhootʼé ládą́ą́ʼ, Tʼáá aheełtʼéii hánítá wolyéhígíí wóshdę́ę́ʼ choiníłʼįįh, ákwiigo eʼelyaa tʼáá ałhą́ą́h aheełtʼé.",
+      "Eʼelyaa bikʼi didoolnihgo baa yádaahłtiʼ: \"Bee chahaʼohí díí gi átʼéii neiitį́į́ ńtʼééʼ.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Bee oolkił doodaiiʼ ahiih yiisdzooígíí daatsʼí hólǫ́?",
+        "a": "Dooda. Oolkił, aíitsʼoodí, daashkidí doodaiiʼ baa chʼéhónéhígíí ádin. Tʼáá kódzaagóó tʼóó baa aníhootʼiʼ dóó ałnííʼ góneʼ tʼáadoo átʼéhí bee kódoolnííł."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Bénáshniih bichʼįʼ anídahaztʼiʼii chahaʼoh ałhą́ą́h niléhígíísh yáʼátʼéehgo bá átʼé?",
+        "a": "Łaʼ dineʼé bá yáʼátʼéehgo dóó tʼáadoo nanitłʼahgóó baa nidaʼané, tʼah kóníghánígo bichʼįʼ anídahaztʼiʼgo. Átʼéego naashchʼąąʼígíí bééhózin łeh saad biláahgo. Díí éí tʼáá bił dahózhoodóó bił chʼééh dahoołtiʼ biniyé átʼé, doo tʼáá naaltsoos bikʼehgo naʼídíkid átʼée da, áádóó bénáshniih doo nééjiiʼeeł da doodaiiʼ doo ałdóʼ bichʼįʼ hoditłʼéego áyósin da. Tʼóó bikʼee yá dilzin silį́įʼgo, Find the same bídadíilchíił doodaiiʼ eʼelyaaígíí tʼóó ałhiiʼ nééłʼį́į́ʼ dooleeł."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Eʼelyaaígíí doo bił aheełtʼéeʼii tʼáá bidíilchʼį́į́dgóó haash yitʼeeh dooleeł?",
+        "a": "Tʼáadoo átʼéhégóó átʼé. Doo hodiistsʼaʼgóó, łichííʼ bee ałchʼįʼ ałnánóodah da, doodaiiʼ doo digis da. Eʼelyaaígíí bidíilchʼį́į́d yę́ę yiyíizhiʼgo tʼóó baa náhodiitsʼį́į́h, náánáłahjígo bidíilchʼį́į́ł biniyé."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Díísh tʼáá jííkʼeh átʼé, áádóó yízhísh bee naaltsoos ádiilnííł?",
+        "a": "Aooʼ, tʼáá jííkʼeh átʼé, doo naaltsoos biih yiníłtsood da, doo bee yízhí ádaalʼįįh da, áádóó doo béésh biih yoołhééł da. Béésh bee haneʼé, tablet, doodaiiʼ béésh nitsékeesí bikáaʼgi web browser bee choidooʼįįł."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Ałhą́ą́h Naashchʼid",
+    "seoTitle": "Dementia Games: Golden Moments: Ałhą́ą́h Naashchʼid (Sort Together)",
+    "h1": "Ałhą́ą́h Naashchʼid: Eʼelyaaígíí Ałtsʼádaaztłʼahgo Naniłkaad",
+    "description": "Eʼelyaaígíí bidíilchʼį́į́ł, áádóó tsʼaaʼ biiʼ dooleełgi bidíilchʼį́į́ł: chʼiyáán ádaalniiʼgi doodaiiʼ kʼéédídzéehgi, tsin bineestʼąʼ doodaiiʼ naaldlooshii. Bénáshniih bichʼįʼ anídahaztʼiʼii bá hazhóʼógo dóó tʼáá jííkʼeh naʼané átʼé.",
+    "short": "Eʼelyaaígíí tʼáá ałtso bi-tsʼaaʼ biih niniłnil: chʼiyáán ádaalniiʼgi doodaiiʼ kʼéédídzéehgi, dóó náánáłahdę́ę́ʼ ałdóʼ.",
+    "players": "1 doodaiiʼ 2 dineʼé",
+    "intro": "Tʼáá ałtsʼádaaztłʼahgo niniłnil éí tʼáá kótʼéego bééhózingo dahoołtsʼaaʼ, chʼiyáán náhidiildééh yę́ę niníłtsósígi doodaiiʼ ké biih niníłtsósígi átʼé. Eʼelyaaígíí bidíilchʼį́į́ł, áádóó tsʼaaʼ biiʼ dooleełgi bidíilchʼį́į́ł. Doo tʼóó tsxį́į́łgo da áádóó doo łaʼ nizaad tʼóó hólǫ́ǫ da.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Naashchʼąąʼígíí bee baa nitsáhákeesígíí néidíiltsos: chʼiyáán ádaalniiʼgi dóó kʼéédídzéehgi, tsin bineestʼąʼ dóó naaldlooshii, doodaiiʼ hooghandi dóó náhizhdíldahgi.",
+      "Eʼelyaaígíí bidíilchʼį́į́ł. Óola nahalinígíí bił bąąh yílzhóóh dooleeł.",
+      "Tsʼaaʼ biiʼ dooleełgi bidíilchʼį́į́ł. Eʼelyaaígíí éí tsʼaaʼ yiiʼ dínóodah.",
+      "Náánáłaʼ tsʼaaʼ biiʼ dooleełgo éí, naʼanéhígíí hazhóʼógo haniʼ yee níłhó dooleeł dóó baa náhodiitsʼį́į́h.",
+      "Eʼelyaaígíí tʼáá ałtso ałtsʼádadeeznilgo, tsʼaaʼ biiʼ daaznilígíí tʼáá ałhiiʼ nééłʼį́į́ʼ dooleeł."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Iiná biiʼ éí doo tʼáá ałtso haʼátʼííshį́į́ doo yáʼátʼéeh da bee haʼoodzííʼ da. Łaʼída tó bee kʼéédíleʼé chʼiyáán ádaalniiʼgi niléh dooleeł hidíiniidgo, haʼátʼíísh biniyé bididíilniił. Haneʼ yáʼátʼéehii łaʼ naniidíiltsoos dooleeł.",
+      "Eʼelyaaígíí bee nitsáhákees ádíilnííł: \"Haʼátʼíísh kʼéédídzéehgi nidilchʼil ńtʼę́ę́ʼ?\"",
+      "Tʼáá ákótʼéego dahólóonii choidooʼįįł, béésh adeʼ dóó béésh bighánígíí doodaiiʼ yooʼ bąąh naashchʼąąʼígíí bikʼehgo ałtsʼániłnil, béésh nitsékeesí bitsʼą́ą́ʼ kótʼéego ałdóʼ yáʼátʼéehgo bee naʼadá."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ahééʼílkidígíí doodaiiʼ score-sh hólǫ́?",
+        "a": "Dooda. Doo ahééʼílkid da, doo score hólǫ́ǫ da, doo ałhą́ą́h naniłkaadígíí yíłtó da, dóó doo haʼda hodeezdlį́įʼ da. Tʼáá hádidááh tʼóó kónígháníjįʼ ninídíiltaʼ, áádóó ałnííʼjįʼ ninítʼiʼgo ałdóʼ tʼáá yáʼátʼéehgo ałtso ázhdoolííł."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Haʼátʼíísh biniyé ałtsʼániłnil?",
+        "a": "Dineʼé tʼóó ahayóí ałtsʼániłnil bił yáʼátʼéeh łeh, naanish choidooʼįįłígíí dóó bééhózinígíí nahalin biniinaa. Áádóó eʼelyaaígíí baa chʼééh dahoołtiʼgo tʼáá nanitłʼahgóó baa nidaʼané."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Díísh tʼáá jííkʼeh átʼé, áádóó yízhísh bee naaltsoos ádiilnííł?",
+        "a": "Aooʼ, tʼáá jííkʼeh átʼé, doo naaltsoos biih yiníłtsood da, doo bee yízhí ádaalʼįįh da, áádóó doo béésh biih yoołhééł da. Béésh bee haneʼé, tablet, doodaiiʼ béésh nitsékeesí bikáaʼgi web browser bee choidooʼįįł."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Eʼelyaaígíí Ałhą́ą́h Niníłtsood",
+    "seoTitle": "Bénáshniih Bichʼįʼ Anídahaztʼiʼii Bá Jigsaw Puzzle: 4 doodaiiʼ 9 Ałhą́ą́h Niníłtsood",
+    "h1": "Eʼelyaaígíí Ałhą́ą́h Niníłtsood: Jigsaw Tʼáá Nanitłʼahgóó Átʼéii",
+    "description": "Bénáshniih bichʼįʼ anídahaztʼiʼii bá online jigsaw tʼáá nanitłʼahgóó: 4 doodaiiʼ 9 ntsaaígíí ałtsʼázhdílteʼ, eʼelyaaígíí tʼáá átʼé bikáaʼgi tʼáá siʼą́, áádóó naaki ałhą́ą́h niníłtsoodígíí tʼóó bidíilchʼį́į́łgo ałchʼįʼ ałnááhoodah.",
+    "short": "Naaki ałhą́ą́h dínóodahígíí tʼóó bidíilchʼį́į́łgo ałnááhoodah tʼáadoo eʼelyaaígíí tʼáá ałtso aheełtʼéego ałhą́ą́h silį́įʼjįʼ.",
+    "players": "1 doodaiiʼ 2 dineʼé",
+    "intro": "Eʼelyaaígíí yáʼátʼéehii dį́įʼgo doodaiiʼ náhástʼéigo ntsaaígíí ałtsʼánáádooltsood dóó ałtso ałtaah deeztsʼǫ́ǫ́d. Eʼelyaaígíí tʼáá átʼé siʼą́ągo bee hazhóʼó nééłʼį́į́ʼ dooleeł. Łaʼ bidíilchʼį́į́ł, áádóó náánáłaʼ, áko ałnááhoodah. Doo tʼóó hiditsósgo átʼée da.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Eʼelyaaígíí néidíiltsos dóó dį́įʼgo doodaiiʼ náhástʼéigo ałtsʼázhdílteʼígíí. Dį́įʼgo éí hazhóʼó bee hahoolzhooʼ.",
+      "Eʼelyaaígíí tʼáá átʼé wódahjí siʼánígíí nééłʼį́į́ʼ.",
+      "Łaʼ bidíilchʼį́į́ł, áádóó dooleełgi bidíilchʼį́į́ł. Áko tʼáá áła ałnááhoodah.",
+      "Tʼáá átʼégi ałhą́ą́h yíldééhígíí bikáaʼgi check mark áłtsʼíísígo bee bééhózin dooleeł.",
+      "Eʼelyaaígíí ałtso ałhą́ą́h silį́įʼgo, tʼáá bił dahózhoodóó bił nééłʼį́į́ʼ, áádóó náánáłaʼ néidíiltsos."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Naaki ałnáádoodahígíí tʼóó bidíilchʼį́į́ł éí dineʼé tʼóó ahayóí bá nanitłʼah da, hiditsós biláahgo.",
+      "Eʼelyaaígíí ałhą́ą́h yíldéhgo baa chʼééh dahoołtiʼ: \"Ńléígi éí kin binaaltsoos łichííʼ siʼą́.\"",
+      "Tsin bee jigsaw puzzle 12 bitsʼą́ą́ʼ 24 ntsaaígíí bikááʼadání bikáaʼgi baa nidaʼanéego ałdóʼ tʼáá yéego yáʼátʼééh."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ahééʼílkidígíí doodaiiʼ score-sh hólǫ́?",
+        "a": "Dooda. Doo ahééʼílkid da, doo score hólǫ́ǫ da, doo ałhą́ą́h naniłkaadígíí yíłtó da, dóó doo haʼda hodeezdlį́įʼ da. Tʼáá hádidááh tʼóó kónígháníjįʼ ninídíiltaʼ, áádóó ałnííʼjįʼ ninítʼiʼgo ałdóʼ tʼáá yáʼátʼéehgo ałtso ázhdoolííł."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Bitsʼáńtłʼingo ałnáádahashłeełígíísh hiditsós dooleeł?",
+        "a": "Dooda. Łaʼ bidíilchʼį́į́ł, áádóó náánáłaʼ bidíilchʼį́į́ł, áko ałnááhoodah. Bílaʼ desdohgo doodaiiʼ screen áłtsʼíísígo díí tʼáá biláahgo nanitłʼah da."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Díísh tʼáá jííkʼeh átʼé, áádóó yízhísh bee naaltsoos ádiilnííł?",
+        "a": "Aooʼ, tʼáá jííkʼeh átʼé, doo naaltsoos biih yiníłtsood da, doo bee yízhí ádaalʼįįh da, áádóó doo béésh biih yoołhééł da. Béésh bee haneʼé, tablet, doodaiiʼ béésh nitsékeesí bikáaʼgi web browser bee choidooʼįįł."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Saad Ałtso Álílééh",
+    "seoTitle": "Saad Ałtso Álílééh: Hastóí dóó Sáanii Bá Saad Bééhózinígíí Bee Naʼané",
+    "h1": "Saad Ałtso Álílééh",
+    "description": "Saad bééhózinígíí akéeʼdi saad ádingo, kótʼéego \"A penny saved is a penny ___\". Łaʼ bidíilchʼį́į́ł doodaiiʼ saad akéeʼdi silį́įʼii bee bééhózin ádíilnííł, áádóó baa yátiʼ dooleeł.",
+    "short": "Saad bééhózinígíí ałhą́ą́h ałtso álílééh, áádóó baa chʼééh dahoołtiʼ.",
+    "players": "1, 2 doodaiiʼ ląʼí dineʼé",
+    "intro": "Saad ntsaaígíí éí bee bééhózinii łeh. Naaltsoos yázhí tʼáá ałtso saad bééhózinígíí akéeʼdi saad ánéézįįhgo biiʼ siʼą́, tááʼ bee haneʼígíí, dóó \"Show the ending\" bikáaʼgi bidíilchʼį́į́ł. Saad ałtso ályaa bikéedę́ę́ʼ, hazhóʼógo naʼídíkid yee chʼééh dahoołtiʼ biniyé hólǫ́.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Saad ałhiiʼ dííłtah bee diitsʼaʼgo.",
+      "Saad yee ałtso íidlíłígíí bidíilchʼį́į́ł, doodaiiʼ \"Show the ending\" bidíilchʼį́į́ł.",
+      "Saad tʼáá átʼé ánáádíiłtah dóó naʼídíkid bikʼehgo baa yátiʼ dooleeł.",
+      "Házhóʼó sélį́įʼgo \"Next saying\" bidíilchʼį́į́ł."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Hazhóʼógo dííłtah dóó akéeʼdi saad dooleełgi tʼóó kónígháníjįʼ tʼáadoo háádzííʼí. Dineʼé éí tʼáá ałkʼidą́ą́ʼ hadoodzih tʼahdoo ałtso dííłtah da.",
+      "Łaʼ náánáłahgo haadzíiʼgo, bił hoł hóshdǫ́ǫ dooleeł. Saad éí ałʼąą hooghandi dóó kéyah bikáaʼgi ałʼąą átʼéego bee yátiʼ.",
+      "Dineʼé tʼóó ahayóí biłgo, tʼááłáʼí jooltahgo áádóó tʼáá ałtso akéeʼdi saad ałhiiʼ háádadoodzih."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ahééʼílkidígíí doodaiiʼ score-sh hólǫ́?",
+        "a": "Dooda. Oolkił, baa néiltáasígíí, éí doodago haadziihígíí ádin, áádóó doo hachʼįʼ anhootʼiʼ da. Tʼáá hatahídi tʼóó niʼ kódoolnííł, áádóó ałnííʼjįʼ tʼéiyá ályaa nidi tʼáá yáʼátʼééh."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Saad náánáłaʼgo deitʼíigo dashaʼ?",
+        "a": "Díí naané saad kótʼéego ałtso noosįįł łehígíí yitʼį́į dooleeł, áádóó ałchʼįʼ yatiʼjįʼ kónéitʼeeh. Doo baa néiltáasígíí biiʼ dahólǫ́ǫ da, áádóó náánáłaʼ átʼéego haadzííʼ nidi tʼáá yáʼátʼééh."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Díísh tʼáá jííkʼeh átʼé, áádóó shízhiʼsh bitaʼ hidootiʼ?",
+        "a": "Aooʼ, tʼáá jííkʼeh átʼé, áádóó doo account, sign-up, éí doodago download dahólǫ́ǫ da. Béésh bee haneʼé, tablet, éí doodago béésh nitsikeesí biiʼ web browser choolʼį́įgo bíighah."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Saad ntsaago ádaalyaaígíí hanítá",
+    "seoTitle": "Saad Ntsaago Ádaalyaaígíí Hanítá Hániʼ Yóóʼ Anáhálnahígíí Bá Ályaa, Áńdeiilʼį́į dooleełígíí",
+    "h1": "Saad Ntsaago Ádaalyaaígíí Hanítá",
+    "description": "Saad ntsaago ádaalyaago hanítáanii hastóí, sáanii, dóó hániʼ yóóʼ anáhálnahgo bichʼįʼ anídahaztʼiʼígíí bá tʼáá jííkʼeh ályaa. Saad doo ląʼí da, saad bikʼeʼashchínígíí ntsaa, tʼóó náhookǫs dóó yaago dahootʼiʼ. Internet bikáaʼgi naʼané éí doodago béésh bikʼi náhásdzo.",
+    "short": "Saad bikʼeʼashchínígíí ntsaa, saad díkwííhí tʼéiyá, tʼóó nánéizdzo dóó yaago dahootʼiʼ. Naaltsoos bikáaʼjįʼ áńdoolníił ałdóʼ bíighah.",
+    "players": "1 éí doodago 2 dineʼé",
+    "intro": "Saad bikʼeʼashchínígíí dantsxaa dóó tʼóó díkwííhígo saad łahjįʼ dóó yaago dahootʼiʼ. Saad áłtséhígíí bikʼeʼashchínígíí bikáaʼjįʼ dah didíiłtsʼį́į́ł, áádóó ałtso bił nítʼiʼígíí ałdóʼ bikáaʼjįʼ dah didíiłtsʼį́į́ł. Naaltsoos bikáaʼgísh bínínzingo bee naʼadoonééł? Tʼááłáʼí bikáaʼjįʼ dah didíiłtsʼį́įłgo áníidígo ánáyiildzo dooleeł.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Baa dahoʼdootʼį́įłígíí dóó haitsoh dooleełígíí bitaʼ didíitił.",
+      "Saad bikááʼ dahazʼą́ą́góó dídíiłʼį́į́ł. Saad éí nishʼnáájígo nítʼiʼ, éí doodago yaago dahootʼiʼ.",
+      "Saad áłtséhígíí bikʼeʼashchínígíí bikáaʼjįʼ dah didíiłtsʼį́į́ł, áádóó ałtso bił nítʼiʼígíí ałdóʼ bikáaʼjįʼ dah didíiłtsʼį́į́ł.",
+      "Saad hanítáanii bee bił kʼééhochʼiʼ áádóó saad bił ałhąąh nahaazláadę́ę́ʼ bee kʼédikʼáas dooleeł.",
+      "\"Print this puzzle\" bikáaʼjįʼ dah didíiłtsʼį́įłgo naaltsoos bikáaʼjįʼ béésh kʼeʼeshchíhí éí doodago marker choidííłʼįįł."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Saad bikááʼ dahazʼą́ą́góó tʼáá ałchʼishjí baa nidohchʼííł áádóó ałtséhígíí bikʼeʼashchínígíí tʼáá bił dahootah.",
+      "Naaltsoos bikáaʼgi highlighter ntsaaígíí éí bee kʼeʼeshchíhí yiláahgo yéigo yótąʼ.",
+      "Saad baa yáʼátiʼígíí baa yádaahłtiʼ. Tsin bineestʼąʼ bízhiʼ éí tʼáadoo leʼé kʼiʼdoolyééł, chʼiyáán ádaalneʼ, éí doodago daʼahizhdilnihgi bééhániihgo baa chʼíhóznííł."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Oolkił bee ahoolzhiizhígíí éí doodago baa néiltáasígíísh biiʼ dahólǫ́?",
+        "a": "Dooda. Oolkił, baa néiltáasígíí, éí doodago haadziihígíí ádin, áádóó doo hachʼįʼ anhootʼiʼ da. Tʼáá hatahídi tʼóó niʼ kódoolnííł, áádóó ałnííʼjįʼ tʼéiyá ályaa nidi tʼáá yáʼátʼééh."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Díí saad bikʼehgo hanítáanii naaltsoos bikáaʼjįʼ áńdoolnííłísh bíighah?",
+        "a": "Aooʼ. \"Print this puzzle\" bikáaʼjįʼ dah didíiłtsʼį́įłgo saad ntsaago ályaaígíí naaltsoos bikáaʼjįʼ ánáyiildzo dooleeł, áádóó saad bikááʼ dahazʼą́ą́góó biyaagi sinil dooleeł. Tʼáá áłahjįʼ áníidígo ádaalyaaígíí łahgo ádaatʼée łeh."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Díísh tʼáá jííkʼeh átʼé, áádóó shízhiʼsh bitaʼ hidootiʼ?",
+        "a": "Aooʼ, tʼáá jííkʼeh átʼé, áádóó doo account, sign-up, éí doodago download dahólǫ́ǫ da. Béésh bee haneʼé, tablet, éí doodago béésh nitsikeesí biiʼ web browser choolʼį́įgo bíighah."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Naaltsoos daʼikʼihígíí",
+    "seoTitle": "Naaltsoos Daʼikʼihígíí Hastóí dóó Sáanii Hániʼ Yóóʼ Anáhálnahígíí Bá Ádaalyaa (Tʼáá Jííkʼeh)",
+    "h1": "Naaltsoos Daʼikʼihígíí",
+    "description": "Naaltsoos daʼikʼihígíí hastóí dóó sáanii bá tʼáá bíighahgo ádaalyaa, hazhóʼó ntsaa: ałʼąą nidaashchʼąąʼígíí bikáaʼjįʼ dah didíiłtsʼį́į́ł, áádóó eʼelyaaígíí bikáaʼjįʼ dah didíiłtsʼį́į́ł. Doo bąąh tʼáadoo leʼé ndaaztʼiʼ da, doo kótʼéego łahgo dahootʼaah da, áádóó tʼáá ałtso naaltsoos bikáaʼjįʼ tʼáá jííkʼeh ánáyiildzo dooleeł.",
+    "short": "Ałʼąą nidaashchʼąąʼígíí bikáaʼjįʼ dah didíiłtsʼį́į́ł, áádóó eʼelyaaígíí łaʼ bikáaʼjįʼ dah didíiłtsʼį́į́ł. Naaltsoos ałdóʼ bee áńdaaldzo bíighah.",
+    "players": "1 éí doodago 2 dineʼé",
+    "intro": "Naaltsoos ntsaago dóó hazhóʼó eʼelyaaígíí: chʼil bílátah hózhóonii leetsʼaaʼ biiʼ séíʼníilzhiin, hooghan, tiiʼ bee hadadlį́hí, kʼaalógii, dóó tsinaaʼeeł. Ałʼąą nidaashchʼąąʼígíí bikáaʼjįʼ dah didíiłtsʼį́į́ł, áádóó eʼelyaaígíí łaʼ bikáaʼjįʼ dah didíiłtsʼį́įłgo bee haʼdoodzoh. Doo kótʼéego ałʼąą nidaashchʼąąʼígíí bee dahastiʼ da.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Naaltsoos łaʼ bitaʼ didíitił.",
+      "Ałʼąą nidaashchʼąąʼígíí łaʼ bikáaʼjįʼ dah didíiłtsʼį́į́ł. Tʼáá ałtso bízhiʼ bikááʼ ashchį́.",
+      "Eʼelyaaígíí łaʼ bikáaʼjįʼ dah didíiłtsʼį́įłgo bee haʼdoodzoh.",
+      "Tʼáá hatahídi ninitskees łahgo átʼé silį́į́ʼgo náánáłaʼ bee haʼdoodzoh.",
+      "\"Print this page\" bikáaʼjįʼ dah didíiłtsʼį́įłgo naaltsoos tʼáá kótʼéego áńdoolnííł, bee kʼeʼeshchíhí éí doodago marker choidííłʼįįł."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Tʼóó ahayóígo bitaʼ hidootiłgo nanitłʼahgo átʼéehgo tʼóó naaki nidaashchʼąąʼígíí baa dideetʼááł.",
+      "Chʼil deeníní tsédídéhgo nidaashchʼąąʼgo dóó jóhonaaʼéí dootłʼizhgo nidaashchʼąąʼ nidi tʼáá yáʼátʼééh. Díí éí ałʼąą nidaashchʼąąʼígíí bił nihootʼóhgo baa naʼané, doo tʼáá ákótʼéego nahaazláagóó da.",
+      "Naaltsoos ánáyiildzoígíí bikáaʼgi markers ntsaaígíí éí doodago crayons ntsaaígíí yéigo bee yótąʼgo yáʼádaatʼééh."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Oolkił bee ahoolzhiizhígíí éí doodago baa néiltáasígíísh biiʼ dahólǫ́?",
+        "a": "Dooda. Oolkił, baa néiltáasígíí, éí doodago haadziihígíí ádin, áádóó doo hachʼįʼ anhootʼiʼ da. Tʼáá hatahídi tʼóó niʼ kódoolnííł, áádóó ałnííʼjįʼ tʼéiyá ályaa nidi tʼáá yáʼátʼééh."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Díidísh naaltsoos áłchíní bá ádaalyaa nahalin?",
+        "a": "Tʼáadoo cartoon ádeiilaa da, hazhóʼó tʼáadoo leʼé bee hazʼą́ągo ádaalyaa, éí bąą hastóí dóó sáanii bá tʼáá yáʼádaatʼééh. Ntsaago ádaalyaaígíí bikʼehgo hazhóʼó daʼadishchí, ákondi doo áłchíní bá nahalin da."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Díísh tʼáá jííkʼeh átʼé, áádóó shízhiʼsh bitaʼ hidootiʼ?",
+        "a": "Aooʼ, tʼáá jííkʼeh átʼé, áádóó doo account, sign-up, éí doodago download dahólǫ́ǫ da. Béésh bee haneʼé, tablet, éí doodago béésh nitsikeesí biiʼ web browser choolʼį́įgo bíighah."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Ałchʼįʼ yatiʼ binaaltsoos",
+    "seoTitle": "Ałchʼįʼ Yatiʼ Bahaʼnoolzhishgo Hániʼ Yóóʼ Anáhálnahígíí Bá: Eʼelyaa Binaaltsoos",
+    "h1": "Ałchʼįʼ Yatiʼ Binaaltsoos",
+    "description": "Eʼelyaa binaaltsoos bee hazhóʼó ałchʼįʼ yádazhdooltih hániʼ yóóʼ anáhálnahgo bichʼįʼ anídahaztʼiʼígíí bá ádaalyaa: doo hachʼįʼ anídahaztʼiʼ da, doo ałkʼihazhʼnísdzo da. Screen bikáaʼgi bee naʼané éí doodago tʼáá ałtso naaltsoos bikáaʼjįʼ áńdaaldzo bíighah.",
+    "short": "Eʼelyaa binaaltsoos hazhóʼó naʼídíkid bił dahólǫ́. Doo naʼídíkid nitsaa da.",
+    "players": "2 dineʼé éí doodago ałah jílʼínígíí",
+    "intro": "Tʼáá ałtso naaltsoos eʼelyaa bééhózinígíí dóó hazhóʼó ałchʼįʼ yádazhdooltihígíí bił ahidadiitʼiʼ, kótʼéego nahalin \"Haʼátʼííshąʼ níłchʼi ałʼąą átʼéego yéigo bił honshǫ́ǫ łeh?\" Doo tʼáá ákótʼéego haniʼ bee hazʼą́ą da áádóó doo bééniilniih da. Baa dahoʼdootʼį́įłígíí bitaʼ didíitił éí doodago tʼáá ałtso ałhadíídzoł.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Baa dahoʼdootʼį́įłígíí bitaʼ didíitił, éí doodago \"All cards\" kótʼéego áyiilʼįįh.",
+      "Naʼídíkidígíí díitsʼaʼgo wóltaʼ áádóó eʼelyaaígíí tʼáá ałchʼishjí dídóołʼį́į́ł.",
+      "Hazhóʼó íistsʼą́ąʼ, ni ałdóʼ haadziih, áádóó yatiʼ tʼáá bił chʼíhóznííł.",
+      "Hasohkéehgo \"Next card\" bikáaʼjįʼ dah didíiłtsʼį́į́ł, éí doodago tʼááłáʼí naaltsoos kóníłtsogo bee yádohłtiʼgo bíighah.",
+      "\"Print all cards\" bikáaʼjįʼ dah didíiłtsʼį́įłgo naaltsoos bikáaʼjįʼ kʼéédolnííł."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Ni ałdóʼ naʼídíkidígíí bikʼehgo haadziih. Áko ałchʼįʼ yatiʼ nahalin dooleeł, doo hachʼįʼ anídahaztʼiʼ da.",
+      "Haneʼ bee yatiʼ, doo tʼáá aaníí átʼéhígíí tʼéiyá da. Tʼóó łahgo átʼé silį́į́ʼ nidi tʼáá yáʼátʼééh.",
+      "Naaltsoos baa yatiʼígíí bichʼįʼ yínííł silį́į́ʼgo, hazhóʼó baa nitsíkees áádóó náánáłaʼ naaltsoosjįʼ kónéitʼeeh."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Haʼátʼíísh biniinaa naʼídíkidígíí \"Béénílníihiish...?\" doo biiʼ dahólǫ́ǫ da?",
+        "a": "Naʼídíkid hániʼ bégózindaaígíí éí oltaʼdi naaltsoos nitsaaígíí nahalin áko yéigo yáhásin łeh. Hazhóʼó ałchʼįʼ yatiʼígíí kótʼéego \"Baa hólneʼ...\" daaníigo tʼáá háiida bił chʼíhóznííł, tʼáá haʼátʼíhída bééniilniihígíí bee."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Díidísh naaltsoos áńdoolníiłgo bíighah?",
+        "a": "Aooʼ. \"Print all cards\" bikáaʼjįʼ dah didíiłtsʼį́įłgo tʼáá ałtso ntsaago ádaalyaa dooleeł, tʼááłáʼí naaltsoos bikáaʼgi díkwííhí naaltsoos nidaalkid dooleeł, áko tʼáá ałchʼishjí kʼédikʼáasgo bá hazʼą́."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Díísh tʼáá jííkʼeh átʼé, áádóó shízhiʼsh bitaʼ hidootiʼ?",
+        "a": "Aooʼ, tʼáá jííkʼeh átʼé, áádóó bízhiʼ áłtsé ádoolnííł da, doodago haʼazhdoołtsos da. Béésh bee haneʼé, tablet, doodago béésh ntsékeesí biyiʼ web browser bee choyoołʼįįh."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Eʼelyaaígíí ałhą́ą́h nilį́",
+    "seoTitle": "Diné bi-photo bee naʼané ádoolnííł aheełtʼéego ałhą́ą́h niníłgo",
+    "h1": "Eʼelyaaígíí ałhą́ą́h niníł: Tʼáá nihí niheʼelyaaígíí choinółʼįįh",
+    "description": "Tʼáá nihí niheʼelyaaígíí choinółʼįįhgo aheełtʼéego ałhą́ą́h niníł naʼané ádoohłííł. 2dóó 6jįʼ eʼelyaaígíí bee nitsékeesí biyiʼdę́ę́ʼ háíníshóóh; web browser biyiʼdi dah siltsooz doo, áádóó doo łaʼgóó ahidooltsos da.",
+    "short": "Tʼáá nihí niheʼelyaaígíí háíníshóohgo ałhą́ą́h niníł. Doo haʼazhdoołtsos da.",
+    "players": "Naakigo diné, ałkʼihgo naháaztą́ągo",
+    "intro": "Naakidóó hastą́ą́jįʼ eʼelyaaígíí nibeésh bee haneʼé, tablet, doodago béésh ntsékeesí biyiʼdę́ę́ʼ háíníshóóh, áko eʼelyaaígíí ntsaago yitʼį́įgo aheełtʼéego ałhą́ą́h niníł dooleeł. Eʼelyaaígíí díí naaltsoos biyiʼ tʼéiyá yitʼį́į doo. Doo łaʼgóó ahidooltsos da, doo ałdóʼ bee dah hótsooz da, áádóó díí naaltsoos bíniitʼįįhgo ádin nídooleeł.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"Eʼelyaaígíí háíníshóóh\" bikʼi didíiltsʼįįł áádóó naakidóó hastą́ą́jįʼ eʼelyaaígíí háíníshóóh.",
+      "Tʼááłáʼí eʼelyaaígíí naakidi yitʼį́į doo. Łaʼ bikʼi didíiltsʼįįł, áádóó bił aheełtʼéii ałdóʼ bikʼi didíiltsʼįįł.",
+      "Tʼáá bikʼíhóníłsį́įsgo baa yałtiʼ doo.",
+      "Ałtso daazlį́į́ʼgo, díí naaltsoos bíníitʼįįh doodago \"Eʼelyaaígíí nahjįʼ kódoolnííł\" bikʼi didíiltsʼįįł. Tʼáá ałtsoní ádin nídooleeł."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Eʼelyaaígíí nizhónígo yitʼį́įgo, bił hozhóonii dóó bééhózinii háíníshóóh: naaldlooshii, kʼéʼézhchíní, kéyah bił yáʼátʼéehii, doodago iih yáʼátiʼ bijį́.",
+      "Kéyah dóó tʼáadoo leʼé bee eʼelyaaígíí éí diné biniiʼ biláahgo bił yáʼátʼéeh łeh, áádóó diné bízhiʼ yaa ntsídaakeesgo doo bichʼįʼ nanitłʼah da doo.",
+      "Diné ádin yileehígíí bee eʼelyaaígíí nahjįʼ kónééh tʼáá hazhóʼó yáʼátʼéehgo bééhodeezzįįł yaa hoł yáʼátʼéehgo tʼéiyá, doo háaʼ yikʼee yínííł dooleełgóó."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Díí sheʼelyaaígíísh łaʼgóó dah shiltsooz?",
+        "a": "Dooda. Díí naaltsoos éí eʼelyaaígíí tʼáá nitsʼíís biyiʼ web browser biyiʼjįʼ yiyiiłtsééh áádóó nitsʼíís yitʼį́įgo yilzhiish. Doo nihichʼįʼ ályaa da doodago łaʼ diné bił ályaa da, áádóó díí naaltsoos bíniitʼįįhgo doodago ániidí nálwoʼgo tʼáá ałtsoní ádin nídooleeł."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ahoolzhiish béésh doodago óola bee áhósinish hólǫ́?",
+        "a": "Dooda. Ahoolzhiish béésh, óola, bee naʼadá bee óltaʼígíí, doodago hákʼeh dideesdleeł da ádin. Tʼáá háíida ahoolzhiiʼjiʼ kótʼéego ałtso ázhdoolííł, áádóó ałnííʼjįʼ ałtso jíłtsogo tʼáá yáʼátʼééh."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Náásgóó choidoołʼįįł biniiyé bee dah síltsoozish łeh?",
+        "a": "Web browser biyiʼ éí doodago ályaa, áko tʼáá bí nitsékeesígíí doo dah sitsooz da dooleeł biniiyé. Ákondi tʼáá jííkʼeh app wolyéhígíí Golden Moments éí iPhone dóó iPad biyiʼ eʼelyaaígíí łaʼ nitsʼíís biyiʼ yoołtsooz łeh."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo eʼelyaaígíí bee",
+    "seoTitle": "Hastóí dóó Sáanii Hániʼ Bąąh Dahoołtʼéego Bingo Eʼelyaaígíí Bee: Bee Hahólóogo Ádoolnííł",
+    "h1": "Diné Daʼałahígíí Biniiyé Bingo Eʼelyaaígíí Bee",
+    "description": "Tʼáá jííkʼeh bee hahólóogo eʼelyaaígíí bingo díí hastóí dóó sáanii hániʼ baa ádahojilyą́ą́ʼígíí dóó diné daʼałahígíí biniiyé, béésh bikʼi ntsaago yitʼį́įgo yikʼi haniʼí. Eʼelyaaígíí ntsaa saad biłgo, 9 doodago 16 dikʼą́ą́góó sinil, doo yízhdóołtahgóó tʼáá bíighah.",
+    "short": "Naaltsoos eʼelyaaígíí bingo bee hahólóo dooleełígíí dóó béésh bikʼi ntsaago yitʼį́įgo yikʼi haniʼí diné daʼałahígíí biniiyé.",
+    "players": "Diné daʼałahígíí 2dóó 30jįʼ",
+    "intro": "Bingo tʼáá kótʼéego ályaaígíí bee naʼadzo áłtsʼíísí nidi doo yízhdóołtahgóó eʼelyaaígíí choojoołʼįįh. Naaltsoos ałʼąą ádaatʼéego bee hahólóo dooleełígíí bee ádaahłeeh, áádóó béésh yikʼi haniʼí choinółʼįįhgo TV, laptop doodago tablet bikʼi eʼelyaaígíí ntsaago yitʼį́į doo.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Tʼááłáʼí naaltsoos bikʼi 9 doodago 16 dikʼą́ą́góó sinilígíí háíníshóóh áádóó dikwíigo diné daaneʼ dooleeł.",
+      "\"Naaltsoos bee hahólóogo ádaahłeeh\" bikʼi didíiltsʼįįł. Tʼáá ałtso naaltsoos ałʼąą átʼé.",
+      "Yikʼi haniʼí ntsaago yitʼį́įgo béésh yikʼi ádaahłeeh. \"Eʼelyaaígíí náánáłaʼ\" bikʼi didíiltsʼįįł áko eʼelyaaígíí dóó bízhiʼ ntsaago yitʼį́į doo.",
+      "Daaneʼígíí eʼelyaaígíí aheełtʼéii binaaltsoos yikʼi béeso, tsiid bidaaʼ doodago bee naʼadzooí yikʼi dah deididoołtsóół.",
+      "Tʼáá háiida ałkʼihgo daatsʼózí doodago tʼáá átʼé naaltsoos yaa nideestsʼą́ą́ʼígíí baa dahózhǫ́ǫ doo. Díí naʼané biyiʼ diné doo łaʼ hákʼeh dideesdleeł da: tʼáá ałtso diné łaʼ ałkʼihgo yiyiistsoozjįʼ tʼáá daanééh doo."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Tʼáadoo leʼé ntsaaígíí choinółʼįįh, checkers doodago tsiid da dabizaaʼ nahalingo. Tsiid bidaaʼ áłtsʼíísígo éí háníłkaahgo tʼáá nanitłʼah łeh.",
+      "Eʼelyaaígíí bízhiʼ baa yałtiʼ doo: \"Tsinaaʼeeł. Háíshąʼ tsinaaʼeeł biyiʼ séíigo naayáá ńtʼééʼ?\"",
+      "Diné doo yáʼátʼéehgo daʼooʼį́į́góó éí béésh ntsékeesí bichʼįʼ kónóhłééh, áádóó diné bíká anáájoowoʼígíí bił ałkʼihgo naháaztą́ą doo.",
+      "Diné łóóʼgo daʼałahígíí éí 9 dikʼą́ą́góó sinilígíí tʼáá bíighah. Tʼáá 20dóó 30 dah alzhinjįʼ tʼéiyá biniiyé daaneʼ doo."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Haash yitʼéego díí eʼelyaaígíí bingo díí baa ádahojilyą́ą́ góneʼ choideeshʼįįł?",
+        "a": "Tʼááłáʼí naʼanéhígíí tʼááłáʼí naaltsoos bee hahólóogo bá áshłééh, yikʼi haniʼí béésh ntsékeesí ayóo ntsaaígíí yikʼi kónééh, áádóó hazhóʼógo eʼelyaaígíí bízhiʼ bił bee haʼoodzííʼ. Tʼáá ałtso łaʼ ałkʼihgo ałtso yaa nideestsʼą́ą́ʼjįʼ daaneʼ doo, áko tʼáadoo diné bił chʼízhdooltsʼidí."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Bee hahólóogo ádoolníłígíísh tʼáá jííkʼeh átʼé?",
+        "a": "Aooʼ. Dikwíigo naaltsoos ninizinígíí, doodago tʼáá dikwíidi ninizinígíí tʼáá jííkʼeh bee hahólóogo ádíílííł, tʼáá ní biniiyé doodago diné daʼałahígíí biniiyé."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Diné doo yízhdóołtahgóósh daaneʼ doo bíighah?",
+        "a": "Aooʼ. Tʼáá ałtso dikʼą́ą́góó sinilígíí éí eʼelyaaígíí ntsaago yitʼį́, áádóó bízhiʼ biyáagi siʼą́ díí saad bił yáʼátʼéehii biniiyé."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Hazhóʼógo dadidziih",
+    "seoTitle": "Hastóí dóó Sáanii dóó Baa Ádahojilyą́ą́ʼígíí Biniiyé Hazhóʼógo Dahadiiziih Hanáánálzhoh",
+    "h1": "Hazhóʼógo Dahadiiziih Hanáánálzhoh",
+    "description": "Hazhóʼógo, doo ditsʼaʼgóó bił dadidziih biniiyé: nízmą́ą́zígíí hazhóʼógo ntsaa yileeh áádóó áłtsʼíísí yileeh hastą́ądi dadidziihjįʼ. Tʼáá ní bąąh didíiltʼoh, áádóó tʼáá hádą́ą́ʼ nisinígo ałtso ádíílííł.",
+    "short": "Nízmą́ą́zígíí hazhóʼógo naaghá bił dadidziih biniiyé. Tʼáá ní bąąh didíiltʼoh dóó ałtso ádíílííł tʼáá ní ninizinígi átʼéego.",
+    "players": "1 doodago 2 diné",
+    "intro": "Łahda tʼáá doo ditsʼaʼgóó hanáánálzhoh éí ayóo yáʼátʼééh. \"Bąąh deididoołtʼoh\" bikʼi didíiltsʼįįł, áádóó nízmą́ą́zígíí ntsaa yileehgo yididziih áádóó áłtsʼíísí yileehgo chʼéédidziih. Hazhóʼógo doodago tsxį́įłgo dadidziihígi háíníshóóh. Díí doo azeeʼ átʼée da, tʼóó bił hozhóogo aheełtʼéego bił dahodidoołzhoh biniiyé átʼé.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Hazhóʼó ałkʼihgo naháaztą́ą doo.",
+      "Haash yitʼéego ninizinígíí háíníshóóh: hazhóʼógo doodago tʼóó kótʼéego.",
+      "\"Bąąh deididoołtʼoh\" bikʼi didíiltsʼįįł. Nízmą́ą́zígíí ntsaa yileehgo yididziih, áádóó áłtsʼíísí yileehgo chʼéédidziih.",
+      "Hastą́ądi dadidziihgo tʼáá bí ałtso nídoolleeł, doodago \"Ałtso\" bikʼi didíiltsʼįįł tʼáá hádą́ą́ʼ ninizinígo."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Ałaʼ daʼahótsooz doo doodago bílaʼ yikʼi dah nídíiltsos doo yaa bił yáʼátʼéehgo.",
+      "Tʼáadoo tʼáá kónééh hidíłʼiní. Tʼóó yinéłʼį́į́ dooleeł nisinígo, tʼáá yáʼátʼééh.",
+      "Tʼáá háiida dádziihgo bąąh dahoołtʼéego, tʼáá kótʼéego dadiyoołdzih áádóó tʼóó nízmą́ą́z yinéłʼį́į́ doo. Azeeʼ ííłʼíní bichʼįʼ yáłtiʼ doo dádziih baa ntsékees hólǫ́ǫgo."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Díísh azeeʼ bee ádaʼałʼínígíí dahadiiziih átʼé?",
+        "a": "Dooda. Díí tʼóó tʼáá azeeʼ doo átʼée da, tʼáadoo ditsʼaʼí hanáánálzhoh dóó diné bił naaltéego biniiyé átʼé. Doo tsʼííd hániʼ nahodeetʼiʼ doodago tʼáá ałtsoní azeeʼ átʼée da. Azeeʼ ííłʼíní bichʼįʼ yáłtiʼ doo atsʼíís baa haniʼ hólǫ́ǫgo."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Nízmą́ą́zígíísh tʼáá bí naalnish doo tʼáadoo bąąh deeltʼóodgóó?",
+        "a": "Dooda. 'Start' doo bikʼididíiłnihgóó éí tʼáadoo leʼé doo naʼadah da, áádóó hastą́ądi nídídzíiʼgo doodaiiʼ 'Stop' bikʼididíiłnihgo niʼ nídoolyééł. Nibéésh doo ayóó naʼadahgóó ályaa ládą́ą́ʼ, náhineestsʼeeʼígíí doo nitsxaa yileehgóó saad tʼéiyá łahgo ánáátʼįįh."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Tʼáá jííkʼehísh átʼé, áádóó yisdzo daatsʼí ádeeshłííł?",
+        "a": "Aooʼ, tʼáá jííkʼe átʼé, áádóó account, sign-up doodaiiʼ download éí ádin. Béésh bee haneʼí, tablet doodaiiʼ béésh ntsékeesí bikʼi web browser biiʼ naalnish."
       }
     ]
   }

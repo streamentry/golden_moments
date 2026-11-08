@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Fundza ngelivi",
+      "stopReading": "Yeka kufunda",
+      "region": "Umdlalo",
+      "restart": "Qala futsi",
+      "soundOn": "Imisindvo lethambile iyavulwa",
+      "soundOff": "Imisindvo lethambile icinisiwe",
+      "done": "Sekwanele kulesikhatsi",
+      "feedbackQuestion": "Ingabe lokudlalwako kusisize namuhla?",
+      "feedbackYes": "Yebo",
+      "feedbackNo": "Hhayi kakhulu",
+      "feedbackThanks": "Siyabonga ngekutsi usitjele."
+    },
+    "tile": {
+      "named": "{name}, litayili {n}",
+      "hidden": "Sitfombe lesifihliwe, litayili {n}",
+      "withState": "{label}, {state}",
+      "matched": "Kuhlangene",
+      "selected": "Kukhetiwe",
+      "picture": "Sitfombe",
+      "photoNumber": "Sitfombe {n}"
+    },
+    "pairs": {
+      "allTogether": "Tonkhe tipheya tihlangene. Dlala futsi noma phumula.",
+      "photoPair": "Siphetfo setitfombe, sihlangene.",
+      "picturePair": "Titfombe letimbili: {name|lower}, tihlangene.",
+      "selected": "{name}. Manje tfola lephayo layo.",
+      "mismatch": "Khumula kancane. Thinta sitfombe ukuze uqhubeke.",
+      "mismatchNamed": "{a} na {b}. Khumula kancane. Thinta sitfombe ukuze uqhubeke."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Thinta sitfombe, bese uthinta lesifanako naso.",
+      "guidanceHidden": "Thinta matayili mabili ukuze uwavule. Funa lamabili afanako.",
+      "restart": "Titfombe letitsha",
+      "sizeLegend": "Matayili angaki",
+      "size": {
+        "one": "{n} litayili",
+        "other": "{n} matayili"
+      },
+      "viewLegend": "Indlela yekudlala",
+      "viewShowing": "Titfombe letibonakalako",
+      "viewHidden": "Titfombe letifihliwe",
+      "playAgain": "Dlala futsi ngetitfombe letitsha",
+      "talk": "Khuluma ngetitfombe ndzawonye"
+    },
+    "choose": {
+      "countLegend": "Titfombe tangaki",
+      "count": "{n} tokukhetsa kuto",
+      "thatOne": "Lowo ngu{name|lower}. Khumula kancane."
+    },
+    "findTheSame": {
+      "guidance": "Bheka sitfombe lesisetulu. Thinta lesifanako lesingaphansi.",
+      "yes": "Yebo, ngu{name|lower} lofanako.",
+      "next": "Sitfombe lesilandzelako"
+    },
+    "shadowMatch": {
+      "guidance": "Bheka sithunzi lesisetulu. Thinta sitfombe lesenta lesithunzi.",
+      "yes": "Yebo, {name|lower} wenta lesithunzi.",
+      "next": "Sithunzi lesilandzelako",
+      "shadowAlt": "Sithunzi sekufanisa",
+      "foundAlt": "Sithunzi se{name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Thinta sitfombe, bese uthinta sitsebe lapho silingene khona.",
+      "restart": "Titfombe letitsha",
+      "themeLegend": "Sihloko",
+      "selected": "{name}. Manje thinta sitsebe lapho silingene khona.",
+      "pickFirst": "Kucala thinta sitfombe, bese uthinta sitsebe.",
+      "hint": "{name|lower} lingangena esitsebeni \"{basket}\". Thinta lesitsebe ukuze uyibeke lapho.",
+      "placed": "{name|lower} lisesitsebeni \"{basket}\".",
+      "sorted": "Konkhe kuhleliwe. Khangela tonkhe titsebe ndzawonye, noma uzame sihloko lesinye.",
+      "basket": {
+        "one": "Sitsebe se{basket}, sinesitfombe {count} ngaphakatsi.",
+        "other": "Sitsebe se{basket}, sinetitfombe {count} ngaphakatsi."
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Thinta sincutfo sinye, bese uthinta lenye. Tiyashintshana.",
+      "restart": "Hlanganisa futsi",
+      "pictureLegend": "Sitfombe",
+      "pictures": {
+        "sailboat": "Umkhumbi",
+        "house": "Indlu",
+        "balloon": "Ibhaluni",
+        "sunflower": "Lilanga",
+        "lighthouse": "Umbhoshongo",
+        "cat": "Likati"
+      },
+      "sizeLegend": "Tincutfo",
+      "size": {
+        "one": "{n} sincutfo",
+        "other": "{n} tincutfo"
+      },
+      "pickedUp": "Sincutfo sikhishiwe. Manje thinta lapho kufanele khona.",
+      "whole": "{name|lower} sesiphelele futsi. Khetsa sitfombe lesinye nanyalo lapho ufuna khona.",
+      "swapped": {
+        "one": "Kushintshiwe. {correct} ku-{total} sincutfo sisendzaweni yaso.",
+        "other": "Kushintshiwe. {correct} ku-{total} tincutfo tisendzaweni tato."
+      },
+      "guideAlt": "Sitfombe lesiphelele: {name}",
+      "guideText": "Ngalendlela sitfombe sibukeka ngayo lapho siphelele.",
+      "piece": "Sincutfo lesisendzaweni: {place}",
+      "pieceInPlace": ", sisendzaweni lefanele",
+      "piecePickedUp": ", sikhishiwe",
+      "places4": [
+        "ngenhla lesekhohlo",
+        "ngenhla lesekudla",
+        "ngaphansi lesekhohlo",
+        "ngaphansi lesekudla"
+      ],
+      "places9": [
+        "ngenhla lesekhohlo",
+        "ngenhla lephakathi",
+        "ngenhla lesekudla",
+        "lephakathi lesekhohlo",
+        "lephakathi",
+        "lephakathi lesekudla",
+        "ngaphansi lesekhohlo",
+        "ngaphansi lephakathi",
+        "ngaphansi lesekudla"
+      ],
+      "done": "Sitfombe sesiphelele futsi. Dlala futsi noma phumula.",
+      "playAgain": "Hlanganisa futsi"
+    },
+    "finishTheSaying": {
+      "guidance": "Funda lesisho sinyatsi ndzawonye, bese uthinta livi lelipheletsa.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Yebo, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" nalo kuyasebenta. Lesisho lesivamile siphela nge\"{end}\".",
+      "revealed": "Lesisho ngu\"{start} {end}.\"",
+      "choicesLabel": "Khetsa livi lekugcina",
+      "show": "Bonisa lesiphelelako",
+      "talk": "Khuluma ngaso: ",
+      "next": "Lesisho lesilandzelako"
+    },
+    "wordSearch": {
+      "guidance": "Emagama ahamba ngebanti noma ngetulu. Thinta litfu lekucala lelivi, bese uthinta lelekugcina.",
+      "restart": "Puzzle lelisha",
+      "themeLegend": "Sihloko",
+      "sizeLegend": "Bukhulu besigaba",
+      "size": {
+        "one": "{n} ku {n} ({words} livi)",
+        "other": "{n} ku {n} ({words} emagama)"
+      },
+      "print": "Phrinta lelipuzzle",
+      "letterChosen": "Litfu {letter} likhetsiwe. Manje thinta litfu lekugcina lelivi.",
+      "found": "{word} itfolakele.",
+      "foundAll": "{word} itfolakele. Yonkhe emagama atfolakele. Dlala futsi noma phumula.",
+      "tryAgain": "Khumula kancane. Thinta litfu lekucala lelivi, bese uthinta lelekugcina.",
+      "gridLabel": "Ligalelo lemalitha, tinhlaka {n} letinemalitha {n} ngalinye. Sebentisa tinkhomba letinemitsi ukuhamba phakathi kwemalitha.",
+      "cell": "{letter}, sigaba {row}, likholomu {col}",
+      "cellFound": ", ingxenye yelivi letfolakele",
+      "wordsHeading": "Emagama lakufanele uwatfole",
+      "wordFound": " (itfolakele)",
+      "sheetTitle": "Lisisho lemagama: {theme}",
+      "sheetNote": "Emagama ahamba ngebanti noma ngetulu.",
+      "unavailable": "Ligalelo lemalitha alisebenti kulolwimi, ngako lomdlalo wemagama awutfolakali lapha. Zama imidlalo yetitfombe."
+    },
+    "coloring": {
+      "guidance": "Thinta umbala, bese uthinta ingxenye yetitfombe.",
+      "restart": "Sula imibala",
+      "cleared": "Iphepha selisha futsi.",
+      "pageLegend": "Iphepha",
+      "print": "Phrinta leliphepha",
+      "colorsLabel": "Imibala",
+      "paintChosen": "{paint} likhetsiwe.",
+      "painted": "{part} manje ingu{paint|lower}.",
+      "artLabel": "{page}, tingxenye {count} letidzinga umbala",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, alikadaywa",
+      "paints": {
+        "red": "Bomvu",
+        "orange": "Oreji",
+        "yellow": "Lophuzi",
+        "green": "Luhlaza",
+        "blue": "Bulu",
+        "purple": "Pepeli",
+        "pink": "Pinki",
+        "brown": "Kwekwe",
+        "sky-blue": "Bulu lesibhakabhaka",
+        "cream": "Lubhehe",
+        "gray": "Lugwadze",
+        "white": "Mhlophe"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Fundza likhadi ngelivi. Kute timphendvulo letilungile.",
+      "position": "Likhadi {n} kwemakhadi {total}",
+      "themeLegend": "Sihloko",
+      "next": "Likhadi lelilandzelako",
+      "previous": "Likhadi lelindzaba langaphambi",
+      "print": "Phrinta wonkhe emakhadi",
+      "sheetTitle": "Emakhadi ekuxoxa"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Kucala khetsa titfombe takho.",
+      "guidance": "Thinta sitfombe, bese uthinta lesifanako naso.",
+      "restart": "Vuna futsi",
+      "intro": "**Khetsa titfombe letingu-2 kuya ku-6** kusuka kulesi sitfombiso. Titfombe ticonjwa kuleli phepha kuphela futsi aziyi kulayelwa noma igcinwe.",
+      "choose": "Khetsa titfombe",
+      "chooseDifferent": "Khetsa titfombe letehlukile",
+      "clear": "Susa titfombe",
+      "cleared": "Titfombe tisusiwe kuleli phepha.",
+      "atLeastTwo": "Sicela ukhethe titfombe letimbili ngaphansi.",
+      "usingFirst": "Kusetjentiswa titfombe letingu-{max} takucala.",
+      "skipped": {
+        "one": "Kwakuyi-{count} lifayela lelebelingesi sitfombe lesingaboniswa.",
+        "other": "Kwakuyi-{count} emafayela ebengesi titfombe letingaboniswa."
+      },
+      "playAgain": "Dlala futsi ngaletitfombe",
+      "empty": "Titfombe takho tiyavela lapha, ngalinye kabili."
+    },
+    "pictureBingo": {
+      "guidance": "Phrinta emakhadi kucala. Bese ukhombise lomcaki kusikrini lesikhulu lolungako.",
+      "called": {
+        "one": "{name}. {called} kwe-{total} sitfombe sicingekiwe.",
+        "other": "{name}. {called} kwe-{total} titfombe ticingekiwe."
+      },
+      "start": "Thinta \"Sitfombe lesilandzelako\" ukucinga sitfombe sekucala.",
+      "restart": "Qala umdlalo lomusha",
+      "squaresLegend": "Emasikwele ngekhadi ngalinye",
+      "squares": "{n} emasikwele ({side} ku {side})",
+      "cardsLegend": "Emakhadi lakufanele uwaphrinte",
+      "cards": {
+        "one": "{n} likhadi",
+        "other": "{n} emakhadi"
+      },
+      "print": {
+        "one": "Phrinta likhadi le-{n} le-bingo",
+        "other": "Phrinta emakhadi e-{n} e-bingo"
+      },
+      "ready": "Silungele uma ulungele",
+      "next": "Sitfombe lesilandzelako",
+      "allCalled": "Sonkhe titfombe sesicingekiwe",
+      "alreadyCalled": "Sesicingekiwe nje",
+      "sheetTitle": "Bingo yetitfombe · likhadi {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Phefumula ngesikhatsi indilinga ikhula, bese uphefumula ngaphandle ngesikhatsi incane. Iyayeka yodwa ngemva kwemakhefu lasitfupha.",
+      "paceLegend": "Lijubane",
+      "paceSlow": "Kancane (imizuzwana lemihlanu ngayinye)",
+      "paceGentle": "Ngobunono (imizuzwana lemine ngayinye)",
+      "ready": "Silungile nawe uma usulungele",
+      "in": "Phefumula ngaphakatsi",
+      "hold": "Phumula",
+      "out": "Phefumula ngaphandle",
+      "start": "Qala",
+      "stop": "Yeka",
+      "started": "Siqalile. Phefumula ngaphakatsi njengoba indilinga ikhula.",
+      "stopped": "Yekile.",
+      "finished": "Lokho bekungemakhefu lasitfupha lakahle. Qala futsi nangabe ufuna."
+    }
+  },
+  "pictures": {
+    "teacup": "Indebe yetiye",
+    "kettle": "Ikhetili",
+    "bread": "Sinkwa lesibhakiwe",
+    "frying-pan": "Ipani nelikhwenshi",
+    "cake": "Ikhekhe lelusuku lwekutalwa",
+    "sunflower": "Imbali yelilanga",
+    "tulip": "Ithyulipi lelibomvu",
+    "watering-can": "Ikani lekufaka emanti",
+    "potted-plant": "Sitshalo esesitsatsini",
+    "tree": "Umuti",
+    "bird": "Inyoni esihlalele esigatsini",
+    "butterfly": "Umbhemvu",
+    "dog": "Inja",
+    "cat": "Likati",
+    "fish": "Lihlanti legolide",
+    "apple": "Iapula lelibomvu",
+    "pear": "Iphere",
+    "strawberry": "Isitrobheri",
+    "banana": "Libhanana",
+    "lemon": "Lemoni",
+    "cherries": "Matsheri",
+    "house": "Indlu",
+    "lamp": "Lilambu lelisetafuleni",
+    "armchair": "Sihlalo lesikhulu",
+    "key": "Inkhiye lelidzala",
+    "umbrella": "Sambulela",
+    "sailboat": "Umkhumbi wemaseyili",
+    "car": "Imoto yendzala",
+    "bicycle": "Libhayisikili",
+    "balloon": "Balunu lelishisa",
+    "lighthouse": "Ilighthouse",
+    "sun": "Lilanga",
+    "moon": "Inyanga nemanyeleti",
+    "teapot": "Tiyipoti",
+    "apple-pie": "Ipayi yeapula",
+    "honey-jar": "Umtsetfo woju",
+    "boiled-egg": "Liqanda esitfeni setiqanda",
+    "toaster": "Litositha",
+    "cheese": "Ushizi",
+    "milk-jug": "Ikani lebisi",
+    "cupcake": "Ikhekhe lelincane",
+    "orange": "Lamunti",
+    "grapes": "Umtfolo wemagilebhisi",
+    "watermelon": "Sicucu semelon",
+    "pineapple": "Iphayinaphili",
+    "peach": "Iphishi",
+    "rose": "Irozi",
+    "daisies": "Madeyisi",
+    "mushroom": "Likhowa",
+    "wheelbarrow": "Iwhilibharo",
+    "birdhouse": "Indlu yetinyoni",
+    "cactus": "Ikhakhithasi esesitsatsini",
+    "acorn": "Ilinyawe",
+    "autumn-leaf": "Lihlamvu lekwindla",
+    "rabbit": "Unogwaja",
+    "duck": "Idada",
+    "hen": "Inkukhu",
+    "sheep": "Imvu",
+    "owl": "Ubhubhane",
+    "ladybird": "Inkhwenkhwe",
+    "snail": "Inkhwelo",
+    "frog": "Lichwane",
+    "bee": "Inyosi",
+    "clock": "Iwotshi lelisetulu",
+    "vase-of-flowers": "Ivazi nemabhali",
+    "radio": "Iradiyo lendzala",
+    "books": "Tincwadzi letinengi",
+    "candle": "Likhandlela",
+    "glasses": "Tingilazi tekufundza",
+    "telephone": "Ucingo",
+    "ball-of-wool": "Libhola lewolo",
+    "straw-hat": "Ihhathi yelilanga",
+    "train": "Sitimela setimu",
+    "bus": "Ibhasi",
+    "airplane": "Indiza",
+    "suitcase": "Sikhwama sekuhamba",
+    "tractor": "Ithrekthara",
+    "rowing-boat": "Umkhumbi lolinga",
+    "rainbow": "Indvulwane",
+    "rain-cloud": "Lilitje lemvula",
+    "snowflake": "Sinowu lesisodwa",
+    "kite": "Ikhayithi",
+    "sunrise": "Lilanga lelivela etintabeni"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Tithelo",
+          "words": [
+            "APULA",
+            "LEMONI",
+            "IMANGO",
+            "BANANA",
+            "GWAVA",
+            "ORANGE",
+            "MELON",
+            "PAPAYA",
+            "KHIWI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Lusimi",
+          "words": [
+            "IROZI",
+            "IMBALI",
+            "IMBEWU",
+            "INYOSI",
+            "EMANTI",
+            "LUTFO",
+            "MUTI",
+            "LANGA",
+            "UMGODI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Ekhishini",
+          "words": [
+            "KAPU",
+            "SIPUNI",
+            "SINKWA",
+            "IPANI",
+            "BOWL",
+            "IPLETI",
+            "ITIYE",
+            "OVEN",
+            "FORK"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Simo semoya",
+          "words": [
+            "LANGA",
+            "IMVULA",
+            "SNOW",
+            "MOYA",
+            "CLOUD",
+            "STORM",
+            "LIFU",
+            "MILD",
+            "SHISA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Tilwane",
+          "words": [
+            "DOG",
+            "CAT",
+            "INYONI",
+            "FISH",
+            "IHHASHI",
+            "INKOMO",
+            "DUCK",
+            "GOAT",
+            "INKUKU"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Likhaya",
+          "words": [
+            "DOOR",
+            "CHAIR",
+            "LAMPI",
+            "BED",
+            "RUG",
+            "SOFA",
+            "CLOCK",
+            "DESKI",
+            "KEY"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Tonkhe tikhadi",
+        "food": "Ukudla",
+        "home": "Likhaya",
+        "outdoors": "Ngaphandle",
+        "animals": "Tilwane",
+        "travel": "Kuhamba",
+        "work": "Umsebenti nemidlalo",
+        "music": "Umculo nekujabula",
+        "seasons": "Tikhatsi temnyaka"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Yiphi inuka lekhishini oyitsandzako kakhulu?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Yiliphi likhekhe ongalikhetsa emcimbini?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Sitshele ngepayi yesithelo noma ngedeseti oyitsandzako."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Utsandza kanjani itiye noma likhofi?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Yini lenta sidla sasekuseni lesihle kakhulu?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ukhe wakhetsa sithelo ngqo etshaleni?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Kumnandzi noma kumuncu: yiphi lotsandza kakhulu?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Yiliphi kudla lolunambitsa njengehlobo kuwe?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Sitshele ngendlu oyitsandzako lapho wake wahlala khona."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Likuphi indzawo oyitsandzako yekuphumula?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Yini locenta ngebusuku lobutsulwa?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Yiphi intfo oyigcina ebhokisini lelikhetsekile?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ngubani ongafuna kumemela etiyeni?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Yini locenta ngelilanga lelinemvula?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Yiphi imbali oyohlanyela egadini?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Sitshele ngesihlahla noma ngepakhi lotsandza."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Yini lencono ngekutsi useligadi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Yimbala yetimbali yiphi lotsandza kakhulu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Utsandza yini kuba nesitshalo ekhaya?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Yini lobona kuwe ngelilanga lelihle?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Sitshele ngenja lowati."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Tikati noma tinja, noma kute? Yini lotsandza ngato?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Yiphi tinyoni tobona noma tokwetfula ngaphandle?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ukhe wadoba tinhlanti noma wagcina intangi yetinhlanti?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Yisiphi silwane lolibona lesihle kakhulu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Sitshele ngemoto lotsandza."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ungathanda kuchitha lilanga elwandle noma etintabeni?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ungathanda kuya kuphi ngelibhayisikili?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Uma ungandiza phezu kwanoma yiphi indzawo, ibe kuphi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Yiluphi luhambo lolujabulisile?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Yiluphi umsebenti lowujabulisa?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Yiliphi umdlalo longawucinisa emahoreni?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Yini lowaziwa ngekwenta noma kulungisa?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Yiseluleko siphi longasipha umuntfu lomncane lotsandza kuqala umsebenti?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Yimuphi umculo lowenta ufune kugigitheka?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Yini lenta liphathi libe lihle ngempela?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ngubani lomculi lotsandza ukumlalela?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Yiliphi lividiyo noma luhlelo lwetelevishini lotsandza kubuka futsi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Yini lotsandza kakhulu ngesikhatsi selihlobo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Yini lotsandza ngekwindla?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Yini lenhle lokwentako ebusuku bebusika?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Yiphi tiphawu tekucala kwentwasahlobo kuwe?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Sinowu, imvula noma lilanga: yiphi lotsandza?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Imbali esitsatsini",
+          "regions": {
+            "sky": "Lemuva",
+            "table": "Tafula",
+            "stem": "Isiqu",
+            "leaf-left": "Lihlamvu lesekhohlo",
+            "leaf-right": "Lihlamvu lesekudla",
+            "petal-1": "Ipetali 1",
+            "petal-2": "Ipetali 2",
+            "petal-3": "Ipetali 3",
+            "petal-4": "Ipetali 4",
+            "petal-5": "Ipetali 5",
+            "petal-6": "Ipetali 6",
+            "petal-7": "Ipetali 7",
+            "petal-8": "Ipetali 8",
+            "center": "Phakathi kwembali",
+            "pot": "Sitsatfu",
+            "pot-rim": "Umphetfu wesitsatfu"
+          }
+        },
+        "house": {
+          "name": "Indlu",
+          "regions": {
+            "sky": "Sibhakabhaka",
+            "sun": "Lilanga",
+            "grass": "Lutfo",
+            "chimney": "Umbhobho",
+            "walls": "Tindzonga",
+            "roof": "Lophahla",
+            "door": "Umnyango",
+            "window-left": "Iwindvo lesekhohlo",
+            "window-right": "Iwindvo lesekudla",
+            "path": "Indlela"
+          }
+        },
+        "teacup": {
+          "name": "Indebe yetiye",
+          "regions": {
+            "background": "Lemuva",
+            "saucer": "Ipuleti letiye",
+            "handle": "Isiphatsi",
+            "cup": "Indebe",
+            "band": "Umucu emdebeni",
+            "tea": "Itiye"
+          }
+        },
+        "butterfly": {
+          "name": "Umbhemvu",
+          "regions": {
+            "background": "Lemuva",
+            "wing-top-left": "Liphiko lelingaphezulu lesekhohlo",
+            "wing-top-right": "Liphiko lelingaphezulu lesekudla",
+            "wing-bottom-left": "Liphiko lelingaphansi lesekhohlo",
+            "wing-bottom-right": "Liphiko lelingaphansi lesekudla",
+            "spot-left": "Sibonakalo lesekhohlo",
+            "spot-right": "Sibonakalo lesekudla",
+            "body": "Umtimba"
+          }
+        },
+        "sailboat": {
+          "name": "Umkhumbi wemaseyili",
+          "regions": {
+            "sky": "Sibhakabhaka",
+            "sea": "Lulwandle",
+            "sail-big": "Liseyili lelikhulu",
+            "sail-small": "Liseyili lelincane",
+            "mast": "Umthi",
+            "hull": "Umkhumbi",
+            "flag": "Lifulegi"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Ekhishini nelusimi",
+          "baskets": [
+            "Ekhishini",
+            "Elisimini"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Tithelo nemadvudvu",
+          "baskets": [
+            "Tithelo",
+            "Emadvudvu"
+          ]
+        },
+        "home-travel": {
+          "label": "Likhaya nekuhamba",
+          "baskets": [
+            "Ekhaya",
+            "Ngaphandle"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Peryow skeusennow",
+    "seoTitle": "Gwari parhe rag dementia: Peryow skeusennow",
+    "h1": "Peryow skeusennow: gwari parhe kosel",
+    "description": "Gwari parhe kosel ha hegar, heb kost, rag tus ow pewa gans dementia. Skeusennow bras a drig gweladow, nyns eus uriel po skyr vyth, ha hwi a gyff dewis a 4 dhe 12 teylen.",
+    "short": "Kevewgh an diw skeusen hevelep. Skeusennow a yll gortos gweladow.",
+    "players": "1 po 2 dhen, an eil ryb y gila",
+    "intro": "Tigewgh skeusen, ena tigewgh an honan a g انگل gensi. Skeusennow a drig gweladow dre ragdhewis, ytho nyns eus res perthi kov a dra vyth. Pan a diw skeusen war-barth, i a gyff emlow owrek ha merk gwirya.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Dewisewgh py lies teylen dhe usya. Peder teylen yw le kosel rag dalleth.",
+      "Tigewgh skeusen vyth. Hi a gyff amal owrek.",
+      "Tigewgh an skeusen hevelep dhedhi. An bar a drig war-barth gans merk gwirya.",
+      "Mars yw an diw skeusen dyffrans, ny hwer tra vyth drok. Tigewgh arta pan vowgh parys.",
+      "Ygeryowgh \"Skeusennow kudhys\" saw mars eus plesour dhywgh hwi agas dew gans an versyon hengovek a-enep dhe'n leur."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Henwyn an skeusennow a-ugh lev war-barth ha kowsowgh a-dro dhedha: \"Hanaf te rudh. A wre'ta kemmeres leth y'th te?\"",
+      "Gasewgh an person a wrewgh hwi prederi a-dro dhodho dhe dhabba, kyn gemmero prys. Poyntyewgh yn le taba ragdha.",
+      "Gortewgh gans peder teylen kehes hag y fydh bres da. Moy a deylennow yw dewis, bythkweth nyns yns nivel dhe dhrehedhes.",
+      "Gorfennowgh pan vo hwath hegar. Unn gwari yw gweythres dien."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Eus uriel po skyr?",
+        "a": "Nag eus. Nyns eus klock, skyr, rifyel gwayansow na kelli. Hwi a yll hedhi termyn vyth, ha hedhi hanter-fordh yw fordh eun lowr dhe worfenna."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Prag y trig an skeusennow war enep?",
+        "a": "Gwitha skeusennow gweladow a dreyl an gwari dhe viras ha parhe yn le perthi kov. Lies den a gav hemm moy kosel. Hwi a yll treylya dhe skeusennow kudhys gans unn tig mar kewsowgh gwell."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yw heb kost, hag eus res dhymm omrestra?",
+        "a": "Ya, heb kost yw, ha nyns eus akont, omrestra na iskargans vyth. Yth ober y'n peurel wias war bellgowser, tablet po jynn-amontya."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "A yllyn ni usya agan skeusennow teylu agan honan?",
+        "a": "Ya. Triyewgh Peryow skeusennow koth, a re dhywgh dewis skeusennow dhiworth agas devis. An skeusennow a drig y'gas peurel ha ny vons ughkergys."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Kavos an hevelep",
+    "seoTitle": "Kavos an keth skeusen: Gwari sempel rag dementia",
+    "h1": "Kavos an keth skeusen",
+    "description": "Unn skeusen a-wartha, diw dhe beder a-is. Tigewgh an honan hevelep. Gwari skeusennow kosel, heb kost, rag tus ow pewa gans dementia, heb uriel.",
+    "short": "Mirewgh orth an skeusen a-wartha ha tigewgh an keth honan a-is.",
+    "players": "1 po 2 dhen",
+    "intro": "Unn skeusen a esedh war benn an skrin. A-is dhedhi yma diw, teyr po peder skeusen. Tigewgh an honan hevelep. Unn dewis sempel yw war unn prys, gans lowr a le rag kowsel.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Dewisewgh diw, teyr po peder skeusen dhe dhewis dhiwortha. Diw yw an esya.",
+      "Mirewgh orth an skeusen a-wartha war-barth.",
+      "Tigewgh an keth skeusen a-is. Merk gwirya ha nebes geryow tomm a's merk.",
+      "Mar tigir skeusen dhyffrans, an gwari a wra saw hy henwel ha gortos. Kemmerewgh agas prys.",
+      "Tigewgh \"Skeusen nessa\" pan vowgh parys rag aral."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Kowsowgh a-dro dhe bub skeusen kyns dewis: liwyow, shapys, ple's gwelsowgh martesen.",
+      "Diw dhewis nyns yns \"re es\". An amkan yw pols hegar, nyns kraf.",
+      "Mar klerir bos taba kales, an person a yll poyntya ha hwi a yll taba ragdha."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Eus uriel po skyr?",
+        "a": "Nag eus. Nyns eus klock, skyr, rifyel gwayansow na kelli. Hwi a yll hedhi termyn vyth, ha hedhi hanter-fordh yw fordh eun lowr dhe worfenna."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Pandr'a hwer mar tigir an skeusen gamm?",
+        "a": "Travyth anhegar. Nyns eus brammer, krows rudh na krenans vyth. An gwari a henwel an skeusen a veu tigys ha gortos an nessa tigans."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yw heb kost, hag eus res dhymm omrestra?",
+        "a": "Ya, heb kost yw, ha nyns eus akont, omrestra na iskargans vyth. Yth ober y'n peurel wias war bellgowser, tablet po jynn-amontya."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kevrenna skeus",
+    "seoTitle": "Gwari parhe skeus rag dementia: warlinen heb kost",
+    "h1": "Kevrenna skeus: gwari skeusen hegar",
+    "description": "Skeus tewl a-wartha, diw dhe beder skeusen a-is. Tigewgh an skeusen a wra an skeus. Gwari parhe skeus kosel, heb kost, rag dementia, heb uriel.",
+    "short": "Mirewgh orth an skeus ha tigewgh an skeusen a'n gwra.",
+    "players": "1 po 2 dhen",
+    "intro": "Parhe skeus yw gweythres geryes da dhiworth folennow-ober pryntys, omma gans skeusennow bras ha travyth dhe bryntya. Skeus medhel a esedh war benn an skrin ha diw, teyr po peder skeusen a wortos a-is. Tigewgh an honan a wra an skeus. Formys kepar ha diwros, glawlen po hanaf te yw es dhe gowsel a-dro dhedha ynwedh.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Dewisewgh diw, teyr po peder skeusen dhe dhewis dhiwortha. Diw yw an esya.",
+      "Mirewgh orth an skeus war-barth. Py furv yw? Yw hi hir po krenn?",
+      "Tigewgh an skeusen a wra an skeus. Hy hanow a omdhiskwedh yn-dann an skeus.",
+      "Mar tigir skeusen dhyffrans, an gwari a wra saw hy henwel ha gortos. Kemmerewgh agas prys.",
+      "Tigewgh \"Skeus nessa\" pan vowgh parys rag aral."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Holyewgh amlinen an skeus gans bes ha kowsowgh a-dro dhe'n furv.",
+      "Mar klerir bos skeusow kales hedhyw, treylyewgh dhe Kavos an hevelep, le mayth hevel an skeusennow an eil orth y gila.",
+      "Kowsowgh a-dro dhe'n skeusen pan vo kefys: \"Yma glawlen a'n par na dhyn ni nans yw pell.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Eus uriel po skyr?",
+        "a": "Nag eus. Nyns eus klock, skyr, rifyel gwayansow na kelli. Hwi a yll hedhi termyn vyth, ha hedhi hanter-fordh yw fordh eun lowr dhe worfenna."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Yw omdhesedhans skeus da rag tus ow pewa gans demens?",
+        "a": "Y hyll bos gwrians lowen ha sempel rag nebes tus, yn arbennik y’n rannow a-varr. Furvow yw esya dhe aswon ages geryow. Yma rag lowender ha kesklapp, a-der prevyans, ha ny wellha na lenthe demens. Mar kwra ev prederans, assayewgh Kavos an keth tra po mires orth skeusennow war-barth."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Pandr’a hwer pan vo tappys skeusen gamm?",
+        "a": "Travyth drog. Nyns eus sonell, krows rudh na krenyans. An gwari a enow an skeusen a veu tappys hag a worta an nessa tapp."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yw ev heb kost, hag a res dhymm omrolya?",
+        "a": "Ya, yma ev heb kost, hag nyns eus akont, omrolyans na iskarg. Ev a ober y’n beurel wias war bellgowser, leghen po amontyer."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sortya war-barth",
+    "seoTitle": "Gwari sortya rag demens: Sortya war-barth",
+    "h1": "Sortya war-barth: gwrians sortya skeusennow",
+    "description": "Tappyewgh skeusen, ena tappyewgh an gisten may hwer hi: kegin po lowarth, frutys po enevales. Gwrians sortya kosel, heb kost, rag tus ow pewa gans demens.",
+    "short": "Gorrewgh pub skeusen y’n gisten: kegin po lowarth, ha moy.",
+    "players": "1 po 2 dhen",
+    "intro": "Sortya yw ober kenweythresek, pes da, kepar ha gorra traow boos yn le po kowetha hosanow. Tappyewgh skeusen, ena tappyewgh an gisten may hwer hi. Nyns eus fysk ha nyns eus tro gamm.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Dewisewgh thema: kegin ha lowarth, frutys hag enevales, po tre ha viaj.",
+      "Tappyewgh skeusen. Hi a gemmer amal owrek.",
+      "Tappyewgh an gisten may hwer hi. An skeusen a v ev dhe’n gisten na.",
+      "Mar hwer hi y’n gisten arall, an gwari a lever henna yn kosel hag a worta.",
+      "Pan vo pub skeusen sortys, mirewgh der an gistennow war-barth."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Yn bywnans gwir, yn fenowgh nyns eus gorthypow kamm. Mar lever nebonan bos jynn dowr y’n gegin, govynnewgh prag. Martesen hwi a glew hwedhel dha.",
+      "Gwrewgh devnydh a’n skeusennow avel dalleth kesklapp: “Pandr’a wrussowgh hwi tevi y’gas lowarth?”",
+      "Sortya traow gwir, kepar ha loyow ha forghow po botonyow herwydh liw, yw gwrians da dhe wul a-der an skrin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A eus termyn po skor?",
+        "a": "Nag eus. Nyns eus klock, skor, niveryans gwayansow na kelli. Hwi a yll hedhi orth pes termyn, hag yw hedhi hanter fordh fordh dha lowr dhe worfenna."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Prag sortya?",
+        "a": "Lies den a gar sortya drefen bos ev owth omglewes kepar hag ober devriadow, aswonys. Yth yw es poran kewsel a-dro dhe’n skeusennow ha hwi ow mos yn-rag."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yw ev heb kost, hag a res dhymm omrolya?",
+        "a": "Ya, yma ev heb kost, hag nyns eus akont, omrolyans na iskarg. Ev a ober y’n beurel wias war bellgowser, leghen po amontyer."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Mildam skeusen",
+    "seoTitle": "Mildam es rag demens: 4 po 9 darn",
+    "h1": "Mildam skeusen: mildam es",
+    "description": "Mildam warlinen es rag tus ow pewa gans demens: 4 po 9 darn bras, an skeusen dhien a wra gortos gweladow, ha hwi a dapp dew dharn rag aga chanjya.",
+    "short": "Tappyewgh dew dharn rag aga chanjya bys pan vo an skeusen dien.",
+    "players": "1 po 2 dhen",
+    "intro": "Skeusen hweg yw treghys yn peder po naw darn bras ha kemyskys. An skeusen dhien a wra gortos gweladow avel gidyans. Tappyewgh unn dharn, ena unn arall, hag i a wra chanjya leow. Nyns yw res tenna.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Dewisewgh skeusen ha 4 po 9 darn. Peder yw dalleth kosel.",
+      "Mirewgh orth an skeusen dhien a-ugh.",
+      "Tappyewgh darn, ena tappyewgh an le may talvia ev bos. An dhew dharn a wra chanjya leow.",
+      "Darnow y’n le ewn a gemmer merk byghan.",
+      "Pan vo an skeusen dien, lowenhewgh hi war-barth, ena dewisewgh unn arall."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Tappya dew dharn rag aga chanjya yw moy es ages tenna rag lies den.",
+      "Kewsewgh a-dro dhe’n skeusen ha hi ow tos war-barth: “Ottena an to rudh.”",
+      "Mildam prenn gwir gans 12 dhe 24 darn bras yw gwrians da orth an voes ynwedh."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A eus termyn po skor?",
+        "a": "Nag eus. Nyns eus klock, skor, niveryans gwayansow na kelli. Hwi a yll hedhi orth pes termyn, hag yw hedhi hanter fordh fordh dha lowr dhe worfenna."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "A res dhymm tenna an darnow?",
+        "a": "Nag eus. Tappyewgh unn dharn, ena unn arall, hag i a wra chanjya leow. Hemm yw esya gans leuv ow krena po war skrin byghan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yw ev heb kost, hag a res dhymm omrolya?",
+        "a": "Ya, yma ev heb kost, hag nyns eus akont, omrolyans na iskarg. Ev a ober y’n beurel wias war bellgowser, leghen po amontyer."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Gorfenna an lavar",
+    "seoTitle": "Gorfenna an lavar: gwari lavarow koth rag tus hens",
+    "h1": "Gorfenna an lavar",
+    "description": "Lavarow koth aswonys gans an ger diwettha ow fyllel, kepar ha “Gwell yw gwitha avel kavos ___”. Tappyewgh dewis po diskwedhewgh an worfen, ena kewsewgh a-dro dhe’n pyth.",
+    "short": "Kowlwrewgh lavarow koth aswonys war-barth, ena kewsewgh a-dro dhedha.",
+    "players": "1, 2 po bagas",
+    "intro": "Lavarow koth yw aswonys yn fenowgh dres bewnans hir. Pub kartenn a dhiskwedh lavar aswonys gans an ger diwettha ow fyllel, tri dewis, ha boton “Diskwedh an worfen”. Wosa an worfen, govyn kosel a wra gelwel kesklapp.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Redyewgh an lavar yn ughel war-barth.",
+      "Tappyewgh an ger a’n gorfen, po tappyewgh “Diskwedh an worfen”.",
+      "Redyewgh an lavar dien arta ha kewsewgh a-dro dhodho gans an govyn.",
+      "Tappyewgh “An nessa lavar” pan vowgh hwi parys."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Redyewgh yn lent ha gas powes kyns an ger diwettha. Yn fenowgh tus a’n lever kyns hwi dhe worfenna.",
+      "Mar re nebonan worfen aral, lowenhewgh hi. Nebes versyonow a lavarow a yll amsavi herwydh teylu po ranndir.",
+      "Y’n bagas, unn dhen a red ha pubonan a jun y’n worfen."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A eus termyn po skor?",
+        "a": "Na nag eus. Nyns eus klock, skôr, rekenyer gwayansow po fyllel vyth. Hwi a yll hedhi orth pynag eur, hag hedhi hanter-fordh yw fordh pur dha dhe worfenna."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Pyth a hwer mar tewisyn ger dyffrans?",
+        "a": "An gwari a dhiskwedh an diwedh usadow ha tremena dhe gows. Nyns eus skôr vyth, hag yma gorthyp dyffrans pur dha."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yw hemma heb kost, hag a res dhymm omrestra?",
+        "a": "Ya, heb kost yw, ha nyns eus akont, omrestrans po iskargans vyth. Yth ober y'n peurel wias war bellgowser, tablet po jynn-amontya."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Hwilas geryow prynt bras",
+    "seoTitle": "Hwilas Geryow Prynt Bras rag Dementia, Yll bos Pryntys",
+    "h1": "Hwilas Geryow Prynt Bras",
+    "description": "Hwilas geryow prynt bras heb kost rag tus goth ha tus ow pewa gans dementia. Boghes a eryow, lytherennow bras, geryow a-dreus hag a-woles hepken. Gwariowgh warlinen po pryntyowgh.",
+    "short": "Lytherennow bras, nebes geryow, a-dreus hag a-woles hepken. Pryntyowgh e ynwedh.",
+    "players": "1 po 2 dhen",
+    "intro": "Kradel vyghan gans lytherennow bras ha saw dornasik a eryow, oll ow lenn a-dreus po a-woles. Tappyeugh kensa lytheren ger, ena hy diwettha lytheren. Gwell gowgh paper? Pryntyowgh kesten nowyth gans unn dap.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Dewisowgh them ha myns an gradel.",
+      "Mirewgh orth an rol a eryow. Geryow a lenn a-dreus (a-gledh dhe dhyghow) po a-woles (a-vann dhe woles).",
+      "Tappyeugh kensa lytheren ger, ena tappyeugh hy diwettha lytheren.",
+      "Ger kevys a vydh golowys ha dyllys dhyworth an rol.",
+      "Tappyeugh \"Pryntya an gesten ma\" rag gwari war baper gans pluven-blomm po pluven-verkyer."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Poyntyowgh orth ger y'n rol ha hwilowgh y gensa lytheren war-barth.",
+      "War baper, esya yw synsi pluven-wolowys ages pluven-blomm.",
+      "Kowsowgh a-dro dhe eryow an them. Geryow frooth yw fordh naturel dhe dhea dhe govyow a dhyghtya po kuntel frooth, pobas po marghasow."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Eus uryer po skôr vyth?",
+        "a": "Na nag eus. Nyns eus klock, skôr, rekenyer gwayansow po fyllel vyth. Hwi a yll hedhi orth pynag eur, hag hedhi hanter-fordh yw fordh pur dha dhe worfenna."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "A allav pryntya an hwilas geryow?",
+        "a": "Ya. Tappyeugh \"Pryntya an gesten ma\" rag pryntya an gradel a-lemmyn yn lytherennow bras, gans an rol a eryow yn-dann dhi. Pub kesten nowyth yw dyffrans."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yw hemma heb kost, hag a res dhymm omrestra?",
+        "a": "Ya, heb kost yw, ha nyns eus akont, omrestrans po iskargans vyth. Yth ober y'n peurel wias war bellgowser, tablet po jynn-amontya."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Folennow liwa",
+    "seoTitle": "Folennow Liwa rag Tevesigyon gans Dementia (Heb Kost)",
+    "h1": "Folennow Liwa",
+    "description": "Folennow liwa sempel rag tevesigyon gans ranndiryow bras: tappyeugh liw, ena tappyeugh an skeusen. Nyns eus stronk vyth, liw kamm vyth, ha pub folen a yll bos pryntys heb kost.",
+    "short": "Tappyeugh liw, ena rann a'n skeusen. Pryntyowgh folennow ynwedh.",
+    "players": "1 po 2 dhen",
+    "intro": "Folennow gans shapys bras ha sempel: flour yn pott, chi, kowp te, tykki-Duw ha lester-golyow. Tappyeugh liw, ena tappyeugh rann a'n skeusen rag hy lenwel. Nyns eus liwyow kamm vyth.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Dewisowgh folen.",
+      "Tappyeugh liw. Yma hanow pub liw skrifys warnodho.",
+      "Tappyeugh rann a'n skeusen rag hy lenwel gans an liw na.",
+      "Chanjyowgh agas brys pynag eur dre hy lenwel arta.",
+      "Tappyeugh \"Pryntya an folen ma\" rag folen wag dhe liwa gans pluvennow-plomm po pluvennow-merkyer."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Kynnigowgh dew liw dhe dhewis a-der an sett dien mar teblys dewis re veur.",
+      "Gwedh purpur ha heulow glas yw wolkommys. Hemma yw rag lownder a liwyow, nyns yw rag ewnter.",
+      "Folennow pryntys a ober yn ta gans pluvennow-merkyer tew po kreyow, esya dhe dhalghenna."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Eus uryer po skôr vyth?",
+        "a": "Na nag eus. Nyns eus klock, skôr, rekenyer gwayansow po fyllel vyth. Hwi a yll hedhi orth pynag eur, hag hedhi hanter-fordh yw fordh pur dha dhe worfenna."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Yw an folennow ma re fleghesik?",
+        "a": "Ni a dhisynas traow kosel ha sempel a-der kartouns, rag bos an folennow gwiw rag tevesigyon. Shapys bras a wra liwa es heb y wul fleghesik."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yw hemma heb kost, hag a res dhymm omrestra?",
+        "a": "Ya, heb kost yw, ha nyns eus akont, omrestrans po iskargans vyth. Yth ober y'n peurel wias war bellgowser, tablet po jynn-amontya."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kerdhyn kows",
+    "seoTitle": "Dallethoryon Kows rag Dementia: Kerdhyn Skeusen",
+    "h1": "Kerdhyn Kows",
+    "description": "Kerdhyn skeusen gans dallethoryon kows hweg rag tus ow pewa gans dementia: arholans vyth, gorthyp ewn vyth. Usyowgh war skrin po pryntyowgh an sett dien.",
+    "short": "Kerdhyn skeusen gans govynnow igor ha hweg. Arholans vyth.",
+    "players": "2 dhen po bagas",
+    "intro": "Pub karten a bar skeusen aswonnys gans galow igor dhe gowsel, kepar ha \"Py eghen a gewer yw an gwella genowgh?\" Nyns eus gorthebow ewn na tra vyth dhe govhe. Dewisowgh them po kemmyskowgh i oll.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Dewisowgh them, po gwithowgh \"Pub karten\".",
+      "Lennowgh an govyn yn-ughel ha mirewgh orth an skeusen war-barth.",
+      "Klewewgh, rannowgh agas gorthyp agas honan, ha gesowgh an kows dhe dremena.",
+      "Tappyeugh \"Karten nessa\" pan vowgh parys, po trigowgh gans unn garten kemmys ha'gas bodh.",
+      "Tappyeugh \"Pryntya pub karten\" rag trehi sett paper."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Gorthebewgh an govyn agas honan ynwedh. Yma dhodho klewes a gows, nyns a bennskrif.",
+      "Holyeugh an hwedhel, nyns an fethow. Mar chanj manylyon, pur dha yw.",
+      "Mar te karten orth neppyth truan, aswonnowgh an tebelgledhyans ha gwayowgh yn hweg dhe garten aral."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Prag na nag eus govynnow \"A berthyowgh hwi kov…?\"",
+        "a": "Govynnow a dhesontel kov a yll klewes kepar hag arholans ha kawsya meth. Galowyow igor kepar ha \"Kowsewgh orthiv a-dro dhe…\" a as dhe bubonan omjunya, pyth pynag a berthon kov."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "A allav pryntya an kerdhyn?",
+        "a": "Ya. \"Pryntya pub karten\" a brynt an sett dien yn lytherennow bras, lies karten an folen, parys dhe vos trehys."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yw hemma heb kost, hag a res dhymm omrestra?",
+        "a": "Ya, heb kost yw, ha nyns eus akont, omrolya po iskarga. Y hwra oberi y'n beurel wias war bellgowser, leghen po amontyer."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Koplow skeusen",
+    "seoTitle": "Gwra Gwari Kaval Kopel dhyworth Agas Skeusennow Teylu",
+    "h1": "Koplow Skeusen: Kevrenn Agas Skeusennow Hwi",
+    "description": "Treylyewgh agas skeusennow teylu hwi dhe wari kaval kopel kosel. Dewisewgh 2 dhe 6 skeusen war agas devis; ymons i y'gas beurel wias ha nevra nyns yns ughkargys.",
+    "short": "Dewisewgh agas skeusennow hwi ha'ga hevrenna. Ny vydh travyth ughkargys.",
+    "players": "2 dhen, a-ryb an eyl y gila",
+    "intro": "Dewisewgh diw dhe hwegh skeusen dhyworth agas pellgowser, leghen po amontyer, hag i a dheu ha bos gwari kaval kopel gans skeusennow bras, gweladow. Ny veu diskwedhys an skeusennow marnas a-berth y'n folen ma. Nyns yns i ughkargys, gwithys po kevrennys, hag i a goll pan dhegeowgh an folen.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tapp \"Dewis skeusennow\" ha dewis diw dhe hwegh skeusen.",
+      "Pub skeusen a omdhiskwedh diweyth. Tapp onan, ena tapp hy hovel.",
+      "Kowsowgh a-dro dhe bub skeusen dell wrewgh hy havoes.",
+      "Pan vowgh hwi parys, degewgh an folen po tapp \"Klerhe skeusennow\". Ny vydh travyth gwithys."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Dewisewgh skeusennow kler a daklow lowen, aswonys: aneval a-bervedh, lowarth, tyller meurgerys, jydh demmedhyans.",
+      "Skeusennow a dylleryow ha taklow a yll bos esya ages bejethow, hag i a omwit rag neb gwask dhe enwi tus.",
+      "Gasa yn-mes skeusennow a dus re verwis mars i a all dri ahwer kodha, marnas hwi dhe wodhvos y hworrons i ri heder."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "A vydh ow skeusennow ughkargys dhe neb le?",
+        "a": "Na vydh. An folen a lenn an skeusennow a dhewisegh hwi yn ewn y'gas beurel wias ha'ga diskwedhes war agas skrin. Nyns yns i danvenys dhyn ni po dhe neb den aral, hag i a yw gyllys pan dhegeowgh po daskarga an folen."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Eus termyn po skor?",
+        "a": "Nyns eus. Nyns eus klock, skor, niver movyansow po kelli. Hwi a yll hedhi orth neb pols, ha hedhi hanter fordh yw fordh da lowr dhe worfenna."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "A allav vy gwitha an gwari rag an nessa tro?",
+        "a": "Ny yllir y'n beurel, dre dhesin, ma na vo gwithys travyth privedh. An app heb kost Golden Moments rag iPhone ha iPad a yll gwitha koplow skeusen dewisys war agas devis hwi."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo skeusen",
+    "seoTitle": "Bingo Skeusen rag Henwon gans Demensia: Dhe Brintya",
+    "h1": "Bingo Skeusen rag Bagasow",
+    "description": "Bingo skeusen heb kost dhe brintya rag gwith kov ha bagasow henwon, gans gelwelores war an skrin bras. Skeusennow bras gans geryow, 9 po 16 kwarek, heb edhomm a redya.",
+    "short": "Kartennow bingo skeusen dhe brintya ha gelwelores skrin-bras rag bagasow.",
+    "players": "Bagas a 2 dhe 30",
+    "intro": "Bingo hengovek gans skeusennow yn le niverow, ma na vo edhomm dhe nebonan redya prynt bian. Printyewgh sett a gardennow dibarow, ena gwrewgh devnydh a'n welwelores war an skrin dhe dhiskwedhes pub skeusen yn bras war bellwolok, amontyer po leghen.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Dewisewgh 9 po 16 kwarek dhe bub karten ha pes gwarioryon.",
+      "Tapp \"Pryntya kartennow\". Pub karten yw dihaval.",
+      "Igorewgh an welwelores war skrin bras. Tapp \"An nessa skeusen\" dhe dhiskwedhes pub skeusen gans hy hanow.",
+      "Gwarioryon a gudh an skeusen owth omdhesedha war aga harten gans bath, boton po merk.",
+      "Pubonan a lenw rew po an garten oll a gemmer lowena. Nyns eus kellyoryon y'n versyon ma: pesyewgh gwari bys pan vo linen dhe bubonan."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Gwrewgh devnydh a doknys bras kepar ha dammenyas po kappaow botellas. Botonyow byghan a yll bos kales dhe gemeres.",
+      "Enwewgh an skeusen ha leverewgh neppyth a-dro dhedhi: \"Gorhel. Piw re beu yn-mes war vor?\"",
+      "Gorregh tus gans kaletter gweles nessa dhe'n skrin, ha kevrenn gweresoryon gans gwarioryon a's edhomm.",
+      "Naw kwarek yw lowr rag brassa rann an bagasow. Gwithowgh an esedhek a-dro dhe 20 dhe 30 mynysen."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Fatel wrav vy rynya bingo skeusen yn chi gwith?",
+        "a": "Printyewgh unn garten rag pub gwarior, gorregh an welwelores war an brassa skrin a'gas beus, ha gelwewgh skeusennow yn lent, ow tenwel pubonan. Gwariowgh bys pan vo linen dhe bubonan, ma na vo nebonan gesys yn-mes."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "A yw heb kost dhe brintya?",
+        "a": "Ya. Printyewgh kemmys kartennow dell wodhowgh hwi aga bodh, mar vennowgh dell vynnowgh, rag devnydh personel po bagas."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "A yll tus gwari heb redya?",
+        "a": "Ya. Pub kwarek yw skeusen bras, gans hy hanow a-woles rag an re a gar geryow."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Anella kosel",
+    "seoTitle": "Powes Anella Kosel rag Henwon ha Gwithoryon",
+    "h1": "Powes Anella Kosel",
+    "description": "Powes anella lent ha kosel dhe gevrenna: kylgh kosel a dyv ha lehe rag hwegh anall. Hwi a'n dalleth, ha hwi a yll hedhi orth neb pols.",
+    "short": "Kylgh lent dhe anella ganso. Dalleth ha hedhi pan vynnowgh hwi.",
+    "players": "1 po 2 dhen",
+    "intro": "Treweythyow an gwella gwrians yw powes kosel. Tapp \"Dalleth\", ena anellewgh yn-mes dell dyv an kylgh hag yn-mes dell lehe. Dewisewgh tooth lenta po uskissa. Nyns yw medhegneth, mes pols kosel dhe gevrenna.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Esedhowgh yn es a-ryb an eyl y gila.",
+      "Dewisewgh tooth: lent po kosel.",
+      "Tapp \"Dalleth\". Anellewgh yn-mes ha'n kylgh ow tevi, hag yn-mes ha'n kylgh ow lehe.",
+      "Y hwra hedhi dre honan wosa hwegh anall, po tapp \"Hedhi\" pan vynnowgh hwi."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Synsewgh leuv po gorregh leuv war vregh an den mars yw wolkom.",
+      "Na wrewgh hwi bythya ynni. Mars yw gwell gansa i mires, da lowr yw henna.",
+      "Mars eus kudynnow anella dhe nebonan, anellewgh yn usadow ha mirowgh orth an kylgh yn sempel. Govynnowgh orth medhek a-dro dhe neb prederow a-dro dhe anella."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "A yw hemma omassay anella medhegel?",
+        "a": "Na. Powes sempel, bodhek yw rag kosoleth ha kowethyans. Nyns yw medhegneth rag preder po neb studh. Kowsowgh gans medhek a-dro dhe brederow yeghes."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "A wra an kylgh movya heb ow dalleth vy?",
+        "a": "Na. Ny way travyth bys pan dhochowgh Start, hag ev a hedh wosa hwegh anadhel po pan dhochowgh Stop. Mar pydh agas devis settys dhe lehe gwayans, an geryow a janj heb dhe'n kylgh kressya."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yw ev digost, hag eus res dhymm kovskrifa?",
+        "a": "Ya, digost yw, ha nyns eus akont, kovskrifans po iskarg vyth. Ev a weyth y'n beurel wias war fon, tablet po jynn-amontya."
       }
     ]
   }

@@ -1,0 +1,762 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lau leʻo lahi",
+      "stopReading": "Taʻofi ʻa e lau",
+      "region": "Keimi",
+      "restart": "Kamata foki",
+      "soundOn": "Ngaahi leʻo mohu ʻoku ʻi ai",
+      "soundOff": "Ngaahi leʻo mohu ʻoku taʻofi",
+      "done": "Kuo ʻosi ʻaho ni",
+      "feedbackQuestion": "Kuo tokoni ʻa e meʻa ni ʻi he ʻaho ni?",
+      "feedbackYes": "ʻIo",
+      "feedbackNo": "ʻIkai lava",
+      "feedbackThanks": "Malo ʻaupito ʻi hoʻo fakaʻilo mai."
+    },
+    "tile": {
+      "named": "{name}, konga {n}",
+      "hidden": "ʻAta ʻoku ufi, konga {n}",
+      "withState": "{label}, {state}",
+      "matched": "Kuo fakatatau",
+      "selected": "Kuo filifili",
+      "picture": "ʻAta",
+      "photoNumber": "Takaʻi {n}"
+    },
+    "pairs": {
+      "allTogether": "Kuo fakatatau ʻa e ngaahi peá kotoa. Toe fai pe malolo ʻi ha taimi nounou.",
+      "photoPair": "Ko ha takaʻi ʻe ua ʻoku fakatatau.",
+      "picturePair": "Ko e ʻata ʻe ua ʻo e {name|lower}, ʻi he taha.",
+      "selected": "{name}. Ko eni, kumi hono tatau.",
+      "mismatch": "Fai pe ʻaho ʻa e taimi. Tāʻi ha ʻata ke fai ʻe ai.",
+      "mismatchNamed": "{a} mo e {b}. Fai pe ʻaho ʻa e taimi. Tāʻi ha ʻata ke fai ʻe ai."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tāʻi ha ʻata, pea tāʻi ai ʻa ia ʻoku tatau mo ia.",
+      "guidanceHidden": "Tāʻi ʻa e konga ʻe ua ke huu ai. Kumi ʻa ia ʻe ua ʻoku tatau.",
+      "restart": "Ngaahi ʻata foʻou",
+      "sizeLegend": "Fiha ʻa e ngaahi konga",
+      "size": {
+        "other": "{n} konga"
+      },
+      "viewLegend": "Founga ʻo e keimi",
+      "viewShowing": "ʻAta ʻoku hā",
+      "viewHidden": "ʻAta ʻoku ufi",
+      "playAgain": "Keimi toe ʻaki ʻa e ngaahi ʻata foʻou",
+      "talk": "Talanoa fekauʻaki mo e ngaahi ʻata fakataha"
+    },
+    "choose": {
+      "countLegend": "Fiha ʻa e ngaahi ʻata",
+      "count": "{n} ke filifili mei ai",
+      "thatOne": "Ko ia ʻe ʻi ai ʻa e {name|lower}. Fai pe ʻaho ʻa e taimi."
+    },
+    "findTheSame": {
+      "guidance": "Vakai ki he ʻata ʻi ʻolunga. Tāʻi ʻa e tatau ʻi lalo.",
+      "yes": "ʻIo, ko e {name|lower} tatau.",
+      "next": "ʻAta hoko mai"
+    },
+    "shadowMatch": {
+      "guidance": "Vakai ki he malu ʻi ʻolunga. Tāʻi ʻa e ʻata ʻoku fai ai ʻa e malu ko ia.",
+      "yes": "ʻIo, ko e {name|lower} ʻoku fai ai ʻa e malu ko ia.",
+      "next": "Malu hoko mai",
+      "shadowAlt": "Ko e malu ke tatau ki ai",
+      "foundAlt": "Ko e malu ʻo e {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tāʻi ha ʻata, pea tāʻi ʻa e kato ʻoku ʻi ai ia.",
+      "restart": "Ngaahi ʻata foʻou",
+      "themeLegend": "Kaveinga",
+      "selected": "{name}. Ko eni, tāʻi ʻa e kato ʻoku ʻalu ai.",
+      "pickFirst": "Tāʻi muʻa ha ʻata, pea tāʻi ha kato.",
+      "hint": "Ko e {name|lower} ʻe lava ke ʻi he kato \"{basket}\". Tāʻi ʻa e kato ko ia ke tuku ai.",
+      "placed": "Ko e {name|lower} ʻi he kato \"{basket}\".",
+      "sorted": "Kuo fakatuʻutuʻu ʻa e meʻa kotoa. Vakai fakataha ki he ngaahi kato, pe feinga ha kaveinga kehe.",
+      "basket": {
+        "other": "Kato {basket}, ʻi loto ʻe {count} ʻata"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tāʻi ha konga, pea tāʻi ha konga kehe. Te nau fetongi feituʻu.",
+      "restart": "Fakatuʻutuʻu foki",
+      "pictureLegend": "ʻAta",
+      "pictures": {
+        "sailboat": "Vaka hala",
+        "house": "Fale",
+        "balloon": "Pōpoa",
+        "sunflower": "Fuʻu lā",
+        "lighthouse": "Fale maama",
+        "cat": "Pusi"
+      },
+      "sizeLegend": "Ngaahi konga",
+      "size": {
+        "other": "{n} konga"
+      },
+      "pickedUp": "Kuo toʻo ha konga. Ko eni, tāʻi ʻa e feituʻu ʻe tonu ai.",
+      "whole": "Kuo toe kakato ʻa e {name|lower}. Filifili ha ʻata kehe ʻi ha taimi pe ko e hā.",
+      "swapped": {
+        "other": "Kuo fetongi. {correct} mei he {total} ʻa e ngaahi konga ʻoku ʻi he feituʻu totonu."
+      },
+      "guideAlt": "Ko e ʻata kakato: {name}",
+      "guideText": "Ko eni ʻa e founga ʻoku hā ai ʻa e ʻata ʻi he taimi kakato ai.",
+      "piece": "Konga ʻi he {place}",
+      "pieceInPlace": ", ʻi he feituʻu totonu",
+      "piecePickedUp": ", kuo toʻo",
+      "places4": [
+        "ʻolunga toʻohema",
+        "ʻolunga toʻomātuʻa",
+        "lalo toʻohema",
+        "lalo toʻomātuʻa"
+      ],
+      "places9": [
+        "ʻolunga toʻohema",
+        "ʻolunga ʻi loto",
+        "ʻolunga toʻomātuʻa",
+        "ʻi loto toʻohema",
+        "ʻi loto",
+        "ʻi loto toʻomātuʻa",
+        "lalo toʻohema",
+        "lalo ʻi loto",
+        "lalo toʻomātuʻa"
+      ],
+      "done": "Kuo toe kakato ʻa e ʻata. Fai pe ʻaho ʻa e taimi pe malolo.",
+      "playAgain": "Fakatuʻutuʻu toe ʻaki"
+    },
+    "finishTheSaying": {
+      "guidance": "Lau fakataha ʻa e lea fakatatau, pea tāʻi ʻa e leʻo ʻoku fakaʻosi ai.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "ʻIo, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" ʻe lava foki. Ko e lea maʻu pe ʻoku fakaʻosi ʻaki ʻa e \"{end}\".",
+      "revealed": "Ko e lea ko e \"{start} {end}.\"",
+      "choicesLabel": "Filifili ʻa e leʻo fakaʻosi",
+      "show": "Fakahā ʻa e fakaʻosi",
+      "talk": "Talanoa fekauʻaki mo ia: ",
+      "next": "Lea hoko mai"
+    },
+    "wordSearch": {
+      "guidance": "Ko e ngaahi lea ʻe ʻalu ʻi he laini pe hifo. Tāʻi ʻa e letā muʻa ʻo e lea, pea tāʻi ʻa e letā fakaʻosi.",
+      "restart": "Puzzle foʻou",
+      "themeLegend": "Kaveinga",
+      "sizeLegend": "Lahi ʻo e puzzle",
+      "size": {
+        "other": "{n} ʻi he {n} ({words} ngaahi lea)"
+      },
+      "print": "Paʻi ʻa e puzzle ni",
+      "letterChosen": "Kuo filifili ʻa e letā {letter}. Ko eni, tāʻi ʻa e letā fakaʻosi ʻo e lea.",
+      "found": "Kuo maʻu ʻa e {word}.",
+      "foundAll": "Kuo maʻu ʻa e {word}. Ko e ngaahi lea kotoa ia. Toe fai pe malolo ʻi ha taimi nounou.",
+      "tryAgain": "Fai pe ʻaho ʻa e taimi. Tāʻi ʻa e letā muʻa ʻo e lea, pea tāʻi ʻa e letā fakaʻosi.",
+      "gridLabel": "Laini ʻo e ngaahi letā, {n} laini ʻe {n} ʻa e letā. Ko e ngaahi kī ʻi he ʻaho ʻe lava ke ke fononga ai ʻi he ngaahi letā.",
+      "cell": "{letter}, laini {row}, kolomu {col}",
+      "cellFound": ", konga ʻo ha lea kuo maʻu",
+      "wordsHeading": "Ngaahi lea ke kumi",
+      "wordFound": " (kuo maʻu)",
+      "sheetTitle": "Puzzle ʻo e lea: {theme}",
+      "sheetNote": "Ko e ngaahi lea ʻe ʻalu ʻi he laini pe hifo.",
+      "unavailable": "ʻOku ʻikai ʻaonga ʻa e laini ʻo e ngaahi letā ki he lea ni, ko ia ʻoku ʻikai foaki ai ʻa e puzzle ʻo e lea. Feinga ʻa e ngaahi keimi ʻata ʻi hono ʻaonga."
+    },
+    "coloring": {
+      "guidance": "Tāʻi ha lanu, pea tāʻi ha konga ʻo e ʻata.",
+      "restart": "Fakamaʻa ʻa e ngaahi lanu",
+      "cleared": "Kuo toe maʻa ʻa e peesi.",
+      "pageLegend": "Peesi",
+      "print": "Paʻi ʻa e peesi ni",
+      "colorsLabel": "Ngaahi lanu",
+      "paintChosen": "Kuo filifili {paint}.",
+      "painted": "Ko e {part} ko eni ʻoku {paint|lower}.",
+      "artLabel": "{page}, ngaahi konga {count} ke lanu",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ʻoku ʻikai ke lanu",
+      "paints": {
+        "red": "Kula",
+        "orange": "ʻOlanisi",
+        "yellow": "Melemele",
+        "green": "Lanu lau",
+        "blue": "Pulū",
+        "purple": "Pepolo",
+        "pink": "Pingi",
+        "brown": "Kakau",
+        "sky-blue": "Pulū langi",
+        "cream": "Melomelo mohu",
+        "gray": "Efu",
+        "white": "Mā"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lau ʻaki ʻa e kāati leʻo. ʻOku ʻikai ha tali totonu.",
+      "position": "Kāati {n} ʻi he {total}",
+      "themeLegend": "Kaveinga",
+      "next": "Kāati hoko mai",
+      "previous": "Kāati ʻi muʻa",
+      "print": "Paʻi ʻa e kāati kotoa",
+      "sheetTitle": "Ngaahi kāati talanoa"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Kamata ʻaki ʻo filifili ho ngaahi takaʻi.",
+      "guidance": "Tāʻi ha takaʻi, pea tāʻi ai ʻa ia ʻoku tatau mo ia.",
+      "restart": "Fakatuʻutuʻu foki ʻakinautolu",
+      "intro": "**Filifili ʻa e takaʻi ʻe 2 ki he 6** mei he fakaʻaliʻali ni. ʻOku hā pe ʻi he peesi ni, pea ʻikai ke ʻave ki ha feituʻu kehe pe fakamoʻui.",
+      "choose": "Filifili ʻa e ngaahi takaʻi",
+      "chooseDifferent": "Filifili ngaahi takaʻi kehe",
+      "clear": "Toʻo ʻa e ngaahi takaʻi",
+      "cleared": "Kuo toʻo ʻa e ngaahi takaʻi mei he peesi ni.",
+      "atLeastTwo": "Malo, fakamolemole filifili ʻa e takaʻi ʻe ua pe lahi ange.",
+      "usingFirst": "Ko e kamata ʻaki ʻa e ngaahi takaʻi {max} muʻa.",
+      "skipped": {
+        "other": "Ko e faile ʻe {count} ʻikai ko ha takaʻi ʻe lava ke tau fakahā."
+      },
+      "playAgain": "Keimi toe ʻaki ʻakinautolu",
+      "empty": "Ko ho ngaahi takaʻi ʻe hā ʻi heni, ʻe ua ʻa e taha kotoa."
+    },
+    "pictureBingo": {
+      "guidance": "Paʻi muʻa ʻa e ngaahi kāati. Pea fakahā ʻa e ʻaho ni ʻi he sikirini lahi taha ʻoku ke maʻu.",
+      "called": {
+        "other": "{name}. Kuo ui ʻa e ngaahi ʻata {called} mei he {total}."
+      },
+      "start": "Tāʻi ʻa e \"ʻAta hoko mai\" ke ui ʻa e ʻata muʻa.",
+      "restart": "Kamata keimi foʻou",
+      "squaresLegend": "Ngaahi potu ʻi he kāati taha",
+      "squares": "{n} potu ({side} x {side})",
+      "cardsLegend": "Fiha ʻa e kāati ke paʻi",
+      "cards": {
+        "other": "{n} kāati"
+      },
+      "print": {
+        "other": "Paʻi ʻa e kāati bingo {n}"
+      },
+      "ready": "Teuteu ʻa koe pe ʻoku ke lelei.",
+      "next": "ʻAta hoko mai",
+      "allCalled": "Kuo ui ʻa e ngaahi ʻata kotoa",
+      "alreadyCalled": "Kuo ui muʻa",
+      "sheetTitle": "Bingo ʻo e ngaahi ʻata · kāati {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Hā ʻi he taimi ʻoku tupu hake ai ʻa e tōʻā, pea hā atu ʻi he taimi ʻoku iiki ai. ʻE tāpuni ia ʻe ia ʻi he hā ono.",
+      "paceLegend": "Tēmpo",
+      "paceSlow": "Mālie (sekoni 5 ʻi he tafaʻaki kotoa)",
+      "paceGentle": "Nunuʻa (sekoni 4 ʻi he tafaʻaki kotoa)",
+      "ready": "Teu ke kamata ʻi ho taimi",
+      "in": "Hā ʻi loto",
+      "hold": "Malu",
+      "out": "Hā ki tuʻa",
+      "start": "Kamata",
+      "stop": "Tāpuni",
+      "started": "Kuo kamata. Hā ʻi he tupu hake ʻa e tōʻā.",
+      "stopped": "Kuo tāpuni.",
+      "finished": "Ko e hā ʻa e hā ʻe ono ia. Kamata fo'ou ʻi he taimi ʻoku ke fie ai."
+    }
+  },
+  "pictures": {
+    "teacup": "Kāpu tī",
+    "kettle": "Kēteli",
+    "bread": "Falaoa",
+    "frying-pan": "Pani mo e fuamoa",
+    "cake": "Keke ʻaho tupu",
+    "sunflower": "Fua lā",
+    "tulip": "Tulip kulokula",
+    "watering-can": "Ipu vai",
+    "potted-plant": "Tupu ʻi he ipu",
+    "tree": "ʻAkau",
+    "bird": "Manu ʻi he ʻakau",
+    "butterfly": "Pepe",
+    "dog": "Kuli",
+    "cat": "Pusi",
+    "fish": "Ika koula",
+    "apple": "ʻĀpolo kulokula",
+    "pear": "Pea",
+    "strawberry": "Sitiroberi",
+    "banana": "Panana",
+    "lemon": "Lemoni",
+    "cherries": "Seli",
+    "house": "Fale",
+    "lamp": "Lāmipa tēpile",
+    "armchair": "Sea nofo",
+    "key": "Kī motuʻa",
+    "umbrella": "Umelela",
+    "sailboat": "Vaka folau",
+    "car": "Kā motuʻa",
+    "bicycle": "Pasikala",
+    "balloon": "Pōpula vela",
+    "lighthouse": "Maama ʻo e tahi",
+    "sun": "Lā",
+    "moon": "Mahina mo e fetuʻu",
+    "teapot": "Ipu tī",
+    "apple-pie": "Pai ʻāpolo",
+    "honey-jar": "Ipu huni",
+    "boiled-egg": "Fuamoa ʻi he ipu",
+    "toaster": "Tosita",
+    "cheese": "Sisi",
+    "milk-jug": "Ipu miliki",
+    "cupcake": "Keke iiki",
+    "orange": "ʻOlenisi",
+    "grapes": "Kulepi",
+    "watermelon": "Melone",
+    "pineapple": "ʻAnanasi",
+    "peach": "Pisi",
+    "rose": "Rōsi",
+    "daisies": "Tēsi",
+    "mushroom": "Mosilume",
+    "wheelbarrow": "Kā ngoue",
+    "birdhouse": "Fale manu",
+    "cactus": "Kakatusi ʻi he ipu",
+    "acorn": "Hue ʻakau",
+    "autumn-leaf": "Lau melomelo",
+    "rabbit": "Lapi",
+    "duck": "Tuki",
+    "hen": "Moa fefine",
+    "sheep": "Sipi",
+    "owl": "Lulu",
+    "ladybird": "Pepe kulokula",
+    "snail": "Kuma",
+    "frog": "Lupe",
+    "bee": "Pī",
+    "clock": "Uasi fale",
+    "vase-of-flowers": "Ipu fua",
+    "radio": "Leitio motuʻa",
+    "books": "Ngaahi tohi",
+    "candle": "Kanesi",
+    "glasses": "Sima lau",
+    "telephone": "Telefoni",
+    "ball-of-wool": "Pōlo huluhulu",
+    "straw-hat": "Pulou lā",
+    "train": "Tēleni vela",
+    "bus": "Pasi",
+    "airplane": "Vakapuna",
+    "suitcase": "Kēsi",
+    "tractor": "Taleta",
+    "rowing-boat": "Vaka hoe",
+    "rainbow": "Lainipou",
+    "rain-cloud": "Ao uha",
+    "snowflake": "Fuʻu kiu",
+    "kite": "Kaiti",
+    "sunrise": "Lā hake ʻi he moʻunga"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "AEFHIKLMNOPSTUV",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fua",
+          "words": [
+            "APOLO",
+            "PEA",
+            "NONU",
+            "LEMONI",
+            "FUA",
+            "PAPAIA",
+            "MELONE",
+            "FIKI",
+            "NIU"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Ngoue",
+          "words": [
+            "LAU",
+            "AKAU",
+            "VAI",
+            "ULU",
+            "TUPU",
+            "KELE",
+            "PUA",
+            "MOTU",
+            "HALA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kisini",
+          "words": [
+            "KAPU",
+            "PLETI",
+            "OVINI",
+            "FOKI",
+            "KETELI",
+            "SUPU",
+            "PANI",
+            "MEA",
+            "KAVA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "ʻEa",
+          "words": [
+            "UHA",
+            "VELA",
+            "MALU",
+            "MAFANA",
+            "AFI",
+            "TAU",
+            "MOANA",
+            "HAU",
+            "EFU"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Manu",
+          "words": [
+            "KULI",
+            "PUSI",
+            "MANU",
+            "IKA",
+            "HOSI",
+            "PULU",
+            "KOATI",
+            "MOA",
+            "PUAKA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Fale",
+          "words": [
+            "MATAPA",
+            "SEA",
+            "LAMIPA",
+            "FALA",
+            "SOFA",
+            "TEPILE",
+            "TESKI",
+            "FALE",
+            "MOE"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kotoa",
+        "food": "Kai",
+        "home": "Fale",
+        "outdoors": "Tuʻa",
+        "animals": "Manu",
+        "travel": "Fononga",
+        "work": "Ngāue mo e fiefia",
+        "music": "Fiefia mo e hiva",
+        "seasons": "Ngaahi vaha'a taimi"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ko e hā e manava ʻoku ke ʻofa taha mei he kisini?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ko e hā e keke ʻoku ke fili ki ha fakafiefia?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Talanoa mai ki ha pai fua pe kai ʻoku ke ʻofa taha."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Fēfē ho founga ke ke fie ai ki he tī pe kofi?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ko e hā ʻoku ngāue lelei ai ha kai pongipongi?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Kuo ke toʻo ha fua mei he akau pe ngoue ʻi he taimi ʻe taha?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Monu pe kona: ko e hā ʻoku ke fie lelei ange ai?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ko e hā ha kai ʻoku hangē ko e taimi vela ki ho lotó?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Talanoa mai ki ha fale ʻoku ke fie nofo ai."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ko e feituʻu fē ʻoku ke fie nofo ai mo malolō?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ko e hā ʻoku ke fie fai ʻi ha efiafi mālie?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ko e hā ha koloa ʻoku ke tauhi ʻi ha kato makehe?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ko hai ʻoku ke fie ʻaʻahi mai ki ha kāpu tī?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ko e hā ʻoku ke fie fai ʻi ha ʻaho uha?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ko e hā ha ngaahi fua ʻoku ke fie tō ʻi he ngoue?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Talanoa mai ki ha akau pe ʻapi ʻoku ke ʻofa ki ai."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Ko e hā ʻa e konga lelei taha ʻo e nofo ʻi he ngoue?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Ko e hā ha lanu ʻoku ke ʻofa taha ki he ngaahi fua?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "ʻOku ke ʻofa ke ʻi ai ha ngaahi tupu ʻi he fale?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ko e hā ho fakakaukau ki ha ʻaho lā lelei?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Talanoa mai ki ha kuli kuo ke ʻiloʻi."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Pusi pe kuli, pe ʻikai ha taha? Ko e hā ʻoku ke ʻofa ai ki ai?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Ko e manu fē ʻoku ke sio pe ongoʻi ʻi tuʻa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Kuo ke heka ika pe tauhi ha ika ʻi ha ipu vai?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ko e manu fēfē ʻoku ke sio ai ʻoku matalelei taha?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Talanoa mai ki ha kā ʻoku ke fie ai."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ko e hā ʻoku ke fie fai ai ha ʻaho ʻi he tahi pe ʻi he moʻunga?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ko e feituʻu fē ʻoku ke fie ʻalu ai ʻi he pasikala?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Kapau te ke lele ki ha feituʻu, ko e feituʻu fē ia?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ko e hā ha fononga kuo ke fakafiefia ai?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Ko e hā ha ngāue kuo ke fakafiefia ai?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ko e hā ha me'a fakafiefia ʻoku ke lava ke ngāue ki ai ʻi ha houa lahi?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ko e hā ha meʻa kuo ʻiloʻi ai koe ʻi he fai pe fakalelei?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ko e hā ha fakaʻamu ʻoku ke fie foaki ki ha taha talavou kamata ngāue?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ko e hā ha hiva ʻoku ke fie ke tāmaʻu ʻaki ho vae?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ko e hā ʻoku ngali lelei ai ha fakafiefia?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ko hai ʻa e hiva ʻoku ke fie fanongo ki ai?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ko e hā ha ʻata pe fakaʻata ʻoku ke fie toe mamata ki ai?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Ko e hā ʻoku ke fie lahi taha ai ʻi he taimi vela?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Ko e hā ʻoku ke fakafiefia ai ʻi he taimi ʻo e lau melomelo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ko e hā ha meʻa mālie ke fai ʻi ha efiafi ʻi he taimi momoko?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Ko e hā ha ngaahi fakaʻilonga ʻuluaki ʻo e taimi tupu ʻoku ke ʻiloʻi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Kiu, uha pe laʻa: ko e hā ʻoku ke fie lelei ange ai?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Fua ʻi he ipu",
+          "regions": {
+            "sky": "Tuʻa",
+            "table": "Tēpile",
+            "stem": "Vaʻa fua",
+            "leaf-left": "Lau hema",
+            "leaf-right": "Lau toʻomata",
+            "petal-1": "Pitala 1",
+            "petal-2": "Pitala 2",
+            "petal-3": "Pitala 3",
+            "petal-4": "Pitala 4",
+            "petal-5": "Pitala 5",
+            "petal-6": "Pitala 6",
+            "petal-7": "Pitala 7",
+            "petal-8": "Pitala 8",
+            "center": "Lotoʻi fua",
+            "pot": "Ipu",
+            "pot-rim": "Ngutu ʻo e ipu"
+          }
+        },
+        "house": {
+          "name": "Fale",
+          "regions": {
+            "sky": "Langi",
+            "sun": "Lā",
+            "grass": "Mutu",
+            "chimney": "Pulu afi",
+            "walls": "Ngaahi pā",
+            "roof": "Tuʻa fale",
+            "door": "Matapā",
+            "window-left": "Matapā iiki hema",
+            "window-right": "Matapā iiki toʻomata",
+            "path": "Hala"
+          }
+        },
+        "teacup": {
+          "name": "Kāpu tī",
+          "regions": {
+            "background": "Tuʻa",
+            "saucer": "Pleti kāpu",
+            "handle": "Hiki kāpu",
+            "cup": "Kāpu",
+            "band": "Fasi ʻo e kāpu",
+            "tea": "Tī"
+          }
+        },
+        "butterfly": {
+          "name": "Pepe",
+          "regions": {
+            "background": "Tuʻa",
+            "wing-top-left": "Lapa hema ʻolunga",
+            "wing-top-right": "Lapa toʻomata ʻolunga",
+            "wing-bottom-left": "Lapa hema lalo",
+            "wing-bottom-right": "Lapa toʻomata lalo",
+            "spot-left": "Tohi hema",
+            "spot-right": "Tohi toʻomata",
+            "body": "Sino"
+          }
+        },
+        "sailboat": {
+          "name": "Vaka folau",
+          "regions": {
+            "sky": "Langi",
+            "sea": "Tahi",
+            "sail-big": "Lau folau lalahi",
+            "sail-small": "Lau folau iiki",
+            "mast": "Pou vaka",
+            "hull": "Vaka",
+            "flag": "Flagi"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kisini mo e ngoue",
+          "baskets": [
+            "ʻi he kiteni",
+            "ʻi he ngoue"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fua mo e manu",
+          "baskets": [
+            "Fua",
+            "Manu"
+          ]
+        },
+        "home-travel": {
+          "label": "Fale mo e malaga",
+          "baskets": [
+            "ʻi he fale",
+            "Ki tuʻa"
+          ]
+        }
+      }
+    }
+  }
+}

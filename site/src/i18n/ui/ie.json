@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Saltar al contenete principal",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Activitás por dementia",
+    "homeLabel": "Págine initial de Golden Moments",
+    "mainNav": "Principal",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Interlingue",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: grand, amical images de un tase de té, un tornasol e un can",
+    "languages": "Lingue",
+    "englishOnly": "(Anglesi)",
+    "machineTranslated": "Ti págine esset traductet automaticmen e ancor ne ha esset revidet de un parlator nativ.",
+    "readOriginal": "Leer li originale in anglesi",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Ludes",
+      "activities": "Activitás",
+      "caregiving": "Cura",
+      "brainHealth": "Sanitá del cerebre"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Questiones e responses",
+    "breadcrumb": "Fil de navigation",
+    "home": "Hem",
+    "lastUpdated": "Ultim actualisat",
+    "topics": "Temas",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Dimension del textu",
+      "smaller": "Textu standard",
+      "larger": "Textu plu grand",
+      "contrast": "Plu alt contraste"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Luder",
+    "picturePairs": "Pares de images",
+    "conversationCards": "Cartas de conversation",
+    "pictureBingo": "Bingo de images",
+    "allGames": "Omni ludes",
+    "pictures": "Images por printar",
+    "activityIdeas": "Idés por activitás",
+    "ideas101": "101 idés por activitás",
+    "lateStage": "Activitás por li tardiv fase",
+    "printable": "Printabil activitás",
+    "allActivities": "Omni activitás",
+    "forCaregivers": "Por curatores",
+    "playTogether": "Qualmen luder junt",
+    "selfCare": "Cura de vos self",
+    "brainHealth": "Exploration pri sanitá del cerebre",
+    "faq": "Questiones e responses",
+    "about": "Pri nois",
+    "approach": "Nor metode",
+    "howWeWrite": "Qualmen noi scri",
+    "organizations": "Por organisationes",
+    "app": "Li application Golden Moments",
+    "appHelp": "Auxilie por li application",
+    "support": "Suporte",
+    "legal": "Informationes juridic",
+    "sitePrivacy": "Confadentie del website",
+    "appPrivacy": "Politica de confadentie del application",
+    "privacyChoices": "Selectiones de confadentie",
+    "terms": "Conditiones e licentie del application",
+    "safety": "Securitá e usada intendet",
+    "accessibility": "Accessibilitá",
+    "healthNotice": "Avise pri informationes sanitari",
+    "allLegal": "Omni informationes juridic",
+    "note": "Golden Moments offeri simplic activitás partit por joya. It ne es un avise medical, un pruva o un tractament, e it ne diagnostica, mesura o evalua person quelcunc. Por questiones de sanitá, parla con un medico. In un casu de emergentie, telefona a 112.",
+    "publisher": "Publicat de Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Ludes e activitás por dementia e Alzheimer | Golden Moments",
+    "description": "Gratuit, tranquill ludes con images por luder in li ret e idés por activitás por persones vivent con dementia o Alzheimer e lor curatores. Sin registration, cronómetres o punctus.",
+    "eyebrow": "Gratuit · Sin reclames · Sin registration · Sin cronómetres o punctus",
+    "h1": "Tranquill ludes e activitás por persones con dementia",
+    "lede": "Simplic ludes con images, conosset fotografies, e activitás por guder junt—a vor propri ritme.",
+    "playGame": "Luder un lude",
+    "findIdeas": "Trovar idés por activitás",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Functiona sur telefon, tabulietta e computator",
+      "Grand images quel resta visibil",
+      "Halta a omni témpor; nequo a fallir"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Anc un gratuit application por iPhone, iPad e Android, con vor propri fotos de familie",
+    "albumNote": "«Du images del tase de té, junt.»",
+    "gamesEyebrow": "Lude in vor navigator",
+    "gamesTitle": "Ludes quel vu posse luder just nu",
+    "gamesLede": "Chascun es tranquill, adaptat por adultes e facil a comensar. Selecte un, sede láter a láter, e toca a torn.",
+    "seeAllGames": "Vider omni {count} ludes",
+    "howTitle": "Qualmen it functiona",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Selecte alquicos conosset",
+        "text": "Images de tases de té, jardines, animales domestic e barcas a vela. Sin letura o regules a aprender antey."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Sede láter a láter",
+        "text": "Lassa les tocar li ecran. Parla pri li images. Un diferentie simplicmen atende li sequent tomp."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Halta durante que it fa joya",
+        "text": "Un singul lude es un complet activitá. «Finit por nu» es sempre visibil sur li ecran."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Ultra li ecran",
+    "stageTitle": "Idés por activitás por chascun fase",
+    "stageLede": "Musica, quotidian labores, reminiscentie e quiet sensorial moments, adaptat a quo sembla confortabil nu.",
+    "ideas101": "101 idés por activitás",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Fase inicial",
+        "text": "Continua far quo ili ama, con micri adjustamentes: passatempos, excursiones, ludes de paroles e planation junt.",
+        "label": "Idés por li fase inicial"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Medial fase",
+        "text": "Simplic, conosset labores dividet in passus: pliar, ordinar, musica, ludes con images e curt promenadas.",
+        "label": "Idés por li medial fase"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Tardiv fase",
+        "text": "Confort e conexion per tactu, son e vise: cura del manus, canzones favorit, fotografies e esser junt.",
+        "label": "Idés por li tardiv fase"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Cerca vu alquicos specific? Prova <a href=\"/activities/alzheimers/\">activitás e ludes por Alzheimer</a>, <a href=\"/activities/memory-games/\">tranquill ludes de memorie</a>, <a href=\"/activities/trivia/\">facil trivia</a> o <a href=\"/activities/puzzles/\">enigmas</a>.",
+    "approachEyebrow": "Nor metode",
+    "approachTitle": "Un activitá partit, ne un test de memorie",
+    "approachLede": "Mult «ludes por li cerebre» es basat sur rapiditá, punctus e series de victores. Por un person vivent con dementia it posse semblar un examen. Noi ha creat li contrarie.",
+    "approachLink": "Pro quo noi concepe it talmen",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Nequo a fallir",
+        "text": "Sin horlogie, punctus, vives o desfortuna. Un diferent image es un pause, ne un erra."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Images resta visibil",
+        "text": "Reconosserie vice rememoration. Li acariment comensa con cartes apert, talmen que hay nequo a recordar."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Adult e digni",
+        "text": "Cald, simplic paroles e images del munde real. Nequande caricates o linguage infantil."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Privat per conception",
+        "text": "Sin contos o reclames. Vor fotos nequande abandona vor aparate."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Por curatores",
+    "guidesTitle": "Pratic guides por li quotidian cura",
+    "allCaregiving": "Omni guides de cura",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Qualmen luder junt",
+        "text": "Preparacion, ritme, e quo far quande un lude ne plu fa joya."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Quande ili dice no a un activitá",
+        "text": "Freqüent motivos por refusar, e seren manieres de provar denov plu tard."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Configurar un tabulietta",
+        "text": "Textu plu grand, minu interruptiones e un singul simplic ecran de inicie."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Gratuit printabil activitás",
+        "text": "Serchas de paroles con grand lítteres, págines de colorar, bingo e cartas de conversation."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Sanitá del cerebre: quo li exploration dice veritabilmen",
+    "researchText": "Esque on posse prevenir dementia? Esque cerebric ludes adjuta? E pri junar, dieta, somnie e auditá? Clar responses con fontes, anc u li pruvas es debil.",
+    "researchLink": "Leer li guides de exploration",
+    "appEyebrow": "Anc un application",
+    "appTitle": "Golden Moments sur iPhone, iPad e Android",
+    "appText": "Li gratuit application functiona sin ret e posse usar fotos de familie quel vu selecte, conservat quam copies sur vor aparate. Li sam tranquill design: quar grand quadres, sin cronómetre, sin punctus.",
+    "aboutApp": "Pri li application",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Quo es bon ludes por persones con dementia?",
+        "a": "Bon ludes es simplic, conosset e sin pression: grand images a associar, ordinar, facil puzzles, completer conosset proverbies, colorisar, bingo de images e cartes de conversation. Li max bon selection es to quo li person giodi hodie. Ples evitar cronometres, punctus e omnicos quel sembla un prova."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Esque ti ludes por dementia es gratuit?",
+        "a": "Yes. Chascun lude e document printabil sur Golden Moments es gratuit, sin conto, registration o descarga. Li ludes functiona in li navigator web sur un telefon, un tablete o un computator."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Esque ludes por li cerebre prevente li dementia?",
+        "a": "Null lude ha monstrat preventer li dementia, e Golden Moments ne pretende tractar o preventer quelcunc cose. Nor ludes es por li plesir e por passar témpor juntmen. Nor section pri sanitá cerebric explica to quo li resercha monstra e ne monstra."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Esque ti ludes es convenent por un person con Alzheimer?",
+        "a": "Yes. Li maladie de Alzheimer es li max comun cause de dementia, e li ludes es adaptat por to: grand images quel resta visibil, poc selectiones, e necos a memorar o errar. Associar, ordinar e completer conosset proverbies apoya se sur savida conservat de long témpor plu quam sur nov aprension."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Posse un person in un stadie plu avansat de dementia usar ti activitás?",
+        "a": "Frequentmen, yes, con un person al látere. Comensa con Trova li sam con du images, Pares de images con quar plachetas, un págine de colorisar o un quiet pause de respiration. Mantenet it curt, seque lor ritme e cessa quande ili ha habet sat."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Esque mi informationes es privat?",
+        "a": "Li situ ne have contos e ne reclama. Noi usa Google Analytics por comprender queles págines es visitat. Fotos quel vu selecte por Pares de fotos es monstrat solmen in vor navigator e nequande es cargat al servitor."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Qui fa Golden Moments?",
+        "a": "Golden Moments es un micri equip quel crea quiet activitás con images por persones adult, destinat a families e curatores, sur li web e quam un gratuit application. Noi ne es medicos, e necos ci es un consilie medical."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "initial",
+    "middle": "medial",
+    "late": "avansat",
+    "hintOne": "Frequentmen convenent por li stadie {list}",
+    "hintMany": "Frequentmen convenent por li stadies {list}",
+    "labelEarly": "Stadie initial",
+    "labelMiddle": "Stadie medial",
+    "labelLate": "Stadie avansat"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Pri ti lude",
+    "printable": "Printabil",
+    "play": "Luder {name} →",
+    "readGuide": "Leer li guide"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Presti por un quiet lude?",
+    "text": "Grand images, null cronometre, null punctus e necos a registrar. Lude juntmen in vor navigator.",
+    "play": "Luder un lude",
+    "all": "Vider omni ludes",
+    "aria": "Luder un lude"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Prende ti ludes con vos",
+    "text": "Li gratuit application Golden Moments por iPhone, iPad e Android: grand plachetas de images, ludes con vor propri fotos de familie, e pachetes de images quel functiona sin Wi‑Fi. Null conto, reclamas, cronometre o punctus.",
+    "appStore": "Obtene it sur li App Store",
+    "googlePlay": "Obtene it sur Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Pri li application",
+    "aria": "Obtener li application"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Activitás",
+      "title": "Activitás por persones con dementia",
+      "seo": "Activitás por persones con dementia: idés secun li stadie",
+      "description": "Idés de activitás por persones vivent con dementia in chascun stadie: musica, reminiscientie, cotidiani taches, sensorial momentos, artisanal creas, aéreo líber e gratuit printabiles.",
+      "lede": "Un activitá con sinifiation es omnicos quel aporta confort, scope o un momente de conexion. Comensa con to quo li person ha sempre giodet, e adapta it a hodie."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Cura e auxilie",
+      "title": "Guides de cura",
+      "seo": "Guides de cura por dementia: practic auxilie cotidiani",
+      "description": "Practic e benevol guides por curatores de dementia: luder juntmen, comunication, refusiones, agitation vespere, tabletes, selection de applicationes e li sucia de se self.",
+      "lede": "Simplic e practic auxilie por li cotidiani momentos de curar un person vivent con dementia, includent li sucia de vos self."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Sanitá cerebric",
+      "title": "Sanitá cerebric: to quo li exploration scientic di",
+      "seo": "Sanitá cerebric e risca de dementia: to quo li resercha di",
+      "description": "Esque on posse preventer li dementia? Sincer guides con fontes pri factores de risca por dementia, ludes cerebric, junar, dieta, exercicie, somnie, audida e tost signes de alerta.",
+      "lede": "To quo grand estudios realmen monstra pri li diminution del risca de dementia, explicat simplicmen, includent u li evidentie es debil o mixtet. General information, ne consilie medical."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Actualisat",
+    "minuteRead": "Lectura de {n} minutes",
+    "byTeam": "Per li equip de Golden Moments",
+    "howWeWrite": "Qualmen noi scri",
+    "shortAnswer": "Li curt response",
+    "onThisPage": "Sur ti págine ({n} sectiones)",
+    "commonQuestions": "Comun questiones",
+    "sources": "Fontes",
+    "sourcesNote": "Noi liga al organisationes e studios sur queles ti págine apoya se. Chascun de ili esset verificat quande li págine esset actualisat.",
+    "tryTogether": "Prova juntmen",
+    "relatedGuides": "Relatet guides",
+    "related": "Relatet",
+    "startHere": "Comensa ci"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Noticie pri information sanitari",
+    "title": "General information, ne consilie medical",
+    "textHtml": "Ti págine resuma publicat explorationes por families. It ne posse dir vos quo es bon por un sol person. Parla con un medico ante que changear dieta, exercicie, somnie, medicamentes o suplementes. In casu de subit confusion o altri subit changes, cerca medical auxilie ínmediatmen. <a href=\"/medical-disclaimer/\">Lege nor noticie pri information sanitari</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Un activitá partiprendet, ne un test de memorie",
+      "seoTitle": "Pri Golden Moments: nor aproche",
+      "description": "Pro quo li ludes de Golden Moments have null cronometre, punctus o series continuat, pro quo li images resta visibil, e to quo noi pretende e ne pretende pri li dementia.",
+      "crumb": "Nor aproche",
+      "lede": "Golden Moments crea quiet activitás con images por adultes, queles un curator e un person vivent con dementia posse gioder látere a látere.",
+      "bodyHtml": "<h2>Quo noi crede</h2><p>Li scope de un activitá es li momente self: un conversation, un surris, li satisfaction de metter du images ensemble, o simplicmen sider proxim. It ne es mesurar un person, pulsar les plu avan o provar alquó.</p><p>Multi applicationes de «antrenament cerebral» es designat circum rapiditá, punctus, series consecutiv e nivelles. Por un person vivent con dementia, to posse semblar quam un exámine quel on ne posse passar. Noi ha designat li contrarie, e noi tene nos a ti regules:</p><ul><li><strong>Necós a fallir.</strong> Null horloge, punctus, contator de moves, vídas, series, confetti o retro-contatores, sur omni ecran.</li><li><strong>Reconosser ante recordar.</strong> Li images resta visibil per contumacie. Li suggestiones invita a conversar e nequande examina nómines o memories.</li><li><strong>Grand, clar e stabil.</strong> Grand textu e images, alt contraste, e controles quel resta in li sam loco.</li><li><strong>Dignitá adult.</strong> Images del munde real e paroles clar e cordial. Null dessinat figures, cantant laudes o premies con emojis.</li><li><strong>Un facil exeada.</strong> «Finit por nu» es sempre visibil. Cessar a mi-via es un bon resultate.</li><li><strong>Privat per contumacie.</strong> Null contos o reclames. Li fotos queles vu selecte resta sur vor aparate.</li></ul><h2>Quo noi ne asserte</h2><p>Nor ludes es por plesir e conection. Ili ne diagnostica, prova, mesura, tracta, ralenta o prevente li dementia o li maladie de Alzheimer, e nequi deve selecter les pro ti rason. Quande noi scri pri inquestes sur nor <a href=\"/brain-health/\">págines pri sanitá cerebral</a>, noi di clarmen u li pruvas es debil, e noi nequande liga les a nor propri ludes.</p><h2>Qui noi es</h2><p>Golden Moments es un micri índependent equip. Noi ne es medicos. Nor guides es scrit secun li consilies publicat de organisationes quam li National Institute on Aging e li Alzheimer’s Association, e chascun guide indica su fontes. Lese <a href=\"/editorial-policy/\">qualmen noi scri e controla nor págines</a>.</p><h2>Dite nos quo posse auxiliar</h2><p>Noi vell amar oyir quo functiona por vu e quo ne functiona, particulari de persones vivent con dementia, curatores familial e personal de activitás. Scrit a <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Qualmen noi scri e controla nor págines",
+      "seoTitle": "Politica editorial",
+      "description": "Qualmen Golden Moments inqueste, scri, cita fontes e actualisa su págines pri activitás por dementia e sanitá cerebral, e quo noi nequande va publicar.",
+      "crumb": "Politica editorial",
+      "bodyHtml": "<h2>Nor fontes</h2><p>Noi basa nor guides sur li consilies public de organisationes quam li National Institute on Aging, li CDC, li Alzheimer’s Association, li Alzheimer’s Foundation of America, li Family Caregiver Alliance e li NHS, e sur scientific inquestes revidet de expertes quam li recensiones de Cochrane e grand clinical provationes. Chascun guide indica li fontes sur queles it reposa. Noi aperte chascun fonte ante citar it, e noi raporta solmen quo it di efectivmen.</p><h2>Qualmen noi scri</h2><ul><li>Practic ante omnicos: quo far hodie, in un clar lingue.</li><li>Honest pri li pruvas: noi di «ligat con», «posse» e «li pruvas es mixtet» quande to es li veritá.</li><li>Respectuos: noi scri pri persones vivent con dementia quam adultes, e noi nequande usa un lingue examinatori o humiliant.</li><li>Null inventet contenete: null inventet statistica, citationes, expertes, studies, recensiones o testimonias.</li></ul><h2>Qui revide nor págines</h2><p>Li págines es scrit e revidet per li equip de Golden Moments, con li auxilie de utensiles de scrition per IA por inquestar e redacter. Chascun págine es controlat contra su fontes per li equip. Nor págines <strong>ne</strong> ha esset revidet per un medico o altri clinico, e noi ne asserte li contrarie. Ili es general information, ne medical consilie.</p><h2>Quo noi nequande va publicar</h2><ul><li>Assertes que un lude, alimente, suplement, juna o routine prevente, tracta, ralenta o cura li dementia.</li><li>Provas, questionaries o punctus queles indica que un person have, o ne have, dementia.</li><li>Consilie de comensar, cessar o changear quelcunc medicament.</li><li>Reclame o contenete sponsorat disguisat quam consilie.</li></ul><h2>Actualisamentes e correctiones</h2><p>Chascun págine monstra li date de su ultim actualisament. Si vu trova un erra o un fonte desactualisat, ples scrir a <a href=\"mailto:{email}\">{email}</a> e noi va controlar it promptmen.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Questions e responsas",
+      "seoTitle": "Ludes e activitás por dementia: Questions e responsas",
+      "description": "Responsas a comun questions pri ludes e activitás por dementia: quel ludes provar, quant témpor luder, idés por stadies plu avansat, sanitá cerebral e privatie.",
+      "crumb": "Questions e responsas",
+      "lede": "Curt e clar responsas al questions queles curatores fa max frequentmen.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Pri li ludes",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Quels es li max bon ludes por un person con dementia?",
+              "a": "Li max bon ludes es conosset, simplic e sin pression, e li just lude es to quo li person frui hodie. Acoplar visibil images, ordinar, facil puzzles, completer conosset proverbies, colorisar e bingo de images functiona tre bon por multi persones. Evita cronometres, punctus e omnicos quel sembla un exámine."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Esque li ludes es verimen gratuit?",
+              "a": "Yes. Omni ludes e materiales printabil es gratuit, sin conto, registration, descargament o reclames."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Pro quo ne hay punctus, nivelles o cronometres?",
+              "a": "Li rapiditá e li punctus transforma un agreabil activitá in un esamen, quo posse causar embarasso o frustration. Noi concentra nos sur li plesura e li témpor junt, dunc ne hay alquó a fallir e vu posse haltar a omni mome."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Quel aparates functiona max bon?",
+              "a": "Omni telefon, tabulietta o computator con un modern navigator web. Un tabulietta sur un suporte a un table es sovente li max confortabil maniere por que du persones lude un apu li altri. Un portabil computator conexet a un televizor functiona tre bon por gruppes."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Esque noi posse luder con nor propri fotos de familie?",
+              "a": "Yes. Pares de fotos transforma 2 a 6 fotos quel vu selecte in un lude de apareation. Li fotos resta in vor navigator e ne es cargat nec salvat."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Activitás e cura",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Quant témpor devere durar un activitá?",
+              "a": "Sovente 10 a 20 minutes es plenmen suficent, e a vez 2 minutes es ja un successe. Observa li signes de fatiga o frustration e halta durant que it ancor resta agreabil. Ne hay un quantitá prescrit."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Quo far si li person ne vole far un activitá?",
+              "a": "Respecta li refus, e retenta plu tard o in un altri maniere. Un refus posse sequer de fatiga, dolore, un sentiment de insecuritá o presc manco de interesse. Vide nor guide pri quo far quande li person di no."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Quel activitás coveni al stadie avansat de dementia?",
+              "a": "Confort e li sensus: escutar li musica preferet, un massage del manus con lotion, regardar fotos junt, tener un dulci covrur, seder forsan extern, o un tre simplic lude de images con un person apu se. Nor guide por li stadie avansat contene mult altri idés."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Esque hay activitás por gruppes in un hem de cura?",
+              "a": "Yes. Bingo de images have cartes printabil e un selector sur li ecran, e Finir li proverbies e Cartes de conversation functiona tre bon leet a voce alt. Nor guide por gruppes in hemes de cura tracta li grandore del gruppe, li arrangiament del sedas e li adaptation a diferent capabilitás."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Sanitá del cerebre",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Esque ludes posse preventer o retardar li dementia?",
+              "a": "Null lude ha monstrat que it posse preventer li dementia, e nor ludes fa null tal afimation. Li stimulation cognitiv in un circumité social ha monstrat micri beneficios in reserchas por persones con levi a moderat dementia, ma to es diferent de un lude quel prevente un maladie. Noi offre ludes por li plesura e li conexion."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Esque on posse preventer li dementia?",
+              "a": "Ne con certitá. Li reserchas liga 14 factores de sanitá e stil de vive con li risca de dementia, quam li perde de audition, li alt tension arterial, li manco de activitá fisic e li isolation social. Prender les in cont posse diminuir li risca por alcun persones, ma mult persones qui fa omnicos bon developa tamen li dementia. It es jamay li culpa de alquí."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Esque li yunada intermitent es bon por li sanitá del cerebre?",
+              "a": "Li provation che homes es limitat e initial, e mult del resercha es fat che animales. Li yunada posse esser riscosi por adult persones plu old, specialmen con medicamentes contra li diabete o con un involuntari perde de pesa, e it ne es recomandat por persones vivent con dementia. Parla con un medico ante de changear vor maniere de manjar."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Privatie e securitá",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Esque vu colecte alcun information?",
+              "a": "Null contos o reclames. Noi usa Google Analytics por contar li visites e vider quel págines aida, e vor navigator memora si vu ha activat li sones dulci. Li fotos quel vu selecte por Pares de fotos es jamay cargat. Vide li avise de privatie por detalies."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Esque to es un avise medical?",
+              "a": "No. Golden Moments es por recreation e information general. Por questiones de sanitá, parla con un medico, e por emergenties telefona a 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Plu detalies: <a href=\"/caregiving/how-to-play-together/\">qualmen luder junt</a>, <a href=\"/caregiving/when-they-say-no/\">quande li person di no</a>, <a href=\"/activities/late-stage/\">activitás por li stadie avansat</a> e <a href=\"/brain-health/can-dementia-be-prevented/\">esque on posse preventer li dementia?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Ludes gratuit e dulci por persones vivent con dementia",
+      "seoTitle": "Foliet printabil: Ludes gratuit online por persones con dementia",
+      "description": "Un un-págine foliet printabil por families e curatores pri gratuit, dulci ludes de images por persones vivent con dementia, por gruppes de suporte e paquetes de cura.",
+      "crumb": "Foliet printabil",
+      "lede": "Printa ti-ci págine por un gruppe de suporte, un paquete de cura o li porte del frigorific. Usa li comanda de Printar de vor navigator; li menús e botones ne va apparir sur li folie printat.",
+      "introHtml": "<p>Grand images, simplic paroles e necos a fallir. Gratuit sur un telefon, tabulietta o computator, sin registration, sin reclames, sin cronometres e sin punctus. Sede un apu li altri e prende tornes.</p>",
+      "gamesTitle": "Ludes a provar junt",
+      "restHtml": "<h2>Alcun consilies</h2><ul><li>Selecte un témpor del die quande li person senti se max bon.</li><li>Comensa con li max facil configuration. Quar quadretes es plenmen suficent.</li><li>Parla pri li images. Li conversation es sovente li max bon parte.</li><li>Halta durant que it ancor resta agreabil. Fini plu bentost es un bon resultate.</li></ul><h2>Ancor sur li situ</h2><ul><li>Materiales printabil gratuit: sercha de paroles con grand lítteres, págines a colorisar, cartes de conversation e bingo de images.</li><li>Idés de activitás por omni stadie, e guides pri luder junt e pri curar vos self.</li></ul><p class=\"muted\">Por plesura e témpor junt. Ne un avise medical, un test o un tractament. Golden Moments es publicat de Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Por hemes de cura, bibliotecas e gruppes de suporte",
+      "seoTitle": "Gratuit activitás de dementia por hemes de curation e gruppes",
+      "description": "Qualmen hemes de curation, diurn programmes por adultes, bibliotecas, agenties por seniores e gruppes de suporte usa nor gratuit jocs de dementia, con textu por addir nos a un liste de ressursas.",
+      "crumb": "Por organisationes",
+      "lede": "Omnicos sur ti-ci situ es gratuit a usar con residentes, membres e clientes, sin conto, licentie o custa. Ti-ci págine explica quo es ci e qualmen partir it.",
+      "shortText": "{name}: gratuit, placid jocs de images e ductibres de activitás por persones vivent con dementia e vor curatores. Sin registration, sin temporisatores, sin punctus.",
+      "longText": "{name} ({domain}) offre {count} gratuit jocs de navigator creat por persones vivent con dementia, includent accopulament de pares con images visibil, un facil puzzle, classification, conosset proverbies e bingo de images con cartes printabil. Il ne have conto, reclame, temporisator o punctuation. Li situ anc contene clar ductibres de activitás por chascun stadie de dementia quel cita li National Institute on Aging e li Alzheimer's Association.",
+      "useTitle": "Quo organisationes posse usar",
+      "gamesItemHtml": "<strong>{count} jocs de navigator</strong> quel functiona sur un computator portatil, un tabulette o un television conexet a un computator. Sin instalation, conto o descarga. Vise <a href=\"/games/\">omni jocs</a>.",
+      "printablesLabel": "{count} materiales printabil:",
+      "printablesAfter": "Usa li buton de printar sur chascun págine.",
+      "moreItemsHtml": "<li><strong>Formates por gruppes:</strong> <a href=\"/games/picture-bingo/\">Bingo de images</a> have cartes printabil e un anunciero sur li ecran, e <a href=\"/activities/trivia/\">facil questionari</a> have 50 questiones con selection de responses e temas de conversation.</li><li><strong>Ductibres de activitás</strong> por conlaboratores e families, secun stadie e tip, redactet in lingue clar con fontes. Comensa con <a href=\"/activities/ideas/\">101 idés de activitás</a> o <a href=\"/activities/care-home-groups/\">gruppal activitás por hemes de curation</a>.</li>",
+      "restHtml": "<h2>Qualmen gruppes usa it</h2><ul><li><strong>Hemes de curation e curation de memorie:</strong> bingo de images o completar proverbies sur li television del comun sala, con un person qui toca por li gruppe.</li><li><strong>Diurn programmes por adultes:</strong> un station de tabulette con Pares de images configurat a quar teletas, por curt sesionas individual.</li><li><strong>Public bibliotecas:</strong> printat serchas de paroles e cartes de conversation in pacietes de memorie, e li situ marcat in li favorit-marcas de tabulettes del biblioteca.</li><li><strong>Gruppes de suporte por curatores e cafés de memorie:</strong> un <a href=\"/handout/\">un-páginal printabil foliculo</a> por que li families posse prender it a hem.</li><li><strong>Ospitales e planificatores de dismission:</strong> li foliculo in pacietes por curatores, por un activitá placid a far a hem o al lette.</li></ul><h2>Quo noi ne fa</h2><p>Li jocs es por plesura e témpor passat junt. Ili ne diagnostica, ne prova, ne evalua con punctus, ne tracta e ne desaccelera li dementia, e noi peti organisationes ne descrir les in tal maniere. Il ne have reclames, e li jocs ne demanda nómines, detallies de sanitá o cargament de fotos. Li situ usa Google Analytics por contar li visites; nor <a href=\"/privacy/\">aviso de privatie</a> explica quo it colecte. Li fotos usat in <a href=\"/games/photo-pairs/\">Pares de fotos</a> resta in li navigator.</p><h2>Addir nos a vor liste de ressursas</h2><p>Si vu mantene un liste de ressursas por curatores, vu es bonvenit ligar a <a href=\"/\">{domain}</a>. Vu posse copiar quelcunc ex li du descriptiones.</p>",
+      "shortTitle": "Curt description",
+      "longTitle": "Plu long description",
+      "linksHtml": "<p>Uti págines por ligar directmen: <a href=\"/games/\">gratuit jocs</a>, <a href=\"/activities/printable/\">gratuit materiales printabil</a>, <a href=\"/activities/alzheimers/\">activitás por Alzheimer</a> e <a href=\"/caregiving/how-to-play-together/\">qualmen luder junt</a>.</p><h2>Questiones o correctiones</h2><p>Si alquicos sur li situ es íncorect o ínclar, o si li besones de un residente ne es satisfat per quo es ci, ples informar nos a <a href=\"mailto:{email}\">{email}</a>. Ples ne inviar personal o sanitari informationes pri residentes o clientes.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Li application Golden Moments",
+      "seoTitle": "Li application Golden Moments por iPhone e Android",
+      "description": "Li gratuit application Golden Moments: placid accopulament de fotos con quar grand teletas, fotos de familie retenet sur vor aparate, pacietes de images sin ret-conexetion e sin conto.",
+      "crumb": "Li application",
+      "lede": "Omnicos quo vu ama pri li situ, in un application quel functiona sin ret-conexetion e posse usar li fotos de familie quel vu selecte.",
+      "worksOn": "Functiona sur {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Comensar con poc</h2><p>Comensat con quar grand placcas e images familiar. Mantenet li images visibil, o celat les quande to sembla confortabil. Li mode dulci have null cronometre, punctus o penalisation. Selectet 4, 6, 8 o 12 placcas.</p><h2>Far it personal</h2><p>Selectet fotos de familie con li selector de fotos de vor aparate. Li application conserva plu micri copies por su activitás. It ne scanna vor biblioteca e ne altera vor original fotos, e it mantene til 24 fotos in un colection.</p><h2>Solmen regardar ensemble</h2><p>Regardat un sol image a un vez. Suggestiones facultativ invita al conversation sin demandar a alcun person de memorar nómines o dar un response corect. Solmen contemplar es sufficent.</p><h2>Sin internet u it importa</h2><p>Li comensal images e omni ott pachetes de images es ja includet in li application. Li copies de fotos importat functiona sin conexiun. Selecter fotos original quel es solmen in iCloud posse besonar un conexiun a internet.</p><h2>Null conto, null servitor por sincronisar fotos</h2><p>Li copies de fotos de familie remane in li application sur li aparate. Vu posse remover li copies sin deleter li originales. Li copies de securitá del aparate posse includer datos del application. Let li <a href=\"/app-privacy/\">politica de confidentialitá del application</a>, e li <a href=\"/help/\">auxilie del application</a> explica chascun passu.</p>",
+      "disclaimer": "Golden Moments es por recreation e conversation partit. It ne diagnostica, tracta, prevente ni mesura li demintia o li maladie de Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Gratuit jocs in linea por persones con demintia e Alzheimer",
+    "description": "Gratuit jocs in linea por seniores con demintia o Alzheimer: trovar pares de images, facil puzles, ordination, proverbies, colorisar, bingo. Sin registration, cronometres o punctus.",
+    "crumb": "Jocs",
+    "h1": "Dulci jocs por persones con demintia",
+    "lede": "{count} gratuit jocs por luder ensemble in vor navigator. Grand images, simplic paroles, e nequi posse fali: null cronometres, null punctus, null registration.",
+    "listName": "Dulci jocs por persones con demintia",
+    "byStageTitle": "Selecter un joc secun li fase",
+    "byStageLede": "Li fases es solmen un guida approximativ. Sequet to quo plese al person e to quo sembla confortabil hodie.",
+    "stageCol": "Fase",
+    "gamesCol": "Jocs quel sovente conveni",
+    "moreHtml": "Plu idés for li ecran: <a href=\"/activities/ideas/\">101 activitás por persones con demintia</a>, <a href=\"/activities/alzheimers/\">activitás e jocs por Alzheimer</a>, <a href=\"/activities/memory-games/\">dulci jocs de memorie</a> e <a href=\"/activities/puzzles/\">puzles</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Con quel joc deve noi comensar?",
+        "a": "Pares de images con quar placcas es un seren unesim selection. Si selecter inter images sembla tro mult, provat Trovar li sam con du images. Por un gruppe, provat Bingo con images."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Esque li jocs functiona sur un iPad o telefon?",
+        "a": "Yes. Chascun joc functiona in li navigator sur telefones, tablettes e computatores, e li images grandi por impler li ecran. Un tablette sur un suporte es sovente li max confortabil por du persones."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Esque ti jocs es bon por un person con Alzheimer?",
+        "a": "Yes. Ili esset creat por persones vivent con demintia, includente Alzheimer, li max comun cause. Li images remane visibil, hay solmen poc selectiones, e necós es cronometrat o punctuat, dunc li jocs apoia se sur reconosser cosas familiar plu quam memorar cosas nov."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Esque tis es jocs de memorie por seniores?",
+        "a": "Ili es jocs de acopulation e de images quel omni person plu aetat posse apreciar, ma ili es fat por ne provar li memorie: in Pares de images, li images remane visibil si vu ne decide altrimen. Nor guida pri jocs de memorie por seniores con demintia explica qualmen mantener chascun joc de memorie dulci."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Esque hay jocs por gruppes in un hem de cura?",
+        "a": "Yes. Bingo con images have cartas imprimibil e un proclamator sur li ecran, e Finir li proverbie e Cartas de conversation functiona tre bon quande on leye les a voce alt a un gruppe."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad e Android",
+    "requirements": "iOS 15 o plu recent; Android 7.0 o plu recent",
+    "summary": "Un gratuit application por iPhone, iPad e Android con dulci acopulation de images sur quar til deci-du grand placcas, acopulation e contemplation con fotos de familie quel vu selecte, e ott includet pachetes de images quel functiona sin internet. Null conto, reclames, cronometre o punctus.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Dulci acopulation de images con 4, 6, 8 o 12 grand placcas; li images remane visibil si vu ne decide celar les",
+      "Fotos de familie quel vu selecte es copiat in li application por acopular e por contemplar ensemble",
+      "Regardar ensemble: un sol image a un vez con facultativ suggestiones de conversation",
+      "Ott pachetes de images includet in li application; ili functiona sin internet",
+      "Null conto, reclames, comprationes intra li application, cronometre, punctus o penalisation"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Esque existe un application de activitás por persones con demintia?",
+        "a": "Yes. Golden Moments (listat quam \"{storeName}\") es gratuit sur li App Store e Google Play. It offera dulci acopulation de images con grand placcas, jocs con fotos de familie quel vu selecte, e pachetes de images quel functiona sin internet."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Esque li application Golden Moments es gratuit?",
+        "a": "Yes. It es gratuit a descargar, sin reclames, conto o comprationes intra li application."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Esque li application functiona sin internet?",
+        "a": "Yes. Li comensal images e omni ott pachetes de images es includet in li application, e fotos de familie functiona sin internet un vez copiat in it. Selecter un foto gardat solmen in iCloud posse besonar un conexiun."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Esque yo posse usar nor propri fotos de familie?",
+        "a": "Yes. Selectet fotos con li selector de fotos de vor aparate. Li application garda plu micri copies sur li aparate por su activitás, ne carga les e nequande altera li originales. Vu posse remover li copies a omni témpor."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Esque it es un application por exercitar li cerebre o provar li memorie?",
+        "a": "No. Golden Moments es por li plesir e témpor juntmen. It have ni punctus ni tests, e it ne diagnostica, tracta, preveni o mesura li dementia o li maladie de Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Sur quel aparates it functiona?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Esque existe un version in application de ti-ci lude?",
+      "a": "Yes. Li gratuit application Golden Moments por iPhone, iPad e Android have li sam dulci apareation de images, posse usar fotos de familie quel vu selecte, e functiona sin conexiun. Sin conto, reclames o punctus."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Esque existe un version in application de ti-ci lude?",
+      "a": "Ne de ti-ci lude. Li gratuit application Golden Moments por iPhone, iPad e Android have dulci apareation de images con grand placas e fotos de familie quel vu selecte, e it functiona sin conexiun. Ti-ci lude resta gratuit ci in vor navigator."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: grand, amical images",
+    "noscript": "Ti-ci lude besona JavaScript activat in vor navigator. Li consilies infra functiona sin it.",
+    "about": "Pri {name}",
+    "aboutAria": "Pri ti-ci lude",
+    "noTimer": "Sin temporisator o punctus",
+    "printable": "Imprimibil",
+    "howTo": "Qualmen luder {name}",
+    "tips": "Consilies por luder juntmen",
+    "newToPlayingHtml": "Nov in luder con un person quel vive con dementia? Leet <a href=\"/caregiving/how-to-play-together/\">qualmen luder juntmen</a>, includente quo far si li person perde li interesse.",
+    "moreAria": "Plu a explorar",
+    "helpfulGuides": "Utili guides",
+    "appTitle": "Ludet it in li application",
+    "appText": "Li gratuit application Golden Moments have dulci apareation de images con grand placas e vor propri fotos de familie, e functiona sin Wi‑Fi. iPhone, iPad e Android.",
+    "photoAppTitle": "Tenet vor fotos pret",
+    "photoAppText": "In li gratuit application Golden Moments, li fotos quel vu selecte resta sur vor aparate por li proxim vez, e li ludes functiona sin Wi‑Fi. iPhone, iPad e Android.",
+    "goodToKnow": "Bon a saver",
+    "goodToKnowText": "Ti-ci lude es por li plesir e témpor juntmen. It ne testa, mesura o tracta nequó.",
+    "moreGames": "Plu dulci ludes",
+    "crumb": "Ludes"
   }
 }

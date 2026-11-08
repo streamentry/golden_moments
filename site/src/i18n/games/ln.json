@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Bililingi mibale mibale",
+    "seoTitle": "Lisano ya kokangisa bililingi mpo na bato bazali na bokɔnɔ ya kobosana: Bililingi mibale mibale",
+    "h1": "Bililingi mibale mibale: Lisano ya kimia ya kokangisa bililingi",
+    "description": "Lisano ya ofele mpe ya kimia ya kokangisa bililingi mpo na bato bazali na bokɔnɔ ya kobosana. Bililingi ya minene etikalaka komonana, ngonga to manɔti ezali te, mpe bokoki kopona bililingi 4 tii 12.",
+    "short": "Luka bililingi mibale oyo ekokani. Bililingi ekoki kotikala komonana.",
+    "players": "Moto 1 to bato 2, pembeni na pembeni",
+    "intro": "Finá elilingi moko, na nsima finá oyo ekokani na yango. Bililingi etikalaka komonana mbala moko, boye esengeli kobomba eloko moko te na motó. Soki bililingi mibale ekokani, ekozwa ndelo ya wolo mpe elembo ya kokata.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Pona motángo ya bililingi ya kosalela. Bililingi minei ezali ebandeli ya kimia.",
+      "Finá elilingi nyonso olingi. Ekozwa ndelo ya wolo.",
+      "Finá elilingi oyo ekokani na yango. Bililingi yango mibale ekotikala esika moko elongo na elembo ya kokata.",
+      "Soki bililingi yango mibale ekeseni, likambo moko ya mabe esalemi te. Finá lisusu ntango nyonso oyo omilengeli.",
+      "Pela « Bililingi ya kobombama » kaka soki bino mibale bosepelaka na lolenge ya bililingi ebombami."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Tángá nkombo ya bililingi na mongongo makasi elongo mpe bósolola mpo na yango: « Kɔpɔ ya tii ya motane. Omelaka miliki na tii na yo? »",
+      "Tika moto oyo ozali kobatela afinaka ye moko, ata soki ezwi ntango moke. Laka na mosapi na esika ya kofina na esika na ye.",
+      "Bótikala na bililingi minei ntango nyonso oyo ezali kosepelisa bino. Kobakisa bililingi ezali kopona kaka, ezali nivo ya koluka kokóma te.",
+      "Bósukisa wana ezali naino kopesa esengo. Lisano moko ezali mosala mobimba."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ngonga to manɔti ezali?",
+        "a": "Te. Montre, manɔti, motángo ya mabɔkɔ to kolimwisama ezali te. Bokoki kotika na ntango nyonso, mpe kotika na katikati ezali kaka lolenge ya malamu mpenza ya kosukisa."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Mpo na nini bililingi etikalaka komonana?",
+        "a": "Kotika bililingi emonana esalaka ete lisano ezala ya kotala mpe kokangisa na esika ya kobomba na motó. Bato mingi bamoni ete epesaka kimia mingi. Bokoki kokende na bililingi ya kobombama na kofina kaka mbala moko soki bolingi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezali ya ofele, mpe esengeli namikomisa?",
+        "a": "Iyo, ezali ya ofele, mpe konte, kokomisa nkombo to kokitisa eloko moko ezali te. Esalaka na nzela ya brawza ya telefone, tablɛti to ordinatɛrɛ."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Tokoki kosalela bafɔtɔ na biso ya libota?",
+        "a": "Iyo. Meka Bafɔtɔ mibale mibale, oyo epesaka bino nzela ya kopona bafɔtɔ uta na apareyi na bino. Bafɔtɔ etikalaka na brawza na bino mpe etindamaka esika moko te."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Luka oyo ekokani",
+    "seoTitle": "Luka elilingi oyo ekokani: Lisano ya pɛtɛɛ mpo na bato bazali na bokɔnɔ ya kobosana",
+    "h1": "Luka elilingi oyo ekokani",
+    "description": "Elilingi moko na likoló, mibale tii minei na nse. Finá oyo ekokani. Lisano ya bililingi ya kimia mpe ya ofele mpo na bato bazali na bokɔnɔ ya kobosana, kozanga ngonga.",
+    "short": "Tala elilingi oyo ezali na likoló mpe finá oyo ekokani na yango na nse.",
+    "players": "Moto 1 to bato 2",
+    "intro": "Elilingi kaka moko ezali na likoló ya ekran. Na nse na yango ezali na bililingi mibale, misato to minei. Finá oyo ekokani na yango. Ezali kopona ya pɛtɛɛ moko na mbala moko, elongo na ntango mingi ya kosolola.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Pona bililingi mibale, misato to minei oyo bokoluka kati na yango. Mibale nde ezali ya pɛtɛɛ koleka.",
+      "Bótala elilingi ya likoló elongo.",
+      "Finá elilingi oyo ekokani na nse. Ekolakisama na elembo ya kokata mpe mwa maloba ya bolingo.",
+      "Soki bafiní elilingi mosusu, lisano ekopesa kaka nkombo na yango mpe ekozela. Bózwa ntango na bino.",
+      "Finá « Elilingi oyo elandi » soki bomilengeli mpo na mosusu."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Bósolola mpo na elilingi moko na moko liboso ya kopona: langi, lolenge, esika bokoki komona yango.",
+      "Kopona kati na mibale ezali « pɛtɛɛ mingi » te. Mokano ezali kozwa ntango ya esengo, kasi komekana te.",
+      "Soki kofina ezali mpasi, moto yango akoki kolaka na mosapi mpe bino bokoki kofina na esika na ye."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ngonga to manɔti ezali?",
+        "a": "Te. Montre, manɔti, motángo ya mabɔkɔ to kolimwisama ezali te. Bokoki kotika na ntango nyonso, mpe kotika na katikati ezali kaka lolenge ya malamu mpenza ya kosukisa."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Nini ekosalema soki bafiní elilingi oyo ekokani te?",
+        "a": "Eloko moko ya mabe te. Kulela ya sonɛti, kuruse ya motane to koningana ezali te. Lisano ekotánga kaka nkombo ya elilingi oyo bafinaki mpe ekozela kofina oyo elandi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezali ya ofele, mpe esengeli namikomisa?",
+        "a": "Iyo, ezali ya ofele, mpe konte, kokomisa nkombo to kokitisa eloko moko ezali te. Esalaka na nzela ya brawza ya telefone, tablɛti to ordinatɛrɛ."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kokangisa elili",
+    "seoTitle": "Lisano ya kokangisa elili mpo na bato bazali na bokɔnɔ ya kobosana: Ya ofele na nzela ya internete",
+    "h1": "Kokangisa elili: Lisano ya kimia ya bililingi",
+    "description": "Elili ya moindo na likoló, bililingi mibale tii minei na nse. Finá elilingi oyo esali elili yango. Lisano ya kimia mpe ya ofele ya kokangisa elili mpo na bato bazali na bokɔnɔ ya kobosana, kozanga ngonga.",
+    "short": "Tala elili mpe finá elilingi oyo esali yango.",
+    "players": "Moto 1 to bato 2",
+    "intro": "Kokangisa elili ezali mosala moko eyebana mingi na bapapye ya kobimisa, awa ezali na bililingi ya minene mpe eloko moko ya kobimisa ezali te. Elili ya pɛtɛɛ ezali na likoló ya ekran mpe bililingi mibale, misato to minei ezali kozela na nse. Finá oyo esali elili yango. Biloko lokola velo, parapli to kɔpɔ ya tii ezali mpe ya pɛtɛɛ mpo na kosolola.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Pona bililingi mibale, misato to minei oyo bokoluka kati na yango. Mibale nde ezali ya pɛtɛɛ koleka.",
+      "Bótala elili elongo. Ezali na lolenge nini? Ezali ya molai to ya zolongano?",
+      "Finá elilingi oyo esali elili yango. Nkombo na yango ekomonana na nse ya elili.",
+      "Soki bafiní elilingi mosusu, lisano ekopesa kaka nkombo na yango mpe ekozela. Bózwa ntango na bino.",
+      "Finá « Elili oyo elandi » soki bomilengeli mpo na mosusu."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Landisa ndelo ya elili na mosapi mpe bósolola mpo na lolenge na yango.",
+      "Soki kotala bilili ezali mpasi lelo, bókende na Luka oyo ekokani, esika bililingi ekokani polele.",
+      "Bósolola mpo na elilingi yango ntango bomoni yango: « Tozalaki na parapli ya boye. »"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ngonga to manɔti ezali?",
+        "a": "Te. Montre, manɔti, motángo ya mabɔkɔ to kolimwisama ezali te. Bokoki kotika na ntango nyonso, mpe kotika na katikati ezali kaka lolenge ya malamu mpenza ya kosukisa."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Kokokanisa bilili na elili ya moindo ezali malamu mpo na bato oyo bazali na bokono ya kobosanabosana?",
+        "a": "Ekoki kozala mosala moko ya esengo mpe ya pete mpo na bato mosusu, mingimingi na ebandeli. Bilungi ezali pete mpo na koyeba koleka maloba. Ezali mpo na kosepela mpe kosolola, ezali te komekama, mpe esilisaka to ezongisaka nsima bokono ya kobosanabosana te. Soki epesi mitungisi, meka Luka oyo ekokani to bobele kotala bilili elongo."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Nini esalemaka soki bafiniki elili oyo ebongi te?",
+        "a": "Eloko moko ya mabe esalemaka te. Mongongo ya kura ezali te, kuruse ya motane ezali te, mpe koningana ezali te. Lisano etangaka nkombo ya elili oyo efinamaki mpe ezelaka bafinika lisusu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezali ya ofele, mpe nasengeli kokomisa nkombo?",
+        "a": "Iyo, ezali ya ofele, mpe konti, kokomisa nkombo to kokitisa eloko ezali te. Esalaka na motambwisi-web na telefone, tabaleti to ordinatere."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Kokabola elongo",
+    "seoTitle": "Lisano ya kokabola mpo na bokono ya kobosanabosana: Kokabola elongo",
+    "h1": "Kokabola elongo: Mosala ya kokabola bilili",
+    "description": "Finika elili, na nsima finika kitunga epai esengeli kokende: kuku to elanga, mbuma to banyama. Mosala ya kokabola bilili ya kimya mpe ya ofele mpo na bato oyo bazali na bokono ya kobosanabosana.",
+    "short": "Tia elili moko na moko na kitunga na yango: kuku to elanga, mpe mosusu.",
+    "players": "Moto 1 to 2",
+    "intro": "Kokabola biloko ezali mosala ya mokolo na mokolo oyo eyebana mpe epesaka esengo, lokola kobomba biloko ya wenze to kokangisa basoki mibale mibale. Finika elili, na nsima finika kitunga epai esengeli kokende. Kowelana ezali te mpe libunga ya mabe ezali te.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Pona motó ya likambo: kuku mpe elanga, mbuma mpe banyama, to ndako mpe mobembo.",
+      "Finika elili moko. Ekozwa ndelo ya langi ya wolo.",
+      "Finika kitunga epai esengeli kokende. Elili ekokende na kati ya kitunga wana.",
+      "Soki esengeli kokende na kitunga mosusu, lisano ekoyebisa yango na boboto mpe ekozela.",
+      "Ntango bilili nyonso ekabolami, tala na kati ya bitunga elongo."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Mbala mingi biyano ya mabe ezalaka te na bomoi ya solo. Soki moto alobi arozoire esengeli kozala na kuku, tuna ye mpo na nini. Okoki koyoka lisolo moko ya kitoko.",
+      "Salela bilili mpo na kobandisa lisolo: «Olonaki nini na elanga na yo?»",
+      "Kokabola biloko ya solo, lokola balutu mpe bafursheti to babuton na kotala langi na yango, ezali likambo ya malamu mingi mosika na ekran."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ngonga to bapwen ezali?",
+        "a": "Te. Montre ezali te, bapwen ezali te, motango ya kotambola ezali te, mpe kolimwa ezali te. Okoki kotika na ntango nyonso, mpe kotika na katikati ezali kaka lolenge ya malamu mpenza ya kosukisa."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Mpo na nini kokabola?",
+        "a": "Bato mingi basepelaka na kokabola mpo emonanaka lokola mosala ya ntina mpe oyo eyebana. Ezali mpe pete mpo na kosolola na ntina ya bilili wana wana bozali kosala."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezali ya ofele, mpe nasengeli kokomisa nkombo?",
+        "a": "Iyo, ezali ya ofele, mpe konti, kokomisa nkombo to kokitisa eloko ezali te. Esalaka na motambwisi-web na telefone, tabaleti to ordinatere."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzle ya elili",
+    "seoTitle": "Puzle ya pete mpo na bokono ya kobosanabosana: Biteni 4 to 9",
+    "h1": "Puzle ya elili: Lisano ya puzle ya pete",
+    "description": "Puzle ya pete na nzela ya internete mpo na bato oyo bazali na bokono ya kobosanabosana: biteni 4 to 9 ya minene, elili mobimba etikalaka komonana, mpe ofinikaka biteni mibale mpo na kokabolana bisika.",
+    "short": "Finika biteni mibale mpo na kobongola bisika tii elili ekoma mobimba.",
+    "players": "Moto 1 to 2",
+    "intro": "Elili moko ya kitoko ekatami na biteni minei to libwa ya minene mpe esangisami. Elili mobimba etikalaka komonana mpo na kolakisa nzela. Finika eteni moko, na nsima mosusu, mpe ikobongola bisika. Esengeli kobenda eloko te.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Pona elili mpe biteni 4 to 9. Biteni minei ezali ebandeli ya pete.",
+      "Tala elili mobimba oyo ezali na likolo.",
+      "Finika eteni moko, na nsima finika esika oyo esengeli kokende. Biteni wana mibale bikobongola bisika.",
+      "Biteni oyo ezali na esika ya malamu bizwaka elembo moke ya kolakisa ete ebongi.",
+      "Ntango elili ekómi mobimba, sepela na yango elongo, na nsima pona mosusu."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Kofinika biteni mibale mpo na kobongola bisika ezali pete mingi koleka kobenda mpo na bato mingi.",
+      "Solola na ntina ya elili wana ezali kokangama: «Tala nsamba ya motane wana.»",
+      "Puzle ya solo ya mabaya oyo ezali na biteni minene 12 tii 24 ezali mpe mosala moko ya kitoko mingi na mesa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ngonga to bapwen ezali?",
+        "a": "Te. Montre ezali te, bapwen ezali te, motango ya kotambola ezali te, mpe kolimwa ezali te. Okoki kotika na ntango nyonso, mpe kotika na katikati ezali kaka lolenge ya malamu mpenza ya kosukisa."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Esengeli nabenda biteni yango?",
+        "a": "Te. Finika eteni moko, na nsima finika mosusu, mpe ikobongola bisika. Yango ezali pete soki loboko ezali kolɛnga to na ekran moke."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezali ya ofele, mpe nasengeli kokomisa nkombo?",
+        "a": "Iyo, ezali ya ofele, mpe konti, kokomisa nkombo to kokitisa eloko ezali te. Esalaka na motambwisi-web na telefone, tabaleti to ordinatere."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Silisa lisese",
+    "seoTitle": "Silisa lisese: Lisano ya masese mpo na mikolo",
+    "h1": "Silisa lisese",
+    "description": "Masese ya Amerika oyo eyebana mingi oyo liloba ya suka ezangi, lokola «A penny saved is a penny ___». Finika liponi moko to lakisa suka na yango, na nsima solola na ntina na yango.",
+    "short": "Silisa masese oyo eyebana elongo, na nsima solola na ntina na yango.",
+    "players": "Moto 1, 2 to etuluku",
+    "intro": "Mbala mingi masese ya kala eyebanaka na bomoi mobimba. Karte mokomoko elakisaka lisese oyo eyebana na liloba ya suka oyo ezangi, maponi misato, mpe buto ya «Lakisa suka». Nsima ya komona suka, motuna moko ya boboto epesaka nzela ya kosolola.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Tanga lisese na mongongo makasi elongo.",
+      "Finika liloba oyo esilisaka yango, to finika «Lakisa suka».",
+      "Tanga lisusu lisese mobimba mpe solola na ntina na yango na lisalisi ya motuna oyo epesami.",
+      "Finika «Lisese oyo elandi» ntango omilengeli."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Tanga malembemalembe mpe zela moke liboso ya liloba ya suka. Mbala mingi bato balobaka yango liboso osilisa.",
+      "Soki moto apesi suka mosusu, sepela na yango. Lolenge mosusu ya masese ekeseni engebene libota to etuka.",
+      "Na etuluku, moto moko atangaka mpe bato nyonso basalisaka na liloba ya suka."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ngonga to bapwen ezali?",
+        "a": "Te. Ngonga ezali te, pwent te, kotánga ya mikano te, mpe kolóngwa te. Okoki kotika na ntángo nyonso, mpe kotika na katikati ezali kaka lolenge malamu ya kosilisa."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Boni soki toponi liloba mosusu?",
+        "a": "Lisano elakisaka suka oyo eyebani mingi mpe elekaka na lisolo. Pwent ezali te, mpe eyano mosusu ezali kaka malamu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezali ya ofele, mpe esengeli namikomisa?",
+        "a": "Ee, ezali ya ofele, mpe kofungola konte, komikomisa to kokitisa eloko moko te. Esalaka na mosakoli ya wɛbsayiti na telefone, tableti to ordinatɛrɛ."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Koluka maloba na bakɔmbi ya minene",
+    "seoTitle": "Koluka maloba na bakɔmbi ya minene mpo na bato bazali na bokono ya kobosana, ya kobimisa na papye",
+    "h1": "Koluka Maloba na Bakɔmbi ya Minene",
+    "description": "Lisano ya ofele ya koluka maloba na bakɔmbi ya minene mpo na mikóló mpe bato bazali na bokono ya kobosana. Maloba moke, balɛtrɛ ya minene, maloba kaka na bopanzani to na se. Sakana na mikano to bimisa na papye.",
+    "short": "Balɛtrɛ ya minene, maloba moke, kaka na bopanzani mpe na se. Bimisa mpe na papye.",
+    "players": "Moto 1 to bato 2",
+    "intro": "Kadro ya moke na balɛtrɛ ya minene mpe kaka mwa maloba moke, nyonso etángamaka na bopanzani to na se. Finá lɛtrɛ ya liboso ya liloba, na nsima lɛtrɛ na yango ya suka. Olingi papye? Bimisa lisano ya sika na kofina mbala moko.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Pona motó ya likambo mpe bonene ya kadro.",
+      "Tala liste ya maloba. Maloba etángamaka na bopanzani (kobanda na lobɔkɔ ya mwasi tii na lobɔkɔ ya mobali) to na se (kobanda likoló tii na nse).",
+      "Finá lɛtrɛ ya liboso ya liloba, na nsima finá lɛtrɛ na yango ya suka.",
+      "Liloba oyo emonani epelaka na langi mpe elongwaka na liste.",
+      "Finá \"Bimisa lisano oyo na papye\" mpo na kosakana na papye na krayon to feutre."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Lakisa liloba moko na liste mpe luka lɛtrɛ na yango ya liboso elongo.",
+      "Na papye, feutre ezalaka pete mpo na kosimba koleka krayon.",
+      "Solola na ntina ya maloba ya motó ya likambo. Maloba ya mbuma epesaka nzela malamu ya kokanisa kobuka mbuma, kolamba to banzando."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ngonga to pwent ezali?",
+        "a": "Te. Ngonga ezali te, pwent te, kotánga ya mikano te, mpe kolóngwa te. Okoki kotika na ntángo nyonso, mpe kotika na katikati ezali kaka lolenge malamu ya kosilisa."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Nakoki kobimisa lisano ya koluka maloba na papye?",
+        "a": "Ee. Finá \"Bimisa lisano oyo na papye\" mpo na kobimisa kadro ya sasaipi na balɛtrɛ ya minene, elongo na liste ya maloba na nse. Lisano mokomoko ya sika ezalaka ekeseni."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezali ya ofele, mpe esengeli namikomisa?",
+        "a": "Ee, ezali ya ofele, mpe kofungola konte, komikomisa to kokitisa eloko moko te. Esalaka na mosakoli ya wɛbsayiti na telefone, tableti to ordinatɛrɛ."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Bapaje ya kopakola langi",
+    "seoTitle": "Bapaje ya kopakola langi mpo na mikóló bazali na bokono ya kobosana (Ya ofele)",
+    "h1": "Bapaje ya Kopakola Langi",
+    "description": "Bapaje ya pete ya kopakola langi mpo na mikóló na bisika ya minene: finá langi, na nsima finá fɔtɔ. Bosɔtɔ ezali te, langi ya libunga ezali te, mpe paje nyonso ekoki kobimisama na papye ofele.",
+    "short": "Finá langi, na nsima finá eteni moko ya fɔtɔ. Bimisa mpe bapaje na papye.",
+    "players": "Moto 1 to bato 2",
+    "intro": "Bapaje ezali na biloko ya minene mpe ya pete: fololo na kati ya pɔtɔ, ndako, kɔpɔ ya ti, mpamboli mpe masuwa ya kumbi. Finá langi, na nsima finá eteni ya fɔtɔ mpo na kotondisa yango. Langi ya mabe ezali te.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Pona paje moko.",
+      "Finá langi. Langi mokomoko ekomami nkombo na yango likoló.",
+      "Finá eteni ya fɔtɔ mpo na kotondisa yango na langi wana.",
+      "Bongola makanisi na ntángo nyonso na kotondisa yango lisusu.",
+      "Finá \"Bimisa paje oyo na papye\" mpo na kozwa paje ya mpamba mpo na kopakola langi na krayon to feutre."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Pesa malangi mibale kaka mpo apona na esika ya kolakisa malangi nyonso soki kopona ezali komonana mpasi.",
+      "Banzete ya violɛ mpe moi ya langi ya bule eyambami malamu. Ntina ezali bosepeli ya malangi, kasi kosala mpenza ndenge ezalaka te.",
+      "Bapaje oyo ebimisami na papye esalaka malamu na bafeutre ya minene to bakrayon, oyo ezalaka pete mpo na kosimba."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ngonga to pwent ezali?",
+        "a": "Te. Ngonga ezali te, pwent te, kotánga ya mikano te, mpe kolóngwa te. Okoki kotika na ntángo nyonso, mpe kotika na katikati ezali kaka lolenge malamu ya kosilisa."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Bapaje oyo ezali mingi lokola ya bana mike?",
+        "a": "Tosali bililingi ya biloko ya pete mpe ya kimia na esika ya bililingi ya bana, mpo bapaje ebonga na mikóló. Biloko ya minene esalaka ete kopakola langi ezala pete kozanga komonana lokola eloko ya bana mike."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezali ya ofele, mpe esengeli namikomisa?",
+        "a": "Ee, ezali ya ofele, mpe kofungola konte, komikomisa to kokitisa eloko moko te. Esalaka na mosakoli ya wɛbsayiti na telefone, tableti to ordinatɛrɛ."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Bakarte ya masolo",
+    "seoTitle": "Makanisi mpo na kobanda masolo mpo na bato bazali na bokono ya kobosana: Bakarte ya bililingi",
+    "h1": "Bakarte ya Masolo",
+    "description": "Bakarte ya bililingi oyo ezali na mituna ya pete mpo na kobanda lisolo mpo na bato bazali na bokono ya kobosana: kotuna mpo na komeka boyebi te, eyano ya solo to ya mabe te. Salelá na ekra to bimisa mobimba na papye.",
+    "short": "Bakarte ya bililingi oyo ezali na mituna ya bofungwami mpe ya pete. Komeka moto te.",
+    "players": "Bato 2 to etuluku moko",
+    "intro": "Karte mokomoko ezali na elilingi eyebani elongo na libaku ya kofungwama mpo na kosolola, lokola \"Lolenge nini ya mbula to moi olingaka mingi?\" Eyano ya solo ezali te mpe eloko ya kokanisa na makasi ezali te. Pona motó ya likambo to sangisa nyonso.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Pona motó ya likambo, to tika na \"Bakarte nyonso\".",
+      "Tángá motuna na mongongo makasi mpe botala elilingi elongo.",
+      "Yoka, pesa mpe eyano na yo, mpe botika lisolo elanda nzela na yango.",
+      "Finá \"Karte ya kolanda\" ntángo omilɛngɛli, to tikala na karte moko ntángo molai ndenge olingi.",
+      "Finá \"Bimisa bakarte nyonso na papye\" mpo na kokata yango na papye."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Pesa mpe eyano na yo moko na motuna yango. Emonanaka lokola lisolo, kasi kotuna mituna ya mosala te.",
+      "Landa lisolo, kasi makambo ya sikisiki te. Soki makambo mosusu ebongwani, ezali kaka malamu.",
+      "Soki karte etuti likambo moko ya mawa, ndimá mayoki yango mpe bokei malembe na karte mosusu."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Mpo na nini mituna ya \"Okanisi lisusu...?\" ezali te?",
+        "a": "Mituna oyo emekaka bokangami ya makambo na motó ekoki komonana lokola ekzamɛ mpe komema nsoni. Mituna ya bofungwami lokola \"Yebisa ngai na ntina ya...\" epesaka moto nyonso nzela ya kosangana, ata soki akanisi nini."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Nakoki kobimisa bakarte na papye?",
+        "a": "Ee. \"Bimisa bakarte nyonso na papye\" ebimisaka yango mobimba na bakɔmbi ya minene, bakarte ebele na paje moko, ebongisami mpo na kokata."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezali ya ofele, mpe esengeli namikomisa?",
+        "a": "Ɛɛ, ezali ya ofele, mpe esɛngaka kofungola konti te, komikomisa te, to kokitisa eloko te. Esalaka mbala moko na liziba ya rɛzɔ ya telefone, tablɛti to ordinatɛrɛ."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Bafɔtɔ mibale mibale",
+    "seoTitle": "Salá lisano ya kokokanisa bafɔtɔ ya libota",
+    "h1": "Bafɔtɔ mibale mibale: Kokanisá bafɔtɔ na yo moko",
+    "description": "Kómisá bafɔtɔ na yo ya libota lisano ya pɛtɛɛ ya kokokanisa bililingi. Pɔná bafɔtɔ 2 tii 6 na aparɛyi na yo; etikali kaka na liziba ya rɛzɔ na yo mpe etindamaka epai mosusu te.",
+    "short": "Pɔná bafɔtɔ na yo moko mpe kokanisá yango. Eloko moko te etindamaka epai mosusu.",
+    "players": "Bato 2, pembeni na pembeni",
+    "intro": "Pɔná bafɔtɔ mibale tii motoba na telefone, tablɛti to ordinatɛrɛ na yo, mpe ekozala lisano ya kokokanisa bililingi ya minene mpe ya polele. Bafɔtɔ yango elakisamaka kaka na kati ya lokasa oyo. Etindamaka te, ebombamaka te, ekabolamaka mpe te, mpe elimwaka soki okangi lokasa oyo.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Finá « Pɔná bafɔtɔ » mpe pɔná bafɔtɔ mibale tii motoba.",
+      "Fɔtɔ moko na moko ebimaka mbala mibale. Finá fɔtɔ moko, na nsima finá fɔtɔ oyo ekokani na yango.",
+      "Sololá mwa moke mpo na fɔtɔ moko na moko ntango bozali kozwa yango.",
+      "Ntango bosilisi, kangá lokasa to finá « Longolá bafɔtɔ ». Eloko moko te ebatelamaka."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Pɔná bafɔtɔ ya polele ya makambo ya esengo mpe oyo eyebana malamu: nyama ya ndako, elanga, esika oyo bolingaka mingi, to mokolo ya libala.",
+      "Bililingi ya bisika mpe ya biloko ekoki kozala pɛtɛɛ koleka bilongi ya bato, mpe epekisaka kotungisa moto mpo na koluka koyeba bankombo.",
+      "Tika bafɔtɔ ya bato oyo basilá kokufa soki ekoki komema mawa ya mbalakaka, longola se soki oyebi malamu ete epesaka bango bopemi mpe esengo."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Bafɔtɔ na ngai ekendaka epai mosusu?",
+        "a": "Te. Lokasa oyo etángaka bafɔtɔ oyo oponi mbala moko na aparɛyi na yo mpe elakisaka yango na ekra. Etindamaka epai na biso te to epai ya moto mosusu te, mpe elimwaka soki okangi to ozongeli kofungola lokasa."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ezali na ntango oyo ezali kotánga to na kotala manɔti?",
+        "a": "Te. Monguna ya ntango ezali te, manɔti ezali te, kotánga mbala ya kosala ezali te, mpe koloba ete moto alongwi ezali te. Bokoki kotika na ntango nyonso bolingi, mpe kotika na katikati ezali kaka lolenge malamu mpenza ya kosukisa."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Nakoki kobomba lisano mpo na mbala ya nsima?",
+        "a": "Na liziba ya rɛzɔ te, basalá yango bongo mpo eloko moko ya moto moko ebatelama te. Programe ya ofele ya Golden Moments mpo na iPhone mpe iPad ekoki kobomba bafɔtɔ oyo oponaki na aparɛyi na yo."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ya bililingi",
+    "seoTitle": "Bingo ya bililingi mpo na mibange oyo bazali na bokɔnɔ ya kobosana: Ya kobimisa na papye",
+    "h1": "Bingo ya bililingi mpo na bituluku",
+    "description": "Bingo ya bililingi ya ofele ya kobimisa na papye mpo na bisika ya kobatela mibange mpe bituluku ya mibange, elongo na kolakisa bililingi ya minene na ekra. Bililingi ya minene elongo na maloba, bakare 9 to 16, esɛngi kotánga te.",
+    "short": "Bakatoli ya bingo ya bililingi ya kobimisa na papye mpe elakiseli ya bililingi na ekra monene mpo na bituluku.",
+    "players": "Etuluku ya bato 2 tii 30",
+    "intro": "Bingo ya bonkɔkɔ elongo na bililingi na esika ya bantalo, mpo moto moko te asɛngama kotánga mikanda ya mike. Bimísá bakatoli oyo ekeseni, na nsima salelá ekra mpo na kolakisa elilingi moko na moko monene na televizyo, ordinatɛrɛ to tablɛti.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Pɔná bakare 9 to 16 na kartɔ moko mpe motángo ya babɛti.",
+      "Finá « Bimísá bakartɔ ». Kartɔ moko na moko ekeseni na mosusu.",
+      "Fungolá elakiseli ya bililingi na ekra monene. Finá « Elilingi ya kolanda » mpo na kolakisa elilingi moko na moko elongo na nkombo na yango.",
+      "Babɛti bazipaka elilingi oyo ekokani na kartɔ na bango na mbongo ya bibende, buto to elembo mosusu.",
+      "Moto nyonso oyo atondisi molɔngɔ, to kartɔ mobimba, ayambami na esengo. Moto moko te alongwaka na lisano oyo: bókoba kobɛta kino moto nyonso azwa molɔngɔ moko."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Salelá biloko ya minene lokola bibakeli ya dame to bikuke ya milangi. Babuto ya mike ekoki kozala mpasi mpo na kokanga.",
+      "Tángá nkombo ya elilingi mpe lobá mwa likambo moko na ntina na yango: « Masuwa ya mopɛpɛ. Nani amatáka na masuwa? »",
+      "Fandisá bato oyo bamonaka malamu te pembeni mpenza ya ekra, mpe tyá basungi pembeni ya babɛti oyo bazali na mposa ya lisungi.",
+      "Bakare libwa ekoki mpenza mpo na bituluku mingi. Bótika lisano ekoba soki miniti 20 tii 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ndenge nini nakoki kosala bingo ya bililingi na ndako ya kobatela mibange?",
+        "a": "Bimísá kartɔ moko mpo na mobɛti moko na moko, tyá bililingi na ekra oyo eleki monene oyo bozali na yango, mpe tángá bililingi malɛmbɛmalɛmbɛ, na kopesaka nkombo ya elilingi moko na moko. Bóbɛta kino moto nyonso azwa molɔngɔ, mpo moto moko te atikala sima."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Kobimisa yango na papye ezali ya ofele?",
+        "a": "Ɛɛ. Bimísá bakartɔ mingi ndenge olingi, mbala nyonso oyo olingi, mpo na yo moko to mpo na etuluku."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Bato bakoki kobɛta ata soki bayebi kotánga te?",
+        "a": "Ɛɛ. Kare moko na moko ezali elilingi monene, elongo na nkombo na yango na nse mpo na baoyo balingaka maloba."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Kopema ya kimia",
+    "seoTitle": "Mwa bopemi ya kimia mpo na mibange mpe babateli na bango",
+    "h1": "Mwa bopemi ya kopema na kimia",
+    "description": "Mwa bopemi ya malɛmbɛ mpe ya kimia mpo na kosala elongo: zinga-zinga ya kitoko ezali kokola mpe kokita mpo na kopema mbala motoba. Yo moko okobanda yango, mpe okoki kotika na ntango nyonso.",
+    "short": "Zinga-zinga ya malɛmbɛ mpo na kopema elongo na yango. Bandá mpe tiká ntango olingi.",
+    "players": "Moto 1 to bato 2",
+    "intro": "Mbala mosusu mosala oyo eleki malamu ezali kaka mwa bopemi ya kimia. Finá « Bandá », na nsima bendá mopɛpɛ ntango zinga-zinga ezali kokola mpe bimisá mopɛpɛ ntango ezali kokita. Pɔná vitɛsi ya malɛmbɛ to ya mwa mbangu. Ezali nkisi te, ezali kaka ntango ya kimia mpo na kosangela elongo.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Fandá malamu mpenza pembeni na pembeni.",
+      "Pɔná lolenge ya kopema: malɛmbɛ to pɛtɛɛ.",
+      "Finá « Bandá ». Bendá mopɛpɛ wana zinga-zinga ezali kokola, mpe bimisá mopɛpɛ wana ezali kokita.",
+      "Etikaka yango moko nsima ya kopema mbala motoba, to finá « Tiká » ntango nyonso olingi."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Simbaná na mabɔkɔ to tyá lobɔkɔ na lobɔkɔ ya moto wana soki asepeli na yango.",
+      "Kotindikisa ata moke te. Soki balingi kaka kotala, ezali malamu mpenza.",
+      "Soki moto azali na mikakatano ya kopema, apema ndenge amesaná mpe atala kaka zinga-zinga. Tuná monganga mpo na mitungisi nyonso oyo etali kopema."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Oyo ezali ngalasisi ya kopema ya monganga?",
+        "a": "Te. Ezali kaka mwa bopemi ya pɛtɛɛ mpe ya bolingi mpo na kimia mpe kozala elongo. Ezali nkisi te mpo na kolongola mitungisi to bokɔnɔ moko te. Sololá na monganga mpo na mitungisi nyonso ya kolɔngɔnɔ ya nzoto."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Zinga-zinga yango etambolaka soki ngai moko nabandi yango te?",
+        "a": "Te. Eloko moko te eninganaka tii bofina Start, mpe esukaka nsima ya kopema mbala 6 to ntango bofini Stop. Soki aparɛyi na bino ebongisami mpo na kokitisa koningana, maloba ebongwanaka kozanga ete rɔndɔ ekóma monene."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ezali ya ofele, mpe esengeli nakomisa nkombo?",
+        "a": "Ɛɛ, ezali ya ofele, mpe ezali na kɔnti te, kokomisa nkombo te, to kokitisa eloko te. Esalaka na navigatɛrɛ ya wɛbɛ na telefone, tablɛti to ordinatɛrɛ."
       }
     ]
   }
