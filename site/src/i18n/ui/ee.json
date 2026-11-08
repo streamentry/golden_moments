@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Ti kpo yi nya veviwo gbɔ",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Tagbɔdɔléle ƒe dɔwɔnawo",
+    "homeLabel": "Sikaɣeyiɣiwo ƒe aƒe",
+    "mainNav": "Ŋutᴐ",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Eʋegbe",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Sikaɣeyiɣiwo: tiikplu, ɣe ƒe keklẽ kple avu ƒe nɔnɔmetata gã siwo me xɔlɔ̃wɔwɔ le",
+    "languages": "Gbegbᴐgblᴐ",
+    "englishOnly": "(Iŋlisi)",
+    "machineTranslated": "Woɖe axa sia gɔme le eɖokui si eye gbedola aɖeke melé ŋku ɖe eŋu haɖe o.",
+    "readOriginal": "Xlẽ gbãtɔa le Eŋlisigbe me",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Fefewo",
+      "activities": "Nuwɔnawo",
+      "caregiving": "Beléle na ame",
+      "brainHealth": "Ahɔhɔ̃ ƒe lãmesẽ"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Nyabiasewo kple ŋuɖoɖowo",
+    "breadcrumb": "Abolomegba",
+    "home": "Aƒeme",
+    "lastUpdated": "Wotrɔ asi le eŋu zi mamlɛtɔ",
+    "topics": "Nyatiwo",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Nuŋɔŋlɔ ƒe lolome",
+      "smaller": "Nuŋɔŋlɔ si wozãna ɖaa",
+      "larger": "Nuŋɔŋlɔ si lolo wu",
+      "contrast": "Vovototo si lolo wu"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Fe fefe",
+    "picturePairs": "Nɔnɔmetata eve eve",
+    "conversationCards": "Dzeɖoɖogbalẽviwo",
+    "pictureBingo": "Kpɔ bingo ƒe nɔnɔmetata",
+    "allGames": "Fefewo katã",
+    "pictures": "Nɔnɔmetata siwo woata",
+    "activityIdeas": "Dɔwɔna ƒe susuwo",
+    "ideas101": "101 dɔwɔna ƒe susuwo",
+    "lateStage": "Dɔwɔna siwo wowɔna le ɣeyiɣi si tsi megbe",
+    "printable": "Dɔwɔna siwo woate ŋu ata",
+    "allActivities": "Dɔwɔnawo katã",
+    "forCaregivers": "Le dɔnɔdzikpɔlawo gome",
+    "playTogether": "Alesi woafe ɖekae",
+    "selfCare": "Beléle na ɖokuiwò",
+    "brainHealth": "Ahɔhɔ̃ ƒe lãmesẽ ŋuti numekuku",
+    "faq": "Nyabiasewo kple ŋuɖoɖowo",
+    "about": "Ku ɖe",
+    "approach": "Míaƒe mɔnu",
+    "howWeWrite": "Alesi míeŋlɔa nui",
+    "organizations": "Le habɔbɔwo gome",
+    "app": "Sikaɣeyiɣiwo ƒe dɔwɔnua",
+    "appHelp": "App ƒe kpekpeɖeŋu",
+    "support": "De megbe",
+    "legal": "Le senu",
+    "sitePrivacy": "Nyatakakadzraɖoƒea ƒe ameŋunyatakakawo",
+    "appPrivacy": "App ƒe ameŋunyatakakawo ŋuti ɖoɖo",
+    "privacyChoices": "Ame ŋutɔ ƒe nyawo ƒe tiatia",
+    "terms": "Ðoɖowo kple app ƒe mɔɖegbalẽ",
+    "safety": "Dedienɔnɔ kple alesi woɖoe be woazãe",
+    "accessibility": "Mɔɖeɖe ɖe nu ŋu",
+    "healthNotice": "Lãmesẽnyawo ŋuti nyatakaka",
+    "allLegal": "Senyawo katã",
+    "note": "Golden Moments naa nuwɔna bɔbɔe siwo wowɔna ɖekae hena vivisese. Menye atikewɔlawo ƒe aɖaŋuɖoɖo, dodokpɔ alo atikewɔwɔe wònye o, eye medea dzesi ame aɖeke, dzidzea nu alo dea dzesi ame aɖeke o. Ne èdi lãmesẽnyawo la, ƒo nu kple ɖɔkta. Ne nɔnɔme kpata aɖe dzɔ la, ƒo ka na 911.",
+    "publisher": "Cloudjet Solutions Pte ye tae. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Dementia & Alzheimer ƒe Fefewo kple Dɔwɔnawo | Sikaɣeyiɣiwo",
+    "description": "Nɔnɔmetatafefe fafɛ siwo woaƒo le Internet dzi femaxee kple dɔwɔnawo ŋuti susuwo na amesiwo ŋu tagbɔdɔ alo Alzheimer dɔléle le kple wo dzikpɔlawo.",
+    "eyebrow": "Femaxee · Boblododo aɖeke meli o · Ame aɖeke meŋlɔ ŋkɔ o · Ɣeyiɣidzidzenu alo dzesi aɖeke meli o",
+    "h1": "Fefe Fafɛwo & Dɔwɔnawo na Ame Siwo Ŋu Tagbɔdɔléle Le",
+    "lede": "Nɔnɔmetata fefe bɔbɔewo, foto nyanyɛwo, kple nuwɔna siwo miawɔ ɖekae—le mia ŋutɔwo ƒe ablaɖeɖe nu.",
+    "playGame": "Ƒo Fefe aɖe",
+    "findIdeas": "Di dɔwɔna ƒe susuwo",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Ewɔa dɔ le telefon, tablɛt kple kɔmpiuta dzi",
+      "Nɔnɔmetata gã siwo nɔa ɖeɖefiam",
+      "Dzudzɔ ɣesiaɣi; naneke meli si ado kpo nu o"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Azɔ hã, dɔwɔnu si wozãna femaxee na iPhone, iPad kple Android, si me wò ŋutɔ wò ƒomea ƒe fotowo le",
+    "albumNote": "“Tii kplu la ƒe nɔnɔmetata eve, ɖekae.”",
+    "gamesEyebrow": "Fe le wò web-browser me",
+    "gamesTitle": "Fefe siwo nàte ŋu aƒo fifia",
+    "gamesLede": "Wo dometɔ ɖesiaɖe fa, ame tsitsi eye wòdzea egɔme kabakaba. Tia ɖeka, nɔ anyi ɖe wo nɔewo xa, eye nàɖɔli nànɔ asi ƒom.",
+    "seeAllGames": "Kpɔ wo katã ɖa {count} fefewo wɔwɔ",
+    "howTitle": "Alesi wòwɔa dɔe",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Tia nane si nènya nyuie",
+        "text": "Tii kpluwo, abɔwo, aƒemelãwo kple tɔdziʋu siwo wotsɔa ʋuʋudedi wɔe ƒe nɔnɔmetatawo. Nuxexlẽ alo se aɖeke meli woasrɔ̃ gbã o."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Nɔ anyi ɖe wo nɔewo xa",
+        "text": "Na woaƒo asi. Ƒo nu tso nɔnɔmetataawo ŋu. Ðeko masɔmasɔ aɖe lalana na asiƒoƒo si kplɔe ɖo."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Dzudzɔ esime wòle dzidzɔ kpɔm",
+        "text": "Fefe ɖeka nye nuwɔna blibo aɖe. “Done for now” nɔa screen la dzi ɣesiaɣi."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Le screen la godo",
+    "stageTitle": "Dɔwɔna ƒe susuwo na akpa ɖesiaɖe",
+    "stageLede": "Hadzidzi, gbesiagbedɔwo, ŋkuɖoɖo nu dzi kple seselelãme ƒe ɣeyiɣi siwo me ɖoɖoezizi le, siwo trɔ ɖe nusi wòsena le eɖokui me be yevo fifia ŋu.",
+    "ideas101": "101 dɔwɔna ƒe susuwo",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Eƒe gɔmedzedze",
+        "text": "Yi edzi nànɔ nusi wolɔ̃na wɔm, eye nàwɔ asitɔtrɔ suesuesuewo: modzakaɖeɖewo, tsaɖiɖiwo, nyagbɔgblɔwo ƒe fefewo kple ɖoɖowɔwɔ ɖekae.",
+        "label": "Susu siwo le gɔmedzedzea me"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Titina fefewɔƒe",
+        "text": "Dɔ bɔbɔe siwo amewo nya nyuie siwo woma ɖe afɔɖeɖewo me: wo babla, wo ƒoƒo ƒu ɖe hatsotsowo me, hadzidzi, nɔnɔmetatafefewo kple azɔlizɔzɔ kpuiwo.",
+        "label": "Titina-nukpɔsusuwo"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Emegbe ƒe afɔɖeɖe",
+        "text": "Akɔfafa kple kadodo to asikaka ame ŋu, gbeɖiɖi kple nukpɔkpɔ me: asidzikpɔkpɔ, ha siwo wolɔ̃na wu, fotowo kple ɖeka nɔnɔ.",
+        "label": "Susu siwo ava emegbe"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Èle nane koŋ dim? Dze agbagba <a href=\"/activities/alzheimers/\">dɔwɔnawo kple fefewo na Alzheimer-dɔlélea</a>, . <a href=\"/activities/memory-games/\">ŋkuɖodzifefe fafɛwo</a>, . <a href=\"/activities/trivia/\">nya tsɛ bɔbɔewo</a> alo <a href=\"/activities/puzzles/\">puzzles ƒe nyawo</a>.",
+    "approachEyebrow": "Míaƒe mɔnu",
+    "approachTitle": "Dɔwɔwɔ ɖekae, ke menye ŋkuɖoɖonudzi dodokpɔ o",
+    "approachLede": "Wotu “ahɔhɔ̃ ƒe fefe” geɖe ɖe duƒuƒu, xexlẽdzesiwo kple streaks dzi. Na amesi le agbe kple tagbɔdɔ si ate ŋu ase le eɖokui me abe dodokpɔ ene. Míetu nusi to vovo na ema.",
+    "approachLink": "Nusita míewɔa eƒe nɔnɔmetata alea",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Naneke meli si ado kpo nu o",
+        "text": "Gaƒoɖokui, dzesi, agbe alo bu aɖeke meli o. Nɔnɔmetata bubu nye ɖiɖiɖeme, ke menye vodada o."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Nɔnɔmetatawo nɔa dzedzem",
+        "text": "Dzesidede ame ŋu wu ŋkuɖoɖo nu dzi. Nusiwo sɔ kple wo nɔewo dzea egɔme ŋkume kple ŋkume, eyata naneke meli si dzi woaɖo ŋkui o."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Ame tsitsi kple bubume",
+        "text": "Nya vivi siwo me kɔ kple xexeame ŋutɔŋutɔ ƒe nɔnɔmetatawo. Mègawɔ nutata alo vidzĩ ƒe nuƒoƒo gbeɖe o."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Ame ŋutɔ tɔ le aɖaŋu nu",
+        "text": "Akɔntabubu alo boblododo aɖeke meli o. Wò fotowo medzona le wò mɔ̃a dzi gbeɖe o."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Le dɔnɔdzikpɔlawo gome",
+    "guidesTitle": "Mɔfiame nyuiwo na gbesiagbe beléle na ame",
+    "allCaregiving": "Belélename ƒe mɔfialawo katã",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Alesi woawɔ fefe ɖekae",
+        "text": "Ðoɖowɔwɔ, afɔɖeɖe, kple nusi woawɔ ne fefe aɖe dzudzɔ modzakaɖeɖe."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Ne wogblɔ be ao na dɔwɔna aɖe",
+        "text": "Susu siwo bɔ be woagbe, kple mɔ fafɛ siwo dzi woato agate kpɔ emegbe."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Tablɛt aɖe ɖoɖo",
+        "text": "Nuŋɔŋlɔ siwo lolo wu, nutsotso ʋɛ aɖewo kple home screen bɔbɔe ɖeka."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Dɔwɔna siwo woate ŋu ata femaxee",
+        "text": "Nyawo didi, amadede ƒe axawo, bingo kple dzeɖogbalẽviwo."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Ahɔhɔ̃ ƒe lãmesẽ: nusi numekukua gblɔ ŋutɔŋutɔ",
+    "researchText": "Ðe woate ŋu axe mɔ ɖe tagbɔdɔléle nua? Ðe ahɔhɔ̃mefefewo kpena ɖe ame ŋua? Ke nutsitsidɔ, nuɖuɖu, alɔ̃dɔdɔ kple nusese ya ɖe? Ŋuɖoɖo siwo me kɔ, siwo tso teƒeteƒewo, siwo dome afisi kpeɖodziawo gbɔdzɔ le hã le.",
+    "researchLink": "Xlẽ numekuku ŋuti mɔfiamegbalẽawo",
+    "appEyebrow": "Azɔ hã, dɔwɔnu aɖe",
+    "appTitle": "Sikaɣeyiɣiwo le iPhone, iPad kple Android dzi",
+    "appText": "Dɔdamɔnu si wozãna femaxee la wɔa dɔ le Internet dzi eye ate ŋu azã ƒomea ƒe foto siwo nètia, siwo wodzra ɖo abe kɔpiwo ene le wò mɔ̃a dzi. Atsyã ma ke si me fafa le: tile gã ene, ɣeyiɣidzidzenu aɖeke meli o, dzesi aɖeke meli o.",
+    "aboutApp": "Le dɔwɔnua ŋu",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Fefe nyui kawoe nye na amesiwo ŋu tagbɔdɔléle le?",
+        "a": "Fefe nyuiwo le bɔbɔe, wonya nyuie eye nyaƒoɖeamenu aɖeke mele wo ŋu o: nɔnɔmetata gãwo be woasɔ, wo ƒoƒo ɖe wo nɔewo nu, jigsaw bɔbɔewo, nya nyanyɛwo wuwu, amadede, nɔnɔmetata bingo kple dzeɖoɖogbalẽviwo. Tiatia nyuitɔ kekeakee nye esi doa dzidzɔ na amea egbea. Ƒo asa na ɣeyiɣidzidzenuwo, dzesiwo kple nusianu si ase le ɖokuiwò me abe dodokpɔ ene."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Ðe tagbɔdɔléle ƒe fefe siawo nye esiwo wowɔna femaxeea?",
+        "a": "Ɛ̃. Fefe ɖesiaɖe kple esi woate ŋu ata ɖe Golden Moments dzi la nye femaxee, akɔntabubu, asidede agbalẽ te alo kɔpi aɖeke mele eme o. Fefeawo zɔna le nyatakakadzraɖoƒea le telefon, tablɛt alo kɔmpiuta dzi."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Ðe ahɔhɔ̃mefefewo xea mɔ na tagbɔdɔ?",
+        "a": "Womeɖe fefe aɖeke fia be wòaxe mɔ ɖe tagbɔdɔléle nu o, eye Golden Moments megblɔ be yedaa ​​naneke alo xe mɔ ɖe enu o. Míaƒe fefewo nye modzakaɖeɖe kple ɣeyiɣi si míatsɔ anɔ anyi ɖekae. Míaƒe ahɔhɔ̃ ƒe lãmesẽ ƒe akpaa ɖe nusiwo numekukuwo ɖena fiana kple esiwo womeɖena fiana o me."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Ðe fefe siawo sɔ na amesi ŋu Alzheimer-dɔlélea lea?",
+        "a": "Ɛ̃. Alzheimer-dɔlélee nye nusi gbɔ tagbɔdɔléle tsona wu, eye wowɔa fefeawo ɖe eta: nɔnɔmetata gã siwo nɔa ɖeɖefiam, tiatia ʋɛ aɖewo, eye naneke meli si dzi woaɖo ŋkui alo agblẽ o. Nya nyanyɛwo ƒe sɔsɔ, wo ɖoɖo ɖe wo nɔewo nu kple wo wuwu nɔ te ɖe sidzedze si woxɔ ɣeyiɣi didi aɖe dzi tsɔ wu be woanɔ te ɖe nu yeye siwo wosrɔ̃ dzi."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Ðe ame aɖe si ŋu tagbɔdɔléle si va emegbe ate ŋu awɔ dɔ siawoa?",
+        "a": "Zi geɖe la, ẽ, ne ame aɖe nɔa wo xa. Dze egɔme kple Di nu ma ke kple nɔnɔmetata eve, Nɔnɔmetata eve siwo ŋu tile ene le, amadede ƒe axa alo gbɔgbɔtsixetsixe ƒe ɖiɖiɖeme. Na wòanɔ kpuie, dze woƒe ŋgɔdonya yome eye nàtɔ ne woɖu nu wòsu."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Ðe nye nyatakakawo nye ame ŋutɔ tɔa?",
+        "a": "Akɔntabubu kple boblododo aɖeke mele nyatakakadzraɖoƒea o. Míezãa Google Analytics tsɔ sea axa siwo dzi woʋuna la gɔme. Foto siwo nètia na Foto eveawo la dzena le wò web-browser me ko eye womedaa wo ɖe Internet dzi gbeɖe o."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Amekae wɔa Sikaɣeyiɣiwo?",
+        "a": "Golden Moments nye ƒuƒoƒo sue aɖe si wɔa ame tsitsiwo ƒe nɔnɔmetata ƒe dɔwɔna siwo me fafa le na ƒomewo kple dɔnɔdzikpɔlawo, le nyatakakadzraɖoƒea kple abe dɔwɔnu si woate ŋu azã femaxee ene. Menye atikewɔlawoe míenye o, eye naneke mele afisia si nye atikewɔlawo ƒe aɖaŋuɖoɖo o."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "kaba",
+    "middle": "titina",
+    "late": "emegbe",
+    "hintOne": "Zi geɖe la, esɔna {list} fefewɔƒe",
+    "hintMany": "Zi geɖe la, esɔna {list} afɔɖeɖewo",
+    "labelEarly": "Eƒe gɔmedzedze",
+    "labelMiddle": "Titina fefewɔƒe",
+    "labelLate": "Emegbe ƒe afɔɖeɖe"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Le fefe sia ŋu",
+    "printable": "Woate ŋu atae",
+    "play": "Fe fefe {name} →",
+    "readGuide": "Xlẽ mɔfiamegbalẽa"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Èdzra ɖo ɖe fefe fafɛ aɖe ŋua?",
+    "text": "Nɔnɔmetata gãwo, ɣeyiɣidzidzenu aɖeke meli o, dzesi aɖeke meli o eye naneke meli woade asi ete o. Fe ɖekae le wò web-browser me.",
+    "play": "Ƒo Fefe aɖe",
+    "all": "Kpɔ fefeawo katã ɖa",
+    "aria": "Ƒo fefe aɖe"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
-    "appStoreShort": "App Store",
-    "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "title": "Tsɔ fefe siawo ɖe asi",
+    "text": "Golden Moments dɔwɔnu si wozãna femaxee na iPhone, iPad kple Android: nɔnɔmetata ƒe tile gãwo, fefe siwo me wò ŋutɔ wò ƒomea ƒe fotowo le, kple nɔnɔmetatawo ƒe agba siwo wɔa dɔ Wi‐Fi manɔmee. Akɔntabubu, boblododo, ɣeyiɣidzidzenu alo dzesi aɖeke meli o.",
+    "appStore": "Na wòaxɔe le App Store",
+    "googlePlay": "Na wòanɔ Google Play dzi",
+    "appStoreShort": "App Store ƒe Fiase",
+    "googlePlayShort": "Google Play dzi",
+    "about": "Le dɔwɔnua ŋu",
+    "aria": "Xɔ dɔwɔnua"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Nuwɔnawo",
+      "title": "Dɔwɔna Siwo Wowɔna Na Ame Siwo Ŋu Tagbɔdɔléle Le",
+      "seo": "Dɔwɔna Siwo Wowɔna Na Ame Siwo Ŋu Tagbɔdɔléle Le: Susuwo le Afɔɖeɖewo Nu",
+      "description": "Dɔwɔna ƒe susuwo na amesiwo le agbe kple tagbɔdɔ le afɔɖeɖe ɖesiaɖe me: hadzidzi, ŋkuɖodzinyawo, gbesiagbedɔwo, seselelãme ƒe ɣeyiɣiwo, asinudɔwɔwɔ, gota.",
+      "lede": "Dɔwɔna si ŋu gɔmesese le nye nusianu si hea akɔfafa, tameɖoɖo alo kadodo ƒe ɣeyiɣi kpui aɖe vɛ. Dze egɔme kple nusiwo doa dzidzɔ na amea tso gbaɖegbe ke, eye nàtrɔ asi le eŋu wòasɔ ɖe egbegbe nu."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Beléle na ame",
+      "title": "Belélename Ŋuti Mɔfiamewo",
+      "seo": "Tagbɔdɔléle Ŋuti Mɔfiamewo: Gbesiagbe Kpekpeɖeŋu Nyui",
+      "description": "Mɔfiame nyuiwo, dɔmenyotɔe na tagbɔdɔlélawo: fefe ɖekae, kadodo, gbegbe, ŋkeke ƒe nuwuwu ƒe dzimaɖitsitsi, tablɛtwo, dɔwɔɖoɖowo tiatia kple wo ɖokui dzi kpɔkpɔ.",
+      "lede": "Kpekpeɖeŋu si me kɔ, si ŋudɔ woate ŋu awɔ le gbesiagbe ɣeyiɣi siwo me nàlé be na amesi ŋu tagbɔdɔléle le, si me wò ŋutɔ ɖokuiwò dzi kpɔkpɔ hã le."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Ahɔhɔ̃ ƒe lãmesẽ",
+      "title": "Ahɔhɔ̃ ƒe Lãmesẽ: Nusi Numekukua Gblɔ",
+      "seo": "Ahɔhɔ̃ ƒe Lãmesẽ Kple Tagbɔdɔléle ƒe Afɔku: Nusi Numekuku Gblɔ",
+      "description": "Ðe woate ŋu axe mɔ ɖe tagbɔdɔléle nua? Mɔfiame anukwaretɔ, siwo tso teƒeteƒewo ku ɖe tagbɔdɔléle ƒe afɔkuwo, ahɔhɔ̃mefefewo, nutsitsidɔ, nuɖuɖu, kamedede.",
+      "lede": "Nusi numekuku gãwo ɖe fia ŋutɔŋutɔ tso tagbɔdɔléle ƒe afɔkua dzi ɖeɖe kpɔtɔ ŋu, si me kɔ nyuie, si me afisi kpeɖodziawo gbɔdzɔ le alo wotsaka hã le. Nyatakaka siwo ku ɖe nusianu ŋu, ke menye atikewɔlawo ƒe aɖaŋuɖoɖo o."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Wowɔ asitɔtrɔ le eŋu",
+    "minuteRead": "{n} miniti xlẽ",
+    "byTeam": "Golden Moments ƒe ƒuƒoƒoae ŋlɔe",
+    "howWeWrite": "Alesi míeŋlɔa nui",
+    "shortAnswer": "Ŋuɖoɖo kpuia",
+    "onThisPage": "Le axa sia dzi ({n} akpawo) .",
+    "commonQuestions": "Nyabiase siwo bɔ",
+    "sources": "Dzɔtsoƒewo",
+    "sourcesNote": "Míeɖoa kadodo ɖe habɔbɔwo kple nusɔsrɔ̃ siwo dzi axa sia ɖoa ŋu ɖo la gbɔ. Wolé ŋku ɖe wo dometɔ ɖesiaɖe ŋu ne wowɔ axaa yeyee.",
+    "tryTogether": "Mite kpɔ ɖekae",
+    "relatedGuides": "Mɔfiame siwo do ƒome kplii",
+    "related": "Do ƒome",
+    "startHere": "Dze egɔme tso afisia"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Lãmesẽnyawo ŋuti nyatakaka",
+    "title": "Nyatakaka siwo ku ɖe nusianu ŋu, ke menye atikewɔlawo ƒe aɖaŋuɖoɖo o",
+    "textHtml": "Axa sia gblɔ numekuku siwo wota na ƒomewo kpuie. Mate ŋu agblɔ nusi sɔ na ame ɖeka na wò o. Ðo dze kple ɖɔkta hafi nàtrɔ nuɖuɖu, kamedede, alɔ̃dɔdɔ, atike alo kpeɖeŋutɔ. Ne èdi be yeatɔtɔ kpata alo tɔtrɔ bubu siwo ava dzɔ kpata la, bia atikewɔlawo ƒe kpekpeɖeŋu enumake. <a href=\"/medical-disclaimer/\">Xlẽ míaƒe lãmesẽnyawo ŋuti nyatakaka</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Dɔwɔwɔ si Woama, Menye Ŋkuɖodzi Dodokpɔ O",
+      "seoTitle": "Ku Ðe Sikaɣeyiɣiwo Ŋu: Míaƒe Mɔnukpɔkpɔ",
+      "description": "Nusita Golden Moments fefewo mekpɔa ɣeyiɣidzidzenu, xexlẽdzesiwo alo streaks o, nusita nɔnɔmetatawo nɔa ɖeɖefiam, kple nusi míagblɔ tso tagbɔdɔléle ŋu.",
+      "crumb": "Míaƒe mɔnu",
+      "lede": "Golden Moments wɔa ame tsitsiwo ƒe nɔnɔmetatawo wɔwɔ siwo me dziɖeɖi le, siwo dɔnɔdzikpɔla kple amesi ŋu tagbɔdɔléle le ate ŋu ase vivi na le wo nɔewo xa.",
+      "bodyHtml": "<h2>Nusi dzi míexɔ se</h2><p>Susu si le dɔwɔna aɖe ŋue nye ɣeyiɣia ŋutɔ: dzeɖoɖo, alɔgbɔnukoko, dzidzeme si wokpɔna ne wotsɔ nɔnɔmetata eve ƒo ƒui, alo be woanɔ anyi ɖe wo nɔewo ŋu ko. Menye be woadzidze ame aɖeke, atutu wo ɖe ŋgɔ alo aɖo kpe naneke dzi o.</p><p>Wotrɔ asi le ahɔhɔ̃-hehenana dɔwɔɖoɖo geɖewo ŋu ƒo xlã duƒuƒu, dzesiwo, streaks kple levels. Le amesi le agbe kple tagbɔdɔ si ate ŋu ase le eɖokui me abe dodokpɔ ene gome la, womate ŋu ato eme o. Míewɔ nusi to vovo na ema, eye míelé se siawo me ɖe asi:</p><ul><li><strong>Naneke medo kpo nu o.</strong> Gaƒoɖokui, dzesi, ʋuʋu counter, agbe, streaks, confetti alo countdowns, aɖeke mele screen aɖeke dzi o.</li><li><strong>Dzesidede ame ŋu wu ŋkuɖoɖo nu dzi.</strong> Nɔnɔmetatawo nɔa dzedzem le gɔmedzedzea me. Nusiwo ƒonɛ ɖe ame nu kpea dzeɖoɖo eye womebiaa ŋkɔwo alo ŋkuɖodzinyawo gbeɖe o.</li><li><strong>Gã, gbadzaa eye wòli ke.</strong> Nuŋɔŋlɔ kple nɔnɔmetata gãwo, vovototo gã, kple nusiwo dzi woaɖu siwo nɔa teƒe ɖeka.</li><li><strong>Ame tsitsiwo ƒe bubu.</strong> Xexeame ŋutɔŋutɔ ƒe nɔnɔmetatawo kple nya siwo me kɔ, siwo me dzo le. Nutata, hadzidzi-hadzidzi kafukafu alo emoji teƒeɖoɖo aɖeke meli o.</li><li><strong>Mɔ bɔbɔe aɖe si dzi woato ado le eme.</strong> “Wowɔe fifia” dzena ɣesiaɣi. Tɔtɔ le mɔa ƒe afã me nye emetsonu nyui aɖe.</li><li><strong>Ame ŋutɔ tɔ le gɔmedzedzea me.</strong> Akɔntabubu alo boblododo aɖeke meli o. Foto siwo nètia la nɔa wò mɔ̃a dzi.</li></ul><h2>Nusi míegblɔna o</h2><p>Míaƒe fefewo nyea vivisese kple kadodo. Womekpɔa tagbɔdɔ alo Alzheimer ƒe dɔlélea, doa wo kpɔna, dzidzea wo, daa wo, nɔa blewu alo xea mɔ na wo o, eye mele be ame aɖeke natia wo le susu ma ta o. Ne míele nu ŋlɔm tso numekuku le míaƒe... <a href=\"/brain-health/\">ahɔhɔ̃ ƒe lãmesẽnyawo ƒe axawo</a>, míegblɔnɛ kɔte le afisi kpeɖodziawo gbɔdzɔ le, eye míetsɔe do ƒome kple mía ŋutɔwo ƒe fefewo gbeɖe o.</p><h2>Ame siwo míenye</h2><p>Golden Moments nye ƒuƒoƒo sue aɖe si le eɖokui si. Menye atikewɔlawoe míenye o. Woŋlɔ míaƒe mɔfiamegbalẽwo tso mɔfiame siwo habɔbɔwo abe Dukɔa ƒe Tsitsi Ŋuti Nusrɔ̃ƒe kple Alzheimer’s Habɔbɔ ene ta me, eye mɔfiame ɖesiaɖe yɔa afisiwo wòtso. Xlẽ <a href=\"/editorial-policy/\">ale si míeŋlɔa nu heléa ŋku ɖe míaƒe axawo ŋu</a>.</p><h2>Gblɔ nusi akpe ɖe mía ŋu na mí</h2><p>Míadi vevie be míase nusiwo wɔa dɔ na wò kple esiwo mewɔa dɔ na wò o, vevietɔ tso amesiwo ŋu tagbɔdɔléle le, ƒomedzikpɔlawo kple dɔwɔlawo gbɔ. Email dzi <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Ale Si Míeŋlɔa Míaƒe Axawo Hekpɔa Wo Me",
+      "seoTitle": "Nyadzɔdzɔŋlɔlawo ƒe Ðoɖo",
+      "description": "Alesi Golden Moments wɔa numekuku, ŋlɔa nu, kpɔa dzɔtsoƒe eye wòwɔa eƒe tagbɔdɔléle ƒe dɔwɔna kple ahɔhɔ̃ ƒe lãmesẽ ƒe axawo yeyee, kple nusiwo míata gbeɖe o.",
+      "crumb": "Nuŋlɔla ƒe ɖoɖo",
+      "bodyHtml": "<h2>Míaƒe dzɔtsoƒewo</h2><p>Míetu míaƒe mɔfiamewo ɖe dukɔa ƒe mɔfiame siwo tso habɔbɔwo abe Dukɔa ƒe Tsitsi Ŋuti Dɔwɔƒe, CDC, Alzheimer ƒe Habɔbɔ, Amerika ƒe Alzheimer ƒe Habɔbɔ, Ƒome Dɔnɔdzikpɔlawo ƒe Habɔbɔ kple NHS gbɔ, kple numekuku siwo me hatiwo to abe Cochrane ƒe numetotowo kple dɔdamɔnu dodokpɔ gãwo ene dzi. Mɔfiame ɖesiaɖe yɔa dzɔtsoƒe siwo dzi wòɖoa ŋu ɖo. Míeʋua nyatakakatsoƒe ɖesiaɖe hafi yɔa nya tso eme, eye nusi tututu wògblɔ koe míegblɔna.</p><h2>Alesi míeŋlɔa nui</h2><ul><li>Nusi ŋudɔ woate ŋu awɔ gbã: nusi woawɔ egbea, le gbegbɔgblɔ si me kɔ me.</li><li>Anukwareɖiɖi le kpeɖodzi ŋu: míegblɔna be “kadodo kple”, “ate ŋu” kple “kpeɖodzia tsaka” esime nyateƒeae nye ema.</li><li>Bubudede ame ŋu: míeŋlɔa nu tso amesiwo ŋu tagbɔdɔléle le esime wotsi ŋu, eye míezãa nyabiase alo ŋukpenya gbeɖe o.</li><li>Nusiwo woto vɛ aɖeke meli o: akɔntabubu, nyayɔyɔ, eŋutinunyalawo, numekuku, numetoto alo ɖaseɖiɖi siwo wowɔ o.</li></ul><h2>Amekae dzroa míaƒe axawo me</h2><p>Golden Moments ƒe ƒuƒoƒoae ŋlɔa axawo heléa ŋku ɖe wo ŋu, kple kpekpeɖeŋu tso AI nuŋɔŋlɔ dɔwɔnuwo gbɔ hena numekuku kple nuŋɔŋlɔ. Ƒuƒoƒoa léa ŋku ɖe axa ɖesiaɖe ŋu le eƒe dzɔtsoƒewo nu. Míaƒe axawo le... <strong>o</strong> ɖɔkta alo atikewɔla bubu aɖe to eme, eye míegblɔna be menye nenemae o. Wonye nyatakaka siwo ku ɖe nusianu ŋu, ke menye atikewɔlawo ƒe aɖaŋuɖoɖowo o.</p><h2>Nusiwo míata gbeɖe o</h2><ul><li>Wogblɔna be fefe, nuɖuɖu, kpeɖeŋutɔ, nutsitsidɔ alo edziedzi xea mɔ na tagbɔdɔléle, daae, blewu alo daa gbe le eŋu.</li><li>Dodokpɔwo, nyabiasewo alo dzesi siwo fia be tagbɔdɔléle le ame aɖe ŋu, alo mele eŋu o.</li><li>Aɖaŋuɖoɖo be nàdze atike ɖesiaɖe gɔme, adzudzɔ alo atrɔe.</li><li>Boblododo alo nyatakaka siwo wodo alɔe siwo woɣla abe mɔfiame ene.</li></ul><h2>Nya yeyewo kple ɖɔɖɔɖowo</h2><p>Axa ɖesiaɖe fia ŋkeke si dzi wowɔ asitɔtrɔ le eŋu zi mamlɛtɔ. Ne èkpɔ vodada aɖe alo dzɔtsoƒe aɖe si do xoxo la, taflatse ŋlɔ lɛta na wò to e-mail dzi <a href=\"mailto:{email}\">{email}</a> eye míalé ŋku ɖe eŋu enumake.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Nyabiasewo Kple Ŋuɖoɖowo",
+      "seoTitle": "Tagbɔdɔléle ƒe Fefewo Kple Dɔwɔnawo: Nyabiasewo Kple Ŋuɖoɖowo",
+      "description": "Nyabiase siwo bɔ ku ɖe tagbɔdɔléle ƒe fefewo kple dɔwɔnawo ŋu ƒe ŋuɖoɖowo: fefe siwo woate kpɔ, ɣeyiɣi didi si woaƒo, susu siwo woava ƒo emegbe, ahɔhɔ̃ ƒe.",
+      "crumb": "Nyabiasewo kple ŋuɖoɖowo",
+      "lede": "Nya siwo dɔnɔdzikpɔlawo biana wu la ƒe ŋuɖoɖo kpui siwo me kɔ.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Ku ɖe fefeawo ŋu",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Fefe kawoe nye nyuitɔwo kekeake na amesi ŋu tagbɔdɔléle le?",
+              "a": "Fefe nyuitɔwo nye esiwo amewo nya nyuie, wole bɔbɔe eye nyaƒoɖeamenu aɖeke mele wo ŋu o, eye esi sɔ la nye nusianu si amea doa dzidzɔ na egbea. Nɔnɔmetatawo ƒe sɔsɔ kple nɔnɔmetata siwo wokpɔna, wo ɖoɖo ɖe hatsotsowo me, jigsaw bɔbɔewo, nya nyanyɛwo wuwu, amadede kple nɔnɔmetata bingo katã wɔa dɔ nyuie na ame geɖe. Ƒo asa na ɣeyiɣidzidzenuwo, dzesiwo kple nusianu si ase le ɖokuiwò me abe dodokpɔ ene."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Ðe fefeawo nye femaxee nyateƒea?",
+              "a": "Ɛ̃. Fefewo kple esiwo woate ŋu ata la katã nye esiwo woate ŋu ata femaxee, womewɔa akɔntabubu, asidede agbalẽ te, kɔpi alo boblododo aɖeke o."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Nukatae dzesiwo, dzidzenuwo alo ɣeyiɣidzidzenuwo meli o?",
+              "a": "Duƒuƒu kple dzesiwo trɔa nuwɔna dodzidzɔname aɖe wòzua dodokpɔ, si ate ŋu ahe ŋukpe alo dziɖeleameƒo vɛ. Míetsɔa míaƒe susu nɔa vivisese kple ɣeyiɣi ɖekae ŋu, eyata naneke meli si ado kpo nu o eye àte ŋu atɔ le ɣeyiɣi ɖesiaɖe me."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Mɔ̃ kawoe wɔa dɔ nyuie wu?",
+              "a": "Telefon, tablɛt alo kɔmpiuta ɖesiaɖe si ŋu egbegbe nyatakakadzraɖoƒe ƒe nyatakakadzraɖoƒe le. Zi geɖe la, tablɛt si le tsitrenu le kplɔ̃ ŋue nye mɔ si dzi ame eve ate ŋu ato aƒo fefe ɖekae wu. Laptop si wotsɔ do ka kple TV wɔa dɔ nyuie na ƒuƒoƒowo."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Ðe míate ŋu atsɔ mía ŋutɔwo ƒe ƒomea ƒe fotowo aƒo fefea?",
+              "a": "Ɛ̃. Foto eveveve trɔa foto 2 va ɖo 6 siwo nètia wòzua fefe si sɔ. Fotoawo nɔa wò web-browser me eye womedaa wo ɖe Internet dzi alo dzraa wo ɖo o."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Dɔwɔnawo kple belélename",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Ɣeyiɣi didi kae wòle be dɔwɔna aɖe naxɔ?",
+              "a": "Zi geɖe la, miniti 10 va ɖo 20 sɔ gbɔ, eye ɣeaɖewoɣi la, miniti 2 nyea dzidzedzekpɔkpɔ. Lé ŋku ɖe ɖeɖiteameŋu alo dziɖeleameƒo ƒe dzesiwo ŋu eye nàdzudzɔ esime wògakpɔtɔ le dzidzɔ kpɔm. Ga home aɖeke meli si sɔ o."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Ke ne womedi be yewoawɔ dɔwɔna aɖe o ɖe?",
+              "a": "De bubu ao ŋu, eye nàgadze agbagba ake emegbe alo le mɔ bubu nu. Gbegbe ate ŋu atso ɖeɖiteameŋu, vevesese, kakaɖedzimanɔamesi alo ɖekematsɔleme manɔmee ko gbɔ. Kpɔ míaƒe mɔfiame si ku ɖe nusi nàwɔ ne wogblɔ be ao ŋu."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Dɔ kawoe sɔ na tagbɔdɔléle si va emegbe?",
+              "a": "Akɔfafa kple sidzenuwo: toɖoɖo ha siwo wolɔ̃na wu, asitutu kple atike, fotowo kpɔkpɔ ɖekae, avɔ falɛfalɛ léle ɖe asi, anyinɔƒe le gota, alo nɔnɔmetatafefe bɔbɔe aɖe ŋutɔ kple ame aɖe le wo xa. Susu bubu geɖewo le míaƒe mɔfiamegbalẽ si míewɔ emegbe."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Ðe dɔwɔna aɖewo li na ƒuƒoƒowo le dɔnɔdzikpɔƒe aɖea?",
+              "a": "Ɛ̃. Picture bingo ƒe agbalẽvi siwo woate ŋu ata kple ame si ƒoa ka le screen dzi le, eye Finish the saying kple Conversation cards wɔa dɔ nyuie xexlẽ sesĩe. Míaƒe belélenameƒewo ƒe ƒuƒoƒowo ƒe mɔfiamegbalẽa ƒo nu tso ƒuƒoƒo ƒe lolome, zikpuiwo kple tɔtrɔ ɖe ŋutete vovovowo ŋu ŋu."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Ahɔhɔ̃ ƒe lãmesẽ",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Ðe fefewo ate ŋu axe mɔ ɖe tagbɔdɔléle nu alo ana wòanɔ blewua?",
+              "a": "Womeɖe fefe aɖeke fia be wòaxe mɔ ɖe tagbɔdɔléle nu o, eye míaƒe fefewo megblɔa nya ma tɔgbe aɖeke o. Sidzedze ƒe ʋuʋu le hadomenuwɔna me ɖe viɖe sue aɖewo fia le numekuku me na amesiwo ŋu tagbɔdɔléle si nu mesẽ o va ɖo esi mesẽ o le, gake ema to vovo na fefe si xea mɔ na dɔléle. Míewɔa fefewo hena vivisese kple kadodo."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Ðe woate ŋu axe mɔ ɖe tagbɔdɔléle nua?",
+              "a": "Menye kakaɖedzitɔe o. Numekukuwo ɖee fia be lãmesẽ kple agbenɔnɔ ŋuti nu 14 do ƒome kple tagbɔdɔléle ƒe afɔku, abe tosese, ʋusɔgbɔdɔ, kamemademade kple ame ɖokui ɖeɖe ɖe aga le hadome ene. Wo gbɔ kpɔkpɔ ate ŋu aɖe afɔkua dzi akpɔtɔ na ame aɖewo, gake ame geɖe siwo wɔa nusianu nyuie la gakpɔtɔ xɔa tagbɔdɔ. Menye ame aɖeke ƒe vodadae wònye gbeɖe o."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Ðe nutsitsidɔ ɣeaɖewoɣi nyo na ahɔhɔ̃a ƒe lãmesẽa?",
+              "a": "Amegbetɔwo ƒe kpeɖodziwo mesɔ gbɔ o eye wodo ŋgɔ, eye numekukuawo ƒe akpa gãtɔ ku ɖe lãwo ŋu. Nutsitsidɔ ate ŋu anye afɔku na ame tsitsiwo, vevietɔ ne wozã suklidɔtikewo alo lolo dzi ɖeɖe kpɔtɔ le vome, eye womekafui na amesiwo ŋu tagbɔdɔléle le o. Ðo dze kple ɖɔkta hafi nàtrɔ alesi nèɖua nui."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Ame ŋutɔ ƒe nyawo kple dedienɔnɔ",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Ðe nèƒoa nyatakaka aɖewo nu ƒua?",
+              "a": "Akɔntabubu alo boblododo aɖeke meli o. Míezãa Google Analytics tsɔ xlẽa sasrãkpɔwo eye míekpɔa axa siwo kpena ɖe ame ŋu, eye wò web-browser ɖoa ŋku edzi nenye be èʋu gbeɖiɖi fafɛwo. Wometsɔa foto siwo nètia na Foto evewo la dana ɖe Internet dzi gbeɖe o. Kpɔ ameŋunyatakakawo ŋuti nyatakakaa hena numeɖeɖe bubuwo."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Ðe esia nye atikewɔlawo ƒe aɖaŋuɖoɖoa?",
+              "a": "Ao, Golden Moments nye modzakaɖeɖe kple nyatakaka siwo ku ɖe nusianu ŋu ta. Ne èdi lãmesẽnyawo la, ƒo nu kple ɖɔkta, eye ne èle nɔnɔme kpatawo me la, ƒo ka na 911."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Nyatakaka bubuwo: <a href=\"/caregiving/how-to-play-together/\">alesi woafe ɖekae</a>, . <a href=\"/caregiving/when-they-say-no/\">ne wogblɔ be ao</a>, . <a href=\"/activities/late-stage/\">dɔwɔna siwo woawɔ emegbe</a> kple <a href=\"/brain-health/can-dementia-be-prevented/\">ɖe woate ŋu axe mɔ ɖe tagbɔdɔléle nua?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Fefe Fafɛ, Fafɛ Na Ame Siwo Le Agbe Kple Tagbɔdɔléle",
+      "seoTitle": "Agbalẽ si Woate Ŋu Ata: Tagbɔdɔléle ƒe Fefewo Femaxee le Internet Dzi",
+      "description": "Axa ɖeka ƒe agbalẽvi si woate ŋu ata na ƒomewo kple dɔnɔdzikpɔlawo ku ɖe nɔnɔmetatafefe fafɛ siwo wowɔna femaxee na amesiwo ŋu tagbɔdɔléle le, na.",
+      "crumb": "Agbalẽvi si woate ŋu ata",
+      "lede": "Ta axa sia na kpekpeɖeŋunaha, beléle na ame ƒe agbalẽvi alo fridzi ƒe ʋɔtru. Zã wò web-browser ƒe Print ƒe sedede; wogblẽa nuɖuɖu siwo le eme kple abɔtawo ɖe agbalẽ si wota la dzi.",
+      "introHtml": "<p>Nɔnɔmetata gãwo, nya siwo me kɔ kple naneke si ado kpo nu o. Femaxee le telefon, tablɛt alo kɔmpiuta dzi, eye womede asi agbalẽ te o, boblododo aɖeke mele eme o, ɣeyiɣidzidzenu aɖeke meli o eye dzesi aɖeke mele eme o. Nɔ anyi ɖe wo nɔewo xa eye nàɖɔli wo nɔewo.</p>",
+      "gamesTitle": "Fefe siwo woate kpɔ ɖekae",
+      "restHtml": "<h2>Aɖaŋuɖoɖo ʋɛ aɖewo</h2><ul><li>Tia ŋkekea ƒe ɣeyiɣi si me amea le eƒe ŋutete katã me.</li><li>Dze egɔme kple ɖoɖo si le bɔbɔe wu. Tile ene sɔ gbɔ ŋutɔ.</li><li>Ƒo nu tso nɔnɔmetataawo ŋu. Zi geɖe la, dzeɖoɖoa nyea akpa nyuitɔ kekeake.</li><li>Dzudzɔ esime wògakpɔtɔ le vivim. Nuwuwu kaba nye emetsonu nyui aɖe.</li></ul><h2>Azɔ hã le nyatakakadzraɖoƒea</h2><ul><li>Nusiwo woate ŋu ata femaxee: nyawo didi le agbalẽ gãwo me, amadede ƒe axawo, dzeɖoɖogbalẽviwo kple nɔnɔmetata bingo.</li><li>Dɔwɔna ƒe susuwo na akpa ɖesiaɖe, kple mɔfiamewo le fefe ɖekae kple beléle na ɖokuiwò ŋu.</li></ul><p class=\"muted\">Le vivisese kple ɣeyiɣi ɖekae ta. Menye atikewɔlawo ƒe aɖaŋuɖoɖo, dodokpɔ alo atikewɔwɔ o. Sikaɣeyiɣiwo nye esi Cloudjet Solutions Pte ta. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Na Dɔnɔdzikpɔƒewo, Agbalẽdzraɖoƒewo kple Kpekpeɖeŋunahawo",
+      "seoTitle": "Tagbɔdɔléle ƒe Dɔwɔnawo Femaxee na Dɔnɔdzikpɔƒewo kple Ƒuƒoƒowo",
+      "description": "Alesi dɔnɔdzikpɔƒewo, ame tsitsiwo ƒe ŋkeke ɖeka ƒe ɖoɖowo, agbalẽdzraɖoƒewo, ame tsitsiwo ƒe dɔwɔƒewo kple kpekpeɖeŋunahawo zãa míaƒe tagbɔdɔléle ƒe fefe.",
+      "crumb": "Le habɔbɔwo gome",
+      "lede": "Nusianu si le nyatakakadzraɖoƒe sia la nye esi woate ŋu azã faa na afima nɔlawo, hameviwo kple asisiwo, eye womaxɔ akɔntabubu, mɔɖegbalẽ alo fe aɖeke o. Axa sia ɖe nusiwo le afisia kple alesi woamae me.",
+      "shortText": "{name}: nɔnɔmetatafefe siwo me wofa tu le femaxee kple dɔwɔnawo ŋuti mɔfiamewo na amesiwo ŋu tagbɔdɔléle le kple wo dzikpɔlawo. Ame aɖeke meŋlɔ ŋkɔ o, ɣeyiɣidzidzenu aɖeke meli o, dzesi aɖeke meli o.",
+      "longText": "{name} ({domain}) ƒe nudzɔdzɔwo {count} web-fefe siwo wowɔna femaxee na amesiwo ŋu tagbɔdɔléle le, siwo dometɔ aɖewoe nye eve siwo sɔ kple wo nɔewo kple nɔnɔmetata siwo wogblẽ ɖi siwo woɖe fia, jigsaw bɔbɔe aɖe, vovototodedeameme, nya nyanyɛwo kple nɔnɔmetata bingo kple agbalẽvi siwo woate ŋu ata. Akɔntabubu, boblododo, ɣeyiɣidzidzenu alo dzesi aɖeke meli o. Gbegbɔgblɔ bɔbɔe me dɔwɔna ŋuti mɔfiamewo hã le nyatakakadzraɖoƒea na tagbɔdɔléle ƒe akpa ɖesiaɖe si yɔ Dukɔa ƒe Tsitsi Ŋuti Nusrɔ̃ƒe kple Alzheimer Habɔbɔ.",
+      "useTitle": "Nusiwo habɔbɔwo ate ŋu azã",
+      "gamesItemHtml": "<strong>{count} web-browser ƒe fefewo</strong> siwo zɔna le kɔmpiuta, tablɛt alo TV si wotsɔ do ka kple kɔmpiuta dzi. install, account alo download aɖeke meli o. Kpɔ <a href=\"/games/\">fefewo katã</a>.",
+      "printablesLabel": "{count} nusiwo woate ŋu ata:",
+      "printablesAfter": "Zã Ta ƒe dzesi si le axa ɖesiaɖe.",
+      "moreItemsHtml": "<li><strong>Ƒuƒoƒo ƒe ɖoɖowo:</strong> <a href=\"/games/picture-bingo/\">Kpɔ bingo ƒe nɔnɔmetata</a> agbalẽvi siwo woate ŋu ata kple kaƒomɔ̃ si le screen dzi le esi, eye <a href=\"/activities/trivia/\">nya tsɛ bɔbɔewo</a> biabia 50 le esi eye ŋuɖoɖo ƒe tiatia kple nuƒoƒo ƒe nyatiwo le esi.</li><li><strong>Dɔwɔna ŋuti mɔfiamewo</strong> na dɔwɔlawo kple ƒomewo, le afɔɖeɖe kple ƒomevi nu, woŋlɔe ɖe gbegbɔgblɔ si me kɔ me kple dzɔtsoƒewo. Dze egɔme kple <a href=\"/activities/ideas/\">101 dɔwɔna ƒe susuwo</a> alo <a href=\"/activities/care-home-groups/\">ƒuƒoƒo ƒe dɔwɔnawo na belélexɔwo</a>.</li>",
+      "restHtml": "<h2>Alesi ƒuƒoƒowo zãnɛ</h2><ul><li><strong>Dɔnɔdzikpɔƒewo kple ŋkuɖodzinyawo gbɔ kpɔkpɔ:</strong> kpɔ bingo alo nya la wuwu ƒe nɔnɔmetata le xɔ si me amewo katã nɔna ƒe TV dzi, eye ame ɖeka naƒo asi na ƒuƒoƒoa.</li><li><strong>Ame tsitsiwo ƒe ŋkeke ɖeka ƒe ɖoɖowo:</strong> tablet station si me Picture eve siwo woɖo ɖe tile ene dzi, hena ame ɖekaɖeka ƒe ɣeyiɣi kpuiwo.</li><li><strong>Dutoƒo agbalẽdzraɖoƒewo:</strong> nyawo didi kple dzeɖogbalẽvi siwo wota ɖe ŋkuɖodzinuwo me, kple nyatakakadzraɖoƒe si woŋlɔ dzesi na le agbalẽdzraɖoƒe ƒe tablɛtwo dzi.</li><li><strong>Dɔnɔdzikpɔlawo ƒe kpekpeɖeŋunahawo kple ŋkuɖodzinudzraƒewo:</strong> a <a href=\"/handout/\">axa ɖeka ƒe agbalẽvi si woate ŋu ata</a> be ƒomewo natsɔ ayi aƒemee.</li><li><strong>Kɔdziwo kple ɖoɖowɔlawo be woaɖe wo le kɔdzi:</strong> agbalẽvi si wotsɔna naa amewo le dɔnɔdzikpɔlawo ƒe agbawo me, hena nane si woawɔ le aƒeme alo le aba gbɔ le dziɖeɖi me.</li></ul><h2>Nusi míewɔna o</h2><p>Fefeawo nyea dzidzɔkpɔkpɔ kple ɣeyiɣi ɖekae. Womekpɔa tagbɔdɔléle, doa dzesi, dea dzesi, daa dɔ alo ɖea tagbɔdɔ blewu o, eye míele biabiam tso habɔbɔwo si be woagaɖɔ wo nenema o. Boblododo aɖeke meli o, eye fefeawo mebiaa ŋkɔwo, lãmesẽnyawo alo fotowo be woada ɖe Internet dzi o. Nyatakakadzraɖoƒea zãa Google Analytics tsɔ xlẽa sasrãkpɔwo; míaƒe <a href=\"/privacy/\">ame ŋutɔ ƒe nyatakakawo ŋuti nyatakaka</a> ɖe nusi ema ƒoa ƒu me. Foto siwo wozã le <a href=\"/games/photo-pairs/\">Foto eve eve</a> nɔ web-browser la me.</p><h2>Tsɔ mí kpe ɖe wò dɔwɔnuwo ƒe xexlẽdzesi ŋu</h2><p>Ne èŋlɔ dɔwɔnu siwo woatsɔ akpɔ dɔnɔdzikpɔlawo gbɔ la ɖi la, àte ŋu aɖo kadodo ɖe wo ŋu <a href=\"/\">{domain}</a>. Àte ŋu awɔ nuŋlɔɖi eveawo dometɔ ɖesiaɖe ƒe kɔpi.</p>",
+      "shortTitle": "Numeɖeɖe kpui aɖe",
+      "longTitle": "Numeɖeɖe didi wu",
+      "linksHtml": "<p>Axa siwo ŋu viɖe le siwo dzi nàte ŋu aɖo tẽe: <a href=\"/games/\">fefe siwo wowɔna femaxee</a>, . <a href=\"/activities/printable/\">agbalẽ siwo woate ŋu ata femaxee</a>, . <a href=\"/activities/alzheimers/\">dɔwɔna siwo wowɔna na Alzheimer-dɔlélea</a> kple <a href=\"/caregiving/how-to-play-together/\">alesi woafe ɖekae</a>.</p><h2>Nyabiasewo alo ɖɔɖɔɖowo</h2><p>Ne nane si le nyatakakadzraɖoƒea mesɔ o alo mekɔ o, alo nusi le afisia mekpɔ afima nɔla aɖe ƒe nuhiahiãwo gbɔ o la, taflatse gblɔe na mí le <a href=\"mailto:{email}\">{email}</a>. Taflatse mègaɖo ame ŋutɔ alo lãmesẽnyatakaka siwo ku ɖe afima nɔlawo alo amesiwo ŋu wole dɔ wɔm le ŋu o.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Sikaɣeyiɣiwo ƒe Dɔwɔnu",
+      "seoTitle": "Sikaɣeyiɣiwo ƒe Dɔwɔnu si wozãna na iPhone kple Android",
+      "description": "Golden Moments dɔwɔnu si wozãna femaxee: foto siwo sɔ kple tile gã ene fafɛ, ƒomea ƒe foto siwo wodzra ɖo ɖe wò mɔ̃a dzi, nɔnɔmetata siwo mele Internet dzi.",
+      "crumb": "Dɔdamɔnua",
+      "lede": "Nusianu si nèlɔ̃ le nyatakakadzraɖoƒea, le dɔwɔnu si wɔa dɔ le Internet dzi eye wòate ŋu azã ƒomea ƒe foto siwo nètia me.",
+      "worksOn": "Ewɔa dɔ le {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Dze egɔme tso nu sue aɖe dzi</h2><p>Dze egɔme kple tile gã ene kple nɔnɔmetata nyanyɛwo. Na nɔnɔmetatawo nadze, alo ɣla wo ne esia na wò dzi dze eme. Gentle mode mekpɔa ɣeyiɣidzidzenu, dzesi alo tohehe aɖeke o. Tia tile 4, 6, 8 alo 12.</p><h2>Na wòanye ame ŋutɔ tɔ</h2><p>Tia ƒomea ƒe fotowo kple wò mɔ̃a ƒe fotoɖemɔ̃. Dɔdamɔnua dzraa kɔpi suewo ɖo hena eƒe dɔwɔnawo. Mewɔa wò agbalẽdzraɖoƒea ƒe scan alo trɔa wò foto gbãtɔwo o, eye wòléa foto siwo ade 24 ɖe nudzraɖoƒe ɖeka.</p><h2>Ðeko nàlé ŋku ɖe wo nɔewo ŋu</h2><p>Kpɔ nɔnɔmetata ɖeka le ɣeyiɣi ɖeka me. Nya siwo woate ŋu abia tso ame si la kpea dzeɖoɖo evɔ womebia tso ame aɖeke si be wòaɖo ŋku ŋkɔwo dzi alo ana ŋuɖoɖo nyuitɔ o. Kpɔkpɔ dzro ko sɔ gbɔ.</p><h2>Offline le afisi wòle vevie le</h2><p>Gɔmedzedze ƒe nɔnɔmetatawo kple nɔnɔmetata enyiawo katã le dɔwɔnua me. Foto siwo wotsɔ tso duta vɛ la wɔa dɔ le Internet dzi. Ne ètia gbãtɔ siwo wodzra ɖo ɖe iCloud ɖeɖeko me la, ate ŋu ahiã be nàzã internet.</p><h2>Akɔntabubu aɖeke meli o, fotowo ƒe wɔwɔ ɖekae ƒe dɔwɔƒe aɖeke meli o</h2><p>Ƒomea ƒe fotowo ƒe kɔpiwo nɔa dɔwɔnua me le mɔ̃a dzi. Àte ŋu aɖe kɔpiawo ɖa evɔ màtutu gbãtɔawo ɖa o. Mɔ̃a ƒe kɔpiwo ate ŋu anye dɔwɔnua ƒe nyatakakawo. Xlẽ nya sia <a href=\"/app-privacy/\">app ƒe ameŋunyatakakawo ŋuti ɖoɖo</a>, kple <a href=\"/help/\">app ƒe kpekpeɖeŋu</a> zɔna to afɔɖeɖe ɖesiaɖe me.</p>",
+      "disclaimer": "Golden Moments nye modzakaɖeɖe kple dzeɖoɖo ɖekae. Mekpɔa tagbɔdɔ alo Alzheimer ƒe dɔléle, daa dɔ, xea mɔ ɖe enu alo dzidzenɛ o.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Tagbɔdɔléle & Alzheimer ƒe Fefewo Femaxee le Internet dzi",
+    "description": "Fefe siwo wowɔna femaxee le Internet dzi na ame tsitsi siwo ŋu tagbɔdɔ alo Alzheimer dɔléle le: nɔnɔmetatawo ƒe sɔsɔ, jigsaw bɔbɔe, vovototodedeameme.",
+    "crumb": "Fefewo",
+    "h1": "Fefe Fafɛwo Na Ame Siwo Ŋu Tagbɔdɔléle Le",
+    "lede": "{count} fefe siwo nàte ŋu awɔ ɖekae le wò web-browser me femaxee. Nɔnɔmetata gãwo, nya siwo me kɔ, kple naneke si ado kpo nu o: ɣeyiɣidzidzenu aɖeke meli o, dzesi aɖeke meli o, asidede agbalẽ te aɖeke meli o.",
+    "listName": "Fefe fafɛwo na amesiwo ŋu tagbɔdɔléle le",
+    "byStageTitle": "Fefe aɖe tiatia le afɔɖeɖe ɖesiaɖe nu",
+    "byStageLede": "Mɔfiame si me kɔ o koe afɔɖeɖewo nye. Dze nusiwo doa dzidzɔ na amea kple nusiwo wòsena le eɖokui me be yevo egbea yome.",
+    "stageCol": "Fefewɔƒe",
+    "gamesCol": "Fefe siwo sɔ zi geɖe",
+    "moreHtml": "Susu bubuwo le adzɔge tso screen la gbɔ: <a href=\"/activities/ideas/\">101 dɔwɔnawo na amesiwo ŋu tagbɔdɔléle le</a>, . <a href=\"/activities/alzheimers/\">dɔwɔnawo kple fefewo na Alzheimer-dɔlélea</a>, . <a href=\"/activities/memory-games/\">ŋkuɖodzifefe fafɛwo</a> kple <a href=\"/activities/puzzles/\">puzzles ƒe nyawo</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Fefe kae wòle be míadze egɔme tsoe?",
+        "a": "Nɔnɔmetata eve siwo ŋu tile ene le nye tiatia gbãtɔ si me dziɖeɖi le. Ne nɔnɔmetatawo dometɔ tiatia se le ɖokuiwò me be esɔ gbɔ akpa la, dze agbagba Di nu ma ke kple nɔnɔmetata eve. Le ƒuƒoƒo aɖe gome la, te Picture bingo kpɔ."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Ðe fefeawo wɔa dɔ le iPad alo telefon dzia?",
+        "a": "Ɛ̃. Fefe ɖesiaɖe wɔa dɔ le web-browser me le telefonwo, tablɛtwo kple kɔmpiutawo dzi, eye nɔnɔmetataawo tsina va yɔa screen la me. Zi geɖe la, tablɛt si le tsitrenu dzie ame eve ƒe dzi dzea eme wu."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Ðe fefe siawo nyo na amesi ŋu Alzheimer-dɔlélea lea?",
+        "a": "Ɛ̃. Wowɔ wo na amesiwo ŋu tagbɔdɔléle le, si me Alzheimer-dɔ, si nye dɔléle si gbɔ wòtsona wu hã le. Nɔnɔmetatawo nɔa dzedzem, tiatia ʋɛ aɖewo koe li, eye womeɖoa ɣeyiɣi alo dea dzesi naneke o, eyata fefeawo nɔa te ɖe nu nyanyɛwo dzedze dzi tsɔ wu be woaɖo ŋku yeyewo dzi."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Ðe ŋkuɖodzifefe siawo nye ame tsitsiwo tɔa?",
+        "a": "Wonye fefe siwo sɔ kple wo nɔewo kple nɔnɔmetata siwo ame tsitsi ɖesiaɖe ate ŋu ase vivi na, gake wotu wo be woagado ŋkuɖoɖonudzi kpɔ o: le Nɔnɔmetata eve me la, nɔnɔmetataawo nɔa ŋkume ɖe dzi negbe ɖe nètiae bubui hafi. Míaƒe mɔfiamegbalẽ si ku ɖe ŋkuɖodzifefe siwo wowɔna na ame tsitsi siwo ŋu tagbɔdɔléle le ŋu ɖe alesi woawɔ be ŋkuɖodzifefe ɖesiaɖe nafa tu me."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Ðe fefewo li na ƒuƒoƒowo le dɔnɔdzikpɔƒe aɖea?",
+        "a": "Ɛ̃. Picture bingo ƒe agbalẽvi siwo woate ŋu ata kple ame si ƒoa ka na ame le screen dzi, eye Finish the saying kple Conversation cards wɔa dɔ nyuie xexlẽ sesĩe na ƒuƒoƒo aɖe."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad kple Android dzi",
+    "requirements": "iOS 15 alo esiwo do ŋgɔ nɛ; Android 7.0 alo esiwo do ŋgɔ nɛ",
+    "summary": "Dɔdamɔnu si wozãna femaxee na iPhone, iPad kple Android si me nɔnɔmetata siwo sɔ kple wo nɔewo fafɛ le tile gã ene va ɖo wuieve dzi, si sɔ kple ekpɔkpɔ kple ƒomea ƒe foto siwo nètia, kple nɔnɔmetatawo ƒe agba enyi siwo le eme siwo wɔa dɔ internet manɔmee. Akɔntabubu, boblododo, ɣeyiɣidzidzenu alo dzesi aɖeke meli o.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Nɔnɔmetata fafɛ si sɔ kple tile gã 4, 6, 8 alo 12; nɔnɔmetatawo nɔa dzedzem negbe ɖe nètiae be yeaɣla wo hafi",
+      "Woŋlɔa ƒomea ƒe foto siwo nètia la ɖe dɔwɔnua me be woasɔ kple wo nɔewo eye woakpɔ wo ɖekae",
+      "Mikpɔe ɖekae: nɔnɔmetata ɖeka ɖeka kple dzeɖoɖo ƒe mɔfiame siwo miate ŋu awɔ",
+      "Nɔnɔmetata enyi siwo wotsɔ kpe ɖe dɔwɔnua ŋu; wowɔa dɔ le Internet dzi",
+      "Akɔntabubu, boblododowo, nuƒle le dɔwɔnua me, ɣeyiɣidzidzenu, dzesi alo tohehe aɖeke meli o"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Ðe tagbɔdɔléle ƒe dɔwɔnawo ƒe dɔwɔnu aɖe lia?",
+        "a": "Ɛ̃. Sikaɣeyiɣiwo (woŋlɔe be \"{storeName}\") nye femaxee le App Store kple Google Play. Enaa nɔnɔmetatawo ƒe sɔsɔ fafɛ kple tile gãwo, fefe siwo me ƒomea ƒe foto siwo nètia, kple nɔnɔmetatawo ƒe babla siwo wɔa dɔ le Internet dzi."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Ðe Golden Moments dɔwɔnua femaxeea?",
+        "a": "Ɛ̃. Woate ŋu awɔ eƒe kɔpi femaxee, eye boblododo, akɔnta alo nuƒle le dɔwɔnua me aɖeke mele eme o."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Ðe dɔwɔnua wɔa dɔ internet manɔmeea?",
+        "a": "Ɛ̃. Gɔmedzedze ƒe nɔnɔmetatawo kple nɔnɔmetata enyiawo katã le dɔwɔnua me, eye ƒomea ƒe fotowo wɔa dɔ le Internet dzi ne wonya kɔpi wo ɖe dɔwɔnua me ko. Foto si wodzra ɖo ɖe iCloud me ɖeɖeko tiatia ate ŋu ahiã be nàdo ka."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Ðe mate ŋu azã mía ŋutɔwo ƒe ƒomea ƒe fotowoa?",
+        "a": "Ɛ̃. Tia fotowo kple wò mɔ̃a ƒe fotoɖemɔ̃. Dɔdamɔnua dzraa kɔpi suewo ɖo ɖe mɔ̃a dzi hena eƒe dɔwɔnawo, medaa wo ɖe Internet dzi o eye metrɔa gbãtɔawo gbeɖe o. Àte ŋu aɖe kɔpiawo ɖa ɣesiaɣi."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Ðe wònye ahɔhɔ̃mekadodo alo ŋkuɖoɖonudzi dodokpɔ ƒe dɔwɔnua?",
+        "a": "Ao, Golden Moments nye vivisese kple ɣeyiɣi ɖekae. Dzesi alo dodokpɔ aɖeke mele esi o, eye mekpɔa tagbɔdɔ alo Alzheimer ƒe dɔléle, daae, xea mɔ ɖe enu alo dzidzenɛ o."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Mɔ̃ kawo dzie wòwɔa dɔ le?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Ðe fefe sia ƒe dɔwɔnu aɖe li?",
+      "a": "Ɛ̃. Golden Moments dɔwɔnu si wozãna femaxee na iPhone, iPad kple Android la ƒe nɔnɔmetatawo ƒe sɔsɔ fafɛ ɖeka ma ke, ate ŋu azã ƒomea ƒe foto siwo nètia, eye wòwɔa dɔ le Internet dzi. Akɔntabubu, boblododo alo dzesi aɖeke meli o."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Ðe fefe sia ƒe dɔwɔnu aɖe li?",
+      "a": "Menye fefe sia tɔ o. Golden Moments dɔwɔnu si wozãna femaxee na iPhone, iPad kple Android la ƒe nɔnɔmetatawo sɔna fafɛ kple tile gãwo kple ƒomea ƒe foto siwo nètia, eye wòwɔa dɔ le Internet dzi. Fefe sia nɔa femaxee le afisia le wò web-browser me."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: nɔnɔmetata gã siwo me xɔlɔ̃wɔwɔ le",
+    "noscript": "Fefe sia hiã be nàʋu JavaScript le wò web-browser me. Aɖaŋuɖoɖo siwo le ete la wɔa dɔ ema manɔmee.",
+    "about": "Ku ɖe {name}",
+    "aboutAria": "Le fefe sia ŋu",
+    "noTimer": "Ɣeyiɣidzidzenu alo dzesi aɖeke meli o",
+    "printable": "Woate ŋu atae",
+    "howTo": "Ale si woafe {name}",
+    "tips": "Aɖaŋuɖoɖo siwo ku ɖe fefe ɖekae ŋu",
+    "newToPlayingHtml": "Nu yeyee nèle fefem kple amesi ŋu tagbɔdɔ le? Xlẽ <a href=\"/caregiving/how-to-play-together/\">alesi woawɔ fefe ɖekae</a>, si me nusi woawɔ ne womegatsɔ ɖeke le eme o hã le.",
+    "moreAria": "Nu geɖe siwo ŋu nàku nu me le",
+    "helpfulGuides": "Mɔfiame siwo kpena ɖe ame ŋu",
+    "appTitle": "Ƒoe le dɔwɔnua me",
+    "appText": "Golden Moments dɔwɔnu si wozãna femaxee la ƒe nɔnɔmetatawo sɔ kple tile gãwo kple wò ŋutɔ wò ƒomea ƒe fotowo fafɛ, eye wòwɔa dɔ Wi‐Fi manɔmee. iPhone, iPad kple Android dzi.",
+    "photoAppTitle": "Na wò fotowo nanɔ klalo",
+    "photoAppText": "Le Golden Moments dɔwɔnu si wozãna femaxee me la, foto siwo nètia la nɔa wò mɔ̃a dzi ɣebubuɣi, eye fefewo wɔa dɔ Wi‐Fi manɔmee. iPhone, iPad kple Android dzi.",
+    "goodToKnow": "Enyo be nànya",
+    "goodToKnowText": "Fefe sia nye modzakaɖeɖe kple ɣeyiɣi ɖekae. Medoa naneke kpɔna, dzidzea naneke alo daa atike nɛ o.",
+    "moreGames": "Fefe siwo me tufafa le wu",
+    "crumb": "Fefewo"
   }
 }

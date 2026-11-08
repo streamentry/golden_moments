@@ -68,7 +68,14 @@ export default function PictureBingo(props: PlayProps) {
             <ChoiceChips legend={ui.pictureBingo.squaresLegend} choices={squareChoices} value={squares} onChange={setSquares} />
             <ChoiceChips legend={ui.pictureBingo.cardsLegend} choices={playerChoices} value={players} onChange={setPlayers} />
             <div className="btn-row">
-              <button type="button" className="btn" onClick={() => window.print()}>
+              <button
+                type="button"
+                className="btn"
+                onClick={() => {
+                  sounds.tap();
+                  window.print();
+                }}
+              >
                 <Icon name="print" />
                 {fill(plural(ui.pictureBingo.print, players, lang), { n: players })}
               </button>

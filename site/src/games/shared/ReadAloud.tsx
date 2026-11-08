@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { readAloud, speechOf, stopReading, type SpeechLike } from '../../lib/games/readAloud';
 import type { PlayUi } from '../../i18n/play';
 import { Icon } from './Icon';
+import { sounds } from './sound';
 
 interface ReadAloudProps {
   ui: PlayUi;
@@ -44,6 +45,7 @@ export function ReadAloud({ ui, lang, text }: ReadAloudProps) {
   if (!synth) return null;
 
   const toggle = () => {
+    sounds.tap();
     if (speaking) {
       stopReading(synth);
       setSpeaking(false);

@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Lako ki na lewena levu",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Na itaviqaravi ni mate ni vakasama",
+    "homeLabel": "Na gauna koula e vale",
+    "mainNav": "Levu",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Vosa Vakaviti",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Gauna Koula: iyaloyalo lelevu, veimaliwai ni dua na bilo ti, dua na matanisiga kei na dua na koli",
+    "languages": "Vosa",
+    "englishOnly": "(Vosa vakavalagi)",
+    "machineTranslated": "Na draunipepa oqo e vakadewataki vakataki koya ka se bera ni dikevi mai vua e dua na dauvosa vakaitaukei.",
+    "readOriginal": "Wilika na kena itukutuku taumada ena vosa vakavavalagi .",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Qito",
+      "activities": "Ka e vakayacori",
+      "caregiving": "Veiqaravi",
+      "brainHealth": "Bulabula ni uto"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Taro kei na kena isau .",
+    "breadcrumb": "Na madrai",
+    "home": "Vale",
+    "lastUpdated": "iOtioti ni vakavoui",
+    "topics": "Ulutaga",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Levu ni ivola",
+      "smaller": "Na ivola tudei",
+      "larger": "Vosa levu cake",
+      "contrast": "Veisaqasaqa cecere"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Qito",
+    "picturePairs": "Veiwatini ni iyaloyalo",
+    "conversationCards": "Kadi ni veivosaki",
+    "pictureBingo": "Bingo ni iyaloyalo",
+    "allGames": "Na qito kece",
+    "pictures": "Na iyaloyalo me tabaki",
+    "activityIdeas": "Vakasama ni itaviqaravi",
+    "ideas101": "101 vakasama ni itaviqaravi",
+    "lateStage": "Na itaviqaravi ni gauna ni bera",
+    "printable": "Na itaviqaravi e rawa ni tabaki",
+    "allActivities": "Na itaviqaravi kece",
+    "forCaregivers": "Vei ira na dauveiqaravi .",
+    "playTogether": "Na sala ni qito vata .",
+    "selfCare": "Na qaravi iko vakataki iko .",
+    "brainHealth": "Vakadidike ni bula ni uto",
+    "faq": "Taro kei na kena isau .",
+    "about": "Rauta ni",
+    "approach": "Na noda iwalewale .",
+    "howWeWrite": "Na sala eda volavola kina .",
+    "organizations": "Me baleta na veisoqosoqo",
+    "app": "Na app ni gauna koula",
+    "appHelp": "Veivuke ni app",
+    "support": "Veitokoni",
+    "legal": "Vakalawa",
+    "sitePrivacy": "Na itukutuku ni itukutuku",
+    "appPrivacy": "Lawa ni veika vakailavo ni app",
+    "privacyChoices": "Digidigi ni bula vakaitaukei",
+    "terms": "Na ivakarau kei na laiseni ni app",
+    "safety": "Veitaqomaki kei na kena vakayagataki",
+    "accessibility": "Rawa ni curu",
+    "healthNotice": "Na itukutuku ni bula",
+    "allLegal": "Na itukutuku kece vakalawa .",
+    "note": "Na gauna koula e solia na itaviqaravi rawarawa ni veiwasei me baleta na marau. E sega ni ivakasala vakavuniwai, e dua na veivakatovolei se dua na veiqaravi, ka sega ni vakadikeva, vakarautaka se sikoa e dua. Me baleta na taro ni bula, veitalanoa kei na dua na vuniwai. Ena dua na leqa tubukoso, qirita na 911.",
+    "publisher": "Tabaki mai na iwali ni o Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Na qito kei na itaviqaravi ni mate ni vakasama & Alzheimer | Gauna Koula",
+    "description": "Qito ni iyaloyalo galala, malumu me qito ena initaneti kei na vakasama ni itaviqaravi vei ira na tamata era bula vata kei na mate ni vakasama se Alzheimer.",
+    "eyebrow": "Galala · Sega na ad · Sega na saini · Sega na gauna se sikoa",
+    "h1": "Qito malumu & Cakacaka vei ira na tamata e tauvi ira na mate ni vakasama",
+    "lede": "Na qito rawarawa ni iyaloyalo, itaba kilai levu, kei na itaviqaravi mo marautaka vata﻿—ena nomu gauna ga.",
+    "playGame": "Qito e dua na Qito",
+    "findIdeas": "Vaqara na vakasama ni itaviqaravi .",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Cakacaka ena talevoni, tablet kei na kompiuta",
+      "Na iyaloyalo lelevu e vakaraitaka tikoga",
+      "Tu ena dua na gauna; sega ni dua na ka me cala"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Talega e dua na app galala me baleta na iPhone, iPad kei na Android, vata kei na nomu itaba ni matavuvale .",
+    "albumNote": "“Rua na iyaloyalo ni bilo ti, vata.”",
+    "gamesEyebrow": "Qito ena nomu barausa .",
+    "gamesTitle": "Qito e rawa ni o qitora ena gauna oqo",
+    "gamesLede": "Era dui vakacegu, qase ka totolo na nodra tekivu. Digitaka e dua, dabe veibasai, ka veisosomitaki ena nomu tabaka.",
+    "seeAllGames": "Raica kece {count} qito",
+    "howTitle": "Na sala e cakacaka kina",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Digitaka e dua na ka kilai levu",
+        "text": "Na iyaloyalo ni ti, iteitei, manumanu kei na waqavuka. Sega na wilivola se lawa me vulici taumada."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Dabe veibasai",
+        "text": "Me ra tabaka. Veivosakitaka na iyaloyalo. E dua na sega ni veiganiti e waraka ga na tap e tarava."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Tu vakadua ni sa vakila vinaka",
+        "text": "E dua na qito e dua na itaviqaravi taucoko. “Sa oti ena gauna oqo” e dau tu ga ena sikirini."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Ena taudaku ni sikirini",
+    "stageTitle": "Vakasama ni itaviqaravi me baleta na veigauna yadua",
+    "stageLede": "Na ivakatagi, cakacaka ni veisiga, vakanananu kei na gauna ni vakasama vakanomodi, veisautaki ki na veika e vakila vakacegu ena gauna oqo.",
+    "ideas101": "101 vakasama ni itaviqaravi",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Na gauna taumada",
+        "text": "Cakava tikoga na veika era taleitaka, ena veisau lalai: veika e taleitaki, veisiko, qito ni vosa kei na tuvatuva vata.",
+        "label": "Na vakasama taumada"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Etapa ni lomadonu",
+        "text": "Rawarawa, kilai levu na cakacaka wasei ki na ikalawa: folding, vakarautaki, ivakatagi, qito ni iyaloyalo kei na lako lekaleka.",
+        "label": "Na vakasama ni lomadonu"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Na gauna e muri",
+        "text": "Veivakacegui kei na veiwekani ena veitaratara, rorogo kei na rai: qaravi ni liga, sere taleitaki, itaba kei na tiko vata.",
+        "label": "Na vakasama e muri"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Vakasaqara tiko e dua na ka vakatabakidua? Tovolea <a href=\"/activities/alzheimers/\">itaviqaravi kei na qito me baleta na mate ni Alzheimer</a>, <a href=\"/activities/memory-games/\">qito malumu ni vakanananu</a>, <a href=\"/activities/trivia/\">ka rawarawa</a> se <a href=\"/activities/puzzles/\">puzzle</a>.",
+    "approachEyebrow": "Na noda iwalewale .",
+    "approachTitle": "E dua na itaviqaravi wasei, sega ni veivakatovolei ni vakanananu .",
+    "approachLede": "E vuqa na “qito ni uto” era tara wavolita na totolo, sikoa kei na streaks. Vei koya e bula tiko kei na mate ni vakasama ka rawa ni vakila me vaka e dua na veitarogi. Keitou tara na kena veibasai.",
+    "approachLink": "Na cava eda droinitaka kina vakaoqo",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Sega ni dua na ka me cala .",
+        "text": "Sega na kaloko, sikoa, bula se lusi. Na iyaloyalo duidui e dua na cegu, sega ni cala."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Na iyaloyalo e vakaraitaka tikoga",
+        "text": "Na kilai mai na vakanananu. Na veiganiti e tekivu mata cake, sa sega kina ni dua na ka me nanumi."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Vakaitavi kei na dokai .",
+        "text": "Na vosa katakata, matata kei na iyaloyalo dina ni vuravura. Sega vakadua ni katoni se vosa ni bebe."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Vakaitaukei ena kena ituvatuva",
+        "text": "Sega na akaude se ads. Na nomu itaba e sega vakadua ni biuta na nomu misini."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Vei ira na dauveiqaravi .",
+    "guidesTitle": "Na idusidusi yaga me baleta na veiqaravi ena veisiga .",
+    "allCaregiving": "Na idusidusi kece ni veiqaravi .",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Na sala ni qito vata .",
+        "text": "Vakarautaka, totolo, kei na ka mo cakava ni sa mudu na kena marautaki e dua na qito."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Ni ra kaya sega ki na dua na itaviqaravi .",
+        "text": "Na vuna e dau yaco kina na sega ni vakadonuya, kei na sala malumu me tovolea tale kina e muri."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Vakarautaka e dua na tebeleti .",
+        "text": "Na ivola levu cake, lailai na veivakataotaki kei na dua ga na sikirini ni vale rawarawa."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Na itaviqaravi ni tabaki sega ni saumi",
+        "text": "Vakasaqaqara ni vosa tabaki levu, draunipepa ni roka, bingo kei na kadi ni veivosaki."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Bulabula ni uto: na cava e tukuna dina na vakadidike",
+    "researchText": "E rawa beka ni tarovi na mate ni vakasama? E veivuke beka na qito ni uto? Vakacava na lolo, kakana, moce kei na rogo? Na isaunitaro matata, ka vakaivurevure, oka kina na vanua e malumalumu kina na ivakadinadina.",
+    "researchLink": "Wilika na idusidusi ni vakadidike .",
+    "appEyebrow": "Talega e dua na app",
+    "appTitle": "Gauna koula ena iPhone, iPad kei na Android",
+    "appText": "Na app galala e cakacaka ena initaneti ka rawa ni vakayagataka na itaba ni matavuvale o digitaka, maroroi me vaka na ilavelave ena nomu misini. Na ituvatuva vakacegu vata ga: va na tile lelevu, sega na gauna, sega na sikoa.",
+    "aboutApp": "Me baleta na app",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Na cava na qito vinaka vei ira na tamata e tauvi ira na mate ni vakasama?",
+        "a": "Na qito vinaka e rawarawa, kilai levu ka galala mai na veivakasaurarataki: iyaloyalo lelevu me veiganiti, vakarautaki, jigsaws rawarawa, vakaotia na vosa kilai levu, roka, iyaloyalo bingo kei na kadi ni veivosaki. Na digidigi vinaka duadua sai koya na kena e marautaka na tamata nikua. Mo kakua ni vakayagataka na gauna, na sikoa kei na dua na ka e vakila me vaka e dua na veivakatovolei."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "E galala beka na qito ni vakasama oqo?",
+        "a": "Io. Na qito kece kei na tabaki ena gauna koula e galala, ka sega na akaude, saini-cake se lavetaki. Na qito e cici ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "E tarova beka na mate ni vakasama na qito ni uto?",
+        "a": "E sega ni dua na qito e vakaraitaki me tarova na mate ni vakasama, ka sega ni tukuna na Golden Moments me qarava se tarova e dua na ka. Na neitou qito e baleta na marau kei na gauna vata. Na noda tabana ni bula ni uto e vakamacalataka na veika e cakava kei na veika e sega ni vakaraitaka na vakadidike."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "E veiganiti beka na qito oqo vua e dua e tauvi koya na mate ni Alzheimer?",
+        "a": "Io. Na mate ni Alzheimer e dau vakavuna vakalevu na mate ni vakasama, ka sa caka na qito me baleta na kena: na iyaloyalo lelevu ka vakaraitaki tikoga, lailai na digidigi, ka sega ni dua na ka me nanumi se cala. Na veiganiti, veiwasei kei na vakaoti ni vosa kilai levu e vakararavi ki na kila ka sa dede tu mai ka sega ni vuli vou."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "E rawa beka vua e dua e tauvi koya na mate ni vakasama e muri me vakayagataka na itaviqaravi oqo?",
+        "a": "Vakavuqa, io, kei na dua e yasadra. Tekivu ena Vaqara na ka vata ga kei na rua na iyaloyalo, Veiwatini ni iyaloyalo kei na va na tile, e dua na draunipepa ni roka se dua na cegu ni cegu vakacegu. Me lekaleka ga, muria na nodra veidusimaki ka cegu ni sa rauta vei ira."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "E vakatabui beka na noqu itukutuku?",
+        "a": "Na vanua e sega kina na akaude ka sega na kena veivakamarautaki. Eda vakayagataka na Google vakadidike me kilai kina na draunipepa cava e sikovi. Na itaba o digitaka me baleta na veiwatini ni itaba e vakaraitaki ga ena nomu barausa ka sega vakadua ni vakau cake."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "O cei e cakava na Gauna Koula?",
+        "a": "Na gauna koula e dua na timi lailai e cakava na vakacegu, itaviqaravi ni iyaloyalo ni tamata qase me baleta na matavuvale kei na dauveiqaravi, ena itukutuku kei na dua na app galala. Keitou sega ni vuniwai, ka sega ni dua na ka eke na ivakasala vakavuniwai."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "totolo",
+    "middle": "loma",
+    "late": "muri",
+    "hintOne": "E dau sutu {list} ivakatagedegede",
+    "hintMany": "E dau sutu {list} veitarataravi",
+    "labelEarly": "Na gauna taumada",
+    "labelMiddle": "Etapa ni lomadonu",
+    "labelLate": "Na gauna e muri"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Me baleta na qito oqo .",
+    "printable": "Rawa ni tabaki",
+    "play": "Qito {name} →",
+    "readGuide": "Wilika na idusidusi ."
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Vakarau tu ki na dua na qito malumu?",
+    "text": "Na iyaloyalo lelevu, sega na timer, sega na sikoa ka sega na ka me sainitaki kina. Qito vata ena nomu barausa.",
+    "play": "Qito e dua na Qito",
+    "all": "Raica na qito kece",
+    "aria": "Qito e dua na qito"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
-    "appStoreShort": "App Store",
-    "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "title": "Kauta vata kei iko na qito oqo .",
+    "text": "Na app ni gauna koula galala me baleta na iPhone, iPad kei na Android: taile ni iyaloyalo lelevu, qito kei na nomu itaba ni matavuvale, kei na pakete ni iyaloyalo e cakacaka ka sega na Wi‐Fi. Sega na akaude, ads, gauna se sikoa.",
+    "appStore": "Raica ena sitoa ni App .",
+    "googlePlay": "Raica ena qito ni Google",
+    "appStoreShort": "Sitoa ni App",
+    "googlePlayShort": "Qito ni Google",
+    "about": "Me baleta na app",
+    "aria": "Taura na app"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Ka e vakayacori",
+      "title": "Cakacaka vei ira na tamata e tauvi ira na mate ni vakasama",
+      "seo": "Na itaviqaravi vei ira na tamata e tauvi ira na mate ni vakasama: Vakasama ena veitabana",
+      "description": "Na vakasama ni itaviqaravi vei ira na tamata era bula vata kei na mate ni vakasama ena veigauna kecega: ivakatagi, vakanananu, cakacaka ni veisiga, gauna.",
+      "lede": "Na itaviqaravi vakaibalebale sai koya e dua na ka e kauta mai na veivakacegui, inaki se dua na gauna ni veiwekani. Tekivu ena ka e dau taleitaka na tamata oya, qai veisautaka me salavata kei na gauna oqo."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Veiqaravi",
+      "title": "iDusidusi ni Veiqaravi",
+      "seo": "iDusidusi ni Veiqaravi ni Dementia: Veivuke Yaga ena Veisiga",
+      "description": "Na idusidusi yaga, yalololoma vei ira na dauveiqaravi ni mate ni vakasama: qito vata, veitaratara, sega ni vakadonuya, vakacegu ena siga ni bera na siga.",
+      "lede": "Veivuke matata, yaga me baleta na gauna ni veisiga ni qaravi ni dua e bula tiko kei na mate ni vakasama, oka kina na nomu qaravi iko."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Bulabula ni uto",
+      "title": "Bulabula ni Uto: Na Ka e Kaya na Vakadidike",
+      "seo": "Bulabula ni uto kei na leqa ni mate ni vakasama: Na cava e kaya na vakadidike",
+      "description": "E rawa beka ni tarovi na mate ni vakasama? Na idusidusi dina, sourced ki na veika rerevaki ni dementia, qito ni uto, lolo, kakana, vakaukauwa yago, moce.",
+      "lede": "Na cava na vakadidike lelevu e vakaraitaka dina me baleta na vakalailaitaki ni leqa ni dementia, vakamacalataki vakamatata, oka kina na vanua e malumalumu kina na ivakadinadina se veiwaki. Na itukutuku raraba, sega ni ivakasala vakavuniwai."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Vakavoui",
+    "minuteRead": "{n} miniti ni wiliwili",
+    "byTeam": "Mai na timi ni Gauna Koula",
+    "howWeWrite": "Na sala eda volavola kina .",
+    "shortAnswer": "Na kena isau lekaleka .",
+    "onThisPage": "Ena draunipepa oqo ({n} iwasewase)",
+    "commonQuestions": "Na taro dau tarogi",
+    "sources": "iVurevure",
+    "sourcesNote": "Eda semati ki na veisoqosoqo kei na vuli e vakararavi kina na draunipepa oqo. E dau dikevi yadua ena gauna e vakavoutaki kina na draunipepa.",
+    "tryTogether": "Tovolea vata .",
+    "relatedGuides": "Na idusidusi veiwekani",
+    "related": "Veiwekani",
+    "startHere": "Tekivu eke"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Na itukutuku ni bula",
+    "title": "Na itukutuku raraba, sega ni ivakasala vakavuniwai .",
+    "textHtml": "Na draunipepa oqo e vakalekalekataka na vakadidike tabaki me baleta na matavuvale. E sega ni rawa ni tukuna vei iko na ka e dodonu vua e dua na tamata. Veivosaki kei na dua na vuniwai ni bera ni o veisautaka na kakana, vakaukauwa yago, moce, wainimate se ikuri ni kakana. Me baleta na veilecayaki vakasauri se so tale na veisau vakasauri, kere veivuke vakavuniwai ena gauna sara ga oqo. <a href=\"/medical-disclaimer/\">Wilika na neitou itukutuku ni bula .</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Na Cakacaka Wasei, Sega ni Veivakatovolei ni Vakananumi .",
+      "seoTitle": "Me baleta na Gauna Koula: Na Noda iwalewale .",
+      "description": "Na cava na vuna e sega kina na timers, sikoa se streaks na qito ni gauna koula, na cava na vuna e vakaraitaka tiko kina na iyaloyalo, kei na cava eda na.",
+      "crumb": "Na noda iwalewale .",
+      "lede": "Na gauna koula e cakava na vakacegu, itaviqaravi ni iyaloyalo ni tamata qase ka rawa ni marautaka vata e dua na dauveiqaravi kei na dua e bula tiko kei na mate ni vakasama.",
+      "bodyHtml": "<h2>Na ka eda vakabauta .</h2><p>Na tikina ni dua na itaviqaravi sai koya na gauna sara ga: e dua na veivosaki, e dua na matadredredre, na lomavakacegu ni kena biu vata e rua na iyaloyalo, se dabe voleka walega. E sega ni kena vakarautaki e dua, me vakauqeti ira tale se vakadinadinataka e dua na ka.</p><p>E vuqa na apps ni veivakavulici ni uto era sa vakarautaki wavolita na totolo, sikoa, streaks kei na ivakatagedegede. Vei koya e bula tiko kei na mate ni vakasama ka rawa ni vakila me vaka e dua na veitarogi era sega ni rawa ni sivia. Keitou a bulia na kena veibasai, ka keitou taura matua tiko na lawa oqo:</p><ul><li><strong>Sega ni dua na ka me cala.</strong> Sega na kaloko, sikoa, toso ni wiliwili, bula, veitarataravi, confetti se wiliwili, ena dua na sikirini.</li><li><strong>Na kilai mai na vakanananu.</strong> Na iyaloyalo e vakaraitaki tiko ena kena ivakarau. Na veivakauqeti e sureta na veivosaki ka sega vakadua ni vakataroga na yaca se na veivakanananu.</li><li><strong>Levu, matailalai ka tudei.</strong> Na ivola lelevu kei na iyaloyalo, duidui cecere, kei na lewa e tiko ena dua ga na vanua.</li><li><strong>Na dokai ni tamata qase.</strong> Na iyaloyalo dina kei na vosa matata ka katakata. Sega na katubaleka, sere-sere vakacaucautaki se isau ni emoji.</li><li><strong>E dua na sala rawarawa.</strong> “Sa oti ena gauna oqo” e dau laurai. Na tu vakadua ena veimama ni sala e dua na itinitini vinaka.</li><li><strong>Vakaitaukei ena kena ivakarau.</strong> Sega na akaude se ads. Na itaba o digitaka e tiko ga ena nomu misini.</li></ul><h2>Na ka eda sega ni kerea .</h2><p>Na noda qito e baleta na marau kei na veiwekani. Era sega ni dikeva, vakatovolei, vakarautaka, qarava, vakalailaitaka se tarova na mate ni vakasama se mate ni Alzheimer, ka sega ni dodonu me dua e digitaki ira ena vuku ni ka oqori. Ni da volavola me baleta na vakadidike ena noda . <a href=\"/brain-health/\">draunipepa ni bula ni uto</a>, keitou dau tukuna vakamatata na vanua e malumalumu kina na ivakadinadina, keitou sega vakadua ni semati koya ina neitou qito.</p><h2>O cei o keda</h2><p>Na gauna koula e dua na timi lailai tu vakataki koya. Eda sega ni veiqaravi vakavuniwai. Na noda idusidusi e volai mai na idusidusi tabaki mai vei ira na veisoqosoqo me vaka na Matabose ni Matanitu me baleta na Qase kei na iSoqosoqo ni Alzheimer, kei na idusidusi kece e volai tu kina na kena ivurevure. Wilika <a href=\"/editorial-policy/\">na sala eda volavola kina ka raica na noda draunipepa .</a>.</p><h2>Tukuna vei keitou na cava ena veivuke .</h2><p>Keitou na taleitaka me keitou rogoca na veika e cakacaka vei iko kei na veika e sega, vakabibi mai vei ira na tamata era bula vata kei na mate ni vakasama, dauveiqaravi ni matavuvale kei ira na vakailesilesi ni itaviqaravi. Imeli <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Na sala eda volavola kina kei na noda dikeva na noda tabana .",
+      "seoTitle": "iTuvatuva ni Edita",
+      "description": "Na sala e vakadidike kina na gauna koula, volavola, ivurevure ka vakavoutaka na kena cakacaka ni dementia kei na draunipepa ni bula ni uto, kei na veika.",
+      "crumb": "Lawa ni edita",
+      "bodyHtml": "<h2>Na noda ivurevure .</h2><p>Eda yavutaka na noda idusidusi ena veidusimaki raraba mai na veisoqosoqo me vaka na Inisitute ni Matanitu ena Qase, na CDC, na iSoqosoqo ni Alzheimer, na Yavu ni Alzheimer ni Amerika, na Matavuvale ni Dauveiqaravi ni Matavuvale kei na NHS, kei na vakadidike ni veitokani me vaka na Cochrane railesuva kei na veivakatovolei lelevu ni valenibula. Na idusidusi yadua e volai tu kina na ivurevure e vakararavi kina. Keitou dau dolava na ivurevure yadua ni bera ni keitou cavuta, keitou dau ripotetaka ga na ka e tukuna dina.</p><h2>Na sala eda volavola kina .</h2><ul><li>Vakayagataki taumada: na ka me caka nikua, ena vosa rawarawa.</li><li>Dina me baleta na ivakadinadina: eda kaya “semati vata kei na”, “e rawa ni” kei na “na ivakadinadina e veiwaki” ni sa dina oqori.</li><li>Veidokai: keitou volavola me baleti ira na tamata era bula vata kei na mate ni vakasama ni ra sa qase, ka keitou sega vakadua ni vakayagataka na vosa ni veitarogi se veivakamaduataki.</li><li>Sega na itukutuku e buli: sega na iwiliwili e caka, vosa, kenadau, vuli, railesuva se ivakadinadina.</li></ul><h2>O cei e dau dikeva na noda draunipepa .</h2><p>Na draunipepa e volai ka dikevi mai na timi ni Gauna Koula, ena veivuke mai na iyaya ni volavola ni AI me baleta na vakadidike kei na droini. Na draunipepa yadua e dikevi me baleta na kena ivurevure mai na timi. Na noda tabana e tiko kina . <strong>sega</strong> sa dikevi mai vua e dua na vuniwai se dua tale na vuniwai ni veisele, ka keitou sega ni tukuna ni sega ni vakakina. Era itukutuku raraba, sega ni ivakasala vakavuniwai.</p><h2>Na ka eda na sega vakadua ni tabaka .</h2><ul><li>E kaya ni dua na qito, kakana, ikuri ni kakana, totolo se ivakarau e tarova, qarava, vakalailaitaka se vakabula na mate ni vakasama.</li><li>Na veivakatovolei, veitarogi se sikoa e vakaraitaka ni dua e tiko vua, se sega, na mate ni vakasama.</li><li>Vakasala me tekivu, muduki se veisautaki e dua na wainimate.</li><li>Na veivakamarautaki se na veika e vakailavotaki e vakaisulutaki me idusidusi.</li></ul><h2>Veivakavoui kei na veivakadodonutaki .</h2><p>Na draunipepa yadua e vakaraitaka na iotioti ni siga e vakavoutaki kina. Kevaka o kunea e dua na cala se dua na ivurevure sa oti na kena gauna, yalovinaka imeli . <a href=\"mailto:{email}\">{email}</a> ka keitou na dikeva vakatotolo.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Taro kei na Saumitaro .",
+      "seoTitle": "Qito kei na itaviqaravi ni Dementia: Taro kei na isau",
+      "description": "Na isau ni taro e dau tarogi me baleta na qito kei na itaviqaravi ni dementia: na qito cava me tovolea, na balavu ni gauna me qito kina, vakasama e muri.",
+      "crumb": "Taro kei na kena isau .",
+      "lede": "Na isau lekaleka qai matata ni taro era dau taroga vakalevu na dauveiqaravi.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Me baleta na qito .",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Na cava na qito vinaka duadua vua e dua e tauvi koya na mate ni vakasama?",
+              "a": "Na qito vinaka duadua e kilai levu, rawarawa ka sega ni vakasaurarataki, kei na kena dodonu sai koya na cava ga e taleitaka na tamata nikua. Na iyaloyalo veiganiti kei na iyaloyalo e laurai, vakarautaki, jigsaws rawarawa, vakaotia na vosa kilai levu, roka kei na iyaloyalo bingo kece e cakacaka vinaka vei ira e vuqa na tamata. Mo kakua ni vakayagataka na gauna, na sikoa kei na dua na ka e vakila me vaka e dua na veivakatovolei."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "E galala dina beka na qito?",
+              "a": "Io. Na qito kece kei na printables e galala, ka sega na akaude, saini-cake, lavetaki se veivakamarautaki."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Na cava e sega kina na sikoa, ivakatagedegede se gauna?",
+              "a": "Na totolo kei na sikoa e veisautaka e dua na itaviqaravi taleitaki me dua na veitarogi, ka rawa ni kauta mai na madua se veilecayaki. Eda maroroya na vakasama ena marau kei na gauna vata, sa sega kina ni dua na ka me cala ka rawa ni o cegu ena dua na gauna."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Na iyaya cava e cakacaka vinaka duadua?",
+              "a": "Na talevoni cava ga, tebeleti se kompiuta kei na dua na barausa ni itukutuku ni gauna oqo. Na tablet ena dua na itutu ena dua na teveli e dau sala vakacegu duadua vei rau e rua na tamata me rau qito vata. Na laptop e semati ki na dua na TV e cakacaka vinaka vei ira na ilawalawa."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "E rawa beka ni da qitotaka na noda dui itaba ni matavuvale?",
+              "a": "Io. Na itaba veiwatini e vukica na 2 ki na 6 na itaba o digitaka ki na dua na qito veiganiti. Na itaba e tiko ena nomu barausa ka sega ni vakau se maroroi."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Na itaviqaravi kei na veiqaravi .",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "E dodonu me vakacava na balavu ni dua na itaviqaravi?",
+              "a": "E dau 10 ki na 20 na miniti e levu, ka so na gauna e 2 na miniti e dua na rawaka. Raica na ivakatakilakila ni oca se veilecayaki ka cegu ni se vakila tikoga na vinaka. E sega ni dua na kena levu dodonu."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Vakacava ke ra sega ni via cakava e dua na itaviqaravi?",
+              "a": "Doka na sega, qai tovolea tale e muri se ena dua tale na sala. Na veibeitaki e rawa ni lako mai na oca, mosi, vakila ni sega ni vakadeitaki se sega walega ni taleitaka. Raica na noda idusidusi ena ka mo cakava ni ra kaya sega."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Na itaviqaravi cava e ganita na mate ni vakasama e muri?",
+              "a": "Na veivakacegui kei na veivakasama: vakarorogo ki na ivakatagi taleitaki, masima na liga ena lotion, raica vata na itaba, taura e dua na ivava malumu, dabe e tautuba, se dua na qito ni iyaloyalo rawarawa sara kei na dua e yasadra. Na noda idusidusi e muri e tiko kina e vuqa tale na vakasama."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "E tiko beka na itaviqaravi me baleta na ilawalawa ena dua na vale ni veiqaravi?",
+              "a": "Io. Bingo ni iyaloyalo e tiko kina na kadi tabaki kei na dua na dauqito ena sikirini, kei na Vakaotia na vosa kei na kadi ni veivosaki cakacaka vinaka wiliki vakadomoilevu. Na noda idusidusi ni ilawalawa ni vale ni veiqaravi e kovuta na levu ni ilawalawa, dabedabe kei na veisautaki me baleta na rawaka veiwaki."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Bulabula ni uto",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "E rawa beka ni tarova se vakalailaitaka na mate ni vakasama na qito?",
+              "a": "E sega ni dua na qito e vakaraitaki me tarova na mate ni vakasama, ka sega ni dua na ka e tukuna na noda qito. Na veivakauqeti ni vakasama ena dua na ituvatuva ni veimaliwai e vakaraitaka na yaga lailai ena vakadidike vei ira na tamata e tiko vei ira na mate ni vakasama malumu ki na veimama, ia e duidui oqori mai na dua na qito e tarova na mate. Eda solia na qito me baleta na marau kei na veiwekani."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "E rawa beka ni tarovi na mate ni vakasama?",
+              "a": "Sega ni vakadeitaki. Na vakadidike e semati kina e 14 na bula kei na ivakarau ni bula kei na leqa ni mate ni vakasama, me vaka na sega ni rogo vinaka, tubu ni dra, sega ni cakacaka vakayago kei na veimaliwai vakaveiwekani. Na kena wali vei ira ena rawa ni vakalailaitaka na leqa vei ira eso na tamata, ia e vuqa na tamata era cakava na ka kecega dodonu era se tauvi ira tikoga na mate ni vakasama. E sega vakadua ni cala ni dua."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "E vinaka beka na lolo vakalekaleka me baleta na bula ni uto?",
+              "a": "E lailai qai se qai tekivu ga na ivakadinadina ni tamata, qai levu na vakadidike e caka vei ira na manumanu. Na lolo e rawa ni rerevaki vei ira na qase, vakabibi ena wainimate ni matenisuka se sega ni nakita na vakayali ni bibi, ka sega ni vakatututaki vei ira na tamata era bula vata kei na mate ni vakasama. Veivosaki kei na dua na vuniwai ni bera ni o veisautaka na nomu kana."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Na veika vakaitaukei kei na veitaqomaki .",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "O dau kumuna beka e dua na itukutuku?",
+              "a": "Sega na akaude se ads. Eda vakayagataka na Google Analytics me wiliki na veisiko ka raica na draunipepa cava e veivuke, kei na nomu barausa e nanuma tiko kevaka o sa vukica na rorogo malumu ena. Na itaba o digitaka me baleta na veiwatini ni itaba e sega vakadua ni vakau. Raica na itukutuku ni veivakadeitaki me baleta na kena matailalai."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "E ivakasala vakavuniwai beka oqo?",
+              "a": "Sega Na gauna koula e baleta na veivakamarautaki kei na itukutuku raraba. Me baleta na taro ni bula, veitalanoa kei na dua na vuniwai, kei na leqa tubukoso qirita na 911."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Na kena itukutuku matailalai: <a href=\"/caregiving/how-to-play-together/\">sala me da qito vata kina</a>, <a href=\"/caregiving/when-they-say-no/\">ni ra kaya sega .</a>, <a href=\"/activities/late-stage/\">itaviqaravi e muri</a> kei <a href=\"/brain-health/can-dementia-be-prevented/\">e rawa ni tarovi na mate ni vakasama?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Qito galala, malumu vei ira na tamata era bula vata kei na mate ni vakasama",
+      "seoTitle": "Tabaki ni ivola: Qito ni Dementia galala ena Initaneti",
+      "description": "E dua na ivola tabaki e dua na draunipepa me baleta na matavuvale kei na dauveiqaravi me baleta na qito ni iyaloyalo galala, malumu me baleti ira na.",
+      "crumb": "Pepa ni veisolisoli e rawa ni tabaki",
+      "lede": "Tabaka na draunipepa oqo me baleta e dua na ilawalawa ni veitokoni, pakete ni qaravi se na katuba ni friji. Vakayagataka na nomu barausa ni tabaka na ivakaro; na menu kei na baqe e biu tu mai na tabaki.",
+      "introHtml": "<p>Na iyaloyalo lelevu, vosa matata ka sega ni dua na ka me cala. Galala ena dua na talevoni, tebeleti se kompiuta, ka sega na saini-cake, sega na ads, sega na timers ka sega na sikoa. Mo dabe veitikivi ka veisosomitaki.</p>",
+      "gamesTitle": "Qito me da tovolea vata .",
+      "restHtml": "<h2>E vica na ivakasala</h2><ul><li>Digitaka e dua na gauna ni siga e tiko kina na tamata ena nona vinaka duadua.</li><li>Tekivu ena ituvatuva rawarawa duadua. Va na tile e levu.</li><li>Veivosakitaka na iyaloyalo. Na veivosaki e dau tiki vinaka duadua.</li><li>Tu vakadua ni se vakila tikoga na marau. Na kena tini vakatotolo e dua na itinitini vinaka.</li></ul><h2>Talega ena vanua .</h2><ul><li>Tabaki galala: vakasaqaqara ni vosa tabaki levu, draunipepa ni roka, kadi ni veivosaki kei na bingo ni iyaloyalo.</li><li>Na vakasama ni itaviqaravi me baleta na veitabana yadua, kei na idusidusi ena qito vata kei na nomu qaravi iko.</li></ul><p class=\"muted\">Me baleta na marau kei na gauna vata. Sega ni ivakasala vakavuniwai, e dua na veivakatovolei se dua na veiqaravi. Na gauna koula e tabaki mai na iwali ni Cloudjet Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Me baleta na veivale ni veiqaravi, valenivolavola kei na ilawalawa ni veitokoni",
+      "seoTitle": "Na veiqaravi ni Dementia sega ni saumi me baleta na veivale ni veiqaravi kei na ilawalawa",
+      "description": "Na sala era vakayagataka kina na vale ni veiqaravi, parokaramu ni siga ni tamata qase, valenivola, galala ni digidigi ni qase kei na ilawalawa ni.",
+      "crumb": "Me baleta na veisoqosoqo",
+      "lede": "Na veika kece ena vanua oqo e galala me vakayagataki vata kei ira na lewenivanua, lewenilotu kei na kasitama, ka sega na akaude, laiseni se isau. Na draunipepa oqo e vakamacalataka na veika e tiko eke kei na sala me wasei kina.",
+      "shortText": "{name}: qito ni iyaloyalo galala, malumu kei na idusidusi ni itaviqaravi vei ira na tamata era bula vata kei na mate ni vakasama kei ira na nodra dauveiqaravi. Sega na saini-cake, sega na gauna, sega na sikoa.",
+      "longText": "{name} ({domain}) solia {count} qito ni barausa galala e caka me baleti ira na tamata era bula vata kei na mate ni vakasama, oka kina na veiwatini veiganiti kei na iyaloyalo e biu tu me vakaraitaka, e dua na jigsaw rawarawa, vakarautaki, vosa kilai levu kei na iyaloyalo bingo kei na kadi tabaki. E sega ni dua na akaude, veivakamarautaki, gauna se sikoa. Na vanua oqo e tiko talega kina na idusidusi ni itaviqaravi ena vosa matata me baleta na veitikina yadua ni mate ni vakasama ka cavuta na Inisitute ni Matanitu me baleta na Qase kei na iSoqosoqo ni Alzheimer.",
+      "useTitle": "Na veisoqosoqo cava e rawa ni ra vakayagataka .",
+      "gamesItemHtml": "<strong>{count} qito ni barausa</strong> ka cici ena dua na kompiuta, tebeleti se dua na TV e semati ki na dua na kompiuta. Sega ni vakacurumi, akaude se lavetaki. Raica <a href=\"/games/\">qito kece</a>.",
+      "printablesLabel": "{count} tabaki rawa:",
+      "printablesAfter": "Vakayagataka na ibulukau ni Tabacakacaka ena draunipepa yadua.",
+      "moreItemsHtml": "<li><strong>Na ituvatuva ni ilawalawa:</strong> <a href=\"/games/picture-bingo/\">Bingo ni iyaloyalo</a> e tiko na kadi e rawa ni tabaki kei na dua na qiri ena sikirini, kei na . <a href=\"/activities/trivia/\">ka rawarawa</a> e tiko kina e 50 na taro kei na digidigi ni isau kei na veitikina ni veivosaki.</li><li><strong>Na idusidusi ni itaviqaravi</strong> vei ira na vakailesilesi kei na matavuvale, ena ituvatuva kei na mataqali, volai ena vosa rawarawa kei na ivurevure. Tekivu ena . <a href=\"/activities/ideas/\">101 vakasama ni itaviqaravi</a> se <a href=\"/activities/care-home-groups/\">itaviqaravi vakailawalawa me baleta na vale ni veiqaravi</a>.</li>",
+      "restHtml": "<h2>Na sala era vakayagataka kina na ilawalawa .</h2><ul><li><strong>Na veivale ni veiqaravi kei na veiqaravi ni vakanananu:</strong> iyaloyalo bingo se vakaoti-na-vosa ena TV ni rumu ni veimaliwai, vata kei na dua na tamata e tapping me baleta na ilawalawa.</li><li><strong>Na parokaramu ni siga ni tamata qase:</strong> e dua na siteseni ni tebeleti kei na veiwatini ni iyaloyalo vakarautaki ki na va na tile, me baleta na gauna lekaleka ni dua-ki-dua.</li><li><strong>Vale ni volavola raraba:</strong> tabaki na vakasaqaqara ni vosa kei na kadi ni veivosaki ena kato ni vakanananu, kei na vanua e vakatakilakilataki ena tablet ni valenivolavola.</li><li><strong>Na ilawalawa ni veitokoni ni dauveiqaravi kei na café ni vakanananu:</strong> kei <a href=\"/handout/\">dua na tabana e rawa ni tabaki</a> me ra kauta ki vale na matavuvale.</li><li><strong>Valenibula kei na ituvatuva ni vakacegu:</strong> na ivola ni veisoliyaki ena pakete ni dauveiqaravi, me baleta e dua na ka vakacegu me caka e vale se ena yasa ni idavodavo.</li></ul><h2>Na ka eda sega ni cakava .</h2><p>Na qito e baleta na marau kei na gauna vata. Era sega ni dikeva, vakatovolei, sikoa, qarava se vakalailaitaka na mate ni vakasama, ka keitou kerea na veisoqosoqo me ra kakua ni vakamacalataki ira vakakina. E sega ni dua na ads, kei na qito e sega ni kerea na yaca, itukutuku ni bula se na itaba me vakau cake. Na itukutuku e vakayagataka na Google Analytics me wili kina na veisiko; noda <a href=\"/privacy/\">itukutuku ni veika vakaitaukei</a> vakamacalataka na ka e kumuna oqori. Na itaba e vakayagataki ena <a href=\"/games/photo-pairs/\">Veiwatini ni itaba</a> tiko ena barausa.</p><h2>Vakacurumi keitou ki na nomu lisi ni ivurevure .</h2><p>Kevaka o maroroya e dua na lisi ni ivurevure me baleti ira na dauveiqaravi, o sa kidavaki mo veitaratara ki na . <a href=\"/\">{domain}</a>. E rawa ni o vakatotomuria e dua vei rau na ivakamacala.</p>",
+      "shortTitle": "Vakamacala lekaleka",
+      "longTitle": "Vakamacala balavu cake",
+      "linksHtml": "<p>Na draunipepa yaga me semati kina vakadodonu: <a href=\"/games/\">qito galala</a>, <a href=\"/activities/printable/\">tabaki galala</a>, <a href=\"/activities/alzheimers/\">itaviqaravi me baleta na mate ni Alzheimer</a> kei <a href=\"/caregiving/how-to-play-together/\">sala me da qito vata kina</a>.</p><h2>Taro se veivakadodonutaki .</h2><p>Kevaka e dua na ka ena vanua e cala se sega ni matata, se dua na lewenivanua e sega ni sotava na gagadre ni veika e tiko eke, yalovinaka tukuna vei keitou ena <a href=\"mailto:{email}\">{email}</a>. Yalovinaka kakua ni vakauta na itukutuku ni tamata yadua se bula me baleti ira na lewenivanua se na kasitama.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Na App ni gauna koula",
+      "seoTitle": "Na App ni gauna koula me baleta na iPhone kei na Android .",
+      "description": "Na app ni gauna koula galala: itaba malumu veiganiti kei na va na tile lelevu, itaba ni matavuvale maroroi ena nomu misini, pakete ni iyaloyalo ni offline.",
+      "crumb": "Na app",
+      "lede": "Na veika kece o taleitaka me baleta na itukutuku, ena dua na app e cakacaka offline ka rawa ni vakayagataka na itaba ni matavuvale o digitaka.",
+      "worksOn": "Cakacaka ena {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Tekivu vakalailai .</h2><p>Tekivu ena va na tile lelevu kei na iyaloyalo kilai levu. Me laurai tiko ga na iyaloyalo, se vunitaka ena gauna e vakila kina ni veiganiti. Na ivakarau malumu e sega na kena gauna, sikoa se itotogi. Digitaka e 4, 6, 8 se 12 na taile.</p><h2>Cakava me vakatamata</h2><p>Digitaka na itaba ni matavuvale ena nomu misini’s itaba ni digidigi. Na app e maroroya na ilavelave lalai me baleta na kena itaviqaravi. E sega ni scan na nomu valenivolavola se veisautaka na nomu itaba taumada, ka maroroya me yacova na 24 na itaba ena dua ga na isoqoni.</p><h2>Raica vata ga .</h2><p>Raica e dua na iyaloyalo ena dua na gauna. Na veivakauqeti digitaki e sureta na veivosaki ka sega ni kerea e dua me nanuma na yaca se solia e dua na isaunitaro dodonu. Sa rauta na kena raici walega.</p><h2>Offline ena vanua e bibi kina</h2><p>Na iyaloyalo ni tekivu kei na walu kece na iyaloyalo ni pakete e okati vata kei na app. Na ilavelave ni itaba e vakacurumi e cakacaka ena initaneti. Digitaka na imatai ni maroroi tu ga ena iCloud ena gadrevi kina e dua na isema ni initaneti.</p><h2>Sega na akaude, sega na dauveiqaravi ni itaba-sync</h2><p>Na ilavelave ni itaba ni matavuvale e tiko ena app ena misini. E rawa ni o kauta laivi na ilavelave ka sega ni bokoca na kena taumada. Na veivakabulabulataki ni misini e rawa ni oka kina na itukutuku ni app. Wilika na . <a href=\"/app-privacy/\">lawa ni veika vakailavo ni app</a>, kei <a href=\"/help/\">veivuke ni app</a> lako voli ena veisala yadua.</p>",
+      "disclaimer": "Na Gauna Koula e baleta na veivakamarautaki kei na veitalanoa veiwasei. E sega ni dikeva, qarava, tarova se vakarautaka na mate ni vakasama se na mate ni Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Na mate ni vakasama kei na qito ni Alzheimer ena initaneti",
+    "description": "Qito galala ena initaneti me baleti ira na qase era bula vata kei na mate ni vakasama se Alzheimer: veiganiti ni iyaloyalo, jigsaws rawarawa, veiwasei.",
+    "crumb": "Qito",
+    "h1": "Qito malumu vei ira na tamata e tiko vei ira na mate ni vakasama",
+    "lede": "{count} qito galala mo qito vata ena nomu barausa. Na iyaloyalo lelevu, vosa matata, ka sega ni dua na ka me cala: sega na timers, sega na sikoa, sega na saini-cake.",
+    "listName": "Qito malumu vei ira na tamata e tauvi ira na mate ni vakasama",
+    "byStageTitle": "Digitaka e dua na qito ena ituvatuva .",
+    "byStageLede": "Na veitarataravi e dua na idusidusi voravora. Muria na ka e taleitaka na tamata kei na ka e vakila ni vakacegu nikua.",
+    "stageCol": "Ivakatagedegede",
+    "gamesCol": "Qito e dau veiganiti .",
+    "moreHtml": "E levu tale na vakasama tani mai na sikirini: <a href=\"/activities/ideas/\">101 na itaviqaravi vei ira na tamata e tauvi ira na mate ni vakasama .</a>, <a href=\"/activities/alzheimers/\">itaviqaravi kei na qito me baleta na mate ni Alzheimer</a>, <a href=\"/activities/memory-games/\">qito malumu ni vakanananu</a> kei <a href=\"/activities/puzzles/\">puzzle</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Na qito cava meda tekivu kina?",
+        "a": "Na iyaloyalo veiwatini kei na va na tile e dua na imatai ni digidigi vakacegu. Kevaka e vakila ni sa rui sivia na digidigi ena maliwa ni iyaloyalo, tovolea Vaqara na ka vata ga kei na rua na iyaloyalo. Me baleta e dua na ilawalawa, tovolea na bingo ni iyaloyalo."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "E cakacaka beka na qito ena dua na iPad se talevoni?",
+        "a": "Io. Na qito kece e cakacaka ena barausa ena talevoni, tablet kei na kompiuta, kei na iyaloyalo e tubu me vakasinaita na sikirini. Na tablet ena dua na itutu e dau vakacegu duadua vei rau e rua na tamata."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "E vinaka beka na qito oqo vua e dua e tauvi koya na mate ni Alzheimer?",
+        "a": "Io. Era buli me baleti ira na tamata era bula tiko kei na mate ni vakasama, wili kina na mate ni Alzheimer, e dau vakavuna vakalevu duadua. Na iyaloyalo e tiko ga me vakaraitaka, e vica ga na digidigi, ka sega ni dua na ka e gauna se sikoa, sa vakakina na qito lean ena kena kilai na veika kilai levu ka sega ni nanuma na veika vou."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Na qito ni vakanananu oqo vei ira na qase?",
+        "a": "Era sa veiganiti kei na qito ni iyaloyalo ka rawa ni marautaka e dua na tamata qase cake, ia era sa tara me kakua ni vakatovolei na vakanananu: ena iyaloyalo veiwatini na iyaloyalo e tiko mata cake vakavo ga ke o digitaka e dua tale na ka. Na noda idusidusi ni qito ni vakanananu vei ira na qase kei na dementia e vakamacalataka na sala me maroroi kina e dua na qito ni vakanananu malumu."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "E tiko beka na qito vei ira na ilawalawa ena dua na vale ni veiqaravi?",
+        "a": "Io. Bingo ni iyaloyalo e tiko kina na kadi tabaki kei na dua na dauqito ena sikirini, kei na Vakaotia na vosa kei na kadi ni veivosaki cakacaka vinaka wiliki vakadomoilevu ki na dua na ilawalawa."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad kei na Android",
+    "requirements": "iOS 15 se e muri; Android 7.0 se e muri",
+    "summary": "E dua na app galala me baleta na iPhone, iPad kei na Android kei na iyaloyalo malumu veiganiti ena va ki na tinikarua na tile lelevu, veiganiti kei na saravi vata kei na itaba ni matavuvale o digitaka, kei na walu e okati kina na iyaloyalo ni pakete ka cakacaka ka sega na initaneti. Sega na akaude, ads, gauna se sikoa.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Na iyaloyalo malumu e veiganiti kei na 4, 6, 8 se 12 na tile lelevu; na iyaloyalo e laurai tikoga vakavo ga ke o digitaka mo vunitaka",
+      "Na itaba ni matavuvale o digitaka era sa kopitaki ki na app me baleta na veiganiti kei na kena raici vata .",
+      "Raica vata: e dua na iyaloyalo ena dua na gauna kei na veivakauqeti ni veivosaki digitaki .",
+      "E walu na pakete ni iyaloyalo e okati vata kei na app; era cakacaka ena initaneti",
+      "Sega na akaude, ads, volivoli ena-app, gauna, sikoa se itotogi"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "E tiko beka e dua na app ni itaviqaravi ni vakasama?",
+        "a": "Io. Na gauna koula (volai me vaka na \"{storeName}\") e galala ena sitoa ni App kei na Google qito. E solia na iyaloyalo malumu veiganiti kei na tile lelevu, qito kei na itaba ni matavuvale o digitaka, kei na iyaloyalo ni pakete e cakacaka ena initaneti."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "E galala beka na app ni Gauna Koula?",
+        "a": "Io. E galala me lavetaki, ka sega na ads, akaude se volivoli ena-app."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "E cakacaka beka na app ke sega na initaneti?",
+        "a": "Io. Na iyaloyalo ni tekivu kei na walu kece na iyaloyalo ni pakete era okati vata kei na app, kei na itaba ni matavuvale cakacaka offline ena gauna era sa kopitaki kina ki na app. Digitaka e dua na itaba maroroi tu ga ena iCloud ena gadrevi kina e dua na veitaratara."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "E rawa beka niu vakayagataka na noda dui itaba vakavuvale?",
+        "a": "Io. Digitaka na itaba kei na nomu misini’s itaba ni digidigi. Na app e maroroya na ilavelave lalai ena misini me baleta na kena itaviqaravi, sega ni vakauta cake ka sega vakadua ni veisautaka na kena taumada. E rawa ni o kauta laivi na ilavelave ena dua na gauna."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "E dua beka na app ni veivakavulici ni uto se vakatovolei ni vakanananu?",
+        "a": "Sega.Na Gauna Koula e baleta na marau kei na gauna vata. E sega ni dua na kena sikoa se veivakatovolei, ka sega ni dikeva, qarava, tarova se vakarautaka na mate ni vakasama se na mate ni Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Na misini cava e cakacaka kina?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "E tiko beka e dua na app ni qito oqo?",
+      "a": "Io. Na app ni gauna koula galala me baleta na iPhone, iPad kei na Android e tiko kina na iyaloyalo malumu vata ga veiganiti, rawa ni vakayagataka na itaba ni matavuvale o digitaka, ka cakacaka ena initaneti. Sega na akaude, ads se sikoa."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "E tiko beka e dua na app ni qito oqo?",
+      "a": "Sega ni qito oqo. Na app ni gauna koula galala me baleta na iPhone, iPad kei na Android e tiko kina na iyaloyalo malumu veiganiti kei na tile lelevu kei na itaba ni matavuvale o digitaka, ka sa cakacaka ena initaneti. Na qito oqo e tiko galala eke ena nomu barausa."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: iyaloyalo levu, veimaliwai",
+    "noscript": "Na qito oqo e gadrevi kina na JavaScript me vakacurumi ena nomu barausa. Na veidusimaki e ra e cakacaka ka sega kina.",
+    "about": "Rauta ni {name}",
+    "aboutAria": "Me baleta na qito oqo .",
+    "noTimer": "Sega na gauna se sikoa",
+    "printable": "Rawa ni tabaki",
+    "howTo": "Na sala ni qito . {name}",
+    "tips": "Na ivakasala ni qito vata .",
+    "newToPlayingHtml": "Vou mo qito vata kei na dua e tauvi koya na mate ni vakasama? Wilika <a href=\"/caregiving/how-to-play-together/\">sala me da qito vata kina</a>, wili kina na ka mera cakava ke ra sega ni taleitaka.",
+    "moreAria": "E levu tale na ka me dikevi",
+    "helpfulGuides": "Veidusimaki veivuke",
+    "appTitle": "Vakayacora ena app .",
+    "appText": "Na app ni gauna koula galala e tiko kina na iyaloyalo malumu veiganiti kei na tile lelevu kei na nomu itaba ni matavuvale, ka cakacaka ka sega na Wi‐Fi. iPhone, iPad kei na android.",
+    "photoAppTitle": "Me vakarautaki na nomu itaba .",
+    "photoAppText": "Ena app ni Gauna Koula galala, na itaba o digitaka e tiko ena nomu misini me baleta na gauna e tarava, kei na qito e cakacaka ka sega na Wi‐Fi. iPhone, iPad kei na android.",
+    "goodToKnow": "Vinaka me kilai .",
+    "goodToKnowText": "Na qito oqo e baleta na marau kei na gauna vata. E sega ni vakatovolei, vakarautaka se qarava e dua na ka.",
+    "moreGames": "E levu cake na qito malumu",
+    "crumb": "Qito"
   }
 }

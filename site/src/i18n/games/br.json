@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Koubladoù skeudennoù",
+    "seoTitle": "C'hoari keñveriañ evit an diskiant : koubladoù skeudennoù",
+    "h1": "Koubladoù skeudennoù : ur c'hoari keñveriañ dous",
+    "description": "Ur c'hoari digoust ha dous evit an dud o vevañ gant an diskiant. Chom a ra ar skeudennoù bras da welet, n'eus ket a amzer na skor, ha dibab a rit 4 pe 12 teul.",
+    "short": "Klask an div skeudenn a zo heñvel. Ar skeudennoù a c'hell chom da vezañ diskouezet.",
+    "players": "1 pe 2 den, kichen-ha-kichen",
+    "intro": "Pouezit war ur skeudenn, ha goude-se pouezit war an hini a glot ganti. Chom a ra ar skeudennoù da vezañ diskouezet dre ziouer, neuze n'eus ket ezhomm da zerc'hel soñj eus netra. Pa ya daou skeudenn asambles e resevont ur bord aour hag ur merk.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Dibabit pet teul da implijout. Pevar teul zo ul lec'h sioul evit kregiñ.",
+      "Pouezit war ne vern peseurt skeudenn. Ur bord aour en deus.",
+      "Pouezit war ar skeudenn a seblant bezañ heñvel. Chom a ra ar c'houblad asambles gant ur merk.",
+      "Ma vez disheñvel an div skeudenn, ne c'hoarvez netra fall. Pouezit en-dro pa viot prest.",
+      "Lakait \"Skeudennoù kuzh\" war-sav nemet ma plij deoc'h ho-daou ar stumm klasel gant an dremm war-zu an traoñ."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Anv ar skeudennoù a vouezh uhel asambles ha flapañ diwar o fenn : \"Ur werennad te ruz. Ha kemer a rit laezh en ho te ?\"",
+      "Lakaat an hini a gemerit perzh enni da ober an taol, memes ma pado ur pennadig. Poent kentoc'h eget tapout evito.",
+      "Chomit gant pevar teul keit ha ma plij deoc'h. Muioc'h a teulioù zo un dibab, biskoazh ul live da dizhout.",
+      "Echuiñ e-keit ma vo plijus c'hoazh. Un obererezh klok eo ur c'hoari."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ur c'horn-amzer pe ur skor zo ?",
+        "a": "Nann. N'eus ket a horolaj, a skor, a gontrol pe a goll. Gallout a rit paouez e kement lec'h, ha paouez hanter-hent zo un doare mat-tre da echuiñ."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Perak e chom ar skeudennoù war-zu an nec'h ?",
+        "a": "Lakaat ar skeudennoù da vezañ gwelet a laka ar c'hoari da vezañ sellet ha keñveriañ kentoc'h eget derc'hel soñj. Kalz a dud a gav se siouloc'h. Gallout a rit tremen d'ar skeudennoù kuzhet en ur glikañ ma fell deoc'h."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo, ha ret eo din en em enskrivañ ?",
+        "a": "Ya, digoust eo, ha n'eus kont ebet, enskrivadur pe pellgargadenn ebet. Labourat a ra er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Ha gallout a reomp implijout hon luc'hskeudennoù familh hon-unan ?",
+        "a": "Ya. Klaskit ar c'houbladoù luc'hskeudennoù, a aotre ac'hanoc'h da zibab luc'hskeudennoù diwar ho trevnad. Chom a ra al luc'hskeudennoù en ho merdeer ha ne vezont ket pellgarget."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Kavout ar memes tra",
+    "seoTitle": "Kavout ar memes skeudenn : C'hoari diskiant simpl",
+    "h1": "Kavout ar memes skeudenn",
+    "description": "Ur skeudenn e penn uhelañ, daou pe beder en traoñ. Pouezit war an hini a zo heñvel.",
+    "short": "Sellit ouzh ar skeudenn a-us ha pouezit war an hevelep hini a-is.",
+    "players": "1 pe 2 den",
+    "intro": "Ur skeudenn hepken a zo e penn uhelañ ar skramm. Dindan emañ daou, teir pe bevar skeudenn. Pouezit war an hini a zo heñvel. Un dibab simpl eo bep tro, gant kalz a blas da gomz.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Dibabit daou, teir pe bevar skeudenn da zibab. Daou eo an hini simplañ.",
+      "Sellit asambles ouzh ar skeudenn a-us.",
+      "Pouezit war ar memes skeudenn amañ dindan. Merket eo gant ur chekenn hag un nebeut gerioù tomm.",
+      "Ma vez pouezet war ur skeudenn all e ro ar c'hoari un anv hepken ha gortoz a ra. Kemer ho amzer.",
+      "Pouezit war \"Skeudenn da heul\" pa viot prest evit unan all."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Komzit diwar-benn pep skeudenn a-raok dibab : livioù, stummoù, pelec'h e c'hellit he gwelet.",
+      "Daou zibab n'int ket \"re aes\". Ur mare plijus eo ar pal, n'eo ket ur c'hwitadenn.",
+      "Ma vez diaes tapout, e c'hall an den heuliañ ha c'hwi a c'hell tapout evitañ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ur c'horn-amzer pe ur skor zo ?",
+        "a": "Nann. N'eus ket a horolaj, a skor, a gontrol pe a goll. Gallout a rit paouez e kement lec'h, ha paouez hanter-hent zo un doare mat-tre da echuiñ."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Petra c'hoarvez ma vez tapet ar skeudenn fall ?",
+        "a": "Netra displijus. N'eus ket a sonerezh, a groaz ruz pe a grenadenn. Ar c'hoari a ro anv d'ar skeudenn bet tapet ha gortoz a ra ar pouez war-lerc'h."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo, ha ret eo din en em enskrivañ ?",
+        "a": "Ya, digoust eo, ha n'eus kont ebet, enskrivadur pe pellgargadenn ebet. Labourat a ra er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Klotañ skeud",
+    "seoTitle": "C'hoari keñveriañ skeudoù evit an diskiant : digoust enlinenn",
+    "h1": "Shadow Match : ur c'hoari skeudennoù dous",
+    "description": "Ur skeud teñval en nec'h, daou pe beder skeudenn en traoñ. Pouezit war ar skeudenn a ya d'ober ar skeud.",
+    "short": "Sellit ouzh ar skeud ha pouezit war ar skeudenn a ra anezhi.",
+    "players": "1 pe 2 den",
+    "intro": "Un obererezh anavezet eo ar c'hefluniadur skeudennoù diwar fichennoù labour moullet, amañ gant skeudennoù bras ha netra da voullañ. Ur skeud dous a zo e penn uhelañ ar skramm ha daou, teir pe bevar skeudenn a c'hortoz a-is. Tap war an hini a ra ar skeud. Aes eo komz diwar o fenn eus stummoù evel ur marc'h-houarn, ur parasol pe ur banne-te ivez.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Dibabit daou, teir pe bevar skeudenn da zibab. Daou eo an hini simplañ.",
+      "Sellit ouzh ar skeud asambles. Peseurt stumm en deus? Uhel pe ront eo ?",
+      "Pouezit war ar skeudenn a ya d'ober ar skeud. Hec'h anv a zeu war wel dindan ar skeud.",
+      "Ma vez pouezet war ur skeudenn all e ro ar c'hoari un anv hepken ha gortoz a ra. Kemer ho amzer.",
+      "Pouezit war \"Skeudenn da heul\" pa viot prest evit unan all."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Heuliañ tres ar skeud gant ur biz ha komz diwar-benn ar stumm.",
+      "Ma seblant ar skeudennoù diaes hiziv, tremen da Kavout an hevelep tra, ma seblant ar skeudennoù heñvel.",
+      "Komz eus ar skeudenn ur wech kavet : \"Ur parapluenn evel-se hon eus bet.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ur c'horn-amzer pe ur skor zo ?",
+        "a": "Nann. N'eus ket a horolaj, a skor, a gontrol pe a goll. Gallout a rit paouez e kement lec'h, ha paouez hanter-hent zo un doare mat-tre da echuiñ."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Ha mat eo ar skeudennoù evit an dud gant an diskiant ?",
+        "a": "Un obererezh plijus ha simpl e c'hell bezañ evit tud zo, dreist-holl er mareoù kentañ. Aesoc'h eo anavezout ar stummoù eget ar gerioù. Evit ar blijadur hag ar gaozeadenn eo, n'eo ket un test, ha ne vez ket pareet pe gorrekaet an diskiant. Ma laka ac'hanoc'h da vezañ nec'het, klaskit Kavout an hevelep tra pe sellit ouzh skeudennoù asambles hepken."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Petra c'hoarvez ma vez tapet ar skeudenn fall ?",
+        "a": "Netra displijus. N'eus ket a sonerezh, a groaz ruz pe a grenadenn. Ar c'hoari a ro anv d'ar skeudenn bet tapet ha gortoz a ra ar pouez war-lerc'h."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo, ha ret eo din en em enskrivañ ?",
+        "a": "Ya, digoust eo, ha n'eus kont ebet, enskrivadur pe pellgargadenn ebet. Labourat a ra er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Renkañ asambles",
+    "seoTitle": "C'hoari renkañ evit an diskiant : renkañ asambles",
+    "h1": "Urzhiañ asambles : un obererezh urzhiañ skeudennoù",
+    "description": "Pouezit war ur skeudenn, ha goude-se pouezit war ar paner ma 'z eo : kegin pe liorzh, frouezh pe loened.",
+    "short": "Lakait pep skeudenn en he paner : kegin pe liorzh, ha c'hoazh.",
+    "players": "1 pe 2 den",
+    "intro": "Ur c'hoari pemdeziek anavezet ha plijus eo ar renkañ, evel lakaat ar boued da vont kuit pe lakaat kalzedoù. Pouezit war ur skeudenn, ha goude-se pouezit war ar paner e-lec'h ma 'z eo dleet. N'eus ket a prim ha n'eus ket a dro fall.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Dibabit un tem : kegin ha liorzh, frouezh ha loened, pe ti ha beajoù.",
+      "Pouezit war ur skeudenn. Ur bord aour en deus.",
+      "Pouezit war ar panerad m'emañ. Mont a ra ar skeudenn er panerad-se.",
+      "Ma 'z eo er paner all, ar c'hoari a lavar kement-se gant dousder hag a c'hortoz.",
+      "Pa vo renket pep skeudenn, sellit ouzh ar panelloù asambles."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Alies n'eus respontoù faos ebet er vuhez gwirion. Ma lavar unan bennak e ranker kaout ur pod-dour er gegin, goulennit perak. Marteze e vo kavet un istor mat ganeoc'h.",
+      "Implijit ar skeudennoù evel ur goulenn : \"Petra hoc'h eus gounezet en ho liorzh ?\"",
+      "Urzhiañ traezoù gwirion, evel loaioù ha forc'hoù pe boutonoù dre liv, zo un heuliad brav pell diouzh ar skramm."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ur c'horn-amzer pe ur skor zo ?",
+        "a": "Nann. N'eus ket a horolaj, a skor, a gontrol pe a goll. Gallout a rit paouez e kement lec'h, ha paouez hanter-hent zo un doare mat-tre da echuiñ."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Perak renkañ ?",
+        "a": "Kalz a dud a blij dezho renkañ rak seblantout a ra bezañ ul labour talvoudus ha anavezet. Aes eo ivez komz eus ar skeudennoù e-pad ma vezer o vont."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo, ha ret eo din en em enskrivañ ?",
+        "a": "Ya, digoust eo, ha n'eus kont ebet, enskrivadur pe pellgargadenn ebet. Labourat a ra er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle skeudennoù",
+    "seoTitle": "Puzzle aes evit an diskiant : 4 pe 9 tamm",
+    "h1": "Skeudennoù : ur c'hoari aes",
+    "description": "Ur jigsaw enlinenn aes evit an dud o vevañ gant an diskiant : 4 pe 9 tamm bras, ar skeudenn a-bezh a chom gwelet, ha pouezañ a rit war daou damm evit o eskemm.",
+    "short": "Pouezit war daou damm evit o eskemm betek ma vo ar skeudenn a-bezh.",
+    "players": "1 pe 2 den",
+    "intro": "Ur skeudenn mignon a vez troc'het e pevar pe nav tamm bras ha mesket. Chom a ra ar skeudenn a-bezh da welet evel un hentenn. Tap war un tamm, goude war unan all, hag e cheñchont o lec'h. N'eus ket ezhomm da riklañ.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Dibabit ur skeudenn ha 4 pe 9 pezh. Pevar zo un deroù dous.",
+      "Sellit ouzh ar skeudenn a-bezh e penn uhelañ.",
+      "Pouezit war un tamm, ha goude-se pouezit war al lec'h ma tlefe mont. An daou bennad a eskemm.",
+      "Ar pezhioù el lec'h dereat a resev ur merk bihan.",
+      "Pa vo klok ar skeudenn, plijit ganti asambles, ha dibabit unan all."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Tapout daou damm evit o eskemm a zo kalz aesoc'h eget riklañ evit kalz a dud.",
+      "Komz eus ar skeudenn evel ma teu asambles : \"Aze emañ an doenn ruz.\"",
+      "Ur gwir jigsaw koad gant 12 pe 24 tamm bras zo un obererezh plijus war an daol ivez."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ur c'horn-amzer pe ur skor zo ?",
+        "a": "Nann. N'eus ket a horolaj, a skor, a gontrol pe a goll. Gallout a rit paouez e kement lec'h, ha paouez hanter-hent zo un doare mat-tre da echuiñ."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Ha ret eo din riklañ an tammoù ?",
+        "a": "Nann. Pouezit war un tamm, ha goude-se war unan all, hag e cheñchont o lec'h. Aesoc'h eo gant un dorn o krenañ pe war ur skramm bihan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo, ha ret eo din en em enskrivañ ?",
+        "a": "Ya, digoust eo, ha n'eus kont ebet, enskrivadur pe pellgargadenn ebet. Labourat a ra er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Echuiñ al lavarenn",
+    "seoTitle": "Echuiñ ar c'homzoù : C'hoari ar c'hrennlavaroù evit ar re gozh",
+    "h1": "Echuiñ ar c'homzoù",
+    "description": "Lavarennoù amerikan anavezet gant ar ger diwezhañ mankout, evel \"Ur gwenneg savet a zo ur gwenneg ___\".",
+    "short": "Leuniañ ar c'homzoù anavezet asambles, ha komz diwar o fenn.",
+    "players": "1, 2 pe ur strollad",
+    "intro": "Alies e vez anavezet mat ar c'homzoù kozh e-pad ur vuhez. Pep kartenn a ziskouez un dro-lavar anavezet gant ar ger diwezhañ a vank, teir dibab, hag ur bouton \"Diskouez an dibenn\". Goude ar fin, ur goulenn dous a c'halv da gaozeal.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lennit ar c'hrennlavar a vouezh uhel asambles.",
+      "Pouezit war ar ger a echu anezhañ, pe pouezit war \"Diskouez an dibenn\".",
+      "Lennit ar frazenn a-bezh en-dro ha komzit diwar e benn en ur implijout ar goulenn.",
+      "Pouezit war \"Lavarenn da heul\" pa viot prest."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lennit goustadik ha lezit un ehan a-raok ar ger diwezhañ. Alies e vez lavaret gant an dud a-raok echuiñ.",
+      "Ma ro unan bennak un dibenn disheñvel, plijit gantañ. Disheñvel eo stummoù zo eus al lavarennoù hervez ar familh pe ar rannvro.",
+      "En ur strollad, un den a lenn hag an holl a gemer perzh en dibenn."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ur c'horn-amzer pe ur skor zo ?",
+        "a": "Nann. N'eus ket a horolaj, a skor, a gontrol pe a goll. Gallout a rit paouez e kement lec'h, ha paouez hanter-hent zo un doare mat-tre da echuiñ."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Ha ma tibabfemp ur ger all ?",
+        "a": "Diskouez a ra ar c'hoari an dibenn boas ha mont a ra war-zu ar gaozeadenn. N'eus skor ebet, ha mat eo ur respont disheñvel."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo, ha ret eo din en em enskrivañ ?",
+        "a": "Ya, digoust eo, ha n'eus kont ebet, enskrivadur pe pellgargadenn ebet. Labourat a ra er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Klask gerioù lizherennoù bras",
+    "seoTitle": "Klask gerioù lizherennoù bras evit an diskiant, moullañ",
+    "h1": "Klask gerioù lizherennoù bras",
+    "description": "Ur c'hlask gerioù lizherennoù bras digoust evit an dud kozh hag an dud o vevañ gant an diskiant. Nebeut a c'herioù, lizherennoù bras, gerioù a-dreuz hag a-is hepken.",
+    "short": "Lizherennoù bras, un nebeut gerioù, a-dreuz hag a-is hepken. Moullañ anezhañ ivez.",
+    "players": "1 pe 2 den",
+    "intro": "Ur gael vihan gant lizherennoù bras hag un dornad gerioù hepken, an holl o lenn a-dreuz pe a-is. Pouezit war lizherenn gentañ ur ger, ha war e lizherenn ziwezhañ. Paper a blij deoc'h ? Moullañ ur c'hoari nevez en ur glikañ.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Dibabit un tem hag ur ment gael.",
+      "Sellit ouzh roll ar gerioù. Gerioù lennet a-dreuz (a-gleiz da zehoù) pe a-is (a-us d'an traoñ).",
+      "Pouezit war lizherenn gentañ ur ger, ha pouezit war e lizherenn ziwezhañ.",
+      "Ur ger kavet a zo merket ha kroaziet diouzh ar roll.",
+      "Pouezit war \"Moullañ ar c'hoari-mañ\" evit c'hoari war baper gant ur c'hreion pe ur merker."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Merkit ur ger er roll ha klaskit e lizherenn gentañ asambles.",
+      "War baper eo aesoc'h derc'hel ur skramm eget ur c'hreion.",
+      "Komz diwar-benn ar gerioù tem. Ur mod naturel eo ar gerioù frouezh evit eñvorennoù an dastum, ar poazhañ pe ar marc'hadoù."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ur c'horn-amzer pe ur skor zo ?",
+        "a": "Nann. N'eus ket a horolaj, a skor, a gontrol pe a goll. Gallout a rit paouez e kement lec'h, ha paouez hanter-hent zo un doare mat-tre da echuiñ."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ha gallout a ran moullañ ar c'hlask ger ?",
+        "a": "Ya. Klikit war \"Moullañ ar c'hoari-mañ\" evit moullañ ar gael bremanel e lizherennoù bras, gant roll ar gerioù dindan. Disheñvel eo pep c'hoari nevez."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo, ha ret eo din en em enskrivañ ?",
+        "a": "Ya, digoust eo, ha n'eus kont ebet, enskrivadur pe pellgargadenn ebet. Labourat a ra er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Pajennoù livañ",
+    "seoTitle": "Pajennoù livañ evit an dud deuet gant an diskiant (digoust)",
+    "h1": "Pajennoù livañ",
+    "description": "Pajennoù livañ simpl evit an oadourien gant tachennoù bras : pouezit war ul liv, ha pouezit war ar skeudenn.",
+    "short": "Pouezit war ul liv, ha goude war ul lodenn eus ar skeudenn. Moullañ pajennoù ivez.",
+    "players": "1 pe 2 den",
+    "intro": "Pajennoù gant stummoù bras ha simpl : ur vleunienn en ur pod, un ti, ur werennad-te, ur balafenn hag ur vag-dre-lien. Pouezit war ul liv, ha goude-se pouezit war ul lodenn eus ar skeudenn evit he leuniañ. N'eus ket a livioù fall.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Dibab ur bajenn.",
+      "Pouezit war ul liv. Pep liv en deus e anv skrivet warnañ.",
+      "Pouezit war ul lodenn eus ar skeudenn evit he leuniañ gant al liv-se.",
+      "Cheñchit ho soñj e kement mare en ur leuniañ anezhañ en-dro.",
+      "Pouezit war \"Moullañ ar bajenn-mañ\" evit kaout ur bajenn goullo da livañ gant kreionoù pe merkerioù."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Kinnig daou liv da zibab e-lec'h an hollad ma seblant re a dra dibab.",
+      "Degemeret e vez ar gwez limestra hag an heol glas. Diwar-benn plijout d'al liv eo, ha n'eo ket ar resisted.",
+      "Mont a ra mat ar pajennoù moullet gant merkerioù tev pe kreionoù, aesoc'h da dapout."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ur c'horn-amzer pe ur skor zo ?",
+        "a": "Nann. N'eus ket a horolaj, a skor, a gontrol pe a goll. Gallout a rit paouez e kement lec'h, ha paouez hanter-hent zo un doare mat-tre da echuiñ."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Re vugelel eo ar pajennoù-mañ ?",
+        "a": "Tresañ a reomp traoù sioul ha simpl kentoc'h eget tresadennoù-bev, evit ma klotfe ar pajennoù gant an dud deuet. Ar stummoù bras a laka al livañ da vezañ aes hep lakaat anezhañ da vezañ evel ur babig."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo, ha ret eo din en em enskrivañ ?",
+        "a": "Ya, digoust eo, ha n'eus kont ebet, enskrivadur pe pellgargadenn ebet. Labourat a ra er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kartennoù kaozeal",
+    "seoTitle": "Kregiñ a ra ar gaozeadennoù evit an diskiant : kartennoù skeudennoù",
+    "h1": "Kartennoù kaozeal",
+    "description": "Kartennoù skeudennoù gant pennadoù kaozeal dous evit an dud o vevañ gant an diskiant : goulenn ebet, respontoù reizh ebet. Implijout war ar skramm pe moullañ an hollad.",
+    "short": "Kartennoù skeudennoù gant goulennoù digor ha dous. Goulenn ebet.",
+    "players": "2 den pe ur strollad",
+    "intro": "Pep kartenn a laka ur skeudenn anavezet gant ur bedadenn digor da gomz, evel \"Petra eo an amzer a blij deoc'h ar muiañ ?\" N'eus respontoù reizh ebet ha netra da zerc'hel soñj. Dibabit un tem pe meskañ anezho holl.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Dibabit un tem, pe mirout \"An holl gartennoù\".",
+      "Lennit ar goulenn a vouezh uhel ha sellit ouzh ar skeudenn asambles.",
+      "Selaouit, rannit ho respont hoc'h-unan, ha lezit ar gaoz da vont en-dro.",
+      "Pouezit war \"Kartenn da heul\" pa viot prest, pe chomit gant ur gartenn keit ha ma fell deoc'h.",
+      "Pouezit war \"Moullañ an holl gartennoù\" evit troc'hañ ur paper."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Respontit d'ar goulenn hoc'h-unan ivez. Ur gaozeadenn eo, n'eo ket un atersadenn.",
+      "Heuliañ an istor, n'eo ket ar fedoù. Ma cheñch ar munudoù, mat eo.",
+      "Ma stok ur gartenn ouzh un dra bennak trist, anavezit ar santimant-se ha tremenit gant dousder d'ur gartenn all."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Perak n'eus ket a \"Soñj hoc'h eus...?\" goulennoù?",
+        "a": "Goulennoù a amprou ar memor a c'hell bezañ evel un arnodenn ha lakaat ac'hanoc'h da vezañ mezhek. Pedadennoù digor evel \"Kontit din diwar-benn...\" a lez an holl da gemer perzh, petra bennak ma soñj dezho."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ha gallout a ran moullañ ar c'hartennoù ?",
+        "a": "Ya. \"Moullañ an holl gartennoù\" a voull an hollad e lizherennoù bras, meur a gartenn dre bajenn, prest da droc'hañ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo, ha ret eo din en em enskrivañ ?",
+        "a": "Ya, digoust eo, ha n'eus kont ebet, enskrivadur pe pellgargadenn ebet. Labourat a ra er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Koubladoù luc'hskeudennoù",
+    "seoTitle": "Sevel ur c'hoari keñveriañ diwar luc'hskeudennoù ar familh",
+    "h1": "Koubladoù luc'hskeudennoù : lakaat ho luc'hskeudennoù da glotañ",
+    "description": "Lakait ho luc'hskeudennoù familh da vezañ ur c'hoari keñveriañ dous. Dibabit 2 pe 6 luc'hskeudenn war ho trevnad ; chom a reont en ho merdeer ha ne vezont ket.",
+    "short": "Dibabit ho luc'hskeudennoù hoc'h-unan ha klotañ anezho. Ne vez pellgarget netra.",
+    "players": "2 den, kichen-ha-kichen",
+    "intro": "Dibabit daou pe c'hwec'h luc'hskeudenn diwar ho pellgomzer, tabletenn pe urzhiataer, ha dont a raint da vezañ ur c'hoari keñveriañ gant skeudennoù bras ha gwelus. Ne vez diskouezet al luc'hskeudennoù nemet e-barzh ar bajenn-mañ. Ne vezont ket pellgarget, enrollet pe rannet, ha mont a reont da get pa serrit ar bajenn.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Pouezit war \"Dibab luc'hskeudennoù\" ha dibabit daou pe c'hwec'h luc'hskeudenn.",
+      "Pep luc'hskeudenn a zeu war wel div wech. Pouezit war unan, ha goude-se pouezit war e c'houblad.",
+      "Komzit diwar-benn pep luc'hskeudenn evel ma kavit anezhi.",
+      "Pa vo echu, serrit ar bajenn pe pouezit war \"Diverkañ al luc'hskeudennoù\". Ne vez miret netra."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Dibabit luc'hskeudennoù sklaer eus traoù laouen ha anavezet : ul loen-ti, ul liorzh, ul lec'h karetañ, un deiz eured.",
+      "Skeudennoù lec'hioù hag traezoù a c'hell bezañ aesoc'h eget dremmoù, ha diwall a reont ouzh kement gwask evit envel tud.",
+      "Lezel a-gostez luc'hskeudennoù an dud marv ma c'hellfent degas glac'har a-daol-trumm, nemet pa ouzoc'h e tegasont frealzidigezh."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ha pellgarget eo bet ma luc'hskeudennoù e lec'h bennak ?",
+        "a": "Nann. Lenn a ra ar bajenn al luc'hskeudennoù dibabet ganeoc'h war-eeun en ho merdeer ha diskouez a ra anezho war ho skramm. Ne vezont ket kaset deomp pe da zen all ebet, ha pa vez serret pe adkarget ar bajenn e vezont aet kuit."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ur c'horn-amzer pe ur skor zo ?",
+        "a": "Nann. N'eus ket a horolaj, a skor, a gontrol pe a goll. Gallout a rit paouez e kement lec'h, ha paouez hanter-hent zo un doare mat-tre da echuiñ."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ha gallout a ran enrollañ ar c'hoari evit ar wech a zeu ?",
+        "a": "N'eo ket er merdeer, dre ar stumm, neuze ne vez enrollet netra prevez. An arload digoust Golden Moments evit iPhone hag iPad a c'hall mirout skouerennoù luc'hskeudennoù dibabet war ho trevnad."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo dre skeudennoù",
+    "seoTitle": "Bingo gant skeudennoù evit an dud kozh gant an diskiant : moullañ",
+    "h1": "Bingo gant skeudennoù evit ar strolladoù",
+    "description": "Bingo skeudennoù moullañ digoust evit ar re a ra war-dro ar memor hag ar re gozh, gant ur pellgomzer bras war ar skramm.",
+    "short": "Kartennoù bingo gant skeudennoù a c'haller moullañ hag ur skramm bras evit ar strolladoù.",
+    "players": "Ur strollad 2 da 30 den",
+    "intro": "Bingo klasel gant skeudennoù e-lec'h sifroù, neuze n'eus ket ezhomm da lenn lizherennoù bihan. Moullañ ur rummad kartennoù dibar, ha goude-se implijout ar pellgomzer war ar skramm evit diskouez pep skeudenn vras ​​war ur skinwel, ur portable pe ur tabletenn.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Dibabit 9 pe 16 karrez dre gartenn ha pet c'hoarier.",
+      "Klikit war \"Moullañ kartennoù\". Disheñvel eo pep kartenn.",
+      "Digeriñ ar galver war ur skramm bras. Pouezit war \"Skeudenn war-lerc'h\" evit diskouez pep skeudenn gant hec'h anv.",
+      "Ar c'hoarierien a c'holo ar skeudenn a glot gant o c'hartenn gant ur pezh moneiz, ur bouton pe ur merker.",
+      "Pep hini a leun ur renk, pe ar gartenn a-bezh, a resev ur c'hoarzh. N'eus kollet ebet er stumm-mañ : derc'hel da c'hoari betek ma vo ul linenn gant pep hini."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Implijit jedoueroù bras evel dammoù pe goloioù boutailhoù. Diaes e c'hell bezañ tapout ar boutonoù bihan.",
+      "Roit anv ar skeudenn ha lavarit un dra bennak diwar he fenn : \"Ur vag-dre-lien. Piv zo bet er-maez war ur vag ?\"",
+      "Lakaat an dud o deus diaesterioù da welet azezet tostañ ouzh ar skramm, ha pareañ skoazellerien gant c'hoarierien o deus ezhomm anezho.",
+      "Nav karrez a zo a-walc'h evit an darn vrasañ eus ar strolladoù. Dalc'hit ar c'hentelioù war-dro 20 pe 30 munutenn."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Penaos e c'hellan ober bingo dre skeudennoù en un ti-kêr ?",
+        "a": "Moullañ ur gartenn dre c'hoarier, lakaat an hini a c'halv war ar skramm brasañ hoc'h eus, ha galv skeudennoù tamm-ha-tamm, en ur reiñ anv da bep hini anezho. C'hoari betek ma vo ul linenn gant pep hini, evit ma ne vo ket lezet den ebet a-gostez."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Digoust eo da voullañ ?",
+        "a": "Ya. Moullañ kement a gartennoù a rankit, kement ha ma fell deoc'h, evit un implij personel pe stroll."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Ha gallout a ra an dud c'hoari hep lenn ?",
+        "a": "Ya. Ur skeudenn vras ​​eo pep karrez, gant e anv dindan evit ar re a blij dezho ar gerioù."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Anal sioul",
+    "seoTitle": "Ur prantad anal sioul evit an dud kozh hag ar re a ra war-dro ar vugale",
+    "h1": "Un ehan da analañ sioul",
+    "description": "Ur prantad analañ gorrek ha sioul da rannañ : ur c'helc'h dous a gresk hag a zigresk e-pad c'hwec'h anal. Kregiñ a rit, ha gallout a rit paouez e kement mare.",
+    "short": "Ur c'helc'h gorrek da analañ gantañ. Kregiñ ha paouez pa fell deoc'h.",
+    "players": "1 pe 2 den",
+    "intro": "Alies eo an obererezh gwellañ un ehan sioul. Pouezit war \"Kregiñ\", ha goude-se analit e-keit ma kresk ar c'helc'h hag e-maez e-keit ma tigresk. Dibabit ur c'hementad gorrekoc'h pe buanoc'h. N'eo ket un tretadenn, ur mare peoc'hus da rannañ hepken.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Azez aes kichen-ha-kichen.",
+      "Dibab ur c'hementad : gorrek pe dous.",
+      "Pouezit war \"Kregiñ\". Analañ e-keit ma kresk ar c'helc'h, ha mont er-maez e-keit ma kresk.",
+      "Paouez a ra e-unan goude c'hwec'h anal, pe pouezit war \"Paouez\" pa fell deoc'h."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Dalc'hit ho taouarn pe lakait un dorn war vrec'h an den ma vez degemeret mat.",
+      "Arabat pouezañ biskoazh. Ma fell dezho sellet kentoc'h, mat eo.",
+      "Ma vez kudennoù analañ gant unan bennak, analit evel m'eo dleet ha sellit ouzh ar c'helc'h hepken. Goulennit digant ur medisin diwar-benn kudennoù analañ."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Un obererezh analañ mezegiezh eo ?",
+        "a": "Nann. Un ehan simpl ha dibar eo evit ar sioulder hag ar gompagnunezh. N'eo ket un doare da bareañ an anken pe un doare bennak. Komz gant ur medisin diwar-benn kudennoù yec'hed."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Ha fiñval a ra ar c'helc'h hep ma lakafen anezhañ da vont en-dro ?",
+        "a": "Nann. Ne fiñv netra ken na vo pouezet war Kregiñ, ha paouez a ra goude c'hwec'h anal pe pa vo pouezet war Paouez. Ma'z eo arventennet ho trevnad evit digreskiñ al lusk e cheñch ar gerioù hep ma kresko ar c'helc'h."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo, ha ret eo din en em enskrivañ ?",
+        "a": "Ya, digoust eo, ha n'eus kont ebet, enskrivadur pe pellgargadenn ebet. Labourat a ra er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       }
     ]
   }

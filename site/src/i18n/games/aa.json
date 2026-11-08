@@ -41,11 +41,11 @@
   },
   "find-the-same": {
     "name": "Inkibislem gorrisa",
-    "seoTitle": "Inkibisle muucitte gonnis: sahlin dementiyah digir",
+    "seoTitle": "Inkibisle muucitte gonnis: Sahlin Dementiyah Digir",
     "h1": "Inkibisle muucitte gonnis",
     "description": "Inki muuci dagal, nammayaak fereey fan gubal. Inkibisle tiyat xag. sabhalal le, currik yan muucih abal ummattah manol dementia, wakti sinnim.",
     "short": "Dagal yan taswiir wagitaay gubal tan taswiir xag.",
-    "players": "1 akkek 2 numu",
+    "players": "1 akkek 2 num",
     "intro": "Inki taswiir alaalaqak amogginal daffeya. Gubal nammay, sidoc akkek fereey takke muucitte tan. Inkibisle tiyat xag. tah inki sahlin dooriti waktit, mango goli luk yaabanam.",
     "howTo": [
       "nammay, sidoc akkek fereey takke muucitte doorit kak ugussuh. nammay sahlinih.",
@@ -76,11 +76,11 @@
   },
   "shadow-match": {
     "name": "silal qalayli",
-    "seoTitle": "silal ramaddos digir dementiyah: currik yan waqinal",
+    "seoTitle": "silal ramaddos digir dementiyah: currik yan suuquntal",
     "h1": "silal qalayli: sahlin muucih digir",
     "description": "Dagal data silaal, gubal nammayak ilaa fereey takke muucitte. silal bicsa muuci xag. currik, sabhalal le silaal ramaddos digir dementiyah, wakti lowsiise sinnim.",
     "short": "silal wagitaay tet bicsa taswiir xag.",
-    "players": "1 akkek 2 numu",
+    "players": "1 akkek 2 num",
     "intro": "silal ramaddos buxa marih abnisso yatbiqen taamah warkatak, akkel kaxxa muucitte luk kee tuy yatbiqeenim mali. Sahlin silaal dagal yan alaalaqak daffeyam kee nammay, sidoc akkek ferey taswiir gubal qammaala. silal bicsa tiyat xag. baskiliiy, dibaab akkek shaahi kobbaayat ceela weeloola edde yaabanam sahlinih.",
     "howTo": [
       "nammay, sidoc akkek fereey takke muucitte doorit kak ugussuh. nammay sahlinih.",
@@ -114,12 +114,12 @@
     ]
   },
   "sort-together": {
-    "name": "itta luk uxuxxoosa",
-    "seoTitle": "Dimentiyah uxuxxos: itta luk uxuxxos",
+    "name": "itta luk uxuxxos",
+    "seoTitle": "Dimentih uxuxxos: itta luk uxuxxos",
     "h1": "itta luk uxuxxos: muuci uxuxxos abnisso",
-    "description": "taswiir xag, tokkeek edde tan girib xag: maaqoh alaysoh qari akkek caxaaxuwi arac, caxâ baxa akkek saqa. sabhalal le, currik tan uxuxxos abnisso ummattah manol dementiya.",
+    "description": "taswiir xag, tokkeek edde tan girib xag: maaqoh alaysoh qari akkek caxaaxuwi arac, caxâ baxa akkek saqa.",
     "short": "kulli taswiir isi giribil daffes: maaqoh alaysoh qari akkek caxaaxuwi arac kee mangoomu.",
-    "players": "1 akkek 2 numu",
+    "players": "1 akkek 2 num",
     "intro": "uxuxxos buxa mariinoh, rufto le kulli ayroh taama, iroh daffes giroositte hinnay sirrab nammay takkoh. muuci xag, tokkeek elle faxximta aracal xag. Qataatako matan kee hoxat tan maynaqu matan.",
     "howTo": [
       "ximmo door: maaqo buxa kee caxaaxuwi arac, caxâ baxa kee saqa, hinnay buxa kee safar.",
@@ -150,11 +150,11 @@
   },
   "picture-puzzle": {
     "name": "muuci hayyeyyeeno",
-    "seoTitle": "sahlin Jigsaw hayyeyyeeno Dementiyah: 4 akkek 9 exxaaxi",
+    "seoTitle": "Sahlin Jigsaw hayyeyyeeno Dementiyah: 4 akkek 9 exxaaxi",
     "h1": "muuci hayyeyyeeno: sahlin Jigsaw",
     "description": "Dementia luk yan marah sahlin online jigsaw: 4 hinnay 9 kaxxa qaynat, inkih tan taswiir elle yanbulle innal, namma qaynat tablem faxximta.",
     "short": "namma exxa xag ken milaaguh muuci inkitanuuk yakkem fan.",
-    "players": "1 akkek 2 numu",
+    "players": "1 akkek 2 num",
     "intro": "Kataysiini muuci fereeyi akkek sagaalal kaxxa exxaaxil yiggiriqqeh yengeggele. Inkih yan muuci miracsenta innal yanbulle. inki exxa xag, tokkeek gersi, kee oson arooca milaagen. Giitiyyi mafaxxiima.",
     "howTo": [
       "muuci dooraay 4 akkek 9 exxaaxi. Fereeyi sahlin qimbo.",
@@ -184,12 +184,12 @@
     ]
   },
   "finish-the-saying": {
-    "name": "Yab gaba kalay",
-    "seoTitle": "gaba kal maxca: ceelalloh digir furraynuh",
-    "h1": "Yab Seba",
+    "name": "Yab sel",
+    "seoTitle": "maxca gaba kal: ceelalloh digir furraynuh",
+    "h1": "Yab sel",
     "description": "Ameerikah af ellecaboh qangara raqteh tan, \"A penny saved is penny ___\". Dooro xag hinnay ellecabo uybulluy, tokkeek edde yab.",
     "short": "Buxâ marih maxcooca ittalih kib, tokkeek keenit yab.",
-    "players": "1, 2 akkek inki butta",
+    "players": "1, 2 akkek butta",
     "intro": "raagte maxcooca mano bagul nagay tamixxige. Kulli kardi ellecabo qangara raqteeh, sidiica doorit kee \"Ellecabo uybulluy\" axcuk tamixxigeh tan qangara taybulle. illacabok lakal, sahlin essero walal arcibissa.",
     "howTo": [
       "maxco xongolo fayya hayteh ittalih kawisa.",
@@ -220,10 +220,10 @@
   "word-search": {
     "name": "kaxxa-matbaqah qangor goranah",
     "seoTitle": "kaxxa matbaqah qangara goranto dementiya, matbaqah",
-    "h1": "Kaxxa-Matbaqatih Qangor Goranto",
-    "description": "currik tan kaxxa matbaqatih qangara goranah idoola kee ummattah dementia luk tan. Dago qangor, kaxxa wara, qangor tabaanam kee addah dubuk. Suuquntal digir akkek matbaqa.",
+    "h1": "kaxxa-matbaqah qangor goranto",
+    "description": "currik tan kaxxa matbaqatih qangara goranah idoola kee ummattah dementia luk tan. Dago qangor, kaxxa wara, qangor tabaanam kee addah dubuk.",
     "short": "kaxxa wara, dago qangor, tabaatabsa kee addah dubuk. Itbiq tet kaadu.",
-    "players": "1 akkek 2 numu",
+    "players": "1 akkek 2 num",
     "intro": "qunxa firqanfiir kaxxa waroori kee dubuk gabah agle qangor, inkih takriyeemi hinnay gubal. qangarak naharsi wara xag, tokkeek ellecabo wara. Warkat doorita? qusba hayyeyyeeno inki xagar addat itbiqa.",
     "howTo": [
       "ximmo kee firqanfiir caddo door.",
@@ -254,11 +254,11 @@
   },
   "coloring": {
     "name": "Galitte kalam haanam",
-    "seoTitle": "Dementiya leh tan idoola galitteh bisitte ( currik)",
-    "h1": "Galitte kalam haanam",
+    "seoTitle": "Dementiya leh tan furraynuh galitte belu haanam ( currik)",
+    "h1": "Galitte belu haanama",
     "description": "sahlin, naba marih bisih galitte kaxxa arooca luk: bisi xag, tokkeek taswiir xag. Badiino mali, hoxat yan bisu mali, kee kulli gali foyyah yatbiqimem duudah.",
     "short": "Bisu xag, tokkeek muucik exxak teyna. Galitte matbaqa.",
-    "players": "1 akkek 2 numu",
+    "players": "1 akkek 2 num",
     "intro": "Galitte kaxxa, sahlin weeloola: qobor addat le, qari, shaahi kobbaayat, laahinti kee huuri. Bisu xag, tokkeek muucik exxat xag kibtuh. Hoxat tan bisitte matan.",
     "howTo": [
       "Gali doorita.",
@@ -288,12 +288,12 @@
     ]
   },
   "conversation-cards": {
-    "name": "walal karxitte",
-    "seoTitle": "walal qimbise Dementia: muuci gatbaroori",
+    "name": "Walal karxitte",
+    "seoTitle": "walal qimbisem dementiya: muuci gatbaroori",
     "h1": "walal karxitte",
-    "description": "taswiir gatbaroori lih sahlik yan walal qimmiseh yan marah dementia luk yan marah: essero mali, gitah yan gacsitte mali. Alaalaqal doqaysim akkek inkih tan kobox itbiqa.",
+    "description": "taswiir gatbaroori lih sahlik yan walal qimmiseh yan marah dementia luk yan marah: essero mali, gitah yan gacsitte mali.",
     "short": "muuci gatbaroori fakut tan, sahlin esseroora luk. essero mali.",
-    "players": "2 num hinnay inki butta",
+    "players": "2 num akkek butta",
     "intro": "Kulli kardi nammay takkoh buxa marih taswiir luk fakkiimeh yan arciba, axcih \"Macaay atu faxxah tan hawa?\" Massat tan gacsitte matan kee kassitam faxximtaamak tu matan. ximmo door akkek inkih ken esgegey.",
     "howTo": [
       "ximmo door, akkek dacris \" inkih tan gatbaroori\".",
@@ -328,7 +328,7 @@
     "h1": "muuci nammaytakkoh: isi muucittel ramaddos",
     "description": "isi buxah marih muucitte sahlin ramaddos digir fan kor. door 2 ilaa 6 muucitte isi yahaazal; oson ku birowseril yaadeenim kee qigdu matakka.",
     "short": "isi muucitte doortam kee ken ramaddos. Tu matakarna.",
-    "players": "2 Num Tattab Tattab",
+    "players": "2 num, tattab tattab",
     "intro": "Namma ilaa laca taswiir doorit isi telfoon, tablet hinnay kompiiter, kee oson kaxxa, yanbulle taswiir luk ittat axawah tan digir yakke. muucitte dubuk ta galih addat tammulleeh tan. oson matakrinnon, daanisen hinnay tabisen, kee oson bayeenih atu gali alifta wak.",
     "howTo": [
       "\"Tasaawir doorit\" xagtam kee nammayaak leceey takke taswiiritte ugus.",
@@ -358,8 +358,8 @@
   },
   "picture-bingo": {
     "name": "muuci bingo",
-    "seoTitle": "muuci Bingo idoola lih Dementia: matbaqah",
-    "h1": "muuci bingo buttah",
+    "seoTitle": "muuci Bingo idoola lih Dementiya: matbaqah",
+    "h1": "muuci bingo buttaati",
     "description": "currik tan muucitte bingo mesenkaca hanaawi kee fayyale buttaati, kaxxa alaalaqah seeco luk. kaxxa muucitte qangor luk, 9 akkek 16 affara amo, kawsi mafaxxiima.",
     "short": "matbaqah taswiir bingoh gatbaroori kee buttaati kaxxa alaalaqah seeco.",
     "players": "ilaa 30 fan tan butta",
@@ -393,12 +393,12 @@
     ]
   },
   "calm-breathing": {
-    "name": "Sabhalal le ufuyrubiyya",
+    "name": "Sabhalal le ufuyrubti",
     "seoTitle": "Sabhalal le ufuyrubtih soolo idoola kee hanaawiseenit",
     "h1": "Sabhalal le ufuyrubtih soolo",
     "description": "caatih, tibba le ufuyrubtih soolo tabaatabsaanam: sahlin maroyta dadaltaah lica ufuyrubtih shrink. Atu qimbissaah, faxe uddur soolissam duddah.",
     "short": "ufuy rubtuh caatih tan maroyta. Atu faxxa wak qimbisaay soolis.",
-    "players": "1 akkek 2 numu",
+    "players": "1 akkek 2 num",
     "intro": "Inki inki way tayse abnisso tibba le soolo. \"Qimmis\" xag, tokkeek maroyta elle dadaltaamal ufuy rubtaah, iroh ufuy ruuba. Taciilah akkek sissik tulsika doorita. tah dayla hinna, dubuk salaam le uddur tabaatabsaanam.",
     "howTo": [
       "raacat luk daffeya tattab tattab.",

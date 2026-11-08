@@ -308,6 +308,14 @@
 .lang-menu > summary::-webkit-details-marker {
   display: none;
 }
+.lang-menu > summary:hover {
+  color: var(--gm-on-primary);
+}
+.lang-menu > summary:hover h2 {
+  color: var(--gm-on-primary);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
 .lang-menu > summary:focus-visible {
   outline: 3px solid var(--gm-primary-container);
   outline-offset: 4px;
@@ -1205,9 +1213,18 @@ summary {
     color: #000000;
     font-weight: 800;
   }
+  .lang-menu > summary:hover h2 {
+    color: #FFFFFF;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+  }
   .lang-menu > summary:focus-visible {
     outline: 3px solid #FFFFFF;
     outline-offset: 4px;
+  }
+  .lang-menu a:focus-visible {
+    outline: 3px solid #FFFFFF;
+    outline-offset: 3px;
   }
   .lang-menu a[aria-current] {
     text-decoration: underline;
@@ -1248,6 +1265,13 @@ summary {
   .site-footer a:focus-visible {
     outline: 3px solid #FFFFFF;
     outline-offset: 3px;
+  }
+  .footer-note {
+    border-top: 2px solid #FFFFFF;
+    color: #FFFFFF;
+  }
+  .footer-note p {
+    color: #FFFFFF;
   }
   .skip-link {
     background: #000000;
@@ -1454,9 +1478,17 @@ summary {
   .breadcrumbs li:not(:last-child)::after {
     color: CanvasText;
   }
+  .lang-menu > summary:hover,
+  .lang-menu > summary:hover h2 {
+    color: Highlight;
+  }
   .lang-menu > summary:focus-visible {
     outline: 3px solid Highlight;
     outline-offset: 4px;
+  }
+  .lang-menu a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 3px;
   }
   .lang-menu a[aria-current] {
     outline: 2px solid Highlight;
@@ -1489,6 +1521,13 @@ summary {
   .site-footer a:focus-visible {
     outline: 3px solid Highlight;
     outline-offset: 2px;
+  }
+  .footer-note {
+    border-top: 2px solid CanvasText;
+    color: CanvasText;
+  }
+  .footer-note p {
+    color: CanvasText;
   }
   .skip-link {
     forced-color-adjust: none;

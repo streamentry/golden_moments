@@ -8,7 +8,7 @@
     "mainNav": "Main",
     "titleSuffix": " | Golden Moments",
     "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "ᓀᐦᐃᔭᐍᐏᐣ",
+    "languages": "Language",
     "englishOnly": "(English)",
     "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
     "readOriginal": "Read the original in English",
@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Text size",
       "smaller": "Standard text",
-      "larger": "Larger text"
+      "larger": "Larger text",
+      "contrast": "Higher contrast"
     }
   },
   "footer": {

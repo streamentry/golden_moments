@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Mont d'an endalc'had pennañ",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Obererezhioù evit an diskiant",
+    "homeLabel": "Momantoù aour en ti",
+    "mainNav": "Pennañ",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Brezhoneg",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Momantoù aour : skeudennoù bras ha plijus eus ur banne-te, ur bleunienn-heol hag ur c'hi",
+    "languages": "Yezh",
+    "englishOnly": "(Saozneg)",
+    "machineTranslated": "Troet eo bet ar bajenn-mañ ent emgefre ha n'eo ket bet gwiriet c'hoazh gant ur yezher orin.",
+    "readOriginal": "Lenn an orin e saozneg",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "C'hoarioù",
+      "activities": "Obererezhioù",
+      "caregiving": "Ober war-dro",
+      "brainHealth": "Yec'hed an empenn"
     },
-    "faqTitle": "Questions and answers",
+    "faqTitle": "Goulennoù ha respontoù |",
     "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "home": "Ti",
+    "lastUpdated": "Hizivaet da ziwezhañ",
+    "topics": "Danvezioù",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Ment an destenn",
+      "smaller": "Testenn skoueriek",
+      "larger": "Testenn vrasoc'h",
+      "contrast": "Keñveriañ uheloc'h"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Choari",
+    "picturePairs": "Koubladoù skeudennoù",
+    "conversationCards": "Kartennoù kaozeal",
+    "pictureBingo": "Bingo dre skeudennoù",
+    "allGames": "An holl c'hoarioù",
+    "pictures": "Skeudennoù da voullañ",
+    "activityIdeas": "Mennozhioù obererezhioù",
+    "ideas101": "101 mennozh obererezh",
+    "lateStage": "Obererezhioù diwezhatoc'h",
+    "printable": "Obererezhioù da voullañ",
+    "allActivities": "An holl obererezhioù",
+    "forCaregivers": "Evit ar re a ra war-dro ar vugale",
+    "playTogether": "Penaos c'hoari asambles",
+    "selfCare": "Ober war-dro ac'hanoc'h hoc'h-unan",
+    "brainHealth": "Enklask war yec'hed an empenn",
+    "faq": "Goulennoù ha respontoù |",
+    "about": "Diwar-benn",
+    "approach": "Hon doare da vont en-dro",
+    "howWeWrite": "Penaos e skrivomp",
+    "organizations": "Evit an aozadurioù",
+    "app": "An arload Golden Moments",
+    "appHelp": "Skoazell an arload",
+    "support": "Harpañ",
+    "legal": "Hervez lezenn",
+    "sitePrivacy": "Prevezded al lec'hienn",
+    "appPrivacy": "Politikerezh prevezded an arloadoù",
+    "privacyChoices": "Dibaboù prevezded",
+    "terms": "Termenoù ha aotre an arload",
+    "safety": "Surentez hag implij rakwelet",
+    "accessibility": "Aesded",
+    "healthNotice": "Kemennadenn titouroù war ar yec'hed",
+    "allLegal": "An holl ditouroù lezennel",
+    "note": "Kinnig a ra Golden Moments obererezhioù rannet simpl evit ar blijadur. N'eo ket ur c'huzul mezegiezh, un test pe un tretadenn, ha ne vez ket diagnozet, muzuliet pe skoret den ebet. Evit goulennoù yec'hed, komzit gant ur medisin. En ur gwallzarvoud, pellgomzit d'ar 911.",
+    "publisher": "Embannet gant Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Dementia & Alzheimer C'hoarioù ha obererezhioù | Momantoù aour",
+    "description": "C'hoarioù skeudennoù digoust ha dous da c'hoari enlinenn ha mennozhioù obererezhioù evit an dud o vevañ gant an diskiant pe Alzheimer hag o zud.",
+    "eyebrow": "Digoust · Bruderezh ebet · Enskrivadur ebet · Amzer pe skor ebet",
+    "h1": "C'hoarioù ha obererezhioù dous evit an dud gant an diskiant",
+    "lede": "C'hoarioù skeudennoù simpl, luc'hskeudennoù anavezet, hag obererezhioù da c'hoari asambles — d'ho tizh.",
+    "playGame": "C'hoari ur c'hoari",
+    "findIdeas": "Kavout mennozhioù obererezhioù",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Labourat a ra war ar pellgomzer, an daolenn hag an urzhiataer",
+      "Skeudennoù bras a chom da vezañ diskouezet",
+      "Paouez e kement mare; netra da c'hwitañ"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Un arload digoust evit iPhone, iPad hag Android ivez, gant ho luc'hskeudennoù familh",
+    "albumNote": "“Daou skeudenn eus ar banne-te, asambles.”",
+    "gamesEyebrow": "C'hoari en ho merdeer",
+    "gamesTitle": "C'hoarioù a c'hallit c'hoari diouzhtu",
+    "gamesLede": "Pep hini a zo sioul, oadour ha buan da grogiñ. Dibabit unan, azezit kichen-ha-kichen, ha tapout an eil tro.",
+    "seeAllGames": "Gwelet an holl {count} c'hoarioù",
+    "howTitle": "Penaos e ya en-dro",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Dibab un dra bennak anavezet",
+        "text": "Skeudennoù tasoù-te, liorzhoù, loened-ti ha bigi-dre-lien. Lenn ebet na reolennoù da zeskiñ da gentañ."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Azezañ kichen-ha-kichen",
+        "text": "Lakaat anezho da skeiñ. Komz diwar-benn ar skeudennoù. Ur c'hemm a c'hortoz hepken ar pouez war-lerc'h."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Paouez e-keit ma sant mat",
+        "text": "Un obererezh klok eo ur c'hoari. “Graet evit bremañ” a vez bepred war ar skramm."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "En tu all d'ar skramm",
+    "stageTitle": "Mennozhioù obererezhioù evit pep staj",
+    "stageLede": "Sonerezh, oberoù pemdeziek, eñvorennoù ha mareoù skiantel sioul, azasaet ouzh ar pezh a sant mat bremañ.",
+    "ideas101": "101 mennozh obererezh",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Stad kentañ",
+        "text": "Kenderc'hel da ober ar pezh a blij dezho, gant kemmoù bihan : hobbies, troiadoù, c'hoarioù gerioù ha raktresañ asambles.",
+        "label": "Mennozhioù evit ar mareoù kentañ"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Stad kreiz",
+        "text": "Labourioù simpl ha anavezet e pazennoù : plegañ, renkañ, sonerezh, c'hoarioù skeudennoù ha pourmenadennoù berr.",
+        "label": "Mennozhioù etre"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Stad diwezhatoc'h",
+        "text": "Aesded ha liamm dre an touch, ar son hag ar gwel : evezhiañ an daouarn, kanaouennoù karetañ, luc'hskeudennoù ha bezañ asambles.",
+        "label": "Mennozhioù diwezhatoc'h"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Emaoc'h o klask un dra bennak resis ? Klask <a href=\"/activities/alzheimers/\">obererezhioù ha c'hoarioù evit an Alzheimer</a>, <a href=\"/activities/memory-games/\">c'hoarioù memor dous</a>, <a href=\"/activities/trivia/\">traoù aes</a> pe <a href=\"/activities/puzzles/\">puzzleoù</a>.",
+    "approachEyebrow": "Hon doare da vont en-dro",
+    "approachTitle": "Un obererezh rannet, n'eo ket un amprouenn memor",
+    "approachLede": "Kalz a \"c'hoarioù empenn\" a zo savet tro-dro d'an tizh, d'ar poentoù ha d'an heuliadoù. Evit unan bennak o vevañ gant an diskiant e c'hell bezañ un arnodenn. Savet hon eus ar c'hontrol.",
+    "approachLink": "Perak e vez savet evel-se",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Netra da c'hwitañ",
+        "text": "Eurvezh, skor, buhezioù pe koll ebet. Ur paouez eo ur skeudenn disheñvel, n'eo ket ur fazi."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Chom a ra ar skeudennoù da vezañ diskouezet",
+        "text": "Anavezout dreist adkavout. Kregiñ a ra ar c'heñveriañ war-zu an nec'h, setu n'eus netra da zerc'hel soñj anezhañ."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Oadour ha dellezek",
+        "text": "Gerioù tomm, eeun ha skeudennoù eus ar bed gwirion. Biskoazh tresadennoù-bev pe komzoù babig."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Prevez dre ijin",
+        "text": "Kont ebet pe bruderezh ebet. Ne guita ket ho luc'hskeudennoù ho trevnad."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Evit ar re a ra war-dro ar vugale",
+    "guidesTitle": "Titouroù pleustrek evit ar preder pemdeziek",
+    "allCaregiving": "An holl heñcherioù evit ar skoazell",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Penaos c'hoari c'hoarioù asambles",
+        "text": "Arventennañ, mont en-dro, ha petra ober pa vez paouezet gant ur c'hoari da vezañ plijus."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Pa lavaront nann d'un obererezh",
+        "text": "Abegoù boutin evit nac'hañ, ha doareoù dous da glask en-dro diwezhatoc'h."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "O staliañ un daolenn",
+        "text": "Testenn vrasoc'h, nebeutoc'h a zarempredoù hag ur skramm degemer simpl hepken."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Obererezhioù moullañ digoust",
+        "text": "Klaskoù gerioù lizherennoù bras, pajennoù livañ, bingo ha kartennoù kaozeal."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Yec'hed an empenn : ar pezh a lavar an enklask e gwirionez",
+    "researchText": "Ha gallout a reer mirout ouzh an diskiant ? Ha sikour a ra ar c'hoarioù empenn ? Ha diwar-benn ar yun, ar boued, ar c'housk hag ar c'hleved ? Respontoù eeun ha fontoù, en o zouez lec'hioù ma vez gwan an testenioù.",
+    "researchLink": "Lenn an titouroù enklask",
+    "appEyebrow": "Un arload ivez",
+    "appTitle": "Momantoù aour war iPhone, iPad hag Android",
+    "appText": "Labourat a ra an arload digoust ezlinenn ha gallout a ra implijout luc'hskeudennoù familh a zibabit, miret evel skouerennoù war ho trevnad. Heñvel tres sioul : pevar teul bras, hep amzer, hep skor.",
+    "aboutApp": "Diwar-benn an arload",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Petra eo ar c'hoarioù mat evit an dud gant an diskiant ?",
+        "a": "C'hoarioù mat a zo simpl, anavezet ha hep gwask : skeudennoù bras da glotañ, renkañ, jigsaws aes, echuiñ lavarennoù anavezet mat, livañ, bingo skeudennoù ha kartennoù kaozeal. An dibab gwellañ eo an hini a blij d'an den hiziv an deiz. Diwallit diouzh an amzerioù, ar poentoù ha kement tra a seblant bezañ un amprouenn."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Digoust eo ar c'hoarioù-se evit an diskiant ?",
+        "a": "Ya. Pep c'hoari ha pep moullañ war Golden Moments a zo digoust, hep kont, enskrivadur pe pellgargadenn. Redek a ra ar c'hoarioù er merdeer web war ur pellgomzer, ur tabletenn pe un urzhiataer."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Ha diwall a ra ar c'hoarioù empenn ouzh an diskiant ?",
+        "a": "N'eus bet diskouezet c'hoari ebet evit mirout ouzh an diskiant, ha ne lavar ket Golden Moments e c'hall pareañ pe diwall netra. Ar c'hoarioù a zo evit ar blijadur hag an amzer asambles. Displegañ a ra hor rann yec'hed an empenn ar pezh a ziskouez an enklaskoù hag ar pezh ne ziskouez ket."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Ha dereat eo ar c'hoarioù-se evit unan bennak gant Alzheimer ?",
+        "a": "Ya. Ar c'hleñved Alzheimer eo an abeg peurliesañ d'an diskiant, ha savet eo ar c'hoarioù evit se : skeudennoù bras a chom da ziskouez, nebeut a zibaboù, ha netra da zerc'hel soñj pe da faziañ. Ar c'heñveriañ, ar renkañ hag an echuiñ gerioù anavezet a zo diazezet war ar ouiziegezh bet dalc'het abaoe pell kentoc'h eget war ar c'helenn nevez."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Hag-eñ e c'hall unan bennak gant un diskiant diwezhatoc'h implijout an obererezhioù-se ?",
+        "a": "Alies, ya, gant unan bennak en o c'hichen. Kregiñ gant Kavout an hevelep tra gant daou skeudenn, Skeudennoù gant pevar teul, ur bajenn livañ pe un ehan sioul. Chomit berr, heuliit o hent ha paouezit pa vo a-walc'h ganto."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Ha prevez eo ma titouroù ?",
+        "a": "N'eus kont ebet war al lec'hienn ha bruderezh ebet. Implijout a reomp Google Analytics evit kompren peseurt pajennoù a vez gweladennet. Al luc'hskeudennoù dibabet ganeoc'h evit ar c'houbladoù luc'hskeudennoù a vez diskouezet en ho merdeer hepken ha ne vezont ket pellgarget morse."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Piv a ra Golden Moments ?",
+        "a": "Golden Moments zo ur skipailh bihan a ra obererezhioù luc'hskeudennoù evit an dud deuet evit ar familhoù hag ar re a ra war-dro ar vugale, war ar Genrouedad hag evel un arload digoust. N'omp ket medisined, ha netra amañ a zo alioù mezegiezh."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "abred",
+    "middle": "kreiz",
+    "late": "diwezhatoc'h",
+    "hintOne": "Dilhad alies {list} leurenn",
+    "hintMany": "Dilhad alies {list} stajoù",
+    "labelEarly": "Stad kentañ",
+    "labelMiddle": "Stad kreiz",
+    "labelLate": "Stad diwezhatoc'h"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Diwar-benn ar c'hoari-mañ",
+    "printable": "Moullañ",
+    "play": "Choari {name} →",
+    "readGuide": "Lenn an hentenn"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Prest evit ur c'hoari dous ?",
+    "text": "Skeudennoù bras, horolaj ebet, skor ebet ha netra da enskrivañ. C'hoari asambles en ho merdeer.",
+    "play": "C'hoari ur c'hoari",
+    "all": "Gwelet an holl c'hoarioù",
+    "aria": "C'hoari ur c'hoari"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
-    "appStoreShort": "App Store",
+    "title": "Kasit ar c'hoarioù-mañ ganeoc'h",
+    "text": "An arload digoust Golden Moments evit iPhone, iPad hag Android : teulioù skeudennoù bras, c'hoarioù gant ho skeudennoù familh, ha pakadoù skeudennoù a ya en-dro hep Wi‐Fi. Kont, bruderezh, horolaj pe skor ebet.",
+    "appStore": "Kaout anezhañ war an App Store",
+    "googlePlay": "Kaout anezhañ war Google Play",
+    "appStoreShort": "Stal arloadoù",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Diwar-benn an arload",
+    "aria": "Kaout an arload"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Obererezhioù",
+      "title": "Obererezhioù evit an dud gant an diskiant",
+      "seo": "Obererezhioù evit an dud gant an diskiant : mennozhioù dre stad",
+      "description": "Mennozhioù obererezhioù evit an dud o vevañ gant an diskiant e pep mare : sonerezh, eñvorennoù, oberoù pemdeziek, mareoù skiantel, artizanerezh, diavaez ha moullañ.",
+      "lede": "An obererezh talvoudus eo kement tra a zegas frealzidigezh, pal pe ur mare a liamm. Kregiñ gant ar pezh en deus plijet an den bepred, ha lakaat anezhañ da glotañ gant an deiz a hiziv."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Ober war-dro",
+      "title": "Titouroù evit ar skoazell",
+      "seo": "Titouroù evit ober war-dro an dud klañv gant an diskiant : skoazell bemdez pleustrek",
+      "description": "Titouroù pleustrek ha dous evit ar re a ra war-dro an diskiant : c'hoari c'hoarioù asambles, kehentiñ, nac'hañ, dic'hortoz diwezhatoc'h, tabletennoù, dibab arloadoù.",
+      "lede": "Skoazell eeun ha pleustrek evit ar mareoù pemdeziek a vez graet war-dro unan bennak o vevañ gant an diskiant, en o zouez ober war-dro ac'hanoc'h hoc'h-unan."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Yec'hed an empenn",
+      "title": "Yec'hed an empenn : ar pezh a lavar an enklaskoù",
+      "seo": "Yec'hed an empenn ha riskloù diskiant : ar pezh a lavar an enklaskoù",
+      "description": "Ha gallout a reer mirout ouzh an diskiant ? Titouroù onest ha kavet diwar-benn ar faktoroù riskl evit an diskiant, ar c'hoarioù empenn, ar yun, ar boued, ar sport.",
+      "lede": "Ar pezh a ziskouez studiadennoù bras e gwirionez diwar-benn digreskiñ ar riskloù diskiant, displeget splann, en o zouez lec'hioù gwan pe kemmesk an testenioù. Titouroù hollek, n'eo ket alioù mezegiezh."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Hizivaet",
+    "minuteRead": "{n} lenn a vunutenn",
+    "byTeam": "Gant ar skipailh Golden Moments",
+    "howWeWrite": "Penaos e skrivomp",
+    "shortAnswer": "Ar respont berr",
+    "onThisPage": "War ar bajenn-mañ ({n} rannoù)",
+    "commonQuestions": "Goulennoù boutin",
+    "sources": "Mammennoù",
+    "sourcesNote": "Liammañ a reomp war-du an aozadurioù hag ar studiadennoù ma vez diazezet ar bajenn-mañ warno. Pep hini a oa bet gwiriet pa oa bet hizivaet ar bajenn.",
+    "tryTogether": "Klaskit asambles",
+    "relatedGuides": "Titouroù liammet",
+    "related": "Liammet gant",
+    "startHere": "Kregiñ amañ"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Kemennadenn titouroù war ar yec'hed",
+    "title": "Titouroù hollek, n'eo ket alioù mezegiezh",
+    "textHtml": "Diverrañ a ra ar bajenn-mañ an enklaskoù embannet evit ar familhoù. Ne c'hell ket lâret deoc'h ar pezh a zo mat evit un den hepken. Komzit gant ur medisin a-raok cheñch ho died, ho sport, ho kousk, ho louzoù pe ho produioù ouzhpenn. Evit kemmoù a-daol-trumm pe kemmoù all a-daol-trumm, goulennit skoazell mezegiezh diouzhtu. <a href=\"/medical-disclaimer/\">Lenn hor c'hemennadenn war ar yec'hed</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Un obererezh rannet, n'eo ket un amprouenn memor",
+      "seoTitle": "Diwar-benn mareoù aour : hon doare da vont en-dro",
+      "description": "Perak n'eus ket a c'hoarioù Golden Moments a amzer, a skoroù pe a roudoù, perak e chom ar skeudennoù o tiskouez, ha petra a lavaromp ha petra ne lavaromp ket.",
+      "crumb": "Hon doare da vont en-dro",
+      "lede": "Golden Moments a ra obererezhioù skeudennoù sioul ha didrouz evit an oadourien a c'hell ur c'hargour hag unan bennak o vevañ gant an diskiant plijout dezho an eil ouzh egile.",
+      "bodyHtml": "<h2>Ar pezh a gredomp</h2><p>Pal un obererezh eo ar mare e-unan : ur gaozeadenn, ur mousc'hoarzh, ar blijadur da lakaat daou skeudenn asambles, pe azezañ tost hepken. N'eo ket evit muzuliañ den ebet, kas anezhañ pelloc'h pe prouiñ netra.</p><p>Kalz a arloadoù stummañ an empenn a zo savet diwar-benn an tizh, ar poentoù, ar roudoù hag al liveoù. Evit un den o vevañ gant an diskiant a c'hell bezañ un arnodenn na c'hell ket tremen. Savet hon eus ar c'hontrol, ha derc'hel a reomp d'ar reolennoù-mañ :</p><ul><li><strong>Netra da c'hwitañ.</strong> Eurier, skor, konter fiñv, buhez, strinkennoù, konfeti pe kontadennoù en-dro, war skramm ebet.</li><li><strong>Anavezout dreist adkavout.</strong> Chom a ra ar skeudennoù da vezañ diskouezet dre ziouer. Ar goulennoù a c'halv da gaozeal ha ne c'houlennont ket anvioù pe eñvorennoù.</li><li><strong>Bras, eeun ha stabil.</strong> Testenn ha skeudennoù bras, keñveriañ uhel, ha kontrolloù a chom er memes lec'h.</li><li><strong>Dellezegezh an oadourien.</strong> Skeudennoù eus ar bed gwirion ha gerioù eeun ha tomm. Tresadennoù-bev, meuleudi kan-kan pe gopr emoji ebet.</li><li><strong>Un hent aes da vont er-maez.</strong> “Echu evit bremañ” a vez gwelet bepred. Paouez hanter-hent zo un disoc'h mat.</li><li><strong>Prevez dre ziouer.</strong> Kont ebet pe bruderezh ebet. Chom a ra al luc'hskeudennoù dibabet ganeoc'h war ho trevnad.</li></ul><h2>Ar pezh na c'houlennomp ket</h2><p>Evit ar blijadur hag ar c'hennask eo hor c'hoarioù. Ne diagnosont ket, ne amprouont ket, ne vuzulont ket, ne vezont ket pareet, ne gorrekaont ket pe ne viront ket ouzh an diskiant pe kleñved Alzheimer, ha den ne zlefe o dibab evit an abeg-se. Pa skrivomp diwar-benn an enklaskoù war hon <a href=\"/brain-health/\">pajennoù yec'hed an empenn</a>, e lavaromp splann e-lec'h ma vez gwan an testenioù, ha ne liammomp ket anezho ouzh hor c'hoarioù hon-unan.</p><h2>Piv omp</h2><p>Ur skipailh bihan dizalc'h eo Golden Moments. N'omp ket medisined. Skrivet eo bet hor c'hemennadennoù diwar titouroù embannet gant aozadurioù evel an Ensavadur Broadel war ar Gozhni hag ar Gevredigezh Alzheimer, ha pep kemennadenn a ginnig e fontoù. Lenn <a href=\"/editorial-policy/\">penaos e skrivomp ha penaos e gwiriomp hor pajennoù</a>.</p><h2>Lavar deomp petra a sikourfe</h2><p>Plijout a rafe deomp klevet ar pezh a ya mat evidoc'h hag ar pezh n'eo ket, dreist-holl digant an dud o vevañ gant an diskiant, ar re a ra war-dro ar familhoù hag ar skipailh obererezhioù. Postel <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Penaos e skrivomp ha penaos e gwiriomp hor pajennoù",
+      "seoTitle": "Politikerezh embann",
+      "description": "Penaos e vez enklasket, skrivet, kavet ha hizivaet gant Golden Moments e bajennadoù diwar-benn obererezh an diskiant ha yec'hed an empenn, ha petra ne vo ket.",
+      "crumb": "Politikerezh embann |",
+      "bodyHtml": "<h2>Ar mammennoù</h2><p>Diazezet hon eus hor c'hemennadennoù war alioù foran aozadurioù evel an Ensavadur Broadel war ar Gozhni, ar CDC, ar Gevredigezh Alzheimer, Diazezadur Alzheimer Amerika, ar Family Caregiver Alliance hag an NHS, ha war enklaskoù gwiriet gant ar c'henseurted evel ar burutelladennoù Cochrane hag an enklaskoù klinikel bras. Pep titour a ro ur roll eus ar fontoù ma vez fiziet enno. Digeriñ a reomp pep mammenn a-raok he menegiñ, ha ne ginnigomp nemet ar pezh a lavar e gwirionez.</p><h2>Penaos e skrivomp</h2><ul><li>Pratik da gentañ : petra ober hiziv, e yezh eeun.</li><li>Onest diwar-benn an testenioù : lavaret a reomp “liammet gant”, “marteze” ha “mesket eo an testenioù” pa vez ar wirionez.</li><li>Doujañs : skrivañ a reomp diwar-benn tud o vevañ gant an diskiant evel tud deuet, ha ne implijomp ket yezhoù goulennoù pe mezhekaat.</li><li>Endalc'had ijinet ebet : stadegoù ijinet, menegoù, arbennigourien, studiadennoù, burutelladennoù pe testenioù ijinet ebet.</li></ul><h2>Piv a adwelet hor pajennoù</h2><p>Skrivet ha gwiriet e vez ar pajennoù gant skipailh Golden Moments, gant skoazell ostilhoù skrivañ AI evit an enklask hag an tresañ. Pep pajenn a vez kontrollet ouzh he mammennoù gant ar skipailh. Ar pajennoù o deus <strong>ket</strong> bet adwelet gant ur medisin pe ur medisin all, ha ne lavaromp ket ar c'hontrol. Titouroù hollek int, n'int ket kuzulioù mezegiezh.</p><h2>Ar pezh ne vo ket embannet ganeomp</h2><ul><li>Lavarout a ra e vez miret, tretet, gorrekaet pe yac'haet an diskiant gant ur c'hoari, ur boued, ur c'hementad, ur yun pe ur routine.</li><li>Testoù, goulennoù pe poentoù a ziskouez ez eus gant unan bennak, pe n'en deus ket, an diskiant.</li><li>Alioù evit kregiñ, paouez pe cheñch ne vern peseurt medisin.</li><li>Bruderezh pe endalc'hadoù paeroniet kuzhet evel titouroù.</li></ul><h2>Hizivadennoù ha reizhadennoù</h2><p>Pep pajenn a ziskouez an deiziad m'eo bet hizivaet evit ar wech diwezhañ. Ma kavit ur fazi pe ur vammenn diamzeret, kasit ur postel <a href=\"mailto:{email}\">{email}</a> ha gwiriañ a raimp diouzhtu.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Goulennoù ha respontoù",
+      "seoTitle": "C'hoarioù ha obererezhioù evit an diskiant : goulennoù ha respontoù",
+      "description": "Respontoù da c'houlennoù boutin diwar-benn ar c'hoarioù hag an obererezhioù evit an diskiant : peseurt c'hoarioù da glask, pegen pell e vo c'hoariet, mennozhioù.",
+      "crumb": "Goulennoù ha respontoù |",
+      "lede": "Respontoù berr ha sklaer d'ar goulennoù a vez graet ar muiañ gant ar skoazellerien.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Diwar-benn ar c'hoarioù",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Petra eo ar c'hoarioù gwellañ evit unan bennak gant an diskiant ?",
+              "a": "Ar c'hoarioù gwellañ a zo anavezet, simpl ha hep gwask, hag an hini dereat eo ar pezh a blij d'an den hiziv an deiz. Keñveriañ skeudennoù gant skeudennoù gwelus, renkañ, jigsaws aes, echuiñ gerioù anavezet, livañ ha bingo skeudennoù a ya mat evit kalz a dud. Diwallit diouzh an amzerioù, ar poentoù ha kement tra a seblant bezañ un amprouenn."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Digoust eo ar c'hoarioù e gwirionez ?",
+              "a": "Ya. Digoust eo an holl c'hoarioù hag an holl draoù moullañ, hep kont, enskrivadur, pellgargadenn pe bruderezh."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Perak n'eus ket a skoroù, a liveoù pe a amzerioù ?",
+              "a": "An tizh hag ar poentoù a laka un obererezh plijus da vezañ un arnodenn, ar pezh a c'hell degas mezh pe nec'hamant. Kemer a reomp ar gaoz war ar blijadur hag an amzer asambles, setu n'eus netra da c'hwitañ ha gallout a rit paouez e kement lec'h."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Peseurt urzhiataerioù a ya gwelloc'h ?",
+              "a": "Pep pellgomzer, tabletenn pe urzhiataer gant ur merdeer web modern. Ur bladenn war ur stand ouzh un daol eo alies an doare aesañ evit daou zen da c'hoari kichen-ha-kichen. Un urzhiataer hezoug kevreet ouzh ur skinwel a ya mat evit ar strolladoù."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Ha gallout a reomp c'hoari gant luc'hskeudennoù hor familh hon-unan ?",
+              "a": "Ya. Ar c'houbladoù luc'hskeudennoù a laka 2 da 6 luc'hskeudenn dibabet ganeoc'h da vezañ ur c'hoari keñveriañ. Chom a ra al luc'hskeudennoù en ho merdeer ha ne vezont ket pellgarget pe enrollet."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Obererezhioù ha prederiañ",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Pegen pell e tle padout un obererezh ?",
+              "a": "Alies e vez a-walc'h 10 pe 20 munutenn, hag a-wechoù e vez 2 vunutenn ur berzh. Sellit ouzh merkoù skuizhder pe nec'hamant ha paouezit e-keit ma santit mat c'hoazh. N'eus ket a sammad dereat."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Ha ma ne fell ket dezho ober un obererezh ?",
+              "a": "Doujit ouzh an nann, ha klaskit en-dro diwezhatoc'h pe en un doare all. Ar nac'hadenn a c'hell dont eus ar skuizhder, eus ar boan, eus ar santimant da vezañ dic'houest pe da vezañ dedennet hepken. Sellit ouzh hor c'hemennadenn evit gouzout petra ober pa lavaront nann."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Peseurt obererezhioù a glot gant an diskiant diwezhatoc'h ?",
+              "a": "Ar c'hoant hag ar skiantoù : selaou sonerezh karetañ, masañ an daouarn gant louzoù, sellet ouzh fotoioù asambles, derc'hel ur vantell dous, azezañ er-maez, pe ur c'hoari skeudennoù simpl-tre gant unan bennak en o c'hichen. Kalz muioc'h a mennozhioù en deus hor c'hemennadur diwezhatoc'h."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Hag obererezhioù zo evit ar strolladoù en un ti-kêr ?",
+              "a": "Ya. Kartennoù a c'haller moullañ hag ur pellgomzer war ar skramm a zo gant ar bingo dre skeudennoù, ha kartennoù Echuiñ ar c'homzoù hag ar gaozeadennoù a ya mat da lenn a vouezh uhel. Ar c'hemennadennoù evit ar strolladoù tiez-kêr a denn da ment ar strollad, d'an azezennoù ha d'an emdroadur evit barregezhioù disheñvel."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Yec'hed an empenn",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Hag ar c'hoarioù a c'hell diwall pe gorrekaat an diskiant ?",
+              "a": "N'eus bet diskouezet c'hoari ebet evit mirout ouzh an diskiant, ha ne lavar ket hor c'hoarioù kement-se. Diskouezet en deus ar stimuladur kognitivel en un endro sokial gounidoù bihan en enklaskoù evit an dud gant diskiant skañv pe etre, met disheñvel eo diouzh ur c'hoari a vir ouzh ar c'hleñvedoù. Kinnig a reomp c'hoarioù evit ar blijadur hag ar c'hennask."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Ha gallout a reer mirout ouzh an diskiant ?",
+              "a": "N'eo ket gant surentez. Enklaskoù a liamm 14 faktor yec'hed ha doare bevañ ouzh ar riskloù da gaout diskiant, evel ar c'holl kleved, ar gwask gwad uhel, an dic'houestl korfel hag an digenvezded sokial. Pa vezont o stourm e c'hallfe tud zo digreskiñ ar riskloù, met kalz a dud a ra pep tra evel m'eo dleet a gav c'hoazh an diskiant. N'eo ket fazi den ebet biskoazh."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Ha mat eo ar yun a-wechoù evit yec'hed an empenn ?",
+              "a": "Bevennet ha abred eo an testenioù denel, ha kalz eus an enklaskoù a zo war al loened. Ar yun a c'hell bezañ risklus evit an dud kozh, dreist-holl gant medisined evit an diabetes pe gant koll pouez dic'hortoz, ha n'eo ket erbedet evit an dud a vev gant an diskiant. Komzit gant ur medisin a-raok cheñch ho doare da zebriñ."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Prevezded ha surentez",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Dastum a rit titouroù ?",
+              "a": "Kont ebet pe bruderezh ebet. Implijout a reomp Google Analytics evit kontañ ar gweladennoù ha gwelet peseurt pajennoù a sikour, ha soñjal a ra ho merdeer hag-eñ hoc'h eus gweredekaet ar sonioù dous. Ne vez ket pellgarget biskoazh al luc'hskeudennoù dibabet ganeoc'h evit ar c'houbladoù luc'hskeudennoù. Sellit ouzh ar c'hemenn prevezded evit gouzout hiroc'h."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Ur c'huzul mezegiezh eo ?",
+              "a": "Nann. Golden Moments a zo evit ar c'hoariva hag an titouroù dre vras. Evit goulennoù yec'hed, komzit gant ur medisin, ha evit an enkadennoù, pellgomzit d'ar 911."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Muioc'h a ditouroù : <a href=\"/caregiving/how-to-play-together/\">penaos c'hoari asambles</a>, <a href=\"/caregiving/when-they-say-no/\">pa lavaront nann</a>, <a href=\"/activities/late-stage/\">obererezhioù diwezhatoc'h</a> ha <a href=\"/brain-health/can-dementia-be-prevented/\">gallout a reer mirout ouzh an diskiant ?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "C'hoarioù digoust ha dous evit an dud o vevañ gant an diskiant",
+      "seoTitle": "Teuliad moullañ : C'hoarioù digoust evit an diskiant enlinenn",
+      "description": "Ur follenn moullañ ur bajenn evit ar familhoù hag ar skoazellerien diwar-benn c'hoarioù skeudennoù digoust ha dous evit an dud o vevañ gant an diskiant, evit ar.",
+      "crumb": "Teuliad skignañ a c'haller moullañ",
+      "lede": "Moullañ ar bajenn-mañ evit ur strollad skoazell, ur pakad evezhiañ pe dor ar yenerez. Implijit urzhiad Moullañ ho merdeer ; lezet eo al lañserioù hag ar boutonoù diouzh ar moulladur.",
+      "introHtml": "<p>Skeudennoù bras, gerioù eeun ha netra da c'hwitañ. Digoust war ur pellgomzer, ur tabletenn pe un urzhiataer, hep enskrivañ, hep bruderezh, hep amzerioù ha hep poentoù. Azezit kichen-ha-kichen ha kemerit ho tro.</p>",
+      "gamesTitle": "C'hoarioù da amprouiñ asambles",
+      "restHtml": "<h2>Un nebeud alioù</h2><ul><li>Dibabit un eur eus an deiz ma vez an den en e wellañ.</li><li>Kregiñ gant an arventennoù aesañ. Pevar teul a zo a-walc'h.</li><li>Komz diwar-benn ar skeudennoù. Ar gaozeadenn eo al lodenn wellañ alies.</li><li>Paouez e-keit ma sant plijus c'hoazh. Un disoc'h mat eo echuiñ a-raok.</li></ul><h2>War al lec'hienn ivez</h2><ul><li>Moullañ digoust : klask gerioù bras, pajennoù livañ, kartennoù kaozeal ha bingo skeudennoù.</li><li>Mennozhioù obererezhioù evit pep staj, ha titouroù evit c'hoari asambles ha penaos ober war-dro hoc'h-unan.</li></ul><p class=\"muted\">Evit ar blijadur hag an amzer asambles. N'eo ket ur c'huzul mezegiezh, un test pe un tretadenn. Golden Moments a zo embannet gant Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Evit an tiez-kêr, al levraouegoù hag ar strolladoù skoazell",
+      "seoTitle": "Obererezhioù digoust evit an diskiant evit an tiez-kêr hag ar strolladoù",
+      "description": "Penaos e implij an tiez-kêr, ar programmoù evit an dud deuet, al levraouegoù, an ajañsoù evit an dud kozh hag ar strolladoù skoazell hor c'hoarioù digoust evit an.",
+      "crumb": "Evit an aozadurioù",
+      "lede": "Digoust eo pep tra war al lec'hienn-mañ evit an annezidi, an izili hag ar c'hliented, hep kont, aotre pe gopr ebet. Displegañ a ra ar bajenn-mañ ar pezh a zo amañ ha penaos e rannañ.",
+      "shortText": "{name}: c'hoarioù skeudennoù digoust ha dous ha titouroù obererezhioù evit an dud o vevañ gant an diskiant hag o c'hargerien. Enskrivadur ebet, amzerer ebet, poentoù ebet.",
+      "longText": "{name} ({domain}) a ginnig {count} c'hoarioù merdeiñ digoust savet evit an dud klañv gant an diskiant, en o zouez koubladoù keñveriañ gant skeudennoù lezet da ziskouez, ur jigsaw aes, renkañ, lavarennoù anavezet ha bingo skeudennoù gant kartennoù moullañ. N'eus ket a gont, a bruderezh, a amzer pe a skor. War al lec'hienn ez eus ivez titouroù obererezh e yezh eeun evit pep marevezh eus an diskiant a denn d'an Ensavadur Broadel war ar Gozhni ha d'ar Gevredigezh Alzheimer.",
+      "useTitle": "Petra a c'hall an aozadurioù implijout",
+      "gamesItemHtml": "<strong>{count} c'hoarioù merdeer</strong> a ya en-dro war un urzhiataer hezoug, ur tabletenn pe ur skinwel kevreet ouzh un urzhiataer. Staliañ, kontañ pe pellgargañ ebet. Gwelet <a href=\"/games/\">an holl c'hoarioù</a>.",
+      "printablesLabel": "{count} moullañ :",
+      "printablesAfter": "Implijit ar bouton Moullañ war pep pajenn.",
+      "moreItemsHtml": "<li><strong>Furmadoù ar strolladoù :</strong> <a href=\"/games/picture-bingo/\">Bingo dre skeudennoù</a> kartennoù a c'haller moullañ hag ur pellgomzer war ar skramm en deus, ha <a href=\"/activities/trivia/\">traoù aes</a> en deus 50 goulenn gant dibaboù respontoù ha poentoù da gaozeal.</li><li><strong>Titouroù obererezhioù</strong> evit ar skipailh hag ar familhoù, dre leurenn ha dre seurt, skrivet e yezh eeun gant mammennoù. Kregiñ gant <a href=\"/activities/ideas/\">101 mennozh obererezh</a> pe <a href=\"/activities/care-home-groups/\">obererezhioù a-stroll evit an tiez-kêr |</a>.</li>",
+      "restHtml": "<h2>Penaos e vez implijet gant ar strolladoù</h2><ul><li><strong>Tiez-kêr ha skoazell ar memor :</strong> bingo dre skeudennoù pe echuiñ ar c'homzoù war ar skinwel er sal-gevret, gant un den o tapout evit ar strollad.</li><li><strong>Programmoù evit an dud deuet :</strong> ur stalioù tabletenn gant koubladoù skeudennoù lakaet war pevar teul, evit prantadoù berr unan-ouzh-unan.</li><li><strong>Levraouegoù foran :</strong> klaskoù gerioù moullet ha kartennoù kaozeal e-barzh ar c'hefluskerioù memor, hag al lec'hienn merket war tabletennoù al levraoueg.</li><li><strong>Strolladoù skoazell ar skoazellerien ha kafedioù eñvor :</strong> un <a href=\"/handout/\">teuliad moullañ ur bajenn</a> evit ar familhoù da gas d'ar gêr.</li><li><strong>Ospitalioù ha raktreserien diskargañ :</strong> ar follenn e pakadoù evit ar skoazellerien, evit un dra bennak sioul da ober en ti pe e-kichen ar gwele.</li></ul><h2>Ar pezh na reomp ket</h2><p>Ar c'hoarioù a zo evit ar blijadur hag an amzer asambles. Ne diagnosont ket, ne amprouont ket, ne skoront ket, ne vezont ket tretet pe gorrekaet an diskiant, ha goulenn a reomp digant an aozadurioù chom hep o deskrivañ evel-se. N'eus bruderezh ebet, ha ne c'houlenn ket ar c'hoarioù anvioù, titouroù yec'hed pe luc'hskeudennoù da vezañ pellgarget. Implijout a ra al lec'hienn Google Analytics evit kontañ ar gweladennoù ; hon <a href=\"/privacy/\">kemennadenn prevezded</a> displegañ a ra ar pezh a vez dastumet. Luc'hskeudennoù implijet e <a href=\"/games/photo-pairs/\">Koubladoù luc'hskeudennoù</a> chom er merdeer.</p><h2>Ouzhpennit ac'hanomp d'ho roll arc'hwelioù</h2><p>Ma vez miret ganeoc'h ur roll dafar evit ar re a ra war-dro ar vugale, e c'hallit liammañ ouzh <a href=\"/\">{domain}</a>. Gallout a rit eilañ an deskrivadur pe egile.</p>",
+      "shortTitle": "Deskrivadur berr",
+      "longTitle": "Deskrivadur hiroc'h",
+      "linksHtml": "<p>Pajennoù talvoudus da liammañ war-eeun : <a href=\"/games/\">c'hoarioù digoust</a>, <a href=\"/activities/printable/\">moullañ digoust</a>, <a href=\"/activities/alzheimers/\">obererezhioù evit an Alzheimer</a> ha <a href=\"/caregiving/how-to-play-together/\">penaos c'hoari asambles</a>.</p><h2>Goulennoù pe reizhadennoù |</h2><p>Ma 'z eus un dra bennak direizh pe amsklaer war al lec'hienn, pe ma ne vez ket respontet da ezhommoù un annezad gant ar pezh a zo amañ, lavarit deomp e <a href=\"mailto:{email}\">{email}</a>. Mar plij, na gasit ket titouroù personel pe yec'hed diwar-benn an annezidi pe ar c'hliented.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "An arload mareoù aour",
+      "seoTitle": "An arload Golden Moments evit iPhone hag Android",
+      "description": "An arload Golden Moments digoust : luc'hskeudennoù dous gant pevar teul vras, luc'hskeudennoù familh miret war ho trevnad, pakadoù luc'hskeudennoù ezlinenn ha kont.",
+      "crumb": "An arload",
+      "lede": "Pep tra a blij deoc'h diwar-benn al lec'hienn, en un arload a ya en-dro ezlinenn hag a c'hell implijout luc'hskeudennoù familh a zibabit.",
+      "worksOn": "Labourat a ra war {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Kregiñ bihan</h2><p>Kregiñ gant pevar teul vras ​​ha skeudennoù anavezet. Lakaat ar skeudennoù da vezañ gwelet, pe kuzhat anezho pa vezit aes. N'eus ket a amzer, a skor pe a gastiz er mod dous. Dibabit 4, 6, 8 pe 12 teul.</p><h2>Lakaat anezhañ da vezañ personel</h2><p>Dibabit luc'hskeudennoù familh gant dibaber luc'hskeudennoù hoc'h urzhiataer. Enrollañ a ra an arload skouerennoù bihanoc'h evit e obererezhioù. Ne skan ket ho levraoueg na ne cheñch ket ho luc'hskeudennoù orin, ha mirout a ra betek 24 luc'hskeudenn en un dastumad.</p><h2>Sellit asambles hepken</h2><p>Gwelet ur skeudenn bep tro. Ar goulennoù dibar a c'halv da gaozeal hep goulenn digant den ebet derc'hel soñj eus anvioù pe reiñ ur respont reizh. Sellet hepken a zo a-walc'h.</p><h2>Ezlinenn e-lec'h ma vez pouezus</h2><p>Skeudennoù kentañ hag an eizh pakad skeudennoù a zo e-barzh an arload. Ar skouerennoù luc'hskeudennoù enporzhiet a ya en-dro ezlinenn. Evit dibab an orinoù enrollet en iCloud hepken e c'hall bezañ ezhomm eus ur c'hennask internet.</p><h2>Kont ebet, servijer sinkronizañ luc'hskeudennoù ebet</h2><p>Chom a ra skouerennoù luc'hskeudennoù ar familh en arload war an dafariad. Gallout a rit lemel an eiladennoù hep diverkañ an orinoù. Roadennoù an arload a c'hall bezañ e-barzh ar gwarezoù urzhiataer. Lenn ar <a href=\"/app-privacy/\">politikerezh prevezded an arloadoù</a>, ha <a href=\"/help/\">skoazell an arload</a> kerzhout a ra dre bep pazenn.</p>",
+      "disclaimer": "Golden Moments a zo evit ar c'hoariva hag ar gaozeadennoù rannet. Ne diagnostik ket, ne vez ket tretet, ne vez ket difennet pe muzuliet an diskiant pe kleñved Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "C'hoarioù digoust evit an diskiant hag an Alzheimer enlinenn",
+    "description": "C'hoarioù enlinenn digoust evit an dud kozh o vevañ gant an diskiant pe Alzheimer : keñveriañ skeudennoù, jigsaws aes, renkañ, lavarennoù, livañ, bingo.",
+    "crumb": "C'hoarioù",
+    "h1": "C'hoarioù dous evit an dud gant an diskiant",
+    "lede": "{count} c'hoarioù digoust da c'hoari asambles en ho merdeer. Skeudennoù bras, gerioù eeun, ha netra da c'hwitañ : amzer ebet, poentoù ebet, enskrivadur ebet.",
+    "listName": "C'hoarioù dous evit an dud klañv gant an diskiant",
+    "byStageTitle": "Dibab ur c'hoari dre staj",
+    "byStageLede": "N'eo ar stajoù nemet un hentenn gros. Heuliañ ar pezh a blij d'an den hag ar pezh a sant mat hiziv.",
+    "stageCol": "Leurenn",
+    "gamesCol": "C'hoarioù a glot alies",
+    "moreHtml": "Muioc'h a soñjoù pell diouzh ar skramm : <a href=\"/activities/ideas/\">101 obererezh evit an dud klañv gant an diskiant</a>, <a href=\"/activities/alzheimers/\">obererezhioù ha c'hoarioù evit an Alzheimer</a>, <a href=\"/activities/memory-games/\">c'hoarioù memor dous</a> ha <a href=\"/activities/puzzles/\">puzzleoù</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Gant peseurt c'hoari e rankomp kregiñ ?",
+        "a": "Ur c'houblad skeudennoù gant pevar teul zo un dibab kentañ sioul. Ma seblant deoc'h bezañ re zibab etre skeudennoù, klaskit Kavout an hevelep tra gant daou skeudenn. Evit ur strollad, klaskit ar bingo dre skeudennoù."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Ha mont a ra ar c'hoarioù war un iPad pe ur pellgomzer ?",
+        "a": "Ya. Pep c'hoari a ya en-dro er merdeer war ar pellgomzerioù, an tabletennoù hag an urzhiataerioù, hag ar skeudennoù a gresk evit leuniañ ar skramm. Ur bladenn war ur stand a zo alies an hini aesañ evit daou zen."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Ha mat eo ar c'hoarioù-se evit unan bennak gant Alzheimer ?",
+        "a": "Ya. Graet e oant bet evit an dud o vevañ gant an diskiant, en o zouez an Alzheimer, an abeg pennañ. Chom a ra ar skeudennoù o tiskouez, n'eus nemet un nebeud dibaboù, ha ne vez netra amzeret pe skoret, setu ma vez diazezet ar c'hoarioù war anavezout traoù anavezet e-lec'h derc'hel soñj eus traoù nevez."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "C'hoarioù eñvor evit an dud kozh eo ar re-mañ ?",
+        "a": "C'hoarioù keñveriañ ha skeudennoù a c'hell plijout d'an holl dud kozh int, met savet int n'int ket evit amprouiñ ar memor : e-barzh ar c'houbladoù skeudennoù e chom ar skeudennoù dremm war-zu an nec'h nemet pa fell deoc'h ober un dra all. Displegañ a ra hor c'hemennadenn war ar c'hoarioù memor evit an dud kozh gant an diskiant penaos mirout dous kement c'hoari memor."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Ha c'hoarioù zo evit ar strolladoù en un ti-kêr ?",
+        "a": "Ya. Kartennoù a c'haller moullañ hag ur pellgomzer war ar skramm a zo gant ar bingo skeudennoù, ha kartennoù Echuiñ ar c'homzoù hag ar gaozeadennoù a ya mat lennet a vouezh uhel d'ur strollad."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad hag Android",
+    "requirements": "iOS 15 pe nevesoc'h ; Android 7.0 pe nevesoc'h",
+    "summary": "Un arload digoust evit iPhone, iPad hag Android gant keñveriañ skeudennoù dous war pevar pe daouzek teul vras, keñveriañ ha gwelet gant luc'hskeudennoù familh a zibabit, hag eizh pakad skeudennoù enni a ya en-dro hep internet. Kont, bruderezh, horolaj pe skor ebet.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Keñveriañ skeudennoù dous gant 4, 6, 8 pe 12 teul vras ​​; ar skeudennoù a chom gwelet nemet pa zibabit kuzhat anezho",
+      "Eilet e vez al luc'hskeudennoù familh dibabet ganeoc'h en arload evit o keñveriañ hag evit o sellet asambles",
+      "Sellit asambles : ur skeudenn bep tro gant goulennoù kaozeal dibar",
+      "Eizh pakad skeudennoù a zo e-barzh an arload ; labourat a reont ezlinenn",
+      "Kont, bruderezh, prenadennoù e-barzh an arload, amzer, skor pe kastiz ebet"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Hag un arload obererezhioù evit an diskiant zo ?",
+        "a": "Ya. Momantoù aour (listed evel \"{storeName}\") zo digoust war an App Store ha Google Play. Kinnig a ra keñveriañ skeudennoù dous gant teulioù bras, c'hoarioù gant luc'hskeudennoù familh dibabet ganeoc'h, ha pakadoù skeudennoù a ya en-dro ezlinenn."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Digoust eo an arload Golden Moments ?",
+        "a": "Ya. Digoust eo da bellgargañ, hep bruderezh, kont pe prenadennoù e-barzh an arload."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Ha mont en-dro an arload hep internet ?",
+        "a": "Ya. Ar skeudennoù kentañ hag an eizh pakad skeudennoù a zo e-barzh an arload, ha luc'hskeudennoù ar familh a ya en-dro ezlinenn ur wech kopiet en arload. Evit dibab ul luc'hskeudenn enrollet en iCloud hepken e c'hall bezañ ezhomm eus ur c'hennask."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Ha gallout a ran implijout hon luc'hskeudennoù familh hon-unan ?",
+        "a": "Ya. Dibabit luc'hskeudennoù gant dibaber luc'hskeudennoù hoc'h urzhiataer. Mirout a ra an arload skouerennoù bihanoc'h war an dafariad evit e obererezhioù, ne vez ket pellgarget ha ne cheñch ket an orinoù biskoazh. Gallout a rit lemel an eiladennoù da bep mare."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Un arload evit stummañ an empenn pe evit amprouiñ ar memor eo ?",
+        "a": "Nann. Golden Moments a zo evit ar blijadur hag an amzer asambles. N'eus skor ebet na test ebet gantañ, ha ne ra diagnostik, tretañ, diwall pe muzuliañ an diskiant pe kleñved Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "War peseurt urzhiataer e labour ?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Ur stumm app eus ar c'hoari-mañ zo ?",
+      "a": "Ya. An arload digoust Golden Moments evit iPhone, iPad hag Android en deus ar memes skeudennoù dous, gallout a ra implijout luc'hskeudennoù familh a zibabit, hag ezlinenn a ya en-dro. Kont, bruderezh pe skor ebet."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Ur stumm app eus ar c'hoari-mañ zo ?",
+      "a": "N'eo ket eus ar c'hoari-mañ. An arload digoust Golden Moments evit iPhone, iPad hag Android a ginnig skeudennoù a-feson gant teulioù bras ha luc'hskeudennoù familh a c'hallit dibab, hag ezlinenn a ya en-dro. Chom a ra ar c'hoari-mañ digoust amañ en ho merdeer."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: skeudennoù bras ha plijus",
+    "noscript": "Ret eo d'ar c'hoari-mañ bezañ gweredekaet JavaScript en ho merdeer. Ar c'huzulioù amañ dindan a ya en-dro hep se.",
+    "about": "Diwar-benn {name}",
+    "aboutAria": "Diwar-benn ar c'hoari-mañ",
+    "noTimer": "Amzer na skor ebet",
+    "printable": "Moullañ",
+    "howTo": "Penaos c'hoari {name}",
+    "tips": "Alioù evit c'hoari asambles",
+    "newToPlayingHtml": "Nevez-flamm oc'h c'hoari gant unan bennak gant an diskiant ? Lenn <a href=\"/caregiving/how-to-play-together/\">penaos c'hoari c'hoarioù asambles</a>, en o zouez ar pezh a ranker ober ma kollont o c'hoant.",
+    "moreAria": "Muioc'h a draoù da ergerzhout",
+    "helpfulGuides": "Titouroù talvoudus",
+    "appTitle": "C'hoari anezhañ en arload",
+    "appText": "Gant an arload digoust Golden Moments e c'haller keñveriañ skeudennoù gant teulioù bras ha luc'hskeudennoù ho familh, hag a ya en-dro hep Wifi. iPhone, iPad hag Android.",
+    "photoAppTitle": "Dalc'hit ho luc'hskeudennoù prest",
+    "photoAppText": "En arload Golden Moments digoust e chom al luc'hskeudennoù dibabet ganeoc'h war ho trevnad evit ar wech a zeu, ha mont a ra ar c'hoarioù hep Wifi. iPhone, iPad hag Android.",
+    "goodToKnow": "Mat da c'houzout",
+    "goodToKnowText": "Ar c'hoari-mañ a zo evit ar blijadur hag an amzer asambles. Ne amprouiñ, muzuliañ pe tretañ netra.",
+    "moreGames": "C'hoarioù dousoc'h",
+    "crumb": "C'hoarioù"
   }
 }

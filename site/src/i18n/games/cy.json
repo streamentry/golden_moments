@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Parau lluniau",
+    "seoTitle": "Gêm Baru ar gyfer Dementia: Parau Lluniau",
+    "h1": "Parau Llun: Gêm Baru Addfwyn",
+    "description": "Gêm baru ysgafn am ddim i bobl sy'n byw gyda dementia. Mae lluniau mawr yn aros yn weladwy, nid oes amserydd na sgôr, a byddwch yn dewis 4 i 12 teils.",
+    "short": "Darganfyddwch y ddau lun sydd yr un peth. Gall lluniau aros i'w dangos.",
+    "players": "1 neu 2 o bobl, ochr yn ochr",
+    "intro": "Tapiwch lun, yna tapiwch yr un sy'n cyd-fynd ag ef. Mae lluniau'n aros i'w dangos yn ddiofyn, felly does dim rhaid cofio dim. Pan fydd dau lun yn mynd at ei gilydd maen nhw'n cael border aur a marc siec.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Dewiswch faint o deils i'w defnyddio. Mae pedair teils yn lle tawel i ddechrau.",
+      "Tapiwch unrhyw lun. Mae'n cael ffin aur.",
+      "Tapiwch y llun sy'n edrych yr un peth. Mae'r pâr yn aros gyda'i gilydd gyda marc siec.",
+      "Os yw'r ddau lun yn wahanol, does dim byd drwg yn digwydd. Tapiwch eto pryd bynnag y byddwch chi'n barod.",
+      "Trowch \"Lluniau Cudd\" ymlaen dim ond os yw'r ddau ohonoch yn mwynhau'r fersiwn wyneb-i-lawr clasurol."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Enwch y lluniau yn uchel gyda'ch gilydd a sgwrsiwch amdanyn nhw: \"Cwpan te coch. Wyt ti'n cymryd llefrith yn dy de?\"",
+      "Gadewch i'r person rydych chi'n gofalu amdano wneud y tapio, hyd yn oed os yw'n cymryd ychydig o amser. Pwyntiwch yn hytrach na thapio amdanyn nhw.",
+      "Arhoswch gyda phedair teils cyhyd ag y mae'n teimlo'n dda. Mae mwy o deils yn ddewis, byth yn lefel i'w gyrraedd.",
+      "Gorffen tra ei fod yn dal yn bleserus. Mae un gêm yn weithgaredd cyflawn."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A oes amserydd neu sgôr?",
+        "a": "Na. Nid oes cloc, sgôr, symud cownter na cholli. Gallwch chi stopio ar unrhyw adeg, ac mae stopio hanner ffordd yn ffordd berffaith dda o orffen."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Pam mae'r lluniau'n aros wyneb i fyny?",
+        "a": "Mae cadw lluniau yn weladwy yn troi'r gêm yn edrych ac yn cydweddu yn hytrach na chofio. Mae llawer o bobl yn gweld hyn yn dawelach. Gallwch newid i luniau cudd mewn un tap os yw'n well gennych."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yw'n rhad ac am ddim, ac a oes angen i mi gofrestru?",
+        "a": "Ydy, mae'n rhad ac am ddim, ac nid oes cyfrif, cofrestru na llwytho i lawr. Mae'n gweithio yn y porwr gwe ar ffôn, tabled neu gyfrifiadur."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Allwn ni ddefnyddio ein lluniau teuluol ein hunain?",
+        "a": "Oes. Rhowch gynnig ar barau Llun, sy'n gadael i chi ddewis lluniau o'ch dyfais. Mae'r lluniau'n aros yn eich porwr ac nid ydynt yn cael eu huwchlwytho."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Dod o hyd i'r un peth",
+    "seoTitle": "Dod o hyd i'r Un Llun: Gêm Dementia Syml",
+    "h1": "Dod o hyd i'r Un Llun",
+    "description": "Un llun ar y brig, dau i bedwar isod. Tapiwch yr un sydd yr un peth. Gêm luniau digynnwrf, rhad ac am ddim i bobl sy'n byw gyda dementia, heb unrhyw amserydd.",
+    "short": "Edrychwch ar y llun ar y brig a thapio'r un un isod.",
+    "players": "1 neu 2 o bobl",
+    "intro": "Mae llun sengl yn eistedd ar frig y sgrin. Isod mae dau, tri neu bedwar llun. Tapiwch yr un sydd yr un peth. Mae’n un dewis syml ar y tro, gyda digon o le i siarad.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Dewiswch ddau, tri neu bedwar llun i ddewis ohonynt. Dau yw'r symlaf.",
+      "Edrychwch ar y llun ar y brig gyda'ch gilydd.",
+      "Tapiwch yr un llun isod. Mae wedi'i farcio â siec ac ychydig o eiriau cynnes.",
+      "Os caiff llun gwahanol ei dapio, mae'r gêm yn syml yn ei enwi ac yn aros. Cymerwch eich amser.",
+      "Tap \"Llun nesaf\" pan fyddwch chi'n barod am un arall."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Siaradwch am bob llun cyn dewis: lliwiau, siapiau, lle gallech chi ei weld.",
+      "Nid yw dau ddewis yn \"rhy hawdd\". Mae'r nod yn foment ddymunol, nid her.",
+      "Os yw tapio yn anodd, gall y person bwyntio a gallwch chi dapio amdanyn nhw."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A oes amserydd neu sgôr?",
+        "a": "Na. Nid oes cloc, sgôr, symud cownter na cholli. Gallwch chi stopio ar unrhyw adeg, ac mae stopio hanner ffordd yn ffordd berffaith dda o orffen."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Beth sy'n digwydd os caiff y llun anghywir ei dapio?",
+        "a": "Dim byd annymunol. Nid oes swnyn, croes goch nac ysgwyd. Mae'r gêm yn enwi'r llun a gafodd ei dapio ac yn aros am y tap nesaf."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yw'n rhad ac am ddim, ac a oes angen i mi gofrestru?",
+        "a": "Ydy, mae'n rhad ac am ddim, ac nid oes cyfrif, cofrestru na llwytho i lawr. Mae'n gweithio yn y porwr gwe ar ffôn, tabled neu gyfrifiadur."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Cysgod cyfatebol",
+    "seoTitle": "Gêm Paru Cysgod ar gyfer Dementia: Ar-lein Am Ddim",
+    "h1": "Match Match: Gêm Llun Addfwyn",
+    "description": "Cysgod tywyll ar y brig, dau neu bedwar llun isod. Tapiwch y llun sy'n gwneud y cysgod.",
+    "short": "Edrychwch ar y cysgod a thapio'r llun sy'n ei wneud.",
+    "players": "1 neu 2 o bobl",
+    "intro": "Mae paru cysgod yn weithgaredd cyfarwydd o daflenni gwaith printiedig, yma gyda lluniau mawr a dim byd i'w argraffu. Mae cysgod meddal yn eistedd ar frig y sgrin ac mae dau, tri neu bedwar llun yn aros isod. Tapiwch yr un sy'n gwneud y cysgod. Mae siapiau fel beic, ambarél neu gwpan te yn hawdd siarad amdanynt hefyd.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Dewiswch ddau, tri neu bedwar llun i ddewis ohonynt. Dau yw'r symlaf.",
+      "Edrychwch ar y cysgod gyda'ch gilydd. Pa siâp yw e? Ydy hi'n dal neu'n grwn?",
+      "Tapiwch y llun sy'n gwneud y cysgod. Mae ei enw yn ymddangos o dan y cysgod.",
+      "Os caiff llun gwahanol ei dapio, mae'r gêm yn syml yn ei enwi ac yn aros. Cymerwch eich amser.",
+      "Tap \"Cysgod nesaf\" pan fyddwch chi'n barod am un arall."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Traciwch amlinelliad y cysgod gyda bys a siaradwch am y siâp.",
+      "Os yw cysgodion yn teimlo'n galed heddiw, newidiwch i Dod o hyd i'r un peth, lle mae'r lluniau'n edrych fel ei gilydd.",
+      "Sôn am y llun unwaith y bydd yn cael ei ddarganfod: \"Roedd gennym ymbarél fel 'na.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A oes amserydd neu sgôr?",
+        "a": "Na. Nid oes cloc, sgôr, symud cownter na cholli. Gallwch chi stopio ar unrhyw adeg, ac mae stopio hanner ffordd yn ffordd berffaith dda o orffen."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "A yw paru cysgodion yn dda i bobl â dementia?",
+        "a": "Gall fod yn weithgaredd dymunol, syml i rai pobl, yn enwedig yn y cyfnodau cynharach. Mae siapiau yn haws i'w hadnabod na geiriau. Mae ar gyfer mwynhad a sgwrs, nid prawf, ac nid yw'n trin nac yn arafu dementia. Os yw'n achosi rhwystredigaeth, ceisiwch Dod o hyd i'r un peth neu edrychwch ar luniau gyda'ch gilydd."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Beth sy'n digwydd os caiff y llun anghywir ei dapio?",
+        "a": "Dim byd annymunol. Nid oes swnyn, croes goch nac ysgwyd. Mae'r gêm yn enwi'r llun a gafodd ei dapio ac yn aros am y tap nesaf."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yw'n rhad ac am ddim, ac a oes angen i mi gofrestru?",
+        "a": "Ydy, mae'n rhad ac am ddim, ac nid oes cyfrif, cofrestru na llwytho i lawr. Mae'n gweithio yn y porwr gwe ar ffôn, tabled neu gyfrifiadur."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Trefnu gyda'ch gilydd",
+    "seoTitle": "Gêm Didoli ar gyfer Dementia: Trefnu Gyda'n Gilydd",
+    "h1": "Trefnu Gyda'n Gilydd: Gweithgaredd Didoli Lluniau",
+    "description": "Tapiwch lun, yna tapiwch y fasged y mae'n perthyn iddi: cegin neu ardd, ffrwythau neu anifeiliaid.",
+    "short": "Rhowch bob llun yn ei fasged: cegin neu ardd, a mwy.",
+    "players": "1 neu 2 o bobl",
+    "intro": "Mae didoli yn dasg bob dydd gyfarwydd sy'n rhoi boddhad, fel rhoi nwyddau i gadw neu baru sanau. Tapiwch lun, yna tapiwch y fasged lle mae'n perthyn. Nid oes unrhyw frys a dim tro anghywir.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Dewiswch thema: cegin a gardd, ffrwythau ac anifeiliaid, neu gartref a theithio.",
+      "Tapiwch lun. Mae'n cael ffin aur.",
+      "Tapiwch y fasged y mae'n perthyn iddi. Mae'r llun yn symud i'r fasged honno.",
+      "Os yw'n perthyn i'r fasged arall, mae'r gêm yn dweud mor dyner ac yn aros.",
+      "Pan fydd pob llun wedi'i drefnu, edrychwch drwy'r basgedi gyda'ch gilydd."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Yn aml nid oes atebion anghywir mewn bywyd go iawn. Os bydd rhywun yn dweud bod dyfrio yn perthyn i'r gegin, gofynnwch pam. Efallai y cewch chi stori dda.",
+      "Defnyddiwch y lluniau fel ysgogiad: \"Beth wnaethoch chi dyfu yn eich gardd?\"",
+      "Mae didoli gwrthrychau go iawn, fel llwyau a ffyrc neu fotymau yn ôl lliw, yn ddilyniant gwych i ffwrdd o'r sgrin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A oes amserydd neu sgôr?",
+        "a": "Na. Nid oes cloc, sgôr, symud cownter na cholli. Gallwch chi stopio ar unrhyw adeg, ac mae stopio hanner ffordd yn ffordd berffaith dda o orffen."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Pam didoli?",
+        "a": "Mae llawer o bobl yn mwynhau didoli oherwydd ei fod yn teimlo fel gwaith defnyddiol, cyfarwydd. Mae hefyd yn hawdd siarad am y lluniau wrth fynd ymlaen."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yw'n rhad ac am ddim, ac a oes angen i mi gofrestru?",
+        "a": "Ydy, mae'n rhad ac am ddim, ac nid oes cyfrif, cofrestru na llwytho i lawr. Mae'n gweithio yn y porwr gwe ar ffôn, tabled neu gyfrifiadur."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Pos llun",
+    "seoTitle": "Pos Jig-so Hawdd ar gyfer Dementia: 4 neu 9 Darn",
+    "h1": "Pos Llun: Jig-so Hawdd",
+    "description": "Jig-so ar-lein hawdd i bobl sy'n byw gyda dementia: 4 neu 9 darn mawr, mae'r darlun cyfan yn aros yn weladwy, ac rydych chi'n tapio dau ddarn i'w cyfnewid.",
+    "short": "Tapiwch ddau ddarn i'w cyfnewid nes bod y llun yn gyfan.",
+    "players": "1 neu 2 o bobl",
+    "intro": "Mae llun cyfeillgar yn cael ei dorri'n bedwar neu naw darn mawr a'i gymysgu. Mae'r darlun cyfan yn aros yn weladwy fel canllaw. Tapiwch un darn, yna darn arall, ac maen nhw'n cyfnewid lleoedd. Nid oes angen llusgo.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Dewiswch lun a 4 neu 9 darn. Mae pedwar yn ddechrau ysgafn.",
+      "Edrychwch ar y llun cyfan ar y brig.",
+      "Tapiwch ddarn, yna tapiwch y man lle dylai fynd. Mae'r ddau ddarn yn cyfnewid.",
+      "Mae darnau yn y lle iawn yn cael marc siec bach.",
+      "Pan fydd y llun yn gyfan, mwynhewch ef gyda'ch gilydd, yna dewiswch un arall."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Mae tapio dau ddarn i'w cyfnewid yn llawer haws na llusgo i lawer o bobl.",
+      "Sôn am y llun wrth iddo ddod at ei gilydd: \"Mae yna y to coch.\"",
+      "Mae jig-so pren go iawn gyda 12 i 24 o ddarnau mawr yn weithgaredd bwrdd hyfryd hefyd."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A oes amserydd neu sgôr?",
+        "a": "Na. Nid oes cloc, sgôr, symud cownter na cholli. Gallwch chi stopio ar unrhyw adeg, ac mae stopio hanner ffordd yn ffordd berffaith dda o orffen."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Oes angen i mi lusgo'r darnau?",
+        "a": "Nac ydy. Tapiwch un darn, yna tapiwch un arall, ac maen nhw'n cyfnewid lleoedd. Mae hyn yn haws gyda llaw sigledig neu ar sgrin fach."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yw'n rhad ac am ddim, ac a oes angen i mi gofrestru?",
+        "a": "Ydy, mae'n rhad ac am ddim, ac nid oes cyfrif, cofrestru na llwytho i lawr. Mae'n gweithio yn y porwr gwe ar ffôn, tabled neu gyfrifiadur."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Gorffen y dywediad",
+    "seoTitle": "Gorffen y Dweud: Gêm Diarhebion i Bobl Hŷn",
+    "h1": "Gorffen y Dywediad",
+    "description": "Dywediadau Americanaidd cyfarwydd â'r gair olaf ar goll, fel \"Ceiniog a arbedir yw ceiniog ___\". Tapiwch ddewis neu dangoswch y diweddglo, yna siaradwch amdano.",
+    "short": "Cwblhewch ddywediadau cyfarwydd gyda'ch gilydd, yna siaradwch amdanyn nhw.",
+    "players": "1, 2 neu grŵp",
+    "intro": "Mae hen ddywediadau yn aml yn adnabyddus am oes. Mae pob cerdyn yn dangos dywediad cyfarwydd gyda'r gair olaf ar goll, tri dewis, a botwm \"Dangos y diwedd\". Ar ôl y diwedd, mae cwestiwn ysgafn yn gwahodd sgwrs.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Darllenwch y dywediad yn uchel gyda'ch gilydd.",
+      "Tapiwch y gair sy'n ei orffen, neu tapiwch \"Dangos y diweddglo\".",
+      "Darllenwch y dywediad cyfan eto a siaradwch amdano gan ddefnyddio'r anogwr.",
+      "Tap \"Dywediad nesaf\" pan fyddwch chi'n barod."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Darllenwch yn araf a gadewch saib cyn y gair olaf. Yn aml mae pobl yn ei ddweud cyn i chi orffen.",
+      "Os bydd rhywun yn rhoi diweddglo gwahanol, mwynhewch. Mae rhai fersiynau o ddywediadau yn amrywio yn ôl teulu neu ranbarth.",
+      "Mewn grŵp, mae un person yn darllen ac mae pawb yn ymuno ar y diwedd."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A oes amserydd neu sgôr?",
+        "a": "Na. Nid oes cloc, sgôr, symud cownter na cholli. Gallwch chi stopio ar unrhyw adeg, ac mae stopio hanner ffordd yn ffordd berffaith dda o orffen."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Beth os ydym yn dewis gair gwahanol?",
+        "a": "Mae'r gêm yn dangos y diweddglo arferol ac yn symud ymlaen i sgwrs. Nid oes sgôr, ac mae ateb gwahanol yn iawn."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yw'n rhad ac am ddim, ac a oes angen i mi gofrestru?",
+        "a": "Ydy, mae'n rhad ac am ddim, ac nid oes cyfrif, cofrestru na llwytho i lawr. Mae'n gweithio yn y porwr gwe ar ffôn, tabled neu gyfrifiadur."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Chwilair print bras",
+    "seoTitle": "Chwilair Print Bras ar gyfer Dementia, Argraffadwy",
+    "h1": "Chwilair Print Bras",
+    "description": "Chwiliad geiriau print bras am ddim i bobl hŷn a phobl sy'n byw gyda dementia. Ychydig eiriau, llythrennau mawr, geiriau ar draws ac i lawr yn unig.",
+    "short": "Llythrennau mawr, ychydig eiriau, ar draws ac i lawr yn unig. Argraffwch hefyd.",
+    "players": "1 neu 2 o bobl",
+    "intro": "Grid bach gyda llythrennau mawr a dim ond llond llaw o eiriau, i gyd yn darllen ar draws neu i lawr. Tapiwch lythyren gyntaf gair, yna ei lythyren olaf. Hoffi papur? Argraffwch bos ffres mewn un tap.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Dewiswch thema a maint grid.",
+      "Edrychwch ar y rhestr eiriau. Geiriau yn darllen ar draws (o'r chwith i'r dde) neu i lawr (o'r brig i'r gwaelod).",
+      "Tapiwch lythyren gyntaf gair, yna tapiwch ei lythyren olaf.",
+      "Mae gair darganfod yn cael ei amlygu a'i groesi oddi ar y rhestr.",
+      "Tap \"Argraffu'r pos hwn\" i chwarae ar bapur gyda phensil neu farciwr."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Pwyntiwch at air yn y rhestr a chwiliwch am ei lythyren gyntaf gyda'ch gilydd.",
+      "Ar bapur, mae aroleuwr yn haws i'w ddal na phensil.",
+      "Siaradwch am y geiriau thema. Mae geiriau ffrwythau yn ffordd naturiol i atgofion o hel, pobi neu farchnadoedd."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A oes amserydd neu sgôr?",
+        "a": "Na. Nid oes cloc, sgôr, symud cownter na cholli. Gallwch chi stopio ar unrhyw adeg, ac mae stopio hanner ffordd yn ffordd berffaith dda o orffen."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "A allaf argraffu'r chwilair?",
+        "a": "Oes. Tap \"Argraffu'r pos hwn\" i argraffu'r grid cyfredol mewn teip mawr, gyda'r rhestr eiriau oddi tano. Mae pob pos newydd yn wahanol."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yw'n rhad ac am ddim, ac a oes angen i mi gofrestru?",
+        "a": "Ydy, mae'n rhad ac am ddim, ac nid oes cyfrif, cofrestru na llwytho i lawr. Mae'n gweithio yn y porwr gwe ar ffôn, tabled neu gyfrifiadur."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Tudalennau lliwio",
+    "seoTitle": "Tudalennau Lliwio i Oedolion â Dementia (Am Ddim)",
+    "h1": "Tudalennau Lliwio",
+    "description": "Tudalennau lliwio syml i oedolion gydag ardaloedd mawr: tapiwch liw, yna tapiwch y llun. Dim llanast, dim lliwiau anghywir, a gellir argraffu pob tudalen am ddim.",
+    "short": "Tapiwch liw, yna rhan o'r llun. Argraffu tudalennau hefyd.",
+    "players": "1 neu 2 o bobl",
+    "intro": "Tudalennau gyda siapiau mawr, syml: blodyn mewn pot, tŷ, cwpan te, pili-pala a chwch hwylio. Tapiwch liw, yna tapiwch ran o'r llun i'w lenwi. Nid oes unrhyw liwiau anghywir.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Dewiswch dudalen.",
+      "Tapiwch liw. Mae enw pob lliw wedi'i ysgrifennu arno.",
+      "Tapiwch ran o'r llun i'w lenwi â'r lliw hwnnw.",
+      "Newidiwch eich meddwl unrhyw bryd trwy ei lenwi eto.",
+      "Tap \"Argraffu'r dudalen hon\" am dudalen wag i'w lliwio gyda phensiliau neu farcwyr."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Cynigiwch ddau liw i ddewis ohonynt yn hytrach na'r set gyfan os yw dewis yn teimlo fel gormod.",
+      "Mae croeso i goed porffor a haul glas. Mae hyn yn ymwneud â mwynhau lliw, nid cywirdeb.",
+      "Mae tudalennau printiedig yn gweithio'n dda gyda marcwyr trwchus neu greonau, sy'n haws eu gafael."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A oes amserydd neu sgôr?",
+        "a": "Na. Nid oes cloc, sgôr, symud cownter na cholli. Gallwch chi stopio ar unrhyw adeg, ac mae stopio hanner ffordd yn ffordd berffaith dda o orffen."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Ydy'r tudalennau hyn yn rhy blentynnaidd?",
+        "a": "Fe wnaethon ni dynnu gwrthrychau tawel, syml yn hytrach na chartwnau, felly mae'r tudalennau'n addas i oedolion. Mae siapiau mawr yn cadw lliwio'n hawdd heb ei wneud yn fabanaidd."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yw'n rhad ac am ddim, ac a oes angen i mi gofrestru?",
+        "a": "Ydy, mae'n rhad ac am ddim, ac nid oes cyfrif, cofrestru na llwytho i lawr. Mae'n gweithio yn y porwr gwe ar ffôn, tabled neu gyfrifiadur."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Cardiau sgwrs",
+    "seoTitle": "Dechreuwyr Sgwrs ar gyfer Dementia: Cardiau Llun",
+    "h1": "Cardiau Sgwrs",
+    "description": "Cardiau llun gyda chychwyn sgwrs ysgafn i bobl sy'n byw gyda dementia: dim cwis, dim atebion cywir. Defnyddiwch ar sgrin neu argraffwch y set lawn.",
+    "short": "Cardiau llun gyda chwestiynau agored, tyner. Dim cwisio.",
+    "players": "2 berson neu grŵp",
+    "intro": "Mae pob cerdyn yn paru llun cyfarwydd gyda gwahoddiad agored i siarad, fel \"Beth yw eich hoff fath o dywydd?\" Nid oes atebion cywir a dim byd i'w gofio. Dewiswch thema neu cymysgwch nhw i gyd.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Dewiswch thema, neu cadwch \"Pob cerdyn\".",
+      "Darllenwch y cwestiwn yn uchel ac edrychwch ar y llun gyda'ch gilydd.",
+      "Gwrandewch, rhannwch eich ateb eich hun, a gadewch i'r sgwrs grwydro.",
+      "Tapiwch \"Cerdyn nesaf\" pan fyddwch chi'n barod, neu arhoswch gydag un cerdyn cyhyd ag y dymunwch.",
+      "Tap \"Argraffu pob cerdyn\" i dorri allan set bapur."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Atebwch y cwestiwn eich hun hefyd. Mae'n teimlo fel sgwrs, nid cyfweliad.",
+      "Dilynwch y stori, nid y ffeithiau. Os bydd y manylion yn newid, mae hynny'n iawn.",
+      "Os yw cerdyn yn cyffwrdd â rhywbeth trist, cydnabyddwch y teimlad a symudwch yn ofalus i gerdyn arall."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Pam nad oes \"Ydych chi'n cofio ...?\" cwestiynau?",
+        "a": "Gall cwestiynau sy'n profi cof deimlo fel arholiad ac achosi embaras. Mae gwahoddiadau agored fel \"Dywedwch wrthyf am ...\" gadewch i unrhyw un ymuno, beth bynnag y maent yn ei gofio."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "A allaf argraffu'r cardiau?",
+        "a": "Oes. Mae \"Argraffu pob cerdyn\" yn argraffu'r set lawn mewn teip mawr, nifer o gardiau fesul tudalen, yn barod i'w torri allan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yw'n rhad ac am ddim, ac a oes angen i mi gofrestru?",
+        "a": "Ydy, mae'n rhad ac am ddim, ac nid oes cyfrif, cofrestru na llwytho i lawr. Mae'n gweithio yn y porwr gwe ar ffôn, tabled neu gyfrifiadur."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Parau lluniau",
+    "seoTitle": "Gwnewch Gêm Baru o Ffotograffau Teuluol",
+    "h1": "Parau Lluniau: Parwch Eich Lluniau Eich Hun",
+    "description": "Trowch eich lluniau teulu eich hun yn gêm baru ysgafn. Dewiswch 2 i 6 llun ar eich dyfais; maent yn aros yn eich porwr ac nid ydynt byth yn cael eu llwytho i fyny.",
+    "short": "Dewiswch eich lluniau eich hun a'u paru. Nid oes dim yn cael ei uwchlwytho.",
+    "players": "2 o bobl, ochr yn ochr",
+    "intro": "Dewiswch ddau i chwe llun o'ch ffôn, tabled neu gyfrifiadur, ac maen nhw'n dod yn gêm baru gyda lluniau mawr, gweladwy. Dim ond y tu mewn i'r dudalen hon y dangosir y lluniau. Nid ydynt yn cael eu huwchlwytho, eu cadw na'u rhannu, ac maent yn diflannu pan fyddwch chi'n cau'r dudalen.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tap \"Dewis lluniau\" a dewis dau i chwe llun.",
+      "Mae pob llun yn ymddangos ddwywaith. Tapiwch un, yna tapiwch ei bâr.",
+      "Siaradwch am bob llun wrth i chi ddod o hyd iddo.",
+      "Pan fyddwch chi wedi gorffen, caewch y dudalen neu tapiwch \"Lluniau clir\". Nid oes dim yn cael ei gadw."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Dewiswch luniau clir o bethau hapus, cyfarwydd: anifail anwes, gardd, hoff le, diwrnod priodas.",
+      "Gall lluniau o leoedd a gwrthrychau fod yn haws nag wynebau, ac maent yn osgoi unrhyw bwysau i enwi pobl.",
+      "Gadewch allan luniau o bobl sydd wedi marw os gallent ddod â galar sydyn, oni bai eich bod yn gwybod eu bod yn dod â chysur."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ydy fy lluniau'n cael eu huwchlwytho i unrhyw le?",
+        "a": "Na. Mae'r dudalen yn darllen y lluniau rydych chi'n eu dewis yn uniongyrchol yn eich porwr ac yn eu dangos ar eich sgrin. Nid ydynt yn cael eu hanfon atom ni nac at unrhyw un arall, ac maent wedi diflannu pan fyddwch yn cau neu'n ail-lwytho'r dudalen."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A oes amserydd neu sgôr?",
+        "a": "Na. Nid oes cloc, sgôr, symud cownter na cholli. Gallwch chi stopio ar unrhyw adeg, ac mae stopio hanner ffordd yn ffordd berffaith dda o orffen."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ga i achub y gêm ar gyfer y tro nesaf?",
+        "a": "Nid yn y porwr, yn ôl dyluniad, felly nid oes dim byd preifat yn cael ei storio. Gall yr app Golden Moments rhad ac am ddim ar gyfer iPhone ac iPad gadw copïau lluniau dethol ar eich dyfais."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo lluniau",
+    "seoTitle": "Bingo Lluniau i Bobl Hŷn â Dementia: Argraffadwy",
+    "h1": "Bingo Llun i Grwpiau",
+    "description": "Bingo lluniau argraffadwy am ddim ar gyfer gofal cof a grwpiau hŷn, gyda galwr mawr ar y sgrin. Lluniau mawr gyda geiriau, 9 neu 16 sgwâr, dim angen darllen.",
+    "short": "Cardiau bingo lluniau argraffadwy a galwr sgrin fawr ar gyfer grwpiau.",
+    "players": "Grŵp o 2 i 30",
+    "intro": "Bingo clasurol gyda lluniau yn lle rhifau, felly does dim angen i neb ddarllen print mân. Argraffwch set o gardiau unigryw, yna defnyddiwch y galwr ar y sgrin i ddangos pob llun yn fawr ar deledu, gliniadur neu lechen.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Dewiswch 9 neu 16 sgwâr fesul cerdyn a faint o chwaraewyr.",
+      "Tap \"Argraffu cardiau\". Mae pob cerdyn yn wahanol.",
+      "Agorwch y galwr ar sgrin fawr. Tap \"Llun nesaf\" i ddangos pob llun gyda'i enw.",
+      "Mae chwaraewyr yn gorchuddio'r llun cyfatebol ar eu cerdyn gyda darn arian, botwm neu farciwr.",
+      "Mae pawb sy'n llenwi rhes, neu'r cerdyn cyfan, yn cael hwyl. Nid oes unrhyw golledwyr yn y fersiwn hon: daliwch ati i chwarae nes bod gan bawb linell."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Defnyddiwch docynnau mawr fel siecwyr neu gapiau poteli. Gall fod yn anodd codi botymau bach.",
+      "Enwch y llun a dywedwch rywbeth amdano: \"Cwch hwylio. Pwy sydd wedi bod allan ar gwch?\"",
+      "Eisteddwch bobl ag anhawster gweld agosaf at y sgrin, a pharwch gynorthwywyr gyda chwaraewyr sydd eu hangen.",
+      "Mae naw sgwâr yn ddigon ar gyfer y rhan fwyaf o grwpiau. Cadwch y sesiwn tua 20 i 30 munud."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Sut mae rhedeg bingo lluniau mewn cartref gofal?",
+        "a": "Argraffwch un cerdyn i bob chwaraewr, rhowch y galwr ar y sgrin fwyaf sydd gennych, a ffoniwch luniau'n araf, gan enwi pob un. Chwarae nes bod gan bawb linell, felly does neb yn cael ei adael allan."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "A yw'n rhad ac am ddim i'w argraffu?",
+        "a": "Oes. Argraffwch gymaint o gardiau ag sydd eu hangen arnoch, mor aml ag y dymunwch, at ddefnydd personol neu grŵp."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Ydy pobl yn gallu chwarae heb ddarllen?",
+        "a": "Oes. Mae pob sgwâr yn llun mawr, gyda'i enw oddi tano ar gyfer y rhai sy'n hoffi geiriau."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Anadlu tawel",
+    "seoTitle": "Seibiant Anadlu Tawel i Bobl Hŷn a Rhoddwyr Gofal",
+    "h1": "Saib Anadlu Tawel",
+    "description": "Saib anadlu araf, tawel i rannu: mae cylch tyner yn tyfu ac yn crebachu am chwe anadl. Rydych chi'n ei gychwyn, a gallwch chi stopio unrhyw bryd.",
+    "short": "Cylch araf i anadlu ynghyd ag ef. Dechreuwch a stopiwch pan fynnwch.",
+    "players": "1 neu 2 o bobl",
+    "intro": "Weithiau, y gweithgaredd gorau yw saib tawel. Tap \"Start\", yna anadlwch i mewn wrth i'r cylch dyfu ac allan wrth iddo grebachu. Dewiswch gyflymder arafach neu gyflymach. Nid yw'n driniaeth, dim ond eiliad heddychlon i'w rhannu.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Eisteddwch yn gyfforddus ochr yn ochr.",
+      "Dewiswch gyflymder: araf neu ysgafn.",
+      "Tap \"Cychwyn\". Anadlwch i mewn tra bod y cylch yn tyfu, ac allan tra bydd yn crebachu.",
+      "Mae'n stopio ar ei ben ei hun ar ôl chwe anadl, neu tapiwch \"Stop\" pryd bynnag y dymunwch."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Daliwch ddwylo neu orffwyswch law ar fraich y person os oes croeso i hynny.",
+      "Peidiwch byth â mynnu. Os byddai'n well ganddynt wylio, mae hynny'n iawn.",
+      "Os oes gan rywun broblemau anadlu, anadlwch yn normal a gwyliwch y cylch. Gofynnwch i feddyg am unrhyw bryderon anadlu."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ai ymarfer anadlu meddygol yw hwn?",
+        "a": "Na. Mae'n saib syml, dewisol ar gyfer tawelwch a chwmni. Nid yw'n driniaeth ar gyfer pryder nac unrhyw gyflwr. Siaradwch â meddyg am bryderon iechyd."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Ydy'r cylch yn symud heb i mi ddechrau arni?",
+        "a": "Na. Nid oes dim yn symud nes i chi dapio Start, ac mae'n stopio ar ôl chwe anadl neu pan fyddwch chi'n tapio Stop. Os yw'ch dyfais wedi'i gosod i leihau mudiant, mae'r geiriau'n newid heb i'r cylch dyfu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A yw'n rhad ac am ddim, ac a oes angen i mi gofrestru?",
+        "a": "Ydy, mae'n rhad ac am ddim, ac nid oes cyfrif, cofrestru na llwytho i lawr. Mae'n gweithio yn y porwr gwe ar ffôn, tabled neu gyfrifiadur."
       }
     ]
   }

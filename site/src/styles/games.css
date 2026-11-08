@@ -122,6 +122,10 @@
   text-align: center;
   line-height: 1.2;
 }
+.chip:hover span {
+  border-color: var(--gm-primary);
+  background: var(--gm-surface-raised);
+}
 .chip input:checked + span {
   background: var(--gm-primary-container);
   border: 3px solid var(--gm-primary);
@@ -1081,9 +1085,16 @@
   .chip input + span {
     border: 2px solid #000000;
   }
+  .chip:hover span {
+    border: 3px solid #000000;
+    background: #FFFFFF;
+  }
   .chip input:checked + span {
     border: 4px solid #000000;
     background: #FFFFFF;
+  }
+  .chip input:checked + span::before {
+    border-color: #000000;
   }
   .chip input:focus-visible + span {
     outline: 4px solid #000000;
@@ -1237,9 +1248,16 @@
   .basket__items img {
     border: 1px solid CanvasText;
   }
+  .chip:hover span {
+    border-color: Highlight;
+    color: Highlight;
+  }
   .chip input:checked + span {
     border-color: Highlight;
     outline: 2px solid Highlight;
+  }
+  .chip input:checked + span::before {
+    border-color: Highlight;
   }
   .chip input:focus-visible + span {
     outline: 3px solid Highlight;

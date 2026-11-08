@@ -1,40 +1,41 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Jilïr contenido ukar saraña",
+    "skipLink": "Jilïr contenido ukar sarañamawa",
     "brandName": "Golden Moments",
     "brandTag": "Demencia ukan lurawinakapa",
-    "homeLabel": "Quri pachanaka uta",
-    "mainNav": "Jilïr",
-    "titleSuffix": " | Quri pachanaka",
-    "defaultImageAlt": "Quri pachanaka: jach’a, suma jamuqanaka mä té, mä girasol ukat mä allqamari",
-    "languages": "Arunaka",
-    "englishOnly": "(Aymara)",
+    "homeLabel": "Quri Momentos ukan utapa",
+    "mainNav": "Wakiskiri",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "Quri pachanaka: jach’a, suma uñt’at jamuqanak mä té, mä girasol ukat mä allqamari",
+    "languages": "Aru",
+    "englishOnly": "(Inklisa)",
     "machineTranslated": "Aka pankax automáticamente jaqukipatawa ukatx janiw jichhakamax mä nativo aru arsurix uñakipt’atäkiti.",
-    "readOriginal": "Inglés arun original uñt'ayaña",
+    "readOriginal": "Inglés arun original qillqata uñxatt’aña",
     "nav": {
-      "games": "Anatañanak",
-      "activities": "Luräwinaka",
-      "caregiving": "Uñakipañataki",
+      "games": "Anatañanaka",
+      "activities": "Lurawinaka",
+      "caregiving": "Uñakipaña",
       "brainHealth": "P’iqin k’umaräñapataki"
     },
-    "faqTitle": "Jiskt’awinaka ukhamaraki jaysawinaka",
-    "breadcrumb": "T'ant'a ch'uqi",
+    "faqTitle": "Jiskt’awinaka ukat jaysäwinaka",
+    "breadcrumb": "T’ant’a manq’aña",
     "home": "Uta",
     "lastUpdated": "Qhipa uñakipata",
-    "topics": "Uka tuqit yatxatañataki",
+    "topics": "Temas ukanaka",
     "textSize": {
-      "label": "Qillqatanakan tamapa",
-      "smaller": "Texto estándar",
-      "larger": "Jach’a qillqata"
+      "label": "Texto tamapa",
+      "smaller": "Texto estándar uka qillqata",
+      "larger": "Jach’a qillqata",
+      "contrast": "Juk’amp jach’a contraste"
     }
   },
   "footer": {
-    "play": "Anatañ",
-    "picturePairs": "Jallu parinakasa",
-    "conversationCards": "Arsuwi tarjetanaka",
-    "pictureBingo": "Jamuqa bingo",
-    "allGames": "Taqi anatt'awinaka",
+    "play": "Antaña",
+    "picturePairs": "Jamuqa parina",
+    "conversationCards": "Parlañataki tarjetanaka",
+    "pictureBingo": "Jallu pacha bingo",
+    "allGames": "Taqi anatt’awinaka",
     "pictures": "Jamuqanaka imprimiñataki",
     "activityIdeas": "Luräwi amuyunaka",
     "ideas101": "101 lurawi amuyunaka",
@@ -43,64 +44,64 @@
     "allActivities": "Taqi lurawinakawa",
     "forCaregivers": "Uñakipirinakataki",
     "playTogether": "Kunjamasa mayacht’asis anatt’aña",
-    "selfCare": "Juma pachpa uñjañama",
+    "selfCare": "Juma pachpat llakisiña",
     "brainHealth": "P’iqin k’umaräñ tuqit yatxataña",
-    "faq": "Jiskt’awinaka ukhamaraki jaysawinaka",
-    "about": "Uka tuqitxa",
-    "approach": "Jiwasana jak’achasiñasa",
+    "faq": "Jiskt’awinaka ukat jaysäwinaka",
+    "about": "Ukxata",
+    "approach": "Jiwasan jak’achasiñasa",
     "howWeWrite": "Kunjamsa qillqañasa",
     "organizations": "Organizaciones ukanakataki",
-    "app": "Uka Quri pachanakax app",
+    "app": "Uka Quri Momentos uka app",
     "appHelp": "App yanapt’awi",
-    "support": "Yanapt’awi",
-    "legal": "Kamachirjama",
-    "sitePrivacy": "Sitio web ukan privacidad ukax",
-    "appPrivacy": "App ukax mä política de privacidad",
+    "support": "Supurtaña",
+    "legal": "Chiqapa",
+    "sitePrivacy": "Sitio web ukan privacidad ukanaka",
+    "appPrivacy": "App ukax mä política de privacidad ukawa",
     "privacyChoices": "Privacidad tuqit ajlliwinaka",
-    "terms": "Condiciones ukat app licencia",
-    "safety": "Seguridad ukatxa amtawi apnaqaña",
-    "accessibility": "Accesibilidad ukax",
-    "healthNotice": "K’umar jakañ tuqit yatiyawinak yatiyaña",
-    "allLegal": "Taqi kamachi yatiyawinaka",
-    "note": "Golden Moments ukax sapuru lurawinakampiw chikancht’asi, kusist’añataki. Janiw qullirinakan iwxt’awipakiti, yant’awipakiti jan ukax qullañakiti, janirakiw khitirus uñt’aykiti, tupuñapakiti ni puntuación churañapakiti. K’umaräñ tuqit jiskt’asiñatakix qullirimpiw aruskipt’añama. Mä emergencia ukanxa, 911.",
-    "publisher": "Ukax Cloudjet Solutions Pte ukan uñt’ayatawa. Ltd. ukat juk’ampinaka"
+    "terms": "Terminos ukat app licencia",
+    "safety": "Seguridad ukatxa amtampi apnaqaña",
+    "accessibility": "Accesibilidad uka tuqita",
+    "healthNotice": "K’umar jakañ tuqit yatiyawinak uñt’ayaña",
+    "allLegal": "Taqi kamachina yatiyawipa",
+    "note": "Golden Moments ukax sapuru lurawinakampiw chikancht’asi, kusist’añataki. Janiw qullirinakan iwxt’awipakiti, yant’awipakiti jan ukax qullañakiti, janirakiw khitirus uñt’aykiti, tupuñapakiti ni puntuación churañapakiti. K’umaräñ tuqit jiskt’asiñatakix qullirimpiw aruskipt’añama. Mä emergencia ukanx 911 ukaruw jawst’añama.",
+    "publisher": "Ukax Cloudjet Solutions Pte ukan uñt’ayatawa. Ltd."
   },
   "home": {
     "title": "Demencia & Alzheimer uka usuta anatañanaka ukhamaraki lurawinakapa | Quri pachanaka",
     "description": "Inaki, llamp’u jamuqanak anatt’awinakax internet tuqin anatañataki ukhamarak lurañ amtanakax demencia jan ukax Alzheimer usump jakasirinakataki ukhamarak.",
-    "eyebrow": "Gratis · Janiw anuncios ukanakax utjkiti · Janiw qillqt’asiñas utjkiti · Janiw kuna pachas jan ukax puntuacionanakas utjkiti",
+    "eyebrow": "Gratis · Janiw anuncios utjkiti · Janiw qillqt’asiñas utjkiti · Janiw tiempos jan ukax puntuaciones ukanakas utjkiti",
     "h1": "Llamp’u Anatañanak & Luräwinaka Demencia usump usuntat jaqinakataki",
     "lede": "Jan chʼamäki uka dibujonakampi anattʼañanaka, uñtʼat fotonaka ukat mayachtʼat kusistʼañatakejj kuna lurañanakas utjarakiwa, mä arunjja, juma pachpaw kusistʼañama.",
-    "playGame": "Mä Anatañ Anatañ",
+    "playGame": "Mä Anatañ anatt’aña",
     "findIdeas": "Luräwi amuyunaka jikxataña",
     "facts": [
-      "Teléfono, tablet ukat computadora ukanakan irnaqaski",
+      "Teléfono, tablet ukat computadora ukanakan irnaqt’i",
       "Jach’a jamuqanak uñacht’ayas qhiparapxi",
-      "Kuna pachasa sayt’aña; janiw kunas pantjasi"
+      "Kuna pachasa sayt’aña; janiw kunas pantjaskiti"
     ],
     "heroApp": "Ukhamarakiw mä app inaki iPhone, iPad ukat Android ukataki, pachpa familian fotonakapampi",
     "albumNote": "“Pä jamuqanak tea taza, mayakiw.”",
-    "gamesEyebrow": "Navegador ukan anatt'aña",
-    "gamesTitle": "Anatañanakax jichhax anatañjamawa",
+    "gamesEyebrow": "Navegador ukan anatt’añamawa",
+    "gamesTitle": "Jichhax anatañanakax anatañjamawa",
     "gamesLede": "Sapa mayniw samarañapa, jilïr jaqiwa ukat jank’akiw qalltaraki. Mä ajlliñamawa, lado lado quntʼasiñamawa ukat turnompiw llamktʼañama.",
-    "seeAllGames": "Taqi kuna uñjaña {count} anatañanaka",
-    "howTitle": "Kunjams irnaqapxi",
+    "seeAllGames": "Taqi kun uñjañäni {count} anatt’awinaka",
+    "howTitle": "Kunjamsa irnaqtʼi",
     "steps": [
       {
-        "title": "Kunas uñt’at yänak ajlliñani",
+        "title": "Kunatï uñtʼatäki uk ajlliñamawa",
         "text": "Tazas de té, jardinanaka, uywanaka ukat vela ukanakan jamuqanak uñacht’ayata. Janiw liyiñas ni kamachinakas nayraqat yatiqañatakix utjkiti."
       },
       {
-        "title": "Qunt'asiñani lado lado",
+        "title": "Lado lado qunt’asipxañani",
         "text": "Jupanakax tapt’apxpan. Jamuqanakat parltʼañäni. Mä jan walt’awix jutïr grifo suyt’añakiw wakisi."
       },
       {
-        "title": "Ukhama suma jikxatasiñapkama sayt’aña",
+        "title": "Suma jikxatasiñapkama sayt’añamawa",
         "text": "Mä anatt’awix mä phuqhat lurawiwa. “Jichhatakix luratäxiwa” ukax pantallan uñstapuniwa."
       }
     ],
-    "stageEyebrow": "Uka pantallat sipansa",
-    "stageTitle": "Luräwi amuyunaka sapa pachataki",
+    "stageEyebrow": "Pantallat sipansa jukʼampi",
+    "stageTitle": "Sapa pachataki lurawi amuyunaka",
     "stageLede": "Musica, sapa uru lurawinaka, amtasiña ukat llamp’u chuyman pachanaka, kunatix jichhax suma jikxatasi ukarjam adaptado.",
     "ideas101": "101 lurawi amuyunaka",
     "stages": [
@@ -112,26 +113,26 @@
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Chika taypinkir pacha",
+        "title": "Chika taypinkir etapa",
         "text": "Sapuru, uñt’at lurawinakaw t’aqa t’aqa t’aqa: doblar, ordenar, musica, cuadro anatt’awinaka ukat jisk’a sarnaqawinaka.",
         "label": "Chika pacha amuyunaka"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Qhipa pachanakanxa",
+        "title": "Qhipa pachanxa",
         "text": "Chuymacht’awi ukat conexión tuqi llamkt’añampi, ist’añampi ukat uñjañampi: ampar uñjaña, munat q’uchunaka, fotonaka ukat mayacht’asis sarnaqaña.",
         "label": "Qhipa pacha amuyunaka"
       }
     ],
-    "specificHtml": "¿Kunas mä específico ukar thaqhaskta? Yant’apxañani <a href=\"/activities/alzheimers/\">lurawinaka ukhamaraki anatt’awinaka Alzheimer usuta</a>, <a href=\"/activities/memory-games/\">llamp’u amuyu anatañanaka</a>, <a href=\"/activities/trivia/\">jasa trivia</a> jan ukax <a href=\"/activities/puzzles/\">ukatsti ukax mä jamuqawa</a>.",
-    "approachEyebrow": "Jiwasana jak’achasiñasa",
-    "approachTitle": "Mä lurawi mayacht’ata, janiwa amuyu yant’awikiti",
+    "specificHtml": "¿Kunas mä específico ukar thaqhaskta? Yant'aña <a href=\"/activities/alzheimers/\">lurawinakapa ukhamaraki anatt’awinaka Alzheimer usut qullañataki</a>, . <a href=\"/activities/memory-games/\">llamp’u chuymampi amtañataki anatt’awinaka</a>, . <a href=\"/activities/trivia/\">jan ch’amäki uka trivia</a> o <a href=\"/activities/puzzles/\">rompecabezas ukanaka</a>.",
+    "approachEyebrow": "Jiwasan jak’achasiñasa",
+    "approachTitle": "Mä lurawi mayacht’ata, janiw amuyu yant’awikiti",
     "approachLede": "Walja “p’iqin anatt’awinakax” jank’akïña, puntuación ukat rachas ukanakamp muyuntat luratawa. Maynix demencia usump jakaski ukatakix ukax mä examenjamaw jikxatasi. Jiwasax uka contraw lurapxta.",
-    "approachLink": "Kunatsa ukham diseñasa",
+    "approachLink": "Kunatsa ukham lurapxta",
     "principles": [
       {
         "icon": "heart",
-        "title": "Janiw kunas pantjasi",
+        "title": "Janiw kunas pantjaskiti",
         "text": "Janiw reloj, puntuación, jakañas jan ukax chhaqhayañas utjkiti. Yaqha dibujojj samartʼañawa, janiw pantjasïwikiti."
       },
       {
@@ -146,17 +147,17 @@
       },
       {
         "icon": "shield",
-        "title": "Privado ukax diseño ukan",
+        "title": "Privado ukhamawa diseño tuqita",
         "text": "Janiw cuentas ni anuncios ukanakas utjkiti. Fotonakamajj janipuniw dispositivomat mistkiti."
       }
     ],
     "guidesEyebrow": "Uñakipirinakataki",
     "guidesTitle": "Sapa uru uñjañatakiwa guias prácticas",
-    "allCaregiving": "Taqi uñjañ guias",
+    "allCaregiving": "Taqi uñjirinaka guia",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "Kunjamas anatañanakax mayacht'asis anatt'añaxa",
+        "title": "Kunjamasa mayacht’asis anatt’aña",
         "text": "Mä anattʼañax jan kusiskañäxi ukhaxa, wakichtʼasiñama, ritmo ukat kun lurañas wakisispa."
       },
       {
@@ -171,15 +172,15 @@
       },
       {
         "href": "/activities/printable/",
-        "title": "Inaki imprimir lurañanakaxa",
+        "title": "Inaki imprimir lurañanaka",
         "text": "Jach’a qillqat aru thaqhaña, colorear páginas, bingo ukat tarjetas de conversación."
       }
     ],
-    "researchTitle": "P’iqin k’umaräñapataki: kunas chiqpachan yatxatäwix siski",
+    "researchTitle": "P’iqin k’umaräñapataki: kuntix chiqpachan yatxatäwix siski",
     "researchText": "¿Demencia usux jark’aqasispati? ¿P’iqin anatt’añanakax yanapt’aspati? ¿Ayuno, dieta, ikiñ ukat ist’añ tuqitx kamsasmasa? Qhana, yatxattʼat jaysäwinaka, ukat kawkhantï uñachtʼäwinakax jan chʼamanïki ukanakas utjarakiwa.",
     "researchLink": "Yatxatawi qillqatanaka uñxatt’aña",
     "appEyebrow": "Ukhamaraki mä app",
-    "appTitle": "Quri pachanakax iPhone, iPad ukat Android ukanakan",
+    "appTitle": "Quri pachanakax iPhone, iPad ukat Android ukanakan uñt’ayatawa",
     "appText": "Inakiw app ukax jan internetan irnaqaski ukatx familian fotonakap ajllit apnaqañamawa, dispositivo ukan copianakjam imatäspawa. Pachpa samarañ diseño: pusi jach’a azulejos, janiw tiempor, janiw puntuación.",
     "aboutApp": "Uka app tuqitxa",
     "faq": [
@@ -214,102 +215,102 @@
     ]
   },
   "stage": {
-    "early": "nayra pacha",
-    "middle": "chika taypin",
-    "late": "qhiparuxa",
-    "hintOne": "Jilapachax wali askiwa {list} etapa",
-    "hintMany": "Jilapachax wali askiwa {list} etapas",
+    "early": "alwa",
+    "middle": "chika",
+    "late": "jayp'uru",
+    "hintOne": "Jilapachax wali askiwa {list} itapa",
+    "hintMany": "Jilapachax wali askiwa {list} etapas ukanaka",
     "labelEarly": "Nayra pacha",
-    "labelMiddle": "Chika taypinkir pacha",
-    "labelLate": "Qhipa pachanakanxa"
+    "labelMiddle": "Chika taypinkir etapa",
+    "labelLate": "Qhipa pachanxa"
   },
   "cards": {
-    "aboutGame": "Aka anatt'awi tuqita",
+    "aboutGame": "Aka anatt’awi tuqita",
     "printable": "Imprimirjamawa",
-    "play": "Anatañ {name} →",
-    "readGuide": "Uñxatt’añataki guia"
+    "play": "Antaña {name} →",
+    "readGuide": "Uka guia uñxatt’aña"
   },
   "playCta": {
     "title": "¿Llamp’u chuyman anatt’añatakis wakicht’atätati?",
     "text": "Jach’a jamuqanak, janiw kuna pachas utjkiti, janiw kuna puntuación ukat kunas qillqantañatakix utjkiti. Navegador ukan mayacht’asis anatt’añamawa.",
-    "play": "Mä Anatañ Anatañ",
-    "all": "Taqi anatt'awinak uñjaña",
-    "aria": "Mä anatt'awi"
+    "play": "Mä Anatañ anatt’aña",
+    "all": "Taqi anatt’awinaka uñjaña",
+    "aria": "Mä anatt’awi anatt’aña"
   },
   "appCta": {
-    "title": "Aka anatt'awinak jumamp chika apasiñama",
+    "title": "Uka anatt’awinaka apt’asiñamawa",
     "text": "iPhone, iPad ukat Android ukatakix Golden Moments ukax inakiw app: jach’a jamuqanak azulejos, anatañanakax pachpa familian fotonakapampi, ukat jamuqanak packs ukax jan Wi‐Fi ukampiw irnaqapxi. Janiw cuenta, anuncios, tiempor jan ukax puntuación ukanakas utjkiti.",
-    "appStore": "Ukax App Store ukan uñt'ayatawa",
-    "googlePlay": "Google Play ukan uñt'ayasi",
-    "appStoreShort": "App Store ukax",
-    "googlePlayShort": "Google Play ukax",
+    "appStore": "App Store ukan uñt’ayañamawa",
+    "googlePlay": "Google Play ukan uñt’ayañamawa",
+    "appStoreShort": "App Store ukax mä jach’a uñacht’äwiwa",
+    "googlePlayShort": "Google Play ukan uñt’ayata",
     "about": "Uka app tuqitxa",
-    "aria": "Uka app ukax"
+    "aria": "Uka app uñt’ayaña"
   },
   "sections": {
     "activities": {
-      "label": "Luräwinaka",
+      "label": "Lurawinaka",
       "title": "Demencia usump usuntat jaqinakataki lurawinaka",
       "seo": "Demencia usump usuntat jaqinakatakix lurawinaka: Etapa ukarjam amuyunaka",
       "description": "Sapa etapa ukan demencia usump jakasir jaqinakatakix lurañ amtanaka: musica, amtawi, sapa uru lurawinaka, momentos sensoriales, artesanía, anqan ukhamarak.",
-      "lede": "Amuyt’ir lurawix kunatix chuymacht’awi, amta jan ukax mä juk’a pacha mayacht’asiñ apanki ukawa."
+      "lede": "Amuyt’ir lurawix kunatix chuymacht’awi, amta jan ukax mä juk’a pacha mayacht’asiñ apanki ukawa. Kuntï uka jaqejj nayratpach gustkäna ukat qalltam, ukat jichhürunakarjamaw yatinoqtañama."
     },
     "caregiving": {
-      "label": "Uñakipañataki",
-      "title": "Uñakipt’añataki Guias",
-      "seo": "Demencia tuqit uñjañ guias: Sapa uru yanapt’awinak luraña",
-      "description": "Demencia uñjirinakatakix wali aski, suma chuyman guias: mayacht’asis anatt’aña, aruskipt’aña, jan munaña, qhipa uru jan samaraña, tabletas, apps ajlliña ukat autocuidado.",
+      "label": "Uñakipaña",
+      "title": "Uñakipañataki Guías",
+      "seo": "Guías de Cuidado de Demencia: Sapa uru yanapt’awinaka",
+      "description": "Demencia uñjirinakatakix wali aski, suma chuyman guias: mayacht’asis anatt’aña, aruskipt’aña, jan munaña, qhipa uru jan samaraña, tabletas, apps ajlliña ukat.",
       "lede": "Qhana, aski yanapt’awi sapa uru pachanakaru uñjañataki khitirusa demencia usumpi jakaski, ukhamaraki juma pachpa uñjañataki."
     },
     "brain-health": {
       "label": "P’iqin k’umaräñapataki",
-      "title": "P’iqin K’umaräñapataki: Kuns Yatxatäwix siski",
-      "seo": "P’iqin K’umaräñapataki ukhamarak Demencia Riesgo: Kuns Yatxatäwix saski",
+      "title": "P’iqin K’umaräñapataki: Kuns Yatxatäwinakax siski",
+      "seo": "P’iqin k’umaräñapataki ukat demencia usunïñapataki: Kuntï yatxatäwinakax siski",
       "description": "¿Demencia usux jark’aqasispati? Honesto, fuentes guias de factores de riesgo de demencia, p’iqin anatt’awinaka, ayuno, dieta, ejercicio, ikiñ, ist’añ ukat nayraqat.",
-      "lede": "Kuntix jach’a yatxatawinakax chiqpachan uñacht’ayapxi demencia riesgo jisk’achañataki, qhan qhanañchata, kawkhantix uñacht’awinakax jan ch’amanïki jan ukax mistu."
+      "lede": "Kuntix jach’a yatxatawinakax chiqpachan uñacht’ayapxi demencia riesgo jisk’achañataki, qhan qhanañchata, kawkhantix uñacht’awinakax jan ch’amanïki jan ukax mistu. Taqi kunat yatiyaña, janiw qullañ tuqit iwxt’añakiti."
     }
   },
   "guide": {
     "updated": "Jichha pacha",
-    "minuteRead": "{n} minuto uñxatt’aña",
-    "byTeam": "Ukax Golden Moments ukankirinakan luratawa",
+    "minuteRead": "{n} minuto uñakipt’aña",
+    "byTeam": "Golden Moments uka equipon luratawa",
     "howWeWrite": "Kunjamsa qillqañasa",
-    "shortAnswer": "Uka jisk’a jaysäwix",
-    "onThisPage": "Aka pankanxa ({n} t’aqanaka)",
-    "commonQuestions": "Jiskt’awinaka común",
+    "shortAnswer": "Uka jisk’a jaysäwi",
+    "onThisPage": "Aka pankanxa ({n} tʼaqanaka) .",
+    "commonQuestions": "Jisktʼanakajj wali uñtʼatawa",
     "sources": "Uñakipt’atanaka",
     "sourcesNote": "Jiwasax organizaciones ukat yatxatäwinakaruw aka pankax atinisi. Sapa mayniw uñakipt’atäna kunapachatix pankax machaqar tukuyatän ukhaxa.",
-    "tryTogether": "Mayacht'asis yant'apxañäni",
+    "tryTogether": "Mayachtʼasisaw chʼamachasipjjañama",
     "relatedGuides": "Uka tuqit yatxatatanaka",
-    "related": "Ukax",
-    "startHere": "Aka chiqat qalltañani"
+    "related": "Niy kipka",
+    "startHere": "Aka chiqat qalltañamawa"
   },
   "healthNotice": {
-    "aria": "K’umar jakañ tuqit yatiyawinak yatiyaña",
+    "aria": "K’umar jakañ tuqit yatiyawinak uñt’ayaña",
     "title": "Taqi kunat yatiyaña, janiw qullañ tuqit iwxt’añakiti",
     "textHtml": "Aka pankax familianakatakix yatxatäwinak uñt’ayat mä juk’a qhanañcht’atawa. Janiw kunas mä jaqitakix askïki uk yatiykaspati. Janïra manq’añanaka, ejercicio luraña, ikiña, qullanaka jan ukaxa suplementos ukanaka mayjt’ayasa qullirimpi aruskipt’añawa. Akatjamat jan waltʼayasiñataki jan ukax yaqha akatjamat mayjtʼäwinakatakix jankʼakiw qullirir yanaptʼayasiñama. <a href=\"/medical-disclaimer/\">Jiwasan k’umaräñ tuqit yatiyawinak uñakipt’añäni</a>."
   },
   "pages": {
     "about": {
-      "title": "Mä Luräwi Compartido, Janiw Amtañ Yant’awikiti",
-      "seoTitle": "Quri pachanakatxa: Jiwasana jak’achasiñasa",
+      "title": "Mä Luräwi Compartido, Janiw Amtañ Yant’äwikiti",
+      "seoTitle": "Quri pachanakatxa: Jiwasan jak’achasiñasa",
       "description": "Kunatsa Golden Moments anatäwinakax jan tiempos, puntuaciones jan ukax rachas ukanakax utjkiti, kunats jamuqanak uñacht’ayañax qhiparaski, ukat kuns demencia tuqit.",
-      "crumb": "Jiwasana jak’achasiñasa",
+      "crumb": "Jiwasan jak’achasiñasa",
       "lede": "Golden Moments ukax samarañ, jilïr jaqinakan jamuq lurawinakap luraraki, ukax mä uñjir ukhamarak khititix demencia usump jakaski ukax mayakiw kusist’apxaspa.",
-      "bodyHtml": "<h2>Kuntix jiwasax iyawsktan</h2><p>Mä lurawix kuna pachas wakisi ukax pachpa pachawa: aruskipt’aña, jachaqt’asiña, pä jamuq mayacht’asis satisfacción jan ukax jak’an qunt’asiñaki. Janiw khitirus tupuñakiti, juk’amp ch’amanchañakiti ni kuns uñacht’ayañakiti.</p><p>Walja p’iqin yatichañ apps ukanakax velocidad, puntuaciones, rachas ukat niveles ukanakar muyuntat luratawa. Mä jaqitakix demencia usump jakaski ukax examen ukham jikxatasispawa janiw pasañjamäkiti. Jiwasax contrario ukham lurapxta, ukat aka kamachinakaruw katxarustanxa:</p><ul><li><strong>Janiw kunas pantjaskiti.</strong> Janiw reloj, puntuación, movimiento contador, vidas, rachas, confeti jan ukax cuentas regresivas, kuna pantalla ukan utjkiti.</li><li><strong>Amtañat sipansa uñt’ayaña.</strong> Jallu qallta phaxsinx uñacht’ayataw qhiparapxi. Promptas ukax aruskipt’añatakiw jawillt’i ukatx janipuniw sutinak jan ukax amtawinak jiskt’añati.</li><li><strong>Jach’a, qhana ukat ch’ama.</strong> Jach’a qillqatanaka ukat jamuqanak, jach’a contraste ukat controles ukanakax pachpa chiqan qhiparapxi.</li><li><strong>Jilïr jaqinakan jach’añchäwipa.</strong> Chiqpach pachan jamuqanak ukat qhana, junt’u arunaka. Janiw caricaturas, cant-cantar jach’añchäwinak jan ukax emoji premios ukanakas utjkiti.</li><li><strong>Mä jasak mistuñ thakhi.</strong> “Jichhatakix luratäxiwa” ukax uñjasipuniwa. Chika thakin saytʼañax wali askiwa.</li><li><strong>Privado ukax default ukhamawa.</strong> Janiw cuentas ni anuncios ukanakas utjkiti. Fotonakax ajllitäki ukanakax dispositivo ukan qhiparapxi.</li></ul><h2>Kuntï jiwasajj jan sisktan ukanakjja</h2><p>Jiwasan anatt’awinakax kusist’añatakiwa ukat mayacht’asiñatakiwa. Jupanakax janiw demencia jan ukax Alzheimer usunak uñt’apkiti, yant’apkiti, tupupkiti, qullapkiti, k’achat k’achat jan ukax jark’aqapkiti, ukat janiw khitis uka tuqit ajlliñapäkiti. Kunapachatixa jiwasana <a href=\"/brain-health/\">p’iqin k’umaräñapatakix</a>, kawkhantix uñacht’awinakax jan ch’amanïki ukx qhan arsupxta, ukatx janipuniw jiwasan anatt’awinakasampix mayacht’ktanti.</p><h2>Khitinakas jiwasax</h2><p>Golden Moments ukax mä jisk’a independiente equipo ukhamawa. Jiwasax janiw clínicos ukhamäktanti. Jiwasan guias ukanakax Instituto Nacional de Envejecimiento ukat Asociación de Alzheimer ukanakan organizacionanakan uñt’ayat irnaqawinakat qillqt’atawa, ukatx sapa guia ukanakax kawkhantix utjki ukanak uñt’ayi. Uñxatt’añataki <a href=\"/editorial-policy/\">kunjams qillqt’añasa ukat pankanakas uñakipt’añasa</a>.</p><h2>Kunas yanapt'aspa uk yatiyapxita</h2><p>Kunas jumatakix askïspa ukat kunas jan askïki uk ist’añ munapxta, juk’ampis demencia usump jakasir jaqinakat, familiar uñjirinakata ukhamarak actividad ukan irnaqirinakatxa. Correo electrónico <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "bodyHtml": "<h2>Kuntï iyawsktan uka</h2><p>Mä lurawix kuna pachas wakisi ukax pachpa pachawa: aruskipt’aña, jachaqt’asiña, pä jamuq mayacht’asis satisfacción jan ukax jak’an qunt’asiñaki. Janiw khitirus tupuñakiti, juk’amp ch’amanchañakiti ni kuns uñacht’ayañakiti.</p><p>Walja p’iqin yatichañ apps ukanakax velocidad, puntuaciones, rachas ukat niveles ukanakar muyuntat luratawa. Mä jaqitakix demencia usump jakaski ukax examen ukham jikxatasispawa janiw pasañjamäkiti. Jiwasax contrario ukham lurapxta, ukat aka kamachinakaruw katxarustanxa:</p><ul><li><strong>Janiw kunas pantjaskiti.</strong> Janiw reloj, puntuación, movimiento contador, vidas, rachas, confeti jan ukax cuentas regresivas, kuna pantalla ukan utjkiti.</li><li><strong>Amtañat sipansa uñt’ayaña.</strong> Jallu qallta phaxsinx uñacht’ayataw qhiparapxi. Promptas ukax aruskipt’añatakiw jawillt’i ukatx janipuniw sutinak jan ukax amtawinak jiskt’añati.</li><li><strong>Jach’a, qhana ukat ch’ama.</strong> Jach’a qillqatanaka ukat jamuqanak, jach’a contraste ukat controles ukanakax pachpa chiqan qhiparapxi.</li><li><strong>Jilïr jaqinakan jach’añchäwipa.</strong> Chiqpach pachan jamuqanak ukat qhana, junt’u arunaka. Janiw caricaturas, cant-cantar jach’añchäwinak jan ukax emoji premios ukanakas utjkiti.</li><li><strong>Mä jasak mistuñ thakhi.</strong> “Jichhatakix luratäxiwa” ukax uñjasipuniwa. Chika thakin saytʼañax wali askiwa.</li><li><strong>Privado ukax default ukhamawa.</strong> Janiw cuentas ni anuncios ukanakas utjkiti. Fotonakax ajllitäki ukanakax dispositivo ukan qhiparapxi.</li></ul><h2>Kuntï jiwasajj jan sisktan ukanakjja</h2><p>Jiwasan anatt’awinakax kusist’añatakiwa ukat mayacht’asiñatakiwa. Jupanakax janiw demencia jan ukax Alzheimer usunak uñt’apkiti, yant’apkiti, tupupkiti, qullapkiti, k’achat k’achat jan ukax jark’aqapkiti, ukat janiw khitis uka tuqit ajlliñapäkiti. Kunapachatixa yatxatawi tuqita qillqt’añänixa jiwasana... <a href=\"/brain-health/\">p’iqin k’umaräñapatakix pankanakaw utji</a>, kawkhantix uñacht’awinakax jan ch’amanïki ukx qhan arsupxta, ukatx janipuniw jiwasan anatt’awinakasampix mayacht’ktanti.</p><h2>Khitinakasa jiwasaxa</h2><p>Golden Moments ukax mä jisk’a independiente equipo ukhamawa. Jiwasax janiw clínicos ukhamäktanti. Jiwasan guias ukanakax Instituto Nacional de Envejecimiento ukat Asociación de Alzheimer ukanakan organizacionanakan uñt’ayat irnaqawinakat qillqt’atawa, ukatx sapa guia ukanakax kawkhantix utjki ukanak uñt’ayi. Ullaña <a href=\"/editorial-policy/\">kunjams qillqt’añasa ukat pankanakas uñakipt’añasa</a>.</p><h2>Kunas yanaptʼaspa uk yatiyapjjeta</h2><p>Kunas jumatakix askïspa ukat kunas jan askïki uk ist’añ munapxta, juk’ampis demencia usump jakasir jaqinakat, familiar uñjirinakata ukhamarak actividad ukan irnaqirinakatxa. Correo electrónico tuqi <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "Kunjams Qillqañasa ukat Pankanakas uñakipañasa",
-      "seoTitle": "Política Editorial ukax",
+      "title": "Kunjamsa Qillqañasa ukat Pankanakas uñakiptʼañasa",
+      "seoTitle": "Política Editorial ukax mä juk’a pachanakanwa",
       "description": "Kunjams Golden Moments ukax yatxati, qillqt’i, phunchhawi ukat machaq lurawinak demencia tuqit ukhamarak p’iqin k’umaräñ tuqit pankanakap uñt’ayi, ukat kunanaks.",
-      "crumb": "Política editorial ukax",
-      "bodyHtml": "<h2>Jiwasanakan phunchhawinakasa</h2><p>Jiwasax guias ukanakax organizaciones ukanakan guia pública ukarjam uñt’ayatawa, Instituto Nacional de Envejecimiento, CDC, Asociación de Alzheimer, Fundación Alzheimer de América, Alianza de Cuidados de Familia ukat NHS ukanakan irnaqawiparjama, ukat yatxatäwinak uñakipt’ata, Cochrane ukan uñakipäwinakapamp jach’a ensayo clínico ukanakampi. Sapa guia ukax kawkir fuentenakarus atinisi uk uñt’ayi. Sapa fuente janïr uñt’kasax jist’arapxtanwa, ukatx kuntix chiqpachan siski ukak yatiyapxta.</p><h2>Kunjamsa qillqañasa</h2><ul><li>Nayraqatax práctico: kunanaks jichhürunakan lurañasa, qhana arumpi.</li><li>Chiqpachansa chiqapa: “ligado con”, “may” ukat “evidencias mixtas” sasaw sapxtanxa, kunapachatix ukax chiqäki ukhaxa.</li><li>Respeto: jilïr jaqinakjamax demencia usump jakasir jaqinakat qillqt’apxta, ukat janipuniw jiskt’asiñ jan ukax p’inqachañ arunak apnaqktanti.</li><li>Janiw kuna contenido inventado ukax utjkiti: janiw estadísticas, citaciones, expertos, estudios, revisiones jan ukax testimonios ukanakax luratäkiti.</li></ul><h2>Khitis jiwasan pankanakas uñakipi</h2><p>Pankanakax Golden Moments ukankirinakan qillqt’atawa ukatx uñakipatawa, AI qillqañ yänakan yanapt’apampi, yatxatañataki ukhamarak qillqt’añataki. Sapa pankax equipo ukan jamuqanakaparjam uñakipatawa. Jiwasan pankanakax <strong>janiwa</strong> qullirimpi jan ukax yaqha qullirimpi uñakipata, ukat janiw yaqha tuqit arsupkti. Ukanakax taqpach yatiyawinakawa, janiw qullañ tuqit iwxt’awinakakiti.</p><h2>Kuntix jiwasax janipuniw uñt'aykañäniti</h2><ul><li>Mä anatt’awi, manq’a, suplemento, rápido jan ukaxa rutina ukaxa demencia usu jark’aqaraki, qullaraki, juk’ampi juk’ampi jan ukaxa qullaraki sasaw arsu.</li><li>Yant’awinaka, jiskt’awinaka jan ukax puntuacionanakax maynix demencia usunïtap uñacht’ayi, jan ukax jan utjatapa.</li><li>Kuna qullanaka qalltañataki, sayt’ayañataki jan ukaxa mayjt’ayañataki iwxt’awinaka.</li><li>Publicidad jan ukax contenido patrocinado ukanakax guia ukham disfrazata.</li></ul><h2>Jichha pachanaka ukhamaraki chiqañchawinaka</h2><p>Sapa pankax kuna urus qhip qhipa uñstawayi uk uñacht’ayi. Mä pantjasiw jan ukax mä nayra phunchhawi jikxatasma ukhax correo electrónico <a href=\"mailto:{email}\">{email}</a> ukat jankʼakiw uñakiptʼañäni.</p>"
+      "crumb": "Política editorial uka tuqita",
+      "bodyHtml": "<h2>Jiwasanakan phunchhawinakasa</h2><p>Jiwasax guias ukanakax organizaciones ukanakan guia pública ukarjam uñt’ayatawa, Instituto Nacional de Envejecimiento, CDC, Asociación de Alzheimer, Fundación Alzheimer de América, Alianza de Cuidados de Familia ukat NHS ukanakan irnaqawiparjama, ukat yatxatäwinak uñakipt’ata, Cochrane ukan uñakipäwinakapamp jach’a ensayo clínico ukanakampi. Sapa guia ukax kawkir fuentenakarus atinisi uk uñt’ayi. Sapa fuente janïr uñt’kasax jist’arapxtanwa, ukatx kuntix chiqpachan siski ukak yatiyapxta.</p><h2>Kunjamsa qillqañasa</h2><ul><li>Nayraqatax práctico: kunanaks jichhürunakan lurañasa, qhana arumpi.</li><li>Chiqpachansa chiqapa: “ligado con”, “may” ukat “evidencias mixtas” sasaw sapxtanxa, kunapachatix ukax chiqäki ukhaxa.</li><li>Respeto: jilïr jaqinakjamax demencia usump jakasir jaqinakat qillqt’apxta, ukat janipuniw jiskt’asiñ jan ukax p’inqachañ arunak apnaqktanti.</li><li>Janiw kuna contenido inventado ukax utjkiti: janiw estadísticas, citaciones, expertos, estudios, revisiones jan ukax testimonios ukanakax luratäkiti.</li></ul><h2>Khitis jiwasan pankanakas uñakipi</h2><p>Pankanakax Golden Moments ukankirinakan qillqt’atawa ukatx uñakipatawa, AI qillqañ yänakan yanapt’apampi, yatxatañataki ukhamarak qillqt’añataki. Sapa pankax equipo ukan jamuqanakaparjam uñakipatawa. Jiwasan pankanakax utjiwa <strong>janiwa</strong> qullirimpi jan ukax yaqha qullirimpi uñakipata, ukat janiw yaqha tuqit arsupkti. Ukanakax taqpach yatiyawinakawa, janiw qullañ tuqit iwxt’awinakakiti.</p><h2>Kuntï janipuniw uñtʼaykañäniti</h2><ul><li>Mä anatt’awi, manq’a, suplemento, rápido jan ukaxa rutina ukaxa demencia usu jark’aqaraki, qullaraki, juk’ampi juk’ampi jan ukaxa qullaraki sasaw arsu.</li><li>Yant’awinaka, jiskt’awinaka jan ukax puntuacionanakax maynix demencia usunïtap uñacht’ayi, jan ukax jan utjatapa.</li><li>Kuna qullanaka qalltañataki, sayt’ayañataki jan ukaxa mayjt’ayañataki iwxt’awinaka.</li><li>Publicidad jan ukax contenido patrocinado ukanakax guia ukham disfrazata.</li></ul><h2>Jichha pachanaka ukatxa chiqañchawinaka</h2><p>Sapa pankax kuna urus qhip qhipa uñstawayi uk uñacht’ayi. Mä pantjasiw jan ukax mä nayra phunchhawi jikxatasma ukhax correo electrónico tuqiw qillqt’asiñama <a href=\"mailto:{email}\">{email}</a> ukat jankʼakiw uñakiptʼañäni.</p>"
     },
     "faq": {
-      "title": "Jiskt’awinaka ukhamaraki jaysawinaka",
+      "title": "Jiskt’awinaka ukat jaysäwinaka",
       "seoTitle": "Demencia tuqit anatt’awinaka ukat lurawinaka: Jiskt’awinaka ukat jaysawinaka",
       "description": "Demencia anatt’awinakata ukhamaraki lurawinakata jiskt’awinakaru jaysaña: kawkiri anatañanaka yant’aña, qawqha pachasa anataña, qhipa pacha amuyunaka, p’iqin.",
-      "crumb": "Jiskt’awinaka ukhamaraki jaysawinaka",
+      "crumb": "Jiskt’awinaka ukat jaysäwinaka",
       "lede": "Kuntï uñjirinakajj jukʼamp jisktʼapki uka jisktʼanakar mä jiskʼa qhanañchäwi, qhana qhanañchäwi.",
       "groups": [
         {
@@ -380,7 +381,7 @@
         },
         {
           "id": "privacy",
-          "title": "Privacidad ukatxa seguridad",
+          "title": "Privacidad ukatxa seguridad ukatxa",
           "items": [
             {
               "q": "¿Kuna yatiyawinaksa apthapipxtati?",
@@ -388,65 +389,65 @@
             },
             {
               "q": "¿Ukajj qollañ toqet ewjjtʼatäpachati?",
-              "a": "Janiwa, Golden Moments ukax kusist’añatakis ukat taqpach yatiyawinakatakiw. K’umaräñ tuqit jiskt’asiñatakix qullirimpiw aruskipt’añama, ukat jan walt’äwinakatakix 911 ukaruw jawst’añama"
+              "a": "Janiwa, Golden Moments ukax kusist’añatakis ukat taqpach yatiyawinakatakiw. K’umaräñ tuqit jiskt’asiñatakix qullirimpiw aruskipt’añama, ukat jan walt’äwinakatakix 911 ukaruw jawst’añama."
             }
           ]
         }
       ],
-      "moreHtml": "Juk’amp yatxatañatakix: <a href=\"/caregiving/how-to-play-together/\">kunjamasa mayacht'asis anatt'aña</a>, <a href=\"/caregiving/when-they-say-no/\">kunapachatixa janiwa sapxi ukhaxa</a>, <a href=\"/activities/late-stage/\">qhipa pacha lurawinakata</a> ukat <a href=\"/brain-health/can-dementia-be-prevented/\">¿demencia usux jark’aqasispati?</a>"
+      "moreHtml": "Juk’amp yatxatañataki: <a href=\"/caregiving/how-to-play-together/\">kunjamasa mayacht’asis anatt’aña</a>, . <a href=\"/caregiving/when-they-say-no/\">kunapachatixa janiwa sapxi ukhaxa</a>, . <a href=\"/activities/late-stage/\">qhipa pacha lurawinakata</a> ukat <a href=\"/brain-health/can-dementia-be-prevented/\">¿demencia usux jark’aqasispati?</a>"
     },
     "handout": {
       "title": "Demencia usump usuntat jaqinakatakix inaki, llamp’u chuyman anatt’awinaka",
-      "seoTitle": "Imprimible qillqata: Demencia tuqit anatt’awinakax inakiw Internet tuqin",
+      "seoTitle": "Imprimir qillqata: Demencia tuqit anatt’awinakax inakiw Internet tuqin utji",
       "description": "Mä pankan imprimir qillqata familianakataki ukhamarak uñjirinakataki, inaki, llamp’u jamuqanak anatañanakata, demencia usump jakasir jaqinakataki, yanapt’ir.",
-      "crumb": "Imprimir qillqataxa",
-      "lede": "Aka pankax mä yanapt’ir tamataki, paquete de cuidado jan ukax nevera punkutakiw imprimi.",
+      "crumb": "Imprimible uka qillqata",
+      "lede": "Aka pankax mä yanapt’ir tamataki, paquete de cuidado jan ukax nevera punkutakiw imprimi. Navegador ukan Imprimir kamachi apnaqañamawa; menús ukat botones ukanakax imprimir ukanx jaytatawa.",
       "introHtml": "<p>Jach’a jamuqanak, qhana arunaka ukat janiw kunas pantjasiñakiti. Teléfono, tablet jan ukax computadora ukanx inakiw, janiw qillqt’asiñas utjkiti, janiw anuncios ukanakas utjkiti, janiw tiempos ukanakas utjkiti ukat janiw puntuacionanakas utjkiti. Mayacht’asis qunt’asipxam ukat turno lurapxam.</p>",
-      "gamesTitle": "Anatañanak mayacht'asis yant'añataki",
-      "restHtml": "<h2>Mä qawqha iwxt’awinaka</h2><ul><li>Urun kuna pachas uka jaqix wali suma jikxatasi uk ajlliñamawa.</li><li>Qalltañatakix mä jasak wakicht’awimpiw qalltañama. Pusi azulejonakax waljawa.</li><li>Jamuqanakat parltʼañäni. Jila partejja, parltʼasiñaw wali askixa.</li><li>Wali suma jikxatasiñapkama sayt’añamawa. Nayratpach tukuyañax wali askiwa.</li></ul><h2>Ukhamaraki sitio web</h2><ul><li>Inaki imprimibles: jach’a qillqat arunaka thaqhaña, colorear páginas, tarjetas de conversación ukat bingo de cuadros.</li><li>Sapa etapataki lurawi amuyunaka, ukhamaraki guias ukanakaxa mayacht’asis anatt’añataki ukhamaraki juma pachpa uñjañataki.</li></ul><p class=\"muted\">Kusisiñataki ukat mayachtʼasis tiempo apstʼasiñataki. Janiw qullirinakan iwxt’awipa, mä yant’awi jan ukax qullaña. Golden Moments ukax Cloudjet Solutions Pte ukan uñt’ayatawa. Ltd. ukat juk’ampinaka</p>"
+      "gamesTitle": "Anatañanak mayacht’asis yant’añataki",
+      "restHtml": "<h2>Mä qawqha iwxt’anaka</h2><ul><li>Urun kuna pachas uka jaqix wali suma jikxatasi uk ajlliñamawa.</li><li>Qalltañatakix mä jasak wakicht’awimpiw qalltañama. Pusi azulejonakax waljawa.</li><li>Jamuqanakat parltʼañäni. Jila partejja, parltʼasiñaw wali askixa.</li><li>Wali suma jikxatasiñapkama sayt’añamawa. Nayratpach tukuyañax wali askiwa.</li></ul><h2>Ukhamaraki sitio ukanx utjarakiwa</h2><ul><li>Inaki imprimibles: jach’a qillqat arunaka thaqhaña, colorear páginas, tarjetas de conversación ukat bingo de cuadros.</li><li>Sapa etapataki lurawi amuyunaka, ukhamaraki guias ukanakaxa mayacht’asis anatt’añataki ukhamaraki juma pachpa uñjañataki.</li></ul><p class=\"muted\">Kusisiñataki ukat mayachtʼasis tiempo apstʼasiñataki. Janiw qullirinakan iwxt’awipa, mä yant’awi jan ukax qullaña. Golden Moments ukax Cloudjet Solutions Pte ukan uñt’ayatawa. Ltd.</p>"
     },
     "organizations": {
-      "title": "Cuidado Utanakataki, Bibliotecanakataki ukhamaraki Yanapt’awinakataki",
-      "seoTitle": "Demencia tuqit lurañanakax inaki uñjañ utanakataki ukhamarak tamanakataki",
+      "title": "Cuidado Utanakataki, Bibliotecas ukat Yanapt’ir Gruponakataki",
+      "seoTitle": "Cuidado utanakataki ukhamaraki tamanakataki Demencia tuqita lurawinakata inaki",
       "description": "Kunjams uñjañ utanakax, jilïr jaqinakan urupan wakichäwinakapa, bibliotecas, chuymankipstañan agencianaka ukat yanapt’ir tamanakax jiwasan inakiw demencia.",
       "crumb": "Organizaciones ukanakataki",
-      "lede": "Taqi kunatix aka sitio ukanx utjki ukax inakiw markachirinakamp, ​​miembronakampi ukhamarak clientes ukanakamp apnaqañataki, janiw kuna cuentas, licencias jan ukax.",
+      "lede": "Taqi kunatix aka sitio ukanx utjki ukax inakiw markachirinakamp, ​​miembronakampi ukhamarak clientes ukanakamp apnaqañataki, janiw kuna cuentas, licencias jan ukax qullqis utjkiti. Aka pankax kunas akan utji ukat kunjams uñt’ayasispa uk qhanañcht’i.",
       "shortText": "{name}: inaki, llamp’u chuyman jamuqanak anatt’awinaka ukat lurawinakat guias ukanakax demencia usump jakasirinakataki ukhamarak uñjirinakataki. Janiw qillqt’asiñas utjkiti, janiw pachanak uñt’ayañas utjkiti, janiw puntuacionanakas utjkiti.",
-      "longText": "{name} ({domain}) ukax {count} inakiw navegador anatt’awinakax demencia usump jakasir jaqinakatakiw lurata, ukax paris ukanakamp chikancht’asisaw uñacht’ayat jaytat jamuqanak uñacht’ayata, mä jasak rompecabezas, clasificación, uñt’at arunaka ukat bingo de cuadros tarjetas imprimibles ukanakampi. Janiw kuna cuentas, publicidad, tiempor jan ukax puntuación ukanakas utjkiti. Uka chiqanx sapa etapa de demencia ukatakix guias de actividades llano lenguas ukanakaw utjaraki, ukax Instituto Nacional de Envejecimiento ukat Asociación de Alzheimer ukanakat uñt’ayatawa.",
-      "useTitle": "Kuna organizacionanakas apnaqasispa",
-      "gamesItemHtml": "<strong>{count} uñakipiri anatañanaka</strong> ukax laptop, tablet jan ukax TV computadora ukar conectat ukan apnaqatawa. Janiw instalación, cuenta jan ukax descarga ukax utjkiti. Uñxatt’añataki <a href=\"/games/\">taqi anatañanaka</a>.",
-      "printablesLabel": "{count} imprimibles ukanakax:",
+      "longText": "{name} ({domain}) ukax uñacht’ayi {count} inakiw navegador anatt’awinakax demencia usump jakasir jaqinakatakiw lurata, ukax paris ukanakamp chikancht’asisaw uñacht’ayat jaytat jamuqanak uñacht’ayata, mä jasak rompecabezas, clasificación, uñt’at arunaka ukat bingo de cuadros tarjetas imprimibles ukanakampi. Janiw kuna cuentas, publicidad, tiempor jan ukax puntuación ukanakas utjkiti. Uka chiqanx sapa etapa de demencia ukatakix guias de actividades llano lenguas ukanakaw utjaraki, ukax Instituto Nacional de Envejecimiento ukat Asociación de Alzheimer ukanakat uñt’ayatawa.",
+      "useTitle": "Kunas organizacionanakax apnaqapxaspa",
+      "gamesItemHtml": "<strong>{count} navegador ukan anatt’awinaka</strong> ukax laptop, tablet jan ukax TV computadora ukar conectat ukan apnaqatawa. Janiw instalación, cuenta jan ukax descarga ukax utjkiti. Uñjaña <a href=\"/games/\">taqi anatt’awinaka</a>.",
+      "printablesLabel": "{count} imprimibles ukanakax akanakawa:",
       "printablesAfter": "Sapa pankan Imprimir siski uka boton apnaqañamawa.",
-      "moreItemsHtml": "<li><strong>Grupo ukan formatonakapax akanakawa:</strong> <a href=\"/games/picture-bingo/\">Jamuqa bingo</a> tarjetas imprimibles ukat pantalla ukan jawsirimpiw utji, ukat <a href=\"/activities/trivia/\">jasa trivia</a> 50 jiskt’äwinakaniwa, jaysäwinak ajlliñ amtanakampi, aruskipt’añ amtanakampi.</li><li><strong>Luräwi guia ukanaka</strong> irnaqirinakataki ukhamaraki familianakataki, etapa ukhamaraki tipo ukarjama, qhana arumpi qillqt’ata fuentes ukanakampi. Qalltañatakix <a href=\"/activities/ideas/\">101 lurawi amuyunaka</a> jan ukax <a href=\"/activities/care-home-groups/\">qutu lurawinakata uñjañ utanakataki</a>.</li>",
-      "restHtml": "<h2>Kunjams tamanakax apnaqapxi</h2><ul><li><strong>Cuidado utanaka ukat amuyunak uñjañ utanaka:</strong> bingo uñacht’ayaña jan ukax TV de sala común ukan uñacht’ayaña, mä jaqiw tamatakix tapt’i.</li><li><strong>Jilïr jaqinakan urupan wakichäwinakapa:</strong> mä estación de tableta ukax Picture pares ukampiw pusi azulejos ukar uñt’ayata, mä juk’a pachanak mä sesiones ukanakataki.</li><li><strong>Bibliotecas públicas ukanakax akanakawa:</strong> imprimit arunaka thaqhaña ukat aruskipt’añ tarjetanakax memoria kits ukan uñt’ayatawa, ukat sitio ukax biblioteca tabletas ukan marcador ukamp uñt’ayatarakiwa.</li><li><strong>Uñakipirinakar yanapt’ir tamanaka ukat cafeterías de memoria:</strong> a <a href=\"/handout/\">mä panka imprimir qillqata</a> familianakax utar apapxañapataki.</li><li><strong>Qullañ utanaka ukat alta planificadores:</strong> uka qillqataxa uñjirinakan paquetenakapankiwa, kunatix utan jan ukax ikiñ jak’an kuna samarañ lurañataki.</li></ul><h2>Kuntix jiwasax jan lurktan</h2><p>Uka anatt’awinakax kusist’añatakiwa ukat mayacht’asis tiempo apst’asiñatakiwa. Jupanakax janiw demencia ukar uñt’apkiti, yant’apkiti, puntuación uñt’apkiti, qullapkiti jan ukax k’achat k’achat k’achat uñt’ayapkiti, ukat organizacionanakaruw mayipxta jan ukham uñt’ayapxañapataki. Janiw kuna anuncios ukanakas utjkiti, ukat anatañanakax janiw sutinaka, k’umaräñ tuqit yatiyawinak jan ukax fotonak apkatañ mayipkiti. Sitio web ukax Google Analytics uka apnaqi, visitanaka jakthapiñataki; jiwasana <a href=\"/privacy/\">privacidad tuqit yatiyawi</a> kuntï ukax apthapiski uk qhanañchi. Fotonakax <a href=\"/games/photo-pairs/\">Foto paris</a> ukax navegador ukan qhiparañapawa.</p><h2>Jiwasax recursos listaman yapxatañani</h2><p>Jumatix mä lista recursos ukanakat uñjirinakatakix utjktam ukhax <a href=\"/\">{domain}</a>. Uka qhanañchäwit mayniruw copiasma.</p>",
+      "moreItemsHtml": "<li><strong>Grupo ukan formatonakapax akanakawa:</strong> <a href=\"/games/picture-bingo/\">Jallu pacha bingo</a> tarjetas imprimibles ukat pantalla ukan jawsiriw utji, ukat <a href=\"/activities/trivia/\">jan ch’amäki uka trivia</a> 50 jiskt’äwinakaniwa, jaysäwinak ajlliñ amtanakampi, aruskipt’añ amtanakampi.</li><li><strong>Luräwi guia ukanaka</strong> irnaqirinakataki ukhamaraki familianakataki, etapa ukhamaraki tipo ukarjama, qhana arumpi qillqt’ata fuentes ukanakampi. Qalltañataki <a href=\"/activities/ideas/\">101 lurawi amuyunaka</a> o <a href=\"/activities/care-home-groups/\">qutu lurawinakata uñjañ utanakataki</a>.</li>",
+      "restHtml": "<h2>Kunjamsa tamanakax apnaqapxi</h2><ul><li><strong>Cuidado utanaka ukat amuyunak uñjañ utanaka:</strong> bingo uñacht’ayaña jan ukax TV de sala común ukan uñacht’ayaña, mä jaqiw tamatakix tapt’i.</li><li><strong>Jilïr jaqinakan urupan wakichäwinakapa:</strong> mä estación de tableta ukax Picture pares ukampiw pusi azulejos ukar uñt’ayata, mä juk’a pachanak mä sesiones ukanakataki.</li><li><strong>Bibliotecas públicas ukanakax akanakawa:</strong> imprimit arunaka thaqhaña ukat aruskipt’añ tarjetanakax memoria kits ukan uñt’ayatawa, ukat sitio ukax biblioteca tabletas ukan marcador ukamp uñt’ayatarakiwa.</li><li><strong>Uñakipirinakar yanapt’ir tamanaka ukat cafeterías de memoria:</strong> mä <a href=\"/handout/\">mä panka imprimirjama qillqata</a> familianakax utar apapxañapataki.</li><li><strong>Hospitales ukat alta planificadores ukanakax:</strong> uka qillqataxa uñjirinakan paquetenakapankiwa, kunatix utan jan ukax ikiñ jak’an kuna samarañ lurañataki.</li></ul><h2>Kuntï jan lurktan ukanakjja</h2><p>Uka anatt’awinakax kusist’añatakiwa ukat mayacht’asis tiempo apst’asiñatakiwa. Jupanakax janiw demencia ukar uñt’apkiti, yant’apkiti, puntuación uñt’apkiti, qullapkiti jan ukax k’achat k’achat k’achat uñt’ayapkiti, ukat organizacionanakaruw mayipxta jan ukham uñt’ayapxañapataki. Janiw kuna anuncios ukanakas utjkiti, ukat anatañanakax janiw sutinaka, k’umaräñ tuqit yatiyawinak jan ukax fotonak apkatañ mayipkiti. Sitio web ukax Google Analytics uka apnaqi, visitanaka jakthapiñataki; jiwasanki <a href=\"/privacy/\">privacidad tuqit yatiyawi</a> kuntï ukax apthapiski uk qhanañchi. Fotonakax apnaqatawa <a href=\"/games/photo-pairs/\">Foto paris ukanaka</a> ukax navegador ukan qhiparañapawa.</p><h2>Jiwasax recursos listaman yapxatañani</h2><p>Jumatix mä lista recursos ukanakat uñjirinakatakix utjkchi ukhax, ukarux link ukar mantañax wali askiwa <a href=\"/\">{domain}</a>. Uka qhanañchäwit mayniruw copiasma.</p>",
       "shortTitle": "Mä jisk’a qhanañcht’awi",
       "longTitle": "Juk’amp jaya qhanañchäwi",
-      "linksHtml": "<p>Wali aski pankanakax chiqak uñt’ayañataki: <a href=\"/games/\">inaki anatañanaka</a>, <a href=\"/activities/printable/\">inaki imprimibles ukanakax</a>, <a href=\"/activities/alzheimers/\">lurawinakapa Alzheimer usuta</a> ukat <a href=\"/caregiving/how-to-play-together/\">kunjamasa mayacht'asis anatt'aña</a>.</p><h2>Jiskt’awinaka jan ukax chiqañchäwinak</h2><p>Sitio ukan kunas jan walïkchi jan ukax jan qhanächi ukhaxa, jan ukax mä markachirinakan munatapax kunatix akan utjki ukanakamp jan phuqhatäkchi ukhax aka tuqir yatiyapxita <a href=\"mailto:{email}\">{email}</a>. Janiwa markachirinakata jani ukaxa clientes ukanakata yatiyawinakxa apayapxañamäkiti.</p>"
+      "linksHtml": "<p>Chiqap uñt’ayañatakix aski pankanakawa: <a href=\"/games/\">inaki anatañanaka</a>, . <a href=\"/activities/printable/\">inaki imprimibles ukanaka</a>, . <a href=\"/activities/alzheimers/\">lurawinakapa Alzheimer usut qullañataki</a> ukat <a href=\"/caregiving/how-to-play-together/\">kunjamasa mayacht’asis anatt’aña</a>.</p><h2>Jiskt’awinaka jan ukax chiqañchäwinak</h2><p>Sitio ukan kunas jan walïkchi jan ukax jan qhanächi ukhaxa, jan ukax mä markachirin munañanakap jan phuqhaschi ukhax kunatix aka chiqan utjki ukax yatiyapxita <a href=\"mailto:{email}\">{email}</a>. Janiwa markachirinakata jani ukaxa clientes ukanakata yatiyawinakxa apayapxañamäkiti.</p>"
     },
     "app": {
-      "title": "Uka Quri pachanakax App",
+      "title": "Ukax Quri Momentos App",
       "seoTitle": "iPhone ukat Android ukatakix Golden Moments App ukax uñt’ayatawa",
       "description": "Golden Moments app ukax inaki: pusi jach’a azulejos ukanakamp llamp’u fotonak uñt’ayaña, familian fotonakapax dispositivo ukan imatäski, paquetes de fotos offline.",
       "crumb": "Uka app",
       "lede": "Taqi kunatix sitio web ukan munaski, mä app ukanx jan internetan irnaqañapawa ukatx familian fotonakap ajlliñamawa.",
-      "worksOn": "Irnaqawi {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Jisk’a qalltaña</h2><p>Pusi jach’a azulejos ukat uñt’at jamuqanak qalltaña. Fotonak uñjkañaw imañama, jan ukajj kunapachatï ukajj sumäki ukhajj imantañamawa. Modo suave ukax janiw kuna pachas, puntuación ukat penaltis ukanak utjkiti. 4, 6, 8 jan ukaxa 12 tejas ukanaka ajlliñani.</p><h2>Ukax personal ukham lurañapawa</h2><p>Dispositivoman foto ajlliripampix familian fotonakap ajlliñamawa. App ukax jisk’a copianak lurawinakapatak imaraki. Janiw bibliotecam escanearkiti ni nayrïr fotonakamsa mayjtʼaykiti, ukat 24 fotonak mä colección ukan imaraki.</p><h2>Ukhamakiwa mäki uñakipt’aña</h2><p>Mä jamuq uñakipt’aña. Opcional promptas ukax aruskipt’añatakiw jawillt’i, jan khitirus sutinak amtañataki jan ukax chiqap jaysäwi churañataki. Uñchʼukiñakiw wakisi.</p><h2>Offline kawkhantix wakiski</h2><p>Qalltañ jamuqanak ukat taqpach llätunk jamuqanak pack ukax app ukampiw uñt’ayasi. Importada foto copianakax jan internetan irnaqapxi. iCloud ukan imatäki uka originalanak ajlliñax mä conexión internet ukaruw munaspa.</p><h2>Janiw kuna cuentas utjkiti, janiw foto-sincronización servidor</h2><p>Familia-foto copianakax dispositivon app ukan qhiparapxi. Uka copianakax jan originalanak chhaqtayasaw apsusispaw. Dispositivo ukan copia de seguridad ukanakax app ukan datos ukanakamp chikancht’asispawa. Uñxatt’añataki <a href=\"/app-privacy/\">app ukax mä política de privacidad</a>, ukat <a href=\"/help/\">app yanapt’aña</a> sapa thakhinjam sarnaqaña.</p>",
+      "worksOn": "Irnaqawixa {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Jisk’a qalltaña</h2><p>Pusi jach’a azulejos ukat uñt’at jamuqanak qalltaña. Fotonak uñjkañaw imañama, jan ukajj kunapachatï ukajj sumäki ukhajj imantañamawa. Modo suave ukax janiw kuna pachas, puntuación ukat penaltis ukanak utjkiti. 4, 6, 8 jan ukaxa 12 tejas ukanaka ajlliñani.</p><h2>Sapa mayniruw ukham lurañama</h2><p>Dispositivoman foto ajlliripampix familian fotonakap ajlliñamawa. App ukax jisk’a copianak lurawinakapatak imaraki. Janiw bibliotecam escanearkiti ni nayrïr fotonakamsa mayjtʼaykiti, ukat 24 fotonak mä colección ukan imaraki.</p><h2>Ukhamakiwa, mayacht’asis uñch’ukipxam</h2><p>Mä jamuq uñakipt’aña. Opcional promptas ukax aruskipt’añatakiw jawillt’i, jan khitirus sutinak amtañataki jan ukax chiqap jaysäwi churañataki. Uñchʼukiñakiw wakisi.</p><h2>Offline kawkhantix wakiski uka chiqanakanxa</h2><p>Qalltañ jamuqanak ukat taqpach llätunk jamuqanak pack ukax app ukampiw uñt’ayasi. Importada foto copianakax jan internetan irnaqapxi. iCloud ukan imatäki uka originalanak ajlliñax mä conexión internet ukaruw munaspa.</p><h2>Janiw kuna cuentas utjkiti, janiw foto-sincronización servidor ukax utjkiti</h2><p>Familia-foto copianakax dispositivon app ukan qhiparapxi. Uka copianakax jan originalanak chhaqtayasaw apsusispaw. Dispositivo ukan copia de seguridad ukanakax app ukan datos ukanakamp chikancht’asispawa. Uñxatt’añataki <a href=\"/app-privacy/\">app ukax mä política de privacidad ukawa</a>, ukat <a href=\"/help/\">app yanapt’aña</a> sapa thakhinjam sarnaqaña.</p>",
       "disclaimer": "Golden Moments ukax kusist’añatakiwa ukat maynit maynikam aruskipt’añatakiwa. Janiw demencia jan ukax Alzheimer usunak uñt’kiti, qullkiti, jark’aqkiti jan ukax tupurakiwa.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Demencia & Alzheimer uka usut anatañanakax gratis ukhamawa",
-    "description": "Demencia jan ukax Alzheimer usump jakasir jilïr jaqinakatakix inakiw internet tuqin anatt’awinakax utji: jamuqanak uñt’ayaña, jasakiw rompecabezas, ordenar, arunaka.",
-    "crumb": "Anatañanak",
+    "title": "Demencia & Alzheimer uka usut anatañanakax inakiw Internet tuqin utji",
+    "description": "Demencia jan ukax Alzheimer usump jakasir jilïr jaqinakatakix inakiw internet tuqin anatt’awinakax utji: jamuqanak uñt’ayaña, jasakiw rompecabezas.",
+    "crumb": "Anatañanaka",
     "h1": "Demencia usump usuntat jaqinakatakix llamp’u chuyman anatt’awinaka",
-    "lede": "{count} inaki anatt’awinaka navegador ukan mayacht’asis anatañataki. Jach’a jamuqanak, qhana arunaka, ukat janiw kunas pantjasi: janiw pachanak uñt’ayañax utjkiti.",
+    "lede": "{count} inaki anatt’awinaka navegador ukan mayacht’asis anatañataki. Jach’a jamuqanak, qhana arunaka, ukat janiw kunas pantjasi: janiw pachanak uñt’ayañax utjkiti, janiw puntuacionanakas utjkiti, janiw qillqt’asiñas utjkiti.",
     "listName": "Demencia usump usuntat jaqinakatakix llamp’u chuyman anatt’awinaka",
-    "byStageTitle": "Mä anatt’awi ajlliñaxa etapa tuqi",
+    "byStageTitle": "Mä anatt’äw etapa ukarjam ajlliña",
     "byStageLede": "Etapas ukax mä qhuru guia ukhamakiwa. Kuntï uka jaqejj kusisiyki ukat kunanaktï jichhürunakan sum jikjjataski ukanak arktañamawa.",
-    "stageCol": "Etapa",
-    "gamesCol": "Anatañanakax walja kutiw",
-    "moreHtml": "Juk’amp amuyunakax pantallat jayarst’atawa: <a href=\"/activities/ideas/\">101 lurawinakawa demencia usuni jaqinakataki</a>, <a href=\"/activities/alzheimers/\">lurawinaka ukhamaraki anatt’awinaka Alzheimer usuta</a>, <a href=\"/activities/memory-games/\">llamp’u amuyu anatañanaka</a> ukat <a href=\"/activities/puzzles/\">ukatsti ukax mä jamuqawa</a>.",
+    "stageCol": "Itapa",
+    "gamesCol": "Anatañanakax sapa kutiw askïspa",
+    "moreHtml": "Pantallat jayarst’at juk’amp amuyunaka: <a href=\"/activities/ideas/\">101 lurawinakaw demencia usump usuntat jaqinakataki</a>, . <a href=\"/activities/alzheimers/\">lurawinakapa ukhamaraki anatt’awinaka Alzheimer usut qullañataki</a>, . <a href=\"/activities/memory-games/\">llamp’u chuymampi amtañataki anatt’awinaka</a> ukat <a href=\"/activities/puzzles/\">rompecabezas ukanaka</a>.",
     "faq": [
       {
         "q": "¿Kawkïr anattʼäwimpis qalltañasa?",
@@ -471,20 +472,20 @@
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad ukat Android ukanak lurañataki",
-    "requirements": "iOS 15 jan ukax qhipa uñstayata; Android 7.0 jan ukax qhipa",
+    "platforms": "iPhone, iPad ukat Android ukanak uñt’ayaña",
+    "requirements": "iOS 15 jan ukax qhipa uñstayata; Android 7.0 ukat juk’ampinaka",
     "summary": "Mä app gratuita iPhone, iPad ukat Android ukatakix pusi tunka payan jach’a azulejos ukan llamp’u jamuqanak uñt’ayañataki, familian fotonakapamp chikancht’asis uñt’ayañataki, ukatx llätunk jamuqanak packs ukanakaw uñt’ayasi, ukax jan internet ukampiw irnaqapxi. Janiw cuenta, anuncios, tiempor jan ukax puntuación ukanakas utjkiti.",
     "features": [
-      "Llamp’u jamuqa 4, 6, 8 jan ukaxa 12 jach’a azulejonakampi chikachasiña; jamuqanak uñjañjamaw qhiparapxi jan ukax imantañ amtapxi",
-      "Familian fotonakapax ajllitäki ukax app ukar copiatawa, ukhamat uñtasiñataki ukhamarak mayacht’asis uñakipañataki",
-      "Mayacht’asis uñakipt’añäni: mä jamuq mä kutinx opcionales conversación promptas",
+      "Llamp’u jamuqa 4, 6, 8 jan ukaxa 12 jach’a azulejonakampi chikachasiña; jamuqanakx uñjkañaw qhiparapxi, jan ukax imantañ amtañamawa",
+      "Familian fotonakap ajllkta ukanakax app ukar copiatawa, ukhamat chikancht’asiñatakisa ukat mayacht’asis uñakipañataki",
+      "Mayacht’asis uñakipt’apxam: mä jamuq mä kutix opcional aruskipt’añ iwxt’awinakampi",
       "Llatunk jamuqanak packs ukanakaw app ukamp chikt’ata; jupanakax jan internetan irnaqapxi",
-      "Janiw cuenta, anuncios, in-app alañanaka, pacha, puntuación jan ukax penalización"
+      "Janiw cuenta, anuncios, in-app alañanaka, tiempor, puntuación jan ukax penaltis ukanakas utjkiti"
     ],
     "faq": [
       {
         "q": "¿Ukax mä app de actividades de demencia ukax utjiti?",
-        "a": "Jïsa. Golden Moments (\"{storeName}\" ukham uñt'atawa) ukax App Store ukat Google Play ukanx inakiw. Ukax jach’a azulejos ukanakamp llamp’u jamuqanak uñt’ayañ uñacht’ayi, familian fotonakapamp anatañanak ajlliñ uñacht’ayi, ukat jamuqanak packs ukanakax jan internetan irnaqapki ukanakaw utji."
+        "a": "Jïsa. Quri pachanaka (ukax \"{storeName}\") ukax App Store ukat Google Play ukanx inakiw. Jach’a azulejos ukanakamp llamp’u jamuqanak uñt’ayañ uñacht’ayi, familian fotonakapamp anatañanakax ajllitawa, ukat jamuqanak packs ukanakax jan internetan irnaqapxi."
       },
       {
         "q": "¿Quri Momentos uka app ukax inakiw?",
@@ -504,7 +505,7 @@
       },
       {
         "q": "¿Kuna dispositivonakansa irnaqtʼi?",
-        "a": "{platforms}: {requirements}."
+        "a": "{platforms}: 1.1. {requirements}."
       }
     ],
     "gameFaqYes": {
@@ -517,24 +518,24 @@
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: jach’a, suma uñnaqt’an jamuqanak",
+    "imageAlt": "{name}: jach’a, suma uñnaqt’ani jamuqanaka",
     "noscript": "Aka anatawix JavaScript ukax navegador ukan jist’aratawa. Aka amparamp qillqt’at iwxt’anakax jan ukampiw irnaqapxi.",
-    "about": "Uka tuqitxa {name}",
-    "aboutAria": "Aka anatt'awi tuqita",
-    "noTimer": "Janiw kuna pachas jan ukax puntuación",
+    "about": "Ukxata {name}",
+    "aboutAria": "Aka anatt’awi tuqita",
+    "noTimer": "Janiw kuna pachas ni puntuación ukanakas utjkiti",
     "printable": "Imprimirjamawa",
-    "howTo": "Kunjamas anatt'añaxa {name}",
+    "howTo": "Kunjamasa anatt’aña {name}",
     "tips": "Mayacht’asis anatt’añataki iwxt’awinaka",
-    "newToPlayingHtml": "¿Demencia usump usuntat jaqimp anattʼañax machaqäkiti? Uñxatt’añataki <a href=\"/caregiving/how-to-play-together/\">kunjamas anatañanakax mayacht'asis anatt'añaxa</a>, ukatsti kunsa lurapjjaspa jan interesanïpjjani ukhajja.",
+    "newToPlayingHtml": "¿Demencia usump usuntat jaqimp anattʼañax machaqäkiti? Ullaña <a href=\"/caregiving/how-to-play-together/\">kunjamsa mayacht’asis anatt’añasa</a>, ukatsti kunsa lurapjjaspa jan interesanïpjjani ukhajja.",
     "moreAria": "Juk’amp yatxatañataki",
-    "helpfulGuides": "Yanapt’ir irpirinaka",
-    "appTitle": "Ukax app ukan uñt'ayatawa",
+    "helpfulGuides": "Yanapt’ir guianaka",
+    "appTitle": "Uka app ukan anatañamawa",
     "appText": "Golden Moments ukax inaki app ukax jach’a azulejos ukat pachpa familian fotonakapamp llamp’u jamuqanak uñt’ayañatakiw utji, ukatx jan Wi‐Fi ukampiw irnaqaraki. iPhone, iPad ukat Android ukanak uñt’ayaña.",
-    "photoAppTitle": "Fotonakam wakicht'atäpxam",
+    "photoAppTitle": "Fotonakam wakichtʼatäñapawa",
     "photoAppText": "Golden Moments ukax inaki app ukanx, ajllit fotonakax jutir kutiw dispositivo ukan qhiparapxi, ukatx anatt’awinakax jan Wi‐Fi ukampiw irnaqapxi. iPhone, iPad ukat Android ukanak uñt’ayaña.",
-    "goodToKnow": "Suma yatiñataki",
+    "goodToKnow": "Uñt’añax wali askiwa",
     "goodToKnowText": "Aka anatt’awix kusist’añatakiwa ukat mayacht’asis sarnaqañatakiwa. Janiw kuna yant’añas, tupuñas ni qullañas utjkiti.",
-    "moreGames": "Juk’ampi llamp’u chuyman anatt’awinaka",
-    "crumb": "Anatañanak"
+    "moreGames": "Juk’amp llamp’u chuyman anatt’awinaka",
+    "crumb": "Anatañanaka"
   }
 }

@@ -1,8 +1,8 @@
 {
   "picture-pairs": {
-    "name": "Prente pare",
+    "name": "Foto pare",
     "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
+    "h1": "Prentpare: 'n sagte bypassende speletjie",
     "description": "'n Gratis, sagte bypassende speletjie vir mense wat met demensie leef. Groot prente bly sigbaar, daar is geen timer of telling nie, en jy kies 4 tot 12 teëls.",
     "short": "Soek die twee prente wat dieselfde is. Prente kan bly wys.",
     "players": "1 of 2 mense, langs mekaar",
@@ -41,9 +41,9 @@
   },
   "find-the-same": {
     "name": "Soek dieselfde",
-    "seoTitle": "Vind dieselfde prentjie: Simple Dementia Game",
-    "h1": "Vind dieselfde prentjie",
-    "description": "Een foto aan die bokant, twee tot vier onder. Tik die een wat dieselfde is. 'n Rustige, gratis prentspeletjie vir mense wat met demensie leef, met geen tydskakelaar nie.",
+    "seoTitle": "Vind dieselfde prentjie: Eenvoudige demensie-speletjie",
+    "h1": "Soek dieselfde prentjie",
+    "description": "Een foto aan die bokant, twee tot vier onder. Tik die een wat dieselfde is.",
     "short": "Kyk na die prentjie aan die bokant en tik dieselfde een hieronder.",
     "players": "1 of 2 mense",
     "intro": "'n Enkele prentjie sit bo-aan die skerm. Onder dit is twee, drie of vier prente. Tik die een wat dieselfde is. Dit is een eenvoudige keuse op 'n slag, met baie ruimte om te praat.",
@@ -78,7 +78,7 @@
     "name": "Skadu wedstryd",
     "seoTitle": "Shadow Matching Game for Dementia: Gratis aanlyn",
     "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "'n Donker skaduwee bo, twee tot vier prente onder. Tik op die prent wat die skaduwee maak. Gratis, kalm skaduwee-passing vir demensie, sonder tydhouer.",
+    "description": "'n Donker skaduwee aan die bokant, twee tot vier prente onder. Tik op die prentjie wat die skaduwee maak.",
     "short": "Kyk na die skaduwee en tik op die prentjie wat dit maak.",
     "players": "1 of 2 mense",
     "intro": "Skadu-passing is 'n bekende aktiwiteit van gedrukte werkkaarte, hier met groot prente en niks om te druk nie. ’n Sagte skaduwee sit aan die bokant van die skerm en twee, drie of vier prente wag onder. Tik die een wat die skaduwee maak. Vorms soos 'n fiets, 'n sambreel of 'n teekoppie is ook maklik om oor te praat.",
@@ -184,8 +184,8 @@
     ]
   },
   "finish-the-saying": {
-    "name": "Voltooi die gesegde",
-    "seoTitle": "Voltooi die gesegde: Spreuke-speletjie vir seniors",
+    "name": "Maak die gesegde klaar",
+    "seoTitle": "Voltooi die gesegde: Spreukespel vir seniors",
     "h1": "Voltooi die gesegde",
     "description": "Bekende Amerikaanse gesegdes met die laaste woord wat ontbreek, soos \"A penny saved is a penny ___\". Tik 'n keuse of wys die einde en praat dan daaroor.",
     "short": "Voltooi bekende gesegdes saam en praat dan daaroor.",
@@ -256,7 +256,7 @@
     "name": "Kleurbladsye",
     "seoTitle": "Inkleurbladsye vir volwassenes met demensie (gratis)",
     "h1": "Kleurbladsye",
-    "description": "Eenvoudige volwasse inkleurbladsye met groot areas: tik 'n kleur en tik op die prentjie. Geen gemors of verkeerde kleure nie, gratis om te druk.",
+    "description": "Eenvoudige, volwasse inkleurbladsye met groot areas: tik 'n kleur en tik dan op die prentjie.",
     "short": "Tik 'n kleur, dan 'n deel van die prentjie. Druk bladsye ook.",
     "players": "1 of 2 mense",
     "intro": "Bladsye met groot, eenvoudige vorms: 'n blom in 'n pot, 'n huis, 'n teekoppie, 'n skoenlapper en 'n seilboot. Tik 'n kleur en tik dan 'n deel van die prent om dit te vul. Daar is geen verkeerde kleure nie.",
@@ -324,8 +324,8 @@
   },
   "photo-pairs": {
     "name": "Foto pare",
-    "seoTitle": "Maak 'n bypassende speletjie uit familiefoto's",
-    "h1": "Fotopare: Pas jou eie foto's",
+    "seoTitle": "Maak 'n bypassende speletjie uit gesinsfoto's",
+    "h1": "Foto-pare: Pas jou eie foto's",
     "description": "Verander jou eie gesinsfoto's in 'n sagte bypassende speletjie. Kies 2 tot 6 foto's op jou toestel; hulle bly in jou blaaier en word nooit opgelaai nie.",
     "short": "Kies jou eie foto's en pas hulle by. Niks word opgelaai nie.",
     "players": "2 mense, langs mekaar",
@@ -357,7 +357,7 @@
     ]
   },
   "picture-bingo": {
-    "name": "Prentbingo",
+    "name": "Foto bingo",
     "seoTitle": "Prentbingo vir bejaardes met demensie: Drukbaar",
     "h1": "Prentbingo vir groepe",
     "description": "Gratis drukbare prentbingo vir geheuesorg en senior groepe, met 'n groot oproeper op die skerm. Groot prente met woorde, 9 of 16 blokkies, geen leeswerk nodig nie.",

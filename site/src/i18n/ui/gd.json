@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Rach gu prìomh shusbaint",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Gnìomhan dementia",
+    "homeLabel": "Golden moments dachaigh",
+    "mainNav": "Prìomh",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Gàidhlig",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Mionaidean Òir: dealbhan mòra, càirdeil de chupa tì, lus na grèine agus cù",
+    "languages": "Cànain",
+    "englishOnly": "(Sasannach)",
+    "machineTranslated": "Chaidh an duilleag seo eadar-theangachadh gu fèin-obrachail agus cha deach a sgrùdadh le neach-labhairt dùthchasach fhathast.",
+    "readOriginal": "Leugh an tè thùsail sa Bheurla",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Geamannan",
+      "activities": "Gnìomhan",
+      "caregiving": "A 'toirt cùram",
+      "brainHealth": "Slàinte eanchainn"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Ceistean agus freagairtean",
+    "breadcrumb": "Breac-bhràghad",
+    "home": "Dhachaigh",
+    "lastUpdated": "Air ùrachadh mu dheireadh",
+    "topics": "Cuspairean",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Meud teacsa",
+      "smaller": "Teacs àbhaisteach",
+      "larger": "Teacsa nas motha",
+      "contrast": "Eadar-dhealachadh nas àirde"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Seinn",
+    "picturePairs": "Paidhir dhealbhan",
+    "conversationCards": "Cairtean còmhraidh",
+    "pictureBingo": "Dealbh bingo",
+    "allGames": "A h-uile geamannan",
+    "pictures": "Dealbhan airson clò-bhualadh",
+    "activityIdeas": "Beachdan gnìomhachd",
+    "ideas101": "101 beachdan gnìomhachd",
+    "lateStage": "Gnìomhan deireadh-ìre",
+    "printable": "Gnìomhan clò-bhuailte",
+    "allActivities": "A h-uile gnìomh",
+    "forCaregivers": "Airson luchd-cùraim",
+    "playTogether": "Ciamar a a ' cluich còmhla",
+    "selfCare": "A 'gabhail cùram dhut fhèin",
+    "brainHealth": "Rannsachadh slàinte eanchainn",
+    "faq": "Ceistean agus freagairtean",
+    "about": "Mu dheidhinn",
+    "approach": "An dòigh-obrach againn",
+    "howWeWrite": "Ciamar a tha sinn a ' sgrìobhadh",
+    "organizations": "Airson buidhnean",
+    "app": "An aplacaid Golden Moments",
+    "appHelp": "Taic app",
+    "support": "Taic",
+    "legal": "Laghail",
+    "sitePrivacy": "Prìobhaideachd làrach-lìn",
+    "appPrivacy": "Poileasaidh prìobhaideachd app",
+    "privacyChoices": "Roghainnean prìobhaideachd",
+    "terms": "Teirmean agus cead app",
+    "safety": "Sàbhailteachd agus cleachdadh san amharc",
+    "accessibility": "Ruigsinneachd",
+    "healthNotice": "Sanas fiosrachaidh slàinte",
+    "allLegal": "A h-uile fiosrachadh laghail",
+    "note": "Tha Golden Moments a 'tabhann gnìomhan sìmplidh co-roinnte airson tlachd. Chan e comhairle mheidigeach, deuchainn no làimhseachadh a th’ ann, agus chan eil e a’ lorg, a’ tomhas no a’ sgòradh neach sam bith. Airson ceistean slàinte, bruidhinn ri dotair. Ann an èiginn, cuir fòn gu 911.",
+    "publisher": "Air fhoillseachadh le Cloudjet Solutions Pte. Earr."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Geamannan agus Gnìomhan Dementia & Alzheimer | Mionaid Òir",
+    "description": "Geamannan dealbhan socair an-asgaidh airson cluich air-loidhne agus beachdan gnìomhachd dha daoine a tha a’ fuireach le trom-inntinn no Alzheimer’s agus.",
+    "eyebrow": "An-asgaidh · Gun shanasan · Gun chlàradh · Gun timers no sgòran",
+    "h1": "Geamannan & Cur-seachadan Soilleir dha Daoine air a bheil Dementia",
+    "lede": "Geamannan dealbh sìmplidh, dealbhan eòlach, agus gnìomhan airson tlachd fhaighinn còmhla - aig do astar fhèin.",
+    "playGame": "Cluich Gèam",
+    "findIdeas": "Lorg beachdan gnìomhachd",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Ag obair air fòn, tablet agus coimpiutair",
+      "Dealbhan mòra a tha fhathast a’ sealltainn",
+      "Stad uair sam bith; chan eil dad ri fàiligeadh"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Cuideachd app an-asgaidh airson iPhone, iPad agus Android, le na dealbhan teaghlaich agad fhèin",
+    "albumNote": "“Dà dhealbh den chupa tì, còmhla.”",
+    "gamesEyebrow": "Cluich sa bhrobhsair agad",
+    "gamesTitle": "Geamannan far an urrainn dhut a chluich an-dràsta fhèin",
+    "gamesLede": "Tha gach fear socair, inbheach agus luath airson tòiseachadh. Tagh fear, suidh taobh ri taobh, agus gabh turas mu seach.",
+    "seeAllGames": "Faic na h-uile {count} geamannan",
+    "howTitle": "Mar a tha e ag obair",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Tagh rudeigin eòlach",
+        "text": "Dealbhan de chupaichean tì, gàrraidhean, peataichean is bàtaichean-siùil. Gun leughadh no riaghailtean ri ionnsachadh an toiseach."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Suidh taobh ri taobh",
+        "text": "Leig leotha tapadh. Bruidhinn mu na dealbhan. Tha mì-chothromachadh dìreach a’ feitheamh ris an ath tap."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Stad fhad ‘s a tha e a’ faireachdainn math",
+        "text": "Tha aon gheama na ghnìomhachd iomlan. Tha “Done for now” an-còmhnaidh air an sgrion."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Seachad air an sgrion",
+    "stageTitle": "Beachdan gnìomhachd airson gach ìre",
+    "stageLede": "Ceòl, gnìomhan làitheil, cuimhneachan agus amannan sàmhach mothachaidh, air an atharrachadh gu na tha a’ faireachdainn comhfhurtail an-dràsta.",
+    "ideas101": "101 beachdan gnìomhachd",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Ìre thràth",
+        "text": "Cùm a’ dèanamh na tha iad dèidheil air, le atharrachaidhean beaga: cur-seachadan, cuairtean, geamannan facal agus dealbhadh còmhla.",
+        "label": "Beachdan aig ìre thràth"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Ìre meadhanach",
+        "text": "Gnìomhan sìmplidh, eòlach air an roinn ann an ceumannan: pasgadh, òrdachadh, ceòl, geamannan dhealbhan agus cuairtean goirid.",
+        "label": "Beachdan meadhan-ìre"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Ìre nas fhaide air adhart",
+        "text": "Comhfhurtachd agus ceangal tro suathadh, fuaim agus sealladh: cùram làimhe, na h-òrain as fheàrr leat, dealbhan agus a bhith còmhla.",
+        "label": "Beachdan aig ìre nas fhaide air adhart"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "A 'coimhead airson rudeigin sònraichte? Feuch <a href=\"/activities/alzheimers/\">gnìomhan agus geamannan airson Alzheimer</a>, <a href=\"/activities/memory-games/\">geamannan cuimhne fallain</a>, <a href=\"/activities/trivia/\">trivia furasta</a> neo <a href=\"/activities/puzzles/\">tòimhseachan</a>.",
+    "approachEyebrow": "An dòigh-obrach againn",
+    "approachTitle": "Gnìomh co-roinnte, chan e deuchainn cuimhne",
+    "approachLede": "Tha mòran de “gheamannan eanchainn” air an togail timcheall air astar, sgòran agus sreathan. Do chuideigin a tha a’ fuireach le dementia a dh’ fhaodadh a bhith a’ faireachdainn mar dheuchainn. Thog sinn an taobh eile.",
+    "approachLink": "Carson a tha sinn ga dhealbhadh san dòigh seo",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Chan eil dad ri fàiligeadh",
+        "text": "Gun ghleoc, sgòr, beatha no call. Is e stad a th’ ann an dealbh eile, chan e mearachd."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Bidh dealbhan a’ fuireach a’ sealltainn",
+        "text": "Aithneachadh thar ath-ghairm. Bidh maidseadh a’ tòiseachadh aghaidh suas, agus mar sin chan eil dad ri chuimhneachadh."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Inbheach agus urramach",
+        "text": "Faclan blàth, sìmplidh agus dealbhan san t-saoghal fhìor. Na bi a-riamh a ’bruidhinn cartùnaichean no pàisde."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Prìobhaideach le dealbhadh",
+        "text": "Gun chunntasan no sanasan. Cha bhith na dealbhan agad a’ fàgail an inneal agad gu bràth."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Airson luchd-cùraim",
+    "guidesTitle": "Stiùireadh practaigeach airson cùram làitheil",
+    "allCaregiving": "A h-uile stiùireadh cùram-chloinne",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Ciamar a geamannan a chluich còmhla",
+        "text": "Suidhich, astar, agus dè a nì thu nuair a stadas geama a bhith spòrsail."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Nuair a chanas iad ri gnìomhachd",
+        "text": "Adhbharan cumanta airson diùltadh, agus dòighean socair airson feuchainn a-rithist nas fhaide air adhart."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "A 'suidheachadh tablet",
+        "text": "Teacs nas motha, nas lugha de bhriseadh agus aon scrion dachaigh sìmplidh."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Gnìomhan airson clò-bhualadh saor an asgaidh",
+        "text": "Rannsachadh fhaclan le clò mòr, duilleagan dathte, bingo agus cairtean còmhraidh."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Slàinte eanchainn: na tha an rannsachadh ag ràdh gu fìor",
+    "researchText": "An gabh dementia a chasg? Am bi geamannan eanchainn a’ cuideachadh? Dè mu dheidhinn fastadh, daithead, cadal agus cluinntinn? Freagairtean soilleir le tùs, a’ gabhail a-steach far a bheil an fhianais lag.",
+    "researchLink": "Leugh an stiùireadh rannsachaidh",
+    "appEyebrow": "Cuideachd app",
+    "appTitle": "Mionaidean Òir air iPhone, iPad agus Android",
+    "appText": "Bidh an app an-asgaidh ag obair far-loidhne agus faodaidh e dealbhan teaghlaich a thaghas tu a chleachdadh, air an cumail mar leth-bhreacan air an inneal agad. An aon dhealbhadh socair: ceithir leacan mòra, gun timer, gun sgòr.",
+    "aboutApp": "Mu dheidhinn an aplacaid",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Dè na geamannan math a th’ ann dha daoine le trom-inntinn?",
+        "a": "Tha geamannan math sìmplidh, eòlach agus saor bho chuideam: dealbhan mòra airson a bhith a’ maidseadh, a’ rèiteach, jigsaws furasta, a’ crìochnachadh abairtean ainmeil, dathadh, bingo dhealbhan agus cairtean còmhraidh. Is e an roghainn as fheàrr an tè a tha a 'còrdadh ris an neach an-diugh. Seachain timers, sgòran agus rud sam bith a tha a’ faireachdainn mar dheuchainn."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "A bheil na geamannan dementia sin an-asgaidh?",
+        "a": "Tha. Tha a h-uile geama agus clò-bhualadh air Golden Moments an-asgaidh, gun chunntas, clàradh no luchdachadh sìos. Bidh na geamannan a’ ruith sa bhrobhsair lìn air fòn, tablet no coimpiutair."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Am bi geamannan eanchainn a’ cur casg air trom-inntinn?",
+        "a": "Cha deach geama sam bith a shealltainn gus casg a chuir air trom-inntinn, agus chan eil Golden Moments ag ràdh gu bheil iad a’ làimhseachadh no a’ casg dad. Tha na geamannan againn airson tlachd agus ùine còmhla. Tha an roinn slàinte eanchainn againn a’ mìneachadh na tha rannsachadh a’ dèanamh agus nach eil a’ sealltainn."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "A bheil na geamannan sin freagarrach airson cuideigin le Alzheimer?",
+        "a": "Tha. Is e galar Alzheimer an adhbhar as cumanta airson trom-inntinn, agus tha na geamannan air an dèanamh air a shon: dealbhan mòra a tha fhathast a’ nochdadh, glè bheag de roghainnean, agus gun dad ri chuimhneachadh no ceàrr. Bidh a bhith a’ maidseadh, a’ rèiteach agus a’ crìochnachadh bhriathran air a bheil sinn eòlach an urra ri eòlas fad-ùine seach ionnsachadh ùr."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Am faod cuideigin le dementia ìre nas fhaide air adhart na gnìomhan sin a chleachdadh?",
+        "a": "Gu math tric, tha, le cuideigin taobh riutha. Tòisich le Lorg an aon rud le dà dhealbh, Paidhrichean dhealbhan le ceithir leacan, duilleag dathte no stad anail socair. Cùm e goirid, lean an stiùir agus stad nuair a bhios gu leòr aca."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "A bheil am fiosrachadh agam prìobhaideach?",
+        "a": "Chan eil cunntasan agus sanasachd sam bith air an làrach. Cleachdaidh sinn Google Analytics gus tuigsinn dè na duilleagan air an tèid tadhal. Chan eil dealbhan a thaghas tu airson paidhrichean dhealbhan air an sealltainn ach sa bhrobhsair agad agus cha tèid an luchdachadh suas gu bràth."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Cò a bhios a’ dèanamh Golden Moments?",
+        "a": "Is e sgioba beag a th’ ann an Golden Moments a bhios a’ dèanamh gnìomhan dealbh socair, inbheach dha teaghlaichean is luchd-cùraim, air an lìon agus mar app an-asgaidh. Chan e luchd-clionaigeach a th’ annainn, agus chan eil dad an seo na chomhairle meidigeach."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "tràth",
+    "middle": "meadhan",
+    "late": "nas fhaide air adhart",
+    "hintOne": "Gu math tric freagarrach {list} àrd-ùrlar",
+    "hintMany": "Gu math tric freagarrach {list} ìrean",
+    "labelEarly": "Ìre thràth",
+    "labelMiddle": "Ìre meadhanach",
+    "labelLate": "Ìre nas fhaide air adhart"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Mu dheidhinn a 'gheama seo",
+    "printable": "Clò-bhuailte",
+    "play": "Seinn {name} →",
+    "readGuide": "Leugh an stiùireadh"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Deiseil airson geama socair?",
+    "text": "Dealbhan mòra, gun timer, gun sgòr agus gun dad airson clàradh. Cluich còmhla sa bhrobhsair agad.",
+    "play": "Cluich Gèam",
+    "all": "Faic a h-uile geamannan",
+    "aria": "Cluich geama"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Thoir na geamannan seo leat",
+    "text": "An app Golden Moments an-asgaidh airson iPhone, iPad agus Android: leacan dhealbhan mòra, geamannan le dealbhan do theaghlaich fhèin, agus pacaidean dhealbhan a bhios ag obair às aonais Wi-Fi. Gun chunntas, sanasan, timer no sgòr.",
+    "appStore": "Faigh e air an App Store",
+    "googlePlay": "Faigh e air Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Mu dheidhinn an aplacaid",
+    "aria": "Faigh an aplacaid"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Gnìomhan",
+      "title": "Gnìomhan airson Daoine le Dementia",
+      "seo": "Gnìomhan do Dhaoine air a bheil Dementia: Beachdan a rèir Ìre",
+      "description": "Beachdan gnìomhachd dha daoine le trom-inntinn aig a h-uile ìre: ceòl, cuimhneachan, gnìomhan làitheil, amannan mothachaidh, obair-ciùird, a-muigh agus.",
+      "lede": "Is e gnìomhachd brìoghmhor rud sam bith a bheir comhfhurtachd, adhbhar no mionaid de cheangal. Tòisich leis na tha an duine air a bhith a 'còrdadh ris a-riamh, agus atharraich e chun an latha an-diugh."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "A 'toirt cùram",
+      "title": "Stiùiridhean cùram",
+      "seo": "Stiùiridhean Cùram Dementia: Taic Làitheil Làitheil",
+      "description": "Stiùiridhean practaigeach, coibhneil airson luchd-cùraim dementia: cluich gheamannan còmhla, conaltradh, diùltadh, fois anmoch san latha, clàran, taghadh.",
+      "lede": "Cuideachadh soilleir, practaigeach airson na h-amannan làitheil de bhith a’ toirt cùram do chuideigin a tha a’ fuireach le trom-inntinn, a’ toirt a-steach a bhith a’ toirt cùram dhut fhèin."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Slàinte eanchainn",
+      "title": "Slàinte eanchainn: Na tha an Rannsachadh ag ràdh",
+      "seo": "Slàinte Brain agus Cunnart Dementia: Na tha Rannsachadh ag ràdh",
+      "description": "An gabh dementia a chasg? Stiùiridhean onarach, le stòran mu fhactaran cunnairt dementia, geamannan eanchainn, fastadh, daithead, eacarsaich, cadal.",
+      "lede": "Na tha sgrùdaidhean mòra a’ nochdadh mu bhith a’ lughdachadh cunnart trom-inntinn, air a mhìneachadh gu soilleir, a’ toirt a-steach far a bheil an fhianais lag no measgaichte. Fiosrachadh coitcheann, chan e comhairle meidigeach."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Air ùrachadh",
+    "minuteRead": "{n} mionaid air a leughadh",
+    "byTeam": "Leis an sgioba Golden Moments",
+    "howWeWrite": "Ciamar a tha sinn a ' sgrìobhadh",
+    "shortAnswer": "An fhreagairt ghoirid",
+    "onThisPage": "Air an duilleag seo ({n} earrannan)",
+    "commonQuestions": "Ceistean cumanta",
+    "sources": "Stòran",
+    "sourcesNote": "Bidh sinn a’ ceangal ris na buidhnean agus na sgrùdaidhean air a bheil an duilleag seo an urra. Chaidh gach fear a sgrùdadh nuair a chaidh an duilleag ùrachadh.",
+    "tryTogether": "Feuch ri chèile",
+    "relatedGuides": "Stiùiridhean co-cheangailte",
+    "related": "Co-cheangailte",
+    "startHere": "Tòisich an seo"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Sanas fiosrachaidh slàinte",
+    "title": "Fiosrachadh coitcheann, chan e comhairle meidigeach",
+    "textHtml": "Tha an duilleag seo a’ toirt geàrr-chunntas air rannsachadh foillsichte airson teaghlaichean. Chan urrainn dha innse dhut dè a tha ceart airson aon neach. Bruidhinn ri dotair mus atharraich thu daithead, eacarsaich, cadal, cungaidhean-leigheis no stuthan-leigheis. Airson troimh-chèile obann no atharrachaidhean obann eile, faigh cuideachadh meidigeach sa bhad. <a href=\"/medical-disclaimer/\">Leugh am fios fiosrachaidh slàinte againn</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Gnìomh Co-roinnte, Chan e Deuchainn Cuimhne",
+      "seoTitle": "Mu Mhìosan Òir: Ar Dòigh-obrach",
+      "description": "Carson nach eil timers, sgòran no sreathan aig geamannan Golden Moments, carson a tha dealbhan a’ fuireach a’ nochdadh, agus dè a nì agus nach bi sinn a’.",
+      "crumb": "An dòigh-obrach againn",
+      "lede": "Bidh Golden Moments a’ dèanamh gnìomhan dealbh socair, inbheach as urrainn do neach-cùraim agus cuideigin a tha a’ fuireach le dementia tlachd fhaighinn taobh ri taobh.",
+      "bodyHtml": "<h2>Na tha sinn a 'creidsinn</h2><p>Is e puing gnìomhachd an t-àm fhèin: còmhradh, gàire, toileachas dà dhealbh a chuir ri chèile, no dìreach suidhe faisg. Chan eil e airson duine sam bith a thomhas, a phutadh nas fhaide no dad a dhearbhadh.</p><p>Tha mòran de na h-aplacaidean trèanaidh eanchainn air an dealbhadh timcheall air astar, sgòran, sruthan agus ìrean. Do neach le dementia a dh’ fhaodadh a bhith a’ faireachdainn mar dheuchainn nach urrainn dhaibh a dhol seachad. Dhealbhaich sinn an taobh eile, agus tha sinn gar cumail fhèin ris na riaghailtean seo:</p><ul><li><strong>Chan eil dad ri fàiligeadh.</strong> Gun ghleoc, sgòr, gluasad chunntair, beatha, sreathan, confetti no cunntadh sìos, air scrion sam bith.</li><li><strong>Aithneachadh thar ath-ghairm.</strong> Bidh dealbhan a’ fuireach a’ nochdadh gu bunaiteach. Bidh brosnachaidhean a’ toirt cuireadh do chòmhradh agus na bi a-riamh a’ ceasnachadh ainmean no cuimhneachain.</li><li><strong>Mòr, soilleir agus seasmhach.</strong> Teacs mòr agus dealbhan, iomsgaradh àrd, agus smachdan a bhios a’ fuireach san aon àite.</li><li><strong>Urram inbheach.</strong> Dealbhan san t-saoghal fhìor agus faclan sìmplidh, blàth. Gun cartùnaichean, moladh òran seinn no duaisean emoji.</li><li><strong>Slighe a-mach furasta.</strong> Tha “Done for now” an-còmhnaidh ri fhaicinn. Tha stad letheach slighe na thoradh math.</li><li><strong>Prìobhaideach gu bunaiteach.</strong> Gun chunntasan no sanasan. Bidh dealbhan a thaghas tu a’ fuireach air an inneal agad.</li></ul><h2>An rud nach eil sinn a’ tagradh</h2><p>Tha na geamannan againn airson tlachd agus ceangal. Cha bhith iad a’ lorg, a’ dèanamh deuchainn, a’ tomhas, a’ làimhseachadh, a’ slaodadh no a’ casg trom-inntinn no galar Alzheimer, agus cha bu chòir do dhuine sam bith an taghadh air an adhbhar sin. Nuair a bhios sinn a’ sgrìobhadh mu rannsachadh air ar <a href=\"/brain-health/\">duilleagan slàinte inntinn</a>, bidh sinn ag ràdh gu soilleir far a bheil an fhianais lag, agus cha bhith sinn uair sam bith ga cheangal ris na geamannan againn fhìn.</p><h2>Cò sinn</h2><p>Is e sgioba beag neo-eisimeileach a th’ ann an Golden Moments. Chan e luchd-clionaigeach a th’ annainn. Tha na h-iùil againn air an sgrìobhadh bho stiùireadh foillsichte le buidhnean leithid an National Institute on Ageing agus an Alzheimer's Association, agus tha gach iùl a 'liostadh a stòran. Leugh <a href=\"/editorial-policy/\">mar a sgrìobhas sinn agus a nì sinn sgrùdadh air na duilleagan againn</a>.</p><h2>Inns dhuinn dè a chuidicheadh</h2><p>Bu mhath leinn cluinntinn dè a tha ag obair dhut agus dè nach eil, gu sònraichte bho dhaoine a tha a’ fuireach le trom-inntinn, luchd-cùraim teaghlaich agus luchd-obrach gnìomhachd. Post-d <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Mar a sgrìobhas sinn agus a nì sinn sgrùdadh air na duilleagan againn",
+      "seoTitle": "Poileasaidh Deasachaidh",
+      "description": "Mar a bhios Golden Moments a’ sgrùdadh, a’ sgrìobhadh, a’ lorg agus ag ùrachadh a dhuilleagan gnìomhachd trom-inntinn agus slàinte eanchainn, agus na.",
+      "crumb": "Poileasaidh deasachaidh",
+      "bodyHtml": "<h2>Na stòran againn</h2><p>Bidh sinn a’ stèidheachadh ar n-iùil air stiùireadh poblach bho bhuidhnean leithid an National Institute on Ageing, an CDC, Comann Alzheimer, Stèidheachd Alzheimer Ameireagaidh, an Family Caregiver Alliance agus an NHS, agus air rannsachadh ath-sgrùdaichte le co-aoisean leithid lèirmheasan Cochrane agus deuchainnean clionaigeach mòra. Tha a h-uile iùl ag ainmeachadh na stòran air a bheil e an urra. Bidh sinn a’ fosgladh gach stòr mus toir sinn luaidh air, agus cha bhith sinn ag aithris ach na tha e ag ràdh.</p><h2>Ciamar a tha sinn a ' sgrìobhadh</h2><ul><li>Practaigeach an toiseach: dè a nì thu an-diugh, ann an cànan sìmplidh.</li><li>Onarach mu fhianais: bidh sinn ag ràdh “ceangailte ri”, “is dòcha” agus “tha an fhianais measgaichte” nuair a tha sin fìor.</li><li>Spèis: bidh sinn a’ sgrìobhadh mu dhaoine a tha a’ fuireach le trom-inntinn mar inbhich, agus cha bhith sinn uair sam bith a’ cleachdadh cànan ceasnachaidh no nàire.</li><li>Gun susbaint air a chruthachadh: gun staitistig dèanta, luachan, eòlaichean, sgrùdaidhean, lèirmheasan no teisteanasan.</li></ul><h2>Cò a bhios a’ dèanamh lèirmheas air na duilleagan againn</h2><p>Tha duilleagan air an sgrìobhadh agus air an sgrùdadh leis an sgioba Golden Moments, le cuideachadh bho innealan sgrìobhaidh AI airson rannsachadh agus dreachdadh. Bidh an sgioba a’ sgrùdadh gach duilleag a rèir a stòran. Tha na duilleagan againn <strong>chan eil</strong> air ath-sgrùdadh le dotair no neach-clionaigeach eile, agus chan eil sinn a’ tagradh a chaochladh. Is e fiosrachadh coitcheann a th’ annta, chan e comhairle meidigeach.</p><h2>Rud nach foillsich sinn gu bràth</h2><ul><li>A’ tagradh gu bheil geama, biadh, stuth-leigheis, luath no gnàthach a’ casg, a’ làimhseachadh, a’ slaodadh no a’ leigheas trom-inntinn.</li><li>Deuchainnean, ceisteachain no sgòran a tha a’ nochdadh gu bheil, no nach eil, trom-inntinn aig cuideigin.</li><li>Comhairle airson tòiseachadh, stad no atharrachadh cungaidh-leigheis sam bith.</li><li>Sanasachd no susbaint le taic air a chòmhdach mar stiùireadh.</li></ul><h2>Ùrachaidhean agus ceartachaidhean</h2><p>Tha gach duilleag a’ sealltainn a’ chinn-latha a chaidh ùrachadh mu dheireadh. Ma lorgas tu mearachd no tobar as ùire, cuir post-d gu <a href=\"mailto:{email}\">{email}</a> agus bheir sinn sùil air gu sgiobalta.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Ceistean agus Freagairtean",
+      "seoTitle": "Geamannan agus Gnìomhan Dementia: Ceistean is Freagairtean",
+      "description": "Freagairtean do cheistean cumanta mu gheamannan agus gnìomhan trom-inntinn: dè na geamannan a dh’ fheuchas iad, dè cho fada airson cluich, beachdan aig.",
+      "crumb": "Ceistean agus freagairtean",
+      "lede": "Freagairtean goirid, soilleir dha na ceistean as motha a bhios luchd-cùraim a’ faighneachd.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Mu na geamannan",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Dè na geamannan as fheàrr airson cuideigin le dementia?",
+              "a": "Tha na geamannan as fheàrr eòlach, sìmplidh agus saor bho chuideam, agus is e am fear ceart ge bith dè a tha a 'còrdadh ris an neach an-diugh. Bidh maidseadh dhealbhan le dealbhan faicsinneach, a’ rèiteach, jigsaws furasta, a’ crìochnachadh abairtean eòlach, dathadh agus bingo dhealbhan uile ag obair gu math dha mòran dhaoine. Seachain timers, sgòran agus rud sam bith a tha a’ faireachdainn mar dheuchainn."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "A bheil na geamannan dha-rìribh an-asgaidh?",
+              "a": "Tha. Tha a h-uile geama agus clò-bhualadh an-asgaidh, gun chunntas, clàradh, luchdachadh sìos no sanasachd."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Carson nach eil sgòran, ìrean no timers ann?",
+              "a": "Bidh astar is sgòran a’ tionndadh gnìomhachd tlachdmhor gu deuchainn, a dh’ fhaodadh nàire no sàrachadh a thoirt. Bidh sinn a’ cumail fòcas air tlachd agus ùine còmhla, agus mar sin chan eil dad ri fàiligeadh agus faodaidh tu stad aig àm sam bith."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Dè na h-innealan a tha ag obair as fheàrr?",
+              "a": "Fòn, clàr no coimpiutair sam bith le brobhsair lìn ùr-nodha. Is e clàr air seasamh aig bòrd gu tric an dòigh as comhfhurtail dha dithis a bhith a’ cluich taobh ri taobh. Tha laptop ceangailte ri Tbh ag obair gu math airson buidhnean."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "An urrainn dhuinn cluich leis na dealbhan teaghlaich againn fhèin?",
+              "a": "Tha. Bidh paidhrichean dhealbhan a’ tionndadh 2 gu 6 dealbhan a thaghas tu gu geama maidsidh. Bidh na dealbhan a’ fuireach sa bhrobhsair agad agus chan eil iad air an luchdachadh suas no air an sàbhaladh."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Gnìomhan agus cùram",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Dè cho fada 'sa bu chòir do ghnìomhachd mairsinn?",
+              "a": "Gu math tric tha 10 gu 20 mionaid gu leòr, agus uaireannan bidh 2 mhionaid soirbheachail. Coimhead airson comharran sgìths no sàrachadh agus stad fhad ‘s a tha e fhathast a’ faireachdainn math. Chan eil tomhas ceart ann."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Dè mura h-eil iad airson gnìomhachd a dhèanamh?",
+              "a": "Thoir spèis don chan eil, agus feuch ris a-rithist nas fhaide air adhart no ann an dòigh eile. Faodaidh diùltadh tighinn bho sgìths, pian, faireachdainn mì-chinnteach no dìreach gun ùidh a bhith agad. Faic an stiùireadh againn air dè a nì thu nuair a chanas iad nach eil."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Dè na gnìomhan a tha iomchaidh airson trom-inntinn aig ìre nas fhaide air adhart?",
+              "a": "Comhfhurtachd agus mothachadh: ag èisteachd ris a’ cheòl as fheàrr leat, suathadh làimhe le lotion, coimhead air dealbhan còmhla, a’ cumail plaide bhog, a’ suidhe a-muigh, no geama dhealbhan gu math sìmplidh le cuideigin ri thaobh. Tha tòrr a bharrachd bheachdan aig an iùl againn aig ìre nas fhaide air adhart."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "A bheil gnìomhan ann airson buidhnean ann an dachaigh-cùraim?",
+              "a": "Tha. Tha cairtean clò-bhualaidh agus neach-fios air-sgrion aig bingo dhealbhan, agus bidh cairtean Crìochnaich is Còmhradh ag obair gu math air an leughadh a-mach. Tha an stiùireadh againn air buidhnean dachaigh-cùraim a’ còmhdach meud buidhne, suidheachain agus atharrachadh airson comasan measgaichte."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Slàinte eanchainn",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "An urrainn geamannan dementia a chasg no a dhèanamh nas slaodaiche?",
+              "a": "Cha deach geama sam bith a shealltainn gus casg a chuir air trom-inntinn, agus chan eil na geamannan againn a’ dèanamh tagradh mar sin. Tha brosnachadh inntinneil ann an suidheachadh sòisealta air buannachdan beaga a nochdadh ann an rannsachadh do dhaoine le trom-inntinn meadhanach gu meadhanach, ach tha sin eadar-dhealaichte bho ghèam a tha a’ casg galair. Bidh sinn a’ tabhann gheamannan airson tlachd agus ceangal."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "An gabh dementia a chasg?",
+              "a": "Chan ann le cinnt. Tha rannsachadh a’ ceangal 14 factaran slàinte is dòigh-beatha ri cunnart dementia, leithid call èisteachd, bruthadh-fala àrd, neo-ghnìomhachd corporra agus iomallachd sòisealta. Ma dhèiligeas tu riutha dh’ fhaodadh sin cunnart nas ìsle do chuid de dhaoine, ach tha mòran dhaoine a nì a h-uile càil ceart fhathast a’ faighinn dementia. Chan e coire duine sam bith a th’ ann a-riamh."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "A bheil fastadh eadar-amail math airson slàinte eanchainn?",
+              "a": "Tha fianais daonna cuingealaichte agus tràth, agus tha mòran den rannsachadh ann am beathaichean. Faodaidh fastadh a bhith cunnartach do dh’ inbhich nas sine, gu sònraichte le cungaidhean tinneas an t-siùcair no call cuideim gun dùil, agus chan eilear a’ moladh do dhaoine le trom-inntinn. Bruidhinn ri dotair mus atharraich thu mar a dh'itheas tu."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Prìobhaideachd agus sàbhailteachd",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Am bi thu a’ cruinneachadh fiosrachadh sam bith?",
+              "a": "Gun chunntasan no sanasan. Cleachdaidh sinn Google Analytics gus tursan a chunntadh agus faicinn dè na duilleagan a chuidicheas, agus bidh cuimhne aig do bhrobhsair an do thionndaidh thu fuaimean bog. Cha tèid dealbhan a thaghas tu airson paidhrichean dhealbhan a luchdachadh suas gu bràth. Faic am brath prìobhaideachd airson mion-fhiosrachadh."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "An e comhairle mheidigeach a tha seo?",
+              "a": "Chan eil. Tha Golden Moments airson cur-seachad agus fiosrachadh coitcheann. Airson ceistean slàinte, bruidhinn ri dotair, agus airson cùisean èiginn cuir fòn gu 911."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Nas mionaidiche: <a href=\"/caregiving/how-to-play-together/\">mar a chluicheas tu còmhla</a>, <a href=\"/caregiving/when-they-say-no/\">nuair a tha iad ag ràdh nach eil</a>, <a href=\"/activities/late-stage/\">gnìomhan nas fhaide air adhart</a> agus <a href=\"/brain-health/can-dementia-be-prevented/\">an gabh dementia a chasg?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Geamannan an-asgaidh, socair dha daoine a tha beò le trom-inntinn",
+      "seoTitle": "Bileag clò-bhuailte: Geamannan Dementia an-asgaidh Air-loidhne",
+      "description": "Bileag clò-bhuailte aon-dhuilleag airson teaghlaichean agus luchd-cùraim mu gheamannan dhealbhan socair an-asgaidh dha daoine a tha a’ fuireach le.",
+      "crumb": "Bileag clò-bhuailte",
+      "lede": "Clò-bhuail an duilleag seo airson buidheann taic, pasgan cùraim no doras a’ frids. Cleachd àithne Clò-bhualaidh do bhrobhsair; tha na clàran-bìdh agus na putanan air am fàgail bhon chlò-bhualadh.",
+      "introHtml": "<p>Dealbhan mòra, faclan sìmplidh agus gun dad ri fàiligeadh. An-asgaidh air fòn, clàr no coimpiutair, gun chlàradh, gun shanasan, gun timers agus gun sgòran. Suidh taobh ri taobh agus gabh mu seach.</p>",
+      "gamesTitle": "Geamannan airson feuchainn ri chèile",
+      "restHtml": "<h2>Beagan mholaidhean</h2><ul><li>Tagh àm den latha nuair a tha an neach aig an ìre as fheàrr.</li><li>Tòisich leis an t-suidheachadh as fhasa. Tha ceithir leacan gu leòr.</li><li>Bruidhinn mu na dealbhan. Is e an còmhradh gu tric am pàirt as fheàrr.</li><li>Stad fhad ‘s a tha e fhathast a’ faireachdainn tlachdmhor. Tha crìochnachadh tràth na thoradh math.</li></ul><h2>Cuideachd air an làrach</h2><ul><li>Clò-bhuail an-asgaidh: sgrùdadh fhaclan le clò mòr, duilleagan dathte, cairtean còmhraidh agus bingo dhealbhan.</li><li>Beachdan gnìomhachd airson gach ìre, agus stiùireadh mu bhith a’ cluich còmhla agus a’ toirt cùram dhut fhèin.</li></ul><p class=\"muted\">Airson tlachd agus ùine còmhla. Chan e comhairle meidigeach, deuchainn no làimhseachadh. Tha Golden Moments air fhoillseachadh le Cloudjet Solutions Pte. Earr.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Airson Dachaighean Cùraim, Leabharlannan agus Buidhnean Taic",
+      "seoTitle": "Gnìomhan Dementia an-asgaidh airson Dachaighean Cùraim agus Buidhnean",
+      "description": "Mar a bhios dachaighean cùraim, prògraman latha inbheach, leabharlannan, buidhnean aosda agus buidhnean taic a’ cleachdadh ar geamannan trom-inntinn.",
+      "crumb": "Airson buidhnean",
+      "lede": "Tha a h-uile dad air an làrach seo an-asgaidh a chleachdadh le luchd-còmhnaidh, buill agus teachdaichean, gun chunntas, cead no cìs. Tha an duilleag seo a’ mìneachadh na tha an seo agus mar a roinneas tu e.",
+      "shortText": "{name}: geamaichean dhealbhan an-asgaidh, socair agus stiùireadh gnìomhachd dha daoine le dementia agus an luchd-cùraim. Gun chlàradh, gun timers, gun sgòran.",
+      "longText": "{name} ({domain}) tairgsean {count} geamannan brabhsair an-asgaidh air an dèanamh dha daoine le trom-inntinn, a’ gabhail a-steach a bhith a’ maidseadh chàraidean le dealbhan air am fàgail a’ sealltainn, jigsaw furasta, òrdachadh, abairtean eòlach agus bingo dhealbhan le cairtean clò-bhuailte. Chan eil cunntas, sanasachd, timer no sgòr ann. Tha treòrachadh gnìomhachd cànain sìmplidh air an làrach cuideachd airson gach ìre de dementia a tha ag ainmeachadh an National Institute on Ageing agus Comann Alzheimer.",
+      "useTitle": "Dè as urrainn do bhuidhnean a chleachdadh",
+      "gamesItemHtml": "<strong>{count} geamannan brabhsair</strong> a bhios a’ ruith air laptop, clàr no Tbh ceangailte ri coimpiutair. Gun stàladh, cunntas no luchdachadh sìos. Faic <a href=\"/games/\">a h-uile geamannan</a>.",
+      "printablesLabel": "{count} clò-bhualaidhean:",
+      "printablesAfter": "Cleachd am putan Clò-bhuail air gach duilleag.",
+      "moreItemsHtml": "<li><strong>Cruthan buidhne:</strong> <a href=\"/games/picture-bingo/\">Dealbh bingo</a> tha cairtean clò-bhuailte agus neach-fios air-sgrion, agus <a href=\"/activities/trivia/\">trivia furasta</a> tha 50 ceist ann le roghainnean fhreagairtean agus puingean labhairt.</li><li><strong>Stiùireadh gnìomhachd</strong> airson luchd-obrach agus teaghlaichean, a rèir ìre agus a rèir seòrsa, sgrìobhte ann an cànan sìmplidh le stòran. Tòisich le <a href=\"/activities/ideas/\">101 beachdan gnìomhachd</a> neo <a href=\"/activities/care-home-groups/\">gnìomhan buidhne airson dachaighean cùraim</a>.</li>",
+      "restHtml": "<h2>Mar a bhios buidhnean ga chleachdadh</h2><ul><li><strong>Dachaighean cùraim agus cùram cuimhne:</strong> bingo dealbh no cuir crìoch air an abairt air Tbh ​​​​an t-seòmair chumanta, le aon neach a’ tapadh airson a’ chuantail.</li><li><strong>Prògraman latha inbheach:</strong> stèisean clàr le paidhrichean Dealbh air an suidheachadh gu ceithir leacan, airson seiseanan goirid aon-ri-aon.</li><li><strong>Leabharlannan poblach:</strong> rannsachaidhean fhaclan clò-bhuailte agus cairtean còmhraidh ann an innealan cuimhne, agus an làrach air a chomharrachadh air clàran leabharlainn.</li><li><strong>Buidhnean taic luchd-cùraim agus cafaidhean cuimhne:</strong> a <a href=\"/handout/\">bileag clò-bhuailte aon-dhuilleag</a> airson teaghlaichean a thoirt dhachaigh.</li><li><strong>Ospadalan agus luchd-dealbhaidh fuasglaidh:</strong> an leabhran ann am pacaidean luchd-cùraim, airson rudeigin socair a dhèanamh aig an taigh no ri taobh na leapa.</li></ul><h2>An rud nach dèan sinn</h2><p>Tha na geamannan airson tlachd agus ùine còmhla. Cha bhith iad a’ lorg, a’ dèanamh deuchainn, a’ sgòradh, a’ làimhseachadh no a’ slaodadh trom-inntinn, agus bidh sinn ag iarraidh air buidhnean gun cunntas a thoirt orra san dòigh sin. Chan eil sanasan ann, agus chan eil na geamannan ag iarraidh ainmean, mion-fhiosrachadh slàinte no dealbhan a luchdachadh suas. Bidh an làrach-lìn a’ cleachdadh Google Analytics gus tursan a chunntadh; ar <a href=\"/privacy/\">sanas dìomhaireachd</a> a’ mìneachadh na tha sin a’ cruinneachadh. Dealbhan air an cleachdadh ann an <a href=\"/games/photo-pairs/\">Paidhir dhealbhan</a> fuireach anns a’ bhrabhsair.</p><h2>Cuir sinn ris an liosta ghoireasan agad</h2><p>Ma chumas tu liosta de ghoireasan airson luchd-cùraim, tha fàilte ort ceangal a dhèanamh gu <a href=\"/\">{domain}</a>. Faodaidh tu lethbhreac a dhèanamh de gach tuairisgeul.</p>",
+      "shortTitle": "Tuairisgeul goirid",
+      "longTitle": "Tuairisgeul nas fhaide",
+      "linksHtml": "<p>Duilleagan feumail airson ceangal dìreach riutha: <a href=\"/games/\">geamannan an-asgaidh</a>, <a href=\"/activities/printable/\">printables saor an asgaidh</a>, <a href=\"/activities/alzheimers/\">gnìomhan airson Alzheimer</a> agus <a href=\"/caregiving/how-to-play-together/\">mar a chluicheas tu còmhla</a>.</p><h2>Ceistean no ceartachaidhean</h2><p>Ma tha rudeigin air an làrach ceàrr no neo-shoilleir, no mura bheil feumalachdan neach-còmhnaidh air an coinneachadh leis na tha an seo, innis dhuinn aig <a href=\"mailto:{email}\">{email}</a>. Feuch nach cuir thu fiosrachadh pearsanta no slàinte mu luchd-còmhnaidh no teachdaichean.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "An app Golden Moments",
+      "seoTitle": "An app Golden Moments airson iPhone is Android",
+      "description": "An app Golden Moments an-asgaidh: maids dealbh socair le ceithir leacan mòra, dealbhan teaghlaich air an cumail air an inneal agad, pacaidean dhealbhan.",
+      "crumb": "An aplacaid",
+      "lede": "A h-uile dad as toil leat mun làrach-lìn, ann an app a tha ag obair far-loidhne agus as urrainn dealbhan teaghlaich a thaghas tu a chleachdadh.",
+      "worksOn": "Ag obair air {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Tòisich beag</h2><p>Tòisich le ceithir leacan mòra agus dealbhan eòlach. Cùm dealbhan rim faicinn, no cuir am falach iad nuair a tha sin a’ faireachdainn comhfhurtail. Chan eil timer, sgòr no peanas aig modh socair. Tagh 4, 6, 8 no 12 leacag.</p><h2>Dèan e pearsanta</h2><p>Tagh dealbhan teaghlaich le inneal-togail dhealbhan an inneal agad. Bidh an app a’ sàbhaladh lethbhric nas lugha airson a ghnìomhachdan. Cha bhith e a’ sganadh an leabharlann agad no ag atharrachadh na dealbhan tùsail agad, agus cumaidh e suas ri 24 dealbh ann an aon chruinneachadh.</p><h2>Dìreach coimhead còmhla</h2><p>Seall aon dealbh aig aon àm. Bidh brosnachaidhean roghainneil a’ toirt cuireadh do chòmhradh gun iarraidh air duine sam bith ainmean a chuimhneachadh no freagairt cheart a thoirt seachad. Is e dìreach coimhead gu leòr.</p><h2>Far-loidhne far a bheil e cudromach</h2><p>Tha dealbhan tòiseachaidh agus na h-ochd pacaidean dhealbhan uile air an toirt a-steach don app. Bidh lethbhric de dhealbhan air an toirt a-steach ag obair far loidhne. Ma roghnaicheas tu na stuthan tùsail a tha air an stòradh ann an iCloud a-mhàin dh'fhaodadh gum bi feum air ceangal eadar-lìn.</p><h2>Gun chunntas, gun fhrithealaiche sioncronaich dhealbhan</h2><p>Bidh lethbhric de dhealbhan teaghlaich a’ fuireach san app air an inneal. Faodaidh tu na leth-bhreacan a thoirt air falbh gun a bhith a’ sguabadh às na tùsan. Faodaidh cùl-taic inneal a bhith a’ toirt a-steach dàta app. Leugh an <a href=\"/app-privacy/\">poileasaidh prìobhaideachd app</a>, agus <a href=\"/help/\">cuideachadh app</a> a' dol troimh gach ceum.</p>",
+      "disclaimer": "Tha Golden Moments airson cur-seachad agus còmhradh co-roinnte. Chan eil e a’ lorg, a’ làimhseachadh, a’ casg no a’ tomhas dementia no galar Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Geamannan air-loidhne an-asgaidh Dementia & Alzheimer",
+    "description": "Geamannan air-loidhne an-asgaidh do sheann daoine a tha a’ fuireach le dementia no Alzheimer’s: maidseadh dhealbhan, jigsaws furasta, òrdachadh, abairtean.",
+    "crumb": "Geamannan",
+    "h1": "Geamannan Soilleir do Dhaoine le Dementia",
+    "lede": "{count} Geamannan an-asgaidh a chluich còmhla air do bhrabhsair. Dealbhan mòra, faclan sìmplidh, agus gun dad ri fàiligeadh: gun timers, gun sgòran, gun chlàradh.",
+    "listName": "Geamannan airson daoine le dementia",
+    "byStageTitle": "A 'taghadh gèam le àrd-ùrlar",
+    "byStageLede": "Chan eil ann an ìrean ach stiùireadh garbh. Lean na tha a’ còrdadh ris an neach agus na tha a’ faireachdainn comhfhurtail an-diugh.",
+    "stageCol": "Ìre",
+    "gamesCol": "Geamannan a tha gu math tric freagarrach",
+    "moreHtml": "Barrachd bheachdan air falbh bhon sgrion: <a href=\"/activities/ideas/\">101 gnìomhachd do dhaoine air a bheil dementia</a>, <a href=\"/activities/alzheimers/\">gnìomhan agus geamannan airson Alzheimer</a>, <a href=\"/activities/memory-games/\">geamannan cuimhne fallain</a> agus <a href=\"/activities/puzzles/\">tòimhseachan</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Dè an geama air am bu chòir dhuinn tòiseachadh?",
+        "a": "Tha paidhrichean dhealbhan le ceithir leacan na chiad roghainn socair. Ma tha taghadh eadar dealbhan a’ faireachdainn cus, feuch Lorg an aon rud le dà dhealbh. Airson buidheann, feuch bingo dealbhan."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Am bi na geamannan ag obair air iPad no fòn?",
+        "a": "Tha. Bidh a h-uile geama ag obair sa bhrobhsair air fònaichean, clàran agus coimpiutairean, agus bidh na dealbhan a’ fàs gus an scrion a lìonadh. Is e clàr air stand gu tric an fheadhainn as comhfhurtail dha dithis."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "A bheil na geamannan sin math dha cuideigin le Alzheimer?",
+        "a": "Tha. Chaidh an dèanamh airson daoine le dementia, a' gabhail a-steach Alzheimer's, an adhbhar as cumanta. Bidh dealbhan a’ fuireach a’ sealltainn, chan eil ann ach beagan roghainnean, agus chan eil ùine no sgòradh sam bith ann, agus mar sin bidh na geamannan a’ leantainn air a bhith ag aithneachadh rudan eòlach seach a bhith a’ cuimhneachadh feadhainn ùra."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "A bheil na geamannan cuimhne sin airson seann daoine?",
+        "a": "Tha iad nan geamannan maidsidh is dhealbhan as urrainn do dh’ inbheach nas sine a bhith a’ còrdadh riutha, ach tha iad air an togail gun a bhith a’ dèanamh deuchainn air cuimhne: ann an dealbh paidhrichean fuirich aghaidh suas mura tagh thu a chaochladh. Tha an stiùireadh againn air geamannan cuimhne airson seann daoine le dementia a’ mìneachadh mar a chumas tu geama cuimhne sam bith socair."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "A bheil geamannan ann airson buidhnean ann an dachaigh-cùraim?",
+        "a": "Tha. Tha cairtean clò-bhualaidh agus neach-fios air-sgrion aig bingo dhealbhan, agus Crìochnaich an abairt agus bidh cairtean còmhraidh ag obair gu math air an leughadh a-mach do bhuidheann."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad agus Android",
+    "requirements": "iOS 15 no nas fhaide air adhart; Android 7.0 no nas fhaide air adhart",
+    "summary": "Aplacaid an-asgaidh airson iPhone, iPad agus Android le dealbhan socair a’ maidseadh air ceithir no dusan leac mhòr, a’ maidseadh agus a’ coimhead le dealbhan teaghlaich a thaghas tu, agus ochd a’ toirt a-steach pasganan dhealbhan a bhios ag obair às aonais eadar-lìn. Gun chunntas, sanasan, timer no sgòr.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Dealbh socair a’ maidseadh le 4, 6, 8 no 12 leacan mòra; bidh dealbhan rim faicinn mura roghnaich thu am falach",
+      "Thèid dealbhan teaghlaich a thaghas tu a chopaigeadh a-steach don app airson maidseadh agus airson coimhead còmhla",
+      "Coimhead còmhla: aon dealbh aig aon àm le molaidhean còmhraidh roghainneil",
+      "Ochd pasganan dhealbhan air an toirt a-steach don app; bidh iad ag obair far loidhne",
+      "Gun chunntas, sanasan, ceannach in-app, timer, sgòr no peanas"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "A bheil app gnìomhachd dementia ann?",
+        "a": "Tha. Golden Moments (air an liostadh mar \"{storeName}\") an-asgaidh air an App Store agus Google Play. Tha e a’ tabhann maidseadh dhealbhan socair le leacan mòra, geamannan le dealbhan teaghlaich a thaghas tu, agus pacaidean dhealbhan a bhios ag obair far-loidhne."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "A bheil an app Golden Moments an-asgaidh?",
+        "a": "Tha. Tha e an-asgaidh a luchdachadh sìos, gun shanasan, cunntas no ceannach in-app."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "A bheil an aplacaid ag obair às aonais eadar-lìn?",
+        "a": "Tha. Tha na dealbhan tòiseachaidh agus na h-ochd pacaidean dhealbhan uile air an toirt a-steach don app, agus bidh dealbhan teaghlaich ag obair far-loidhne aon uair ‘s gu bheil iad air an lethbhreacadh a-steach don app. Is dòcha gu feum ceangal a bhith a’ taghadh dealbh a tha air a stòradh ann an iCloud."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Am faod mi na dealbhan teaghlaich againn fhìn a chleachdadh?",
+        "a": "Tha. Tagh dealbhan le inneal-togail dhealbhan an inneal agad. Bidh an aplacaid a’ cumail lethbhric nas lugha air an inneal airson a ghnìomhachdan, cha bhith e gan luchdachadh suas agus cha bhith e ag atharrachadh na dreachan tùsail. Faodaidh tu na lethbhric a thoirt air falbh aig àm sam bith."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "An e aplacaid trèanaidh eanchainn no deuchainn cuimhne a th’ ann?",
+        "a": "Chan eil. Tha Golden Moments airson tlachd agus ùine còmhla. Chan eil sgòran no deuchainnean ann, agus chan eil e a’ lorg, a’ làimhseachadh, a’ casg no a’ tomhas trom-inntinn no galar Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Dè na h-innealan air a bheil e ag obair?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "A bheil dreach app den gheama seo ann?",
+      "a": "Tha. Tha an aon mhaidseadh dhealbhan socair aig an app Golden Moments an-asgaidh airson iPhone, iPad agus Android, is urrainn dha dealbhan teaghlaich a thaghas tu a chleachdadh, agus bidh e ag obair far-loidhne. Gun chunntas, sanasan no sgòr."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "A bheil dreach app den gheama seo ann?",
+      "a": "Chan ann den gheama seo. Anns an app Golden Moments an-asgaidh airson iPhone, iPad agus Android tha maidseadh dhealbhan socair le leacan mòra agus dealbhan teaghlaich a thaghas tu, agus bidh e ag obair far-loidhne. Bidh an geama seo an-asgaidh an seo sa bhrobhsair agad."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: dealbhan mòra, càirdeil",
+    "noscript": "Feumaidh an geama seo JavaScript a chuir air sa bhrobhsair agad. Bidh na molaidhean gu h-ìosal ag obair às aonais.",
+    "about": "Mu dheidhinn {name}",
+    "aboutAria": "Mu dheidhinn a 'gheama seo",
+    "noTimer": "Gun timer no sgòr",
+    "printable": "Clò-bhuailte",
+    "howTo": "Ciamar a chluich {name}",
+    "tips": "Molaidhean airson cluich còmhla",
+    "newToPlayingHtml": "Ùr airson cluich le cuideigin air a bheil dementia? Leugh <a href=\"/caregiving/how-to-play-together/\">mar a chluicheas tu geamannan còmhla</a>, a' gabhail a-steach dè nì iad ma chailleas iad ùidh.",
+    "moreAria": "Tuilleadh ri rannsachadh",
+    "helpfulGuides": "Stiùiridhean cuideachail",
+    "appTitle": "Cluich e san app",
+    "appText": "Anns an app Golden Moments an-asgaidh tha maidseadh dhealbhan socair le leacan mòra agus na dealbhan teaghlaich agad fhèin, agus bidh e ag obair às aonais Wi-Fi. iPhone, iPad agus Android.",
+    "photoAppTitle": "Cùm do dhealbhan deiseil",
+    "photoAppText": "Anns an app Golden Moments an-asgaidh, bidh na dealbhan a thaghas tu a’ fuireach air an inneal agad airson an ath thuras, agus bidh geamannan ag obair às aonais Wi-Fi. iPhone, iPad agus Android.",
+    "goodToKnow": "Math fios a bhith agad",
+    "goodToKnowText": "Tha an geama seo airson tlachd agus ùine còmhla. Chan eil e a 'dèanamh deuchainn, a' tomhas no a 'làimhseachadh rud sam bith.",
+    "moreGames": "Geamannan nas miosa",
+    "crumb": "Geamannan"
   }
 }

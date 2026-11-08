@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Veiwatini ni iyaloyalo",
+    "seoTitle": "Qito veiganiti me baleta na mate ni vakasama: Veiwatini ni iyaloyalo",
+    "h1": "Veiwatini ni iyaloyalo: e dua na qito ni veiganiti malumu",
+    "description": "E dua na qito ni veiganiti galala, malumu vei ira na tamata era bula vata kei na mate ni vakasama.",
+    "short": "Vaqara na iyaloyalo e rua e tautauvata. Na iyaloyalo e rawa ni vakaraitaki tikoga.",
+    "players": "1 se 2 na tamata, veitikivi",
+    "intro": "Tabaka e dua na iyaloyalo, qai tabaka na kena e veiganiti kei na kena. Na iyaloyalo e tiko vakaraitaka ena kena ivakarau, sa sega kina ni dua na ka e dodonu me nanumi. Ni rau lako vata e rua na iyaloyalo erau rawata e dua na iyalayala koula kei na dua na ivakatakilakila ni jeke.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Digitaka na levu ni tile mo vakayagataka. Va na tile e dua na vanua vakacegu me tekivu kina.",
+      "Tabaka na iyaloyalo cava ga. E rawata e dua na iyalayala koula.",
+      "Tabaka na iyaloyalo e tautauvata na kena irairai. Erau tiko vata na veiwatini kei na dua na ivakatakilakila ni jeke.",
+      "Ke duidui na iyaloyalo e rua, ena sega ni yaco e dua na ka ca. Tap tale ena gauna cava ga o sa vakarau kina.",
+      "Vukica na \"iyaloyalo vuni\" kevaka walega drau marautaka ruarua na kalasi ni mata-sobu na kena itukutuku."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Vakayacana vata na iyaloyalo ena domo levu ka veitalanoataka me baleti ira: \"E dua na bilo ti damudamu. O dau taura na sucu ena nomu ti?\"",
+      "Laiva na tamata o qarava me cakava na tapping, kevaka mada ga e taura e dua na gauna. Dusia ka sega ni tabaka vei ira.",
+      "Tiko vata kei na va na taile me baleta na balavu ni gauna e vakila vinaka kina. E levu cake na tile e dua na digidigi, sega vakadua ni dua na ivakatagedegede me yacovi.",
+      "Vakaotia ni se marautaki tiko. E dua na qito e dua na itaviqaravi taucoko."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tiko beka e dua na gauna se dua na sikoa?",
+        "a": "Sega.E sega ni dua na kaloko, sikoa, toso ni counter se lusi. E rawa ni o cegu ena dua na gauna, kei na cegu ena veimama ni sala e dua na sala vinaka sara me vakaoti kina."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Na cava era tu kina na iyaloyalo?",
+        "a": "Na kena maroroi na iyaloyalo me laurai e vukica na qito ki na rai kei na veiganiti ka sega ni nanumi. E levu era kunea ni vakacegu oqo. E rawa ni o veisau ki na iyaloyalo vuni ena dua ga na tap kevaka o vinakata."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sega ni saumi, ka dodonu beka meu sainitaka?",
+        "a": "Io, e sega ni saumi, ka sega ni dua na akaude, saini-cake se lavetaki. E cakacaka ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "E rawa beka ni da vakayagataka na noda dui itaba vakavuvale?",
+        "a": "Io. Tovolea na veiwatini ni itaba, ka rawa kina vei iko mo digitaka na itaba mai na nomu misini. Na itaba e tiko ena nomu barausa ka sega ni vakau cake."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Vaqara na kena vata ga .",
+    "seoTitle": "Vaqara na iyaloyalo vata ga: Qito rawarawa ni Dementia .",
+    "h1": "Vaqara na iyaloyalo vata ga .",
+    "description": "E dua na iyaloyalo e cake, rua ki na va e ra. Tabaka na kena e tautauvata.",
+    "short": "Raica na iyaloyalo e cake ka tabaka na kena vata ga e ra.",
+    "players": "1 se 2 na tamata",
+    "intro": "E dua ga na iyaloyalo e dabe toka ena dela ni sikirini. E ra e rua, tolu se va na iyaloyalo. Tabaka na kena e tautauvata. E dua ga na digidigi rawarawa ena dua na gauna, ka levu na vanua me da veitalanoa kina.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Digitaka e rua, tolu se va na iyaloyalo mo digitaka mai kina. E rua na ka rawarawa duadua.",
+      "Raica vata na iyaloyalo e cake.",
+      "Tabaka na iyaloyalo vata ga e ra. E vakatakilakilataki ena dua na jeke kei na vica na vosa katakata.",
+      "Kevaka e dua na iyaloyalo duidui e tabaki, na qito e vakayacana ga ka waraka. Taura na nomu gauna.",
+      "Tabaka na \"iyaloyalo ka tarava\" ni o sa vakarau tu me baleta e dua tale."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Veivosakitaka na iyaloyalo yadua ni bera ni o digitaka: roka, ibulibuli, vanua o na rairai raica kina.",
+      "E rua na digidigi e sega ni \"sa rui rawarawa\". Na takete e dua na gauna marautaki, sega ni dua na bolebole.",
+      "Kevaka e dredre na tabaki, e rawa ni dusia na tamata ka rawa ni o tabaka me baleti ira."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tiko beka e dua na gauna se dua na sikoa?",
+        "a": "Sega.E sega ni dua na kaloko, sikoa, toso ni counter se lusi. E rawa ni o cegu ena dua na gauna, kei na cegu ena veimama ni sala e dua na sala vinaka sara me vakaoti kina."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Na cava ena yaco ke tabaki na iyaloyalo cala?",
+        "a": "Sega ni dua na ka e sega ni taleitaki. E sega ni dua na buto, kauveilatai damudamu se luluqa. Na qito e vakayacana na iyaloyalo ka a tabaki ka waraka na tabaki ka tarava."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sega ni saumi, ka dodonu beka meu sainitaka?",
+        "a": "Io, e sega ni saumi, ka sega ni dua na akaude, saini-cake se lavetaki. E cakacaka ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Veisotari ni yaloyalo",
+    "seoTitle": "Qito ni veiganiti ni yaloyalo me baleta na mate ni vakasama: Galala ena initaneti",
+    "h1": "Veisotari ni yaloyalo: e dua na qito ni iyaloyalo malumu",
+    "description": "E dua na yaloyalo butobuto e cake, rua ki na va na iyaloyalo e ra. Tabaka na iyaloyalo e cakava na yaloyalo.",
+    "short": "Raica na yaloyalo ka tabaka na iyaloyalo e cakava.",
+    "players": "1 se 2 na tamata",
+    "intro": "Na veiganiti ni yaloyalo e dua na itaviqaravi kilai levu mai na pepa ni cakacaka tabaki, eke kei na iyaloyalo lelevu ka sega ni dua na ka me tabaki. E dua na yaloyalo malumu e dabe toka ena dela ni sikirini ka rua, tolu se va na iyaloyalo e waraka tiko e ra. Tabaka na kena e cakava na yaloyalo. Na ibulibuli me vaka e dua na basikeli, e dua na umauma se dua na bilo ti e rawarawa me vosataki talega.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Digitaka e rua, tolu se va na iyaloyalo mo digitaka mai kina. E rua na ka rawarawa duadua.",
+      "Raica vata na yaloyalo. Na ibulibuli cava e tiko kina? E balavu se vakababa?",
+      "Tabaka na iyaloyalo e cakava na yaloyalo. E basika na yacana ena ruku ni yaloyalo.",
+      "Kevaka e dua na iyaloyalo duidui e tabaki, na qito e vakayacana ga ka waraka. Taura na nomu gauna.",
+      "Tap \"Yaloyalo ka tarava\" ni o sa vakarau tu me baleta e dua tale."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Vakaraitaka na ituvatuva ni yaloyalo ena dua na iqaqalo ka vosa me baleta na kena irairai.",
+      "Kevaka e vakila dredre na yaloyalo nikua, veisau ki na Vaqara na kena vata ga, na vanua e tautauvata kina na iyaloyalo.",
+      "Veivosakitaka na iyaloyalo ena gauna ga e kune kina: \"E tiko vei keitou e dua na umauma vakaoqo.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tiko beka e dua na gauna se dua na sikoa?",
+        "a": "Sega.E sega ni dua na kaloko, sikoa, toso ni counter se lusi. E rawa ni o cegu ena dua na gauna, kei na cegu ena veimama ni sala e dua na sala vinaka sara me vakaoti kina."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "E vinaka beka na veiganiti ni yaloyalo vei ira na tamata e tauvi ira na mate ni vakasama?",
+        "a": "E rawa ni dua na itaviqaravi taleitaki, rawarawa vei ira eso na tamata, vakabibi ena veigauna taumada. E rawarawa cake me kilai na ibulibuli mai na vosa. E baleta na marau kei na veivosaki, sega ni veivakatovolei, e sega ni qarava se vakamalumalumutaka na mate ni vakasama. Kevaka e vakavuna na veilecayaki, tovolea Vaqara na ka vata ga se raica vata ga na iyaloyalo."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Na cava ena yaco ke tabaki na iyaloyalo cala?",
+        "a": "Sega ni dua na ka e sega ni taleitaki. E sega ni dua na buto, kauveilatai damudamu se luluqa. Na qito e vakayacana na iyaloyalo ka a tabaki ka waraka na tabaki ka tarava."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sega ni saumi, ka dodonu beka meu sainitaka?",
+        "a": "Io, e sega ni saumi, ka sega ni dua na akaude, saini-cake se lavetaki. E cakacaka ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Vakarautaka vata",
+    "seoTitle": "Qito ni Veisoliyaki me baleta na Dementia: Veisoliyaki Vata",
+    "h1": "Vakarautaka Vata: e dua na itaviqaravi ni Vakarautaka na Iyaloyalo",
+    "description": "Tabaka e dua na iyaloyalo, qai tabaka na basikete e tiko kina: valenisili se iteitei, vuanikau se manumanu.",
+    "short": "Biuta na iyaloyalo yadua ena kena basikete: valenisili se iteitei, kei na so tale.",
+    "players": "1 se 2 na tamata",
+    "intro": "Na veiwasei e dua na cakacaka kilai levu, ka veivakacegui ena veisiga, me vaka na biu ni volivolitaki se veiwatini ni sote. Tabaka e dua na iyaloyalo, qai tabaka na basikete ena vanua e dodonu me tiko kina. E sega ni dua na totolo ka sega na veisau cala.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Digitaka e dua na ulutaga: valenisili kei na iteitei, vuanikau kei na manumanu, se vale kei na veilakoyaki.",
+      "Tabaka e dua na iyaloyalo. E rawata e dua na iyalayala koula.",
+      "Tabaka na basikete e tiko kina Na iyaloyalo e toso ki na basikete oya.",
+      "Kevaka e nona ena basikete kadua, na qito e kaya vakakina vakamalua ka waraka.",
+      "Ni sa vakarautaki na iyaloyalo kece, raica vata na basikete."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "E dau sega na isaunitaro cala ena bula dina. Kevaka e dua e kaya ni dua na tavaya ni wai e nona na valenisili, taroga na vuna. O na rawata beka e dua na italanoa vinaka.",
+      "Vakayagataka na iyaloyalo me vaka e dua na veivakauqeti: \"Na cava o tea ena nomu iteitei?\"",
+      "Na kena vakarautaki na veika dina, me vaka na spuni kei na forks se na baqe ena roka, e dua na muri levu tani mai na sikirini."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tiko beka e dua na gauna se dua na sikoa?",
+        "a": "Sega.E sega ni dua na kaloko, sikoa, toso ni counter se lusi. E rawa ni o cegu ena dua na gauna, kei na cegu ena veimama ni sala e dua na sala vinaka sara me vakaoti kina."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Na cava na vuna e vakarautaki kina?",
+        "a": "E vuqa na tamata era taleitaka na veiwasei baleta ni vakila me vaka na cakacaka yaga, kilai levu. E rawarawa tale ga mo veitalanoataka na iyaloyalo ni o lako tiko."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sega ni saumi, ka dodonu beka meu sainitaka?",
+        "a": "Io, e sega ni saumi, ka sega ni dua na akaude, saini-cake se lavetaki. E cakacaka ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle ni iyaloyalo",
+    "seoTitle": "Puzzle rawarawa me baleta na mate ni vakasama: 4 se 9 na tiki",
+    "h1": "Puzzle ni iyaloyalo: e dua na Jigsaw Rawarawa",
+    "description": "E dua na jigsaw rawarawa ena initaneti vei ira na tamata era bula vata kei na mate ni vakasama: 4 se 9 na tiki lelevu, na iyaloyalo taucoko e laurai tiko.",
+    "short": "Tabaka e rua na tiki me veisautaki ira me yacova ni sa taucoko na iyaloyalo.",
+    "players": "1 se 2 na tamata",
+    "intro": "E dua na iyaloyalo vakaveitokani e musuki me va se ciwa na tiki lelevu ka veiwaki vata. Na iyaloyalo taucoko e laurai tiko me vaka e dua na idusidusi. Tap e dua na tiki, qai dua tale, ka rau veisautaka na vanua. E sega ni gadrevi na dreta.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Digitaka e dua na iyaloyalo kei na 4 se 9 na tiki. Na va e dua na itekitekivu malumu.",
+      "Raica na iyaloyalo taucoko e cake.",
+      "Tabaka e dua na tiki, qai tabaka na vanua e dodonu me lako kina. Na rua na tiki ni veisau.",
+      "Na veitiki ena vanua donu e rawata e dua na ivakatakilakila lailai ni jeke.",
+      "Ni sa taucoko na iyaloyalo, marautaka vata, qai digitaka e dua tale."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Na tabaki ni rua na tiki me veisautaki ira e rawarawa cake sara mai na dreta vei ira e vuqa na tamata.",
+      "Veivosakitaka na iyaloyalo ni sa lako vata mai: \"E tiko na katubaleka damudamu.\"",
+      "E dua na jigsaw kau dina kei na 12 ki na 24 na tiki lelevu e dua na itaviqaravi ni teveli taleitaki talega."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tiko beka e dua na gauna se dua na sikoa?",
+        "a": "Sega.E sega ni dua na kaloko, sikoa, toso ni counter se lusi. E rawa ni o cegu ena dua na gauna, kei na cegu ena veimama ni sala e dua na sala vinaka sara me vakaoti kina."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "E gadrevi beka meu dreta na veitiki?",
+        "a": "Sega, tabaka e dua na tiki, qai tabaka e dua tale, rau qai veisautaka na nodrau vanua. Oqo e rawarawa cake ena dua na liga luluqa se ena dua na sikirini lailai."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sega ni saumi, ka dodonu beka meu sainitaka?",
+        "a": "Io, e sega ni saumi, ka sega ni dua na akaude, saini-cake se lavetaki. E cakacaka ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Vakaotia na vosa .",
+    "seoTitle": "Vakaotia na Vosa: Qito ni Vosa Vakaibalebale vei ira na Qase",
+    "h1": "Vakaotia na Vosa",
+    "description": "Na vosa kilai levu ni Amerika kei na iotioti ni vosa e yali, me vaka na \"E dua na peni vakabulai e dua na peni ___\".",
+    "short": "Vakacavara vata na vosa kilai levu, qai veitalanoataka.",
+    "players": "1, 2 se dua na ilawalawa .",
+    "intro": "Na vosa makawa e dau kilai levu ena dua na bula taucoko. Na kadi yadua e vakaraitaka e dua na vosa kilai levu kei na iotioti ni vosa e yali, tolu na digidigi, kei na dua na \"Vakaraitaka na itinitini\" button. Ni oti na itinitini, e dua na taro malumu e sureta na veivosaki.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Wilika vata ena domoilevu na vosa.",
+      "Tabaka na vosa e vakaotia kina, se tabaka na \"Vakaraitaka na kena itinitini\".",
+      "Wilika tale na vosa taucoko ka veivosakitaka ena nomu vakayagataka na veivakauqeti.",
+      "Tabaka na \"Vosa ka tarava\" ni o sa vakarau."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Wilika vakamalua ka biuta e dua na gauna ni bera na iotioti ni vosa. E dau tukuna na tamata ni bera ni o vakaotia na vosa.",
+      "Ke dua e solia e dua na itinitini duidui, marautaka. Eso na vakadewa ni vosa e duidui ena vuvale se yasana.",
+      "Ena dua na ilawalawa, e dua na tamata e wilika ka ra duavata kece ena kena itinitini."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tiko beka e dua na gauna se dua na sikoa?",
+        "a": "Sega.E sega ni dua na kaloko, sikoa, toso ni counter se lusi. E rawa ni o cegu ena dua na gauna, kei na cegu ena veimama ni sala e dua na sala vinaka sara me vakaoti kina."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Vakacava ke da digitaka e dua na vosa e duidui?",
+        "a": "Na qito e vakaraitaka na itinitini e dau yaco ka toso ki na veivosaki. E sega ni dua na sikoa, ka duatani na kena isau e vinaka."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sega ni saumi, ka dodonu beka meu sainitaka?",
+        "a": "Io, e sega ni saumi, ka sega ni dua na akaude, saini-cake se lavetaki. E cakacaka ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Vakasaqara na vosa tabaki levu",
+    "seoTitle": "Vosa Tabaki Levu Vakasaqara na Dementia, Tabaki",
+    "h1": "Vakasaqara na Vosa Levu",
+    "description": "E dua na vakasaqaqara ni vosa levu galala vei ira na qase kei ira na tamata era bula vata kei na mate ni vakasama.",
+    "short": "Na matanivola lelevu, vica na vosa, ena yasa kei na sobu ga. Tabaka talega.",
+    "players": "1 se 2 na tamata",
+    "intro": "E dua na grid lailai kei na matanivola lelevu kei na vica walega na vosa, wiliki kece ena yasana se sobu. Tabaka na imatai ni matanivola ni dua na vosa, qai kena iotioti ni matanivola. Vinakata na pepa? Tabaka e dua na puzzle vou ena dua ga na tavaya.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Digitaka e dua na ulutaga kei na dua na levu ni grid.",
+      "Raica na lisi ni vosa. Na vosa e wiliki ena veimama (imawi ki na imatau) se sobu (mai cake ki ra).",
+      "Tabaka na imatai ni matanivola ni dua na vosa, qai tabaka na kena iotioti ni matanivola.",
+      "E dua na vosa e kunei e vakaraitaki ka vakacurumi mai na lisi.",
+      "Tap \"Tabaka na puzzle oqo\" me qito ena pepa ena dua na penikau se maka."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Dusia e dua na vosa ena lisi ka raica vata na kena imatai ni matanivola.",
+      "Ena pepa, e rawarawa cake me tauri e dua na ivakatakilakila mai na penikau.",
+      "Veivosakitaka na vosa ni ulutaga. Na vosa vuanikau e dua na sala vakayago ki na veivakanananu ni picking, vakasaqa se makete."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tiko beka e dua na gauna se dua na sikoa?",
+        "a": "Sega.E sega ni dua na kaloko, sikoa, toso ni counter se lusi. E rawa ni o cegu ena dua na gauna, kei na cegu ena veimama ni sala e dua na sala vinaka sara me vakaoti kina."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "E rawa beka niu tabaka na vosa vakasaqaqara?",
+        "a": "Io. Tap \"Tabaka na puzzle oqo\" me tabaki na grid ni gauna oqo ena mataqali levu, kei na lisi ni vosa e ra. Na puzzle vou kece e duidui."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sega ni saumi, ka dodonu beka meu sainitaka?",
+        "a": "Io, e sega ni saumi, ka sega ni dua na akaude, saini-cake se lavetaki. E cakacaka ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Rokataki ni draunipepa",
+    "seoTitle": "Pepa ni Roka me baleti ira na Qase kei na Dementia (Galala)",
+    "h1": "Rokataki ni Draunipepa",
+    "description": "Rawarawa, na draunipepa ni rokataki ni tamata qase kei na vanua lelevu: tabaka e dua na roka, qai tabaka na iyaloyalo.",
+    "short": "Tabaka e dua na roka, qai dua na tiki ni iyaloyalo. Tabaka talega na draunipepa.",
+    "players": "1 se 2 na tamata",
+    "intro": "Na draunipepa kei na ibulibuli lelevu ka rawarawa: e dua na senikau ena dua na tavaya, dua na vale, dua na bilo ti, dua na manumanu vuka kei na dua na waqavuka. Tabaka e dua na roka, qai tabaka e dua na tiki ni iyaloyalo me vakasinaiti kina. E sega ni dua na roka cala.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Digitaka e dua na draunipepa.",
+      "Tabaka e dua na roka. Na roka yadua e volai tu kina na yacana.",
+      "Tabaka e dua na tiki ni iyaloyalo me vakasinaiti ena roka oya.",
+      "Veisautaka na nomu vakasama ena dua na gauna ena nomu vakasinaita tale.",
+      "Tap \"Tabaka na draunipepa oqo\" me baleta e dua na draunipepa lala me rokataki ena peni se na maka."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Solia e rua na roka me digitaki mai kina ka sega ni seti taucoko kevaka e vakila na digidigi me vaka ni sa rui levu.",
+      "E kidavaki na veivunikau damudamu kei na matanisiga karakarawa. Oqo e baleta na marautaki ni roka, sega ni dodonu.",
+      "Na draunipepa tabaki e cakacaka vinaka ena maka se peni vavaku, e rawarawa cake me tauri."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tiko beka e dua na gauna se dua na sikoa?",
+        "a": "Sega.E sega ni dua na kaloko, sikoa, toso ni counter se lusi. E rawa ni o cegu ena dua na gauna, kei na cegu ena veimama ni sala e dua na sala vinaka sara me vakaoti kina."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "E sa rui vakagone beka na draunipepa oqo?",
+        "a": "Keirau droinitaka na veika vakacegu qai rawarawa ka sega ni katubaleka, e ganiti ira kina na qase na draunipepa. Na ibulibuli lelevu e maroroya na roka rawarawa ka sega ni cakava me bebe."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sega ni saumi, ka dodonu beka meu sainitaka?",
+        "a": "Io, e sega ni saumi, ka sega ni dua na akaude, saini-cake se lavetaki. E cakacaka ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kadi ni veivosaki",
+    "seoTitle": "Na itekitekivu ni veivosaki me baleta na mate ni vakasama: Kadi ni iyaloyalo",
+    "h1": "Kadi ni Veivosaki",
+    "description": "Kadi ni iyaloyalo kei na itekitekivu ni veivosaki malumu vei ira na tamata era bula vata kei na mate ni vakasama: sega na veitarogi, sega na isau dodonu.",
+    "short": "Kadi ni iyaloyalo kei na taro dolavi, malumu. Sega na veitarogi.",
+    "players": "2 na tamata se dua na ilawalawa .",
+    "intro": "Na kadi yadua e pairs e dua na iyaloyalo kilai levu kei na dua na veisureti dolavi me veivosaki, me vaka na \"Na cava na nomu mataqali draki taleitaki duadua?\" E sega na kena isau dodonu ka sega na ka me nanumi. Digitaka e dua na ulutaga se veisautaka kece.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Digitaka e dua na ulutaga, se maroroya na \"Kadi kece\".",
+      "Wilika vakadomoilevu na taro ka raica vata na iyaloyalo.",
+      "Vakarorogo, wasea na nomu isaunitaro, ka laiva me veilakoyaki na vosa.",
+      "Tap \"Kadi ka tarava\" ni o sa vakarau, se tiko vata kei na dua na kadi me vaka na balavu ni gauna o vinakata.",
+      "Tap \"Tabaka na kadi kece\" me musuki kina e dua na seti ni pepa."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Sauma tale ga vakataki iko na taro. E vakila me vaka e dua na veivosaki, sega ni dua na veivakatarogi.",
+      "Muria na italanoa, sega ni ka dina. Ke veisau na itukutuku matailalai, e vinaka.",
+      "Kevaka e dua na kadi e tara e dua na ka vakaloloma, ciqoma na vakila ka toso vakamalua ki na dua tale na kadi."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Na cava e sega kina na \"O nanuma tiko...?\" taro?",
+        "a": "Na taro e vakatovolei kina na vakanananu e rawa ni vakilai me vaka e dua na veitarogi ka vakavuna na madua. Dolava na veisureti me vaka na \"Tukuna vei au me baleta na...\" me dua e vakaitavi kina, na cava ga era nanuma lesu."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "E rawa niu tabaka na kadi?",
+        "a": "Io. \"Tabaka na kadi kece\" tabaka na seti taucoko ena mataqali levu, e vica na kadi ena dua na draunipepa, vakarau me musuki tani."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sega ni saumi, ka dodonu beka meu sainitaka?",
+        "a": "Io, e sega ni saumi, ka sega ni dua na akaude, saini-cake se lavetaki. E cakacaka ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Veiwatini ni itaba",
+    "seoTitle": "Cakava e dua na qito veiganiti mai na itaba ni matavuvale .",
+    "h1": "Veiwatini ni itaba: Vakatautauvatataka na nomu itaba",
+    "description": "Vukica na nomu itaba ni matavuvale ki na dua na qito ni veiganiti malumu.",
+    "short": "Digitaka na nomu itaba ka veiganiti kei ira. E sega ni dua na ka e vakau cake.",
+    "players": "2 tamata, veibasai",
+    "intro": "Digitaka e rua ki na ono na itaba mai na nomu talevoni, tebeleti se kompiuta, ka ra yaco me dua na qito veiganiti kei na iyaloyalo lelevu, laurai. Na itaba e vakaraitaki ga ena loma ni tabana oqo. Era sega ni vakau, maroroi se wasei, ka ra yali ni o sogota na draunipepa.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tap \"Digitaka na itaba\" ka digitaka e rua ki na ono na itaba.",
+      "E basika vakarua na itaba yadua. Tabaka e dua, qai tabaka na kena veiwatini.",
+      "Veivosakitaka na itaba yadua ni o kunea.",
+      "Ni o sa cakava, sogota na draunipepa se tabaka na \"Vakasavasavataka na itaba\". E sega ni dua na ka e maroroi."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Digitaka na itaba matata ni veika marautaki, kilai levu: e dua na manumanu, dua na iteitei, dua na vanua taleitaki, dua na siga ni vakamau.",
+      "Na iyaloyalo ni vanua kei na veika e rawa ni rawarawa cake mai na mata, ka ra levea na veivakasaurarataki cava ga me ra vakayacana na tamata.",
+      "Biuta laivi na itaba ni tamata era sa mate kevaka era na rawa ni kauta mai na lolosi vakasauri, vakavo ga ke o kila ni ra kauta mai na veivakacegui."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "E vakau tiko beka na noqu itaba ena dua na vanua?",
+        "a": "Sega. Na draunipepa e wilika na itaba o digitaka vakadodonu ena nomu barausa ka vakaraitaka ena nomu sikirini. Era sega ni vakau vei keda se vua e dua tale, ka ra sa yali ni o sogota se vakavoutaka na draunipepa."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E tiko beka e dua na gauna se dua na sikoa?",
+        "a": "Sega.E sega ni dua na kaloko, sikoa, toso ni counter se lusi. E rawa ni o cegu ena dua na gauna, kei na cegu ena veimama ni sala e dua na sala vinaka sara me vakaoti kina."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "E rawa niu maroroya na qito me baleta na gauna e tarava?",
+        "a": "Sega ena barausa, ena kena ituvatuva, sa sega kina ni dua na ka vakaitaukei e maroroi. Na app ni gauna koula galala me baleta na iPhone kei na iPad e rawa ni maroroya na ilavelave ni itaba digitaki ena nomu misini."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ni iyaloyalo",
+    "seoTitle": "Bingo ni iyaloyalo me baleti ira na qase kei na mate ni vakasama: Tabaki",
+    "h1": "Bingo ni iyaloyalo me baleta na ilawalawa",
+    "description": "Bingo ni iyaloyalo tabaki galala me baleta na qaravi ni vakanananu kei na ilawalawa qase, vata kei na dua na dauqito levu ena sikirini.",
+    "short": "Kadi ni bingo ni iyaloyalo tabaki kei na dua na qiri levu-sikirini me baleta na ilawalawa.",
+    "players": "E dua na ilawalawa e 2 ina 30 .",
+    "intro": "Bingo kilai levu kei na iyaloyalo ka sega ni naba, sa sega kina ni dua e gadreva me wilika na matanivola lalai. Tabaka e dua na seti ni kadi duatani, qai vakayagataka na dauqito ena sikirini me vakaraitaka na iyaloyalo yadua levu ena dua na TV, laptop se tebeleti.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Digitaka e 9 se 16 na sikuea ena dua na kadi kei na vica na dauqito.",
+      "Tap \"Tabaka na kadi\". E duidui na kadi yadua.",
+      "Dolava na dauqito ena dua na sikirini levu. Tap \"Iyaloyalo ka tarava\" me vakaraitaka na iyaloyalo yadua kei na kena yaca.",
+      "Era ubia na dauqito na iyaloyalo veiganiti ena nodra kadi ena dua na ilavo, ibulukau se maka.",
+      "Na tamata kece e vakasinaita e dua na laini, se na kadi taucoko, e rawata e dua na marau. E sega ni dua na lusi ena vakadewa oqo: qito tikoga me yacova ni sa dua na laini ni tamata kecega."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Vakayagataka na tokeni lelevu me vaka na jeke se na tavaya ni tavaya. Na butobuto lalai e rawa ni dredre me tauri.",
+      "Vakayacana na iyaloyalo ka tukuna e dua na ka me baleta na kena: \"E dua na waqavuka. O cei sa lako oti ena dua na waqavuka?\"",
+      "Dabeca na tamata e dredre me ra raica voleka duadua ki na sikirini, ka veiwatini veivuke kei ira na dauqito era gadreva.",
+      "E ciwa na sikuea e levu sara vei ira e levu na ilawalawa. Me rauta ni 20 ki na 30 na miniti na gauna ni vuli."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Au na cicivaka vakacava na bingo ni iyaloyalo ena dua na vale ni veiqaravi?",
+        "a": "Tabaka e dua na kadi ena dua na dauqito, biuta na dauqito ena sikirini levu duadua e tiko vei iko, ka kaciva na iyaloyalo vakamalua, vakayacana yadua. Qito me yacova ni sa dua na laini ni tamata kecega, me kakua kina ni dua e biu tu vakatikitiki."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "E galala beka na kena tabaki?",
+        "a": "Io. Tabaka e vuqa na kadi o gadreva, ena veigauna o vinakata, me vakayagataki vakataki iko se vakailawalawa."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "E rawa beka ni ra qito na tamata ka sega ni wilivola?",
+        "a": "Io. Na veimama kece e dua na iyaloyalo levu, kei na kena yaca e ra vei ira era taleitaka na vosa."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Cegu vakacegu",
+    "seoTitle": "Na Cegu ni Cegu Vakacegu vei ira na Qase kei ira na Dauveiqaravi",
+    "h1": "Na Cegu ni Cegu Vakacegu",
+    "description": "E dua na cegu vakamalua, vakanomodi ni cegu me wasei: e dua na maliwalala malumu e tubu ka lailai sobu me ono na cegu. O tekivuna, o rawa ni cegu ena dua ga na gauna.",
+    "short": "E dua na maliwa lala me cegu vata kei na. Tekivu ka cegu ena gauna o vinakata kina.",
+    "players": "1 se 2 na tamata",
+    "intro": "So na gauna na itaviqaravi vinaka duadua oya mo cegu vakamalua. Tap \"Tekivu\", qai cegu ena kena tubu na maliwa lala ka lako tani ni sa lailai sobu. Digitaka e dua na totolo vakamalua se totolo. E sega ni dua na veiqaravi, e dua na gauna vakacegu ga me wasei.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Dabe vakacegu ena yasana kadua.",
+      "Digitaka e dua na totolo: vakamalua se malumu.",
+      "Tabaka na \"Tekivu\". Cegu ena gauna e tubu tiko kina na maliwa lala, ka cegu tani ni sa lailai sobu tiko.",
+      "E tu vakataki koya ni oti e ono na cegu, se tabaka na \"Tu\" ena gauna cava ga o vinakata."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Taura na liga se vakaceguya e dua na liga ena liga ni tamata kevaka e kidavaki oqori.",
+      "Kua vakadua ni veivakasaurarataki. Kevaka era vinakata mera sarava, e vinaka.",
+      "Kevaka e dua e leqa na nona cegu, cegu vakavinaka ka sarava ga na maliwa lala. Taroga e dua na vuniwai me baleta e dua na leqa ni cegu."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "E dua beka na vakatovotovo ni cegu vakavuniwai oqo?",
+        "a": "Sega. E dua na cegu rawarawa, ka digitaki me baleta na vakacegu kei na kabani. E sega ni wainimate ni lomaocaoca se dua na ituvaki. Veivosaki kei na dua na vuniwai me baleta na kauwai ni bula."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "E toso beka na maliwa lala ka sega niu tekivuna?",
+        "a": "Sega.E sega ni dua na ka e toso me yacova ni o tabaka na Tekivu, qai cegu ni oti e ono na cegu se ni o tabaka na Tudei. Kevaka e vakarautaki na nomu misini me vakalailaitaka na toso, na vosa e veisau ka sega ni tubu na maliwa lala."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sega ni saumi, ka dodonu beka meu sainitaka?",
+        "a": "Io, e sega ni saumi, ka sega ni dua na akaude, saini-cake se lavetaki. E cakacaka ena barausa ni itukutuku ena dua na talevoni, tebeleti se kompiuta."
       }
     ]
   }

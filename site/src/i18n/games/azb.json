@@ -40,15 +40,15 @@
     ]
   },
   "find-the-same": {
-    "name": "Eyni",
-    "seoTitle": "tapın Eyni şəkli tapın: Sadə Demans Oyunu",
-    "h1": "Eyni Şəkli Tap",
+    "name": "Eynisini tapın",
+    "seoTitle": "Eyni şəkli tapın: Sadə Demans Oyunu",
+    "h1": "Eyni şəkli tapın",
     "description": "Bir şəkil yuxarıda, ikidən dördə qədər aşağıda. Eyni olana toxunun. Demensiya ilə yaşayan insanlar üçün taymer olmadan sakit, pulsuz şəkil oyunu.",
     "short": "Yuxarıdakı şəklə baxın və aşağıda eyni şəklə toxunun.",
     "players": "1 və ya 2 nəfər",
     "intro": "Tək şəkil ekranın yuxarı hissəsində yerləşir. Aşağıda iki, üç və ya dörd şəkil var. Eyni olana toxunun. Danışmaq üçün çox yer olan bir anda sadə seçimdir.",
     "howTo": [
-      "Seçmək üçün iki, üç və ya dörd şəkil seçin. Two is the simplest.",
+      "Seçmək üçün iki, üç və ya dörd şəkil seçin. İki ən sadədir.",
       "Birlikdə yuxarıdakı şəklə baxın.",
       "Aşağıdakı eyni şəkilə toxunun. Çek və bir neçə isti sözlə qeyd olunur.",
       "Fərqli şəkil vurularsa, oyun sadəcə onu adlandırır və gözləyir. Vaxtınızı ayırın.",
@@ -75,16 +75,16 @@
     ]
   },
   "shadow-match": {
-    "name": "Kölgə uyğunluğu",
-    "seoTitle": "Demans üçün Shadow Matching Game: Pulsuz Onlayn",
-    "h1": "Kölgə Uyğunluğu: Zərif Şəkil Oyunu",
+    "name": "Kölgə matçı",
+    "seoTitle": "Demans üçün kölgə uyğunluğu oyunu: Pulsuz Onlayn",
+    "h1": "Kölgə uyğunluğu: Zərif şəkil oyunu",
     "description": "Üstdə qaranlıq kölgə, aşağıda iki-dörd şəkil. Kölgə yaradan şəkilə toxunun. Demans üçün pulsuz, sakit kölgə uyğunluğu oyunu, heç bir taymer yoxdur.",
     "short": "Kölgəyə baxın və onu yaradan şəkilə vurun.",
     "players": "1 və ya 2 nəfər",
     "intro": "Kölgə uyğunluğu çap olunmuş iş vərəqlərindən tanış fəaliyyətdir, burada böyük şəkillər və çap etmək üçün heç bir şey yoxdur. Yumşaq kölgə ekranın yuxarı hissəsində oturur və aşağıda iki, üç və ya dörd şəkil gözləyir. Kölgə yaradan birinə toxunun. Velosiped, çətir və ya çay fincanı kimi formalar haqqında da danışmaq asandır.",
     "howTo": [
-      "Seçmək üçün iki, üç və ya dörd şəkil seçin. Two is the simplest.",
-      "Birlikdə kölgəyə baxın. What shape is it? Hündürdür yoxsa yuvarlaq?",
+      "Seçmək üçün iki, üç və ya dörd şəkil seçin. İki ən sadədir.",
+      "Birlikdə kölgəyə baxın. O hansı formadır? Hündürdür yoxsa yuvarlaq?",
       "Kölgə yaradan şəkilə toxunun. Onun adı kölgə altında görünür.",
       "Fərqli şəkil vurularsa, oyun sadəcə onu adlandırır və gözləyir. Vaxtınızı ayırın.",
       "Başqasına hazır olduğunuzda \"Növbəti kölgə\" üzərinə klikləyin."
@@ -114,7 +114,7 @@
     ]
   },
   "sort-together": {
-    "name": "Sort together",
+    "name": "Birlikdə sıralayın",
     "seoTitle": "Demans üçün Çeşidləmə Oyunu: Birlikdə Sırala",
     "h1": "Birlikdə çeşidləyin: Şəkil Çeşidləmə Fəaliyyəti",
     "description": "Şəkilə toxunun, sonra onun aid olduğu səbətə toxunun: mətbəx və ya bağ, meyvə və ya heyvanlar. Demansla yaşayan insanlar üçün sakit, sərbəst çeşidləmə fəaliyyəti.",
@@ -150,8 +150,8 @@
   },
   "picture-puzzle": {
     "name": "Şəkil tapmacası",
-    "seoTitle": "Demans üçün asan Yapboz Puzzle: 4 və ya 9 Parça",
-    "h1": "Şəkil Tapmacası: Asan Yapboz",
+    "seoTitle": "Demans üçün asan Yapboz: 4 və ya 9 ədəd",
+    "h1": "Şəkil Puzzle: Asan Yapboz",
     "description": "Demensiya ilə yaşayan insanlar üçün asan onlayn Yapboz: 4 və ya 9 böyük parça, bütün şəkil görünən qalır və siz onları dəyişdirmək üçün iki hissəyə toxunursunuz.",
     "short": "Şəkil bütöv olana qədər onları dəyişdirmək üçün iki hissəyə toxunun.",
     "players": "1 və ya 2 nəfər",
@@ -184,8 +184,8 @@
     ]
   },
   "finish-the-saying": {
-    "name": "",
-    "seoTitle": "deyimini tamamlayın Sözü bitirin: Yaşlılar üçün atalar sözləri oyunu",
+    "name": "Sözü bitir",
+    "seoTitle": "Sözü bitirin: Yaşlılar üçün atalar sözləri oyunu",
     "h1": "Sözü bitir",
     "description": "Son sözü çatmayan tanış Amerika deyimləri, \"Qənaət edilən qəpik bir qəpikdir ___\" kimi. Seçimə toxunun və ya sonluğu göstərin, sonra bu barədə danışın.",
     "short": "Tanış kəlamları birlikdə tamamlayın, sonra onlar haqqında danışın.",
@@ -219,7 +219,7 @@
   },
   "word-search": {
     "name": "Böyük çaplı söz axtarışı",
-    "seoTitle": "Demans üçün böyük çap söz axtarışı, çap edilə bilən",
+    "seoTitle": "Demans üçün böyük çap sözü axtarışı, çap edilə bilər",
     "h1": "Böyük çaplı söz axtarışı",
     "description": "Yaşlılar və demensiya ilə yaşayan insanlar üçün pulsuz böyük çaplı söz axtarışı. Bir neçə söz, böyük hərflər, yalnız aşağı və yuxarı sözlər.",
     "short": "Böyük hərflər, bir neçə söz, yalnız eni və aşağı. Onu da çap edin.",
@@ -323,7 +323,7 @@
     ]
   },
   "photo-pairs": {
-    "name": "-də istifadə olunan fotolar Foto cütləri",
+    "name": "Foto cütləri",
     "seoTitle": "Ailə Fotolarından Uyğun Oyun Yaradın",
     "h1": "Foto Cütlükləri: Öz Fotolarınızla Uyğunlaşın",
     "description": "Öz ailə şəkillərinizi incə uyğunlaşma oyununa çevirin. Cihazınızda 2-6 fotoşəkil seçin; onlar brauzerinizdə qalır və heç vaxt yüklənmir.",
@@ -358,11 +358,11 @@
   },
   "picture-bingo": {
     "name": "Şəkil bingo",
-    "seoTitle": "Demanslı Yaşlılar üçün Şəkil Bingo: Çap edilə bilən",
+    "seoTitle": "Demanslı Yaşlılar üçün Şəkil Bingo: Çap edilə bilər",
     "h1": "Qruplar üçün Şəkil Bingo",
-    "description": "Yaddaş baxımı və yaşlı qruplar üçün pulsuz çap edilə bilən şəkil bingo, böyük ekranda zəng edən. Sözləri olan böyük şəkillər, 9 və ya 16 kvadrat, oxumağa ehtiyac yoxdur.",
+    "description": "Yaddaş baxımı və yaşlı qruplar üçün pulsuz çap edilə bilən şəkil bingo, böyük ekranda zəng edən.",
     "short": "Çap edilə bilən şəkil binqo kartları və qruplar üçün böyük ekranlı zəng edən.",
-    "players": "2-dən 30-a qədər olan qrup",
+    "players": "2-dən 30-a qədər qrup",
     "intro": "Rəqəmlər əvəzinə şəkillərlə klassik bingo, buna görə heç kimin kiçik çapı oxumağa ehtiyacı yoxdur. Unikal kartlar dəstini çap edin, sonra televizorda, noutbukda və ya planşetdə hər şəkli böyük göstərmək üçün ekrandakı zəng edəndən istifadə edin.",
     "howTo": [
       "Kart başına 9 və ya 16 kvadrat və neçə oyunçu seçin.",
@@ -394,8 +394,8 @@
   },
   "calm-breathing": {
     "name": "Sakit nəfəs",
-    "seoTitle": "Yaşlılar və Baxıcılar üçün Sakit Nəfəs Alma Pauzası",
-    "h1": "Sakit Nəfəs Fasiləsi",
+    "seoTitle": "Yaşlılar və Baxıcılar üçün Sakit Nəfəs Pauzası",
+    "h1": "Sakit Nəfəs Pauzası",
     "description": "Paylaşmaq üçün yavaş, sakit nəfəs fasiləsi: yumşaq bir dairə altı nəfəs üçün böyüyür və daralır. Siz başlaya bilərsiniz və istənilən vaxt dayandıra bilərsiniz.",
     "short": "İlə birlikdə nəfəs almaq üçün yavaş bir dairə. İstədiyiniz zaman başlayın və dayandırın.",
     "players": "1 və ya 2 nəfər",

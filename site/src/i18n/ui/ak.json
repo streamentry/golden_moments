@@ -5,47 +5,48 @@
     "brandName": "Golden Moments",
     "brandTag": "Dementia dwumadi ahorow",
     "homeLabel": "Sikakɔkɔɔ Mmere fie",
-    "mainNav": "Titiriw",
-    "titleSuffix": " | Sikakɔkɔɔ Bere",
+    "mainNav": "Anksa",
+    "titleSuffix": " | Golden Moments",
     "defaultImageAlt": "Golden Moments: mfonini akɛse a ɛyɛ adamfofa su a ɛkyerɛ tii kuruwa, owia-nsoromma ne ɔkraman",
-    "languages": "Kasa Kasa",
-    "englishOnly": "(Twi)",
+    "languages": "Kasa",
+    "englishOnly": "(Borɔfo)",
     "machineTranslated": "Wɔkyerɛɛ kratafa yi ase ara kwa na obiara nnya nhwɛɛ mu.",
-    "readOriginal": "Kenkan mfitiaseɛ no wɔ Borɔfo kasa mu",
+    "readOriginal": "Kenkan mfitiase de no wɔ Borɔfo kasa mu",
     "nav": {
-      "games": "Agodie",
+      "games": "Agodie a wɔde di agoru",
       "activities": "Dwumadie",
-      "caregiving": "Ɔhwɛfoɔ",
-      "brainHealth": "Amemene akwahosan"
+      "caregiving": "Ɔhwɛ a Wɔhwɛ",
+      "brainHealth": "Amemene mu akwahosan"
     },
-    "faqTitle": "Nsɛmmisa ne mmuaeɛ",
+    "faqTitle": "Nsɛmmisa ne mmuae",
     "breadcrumb": "Abodoo a wɔayam",
-    "home": "Home",
-    "lastUpdated": "Wɔayɛ no foforo nea etwa to",
+    "home": "Fie",
+    "lastUpdated": "Wɔyɛɛ no ​​foforo nea etwa to",
     "topics": "Nsɛmti",
     "textSize": {
       "label": "Nsɛm a wɔakyerɛw no kɛse",
       "smaller": "Nkyerɛwee a wɔahyɛ da ayɛ",
-      "larger": "Nkyerɛwee akɛse"
+      "larger": "Nkyerɛwee akɛse",
+      "contrast": "Nsonsonoe a ɛkorɔn"
     }
   },
   "footer": {
-    "play": "Di agorɔ",
+    "play": "Bɔ",
     "picturePairs": "Mfonini abien abien",
     "conversationCards": "Nkɔmmɔbɔ nkrataa",
     "pictureBingo": "Mfonini bingo",
     "allGames": "Agodie nyinaa",
-    "pictures": "Mfonini ahorow a wobetintim",
-    "activityIdeas": "Dwumadie ho adwene",
+    "pictures": "Mfonini ahorow a ɛsɛ sɛ wotintim",
+    "activityIdeas": "Dwumadi ho adwene",
     "ideas101": "101 dwumadi ho adwene",
-    "lateStage": "Dwumadi ahorow a ɛba akyiri",
+    "lateStage": "Dwumadi ahorow a ɛba akyiri yi",
     "printable": "Dwumadi ahorow a wotumi tintim",
     "allActivities": "Dwumadie nyinaa",
-    "forCaregivers": "Wɔn a wɔhwɛ wɔn",
+    "forCaregivers": "Wɔ wɔn a wɔhwɛ wɔn no fam",
     "playTogether": "Sɛnea wɔbom di agoru",
     "selfCare": "Wo ho a wobɛhwɛ",
     "brainHealth": "Amemene akwahosan ho nhwehwɛmu",
-    "faq": "Nsɛmmisa ne mmuaeɛ",
+    "faq": "Nsɛmmisa ne mmuae",
     "about": "Fa ho",
     "approach": "Ɔkwan a yɛfa so yɛ saa",
     "howWeWrite": "Sɛnea yɛkyerɛw",
@@ -83,7 +84,7 @@
     "gamesEyebrow": "Di agoru wɔ wo browser no mu",
     "gamesTitle": "Agodie a wubetumi adi mprempren ara",
     "gamesLede": "Wɔn mu biara yɛ komm, wanyin na ɔyɛ ntɛm fi ase. Paw biako, tena nkyɛnkyɛn, na dannan mo ho bɔ.",
-    "seeAllGames": "Hwɛ ne nyinaa {count} agodie",
+    "seeAllGames": "Hwɛ ne nyinaa {count} agodie ahorow",
     "howTitle": "Sɛnea ɛyɛ adwuma",
     "steps": [
       {
@@ -95,18 +96,18 @@
         "text": "Ma wɔnbɔ. Ka mfonini ahorow no ho asɛm. A mismatch twɛn tap a edi hɔ no ara kwa."
       },
       {
-        "title": "Gyae bere a ɛte sɛ nea eye",
+        "title": "Gyae bere a ɛte sɛ nea ɛyɛ dɛ no",
         "text": "Agorudi biako yɛ dwumadi a edi mũ. “Done for now” no wɔ screen no so bere nyinaa."
       }
     ],
-    "stageEyebrow": "Nea ɛboro screen no so",
-    "stageTitle": "Dwumadie adwene ma stage biara",
+    "stageEyebrow": "Wɔ screen no akyi",
+    "stageTitle": "Dwumadi ho adwene a ɛfa ɔfã biara ho",
     "stageLede": "Nnwom, da biara da nnwuma, nkae ne nkate mu bere a ɛyɛ komm, a wɔayɛ no sɛnea ɛte mprempren no ho.",
     "ideas101": "101 dwumadi ho adwene",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Mfiase no",
+        "title": "Mfiase",
         "text": "Kɔ so yɛ nea wɔpɛ, na yɛ nsakrae nketenkete: anigyede, abɔnten so, nsɛmfua agodie ne nhyehyɛe a wɔbom yɛ.",
         "label": "Adwene a ɛwɔ mfiase"
       },
@@ -114,24 +115,24 @@
         "href": "/activities/middle-stage/",
         "title": "Mfinimfini gyinabea",
         "text": "Nnwuma a ɛnyɛ den a wonim no yiye a wɔakyekyɛ mu anammɔn ahorow: nea wɔbobɔw, nea wɔhyehyɛ, nnwom, mfonini mu agodie ne nantew ntiantiaa.",
-        "label": "Mfinimfini-gyinabea adwene"
+        "label": "Mfinimfini fam nsusuwii ahorow"
       },
       {
         "href": "/activities/late-stage/",
         "title": "Akyiri yi fã",
         "text": "Awerɛkyekye ne nkitahodi denam nsa a wɔde ka, nnyigyei ne nea wohu so: nsa a wɔhwɛ, nnwom a wɔpɛ, mfonini ne sɛ wɔbɛbom atra.",
-        "label": "Akyiri yi-adwenkyerɛ"
+        "label": "Adwene a ɛba akyiri yi"
       }
     ],
-    "specificHtml": "Worehwehwɛ biribi pɔtee bi? Bɔ mmɔden <a href=\"/activities/alzheimers/\">dwumadi ne agodie a wɔde yɛ Alzheimer yare</a>, <a href=\"/activities/memory-games/\">brɛoo nkaeɛ agodie</a>, <a href=\"/activities/trivia/\">nsɛm nketenkete a ɛnyɛ den</a> anaasɛ <a href=\"/activities/puzzles/\">ahodwiriwde ahorow</a>.",
+    "specificHtml": "Worehwehwɛ biribi pɔtee bi? Bɔ mmɔden <a href=\"/activities/alzheimers/\">dwumadi ne agodie a wɔde ma Alzheimer yare</a>, . <a href=\"/activities/memory-games/\">agodie a wɔde kae ade brɛoo</a>, . <a href=\"/activities/trivia/\">nsɛm nketenkete a ɛnyɛ den</a> anaasɛ <a href=\"/activities/puzzles/\">ahodwiriwde ahorow</a>.",
     "approachEyebrow": "Ɔkwan a yɛfa so yɛ saa",
-    "approachTitle": "Dwumadie a wɔkyɛ, ɛnyɛ nkaeɛ sɔhwɛ",
+    "approachTitle": "Dwumadi a wɔkyɛ, ɛnyɛ sɔhwɛ a wɔde kae ade",
     "approachLede": "Wɔde “amemene mu agodie” pii asi ahoɔhare, nkontabuo ne streaks so. Wɔ obi a ɔte adwenemhaw a ebetumi ate nka sɛ sɔhwɛ. Yɛkyekyee nea ɛne no bɔ abira.",
     "approachLink": "Nea enti a yɛyɛ no saa kwan yi so",
     "principles": [
       {
         "icon": "heart",
-        "title": "Biribiara nni hɔ a ɛbɛdi nkoguo",
+        "title": "Biribiara nni hɔ a ebetumi adi nkogu",
         "text": "Dɔn biara, nkontabuo, nkwa anaasɛ ɔhweree biara nni hɔ. Mfonini foforo yɛ home a wogyina, na ɛnyɛ mfomso."
       },
       {
@@ -141,17 +142,17 @@
       },
       {
         "icon": "people",
-        "title": "Mpanyimfo ne nidi",
+        "title": "Mpanyimfo na wɔwɔ nidi",
         "text": "Nsɛmfua a ɛyɛ hyew na emu da hɔ ne mfonini ahorow a ɛwɔ wiase ankasa. Mfa cartoons anaa nkokoaa kasa da."
       },
       {
         "icon": "shield",
-        "title": "Private denam nhyehyɛe so",
+        "title": "Private denam adwini so",
         "text": "Akontaabu anaa dawurubɔ biara nni hɔ. Wo mfonini ahorow no mfi wo mfiri no mu da."
       }
     ],
-    "guidesEyebrow": "Wɔn a wɔhwɛ wɔn",
-    "guidesTitle": "Akwankyerɛ a mfaso wɔ so ma da biara da hwɛ",
+    "guidesEyebrow": "Wɔ wɔn a wɔhwɛ wɔn no fam",
+    "guidesTitle": "Akwankyerɛ a mfaso wɔ so a ɛfa da biara da hwɛ ho",
     "allCaregiving": "Ɔhwɛ akwankyerɛfo nyinaa",
     "guides": [
       {
@@ -161,23 +162,23 @@
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "Sɛ wɔka sɛ dabi wɔ dwumadi bi ho a",
+        "title": "Bere a wɔka sɛ dabi wɔ dwumadi bi ho no",
         "text": "Nneɛma a wɔtaa fa so pow, ne akwan a ɛyɛ brɛoo a wɔfa so sɔ hwɛ bio akyiri yi."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Tablet a wɔde besisi hɔ",
+        "title": "Tablet a wobɛhyehyɛ",
         "text": "Nsɛm akɛse, ntwitwiridii kakraa bi ne home screen biako a ɛnyɛ den."
       },
       {
         "href": "/activities/printable/",
-        "title": "Dwumadi ahorow a wotumi tintim kwa",
+        "title": "Dwumadi ahorow a wotumi tintim a wontua hwee",
         "text": "Nsɛmfua a wɔakyerɛw no akɛse, nkratafa a wɔde kɔla ayɛ, bingo ne nkɔmmɔbɔ nkrataa."
       }
     ],
     "researchTitle": "Amemene akwahosan: nea nhwehwɛmu no ka ankasa",
     "researchText": "So wobetumi asiw adwenemhaw ano? So amemene mu agodie boa? Na mmuadadi, aduan a wodi, nna ne aso nso ɛ? Mmuae a emu da hɔ a wonya fi mmeae ahorow, a baabi a adanse no yɛ mmerɛw ka ho.",
-    "researchLink": "Kenkan nhwehwɛmu akwankyerɛ ahorow",
+    "researchLink": "Kenkan nhwehwɛmu akwankyerɛ ahorow no",
     "appEyebrow": "Afei nso app bi",
     "appTitle": "Sikakɔkɔɔ Bere wɔ iPhone, iPad ne Android so",
     "appText": "App a wontua hwee no yɛ adwuma wɔ offline na ebetumi de abusua mfonini a wopɛ adi dwuma, a wode asie sɛ mfonini wɔ wo mfiri so. Saa ara na adwini a ɛyɛ komm: tile akɛse anan, bere kyerɛwtohɔ biara nni hɔ, nkontaahyɛde biara nni hɔ.",
@@ -215,18 +216,18 @@
   },
   "stage": {
     "early": "ntɛm",
-    "middle": "mfinimfini",
-    "late": "akyiri yi",
-    "hintOne": "Mpɛn pii no ɛfata {list} stage",
-    "hintMany": "Mpɛn pii no ɛfata {list} stages",
-    "labelEarly": "Mfiase no",
+    "middle": "mfimfini",
+    "late": "akyire",
+    "hintOne": "Mpɛn pii no, ɛfata {list} prama",
+    "hintMany": "Mpɛn pii no, ɛfata {list} stages ahorow",
+    "labelEarly": "Mfiase",
     "labelMiddle": "Mfinimfini gyinabea",
     "labelLate": "Akyiri yi fã"
   },
   "cards": {
     "aboutGame": "Ɛfa saa agodie yi ho",
     "printable": "Wobetumi atintim",
-    "play": "Di agorɔ {name} →",
+    "play": "Bɔ {name} →",
     "readGuide": "Kenkan akwankyerɛ no"
   },
   "playCta": {
@@ -237,79 +238,79 @@
     "aria": "Di agoru bi"
   },
   "appCta": {
-    "title": "Fa saa agodie yi ka wo ho",
+    "title": "Fa saa agodie ahorow yi ka wo ho",
     "text": "Golden Moments app a wontua hwee ma iPhone, iPad ne Android: mfonini tiles akɛse, agodie a w’ankasa w’abusua mfonini wom, ne mfonini pack a ɛyɛ adwuma a Wi‐Fi nni mu. Akontaabu, dawurubɔ, bere nhyehyɛe anaa nkontaahyɛde biara nni hɔ.",
-    "appStore": "Nya no wɔ App Store",
+    "appStore": "Nya no wɔ App Store no so",
     "googlePlay": "Nya no wɔ Google Play so",
-    "appStoreShort": "App Store",
-    "googlePlayShort": "Google Play",
+    "appStoreShort": "App Store a Wɔde Di Dwuma",
+    "googlePlayShort": "Google Play so na ɛyɛ adwuma",
     "about": "Ɛfa app no ​​ho",
-    "aria": "Nya app no ​​"
+    "aria": "Nya app no"
   },
   "sections": {
     "activities": {
       "label": "Dwumadie",
-      "title": "Dwumadie a Nnipa a Wɔwɔ Dementia",
-      "seo": "Dwumadie a Wɔyɛ ma Nnipa a Wɔwɔ Dementia: Adwene a Ɛfa Nneɛma a Ɛfa So",
+      "title": "Dwumadie a Wɔde Ma Nnipa a Wɔwɔ Dementia",
+      "seo": "Dwumadie a Wɔyɛ ma Nnipa a Wɔwɔ Adwene mu Nkateɛ: Adwene a Ɛfa Nneɛma a Ɛfa Nsɛm Ho",
       "description": "Dwumadie ho adwene ma nnipa a wɔte adwenemhaw wɔ mmerɛ biara mu: nnwom, nkaeɛ, da biara da nnwuma, nkateɛ berɛ, nsaanodwuma, abɔnten ne nneɛma a wɔtumi tintim kwa.",
-      "lede": "Dwumadi a ntease wom yɛ biribiara a ɛde awerɛkyekye, atirimpɔw anaa nkitahodi bere tiaa bi ba."
+      "lede": "Dwumadi a ntease wom yɛ biribiara a ɛde awerɛkyekye, atirimpɔw anaa nkitahodi bere tiaa bi ba. Fi ase fi nea onipa no ani gye ho bere nyinaa no so, na sesa ma ɛne nnɛ hyia."
     },
     "caregiving": {
-      "label": "Ɔhwɛfoɔ",
-      "title": "Ɔhwɛ Ho Akwankyerɛfo",
+      "label": "Ɔhwɛ a Wɔhwɛ",
+      "title": "Akwankyerɛ a Ɛfa Ɔhwɛ Ho",
       "seo": "Dementia Caregiving Guides: Mmoa a Ɛyɛ Mfaso a Wɔde Ma Dabiara",
-      "description": "Akwankyerɛ a mfaso wɔ so, a ɛyɛ ayamye ma wɔn a wɔhwɛ adwenemhaw: agodie a wɔbom di, nkitahodi, pow a wɔpow, da a wɔde wɔn ho to wɔn so akyiri yi, tablɛt, app ahorow.",
+      "description": "Akwankyerɛ a mfaso wɔ so, a ɛyɛ ayamye ma wɔn a wɔhwɛ adwenemhaw: agodie a wɔbom di, nkitahodi, pow a wɔpow, da a wɔde wɔn ho to wɔn so akyiri yi, tablɛt, app.",
       "lede": "Mmoa a ɛda adi pefee, a mfaso wɔ so ma da biara da mmere a wode hwɛ obi a ɔwɔ adwenemhaw, a wo ho a wobɛhwɛ ka ho."
     },
     "brain-health": {
-      "label": "Amemene akwahosan",
+      "label": "Amemene mu akwahosan",
       "title": "Amemene Akwahosan: Nea Nhwehwɛmu no Ka",
       "seo": "Amemene Akwahosan ne Adwene mu Asiane: Nea Nhwehwɛmu Ka",
       "description": "So wobetumi asiw adwenemhaw ano? Akwankyerɛ ahorow a ɛyɛ nokware, a wonya fi mmeae ahorow a ɛfa nneɛma a ɛde adwenemhaw ho asiane ba, amemene mu agodie, mmuadadi.",
-      "lede": "Nea nhwehwɛmu akɛse kyerɛ ankasa fa adwenemhaw ho asiane a wɔtew so ho, a wɔakyerɛkyerɛ mu pefee, a baabi a adanse no yɛ mmerɛw anaasɛ adi afra ka ho."
+      "lede": "Nea nhwehwɛmu akɛse kyerɛ ankasa fa adwenemhaw ho asiane a wɔtew so ho, a wɔakyerɛkyerɛ mu pefee, a baabi a adanse no yɛ mmerɛw anaasɛ adi afra ka ho. Nsɛm a ɛfa nneɛma nyinaa ho, ɛnyɛ aduruyɛ mu afotu."
     }
   },
   "guide": {
     "updated": "Wɔayɛ no foforo",
-    "minuteRead": "{n} simma kenkan",
-    "byTeam": "Na Golden Moments kuw no na ɛyɛe",
+    "minuteRead": "{n} simma akenkan",
+    "byTeam": "Golden Moments kuw no na ɛyɛe",
     "howWeWrite": "Sɛnea yɛkyerɛw",
     "shortAnswer": "Mmuae tiawa no",
-    "onThisPage": "Wɔ krataafa yi so ({n} afã horow)",
+    "onThisPage": "Wɔ kratafa yi so ({n} afã horow) .",
     "commonQuestions": "Nsɛmmisa a wɔtaa bisa",
     "sources": "Nneɛma a wonya fi mu",
     "sourcesNote": "Yɛde link kɔ ahyehyɛde ahorow ne adesua ahorow a krataafa yi de ne ho to so no so. Wɔhwɛɛ emu biara bere a wɔyɛɛ kratafa no foforo no.",
-    "tryTogether": "Mommɔ mmɔden bom",
-    "relatedGuides": "Akwankyerɛ a ɛfa ho",
-    "related": "Nea ɛfa ho",
+    "tryTogether": "Mommɔ mmɔden bɔ mmɔden",
+    "relatedGuides": "Akwankyerɛ ahorow a ɛfa ho",
+    "related": "Fa ho",
     "startHere": "Fi ase wɔ ha"
   },
   "healthNotice": {
     "aria": "Akwahosan ho nsɛm ho amanneɛbɔ",
-    "title": "Nsɛm a ɛfa biribiara ho, ɛnyɛ aduruyɛ ho afotu",
-    "textHtml": "Kratafa yi bɔ nhwehwɛmu a wɔatintim ama mmusua no mua. Ɛrentumi nkyerɛ wo nea ɛfata ma onipa biako. Wo ne oduruyɛfo nkasa ansa na woasesa aduan, apɔw-mu-teɛteɛ, nna, nnuru anaa nnuru a wɔde ka aduan ho. Sɛ wopɛ adwenem naayɛ mpofirim anaa nsakrae foforo a ɛba mpofirim a, nya aduruyɛ mu mmoa ntɛm ara. <a href=\"/medical-disclaimer/\">Kenkan yɛn akwahosan ho nsɛm ho amanneɛbɔ</a>."
+    "title": "Nsɛm a ɛfa nneɛma nyinaa ho, ɛnyɛ aduruyɛ mu afotu",
+    "textHtml": "Kratafa yi bɔ nhwehwɛmu a wɔatintim ama mmusua no mua. Ɛrentumi nkyerɛ wo nea ɛfata ma onipa biako. Wo ne oduruyɛfo nkasa ansa na woasesa aduan, apɔw-mu-teɛteɛ, nna, nnuru anaa nnuru a wɔde ka aduan ho. Sɛ wopɛ adwenem naayɛ mpofirim anaa nsakrae foforo a ɛba mpofirim a, nya aduruyɛ mu mmoa ntɛm ara. <a href=\"/medical-disclaimer/\">Kenkan yɛn akwahosan ho nsɛm ho amanneɛbɔ no</a>."
   },
   "pages": {
     "about": {
-      "title": "Dwumadie a Wɔkyɛ, Ɛnyɛ Nkaeɛ Sɔhwɛ",
-      "seoTitle": "Ɛfa Sika Mmere Ho: Yɛn Ɔkwan",
+      "title": "Dwumadi a Wɔkyɛ, Ɛnyɛ Nkaeɛ Sɔhwɛ",
+      "seoTitle": "Ɛfa Sika Mmere Ho: Yɛn Ɔkwan a Yɛfa so Yɛ",
       "description": "Nea enti a Golden Moments agodie nni timers, scores anaa streaks, nea enti a mfonini ahorow kɔ so kyerɛ, ne nea yɛbɛka ne nea yɛrenka wɔ adwenemhaw ho.",
       "crumb": "Ɔkwan a yɛfa so yɛ saa",
       "lede": "Golden Moments yɛ mpanyimfo mfonini dwumadi ahorow a ɛyɛ komm a ɔhwɛfo ne obi a ɔwɔ adwenemhaw betumi anya mu anigye wɔ nkyɛnkyɛn.",
-      "bodyHtml": "<h2>Nea yegye di</h2><p>Adwene a ɛwɔ dwumadi bi mu ne bere no ankasa: nkɔmmɔbɔ, serew, abotɔyam a ɛwɔ mfonini abien a wɔde bɛka abom, anaasɛ tena bɛn hɔ ara kwa. Ɛnyɛ sɛ wobɛsusu obiara, apia no akɔ akyiri anaasɛ wobɛkyerɛ biribiara.</p><p>Wɔayɛ amemene-ntete apps pii atwa ahoɔhare, nkontabuo, streaks ne levels ho ahyia. Wɔ obi a ɔte adwenemhaw a ebetumi ate nka sɛ sɔhwɛ no fam no, wontumi ntwa mu. Yɛyɛɛ nea ɛne no bɔ abira, na yɛkura yɛn ho mu wɔ saa mmara yi mu:</p><ul><li><strong>Biribiara nni hɔ a ebetumi adi nkogu.</strong> Dɔn biara nni hɔ, nkontaahyɛde, tu counter, nkwa, streaks, confetti anaa countdowns, wɔ screen biara so.</li><li><strong>Recognition sen nkae a wɔkae.</strong> Mfonini ahorow kɔ so da adi sɛnea wɔahyɛ da ayɛ no. Nkannyan to nsa frɛ nkɔmmɔ na bisabisa din anaa nkaeɛ da.</li><li><strong>Kɛse, ɛyɛ petee na ɛyɛ pintinn.</strong> Nsɛm ne mfonini akɛse, nsonsonoe kɛse, ne nneɛma a wɔde di dwuma a ɛtra beae koro.</li><li><strong>Mpanyimfo nidi.</strong> Wiase mfonini ahorow ankasa ne nsɛm a emu da hɔ na ɛyɛ hyew. Cartoon, nnwom-dwom ayeyi anaa emoji akatua biara nni hɔ.</li><li><strong>Ɔkwan a ɛyɛ mmerɛw a wɔfa so fi mu.</strong> “Wɔayɛ mprempren” no da adi bere nyinaa. Gyina fã no yɛ adepa a efi mu ba.</li><li><strong>Private na ɛyɛ nea wɔahyɛ da ayɛ.</strong> Akontaabu anaa dawurubɔ biara nni hɔ. Mfonini ahorow a wopaw no tra wo mfiri no so.</li></ul><h2>Nea yɛnka</h2><p>Yɛn agodie no yɛ anigye ne nkitahodi. Wɔnhwehwɛ adwenemhaw anaa Alzheimer’s yare, nsɔ nhwɛ, nsusuw, nsa, wɔnyɛ brɛoo anaasɛ wonsiw ano, na ɛnsɛ sɛ obiara paw wɔn esiane saa nti. Sɛ yɛkyerɛw nhwehwɛmu fa yɛn <a href=\"/brain-health/\">amemene akwahosan nkratafa</a>, yɛka no pefee wɔ baabi a adanse no yɛ mmerɛw, na yɛmfa bata yɛn ankasa agodie ho da.</p><h2>Hena na yɛyɛ</h2><p>Golden Moments yɛ kuw ketewaa bi a wɔde wɔn ho. Yɛnyɛ ayaresabea adwumayɛfo. Wɔkyerɛw yɛn akwankyerɛ ahorow no fi akwankyerɛ a wɔatintim a ahyehyɛde ahorow te sɛ National Institute on Aging ne Alzheimer’s Association de ama mu, na akwankyerɛ biara kyerɛw nea efi mu ba. Kenkan <a href=\"/editorial-policy/\">sɛnea yɛkyerɛw na yɛhwɛ yɛn nkratafa</a>.</p><h2>Ka nea anka ɛbɛboa kyerɛ yɛn</h2><p>Yɛbɛpɛ sɛ yɛte deɛ ɛyɛ adwuma ma wo ne deɛ ɛnyɛ adwuma, titire no firi nnipa a wɔte adwenemhaw, abusua ahwɛfoɔ ne dwumadiɛ adwumayɛfoɔ hɔ. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "bodyHtml": "<h2>Nea yegye di</h2><p>Adwene a ɛwɔ dwumadi bi mu ne bere no ankasa: nkɔmmɔbɔ, serew, abotɔyam a ɛwɔ mfonini abien a wɔde bɛka abom, anaasɛ tena bɛn hɔ ara kwa. Ɛnyɛ sɛ wobɛsusu obiara, apia no akɔ akyiri anaasɛ wobɛkyerɛ biribiara.</p><p>Wɔayɛ amemene-ntete apps pii atwa ahoɔhare, nkontabuo, streaks ne levels ho ahyia. Wɔ obi a ɔte adwenemhaw a ebetumi ate nka sɛ sɔhwɛ no fam no, wontumi ntwa mu. Yɛyɛɛ nea ɛne eyi bɔ abira, na yɛkura yɛn ho mu wɔ mmara yi mu:</p><ul><li><strong>Biribiara nni hɔ a ebetumi adi nkogu.</strong> Dɔn biara nni hɔ, nkontaahyɛde, tu counter, nkwa, streaks, confetti anaa countdowns, wɔ screen biara so.</li><li><strong>Recognition sen nkae a wɔkae.</strong> Mfonini ahorow kɔ so da adi sɛnea wɔahyɛ da ayɛ no. Nkannyan to nsa frɛ nkɔmmɔ na bisabisa din anaa nkaeɛ da.</li><li><strong>Kɛse, ɛyɛ petee na ɛyɛ pintinn.</strong> Nsɛm ne mfonini akɛse, nsonsonoe kɛse, ne nneɛma a wɔde di dwuma a ɛtra beae koro.</li><li><strong>Mpanyimfo nidi.</strong> Wiase mfonini ahorow ankasa ne nsɛm a emu da hɔ na ɛyɛ hyew. Cartoon, nnwom-dwom ayeyi anaa emoji akatua biara nni hɔ.</li><li><strong>Ɔkwan a ɛyɛ mmerɛw a wɔfa so fi mu.</strong> “Wɔayɛ mprempren” no da adi bere nyinaa. Gyina fã no yɛ adepa a efi mu ba.</li><li><strong>Private na ɛyɛ nea wɔahyɛ da ayɛ.</strong> Akontaabu anaa dawurubɔ biara nni hɔ. Mfonini ahorow a wopaw no tra wo mfiri no so.</li></ul><h2>Nea yɛnka</h2><p>Yɛn agodie no yɛ anigye ne nkitahodi. Wɔnhwehwɛ adwenemhaw anaa Alzheimer’s yare, nsɔ nhwɛ, nsusuw, nsa, wɔnyɛ brɛoo anaasɛ wonsiw ano, na ɛnsɛ sɛ obiara paw wɔn esiane saa nti. Sɛ yɛkyerɛw nhwehwɛmu a wɔayɛ wɔ yɛn <a href=\"/brain-health/\">amemene akwahosan ho nkratafa</a>, yɛka no pefee wɔ baabi a adanse no yɛ mmerɛw, na yɛmfa bata yɛn ankasa agodie ho da.</p><h2>Nnipa ko a yɛyɛ</h2><p>Golden Moments yɛ kuw ketewaa bi a wɔde wɔn ho. Yɛnyɛ ayaresabea adwumayɛfo. Wɔkyerɛw yɛn akwankyerɛ ahorow no fi akwankyerɛ a wɔatintim a ahyehyɛde ahorow te sɛ National Institute on Aging ne Alzheimer’s Association de ama mu, na akwankyerɛ biara kyerɛw nea efi mu ba. Kan <a href=\"/editorial-policy/\">sɛnea yɛkyerɛw na yɛhwɛ yɛn nkratafa mu</a>.</p><h2>Ka nea anka ɛbɛboa kyerɛ yɛn</h2><p>Yɛbɛpɛ sɛ yɛte deɛ ɛyɛ adwuma ma wo ne deɛ ɛnyɛ adwuma, titire no firi nnipa a wɔte adwenemhaw, abusua ahwɛfoɔ ne dwumadiɛ adwumayɛfoɔ hɔ. Email a wɔde mena <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
       "title": "Sɛnea Yɛkyerɛw Na Yɛhwɛ Yɛn Nkratafa",
       "seoTitle": "Nsɛmma Nhoma Ho Nhyehyɛe",
       "description": "Sɛnea Golden Moments yɛ nhwehwɛmu, kyerɛw, nya fibea na ɛyɛ ne adwenemhaw dwumadi ne amemene akwahosan nkratafa foforo, ne nea yɛrentintim da.",
       "crumb": "Editorial nhyehyɛe",
-      "bodyHtml": "<h2>Yɛn fibea ahorow</h2><p>Yɛde yɛn akwankyerɛ ahorow no gyina ɔmanfo akwankyerɛ a efi ahyehyɛde ahorow te sɛ National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ne NHS hɔ, ne nhwehwɛmu a atipɛnfo ahwɛ mu te sɛ Cochrane nhwehwɛmu ne ayaresabea sɔhwɛ akɛse so. Akwankyerɛ biara kyerɛw fibea ahorow a ɛde ne ho to so. Yɛbue fibea biara ansa na yɛafa asɛm aka, na yɛbɔ nea ɛka ankasa nkutoo ho amanneɛ.</p><h2>Sɛnea yɛkyerɛw</h2><ul><li>Nea edi kan a mfaso wɔ so: nea ɛsɛ sɛ woyɛ nnɛ, wɔ kasa a emu da hɔ mu.</li><li>Nokwaredi wɔ adanse ho: yɛka sɛ “ɛne”, “ebia” ne “adanse no adi afra” bere a ɛno ne nokware no.</li><li>Obu: yɛkyerɛw nnipa a wɔte adwenemhaw bere a wɔanyinyin ho asɛm, na yɛmfa nsɛmmisa anaa aniwu kasa nni dwuma da.</li><li>Nsɛm biara a wɔayɛ: akontaabu a wɔayɛ, nsɛm a wɔafa aka, abenfo, nhwehwɛmu, nhwehwɛmu anaa adansedi biara nni hɔ.</li></ul><h2>Hena na ɔhwɛ yɛn nkratafa so</h2><p>Golden Moments kuw no na wɔkyerɛw nkratafa na wɔhwɛ mu, a mmoa fi AI nkyerɛwee nnwinnade a wɔde yɛ nhwehwɛmu ne nkyerɛwee mu. Kuw no na ɛhwɛ kratafa biara mu hwɛ sɛnea efi fibea ahorow te. Yɛn nkratafa no wɔ <strong>ɛnyɛ</strong> oduruyɛfo anaa oduruyɛfo foforo ahwɛ mu, na yɛnka sɛ ɛnte saa. Wɔyɛ nsɛm a ɛfa nneɛma nyinaa ho, na ɛnyɛ aduruyɛ mu afotu.</p><h2>Nea yɛrentintim da</h2><ul><li>Wɔkyerɛ sɛ agodie, aduan, aduan a wɔde ka aduan ho, ntɛmntɛm anaa nea wɔyɛ no daa siw adwenemhaw ano, sa, brɛ ase anaasɛ ɛsa.</li><li>Sɔhwɛ, nsɛmmisa anaa nkontabuo a ɛkyerɛ sɛ obi wɔ, anaasɛ onni adwenemhaw.</li><li>Afotu a wode fi ase, gyae anaa sesa aduru biara.</li><li>Dawurubɔ anaa nneɛma a wɔboa a wɔayɛ wɔn ho sɛ akwankyerɛ.</li></ul><h2>Nsɛm foforo ne nteɛso</h2><p>Kratafa biara kyerɛ da a etwa to a wɔyɛɛ no ​​foforo. Sɛ wohu mfomsoɔ anaa fibea a ne bere atwam a, yɛsrɛ wo email <a href=\"mailto:{email}\">{email}</a> na yɛbɛhwɛ mu ntɛm ara.</p>"
+      "bodyHtml": "<h2>Yɛn fibea ahorow</h2><p>Yɛde yɛn akwankyerɛ ahorow no gyina ɔmanfo akwankyerɛ a efi ahyehyɛde ahorow te sɛ National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ne NHS hɔ, ne nhwehwɛmu a atipɛnfo ahwɛ mu te sɛ Cochrane nhwehwɛmu ne ayaresabea sɔhwɛ akɛse so. Akwankyerɛ biara kyerɛw fibea ahorow a ɛde ne ho to so. Yɛbue fibea biara ansa na yɛafa asɛm aka, na yɛbɔ nea ɛka ankasa nkutoo ho amanneɛ.</p><h2>Sɛnea yɛkyerɛw</h2><ul><li>Nea edi kan a mfaso wɔ so: nea ɛsɛ sɛ woyɛ nnɛ, wɔ kasa a emu da hɔ mu.</li><li>Nokwaredi wɔ adanse ho: yɛka sɛ “ɛne”, “ebia” ne “adanse no adi afra” bere a ɛno ne nokware no.</li><li>Obu: yɛkyerɛw nnipa a wɔte adwenemhaw bere a wɔanyinyin ho asɛm, na yɛmfa nsɛmmisa anaa aniwu kasa nni dwuma da.</li><li>Nsɛm biara a wɔayɛ: akontaabu a wɔayɛ, nsɛm a wɔafa aka, abenfo, nhwehwɛmu, nhwehwɛmu anaa adansedi biara nni hɔ.</li></ul><h2>Hena na ɔhwɛ yɛn nkratafa ahorow no mu</h2><p>Golden Moments kuw no na wɔkyerɛw nkratafa na wɔhwɛ mu, a mmoa fi AI nkyerɛwee nnwinnade a wɔde yɛ nhwehwɛmu ne nkyerɛwee mu. Kuw no na ɛhwɛ kratafa biara mu hwɛ sɛnea efi fibea ahorow te. Yɛn nkratafa no wɔ <strong>n</strong> oduruyɛfo anaa oduruyɛfo foforo ahwɛ mu, na yɛnka sɛ ɛnte saa. Wɔyɛ nsɛm a ɛfa nneɛma nyinaa ho, na ɛnyɛ aduruyɛ mu afotu.</p><h2>Nea yɛrentintim da</h2><ul><li>Wɔkyerɛ sɛ agodie, aduan, aduan a wɔde ka aduan ho, ntɛmntɛm anaa nea wɔyɛ no daa siw adwenemhaw ano, sa, brɛ ase anaasɛ ɛsa.</li><li>Sɔhwɛ, nsɛmmisa anaa nkontabuo a ɛkyerɛ sɛ obi wɔ, anaasɛ onni adwenemhaw.</li><li>Afotu a wode fi ase, gyae anaa sesa aduru biara.</li><li>Dawurubɔ anaa nneɛma a wɔboa a wɔayɛ wɔn ho sɛ akwankyerɛ.</li></ul><h2>Nsɛm foforo ne nteɛso</h2><p>Kratafa biara kyerɛ da a etwa to a wɔyɛɛ no ​​foforo. Sɛ wuhu mfomso anaasɛ fibea bi a ne bere atwam a, yɛsrɛ wo fa email mena <a href=\"mailto:{email}\">{email}</a> na yɛbɛhwɛ mu ntɛm ara.</p>"
     },
     "faq": {
       "title": "Nsɛmmisa ne Mmuae",
       "seoTitle": "Dementia Agodie ne Dwumadie: Nsɛmmisa ne Mmuaeɛ",
       "description": "Nsɛmmisa a wɔtaa bisa fa adwenemhaw agodie ne dwumadi ahorow ho mmuae: agodie bɛn na ɛsɛ sɛ wosɔ hwɛ, bere tenten a ɛsɛ sɛ wodi, adwene a ɛba akyiri yi, amemene.",
-      "crumb": "Nsɛmmisa ne mmuaeɛ",
+      "crumb": "Nsɛmmisa ne mmuae",
       "lede": "Nsɛmmisa a wɔn a wɔhwɛ wɔn no bisa kɛse no ho mmuae ntiantiaa a emu da hɔ.",
       "groups": [
         {
@@ -340,7 +341,7 @@
         },
         {
           "id": "activities",
-          "title": "Dwumadie ne ɔhwɛ",
+          "title": "Dwumadi ahorow ne ɔhwɛ",
           "items": [
             {
               "q": "Bere tenten ahe na ɛsɛ sɛ dwumadi bi di?",
@@ -362,7 +363,7 @@
         },
         {
           "id": "health",
-          "title": "Amemene akwahosan",
+          "title": "Amemene mu akwahosan",
           "items": [
             {
               "q": "So agodie betumi asiw adwenemhaw ano anaasɛ ɛbɛma ayɛ brɛoo?",
@@ -393,7 +394,7 @@
           ]
         }
       ],
-      "moreHtml": "Nsɛm pii a ɛkɔ akyiri: <a href=\"/caregiving/how-to-play-together/\">sɛnea wɔbom di agoru</a>, <a href=\"/caregiving/when-they-say-no/\">bere a wɔka sɛ dabi</a>, <a href=\"/activities/late-stage/\">dwumadi ahorow a ɛba akyiri yi</a> ne <a href=\"/brain-health/can-dementia-be-prevented/\">so wobetumi asiw adwenemhaw ano?</a>"
+      "moreHtml": "Nsɛm pii a ɛkɔ akyiri: <a href=\"/caregiving/how-to-play-together/\">sɛnea wɔbom di agoru</a>, . <a href=\"/caregiving/when-they-say-no/\">bere a wɔka sɛ dabi no</a>, . <a href=\"/activities/late-stage/\">dwumadi ahorow a ɛba akyiri yi</a> ne <a href=\"/brain-health/can-dementia-be-prevented/\">so wobetumi asiw adwenemhaw ano?</a>"
     },
     "handout": {
       "title": "Agodie a Ɛyɛ Dwo a Wɔde Ma Nnipa a Wɔte Ase a Wɔte Ase",
@@ -410,43 +411,43 @@
       "seoTitle": "Dementia Dwumadi a Wontua hwee ma Ayarehwɛ Afie ne Akuw",
       "description": "Sɛnea afie a wɔhwɛ wɔn, mpanyimfo da nhyehyɛe, nhomakorabea ahorow, nnwumakuw a wɔn mfe akɔ anim ne akuw a wɔboa de yɛn adwenemhaw agodie a wontua hwee di dwuma, ne.",
       "crumb": "Wɔ ahyehyɛde ahorow fam",
-      "lede": "Biribiara a ɛwɔ saa wɛbsaet yi so no yɛ nea wontua hwee sɛ wode bedi dwuma ama wɔn a wɔte hɔ, asɔremma ne wɔn a wɔkra nneɛma, a wontua akontaabu, tumi krataa anaa.",
+      "lede": "Biribiara a ɛwɔ saa wɛbsaet yi so no yɛ nea wontua hwee sɛ wode bedi dwuma ama wɔn a wɔte hɔ, asɔremma ne wɔn a wɔkra nneɛma, a wontua akontaabu, tumi krataa anaa sika biara. Kratafa yi kyerɛkyerɛ nea ɛwɔ ha ne sɛnea wɔbɛkyɛ mu.",
       "shortText": "{name}: mfonini agodie a ɛyɛ brɛoo ne dwumadi akwankyerɛ a wontua hwee ma nnipa a wɔwɔ adwenemhaw ne wɔn a wɔhwɛ wɔn. Wɔnkyerɛw wɔn din, bere a wɔde yɛ adwuma, nkontaahyɛde biara nni hɔ.",
       "longText": "{name} ({domain}) de ma {count} browser agodie a wontua hwee a wɔayɛ ama nnipa a wɔwɔ adwenemhaw, a nea ɛka ho ne baanu baanu a wɔde mfonini a wɔagyaw akyerɛ, jigsaw a ɛnyɛ den, nhyehyɛe, nsɛm a wonim ne mfonini bingo a wɔde nkrataa a wotumi tintim ka ho. Akontaabu, dawurubɔ, bere nhyehyɛe anaa nkontaahyɛde biara nni hɔ. Beae no nso wɔ dwumadi ho akwankyerɛ ahorow a wɔde kasa a emu da hɔ ma adwenemhaw no fã biara a ɛfa Ɔman Asoɛe a Ɛhwɛ Mpanyinyɛ So ne Alzheimer Fekuw no asɛm ka.",
       "useTitle": "Nea ahyehyɛde ahorow betumi de adi dwuma",
       "gamesItemHtml": "<strong>{count} browser agodie ahorow</strong> a ɛyɛ adwuma wɔ laptop, tablet anaa TV a wɔde abɔ kɔmputa so. Install, account anaa download biara nni hɔ. Hwɛ <a href=\"/games/\">agodie nyinaa</a>.",
       "printablesLabel": "{count} nneɛma a wotumi tintim:",
       "printablesAfter": "Fa Print button a ɛwɔ kratafa biara so no di dwuma.",
-      "moreItemsHtml": "<li><strong>Kuw nhyehyɛe ahorow:</strong> <a href=\"/games/picture-bingo/\">Mfonini bingo</a> wɔ nkrataa a wotumi tintim ne obi a ɔfrɛ wɔ screen so, na <a href=\"/activities/trivia/\">nsɛm nketenkete a ɛnyɛ den</a> wɔ nsɛmmisa 50 a mmuae a wobetumi apaw ne nsɛm a wɔde bɛkasa.</li><li><strong>Dwumadi ho akwankyerɛ nhoma</strong> ma adwumayɛfo ne mmusua, sɛnea wɔyɛ no fã ne ɔkwan a wɔfa so kyerɛw, a wɔde kasa a emu da hɔ akyerɛw ne fibea ahorow. Fi ase wɔ <a href=\"/activities/ideas/\">101 dwumadi ho adwene</a> anaasɛ <a href=\"/activities/care-home-groups/\">kuw dwumadi ahorow a ɛfa afie a wɔhwɛ wɔn ho</a>.</li>",
-      "restHtml": "<h2>Sɛnea akuw ahorow de di dwuma</h2><ul><li><strong>Afie a wɔhwɛ wɔn ne wɔn a wɔhwɛ wɔn a wɔkae:</strong> fa bingo anaa asɛm a wɔka no wie ho mfonini wɔ TV a ɛwɔ dan a nnipa pii te so no so, na obiako rebɔ bɔɔl ama kuw no.</li><li><strong>Mpanyimfo da nhyehyɛe ahorow:</strong> tablet station a Mfonini abien abien a wɔde ahyɛ tiles anan so, ma nhyiam ntiantiaa a wɔyɛ biako ne biako.</li><li><strong>Ɔmanfo nhomakorabea ahorow:</strong> nsɛmfua hwehwɛ ne nkɔmmɔbɔ nkrataa a wɔatintim wɔ memory kits mu, ne wɛbsaet a wɔde bookmark ahyɛ nhomakorabea tablɛt so.</li><li><strong>Ɔhwɛfoɔ mmoa akuo ne nkaeɛ cafés:</strong> a <a href=\"/handout/\">Kratafa biako krataa a wotumi tintim</a> ama mmusua de akɔ fie.</li><li><strong>Ayaresabea ne wɔn a wɔyɛ nhyehyɛe a wɔde yi nkurɔfo:</strong> krataa a wɔde ma wɔ ɔhwɛfo packets mu, ma biribi a ɛyɛ komm a wɔbɛyɛ wɔ fie anaa mpa ho.</li></ul><h2>Nea yɛnyɛ</h2><p>Agodie no yɛ anigye ne bere a wɔbom nya. Wɔnhu, wɔnsɔ nhwɛ, wɔnnya nkontabuo, wɔnsa anaasɛ wɔnnyɛ brɛoo, na yɛsrɛ ahyehyɛdeɛ sɛ wɔnnkyerɛkyerɛ mu saa. Dawurubɔ biara nni hɔ, na agodie ahorow no mmisa din, akwahosan ho nsɛm anaa mfonini ahorow a wɔde bɛto so. Wɛbsaet no de Google Analytics di dwuma de kan nsrahwɛ; yɛn <a href=\"/privacy/\">kokoam nsɛm ho amanneɛbɔ</a> kyerɛkyerɛ nea ɛno boaboa ano mu. Mfonini ahorow a wɔde dii dwuma wɔ <a href=\"/games/photo-pairs/\">Mfonini abien abien</a> tra browser no mu.</p><h2>Fa yɛn ka wo nneɛma a wode bɛyɛ adwuma no ho</h2><p>Sɛ wode nneɛma a wɔde bɛma wɔn a wɔhwɛ wɔn no din sie a, wɔma wo akwaaba sɛ wobɛfa link akɔ <a href=\"/\">{domain}</a>. Wubetumi ayɛ nkyerɛkyerɛmu abien no mu biara ho mfonini.</p>",
+      "moreItemsHtml": "<li><strong>Kuw nhyehyɛe ahorow:</strong> <a href=\"/games/picture-bingo/\">Mfonini bingo</a> wɔ nkrataa a wotumi tintim ne obi a ɔfrɛ wɔ screen so, na <a href=\"/activities/trivia/\">nsɛm nketenkete a ɛnyɛ den</a> wɔ nsɛmmisa 50 a mmuae a wobetumi apaw ne nsɛm a wɔde bɛkasa.</li><li><strong>Dwumadi ho akwankyerɛ nhoma</strong> ma adwumayɛfo ne mmusua, sɛnea wɔyɛ no fã ne ɔkwan a wɔfa so kyerɛw, a wɔde kasa a emu da hɔ akyerɛw ne fibea ahorow. Fi ase fi ase <a href=\"/activities/ideas/\">101 dwumadi ho adwene</a> anaasɛ <a href=\"/activities/care-home-groups/\">kuw dwumadi ahorow a wɔyɛ ma afie a wɔhwɛ wɔn</a>.</li>",
+      "restHtml": "<h2>Sɛnea akuw ahorow de di dwuma</h2><ul><li><strong>Afie a wɔhwɛ wɔn ne wɔn a wɔhwɛ wɔn a wɔkae:</strong> fa bingo anaa asɛm a wɔka no wie ho mfonini wɔ TV a ɛwɔ dan a nnipa pii te so no so, na obiako rebɔ bɔɔl ama kuw no.</li><li><strong>Mpanyimfo da dwumadi ahorow:</strong> tablet station a Mfonini abien abien a wɔde ahyɛ tiles anan so, ma nhyiam ntiantiaa a wɔyɛ biako ne biako.</li><li><strong>Ɔmanfo nhomakorabea ahorow:</strong> nsɛmfua hwehwɛ ne nkɔmmɔbɔ nkrataa a wɔatintim wɔ memory kits mu, ne wɛbsaet a wɔde bookmark ahyɛ nhomakorabea tablɛt so.</li><li><strong>Akuw a wɔboa wɔn a wɔhwɛ wɔn ne nkae cafés:</strong> bi <a href=\"/handout/\">krataa a wɔde kyekyɛ a ekura kratafa biako a wotumi tintim</a> ama mmusua de akɔ fie.</li><li><strong>Ayaresabea ahorow ne wɔn a wɔyɛ nhyehyɛe sɛ wobeyi obi afi ayaresabea:</strong> krataa a wɔde ma wɔ ɔhwɛfo packets mu, ma biribi a ɛyɛ komm a wɔbɛyɛ wɔ fie anaa mpa ho.</li></ul><h2>Nea yɛnyɛ</h2><p>Agodie no yɛ anigye ne bere a wɔbom nya. Wɔnhu, wɔnsɔ nhwɛ, wɔnnya nkontabuo, wɔnsa anaasɛ wɔnnyɛ brɛoo, na yɛsrɛ ahyehyɛdeɛ sɛ wɔnnkyerɛkyerɛ mu saa. Dawurubɔ biara nni hɔ, na agodie ahorow no mmisa din, akwahosan ho nsɛm anaa mfonini ahorow a wɔde bɛto so. Wɛbsaet no de Google Analytics di dwuma de kan nsrahwɛ; yɛn <a href=\"/privacy/\">kokoam nsɛm ho amanneɛbɔ</a> kyerɛkyerɛ nea ɛno boaboa ano mu. Mfonini ahorow a wɔde dii dwuma wɔ <a href=\"/games/photo-pairs/\">Mfonini ahorow abien abien</a> tra browser no mu.</p><h2>Fa yɛn ka wo nneɛma a wode bɛyɛ adwuma no ho</h2><p>Sɛ wode nneɛma a wɔde bɛma wɔn a wɔhwɛ wɔn no din sie a, wɔma wo akwaaba sɛ wobɛka ho <a href=\"/\">{domain}</a>. Wubetumi ayɛ nkyerɛkyerɛmu abien no mu biara ho mfonini.</p>",
       "shortTitle": "Nkyerɛkyerɛmu tiawa",
-      "longTitle": "Nkyerɛkyerɛmu tenten",
-      "linksHtml": "<p>Nkratafa a mfaso wɔ so a wode bɛka ho tẽẽ: <a href=\"/games/\">agodie a wontua hwee</a>, <a href=\"/activities/printable/\">nneɛma a wotumi tintim a wontua hwee</a>, <a href=\"/activities/alzheimers/\">dwumadi ahorow a ɛfa Alzheimer yare ho</a> ne <a href=\"/caregiving/how-to-play-together/\">sɛnea wɔbom di agoru</a>.</p><h2>Nsɛmmisa anaa nteɛso</h2><p>Sɛ biribi a ɛwɔ sait no so no nyɛ papa anaasɛ emu nna hɔ, anaasɛ nea ɔte ha no ntumi nni ɔtefo bi ahiade ho dwuma a, yɛsrɛ wo ka kyerɛ yɛn wɔ <a href=\"mailto:{email}\">{email}</a>. Yɛsrɛ sɛ mfa w’ankasa anaa akwahosan ho nsɛm a ɛfa wɔn a wɔte hɔ anaa wɔn a wɔkra nneɛma ho nkɔma.</p>"
+      "longTitle": "Nkyerɛkyerɛmu a ɛware",
+      "linksHtml": "<p>Nkratafa a mfaso wɔ so a wode bɛka ho tẽẽ: <a href=\"/games/\">agodie a wontua hwee</a>, . <a href=\"/activities/printable/\">nneɛma a wotumi tintim a wontua hwee</a>, . <a href=\"/activities/alzheimers/\">dwumadi ahorow a wɔyɛ ma Alzheimer yare</a> ne <a href=\"/caregiving/how-to-play-together/\">sɛnea wɔbom di agoru</a>.</p><h2>Nsɛmmisa anaa nteɛso</h2><p>Sɛ biribi a ɛwɔ site no so no nyɛ papa anaasɛ emu nna hɔ, anaasɛ nea ɛwɔ ha no ntumi nni ɔtefo bi ahiade ho dwuma a, yɛsrɛ wo ka kyerɛ yɛn wɔ <a href=\"mailto:{email}\">{email}</a>. Yɛsrɛ sɛ mfa w’ankasa anaa akwahosan ho nsɛm a ɛfa wɔn a wɔte hɔ anaa wɔn a wɔkra nneɛma ho nkɔma.</p>"
     },
     "app": {
       "title": "Sikakɔkɔɔ Bere App",
       "seoTitle": "Sikakɔkɔɔ Mmere App a ɛwɔ iPhone ne Android so",
-      "description": "Golden Moments app a wontua hwee: mfonini a ɛyɛ brɛoo a ɛne tiles akɛse anan hyia, abusua mfonini a wɔde sie wo mfiri so, mfonini packs a ɛwɔ intanɛt so na akontaabu.",
-      "crumb": "Na app no ​​",
+      "description": "Golden Moments app a wontua hwee: mfonini a ɛyɛ brɛoo a ɛne tiles akɛse anan hyia, abusua mfonini a wɔde sie wo mfiri so, mfonini packs a ɛwɔ intanɛt so na.",
+      "crumb": "App no",
       "lede": "Biribiara a w’ani gye ho wɔ wɛbsaet no ho, wɔ app a ɛyɛ adwuma wɔ offline na ebetumi de abusua mfonini a wopaw adi dwuma mu.",
-      "worksOn": "Adwuma wɔ {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Fi ase ketewaa bi</h2><p>Fa nnua akɛse anan ne mfonini ahorow a wonim no yiye fi ase. Ma mfonini ahorow nhu, anaasɛ fa sie bere a ɛno yɛ wo dɛ no. Gentle mode nni timer, score anaa penalty biara. Paw tile 4, 6, 8 anaa 12.</p><h2>Ma ɛnyɛ ankorankoro</h2><p>Fa wo device’s photo picker paw abusua mfonini. App no ​​sie nketewa ma ne dwumadi ahorow. Ɛnhwehwɛ wo nhomakorabea hɔ anaasɛ ɛnsesa wo mfitiase mfonini ahorow no, na ɛkora mfonini ahorow a ɛkɔ soro kodu 24 wɔ nhoma biako mu.</p><h2>Hwɛ bom kɛkɛ</h2><p>Hwɛ mfonini biako biara. Nsɛm a wɔka kyerɛ obi a wopɛ no to nsa frɛ nkɔmmɔbɔ a ɛnka nkyerɛ obiara sɛ ɔnkae din anaasɛ ɔmma mmuae a ɛteɛ. Sɛ wohwɛ kɛkɛ a, ɛdɔɔso.</p><h2>Offline baabi a ɛho hia</h2><p>Starter mfonini ne mfonini pack awotwe no nyinaa ka app no ​​ho. Mfonini ahorow a wɔde aba no yɛ adwuma wɔ intanɛt so. Sɛ wopaw mfitiase de a wɔde asie iCloud nkutoo mu a, ebia ebehia intanɛt nkitahodi.</p><h2>Akontaabu biara nni hɔ, mfonini-sync server biara nni hɔ</h2><p>Abusua mfonini ahorow tra app no ​​mu wɔ afiri no so. Wubetumi ayi mfonini ahorow no afi hɔ a wompopa mfitiase de no. Ebia app data bɛka device backups ho. Kenkan nea <a href=\"/app-privacy/\">app kokoam nsɛm ho nhyehyɛe</a>, ne <a href=\"/help/\">app mmoa</a> nantew fa anammɔn biara mu.</p>",
+      "worksOn": "Adwuma wɔ so {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Fi ase ketewaa bi</h2><p>Fa nnua akɛse anan ne mfonini ahorow a wonim no yiye fi ase. Ma mfonini ahorow nhu, anaasɛ fa sie bere a ɛno yɛ wo dɛ no. Gentle mode nni timer, score anaa penalty biara. Paw tile 4, 6, 8 anaa 12.</p><h2>Ma ɛnyɛ ankorankoro de</h2><p>Fa wo device’s photo picker paw abusua mfonini. App no ​​sie nketewa ma ne dwumadi ahorow. Ɛnhwehwɛ wo nhomakorabea hɔ anaasɛ ɛnsesa wo mfitiase mfonini ahorow no, na ɛkora mfonini ahorow a ɛkɔ soro kodu 24 wɔ nhoma biako mu.</p><h2>Hwɛ bom kɛkɛ</h2><p>Hwɛ mfonini biako biara. Nsɛm a wɔka kyerɛ obi a wopɛ no to nsa frɛ nkɔmmɔbɔ a ɛnka nkyerɛ obiara sɛ ɔnkae din anaasɛ ɔmma mmuae a ɛteɛ. Sɛ wohwɛ kɛkɛ a, ɛdɔɔso.</p><h2>Offline baabi a ɛho hia</h2><p>Starter mfonini ne mfonini pack awotwe no nyinaa ka app no ​​ho. Mfonini ahorow a wɔde aba no yɛ adwuma wɔ intanɛt so. Sɛ wopaw mfitiase de a wɔde asie iCloud nkutoo mu a, ebia ebehia intanɛt nkitahodi.</p><h2>Akontaabu biara nni hɔ, mfonini-sync server biara nni hɔ</h2><p>Abusua mfonini ahorow tra app no ​​mu wɔ afiri no so. Wubetumi ayi mfonini ahorow no afi hɔ a wompopa mfitiase de no. Ebia app data bɛka device backups ho. Kenkan asɛm no <a href=\"/app-privacy/\">app no ​​kokoam nsɛm ho nhyehyɛe</a>, ne <a href=\"/help/\">app mmoa</a> nantew fa anammɔn biara mu.</p>",
       "disclaimer": "Golden Moments yɛ ahomegye ne nkɔmmɔbɔ a wɔbom bɔ. Ɛnkyerɛ adwenemhaw anaa Alzheimer’s yareɛ, ɛnsa, nsiw ano anaa ɛnsusu.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Agodie a Wɔde Di Dwuma wɔ Intanɛt So",
-    "description": "Intanɛt so agodie a wontua hwee ma nkwakoraa ne mmerewa a wɔwɔ adwenemhaw anaa Alzheimer’s: mfonini a ɛne ne ho hyia, jigsaws a ɛnyɛ den, nhyehyɛe, nsɛm a wɔka.",
-    "crumb": "Agodie",
+    "title": "Dementia & Alzheimer Agodie a Wɔde Di Dwuma wɔ Intanɛt so a wontua hwee",
+    "description": "Intanɛt so agodie a wontua hwee ma nkwakoraa ne mmerewa a wɔwɔ adwenemhaw anaa Alzheimer’s: mfonini a ɛne ne ho hyia, jigsaws a ɛnyɛ den, nhyehyɛe, nsɛm a.",
+    "crumb": "Agodie a wɔde di agoru",
     "h1": "Agodie a Ɛyɛ Dwo ma Nnipa a Wɔwɔ Dementia",
-    "lede": "{count} agodie a wontua hwee a wobɛbom adi wɔ wo browser no mu. Mfonini akɛse, nsɛmfua a emu da hɔ, na biribiara nni hɔ a ebetumi adi nkogu: bere nhyehyɛe biara nni.",
+    "lede": "{count} agodie a wontua hwee a wobɛbom adi wɔ wo browser no mu. Mfonini akɛse, nsɛmfua a emu da hɔ, na biribiara nni hɔ a ebetumi adi nkogu: bere nhyehyɛe biara nni hɔ, nkontaahyɛde biara nni hɔ, nkyerɛwde biara nni hɔ.",
     "listName": "Agodie a ɛyɛ brɛoo ma nnipa a wɔwɔ adwenemhaw",
-    "byStageTitle": "Agorudi a wɔpaw denam stage so",
+    "byStageTitle": "Agorudi bi a wɔpaw sɛnea wɔyɛ no sɛnea wɔyɛ no",
     "byStageLede": "Stages yɛ akwankyerɛ a ɛyɛ katee kɛkɛ. Di nea onipa no ani gye ho ne nea ɔte nka sɛ ne ho tɔ no nnɛ no akyi.",
-    "stageCol": "Stage",
+    "stageCol": "Prama",
     "gamesCol": "Agodie a ɛtaa fata",
-    "moreHtml": "Adwene pii a ɛwɔ akyirikyiri fi screen no so: <a href=\"/activities/ideas/\">101 dwumadi ahorow ma nnipa a wɔwɔ adwenemhaw</a>, <a href=\"/activities/alzheimers/\">dwumadi ne agodie a wɔde yɛ Alzheimer yare</a>, <a href=\"/activities/memory-games/\">brɛoo nkaeɛ agodie</a> ne <a href=\"/activities/puzzles/\">ahodwiriwde ahorow</a>.",
+    "moreHtml": "Adwene pii a ɛwɔ akyirikyiri fi screen no so: <a href=\"/activities/ideas/\">101 dwumadi ahorow ma nnipa a wɔwɔ adwenemhaw</a>, . <a href=\"/activities/alzheimers/\">dwumadi ne agodie a wɔde ma Alzheimer yare</a>, . <a href=\"/activities/memory-games/\">agodie a wɔde kae ade brɛoo</a> ne <a href=\"/activities/puzzles/\">ahodwiriwde ahorow</a>.",
     "faq": [
       {
         "q": "Agorudi bɛn na ɛsɛ sɛ yɛde fi ase?",
@@ -472,19 +473,19 @@
   },
   "appFacts": {
     "platforms": "iPhone, iPad ne Android",
-    "requirements": "iOS 15 anaa nea ɛba akyiri yi; Android 7.0 anaa nea ɛboro saa",
+    "requirements": "iOS 15 anaa nea ɛba akyiri yi; Android 7.0 anaa nea ɛba akyiri yi",
     "summary": "App a wontua hwee ma iPhone, iPad ne Android a mfonini a ɛne ne ho hyia brɛoo wɔ tiles akɛse anan kosi dumien so, ɛne abusua mfonini a wopaw hyia na ɛhwɛ, ne mfonini pack awotwe a ɛka ho a ɛyɛ adwuma a intanɛt nni mu. Akontaabu, dawurubɔ, bere nhyehyɛe anaa nkontaahyɛde biara nni hɔ.",
     "features": [
-      "Mfonini a ɛyɛ brɛoo a ɛne nnua akɛse 4, 6, 8 anaa 12 hyia; mfonini ahorow no tra hɔ a wotumi hu gye sɛ wopaw sɛ wode besie",
+      "Mfonini a ɛyɛ brɛoo a ɛne nnua akɛse 4, 6, 8 anaa 12 hyia; mfonini ahorow no kɔ so da adi gye sɛ wopaw sɛ wode besie",
       "Wɔyɛ abusua mfonini a wopaw no kɔpi kɔ app no ​​mu ma ɛne ne ho hyia na wɔbom hwɛ",
-      "Hwɛ bom: mfonini biako biara a nkɔmmɔbɔ nkannyan a wopɛ",
+      "Monhwɛ bom: mfonini biako biara a nkɔmmɔbɔ ho akwankyerɛ a wubetumi apaw ka ho",
       "Mfonini ahorow awotwe a ɛka app no ​​ho; wɔyɛ adwuma wɔ offline",
-      "Akontaabu, dawurubɔ, in-app adetɔ, bere, nkontabuo anaa asotwe biara nni hɔ"
+      "Akontaabu, dawurubɔ, nneɛma a wɔtɔ wɔ app mu, bere nhyehyɛe, nkontaahyɛde anaa asotwe biara nni hɔ"
     ],
     "faq": [
       {
         "q": "So adwenemhaw dwumadi ahorow app bi wɔ hɔ?",
-        "a": "Aane. Golden Moments (a wɔakyerɛw sɛ \"{storeName}\") yɛ nea wontua hwee wɔ App Store ne Google Play so. Ɛde mfonini a ɛne tiles akɛse hyia brɛoo, agodie a abusua mfonini a wopaw wom, ne mfonini pack a ɛyɛ adwuma wɔ offline so ma."
+        "a": "Aane. Sikakɔkɔɔ Mmere (wɔakyerɛw sɛ \"{storeName}\") yɛ kwa wɔ App Store ne Google Play. Ɛma mfonini a ɛne tiles akɛse hyia brɛoo, agodie a abusua mfonini a wopaw, ne mfonini pack a ɛyɛ adwuma wɔ offline."
       },
       {
         "q": "So Golden Moments app no ​​yɛ nea wontua hwee?",
@@ -504,7 +505,7 @@
       },
       {
         "q": "Mfiri bɛn na ɛyɛ adwuma wɔ so?",
-        "a": "{platforms}: {requirements}."
+        "a": "{platforms}: 1 . {requirements}."
       }
     ],
     "gameFaqYes": {
@@ -521,20 +522,20 @@
     "noscript": "Saa agodie yi hia sɛ wɔdannan JavaScript wɔ wo browser no mu. Afotu a ɛwɔ ase ha no yɛ adwuma a enni hɔ.",
     "about": "Fa ho {name}",
     "aboutAria": "Ɛfa saa agodie yi ho",
-    "noTimer": "Timer anaa nkontabuo biara nni hɔ",
+    "noTimer": "Bere nhyehyɛe anaa nkontabuo biara nni hɔ",
     "printable": "Wobetumi atintim",
-    "howTo": "Sɛnea wɔbɔ {name}",
+    "howTo": "Sɛnea wodi agoru {name}",
     "tips": "Afotu a ɛfa sɛnea mobɛbom adi agoru ho",
-    "newToPlayingHtml": "Ɛyɛ foforo sɛ wo ne obi a ɔwɔ adwenemhaw bedi agoru? Kenkan <a href=\"/caregiving/how-to-play-together/\">sɛnea wɔbom di agoru</a>, a nea ɛsɛ sɛ wɔyɛ sɛ wɔn ani nnye ho ka ho.",
-    "moreAria": "Nneɛma pii a wobɛhwehwɛ mu",
-    "helpfulGuides": "Akwankyerɛfo a wɔboa",
+    "newToPlayingHtml": "Ɛyɛ foforo sɛ wo ne obi a ɔwɔ adwenemhaw bedi agoru? Kan <a href=\"/caregiving/how-to-play-together/\">sɛnea wɔbom di agoru</a>, a nea ɛsɛ sɛ wɔyɛ sɛ wɔn ani nnye ho ka ho.",
+    "moreAria": "Pii pii a ɛsɛ sɛ wohwehwɛ mu",
+    "helpfulGuides": "Akwankyerɛfo a ɛboa",
     "appTitle": "Bɔ no wɔ app no ​​mu",
     "appText": "Golden Moments app a wontua hwee no wɔ mfonini a ɛne tiles akɛse ne w’ankasa abusua mfonini hyia brɛoo, na ɛyɛ adwuma a Wi‐Fi nka ho. iPhone, iPad ne Android.",
-    "photoAppTitle": "Ma wo mfoni nsiesie",
+    "photoAppTitle": "Ma wo mfonini ahorow nyɛ krado",
     "photoAppText": "Wɔ Golden Moments app a wontua hwee no mu no, mfonini ahorow a wobɛpaw no tra wo mfiri no so bere foforo, na agodie ahorow no yɛ adwuma a Wi‐Fi nka ho. iPhone, iPad ne Android.",
-    "goodToKnow": "Eye sɛ wobɛhu",
+    "goodToKnow": "Eye sɛ wubehu",
     "goodToKnowText": "Saa agodie yi yɛ anigye ne bere a wɔbom nya. Ɛnsɔ biribiara nhwɛ, nsusuw anaasɛ ɛnsa.",
-    "moreGames": "Agodie a ɛyɛ brɛoo pii",
-    "crumb": "Agodie"
+    "moreGames": "Agodie a ɛyɛ brɛoo kɛse",
+    "crumb": "Agodie a wɔde di agoru"
   }
 }

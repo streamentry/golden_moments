@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "ནང་དོན་གཙོ་བོ་ལུ་གོམ་འགྱོ།",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "བློ་འཚབ་ནད་ཀྱི་ལས་རིམ།",
+    "homeLabel": "གསེར་གྱི་དུས་སྐབས་ཁྱིམ།",
+    "mainNav": "ངོ་མ་ར",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "རྫོང་ཁ",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "གསེར་གྱི་དུས་ཚོད།: ཇ་ཕོར་དང་ཉི་མའི་མེ་ཏོག དེ་ལས་ཁྱི་གི་པར་སྦོམ་དང་མཛའ་མཐུན་ཅན།",
+    "languages": "སྐད༌ཡིག",
+    "englishOnly": "(ཨིང་ལིཤི)",
+    "machineTranslated": "ཤོག་ལེབ་འདི་ རང་བཞིན་གྱིས་ སྐད་བསྒྱུར་འབད་ཡོདཔ་ལས་ ད་ལྟོའི་བར་ན་ཡང་ མི་ཁུངས་ཅིག་གིས་ ཞིབ་དཔྱད་མ་འབད་བས།",
+    "readOriginal": "དབྱིན་ཡིག་ཐོག་ངོ་མ་བཀླགས།",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "རྩེད་མོ།",
+      "activities": "ལས་སྣ",
+      "caregiving": "གཅེས་སྐྱོང་འབད་ནི།",
+      "brainHealth": "ཀླད་པའི་འཕྲོད་བསྟེན།"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "དྲི་བ་དྲིས་ལན།",
+    "breadcrumb": "བག་ལེབ་ཀྱི་ཕྱེ་མ།",
+    "home": "ཁྱིམ",
+    "lastUpdated": "མཐའ་མའི་དུས་མཐུན།",
+    "topics": "དོན་ཚན།",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "ཚིག་ཡིག་ཚད།",
+      "smaller": "ཚིག་ཡིག་ཚད་ལྡན་ཅན།",
+      "larger": "ཚིག་ཡིག་སྦོམ།",
+      "contrast": "ཁྱད་པར་མཐོ་བ།"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "རྩེད་ནི",
+    "picturePairs": "པར་རིས་ཆ་ཤས།",
+    "conversationCards": "ཁ་སླབ་ཤོག་བྱང་ཚུ།",
+    "pictureBingo": "པར་རིས་བིང་གོ།",
+    "allGames": "རྩེདམོ་ཆ་མཉམ།",
+    "pictures": "དཔར་བསྐྲུན་འབད་ནིའི་པར་ཚུ།",
+    "activityIdeas": "བྱ་བའི་བསམ་ཚུལ།",
+    "ideas101": "101 བྱ་འགུལ་བསམ་ཚུལ།",
+    "lateStage": "དུས་རིམ་ཕྱི་མའི་ལས་རིམ།",
+    "printable": "དཔར་བསྐྲུན་འབད་བཏུབ་པའི་ལས་རིམ།",
+    "allActivities": "བྱ་བ་ཆ་མཉམ།",
+    "forCaregivers": "གཅེས་སྐྱོང་འབད་མི་ཚུ་གི་དོན་ལུ།",
+    "playTogether": "གཅིག་ཁར་རྩེད་ཐབས།",
+    "selfCare": "རང་ལུ་བདག་འཛིན་འཐབ་ནི།",
+    "brainHealth": "ཀླད་པའི་འཕྲོད་བསྟེན་ཞིབ་འཇུག།",
+    "faq": "དྲི་བ་དྲིས་ལན།",
+    "about": "སྐོར་ལས",
+    "approach": "ང་བཅས་ཀྱི་ཐབས་ལམ།",
+    "howWeWrite": "ང་བཅས་ཀྱིས་འབྲི་ཐངས།",
+    "organizations": "ལས་སྡེ་ཚུ་གི་དོན་ལུ།",
+    "app": "གསེར་གྱི་དུས་སྐབས་མཉེན་ཆས་འདི།",
+    "appHelp": "App གྲོགས་རམ།",
+    "support": "རྒྱབ༌སྐྱོར",
+    "legal": "ཁྲིམས༌ལྡན",
+    "sitePrivacy": "དྲ་ཚིགས་སྒེར་དོན།",
+    "appPrivacy": "App སྒེར་དོན་སྲིད་བྱུས།",
+    "privacyChoices": "སྒེར་དོན་གདམ་ཁ།",
+    "terms": "ཆ་རྐྱེན་དང་མཉེན་ཆས་ཆོག་ཐམ།",
+    "safety": "ཉེན་སྲུང་དང་ དམིགས་གཏད་བཀོལ་སྤྱོད།",
+    "accessibility": "འཛུལ་སྤྱོད་འབད་ཚུགས།",
+    "healthNotice": "གསོ་བའི་བརྡ་དོན་གསལ་བསྒྲགས།",
+    "allLegal": "བཅའ་ཁྲིམས་ཆ་འཕྲིན་ཆ་མཉམ།",
+    "note": "Golden Moments གིས་ སྤྲོ་བའི་དོན་ལུ་ འཇམ་ཏོང་ཏོ་སྦེ་ བརྗེ་སོར་གྱི་ལས་རིམ་ཚུ་ བྱིནམ་ཨིན། སྨན་བཅོས་ཀྱི་བསླབ་བྱ་དང་ བརྟག་དཔྱད་ ཡང་ན་ སྨན་བཅོས་མེན་པར་ མི་ག་ལུ་ཡང་ བརྟག་དཔྱད་དང་ འཇལ་ཚད་ དེ་ལས་ སྐུགས་མ་བྱིནམ་ཨིན་པས། གསོ་བའི་དྲི་བ་ཚུ་གི་དོན་ལུ་ སྨན་པ་དང་གཅིག་ཁར་ ཁ་སླབ་དགོ། གློ་བུར་གྱི་གནས་སྟངས་ནང་ ༩༡༡ ལུ་ཁ་པར་གཏོང་།",
+    "publisher": "ཀླུ་ཇེཊ་ཐབས་ཤེས་ Pte གིས་དཔར་བསྐྲུན་འབད་ཡོདཔ། Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "བློ་སྟོབས་དང་ཨལ་ཛའི་མར་གྱི་རྩེད་རིགས་དང་ལས་རིམ། | གསེར་གྱི་དུས་སྐབས།",
+    "description": "རིན་མེད་སྟོངམ་སྦེ་ པར་རིས་རྩེདམོ་ཚུ་ ཡོངས་འབྲེལ་ཐོག་ལས་ རྩེད་ནི་དང་ བློ་སྟོབས་མེད་མི་ ཡང་ན་ ཨཱལ་ཛའི་མར་གྱི་ ནད་གཞི་ཡོད་མི་དང་ ཁོང་གི་ བདག་འཛིན་འཐབ་མི་ཚུ་གི་དོན་ལུ་ ལས་རིམ་གྱི་ བསམ་འཆར་ཚུ་ཨིན།.",
+    "eyebrow": "རིན་མེད། · ཁྱབ་བསྒྲགས་མེད། · ཐོ་འགོད་མེད། · དུས་ཚོད་དང་སྐུགས་མེད།",
+    "h1": "བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ རྩེད་རིགས་དང་ལས་རིམ།",
+    "lede": "པར་རིས་རྩེདམོ་འཇམ་ཏོང་ཏོ་དང་ གོམས་འདྲིས་ཅན་གྱི་པར་ དེ་ལས་ གཅིག་ཁར་སྤྲོ་བ་བསྐྱེད་ནིའི་དོན་ལུ་ ལས་རིམ་ཚུ་ ཁྱོད་རའི་མགྱོགས་ཚད་ནང་།",
+    "playGame": "རྩེདམོ་རྩེ།",
+    "findIdeas": "ལས་རིམ་བསམ་འཆར་འཚོལ།",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "འགྲུལ་འཕྲིན་དང་ ཐབ་ལེབ་ དེ་ལས་ གློག་རིག་ཚུ་ནང་ལཱ་འབདཝ་ཨིན།",
+      "སྟོན་སྡོད་པའི་པར་སྦོམ།",
+      "དུས་ཚོད་གང་རུང་བཀག་བཞག; འཐུས་ཤོར་གང་ཡང་མེད།"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "ད་རུང་ ཁྱོད་རའི་བཟའ་ཚང་གི་པར་ཚུ་དང་གཅིག་ཁར་ iPhone དང་ iPad དེ་ལས་ Android ཚུ་གི་དོན་ལུ་ རིན་མེད་སྟོངམ་སྦེ་ མཉེན་ཆས་ཅིག་ཨིན།",
+    "albumNote": "“ཇ་ཕོར་གྱི་པར་གཉིས་མཉམ་དུ་བསྡུས།”",
+    "gamesEyebrow": "ཁྱོད་རའི་བརའུ་ཟར་ནང་རྩེད།",
+    "gamesTitle": "ཁྱོད་ཀྱིས་ད་ལྟོ་རྩེད་ཚུགས་པའི་རྩེདམོ་ཚུ།",
+    "gamesLede": "རེ་རེ་བཞིན་དུ་ཞི་འཇམ་དང་རྒས་ཤོས་དང་མགྱོགས་པ་འགོ་བཙུགས། གཅིག་གདམ་ཁ་རྐྱབ་སྟེ་ ཕྱོགས་གཅིག་ལུ་སྡོད་ཞིནམ་ལས་ སྐོར་རྒྱབ་འབད་དེ་ བརྡུང་དགོ།",
+    "seeAllGames": "ཡོད་ཚད་བལྟ། {count} རྩེད་མོ།",
+    "howTitle": "ལཱ་འབད་ཐངས།",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "གོམས་འདྲིས་ཡོད་མི་ཅིག་འདེམས།",
+        "text": "ཇ་ཕོརཔ་དང་ལྡུམ་ར་ ཁྱིམ་གུང་སེམས་ཅན་དང་ གྲུ་གཟིངས་ཚུ་གི་པར་ཚུ། དང་པ་ལྷབ་དགོ་པའི་ལྷག་ནི་དང་ལམ་ལུགས་མེད།"
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "ཟུར་ཁར་སྡོད།",
+        "text": "ཁོང་ཚུ་ལུ་ཨེབ་བཅུག། པར་རིས་ཚུ་གི་སྐོར་ལས་བཤད། མ་མཐུན་མི་འདི་ ཤུལ་མམ་གྱི་ཨེབ་གཏང་ལུ་སྒུག་སྡོདཔ་ཨིན།"
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "ལེགས་ཤོམ་འཚོར་བའི་སྐབས་ལུ་བཀག།",
+        "text": "རྩེདམོ་གཅིག་འདི་ ལས་རིམ་ཆ་ཚང་ཅིག་ཨིན། “ད་ལྟོའི་དོན་ལུ་འབད་ཚར་ཡི་” ཟེར་མི་འདི་ རྟག་བུ་རང་ གསལ་གཞི་གུ་ཡོདཔ་ཨིན།"
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "གསལ་གཞི་ལས་བརྒལ་ཏེ།",
+    "stageTitle": "གནས་རིམ་རེ་རེའི་དོན་ལུ་ ལས་རིམ་གྱི་བསམ་ཚུལ།",
+    "stageLede": "གླུ་གཞས་དང་ཉིན་བསྟར་གྱི་ལཱ་ དྲན་ཤེས་དང་ ཞི་བདེ་གི་ཚོར་སྣང་གི་དུས་ཚོད་ཚུ་ ད་ལྟོ་ བདེ་ཏོག་ཏོ་སྦེ་མཐོང་མི་ལུ་ བསྒྱུར་བཅོས་འབད་ཡོདཔ་ཨིན།",
+    "ideas101": "101 བྱ་འགུལ་བསམ་ཚུལ།",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "དུས་རིམ།",
+        "text": "བསྒྱུར་བཅོས་ཆུང་ཀུ་འབད་དེ་ དགའ་སྤྲོ་དང་ ཕྱི་ཁར་འགྱོ་ནི་ མིང་ཚིག་རྩེདམོ་དང་ འཆར་གཞི་གཅིག་ཁར་ བརྩམ་ནི་ཚུ་ འབད་བཞག་དགོ།",
+        "label": "སྔོན་འགྲོའི་གནས་རིམ་གྱི་བསམ་བློ།"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "བར་མའི་གནས་རིམ།",
+        "text": "འཇམ་ཏོང་ཏོ་དང་ གོམས་འདྲིས་ཅན་གྱི་ལཱ་ཚུ་ གོ་རིམ་སྦེ་བགོ་བཤའ་རྐྱབ་སྟེ་ བཀབ་ནི་དང་ དབྱེ་སེལ་འབད་ནི་ སྙན་ཆ་ པར་རིས་རྩེདམོ་དང་ ལམ་ཐུང་ཀུ་ཚུ་ཨིན།",
+        "label": "དབུས་ཀྱི་བསམ་བློ།"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "ཕྱིས་ཀྱི་གནས་རིམ།",
+        "text": "ལགཔ་གཅེས་སྐྱོང་དང་ དགའ་མཐུན་གྱི་ཞབས་ཁྲ་ པར་དང་གཅིག་ཁར་སྡོད་ནི་ཚུ་གི་ཐོག་ལས་ བདེ་ཏོག་ཏོ་དང་ མཐུད་འབྲེལ་འབད་ནི།",
+        "label": "ཤུལ་མའི་གནས་རིམ་གྱི་བསམ་བློ།"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "དམིགས་བསལ་གྱི་ཅ་ལ་ཅིག་འཚོལ་དོ་ག? འབད་རྩོལ <a href=\"/activities/alzheimers/\">ལས་རིམ་དང་རྩེད་མོ།</a>, . <a href=\"/activities/memory-games/\">འཇམ་པའི་དྲན་ཤེས་རྩེད་མོ།</a>, . <a href=\"/activities/trivia/\">འཇམ་ཏོང་ཏོ།</a> ཡང་ཅིན་ <a href=\"/activities/puzzles/\">གབ་ཚིག།</a>.",
+    "approachEyebrow": "ང་བཅས་ཀྱི་ཐབས་ལམ།",
+    "approachTitle": "དྲན་ཚད་བརྟག་དཔྱད་མེན་པར་ བརྗེ་སོར་འབད་ཡོད་པའི་ལས་སྣ་ཅིག།",
+    "approachLede": "ཀླད་པའི་རྩེད་མོ་མང་པོ་ཞིག་མགྱོགས་ཚད་དང་སྐུགས་ དེ་ལས་ ཐིག་རིས་ཚུ་གི་མཐའ་འཁོར་ལུ་བཟོ་བསྐྲུན་འབད་ཡོདཔ་ཨིན། བརྟག་དཔྱད་བཟུམ་ཅིག་འཚོར་ཚུགས་པའི་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་ཡོད་མི་ཅིག་གི་དོན་ལུ་ཨིན། ང་བཅས་ཀྱིས་ དེ་ལས་ལྡོག་ཕྱོགས་བཟོ་ཡི།",
+    "approachLink": "ང་ཚོས་ཅིའི་ཕྱིར་འདི་ལྟར་བཟོ་བཀོད་བྱེད།",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "འཐུས་ཤོར་གང་ཡང་མེད།",
+        "text": "ཆུ་ཚོད་དང་སྐུགས་ མི་ཚེ་ཡང་ན་ཕམ་མི་མེད། པར་རིས་སོ་སོ་འདི་ བར་མཚམས་ཨིན་ འཛོལ་བ་མེན།"
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "པར་ཚུ་སྟོན་སྡོདཔ་ཨིན།",
+        "text": "དྲན་འཛིན་ལས་ངོས་འཛིན། མཐུན་སྒྲིག་འབད་ནི་འདི་ གདོང་ཁར་འགོ་བཙུགསཔ་ལས་ སེམས་ཁར་དྲན་དགོཔ་ག་ནི་ཡང་མེདཔ་ཨིན།"
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "རྒན་རྒོན་དང་གཟི་བརྗིད།",
+        "text": "དྲོད་ཁོལ་དང་ ཚིག་གསལ་པོ་ དེ་ལས་ འཛམ་གླིང་ངོ་མའི་པར་རིས། ནམ་ཡང་འགུལ་བརྙན་དང་ཨ་ལུའི་སྐད་ཆ་མ་བཤད།"
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "བཟོ་བཀོད་ཀྱིས་སྒེར་སྡེ།",
+        "text": "རྩིས་ཁྲ་དང་ཁྱབ་བསྒྲགས་མེད། ཁྱོད་ཀྱི་པར་ཚུ་ ཁྱོད་ཀྱི་ཐབས་འཕྲུལ་ལས་ ནམ་ཡང་ མ་ཐོན།"
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "གཅེས་སྐྱོང་འབད་མི་ཚུ་གི་དོན་ལུ།",
+    "guidesTitle": "ཉིན་བསྟར་གྱི་བདག་འཛིན་གྱི་ལག་ལེན་ལམ་སྟོན།",
+    "allCaregiving": "གཅེས་སྐྱོང་ལམ་སྟོན་ཆ་མཉམ།",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "གཅིག་ཁར་རྩེདམོ་རྩེ་ཐངས།",
+        "text": "གཞི་སྒྲིག་དང་ མགྱོགས་ཚད་ དེ་ལས་ རྩེདམོ་ཅིག་ སྤྲོ་བ་ཅན་སྦེ་ བཀག་པའི་སྐབས་ ག་ཅི་འབད་དགོཔ་ཨིན་ན།"
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "ཁོང་གིས་ ལས་རིམ་ཅིག་ལུ་ མེན་ཟེར་སླབ་པའི་སྐབས།",
+        "text": "ངོས་ལེན་མ་འབད་བའི་སྤྱིར་བཏང་གི་རྒྱུ་མཚན་དང་ ཤུལ་ལས་ལོག་སྟེ་འབད་རྩོལ་བསྐྱེད་ནི་གི་ཐབས་ལམ་དྲག་པོ།"
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "ཐབ་ལེབ་གཞི་སྒྲིག་འབད་དོ།",
+        "text": "ཚིག་ཡིག་སྦོམ་དང་ བར་ཆད་ཉུང་སུ་ དེ་ལས་ ཁྱིམ་གྱི་གསལ་གཞི་འཇམ་ཏོང་ཏོ་གཅིག།"
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "རིན་མེད་པར་སྐྲུན་འབད་བཏུབ་པའི་ལས་རིམ།",
+        "text": "ཡིག་གཟུགས་སྦོམ་གྱི་མིང་ཚིག་འཚོལ་ཞིབ་དང་ ཚོས་གཞི་ཤོག་ལེབ་ བིང་གོ་ དེ་ལས་ ཁ་སླབ་ཤོག་བྱང་ཚུ།"
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "ཀླད་པའི་འཕྲོད་བསྟེན། ཞིབ་འཚོལ་གྱིས་ངོ་མ་གང་ཟེར།",
+    "researchText": "བློ་སྟོབས་མེད་པའི་ནད་གཞི་འདི་སྔོན་འགོག་འབད་ཚུགས་ག? ཀླད་པའི་རྩེདམོ་གིས་ཕན་ཐོགས་འོང་ག? ཟས་བཅད་དང་ ཟས་བཅུད་ གཉིད་དང་ གོ་ཐོས་ཚུ་ག་དེ་སྦེ་སྨོ? སྒྲུབ་བྱེད་ག་སྟེ་ལུ་ཞན་ཁོག་ཡོདཔ་ཨིན་ན་ཚུ་རྩིས་ཏེ་ ཐོན་ཁུངས་ཅན་གྱི་ལན་གསལ་ཏོག་ཏོ་ཚུ།",
+    "researchLink": "ཞིབ་འཚོལ་གྱི་ལམ་སྟོན་ཚུ་ལྷག།",
+    "appEyebrow": "ཡང་མཉེན་ཆས་ཅིག",
+    "appTitle": "གསེར་གྱི་དུས་ཚོད།",
+    "appText": "རིན་མེད་སྟོངམ་སྦེ་ མཉེན་ཆས་འདི་གིས་ གློག་རིག་ནང་ལཱ་འབདཝ་མ་ཚད་ ཁྱོད་ཀྱིས་གདམ་ཁ་རྐྱབ་མི་ བཟའ་ཚང་གི་པར་ཚུ་ ཁྱོད་རའི་ཐབས་འཕྲུལ་ནང་ འདྲ་བཤུས་སྦེ་བཞག་སྟེ་ ལག་ལེན་འཐབ་བཏུབ། བཟོ་བཀོད་ཞི་འཇམ་ཅོག་འཐདཔ་: རྡོ་རིང་སྦོམ་བཞི་ དུས་ཚོད་མེད་ སྐུགས་མེད།",
+    "aboutApp": "མཉེན་ཆས་ཀྱི་སྐོར།",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ རྩེདམོ་ལེགས་ཤོམ་ག་ཅི་སྨོ?",
+        "a": "རྩེད་རིགས་ལེགས་ཤོམ་ཚུ་ འཇམ་ཏོང་ཏོ་དང་ གོམས་འདྲིས་ཅན་ དེ་ལས་ གནོན་ཤུགས་མེདཔ་ཨིན། གདམ་ཁ་དྲག་ཤོས་འདི་ ད་རེས་ མི་དེ་གིས་ དགའ་སྤྲོ་ཐོབ་མི་འདི་ཨིན། དུས་ཚོད་དང་ སྐུགས་ དེ་ལས་ བརྟག་དཔྱད་བཟུམ་གྱི་ ཚོར་སྣང་བྱུང་མི་ ག་ཅི་རང་འབད་རུང་ བཀག་དགོ།"
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "འདི་ཚུ་ བློ་སྟོབས་མེད་པའི་རྩེདམོ་ཚུ་ རིན་མེད་སྟོངམ་ཨིན་ན?",
+        "a": "ཨིན། གསེར་གྱི་དུས་ཚོད་ནང་ རྩེདམོ་དང་ དཔར་བསྐྲུན་འབད་ཚུགས་པའི་ རྩེདམོ་ག་ར་ རིན་མེད་སྟོང་པ་སྦེ་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་ མེདཔ་ཨིན། རྩེདམོ་ཚུ་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ གཡོག་བཀོལཝ་ཨིན།"
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "ཀླད་པའི་རྩེདམོ་གིས་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་བཀག་ཚུགས་ག?",
+        "a": "བློ་སྟོབས་མེད་པའི་ནད་གཞི་བཀག་ཐབས་ལུ་ རྩེདམོ་ག་ནི་ཡང་ སྟོན་མ་ཚུགསཔ་ལས་ གསེར་གྱི་དུས་ཚོད་ཚུ་གིས་ ག་ཅི་ཡང་ སྨན་བཅོས་དང་ བཀག་ཐབས་འབད་ཚུགས་ཟེར་ བཤད་མི་བཏུབ་པས། ང་བཅས་ཀྱི་རྩེདམོ་འདི་ སྤྲོ་བ་དང་དུས་ཚོད་གཅིག་ཁར་སྡོད་ནིའི་དོན་ལུ་ཨིན། ང་བཅས་ཀྱི་ཀླད་པའི་གསོ་བའི་སྡེ་ཚན་ནང་ ཞིབ་འཚོལ་གྱིས་ ག་ཅི་འབདཝ་ཨིན་ན་དང་ ག་ཅི་མ་སྟོནམ་ཨིན་ན་ འགྲེལ་བཤད་རྐྱབ་ཨིན།"
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "རྩེདམོ་འདི་ཚུ་ ཨཱལ་ཛའི་མར་གྱི་ནད་གཞི་ཡོད་མི་ཅིག་ལུ་འོས་འབབ་ཡོདཔ་ཨིན་ན?",
+        "a": "ཨིན། ནད་གཞི་ཨཱལ་ཛའི་མར་གྱི་ནད་གཞི་འདི་ མང་ཤོས་ཅིག་རང་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་ཅིག་ཨིནམ་ལས་ རྩེད་རིགས་ཚུ་ཡང་ དེ་གི་དོན་ལུ་བཟོ་ཡོདཔ་ཨིན། མཐུན་སྒྲིག་དང་དབྱེ་བ་ཕྱེ་ནི་ དེ་ལས་ གོམས་འདྲིས་ཅན་གྱི་ཚིག་ཚུ་མཇུག་བསྡུ་ནི་འདི་ ལྷབ་སྦྱང་གསརཔ་མེན་པར་ ཡུན་རིངམོ་སྦེ་བཞག་སྟེ་ཡོད་མི་ཤེས་ཡོན་ལུ་བརྟེན་དགོཔ་ཨིན།"
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "ཤུལ་ལས་ བློ་སྟོབས་མེད་མི་ཅིག་གིས་ ལས་རིམ་འདི་ཚུ་ ལག་ལེན་འཐབ་ཚུགས་ག?",
+        "a": "འཕྲལ་འཕྲལ་རང་ ཨིན་ ཁོང་གི་སྦོ་ལོགས་ཁར་ མི་གཅིག་དང་གཅིག་ཁར་ཨིན། འགོ་བཙུགས་ཏེ་ པར་གཉིས་དང་གཅིག་ཁར་ ཅོག་འཐདཔ་འཚོལ། པར་ཆ་གཅིག་དང་གཅིག་ཁར་ ཊ་ཡིལ་བཞི་ ཚོས་གཞི་བཀོད་ནིའི་ཤོག་ལེབ་ ཡང་ན་ དབུགས་གཏོང་ལེན་གྱི་ བར་མཚམས་ཞི་འཇམ། ཐུང་ཀུ་སྦེ་བཞག་སྟེ་ ཁོང་གི་འགོ་ཁྲིད་ལུ་བལྟ་སྟེ་ ལངམ་སྦེ་ཡོད་པའི་སྐབས་ལུ་བཀག་དགོ།"
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "ངེ་གི་བརྡ་དོན་འདི་སྒེར་གྱི་ཨིན་ན?",
+        "a": "དྲ་ཚིགས་འདི་ལ་རྩིས་ཁྲ་མེད་པ་དང་ཁྱབ་བསྒྲགས་མེད། ང་བཅས་ཀྱིས་ ཤོག་ལེབ་ག་ཅི་ལུ་བལྟ་སྟེ་ཡོདཔ་ཨིན་ན་ཧ་གོ་ནིའི་དོན་ལུ་ གུ་གཱལ་ཨེ་ན་ལི་ཊིགསི་ལག་ལེན་འཐབ་ཨིན། ཁྱོད་ཀྱིས་ པར་ཆ་གཅིག་གི་དོན་ལུ་གདམ་ཁ་རྐྱབ་མི་པར་ཚུ་ ཁྱོད་རའི་བརྡ་འཚོལ་ནང་རྐྱངམ་ཅིག་སྟོནམ་ཨིནམ་ལས་ ནམ་ཡང་སྐྱེལ་བཙུགས་མི་འབད།"
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "གསེར་གྱི་དུས་ཚོད་འདི་ག་གིས་བཟོཝ་སྨོ?",
+        "a": "གསེར་གྱི་དུས་ཚོད་འདི་ སྡེ་ཚན་ཆུང་ཀུ་ཅིག་གིས་ བཟའ་ཚང་དང་ བདག་འཛིན་འཐབ་མི་ཚུ་གི་དོན་ལུ་ ཞི་བདེ་དང་ རྒས་ཤོས་ཀྱི་པར་གྱི་ལས་རིམ་ཚུ་ ཡོངས་འབྲེལ་དང་ རིན་མེད་སྟོང་པ་སྦེ་ མཉེན་ཆས་ཅིག་སྦེ་ བཟོཝ་ཨིན། ང་བཅས་སྨན་པ་མེནམ་ལས་ ནཱ་ལུ་ སྨན་བཅོས་བསླབ་བྱ་ག་ནི་ཡང་མེདཔ་ཨིན།"
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "ཧ་སག་",
+    "middle": "སྦུག་གི་",
+    "late": "ཤུལ་ལས",
+    "hintOne": "འཕྲལ་འཕྲལ་འཚམས། {list} གོ༌རིམ༌",
+    "hintMany": "འཕྲལ་འཕྲལ་འཚམས། {list} རིམ་པ་ཚུ།",
+    "labelEarly": "དུས་རིམ།",
+    "labelMiddle": "བར་མའི་གནས་རིམ།",
+    "labelLate": "ཕྱིས་ཀྱི་གནས་རིམ།"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "རྩེད་མོ་འདིའི་སྐོར།",
+    "printable": "དཔར་བཏབ་བཏུབ།",
+    "play": "རྩེད་ནི {name} →",
+    "readGuide": "ལམ་སྟོན་བཀླགས།"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "རྩེདམོ་འཇམ་པོ་ཅིག་གི་དོན་ལུ་གྲ་སྒྲིག་ཡོདཔ་ཨིན་ན?",
+    "text": "པར་སྦོམ་དང་དུས་ཚོད་མེད་ སྐུགས་མེད་ དེ་ལས་ ཐོ་བཀོད་འབད་དགོཔ་ག་ནི་ཡང་མེདཔ་ཨིན། ཁྱོད་རའི་བརྡ་འཚོལ་ནང་ལུ་གཅིག་ཁར་རྩེད།",
+    "play": "རྩེདམོ་རྩེ།",
+    "all": "རྩེདམོ་ཆ་མཉམ་བལྟ།",
+    "aria": "རྩེདམོ་ཅིག་རྩེད།"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
-    "appStoreShort": "App Store",
-    "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "title": "རྩེདམོ་འདི་ཚུ་ཁྱོད་དང་གཅིག་ཁར་འབག་ཤོག།",
+    "text": "རིན་མེད་སྟོངམ་སྦེ་ གསེར་གྱི་དུས་ཚོད་ཀྱི་ མཉེན་ཆས་ iPhone དང་ iPad དེ་ལས་ Android ཚུ་གི་དོན་ལུ་ པར་སྦོམ་གྱི་ རྡོ་གཅལ་དང་ ཁྱོད་རའི་བཟའ་ཚང་གི་པར་ཚུ་དང་གཅིག་ཁར་ རྩེདམོ་ཚུ་ དེ་ལས་ ཝའི་ཕའི་མེད་པར་ ལཱ་འབད་མི་ པར་གྱི་ཐུམ་སྒྲིལ་ཚུ་ཨིན། རྩིས་ཐོ་དང་ཁྱབ་བསྒྲགས་ དུས་ཚོད་ ཡང་ན་ སྐུགས་མེད།",
+    "appStore": "App Store ནང་ལས་ཐོབ།",
+    "googlePlay": "གུ་གུལ་རྩེད་ཐང་ནང་ལས་ཐོབ།",
+    "appStoreShort": "App ཚོང་ཁང་།",
+    "googlePlayShort": "གུ་གུལ་རྩེད་མོ།",
+    "about": "མཉེན་ཆས་ཀྱི་སྐོར།",
+    "aria": "གློག་རིམ་འདི་ལེན།"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "ལས་སྣ",
+      "title": "བློ་སྟོབས་ཉམས་མི་ཚུ་གི་དོན་ལུ་ ལས་རིམ།",
+      "seo": "བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ལས་རིམ། གནས་རིམ་གྱི་བསམ་འཆར།",
+      "description": "གནས་རིམ་ག་རའི་ནང་ བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ ལས་རིམ་གྱི་བསམ་འཆར་ཚུ་ སྙན་ཆ་དང་ དྲན་འཛིན་ ཉིན་བསྟར་གྱི་ལཱ་ ཚོར་བའི་དུས་ཚོད་ ལག་བཟོ་ ཕྱི་ཁར་དང་ རིན་མེད་སྟོངམ་སྦེ་ དཔར་བསྐྲུན་འབད་ཚུགས་མི་ཚུ་ཨིན།",
+      "lede": "དོན་དག་ཅན་གྱི་ལས་རིམ་ཟེར་མི་འདི་ བདེ་སྐྱིད་དང་ དམིགས་ཡུལ་ ཡང་ན་ འབྲེལ་བ་གི་དུས་ཚོད་ཅིག་འབག་འོང་མི་ག་ཅི་རང་འབད་རུང་ཨིན། མི་དེ་གིས་ དུས་རྒྱུན་དུ་ དགའ་སྤྲོ་བྱུང་མི་ལས་ འགོ་བཙུགས་ཏེ་ ད་རེས་ནངས་པར་ མཐུན་སྒྲིག་འབད།"
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "གཅེས་སྐྱོང་འབད་ནི།",
+      "title": "གཅེས་སྐྱོང་ལམ་སྟོན།",
+      "seo": "བློ་འཚབ་ནད་ཀྱི་སྨན་བཅོས་ལམ་སྟོན། ཉིན་བསྟར་གྱི་ལག་ལེན།",
+      "description": "བློ་སྟོབས་མེད་པའི་ སྨན་བཅོས་འབད་མི་ཚུ་གི་དོན་ལུ་ ལག་ལེན་འཐབ་བཏུབ་པའི་ ལམ་སྟོན་བཟང་པོ། རྩེདམོ་གཅིག་ཁར་རྩེད་ནི་དང་ བརྒྱུད་འབྲེལ་འཐབ་ནི་ ངོས་ལེན་མ་འབད་མི་ ཉིནམ་མཇུག་ལུ་ བདེ་ཏོག་ཏོ་མེད་མི་ ཐབ་ཚང་.",
+      "lede": "རང་གིས་རང་ལུ་བདག་འཛིན་འཐབ་ནི་ཚུ་རྩིས་ཏེ་ བློ་སྟོབས་མེད་པའི་མི་ཅིག་ལུ་ ཉིན་བསྟར་གྱི་དུས་ཚོད་ལུ་ བདག་འཛིན་འཐབ་ནིའི་དོན་ལུ་ ལག་ལེན་འཐབ་བཏུབ་པའི་ གྲོགས་རམ་ཚུ་ཨིན།"
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "ཀླད་པའི་འཕྲོད་བསྟེན།",
+      "title": "ཀླད་པའི་འཕྲོད་བསྟེན། ཞིབ་འཚོལ་གྱིས་གང་ཟེར།",
+      "seo": "ཀླད་པའི་འཕྲོད་བསྟེན་དང་ བློ་འཚབ་ཀྱི་ཉེན་ཁ། ཞིབ་འཚོལ་གྱིས་ག་ཅི་སླབ་སྨོ?",
+      "description": "བློ་སྟོབས་མེད་པའི་ནད་གཞི་འདི་སྔོན་འགོག་འབད་ཚུགས་ག? དྲང་བདེན་དང་ ཐོན་ཁུངས་ལམ་སྟོན་ཚུ་ བློ་སྟོབས་མེད་པའི་ཉེན་ཁ་གི་རྒྱུ་རྐྱེན་དང་ ཀླདཔ་གི་རྩེདམོ་ ཟས་བཅད་ ཟས་བཅུད་ ལུས་སྦྱོང་ གཉིད་ གོ་ཐོས་དང་ ཧེ་མ་ལས་.",
+      "lede": "ཞིབ་འཇུག་སྦོམ་ཚུ་གིས་ ངོ་མ་རང་ བློ་སྟོབས་མེད་པའི་ཉེན་ཁ་མར་ཕབ་འབད་ནིའི་སྐོར་ལས་ གསལ་ཏོག་ཏོ་སྦེ་ འགྲེལ་བཤད་རྐྱབ་སྟེ་ སྒྲུབ་བྱེད་ཚུ་ ག་སྟེ་ལུ་ ཞན་ཁོག་དང་ ཡང་ན་ སླ་བསྲེ་རྐྱབ་སྟེ་ཡོདཔ་ཨིན་ན་ཚུ་རྩིས་ཏེ་ཨིན། སྨན་བཅོས་བསླབ་བྱ་མེན། སྤྱིར་བཏང་གི་བརྡ་དོན།"
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "དུས་མཐུན་བཟོ་ཡོདཔ།",
+    "minuteRead": "{n} སྐར་མ་ ༡ བཀླགས།",
+    "byTeam": "གསེར་གྱི་དུས་ཚོད་སྡེ་ཚན་གྱིས།",
+    "howWeWrite": "ང་བཅས་ཀྱིས་འབྲི་ཐངས།",
+    "shortAnswer": "ལན་ཐུང་ཀུ།",
+    "onThisPage": "ཤོག་ངོས་འདིའི་སྟེང་དུ།{n} དོན་ཚན།)",
+    "commonQuestions": "སྤྱིར་བཏང་གི་དྲི་བ།",
+    "sources": "ཡོང་ཁུངས།",
+    "sourcesNote": "ང་བཅས་ཀྱིས་ ཤོག་ལེབ་འདི་གིས་ ལས་སྡེ་དང་ ཞིབ་འཇུག་ཚུ་ལུ་ འབྲེལ་མཐུད་འབདཝ་ཨིན། ཤོག་ལེབ་འདི་དུས་མཐུན་བཟོ་བའི་སྐབས་རེ་རེ་བཞིན་ཞིབ་དཔྱད་འབད་ཡོདཔ་ཨིན།",
+    "tryTogether": "མཉམ་དུ་འབད་བརྩོན།",
+    "relatedGuides": "འབྲེལ་ཡོད་ལམ་སྟོན།",
+    "related": "འབརེལ༌བ༌ཡོདཔ",
+    "startHere": "འདི་ལས་འགོ་བཙུགས།"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "གསོ་བའི་བརྡ་དོན་གསལ་བསྒྲགས།",
+    "title": "སྨན་པའི་བསླབ་བྱ་མིན་པར་སྤྱིར་བཏང་གི་བརྡ་དོན།",
+    "textHtml": "ཤོག་ལེབ་འདི་གིས་ བཟའ་ཚང་ཚུ་གི་དོན་ལུ་ དཔར་བསྐྲུན་འབད་ཡོད་པའི་ཞིབ་འཚོལ་ཚུ་ བཅུད་བསྡུས་འབདཝ་ཨིན། མི་གཅིག་ལུ་འོས་འབབ་ཡོད་མི་འདི་ ཁྱོད་ལུ་སླབ་མི་ཚུགས། བཞེས་སྒོ་དང་ལུས་སྦྱོང་ གཉིད་ སྨན་རིགས་ ཡང་ན་ ཁ་སྐོང་ཚུ་ བསྒྱུར་བཅོས་མ་འབད་བའི་ཧེ་མ་ སྨན་པ་དང་གཅིག་ཁར་ ཁ་སླབ་དགོ། གློ་བུར་གྱི་མགོ་རྙོག་དང་ ཡང་ན་ གཞན་གློ་བུར་གྱི་འགྱུར་བ་ཚུ་གི་དོན་ལུ་ དེ་འཕྲོ་ལས་ སྨན་བཅོས་ཀྱི་གྲོགས་རམ་ལེན་དགོ། <a href=\"/medical-disclaimer/\">ང་བཅས་ཀྱི་གསོ་བའི་བརྡ་དོན་བརྡ་དོན་ལྷག།</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "བརྗེ་སོར་འབད་བའི་ལས་སྣ་ཅིག དྲན་ཚད་བརྟག་དཔྱད་མེན།",
+      "seoTitle": "གསེར་གྱི་དུས་སྐབས་སྐོར།: ང་བཅས་ཀྱི་ཐབས་ལམ།",
+      "description": "གསེར་གྱི་དུས་སྐབས་: དྲན་ཤེས་ཉམས་པའི་ནད་གཞི་ཡོད་མི་ཚུ་གི་དོན་ལུ་ དུས་ཚོད་དང་སྐུགས་མེད་པའི་ རྩེད་མོ་དང་ལས་རིམ་ཚུ། རིན་མེད།",
+      "crumb": "ང་བཅས་ཀྱི་ཐབས་ལམ།",
+      "lede": "གསེར་གྱི་དུས་ཚོད་འདི་གིས་ ཞི་བདེ་དང་ རྒས་ཤོས་ཀྱི་པར་གྱི་ལས་རིམ་ཚུ་ བདག་འཛིན་འཐབ་མི་དང་ བློ་སྟོབས་མེད་པའི་ མི་ཚུ་གིས་ ཕྱོགས་གཅིག་ལས་ སྤྲོ་བ་བསྐྱེད་ཚུགསཔ་བཟོཝ་ཨིན།",
+      "bodyHtml": "<h2>ང་བཅས་ཀྱིས་ག་རེ་ལུ་ཡིད་ཆེས་བསྐྱེདཔ་ཨིན་ན།</h2><p>ལས་རིམ་ཅིག་གི་དོན་ཚན་འདི་ དུས་ཚོད་འདི་རང་ཨིན། དེ་ཡང་ ཁ་སླབ་ནི་དང་ མཛུམ་མདངས་ པར་གཉིས་གཅིག་ཁར་བཙུགས་ཏེ་ བསམ་པ་རྫོགས་ཏེ་ ཡང་ན་ འཇམ་ཏོང་ཏོ་སྦེ་ ཉེ་འདབས་ལུ་སྡོད་ནི་ཚུ་ཨིན། མི་ག་ལུ་ཡང་ འཇལ་ནི་དང་ ཧེང་སྐལ་རང་ བསྐུལ་མ་འབད་ནི་ ཡང་ན་ ག་ཅི་ཡང་ བདེན་ཁུངས་བཀལ་ནིའི་དོན་ལུ་མེན།</p><p>ཀླད་པའི་སྦྱོང་བརྡར་གྱི་མཉེན་ཆས་མང་ཤོས་ཅིག་རང་ མགྱོགས་ཚད་དང་ སྐུགས་ དེ་ལས་ ཐིག་ཁྲམ་དང་ གནས་རིམ་ཚུ་གི་མཐའ་འཁོར་ལུ་ བཟོ་བཀོད་འབད་ཡོདཔ་ཨིན། བློ་སྟོབས་མེད་པའི་མི་ངོམ་ཅིག་གི་དོན་ལུ་ ཆོས་རྒྱུགས་བཟུམ་ཅིག་སྦེ་ མནོ་བསམ་གཏང་ཚུགསཔ་ལས་ ཁོང་གིས་ མཐར་འཁྱོལ་མི་ཚུགས། ང་བཅས་ཀྱིས་ དེ་ལས་ལྡོག་ཕྱོགས་བཟོ་བཀོད་འབད་དེ་ ང་བཅས་ཀྱིས་ ལམ་ལུགས་འདི་ཚུ་ལུ་ བདག་འཛིན་འཐབ་ཨིན།</p><ul><li><strong>འཐུས་ཤོར་གང་ཡང་མེད།</strong> ཆུ་ཚོད་དང་ སྐུགས་ གྱངས་ཁ་སྤོ་བཤུད་ མི་ཚེ་ ཐིག་ཁྲམ་ ཀོན་ཕེ་ཊི་ ཡང་ན་ གྱངས་ཁ་བརྐྱབ་ནི་ཚུ་ གསལ་གཞི་གང་རུང་ཅིག་ནང་ མེད།</li><li><strong>དྲན་འཛིན་ལས་ངོས་འཛིན།</strong> པར་ཚུ་སྔོན་སྒྲིག་གིས་སྟོན་སྡོདཔ་ཨིན། བརྡ་སྟོན་ཚུ་ ཁ་སླབ་འབོ་ནི་དང་ མིང་དང་དྲན་ཤེས་ཚུ་ ནམ་ཡང་ དྲི་བ་དྲིས་ལན་མ་འབད།</li><li><strong>སྦོམ་དང་ གཙང་མ་ དེ་ལས་ བརྟན་ཏོག་ཏོ་ཨིན།</strong> ཚིག་ཡིག་དང་པར་རིས་སྦོམ་ཚུ་ ཁྱད་པར་མཐོ་དྲགས་དང་ ས་གནས་གཅིག་ནང་སྡོད་མི་ཚད་འཛིན་ཚུ།</li><li><strong>རྒན་རྒོན་གྱི་གཟི་བརྗིད།</strong> དངོས་ཡོད་ཀྱི་པར་རིས་དང་ ཁ་གསལ་དང་ ཚིག་དྲོ་དྲོ། འགུལ་བརྙན་དང་ གླུ་གཞས་བསྟོད་པ་ ཡང་ན་ ཨི་མོ་ཇི་རྟགས་མ་ཚུ་མེད།</li><li><strong>ཐབས་ལམ་འཇམ་ཏོང་ཏོ་ཅིག།</strong> “ད་ལྟོའི་དོན་ལུ་འབད་ཚར་ཡི་” ཟེར་མི་འདི་ རྟག་བུ་རང་མཐོང་ཚུགས། ཕྱེད་ཀ་བཀག་ནི་འདི་ གྲུབ་འབྲས་ལེགས་ཤོམ་ཅིག་ཨིན།</li><li><strong>སྔོན་སྒྲིག་གིས་སྒེར་སྡེ།</strong> རྩིས་ཁྲ་དང་ཁྱབ་བསྒྲགས་མེད། ཁྱོད་ཀྱིས་གདམ་ཁ་རྐྱབ་མི་པར་ཚུ་ ཁྱོད་རའི་ཐབས་འཕྲུལ་གུ་སྡོདཔ་ཨིན།</li></ul><h2>ང་བཅས་ཀྱིས་ཐོབ་བརྗོད་མི་བཏུབ་པ།</h2><p>ང་བཅས་ཀྱི་རྩེདམོ་ཚུ་ སྤྲོ་བ་དང་འབྲེལ་བ་གི་དོན་ལུ་ཨིན། དེ་ཚུ་གིས་ བརྟག་དཔྱད་དང་ བརྟག་དཔྱད་ འཇལ་ཚད་ སྨན་བཅོས་ མགྱོགས་དྲགས་ ཡང་ན་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་ ཡང་ན་ ཨཱལ་ཛའི་མར་གྱི་ནད་གཞི་ཚུ་ བཀག་ཐབས་འབད་མི་ཚུགས་ནི་ཨིནམ་ལས་ དེ་ལུ་བརྟེན་ཏེ་ མི་གཅིག་གིས་ཡང་ གདམ་ཁ་རྐྱབ་མི་བཏུབ། ང་བཅས་ཀྱིས་ ང་བཅས་རའི་ ཞིབ་འཚོལ་གྱི་སྐོར་ལས་ བྲིས་སྐབས། <a href=\"/brain-health/\">ཀླད་པའི་འཕྲོད་བསྟེན་ཤོག་ངོས།</a>, ང་བཅས་ཀྱིས་ སྒྲུབ་བྱེད་ག་སྟེ་ལུ་ ཞན་ཁོག་ཡོདཔ་ཨིན་ན་ གསལ་ཏོག་ཏོ་སྦེ་སླབ་ཨིན།</p><h2>ང་བཅས་སུ་ཨིན།</h2><p>གསེར་གྱི་དུས་ཚོད་འདི་ རང་དབང་ཅན་གྱི་སྡེ་ཚན་ཆུང་ཀུ་ཅིག་ཨིན། ང་བཅས་སྨན་པ་མེན། ང་བཅས་ཀྱི་ལམ་སྟོན་ཚུ་ རྒྱལ་ཡོངས་རྒས་ཤོས་སྤེལ་ཁང་དང་ ཨཱལ་ཛའི་མར་ཚོགས་པ་བཟུམ་གྱི་ ལས་སྡེ་ཚུ་གིས་ དཔར་བསྐྲུན་འབད་ཡོད་པའི་ལམ་སྟོན་ཚུ་ལས་ བྲིས་ཏེ་ཡོདཔ་ད་ ལམ་སྟོན་ག་ར་གིས་ འབྱུང་ཁུངས་ཚུ་ ཐོ་བཀོད་འབད་དེ་ཡོདཔ་ཨིན། ལྸག་ནི <a href=\"/editorial-policy/\">ང་བཅས་ཀྱིས་ ཤོག་ལེབ་ཚུ་ ག་དེ་སྦེ་འབྲི་ནི་དང་ ཞིབ་དཔྱད་འབད་ནི།</a>.</p><h2>ང་བཅས་ལུ་ག་ཅི་ཕན་ཐོགས་འབྱུང་འོང་ག་སླབ།</h2><p>ང་བཅས་ཀྱིས་ ཁྱོད་ཀྱི་དོན་ལུ་ ག་ཅི་གིས་ ལཱ་འབདཝ་ཨིན་ན་དང་ ག་ཅི་གིས་ ལཱ་འབདཝ་ཨིན་ན་ དམིགས་བསལ་གྱིས་ བློ་སྟོབས་མེད་པའི་ མི་ཚུ་དང་ བཟའ་ཚང་བདག་འཛིན་འཐབ་མི་དང་ ལས་རིམ་གྱི་ ལས་བྱེདཔ་ཚུ་ལས་ ཉན་དགོ་མནོཝ་མས། གློག་འཕྲིན། <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "ང་བཅས་ཀྱིས་ ཤོག་ལེབ་ཚུ་བྲིས་ཐངས་དང་ བརྟག་དཔྱད་འབད་ཐངས།",
+      "seoTitle": "རྩོམ་སྒྲིག་སྲིད་བྱུས།",
+      "description": "གསེར་གྱི་དུས་ཚོད་ཀྱིས་ ཞིབ་འཚོལ་དང་ བྲིས་ འབྱུང་ཁུངས་ དེ་ལས་ དེ་གི་ བློ་སྟོབས་མེད་པའི་ལས་སྣ་དང་ ཀླདཔ་གསོ་བའི་ཤོག་ལེབ་ཚུ་ དུས་མཐུན་བཟོ་ཐངས་དང་ ང་བཅས་ཀྱིས་ ནམ་ཡང་ དཔར་བསྐྲུན་འབད་མི་ཚུགས།",
+      "crumb": "རྩོམ་སྒྲིག་སྲིད་བྱུས།",
+      "bodyHtml": "<h2>ང་ཚོའི་འབྱུང་ཁུངས།</h2><p>ང་བཅས་ཀྱིས་ ང་བཅས་ཀྱི་ལམ་སྟོན་འདི་ རྒྱལ་ཡོངས་རྒས་ཤོས་སྤེལ་ཁང་དང་ སི་ཌི་སི་ དེ་ལས་ ཨཱལ་ཛའི་མར་ཚོགས་པ་ ཨ་མི་རི་ཀ་གི་ཨཱལ་ཛའི་མར་གཞི་ཚོགས་དང་ བཟའ་ཚང་ལྟ་རྟོག་མཐུན་ཚོགས་ དེ་ལས་ ཨེན་ཨེཆ་ཨེསི་བཟུམ་གྱི་ མི་མང་གི་ལམ་སྟོན་ལུ་གཞི་བཞག་སྟེ་ཨིན་མས། ལམ་སྟོན་རེ་རེ་གིས་ བརྟེན་པའི་འབྱུང་ཁུངས་ཚུ་ཐོ་བཀོད་འབདཝ་ཨིན། ང་བཅས་ཀྱིས་ འབྱུང་ཁུངས་རེ་རེ་བཞིན་དུ་ དཔེ་སྟོན་མ་འབད་བའི་ཧེ་མ་ ཁ་ཕྱེ་སྟེ་ ངོ་མ་འབད་བ་ཅིན་ ག་ཅི་སླབ་ཨིན་ན་ སྙན་ཞུ་འབདཝ་ཨིན།</p><h2>ང་བཅས་ཀྱིས་འབྲི་ཐངས།</h2><ul><li>ལག་ལེན་དང་པ་: ད་རེས་ག་ཅི་འབད་ནི་ཨིན་ན་ སྐད་ཡིག་གསལ་ཏོག་ཏོ་ནང་།</li><li>བདེན་ཁུངས་སྐོར་ལས་ ང་བཅས་ཀྱིས་ “འབྲེལ་མཐུད་ཡོདཔ་” དང་ “འོང་” དེ་ལས་ “སྒྲུབ་བྱེད་སླ་བསྲེ་རྐྱབ་ཡོདཔ་ཨིན་” ཟེར་སླབ་ཨིན།</li><li>གུས་ཞབས་: ང་བཅས་ཀྱིས་ རྒས་ཤོས་སྦེ་ བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་སྐོར་ལས་ བྲིས་ཏེ་ ང་བཅས་ཀྱིས་ དྲི་བ་དྲིས་ལན་དང་ ངོ་ཚ་ཅན་གྱི་སྐད་ཡིག་ཚུ་ ནམ་ཡང་ ལག་ལེན་འཐབ་མི་བཏུབ།</li><li>གསར་གཏོད་འབད་ཡོད་པའི་ནང་དོན་མེད་: བཟོ་ཡོད་པའི་རྩིས་དཔྱད་དང་ ཚིག་བཅད་ མཁས་མཆོག་ ཞིབ་འཇུག་ བསྐྱར་ཞིབ་ ཡང་ན་ བདེན་ཁུངས་ཚུ་མེད།</li></ul><h2>ང་བཅས་ཀྱི་ཤོག་ལེབ་ཚུ་ག་གིས་བསྐྱར་ཞིབ་འབད་མི།</h2><p>ཤོག་ལེབ་ཚུ་ ཞིབ་འཚོལ་དང་ ཟིན་བྲིས་བཟོ་ནིའི་དོན་ལུ་ བཅོས་མའི་བློ་རིག་འབྲི་ཐངས་ཚུ་གི་རྒྱབ་སྐྱོར་ཐོག་ལས་ གསེར་གྱི་དུས་ཚོད་སྡེ་ཚན་གྱིས་ བྲིས་ཏེ་ བརྟག་དཔྱད་འབདཝ་ཨིན། ཤོག་ལེབ་རེ་རེ་བཞིན་དུ་ སྡེ་ཚན་གྱིས་ འབྱུང་ཁུངས་ཚུ་དང་ཕྱདཔ་ད་ ཞིབ་དཔྱད་འབདཝ་ཨིན། ང་བཅས་ཀྱི་ཤོག་ལེབ་ཚུ་ལུ་ཡོད། <strong>མེན་</strong> དྲུང་འཚོ་དང་ ཡང་ན་ སྨན་པ་གཞན་ཚུ་གིས་ བསྐྱར་ཞིབ་འབད་ཡོདཔ་ལས་ ང་བཅས་ཀྱིས་ དེ་མེན་པ་ཅིན་ ཐོབ་བརྗོད་བཀོད་མི་བཏུབ། དེ་ཚུ་སྤྱིར་བཏང་གི་བརྡ་དོན་ཨིནམ་ལས་ སྨན་བཅོས་ཀྱི་བསླབ་བྱ་མེན།</p><h2>ང་བཅས་ཀྱིས་ནམ་ཡང་དཔར་བསྐྲུན་མི་འབད།</h2><ul><li>རྩེདམོ་དང་ ཟ་འཐུང་ ལྷན་ཐབས་ མགྱོགས་དྲགས་ ཡང་ན་ ཉིན་བསྟར་གྱི་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་ བཀག་ཐབས་དང་ སྨན་བཅོས་ མགྱོགས་དྲགས་ ཡང་ན་ སྨན་བཅོས་འབདཝ་ཨིན་ཟེར་ བཤདཔ་ཨིན་པས།</li><li>བརྟག་དཔྱད་དང་ དྲི་བ་ ཡང་ན་ མི་ཅིག་ལུ་ བློ་སྟོབས་མེད་པའི་ བསམ་འཆར་བཀོད་མི་ སྐུགས་ཚུ།</li><li>སྨན་གང་རུང་འགོ་བཙུགས་ནི་དང་བཀག་ནི་ ཡང་ན་ བསྒྱུར་བཅོས་འབད་ནིའི་བསླབ་བྱ།</li><li>ཁྱབ་བསྒྲགས་ཡང་ན་ མ་དངུལ་རྒྱབ་སྐྱོར་འབད་མི་ ནང་དོན་ཚུ་ ལམ་སྟོན་སྦེ་ མགུ་སྐོར་རྐྱབ་སྟེ་ འབད་ནི།</li></ul><h2>དུས་མཐུན་དང་ནོར་བཅོས།</h2><p>ཤོག་ལེབ་རེ་རེ་གིས་ མཐའ་མཇུག་དུས་མཐུན་བཟོ་ཡོད་པའི་ཚེས་གྲངས་སྟོནམ་ཨིན། འཛོལ་བ་ཡང་ན་དུས་ཚོད་རྫོགས་པའི་ཐོན་ཁུངས་མཐོང་པ་ཅིན་ གློག་འཕྲིན་གཏང་གནང་། <a href=\"mailto:{email}\">{email}</a> དེ་ལས་ང་བཅས་ཀྱིས་ དེ་འཕྲོ་ལས་ བརྟག་དཔྱད་འབད་འོང་།</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "དྲི་བ་དྲིས་ལན།",
+      "seoTitle": "བློ་འཚབ་ནད་ཀྱི་རྩེད་མོ་དང་ལས་རིམ།: དྲི་བ་དྲིས་ལན།",
+      "description": "བློ་སྟོབས་མེད་པའི་རྩེད་རིགས་དང་ལས་རིམ་ཚུ་གི་སྐོར་ལས་ སྤྱིར་བཏང་གི་དྲི་བ་ཚུ་གི་ལན་ཚུ་ རྩེད་རིགས་ག་ཅི་ འབད་རྩོལ་བསྐྱེད་དགོཔ་ཨིན་ན་ དུས་ཡུན་ག་དེམ་ཅིག་རྩེད་དགོཔ་ཨིན་ན་ ཤུལ་ལས་ བསམ་འཆར་ ཀླདཔ་གསོ་བ་དང་ སྒེར་གསང་ཚུ་ཨིན།",
+      "crumb": "དྲི་བ་དྲིས་ལན།",
+      "lede": "གཅེས་སྐྱོང་འབད་མི་ཚུ་གིས་ མང་ཤོས་ཅིག་རང་ དྲི་བ་བཀོད་མི་ཚུ་ལུ་ ལན་ཐུང་ཀུ་དང་ གསལ་ཏོག་ཏོ་ཨིན།",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "རྩེད་རིགས་ཀྱི་སྐོར།",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "བློ་སྟོབས་མེད་པའི་མི་ལུ་ རྩེདམོ་དྲག་ཤོས་ག་ཅི་སྨོ?",
+              "a": "རྩེད་རིགས་དྲག་ཤོས་ཚུ་ གོམས་འདྲིས་ཅན་དང་ འཇམ་ཏོང་ཏོ་ དེ་ལས་ གནོན་ཤུགས་མེདཔ་ཨིནམ་ལས་ འོས་འབབ་ཅན་འདི་ ད་རེས་ནངས་པ་ མི་ངོམ་འདི་གིས་ ག་ཅི་ལུ་སྤྲོ་བ་བསྐྱེདཔ་ཨིན་ན་ དེ་ཨིན། མཐོང་གསལ་གྱི་པར་རིས་ཚུ་དང་ མཐུན་སྒྲིག་འབད་ནི་དང་ དབྱེ་བ་ཕྱེ་ནི་ འཇམ་ཏོང་ཏོ་སྦེ་ ཇིག་སོ་འབད་ནི་ གོམས་འདྲིས་ཅན་གྱི་ཚིག་ཚུ་ མཇུག་བསྡུ་ནི་ ཚོས་གཞི་བཏང་ནི་ དེ་ལས་ པར་རིས་བིང་གོ་ཚུ་ག་ར་ མི་མང་ཤོས་ཅིག་ལུ་ ལེགས་ཤོམ་སྦེ་ ལཱ་འབདཝ་ཨིན། དུས་ཚོད་དང་ སྐུགས་ དེ་ལས་ བརྟག་དཔྱད་བཟུམ་གྱི་ ཚོར་སྣང་བྱུང་མི་ ག་ཅི་རང་འབད་རུང་ བཀག་དགོ།"
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "རྩེདམོ་འདི་ཚུ་ ངོ་མ་རང་ རིན་མེད་སྟོངམ་ཨིན་ན?",
+              "a": "ཨིན། རྩེད་རིགས་དང་དཔར་བསྐྲུན་འབད་བཏུབ་མི་ཚུ་ག་ར་ རིན་མེད་སྟོང་པ་སྦེ་ རྩིས་ཐོ་དང་ མིང་ཐོ་བཀོད་ནི་ ཕབ་ལེན་འབད་ནི་ ཡང་ན་ ཁྱབ་བསྒྲགས་འབད་ནི་ཚུ་མེདཔ་ཨིན།"
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "ག་ཅི་འབད་ སྐུགས་དང་གནས་རིམ་ ཡང་ན་ དུས་ཚོད་ཚུ་མེདཔ་སྨོ?",
+              "a": "མགྱོགས་ཚད་དང་སྐུགས་ཚུ་གིས་ དགའ་སྤྲོ་ཅན་གྱི་ལས་རིམ་འདི་ ཆོས་རྒྱུགས་ལུ་འགྱུར་བཅུག་སྟེ་ ངོ་ཚ་ཡང་ན་ སེམས་ཕམ་འབྱུང་བཅུགཔ་ཨིན། ང་བཅས་ཀྱིས་ སྤྲོ་བ་དང་དུས་ཚོད་གཅིག་ཁར་ གཙོ་བོར་བསྟེན་དོ་ཡོདཔ་ལས་ འཐུས་ཤོར་ག་ནི་ཡང་མེདཔ་ལས་ ཁྱོད་ཀྱིས་ དུས་ཚོད་གང་རུང་ཅིག་ནང་ བཀག་ཚུགས།"
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "ཐབས་འཕྲུལ་ག་གིས་ ལེགས་ཤོམ་སྦེ་ལཱ་འབདཝ་ཨིན་ན།",
+              "a": "དེང་སང་གི་ཝེབ་བརའུ་ཟར་ཡོད་པའི་ཁ་པར་དང་ཐབ་ཤིང་ ཡང་ན་གློག་རིག་གང་རུང་ཅིག། མི་གཉིས་ ཕྱོགས་གཅིག་ལུ་ རྩེད་ནིའི་དོན་ལུ་ འཕྲལ་འཕྲལ་སྐབས་ ཐབ་ཚང་གུ་ ཐབ་ཚང་གུ་ ཐབ་ཚང་ཅིག་ བཀལ་མི་འདི་ བདེ་ཏོག་ཏོ་ཅིག་ཨིན། རྒྱང་མཐོང་ལུ་མཐུད་ཡོད་པའི་ གློག་རིག་ཀམ་པུས་ཊར་གྱིས་ སྡེ་ཚན་ཚུ་གི་དོན་ལུ་ ལེགས་ཤོམ་སྦེ་ལཱ་འབདཝ་ཨིན།"
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "ང་བཅས་རའི་བཟའ་ཚང་གི་པར་ཚུ་རྩེད་ཚུགས་ག?",
+              "a": "ཨིན། པར་ཆ་གཅིག་གིས་ ཁྱོད་ཀྱིས་གདམ་ཁ་རྐྱབ་མི་ པར་༢ ལས་༦ ཚུན་ མཐུན་སྒྲིག་རྩེདམོ་ལུ་བསྒྱུར་བཅོས་འབདཝ་ཨིན། པར་ཚུ་ཁྱོད་ཀྱི་བརྡ་འཚོལ་ནང་སྡོད་ཞིནམ་ལས་ སྐྱེལ་བཙུགས་ཡང་ན་སྲུང་མི་བཏུབ།"
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "བྱ་འགུལ་དང་གཉོར་སྐྱོང་།",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "ལས་རིམ་ཅིག་དུས་ཡུན་ག་དེམ་ཅིག་འགྱོ་དགོཔ་སྨོ?",
+              "a": "འཕྲལ་འཕྲལ་སྐར་མ་༡༠ ལས་༢༠ ཚུན་ ལངམ་སྦེ་ཡོདཔ་ད་ རེ་ཅིག་སྐབས་ སྐར་མ་༢ དེ་ཅིག་ མཐར་འཁྱོལ་ཅན་ཅིག་ཨིན། འུ་སྡུག་དང་ ཡང་ན་ སེམས་ཕམ་གྱི་རྟགས་མཚན་ཚུ་བལྟ་སྟེ་ ད་ལྟོ་ཡང་ ལེགས་ཤོམ་སྦེ་ མནོ་བསམ་གཏང་པའི་སྐབས་ བཀག་དགོ། དངུལ་འབོར་ཡང་དག་ཅིག་མེད།"
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "ལས་རིམ་ཅིག་འབད་མ་བཏུབ་པ་ཅིན་ ག་དེ་སྦེ་སྨོ?",
+              "a": "མེན་ཟེར་མི་ལུ་གུས་ཞབས་འབད་དེ་ ཤུལ་ལས་ ཡང་ན་ ཐབས་ལམ་སོ་སོ་ཅིག་ནང་ ལོག་སྟེ་འབད་རྩོལ་བསྐྱེད། ངོས་ལེན་མ་འབད་མི་འདི་ འུ་སྡུག་དང་ ན་ཟུག་ ངེས་གཏན་མེད་པའི་ཚོར་སྣང་ ཡང་ན་ འཇམ་ཏོང་ཏོ་སྦེ་ སྤྲོ་བ་མེད་མི་ཚུ་ལས་ འོང་འོང་། ང་བཅས་ཀྱི་ལམ་སྟོན་འདི་ ཁོང་གིས་ མ་སླབ་པའི་སྐབས་ ག་ཅི་འབད་དགོཔ་ཨིན་ན་ བལྟ།"
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "ཤུལ་ལས་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་ལུ་ ལས་རིམ་ག་ཅི་ཚུ་ འོས་འབབ་ཡོདཔ་སྨོ?",
+              "a": "བདེ་སྐྱིད་དང་ཚོར་སྣང་ཚུ་ དགའ་མཐུན་གྱི་སྙན་ཆ་ཉན་ནི་དང་ ལགཔ་གུ་བཤལ་ནི་ པར་གཅིག་ཁར་བལྟ་ནི་ གདན་འཇམ་པོ་བཟུང་ནི་ ཕྱི་ཁར་སྡོད་ནི་ ཡང་ན་ ཁོང་གི་ཉེ་འདབས་ལུ་ མི་གཅིག་དང་གཅིག་ཁར་ པར་རྩེདམོ་འཇམ་ཏོང་ཏོ་སྦེ་རྩེད་ནི་ཚུ་ཨིན། ང་བཅས་རའི་ཤུལ་མའི་ལམ་སྟོན་ལུ་ བསམ་འཆར་ལེ་ཤ་ཅིག་ཡོདཔ་ཨིན།"
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "བདག་འཛིན་འཐབ་སའི་ཁྱིམ་ནང་ སྡེ་ཚན་ཚུ་གི་དོན་ལུ་ ལས་རིམ་ཚུ་ཡོདཔ་ཨིན་ན?",
+              "a": "ཨིན། པར་རིས་བིང་གོ་ལུ་ དཔར་བསྐྲུན་འབད་བཏུབ་པའི་ཤོག་བྱང་དང་ གསལ་གཞི་གུ་ཁ་པར་བཏང་མི་ཡོདཔ་མ་ཚད་ བཤད་ཚིག་མཇུག་བསྡུ་ནི་དང་ ཁ་སླབ་ཤོག་བྱང་ཚུ་ སྐད་སྦོམ་སྦེ་ལྷག་སྟེ་ ལེགས་ཤོམ་སྦེ་ལཱ་འབདཝ་ཨིན། ང་བཅས་རའི་ བདག་འཛིན་ཁྱིམ་སྡེ་ཚན་གྱི་ལམ་སྟོན་འདི་གིས་ སྡེ་ཚན་གྱི་སྦོམ་ཆུང་དང་ སྡོད་ཁྲི་ དེ་ལས་ ལྕོགས་གྲུབ་སླ་བསྲེ་རྐྱབ་ནིའི་དོན་ལུ་ མཐུན་སྒྲིག་འབད་ནི་ཚུ་ ཁྱབ་ཚུགསཔ་ཨིན།"
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "ཀླད་པའི་འཕྲོད་བསྟེན།",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "རྩེདམོ་འདི་གིས་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་འདི་ བཀག་ཚུགས་ག་ ཡང་ན་ མར་ཕབ་འབད་ཚུགས་ག?",
+              "a": "བློ་སྟོབས་མེད་པའི་ནད་གཞི་བཀག་ཐབས་ལུ་ རྩེདམོ་ག་ནི་ཡང་ སྟོན་མ་ཚུགསཔ་ལས་ ང་བཅས་ཀྱི་རྩེདམོ་ཚུ་གིས་ དེ་བཟུམ་གྱི་ ཐོབ་བརྗོད་བཀོད་མི་ཚུགས། མི་སྡེའི་གནས་སྟངས་ནང་ལུ་ བློ་རིག་སྐུལ་སློང་འབད་མི་འདི་གིས་ བློ་སྟོབས་ཉམས་ཆུང་ལས་ བར་མཚམས་ཅན་གྱི་མི་ཚུ་ལུ་ ཞིབ་འཚོལ་འབད་བའི་སྐབས་ལུ་ ཁེ་ཕན་ཆུང་ཀུ་ཅིག་སྟོན་ཡོདཔ་ཨིན་རུང་ འདི་ཡང་ ནད་གཞི་བཀག་ཐབས་ཀྱི་ རྩེདམོ་ལས་ སོ་སོ་ཅིག་ཨིན་མས། ང་བཅས་ཀྱིས་ སྤྲོ་བ་དང་འབྲེལ་བ་གི་དོན་ལུ་ རྩེདམོ་ཚུ་ བྱིནམ་ཨིན།"
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "བློ་སྟོབས་མེད་པའི་ནད་གཞི་འདི་སྔོན་འགོག་འབད་ཚུགས་ག?",
+              "a": "ངེས་གཏན་དང་བཅས་མིན། ཞིབ་འཚོལ་གྱི་ གསོ་བ་དང་ མི་ཚེའི་གནས་སྟངས་ཀྱི་ གནད་དོན་༡༤ དེ་ཅིག་ གོ་ཐོས་མེད་མི་དང་ ཁྲག་ཤུགས་མཐོ་དྲགས་ གཟུགས་ཀྱི་ ལཱ་འབད་མ་ཚུགས་མི་ དེ་ལས་ མི་སྡེ་ནང་ ཟུར་གནས་སྡོད་མི་ཚུ་ འབྲེལ་བ་འཐབ་སྟེ་ཡོདཔ་ཨིན་པས། དེ་ཚུ་ལུ་ ཁ་སླབ་མི་འདི་གིས་ མི་ལ་ལུ་ཅིག་ལུ་ ཉེན་ཁ་མར་ཕབ་འབད་ཚུགས་ནི་ཨིན་རུང་ ག་ར་ལེགས་ཤོམ་སྦེ་འབད་མི་ མི་མང་ཤོས་ཅིག་ལུ་རང་ ད་ལྟོ་ཡང་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་ཐོན་དོ་ཡོདཔ་ཨིན། དེ་ནམ་ཡང་མི་གཞན་གྱི་སྐྱོན་མིན།"
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "བར་མཚམས་ལུ་ཟས་བཅད་ནི་འདི་ཀླད་པའི་འཕྲོད་བསྟེན་ལུ་ལེགས་ཤོམ་ཨིན་ན?",
+              "a": "མི་གི་སྒྲུབ་བྱེད་འདི་ ཚད་འཛིན་དང་ ཧེ་མ་ལས་ར་ཡོདཔ་དང་ ཞིབ་འཚོལ་མང་ཤོས་ཅིག་ར་ སེམས་ཅན་ཚུ་གུ་ལུ་འབད་ཡོདཔ་ཨིན། རྒས་ཤོས་ཚུ་ལུ་ ཟས་བཅད་འབད་ནི་འདི་ ཉེན་ཁ་ཅན་ཅིག་ཨིནམ་ལས་ དམིགས་བསལ་གྱིས་ གུ་རམ་ནད་གཞི་གི་སྨན་བཅོས་དང་ ཡང་ན་ མནོ་མེད་ཀྱི་ལྗིད་ཚད་མར་ཕབ་འབད་མི་ཚུ་ལུ་ ཟས་བཅད་འབད་ནི་འདི་ ཉེན་ཁ་ཅན་ཅིག་ཨིནམ་ལས་ བློ་སྟོབས་མེད་པའི་ མི་ཚུ་ལུ་ ཟས་བཅུད་མ་བཞེས་ཟེར་ཨིན་མས། ཁྱོད་ཀྱིས་ཟ་ཐངས་བསྒྱུར་བཅོས་མ་འབད་བའི་ཧེ་མ་ སྨན་པ་དང་གཅིག་ཁར་ ཁ་སླབ།"
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "སྒེར་གསང་དང་བདེ་འཇགས།",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "ཁྱོད་ཀྱིས་བརྡ་དོན་གང་ཡང་བསྡུ་ལེན་འབདཝ་ཨིན་ན?",
+              "a": "རྩིས་ཁྲ་དང་ཁྱབ་བསྒྲགས་མེད། ང་བཅས་ཀྱིས་ གུ་གཱལ་ཨེ་ན་ལི་ཊིགསི་ལག་ལེན་འཐབ་སྟེ་ ལྟ་སྐོར་ཚུ་རྩིས་རྐྱབ་ནི་དང་ ཤོག་ལེབ་ག་གིས་ གྲོགས་རམ་འབདཝ་ཨིན་ན་ བལྟ་ནི་དང་ ཁྱོད་ཀྱི་བརྡ་འཚོལ་འདི་གིས་ ཁྱོད་ཀྱིས་ མཉེན་ཆས་སྒྲ་ཚུ་ ཁ་ཕྱེ་ཡོདཔ་ཨིན་ན་ དྲན་འོང་། ཁྱོད་ཀྱིས་ པར་ཆ་གཅིག་གི་དོན་ལུ་གདམ་ཁ་རྐྱབ་མི་པར་ཚུ་ ནམ་ཡང་སྐྱེལ་བཙུགས་མི་འབད། ཁ་གསལ་གྱི་དོན་ལུ་ སྒེར་དོན་བརྡ་དོན་ལུ་བལྟ།"
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "འདི་སྨན་བཅོས་བསླབ་བྱ་ཨིན་ན?",
+              "a": "མེན་ གསེར་གྱི་དུས་ཚོད་འདི་ སྤྲོ་སྟོན་དང་སྤྱིར་བཏང་བརྡ་དོན་གྱི་དོན་ལུ་ཨིན། གསོ་བའི་དྲི་བ་ཚུ་གི་དོན་ལུ་ སྨན་པ་དང་གཅིག་ཁར་ ཁ་སླབ་དགོཔ་དང་ གློ་བུར་གྱི་དོན་ལུ་ ༩༡༡ ལུ་ཁ་པར་གཏོང་།"
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "ཁ་གསལ། <a href=\"/caregiving/how-to-play-together/\">གཅིག་ཁར་རྩེད་ཐངས།</a>, . <a href=\"/caregiving/when-they-say-no/\">ཁོང་གིས་མེན་ཟེརཝ་ད་</a>, . <a href=\"/activities/late-stage/\">ཕྱིས་ཀྱི་ལས་དོན།</a> དང༌ <a href=\"/brain-health/can-dementia-be-prevented/\">བློ་སྟོབས་མེད་པའི་ནད་གཞི་འདི་སྔོན་འགོག་འབད་ཚུགས་ག?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ རིན་མེད་སྟོངམ་སྦེ་ རྩེདམོ་འཇམ་པོ་ཚུ།",
+      "seoTitle": "དཔར་བསྐྲུན་འབད་བཏུབ་པའི་ལག་ཁྱེར།: རིན་མེད་ཀྱི་བློ་སྟོབས་མེད་པའི་རྩེད་རིགས་དྲ་རྒྱ།",
+      "description": "བཟའ་ཚང་དང་ བདག་འཛིན་འཐབ་མི་ཚུ་གི་དོན་ལུ་ ཤོག་ལེབ་གཅིག་གི་ དཔར་བསྐྲུན་འབད་བཏུབ་པའི་ ལག་དེབ་ཅིག་ བློ་སྟོབས་མེད་པའི་ མི་ཚུ་གི་དོན་ལུ་ རིན་མེད་སྟོངམ་སྦེ་ པར་གྱི་རྩེདམོ་ཚུ་གི་སྐོར་ལས་ རྒྱབ་སྐྱོར་སྡེ་ཚན་དང་.",
+      "crumb": "དཔར་བསྐྲུན་འབད་བཏུབ་པའི་བཀྲམ་ཤོག་།",
+      "lede": "རྒྱབ་སྐྱོར་སྡེ་ཚན་དང་ བདག་འཛིན་ཐུམ་སྒྲིལ་ ཡང་ན་ འཁྱགས་སྒམ་གྱི་སྒོ་གི་དོན་ལུ་ ཤོག་ལེབ་འདི་དཔར་བསྐྲུན་འབད། ཁྱོད་རའི་བརྡ་འཚོལ་གྱི་དཔར་བསྐྲུན་བརྡ་བཀོད་ལག་ལེན་འཐབ། དཀར་ཆག་ཚུ་དང་ཨེབ་རྟ་ཚུ་ དཔར་བསྐྲུན་ལས་བཞག་ཡོདཔ་ཨིན།",
+      "introHtml": "<p>པར་སྦོམ་དང་ ཚིག་གསལ་ཏོག་ཏོ་ དེ་ལས་ ག་ནི་ཡང་ འཐུས་ཤོར་མེདཔ་ཨིན། འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ རིན་མེད་སྟོངམ་སྦེ་ མིང་ཐོ་བཀོད་ནི་དང་ ཁྱབ་བསྒྲགས་འབད་ནི་ དུས་ཚོད་བཀོད་ནི་ དེ་ལས་ སྐུགས་མེད་པར་ རིན་མེད་སྟོངམ་སྦེ་ ཐོབ་ཚུགས། ཕྱོགས་གཅིག་ལུ་སྡོད་ཞིནམ་ལས་ སྐོར་རྒྱབ་འབད།</p>",
+      "gamesTitle": "གཅིག་ཁར་འབད་རྩོལ་བསྐྱེད་ནིའི་རྩེདམོ་ཚུ།",
+      "restHtml": "<h2>བསླབ་བྱ་ཁ་ཤས།</h2><ul><li>མི་དེ་ ལེགས་ཤོམ་སྦེ་ཡོད་པའི་སྐབས་ལུ་ ཉིནམ་གཅིག་གི་དུས་ཚོད་གདམ་ཁ་རྐྱབས།</li><li>འཇམ་ཤོས་སྒྲིག་སྟངས་ལས་འགོ་བཙུགས། ཊ་ཡིལ་བཞི་འདི་ ལེ་ཤ་ཡོདཔ་ཨིན།</li><li>པར་རིས་ཚུ་གི་སྐོར་ལས་བཤད། ཁ་སླབ་འདི་ འཕྲལ་འཕྲལ་རང་ དྲག་ཤོས་ཅིག་ཨིན།</li><li>ད་ལྟོ་ཡང་ དགའ་སྤྲོ་འབྱུང་པའི་སྐབས་ བཀག་བཞག། དུས་ཚོད་ཁར་མཇུག་བསྡུ་མི་འདི་ གྲུབ་འབྲས་ལེགས་ཤོམ་ཅིག་ཨིན།</li></ul><h2>དྲ་ཚིགས་ཐོག་ལའང་།</h2><ul><li>རིན་མེད་དཔར་བསྐྲུན་འབད་ཚུགས་མི་ཚུ་: དཔར་བསྐྲུན་སྦོམ་གྱི་མིང་ཚིག་འཚོལ་ཞིབ་དང་ ཚོས་གཞི་བཀོད་ནིའི་ཤོག་ལེབ་ ཁ་སླབ་ཤོག་བྱང་དང་ པར་རིས་བིང་གོ་ཚུ།</li><li>གནས་རིམ་ག་རའི་དོན་ལུ་ ལས་རིམ་གྱི་བསམ་འཆར་དང་ གཅིག་ཁར་རྩེད་ནི་དང་ རང་ལུ་བདག་འཛིན་འཐབ་ནིའི་ལམ་སྟོན་ཚུ།</li></ul><p class=\"muted\">སྤྲོ་བ་དང་དུས་ཚོད་གཅིག་ཁར་སྡོད་པའི་དོན་ལུ། སྨན་བཅོས་བསླབ་བྱ་ བརྟག་དཔྱད་ ཡང་ན་ སྨན་བཅོས་མེན། གསེར་གྱི་དུས་སྐབས་འདི་ Cloudjet Solutions Pte གིས་ དཔར་བསྐྲུན་འབད་ཡོདཔ་ཨིན། Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "གཅེས་སྐྱོང་ཁང་དང་དཔེ་མཛོད་ དེ་ལས་ རྒྱབ་སྐྱོར་སྡེ་ཚན་ཚུ་གི་དོན་ལུ་",
+      "seoTitle": "བདག་འཛིན་འཐབ་སའི་ཁྱིམ་དང་སྡེ་ཚན་ཚུ་གི་དོན་ལུ་ རིན་མེད་སྟོངམ་སྦེ་ བློ་སྟོབས་མེད་པའི་ལས་རིམ་ཚུ།",
+      "description": "ག་དེ་སྦེ་ བདག་འཛིན་འཐབ་སའི་ཁྱིམ་དང་ རྒས་ཤོས་ཀྱི་ཉིནམ་ལས་རིམ་ དཔེ་མཛོད་ རྒས་ཤོས་ལས་སྡེ་ དེ་ལས་ རྒྱབ་སྐྱོར་སྡེ་ཚན་ཚུ་གིས་ ང་བཅས་རའི་ རིན་མེད་སྟོངམ་སྦེ་ བློ་སྟོབས་མེད་པའི་རྩེདམོ་ཚུ་ ལག་ལེན་འཐབ་དོ་ཡོདཔ་ཨིན་ན་.",
+      "crumb": "ལས་སྡེ་ཚུ་གི་དོན་ལུ།",
+      "lede": "དྲ་ཚིགས་འདི་ནང་ལུ་ཡོད་མི་ཚུ་ག་ར་ མི་སེར་དང་འཐུས་མི་ དེ་ལས་ མཁོ་མངགས་འབད་མི་ཚུ་དང་གཅིག་ཁར་ རྩིས་ཁྲ་དང་ཆོག་ཐམ་ དེ་ལས་ འཐུས་མེད་པར་ རིན་མེད་སྟོངམ་སྦེ་ ལག་ལེན་འཐབ་ཚུགས། ཤོག་ལེབ་འདི་གིས་ ནཱ་ལུ་ག་ཅི་ཡོདཔ་ཨིན་ན་དང་ བརྗེ་སོར་འབད་ཐངས་ཚུ་ འགྲེལ་བཤད་རྐྱབ་ཨིན།",
+      "shortText": "{name}: རིན་མེད་སྟོངམ་སྦེ་ པར་རིས་རྩེདམོ་དང་ ལས་རིམ་ལམ་སྟོན་ཚུ་ བློ་སྟོབས་མེད་པའི་མི་དང་ ཁོང་ལུ་ བདག་འཛིན་འཐབ་མི་ཚུ་གི་དོན་ལུ་ཨིན། མིང་ཐོ་བཀོད་མེད་ དུས་ཚོད་མེད་ སྐུགས་མེད།",
+      "longText": "{name} ({domain}) འབུལ། {count} འདོན་སྤེལ།: ༢༠༡༠/༠༣/༠༣ རིག་པ།(༠) འདི་ལྟར་དྲན་དུས་ གྱི་སྙིང་རྩ་འཕར། རྩིས་ཁྲ་དང་ཁྱབ་བསྒྲགས་ དུས་ཚོད་དང་སྐུགས་མེད། ད་རུང་ ས་ཁོངས་འདི་ནང་ལུ་ རྒྱལ་ཡོངས་རྒས་ཤོས་སྤེལ་ཁང་དང་ ཨཱལ་ཛའི་མར་ཚོགས་སྡེ་ཚུ་ བཀོད་དེ་ཡོད་མི་ བློ་སྟོབས་མེད་པའི་གནས་རིམ་རེ་རེ་གི་དོན་ལུ་ སྐད་ཡིག་གསལ་ཏོག་ཏོ་གི་ལས་རིམ་ལམ་སྟོན་ཚུ་ཡང་ཡོདཔ་ཨིན།",
+      "useTitle": "ལས་སྡེ་ག་ཅི་གིས་ལག་ལེན་འཐབ་བཏུབ།",
+      "gamesItemHtml": "<strong>{count} བརའུ་ཟར་རྩེདམོ་ཚུ།</strong> གློག་རིག་ལུ་མཐུད་ཡོད་པའི་ གློག་རིག་ཀམ་པུ་ཊར་དང་ ཐབ་ལམ་ ཡང་ན་ རྒྱང་མཐོང་ཚུ་ནང་ གཡོག་བཀོལ་མི་ཚུ། གཞི་བཙུགས་དང་རྩིས་ཐོ་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་མེད། མཐོང <a href=\"/games/\">རྩེདམོ་ཆ་མཉམ།</a>.",
+      "printablesLabel": "{count} དཔར་བསྐྲུན་འབད་བཏུབ་ཚུ།",
+      "printablesAfter": "ཤོག་ལེབ་རེ་རེ་གུ་ དཔར་བསྐྲུན་ཨེབ་རྟ་འདི་ལག་ལེན་འཐབ།",
+      "moreItemsHtml": "<li><strong>སྡེ་ཚན་རྩ་སྒྲིག་ཚུ་:</strong> <a href=\"/games/picture-bingo/\">པར་རིས་བིང་གོ།</a> དཔར་བསྐྲུན་འབད་བཏུབ་པའི་ཤོག་བྱང་དང་ གསལ་གཞི་གུ་ཁ་པར་བཏང་མི་ཅིག་ཡོདཔ་ཨིན། <a href=\"/activities/trivia/\">འཇམ་ཏོང་ཏོ།</a> ལན་གདམ་ཁ་དང་ ཁ་སླབ་སའི་གནད་དོན་ཡོད་པའི་དྲི་བ་༥༠ ཡོད།</li><li><strong>བྱ་བའི་ལམ་སྟོན།</strong> ལས་བྱེདཔ་དང་བཟའ་ཚང་ཚུ་གི་དོན་ལུ་ གནས་རིམ་དང་དབྱེ་བ་དང་འཁྲིལ་ཏེ་ འབྱུང་ཁུངས་ཚུ་དང་གཅིག་ཁར་ སྐད་ཡིག་གསལ་ཏོག་ཏོ་ནང་བྲིས་ཏེ་ཡོདཔ་ཨིན། དང་བཅས་འགོ་བཙུགས། <a href=\"/activities/ideas/\">101 བྱ་འགུལ་བསམ་ཚུལ།</a> ཡང་ཅིན་ <a href=\"/activities/care-home-groups/\">གཅེས་སྐྱོང་ཁྱིམ་གྱི་དོན་ལུ་ སྡེ་ཚན་གྱི་ལས་རིམ།</a>.</li>",
+      "restHtml": "<h2>སྡེ་ཚན་ཚུ་གིས་ལག་ལེན་འཐབ་ཐངས།</h2><ul><li><strong>གཅེས་སྐྱོང་ཁང་དང་དྲན་ཤེས་གཅེས་སྐྱོང་།</strong> པར་རིས་བིང་གོ་ཡང་ན་ སྤྱིར་བཏང་ཁང་མིག་རྒྱང་མཐོང་ནང་ མི་གཅིག་གིས་ སྡེ་ཚན་གྱི་དོན་ལུ་ ཨེབ་གཏང་འབད་དེ་ མཇུག་བསྡུ་དགོ།</li><li><strong>རྒན་རྒོན་གྱི་ཉིནམ་ལས་རིམ།</strong> གཅིག་ལས་གཅིག་གི་དུས་ཡུན་ཐུང་ཀུ་ཚུ་གི་དོན་ལུ་ པར་རིས་ཆ་གཅིག་ཚུ་ ཊ་ཡིལ་བཞི་ལུ་གཞི་སྒྲིག་འབད་ཡོད་པའི་ ཐབ་ལམ་ས་ཚིགས་ཅིག།</li><li><strong>མི་མང་དཔེ་མཛོད་ཁང་།</strong> དྲན་ཚད་ཅ་ཆས་ཚུ་ནང་ དཔར་བསྐྲུན་འབད་ཡོད་པའི་མིང་ཚིག་འཚོལ་ཞིབ་དང་ ཁ་སླབ་ཤོག་བྱང་ཚུ་ དེ་ལས་ དཔེ་མཛོད་ཐབ་ལམ་ཚུ་ནང་ དེབ་རྟགས་བཀོད་ཡོད་པའི་ས་ཁོངས་ཚུ་ཨིན།</li><li><strong>གཅེས་སྐྱོང་རྒྱབ་སྐྱོར་སྡེ་ཚན་དང་དྲན་ཤེས་ཁང་།</strong> ཅིག <a href=\"/handout/\">ཤོག་ངོས་གཅིག་ཅན་གྱི་དཔར་བསྐྲུན་འབད་བཏུབ་པའི་ལག་ལེན།</a> བཟའ་ཚང་ཚུ་གིས་ཁྱིམ་ནང་འབག་འགྱོ་ནིའི་དོན་ལུ་ཨིན།</li><li><strong>སྨན་ཁང་དང་ ཕྱིར་འབུད་འཆར་གཞི་བཟོ་མི།</strong> འདོན་སྤེལ།: ༢༠༡༠/༠༣/༠༣ རིག་པ།(༡) འདི་ཡང་ གཟའ་ཉི་མའི་ཉིན།</li></ul><h2>ང་བཅས་ཀྱིས་མ་འབད་མི་འདི་</h2><p>རྩེདམོ་འདི་ཚུ་ སྤྲོ་བ་དང་དུས་ཚོད་གཅིག་ཁར་སྡོད་ནིའི་དོན་ལུ་ཨིན། དེ་ཚུ་གིས་ བརྟག་དཔྱད་དང་ བརྟག་དཔྱད་ སྐུགས་ སྨན་བཅོས་ ཡང་ན་ མགྱོགས་དྲགས་སྦེ་ བློ་སྟོབས་མེདཔ་ལས་ ང་བཅས་ཀྱིས་ ལས་སྡེ་ཚུ་ལུ་ དེ་སྦེ་ འགྲེལ་བཤད་མ་རྐྱབ་ཟེར་ ཞུཝ་ཨིན། ཁྱབ་བསྒྲགས་མེདཔ་ལས་ རྩེད་རིགས་ཚུ་གིས་ མིང་དང་ གསོ་བའི་ཁ་གསལ་ དེ་ལས་ པར་ཚུ་ སྐྱེལ་བཙུགས་འབད་དགོཔ་མེདཔ་ཨིན་པས། དྲ་ཚིགས་འདི་གིས་ ལྟ་སྐོར་འབད་མི་ཚུ་རྩིས་རྐྱབ་ནིའི་དོན་ལུ་ གུ་གཱལ་ཨེ་ན་ལི་ཊིགསི་ལག་ལེན་འཐབ་ཨིན། ང་བཅས་ཀྱི་ <a href=\"/privacy/\">སྒེར་དོན་གསལ་བསྒྲགས།</a> དེ་གིས་ག་ཅི་བསྡུ་ལེན་འབདཝ་ཨིན་ན་ འགྲེལ་བཤད་རྐྱབ་ཨིན། 2016 ལོར་སྤྱོད་པའི་པར་རིས། <a href=\"/games/photo-pairs/\">པར་ཆ་གཅིག།</a> བརྡ་འཚོལ་ནང་ལུ་སྡོད།</p><h2>ང་བཅས་ཁྱོད་རའི་ཐོན་ཁུངས་ཐོ་ཡིག་ནང་ཁ་སྐོང་བརྐྱབ།</h2><p>ཁྱོད་ཀྱིས་ གཅེས་སྐྱོང་འབད་མི་ཚུ་གི་དོན་ལུ་ ཐོན་ཁུངས་ཚུ་གི་ཐོ་ཡིག་བཞག་པ་ཅིན་ ཁྱོད་ཀྱིས་ འབྲེལ་མཐུད་འབད་ནི་ལུ་ དགའ་བསུ་ཞུ། <a href=\"/\">{domain}</a>. ཁྱོད་ཀྱིས་འགྲེལ་བཤད་གང་རུང་ཅིག་འདྲ་བཤུས་རྐྱབས་ཚུགས།</p>",
+      "shortTitle": "གསལ་བཤད་མདོར་བསྡུས།",
+      "longTitle": "འགྲེལ་བཤད་རིང་བ།",
+      "linksHtml": "<p>ཐད་ཀར་དུ་འབྲེལ་མཐུད་འབད་ནིའི་དོན་ལུ་ཕན་ཐོགས་ཅན་གྱི་ཤོག་ལེབ་ཚུ། <a href=\"/games/\">རིན་མེད་རྩེད་མོ།</a>, . <a href=\"/activities/printable/\">རིན་མེད་པར་སྐྲུན་འབད་བཏུབ་ཚུ།</a>, . <a href=\"/activities/alzheimers/\">ལས་རིམ་ཚུ་ ཨཱལ་ཛའི་མར་གྱི་དོན་ལུ་ཨིན།</a> དང༌ <a href=\"/caregiving/how-to-play-together/\">གཅིག་ཁར་རྩེད་ཐངས།</a>.</p><h2>དྲི་བའམ་ནོར་བཅོས།</h2><p>གལ་སྲིད་ ས་ཁོངས་ནང་ ག་ཅི་རང་འབད་རུང་ འཛོལ་བ་ ཡང་ན་ གསལ་ཏོག་ཏོ་མེད་པ་ཅིན་ ཡང་ན་ ནཱ་ལུ་ཡོད་མི་འདི་གིས་ མི་སེར་ཅིག་གི་དགོས་མཁོ་ཚུ་ མ་གྲུབ་པ་ཅིན་ ཁ་པར་ཨང་གྲངས་ ༡༠༠ ལུ་ སླབ་གནང་། <a href=\"mailto:{email}\">{email}</a>. མི་སེར་དང་ ཡང་ན་ མཁོ་མངགས་འབད་མི་ཚུ་གི་སྐོར་ལས་ མི་སྒེར་དང་ གསོ་བའི་བརྡ་དོན་ཚུ་ མ་གཏང་གནང་།</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "གསེར་གྱི་དུས་སྐབས་མཉེན་ཆས་འདི།",
+      "seoTitle": "ཨི་ཕོན་དང་ཨེན་ཌོའིཌ་གི་དོན་ལུ་ གསེར་གྱི་དུས་སྐབས་ཀྱི་ཨེཔི།",
+      "description": "རིན་མེད་སྟོངམ་སྦེ་ གསེར་གྱི་དུས་ཚོད་ཀྱི་མཉེན་ཆས་འདི་ རྡོ་གཅལ་སྦོམ་བཞི་དང་གཅིག་ཁར་ མཐུན་སྒྲིག་འབད་མི་ བཟའ་ཚང་གི་པར་ཚུ་ ཁྱོད་རའི་ཐབས་འཕྲུལ་ནང་ བཞག་སྟེ་ཡོདཔ་ཨིན།",
+      "crumb": "མཉེན་ཆས་འདི།",
+      "lede": "ཁྱོད་ཀྱིས་ ཡོངས་འབྲེལ་གྱི་སྐོར་ལས་ ག་ཅི་རང་དགའ་རུང་ ཁྱོད་ཀྱིས་གདམ་ཁ་རྐྱབ་མི་ བཟའ་ཚང་གི་པར་ཚུ་ ལག་ལེན་འཐབ་བཏུབ་པའི་ མཉེན་ཆས་ནང་ ལཱ་འབད་ཚུགས།",
+      "worksOn": "ལུ་ལཱ་འབདཝ་ཨིན། {platforms} ({requirements}).",
+      "bodyHtml": "<h2>ཆུང་བ་འགོ་བཙུགས།</h2><p>རྡོ་རིང་སྦོམ་བཞི་དང་ གོམས་འདྲིས་ཅན་གྱི་པར་རིས་ཚུ་ལས་འགོ་བཙུགས། པར་ཚུ་མཐོང་ཚུགསཔ་སྦེ་བཞག་ནི་དང་ ཡང་ན་ བདེ་ཏོག་ཏོ་སྦེ་མཐོང་པའི་སྐབས་ སྦ་བཞག། འཇམ་པོའི་ཐབས་ལམ་ལུ་ དུས་ཚོད་དང་ སྐུགས་ ཡང་ན་ ཉེས་ཆད་མེདཔ་ཨིན། ཊ་ཡིལ་ ༤ དང་ ༦ དེ་ལས་ ༨ ཡང་ན་ ༡༢ གདམ་ཁ་རྐྱབས།</p><h2>མི་སྒེར་བཟོ།</h2><p>ཁྱོད་རའི་ཐབས་འཕྲུལ་གྱི་པར་འདེམས་བྱེད་དང་གཅིག་ཁར་ བཟའ་ཚང་གི་པར་ཚུ་སེལ་འཐུ་འབད། གློག་རིམ་འདི་གིས་ དེ་གི་ལས་སྣ་ཚུ་གི་དོན་ལུ་ འདྲ་ཆུང་ཀུ་ཚུ་སྲུང་བཞགཔ་ཨིན། འདི་གིས་ ཁྱོད་ཀྱི་དཔེ་མཛོད་འདི་ པར་ལེན་འབད་ནི་དང་ ཡང་ན་ ཁྱོད་ཀྱི་པར་ངོ་མ་ཚུ་བསྒྱུར་བཅོས་འབད་ནི་མེདཔ་མ་ཚད་ བསྡུ་གསོག་གཅིག་ནང་ པར་༢༤ ཚུན་བཞགཔ་ཨིན།</p><h2>གཅིག་ཁར་བལྟ།</h2><p>པར་གཅིག་ལུ་བལྟ་དགོ། གདམ་ཁ་ཅན་གྱི་བརྡ་སྟོན་ཚུ་གིས་ མིང་ཚུ་སེམས་ཁར་བཞག་ནི་དང་ ཡང་ན་ ལན་ངེས་བདེན་ བྱིན་ནིའི་དོན་ལུ་ མི་ག་ལུ་ཡང་ མ་སླབ་པར་ ཁ་སླབ་འབོཝ་ཨིན། འཇམ་ཏོང་ཏོ་སྦེ་བལྟ་བ་ཅིན་ ལངམ་ཨིན།</p><h2>གལ་ཆེ་བའི་ས་སྒོ་ནང་ཨོཕ་ལའིན་</h2><p>འགོ་བཙུགས་པའི་པར་དང་པར་གྱི་ཐུམ་སྒྲིལ་བརྒྱད་ཆ་ར་ མཉེན་ཆས་དང་གཅིག་ཁར་ཚུད་དེ་ཡོདཔ་ཨིན། ནང་འདྲེན་འབད་ཡོད་པའི་པར་འདྲ་བཤུས་ཚུ་ ཨོཕ་ལ་ཡིན་ནང་ལཱ་འབདཝ་ཨིན། iCloud ནང་ལུ་རྐྱངམ་ཅིག་གསོག་འཇོག་འབད་ཡོད་པའི་ངོ་མ་ཚུ་གདམ་ཁ་རྐྱབ་པའི་སྐབས་ ཡོངས་འབྲེལ་མཐུད་ལམ་དགོཔ་འོང་།</p><h2>རྩིས་ཐོ་མེད་ པར་-མཉམ་འབྱུང་སར་བར་མེད།</h2><p>བཟའ་ཚང་-པར་འདྲ་བཤུས་ཚུ་ ཐབས་འཕྲུལ་གུ་ཡོད་པའི་ གློག་རིམ་ནང་སྡོདཔ་ཨིན། ཁྱོད་ཀྱིས་ ངོ་མ་ཚུ་བཏོན་མ་གཏང་པར་ འདྲ་བཤུས་ཚུ་རྩ་བསྐྲད་གཏང་ཚུགས། ཐབས་འཕྲུལ་རྒྱབ་ཐག་ཚུ་ནང་ གློག་རིམ་གནས་སྡུད་ཚུ་ཚུད་འོང་། ལྷག་ནི། <a href=\"/app-privacy/\">app སྒེར་དོན་སྲིད་བྱུས།</a>, དང <a href=\"/help/\">app གྲོགས་རམ།</a> གོམ་པ་རེ་རེ་བརྒྱུད་དེ་འགྱོཝ་ཨིན།</p>",
+      "disclaimer": "གསེར་གྱི་དུས་ཚོད་འདི་ སྤྲོ་སྟོན་དང་ བརྗེ་སོར་གྱི་ཁ་སླབ་ནིའི་དོན་ལུ་ཨིན། དེ་གིས་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་ ཡང་ན་ ཨཱལ་ཛའི་མར་གྱི་ནད་གཞི་ཚུ་ བརྟག་དཔྱད་དང་ སྨན་བཅོས་ སྔོན་འགོག་ ཡང་ན་ འཇལ་མི་ཚུགས།",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "རིན་མེད་ཀྱི་བློ་འཚབ་དང་ཨལ་ཛའི་མར་གྱི་རྩེད་རིགས་དྲ་རྒྱ།",
+    "description": "འདོན་སྤེལ།: ༢༠༡༠/༠༣/༠༣ རིག་པ།(༡) འདི་ཡང་ གཟའ་ཉི་མའི་ཉིན། མིང་ཐོ་བཀོད་ནི་དང་ དུས་ཚོད་ ཡང་ན་ སྐུགས་ཚུ་མེད།",
+    "crumb": "རྩེད་མོ།",
+    "h1": "བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ རྩེདམོ་དྲག་པོ།",
+    "lede": "{count} ཁྱོད་ཀྱི་བརྡ་འཚོལ་ནང་ལུ་གཅིག་ཁར་རྩེད་ནིའི་དོན་ལུ་ རིན་མེད་རྩེདམོ་ཚུ། པར་སྦོམ་དང་ ཚིག་གཙང་མ་ དེ་ལས་ འཐུས་ཤོར་ག་ནི་ཡང་མེདཔ་ དུས་ཚོད་མེད་ སྐུགས་མེད་ མིང་རྟགས་བཀོད་མི་མེད།",
+    "listName": "བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ རྩེདམོ་འཇམ་པོ།",
+    "byStageTitle": "སྟེགས་རིས་དང་འཁྲིལ་ཏེ་རྩེདམོ་ཅིག་གདམ་ཁ་རྐྱབ་དོ།",
+    "byStageLede": "གོ་རིམ་ཚུ་ ལམ་སྟོན་རྩུབ་པོ་རྐྱངམ་ཅིག་ཨིན། མི་དེ་གིས་ ག་ཅི་ལུ་སྤྲོ་བ་བསྐྱེདཔ་ཨིན་ན་དང་ ད་རེས་ ག་ཅི་ལུ་ བདེ་ཏོག་ཏོ་སྦེ་མནོཝ་ཨིན་ན་ བལྟ་དགོ།",
+    "stageCol": "གོ༌རིམ",
+    "gamesCol": "འཕྲལ་འཕྲལ་འོས་འབབ་ཡོད་པའི་རྩེདམོ་ཚུ།",
+    "moreHtml": "གསལ་གཞི་ལས་ཐག་རིང་བའི་བསམ་འཆར་མངམ། <a href=\"/activities/ideas/\">བློ་འཚབ་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ ལས་རིམ་༡༠༡།</a>, . <a href=\"/activities/alzheimers/\">ལས་རིམ་དང་རྩེད་མོ།</a>, . <a href=\"/activities/memory-games/\">འཇམ་པའི་དྲན་ཤེས་རྩེད་མོ།</a> དང༌ <a href=\"/activities/puzzles/\">གབ་ཚིག།</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "ང་བཅས་ཀྱིས་རྩེདམོ་ག་ཅི་ལས་འགོ་བཙུགས་དགོཔ་སྨོ?",
+        "a": "པར་རིས་ཆ་གཅིག་དང་གཅིག་ཁར་ རྡོ་གཅལ་བཞི་འདི་ ཞི་བདེ་གི་གདམ་ཁ་དང་པ་ཅིག་ཨིན། པར་ཚུ་གི་བར་ན་ གདམ་ཁ་རྐྱབ་ནི་འདི་ མང་དྲགས་སྦེ་འཚོར་པ་ཅིན་ པར་གཉིས་དང་གཅིག་ཁར་ ཅོག་འཐདཔ་འཚོལ། སྡེ་ཚན་ཅིག་གི་དོན་ལུ་ པར་རིས་བིང་གོ་ འབད་རྩོལ་བསྐྱེད།"
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "རྩེདམོ་ཚུ་ iPad ཡང་ན་ འགྲུལ་འཕྲིན་ནང་ལཱ་འབདཝ་ཨིན་ན?",
+        "a": "ཨིན། རྩེདམོ་ག་ར་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ དེ་ལས་ གློག་རིག་ཚུ་ནང་ བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ལས་ པར་ཚུ་ གསལ་གཞི་བཀང་ནིའི་དོན་ལུ་ འཕེལ་འགྱོཝ་ཨིན་པས། མི་གཉིས་ཀྱི་དོན་ལུ་ འཕྲལ་འཕྲལ་རང་ ཐབ་ཚང་གུ་ཡོད་པའི་ ཐབ་ཚང་འདི་ བདེ་ཏོག་ཏོ་ཅིག་ཨིན།"
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "རྩེདམོ་འདི་ཚུ་ ཨེལ་ཛའི་མར་གྱི་ནད་གཞི་ཡོད་མི་ཅིག་ལུ་ ལེགས་ཤོམ་ཨིན་ན?",
+        "a": "ཨིན། དེ་ཚུ་ མང་ཤོས་ཅིག་རང་ ནད་གཞི་ཨཱལ་ཛའི་མར་རྩིས་ཏེ་ བློ་སྟོབས་མེད་པའི་ མི་ཚུ་གི་དོན་ལུ་ བཟོ་ཡོདཔ་ཨིན་པས། པར་ཚུ་སྟོན་སྡོདཔ་ཨིནམ་ལས་ གདམ་ཁ་དག་པ་ཅིག་ལས་བརྒལ་མེདཔ་ལས་ དུས་ཚོད་དང་ སྐུགས་ཚུ་ ག་ནི་ཡང་མེདཔ་ལས་ རྩེདམོ་ཚུ་ གསརཔ་ཚུ་ སེམས་ཁར་དྲན་ནི་ལས་ གོམས་འདྲིས་ཅན་གྱི་དངོས་པོ་ཚུ་ ངོས་འཛིན་འབད་ནི་ལུ་ བརྟེན་དོ་ཡོདཔ་ཨིན།"
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "འདི་ཚུ་ རྒས་ཤོས་ཚུ་གི་དོན་ལུ་ དྲན་ཤེས་རྩེདམོ་ཨིན་ན?",
+        "a": "འདི་ཚུ་ རྒས་ཤོས་ག་ར་གིས་ སྤྲོ་བ་བསྐྱེད་ཚུགས་པའི་ མཐུན་སྒྲིག་དང་ པར་གྱི་རྩེདམོ་ཚུ་ཨིན་རུང་ དྲན་ཤེས་བརྟག་དཔྱད་འབད་ནིའི་དོན་ལུ་ བཟོ་བསྐྲུན་འབད་ཡོདཔ་ཨིན། ང་བཅས་རའི་ བློ་སྟོབས་མེད་པའི་ རྒས་ཤོས་ཚུ་གི་དོན་ལུ་ དྲན་ཤེས་རྩེདམོ་གི་ལམ་སྟོན་འདི་གིས་ དྲན་ཤེས་རྩེདམོ་ག་ཅི་རང་འབད་རུང་ དྲག་པོ་སྦེ་བཞག་ཐངས་ཚུ་ འགྲེལ་བཤད་རྐྱབ་ཨིན།"
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "བདག་འཛིན་འཐབ་སའི་ཁྱིམ་ནང་ སྡེ་ཚན་ཚུ་གི་དོན་ལུ་ རྩེདམོ་ཡོདཔ་ཨིན་ན?",
+        "a": "ཨིན། པར་རིས་བིང་གོ་ལུ་ དཔར་བསྐྲུན་འབད་བཏུབ་པའི་ཤོག་བྱང་དང་ གསལ་གཞི་གུ་ཁ་པར་བཏང་མི་ཡོདཔ་མ་ཚད་ སྡེ་ཚན་ཅིག་ལུ་ སྐད་སྦོམ་སྦེ་ལྷག་སྟེ་ ལེགས་ཤོམ་སྦེ་ལྷག་ཚུགས་པའི་ བཤད་ཚིག་དང་ ཁ་སླབ་ཤོག་བྱང་ཚུ་ མཇུག་བསྡུ་དགོ།"
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "ཨའི་ཕོན་དང་ཨའི་པེཌ་དང་ཨེན་ཌོའིཌ།",
+    "requirements": "iOS 15 ཡང་ན་ དེ་ལས་ཤུལ་མམ། Android 7.0 ཡང་ན་དེ་ལས་མའམ།",
+    "summary": "འདོན་སྤེལ།: ༢༠༡༡/༠༤/༢༠ རིག་པ།(༡) འབྲུག་རྒྱང་བསྒྲགས་ལས་ཁུངས་ཀྱིས་ འབྲུག་རྒྱང་བསྒྲགས་ལས་ཁུངས་ལུ་ འབྲུག་རྒྱང་བསྒྲགས་ལས་ཁུངས་ཀྱི་ ཞབས་ཏོག་ཚུ་ བྱིན་ཡོདཔ། རྩིས་ཐོ་དང་ཁྱབ་བསྒྲགས་ དུས་ཚོད་ ཡང་ན་ སྐུགས་མེད།",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "༤ དང་ ༦ དེ་ལས་ ༨ ཡང་ན་ ༡༢ དང་ཅིག་ཁར་ པར་རིས་འཇམ་པོ་མཐུན་སྒྲིག་འབད་ནི། ཁྱོད་ཀྱིས་གསང་བ་གདམ་ཁ་མ་རྐྱབ་ཚུན་ཚོད་ པར་ཚུ་མཐོང་ཚུགསཔ་སྦེ་སྡོདཔ་ཨིན།",
+      "ཁྱོད་ཀྱིས་སེལ་འཐུ་འབད་མི་བཟའ་ཚང་གི་པར་ཚུ་ མཐུན་སྒྲིག་འབད་ནི་དང་ གཅིག་ཁར་བལྟ་ནིའི་དོན་ལུ་ གློག་རིམ་ནང་ལུ་འདྲ་བཤུས་རྐྱབ་ཡོདཔ་ཨིན།",
+      "གཅིག་ཁར་བལྟ། གདམ་ཁ་ཅན་གྱི་ཁ་སླབ་བརྡ་སྟོན་ཚུ་དང་གཅིག་ཁར་ དུས་མཉམ་ལུ་ པར་གཅིག་",
+      "མཉེན་ཆས་དང་མཉམ་དུ་པར་རིས་ཐུམ་སྒྲིལ་བརྒྱད་ཚུད་ཡོད། ཁོང་གིས་ཨོཕ་ལའིན་ལཱ་འབདཝ་ཨིན།",
+      "རྩིས་ཐོ་ ཁྱབ་བསྒྲགས་ མཉེན་ཆས་ནང་ཉོ་སྒྲུབ་ དུས་ཚོད་ སྐུགས་ ཡང་ན་ ཉེས་ཆད་མེད།"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "བློ་སྟོབས་མེད་པའི་ལས་རིམ་གྱི་མཉེན་ཆས་ཅིག་ཡོདཔ་ཨིན་ན?",
+        "a": "ཨིན། གསེར་གྱི་དུས་སྐབས་ (\" ཐོ་བཀོད་འབད་ཡོདཔ།{storeName}\") འདི་ App Store དང་ Google Play ནང་ལུ་ རིན་མེད་སྟོངམ་སྦེ་ཡོདཔ་ཨིན། དེ་གིས་ རྡོ་གཅལ་སྦོམ་ཚུ་དང་གཅིག་ཁར་ པར་རིས་ཚུ་ མཐུན་སྒྲིག་འབད་ཚུགསཔ་ཨིན།"
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "གསེར་གྱི་དུས་ཚོད་མཉེན་ཆས་འདི་རིན་མེད་ཨིན་ན?",
+        "a": "ཨིན། ཁྱབ་བསྒྲགས་དང་རྩིས་ཁྲ་ ཡང་ན་ མཉེན་ཆས་ནང་ཉོ་སྒྲུབ་འབད་དགོཔ་མེད་པར་ ཕབ་ལེན་འབད་ཚུགས།"
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "གློག་རིམ་འདི་ ཡོངས་འབྲེལ་མེད་པར་ ལཱ་འབདཝ་ཨིན་ན?",
+        "a": "ཨིན། འགོ་བཙུགས་པའི་པར་དང་ པར་གྱི་ཐུམ་སྒྲིལ་བརྒྱད་ཆ་ར་ གློག་རིག་ནང་ ཚུད་དེ་ཡོདཔ་ད་ བཟའ་ཚང་གི་པར་ཚུ་ གློག་རིག་ནང་ འདྲ་བཤུས་རྐྱབ་ཚར་བའི་ཤུལ་ལས་ གློག་རིག་ནང་ ལཱ་འབདཝ་ཨིན་པས། iCloud ནང་ལུ་རྐྱངམ་ཅིག་གསོག་འཇོག་འབད་ཡོད་པའི་པར་གདམ་ཁ་རྐྱབ་པའི་སྐབས་ མཐུད་ལམ་དགོཔ་འོང་།"
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "ང་བཅས་རའི་བཟའ་ཚང་གི་པར་ཚུ་ལག་ལེན་འཐབ་ཚུགས་ག?",
+        "a": "ཨིན། ཁྱོད་རའི་ཐབས་འཕྲུལ་གྱི་པར་འདེམས་བྱེད་དང་གཅིག་ཁར་པར་ཚུ་གདམ་ཁ་རྐྱབས། གློག་རིག་འདི་གིས་ ལཱ་གི་དོན་ལུ་ ཐབས་འཕྲུལ་གུར་ འདྲ་ཆུང་ཀུ་ཚུ་བཞག་སྟེ་ སྐྱེལ་བཙུགས་མི་འབད་ དེ་ལས་ ངོ་མ་ཚུ་ ནམ་ཡང་ བསྒྱུར་བཅོས་མི་འབད། ཁྱོད་ཀྱིས་འདྲ་བཤུས་ཚུ་དུས་ནམ་ར་འབད་རུང་རྩ་བསྐྲད་གཏང་ཚུགས།"
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "ཀླད་པའི་སྦྱོང་བརྡར་ཡང་ན་དྲན་ཤེས་བརྟག་དཔྱད་ཀྱི་མཉེན་ཆས་ཅིག་ཨིན་ན?",
+        "a": "མེན་ གསེར་གྱི་དུས་ཚོད་འདི་ སྤྲོ་བ་དང་དུས་ཚོད་གཅིག་ཁར་སྡོད་ནིའི་དོན་ལུ་ཨིན། དེ་ལུ་ སྐུགས་དང་བརྟག་དཔྱད་མེདཔ་ལས་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་ ཡང་ན་ ཨཱལ་ཛའི་མར་གྱི་ནད་གཞི་ཚུ་ བརྟག་དཔྱད་འབད་ནི་དང་ སྨན་བཅོས་འབད་ནི་ སྔོན་འགོག་འབད་ནི་ ཡང་ན་ འཇལ་ནི་ཚུ་ འབད་མི་ཚུགས།"
       },
       {
-        "q": "Which devices does it work on?",
-        "a": "{platforms}: {requirements}."
+        "q": "ཐབས་འཕྲུལ་ག་ཅི་གུ་ལཱ་འབདཝ་ཨིན་ན།",
+        "a": "{platforms}: : {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "རྩེདམོ་འདི་གི་མཉེན་ཆས་ཐོན་རིམ་ཅིག་ཡོདཔ་ཨིན་ན?",
+      "a": "ཨིན། འདི་ཡང་ འབྲུག་རྒྱང་བསྒྲགས་ལས་འཛིན་གྱིས་ བརྡ་བརྒྱུད་ཚུ་ལུ་ བརྡ་དོན་སྤྲོད་མི་དང་འཁྲིལ་ཏེ་ཨིན་མས། རྩིས་ཁྲ་དང་ཁྱབ་བསྒྲགས་ ཡང་ན་ སྐུགས་མེད།"
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "རྩེདམོ་འདི་གི་མཉེན་ཆས་ཐོན་རིམ་ཅིག་ཡོདཔ་ཨིན་ན?",
+      "a": "རྩེདམོ་འདི་གི་མེན། འདི་ཡང་ ཁྱོད་ཀྱིས་ གདམ་ཁ་རྐྱབ་མི་ རྡོ་གཅལ་སྦོམ་དང་ བཟའ་ཚང་གི་པར་ཚུ་དང་ མཐུན་སྒྲིག་འབད་མི་ རིན་མེད་སྟོངམ་སྦེ་ གསེར་གྱི་དུས་ཚོད་ཀྱི་ མཉེན་ཆས་འདི་ མཐུན་སྒྲིག་འབད་དེ་ ལཱ་འབདཝ་ཨིན། རྩེདམོ་འདི་ཁྱོད་ཀྱི་བརྡ་འཚོལ་ནང་ལུ་རིན་མེད་སྟོངམ་སྦེ་སྡོདཔ་ཨིན།"
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: ཆེ་བ། མཐུན་སྒྲིལ་གྱི་པར་རིས།",
+    "noscript": "རྩེདམོ་འདི་ལུ་ ཁྱོད་རའི་བརྡ་འཚོལ་ནང་ ཇ་བ་ཨིསི་ཀིརིཔཊི་ ཁ་ཕྱེ་དགོཔ་ཨིན། འོག་གི་བསླབ་བྱ་ཚུ་གིས་ དེ་མེད་པར་ལཱ་འབདཝ་ཨིན།",
+    "about": "སྐོར་ལས {name}",
+    "aboutAria": "རྩེད་མོ་འདིའི་སྐོར།",
+    "noTimer": "དུས་ཚོད་དང་སྐུགས་མེད།",
+    "printable": "དཔར་བཏབ་བཏུབ།",
+    "howTo": "རྩེད་ཐབས། {name}",
+    "tips": "གཅིག་ཁར་རྩེད་ནིའི་བསླབ་བྱ།",
+    "newToPlayingHtml": "བློ་སྟོབས་མེད་པའི་མི་གཅིག་དང་གཅིག་ཁར་རྩེད་ནི་གསརཔ་ཨིན་ན? ལྸག་ནི <a href=\"/caregiving/how-to-play-together/\">གཅིག་ཁར་རྩེདམོ་རྩེ་ཐངས།</a>, གལ་སྲིད་ཁོང་ཚོས་སྤྲོ་བ་མེད་ན་གང་བྱེད་དགོས་མིན་ཚུད་ཡོད།",
+    "moreAria": "འཚོལ་ཞིབ་འབད་ནི་མང་སུ་ཅིག།",
+    "helpfulGuides": "ཕན་ཐོགས་པའི་ལམ་སྟོན།",
+    "appTitle": "མཉེན་ཆས་ནང་ལུ་རྩེད།",
+    "appText": "རིན་མེད་སྟོངམ་སྦེ་ གསེར་གྱི་དུས་ཚོད་ཀྱི་མཉེན་ཆས་འདི་ རྡོ་གཅལ་སྦོམ་དང་ ཁྱོད་རའི་བཟའ་ཚང་གི་པར་ཚུ་དང་གཅིག་ཁར་ མཐུན་སྒྲིག་འབད་ཚུགས་པའི་ པར་རིས་ཚུ་ཡོདཔ་ལས་ ཝའི་ཕའི་མེད་པར་ ལཱ་འབདཝ་ཨིན། ཨི་ཕོན་དང་ཨི་པ་ཌི་ དེ་ལས་ ཨེན་ཌོའིཌ་ཚུ་ཨིན།",
+    "photoAppTitle": "ཁྱོད་རའི་པར་ཚུ་གྲ་སྒྲིག་བཞག།",
+    "photoAppText": "གསེར་གྱི་དུས་ཚོད་རིན་མེད་མཉེན་ཆས་ནང་ ཁྱོད་ཀྱིས་གདམ་ཁ་རྐྱབ་མི་པར་ཚུ་ ཤུལ་མམ་གྱི་དོན་ལུ་ ཁྱོད་རའི་ཐབས་འཕྲུལ་ནང་སྡོད་ནི་དང་ རྩེདམོ་ཚུ་ ཝའི་ཕའི་མེད་པར་ལཱ་འབདཝ་ཨིན། ཨི་ཕོན་དང་ཨི་པ་ཌི་ དེ་ལས་ ཨེན་ཌོའིཌ་ཚུ་ཨིན།",
+    "goodToKnow": "ཤེས་ནི་ལེགས་ཤོམ།",
+    "goodToKnowText": "རྩེདམོ་འདི་སྤྲོ་སྣང་དང་དུས་ཚོད་གཅིག་ཁར་བཏང་ནིའི་དོན་ལུ་ཨིན། དེ་གིས་ ག་ཅི་ཡང་ བརྟག་དཔྱད་དང་ འཇལ་ཚད་ ཡང་ན་ སྨན་བཅོས་འབད་མི་བཏུབ།",
+    "moreGames": "རྩེདམོ་འཇམ་པོ་མང་བ།",
+    "crumb": "རྩེད་མོ།"
   }
 }

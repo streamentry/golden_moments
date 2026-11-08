@@ -1,4 +1,5 @@
 import { useId } from 'react';
+import { sounds } from './sound';
 
 export interface Choice<T extends string | number> {
   value: T;
@@ -26,7 +27,10 @@ export function ChoiceChips<T extends string | number>({ legend, choices, value,
               name={name}
               value={String(c.value)}
               checked={c.value === value}
-              onChange={() => onChange(c.value)}
+              onChange={() => {
+                sounds.tap();
+                onChange(c.value);
+              }}
             />
             <span>{c.label}</span>
           </label>

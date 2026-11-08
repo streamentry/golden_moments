@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Parehu na litråtu",
+    "seoTitle": "I Manma'ayek para i Manma'å'ñao: Parehu na Litråtu",
+    "h1": "Parehu na litråtu: un gå'ga' ni' manma'a'ñao",
+    "description": "Un gå'ga' ni' libre yan maolek para ayu i taotao ni' manma'å'ñao nu i chetnot-ñiha.",
+    "short": "Sodda' i dos na litråtu ni' parehu. I litråtu siha siña manmafa'nu'i.",
+    "players": "1 pat 2 na taotao, gi un banda",
+    "intro": "Påtta un litråtu, pues tåmpe i unu ni' parehu yan guiya. I litråtu siha manmafa'nu'i gi i tutuhon, pues taya' debi di un hasso. Yanggen dos na litråtu manma'ayuda, guaha un kanton oro yan un marka.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Pulan kuåntu na baldosa para un usa. I kuatro na baldosa un trankilo na lugat para un tutuhon.",
+      "Påtta maseha hafa na litråtu. Guaha oron-ña na kanton-ña.",
+      "Påtta i litråtu ni' parehu ha'. I dos umasagua manma'a'ñao yan un marka.",
+      "Yanggen diferentes i dos na litråtu, taya' na'ma'åse' para u masusedi. Ta'lo ta'lo yanggen listo hao.",
+      "Na'lå'la' i \"Hidden pictures\" yanggen manmalago' hamyo dos gi i klåsiku na båndan-ña."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Na'i na'an i litråtu siha ya un kuentos put siha: \"Un red teacup. Un chule' leche gi i te-mu?\"",
+      "Na'i i taotao ni' un kuida para u cho'gue i tapping, achokka' ti åpmam. Apunta enlugåt di un tåmpe para siha.",
+      "Fanhånao gi kuatro na baldosa yanggen maolek i sinisedi-ña. Mas na baldosa siha un cho'cho', ni' ngai'an na un nivel para un håtsa.",
+      "Na'funhayan yanggen gof magof hao. Un gå'ga' un kumple na aktibidåt."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Guaha timer pat puntos?",
+        "a": "Ti. Ti guaha relo, puntos, kontra i mubimento pat pineddong. Siña un para gi maseha hafa na momento, ya yanggen un para gi i talo', un maolek na manera para un tutuhon."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Sa' hafa na i litråtu siha manma'a'atan?",
+        "a": "Yanggen ma li'e' i litråtu siha, i gå'ga' ha bira gui' para u li'e' yan u parehu lao ti para u hasso. Meggai na taotao ma li'e' na mas trankilo este. Siña un na'lå'la' i litråtu siha ni' ma espiha gi un tap yanggen malago' hao."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre este, ya debi di bai hu rehistra?",
+        "a": "Hunggan, libre, ya taya' kuenta, siña ma'ayek pat ma'ayek. Ma cho'cho'gue gi i web browser gi i tilifon, tablet pat komputa."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Siña ta usa i litråton familia-ta?",
+        "a": "Hunggan. Påtte i Photo pairs, ni' siña un ayek i litråtu siha ginen i dipattamenton-mu. I litråtu siha manma'a'atan gi i browser-mu ya ti ma'a'atan."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Sodda' i parehu",
+    "seoTitle": "Sodda' i Parehu na Litråtu: Simple na Gå'ga' Dementia",
+    "h1": "Sodda' i mismo na litråtu",
+    "description": "Un litråtu gi sanhilo', dos asta kuatro gi sanhilo'. Påtta i unu ni' parehu.",
+    "short": "Atan i litråtu gi sanhilo' ya un takpange i mismo gi papa'.",
+    "players": "1 pat 2 na taotao",
+    "intro": "Un litråtu ha' gaige gi i sanhilo' i pantalan. Gi papa'-ña guaha dos, tres pat kuatro na litråtu. Påtta i unu ni' parehu. Un sensimple na disision gi kada biåhi, yan meggai na lugåt para u fanguentos.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Pulan dos, tres pat kuatro na litråtu para un ayek. Dos i mas sempli.",
+      "Atan i litråtu gi sanhilo'.",
+      "Påtta i mismo na litråtu gi papa'. Ma na'i un chek yan unos kuantos palabras ni' manmagof.",
+      "Yanggen ma laknos otro na litråtu, i gå'ga' ha na'i na'an ya ha hasso. Na'i tiempo-mu.",
+      "Påtta \"Next picture\" yanggen listo hao para otro."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Kuentusi kada litråtu antes di un disidi: kulot siha, åmot siha, håfa na lugåt siña un li'e'.",
+      "Dos na cho'cho' ti \"fa'na'an\". I minalago'-hu, un na'magof na tiempo, ti un kompetensia.",
+      "yanggen difisit i tapbleru, siña i taotao ha apunta ya siña un tapbleru para siha."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Guaha timer pat puntos?",
+        "a": "Ti. Ti guaha relo, puntos, kontra i mubimento pat pineddong. Siña un para gi maseha hafa na momento, ya yanggen un para gi i talo', un maolek na manera para un tutuhon."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Hafa masusedi yanggen ti maolek i litråtu ni' ma'a'atan?",
+        "a": "taya' na'ma'å'ñao. Ti guaha buzzer, red cross ni shaking. I gå'ga' ha na'i na'an i litråtu ni' ma'a'atan ya ha hahasso i sigiente na ma'a'atan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre este, ya debi di bai hu rehistra?",
+        "a": "Hunggan, libre, ya taya' kuenta, siña ma'ayek pat ma'ayek. Ma cho'cho'gue gi i web browser gi i tilifon, tablet pat komputa."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Parehu yan i anineng",
+    "seoTitle": "Game para i Manma'å'ñao: Libre gi i Inetnon",
+    "h1": "Shadow Match: un Manma'å'ñao na Gå'ga'",
+    "description": "Un åpaka' na anineng gi sanhilo', dos asta kuatro na litråtu gi papa'. Påtta i litråtu ni' ha fa'tinas i anineng.",
+    "short": "Atan i anineng ya un laknos i litråtu ni' ha fa'tinas.",
+    "players": "1 pat 2 na taotao",
+    "intro": "I shadow matching un aktibidåt ni' ma tungo' ginen i ma'imprenta na cho'cho', guini guaha dikike' na litråtu siha ya taya' para u ma'imprenta. Guaha un båba na anineng gi i sanhilo' i pantalan ya dos, tres pat kuatro na litråtu manma'a'atan gi papa'. Påcha i unu ni' ha fa'tinas i anineng. I åmot siha taiguihi i bisikleta, i paraplu yan i tasan tåsi, fa'tinas lokkue'.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Pulan dos, tres pat kuatro na litråtu para un ayek. Dos i mas sempli.",
+      "Atan i anineng gi un banda. Hafa na åpaka'? Takhilo' pat åpaka'?",
+      "Påtta i litråtu ni' ha fa'tinas i anineng. I na'an-ña gaige gi papa' i anineng.",
+      "Yanggen ma laknos otro na litråtu, i gå'ga' ha na'i na'an ya ha hasso. Na'i tiempo-mu.",
+      "Påtta \"Next shadow\" yanggen listo hao para otro."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Trasa i lina'la' i anineng gi un addeng ya un sångan put i fina'tinas-ña.",
+      "Yanggen difisit i anineng på'go na ha'åni, na'lå'la' i Find the same, anai parehu i litråtu siha.",
+      "Ha sangan put i litråtu yanggen ma sodda': \"Guåha paraplu-måmi taiguihi.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Guaha timer pat puntos?",
+        "a": "Ti. Ti guaha relo, puntos, kontra i mubimento pat pineddong. Siña un para gi maseha hafa na momento, ya yanggen un para gi i talo', un maolek na manera para un tutuhon."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "maolek i shadow matching para i taotao ni' manma'å'ñao?",
+        "a": "Siña ha' na'magof yan na'simple i aktibidåt para i pumalu na taotao, espesiåtmente gi i tutuhon. Mas fa'tinas i fina'tinas ki i fino'. Para i minagof yan i fino'-ta, ti para i prublema, ya ti ha na'homlo' pat ha na'fanlamen i dementia. Yanggen ha na'fanmanman hao, prutehi Find the same pat atan ha' i litråtu siha."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Hafa masusedi yanggen ti maolek i litråtu ni' ma'a'atan?",
+        "a": "taya' na'ma'å'ñao. Ti guaha buzzer, red cross ni shaking. I gå'ga' ha na'i na'an i litråtu ni' ma'a'atan ya ha hahasso i sigiente na ma'a'atan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre este, ya debi di bai hu rehistra?",
+        "a": "Hunggan, libre, ya taya' kuenta, siña ma'ayek pat ma'ayek. Ma cho'cho'gue gi i web browser gi i tilifon, tablet pat komputa."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Na'daña' todu",
+    "seoTitle": "Na'setbe i Dementia: Na'setbe Together",
+    "h1": "Na'daña': un Aktibidåt Para Na'daña' i Litråtu siha",
+    "description": "Påtta un litråtu, pues tåmpe i kanastra ni' gaige gi halom-ña: kusina pat tinanom, fruta pat gå'ga' siha.",
+    "short": "Påtta kada litråtu gi i kanastra-ña: kusina pat tinanom, yan mås.",
+    "players": "1 pat 2 na taotao",
+    "intro": "I ma'ayek un cho'cho' ni' ma tungo' yan na'magof kada diha, taiguihi i ma na'suha i nengkanno' siha pat i ma na'daña' i medyas siha. Påtta un litråtu, pues tåmpe i kanastra anai gaige. Ti guaha inaligao yan taya' ti maolek na birada.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Pulan un tema: kusina yan tinanom, fruta yan gå'ga' siha, pat guma' yan biahi.",
+      "Påtta un litråtu. Guaha oron-ña na kanton-ña.",
+      "Påtta i kanastra ni' gaige gi halom-ña. I litråtu ha hålom gi ayu na kanastra.",
+      "yanggen gaige gi i otro na kanastra, i gå'ga' ha sangan na maolek ya ha hasso.",
+      "Yanggen ma na'setbe kada na litråtu, atan i kanastro siha."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Ti guaha na biåhi na ti maolek i ineppe gi i lina'la. Yanggen guaha umalok na para u ma'usa i hånom gi i kusina, faisen sa' hafa. Siña un sodda' un maolek na estoria.",
+      "Usa i litråtu siha para un faisen: \"Håfa un tanom gi i tano'-mu?\"",
+      "I ma'ayek i magahet na kosas siha, taiguihi i kuchara yan i tinidåk pat i boton siha gi kulot, un maolek na sigiente na cho'cho' yanggen ti un li'e' i pantalan."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Guaha timer pat puntos?",
+        "a": "Ti. Ti guaha relo, puntos, kontra i mubimento pat pineddong. Siña un para gi maseha hafa na momento, ya yanggen un para gi i talo', un maolek na manera para un tutuhon."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Sa' hafa na ma'ayek?",
+        "a": "Meggai na taotao manmagof ma'ayek sa' put i ma'a'atan na maolek yan ma tungo' na cho'cho'. Fasilidat lokkue' para un sångan put i litråtu siha yanggen un hånao."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre este, ya debi di bai hu rehistra?",
+        "a": "Hunggan, libre, ya taya' kuenta, siña ma'ayek pat ma'ayek. Ma cho'cho'gue gi i web browser gi i tilifon, tablet pat komputa."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle ni' litråtu",
+    "seoTitle": "Fasilidat na Puzzle para i Manma'å'ñao: 4 pat 9 na Pidason",
+    "h1": "Picture Puzzle: un Fasil na Jigsaw",
+    "description": "Un fa'tinas na jigsaw gi i internet para ayu i taotao ni' manma'å'ñao: 4 pat 9 na dångkolon pidasu, i enteru na litråtu siña ma li'e', ya un takpange dos na pidasu.",
+    "short": "Laknos dos na pidasu para un na'lå'la' asta ki enteru i litråtu.",
+    "players": "1 pat 2 na taotao",
+    "intro": "Un gof maolek na litråtu ma'utot gi kuatro pat nuebi na dångkolon pidasu ya ma'gåsi. I enteru na litråtu siña ma li'e' komo guiya. Påtta un pidasu, pues otro, ya manma'a'ñao. Ti nisisåriu i ma'a'atan.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Pulan un litråtu yan 4 pat 9 na pidasu. I mina'kuåtro un maolek na tinituhon.",
+      "Atan i enteru na litråtu gi sanhilo'.",
+      "Laknos un pidasu, pues takpange i lugat anai debi di u hanao. I dos na pidasu manma'a'ñao.",
+      "I pidasu siha gi i maolek na lugat guaha dikike' na marka-ña.",
+      "Yanggen enteru i litråtu, gosa todu, pues in ayek otro."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Mas fa'tinas i para un tåmpe dos na pidasu para un na'lå'la' ki i para un tåmpe para meggai na taotao.",
+      "Ha sangan put i litråtu annai ha na'daña': \"Guåha i åpaka' na atof.\"",
+      "I jigsaw ni' ma'gåsi ni' 12 asta 24 na pidason trongko, un bunitu na aktibidåt gi i lamasa lokkue'."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Guaha timer pat puntos?",
+        "a": "Ti. Ti guaha relo, puntos, kontra i mubimento pat pineddong. Siña un para gi maseha hafa na momento, ya yanggen un para gi i talo', un maolek na manera para un tutuhon."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "debi di bai hu laknos i pidasu siha?",
+        "a": "Ti. Påtta un pidasu, pues tåmpe otro, ya manma'a'ñao. Mas fa'tinas este yanggen ti ma'a'ñao i kannai-mu pat gi un dikike' na pantalan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre este, ya debi di bai hu rehistra?",
+        "a": "Hunggan, libre, ya taya' kuenta, siña ma'ayek pat ma'ayek. Ma cho'cho'gue gi i web browser gi i tilifon, tablet pat komputa."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Na'funhayan i sinangan",
+    "seoTitle": "Na'funhayan i sinangan: Pruverbs Game para i Manåmko'",
+    "h1": "Na'funhayan i sinangan",
+    "description": "I sinangan Amerikanu ni' ma tungo' ya taya' i uttimo na palabra, taiguihi \"Un sentabo ni' ma na'setbe un sentabo ___\".",
+    "short": "Na'funhayan i sinangan-mu, pues fanguentos put siha.",
+    "players": "1, 2 pat un gurupu",
+    "intro": "Manma'å'ñao i manåmko' na sinangan siha gi todu i lina'la'. Kada na tarheta ha fa'nu'i un sinangan ni' ma tungo' yan i uttimo na palabra ti ma li'e', tres na cho'cho', yan un \"Fannu'i i finakpo'\" na boton. Despues di i finakpo', un kuestion ni' maolek ha na'fanmanhasso hit.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Taitai i sinangan gi i bos-mu.",
+      "Påtta i palabra ni' ha tutuhon, pat tåmpe \"Fannu'i i finakpo'\".",
+      "Taitai i enteru na sinangan ta'lo ya un sångan put este gi i tinige'.",
+      "Påtta i \"Next saying\" yanggen listo hao."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Taitai dididi' ya un na'fanhuyong un pause antes di i uttimo na palabra. Meggai biåhi na ma sangan este antes di un tutuhun.",
+      "Yanggen guaha otro na finakpo', gosa. Guaha na sinangan siha ni' ti parehu gi kada familia pat lugåt.",
+      "Gi un gurupu, un taotao ha taitai ya todu manma'ayuda gi i uttemo."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Guaha timer pat puntos?",
+        "a": "Ti. Ti guaha relo, puntos, kontra i mubimento pat pineddong. Siña un para gi maseha hafa na momento, ya yanggen un para gi i talo', un maolek na manera para un tutuhon."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Kao para ta cho'gue otro na palabra?",
+        "a": "I gå'ga' ha fa'nu'i i kustumbren finakpo' ya ha tutuhon i fino'-ña. Ti guaha puntos, ya maolek yanggen guaha otro na ineppe."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre este, ya debi di bai hu rehistra?",
+        "a": "Hunggan, libre, ya taya' kuenta, siña ma'ayek pat ma'ayek. Ma cho'cho'gue gi i web browser gi i tilifon, tablet pat komputa."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Inaligao palabras ni' dangkolo",
+    "seoTitle": "Manli'e' i Dementia, Siña Ma'imprenta",
+    "h1": "Inaligao gi i Fino' CHamoru",
+    "description": "Un libre na inaligao palabras para i manåmko' yan i taotao ni' manma'å'ñao nu i dementia.",
+    "short": "Dañkulu na letra siha, dididi' na palabras, gi i sanlagu yan sanhaya ha'. Imprimi lokkue'.",
+    "players": "1 pat 2 na taotao",
+    "intro": "Un dikike' na grid ni' guaha dangkolo na letra siha yan un dididi' ha' na palabras, todu ma taitai gi i sanhilo' pat gi sanhilo'. Påtta i fine'nina na letra gi i palabras, pues i uttimo na letra-ña. Malago' hao papet? Imprimi un nuebu na puzzle gi un tåmpe.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Na'i un tema yan i mineggai na grid.",
+      "Atan i lista gi palabras. I palabras ma taitai gi i sanhilo' (gi sanhilo' asta sanhilo') pat gi sanhilo' (gi sanhilo' asta sanhilo').",
+      "Påtta i fine'nina na letra gi un palabras, pues tåmpe i uttimo na letra-ña.",
+      "I ma sodda' na palabras ma na'fanmagof yan ma na'suha gi i lista.",
+      "Påtta \"Print este na puzzle\" para un gånna gi i papet ni' un lapis pat un mårka."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Apunta un palabra gi i lista ya un li'e' i fine'nina na letra-ña.",
+      "Gi i papet, mas fa'tinas i highlighter ki i lapis.",
+      "Kuentusi i palabras gi i tema. I fino' fruta siha, un manera ni' naturåt para i manma'å'ñao put i pineddong, i fina'tinas pan yan i manmabendi."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Guaha timer pat puntos?",
+        "a": "Ti. Ti guaha relo, puntos, kontra i mubimento pat pineddong. Siña un para gi maseha hafa na momento, ya yanggen un para gi i talo', un maolek na manera para un tutuhon."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Siña hu imprimi i inaligao na palabras?",
+        "a": "Hunggan. Påtta i \"Print this puzzle\" para un imprimi i grid gi i dangkolo na tinige', yan i lista gi papa'. Kada nuebu na puzzle diferentes."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre este, ya debi di bai hu rehistra?",
+        "a": "Hunggan, libre, ya taya' kuenta, siña ma'ayek pat ma'ayek. Ma cho'cho'gue gi i web browser gi i tilifon, tablet pat komputa."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Pahina siha para u ma'kulot",
+    "seoTitle": "Pahina para i Manåmko' ni' Manma'å'ñao (Libre)",
+    "h1": "Påhina siha para u ma'kulot",
+    "description": "Sensimple, kulot para i manåmko' yan dangkolo na lugåt: takpange un kulot, pues takpange i litråtu.",
+    "short": "Påtta un kulot, pues un påtten i litråtu. Imprimi i pahina siha lokkue'.",
+    "players": "1 pat 2 na taotao",
+    "intro": "Påhina siha ni' dangkolo yan sensimple i fina'tinas-ñiha: un flores gi un kånnai, un guma', un kopan tåsi, un åmot yan un batkon aire. Påtta un kulot, pues tåmpe un påtten i litråtu para un na'bula. Ti guaha ti maolek na kulot siha.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Pulan un pahina.",
+      "Påtta un kulot. Kada kulot guaha na'an-ña ma tuge' gi hilo'-ña.",
+      "Påtta un påtten i litråtu para un na'bula ni' ayu na kulot.",
+      "Na'lå'la' i hinasso-mu yanggen un na'bula ta'lo.",
+      "Påtta \"Print this page\" para un påhina ni' tåya' tinige'-ña ya un kulot ni' lapis pat mårka."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Na'i dos na kulot para un ayek lao ti todu i kulot yanggen malago' hao na un ayek.",
+      "Manmagof i trongkon lila yan i atdao ni' åpaka'. Este put i minagof gi kulot, ti put i eksakto.",
+      "I ma'imprenta na pahina siha maolek yanggen ma'usa i potpot na mårka siha pat i krayon siha, ni' mas fa'tinas para u ma'a'atan."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Guaha timer pat puntos?",
+        "a": "Ti. Ti guaha relo, puntos, kontra i mubimento pat pineddong. Siña un para gi maseha hafa na momento, ya yanggen un para gi i talo', un maolek na manera para un tutuhon."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Manma'å'ñao este na pahina siha?",
+        "a": "Manma dibuhu ham ni' trankilo yan sensimple na kosas siha lao ti dibuho siha, ya i pahina siha manmaolek para i manåmko'. I dangkolo na åmot siha na'fa'na'an i kulot sin u na'fanbåba."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre este, ya debi di bai hu rehistra?",
+        "a": "Hunggan, libre, ya taya' kuenta, siña ma'ayek pat ma'ayek. Ma cho'cho'gue gi i web browser gi i tilifon, tablet pat komputa."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Tarheta siha para i fino'-ta",
+    "seoTitle": "I Manmatutuhon Kuentos put Dementia: Tarheta siha ni' Litråtu",
+    "h1": "Tarheta siha para i Kuentos",
+    "description": "Tarheta siha ni' guaha litråtu-ña para i taotao ni' manma'å'ñao nu i dementia: taya' kuestion, taya' maolek na ineppe. Usa gi i pantalan pat imprimi i enteru na set.",
+    "short": "Tarheta siha ni' guaha litråtu-ña yan kuestion siha ni' manma'å'ñao yan manma'å'ñao. Ti ma kuestiona.",
+    "players": "2 na taotao pat un gurupu",
+    "intro": "Kada na tarheta ha parehu un litråtu yan un imbitasion para u fanguentos, taiguihi \"Håfa i mas ya-mu na klasin tiempo?\" Ti guaha maolek na ineppe yan taya' para ta hasso. Pulan un tema pat na'daña' todu.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Pulan un tema, pat un gof adahi \"Todu i tarheta siha\".",
+      "Taitai i kuestion gi i bos ya atan i litråtu.",
+      "Ekungok, na'i i ineppe-mu, ya na'fanla'la' i fino'-mu.",
+      "Påtta i \"Next card\" yanggen listo hao, pat gaige ha' gi un card yanggen malago' hao.",
+      "Påtta \"Print all cards\" para un kåtta un set na papet."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Kuentusi i kuestion hao lokkue'. parehu yan un kuentos, ti un intrebista.",
+      "Sige i estoria, ti i minagahet. Yanggen ma na'lå'la' i detalle siha, maolek ha'.",
+      "Yanggen guaha na'ma'å'ñao na tarheta, rikonosi i sinisedi ya na'hanao para otro na tarheta."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Sa' hafa na taya' \"Kao un hasso…?\" kuestion siha?",
+        "a": "I kuestion siha ni' maprobecha i memoria siña ha' parehu yan un eksaminasion ya ha na'fanmamahlao. I imbitasion siha ni' ma'abri taiguihi \"Sangåni yu' put...\" ya siña ha' todu u fanma'ayuda, maseha hafa malago'-ñiha."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Siña hu imprimi i tarheta siha?",
+        "a": "Hunggan. \"Print all cards\" ha imprimi i enteru na set gi dangkolo na letra, meggai na tarheta gi kada pahina, ya listo para u ma'utot."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre este, ya debi di bai hu rehistra?",
+        "a": "Hunggan, libre, ya taya' kuenta, siña ma'ayek pat ma'ayek. Ma cho'cho'gue gi i web browser gi i tilifon, tablet pat komputa."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Parehu na litråtu",
+    "seoTitle": "Fa'tinas un gå'ga' ni' parehu yan i litråton familia",
+    "h1": "Parehu na litråtu: Na'daña' i mismo litråtu-mu",
+    "description": "Na'i i litråton familia-mu un gå'ga' ni' siña un li'e'. Na'i dos asta sais na litråtu gi i dipattamenton-mu; manma'a'atan gi i browser-mu ya ti ma'a'atan.",
+    "short": "Pulan i litråtu-mu ya un na'daña'. Taya' ma'upload.",
+    "players": "2 na taotao, gi un banda",
+    "intro": "Na'i dos asta sais na litråtu ginen i tilifon-mu, tablet-mu pat komputa-mu, ya u fanma'gåsi i litråtu siha ni' dangkolo yan siña un li'e'. I litråtu siha ma fa'nu'i ha' gi halom este na pahina. Ti ma'a'atan, ma'a'atan pat ma'a'atan, ya ma'a'atan yanggen ma'a'atan i pahina.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Påtta \"Choose photos\" ya un chule' dos asta sais na litråtu.",
+      "Kada na litråtu dos biåhi. Påtta unu, pues tåmpe i dos.",
+      "Kuentusi kada litråtu yanggen un sodda'.",
+      "Yanggen ma'pos hao, na'suha i pahina pat takpange \"Na'suha i litråtu siha\". Taya' ma na'setbe."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Na'i klaru na litråtu siha ni' manmagof yan manmagof: un gå'ga', un tinanom, un lugat ni' malago'-mu, un ha'ånen kasamiento.",
+      "I litråton lugat yan kosas siha siña mas fa'tinas ki i fi'on taotao, ya ti ma na'i na'an i taotao siha.",
+      "Na'suha i litråton i taotao ni' manmatai yanggen siña ha na'i hao piniti, achokka' ti un tungo' na ha na'i hao minagof."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ma upload i litråtu-hu siha gi maseha manu?",
+        "a": "Ti. I pahina ha taitai i litråtu siha ni' un ayek gi i browser-mu ya ha fa'nu'i siha gi i pantalan-mu. Ti ma na'hanao para hami pat para otro taotao, ya ma na'suha yanggen un na'suha pat un na'lå'la' ta'lo i pahina."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Guaha timer pat puntos?",
+        "a": "Ti. Ti guaha relo, puntos, kontra i mubimento pat pineddong. Siña un para gi maseha hafa na momento, ya yanggen un para gi i talo', un maolek na manera para un tutuhon."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Siña hu na'setbe i gå'ga' para otro biåhi?",
+        "a": "Ti gi i browser, put i disision-ña, pues taya' pribådu ma na'setbe. I Golden Moments app para iPhone yan iPad siña ha na'setbe i litråtu siha gi i dipattamenton-mu."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ni' litråtu",
+    "seoTitle": "Picture Bingo para i Manåmko' ni' Manma'å'ñao: Siña Ma'imprenta",
+    "h1": "Picture Bingo para i Grupo siha",
+    "description": "Libre na bingo ni' siña ma'imprenta para i manåmko' yan i manåmko', yan guaha un dångkolon låhi gi i pantalan.",
+    "short": "Bingo tarheta siha ni' siña ma'imprenta yan un big-screen na inagang para i gurupu siha.",
+    "players": "Un gurupon dos asta trenta",
+    "intro": "I bingo ni' guaha litråtu-ña enlugåt di numero, pues taya' nisisåriu para u taitai dikike' na letra siha. Imprimi un setbe na tarheta siha, pues usa i on-screen caller para un fa'nu'i kada na litråtu gi un TV, laptop pat tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Pulan 9 pat 16 na kuadrao gi kada kåttan yan kuåntu na atmas.",
+      "Påcha \"Print cards\". Kada na tarheta diferentes.",
+      "Na'lå'la' i taotao ni' ha ågang gi un dångkolon pantalan. Påtta \"Next picture\" para un li'e' kada na litråtu yan i na'ån-ña.",
+      "I manmalago' ma kubre i litråtu gi i kåttan-ñiha ni' moneda, boton pat mårka.",
+      "Todu i taotao ni' ha na'setbe i linå'la', pat i enteru na kåttan, manma'å'ñao. Ti guaha manmalingu gi este na båndan: sigi ha' di un gånna asta ki todu guaha lina'la'-ñiha."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Usa i dangkolo na token siha taiguihi i damas yan i tapon botkan. I dikike' na boton siha siña difisit para un chule'.",
+      "Na'i na'an i litråtu ya un sångan put guiya: \"Un batkon aire. Håyi esta gaige gi un batko?\"",
+      "Na'fanmatto i taotao ni' ti siña ma li'e' i mas åpmam gi i pantalan, ya na'daña' i manma'ayuda yan i manmalago' manmalago'.",
+      "Sufisiente nuebi kuadrao para i mas meggai na gurupu. Na'i i sesion gi halom 20 asta 30 minutos."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kao siña hu cho'gue i picture bingo gi i gima'-måmi?",
+        "a": "Imprimi un tarheta kada atmas, po'lo i taotao ni' ha ågang gi i mas takhilo' na pantalan ni' gaige giya hagu, ya ågang i litråtu siha dididi', ya un na'i na'an kada unu. Fanhånao asta ki todu guaha liñguahen-ñiha, ya taya' u fanmalingu."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Libre i ma'imprenta?",
+        "a": "Hunggan. Imprimi todu i tarheta siha ni' malago'-mu, todu i tiempo malago'-mu, para i propiu na uson-mu pat gi i gurupu."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Siña i taotao manmalago' sin u ma taitai?",
+        "a": "Hunggan. Kada kuadradu un dångkolon litråtu, yan i na'ån-ña gi papa' para ayu i manmalago' palabras."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Trankilo na hiningok",
+    "seoTitle": "Un Pause para i Manåmko' yan i Manma'å'ñao",
+    "h1": "Un Pause gi i Respirasion Kalma",
+    "description": "Un åmko', trankilo na pause gi i hiningok para u fanmanå'i: un åmko' na siñat tumutuhon yan dumiminuyi gi duranten sais na hiningok.",
+    "short": "Un åmko' na siñat para un ågang. tutuhon yan para yanggen malago' hao.",
+    "players": "1 pat 2 na taotao",
+    "intro": "Guaha na biåhi na i mas maolek na cho'cho' i para u fanma'å'ñao. Påtta i \"Start\", pues na'halom i hinasso-mu yanggen dumidog i siñat ya humuyong yanggen dumiminuyi. Na'i un mas båba pat mas båba na lina'la'. Ti este un tratamento, un mumento ha' na pas para ta fanmanå'i.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Fatå'chong komfotme gi un banda.",
+      "Na'i un lina'la': båba pat båba.",
+      "Påtta \"Tutuhon\". Na'halom i hinasso-mu yanggen dumångkulu i siñat, ya huyong yanggen dumikiki'.",
+      "Ha para gui' mismo despues di sais na inina, pat chagi \"Para\" yanggen malago' hao."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Gof a'atan i kannai-mu pat un po'lo i kannai-mu gi i kannai i taotao yanggen malago' hao.",
+      "Cha'mu ma'insisti. yanggen malago' siha ma li'e', maolek ha'.",
+      "Yanggen guaha taotao ni' guaha prublema-ña gi i hiningok-ña, fanå'i i hiningok-ña ya atan ha' i siñat. faisen i mediku put i chetnot-mu put i hiningok-mu."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Este na ehersisiun hiningok mediku?",
+        "a": "Ti. Un sensimple, ti nisisåriu na pause para i pas yan i kompaniha. Ti este na inafekta para i inafekta pat hafa na kondision. Kuentusi i mediku put i chetnot-mu."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Ha laknos i siñat yanggen ti hu tutuhon?",
+        "a": "Ti. Taya' siña humuyong astaki un takpange i Start, ya u ma'pos despues di sais na inina pat yanggen un takpange i Stop. Yanggen i dipattamenton-mu ma setbe para u na'menos i mobimiento, i palabras manmafa'na'an sin u lå'la' i siñat."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Libre este, ya debi di bai hu rehistra?",
+        "a": "Hunggan, libre, ya taya' kuenta, siña ma'ayek pat ma'ayek. Ma cho'cho'gue gi i web browser gi i tilifon, tablet pat komputa."
       }
     ]
   }

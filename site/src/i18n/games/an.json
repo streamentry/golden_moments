@@ -40,7 +40,7 @@
     ]
   },
   "find-the-same": {
-    "name": "Encuentra lo mismo",
+    "name": "encontrar lo mismo",
     "seoTitle": "Encuentra la misma imagen: Juego simple sobre la demencia",
     "h1": "Encuentra la misma imagen",
     "description": "Una imagen arriba, dos o cuatro abajo. Toca el que sea igual. Un juego de imágenes tranquilo y gratuito para personas que viven con demencia, sin cronómetro.",
@@ -114,7 +114,7 @@
     ]
   },
   "sort-together": {
-    "name": "Ordenar juntos",
+    "name": "ordenar juntos",
     "seoTitle": "Juego de clasificación para la demencia: ordenar juntos",
     "h1": "Clasificar juntos: una actividad de clasificación de imágenes",
     "description": "Toca una imagen y luego toca la cesta a la que pertenece: cocina o jardín, frutas o animales.",
@@ -149,9 +149,9 @@
     ]
   },
   "picture-puzzle": {
-    "name": "Rompecabezas de imágenes",
-    "seoTitle": "Rompecabezas fácil para la demencia: 4 o 9 piezas",
-    "h1": "Rompecabezas con imágenes: un rompecabezas fácil",
+    "name": "rompecabezas de imágenes",
+    "seoTitle": "Puzzle Fácil para Demencia: 4 o 9 Piezas",
+    "h1": "Rompecabezas de imágenes: un rompecabezas fácil",
     "description": "Un sencillo rompecabezas en línea para personas que viven con demencia: 4 o 9 piezas grandes, la imagen completa permanece visible y tocas dos piezas para.",
     "short": "Toca dos piezas para intercambiarlas hasta que la imagen esté completa.",
     "players": "1 o 2 personas",
@@ -323,8 +323,8 @@
     ]
   },
   "photo-pairs": {
-    "name": "Pares de fotos",
-    "seoTitle": "Crea un juego de correspondencias a partir de fotos familiares",
+    "name": "pares de fotos",
+    "seoTitle": "Haz un juego de correspondencias a partir de fotos familiares",
     "h1": "Pares de fotos: combine sus propias fotos",
     "description": "Convierte tus propias fotos familiares en un suave juego de combinación. Elija de 2 a 6 fotos en su dispositivo; permanecen en su navegador y nunca se cargan.",
     "short": "Elige tus propias fotos y combínalas. No se carga nada.",
@@ -393,7 +393,7 @@
     ]
   },
   "calm-breathing": {
-    "name": "Respiración tranquila",
+    "name": "respiración tranquila",
     "seoTitle": "Una pausa tranquila para respirar para personas mayores y cuidadores",
     "h1": "Una pausa tranquila para respirar",
     "description": "Una pausa de respiración lenta y tranquila para compartir: un círculo suave crece y se contrae durante seis respiraciones.",

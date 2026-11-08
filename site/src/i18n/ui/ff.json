@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Juppu e loowdi mawndi",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Golle dementia",
+    "homeLabel": "Moments kaŋŋe galle",
+    "mainNav": "Arandere",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Fulfulde",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Moments Golden : natal mawngal, sehilaaɓe, ko wayi no teewu, naange e dogdu",
+    "languages": "Wolde",
+    "englishOnly": "(Inglisia)",
+    "machineTranslated": "Oo hello firtaama otomatik, tee haaloowo ɗemngal neeniwal ƴeewtaaki ɗum tawo.",
+    "readOriginal": "Janngu asliiji ɗii e ɗemngal Engele",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Pijirlooji",
+      "activities": "Kuɗe",
+      "caregiving": "Toppitagol",
+      "brainHealth": "Cellal ngaandi"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Naamne e jaabawuuli",
+    "breadcrumb": "Ɓoornugol mburu",
+    "home": "Saare",
+    "lastUpdated": "Cakkitingol kesɗitingol",
+    "topics": "Tiitooɗe",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Njaajeendi binndol",
+      "smaller": "Binndol kuuɓtodinngol",
+      "larger": "Binndol ɓurngol mawnude",
+      "contrast": "Feere ɓurnde toowde"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Fijirde",
+    "picturePairs": "Nate ɗiɗi",
+    "conversationCards": "Kaayitaaji yeewtere",
+    "pictureBingo": "Bingo natal",
+    "allGames": "Pijirlooji ɗii fof",
+    "pictures": "Nate ngam tappirde",
+    "activityIdeas": "Miijooji golle",
+    "ideas101": "101 miijooji golle",
+    "lateStage": "Golle cakkitiiɗe",
+    "printable": "Golle ɗe mbaawi tappirde",
+    "allActivities": "Golle ɗee kala",
+    "forCaregivers": "Ngam toppitiiɓe",
+    "playTogether": "No fijirtee e nder gootal",
+    "selfCare": "Toppitaade hoore maa",
+    "brainHealth": "Wiɗtooji cellal ngaandi",
+    "faq": "Naamne e jaabawuuli",
+    "about": "Do",
+    "approach": "Laawol men",
+    "howWeWrite": "No mbinndirten",
+    "organizations": "Ngam juɓɓule",
+    "app": "App Moments kaŋŋe",
+    "appHelp": "App ballal",
+    "support": "Wallende",
+    "legal": "Je umrore",
+    "sitePrivacy": "Sirlu lowre ndee",
+    "appPrivacy": "Politik sirlu app",
+    "privacyChoices": "Suɓooji sirlu",
+    "terms": "Sarɗiiji e yamiroore app",
+    "safety": "Kisal e kuutoragol anniya",
+    "accessibility": "Heɓde",
+    "healthNotice": "Noddaango humpito cellal",
+    "allLegal": "Denndaangal kabaruuji sariya",
+    "note": "Golden Moments ina rokka golle renndinirɗe koyɗe ngam weltinde. Wonaa wasiyaaji safrooɓe, wonaa jarribo walla safaara, kadi ɗum ƴeewndotaako, foondataa walla toɗɗaaki hay gooto. Ngam naamne cellal, kaaldu e doktoor. E nder caɗeele, noddu 911.",
+    "publisher": "Ko lowre Cloudjet Pte yaltini ɗum. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Pijirlooji e golle Dementia & Alzheimer | Momenuuji kaŋŋe",
+    "description": "Pijirlooji natal ɗi ngalaa njoɓdi, ɗi ngalaa njoɓdi ngam fijde e internet e miijooji golle wonande yimɓe wonduɓe e rafi dementia walla Alzheimer e toppitiiɓe ɗum en.",
+    "eyebrow": "Free · Alaa ads · Alaa winnditaade · Alaa waktuuji walla limlebbi",
+    "h1": "Pijirlooji & Golle Leelɗe ngam Yimɓe wonduɓe e Dementia",
+    "lede": "Pijirlooji natal koyɗi, fotooji ganndaaɗi, e golle ngam weltinde e nder renndo—e njaaweeki maa.",
+    "playGame": "Fiyde Pijirlooji",
+    "findIdeas": "Yiytu miijooji golle",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Golle e telefoŋ, tablet e ordinateer",
+      "Nate mawɗe ɗe keddiiɗe ina kollita",
+      "Jokku kala sahaa; alaa ko ŋakki heen"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Kadi app mo alaa ko yoɓi ngam iPhone, iPad e Android, tawa ina waɗi fotooje galle maa",
+    "albumNote": "“Natal ɗiɗi ngal teewu nguu, ina kawri.”",
+    "gamesEyebrow": "Fijo e nder feerorde maa",
+    "gamesTitle": "Pijirlooji ɗi mbaaw-ɗaa fiyde jooni jooni",
+    "gamesLede": "Gooto fof ina deeƴi, ina mawni, ina yaawi fuɗɗaade. Suɓo heen gooto, jooɗo bannge e bannge, mbayloo tappude.",
+    "seeAllGames": "Ƴeew fof {count} pijirlooji",
+    "howTitle": "No ɗum yahrata",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Suɓo huunde anndaande",
+        "text": "Nate koppi teewu, jarde, jawdi e laanaaji diwooje. Alaa jaŋde walla kuule ngam janngude ko adii."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Jooɗto bannge e bannge",
+        "text": "Yo ɓe tappu. Haala ko fayti e natal. Mismatch tan ina fadi tap garoowo."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Woppu nde ina weli",
+        "text": "Pijirlooji gooti ko golle timmuɗe. “Done for now” ina woni e ekran sahaa kala."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Ko caggal ekran",
+    "stageTitle": "Miijooji golle wonande kala daawal",
+    "stageLede": "Miijo, golle ñalnde kala, siftorde e sahaaji sensooruuji deeƴɗi, jokkondirɗi e ko nanndi e wellitaare jooni.",
+    "ideas101": "101 miijooji golle",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Daawal gadanal",
+        "text": "Jokku waɗde ko ɓe njiɗi, e njuɓɓudi tokosiri : hobbiteeji, yaltugol, pijirlooji konnguɗi e peewnugol e nder renndo.",
+        "label": "Miijooji puɗɗiiɗi"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Damal hakkundeewal",
+        "text": "Golle koyɗe, ganndaaɗe, peccitaaɗe e laabi : follirde, renndinde, jimɗi, pijirlooji natal e yahdu juutndu.",
+        "label": "Miijooji hakkundeeji"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Damal caggal",
+        "text": "Cuusal e jokkondiral rewrude e memondiral, sawtawol e gite : toppitagol juuɗe, jimɗi ɓurɗi yiɗeede, fotooje e wondude e wonndude.",
+        "label": "Miijooji caggal-daawal"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Aɗa yiɗi huunde keertiinde nde? Foondol <a href=\"/activities/alzheimers/\">golle e pijirlooji ngam ñawu Alzheimer</a>, <a href=\"/activities/memory-games/\">pijirlooji ciftorgol leefɗi</a>, <a href=\"/activities/trivia/\">trivia ko weeɓi</a> mala <a href=\"/activities/puzzles/\">puzzleeji</a>.",
+    "approachEyebrow": "Laawol men",
+    "approachTitle": "Golle renndinde, wonaa jarribo ciftorgol",
+    "approachLede": "« Pijirlooji ngaandi » keewɗi ina mahaa e jaawle, e limtooji e streaks. Wonande neɗɗo guurɗo e dementia ina waawi nanndude e ekzamen. Min mahii ko luutndii ɗum.",
+    "approachLink": "Ko waɗi en faccirde ɗum nii",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Alaa ko ŋakki",
+        "text": "Alaa waktu, limre, nguurndam walla majjude. Natal ceertungal ko paaspoor, wonaa majjere."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Nate ina keddii ina kollita",
+        "text": "Anndinde dow siftorde. Matching fuɗɗotoo ko yeeso dow, ko ɗum waɗi alaa ko siftortee."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Mawɗo e tedduɗo",
+        "text": "Konnguɗi welɗi, laaɓtuɗi e natal goonga. Woto meeɗ kartoon walla haala ɓiɗɗo."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Keeriiɗo e diisnondiral",
+        "text": "Alaa konte walla jeeyngal. Fotooje maa meeɗaa yaltude e kaɓirgal maa."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ngam toppitiiɓe",
+    "guidesTitle": "Ardorde gollorde ngam toppitaade ñalnde kala",
+    "allCaregiving": "Denndaangal ardotooɓe toppitiiɓe",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "No mbaɗata pijirlooji e nder gootal",
+        "text": "Set up, pace, e ko foti waɗeede so pijirlooji ɗii ngoppii weltaare."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Nde ɓe mbiyi alaa e golle",
+        "text": "Dalillaaji keewɗi ngam salaade, e laabi leefɗi ngam ƴeewndaade kadi caggal."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Sosde tablo",
+        "text": "Binndol ɓurngol mawnude, taƴondiral seeɗa e ekran gooto koolaaɗo."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Golle binndaaɗe ɗe njoɓaaka",
+        "text": "Njiylawu kelme mawɗe, kelle colour, bingo e kaayitaaji yeewtere."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Cellal ngaandi : ko wiɗto ngoo haali tigi",
+    "researchText": "Mbele dementia ina waawi haɗeede ? Mbele pijirlooji ngaandi ina mballita? Hol ko woni koorka, ñaamde, ɗaanaade e nanɗe ? Jaabawuuli laaɓtuɗi, ƴoogirɗe, haa arti noon e ɗo hujjaaji ɗii pamɗi.",
+    "researchLink": "Janngu binndanɗe wiɗto ɗee",
+    "appEyebrow": "Kadi ko app",
+    "appTitle": "Momenji kaŋŋe e iPhone, iPad e Android",
+    "appText": "App oo ina gollira tawa ko e laylaytol, ina waawi huutoraade fotooje ɓesngu ɗe cuɓ-ɗaa, keɓtinaaɗe e kaɓirgol maa. Design calm gooto : kaɓirɗe nay mawɗe, alaa waktu, alaa limre.",
+    "aboutApp": "Ko fayti e app oo",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Hol ko woni pijirlooji moƴƴi wonande yimɓe wonduɓe e rafi dementia?",
+        "a": "Pijirlooji moƴƴi ko koyɗi, ganndaaɗi, ɗi ngalaa tampere : natal mawngal ngam yahdude, renndinde, jiggooji koyɗi, timminde konnguɗi ganndaaɗi, koloor, bingo natal e kaayitaaji yeewtere. Suɓngo ɓurngo moƴƴude ko ngo neɗɗo oo weltotoo hannde. Reento waktuuji, limtooji e kala ko nanndi e jarribo."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Mbele ɗeen pijirlooji dementia ko mbelnaari?",
+        "a": "Oho. Kala fijo e tappirde e Golden Moments ko mbelnaari, alaa konte, winnditaade walla ƴettude. Pijirlooji ɗii ina ndoga e nder feerorde web e telefoŋ, tablet walla ordinateer."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Mbele pijirlooji ngaandi ina kaɗa ñawu nguu?",
+        "a": "Alaa fijo hollitaama ngam haɗde ñawu nguu, tee Golden Moments wiyi ina safra walla ina haɗa hay huunde. Pijirlooji amen ko ngam weltinde e sahaa gooto. Taƴre men cellal ngaandi ina hollita ko wiɗtooji mbaɗata e ko kollitaani."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Mbele ɗeen pijirlooji ina moƴƴi e neɗɗo mo ñawu Alzheimer ?",
+        "a": "Oho. Ñawu Alzheimer ɓuri heewde saabaade ŋakkeende hakkille, pijirlooji ɗii mbaɗata ko ngam ɗum : natal mawngal heddotoo ko hollirde, suɓngooji seeɗa, alaa ko siftortee walla ko bonnata. Matching, renndinde e timminde konnguɗi ganndaaɗi ina tuugii e gannde ɓooyɗe, wonaa e jaŋde hesere."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Mbele neɗɗo jogiiɗo rafi dementia caggal mum ina waawi huutoraade ɗeen golle ?",
+        "a": "Heewi, eey, e won e sara maɓɓe. Fuɗɗoraade e Yiytu ko nanndi e natal ɗiɗi, Natal gonngal e kaɓirɗe nay, hello koloor walla fooftere calminaande. Waɗde juutde, rewa e maɓɓe, njooɗto so ɓe keɓii."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Mbele kabaruuji am ko keertiiɗi?",
+        "a": "Lowre ndee alaa konte, alaa kadi yeeyirde. Min kuutortoo ko Google Analytics ngam faamde hol kelle njiylotooɗe. Fotooje ɗe cuɓ-ɗaa ngam Photo pairs kollirtee tan ko e feerorde maa, ɗe meeɗaa neldude."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Hol baɗɗo Moments kaŋŋe?",
+        "a": "Golden Moments ko kippu tokooso waɗoowo golle calminaaɗe, natal mawɓe ngam ɓesnguuji e toppitiiɓe, e nder web e no app mo alaa kaalis. Min ngonaa safrooɓe, alaa ko ɗoo woni wasiyaaji safrooɓe."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "dawi",
+    "middle": "cakka",
+    "late": "ha yeeso",
+    "hintOne": "Heewi ko suturaaji {list} yaɓɓorde",
+    "hintMany": "Heewi ko suturaaji {list} daaɗe",
+    "labelEarly": "Daawal gadanal",
+    "labelMiddle": "Damal hakkundeewal",
+    "labelLate": "Damal caggal"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Ko fayti e ooɗoo fijo",
+    "printable": "Ina waawi tappeede",
+    "play": "Fijirde {name} →",
+    "readGuide": "Janngu doggol ngol"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Taski ngam fijirde leefnde?",
+    "text": "Nate mawɗe, alaa timer, alaa score e alaa ko winnditoo. Fijo e nder feerorde maa.",
+    "play": "Fiyde Pijirlooji",
+    "all": "Ƴeew pijirlooji ɗii fof",
+    "aria": "Fijo fijirde"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
-    "appStoreShort": "App Store",
-    "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "title": "Ƴettu ɗeen pijirlooji e maa",
+    "text": "App Golden Moments mo alaa kaalis ngam iPhone, iPad e Android : kaɓirɗe natal mawɗe, pijirlooji baɗɗi fotooji ɓesngu maa, e paɗe natal gollotooɗe tawa Wi‐Fi alaa. Alaa konte, jeeyngal, waktu walla limre.",
+    "appStore": "Heɓ ɗum e App Store",
+    "googlePlay": "Heɓ ɗum e Google Play",
+    "appStoreShort": "Magasin App",
+    "googlePlayShort": "Google Piye",
+    "about": "Ko fayti e app oo",
+    "aria": "Heɓde app oo"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Kuɗe",
+      "title": "Golle ngam Yimɓe wonduɓe e Dementia",
+      "seo": "Golle wonande yimɓe wonduɓe e rafi dementia: Miijooji e daawal",
+      "description": "Miijooji golle wonande yimɓe wuurduɓe e dementia e kala daawal : jimɗi, siftorde, golle ñalnde kala, sahaaji senngooji, golle juuɗe, yaasi e binndanɗe ɗe ngalaa njoɓdi.",
+      "lede": "Golle baɗɗe faayiida ko kala ko addata weltaare, faandaare walla sahaa jokkondiral. Fuɗɗoraade e ko neɗɗo oo weltotoo gila ko ɓooyi, mbayla ɗum e hannde."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Toppitagol",
+      "title": "Ardiiɓe toppitagol",
+      "seo": "Ardiiɓe toppitagol Dementia: Ballal kuuɓtodinngal ñalnde kala",
+      "description": "Ardiiɓe kuuɓtodinɓe, moƴƴuɓe wonande toppitiiɓe dementia : fijde e nder renndo, jokkondirde, salaade, ŋakkere fooftere ñalnde kala, tablette, suɓaade.",
+      "lede": "Ballal laaɓngal, kuuɓtodinngal ngam sahaaji ñalnde kala toppitaade neɗɗo guurɗo e rafi dementia, haa arti noon e toppitaade hoore maa."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Cellal ngaandi",
+      "title": "Cellal ngaandi: Ko wiɗto ngoo holliti",
+      "seo": "Cellal ngaandi e baasal : ko wiɗtooji mbiyata",
+      "description": "Mbele dementia ina waawi haɗeede ? Ardiiɓe goonga, sourced ko faati e geɗe baawɗe haɗude dementia, pijirlooji ngaandi, koorka, ñaamde, fijirde, ɗanngal.",
+      "lede": "Ko wiɗtooji mawɗi kolliri tigi rigi ko fayti e ustude baasal dementia, paamtinaaɗi laaɓtuɗi, haa arti noon e ɗo hujjaaji ɗii pamɗi walla jillondirɗi. Kabaaru kuuɓtodinɗo, wonaa wasiyaaji safrooɓe."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Hesɗitinaama",
+    "minuteRead": "{n} minit janngaama",
+    "byTeam": "Ko kippu Moments kaŋŋe",
+    "howWeWrite": "No mbinndirten",
+    "shortAnswer": "Jaabawol juutngol ngol",
+    "onThisPage": "E nder ngoo hello ({n} taƴe)",
+    "commonQuestions": "Naamne keewɗe",
+    "sources": "Fuɗɗoode",
+    "sourcesNote": "Min njokkondiri e juɓɓule e jaŋdeeji ɗi ngoo hello tuugnii e mum. Gooto heen fof ƴeewtaama nde hello ngoo hesɗitinaa.",
+    "tryTogether": "Enndu e nder heen",
+    "relatedGuides": "Ardiiɓe jokkondirɓe",
+    "related": "Je larni",
+    "startHere": "Fuɗɗoraade ɗoo"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Noddaango humpito cellal",
+    "title": "Kabaaru kuuɓtodinɗo, wonaa wasiyaaji safrooɓe",
+    "textHtml": "Ngolɗoo hello ina ciimta wiɗtooji bayyinaaɗi ngam ɓesnguuji. Waawaa wiyde ma ko foti e neɗɗo gooto. Yeewtid e safroowo hade maa waylude ñaamdu, fijirde, ɗanngal, leɗɗe walla ɓeydaare. Ngam jiiɓru ɓuuɓndu walla waylooji goɗɗi ɓuuɓɗi, keɓ ballal safrooɓe ɗoon e ɗoon. <a href=\"/medical-disclaimer/\">Janngu bayyinaango men humpito cellal</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Golle renndinde, wonaa jarribo ciftorgol",
+      "seoTitle": "Ko fayti e sahaaji kaŋŋe: Laawol men",
+      "description": "Hol ko waɗi pijirlooji Golden Moments ngalaa waktuuji, limtooji walla streaks, hol ko waɗi natal ina keddii e hollirde, e ko min mbiyata e ko min mbiyataa.",
+      "crumb": "Laawol men",
+      "lede": "Golden Moments ina waɗa golle calminaaɗe, natal mawɓe ɗe toppitiiɗo e neɗɗo guurɗo e dementia mbaawi weltaade bannge e bannge.",
+      "bodyHtml": "<h2>Ko min ngoongɗini</h2><p>Toɓɓere golle ko sahaa oo e hoore mum : yeewtere, ƴattoore, weltaare waɗde natal ɗiɗi, walla jooɗaade tan ko ɓadiiɗo. Wonaa fooɗtude hay gooto, ustude ɗum en walla hollirde huunde.</p><p>Apps keewɗi ngam jannginde ngaandi ina mbaɗee e saraaji njaaweeki, limtooji, streaks e toɓɓe. Wonande neɗɗo guurɗo e dementia ina waawi nanndude e ekzamen ɓe mbaawaa jaɓde. Min peewnii ko luutndii ɗum, min njokki e ɗeen kuule :</p><ul><li><strong>Alaa ko ŋakki.</strong> Alaa waktu, limto, limto diwtungo, nguurndam, streaks, konfetti walla limto, e kala ekran.</li><li><strong>Anndinde dow siftorde.</strong> Nate ina keddii e hollirde no haanirta nii. Prompts nodda yeewtere e meeɗaa quiz inɗe walla siftorde.</li><li><strong>Mawɗo, laaɓɗo e dariiɗo.</strong> Binndol e natal mawngal, mbaydi toowndi, e jokkondire jokkondirɗe e nokku gooto.</li><li><strong>Ndimaagu mawɗo.</strong> Nate aduna goonga e konnguɗi laaɓtuɗi, welɗi. Alaa karte, yimre-yimre yettoode walla njoɓdi emoji.</li><li><strong>Laawol yaltude koyngol.</strong> “Waɗaa jooni” ina yiyee sahaa kala. Woppude feccere laawol ko batte moƴƴe.</li><li><strong>Keeriiɗo e mbaydi kuuɓtodinndi.</strong> Alaa konte walla jeeyngal. Fotooji ɗi cuɓ-ɗaa ɗii ina keddii e kaɓirgol maa.</li></ul><h2>Ko min mbiyataa</h2><p>Pijirlooji amen ko ngam weltinde e jokkondirde. Ɓe ƴeewtataa, ɓe ƴeewndataa, ɓe pooɗataa, ɓe safrataa, ɓe leeltina walla ɓe kaɗataa ñawu nguu walla Alzheimer’s, hay gooto fotaani suɓaade ɗum en e ɗuum. So en mbinndii ko fayti e wiɗtooji e dow men... <a href=\"/brain-health/\">kelle cellal ngaandi</a>, eɗen mbiya laaɓndal ɗo hujjaaji ɗii ŋakki, en meeɗaa jokkondirde e pijirlooji men.</p><h2>Ko min ngoni</h2><p>Golden Moments ko kippu tokooso keeriiɗo. Min ngonaa kilinik. Ardiiɓe men ɓee mbinndaa ko e ardorde bayyinaande e pelle ko wayi no Duɗal Ngenndiwal Duuɓi e Fedde Alzheimer’s, kala ardorde ina limta iwdi mum. Jaangugo <a href=\"/editorial-policy/\">no mbinndirten e no ƴeewtortoɗen kelle men</a>.</p><h2>Haalan min ko ina wallita</h2><p>Min mbeltiima no feewi e nan’de ko nafata on e ko nafataa, haa teeŋti e yimɓe wonduɓe e rafi dementia, toppitiiɓe ɓesngu e gollotooɓe e golle. Imeel <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "No Min Mbinndirta e No Ƴeewtortoɗen Kelle Men",
+      "seoTitle": "Politik rewtinoowo",
+      "description": "No Golden Moments wiɗtiri, winndirta, ƴoogirta e hesɗitina golle mum dementia e kelle cellal ngaandi, e ko min meeɗaa yaltinde.",
+      "crumb": "Politik rewindaade",
+      "bodyHtml": "<h2>Fuɗɗoode men</h2><p>Min tuugnii e ardorde amen e ardorde renndo ummoraade e pelle ko wayi no Duɗal ngenndiwal ko faati e duuɓi, CDC, Fedde Alzheimer’s, Fooyre Alzheimer’s Amerik, Fedde toppitiiɓe ɓesnguuji e NHS, e wiɗtooji ƴeewndaaɗi e sehilaaɓe ko wayi no ƴeewte Cochrane e jarribooji mawɗi e nder safrirde. Kala doggol ina limta iwdiiji ɗi tuugnii e mum. Min udditta kala lowre hade amen siftinde nde, min ciftora tan ko nde haali tigi rigi.</p><h2>No mbinndirten</h2><ul><li>Ko adii fof ko golloraade : ko foti waɗeede hannde, e ɗemngal laaɓngal.</li><li>Goonga e seedeeji : eɗen mbiya “jokkondirɗo e”, “ina waawi” e “seedeeji ɗii ina njillondiri” nde tawnoo ko ɗuum woni goonga.</li><li>Hormaade : eɗen mbinnda ko fayti e yimɓe wuurɓe e rafi dementia e nder mawɓe, kadi en meeɗaa huutoraade ɗemngal quizzing walla shaming.</li><li>Alaa loowdi cifaaɗi : alaa limlebbi, ciimtol, annduɓe, wiɗtooji, ƴeewte walla seedanteeje peewnaaɗe.</li></ul><h2>Mo ƴeewtotoo kelle men</h2><p>Kelle ɗee ko goomu Golden Moments mbinndita, ƴeewtotoo, e ballal kuutorɗe binndol AI ngam wiɗto e binndol. Kala hello ina ƴeewtee e iwdi mum e kippu nguu. Kelle men ina njogii... <strong>kay</strong> ƴeewtaama e doktoor walla e doktoor goɗɗo, min mbiyataa ko wonaa ɗuum. Ko kabaruuji kuuɓtodinɗi, wonaa wasiyaaji safrooɓe.</p><h2>Ko min njaltintaa haa abada</h2><ul><li>Ina wiya wonde pijirlooji, nguura, ɓeydaare, koorka walla njuɓɓudi ina haɗa, ina safra, ina leeltina walla ina safra ñawu nguu.</li><li>Testuuji, kiisuuji walla limtooji kollitooji wonde neɗɗo ina jogii, walla alaa, ñawu nguu.</li><li>Wasiya ngam fuɗɗaade, woppude walla waylude kala lekki.</li><li>Yeeyrugol walla loowdi ballitoori ndi wayliima no ardotooɗo nii.</li></ul><h2>Hesɗitin'de e peewnugol</h2><p>Kala hello ina hollita ñalngu ngu cakkitii hesɗitineede. So a tawii majjere walla lowre nde ɓooyaani, neldu email <a href=\"mailto:{email}\">{email}</a> kadi maa min ƴeewto ɗum ko yaawi.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Naamne e Jaabawuuli",
+      "seoTitle": "Pijirlooji e golle dementia: Naamne e jaabawuuli",
+      "description": "Jaabawuuli naamne keewɗe jowitiiɗe e pijirlooji e golle dementia : hol pijirlooji potɗi ƴeewteede, hol no foti waktuuji potɗi ƴeewteede, miijooji caggal.",
+      "crumb": "Naamne e jaabawuuli",
+      "lede": "Jaabawuuli juutɗi, laaɓtuɗi e naamne ɗe toppitiiɓe ɓuri naamnaade.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Ko fayti e pijirlooji",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Hol ko woni pijirlooji ɓurɗi moƴƴude wonande neɗɗo mo dementia?",
+              "a": "Pijirlooji ɓurɗi moƴƴude ɗii ko ganndaaɗi, ko koyɗi, ɗi ngalaa tampere, kadi ko foti wonde ko neɗɗo oo weltotoo hannde. Natal jokkondirngal e natal yiyteteengal, sortude, jigsaws koyɗi, timminde konnguɗi ganndaaɗi, coloring e natal bingo fof ina golloo no moƴƴi e yimɓe heewɓe. Reento waktuuji, limtooji e kala ko nanndi e jarribo."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Mbele pijirlooji ɗii ko goonga?",
+              "a": "Oho. Pijirlooji e binnditagol fof ko njoɓdi, alaa konte, winnditaade, ƴettude walla yeeyde."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Hol ko waɗi alaa limlebbi, toɓɓe walla waktuuji?",
+              "a": "Jaawgol e limlebbi ina mbaɗta golle belɗe e ekkol, ina waawi addude hersa walla mette. Min njokkii e weltaare e sahaa gooto, ko ɗuum waɗi alaa ko ŋakki e aɗa waawi dartaade e kala sahaa."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Hol kaɓirɗe ɓurɗe moƴƴude?",
+              "a": "Kala telefoŋ, tablet walla ordinateer jogiiɗo feerorde web jamaanu. Tablet e dow darnde e dow taabal ina heewi wonde ko ɓuri welde e yimɓe ɗiɗo ngam fijde bannge e bannge. Laptop jokkondirɗo e tele ina golloo no moƴƴi e pelle."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Mbele eɗen mbaawi fijde e fotooje galle men?",
+              "a": "Oho. Fotooji ɗiɗi ina mbaɗta fotooji 2 haa 6 ɗi cuɓ-ɗaa ɗii mbaɗta pijirlooji nannduɗi. Fotooje ɗee ina keddii e feerorde maa, ɗe ndartinaaka, ɗe ndartinaaka."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Golle e toppitagol",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Hol no golle poti juutde ?",
+              "a": "Heewi wonde ko hojomaaji 10 haa 20 ina keewi, won heen kadi hojomaaji 2 ina njuumta. Yeewtu maandeeji tampere walla mette e woppude tawa ina weli haa jooni. Alaa ko foti no limre."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Hol ko woni so ɓe njiɗaa waɗde golle ?",
+              "a": "Hormo alaa, ƴeew kadi caggal walla e mbaadi ngoɗndi. Jaɓde ina waawi arde e tampere, mette, ŋakkere hoolaare walla tan waasde yiɗde. Ƴeew doggol amen ko foti waɗeede so ɓe mbiyii alaa."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Hol golle potɗe e dementia caggal?",
+              "a": "Comfort e senngooji : heɗtaade jimɗi ɓurɗi yiɗeede, ɓuuɓnude juuɗe e loowdi, ƴeewde fotooje e nder heen, jogaade ɓuuɓri softunde, jooɗaade e yaasi, walla pijirlooji natal koyɗi no feewi tawa won e saraaji mum en. Giɗo men caggal ina jogii miijooji goɗɗi keewɗi."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Mbele ina woodi golle ngam pelle e nder galle toppitiiɗo?",
+              "a": "Oho. Bingo natal ina jogii kaayitaaji tappirɗe e nodduɗo e ekran, e kaayitaaji Finish konngol e Yeewtere ina ngolloo no moƴƴi janngeede e daande toownde. Ardorde pelle men toppitiiɗe galleeji ina kaala mawnugol pelle, jooɗorde e jokkondire ngam baawɗe jillondirɗe."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Cellal ngaandi",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Mbele pijirlooji ina mbaawi haɗde walla leeltinde dementia ?",
+              "a": "Alaa fijo hollitaama ngam haɗde dementia, kadi fijooji men mbaɗaani ko wayi noon. Ƴellitaare hakkille e nder renndo hollitii nafooje tokoose e nder wiɗtooji wonande yimɓe wonduɓe e jabet fannu 2, kono ɗuum ina seerti e pijirlooji kaɗooji ñawu nguu. Min ndokka pijirlooji ngam weltinde e jokkondirde."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Mbele dementia ina waawi haɗeede ?",
+              "a": "Wonaa e yaakaare. Wiɗtooji ina njokkondiri e geɗe 14 cellal e nguurndam e baasal dementia, ko wayi no ŋakkere nanɗe, ŋakkere ƴiiƴam, ŋakkeende golle ɓalli e ŋakkere renndo. Haɓde e majji ina waawi ustude baasal wonande won e yimɓe, kono heewɓe e waɗooɓe kala ko ina moƴƴi ina keɓa haa jooni ñawu nguu. Ko hay gooto meeɗaa waɗde."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Mbele koorka taƴka ina moƴƴi e cellal ngaandi?",
+              "a": "Seedeeji aadee ina pamɗi, ina yaawi, tee ko ɓuri heewde e wiɗtooji ɗii ko e daabaaji. Koorka ina waawi wonde caɗeele wonande mawɓe, haa teeŋti noon e leɗɗe jabet walla ŋakkere teddeendi nde anniyaaka, tee ina moƴƴi e yimɓe wonduɓe e rafiiji. Yeewtid e doktoor hade maa waylude no ñaamirta."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Sirlu e kisal",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Mbele aɗa moofta heen humpito?",
+              "a": "Alaa konte walla jeeyngal. Min kuutortoo ko Google Analytics ngam limde njilluuji e ƴeewde hol kelle ballooje, kadi feerorde maa ina siftora so tawii a udditii sawtaaji softuɗi. Fotooje ɗe cuɓ-ɗaa ngam Photo pairs meeɗaa ƴetteede. Ƴeew bayyinaango sirlu ngam humpitaade."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Mbele ɗum ko wasiya safrooɓe?",
+              "a": "Alaa Golden Moments ko ngam weltinde e humpitaade ko heewi. Ngam naamne cellal, kaaldu e doktoor, e ngam caɗeele noddu 911."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Ɓeydu heen laaɓndal: <a href=\"/caregiving/how-to-play-together/\">no njuɓɓinirten</a>, <a href=\"/caregiving/when-they-say-no/\">nde ɓe mbiyi alaa</a>, <a href=\"/activities/late-stage/\">golle caggal ɗuum</a> be <a href=\"/brain-health/can-dementia-be-prevented/\">mbele dementia ina waawi haɗeede?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Pijirlooji ɗi ngalaa njoɓdi, ɗi ngalaa njoɓdi ngam yimɓe wuurɓe e Dementia",
+      "seoTitle": "Ɗerewol gonngol e tappirde: Pijirlooji Dementia ɗi ngalaa njoɓdi e internet",
+      "description": "Deftere kelle wootere ngam tappirde ngam ɓesnguuji e toppitiiɓe ko yowitii e pijirlooji natal ɗi ngalaa njoɓdi, ɗi ngalaa njoɓdi ngam yimɓe wuurduɓe e.",
+      "crumb": "Deftere nde waawi tappeede",
+      "lede": "Tappir ndee hello ngam fedde ballal, paaspoor toppitiiɗo walla damal frigo. Huutoro yamiroore Print feerorde maa; menuuji e butoŋuuji ɗii ina keddii e binndol ngol.",
+      "introHtml": "<p>Nate mawɗe, konnguɗi laaɓtuɗi alaa ko ŋakki. Ko yowitii e telefoŋ, tablet walla ordinateer, alaa ko winnditoo, alaa ko yeeynata, alaa waktuuji e alaa ko limtaa. Jooɗto-ɗee bannge e bannge, mbaɗon njilluuji.</p>",
+      "gamesTitle": "Pijirlooji ngam ƴeewndaade e nder renndo",
+      "restHtml": "<h2>Wasiyaaji seeɗa</h2><ul><li>Suɓo waktu mo neɗɗo oo woni e mum.</li><li>Fuɗɗoraade e njuɓɓudi ɓurndi hoybude. Tileeji nay ina keewi.</li><li>Haala ko fayti e natal. Yeewtere ndee ina heewi wonde ko ɓuri moƴƴude.</li><li>Woppu nde ina weli haa jooni. Jokkude ko yaawi ko batte moƴƴe.</li></ul><h2>Kadi e lowre ndee</h2><ul><li>Tappirɗe ɗe njoɓaaka : njiylawu kelme mawɗe, kelle colour, kaayitaaji yeewtere e bingo natal.</li><li>Miijooji golle wonande kala daawal, e ballondiral e fijde e dow toppitaade hoore maa.</li></ul><p class=\"muted\">Ngam weltaare e wakkati kawtal. Wonaa wasiyaaji safrooɓe, jarribo walla safaara. Ko Cloudjet Solutions Pte yaltini deftere nde. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Ngam cuuɗi toppitiiɗi, defte e pelle ballondiral",
+      "seoTitle": "Golle Dementia ɗe ngalaa njoɓdi ngam cuuɗi toppitiiɗi e pelle",
+      "description": "No cuuɗi toppitiiɗi, porogaraamuuji ñalɗi mawɓe, defte, gollorɗe mawɓe e pelle ballondiral kuutortoo pijirlooji men dementia ɗi ngalaa njoɓdi, ɓeyda heen.",
+      "crumb": "Ngam juɓɓule",
+      "lede": "Kala ko woni e ndee lowre ina waawi huutoreede e hoɗɓe, terɗe e kiliyaneeɓe, tawa alaa ko yowitii e konte, alaa ko yoɓata, alaa ko yoɓetee. Ngoo hello ina hollita ko woni ɗoo e no ɗum renndinirtee.",
+      "shortText": "{name}: pijirlooji natal e golle ɗe ngalaa njoɓdi, ɗe ngalaa njoɓdi, wonande yimɓe wonduɓe e rafi dementia e toppitiiɓe ɗum en. Alaa winnditaade, alaa waktuuji, alaa limlebbi.",
+      "longText": "{name} ({domain}) ina hokka {count} pijirlooji navigateur free peewnaaɗi ngam yimɓe wuurɓe e dementia, ina heen jokkondire jokkondire e natal heddii ko hollirta, jigsaw koyɗol, sortugol, konnguɗi ganndaaɗi e bingo natal e kaayitaaji tappirɗe. Alaa konte, alaa jeeyngal, alaa waktuuji walla limre. Lowre ndee ina jogii kadi binndanɗe golle ɗemɗe laaɓtuɗe wonande kala tolno ñawu nguu, ɗe cifotoo ko Duɗal ngenndiwal ko faati e duuɓi e Fedde Alzheimer.",
+      "useTitle": "Hol ko juɓɓule mbaawi huutoraade",
+      "gamesItemHtml": "<strong>{count} pijirlooji feerorde</strong> ɗi dogata ko e laptop, tablet walla tele jokkondirɗo e ordinateer. Alaa install, konte walla ƴettugol. Larugo <a href=\"/games/\">pijirlooji ɗii fof</a>.",
+      "printablesLabel": "{count} tappirɗe:",
+      "printablesAfter": "Huutoro butoŋ Tappirde e kala hello.",
+      "moreItemsHtml": "<li><strong>Nokkuuji fedde:</strong> <a href=\"/games/picture-bingo/\">Bingo natal</a> ina jogii kaayitaaji tappirɗe e nodduɗo e ekran, e... <a href=\"/activities/trivia/\">trivia ko weeɓi</a> ina jogii naamne 50 tawa ina waɗi cuɓagol jaabawol e toɓɓe kaaldigal.</li><li><strong>Ardiiɓe golle</strong> wonande gollotooɓe e ɓesnguuji, e dingiral e sifaa, binndaaɗe e ɗemngal laaɓngal tawa ina waɗi iwdiiji. Fuɗɗoraade e... <a href=\"/activities/ideas/\">101 miijooji golle</a> mala <a href=\"/activities/care-home-groups/\">golle fedde ngam cuuɗi toppitiiɗi</a>.</li>",
+      "restHtml": "<h2>No pelle kuutortoo ɗum</h2><ul><li><strong>Cuuɗi toppitagol e toppitagol ciftorgol:</strong> bingo natal walla timminde-haala e tele suudu renndo, tawa neɗɗo gooto ina tappa ngam fedde nde.</li><li><strong>Porogaraamuuji ñalɗi mawɓe:</strong> station tablette e Picture pairs set e tile nay, ngam jokkondire juutɗe gooto-e-gooto.</li><li><strong>Defte janngirɗe jamaa:</strong> njiylawu kelme tappirɗe e kaayitaaji jeewte e nder kaɓirɗe ciimtol, e lowre nde limtaa e tablette defterdu.</li><li><strong>Pelle ballondiral toppitiiɓe e kafe ciftorgol:</strong> gooto <a href=\"/handout/\">deftere kelle wootere nde waawi tappeede</a> ngam ɓesnguuji ɗii ƴetta galleeji mum en.</li><li><strong>Ospitaaluuji e peewnitooɓe yaltinnde:</strong> deftere nde e nder paɗe toppitiiɗe, ngam huunde calminaande waɗde e galle walla e sara leeso.</li></ul><h2>Ko min mbaɗataa</h2><p>Pijirlooji ɗii ko ngam weltinde e jokkondirde. Ɓe ƴeewtataa, ɓe ƴeewndataa, ɓe limtataa, ɓe safrataa walla ɓe leeltinaani ñawu nguu, eɗen ñaagii juɓɓule nde ngoppataa ɗum en noon. Alaa jeeyngal, kadi pijirlooji ɗii naamnaaki inɗe, nate cellal walla fotooje ngam jolnude. Lowre ndee huutortoo ko Google Analytics ngam limde njilluuji ; amin <a href=\"/privacy/\">humpito sirlu</a> ina fammina ko ɗuum moofti. Fotooji kuutorteeɗi e... <a href=\"/games/photo-pairs/\">Fotooji ɗiɗo</a> heddo e nder feerorde ndee.</p><h2>Ɓeydu min e doggol doole maa</h2><p>So aɗa jogii doggol doole ngam toppitiiɓe, aɗa weltii e jokkondirde e <a href=\"/\">{domain}</a>. Aɗa waawi ƴettude sifaa gooto.</p>",
+      "shortTitle": "Sifaa juutɗo",
+      "longTitle": "Sifaa ɓurɗo juutde",
+      "linksHtml": "<p>Kelle nafooje ngam jokkondirde e mum: <a href=\"/games/\">pijirlooji ɗi ngalaa njoɓdi</a>, <a href=\"/activities/printable/\">ko tappirɗe ɗe njoɓaaka</a>, <a href=\"/activities/alzheimers/\">golle ngam ñawu Alzheimer</a> be <a href=\"/caregiving/how-to-play-together/\">no njuɓɓinirten</a>.</p><h2>Naamne walla peeje</h2><p>So tawii won ko woni e lowre ndee ko boni walla ko laaɓtaani, walla so tawii haajuuji hoɗɓe ina njokki e ko woni ɗoo koo, mbiyaa min e... <a href=\"mailto:{email}\">{email}</a>. Hoto neldu kabaruuji keertiiɗi walla cellal ko fayti e hoɗɓe walla kiliyaneeɓe.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "App Moments kaŋŋe",
+      "seoTitle": "App mo sahaaji kaŋŋe ngam iPhone e Android",
+      "description": "App Golden Moments mo alaa ko yoɓi : foto leelɗo nannduɗo e kaɓirɗe nay mawɗe, fotooji ɓesngu jogaaɗi e kaɓirgol maa, paɗe fotooje ɗe ngonaa e laylaytol.",
+      "crumb": "App oo",
+      "lede": "Kala ko njiɗɗaa e lowre ndee, e nder app golloowo e lowre ndee, baawɗo huutoraade fotooje galle ɗe cuɓ-ɗaa.",
+      "worksOn": "Golle dow... {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Fuɗɗoraade ko tokooso</h2><p>Fuɗɗoraade e kaɓirɗe nay mawɗe e natal ganndaangal. Waɗde natal ina yiyee, walla suuɗa ɗum so ɗuum ina weltii. Mode Gentle alaa waktu, limre walla penaale. Suɓo 4, 6, 8 walla 12 tile.</p><h2>Waɗde ɗum ko neɗɗo</h2><p>Suɓo fotooje ɓesngu e cuɓoowo fotooje kaɓirgol maa. App oo ina moofta koppiiji tokoosi ngam golle mum. Nde ƴeewtataa defterdu maa walla waylataa fotooje maa asliije, nde jogoo fotde 24 foto e nder defterdu wooturu.</p><h2>Ƴeewee tan e nder gootal</h2><p>Yiylo natal gootal e sahaa gooto. Jaɓɓungal cuɓangal ina nodda yeewtere tawa naamnaaki hay gooto siftorde inɗe walla rokkude jaabawol laaɓtungol. Ƴeewde tan ina heddi.</p><h2>Offline ɗo ɗum haani</h2><p>Nate puɗɗorɗe e denndaangal paɗe natal jeetati ina tawee e app oo. Koppiiji fotooji naatnaaɗi ina ngolloo tawa ko e laylaytol. Suɓaade asliiji mooftaaɗi tan e iCloud ina waawi ɗaɓɓude jokkorde internet.</p><h2>Alaa konte, alaa serveer sinkronisaasiyoŋ foto</h2><p>Koppiiji fotooji ɓesngu ina keddii e app oo e kaɓirgol ngol. Aɗa waawi ittude koppiiji ɗii tawa a momtaani asliiji ɗii. Backups kaɓirɗe ina mbaawi jogaade dokke app. Janngu ko... <a href=\"/app-privacy/\">politik sirlu app</a>, be <a href=\"/help/\">ballal app</a> ina yaha e kala taƴre.</p>",
+      "disclaimer": "Golden Moments ko ngam weltinde e yeewtere renndinde. Nde ƴeewtataa, nde safrataa, nde haɗataa walla nde foondataa ñawu nguu walla ñawu Alzheimer’s.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Pijirlooji Dementia & Alzheimer ɗi ngalaa njoɓdi e internet",
+    "description": "Pijirlooji internet ɗi ngalaa njoɓdi wonande mawɓe wonduɓe e rafi dementia walla Alzheimer : jokkondire natal, jigsaws koyɗi, renndinde, konnguɗi, colour, bingo.",
+    "crumb": "Pijirlooji",
+    "h1": "Pijirlooji leelɗi wonande yimɓe wonduɓe e Dementia",
+    "lede": "{count} pijirlooji ɗi ngalaa njoɓdi ngam fijde e nder feerorde maa. Nate mawɗe, konnguɗi laaɓtuɗi, alaa ko ŋakki : alaa waktuuji, alaa limtooji, alaa winnditaade.",
+    "listName": "Pijirlooji leelɗi wonande yimɓe wonduɓe e dementia",
+    "byStageTitle": "Suɓaade fijo e dingiral",
+    "byStageLede": "Daawe ko njillu ɓuuɓngu tan. Rew ko neɗɗo oo weltotoo e ko weltotoo hannde.",
+    "stageCol": "Yaɓɓorde",
+    "gamesCol": "Pijirlooji ɗi keewi welde",
+    "moreHtml": "Miijooji goɗɗi woɗɗi ekran: <a href=\"/activities/ideas/\">101 golle wonande yimɓe wonduɓe e rafi dementia</a>, <a href=\"/activities/alzheimers/\">golle e pijirlooji ngam ñawu Alzheimer</a>, <a href=\"/activities/memory-games/\">pijirlooji ciftorgol leefɗi</a> be <a href=\"/activities/puzzles/\">puzzleeji</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Hol fijo ngo pot-ɗen fuɗɗoraade?",
+        "a": "Natal ɗiɗo e tiles nay ko suɓngo adanngo calminaango. So tawii suɓaade hakkunde natal ina nanndi e ko heewi, ƴeew Yiytu ko nanndi e natal ɗiɗi. Ngam fedde, ƴeew bingo Natal."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Mbele pijirlooji ɗii ina ngolloo e iPad walla e telefoŋ?",
+        "a": "Oho. Kala fijo ina gollira e nder navigateur e telefoŋaaji, tablette e ordinateeruuji, natal ina mawna haa hebbina ekran. Tablet e dow stand ina heewi ɓurde welde e yimɓe ɗiɗo."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Mbele ɗeen pijirlooji ina moƴƴi e neɗɗo mo Alzheimer's ?",
+        "a": "Oho. Ɗe mbaɗiraa ko yimɓe wonduɓe e ñawu nguu, ina jeyaa heen ñawu Alzheimer, ngu ɓuri heewde saabaade ɗum. Nate ina keddii ina kollita, ko seeɗa tan cuɓaa, alaa ko woni heen so wonaa waktuuji walla toɓɓe, ko ɗum waɗi pijirlooji ɗii ina tuugnii e anndude geɗe ganndaaɗe, wonaa siftorde geɗe kese."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Mbele ɗeen pijirlooji ciftorgol ko mawɓe?",
+        "a": "Ko pijirlooji jokkondire e natal ɗi kala mawɗo waawi weltaade, kono ɗi mahaa ko ngam ƴeewndaade ciftorgol : e nder Picture pairs natal ngal ina heddii yeeso so wonaa tawa a suɓiima ko wonaa ɗuum. Ardorde men e pijirlooji ciftorgol mawɓe wonduɓe e dementia ina fammina no kala pijirlooji ciftorgol jogori jogaade newaare."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Mbele ina woodi pijirlooji ngam pelle e nder galle toppitiiɗo?",
+        "a": "Oho. Bingo natal ina jogii kaayitaaji tappirde e nodduɗo e ekran, e Finish the saying e kaayitaaji Yeewtere ina ngolloo no moƴƴi janngeede e daande toownde e fedde."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "Ayfoon, ipad e androyid",
+    "requirements": "iOS 15 walla ko ɓuri ɗum; Android 7.0 walla ko ɓuri ɗum",
+    "summary": "App mo alaa ko yoɓi ngam iPhone, iPad e Android e natal leelngal jokkondirngal e dow kaɓirɗe mawɗe nay haa sappo e ɗiɗi, jokkondirɗe e yiyngo e fotooji ɓesngu ɗi cuɓ-ɗaa, e jeetati ina heen paɗe natal gollotooɗe tawa internet alaa. Alaa konte, jeeyngal, waktu walla limre.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Natal leelngal nanndungal e 4, 6, 8 walla 12 tile mawɗe ; natal ina heddii e yiyeede so wonaa tawa a suɓiima suuɗde ɗum",
+      "Fotooji ɓesngu ɗi cuɓ-ɗaa ɗii, ina njuutee e app ngam yahdude e ƴeewde heen",
+      "Ƴeewee heen : natal gootal e sahaa gooto tawa ina waɗi yeewtere cuɓaande",
+      "Paɗe natal jeetati ina tawee e app oo; ɓe ngollata ko tawa ko e laylaytol",
+      "Alaa konte, yeeyirde, coodguuli nder app, waktu, limre walla penaale"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Mbele ina woodi app golle dementia?",
+        "a": "Oho. Wakkatiiji kaŋŋe (limtaaɗi ko \"{storeName}\") ko huunde nde yoɓaaka e App Store e Google Play. Ina rokka jokkondire natal leefɗe e kaɓirɗe mawɗe, pijirlooji baɗɗi fotooji ɓesngu ɗi cuɓ-ɗaa, e paɗe natal gollorɗe tawa ko e laylaytol."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Mbele app Moments kaŋŋe oo ko mbelnaari?",
+        "a": "Oho. Ko mbelnaari ƴettude, alaa ko woni heen ads, konte walla coodguuli nder app."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Mbele app oo ina golla tawa internet alaa?",
+        "a": "Oho. Nate puɗɗorɗe ɗee e denndaangal paɗe nate jeetati ɗee ina tawee e app oo, fotooje ɓesngu ɗee ina ngolloo tawa ko e laylaytol so ɗe njuppaama e nder app oo. Suɓaade foto mooftiraaɗo tan e iCloud ina waawi hatojinde e jokkorde."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Mbele miɗo waawi huutoraade fotooje galle amen?",
+        "a": "Oho. Suɓo fotooje e cuɓoowo fotooje kaɓirgol maa. App oo ina jogii koppiiji tokoosi e kaɓirgol ngol ngam golle mum, o ƴettataa ɗi, o meeɗaa waylude asliiji ɗii. Aɗa waawi ittude koppi ɗii kala sahaa."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Mbele ko app jannginde ngaandi walla jarribaade miijo?",
+        "a": "Alaa. Golden Moments ko ngam weltinde e sahaa gooto. Alaa ko nde jogii limre walla ƴeewndo, nde ƴeewtataa, nde safrataa, nde haɗataa walla nde foondataa ñawu nguu walla ñawu Alzheimer’s."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Hol kaɓirɗe ɗe nde gollotoo?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Mbele ina woodi mbaydi app e ooɗoo fijo?",
+      "a": "Oho. App Golden Moments mo alaa ko yoɓi ngam iPhone, iPad e Android ina jogii nanondiral natal leefngal gootal, ina waawi huutoraade fotooje ɓesngu ɗe cuɓ-ɗaa, kadi ina gollira tawa aɗa woni e laylaytol. Alaa konte, ads walla score."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Mbele ina woodi mbaydi app e ooɗoo fijo?",
+      "a": "Wonaa e ooɗoo fijo. App Golden Moments mo alaa ko yoɓi ngam iPhone, iPad e Android ina waɗi natal ɓuuɓngal jokkondirngal e kaɓirɗe mawɗe e fotooji ɓesngu ɗi cuɓ-ɗaa, kadi ina golloo tawa aɗa woni e laylaytol. Ooɗoo fijo ina heddii ɗoo e feerorde maa."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: natal mawngal, sehilaaɓe",
+    "noscript": "Ooɗoo fijo ina sokli JavaScript udditaaɗo e nder feerorde maa. Wasiyaaji les ɗii ina ngolloo tawa alaa heen.",
+    "about": "Do {name}",
+    "aboutAria": "Ko fayti e ooɗoo fijo",
+    "noTimer": "Alaa waktu walla limre",
+    "printable": "Ina waawi tappeede",
+    "howTo": "No fijirtee {name}",
+    "tips": "Wasiyaaji ngam fijde e nder renndo",
+    "newToPlayingHtml": "Keso e fijde e neɗɗo mo dementia? Jaangugo <a href=\"/caregiving/how-to-play-together/\">no mbaɗaten pijirlooji e nder gootal</a>, ina heen ko foti waɗeede so tawii ɓe keɓii nafoore.",
+    "moreAria": "Ko ɓuri heewde ko ƴeewteede",
+    "helpfulGuides": "Ardiiɓe ballooji",
+    "appTitle": "Fijo ɗum e nder app",
+    "appText": "App Golden Moments mo alaa kaalis ina jogii natal ɓuuɓngal jokkondirngal e kaɓirɗe mawɗe e fotooji ɓesngu maa, kadi ina gollira tawa Wi‐Fi alaa. Ayfoon, ipad e androyid.",
+    "photoAppTitle": "Waɗde fotooje maa ina njuɓɓinee",
+    "photoAppText": "E nder app Golden Moments mo alaa kaalis, fotooje ɗe cuɓ-ɗaa ɗee ina keddii e kaɓirgol maa ngam sahaa garoowo, kadi pijirlooji ina ngolloo tawa Wi‐Fi alaa. Ayfoon, ipad e androyid.",
+    "goodToKnow": "Ina moƴƴi anndude",
+    "goodToKnowText": "Ooɗoo fijo ko ngam weltinde e sahaa gooto. Nde ƴeewndataa, nde foondataa, nde safrataa hay huunde.",
+    "moreGames": "Pijirlooji ɓurɗi leelde",
+    "crumb": "Pijirlooji"
   }
 }

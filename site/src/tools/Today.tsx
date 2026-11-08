@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { SITUATIONS, SITUATION_BY_ID, type SituationId } from '../lib/today/situations';
 import { addNote, byDay, loadNotes, localDay, removeNote, saveNotes, type Note, type Outcome } from '../lib/today/notes';
+import { sounds } from '../games/shared/sound';
 
 const OUTCOME_LABEL: Record<Outcome, string> = {
   helped: 'That helped',
@@ -60,6 +61,7 @@ export function Today() {
 
   const record = (outcome: Outcome) => {
     if (!chosen) return;
+    sounds.tap();
     commit(addNote(notes, { id: newId(), date: localDay(), situation: chosen, outcome, text }), 'Saved in your notes below.');
     setText('');
   };
@@ -79,6 +81,7 @@ export function Today() {
                 className="btn btn--block today__choice"
                 aria-pressed={chosen === s.id}
                 onClick={() => {
+                  sounds.tap();
                   setChosen(s.id);
                   setStatus('');
                 }}
@@ -170,7 +173,10 @@ export function Today() {
                       <button
                         type="button"
                         className="btn btn--quiet"
-                        onClick={() => commit(removeNote(notes, n.id), 'Note removed.')}
+                        onClick={() => {
+                          sounds.tap();
+                          commit(removeNote(notes, n.id), 'Note removed.');
+                        }}
                       >
                         Remove
                       </button>
@@ -180,7 +186,14 @@ export function Today() {
               </div>
             ))}
             <div className="btn-row">
-              <button type="button" className="btn" onClick={() => window.print()}>
+              <button
+                type="button"
+                className="btn"
+                onClick={() => {
+                  sounds.tap();
+                  window.print();
+                }}
+              >
                 Print notes for an appointment
               </button>
             </div>

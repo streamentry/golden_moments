@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Myndapør",
+    "seoTitle": "Samsvarandi spæl fyri demens: Myndapør",
+    "h1": "Myndapør: eitt blítt samsvarandi spæl",
+    "description": "Eitt ókeypis, blítt matchandi spæl til fólk, sum liva við demensi. Stórar myndir halda seg sjónligar, eingin tíðarætlan ella stigatal er, og tú velur 4 til 12 flísar.",
+    "short": "Finn tær báðar myndirnar, sum eru tær somu. Myndir kunnu halda fram at vísa.",
+    "players": "1 ella 2 fólk, lið um lið",
+    "intro": "Trýst á eina mynd, og trýst síðani á ta, sum passar til hana. Myndir vísa seg sum standard, so einki skal minnast til. Tá tvær myndir ganga saman fáa tær gullmark og merki.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Vel hvussu nógvar flísar tú skalt brúka. Fýra flísar er eitt róligt stað at byrja.",
+      "Trýst á eina og hvørja mynd. Tað fær gullmark.",
+      "Trýst á myndina, sum sær tað sama út. Parið heldur seg saman við einum strikumerki.",
+      "Um tær báðar myndirnar eru ymiskar, hendir einki ringt. Trýst aftur, tá tú ert liðugur.",
+      "Tendra \"Duldar myndir\" bert um tit bæði njóta klassisku andlits-niður útgávuna."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Nevnið myndirnar hart saman og prátið um tær: \"Ein reyður tekoppur. Tekur tú mjólk í teið?\"",
+      "Lat tann, tú ansar eftir, gera tað, sjálvt um tað tekur eina løtu. Peika heldur enn banka fyri teimum.",
+      "Ver við fýra flísum so leingi tað kennist gott. Fleiri flísar eru eitt val, ongantíð eitt stig at náa.",
+      "Enda meðan tað enn er hugnaligt. Eitt spæl er eitt fullfíggjað virksemi."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er tað ein tíðarætlan ella eitt stigatal?",
+        "a": "Nei.. Tað er eingin klokka, stigatal, flyta teljari ella tapa. Tú kanst steðga hvørja løtu, og at steðga á hálvari leið er ein fullkomiliga góður máti at klára seg uppá."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Hví halda myndirnar seg við andlitinum upp?",
+        "a": "At halda myndir sjónligar ger spælið til at hyggja og passa heldur enn at minnast. Nógv fólk halda hetta vera róligari. Tú kanst skifta til duldar myndir við einum klikki, um tú vilt."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er tað ókeypis, og skal eg melda meg til?",
+        "a": "Ja, tað er ókeypis, og eingin konta, tilmelding ella niðurtøka er. Tað virkar í kaganum á telefon, teldu ella teldu."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Kunnu vit brúka okkara egnu familjumyndir?",
+        "a": "Ja. Royn Myndapør, sum letur teg velja myndir frá tínari eind. Myndirnar halda seg í tínum kaga og verða ikki lagdar upp."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Finn tað sama",
+    "seoTitle": "Finn somu mynd: Einfalt demensspæl",
+    "h1": "Finn somu mynd",
+    "description": "Ein mynd ovast, tvær til fýra niðanfyri. Trýst á tann, sum er tann sami. Eitt róligt, ókeypis myndaspæl til fólk, sum liva við demensi, uttan tíðarætlan.",
+    "short": "Hygg eftir myndini ovast og trýst á somu niðanfyri.",
+    "players": "1 ella 2 fólk",
+    "intro": "Ein mynd situr ovast á skerminum. Niðanfyri eru tvær, tríggjar ella fýra myndir. Trýst á tann, sum er tann sami. Tað er eitt einfalt val í senn, við nógvum plássi at tosa.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Vel tvær, tríggjar ella fýra myndir at velja ímillum. Tvey er tað einfaldasta.",
+      "Hyggið saman eftir myndini ovast.",
+      "Trýst á somu mynd niðanfyri. Tað er merkt við ávísing og nøkrum fáum heitum orðum.",
+      "Um ein onnur mynd verður týnd, nevnir spælið hana heilt einfalt og bíðar. Tak tær tíð.",
+      "Trýst á \"Næsta mynd\", tá tú ert klárur til eina aðra."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Tosa um hvørja mynd, áðrenn tú velur: litir, formar, hvar tú kanska sært hana.",
+      "Tvey val eru ikki \"ov løtt\". Málið er ein hugnalig løta, ikki ein avbjóðing.",
+      "Um tað er ringt at banka, kann viðkomandi peika og tú kanst banka fyri teimum."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er tað ein tíðarætlan ella eitt stigatal?",
+        "a": "Nei.. Tað er eingin klokka, stigatal, flyta teljari ella tapa. Tú kanst steðga hvørja løtu, og at steðga á hálvari leið er ein fullkomiliga góður máti at klára seg uppá."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Hvat hendir, um skeiva myndin verður týnd?",
+        "a": "Einki óhugnaligt. Har er eingin summari, reyður krossur ella risting. Spælið nevnir myndina, sum varð klippað og bíðar eftir næsta klippinum."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er tað ókeypis, og skal eg melda meg til?",
+        "a": "Ja, tað er ókeypis, og eingin konta, tilmelding ella niðurtøka er. Tað virkar í kaganum á telefon, teldu ella teldu."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Skuggadystur",
+    "seoTitle": "Skuggasamsvarandi spæl til demens: Ókeypis á netinum",
+    "h1": "Skuggadystur: eitt blítt myndaspæl",
+    "description": "Ein myrkur skuggi ovast, tvær til fýra myndir niðanfyri. Trýst á myndina, sum ger skuggan. Eitt ókeypis, róligt skuggasamsvarandi spæl til demens, uttan tíðarætlan.",
+    "short": "Hygg at skugganum og trýst á myndina, sum ger tað.",
+    "players": "1 ella 2 fólk",
+    "intro": "Skuggasamsvar er eitt kent virksemi frá prentaðum arbeiðsbløðum, her við stórum myndum og einki at prenta. Ein mjúkur skuggi situr ovast á skíggjanum og tvær, tríggjar ella fýra myndir bíða niðriundir. Trýst á tann, sum ger skuggan. Formar sum súkkla, regnskjól ella tekoppur eru eisini lættir at tosa um.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Vel tvær, tríggjar ella fýra myndir at velja ímillum. Tvey er tað einfaldasta.",
+      "Hyggið saman at skugganum. Hvønn form er tað? Er tað høgt ella runt?",
+      "Trýst á myndina, sum ger skuggan. Navnið á henni sæst undir skugganum.",
+      "Um ein onnur mynd verður týnd, nevnir spælið hana heilt einfalt og bíðar. Tak tær tíð.",
+      "Trýst á \"Næsti skuggi\", tá tú ert klárur til ein annan."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Spora umrisan á skugganum við fingrinum og tosa um sniðið.",
+      "Um skuggar kennast hart í dag, so skift til Finn tað sama, har myndirnar líkjast.",
+      "Tosa um myndina, tá hon er funnin: \"Vit høvdu eitt regnskjól sum hatta.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er tað ein tíðarætlan ella eitt stigatal?",
+        "a": "Nei.. Tað er eingin klokka, stigatal, flyta teljari ella tapa. Tú kanst steðga hvørja løtu, og at steðga á hálvari leið er ein fullkomiliga góður máti at klára seg uppá."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Er skuggamatching gott fyri fólk við demensi?",
+        "a": "Tað kann vera eitt hugnaligt, einfalt virksemi hjá nøkrum, serliga í teimum fyrru stigunum. Formar eru lættari at kenna aftur enn orð. Tað er til gleði og prát, ikki ein roynd, og tað viðger ella bremsar ikki demensi. Um tað elvir til frustratión, royn Finn tað sama ella hygg bara at myndum saman."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Hvat hendir, um skeiva myndin verður týnd?",
+        "a": "Einki óhugnaligt. Har er eingin summari, reyður krossur ella risting. Spælið nevnir myndina, sum varð klippað og bíðar eftir næsta klippinum."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er tað ókeypis, og skal eg melda meg til?",
+        "a": "Ja, tað er ókeypis, og eingin konta, tilmelding ella niðurtøka er. Tað virkar í kaganum á telefon, teldu ella teldu."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sortera saman",
+    "seoTitle": "Sorteringsspæl fyri demens: Sortering saman",
+    "h1": "Sortera saman: eitt myndasorterandi virksemi",
+    "description": "Trýst á eina mynd, og trýst síðani á kurvina, sum hon hoyrir til í: køk ella garð, frukt ella djór.",
+    "short": "Set hvørja mynd í sína kurvina: køk ella garð, og annað.",
+    "players": "1 ella 2 fólk",
+    "intro": "At sortera er ein kend, nøktandi gerandisuppgáva, sum at leggja matvørur burtur ella at para sokkum. Trýst á eina mynd, og trýst síðani á kurvina, har hon hoyrir heima. Tað er eingin skund og eingin skeiv vend.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Vel eitt tema: køkur og garður, frukt og djór, ella heim og ferðing.",
+      "Trýst á eina mynd. Tað fær gullmark.",
+      "Trýst á kurvina, sum hon hoyrir til í. Myndin flytur seg inn í ta kurvina.",
+      "Um tað hoyrir heima í hinari kurvini, sigur spælið so blídliga og bíðar.",
+      "Tá hvør mynd er sorterað, hyggja vit saman ígjøgnum kurvarnar."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Tað eru ofta ikki skeiv svar í veruliga lívinum. Um onkur sigur, at ein vatnkanna hoyrir heima í køkinum, spyr so hví. Tú fært kanska eina góða søgu.",
+      "Brúka myndirnar sum áheitan: \"Hvat dyrkaði tú í garðinum?\"",
+      "At sortera veruligar lutir, sum skeiðir og gaflar ella knappar eftir liti, er ein frálík uppfylging burtur frá skerminum."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er tað ein tíðarætlan ella eitt stigatal?",
+        "a": "Nei.. Tað er eingin klokka, stigatal, flyta teljari ella tapa. Tú kanst steðga hvørja løtu, og at steðga á hálvari leið er ein fullkomiliga góður máti at klára seg uppá."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Hví sortera?",
+        "a": "Nógvum dámar væl at sortera, tí tað kennist sum gagnligt, kent arbeiði. Tað er eisini lætt at tosa um myndirnar, sum tú gongur."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er tað ókeypis, og skal eg melda meg til?",
+        "a": "Ja, tað er ókeypis, og eingin konta, tilmelding ella niðurtøka er. Tað virkar í kaganum á telefon, teldu ella teldu."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Myndagáta",
+    "seoTitle": "Lætt puslispæl til demens: 4 ella 9 stykki",
+    "h1": "Myndagáta: ein lætt puslispæl",
+    "description": "Ein lættur online puslispælur til fólk, sum liva við demensi: 4 ella 9 stór stykki, øll myndin heldur seg sjónlig, og tú trýstir á tvey stykki fyri at skifta tey.",
+    "short": "Trýst á tvey stykki fyri at skifta tey, til myndin er heil.",
+    "players": "1 ella 2 fólk",
+    "intro": "Ein vinarlig mynd er skorin í fýra ella níggju stór stykkir og blandað uppí. Øll myndin heldur seg sjónlig sum vegleiðing. Trýst á eitt stykki, síðani eitt annað, og tey skifta pláss. Eingin drag er neyðug.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Vel mynd og 4 ella 9 stk. Fýra er ein blíð byrjan.",
+      "Hygg eftir allari myndini ovast.",
+      "Trýst á eitt stykki, og trýst síðani á staðin, har tað skal fara. Tey bæði stykkini skiftast.",
+      "Stykki á rætta staðnum fáa eitt lítið avmerki.",
+      "Tá myndin er heil, njótið hana saman, veljið síðani eina aðra."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "At banka tvey stykki fyri at skifta tey er nógv lættari enn at draga hjá nógvum fólkum.",
+      "Tosa um myndina, tá hon kemur saman: \"Har er tað reyða takið.\"",
+      "Ein verulig træpuslispæl við 12 til 24 stórum stykkjum er eitt deiligt borðvirksemi eisini."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er tað ein tíðarætlan ella eitt stigatal?",
+        "a": "Nei.. Tað er eingin klokka, stigatal, flyta teljari ella tapa. Tú kanst steðga hvørja løtu, og at steðga á hálvari leið er ein fullkomiliga góður máti at klára seg uppá."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Tørvar mær at draga stykkini?",
+        "a": "Nei, trýst á eitt stykki, trýst síðani á eitt annað, og tey skifta pláss. Hetta er lættari við ristiligari hond ella á einum lítlum skermi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er tað ókeypis, og skal eg melda meg til?",
+        "a": "Ja, tað er ókeypis, og eingin konta, tilmelding ella niðurtøka er. Tað virkar í kaganum á telefon, teldu ella teldu."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Enda orðatakið",
+    "seoTitle": "Enda orðatakið: Orðtøk leikur fyri eldri",
+    "h1": "Enda orðatakið",
+    "description": "Kend amerikansk orðatøk við seinasta orðinum, sum \"Eitt oyra, sum er spart, er eitt oyra ___\". Trýst á eitt val ella vís endan, og tosa síðani um tað.",
+    "short": "Fyll út kend orðatøk saman, og tosið síðani um tey.",
+    "players": "1, 2 ella bólki",
+    "intro": "Gomul orðatøk eru ofta væl kend fyri alt lívið. Hvørt kort vísir eitt kent orðatak við seinasta orðinum, sum manglar, trý valmøguleikar og ein knøtt \"Vís endan\". Eftir endan bjóðar ein blíður spurningur til prát.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lesið orðatakið hart saman.",
+      "Trýst á orðið, sum endar tað, ella trýst á \"Vís endan\".",
+      "Les alt orðatakið aftur og tosa um tað við at brúka boðini.",
+      "Trýst á \"Næsta orðatak\", tá tú ert liðugur."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Les róliga og legg ein steðg áðrenn seinasta orðið. Ofta siga fólk tað, áðrenn tú ert liðugur.",
+      "Um onkur gevur ein annan enda, so njót tað. Summar útgávur av orðum eru ymiskar eftir familju ella øki.",
+      "Í bólki lesur ein persónur og øll melda seg til endan."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er tað ein tíðarætlan ella eitt stigatal?",
+        "a": "Nei.. Tað er eingin klokka, stigatal, flyta teljari ella tapa. Tú kanst steðga hvørja løtu, og at steðga á hálvari leið er ein fullkomiliga góður máti at klára seg uppá."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Hvat um vit velja eitt annað orð?",
+        "a": "Spælið vísir vanliga endan og fer víðari til prát. Tað er einki stigatal, og eitt annað svar er í lagi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er tað ókeypis, og skal eg melda meg til?",
+        "a": "Ja, tað er ókeypis, og eingin konta, tilmelding ella niðurtøka er. Tað virkar í kaganum á telefon, teldu ella teldu."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Leitan við stórum skrift",
+    "seoTitle": "Stórt prent orð Leita eftir demensi, prentbart",
+    "h1": "Leitan við stórskrift av orðum",
+    "description": "Ókeypis stórprentað orðaleitan til eldri og fólk, sum liva við demensi. Fá orð, stórir bókstavir, orð tvørtur um og niður einans. Spæl á netinum ella prenta.",
+    "short": "Stórir bókstavir, nøkur fá orð, tvørtur um og niður einans. Prenta tað eisini út.",
+    "players": "1 ella 2 fólk",
+    "intro": "Eitt lítið rist við stórum bókstavum og bara eini ørgrynnu av orðum, sum øll lesa tvørtur um ella niður. Trýst á fyrsta bókstavin í einum orði, síðani á seinasta bókstavin. Heldur tú pappír? Prenta eina fríska gátu í einum krana.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Vel eitt tema og eina riststødd.",
+      "Hygg at orðalistanum. Orð lisin tvørtur um (vinstru til høgru) ella niður (ovast til botn).",
+      "Trýst á fyrsta bókstavin í einum orði, og trýst síðani á seinasta bókstavin.",
+      "Eitt funnið orð er varpað ljós á og krossað av listanum.",
+      "Trýst á \"Prenta hetta gátuføra\" fyri at spæla á pappír við blýanti ella markør."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Vís á eitt orð á listanum og leita saman eftir fyrsta bókstavinum.",
+      "Á pappírinum er ein markerari lættari at halda enn ein blýantur.",
+      "Tosa um temaorðini. Frukt orð eru ein natúrligur vegur inn í minni um tína, bakarí ella marknaðir."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er tað ein tíðarætlan ella eitt stigatal?",
+        "a": "Nei.. Tað er eingin klokka, stigatal, flyta teljari ella tapa. Tú kanst steðga hvørja løtu, og at steðga á hálvari leið er ein fullkomiliga góður máti at klára seg uppá."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Kann eg prenta orðið leitan?",
+        "a": "Ja. Trýst á \"Prenta hetta gátuføra\" fyri at prenta núverandi rist við stórum skrift, við orðalistanum undir. Hvør nýggj gáta er ymisk."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er tað ókeypis, og skal eg melda meg til?",
+        "a": "Ja, tað er ókeypis, og eingin konta, tilmelding ella niðurtøka er. Tað virkar í kaganum á telefon, teldu ella teldu."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Litbløð",
+    "seoTitle": "Litbløð til vaksin við demensi (Ókeypis)",
+    "h1": "Litbløð",
+    "description": "Einfaldar, vaksnar litbløð við stórum økjum: trýst á ein lit, og trýst síðani á myndina. Einki rumbul, eingin skeivur litur, og hvør síða kann prentast ókeypis.",
+    "short": "Trýst á ein lit, og síðani á ein part av myndini. Prenta síður eisini út.",
+    "players": "1 ella 2 fólk",
+    "intro": "Síður við stórum, einføldum sniðum: blóma í potti, hús, tekoppur, summarfuglur og seglbátur. Trýst á ein lit, og trýst síðani á ein part av myndini fyri at fylla hana. Tað eru ikki skeivir litir.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Vel eina síðu.",
+      "Trýst á ein lit. Hvør litur hevur sítt navn skrivað á.",
+      "Trýst á ein part av myndini fyri at fylla hana við tí litinum.",
+      "Broyt hugsan nær sum helst við at fylla tað aftur.",
+      "Trýst á \"Prenta hesa síðuna\" fyri at fáa eina tóma síðu at lita við blýantum ella markørum."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Bjóða tveir litir at velja ímillum heldur enn alt settið, um tað kennist sum ov nógv at velja.",
+      "Lilla trø og bláar sólir eru vælkomin. Hetta snýr seg um at njóta lit, ikki neyvleika.",
+      "Prentaðar síður rigga væl við tjúkkum markørum ella litiblýantum, sum eru lættari at taka í."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er tað ein tíðarætlan ella eitt stigatal?",
+        "a": "Nei.. Tað er eingin klokka, stigatal, flyta teljari ella tapa. Tú kanst steðga hvørja løtu, og at steðga á hálvari leið er ein fullkomiliga góður máti at klára seg uppá."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Eru hesar síðurnar ov barnsligar?",
+        "a": "Vit teknaðu róligar, einfaldar lutir heldur enn teknifilmar, so síðurnar hóska til vaksin. Stórir formar halda litinum lætt uttan at gera tað babyligt."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er tað ókeypis, og skal eg melda meg til?",
+        "a": "Ja, tað er ókeypis, og eingin konta, tilmelding ella niðurtøka er. Tað virkar í kaganum á telefon, teldu ella teldu."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Samrøðukort",
+    "seoTitle": "Samrøðubyrjarar fyri demens: Myndakort",
+    "h1": "Samrøðukort",
+    "description": "Myndakort við blíðum samrøðubyrjarum til fólk, sum liva við demensi: eingin spurnarkapping, einki røtt svar. Brúka á skíggjanum ella prenta alt settið út.",
+    "short": "Myndakort við opnum, blíðum spurningum. Eingin spurnarkapping.",
+    "players": "2 fólk ella ein bólkur .",
+    "intro": "Hvørt kort parar eina kenda mynd við einum opnum boði um at tosa, sum \"Hvat er títt yndis slag av veðri?\" Tað eru eingi røtt svar og einki at minnast til. Vel eitt tema ella blanda tey øll.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Vel eitt tema, ella goym \"Øll kort\".",
+      "Lesið spurningin hart og hyggið saman at myndini.",
+      "Lurta, deil títt egna svar og lat røðuna reika.",
+      "Trýst á \"Næsta kort\", tá tú ert liðugur, ella ver við einum korti so leingi tú vilt.",
+      "Trýst á \"Prenta øll kort\" fyri at klippa eitt pappírssett út."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Svara spurninginum eisini sjálvur. Tað kennist sum ein samrøða, ikki ein samrøða.",
+      "Fylg søguni, ikki faktunum. Um smálutir broytast, er tað í lagi.",
+      "Um eitt kort nertir við okkurt harmiligt, so viðurkenn kensluna og far varliga til eitt annað kort."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Hví eru eingi \"Minnist tú...?\" spurningar?",
+        "a": "Spurningar, sum royna minnið, kunnu kennast sum ein roynd og elva til vanvirðing. Opið boð sum \"Sig mær frá...\" lat øll melda seg til, hvat tey minnast."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Kann eg prenta kortini?",
+        "a": "Ja. \"Prenta øll kort\" prentar alt settið í stórum skrifti, fleiri kort á síðuni, klár at klippa út."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er tað ókeypis, og skal eg melda meg til?",
+        "a": "Ja, tað er ókeypis, og eingin konta, tilmelding ella niðurtøka er. Tað virkar í kaganum á telefon, teldu ella teldu."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Myndapør",
+    "seoTitle": "Ger eitt samsvarandi spæl úr familjumyndum",
+    "h1": "Myndapør: Passa tínar egnu myndir",
+    "description": "Ger tínar egnu familjumyndir til eitt blítt samsvarandi spæl. Vel 2 til 6 myndir á tínari eind; tey verða verandi í tínum kaga og verða ongantíð løgd upp.",
+    "short": "Vel tínar egnu myndir og passa tær. Einki er lagt upp.",
+    "players": "2 fólk, lið um lið",
+    "intro": "Vel tvær til seks myndir úr telefonini, telduni ella telduni, og tær gerast eitt samsvarandi spæl við stórum, sjónligum myndum. Myndirnar eru bert vístar inni á hesi síðuni. Tey verða ikki løgd upp, goymd ella deilt, og tey hvørva, tá tú letur síðuna aftur.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Trýst á \"Vel myndir\" og vel tvær til seks myndir.",
+      "Hvør mynd kemur fram tvær ferðir. Trýst á eitt, og trýst síðani á parið.",
+      "Tosa um hvørja mynd, sum tú finnur hana.",
+      "Tá tú ert liðugur, skalt tú lata síðuna aftur ella trýsta á \"Rudda myndir\". Einki er goymt."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Vel tær myndir av gleðiligum, kendum lutum: einum kelidjóri, einum garði, einum yndisstaði, einum brúdleypsdegi.",
+      "Myndir av støðum og lutum kunnu vera lættari enn andlit, og tær sleppa undan nøkrum trýsti at nevna fólk.",
+      "Lat myndir av fólki, sum eru deyð, vera við, um tær kunnu hava knappliga sorg við sær, uttan so at tú veitst, at tær hava troyst."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Eru mínar myndir lagdar upp nakrastaðni?",
+        "a": "Nei, síðan lesur myndirnar, tú velur, beinleiðis í kaganum, og vísir tær á skerminum. Tey verða ikki send okkum ella nøkrum øðrum, og tey eru burtur, tá tú letur aftur ella endurnýggjar síðuna."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er tað ein tíðarætlan ella eitt stigatal?",
+        "a": "Nei.. Tað er eingin klokka, stigatal, flyta teljari ella tapa. Tú kanst steðga hvørja løtu, og at steðga á hálvari leið er ein fullkomiliga góður máti at klára seg uppá."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Kann eg goyma spælið til næstu ferð?",
+        "a": "Ikki í kaganum, eftir sniði, so einki privat er goymt. Ókeypis Golden Moments appin til iPhone og iPad kann goyma útvald myndaeintøk á tínari eind."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Myndabingo",
+    "seoTitle": "Myndabingo fyri eldri við demensi: Prentbart",
+    "h1": "Myndabingo fyri bólkar",
+    "description": "Ókeypis prentbart myndabingo til minnirøkt og eldri bólkar, við stórum on-screen ringjandi. Stórar myndir við orðum, 9 ella 16 fýrkantar, eingin lestur er neyðugur.",
+    "short": "Myndabingokort, sum kunnu prentast og stórskíggja til bólkar.",
+    "players": "Ein bólkur uppá 2 til 30",
+    "intro": "Klassiskt bingo við myndum í staðin fyri tølum, so ongum nýtist at lesa smáskriftir. Prenta eitt sett av serligum kortum, og brúka síðani ringjandi á skjánum til at vísa hvørja mynd stóra á sjónvarpi, farteldu ella teldu.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Vel 9 ella 16 fýrakantaðar á hvørjum korti og hvussu nógvir spælarar.",
+      "Trýst á \"Prenta kort\". Hvørt kort er ymiskt.",
+      "Opna tann, sum ringir, á einum stórum skermi. Trýst á \"Næsta mynd\" fyri at vísa hvørja mynd við navninum.",
+      "Spælarar dekka samsvarandi myndina á kortinum við einum mynti, knøtti ella markøri.",
+      "Øll sum fylla ein røð, ella alt kortið, fáa eitt hurrá. Tað eru ikki taparar í hesi útgávuni: halt áfram at spæla, til øll hava eina linju."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Brúka stór tokens sum dam ella fløskuhettur. Smáir knappar kunnu vera ringir at taka upp.",
+      "Nevn myndina og sig okkurt um hana: \"Ein seglbátur. Hvør hevur verið úti við báti?\"",
+      "Sit fólk, sum hava trupult við at síggja nærmast skerminum, og para hjálparfólk við spælarar, sum hava brúk fyri teimum.",
+      "Níggju fýrkantar er nóg mikið til flestu bólkar. Halt løtuna umleið 20 til 30 minuttir."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Hvussu koyri eg myndabingo á ansingarstovni?",
+        "a": "Prenta eitt kort fyri hvønn spælara, set tann, sum ringir, á størsta skermin, tú hevur, og ring myndir róliga, og nevn hvørja. Spæl til øll hava línu, so eingin sleppur uttanfyri."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Er tað ókeypis at prenta?",
+        "a": "Ja. Prenta so nógv kort út, sum tú hevur brúk fyri, so ofta tú vilt, til persónliga ella bólkabrúk."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Kunnu fólk spæla uttan at lesa?",
+        "a": "Ja. Hvør fýrkantur er ein stór mynd, við navninum undir fyri tey, sum dáma orð."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Rolig andadráttur",
+    "seoTitle": "Ein róligur andadráttarsteðgur fyri eldri og umsorganarfólk",
+    "h1": "Ein róligur andadráttarsteðgur",
+    "description": "Ein seinur, stillur andadráttarsteðgur at deila: ein blíður sirkul veksur og minkar í seks andadráttir. Tú byrjar tað, og tú kanst steðga nær sum helst.",
+    "short": "Ein seinur sirkul at anda saman við. Byrja og steðga, tá tú vilt.",
+    "players": "1 ella 2 fólk",
+    "intro": "Onkuntíð er besta virksemið ein stillur steðgur. Trýst á \"Byrja\", anda síðani inn, meðan sirkulin veksur og út, meðan hann minkar. Vel eitt hægri ella skjótari tempo. Tað er ikki ein viðgerð, bara ein friðarlig løta at deila.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Sit væl lið um lið.",
+      "Vel eitt tempo: seint ella blítt.",
+      "Trýst á \"Byrja\". Anda inn, meðan sirkulin veksur, og út, meðan hann minkar.",
+      "Tað steðgar av sær sjálvum eftir seks andadráttir, ella trýst á \"Stop\" tá tú vilt."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Halt í hondini ella hvíl eina hond á armin á viðkomandi, um tað er kærkomið.",
+      "Halt ongantíð fast. Um tey heldur vilja hyggja, so er tað í lagi.",
+      "Um onkur hevur andadráttartrupulleikar, so anda vanliga og hygg bara eftir sirklinum. Spyr ein lækna um andadráttartrupulleikar."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Er hetta ein medisinsk andadráttarvenjing?",
+        "a": "Nei, tað er ein einfaldur, valfríur steðgur til ró og felagsskap. Tað er ikki ein viðgerð fyri angist ella nakra sjúku. Tosa við ein lækna um heilsuviðurskifti."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Flytur sirkulin seg uttan at eg byrji hann?",
+        "a": "Nei, einki flytur seg, fyrr enn tú trýstir á Start, og tað steðgar eftir seks andadráttum ella tá tú trýstir á Stop. Um tólið er sett til at minka um rørsluna, broytast orðini uttan at sirkulin veksur."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er tað ókeypis, og skal eg melda meg til?",
+        "a": "Ja, tað er ókeypis, og eingin konta, tilmelding ella niðurtøka er. Tað virkar í kaganum á telefon, teldu ella teldu."
       }
     ]
   }

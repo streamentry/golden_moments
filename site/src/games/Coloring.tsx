@@ -120,7 +120,14 @@ export default function Coloring(props: PlayProps) {
                 {ui.coloring.restart}
               </button>
             ) : null}
-            <button type="button" className={isCompleted ? 'btn' : 'btn btn--primary'} onClick={() => window.print()}>
+            <button
+              type="button"
+              className={isCompleted ? 'btn' : 'btn btn--primary'}
+              onClick={() => {
+                sounds.tap();
+                window.print();
+              }}
+            >
               <Icon name="print" />
               {ui.coloring.print}
             </button>

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Ja fila-fila",
+    "seoTitle": "Tulon min bɛ bɛn hakiliɲagami ma: Ja fila-fila",
+    "h1": "Ja fila-fila: tulon min bɛ bɛn ɲɔgɔn ma ni dususuma ye",
+    "description": "Tulon min bɛ kɛ fu, min bɛ kɛ ni dususuma ye, min bɛ kɛ ni hakiliɲagami bana ye.",
+    "short": "Ja fila minnu ye kelen ye, olu ɲini. Jaw bɛ se ka to ka jira.",
+    "players": "Mɔgɔ 1 walima mɔgɔ 2, kɛrɛfɛ",
+    "intro": "Ja dɔ digi, o kɔ, ja min bɛ bɛn o ma, i bolo digi. Jaw bɛ to ka jira u yɛrɛ la, o la, foyi man kan ka to an hakili la. Ni ja fila bɛ taa ɲɔgɔn fɛ u bɛ sanu dancɛ ni taamasiyɛn sɔrɔ.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Aw bɛ baara kɛ ni tile hakɛ min ye, aw bɛ o sugandi. Tile naani ye yɔrɔ ye min lafiyalen don ka daminɛ.",
+      "Ja o ja digi. A bɛ sanu dancɛ sɔrɔ.",
+      "Ja min cogoya ye kelen ye, o digi. O fila bɛ to ɲɔgɔn fɛ ni taamasiyɛn ye.",
+      "Ni ja fila ninnu tɛ kelen ye, foyi jugu tɛ kɛ. Aw bɛ segin ka digi tuma o tuma ni aw labɛnnen don.",
+      "\"Ja dogolenw\" daminɛ dɔrɔn ni aw fila bɛɛ bɛ klasiki ɲɛda-yɔrɔ-ko diyabɔ."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Aw ye ja ninnu tɔgɔ fɔ ni kanba ye ɲɔgɔn fɛ ani ka baro kɛ u kan: \"Te tasa bilenman. Yala aw bɛ nɔnɔ ta aw ka te kɔnɔ wa?\"",
+      "Aw bɛ aw janto mɔgɔ min na, aw k’o to a ka tapɛri kɛ, hali ni a bɛ waati dɔ ta. I bolo sin sanni i ka i bolo digi u kan.",
+      "Aw bɛ to ni tile naani ye fo a ka di. Tile caman ye sugandili ye, abada nivo ye ka se.",
+      "Aw bɛ a ban k’a sɔrɔ a bɛ diya hali bi. Tulon kelen ye baara dafalen ye."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Yala waati jatebɔlan walima jatebɔ bɛ yen wa?",
+        "a": "Ayi, wagati, jate, jiginni jatebɔ walima bɔnɛ tɛ yen. I bɛ se ka jɔ waati o waati, wa ka jɔ sira tilancɛ la, o ye fɛɛrɛ ɲuman dafalen ye ka ban."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Mun na jaw bɛ to u ɲɛda kɔrɔtalen na?",
+        "a": "Ni jaw bɛ ye, o bɛ tulon tigɛli kɛ ka kɛ filɛli ye ani ka bɛn ɲɔgɔn ma sanni ka kɛ hakilijagabɔ ye. Mɔgɔ caman b’a ye ko o bɛ mɔgɔ hakili sigi. I bɛ se ka wuli ka taa ja dogolenw kan i bolo digi kelen kan n’i b’a fɛ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yala a tɛ sara wa, ani yala ne ka kan ka n tɔgɔ sɛbɛn wa?",
+        "a": "Ɔwɔ, a tɛ sara, wa jatebɔsɛbɛn, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. A bɛ baara kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Yala an bɛ se ka baara kɛ ni an yɛrɛ ka denbaya ka fotow ye wa?",
+        "a": "Awɔ. Foto fila-fila lajɛ, o b’a to i bɛ fotow sugandi i ka minɛn kɔnɔ. Jaw bɛ to i ka navigatɔrɔ kɔnɔ, wa u tɛ bila."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Aw ye o ɲɔgɔn ɲini",
+    "seoTitle": "Aw ye o ja kelen in ɲini: Hakiliɲagami tulonkɛ nɔgɔman",
+    "h1": "Ja kelen in ɲini",
+    "description": "Ja kelen bɛ sanfɛ, fila fo naani bɛ duguma. Min ye kelen ye, o digi. Ja tulon min bɛ kɛ ni hakilisigi ye, min tɛ sara, hakiliɲagami bana bɛ mɔgɔ minnu na, waati.",
+    "short": "Aw ye ja lajɛ min bɛ sanfɛ ani ka o ja kelen digi duguma.",
+    "players": "Mɔgɔ 1 walima mɔgɔ 2",
+    "intro": "Ja kelen bɛ sigi ɛkran sanfɛ. A duguma, ja fila, saba walima naani bɛ yen. Min ye kelen ye, o digi. O ye sugandili nɔgɔman kelen ye a waati kelen na, yɔrɔ caman bɛ yen ka kuma.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Ja fila, saba walima naani sugandi walasa ka u ta. Filanan de ka nɔgɔn ka tɛmɛ tɔw bɛɛ kan.",
+      "Aw ye ja min bɛ sanfɛ, aw ka o lajɛ ɲɔgɔn fɛ.",
+      "I ka ja kelen digi jukɔrɔ. A taamasiyɛn bɛ kɛ ni sɛki ye ani kuma duman damadɔw.",
+      "Ni ja wɛrɛ digilen don, tulon bɛ o tɔgɔ da dɔrɔn ka kɔnɔni kɛ. I ka waati ta.",
+      "\"Ja nata\" digi ni i labɛnnen don dɔ wɛrɛ kama."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Aw bɛ kuma ja kelen-kelen bɛɛ kan sani aw ka a sugandi: kulɛriw, cogoyaw, aw bɛ se k’a ye yɔrɔ min na.",
+      "Sugandili fila tɛ \"nɔgɔya kojugu\". Laɲini ye waati duman ye, a tɛ gɛlɛya ye.",
+      "Ni gosi ka gɛlɛn, a tigi bɛ se ka a bolo sin ani i bɛ se ka digi a ye."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Yala waati jatebɔlan walima jatebɔ bɛ yen wa?",
+        "a": "Ayi, wagati, jate, jiginni jatebɔ walima bɔnɛ tɛ yen. I bɛ se ka jɔ waati o waati, wa ka jɔ sira tilancɛ la, o ye fɛɛrɛ ɲuman dafalen ye ka ban."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Mun bɛ kɛ ni ja jugu digilen don?",
+        "a": "Foyi tɛ yen min man di. Buzi, kuru bilenman walima yɛrɛyɛrɛ tɛ yen. Tulon in bɛ ja min digi, o tɔgɔ fɔ, ka digi nata makɔnɔ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yala a tɛ sara wa, ani yala ne ka kan ka n tɔgɔ sɛbɛn wa?",
+        "a": "Ɔwɔ, a tɛ sara, wa jatebɔsɛbɛn, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. A bɛ baara kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Ombre match (ombre match) ye",
+    "seoTitle": "Shadow Matching Game for Dementia: Intɛrinɛti kan fu",
+    "h1": "Shadow Match: Ja tulon min bɛ kɛ ni dususuma ye",
+    "description": "Dugukolonɔn dibiman dɔ bɛ sanfɛ, ja fila fo naani bɛ duguma. Ja min bɛ dulonni kɛ, o digi.",
+    "short": "Aw bɛ dulonni lajɛ ani ka ja digi min b’a dilan.",
+    "players": "Mɔgɔ 1 walima mɔgɔ 2",
+    "intro": "Dugukolo-yɔrɔ-ko ye baara ye min bɛ Dɔn ka Bɔ baarakɛ-sɛbɛn sɛbɛnnenw na, yan, ja belebelebaw bɛ yen wa foyi tɛ yen ka sɛbɛn. Dugukolonɔn nɔgɔlen dɔ sigilen bɛ ɛkran sanfɛ ani ja fila, saba walima naani bɛ makɔnɔni kɛ duguma. Min bɛ dulonni kɛ, i ka o digi. Siginiden minnu bɛ i n’a fɔ nɛgɛso, parasol walima te tasa, olu fana kuma ka nɔgɔn.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Ja fila, saba walima naani sugandi walasa ka u ta. Filanan de ka nɔgɔn ka tɛmɛ tɔw bɛɛ kan.",
+      "Aw ye dulonni lajɛ ɲɔgɔn fɛ. A cogoya ye mun ye? Yala a ka jan wa walima a ka bulama wa?",
+      "Ja min bɛ dulonni kɛ, o digi. A tɔgɔ bɛ Sɔrɔ o dulonnen 'kɔnɔ.",
+      "Ni ja wɛrɛ digilen don, tulon bɛ o tɔgɔ da dɔrɔn ka kɔnɔni kɛ. I ka waati ta.",
+      "\"Next shadow\" digi ni i labɛnnen don dɔ wɛrɛ kama."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Aw bɛ dulonni cogoya lajɛ ni bolokɔni ye ani ka kuma a cogoya kan.",
+      "Ni biɲɛw bɛ gɛlɛya bi, aw bɛ wuli ka taa o kelen ɲini, jaw bɛ i n’a fɔ yɔrɔ min na.",
+      "Kuma ja in kan ni a sɔrɔla dɔrɔn: \"An tun bɛ ni parasol ye o cogo la.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Yala waati jatebɔlan walima jatebɔ bɛ yen wa?",
+        "a": "Ayi, wagati, jate, jiginni jatebɔ walima bɔnɛ tɛ yen. I bɛ se ka jɔ waati o waati, wa ka jɔ sira tilancɛ la, o ye fɛɛrɛ ɲuman dafalen ye ka ban."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Yala dulonni bɛnkan ka ɲi hakiliɲagami bɛ mɔgɔ minnu na wa?",
+        "a": "A bɛ se ka kɛ baara nɔgɔn ye min ka di mɔgɔ dɔw ye, kɛrɛnkɛrɛnnenya la a daminɛ na. Siginidenw dɔnni ka nɔgɔn ka tɛmɛ daɲɛw kan. A bɛ kɛ ɲɛnajɛ ni baro kama, a tɛ kɛ kɔrɔbɔli ye, wa a tɛ hakiliɲagami furakɛ walima ka a sumaya. Ni o bɛ mɔgɔ dusu tiɲɛ, aw bɛ a ɲini ka fɛn kelen ɲini walima ka jaw lajɛ ɲɔgɔn fɛ dɔrɔn."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Mun bɛ kɛ ni ja jugu digilen don?",
+        "a": "Foyi tɛ yen min man di. Buzi, kuru bilenman walima yɛrɛyɛrɛ tɛ yen. Tulon in bɛ ja min digi, o tɔgɔ fɔ, ka digi nata makɔnɔ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yala a tɛ sara wa, ani yala ne ka kan ka n tɔgɔ sɛbɛn wa?",
+        "a": "Ɔwɔ, a tɛ sara, wa jatebɔsɛbɛn, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. A bɛ baara kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Aw bɛ u labɛn ɲɔgɔn fɛ",
+    "seoTitle": "Tulon min bɛ kɛ ka hakiliɲagami banaw labɛn: Sort Together",
+    "h1": "Sort Together: Jaw labɛncogo baara dɔ",
+    "description": "Aw bɛ ja dɔ digi, o kɔ aw bɛ segi min kɔnɔ, aw bɛ o digi: dumunikɛyɔrɔ walima nakɔ, jiridenw walima baganw.",
+    "short": "Aw bɛ ja kelen-kelen bɛɛ bila a ka sigilan kɔnɔ: dumunikɛyɔrɔ walima nakɔ, ani fɛn wɛrɛw.",
+    "players": "Mɔgɔ 1 walima mɔgɔ 2",
+    "intro": "Sortiw ye don o don baara ye min bɛ dɔn, min bɛ mɔgɔ wasa, i n’a fɔ ka dumunifɛnw bila yɔrɔ la walima ka sosɛtiw fara ɲɔgɔn kan. Ja dɔ digi, o kɔ, i ka segi digi a ka kan yɔrɔ min na. Kɔrɔtɔko tɛ yen ani jiginni jugu tɛ yen.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Barokun dɔ sugandi: dumunikɛyɔrɔ ni nakɔ, jiridenw ni baganw, walima so ni taama.",
+      "Ja dɔ digi. A bɛ sanu dancɛ sɔrɔ.",
+      "A bɛ segi min kɔnɔ, i ka o digi, ja bɛ taa o segi kɔnɔ.",
+      "N'a ye basigi tɔ kelen ta ye, tulon b'o fɔ ni dususuma ye ka kɔnɔni kɛ.",
+      "Ni ja kelen-kelen bɛɛ labɛnna, aw bɛ segiw lajɛ ɲɔgɔn fɛ."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Tuma caman na, jaabi jugu si tɛ yen ɲɛnamaya yɛrɛ kɔnɔ. Ni mɔgɔ dɔ ko jibɔlan dɔ ye dumunikɛyɔrɔ ta ye, aw bɛ ɲininkali kɛ mun na. I bɛ se ka maana ɲuman sɔrɔ.",
+      "Baara kɛ ni jaw ye i n’a fɔ dusudon: “I ye mun sɛnɛ i ka nakɔ kɔnɔ?”",
+      "Fɛn lakikaw tilatilali, i n’a fɔ kuyɛriw ni foroko walima butɔni ka kɛɲɛ ni u kulɛri ye, o ye tugu-tugu-ɲɔgɔn kɔba ye ka bɔ ɛkran na."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Yala waati jatebɔlan walima jatebɔ bɛ yen wa?",
+        "a": "Ayi, wagati, jate, jiginni jatebɔ walima bɔnɛ tɛ yen. I bɛ se ka jɔ waati o waati, wa ka jɔ sira tilancɛ la, o ye fɛɛrɛ ɲuman dafalen ye ka ban."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Mun na ka fɛnw tila-tila?",
+        "a": "A ka di mɔgɔ caman ye ka fɛnw sɛgɛsɛgɛ bawo a bɛ kɛ i n’a fɔ baara nafama, min bɛ dɔn. A ka nɔgɔn fana ka kuma jaw kan n’i bɛ taa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yala a tɛ sara wa, ani yala ne ka kan ka n tɔgɔ sɛbɛn wa?",
+        "a": "Ɔwɔ, a tɛ sara, wa jatebɔsɛbɛn, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. A bɛ baara kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Jaa puzzle",
+    "seoTitle": "Jigsaw Puzzle nɔgɔn ka ɲɛsin hakiliɲagami ma: 4 walima 9 Pieces",
+    "h1": "Jaa Puzzle: Jigsaw Nɔgɔlen dɔ",
+    "description": "Intɛrinɛti kan jigsaw nɔgɔman dɔ ye hakiliɲagamibana bɛ mɔgɔ minnu na: fɛn belebele 4 walima 9, ja bɛɛ bɛ to ka ye, i bɛ fɛn fila digi walasa k’u ɲɔgɔn falen.",
+    "short": "Aw bɛ yɔrɔ fila digi walasa k’u ɲɔgɔn falen-falen fo ja ka dafa.",
+    "players": "Mɔgɔ 1 walima mɔgɔ 2",
+    "intro": "Teriya ja bɛ tigɛ ka kɛ fɛnba naani walima kɔnɔntɔn ye ka ɲagami ɲɔgɔn na. Ja bɛɛ bɛ to ka ye i n’a fɔ ɲɛjiralan. I ka yɔrɔ kelen digi, o kɔ, i ka dɔ wɛrɛ digi, u bɛ yɔrɔw ɲɔgɔn falen-falen. Jagokɛcogo si man kan ka kɛ.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Ja dɔ sugandi ani yɔrɔ 4 walima 9. Naani ye daminɛ ye min bɛ kɛ ni dususuma ye.",
+      "Aw ye ja bɛɛ lajɛ min bɛ sanfɛ.",
+      "Aw bɛ yɔrɔ dɔ digi, o kɔ a ka kan ka taa yɔrɔ min na, aw bɛ o yɔrɔ digi. O yɔrɔ fila bɛ ɲɔgɔn falen-falen.",
+      "Fɛn minnu bɛ yɔrɔ bɛnnen na, olu bɛ taamasiyɛn fitinin dɔ sɔrɔ.",
+      "Ni ja dafalen don, aw k’a diyabɔ ɲɔgɔn fɛ, o kɔ aw ka dɔ wɛrɛ sugandi."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Ka fɛn fila digi walasa k’u ɲɔgɔn falen-falen, o ka nɔgɔn kosɛbɛ ka tɛmɛ u samali kan mɔgɔ caman bolo.",
+      "Kuma ja in kan a bɛ na ɲɔgɔn fɛ cogo min na: \"So bilenman bɛ yen.\"",
+      "Jigiyɔrɔ lakika min bɛ ni fɛnba 12 fo 24 ye, o ye tabali baara kanulen ye fana."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Yala waati jatebɔlan walima jatebɔ bɛ yen wa?",
+        "a": "Ayi, wagati, jate, jiginni jatebɔ walima bɔnɛ tɛ yen. I bɛ se ka jɔ waati o waati, wa ka jɔ sira tilancɛ la, o ye fɛɛrɛ ɲuman dafalen ye ka ban."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Yala ne ka kan ka o yɔrɔw sama wa?",
+        "a": "Ayi, i ka yɔrɔ kelen digi, o kɔ, i ka dɔ wɛrɛ digi, u bɛ yɔrɔw ɲɔgɔn falen-falen. O ka nɔgɔn ni bolo bɛ yɛrɛyɛrɛ walima ni ɛkran fitinin ye."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yala a tɛ sara wa, ani yala ne ka kan ka n tɔgɔ sɛbɛn wa?",
+        "a": "Ɔwɔ, a tɛ sara, wa jatebɔsɛbɛn, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. A bɛ baara kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Kuma in ban",
+    "seoTitle": "Kuma in ban: Ntalenw tulonkɛ mɔgɔkɔrɔbaw ye",
+    "h1": "Kuma in ban",
+    "description": "Ameriki ka kuma dɔnnenw ni daɲɛ laban tɛ yen, i n'a fɔ \"A penny saved is a penny ___\". Sugandili dɔ digi walima k’a laban jira, o kɔ, kuma o kan.",
+    "short": "Aw ye kuma dɔntaw dafa ɲɔgɔn fɛ, o kɔ, aw ka kuma u kan.",
+    "players": "1, 2 walima kulu dɔ",
+    "intro": "Tuma caman na, kuma kɔrɔw bɛ dɔn kosɛbɛ u ka ɲɛnamaya bɛɛ kɔnɔ. Karti kelen-kelen bɛɛ bɛ kumasen dɔ jira min bɛ dɔn ni daɲɛ laban tɛ yen, sugandili saba, ani butɔni \"A laban jira\". A laban kɔfɛ, ɲininkali dususumanin dɔ bɛ baro wele.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Kuma in kalan ɲɔgɔn fɛ ni kanba ye.",
+      "Daɲɛ min b'a ban, o digi, walima \"A laban jira\" digi.",
+      "Kuma bɛɛ kalan kokura ani ka kuma a kan ni ɲininkali ye.",
+      "\"Next saying\" digi ni i labɛnnen don."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Aw ye kalan kɛ dɔɔni dɔɔni ani ka lafiɲɛ dɔ to yen ka kɔn daɲɛ laban ɲɛ. Tuma caman na, mɔgɔw b’o fɔ sani i ka ban.",
+      "Ni mɔgɔ dɔ ye laban wɛrɛ di, o diyabɔ. Kumasen dɔw bɛ danfara ka kɛɲɛ ni denbaya walima mara ye.",
+      "Jɛkulu kɔnɔ, mɔgɔ kelen bɛ kalan kɛ, bɛɛ bɛ fara a kan laban na."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Yala waati jatebɔlan walima jatebɔ bɛ yen wa?",
+        "a": "Ayi, wagati, jate, jiginni jatebɔ walima bɔnɛ tɛ yen. I bɛ se ka jɔ waati o waati, wa ka jɔ sira tilancɛ la, o ye fɛɛrɛ ɲuman dafalen ye ka ban."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "N’an ye daɲɛ wɛrɛ sugandi do?",
+        "a": "Tulon bɛ labanko jira min bɛ kɛ tuma bɛɛ, ka taa baro la. Jate tɛ yen, wa jaabi wɛrɛ ka ɲi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yala a tɛ sara wa, ani yala ne ka kan ka n tɔgɔ sɛbɛn wa?",
+        "a": "Ɔwɔ, a tɛ sara, wa jatebɔsɛbɛn, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. A bɛ baara kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Daɲɛw ɲinini sɛbɛn belebelebaw",
+    "seoTitle": "Daɲɛba min bɛ sɛbɛnni kɛ ka ɲɛsin hakiliɲagami bana ma, min bɛ se ka sɛbɛn",
+    "h1": "Daɲɛw ɲinini ni sɛbɛnni belebelew ye",
+    "description": "Daɲɛw ɲinini fu min bɛ kɛ ni sɛbɛnba ye, mɔgɔkɔrɔbaw ni hakiliɲagami bana bɛ mɔgɔ minnu na. Daɲɛ damadɔw, sɛbɛnnibolobaw, daɲɛw tɛmɛnen ni duguma dɔrɔn.",
+    "short": "Sɛbɛndenninbaw, daɲɛ damadɔw, tɛmɛsira ni duguma dɔrɔn. A fana sɛbɛn.",
+    "players": "Mɔgɔ 1 walima mɔgɔ 2",
+    "intro": "Jatebla fitinin min kɔnɔ, sɛbɛnnibolo belebelebaw bɛ yen ani daɲɛ damadɔ dɔrɔn, u bɛɛ bɛ kalan kɛ ka tɛmɛn walima ka jigin. Daɲɛ dɔ sɛbɛri fɔlɔ digi, o kɔ, a sɛbɛ laban digi. Aw bɛ papier de fɛ wa? Aw bɛ puzzle kura dɔ sɛbɛn pompi kelen kɔnɔ.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Barokun dɔ ni jatebɔlan hakɛ dɔ sugandi.",
+      "Daɲɛw lisɛli lajɛ. Daɲɛ minnu bɛ kalan ka tɛmɛ (numan fɛ ka taa kinin fɛ) walima duguma (sanfɛ ka taa duguma).",
+      "Daɲɛ dɔ sɛbɛri fɔlɔ digi, o kɔ, a sɛbɛ laban digi.",
+      "Daɲɛ sɔrɔlen dɔ bɛ jira ani ka tigɛ ka bɔ lisi kan.",
+      "\"Print this puzzle\" digi walasa ka tulon kɛ papiye kan ni kretiɛn walima taamasiyɛn ye."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Daɲɛ dɔ jira lisi kɔnɔ ani k’a sɛbɛn fɔlɔ ɲini ɲɔgɔn fɛ.",
+      "Paper kan, highlighter minɛni ka nɔgɔn ka tɛmɛ pencil kan.",
+      "Kuma barokun daɲɛw kan. Jiridenw daɲɛw ye fɛɛrɛ ye min bɛ don mɔgɔ hakili la ka ɲɛsin jiri tigɛcogo, buru dilanni walima suguw ma."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Yala waati jatebɔlan walima jatebɔ bɛ yen wa?",
+        "a": "Ayi, wagati, jate, jiginni jatebɔ walima bɔnɛ tɛ yen. I bɛ se ka jɔ waati o waati, wa ka jɔ sira tilancɛ la, o ye fɛɛrɛ ɲuman dafalen ye ka ban."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Yala ne bɛ se ka daɲɛ ɲinini sɛbɛn wa?",
+        "a": "Awɔ. \"Print this puzzle\" digi walasa ka sisan jatebɔ sɛbɛn bɔ ni sɛbɛnba ye, ni daɲɛw lisɛli bɛ a jukɔrɔ. Puzzle kura bɛɛ tɛ kelen ye."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yala a tɛ sara wa, ani yala ne ka kan ka n tɔgɔ sɛbɛn wa?",
+        "a": "Ɔwɔ, a tɛ sara, wa jatebɔsɛbɛn, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. A bɛ baara kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Kulɛri ɲɛw",
+    "seoTitle": "Kulɛri ɲɛw balikuw ye minnu bɛ ni hakiliɲagami ye (Free) .",
+    "h1": "Kulɛri ɲɛw",
+    "description": "Kulɛri ɲɛ nɔgɔmanw, balikuw, yɔrɔbaw bɛ minnu na: kulɛri dɔ digi, o kɔ ja digi. Fɛnɲɛnɛma si tɛ yen, kulɛri juguw tɛ yen, wa ɲɛ kelen-kelen bɛɛ bɛ se ka sɛbɛn fu.",
+    "short": "Kulɛri dɔ digi, o kɔ ja yɔrɔ dɔ digi. Aw bɛ ɲɛw sɛbɛn fana.",
+    "players": "Mɔgɔ 1 walima mɔgɔ 2",
+    "intro": "Ɲɛ minnu cogoya ka bon, minnu ka nɔgɔn: flen min bɛ daga kɔnɔ, so, te tasa, wuluwulu ani kurunba. Kulɛri dɔ digi, o kɔ, ja yɔrɔ dɔ digi walisa k’a fa. Kulɛri juguw tɛ yen.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Ɲɛ dɔ sugandi.",
+      "Kulɛri dɔ digi. Kulɛri kelen-kelen bɛɛ tɔgɔ sɛbɛnnen bɛ a kan.",
+      "Ja yɔrɔ dɔ digi walisa k’a fa ni o kulɛri ye.",
+      "Aw bɛ aw hakilina Changer waati o waati, aw kɛtɔ k’a fa kokura.",
+      "\"Print this page\" digi walasa ka ɲɛ lankolon dɔ sɔrɔ walasa ka kulɛri kɛ ni kretiɛnw walima taamasiyɛnw ye."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Aw bɛ kulɛri fila di aw ma walasa aw ka se ka minnu sugandi sanni ka seti bɛɛ di ni sugandili bɛ kɛ i n’a fɔ a ka ca kojugu.",
+      "Jiri bulamaw ni tile buluw bɛ sɔn. Nin ye kulɛri diyabɔli ye, a tɛ kɛ ni tiɲɛni ye.",
+      "Ɲɛ sɛbɛnnenw bɛ baara kɛ ka ɲɛ ni taamasiyɛn gɛlɛnw walima kreyonw ye, minnu minɛni ka nɔgɔn."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Yala waati jatebɔlan walima jatebɔ bɛ yen wa?",
+        "a": "Ayi, wagati, jate, jiginni jatebɔ walima bɔnɛ tɛ yen. I bɛ se ka jɔ waati o waati, wa ka jɔ sira tilancɛ la, o ye fɛɛrɛ ɲuman dafalen ye ka ban."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Yala o ɲɛw ye denmisɛnninw ta ye kojugu wa?",
+        "a": "An ye fɛn nɔgɔmanw ja minnu lafiyalen don, sanni ka dessin animéw ja, o la sa, o ɲɛw bɛ bɛn balikuw ma. Siginiden belebelebaw bɛ to ka kulɛri nɔgɔya k’a sɔrɔ u ma a kɛ denmisɛnnin ye."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yala a tɛ sara wa, ani yala ne ka kan ka n tɔgɔ sɛbɛn wa?",
+        "a": "Ɔwɔ, a tɛ sara, wa jatebɔsɛbɛn, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. A bɛ baara kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Baro kartiw",
+    "seoTitle": "Baro daminɛcogo hakiliɲagami bana na: Ja kartiw",
+    "h1": "Baro kartiw",
+    "description": "Ja karti minnu bɛ baro daminɛ ni dususuma ye, hakiliɲagami bana bɛ mɔgɔ minnu na: ɲininkali tɛ kɛ, jaabi ɲumanw tɛ. Baara kɛ ni ekran kan walima ka seti dafalen sɛbɛn.",
+    "short": "Ja karti minnu bɛ ni ɲininkali dafalenw ye minnu bɛ kɛ ni dususuma ye. Quizzing (ɲininkali) tɛ kɛ.",
+    "players": "mɔgɔ 2 walima kulu dɔ",
+    "intro": "Karti kelen-kelen bɛɛ bɛ ja dɔnta dɔ fara ɲɔgɔn kan ni welesɛbɛn dabɔlen ye ka baro kɛ, i n’a fɔ “I ka waati sugu jumɛn ka di i ye kosɛbɛ?” Jaabi ɲumanw tɛ yen ani foyi tɛ yen min ka kan ka to an hakili la. Barokun dɔ sugandi walima k’u bɛɛ ɲagami ɲɔgɔn na.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Barokun dɔ sugandi, walima ka \"Kartiw bɛɛ\" mara.",
+      "Ɲininkali kalan ni kanba ye ani ka ja lajɛ ɲɔgɔn fɛ.",
+      "Aw ka lamɛnni kɛ, ka aw yɛrɛ ka jaabi fɔ, ka jɛmu bila ka yaala.",
+      "\"Karti nata\" digi ni i labɛnnen don, walima i ka to ni karti kelen ye i sago la.",
+      "\"Print all cards\" digi walasa ka papiye dɔ tigɛ."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "I yɛrɛ fana ka ɲininkali jaabi. A bɛ kɛ i n’a fɔ baro, a tɛ kɛ i n’a fɔ ɲininkali.",
+      "I ka tugu maana kɔ, i kana tugu tiɲɛw kɔ. Ni kunnafoni fitininw Changé, o tɛ baasi ye.",
+      "Ni karti dɔ magara dusukasifɛn dɔ la, sɔn o dusukunnata ma, ka taa karti wɛrɛ la nɔgɔya la."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Mun na \"I hakili bɛ...\" tɛ yen? ɲininkaliw?",
+        "a": "Ɲininkali minnu bɛ hakilijagabɔ kɔrɔbɔ, olu bɛ se ka kɛ i n’a fɔ sɛgɛsɛgɛli ani ka maloya bila mɔgɔ la. Weelekan dabɔlenw i n'a fɔ \"Tell me about...\" mɔgɔ o mɔgɔ ka fara a kan, u hakili bɛ fɛn o fɛn na."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Yala ne bɛ se ka kartiw sɛbɛn wa?",
+        "a": "Awɔ. \"Print all cards\" bɛ seti dafalen sɛbɛn ni suguya belebele ye, karti caman ɲɛ kelen na, minnu labɛnnen don ka tigɛ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yala a tɛ sara wa, ani yala ne ka kan ka n tɔgɔ sɛbɛn wa?",
+        "a": "Ɔwɔ, a tɛ sara, wa jatebɔsɛbɛn, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. A bɛ baara kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Foto fila-fila",
+    "seoTitle": "Tulonkɛ min bɛ bɛn ɲɔgɔn ma, o kɛ ka bɔ denbaya ka fotow la",
+    "h1": "Foto fila-fila: Aw ye aw yɛrɛ ka fotow bɛn ɲɔgɔn ma",
+    "description": "Aw ye aw yɛrɛ ka denbaya ka fotow tigɛli kɛ tulon ye min bɛ bɛn ɲɔgɔn ma ni dususuma ye.",
+    "short": "Aw ye aw yɛrɛ ka fotow sugandi ani ka bɛn u ma. Foyi tɛ Blà 'yɔrɔ la.",
+    "players": "mɔgɔ 2, kɛrɛfɛ",
+    "intro": "I ka foto fila fo wɔɔrɔ sugandi i ka telefɔni, tablɛti walima ɔridinatɛri kɔnɔ, o bɛ kɛ tulonkɛ ye min bɛ bɛn ɲɔgɔn ma ni ja belebelebaw ye minnu bɛ ye. Jaw bɛ jira nin ɲɛ in kɔnɔ dɔrɔn. U tɛ bila, u tɛ mara walima u tɛ tila, wa u bɛ tunun n’i ye ɲɛ datugu.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"Fotow sugandi\" digi ani ka foto fila fo wɔɔrɔ ta.",
+      "Foto kelen-kelen bɛɛ bɛ bɔ siɲɛ fila. I ka kelen digi, o kɔ i ka a fila digi.",
+      "Kuma foto kelen-kelen bɛɛ kan i n’a fɔ i b’a sɔrɔ cogo min na.",
+      "Ni aw ye o kɛ ka ban, aw bɛ ɲɛ datugu walima ka \"Clear photos\" digi. Foyi tɛ mara."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Aw bɛ foto jɛlenw sugandi minnu bɛ nisɔndiya, fɛn dɔntaw kan: sokɔnɔbagan, nakɔ, yɔrɔ min ka di i ye, kɔɲɔ don.",
+      "Yɔrɔw ni fɛnw jaw bɛ se ka nɔgɔya ka tɛmɛ ɲɛda kan, wa u bɛ u yɛrɛ tanga degun si ma walasa ka mɔgɔw tɔgɔ fɔ.",
+      "Mɔgɔ minnu sara, aw ka fotow to yen ni u bɛ se ka na ni dusukasi barikama ye, fo n’aw b’a dɔn ko u bɛ na ni dususalo ye."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Yala ne ka fotow bɛ bila yɔrɔ dɔ la wa?",
+        "a": "Ayi, i ye foto minnu sugandi, o ɲɛ bɛ olu kalan i ka navigatɔrɔ kɔnɔ k’u jira i ka ɛkran kan. U tɛ ci an ma walima mɔgɔ wɛrɛ ma, wa u tɛ ban n’i ye ɲɛ da tugu walima n’i y’a don kokura."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Yala waati jatebɔlan walima jatebɔ bɛ yen wa?",
+        "a": "Ayi, wagati, jate, jiginni jatebɔ walima bɔnɛ tɛ yen. I bɛ se ka jɔ waati o waati, wa ka jɔ sira tilancɛ la, o ye fɛɛrɛ ɲuman dafalen ye ka ban."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Yala ne bɛ se ka tulon in mara siɲɛ wɛrɛ kama wa?",
+        "a": "A tɛ navigatɛri kɔnɔ, a dabɔcogo fɛ, o la, foyi kɛrɛnkɛrɛnnen tɛ mara. Golden Moments porogaramu min bɛ kɛ fu iPhone ni iPad kama, o bɛ se ka foto kopi sugandilenw mara i ka minɛn kɔnɔ."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Ja bingo",
+    "seoTitle": "Ja Bingo min bɛ kɛ mɔgɔkɔrɔbaw ye minnu bɛ ni hakiliɲagami ye: A bɛ se ka sɛbɛn",
+    "h1": "Ja Bingo ka ɲɛsin Jɛkuluw ma",
+    "description": "Ja bingo min bɛ se ka sɛbɛn fu, hakilijagabɔ ladonni ni mɔgɔkɔrɔbaw ka kuluw kama, ni welebagaba ye min bɛ sɔrɔ ɛkran kan.",
+    "short": "Ja bingo karti minnu bɛ se ka sɛbɛn ani welelikɛlan min bɛ ɛkranba kan kuluw kama.",
+    "players": "Jɛkulu min bɛ mɔgɔ 2 fo 30 la",
+    "intro": "Bingo klasiki ni jaw ye jatedenw nɔ na, ​​o la mɔgɔ si mago t’a la ka sɛbɛnni misɛnninw kalan. Karti kɛrɛnkɛrɛnnenw kulu dɔ sɛbɛn, o kɔ, baara kɛ ni welelikɛlan ye min bɛ ɛkran kan walasa ka ja kelen-kelen bɛɛ jira telewisɔn, ɔridinatɛri walima tablɛti kan.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Kɛrɛnkɛrɛnnenya la, 9 walima 16 sugandi karti kelen kɔnɔ ani tulonkɛla hakɛ.",
+      "\"Imprimer cartes\" digi. Karti kelen-kelen bɛɛ tɛ kelen ye.",
+      "Weelebaga da wuli ɛkran belebele dɔ kan. \"Ja nata\" digi walasa ka ja kelen-kelen bɛɛ jira n'a tɔgɔ ye.",
+      "Tulonkɛlaw bɛ ja min bɛ bɛn u ka karti kan, o datugu ni warijɛ, butɔni walima taamasiyɛn ye.",
+      "Mɔgɔ o mɔgɔ bɛ jiribolo dɔ fa, walima karti bɛɛ, o bɛɛ bɛ nisɔndiya sɔrɔ. Bɔnɛbaga si tɛ nin bɔko in na: aw ka to ka tulon kɛ fo bɛɛ ka layini sɔrɔ."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Aw bɛ baara kɛ ni taamasiɲɛ belebelebaw ye i n’a fɔ dajiri walima buteli dawolo. Butɔn misɛnninw tali bɛ se ka gɛlɛya.",
+      "Ja tɔgɔ fɔ ka dɔ fɔ a kan: \"Kurunba dɔ. Jɔn bɔra kurun kɔnɔ?\"",
+      "Aw bɛ mɔgɔw sigi minnu yecogo ka gɛlɛn ka surunya ɛkran na, ani ka dɛmɛbagaw fara ɲɔgɔn kan ni tulonkɛlaw ye minnu mago bɛ u la.",
+      "Kɛrɛnkɛrɛnnenya la, kɛnɛ kɔnɔntɔn ka ca kulu fanba la. Aw bɛ kalan kɛ miniti 20 fo miniti 30 ɲɔgɔn na."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ne bɛ se ka ja bingo boli cogo di ladonni so kɔnɔ?",
+        "a": "Aw bɛ karti kelen bɔ tulonkɛla kelen-kelen bɛɛ la, ka welebaga bila ɛkran belebeleba la min bɛ aw bolo, ka jaw wele dɔɔnin dɔɔnin, ka u kelen-kelen bɛɛ tɔgɔ fɔ. Tulon kɛ fo bɛɛ ka layini sɔrɔ, o la mɔgɔ si kana to kɔfɛ."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Yala a bɛ kɛ fu ye ka sɛbɛnni kɛ wa?",
+        "a": "Awɔ. I mago bɛ karti caman na, i b’a fɛ cogo min na, i yɛrɛ ka baara kama walima kulu ka baara kama."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Yala mɔgɔw bɛ se ka tulon kɛ k’a sɔrɔ u ma kalan kɛ wa?",
+        "a": "Awɔ. Kɛrɛ kelen-kelen bɛɛ ye ja belebele ye, a tɔgɔ bɛ a jukɔrɔ daɲɛw diyabɔbagaw ye."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Ninakili lafiyalen",
+    "seoTitle": "Ninakili lafiyalen dɔ ye mɔgɔkɔrɔbaw ni ladonbagaw ye",
+    "h1": "Ninakili Lafiɲɛbɔ min bɛ kɛ ni hakilisigi ye",
+    "description": "Ninakili jɔli dɔɔni dɔɔni, min bɛ kɛ ni dususuma ye walasa ka tila: sɛrɛkili nɔgɔman bɛ bonya ka dɔgɔya fo ninakili wɔɔrɔ.",
+    "short": "Sɛrɛkili dɔ min bɛ kɛ dɔɔni dɔɔni ka ninakili ka fara a kan. Aw bɛ a daminɛ ka dabila ni aw b’a fɛ.",
+    "players": "Mɔgɔ 1 walima mɔgɔ 2",
+    "intro": "Tuma dɔw la, baara min ka fisa, o ye ka lafiɲɛ ni dususuma ye. Aw bɛ \"Daminɛ\" digi, o kɔ aw bɛ ninakili don ni sɛrɛkili bɛ bonya ani ka bɔ ni a bɛ dɔgɔya. Aw bɛ taamacogo dɔ sugandi min ka surun walima min ka teliya. Furakɛli tɛ, hɛrɛ waati dɔrɔn de don ka tila.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Aw bɛ sigi ka ɲɛ kɛrɛfɛ.",
+      "Aw bɛ taamacogo dɔ sugandi: min bɛ kɛ dɔɔni dɔɔni walima min bɛ kɛ ni dususuma ye.",
+      "\"Daminɛ\" digi. Aw bɛ ninakili ka don ka a sɔrɔ sɛrɛkili bɛ ka bonya, ka ninakili bɔ ka a sɔrɔ a bɛ dɔgɔya.",
+      "A bɛ jɔ a yɛrɛ ma ninakili wɔɔrɔ kɔfɛ, walima ka \"Stop\" digi waati o waati n'i b'a fɛ."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Aw bɛ aw bolow minɛ walima ka aw bolo lafiɲɛ a tigi bolo la ni o bɛ sɔn.",
+      "Aw kana aw sinsin abada. Ni a ka fisa u ma ka kɔlɔsili kɛ, o tɛ baasi ye.",
+      "Ni ninakili gɛlɛya bɛ mɔgɔ dɔ la, aw bɛ ninakili cogo bɛnnen na ani ka sɛrɛkili lajɛ dɔrɔn. Aw bɛ dɔgɔtɔrɔ dɔ ɲininka ninakiliko haminanko o haminanko la."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Yala nin ye furakɛli ninakilidege ye wa?",
+        "a": "Ayi, o ye lafiɲɛbɔ nɔgɔman ye, min bɛ se ka kɛ i yɛrɛ sago la, walasa ka hakili sigi ani ka jɛɲɔgɔnya kɛ. O tɛ jɔrɔnanko walima bana si fura ye. Aw bɛ kuma dɔgɔtɔrɔ dɔ fɛ kɛnɛyako haminankow kan."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Yala sɛrɛkili bɛ lamaga ni ne ma a daminɛ wa?",
+        "a": "Ayi, foyi tɛ lamaga fo n’i ye Daminɛ digi, wa a bɛ jɔ ninakili wɔɔrɔ kɔfɛ walima n’i ye Dabila digi. Ni i ka minɛn bilalen don walasa ka dɔ bɔ lamaga la, daɲɛw bɛ Changé k’a sɔrɔ sɛrɛkili ma bonya."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Yala a tɛ sara wa, ani yala ne ka kan ka n tɔgɔ sɛbɛn wa?",
+        "a": "Ɔwɔ, a tɛ sara, wa jatebɔsɛbɛn, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. A bɛ baara kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       }
     ]
   }

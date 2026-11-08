@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Piltide paarid",
+    "seoTitle": "Sobiv mäng dementsuse jaoks: pildipaarid",
+    "h1": "Pildipaarid: õrn sobitamismäng",
+    "description": "Tasuta õrn sobitamismäng dementsusega inimestele. Suured pildid jäävad nähtavaks, pole taimerit ega skoori ning valite 4–12 paani.",
+    "short": "Leidke kaks pilti, mis on samad. Pildid võivad jääda näitamisele.",
+    "players": "1 või 2 inimest kõrvuti",
+    "intro": "Puudutage pilti, seejärel puudutage seda, mis sellele sobib. Pildid jäävad vaikimisi kuvamiseks, nii et midagi ei pea meeles pidama. Kui kaks pilti kokku lähevad, saavad nad kuldse äärise ja linnukese.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Valige, kui palju plaate kasutada. Neli plaati on rahulik koht alustamiseks.",
+      "Puudutage mis tahes pilti. See saab kuldse äärise.",
+      "Puudutage pilti, mis näeb välja sama. Paar jääb koos linnukesega.",
+      "Kui need kaks pilti on erinevad, ei juhtu midagi hullu. Puudutage uuesti, kui olete valmis.",
+      "Lülitage valik \"Peidetud pildid\" sisse ainult siis, kui teile mõlemale meeldib klassikaline näoga allapoole suunatud versioon."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Nimetage pildid koos valjult ja vestelge nendest: \"Punane teetass. Kas teete piima sisse?\"",
+      "Laske koputus teha inimesel, kellest hoolite, isegi kui see võtab veidi aega. Koputuse asemel osutage neile.",
+      "Jääge nelja plaadiga nii kauaks, kuni see tundub hea. Rohkem plaate on valik, mitte kunagi saavutatav tase.",
+      "Lõpetage, kuni see on veel nauditav. Üks mäng on täielik tegevus."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kas on taimer või skoor?",
+        "a": "Ei. Kella, skoori, käiguloendurit ega kaotust pole. Võite igal hetkel peatuda ja poolel teel peatumine on täiesti hea viis lõpetamiseks."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Miks jäävad pildid esiküljega ülespoole?",
+        "a": "Piltide nähtavana hoidmine muudab mängu pigem vaatamiseks ja sobitamiseks, mitte meeldejätmiseks. Paljud inimesed peavad seda rahulikumaks. Soovi korral saate ühe puudutusega lülituda peidetud piltidele."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kas see on tasuta ja kas ma pean registreeruma?",
+        "a": "Jah, see on tasuta ja sellel pole kontot, registreerumist ega allalaadimist. See töötab telefoni, tahvelarvuti või arvuti veebibrauseris."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Kas saame kasutada oma perepilte?",
+        "a": "Jah. Proovige fotopaare, mis võimaldab teil oma seadmest fotosid valida. Fotod jäävad teie brauserisse ja neid ei laadita üles."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Leia sama",
+    "seoTitle": "Leidke sama pilt: lihtne dementsuse mäng",
+    "h1": "Leia sama pilt",
+    "description": "Üks pilt üleval, kaks kuni neli allpool. Puudutage seda, mis on sama. Rahulik tasuta pildimäng dementsusega inimestele, ilma taimeriga.",
+    "short": "Vaadake üleval olevat pilti ja puudutage sama pilti allpool.",
+    "players": "1 või 2 inimest",
+    "intro": "Üks pilt asub ekraani ülaosas. Selle all on kaks, kolm või neli pilti. Puudutage seda, mis on sama. See on üks lihtne valik korraga, kus on palju ruumi rääkimiseks.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Valige kahe, kolme või nelja pildi vahel. Kaks on kõige lihtsam.",
+      "Vaadake koos üleval olevat pilti.",
+      "Puudutage sama pilti allpool. See on märgitud linnukese ja mõne sooja sõnaga.",
+      "Kui puudutatakse teist pilti, annab mäng sellele lihtsalt nime ja ootab. Võtke aega.",
+      "Puudutage nuppu \"Järgmine pilt\", kui olete teise pildi jaoks valmis."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Rääkige enne valimist iga pildi kohta: värvid, kujundid, kus seda näha võite.",
+      "Kaks valikut pole \"liiga kerged\". Eesmärk on meeldiv hetk, mitte väljakutse.",
+      "Kui koputamine on raske, saab inimene osutada ja teie saate tema eest koputada."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kas on taimer või skoor?",
+        "a": "Ei. Kella, skoori, käiguloendurit ega kaotust pole. Võite igal hetkel peatuda ja poolel teel peatumine on täiesti hea viis lõpetamiseks."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Mis juhtub, kui koputatakse vale pilti?",
+        "a": "Ei midagi ebameeldivat. Ei kosta helisignaali, punast risti ega värisemist. Mäng annab koputatud pildile nime ja ootab järgmist puudutust."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kas see on tasuta ja kas ma pean registreeruma?",
+        "a": "Jah, see on tasuta ja sellel pole kontot, registreerumist ega allalaadimist. See töötab telefoni, tahvelarvuti või arvuti veebibrauseris."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Varjude matš",
+    "seoTitle": "Varjude sobitamise mäng dementsuse jaoks: tasuta võrgus",
+    "h1": "Shadow Match: õrn pildimäng",
+    "description": "Üleval tume vari, all kaks kuni neli pilti. Puudutage pilti, mis teeb varju. Tasuta rahulik varjude sobitamise mäng dementsuse jaoks, ilma taimeriga.",
+    "short": "Vaadake varju ja puudutage seda pilti.",
+    "players": "1 või 2 inimest",
+    "intro": "Varjude sobitamine on tuttav tegevus prinditud töölehtedelt, siin on suured pildid ja pole midagi printida. Ekraani ülaosas on pehme vari ja all ootavad kaks, kolm või neli pilti. Puudutage seda, mis teeb varju. Ka sellistest kujunditest nagu jalgratas, vihmavari või teetass on lihtne rääkida.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Valige kahe, kolme või nelja pildi vahel. Kaks on kõige lihtsam.",
+      "Vaadake koos varju. Mis kujuga on tegemist? Kas see on kõrge või ümmargune?",
+      "Puudutage pilti, mis teeb varju. Selle nimi ilmub varju alla.",
+      "Kui puudutatakse teist pilti, annab mäng sellele lihtsalt nime ja ootab. Võtke aega.",
+      "Puudutage valikut \"Järgmine vari\", kui olete uueks varjuks valmis."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Jälgige sõrmega varju piirjooni ja rääkige kujust.",
+      "Kui varjud tunduvad täna rasked, minge valikule Leia sama, kus pildid näevad välja sarnased.",
+      "Rääkige pildist, kui see leitud on: \"Meil oli selline vihmavari.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kas on taimer või skoor?",
+        "a": "Ei. Kella, skoori, käiguloendurit ega kaotust pole. Võite igal hetkel peatuda ja poolel teel peatumine on täiesti hea viis lõpetamiseks."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Kas varjude sobitamine on hea dementsusega inimestele?",
+        "a": "Mõne inimese jaoks võib see olla meeldiv ja lihtne tegevus, eriti varasematel etappidel. Kujundeid on lihtsam ära tunda kui sõnu. See on mõeldud nautimiseks ja vestluseks, mitte testimiseks ning see ei ravi ega aeglusta dementsust. Kui see tekitab frustratsiooni, proovige Otsige sama või vaadake lihtsalt koos pilte."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Mis juhtub, kui koputatakse vale pilti?",
+        "a": "Ei midagi ebameeldivat. Ei kosta helisignaali, punast risti ega värisemist. Mäng annab koputatud pildile nime ja ootab järgmist puudutust."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kas see on tasuta ja kas ma pean registreeruma?",
+        "a": "Jah, see on tasuta ja sellel pole kontot, registreerumist ega allalaadimist. See töötab telefoni, tahvelarvuti või arvuti veebibrauseris."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sorteeri koos",
+    "seoTitle": "Dementsuse sorteerimismäng: sorteerige koos",
+    "h1": "Sorteerige koos: piltide sortimine",
+    "description": "Puudutage pilti, seejärel puudutage korvi, kuhu see kuulub: köök või aed, puuvili või loomad. Rahulik tasuta sorteerimistegevus dementsusega inimestele.",
+    "short": "Pange iga pilt oma ostukorvi: köök või aed ja palju muud.",
+    "players": "1 või 2 inimest",
+    "intro": "Sorteerimine on tuttav ja rahuldust pakkuv igapäevane ülesanne, nagu toidukaupade ärapanemine või sokkide sidumine. Puudutage pilti, seejärel puudutage korvi, kuhu see kuulub. Kiirustamist ja valet pööret pole.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Valige teema: köök ja aed, puuvili ja loomad või kodu ja reisimine.",
+      "Puudutage pilti. See saab kuldse äärise.",
+      "Puudutage korvi, millesse see kuulub. Pilt liigub sellesse korvi.",
+      "Kui see kuulub teise korvi, ütleb mäng seda õrnalt ja ootab.",
+      "Kui kõik pildid on sorteeritud, vaadake koos korvid läbi."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Reaalses elus pole sageli valesid vastuseid. Kui keegi ütleb, et kastekann kuulub kööki, küsige, miks. Võite saada hea loo.",
+      "Kasutage vihjeks pilte: \"Mida sa oma aias kasvatasid?\"",
+      "Pärisobjektide, nagu lusikad, kahvlid või nupud värvi järgi sorteerimine on suurepärane järg ekraanist eemal."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kas on taimer või skoor?",
+        "a": "Ei. Kella, skoori, käiguloendurit ega kaotust pole. Võite igal hetkel peatuda ja poolel teel peatumine on täiesti hea viis lõpetamiseks."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Miks sorteerida?",
+        "a": "Paljud inimesed naudivad sorteerimist, sest see tundub kasuliku ja tuttava tööna. Samuti on lihtne piltidest rääkida."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kas see on tasuta ja kas ma pean registreeruma?",
+        "a": "Jah, see on tasuta ja sellel pole kontot, registreerumist ega allalaadimist. See töötab telefoni, tahvelarvuti või arvuti veebibrauseris."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Piltmõistatus",
+    "seoTitle": "Lihtne pusle dementsuse jaoks: 4 või 9 tükki",
+    "h1": "Piltmõistatus: lihtne pusle",
+    "description": "Lihtne veebipõhine pusle dementsusega inimestele: 4 või 9 suurt tükki, kogu pilt jääb nähtavaks ja nende vahetamiseks puudutate kahte tükki.",
+    "short": "Puudutage kahte tükki, et neid vahetada, kuni pilt on terve.",
+    "players": "1 või 2 inimest",
+    "intro": "Sõbralik pilt lõigatakse neljaks või üheksaks suureks tükiks ja segatakse. Kogu pilt jääb teejuhiks nähtavaks. Puudutage ühte tükki, seejärel teist ja nad vahetavad kohti. Lohistamist pole vaja.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Valige pilt ja 4 või 9 tükki. Neli on õrn algus.",
+      "Vaadake kogu pilti ülaosas.",
+      "Puudutage tükki ja seejärel kohta, kuhu see peaks minema. Kaks tükki vahetatakse.",
+      "Õiges kohas olevad tükid saavad väikese linnukese.",
+      "Kui pilt on terve, nautige seda koos ja seejärel valige mõni muu."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Kahe tüki koputamine nende vahetamiseks on paljude inimeste jaoks palju lihtsam kui lohistamine.",
+      "Rääkige pildist, kui see kokku tuleb: \"Seal on punane katus.\"",
+      "Tõeline puidust pusle, millel on 12–24 suurt tükki, on ka suurepärane tegevus lauale."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kas on taimer või skoor?",
+        "a": "Ei. Kella, skoori, käiguloendurit ega kaotust pole. Võite igal hetkel peatuda ja poolel teel peatumine on täiesti hea viis lõpetamiseks."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Kas ma pean tükke lohistama?",
+        "a": "Ei. Puudutage ühte tükki, seejärel teist ja nad vahetavad kohti. See on lihtsam väriseva käega või väikesel ekraanil."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kas see on tasuta ja kas ma pean registreeruma?",
+        "a": "Jah, see on tasuta ja sellel pole kontot, registreerumist ega allalaadimist. See töötab telefoni, tahvelarvuti või arvuti veebibrauseris."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Lõpeta ütlus",
+    "seoTitle": "Lõpetage ütlus: Vanasõnade mäng pensionäridele",
+    "h1": "Lõpeta ütlus",
+    "description": "Tuttavad Ameerika ütlused, mille viimane sõna on puudu, näiteks \"A penny saved is a penny ___\". Puudutage valikut või näidake lõppu ja seejärel rääkige sellest.",
+    "short": "Lõpetage koos tuttavaid ütlusi, seejärel rääkige neist.",
+    "players": "1, 2 või rühm",
+    "intro": "Vanad ütlused on sageli tuntud kogu elu. Igal kaardil on näha tuttav ütlus, mille viimane sõna on puudu, kolm valikut ja nupp \"Näita lõppu\". Pärast lõppu kutsub kõnelema õrn küsimus.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lugege ütlus koos ette.",
+      "Puudutage sõna, mis selle lõpetab, või puudutage \"Näita lõppu\".",
+      "Lugege kogu ütlus uuesti läbi ja rääkige sellest viipa kasutades.",
+      "Kui olete valmis, puudutage valikut \"Järgmine ütlus\"."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lugege aeglaselt ja jätke paus enne viimast sõna. Sageli inimesed ütlevad seda enne, kui olete lõpetanud.",
+      "Kui keegi teeb teistsuguse lõpu, siis nautige seda. Mõned ütluste versioonid on perekonna või piirkonna lõikes erinevad.",
+      "Rühmas loeb üks inimene ja kõik osalevad lõpus."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kas on taimer või skoor?",
+        "a": "Ei. Kella, skoori, käiguloendurit ega kaotust pole. Võite igal hetkel peatuda ja poolel teel peatumine on täiesti hea viis lõpetamiseks."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Mis siis, kui valime mõne muu sõna?",
+        "a": "Mäng näitab tavalist lõppu ja liigub edasi vestluse juurde. Punkti pole ja teistsugune vastus sobib."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kas see on tasuta ja kas ma pean registreeruma?",
+        "a": "Jah, see on tasuta ja sellel pole kontot, registreerumist ega allalaadimist. See töötab telefoni, tahvelarvuti või arvuti veebibrauseris."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Sõnaotsing suures kirjas",
+    "seoTitle": "Suure trükiga sõnaotsing dementsuse jaoks, prinditav",
+    "h1": "Suures kirjas sõnaotsing",
+    "description": "Tasuta suures kirjas sõnaotsing pensionäridele ja dementsusega inimestele. Vähe sõnu, suured tähed, sõnad ainult risti ja alla. Mängige võrgus või printige.",
+    "short": "Suured tähed, paar sõna, ainult risti ja alla. Printige ka.",
+    "players": "1 või 2 inimest",
+    "intro": "Väike ruudustik suurte tähtedega ja vaid käputäie sõnadega, mis kõik loevad risti või alla. Puudutage sõna esimest tähte ja seejärel viimast tähte. Kas eelistate paberit? Printige värske pusle ühe puudutusega.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Valige teema ja ruudustiku suurus.",
+      "Vaata sõnade nimekirja. Sõnad loetakse risti (vasakult paremale) või alla (ülalt alla).",
+      "Puudutage sõna esimest tähte ja seejärel selle viimast tähte.",
+      "Leitud sõna tõstetakse esile ja tõmmatakse loendist maha.",
+      "Puudutage nuppu \"Prindi see pusle\", et mängida paberil pliiatsi või markeriga."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Osutage loendis sõnale ja otsige koos selle esimest tähte.",
+      "Paberil on highlighterit lihtsam käes hoida kui pliiatsit.",
+      "Rääkige teemasõnadest. Puuviljasõnad on loomulik viis mälestustesse korjamisest, küpsetamisest või turgudest."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kas on taimer või skoor?",
+        "a": "Ei. Kella, skoori, käiguloendurit ega kaotust pole. Võite igal hetkel peatuda ja poolel teel peatumine on täiesti hea viis lõpetamiseks."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Kas ma saan sõna otsingu printida?",
+        "a": "Jah. Puudutage valikut \"Prindi see mõistatus\", et printida praegune ruudustik suures kirjas ja selle all olev sõnaloend. Iga uus mõistatus on erinev."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kas see on tasuta ja kas ma pean registreeruma?",
+        "a": "Jah, see on tasuta ja sellel pole kontot, registreerumist ega allalaadimist. See töötab telefoni, tahvelarvuti või arvuti veebibrauseris."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Värvimislehed",
+    "seoTitle": "Värvimislehed dementsusega täiskasvanutele (tasuta)",
+    "h1": "Värvimislehed",
+    "description": "Lihtsad täiskasvanutele mõeldud värvimislehed suurte aladega: puudutage värvi ja seejärel pilti. Pole segadust, pole valesid värve ja iga lehe saab tasuta printida.",
+    "short": "Puudutage värvi ja seejärel pildi osa. Printige ka lehti.",
+    "players": "1 või 2 inimest",
+    "intro": "Suure lihtsa kujuga lehed: lill potis, majake, teetass, liblikas ja purjekas. Puudutage värvi, seejärel puudutage pildi osa, et see täita. Valed värvid puuduvad.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Valige leht.",
+      "Puudutage värvi. Igale värvile on kirjutatud oma nimi.",
+      "Puudutage pildi osa, et see selle värviga täita.",
+      "Muutke oma meelt igal ajal, täites selle uuesti.",
+      "Pliiatsite või markeritega värvimiseks tühja lehe kuvamiseks puudutage valikut \"Prindi see leht\"."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Kui valida tundub liiga palju, pakkuge pigem kahe värvi kui kogu komplekti vahel.",
+      "Oodatud on lillad puud ja sinised päikesed. See puudutab värvide nautimist, mitte täpsust.",
+      "Prinditud lehed töötavad hästi paksude markerite või värvipliiatsidega, mida on lihtsam haarata."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kas on taimer või skoor?",
+        "a": "Ei. Kella, skoori, käiguloendurit ega kaotust pole. Võite igal hetkel peatuda ja poolel teel peatumine on täiesti hea viis lõpetamiseks."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Kas need lehed on liiga lapsikud?",
+        "a": "Joonistasime pigem rahulikke lihtsaid esemeid kui multikaid, nii et lehed sobivad täiskasvanutele. Suured kujundid muudavad värvimise lihtsaks, muutmata seda lapselikuks."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kas see on tasuta ja kas ma pean registreeruma?",
+        "a": "Jah, see on tasuta ja sellel pole kontot, registreerumist ega allalaadimist. See töötab telefoni, tahvelarvuti või arvuti veebibrauseris."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Vestluskaardid",
+    "seoTitle": "Vestluse alustajad dementsuse jaoks: pildikaardid",
+    "h1": "Vestluskaardid",
+    "description": "Piltkaardid õrnade vestluse alustajatega dementsusega inimestele: ei küsitlemist ega õigeid vastuseid. Kasutage ekraanil või printige kogu komplekt.",
+    "short": "Pildikaardid avatud, õrnade küsimustega. Ei küsitlemist.",
+    "players": "2 inimest või grupp",
+    "intro": "Iga kaart ühendab tuttava pildi avatud vestluskutsega, näiteks \"Milline on teie lemmikilm?\" Pole õigeid vastuseid ja midagi pole meeles pidada. Valige teema või segage neid kõiki.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Valige teema või säilitage valik \"Kõik kaardid\".",
+      "Lugege küsimus ette ja vaadake koos pilti.",
+      "Kuulake, jagage oma vastust ja laske jutul hajuda.",
+      "Kui olete valmis, puudutage valikut \"Järgmine kaart\" või jääge ühe kaardi juurde nii kaua, kui soovite.",
+      "Paberikomplekti välja lõikamiseks puudutage valikut \"Prindi kõik kaardid\"."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Vasta ka ise küsimusele. See tundub nagu vestlus, mitte intervjuu.",
+      "Jälgi lugu, mitte fakte. Kui üksikasjad muutuvad, on see hea.",
+      "Kui kaart puudutab midagi kurba, tunnistage tunnet ja liikuge õrnalt teise kaardi juurde."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Miks pole \"Kas sa mäletad...?\" küsimusi?",
+        "a": "Mälu testivad küsimused võivad tunduda eksamina ja tekitada piinlikkust. Avatud kutsed (nt \"Räägi mulle ...\") lubavad kõigil liituda, olenemata sellest, mida nad mäletavad."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Kas ma saan kaarte printida?",
+        "a": "Jah. \"Prindi kõik kaardid\" prindib kogu komplekti suures kirjas, mitu kaarti lehel, valmis välja lõigata."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kas see on tasuta ja kas ma pean registreeruma?",
+        "a": "Jah, see on tasuta ja sellel pole kontot, registreerumist ega allalaadimist. See töötab telefoni, tahvelarvuti või arvuti veebibrauseris."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Fotopaarid",
+    "seoTitle": "Looge perefotodest sobiv mäng",
+    "h1": "Fotopaarid: sobitage oma fotod",
+    "description": "Muutke oma perefotod õrnaks sobitamismänguks. Valige oma seadmes 2–6 fotot; need jäävad teie brauserisse ja neid ei laadita kunagi üles.",
+    "short": "Valige oma fotod ja sobitage need. Midagi pole üles laaditud.",
+    "players": "2 inimest kõrvuti",
+    "intro": "Valige oma telefonist, tahvelarvutist või arvutist kaks kuni kuus fotot ja neist saab suurte ja nähtavate piltidega sobiv mäng. Fotosid kuvatakse ainult sellel lehel. Neid ei laadita üles, ei salvestata ega jagata ning need kaovad lehe sulgemisel.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Puudutage valikut \"Vali fotod\" ja valige kaks kuni kuus fotot.",
+      "Iga foto kuvatakse kaks korda. Puudutage ühte ja seejärel selle paari.",
+      "Rääkige igast fotost, kui selle leiate.",
+      "Kui olete lõpetanud, sulgege leht või puudutage \"Kustuta fotod\". Midagi ei hoita."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Valige selged fotod õnnelikest tuttavatest asjadest: lemmikloom, aed, lemmikkoht, pulmapäev.",
+      "Kohtade ja objektide pildid võivad olla lihtsamad kui näod ning need väldivad igasugust survet inimestele nimetada.",
+      "Jätke surnud inimeste fotod välja, kui need võivad tuua ootamatu leina, välja arvatud juhul, kui teate, et need toovad lohutust."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Kas mu fotod on kuhugi üles laaditud?",
+        "a": "Ei. Leht loeb teie valitud fotosid otse brauseris ja kuvab need teie ekraanil. Neid ei saadeta meile ega kellelegi teisele ning need kaovad lehe sulgemisel või uuesti laadimisel."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kas on taimer või skoor?",
+        "a": "Ei. Kella, skoori, käiguloendurit ega kaotust pole. Võite igal hetkel peatuda ja poolel teel peatumine on täiesti hea viis lõpetamiseks."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Kas ma saan mängu järgmiseks korraks salvestada?",
+        "a": "Mitte brauseris, disaini järgi, nii et midagi privaatset ei salvestata. Tasuta rakendus Golden Moments iPhone'ile ja iPadile hoiab valitud fotokoopiaid teie seadmes."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Pildibingo",
+    "seoTitle": "Pildibingo dementsusega eakatele: prinditav",
+    "h1": "Pildibingo gruppidele",
+    "description": "Tasuta prinditav piltbingo mäluhoolduse ja vanemate rühmade jaoks suure ekraanil kuvatava helistajaga. Suured sõnadega pildid, 9 või 16 ruutu, lugemist pole vaja.",
+    "short": "Prinditavad piltidega bingokaardid ja suure ekraaniga helistaja gruppidele.",
+    "players": "Grupp 2-30",
+    "intro": "Klassikaline bingo numbrite asemel piltidega, nii et keegi ei pea lugema väikeses kirjas. Printige unikaalsete kaartide komplekt, seejärel kasutage ekraanil kuvatavat helistajat, et kuvada iga pilt suurelt teleris, sülearvutis või tahvelarvutis.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Valige 9 või 16 ruutu kaardi kohta ja mängijate arv.",
+      "Puudutage valikut \"Prindi kaardid\". Iga kaart on erinev.",
+      "Avage helistaja suurel ekraanil. Iga pildi koos nimega kuvamiseks puudutage nuppu \"Järgmine pilt\".",
+      "Mängijad katavad oma kaardil oleva pildi mündi, nupu või markeriga.",
+      "Igaüks, kes täidab rea või terve kaardi, saab rõõmuhõngu. Selles versioonis pole kaotajaid: jätkake mängimist, kuni kõigil on rida."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Kasutage suuri märke, näiteks kabe või pudelikorke. Väikesi nuppe võib olla raske kätte saada.",
+      "Nimetage pilt ja öelge selle kohta midagi: \"Purjekas. Kes on paadiga väljas käinud?\"",
+      "Istuge ekraanile kõige lähemale nägemisega inimesed ja ühendage abilised mängijatega, kes neid vajavad.",
+      "Üheksa ruutu on enamiku rühmade jaoks piisavalt. Hoidke seanssi umbes 20 kuni 30 minutit."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kuidas hooldekodus piltbingot joosta?",
+        "a": "Printige iga mängija kohta üks kaart, asetage helistaja suurimale ekraanile ja helistage aeglaselt piltidele, pannes igaühele nime. Mängige seni, kuni kõigil on rida, nii et keegi ei jääks kõrvale."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Kas printimine on tasuta?",
+        "a": "Jah. Printige isiklikuks või rühmakasutuseks nii palju kaarte kui vaja ja nii tihti kui soovite."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Kas inimesed saavad mängida ilma lugemata?",
+        "a": "Jah. Iga ruut on suur pilt, mille all on selle nimi neile, kellele meeldivad sõnad."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Rahulik hingamine",
+    "seoTitle": "Rahulik hingamispaus pensionäridele ja hooldajatele",
+    "h1": "Rahulik hingamispaus",
+    "description": "Aeglane ja vaikne hingamispaus, mida jagada: õrn ring kasvab ja kahaneb kuus hingetõmmet. Te alustate seda ja saate igal ajal lõpetada.",
+    "short": "Aeglane ring, millega koos hingata. Alusta ja lõpeta, kui sulle meeldib.",
+    "players": "1 või 2 inimest",
+    "intro": "Mõnikord on parim tegevus vaikne paus. Puudutage nuppu \"Start\", seejärel hingake ringi kasvades sisse ja kahanedes välja. Valige aeglasem või kiirem tempo. See ei ole ravi, vaid rahulik hetk, mida jagada.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Istuge mugavalt kõrvuti.",
+      "Valige tempo: aeglane või õrn.",
+      "Puudutage nuppu \"Start\". Hingake sisse, kui ring kasvab, ja välja, kui see kahaneb.",
+      "See peatub iseenesest pärast kuut hingetõmmet või puudutage nuppu \"Stopp\", kui soovite."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Hoidke käest kinni või toetage käsi inimese käele, kui see on teretulnud.",
+      "Ärge kunagi nõudke. Kui nad pigem vaataksid, on see hea.",
+      "Kui kellelgi on hingamisprobleeme, hingake normaalselt ja lihtsalt vaadake ringi. Küsige arstilt kõigi hingamisprobleemide kohta."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Kas see on meditsiiniline hingamisharjutus?",
+        "a": "Ei. See on lihtne valikuline paus rahulikuks ja seltskonnaks. See ei ole ärevuse või mõne muu seisundi ravi. Rääkige arstiga terviseprobleemidest."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Kas ring liigub ilma, et ma seda käivitaksin?",
+        "a": "Ei. Miski ei liigu enne, kui puudutate nuppu Start ja see peatub pärast kuut hingetõmmet või kui puudutate Stop. Kui teie seade on seadistatud liikumist vähendama, muutuvad sõnad ilma ringi suurenemiseta."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kas see on tasuta ja kas ma pean registreeruma?",
+        "a": "Jah, see on tasuta ja sellel pole kontot, registreerumist ega allalaadimist. See töötab telefoni, tahvelarvuti või arvuti veebibrauseris."
       }
     ]
   }

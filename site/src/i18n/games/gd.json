@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Paidhir dhealbhan",
+    "seoTitle": "Gèam Co-fhreagarrach airson Dementia: Paidhrichean Dealbhan",
+    "h1": "Paidhrichean Dealbhan: Gèam Co-fhreagarrach Soirbheachail",
+    "description": "Geama maidsidh socair an-asgaidh dha daoine le dementia. Bidh dealbhan mòra rim faicinn, chan eil timer no sgòr ann, agus bidh thu a’ taghadh 4 gu 12 leacag.",
+    "short": "Lorg an dà dhealbh a tha co-ionann. Faodaidh dealbhan fuireach a’ sealltainn.",
+    "players": "1 no 2 neach, taobh ri taobh",
+    "intro": "Tap air dealbh, agus an uairsin tap air an fhear a tha co-chosmhail ris. Bidh dealbhan a’ fuireach a’ nochdadh gu bunaiteach, agus mar sin chan fheumar dad a chuimhneachadh. Nuair a thèid dà dhealbh còmhla gheibh iad crìoch òir agus comharra seic.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Tagh cia mheud leac a chleachdas tu. Tha ceithir leacan na àite socair airson tòiseachadh.",
+      "Tap air dealbh sam bith. Bidh e a’ faighinn crìoch òir.",
+      "Tap air an dealbh a tha a’ coimhead an aon rud. Bidh am paidhir a’ fuireach còmhla ri comharra seic.",
+      "Ma tha an dà dhealbh eadar-dhealaichte, chan eil dad dona a’ tachairt. Tap air a-rithist nuair a bhios tu deiseil.",
+      "Tionndaidh air “Dealbhan falaichte” a-mhàin ma tha an dreach clasaigeach aghaidh-sìos a’ còrdadh riut le chèile."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Ainmich na dealbhan gu h-àrd ri chèile agus bruidhnibh mun deidhinn: \"Cupa tì dearg. An gabh thu bainne nad thì?\"",
+      "Leig leis an neach a tha fo do chùram an tapadh a dhèanamh, eadhon ged a bheir e greis. Puing seach tap air an son.",
+      "Fuirich le ceithir leacan cho fad 'sa tha e a' faireachdainn math. Tha barrachd leacan na roghainn, gun ìre ri ruigsinn.",
+      "Crìochnaich fhad 's a tha e fhathast tlachdmhor. Tha aon gheama na ghnìomhachd iomlan."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A bheil timer no sgòr ann?",
+        "a": "Chan eil. Chan eil cloc, sgòr, gluasad cuntair no call. Faodaidh tu stad aig àm sam bith, agus tha stad letheach slighe na dhòigh math air crìochnachadh."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Carson a tha na dealbhan a 'fuireach aghaidh suas?",
+        "a": "Le bhith a’ cumail dealbhan ri fhaicinn bidh sin a’ tionndadh a’ gheama gu bhith a’ coimhead agus a’ maidseadh seach a bhith a’ cuimhneachadh. Bidh mòran dhaoine a 'faicinn seo nas socraiche. Faodaidh tu atharrachadh gu dealbhan falaichte ann an aon suathadh mas fheàrr leat."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A bheil e an-asgaidh, agus am feum mi clàradh?",
+        "a": "Tha, tha e an-asgaidh, agus chan eil cunntas ann, clàradh no luchdachadh sìos. Bidh e ag obair sa bhrobhsair lìn air fòn, clàr no coimpiutair."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "An urrainn dhuinn na dealbhan teaghlaich againn fhèin a chleachdadh?",
+        "a": "Tha. Feuch paidhrichean Dealbhan, a leigeas leat dealbhan a thaghadh bhon inneal agad. Bidh na dealbhan a’ fuireach sa bhrobhsair agad agus chan eil iad air an luchdachadh suas."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Lorg an aon rud",
+    "seoTitle": "Lorg an aon dealbh: Gèam Dementia sìmplidh",
+    "h1": "Lorg an aon dealbh",
+    "description": "Aon dealbh aig a’ mhullach, dhà no ceithir gu h-ìosal. Tap air an fhear a tha an aon rud.",
+    "short": "Thoir sùil air an dealbh gu h-àrd agus tap air an aon fhear gu h-ìosal.",
+    "players": "1 no 2 neach",
+    "intro": "Tha aon dealbh na shuidhe aig mullach an sgrion. Gu h-ìosal tha dhà, trì no ceithir dealbhan. Tap air an fhear a tha an aon rud. Is e aon roghainn shìmplidh a th’ ann aig an aon àm, le àite gu leòr airson bruidhinn.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Tagh dhà, trì no ceithir dealbhan airson taghadh. Is e dhà an fheadhainn as sìmplidh.",
+      "Seall air an dealbh aig a’ mhullach còmhla.",
+      "Tap air an aon dealbh gu h-ìosal. Tha e air a chomharrachadh le seic agus beagan fhaclan blàth.",
+      "Ma thèid tapadh air dealbh eile, tha an geama dìreach ga ainmeachadh agus a’ feitheamh. Air do shocair.",
+      "Tap \"An ath dhealbh\" nuair a bhios tu deiseil airson fear eile."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Bruidhinn mu gach dealbh mus tagh thu: dathan, cumaidhean, far am faiceadh tu e.",
+      "Chan eil dà roghainn \"ro fhurasta\". Is e àm tlachdmhor a th’ anns an amas, chan e dùbhlan.",
+      "Ma tha tapadh cruaidh, faodaidh an neach comharrachadh agus faodaidh tu tapadh air an son."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A bheil timer no sgòr ann?",
+        "a": "Chan eil. Chan eil cloc, sgòr, gluasad cuntair no call. Faodaidh tu stad aig àm sam bith, agus tha stad letheach slighe na dhòigh math air crìochnachadh."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Dè thachras ma thèid an dealbh ceàrr a tapadh?",
+        "a": "Chan eil dad mì-thlachdmhor. Chan eil buzzer, crois dhearg no crathadh. Tha an geama ag ainmeachadh an dealbh a chaidh a tapadh agus a 'feitheamh airson an ath tap."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A bheil e an-asgaidh, agus am feum mi clàradh?",
+        "a": "Tha, tha e an-asgaidh, agus chan eil cunntas ann, clàradh no luchdachadh sìos. Bidh e ag obair sa bhrobhsair lìn air fòn, clàr no coimpiutair."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Geama sgàil",
+    "seoTitle": "Gèam Maids Sgàil airson Dementia: Air-loidhne an-asgaidh",
+    "h1": "Shadow Match: Gèam Dealbhan Soilleir",
+    "description": "Sgàil dhorcha aig a’ mhullach, dhà no ceithir dealbhan gu h-ìosal. Tap air an dealbh a nì an sgàil. Geama maidsidh sgàil an-asgaidh airson trom-inntinn, gun timer.",
+    "short": "Coimhead air an sgàil agus tap air an dealbh a tha ga dhèanamh.",
+    "players": "1 no 2 neach",
+    "intro": "Tha maidseadh dubhar na ghnìomhachd eòlach bho dhuilleagan-obrach clò-bhuailte, an seo le dealbhan mòra agus gun dad ri chlò-bhualadh. Tha dubhar bog na shuidhe aig mullach an sgrion agus dhà, trì no ceithir dealbhan a’ feitheamh gu h-ìosal. Tap air an fhear a nì an sgàil. Tha e furasta bruidhinn air cumaidhean leithid baidhsagal, sgàilean no cupa tì cuideachd.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Tagh dhà, trì no ceithir dealbhan airson taghadh. Is e dhà an fheadhainn as sìmplidh.",
+      "Seall air an sgàil còmhla. Dè an cruth a th’ air? A bheil e àrd neo cruinn?",
+      "Tap air an dealbh a nì an sgàil. Tha an t-ainm a 'nochdadh fon sgàil.",
+      "Ma thèid tapadh air dealbh eile, tha an geama dìreach ga ainmeachadh agus a’ feitheamh. Air do shocair.",
+      "Tap air \"An ath sgàil\" nuair a bhios tu deiseil airson fear eile."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Lorg dealbh-iomaill an sgàil le meur agus bruidhinn mun chumadh.",
+      "Ma tha faileas a’ faireachdainn cruaidh an-diugh, gluais gu Lorg an aon rud, far a bheil na dealbhan coltach.",
+      "Bruidhinn mun dealbh aon uair 's gu bheil e air a lorg: \"Bha sgàilean mar sin againn.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A bheil timer no sgòr ann?",
+        "a": "Chan eil. Chan eil cloc, sgòr, gluasad cuntair no call. Faodaidh tu stad aig àm sam bith, agus tha stad letheach slighe na dhòigh math air crìochnachadh."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "A bheil maidseadh dubhar math dha daoine le dementia?",
+        "a": "Faodaidh e a bhith na ghnìomhachd tlachdmhor, sìmplidh dha cuid de dhaoine, gu sònraichte anns na h-ìrean as tràithe. Tha cumaidhean nas fhasa aithneachadh na faclan. Tha e airson tlachd agus còmhradh, chan e deuchainn, agus chan eil e a’ làimhseachadh no a’ slaodadh trom-inntinn. Ma dh’ adhbhraicheas e frustrachas, feuch Lorg an aon rud no dìreach coimhead air dealbhan còmhla."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Dè thachras ma thèid an dealbh ceàrr a tapadh?",
+        "a": "Chan eil dad mì-thlachdmhor. Chan eil buzzer, crois dhearg no crathadh. Tha an geama ag ainmeachadh an dealbh a chaidh a tapadh agus a 'feitheamh airson an ath tap."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A bheil e an-asgaidh, agus am feum mi clàradh?",
+        "a": "Tha, tha e an-asgaidh, agus chan eil cunntas ann, clàradh no luchdachadh sìos. Bidh e ag obair sa bhrobhsair lìn air fòn, clàr no coimpiutair."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Deasaich còmhla",
+    "seoTitle": "Gèam Deasachaidh airson Dementia: Deasaich Còmhla",
+    "h1": "Deasaich còmhla: Gnìomh Deasachaidh Dealbhan",
+    "description": "Tap air dealbh, agus an uairsin tap air a’ bhasgaid anns a bheil e: cidsin no gàrradh, measan no beathaichean.",
+    "short": "Cuir gach dealbh sa bhasgaid aige: cidsin no gàrradh, agus barrachd.",
+    "players": "1 no 2 neach",
+    "intro": "Is e obair làitheil air a bheil sinn eòlach a th’ ann an òrdachadh, leithid a bhith a’ cur air falbh grosairean no a’ càradh stocainnean. Tap air dealbh, agus an uairsin tap air a’ bhasgaid far a bheil e. Chan eil cabhag ann agus chan eil tionndadh ceàrr ann.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Tagh cuspair: cidsin agus gàrradh, measan agus beathaichean, no an dachaigh agus siubhal.",
+      "Tap air dealbh. Bidh e a’ faighinn crìoch òir.",
+      "Tap air a' bhasgaid dham buin e. Tha an dealbh a' gluasad dhan bhasgaid sin.",
+      "Ma bhuineas e sa bhasgaid eile, tha an geama ag ràdh cho socair agus a’ feitheamh.",
+      "Nuair a bhios a h-uile dealbh air a rèiteachadh, seall tro na basgaidean còmhla."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Gu tric chan eil freagairtean ceàrr ann am fìor bheatha. Ma tha cuideigin ag ràdh gum buin uisgeachadh sa chidsin, faighnich carson. Is dòcha gum faigh thu deagh sgeul.",
+      "Cleachd na dealbhan mar bhrosnachadh: \"Dè a dh'fhàs thu sa ghàrradh agad?\"",
+      "Tha a bhith a’ rèiteach nithean fìor, leithid spàinean is forcaichean no putanan a rèir dath, na dheagh leantainn air falbh bhon sgrion."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A bheil timer no sgòr ann?",
+        "a": "Chan eil. Chan eil cloc, sgòr, gluasad cuntair no call. Faodaidh tu stad aig àm sam bith, agus tha stad letheach slighe na dhòigh math air crìochnachadh."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Carson a sheòrsachadh?",
+        "a": "Is toil le mòran dhaoine a bhith a’ rèiteach oir tha e a’ faireachdainn mar obair fheumail, eòlach. Tha e furasta cuideachd bruidhinn mu na dealbhan mar a thèid thu air adhart."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A bheil e an-asgaidh, agus am feum mi clàradh?",
+        "a": "Tha, tha e an-asgaidh, agus chan eil cunntas ann, clàradh no luchdachadh sìos. Bidh e ag obair sa bhrobhsair lìn air fòn, clàr no coimpiutair."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Tòimhseachan dealbh",
+    "seoTitle": "Tòimhseachan Jigsaw Easy airson Dementia: 4 no 9 pìosan",
+    "h1": "Tòimhseachan Dealbhan: Jigsaw Easy",
+    "description": "Jigsaw furasta air-loidhne dha daoine le trom-inntinn: 4 no 9 pìosan mòra, bidh an dealbh gu lèir ri fhaicinn, agus bidh thu a’ tapadh dà phìos gus an suaipeadh.",
+    "short": "Tap air dà phìos gus an atharrachadh gus am bi an dealbh slàn.",
+    "players": "1 no 2 neach",
+    "intro": "Tha dealbh càirdeil air a ghearradh ann an ceithir no naoi pìosan mòra agus air a mheasgachadh. Tha an dealbh gu lèir fhathast ri fhaicinn mar stiùireadh. Tap air aon phìos, an uairsin pìos eile, agus bidh iad ag iomlaid àiteachan. Chan eil feum air tarraing.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Tagh dealbh agus 4 no 9 pìosan. Is e tòiseachadh socair a th’ ann an ceithir.",
+      "Seall air an dealbh gu lèir aig a’ mhullach.",
+      "Tap air pìos, an uairsin tap air an àite far am bu chòir dha a dhol. Bidh an dà phìos ag atharrachadh.",
+      "Bidh pìosan san àite cheart a’ faighinn comharra seic beag.",
+      "Nuair a tha an dealbh slàn, faigh tlachd às còmhla, an uairsin tagh fear eile."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Tha e mòran nas fhasa dà phìos a bhrùthadh na bhith gan slaodadh dha mòran dhaoine.",
+      "Bruidhinn mun dealbh mar a tha e a 'tighinn còmhla: \"Tha am mullach dearg.\"",
+      "Tha fìor jigsaw fiodha le 12 gu 24 pìosan mòra na ghnìomhachd bùird math cuideachd."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A bheil timer no sgòr ann?",
+        "a": "Chan eil. Chan eil cloc, sgòr, gluasad cuntair no call. Faodaidh tu stad aig àm sam bith, agus tha stad letheach slighe na dhòigh math air crìochnachadh."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Am feum mi na pìosan a shlaodadh?",
+        "a": "Chan eil. Tap air aon phìos, an uair sin tap air fear eile, agus atharraichidh iad àiteachan. Tha seo nas fhasa le làmh air chrith no air sgrion beag."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A bheil e an-asgaidh, agus am feum mi clàradh?",
+        "a": "Tha, tha e an-asgaidh, agus chan eil cunntas ann, clàradh no luchdachadh sìos. Bidh e ag obair sa bhrobhsair lìn air fòn, clàr no coimpiutair."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Cuir crìoch air an abairt",
+    "seoTitle": "Cuir crìoch air an abairt: Gèam Seanfhaclan airson Seann Daoine",
+    "h1": "Cuir crìoch air an abairt",
+    "description": "Abairtean Ameireaganach eòlach leis an fhacal mu dheireadh a dhìth, mar “Is e sgillinn a th’ air a shàbhaladh sgillinn ___”.",
+    "short": "Cuir crìoch air abairtean eòlach còmhla, agus an uairsin bruidhinn mun deidhinn.",
+    "players": "1, 2 no buidheann",
+    "intro": "Tha sean bhriathran gu tric ainmeil fad ar beatha. Tha gach cairt a’ sealltainn abairt eòlach leis an fhacal mu dheireadh a dhìth, trì roghainnean, agus putan “Seall an deireadh”. Às deidh an deireadh, bidh ceist shocair a’ toirt cuireadh do chòmhradh.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Leugh an abairt gu h-àrd còmhla.",
+      "Tap air an fhacal a chuireas crìoch air, no tap air “Seall an deireadh”.",
+      "Leugh an abairt gu lèir a-rithist agus bruidhinn mu dheidhinn a’ cleachdadh an luath.",
+      "Tap \"An ath abairt\" nuair a bhios tu deiseil."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Leugh gu slaodach agus fàg fois ron fhacal mu dheireadh. Gu math tric bidh daoine ga ràdh mus crìochnaich thu.",
+      "Ma bheir cuideigin crìoch eadar-dhealaichte, faigh tlachd às. Bidh cuid de dhreachan abairtean ag atharrachadh a rèir teaghlach no sgìre.",
+      "Ann am buidheann, bidh aon neach a’ leughadh agus bidh a h-uile duine a’ gabhail pàirt air an deireadh."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A bheil timer no sgòr ann?",
+        "a": "Chan eil. Chan eil cloc, sgòr, gluasad cuntair no call. Faodaidh tu stad aig àm sam bith, agus tha stad letheach slighe na dhòigh math air crìochnachadh."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Dè ma roghnaicheas sinn facal eile?",
+        "a": "Tha an geama a 'sealltainn an deireadh àbhaisteach agus a' gluasad air adhart gu còmhradh. Chan eil sgòr ann, agus tha freagairt eile ceart gu leòr."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A bheil e an-asgaidh, agus am feum mi clàradh?",
+        "a": "Tha, tha e an-asgaidh, agus chan eil cunntas ann, clàradh no luchdachadh sìos. Bidh e ag obair sa bhrobhsair lìn air fòn, clàr no coimpiutair."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Rannsachadh facal le clò mòr",
+    "seoTitle": "Rannsachadh Facal Clò Mòr airson Dementia, Clò-bhuailte",
+    "h1": "Rannsachadh Facal Clò Mòr",
+    "description": "Rannsachadh fhaclan ann an clò mòr an-asgaidh airson seann daoine agus daoine le dementia. Beagan fhaclan, litrichean mòra, faclan tarsainn is sìos a-mhàin.",
+    "short": "Litrichean mòra, beagan fhaclan, tarsainn is sìos a-mhàin. Clò-bhuail e cuideachd.",
+    "players": "1 no 2 neach",
+    "intro": "Grid bheag le litrichean mòra agus dìreach dòrlach de dh’fhaclan, uile a’ leughadh tarsainn no sìos. Tap air a’ chiad litir de fhacal, an uairsin an litir mu dheireadh aige. B’ fheàrr le pàipear? Clò-bhuail tòimhseachan ùr ann an aon tap.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Tagh cuspair agus meud clèithe.",
+      "Thoir sùil air an liosta fhaclan. Faclan air an leughadh thairis (clì gu deas) no sìos (mullach gu bonn).",
+      "Tap air a’ chiad litir de fhacal, agus an uairsin thoir gnogag air an litir mu dheireadh aige.",
+      "Tha facal a chaidh a lorg air a chomharrachadh agus air a tharraing far an liosta.",
+      "Tap air \"Clò-bhuail an tòimhseachan seo\" gus cluich air pàipear le peansail no comharran."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Comharraich facal air an liosta agus coimhead airson a’ chiad litir aige còmhla.",
+      "Air pàipear, tha e nas fhasa inneal-solais a chumail na peansail.",
+      "Bruidhinn mu na faclan cuspair. Tha faclan measan nan dòigh nàdarra a-steach do chuimhneachain air buain, bèicearachd no margaidhean."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A bheil timer no sgòr ann?",
+        "a": "Chan eil. Chan eil cloc, sgòr, gluasad cuntair no call. Faodaidh tu stad aig àm sam bith, agus tha stad letheach slighe na dhòigh math air crìochnachadh."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Am faod mi an rannsachadh facal a chlò-bhualadh?",
+        "a": "Tha. Tap air “Clò-bhuail an tòimhseachan seo” gus a’ ghriod gnàthach a chlò-bhualadh ann an clò mòr, leis an liosta fhaclan gu h-ìosal. Tha a h-uile tòimhseachan ùr eadar-dhealaichte."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A bheil e an-asgaidh, agus am feum mi clàradh?",
+        "a": "Tha, tha e an-asgaidh, agus chan eil cunntas ann, clàradh no luchdachadh sìos. Bidh e ag obair sa bhrobhsair lìn air fòn, clàr no coimpiutair."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Dathadh duilleagan",
+    "seoTitle": "Duilleagan dathte airson inbhich le dementia (an-asgaidh)",
+    "h1": "Duilleagan dathte",
+    "description": "Duilleagan dathte inbheach sìmplidh le raointean mòra: tap air dath, agus an uairsin tap air an dealbh.",
+    "short": "Tap air dath, an uairsin pàirt den dealbh. Clò-bhuail duilleagan cuideachd.",
+    "players": "1 no 2 neach",
+    "intro": "Duilleagan le cumaidhean mòra, sìmplidh: flùr ann am poit, taigh, cupa tì, dealan-dè agus bàta-siùil. Tap air dath, an uairsin tap air pàirt den dealbh gus a lìonadh. Chan eil dathan ceàrr ann.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Tagh duilleag.",
+      "Tap air dath. Tha ainm gach dath sgrìobhte air.",
+      "Tap air pàirt den dealbh gus a lìonadh leis an dath sin.",
+      "Atharraich d’ inntinn uair sam bith le bhith ga lìonadh a-rithist.",
+      "Tap air \"Clò-bhuail an duilleag seo\" airson duilleag bàn airson a dhath le peansailean no comharran."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Thoir seachad dà dhath airson taghadh seach an seata gu lèir ma tha taghadh a’ faireachdainn mar cus.",
+      "Tha fàilte air craobhan purpaidh agus grian gorm. Tha seo mu dheidhinn dath a mhealtainn, chan e cruinneas.",
+      "Bidh duilleagan clò-bhuailte ag obair gu math le comharran tiugh no creagan, a tha nas fhasa grèim fhaighinn orra."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A bheil timer no sgòr ann?",
+        "a": "Chan eil. Chan eil cloc, sgòr, gluasad cuntair no call. Faodaidh tu stad aig àm sam bith, agus tha stad letheach slighe na dhòigh math air crìochnachadh."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "A bheil na duilleagan seo ro leanabh?",
+        "a": "Tharraing sinn nithean ciùin, sìmplidh seach cartùnaichean, agus mar sin tha na duilleagan a’ freagairt air inbhich. Bidh cumaidhean mòra a’ cumail dathadh furasta gun a bhith pàisdeach."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A bheil e an-asgaidh, agus am feum mi clàradh?",
+        "a": "Tha, tha e an-asgaidh, agus chan eil cunntas ann, clàradh no luchdachadh sìos. Bidh e ag obair sa bhrobhsair lìn air fòn, clàr no coimpiutair."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Cairtean còmhraidh",
+    "seoTitle": "Luchd-tòiseachaidh còmhraidh airson Dementia: Cairtean Dealbhan",
+    "h1": "Cairtean Còmhraidh",
+    "description": "Cairtean dhealbhan le tòiseachadh còmhraidh socair dha daoine a tha a’ fuireach le trom-inntinn: gun cheasnachadh, gun fhreagairtean ceart.",
+    "short": "Cairtean dealbhan le ceistean fosgailte, socair. Gun cheasnachadh.",
+    "players": "2 neach no buidheann",
+    "intro": "Bidh gach cairt a’ cur dealbh air a bheil thu eòlach le cuireadh fosgailte airson bruidhinn, leithid “Dè an seòrsa sìde as fheàrr leat?” Chan eil freagairtean ceart ann agus chan eil dad ri chuimhneachadh. Tagh cuspair no atharraich iad uile.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Tagh cuspair, no cùm \"A h-uile cairt\".",
+      "Leugh a’ cheist gu h-àrd agus thoir sùil air an dealbh còmhla.",
+      "Eisd, roinn do fhreagairt fhèin, agus leig leis a’ chòmhradh a dhol air seachran.",
+      "Tap air \"An ath chairt\" nuair a bhios tu deiseil, no fuirich le aon chairt cho fad 's as toil leat.",
+      "Tap air \"Clò-bhuail a h-uile cairt\" gus seata pàipeir a ghearradh a-mach."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Freagair a’ cheist thu fhèin cuideachd. Tha e a’ faireachdainn mar chòmhradh, chan e agallamh.",
+      "Lean an sgeulachd, chan e na fìrinnean. Ma dh’ atharraicheas mion-fhiosrachadh, tha sin ceart gu leòr.",
+      "Ma tha cairt a’ suathadh ri rudeigin brònach, aithnich am faireachdainn agus gluais gu socair gu cairt eile."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Carson nach eil \"A bheil cuimhne agad ...?\" ceistean?",
+        "a": "Faodaidh ceistean a nì deuchainn cuimhne a bhith a’ faireachdainn mar dheuchainn agus a bhith ag adhbhrachadh nàire. Cuiridhean fosgailte leithid “Innis dhomh mu dheidhinn…” leig le duine sam bith pàirt a ghabhail ann, ge bith dè a chuimhnicheas iad."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Am faod mi na cairtean a chlò-bhualadh?",
+        "a": "Tha. Bidh \"Clò-bhuail a h-uile cairt\" a 'clò-bhualadh an t-seata slàn ann an seòrsa mòr, grunn chairtean air gach duilleag, deiseil airson a ghearradh a-mach."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A bheil e an-asgaidh, agus am feum mi clàradh?",
+        "a": "Tha, tha e an-asgaidh, agus chan eil cunntas ann, clàradh no luchdachadh sìos. Bidh e ag obair sa bhrobhsair lìn air fòn, clàr no coimpiutair."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Paidhir dhealbhan",
+    "seoTitle": "Dèan geama maidsidh bho dhealbhan teaghlaich",
+    "h1": "Paidhir dhealbhan: Dèan maids eadar na dealbhan agad fhèin",
+    "description": "Tionndaidh na dealbhan teaghlaich agad fhèin gu geama maidsidh socair.",
+    "short": "Tagh na dealbhan agad fhèin agus maids iad. Chan eil dad air a luchdachadh suas.",
+    "players": "2 neach, taobh ri taobh",
+    "intro": "Tagh dhà no sia dealbhan bhon fhòn, clàr no coimpiutair agad, agus bidh iad nan geama maidsidh le dealbhan mòra, faicsinneach. Chan eil na dealbhan air an sealltainn ach air an duilleag seo. Chan eil iad air an luchdachadh suas, air an sàbhaladh no air an roinn, agus falbhaidh iad nuair a dhùin thu an duilleag.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tap \"Tagh dealbhan\" agus tagh dhà no sia dealbhan.",
+      "Bidh gach dealbh a’ nochdadh dà uair. Tap air aon, an uairsin tap air a chàraid.",
+      "Bruidhinn mu gach dealbh mar a lorgas tu e.",
+      "Nuair a bhios tu deiseil, dùin an duilleag no thoir gnogag air “Clear photos”. Chan eil dad air a chumail."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Tagh dealbhan soilleir de rudan sona, eòlach: peata, gàrradh, àite as fheàrr leat, latha pòsaidh.",
+      "Faodaidh dealbhan de dh’àiteachan agus de nithean a bhith nas fhasa na aghaidhean, agus bidh iad a’ seachnadh cuideam sam bith gus daoine ainmeachadh.",
+      "Fàg a-mach dealbhan de dhaoine a bhàsaich ma dh’ fhaodadh iad bròn obann a thoirt, mura h-eil fios agad gun toir iad comhfhurtachd dhaibh."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "A bheil na dealbhan agam air an luchdachadh suas an àite sam bith?",
+        "a": "Chan eil. Leughaidh an duilleag na dealbhan a thaghas tu gu dìreach sa bhrobhsair agad agus seallaidh e iad air do sgrion. Chan eil iad air an cur thugainn no gu duine sam bith eile, agus tha iad air falbh nuair a dhùin thu no ath-luchdaich thu an duilleag."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "A bheil timer no sgòr ann?",
+        "a": "Chan eil. Chan eil cloc, sgòr, gluasad cuntair no call. Faodaidh tu stad aig àm sam bith, agus tha stad letheach slighe na dhòigh math air crìochnachadh."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Am faod mi an geama a shàbhaladh airson an ath thuras?",
+        "a": "Chan ann sa bhrobhsair, le dealbhadh, agus mar sin chan eil dad prìobhaideach air a stòradh. Faodaidh an app Golden Moments an-asgaidh airson iPhone is iPad lethbhric de dhealbhan taghte a chumail air an inneal agad."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Dealbh bingo",
+    "seoTitle": "Bingo Dealbhan airson Seann Daoine le Dementia: Clò-bhuailte",
+    "h1": "Dealbh Bingo airson Buidhnean",
+    "description": "Bingo dealbhan clò-bhuailte an-asgaidh airson cùram cuimhne agus buidhnean nas sine, le neach-fios mòr air an sgrion.",
+    "short": "Cairtean bingo dealbhan clò-bhuailte agus neach-fios sgrion mòr airson buidhnean.",
+    "players": "Buidheann de 2 gu 30",
+    "intro": "Bingo clasaigeach le dealbhan an àite àireamhan, agus mar sin chan fheum duine clò beag a leughadh. Clò-bhuail seata de chairtean sònraichte, agus an uairsin cleachd an neach-fios air-sgrion gus gach dealbh mòr a shealltainn air Tbh, laptop no clàr.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Tagh 9 no 16 ceàrnagan gach cairt agus cia mheud cluicheadair.",
+      "Tap \"Clò-bhuail cairtean\". Tha gach cairt eadar-dhealaichte.",
+      "Fosgail an neach-fios air scrion mhòr. Tap air \"An ath dhealbh\" gus gach dealbh a shealltainn leis an ainm.",
+      "Bidh cluicheadairean a’ còmhdach an dealbh maidsidh air a’ chairt aca le bonn airgid, putan no comharra.",
+      "Bidh a h-uile duine a lìonas sreath, no a 'chairt gu lèir, a' faighinn gàirdeachas. Chan eil luchd-call san dreach seo: cùm a’ cluich gus am bi loidhne aig a h-uile duine."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Cleachd comharran mòra leithid seicichean no caiptean botal. Faodaidh putanan beaga a bhith duilich a thogail.",
+      "Ainmich an dealbh agus abair rudeigin mu dheidhinn: \"Soitheach-seòlaidh. Cò a th' air a bhith a-muigh air bàta?\"",
+      "Suidh daoine le duilgheadas a 'faicinn nas fhaisge air an sgrion, agus paidhir luchd-cuideachaidh le cluicheadairean a tha feumach orra.",
+      "Tha naoi ceàrnagan gu leòr airson a’ mhòr-chuid de bhuidhnean. Cùm an seisean timcheall air 20 gu 30 mionaid."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ciamar a ruitheas mi bingo dealbhan ann an dachaigh-cùraim?",
+        "a": "Clò-bhuail aon chairt airson gach cluicheadair, cuir an neach-fios air an sgrion as motha a th’ agad, agus gairm dealbhan gu slaodach, ag ainmeachadh gach fear. Cluich gus am bi loidhne aig a h-uile duine, gus nach bi duine air fhàgail a-mach."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "A bheil e an-asgaidh clò-bhualadh?",
+        "a": "Tha. Clò-bhuail na h-uimhir de chairtean a dh’ fheumas tu, cho tric ‘s a thogras tu, airson cleachdadh pearsanta no buidhne."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "An urrainn dha daoine cluich gun leughadh?",
+        "a": "Tha. Is e dealbh mòr a th’ anns a h-uile ceàrnag, le ainm gu h-ìosal dhaibhsan a tha dèidheil air faclan."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Anail socair",
+    "seoTitle": "Stad anail socair dha seann daoine agus luchd-cùraim",
+    "h1": "Stad anail ciùin",
+    "description": "Stad anail slaodach, sàmhach airson a roinn: bidh cearcall socair a’ fàs agus a’ crìonadh airson sia anail. Tòisichidh tu e, agus faodaidh tu stad uair sam bith.",
+    "short": "Cearcall slaodach airson anail a tharraing còmhla ris. Tòisich agus stad nuair a thogras tu.",
+    "players": "1 no 2 neach",
+    "intro": "Uaireannan is e stad sàmhach an gnìomhachd as fheàrr. Tap air “Start”, an uairsin gabh anail a-steach fhad ‘s a bhios an cearcall a’ fàs agus a-mach fhad ‘s a tha e a’ crìonadh. Tagh astar nas slaodaiche no nas luaithe. Chan e làimhseachadh a th’ ann, dìreach àm sìtheil airson a roinn.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Suidh gu comhfhurtail taobh ri taobh.",
+      "Tagh astar: slaodach no socair.",
+      "Tap air \"Start\". Gabh anail a-steach fhad ‘s a bhios an cearcall a’ fàs, agus a-mach fhad ‘s a tha e a’ crìonadh.",
+      "Bidh e a’ stad leis fhèin às deidh sia anail, no tap air “Stop” uair sam bith a thogras tu."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Cum do làmhan no cuir do làmh air gàirdean an duine ma tha fàilte air sin.",
+      "Na seas a-riamh. Nam b’ fheàrr leotha coimhead, tha sin ceart gu leòr.",
+      "Ma tha duilgheadasan anail aig cuideigin, gabh anail gu h-àbhaisteach agus dìreach coimhead air a’ chearcall. Faighnich don dotair mu dhraghan anail sam bith."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "An e eacarsaich anail meidigeach a tha seo?",
+        "a": "Chan e. Tha e na stad sìmplidh, roghainneil airson socair agus companaidh. Chan e làimhseachadh a th’ ann airson iomagain no suidheachadh sam bith. Bruidhinn ri dotair mu dhraghan slàinte."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "A bheil an cearcall a’ gluasad gun mise a’ tòiseachadh air?",
+        "a": "Chan eil. Cha ghluais. Ma tha an inneal agad air a shuidheachadh gus gluasad a lùghdachadh, bidh na faclan ag atharrachadh gun a 'chearcall a' fàs."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "A bheil e an-asgaidh, agus am feum mi clàradh?",
+        "a": "Tha, tha e an-asgaidh, agus chan eil cunntas ann, clàradh no luchdachadh sìos. Bidh e ag obair sa bhrobhsair lìn air fòn, clàr no coimpiutair."
       }
     ]
   }

@@ -150,7 +150,14 @@ function WordSearchGame(props: PlayProps) {
                 {ui.wordSearch.restart}
               </button>
             ) : null}
-            <button type="button" className={allFound ? 'btn' : 'btn btn--primary'} onClick={() => window.print()}>
+            <button
+              type="button"
+              className={allFound ? 'btn' : 'btn btn--primary'}
+              onClick={() => {
+                sounds.tap();
+                window.print();
+              }}
+            >
               <Icon name="print" />
               {ui.wordSearch.print}
             </button>

@@ -73,6 +73,7 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
             type="button"
             className="btn"
             onClick={() => {
+              sounds.tap();
               track('activity_restart');
               const s = speechOf();
               if (s) stopReading(s);
@@ -102,6 +103,7 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
           className="btn btn--quiet"
           href={localePath(lang, '/games/')}
           onClick={() => {
+            sounds.tap();
             track('activity_done');
             const s = speechOf();
             if (s) stopReading(s);
@@ -121,10 +123,24 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
             <>
               <p id="game-feedback-question">{ui.frame.feedbackQuestion}</p>
               <div role="group" aria-labelledby="game-feedback-question" className="game__feedback-choices">
-                <button type="button" className="btn btn--quiet" onClick={() => giveFeedback('yes')}>
+                <button
+                  type="button"
+                  className="btn btn--quiet"
+                  onClick={() => {
+                    sounds.tap();
+                    giveFeedback('yes');
+                  }}
+                >
                   {ui.frame.feedbackYes}
                 </button>
-                <button type="button" className="btn btn--quiet" onClick={() => giveFeedback('not_really')}>
+                <button
+                  type="button"
+                  className="btn btn--quiet"
+                  onClick={() => {
+                    sounds.tap();
+                    giveFeedback('not_really');
+                  }}
+                >
                   {ui.frame.feedbackNo}
                 </button>
               </div>

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Карцінкі пары",
+    "seoTitle": "Гульня на адпаведнасць пры дэменцыі: Парныя малюнкі",
+    "h1": "Парныя малюнкі: далікатная гульня на супастаўленне",
+    "description": "Бясплатная, далікатная гульня на супадзенні для людзей, якія жывуць з дэменцыяй.",
+    "short": "Знайдзіце дзве аднолькавыя карцінкі. Выявы могуць працягваць паказвацца.",
+    "players": "1 ці 2 чалавекі, побач",
+    "intro": "Дакраніцеся да выявы, затым дакраніцеся да той, якая ёй адпавядае. Фотаздымкі застаюцца паказанымі па змаўчанні, таму нічога не трэба запамінаць. Калі дзве фатаграфіі спалучаюцца, яны атрымліваюць залатую аблямоўку і галачку.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Выберыце, колькі плітак выкарыстоўваць. Чатыры пліткі - гэта спакойнае месца для пачатку.",
+      "Націсніце любую карцінку. Ён атрымлівае залатую аблямоўку.",
+      "Дакраніцеся да выявы, якая выглядае аднолькава. Пара застаецца разам з галачкай.",
+      "Калі дзве фатаграфіі розныя, нічога страшнага не адбываецца. Націсніце яшчэ раз, калі будзеце гатовыя.",
+      "Уключайце «Схаваныя карцінкі», толькі калі вам абодвум падабаецца класічная версія тварам уніз."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Разам услых назавіце малюнкі і паразмаўляйце пра іх: \"Чырвоная кубак гарбаты. Вы п'яце малако ў гарбаце?\"",
+      "Дазвольце чалавеку, які вам даглядае, зрабіць пастукванне, нават калі гэта зойме некаторы час. Навядзіце іх, а не націскайце.",
+      "Заставайцеся з чатырма пліткамі столькі, колькі вам будзе прыемна. Больш плітак - гэта выбар, а не ўзровень, якога трэба дасягнуць.",
+      "Скончыце, пакуль яшчэ прыемна. Адна гульня - гэта цэлая дзейнасць."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ці ёсць таймер або лік?",
+        "a": "Няма. Няма гадзінніка, ачкоў, лічыльніка хадоў і паражэнняў. Вы можаце спыніцца ў любы момант, і спыніцца на паўдарозе - цалкам добры спосаб скончыць."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Чаму малюнкі застаюцца тварам уверх?",
+        "a": "Захаванне малюнкаў бачнымі ператварае гульню ў пошук і супастаўленне, а не ў запамінанне. Шмат каму гэта спакайней. Вы можаце пераключыцца на схаваныя выявы адным націскам, калі хочаце."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Гэта бясплатна і ці трэба мне рэгістравацца?",
+        "a": "Так, гэта бясплатна, і тут няма ўліковага запісу, рэгістрацыі або загрузкі. Ён працуе ў вэб-браўзеры на тэлефоне, планшэце або кампутары."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Ці можам мы выкарыстоўваць нашы ўласныя сямейныя фатаграфіі?",
+        "a": "так. Паспрабуйце фотапары, якія дазваляюць выбіраць фатаграфіі са сваёй прылады. Фатаграфіі застаюцца ў вашым браўзеры і не загружаюцца."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Знайдзіце такія ж",
+    "seoTitle": "Find the same Picture: Simple Dementia Game",
+    "h1": "Знайдзі тое ж самае",
+    "description": "Адзін малюнак уверсе, два-чатыры ўнізе. Дакраніцеся да аднолькавага. Спакойная бясплатная гульня з малюнкамі для людзей з дэменцыяй без таймера.",
+    "short": "Паглядзіце на малюнак уверсе і націсніце на тое ж самае ўнізе.",
+    "players": "1 ці 2 чалавекі",
+    "intro": "Адзін малюнак знаходзіцца ў верхняй частцы экрана. Пад ім дзве, тры ці чатыры карцінкі. Дакраніцеся да аднолькавага. Гэта адзін просты выбар за раз, з вялікай колькасцю месца для размовы.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Выберыце дзве, тры ці чатыры карцінкі на выбар. Два - самае простае.",
+      "Паглядзіце разам на малюнак уверсе.",
+      "Дакраніцеся да таго ж малюнка ніжэй. Адзначаецца чэкам і некалькімі цёплымі словамі.",
+      "Калі націснуць іншую карцінку, гульня проста дае ёй назву і чакае. Не спяшайцеся.",
+      "Націсніце «Наступны малюнак», калі будзеце гатовыя да іншага."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Пагаворыце аб кожным малюнку, перш чым выбраць: колеры, формы, дзе вы можаце яго ўбачыць.",
+      "Два варыянты не «занадта простыя». Мэта - гэта прыемны момант, а не выклік.",
+      "Калі націскаць цяжка, чалавек можа паказаць, і вы можаце націснуць за яго."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ці ёсць таймер або лік?",
+        "a": "Няма. Няма гадзінніка, ачкоў, лічыльніка хадоў і паражэнняў. Вы можаце спыніцца ў любы момант, і спыніцца на паўдарозе - цалкам добры спосаб скончыць."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Што адбудзецца, калі націснуць няправільны малюнак?",
+        "a": "Нічога непрыемнага. Няма ні гудка, ні чырвонага крыжа, ні трасяніны. Гульня называе малюнак, якое было націснута, і чакае наступнага націску."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Гэта бясплатна і ці трэба мне рэгістравацца?",
+        "a": "Так, гэта бясплатна, і тут няма ўліковага запісу, рэгістрацыі або загрузкі. Ён працуе ў вэб-браўзеры на тэлефоне, планшэце або кампутары."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Матч ценяў",
+    "seoTitle": "Гульня Shadow Matching для дэменцыі: бясплатная онлайн",
+    "h1": "Shadow Match: далікатная гульня з малюнкамі",
+    "description": "Цёмны цень уверсе, дзве-чатыры фатаграфіі ўнізе. Націсніце на малюнак, які стварае цень. Бясплатная, спакойная гульня на падбор ценяў для дэменцыі без таймера.",
+    "short": "Паглядзіце на цень і націсніце на малюнак, які робіць яго.",
+    "players": "1 ці 2 чалавекі",
+    "intro": "Супастаўленне ценяў - гэта знаёмае занятак з друкаваных аркушаў, тут з вялікімі малюнкамі і няма чаго друкаваць. Мяккі цень знаходзіцца ў верхняй частцы экрана, а дзве, тры ці чатыры выявы чакаюць унізе. Дакраніцеся да той, якая робіць цень. Пра такія формы, як ровар, парасон або кубак, таксама лёгка гаварыць.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Выберыце дзве, тры ці чатыры карцінкі на выбар. Два - самае простае.",
+      "Разам паглядзіце на цень. Якой ён формы? Ён высокі ці круглы?",
+      "Націсніце на малюнак, які стварае цень. Яго назва з'яўляецца пад ценем.",
+      "Калі націснуць іншую карцінку, гульня проста дае ёй назву і чакае. Не спяшайцеся.",
+      "Націсніце «Наступны цень», калі будзеце гатовыя да іншага."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Абвядзіце пальцам контуры цені і раскажыце пра форму.",
+      "Калі сёння цені здаюцца цяжкімі, пераключыцеся на Знайсці аднолькавыя, дзе малюнкі падобныя.",
+      "Размова пра малюнак, калі ён знойдзены: «У нас быў такі парасон»."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ці ёсць таймер або лік?",
+        "a": "Няма. Няма гадзінніка, ачкоў, лічыльніка хадоў і паражэнняў. Вы можаце спыніцца ў любы момант, і спыніцца на паўдарозе - цалкам добры спосаб скончыць."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Ці добра падбор ценяў для людзей з дэменцыяй?",
+        "a": "Для некаторых людзей гэта можа быць прыемным і простым заняткам, асабліва на ранніх стадыях. Формы лягчэй распазнаць, чым словы. Гэта для задавальнення і размовы, а не для тэсту, і яно не лечыць і не запавольвае дэменцыю. Калі гэта выклікае расчараванне, паспрабуйце знайсці аднолькавае або проста паглядзіце фатаграфіі разам."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Што адбудзецца, калі націснуць няправільны малюнак?",
+        "a": "Нічога непрыемнага. Няма ні гудка, ні чырвонага крыжа, ні трасяніны. Гульня называе малюнак, якое было націснута, і чакае наступнага націску."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Гэта бясплатна і ці трэба мне рэгістравацца?",
+        "a": "Так, гэта бясплатна, і тут няма ўліковага запісу, рэгістрацыі або загрузкі. Ён працуе ў вэб-браўзеры на тэлефоне, планшэце або кампутары."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Сартаваць разам",
+    "seoTitle": "Гульня на сартаванне пры дэменцыі: Сартуйце разам",
+    "h1": "Сартуйце разам: занятак па сартаванні малюнкаў",
+    "description": "Дакраніцеся да выявы, затым дакраніцеся да кошыка, да якога яна належыць: кухня ці сад, садавіна ці жывёлы. Спакойнае бясплатнае сартаванне для людзей з дэменцыяй.",
+    "short": "Змесціце кожную карцінку ў свой кошык: кухню або сад і інш.",
+    "players": "1 ці 2 чалавекі",
+    "intro": "Сартаванне - гэта звыклая паўсядзённая задача, якая прыносіць задавальненне, напрыклад, складванне прадуктаў або спалучэнне шкарпэтак. Націсніце на малюнак, затым націсніце на кошык, дзе яно належыць. Няма спешкі і няправільнага павароту.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Выберыце тэму: кухня і сад, садавіна і жывёлы або дом і падарожжа.",
+      "Націсніце на малюнак. Ён атрымлівае залатую аблямоўку.",
+      "Дакраніцеся да кошыка, да якога ён належыць. Малюнак перамяшчаецца ў гэты кошык.",
+      "Калі гэта месца ў іншым кошыку, гульня гаворыць гэта мякка і чакае.",
+      "Калі ўсе малюнкі будуць адсартаваныя, праглядзіце кошыкі разам."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "У рэальным жыцці часта не бывае няправільных адказаў. Калі хтосьці скажа, што лейка павінна быць на кухні, спытайце, чаму. Вы можаце атрымаць добрую гісторыю.",
+      "Выкарыстоўвайце малюнкі ў якасці падказкі: «Што ты вырасціў у сваім садзе?»",
+      "Сартаванне рэальных аб'ектаў, такіх як лыжкі і відэльцы або гузікі па колеры, - гэта выдатны працяг удалечыні ад экрана."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ці ёсць таймер або лік?",
+        "a": "Няма. Няма гадзінніка, ачкоў, лічыльніка хадоў і паражэнняў. Вы можаце спыніцца ў любы момант, і спыніцца на паўдарозе - цалкам добры спосаб скончыць."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Навошта сартаваць?",
+        "a": "Многім людзям падабаецца сартаванне, таму што гэта здаецца карыснай, знаёмай працай. Таксама лёгка размаўляць пра фатаграфіі, калі вы ідзяце."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Гэта бясплатна і ці трэба мне рэгістравацца?",
+        "a": "Так, гэта бясплатна, і тут няма ўліковага запісу, рэгістрацыі або загрузкі. Ён працуе ў вэб-браўзеры на тэлефоне, планшэце або кампутары."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Малюнак-пазл",
+    "seoTitle": "Лёгкая галаваломка для дэменцыі: 4 ці 9 частак",
+    "h1": "Карцінка-галаваломка: лёгкая галаваломка",
+    "description": "Лёгкая онлайн-пазыка для людзей з дэменцыяй: 4 ці 9 вялікіх частак, уся карціна застаецца бачнай, і вы націскаеце дзве часткі, каб памяняць іх месцамі.",
+    "short": "Націсніце дзве часткі, каб памяняць іх месцамі, пакуль карцінка не стане цэлай.",
+    "players": "1 ці 2 чалавекі",
+    "intro": "Дружную карцінку разразаюць на чатыры-дзевяць вялікіх частак і змешваюць. Усё малюнак застаецца бачным у якасці арыентыру. Націсніце на адну частку, потым на другую, і яны памяняюцца месцамі. Перацягваць не трэба.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Выберыце карцінку і 4 ці 9 штук. Чатыры - гэта мяккі пачатак.",
+      "Паглядзіце на ўсю карцінку ўверсе.",
+      "Дакраніцеся да часткі, затым дакраніцеся да месца, куды яна павінна ісці. Дзве часткі мяняюцца месцамі.",
+      "Часткі ў патрэбным месцы атрымліваюць невялікую галачку.",
+      "Калі карцінка цэлая, палюбуйцеся ёю разам, потым выберыце іншую."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Многім людзям нашмат прасцей націснуць дзве часткі, каб памяняць іх месцамі, чым перацягнуць.",
+      "Кажаце пра карціну, калі яна складаецца: «Вось чырвоны дах».",
+      "Сапраўдны драўляны лобзік з 12-24 вялікімі дэталямі таксама з'яўляецца выдатным заняткам на стале."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ці ёсць таймер або лік?",
+        "a": "Няма. Няма гадзінніка, ачкоў, лічыльніка хадоў і паражэнняў. Вы можаце спыніцца ў любы момант, і спыніцца на паўдарозе - цалкам добры спосаб скончыць."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Ці трэба цягаць кавалкі?",
+        "a": "Не. Дакраніцеся да адной часткі, потым дакраніцеся да іншай, і яны памяняюцца месцамі. Гэта прасцей з дрыготкай рукой або на маленькім экране."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Гэта бясплатна і ці трэба мне рэгістравацца?",
+        "a": "Так, гэта бясплатна, і тут няма ўліковага запісу, рэгістрацыі або загрузкі. Ён працуе ў вэб-браўзеры на тэлефоне, планшэце або кампутары."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Закончыце прыказку",
+    "seoTitle": "Скончы прыказку: гульня-прыказка для пажылых людзей",
+    "h1": "Скончыць прыказку",
+    "description": "Знаёмыя амерыканскія прымаўкі з адсутнасцю апошняга слова, напрыклад, \"A penny saved is a penny ___\".",
+    "short": "Разам дапоўніце знаёмыя выслоўі, потым раскажыце пра іх.",
+    "players": "1, 2 або група",
+    "intro": "Старыя прымаўкі часта добра вядомыя на ўсё жыццё. Кожная карта паказвае знаёмае выслоўе з прапушчаным апошнім словам, тры варыянты і кнопку «Паказаць канцоўку». Пасля заканчэння далікатнае пытанне запрашае да размовы.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Разам услых прачытайце прыказку.",
+      "Націсніце на слова, якое заканчвае яго, або націсніце «Паказаць канчатак».",
+      "Прачытайце прыказку цалкам і абгаворыце яе, выкарыстоўваючы падказку.",
+      "Націсніце «Наступнае выказванне», калі будзеце гатовыя."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Чытайце павольна і пакіньце паўзу перад апошнім словам. Часта людзі кажуць гэта, перш чым вы скончыце.",
+      "Калі хтосьці дае іншую канцоўку, атрымлівайце асалоду ад гэтага. Некаторыя версіі прымавак адрозніваюцца ў залежнасці ад сям'і або рэгіёна.",
+      "У групе адзін чалавек чытае, і ўсе далучаюцца да канца."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ці ёсць таймер або лік?",
+        "a": "Няма. Няма гадзінніка, ачкоў, лічыльніка хадоў і паражэнняў. Вы можаце спыніцца ў любы момант, і спыніцца на паўдарозе - цалкам добры спосаб скончыць."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Што, калі мы абярэм іншае слова?",
+        "a": "Гульня паказвае звычайную канцоўку і пераходзіць да размовы. Ацэнкі няма, і іншы адказ падыдзе."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Гэта бясплатна і ці трэба мне рэгістравацца?",
+        "a": "Так, гэта бясплатна, і тут няма ўліковага запісу, рэгістрацыі або загрузкі. Ён працуе ў вэб-браўзеры на тэлефоне, планшэце або кампутары."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Пошук слоў буйным шрыфтам",
+    "seoTitle": "Пошук слоў буйным шрыфтам для дэменцыі, для друку",
+    "h1": "Пошук слоў буйным шрыфтам",
+    "description": "Бясплатны пошук слоў буйным шрыфтам для пажылых людзей і людзей з дэменцыяй. Мала слоў, вялікія літары, словы толькі папярок і ўніз. Гуляць онлайн або раздрукаваць.",
+    "short": "Вялікія літары, некалькі слоў, толькі папярок і ўніз. Раздрукуйце і яго.",
+    "players": "1 ці 2 чалавекі",
+    "intro": "Маленькая сетка з вялікімі літарамі і толькі некалькімі словамі, усе чытаюцца папярок або ўніз. Націсніце першую літару слова, затым апошнюю літару. Аддаеце перавагу паперу? Раздрукуйце свежую галаваломку адным націскам.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Выберыце тэму і памер сеткі.",
+      "Паглядзіце на спіс слоў. Словы чытаюцца папярок (злева направа) або ўніз (зверху ўніз).",
+      "Дакраніцеся да першай літары слова, а потым да апошняй літары.",
+      "Знойдзенае слова вылучаецца і выкрэсліваецца са спісу.",
+      "Націсніце «Раздрукаваць гэтую галаваломку», каб гуляць на паперы алоўкам або маркерам."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Пакажыце на слова ў спісе і шукайце яго першую літару разам.",
+      "На паперы хайлайтер лягчэй трымаць, чым аловак.",
+      "Размова аб тэматычных словах. Словы садавіна - гэта натуральны шлях да ўспамінаў аб зборы, выпечцы або рынках."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ці ёсць таймер або лік?",
+        "a": "Няма. Няма гадзінніка, ачкоў, лічыльніка хадоў і паражэнняў. Вы можаце спыніцца ў любы момант, і спыніцца на паўдарозе - цалкам добры спосаб скончыць."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ці магу я раздрукаваць пошук слова?",
+        "a": "так. Націсніце «Раздрукаваць гэтую галаваломку», каб надрукаваць бягучую сетку буйным шрыфтам са спісам слоў унізе. Кожная новая галаваломка адрозніваецца."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Гэта бясплатна і ці трэба мне рэгістравацца?",
+        "a": "Так, гэта бясплатна, і тут няма ўліковага запісу, рэгістрацыі або загрузкі. Ён працуе ў вэб-браўзеры на тэлефоне, планшэце або кампутары."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Размалёўкі",
+    "seoTitle": "Размалёўкі для дарослых з дэменцыяй (бясплатна)",
+    "h1": "Размалёўкі",
+    "description": "Простыя размалёўкі для дарослых з вялікімі плошчамі: націсніце колер, затым націсніце малюнак.",
+    "short": "Дакраніцеся да колеру, затым да часткі выявы. Таксама раздрукуйце старонкі.",
+    "players": "1 ці 2 чалавекі",
+    "intro": "Старонкі з вялікімі простымі формамі: кветка ў чыгуне, дом, кубак, матылёк і паруснік. Дакраніцеся да колеру, затым дакраніцеся да часткі выявы, каб запоўніць яе. Няправільных колераў не бывае.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Выберыце старонку.",
+      "Дакраніцеся да колеру. На кожным колеры напісана свая назва.",
+      "Дакраніцеся да часткі выявы, каб запоўніць яе гэтым колерам.",
+      "Перадумайце ў любы час, запоўніўшы яго зноў.",
+      "Націсніце «Раздрукаваць гэту старонку», каб атрымаць пустую старонку для размалёўкі алоўкамі або маркерамі."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Прапануйце два колеры на выбар, а не ўвесь набор, калі выбар здаецца занадта вялікім.",
+      "Фіялетавыя дрэвы і блакітныя сонца вітаюцца. Гаворка ідзе пра асалоду ад колеру, а не пра дакладнасць.",
+      "Друкаваныя старонкі добра працуюць з тоўстымі маркерамі або алоўкамі, якія лягчэй трымаць."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ці ёсць таймер або лік?",
+        "a": "Няма. Няма гадзінніка, ачкоў, лічыльніка хадоў і паражэнняў. Вы можаце спыніцца ў любы момант, і спыніцца на паўдарозе - цалкам добры спосаб скончыць."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Гэтыя старонкі занадта дзіцячыя?",
+        "a": "Мы малявалі спакойныя простыя прадметы, а не мультфільмы, таму старонкі пасуюць дарослым. Вялікія формы дазваляюць лёгка размалёўваць, не робячы гэта дзіцячым."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Гэта бясплатна і ці трэба мне рэгістравацца?",
+        "a": "Так, гэта бясплатна, і тут няма ўліковага запісу, рэгістрацыі або загрузкі. Ён працуе ў вэб-браўзеры на тэлефоне, планшэце або кампутары."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Карткі для размоў",
+    "seoTitle": "Пачатак размовы пры дэменцыі: карткі з малюнкамі",
+    "h1": "Карткі для размоў",
+    "description": "Карткі з малюнкамі для людзей, якія жывуць з дэменцыяй, з мяккімі пачаткоўцамі размовы: без пытання, без правільных адказаў.",
+    "short": "Карткі з адкрытымі, далікатнымі пытаннямі. Без допытаў.",
+    "players": "2 чалавекі або група",
+    "intro": "Кожная картка спалучае знаёмы малюнак з адкрытым запрашэннем да размовы, напрыклад, \"Якое ваша любімае надвор'е?\" Тут няма правільных адказаў і няма чаго запамінаць. Выберыце тэму або перамяшайце іх усе.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Выберыце тэму або захавайце «Усе карты».",
+      "Прачытайце пытанне ўслых і разам паглядзіце на малюнак.",
+      "Слухайце, дзяліцеся ўласным адказам і дазвольце размове блукаць.",
+      "Націсніце «Наступная карта», калі будзеце гатовыя, або заставайцеся з адной карткай колькі заўгодна.",
+      "Націсніце «Раздрукаваць усе карты», каб выразаць набор паперы."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Адкажыце на пытанне і самі. Такое адчуванне, што гутарка, а не інтэрв'ю.",
+      "Сачыце за гісторыяй, а не за фактамі. Калі дэталі мяняюцца, гэта нармальна.",
+      "Калі карта закранае нешта сумнае, прызнайце гэта пачуццё і акуратна перайдзіце да іншай карты."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Чаму няма \"Вы памятаеце ...?\" пытанні?",
+        "a": "Пытанні, якія правяраюць памяць, могуць выглядаць як экзамен і выклікаць збянтэжанасць. Адкрытыя запрашэнні, такія як \"Раскажы мне пра…\", дазваляюць любому далучыцца, што б ён ні памятаў."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ці магу я раздрукаваць карты?",
+        "a": "так. \"Раздрукаваць усе карткі\" друкуе поўны набор буйным шрыфтам, некалькі картак на старонцы, гатовых да выразання."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Гэта бясплатна і ці трэба мне рэгістравацца?",
+        "a": "Так, гэта бясплатна, і тут няма ўліковага запісу, рэгістрацыі або загрузкі. Ён працуе ў вэб-браўзеры на тэлефоне, планшэце або кампутары."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Фота пары",
+    "seoTitle": "Стварыце гульню на супастаўленне з сямейных фатаграфій",
+    "h1": "Пары фотаздымкаў: падбярыце свае ўласныя фота",
+    "description": "Ператварыце свае ўласныя сямейныя фатаграфіі ў пяшчотную гульню па пошуку супадзенняў.",
+    "short": "Выберыце свае ўласныя фатаграфіі і супастаўце іх. Нічога не загружана.",
+    "players": "2 чалавекі, побач",
+    "intro": "Выберыце ад двух да шасці фатаграфій са свайго тэлефона, планшэта або камп'ютара, і яны стануць гульнёй на супастаўленне з вялікімі бачнымі малюнкамі. Фатаграфіі паказаны толькі ўнутры гэтай старонкі. Яны не загружаюцца, не захоўваюцца і не абагульваюцца, і яны знікаюць, калі вы закрываеце старонку.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Націсніце «Выбраць фатаграфіі» і абярыце ад двух да шасці фатаграфій.",
+      "Кожная фатаграфія з'яўляецца двойчы. Дакраніцеся да аднаго, затым дакраніцеся да яго пары.",
+      "Раскажыце пра кожную фатаграфію, калі вы яе знойдзеце.",
+      "Калі вы скончыце, зачыніце старонку або націсніце «Ачысціць фатаграфіі». Нічога не захоўваецца."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Выбірайце выразныя фатаграфіі радасных, знаёмых рэчаў: хатняе жывёла, сад, любімае месца, дзень вяселля.",
+      "Фатаграфіі месцаў і аб'ектаў могуць быць прасцей, чым твары, і яны пазбягаюць усякага ціску, каб назваць людзей.",
+      "Пакіньце фатаграфіі людзей, якія памерлі, калі яны могуць прынесці раптоўнае гора, калі вы не ведаеце, што яны прыносяць суцяшэнне."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Мае фатаграфіі куды-небудзь запампаваны?",
+        "a": "Не. Старонка чытае выбраныя вамі фатаграфіі непасрэдна ў вашым браўзеры і паказвае іх на экране. Яны не адпраўляюцца ні нам, ні каму-небудзь яшчэ, і яны знікаюць, калі вы закрываеце або перазагружаеце старонку."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ці ёсць таймер або лік?",
+        "a": "Няма. Няма гадзінніка, ачкоў, лічыльніка хадоў і паражэнняў. Вы можаце спыніцца ў любы момант, і спыніцца на паўдарозе - цалкам добры спосаб скончыць."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ці магу я захаваць гульню на наступны раз?",
+        "a": "Не ў браўзеры, па задуме, таму нічога прыватнага не захоўваецца. Бясплатная праграма Golden Moments для iPhone і iPad можа захоўваць выбраныя копіі фатаграфій на вашай прыладзе."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Малюнак Бінга",
+    "seoTitle": "Фота Бінга для пажылых людзей з дэменцыяй: для друку",
+    "h1": "Фота Бінга для груп",
+    "description": "Бінга з бясплатнымі малюнкамі для захавання памяці і для старэйшых груп з вялікім абанентам на экране. Вялікія малюнкі са словамі, 9 або 16 квадратаў, не трэба чытаць.",
+    "short": "Карткі для бінга з малюнкамі і абанент на вялікім экране для груп.",
+    "players": "Група ад 2 да 30 чалавек",
+    "intro": "Класічнае Бінга з малюнкамі замест лічбаў, таму нікому не трэба чытаць дробны шрыфт. Раздрукуйце набор унікальных картак, затым выкарыстоўвайце экранную праграму выкліку, каб паказаць кожную фатаграфію ў вялікім памеры на тэлевізары, ноўтбуку або планшэце.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Выберыце 9 або 16 квадратаў на карту і колькасць гульцоў.",
+      "Націсніце «Раздрукаваць карты». Кожная карта адрозніваецца.",
+      "Адкрыйце абанента на вялікім экране. Націсніце «Наступны малюнак», каб паказаць кожнае малюнак з імем.",
+      "Гульцы закрываюць адпаведны малюнак на сваёй карце манетай, кнопкай або маркерам.",
+      "Кожны, хто запаўняе радок або ўсю картку, атрымлівае вітанне. У гэтай версіі няма прайграўшых: працягвайце гуляць, пакуль у кожнага не будзе свая лінія."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Выкарыстоўвайце вялікія жэтоны, такія як шашкі або вечкі ад бутэлек. Маленькія гузікі можа быць цяжка ўзяць.",
+      "Назавіце малюнак і скажыце што-небудзь пра яго: \"Паруснік. Хто быў на лодцы?\"",
+      "Размясціце людзей, якіх цяжка бачыць, бліжэй да экрана і злучыце памочнікаў з гульцамі, якім яны патрэбныя.",
+      "Дзевяць квадратаў дастаткова для большасці груп. Працягласць сеансу складае ад 20 да 30 хвілін."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Як запусціць бінга з малюнкамі ў доме састарэлых?",
+        "a": "Раздрукуйце па адной картцы на кожнага гульца, пакажыце таго, хто тэлефануе, на самым вялікім экране, які ў вас ёсць, і павольна называйце карцінкі, называючы кожную. Гуляйце, пакуль у кожнага не будзе лінія, каб ніхто не застаўся ўбаку."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Ці бясплатна можна друкаваць?",
+        "a": "так. Друкуйце столькі карт, колькі вам трэба, так часта, як хочаце, для асабістага або групавога выкарыстання."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Ці могуць людзі гуляць, не чытаючы?",
+        "a": "так. Кожны квадрат - гэта вялікая карцінка, з назвай унізе для тых, хто любіць словы."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Спакойнае дыханне",
+    "seoTitle": "Паўза для спакойнага дыхання для пажылых людзей і выхавальнікаў",
+    "h1": "Паўза спакойнага дыхання",
+    "description": "Павольнае ціхае дыханне, каб падзяліцца: мяккі круг расце і сціскаецца на працягу шасці ўдыхаў. Вы пачынаеце, і вы можаце спыніць у любы час.",
+    "short": "Павольны круг, каб дыхаць разам. Пачынайце і спыняйце, калі хочаце.",
+    "players": "1 ці 2 чалавекі",
+    "intro": "Часам лепшым заняткам з'яўляецца ціхая паўза. Націсніце «Пуск», затым удыхніце, калі круг расце, і выдыхніце, калі ён сціскаецца. Выберыце больш павольны або больш хуткі тэмп. Гэта не лячэнне, а проста спакойны момант, якім можна падзяліцца.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Сядзьце зручна побач.",
+      "Выбірайце тэмп: павольны або мяккі.",
+      "Націсніце «Пуск». Удыхайце, пакуль круг расце, і выдыхайце, пакуль ён памяншаецца.",
+      "Ён спыняецца самастойна пасля шасці ўдыхаў або націсніце «Стоп», калі заўгодна."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Вазьміцеся за рукі або пакладзіце руку на руку чалавека, калі гэта вітаецца.",
+      "Ніколі не настойвайце. Калі яны аддаюць перавагу глядзець, гэта нармальна.",
+      "Калі ў кагосьці праблемы з дыханнем, дыхайце нармальна і проста назірайце за кругам. Спытайце лекара аб любых праблемах з дыханнем."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Гэта медыцынская дыхальная гімнастыка?",
+        "a": "Не. Гэта простая неабавязковая паўза для спакою і кампаніі. Гэта не лячэнне трывогі або любога стану. Пагаворыце з лекарам аб праблемах са здароўем."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Круг рухаецца без мяне?",
+        "a": "Не. Нічога не рухаецца, пакуль вы не націснеце «Пуск», і яно не спыніцца пасля шасці ўдыхаў або калі вы націснеце «Стоп». Калі ваша прылада настроена на памяншэнне руху, словы змяняюцца без павелічэння круга."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Гэта бясплатна і ці трэба мне рэгістравацца?",
+        "a": "Так, гэта бясплатна, і тут няма ўліковага запісу, рэгістрацыі або загрузкі. Ён працуе ў вэб-браўзеры на тэлефоне, планшэце або кампутары."
       }
     ]
   }

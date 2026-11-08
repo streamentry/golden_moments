@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "པར་རིས་ཆ་ཤས།",
+    "seoTitle": "བློ་འཚབ་ཀྱི་དོན་ལུ་ མཐུན་སྒྲིག་རྩེད་མོ།: པར་ཆ་གཅིག།",
+    "h1": "པར་རིས་ཆ་གཅིག་: མཐུན་སྒྲིག་རྩེདམོ་ཞིག",
+    "description": "བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ རིན་མེད་སྟོངམ་སྦེ་ མཐུན་སྒྲིག་འབད་ནིའི་རྩེདམོ་ཅིག། པར་སྦོམ་ཚུ་མཐོང་ཚུགསཔ་སྦེ་སྡོདཔ་ཨིན་ དུས་ཚོད་དང་སྐུགས་མེདཔ་ལས་ ཁྱོད་ཀྱིས་ ཊ་ཡིལ་༤ ལས་༡༢ ཚུན་གདམ་ཁ་རྐྱབས།",
+    "short": "༡ རི་མོ་གཉིས་ཆ་འདྲ་བ་ཚོལ། པར་ཚུ་སྟོན་སྡོད་ཚུགས།",
+    "players": "མི་ ༡ ཡང་ན་ ༢ ཕྱོགས་གཅིག་ཏུ་བསྡད།",
+    "intro": "པར་ཅིག་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ དེ་དང་མཐུན་སྒྲིག་འབད་མི་འདི་ཨེབ་གཏང་། པར་ཚུ་སྔོན་སྒྲིག་གིས་སྟོན་སྡོདཔ་ལས་ ག་ནི་ཡང་སེམས་ཁར་བཞག་དགོཔ་མེད། པར་གཉིས་གཅིག་ཁར་འགྱོཝ་ད་ གསེར་གྱི་ས་མཚམས་དང་ བརྟག་དཔྱད་རྟགས་ཐོབ་ཨིན།",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "ཊ་ཡིལ་ག་དེམ་ཅིག་ལག་ལེན་འཐབ་ནི་ཨིན་ན་གདམ་ཁ་རྐྱབས། ཊ་ཡིལ་བཞི་འདི་འགོ་བཙུགས་སའི་ས་ཁོངས་ཞི་འཇམ་ཅིག་ཨིན།",
+      "པར་གང་རུང་ལུ་ཨེབ་གཏང་། གསེར་གྱི་ས་མཚམས་ཐོབ་ཨིན།",
+      "ཅོག་འཐདཔ་སྦེ་མཐོང་མི་ པར་འདི་ཨེབ་གཏང་། ཆ་གཅིག་འདི་ ཞིབ་དཔྱད་རྟགས་གཅིག་ཁར་སྡོདཔ་ཨིན།",
+      "པར་གཉིས་སོ་སོ་ཡིན་ན་ངན་པ་གང་ཡང་མི་འབྱུང་། ཁྱོད་རང་གྲ་སྒྲིག་ཡོད་པའི་སྐབས་ལུ་ ལོག་སྟེ་ཨེབ་གཏང་།",
+      "ཁྱོད་གཉིས་ཆ་ར་གིས་ སྔར་སྲོལ་གྱི་གདོང་མར་ཐོན་རིམ་ལུ་སྤྲོ་བ་བསྐྱེད་པ་ཅིན་རྐྱངམ་ཅིག་ \"Hidden pictures\" འདི་ཁ་ཕྱེ།"
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "པར་ཚུ་གཅིག་ཁར་སྐད་སྦོམ་སྦེ་མིང་བཏགས་ཞིནམ་ལས་ དེ་ཚུ་གི་སྐོར་ལས་ ཁ་སླབ་དགོ། \"ཇ་དམརཔོ་ཅིག ཁྱོད་ཀྱི་ཇ་ནང་ འོ་མ་འབག་འོང་ག?\"",
+      "ཁྱོད་ཀྱིས་བདག་འཛིན་འཐབ་མི་མི་འདི་གིས་ དུས་ཡུན་དུམ་གྲ་ཅིག་འགོར་རུང་ བརྡུང་རྫོབ་འབད་བཅུག། ཁོང་ཚུ་གི་དོན་ལུ་ ཨེབ་གཏང་འབད་ནི་ལས་ ས་ཚིགས་བཀོད།",
+      "ལེགས་ཤོམ་སྦེ་ཚོར་ཚུགས་ཚུགསཔ་ཅིག་ རྡོ་གཅལ་བཞི་དང་གཅིག་ཁར་སྡོད། རྡོ་གཅལ་མངམ་འདི་གདམ་ཁ་ཨིནམ་ལས་ ནམ་ཡང་ གནས་ཚད་ཅིག་ལུ་ལྷོད་མི་ཚུགས།",
+      "ད་ལྟོ་ཡང་སྤྲོ་བ་ཡོད་པའི་སྐབས་ལུ་མཇུག་བསྡུ། རྩེདམོ་གཅིག་འདི་ ལས་རིམ་ཆ་ཚང་ཅིག་ཨིན།"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "དུས་ཚོད་ཡང་ན་ སྐུགས་ཡོདཔ་ཨིན་ན?",
+        "a": "མེན། ཆུ་ཚོད་དང་སྐུགས་ གྱངས་ཁ་སྤོ་བཤུད་དང་ཕམ་མི་མེད། ཁྱོད་ཀྱིས་དུས་ཚོད་གང་རུང་ལུ་བཀག་ཚུགས། ཕྱེད་ཀ་བཀག་ནི་འདི་ མཇུག་བསྡུ་ནི་གི་ཐབས་ལམ་ལེགས་ཤོམ་ཅིག་ཨིན།"
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "པར་ཚུ་གདོང་ཁར་ག་ཅི་འབད་སྡོདཔ་སྨོ?",
+        "a": "པར་ཚུ་མཐོང་ཚུགསཔ་སྦེ་བཞག་མི་འདི་གིས་ རྩེདམོ་འདི་ སེམས་ཁར་བཞག་ནི་ལས་ལྷག་སྟེ་ བལྟ་ནི་དང་མཐུན་སྒྲིག་འབད་ནི་ལུ་ འགྱུར་བཅོས་འབདཝ་ཨིན། མི་མང་པོས་འདི་ཞི་འཇམ་མཐོང་། ཁྱོད་ཀྱིས་དགོ་པ་ཅིན་ ཨེབ་གཏང་གཅིག་ནང་ སྦ་བཞག་ཡོད་པའི་པར་ཚུ་ལུ་སོར་བསྒྱུར་འབད་ཚུགས།"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "རིན་མེད་སྟོང་པ་ཨིན་ན་ དེ་ལས་ ང་གིས་ ཐོ་བཀོད་འབད་དགོཔ་ཨིན་ན?",
+        "a": "ཨིན་ རིན་མེད་སྟོང་པ་སྦེ་ཨིནམ་ལས་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་མེདཔ་ཨིན། འདི་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ཨིན།"
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "ང་བཅས་རའི་བཟའ་ཚང་གི་པར་ཚུ་ལག་ལེན་འཐབ་ཚུགས་ག?",
+        "a": "ཨིན། ཁྱོད་རའི་ཐབས་འཕྲུལ་ནང་ལས་ པར་ཚུ་གདམ་ཁ་རྐྱབ་བཅུག་མི་ པར་ཆ་གཅིག་ཚུ་ འབད་རྩོལ་བསྐྱེད། པར་ཚུ་ཁྱོད་ཀྱི་བརྡ་འཚོལ་ནང་སྡོད་ཞིནམ་ལས་ སྐྱེལ་བཙུགས་མི་འབད།"
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "གཅིག་པ་འཚོལ།",
+    "seoTitle": "འདྲ་པར་གཅིག་འཚོལ།: བློ་འཚབ་ཀྱི་རྩེད་མོ་འཇམ་པོ།",
+    "h1": "པར་གཅིག་པ་འཚོལ།",
+    "description": "མགོ་ལུ་པར་གཅིག་ འོག་ལུ་པར་གཉིས་ལས་བཞི། གཅིག་མཚུངས་ཡོད་མི་འདི་ལུ་ཨེབ་གཏང་འབད། དུས་ཚོད་མེད་པའི་ བློ་སྟོབས་མེད་པའི་ མི་ཚུ་གི་དོན་ལུ་ ཞི་བདེ་དང་ རིན་མེད་པར་རིས་རྩེདམོ་ཅིག།",
+    "short": "མགུ་ལུ་ཡོད་པའི་པར་འདི་བལྟ་ཞིནམ་ལས་ འོག་ལུ་ཡོད་མི་འདི་ལུ་ཨེབ་གཏང་འབད།",
+    "players": "མི་1 ཡང་ན་2།",
+    "intro": "གསལ་གཞི་གི་མགུ་ལུ་ པར་གཅིག་སྡོདཔ་ཨིན། དེ་གི་འོག་ལུ་ པར་གཉིས་གསུམ་བཞི་ཡོདཔ་ཨིན། གཅིག་མཚུངས་ཡོད་མི་འདི་ལུ་ཨེབ་གཏང་འབད། འདི་ཡང་ དུས་ཚོད་གཅིག་ནང་ གདམ་ཁ་འཇམ་ཏོང་ཏོ་ཅིག་ཨིནམ་ལས་ ཁ་སླབ་སའི་ས་སྒོ་ལེ་ཤ་ཡོདཔ་ཨིན།",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "གདམ་ཁ་རྐྱབ་ནིའི་དོན་ལུ་ པར་གཉིས་དང་གསུམ་ ཡང་ན་ བཞི་ཚུ་ གདམ་ཁ་རྐྱབ། གཉིས་འདི་འཇམ་ཏོང་ཏོ་ཨིན།",
+      "མགོ་ལུ་ཡོད་པའི་པར་འདི་གཅིག་ཁར་བལྟ།",
+      "འོག་གི་པར་གཅིགཔོ་འདི་ཨེབ་གཏང་། དེ་ཡང་ བརྟག་དཔྱད་དང་ ཚིག་དྲོད་ཅན་དག་པ་ཅིག་གིས་ རྟགས་བཀོད་དེ་ཡོདཔ་ཨིན།",
+      "པར་སོ་སོ་ཅིག་ཨེབ་གཏང་འབད་བ་ཅིན་ རྩེདམོ་འདི་གིས་ མིང་བཏགས་ཞིནམ་ལས་ བསྒུག་སྡོདཔ་ཨིན། ཁྱོད་ཀྱི་དུས་ཚོད་བཏང་།",
+      "ཁྱོད་ཀྱིས་གཞན་ཅིག་གི་དོན་ལུ་གྲ་སྒྲིག་ཡོད་པའི་སྐབས་ \"Next picture\" ལུ་ཨེབ་གཏང་འབད།"
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "གདམ་ཁ་མ་རྐྱབ་པའི་ཧེ་མ་ པར་རེ་རེ་གི་སྐོར་ལས་ ཁ་སླབ། ཚོས་གཞི་དང་དབྱིབས་ ཁྱོད་ཀྱིས་ག་ཏེ་མཐོང་འོང་ག།",
+      "གདམ་ཁ་གཉིས་འདི་ \"འཇམ་ཏོང་ཏོ་\"མེན། དམིགས་ཡུལ་འདི་ གདོང་ལེན་ཅིག་མེན་པར་ དགའ་སྤྲོ་ཅན་གྱི་དུས་ཚོད་ཨིན།",
+      "གལ་སྲིད་ཨེབ་གཏང་འབད་ནི་འདི་ལཱ་ཁག་ཡོད་པ་ཅིན་ མི་དེ་གིས་ བརྡ་སྟོན་ཚུགས་ནི་དང་ ཁྱོད་ཀྱིས་ཁོང་ཚུ་གི་དོན་ལུ་ཨེབ་གཏང་འབད་ཚུགས།"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "དུས་ཚོད་ཡང་ན་ སྐུགས་ཡོདཔ་ཨིན་ན?",
+        "a": "མེན། ཆུ་ཚོད་དང་སྐུགས་ གྱངས་ཁ་སྤོ་བཤུད་དང་ཕམ་མི་མེད། ཁྱོད་ཀྱིས་དུས་ཚོད་གང་རུང་ལུ་བཀག་ཚུགས། ཕྱེད་ཀ་བཀག་ནི་འདི་ མཇུག་བསྡུ་ནི་གི་ཐབས་ལམ་ལེགས་ཤོམ་ཅིག་ཨིན།"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "པར་འཛོལ་བ་འདི་ཨེབ་གཏང་འབད་བ་ཅིན་ ག་ཅི་འབྱུང་འོང་ག?",
+        "a": "མ་དགའ་བ་གང་ཡང་མེད། བཱ་ཟར་དང་ དམར་པོ་ དེ་ལས་ གཡོ་འགུལ་ཚུ་མེདཔ་ཨིན། རྩེདམོ་འདི་གིས་ ཨེབ་གཏང་འབད་ཡོད་པའི་པར་འདི་ལུ་མིང་བཏགས་ཞིནམ་ལས་ ཤུལ་མམ་གྱི་ཨེབ་གཏང་ལུ་བསྒུགཔ་ཨིན།"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "རིན་མེད་སྟོང་པ་ཨིན་ན་ དེ་ལས་ ང་གིས་ ཐོ་བཀོད་འབད་དགོཔ་ཨིན་ན?",
+        "a": "ཨིན་ རིན་མེད་སྟོང་པ་སྦེ་ཨིནམ་ལས་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་མེདཔ་ཨིན། འདི་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ཨིན།"
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "གྱིབ་མ་མཐུན་སྒྲིག།",
+    "seoTitle": "གྱིབ་མ་མཐུན་པའི་རྩེདམོ་འདི་ བློ་སྟོབས་མེད་པའི་དོན་ལུ་ཨིན། ཡོངས་འབྲེལ་ཐོག་རིན་མེད།",
+    "h1": "གྱིབ་མའི་མཐུན་སྒྲིག: འཇམ་པོའི་པར་རིས་རྩེད་མོ།",
+    "description": "མགུ་ལུ་གྱིབ་མ་གནགཔོ་ཅིག་ འོག་ལུ་པར་གཉིས་ལས་བཞི་ཚུན། གྱིབ་མ་བཟོ་མི་པར་རིས་འདི་ཨེབ་གཏང་། དུས་ཚོད་མེད་པར་ བློ་སྟོབས་མེད་པའི་དོན་ལུ་ རིན་མེད་སྟོངམ་སྦེ་ གྱིབ་མ་མཐུན་པའི་རྩེདམོ་ཅིག།",
+    "short": "གྱིབ་མ་ལུ་བལྟ་ཞིནམ་ལས་ དེ་བཟོ་མི་པར་འདི་ཨེབ་གཏང་།",
+    "players": "མི་1 ཡང་ན་2།",
+    "intro": "གྱིབ་མ་མཐུན་སྒྲིག་འབད་ནི་འདི་ དཔར་བསྐྲུན་འབད་ཡོད་པའི་ལཱ་ཤོག་ཚུ་ལས་ གོམས་འདྲིས་ཅན་གྱི་ལས་རིམ་ཅིག་ཨིན་ ནཱ་ལུ་ པར་སྦོམ་ཚུ་དང་གཅིག་ཁར་ དཔར་བསྐྲུན་འབད་ནི་ལུ་ག་ནི་ཡང་མེདཔ་ཨིན། གྱིབ་མ་འཇམ་པོ་ཅིག་ གསལ་གཞི་གི་མགུ་ལུ་སྡོད་ཞིནམ་ལས་ འོག་ལུ་ པར་གཉིས་གསུམ་བཞི་བསྒུག་སྡོདཔ་ཨིན། གྱིབ་མ་བཟོ་མི་དེ་ལུ་ཨེབ་གཏང་འབད། རྐང་འཁོར་དང་ཉི་གདུགས་ ཡང་ན་ ཇ་ཕོརཔ་བཟུམ་གྱི་དབྱིབས་ཚུ་ཡང་ སླབ་ཚུགསཔ་ཨིན།",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "གདམ་ཁ་རྐྱབ་ནིའི་དོན་ལུ་ པར་གཉིས་དང་གསུམ་ ཡང་ན་ བཞི་ཚུ་ གདམ་ཁ་རྐྱབ། གཉིས་འདི་འཇམ་ཏོང་ཏོ་ཨིན།",
+      "གྱིབ་མ་གཅིག་ཁར་བལྟ། དབྱིབས་ག་ཅི་ཨིན་ན? རིངམོ་ཨིན་ན་སྒོར་སྒོར་ཨིན་ན?",
+      "གྱིབ་མ་བཟོ་མི་པར་རིས་འདི་ཨེབ་གཏང་། དེ་གི་མིང་འདི་གྱིབ་མ་འོག་ལུ་འབྱུངམ་ཨིན།",
+      "པར་སོ་སོ་ཅིག་ཨེབ་གཏང་འབད་བ་ཅིན་ རྩེདམོ་འདི་གིས་ མིང་བཏགས་ཞིནམ་ལས་ བསྒུག་སྡོདཔ་ཨིན། ཁྱོད་ཀྱི་དུས་ཚོད་བཏང་།",
+      "ཁྱོད་གཞན་ཅིག་གི་དོན་ལུ་གྲ་སྒྲིག་ཡོད་པའི་སྐབས་ \"Next shadow\" ལུ་ཨེབ་གཏང་འབད།"
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "གྱིབ་མའི་ཕྱི་ཐིག་འདི་མཛུབ་མོ་གིས་འཚོལ་ཞིབ་འབད་དེ་ དབྱིབས་སྐོར་ལས་སླབ།",
+      "གྱིབ་མ་ཚུ་ ད་རེས་ ལཱ་ཁག་བཏང་པ་ཅིན་ པར་ཚུ་ ཅོག་འཐདཔ་སྦེ་མཐོངམ་ཨིན་མི་ ཅོག་འཐདཔ་འཚོལ་ནི་ལུ་ སོར་བསྒྱུར་འབད།",
+      "པར་འདི་མཐོང་ཚརཝ་ཅིག་གི་སྐོར་ལས་སླབ། \"ང་བཅས་ལུ་ ཉི་གདུགས་འདི་བཟུམ་ཅིག་ཡོདཔ་ཨིན།\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "དུས་ཚོད་ཡང་ན་ སྐུགས་ཡོདཔ་ཨིན་ན?",
+        "a": "མེན། ཆུ་ཚོད་དང་སྐུགས་ གྱངས་ཁ་སྤོ་བཤུད་དང་ཕམ་མི་མེད། ཁྱོད་ཀྱིས་དུས་ཚོད་གང་རུང་ལུ་བཀག་ཚུགས། ཕྱེད་ཀ་བཀག་ནི་འདི་ མཇུག་བསྡུ་ནི་གི་ཐབས་ལམ་ལེགས་ཤོམ་ཅིག་ཨིན།"
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "གྱིབ་མ་མཐུན་སྒྲིག་འདི་ བློ་སྟོབས་མེད་པའི་མི་ཚུ་ལུ་ ལེགས་ཤོམ་ཨིན་ན?",
+        "a": "མི་ལ་ལུ་ཅིག་གི་དོན་ལུ་ དམིགས་བསལ་གྱིས་ ཧེ་མའི་གནས་རིམ་ནང་ དགའ་སྤྲོ་ཅན་དང་ འཇམ་ཏོང་ཏོ་གི་ལས་རིམ་ཅིག་འོང་ནི་ཨིན། དབྱིབས་ཚུ་མིང་ཚིག་ལས་ངོས་འཛིན་འབད་ནི་ལུ་འཇམ་ཏོང་ཏོ་ཨིན། འདི་ཡང་ བརྟག་དཔྱད་མེན་པར་ སྤྲོ་བ་དང་ ཁ་སླབ་ནིའི་དོན་ལུ་ཨིནམ་ལས་ བློ་སྟོབས་མེད་པའི་ནད་གཞི་འདི་ སྨན་བཅོས་དང་ མགྱོགས་དྲགས་སྦེ་ འབད་མི་ཚུགས། གལ་སྲིད་ དེ་གིས་ སེམས་ཕམ་བྱུང་པ་ཅིན་ གཅིག་མཚུངས་འཚོལ་ནི་དང་ ཡང་ན་ འཇམ་ཏོང་ཏོ་སྦེ་ པར་ཚུ་གཅིག་ཁར་བལྟ།"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "པར་འཛོལ་བ་འདི་ཨེབ་གཏང་འབད་བ་ཅིན་ ག་ཅི་འབྱུང་འོང་ག?",
+        "a": "མ་དགའ་བ་གང་ཡང་མེད། བཱ་ཟར་དང་ དམར་པོ་ དེ་ལས་ གཡོ་འགུལ་ཚུ་མེདཔ་ཨིན། རྩེདམོ་འདི་གིས་ ཨེབ་གཏང་འབད་ཡོད་པའི་པར་འདི་ལུ་མིང་བཏགས་ཞིནམ་ལས་ ཤུལ་མམ་གྱི་ཨེབ་གཏང་ལུ་བསྒུགཔ་ཨིན།"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "རིན་མེད་སྟོང་པ་ཨིན་ན་ དེ་ལས་ ང་གིས་ ཐོ་བཀོད་འབད་དགོཔ་ཨིན་ན?",
+        "a": "ཨིན་ རིན་མེད་སྟོང་པ་སྦེ་ཨིནམ་ལས་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་མེདཔ་ཨིན། འདི་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ཨིན།"
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "གཅིག་ཁར་དབྱེ་སེལ་འབད།",
+    "seoTitle": "བློ་སྟོབས་མེད་པའི་དོན་ལུ་རྩེད་རིགས་དབྱེ་སེལ་འབད་ནི།: གཅིག་ཁར་དབྱེ་སེལ་འབད།",
+    "h1": "གཅིག་ཁར་དབྱེ་སེལ་འབད།: པར་རིས་དབྱེ་སེལ་འབད་ནིའི་ལས་རིམ་ཅིག",
+    "description": "པར་ཅིག་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ དེ་གི་ནང་ལུ་ཡོད་པའི་ བཱསི་ཀེཊ་འདི་ཨེབ་གཏང་འབད། ཐབ་ཚང་ཡང་ན་ལྡུམ་ར་ ཤིང་འབྲས་ཡང་ན་སེམས་ཅན་ཚུ། བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ ཞི་བདེ་དང་ རིན་མེད་སྟོངམ་སྦེ་ དབྱེ་བ་ཕྱེ་ནིའི་ལས་རིམ།",
+    "short": "པར་རེ་རེ་བཞིན་དུ་ དེ་གི་སྒམ་ནང་བཙུགས། ཐབ་ཚང་ཡང་ན་ལྡུམ་ར་ དེ་ལས་ དེ་ལས་མངམ་ཚུ།",
+    "players": "མི་1 ཡང་ན་2།",
+    "intro": "དབྱེ་བ་ཕྱེ་ནི་འདི་ གོམས་འདྲིས་ཅན་དང་ ཉིན་བསྟར་གྱི་ལཱ་ཅིག་ཨིན། པར་ཅིག་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ དེ་ག་སྟེ་ལུ་ཡོདཔ་ཨིན་ན་ བཱསི་ཀེཊི་འདི་ཨེབ་གཏང་། འཕྲལ་འཕྲལ་མེད་ཅིང་འཛོལ་བ་མེད།",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "བརྗོད་དོན་ཅིག་འདམ་ཁ་རྐྱབ་སྟེ་ ཐབ་ཚང་དང་ལྡུམ་ར་ ཤིང་འབྲས་དང་སེམས་ཅན་ ཡང་ན་ ཁྱིམ་དང་འགྲུལ་སྐྱོད།",
+      "པར་རིས་ཅིག་ཨེབ་གཏང་། གསེར་གྱི་ས་མཚམས་ཐོབ་ཨིན།",
+      "དེ་ནང་ལུ་ཚུད་མི་ བཱསི་ཀེཊ་འདི་ཨེབ་གཏང་། པར་འདི་ བཱསི་ཀེཊ་དེ་ནང་ལུ་སྤོ་བཤུད་འབདཝ་ཨིན།",
+      "གལ་སྲིད་ གཞན་མི་སྒམ་ནང་ལུ་ཚུད་པ་ཅིན་ རྩེདམོ་འདི་གིས་ དེ་སྦེ་ དྲག་པོ་སྦེ་སླབ་སྟེ་ བསྒུག་སྡོདཔ་ཨིན།",
+      "པར་ག་ར་དབྱེ་སེལ་འབད་ཚར་བའི་ཤུལ་ལས་ གཅིག་ཁར་ བཱསི་ཀེཊ་ཚུ་ནང་ལས་བལྟ།"
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "མི་ཚེ་ངོ་མའི་ནང་ འཕྲལ་འཕྲལ་ལན་ནོར་བ་མེདཔ་ཨིན། མི་གཅིག་གིས་ ཆུ་བླུགས་སའི་ ཐབ་ཚང་ནང་ ཡོད་ཟེར་ སླབ་པ་ཅིན་ ག་ཅི་འབད་ཨིན་ན་ དྲིས། ཁྱོད་ལུ་ལོ་རྒྱུས་ལེགས་ཤོམ་ཐོབ་འོང་།",
+      "པར་ཚུ་ བརྡ་སྟོན་སྦེ་ལག་ལེན་འཐབ། \"ཁྱོད་རའི་ལྡུམ་ར་ནང་ ག་ཅི་འཛུགས་སྐྱོང་འབད་ཡི་ག་?\"",
+      "དངོས་པོ་ངོ་མ་ཚུ་ ཐུར་མ་དང་ ཕོརཔ་ ཡང་ན་ ཨེབ་རྟ་ཚུ་ ཚོས་གཞི་དང་འཁྲིལ་ཏེ་ དབྱེ་སེལ་འབད་ནི་འདི་ གསལ་གཞི་ལས་ཐག་རིང་སར་ རྗེས་འཇུག་སྦོམ་ཅིག་ཨིན།"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "དུས་ཚོད་ཡང་ན་ སྐུགས་ཡོདཔ་ཨིན་ན?",
+        "a": "མེན། ཆུ་ཚོད་དང་སྐུགས་ གྱངས་ཁ་སྤོ་བཤུད་དང་ཕམ་མི་མེད། ཁྱོད་ཀྱིས་དུས་ཚོད་གང་རུང་ལུ་བཀག་ཚུགས། ཕྱེད་ཀ་བཀག་ནི་འདི་ མཇུག་བསྡུ་ནི་གི་ཐབས་ལམ་ལེགས་ཤོམ་ཅིག་ཨིན།"
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "ག་ཅི་འབད་དབྱེ་སེལ་འབདཝ་སྨོ?",
+        "a": "མི་མང་ཤོས་ཅིག་གིས་ དབྱེ་བ་ཕྱེ་ནི་ལུ་སྤྲོ་བ་བསྐྱེདཔ་ཨིན་ ག་ཅི་འབད་ཟེར་བ་ཅིན་ ཕན་ཐོགས་ཅན་དང་ གོམས་འདྲིས་ཅན་གྱི་ལཱ་བཟུམ་ཅིག་འཚོརཝ་ཨིན། འགྱོ་བའི་སྐབས་ པར་ཚུ་གི་སྐོར་ལས་ སླབ་ནི་ཡང་ འཇམ་ཏོང་ཏོ་ཨིན།"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "རིན་མེད་སྟོང་པ་ཨིན་ན་ དེ་ལས་ ང་གིས་ ཐོ་བཀོད་འབད་དགོཔ་ཨིན་ན?",
+        "a": "ཨིན་ རིན་མེད་སྟོང་པ་སྦེ་ཨིནམ་ལས་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་མེདཔ་ཨིན། འདི་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ཨིན།"
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "པར་རིས་མགུ་རྙོག།",
+    "seoTitle": "བློ་འཚབ་ཀྱི་ནད་གཞིའི་དོན་ལུ་འཇམ་སམ་གྱི་མགུ་ཐོམ་སི་སི།: ༤ ཡང་ན་ ༩ ཆ་ཤས།",
+    "h1": "པར་རིས་མགུ་རྙོག: འཇམ་སམ་གྱི་ཇིག་སོ།",
+    "description": "དྲན་ཤེས་ཉམས་པའི་ནད་གཞི་ཡོད་མི་ཚུ་གི་དོན་ལུ་ འཇམ་སམ་གྱི་ གློག་རིག་རྩེད་མོ་: དུམ་བུ་ ༤ ཡང་ན་ ༩ ཡོདཔ་ཨིན།",
+    "short": "པར་འདི་ཆ་ཚང་མ་འགྱོ་ཚུན་ཚོད་ བརྗེ་སོར་འབད་ནི་ལུ་ ཆ་ཤས་གཉིས་ཨེབ་གཏང་།",
+    "players": "མི་1 ཡང་ན་2།",
+    "intro": "མཛའ་མཐུན་གྱི་པར་ཅིག་ སྦོམ་སྦེ་བཞི་དགུ་སྦེ་བཏོག་སྟེ་ སླ་བསྲེ་རྐྱབ་ཨིན། པར་ཆ་མཉམ་ལམ་སྟོན་སྦེ་མཐོང་ཚུགསཔ་སྦེ་སྡོདཔ་ཨིན། གཅིག་ཨེབ་ཞིནམ་ལས་ གཞན་མི་ཅིག་ཨེབ་ཞིནམ་ལས་ ཁོང་གིས་ ས་གནས་བརྗེ་སོར་འབདཝ་ཨིན། འདྲུད་མི་དགོ།",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "པར་རིས་གཅིག་དང་ ༤ ཡང་ན་ ༩ གདམ་ཁ་རྐྱབས། བཞི་འདི་ འགོ་བཙུགས་འཇམ་པོ་ཅིག་ཨིན།",
+      "མགོ་ལུ་ཡོད་པའི་པར་ཆ་མཉམ་བལྟ།",
+      "ཆ་ཤས་ཅིག་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ དེ་འགྱོ་དགོ་པའི་ས་ཁོངས་ལུ་ཨེབ་གཏང་འབད། ཆ་ཤས་གཉིས་བརྗེ་སོར་འབདཝ་ཨིན།",
+      "ས་སྒོ་གཡསཔ་ནང་ལུ་ཡོད་པའི་ཆ་ཤས་ཚུ་ལུ་ ཞིབ་དཔྱད་རྟགས་ཆུང་ཀུ་ཅིག་ཐོབ་ཨིན།",
+      "པར་འདི་ཆ་ཚང་འགྱོ་བའི་སྐབས་ གཅིག་ཁར་སྤྲོ་བ་བསྐྱེད་ཞིནམ་ལས་ གཞན་ཅིག་གདམ་ཁ་རྐྱབ།"
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "བརྗེ་སོར་འབད་ནི་ལུ་ ཆ་ཤས་གཉིས་ཨེབ་གཏང་འབད་ནི་འདི་ མི་མང་ཤོས་ཅིག་གི་དོན་ལུ་ འདྲུད་ནི་ལས་ འཇམ་ཏོང་ཏོ་ཨིན།",
+      "པར་འདི་གཅིག་ཁར་འཛོམས་པའི་སྐབས་ལུ་ ཁ་སླབ། \"ཁྱིམ་ཐོག་དམརཔོ་ཡོདཔ་ཨིན།\"",
+      "ཤིང་གི་ ཇིག་སོ་ངོ་མ་ཅིག་ ༡༢ ལས་ ༢༤ ཚུན་སྦོམ་སྦེ་ཡོད་མི་འདི་ཡང་ ཐིག་ཁྲམ་གྱི་ལས་རིམ་ཅིག་ཨིན།"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "དུས་ཚོད་ཡང་ན་ སྐུགས་ཡོདཔ་ཨིན་ན?",
+        "a": "མེན། ཆུ་ཚོད་དང་སྐུགས་ གྱངས་ཁ་སྤོ་བཤུད་དང་ཕམ་མི་མེད། ཁྱོད་ཀྱིས་དུས་ཚོད་གང་རུང་ལུ་བཀག་ཚུགས། ཕྱེད་ཀ་བཀག་ནི་འདི་ མཇུག་བསྡུ་ནི་གི་ཐབས་ལམ་ལེགས་ཤོམ་ཅིག་ཨིན།"
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "ང་གིས་ ཆ་ཤས་ཚུ་འདྲུད་དགོཔ་ཨིན་ན?",
+        "a": "མེན། གཅིག་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ གཞན་མི་ཅིག་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ ཁོང་གིས་ས་གནས་བརྗེ་སོར་འབདཝ་ཨིན། འདི་ལགཔ་འགུལ་མི་དང་ ཡང་ན་ གསལ་གཞི་ཆུང་ཀུ་གུ་འཇམ་ཏོང་ཏོ་ཨིན།"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "རིན་མེད་སྟོང་པ་ཨིན་ན་ དེ་ལས་ ང་གིས་ ཐོ་བཀོད་འབད་དགོཔ་ཨིན་ན?",
+        "a": "ཨིན་ རིན་མེད་སྟོང་པ་སྦེ་ཨིནམ་ལས་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་མེདཔ་ཨིན། འདི་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ཨིན།"
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "གཏམ་བཤད་མཇུག་བསྡུ།",
+    "seoTitle": "རྒན་རྒོན་ཚུ་གི་དོན་ལུ་ དཔེ་གཏམ་གྱི་རྩེདམོ་འདི་མཇུག་བསྡུ།",
+    "h1": "ཚིག་འདི་མཇུག་བསྡུ།",
+    "description": "ཨ་མི་རི་ཀ་གི་མིང་ཚིག་མཇུག་འདི་མེད་མི་ གོམས་འདྲིས་ཅན་གྱི་ཨ་མི་རི་ཀ་གི་སླབ་ཐངས། \"ཏི་རུ་ཅིག་བསག་བཞག་མི་འདི་ ཏི་རུ་ཅིག་ཨིན་ ___\" གདམ་ཁ་ཅིག་ཨེབ་གཏང་འབད་ནི་ཡང་ན་ མཇུག་བསྡུ་སྟོན་ཞིནམ་ལས་ དེ་གི་སྐོར་ལས་སླབ།",
+    "short": "གོམས་འདྲིས་ཅན་གྱི་ཚིག་ཚུ་གཅིག་ཁར་མཇུག་བསྡུ་ཞིནམ་ལས་ དེ་ཚུ་གི་སྐོར་ལས་སླབ།",
+    "players": "༡, ༢ ཡང་ན་སྡེ་ཚན།",
+    "intro": "རྙིངམ་ཚུ་ འཕྲལ་འཕྲལ་རང་ མི་ཚེ་གཅིག་གི་དོན་ལུ་ ལེགས་ཤོམ་སྦེ་ ཤེས་རྟོགས་ཡོདཔ་ཨིན། ཤོག་བྱང་རེ་རེ་གིས་ མཇུག་གི་མིང་ཚིག་བརླག་སྟོར་ཤོར་མི་ གདམ་ཁ་གསུམ་དང་ \"མཇུག་བསྡུ་སྟོན\" ཨེབ་རྟ་ཚུ་ཡོད་པའི་ གོམས་འདྲིས་ཅན་གྱི་ཚིག་ཅིག་སྟོནམ་ཨིན། མཇུག་བསྡུ་བའི་ཤུལ་ལས་ དྲི་བ་འཇམ་པོ་ཅིག་གིས་ ཁ་སླབ་ནིའི་དོན་ལུ་ འབོཝ་ཨིན།",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "གཅིག་ཁར་སྐད་སྦོམ་སྦེ་ལྷག་སྟེ་ བཤད་ཚིག་འདི་ལྷག།",
+      "དེ་མཇུག་བསྡུ་མི་མིང་ཚིག་འདི་ཨེབ་གཏང་འབད་ ཡང་ན་ \"Show the ending\" ལུ་ཨེབ་གཏང་འབད།",
+      "ལོག་སྟེ་རང་ བཤད་པ་ཆ་མཉམ་ལྷག་སྟེ་ བརྡ་སྟོན་ལག་ལེན་འཐབ་སྟེ་ དེ་གི་སྐོར་ལས་ སླབ།",
+      "ཁྱོད་རང་གྲ་སྒྲིག་ཡོད་པའི་སྐབས་ \"Next saying\" ལུ་ཨེབ་གཏང་འབད།"
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "རིམ་གྱིས་ལྷག་སྟེ་ མཇུག་གི་མིང་ཚིག་གི་ཧེ་མ་ བར་མཚམས་བཞག་དགོ། འཕྲལ་འཕྲལ་སྐབས་ མི་ཚུ་གིས་ ཁྱོད་ཀྱིས་མ་ཚར་བའི་ཧེ་མ་ སླབ་ཨིན།",
+      "མི་གཅིག་གིས་མཇུག་བསྡུ་སོ་སོ་ཅིག་བྱིན་པ་ཅིན་ སྤྲོ་བ་བསྐྱེད། བརྗོད་ཚིག་ལ་ལུ་ཅིག་ བཟའ་ཚང་དང་ལུང་ཕྱོགས་དང་འཁྲིལ་ཏེ་ སོ་སོ་སྦེ་ཡོདཔ་ཨིན།",
+      "སྡེ་ཚན་ནང་ མི་གཅིག་གིས་ལྷག་སྟེ་ ག་ར་གིས་ མཇུག་བསྡུའི་སྐབས་ལུ་ མཉམ་འབྲེལ་འབདཝ་ཨིན།"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "དུས་ཚོད་ཡང་ན་ སྐུགས་ཡོདཔ་ཨིན་ན?",
+        "a": "མེན། ཆུ་ཚོད་དང་སྐུགས་ གྱངས་ཁ་སྤོ་བཤུད་དང་ཕམ་མི་མེད། ཁྱོད་ཀྱིས་དུས་ཚོད་གང་རུང་ལུ་བཀག་ཚུགས། ཕྱེད་ཀ་བཀག་ནི་འདི་ མཇུག་བསྡུ་ནི་གི་ཐབས་ལམ་ལེགས་ཤོམ་ཅིག་ཨིན།"
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "ང་བཅས་ཀྱིས་ མིང་ཚིག་སོ་སོ་ཅིག་གདམ་ཁ་རྐྱབ་པ་ཅིན་ ག་དེ་སྦེ་སྨོ?",
+        "a": "རྩེདམོ་འདི་གིས་ སྤྱིར་བཏང་གི་མཇུག་བསྡུ་སྟོན་ཞིནམ་ལས་ ཁ་སླབ་ལུ་འགྱོཝ་ཨིན། སྐུགས་མེདཔ་ལས་ ལན་སོ་སོ་ཅིག་བཏབ་པ་ཅིན་ ལེགས་ཤོམ་ཨིན།"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "རིན་མེད་སྟོང་པ་ཨིན་ན་ དེ་ལས་ ང་གིས་ ཐོ་བཀོད་འབད་དགོཔ་ཨིན་ན?",
+        "a": "ཨིན་ རིན་མེད་སྟོང་པ་སྦེ་ཨིནམ་ལས་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་མེདཔ་ཨིན། འདི་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ཨིན།"
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "ཡིག་གཟུགས་ཆེ་བའི་མིང་ཚིག་འཚོལ་ཞིབ།",
+    "seoTitle": "དཔར་བསྐྲུན་སྦོམ་གྱི་ཚིག་འཚོལ་ཞིབ། བློ་འཚབ་ཀྱི་ནད་གཞི་, དཔར་བསྐྲུན་འབད་བཏུབ།",
+    "h1": "ཡིག་གཟུགས་སྦོམ་གྱི་མིང་ཚིག་འཚོལ་ཞིབ།",
+    "description": "རྒས་ཤོས་དང་ བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ རིན་མེད་སྟོངམ་སྦེ་ མིང་ཚིག་སྦོམ་འཚོལ་ཞིབ་འབད་ནི། མིང་ཚིག་དག་པ་ཅིག་ ཡི་གུ་སྦོམ་ མིང་ཚིག་ཕར་ཚུར་དང་མར་རྐྱངམ་གཅིག། ཡོངས་འབྲེལ་ཐོག་ལས་རྩེད་ནི་ཡང་ན་དཔར་བསྐྲུན་འབད།",
+    "short": "ཡི་གུ་སྦོམ་དང་ཚིག་དག་པ་ཅིག་ ཕར་ཚུར་དང་མར་རྐྱངམ་ཅིག་ཨིན། དཔར་བསྐྲུན་ཡང་འབད།",
+    "players": "མི་1 ཡང་ན་2།",
+    "intro": "ཡི་གུ་སྦོམ་དང་ མིང་ཚིག་ལགཔ་གཅིག་ལས་བརྒལ་མེད་པའི་ གིརིཌི་ཆུང་ཀུ་ཅིག་ ཆ་མཉམ་རང་ ཕར་ཚུར་ཡང་ན་ མར་ལྷགཔ་ཨིན། མིང་ཚིག་གི་ཡི་གུ་དང་པ་ དེ་ལས་ དེ་གི་ཡི་གུ་མཇུག་ལུ་ཨེབ་གཏང་འབད། ཤོག་གུ་དགའ་ག? ཨེབ་གཏང་གཅིག་ནང་ མགུ་ཐོམ་གསརཔ་ཅིག་དཔར་བསྐྲུན་འབད།",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "བརྗོད་དོན་དང་གིརིཌི་ཚད་གདམ་ཁ་རྐྱབས།",
+      "མིང་ཚིག་ཐོ་ཡིག་ལུ་བལྟ། མིང་ཚིག་ཚུ་ ཕར་ཚུར་ལྷག་སྟེ་ (གཡོན་ལས་གཡས་ལུ་) ཡང་ན་ མར་ (མགོ་ལས་མཇུག་ལུ་)།",
+      "མིང་ཚིག་གི་ཡི་གུ་དང་པ་འདི་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ དེ་གི་ཡི་གུ་མཇུག་འདི་ཨེབ་གཏང་།",
+      "ཐོབ་ཡོད་པའི་མིང་ཚིག་ཅིག་ གཙོ་དམིགས་བཀལ་ཡོདཔ་དང་ ཐོ་ཡིག་ལས་བརྒལ་གཏང་ཡོདཔ་ཨིན།",
+      "ཤོག་ལེབ་གུ་རྩེདམོ་རྩེ་ནི་ལུ་ \"Print this puzzle\" ལུ་ཨེབ་གཏང་འབད།"
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "ཐོ་ཡིག་ནང་ལུ་མིང་ཚིག་ཅིག་ལུ་དཔག་ཞིནམ་ལས་ དེ་གི་ཡི་གུ་དང་པ་འདི་གཅིག་ཁར་འཚོལ།",
+      "ཤོག་གུ་གུ་ལུ་ འོད་རྟགས་འདི་ གྱིབ་ཤོག་ལས་ བཟུང་ནི་ལུ་འཇམ་ཏོང་ཏོ་ཨིན།",
+      "བརྗོད་དོན་ཚིག་ཚུ་གི་སྐོར་ལས་སླབ། ཤིང་འབྲས་ཀྱི་ཚིག་ཚུ་ འཐུ་ནི་དང་ བཞེས་སྒོ་འབད་ནི་ ཡང་ན་ ཁྲོམ་ཁར་ དྲན་ཤེས་ཚུ་ རང་བཞིན་གྱི་ཐབས་ལམ་ཅིག་ཨིན།"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "དུས་ཚོད་ཡང་ན་ སྐུགས་ཡོདཔ་ཨིན་ན?",
+        "a": "མེན། ཆུ་ཚོད་དང་སྐུགས་ གྱངས་ཁ་སྤོ་བཤུད་དང་ཕམ་མི་མེད། ཁྱོད་ཀྱིས་དུས་ཚོད་གང་རུང་ལུ་བཀག་ཚུགས། ཕྱེད་ཀ་བཀག་ནི་འདི་ མཇུག་བསྡུ་ནི་གི་ཐབས་ལམ་ལེགས་ཤོམ་ཅིག་ཨིན།"
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "མིང་ཚིག་འཚོལ་ཞིབ་འདི་དཔར་བསྐྲུན་འབད་ཚུགས་ག?",
+        "a": "ཨིན། ད་ལྟོའི་གིརིཌི་འདི་ འོག་ལུ་མིང་ཚིག་ཐོ་ཡིག་དང་གཅིག་ཁར་ དབྱེ་བ་སྦོམ་སྦེ་དཔར་བསྐྲུན་འབད་ནི་ལུ་ \"Print this puzzle\" ལུ་ཨེབ་གཏང་འབད། གབ་ཚིག་གསརཔ་རེ་རེ་བཞིན་དུ་སོ་སོ་ཡོད།"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "རིན་མེད་སྟོང་པ་ཨིན་ན་ དེ་ལས་ ང་གིས་ ཐོ་བཀོད་འབད་དགོཔ་ཨིན་ན?",
+        "a": "ཨིན་ རིན་མེད་སྟོང་པ་སྦེ་ཨིནམ་ལས་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་མེདཔ་ཨིན། འདི་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ཨིན།"
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "ཚོན་བཏང་ཤོག་ལེབ།",
+    "seoTitle": "བློ་སྟོབས་མེད་པའི་མི་རྒན་རྒོན་ཚུ་གི་དོན་ལུ་ ཚོས་གཞི་བཀོད་ནིའི་ཤོག་ངོས། (རིན་མེད་)",
+    "h1": "ཚོན་བཏང་ཤོག་ལེབ།",
+    "description": "འཇམ་ཏོང་ཏོ་ རྒས་ཤོས་ཚོས་གཞི་བཀོད་ནིའི་ཤོག་ལེབ་ཚུ་ ས་ཁོངས་སྦོམ་ཚུ་དང་གཅིག་ཁར་: ཚོས་གཞི་ཅིག་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ པར་འདི་ཨེབ་གཏང་འབད། མགོ་རྙོག་མེད་ ཚོས་གཞི་འཛོལ་བ་མེད་.",
+    "short": "ཚོས་གཞི་ཅིག་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ དེ་ལས་ པར་རིས་ཀྱི་ཆ་ཤས་ཅིག་ཨེབ། ཤོག་ལེབ་ཚུ་ཡང་དཔར་བསྐྲུན་འབད།",
+    "players": "མི་1 ཡང་ན་2།",
+    "intro": "དབྱིབས་སྦོམ་དང་འཇམ་ཏོང་ཏོ་ཡོད་པའི་ཤོག་ལེབ་ཚུ་ དམ་སྦྱིས་ནང་མེ་ཏོག་དང་ ཁྱིམ་ ཇ་ཕོརཔ་ ཕྱེ་མ་ལེབ་དང་ གྲུ་གཟིངས་ཚུ་ཨིན། ཚོས་གཞི་ཅིག་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ བཀང་ནིའི་དོན་ལུ་ པར་རིས་ཀྱི་ཆ་ཤས་ཅིག་ཨེབ་གཏང་འབད། ཚོས་གཞི་ནོར་བ་མེད།",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "ཤོག་ལེབ་ཅིག་གདམ་ཁ་རྐྱབས།",
+      "ཚོས་གཞི་ཅིག་ཨེབ་གཏང་། ཁ་དོག་རེ་རེ་ལུ་མིང་བྲིས་ཏེ་ཡོདཔ་ཨིན།",
+      "ཚོས་གཞི་དེ་གིས་བཀང་ནིའི་དོན་ལུ་ པར་རིས་ཀྱི་ཆ་ཤས་ཅིག་ཨེབ་གཏང་།",
+      "ལོག་སྟེ་བཀང་སྟེ་ དུས་ནམ་ར་འབད་རུང་ སེམས་བསྒྱུར་བཅོས་འབད།",
+      "ཤོག་ལེབ་སྟོངམ་ཅིག་གི་དོན་ལུ་ \"ཤོག་ལེབ་འདི་དཔར་བསྐྲུན་འབད་\" ལུ་ཨེབ་གཏང་འབད།"
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "གདམ་ཁ་རྐྱབ་ནི་འདི་ མང་དྲགས་སྦེ་འཚོར་པ་ཅིན་ ཆ་ཚན་ཆ་མཉམ་ལས་ གདམ་ཁ་རྐྱབ་ནིའི་དོན་ལུ་ ཚོས་གཞི་གཉིས་བྱིན།",
+      "མུ་མེན་ཤིང་དང་ཉི་མ་སྔོན་པོ་ཚུ་ བསུ་བ་འབདཝ་ཨིན། འདི་ ཚོས་གཞི་ལུ་སྤྲོ་བ་བསྐྱེད་ནིའི་སྐོར་ལས་ཨིན་ གཏན་གཏན་མེན།",
+      "དཔར་བསྐྲུན་འབད་ཡོད་པའི་ཤོག་ལེབ་ཚུ་ རྟགས་བཀོད་མི་སྦོམ་ཚུ་དང་ ཡང་ན་ ཚོས་གཞི་ཚུ་དང་གཅིག་ཁར་ ལེགས་ཤོམ་སྦེ་ལཱ་འབདཝ་ཨིན་ དེ་ཚུ་ བཟུང་ནི་ལུ་འཇམ་ཏོང་ཏོ་ཨིན།"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "དུས་ཚོད་ཡང་ན་ སྐུགས་ཡོདཔ་ཨིན་ན?",
+        "a": "མེན། ཆུ་ཚོད་དང་སྐུགས་ གྱངས་ཁ་སྤོ་བཤུད་དང་ཕམ་མི་མེད། ཁྱོད་ཀྱིས་དུས་ཚོད་གང་རུང་ལུ་བཀག་ཚུགས། ཕྱེད་ཀ་བཀག་ནི་འདི་ མཇུག་བསྡུ་ནི་གི་ཐབས་ལམ་ལེགས་ཤོམ་ཅིག་ཨིན།"
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "ཤོག་ལེབ་འདི་ཚུ་ བྱིས་པའི་ཤོག་ལེབ་བཟུམ་ཅིག་ཨིན་ན?",
+        "a": "ང་བཅས་ཀྱིས་ མགུ་སྐོར་ལས་ ཞི་བདེ་དང་ འཇམ་ཏོང་ཏོ་གི་དངོས་པོ་ཚུ་ བྲིས་ཡོདཔ་ལས་ ཤོག་ལེབ་ཚུ་ རྒས་ཤོས་ཚུ་ལུ་ འོས་འབབ་ཡོདཔ་ཨིན། དབྱིབས་སྦོམ་ཚུ་གིས་ ཕྲུ་གུ་བཟུམ་སྦེ་མ་བཟོ་བར་ ཚོས་གཞི་འཇམ་ཏོང་ཏོ་སྦེ་བཞགཔ་ཨིན།"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "རིན་མེད་སྟོང་པ་ཨིན་ན་ དེ་ལས་ ང་གིས་ ཐོ་བཀོད་འབད་དགོཔ་ཨིན་ན?",
+        "a": "ཨིན་ རིན་མེད་སྟོང་པ་སྦེ་ཨིནམ་ལས་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་མེདཔ་ཨིན། འདི་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ཨིན།"
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "ཁ་སླབ་ཤོག་བྱང་ཚུ།",
+    "seoTitle": "བློ་སྟོབས་མེད་པའི་ནད་གཞི་གི་དོན་ལུ་ ཁ་སླབ་འགོ་བཙུགས་མི་: པར་རིས་ཤོག་བྱང་།",
+    "h1": "ཁ་སླབ་ཤོག་བྱང་ཚུ།",
+    "description": "བློ་སྟོབས་མེད་པའི་མི་ཚུ་གི་དོན་ལུ་ ཁ་སླབ་འགོ་བཙུགས་མི་ པར་རིས་ཤོག་བྱང་ཚུ་ དྲི་བ་དྲིས་ལན་མེདཔ་དང་ ལན་ངེས་བདེན་མེདཔ་ཨིན། གསལ་གཞི་གུ་ལག་ལེན་འཐབ་ ཡང་ན་ ཆ་ཚན་ཆ་ཚང་དཔར་བསྐྲུན་འབད།",
+    "short": "ཁ་ཕྱེ་སྟེ་ དྲི་བ་འཇམ་པོ་ཡོད་པའི་ པར་རིས་ཤོག་བྱང་ཚུ། དྲི་བ་དྲིས་ལན་མེད།",
+    "players": "མི2སམ་སྡེ་ཚན།",
+    "intro": "ཤོག་བྱང་རེ་རེ་གིས་ གོམས་འདྲིས་ཅན་གྱི་པར་ཅིག་ ཁ་ཕྱེ་སྟེ་ ཁ་སླབ་ནིའི་དོན་ལུ་ མགྲོན་བརྡ་འབད་དེ་ ཆ་སྒྲིག་འབདཝ་ཨིན། དཔེར་ན་ \"ཁྱོད་ཀྱི་དགའ་མཐུན་གནམ་གཤིས་ག་ཅི་སྨོ?\" ལན་ཡང་དག་མེད་པ་དང་དྲན་པ་གང་ཡང་མེད། བརྗོད་དོན་གདམ་ཁ་རྐྱབས་ ཡང་ན་ དེ་ཚུ་ཆ་མཉམ་བསྒྱུར་བཅོས་འབད།",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "བརྗོད་དོན་གདམ་ཁ་རྐྱབས་ ཡང་ན་ \"All cards\" བཞག།",
+      "དྲི་བ་འདི་སྐད་སྦོམ་སྦེ་ལྷག་སྟེ་ པར་འདི་གཅིག་ཁར་བལྟ།",
+      "ཉན་ཞིནམ་ལས་ ཁྱོད་རའི་ལན་འདི་ བརྗེ་སོར་འབད་དེ་ ཁ་སླབ་འདི་ འཁྱམས་བཞག།",
+      "ཁྱོད་རང་གྲ་སྒྲིག་ཡོད་པའི་སྐབས་ \"Next card\" ལུ་ཨེབ་གཏང་འབད་ ཡང་ན་ ཁྱོད་ཀྱིས་དགའ་མི་ཚུན་ཚོད་ ཤོག་བྱང་གཅིག་དང་གཅིག་ཁར་སྡོད།",
+      "ཤོག་ལེབ་ཆ་ཚན་ཅིག་བཏོག་ནིའི་དོན་ལུ་ \"Print all cards\" ལུ་ཨེབ་གཏང་།"
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "དྲི་བ་འདི་གི་ལན་ཡང་ཁྱོད་ར་གིས་བྲིས། དྲི་བ་དྲིས་ལན་མེན་པར་ ཁ་སླབ་བཟུམ་ཅིག་འཚོརཝ་ཨིན།",
+      "བདེན་པ་མེན་པར་ ལོ་རྒྱུས་ལུ་རྗེས་སུ་འཇུག། ཁ་གསལ་ཚུ་འགྱུར་བཅོས་འགྱོ་བ་ཅིན་ ལེགས་ཤོམ་ཨིན།",
+      "གལ་སྲིད་ ཤོག་བྱང་ཅིག་གིས་ སེམས་སྐྱོ་བའི་ ཅ་ལ་ཅིག་ལུ་ ལགཔ་བརྐྱབ་པ་ཅིན་ འཚོར་སྣང་དེ་ ངོས་ལེན་འབད་དེ་ དྲག་པོ་སྦེ་ ཤོག་བྱང་གཞན་ཅིག་ནང་ སྤོ་བཤུད་འབད།"
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "ག་ཅི་འབད་ \"ཁྱོད་ཀྱིས་དྲན་འོང་ག...?\" དྲི་བ།",
+        "a": "དྲན་ཤེས་བརྟག་དཔྱད་འབད་མི་དྲི་བ་ཚུ་གིས་ ཆོས་རྒྱུགས་བཟུམ་སྦེ་ ཚོར་སྣང་བྱུང་སྟེ་ ངོ་ཚ་འབྱུང་བཅུགཔ་ཨིན། མགྲོན་བརྡ་ཁ་ཕྱེ་ \"Tell me about...\" ག་ར་གིས་ ག་ཅི་དྲན་འོང་རུང་ འཛུལ་བཅུག།"
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "ཤོག་བྱང་ཚུ་དཔར་བསྐྲུན་འབད་ཚུགས་ག?",
+        "a": "ཨིན། \"Print all cards\" གིས་ ཆ་ཚན་ཆ་ཚང་འདི་ དབྱེ་བ་སྦོམ་ནང་ དཔར་བསྐྲུན་འབདཝ་ཨིན་ ཤོག་ལེབ་རེ་ལུ་ ཤོག་བྱང་ལེ་ཤ་ཅིག་ བཏོག་བཏང་ནི་ལུ་གྲ་སྒྲིག་ཡོདཔ་ཨིན།"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "རིན་མེད་སྟོང་པ་ཨིན་ན་ དེ་ལས་ ང་གིས་ ཐོ་བཀོད་འབད་དགོཔ་ཨིན་ན?",
+        "a": "ཨིན་ རིན་མེད་སྟོང་པ་སྦེ་ཨིནམ་ལས་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་མེདཔ་ཨིན། འདི་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ཨིན།"
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "པར་ཆ་གཅིག།",
+    "seoTitle": "བཟའ་ཚང་གི་པར་ཚུ་ལས་ མཐུན་སྒྲིག་རྩེདམོ་ཅིག་བཟོ།",
+    "h1": "པར་ཆ་གཅིག་: ཁྱོད་རའི་པར་ཚུ་མཐུན་སྒྲིག་འབད།",
+    "description": "ཁྱོད་རའི་བཟའ་ཚང་གི་པར་ཚུ་ མཐུན་སྒྲིག་རྩེདམོ་ཅིག་ལུ་བསྒྱུར་བཅོས་འབད། ཁྱོད་རའི་ཐབས་འཕྲུལ་ནང་ པར་༢ ལས་༦ གདམ་ཁ་རྐྱབས། དེ་ཚུ་ཁྱོད་ཀྱི་བརྡ་འཚོལ་ནང་ལུ་སྡོད་ཞིནམ་ལས་ ནམ་ཡང་སྐྱེལ་བཙུགས་མི་འབད།",
+    "short": "ཁྱོད་རའི་པར་ཚུ་གདམ་ཁ་རྐྱབ་སྟེ་ མཐུན་སྒྲིག་འབད། ག་ནི་ཡང་སྐྱེལ་བཙུགས་མ་འབད་བས།",
+    "players": "མི་2 ཕྱོགས་གཅིག་ནས།",
+    "intro": "ཁྱོད་རའི་ཁ་པར་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ནང་ལས་ པར་གཉིས་ལས་དྲུག་ཚུན་ཚོད་ གདམ་ཁ་རྐྱབ་སྟེ་ དེ་ཚུ་ པར་སྦོམ་དང་ མཐོང་གསལ་ཅན་གྱི་ མཐུན་སྒྲིག་རྩེདམོ་ཅིག་ལུ་འགྱུརཝ་ཨིན། པར་ཚུ་ ཤོག་ལེབ་འདི་གི་ནང་ན་རྐྱངམ་ཅིག་སྟོནམ་ཨིན། དེ་ཚུ་ སྐྱེལ་བཙུགས་འབད་ནི་དང་ སྲུང་བཞག་འབད་ནི་ ཡང་ན་ བརྗེ་སོར་འབད་ནི་མེདཔ་ལས་ ཁྱོད་ཀྱིས་ ཤོག་ལེབ་ཁ་བསྡམས་པའི་སྐབས་ དེ་ཚུ་ ཡལ་འགྱོཝ་ཨིན།",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"Choose photos\" ལུ་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ པར་གཉིས་ལས་དྲུག་ཚུན་འདམ་ཁ་རྐྱབས།",
+      "པར་རེ་རེ་ལུ་ཚར་གཉིས་འབྱུངམ་ཨིན། གཅིག་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ དེ་གི་ཆ་འདི་ཨེབ་གཏང་།",
+      "པར་རེ་རེ་བཞིན་ཁྱོད་ཀྱིས་མཐོང་བའི་བསྒང་ལས་སླབ།",
+      "ཁྱོད་ཀྱིས་འབད་ཚརཝ་ད་ ཤོག་ལེབ་འདི་ཁ་བསྡམ་ ཡང་ན་ \"Clear photos\" ལུ་ཨེབ་གཏང་འབད། གང་ཡང་བཞག་མེད།"
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "དགའ་སྤྲོ་དང་གོམས་འདྲིས་ཅན་གྱི་དངོས་པོ་ཚུ་གི་པར་གསལ་ཏོག་ཏོ་གདམ་ཁ་རྐྱབས། སེམས་ཅན་དང་ལྡུམ་ར་ དགའ་སའི་ས་ཁོངས་ གཉེན་གྱི་ཉིནམ།",
+      "ས་གནས་དང་དངོས་པོ་ཚུ་གི་པར་ཚུ་ གདོང་ལས་འཇམ་ཏོང་ཏོ་འོང་ནི་ཨིནམ་མ་ཚད་ མི་ཚུ་གི་མིང་བཏགས་ནི་གི་གནོན་ཤུགས་ག་ཅི་རང་འབད་རུང་ བཀག་ཚུགས།",
+      "གློ་བུར་གྱི་སེམས་སྡུག་འབག་འོང་པ་ཅིན་ ཤི་མི་ཚུ་གི་པར་ཚུ་ བཀོག་བཞག་དགོ། ཁྱོད་ཀྱིས་ སེམས་གསོ་འབག་འོང་ཟེར་མ་ཤེས།"
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "ངའི་པར་ཚུ་ག་ཏེ་ཡང་སྐྱེལ་བཙུགས་འབད་ཡོདཔ་ཨིན་ན?",
+        "a": "མེན་ ཤོག་ལེབ་འདི་གིས་ ཁྱོད་ཀྱིས་བརྡ་འཚོལ་ནང་ ཐད་ཀར་དུ་གདམ་ཁ་རྐྱབ་མི་པར་ཚུ་ལྷག་སྟེ་ ཁྱོད་རའི་གསལ་གཞི་གུ་སྟོནམ་ཨིན། དེ་ཚུ་ ང་བཅས་ལུ་ཡང་ན་ གཞན་ལུ་གཏང་མི་བཏུབ་ དེ་ལས་ ཁྱོད་ཀྱིས་ ཤོག་ལེབ་འདི་ཁ་བསྡམ་པའི་སྐབས་ ཡང་ན་ ལོག་མངོན་གསལ་འབད་བའི་སྐབས་ དེ་ཚུ་མེདཔ་ཨིན།"
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "དུས་ཚོད་ཡང་ན་ སྐུགས་ཡོདཔ་ཨིན་ན?",
+        "a": "མེན། ཆུ་ཚོད་དང་སྐུགས་ གྱངས་ཁ་སྤོ་བཤུད་དང་ཕམ་མི་མེད། ཁྱོད་ཀྱིས་དུས་ཚོད་གང་རུང་ལུ་བཀག་ཚུགས། ཕྱེད་ཀ་བཀག་ནི་འདི་ མཇུག་བསྡུ་ནི་གི་ཐབས་ལམ་ལེགས་ཤོམ་ཅིག་ཨིན།"
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "ཤུལ་མམ་གྱི་དོན་ལུ་རྩེདམོ་འདི་སྲུང་ཚུགས་ག?",
+        "a": "བརྡ་འཚོལ་ནང་ལུ་མེདཔ་ལས་ བཟོ་བཀོད་ཀྱི་ཐོག་ལས་ སྒེར་གྱི་ག་ནི་ཡང་ གསོག་འཇོག་འབད་དེ་མེདཔ་ཨིན། ཁྱོད་རའི་ཐབས་འཕྲུལ་ནང་ སེལ་འཐུ་འབད་ཡོད་པའི་པར་འདྲ་ཚུ་ བཞག་ཚུགས།"
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "པར་རིས་བིང་གོ།",
+    "seoTitle": "རྒན་རྒོན་ཚུ་གི་དོན་ལུ་ པར་རིས་བིང་གོ་: དཔར་བསྐྲུན་འབད་བཏུབ།",
+    "h1": "སྡེ་ཚན་ཚུ་གི་དོན་ལུ་ པར་རིས་བིང་གོ།",
+    "description": "དྲན་ཤེས་བདག་འཛིན་དང་སྡེ་ཚན་རྒས་ཤོས་ཚུ་གི་དོན་ལུ་ རིན་མེད་དཔར་བསྐྲུན་འབད་བཏུབ་པའི་པར་རིས་བིང་གོ་ གསལ་གཞི་གུ་ཁ་པར་བཏང་མི་སྦོམ་ཅིག་དང་གཅིག་ཁར་ཨིན། མིང་ཚིག་ཡོད་པའི་པར་སྦོམ་ ༩ ཡང་ན་ ༡༦ གྲུ་བཞི་ ལྷག་དགོཔ་མེད།",
+    "short": "དཔར་བསྐྲུན་འབད་བཏུབ་པའི་པར་རིས་བིང་གོ་ཤོག་བྱང་དང་ སྡེ་ཚན་ཚུ་གི་དོན་ལུ་ གསལ་གཞི་སྦོམ་གྱི་ཁ་པར་བཏང་མི་ཅིག།",
+    "players": "མི་ ༢ ནས་ ༣༠ བར་གྱི་སྡེ་ཚན།",
+    "intro": "ཨང་གྲངས་ཀྱི་ཚབ་ལུ་པར་ཚུ་ཡོད་པའི་ སྔར་ལུགས་ཀྱི་བིང་གོ་འདི་ མི་གཅིག་གིས་ཡང་ ཡིག་འབྲུ་ཆུང་ཀུ་ལྷག་དགོཔ་མེདཔ་ཨིན། གཞན་དང་མ་འདྲ་བའི་ཤོག་བྱང་ཆ་ཚན་ཅིག་དཔར་བསྐྲུན་འབད་ཞིནམ་ལས་ རྒྱང་མཐོང་དང་ གློག་རིག་ ཡང་ན་ ཐབ་ལམ་ཚུ་ནང་ པར་རེ་རེ་སྦོམ་སྦེ་སྟོན་ནིའི་དོན་ལུ་ གསལ་གཞི་གུ་འབོད་བརྡ་འབད་མི་འདི་ལག་ལེན་འཐབ།",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "ཤོག་བྱང་རེ་ལུ་ གྲུ་བཞི་༩ ཡང་ན་ ༡༦ གདམ་ཁ་རྐྱབ་སྟེ་ རྩེད་འགྲན་པ་ག་དེམ་ཅིག་ཡོདཔ་ཨིན་ན།",
+      "\"ཤོག་བྱང་ཚུ་དཔར་བསྐྲུན་འབད།\" ཤོག་བྱང་རེ་རེ་བཞིན་སོ་སོ་ཡོད།",
+      "ཁ་སླབ་མི་འདི་ གསལ་གཞི་སྦོམ་ཅིག་གུ་ཁ་ཕྱེ། པར་རེ་རེ་བཞིན་མིང་དང་བཅས་སྟོན་ནིའི་དོན་ལུ་ \"Next picture\" ལུ་ཨེབ་གཏང་།",
+      "རྩེད་འགྲན་པ་ཚུ་གིས་ ཁོང་རའི་ཤོག་བྱང་གུ་མཐུན་པའི་པར་འདི་ ཏི་རུ་དང་ ཨེབ་རྟ་ ཡང་ན་ རྟགས་བཀོད་མི་ཚུ་གིས་ བཀབ་བཞགཔ་ཨིན།",
+      "གྲལ་ཐིག་གཅིག་ཡང་ན་ ཤོག་བྱང་ཆ་མཉམ་བཀང་མི་ག་ར་ལུ་ དགའ་སྤྲོ་ཐོབ་ཨིན། ཐོན་རིམ་འདི་ནང་ ཕམ་མི་མེདཔ་ཨིན་ ག་ར་ལུ་ ཐིག་ཅིག་མ་ཐོབ་ཚུན་ཚོད་ རྩེདམོ་རྩེ་སྡོད།"
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "བརྟག་ཞིབ་འབད་མི་ཡང་ན་ བུམ་པའི་ཁ་ཏོག་བཟུམ་གྱི་ ཊོ་ཀེན་སྦོམ་ཚུ་ལག་ལེན་འཐབ། ཨེབ་རྟ་ཆུང་ཀུ་ཚུ་ འཐུ་ནི་ལུ་ལཱ་ཁག་འོང་།",
+      "པར་འདི་ལུ་མིང་བཏགས་ཞིནམ་ལས་ དེ་གི་སྐོར་ལས་ ག་ཅི་ཅིག་སླབ། \"གྲུ་གཟིངས་ཅིག གྲུ་ནང་ ག་གིས་ ཕྱི་ཁར་འགྱོ་ཡི་ག་?\"",
+      "གསལ་གཞི་གི་ཉེ་འདབས་ལུ་མཐོང་ནི་ལུ་དཀའ་ངལ་ཡོད་མི་ཚུ་སྡོད་ཞིནམ་ལས་ གྲོགས་རམ་འབད་མི་ཚུ་ དགོས་མཁོ་ཡོད་མི་རྩེད་འགྲན་པ་ཚུ་དང་གཅིག་ཁར་ ཆ་སྒྲིག་འབད།",
+      "སྡེ་ཚན་མང་ཤོས་ཅིག་གི་དོན་ལུ་ གྲུ་བཞི་དགུ་འདི་ ལངམ་སྦེ་ཡོདཔ་ཨིན། ལཱ་ཡུན་འདི་སྐར་མ་༢༠ ལས་༣༠ དེ་ཅིག་བཞག།"
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "ང་གིས་ བདག་འཛིན་འཐབ་སའི་ཁྱིམ་ནང་ པར་རིས་བིང་གོ་འདི་ ག་དེ་སྦེ་ གཡོག་བཀོལ་ནི་སྨོ?",
+        "a": "རྩེདམོ་རྩེ་མི་རེ་ལུ་ ཤོག་བྱང་གཅིག་དཔར་བསྐྲུན་འབད་ཞིནམ་ལས་ ཁྱོད་ལུ་ཡོད་པའི་གསལ་གཞི་སྦོམ་ཤོས་གུ་ཁ་སླབ་མི་འདི་བཙུགས་ཞིནམ་ལས་ པར་ཚུ་འགོར་ལས་སྦེ་ཁ་སླབ་སྟེ་ རེ་རེ་ལུ་མིང་བཏགས་དགོ། མི་ཆ་མཉམ་ལུ་ཐིག་ཅིག་མ་ཐོབ་ཚུན་ཚོད་རྩེད།"
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "དཔར་བསྐྲུན་འབད་ནི་ལུ་རིན་མེད་ཨིན་ན?",
+        "a": "ཨིན། ཁྱོད་ལུ་དགོ་པའི་ཤོག་བྱང་ག་དེམ་ཅིག་དགོཔ་ཨིན་ན་ དཔར་བསྐྲུན་འབད་ རང་སོའི་ཡང་ན་སྡེ་ཚན་གྱི་ལག་ལེན་དོན་ལུ་ ཁྱོད་རའི་འདོད་པ་ག་དེམ་ཅིག་ཡོདཔ་ཨིན་ན་ དཔར་བསྐྲུན་འབད།"
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "མི་ཚུ་གིས་ མ་ལྷག་པར་ རྩེདམོ་རྩེ་ཚུགས་ག?",
+        "a": "ཨིན། གྲུ་བཞི་རེ་རེ་བཞིན་དུ་ པར་རིས་སྦོམ་ཅིག་ཨིནམ་ད་ མིང་ཚིག་ལུ་དགའ་མི་ཚུ་གི་དོན་ལུ་ འོག་ལུ་མིང་ཡོདཔ་ཨིན།"
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "ཞི་འཇམ་གྱི་དབུགས་འབྱིན་རྔུབ།",
+    "seoTitle": "རྒན་རྒོན་དང་ བདག་འཛིན་འཐབ་མི་ཚུ་གི་དོན་ལུ་ དབུགས་གཏོང་ལེན་གྱི་ ངལ་གསོ།",
+    "h1": "དབུགས་གཏོང་ལེན་གྱི་ངལ་གསོ།",
+    "description": "བརྗེ་སོར་འབད་ནིའི་དོན་ལུ་ དབུགས་གཏོང་ལེན་གྱི་བར་ན་ མགྱོགས་དྲགས་སྦེ་ ཞི་བདེ་སྦེ་འགྱོཝ་ཨིན། ཁྱོད་ཀྱིས་འགོ་བཙུགས་ཏེ་ དུས་ནམ་ར་འབད་རུང་ བཀག་ཚུགས།",
+    "short": "དབུགས་གཏོང་ལེན་གྱི་སྒོར་ཐིག་མགྱོགས་པོ་ཅིག། ཁྱོད་དགའ་བའི་སྐབས་འགོ་བཙུགས་དང་བཀག།",
+    "players": "མི་1 ཡང་ན་2།",
+    "intro": "རེ་ཅིག་སྐབས་ ལས་རིམ་དྲག་ཤོས་འདི་ ཁུ་སིམ་སིམ་སྦེ་ བཀག་བཞག་ནི་འདི་ཨིན། \"Start\" ལུ་ཨེབ་གཏང་འབད་ཞིནམ་ལས་ སྒོར་ཐིག་འདི་ཡར་འཕར་འགྱོ་བའི་བསྒང་ལས་ དབུགས་གཏོང་ལེན་འབད་ཞིནམ་ལས་ ཆུང་ཀུ་འགྱོ་བའི་བསྒང་ལས་ ཕྱི་ཁར་གཏང་། མགྱོགས་དྲགས་ཡང་ན་མགྱོགས་དྲགས་གདམ་ཁ་རྐྱབས། སྨན་བཅོས་མེན་པར་ བརྗེ་སོར་འབད་ནིའི་དོན་ལུ་ ཞི་བདེ་གི་དུས་ཚོད་ཅིག་ཨིན།",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "ཕྱོགས་གཅིག་ལུ་བདེ་ཏོག་ཏོ་སྦེ་སྡོད།",
+      "མགྱོགས་ཚད་གདམ་ཁ་རྐྱབ་: མགྱོགས་པ་ཡང་ན་ འཇམ་པོ།",
+      "\"འགོ་བཙུགས་\" ལུ་ཨེབ་གཏང་འབད། སྒོར་ཐིག་འདི་འཕེལ་བའི་སྐབས་ལུ་ དབུགས་གཏོང་ལེན་འབད་ཞིནམ་ལས་ ཆུང་ཀུ་འགྱོ་བའི་སྐབས་ལུ་ ཕྱི་ཁར་གཏང་དགོ།",
+      "དབུགས་དྲུག་བཏང་པའི་ཤུལ་ལས་ རང་གིས་རང་ བཀག་བཞགཔ་ཨིན་ ཡང་ན་ ཁྱོད་ཀྱིས་དགོ་པའི་སྐབས་ \"Stop\" ལུ་ཨེབ་གཏང་འབད།"
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "ལགཔ་བཟུང་ནི་དང་ ཡང་ན་ མི་དེ་གི་ལགཔ་གུ་ལགཔ་བཀལ་ནི་འདི་ དགའ་བསུ་ཞུ་བ་ཅིན་ ལགཔ་བཀལ་དགོ།",
+      "ནམ་ཡང་ཨུ་ཚུགས་མ་བསྐྱེད། གལ་སྲིད་ཁོང་གིས་བལྟ་དགོ་པ་ཅིན་ ལེགས་ཤོམ་ཨིན།",
+      "མི་གཅིག་ལུ་ དབུགས་གཏོང་ལེན་གྱི་དཀའ་ངལ་ཡོད་པ་ཅིན་ སྤྱིར་བཏང་སྦེ་ དབུགས་གཏོང་ལེན་འབད་དེ་ སྒོར་ཐིག་འདི་ འཇམ་ཏོང་ཏོ་སྦེ་བལྟ་དགོ། དབུགས་གཏོང་ལེན་གྱི་ཚ་གྱང་ག་ཅི་རང་འབད་རུང་ སྨན་པ་ལུ་དྲིས།"
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "འདི་སྨན་བཅོས་དབུགས་གཏོང་ལེན་གྱི་ལུས་སྦྱོང་ཅིག་ཨིན་ན?",
+        "a": "མེན། འདི་ཞི་འཇམ་དང་ཚོང་སྡེ་གི་དོན་ལུ་ འཇམ་ཏོང་ཏོ་དང་ གདམ་ཁ་ཅན་གྱི་བར་མཚམས་ཨིན། ཚ་གྱང་དང་གནས་སྟངས་གང་རུང་ཅིག་གི་སྨན་བཅོས་མེན། གསོ་བའི་ཚ་གྱང་གི་སྐོར་ལས་ སྨན་པ་དང་གཅིག་ཁར་ ཁ་སླབ།"
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "ང་གིས་འགོ་མ་བཙུགས་པར་ སྒོར་ཐིག་འདི་འགྱོཝ་ཨིན་ན?",
+        "a": "མེན་ ཁྱོད་ཀྱིས་ འགོ་བཙུགས་ ཨེབ་མ་གཏང་ཚུན་ཚོད་ ག་ནི་ཡང་ འགུལ་མི་བཏུབ་ དེ་ལས་ དབུགས་དྲུག་གི་ཤུལ་ལས་ ཡང་ན་ ཁྱོད་ཀྱིས་ བཀག་ ཨེབ་པའི་སྐབས་ བཀག་བཞགཔ་ཨིན། ཁྱོད་ཀྱི་ཐབས་འཕྲུལ་འདི་གཡོ་འགུལ་མར་ཕབ་འབད་ནི་ལུ་གཞི་སྒྲིག་འབད་བ་ཅིན་ སྒོར་ཐིག་འདི་ཡར་འཕར་མ་འགྱོ་བར་མིང་ཚིག་ཚུ་འགྱུར་བཅོས་འགྱོཝ་ཨིན།"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "རིན་མེད་སྟོང་པ་ཨིན་ན་ དེ་ལས་ ང་གིས་ ཐོ་བཀོད་འབད་དགོཔ་ཨིན་ན?",
+        "a": "ཨིན་ རིན་མེད་སྟོང་པ་སྦེ་ཨིནམ་ལས་ རྩིས་ཁྲ་དང་ མིང་ཐོ་བཀོད་ནི་ ཡང་ན་ ཕབ་ལེན་འབད་ནི་ཚུ་མེདཔ་ཨིན། འདི་གིས་ འགྲུལ་འཕྲིན་དང་ ཐབ་ལམ་ ཡང་ན་ གློག་རིག་ཚུ་ནང་ ཝེབ་བརྡ་འཚོལ་ནང་ ལཱ་འབདཝ་ཨིན།"
       }
     ]
   }

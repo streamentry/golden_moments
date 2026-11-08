@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Irudi bikoteak",
+    "seoTitle": "Dementziarako Lotura Jokoa: Irudi Bikoteak",
+    "h1": "Irudi-bikoteak: bat etortzeko joko leuna",
+    "description": "Dementzia duten pertsonentzako doako eta leuna lotzeko joko bat. Irudi handiak ikusgai geratzen dira, ez dago tenporizadorerik edo puntuaziorik, eta 4 eta.",
+    "short": "Aurkitu berdinak diren bi irudiak. Irudiak ikusgai egon daitezke.",
+    "players": "1 edo 2 pertsona, elkarren ondoan",
+    "intro": "Sakatu argazki bat, eta, gero, bat datorrena. Irudiak lehenespenez erakusten dira, beraz, ez da ezer gogoratu behar. Bi argazki batera doazenean urrezko ertza eta kontrol-marka bat lortzen dute.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Aukeratu zenbat fitxa erabili. Lau fitxa hasteko leku lasaia da.",
+      "Sakatu edozein argazki. Urrezko ertza lortzen du.",
+      "Sakatu itxura berdina duen argazkia. Bikotea elkarrekin geratzen da kontrol-marka batekin.",
+      "Bi irudiak desberdinak badira, ez da ezer txarrik gertatzen. Sakatu berriro prest zauden bakoitzean.",
+      "Aktibatu \"Ezkutuko irudiak\" biek ahoz beherako bertsio klasikoa gozatzen baduzu soilik."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Irudiei izena ozenki elkarrekin eta haiei buruz hitz egin: \"Tea-kopa gorri bat. Esnea hartzen al duzu tean?\"",
+      "Utzi zaintzen duzun pertsonari kolpeak egiten, denbora behar bada ere. Seinalatu haiek sakatu beharrean.",
+      "Egon lau fitxarekin ondo sentitzen den bitartean. Fitxa gehiago aukera bat dira, inoiz ez iristeko maila bat.",
+      "Amaitu oraindik atsegina den bitartean. Jolas bat jarduera osoa da."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ba al dago tenporizadorerik edo puntuaziorik?",
+        "a": "Ez. Ez dago erlojurik, puntuaziorik, kontrako mugimendurik edo galtzerik. Edozein momentutan gelditu zaitezke, eta erdibidean gelditzea oso modu ona da amaitzeko."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Zergatik geratzen dira argazkiak gora begira?",
+        "a": "Irudiak ikusgai mantentzeak jokoa bilakatzen du eta lotzen du gogoratu beharrean. Jende askok lasaiago ikusten du hori. Nahiago baduzu, sakatu bakarrean ezkutuko irudietara alda dezakezu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Doakoa al da, eta izena eman behar al dut?",
+        "a": "Bai, doakoa da, eta ez dago konturik, erregistratu edo deskargatu. Telefono, tablet edo ordenagailuko web arakatzailean funtzionatzen du."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Erabili al ditzakegu gure familiako argazkiak?",
+        "a": "Bai. Probatu Argazki bikoteak, zure gailuko argazkiak aukeratzeko aukera ematen dizuna. Argazkiak zure arakatzailean geratzen dira eta ez dira kargatzen."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Aurkitu berdina",
+    "seoTitle": "Aurkitu irudi bera: dementzia joko sinplea",
+    "h1": "Aurkitu Irudi Bera",
+    "description": "Irudi bat goian, bi-lau behean. Sakatu berdina dena. Dementzia duten pertsonentzat doako irudi joko lasaia, tenporizadorerik gabe.",
+    "short": "Begiratu goiko irudiari eta sakatu beheko bera.",
+    "players": "1 edo 2 pertsona",
+    "intro": "Pantailaren goialdean argazki bakarra dago. Azpian bi, hiru edo lau argazki daude. Sakatu berdina dena. Aukera sinple bat da aldi berean, hitz egiteko leku askorekin.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Aukeratu bi, hiru edo lau argazki. Bi da errazena.",
+      "Begiratu goiko argazkiari elkarrekin.",
+      "Sakatu beheko irudi bera. Txeke batekin eta hitz bero batzuekin markatuta dago.",
+      "Beste argazki bat sakatzen bada, jokoak izena jarri eta itxaron egiten du. Hartu zure denbora.",
+      "Sakatu \"Hurrengo argazkia\" beste baterako prest zaudenean."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Aukeratu aurretik argazki bakoitzari buruz hitz egin: koloreak, formak, non ikus dezakezun.",
+      "Bi aukera ez dira \"errazak\". Helburua une atsegina da, ez erronka.",
+      "Sakatzea zaila bada, pertsonak seinalatu dezake eta zuk sakatu dezakezu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ba al dago tenporizadorerik edo puntuaziorik?",
+        "a": "Ez. Ez dago erlojurik, puntuaziorik, kontrako mugimendurik edo galtzerik. Edozein momentutan gelditu zaitezke, eta erdibidean gelditzea oso modu ona da amaitzeko."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Zer gertatzen da okerreko argazkia sakatuz gero?",
+        "a": "Ezer desatsegina. Ez dago burrunbarik, gurutze gorririk edo dardarrik. Jokoak ukitutako argazkiari izena ematen dio eta hurrengo kolpearen zain dago."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Doakoa al da, eta izena eman behar al dut?",
+        "a": "Bai, doakoa da, eta ez dago konturik, erregistratu edo deskargatu. Telefono, tablet edo ordenagailuko web arakatzailean funtzionatzen du."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Itzala partida",
+    "seoTitle": "Dementziarako itzalak lotzeko jokoa: doako linean",
+    "h1": "Shadow Match: Irudi-joko leuna",
+    "description": "Itzal ilun bat goialdean, bizpahiru argazki behean. Ukitu itzala egiten duen argazkia. Dementziarako itzalak lotzeko joko doako eta lasaia, tenporizadorerik gabe.",
+    "short": "Begiratu itzalari eta kolpatu egiten duen argazkia.",
+    "players": "1 edo 2 pertsona",
+    "intro": "Itzala lotzea inprimatutako lan-orrietako jarduera ezaguna da, hemen irudi handiekin eta inprimatzeko ezer. Pantailaren goialdean itzal leun bat dago eta bi, hiru edo lau argazki itxaroten dira behean. Sakatu itzala egiten duena. Bizikleta, aterkia edo tea-kopa bezalako formak ere erraz hitz egiten dira.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Aukeratu bi, hiru edo lau argazki. Bi da errazena.",
+      "Begiratu itzalari elkarrekin. Zein forma du? Altua ala biribila al da?",
+      "Ukitu itzala egiten duen argazkia. Bere izena itzalpean agertzen da.",
+      "Beste argazki bat sakatzen bada, jokoak izena jarri eta itxaron egiten du. Hartu zure denbora.",
+      "Sakatu \"Hurrengo itzala\" beste baterako prest zaudenean."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Trazatu itzalaren eskema hatz batekin eta hitz egin formari buruz.",
+      "Itzalak gogor sentitzen badira gaur, aldatu Bilatu berdina aukerara, non irudiak antzekoak diren.",
+      "Behin aurkitutakoan irudiari buruz hitz egin: «Horrelako aterkia genuen»."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ba al dago tenporizadorerik edo puntuaziorik?",
+        "a": "Ez. Ez dago erlojurik, puntuaziorik, kontrako mugimendurik edo galtzerik. Edozein momentutan gelditu zaitezke, eta erdibidean gelditzea oso modu ona da amaitzeko."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Itzal parekatzea ona al da dementzia duten pertsonentzat?",
+        "a": "Pertsona batzuentzat jarduera atsegina eta sinplea izan daiteke, batez ere hasierako faseetan. Formak erraz ezagutzen dira hitzak baino. Gozatzeko eta elkarrizketarako da, ez proba bat, eta ez du dementzia tratatzen edo moteltzen. Frustrazioa eragiten badu, saiatu berdina Bilatu edo, besterik gabe, begiratu argazkiak elkarrekin."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Zer gertatzen da okerreko argazkia sakatuz gero?",
+        "a": "Ezer desatsegina. Ez dago burrunbarik, gurutze gorririk edo dardarrik. Jokoak ukitutako argazkiari izena ematen dio eta hurrengo kolpearen zain dago."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Doakoa al da, eta izena eman behar al dut?",
+        "a": "Bai, doakoa da, eta ez dago konturik, erregistratu edo deskargatu. Telefono, tablet edo ordenagailuko web arakatzailean funtzionatzen du."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Ordenatu elkarrekin",
+    "seoTitle": "Dementziarako ordenatzeko jokoa: Sort Together",
+    "h1": "Sort Together: Irudiak ordenatzeko jarduera",
+    "description": "Sakatu argazki bat, eta sakatu dagokion saskia: sukaldea edo lorategia, fruta edo animaliak. Dementzia duten pertsonentzako sailkatzeko jarduera lasaia eta doakoa.",
+    "short": "Jarri argazki bakoitza bere saskian: sukaldea edo lorategia, eta abar.",
+    "players": "1 edo 2 pertsona",
+    "intro": "Sailkatzea eguneroko zeregin ezaguna eta asegarria da, hala nola janariak gordetzea edo galtzerdiak parekatzea. Sakatu argazki bat, eta, ondoren, sakatu dagokion saskia. Ez dago presarik eta buelta okerrik.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Aukeratu gai bat: sukaldea eta lorategia, fruta eta animaliak, edo etxea eta bidaia.",
+      "Sakatu argazki bat. Urrezko ertza lortzen du.",
+      "Sakatu dagokion saskia. Irudia saski horretara mugitzen da.",
+      "Beste saskian badago, jokoak astiro esaten du eta itxaron egiten du.",
+      "Irudi guztiak ordenatuta daudenean, begiratu saskiak elkarrekin."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Askotan ez dago erantzun okerrik bizitza errealean. Norbaitek esaten badu ureztagailu bat sukaldean dagoela, galdetu zergatik. Istorio on bat lor dezakezu.",
+      "Erabili argazkiak gonbita gisa: \"Zer hazi duzu zure lorategian?\"",
+      "Benetako objektuak, adibidez, koilareak eta sardexkak edo botoiak koloreen arabera ordenatzea, pantailatik kanpo jarraipen bikaina da."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ba al dago tenporizadorerik edo puntuaziorik?",
+        "a": "Ez. Ez dago erlojurik, puntuaziorik, kontrako mugimendurik edo galtzerik. Edozein momentutan gelditu zaitezke, eta erdibidean gelditzea oso modu ona da amaitzeko."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Zergatik ordenatu?",
+        "a": "Jende asko gustatzen zaio sailkatzea lan erabilgarria eta ezaguna iruditzen zaiolako. Irudiei buruz hitz egitea ere erraza da joan ahala."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Doakoa al da, eta izena eman behar al dut?",
+        "a": "Bai, doakoa da, eta ez dago konturik, erregistratu edo deskargatu. Telefono, tablet edo ordenagailuko web arakatzailean funtzionatzen du."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Irudi puzzlea",
+    "seoTitle": "Dementziarako Jigsaw Puzzle Erraza: 4 edo 9 pieza",
+    "h1": "Picture Puzzle: puzzle erraza",
+    "description": "Dementzia duten pertsonentzako sareko puzzle erraza: 4 edo 9 pieza handi, irudi osoa ikusgai geratzen da eta bi pieza sakatu behar dituzu horiek trukatzeko.",
+    "short": "Ukitu bi pieza horiek trukatzeko, irudia osorik egon arte.",
+    "players": "1 edo 2 pertsona",
+    "intro": "Lagunarteko argazki bat lau edo bederatzi zati handitan mozten da eta nahasten da. Irudi osoa gida gisa ikusten da. Sakatu pieza bat, gero beste bat, eta lekuz aldatuko dira. Ez da arrastatu behar.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Aukeratu argazki bat eta 4 edo 9 pieza. Lau hasiera leuna da.",
+      "Begiratu argazki osoa goiko aldean.",
+      "Sakatu pieza bat, eta, gero, joan behar den tokia. Bi piezak trukatzen dira.",
+      "Leku egokian dauden piezak kontrol-marka txiki bat jasotzen dute.",
+      "Irudia osorik dagoenean, goza ezazu elkarrekin, eta aukeratu beste bat."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Bi pieza ukitzea haiek trukatzeko askoz errazagoa da arrastatzea baino.",
+      "Hitz egin irudiari buruz elkartzen den heinean: \"Hor dago teilatu gorria\".",
+      "12 eta 24 pieza handi dituen benetako egurrezko puzzle bat mahaiko jarduera ederra da ere."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ba al dago tenporizadorerik edo puntuaziorik?",
+        "a": "Ez. Ez dago erlojurik, puntuaziorik, kontrako mugimendurik edo galtzerik. Edozein momentutan gelditu zaitezke, eta erdibidean gelditzea oso modu ona da amaitzeko."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Arrastatu behar ditut piezak?",
+        "a": "Ez. Ukitu pieza bat, gero beste bat, eta lekuz aldatuko dira. Hau errazagoa da esku dardar batekin edo pantaila txiki batean."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Doakoa al da, eta izena eman behar al dut?",
+        "a": "Bai, doakoa da, eta ez dago konturik, erregistratu edo deskargatu. Telefono, tablet edo ordenagailuko web arakatzailean funtzionatzen du."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Amaitu esaera",
+    "seoTitle": "Amaitu esaera: Atsotitzak adinekoentzako jokoa",
+    "h1": "Amaitu esaera",
+    "description": "Azken hitza falta zaien esaera amerikar ezagunak, adibidez, \"Aurreztutako zentimo bat zentimo bat ___ da\".",
+    "short": "Osatu esaera ezagunak elkarrekin, gero horietaz hitz egin.",
+    "players": "1, 2 edo talde bat",
+    "intro": "Esaera zaharrak sarritan ezagunak dira bizitza osorako. Txartel bakoitzak azken hitza falta den esaera ezagun bat erakusten du, hiru aukera eta \"Erakutsi amaiera\" botoia. Amaieraren ostean, galdera leun batek elkarrizketa gonbidatzen du.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Irakurri esaera ozenki elkarrekin.",
+      "Sakatu amaitzen duen hitza, edo sakatu \"Erakutsi amaiera\".",
+      "Irakurri berriro esaera osoa eta hitz egin gonbita erabiliz.",
+      "Sakatu \"Hurrengo esana\" prest zaudenean."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Irakurri poliki-poliki eta utzi pausa bat azken hitzaren aurretik. Askotan jendeak esaten du amaitu baino lehen.",
+      "Norbaitek beste amaiera bat ematen badu, goza ezazu. Esaeren bertsio batzuk familia edo eskualdearen arabera aldatzen dira.",
+      "Talde batean, pertsona batek irakurtzen du eta denek bat egiten dute amaieran."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ba al dago tenporizadorerik edo puntuaziorik?",
+        "a": "Ez. Ez dago erlojurik, puntuaziorik, kontrako mugimendurik edo galtzerik. Edozein momentutan gelditu zaitezke, eta erdibidean gelditzea oso modu ona da amaitzeko."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Zer gertatzen da beste hitz bat aukeratzen badugu?",
+        "a": "Jolasak ohiko amaiera erakusten du eta elkarrizketara pasatzen da. Ez dago puntuaziorik, eta beste erantzun bat ondo dago."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Doakoa al da, eta izena eman behar al dut?",
+        "a": "Bai, doakoa da, eta ez dago konturik, erregistratu edo deskargatu. Telefono, tablet edo ordenagailuko web arakatzailean funtzionatzen du."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Letra handian hitz-bilaketa",
+    "seoTitle": "Letra handian Hitz Bilaketa Dementziarako, inprimagarria",
+    "h1": "Letra handian hitz-bilaketa",
+    "description": "Letra handietan doako hitz-bilaketa bat adinekoentzat eta dementzia duten pertsonentzat. Hitz gutxi, letra handiak, hitzak zehar eta behera bakarrik.",
+    "short": "Letra handiak, hitz batzuk, zehar eta behera bakarrik. Inprimatu ere.",
+    "players": "1 edo 2 pertsona",
+    "intro": "Letrak handiak eta hitz gutxi batzuk dituen sareta txiki bat, denak zehar edo behera irakurtzen. Sakatu hitz baten lehen letra, gero azken letra. Papera nahiago? Inprimatu puzzle berri bat ukitu bakarrean.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Aukeratu gai bat eta sarearen tamaina.",
+      "Begiratu hitzen zerrenda. Irakurritako hitzak zehar (ezkerretik eskuinera) edo behera (goitik behera).",
+      "Sakatu hitz baten lehen letra, eta, ondoren, azken letra.",
+      "Aurkitutako hitz bat nabarmendu eta zerrendatik kanpo utziko da.",
+      "Sakatu \"Inprimatu puzzle hau\" arkatz edo errotulagailu batekin paperean jolasteko."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Seinalatu zerrendako hitz bat eta bilatu bere lehen letra elkarrekin.",
+      "Paperean, argitzaile bat arkatza baino errazago eusten da.",
+      "Hitz egin gaiaren hitzei buruz. Fruta hitzak bilketa, gozogintza edo merkatuen oroitzapenetan sartzeko modu naturala dira."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ba al dago tenporizadorerik edo puntuaziorik?",
+        "a": "Ez. Ez dago erlojurik, puntuaziorik, kontrako mugimendurik edo galtzerik. Edozein momentutan gelditu zaitezke, eta erdibidean gelditzea oso modu ona da amaitzeko."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Hitz-bilaketa inprima al dezaket?",
+        "a": "Bai. Sakatu \"Inprimatu puzzle hau\" uneko sarea letra handiz inprimatzeko, azpian hitzen zerrendarekin. Puzzle berri bakoitza ezberdina da."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Doakoa al da, eta izena eman behar al dut?",
+        "a": "Bai, doakoa da, eta ez dago konturik, erregistratu edo deskargatu. Telefono, tablet edo ordenagailuko web arakatzailean funtzionatzen du."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Margotu orrialdeak",
+    "seoTitle": "Dementzia duten helduentzako orriak margotu (doan)",
+    "h1": "Margotu Orriak",
+    "description": "Helduentzako margotzeko orrialde soilak eremu handiak dituztenak: sakatu kolore bat, eta, ondoren, sakatu argazkia.",
+    "short": "Sakatu kolore bat eta, ondoren, irudiaren zati bat. Inprimatu orriak ere.",
+    "players": "1 edo 2 pertsona",
+    "intro": "Forma handi eta sinpleak dituzten orrialdeak: lore bat lapiko batean, etxea, tea-kopa, tximeleta eta belaontzi bat. Sakatu kolore bat, eta, ondoren, sakatu irudiaren zati bat hura betetzeko. Ez dago kolore okerrik.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Aukeratu orrialde bat.",
+      "Sakatu kolore bat. Kolore bakoitzak bere izena dauka idatzita.",
+      "Sakatu irudiaren zati bat kolore horrekin betetzeko.",
+      "Aldatu iritzia edozein unetan berriro betez.",
+      "Sakatu \"Inprimatu orri hau\" orri zuri bat izateko, arkatz edo errotulagailuekin koloreztatzeko."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Eman bi kolore aukeran multzo osoa baino, aukeratzea gehiegi iruditzen bazaizu.",
+      "Zuhaitz moreak eta eguzki urdinak ongi etorriak dira. Hau koloreaz gozatzea da, ez zehaztasuna.",
+      "Inprimatutako orriek ondo funtzionatzen dute errotulagailu edo crayon lodiekin, errazago hartzen direnak."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ba al dago tenporizadorerik edo puntuaziorik?",
+        "a": "Ez. Ez dago erlojurik, puntuaziorik, kontrako mugimendurik edo galtzerik. Edozein momentutan gelditu zaitezke, eta erdibidean gelditzea oso modu ona da amaitzeko."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Orrialde hauek umeegiak al dira?",
+        "a": "Objektu soil eta lasaiak marraztu genituen marrazki bizidunak baino, beraz, orrialdeak helduei egokitzen zaizkie. Forma handiek erraz margotzen dute haurtxo bihurtu gabe."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Doakoa al da, eta izena eman behar al dut?",
+        "a": "Bai, doakoa da, eta ez dago konturik, erregistratu edo deskargatu. Telefono, tablet edo ordenagailuko web arakatzailean funtzionatzen du."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Elkarrizketa txartelak",
+    "seoTitle": "Dementziarako elkarrizketa abiarazleak: Irudi-txartelak",
+    "h1": "Elkarrizketa Txartelak",
+    "description": "Dementzia duten pertsonentzat elkarrizketa abiarazle leuneko txartel irudidunak: galdeketarik ez, erantzun zuzenik gabe. Erabili pantailan edo inprimatu multzo osoa.",
+    "short": "Irudi-txartelak galdera ireki eta leunekin. Galdeketarik ez.",
+    "players": "2 pertsona edo talde bat",
+    "intro": "Txartel bakoitzak argazki ezagun bat eta hitz egiteko gonbidapen ireki batekin parekatzen ditu, adibidez, \"Zein da zure eguraldi gogokoena?\" Ez dago erantzun zuzenik eta ez dago gogoratzeko ezer. Aukeratu gai bat edo nahastu guztiak.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Aukeratu gai bat edo mantendu \"Txartel guztiak\".",
+      "Irakurri galdera ozenki eta begiratu argazkia elkarrekin.",
+      "Entzun, partekatu zure erantzuna, eta utzi elkarrizketa ibiltzen.",
+      "Sakatu \"Hurrengo txartela\" prest zaudenean, edo geratu txartel batekin nahi duzun bitartean.",
+      "Sakatu \"Inprimatu txartel guztiak\" paper multzo bat mozteko."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Erantzun galderari zuk ere. Elkarrizketa bat bezala sentitzen da, ez elkarrizketa bat.",
+      "Jarraitu istorioari, ez gertakariei. Xehetasunak aldatzen badira, ondo dago.",
+      "Txartel batek zerbait triste ukitzen badu, aitortu sentipena eta mugitu astiro-astiro beste txartel batera."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Zergatik ez dago \"Gogoratzen al zara...?\" galderak?",
+        "a": "Memoria probatzen duten galderak azterketa bat bezala senti daitezke eta lotsa sor dezakete. Ireki \"Esan iezadazu...\" bezalako gonbidapenak edonork parte har dezan, gogoratzen duena."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Inprima al ditzaket txartelak?",
+        "a": "Bai. \"Inprimatu txartel guztiak\" multzo osoa letra handiz inprimatzen du, orrialde bakoitzeko hainbat txartel, mozteko prest."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Doakoa al da, eta izena eman behar al dut?",
+        "a": "Bai, doakoa da, eta ez dago konturik, erregistratu edo deskargatu. Telefono, tablet edo ordenagailuko web arakatzailean funtzionatzen du."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Argazki bikoteak",
+    "seoTitle": "Egin bat datorren joko bat Familiako argazkiekin",
+    "h1": "Argazki bikoteak: bat egin zure argazkiekin",
+    "description": "Bihurtu zure familiako argazkiak parekatzeko joko leun batean. Aukeratu 2 eta 6 argazki zure gailuan; zure arakatzailean geratzen dira eta inoiz ez dira igotzen.",
+    "short": "Aukeratu zure argazkiak eta lotu. Ez da ezer kargatzen.",
+    "players": "2 pertsona, elkarren ondoan",
+    "intro": "Aukeratu bi edo sei argazki zure telefonotik, tabletetik edo ordenagailutik, eta irudi handi eta ikusgaiekin bat datorren joko bat bihurtuko dira. Argazkiak orrialde honen barruan bakarrik erakusten dira. Ez dira kargatzen, gordetzen edo partekatzen, eta orria ixtean desagertzen dira.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Sakatu \"Aukeratu argazkiak\" eta aukeratu bi edo sei argazki.",
+      "Argazki bakoitza bi aldiz agertzen da. Sakatu bat, eta, gero, sakatu bere bikotea.",
+      "Hitz egin argazki bakoitzari buruz aurkitu ahala.",
+      "Amaitutakoan, itxi orria edo sakatu \"Garbitu argazkiak\". Ez da ezer gordetzen."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Aukeratu gauza zoriontsu eta ezagunen argazki argiak: maskota bat, lorategia, leku gogokoena, ezkontza eguna.",
+      "Lekuen eta objektuen irudiak aurpegiak baino errazagoak izan daitezke, eta pertsonak izendatzeko edozein presio saihesten dute.",
+      "Utzi kanpoan hildako pertsonen argazkiak bat-bateko atsekabea ekar dezaketela, erosotasuna ekartzen dutela jakin ezean."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Nire argazkiak inon kargatu al dira?",
+        "a": "Ez. Orriak zuzenean arakatzailean irakurtzen ditu aukeratzen dituzun argazkiak eta pantailan erakusten ditu. Ez zaizkigu edo beste inori bidaltzen, eta orria ixtean edo berriro kargatzen duzunean desagertu egiten dira."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ba al dago tenporizadorerik edo puntuaziorik?",
+        "a": "Ez. Ez dago erlojurik, puntuaziorik, kontrako mugimendurik edo galtzerik. Edozein momentutan gelditu zaitezke, eta erdibidean gelditzea oso modu ona da amaitzeko."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Gorde al dezaket jokoa hurrengorako?",
+        "a": "Ez arakatzailean, diseinuaren arabera, beraz, ez da ezer pribaturik gordetzen. iPhone eta iPaderako Golden Moments doako aplikazioak hautatutako argazkien kopiak gorde ditzake zure gailuan."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Irudi bingoa",
+    "seoTitle": "Dementzia duten adinekoentzako irudi-bingoa: inprimagarria",
+    "h1": "Irudi Bingoa Taldeentzako",
+    "description": "Inprimatzeko doako irudien bingoa memoria zaintzeko eta adineko taldeentzako, pantailako deitzaile handi batekin.",
+    "short": "Bingo-txartel inprimagarriak eta taldeentzako pantaila handiko deitzaile bat.",
+    "players": "2tik 30era arteko taldea",
+    "intro": "Bingo klasikoa zenbakiekin ordez irudiekin, inork ez du letra txikia irakurri behar. Inprimatu txartel esklusiboen multzoa, eta, ondoren, erabili pantailako deitzailea argazki bakoitza telebistan, ordenagailu eramangarrian edo tabletan handia erakusteko.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Aukeratu 9 edo 16 lauki karta bakoitzeko eta zenbat jokalari.",
+      "Sakatu \"Inprimatu txartelak\". Txartel bakoitza ezberdina da.",
+      "Ireki deitzailea pantaila handi batean. Ukitu \"Hurrengo argazkia\" argazki bakoitza bere izenarekin erakusteko.",
+      "Jokalariek txanpon, botoi edo errotulagailu batekin estaltzen dute euren txarteleko argazkia.",
+      "Errenkada bat edo txartel osoa betetzen duen orok poz bat jasotzen du. Bertsio honetan ez dago galtzailerik: jarraitu jolasten denek lerro bat izan arte."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Erabili marka handiak, esate baterako, zuzentzaileak edo botila-tapak. Botoi txikiak jasotzea zaila izan daiteke.",
+      "Idatzi irudiari eta esan zerbait honi buruz: \"Belaontzi bat. Nor atera da itsasontzi batean?\"",
+      "Eseri pantailatik gertuen ikusteko zailtasunak dituzten pertsonak eta parekatu laguntzaileak behar dituzten jokalariekin.",
+      "Bederatzi karratu nahikoa da talde gehienentzat. Mantendu saioa 20 eta 30 minutu inguru."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Nola exekutatu argazkien bingoa zainketa-etxe batean?",
+        "a": "Inprimatu txartel bat jokalari bakoitzeko, jarri deitzailea duzun pantaila handienean eta deitu argazkiei poliki-poliki, bakoitzari izena jarriz. Jokatu denek lerro bat izan arte, inor ez da kanpoan geratzen."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Doan al da inprimatzea?",
+        "a": "Bai. Inprimatu behar adina txartel, nahi adina maiz, pertsonalki edo taldean erabiltzeko."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Jendeak jolastu al dezake irakurri gabe?",
+        "a": "Bai. Lauki bakoitza irudi handi bat da, bere izena azpian duela hitzak gustuko dituztenentzat."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Arnasketa lasaia",
+    "seoTitle": "Adinekoentzako eta zaintzaileentzako arnasaldi lasaia",
+    "h1": "Arnasketa Etenaldi lasaia",
+    "description": "Arnasketa lasai eta lasaia partekatzeko: zirkulu leuna hazten eta txikitzen da sei arnasalditan. Hasi, eta edozein unetan gelditu zaitezke.",
+    "short": "Zirkulu motela batera arnasa hartzeko. Hasi eta gelditu nahi duzunean.",
+    "players": "1 edo 2 pertsona",
+    "intro": "Batzuetan, jarduerarik onena pausa lasai bat da. Sakatu \"Hasi\" eta, ondoren, arnasa hartu zirkulua hazten doan heinean eta kanporatu txikitu ahala. Aukeratu erritmo motelagoa edo azkarragoa. Ez da tratamendu bat, partekatzeko une lasai bat baizik.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Eseri eroso elkarren ondoan.",
+      "Aukeratu erritmoa: motela edo leuna.",
+      "Sakatu \"Hasi\". Arnasa hartu zirkulua hazten den bitartean, eta atera txikitu bitartean.",
+      "Sei arnasketa egin ondoren bakarrik gelditzen da, edo sakatu \"Gelditu\" nahi duzunean."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Eutsi eskua edo jarri esku bat pertsonaren besoan hori ongi etorria bada.",
+      "Inoiz ez tematu. Ikusi nahiko balute, ondo dago.",
+      "Norbaitek arnasketa arazoak baditu, arnastu normaltasunez eta ikusi zirkulua. Galdetu medikuari arnasketa arazoei buruz."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Arnasketa ariketa medikoa al da?",
+        "a": "Ez. Lasaitasuna eta konpainiarako etenaldi sinplea eta aukerakoa da. Ez da antsietatearen edo edozein egoeraren aurkako tratamendua. Mediku batekin hitz egin osasun arazoei buruz."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Zirkulua mugitzen al da ni hasi gabe?",
+        "a": "Ez. Ez da ezer mugitzen Hasi sakatu arte, eta sei arnasa hartu ondoren edo Gelditu sakatzen duzunean gelditzen da. Zure gailua mugimendua murrizteko konfiguratuta badago, hitzak aldatuko dira zirkulua handitu gabe."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Doakoa al da, eta izena eman behar al dut?",
+        "a": "Bai, doakoa da, eta ez dago konturik, erregistratu edo deskargatu. Telefono, tablet edo ordenagailuko web arakatzailean funtzionatzen du."
       }
     ]
   }

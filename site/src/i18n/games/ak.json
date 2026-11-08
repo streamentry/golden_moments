@@ -1,11 +1,11 @@
 {
   "picture-pairs": {
     "name": "Mfonini abien abien",
-    "seoTitle": "Matching Game for Dementia: Mfonini abien abien",
-    "h1": "Mfonini Awarefo: Agorudi a ɛne ne ho hyia a ɛyɛ brɛoo",
+    "seoTitle": "Agorudi a Wɔde Di Dwuma a Wɔde Ma Adwene a Ɛyɛ Fɛ: Mfonini Awarefo",
+    "h1": "Mfonini Abien: Agorudi a Ɛbɔ Nsɛ",
     "description": "Agorudi a wɔde ma a wontua hwee na ɛyɛ brɛoo ma nnipa a wɔwɔ adwenemhaw.",
     "short": "Hwehwɛ mfonini abien a ɛyɛ pɛ no. Mfonini ahorow betumi akɔ so ada adi.",
-    "players": "Nnipa 1 anaa 2, nkyɛnkyɛn",
+    "players": "Nnipa 1 anaa 2, wɔ nkyɛnkyɛn",
     "intro": "Klik mfonini bi so, afei pia nea ɛne no hyia no. Mfonini ahorow kɔ so da adi default, enti enhia sɛ wɔkae biribiara. Sɛ mfonini abien bom a wonya sika kɔkɔɔ hye ne agyiraehyɛde.",
     "howTo": [
       "Paw tiles dodow a wode bedi dwuma. Tiles anan yɛ beae a ɛhɔ yɛ komm a wubetumi afi ase.",
@@ -41,7 +41,7 @@
   },
   "find-the-same": {
     "name": "Hwehwɛ saa ara",
-    "seoTitle": "Hwehwɛ Mfonini Korɔ no ara: Simple Dementia Game",
+    "seoTitle": "Hwehwɛ Mfonini Koro no ara: Simple Dementia Game",
     "h1": "Hwehwɛ Mfonini Koro no ara",
     "description": "Mfonini biako wɔ soro, abien kosi anan wɔ ase. Klik nea ɛyɛ pɛ no so. Mfonini agodie a ɛyɛ komm, a wontua hwee ma nnipa a wɔte adwenemhaw, a wonni bere nhyehyɛe biara.",
     "short": "Hwɛ mfonini a ɛwɔ soro no na pia nea ɛwɔ ase hɔ no ara.",
@@ -76,7 +76,7 @@
   },
   "shadow-match": {
     "name": "Sunsuma a ɛne ne ho hyia",
-    "seoTitle": "Sunsuma a ɛne ne ho hyia agodie ma adwenemhaw: Free Online",
+    "seoTitle": "Shadow Matching Game ma Dementia: Wɔ Intanɛt so a wontua hwee",
     "h1": "Shadow Match: Mfonini Agodie a Ɛyɛ Dwo",
     "description": "Sunsuma tuntum bi wɔ soro, mfonini abien kosi anan wɔ ase. Kɔ mfonini a ɛma sunsuma no so.",
     "short": "Hwɛ sunsuma no na pia mfonini a ɛyɛ no.",
@@ -114,9 +114,9 @@
     ]
   },
   "sort-together": {
-    "name": "Nkyekyɛmu bom",
-    "seoTitle": "Agodie a Wɔhyehyɛ Ma Dementia: Hyehyɛ Bom",
-    "h1": "Hyehyɛ Bom: Mfonini Nhyehyɛe Dwumadi",
+    "name": "Bom hyehyɛ mu",
+    "seoTitle": "Agodie a Wɔhyehyɛ Ma Dementia: Bom Hyehyɛ",
+    "h1": "Bom Hyehyɛ: Mfonini Nhyehyɛe Dwumadi",
     "description": "Kɔ mfonini bi so, afei pia kɛntɛn a ɛyɛ ne dea no so: adididan anaa turo, nnuaba anaa mmoa.",
     "short": "Fa mfonini biara gu ne kɛntɛn mu: adididan anaa turo, ne nea ɛkeka ho.",
     "players": "Nnipa 1 anaa 2",
@@ -149,7 +149,7 @@
     ]
   },
   "picture-puzzle": {
-    "name": "Mfonini ahodwiriwde",
+    "name": "Mfonini a ɛyɛ ahodwiriwde",
     "seoTitle": "Jigsaw Puzzle a Ɛnyɛ Den ma Dementia: 4 anaa 9 Asinasin",
     "h1": "Mfonini Ahodwiriwde: Jigsaw a Ɛnyɛ Den",
     "description": "Intanɛt so jigsaw a ɛnyɛ den ma nnipa a wɔwɔ adwenemhaw: asinasin akɛse 4 anaa 9, mfonini no nyinaa kɔ so da adi, na wobɔ asinasin abien de sesa.",
@@ -184,12 +184,12 @@
     ]
   },
   "finish-the-saying": {
-    "name": "Wie asɛm a wɔka sɛ",
+    "name": "Wie asɛm no",
     "seoTitle": "Wie Asɛm no: Mmebusɛm Agodie a Wɔde Ma Nkwakoraa ne mmerewa",
     "h1": "Wie Asɛm no",
     "description": "Amerikafoɔ nsɛm a wonim no yie a asɛmfua a ɛtwa toɔ no nni hɔ, te sɛ \"A penny saved is a penny ___\". Klik nea woapaw so anaa kyerɛ awiei no, afei ka ho asɛm.",
     "short": "Mommɔ mu nwie nsɛm a wonim no yiye, afei monka ho asɛm.",
-    "players": "1, 2 anaase kuw bi",
+    "players": "1, 2 anaa kuw bi",
     "intro": "Mpɛn pii no, wonim nsɛm dedaw no yiye wɔ wɔn nkwa nna nyinaa mu. Kaad biara kyerɛ asɛm bi a wonim no yiye a asɛmfua a etwa to no nni hɔ, nneɛma abiɛsa a wobetumi apaw, ne \"Kyerɛ awiei\" bɔtn. Sɛ wowie a, asɛmmisa a ɛyɛ brɛoo to nsa frɛ nkɔmmɔ.",
     "howTo": [
       "Mobom kenkan asɛm no denden.",
@@ -218,8 +218,8 @@
     ]
   },
   "word-search": {
-    "name": "Nsɛmfua hwehwɛ a wɔakyerɛw no akɛse",
-    "seoTitle": "Nsɛmfua a Wɔatintim Kɛse a Wɔhwehwɛ Dementia, Wotumi Print",
+    "name": "Nsɛmfua a wɔakyerɛw no akɛse a wɔhwehwɛ",
+    "seoTitle": "Nsɛmfua a Wɔatintim Kɛse a Wɔde Hwehwɛ Dementia, Wotumi tintim",
     "h1": "Nsɛmfua a Wɔatintim no Kɛse",
     "description": "Nsɛmfua akɛse a wɔde hwehwɛ nkwakoraa ne mmerewa ne nnipa a wɔte adwenemhaw a wontua hwee. Nsɛmfua kakraa bi, nkyerɛwde akɛse, nsɛmfua a ɛwɔ atifi ne fam nkutoo.",
     "short": "Nkyerɛwde akɛse, nsɛmfua kakraa bi, a ɛwɔ atifi ne fam nkutoo. Print no nso.",
@@ -253,8 +253,8 @@
     ]
   },
   "coloring": {
-    "name": "Nkratafa a wɔde kɔla yɛ",
-    "seoTitle": "Nkratafa a Wɔde Kɔla Ma Mpanyimfo a Wɔwɔ Dementia (Free)",
+    "name": "Nkratafa a wɔde kɔla ayɛ",
+    "seoTitle": "Nkratafa a Wɔde Kɔla Ma Mpanyimfo a Wɔwɔ Adwenemhaw (Free) .",
     "h1": "Nkratafa a Wɔde Kɔla Yɛ",
     "description": "Nkratafa a ɛnyɛ den a wɔde kɔla ayɛ a mpanyimfo wɔ a mmeae akɛse: pia kɔla bi, afei pia mfonini no so.",
     "short": "Pia kɔla bi, afei pia mfonini no fã bi. Print nkratafa nso.",
@@ -293,7 +293,7 @@
     "h1": "Nkɔmmɔbɔ Kaad",
     "description": "Mfonini nkrataa a wɔde nkɔmmɔbɔ fi ase brɛoo ma nnipa a wɔte adwenemhaw: nsɛmmisa biara nni hɔ, mmuae a ɛfata biara nni hɔ.",
     "short": "Mfonini nkrataa a nsɛmmisa a wɔabue ano na ɛyɛ brɛoo wom. Nsɛmmisa biara nni hɔ.",
-    "players": "Nnipa 2 anaa kuw bi",
+    "players": "nnipa 2 anaa kuw bi",
     "intro": "Kaad biara de mfonini a wunim no yiye ne nsato krataa a wɔabue ano sɛ wɔmmɛkasa, te sɛ \"Wim tebea bɛn na w'ani gye ho paa?\" Mmuae a ɛteɛ biara nni hɔ na biribiara nni hɔ a ɛsɛ sɛ yɛkae. Paw asɛmti bi anaasɛ frafra ne nyinaa mu.",
     "howTo": [
       "Paw asɛmti bi, anaa fa \"All cards\" sie.",
@@ -323,12 +323,12 @@
     ]
   },
   "photo-pairs": {
-    "name": "Mfonini abien abien",
-    "seoTitle": "Yɛ Agorudi a ɛne ne ho hyia fi Abusua Mfonini ahorow mu",
-    "h1": "Photo Pairs: Match W'ankasa Mfonini",
+    "name": "Mfonini ahorow abien abien",
+    "seoTitle": "Yɛ Agodie a Ɛne Abusua Mfonini Mu",
+    "h1": "Mfonini Ahorow: Fa W’ankasa Mfonini Nhyia",
     "description": "Dane w’ankasa abusua mfonini ahorow ma ɛnyɛ agoru a ɛne ne ho hyia brɛoo. Paw mfonini 2 kosi 6 wɔ wo mfiri no so; wɔtra wo browser no mu na wɔmfa nkɔ da.",
     "short": "Paw w’ankasa mfonini ahorow na ma ɛne no hyia. Wɔmfa biribiara nkɔ upload.",
-    "players": "nnipa 2, nkyɛnkyɛn",
+    "players": "nnipa 2, wɔ nkyɛnkyɛn",
     "intro": "Paw mfonini abien kosi asia fi wo fon, tablɛt anaa kɔmputa so, na ɛbɛyɛ agoru a ɛne ne ho hyia a mfonini akɛse a wotumi hu wom. Wɔakyerɛ mfonini ahorow no wɔ kratafa yi mu nkutoo. Wɔmfa nkɔ, wɔmfa nsie anaasɛ wɔmfa nkyɛ, na sɛ woto krataafa no mu a, ɛyera.",
     "howTo": [
       "Klik \"Choose photos\" na paw mfonini abien kosi asia.",
@@ -358,7 +358,7 @@
   },
   "picture-bingo": {
     "name": "Mfonini bingo",
-    "seoTitle": "Mfonini Bingo ma Nkwakoraa ne mmerewa a wɔwɔ adwenemhaw: Wotumi tintim",
+    "seoTitle": "Mfonini Bingo ma Nkwakoraa ne mmerewa a wɔwɔ adwenemhaw: Wobetumi atintim",
     "h1": "Mfonini Bingo ma Akuw",
     "description": "Mfonini bingo a wotumi tintim a wontua hwee ma nkae a wɔhwɛ ne akuw a wɔn mfe akɔ anim, a obi kɛse a ɔfrɛ wɔ screen so ka ho.",
     "short": "Mfonini bingo kaad a wotumi tintim ne screen kɛse a ɛfrɛ akuw.",
@@ -395,7 +395,7 @@
   "calm-breathing": {
     "name": "Ɔhome a ɛyɛ komm",
     "seoTitle": "Ahomegye a Ɛyɛ Dwo Ma Nkwakoraa ne mmerewa ne Wɔn a Wɔhwɛ Wɔn",
-    "h1": "Ahomegye a Ɛyɛ Dwo Ahomegye",
+    "h1": "Ahomegye a Ɛyɛ Dwo",
     "description": "Ahomegye a ɛyɛ brɛoo na ɛyɛ komm a wɔde kyɛ ade: kurukuruwa a ɛyɛ brɛoo nyin na ɛso tew ahome asia. Wofi ase, na wubetumi agyae bere biara.",
     "short": "Kurukuruwa a ɛyɛ brɛoo a wobɛhome ka ho. Fi ase na gyae bere a wopɛ.",
     "players": "Nnipa 1 anaa 2",

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Nate ɗiɗi",
+    "seoTitle": "Pijirlooji nannduɗi e Dementia: Nate ɗiɗi",
+    "h1": "Natal Ɗiɗi: Pijirlooji Jokkondire Leefɗi",
+    "description": "Pijirlooji jokkondirɗi ɗi ngalaa njoɓdi, ɗi ngalaa njoɓdi wonande yimɓe wuurɓe e rafi dementia.",
+    "short": "Yiytu natal ɗiɗmal ngal ko gootum. Nate ina mbaawi heddaade e hollirde.",
+    "players": "Yimɓe 1 walla 2, bannge e bannge",
+    "intro": "Tappu natal, caggal ɗuum tappu ngal nanndungal e maggal. Nate ina keddii ina kollita no haanirta nii, ɗum noon alaa ko foti siftoreede. So natal ɗiɗi njahdii ɓe keɓata ko keeri kaŋŋe e maande ƴeewndo.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Suɓo no foti tile kuutorto-ɗaa. Tileeji nay ko nokku caliiɗo ngam fuɗɗoraade.",
+      "Tappu kala natal. Ina heɓa keeri kaŋŋe.",
+      "Tappu natal nanndungal e ngal. Ɗiɗi ɗii ina njooɗii e maande ƴeewndo.",
+      "So nate ɗiɗi ɗee ceertii, alaa ko bonnata. Tappu kadi kala nde njiɗɗaa.",
+      "Uddit \"Natal cuuɗngal\" tan so tawii on ɗiɗo fof on mbeltiima e mbaydi ɓooyndi yeeso-dow."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Innde natal ngal e daande toownde, yeewtid e majji: \"Koppi boɗeeji. Aɗa ƴetta kosam e nder teewu maa?\"",
+      "Yo neɗɗo mo njiylotoɗaa oo waɗ tappirde ndee, hay so tawii ko seeɗa. Toɓɓere ɓuri tappude ngam maɓɓe.",
+      "Heddo e tile nayi haa nde ɗum weltii. Tiles ɓurɗe heewde ko suɓngo, meeɗaa tolno yettaade.",
+      "Finnde nde ina weltii haa jooni. Pijirlooji gooti ko golle timmuɗe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbele ina woodi waktu walla limre?",
+        "a": "Alaa. Alaa waktu, limre, limre diwtunde walla majjude. Aɗa waawi dartaade e kala sahaa, kadi dartaade feccere laawol ko laawol moƴƴol timmungol ngam timminde."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Hol ko waɗi natal ngal ina heddii yeeso dow?",
+        "a": "Waɗde natal ina yiyee ina wayla pijirlooji ɗii e ƴeewde e jokkondirde wonaa siftorde. Heewɓe ina njiya ɗum ina calmina. Aɗa waawi waylude natal suuɗngal e nder tappirde wootere so aɗa yiɗi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbele ko mbelnaari, kadi mbele miɗo foti winnditaade?",
+        "a": "Eey, ko meere, kadi alaa konte, winnditaade walla ƴettude. Ina gollira e nder feerorde web e telefoŋ, tablet walla ordinateer."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Mbele eɗen mbaawi huutoraade fotooje galle men?",
+        "a": "Oho. Enndu Photo pairs, ko ɗuum addanta ma suɓaade fotooje e nder kaɓirgol maa. Fotooje ɗee ina keddii e feerorde maa, ɗe njuppaaka."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Yiytu ko nanndi heen",
+    "seoTitle": "Yiytu Natal Gootal: Pijirlooji Dementia Simple",
+    "h1": "Yiytu Natal Gootal",
+    "description": "Natal gootal dow, ɗiɗi haa nayi les. Tappu heen ko nanndi heen. Pijirlooji natal calminaali, ɗi ngalaa njoɓdi wonande yimɓe wuurɓe e rafi dementia, ɗi ngalaa waktu.",
+    "short": "Ƴeew natal ngal to dow too, tappu heen gootal les ngal.",
+    "players": "Yimɓe 1 walla 2",
+    "intro": "Natal gootal ina jooɗii dow ekran. Les maggal ko natal ɗiɗi, tati walla nayi. Tappu heen ko nanndi heen. Ko suɓngo wooto e sahaa gooto, tawa ina heewi nokku ɗo haaldata.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Suɓo natal ɗiɗi, tati walla nayi ngam suɓaade heen. Ɗiɗi ko ɓuri hoybude.",
+      "Ƴeewee natal ngal to dow too, on ndennda.",
+      "Tappu natal gootal les ngal. Ina maantiniree ƴeewndo e konnguɗi welɗi seeɗa.",
+      "So natal feere tappiima, pijirlooji ɗii ina innira ɗum tan, ina fadi. Ƴettu waktu maa.",
+      "Tappu \"Natal garoowo\" so aɗa hesɗitina goɗɗo."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Haaldu e natal kala hade maa suɓaade : nooneeji, mbaadiiji, ɗo mbaaw-ɗaa yiyde ɗum.",
+      "Suɓngooji ɗiɗi ngonaa \"ko weeɓi\". Faandaare ndee ko sahaa welɗo, wonaa caɗeele.",
+      "So tappirde ina tiiɗi, neɗɗo oo ina waawi toɗɗaade kadi aɗa waawi tappirde ɓe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbele ina woodi waktu walla limre?",
+        "a": "Alaa. Alaa waktu, limre, limre diwtunde walla majjude. Aɗa waawi dartaade e kala sahaa, kadi dartaade feccere laawol ko laawol moƴƴol timmungol ngam timminde."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Hol ko woni so natal ngal moƴƴaani tappee?",
+        "a": "Alaa ko welaani. Alaa buzzer, cross boɗeejo walla dimmbagol. Pijirlooji ɗii ina innira natal ngal tappirde ndee, ina fadi tappirde aroore ndee."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbele ko mbelnaari, kadi mbele miɗo foti winnditaade?",
+        "a": "Eey, ko meere, kadi alaa konte, winnditaade walla ƴettude. Ina gollira e nder feerorde web e telefoŋ, tablet walla ordinateer."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Pottital ɗoyngol",
+    "seoTitle": "Pijirlooji jokkondire ngam Dementia: Ko yowitii e internet",
+    "h1": "Match Shadow: Pijirlooji Natal Leelɗi",
+    "description": "Ɗuuɗal ɓalewal to dow, natal ɗiɗi haa nayi les. Tappu natal ngal waɗata ɗowdi ndii. Pijirlooji jokkondire ɗoyngol mbelngol, deeƴngol ngam dementia, tawa alaa waktu.",
+    "short": "Ƴeew ɗoyngol ngol, tappu natal ngal waɗata ngal.",
+    "players": "Yimɓe 1 walla 2",
+    "intro": "Shadow matching ko golle ganndaaɗe gila e ɗereeji gollorɗi tappirɗe, ɗoo e natal mawngal tawa alaa ko tappirta. Ɗuuɗal softungal ina jooɗii dow ekran oo, natal ɗiɗi, tati walla nayi ina padi les. Tappu ko waɗata ɗoyngol ngol. Sifaaaji hono welo, umbrella walla teewu ina weeɓi haalde kadi.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Suɓo natal ɗiɗi, tati walla nayi ngam suɓaade heen. Ɗiɗi ko ɓuri hoybude.",
+      "Ƴeewee ɗoon ɗoyngol ngol. Hol mbaadi ndi woni? Mbele ina juuti walla ina taarii?",
+      "Tappu natal ngal waɗata ɗowdi ndii. Innde mayre feeñata ko e les ɓuuɓri.",
+      "So natal feere tappiima, pijirlooji ɗii ina innira ɗum tan, ina fadi. Ƴettu waktu maa.",
+      "Tappu \"Dowlaaji garooji\" so aɗa hesɗitina goɗɗo."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Rewru e mbaydi ɗowdi ndii e junngo, kaaldu e mbaadi ndii.",
+      "So tawii ɗoyngol ina tiiɗi hannde, waylu e Yiytu ko nanndi heen, ɗo natal nanndi.",
+      "Haala natal ngal so ngal tawaama: \"Min njoginoo ko umbrella hono noon.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbele ina woodi waktu walla limre?",
+        "a": "Alaa. Alaa waktu, limre, limre diwtunde walla majjude. Aɗa waawi dartaade e kala sahaa, kadi dartaade feccere laawol ko laawol moƴƴol timmungol ngam timminde."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Mbele mbaydi mbaydi ina moƴƴi e yimɓe wonduɓe e rafi dementia?",
+        "a": "Ina waawi wonde golle belɗe, koolniiɗe wonande won e yimɓe, haa teeŋti noon e daawal gadanal ngal. Sifaaaji ɓuri hoybude e anndeede e konnguɗi. Ko ngam weltinde e yeewtidde, wonaa jarribo, kadi safrataa walla leeltinaani ñawu nguu. So tawii ina addana-ma mette, ƴeew Yiytude ko nanndi heen walla ƴeewde tan natal gootol."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Hol ko woni so natal ngal moƴƴaani tappee?",
+        "a": "Alaa ko welaani. Alaa buzzer, cross boɗeejo walla dimmbagol. Pijirlooji ɗii ina innira natal ngal tappirde ndee, ina fadi tappirde aroore ndee."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbele ko mbelnaari, kadi mbele miɗo foti winnditaade?",
+        "a": "Eey, ko meere, kadi alaa konte, winnditaade walla ƴettude. Ina gollira e nder feerorde web e telefoŋ, tablet walla ordinateer."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sortu e nder heen",
+    "seoTitle": "Pijirlooji Sortugol ngam Dementia: Sortugol Wondude",
+    "h1": "Sortugol e nder heen: ko golle renndinde natal",
+    "description": "Tappu natal, caggal ɗuum tappu basket mo jeyaa e mum : cooyngal walla jarde, ɓiɓɓe leɗɗe walla daabaaji.",
+    "short": "Waɗde natal kala e nder lowre mum : cooyngal walla jarde, e ko nanndi heen.",
+    "players": "Yimɓe 1 walla 2",
+    "intro": "Sortude ko golle ganndaaɗe, belɗe ñalnde kala, ko wayi no waɗde kosam walla jokkondirde soseeji. Tappu natal, caggal ɗuum tappu basket ɗo jeyaa. Alaa ko yaawi, alaa ko boni.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Suɓo tiitoonde: cuuɗi e jarne, ɓiɓɓe leɗɗe e daabaaji, walla galle e yah-ngartaa.",
+      "Tappu natal. Ina heɓa keeri kaŋŋe.",
+      "Tappu basket mo jeyaa e mum oo, natal ngal ina diwa e nder oon basket.",
+      "So tawii ko e nder lowre woɗnde ndee jeyaa, fijirde ndee ina wiya noon e newaare ina fadi.",
+      "So natal kala renndinaama, ƴeewto-ɗee e nder laylayti ɗii fof."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Heewi wonde ko jaabawuuli bonɗi ngalaa e nguurndam goonga. So neɗɗo wiyii ndiyam ina jeyaa e kosam, naamndo ko waɗi ɗum. Aɗa waawi heɓde daartol moƴƴol.",
+      "Huutoro natal ngal ngam wiyde: \"Hol ko njiyloto-ɗaa e nder ngesa maa?\"",
+      "Sortude geɗe goonga, ko wayi no cukuli e forfetereeji walla butoŋuuji e mbaydi, ko jokkondire mawɗe woɗɗitaade ekran."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbele ina woodi waktu walla limre?",
+        "a": "Alaa. Alaa waktu, limre, limre diwtunde walla majjude. Aɗa waawi dartaade e kala sahaa, kadi dartaade feccere laawol ko laawol moƴƴol timmungol ngam timminde."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Hol ko waɗi sortude?",
+        "a": "Heewɓe ina mbeltii e sortude sabu ina nanndi e golle nafooje, ganndaaɗe. Kadi ina weeɓi haalde natal ngal no njahru-ɗaa nii."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbele ko mbelnaari, kadi mbele miɗo foti winnditaade?",
+        "a": "Eey, ko meere, kadi alaa konte, winnditaade walla ƴettude. Ina gollira e nder feerorde web e telefoŋ, tablet walla ordinateer."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle natal",
+    "seoTitle": "Puzzle Jigsaw koolaaɗo ngam Dementia: 4 walla 9 Piye",
+    "h1": "Puzzle Natal: Jigsaw koolaaɗo",
+    "description": "Jigsaw internet weeɓɗo wonande yimɓe wuurɓe e dementia : 4 walla 9 pecce mawɗe, natal ngal fof ina heddii ina yiyee, aɗa tappa pecce ɗiɗi ngam waylude ɗe.",
+    "short": "Tappu pecce ɗiɗi ngam waylude ɗe haa natal ngal timma.",
+    "players": "Yimɓe 1 walla 2",
+    "intro": "Natal sehil ina taƴaa e pecce nay walla jeenay mawɗe, ina jillondiree. Natal ngal fof ina heddii e yiyeede ko no njillu nii. Tappu heen feccere, caggal ɗuum goɗɗo, ɓe mbayla nokkuuji. Alaa drag ina haani.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Suɓo natal e 4 walla 9 pecce. Nayi ko fuɗɗoode leefnde.",
+      "Ƴeewee natal ngal fof to dow too.",
+      "Tappu feccere, caggal ɗuum tappu nokku ɗo foti yahde. Pecce ɗiɗi ɗee ina mbayla.",
+      "Piye e nokku potɗo heɓde maande ƴeewndo tokosere.",
+      "So natal ngal timmaani, mbelto-ɗee heen, cuɓo-ɗee goɗɗo."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Tappude pecce ɗiɗi ngam waylude ɗe ɓuri hoybude e dogde e yimɓe heewɓe.",
+      "Haala natal ngal no ngal hawri nii: \"Ko ɗoon woni suudu boɗeeru nduu.\"",
+      "Jigsaw leɗɗe goonga e 12 haa 24 pecce mawɗe ko golle taabal jiɗaaɗe kadi."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbele ina woodi waktu walla limre?",
+        "a": "Alaa. Alaa waktu, limre, limre diwtunde walla majjude. Aɗa waawi dartaade e kala sahaa, kadi dartaade feccere laawol ko laawol moƴƴol timmungol ngam timminde."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Mbele miɗo foti dogde e pecce ɗee?",
+        "a": "Alaa, tappu heen feccere, tappu goɗɗo, ɓe mbayla nokkuuji. Ɗum ɓuri hoybude ko e junngo dimmbotoongo walla e ekran tokooso."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbele ko mbelnaari, kadi mbele miɗo foti winnditaade?",
+        "a": "Eey, ko meere, kadi alaa konte, winnditaade walla ƴettude. Ina gollira e nder feerorde web e telefoŋ, tablet walla ordinateer."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Timmin konngol ngol",
+    "seoTitle": "Finnde Haala: Fijirde Tinndi ngam Mawɓe",
+    "h1": "Timmin Haala kaa",
+    "description": "Haalaaji Ameriknaaɓe ganndaaɗi ɗi konngol cakkitiingol ngol ŋakki, hono \"Peny mo hisnaa ko penny ___\". Tappu suɓngo walla hollir joofnirde, caggal ɗuum kaal heen.",
+    "short": "Timmin konnguɗi ganndaaɗi ɗii, caggal ɗuum kaalden ɗi.",
+    "players": "1, 2 walla fedde",
+    "intro": "Haalaaji ɓooyɗi ina keewi anndeede e nguurndam. Kala kartal ina hollita konngol ganndaangol ngol konngol cakkitiingol ŋakki, cuɓagol tati, e butoŋ \"Hollit joofnirde\". Caggal nde joofni, naamnal newaare ina nodda yeewtere.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Janngu konngol ngol e daande toownde.",
+      "Tappu konngol ngol joofnirta ngol, walla tappu \"Hollit joofnirde\".",
+      "Janngu konngol ngol fof kadi, kaal heen huutoraade ƴaañorgal ngal.",
+      "Tappu \"Haala garoowo\" so aɗa hebii."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Janngu seeɗa seeɗa, accu heen jokkere enɗam hade konngol cakkitiingol ngol. Heewi ko yimɓe mbiyata ɗum ko adii nde njoofnataa.",
+      "So neɗɗo rokkii joofnirde woɗnde, welto heen. Won e mbaydiiji konnguɗi ina ceerti fawaade e galle walla diiwaan.",
+      "E nder fedde, neɗɗo gooto janngata, gooto fof naata e joofnirde."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbele ina woodi waktu walla limre?",
+        "a": "Alaa. Alaa waktu, limre, limre diwtunde walla majjude. Aɗa waawi dartaade e kala sahaa, kadi dartaade feccere laawol ko laawol moƴƴol timmungol ngam timminde."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Hol ko woni so en cuɓiima konngol goɗɗol?",
+        "a": "Fijo ngoo hollirta ko joofgol ko woowaa, yahra e yeewtere. Alaa fof limre, kadi jaabawol feere ina moƴƴi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbele ko mbelnaari, kadi mbele miɗo foti winnditaade?",
+        "a": "Eey, ko meere, kadi alaa konte, winnditaade walla ƴettude. Ina gollira e nder feerorde web e telefoŋ, tablet walla ordinateer."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Njiylawu kelme binndaaɗe mawɗe",
+    "seoTitle": "Njiylawu konngol mawngol ngam Dementia, Tappirde",
+    "h1": "Njiylawu Konngol Mawngol",
+    "description": "Njiylawu konngol mawngol ngol alaa kaalis wonande mawɓe e yimɓe wonduɓe e rafi dementia. Konnguɗi seeɗa, alkule mawɗe, konnguɗi taƴɗi e les tan.",
+    "short": "Alkule mawɗe, kelme seeɗa, sara e les tan. Tappirde ɗum kadi.",
+    "players": "Yimɓe 1 walla 2",
+    "intro": "Grid tokooso mo alkule mawɗe e kelme seeɗa tan, fof ina janngee dow walla les. Tappu alkulal gadanal konngol, caggal ɗuum alkulal mum gadanal. Ɓuri yiɗde ko kaayitaaji? Tappirde puzzle keso e nder tap gooto.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Suɓo tiitoonde e njaajeendi grid.",
+      "Ƴeewee doggol kelme ɗee. Konnguɗi janngeteeɗi e dow (nano haa ñaamo) walla les (dow haa les).",
+      "Tappu alkulal gadanal konngol, caggal ɗuum tappu alkulal mum gadanal.",
+      "Konngol tawaangol ina teskaa, ina taƴaa e doggol ngol.",
+      "Tappu \"Tappirde ndeeɗoo firo\" ngam fiyde e kaayitaaji e pentol walla marker."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Hollit konngol e nder doggol ngol, ƴeewto-ɗaa alkulal mum gadanal e nder heen.",
+      "E dow kaayitaaji, teeŋtinoowo ɓuri hoybude e pentol.",
+      "Haala ko fayti e konnguɗi tiitoonde. Konnguɗi ɓiɓɓe leɗɗe ko laawol naftowol e nder siftorde ƴettugol, bakkaat walla luumooji."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbele ina woodi waktu walla limre?",
+        "a": "Alaa. Alaa waktu, limre, limre diwtunde walla majjude. Aɗa waawi dartaade e kala sahaa, kadi dartaade feccere laawol ko laawol moƴƴol timmungol ngam timminde."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Mbele miɗo waawi tappude konngol njiylawu ngol?",
+        "a": "Oho. Tappu \"Tappirde ndeeɗoo firo\" ngam tappirde jokkorgal jooni ngal e binndol mawngol, tawa doggol kelme ina woni les mum. Kala puzzle keso ina seerti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbele ko mbelnaari, kadi mbele miɗo foti winnditaade?",
+        "a": "Eey, ko meere, kadi alaa konte, winnditaade walla ƴettude. Ina gollira e nder feerorde web e telefoŋ, tablet walla ordinateer."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Kelle colour",
+    "seoTitle": "Kelle colour ngam mawɓe wonduɓe e Dementia (Free)",
+    "h1": "Kelle Koloor",
+    "description": "Kelle colour mawɗe koyɗe, jogiiɗe nokkuuji mawɗi : tappu colour, caggal ɗuum tappu natal ngal.",
+    "short": "Tappu kala, caggal ɗuum feccere e natal ngal. Tappirde kelle kadi.",
+    "players": "Yimɓe 1 walla 2",
+    "intro": "Kelle jogiiɗe sifaaji mawɗi, koyɗi : puɗol e nder lowre, galle, ɓuuɓri, ɓuuɓri e laana ndiwoowa. Tappu kala, caggal ɗuum tappu feccere e natal ngal ngam hebbinde ngal. Alaa kalaaji bonɗi.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Suɓo hello.",
+      "Tappu kalaa. Kala noone ina waɗi innde mum winndaande heen.",
+      "Tappu feccere e natal ngal ngam hebbinde ngal oon mbaydi.",
+      "Waylu miijo maa kala sahaa e hebbinde ɗum kadi.",
+      "Tappu \"Tappirde ndee hello\" ngam heɓde hello ngo alaa ko woni e mum ngam colourde e binndi walla maandeeji."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Hokkude kalaaji ɗiɗi ngam suɓaade heen ko ɓuri set oo fof so suɓaade ina nanndi e ko heewi.",
+      "Leɗɗe daneeje e naange daneeje ina njaɓɓaa. Ɗum ko weltaade e kala, wonaa laaɓal.",
+      "Kelle binndaaɗe ina kuutoroo no moƴƴi e markeeji walla karallaagal teddungal, ɗi ɓuri hoybude e nanngude."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbele ina woodi waktu walla limre?",
+        "a": "Alaa. Alaa waktu, limre, limre diwtunde walla majjude. Aɗa waawi dartaade e kala sahaa, kadi dartaade feccere laawol ko laawol moƴƴol timmungol ngam timminde."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Mbele ɗeen kelle ina keewi cukaagu?",
+        "a": "Min njiylotonoo ko geɗe calminaaɗe, koyɗe, wonaa karte, ko ɗuum waɗi kelle ɗee ina njahdi e mawɓe. Sifaaaji mawɗi ina njokki colour ko weeɓi tawa mbaɗaani ɗum babyish."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbele ko mbelnaari, kadi mbele miɗo foti winnditaade?",
+        "a": "Eey, ko meere, kadi alaa konte, winnditaade walla ƴettude. Ina gollira e nder feerorde web e telefoŋ, tablet walla ordinateer."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kaayitaaji yeewtere",
+    "seoTitle": "Fuɗɗoode yeewtere ngam Dementia: Kaayitaaji natal",
+    "h1": "Kaayitaaji yeewtere",
+    "description": "Kaayitaaji natal jogiiɗi fuɗɗoode yeewtere newaare wonande yimɓe wuurɓe e rafi dementia : alaa quizzing, alaa jaabawuuli laaɓtuɗi.",
+    "short": "Kaayitaaji natal jogiiɗi naamne udditiiɗe, leefɗe. Alaa ko naamnii.",
+    "players": "2 neɗɗo walla fedde",
+    "intro": "Kala kartal ina jokkondiri e natal ganndaangal e noddaango udditiingo ngam haalde, hono \"Hol ko woni sifaa weeyo ngo ɓurɗaa yiɗde?\" Alaa jaabawol laaɓtungol alaa ko siftortee. Suɓo tiitoonde walla ɓuuɓna ɗe fof.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Suɓo tiitoonde, walla jogo \"Kaaruuji ɗii fof\".",
+      "Janngu naamnal ngal e daande toownde, ƴeewto-ɗee natal ngal.",
+      "Heɗto, renndin jaabawol maa, haala kaa ina ƴaañii.",
+      "Tappu \"Kaarɗo garoowo\" so aɗa yiɗi, walla jokku e kartal gootal so aɗa yiɗi.",
+      "Tappu \"Tappirde kaayitaaji ɗii fof\" ngam taƴde set kaayitaaji."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Jaabo naamnal ngal e hoore maa kadi. Ina wayi no ko yeewtere, wonaa yeewtere.",
+      "Rewta daartol ngol, wonaa goongaaji ɗii. So detaayuuji mbayliima, ɗuum ina moƴƴi.",
+      "So kartal memii huunde mettunde, jaɓ jikku oo, njahaa e kartal goɗɗal e nofru."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Hol ko waɗi \"Aɗa siftora...?\" naamne?",
+        "a": "Naamne ƴeewndotooɗe ciftorgol ina mbaawi nanndude e ekkol, ina addana neɗɗo hersa. Uddit noddaali ko wayi no \"Haalan am ko fayti e...\" yo kala jiɗɗo naata heen, ko ɓe ciftori fof."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Mbele miɗo waawi tappude kaayitaaji ɗii?",
+        "a": "Oho. \"Print all cards\" ina tappa set oo timmuɗo e binndol mawngol, kaayitaaji keewɗi e hello kala, ina hesɗi taƴeede."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbele ko mbelnaari, kadi mbele miɗo foti winnditaade?",
+        "a": "Eey, ko meere, kadi alaa konte, winnditaade walla ƴettude. Ina gollira e nder feerorde web e telefoŋ, tablet walla ordinateer."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Fotooji ɗiɗo",
+    "seoTitle": "Waɗde Pijirlooji nannduɗi e Fotooji Galle",
+    "h1": "Fotooji ɗiɗo: Njokkondira e Fotooji maa",
+    "description": "Waylu fotooji ɓesngu maa e nder pijirlooji jokkondire leelɗe. Suɓo fotooje 2 haa 6 e kaɓirgol maa; ɗe ngoni ko e feerorde maa, ɗe meeɗaa ƴetteede.",
+    "short": "Suɓo fotooje maa, njuɓɓinaa ɗe. Alaa ko jolnaa.",
+    "players": "Yimɓe 2, bannge e bannge",
+    "intro": "Suɓo fotooje ɗiɗi haa jeegom e nder telefoŋ maa, tablet maa walla ordinateer maa, ɗe ngonta pijirlooji jokkondirɗi e natal mawngal, yiyteteengal. Fotooje ɗee kolliraa tan ko e nder ngoo hello. Ɗe ndartinaaka, ɗe ndartinaaka, ɗe ndartinaaka, ɗe majjata so a udditii hello ngoo.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tappu \"Suɓo fotooje\" cuɓo-ɗaa fotooje ɗiɗi haa jeegom.",
+      "Foto kala ina feeña laabi ɗiɗi. Tappu gooto, caggal ɗuum tappu ɗiɗo mum.",
+      "Haaldu e foto kala no njiyru-ɗaa ɗum.",
+      "So a gaynii, uddu hello ngoo walla tappu \"Laɓɓin fotooje\". Alaa ko resndaa."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Suɓo fotooje laaɓtuɗe, geɗe belɗe, ganndaaɗe : pet, jarne, nokku ɓurɗo yiɗeede, ñalawma dewgal.",
+      "Nate nokkuuji e geɗe ina mbaawi ɓurde hoybude e yeeso, kadi ina kaɗa kala ko ina addana yimɓe innde.",
+      "Accu fotooji yimɓe maayɓe so ina mbaawi addude mette no feewi, so wonaa tawa aɗa anndi ina ngadda cuusal."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Mbele fotooje am ina njuɓɓinee ɗo?",
+        "a": "Alaa. Hello ngoo ina jannga fotooje ɗe cuɓ-ɗaa ɗee to bannge feerorde maa, ina hollira ɗe e ekran maa. Ɗe neldaaka e amen walla e goɗɗo, kadi ɗe njaltii so a udditii walla a ƴettii hello ngoo."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Mbele ina woodi waktu walla limre?",
+        "a": "Alaa. Alaa waktu, limre, limre diwtunde walla majjude. Aɗa waawi dartaade e kala sahaa, kadi dartaade feccere laawol ko laawol moƴƴol timmungol ngam timminde."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Mbele miɗo waawi hisnude pijirlooji ɗii ngam sahaa garoowo?",
+        "a": "Wonaa e nder feerorde, e diisnondiral, ko ɗum waɗi alaa ko woni e mum ko resndaa. App Golden Moments mo alaa kaalis ngam iPhone e iPad ina waawi jogaade koppiiji fotooji cuɓaaɗi e kaɓirgol maa."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo natal",
+    "seoTitle": "Bingo Natal ngam mawɓe wonduɓe e Dementia: Ina waawi tappeede",
+    "h1": "Bingo Natal ngam Pelle",
+    "description": "Bingo natal tappirde ngam toppitaade ciimtol e pelle mawɗe, e nodduɗo mawɗo e ekran. Nate mawɗe ɗe konnguɗi, 9 walla 16 kaaƴe, alaa ko janngaa.",
+    "short": "Kaaruuji bingo natal tappirde e nodduɗo ekran mawɗo ngam pelle.",
+    "players": "Fedde 2 haa 30",
+    "intro": "Bingo classic e natal e nokku limooje, ko ɗum waɗi hay gooto alaa e sago jannga binndi tokoosi. Tappirde kaayitaaji keertiiɗi, caggal ɗuum huutoroo noddaango ekran ngam hollirde kala natal mawngal e tele, laptop walla tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Suɓo 9 walla 16 kaaƴe e kala kartal e no foti fiyooɓe.",
+      "Tappu \"Tappirde kaayitaaji\". Kaarɗo kala ina seerti.",
+      "Uddit nodduɗo oo e ekran mawɗo. Toɓɓu \"Natal garoowo\" ngam hollirde kala natal e innde mum.",
+      "Fulɓe ina njuppa natal nanndungal e kartal mum en e mbuuɗu, butoŋ walla marker.",
+      "Kala hebbinɗo rowre, walla kartal ngal fof, heɓat weltaare. Alaa majjuɓe e ndeeɗoo mbaydi : jokku fiyde haa gooto fof jogoo liggey."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Huutoro toɓɓe mawɗe ko wayi no ƴeewndo walla ɓuuɓri butelaaji. Butoŋoji tokoosi ina mbaawi saɗtude ƴettude.",
+      "Innde natal ngal, mbiyaa heen huunde: \"Laana ndiwoowa. Hol yaltuɗo e laana?\"",
+      "Joɗɗin yimɓe ɓe caɗeele yiyde ɓuri ɓadaade ekran, e jokkondire wallitooɓe e fiyooɓe haajuuji mum en.",
+      "Kaareeji jeenay ina keewi e ko ɓuri heewde e pelle. Waɗde jonnde ndee ko hedde hojomaaji 20 haa 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Hol no mbaɗatmi bingo foto e nder galle toppitiiɗo?",
+        "a": "Tappir kartal gootal e kala fijoowo, waɗ nodduɗo oo e ekran ɓurɗo mawnude mo njogiɗaa oo, nodda natal seeɗa seeɗa, innira heen kala. Fijo haa gooto fof jogoo liggey, hay gooto heddaaki heen."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Mbele ko mbelnaari ngam tappirde?",
+        "a": "Oho. Tappir kaayitaaji no njiɗir-ɗaa fof, no njiɗir-ɗaa fof, ngam huutoraade ɗum e hoore maa walla e fedde."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Mbele yimɓe ina mbaawi fijde tawa njanngaani?",
+        "a": "Oho. Kala kaaƴe ko natal mawngal, ina waɗi innde mum les wonande yiɗɓe konnguɗi."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Pooftol deeƴngol",
+    "seoTitle": "Pause de respiration calme wonande mawɓe e toppitiiɓe",
+    "h1": "A Calm Fooftere Pause",
+    "description": "Pooftol leelngol, deeƴngol ngam renndinde : taarorde leefnde ina mawna, ina ɓuuɓtoo fotde foofaango jeegom. Aɗa fuɗɗoo ɗum, aɗa waawi dartaade kala sahaa.",
+    "short": "Taarde leelnde ngam foofde wondude e mum. Fuɗɗoraade e dartaade nde njiɗɗaa.",
+    "players": "Yimɓe 1 walla 2",
+    "intro": "Heen sahaaji golle ɓurɗe moƴƴude ko deƴƴere. Tappu \"Fuɗɗoode\", caggal ɗuum fooftu no cirkel ngel mawnirta nii, yaltu no ngel ɓuuɓtortoo nii. Suɓo njaaweeki ɓurki leeltude walla ɓurki yaawde. Wonaa safaara, ko sahaa jam tan ngam renndinde.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Jooɗto e jam bannge e bannge.",
+      "Suɓo njaaweeki : leelɗo walla leelɗo.",
+      "Tappu \"Fuɗɗoode\". Fooftu e nder cirkel ngel ina mawna, yaltu e nder ngel ina ɓuuɓtoo.",
+      "Ina dartoo e hoore mum caggal fooftere jeegom, walla tappu \"Stop\" kala nde njiɗɗaa."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Joggo juuɗe walla fooftina junngo e junngo neɗɗo oo so tawii ɗuum ina weltii.",
+      "Hoto meeɗ tiiɗnaade. So ɓe ɓurii yiɗde ndaarde, ɗuum ina moƴƴi.",
+      "So tawii won caɗeele foofaango, foofa no haanirta nii, ƴeewa tan cirkel ngel. Naamndo safroowo kala ko ina addana fooftere."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Mbele ɗum ko fooftere safaara?",
+        "a": "Alaa. Ko pause koyɗol, cuɓaaɗo ngam calminaali e sosiyetee. Wonaa safaara kulhuli walla kala ngonka. Yeewtid e doktoor ko fayti e cellal."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Mbele cirkel ngel ina diwa tawa mi fuɗɗaaki ngel?",
+        "a": "Alaa. Alaa ko dillata so a tappii Fuɗɗoode, nde dartoo caggal foofaango jeegom walla so a tappii Stop. So tawii kaɓirgal maa ina seŋa ngam ustude dille, konnguɗi ɗii mbayla tawa taarik oo mawnaani."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mbele ko mbelnaari, kadi mbele miɗo foti winnditaade?",
+        "a": "Eey, ko meere, kadi alaa konte, winnditaade walla ƴettude. Ina gollira e nder feerorde web e telefoŋ, tablet walla ordinateer."
       }
     ]
   }

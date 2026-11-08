@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "तस्वीर के जोड़ी बा",
+    "seoTitle": "डिमेंशिया खातिर मिलान खेल: चित्र जोड़ी",
+    "h1": "चित्र जोड़ी: एगो कोमल मिलान खेल",
+    "description": "डिमेंशिया से पीड़ित लोग खातिर एगो मुफ्त, कोमल मिलान खेल। बड़का तस्वीर लउकत रहेला, कवनो टाइमर भा स्कोर ना होला आ रउरा 4 से 12 गो टाइल्स चुनीलें.",
+    "short": "दुनु तस्वीर खोजीं जवन एके जइसन होखे. तस्वीर देखावत रह सकेला.",
+    "players": "1 या 2 लोग, एक दूसरा के बगल में",
+    "intro": "कवनो तस्वीर के टैप करीं, फेर ओकरा से मेल खाए वाला तस्वीर के टैप करीं. तस्वीर डिफ़ॉल्ट रूप से देखावत रहेला, एहसे कुछुओ याद ना राखे के पड़ेला। जब दू गो तस्वीर एके साथे चलेला त ओह लोग के सोना के सीमा आ चेक मार्क मिल जाला.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "चुनीं कि केतना टाइल्स के इस्तेमाल कइल जाव. चार टाइल्स शुरू करे खातिर एगो शांत जगह बा।",
+      "कवनो तस्वीर पर टैप करीं. एकरा सोना के सीमा मिल जाला।",
+      "जवन तस्वीर एके जइसन लउके ओकरा पर टैप करीं. जोड़ी चेक मार्क के संगे एक संगे रहेले।",
+      "अगर दुनो तस्वीर अलग-अलग होखे त कवनो बुराई ना होखेला। जब भी रउरा तइयार होखीं त फेर से टैप करीं.",
+      "\"छुपल तस्वीर\" तबे चालू करीं जब रउरा दुनु जने के क्लासिक फेस-डाउन संस्करण के मजा आवे."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "एक संगे तस्वीर के नाम जोर-जोर से बताईं अवुरी ओकरा बारे में गपशप करीं: \"लाल चाय के कप। का आप अपना चाय में दूध लेतानी?\"",
+      "जवना आदमी के रउरा देखभाल करीलें ओकरा के टैपिंग करे दीं, भलही ओकरा में कुछ समय लाग जाव. ओह लोग खातिर टैप करे के बजाय इशारा करीं.",
+      "जबले बढ़िया लागे तबले चार गो टाइल्स के साथे रहीं. अधिका टाइल्स एगो विकल्प ह, कबो कवनो स्तर तक पहुंचे के ना।",
+      "जबले मजा आवेला तबले खतम करीं. एगो खेल पूरा गतिविधि ह।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "का कवनो टाइमर बा कि कवनो स्कोर?",
+        "a": "ना कवनो घड़ी, स्कोर, मूव काउंटर भा हार ना होखे. रउरा कवनो पल रुक सकेनी, आ आधा रास्ता में रुकल खतम करे के एकदम बढ़िया तरीका बा."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "तस्वीर मुँह ऊपर काहे रहेला?",
+        "a": "तस्वीर के लउकत रखला से खेल याद करे के बजाय देखे आ मिलान में बदल जाला। बहुत लोग के ई बात अउरी शांत लागेला। अगर रउरा चाहब त एके नल में छिपल तस्वीर पर स्विच कर सकीलें."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "का ई मुफ्त बा, आ का हमरा साइन अप करे के जरूरत बा?",
+        "a": "हँ, ई मुफ्त बा, आ कवनो खाता, साइन अप भा डाउनलोड नइखे. ई फोन, टैबलेट भा कंप्यूटर पर वेब ब्राउजर में काम करेला."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "का हमनी के आपन पारिवारिक फोटो के इस्तेमाल कर सकेनी जा?",
+        "a": "हॅंं। फोटो जोड़ी के आजमाईं, जवना से आप अपना डिवाइस से फोटो चुन सकतानी। फोटो रउरा ब्राउजर में रहेला आ अपलोड ना होला."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "उहे खोजल जाव",
+    "seoTitle": "उहे तस्वीर खोजीं: सरल डिमेंशिया खेल",
+    "h1": "उहे तस्वीर खोजीं",
+    "description": "ऊपर एगो तस्वीर, नीचे दू से चार गो। जवन एके बा ओकरा पर टैप करीं. डिमेंशिया से पीड़ित लोग खातिर एगो शांत, मुफ्त पिक्चर गेम, जवना में कवनो टाइमर ना होखे।",
+    "short": "ऊपर के तस्वीर देख के नीचे दिहल तस्वीर के टैप करीं।",
+    "players": "1 या 2 लोग के बा",
+    "intro": "स्क्रीन के ऊपर एकही तस्वीर बईठल बा। एकरा नीचे दू, तीन चार गो तस्वीर बा। जवन एके बा ओकरा पर टैप करीं. एक बेर में एक साधारण विकल्प बा, जवना में बात करे के भरपूर गुंजाइश बा।",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "दू, तीन भा चार गो तस्वीर चुनीं जवना में से चुनीं. दू गो सबसे सरल बा।",
+      "ऊपर के तस्वीर के एक संगे देखल जाव।",
+      "नीचे दिहल उहे तस्वीर पर टैप करीं। एकरा पर चेक आ कुछ गरम शब्दन के निशान लगावल गइल बा.",
+      "अगर कवनो अलग तस्वीर टैप कइल जाव त गेम बस ओकर नाम राखेला आ इंतजार करेला. आपन समय निकालीं।",
+      "जब रउरा दोसरा खातिर तइयार होखीं त \"अगिला तस्वीर\" पर टैप करीं."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "चुने से पहिले हर तस्वीर के बारे में बात करीं: रंग, आकृति, जहाँ रउआँ एकरा के देख सकेनी।",
+      "दू गो विकल्प \"बहुत आसान\" नइखे. लक्ष्य एगो सुखद पल ह, चुनौती ना।",
+      "अगर टैप कइल कठिन बा त ऊ आदमी इशारा कर सकेला आ रउरा ओकरा खातिर टैप कर सकेनी."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "का कवनो टाइमर बा कि कवनो स्कोर?",
+        "a": "ना कवनो घड़ी, स्कोर, मूव काउंटर भा हार ना होखे. रउरा कवनो पल रुक सकेनी, आ आधा रास्ता में रुकल खतम करे के एकदम बढ़िया तरीका बा."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "अगर गलत तस्वीर टैप कइल जाव त का होई?",
+        "a": "कवनो अप्रिय कुछुओ ना। ना त बजर, रेड क्रॉस ना हिलल बा। खेल ओह तस्वीर के नाम देला जवना के टैप कइल गइल रहे आ अगिला टैप के इंतजार करेला."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "का ई मुफ्त बा, आ का हमरा साइन अप करे के जरूरत बा?",
+        "a": "हँ, ई मुफ्त बा, आ कवनो खाता, साइन अप भा डाउनलोड नइखे. ई फोन, टैबलेट भा कंप्यूटर पर वेब ब्राउजर में काम करेला."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "छाया के मैच बा",
+    "seoTitle": "डिमेंशिया खातिर छाया मिलान खेल: मुफ्त ऑनलाइन",
+    "h1": "छाया मैच: एगो कोमल चित्र खेल",
+    "description": "ऊपर एगो करिया छाया, नीचे दू से चार गो तस्वीर। छाया बनावे वाला तस्वीर के टैप करीं। डिमेंशिया खातिर एगो मुफ्त, शांत छाया मिलान खेल, जवना में कवनो टाइमर ना होखे.",
+    "short": "छाया के देख के ओह तस्वीर के टैप करीं जवन ओकरा के बनावेला।",
+    "players": "1 या 2 लोग के बा",
+    "intro": "छाया मिलान छपल वर्कशीट से एगो परिचित गतिविधि हवे, इहाँ बड़हन चित्र आ छपे खातिर कुछ ना होला। स्क्रीन के ऊपर एगो मुलायम छाया बईठल बा अवुरी नीचे दु, तीन चार तस्वीर इंतजार करता। जवन छाया बनावेला ओकरा के टैप करीं। साइकिल, छतरी भा चाय के कप जइसन आकृति के बात भी कइल आसान बा।",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "दू, तीन भा चार गो तस्वीर चुनीं जवना में से चुनीं. दू गो सबसे सरल बा।",
+      "एक संगे परछाई के देखल जाव। एकर कवन आकृति बा? लमहर बा कि गोल?",
+      "छाया बनावे वाला तस्वीर के टैप करीं। एकर नाम छाया के नीचे लउकेला।",
+      "अगर कवनो अलग तस्वीर टैप कइल जाव त गेम बस ओकर नाम राखेला आ इंतजार करेला. आपन समय निकालीं।",
+      "जब रउरा दोसरा खातिर तइयार होखीं त \"अगिला छाया\" पर टैप करीं."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "छाया के रूपरेखा के अँगुरी से ट्रेस करीं आ आकृति के बारे में बात करीं।",
+      "अगर आज छाया कड़ा लागत बा त उहे खोजीं पर स्विच करीं, जहाँ चित्र एक जइसन लउके लीं।",
+      "एक बेर तस्वीर मिलला के बाद ओकरा बारे में बात करीं: \"हमनी के लगे अयीसन छतरी रहे।\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "का कवनो टाइमर बा कि कवनो स्कोर?",
+        "a": "ना कवनो घड़ी, स्कोर, मूव काउंटर भा हार ना होखे. रउरा कवनो पल रुक सकेनी, आ आधा रास्ता में रुकल खतम करे के एकदम बढ़िया तरीका बा."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "का डिमेंशिया से पीड़ित लोग खातिर छाया मिलान बढ़िया बा?",
+        "a": "कुछ लोग खातिर ई एगो सुखद, सरल गतिविधि हो सके ला, खासतौर पर पहिले के दौर में। शब्द से आकृति के पहचानल आसान होला। ई मजा आ बातचीत खातिर होला, कवनो परीक्षण ना, आ ई डिमेंशिया के इलाज भा धीमा ना करेला. अगर एकरा से कुंठा पैदा होखे त कोशिश करीं कि एके जइसन खोजीं भा बस एक संगे तस्वीर देखीं."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "अगर गलत तस्वीर टैप कइल जाव त का होई?",
+        "a": "कवनो अप्रिय कुछुओ ना। ना त बजर, रेड क्रॉस ना हिलल बा। खेल ओह तस्वीर के नाम देला जवना के टैप कइल गइल रहे आ अगिला टैप के इंतजार करेला."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "का ई मुफ्त बा, आ का हमरा साइन अप करे के जरूरत बा?",
+        "a": "हँ, ई मुफ्त बा, आ कवनो खाता, साइन अप भा डाउनलोड नइखे. ई फोन, टैबलेट भा कंप्यूटर पर वेब ब्राउजर में काम करेला."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "एक संगे सॉर्ट करीं",
+    "seoTitle": "डिमेंशिया खातिर सॉर्टिंग गेम: एक साथ सॉर्ट करीं",
+    "h1": "एक साथ सॉर्ट करीं: एगो चित्र सॉर्टिंग गतिविधि",
+    "description": "कवनो तस्वीर के टैप करीं, ओकरा बाद ओह टोकरी के टैप करीं जवना में ऊ होखे: रसोई भा बगीचा, फल भा जानवर. डिमेंशिया से पीड़ित लोग खातिर एगो शांत, मुफ्त छँटाई गतिविधि।",
+    "short": "हर तस्वीर के ओकर टोकरी में डाल दीं: रसोई भा बगीचा, आ अउरी बहुत कुछ।",
+    "players": "1 या 2 लोग के बा",
+    "intro": "छँटाई एगो परिचित, संतोषजनक रोजमर्रा के काम ह, जइसे कि किराना के सामान रखल भा मोजा के जोड़ी बनावल. कवनो तस्वीर के टैप करीं, फेर टोकरी के टैप करीं जहाँ ऊ होखे. ना कवनो भागदौड़ बा ना कवनो गलत मोड़.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "कवनो विषय चुनीं: रसोई आ बगीचा, फल आ जानवर, भा घर आ यात्रा.",
+      "कवनो तस्वीर के टैप करीं। एकरा सोना के सीमा मिल जाला।",
+      "जवना टोकरी में ई संबंध बा ओकरा पर टैप करीं, तस्वीर ओह टोकरी में चल जाला.",
+      "अगर ऊ दोसरा टोकरी में होखे त खेल अतना धीरे से कहत बा आ इंतजार करत बा.",
+      "जब हर तस्वीर के छाँटल जाव त टोकरी के एक संगे देखल जाव।"
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "असल जिनिगी में अक्सर कवनो गलत जवाब ना मिलेला. अगर केहू कहत बा कि पानी के डिब्बा रसोई में के ह त पूछीं कि काहे. हो सकेला कि रउरा कवनो बढ़िया कहानी मिल जाव.",
+      "चित्रन के इस्तेमाल एगो संकेत के रूप में करीं: \"रउरा अपना बगइचा में का उगवले बानी?\"",
+      "असली वस्तु जइसे कि चम्मच आ कांटा भा बटन के रंग के हिसाब से छाँटल स्क्रीन से दूर एगो बढ़िया फॉलोअप बा."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "का कवनो टाइमर बा कि कवनो स्कोर?",
+        "a": "ना कवनो घड़ी, स्कोर, मूव काउंटर भा हार ना होखे. रउरा कवनो पल रुक सकेनी, आ आधा रास्ता में रुकल खतम करे के एकदम बढ़िया तरीका बा."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "छँटाई काहे कइल जाला?",
+        "a": "बहुत लोग के छँटाई में मजा आवेला काहे कि ई उपयोगी, परिचित काम जइसन लागेला. जात-जात चित्रन के बारे में बात कइल भी आसान बा।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "का ई मुफ्त बा, आ का हमरा साइन अप करे के जरूरत बा?",
+        "a": "हँ, ई मुफ्त बा, आ कवनो खाता, साइन अप भा डाउनलोड नइखे. ई फोन, टैबलेट भा कंप्यूटर पर वेब ब्राउजर में काम करेला."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "चित्र पहेली के बा",
+    "seoTitle": "डिमेंशिया खातिर आसान आरा पहेली: 4 या 9 टुकड़ा",
+    "h1": "चित्र पहेली: एगो आसान आरा",
+    "description": "डिमेंशिया से पीड़ित लोग खातिर एगो आसान ऑनलाइन आरा: 4 या 9 बड़ टुकड़ा, पूरा तस्वीर लउकत रहेला, अवुरी आप दु टुकड़ा के टैप क के ओकरा के अदला-बदली क देनी।",
+    "short": "जबले तस्वीर पूरा ना हो जाव तबले दू गो टुकड़ा के अदला-बदली करे खातिर टैप करीं.",
+    "players": "1 या 2 लोग के बा",
+    "intro": "एगो दोस्ताना तस्वीर के चार-नौ बड़का टुकड़ा में काट के मिला के मिला दिहल जाला। पूरा तस्वीर एगो मार्गदर्शक के रूप में लउकत रहेला। एक टुकड़ा पर टैप करीं, फेर दोसरा टुकड़ा पर, आ ऊ लोग जगह अदला-बदली करेला. कवनो घसीटे के जरूरत नइखे.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "कवनो तस्वीर आ 4 भा 9 गो टुकड़ा चुनीं. चार के शुरुआत एगो कोमल बा।",
+      "ऊपर के पूरा तस्वीर देखल जाव।",
+      "कवनो टुकड़ा के टैप करीं, फेर ओह जगह पर टैप करीं जहाँ ओकरा के जाए के चाहीं. दुनु टुकड़ा के अदला-बदली हो जाला.",
+      "सही जगह पर टुकड़ा के एगो छोट चेक मार्क मिल जाला।",
+      "जब तस्वीर पूरा हो जाव त मिलजुल के मजा लीं, फेर दोसर चुनीं."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "दू गो टुकड़ा के अदला-बदली करे खातिर टैप कइल बहुते लोग खातिर घसीटला से बहुते आसान होला.",
+      "तस्वीर के बारे में बात करीं जइसे कि ऊ एक साथ आवत बा: \"लाल छत बा.\"",
+      "12 से 24 बड़ टुकड़ा वाला असली लकड़ी के आरा भी एगो प्यारा टेबल एक्टिविटी ह।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "का कवनो टाइमर बा कि कवनो स्कोर?",
+        "a": "ना कवनो घड़ी, स्कोर, मूव काउंटर भा हार ना होखे. रउरा कवनो पल रुक सकेनी, आ आधा रास्ता में रुकल खतम करे के एकदम बढ़िया तरीका बा."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "का हमरा टुकड़ा घसीटे के जरूरत बा?",
+        "a": "ना, एक टुकड़ा पर टैप करीं, फेर दोसरा टुकड़ा पर टैप करीं, आ ऊ लोग जगह अदला-बदली करेला. डगमगात हाथ से भा छोट परदा पर ई काम आसान होला."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "का ई मुफ्त बा, आ का हमरा साइन अप करे के जरूरत बा?",
+        "a": "हँ, ई मुफ्त बा, आ कवनो खाता, साइन अप भा डाउनलोड नइखे. ई फोन, टैबलेट भा कंप्यूटर पर वेब ब्राउजर में काम करेला."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "कहावत खतम कर दीं",
+    "seoTitle": "कहावत खतम करीं: वरिष्ठ लोग खातिर कहावत के खेल",
+    "h1": "कहावत के समाप्त कर दीं",
+    "description": "परिचित अमेरिकी कहावत जवना में आखिरी शब्द गायब बा, जइसे कि \"एक पइसा बचावल एगो पइसा ___\"। कवनो विकल्प के टैप करीं भा अंत देखाईं, फेर ओकरा बारे में बात करीं.",
+    "short": "एक संगे परिचित कहावत के पूरा करीं, फेर ओकरा बारे में बात करीं।",
+    "players": "1, 2 भा कवनो समूह के बा",
+    "intro": "पुरान कहावत अक्सर जिनिगी भर जानल जाले. हर कार्ड पर एगो परिचित कहावत देखावल गइल बा जवना में आखिरी शब्द गायब बा, तीन गो विकल्प, आ \"अंत देखाईं\" बटन देखावल गइल बा. अंत के बाद एगो कोमल सवाल बातचीत के नेवता देला।",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "कहाउत के एक संगे जोर से पढ़ीं।",
+      "जवन शब्द एकरा के खतम करेला ओकरा पर टैप करीं, भा \"अंत देखाईं\" पर टैप करीं.",
+      "पूरा कहावत के फेर से पढ़ीं आ प्रॉम्प्ट के इस्तेमाल करत ओकरा बारे में बात करीं.",
+      "जब रउरा तइयार हो जाईं त \"अगिला कहत\" पर टैप करीं."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "धीरे-धीरे पढ़ीं आ आखिरी शब्द से पहिले एगो विराम छोड़ दीं. अक्सरहा लोग रउरा खतम होखे से पहिले कह देला.",
+      "अगर केहू अलग अंत देला त मजा लीं. कहावत के कुछ संस्करण परिवार भा क्षेत्र के हिसाब से अलग-अलग होला।",
+      "एगो समूह में एक आदमी पढ़ेला आ अंत पर सभे शामिल हो जाला."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "का कवनो टाइमर बा कि कवनो स्कोर?",
+        "a": "ना कवनो घड़ी, स्कोर, मूव काउंटर भा हार ना होखे. रउरा कवनो पल रुक सकेनी, आ आधा रास्ता में रुकल खतम करे के एकदम बढ़िया तरीका बा."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "अगर हमनी के कवनो अलग शब्द चुनीं जा त का होई?",
+        "a": "खेल में सामान्य अंत देखावल जाला आ बातचीत पर आगे बढ़ल जाला. कवनो स्कोर नइखे, आ अलग जवाब ठीक बा."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "का ई मुफ्त बा, आ का हमरा साइन अप करे के जरूरत बा?",
+        "a": "हँ, ई मुफ्त बा, आ कवनो खाता, साइन अप भा डाउनलोड नइखे. ई फोन, टैबलेट भा कंप्यूटर पर वेब ब्राउजर में काम करेला."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "बड़का-बड़का छाप वाला शब्द खोजल जाला",
+    "seoTitle": "डिमेंशिया खातिर बड़ प्रिंट शब्द खोज, प्रिंट करे लायक",
+    "h1": "बड़का-प्रिंट शब्द खोजल जाला",
+    "description": "सीनियर आ डिमेंशिया से पीड़ित लोग खातिर एगो मुफ्त बड़का छाप वाला शब्द खोज. कम शब्द, बड़का अक्षर, शब्द पार नीचे खाली। ऑनलाइन खेलीं भा प्रिंट करीं.",
+    "short": "बड़का-बड़का अक्षर, कुछ शब्द, पार-नीचे ही। एकरा के भी प्रिंट करीं।",
+    "players": "1 या 2 लोग के बा",
+    "intro": "एगो छोट ग्रिड जवना में बड़का अक्षर आ बस मुट्ठी भर शब्द होखे, सब पार भा नीचे पढ़ल होखे. कवनो शब्द के पहिला अक्षर पर टैप करीं, फेर ओकर आखिरी अक्षर. कागज पसंद करीं? एक नल में एगो ताजा पहेली प्रिंट करीं।",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "कवनो थीम आ एगो ग्रिड साइज चुनीं.",
+      "शब्द सूची देखल जाव. पार (बाएं से दाहिने) भा नीचे (ऊपर से नीचे) पढ़ल शब्द।",
+      "कवनो शब्द के पहिला अक्षर पर टैप करीं, ओकरा बाद ओकर आखिरी अक्षर पर टैप करीं.",
+      "मिलल शब्द के हाइलाइट क के लिस्ट से क्रॉस कर दिहल जाला।",
+      "पेंसिल भा मार्कर से कागज पर खेले खातिर \"ई पहेली छापीं\" पर टैप करीं।"
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "सूची में कवनो शब्द के ओर इशारा करीं आ ओकर पहिला अक्षर एक संगे खोजीं।",
+      "कागज प हाइलाइटर के पकड़ल पेंसिल से आसान बा।",
+      "विषय शब्दन के बारे में बात करीं। फल के शब्द चुने, बेकिंग भा बाजार के याद में आवे के एगो स्वाभाविक तरीका ह।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "का कवनो टाइमर बा कि कवनो स्कोर?",
+        "a": "ना कवनो घड़ी, स्कोर, मूव काउंटर भा हार ना होखे. रउरा कवनो पल रुक सकेनी, आ आधा रास्ता में रुकल खतम करे के एकदम बढ़िया तरीका बा."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "का हम खोज शब्द के प्रिंट कर सकेनी?",
+        "a": "हॅंं। वर्तमान ग्रिड के बड़हन टाइप में प्रिंट करे खातिर \"ई पहेली छापीं\" पर टैप करीं, नीचे शब्द सूची के साथ। हर नया पहेली अलग अलग होला."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "का ई मुफ्त बा, आ का हमरा साइन अप करे के जरूरत बा?",
+        "a": "हँ, ई मुफ्त बा, आ कवनो खाता, साइन अप भा डाउनलोड नइखे. ई फोन, टैबलेट भा कंप्यूटर पर वेब ब्राउजर में काम करेला."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "रंग भर के पन्ना के बा",
+    "seoTitle": "डिमेंशिया से पीड़ित वयस्क लोग खातिर रंग पेज (निःशुल्क)",
+    "h1": "रंग भरने के पन्ना बा",
+    "description": "बड़हन क्षेत्र वाला साधारण, वयस्क रंग पन्ना: कवनो रंग के टैप करीं, फिर चित्र पर टैप करीं। ना कवनो गड़बड़ी, ना कवनो गलत रंग, आ हर पन्ना के मुफ्त में छपावल जा सकेला.",
+    "short": "कवनो रंग के टैप करीं, ओकरा बाद तस्वीर के एगो हिस्सा। पन्ना भी छापल जाला।",
+    "players": "1 या 2 लोग के बा",
+    "intro": "बड़हन, साधारण आकृति वाला पन्ना: एगो बर्तन में फूल, एगो घर, एगो चाय के कप, एगो तितली आ एगो पाल नाव। कवनो रंग के टैप करीं, ओकरा बाद ओकरा के भरे खातिर चित्र के कवनो हिस्सा पर टैप करीं। कवनो गलत रंग नइखे.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "कवनो पन्ना चुनीं।",
+      "कवनो रंग के टैप करीं। हर रंग पर आपन नाम लिखल बा.",
+      "चित्र के कवनो हिस्सा पर टैप करीं आ ओकरा के ओह रंग से भरीं.",
+      "कबो भी आपन मन बदल के ओकरा के फेर से भर के।",
+      "पेंसिल भा मार्कर से रंगे खातिर खाली पन्ना खातिर \"ई पन्ना छापीं\" पर टैप करीं।"
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "अगर चुनल बहुते लागत होखे त पूरा सेट के बजाय दू गो रंग चुने के पेशकश करीं.",
+      "बैंगनी रंग के पेड़ आ नील रंग के सूरज के स्वागत बा। ई रंग के आनंद लेबे के बा, सटीकता के ना.",
+      "छपल पन्ना मोट मार्कर भा क्रेयॉन के साथ बढ़िया काम करे ला, जेकरा के पकड़ल आसान होला।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "का कवनो टाइमर बा कि कवनो स्कोर?",
+        "a": "ना कवनो घड़ी, स्कोर, मूव काउंटर भा हार ना होखे. रउरा कवनो पल रुक सकेनी, आ आधा रास्ता में रुकल खतम करे के एकदम बढ़िया तरीका बा."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "का ई पन्ना बहुते बचकाना बा?",
+        "a": "हम कार्टून ना होके शांत, साधारण वस्तु खींचत रहनी, एहसे पन्ना बड़ लोग के सूट करेला। बड़का आकृति बिना बेबी के रंगाई-पोताई के आसान बना के राखेला।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "का ई मुफ्त बा, आ का हमरा साइन अप करे के जरूरत बा?",
+        "a": "हँ, ई मुफ्त बा, आ कवनो खाता, साइन अप भा डाउनलोड नइखे. ई फोन, टैबलेट भा कंप्यूटर पर वेब ब्राउजर में काम करेला."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "बातचीत के कार्ड दिहल जाला",
+    "seoTitle": "डिमेंशिया खातिर बातचीत शुरू करे वाला: पिक्चर कार्ड",
+    "h1": "बातचीत के कार्ड दिहल गइल बा",
+    "description": "डिमेंशिया से पीड़ित लोग खातिर कोमल बातचीत शुरू करे वाला पिक्चर कार्ड: ना कवनो क्विजिंग, ना सही जवाब। स्क्रीन पर इस्तेमाल करीं भा पूरा सेट के प्रिंट करीं.",
+    "short": "खुला, कोमल सवाल वाला चित्र कार्ड। कवनो क्विजिंग ना होखे.",
+    "players": "2 लोग भा कवनो समूह के",
+    "intro": "हर कार्ड में एगो परिचित तस्वीर के जोड़ी बनावेला जवना में बात करे के खुला नेवता दिहल जाला, जइसे कि \"रउरा पसंदीदा मौसम कवन बा?\" ना कवनो सही जवाब बा आ ना कुछ याद राखे के. कवनो विषय चुनीं भा ओह सब के फेरबदल करीं.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "कवनो विषय चुनीं, भा \"सब कार्ड\" राखीं.",
+      "सवाल के जोर से पढ़ीं आ एक संगे तस्वीर देखीं।",
+      "सुनीं, आपन जवाब साझा करीं, आ बात के भटकावे दीं.",
+      "जब रउरा तइयार हो जाईं त \"अगिला कार्ड\" पर टैप करीं, भा जबले मन करे तबले एक कार्ड का साथे रहीं.",
+      "पेपर सेट के काट के निकाले खातिर \"सब कार्ड प्रिंट करीं\" टैप करीं।"
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "सवाल के जवाब खुद भी दीं। बातचीत जइसन लागत बा, साक्षात्कार ना.",
+      "तथ्य के ना, कहानी के पालन करीं। अगर विवरण बदल गइल त ठीक बा.",
+      "अगर कवनो कार्ड कवनो दुखद चीज के छूवे त ओह एहसास के स्वीकार करीं आ धीरे से दोसरा कार्ड पर चल जाईं."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "काहे नइखे \"याद बा...?\" सवाल बा?",
+        "a": "याददाश्त के परीक्षण करे वाला सवाल परीक्षा निहन महसूस क सकता अवुरी शर्मिंदगी पैदा क सकता। \"बताईं...\" जइसन खुला नेवता में केहू के भी शामिल होखे दीं, चाहे ओकरा जवन याद होखे."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "का हम कार्ड छाप सकेनी?",
+        "a": "हॅंं। \"सब कार्ड प्रिंट करीं\" पूरा सेट के बड़हन टाइप में प्रिंट करे ला, प्रति पन्ना कई गो कार्ड, काट के बाहर निकाले खातिर तइयार।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "का ई मुफ्त बा, आ का हमरा साइन अप करे के जरूरत बा?",
+        "a": "हँ, ई मुफ्त बा, आ कवनो खाता, साइन अप भा डाउनलोड नइखे. ई फोन, टैबलेट भा कंप्यूटर पर वेब ब्राउजर में काम करेला."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "फोटो के जोड़ी बा",
+    "seoTitle": "पारिवारिक फोटो से मैचिंग गेम बनाईं",
+    "h1": "फोटो जोड़ी: आपन खुद के फोटो से मिलान करीं",
+    "description": "अपना खुद के पारिवारिक फोटो के एगो कोमल मिलान खेल में बदल दीं. अपना डिवाइस पर 2 से 6 फोटो चुनीं; ऊ रउरा ब्राउजर में रहेला आ कबो अपलोड ना होखे.",
+    "short": "आपन फोटो चुनीं आ ओकरा से मिलान करीं. कुछुओ अपलोड नइखे होखत.",
+    "players": "2 लोग, बगल के बगल में",
+    "intro": "अपना फोन, टैबलेट भा कंप्यूटर से दू से छह गो फोटो चुनीं आ ऊ एगो मैचिंग गेम बन जाई जवना में बड़हन, लउके वाला तस्वीर होखे. फोटो खाली एह पेज के भीतर देखावल गइल बा। ई अपलोड, सेव भा साझा ना कइल जालें आ पन्ना बंद कइला पर ई गायब हो जालें।",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"फोटो चुनीं\" पर टैप करीं आ दू से छह गो फोटो चुनीं.",
+      "हर फोटो दू बेर लउकेला. एक टैप करीं, फेर ओकर जोड़ी टैप करीं.",
+      "हर फोटो के बारे में जइसे-जइसे मिल जाई, बतियाईं।",
+      "जब रउरा काम पूरा हो जाई त पन्ना बंद करीं भा \"फोटो साफ करीं\" पर टैप करीं. कुछुओ ना राखल जाला।"
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "खुश, परिचित चीजन के साफ फोटो चुनीं: पालतू जानवर, बगीचा, पसंदीदा जगह, शादी के दिन।",
+      "जगह आ वस्तु के तस्वीर चेहरा से आसान हो सकेला, आ ई लोग के नाम लेबे के कवनो दबाव से बचेला.",
+      "अगर अचानक दुख ले आवे वाला लोग के फोटो छोड़ दीं, जबले कि रउरा मालूम ना होखे कि ऊ लोग दिलासा ले आवेला."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "का हमार फोटो कहीं अपलोड हो गइल बा?",
+        "a": "ना, पन्ना आपके चुनल फोटो के सीधा आपके ब्राउज़र में पढ़ के आपके स्क्रीन प देखावेला। ई हमनी के भा केहू दोसरा के ना भेजल जाला आ जब रउरा पन्ना बंद करीं भा फेर से लोड करीं त ऊ खतम हो जालें."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "का कवनो टाइमर बा कि कवनो स्कोर?",
+        "a": "ना कवनो घड़ी, स्कोर, मूव काउंटर भा हार ना होखे. रउरा कवनो पल रुक सकेनी, आ आधा रास्ता में रुकल खतम करे के एकदम बढ़िया तरीका बा."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "का हम अगिला बेर खातिर खेल के बचा सकेनी?",
+        "a": "ब्राउजर में ना, डिजाइन के हिसाब से, एहसे कवनो निजी चीज़ संग्रहीत ना होखेला। आईफोन अवुरी आईपैड खाती मुफ्त गोल्डन मोमेंट्स ऐप आपके डिवाइस प चुनल फोटो कॉपी रख सकता।"
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "तस्वीर बिंगो के बा",
+    "seoTitle": "डिमेंशिया से पीड़ित सीनियर लोग खातिर पिक्चर बिंगो: प्रिंट करे लायक",
+    "h1": "समूहन खातिर पिक्चर बिंगो",
+    "description": "मेमोरी केयर आ सीनियर ग्रुप खातिर मुफ्त प्रिंट करे लायक पिक्चर बिंगो, जवना में एगो बड़हन ऑन-स्क्रीन कॉलर बा। शब्दन वाला बड़हन तस्वीर, 9 भा 16 गो चौकोर, कवनो पढ़े के जरूरत ना.",
+    "short": "प्रिंट करे लायक पिक्चर बिंगो कार्ड आ समूह खातिर एगो बड़ स्क्रीन कॉलर।",
+    "players": "2 से 30 लोग के एगो समूह",
+    "intro": "नंबर के जगह तस्वीर वाला क्लासिक बिंगो, एहसे केहु के छोट-छोट अक्षर के पढ़े के जरूरत नईखे। अनोखा कार्ड के सेट प्रिंट करीं, ओकरा बाद ऑन स्क्रीन कॉलर के इस्तेमाल क के टीवी, लैपटॉप चाहे टैबलेट प हर तस्वीर के बड़ देखाईं।",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "प्रति कार्ड 9 या 16 वर्ग चुनीं आ केतना खिलाड़ी बाड़े।",
+      "\"कार्ड प्रिंट करीं\" पर टैप करीं। हर कार्ड अलग अलग होला.",
+      "एगो बड़हन स्क्रीन पर फोन करे वाला के खोलीं. हर तस्वीर के ओकर नाम के साथे देखावे खातिर \"अगिला चित्र\" पर टैप करीं।",
+      "खिलाड़ी लोग अपना कार्ड पर मिलान करे वाला तस्वीर के सिक्का, बटन भा मार्कर से ढंक देला।",
+      "जे एक पंक्ति, भा पूरा कार्ड भरेला ओकरा के जयकार मिल जाला. एह संस्करण में कवनो हारल नइखे: जबले सभका लगे लाइन ना हो जाव तबले खेलत रहीं."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "बड़का टोकन जइसे कि चेकर भा बोतल के टोपी के इस्तेमाल करीं. छोट-छोट बटन के उठावल मुश्किल हो सकता।",
+      "तस्वीर के नाम बताईं आ ओकरा बारे में कुछ कह दीं: \"पालकी. के नाव पर निकलल बा?\"",
+      "स्क्रीन के सबसे नजदीक देखे में दिक्कत वाला लोग के बईठाईं, आ मददगारन के ओह खिलाड़ियन से जोड़ी बनाईं जिनका जरूरत बा.",
+      "अधिकतर समूह खातिर नौ गो वर्ग भरपूर बा. सत्र के 20 से 30 मिनट के आसपास रखे के चाहीं।"
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "केयर होम में पिक्चर बिंगो कइसे चलावल जाला?",
+        "a": "प्रति खिलाड़ी एक कार्ड प्रिंट करीं, फोन करे वाला के रउरा लगे जवन बड़का स्क्रीन बा ओकरा पर डाल दीं आ हर तस्वीर के नाम धीरे-धीरे कॉल करीं. जबले सबके लाइन ना हो जाव तबले खेलीं, एहसे केहू के बाहर ना छोड़ल जाव."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "का ई छपाई मुफ्त में बा?",
+        "a": "हॅंं। जेतना कार्ड के जरूरत होखे, जेतना बेर चाहब, निजी भा समूह के इस्तेमाल खातिर प्रिंट करीं."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "का लोग बिना पढ़ले खेल सकेला?",
+        "a": "हॅंं। हर चौकोर एगो बड़हन तस्वीर ह, जवना के नीचे ओकर नाम शब्द पसंद करे वाला लोग खातिर बा."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "शांत साँस लेत बानी",
+    "seoTitle": "सीनियर आ देखभाल करे वालन खातिर एगो शांत साँस लेबे के विराम",
+    "h1": "एगो शांत साँस लेबे के विराम",
+    "description": "साझा करे खातिर एगो धीरे-धीरे, शांत साँस लेबे के विराम: छह साँस ले एगो कोमल घेरा बढ़ेला आ सिकुड़ जाला. रउरा एकरा के शुरू करीं, आ रउरा कबो भी रोक सकेनी.",
+    "short": "साथ में साँस लेवे खातिर एगो धीमा गोल। जब मन करे त शुरू करीं आ रुकीं.",
+    "players": "1 या 2 लोग के बा",
+    "intro": "कबो-कबो सबसे बढ़िया गतिविधि चुपचाप विराम होला। \"शुरुआत\" टैप करीं, फेर गोल बढ़त-बढ़त साँस लीं आ सिकुड़त बाहर निकलीं. धीमा भा तेज गति चुनीं. ई कवनो इलाज ना ह, बस एगो शांतिपूर्ण पल ह जवना के साझा कइल जा सकेला.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "आराम से बगल बगल बईठ जाइए।",
+      "कवनो गति चुनीं: धीमा भा कोमल।",
+      "\"शुरुआत\" पर टैप करीं। गोल बढ़ते साँस ले लीं, आ सिकुड़त घरी बाहर निकाल लीं.",
+      "छह साँस लेला के बाद इ अपने आप रुक जाला, चाहे जब मन करे \"रुक\" प टैप करीं।"
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "हाथ पकड़ीं भा ओह आदमी के बांह पर हाथ राखीं अगर ओकर स्वागत होखे.",
+      "कबो जिद मत करीं. अगर उ लोग देखल पसंद करीहे त ठीक बा।",
+      "अगर केहू के साँस लेवे में दिक्कत बा त सामान्य रूप से साँस लीं आ बस गोल के देखल जाव. साँस लेबे के कवनो चिंता के बारे में डाक्टर से पूछीं."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "का ई मेडिकल ब्रीदिंग एक्सरसाइज ह?",
+        "a": "ना, ई शांत आ संगत खातिर एगो साधारण, वैकल्पिक विराम ह. इ चिंता चाहे कवनो स्थिति के इलाज ना ह। स्वास्थ्य संबंधी चिंता के बारे में डॉक्टर से बात करीं।"
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "का गोल हमरा शुरू कइले बिना चलेला?",
+        "a": "ना, जबले रउरा स्टार्ट पर टैप ना करीं तबले कुछ ना हिलेला, आ छह साँस लेहला का बाद भा जब रउरा स्टॉप टैप करीं त ऊ रुक जाला. अगर राउर डिवाइस गति कम करे खातिर सेट बा त बिना गोल बढ़ले शब्द बदल जाला।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "का ई मुफ्त बा, आ का हमरा साइन अप करे के जरूरत बा?",
+        "a": "हँ, ई मुफ्त बा, आ कवनो खाता, साइन अप भा डाउनलोड नइखे. ई फोन, टैबलेट भा कंप्यूटर पर वेब ब्राउजर में काम करेला."
       }
     ]
   }

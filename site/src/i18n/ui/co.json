@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Passà à u cuntenutu principale",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
+    "brandTag": "Attività di demenza",
+    "homeLabel": "Momenti d'oru in casa",
     "mainNav": "Main",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Corsu",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Momenti d'oru: ritratti grandi è amichevuli di una tazza di tè, un girasole è un cane",
+    "languages": "Lingua",
+    "englishOnly": "(Inglese)",
+    "machineTranslated": "Sta pagina hè stata tradutta automaticamente è ùn hè ancu stata verificata da un parlante nativu.",
+    "readOriginal": "Leghjite l'uriginale in inglese",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Ghjochi",
+      "activities": "Attività",
+      "caregiving": "Cura",
+      "brainHealth": "Salute di u cervellu"
     },
-    "faqTitle": "Questions and answers",
+    "faqTitle": "Dumande è risposte",
     "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "home": "A casa",
+    "lastUpdated": "Ultima aghjurnata",
+    "topics": "Temi",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Dimensione di u testu",
+      "smaller": "Testu standard",
+      "larger": "Testu più grande",
+      "contrast": "Cuntrastu più altu"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Ghjucà",
+    "picturePairs": "Coppie di foto",
+    "conversationCards": "Carte di cunversazione",
+    "pictureBingo": "Bingo di foto",
+    "allGames": "Tutti i ghjochi",
+    "pictures": "Ritratti da stampà",
+    "activityIdeas": "Idee di attività",
+    "ideas101": "101 idee di attività",
+    "lateStage": "Attività tardive",
+    "printable": "Attività stampabile",
+    "allActivities": "Tutte l'attività",
+    "forCaregivers": "Per i caregivers",
+    "playTogether": "Cumu ghjucà inseme",
+    "selfCare": "A cura di sè stessu",
+    "brainHealth": "Ricerca di salute di u cervellu",
+    "faq": "Dumande è risposte",
+    "about": "À propositu",
+    "approach": "U nostru approcciu",
+    "howWeWrite": "Cumu scrivemu",
+    "organizations": "Per l'urganisazione",
+    "app": "L'app Golden Moments",
+    "appHelp": "Aiutu di l'app",
+    "support": "Supportu",
+    "legal": "Legale",
+    "sitePrivacy": "A privacy di u situ web",
+    "appPrivacy": "A pulitica di privacy di l'app",
+    "privacyChoices": "Scelte di privacy",
+    "terms": "Termini è licenza di l'app",
+    "safety": "Sicurezza è usu destinatu",
+    "accessibility": "L'accessibilità",
+    "healthNotice": "Avvisu di infurmazione sanitaria",
+    "allLegal": "Tutte l'infurmazioni legali",
+    "note": "Golden Moments offre semplici attività spartute per piacè. Ùn hè micca cunsiglii medichi, una prova o un trattamentu, è ùn diagnostica, misura o puntuà nimu. Per questioni di salute, parlate cù un duttore. In una emergenza, chjamate u 911.",
+    "publisher": "Pubblicatu da Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Dementia & Alzheimer's Games è Attività | Momenti d'oru",
+    "description": "Ghjochi d'imaghjini gratuiti è gentili per ghjucà in linea è idee di attività per e persone chì vivenu cù demenza o Alzheimer è i so caregivers.",
+    "eyebrow": "Gratuitu · Nisun annunziu · Nisuna iscrizzione · Nisun timer o partitura",
+    "h1": "Giochi è attività gentili per e persone cun demenza",
+    "lede": "Ghjochi di stampa simplici, ritratti familiari è attività per piacè inseme, à u vostru ritmu.",
+    "playGame": "Ghjucà un ghjocu",
+    "findIdeas": "Truvate idee di attività",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Funziona nantu à u telefunu, tableta è computer",
+      "Grandi ritratti chì fermanu à vede",
+      "Stop in ogni mumentu; nunda à falla"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Ancu una app gratuita per iPhone, iPad è Android, cù i vostri ritratti di famiglia",
+    "albumNote": "\"Duie ritratti di a tazza di tè, inseme.\"",
+    "gamesEyebrow": "Ghjucà in u vostru navigatore",
+    "gamesTitle": "Ghjochi chì pudete ghjucà avà",
+    "gamesLede": "Ognunu hè calmu, adultu è prestu per cumincià. Sceglite unu, pusate fiancu à fiancu, è toccu à turnu.",
+    "seeAllGames": "Vede tuttu {count} ghjochi",
+    "howTitle": "Cumu funziona",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Sceglite qualcosa familiar",
+        "text": "Foto di tazze di tè, giardini, animali domestici è barche à vela. Nisuna lettura o regule per amparà prima."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Siate fiancu à fiancu",
+        "text": "Lasciali toccu. Parlate di i ritratti. Una discordanza aspetta solu u prossimu tap."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Ferma mentre si senti bè",
+        "text": "Un ghjocu hè una attività cumpleta. \"Fattu per avà\" hè sempre nantu à u screnu."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Al di là di u screnu",
+    "stageTitle": "Idee di attività per ogni tappa",
+    "stageLede": "Musica, travaglii di ogni ghjornu, reminiscenze è mumenti sensoriali tranquilli, adattati à ciò chì si senti cunfortu avà.",
+    "ideas101": "101 idee di attività",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Prima tappa",
+        "text": "Cuntinuà à fà ciò chì amanu, cù picculi aghjustamenti: passatempi, viaghji, ghjochi di parolle è pianificazione inseme.",
+        "label": "Idee di prima fase"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Fase media",
+        "text": "I travaglii simplici è familiari sò spartuti in passi: plegamentu, ordinamentu, musica, ghjochi di stampa è brevi passeggiate.",
+        "label": "Idee di u stadiu mediu"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Fase più tardi",
+        "text": "Cunfortu è cunnessione attraversu u toccu, u sonu è a vista: cura di e mani, canzoni preferite, foto è esse inseme.",
+        "label": "Idee di u stadiu più tardi"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Cerchi qualcosa di specificu? Pruvate <a href=\"/activities/alzheimers/\">attività è ghjochi per l'Alzheimer</a>, <a href=\"/activities/memory-games/\">ghjochi di memoria gentile</a>, <a href=\"/activities/trivia/\">trivia faciuli</a> o <a href=\"/activities/puzzles/\">puzziche</a>.",
+    "approachEyebrow": "U nostru approcciu",
+    "approachTitle": "Una attività cumuna, micca una prova di memoria",
+    "approachLede": "Parechji \"ghjochi di u cervellu\" sò custruiti intornu à a velocità, i punteggi è e strisce. Per qualchissia chì vive cù a demenza chì pò sente cum'è un esame. Avemu custruitu u cuntrariu.",
+    "approachLink": "Perchè u cuncepemu cusì",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Nunda à fallu",
+        "text": "Nisun clock, puntuazione, vita o perde. Una stampa diversa hè una pausa, micca un sbagliu."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "L'imaghjini restanu à vede",
+        "text": "Ricunniscenza nantu à ricurdà. U matching principia a faccia in sopra, cusì ùn ci hè nunda di ricurdà."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Adultu è dignitu",
+        "text": "Parolle calde, semplici è ritratti di u mondu reale. Mai cartoons o baby talk."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Privatu per designu",
+        "text": "Nisun contu o annunzii. I vostri ritratti ùn lascianu mai u vostru dispositivu."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Per i caregivers",
+    "guidesTitle": "Guide pratiche per a cura di ogni ghjornu",
+    "allCaregiving": "Tutte le guide di cura",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Cumu ghjucà ghjochi inseme",
+        "text": "Configurazione, ritmu, è ciò chì fà quandu un ghjocu ùn hè più divertente."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Quandu dicenu micca à una attività",
+        "text": "Motivi cumuni per ricusà, è modi gentili per pruvà più tardi."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Configurazione di una tableta",
+        "text": "Testu più grande, menu interruzioni è una sola pantalla di casa simplice."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Attività stampate gratuiti",
+        "text": "Ricerche di parole in grande stampa, pagine di culore, bingo è carte di cunversazione."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Salute di u cervellu: ciò chì a ricerca dice veramente",
+    "researchText": "A demenza pò esse prevenuta? I ghjochi di u cervellu aiutanu? Chì ci hè u digiunu, a dieta, u sonnu è l'audizione? Risposte semplici, provenienti, cumpresi induve l'evidenza hè debule.",
+    "researchLink": "Leghjite e guide di ricerca",
+    "appEyebrow": "Ancu una app",
+    "appTitle": "Golden Moments in iPhone, iPad è Android",
+    "appText": "L'app gratuita funziona offline è pò utilizà e foto di famiglia chì sceglite, guardate cum'è copie in u vostru dispositivu. U stessu disignu calmu: quattru tile grande, senza timer, senza partitura.",
+    "aboutApp": "Circa l'app",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Chì sò i boni ghjochi per e persone cun demenza?",
+        "a": "I boni ghjoculi sò simplici, familiari è senza pressione: grandi stampe per currispondenu, sorte, puzzle faciuli, finiscinu detti famosi, culore, bingo di stampa è carte di cunversazione. A megliu scelta hè quella chì a persona piace oghje. Evite timers, scores è tuttu ciò chì si sente cum'è una prova."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Sò questi ghjochi di demenza gratuiti?",
+        "a": "Iè. Ogni ghjocu è stampabile nantu à Golden Moments hè liberu, senza contu, iscrizzione o scaricamentu. I ghjochi currispondenu in u navigatore web in un telefunu, tableta o computer."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "I ghjochi di u cervellu impediscenu a demenza?",
+        "a": "Nisun ghjocu hè statu dimustratu per prevene a demenza, è Golden Moments ùn pretende micca trattà o impedisce nunda. I nostri ghjochi sò per piacè è tempu inseme. A nostra sezione di salute di u cervellu spiega ciò chì a ricerca faci è ùn mostra micca."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Sò questi ghjochi adattati per qualchissia cù Alzheimer?",
+        "a": "Iè. A malatia d'Alzheimer hè a causa più cumuna di a dimenzja, è i ghjoculi sò fatti per questu: grandi ritratti chì stanu mostranu, pochi scelte, è nunda di ricurdà o sbaglià. L'abbinamentu, a classificazione è a finitura di e parolle familiari si basanu nantu à una cunniscenza longa piuttostu cà un novu apprendimentu."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Qualchissia cù demenza in u stadiu più tardi pò aduprà queste attività?",
+        "a": "Spessu, iè, cù qualchissia accantu à elli. Cumincià cù Truvate u stessu cù dui ritratti, Coppie di foto cù quattru piastrelle, una pagina di culore o una pausa di respirazione calma. Mantene a corta, seguite a so guida è ferma quandu anu avutu abbastanza."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "A mo infurmazione hè privata?",
+        "a": "U situ ùn hà micca cunti è senza publicità. Utilizemu Google Analytics per capisce quale pagine sò visitate. E foto chì sceglite per Coppie di foto sò mostrate solu in u vostru navigatore è ùn sò mai caricate."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Quale hè chì face Momenti d'oru ?",
+        "a": "Momenti d'oru hè una piccula squadra chì face attività d'imaghjini d'adulte calme per e famiglie è i caregivers, in u web è cum'è una app gratuita. Ùn simu micca clinichi, è nunda quì hè cunsiglii medichi."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "prima",
+    "middle": "mezzu",
+    "late": "dopu",
+    "hintOne": "Spessu vestiti {list} stage",
+    "hintMany": "Spessu vestiti {list} tappe",
+    "labelEarly": "Prima tappa",
+    "labelMiddle": "Fase media",
+    "labelLate": "Fase più tardi"
   },
   "cards": {
-    "aboutGame": "About this game",
+    "aboutGame": "Circa stu ghjocu",
     "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "play": "Ghjucà {name} →",
+    "readGuide": "Leghjite a guida"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Pronti per un ghjocu gentile?",
+    "text": "Grandi ritratti, senza timer, senza partitura è nunda per firmà. Ghjucate inseme in u vostru navigatore.",
+    "play": "Ghjucà un ghjocu",
+    "all": "Vede tutti i ghjochi",
+    "aria": "Ghjucà un ghjocu"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
+    "title": "Pigliate sti ghjochi cun voi",
+    "text": "L'app gratuita Golden Moments per iPhone, iPad è Android: grandi piastrelle di stampa, ghjochi cù e vostre foto di famiglia, è pacchetti di foto chì funzionanu senza Wi-Fi. Nisun contu, annunzii, timer o puntuazione.",
+    "appStore": "Pigliate in l'App Store",
     "googlePlay": "Get it on Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Circa l'app",
+    "aria": "Pigliate l'app"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Attività",
+      "title": "Attività per e persone cun demenza",
+      "seo": "Attività per e persone cun demenza: idee per tappe",
+      "description": "Idee di attività per e persone chì vivenu cù a demenza in ogni tappa: musica, reminiscenza, travaglii di ogni ghjornu, mumenti sensoriali, artighjanali.",
+      "lede": "L'attività significativa hè qualcosa chì porta cunfortu, scopu o un mumentu di cunnessione. Cumincià cù ciò chì a persona hà sempre piaciutu, è adatta à oghje."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Cura",
+      "title": "Guide di cura",
+      "seo": "Guide di cura di demenza: aiutu praticu di ogni ghjornu",
+      "description": "Guide pratiche è gentili per i caregivers di demenza: ghjoculi inseme, cumunicazione, rifiuti, inquietudine di a fine di u ghjornu, tablette, scelta di.",
+      "lede": "Aiutà simplice è pratica per i mumenti di ogni ghjornu di a cura di qualchissia chì vive cù a demenza, cumpresa a cura di sè stessu."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Salute di u cervellu",
+      "title": "Salute di u Cervellu: Ciò chì dice a ricerca",
+      "seo": "Salute di u Cervellu è Rischiu di Demenza: Ciò chì dice a ricerca",
+      "description": "A demenza pò esse prevenuta? Guide oneste, provenienti à i fatturi di risichi di demenza, ghjochi cerebrali, digiunu, dieta, eserciziu, sonnu, udimentu è.",
+      "lede": "Ciò chì i grandi studii in realtà mostranu nantu à a diminuzione di u risicu di demenza, spiegatu chjaramente, ancu induve l'evidenza hè debule o mista. Informazione generale, micca cunsiglii medichi."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Aghjurnatu",
+    "minuteRead": "{n} minutu di lettura",
+    "byTeam": "Da a squadra Golden Moments",
+    "howWeWrite": "Cumu scrivemu",
+    "shortAnswer": "A risposta corta",
+    "onThisPage": "In sta pagina ({n} sezioni)",
+    "commonQuestions": "Quistioni cumuni",
+    "sources": "Fonti",
+    "sourcesNote": "Avemu ligame cù l'urganisazioni è i studii chì sta pagina si basa. Ogni era verificatu quandu a pagina hè stata aghjurnata.",
+    "tryTogether": "Pruvate inseme",
+    "relatedGuides": "Guide relative",
+    "related": "Relativu",
+    "startHere": "Cumincià quì"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Avvisu di infurmazione sanitaria",
+    "title": "Informazione generale, micca cunsiglii medichi",
+    "textHtml": "Questa pagina riassume a ricerca publicata per e famiglie. Ùn pò micca dì ciò chì hè ghjustu per una persona. Parlate cù un duttore prima di cambià a dieta, l'esercitu, u sonnu, i medicini o i supplementi. Per cunfusione brusca o altri cambiamenti bruschi, uttene aiutu medica subitu. <a href=\"/medical-disclaimer/\">Leghjite u nostru avvisu di infurmazione sanitaria</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Un'attività spartuta, micca una prova di memoria",
+      "seoTitle": "À propositu di i Momenti d'Oro: U Nostru Approcciu",
+      "description": "Perchè i ghjochi Golden Moments ùn anu micca cronometri, punteggi o strisce, perchè e foto restanu mostrate, è ciò chì vulemu è ùn diceremu micca di a demenza.",
+      "crumb": "U nostru approcciu",
+      "lede": "Momenti d'oru facenu attività di stampa calma è adulti chì un caregiver è qualcunu chì vive cù a demenza ponu gode di fiancu à fiancu.",
+      "bodyHtml": "<h2>Ciò chì avemu cridutu</h2><p>U puntu di una attività hè u mumentu stessu: una cunversazione, un surrisu, a satisfaczione di mette dui ritratti inseme, o simpricimenti pusatu vicinu. Ùn hè micca per misurà à nimu, spinghje più o pruvucà qualcosa.</p><p>Parechje app di furmazione di u cervellu sò pensate intornu à a velocità, punteggi, strisce è livelli. Per una persona chì vive cù a demenza chì pò sente cum'è un esame ùn pò micca passà. Avemu cuncepitu u cuntrariu, è ci mantenemu à sti regule:</p><ul><li><strong>Nunda à fallu.</strong> Nisun clock, score, move counter, lives, stries, confetti o countdowns, in ogni schermu.</li><li><strong>Ricunniscenza nantu à ricurdà.</strong> L'imaghjini si mostranu per difettu. L'invitazioni invitanu a cunversazione è mai quiz nomi o ricordi.</li><li><strong>Grande, chjara è fermu.</strong> Grande testu è stampi, altu cuntrastu, è cuntrolli chì stanu in u stessu locu.</li><li><strong>A dignità adulta.</strong> Foto di u mondu reale è parolle chjaru è calde. Nisuna caricatura, lode di canti o premie emoji.</li><li><strong>Un modu faciliu fora.</strong> \"Fattu per avà\" hè sempre visibile. Firmà a mità di strada hè un bonu risultatu.</li><li><strong>Privatu per difettu.</strong> Nisun contu o annunzii. I ritratti chì sceglite stà nantu à u vostru dispositivu.</li></ul><h2>Ciò chì ùn riclamemu micca</h2><p>I nostri ghjochi sò per piacè è cunnessione. Ùn diagnosticanu, testanu, misurà, trattà, rallenta o prevene a demenza o a malatia d'Alzheimer, è nimu ùn deve sceglie per quessa. Quandu avemu scrittu annantu à a ricerca nantu à i nostri <a href=\"/brain-health/\">pagine di salute di u cervellu</a>, dicemu chjaramente induve l'evidenza hè debule, è ùn avemu mai cunnessu à i nostri ghjoculi.</p><h2>Chi simu</h2><p>Golden Moments hè una piccula squadra indipendente. Ùn simu micca clinichi. I nostri guide sò scritti da guida publicata da urganisazioni cum'è l'Istitutu Naziunale di l'Anzianu è l'Associazione Alzheimer, è ogni guida lista e so fonti. Leghjite <a href=\"/editorial-policy/\">cumu scrivemu è verificate e nostre pagine</a>.</p><h2>Diteci ciò chì aiuterà</h2><p>Ci piacerebbe à sente ciò chì travaglia per voi è ciò chì ùn hè micca, in particulare da e persone chì vivenu cù a demenza, i caregivers di famiglia è u persunale di l'attività. E-mail <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Cumu Scrivemu è Verificate e Nostre Pagine",
+      "seoTitle": "Politica Editoriale",
+      "description": "Cumu Golden Moments ricerca, scrive, fonti è aghjurnà a so attività di demenza è e pagine di salute di u cervellu, è ciò chì ùn avemu mai publicà.",
+      "crumb": "Pulitica editoriale",
+      "bodyHtml": "<h2>I nostri fonti</h2><p>Basemu i nostri guide nantu à a guida publica da urganisazioni cum'è l'Istitutu Naziunale di l'Anzianu, u CDC, l'Associazione Alzheimer, a Fundazione Alzheimer d'America, l'Alleanza per i Caregiver di Famiglia è u NHS, è nantu à a ricerca peer-reviewed such as Cochrane reviews è grandi prucessi clinichi. Ogni guida elenca e fonti chì si basa. Avemu apertu ogni fonte prima di citallu, è avemu solu rapportu ciò chì dice veramente.</p><h2>Cumu scrivemu</h2><ul><li>Prima pratica : chì fà oghje, in lingua chjara.</li><li>Onestu nantu à l'evidenza: dicemu \"ligatu cù\", \"puderà\" è \"l'evidenza hè mischiata\" quandu hè a verità.</li><li>Rispittivu: scrivimu nantu à e persone chì vivenu cù a demenza cum'è adulti, è ùn usemu mai a lingua di quizzing o di vergogna.</li><li>Nisun cuntenutu inventatu: senza statistiche inventate, citazioni, esperti, studii, recensioni o testimonii.</li></ul><h2>Chi rivista e nostre pagine</h2><p>E pagine sò scritte è verificate da a squadra di Golden Moments, cù l'aiutu di strumenti di scrittura AI per a ricerca è a redazione. Ogni pagina hè verificata cù e so fonti da a squadra. E nostre pagine anu <strong>micca</strong> statu rivisatu da un duttore o un altru clinicu, è ùn riclamemu micca altrimenti. Sò infurmazione generale, micca cunsiglii medichi.</p><h2>Ciò chì ùn publicheremu mai</h2><ul><li>Dichjara chì un ghjocu, cibo, supplementu, veloce o rutina impedisce, tratta, rallenta o cura a demenza.</li><li>Testi, quiz o puntuazioni chì suggerenu chì qualchissia hà, o ùn hà micca, demenza.</li><li>Cunsigliu per inizià, piantà o cambià qualsiasi medicina.</li><li>Publicità o cuntenutu sponsorizatu disfrazatu da guida.</li></ul><h2>Aghjurnamenti è currezzione</h2><p>Ogni pagina mostra a data di l'ultima aghjurnazione. Sè truvate un sbagliu o una fonte fora di data, per piacè email <a href=\"mailto:{email}\">{email}</a> è avemu da verificà subitu.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Domande è Risposte",
+      "seoTitle": "Dementia Games è Attività: Dumande è Risposte",
+      "description": "Risposte à e dumande cumuni nantu à i ghjoculi è l'attività di demenza: quali ghjoculi pruvate, quantu tempu per ghjucà, idee più tardi, salute di u cervellu è privacy.",
+      "crumb": "Dumande è risposte",
+      "lede": "Risposte brevi è chjaru à e dumande chì i caregivers facenu più.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Circa i ghjochi",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Chì sò i migliori ghjochi per qualchissia cù demenza?",
+              "a": "I migliori ghjochi sò familiari, simplici è senza pressione, è u dirittu hè quellu chì a persona piace oghje. L'abbinamentu di l'imaghjini cù l'imaghjini visibili, a classificazione, i puzzle faciuli, a finitura di detti familiari, u culore è u bingo d'imaghjini funzionanu bè per parechje persone. Evite timers, scores è tuttu ciò chì si sente cum'è una prova."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Sò i ghjochi veramente liberi?",
+              "a": "Iè. Tutti i ghjochi è i stampabili sò gratuiti, senza contu, iscrizzione, scaricamentu o publicità."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Perchè ùn ci sò micca puntuazioni, livelli o timers?",
+              "a": "A velocità è i punteghji trasformanu una attività piacevule in un esame, chì pò purtà vergogna o frustrazione. Mantenemu u focu annantu à u divertimentu è u tempu inseme, cusì ùn ci hè nunda di fallu è pudete piantà in ogni puntu."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Chì dispusitivi funziona megliu?",
+              "a": "Ogni telefonu, tableta o computer cù un navigatore web mudernu. Una tavuletta nantu à un stand à una tavula hè spessu u modu più còmode per duie persone per ghjucà à fiancu. Un laptop cunnessu à una TV funziona bè per i gruppi."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Pudemu ghjucà cù i nostri ritratti di famiglia?",
+              "a": "Iè. Coppie di foto trasforma da 2 à 6 foto chì sceglite in un ghjocu di currispundenza. I ritratti restanu in u vostru navigatore è ùn sò micca caricati o salvati."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Attività è cura",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Quantu duverà una attività?",
+              "a": "Spessu 10 à 20 minuti sò assai, è qualchì volta 2 minuti hè un successu. Fighjate à i segni di stanchezza o frustrazione è ferma mentre si senti ancu bè. Ùn ci hè micca una quantità ghjustu."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "E s'ellu ùn volenu micca fà una attività?",
+              "a": "Rispettate u no, è pruvate di novu dopu o in una manera diversa. U rifiutu pò vene da stanchezza, dolore, sensu incertu o simpricimenti ùn esse interessatu. Vede a nostra guida nantu à ciò chì fà quandu dicenu micca."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Chì attività si adattanu à a demenza in u stadiu più tardi?",
+              "a": "Cunfortu è sensi: ascolta a musica preferita, massaggi di e mani cù lozione, fighjendu e foto inseme, tenendu una manta soffice, pusendu fora, o un ghjocu di stampa assai simplice cù qualcunu vicinu à elli. A nostra guida di a tappa più tardi hà assai più idee."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Ci sò attività per i gruppi in una casa di cura ?",
+              "a": "Iè. U bingo di l'imaghjini hà carte stampate è un chjamante nantu à u screnu, è Finisce u dicenu è e carte di cunversazione funzionanu bè leghje à voce alta. A nostra guida per i gruppi di casa di cura copre a dimensione di u gruppu, i posti è l'adattazione per capacità miste."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Salute di u cervellu",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "I ghjochi ponu prevene o rallenta a demenza?",
+              "a": "Nisun ghjocu hè statu dimustratu per prevene a demenza, è i nostri ghjochi ùn facenu micca tali pretensione. L'estimulazione cognitiva in un ambiente suciale hà dimustratu picculi benefici in a ricerca per e persone cun demenza ligera à moderata, ma chì hè sfarente di un ghjocu chì prevene a malatia. Offriamu ghjochi per piacè è cunnessione."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "A demenza pò esse prevenuta?",
+              "a": "Micca cun certezza. A ricerca liga 14 fattori di salute è stile di vita cù u risicu di demenza, cum'è a perdita di l'udito, a pressione alta, l'inattività fisica è l'isolamentu suciale. L'indirizzu di elli pò riduce u risicu per certi persone, ma assai persone chì facenu tuttu bè sviluppanu ancu a dimenzja. Ùn hè mai a culpa di nimu."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "U digiunu intermittente hè bonu per a salute di u cervellu?",
+              "a": "L'evidenza umana hè limitata è precoce, è a maiò parte di a ricerca hè in animali. U digiunu pò esse risicatu per l'adulti anziani, soprattuttu cù i medicazione di diabete o a perdita di pisu involontaria, è ùn hè micca cunsigliatu per e persone chì vivenu cù a demenza. Parlate cun un duttore prima di cambià a manera di manghjà."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Privacy è sicurità",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Cugliete qualchì infurmazione ?",
+              "a": "Nisun contu o annunzii. Utilizemu Google Analytics per cuntà e visite è vede quali pagine aiutanu, è u vostru navigatore si ricorda se avete attivatu i soni dolci. E foto chì sceglite per Coppie di foto ùn sò mai caricate. Vede l'avvisu di privacy per i dettagli."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Hè questu cunsigliu medico?",
+              "a": "No. Golden Moments hè per recreazione è infurmazione generale. Per e dumande di salute, parlate cù un duttore, è per emergenze chjamate 911."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Più dettagli: <a href=\"/caregiving/how-to-play-together/\">cumu ghjucà inseme</a>, <a href=\"/caregiving/when-they-say-no/\">quand'elli dicenu micca</a>, <a href=\"/activities/late-stage/\">l'attività di a tappa più tardi</a> è <a href=\"/brain-health/can-dementia-be-prevented/\">si pò prevene a demenza?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Ghjochi gratuiti è gentili per e persone chì vivenu cù a demenza",
+      "seoTitle": "Documentu stampabile: Ghjochi gratuiti di Dementia Online",
+      "description": "Un documentu stampabile di una pagina per e famiglie è i caregivers nantu à i ghjochi di stampa gratuiti è gentili per e persone chì vivenu cù a demenza.",
+      "crumb": "Documentu stampabile",
+      "lede": "Stampa sta pagina per un gruppu di supportu, pacchettu di cura o a porta di u frigorifero. Aduprate u cumandamentu di stampa di u vostru navigatore; i menu è i buttoni sò lasciati fora di a stampata.",
+      "introHtml": "<p>Grandi ritratti, parolle chjaru è nunda à fallu. Gratuitu nantu à un telefunu, tableta o computer, senza registrazione, senza annunzii, senza timer è senza punteggi. Siate fiancu à fiancu è fate turnà.</p>",
+      "gamesTitle": "Ghjochi da pruvà inseme",
+      "restHtml": "<h2>Uni pochi cunsiglii</h2><ul><li>Sceglite un tempu di u ghjornu quandu a persona hè in u so megliu.</li><li>Cumincià cù a paràmetra più faciule. Quattru tile sò abbastanza.</li><li>Parlate di i ritratti. A conversazione hè spessu u megliu.</li><li>Ferma mentre si senti sempre piacevule. Finisce prima hè un bonu risultatu.</li></ul><h2>Ancu in u situ</h2><ul><li>Stampabili gratuiti: ricerca di parole in grande stampa, pagine di culore, carte di cunversazione è bingo di stampa.</li><li>Idee di attività per ogni tappa, è guide per ghjucà inseme è per cura di sè stessu.</li></ul><p class=\"muted\">Per piacè è tempu inseme. Micca cunsiglii medichi, una prova o un trattamentu. Golden Moments hè publicatu da Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Per Case di Cura, Biblioteche è Gruppi di Supportu",
+      "seoTitle": "Attività di Demenza Gratuite per Case di Cura è Gruppi",
+      "description": "Cumu e case di cura, i prugrammi di ghjornu di l'adulti, e biblioteche, l'agenzii di anziane è i gruppi di supportu utilizanu i nostri ghjochi gratuiti di.",
+      "crumb": "Per l'urganisazione",
+      "lede": "Tuttu in stu situ hè liberu d'utilizà cù residenti, membri è clienti, senza cuntu, licenza o tariffu. Questa pagina spiega ciò chì hè quì è cumu si sparte.",
+      "shortText": "{name}: ghjochi di stampa gratuiti è guide d'attività per e persone chì vivenu cù a demenza è i so caregivers. Nisuna registrazione, senza cronometri, nè punteggi.",
+      "longText": "{name} ({domain}) offre {count} ghjochi di navigatore gratuiti fatti per e persone chì vivenu cù a demenza, cumprese coppie currispondenti cù stampe lasciate chì mostranu, un puzzle faciule, classificazione, detti familiari è bingo di stampa cù carte stampate. Ùn ci hè micca contu, publicità, timer o puntuazione. U situ hà ancu guide d'attività in lingua semplice per ogni stadiu di a dimenzja chì cita l'Istitutu Naziunale di l'Anzianu è l'Associazione Alzheimer.",
+      "useTitle": "Chì l'urganisazione ponu aduprà",
+      "gamesItemHtml": "<strong>{count} ghjochi di navigatore</strong> chì funziona nantu à un laptop, tableta o TV cunnessu à un urdinatore. Nisuna stallazione, contu o scaricamentu. Vede <a href=\"/games/\">tutti i ghjochi</a>.",
+      "printablesLabel": "{count} stampabili:",
+      "printablesAfter": "Aduprà u buttone Stampa in ogni pagina.",
+      "moreItemsHtml": "<li><strong>Formati di gruppu:</strong> <a href=\"/games/picture-bingo/\">Bingo di foto</a> hà carte stampate è un chjamante nantu à u screnu, è <a href=\"/activities/trivia/\">trivia faciuli</a> hà 50 dumande cù scelte di risposta è punti di discussione.</li><li><strong>Guide d'attività</strong> per u persunale è e famiglie, per tappe è per tipu, scrittu in lingua chjara cù fonti. Cumincià cù <a href=\"/activities/ideas/\">101 idee di attività</a> o <a href=\"/activities/care-home-groups/\">attività di gruppu per case di cura</a>.</li>",
+      "restHtml": "<h2>Cumu i gruppi l'utilizanu</h2><ul><li><strong>Case di cura è cura di memoria:</strong> bingo d'imaghjini o finisci u dicenu nantu à a TV di a sala cumuna, cù una persona chì tocca per u gruppu.</li><li><strong>Programmi di ghjornu per adulti:</strong> una stazione di tavuletta cù Coppie di Picture set to four tiles, per brevi sessioni unu à unu.</li><li><strong>Biblioteche pubbliche:</strong> ricerche di parole stampate è carte di cunversazione in kit di memoria, è u situ marcatu nantu à i tablette di a biblioteca.</li><li><strong>Gruppi di supportu di caregiver è caffè di memoria:</strong> a <a href=\"/handout/\">documentu stampabile di una pagina</a> per e famiglie da piglià in casa.</li><li><strong>Ospedali è pianificatori di scaricamentu:</strong> u handout in pacchetti di caregiver, per qualcosa di calmu da fà in casa o à u lettu.</li></ul><h2>Ciò chì ùn facemu micca</h2><p>I ghjochi sò per piacè è tempu inseme. Ùn anu micca diagnosticatu, testatu, puntuatu, trattatu o rallenta a demenza, è dumandemu à l'urganisazioni di ùn li discrive micca cusì. Ùn ci hè micca annunzii, è i ghjochi ùn dumandanu micca nomi, dettagli di salute o ritratti per esse caricati. U situ web usa Google Analytics per cuntà e visite; i nostri <a href=\"/privacy/\">avvisu di privacy</a> spiega ciò chì raccoglie. Foto usate in <a href=\"/games/photo-pairs/\">Coppie di foto</a> stà in u navigatore.</p><h2>Aghjunghjiteci à a vostra lista di risorse</h2><p>Se tenete una lista di risorse per i caregivers, site benvenutu per ligà <a href=\"/\">{domain}</a>. Pudete copià ogni descrizzione.</p>",
+      "shortTitle": "Breve descrizzione",
+      "longTitle": "Descrizzione più longa",
+      "linksHtml": "<p>Pagine utili per ligà direttamente: <a href=\"/games/\">ghjochi gratuiti</a>, <a href=\"/activities/printable/\">stampabili gratuiti</a>, <a href=\"/activities/alzheimers/\">attività per l'Alzheimer</a> è <a href=\"/caregiving/how-to-play-together/\">cumu ghjucà inseme</a>.</p><h2>Domande o currezzione</h2><p>Se qualcosa in u situ hè sbagliatu o pocu chjaru, o i bisogni di un residente ùn sò micca soddisfatti da ciò chì hè quì, per piacè diteci à <a href=\"mailto:{email}\">{email}</a>. Per piacè ùn mandà micca infurmazioni persunali o di salute nantu à i residenti o i clienti.</p>"
     },
     "app": {
       "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "seoTitle": "L'app Golden Moments per iPhone è Android",
+      "description": "L'app gratuita Golden Moments: una foto delicata cù quattru grandi piastrelle, foto di famiglia guardate nantu à u vostru dispositivu, pacchetti di foto.",
+      "crumb": "L'app",
+      "lede": "Tuttu ciò chì ti piace nantu à u situ web, in una app chì funziona offline è pò utilizà e foto di famiglia chì sceglite.",
+      "worksOn": "U travagliu nantu {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Cumincià picculu</h2><p>Cumincià cù quattru tile grande è ritratti familiari. Mantene e foto visibili, o ammucciate quandu si senti còmode. U modu gentile ùn hà micca timer, puntuazione o penalità. Sceglie 4, 6, 8 o 12 piastrelle.</p><h2>Fate u persunale</h2><p>Selezziunà e foto di famiglia cù u selettore di foto di u vostru dispositivu. L'app salva copie più chjuche per e so attività. Ùn scansa micca a vostra biblioteca o cambia e vostre foto originali, è mantene finu à 24 foto in una sola cullezzione.</p><h2>Basta à guardà inseme</h2><p>Vede una foto à una volta. I suggerimenti opzionali invitanu a conversazione senza dumandà à nimu di ricurdà i nomi o dà una risposta curretta. Basta à circà.</p><h2>Offline induve importa</h2><p>I ritratti di partenza è tutti l'ottu pacchetti di foto sò inclusi cù l'app. E copie di foto impurtate funzionanu offline. A scelta di l'uriginali guardati solu in iCloud pò avè bisognu di una cunnessione Internet.</p><h2>Nisun contu, nè servore di sincronia di foto</h2><p>Copie di foto di famiglia restanu in l'app nantu à u dispusitivu. Pudete sguassà e copie senza sguassà l'uriginali. A copia di salvezza di u dispositivu pò include dati di l'app. Leghjite u <a href=\"/app-privacy/\">pulitica di privacy di l'app</a>, è <a href=\"/help/\">aiutu di l'app</a> cammina per ogni passu.</p>",
+      "disclaimer": "Golden Moments hè per recreazione è cunversazione spartuta. Ùn diagnostica, tratta, prevene o misura a demenza o a malatia d'Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Giochi gratuiti di demenza è Alzheimer in linea",
+    "description": "Ghjochi in linea gratuiti per anziani chì vivenu cù a demenza o l'Alzheimer: currispondenza di l'imaghjini, puzzle faciuli, classificazione, detti, culore, bingo.",
+    "crumb": "Ghjochi",
+    "h1": "Ghjochi gentili per e persone cun demenza",
+    "lede": "{count} ghjochi gratuiti per ghjucà inseme in u vostru navigatore. Grandi ritratti, parolle chjaru, è nunda di fallu: senza timer, senza punteggi, senza registrazione.",
+    "listName": "Ghjochi gentili per e persone cù demenza",
+    "byStageTitle": "Sceglie un ghjocu per stage",
+    "byStageLede": "I tappe sò solu una guida grossa. Segui ciò chì a persona piace è ciò chì si senti còmode oghje.",
+    "stageCol": "Scena",
+    "gamesCol": "Ghjochi chì spessu si adattanu",
+    "moreHtml": "Più idee fora di u screnu: <a href=\"/activities/ideas/\">101 attività per e persone cù demenza</a>, <a href=\"/activities/alzheimers/\">attività è ghjochi per l'Alzheimer</a>, <a href=\"/activities/memory-games/\">ghjochi di memoria gentile</a> è <a href=\"/activities/puzzles/\">puzziche</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Cù quale ghjocu duvemu principià ?",
+        "a": "Coppie di foto cù quattru tile hè una prima scelta tranquilla. Sè a scelta trà l'imaghjini si senti troppu, pruvate Truvà u listessu cù dui ritratti. Per un gruppu, pruvate Picture bingo."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "I ghjochi funzionanu nantu à un iPad o un telefunu?",
+        "a": "Iè. Ogni ghjocu funziona in u navigatore nantu à i telefoni, i tablette è l'urdinatori, è l'imaghjini crescenu per riempie u screnu. Una tableta nantu à un stand hè spessu u più còmode per duie persone."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Sò questi ghjochi boni per qualchissia cù Alzheimer?",
+        "a": "Iè. Sò stati fatti per e persone chì vivenu cù a demenza, cumpresa l'Alzheimer, a causa più cumuna. L'imaghjini si mostranu, ci sò solu uni pochi di scelte, è nunda hè cronometratu o puntuatu, cusì i ghjoculi s'appoghjanu à ricunnosce e cose familiari piuttostu chè à ricurdà di novi."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Sò questi ghjochi di memoria per anziani ?",
+        "a": "Sò ghjochi di currispundenza è di stampa chì ogni adultu anzianu pò gode, ma sò custruiti micca per pruvà a memoria: in i coppie di Picture, i ritratti restanu a faccia, salvu chì ùn sceglite altrimenti. A nostra guida à i ghjochi di memoria per l'anziani cù demenza spiega cumu mantene ogni ghjocu di memoria gentile."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Ci sò ghjochi per i gruppi in una casa di cura?",
+        "a": "Iè. U bingo di l'imaghjini hà carte stampate è un chjamante nantu à u screnu, è Finisce u dicenu è e carte di cunversazione funzionanu bè leghje à voce alta à un gruppu."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad è Android",
+    "requirements": "iOS 15 o più tardi; Android 7.0 o più tardi",
+    "summary": "Un'app gratuita per iPhone, iPad è Android cù una accumpagnazione di foto gentile nantu à quattru à dodici piastrelle grandi, currispondenza è visualizazione cù e foto di famiglia chì sceglite, è ottu pacchetti di stampa inclusi chì funzionanu senza internet. Nisun contu, annunzii, timer o puntuazione.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Pittura delicata cumminata cù 4, 6, 8 o 12 tile grandi; I ritratti restanu visibili, salvu chì ùn sceglite di ammuccià",
+      "E foto di famiglia chì selezziunate sò copiate in l'app per currispondenu è per fighjà inseme",
+      "Fighjate inseme: una maghjina à una volta cù richieste di cunversazione opzionali",
+      "Ottu pacchetti di stampa inclusi cù l'app; travaglianu offline",
+      "Nisun contu, annunzii, acquisti in-app, timer, puntuazione o penalità"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Ci hè una app per l'attività di demenza?",
+        "a": "Iè. Momenti d'oru (elencu cum'è \"{storeName}\") hè gratuitu nantu à l'App Store è Google Play. Offre un accoppiamentu di foto gentile cù piastrelle grandi, ghjochi cù foto di famiglia chì sceglite, è pacchetti di foto chì funzionanu offline."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "L'app Golden Moments hè gratuita?",
+        "a": "Iè. Hè liberu di scaricà, senza publicità, contu o acquisti in-app."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "L'app funziona senza internet?",
+        "a": "Iè. I ritratti di partenza è tutti l'ottu pacchetti di foto sò inclusi cù l'app, è e foto di famiglia funzionanu offline una volta chì sò copiati in l'app. A scelta di una foto guardata solu in iCloud pò avè bisognu di una cunnessione."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Puderaghju aduprà a nostra propria foto di famiglia?",
+        "a": "Iè. Sceglite e foto cù u selettore di foto di u vostru dispositivu. L'app guarda copie più chjuche nantu à u dispusitivu per e so attività, ùn li carica è ùn cambia mai l'uriginali. Pudete sguassà e copie in ogni mumentu."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Hè una app di furmazione di u cervellu o di prova di memoria?",
+        "a": "No. Golden Moments hè per piacè è tempu inseme. Ùn hà micca puntuazioni o teste, è ùn diagnostica, tratta, prevene o misura a demenza o a malatia d'Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "In quale dispositi funziona?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Ci hè una versione app di stu ghjocu?",
+      "a": "Iè. L'app gratuitu Golden Moments per iPhone, iPad è Android hà a listessa currispundenza d'imaghjini gentile, pò utilizà e foto di famiglia chì sceglite è funziona offline. Nisun contu, annunzii o puntuazione."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Ci hè una versione app di stu ghjocu?",
+      "a": "Ùn hè micca di stu ghjocu. L'app gratuitu Golden Moments per iPhone, iPad è Android hà una bella foto chì si cunfronta cù grandi piastrelle è foto di famiglia chì sceglite, è funziona offline. Stu ghjocu hè liberu quì in u vostru navigatore."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
+    "imageAlt": "{name}: grandi, ritratti amichevuli",
+    "noscript": "Stu ghjocu hà bisognu di JavaScript attivatu in u vostru navigatore. I cunsiglii sottu u travagliu senza ellu.",
+    "about": "À propositu {name}",
+    "aboutAria": "Circa stu ghjocu",
+    "noTimer": "Nisun timer o puntuazione",
     "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "howTo": "Cumu ghjucà {name}",
+    "tips": "Cunsiglii per ghjucà inseme",
+    "newToPlayingHtml": "Novu à ghjucà cù qualchissia chì hà a demenza? Leghjite <a href=\"/caregiving/how-to-play-together/\">cumu ghjucà ghjochi inseme</a>, cumpresu ciò chì fà si perdenu interessu.",
+    "moreAria": "Più à spiegà",
+    "helpfulGuides": "Guide utili",
+    "appTitle": "Ghjucà in l'app",
+    "appText": "L'app gratuitu Golden Moments hà una sfumatura d'imaghjini cù grandi piastrelle è e vostre foto di famiglia, è funziona senza Wi-Fi. iPhone, iPad è Android.",
+    "photoAppTitle": "Mantene e vostre foto pronte",
+    "photoAppText": "In l'app gratuita Golden Moments, e foto chì sceglite restanu nantu à u vostru dispositivu per a prossima volta, è i ghjochi funzionanu senza Wi-Fi. iPhone, iPad è Android.",
+    "goodToKnow": "Bonu à sapè",
+    "goodToKnowText": "Stu ghjocu hè per piacè è tempu inseme. Ùn prova, misura o tratta nunda.",
+    "moreGames": "Ghjochi più gentili",
+    "crumb": "Ghjochi"
   }
 }

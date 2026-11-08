@@ -4,90 +4,91 @@
     "skipLink": "Leynâ addatino fan kaqita",
     "brandName": "Golden Moments",
     "brandTag": "Dementiyah abnissoosa",
-    "homeLabel": "dahabak yan uddur buxa",
-    "mainNav": "Lenna",
-    "titleSuffix": " | dahabak yan uddur",
-    "defaultImageAlt": "dahab uddur: kaxxa, kataysiini muucitte shaahi kobbaayat, ayro birro kee kuta",
-    "languages": "Af",
-    "englishOnly": "(Ingiliizi)",
+    "homeLabel": "dahab uddur buxa",
+    "mainNav": "Leebombahdiilta",
+    "titleSuffix": " | Golden Moments",
+    "defaultImageAlt": "dahabak yan uddur: kaxxa, kataysiini muucitte shaahi kobbaayat, ayro birro kee kuta",
+    "languages": "Afa yaaba",
+    "englishOnly": "(Engliiz afa)",
     "machineTranslated": "Ta gali sisdikuk maqnimtem kee taham fan baaxoh addah af yaabah yan num mafokkaqinna.",
-    "readOriginal": "Qafar afat asli kawis",
+    "readOriginal": "Asli Engeloh Afat Kawisa",
     "nav": {
       "games": "Digiritte",
-      "activities": "Angagoyyitte",
+      "activities": "Abtooti",
       "caregiving": "hanaawi",
       "brainHealth": "Misinkaca qaafiyat"
     },
-    "faqTitle": "Essero kee gacsitte",
+    "faqTitle": "Esseroora kee gacsitte",
     "breadcrumb": "Gaqammo rike",
     "home": "Buxa",
     "lastUpdated": "Illacaboh asqassaabe",
     "topics": "Ammuntitte",
     "textSize": {
-      "label": "kutbeh caddo",
+      "label": "kutbe giddakiino",
       "smaller": "madab kutbe",
-      "larger": "Kaxxa kutbe"
+      "larger": "Naba kutbe",
+      "contrast": "Kaxxa qeedaalisso"
     }
   },
   "footer": {
-    "play": "Digir",
+    "play": "Digiri",
     "picturePairs": "muuci nammaytakkoh",
-    "conversationCards": "walal karxitte",
+    "conversationCards": "Walal karxitte",
     "pictureBingo": "muuci bingo",
-    "allGames": "Inkih Tan Digiritte",
+    "allGames": "Inkih tan digirwa",
     "pictures": "muucitte matbaqah",
-    "activityIdeas": "Abnisso mablooli",
-    "ideas101": "101 abnissoh mabla",
-    "lateStage": "raage-caddoh taamoomi",
+    "activityIdeas": "abnisso mablooli",
+    "ideas101": "101 abnissoh mablooli",
+    "lateStage": "udurrutte-gudgudih abnissoosa",
     "printable": "matbaqah abnissoosa",
-    "allActivities": "Kulli taamoomi",
+    "allActivities": "Inkih tan taamoomi",
     "forCaregivers": "hanaawi marah",
     "playTogether": "Sittalih mannal digirnaah",
-    "selfCare": "Isi dacrisaanam",
+    "selfCare": "Isi hanaawisaanama",
     "brainHealth": "Misinkaca qaafiyatih kusaq",
-    "faq": "Essero kee gacsitte",
-    "about": "Wagittaama",
+    "faq": "Esseroora kee gacsitte",
+    "about": "Ama caagidih",
     "approach": "Ni xayyos",
-    "howWeWrite": "Nanu mannal fiirisnaah",
+    "howWeWrite": "nanu mannal fiirisnaah",
     "organizations": "massoynaanih",
-    "app": "dahabak tan uddur assabalta",
+    "app": "dahab uddur assabalta",
     "appHelp": "Assabaltâ cato",
-    "support": "Qokol",
-    "legal": "Gaanun",
+    "support": "Qokolu",
+    "legal": "Madqiino leemi",
     "sitePrivacy": "Qarok-qari dambah cankiinu",
-    "appPrivacy": "Assabaltâ cankâ pooliisi",
+    "appPrivacy": "App cankâ pooliisi",
     "privacyChoices": "Cankâ doorititte",
-    "terms": "waktittee kee assabalta ruksat",
-    "safety": "Amaan kee yuscuben xoqoyso",
+    "terms": "waktittee kee assabalta idini",
+    "safety": "Amaan kee yucsuben xoqoyso",
     "accessibility": "Gufne",
     "healthNotice": "Qaafiyat oytih maysaxxaga",
-    "allLegal": "Inkih yan gaanun oyta",
-    "note": "dahab uddur xayyoysam sahlin agleh abnissoosa rufto. tah qaafiyat fayu hinna, aqayyaare hinnay dayla, kee toh fokkaaqo hinna, qeedaalisso hinnay numtin amoh ximmo. Qaafiyat esseroorah, daylaabe lih yab. sissik catoh uddur, silki hayis 911.",
+    "allLegal": "Inkih tan madqâ oytitte",
+    "note": "dahab uddur xayyoysam sahlin agleh abnissoosa rufto. tah qaafiyat fayu hinna, aqayyaare hinnay dayla, kee toh fokkaaqo hinna, qeedaalisso hinnay numtin amoh ximmo. Qaafiyat esseroorah, daylaabe lih yab. Qawwalaylah uddur, 911 kalluwus.",
     "publisher": "yitbiqimem qammurre jeet fidgaagi Pte. Ltd."
   },
   "home": {
-    "title": "Dementiya kee Alzaymer digir kee abnissoosa | dahabak yan uddur",
+    "title": "Dementiya kee Alzaymer digir kee abnissoosa | dahab uddur",
     "description": "currik, sahlin taswiir digir waqinal digirtam kee abnisso mabloolih ummatta manol dementia hinnay Alzheimer's kee ken hanaawih. uli asta, waktitte akkek xalitte.",
-    "eyebrow": "currik · maysaxxagoogi mali · asta mali · wakti mali hinnay xaloot mali",
-    "h1": "Dementia leh yan marah meqe digir kee abnissoosa",
+    "eyebrow": "currik · maysaxxagoogi mali · asta mali · uddur akkek xalitte mali",
+    "h1": "Dementia leh yan marah sahlik tan digir kee abnissoosa",
     "lede": "Sahlin muucih digiritte, buxâ marih muucitte, kee abnissoosa itta luk ruffa hayta—isinni sissikaane.",
     "playGame": "Digir Digra",
-    "findIdeas": "Abnisso mablooli gorrisa",
+    "findIdeas": "Abnisso mablooli gonnis",
     "facts": [
-      "silkiiy, tableet kee kompiiteril taamita",
-      "Kaxxa muucittey taybulleem raqte",
-      "Faxe uddur soolis; rade waytam matan"
+      "silkil taamita, tableet kee kompiiteril",
+      "kaxxa muucitte too taybulleem",
+      "Faxe uddur soolis; raddam matan"
     ],
-    "heroApp": "kalah currik tan app iPhone, iPad kee Android, isi buxah marih foto luk",
+    "heroApp": "kalah currik tan assabalta ayfoon, ipad kee andoroyix, isi buxah marih muucitte luk",
     "albumNote": "\"Namma taswiir shaahi kobbaayat, itta luk.\"",
     "gamesEyebrow": "isi birowseril digir",
-    "gamesTitle": "Digir atu nummaak away digirtam duddah",
+    "gamesTitle": "Atu away digirtam duddah tan digiritte",
     "gamesLede": "kulli num sabhalal leeh, furraynuuy, sissikuk qimbisele. tiya door, tattab tattab daffeyaay, dammih xag.",
-    "seeAllGames": "inkih wagit {count} digiritte",
+    "seeAllGames": "inkih wagit {count} digirwa",
     "howTitle": "Mannal taamitam",
     "steps": [
       {
-        "title": "door tukteenay timixxige",
+        "title": "door tukteena buxa mariino",
         "text": "shaahi kobbaayat, caxaaxuwi arac, buxah saqaa kee doonikwah muucitte. Qimbol baritnuh kawsa akkek madqooqi matan."
       },
       {
@@ -95,14 +96,14 @@
         "text": "oson xagtam xic. muucittel yab. ramad sinna uxxuuk ciggiila xagni qammaala."
       },
       {
-        "title": "Solis meqe cuso koh tammulle wak",
+        "title": "Meqem yot tammule wak soolis",
         "text": "Inki digir dudda le abnisso. “Away tekkeh” umman way screenil tan."
       }
     ],
     "stageEyebrow": "Alaalaqak darrel",
-    "stageTitle": "Kulli gudgudih abnisso mablooli",
+    "stageTitle": "Kulli gudgudih abnissoh mablooli",
     "stageLede": "gad, kulli ayroh abtoota, kassit kee tibba le cusoh uddur, away raacat lem celta.",
-    "ideas101": "101 abnissoh mabla",
+    "ideas101": "101 abnissoh mablooli",
     "stages": [
       {
         "href": "/activities/early-stage/",
@@ -114,24 +115,24 @@
         "href": "/activities/middle-stage/",
         "title": "Fanti caddo",
         "text": "Sahlin, buxa mariinô taamoomi maaqattootil tiddigille: xambaqimiyyaay, uxuxxosiyyaay, gaditteey, muuci digirittee kee ux ibi gexooxa.",
-        "label": "Fanti-caddoh mabla"
+        "label": "Fanti caddoh mablooli"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Sarri gudgud",
+        "title": "Sarra caddo",
         "text": "raacat kee fantaaxaw xagni, xongoloo kee mabul: gaba hanaawi, kicnon gaditte, muucitte kee itta luk gacaanama.",
         "label": "Sarra-caddoh mablooli"
       }
     ],
-    "specificHtml": "Baxsale caagid wagittaanaa? Gibbat <a href=\"/activities/alzheimers/\">Alzaymer biyaakah abnissoosa kee digiritte</a>, <a href=\"/activities/memory-games/\">Sahlik tan kassitih digiritte</a>, <a href=\"/activities/trivia/\">sahlin trivia</a> akkek <a href=\"/activities/puzzles/\">hayyeyyeeno</a>.",
+    "specificHtml": "Baxsale caagid wagittaanaa? Gabbat <a href=\"/activities/alzheimers/\">Alzheymer's abnissoosa kee digirwa</a>, <a href=\"/activities/memory-games/\">Sahlik tan kassit digiritte</a>, <a href=\"/activities/trivia/\">sahlin trivia</a> aw <a href=\"/activities/puzzles/\">hayyeyyeeno</a>.",
     "approachEyebrow": "Ni xayyos",
-    "approachTitle": "ittalluk abit abnisso, mesenkaca aqayyaare hinna",
+    "approachTitle": "ittalluk abit abnisso, kassit aqayyaare hinna",
     "approachLede": "Mango “misinkaca digir” sissikaane, ximmooma kee streaks wagsiisak xissimta. inki numuy dementiya luk yan too aqayyaareh innal cuso le. Nanu saduh tanim xisne.",
     "approachLink": "macaay nanu ta gital kah goolisnam",
     "principles": [
       {
         "icon": "heart",
-        "title": "Tu rade waytam matan",
+        "title": "Tu raddam matan",
         "text": "Saaqat, ximmo, mano akkek gacti mayana. Baxaabaxsale muucitte soolo, hoxa hinna."
       },
       {
@@ -141,32 +142,32 @@
       },
       {
         "icon": "people",
-        "title": "idoola kee kunnabnale",
+        "title": "idoola kee kunnabna",
         "text": "Laqin, qado qangor kee numma-baadah muucitte. Qigdu kartoon akkek alqi yab mayabta."
       },
       {
         "icon": "shield",
-        "title": "Cankah goolissol",
+        "title": "Cankah goolisso",
         "text": "Aleey akkaawontitte akkek maysaxxagoogi matan. Ku muucitte ku yahaazak qigdu macabta."
       }
     ],
     "guidesEyebrow": "hanaawi marah",
-    "guidesTitle": "kulli ayroh hanaawih abinah miracsenta",
-    "allCaregiving": "Inkih hanaawi miracsentitte",
+    "guidesTitle": "kulli ayroh hanaawih abbinos miracsentitte",
+    "allCaregiving": "Inkih tan hanaawih miracsentitte",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "Digir itta luk mannal digran",
+        "title": "Digir ittalih mannal digraanam xiqqimtam",
         "text": "massos, tulsika, kee maca abaanam digir rufto soolisa wak."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "oson abto bale iyyan wak",
+        "title": "oson abnisso bale iyyan wak",
         "text": "Cinnak yangalen sababittee kee sarra qagitak gibbatoonuh sahlin gititte."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "tableet massoosaanama",
+        "title": "kaniina massoosaanama",
         "text": "kaxxa kutbe, dago garuq kee dubuk yan sahlin buxah alaalaqa."
       },
       {
@@ -175,11 +176,11 @@
         "text": "kaxxa matbaqatih qangor goranto, galitte kalam, bingo kee walal gatbaroori."
       }
     ],
-    "researchTitle": "Misinkaca qaafiyat: kusaq nummaak maca iyyaah",
+    "researchTitle": "Misinkaca qaafiyat: kusaq nummaak maca iyyam",
     "researchText": "mesenkaca biyak kalalaanam duuduntaa? Misinkaca digir koo catelee? Soomuuy, maaqooy, xin kee ankacsu wagittam hay? qaduuk, raceenaani gacsitte, sumaq boola edde anuk.",
     "researchLink": "kusaq miracsenta kawisa",
     "appEyebrow": "kaadu assabalta",
-    "appTitle": "dahab uddur ayfoon, aypaax ​​kee andoroyidul",
+    "appTitle": "dahab uddur ayfoonul, aypaax ​​kee Andiroyidul",
     "appText": "currik tan app offline taamitam kee buxah marih fotot doortam duddah, isi aalatal koppi innal daffessa. Inkibisle sabhalal le goolisso: affara kaxxa balaaqitte, wakti lowsiise, ximmo mali.",
     "aboutApp": "assabalta wagittaama",
     "faq": [
@@ -214,102 +215,102 @@
     ]
   },
   "stage": {
-    "early": "udurruteh",
-    "middle": "gude",
+    "early": "xayi uddur",
+    "middle": "fantiita",
     "late": "sarra",
-    "hintOne": "mango uddur sartan {list} gudgud",
+    "hintOne": "mango uddur sartan {list} madraka",
     "hintMany": "mango uddur sartan {list} caddooda",
     "labelEarly": "Naharsi caddo",
     "labelMiddle": "Fanti caddo",
-    "labelLate": "Sarri gudgud"
+    "labelLate": "Sarra caddo"
   },
   "cards": {
     "aboutGame": "Ta digir wagittaama",
     "printable": "matbaqah",
-    "play": "Digir {name} →",
+    "play": "Digiri {name} →",
     "readGuide": "miracsenta kawisa"
   },
   "playCta": {
     "title": "Sahlin digirih gulguluh tanii?",
     "text": "kaxxa muucitte, wakti lowsiise mali, ximmo maliiy, kah yaysaqarrimeenim mali. isi birowseril itta luk digir.",
     "play": "Digir Digra",
-    "all": "inkih tan digir wagita",
-    "aria": "Digir digra"
+    "all": "inkih tan digiritte wagita",
+    "aria": "Digir digir"
   },
   "appCta": {
-    "title": "Ta digir is luk bey",
+    "title": "Tama digir is lih bey",
     "text": "iPhone, iPad kee Androidil geytimta Golden Moments app: kaxxa taswiir tile, isi buxah marih taswiir luk geytimta digir, kee Wi‐Fi sinnim taamitta taswiir pack. uli akkaawonti, maysaxxagoogi, wakti akkek ximmo.",
     "appStore": "App riigih amol gey",
-    "googlePlay": "googil digiril tet gey",
+    "googlePlay": "googil digiril gey",
     "appStoreShort": "App riig",
-    "googlePlayShort": "googil digir",
+    "googlePlayShort": "Googil digir",
     "about": "assabalta wagittaama",
     "aria": "assabalta gey"
   },
   "sections": {
     "activities": {
-      "label": "Angagoyyitte",
-      "title": "Dementia leh tan marah abtoota",
-      "seo": "Dementia leh yan marih abnissoosa: mablooli gudgudul",
+      "label": "Abtooti",
+      "title": "Dementiya leh yan marih abnissoosa",
+      "seo": "Dementiya leh tan maritteh abnissoosa: gudgudul mablooli",
       "description": "Kulli caddol dementia luk yan marih taamah mabla: gad, kassit, kulli ayro taama, qangooruk uddur, taamah afkan, iroh kee free printables.",
       "lede": "Maqnale abnisso yaanam raacat, hadaf akkek fantaaxaw uddur bahtah tan faxeemi. Qimmis macaay num umman way ruffa iyyam, kee asaaku tet barit."
     },
     "caregiving": {
       "label": "hanaawi",
       "title": "hanaawi miracsentitte",
-      "seo": "Dementiyah hanaawih miracsenta: kulli ayroh abbinos cato",
+      "seo": "Dementiyah hanaawih miracsenta: kulli ayroh abinah cato",
       "description": "Dementia dayli marih taamah, meqem kaban: itta luk gexaanam, angaaraw, qanxaffe, ayrook ayro rabboh, tablet, apps doorit kee isih is dacrisaanam.",
       "lede": "qaduuk, abinah cato kulli ayroh uddur inki numih hanaawi dementiya luk yan, isih is hanaawisaanam edde anuk."
     },
     "brain-health": {
       "label": "Misinkaca qaafiyat",
-      "title": "Misinkaca Qaafiyat: Kusaq Maca Iyye",
-      "seo": "Misinkaca Qaafiyat Kee Dementia Qawwalayla: Kusaq Maca Iyye",
+      "title": "Misinkaca qaafiyat: Kusaq macaay iyyam",
+      "seo": "Misinkaca qaafiyat kee Dementiyah Qawwalayla: Kusaq macaay iyyam",
       "description": "mesenkaca biyak kalalaanam duuduntaa? Qadleena, raceenah miracsentitte dementiyah qawwalaylah sababitte, mesenkaca digiritte, soom, maaqo, anfakaakaq, xin, ankacsu.",
-      "lede": "Manni kaxxa kusaaqitte nummaak taybulleem dementiyah qawwalayla salcisaanam, qaduk baxxaqimte, edde anuk sumaq qaku le hinnay gurummaca."
+      "lede": "Manni kaxxa kusaaqitte nummaak taybulleem dementiyah qawwalayla salcisaanam, qaduk baxxaqimte, edde anuk sumaq qaku le hinnay gurummaca. Amolladi oyta, qaafiyat fayu hinna."
     }
   },
   "guide": {
     "updated": "uqusbus",
     "minuteRead": "{n} minit kawsa",
-    "byTeam": "dahabak yan uddurih dokon",
-    "howWeWrite": "Nanu mannal fiirisnaah",
+    "byTeam": "dahab uddurih dokonut",
+    "howWeWrite": "nanu mannal fiirisnaah",
     "shortAnswer": "ux gacsa",
     "onThisPage": "Ta galil ({n} footimaami)",
     "commonQuestions": "ittalluk leh tan esseroora",
     "sources": "Raceenaani",
     "sourcesNote": "nanu massoynaanit nasgoorowem kee kusaaqitte ta gali elle rakittam. Gali yusqussubume wak kulli tii cubbusen.",
-    "tryTogether": "Sitta luk gibbata",
+    "tryTogether": "itta luk gibbata",
     "relatedGuides": "Fantaaxaw le miracsentitte",
-    "related": "Fantaaxaw le",
-    "startHere": "Akkek qimbis"
+    "related": "Ramad leemi",
+    "startHere": "Akkel qimbis"
   },
   "healthNotice": {
     "aria": "Qaafiyat oytih maysaxxaga",
-    "title": "Amolladi xaagu, qaafiyat fayu hinna",
-    "textHtml": "Ta gali buxa marah yewqeh yan kusaq amoomisa. Inki numuh gitat tanim koh warsam maduuda. maaqo, dagar diig, xin, diwaata akkek kibne milaagtaamak naharal daylaabe lih yab. amok radah badit akkek gersi amok radah milaagitte, qaafiyat cato nummaak gey. <a href=\"/medical-disclaimer/\">Ni Qaafiyat Oytih Maysaxxaga Kaawisa</a>."
+    "title": "Amolladi oyta, qaafiyat fayu hinna",
+    "textHtml": "Ta gali buxa marah yewqeh yan kusaq amoomisa. Inki numuh gitat tanim koh warsam maduuda. maaqo, dagar diig, xin, diwaata akkek kibne milaagtaamak naharal daylaabe lih yab. amok radah badit akkek gersi amok radah milaagitte, qaafiyat cato nummaak gey. <a href=\"/medical-disclaimer/\">Ni qaafiyatih oytih maysaxxaga kawisa</a>."
   },
   "pages": {
     "about": {
       "title": "ittalluk abit abnisso, kassit aqayyaare hinna",
-      "seoTitle": "dahabak yan uddur wagittaamal: ni xayyos",
+      "seoTitle": "dahab uddur wagittam: ni xayyos",
       "description": "Macaay Golden Moments digir wakti, ximmooma kee streaks, macah taswiir elle tamixxigem, kee nanu dementia wagittaamal maca abnam kee abnam faxximtam.",
       "crumb": "Ni xayyos",
       "lede": "Dahab uddur sabhalal le, furrayni taswiir abnissoosa too dayli kee inki num dementia luk yan num ittat ruffa iyyam duudah.",
-      "bodyHtml": "<h2>Nanu macaa naamine</h2><p>abnissok ximmo too wakti isih: walal, musuyto, namma taswiir ittat haanam rufto, hinnay sahlinuk xaynal daffeyna. tah num yaqikkiseenim hinna, fooca fan ken gutuqaanam hinnay faxem cedaanam hinna.</p><p>mango mesenkaca aydakaakan abnissoosa sissikaaneh dariifal faatacisen, ximmooma, gititte kee caddoodal. Dementia lih yan numuh aqayyaareh innal tatraanam maduudan. Nanu saduh faatacisneeh, nanu ninni too madqooqit nabbixe:</p><ul><li><strong>Tu raddam matan.</strong> Saaqat mali, ximmo, looweyna, mano, gititte, konfetti hinnay loowo, faxe alaalaqal.</li><li><strong>Kassiisik dagah mamaxxaga.</strong> muucitte sugteemih tammulleeh tan. walal arcibisam kee migaaqitte akkek kassit qigdu maqambaalin.</li><li><strong>Naba, qaduuk kee sabhalal le.</strong> kaxxa kutbe kee muucitte, fayyale qeedaalisso, kee kobor too inki aracal yaadiye.</li><li><strong>Naba marih kunnabna.</strong> numma-baadah muucitte kee qaduuk, laqin qangor. kartoonitte, gad-gad faatit akkek emojih kaadooda matan.</li><li><strong>Sahlin mawqah gita.</strong> \"Away tekkeh\" umman way tanbulle. Gitak garab soolisaanam meqe xalu.</li><li><strong>sugteemih cankah.</strong> Aleey akkaawontitte akkek maysaxxagoogi matan. Atu doorte muucitte ku yahaazal sugta.</li></ul><h2>Nanu essere waynam</h2><p>Ni digir ruftoo kee fantaaxaw kinni. Oson dementia kee Alzheimer’s biyak fokkaaqoh, fokkaaqoh, qilsa, dayli, lowsis kee kalalu, kee woo sababah num ken dooraanam mafaxximta. nanu kusaq wagittam fiirisna waqdi ninni <a href=\"/brain-health/\">mesenkaca qaafiyatih galitte</a>, nanu qaduk innam sumaq boolale, kee nanu ninni digirit qigdu nangoorowem madudna.</p><h2>Nanu miyya kinninom</h2><p>dahab uddur qunxa currik tan butta. Nanu daylaaba hinnino. Ni miracsentitte, Agat caddol, Agat Caddol, Alzheimer’s Association, deqsitta eglaali elle yeyyeeqen miracsentittek, kulli miracsentitte isi raceenaanih addat tan. Kawisa <a href=\"/editorial-policy/\">mannal naktubeeh ni gali cubbusnaah</a>.</p><h2>maca cattam neh warisey</h2><p>Nanu maca koh taamittam kee maca taamite waytam, baxsa luk dementia luk yan maraay, buxah marah dayli mara kee taamah taama abeynit lih walalnam fanna. Galelasta <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "bodyHtml": "<h2>Nanu elle naaminem</h2><p>abnissok ximmo too wakti isih: walal, musuyto, namma taswiir ittat haanam rufto, hinnay sahlinuk xaynal daffeyna. tah num yaqikkiseenim hinna, fooca fan ken gutuqaanam hinnay faxem cedaanam hinna.</p><p>mango mesenkaca aydakaakan abnissoosa sissikaaneh dariifal faatacisen, ximmooma, gititte kee caddoodal. Dementia lih yan numuh aqayyaareh innal tatraanam maduudan. Nanu saduh tanim faatacisneeh, nanu ninni too madqooqit nabbixe:</p><ul><li><strong>Tu raddam matan.</strong> Saaqat mali, ximmo, looweyna, mano, gititte, konfetti hinnay loowo, faxe alaalaqal.</li><li><strong>Kassiisik dagah mamaxxaga.</strong> muucitte sugteemih tammulleeh tan. walal arcibisam kee migaaqitte akkek kassit qigdu maqambaalin.</li><li><strong>Naba, qaduuk kee sabhalal le.</strong> kaxxa kutbe kee muucitte, fayyale qeedaalisso, kee kobor too inki aracal yaadiye.</li><li><strong>Naba marih kunnabna.</strong> numma-baadah muucitte kee qaduuk, laqin qangor. kartoonitte, gad-gad faatit akkek emojih kaadooda matan.</li><li><strong>Sahlin mawqah gita.</strong> \"Away tekkeh\" umman way tanbulle. Gitak garab soolisaanam meqe xalu.</li><li><strong>sugteemih cankah.</strong> Aleey akkaawontitte akkek maysaxxagoogi matan. Atu doorte muucitte ku yahaazal sugta.</li></ul><h2>Nanu essere waynam</h2><p>Ni digir ruftoo kee fantaaxaw kinni. Oson dementia kee Alzheimer’s biyak fokkaaqoh, fokkaaqoh, qilsa, dayli, lowsis kee kalalu, kee woo sababah num ken dooraanam mafaxximta. nanu ninni kusaq wagittam naktube wak <a href=\"/brain-health/\">mesenkaca qaafiyatih galitte</a>, nanu qaduk innam sumaq boolale, kee nanu ninni digirit qigdu nangoorowem madudna.</p><h2>Nanu miyya kinninom</h2><p>dahab uddur qunxa currik tan butta. Nanu daylaaba hinnino. Ni miracsentitte, Agat caddol, Agat Caddol, Alzheimer’s Association, deqsitta eglaali elle yeyyeeqen miracsentittek, kulli miracsentitte isi raceenaanih addat tan. Kawis <a href=\"/editorial-policy/\">Mannal fiirisnam kee ninni galitte mannal cubbusnam</a>.</p><h2>maca cattam neh warisey</h2><p>Nanu maca koh taamittam kee maca taamite waytam, baxsa luk dementia luk yan maraay, buxah marah dayli mara kee taamah taama abeynit lih walalnam fanna. Galelasta <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "Ninni Gali Mannal Naktubeeh, Cubbusnaah",
-      "seoTitle": "maysaraaracah pooliisi",
+      "title": "Nanu ninni galitte mannal naktubeeh, cubbusnaah",
+      "seoTitle": "maysaraaraca pooliisi",
       "description": "Golden Moments mannal kusaaqissaah, kutbe abtaah, raceenaani kee qusba gurral dementia taama kee misinkica qaafiyatih galitte, kee nanu inkih elle yayyaaqen innal.",
-      "crumb": "maysaraaracah pooliisi",
-      "bodyHtml": "<h2>Ni raceenaani</h2><p>Nanu ninni miracsentitte elle rakittam ummattah miracsenta massoynaanih axcih Agat inistitute, CDC, Alzheimer's egla, Alzheimer's fawunxeeshin Ameerikak, Buxâ marih hanaawih egla kee NHS, kee butta-fokkaaqoh kusaaqitte axcih Cochrane kusaaqitte kee kaxxa qaafiyat gibbatu. Kulli miracsenta elle rakittam raceenaani roorissa. Nanu umman raceena fakna tet xayyoosak naharal, kee nanu dubuk gabbaaqu abnam is nummaak iyyam.</p><h2>Nanu mannal fiirisnaah</h2><ul><li>Qimmol abinah: asaaku maca abaanam faxxintaah, qado afat.</li><li>Summaq wagittaamal amaan le: nanu “linked with”, “may” kee “sumaq lih angaaraw le” innam toh numma kinni wak.</li><li>Massakaxxa le: nanu fiirisenno ummatta wagittam dementia lih furraynu, kee nanu qigdu mantifiqqa esseroora hinnay qaybi af.</li><li>uli hadliyyi addatino mali: uli bicsen loowo, maxcooca, mihrat leela, kusaaqitte, sekkacsi hinnay sumaq.</li></ul><h2>Ni galitte agaaraddam miyyaay</h2><p>Galitte kutbe kee cubbusso Golden Moments butta, AI kutbeh silaacitteh catotta luk kusaq kee qagunta. Kulli gali butta raceenaanih gabat cubbusan. Ni galitte lino <strong>hinna</strong> kusaaqime daylaabe akkek gersi daylaabe, kee nanu gersinnal yoh taguudeh essero mannu. Oson amo ladi oyta, qaafiyat fayu hinna.</p><h2>Qigdu maca yatbiqenno</h2><ul><li>Digir, maaqo, ossotina, sissikaane akkek maytani kalalu, dayla, salac akkek dayla dementiya.</li><li>aqayyaare, esseroora hinnay ximmoomay inki num lem, hinnay alle waam, dementia.</li><li>faxe diwaata qimbisoonuh, soolisoonuh akkek milaagoonuh fayi.</li><li>Maysaxxaga aw qokleh yan addatino miracsenta innal qellisen.</li></ul><h2>Asqassaabe kee massos</h2><p>Kulli gali ellecaboh uddur edde yusqussube ayro yaybulle. atu hoxa geytek hinnay uddur akak tatre raceena, kumagan galelastah rub <a href=\"mailto:{email}\">{email}</a> kee nanu sissikuk gorgorenno.</p>"
+      "crumb": "maysaraaraca pooliisi",
+      "bodyHtml": "<h2>Ni raceenaani</h2><p>Nanu ninni miracsentitte elle rakittam ummattah miracsenta massoynaanih axcih Agat inistitute, CDC, Alzheimer's egla, Alzheimer's fawunxeeshin Ameerikak, Buxâ marih hanaawih egla kee NHS, kee butta-fokkaaqoh kusaaqitte axcih Cochrane kusaaqitte kee kaxxa qaafiyat gibbatu. Kulli miracsenta elle rakittam raceenaani roorissa. Nanu umman raceena fakna tet xayyoosak naharal, kee nanu dubuk gabbaaqu abnam is nummaak iyyam.</p><h2>nanu mannal fiirisnaah</h2><ul><li>Qimmol abinah: asaaku maca abaanam faxxintaah, qado afat.</li><li>Summaq wagittaamal amaan le: nanu “linked with”, “may” kee “sumaq lih angaaraw le” innam toh numma kinni wak.</li><li>Massakaxxa le: nanu fiirisenno ummatta wagittam dementia lih furraynu, kee nanu qigdu mantifiqqa esseroora hinnay qaybi af.</li><li>uli hadliyyi addatino mali: uli bicsen loowo, maxcooca, mihrat leela, kusaaqitte, sekkacsi hinnay sumaq.</li></ul><h2>Ni galitte kusaaqissam miyyaay</h2><p>Galitte kutbe kee cubbusso Golden Moments butta, AI kutbeh silaacitteh catotta luk kusaq kee qagunta. Kulli gali butta raceenaanih gabat cubbusan. Ni galitte le <strong>hinna</strong> kusaaqime daylaabe akkek gersi daylaabe, kee nanu gersinnal yoh taguudeh essero mannu. Oson amo ladi oyta, qaafiyat fayu hinna.</p><h2>Nanu qigdu atbiqe waynam</h2><ul><li>Digir, maaqo, ossotina, sissikaane akkek maytani kalalu, dayla, salac akkek dayla dementiya.</li><li>aqayyaare, esseroora hinnay ximmoomay inki num lem, hinnay alle waam, dementia.</li><li>faxe diwaata qimbisoonuh, soolisoonuh akkek milaagoonuh fayi.</li><li>Maysaxxaga aw qokleh yan addatino miracsenta innal qellisen.</li></ul><h2>Asqassaabe kee massos</h2><p>Kulli gali ellecaboh uddur edde yusqussube ayro yaybulle. atu hoxa geytek hinnay uddur akak tatre raceena, kumagan galelastah rub <a href=\"mailto:{email}\">{email}</a> kee nanu sissikuk gorgorenno.</p>"
     },
     "faq": {
-      "title": "Essero kee Gacsi",
+      "title": "Esseroora kee Gacsitte",
       "seoTitle": "Dementiyah digir kee abnissoosa: esseroora kee gacsitte",
       "description": "Dementia digir kee taama wagittaamal mango esseroorah gacsa: manni digir gabbattam, magide fanah digirtam, lakal-caddoh mabla, misinkica qaafiyat kee canka.",
-      "crumb": "Essero kee gacsitte",
+      "crumb": "Esseroora kee gacsitte",
       "lede": "uxxuk, qado gacsitte esseroorah hanaawise mangom essera.",
       "groups": [
         {
@@ -340,7 +341,7 @@
         },
         {
           "id": "activities",
-          "title": "Angagoyya kee hanaawi",
+          "title": "Angagoyyitte kee hanaawi",
           "items": [
             {
               "q": "Inki abnisso magideh uddur sugtam faxxintaah?",
@@ -380,7 +381,7 @@
         },
         {
           "id": "privacy",
-          "title": "Cankiino kee nagaytaniina",
+          "title": "Cankiinuu kee nagaytaniina",
           "items": [
             {
               "q": "Atu faxe oyta gaabossee?",
@@ -393,44 +394,44 @@
           ]
         }
       ],
-      "moreHtml": "Ossotinah addatino: <a href=\"/caregiving/how-to-play-together/\">Sittalih elle digiran inna</a>, <a href=\"/caregiving/when-they-say-no/\">bale iyyan wak</a>, <a href=\"/activities/late-stage/\">sarra-caddoh taamoomi</a> kee <a href=\"/brain-health/can-dementia-be-prevented/\">mesenkaca waasaanam duuduntaa?</a>"
+      "moreHtml": "Ossotinah addatino: <a href=\"/caregiving/how-to-play-together/\">Sittalih mannal digirnaah.</a>, <a href=\"/caregiving/when-they-say-no/\">bale iyyan wak.</a>, <a href=\"/activities/late-stage/\">sarra-caddoh abnissoosa</a> kee <a href=\"/brain-health/can-dementia-be-prevented/\">mesenkaca waasaanam duuduntaa?</a>"
     },
     "handout": {
-      "title": "currik, sahlik yan digir ummattah manol dementiya",
+      "title": "currik tan, sahlik tan digiritte Dementiya luk tanih tan marah",
       "seoTitle": "matbaqah gabah agle: currik tan dementiyah digir waqinal",
       "description": "Inki galih addat buxah mara kee dayli marah currik tan taswiir digir wagittaamal, dementia luk yan marah, qokol buttaati kee dayli packetitte.",
-      "crumb": "matbaqah gabah agle",
+      "crumb": "matbaqah warkat",
       "lede": "ta gali buttah qokol, hanaawih bakkooka akkek firiijih albaabih itbiqa. isi birowserit matbaqah amrit doqaysim; gaayimat kee gubitte matbaqatak raqte.",
       "introHtml": "<p>kaxxa muucitte, qado qangor kee tu edde raddam matan. currik silki, tablet hinnay kompiiter, asta sinnim, maysaxxaga sinnim, wakti sinnim kee xaloot sinnim. tattab tattab daffeyaay midu beya.</p>",
       "gamesTitle": "Digiritte itta luk gibbatoonuh",
-      "restHtml": "<h2>Dago fayitte</h2><ul><li>num tayse uddur ayroh addat doorita.</li><li>Sahlin farmo qimbis. Affara balaaqitte mangoh.</li><li>muucittel yab. walal mango uddur tayse exxa.</li><li>Solis uxih rufto lem celta way. udurruteh gaba kalti meqe xalu.</li></ul><h2>kaadu fanteenal</h2><ul><li>currik tan matbaqatitte: kaxxa matbaqatih qangor goranah, galitteh bisitte, walal gatbaroori kee muuci bingo.</li><li>kulli gudgudih abnisso mabloolii kee miracsentitte itta luk digraanam kee isi nabsi dacrisaanama.</li></ul><p class=\"muted\">Rufto kee wakti ittalih. qaafiyat fayu hinna, aqayyaare akkek dayla. dahab uddur yitbiqimem qammurre jeet fidgaagi Pte. Ltd.</p>"
+      "restHtml": "<h2>Dago fayitte</h2><ul><li>num tayse uddur ayroh addat doorita.</li><li>Sahlin farmo qimbis. Affara balaaqitte mangoh.</li><li>muucittel yab. walal mango uddur tayse exxa.</li><li>Solis uxih rufto lem celta way. udurruteh gaba kalti meqe xalu.</li></ul><h2>kaadu aracal</h2><ul><li>currik tan matbaqatitte: kaxxa matbaqatih qangor goranah, galitteh bisitte, walal gatbaroori kee muuci bingo.</li><li>kulli gudgudih abnisso mabloolii kee miracsentitte itta luk digraanam kee isi nabsi dacrisaanama.</li></ul><p class=\"muted\">Rufto kee wakti ittalih. qaafiyat fayu hinna, aqayyaare akkek dayla. dahab uddur yitbiqimem qammurre jeet fidgaagi Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "Buxaaxi hanaawih, Kitooba buxaaxi kee Qokol Buttaati",
-      "seoTitle": "currik tan dementiyah abnissoosa hanaawih buxaaxi kee buttaati",
+      "title": "Buxaaxih hanaawih, Kitooba buxaaxi kee qokol buttaati",
+      "seoTitle": "currik tan dementiyah abnissoosa buxaaxi hanaawi kee buttaati",
       "description": "Mannal dayli buxaaxi, qunxaaneyti ayroh porograam, laybireeri, qunxaaneyti edde anuk kee qokol buttaati nek currik tan dementia digiritte, ossotinah kutbe gaddalih.",
       "crumb": "massoynaanih",
-      "lede": "ta fanteenal tan kullim currik tan ummattah, adoytit kee maqmilwa luk, akkaawonti, idini kee mekla sinnim.",
+      "lede": "ta fanteenal tan kullim currik tan ummattah, adoytit kee maqmilwa luk, akkaawonti, idini kee mekla sinnim. Ta gali akkel tanim maca kinnim kee mannal tabaatabsaanam xiqqimtam baxxaqissa.",
       "shortText": "{name}: currik, sahlin taswiir digir kee abnisso miracsenta sahda lih mannowta dementia kee ken hanaawih. Maysarraqa mali, waqla mali, xaloot mali.",
       "longText": "{name} ({domain}) xayyos {count} free browser games dementia luk yan marah bicsen, edde anuk matching pairs lih taswiir raqteh tanim, sahlin jigsaw, qaynat, buxah addah qangor kee taswiir bingo lih matbaqah karditte. uli akkaawonti, maysaxxaga, wakti akkek ximmo matan. Tama aracal kaadu, kulli caddoh dementia wagsiisak, Agat caddol, Agat caddol, Alzheimer's Association kee Alzheimer's Association, wagsiisak, sissin afitteh taamah afkan le.",
-      "useTitle": "Ma massoynaanit tantifiqem duddam",
-      "gamesItemHtml": "<strong>{count} birowser digiritte</strong> too laptoppi, tableet akkek TV kompiiterit axawah tan. kibne mali, akkaawonti akkek oobisiyyi. Wagit <a href=\"/games/\">inkih tan digiritte</a>.",
+      "useTitle": "Manni massoynaanit xoqoysimtam duddam",
+      "gamesItemHtml": "<strong>{count} Birowser digiritte</strong> too laptoppi, tableet akkek TV kompiiterit axawah tan. kibne mali, akkaawonti akkek oobisiyyi. Mabla <a href=\"/games/\">inkih tan digirwa</a>.",
       "printablesLabel": "{count} yatbiqeenim duudumtam:",
       "printablesAfter": "Kulli galil tan matbaqah gubat xoqoysima.",
-      "moreItemsHtml": "<li><strong>Buttâ cibtitte:</strong> <a href=\"/games/picture-bingo/\">muuci bingo</a> matbaqah gatbaroori kee alaalaqal yaabe, kee <a href=\"/activities/trivia/\">sahlin trivia</a> essero gacsi doorit kee yabti ximmooma le.</li><li><strong>abnisso miracsentitte</strong> taama abeynit kee buxah marah, gudgud kee qaynatal, raceenaani lih qado afat yunkuttube. Qimmis lih <a href=\"/activities/ideas/\">101 abnissoh mabla</a> akkek <a href=\"/activities/care-home-groups/\">buttaati taamoomi hanaawih buxaaxil</a>.</li>",
-      "restHtml": "<h2>Buttaati mannal edde xoqoysimtam</h2><ul><li><strong>Buxaaxi hanaawi kee kassit hanaawi:</strong> taswiir bingo hinnay gaba kalti-yab mango footima TV, inki num butta xagak.</li><li><strong>Naba marih ayroh taddiiraari:</strong> tableet guddaqta taswiir nammay takkoh affara balaaqitte, uxxuk tiyaak tiyah waktitteh.</li><li><strong>Ayyunti kitoobah buxaaxi:</strong> matbaqatak qangor kusaaqittee kee walal gatbaroori mesenkaca duyyeeya, kee kitab buxah asta kitoobah buxah tableetil.</li><li><strong>hanaawi qokol buttaati kee mesenkaca kafe:</strong> a <a href=\"/handout/\">inki-gali yatbiqime warkat</a> Buxâ maritte buxah beyoonuh.</li><li><strong>Hospitaalitte kee mawqah ekraaro:</strong> gabah agle hanaawih bakkooka, tukteenay sabhalal le buxal hinnay qarkayto xaqul.</li></ul><h2>Nanu abe waynam</h2><p>digir ruftoo kee wakti sittalih. oson mafokkaaqan, mafokkaaqan, ximmo, dayla hinnay qilsi dementia, kee nanu essernam massoynaani too gital ken mabaxxaqisan. Maysaxxagoogi matan, kee digir migaaqitte, qaafiyat alhumitte hinnay muucitte takrimtam masserta. Qarok qari gufneh loowo googil makeelissol xoqoysima; ni <a href=\"/privacy/\">cankâ maysaxxaga</a> woh gaaboysem maca kinnim baxxaqisa. muucittel doqaysime <a href=\"/games/photo-pairs/\">muuci nammaytakkoh</a> Birowserih addat idiy.</p><h2>Isi gaddi rortat nee osis</h2><p>atu gaddi rorta dacrissek hanaawise, atu unkaq muquk temeetem <a href=\"/\">{domain}</a>. Atu namma baxxaqsa korsaanam duuddah.</p>",
+      "moreItemsHtml": "<li><strong>Buttâ cibtitte:</strong> <a href=\"/games/picture-bingo/\">muuci bingo</a> matbaqah gatbaroori kee alaalaqal yaabe, kee <a href=\"/activities/trivia/\">sahlin trivia</a> essero gacsi doorit kee yabti ximmooma le.</li><li><strong>abnisso miracsentitte</strong> taama abeynit kee buxah marah, gudgud kee qaynatal, raceenaani lih qado afat yunkuttube. lih qimbis <a href=\"/activities/ideas/\">101 abnissoh mablooli</a> aw <a href=\"/activities/care-home-groups/\">buttah abnissoosa hanaawih buxaaxil</a>.</li>",
+      "restHtml": "<h2>Buttaati mannal edde xoqoysimtam</h2><ul><li><strong>Buxaaxi hanaawi kee kassit hanaawi:</strong> taswiir bingo hinnay gaba kalti-yab mango footima TV, inki num butta xagak.</li><li><strong>Naba marih ayroh taddiiraari:</strong> tableet guddaqta taswiir nammay takkoh affara balaaqitte, uxxuk tiyaak tiyah waktitteh.</li><li><strong>Ayyunti kitoobah buxaaxi:</strong> matbaqatak qangor kusaaqittee kee walal gatbaroori mesenkaca duyyeeya, kee kitab buxah asta kitoobah buxah tableetil.</li><li><strong>hanaawise buttaati qokol kee mesenkaca kaafitte:</strong> a <a href=\"/handout/\">inki-gali yatbiqime warkat</a> Buxâ maritte buxah beyoonuh.</li><li><strong>Hospitaalittee kee mawqah ekraaroora:</strong> gabah agle hanaawih bakkooka, tukteenay sabhalal le buxal hinnay qarkayto xaqul.</li></ul><h2>Nanu abe waynam macaay</h2><p>digir ruftoo kee wakti sittalih. oson mafokkaaqan, mafokkaaqan, ximmo, dayla hinnay qilsi dementia, kee nanu essernam massoynaani too gital ken mabaxxaqisan. Maysaxxagoogi matan, kee digir migaaqitte, qaafiyat alhumitte hinnay muucitte takrimtam masserta. Qarok qari gufneh loowo googil makeelissol xoqoysima; niimi <a href=\"/privacy/\">cankâ maysaxxaga</a> woh gaaboysem maca kinnim baxxaqisa. addat xoqoysil asseh tan muucitte <a href=\"/games/photo-pairs/\">muuci nammaytakkoh</a> Birowserih addat idiy.</p><h2>Isi gaddi rortat nee osis</h2><p>atu gaddi rorta dacrissek hanaawiseenit, atu unkaq muquk temeetem yasgaarawi <a href=\"/\">{domain}</a>. Atu namma baxxaqsa korsaanam duuddah.</p>",
       "shortTitle": "Ux baxxaqsa",
       "longTitle": "Xer baxxaqsa",
-      "linksHtml": "<p>saanih yasgaarawih tuxxiq le galitte: <a href=\"/games/\">currik tan digiritte</a>, <a href=\"/activities/printable/\">currik tan matbaqatitte</a>, <a href=\"/activities/alzheimers/\">Alzaymer biyaakah taamoomi</a> kee <a href=\"/caregiving/how-to-play-together/\">Sittalih elle digiran inna</a>.</p><h2>Esseroora akkek massos</h2><p>Sittin geyul tan caagiidat hoxat tanim kee qaddoowe waytek, hinnay kaadu inki numih fayxi takkel tan caagiidat culte waytek, ku maganak neh waris <a href=\"mailto:{email}\">{email}</a>. kumagan maruubin cankah hinnay qaafiyat xaagi sigeenit hinnay maqmilwa wagittaamal.</p>"
+      "linksHtml": "<p>Saanih yasgaarawih xoqoysi le galitte: <a href=\"/games/\">currik tan digirwa</a>, <a href=\"/activities/printable/\">currik tan matbaqatitte</a>, <a href=\"/activities/alzheimers/\">Alzaymer biyaakah abnissoosa</a> kee <a href=\"/caregiving/how-to-play-together/\">Sittalih mannal digirnaah.</a>.</p><h2>Esseroora akkek massos</h2><p>tukteenay aracal hoxat tan hinnay qaddoowe waytek, hinnay sigeenit fayxi takkel tanim kibbiime waytek, kumagan neh waris <a href=\"mailto:{email}\">{email}</a>. kumagan maruubin cankah hinnay qaafiyat xaagi sigeenit hinnay maqmilwa wagittaamal.</p>"
     },
     "app": {
-      "title": "dahabak yan uddur assabalta",
+      "title": "dahab uddur assabalta",
       "seoTitle": "dahab uddur assabalta ayfoon kee andoroyix",
       "description": "Free Golden Moments app: affara kaxxa tile luk angaaraw le foto, buxah marih foto isi aalatal daffeyte, offline foto pack kee account sinni.",
       "crumb": "assabalta",
       "lede": "Kulliimiy atu faxxah tan website, appil offline taamitak buxah marih fotot doortam duddah.",
       "worksOn": "amol taamita {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Qunxuk qimbis</h2><p>affara kaxxa balaaqittee kee buxâ marih muucittek qemmis. muucitte tanbulleem dacris, akkek raacat koh tammulle wak ken qellis. Qaxmeqe caalat wakti lowsiisaay, ximmo akkek digaala mali. 4,6,8 akkek 12 balaaqitte doorita.</p><h2>cankah tet ab</h2><p>Buxâ marih taswiir door isi aalatal taswiir ugse. assabalta qunxa koppitte daagissah tet abnissoosah. toh ku laybireeri ma ixxo hinnay kok asli muucitte ma milaagta, kee toh dacrissa 24 muucitte inki koboxul.</p><h2>bas itta luk wagita</h2><p>inki taswiir inki uddur wagita. Doorit esseroora walal arcibissa faxe num migaq kassituh hinnay gitah yan gacsa yaceenim essere kal. sahlinuk wagitaanam xiqtah.</p><h2>suuquntaak iroh ankel taqabi lem</h2><p>Qimmisiyyi muucitte kee inkih tan bacra muucih ayyuftitte assabaltat ossimteh. culte muucih korraq gitak iroh taamita. dubuk iCloud addat kobxisen asli dooraanam rettah angaaraw faxxiimam bictah.</p><h2>akkaawonti mali, muuci-celsis ayfaf mali</h2><p>Buxâ marih muucih korraq yahaazal tan assabaltal sugta. Atu asli bayse kal korraq duugtam duuddah. yahaaz kobxisiyyih abnissoh oyta edde anuk takkem bictah. Kawisa <a href=\"/app-privacy/\">assabalta cankâ pooliisi</a>, kee <a href=\"/help/\">assabalta cato</a> kulli maaqattal gexa.</p>",
+      "bodyHtml": "<h2>Qunxuk qimbis</h2><p>affara kaxxa balaaqittee kee buxâ marih muucittek qemmis. muucitte tanbulleem dacris, akkek raacat koh tammulle wak ken qellis. Qaxmeqe caalat wakti lowsiisaay, ximmo akkek digaala mali. 4,6,8 akkek 12 balaaqitte doorita.</p><h2>Cankah ab</h2><p>Buxâ marih taswiir door isi aalatal taswiir ugse. assabalta qunxa koppitte daagissah tet abnissoosah. toh ku laybireeri ma ixxo hinnay kok asli muucitte ma milaagta, kee toh dacrissa 24 muucitte inki koboxul.</p><h2>bas itta luk wagita</h2><p>inki taswiir inki uddur wagita. Doorit esseroora walal arcibissa faxe num migaq kassituh hinnay gitah yan gacsa yaceenim essere kal. sahlinuk wagitaanam xiqtah.</p><h2>suuquntak iroh ankel taqabi lem</h2><p>Qimmisiyyi muucitte kee inkih tan bacra muucih ayyuftitte assabaltat ossimteh. culte muucih korraq gitak iroh taamita. dubuk iCloud addat kobxisen asli dooraanam rettah angaaraw faxxiimam bictah.</p><h2>akkaawonti mali, muuci-celsis ayfaf mali</h2><p>Buxâ marih muucih korraq yahaazal tan assabaltal sugta. Atu asli bayse kal korraq duugtam duuddah. yahaaz kobxisiyyih abnissoh oyta edde anuk takkem bictah. Kawisa <a href=\"/app-privacy/\">assabalta cankâ pooliisi</a>, kee <a href=\"/help/\">assabalta cato</a> kulli maaqattal gexa.</p>",
       "disclaimer": "dahabak yan uddur wacaysir kee walal tabaatabsa. Dementia hinnay Alzheimer’s biyak mafokkaaqa, daylima, kalalu hinnay maqikkina.",
       "appLanguageNote": ""
     }
@@ -439,14 +440,14 @@
     "title": "currik tan dementiya kee Alzaymer digir suuquntal",
     "description": "Dementia hinnay Alzheimer's lih yan marah currik tan onlaayin digir: taswiir celtam, sahlin jigsaws, qaynat, maxcooca, bingo, bingo. uli asta, waktitte akkek xalitte.",
     "crumb": "Digiritte",
-    "h1": "Dementia leh yan marah meqe digiritte",
+    "h1": "Dementiya leh yan marah sahlik yan digir",
     "lede": "{count} isi birowseril sitta lih digirtuh currik tan digiritte. kaxxa muucitte, qado qangor, kee tuhinna radim: wakti mali, xaloot mali, asta mali.",
     "listName": "Dementiya leh yan marah sahlik yan digir",
-    "byStageTitle": "digir gudgudul dooraanama",
+    "byStageTitle": "Digir gudgudul dooraanama",
     "byStageLede": "Gudguditte dubuk cenkarle miracsenta. num ruffa iyyam kee asaaku kah raacat lem kattaata.",
-    "stageCol": "gudgud",
-    "gamesCol": "Digirittey mango uddur bicta",
-    "moreHtml": "mango mablooli alaalaqak iroh: <a href=\"/activities/ideas/\">101 abnissoosa dementiya le marah</a>, <a href=\"/activities/alzheimers/\">Alzaymer biyaakah abnissoosa kee digiritte</a>, <a href=\"/activities/memory-games/\">Sahlik tan kassitih digiritte</a> kee <a href=\"/activities/puzzles/\">hayyeyyeeno</a>.",
+    "stageCol": "Madraka",
+    "gamesCol": "Digir woo mango uddur bicta",
+    "moreHtml": "mango mablooli alaalaqak iroh: <a href=\"/activities/ideas/\">101 abnissoosa ummattah dementiya</a>, <a href=\"/activities/alzheimers/\">Alzheymer's abnissoosa kee digirwa</a>, <a href=\"/activities/memory-games/\">Sahlik tan kassit digiritte</a> kee <a href=\"/activities/puzzles/\">hayyeyyeeno</a>.",
     "faq": [
       {
         "q": "Manni digiiriiy nanu qimbisnam tayseeh?",
@@ -471,20 +472,20 @@
     ]
   },
   "appFacts": {
-    "platforms": "Ayfoonuuy, ipad kee Andirox",
-    "requirements": "iOS 15 akkek sarra; Andirox 7.0 akkek tohuuk widiril",
+    "platforms": "Ayfoon, ipad kee Andirooyid",
+    "requirements": "iOS 15 akkek sarra; Andiroyid 7.0 akkek tohuuk widiril",
     "summary": "iPhone, iPad kee Android fanah gexak, affara ilaa taban kee namma kaxxa tiilil gentle taswiir matching abak, buxah marih fotoh matching kee wagitto, kee 8 takke taswiir pack edde anuk internet sinnim taamitak geytima. uli akkaawonti, maysaxxagoogi, wakti akkek ximmo.",
     "features": [
-      "4,6,8 akkek 12 takke kaxxa fidittet ramaddossah tan muucitte; muucitte tanbulleem sugta atu ken qellissam doorte waytek",
-      "Buxâ marih muucitte doorteh tan appil copy abtaah, ittat celtaah, itta luk table",
+      "4,6,8 akkek 12 takke kaxxa fidittet ramaddossah tan muucitte; muucitte tanbulleem sugta atu ken qellissam doore waytek",
+      "atu doorteh tan buxâ marih muucitte ramaddos kee itta luk yabloonuh assabaltal korsen",
       "itta luk wagita: inki taswiir waktit doorit walal esseroora luk",
-      "Bacra muucih ayyuftitte assabaltat tan; oson firtak iroh taamitan",
-      "uli akkaawonti, maysaxxagoogi, abnissoh addat tan limo, wakti, ximmo hinnay digaala"
+      "Bacra muucih ayyuftitte assabaltat tan; oson suuquntak iroh taamitan",
+      "uli akkaawonti, maysaxxagoogi, abnissoh addat tan limo, wakti, ximmo akkek digaala"
     ],
     "faq": [
       {
         "q": "Dementiyah abnissoh assabalta tanii?",
-        "a": "Yeey. Dahab uddur ( \"{storeName}\" axcuk roorimte) App Store kee Google Play addal currik tan. Kaxxa tile lih meqe taswiir celta, buxah marih taswiir doorteh tan digir, kee offline taamitta taswiir pack."
+        "a": "Yeey. dahab uddur ( roorimteh \"{storeName}\") App Store kee Google Playil currik yan. Kaxxa tiles luk meqe taswiir celsiisak, buxah marih taswiir doortam kee offline taamitta taswiir packitte xayyoysa."
       },
       {
         "q": "dahab uddur assabalta currik tanii?",
@@ -519,18 +520,18 @@
   "gamePage": {
     "imageAlt": "{name}: kaxxa, kataysiini muucitte",
     "noscript": "Tama digir Java iskiripti ku birowseril fakkiimam faxa. Gubal tan fayitte toh sinnim taamitta.",
-    "about": "Wagittaama {name}",
+    "about": "Ama caagidih {name}",
     "aboutAria": "Ta digir wagittaama",
     "noTimer": "wakti lowsiise akkek ximmo mali",
     "printable": "matbaqah",
     "howTo": "Mannal digrisan {name}",
     "tips": "itta luk digiroonuh fayitte",
-    "newToPlayingHtml": "Dementiya le num lih digiraanam qusba? Kawisa <a href=\"/caregiving/how-to-play-together/\">Digir itta luk mannal digraanah</a>, oson fayxi weenik maca abaanam edde anuk.",
-    "moreAria": "mangom kusaaqisnuh",
+    "newToPlayingHtml": "Dementiya le num lih digiraanam qusba? Kawis <a href=\"/caregiving/how-to-play-together/\">Digir ittalih mannal digirnaah</a>, oson fayxi weenik maca abaanam edde anuk.",
+    "moreAria": "Ossotinah goranto",
     "helpfulGuides": "Catole miracsentitte",
     "appTitle": "assabaltal digir",
     "appText": "Free Golden Moments app kaxxa tile kee isi buxah marih fotot axawah tan taswiir leeh, Wi‐Fi sinnim taamita. ayfoon, ipad kee andoroyix.",
-    "photoAppTitle": "Isi muucitte gulguluh daffes",
+    "photoAppTitle": "Isi muucitte gulguluh hayis",
     "photoAppText": "Golden Moments appil, doorteh tan fotottek gersi waktih addat isi aalatal sugtaah, digir Wi‐Fi sinnim taamita. ayfoon, ipad kee andoroyix.",
     "goodToKnow": "Yaaxigeenim meqeh",
     "goodToKnowText": "Ta digir ruftoo kee sittalih wakti. Is walim mafokkaqta, maqakkanaay, madaylissa.",

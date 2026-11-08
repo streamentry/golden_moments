@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Суьртийн параш .",
+    "seoTitle": "Деменцина лерина нийсаяздаран ловзар: Суьртийн параш",
+    "h1": "Суьртийн параш: кӀеда нийсаяздаран ловзар",
+    "description": "Деменцица бехачу нахана маьрша, кӀеда нийсаяздаран ловзар. Даккхий суьрташ гуш дуьсу, таймер а, баллаш а яц, 4-12 плитка хоржу ахь.",
+    "short": "Цхьатерра долу ши сурт схьалаха. Суьрташ гойтуш диса мегар ду.",
+    "players": "1 я 2 стаг, юьстах-юьстах",
+    "intro": "Цхьана суьрта тӀе хьажа, тӀаккха цуьнца догӀуш долчунна тӀе хьажа. Суьрташ гойтуш дуьсу по умолчанию, цундела хӀумма а дагахь латто ца оьшу. Ши сурт цхьаьна дӀадоьдуш царна дешин марзо а, галстук а хуьлу.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Маса плитка лело еза къастаде. Диъ плитка - тийна меттиг ю дӀадоло.",
+      "Муьлххачу а суьрта тӀе хьажа. Цунна дешин марзо ло.",
+      "Цхьатерра долчу суьрта тӀе хьажа. Пара цхьаьна лаьтта, хьаьрк а тоьхна.",
+      "Ши сурт тайп-тайпана делахь, вон хӀума ца хуьлу. Хьо кийча хилча юха а хьажа.",
+      "\"Лачкъийна суьрташ\" дӀайилла, нагахь санна шуьшинна а классикан юьхь охьайоьжна верси хазахеташ елахь бен."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Суьрташна цхьаьна чӀогӀа цӀераш яха, царех лаьцна къамел де: \"ЦӀен чайник. Шайн чай чохь шура оьцу ахь?\"",
+      "Хьайн гӀайгӀа бечу стаге тапча яккха йиш ю, цхьа хан яьллехь а. Царна тапча тохарал а, хьажор.",
+      "Дика хетачу хенахь йиъ плиткаца Ӏе. Кхин а плитка - иза харжам бу, цкъа а тӀегӀане кхача йиш яц.",
+      "ХӀинца а самукъане долчу хенахь чекхдаккха. Цхьа ловзар дуьззина болх бу."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер юй я балл юй?",
+        "a": "ХӀан-хӀа, сахьт а, баллаш а, дӀасалела счетчик а, эшам а бац. Муьлххачу а минотехь саца йиш ю, ах новкъахь саца - иза чекхдаккхаран кхачам боллуш дика некъ бу."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Суьрташ юьхь хьала хӀунда лаьтта?",
+        "a": "Суьрташ гуш латторо ловзар дагалоьцуш ца Ӏаш, хьажаре а, нисдаре а дерзадо. Дукхачу нахана и тийна хета. Цхьана кранца къайлахчу суьрташна тӀе дӀаверза йиш ю хьан, нагахь санна хьайна лаахь."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Маьхза дуй, дӀаязвала дезий?",
+        "a": "ХӀаъ, иза маьхза ду, ткъа цигахь яц аккаунт а, дӀаязвала а, скачать ян а. Телефонехь, планшетехь я компьютерехь веб-браузерехь болх беш ю иза."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Вай вешан доьзалан суьрташ лело мегар дуй?",
+        "a": "ХӀаъ. Суьртийн параш хьажа, цуо аьтто бо хьан аппарат тӀера суьрташ харжа. Суьрташ хьан браузер чохь лаьтта, чу ца дохку."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Изза лаха .",
+    "seoTitle": "Цхьа сурт лаха: Цхьалхе деменци ловзар",
+    "h1": "Цхьатерра сурт лаха .",
+    "description": "Цхьа сурт лакхахь, шиъ-диъ лахахь. Цхьатерра долчунна тӀе хьажа. Деменцица бехачу нахана тийна, маьрша суьртийн ловзар, таймер йоцуш.",
+    "short": "Лакхахь долчу суьрте хьажа, лахахь долчу оццу суьрте хьажа.",
+    "players": "1 или 2 человек",
+    "intro": "Цхьа сурт экранан лакхахь охьахиъна ду. Цунна бухахь шиъ, кхоъ, диъ сурт ду. Цхьатерра долчунна тӀе хьажа. Цхьацца атта харжам бу иза, къамел дан меттиг алссам а йолуш.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Шиъ, кхоъ, диъ сурт схьа а эций, шайна юкъара схьаэца. Ду уггаре а атта дерг.",
+      "Цхьаьна хьажа лакхахь долчу суьрте.",
+      "Оццу суьрта тӀе хьажа лахахь. Иза билгалъяьккхина чекхъяьккхина, масех довхачу дешнашца.",
+      "Нагахь санна кхечу суьрта тӀе куьг тоьхча, ловзаро цуьнан цӀе а йоккхуш, сатуьйсуш Ӏа. Хьайн хан дӀаяккха.",
+      "\"Далее изображение\" тӀе хьажа, кхечунна кийча хилча."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "ХӀора суьртах лаьцна дийца, хьалха харжале: басарш, кепаш, мичахь ган тарло иза.",
+      "Ду харжам \"тӀех атта\" бац. Ӏалашо товш мӀаьрго ю, кхачамбацарш дац.",
+      "Нагахь санна тапча тохар хала делахь, стага хьажо йиш ю, ахь царна тапча тоха йиш ю."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер юй я балл юй?",
+        "a": "ХӀан-хӀа, сахьт а, баллаш а, дӀасалела счетчик а, эшам а бац. Муьлххачу а минотехь саца йиш ю, ах новкъахь саца - иза чекхдаккхаран кхачам боллуш дика некъ бу."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Харц сурт тӀе куьг хьаькхча хӀун хуьлу?",
+        "a": "Товш доцу хӀумма а дац. Цхьа а зуммер а, цӀен жӀар а, лестамаш а бац. Ловзаргахь тапча тоьхначу суьртан цӀе а йоккхуш, рогӀера тапча тохаре сатуьйсуш хуьлу."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Маьхза дуй, дӀаязвала дезий?",
+        "a": "ХӀаъ, иза маьхза ду, ткъа цигахь яц аккаунт а, дӀаязвала а, скачать ян а. Телефонехь, планшетехь я компьютерехь веб-браузерехь болх беш ю иза."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "ӀиндагӀан матч",
+    "seoTitle": "Деменцина лерина ӀиндагӀ нисдаран ловзар: маьхза онлайн",
+    "h1": "ӀиндагӀан матч: кӀеда суьртийн ловзар",
+    "description": "Лакхахь бодане ӀиндагӀ, лахахь ши-диъ сурт. ӀиндагӀ деш долчу суьрта тӀе хьажа. Маьрша, тийна ӀиндагӀ нисдаран ловзар деменцина, таймер йоцуш.",
+    "short": "ӀиндагӀе хьажа, иза деш долчу суьрта тӀе куьг тоха.",
+    "players": "1 или 2 человек",
+    "intro": "ӀиндагӀ нисдар зорбане даьхначу белхан тептарш тӀера девзаш долу гӀуллакх ду, кхузахь даккхий суьрташ а долуш, зорбане даккха хӀума доцуш. Экранан лакхахь кӀеда ӀиндагӀ охьахиъна, лахахь ши-кхо-диъ сурт сатуьйсуш лаьтта. ӀиндагӀ деш долчунна тӀе куьг тоха. Велосипед, зонтик, чайник санна йолу кепаш а дийца атта ю.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Шиъ, кхоъ, диъ сурт схьа а эций, шайна юкъара схьаэца. Ду уггаре а атта дерг.",
+      "Цхьаьна ӀиндагӀе хьажа. Муьлха кеп ю иза? Лекха ю иза я горга ю?",
+      "ӀиндагӀ деш долчу суьрта тӀе хьажа. Цуьнан цӀе ӀиндагӀна кӀел гучуйолу.",
+      "Нагахь санна кхечу суьрта тӀе куьг тоьхча, ловзаро цуьнан цӀе а йоккхуш, сатуьйсуш Ӏа. Хьайн хан дӀаяккха.",
+      "\"Следующий тень\" тӀе хьажа, кхечунна кийча хилча."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "ПӀелгаца ӀиндагӀан контур ларъе, кепах лаьцна дийца.",
+      "Нагахь санна тахана ӀиндагӀаш хала хетахь, дӀахьажа Изза лаха, цигахь суьрташ цхьатерра ду.",
+      "Суьртах лаьцна дийца, иза карийча: «Иштта зонтик яра тхан»."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер юй я балл юй?",
+        "a": "ХӀан-хӀа, сахьт а, баллаш а, дӀасалела счетчик а, эшам а бац. Муьлххачу а минотехь саца йиш ю, ах новкъахь саца - иза чекхдаккхаран кхачам боллуш дика некъ бу."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "ӀиндагӀ нисдар дика дуй деменци йолчу нахана?",
+        "a": "Цхьаболчу нахана товш, атта гӀуллакх хила тарло иза, къаьсттина хьалхарчу муьрехь. Кепаш йовза атта ду дешнашна хьалха. Иза самукъадаккха а, къамел дан а ду, зерна а дац, ткъа цо дарба ца до, я лагӀ ца до деменцина. Нагахь санна цо дог дохош делахь, хьажа Изза лаха я цхьаьна суьрташка хьажа."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Харц сурт тӀе куьг хьаькхча хӀун хуьлу?",
+        "a": "Товш доцу хӀумма а дац. Цхьа а зуммер а, цӀен жӀар а, лестамаш а бац. Ловзаргахь тапча тоьхначу суьртан цӀе а йоккхуш, рогӀера тапча тохаре сатуьйсуш хуьлу."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Маьхза дуй, дӀаязвала дезий?",
+        "a": "ХӀаъ, иза маьхза ду, ткъа цигахь яц аккаунт а, дӀаязвала а, скачать ян а. Телефонехь, планшетехь я компьютерехь веб-браузерехь болх беш ю иза."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Цхьаьна дӀасакъастаде .",
+    "seoTitle": "Деменцина лерина сортан ловзар: цхьаьна сортан",
+    "h1": "Цхьаьна дӀасакъастар: суьрташ дӀасакъастаран болх",
+    "description": "Суьрта тӀе куьг хьакха, тӀаккха иза догӀучу тӀорказна тӀе куьг хьакха: кухни чохь я бешахь, стоьмех я акхаройн.",
+    "short": "ХӀора сурт шен тӀорказ чу дилла: кухни я беш, кхин а.",
+    "players": "1 или 2 человек",
+    "intro": "Сортировка — денна евзаш, тоам болуш гӀуллакх ду, бакъонан сурсаташ дӀасадаржор я носкиш дӀасатохар санна. Суьрта тӀе куьг тоха, тӀаккха иза догӀучу меттехь тӀорказ тӀе куьг тоха. Сихалла а, харц дерзар а дац.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Тема схьахаржа: кухни а, беш а, стоьмаш а, акхарой ​​а, я цӀа а, некъаш а.",
+      "Суьрта тӀе хьажа. Цунна дешин марзо ло.",
+      "Иза шена чудогӀучу тӀорказна тӀе куьг хьакха, сурт цу тӀорказна чу хьийза.",
+      "Нагахь санна иза вукху тӀорказ чохь догӀуш делахь, ловзаро иштта кӀеда-мерза боху, сатуьйсу.",
+      "ХӀора сурт дӀасакъаьстича, цхьаьна хьажа тӀорказшкахула."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Дукха хьолахь, бакъдолчу дахарехь харц жоьпаш ца хуьлу. Нагахь цхьаммо хи латтош йолу кхаба кухни чохь ю аьлча, хӀунда ю хатта. Дика дийцар кхача тарло хьуна.",
+      "Суьрташ тӀера хьехам санна пайда эца: «ХӀун кхиийна аша шайн бешахь?»",
+      "Бакъйолу хӀуманаш, масала, галеш а, вилкаш а я кнопкаш а басаршца дӀасакъастар, экранна генахь доккха тӀаьхьакхиар ду."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер юй я балл юй?",
+        "a": "ХӀан-хӀа, сахьт а, баллаш а, дӀасалела счетчик а, эшам а бац. Муьлххачу а минотехь саца йиш ю, ах новкъахь саца - иза чекхдаккхаран кхачам боллуш дика некъ бу."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Сортировка хӀунда йо?",
+        "a": "Дукха нахана хазахеташ ду дӀасакъастар, хӀунда аьлча иза пайде, бевзаш болу болх санна хета. Иштта атта ду дӀавоьдуш суьрташ дийца."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Маьхза дуй, дӀаязвала дезий?",
+        "a": "ХӀаъ, иза маьхза ду, ткъа цигахь яц аккаунт а, дӀаязвала а, скачать ян а. Телефонехь, планшетехь я компьютерехь веб-браузерехь болх беш ю иза."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Суьрташца хӀетал-метал",
+    "seoTitle": "Деменцина атта пазл: 4 я 9 дакъа",
+    "h1": "Суьртийн пазл: атта лобзик",
+    "description": "Деменцица бехачу нахана атта онлайн лобзик: 4 я 9 доккха дакъа, дерриг сурт гуш дуьсу, ткъа ахь ши дакъа хьакхало уьш хийца.",
+    "short": "Ши дакъа хьакха, уьш хийца, сурт дерриге а хиллалц.",
+    "players": "1 или 2 человек",
+    "intro": "ДоттагӀаллин сурт диъ-исс доккхачу декъе а декъна, хьакхадо. Дерриге а сурт гуш дуьсу нисдархо санна. Цхьана кийсакна тӀе куьг а хьокхуш, тӀаккха кхин цхьа дакъа а тоьхна, меттигаш хийцало цара. Цхьа а драг ца оьшу.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Сурт а, 4 я 9 дакъа а харжа. Диъ - кӀеда дӀадолор ду.",
+      "Хьовсал лакхахь долчу дерриге а суьрте.",
+      "Цхьана кийсакна тӀе куьг хьакха, тӀаккха иза дӀаяха езачу метте куьг хьакха. Ши дакъа хийцало.",
+      "Нийсачу меттехь йолчу дакъошна жима хьаьрк хӀоттайо.",
+      "Сурт дерриге а хилча, цхьаьна самукъадаккха, тӀаккха кхин цхьаъ харжа."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Ши дакъа хийца, уьш хийца атта ду, дуккха а нахана тардарал.",
+      "Суьртах лаьцна дийца, иза цхьаьнадогӀуш ма-хиллара: «Цигахь ю цӀен тхов».",
+      "Бакъйолу дечигах йина лобзик 12-24 йоккха кийсак йолуш - безаме стоьлан гӀуллакх а ду."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер юй я балл юй?",
+        "a": "ХӀан-хӀа, сахьт а, баллаш а, дӀасалела счетчик а, эшам а бац. Муьлххачу а минотехь саца йиш ю, ах новкъахь саца - иза чекхдаккхаран кхачам боллуш дика некъ бу."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Цу дакъошна тарвала дезий?",
+        "a": "ХӀан-хӀа, цхьана кийсакна тӀе куьг а хьокхуш, тӀаккха вукхунна тӀе куьг а хьокхуш, меттигаш хийцало цара. Иза атта ду лестачу куьгца я жимачу экран тӀехь."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Маьхза дуй, дӀаязвала дезий?",
+        "a": "ХӀаъ, иза маьхза ду, ткъа цигахь яц аккаунт а, дӀаязвала а, скачать ян а. Телефонехь, планшетехь я компьютерехь веб-браузерехь болх беш ю иза."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Алар чекхдаккха .",
+    "seoTitle": "Аларш чекхдаха: Баккхийчарна лерина кицанаш ловзар",
+    "h1": "Аларш чекхдаха .",
+    "description": "Ӏамеркан девзаш долу аларш, тӀаьххьара дош доцуш, масала, \"Цхьа кепек кӀелхьардаьккхина - кепек ___\".",
+    "short": "Цхьаьна чекхдаха девзаш долу аларш, цул тӀаьхьа царех лаьцна къамел дар.",
+    "players": "1, 2 я тоба .",
+    "intro": "Шира аларш дукха хьолахь дика девзаш хуьлу дерриге а дахарехь. ХӀора карточка тӀехь гойтуш ду девзаш долу алар, тӀаьххьара дош ца тоьуш, кхо харжам а болуш, \"Чаккхе гайта\" кнопка а йолуш. Чаккхе хиллачул тӀаьхьа, кӀедачу хаттаро къамеле кхойкху.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Цхьаьна чӀогӀа дӀадеша алар.",
+      "Иза чекхдоккхуш долчу дашна тӀе хьажа, я \"Чаккхе гайта\" хьажа.",
+      "Юха а дерриге а алар деша, цунах лаьцна дийца, хьехамца пайда а оьцуш.",
+      "\"Далее слова\" тӀе хьажа, хьо кийча хилча."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Меллаша еша, тӀаьххьарчу дашна хьалха соцунгӀа йита. Дукха хьолахь наха ахь дӀаалале олу иза.",
+      "Нагахь цхьаммо кхечу кепара чаккхе елахь, самукъадаккха. Цхьадолу алийн варианташ тайп-тайпана ю доьзалшка я кӀошташка хьаьжжина.",
+      "Тобанехь цхьаммо доьшу, массо а чаккхенгахь дӀакхета."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер юй я балл юй?",
+        "a": "ХӀан-хӀа, сахьт а, баллаш а, дӀасалела счетчик а, эшам а бац. Муьлххачу а минотехь саца йиш ю, ах новкъахь саца - иза чекхдаккхаран кхачам боллуш дика некъ бу."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Ткъа вай кхечу кепара дош хаьржича?",
+        "a": "Ловзаргахь хьалха санна чаккхе гойту, къамеле дӀадоьду. Балл яц, кхечу кепара жоп делча дика ду."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Маьхза дуй, дӀаязвала дезий?",
+        "a": "ХӀаъ, иза маьхза ду, ткъа цигахь яц аккаунт а, дӀаязвала а, скачать ян а. Телефонехь, планшетехь я компьютерехь веб-браузерехь болх беш ю иза."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Доккхачу элпаца яздина дош лехар .",
+    "seoTitle": "Йоккхачу зорбанан дош леха Деменци, зорбане яккха йиш йолуш",
+    "h1": "Йоккхачу элпаца дешнаш лехар",
+    "description": "Баккхийчарна а, деменцица бехачу нахана а маьрша даккхийчу элпашца дош лехар. КӀезиг дешнаш, даккхий элпаш, дехьа-охьа дешнаш бен. Интернетехула ловза я зорбане яккха.",
+    "short": "Даккхий элпаш, цхьа-ши дош, дехьа а, охьа а бен. Зорба тоха а.",
+    "players": "1 или 2 человек",
+    "intro": "Даккхий элпаш а долуш, еккъа цхьа куьйга дешнаш а долуш, дерриге а дехьа-сехьа доьшуш долу жима сетка. Дешан хьалхарчу элпана тӀе куьг тоха, тӀаккха цуьнан тӀаьххьарчу элпана тӀе куьг тоха. Кехат гӀоле хета? Цхьана кранехь керла хӀетал-метал зорбане даккха.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Тема а, сеткин барам а харжа.",
+      "Хьовсал дешнийн тептаре. Дехьа-сехьа (аьрру агӀор аьтту агӀор) я охьа (лакхара лаха) доьшуш долу дешнаш.",
+      "Дешан хьалхарчу элпа тӀе куьг тоха, тӀаккха цуьнан тӀаьххьарчу элпа тӀе куьг тоха.",
+      "Карийна дош билгал а доккхуш, тептар тӀера дехьадоккху.",
+      "\"ХӀара хӀетал-метал зорба тоха\" тӀе хьажа, кехат тӀехь къоламца я маркерца ловза."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Список тӀера цхьа дош тӀе пӀелг а хьажош, цуьнан хьалхара элп цхьаьна лаха.",
+      "Кехат тӀехь хайлайтер лело атта ду, къолам лелочул.",
+      "ТӀеман дешнех лаьцна къамел дар. Стоьмийн дешнаш Ӏаламан некъ бу хьакхаран, кхача кечбаран я базарийн дагалецамашна чу."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер юй я балл юй?",
+        "a": "ХӀан-хӀа, сахьт а, баллаш а, дӀасалела счетчик а, эшам а бац. Муьлххачу а минотехь саца йиш ю, ах новкъахь саца - иза чекхдаккхаран кхачам боллуш дика некъ бу."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Леха боху дош зорба тоха мегар дуй?",
+        "a": "ХӀаъ. \"ХӀара хӀетал-метал зорба тоха\" тӀе Ӏоттало, карарчу хенахь йолу сетка доккхачу элпаца зорбане яккха, бухахь дешнийн тептар а долуш. ХӀора керла хӀетал-метал тайп-тайпана ду."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Маьхза дуй, дӀаязвала дезий?",
+        "a": "ХӀаъ, иза маьхза ду, ткъа цигахь яц аккаунт а, дӀаязвала а, скачать ян а. Телефонехь, планшетехь я компьютерехь веб-браузерехь болх беш ю иза."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Раскраски агӀонаш .",
+    "seoTitle": "Деменци йолчу баккхийчарна лерина беснаш хьакхаран агӀонаш (Маьрша)",
+    "h1": "Раскраски агӀонаш",
+    "description": "Цхьалхе, баккхийчарна лерина беснаш деш йолу агӀонаш, яккхий меттигаш а йолуш: цхьана басарна тӀе куьг хьакха, тӀаккха суьрта тӀе куьг хьакха.",
+    "short": "Цхьана басарна тӀе куьг хьакха, тӀаккха суьртан цхьа дакъа. АгӀонаш зорбане яха а.",
+    "players": "1 или 2 человек",
+    "intro": "Даккхий, цхьалха кепаш йолу агӀонаш: кхаби чохь зезаг, цӀа, чайнан стака, хьаьжкӀаш а, парусник а. Цхьана басарца хьажа, тӀаккха суьртан цхьана декъана тӀе хьажа, иза дуза. Цхьа а галморзахаллаш яц.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Цхьа агӀо харжа.",
+      "Цхьана басахь хьажа. ХӀора басахь шен цӀе язйина ю.",
+      "Суьртан цхьана декъана тӀе куьг хьакха, цу басарца иза дуза.",
+      "Муьлххачу хенахь а хьайн дог-ойла хийца, юха а иза юьззина.",
+      "\"ХӀара агӀо зорба тоха\" тӀе Ӏоттало, агӀо еса хилийта, къоламца я маркерца басар дан."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Нагахь санна харжар тӀех дукха хетахь, ерриг комплектан меттана, ши бос харжа кховдабе.",
+      "Можа дитташ а, сийна малх а дика тӀеоьцу. ХӀара нийса хиларх лаьцна дац, басарх самукъадаларх лаьцна ду.",
+      "Зорбане яьхна агӀонаш дика болх бо юткъачу маркершца я шардаршца, уьш лаца атта хуьлу."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер юй я балл юй?",
+        "a": "ХӀан-хӀа, сахьт а, баллаш а, дӀасалела счетчик а, эшам а бац. Муьлххачу а минотехь саца йиш ю, ах новкъахь саца - иза чекхдаккхаран кхачам боллуш дика некъ бу."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "И агӀонаш тӀех берийн юй?",
+        "a": "Мультфильмашна тӀехь а доцуш, тийна, цхьалха хӀуманаш йора оха, цундела агӀонаш баккхийчарна догӀуш ю. Даккхийчу кепаша атта латтадо басарш, иза бепиган кепехь ца деш."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Маьхза дуй, дӀаязвала дезий?",
+        "a": "ХӀаъ, иза маьхза ду, ткъа цигахь яц аккаунт а, дӀаязвала а, скачать ян а. Телефонехь, планшетехь я компьютерехь веб-браузерехь болх беш ю иза."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Къамелан карточкаш .",
+    "seoTitle": "Деменцица къамел дӀадолор: Суьртийн карточкаш",
+    "h1": "Къамелан карточкаш .",
+    "description": "Деменцица бехачу нахана лерина кӀеда къамел дӀадолорца долу суьртийн карточкаш: викторинаш ца еш, нийса жоьпаш ца луш.",
+    "short": "Схьадиллина, эсала хаттарш долу суьртийн карточкаш. Викторинаш яц.",
+    "players": "2 стаг я тоба",
+    "intro": "ХӀора карточка тӀехь девзаш долу сурт нисдо, къамел дан йиллина кхайкхам а болуш, масала, «Хьуна уггаре а езаш йолу хенан хӀоттам муьлха бу?» Нийса жоьпаш а дац, дагахь латто хӀума а дац. Цхьа тема харжа я уьш ерриге а хийца.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Тема харжа, я \"Дерриге а карточкаш\" латтае.",
+      "Хаттар чӀогӀа дӀадеша, цхьана суьрте хьовса.",
+      "ЛадогӀа, хьайн жоп декъа, къамел дӀасалеладе.",
+      "Хьо кийча хилча \"Далее карта\" тӀе хьажа, я хьайна луъучу хенахь цхьана картаца Ӏе.",
+      "\"Печать все карточкаш\" тӀе хьажа, кехатан набор схьаяккха."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Хаттарна жоп ло ахь хьайна а. Къамел санна хета, интервью санна а доцуш.",
+      "Дийцарна тӀаьхьаваза, бакъдолчунна тӀаьхьа а ца волуш. Нагахь санна детальш хийцалахь, дика ду.",
+      "Нагахь санна цхьана карточкано гӀайгӀане хӀума хьакхахь, цу синхаамна къера хила, кӀеда-мерза кхечу карточка тӀе дӀагӀо."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "ХӀунда дац \"ДагадогӀий хьуна...?\" хаттарш?",
+        "a": "Иэс зуьйш долу хаттарш экзамен санна хета, юьхьӀаьржа хӀотто тарло. \"Дийцахьа...\" санна долу схьаделла кхайкхамаш муьлхха а стаг дӀакхета, шена дагадогӀург."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Карточкаш зорбане яха мегар дуй?",
+        "a": "ХӀаъ. \"Печать массо а карточкаш\" зорбане йоккху юьззина комплект доккхачу кепехь, хӀора агӀонна тӀехь масех карточка, дӀаяккха кийча."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Маьхза дуй, дӀаязвала дезий?",
+        "a": "ХӀаъ, иза маьхза ду, ткъа цигахь яц аккаунт а, дӀаязвала а, скачать ян а. Телефонехь, планшетехь я компьютерехь веб-браузерехь болх беш ю иза."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Суьртийн параш",
+    "seoTitle": "Доьзалан суьрташ тӀера нийса ловзар дан",
+    "h1": "Суьртийн параш: Хьайн суьрташца нисъе",
+    "description": "Хьайн доьзалан суьрташ кӀедачу нийсаяздаран ловзаре дерзаде. Хьайн аппарат тӀехь 2-6 сурт харжа; уьш хьан браузер чохь Ӏаш ю, цкъа а чу ца йохуш.",
+    "short": "Шайн суьрташ схьа а эций, уьш нисде. ХӀумма а чу ца диллина.",
+    "players": "2 стаг, юьстах-юьстах",
+    "intro": "Телефонера, планшетера, компьютерера шиъ-шиъ сурт схьа а эций, цунах догӀуш долу ловзар хуьлу, даккхий, гуш долу суьрташ а долуш. Суьрташ цу агӀонна чуьра бен гойтуш дац. Уьш чу а ца йохуш, ларъеш а, яржош а яц, агӀо дӀакъевлича дӀайовлу.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"Выбрать фотографии\" тӀе а таӀийна, шиъ-шиъ сурт схьаэца.",
+      "ХӀора сурт шозза гучудолу. Цхьаъ хьакха, тӀаккха цуьнан пара хьакха.",
+      "ХӀора суьртах лаьцна хьайна карийначу кепара дийца.",
+      "Хьо чекхваьлча, агӀо дӀакъовла я \"Суьрташ дӀадаха\" тӀе хьажа. ХӀумма а лардеш дац."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Ирс долу, девзаш долу хӀуманан шера суьрташ харжа: цӀахь кхобучу дийнатийн, бешан, езаш йолчу меттиган, той дӀахьочу дийнахь.",
+      "Меттигийн а, хӀуманан а суьрташ яххьашна хьалха атта хила тарло, ткъа уьш ларло адамийн цӀераш яха муьлххачу а тӀеӀаткъамах.",
+      "ЦӀеххьана гӀайгӀа ян тарлуш хилча, дӀакхелхинчу нехан суьрташ дита, нагахь санна цара синтем бохьу ца хаахь."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Сан суьрташ цхьанхьа а чу дихкина дуй?",
+        "a": "ХӀан-хӀа, агӀоно ахь хаьржина суьрташ нийсса хьан браузер чохь доьшу, хьан экран тӀехь гойту. Уьш тхуна а, кхечунна а ца йохуьйту, ахь агӀо дӀакъевлича я юха дӀайиллича дӀайовлу."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер юй я балл юй?",
+        "a": "ХӀан-хӀа, сахьт а, баллаш а, дӀасалела счетчик а, эшам а бац. Муьлххачу а минотехь саца йиш ю, ах новкъахь саца - иза чекхдаккхаран кхачам боллуш дика некъ бу."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Кхин дӀа ловзар лар дан мегар дуй?",
+        "a": "Браузер чохь дац, дизайнца, цундела тайна хӀумма а латтош дац. iPhone-на а, iPad-на а лерина йолчу маьхзачу Golden Moments программано хьан аппаратехь латто йиш ю хаьржина суьртийн копеш."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Суьрташ бинго",
+    "seoTitle": "Суьрташ долу бинго баккхийчарна деменци йолуш: зорба тоха йиш йолуш",
+    "h1": "Суьрташ бинго тобанашна",
+    "description": "Маьрша зорбане доккху сурт бинго иэс лардарна а, баккхийчу тобанашна а, экран тӀехь боккха зӀе латтош. Дешнаш тӀехь долу даккхий суьрташ, 9 я 16 квадрат, ешар ца оьшуш.",
+    "short": "Зорбане даха йиш йолу суьрташ долу бинго карташ а, тобанашна лерина боккхачу экранан кхайкхамхо а.",
+    "players": "стагах 30 стагах лаьтта тоба",
+    "intro": "Классикан бинго терахьийн меттана суьрташца, цундела цхьанна а ца оьшу жима элп деша. Шатайпа картанийн набор зорбане яккха, цул тӀаьхьа экран тӀерачу зӀенан гӀирсах пайда а оьцуш, хӀора сурт доккха гайта телевизор тӀехь, ноутбук тӀехь я планшет тӀехь.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "ХӀора картана 9 я 16 квадрат а, маса ловзархо а харжа.",
+      "\"Карточкаш зорбане яха\" хьажа. ХӀора карточка тайп-тайпана ю.",
+      "Йоккхачу экран тӀехь схьаелла зӀене ваьлларг. \"Далее изображение\" тӀе хьажа, хӀора сурт шен цӀарца гайта.",
+      "Ловзаргахь ловзархоша шайн карта тӀехь догӀуш долу сурт дӀахьулдо ахчанца, кнопкаца я маркерца.",
+      "Цхьа могӀа, я дерриге а карта дуьзна хӀоранна а дог лозу. ХӀокху версица эшна нах бац: массеран а могӀа хиллалц ловзуш хила."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Даккхий жетонаш лелае, масала, шашкаш я шишан хьарчар. Кегийра кнопкаш схьаэца хала хуьлу.",
+      "Суьртан цӀе а тилла, цунах лаьцна цхьаъ ала: \"Парусник. Мила хилла кеман тӀехь араваьлла?\"",
+      "Экранна уггаре а гергахь ган хала долу нах охьаховшабе, гӀоьнчий ловзархошца нисбе уьш оьшуш болчу.",
+      "Исс квадрат дукхахйолчу тобанашна кхачам боллуш ю. Сеанс 20-30 минотехь латтае."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Суьртийн бинго муха лело деза лоьрийн цӀийнехь?",
+        "a": "ХӀора ловзархочунна цхьацца карта зорбане даккха, хьайгахь йолчу уггаре а йоккхачу экран тӀе кхойкхуш верг дӀа а хӀоттийна, меллаша суьрташ кхайкха, хӀоранна а цӀе а йоккхуш. ХӀоранна а могӀа хиллалц ловза, цундела цхьа а ца вуьсу."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Зорба тоха маьрша дуй?",
+        "a": "ХӀаъ. Хьайна оьшучу барамехь, хьайна луъучу барамехь кест-кеста карточкаш зорбане яха, хьайна я тобанна лело."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Нах ловза мегар дуй ца доьшуш?",
+        "a": "ХӀаъ. ХӀора майда доккха сурт ду, дешнаш дезачарна бухахь цуьнан цӀе а йолуш."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Тийна садеӀар .",
+    "seoTitle": "Баккхийчарна а, лоьрашна а тийна садеӀаран соцунгӀа",
+    "h1": "Тийна садеӀаран соцунгӀа",
+    "description": "Меллаша, тийна садеӀаран соцунгӀа екъа: кӀеда го кхуьу, жимло 6 садеӀарехь. Ахь дӀадолош ду иза, муьлххачу хенахь а саца йиш ю хьан.",
+    "short": "Цуьнца цхьаьна садаӀа меллаша го. Хьайна луъучу хенахь дӀадоладе, саца.",
+    "players": "1 или 2 человек",
+    "intro": "Цкъацкъа уггаре а дика болх тийна соцунгӀа хуьлу. \"Старт\" тӀе хьажа, тӀаккха го кхиаре терра чу садоӀа, иза жимлуш ара а даккха. Меллаша я сиха темп харжа. Иза дарба дац, еккъа цхьа маьрша мӀаьрго ю, дӀасаекъа.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Юьстах-юьстах паргӀат охьахаа.",
+      "Темп харжа: меллаша я кӀеда.",
+      "\"Старт\" тӀе хьажа. Го кхуьуш чу садоӀу, иза жимлуш ара.",
+      "Шишша са даьккхинчул тӀаьхьа ша-шех сецало иза, я хьайна луъучу хенахь \"Соца\" тӀе хьажа."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Куьйгаш лаца я стеган куьйга тӀе куьг дилла, нагахь санна иза дика хеташ делахь.",
+      "Цкъа а чӀагӀ ма де. Нагахь санна царна хьовса гӀоле хетахь, дика ду.",
+      "Нагахь цхьаннан садеӀарца проблемаш елахь, нийса садаӀа, просто гоне хьовса. Муьлхха а садеӀарца йоьзна гӀайгӀа хилча, лоьре хатта."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "ХӀара медицинан садеӀаран упражнени юй?",
+        "a": "ХӀан-хӀа, иза атта, лаамехь соцунгӀа ю, тийна а, компани а хилийта. Сингаттамна а, цхьана а хьолана а дарба дац иза. Могашаллин гӀайгӀанех лаьцна лоьраца къамел дар."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Ас дӀа ца волош, го хьийза?",
+        "a": "ХӀан-хӀа, ахь Старт тӀе хьаьжча бен хӀумма а хьийзаш дац, ткъа иза 6 са даьккхинчул тӀаьхьа я Стоп тӀе хьаьжча сецало. Нагахь санна хьан аппарат лелар лахдан хӀоттийна елахь, дешнаш хийцало, го ца кхиош."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Маьхза дуй, дӀаязвала дезий?",
+        "a": "ХӀаъ, иза маьхза ду, ткъа цигахь яц аккаунт а, дӀаязвала а, скачать ян а. Телефонехь, планшетехь я компьютерехь веб-браузерехь болх беш ю иза."
       }
     ]
   }

@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "मुख्य सामग्री पर चल जाईं",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "डिमेंशिया के गतिविधियन के बारे में बतावल गइल बा",
+    "homeLabel": "गोल्डन मोमेंट्स के घर बा",
+    "mainNav": "मेन",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "भोजपुरी",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "गोल्डन मोमेंट्स: चाय के कप, सूरजमुखी आ कुकुर के बड़हन, दोस्ताना तस्वीर",
+    "languages": "भाखा",
+    "englishOnly": "(अंगरेजी)",
+    "machineTranslated": "ई पन्ना स्वचालित रूप से अनुवादित भइल आ अबहिन ले कौनों मूल भाषी द्वारा एकर जांच नइखे भइल।",
+    "readOriginal": "अंग्रेजी में मूल पढ़ीं",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "खेल के खेलल जाला",
+      "activities": "गतिविधि",
+      "caregiving": "देखभाल कइल जाला",
+      "brainHealth": "दिमाग के स्वास्थ्य के बारे में बतावल गईल"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "सवाल जवाब के बात बा",
+    "breadcrumb": "ब्रेडक्रंब के बा",
+    "home": "घर",
+    "lastUpdated": "आखिरी बेर अपडेट भइल बा",
+    "topics": "विषय के बारे में बतावल गइल बा",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "पाठ के आकार के बा",
+      "smaller": "मानक पाठ के बा",
+      "larger": "बड़हन पाठ बा",
+      "contrast": "उच्च कंट्रास्ट के बा"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "खेला",
+    "picturePairs": "तस्वीर के जोड़ी बा",
+    "conversationCards": "बातचीत के कार्ड दिहल जाला",
+    "pictureBingo": "तस्वीर बिंगो के बा",
+    "allGames": "सब खेल बा",
+    "pictures": "छपावे खातिर चित्र",
+    "activityIdeas": "गतिविधि के विचार बा",
+    "ideas101": "101 गो गतिविधि के विचार बा",
+    "lateStage": "देर से होखे वाला गतिविधियन के बारे में बतावल गइल बा",
+    "printable": "मुद्रण योग्य गतिविधियन के बारे में बतावल गइल बा",
+    "allActivities": "सभे गतिविधि के बारे में बतावल गइल बा",
+    "forCaregivers": "देखभाल करे वाला लोग खातिर",
+    "playTogether": "एक संगे कईसे खेलल जाला",
+    "selfCare": "अपना के देखभाल कइल",
+    "brainHealth": "मस्तिष्क के स्वास्थ्य के शोध के बारे में बतावल गईल",
+    "faq": "सवाल जवाब के बात बा",
+    "about": "बारे में",
+    "approach": "हमनी के दृष्टिकोण",
+    "howWeWrite": "हमनी के कइसे लिखेनी जा",
+    "organizations": "संगठनन खातिर",
+    "app": "गोल्डन मोमेंट्स ऐप के नाम से जानल जाला",
+    "appHelp": "ऐप मदद करेला",
+    "support": "समर्थन",
+    "legal": "कानूनी",
+    "sitePrivacy": "वेबसाइट के गोपनीयता के बारे में बतावल गइल बा",
+    "appPrivacy": "ऐप के गोपनीयता नीति",
+    "privacyChoices": "गोपनीयता के विकल्प बा",
+    "terms": "शर्त आ ऐप लाइसेंस के बारे में बतावल गइल बा",
+    "safety": "सुरक्षा आ इरादा के इस्तेमाल के बारे में बतावल गइल बा",
+    "accessibility": "सुलभता के क्षमता बा",
+    "healthNotice": "स्वास्थ्य के जानकारी के सूचना दिहल गईल",
+    "allLegal": "सगरी कानूनी जानकारी दिहल गइल बा",
+    "note": "गोल्डन मोमेंट्स में आनंद लेवे खातिर सरल साझा गतिविधि दिहल जाला। ई कवनो मेडिकल सलाह ना ह, कवनो टेस्ट भा कवनो इलाज ना ह, आ एहमें केहू के निदान, नापल भा स्कोर ना कइल जाला. स्वास्थ्य के सवाल खातिर डॉक्टर से बात करीं। आपातकाल में 911 पर फोन करीं।",
+    "publisher": "क्लाउडजेट सॉल्यूशंस प्रा. लिमिटेड के ह।"
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "डिमेंशिया अउर अल्जाइमर के खेल अउर गतिविधि | सुनहरा पल के बा",
+    "description": "ऑनलाइन खेले खातिर मुफ्त, कोमल चित्र खेल आ डिमेंशिया भा अल्जाइमर से पीड़ित लोग आ ओह लोग के देखभाल करे वाला लोग खातिर गतिविधि के विचार। ना कवनो साइन अप, टाइमर ना स्कोर.",
+    "eyebrow": "मुफ्त · कवनो विज्ञापन ना · कवनो साइन अप ना · ना टाइमर भा स्कोर",
+    "h1": "डिमेंशिया से पीड़ित लोग खातिर कोमल खेल आ गतिविधि",
+    "lede": "साधारण चित्र खेल, परिचित फोटो, आ एक साथ आनंद लेवे खातिर गतिविधि-अपना गति से।",
+    "playGame": "एगो खेल खेलीं",
+    "findIdeas": "गतिविधि के विचार खोजीं",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "फोन, टैबलेट अवुरी कंप्यूटर प काम करेला",
+      "बड़का तस्वीर जवन देखावत रहेला",
+      "कबो भी रुक जाइए; असफल होखे वाला कुछुओ ना"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "संगही आईफोन, आईपैड अवुरी एंड्रॉयड खाती एगो फ्री ऐप बा, जवना में आपके खुद के पारिवारिक फोटो बा",
+    "albumNote": "“चाय के कप के दू गो तस्वीर, एके साथे.”",
+    "gamesEyebrow": "अपना ब्राउजर में खेलीं",
+    "gamesTitle": "खेल रउरा अभी खेल सकेनी",
+    "gamesLede": "हर एक शांत, वयस्क आ जल्दी शुरू करे वाला होला. एगो चुनीं, एक दोसरा के बगल में बइठीं आ बारी-बारी से टैप करीं.",
+    "seeAllGames": "सब देखल जाव {count} खेल के खेलल जाला",
+    "howTitle": "कइसे काम करेला",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "कुछ परिचित चीज चुनीं",
+        "text": "चाय के कप, बगीचा, पालतू जानवर आ पाल नाव के तस्वीर। ना पढ़ल ना नियम पहिले सीखल जा सकेला."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "बगल के बगल में बइठल बानी",
+        "text": "उ लोग के टैप करे दीं। तस्वीरन के बारे में बात करीं. एगो बेमेल बस अगिला नल के इंतजार करेला।"
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "जबले बढ़िया लागत होखे तबले रुक जाइब",
+        "text": "एगो खेल पूरा गतिविधि ह। “अभी खातिर कइल गइल” हमेशा परदा पर रहेला."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "परदा से परे के बा",
+    "stageTitle": "हर चरण खातिर गतिविधि के विचार",
+    "stageLede": "संगीत, रोजमर्रा के काम, संस्मरण आ शांत संवेदी पल, जवन अब सहज महसूस होला ओकरा अनुकूल.",
+    "ideas101": "101 गो गतिविधि के विचार बा",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "शुरुआती दौर के दौर में",
+        "text": "जवन काम उ लोग के पसंद बा, उहे करत रहीं, छोट-छोट समायोजन के संगे: शौक, आउटिंग, शब्द के खेल अवुरी एक संगे योजना बनावल।",
+        "label": "शुरुआती दौर के विचार बा"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "मध्य मंच के बा",
+        "text": "सरल, परिचित काम के चरण में टूटल: तह, छँटाई, संगीत, चित्र खेल आ छोट-छोट पैदल यात्रा।",
+        "label": "मध्य अवस्था के विचार के बारे में बतावल गइल बा"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "बाद के दौर में",
+        "text": "स्पर्श, आवाज आ दृष्टि के माध्यम से आराम आ कनेक्शन: हाथ के देखभाल, पसंदीदा गीत, फोटो आ एक साथ रहला के।",
+        "label": "बाद के दौर के विचार"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "कुछ खास खोजत बानी? कोशिश करीं <a href=\"/activities/alzheimers/\">अल्जाइमर खातिर गतिविधि आ खेल के आयोजन कइल जाला</a>, के बा . <a href=\"/activities/memory-games/\">कोमल याददाश्त के खेल होला</a>, के बा . <a href=\"/activities/trivia/\">आसान मामूली बातन के बारे में बतावल गइल बा</a> अऊर <a href=\"/activities/puzzles/\">पहेली के बात बा</a>.",
+    "approachEyebrow": "हमनी के दृष्टिकोण",
+    "approachTitle": "एगो साझा गतिविधि, स्मृति परीक्षण ना",
+    "approachLede": "कई गो “ब्रेन गेम” गति, स्कोर आ लकीर का इर्द गिर्द बनल होला. डिमेंशिया से पीड़ित केहू खातिर जवन परीक्षा जइसन महसूस कर सकेला. हमनी के उल्टा बनवनी जा।",
+    "approachLink": "हमनी के एकरा के एह तरह से काहे डिजाइन करेनी जा",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "असफल होखे वाला कुछुओ ना",
+        "text": "ना घड़ी, ना स्कोर, ना जिए ना हार। एगो अलग तस्वीर एगो विराम ह, गलती ना।"
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "तस्वीर देखावत रहेला",
+        "text": "रिकॉल के ऊपर मान्यता मिलल बा। मैचिंग फेस अप शुरू हो जाला, एहसे याद करे लायक कुछूओ नईखे।"
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "वयस्क आ मर्यादित होखे के चाहीं",
+        "text": "गरम, सादा शब्द आ असली दुनिया के तस्वीर। कबो कार्टून ना बेबी टॉक ना होखे।"
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "डिजाइन के हिसाब से निजी बा",
+        "text": "ना कवनो खाता ना विज्ञापन. राउर फोटो राउर डिवाइस से कबो ना निकलेला।"
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "देखभाल करे वाला लोग खातिर",
+    "guidesTitle": "रोजमर्रा के देखभाल खातिर व्यावहारिक गाइड",
+    "allCaregiving": "सभे देखभाल करे वाला गाइड",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "एक संगे खेल कईसे खेलल जाला",
+        "text": "सेटअप, गति, आ जब कवनो खेल मजेदार होखल बंद हो जाव त का कइल जाव."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "जब कवनो गतिविधि के ना कहेले",
+        "text": "मना करे के आम कारण, आ बाद में दोबारा कोशिश करे के कोमल तरीका।"
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "टैबलेट के सेटअप कइल जा रहल बा",
+        "text": "बड़का पाठ, कम रुकावट आ एके गो साधारण होम स्क्रीन."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "मुफ्त में मुद्रण योग्य गतिविधियन के बारे में बतावल गइल बा",
+        "text": "बड़का छाप वाला शब्द खोज, रंग पन्ना, बिंगो आ बातचीत कार्ड."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "दिमाग के स्वास्थ्य : शोध असल में का कहता",
+    "researchText": "का डिमेंशिया के रोकल जा सकेला? का दिमाग के खेल से मदद मिलेला? उपवास, खानपान, नींद आ सुनवाई के का कहल जाव? सादा, स्रोत से मिलल जवाब, जवना में इहो शामिल बा कि कहाँ सबूत कमजोर बा।",
+    "researchLink": "शोध के गाइड पढ़ीं",
+    "appEyebrow": "साथ ही एगो ऐप भी बा",
+    "appTitle": "आईफोन, आईपैड अवुरी एंड्रॉयड प गोल्डन मोमेंट्स",
+    "appText": "मुफ्त ऐप ऑफलाइन काम करेला अवुरी आपके चुनल पारिवारिक फोटो के इस्तेमाल क सकता, जवन कि आपके डिवाइस प कॉपी के रूप में राखल जाला। वही शांत डिजाइन: चार बड़ टाइल्स, ना टाइमर, ना स्कोर।",
+    "aboutApp": "ऐप के बारे में बा",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "डिमेंशिया से पीड़ित लोग खातिर कवन बढ़िया खेल बा?",
+        "a": "बढ़िया खेल सरल, परिचित आ दबाव से मुक्त होलें: मिलान करे खातिर बड़हन तस्वीर, छँटाई, आसान आरा, जानल-मानल कहावत सभ के खतम कइल, रंगाई-पोताई, चित्र बिंगो आ बातचीत कार्ड। सबसे बढ़िया विकल्प उहे होला जवना के आज के आदमी के मजा आवेला। टाइमर, स्कोर आ कवनो अइसन चीज से बची जवन टेस्ट जइसन लागे."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "का ई डिमेंशिया के खेल मुफ्त बा?",
+        "a": "हॅंं। गोल्डन मोमेंट्स पर हर गेम आ प्रिंट करे लायक मुफ्त बा, जवना में कवनो खाता, साइन अप भा डाउनलोड नइखे. ई गेम वेब ब्राउजर में फोन, टैबलेट भा कंप्यूटर पर चले लें।"
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "का दिमाग के खेल डिमेंशिया से बचाव करेला?",
+        "a": "डिमेंशिया के रोके खातिर कवनो खेल नइखे देखावल गइल आ गोल्डन मोमेंट्स कवनो चीज के इलाज भा रोकथाम के दावा नइखे करत. हमनी के खेल मस्ती आ एक संगे बितावे खातिर होला। हमनी के ब्रेन हेल्थ सेक्शन में बतावल गईल बा कि शोध का करेला अवुरी का ना देखावेला।"
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "का ई खेल अल्जाइमर से पीड़ित केहू खातिर उपयुक्त बा?",
+        "a": "हॅंं। अल्जाइमर बेमारी डिमेंशिया के सभसे आम कारण हवे आ एकरा खातिर खेल बनावल जाला: बड़हन तस्वीर जे देखावत रहे ला, कम विकल्प, आ कुछ ना याद करे भा गलत होखे। परिचित कहावतन के मिलान, छाँटल आ खतम कइल नया सीखला से बेसी लंबा समय से चलल ज्ञान पर निर्भर करेला."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "का बाद के दौर के डिमेंशिया से पीड़ित केहू एह गतिविधियन के इस्तेमाल कर सकेला?",
+        "a": "अक्सरहा, हँ, ओह लोग का बगल में केहू के साथे. से शुरू करीं दू गो चित्र से उहे खोजीं, चार गो टाइल्स वाला चित्र जोड़ी, एगो रंग पन्ना भा शांत साँस लेबे के विराम. छोट राखीं, ओह लोग के अगुवाई के पालन करीं आ जब ओह लोग के भरपूर हो गइल होखे त रुक जाईं."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "का हमार जानकारी निजी बा?",
+        "a": "एह साइट पर कवनो खाता नइखे आ ना कवनो विज्ञापन. हमनी के गूगल एनालिटिक्स के इस्तेमाल एह बात के समझे खातिर करेनी जा कि कवन पन्ना पर जाइल जाला। फोटो जोड़ी खातिर चुनल फोटो खाली रउरा ब्राउजर में देखावल जाला आ कबो अपलोड ना कइल जाला."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "गोल्डन मोमेंट के बनावेला?",
+        "a": "गोल्डन मोमेंट्स एगो छोट टीम हवे जे परिवार आ देखभाल करे वाला लोग खातिर शांत, वयस्क चित्र गतिविधि बनावे ले, वेब पर आ मुफ्त ऐप के रूप में। हमनी के क्लिनिकल ना हईं जा, आ एहिजा कुछुओ मेडिकल सलाह नइखे."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "सेकराहे",
+    "middle": "मध्य",
+    "late": "बाद में",
+    "hintOne": "अक्सर सूट करेला {list} मंच",
+    "hintMany": "अक्सर सूट करेला {list} चरणन के बा",
+    "labelEarly": "शुरुआती दौर के दौर में",
+    "labelMiddle": "मध्य मंच के बा",
+    "labelLate": "बाद के दौर में"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "एह खेल के बारे में",
+    "printable": "प्रिंट करे लायक बा",
+    "play": "खेला {name} → के बा",
+    "readGuide": "गाइड के पढ़ीं"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "कवनो कोमल खेल खातिर तइयार बानी?",
+    "text": "बड़हन तस्वीर, ना टाइमर, ना स्कोर आ साइन अप करे खातिर कुछुओ ना. अपना ब्राउजर में एक संगे खेलीं।",
+    "play": "एगो खेल खेलीं",
+    "all": "सभे खेल देखल जाव",
+    "aria": "कवनो खेल खेलीं"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
-    "appStoreShort": "App Store",
-    "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "title": "एह खेलन के अपना साथे ले जाईं",
+    "text": "आईफोन, आईपैड आ एंड्रॉयड खातिर मुफ्त गोल्डन मोमेंट्स ऐप: बड़हन पिक्चर टाइल्स, आपके खुद के पारिवारिक फोटो वाला गेम, आ पिक्चर पैक जवन बिना वाई-फाई के काम करेला। ना कवनो खाता, विज्ञापन, टाइमर ना स्कोर.",
+    "appStore": "ऐप स्टोर पर मिल जाई",
+    "googlePlay": "गूगल प्ले पर मिल जाईं",
+    "appStoreShort": "ऐप स्टोर के बा",
+    "googlePlayShort": "गूगल प्ले के बा",
+    "about": "ऐप के बारे में बा",
+    "aria": "ऐप ले लीं"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "गतिविधि",
+      "title": "डिमेंशिया से पीड़ित लोग खातिर गतिविधि",
+      "seo": "डिमेंशिया से पीड़ित लोग खातिर गतिविधि: चरण के हिसाब से विचार",
+      "description": "हर चरण में डिमेंशिया से पीड़ित लोग खातिर गतिविधि के बिचार: संगीत, संस्मरण, रोजमर्रा के काम, संवेदी पल, शिल्प, बाहर आ मुफ्त प्रिंट करे लायक।",
+      "lede": "सार्थक गतिविधि कवनो अइसन चीज होला जवन आराम, उद्देश्य भा जुड़ाव के पल ले आवे. शुरुआत ओह चीज से करीं जवना के मजा ओह आदमी के हमेशा से मिलल बा, आ ओकरा के आज के हिसाब से अपनाईं."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "देखभाल कइल जाला",
+      "title": "देखभाल के गाइड के बारे में बतावल गइल बा",
+      "seo": "डिमेंशिया देखभाल गाइड: व्यावहारिक रोजमर्रा के मदद",
+      "description": "डिमेंशिया के देखभाल करे वाला लोग खातिर व्यावहारिक, दयालु गाइड: एक साथ गेम खेलल, संवाद, मना कइल, देर से बेचैनी, टैबलेट, ऐप चुनल आ सेल्फ-केयर।",
+      "lede": "डिमेंशिया से पीड़ित केहू के देखभाल करे के रोजमर्रा के पल खातिर सादा, व्यावहारिक मदद, जवना में खुद के देखभाल भी शामिल बा।"
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "दिमाग के स्वास्थ्य के बारे में बतावल गईल",
+      "title": "दिमाग के स्वास्थ्य : शोध में का कहल गईल बा",
+      "seo": "दिमाग के स्वास्थ्य अवुरी डिमेंशिया के खतरा: शोध में का कहल गईल बा",
+      "description": "का डिमेंशिया के रोकल जा सकेला? डिमेंशिया के जोखिम कारक, दिमाग के खेल, उपवास, आहार, व्यायाम, नींद, सुनवाई अवुरी जल्दी चेतावनी देवे के संकेत के ईमानदार, स्रोत से मिलल गाइड।",
+      "lede": "डिमेंशिया के खतरा कम करे के बारे में असल में जवन बड़ अध्ययन देखावत बा, ओकरा के साफ-साफ बतावल गईल बा, जवना में इहो शामिल बा कि कहाँ सबूत कमजोर चाहे मिश्रित बा। सामान्य जानकारी, मेडिकल सलाह ना।"
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "अपडेट हो गइल बा",
+    "minuteRead": "{n} मिनट पढ़ल गइल",
+    "byTeam": "गोल्डन मोमेंट्स टीम के ओर से दिहल गईल",
+    "howWeWrite": "हमनी के कइसे लिखेनी जा",
+    "shortAnswer": "एकर छोट जवाब बा",
+    "onThisPage": "एह पन्ना पर ({n} धारा) के बारे में बतावल गइल बा।",
+    "commonQuestions": "आम सवाल बा",
+    "sources": "स्रोत से मिलल बा",
+    "sourcesNote": "हमनी के ओह संगठनन आ अध्ययनन से लिंक करेनी जा जवना पर ई पन्ना निर्भर बा. हर एक के जांच तब कइल गइल जब पन्ना अपडेट भइल।",
+    "tryTogether": "एक संगे कोशिश करीं",
+    "relatedGuides": "संबंधित गाइड के बारे में बतावल गइल बा",
+    "related": "जुड़ल",
+    "startHere": "इहाँ से शुरुआत करीं"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "स्वास्थ्य के जानकारी के सूचना दिहल गईल",
+    "title": "सामान्य जानकारी, मेडिकल सलाह ना",
+    "textHtml": "एह पन्ना पर परिवारन खातिर प्रकाशित शोध के सारांश दिहल गइल बा. एक आदमी खातिर का सही बा ई ना बता सके. खानपान, व्यायाम, नींद, दवाई भा सप्लीमेंट बदले से पहिले डॉक्टर से बात करीं। अचानक भ्रम भा कवनो अचानक बदलाव खातिर तुरंत चिकित्सकीय मदद लीं। <a href=\"/medical-disclaimer/\">हमनी के स्वास्थ्य जानकारी के नोटिस पढ़ीं</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "एगो साझा गतिविधि, मेमोरी टेस्ट ना",
+      "seoTitle": "स्वर्णिम पल के बारे में: हमनी के दृष्टिकोण",
+      "description": "गोल्डन मोमेंट्स के खेल में टाइमर, स्कोर भा स्ट्रीक काहे ना होला, तस्वीर काहे देखावत रहेला, आ हमनी का डिमेंशिया का बारे में का दावा करब जा आ ना करब जा.",
+      "crumb": "हमनी के दृष्टिकोण",
+      "lede": "गोल्डन मोमेंट्स शांत, वयस्क चित्र गतिविधि बनावेला जवना के देखभाल करे वाला आ डिमेंशिया से पीड़ित केहू एक दोसरा के बगल में आनंद ले सकेला.",
+      "bodyHtml": "<h2>हमनी के जवन मानत बानी जा</h2><p>कवनो गतिविधि के मुद्दा खुद पल होला: बातचीत, मुस्कान, दू गो तस्वीर के एक साथ रखला के संतुष्टि, भा बस नजदीक बइठल. ई केहू के नापे, ओकरा के अउरी धकेले भा कुछ साबित करे के ना ह.</p><p>कई गो ब्रेन-ट्रेनिंग ऐप स्पीड, स्कोर, स्ट्रीक आ लेवल के आसपास डिजाइन कइल गइल बा। डिमेंशिया से पीड़ित आदमी खातिर जवन परीक्षा जइसन महसूस कर सकेला ऊ पास ना कर सके. हमनी के एकरा उल्टा डिजाइन कईले बानी जा, अवुरी हमनी के अपना के ए नियम प पकड़ले बानी जा:</p><ul><li><strong>असफल होखे वाला कुछुओ ना।</strong> कवनो घड़ी, स्कोर, मूव काउंटर, लाइव, लकीर, कंफ़ेद्दी भा उलटी गिनती, कवनो स्क्रीन पर ना.</li><li><strong>रिकॉल के ऊपर मान्यता मिलल बा।</strong> तस्वीर डिफ़ॉल्ट रूप से देखावत रहेला। संकेत बातचीत के नेवता देला आ कबो नाम भा याद के क्विज ना करे.</li><li><strong>बड़का, सादा आ स्थिर बा।</strong> बड़हन टेक्स्ट आ चित्र, हाई कंट्रास्ट, आ कंट्रोल जे एकही जगह पर रहे ला।</li><li><strong>वयस्क के इज्जत के बात कहल जाला।</strong> असली दुनिया के तस्वीर आ सादा, गरम शब्द। ना कवनो कार्टून, सिंग-सॉन्ग के तारीफ ना इमोजी इनाम।</li><li><strong>एकरा से बाहर निकले के एगो आसान रास्ता।</strong> “फिलहाल हो गइल” हमेशा लउकत रहेला. आधा रास्ता में रुकल एगो बढ़िया नतीजा होला.</li><li><strong>डिफ़ॉल्ट रूप से निजी बा।</strong> ना कवनो खाता ना विज्ञापन. रउरा चुनल फोटो रउरा डिवाइस पर रहेला.</li></ul><h2>जवना के हमनी के दावा नईखी करत</h2><p>हमनी के खेल मजा आ जुड़ाव खातिर होला। ई डिमेंशिया भा अल्जाइमर बेमारी के निदान, परीक्षण, नाप, इलाज, धीमा भा रोकथाम ना करेलें आ केहू के एह कारण से एकरा के ना चुने के चाहीं. जब हमनी के शोध के बारे में लिखेनी जा त हमनी के... <a href=\"/brain-health/\">दिमाग के स्वास्थ्य के पन्ना बा</a>, हमनी के साफ-साफ कहेनी जा कि जहाँ सबूत कमजोर होखे, अवुरी हमनी के ओकरा के कबो अपना खेल से ना जोड़ेनी।</p><h2>हमनी के के हईं जा</h2><p>गोल्डन मोमेंट्स एगो छोट स्वतंत्र टीम ह। हमनी के क्लिनिकल ना हईं जा. हमनी के गाइड नेशनल इंस्टीट्यूट ऑन एजिंग आ अल्जाइमर एसोसिएशन जइसन संगठनन के प्रकाशित मार्गदर्शन से लिखल गइल बा आ हर गाइड में ओकर स्रोत दिहल गइल बा. पढ़ल <a href=\"/editorial-policy/\">हमनी के आपन पन्ना कइसे लिखेनी जा आ चेक करेनी जा</a>.</p><h2>बताईं कि कवन चीज मदद करी</h2><p>हमनी के ई सुनल चाहब जा कि रउरा खातिर का काम करेला आ का ना, खास कर के डिमेंशिया से पीड़ित लोग, परिवार के देखभाल करे वाला आ एक्टिविटी स्टाफ से. ईमेल पर भेजल जा सकेला <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "हमनी के आपन पन्ना कइसे लिखेनी जा आ जांच करेनी जा",
+      "seoTitle": "संपादकीय नीति के बारे में बतावल गइल बा",
+      "description": "गोल्डन मोमेंट्स अपना डिमेंशिया एक्टिविटी आ ब्रेन हेल्थ पन्ना पर कइसे शोध करेला, लिखेला, सोर्स करेला आ अपडेट करेला, आ हमनी का का कबो प्रकाशित ना करब जा.",
+      "crumb": "संपादकीय नीति के बारे में बतावल गइल बा",
+      "bodyHtml": "<h2>हमनी के स्रोत से मिलल बा</h2><p>हमनी के आपन गाइड नेशनल इंस्टीट्यूट ऑन एजिंग, सीडीसी, अल्जाइमर एसोसिएशन, अल्जाइमर फाउंडेशन ऑफ अमेरिका, फैमिली केयरगिवर एलायंस आ एनएचएस जइसन संगठनन के सार्वजनिक मार्गदर्शन पर आ कोक्रेन रिव्यू आ बड़हन क्लिनिकल ट्रायल जइसन साथी लोग के समीक्षा कइल शोध पर आधारित करेनी जा। हर गाइड में ओह स्रोतन के सूची दिहल गइल बा जवना पर ऊ भरोसा करेला. हमनी के हर स्रोत के हवाला देवे से पहिले खोल देनी जा, आ हमनी के खाली उहे रिपोर्ट करेनी जा जवन असल में कहत बा।</p><h2>हमनी के कइसे लिखेनी जा</h2><ul><li>व्यावहारिक पहिला : आज का करे के बा, सादा भाषा में।</li><li>सबूत के बारे में ईमानदार: हमनी के कहेनी जा कि “लिंकड विद”, “मे” अवुरी “द सबूत मिश्रित बा” जब कि इहे सच्चाई बा।</li><li>सम्मानजनक: हमनी के वयस्क के रूप में डिमेंशिया से पीड़ित लोग के बारे में लिखेनी जा, अवुरी हमनी के कबो क्विजिंग चाहे शर्मनाक भाषा के इस्तेमाल ना करेनी।</li><li>कवनो आविष्कारित सामग्री ना: कवनो बनावल आँकड़ा, उद्धरण, विशेषज्ञ, अध्ययन, समीक्षा भा प्रशंसापत्र ना.</li></ul><h2>जे हमनी के पन्ना के समीक्षा करेला</h2><p>पन्ना सभ के लिखल आ जांच गोल्डन मोमेंट्स टीम द्वारा कइल जाला, रिसर्च आ मसौदा बनावे खातिर एआई लेखन उपकरण सभ के मदद से। हर पन्ना के टीम द्वारा ओकर स्रोत के हिसाब से जांच कइल जाला। हमनी के पन्ना के... <strong>नाहीं</strong> कवनो डाक्टर भा दोसरा चिकित्सक के समीक्षा कइल गइल बा, आ हमनी का दोसरा तरह के दावा नइखीं करत. इ सामान्य जानकारी ह, मेडिकल सलाह ना।</p><h2>जवन हमनी के कबो प्रकाशित ना करब जा</h2><ul><li>दावा बा कि कवनो खेल, खाना, सप्लीमेंट, फास्ट भा रूटीन डिमेंशिया के रोकेला, इलाज करेला, धीमा करेला भा ठीक करेला.</li><li>अइसन टेस्ट, क्विज भा स्कोर जवना से पता चलेला कि केहू के डिमेंशिया बा, भा नइखे.</li><li>कवनो दवाई शुरू करे, बंद करे भा बदले के सलाह।</li><li>मार्गदर्शन के भेस में विज्ञापन भा प्रायोजित सामग्री.</li></ul><h2>अपडेट आ सुधार कइल जाला</h2><p>हर पन्ना पर आखिरी बेर अपडेट भइल तारीख देखावल गइल बा। अगर रउरा कवनो गलती भा पुरान स्रोत मिल जाव त ईमेल करीं <a href=\"mailto:{email}\">{email}</a> आ हमनी का एकरा के तुरते जाँच करब जा.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "सवाल जवाब के बारे में बतावल गइल बा",
+      "seoTitle": "डिमेंशिया के खेल आ गतिविधि: सवाल आ जवाब",
+      "description": "डिमेंशिया के खेल आ गतिविधि सभ के बारे में आम सवाल सभ के जवाब: कवन खेल के आजमावल जाय, केतना देर ले खेलल जाय, बाद के दौर के बिचार, दिमाग के स्वास्थ्य आ निजता।",
+      "crumb": "सवाल जवाब के बात बा",
+      "lede": "देखभाल करे वाला लोग जवन सवाल सबसे जादा पूछेला ओकर छोट, सादा जवाब।",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "खेलन के बारे में बतावल गइल बा",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "डिमेंशिया से पीड़ित आदमी खातिर कवन खेल सबसे बढ़िया बा?",
+              "a": "सबसे बढ़िया खेल परिचित, सरल आ दबाव से मुक्त होला आ सही खेल ऊ होला जवन आजु आदमी के मजा आवेला. दृश्यमान चित्र के साथ चित्र मिलान, छँटाई, आसान आरा, परिचित कहावत के खत्म कइल, रंगाई आ चित्र बिंगो सभ बहुत लोग खातिर बढ़िया काम करे ला। टाइमर, स्कोर आ कवनो अइसन चीज से बची जवन टेस्ट जइसन लागे."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "का सचमुच खेल मुफ्त बा?",
+              "a": "हॅंं। सभ गेम आ प्रिंट करे लायक मुफ्त बा, जवना में कवनो खाता, साइन-अप, डाउनलोड भा विज्ञापन नइखे."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "काहे ना स्कोर, लेवल भा टाइमर बा?",
+              "a": "गति आ स्कोर कवनो सुखद गतिविधि के परीक्षा में बदल देला जवना से शर्मिंदगी भा कुंठा हो सकेला. हमनी के एक संगे आनंद अवुरी समय प ध्यान राखेनी, एहसे असफल होखे के कवनो बात नईखे अवुरी आप कवनो समय रुक सकतानी।"
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "कवन डिवाइस सबसे बढ़िया काम करेला?",
+              "a": "आधुनिक वेब ब्राउजर वाला कवनो फोन, टैबलेट भा कंप्यूटर. टेबल प स्टैंड प टैबलेट अक्सर दु लोग खाती एक दूसरा के बगल में खेले के सबसे आरामदायक तरीका होखेला। टीवी से जुड़ल लैपटॉप समूह खातिर बढ़िया काम करेला।"
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "का हमनी के अपना पारिवारिक फोटो से खेल सकेनी जा?",
+              "a": "हॅंं। फोटो जोड़ी रउरा चुनल 2 से 6 फोटो के मिलान खेल में बदल देला। फोटो रउरा ब्राउजर में रहेला आ अपलोड भा सेव ना होला."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "गतिविधि आ देखभाल के काम होला",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "कवनो गतिविधि केतना दिन ले चले के चाहीं?",
+              "a": "अक्सर 10 से 20 मिनट बहुत होखेला, अवुरी कबो-कबो 2 मिनट सफलता भी मिलेला। थकान भा कुंठा के लक्षण के देखत रहीं आ जबले बढ़िया लागत बा तबले रुक जाईं. कवनो सही रकम नइखे."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "अगर ऊ लोग कवनो गतिविधि ना कइल चाहत होखे त का होई?",
+              "a": "ना के सम्मान करीं, आ बाद में भा अलग तरीका से फेर से कोशिश करीं. मना कइल थकान, दर्द, अनिश्चित महसूस कइल भा बस रुचि ना होखला से हो सकेला. जब ऊ लोग ना कहेला त का करे के चाहीं एह बारे में हमनी के गाइड देखीं."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "बाद के चरण के डिमेंशिया के कवन गतिविधि सूट करेला?",
+              "a": "आराम अवुरी इंद्रिय: पसंदीदा संगीत सुनल, लोशन से हाथ के मालिश कईल, एक संगे फोटो देखल, मुलायम कंबल पकड़ल, बहरी बईठल, चाहे बगल में केहु के संगे बहुत साधारण पिक्चर गेम खेलल। हमनी के बाद के चरण के गाइड में अउरी कई गो विचार बा।"
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "का देखभाल घर में समूह खातिर गतिविधि बा?",
+              "a": "हॅंं। पिक्चर बिंगो में प्रिंट करे लायक कार्ड आ ऑन-स्क्रीन कॉलर बा, आ कहावत खतम करीं आ बातचीत कार्ड जोर से पढ़ल बढ़िया काम करेला. हमनी के केयर होम ग्रुप गाइड में समूह के आकार, बइठे के जगह आ मिश्रित क्षमता खातिर अनुकूलन के बारे में बतावल गइल बा।"
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "दिमाग के स्वास्थ्य के बारे में बतावल गईल",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "का खेल डिमेंशिया के रोक सकेला भा धीमा कर सकेला?",
+              "a": "डिमेंशिया के रोके खातिर कवनो खेल नइखे देखावल गइल आ हमनी के खेल अइसन कवनो दावा नइखे करत. सामाजिक परिवेश में संज्ञानात्मक उत्तेजना से हल्का से मध्यम डिमेंशिया से पीड़ित लोग खातिर शोध में छोट-मोट फायदा देखल गईल बा, लेकिन इ बेमारी से बचाव करे वाला खेल से अलग बा। हमनी के आनंद आ कनेक्शन खातिर खेल के पेशकश करेनी जा।"
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "का डिमेंशिया के रोकल जा सकेला?",
+              "a": "निश्चित रूप से ना। शोध में 14 स्वास्थ्य अवुरी जीवनशैली के कारक के डिमेंशिया के खतरा से जोड़ल गईल बा, जईसे कि सुनवाई में कमी, उच्च रक्तचाप, शारीरिक निष्क्रियता अवुरी सामाजिक अलगाव। इनहन के संबोधित कइला से कुछ लोग खातिर जोखिम कम हो सके ला, बाकी बहुत लोग जे सबकुछ सही तरीका से करे ला, तबहूँ डिमेंशिया हो जाला। कबो केहू के गलती ना होला."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "का रुक रुक के उपवास कईल दिमाग के स्वास्थ्य खाती निमन बा?",
+              "a": "मनुष्य के सबूत सीमित आ जल्दी बा आ बहुत सारा शोध जानवरन पर भइल बा। पुरान वयस्क लोग खातिर उपवास जोखिम वाला हो सके ला, खासतौर पर डायबिटीज के दवाई भा अनजाने में वजन घटावे के साथ, आ डिमेंशिया से पीड़ित लोग खातिर एकर सलाह ना दिहल जाला। खाना खाए के तरीका बदले से पहिले डॉक्टर से बात करीं।"
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "निजता आ सुरक्षा के बारे में बतावल गइल बा",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "का रउरा कवनो जानकारी एकट्ठा करीलें?",
+              "a": "ना कवनो खाता ना विज्ञापन. हमनी के गूगल एनालिटिक्स के इस्तेमाल विजिट गिने खातिर करेनी जा आ ई देखे खातिर कि कवन पन्ना मदद करेला, आ राउर ब्राउजर याद राखेला कि रउरा नरम आवाज चालू कइले बानी कि ना. फोटो जोड़ी खातिर रउआ चुनल फोटो कबो अपलोड ना होला। विस्तार से जाने खातिर गोपनीयता सूचना देखीं।"
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "का ई मेडिकल सलाह ह?",
+              "a": "ना गोल्डन मोमेंट्स मनोरंजन आ सामान्य जानकारी खातिर बा. स्वास्थ्य के सवाल खातिर डॉक्टर से बात करीं, आ आपातकालीन स्थिति खातिर 911 पर फोन करीं।"
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "अउरी विस्तार से जानकारी दिहल गइल बा: <a href=\"/caregiving/how-to-play-together/\">कइसे एक संगे खेलल जाला</a>, के बा . <a href=\"/caregiving/when-they-say-no/\">जब ऊ लोग ना कहेला</a>, के बा . <a href=\"/activities/late-stage/\">बाद के चरण के गतिविधियन के बारे में बतावल गइल बा</a> औरी <a href=\"/brain-health/can-dementia-be-prevented/\">का डिमेंशिया के रोकल जा सकेला?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "डिमेंशिया से पीड़ित लोग खातिर मुफ्त, कोमल खेल",
+      "seoTitle": "मुद्रण योग्य हैंडआउट: मुफ्त डिमेंशिया खेल ऑनलाइन बा",
+      "description": "डिमेंशिया से पीड़ित लोग खातिर, सपोर्ट ग्रुप आ देखभाल पैकेट खातिर मुफ्त, कोमल चित्र खेल के बारे में परिवार आ देखभाल करे वाला लोग खातिर एक पन्ना के प्रिंट करे लायक हैंडआउट।",
+      "crumb": "प्रिंट करे लायक हैंडआउट बा",
+      "lede": "कवनो सपोर्ट ग्रुप, केयर पैकेट भा फ्रिज के दरवाजा खातिर ई पन्ना प्रिंट करीं. अपना ब्राउजर के प्रिंट कमांड के इस्तेमाल करीं; मेनू आ बटन प्रिंटआउट से छोड़ दिहल गइल बा.",
+      "introHtml": "<p>बड़हन तस्वीर, सादा शब्द आ असफल होखे वाला कुछ ना. फोन, टैबलेट भा कंप्यूटर पर मुफ्त, जवना में कवनो साइन अप ना होखे, ना कवनो विज्ञापन होखे, ना टाइमर ना होखे आ ना कवनो स्कोर होखे. एक दूसरा के बगल में बइठ के बारी-बारी से।</p>",
+      "gamesTitle": "खेल एक संगे आजमावे के बा",
+      "restHtml": "<h2>कुछ टिप्स के बात बा</h2><ul><li>दिन के अइसन समय चुनीं जब ऊ आदमी अपना सर्वश्रेष्ठ स्थिति में होखे.</li><li>सबसे आसान सेटिंग से शुरुआत करीं। चार गो टाइल्स के भरमार बा।</li><li>तस्वीरन के बारे में बात करीं. बातचीत अक्सर सबसे बढ़िया हिस्सा होखेला।</li><li>जबले अबहियों सुखद लागत होखे तबले रुक जाईं. जल्दी खतम होखल एगो बढ़िया नतीजा होला.</li></ul><h2>साइट पर भी बा</h2><ul><li>मुफ्त प्रिंट करे लायक: बड़हन प्रिंट वाला शब्द खोज, रंग पन्ना, बातचीत कार्ड आ चित्र बिंगो।</li><li>हर मंच खातिर गतिविधि के विचार, आ एक साथ खेले आ अपना के देखभाल करे पर गाइड।</li></ul><p class=\"muted\">एक संगे आनंद आ समय बितावे खातिर। ना त मेडिकल सलाह, कवनो टेस्ट भा कवनो इलाज. गोल्डन मोमेंट्स के प्रकाशन क्लाउडजेट सॉल्यूशंस प्रा. लिमिटेड के ह।</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "केयर होम, लाइब्रेरी आ सपोर्ट ग्रुप खातिर",
+      "seoTitle": "केयर होम आ समूह खातिर मुफ्त डिमेंशिया गतिविधि",
+      "description": "केयर होम, एडल्ट डे प्रोग्राम, लाइब्रेरी, एजिंग एजेंसी आ सपोर्ट ग्रुप हमनी के मुफ्त डिमेंशिया गेम के इस्तेमाल कइसे करेलें, एकरा अलावा टेक्स्ट के इस्तेमाल हमनी के संसाधन सूची में जोड़े खातिर करेला.",
+      "crumb": "संगठनन खातिर",
+      "lede": "एह साइट पर मौजूद हर चीज के इस्तेमाल निवासी, सदस्य आ ग्राहकन का साथे कइल मुफ्त बा, जवना में कवनो खाता, लाइसेंस भा शुल्क नइखे. एह पेज पर बतावल गइल बा कि एहिजा का बा आ कइसे साझा कइल जा सकेला.",
+      "shortText": "{name}: डिमेंशिया से पीड़ित लोग आ ओह लोग के देखभाल करे वाला लोग खातिर मुफ्त, कोमल चित्र खेल आ गतिविधि गाइड। ना साइन अप, ना टाइमर, ना स्कोर.",
+      "longText": "{name} ({domain}) के पेशकश करेला {count} डिमेंशिया से पीड़ित लोग खातिर बनावल गइल मुफ्त ब्राउजर गेम, जवना में देखावल छोड़ल गइल तस्वीरन के साथ जोड़ी मिलान, एगो आसान आरा, छँटाई, परिचित कहावत आ प्रिंट करे लायक कार्ड के साथ पिक्चर बिंगो शामिल बा। ना त कवनो खाता, विज्ञापन, टाइमर ना स्कोर बा. एह साइट पर डिमेंशिया के हर स्टेज खातिर सादा भाषा के एक्टिविटी गाइड भी बा जेह में नेशनल इंस्टीट्यूट ऑन एजिंग आ अल्जाइमर एसोसिएशन के हवाला दिहल गइल बा।",
+      "useTitle": "संगठन कवन चीज के इस्तेमाल कर सकेलें",
+      "gamesItemHtml": "<strong>{count} ब्राउजर के खेल के बारे में बतावल गइल बा</strong> जवन लैपटॉप, टैबलेट भा कंप्यूटर से जुड़ल टीवी पर चलेला. ना कवनो इंस्टॉल, खाता ना डाउनलोड. देखीं <a href=\"/games/\">सब खेल के बा</a>.",
+      "printablesLabel": "{count} प्रिंट करे लायक चीज बा:",
+      "printablesAfter": "हर पन्ना पर प्रिंट बटन के इस्तेमाल करीं।",
+      "moreItemsHtml": "<li><strong>समूह के प्रारूप: 1।</strong> <a href=\"/games/picture-bingo/\">तस्वीर बिंगो के बा</a> प्रिंट करे लायक कार्ड आ ऑन-स्क्रीन कॉलर बा, आ... <a href=\"/activities/trivia/\">आसान मामूली बातन के बारे में बतावल गइल बा</a> के 50 गो सवाल बा जवना में जवाब के विकल्प आ बातचीत के बिंदु बा.</li><li><strong>गतिविधि के गाइड के बारे में बतावल गइल बा</strong> स्टाफ आ परिवार खातिर, चरण आ प्रकार के हिसाब से, स्रोत के साथे सादा भाषा में लिखल। शुरुआत कइल जाव <a href=\"/activities/ideas/\">101 गो गतिविधि के विचार बा</a> अऊर <a href=\"/activities/care-home-groups/\">केयर होम खातिर समूह गतिविधियन के बारे में बतावल गइल बा</a>.</li>",
+      "restHtml": "<h2>समूह एकर इस्तेमाल कईसे करेले</h2><ul><li><strong>केयर होम आ मेमोरी केयर: 1.1.</strong> कॉमन रूम टीवी पर बिंगो भा फिनिश-द-सेइंग के तस्वीर बनाईं, जवना में एक आदमी समूह खातिर टैप करत बा.</li><li><strong>वयस्क दिवस के कार्यक्रम: 1.1.</strong> एगो टैबलेट स्टेशन जवना में पिक्चर जोड़ी चार टाइल पर सेट होला, छोट एक से एक सत्र खातिर।</li><li><strong>सार्वजनिक पुस्तकालयन में कहल गइल बा:</strong> मेमोरी किट में छपल शब्द खोज आ बातचीत कार्ड, आ लाइब्रेरी के टैबलेट पर बुकमार्क कइल साइट.</li><li><strong>देखभाल करे वाला लोग के सहायता समूह आ मेमोरी कैफे:</strong> एगो <a href=\"/handout/\">एक पन्ना के प्रिंट करे लायक हैंडआउट बा</a> परिवारन के घरे ले जाए खातिर.</li><li><strong>अस्पताल आ डिस्चार्ज के योजना बनावे वाला लोग:</strong> देखभाल करे वाला के पैकेट में हैंडआउट, घर में भा बिस्तर के बगल में कुछ शांत करे खातिर।</li></ul><h2>जवन हमनी के ना करेनी जा</h2><p>खेल मस्ती आ एक संगे बितावे खातिर होला। ई लोग डिमेंशिया के निदान, परीक्षण, स्कोर, इलाज भा धीमा ना करेला आ हमनी का संगठनन से कहत बानी जा कि एह लोग के ओइसन वर्णन मत करसु. कवनो विज्ञापन नइखे, आ खेलन में अपलोड करे खातिर नाम, स्वास्थ्य विवरण भा फोटो ना पूछल जाला. वेबसाइट पर गूगल एनालिटिक्स के इस्तेमाल विजिट के गिनती करे खातिर कइल जाला; हमन क <a href=\"/privacy/\">गोपनीयता के सूचना दिहल गइल बा</a> बतावेला कि ऊ का इकट्ठा करेला. में इस्तेमाल कइल गइल फोटो... <a href=\"/games/photo-pairs/\">फोटो के जोड़ी बा</a> ब्राउजर में रहे के बा।</p><h2>हमनी के अपना संसाधन सूची में जोड़ीं</h2><p>अगर रउआ देखभाल करे वाला लोग खातिर संसाधन के सूची रखले बानी त रउआ के लिंक करे के स्वागत बा <a href=\"/\">{domain}</a>. रउआँ दुनो में से कवनो भी विवरण के कॉपी कर सकेनी।</p>",
+      "shortTitle": "छोट-छोट वर्णन बा",
+      "longTitle": "लंबा वर्णन बा",
+      "linksHtml": "<p>सीधे लिंक करे खातिर उपयोगी पन्ना: <a href=\"/games/\">मुफ्त में खेलल जाला</a>, के बा . <a href=\"/activities/printable/\">मुफ्त में प्रिंट करे लायक बा</a>, के बा . <a href=\"/activities/alzheimers/\">अल्जाइमर खातिर गतिविधियन के बारे में बतावल गइल बा</a> औरी <a href=\"/caregiving/how-to-play-together/\">कइसे एक संगे खेलल जाला</a>.</p><h2>सवाल भा सुधार के बात कइल जाव</h2><p>अगर साइट पर कुछ गलत भा अस्पष्ट बा, भा कवनो निवासी के जरूरत एहिजा जवन बा ओकरा से पूरा नइखे होखत त कृपया हमनी के बताईं <a href=\"mailto:{email}\">{email}</a>. कृपया निवासी भा ग्राहक के बारे में निजी भा स्वास्थ्य जानकारी मत भेजीं.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "गोल्डन मोमेंट्स ऐप के नाम से जानल जाला",
+      "seoTitle": "आईफोन अवुरी एंड्रॉयड खाती गोल्डन मोमेंट्स ऐप",
+      "description": "मुफ्त गोल्डन मोमेंट्स ऐप: चार बड़ टाइल्स के संगे कोमल फोटो मिलान, आपके डिवाइस प राखल पारिवारिक फोटो, ऑफलाइन पिक्चर पैक अवुरी कवनो खाता ना।",
+      "crumb": "ऐप के बारे में बतावल गईल बा",
+      "lede": "वेबसाइट के बारे में जवन कुछ भी आपके पसंद बा, अयीसन ऐप में जवन ऑफलाइन काम करेला अवुरी आपके चुनल पारिवारिक फोटो के इस्तेमाल क सकता।",
+      "worksOn": "पर काम करत बा {platforms} ({requirements}).",
+      "bodyHtml": "<h2>छोट से शुरुआत करीं</h2><p>चार गो बड़हन टाइल्स आ परिचित तस्वीर से शुरुआत करीं. तस्वीर के लउकत राखीं, भा जब ऊ सहज लागे त ओकरा के छिपाईं. जेंटल मोड में कवनो टाइमर, स्कोर भा पेनाल्टी ना होला. 4, 6, 8 या 12 टाइल्स चुने के बा।</p><h2>एकरा के निजी बनाईं</h2><p>अपना डिवाइस के फोटो पिकर से पारिवारिक फोटो चुनीं. ए ऐप में अपना गतिविधि खाती छोट-छोट कॉपी के सेव कईल जाला। इ आपके लाइब्रेरी के स्कैन ना करेला ना आपके मूल फोटो के बदलेला, अवुरी एकरा में 24 फोटो तक एक संग्रह में राखल जाला।</p><h2>बस एक संगे देखल जाव</h2><p>एक-एक तस्वीर देखल जाव. वैकल्पिक संकेत बिना केहू के नाम याद राखे भा सही जवाब देबे के कहले बिना बातचीत के नेवता देला. बस देखल काफी बा।</p><h2>जहाँ कवनो मायने राखेला ओहिजा ऑफलाइन</h2><p>ए ऐप के संगे स्टार्टर पिक्चर अवुरी सभ आठ पिक्चर पैक शामिल बा। आयातित फोटो कॉपी ऑफलाइन काम करेला। खाली आईक्लाउड में संग्रहीत मूल चुने खातिर इंटरनेट कनेक्शन के जरूरत पड़ सकेला।</p><h2>ना खाता, ना फोटो-सिंक सर्वर</h2><p>परिवार-फोटो कॉपी डिवाइस प ऐप में रहेला। रउआँ बिना मूल के हटावे के कॉपी हटा सकत बानी। डिवाइस बैकअप में ऐप डेटा शामिल हो सकेला। पढ़ल जा सकेला कि... <a href=\"/app-privacy/\">ऐप के गोपनीयता नीति के बारे में बतावल गइल बा</a>, औरी <a href=\"/help/\">ऐप मदद करेला</a> हर कदम से गुजरत रहेला।</p>",
+      "disclaimer": "गोल्डन मोमेंट्स मनोरंजन आ साझा बातचीत खातिर बा। ई डिमेंशिया भा अल्जाइमर बेमारी के निदान, इलाज, रोकथाम भा नाप ना करेला.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "मुफ्त डिमेंशिया अउर अल्जाइमर के खेल ऑनलाइन",
+    "description": "डिमेंशिया भा अल्जाइमर से पीड़ित वरिष्ठ लोग खातिर मुफ्त ऑनलाइन गेम: चित्र मिलान, आसान आरा, छँटाई, कहावत, रंगाई, बिंगो। ना कवनो साइन अप, टाइमर ना स्कोर.",
+    "crumb": "खेल के खेलल जाला",
+    "h1": "डिमेंशिया से पीड़ित लोग खातिर कोमल खेल",
+    "lede": "{count} अपना ब्राउजर में एक संगे खेले खातिर मुफ्त गेम। बड़हन तस्वीर, सादा शब्द, आ असफल होखे वाला कुछ ना: ना टाइमर, ना स्कोर, ना साइन-अप.",
+    "listName": "डिमेंशिया से पीड़ित लोग खातिर कोमल खेल",
+    "byStageTitle": "मंच के हिसाब से कवनो खेल चुनल जा रहल बा",
+    "byStageLede": "मंच त खाली एगो मोटा-मोटी गाइड होला. आज ओह आदमी के जवन मजा आवेला आ जवन सहज लागेला ओकर पालन करीं.",
+    "stageCol": "मंच",
+    "gamesCol": "अइसन खेल जवन अक्सर सूट करेला",
+    "moreHtml": "परदा से दूर अउरी विचार: <a href=\"/activities/ideas/\">डिमेंशिया से पीड़ित लोग खातिर 101 गतिविधि</a>, के बा . <a href=\"/activities/alzheimers/\">अल्जाइमर खातिर गतिविधि आ खेल के आयोजन कइल जाला</a>, के बा . <a href=\"/activities/memory-games/\">कोमल याददाश्त के खेल होला</a> औरी <a href=\"/activities/puzzles/\">पहेली के बात बा</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "हमनी के कवना खेल से शुरुआत करे के चाहीं?",
+        "a": "चार टाइल्स के संगे पिक्चर जोड़ी एगो शांत पहिला पसंद बा। अगर तस्वीरन में से चुनल बहुते लागत बा त कोशिश करीं कि दू गो तस्वीर के साथे एके जइसन खोजीं. कवनो समूह खातिर, पिक्चर बिंगो के कोशिश करीं।"
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "का इ गेम आईपैड भा फोन प काम करेला?",
+        "a": "हॅंं। हर गेम फोन, टैबलेट आ कंप्यूटर पर ब्राउजर में काम करेला आ तस्वीर बढ़ के स्क्रीन भर देला. स्टैंड प लागल टैबलेट अक्सर दु लोग खाती सबसे आरामदायक होखेला।"
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "का ई खेल अल्जाइमर से पीड़ित केहू खातिर बढ़िया बा?",
+        "a": "हॅंं। इ सब डिमेंशिया से पीड़ित लोग खातिर बनावल गईल रहे, जवना में सबसे आम कारण अल्जाइमर भी शामिल बा। तस्वीर देखावत रहेला, कुछ विकल्प बा, आ कवनो चीज के समय भा स्कोर ना कइल जाला, एहसे खेल नया चीजन के याद करे के बजाय परिचित चीजन के पहचाने पर निर्भर रहेला।"
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "का ई सब सीनियर लोग खातिर याददाश्त के खेल ह?",
+        "a": "ई मैचिंग आ पिक्चर गेम हवें जिनहन के मजा कवनो भी पुरान वयस्क क सके ला, बाकी ई मेमोरी के परीक्षण करे खातिर ना बनावल गइल बाड़ें: पिक्चर पेयर में पिक्चर सभ मुँह ऊपर रहे लीं जबले कि आप कौनों अउरी तरीका ना चुनीं। डिमेंशिया से पीड़ित सीनियरन खातिर मेमोरी गेम के हमनी के गाइड में बतावल गइल बा कि कवनो मेमोरी गेम के कइसे कोमल राखल जा सकेला."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "का केयर होम में समूह खातिर खेल होला?",
+        "a": "हॅंं। पिक्चर बिंगो में प्रिंट करे लायक कार्ड आ ऑन-स्क्रीन कॉलर होला, आ कहावत खतम करीं आ बातचीत कार्ड एगो समूह के जोर से पढ़ल बढ़िया काम करेला."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "आईफोन, आईपैड अवुरी एंड्रॉयड के नाम से जानल जाला",
+    "requirements": "आईओएस 15 भा ओकरा बाद के; एंड्रॉयड 7.0 भा ओकरा बाद के बा",
+    "summary": "आईफोन, आईपैड अवुरी एंड्रॉयड खाती एगो फ्री ऐप जवना में चार से बारह बड़ टाइल्स प कोमल पिक्चर मैचिंग बा, आपके चुनल पारिवारिक फोटो के संगे मैचिंग अवुरी देखल जा सकता, अवुरी आठ गो शामिल पिक्चर पैक बा जवन कि बिना इंटरनेट के काम करेला। ना कवनो खाता, विज्ञापन, टाइमर ना स्कोर.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "4, 6, 8 या 12 गो बड़हन टाइल्स के साथ कोमल चित्र मिलान; जबले रउरा ओकरा के छिपावे के ना चुनीं तबले तस्वीर लउकत रहेला",
+      "रउरा चुनल पारिवारिक फोटो के मिलान खातिर आ एक संगे देखे खातिर ऐप में कॉपी कइल जाला",
+      "एक संगे देखल जाव: एक-एक तस्वीर वैकल्पिक बातचीत के संकेत के संगे",
+      "ऐप के संगे आठ गो पिक्चर पैक शामिल बा; उ लोग ऑफलाइन काम करेले",
+      "कवनो खाता, विज्ञापन, ऐप में खरीदारी, टाइमर, स्कोर भा जुर्माना ना"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "का कवनो डिमेंशिया एक्टिविटीज ऐप बा?",
+        "a": "हॅंं। गोल्डन मोमेंट्स (\" \" के रूप में सूचीबद्ध कइल गइल बा।{storeName}\") ऐप स्टोर अवुरी गूगल प्ले प मुफ्त बा। इ बड़ टाइल्स के संगे कोमल पिक्चर मैचिंग, आपके चुनल पारिवारिक फोटो वाला गेम अवुरी ऑफलाइन काम करेवाला पिक्चर पैक के सुविधा देवेला।"
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "का गोल्डन मोमेंट्स ऐप मुफ्त बा?",
+        "a": "हॅंं। एकरा के डाउनलोड करे खातिर मुफ्त बा, जवना में कवनो विज्ञापन, खाता अवुरी ऐप में खरीदारी नईखे।"
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "का इ ऐप बिना इंटरनेट के काम करेला?",
+        "a": "हॅंं। स्टार्टर पिक्चर अवुरी सभ आठ पिक्चर पैक ए ऐप के संगे शामिल बा अवुरी एप्प में कॉपी होखला के बाद पारिवारिक फोटो ऑफलाइन काम करेला। खाली आईक्लाउड में संग्रहीत फोटो चुने खातिर कनेक्शन के जरूरत पड़ सकेला।"
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "का हम अपना पारिवारिक फोटो के इस्तेमाल कर सकीले?",
+        "a": "हॅंं। अपना डिवाइस के फोटो पिकर से फोटो चुनीं. ए ऐप अपना गतिविधि खाती डिवाइस प छोट-छोट कॉपी राखेला, अपलोड ना करेला अवुरी कबहूँ मूल में बदलाव ना करेला। रउरा कबो भी कॉपी हटा सकेनी।"
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "का ई ब्रेन-ट्रेनिंग ऐप ह कि मेमोरी-टेस्ट ऐप?",
+        "a": "ना गोल्डन मोमेंट्स आनंद आ एक संगे बितावे खातिर बा। एकर कवनो स्कोर भा टेस्ट नइखे, आ एहमें डिमेंशिया भा अल्जाइमर बेमारी के निदान, इलाज, रोकथाम भा नाप ना होला."
       },
       {
-        "q": "Which devices does it work on?",
-        "a": "{platforms}: {requirements}."
+        "q": "ई कवना डिवाइस पर काम करेला?",
+        "a": "{platforms}: 1। {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "का एह गेम के कवनो ऐप वर्जन बा?",
+      "a": "हॅंं। आईफोन, आईपैड अवुरी एंड्रॉयड खाती मुफ्त गोल्डन मोमेंट्स ऐप में उहे कोमल पिक्चर मैचिंग बा, जवन कि आपके चुनल पारिवारिक फोटो के इस्तेमाल क सकता अवुरी ऑफलाइन काम करेला। ना कवनो खाता, विज्ञापन ना स्कोर."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "का एह गेम के कवनो ऐप वर्जन बा?",
+      "a": "एह खेल के ना. आईफोन, आईपैड अवुरी एंड्रॉयड खाती मुफ्त गोल्डन मोमेंट्स ऐप में आपके चुनल बड़ टाइल अवुरी पारिवारिक फोटो के संगे कोमल पिक्चर मैचिंग बा, अवुरी इ ऑफलाइन काम करेला। ई खेल इहाँ रउरा ब्राउजर में मुफ्त में रहेला."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: बड़हन, दोस्ताना तस्वीर बा",
+    "noscript": "एह गेम के रउरा ब्राउजर में जावास्क्रिप्ट चालू करे के पड़ी. नीचे दिहल टिप्स एकरा बिना काम करेला।",
+    "about": "बारे में {name}",
+    "aboutAria": "एह खेल के बारे में",
+    "noTimer": "ना कवनो टाइमर ना स्कोर",
+    "printable": "प्रिंट करे लायक बा",
+    "howTo": "कइसे खेलल जाला {name}",
+    "tips": "एक संगे खेले के टिप्स",
+    "newToPlayingHtml": "डिमेंशिया से पीड़ित आदमी के संगे खेले में नया? पढ़ल <a href=\"/caregiving/how-to-play-together/\">एक संगे खेल कईसे खेलल जाला</a>, जवना में शामिल बा कि अगर रुचि कम हो जाव त का कइल जाव.",
+    "moreAria": "अउरी खोज करे के बा",
+    "helpfulGuides": "मददगार गाइड के बा",
+    "appTitle": "ऐप में एकरा के चलाईं",
+    "appText": "मुफ्त गोल्डन मोमेंट्स ऐप में बड़ टाइल्स अवुरी आपके खुद के पारिवारिक फोटो के संगे कोमल तस्वीर मिलान बा, अवुरी इ बिना वाई-फाई के काम करेला। आईफोन, आईपैड अवुरी एंड्रॉयड के नाम से जानल जाला।",
+    "photoAppTitle": "आपन फोटो तइयार राखीं",
+    "photoAppText": "मुफ्त गोल्डन मोमेंट्स ऐप में रउआ जवन फोटो चुनीले उ अगिला बेर आपके डिवाइस प रहेला अवुरी गेम बिना वाई-फाई के काम करेला। आईफोन, आईपैड अवुरी एंड्रॉयड के नाम से जानल जाला।",
+    "goodToKnow": "जान के अच्छा लागल",
+    "goodToKnowText": "ई खेल मजा आ एक संगे बितावे खातिर बा। एकरा में कवनो चीज के परीक्षण, नाप-जोख भा इलाज ना होखेला।",
+    "moreGames": "अउरी कोमल खेल बा",
+    "crumb": "खेल के खेलल जाला"
   }
 }

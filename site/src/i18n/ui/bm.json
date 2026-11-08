@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Tɛmɛ ka taa kunnafoni kunbabaw kan",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Hakilila-jɔ-baaraw",
+    "homeLabel": "Golden Moments ka so",
+    "mainNav": "Kunbaba",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Bamanankan",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Sanu waatiw : te tasa, tilebɔlan ani wulu ja belebelebaw, teriya siratigɛ la",
+    "languages": "Kan",
+    "englishOnly": "(Angilɛtɛri)",
+    "machineTranslated": "Nin ɲɛ in bamanankanna a yɛrɛma, wa a ma Lajɛ fɔlɔ kanfɔla dɔ fɛ.",
+    "readOriginal": "A sɛbɛn fɔlɔ kalan tubabukan na",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Tulonkɛw",
+      "activities": "Baaraw",
+      "caregiving": "Ladonni",
+      "brainHealth": "Sugunɛ kɛnɛya"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
+    "faqTitle": "Ɲininkaliw ni jaabiw",
+    "breadcrumb": "Buruburu min bɛ kɛ",
+    "home": "So",
     "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "topics": "Barokunw",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Sɛbɛnni hakɛ",
+      "smaller": "Sɛbɛnni min bɛ kɛ ka kɛɲɛ ni sariya ye",
+      "larger": "Sɛbɛnni belebelebaw",
+      "contrast": "Danfara min ka bon kosɛbɛ"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Tulon kɛ",
+    "picturePairs": "Ja fila-fila",
+    "conversationCards": "Baro kartiw",
+    "pictureBingo": "Ja bingo",
+    "allGames": "Tulon bɛɛ",
+    "pictures": "Ja minnu ka kan ka sɛbɛn",
+    "activityIdeas": "Baarakɛcogo hakilinaw",
+    "ideas101": "101 baarakɛcogo hakilinaw",
+    "lateStage": "Baara minnu bɛ kɛ kɔfɛ",
+    "printable": "Baara minnu bɛ se ka sɛbɛn",
+    "allActivities": "Baara bɛɛ",
+    "forCaregivers": "Ladonbagaw kama",
+    "playTogether": "Tulon kɛ ɲɔgɔn fɛ cogo min na",
+    "selfCare": "Ka i janto i yɛrɛ la",
+    "brainHealth": "Sugunɛ kɛnɛya ɲinini",
+    "faq": "Ɲininkaliw ni jaabiw",
+    "about": "Kan",
+    "approach": "An ka fɛɛrɛ",
+    "howWeWrite": "An bɛ sɛbɛnni kɛ cogo min na",
+    "organizations": "Jɛkuluw kama",
+    "app": "Aplikasi min tɔgɔ ye ko Golden Moments",
+    "appHelp": "App dɛmɛni",
+    "support": "Sɛmɛjiri",
+    "legal": "Dagalen",
+    "sitePrivacy": "Site web ka gundolakow",
+    "appPrivacy": "App ka kunnafoniw maracogo sariya",
+    "privacyChoices": "Sugandili minnu bɛ kɛ ka ɲɛsin mɔgɔ dogolenw ma",
+    "terms": "Sariyaw ani app lase",
+    "safety": "Lakanali ni baara kɛcogo laɲininen",
+    "accessibility": "Sɔrɔcogo",
+    "healthNotice": "Kɛnɛya kunnafoniw kunnafoni",
+    "allLegal": "Sariya kunnafoniw bɛɛ",
+    "note": "Golden Moments bɛ baara nɔgɔmanw kɛ ɲɔgɔn fɛ walasa ka ɲɛnajɛ kɛ. O tɛ dɔgɔtɔrɔ ka laadilikan ye, sɛgɛsɛgɛli walima furakɛli, wa a tɛ mɔgɔ si sɛgɛsɛgɛ, ka a suman walima ka a jate. Kɛnɛya ɲininkaliw kama, aw bɛ kuma dɔgɔtɔrɔ dɔ fɛ. Ni kɔrɔtɔko dɔ kɛra, aw bɛ telefɔni 911 wele.",
+    "publisher": "A bɔra Cloudjet Solutions Pte fɛ. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Dementia & Alzheimer's Tulonkɛ ni a kɛcogo | Sanu waatiw",
+    "description": "Ja tulon fu, dususumaninw ka tulon kɛ ɛntɛrinɛti kan ani baarakɛcogo hakilinaw hakiliɲagami walima Alzheimer bana bɛ mɔgɔ minnu na ani u ladonbagaw ye.",
+    "eyebrow": "Furu · Piblisite tɛ · I tɔgɔ sɛbɛnni tɛ · Waati jatebɔ walima jatebɔ tɛ",
+    "h1": "Tulonkɛ ni baara nɔgɔlenw hakiliɲagami bana bɛ mɔgɔ minnu na",
+    "lede": "Ja tulon nɔgɔmanw, fotow dɔntaw, ani baara minnu bɛ kɛ ɲɔgɔn fɛ—i yɛrɛ ka teliya la.",
+    "playGame": "Tulonkɛ dɔ kɛ",
+    "findIdeas": "Baarakɛcogo hakilinaw ɲini",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "A bɛ baara kɛ telefɔni, tablɛti ani ɔridinatɛri kan",
+      "Ja belebelebaw minnu bɛ to ka jira",
+      "Aw bɛ a jɔ waati o waati; foyi tɛ yen min bɛ se ka dɛsɛ"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Ani fana, appli fu ye iPhone, iPad ani Android kama, n’i yɛrɛ ka denbaya jaw ye",
+    "albumNote": "“Te tasa ja fila, ɲɔgɔn fɛ.”",
+    "gamesEyebrow": "Tulon kɛ i ka navigatɛri kɔnɔ",
+    "gamesTitle": "Tulon minnu bɛ se ka kɛ sisan yɛrɛ",
+    "gamesLede": "U kelen-kelen bɛɛ hakili sigilen don, u ye baliku ye ani u bɛ daminɛ joona. Aw bɛ kelen sugandi, ka sigi kɛrɛfɛ, ka ɲɔgɔn falen-falen ka gosi.",
+    "seeAllGames": "Aw ye a bɛɛ lajɛ {count} tulonkɛw",
+    "howTitle": "A bɛ baara kɛ cogo min na",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Fɛn dɔ sugandi min bɛ i dɔn",
+        "text": "Te tasaw, nakɔw, sokɔnɔbaganw ani kurunbaw ja. Kalan walima sariya si tɛ yen min ka kan ka kalan fɔlɔ."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Aw bɛ sigi kɛrɛfɛ",
+        "text": "A to u ka digi. Kuma jaaw kan. Mismatch bɛ dɔrɔn ka tap nata makɔnɔ."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Aw bɛ a jɔ ka a sɔrɔ a bɛ mɔgɔ dusu diya",
+        "text": "Tulon kelen ye baara dafalen ye. “Done for now” bɛ sɔrɔ ekran kan tuma bɛɛ."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Ekran kɔfɛ",
+    "stageTitle": "Baara hakilinaw dakun kelen-kelen bɛɛ kama",
+    "stageLede": "Misikili, don o don baara, hakilijigin ani dusukunnataw waati lafiyalenw, minnu bɛ ladamu ka kɛɲɛ ni fɛn ye min bɛ mɔgɔ dusu lafiya sisan.",
+    "ideas101": "101 baarakɛcogo hakilinaw",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "A daminɛ na",
+        "text": "U bɛ fɛn minnu kanu, aw ka to k’o kɛ, ni ladilanni misɛnninw ye: ɲɛnajɛw, bɔli, daɲɛ tulonw ani labɛnni ɲɔgɔn fɛ.",
+        "label": "Hakilina minnu bɛ daminɛ daminɛ na"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Cɛmancɛ-taama",
+        "text": "Baara nɔgɔmanw, minnu bɛ dɔn, minnu tilalen don senfɛ-senfɛ: foli, u tila-tila, dɔnkilida, ja tulonw ani taama surunw.",
+        "label": "Hakilina minnu bɛ cɛmancɛ la"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Kɔfɛ",
+        "text": "Dususalo ni jɛɲɔgɔnya magali fɛ, mankan ni yecogo fɛ: bolo ladonni, dɔnkili dumanw, fotow ani ka kɛ ɲɔgɔn fɛ.",
+        "label": "Hakilina minnu bɛ sɔrɔ kɔfɛ"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "I bɛ fɛn kɛrɛnkɛrɛnnen dɔ ɲinina wa? Ka kɔrɔbɔ <a href=\"/activities/alzheimers/\">baaraw ni tulonw kɛli Alzheimer bana kama</a>, . <a href=\"/activities/memory-games/\">hakilijagabɔ tulon minnu bɛ kɛ ni dususuma ye</a>, . <a href=\"/activities/trivia/\">trivia nɔgɔmanw</a> walima <a href=\"/activities/puzzles/\">puwɛntiw (puzzles).</a>.",
+    "approachEyebrow": "An ka fɛɛrɛ",
+    "approachTitle": "Baara min bɛ kɛ ɲɔgɔn fɛ, a tɛ kɛ hakilijagabɔ sɛgɛsɛgɛli ye",
+    "approachLede": "“Sugunɛ tulon” caman jɔlen bɛ teliya, jatebɔ ani sɛrɛkiliw de kan. Mɔgɔ min bɛ balo ni hakiliɲagami ye min bɛ se ka kɛ i n’a fɔ sɛgɛsɛgɛli. An ye a kɔfɛta jɔ.",
+    "approachLink": "Mun na an b’a dilan nin cogo in na",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Foyi tɛ yen min bɛ se ka dɛsɛ",
+        "text": "Waati, jate, ɲɛnamaya walima bɔnɛ si tɛ yen. Ja wɛrɛ ye lafiɲɛ ye, a tɛ fili ye."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Jaw bɛ to ka jira",
+        "text": "Dɔnniya sɔrɔli hakilijigin kan. Match bɛ daminɛ ɲɛda sanfɛ, o la foyi tɛ yen min ka kan ka to an hakili la."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Mɔgɔkɔrɔba ani mɔgɔ bonyalen",
+        "text": "Daɲɛ dumanw, daɲɛ jɛlenw ani diɲɛ ja lakikaw. Aw kana dessin animé walima denmisɛnninw ka kuma abada."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Kɛrɛnkɛrɛnnenya la, a dilannen don",
+        "text": "Konte walima piblisite si tɛ yen. I ka fotow tɛ bɔ i ka minɛn kɔnɔ abada."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ladonbagaw kama",
+    "guidesTitle": "Ladilikan nafamaw don o don ladonni na",
+    "allCaregiving": "Ladonni ɲɛminɛbagaw bɛɛ",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Tulon kɛ ɲɔgɔn fɛ cogo min na",
+        "text": "Aw ye aw labɛn, aw ka taama, ani aw ka kan ka min kɛ ni tulon dɔ ye ɲɛnajɛ dabila."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Ni u ko ayi baara dɔ la",
+        "text": "Kun minnu ka teli ka ban, ani fɛɛrɛ nɔgɔman minnu bɛ se ka segin ka a lajɛ kɔfɛ."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Tablɛti dɔ sigili",
+        "text": "Sɛbɛnni ka bon, tigɛli dɔɔnin ani sokɔnɔ-ekran nɔgɔman kelen."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Baara minnu bɛ se ka sɛbɛn fu",
+        "text": "Daɲɛw ɲinini sɛbɛn belebelebaw, kulɛri sɛbɛnw, bingo ani baro kartiw."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Sugunɛ kɛnɛya: ɲinini bɛ min fɔ tiɲɛ na",
+    "researchText": "Yala hakiliɲagami bɛ se ka bali wa? Yala hakili tulonw bɛ dɛmɛ don wa? Sunɔgɔ, dumunikɛcogo, sunɔgɔ ani mɛnni dun? Jaabi jɛlenw, minnu bɛ bɔ yɔrɔ la, daliluw barika ka dɔgɔ yɔrɔ minnu na, olu fana sen bɛ o la.",
+    "researchLink": "Sɛgɛsɛgɛli gafew kalan",
+    "appEyebrow": "Ani fana appli (application) dɔ",
+    "appTitle": "Sanu waatiw iPhone, iPad ani Android kan",
+    "appText": "O porogramu fu bɛ baara kɛ ni ɛntɛrinɛti tɛ, wa i bɛ se ka baara kɛ ni denbaya ka fotow ye i ye minnu sugandi, minnu maralen bɛ iko kopiw i ka minɛn kɔnɔ. O cogo kelen na min bɛ kɛ ni hakilisigi ye: tile belebele naani, waati jatebɔlan tɛ yen, jatebɔlan tɛ yen.",
+    "aboutApp": "Application in ko la",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Tulon ɲumanw ye jumɛnw ye hakiliɲagami bɛ mɔgɔ minnu na?",
+        "a": "Tulon ɲumanw ka nɔgɔn, u bɛ dɔn ani degun tɛ u la : ja belebelew walasa u ka bɛn ɲɔgɔn ma, u tila-tila, jigsaw nɔgɔmanw, kuma lakodɔnnenw banbaliw, kulɛriw, ja bingo ani baro kartiw. Sugandili min ka fisa, o ye sugandili ye min ka di a tigi ye bi. Aw bɛ aw yɛrɛ tanga waati jateminɛnanw, jatew ani fɛn o fɛn bɛ i n’a fɔ kɔrɔbɔli."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Yala nin hakiliɲagami tulonw tɛ sara wa?",
+        "a": "Awɔ. Tulon bɛɛ ani min bɛ se ka sɛbɛn Golden Moments kan, o bɛɛ ye fu ye, jatebɔ, i tɔgɔ sɛbɛnni walima telesarse tɛ yen. Tulonw bɛ kɛ ɛntɛrinɛti yɔrɔ la telefɔni, tablɛti walima ɔridinatɛri kan."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Yala hakili tulonw bɛ hakiliɲagami bali wa?",
+        "a": "Tulon si ma jira min bɛ se ka hakiliɲagami bali, wa Golden Moments t’a fɔ ko a bɛ foyi furakɛ walima k’a bali. An ka tulonw ye ɲɛnajɛ ni waati ye ɲɔgɔn fɛ. An ka hakili kɛnɛya yɔrɔ bɛ a ɲɛfɔ ɲininiw bɛ min jira ani u tɛ min jira."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Yala nin tulon ninnu bɛnnen don Alzheimer bana bɛ mɔgɔ min na wa?",
+        "a": "Awɔ. Alzheimer bana ye hakiliɲagami sababu ye min ka teli ka kɛ, wa tulonw bɛ kɛ o kama: ja belebelebaw minnu bɛ to ka jira, sugandili man ca, ani foyi tɛ mɔgɔ hakili la walima ka fili. Kuma dɔntaw bɛnni, u tilatilali ani u banbali bɛ tali kɛ dɔnniya la min bɛ mɔgɔ bolo kabini tuma jan sanni ka kɛ kalan kura ye."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Hakiliɲagami bana bɛ mɔgɔ min na kɔfɛ, yala o tigi bɛ se ka baara kɛ ni o baara ninnu ye wa?",
+        "a": "Tuma caman na, ɔwɔ, ni mɔgɔ dɔ bɛ u kɛrɛfɛ. A daminɛ ni O kelen ɲini ni ja fila ye, Ja fila ni tile naani, kulɛri ɲɛ walima ninakili lafiyalen. Aw bɛ a surunya, ka tugu u ka ɲɛminɛni kɔ ani ka jɔ ni u ye bɛrɛ sɔrɔ."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Yala ne ka kunnafoniw ye mɔgɔ kelen ta ye wa?",
+        "a": "Site in tɛ ni jatew ye ani piblisite si tɛ yen. An bɛ baara kɛ ni Google Analytics ye walasa k’a faamu ɲɛ minnu bɛ lajɛ. I ye foto minnu sugandi Foto fila-fila kama, olu bɛ jira i ka navigatɔrɔ dɔrɔn de kɔnɔ, wa u tɛ bila abada."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Jɔn de bɛ Golden Moments dilan?",
+        "a": "Golden Moments ye jɛkulu fitinin ye min bɛ balikuw ka ja baara lafiyalenw kɛ, minnu bɛ kɛ denbayaw ni ladonbagaw ye, ɛntɛrinɛti kan ani i n’a fɔ porogaramu fu. An tɛ dɔgɔtɔrɔw ye, wa foyi tɛ yan min ye dɔgɔtɔrɔw ka laadilikanw ye."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "joona",
+    "middle": "cɛmancɛ",
+    "late": "kɔfɛ",
+    "hintOne": "Tuma caman na, a bɛ bɛn {list} dakun",
+    "hintMany": "Tuma caman na, a bɛ bɛn {list} etapew (dakunw).",
+    "labelEarly": "A daminɛ na",
+    "labelMiddle": "Cɛmancɛ-taama",
+    "labelLate": "Kɔfɛ"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Nin tulon in ko la",
+    "printable": "A bɛ se ka sɛbɛn",
+    "play": "Tulon kɛ {name} →",
+    "readGuide": "Gafe in kalan"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Yala i labɛnnen don tulon dususuman dɔ kama wa?",
+    "text": "Ja belebelebaw, waati jatebɔlan tɛ yen, jatebɔ tɛ yen ani foyi tɛ yen ka i tɔgɔ sɛbɛn. Tulon kɛ ɲɔgɔn fɛ aw ka navigatɔrɔ kɔnɔ.",
+    "play": "Tulonkɛ dɔ kɛ",
+    "all": "Tulon bɛɛ lajɛ",
+    "aria": "Tulonkɛ dɔ kɛ"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
-    "appStoreShort": "App Store",
-    "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "title": "Aw ka taa ni nin tulon ninnu ye aw fɛ",
+    "text": "Golden Moments porogaramu fu min bɛ kɛ iPhone, iPad ani Android kama: ja tile belebelebaw, tulon minnu bɛ kɛ ni i yɛrɛ ka denbaya ja ye, ani ja pake minnu bɛ baara kɛ ni Wi‐Fi tɛ. Jatebɔ, piblisite, waati jatebɔlan walima jatebɔ tɛ.",
+    "appStore": "Aw k’a sɔrɔ App Store kan",
+    "googlePlay": "Aw k’a sɔrɔ Google Play kan",
+    "appStoreShort": "App Store (Aplikasiyɔnw dilanyɔrɔ).",
+    "googlePlayShort": "Google Play kan",
+    "about": "Application in ko la",
+    "aria": "Aw ye appli sɔrɔ"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Baaraw",
+      "title": "Baara minnu bɛ kɛ hakiliɲagamibana bɛ mɔgɔ minnu na",
+      "seo": "Baara minnu bɛ kɛ hakiliɲagamibana bɛ mɔgɔ minnu na: Hakilinaw ka kɛɲɛ ni taabolo ye",
+      "description": "Baara hakilinaw hakiliɲagami bana bɛ mɔgɔ minnu na waati bɛɛ la: dɔnkilida, hakilijigin, don o don baara, dusukunnata waatiw, bololabaara, kɛnɛyako ani sɛbɛnni fu.",
+      "lede": "Baara kɔrɔ ye fɛn o fɛn ye min bɛ na ni dususalo ye, kuntilenna walima jɛɲɔgɔnya waati. A daminɛ ni fɛn ye min diyara a tigi ye tuma bɛɛ, ani k’o ladamu ka kɛɲɛ ni bi ye."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Ladonni",
+      "title": "Ladonni gafew",
+      "seo": "Hakiliɲagami bana ladonni gafew: Don o don dɛmɛ nafama",
+      "description": "Ladilikan nafamaw, ɲumanw hakiliɲagami ladonbagaw ye: tulon kɛli ɲɔgɔn fɛ, kumaɲɔgɔnya, ban, tilegan fɛ lafiyabaliya, tablɛtiw, porogaramuw sugandili ani yɛrɛladonni.",
+      "lede": "Dɛmɛ jɛlen, nafama don o don waatiw la, minnu bɛ kɛ ka mɔgɔ ladon min bɛ hakiliɲagami bana na, i yɛrɛ ladonni fana sen bɛ o la."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Sugunɛ kɛnɛya",
+      "title": "Sugunɛ kɛnɛya: Sɛgɛsɛgɛliw bɛ min fɔ",
+      "seo": "Sugunɛ kɛnɛya ni hakiliɲagami farati: Sɛgɛsɛgɛliw bɛ min fɔ",
+      "description": "Yala hakiliɲagami bɛ se ka bali wa? Gafe lakikaw, minnu bɛ bɔ yɔrɔ la, minnu bɛ hakiliɲagami faratiw, hakili tulonw, sunɔgɔ, dumunikɛcogo, farikoloɲɛnajɛ, sunɔgɔ.",
+      "lede": "Kalanbaw bɛ min jira tiɲɛ na hakiliɲagami farati dɔgɔyali kan, o ɲɛfɔra ka jɛya, daliluw barika ka dɔgɔ yɔrɔ minnu na walima u ɲagaminen don yɔrɔ minnu na, olu fana sen bɛ o la. Kunnafoni caman, a tɛ kɛ dɔgɔtɔrɔso laadilikanw ye."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "A kɛra fɛn kura ye",
+    "minuteRead": "{n} miniti kalan",
+    "byTeam": "Golden Moments ekipu fɛ",
+    "howWeWrite": "An bɛ sɛbɛnni kɛ cogo min na",
+    "shortAnswer": "Jaabi surun",
+    "onThisPage": "Nin ɲɛ in kan ({n} dakunw) .",
+    "commonQuestions": "Ɲininkali minnu bɛ kɛ tuma caman na",
+    "sources": "Sosow (Sɔrɔyɔrɔw).",
+    "sourcesNote": "An bɛ jɛɲɔgɔnya kɛ ni jɛkuluw ni kalanw ye nin ɲɛ in bɛ a jigi da minnu kan. U kelen-kelen bɛɛ tun bɛ lajɛ ni ɲɛ in tun bɛ ladamu.",
+    "tryTogether": "Aw ye a ɲini ɲɔgɔn fɛ",
+    "relatedGuides": "Gafe minnu bɛ tali kɛ o ko la",
+    "related": "Ka talikɛ",
+    "startHere": "A daminɛ yan"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Kɛnɛya kunnafoniw kunnafoni",
+    "title": "Kunnafoni caman, a tɛ kɛ dɔgɔtɔrɔso laadilikanw ye",
+    "textHtml": "Nin ɲɛ in bɛ ɲininiw lajɛlenw lajɛ minnu bɔra denbayaw ye. A tɛ se k’a fɔ i ye min bɛnnen don mɔgɔ kelen ma. Aw bɛ kuma dɔgɔtɔrɔ dɔ fɛ sani aw ka dumunikɛcogo, farikoloɲɛnajɛ, sunɔgɔ, fura walima dumuni dafalanw Changer. Ni hakili ɲagami barikama don walima ni fɛn wɛrɛw bɛ yeli kɛ yɔrɔnin kelen, aw bɛ dɔgɔtɔrɔ ka dɛmɛ ɲini o yɔrɔnin bɛɛ. <a href=\"/medical-disclaimer/\">Aw ye an ka kɛnɛya kunnafoniw kunnafoni kalan</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Baara min bɛ kɛ ɲɔgɔn fɛ, a tɛ kɛ hakilijagabɔ sɛgɛsɛgɛli ye",
+      "seoTitle": "Sanu waatiw ko la: An ka fɛɛrɛ",
+      "description": "Mun na Golden Moments tulonw tɛ ni waati jateminɛnanw ye, jatew walima sɛrɛkiliw tɛ u la, mun na jaw bɛ to ka jira, ani an bɛna min fɔ hakiliɲagami ko la ani an.",
+      "crumb": "An ka fɛɛrɛ",
+      "lede": "Golden Moments bɛ balikuw ka ja baara kɛ ni hakilisigi ye, ladonbaga ni hakiliɲagami bana bɛ mɔgɔ min na, olu bɛ se ka minnu diyabɔ ɲɔgɔn fɛ.",
+      "bodyHtml": "<h2>An dalen bɛ min na</h2><p>Baara dɔ kun ye waati yɛrɛ ye: baro, nisɔndiya, wasa sɔrɔli ja fila bilali ɲɔgɔn na, walima ka sigi kɛrɛfɛ dɔrɔn. O tɛ ka mɔgɔ si suman, k’u gɛlɛya ka taa a fɛ walima ka fɛn dɔ jira.</p><p>Sugunɛ-dege-porogaramu caman dabɔra teliya, jatew, sɛrɛkiliw ani nivow lamini na. Mɔgɔ min bɛ balo ni hakiliɲagami ye min bɛ se ka kɛ i n’a fɔ sɛgɛsɛgɛli u tɛ se ka tɛmɛ. An ye a kɔkanna labɛn, wa an b’an yɛrɛ minɛ nin sariyaw la:</p><ul><li><strong>Foyi tɛ yen min bɛ se ka dɛsɛ.</strong> Waati, jate, lamaga jatebɔ, ɲɛnamaya, streak, konfeti walima jatebɔ kɔfɛ, si tɛ ekran si kan.</li><li><strong>Dɔnniya sɔrɔli hakilijigin kan.</strong> Jaw bɛ to ka jira ka kɛɲɛ ni u ka ɲɛnamaya kɛcogo ye. Laɲiniw bɛ baro wele ani ka tɔgɔw walima hakilijiginw ɲininkali kɛ abada.</li><li><strong>A ka bon, a jɛlen don ani a sabatilen don.</strong> Sɛbɛnni ni ja belebelebaw, danfaraba, ani kunnafoni minnu bɛ to yɔrɔ kelen na.</li><li><strong>Baliku ka bonya.</strong> Ja lakikaw ani kuma jɛlenw ni kuma dumanw. Dessin animé, dɔnkili-dɔnkili tanuli walima emoji sara si tɛ yen.</li><li><strong>Bɔyɔrɔ nɔgɔn dɔ.</strong> “A kɛra sisan” bɛ ye tuma bɛɛ. Ka jɔ sira tilancɛ la, o ye nɔ ɲuman ye.</li><li><strong>Kɛrɛnkɛrɛnnenya la, a bɛ kɛ cogo min na.</strong> Konte walima piblisite si tɛ yen. I bɛ foto minnu sugandi, olu bɛ to i ka minɛn kɔnɔ.</li></ul><h2>An tɛ min fɔ</h2><p>An ka tulonw ye ɲɛnajɛ ni jɛɲɔgɔnya de kama. U tɛ hakiliɲagami walima Alzheimer bana sɛgɛsɛgɛ, ka a sɛgɛsɛgɛ, ka a suman, ka a furakɛ, ka a sumaya walima ka a bali, wa mɔgɔ si man kan k’u sugandi o kun na. Ni an ye sɛbɛnni kɛ ɲininiw kan an ka... <a href=\"/brain-health/\">hakili kɛnɛya ɲɛw</a>, an b' a fɔ k' a jɛya daliluw barika ka dɔgɔ yɔrɔ min na , wa an t' o siri an yɛrɛ ka tulonw na abada .</p><h2>An ye mɔgɔ minnu ye</h2><p>Golden Moments ye ekipu fitinin ye min yɛrɛmahɔrɔnyalen don. An tɛ dɔgɔtɔrɔw ye. An ka gafew sɛbɛnna ka bɔ laadilikanw na minnu bɔra jɛkuluw fɛ i n’a fɔ National Institute on Aging ani Alzheimer’s Association, ani gafe bɛɛ b’a sɔrɔyɔrɔw fɔ. Ka kalan <a href=\"/editorial-policy/\">an bɛ sɛbɛnni kɛ cogo min na ani k’an ka ɲɛw lajɛ</a>.</p><h2>Fɛn min tun bɛna an dɛmɛ, o fɔ an ye</h2><p>An b’a fɛ k’a mɛn fɛn minnu bɛ baara kɛ aw ye ani minnu tɛ baara kɛ aw ye, kɛrɛnkɛrɛnnenya la ka bɔ hakiliɲagami bana bɛ mɔgɔ minnu na, denbaya ladonbagaw ani baarakɛlaw fɛ. Email (Email) ci <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "An bɛ an ka ɲɛw sɛbɛn ani k’u lajɛ cogo min na",
+      "seoTitle": "Editorial Politiki min bɛ kɛ",
+      "description": "Golden Moments bɛ ɲinini kɛ cogo min na, k’a sɛbɛn, k’a ka hakiliɲagami baara n’a ka hakili kɛnɛya ɲɛw sɔrɔ ani k’u kuraya, ani an tɛna minnu bɔ abada.",
+      "crumb": "Editorial politiki",
+      "bodyHtml": "<h2>An ka sɔrɔyɔrɔw</h2><p>An b’an ka gafew sinsin foroba laadilikanw kan minnu bɛ bɔ jɛkuluw fɛ i n’a fɔ jamana ka kɔrɔya baarada, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance ani NHS, ani ɲininiw kan minnu lajɛra ɲɔgɔn fɛ i n’a fɔ Cochrane ka seginnkanni ani kɛnɛyaso sɛgɛsɛgɛlibaw. Gafe bɛɛ bɛ a jigi da sɔrɔyɔrɔ minnu kan, a bɛ olu fɔ. An bɛ sɔrɔyɔrɔ kelen-kelen bɛɛ da wuli ka sɔrɔ k’a fɔ, wa a bɛ min fɔ tiɲɛ na, an bɛ o dɔrɔn de fɔ.</p><h2>An bɛ sɛbɛnni kɛ cogo min na</h2><ul><li>Fɛn fɔlɔ min bɛ se ka kɛ: an ka kan ka min kɛ bi, kan jɛlen na.</li><li>Tiɲɛni daliluw ko la : an b’a fɔ ko “min ni ɲɔgɔn cɛ”, “a bɛ se ka kɛ” ani “dalilu ɲagaminen don” k’a sɔrɔ o de ye tiɲɛ ye.</li><li>Bonya: an bɛ sɛbɛnni kɛ hakiliɲagami bana bɛ mɔgɔ minnu na balikuya la, wa an tɛ baara kɛ ni ɲininkali walima maloyakan ye abada.</li><li>Kɔnɔkow dabɔlen tɛ: jatebɔ, kuma fɔlenw, dɔnnikɛlaw, kalanw, seginnkanniw walima seereya dabɔlenw tɛ.</li></ul><h2>Min bɛ an ka ɲɛw lajɛ</h2><p>Ɲɛw bɛ sɛbɛn ani ka lajɛ Golden Moments jɛkulu fɛ, ni dɛmɛ ye ka bɔ AI sɛbɛnnikɛminɛnw na walasa ka ɲinini kɛ ani ka sɛbɛnni kɛ. Ɲɛ kelen-kelen bɛɛ bɛ Lajɛ n’a sɔrɔyɔrɔw ye ekipu fɛ. An ka ɲɛw ye... <strong>ayi</strong> a lajɛra dɔgɔtɔrɔ walima dɔgɔtɔrɔ wɛrɛ fɛ, wa an t’a fɔ ko o tɛ. U ye kunnafoniw bɛɛ ye, u tɛ dɔgɔtɔrɔw ka laadilikanw ye.</p><h2>An tɛna min bɔ kɛnɛ kan abada</h2><ul><li>A b’a fɔ ko tulonkɛ, dumuni, dumuni dafalan, teliya walima kɛcogo bɛ hakiliɲagami bali, k’a furakɛ, k’a sumaya walima k’a furakɛ.</li><li>Kɔrɔbɔliw, ɲininkaliw walima jatew minnu b’a jira ko hakiliɲagami bɛ mɔgɔ dɔ la, walima hakiliɲagami tɛ a la.</li><li>Ladilikanw ka fura o fura daminɛ, ka a dabila walima ka a Changer.</li><li>Piblisite walima kunnafoni minnu bɛ dɛmɛ sɔrɔ, n’u bɛ u yɛrɛ kɛ bilasirali ye.</li></ul><h2>Kunnafoni kuraw ni ladilanniw</h2><p>Ɲɛ kelen-kelen bɛɛ b’a jira don min na a kurayara laban na. Ni aw ye fili dɔ sɔrɔ walima ni sɔrɔyɔrɔ dɔ kɛra min waati tɛmɛna, aw bɛ se ka bataki ci <a href=\"mailto:{email}\">{email}</a> ani an bɛna a lajɛ joona.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Ɲininkaliw ni jaabiw",
+      "seoTitle": "Hakiliɲagami tulonw ni walew: Ɲininkaliw ni jaabiw",
+      "description": "Ɲininkali minnu bɛ kɛ tuma caman na hakiliɲagami tulonw ni walew kan, olu jaabiw: tulon minnu ka kan ka kɛ, u ka kan ka tulon kɛ waati hakɛ min na, hakilina minnu.",
+      "crumb": "Ɲininkaliw ni jaabiw",
+      "lede": "Ladonbagaw bɛ ɲininkali minnu kɛ kosɛbɛ, jaabi surunw ni jɛlenw.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Tulonkɛw ko la",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Tulon jumɛnw ka fisa ni hakiliɲagamibana bɛ mɔgɔ min na?",
+              "a": "Tulon minnu ka fisa ni tɔw bɛɛ ye, olu bɛ dɔn, u ka nɔgɔn ani u tɛ degun sɔrɔ, wa tulon ɲuman ye fɛn o fɛn ye min ka di a tigi ye bi. Jaw bɛnni ni ja yetaw ye, u tila-tila, jigsaw nɔgɔmanw, kuma dɔntaw banbali, kulɛriw ni ja bingo bɛɛ bɛ baara kɛ ka ɲɛ mɔgɔ caman bolo. Aw bɛ aw yɛrɛ tanga waati jateminɛnanw, jatew ani fɛn o fɛn bɛ i n’a fɔ kɔrɔbɔli."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Yala tulonw ye fu ye tiɲɛ na wa?",
+              "a": "Awɔ. Tulonw ni sɛbɛnw bɛɛ ye fu ye, jatebɔ, i tɔgɔ sɛbɛnni, telesarse walima piblisite tɛ yen."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Mun na jatebɔw, nivow walima waati jatebɔlanw tɛ yen?",
+              "a": "Teliya ni jatew bɛ baara duman dɔ tigɛli kɛ ɛkizamɛn ye, o bɛ se ka na ni maloya walima dusukasi ye. An bɛ an sinsin ɲɛnajɛ ni waati kan ɲɔgɔn fɛ, o la foyi tɛ dɛsɛ wa i bɛ se ka jɔ waati o waati."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Minɛn jumɛnw bɛ baara kɛ ka ɲɛ?",
+              "a": "Telefɔni, tablɛti walima ɔridinatɛri o ɔridinatɛri min bɛ ni bi ɛntɛrinɛti yɔrɔ ye. Tablɛti min bɛ jɔyɔrɔ kan tabali kan, o ka teli ka kɛ fɛɛrɛ ye min ka di mɔgɔ fila ye ka tulon kɛ ɲɔgɔn fɛ. Ɔridinatɛri min sirilen bɛ telewisɔn na, o bɛ baara kɛ koɲuman kuluw fɛ."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Yala an bɛ se ka tulon kɛ ni an yɛrɛ ka denbaya ka fotow ye wa?",
+              "a": "Awɔ. Foto fila-fila bɛ foto 2 ka se 6 ma i bɛ minnu sugandi ka kɛ tulon ye min bɛ bɛn ɲɔgɔn ma. Jaw bɛ to i ka navigatɔrɔ kɔnɔ, wa u tɛ bila walima ka mara."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Baara minnu bɛ kɛ ani ladonni",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Baara dɔ ka kan ka mɛn waati joli kɔnɔ?",
+              "a": "Tuma caman na miniti 10 fo miniti 20 ka ca, tuma dɔw la miniti 2 bɛ kɛ ɲɛtaa ye. Aw bɛ aw janto sɛgɛn walima dusukasi taamasiɲɛw la ani ka a jɔ ka a sɔrɔ a bɛ diya hali bi. Hakɛ bɛnnen tɛ yen."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "N’u t’a fɛ ka baara dɔ kɛ do?",
+              "a": "Aw ye bonya da ayi kan, ka segin ka a ɲini kɔfɛ walima cogo wɛrɛ la. Ban bɛ se ka bɔ sɛgɛn na, dimi fɛ, a dalen tɛ a la walima a ma diya a ye dɔrɔn. Aw ye an ka gafe lajɛ min b’a jira aw ka kan ka min kɛ n’u ko ayi."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Baara jumɛnw bɛ bɛn hakiliɲagami kɔfɛta ma?",
+              "a": "Dususalo ni dusukunnataw : ka dɔnkili dumanw lamɛn, ka bolo magali ni tulu ye, ka fotow lajɛ ɲɔgɔn fɛ, ka finimugu nɔgɔlen dɔ minɛ, ka sigi kɛnɛma, walima ka ja tulon nɔgɔmanba kɛ ni mɔgɔ dɔ ye u kɛrɛfɛ. An ka kɔfɛta gafe kɔnɔ, hakilina caman wɛrɛw bɛ yen."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Yala baara dɔw bɛ kɛ kuluw ye ladonni so kɔnɔ wa?",
+              "a": "Awɔ. Ja bingo bɛ ni kartiw ye minnu bɛ se ka sɛbɛn ani welebaga min bɛ ɛkran kan, ani Finish the saying ani Conversation kartiw bɛ baara kɛ ka ɲɛ ka kalan ni kanba ye. An ka ladonni so kuluw gafe bɛ kulu hakɛ, sigiyɔrɔw ani ladamucogo ɲɛfɔ seko ɲagaminenw kama."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Sugunɛ kɛnɛya",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Yala tulonw bɛ se ka hakiliɲagami bali walima ka a sumaya wa?",
+              "a": "Tulon si ma jira min bɛ hakiliɲagami bali, wa an ka tulonw tɛ o fɔcogo sugu si fɔ. Hakilila lawulili sigida la, o ye nafa misɛnninw jira ɲininiw na hakiliɲagami misɛnni ni hakiliɲagami jugumanba bɛ mɔgɔ minnu na, nka o ni bana kunbɛnni tulon tɛ kelen ye. An bɛ tulonw kɛ walasa ka diya ani ka ɲɔgɔn sɔrɔ."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Yala hakiliɲagami bɛ se ka bali wa?",
+              "a": "A tɛ kɛ ni dannaya ye. Sɛgɛsɛgɛliw bɛ kɛnɛyako ni ɲɛnamaya kɛcogo fɛn 14 ni hakiliɲagami farati cɛsiri, i n’a fɔ mɛnni tiɲɛni, tansiyɔn jiginni, farikoloɲɛnajɛbaliya ani mɔgɔw ma bɔ ɲɔgɔn na. U ɲɛnabɔli bɛ se ka farati dɔgɔya mɔgɔ dɔw ma, nka mɔgɔ caman minnu bɛ fɛn bɛɛ kɛ ka ɲɛ, olu bɛ hakiliɲagami sɔrɔ hali bi. O tɛ mɔgɔ si ka jalaki ye abada."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Yala sunɔgɔ waati ni waati ka ɲi hakili kɛnɛya ma wa?",
+              "a": "Hadamadenw ka daliluw dan ye ani u ka surun, wa ɲinini fanba bɛ kɛ baganw de kan. Sunɔgɔ bɛ se ka kɛ farati ye baliku kɔrɔbaw ma, kɛrɛnkɛrɛnnenya la ni sukarodunbana furaw bɛ a la walima ni a ma laɲini, wa a man ɲi hakiliɲagami bɛ mɔgɔ minnu na. Aw bɛ kuma dɔgɔtɔrɔ dɔ fɛ sani aw ka dumunikɛcogo Changer."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Mɔgɔw ​​ka danbe ani lakana",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Yala aw bɛ kunnafoni dɔw lajɛ wa?",
+              "a": "Konte walima piblisite si tɛ yen. An bɛ baara kɛ ni Google Analytics ye walasa ka taamaw jate ani k’a lajɛ ɲɛ minnu bɛ dɛmɛ, ani i ka navigatɔrɔ b’a hakili to a la n’i ye mankan nɔgɔlenw da. I bɛ foto minnu sugandi Foto fila-fila kama, olu tɛ bila abada. Aw ye dantigɛli sɛbɛn lajɛ walasa ka kunnafoni wɛrɛw sɔrɔ."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Yala nin ye dɔgɔtɔrɔw ka laadilikan ye wa?",
+              "a": "Ayi, Golden Moments ye ɲɛnajɛw ni kunnafoniw bɛɛ lajɛlen ye. Ni aw bɛ kɛnɛyako ɲininkaliw kɛ, aw bɛ kuma dɔgɔtɔrɔ fɛ, ani ni kɔrɔtɔko dɔw kɛra, aw bɛ telefɔni 911 wele."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Fɛn wɛrɛw ɲɛfɔ: <a href=\"/caregiving/how-to-play-together/\">tulonkɛcogo min bɛ kɛ ɲɔgɔn fɛ</a>, . <a href=\"/caregiving/when-they-say-no/\">ni u ko ayi</a>, . <a href=\"/activities/late-stage/\">baara minnu bɛ kɛ kɔfɛ</a> ani <a href=\"/brain-health/can-dementia-be-prevented/\">hakiliɲagami bɛ se ka bali wa?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Tulon minnu bɛ kɛ fu, minnu ka nɔgɔn, olu bɛ kɛ mɔgɔw ye minnu bɛ balo ni hakiliɲagami bana ye",
+      "seoTitle": "Sɛbɛn min bɛ se ka sɛbɛn: Hakiliɲagami tulonw fu Intɛrinɛti kan",
+      "description": "Ɲɛ kelen sɛbɛn min bɛ se ka sɛbɛn denbayaw ni ladonbagaw ye, ja tulon minnu bɛ kɛ fu, minnu bɛ kɛ ni dususuma ye, hakiliɲagami bana bɛ mɔgɔ minnu na, dɛmɛjɛkuluw ni.",
+      "crumb": "Sɛbɛn min bɛ se ka sɛbɛn",
+      "lede": "Aw bɛ nin ɲɛ in sɛbɛn dɛmɛjɛkulu dɔ kama, ladonni pake walima frigo da. Baara kɛ ni i ka navigatɛri ka Print cikan ye; menu ni butɔni bɛ to sɛbɛn bɔlen na.",
+      "introHtml": "<p>Ja belebelebaw, daɲɛ gansanw ani foyi tɛ dɛsɛ. Telefɔni, tablɛti walima ɔridinatɛri kan fu, i tɔgɔ sɛbɛn tɛ yen, piblisite tɛ yen, waati jatebɔlan tɛ yen ani jate tɛ yen. Aw bɛ sigi kɛrɛfɛ ani ka ɲɔgɔn falen-falen.</p>",
+      "gamesTitle": "Tulonw k’a lajɛ ɲɔgɔn fɛ",
+      "restHtml": "<h2>Ladilikan damadɔw</h2><ul><li>Aw bɛ tile waati dɔ sugandi, waati min na o tigi bɛ a ka seko bɛɛ la.</li><li>A daminɛ ni sigicogo nɔgɔman ye. Tile naani ka ca.</li><li>Kuma jaaw kan. Tuma caman na, baro de ye a yɔrɔ bɛɛ la ɲuman ye.</li><li>Aw bɛ a jɔ k’a sɔrɔ a bɛ diya hali bi. Ka ban joona, o ye nɔ ɲuman ye.</li></ul><h2>Fana, site web kan</h2><ul><li>Fɛn minnu bɛ se ka sɛbɛn fu: daɲɛw ɲinini sɛbɛn belebelebaw, kulɛri sɛbɛnw, baro kartiw ani ja bingo.</li><li>Baara hakilinaw dakun kelen-kelen bɛɛ kama, ani ɲɛminɛbagaw tulonkɛcogo kan ɲɔgɔn fɛ ani i yɛrɛ ladonni kan.</li></ul><p class=\"muted\">Walasa ka nisɔndiya ni waati kɛ ɲɔgɔn fɛ. Dɔgɔtɔrɔso laadilikanw, sɛgɛsɛgɛli walima furakɛli tɛ. Golden Moments bɔra Cloudjet Solutions Pte fɛ. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Ka ɲɛsin Ladonsow, Kitabumarasow ani Dɛmɛjɛkuluw ma",
+      "seoTitle": "Hakiliɲagami baara minnu bɛ kɛ fu ladonni sow ni kuluw ye",
+      "description": "Ladonsow, balikuw ka don porogaramuw, gafemarayɔrɔw, mɔgɔkɔrɔbaw ka baaradaw ani dɛmɛjɛkuluw bɛ baara kɛ cogo min na an ka hakiliɲagami tulon fuw, ka fara sɛbɛnni.",
+      "crumb": "Jɛkuluw kama",
+      "lede": "Fɛn o fɛn bɛ nin yɔrɔ in kan, o bɛɛ ye hɔrɔnya ye ka baara kɛ ni dugudenw, tɔndenw ani kiliyanw ye, ni jatebɔ, lase walima sara tɛ. Nin ɲɛ in bɛ min ɲɛfɔ yan ani a tilacogo.",
+      "shortText": "{name}: ja tulonkɛ fu, dususumaninw ani baarakɛcogo ɲɛjiralanw ye hakiliɲagami bana bɛ mɔgɔ minnu na ani u ladonbagaw ye. Sìgiyɔrɔma tɛ, waati jatebɔlan tɛ, jatebla tɛ.",
+      "longText": "{name} ({domain}) bɛ fɛnw di {count} navigatɛri tulon fu minnu dilannen don hakiliɲagami bana bɛ mɔgɔ minnu na, i n’a fɔ fila-fila minnu bɛ bɛn ɲɔgɔn ma ni ja minnu tora k’u jira, jigsaw nɔgɔman, ɲɔgɔndan, kuma dɔntaw ani ja bingo ni kartiw ye minnu bɛ se ka sɛbɛn. Jatebɔ, piblisite, waati jatebɔ walima jatebɔ tɛ yen. O yɔrɔ in na, baarakɛcogo ɲɛjiralanw fana bɛ yen minnu bɛ kan gansan kɔnɔ, hakiliɲagami taamasiɲɛ kelen-kelen bɛɛ kama, minnu bɛ jamana ka kɔrɔya baarada ni Alzheimer ka tɔn tɔgɔ fɔ.",
+      "useTitle": "Jɛkuluw bɛ se ka baara kɛ ni min ye",
+      "gamesItemHtml": "<strong>{count} navigatɛri tulonw</strong> minnu bɛ baara kɛ ɔridinatɛri, tablɛti walima telewisɔn kan min sirilen bɛ ɔridinatɛri la. Installation, account walima telechargé tɛ yen. Ka ye <a href=\"/games/\">tulon bɛɛ</a>.",
+      "printablesLabel": "{count} sɛbɛnnikɛlanw:",
+      "printablesAfter": "Baara kɛ ni Print butɔni ye min bɛ ɲɛ kelen kelen bɛɛ kan.",
+      "moreItemsHtml": "<li><strong>Jɛkuluw cogoyaw:</strong> <a href=\"/games/picture-bingo/\">Ja bingo</a> kartiw bɛ a bolo minnu bɛ se ka sɛbɛn ani welelikɛla min bɛ ekran kan, ani <a href=\"/activities/trivia/\">trivia nɔgɔmanw</a> ɲininkali 50 bɛ a kɔnɔ ni jaabi suganditaw ni kumasenw ye.</li><li><strong>Baarakɛcogo ɲɛjiralanw</strong> baarakɛlaw ni denbayaw kama, ka kɛɲɛ ni taabolo ye ani ka kɛɲɛ ni suguya ye, min sɛbɛnnen don kan gansan na ni sɔrɔyɔrɔw ye. A daminɛ ni <a href=\"/activities/ideas/\">101 baarakɛcogo hakilinaw</a> walima <a href=\"/activities/care-home-groups/\">kulu ka baara kɛtaw ladonni sow kama</a>.</li>",
+      "restHtml": "<h2>Jɛkuluw bɛ baara kɛ n’a ye cogo min na</h2><ul><li><strong>Ladonni so ani hakilijagabɔ ladonni:</strong> ja bingo walima kuma banbali telewisɔn na min bɛ kɛ ɲɔgɔn fɛ, ni mɔgɔ kelen bɛ ka gosi kulu ye.</li><li><strong>Balikuw ka don porogaramuw:</strong> tablɛti jɔyɔrɔ min Ja fila-fila bɛ bila tile naani na, walasa ka kɛ kelen-kelen waati surunw ye.</li><li><strong>Foroba gafemarayɔrɔw:</strong> daɲɛ ɲinini sɛbɛnnenw ni baro kartiw hakilijagabɔlanw kɔnɔ, ani yɔrɔ min bɛ taamasiyɛn kɛ gafemarayɔrɔ tablɛtiw kan.</li><li><strong>Ladonbagaw dɛmɛjɛkuluw ani hakilijagabɔ kafew:</strong> kelen <a href=\"/handout/\">sɛbɛn min bɛ se ka sɛbɛn ɲɛ kelen kɔnɔ</a> denbayaw ka taa n’a ye so.</li><li><strong>Dɔgɔtɔrɔsow ni bɔli bolodabagaw:</strong> sɛbɛn min bɛ ladonbagaw ka pakew kɔnɔ, walasa ka fɛn dɔ kɛ min hakili sigilen don so kɔnɔ walima dilan kɛrɛfɛ.</li></ul><h2>An tɛ min kɛ</h2><p>Tulonw bɛ Kɛ ɲɛnajɛ ni waati ɲɔgɔn fɛ. U tɛ hakiliɲagami bana sɛgɛsɛgɛ, ka a sɛgɛsɛgɛ, ka jate kɛ, ka a furakɛ walima ka a sumaya, wa an b’a ɲini jɛkuluw fɛ u kana u ɲɛfɔ o cogo la. Piblisite si tɛ yen, wa tulonw tɛ tɔgɔw, kɛnɛyako kunnafoniw walima fotow ɲini ka bila. Siti in bɛ baara kɛ ni Google Analytics ye walasa ka taamaw jate; an <a href=\"/privacy/\">gundolakow kunnafoni</a> o bɛ min lajɛ, o bɛ o ɲɛfɔ. Foto minnu bɛ baara kɛ ni... <a href=\"/games/photo-pairs/\">Foto fila-fila</a> to navigatɛri kɔnɔ.</p><h2>Aw ye an fara aw ka nafolomafɛnw lisi kan</h2><p>Ni aw ye nafolomafɛnw lisɛli mara ladonbagaw ye, aw bɛ se ka ɲɔgɔn sɔrɔ <a href=\"/\">{domain}</a>. Aw bɛ se ka o ɲɛfɔli fila la kelen kopi kɛ.</p>",
+      "shortTitle": "Ɲɛfɔli surun",
+      "longTitle": "Ɲɛfɔli min ka jan",
+      "linksHtml": "<p>Nafa bɛ ɲɛ minnu na walasa ka ɲɔgɔn sɔrɔ u la k’a ɲɛsin u ma: <a href=\"/games/\">tulon minnu bɛ kɛ fu</a>, . <a href=\"/activities/printable/\">sɛbɛnw bɛ se ka sɛbɛn fu</a>, . <a href=\"/activities/alzheimers/\">baara minnu bɛ kɛ Alzheimer bana kama</a> ani <a href=\"/caregiving/how-to-play-together/\">tulonkɛcogo min bɛ kɛ ɲɔgɔn fɛ</a>.</p><h2>Ɲininkaliw walima ladilanniw</h2><p>Ni fɛn dɔ bɛ yɔrɔ la min ma ɲɛ walima ni a ma jɛya, walima ni duguden dɔ magow ma ɲɛ ni fɛn ye min bɛ yan, aw k’o fɔ an ye nin yɔrɔ la <a href=\"mailto:{email}\">{email}</a>. Aw kana aw yɛrɛ ka kunnafoniw walima kɛnɛya kunnafoniw ci dugudenw walima u ka kiliyanw kan.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Aplikasi min tɔgɔ ye ko Moments Sanuman",
+      "seoTitle": "The Golden Moments App min bɛ iPhone ni Android kan",
+      "description": "Golden Moments app fu: fotow bɛnkan nɔgɔman ni tile belebele naani ye, denbaya ka fotow maralen i ka minɛn kan, ja pakew minnu tɛ ɛntɛrinɛti kan ani jatebɔ tɛ.",
+      "crumb": "Aplikasiɔn",
+      "lede": "Fɛn o fɛn ka di i ye siti kan, appli kɔnɔ min bɛ baara kɛ ɛntɛrinɛti kɔkan ani min bɛ se ka baara kɛ ni denbaya ka fotow ye i ye minnu sugandi.",
+      "worksOn": "Baara bɛ kɛ kan {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Aw bɛ a daminɛ dɔɔnin dɔɔnin</h2><p>A daminɛ ni tile belebele naani ye ani ja dɔntaw. Aw bɛ jaw to u ka ye, walima aw k’u dogo ni o bɛ aw lafiya. Gentle mode tɛ ni waati jatebɔlan, jatebla walima penaliti ye. Aw bɛ tile 4, 6, 8 walima 12 sugandi.</p><h2>A kɛ i yɛrɛ ta ye</h2><p>Denbaya ka fotow sugandi ni i ka minɛn fototalan ye. O porogramu bɛ kopi fitininw mara a ka baara kɛtaw kama. A tɛ i ka gafemarayɔrɔ sɛgɛsɛgɛ wala k’i ka foto fɔlɔw Changer, wa a bɛ foto 24 mara foto kelen kɔnɔ.</p><h2>Aw ye ɲɔgɔn lajɛ dɔrɔn</h2><p>Aw ye ja kelen lajɛ a waati kelen na. Laɲini minnu bɛ kɛ ni i yɛrɛ sago ye, olu bɛ baro wele k’a sɔrɔ i ma a ɲini mɔgɔ si fɛ a k’a hakili to tɔgɔw la walima ka jaabi ɲuman di. Ka filɛli kɛ dɔrɔn, o bɛ bɔ.</p><h2>Offline yɔrɔ min na a nafa ka bon</h2><p>Daminɛ jaw ni ja pake 8 bɛɛ bɛ sɔrɔ appli kɔnɔ. Fotow kopi minnu bɛ don jamana kɔnɔ, olu bɛ baara kɛ ni ɛntɛrinɛti tɛ. Ni i ye sɛbɛn fɔlɔw sugandi minnu maralen bɛ iCloud dɔrɔn kɔnɔ, o bɛ se ka kɛ ko i mago bɛ ɛntɛrinɛti la.</p><h2>Konte tɛ, foto-sync server tɛ</h2><p>Denbaya ka fotow kopiw bɛ to appli kɔnɔ min bɛ minɛn kan. I bɛ se ka o kopiw bɔ k’a sɔrɔ i ma sɛbɛn fɔlɔw bɔ yen. Minɛnw ka kɔpiw bɛ se ka kɛ ni appli data ye. Aw ye kalan kɛ <a href=\"/app-privacy/\">app ka gundolakow sariya</a>, ani <a href=\"/help/\">app dɛmɛni</a> bɛ taama senna-tɛgɛrɛ kelen-kelen bɛɛ fɛ.</p>",
+      "disclaimer": "Golden Moments ye ɲɛnajɛ ni baro jɛlen ye. A tɛ hakiliɲagami walima Alzheimer bana sɛgɛsɛgɛ, k’a furakɛ, k’a bali walima k’a suman.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Dementia & Alzheimer ka tulonw fu Intɛrinɛti kan",
+    "description": "Tulon minnu bɛ kɛ ɛntɛrinɛti kan fu mɔgɔkɔrɔbaw ye minnu bɛ balo ni hakiliɲagami walima Alzheimer bana ye: jaw bɛnni, jigsaw nɔgɔmanw, u tilacogo, kumaw.",
+    "crumb": "Tulonkɛw",
+    "h1": "Tulon nɔgɔmanw bɛ kɛ hakiliɲagamibana bɛ mɔgɔ minnu na",
+    "lede": "{count} tulon fu minnu bɛ kɛ ɲɔgɔn fɛ i ka navigatɔrɔ kɔnɔ. Ja belebelebaw, daɲɛ gansanw, ani foyi tɛ dɛsɛ: waati jatebɔlanw tɛ yen, jatedenw tɛ yen, tɔgɔsɛbɛnni tɛ yen.",
+    "listName": "Tulon nɔgɔmanw hakiliɲagami bɛ mɔgɔ minnu na",
+    "byStageTitle": "Tulon dɔ sugandili ka kɛɲɛ ni taabolo ye",
+    "byStageLede": "Etapew ye ɲɛjiralan gɛlɛn dɔrɔn de ye. Fɛn min ka di a tigi ye ani min bɛ a yɛrɛ lafiya bi, i ka tugu o kɔ.",
+    "stageCol": "Dakun",
+    "gamesCol": "Tulon minnu bɛ bɛn tuma caman na",
+    "moreHtml": "Hakilina wɛrɛw ka jan ekran kan: <a href=\"/activities/ideas/\">101 baara minnu bɛ kɛ hakiliɲagamibana bɛ mɔgɔ minnu na</a>, . <a href=\"/activities/alzheimers/\">baaraw ni tulonw kɛli Alzheimer bana kama</a>, . <a href=\"/activities/memory-games/\">hakilijagabɔ tulon minnu bɛ kɛ ni dususuma ye</a> ani <a href=\"/activities/puzzles/\">puwɛntiw (puzzles).</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "An ka kan ka tulon jumɛn daminɛ ni tulon jumɛn ye?",
+        "a": "Ja fila ni tile naani ye sugandili fɔlɔ ye min bɛ kɛ ni hakilisigi ye. Ni ja dɔw sugandili bɛ i n’a fɔ a ka ca kojugu, aw bɛ a ɲini ka o kelen sɔrɔ ni ja fila ye. Jɛkulu dɔ fɛ, aw bɛ Picture bingo lajɛ."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Yala tulonw bɛ baara kɛ iPad walima telefɔni kan wa?",
+        "a": "Awɔ. Tulon bɛɛ bɛ baara kɛ navigatɔrɔ kɔnɔ telefɔniw, tablɛtiw ani ɔridinatɛriw kan, wa jaw bɛ bonya walasa ka ekran fa. Tuma caman na, tablɛti min bɛ jɔyɔrɔ kan, o de ka di mɔgɔ fila ye kosɛbɛ."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Yala nin tulon ninnu ka ɲi Alzheimer bana bɛ mɔgɔ min na wa?",
+        "a": "Awɔ. U dabɔra mɔgɔw kama minnu bɛ ni hakiliɲagami bana ye, Alzheimer bana fana sen bɛ o la, o min ka teli ka kɛ a sababu ye. Jaw bɛ to ka jira, sugandili damadɔ dɔrɔn de bɛ yen, wa foyi tɛ waati latigɛ walima ka jate kɛ, o la tulonw bɛ u jigi da fɛn dɔntaw dɔnni kan sanni u hakili ka to fɛn kuraw la."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Yala nin hakilijagabɔ tulonw ye mɔgɔkɔrɔbaw ta ye wa?",
+        "a": "U ye tulonw ye minnu bɛ bɛn ɲɔgɔn ma ani minnu bɛ ja, baliku kɔrɔba bɛɛ bɛ se ka minnu diyabɔ, nka u jɔra walasa u kana hakilijagabɔ kɔrɔbɔ: Ja fila-fila la, jaw bɛ to u ɲɛda sanfɛ fo n’i y’a sugandi cogo wɛrɛ la. An ka gafe min bɛ hakilijagabɔ tulonw kan mɔgɔkɔrɔbaw ye minnu bɛ hakiliɲagami bana sɔrɔ, o bɛ a ɲɛfɔ cogo min na hakilijagabɔ tulon o tulon bɛ to ka kɛ dususuma ye."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Yala tulonw bɛ kɛ kuluw ye ladonni so kɔnɔ wa?",
+        "a": "Awɔ. Ja bingo bɛ ni kartiw ye minnu bɛ se ka sɛbɛn ani welebaga min bɛ ɛkran kan, ani Finish the saying ani Conversation kartiw bɛ baara kɛ ka ɲɛ ka kalan ni kanba ye kulu dɔ ye."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad ani Android",
+    "requirements": "iOS 15 walima a kɔfɛta; Android 7.0 walima a kɔfɛta",
+    "summary": "Porogaramu fu min bɛ kɛ iPhone, iPad ani Android kama ni ja bɛnkan nɔgɔman ye tile belebele naani fo tan ni fila kan, ka bɛn ani k’a lajɛ ni denbaya ka ja ye i bɛ min sugandi, ani ja pake 8 minnu bɛ a kɔnɔ minnu bɛ baara kɛ ni ɛntɛrinɛti tɛ. Jatebɔ, piblisite, waati jatebɔlan walima jatebɔ tɛ.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Ja min bɛ bɛn ni dususuma ye ni tile belebele 4, 6, 8 walima 12 ye; jaw bɛ to ka ye fo n’i y’a sugandi k’u dogo",
+      "I bɛ denbaya ka foto minnu sugandi, olu bɛ kopi kɛ appli kɔnɔ walasa u ka bɛn ɲɔgɔn ma ani ka u lajɛ ɲɔgɔn fɛ",
+      "Aw ye ɲɔgɔn lajɛ ɲɔgɔn fɛ: ja kelen kelen-kelen bɛɛ ni barokɛminɛnw ye minnu bɛ se ka kɛ aw yɛrɛ sago la",
+      "Ja pake 8 bɛ sɔrɔ appli kɔnɔ; u bɛ baara kɛ ɛntɛrinɛti kɔkan",
+      "Konte, piblisite, sanni kɛli app kɔnɔ, waati jatebɔlan, jatebɔ walima jalaki tɛ"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Yala hakiliɲagami baara dɔw app bɛ yen wa?",
+        "a": "Awɔ. Sanu waatiw (a tɔgɔ sɛbɛnnen don ko \"{storeName}\") ye fu ye App Store ani Google Play kan. A bɛ ja bɛnkan nɔgɔman di ni tile belebelebaw ye, tulon minnu bɛ kɛ ni denbaya ja ye i bɛ minnu sugandi, ani ja pake minnu bɛ baara kɛ ɛntɛrinɛti kɔkan."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Yala Golden Moments appli ye fu ye wa?",
+        "a": "Awɔ. A bɛ se ka telesarse fu, ni piblisite, jatebɔsɛbɛn walima sanni tɛ kɛ appli kɔnɔ."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Yala appli bɛ baara kɛ ni ɛntɛrinɛti tɛ wa?",
+        "a": "Awɔ. Daminɛ jaw ni ja pake 8 bɛɛ bɛ sɔrɔ porogaramu kɔnɔ, wa denbaya ka fotow bɛ baara kɛ ɛntɛrinɛti kɔkan ni u kopi kɛra porogaramu kɔnɔ. Foto min maralen bɛ iCloud dɔrɔn kɔnɔ, o sugandili, o bɛ se ka kɛ ko i mago bɛ ɲɔgɔndan na."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Yala ne bɛ se ka baara kɛ ni an yɛrɛ ka denbaya ka fotow ye wa?",
+        "a": "Awɔ. Fotow sugandi ni i ka minɛn fototalan ye. O porogramu be kopi fitininw mara minɛn kɔnɔ a ka baara kama, a t’u bila ani a tɛ fɔlɔw Changé abada. I bɛ se ka o kopiw bɔ waati o waati."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Yala o ye hakili dege porogaramu ye wa walima hakilijagabɔ sɛgɛsɛgɛli porogaramu ye wa?",
+        "a": "Ayi, Golden Moments ye ɲɛnajɛ ni waati ye ɲɔgɔn fɛ. Jate walima sɛgɛsɛgɛli tɛ a la, wa a tɛ hakiliɲagami walima Alzheimer bana sɛgɛsɛgɛ, k’a furakɛ, k’a bali walima k’a suman."
       },
       {
-        "q": "Which devices does it work on?",
-        "a": "{platforms}: {requirements}."
+        "q": "A bɛ baara kɛ minɛn jumɛnw kan?",
+        "a": "{platforms}: 1 . {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Yala nin tulon in app version dɔ bɛ yen wa?",
+      "a": "Awɔ. Golden Moments porogaramu min bɛ kɛ fu iPhone, iPad ani Android kama, o bɛ ni ja nɔgɔyalen kelen ye, i bɛ se ka baara kɛ ni denbaya ka fotow ye i ye minnu sugandi, wa a bɛ baara kɛ ɛntɛrinɛti kɔkan. Konte, piblisite walima score si tɛ yen."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Yala nin tulon in app version dɔ bɛ yen wa?",
+      "a": "Nin tulon in ta tɛ. Golden Moments porogaramu fu min bɛ iPhone, iPad ani Android kan, ja bɛ bɛn nɔgɔya la ni tile belebelebaw ye ani denbaya ja i bɛ minnu sugandi, wa a bɛ baara kɛ ɛntɛrinɛti kɔkan. Nin tulon in bɛ To fu yan i ka navigatɛri kɔnɔ."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: ja belebelebaw, teriyalenw",
+    "noscript": "Nin tulon in ka kan ka JavaScript daminɛ i ka navigatɛri kɔnɔ. Ladilikan minnu bɛ duguma, olu bɛ baara kɛ ni a tɛ.",
+    "about": "Kan {name}",
+    "aboutAria": "Nin tulon in ko la",
+    "noTimer": "Waati jatebɔlan walima jatebɔlan tɛ yen",
+    "printable": "A bɛ se ka sɛbɛn",
+    "howTo": "Tulonkɛcogo {name}",
+    "tips": "Ladilikanw ka ɲɛsin tulon kɛli ma ɲɔgɔn fɛ",
+    "newToPlayingHtml": "I kura don ka tulon kɛ ni mɔgɔ ye min hakiliɲagami bana bɛ a la wa? Ka kalan <a href=\"/caregiving/how-to-play-together/\">tulonkɛcogo min bɛ kɛ ɲɔgɔn fɛ</a>, u ka kan ka min kɛ ni u ma diya u ye tuguni, o fana sen bɛ o la.",
+    "moreAria": "Dɔ wɛrɛw ka kan ka sɛgɛsɛgɛ",
+    "helpfulGuides": "Gafe ɲɛminɛbaga minnu bɛ mɔgɔ dɛmɛ",
+    "appTitle": "A jira appli (application) kɔnɔ",
+    "appText": "Golden Moments app fu in bɛ ni ja bɛnkan nɔgɔman ye ni tile belebelebaw ye ani i yɛrɛ ka denbaya ja, wa a bɛ baara kɛ ni Wi‐Fi tɛ. iPhone, iPad ani Android.",
+    "photoAppTitle": "Aw ye aw ka fotow to aw labɛnnen na",
+    "photoAppText": "Golden Moments porogaramu fu kɔnɔ, i ye foto minnu sugandi, olu bɛ to i ka minɛn kɔnɔ siɲɛ wɛrɛ, wa tulonw bɛ baara kɛ ni Wi‐Fi tɛ. iPhone, iPad ani Android.",
+    "goodToKnow": "A ka ɲi ka dɔn",
+    "goodToKnowText": "Nin tulon in ye ɲɛnajɛ ni waati kɛli ye ɲɔgɔn fɛ. A tɛ foyi sɛgɛsɛgɛ, k’a suman walima k’a furakɛ.",
+    "moreGames": "Tulon minnu ka nɔgɔn kosɛbɛ",
+    "crumb": "Tulonkɛw"
   }
 }
