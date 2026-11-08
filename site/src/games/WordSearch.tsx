@@ -127,7 +127,12 @@ function WordSearchGame(props: PlayProps) {
         }
         footer={
           <div className="btn-row">
-            <button type="button" className={allFound ? 'btn btn--primary' : 'btn'} onClick={() => window.print()}>
+            {allFound ? (
+              <button type="button" className="btn btn--primary" onClick={() => setRound((n) => n + 1)}>
+                {ui.wordSearch.restart}
+              </button>
+            ) : null}
+            <button type="button" className={allFound ? 'btn' : 'btn btn--primary'} onClick={() => window.print()}>
               <Icon name="print" />
               {ui.wordSearch.print}
             </button>
