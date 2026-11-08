@@ -19,13 +19,13 @@ physical device is listed under "Not verified" and is not scored, not a blocker.
 
 Overall = sum of weight x score.
 
-## Score after Round 11 multimodal actions & forced-colors navigation pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
+## Score after Round 12 auditory overload prevention & skip link pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
 
 | # | Dimension | Measured | Score |
 | --- | --- | --- | --- |
 | 1 | Plain language | app 441 of 441 strings conform after the six fixes; site play copy 0 long sentences | 10.0 |
-| 2 | Type and contrast | floor and 200% tests pass 10; body 15.1:1 gives 10; secondary 8.1:1 gives 10; primary 6.33:1 gives 9.0; high contrast mode & forced colors reinforced = 10; breadcrumb active state 15.1:1 bold = 10; site-nav active high contrast borders = 10 | 9.75 |
-| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; every action pairs icon and label (including ReadAloud) = 10; shape-conforming focus rings on tiles, puzzle pieces, baskets and breadcrumb links = 10; touch & tremor resilience = 10; print action button on handout = 10; zero dead-ends in all games with completion cards = 10; uniform layout order across all 12 games = 10 | 10.0 |
+| 2 | Type and contrast | floor and 200% tests pass 10; body 15.1:1 gives 10; secondary 8.1:1 gives 10; primary 6.33:1 gives 9.0; high contrast mode & forced colors reinforced = 10; breadcrumb active state 15.1:1 bold = 10; site-nav active high contrast borders = 10; skip link non-text contrast 15.1:1 dual ring = 10 | 9.75 |
+| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; every action pairs icon and label (including ReadAloud) = 10; shape-conforming focus rings on tiles, puzzle pieces, baskets, breadcrumb links and chips = 10; touch & tremor resilience = 10; print action button on handout = 10; zero dead-ends in all games with completion cards = 10; uniform layout order across all 12 games = 10 | 10.0 |
 | 4 | Structure and semantics | axe on all 3,921 built pages clean (0 violations); heading skips 0; landmarks fixed; app semantics tests pass | 10.0 |
 | 5 | Reflow and large text | site 1,512 of 1,512 runs clean = 10; app 200% tests pass = 10 | 10.0 |
 | 6 | Localization completeness | app keys 100%; site ui keys 100% (64 of 64 languages have footer.pictures); games keys 100%; guides 100%; picture names 68.8% (44 of 64) | 9.38 |
@@ -47,7 +47,7 @@ Lowest dimension: localization at 9.38 (floor is 7.0). **The bar (above 8.6, non
 1. Localization (9.38): picture names for the 20 languages left in English (needs a translator; machine output there is unreliable).
 2. Type and contrast (9.75): primary gold text at 6.33:1 (brand decision, kept).
 
-History (round 11): Multimodal Action Signalling & Forced-Colors Active State Architecture. Paired ReadAloud speech toggle with `<Icon name={speaking ? 'soundOff' : 'sound'} />` for immediate cognitive cueing per DESIGN.md Principle 3; added `.read-aloud` inline layout styling; reinforced `.site-nav` active link states in Windows High Contrast Mode (`border: 2px solid Highlight; outline: 1px solid Highlight;`) and `@media (prefers-contrast: more)` where `box-shadow` is ignored by contrast themes.
+History (round 12): Auditory Overload Prevention, Skip Link Contrast & High-Contrast Focus Architecture. Suppressed runaway audio by cancelling speech synthesis on game restart and exit in `GameFrame.tsx`; upgraded skip link focus ring to 15.1:1 dual ring (`outline: 3px solid var(--gm-background); box-shadow: 0 0 0 5px var(--gm-on-surface);`); added high-contrast and forced-colors focus outlines for ChoiceChips and active ReadAloud buttons.
 
 History (round 5): Dementia-Friendly Print Architecture & Dedicated Handout Action. Print activities (word search, coloring, picture bingo, conversation cards) and caregiver guides are frequently printed onto paper by family members, memory care coordinators, and support groups. Upgraded print sheets with high-contrast `#000`/`#222`/`#333` borders replacing faint `#999`/`#777` borders that wash out for older adults with cataract/contrast loss; upgraded bingo text to 16pt large print. Added print-break protection (`break-after: avoid` on headings, `break-inside: avoid` on cards/answers/tables, `orphans: 3`, `widows: 3`). Stripped digital clutter and app promotion banners (`.cta-band`, `.article-aside`, `.app-cta`, `.play-cta`, `.toc`) from printed output and expanded articles to full paper width. Added a dedicated `.no-print` print action button to `/handout/` across all 64 languages so caregivers can print with one tap without digging through browser menus.
 

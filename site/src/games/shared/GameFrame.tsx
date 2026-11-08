@@ -4,6 +4,7 @@ import { localePath } from '../../i18n/locales';
 import { analyticsAvailable, once, track, trackPrint, type FeedbackAnswer } from '../../lib/track';
 import { Icon } from './Icon';
 import { ReadAloud } from './ReadAloud';
+import { speechOf, stopReading } from '../../lib/games/readAloud';
 import { hydrateSettings, settingsStore, useSound } from './settings';
 import { sounds } from './sound';
 
@@ -71,6 +72,8 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
             className="btn"
             onClick={() => {
               track('activity_restart');
+              const s = speechOf();
+              if (s) stopReading(s);
               onRestart();
             }}
           >
@@ -93,7 +96,15 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
           <Icon name={sound ? 'sound' : 'soundOff'} />
           {sound ? ui.frame.soundOn : ui.frame.soundOff}
         </button>
-        <a className="btn btn--quiet" href={localePath(lang, '/games/')} onClick={() => track('activity_done')}>
+        <a
+          className="btn btn--quiet"
+          href={localePath(lang, '/games/')}
+          onClick={() => {
+            track('activity_done');
+            const s = speechOf();
+            if (s) stopReading(s);
+          }}
+        >
           <Icon name="door" />
           {ui.frame.done}
         </a>
