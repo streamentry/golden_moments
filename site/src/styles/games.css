@@ -1089,6 +1089,14 @@
   .called img {
     border: 2px solid #000000;
   }
+  .photo-pick {
+    border: 3px dashed #000000;
+  }
+  .photo-pick label.btn:has(input:focus-visible) {
+    outline: 4px solid #000000;
+    outline-offset: 3px;
+    border-radius: var(--radius-full);
+  }
 }
 
 @media (forced-colors: active) {
@@ -1170,5 +1178,13 @@
   .ws-words li[data-found='true'] {
     border-color: Highlight;
     outline: 1px solid Highlight;
+  }
+  .photo-pick {
+    border: 2px dashed CanvasText;
+  }
+  .photo-pick label.btn:has(input:focus-visible) {
+    outline: 3px solid Highlight;
+    outline-offset: 3px;
+    border-radius: var(--radius-full);
   }
 }

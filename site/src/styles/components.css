@@ -31,6 +31,11 @@
   background: var(--gm-primary-container);
   color: var(--gm-on-primary-container);
 }
+.btn:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 3px;
+  border-radius: var(--radius-full);
+}
 .btn:active {
   transform: translateY(1px);
 }
@@ -873,10 +878,26 @@ summary {
     color: #000000;
     font-weight: 800;
   }
+  .btn {
+    border-width: 3px;
+    border-color: #000000;
+  }
+  .btn:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 3px;
+    border-radius: var(--radius-full);
+  }
   .btn--primary {
     background: #000000;
     color: #FFFFFF;
     border-color: #000000;
+  }
+  .btn--quiet {
+    border: 2px solid #000000;
+  }
+  .btn[aria-pressed='true'] {
+    border: 4px solid #000000;
+    background: #FFFFFF;
   }
   .card,
   .guide-card,
@@ -915,8 +936,20 @@ summary {
   .btn {
     border: 2px solid ButtonText;
   }
+  .btn:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 3px;
+    border-radius: var(--radius-full);
+  }
   .btn--primary {
     border: 3px solid Highlight;
+    outline: 2px solid Highlight;
+  }
+  .btn--quiet {
+    border: 2px solid ButtonText;
+  }
+  .btn[aria-pressed='true'] {
+    border-color: Highlight;
     outline: 2px solid Highlight;
   }
   .card,
