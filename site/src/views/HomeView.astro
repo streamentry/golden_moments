@@ -322,6 +322,22 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
       transform: rotate(5deg) translateY(10px);
     }
   }
+  @media (prefers-reduced-motion: reduce) {
+    .print,
+    .print--1,
+    .print--2,
+    .print--3,
+    .print--4 {
+      transform: none !important;
+      transition: none !important;
+    }
+    .print::before {
+      transform: translateX(-50%) !important;
+    }
+    .hero__note {
+      transform: translateX(-50%) !important;
+    }
+  }
   .section-head {
     display: flex;
     flex-wrap: wrap;
@@ -426,5 +442,97 @@ const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
   }
   .app-band {
     max-width: calc(var(--content-max) + 2 * var(--gutter));
+  }
+  @media (prefers-contrast: more) {
+    .print {
+      border: 2px solid #000000;
+      box-shadow: none;
+    }
+    .print img {
+      border: 1px solid #000000;
+    }
+    .print::before {
+      border: 1px solid #000000;
+      background: #FFFFFF;
+      opacity: 1;
+    }
+    .hero__note {
+      border: 2px solid #FFFFFF;
+      background: #000000;
+      color: #FFFFFF;
+      box-shadow: none;
+    }
+    .hero__facts :global(svg) {
+      color: #000000;
+    }
+    .steps li {
+      border-top-color: #000000;
+    }
+    .steps__n {
+      color: #000000;
+    }
+    .principles li {
+      border: 2px solid #000000;
+    }
+    .principles :global(svg) {
+      color: #000000;
+    }
+    .research-band {
+      border: 2px solid #000000;
+      border-left: 8px solid #000000;
+      background: #FFFFFF;
+    }
+  }
+  @media (forced-colors: active) {
+    .print {
+      border: 2px solid CanvasText;
+    }
+    .print img {
+      border: 1px solid CanvasText;
+    }
+    .print::before {
+      forced-color-adjust: none;
+      background: Canvas;
+      border: 1px solid CanvasText;
+    }
+    .hero__note {
+      forced-color-adjust: none;
+      background: Highlight;
+      color: HighlightText;
+      border: 2px solid HighlightText;
+    }
+    .hero__facts :global(svg) {
+      color: CanvasText;
+    }
+    .steps li {
+      border-top-color: CanvasText;
+    }
+    .steps__n {
+      color: Highlight;
+    }
+    .principles li {
+      border: 2px solid CanvasText;
+    }
+    .principles :global(svg) {
+      color: CanvasText;
+    }
+    .research-band {
+      border: 2px solid CanvasText;
+      border-left: 8px solid Highlight;
+    }
+  }
+  @media print {
+    .hero__album {
+      display: none !important;
+    }
+    .research-band {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .steps li,
+    .principles li {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
   }
 </style>

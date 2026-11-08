@@ -1034,6 +1034,26 @@ summary {
     border: 2px solid #000000;
     border-inline-start: 6px solid #000000;
   }
+  .notice svg,
+  .notice--warm svg {
+    color: #000000;
+  }
+  .aside-box li a {
+    color: #000000;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+  }
+  .aside-box li a:hover {
+    text-decoration-thickness: 3px;
+  }
+  .aside-box li a:focus-visible {
+    outline: 3px solid #000000;
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+  .aside-box img {
+    border: 1px solid #000000;
+  }
   .tag {
     border: 2px solid #000000;
     font-weight: 800;
@@ -1234,6 +1254,20 @@ summary {
   .notice {
     border: 2px solid CanvasText;
     border-inline-start: 6px solid Highlight;
+  }
+  .notice svg,
+  .notice--warm svg {
+    color: CanvasText;
+  }
+  .aside-box li a {
+    color: LinkText;
+  }
+  .aside-box li a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 3px;
+  }
+  .aside-box img {
+    border: 1px solid CanvasText;
   }
   .tag {
     border: 2px solid CanvasText;

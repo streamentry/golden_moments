@@ -30,7 +30,7 @@ Overall = sum of weight x score.
 | 5 | Reflow and large text | site 1,512 of 1,512 runs clean = 10; app 200% tests pass = 10 | 10.0 |
 | 6 | Localization completeness | app keys 100%; site ui keys 100% (64 of 64 languages have footer.pictures); games keys 100%; guides 100%; picture names 68.8% (44 of 64) | 9.38 |
 | 7 | Product integrity | gentle-mode and claims guard tests all pass; zero failure sounds; all user interactions paired with gentle tap sounds (including picture pairs restart, picture bingo new game, find the same next, shadow match next, finish the saying next, conversation cards print) | 10.0 |
-| 8 | Verification health | Flutter 668 pass; analysis clean; site 697 pass; build 11,665 pages and check-site 0 errors; python 101 tests pass; release metadata check passes | 10.0 |
+| 8 | Verification health | Flutter 668 pass; analysis clean; site 698 pass; build 11,665 pages and check-site 0 errors; python 101 tests pass; release metadata check passes | 10.0 |
 
 Weighted overall: 1.000 + 1.4625 + 1.000 + 1.500 + 1.500 + 1.407 + 1.000 + 1.000 = **9.87**.
 Lowest dimension: localization at 9.38 (floor is 7.0). **The bar (above 8.6, none below 7.0) is met.**
@@ -46,6 +46,8 @@ Lowest dimension: localization at 9.38 (floor is 7.0). **The bar (above 8.6, non
 
 1. Localization (9.38): picture names for the 20 languages left in English (needs a translator; machine output there is unreliable).
 2. Type and contrast (9.75): primary gold text at 6.33:1 (brand decision, kept).
+
+History (round 31): Home Collage Vestibular Stabilization, Aside Navigation Focus & Notice Icon High-Contrast Framing. Under `@media (prefers-reduced-motion: reduce)` on `HomeView.astro`, neutralized rotation tilts on `.print` cards (`rotate(-4deg)`, `rotate(3deg)`, etc.), tape ornament, and hero note, eliminating vestibular strain for older adults; reinforced hero album prints (`.print` and `.print img`) with 2px/1px solid black and `CanvasText` boundaries preventing figure-ground washout when shadows dissolve; elevated hero checkmarks (`.hero__facts svg`), step numerals (`.steps__n`), principles icons (`.principles svg`), and notice icons (`.notice svg`, `.notice--warm svg`) to solid `#000000` / `CanvasText` / `Highlight`; reinforced article aside navigation links (`.aside-box li a`) with high-contrast underlines, focus rings, and image boundaries; added print break protection and album suppression.
 
 History (round 30): Picture Pairs & Memory Tile Card-Face Boundary Contrast, Pre-Contact Targeting & Vestibular Stability Architecture. Reinforced `.tile--mismatch::after` in high contrast (6px solid black) and Windows Forced Colors (`Highlight`) eliminating mismatch border dropouts; added dedicated `:focus-visible` rings on `.tile` (4px solid black in high contrast; 3px Highlight in forced colors) replacing washed-out green outlines; added pre-contact hover target affordance `.tile:not(.tile--matched):hover` with subtle elevation while keeping matched tiles calm and non-interactive; reinforced hidden tile backs (`.tile__back` with `#000000` / `ButtonText`, `.tile--hidden` with 2px solid black) preventing ornament washout; suppressed hover shadow jitter under `prefers-reduced-motion: reduce`; elevated `.target__name` in Find the Same and Shadow Match to 800-weight black and `CanvasText`; exported testable `tileVisualState` engine with comprehensive test coverage.
 
