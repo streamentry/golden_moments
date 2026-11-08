@@ -20,6 +20,7 @@ export default function Coloring(props: PlayProps) {
   const pageName = pageText(page.id).name;
   const partName = (id: string) => pageText(page.id).regions[id] ?? id;
   const paintName = (p: Paint) => (ui.coloring.paints as Record<string, string>)[p.id] ?? p.id;
+  const isCompleted = page.regions.length > 0 && page.regions.every((r) => Boolean(fills[r.id]));
 
   useEffect(() => {
     setFills({});
@@ -89,7 +90,11 @@ export default function Coloring(props: PlayProps) {
         lang={lang}
         guidance={ui.coloring.guidance}
         message={message}
-        onRestart={() => { setFills({}); setMessage(ui.coloring.cleared); }}
+        onRestart={() => {
+          sounds.tap();
+          setFills({});
+          setMessage(ui.coloring.cleared);
+        }}
         restartLabel={ui.coloring.restart}
         options={
           <ChoiceChips
@@ -101,7 +106,20 @@ export default function Coloring(props: PlayProps) {
         }
         footer={
           <div className="btn-row">
-            <button type="button" className="btn" onClick={() => window.print()}>
+            {isCompleted ? (
+              <button
+                type="button"
+                className="btn btn--primary"
+                onClick={() => {
+                  sounds.tap();
+                  setFills({});
+                  setMessage(ui.coloring.cleared);
+                }}
+              >
+                {ui.coloring.restart}
+              </button>
+            ) : null}
+            <button type="button" className={isCompleted ? 'btn' : 'btn btn--primary'} onClick={() => window.print()}>
               <Icon name="print" />
               {ui.coloring.print}
             </button>
