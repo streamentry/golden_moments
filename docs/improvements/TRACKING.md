@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 28 / 100 completed**
+**Progress: 29 / 100 completed**
 
 ---
 
@@ -38,6 +38,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 26 | 2026-11-08 | `193dc28` | Translation Notice Architecture, English Preference Persistence & Brand Mark High-Contrast Framing | Alzheimer's Australia Vic (2015), ISO 21801-1, W3C COGA Obj 1 & 4: Established dedicated responsive architecture for the machine-translation notice (`.mt-notice`) with clean typographic scale (`var(--text-sm)`), accessible link styling, and high-contrast / forced-colors adaptations; attached preference persistence hook in `LanguageChoice.astro` to `.mt-notice a[hreflang]` so tapping "Read the original in English" saves the reader's English cookie and avoids repeated redirects; added print suppression (`display: none !important;` on `.mt-notice`) preventing digital translation notices from cluttering paper printouts; reinforced brand emblem (`.brand__mark`) in forced colors (`forced-color-adjust: none; border: 1px solid CanvasText;`) and high contrast (2px black) with tailored `:focus-visible` ring. | Web Architecture & Header (`LanguageChoice.astro`, `components.css`) | Done |
 | 27 | 2026-11-08 | `889ef53` | Interactive Card Focus Architecture, Quotable Answer Bar Contrast & Small Print Touch Target Guidance | W3C COGA Obj 1 & 4, ISO 21801-1, WCAG 2.4.7: Added `.card:has(.card__link:focus-visible)` with 3px primary outline and 4px offset (4px solid black in high contrast; 3px Highlight in forced colors) while suppressing redundant inner heading outlines, framing entire interactive card surfaces in `GameCard` and `GuideCard`; reinforced `.card__more` action link text in high-contrast (`#000000`, font-weight 800) and forced colors (`LinkText`); elevated `.answer::before` quotation accent bar to solid black (`#000000`) and system `Highlight` (with `forced-color-adjust: none;`) to prevent accent washout; elevated `.answer__label` to `#000000` font-weight 800; added shape-conforming `:focus-visible` ring on standalone `a.small-print` links; suppressed background radial gradients on `.cta-band` in high contrast mode with solid `#FFFFFF` for glare-free readability. | Web Cards & Prose (`components.css`) | Done |
 | 28 | 2026-11-08 | `c4bfe68` | Library Back Path Guard (Test) | Alzheimer's Society checklist 2.1 and 2.2 (read through the view-only sheet summary) and DESIGN.md "keep Back visible": a code trace found no library screen that hides Back or blocks pop (no `automaticallyImplyLeading: false`, no `canPop: false`). Added `back_path_test.dart`, which checks that the category list, pack page and picture game each show one Back control of at least 48 px and that tapping it returns. Verified by hiding Back on the game page: the test fails. No user-facing change; a device check of the back path (backlog G6) is still pending. | App tests (`test/features/legacy_library/`) | Done |
+| 29 | 2026-11-08 | `d558b56` | Breadcrumb Navigation Focus Affordance, Skip Link Forced-Colors Architecture, Dark-Ink Footer Link Contrast & Inactive Nav High-Contrast Hierarchy | Musa et al. (2023), AbilityNet (2025), ISO 21801-1, W3C COGA Obj 1 & 3, WCAG 1.4.11 / 2.4.7: Added shape-conforming `:focus-visible` pill outline on `.site-nav a`; reinforced inactive navigation links in high contrast (`@media (prefers-contrast: more)`) with 2px solid black border and white background on hover/focus so interactive boundaries remain distinct from background; added screen-reader-safe separator syntax `content: '/' / ''; speak: never;` on `.breadcrumbs li:not(:last-child)::after`; added high-contrast breadcrumb underlines and solid black `:focus-visible` outline; eliminated invisible dark-ink footer link focus indicators and high-contrast hover washout with bright white text (`#FFFFFF`), 2px underline, and 3px solid white outline; reinforced `.skip-link` in forced colors (`forced-color-adjust: none; background: Highlight; color: HighlightText; border: 2px solid HighlightText; outline: 2px solid Highlight;`) and high-contrast mode with solid 3px border and outline. | Web Navigation & Components (`components.css`) | Done |
 
 ---
 
@@ -45,5 +46,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 29 | *Next in queue* | Pending |
-| 30–100 | Planned one by one | Pending |
+| 30 | *Next in queue* | Pending |
+| 31–100 | Planned one by one | Pending |
