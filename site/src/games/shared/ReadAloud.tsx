@@ -42,7 +42,8 @@ export function ReadAloud({ ui, lang, text }: ReadAloudProps) {
       setSpeaking(false);
       return;
     }
-    setSpeaking(readAloud(synth, text, lang));
+    const started = readAloud(synth, text, lang, () => setSpeaking(false));
+    setSpeaking(started);
   };
 
   return (
