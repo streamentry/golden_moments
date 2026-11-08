@@ -157,7 +157,11 @@
   },
   "photosRecoveredMessage": "The system recovered photos you selected before the app restarted. Add them to this device?",
   "@photosRecoveredMessage": {
-    "description": "Dialog message on Your family photos explaining the recovered photo selection. Buttons are Cancel and Continue."
+    "description": "Dialog message on Your family photos explaining the recovered photo selection. Buttons are Not now and Add the photos."
+  },
+  "photosRecoveredConfirm": "Add the photos",
+  "@photosRecoveredConfirm": {
+    "description": "Primary button in the recovered-photos dialog on Your family photos. Says what it does; never 'Continue'. Short."
   },
   "photosErrorNewerVersion": "These photos were saved by a newer version of Golden Moments. Update the app to see them. Nothing has been changed.",
   "@photosErrorNewerVersion": {

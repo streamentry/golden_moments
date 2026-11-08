@@ -37,8 +37,11 @@ class _FakeImporter extends PhotoImporter {
     ...await file.readAsBytes(),
   ]);
 
+  /// Photos the system hands back after an interrupted selection.
+  List<XFile> recovered = const [];
+
   @override
-  Future<List<XFile>> recover() async => [];
+  Future<List<XFile>> recover() async => recovered;
 }
 
 Widget _app(Directory directory, PhotoImporter importer) => MaterialApp(
@@ -465,6 +468,28 @@ void main() {
     expect(tester.takeException(), isNull);
     final ids = await tester.runAsync(() => FamilyPhotoStore(directory).load());
     expect(ids!.length, 2);
+  });
+
+  testWidgets('recovered photos are offered under a label that says what '
+      'the button does', (tester) async {
+    final importer = _FakeImporter([])
+      ..recovered = [
+        XFile.fromData(Uint8List.fromList([7])),
+      ];
+    await tester.pumpWidget(_app(directory, importer));
+    await _settle(tester);
+
+    expect(find.text('Finish adding photos?'), findsOneWidget);
+    expect(find.widgetWithText(FilledButton, 'Add the photos'), findsOneWidget);
+    expect(find.text('Continue'), findsNothing);
+    expect(find.text('Not now'), findsOneWidget);
+
+    await _tapText(
+      tester,
+      'Add the photos',
+      until: () => _shows(find.text('1 of 24 photos')),
+    );
+    expect(tester.takeException(), isNull);
   });
 
   testWidgets("a damaged photo list can be set aside, at the person's "
