@@ -337,7 +337,7 @@
   width: 48px;
   height: 48px;
   border-radius: 6px;
-  pointer-events: none;
+  border: 1px solid var(--gm-outline);
   user-select: none;
   -webkit-user-select: none;
   -webkit-user-drag: none;
@@ -371,6 +371,7 @@
   margin-inline: auto;
   padding: 10px;
   background: var(--gm-print-white);
+  border: 2px solid var(--gm-outline-variant);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-print);
   user-select: none;
@@ -415,8 +416,15 @@
   .piece--selected {
     transform: none;
   }
+  .tile:active,
+  .piece:active,
   .ws__cell:active {
     transform: none;
+  }
+  .tile,
+  .piece,
+  .called img {
+    transition: none;
   }
   .breathe__circle {
     transform: none !important;
@@ -1012,12 +1020,18 @@
     border-width: 6px;
     border-color: #000000;
   }
+  .puzzle {
+    border: 2px solid #000000;
+  }
   .basket {
     border: 3px dashed #000000;
   }
   .basket--ready,
   .basket:hover {
     border: 4px solid #000000;
+  }
+  .basket__items img {
+    border: 2px solid #000000;
   }
   .piece {
     border: 2px solid #000000;
@@ -1150,12 +1164,18 @@
     forced-color-adjust: none;
     border-color: Highlight;
   }
+  .puzzle {
+    border: 2px solid CanvasText;
+  }
   .puzzle[data-has-selected='true'] .piece:not(.piece--selected) {
     border: 2px dashed CanvasText;
   }
   .basket--ready,
   .basket:hover {
     border-color: Highlight;
+  }
+  .basket__items img {
+    border: 1px solid CanvasText;
   }
   .chip input:checked + span {
     border-color: Highlight;

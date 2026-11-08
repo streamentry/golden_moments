@@ -140,9 +140,10 @@ export default function SortTogether(props: PlayProps) {
             >
               <span className="basket__title">{name}</span>
               <span className="basket__items">
-                {inside.map((i) => (
-                  <img key={i.id} src={pictureUrl(i.id)} alt="" width={48} height={48} />
-                ))}
+                {inside.map((i) => {
+                  const label = pictureName(i.id);
+                  return <img key={i.id} src={pictureUrl(i.id)} alt={label} title={label} width={48} height={48} />;
+                })}
               </span>
             </button>
           );
