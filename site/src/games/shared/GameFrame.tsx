@@ -20,9 +20,11 @@ interface GameFrameProps {
   footer?: ReactNode;
   onRestart?: () => void;
   restartLabel?: string;
+  /** Optional spoken text for ReadAloud, defaulting to guidance. */
+  readAloudText?: string;
 }
 
-export function GameFrame({ ui, lang, guidance, message, options, children, footer, onRestart, restartLabel }: GameFrameProps) {
+export function GameFrame({ ui, lang, guidance, message, options, children, footer, onRestart, restartLabel, readAloudText }: GameFrameProps) {
   const sound = useSound();
   const [started, setStarted] = useState(false);
   const [answer, setAnswer] = useState<FeedbackAnswer | null>(null);
@@ -57,7 +59,7 @@ export function GameFrame({ ui, lang, guidance, message, options, children, foot
     <section className="game" aria-label={ui.frame.region}>
       {options ? <div className="game__options">{options}</div> : null}
       <p className="game__guidance">{guidance}</p>
-      <ReadAloud ui={ui} lang={lang} text={guidance} />
+      <ReadAloud ui={ui} lang={lang} text={readAloudText ?? guidance} />
       <div className="game__board" onClickCapture={markStarted}>
         {children}
       </div>

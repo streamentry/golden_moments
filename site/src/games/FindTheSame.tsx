@@ -67,6 +67,7 @@ export default function FindTheSame(props: PlayProps) {
       ui={ui}
       lang={lang}
       guidance={ui.findTheSame.guidance}
+      readAloudText={`${ui.findTheSame.guidance}: ${targetName}`}
       message={message}
       options={<ChoiceChips legend={ui.choose.countLegend} choices={counts} value={count} onChange={setCount} />}
       footer={

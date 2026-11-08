@@ -58,6 +58,7 @@ export default function FinishTheSaying(props: PlayProps) {
       ui={ui}
       lang={lang}
       guidance={ui.finishTheSaying.guidance}
+      readAloudText={revealed ? `${saying.start} ${saying.end}. ${saying.prompt}` : `${saying.start}...`}
       message={message}
       footer={
         <div className="btn-row btn-row--center">

@@ -54,6 +54,7 @@ export default function PictureBingo(props: PlayProps) {
         ui={ui}
         lang={lang}
         guidance={ui.pictureBingo.guidance}
+        readAloudText={current ? pictureName(current) : ui.pictureBingo.guidance}
         message={
           current
             ? fill(plural(ui.pictureBingo.called, calls.length, lang), { name: pictureName(current), called, total: calls.length })

@@ -36,6 +36,7 @@ export default function ConversationCards(props: PlayProps) {
         ui={ui}
         lang={lang}
         guidance={ui.conversationCards.guidance}
+        readAloudText={card.prompt}
         message={fill(ui.conversationCards.position, { n: (index % deck.length) + 1, total: deck.length })}
         options={<ChoiceChips legend={ui.conversationCards.themeLegend} choices={themeChoices} value={theme} onChange={setTheme} />}
         footer={
