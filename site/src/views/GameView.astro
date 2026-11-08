@@ -171,4 +171,14 @@ const photo = s === 'photo-pairs';
       box-shadow: none;
     }
   }
+  @media (prefers-contrast: more) {
+    .game-stage {
+      border: 2px solid #000000;
+    }
+  }
+  @media (forced-colors: active) {
+    .game-stage {
+      border: 2px solid CanvasText;
+    }
+  }
 </style>

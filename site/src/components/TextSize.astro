@@ -87,6 +87,13 @@ const t = ui(lang);
     }
   }
   @media (forced-colors: active) {
+    .text-size__btn {
+      border: 2px solid ButtonText;
+    }
+    .text-size__btn:focus-visible {
+      outline: 3px solid Highlight;
+      outline-offset: 2px;
+    }
     .text-size__btn[aria-pressed='true'] {
       border-color: Highlight;
       outline: 2px solid Highlight;
