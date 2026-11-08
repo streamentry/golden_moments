@@ -119,7 +119,10 @@ function WordSearchGame(props: PlayProps) {
         lang={lang}
         guidance={ui.wordSearch.guidance}
         message={message}
-        onRestart={() => setRound((n) => n + 1)}
+        onRestart={() => {
+          sounds.tap();
+          setRound((n) => n + 1);
+        }}
         restartLabel={ui.wordSearch.restart}
         options={
           <>
@@ -130,7 +133,14 @@ function WordSearchGame(props: PlayProps) {
         footer={
           <div className="btn-row">
             {allFound ? (
-              <button type="button" className="btn btn--primary" onClick={() => setRound((n) => n + 1)}>
+              <button
+                type="button"
+                className="btn btn--primary"
+                onClick={() => {
+                  sounds.tap();
+                  setRound((n) => n + 1);
+                }}
+              >
                 {ui.wordSearch.restart}
               </button>
             ) : null}

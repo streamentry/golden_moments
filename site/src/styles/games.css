@@ -412,6 +412,13 @@
   .piece--selected {
     transform: none;
   }
+  .ws__cell:active {
+    transform: none;
+  }
+  .breathe__circle {
+    transform: none !important;
+    transition: none !important;
+  }
 }
 .piece--correct::after {
   content: '';
@@ -527,6 +534,20 @@
   touch-action: manipulation;
   -webkit-touch-callout: none;
   -webkit-tap-highlight-color: transparent;
+  transition:
+    border-color var(--duration-fast) ease,
+    transform var(--duration-fast) var(--ease-out);
+}
+.ws__cell:hover {
+  border-color: var(--gm-primary);
+}
+.ws__cell:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+  z-index: 1;
+}
+.ws__cell:active {
+  transform: scale(0.96);
 }
 .ws__cell--start {
   border: 4px solid var(--gm-primary);
@@ -1023,12 +1044,39 @@
     outline: 4px solid #000000;
     outline-offset: 3px;
   }
+  .tile__badge {
+    border: 3px solid #000000;
+    background: #000000;
+    color: #FFFFFF;
+  }
+  .breathe {
+    border: 2px solid #000000;
+  }
+  .breathe__circle {
+    border: 4px solid #000000;
+  }
   .ws__cell {
     border: 2px solid #000000;
   }
-  .ws__cell--start,
+  .ws__cell:focus-visible {
+    outline: 3px solid #000000;
+    outline-offset: 2px;
+  }
+  .ws__cell--start {
+    border: 4px solid #000000;
+    outline: 2px dashed #000000;
+    outline-offset: 2px;
+  }
   .ws__cell--found {
     border: 4px solid #000000;
+    background: #EAEAEA;
+  }
+  .ws-words li {
+    border: 2px solid #000000;
+  }
+  .ws-words li[data-found='true'] {
+    border: 3px solid #000000;
+    background: #EAEAEA;
   }
   .color-page {
     border: 3px solid #000000;
@@ -1095,9 +1143,32 @@
     stroke: Highlight;
     stroke-width: 8;
   }
-  .ws__cell--start,
-  .ws__cell--found {
-    border-color: Highlight;
+  .tile__badge {
+    forced-color-adjust: none;
+    background: Highlight;
+    color: HighlightText;
+    border: 3px solid HighlightText;
+  }
+  .breathe {
+    border: 2px solid CanvasText;
+  }
+  .breathe__circle {
+    border: 3px solid Highlight;
+  }
+  .ws__cell:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
+  }
+  .ws__cell--start {
+    border: 4px dashed Highlight;
     outline: 2px solid Highlight;
+  }
+  .ws__cell--found {
+    border: 4px solid Highlight;
+    outline: none;
+  }
+  .ws-words li[data-found='true'] {
+    border-color: Highlight;
+    outline: 1px solid Highlight;
   }
 }

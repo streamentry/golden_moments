@@ -3,6 +3,7 @@ import type { PlayProps } from '../i18n/play';
 import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
+import { sounds } from './shared/sound';
 
 type Phase = 'ready' | 'in' | 'hold' | 'out';
 
@@ -45,6 +46,7 @@ export default function CalmBreathing(props: PlayProps) {
 
   const running = phase !== 'ready';
   const toggle = () => {
+    sounds.tap();
     if (running) {
       setPhase('ready');
       setBreath(0);
