@@ -4,7 +4,7 @@ Decision: 2026-10-18. This is a testable launch strategy, not a proven ranking o
 
 ## Objective and audience
 
-Target 10,000 cumulative first-time US installs over 12 months, not 10,000 MAU or payers. Distinguish paid acquisition, organic search, browse and referrals in reporting. The buyer/searcher is a caregiver or family member seeking something manageable to do together; the participant is an adult with individual interests and capabilities.
+The goal is 10,000 cumulative first-time installs worldwide over 12 months (widened from US only on 2026-11-08), not 10,000 MAU or payers; this document covers the US storefront, still the largest single market. Distinguish paid acquisition, organic search, browse and referrals in reporting. The buyer/searcher is a caregiver or family member seeking something manageable to do together; the participant is an adult with individual interests and capabilities.
 
 Positioning: **a simple shared activity, not a memory test**. Product constraints: no new backend, no account, bounded local photos, English-first, no clinical promises.
 

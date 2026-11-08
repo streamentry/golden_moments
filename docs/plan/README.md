@@ -145,7 +145,7 @@ Founder-led and cheap first; no paid spend without an approved budget.
 
 1. **Search:** problem-to-activity pages (asking to go home, visiting day, a rainy
    day), each with what to say, two activities and a printable; a few
-   human-written, sourced pages a month. Language tiers: [language markets](language-markets.md) section 6.
+   human-written, sourced pages a month. Markets to compete in: [language markets](language-markets.md) section 6.
 2. **App discovery:** ratings through the existing prompt only; the review-gap
    message in screenshots; the localized listings as US and international reach.
 3. **Associations and care settings:** memory cafés, Area Agencies on Aging,
