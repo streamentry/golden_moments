@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "رەسىم جۈپلىرى",
+    "seoTitle": "دېمېنسىيە ئۈچۈن ماسلاشتۇرۇش ئويۇنى: رەسىم جۈپلىرى",
+    "h1": "رەسىم جۈپلىرى: خاتىرجەم ماسلاشتۇرۇش ئويۇنى",
+    "description": "دېمېنسىيە بىلەن ياشاۋاتقان كىشىلەر ئۈچۈن ھەقسىز، خاتىرجەم ماسلاشتۇرۇش ئويۇنى. چوڭ رەسىملەر كۆرۈنۈپ تۇرىدۇ، ۋاقىت ئۆلچىگۈچ ياكى ھېساب يوق، سىز 4 دىن 12 گىچە كارتوچكا تاللايسىز.",
+    "short": "ئوخشاش ئىككى رەسىمنى تېپىڭ. رەسىملەر كۆرۈنۈپ تۇرسىمۇ بولىدۇ.",
+    "players": "1 ياكى 2 كىشى، يان-يانا ئولتۇرۇپ",
+    "intro": "بىر رەسىمنى بېسىڭ، ئاندىن ئۇنىڭغا ئوخشايدىغان رەسىمنى بېسىڭ. رەسىملەر ئادەттىكىدەك كۆرۈنۈپ تۇرىدۇ، شۇڭا ئەستە تۇتۇشنىڭ ھاجىتى يوق. ئوخشاش جۈپ بولغاندا ئالتۇن رامكا ۋە بەلگە پەيدا بولىدۇ.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "كارتوچكا سانىنى تاللاڭ. تۆتى باشلاش ئۈچۈن خاتىرجەم جاي.",
+      "ھەر قانداق بىر رەسىمنى بېسىڭ. ئۇنىڭ ئالتۇن رامكىسى پەيدا بولىدۇ.",
+      "ئوخشاش كۆرۈنگەن رەسىمنى بېسىڭ. جۈپ بىرگە تۇرىدۇ ۋە بەلگە قويۇلىدۇ.",
+      "ئىككى رەسىم ئوخشاش بولمىسا، ھېچ يامانلىق يۈز بەرمەيدۇ. تەييار بولغاندا قايتا بېسىڭ.",
+      "“يوشۇرۇن رەسىملەر” نى پەقەت ئىككىڭىز ياخشى كۆرسىڭىزلا ياندۇرۇڭ، ئۇ رەسىملەر يۈزى يەرگە قارىغان كلاسسىك نۇسخا."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "رەسىملەرنى بىرگە ئاۋاز چىقىرىپ ئاتاڭ ۋە ئۇلار ھەققىدە سۆزلەڭ: “قىزىل چاي چىنىسى. چايىڭىزغا سۈت سالامسىز؟”",
+      "سىز غەمخورلۇق قىلىۋاتقان كىشىگە بېسىشنى ئۆزى قىلدۇرۇڭ، گەرچە ۋاقىت ئالسىمۇ. ئۇنىڭ ئورنىغا بېسىپ بەرگەندىن كۆرە نۇقتىلاپ كۆرسىتىڭ.",
+      "ياقىدىغان ۋاقىتقىچە تۆت كارتوچكىدا تۇرۇڭ. كۆپ كارتوچكا پەقەت تاللاش، ئېرىشىش كېرەك بولغان بىر دەرىجە ئەمەس.",
+      "ھوزۇرلىنىۋاتقان ۋاقتىدا توختاڭ. بىر ئويۇن تولۇق پائالىيەت بولۇپ ھېسابلىنىدۇ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ۋاقىت ئۆلچىگۈچ ياكى ھېساب بارمۇ؟",
+        "a": "يوق. سائەت، ھېساب، يۈرۈش ساناش ياكى ئۇتۇلۇش يوق. ھەر قانداق ۋاقىتتا توختىسىڭىز بولىدۇ، يېرىمدا توختاش مۇ ياخشى ئاخىرلاشتۇرۇش ئۇسۇلى."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "نېمە ئۈچۈن رەسىملەر ئوچۇق تۇرىدۇ؟",
+        "a": "رەسىملەر كۆرۈنۈپ تۇرغاندا ئويۇن ئەستە تۇتۇشتىن كۆرۈش ۋە ماسلاشتۇرۇشقا ئايلىنىدۇ. نۇرغۇن كىشىلەر بۇنى تېخىمۇ تىنچ ھېس قىلىدۇ. خالىسىڭىز، بىر بېسىش بىلەن “يوشۇرۇن رەسىملەر” گە ئالماشتۇرالايسىز."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ھەقسىزمۇ؟ ھېساب ئاچامدۇ؟",
+        "a": "ھەئە، ھەقسىز، ھېساب ئېچىش ياكى چۈشۈرۈش كېرەك ئەمەس. تېلېفون، پلانشېت ياكى كومپيۇتېردىكى تور كۆرگۈچتە ئىشلەيدۇ."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "ئۆزىمىزنىڭ ئائىلە رەسىملىرىنى ئىشلەتسەك بولامدۇ؟",
+        "a": "بولىدۇ. “رەسىم جۈپلىرى” نى سىناڭ، ئۇ ئۈسكۈنىڭىزدىن رەسىم تاللاشقا يول قويىدۇ. رەسىملەر تور كۆرگۈچتە قالىدۇ ۋە يۈكلەنمەيدۇ."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "ئوخشاشىنى تېپىش",
+    "seoTitle": "ئوخشاش رەسىمنى تېپىش: ئاددىي دېمېنسىيە ئويۇنى",
+    "h1": "ئوخشاش رەسىمنى تېپىڭ",
+    "description": "ئۈستىدە بىر رەسىم، ئاستىدا ئىككىدىن تۆتكىچە رەسىم. ئوخشىغىنىنى بېسىڭ. دېمېنسىيە بىلەن ياشاۋاتقان كىشىلەر ئۈچۈن ۋاقىتسىز، ھەقسىز، خاتىرجەم رەسىم ئويۇنى.",
+    "short": "ئۈستىدىكى رەسىمگە قاراپ، ئاستىدىكى ئوخشىشىنى بېسىڭ.",
+    "players": "1 ياكى 2 كىشى",
+    "intro": "ئېكراننىڭ ئۈستى قىسمىدا بىر رەسىم تۇرىدۇ. ئۇنىڭ ئاستىدا ئىككى، ئۈچ ياكى تۆت رەسىم بولىدۇ. ئوخشىغىنىنى بېسىڭ. ھەر قېتىمدا بىر ئاددىي تاللاش، سۆزلەشكە كۆپ ۋاقىت بار.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "تاللايدىغان ئىككى، ئۈچ ياكى تۆت رەسىمنى تاللاڭ. ئىككىسى ئەڭ ئاددىي.",
+      "ئۈستىدىكى رەسىمگە بىرگە قاراڭ.",
+      "ئاستىدىكى ئوخشاش رەسىمنى بېسىڭ. ئۇ بەلگە ۋە بىر قانچە ئىللىق سۆز بىلەن بەلگىلىنىدۇ.",
+      "باشقا رەسىم بېسىلسا، ئويۇن ئۇنىڭ نامىنى ئاتاپ كۈتىدۇ. ۋاقتىڭىزنى ئېلىڭ.",
+      "تەييار بولغاندا “كېيىنكى رەسىم” نى بېسىڭ."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "تاللاشتىن بۇرۇن ھەر بىر رەسىم ھەققىدە سۆزلەڭ: رەڭلىرى، شەكلى، ئادەتتە نەدە كۆرگىلى بولىدىغانلىقى.",
+      "ئىككى تاللاش «بەك ئاسان» دېگەنلىك ئەمەس. مەقسەت ياقىملىق بىر پەيت، سىناق ئەمەس.",
+      "بېسىش قىيىن بولسا، كىشى نۇقتىلىسا، سىز ئۇنىڭ ئورنىغا بېسىپ بەرسىڭىز بولىدۇ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ۋاقىت ئۆلچىگۈچ ياكى ھېساب بارمۇ؟",
+        "a": "يوق. سائەت، ھېساب، يۈرۈش ساناش ياكى ئۇتۇلۇش يوق. ھەر قانداق ۋاقىتتا توختىسىڭىز بولىدۇ، يېرىمدا توختاش مۇ ياخشى ئاخىرلاشتۇرۇش ئۇسۇلى."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "خاتا رەسىم بېسىلسا نېمە بولىدۇ؟",
+        "a": "ھېچ ياقىمىسىز ئىش بولمايدۇ. ئاۋاز چىقىرىش، قىزىل كرېست ياكى تىترەش يوق. ئويۇن بېسىلغان رەسىمنىڭ نامىنى ئېيتىپ، كېيىنكى بېسىشنى كۈتىدۇ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ھەقسىزمۇ؟ ھېساب ئاچامدۇ؟",
+        "a": "ھەئە، ھەقسىز، ھېساب ئېچىش ياكى چۈشۈرۈش كېرەك ئەمەس. تېلېفون، پلانشېت ياكى كومپيۇتېردىكى تور كۆرگۈچتە ئىشلەيدۇ."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "سايە ماسلاش",
+    "seoTitle": "دېمېنسىيە ئۈچۈن سايە ماسلاشتۇرۇش ئويۇنى: ھەقسىز تور",
+    "h1": "سايە ماسلاش: خاتىرجەم رەسىم ئويۇنى",
+    "description": "ئۈستىدە قاراڭغۇ سايە، ئاستىدا ئىككىدىن تۆتكىچە رەسىم. سايە ھاسىل قىلغان رەسىمنى بېسىڭ. دېمېنسىيە ئۈچۈن ھەقسىز، خاتىرجەم سايە ماسلاشتۇرۇش ئويۇنى، ۋاقىت ئۆلچىگۈچسىز.",
+    "short": "سايىگە قاراپ، ئۇنى ھاسىل قىلغان رەسىمنى بېسىڭ.",
+    "players": "1 ياكى 2 كىشى",
+    "intro": "سايە ماسلاشتۇرۇش بېسىلغان ۋەرەقلەردىن تونۇشلۇق پائالىيەت، بۇ يەردە چوڭ رەسىملەر بىلەن ۋە بېسىپ چىقىرىشنىڭ ھاجىتى يوق. ئېكراننىڭ ئۈستىدە يۇمشاق سايە تۇرىدۇ، ئاستىدا ئىككى، ئۈچ ياكى تۆت رەسىم كۈتىدۇ. سايە ھاسىل قىلغان رەسىمنى بېسىڭ. ۋېلوسىپىت، زونت ياكى چاي چىنىسى دېگەندەك شەكىللەر ھەققىدە سۆزلەشمۇ ئاسان.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "تاللايدىغان ئىككى، ئۈچ ياكى تۆت رەسىمنى تاللاڭ. ئىككىسى ئەڭ ئاددىي.",
+      "سايەگە بىرگە قاراڭ. ئۇنىڭ شەكلى قانداق؟ ئېگىز ياكى يۇمۇلاقمۇ؟",
+      "سايە ھاسىل قىلغان رەسىمنى بېسىڭ. ئۇنىڭ نامى سايىنىڭ ئاستىدا كۆرۈنىدۇ.",
+      "باشقا رەسىم بېسىلسا، ئويۇن ئۇنىڭ نامىنى ئاتاپ كۈتىدۇ. ۋاقتىڭىزنى ئېلىڭ.",
+      "تەييار بولغاندا “كېيىنكى سايە” نى بېسىڭ."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "بارمىقىڭىز بىلەن سايەنىڭ سىزىقىنى ئايلاندۇرۇپ، شەكلى ھەققىدە سۆزلەڭ.",
+      "بۈگۈن سايە تەس بولسا، رەسىملەر ئوخشاش كۆرۈنىدىغان “ئوخشاشىنى تېپىش” كە ئۆتۈڭ.",
+      "رەسىم تېپىلغاندىن كېيىن ئۇ ھەققىدە سۆزلەڭ: “بىزدە شۇنداق زونت بار ئىدى.”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ۋاقىت ئۆلچىگۈچ ياكى ھېساب بارمۇ؟",
+        "a": "يوق. سائەت، ھېساب، يۈرۈش ساناش ياكى ئۇتۇلۇش يوق. ھەر قانداق ۋاقىتتا توختىسىڭىز بولىدۇ، يېرىمدا توختاش مۇ ياخشى ئاخىرلاشتۇرۇش ئۇسۇلى."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "شەكىل ماسلاشتۇرۇش دېمېنسىيە بىلەن ياشاۋاتقانلар ئۈچүн ياخشىمۇ؟",
+        "a": "بۇ بەزى كىشىلەр ئۈچۈن ياقımлıq ۋە ئاددىي پائالىيەت بولالايدu، بولupmu دېمېنسىيەنىڭ دەسلەپكى باسقۇچىدا. شەكىللەرنى سۆزلەرگە قارىغاندا تونۇش ئاسان. بۇ ھۇزۇرلىنىش ۋە سۆھبەت ئۈچۈن، تەكشۈرۈش ئۈچۈن ئەمەس، ھەمدە دېمېنسىيەنى داۋالىمايدu ياكى ئاستىلاتمайду. ئەگەر ئاچچىقلاندۇرسا، «ئوخشاشنى تېپىڭ» ئويۇنىنى سىناڭ ياكى بىللە رەسىملەرگە قاراڭ."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "خاتا رەسىمگە بوسۇلسا نېمە بولىدۇ؟",
+        "a": "ھېچقانداق ياقىمسىز ئىش بولمايدu. ھېچقانداق ئاگاھلاندurғuچ، قizil كرېست ياكى تىترەش يوق. ئويۇن بوسۇلغان رەسىمنىڭ نامىنى ئېيتىدu ۋە كېيىنكى بوسۇشنى كۈتىدu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "بۇ ھەقسىزمۇ، تىزىملىتىش كېرەكمۇ؟",
+        "a": "ھەئە، ھەقسىز، ھېسابات، تىزىملىتىش ياكى چۈشۈرۈش كېرەك emas. تېلېفون، планшет ياكى компьютердaki تور брauzerdа ishleydu."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "بىرلىكتە ئايرىش",
+    "seoTitle": "دېمېنسىيە ئۈچۈن ئايرىش ئويۇنى: بىرلىكتە ئايرىڭ",
+    "h1": "بىرلىكتە ئايرىڭ: رەسىم ئايرىش پائالىيىتى",
+    "description": "بىر رەسىمگە بوسۇڭ، ئاندىن ئۇ تەۋە بولغان سەۋەتكە بوسۇڭ: ئاشخانا ياكى باغ، مېۋە ياكى ھايۋانلар. دېمېنسىيە بىلەن ياشاۋاتقانلар ئۈچۈن تىنچ، ھەقسىز ئايرىش پائالىيىتى.",
+    "short": "ھەر بىر رەسىمنى ئۆز سەۋىتىگە سېلىڭ: ئاشخانا ياكى باغ قاتارلىق.",
+    "players": "1 ياكى 2 كىشى",
+    "intro": "ئايرىش تونۇش ۋە ئادەتتىكى كۈندىلik ئىش، مەسىلەن ئاشلىقنى ئورۇنلاشتۇرۇش ياكى پايپاقنى جۈپلەش. بىر رەسىمگە بوسۇڭ، ئاندىن ئۇ تەۋە بولغان سەۋەتكە بوسۇڭ. ھېچقانداق ئالدىراش يوق ۋە خاتا يول يوق.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "بىر تېمىنى تاللاڭ: ئاشخانا ۋە باغ، مېۋە ۋە ھايۋانлар، ياكى ئۆي ۋە ساياھەت.",
+      "بىر رەسىمگە بوسۇڭ. ئۇنىڭغا ئالтун رامکa چىقىدu.",
+      "ئۇ تەۋە بولغان سەۋەتكە بوسۇڭ. رەسىم شۇ سەۋەتكە كىرىدu.",
+      "ئەگەر ئۇ باشقا سەۋەتكە تەۋە بولسا، ئويۇن مۇلايىملىق بىلەن ئېيتىدu ۋە كۈتىدu.",
+      "ھەممە رەسىم ئايرىلغاندin كېيىn، سەۋەتلەرنى بىللە كۆزدىن كەچۈرۈڭ."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "ھاياتتا كۆپىنچە ھېچقانداق خاتا جاۋاب يوق. ئەگەر بىرى سۇ قۇيغۇچنىڭ ئاشخانىغa تەۋە ئىكەنلىكىنى ئېيتسا، نېمە ئۈچۈن دەپ سوراڭ. ياخشى ھekaye ئاڭلىشىڭىز مۇمكىن.",
+      "رەسىملەرنى سۆھبەت ئۈچۈن ئىشلىتىڭ: «باغدا نېمە تېرىغانسىز؟»",
+      "ھەقىقىي بۇيumlarni، مەسىلەن قاشuq ۋە چوڭقاي، ياكى رەڭگى بويiche توپمە-توپمە ئايرىش، ئېكراندin سirtqi ياخشi داۋamlashturusha بولىدu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ۋاقىت ئۆلچىگۈچ ياكى ئۇتۇق ئۆلچىمى بارمۇ؟",
+        "a": "يوق. ھېچقانداق سائەت، ئۇتۇق ئۆلچىمى، ھەرىكەت ساناقچىسى ياكى ئۇتقۇزۇش يوق. خالىغan ۋاقتىدا توختىيالايسiz، ئوتتۇرىدا توختاش ھم تامامlashنىڭ ياخشi يولى."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "نېمە ئۈچۈن ئايرىش؟",
+        "a": "نۇرغۇن كىشiler ئايرىشنى ياقتۇرىدu، چۈنki ئۇ پايدىلىق ۋە تونۇش ئىشتەك ھېس قىلدurىدu. يەنە رەسىملەرنى ئايرىغاندا ئۇلار ھەققىدە سۆزلەش ئاسان."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "بۇ ھەقسىزمۇ، تىزىملىتىش كېرەكمۇ؟",
+        "a": "ھەئە، ھەقسىز، ھېسابات، تىزىملىتىش ياكى چۈشۈرۈش كېرەك emas. تېلېفون، планшет ياكى компьютердaki تور брauzerdа ishleydu."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "رەسىملىك پازل",
+    "seoTitle": "دېمېنسىيە ئۈچۈن ئاددىي پازل: 4 ياكى 9 پارچە",
+    "h1": "رەسىملىك پازل: ئاددىي پازل",
+    "description": "دېمېنسىيە بىلەن ياشاۋاتقانلар ئۈچۈن ئاددىي تور پازلى: 4 ياكى 9 چوڭ پارچە، پۈتۈن رەسىم كۆرۈنۈپ تۇrиdu، ئىككi پارچىنى بوسۇپ ئالماشتۇرىسiz.",
+    "short": "ئىككى پارچىنى بوسۇپ ئالماشتۇرۇڭ، رەسىم تولۇق بولغۇچە.",
+    "players": "1 ياكى 2 كىشى",
+    "intro": "ياقىملىق بىر رەسىم تۆت ياكى توققۇز چوڭ پارچىغa бөлүнүп ئارىلаشتۇرۇلىدu. پۈتۈن رەسىم يول كۆرسەتكۈچ سۈپىتىدە كۆرۈنۈپ تۇrиdu. بىر پارچىغa، ئاندىن يەنە بىرىگە بوسۇڭ، ئۇلار ئورۇن ئالماشتۇرىدu. سۆرەش كېرەك emas.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "بىر رەسىم ۋە 4 ياكى 9 پارچە تاللاڭ. تۆت پارچە مۇلايىم باشلanғuch.",
+      "ئۈستىدىكi پۈتۈن رەسىمگە قاراڭ.",
+      "بىر پارچىغa بوسۇڭ، ئاندىن ئۇ بارىدىغan ئورۇنغa بوسۇڭ. ئىككى پارچە ئالماشىدu.",
+      "توغرا ئورۇنغa تۇرغان پارچىلarda kichik توغرا بەلگە пәйдا بولىدu.",
+      "رەسىم تولۇق بولغاندىن كېيىn، بىللە تەمتىرەڭ، ئاندىن باشقa بىرini تاللاڭ."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "نۇرغۇن كىشiler ئۈچۈن پارچىنى سۆرەشتىن كۆرە ئىككi پارچىنى بوسۇپ ئالماشتۇرۇش ناھايىتi ئاسان.",
+      "رەسىم شەكىllىنىۋاتقاندا ئۇ ھەققىدە سۆزلەڭ: «ئاnnە قىزىل ئۆي ئۇ يەردە».",
+      "12 دىن 24 گىچە چوڭ پارچىلىق ھەقىقىي ياغاچ پازلمۇ جەدۋەل ئۈستىدە ياخشi پائالىيەت."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ۋاقىت ئۆلچىگۈچ ياكى ئۇتۇق ئۆلچىمى بارمۇ؟",
+        "a": "يوق. ھېچقانداق سائەت، ئۇتۇق ئۆلچىمى، ھەرىكەت ساناقچىسى ياكى ئۇتقۇزۇش يوق. خالىغan ۋاقتىدا توختىيalaysiz، ئوتتۇرىدا توختاش ھەم تامamlashنىڭ ياخشi يولى."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "پارچىلارنى سۆرىشىم كېرەكمۇ؟",
+        "a": "يوق. بىر پارچىغa بوسۇڭ، ئاندىن يەنە بىرىگە بوسۇڭ، ئۇلار ئورۇن ئالماشتۇرىدu. قولى تىترىگەن كىشiler ياki كىچىك ئېكراندا بۇ تېخىمu ئاسان."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "بۇ ھەقسىزمۇ، تىزىملىتىش كېرەكمۇ؟",
+        "a": "ھەئە، ھەقسىز، ھېسابات، تىزىملىتىش ياكى چۈشۈرۈش كېرەك emas. تېلېفون، планшет ياكى компьютердaki تور брauzerdа ishleydu."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "ماقالنى ئاخىرلاشتۇرۇش",
+    "seoTitle": "ماقالنى ئاخىرلاشتۇرۇش: قېرىلار ئۈچۈن ماقال ئويۇنى",
+    "h1": "ماقالنى ئاخىرلاشتۇرۇڭ",
+    "description": "ئاخىرقى سۆزى يوق تونۇش ئامېرىكا ماقاللىرى، مەسىلەن “A penny saved is a penny ___”. بىر تاللاشنى بېسىڭ ياكى ئاخىرىنى كۆرسىتىڭ، ئاندىن ئۇ ھەققىدە سۆزلەڭ.",
+    "short": "تونۇش ماقاللارنى بىللە تamamlاڭ، ئاندىن ئۇلار ھەققىدە سۆزلەڭ.",
+    "players": "1، 2 ياكى گۇرۇپپا",
+    "intro": "كونا ماقاللار ئادەتتە ئۆمرى بويى تونۇش بولىدu. ھەر بىر كارتىدا ئاخىرقى سۆزى يوق تونۇش ماقال، ئۈچ تاللاش ۋە «ئاخىرىنى كۆرسەت» كۇنپكىسى بار. ئاخىرىدىن كېيىن، مۇلايىم سوئال سۆھبەتكە تەكلىپ قىلىدu.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "ماقالنى بىللە ئاۋازلىق ئوقۇڭ.",
+      "ئاخىرقى سۆزنى تاللاڭ ياكى «ئاخىرىنى كۆرسەت» نى بېسىڭ.",
+      "پۈتۈن ماقالنى قايتا ئوقۇڭ، ئاندىن سوئال ئارقىلىق سۆزلەڭ.",
+      "تەييار بولغاندا «كېيىنكi ماقال» نى بېسىڭ."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "ئاستا ئوقۇڭ ۋە ئاخىرقى سۆزدىن ئىلгىرى پەس قويۇڭ. كۆپىنچە ھallarda كىشiler ئۇنى سىزدin ئىلگىرى ئېيتىدu.",
+      "ئەگەر بىرى باشقا خىل ئاخىر ئېيتسا، ئۇنى ياخشi كۆرۈڭ. ماقاللارنىڭ نۇسخىسى ئائىلە ياكى رايونغa قاراپ ئوخشimaydu.",
+      "گۇرۇپپىدا بىر كىشi ئوقuydu، ھەممە ئاخىرىغa قوشulidu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ۋاقىت ئۆلچىگۈچ ياكى ئۇتۇق ئۆلچىمى بارمۇ؟",
+        "a": "ياق. بۇ يەردە ۋاقىت ئۆلچىگۈچ، ئۇتۇق ھېسابلاش ياكى ھەرىكەت سانىغۇچ يوق، ئۇتۇلۇشمۇ يوق. ھەر ۋاقىت توختىسىڭىز بولىدۇ، يېرىمىدا توختاش ھەم ياخشى ئاخىرلاشتۇرۇش ھېسابلىنىدۇ."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "باشقا سۆز تاللىسام نېمە بولىدۇ؟",
+        "a": "ئويۇن ئادەتتىكىدەك ئاخىرلىشىپ سۆھبەتكە ئۆتىدۇ. بۇ يەردە ئۇتۇق ھېسابلانمايدۇ، باشقا جاۋاب بەرگەنمۇ بولىدۇ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ھەقسىزمۇ، ھېسابات ئېچىشقا توغرا كېلەمدۇ؟",
+        "a": "ھەئە، ھەقسىز. ھېسابات ئېچىشمۇ، چۈشۈرۈۋېلىشمۇ كېرەك emas. تېلېفون، پلانشېت ياكى كومپيۇتېردىكى تور كۆرگۈچتە ئىشلەيدۇ."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "چوڭ خەتلىك سۆز ئىزدەش",
+    "seoTitle": "دېمېنشىيە بار كىشىلەر ئۈچۈن چوڭ خەتلىك سۆز ئىزدەش، بېسىشقا بولىدۇ",
+    "h1": "چوڭ خەتلىك سۆز ئىزدەش",
+    "description": "ياشانغانلار ۋە دېمېنشىيە بار كىشىلەر ئۈچۈن ھەقسىز چوڭ خەتلىك سۆز ئىزدەش. ئاز سۆز، چوڭ خەتلەر، پەقەت ئۇزۇنىغا ۋە تىكىگە يېزىلغان سۆزلەر. تورda ئويناڭ ياكى بېسىڭ.",
+    "short": "چوڭ خەتلەر، ئازراق سۆز، پەقەت ئۇزۇنىغا ۋە تىكىگە. قەغەزگىمۇ بېسىڭ.",
+    "players": "1 ياكى 2 كىشى",
+    "intro": "چوڭ خەتلىك كىچىك جەدۋەل ۋە ئازراق سۆزلەر، ھەممىسى ئۇزۇنىغا ياكى تىكىگە يېزىلغان. سۆزنىڭ بىرىنچى ھەرپىنى بېسىڭ، ئاندىن ئاخىرقى ھەرپىنى بېسىڭ. قەغەز ياقتۇرامسىز؟ يېڭى جەدۋەلنى بىر چېكىشلا بېسىپ چىقىرىشقا بولىدۇ.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "تېما ۋە جەدۋەل چوڭلۇقىنى تاللاڭ.",
+      "سۆزلەر تىزىمىغا قاراڭ. سۆزلەر ئۇزۇنىغا (سولدىن ئوڭغا) ياكى تىكىگە (ئۈستىدىن ئاستىغا) يېزىلغان.",
+      "بىر سۆزنىڭ بىرىنچى ھەرپىنى بېسىڭ، ئاندىن ئاخىرقى ھەرپىنى بېسىڭ.",
+      "تېپىلغان سۆز يورۇتۇلىدۇ ۋە تىزىمدىن ئۆچۈرۈلىدۇ.",
+      "«بۇ جەدۋەلنى بېسىش» نى بېسىپ، قەغەز ۋە قەلەم بىلەن ئويناڭ."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "تىزىمدىكى بىر سۆزنى كۆرسىتىپ، ئۇنىڭ بىرىنچى ھەرپىنى بىرلىكتە ئىزدەڭ.",
+      "قەغەزدە قەلەمدىن كۆرە خەتكۈچنى تۇتۇش ئاسان.",
+      "تېمىدىكى سۆزلەر ھەققىدە پاراڭلاشقىن. مېۋە سۆزلىرى تەرىش، پىشۇرۇش ياكى بازار ھەققىدىكى ئەسلىمىلەرنى ئويغىتىشقا تەبىئىي يول بولىدۇ."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ۋاقىت ئۆلچىگۈچ ياكى ئۇتۇق ھېسابلاش بارمۇ؟",
+        "a": "ياق. بۇ يەردە ۋاقىت ئۆلچىگۈچ، ئۇتۇق ھېسابلاش ياكى ھەرىكەت سانىغۇچ يوق، ئۇتۇلۇشمۇ يوق. ھەر ۋاقىت توختىسىڭىز بولىدۇ، يېرىمىدا توختاش ھەم ياخشى ئاخىرلاشتۇرۇش ھېسابلىنىدۇ."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "سۆز ئىزدەشنى بېسىۋالغىلى بولامدۇ؟",
+        "a": "ھەئە. «بۇ جەدۋەلنى بېسىش» نى بېسىپ، ھازىرقى جەدۋەلنى چوڭ خەتتە، ئاستىدا سۆزلەر تىزىمى بىلەن بېسىڭ. ھەر يېڭى جەدۋەل ئوخشىمايدۇ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ھەقسىزمۇ، ھېسابات ئېچىشقا توغرا كېلەمدۇ؟",
+        "a": "ھەئە، ھەقسىز. ھېسابات ئېچىشمۇ، چۈشۈرۈۋېلىشمۇ كېرەك emas. تېلېفون، پلانشېت ياكى كومپيۇتېردىكى تور كۆرگۈچتە ئىشلەيدۇ."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "رەڭلەش رەسىملىرى",
+    "seoTitle": "دېمېنشىيە بار چوڭ كىشىلەر ئۈچۈن رەڭلەش رەسىملىرى (ھەقسىز)",
+    "h1": "رەڭلەش رەسىملىرى",
+    "description": "چوڭ كىشىلەر ئۈچۈن ئاددىي رەڭلەش رەسىملىرى، چوڭ يۈزلۈك شەكىللەر بىلەن: رەڭنى بېسىڭ، ئاندىن رەسىمنى بېسىڭ. ئاسان، خاتا رەڭ يوق، ھەر بەتنى ھەقسىز بېسىۋالغىلى بولىدۇ.",
+    "short": "رەڭنى بېسىڭ، ئاندىن رەسىمنىڭ بىر قىسمىنى بېسىڭ. بەتلەرنى بېسىشمۇ بولىدۇ.",
+    "players": "1 ياكى 2 كىشى",
+    "intro": "چوڭ ۋە ئاددىي شەكىللەر: گۈلدان ئىچىدىكى گۈل، ئۆي، چاي كاسىسى، كاپالەك ۋە يەلكەنلىك كېمە. رەڭنى بېسىڭ، ئاندىن رەسىمنىڭ بىر قىسمىنى بېسىپ ئۇنى بويايسىز. خاتا رەڭ دېگەن يوق.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "بەت تاللاڭ.",
+      "رەڭنى بېسىڭ. ھەر رەڭنىڭ ئىسمى ئۇنىڭ ئۈستىدە يېزىلغان.",
+      "شۇ رەڭ بىلەن تولدۇرۇش ئۈچۈن رەسىمنىڭ بىر قىسمىنى بېسىڭ.",
+      "خالىغان ۋاقىتتا ئۆزگەرتىڭ، يەنە بىر قېتىم تولدۇرۇڭ.",
+      "«بۇ بەتنى بېسىش» نى بېسىپ، قەلەم ياكى خەتكۈچ بىلەن ئاق بەتكە رەڭلەڭ."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "ھەممە رەڭنى ئەمەس، ئىككى رەڭنى تاللاشقا بەرسىڭىز، ھەممىسى ئارتۇق كۆرۈنگەندە تاللاش ئاسان بولىدۇ.",
+      "بىنەپشە دەرەخ ۋە كۆك قۇياشمۇ ياخشى قارىلىدۇ. مۇھىمى رەڭدىن ھۇزۇرلىنىش، توغرا بولۇشى ئەمەس.",
+      "بېسىلغان بەتلەرگە توم قەلەم ياكى رەڭلىك قەلەم ياخشى، ئۇنى تۇتۇشقا ئاسان."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ۋاقىت ئۆلچىگۈچ ياكى ئۇتۇق ھېسابلاش بارمۇ؟",
+        "a": "ياق. بۇ يەردە ۋاقىت ئۆلچىگۈچ، ئۇتۇق ھېسابلاش ياكى ھەرىكەت سانىغۇچ يوق، ئۇتۇلۇشمۇ يوق. ھەر ۋاقىت توختىسىڭىز بولىدۇ، يېرىمىدا توختاش ھەم ياخشى ئاخىرلاشتۇرۇش ھېسابلىنىدۇ."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "بۇ رەسىملەر بالىلارچە بولۇپ قالمدۇ؟",
+        "a": "بىز كارتۇن ئەمەس، سىپايى ۋە ئاددىي بۇيۇملارنى سىزدۇق، شۇڭا بۇ بەتلەر چوڭ كىشىلەرگە لايىق. چوڭ شەكىللەر رەڭلەشنى ئاسان قىلىدۇ، ئەمما بالىلارچە قىلمايدۇ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ھەقسىزمۇ، ھېسابات ئېچىشقا توغرا كېلەمدۇ؟",
+        "a": "ھەئە، ھەقسىز. ھېسابات ئېچىشمۇ، چۈشۈرۈۋېلىشمۇ كېرەك emas. تېلېفون، پلانشېت ياكى كومپيۇتېردىكى تور كۆرگۈچتە ئىشلەيدۇ."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "سۆھبەت كارتىلىرى",
+    "seoTitle": "دېمېنشىيە بار كىشىلەر ئۈچۈن سۆھبەت باشلاش: رەسىملىك كارتىلار",
+    "h1": "سۆھبەت كارتىلىرى",
+    "description": "دېمېنشىيە بار كىشىلەر ئۈچۈن مۇلايىم سۆھبەت باشلىغۇچى سوئاللار بار رەسىملىك كارتىلار: سوراق يوق، توغرا جاۋاب يوق. ئېكراندا ئىشلىتىڭ ياكى تولۇق توپلامنى بېسىڭ.",
+    "short": "ئوچۇق، مۇلايىم سوئاللار بار رەسىملىك كارتىلار. سوراق يوق.",
+    "players": "2 كىشى ياكى گۇرۇپپا",
+    "intro": "ھەر كارتا تونۇشلۇق رەسىمنى ئوچۇق تەكلىپ بىلەن بىرلەشتۈرىدۇ، مەسىلەن «ئەڭ ياقتۇرىدىغان ھاۋا قايسى؟». توغرا جاۋاب يوق، ئەسلەش كېرەكمۇ يوق. تېما تاللاڭ ياكى ھەممىنى ئارىلاشتۇرۇڭ.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "تېما تاللاڭ ياكى «ھەممە كارتا» نى قويۇڭ.",
+      "سوئالنى ئاۋاز چىقىرىپ ئوقۇڭ، رەسىمگە بىرلىكتە قاراڭ.",
+      "ئاڭلاڭ، ئۆز جاۋابىڭىزنى ئېيتىڭ، سۆھبەتنىڭ ئۆزى مېڭىشىغا يول قويۇڭ.",
+      "تەييار بولغاندا «كېيىنكى كارتا» نى بېسىڭ، ياكى خالىغانچە بىر كارتىدا قېلىڭ.",
+      "«بارلىق كارتىنى بېسىش» نى بېسىپ، قەغەز توپلامنى كېسىڭ."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "سوئالغا ئۆزىڭىزمۇ جاۋاب بېرىڭ. بۇ سوراق ئەمەس، بىر پاراڭ بولسۇن.",
+      "پاكىتقا ئەمەس، ھېكايىگە ئەگىشىڭ. تەپسىلاتلار ئۆزگەرسە، ئۇ ھېچ گەپ ئەمەس.",
+      "ئەگەر بىر كارتا غەمكىن نەرسىگە تېگىپ قالسا، ھېسسىياتنى ئېتىراپ قىلىڭ ۋە ئاستا-ئاستا باشقا كارتىغا ئۆتۈڭ."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "نېمىشقا «ئەسلەمسىز…؟» دېگەندەك سوئاللار يوق؟",
+        "a": "ئەسلەشكە مەجبۇرلايدىغان سوئاللار ئىمتىھاندەك تۇيۇلۇپ، خىجىللىق پەيدا قىلىشى مۇمكىن. «ماڭا … توغرىسىدا سۆزلەپ بېرىڭ» دەك ئوچۇق تەكلىپلەر ھەممە ئادەمنىڭ قاتنىشىشىغا ئىمكان بېرىدۇ، ئەسلىيەلىشىگە قارىماي."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "كارتىلارنى بېسىۋالغىلى بولامدۇ؟",
+        "a": "ھەئە. «بارلىق كارتىنى بېسىش» توپلامنى چوڭ خەتتە، بەتتە بىر نەچچە كارتىدىن بېسىپ، كېسىشكە تەييار قىلىدۇ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "ھەقسىزمۇ، ھېسابات ئېچىشقا توغرا كېلەمدۇ؟",
+        "a": "ھەئە، ھەقسىز. ھېساب ئاچماйسىز، تىزىملاتمايسىز ۋە ھېچنېمە چۈشۈرمەيسىز. ئۇ تېلېفون، پلانشېت ياكى كومپيۇتېردىكى تور كۆرگۈچتە ئىشلەيدۇ."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "رەسىم جۈپلىرى",
+    "seoTitle": "ئائىلە رەسىملىرىدىن ئوخشاش جۈپ تېپىش ئويۇنى ياساش",
+    "h1": "رەسىم جۈپلىرى: ئۆز رەسىملىرىڭىزنى ماسلاштуرۇڭ",
+    "description": "ئۆز ئائىلە رەسىملىرىڭىزنى مۇلايىم ئوخشاش جۈپ تېپىش ئويۇنىغا ئايلاندurung. ئۈسكۈنىڭىزدىن 2 دىن 6 غىچە رەسىم تاللاڭ؛ ئۇلار تور كۆرگۈچىڭىزدە قالىدۇ ۋە ھەرگىز يوللانمايدۇ.",
+    "short": "ئۆز رەسىملىرىڭىزنى تاللاڭ ۋە ئوخشاش جۈپلەڭ. ھېچنېمە يوللانمايدۇ.",
+    "players": "2 كىشى، يان-يانا",
+    "intro": "تېلېفون، پلانشېت ياكى كومپيۇتېرىڭىزدىن ئىككىدىن ئالتىگىچە رەسىم تاللاڭ، ئۇلار چوڭ ۋە ئېنىق رەسىملىك ئوخشاش جۈپ تېپىش ئويۇنىغا ئايلىنىدۇ. رەسىملەر پەقەت بۇ بەتتىلا كۆرسىتىلىدۇ. ئۇلار يوللانمايدۇ، ساقلانمايدۇ ۋە باشقىلار بىلەن ھەمبەھىرلەنمەيدۇ؛ بەتنى تاقىسىڭىز يوقىلىدۇ.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "“رەسىم تاللاش” نى چېكىپ 2 دىن 6 غىچە رەسىم تاللاڭ.",
+      "ھەربىر رەسىم ئىككى قېتىم كۆرۈنىدۇ. بىرنى چېكىڭ، ئاندىن ئۇنىڭ جۈپىنى چېكىڭ.",
+      "ھەربىر رەسىمنى تاپقىنىڭىزدا ئۇ ھەققىدە سۆزلەڭ.",
+      "تamam بولغاندا بەتنى تاقاڭ ياكى “رەسىملەرنى تازىلاش” نى چېكىڭ. ھېچنېمە ساقlanmaydu."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "ئادەم ياخشى كۆرىدىغان، تونۇش نەرسىلەرنىڭ ئېنىق رەسىملىرىنى تاللاڭ: ئۆي ھايۋىنى، باغ، سۆيۈملۈك جاي، توي كۈنى.",
+      "جايلار ۋە نەرسىلەرنىڭ رەسىمى يۈزلەرگە قارىغاندا ئاسان بولۇشى مۇمكىن، ھەمدە ئادەمنىڭ ئىسمىنى ئېيتىش ئۈچۈن ھېچقانداق بېسىم پەيدا قىلmaydu.",
+      "ئەگەر ئۇلار تۇيۇقسىز قايغۇ ئېلىپ كېلىشى مۇمكىن بولغان، ۋاپات بولغان كىشىلەرنىڭ رەسىملىرىنى ئەگەر ئۇلارنىڭ تەسەللى بېرىدىغانلىقىنى بىلمىسىڭىز، چىقارماڭ."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "رەسىملىرىم بىرەر يەرگە يوللىنامدۇ؟",
+        "a": "ياق. بەت تاللىغان رەسىملىرىڭىزنى تور كۆرگۈچىڭىزدە بىۋاسىتە ئوقۇپ ئېكراڭىزدا كۆرسىتىدۇ. ئۇلار بىزگە ياكى باشقىلارغا يوللانمايدۇ، بەتنى تاقىسىڭىز ياكى قايتا يۈklesengiz يوقىلىدۇ."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "ۋاقىت ئۆلچىگۈچ ياكى ئۇتۇق ھېساباتى بارمۇ؟",
+        "a": "ياق. ۋاقىت ئۆلچىگۈچ، ئۇتۇق ھېساباتى، يۈرۈش سانىغۇچ ياكى ئۇتۇقسىزلىق يوق. خالىغان ۋاقتىڭىزدا توختىيالaysiz، ئوتتۇرىدا توختاش ھەم بىر ياخشى ئاخىرلاشتۇرۇش يولى."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "كېيىنكى قېتىم ئۈچۈن ئويۇننى ساقlap قويالamdimu؟",
+        "a": "تور كۆرگۈچتە ساقلاشقا بولmaydu، بۇ لايىھە بويىچە، شۇڭا شەخسىي مەلۇمات ساقlanmaydu. ھەقسىز Golden Moments ئەپى (iPhone ۋە iPad ئۈچۈن) تاللانغان رەسىم نۇسخىلىرىنى ئۈسكۈنىڭىزدە ساقلاپ بېرەلەيدۇ."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "رەسىملىك بىنگو",
+    "seoTitle": "ياشانغانلار ئۈچۈن رەسىملىك بىنگو: بېسىشقا بولىدۇ",
+    "h1": "گۇرۇپپىلار ئۈچۈن رەسىملىك بىنگو",
+    "description": "ئەس-ھوشى ئاسراش مەركەزلىرى ۋە ياشانغانلار گۇرۇپپىلىرى ئۈچۈن ھەقسىز بېسىشقا بولىدىغان رەسىملىك بىنگو، ئېكراندا چوڭ چاقىرغۇچ بىلەن. ھەربىر كاتەكتە سۆزى بار چوڭ رەسىم، 9 ياكى 16 كاتەك، ئوقۇشنىڭ ھاجىتى يوق.",
+    "short": "بېسىشقا بولىدىغان رەسىملىك بىنگو كارتىلىرى ۋە گۇرۇپپىلار ئۈچۈن چوڭ ئېكرانلىق چاقىرغۇچ.",
+    "players": "2 دىن 30 غىچە كىشىلىك گۇرۇپپا",
+    "intro": "رەقەم ئورنىغا رەسىم ئىشلىتىلگەن كلاسسىك بىنگو، شۇڭا ھېچكىم ئۇششاق خەتنى ئوقۇشقا موھتاج emas. بىر توپ ئوخشimaydigan كارتىنى بېسىۋېلىڭ، ئاندىن ئېكراندىكى چاقىرغۇچنى ئىشلىتىپ ھەربىر رەسىمنى تېلېۋىزور، نوتبۇك ياكى پلانشېتتا چوڭ قىلىپ كۆرسىتىڭ.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "ھەربىر كارتىدىكى كاتەك سانىنى (9 ياكى 16) ۋە قاتناشقۇچىلار سانىنى تاللاڭ.",
+      "“كارتىلارنى بېسىش” نى چېكىڭ. ھەربىر كارتا باشقىچە بولىدۇ.",
+      "چوڭ ئېكراندا چاقىرغۇچنى ئېچىڭ. “كېيىنكى رەسىم” نى چېكىپ ھەربىر رەسىمنى ئىسمى بىلەن كۆرسىتىڭ.",
+      "قاتناشقۇچىلار كارتىسىدىكى ماس رەسىمنى تەڭگە، توپچە ياكى بەلگە بىلەن يېپىدۇ.",
+      "بىر قۇر ياكى پۈتۈن كارتىنى تولدۇرغان ھەربىر كىشىگە ئالقىش بېرىلىدۇ. بۇ نەشرىدە ئۇتۇقسىزلار يوق: ھەممەيلەن بىر قۇرغا ئېرىشكۈچە ئويناۋېرىڭ."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "شاشقى ياكى بوتۇلكا قاپقىقى قاتارلىق چوڭ بەلگىلەرنى ئىشلىتىڭ. كىچىك توپچىلارنى ئېلىش قىيىن بولۇشى مۇمكىن.",
+      "رەسىمنىڭ نامىنى ئېيتىڭ ۋە ئۇ ھەققىدە بىرنەرسە دەڭ: “بىر يەلكەنلىك قايىق. كىم قايىقتا سەيلە قىلغان؟”",
+      "كۆرۈشى ئاجىز كىشىلەرنى ئېكرانغا ئەڭ يېقىن ئولتۇرغۇزۇڭ، ياردەمچىلەرنى ياردەمگە موھتاج قاتناشقۇچىلار بىلەن جۈپلەڭ.",
+      "كۆپ گۇرۇپپىلار ئۈچۈن توققۇز كاتەك يېتەرلىك. ئويۇننى تەخمىنەن 20 دىن 30 مىنۇتقىچە ساقلاڭ."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "ياشانغانلار ئاسرىلىدىغان ئورنىدا رەسىملىك بىنگونى قانداق ئويناي؟",
+        "a": "ھەربىر قاتناشقۇچىغا بىر كارتا بېسىڭ، چاقىرغۇچنى ئەڭ چوڭ ئېكرانغا قويۇڭ ۋە رەسىملەرنى ئاستا، ھەربىرىنىڭ نامىنى ئېيتىپ چاقىرىڭ. ھەممەيلەن بىر قۇرغا ئېرىشكۈچە ئويناڭ، شۇنداق قىلىپ ھېچكىم چەتتە قالغاندەك ھېس قىلmaydu."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "بېسىش ھەقسىزمۇ؟",
+        "a": "ھەئە. شەخسىي ياكى گۇرۇپپىۋى ئىشلىتىش ئۈچۈن ھاجىتىڭىزگە يارىغۇدەك، خالىغانچە كۆپ كارتا بېسىڭ."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "ئادەملەر ئوقumayla ئوينىيالامدۇ؟",
+        "a": "ھەئە. ھەربىر كاتەك چوڭ رەسىم بولۇپ، سۆزنى ياقتۇرىدىغانlar ئۈچۈن تېگىدە ئىسمى بار."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "تىنچ نەپەس ئېلىش",
+    "seoTitle": "ياشانغانلار ۋە ئاسراۋاتقانلار ئۈچۈن تىنچ نەپەس ئېلىش پەيتى",
+    "h1": "تىنچ نەپەس ئېلىش پەيتى",
+    "description": "بىللە ھەمبەھىرلەش ئۈچۈن ئاستا ۋە جىم نەپەس ئېلىش: مۇلايىم دائىرە ئالته نەپەس ئىچىدە كېڭىيىپ-كىچىكلەيدۇ. ئۆزىڭىز باشلايسىز ۋە خالىغان ۋاقتىدا توختىتالايسىز.",
+    "short": "ئاستا دائىرىگە ماس نەپەس ئېلىڭ. خالىغاندا باشلاڭ ۋە توختىتىڭ.",
+    "players": "1 ياكى 2 كىشى",
+    "intro": "بەزىدە ئەڭ ياخشى پائالىيەت جىم بىر تەنەپپۇس بولىدۇ. “باشلاش” نى چېكىڭ، دائىرە چوڭايغاندا نەپەس ئېلىڭ، كىچىكلىگەندە نەپەس چىقىرىڭ. ئاستا ياكى تېز سۈرئەتنى تاللاشقا بولىدۇ. ئۇ داۋالاش ئەمەس، پەقەت بىللە ئولتۇرۇپ ھوزۇرلىنىدىغان تىنچ بىر پەيت.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "يان-يانا ئارام ئولتۇرۇڭ.",
+      "سۈرئەت تاللاڭ: ئاستا ياكى مۇلايىم.",
+      "“باشلاش” نى چېكىڭ. دائىرە چوڭايغاندا نەپەس ئېلىڭ، كىچىكلىگەندە نەپەس چىقىرىڭ.",
+      "ئالته نەپەستىن كېيىن ئۆزى توختايدۇ، ياكى خالىغان ۋاقتىدا “توختىتىش” نى چېكىڭ."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "ئەگەر ئۇ ياخشى كۆرسە، ئۇنىڭ قولىنى تۇتۇڭ ياكى بىلىكىگە قولىڭىزنى قويۇڭ.",
+      "ھەرگىز زورلىماڭ. ئۇلار كۆزەتكۈسى كەلسە بولىدۇ.",
+      "ئەگەر بىرەرسىدە نەپەس ئېلىش قىيىنچىلىقى بولسا، ئادەتتىكىدەك نەپەس ئېلىڭ ۋە دائىرىگە پەقەت قاراڭ. نەپەس بىلەن باغلىق ھەر قانداق ئەندىشە ھەققىدە دوختۇرغا سوراڭ."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "بۇ تېببىي نەپەس مەشىقىمۇ؟",
+        "a": "ياق. بۇ ئارام ۋە ھەمراھلىق ئۈچۈن ئاددىي، خالىغانچە قىلىنىدىغان تەنەپپۇس. ئۇ ھېچقانداق ئەندىشە ياكى كېسەلنى داۋالاش ئەمەس. ساغلاملىق ھەققىدىكى ئەندىشىلىرىڭىزنى دوختۇر بىلەن مەسلىھەتلىشىڭ."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "مەن باشلىمىغاندىمۇ دائىرە ئۆزى ھەرىكەت قىلامدۇ؟",
+        "a": "ياق. «باشلاش» كۇنۇپكىسىنى بېسىشتىن بۇرۇن ھېچ نەرسە ھەرىكەتلەنمەيدۇ. ئالتە قېتىم نەپەس ئالغاندىن كېيىن ياكى «توختاتتىش» كۇنۇپكىسىنى بېسىپ توختايدۇ. ئەگەر ئۈسكۈنىڭىز ھەرىكەتنى ئازايتىش تەڭشىكىگە قويۇلغان بولسا، چەمبەر چوڭايмайла سۆزلەر ئۆزگىرىدۇ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "بۇ ھەقسىزمۇ، تىزىملىتىش كېرەكمۇ؟",
+        "a": "ھەئە، ھەقسىز. ھېساب ئېچىش، تىزىملىتىش ياكى ئېنىقلىما چۈشۈرۈش كېرەك emas. تېلېفون، پلانشېت ياكى كومپيۈتېردىكى تور كۆرگۈچتە ئىشلەيدۇ."
       }
     ]
   }

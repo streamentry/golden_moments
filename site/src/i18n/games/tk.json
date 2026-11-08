@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Suratlaryň jübütleri",
+    "seoTitle": "Demensiýa üçin ýaplaşdyrma oýny: Suratlaryň jübütleri",
+    "h1": "Suratlaryň jübütleri: ýeňil ýaplaşdyrma oýny",
+    "description": "Demensiýa bilen ýaşaýan adamlar üçin mugt, ýeňil ýaplaşdyrma oýny. Uly suratlar hemişe görünýär, sagat ýok we upa ýok, siz 4-den 12-e çenli kart saýlaýarsyňyz.",
+    "short": "Bir meňzeş iki suraty tapyň. Suratlar görünip durup biler.",
+    "players": "1 ýa-da 2 adam, ýanaşyk oturyp",
+    "intro": "Bir suraty basyň, soňra oňa meňzeş suraty basyň. Suratlar adatça görünýär, şonuň üçin ýatda saklamak gerek däl. Iki surat birleşende altyn çarçuwa we bellik bilen görkezilýär.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Ulanmak üçin kartlaryň sanyny saýlaň. Dört kart — rahat başlamak üçin ýerlikli.",
+      "Islendik suraty basyň. Ol altyn çarçuwa alar.",
+      "Meňzeş görünýän suraty basyň. Jübüt bellik bilen birlikde galar.",
+      "Iki surat başga bolsa, hiç hili ýaman zat bolmaýar. Taýýar bolanyňyzda ýene basyň.",
+      "«Gizlin suratlar» diňe ikiňiz klassiki, ýüzi aşak görnüşini halaýan bolsaňyz açyň."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Suratlaryň adyny bilelikde aýdyň we olar barada gürleşiň: «Gyzyl käse çaý. Çaýyňyza süýt goýmagy halaýarsyňyzmy?»",
+      "Ideg edýän adama basmaga rugsat beriň, wagt gerek bolsa-da. Onuň ýerine basmakdan görä, oňa suraty görkeziň.",
+      "Dört kart bilen, nähili gowy duýulsa, şonça wagt galyň. Köp kart saýlamak — bu saýlaw, hiç haçan ýetiljek derejesi däl.",
+      "Oýny oňat duýulýan wagtyňyz gutarýň. Bir oýun doly işjeňlikdir."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sagat ýa-da upa bardyrmy?",
+        "a": "Ýok. Sagat, upa, hereket sanawy ýa-da utulmak ýok. Islendik wagt goýup bilersiňiz, ýarym ýolda goýmak hem gowy gutarmak usulydyr."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Suratlar näme üçin ýüzi ýokary bolup dur?",
+        "a": "Suratlaryň görünip durmagy oýny ýatda saklamakdan däl, seredip deňeşdirmek ýaly edýär. Köp adamlar muny rahat hasaplaýarlar. Isleseňiz, bir basyşda gizlin suratlara geçip bilersiňiz."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mugtmy we hasaba girmek gerekmi?",
+        "a": "Hawa, mugt. Hasaba girmek, ýazylmak ýa-da ýüklemek gerek däl. Telefonda, planşetde ýa-da kompýuterde web brauzerde işleýär."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Öz maşgala suratlarymyzy ulanyp bolarmy?",
+        "a": "Hawa. «Öz suratlarymyzyň jübütleri» bölümini synap görüň, ol enjamyňyzdan suratlary saýlamaga mümkinçilik berýär. Suratlar brauzeriňizde galýar we ýüklenmeýär."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Meňzeşini tap",
+    "seoTitle": "Meňzeş suraty tap: demensiýa üçin ýönekeý oýun",
+    "h1": "Meňzeş suraty tapyň",
+    "description": "Ýokarda bir surat, aşakda iki-dört surat. Meňzeşini basyň. Demensiýa bilen ýaşaýan adamlar üçin rahat, mugt surat oýny, sagatsyz.",
+    "short": "Ýokardaky surata serediň we aşakdan meňzeşini basyň.",
+    "players": "1 ýa-da 2 adam",
+    "intro": "Ekranyň ýokarsynda bir surat durýar. Onuň aşagynda iki, üç ýa-da dört surat bar. Meňzeşini basyň. Her gezek diňe bir ýönekeý saýlaw, gürleşmek üçin ýeterlik wagt bilen.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Saýlamak üçin iki, üç ýa-da dört surat saýlaň. Iki eňil.",
+      "Ýokardaky surata bilelikde serediň.",
+      "Aşakdaky meňzeş suraty basyň. Ol bellik we birnäçe mähirli sözler bilen görkezilýär.",
+      "Başga surat basylsa, oýun ony adyny aýdyp, garaşýar. Wagtyňyzy alyň.",
+      "Indiki surata taýýar bolanyňyzda «Indiki surat» düwmesine basyň."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Saýlamazdan öň her surat barada gürleşiň: reňklerini, şekillerini, nirede görüp boljakdygyny.",
+      "Iki saýlaw «juda ýeňil» diýmek däl. Maksat — ýakymly pursat, kynçylyk däl.",
+      "Basmak kyn bolsa, adam görkezip biler, siz onuň ýerine basyp bilersiňiz."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sagat ýa-da upa bardyrmy?",
+        "a": "Ýok. Sagat, upa, hereket sanawy ýa-da utulmak ýok. Islendik wagt goýup bilersiňiz, ýarym ýolda goýmak hem gowy gutarmak usulydyr."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Nädogry surat basylsa, näme bolar?",
+        "a": "Hiç hili ýakymsyz zat bolmaýar. Ses, gyzyl belgi ýa-da titremek ýok. Oýun basylan suraty adyny aýdyp, indiki basyşa garaşýar."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mugtmy we hasaba girmek gerekmi?",
+        "a": "Hawa, mugt. Hasaba girmek, ýazylmak ýa-da ýüklemek gerek däl. Telefonda, planşetde ýa-da kompýuterde web brauzerde işleýär."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kölegä gabat gelmek",
+    "seoTitle": "Demensiýa üçin kölege deňeşdirme oýny: mugt onlaýn",
+    "h1": "Kölegä gabat gelmek: ýeňil surat oýny",
+    "description": "Ýokarda garaňky kölege, aşakda iki-dört surat. Kölegäni emele getirýän suraty basyň. Demensiýa üçin mugt, rahat kölege deňeşdirme oýny, sagatsyz.",
+    "short": "Kölegä serediň we ony emele getirýän suraty basyň.",
+    "players": "1 ýa-da 2 adam",
+    "intro": "Kölege deňeşdirmek çap edilen iş kagyzlaryndan tanyş işjeňlik, bu ýerde bolsa uly suratlar bar we çap etmeli zat ýok. Ekranyň ýokarsynda ýumşak kölege, aşakda iki, üç ýa-da dört surat garaşýar. Kölegäni emele getirýän suraty basyň. Welosiped, zonta ýa-da käse ýaly şekiller hem gürleşmek üçin aňsatdyr.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Saýlamak üçin iki, üç ýa-da dört surat saýlaň. Iki eňil.",
+      "Kölegä bilelikde serediň. Ol nähili şekil? Uzynmy ýa-da togalakmy?",
+      "Kölegäni emele getirýän suraty basyň. Onuň ady kölegäniň aşagynda peýda bolar.",
+      "Başga surat basylsa, oýun ony diňe adyny aýdyp, garaşýar. Wagtyňyzy alyň.",
+      "Indiki kölege üçin taýýar bolanyňyzda «Indiki kölege» düwmesine basyň."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Kölegäniň konturyny barmagyňyz bilen yzarlaň we şekili barada gürleşiň.",
+      "Bu gün kölegeler kyn bolsa, suratlary meňzeş bolan «Meňzeşini tap» oýnuna geçiň.",
+      "Surat tapylandan soň gürleşiň: «Bizde hem şeýle zonta bardy.»"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sagat ýa-da upa bardyrmy?",
+        "a": "Ýok. Sagat, upa, hereket sanawy ýa-da utulmak ýok. Islendik wagt goýup bilersiňiz, ýarym ýolda goýmak hem gowy gutarmak usulydyr."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Kölege deňeşdirmek demensiýa bilen ýaşaýan adamlar üçin peýdalymy?",
+        "a": "Käbir adamlar üçin bu ýakymly we ýönekeý işjeňlik bolup biler, esasanam başlangyç basgançaklarda. Şekilleri sözlerden tanamak has aňsatdyr. Bu şatlyk we söhbet üçin, synag üçin däl, we demensiýany bejermeýär hem haýallatmaýar. Eger muny gaharlandyrsa, «Şol birini tapyň» oýnuny ýa-da ýönekeý suratlara bilelikde seredip görüň."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Nädogry surat basylsa, näme bolýar?",
+        "a": "Hiç hili ýakymsyz zat bolmaýar. Ses signaly, gyzyl krest ýa-da titreme ýok. Oýun basylan suratyň adyny aýdýar we indiki basyşa garaşýar."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Bu mugtmy we hasaba ýazylmak gerekmi?",
+        "a": "Hawa, mugt. Hasaba ýazylmak, bellik ýa-da ýükläp almak talap edilmeýär. Telefonda, planşetde ýa-da kompýuterde web brauzerde işleýär."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Bilelikde saýlamak",
+    "seoTitle": "Demensiýa üçin saýlaw oýny: Bilelikde saýlaň",
+    "h1": "Bilelikde saýlaň: suratlary saýlamak işjeňligi",
+    "description": "Bir suraty basyň, soňra ol degişli sebede basyň: aşhana ýa-da bag, miwe ýa-da haýwanlar. Demensiýa bilen ýaşaýan adamlar üçin rahat, mugt saýlaw işjeňligi.",
+    "short": "Her suraty degişli sebede goýuň: aşhana ýa-da bag we has köp.",
+    "players": "1 ýa-da 2 adam",
+    "intro": "Saýlamak tanyş we kanagat berýän gündelik iş, mysal üçin azyk önümlerini ýerine goýmak ýa-da jorap jübütlemek ýaly. Bir suraty basyň, soňra ol degişli sebede basyň. Howlukmak ýok we ýalňyş ädim ýok.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Tema saýlaň: aşhana we bag, miwe we haýwanlar, ýa-da öý we syýahat.",
+      "Bir suraty basyň. Ol altyn çarçuwa alar.",
+      "Degişli sebedi basyň. Surat şol sebede geçer.",
+      "Eger ol beýleki sebede degişli bolsa, oýun muny ýumşak aýdar we garaşar.",
+      "Ähli suratlar saýlanandan soň, sebetlere bilelikde seredíň."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Hakykatda köplenç dogry ýa-da ýalňyş jogap ýok. Eger kimdir suw guýujyny aşhana degişli diýse, sebäbini soraň. Gowy gürrüň eşidip bilersiňiz.",
+      "Suratlary gepleşik üçin ulanyň: «Bagyňyzda näme ekdiňiz?»",
+      "Hakyky zatlary, mysal üçin çemçe we çeňňekleri ýa-da düwmeleri reňki boýunça saýlamak, ekrandan daşarda ajaýyp dowamdyr."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sagatyň ýa-da baly barmy?",
+        "a": "Ýok. Sagat, bal, hereket sanagy ýa-da utulmak ýok. Islendik wagt bes edip bilersiňiz, ýarymda bes etmek hem doly gowy tamamlamakdyr."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Näme üçin saýlamak?",
+        "a": "Köp adamlar saýlamagy halaýarlar, sebäbi ol peýdaly we tanyş iş ýaly duýulýar. Şeýle hem işleýärkäňiz suratlar barada gürrüň etmek aňsatdyr."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Bu mugtmy we hasaba ýazylmak gerekmi?",
+        "a": "Hawa, mugt. Hasaba ýazylmak, bellik ýa-da ýükläp almak talap edilmeýär. Telefonda, planşetde ýa-da kompýuterde web brauzerde işleýär."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Surat başgaçasy",
+    "seoTitle": "Demensiýa üçin ýönekeý başgaça: 4 ýa-da 9 bölek",
+    "h1": "Surat başgaçasy: ýönekeý başgaça",
+    "description": "Demensiýa bilen ýaşaýan adamlar üçin onlaýn ýönekeý başgaça: 4 ýa-da 9 uly bölek, bütin surat görnüp durýar, iki bölegi basyp ýerlerini çalyşýarsyňyz.",
+    "short": "Surat doly bolýança iki bölegi basyp, ýerlerini çalyşyň.",
+    "players": "1 ýa-da 2 adam",
+    "intro": "Dostlukly surat dört ýa-da dokuz uly bölege bölünip garylýar. Bütin surat görkeziji hökmünde görnüp durýar. Bir bölegi basyň, soňra beýlekisini basyň, olar ýerlerini çalyşar. Süýşürmek gerek däl.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Surat we 4 ýa-da 9 bölek saýlaň. Dört — ýumşak başlangyç.",
+      "Ýokarda bütin surata serediň.",
+      "Bir bölegi basyň, soňra ol bölek bolmaly ýere basyň. Iki bölek ýerlerini çalyşar.",
+      "Dogry ýerde duran bölekler kiçi belgi bilen görkeziler.",
+      "Surat doly bolanda, bilelikde şatlanyň, soňra başga suraty saýlaň."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Köp adamlar üçin süýşürmekden, iki bölegi basyp çalyşmak has aňsatdyr.",
+      "Surat ýygnanyp gelende onuň barada gürrüň ediň: «Ine, gyzyl öý üsti.»",
+      "Hakyky agaç başgaça, 12-den 24-e çenli uly bölek bilen, stolda ajaýyp işjeňlik hem bolup biler."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sagatyň ýa-da baly barmy?",
+        "a": "Ýok. Sagat, bal, hereket sanagy ýa-da utulmak ýok. Islendik wagt bes edip bilersiňiz, ýarymda bes etmek hem doly gowy tamamlamakdyr."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Böleklerini süýşürmek gerekmi?",
+        "a": "Ýok. Bir bölegi basyň, soňra başgasyny basyň, olar ýerlerini çalyşar. Eli titreýän ýa-da kiçi ekranda bu has aňsatdyr."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Bu mugtmy we hasaba ýazylmak gerekmi?",
+        "a": "Hawa, mugt. Hasaba ýazylmak, bellik ýa-da ýükläp almak talap edilmeýär. Telefonda, planşetde ýa-da kompýuterde web brauzerde işleýär."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Nakyly gutarmak",
+    "seoTitle": "Nakyly gutaryň: ýaşulylar üçin nakyl oýny",
+    "h1": "Nakyly gutaryň",
+    "description": "Iň soňky sözi ýok tanyş türkmen nakyllary, mysal üçin «Ýedi gezek ölç, bir gezek ___». Bir saýlawy basyň ýa-da ahyryny görkeziň, soňra gürrüň ediň.",
+    "short": "Tanyş nakyllary bilelikde gutaryň, soňra olar barada gürrüň ediň.",
+    "players": "1, 2 ýa-da topar",
+    "intro": "Köne nakyllar köplenç ömür boyy belli bolýar. Her kartada tanyş nakyl, iň soňky sözi ýok, üç saýlaw we «Ahyryny görkez» düwmesi bar. Ahyry görkezilenden soň, gürrüň üçin ýumşak sorag gelýär.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Nakyly bilelikde ýokary sesli okaň.",
+      "Gutaryjy sözi basyň ýa-da «Ahyryny görkez» düwmesini basyň.",
+      "Nakylyň ähli sözüni ýene okaň we sorag boýunça gürrüň ediň.",
+      "Taýýar bolanyňyzda «Indiki nakyl» düwmesini basyň."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Haýal okaň we iň soňky sözden öň bir pauza goýuň. Köplenç adamlar ony siz gutarmanka aýdýarlar.",
+      "Eger kimdir başga ahyr aýtsa, şatlanyň. Nakyllaryň käbir görnüşleri maşgala ýa-da sebite görä üýtgeýär.",
+      "Topar bolsa, bir adam okaýar, hemmeler ahyryny goşulyp aýdýar."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Sagatyň ýa-da baly barmy?",
+        "a": "Ýok. Sagat, bal, hereket sanawy ýa-da utulmak ýok. Islendik wagt bes edip bilersiňiz, ýarymda bes etmek hem oýny tamamlamagyň gowy usuly."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Başga sözi saýlasak nädip bolar?",
+        "a": "Oýun adaty ahyrky sahypany görkezýär we söhbetdeşlige geçýär. Bal ýok, başga jogap hem bolar."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mugtmy we hasaba ýazylmak gerekmi?",
+        "a": "Hawa, mugt. Hasap, hasaba ýazylmak ýa-da ýükläp almak gerek däl. Telefonda, planşetde ýa-da kompýuterde internet brauzerinde işleýär."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Uly harply sözleri tapmak",
+    "seoTitle": "Demensiýa bilen ýaşaýanlar üçin uly harply sözleri tapmak (mugt, çap edilýär)",
+    "h1": "Uly harply sözleri tapmak",
+    "description": "Ulular we demensiýa bilen ýaşaýan adamlar üçin mugt uly harply sözleri tapmak oýny. Az söz, uly harp, diňe sagadan-saga we ýokardan aşaga. Onlaýn oýnaň ýa-da çap ediň.",
+    "short": "Uly harplar, az söz, diňe sagadan-saga we ýokardan aşaga. Çap edip hem bolýar.",
+    "players": "1 ýa-da 2 adam",
+    "intro": "Uly harply kiçi setir we diňe birnäçe söz, ählisi sagadan-saga ýa-da ýokardan aşaga okalýar. Sözüň birinji harpyna, soňra soňky harpyna degiň. Kagyz bilen oýnamagy halaýarsyňyzmy? Bir basyşda täze oýun çap ediň.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Tema we setir ululygyny saýlaň.",
+      "Sözleriň sanawyna serediň. Sözler çepden saga ýa-da ýokardan aşaga okalýar.",
+      "Sözüň birinji harpyna degiň, soňra soňky harpyna degiň.",
+      "Tapylan söz reňklenýär we sanawdan çyzylýar.",
+      "Kagyz we galam bilen oýnamak üçin « Bu oýny çap et » basyň."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Sanawdaky söze görkeziň we onuň birinji harpyny bile gözläň.",
+      "Kagyzda flomaster galamdan tutmaga has aňsat.",
+      "Tema sözleri barada gürlüşiň. Miwe sözleri ýygnamak, bişirmek ýa-da bazar barada ýatlamalara ýakynlaşmagyň ýeňil ýoludyr."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Wagt ölçegi ýa-da bal barmy?",
+        "a": "Ýok. Sagat, bal, hereket sanawy ýa-da utulmak ýok. Islendik wagt bes edip bilersiňiz, ýarymda bes etmek hem oýny tamamlamagyň gowy usuly."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Sözleri tapmagy çap edip bilerinmi?",
+        "a": "Hawa. « Bu oýny çap et » basyň, häzirki setir uly şriftde, astynda sözleriň sanawy bilen çap ediler. Her täze oýun başgaça bolýar."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mugtmy we hasaba ýazylmak gerekmi?",
+        "a": "Hawa, mugt. Hasap, hasaba ýazylmak ýa-da ýükläp almak gerek däl. Telefonda, planşetde ýa-da kompýuterde internet brauzerinde işleýär."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Reňklemek sahypalary",
+    "seoTitle": "Demensiýa bilen ýaşaýan ulular üçin reňklemek sahypalary (mugt)",
+    "h1": "Reňklemek sahypalary",
+    "description": "Uly, ýönekeý ulular üçin reňklemek sahypalary: reňk saýlaň, soňra suratyň bölegine degiň. Hapalanmak ýok, nädogry reňk ýok we her sahypa mugt çap edilip bilner.",
+    "short": "Reňk saýlaň, soňra suratyň bir bölegine degiň. Sahypalary çap edip hem bolýar.",
+    "players": "1 ýa-da 2 adam",
+    "intro": "Uly, ýönekeý şekilli sahypalar: guşdaky gül, öý, çaý käsesi, kebelek we ýelkenli gämi. Reňk saýlaň, soňra suratyň bir bölegine degip dolduryň. Nädogry reňk ýok.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Sahypa saýlaň.",
+      "Reňk saýlaň. Her reňkiň ady onuň üstünde ýazylan.",
+      "Suratyň bir bölegine degip, şol reňk bilen dolduryň.",
+      "Pikiriňizi islendik wagt üýtgedip bilersiňiz, ýene bir gezek doldurmak bilen.",
+      "Galam ýa-da flomaster bilen reňklemek üçin boş sahypa « Bu sahypany çap et » basyň."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Ähli reňkleriň ýerine, saýlamak kyn bolsa, iki reňk teklif ediň.",
+      "Mör agaçlar we gök günler hem bolar. Bu takyklyk barada däl, reňkden lezzet almak barada.",
+      "Çap edilen sahypalar galyňjyk flomaster ýa-da mum galemler bilen gowy işleýär, olary tutmak has aňsat."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Wagt ölçegi ýa-da bal barmy?",
+        "a": "Ýok. Sagat, bal, hereket sanawy ýa-da utulmak ýok. Islendik wagt bes edip bilersiňiz, ýarymda bes etmek hem oýny tamamlamagyň gowy usuly."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Bu sahypalar çagalara meňzeýärmi?",
+        "a": "Biz kartun däl-de, ýumşak we düşnükli zatlary çekdik, şonuň üçin sahypalar ulular üçin laýyk. Uly şekiller reňklemegi ýeňilleşdirýär, emma çagalaýyn etmeýär."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mugtmy we hasaba ýazylmak gerekmi?",
+        "a": "Hawa, mugt. Hasap, hasaba ýazylmak ýa-da ýükläp almak gerek däl. Telefonda, planşetde ýa-da kompýuterde internet brauzerinde işleýär."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Söhbetdeşlik kartalary",
+    "seoTitle": "Demensiýa üçin söhbeti başlamak: surat kartalary",
+    "h1": "Söhbetdeşlik kartalary",
+    "description": "Demensiýa bilen ýaşaýan adamlar üçin ýumşak söhbet soraglary bolan surat kartalary: synag ýok, dogry jogap ýok. Ekranda ulanyň ýa-da ähli toplumy çap ediň.",
+    "short": "Açyk, ýumşak soraglary bolan surat kartalary. Synag ýok.",
+    "players": "2 adam ýa-da topar",
+    "intro": "Her karta tanyş surat bilen açyk söhbet çagyrşygyny utgaşdyrýar, mysal üçin: « Siz haýsy howany halaýarsyňyz? » Dogry jogap ýok we ýatda saklamak hem ýok. Bir tema saýlaň ýa-da olary hemmesini garyşdyryň.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Tema saýlaň ýa-da « Ähli kartalar » galsyn.",
+      "Soragy ýokary sesli okaň we surata bilelikde serediň.",
+      "Diňläň, öz jogabyňyzy paýlaşyň we söhbetiň özi ýol tapmagyna rugsat beriň.",
+      "Taýýar bolanyňyzda « Indiki karta » basyň ýa-da isleseňiz, bir karta bilen galyň.",
+      "Kagyz toplumyny kesmek üçin « Ähli kartalary çap et » basyň."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Soraga öz jogabyňyzy hem beriň. Bu sorag-jogap däl, söhbet ýaly bolsun.",
+      "Faktlara däl, hekaýa yzyna düşüň. Jikme-jiklik üýtgese, bu gowy.",
+      "Karta gynanjly zada degse, duýgyny ykrar ediň we ýumşak usulda başga karta geçiň."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Nämüçin « Ýadyňyzdamy…? » soraglary ýok?",
+        "a": "Ýatda saklamagy synaýan soraglar synag ýaly duýulyp, utandyryp biler. « Maňa … barada gürrüň beriň » ýaly açyk çagyrşyklar islendik adama, näme ýatlasa-da, goşulmaga mümkinçilik berýär."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Kartalary çap edip bolarmy?",
+        "a": "Hawa. « Ähli kartalary çap et » bilen ähli toplum uly şriftde, bir sahypada birnäçe karta, kesmek üçin taýýar çap ediler."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mugtmy we hasaba ýazylmak gerekmi?",
+        "a": "Hawa, mugt. Hasaba alyş, ulgama girmek ýa-da ýükläp almak gerek däl. Telefonda, planşetde ýa-da kompýuterde web brauzerde işleýär."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Surat jübütleri",
+    "seoTitle": "Maşgala suratlaryndan deňeşdirme oýnuny düzüň",
+    "h1": "Surat jübütleri: Öz suratlaryňyzy deňeşdiriň",
+    "description": "Öz maşgala suratlaryňyzy ýumşak deňeşdirme oýnuna öwüriň. Enjamyňyzdan 2-den 6-a çenli surat saýlaň; olar diňe brauzeriňizde galýar we hiç ýere iberilmeýär.",
+    "short": "Öz suratlaryňyzy saýlaň we deňeşdiriň. Hiç zat iberilmeýär.",
+    "players": "2 adam, ýanaşyk",
+    "intro": "Telefonyňyzdan, planşetiňizden ýa-da kompýuteriňizden 2-den 6-a çenli surat saýlaň. Olar uly, aýdyň suratlardan ybarat deňeşdirme oýnuna öwrüler. Suratlar diňe bu sahypada görkezilýär. Olar ýüklenmeýär, saklanmaýar we paýlaşylmaýar, sahypany ýapanyňyzda bolsa ýitýär.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "«Suratlary saýlaň» düwmesine basyň we 2-den 6-a çenli surat saýlaň.",
+      "Her surat iki gezek çykýar. Birini basyň, soňra onuň jübütini basyň.",
+      "Her suraty tapanyňyzda onuň barada gürleşiň.",
+      "Gutaranyňyzda sahypany ýapyň ýa-da «Suratlary arassalaň» düwmesine basyň. Hiç zat saklanmaýar."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Görnüşi tanyş we şatlykly zatlaryň aýdyň suratlaryny saýlaň: haýwan, bagça, halaýan ýeriňiz, toý güni.",
+      "Ýüzlerden has, ýerleriň ýa-da zatlaryň suratlary aňsat bolup biler. Olar adamlaryň adyny aýtmak baradaky basyşy azaldýar.",
+      "Garaşylmadyk gynanç getirip biläýjek aradan çykan adamlaryň suratlaryny goýmaň, ýöne olaryň rahatlyk berýändigini bilseňiz, bolýar."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Suratlarym nirede-de bolsa ýüklenýärmi?",
+        "a": "Ýok. Sahypa saýlan suratlaryňyzy göni brauzeriňizde okaýar we ekranyňyzda görkezýär. Olar bize ýa-da başga birine iberilmeýär, sahypany ýapanyňyzda ýa-da täzeden ýükläneňizde ýitýär."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Wagt ölçeýärmi ýa-da utuk hasaplaýarmy?",
+        "a": "Ýok. Sagat, utuk, hereket sanawy ýa-da ýeňilmek ýok. Islendik wagt bes edip bilersiňiz, ortada bes etmek hem oýnuň doly gutarmagydyr."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Oýny indiki gezek üçin saklap bolýarmy?",
+        "a": "Brauzerde ýok, sebäbi gizlin zatlar saklanmasyn diýen maksat bilen. iPhone we iPad üçin mugt Golden Moments programmasy saýlan surat nusgalaryny enjamyňyzda saklap bilýär."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Surat bingo",
+    "seoTitle": "Demensiýa bilen ýaşaýan uly ýaşlylar üçin surat bingo: çap edilýän",
+    "h1": "Toparlar üçin surat bingo",
+    "description": "Toparlar we ideg merkezleri üçin mugt çap edilýän surat bingo, ekrandaky uly çagyryjy bilen. Ýazuwsyz oýnamak üçin uly suratlar we sözler, 9 ýa-da 16 öýjük.",
+    "short": "Toparlar üçin çap edilýän surat bingo kartalary we uly ekran çagyryjysy.",
+    "players": "2-den 30-a çenli topar",
+    "intro": "Sanlaryň ýerine suratlar bilen adaty bingo, şonuň üçin hiç kim ownuk ýazgylary okamaly däl. Kartalaryň tapawutly toplumyny çap ediň, soňra ekrandaky çagyryjy bilen her suraty telewizorda, noutbukda ýa-da planşetde uly görkeziň.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Her kartda 9 ýa-da 16 öýjügi we oýunçylaryň sanyny saýlaň.",
+      "«Kartalary çap ediň» düwmesine basyň. Her karta tapawutlydyr.",
+      "Çagyryjyny uly ekranda açyň. Her suraty adyny görkezip, «Indiki surat» düwmesine basyň.",
+      "Oýunçylar kartasyndaky degişli suraty pul, düwme ýa-da belgi bilen ýapýarlar.",
+      "Bir hatary ýa-da ähli kartany dolduran her kim alkyş alýar. Bu wersiýada ýeňilýän ýok: hemmäňizde hatar bolýança oýnaň."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Uly nyşanlary, mysal üçin şaşka daşlaryny ýa-da butylka gapaklaryny ulanyň. Ownuk düwmeleri almak kyn bolup biler.",
+      "Suratyň adyny aýdyň we onuň barada bir zat diýiň: «Ýelkenli gämi. Kim gämide sapar edipdi?»",
+      "Görüşi kem adamlary ekrana iň ýakyn oturdyň, kömek edýänleri zerur oýunçylar bilen utgaşdyryň.",
+      "Köp toparlar üçin dokuz öýjük ýeterlikdir. Oturyşygy takmynan 20-30 minutda saklaň."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ideg merkezinde surat bingo nähili oýnalýar?",
+        "a": "Her oýunçy üçin bir karta çap ediň, çagyryjyny iň uly ekrana goýuň we suratlary haýal çagyryň, her birini adyny aýdyp. Hiç kim galmasyn ýaly, hemmäňiz hatar alýança oýnaň."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Çap etmek mugtmy?",
+        "a": "Hawa. Şahsy ýa-da topar ulanyşy üçin islän wagtyňyzda islän sanyňyz kartany çap edip bilersiňiz."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Adamlar okamazdan oýnap bilerlermi?",
+        "a": "Hawa. Her öýjük uly surat, adynyň sözi bolsa aşakda, sözleri halaýanlar üçin."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Rahat dem alyş",
+    "seoTitle": "Uly ýaşlylar we ideg edýänler üçin rahat dem alyş pauzasy",
+    "h1": "Rahat dem alyş pauzasy",
+    "description": "Paýlaşmak üçin haýal, parahat dem alyş pauzasy: ýumşak tegelek alty dem üçin ulalýar we kiçelýär. Siz başlaýarsyňyz we islendik wagt bes edip bilersiňiz.",
+    "short": "Dem alyşyňyz bilen bile gelmek üçin haýal tegelek. Islän wagtyňyz başlaň we bes ediň.",
+    "players": "1 ýa-da 2 adam",
+    "intro": "Käte iň oňat işjeňlik parahat pauzadyr. «Başla» düwmesine basyň, tegelek ulalanda dem alyň, kiçelende dem çykaryň. Haýal ýa-da çalt tizligi saýlaň. Bu bejeriş däl, paýlaşmak üçin rahat bir pursatdyr.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Ýanaşyk rahat oturyň.",
+      "Tizligi saýlaň: haýal ýa-da ýumşak.",
+      "«Başla» düwmesine basyň. Tegelek ulananda dem alyň, kiçelende dem çykaryň.",
+      "Alty demden soň özi duruzýar, ýa-da islän wagtyňyz «Duruz» düwmesine basyň."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Eger ýakymly bolsa, elini tutuň ýa-da adamyň golunda elini goýuň.",
+      "Hiç wagt israr etmäň. Synlamagy halasa, bu hem gowydyr.",
+      "Kimdir dem alyş kynçylygy bar bolsa, adaty dem alyň we diňe tegelege serediň. Dem alyş bilen bagly gaygy bar bolsa, lukmana maslahat beriň."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Bu lukmançylyk dem alyş gönükmesimi?",
+        "a": "Ýok. Bu rahatlyk we bilelikdelik üçin ýönekeý, islege bagly pauza. Haýsy hem bolsa bir ýagdaý üçin bejeriş däl. Saglyk meselelerinde lukman bilen maslahatlaşyň."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Tegelek men başlamasam hereket edýärmi?",
+        "a": "Ýok. Siz \"Başla\" düwmesine basýança hiç zat hereket etmeýär. Alty dem alanyňyzdan soň ýa-da \"Dur\" düwmesine basanyňyzda togtaýar. Enjamyňyz hereketi azaltmak üçin sazlanan bolsa, sözler üýtgeýär, ýöne tegelek ulalmaýar."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Bu mugtmy, we hasaba ýazylmaly ýa-da bir zat ýüklemeli mi?",
+        "a": "Hawa, mugt. Hasap açmak, agza bolmak ýa-da ýükläp almak gerek däl. Telefonda, planşetde ýa-da kompýuterde web brauzerde işleýär."
       }
     ]
   }

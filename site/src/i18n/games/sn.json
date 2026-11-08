@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Mifananidzo miviri",
+    "seoTitle": "Mutambo Wokubatanidza weDementia: Mifananidzo Miviri",
+    "h1": "Mifananidzo Miviri: Mutambo Wakanyorova Wokubatanidza",
+    "description": "Mutambo wakasununguka, wakanyorova wokubatanidza wevanhu vane dementia. Mifananidzo mikuru inoramba ichioneka, hapana nguva kana mapoinzi, uye unosarudza matairo 4 kusvika 12.",
+    "short": "Wana mifananidzo miviri yakafanana. Mifananidzo inogona kuramba ichioneka.",
+    "players": "Vanhu 1 kana 2, pamwe chete",
+    "intro": "Tepfa mufananidzo, wobva watepfa wakafanana nawo. Mifananidzo inoramba ichioneka nekusingaperi, saka hapana chinofanira kuyeuka. Kana mifananidzo miviri ichienzana, inowana muganhu wegoridhi nechiratidzo chekuti zvakanaka.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Sarudza kuti mangani matairo ashandiswe. Mana mana akanyorova kuti utange.",
+      "Tepfa mufananidzo wipi zvawo. Unowana muganhu wegoridhi.",
+      "Tepfa mufananidzo wakafanana nawo. Mapaizi anoramba akabatana nechiratidzo chekuti zvakanaka.",
+      "Kana mifananidzo miviri isiyana, hapana chakaipa chinoitika. Tepfa zvakare kana mose mwakagadzirira.",
+      "Ita \"Mifananidzo yakavanzwa\" chete kana imi vese mafarira mutambo wechinyakare wemifananidzo yakaturikwa pasi."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Taurai mazita emifananidzo pamwe chete muchitaura nezvayo: \"Kapu jena rakatsvuka. Imi munoda mukaka mutii wenyu here?\"",
+      "Regai munhu unomutarisira aite kutepfa, kunyange zvichitora nguva. Ratidzai nechigunwe panzvimbo pekutepfera munhu.",
+      "Gara nematairo mana kwenguva yose inofadza. Matairo akawanda ndiko kusarudza, kwete mwero wekusvika.",
+      "Pedza muchiri kufarira. Mutambo mumwe chete wakakwana."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pane nguva kana mapoinzi here?",
+        "a": "Kwete. Hapana wachi, mapoinzi, kauntara yemafambiro kana kurasikirwa. Unogona kumira chero nguva, uye kumira pakati pazvo ndiyo nzira yakanaka yekupedza."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Sei mifananidzo ichiramba ichioneka?",
+        "a": "Kuramba mifananidzo ichioneka kunoita kuti mutambo ube wekutarira nekubatanidza, kwete wekuyeuka. Vazhinji vanowana izvi zvakanyarara. Unogona kuchinja kuita mifananidzo yakavanzwa nekutepfa kamwe chete kana uchida."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mari here, uye tinofanira kunyoresa?",
+        "a": "Hongu, hauna mari, uye hapana akaundi, kunyoresa kana kudhawunirodha. Unoshanda mubhurawuza yewebhu pafoni, tablet kana kombiyuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Tinogona kushandisa mifananidzo yedu yemhuri here?",
+        "a": "Hongu. Edza Mifananidzo yemhuri, inokutendai kusarudza mifananidzo kubva kudhivhaisi yenyu. Mifananidzo inoramba mubhurawuza yenyu uye haitumirwi."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Tsvaga yakafanana",
+    "seoTitle": "Tsvaga Mufananidzo Wakafanana: Mutambo Wakanyorova weDementia",
+    "h1": "Tsvaga Mufananidzo Wakafanana",
+    "description": "Mufananidzo mumwe pamusoro, miviri kusvika mina pasi. Tepfa wakafanana. Mutambo wakasununguka, wakanyorova wemifananidzo wevanhu vane dementia, usina nguva.",
+    "short": "Tarira mufananidzo uri kumusoro utepfe wakafanana uri pasi.",
+    "players": "Vanhu 1 kana 2",
+    "intro": "Mufananidzo mumwe chete unogara pamusoro pe-screen. Pasi pawo pane vaviri, vatatu kana vana. Tepfa wakafanana. Ndiko kusarudza kumwe chete panguva, nenzvimbo yakawanda yekutaura.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Sarudza mifananidzo miviri, mitatu kana mina yekusarudza. Miviri ndiyo iri nyore.",
+      "Tarirai mufananidzo wepamusoro pamwe chete.",
+      "Tepfa mufananidzo wakafanana pasi. Unoratidzwa nechiratidzo chekuti zvakanaka pamwe nemashoko mashoma akanyorova.",
+      "Kana mufananidzo usina kufanana wakatepfwa, mutambo unongotaura zita rawo uye unomirira. Tora nguva yako.",
+      "Tepfa \"Mufananidzo unotevera\" kana mugadzirira mumwe."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Taurai nezvemufananidzo wega wega musati masarudza: mavara, maumbirwo, kwamungaiona.",
+      "Sarudzo mbiri hadzisi \"nyore kwazvo\". Chinangwa chiri kuva nenguva inofadza, kwete kupikisana.",
+      "Kana kutepfa kuri kunetesa, munhu anogona kuratidza nechigunwe uye imi mugatepfera."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pane nguva kana mapoinzi here?",
+        "a": "Kwete. Hapana wachi, mapoinzi, kauntara yemafambiro kana kurasikirwa. Unogona kumira chero nguva, uye kumira pakati pazvo ndiyo nzira yakanaka yekupedza."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Chii chinoitika kana mufananidzo usiri kufanana watepfwa?",
+        "a": "Hapana chinonetesa. Hapana bhuza, chikalo chitsvuku kana kugwedezeka. Mutambo unotaura zita remufananidzo wakatepfwa uye unomirira kutepfa kwakatevera."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mari here, uye tinofanira kunyoresa?",
+        "a": "Hongu, hauna mari, uye hapana akaundi, kunyoresa kana kudhawunirodha. Unoshanda mubhurawuza yewebhu pafoni, tablet kana kombiyuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kubatanidza mumvuri",
+    "seoTitle": "Mutambo Wekubatanidza Mumvuri weDementia: Wepamhepo Wakasununguka",
+    "h1": "Kubatanidza Mumvuri: Mutambo Wemifananidzo Wakanyorova",
+    "description": "Mumvuri wakasviba pamusoro, mifananidzo miviri kusvika mina pasi. Tepfa mufananidzo unoita mumvuri. Mutambo wakasununguka, wakanyorova wemumvuri weDementia, usina nguva.",
+    "short": "Tarira mumvuri utepfe mufananidzo unouita.",
+    "players": "Vanhu 1 kana 2",
+    "intro": "Kubatanidza mumvuri ibasa rakajairika kubva kumapepa ekudzidza, asi pano une mifananidzo mikuru uye hapana chekudhinda. Mumvuri wakapfava uri pamusoro pe-screen uye mifananidzo miviri, mitatu kana mina inomirira pasi. Tepfa iyo inoita mumvuri. Maumbirwo akaita sebhasikoro, humbwe kana kapu anoreruka kutaura nazvo.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Sarudza mifananidzo miviri, mitatu kana mina yekusarudza. Miviri ndiyo iri nyore.",
+      "Tarirai mumvuri pamwe chete. Ndiro rei? Rakareba here kana rakatenderera?",
+      "Tepfa mufananidzo unoita mumvuri. Zita rawo rinoonekwa pasi pemumvuri.",
+      "Kana mufananidzo usina kufanana wakatepfwa, mutambo unongotaura zita rawo uye unomirira. Tora nguva yako.",
+      "Tepfa \"Mumvuri unotevera\" kana mugadzirira mumwe."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Tevedzera mugoro womumvuri nechigunwe uye taurai nezvechimiro chawo.",
+      "Kana mumvuri wakaoma nhasi, chinja uite Tsvaga yakafanana, apo mifananidzo yakafanana.",
+      "Taurai nezvemufananidzo wawanikwa: \"Taive nemumbure wakadaro.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pane nguva kana mapoinzi here?",
+        "a": "Kwete. Hapana wachi, mapoinzi, kauntara yemafambiro kana kurasikirwa. Unogona kumira chero nguva, uye kumira pakati pazvo ndiyo nzira yakanaka yekupedza."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Kuenzanisa mimvuri kunonaka here kune vanhu vane dementia?",
+        "a": "Kungava basa rinofadza uye rakareruka kune vamwe vanhu, kunyanya panguva dzekutanga. Zvimiro zviri nyore kuzivikanwa kupfuura mazwi. Chiri chekufadzwa nekutaurirana, kwete bvunzo, uye hachirapi kana kudzikisa dementia. Kana chichikonzera kuvhiringidzwa, edzai Wana zvakafanana kana kungotarisa mifananidzo pamwe chete."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Chii chinoitika kana mufananidzo usiri wakanaka wakapawanwa?",
+        "a": "Hapana chinoipisa. Hapana bhuza, chikwereti chitsvuku kana kutsikirira. Mutambo unotaura zita remufananidzo wakapawanwa uye unomirira kupawanwa kwakatevera."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Chiri mahara here, uye ndinoda kunyoresa here?",
+        "a": "Hongu, chiri mahara, uye hapana akaunzi, kunyoresa kana kudhawunirodha. Chinoshanda mubhurawuza yeweb pafoni, tabuleti kana komputa."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Kurongedza pamwe chete",
+    "seoTitle": "Mutambo Wekurongedza weDementia: Rongedzai Pamwe Chete",
+    "h1": "Rongedzai Pamwe Chete: Basa Rekurongedza Mifananidzo",
+    "description": "Pawa mufananidzo, wobva wapawa dengu rinoenderana nawo: kicheni kana gadheni, michero kana mhuka. Basa rakanyarara uye mahara rekurongedza vanhu vane dementia.",
+    "short": "Isai mufananidzo wega wega mudengu rawo: kicheni kana gadheni, nezvimwe.",
+    "players": "Munhu 1 kana vanhu 2",
+    "intro": "Kurongedza ibasa rakajairika rinofadza rezuva nezuva, senge kuisa zvinhu zvakatengwa kana kubatanidza masokisi. Pawa mufananidzo, wobva wapawa dengu paunofanira kuuisa. Hapana kukurumidza uye hapana kukanganisa kwakaipa.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Sarudzai musoro: kicheni negadheni, michero nemhuka, kana imba norwendo.",
+      "Pawa mufananidzo. Unowana mupendero wegoridhe.",
+      "Pawa dengu rinoenderana nawo. Mufananidzo unopinda mudengu iroro.",
+      "Kana riri rimwe dengu, mutambo unotaura izvi zvakanyatsonaka uye unomirira.",
+      "Kana mifananidzo yose yarongedzwa, tarisai madengu pamwe chete."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Mupiro wechokwadi hauzivikanwi nekukasira. Kana munhu akati chirongwa chekuthirira chiri mukicheni, mubvunze kuti sei. Unogona kuwana nyaya yakanaka.",
+      "Shandisai mifananidzo sechiyeuchidzo: \"Makanyatsobereka chii mugadheni renyu?\"",
+      "Kurongedza zvinhu zvechokwadi, senge mipuni nemakiti kana bhatani nerudzi, ibasa rakanaka rekutevedzera kure neskirini."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pane wachi kana mapoinzi here?",
+        "a": "Kwete. Hapana wachi, mapoinzi, kauntarai yekufamba, kana kurasikirwa. Unogona kumira nguva ipi neipi, uye kumira pakati pebasa hakuzoshaya kuti ndiyo nzira yakanaka yekupedzisa."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Nei kurongedza?",
+        "a": "Vanhu vazhinji vanofarira kurongedza nekuti rinoita sebasa rinobatsira uye rakajairika. Zvakare zviri nyore kutaura nezvemifananidzo sezvamunenge muchiita."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Chiri mahara here, uye ndinoda kunyoresa here?",
+        "a": "Hongu, chiri mahara, uye hapana akaunzi, kunyoresa kana kudhawunirodha. Chinoshanda mubhurawuza yeweb pafoni, tabuleti kana komputa."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle yemufananidzo",
+    "seoTitle": "Puzzle Yakareruka yeDementia: Zvidimbu 4 kana 9",
+    "h1": "Puzzle Yemufananidzo: Jigsaw Yakareruka",
+    "description": "Jigsaw yakareruka paintaneti yevanhu vane dementia: zvidimbu 4 kana 9 zvikuru, mufananidzo wose unoramba uchioneka, uye unopawa zvidimbu zviviri kuti zvichinjane.",
+    "short": "Pawa zvidimbu zviviri kuti zvichinjane kusvikira mufananidzo wazara.",
+    "players": "Munhu 1 kana vanhu 2",
+    "intro": "Mufananidzo wakanaka unocheketwa kuva zvidimbu zvina kana zvipfumbamwe zvikuru uye unosanganiswa. Mufananidzo wose unoramba uchioneka sechiratidzo. Pawa chidimbu chimwe, wobva wapawa chimwe, zvinochinja nzvimbo. Hapana kudhonza kunoda.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Sarudzai mufananidzo uye zvidimbu 4 kana 9. Zvina ndiko kutanga kunyorova.",
+      "Tarisai mufananidzo wose pamusoro.",
+      "Pawa chidimbu, wobva wapawa nzvimbo chinofanira kuenda. Zvidimbu zviviri zvinochinja.",
+      "Zvidimbu zviri munzvimbo yazvo zvinowana chiratidzo chiduku chekutarisa.",
+      "Mufananidzo wazara, fadzai pamwe chete, wobva wasarudza imwe."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Kupawa zvidimbu zviviri kuti zvichinjane kunonyorova kupfuura kudhonza kune vazhinji.",
+      "Taurai nezvemufananidzo sezvunenge uchiumbika: \"Ipapo pane denga rakatsvuka.\"",
+      "Puzzle yemapuwa chaiyo ine zvidimbu 12 kusvika ku24 zvikuru ndiyo yakanaka patafura zvakare."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pane wachi kana mapoinzi here?",
+        "a": "Kwete. Hapana wachi, mapoinzi, kauntarai yekufamba, kana kurasikirwa. Unogona kumira nguva ipi neipi, uye kumira pakati pebasa hakuzoshaya kuti ndiyo nzira yakanaka yekupedzisa."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Ndinofanira kudhonza zvidimbu here?",
+        "a": "Kwete. Pawa chidimbu chimwe, wobva wapawa chimwe, zvinochinja nzvimbo. Izvi zvinonyanya kuita nyore kana ruoko rwakadedera kana paskirini diki."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Chiri mahara here, uye ndinoda kunyoresa here?",
+        "a": "Hongu, chiri mahara, uye hapana akaunzi, kunyoresa kana kudhawunirodha. Chinoshanda mubhurawuza yeweb pafoni, tabuleti kana komputa."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Pedzisa mataurirwo",
+    "seoTitle": "Pedzisa Mataurirwo: Mutambo weMataurirwo Evakuru",
+    "h1": "Pedzisa Mataurirwo",
+    "description": "Mataurirwo akajairwa ane izwi rekupedzisira risina, akadai sekuti \"Mari yakachengetwa mari yakawanikwa ___\". Dzvanya sarudzo kana uratidze mugumo, wobva wataura nazvo.",
+    "short": "Pedzisai mataurirwo akajairwa pamwe chete, wobva wataura nazvo.",
+    "players": "Munhu 1, 2 kana boka",
+    "intro": "Mataurirwo ekare anowanzo kuzivikanwa kwehupenyu hwose. Kadhi yega yega inoratidza mutauro wakajairwa une izwi rekupedzisira risina, sarudzo nhatu, uye bhatani rekuti \"Ratidza mugumo\". Mushure memugumo, mubvunzo unoyevedza unokurudzira kutaurirana.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Verengai mataurirwo pamwe chete nemuzwi.",
+      "Dzvanya izwi rinopedzisa, kana dzvanya \"Ratidza mugumo\".",
+      "Verengazve mataurirwo ose wobva wataura nazvo uchishandisa mubvunzo.",
+      "Dzvanya \"Mataurirwo anotevera\" kana muri pamhanza."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Verengai zvishoma nezvishoma uye regai kumira pamberi peizwi rekupedzisira. Kazhinji vanhu vanotaura kuzvo musati mapedza.",
+      "Kana munhu akapa mugumo wakasiyana, fadzai. Mamwe mazviro emataurirwo anosiyana nemhuri kana nedunhu.",
+      "Mubato, munhu mumwe anoverenga uye vese vanobatanidza mugumo."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pane wachi kana mapoinzi here?",
+        "a": "Kwete. Hapana kloko, mamaki, kauntarai yezvamakaita kana kukundikana. Imi munogona kumira panguva ipi neipi, uye kumira pakati ndiyo nzira yakanaka yekupedzisa."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Ko kana tikasarudza shoko rakasiyana?",
+        "a": "Mutambo unoratidza mugumisiro wakajairwa uye unopfuura kuenderera mukutaurirana. Hapana mamaki, uye mhinduro yakasiyana yakanaka."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mahara here, uye ndinofanira kunyoresa?",
+        "a": "Hongu, mahara, uye hapana akaunzi, kunyoresa kana kudhawunirodha. Zvinoshanda pawebhusaiti pafoni, pathabhureti kana pakombiyuta."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Tsvagiridzo yemashoko akakura",
+    "seoTitle": "Tsvagiridzo Yemashoko Akakura Yedementia, Anogona Kudhindwa",
+    "h1": "Tsvagiridzo Yemashoko Akakura",
+    "description": "Tsvagiridzo yemashoko yakakura yemahara yevakuru nevanhu vane dementia. Mashoko mashoma, matsamba akakura, mashoko achiverengwa kurutivi kana pasi chete. Tamba paintaneti kana udhinde.",
+    "short": "Matsamba akakura, mashoko mashoma, achiverengwa kurutivi kana pasi chete. Udhindewo zvakare.",
+    "players": "1 kana 2 vanhu",
+    "intro": "Gride diki ine matsamba akakura uye mashoko mashoma chete, ese achiverengwa kurutivi kana pasi. Tinya tsamba rekutanga reshoko, wobva watinya tsamba rekupedzisira. Unoda pepa? Dhinda puzzle nyowani nekudzvanya kamwe chete.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Sarudza musoro wenyaya uye saizi yegride.",
+      "Tarisa rondedzero yemashoko. Mashoko anoverengwa kurutivi (kubva kuruboshwe kuenda kurudyi) kana pasi (kubva kumusoro kuenda pasi).",
+      "Tinya tsamba rekutanga reshoko, wobva watinya tsamba rekupedzisira.",
+      "Shoko rawanikwa rinoratidzwa nemavara uye rinobviswa paruzivo rwemashoko.",
+      "Tinya \"Dhinda puzzle iyi\" kuti mutambe pachipepa nepenseri kana marker."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Ratidza shoko paruzivo rwemashoko, mutsvage tsamba rekutanga pamwe chete.",
+      "Pachipepa, highlighter iri nyore kubata kupfuura pensiri.",
+      "Taurai nezvemashoko enyaya. Mashoko emichero inzira yakanaka yekupinda mundangariro dzekukohwa, kubika kana musika."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pane kloko kana mamaki here?",
+        "a": "Kwete. Hapana kloko, mamaki, kauntarai yezvamakaita kana kukundikana. Imi munogona kumira panguva ipi neipi, uye kumira pakati ndiyo nzira yakanaka yekupedzisa."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ndinogona kudhinda tsvagiridzo yemashoko here?",
+        "a": "Hongu. Tinya \"Dhinda puzzle iyi\" kuti udhinde gride yazvino nemagwaro akakura, rondedzero yemashoko iri pasi pawo. Puzzle nyowani yega yega inosiyana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mahara here, uye ndinofanira kunyoresa?",
+        "a": "Hongu, mahara, uye hapana akaunzi, kunyoresa kana kudhawunirodha. Zvinoshanda pawebhusaiti pafoni, pathabhureti kana pakombiyuta."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Mapeji ekupenda nemavara",
+    "seoTitle": "Mapeji Ekupenda Nemavara Evanhu Vane Dementia (Mahara)",
+    "h1": "Mapeji Ekupenda Nemavara",
+    "description": "Mapeji ane nyore, ekuvakuru ane nzvimbo dzakakura: tinya ruvara, wobva watinya chikamu chemifananidzo. Hapana kusvibisa, hapana mavara asina kunaka, uye peji rega rega rinogona kudhindwa mahara.",
+    "short": "Tinya ruvara, wobva watinya chikamu chemifananidzo. Udhindewo mapeji.",
+    "players": "1 kana 2 vanhu",
+    "intro": "Mapeji ane mifananidzo mikuru, yakapfava: ruva rakamira mumudziyo, imba, kapu yetii, gonyeri uye chikepe chemhepo. Tinya ruvara, wobva watinya chikamu chemifananidzo kuti uchizadze. Hapana mavara akanganisika.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Sarudza peji.",
+      "Tinya ruvara. Ruvara rega rega rine zita rarwo rakanyorwa pariri.",
+      "Tinya chikamu chemifananidzo kuti uchizadze neruvara urwo.",
+      "Chinja pfungwa yako nguva ipi neipi nekuzadzazve.",
+      "Tinya \"Dhinda peji iri\" kuti uwane peji risina chinhu chekupenda nepenseri kana makirayoni."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Pana mavara maviri chete kuti musarudze pakati pawo kana kusarudza kwacho kwakaoma.",
+      "Miti yepepuru nezuva rebhuruu zvinofarirwa. Ndiko kunakidzwa nemavara, kwete kururamisa.",
+      "Mapeji akadhindwa anoshanda nemakirayoni akakura kana marker, anonyatsobatika."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pane kloko kana mamaki here?",
+        "a": "Kwete. Hapana kloko, mamaki, kauntarai yezvamakaita kana kukundikana. Imi munogona kumira panguva ipi neipi, uye kumira pakati ndiyo nzira yakanaka yekupedzisa."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Mapeji aya akaita sevana here?",
+        "a": "Takadhirowa zvinhu zvakanyarara, zvakapfava kwete makatuni, saka mapeji akakodzera vakuru. Mifananidzo mikuru inoita kuti kupenda kuve nyore pasina kuita kuti kuite sevana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mahara here, uye ndinofanira kunyoresa?",
+        "a": "Hongu, mahara, uye hapana akaunzi, kunyoresa kana kudhawunirodha. Zvinoshanda pawebhusaiti pafoni, pathabhureti kana pakombiyuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Makadhi ekutaurirana",
+    "seoTitle": "Mabvunzo Ekutaurirana Ye Dementia: Makadhi Emifananidzo",
+    "h1": "Makadhi Ekutaurirana",
+    "description": "Makadhi emifananidzo ane mibvunzo yakapfava yekutaurirana vanhu vane dementia: hapana kubvunzwa mibvunzo, hapana mhinduro dzakarurama. Shandisa pachikwereti kana udhindire seti yose.",
+    "short": "Makadhi emifananidzo ane mibvunzo yakavhurika, yakapfava. Hapana kubvunzwa mibvunzo.",
+    "players": "vanhu 2 kana boka",
+    "intro": "Kadhi rega rega rinobatanisa mufananidzo unozivikanwa nekukokwa kwakavhurika kutaura, somuenzaniso \"Mamiriro ekunze awanda kwazvo ndeapi?\" Hapana mhinduro dzakarurama uye hapana chinofanira kuyeuchidzwa. Sarudza musoro kana usanganise ese.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Sarudza musoro, kana gara uchiri \"Makadhi ose\".",
+      "Verenga mubvunzo nemutsindo, uye tarisai mufananidzo pamwe chete.",
+      "Teerera, goverana mhinduro yako, uye regedza kutaura kuchifamba.",
+      "Tinya \"Kadhi rinotevera\" kana wagadzirira, kana gara nekadhi rimwe chete sezvamunoda.",
+      "Tinya \"Dhinda makadhi ese\" kuti mutemerwe seti yepepa."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Pindurai mubvunzo imi pachenyu zvakare. Zvinoita sekutaurirana, kwete kubvunzwa.",
+      "Tevera nyaya, kwete zvechokwadi. Kana tsananguro dzichishanduka, zviri zvakanaka.",
+      "Kana kadhi rikabata chinhu chinorwadza, bvuma manzwiro uye ufambe zvinyoro kuenda kukadhi rimwe."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Sei pasina mibvunzo ya \"Unoyeuka…?\"",
+        "a": "Mibvunzo inoedzera kuyeuka inogona kuita sebvunzo yechikoro uye kukonzera kunyadziswa. Mikokwa yakavhurika seya \"Ndiudze nezvo…\" inobvumira munhu wese kubatanidza, zvinoenderana nezvaanoyeuka."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ndinogona kudhinda makadhi here?",
+        "a": "Hongu. \"Dhinda makadhi ese\" inodhinda seti yose nemagwaro akakura, makadhi akawanda papeji rimwe, akagadzirira kucheka."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Mahara here, uye ndinofanira kunyoresa?",
+        "a": "Hongu, hazvibhadharwi, uye hapana akaunzi, kunyoreswa kana kudhawunirodha. Inoshanda mubhurawuza yewebhu pafoni, piritsi kana kombiyuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Mapairi Emifananidzo",
+    "seoTitle": "Gadzira Mutambo Wekubatanidza Kubva Mumifananidzo Yemhuri",
+    "h1": "Mapairi Emifananidzo: Batanidza Mifananidzo Yako",
+    "description": "Shandura mifananidzo yemhuri yako kuita mutambo wakanyorova wekubatanidza. Sarudza mifananidzo 2 kusvika 6 pachishandiso chako; inogara mubhurawuza yako uye haitumirwi kumusoro.",
+    "short": "Sarudza mifananidzo yako uiibatanidze. Hapana chinotumirwa.",
+    "players": "Vanhu 2, vakagara pamwe chete",
+    "intro": "Sarudza mifananidzo miviri kusvika mitanhatu kubva pafoni, piritsi kana kombiyuta yako, uye inova mutambo wekubatanidza une mifananidzo mikuru inoonekwa zvakanaka. Mifananidzo inoratidzwa mukati mepeji rino chete. Haitumirwi, haichengetwi, uye haigoverwi, uye inopera kana wavhara peji.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Pinza \"Sarudza mifananidzo\" uve nesarudzo yemifananidzo miviri kusvika mitanhatu.",
+      "Mufananidzo wega wega unoonekwa kaviri. Pinza imwe, wobva wapinza pari yayo.",
+      "Taura nezvemufananidzo wega wega paunoiwana.",
+      "Pakupedzisa, vhara peji kana pinza \"Bvisa mifananidzo\". Hapana chinochengetwa."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Sarudza mifananidzo yakajeka yezvinhu zvinofadza uye zvinozivikanwa: mbwa, munda, nzvimbo yaunofarira, zuva rekuroora.",
+      "Mifananidzo yenzvimbo nezvinhu inogona kunge iri nyore kupfuura zviso, uye inobvisa kumanikidzwa kutaura mazita evanhu.",
+      "Regai mifananidzo yevanhu vakafa kana ichigona kuunza kurwadziwa kwadzo kwakasiyana, kunze kwekunge muchiziva kuti inounza rugare."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Mifananidzo yangu inotumirwa kupi here?",
+        "a": "Kwete. Peji rinoverenga mifananidzo yaunosarudza mubhurawuza yako rinoiratidza pachiratidzo chako. Haitumirwi kwatiri kana kune mumwe munhu, uye inopera kana wavhara kana kudzoka kupeji."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pane nguva kana mhedzisiro here?",
+        "a": "Kwete. Hapana wachi, mhedzisiro, kauntara yemigove, kana kurasikirwa. Unogona kumira nguva ipi neipi, uye kumira pakati pakati idzira yakanaka yekupedzisa."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ndinogona kuchengeta mutambo wenguva inotevera here?",
+        "a": "Kwete mubhurawuza, zvakanzi zvakaitwa, kuti pasava nezvakavanzika zvinochengetwa. Apuri yemahara yeGolden Moments yeiPhone neiPad inogona kuchengeta makopi emifananidzo yaunosarudza pachishandiso chako."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo Yemifananidzo",
+    "seoTitle": "Bingo Yemifananidzo Yevakuru Vane Dementia: Inogona Kudhindwa",
+    "h1": "Bingo Yemifananidzo Yemapoka",
+    "description": "Bingo yemifananidzo yakasununguka inogona kudhindwa yemapoka ekuchengetedza uye evakuru, ine munhu anoratidza mifananidzo pascreen huru. Mifananidzo mikuru ine mazita, zvikwere 9 kana 16, hapana kuverenga kunodiwa.",
+    "short": "Makadhi ebingo emifananidzo anogona kudhindwa uye muratidzi wescreen huru yemapoka.",
+    "players": "Boka revanhu 2 kusvika 30",
+    "intro": "Bingo yakajairwa ine mifananidzo panzvimbo yenhamba, saka hapana munhu anofanira kuverenga mavara madiki. Dhindza seti yemakadhi akasiyana, wobva washandisa muratidzi pascreen kuratidza mufananidzo wega wega wakakura paTV, laputopu kana piritsi.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Sarudza zvikwere 9 kana 16 pakadhi rega rega, uye vanhu vangani vanotamba.",
+      "Pinza \"Dhindza makadhi\". Kadhi rega rega rakasiyana.",
+      "Vhura muratidzi pascreen huru. Pinza \"Mufananidzo unotevera\" kuratidza mufananidzo wega wega une zita rawo.",
+      "Vanotamba vanofukidza mufananidzo wakafanana pakadhi ravo nechinhu chidiki, batani kana chiratidzo.",
+      "Munhu wese anozadza mutsara, kana kadhi rese, anorumbidzwa nekuomba maoko. Muvhezheni ino hapana akarasikirwa: ramba uchitamba kusvika wose vane mutsara."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Shandisa zvinhu zvikuru sematokeni akadai sezvipfeko zvekutamba kana zvibvu zvemabhodhoro. Mabhatani madiki anogona kuoma kutora.",
+      "Taura zita remufananidzo uye utaure zvishoma pamusoro pawo: \"Ngarava yekufamba mugungwa. Ndiani akambofamba mungarava?\"",
+      "Gadzira vanhu vane dambudziko rekuona pedyo nescreen, uye vabatanidze nevabatsiri vanovada.",
+      "Zvikwere zvepfumbamwe zvakakwana mapoka mazhinji. Ita kuti chikamu chiite maminitsi 20 kusvika 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ndinoita sei bingo yemifananidzo mumba yekuchengetedza?",
+        "a": "Dhindza kadhi rimwe chete pamunhu wega wega, isa muratidzi pascreen hombe yaunayo, uye udane mifananidzo zvishoma nezvishoma, uchitaura zita rega rega. Tamba kusvika wose vane mutsara, kuti hapana akasiyiwa."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Kudhindwa kwacho hakubhadhariswi here?",
+        "a": "Hongu. Dhindza makadhi akawanda sezvaunoda, kangani sezvaunoda, zvemushandisi pachake kana zvemapoka."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Vanhu vanogona kutamba pasina kuverenga here?",
+        "a": "Hongu. Chikwere chega chega mufananidzo mukuru, nezita rawo pasi kune avo vanoda mashoko."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Kufema Zvakanyorova",
+    "seoTitle": "Kumira Kwekufema Kwakanyorova Kwevakuru Nevanovatarisira",
+    "h1": "Kumira Kwekufema Kwakanyorova",
+    "description": "Kumira kwakanyorova, kwakanaka kwekufema kugovana: denderedzwa rinokura uye rinodzika kwemafemo matanhatu. Iwe unotanga, uye unogona kumira nguva ipi neipi.",
+    "short": "Denderedzwa rinonyorova rekufema nariro. Tanga uye mira sezvaunoda.",
+    "players": "Munhu 1 kana 2",
+    "intro": "Nguva dzimwe dzose mutambo wakanakisisa ndiko kumira kwakanyorova. Pinza \"Tanga\", wobva wafema mukati denderedzwa richikura uye kunze richidzika. Sarudza kufamba kwakanyanya kana kwakakurumidza. Haisi kurapwa, asi nguva yakanyorova yekugovana.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Garai pasi makomfoti pamwe chete.",
+      "Sarudza kufamba: kunyorova kana kwakanyanya.",
+      "Pinza \"Tanga\". Fema mukati denderedzwa richikura, uye kunze richidzika.",
+      "Rinomira rega rega pashure pemafemo matanhatu, kana pinza \"Mira\" nguva ipi neipi."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Batana maoko kana uise ruoko pamaoko omunhu kana zvichifarirwa.",
+      "Usamanikidza. Kana vachida kungoona, zvakanaka.",
+      "Kana munhu ane dambudziko rekufema, fema zvakajairika uye ungotarisa denderedzwa chete. Bvunza chiremba pamusoro pechero dambudziko rekufema."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Iri ndiro basa rekufema rekurapa here?",
+        "a": "Kwete. Ndiro kumira kwakapusa, kunoitwa kana uchida, nekuda kwerugare uye kuva pamwe chete. Haisi kurapwa kwekutya kana chirwere chipi zvacho. Taura nechiremba pamusoro penyaya dzehutano."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Denderedzwa rinofamba here pasina kuti ini nditange?",
+        "a": "Kwete. Hapana chinofamba kusvika wadzanika Start, uye chinomira mushure mekufema kana matanhatu kana wadzanika Stop. Kana chishandiso chako chakagadzirwa kuderedza kufamba, mashoko anochinja asina denderedzwa kukura."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ndezvemahara here, uye ndinoda kunyoresa?",
+        "a": "Hongu, mahara, uye hapana akaunzi, kunyoresa kana kudhawunirodha. Unoshanda mu web browser pafoni, patablet kana pakombiyuta."
       }
     ]
   }

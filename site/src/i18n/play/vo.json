@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lesön pükiko",
+      "stopReading": "Stopön lesön",
+      "region": "Gem",
+      "restart": "Begön nulo",
+      "soundOn": "Sonods lenik binon",
+      "soundOff": "Sonods lenik no binon",
+      "done": "Dunön nun",
+      "feedbackQuestion": "Ha at jelpon vemo?",
+      "feedbackYes": "Ya",
+      "feedbackNo": "No vemo",
+      "feedbackThanks": "Dank ob, ke sagon obi."
+    },
+    "tile": {
+      "named": "{name}, plat {n}",
+      "hidden": "Pikür tekölik, plat {n}",
+      "withState": "{label}, {state}",
+      "matched": "Pärod",
+      "selected": "Välöl",
+      "picture": "Pikür",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Ums kupels pelik. Pläön ágen u restöd nun.",
+      "photoPair": "Kupel fotos, pelik.",
+      "picturePair": "Du pikürs di {name|lower}, pelik.",
+      "selected": "{name}. Nu logöd kupeli oli.",
+      "mismatch": "Tempön ob bevü. Klikön piküri u jenöd.",
+      "mismatchNamed": "{a} e {b}. Tempön ob bevü. Klikön piküri u jenöd."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Klikön piküri, poso klikön oni di tal pikür.",
+      "guidanceHidden": "Klikön du platis, ad turnön oris. Logön pro du sams.",
+      "restart": "Pikürs nulik",
+      "sizeLegend": "Kelo platis",
+      "size": {
+        "one": "{n} plat",
+        "other": "{n} platis"
+      },
+      "viewLegend": "Kelo ad pläön",
+      "viewShowing": "Pikürs videböls",
+      "viewHidden": "Pikürs tekölik",
+      "playAgain": "Pläön ágen with nulik pikürs",
+      "talk": "Spikön di pikürs kumiko"
+    },
+    "choose": {
+      "countLegend": "Kelo pikürs",
+      "count": "{n} de välön",
+      "thatOne": "At binon di {name|lower}. Tempön ob bevü."
+    },
+    "findTheSame": {
+      "guidance": "Logön piküri su top. Klikön li sam ni under.",
+      "yes": "Ya, li sam {name|lower}.",
+      "next": "Pikür sekuna"
+    },
+    "shadowMatch": {
+      "guidance": "Logön skadi su top. Klikön piküri, kelik dönon skadi at.",
+      "yes": "Ya, di {name|lower} dönon skadi at.",
+      "next": "Skad sekun",
+      "shadowAlt": "Skad, ke must matjön",
+      "foundAlt": "Skad di {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Klikön piküri, poso klikön korbi, in kel it binon.",
+      "restart": "Pikürs nulik",
+      "themeLegend": "Tema",
+      "selected": "{name}. Nu klikön korbi, in kel it binon.",
+      "pickFirst": "Klikön piküri unikum, poso klikön korbi.",
+      "hint": "Di {name|lower} kanon binön in korb \"{basket}\". Klikön korbi at, ad putön it ibi.",
+      "placed": "Di {name|lower} binon in korb \"{basket}\".",
+      "sorted": "Valik binon sortöl. Logöd korbis kumiko u ti tema votik.",
+      "basket": {
+        "one": "Korb {basket}, {count} pikür inside",
+        "other": "Korb {basket}, {count} pikürs inside"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Klikön ene pesi, poso klikön ti pesi. Ons sitön plazis.",
+      "restart": "Mixön ágen",
+      "pictureLegend": "Pikür",
+      "pictures": {
+        "sailboat": "Velabot",
+        "house": "Dom",
+        "balloon": "Balon",
+        "sunflower": "Solflor",
+        "lighthouse": "Lumahuz",
+        "cat": "Kat"
+      },
+      "sizeLegend": "Pets",
+      "size": {
+        "one": "{n} pet",
+        "other": "{n} pets"
+      },
+      "pickedUp": "Pet valöl. Nu klikön, kelo it binon.",
+      "whole": "Di {name|lower} binon nulik fulik. Välöd ti pikür, ven ob volon.",
+      "swapped": {
+        "one": "Sitöl. {correct} de {total} pet binon in plat.",
+        "other": "Sitöl. {correct} de {total} pets binons in plats."
+      },
+      "guideAlt": "Pikür fulik: {name}",
+      "guideText": "Atos binon kelo pikür binon, poso fulik.",
+      "piece": "Pet in {place}",
+      "pieceInPlace": ", in plat dünik",
+      "piecePickedUp": ", valöl",
+      "places4": [
+        "top left",
+        "top right",
+        "bottom left",
+        "bottom right"
+      ],
+      "places9": [
+        "top left",
+        "top center",
+        "top right",
+        "middle left",
+        "center",
+        "middle right",
+        "bottom left",
+        "bottom center",
+        "bottom right"
+      ],
+      "done": "Pikür binon nulik fulik. Pläön ágen u restöd nun.",
+      "playAgain": "Mixön ágen"
+    },
+    "finishTheSaying": {
+      "guidance": "Lesöd sagi kumiko, poso klikön vödi, kel finön it.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ya, „{start} {end}.“",
+      "otherEnding": "„{word}“ binon vemo fovik. Sag jenöl finon me „{end}“.",
+      "revealed": "Sag binon „{start} {end}.“",
+      "choicesLabel": "Välöd lastadi vödi",
+      "show": "Videbön fini",
+      "talk": "Spikön di it: ",
+      "next": "Sag sekun"
+    },
+    "wordSearch": {
+      "guidance": "Vödis gos nebü u dinä. Klikön firstapi vödas, poso lastapi.",
+      "restart": "Puzel nulik",
+      "themeLegend": "Tema",
+      "sizeLegend": "Gred-gretot",
+      "size": {
+        "one": "{n} per {n} ({words} vöd)",
+        "other": "{n} per {n} ({words} vödis)"
+      },
+      "print": "Printön puzeli at",
+      "letterChosen": "Litär {letter} välöl. Nu klikön lastalitäri vödas.",
+      "found": "{word} lotöl.",
+      "foundAll": "{word} lotöl. Atos binon valikos vödis. Pläön ágen u restöd nun.",
+      "tryAgain": "Tempön ob bevü. Klikön firstalitäri vödas, poso lastalitäri.",
+      "gridLabel": "Gred de litärs, {n} rods de {n} litärs. Brükön pfeilaklavis, ad movön inter litärs.",
+      "cell": "{letter}, rod {row}, kolon {col}",
+      "cellFound": ", parat de lotöl vöd",
+      "wordsHeading": "Vödis ad lotön",
+      "wordFound": " (lotöl)",
+      "sheetTitle": "Puzel de vödis: {theme}",
+      "sheetNote": "Vödis gos nebü u dinä.",
+      "unavailable": "Gred de litärs no fitom za pük at, do puzel de vödis no binon ibi. Trauglöd pikürspelis."
+    },
+    "coloring": {
+      "guidance": "Klikön kolori, poso klikön ti pela de pikür.",
+      "restart": "Vipön kolori",
+      "cleared": "Pad binon nulik vaküm.",
+      "pageLegend": "Pad",
+      "print": "Printön padi at",
+      "colorsLabel": "Kolori",
+      "paintChosen": "{paint} välöl.",
+      "painted": "{part} binon nu {paint|lower}.",
+      "artLabel": "{page}, {count} pelas ad kolorön",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, no koloröl",
+      "paints": {
+        "red": "Ruj",
+        "orange": "Orandö",
+        "yellow": "Jelod",
+        "green": "Grin",
+        "blue": "Blü",
+        "purple": "Purpul",
+        "pink": "Rosat",
+        "brown": "Brun",
+        "sky-blue": "Blü sklüdik",
+        "cream": "Krem",
+        "gray": "Grizän",
+        "white": "Vit"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lesöd kad balikum. No binon jusik pevodis.",
+      "position": "Kad {n} de {total}",
+      "themeLegend": "Tema",
+      "next": "Kad sekun",
+      "previous": "Kad pevü",
+      "print": "Printön ola kads",
+      "sheetTitle": "Kads spikama"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Tedikön fotos obas unikum.",
+      "guidance": "Klikön foto, poso klikön oni di tal foto.",
+      "restart": "Mixön ons ágen",
+      "intro": "**Välöd 2 de 6 fotos** de atos apärat. Ons videbons nur su pad at, e no binons sendöl u sevöl.",
+      "choose": "Välöd fotos",
+      "chooseDifferent": "Välöd votik fotos",
+      "clear": "Vipön fotos",
+      "cleared": "Fotos binons vipöl de pad at.",
+      "atLeastTwo": "Begon, välöd at 2 fotos.",
+      "usingFirst": "Brükon fotos {max} unikum.",
+      "skipped": {
+        "one": "{count} fil no binon foto, kelo kanons videbön.",
+        "other": "{count} fils no binons fotos, keles kanons videbön."
+      },
+      "playAgain": "Pläön ágen with atos fotos",
+      "empty": "Oms fotos video ibi, vönsik dupo."
+    },
+    "pictureBingo": {
+      "guidance": "Printön kads unikum. Poso montön kalli at su gretikum ekran, kel ob has.",
+      "called": {
+        "one": "{name}. {called} de {total} pikür kaldöl.",
+        "other": "{name}. {called} de {total} pikürs kaldöls."
+      },
+      "start": "Klikön \"Pikür sekuna\", ad kaldön pikür unikum.",
+      "restart": "Begön pläi nulik",
+      "squaresLegend": "Kvadats su vemik kad",
+      "squares": "{n} kvadats ({side} per {side})",
+      "cardsLegend": "Kelo kads printön",
+      "cards": {
+        "one": "{n} kad",
+        "other": "{n} kads"
+      },
+      "print": {
+        "one": "Printön {n} bingo-kad",
+        "other": "Printön {n} bingo-kads"
+      },
+      "ready": "Redik, ven ob volon",
+      "next": "Pikür sekuna",
+      "allCalled": "Ola pikürs binons kaldöls",
+      "alreadyCalled": "Ja kaldöl",
+      "sheetTitle": "Pikür bingo · kad {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Sugön in, ven sirkel vaxon, e ut, ven el smalon. Stopöl self bi seks sugs.",
+      "paceLegend": "Pas",
+      "paceSlow": "Lenik (5 sekunds vielo)",
+      "paceGentle": "Mildik (4 sekunds vielo)",
+      "ready": "Redik, ven ol wanol",
+      "in": "Sugön in",
+      "hold": "Restön",
+      "out": "Sugön ut",
+      "start": "Stärtön",
+      "stop": "Stopön",
+      "started": "Stärtöl. Sugön in, ven sirkel vaxon.",
+      "stopped": "Stopöl.",
+      "finished": "At ele seks lenik sugs. Stärtolös nüne, ven ol vilol."
+    }
+  },
+  "pictures": {
+    "teacup": "Tas tee",
+    "kettle": "Ketel",
+    "bread": "Brod",
+    "frying-pan": "Pan ko ei",
+    "cake": "Birtadekuk",
+    "sunflower": "Sunblod",
+    "tulip": "Redik tülip",
+    "watering-can": "Vatakan",
+    "potted-plant": "Plänt in pot",
+    "tree": "Bim",
+    "bird": "Redabrestik on bim",
+    "butterfly": "Butelfal",
+    "dog": "Dog",
+    "cat": "Kat",
+    "fish": "Goldafiks",
+    "apple": "Redik apel",
+    "pear": "Pir",
+    "strawberry": "Strobeli",
+    "banana": "Banan",
+    "lemon": "Limon",
+    "cherries": "Kirses",
+    "house": "Dom",
+    "lamp": "Lamp de tab",
+    "armchair": "Stul ko bräkot",
+    "key": "Ol klüd",
+    "umbrella": "Umbrel",
+    "sailboat": "Bot vel",
+    "car": "Klasik kar",
+    "bicycle": "Cikel",
+    "balloon": "Heitabalon",
+    "lighthouse": "Lumatur",
+    "sun": "Sun",
+    "moon": "Mun e stels",
+    "teapot": "Tepot",
+    "apple-pie": "Apelpai",
+    "honey-jar": "Pot de bil",
+    "boiled-egg": "Ei in eikup",
+    "toaster": "Tostel",
+    "cheese": "Kas, slis",
+    "milk-jug": "Milkpot",
+    "cupcake": "Kukeli",
+    "orange": "Oranj",
+    "grapes": "Bun vinaberis",
+    "watermelon": "Slis vatamelon",
+    "pineapple": "Ananas",
+    "peach": "Persik",
+    "rose": "Ros",
+    "daisies": "Daisis",
+    "mushroom": "Mushrum",
+    "wheelbarrow": "Garnkar",
+    "birdhouse": "Vogadom",
+    "cactus": "Kaktus in pot",
+    "acorn": "Akorn",
+    "autumn-leaf": "Blad ülik",
+    "rabbit": "Rabit",
+    "duck": "Ent",
+    "hen": "Hen",
+    "sheep": "Xip",
+    "owl": "Ul",
+    "ladybird": "Lädibird",
+    "snail": "Slak",
+    "frog": "Frog",
+    "bee": "Bi",
+    "clock": "Tiklok",
+    "vase-of-flowers": "Vaz de blods",
+    "radio": "Ol radyo",
+    "books": "Pil de buks",
+    "candle": "Kandel",
+    "glasses": "Glases de lesön",
+    "telephone": "Telefon",
+    "ball-of-wool": "Bal de vol",
+    "straw-hat": "Sunhät",
+    "train": "Vapotren",
+    "bus": "Bus",
+    "airplane": "Flugmasin",
+    "suitcase": "Valis",
+    "tractor": "Traktor",
+    "rowing-boat": "Ruv bot",
+    "rainbow": "Regabog",
+    "rain-cloud": "Regakloud",
+    "snowflake": "Snoflok",
+    "kite": "Kit",
+    "sunrise": "Sunarisad ob bergs"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frut",
+          "words": [
+            "APEL",
+            "PIR",
+            "PRUM",
+            "LIMON",
+            "BERI",
+            "PERSIK",
+            "MELON",
+            "LIM",
+            "FIK"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Garden",
+          "words": [
+            "ROS",
+            "TÜLIP",
+            "SED",
+            "GROD",
+            "BLAD",
+            "BIM",
+            "DAISI",
+            "LAKET",
+            "VOG"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kitchen",
+          "words": [
+            "TAS",
+            "LEPEL",
+            "BROD",
+            "PAN",
+            "BOL",
+            "PLAT",
+            "TEE",
+            "OFEN",
+            "FORK"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Weather",
+          "words": [
+            "SUN",
+            "REN",
+            "SNOW",
+            "VIND",
+            "KLOUD",
+            "STORM",
+            "NEBL",
+            "MILIK",
+            "VARM"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animals",
+          "words": [
+            "DOG",
+            "KAT",
+            "VOG",
+            "FIKS",
+            "HORS",
+            "BOV",
+            "ENT",
+            "GOT",
+            "HEN"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Home",
+          "words": [
+            "DOR",
+            "STUL",
+            "LAMP",
+            "BET",
+            "TAP",
+            "SOFA",
+            "TIKLOK",
+            "TABL",
+            "KLÜD"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "All cards",
+        "food": "Mat",
+        "home": "Dom",
+        "outdoors": "Pelädöm",
+        "animals": "Animals",
+        "travel": "Jenöd vegs",
+        "work": "Labot e hobis",
+        "music": "Musig e fun",
+        "seasons": "Years tims"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Kelo smel in kitsen pleiloy tu nunöl?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kelo kuk ti volos po festivam?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Dinön mi di frut-pai u sweet fa tu gudik."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Kiös ti volos tei u kafe?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Kelo mekos breakfast gudik?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ai ti jels frut fom plant?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Swit u sur: kelo ti volos bevi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kelo mat tefon sumera tu ti?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Dinön mi di dom, in kel ti vivöl."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Kiöp ti volos sidön e restön?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Kelo ti volos dun in nit silenik?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Kelo bal ti volos keipön in box spesik?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kiö ti volos invitön tu tei?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Kelo ti volos dun in dei regik?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kelis blods ti volos plantön in gad?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Dinön mi di bim u park, kel ti volos."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kelo pät gudikos in gad?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kel kolor blods ti volos bevi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ti volos plants in dom?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Kelo jels dei sunik gudik ad ti?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Dinön mi di dog kel ti jonöl."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kats u dogs, u no? Kelo ti volos pro oms?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Kelis vogs ti vidöl u hiröl oltaiko?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ai ti fisölos u fisi in tank?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kel animal gudikum ti vidöl?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Dinön mi di kar kel ti volos."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ti volos pasön dei ad lun u in bergs?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Kiöp ti volos jelön tu ridön?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "If ti kanos flön ove ftip, kiöp ob?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Kel vegs ti jelöl?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Kelo labot ti jelöl ad dunön?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Kel hobi ti kanos dunön ad ours?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Kelo ti bevi bi mekön u tedön?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Kelo konsel ti volos givön yug, kel komon labot?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kel musig pelöd ti tu dansön?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Kelo gudikon ad parti?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Kelo singer ti jelöl ad hirön?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Kel film u TV-program ti volos vidön fovo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Kelo ti jelöl moastik ad sumer?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kelo ti jelöl ad fal?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Kel gudik dun ad vinter-nit?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Kels binons spring-ik ad ti?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Snö, reg u sun: kelo ti volos bevi?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Blod in pot",
+          "regions": {
+            "sky": "Fon",
+            "table": "Tab",
+            "stem": "Stem",
+            "leaf-left": "Blad levik",
+            "leaf-right": "Blad rigik",
+            "petal-1": "Petal 1",
+            "petal-2": "Petal 2",
+            "petal-3": "Petal 3",
+            "petal-4": "Petal 4",
+            "petal-5": "Petal 5",
+            "petal-6": "Petal 6",
+            "petal-7": "Petal 7",
+            "petal-8": "Petal 8",
+            "center": "Medel blod",
+            "pot": "Pot",
+            "pot-rim": "Rand de pot"
+          }
+        },
+        "house": {
+          "name": "Dom",
+          "regions": {
+            "sky": "Sky",
+            "sun": "Sun",
+            "grass": "Gras",
+            "chimney": "Kamin",
+            "walls": "Vals",
+            "roof": "Dak",
+            "door": "Dor",
+            "window-left": "Fenestr levik",
+            "window-right": "Fenestr rigik",
+            "path": "Pad"
+          }
+        },
+        "teacup": {
+          "name": "Tas tee",
+          "regions": {
+            "background": "Fon",
+            "saucer": "Plat",
+            "handle": "Handel",
+            "cup": "Tas",
+            "band": "Strip su tas",
+            "tea": "Tee"
+          }
+        },
+        "butterfly": {
+          "name": "Butelfal",
+          "regions": {
+            "background": "Fon",
+            "wing-top-left": "Levik supik ving",
+            "wing-top-right": "Rigik supik ving",
+            "wing-bottom-left": "Levik nedik ving",
+            "wing-bottom-right": "Rigik nedik ving",
+            "spot-left": "Levik spot vinga",
+            "spot-right": "Rigik spot vinga",
+            "body": "Kor"
+          }
+        },
+        "sailboat": {
+          "name": "Bot vel",
+          "regions": {
+            "sky": "Sky",
+            "sea": "Se",
+            "sail-big": "Gret vel",
+            "sail-small": "Klein vel",
+            "mast": "Mast",
+            "hull": "Bot",
+            "flag": "Flag"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kitsen e gad",
+          "baskets": [
+            "In kuzin",
+            "In gad"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frut e bests",
+          "baskets": [
+            "Frut",
+            "Bests"
+          ]
+        },
+        "home-travel": {
+          "label": "Dom e vegön",
+          "baskets": [
+            "Ad dom",
+            "Ut e vegön"
+          ]
+        }
+      }
+    }
+  }
+}

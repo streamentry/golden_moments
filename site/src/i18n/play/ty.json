@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Faaroo i te reo",
+      "stopReading": "Hōro i te faaroo",
+      "region": "Tāʻaʻa",
+      "restart": "Haamata faahou",
+      "soundOn": "Oro mārū: ē",
+      "soundOff": "Oro mārū: ʻaʻore",
+      "done": "Hōro ā i teie nei",
+      "feedbackQuestion": "Ua tauturu anei teie tāʻaʻa i teie mahana?",
+      "feedbackYes": "Ē",
+      "feedbackNo": "ʻAʻore roa",
+      "feedbackThanks": "E mauruuru no tā outou faaite mai ia matou."
+    },
+    "tile": {
+      "named": "{name}, tīpa {n}",
+      "hidden": "Pīpi hūnā, tīpa {n}",
+      "withState": "{label}, {state}",
+      "matched": "Ua tano",
+      "selected": "Ua fifi",
+      "picture": "Pīpi",
+      "photoNumber": "Hōho'a {n}"
+    },
+    "pairs": {
+      "allTogether": "Ua tano atoa ia mau pīpi. E tāʻaʻa faahou, aore ra e hōro i te ʻāʻau.",
+      "photoPair": "Hoʻi hōho'a tano, no te fare.",
+      "picturePair": "Piti pīpi o te {name|lower}, tano.",
+      "selected": "{name}. Inaha, rapae i tona tano.",
+      "mismatch": "Faaʻoti i te taime. Pāpā i te pīpi ia tūʻa.",
+      "mismatchNamed": "{a} e {b}. Faaʻoti i te taime. Pāpā i te pīpi ia tūʻa."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Pāpā i te pīpi, i muri iho pāpā i te pīpi e tano ai.",
+      "guidanceHidden": "Pāpā i piti tīpa ia fanaʻe. Rapae i piti e tano ai.",
+      "restart": "Pīpi apî",
+      "sizeLegend": "E aha mau tīpa",
+      "size": {
+        "one": "{n} tīpa",
+        "other": "{n} tīpa"
+      },
+      "viewLegend": "Me nafea te tāʻaʻa",
+      "viewShowing": "Pīpi e hōʻi",
+      "viewHidden": "Pīpi hūnā",
+      "playAgain": "Tāʻaʻa faahou me te mau pīpi apî",
+      "talk": "Parau e pae i te mau pīpi"
+    },
+    "choose": {
+      "countLegend": "E aha mau pīpi",
+      "count": "{n} e fifi ai",
+      "thatOne": "Ua ʻo ïa te {name|lower}. Faaʻoti i te taime."
+    },
+    "findTheSame": {
+      "guidance": "Hi'o i te pīpi i ni'a. Pāpā i te mea tano i raro.",
+      "yes": "Ē, te {name|lower} tano.",
+      "next": "Pīpi ʻaʻe"
+    },
+    "shadowMatch": {
+      "guidance": "Hi'o i te ʻata i ni'a. Pāpā i te pīpi e hamani ai i taua ʻata.",
+      "yes": "Ē, te {name|lower} e hamani ai i taua ʻata.",
+      "next": "ʻAta ʻaʻe",
+      "shadowAlt": "Hoʻi ʻata e tano ai",
+      "foundAlt": "Te ʻata o te {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Pāpā i te pīpi, i muri iho pāpā i te kōrī e tīʻaʻi ai.",
+      "restart": "Pīpi apî",
+      "themeLegend": "Tumu parau",
+      "selected": "{name}. Inaha, pāpā i te kōrī e tīʻaʻi ai.",
+      "pickFirst": "I mua, pāpā i te pīpi, i muri iho pāpā i te kōrī.",
+      "hint": "Te {name|lower} e nehenehe e tīʻaʻi i roto i te kōrī “{basket}”. Pāpā i taua kōrī no te tuu ai i reira.",
+      "placed": "Te {name|lower} o te kōrī “{basket}”.",
+      "sorted": "Ua tīʻaʻi atoa. Hi'o i te mau kōrī e tahi, aore ra e tāʻaʻa i te tumu parau ʻē.",
+      "basket": {
+        "one": "Kōrī {basket}, {count} pīpi i roto",
+        "other": "Kōrī {basket}, {count} pīpi i roto"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Pāpā i hoʻi ʻāʻau, i muri iho pāpā i tētahi ʻē. E faʻaiʻo ratou.",
+      "restart": "Faarūrū faahou",
+      "pictureLegend": "Pīpi",
+      "pictures": {
+        "sailboat": "Va'a hoe",
+        "house": "Fare",
+        "balloon": "Pōpō",
+        "sunflower": "Tournesol",
+        "lighthouse": "Fare mārama",
+        "cat": "Pōti'o"
+      },
+      "sizeLegend": "ʻĀʻau",
+      "size": {
+        "one": "{n} ʻāʻau",
+        "other": "{n} ʻāʻau"
+      },
+      "pickedUp": "Ua maiti te ʻāʻau. Inaha, pāpā i te vahi e tuʻu ai.",
+      "whole": "Ua taʻi faahou te {name|lower}. Fifi i tētahi pīpi ʻē ia hinaaro outou.",
+      "swapped": {
+        "one": "Ua faʻaiʻo. {correct} o {total} ʻāʻau i tō ratou vahi.",
+        "other": "Ua faʻaiʻo. {correct} o {total} ʻāʻau i tō ratou vahi."
+      },
+      "guideAlt": "Te pīpi atoa: {name}",
+      "guideText": "Teie te huru o te pīpi i to ʻna taʻi atoa.",
+      "piece": "ʻĀʻau i te vahi {place}",
+      "pieceInPlace": ", i tō ratou vahi",
+      "piecePickedUp": ", ua maiti",
+      "places4": [
+        "ʻāʻau ʻĀfa",
+        "ʻāʻau ʻĀfa ʻātau",
+        "ʻāʻau ʻĀfa ʻĀʻarā",
+        "ʻāʻau ʻĀʻarā ʻātau"
+      ],
+      "places9": [
+        "ʻāʻau ʻĀfa",
+        "ʻāʻau ʻĀfa vahi ʻāʻa",
+        "ʻāʻau ʻĀfa ʻātau",
+        "ʻāʻau vahi ʻĀfa",
+        "tutuʻu",
+        "ʻāʻau vahi ʻātau",
+        "ʻāʻau ʻĀʻarā",
+        "ʻāʻau ʻĀʻarā vahi ʻāʻa",
+        "ʻāʻau ʻĀʻarā ʻātau"
+      ],
+      "done": "Ua taʻi faahou te pīpi. Tāʻaʻa faahou, aore ra e hōro i te ʻāʻau.",
+      "playAgain": "Faarūrū faahou"
+    },
+    "finishTheSaying": {
+      "guidance": "Taio i te parau tahi, i muri iho pāpā i te parau e faaʻoti ai.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ē, “{start} {end}.”",
+      "otherEnding": "“{word}” e nehenehe atoa. Te parau mau e faaʻoti ra i “{end}”.",
+      "revealed": "Te parau ïa “{start} {end}.”",
+      "choicesLabel": "Fifi i te parau hopea",
+      "show": "Faaite i te hopea",
+      "talk": "Parau e pae i te reira: ",
+      "next": "Parau ʻaʻe"
+    },
+    "wordSearch": {
+      "guidance": "Te mau parau e horo mai i ʻuta, aore ra i raro. Pāpā i te reta matamua o te parau, i muri iho pāpā i te reta hopea.",
+      "restart": "Tāmǎ'a apî",
+      "themeLegend": "Tumu parau",
+      "sizeLegend": "Rahi o te ʻaʻano",
+      "size": {
+        "one": "{n} i {n} ({words} parau)",
+        "other": "{n} i {n} ({words} parau)"
+      },
+      "print": "Tāpano i teie tāʻaʻa",
+      "letterChosen": "Ua fifi te reta {letter}. Inaha, pāpā i te reta hopea o te parau.",
+      "found": "Ua ʻite i {word}.",
+      "foundAll": "Ua ʻite i {word}. Teie te mau parau atoa. Tāʻaʻa faahou, aore ra e hōro i te ʻāʻau.",
+      "tryAgain": "Faaʻoti i te taime. Pāpā i te reta matamua o te parau, i muri iho pāpā i te reta hopea.",
+      "gridLabel": "ʻaʻano reta, {n} ʻāʻau o {n} reta. Faaohipa i te mau fana tuʻu no haere i waenga i te mau reta.",
+      "cell": "{letter}, ʻāʻau {row}, tapa {col}",
+      "cellFound": ", o tētahi parau i ʻitehia",
+      "wordsHeading": "Te mau parau e ʻimi ai",
+      "wordFound": " (ua ʻite)",
+      "sheetTitle": "Tāʻaʻa parau: {theme}",
+      "sheetNote": "Te mau parau e horo mai i ʻuta, aore ra i raro.",
+      "unavailable": "Ua ʻaʻore te ʻaʻano reta e tano i teie reo, no reira ua ʻaʻore te tāʻaʻa parau e tia i teie nei. Tāmau i te mau tāʻaʻa pīpi."
+    },
+    "coloring": {
+      "guidance": "Pāpā i te tere, i muri iho pāpā i tētahi vahi o te pīpi.",
+      "restart": "Faaʻore i te mau tere",
+      "cleared": "Ua ʻano-ʻore faahou te pepa.",
+      "pageLegend": "Pepa",
+      "print": "Tāpano i teie pepa",
+      "colorsLabel": "Mau tere",
+      "paintChosen": "Ua fifi {paint}.",
+      "painted": "Te {part} ua ʻia {paint|lower}.",
+      "artLabel": "{page}, {count} vahi e tere ai",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, aore i tere",
+      "paints": {
+        "red": "Rouge",
+        "orange": "Orange",
+        "yellow": "Jaune",
+        "green": "Vert",
+        "blue": "Bleu",
+        "purple": "Violet",
+        "pink": "Rose",
+        "brown": "Brun",
+        "sky-blue": "Bleu ciel",
+        "cream": "Crème",
+        "gray": "Gris",
+        "white": "Blanc"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Taio i te ʻāpī ʻi te reo teitei. Aita e pahonoraa tia ʻore.",
+      "position": "ʻĀpī {n} o {total}",
+      "themeLegend": "Tumu parau",
+      "next": "ʻĀpī ʻaʻe",
+      "previous": "ʻĀpī i mua",
+      "print": "Tāpano i te mau ʻāpī atoa",
+      "sheetTitle": "ʻĀpī parau"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "E tīmata i te fifi i ta outou mau hōho'a.",
+      "guidance": "Pāpā i tētahi hōho'a, i muri iho pāpā i tē e tano ai.",
+      "restart": "Faarūrū faahou",
+      "intro": "**Fifi i 2 ia 6 hōho'a** no teie mea hoʻi. E faaitehia noa i teie api, aita e tuuhia ʻē aʻe, aita e faatiaʻi.",
+      "choose": "Fifi i te mau hōho'a",
+      "chooseDifferent": "Fifi i te mau hōho'a ʻē",
+      "clear": "Faaʻore i te mau hōho'a",
+      "cleared": "Ua faaʻore i te mau hōho'a i teie pepa.",
+      "atLeastTwo": "E ʻaʻa, fifi i piti hōho'a iti roa.",
+      "usingFirst": "E faaohipa i te {max} hōho'a matamua.",
+      "skipped": {
+        "one": "Ua ʻaʻore te {count} faʻatoro i roto i te hōho'a e nehenehe e faaitehia.",
+        "other": "Ua ʻaʻore te {count} faʻatoro i roto i te hōho'a e nehenehe e faaitehia."
+      },
+      "playAgain": "Tāʻaʻa faahou me teie mau hōho'a",
+      "empty": "E faaite mai te mau hōho'a i konei, tē tahi e piti."
+    },
+    "pictureBingo": {
+      "guidance": "E tāpano matamua i te mau ʻāpī. I muri iho, faaite i teie parau i te ʻāpī rahi roa ʻia ʻoe.",
+      "called": {
+        "one": "{name}. {called} o {total} pīpi ua parauhia.",
+        "other": "{name}. {called} o {total} pīpi ua parauhia."
+      },
+      "start": "Pāpā i “Pīpi ʻaʻe” no parau i te pīpi matamua.",
+      "restart": "Tāʻaʻa apî",
+      "squaresLegend": "ʻāʻau i ni'a i te ʻāpī",
+      "squares": "{n} ʻāʻau ({side} i {side})",
+      "cardsLegend": "E aha mau ʻāpī e tāpano",
+      "cards": {
+        "one": "{n} ʻāpī",
+        "other": "{n} ʻāpī"
+      },
+      "print": {
+        "one": "Tāpano i {n} ʻāpī bingo",
+        "other": "Tāpano i {n} ʻāpī bingo"
+      },
+      "ready": "E ʻaʻa, ua maururu",
+      "next": "Pīpi ʻaʻe",
+      "allCalled": "Ua parauhia te mau pīpi atoa",
+      "alreadyCalled": "Ua parauhia matamua",
+      "sheetTitle": "Bingo pīpi · ʻāpī {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Hā mai i te taime e tupu ana te porotu, e hā atu i te taime e iti ana. E tū i muri a'e i te ono hā tōroa.",
+      "paceLegend": "Taime hā",
+      "paceSlow": "Tōroa (5 secondes ia pae)",
+      "paceGentle": "Mārō (4 secondes ia pae)",
+      "ready": "E tiai ana i tō outou taime",
+      "in": "Hā mai",
+      "hold": "Tiamaraa",
+      "out": "Hā atu",
+      "start": "Haamata",
+      "stop": "Hopoi",
+      "started": "Ua haamata. Hā mai i te taime e tupu ana te porotu.",
+      "stopped": "Ua hopoi.",
+      "finished": "Ua ono hā tōroa. E haamata i tō outou taime, a hinaaro ai."
+    }
+  },
+  "pictures": {
+    "teacup": "Tāsi tī",
+    "kettle": "Pōtī tī",
+    "bread": "Pane",
+    "frying-pan": "Pereti fri me te hua manu",
+    "cake": "Keke mahana tupu'a",
+    "sunflower": "Tiare mahana",
+    "tulip": "Tiare 'ura",
+    "watering-can": "Ipu vai",
+    "potted-plant": "Rau i roto i te pōtī",
+    "tree": "Tumu rā'au",
+    "bird": "Manu i nī'a i te rā'au",
+    "butterfly": "Pe'ape'a",
+    "dog": "'Uri",
+    "cat": "Pusi",
+    "fish": "I'a",
+    "apple": "Pōmme 'ura",
+    "pear": "Pere",
+    "strawberry": "Farāise",
+    "banana": "Mai'a",
+    "lemon": "Tīmona",
+    "cherries": "Serise",
+    "house": "Fare",
+    "lamp": "Rāmpa tēpu",
+    "armchair": "Fauteuil",
+    "key": "Ki tahito",
+    "umbrella": "Parapluie",
+    "sailboat": "Vaa hōe",
+    "car": "Pereuhi tahito",
+    "bicycle": "Pāsikala",
+    "balloon": "Ōtaura'a",
+    "lighthouse": "Fare purupuru",
+    "sun": "Mahana",
+    "moon": "Marama e te mau fetū",
+    "teapot": "Pōtī tī",
+    "apple-pie": "Pāi pōmme",
+    "honey-jar": "Ipu honi",
+    "boiled-egg": "Hua manu i roto i te tāsi hua manu",
+    "toaster": "Toaster",
+    "cheese": "Fromage",
+    "milk-jug": "Ipu hāmu",
+    "cupcake": "Keke iti",
+    "orange": "Orange",
+    "grapes": "Tupu raisin",
+    "watermelon": "Ōpuni vai",
+    "pineapple": "Tāpōne",
+    "peach": "Pēhi",
+    "rose": "Rōhi",
+    "daisies": "Pua mārie",
+    "mushroom": "Mushroom",
+    "wheelbarrow": "Pereuhi tuhi",
+    "birdhouse": "Fare manu",
+    "cactus": "Kaktus i roto i te pōtī",
+    "acorn": "Hua rā'au",
+    "autumn-leaf": "Rau mahana 'ōpuaa",
+    "rabbit": "Lapin",
+    "duck": "Pato",
+    "hen": "Moa",
+    "sheep": "Mouton",
+    "owl": "Pūpū pō",
+    "ladybird": "Pe'ape'a 'ūra",
+    "snail": "Pūpū",
+    "frog": "Pe'a'ō",
+    "bee": "Pī",
+    "clock": "Pahi taime",
+    "vase-of-flowers": "Pōtī pua",
+    "radio": "Radio tahito",
+    "books": "Mau buke",
+    "candle": "Ā'a tāmā",
+    "glasses": "Mata pāpā'i",
+    "telephone": "Telephone",
+    "ball-of-wool": "Ō'ei hiri",
+    "straw-hat": "Pa'o mahana",
+    "train": "Pahi uira",
+    "bus": "Pahi bus",
+    "airplane": "Vaarere",
+    "suitcase": "Mū'ī",
+    "tractor": "Tractor",
+    "rowing-boat": "Vaa hoe",
+    "rainbow": "Anuanua",
+    "rain-cloud": "Ao ua",
+    "snowflake": "Hua hinu",
+    "kite": "Ē'ā",
+    "sunrise": "Te ara'a mahana i nī'a i te mau mou'a"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "AEFHIMNOPRTUV",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Hua 'ai",
+          "words": [
+            "POMME",
+            "PAPAI",
+            "FEI",
+            "NIU",
+            "HUA",
+            "TAPONE",
+            "FARA",
+            "NONO",
+            "MAPE"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Māra",
+          "words": [
+            "ROHI",
+            "TIARE",
+            "RAU",
+            "TUMU",
+            "ONE",
+            "VAI",
+            "PUA",
+            "TUPU",
+            "MARA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Fare tunu kai",
+          "words": [
+            "TAPUNE",
+            "PANE",
+            "UMU",
+            "HUE",
+            "PAPA",
+            "TAHA",
+            "POTI",
+            "TUTU",
+            "AMU"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Te tau",
+          "words": [
+            "MAHANA",
+            "TAU",
+            "HAU",
+            "MARU",
+            "MATA",
+            "ORA",
+            "TERE",
+            "MOANA",
+            "PERE"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animara",
+          "words": [
+            "URI",
+            "PUSI",
+            "MANU",
+            "PUAA",
+            "MOA",
+            "HORI",
+            "PEAPEA",
+            "PATO",
+            "TUNA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Fare",
+          "words": [
+            "PORTE",
+            "TURU",
+            "RAMPA",
+            "MOENA",
+            "TAIME",
+            "TEPU",
+            "PUTI",
+            "FARE",
+            "MAHI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Ā'au tō te mau pāpā'i",
+        "food": "Ō te 'ai",
+        "home": "Te fare",
+        "outdoors": "I waho",
+        "animals": "Te mau animara",
+        "travel": "Te haere",
+        "work": "Te ohipa e te mau hobby",
+        "music": "Te pō'ē e te 'ohipa 'ā'au",
+        "seasons": "Te mau tau"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "E aha te hō'ē 'amuraa i ni'a i te fare tunu kai tā outou e ma'ita'i roa?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "E aha te keke tā outou e fifi i te tahi pō'ē tupu'a?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "A parau mai i tā outou pāi hua'ai e ma'ita'i roa."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "E nafea outou e hinaaro ai i tō outou tī pe'e kāfē?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "E aha te mea e ma'ita'i ai te tāmāra'a 'ai i te poipoi?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ua 'oti anei outou i te tīpi'i i te hua'ai i ni'a i te rā'au?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Māhanahana, aore ra ti'ahuahia: ē aha tā outou e hinaaro ai?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "E aha te mea 'ai e mahana ai i tō outou manava?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "A parau mai i te fare tā outou i ō roa i reira."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "E ававаі hea tō outou vahi e 'ohipa 'ore ai?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "E aha tā outou e fa'aroo ai i te pō marū?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "E aha te mea tā outou e pupū i roto i te pahu fa'ahiahia?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "E ō'ā tō outou e fa'aue ai i te tī?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "E aha tā outou e fa'aroo ai i te mahana ua?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "E aha te mau pua tā outou e tanu ai i te māra?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "A parau mai i te rā'au aore ra te tahua tā outou e hinaaro ai."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "E aha te mea ma'ita'i roa i te tu'ura'a i te māra?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "E tahi'a te pua tā outou e hinaaro roa ai?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "E hinaaro anei outou i te rau i roto i te fare?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "E aha tō outou mana'o no te mahana mahana tei tōtiahia?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "A parau mai i te 'uri tā outou i 'ite."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Pusi aore ra 'uri, aore ra 'ō atu? E aha tā outou e ma'ita'i ai?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "E manu aha tā outou e 'ite aore ra e fa'aroo i waho?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ua 'oti anei outou i te tautau i te i'a, aore ra i te fare i'a?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "E aha te animara ma'ita'i roa tā outou i 'ite?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "A parau mai i te pereuhi tā outou i ma'ita'i."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "E hinaaro anei outou i te mahana i te tahatai aore ra i te mou'a?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "E hea tā outou e hinaaro ai i te haere i te pāsikala?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Ā te mau vahi atoa e rere ai outou i ni'a, e hea ia?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "E aha te haerea tā outou i ma'ita'i?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "E aha te ohipa tā outou i ma'ita'i i te ohipa?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "E aha te hobby tā outou e nehenehe e ohipa ai i te tahi hora?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "E aha te mea tā outou i ma'ita'i i te tāmā aore ra i te fa'aoti?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "E aha te tōrā'a tā outou e horo'a atu i te ta'ata nehenehe e ohipa ana?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "E aha te 'ōrīrī e tōrō ai tō outou ā'au?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "E aha te mea e ma'ita'i ai te pō'ē?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "O vai te tāne aore ra te vahine hīmene tā outou e fa'aroo ai?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "E aha te 'ōrīrī aore ra te fa'ahiahia i te 'ite fa'ahou i te tahi taime?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "E aha tā outou e ma'ita'i roa i te tau mahana?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "E aha tā outou e fa'aroo ai i te tau 'ōpuaa?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "E aha te mea mahana i te pō tōmairi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "E aha te mau tōmairi'a i ta outou e 'ite ai i te tau nu'u?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Hinu, ua, aore ra mahana: ē aha tā outou e ti'a ai?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Pua i roto i te pōtī",
+          "regions": {
+            "sky": "Tupe mua",
+            "table": "Tēpu",
+            "stem": "Tumu",
+            "leaf-left": "Rau i te pae i te fātata",
+            "leaf-right": "Rau i te pae i te ātea",
+            "petal-1": "Pāpa'i 1",
+            "petal-2": "Pāpa'i 2",
+            "petal-3": "Pāpa'i 3",
+            "petal-4": "Pāpa'i 4",
+            "petal-5": "Pāpa'i 5",
+            "petal-6": "Pāpa'i 6",
+            "petal-7": "Pāpa'i 7",
+            "petal-8": "Pāpa'i 8",
+            "center": "Waenga o te pua",
+            "pot": "Pōtī",
+            "pot-rim": "Piha o te pōtī"
+          }
+        },
+        "house": {
+          "name": "Fare",
+          "regions": {
+            "sky": "Ra'i",
+            "sun": "Mahana",
+            "grass": "Ōpuaa",
+            "chimney": "Tūtū fare",
+            "walls": "Pāpa'i fare",
+            "roof": "Tuē",
+            "door": "Porte",
+            "window-left": "Mato i te pae i te fātata",
+            "window-right": "Mato i te pae i te ātea",
+            "path": "Ara"
+          }
+        },
+        "teacup": {
+          "name": "Tāsi tī",
+          "regions": {
+            "background": "Tupe mua",
+            "saucer": "Pāpa'i tāsi",
+            "handle": "Pihi",
+            "cup": "Tāsi",
+            "band": "Raina i nī'a i te tāsi",
+            "tea": "Tī"
+          }
+        },
+        "butterfly": {
+          "name": "Pe'ape'a",
+          "regions": {
+            "background": "Tupe mua",
+            "wing-top-left": "Pūpū 'aui i nī'a i te pae i te fātata",
+            "wing-top-right": "Pūpū 'aui i nī'a i te pae i te ātea",
+            "wing-bottom-left": "Pūpū 'aui i raro i te pae i te fātata",
+            "wing-bottom-right": "Pūpū 'aui i raro i te pae i te ātea",
+            "spot-left": "Tātā i te pūpū 'aui i te pae i te fātata",
+            "spot-right": "Tātā i te pūpū 'aui i te pae i te ātea",
+            "body": "Tino"
+          }
+        },
+        "sailboat": {
+          "name": "Vaa hōe",
+          "regions": {
+            "sky": "Ra'i",
+            "sea": "Miti",
+            "sail-big": "Hōe rahi",
+            "sail-small": "Hōe iti",
+            "mast": "Tumu hōe",
+            "hull": "Vaa",
+            "flag": "Ō'ā"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Te fare tunu kai e te māra",
+          "baskets": [
+            "I roto i te fare tao'a",
+            "I roto i te mara'a"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Hua'ai e mea ora",
+          "baskets": [
+            "Hua'ai",
+            "Mea ora"
+          ]
+        },
+        "home-travel": {
+          "label": "Te fare e te haerera'a",
+          "baskets": [
+            "I te fare",
+            "I waho"
+          ]
+        }
+      }
+    }
+  }
+}

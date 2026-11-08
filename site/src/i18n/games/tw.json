@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Mfonini a ɛtoatoa",
+    "seoTitle": "Dwumadie a ɛtoatoa ma Dementia: Mfonini Mmienu",
+    "h1": "Mfonini Mmienu: Dwumadie a Ɛtoatoa a Ɛyɛ Brɛoo",
+    "description": "Dwumadie a ɛtoatoa a ɛyɛ brɛoo, a wɔnnhwɛ sika, ma nnipa a dementia wɔ wɔn so. Mfonini kɛseɛ no ara bɛda hɔ, nsɛnkyerɛnne biara nni hɔ, na woapaw mfonini 4 kɔsi 12.",
+    "short": "Hwehwɛ mfonini abien a ɛte sɛ ɛno. Mfonini no bɛtena hɔ.",
+    "players": "Obi 1 anaa 2, wɔn ho ne ho",
+    "intro": "Tɔ mfonini bi, afei tɔ no a ɛte sɛ ɛno. Mfonini bɛtena hɔ de, enti ɛnsɛ sɛ wobɛkae biribi. Sɛ mfonini abien yɛ pɛ a, wɔde kɔn kɔkɔɔ ne tikɛ bi bɛka wɔn ho.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Paw nea wɔbɛde mfonini no bɛyɛ. Mfonini 4 yɛ beaeɛ a ɛyɛ dwodwo sɛ wobɛhyehyɛ.",
+      "Tɔ mfonini biara. Ɛbɛnya kɔkɔɔ bi ho.",
+      "Tɔ mfonini a ɛte sɛ ɛno. Mmienu no bɛtena hɔ, ɛne tikɛ.",
+      "Sɛ mfonini abien no nyinaa yɛ mmerɛ a, biribi bɔne rennyɛ. San tɔ bio bere a wo ho yɛ wo.",
+      "Gyina \"Mfonini a wɔakata\" so kɛse sɛ wo ne obi no pɛ sɛ moyɛ dwumadie no wɔ kwan a wɔakata mfonini no so."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Frɛ mfonini no mu biara ka ho ne wo ne obi no bom: \"Ɛyɛ ɔkyena a ɛyɛ fitaa. Wopɛ sɛ wode nufɔ gu tee mu?\"",
+      "Ma obi a woboa no no ntɔ, ɛwom sɛ ɛbɛfa bere pii. Fa nsa to baabi a ɛbɛyɛ, mma wo ankasa wo ntɔ ma wɔn.",
+      "Gyina mfonini anan ho sɛ ɛyɛ wo dwodwo. Mfonini pii yɛ owura a wopaw, ɛnyɛ ɔkwan a wobɛfa so ahyɛ.",
+      "Gyae dwumadie no bere a ɛda so ara yɛ wo anigye. Dwumadie baako nso ara yɛ adwuma a ɛyɛ mu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ɛwɔ bere anaa nsɛnkyerɛnne ho?",
+        "a": "Dabi. Ɛnni wotchman, nsɛnkyerɛnne, nkaeɛ anaa atwitwa. Wubetumi agyae bere biara, na ɛyɛ mmerɛ sɛ wugyae ɛberɛ a wɔaka mu."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Adɛn nti na mfonini no tena hɔ?",
+        "a": "Sɛ mfonini hɔ hyɛ hɔ a, dwumadie no yɛ hwehwɛ ne mfonini a wɔtoatoa, ɛnyɛ sɛ wobɛkae nea wɔayɛ. Nnipa pii hu sɛ ɛma wɔn ani gye ankasa. Sɛ wopɛ a, wubetumi asesa kɔ \"Mfonini a wɔakata\" wɔ nkɔ a ɛyɛ mmerɛ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ɛyɛ free anaa ɛsɛ sɛ mekyerɛw din?",
+        "a": "Ɛyɛ, ɛnhwɛ sika, na ɛnhia akaunt, ankyerɛw din anaa nea wobɛtu fi. Ɛyɛ adwuma wɔ web browser wɔ foon, tablet anaa komputa so."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Yɛn ankasa mfonini a yɛn abusuafoɔ ho wɔ hɔ de bɛtumi ayɛ?",
+        "a": "Yiw. Sɔ hwɛ \"Mfonini Mmienu a Wɔde Yɛ\", a ɛma woapaw mfonini a wɔwɔ wo foon so. Mfonini no bɛtena wo browser mu, na wɔrenkɔ soro."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Hwehwɛ ɛne no pɛ",
+    "seoTitle": "Hwehwɛ Mfonini a Ɛte Sɛ Ɛno: Dwumadie a Ɛyɛ Brɛoo ma Dementia",
+    "h1": "Hwehwɛ Mfonini a Ɛte Sɛ Ɛno",
+    "description": "Mfonini baako wɔ soro, mfonini mmienu kɔsi anan wɔ fam. Tɔ no a ɛte sɛ soro no. Dwumadie a ɛyɛ brɛoo, a wɔnnhwɛ sika, ma nnipa a dementia wɔ wɔn so, a ɛnni bere.",
+    "short": "Hwɛ mfonini a ɛwɔ soro, na tɔ ɛno a ɛte sɛ ɛno a ɛwɔ fam.",
+    "players": "Obi 1 anaa 2",
+    "intro": "Mfonini baako wɔ ɔpon no soro. Ase no wɔ mfonini mmienu, mmiɛnsa anaa anan. Tɔ nea ɛte sɛ ɛno. Ɛyɛ ɔkwan a ɛyɛ mmerɛ, baako baako, na beaeɛ pii ma mo ka ho.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Paw mfonini mmienu, mmiɛnsa anaa anan a wobɛpaw. Mmienu yɛ ɔkwan a ɛyɛ mmerɛ.",
+      "Hwɛ soro mfonini no bom.",
+      "Tɔ mfonini a ɛte sɛ ɛno a ɛwɔ fam. Ɛbɛyɛ tikɛ ne nsɛm kɔkɔɔ bi.",
+      "Sɛ wɔtɔ mfonini a ɛnte saa a, dwumadie no kyerɛ din na ɛtra hɔ. Fa bere.",
+      "Tɔ \"Mfonini a Edi So\" sɛ wo ne obi no ahyɛ de bio."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Ka mfonini biara ho ansa na wapaw: mfonini no nsusuwii, nkyɛn ne baabi a wubetumi ahu.",
+      "Nneyɛe abien nyɛ \"ɛyɛ mmerɛ paa\". Ɛho nhia ne anigye, ɛnyɛ ɔsɔhwɛ.",
+      "Sɛ ɛyɛ den sɛ wobɛtɔ a, obi no betumi ayɛ nkɔnkɔn, na wo nso wobetumi atɔ ma no."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ɛwɔ bere anaa nsɛnkyerɛnne ho?",
+        "a": "Dabi. Ɛnni wotchman, nsɛnkyerɛnne, nkaeɛ anaa atwitwa. Wubetumi agyae bere biara, na ɛyɛ mmerɛ sɛ wugyae ɛberɛ a wɔaka mu."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Dɛn na ɛba sɛ wɔtɔ mfonini a ɛnte saa?",
+        "a": "Biribi a ɛyɛ hu biara nni hɔ. Ɛnni nnwom ayɛ, ɛnni kɔkɔɔ a ɛyɛ fitaa anaa nkɔneɛ. Dwumadie no kyerɛ mfonini a wɔtɔɔ no din na ɛtra hɔ de ma nea edi so tɔ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ɛyɛ free anaa ɛsɛ sɛ mekyerɛw din?",
+        "a": "Ɛyɛ, ɛnhwɛ sika, na ɛnhia akaunt, ankyerɛw din anaa nea wobɛtu fi. Ɛyɛ adwuma wɔ web browser wɔ foon, tablet anaa komputa so."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Sum a ɛne mfonini pɛ",
+    "seoTitle": "Dwumadie a Ɛtoatoa Sum ma Dementia: Free wɔ Intanɛt so",
+    "h1": "Sum a Ɛne Mfonini Pɛ: Dwumadie a Ɛyɛ Brɛoo ma Mfonini",
+    "description": "Sum tiaa wɔ soro, mfonini mmienu kɔsi anan wɔ fam. Tɔ mfonini a ɛyɛ sum no. Dwumadie a ɛtoatoa sum a ɛyɛ free, ɛyɛ brɛoo, ma dementia, a ɛnni bere.",
+    "short": "Hwɛ sum no na tɔ mfonini a ɛyɛ sum no.",
+    "players": "Obi 1 anaa 2",
+    "intro": "Sum a ɛne mfonini pɛ yɛ adwuma a nnipa pɛ ne ho wɔ nkyekyɛmu a wɔde ntwa so. Ɛnyɛ saa, ɛwɔ mfonini kɛseɛ, na ɛnhia sɛ wɔntwa biribi. Sum a ɛyɛ nwini bi tena soro, na mfonini mmienu, mmiɛnsa anaa anan wɔ fam. Tɔ mfonini a ɛyɛ sum no. Nneɛma te sɛ pɔkɔɔ, akyɛde anaa tii nkwan nso yɛ nea ɛyɛ ka ho.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Paw mfonini mmienu, mmiɛnsa anaa anan a wobɛpaw. Mmienu yɛ ɔkwan a ɛyɛ mmerɛ.",
+      "Hwɛ sum no bom. Ɛyɛ dɛn? Ɛyɛ kɔkɔɔ anaa ɛtɔ so?",
+      "Tɔ mfonini a ɛyɛ sum no. Ne din bɛda sum no ase.",
+      "Sɛ wɔtɔ mfonini a ɛnte saa a, dwumadie no kyerɛ din na ɛtra hɔ. Fa bere.",
+      "Tɔ \"Sum a Edi So\" sɛ wo ne obi no ahyɛ de bio."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Fa nsa to sum no ntwa ne nkyɛn, na ka ne tebea ho asɛm.",
+      "Sɛ sum no yɛ den nnɛ a, sesa kɔ \"Hwehwɛ ɛne no pɛ\", baabi a mfonini no te sɛ ɛno.",
+      "Ka mfonini no ho asɛm sɛ wɔahu no: \"Yɛn nso nyaa sɛ ɛno a.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ɛwɔ bere anaa nsɛnkyerɛnne ho?",
+        "a": "Dabi. Ɛnni wotchman, nsɛnkyerɛnne, nkaeɛ anaa atwitwa. Wubetumi agyae bere biara, na ɛyɛ mmerɛ sɛ wugyae ɛberɛ a wɔaka mu."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Shadow matching yɛ papa ma nnipa a wɔwɔ dementia?",
+        "a": "Ebia ɛbɛyɛ anigye ne adwuma a ɛyɛ mmerɛ ma nnipa bi, titiriw wɔ mmere a ɛdi kan mu. Nsusuiɛ ye sen nkyerɛwde. Ɛyɛ ma anigye ne nkitahodie, ɛnyɛ asɛmmisa, na ɛnyɛ ɔyaresa anaa ɛnyɛ nnuro ma dementia. Sɛ ɛma werɛ bɔ, sɔ hwɛ Hwehwɛ mfonini a ɛte saa anaa hwɛ mfonini ne wo ho ho."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Dɛn na ɛba sɛ wotow mfonini a ɛnyɛ no?",
+        "a": "Biribi a ɛyɛ basaa biara nni hɔ. Ɛnni dwoo, ɛnni ntoma a ɛyɛ kɔkɔɔ, anaa ɛnyɛ nkɔkɔ. Kɔmputa no kyerɛ din a wɔatow no na ɛtwɛn sɛ wobɛtow ɔfoforo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ɛyɛ bɛn, na ɛhia sɛ mede account bɔ?",
+        "a": "Aane, ɛnhwɛ tua biara, na ɛnhia account, sign-up anaa download. Ɛyɛ adwuma wɔ web browser wɔ foon, tablet anaa kɔmputa so."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Hyehyɛ bom",
+    "seoTitle": "Hyehyɛ Anigye Ma Dementia: Hyehyɛ Bom",
+    "h1": "Hyehyɛ Bom: Mfonini Hyehyɛ Adwuma",
+    "description": "Tow mfonini bi, afei tow baskit a ɛfata ho: aduane anaa akyirikyiri, aburow anaa mmoa. Hyehyɛ adwuma a ɛyɛ mmerɛ, a ɛyɛ free, ma nnipa a wɔwɔ dementia.",
+    "short": "Fa mfonini biara kɔ ne baskit mu: aduane anaa akyirikyiri, ne afoforo.",
+    "players": "Nnipa 1 anaa 2",
+    "intro": "Hyehyɛ yɛ adwuma a wɔn a wɔadi so hu sɛ ɛyɛ anigye, te sɛ sɛ wobɛdan aduane anaa sɛ wobɛhyehyɛ sɔksɔ. Tow mfonini bi, afei tow baskit a ɛfata ho. Ɛnhia sɛ wodi ntɔ mmirika, na ɛnni akwan a ɛyɛ basaa.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Paw asɛmfua bi: aduane ne akyirikyiri, aburow ne mmoa, anaa fie ne akwantu.",
+      "Tow mfonini bi. Ɛbɛnya kɔnkɔn a ɛyɛ sikaa.",
+      "Tow baskit a ɛfata ho. Mfonini no bɛkɔ baskit no mu.",
+      "Sɛ ɛfata baskit foforo a, adwuma no bɛka no ne ɔkwan pa mu na ɛbɛtwɛn.",
+      "Sɛ mfonini nyinaa ahyehyɛ a, hwɛ baskit no mu bom."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Wɔ asetena mu no, mmuae a ɛyɛ basaa nni hɔ bebree. Sɛ obi ka sɛ kanea a wɔnsɔ nsuo no fata aduane mu a, bisa no nsɛnkyerɛ. Ebia wobɛka abakɔsɛm pa.",
+      "Fa mfonini no sɛ ɛbɛboa wo asɛm: \"Dɛn na woduaa wɔ wo kuruwa mu?\"",
+      "Sɛ wohyehyɛ nneɛma a ɛwɔ hɔ, te sɛ nkɔnsɔ ne nnobɔfɔ anaa nkɔsɛeɛ a ɛyɛ mmaa, ɛyɛ adwuma a ɛyɛ anigye a wobɛtoa so esiane fɛn no nti."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ɛwɔ bere anaa nkontaabu?",
+        "a": "Dabi. Ɛnni bere, nkontaabu, mmuaeɛ kɔkɔɔ anaa ɔhwere. Wobɛtumi asiesie bere biara, na sɛ wosiesie wɔ ɛkyɛn a, ɛyɛ ɔkwan pa sɛ wobɛtwa."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Dɛn nti na ɛyɛ hyehyɛ?",
+        "a": "Nnipa bebree ani gye hyehyɛ esiane sɛ ɛte sɛ adwuma a ɛyɛ mfaso na wɔadi so hu. Ɛyɛ mmerɛ nso sɛ wobɛka mfonini no ho asɛm bere a worehyehyɛ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ɛyɛ bɛn, na ɛhia sɛ mede account bɔ?",
+        "a": "Aane, ɛnhwɛ tua biara, na ɛnhia account, sign-up anaa download. Ɛyɛ adwuma wɔ web browser wɔ foon, tablet anaa kɔmputa so."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Mfonini puzzle",
+    "seoTitle": "Puzzle a Ɛyɛ Mmerɛ Ma Dementia: Mfonini 4 anaa 9",
+    "h1": "Mfonini Puzzle: Puzzle a Ɛyɛ Mmerɛ",
+    "description": "Puzzle a ɛyɛ mmerɛ wɔ intanɛt ma nnipa a wɔwɔ dementia: mfonini 4 anaa 9 a ɛyɛ kɛse, mfonini no hyɛ hɔ ma wohu, na wotow mfonini abien de sesa wɔn.",
+    "short": "Tow mfonini abien de sesa wɔn kosi sɛ mfonini no yɛ pɛ.",
+    "players": "Nnipa 1 anaa 2",
+    "intro": "Wɔtwitwa mfonini a ɛyɛ anigye ayɛ mfonini 4 anaa 9 a ɛyɛ kɛse, na wɔde ayɛ fɔ. Mfonini nyinaa hyɛ hɔ sɛ kwan. Tow mfonini bi, afei tow foforo, na wɔbɛsesa wɔn. Ɛnhia sɛ wosɔ no.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Paw mfonini bi ne mfonini 4 anaa 9. 4 yɛ ɔkwan pa a ɛyɛ mmerɛ sɛ wɔrehyɛ ase.",
+      "Hwɛ mfonini no nyinaa a ɛwɔ soro.",
+      "Tow mfonini bi, afei tow beae a ɛsɛ sɛ ɛkɔ. Mfonini abien no bɛsesa wɔn.",
+      "Mfonini a ɛwɔ beae a ɛfata mu no bɛnya sɛ kɔnkɔn ketewa.",
+      "Sɛ mfonini no yɛ pɛ a, di no ho anigye bom, afei paw foforo."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Sɛ wotow mfonini abien de sesa wɔn no ye sen sɛ wobɛsɔ wɔn ma nnipa bebree.",
+      "Ka mfonini no ho asɛm bere a ɛreba pɛ: \"Hwɛ ntoma a ɛyɛ kɔkɔɔ no.\"",
+      "Puzzle a ɛyɛ nkwadaa a ɛwɔ mfonini 12 kosi 24 a ɛyɛ kɛse nso yɛ adwuma a ɛyɛ anigye wɔ tebele so."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ɛwɔ bere anaa nkontaabu?",
+        "a": "Dabi. Ɛnni bere, nkontaabu, mmuaeɛ kɔkɔɔ anaa ɔhwere. Wobɛtumi asiesie bere biara, na sɛ wosiesie wɔ ɛkyɛn a, ɛyɛ ɔkwan pa sɛ wobɛtwa."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Ɛhia sɛ mekɔ mfonini no so?",
+        "a": "Dabi. Tow mfonini bi, afei tow foforo, na wɔbɛsesa wɔn. Eyi ye sen ma nnipa a wɔn nsa rebɔ anaa wɔ foon ketewa so."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ɛyɛ bɛn, na ɛhia sɛ mede account bɔ?",
+        "a": "Aane, ɛnhwɛ tua biara, na ɛnhia account, sign-up anaa download. Ɛyɛ adwuma wɔ web browser wɔ foon, tablet anaa kɔmputa so."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Kyerɛ asɛm no awiei",
+    "seoTitle": "Kyerɛ Mmebusɛm No Awiei: Mmebusɛm Adwuma Ma Nkurɔfo",
+    "h1": "Kyerɛ Mmebusɛm No Awiei",
+    "description": "Mmebusɛm a wɔbɛhunu, a ɛwɔ ne nsɛnkyerɛ a ɛdi awiei no ahyɛ hɔ, te sɛ mmebusɛm bi a ɛdi awiei nsɛm no ahyɛ hɔ. Tow nkyerɛaseɛ bi anaa hwɛ awiei no, afei ka ho asɛm.",
+    "short": "Ka mmebusɛm a wɔbɛhunu bom, afei ka ho asɛm.",
+    "players": "1, 2 anaa kɔkɔbɔ",
+    "intro": "Mmebusɛm a wɔka no bere tenten no, nnipa bebree da so hu. Kaad biara kyerɛ mmebusɛm bi a ɛdi awiei nsɛm no ahyɛ hɔ, nkyerɛaseɛ abiɛsa, ne botaan a ɛka sɛ \"Kyerɛ awiei no\". Awiei no akyi, asɛmmisa a ɛyɛ mmerɛ bɛma nkitahodie aba.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Ka mmebusɛm no mu kɔ ɛnyimu bom.",
+      "Tow asɛm a ɛmá no ayɛ awiei, anaa tow \"Kyerɛ awiei no\".",
+      "Ka mmebusɛm no mu bio bom, na ka ho asɛm sɛnea asɛmmisa no kyerɛ.",
+      "Tow \"Mmebusɛm a ɛdi so\" sɛ wo ho ayɛ wo."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Ka no mu bɔ mmɔden, na ma bere kakra ansa na wukyerɛ asɛm a ɛdi awiei no. Ebia nnipa bi bɛka no ansa na woakyerɛ.",
+      "Sɛ obi ka awiei a ɛyɛ soronko a, ani gye. Mmebusɛm ayɛ ahodoɔ wɔ fie anaa mpɔtam so.",
+      "Sɛ nnipa pii wɔ hɔ a, obi kenkan na afei nnipa nyinaa ka awiei no mu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ɛwɔ bere anaa nkontaabu?",
+        "a": "Dabi. Ɛnni bere, nkontaabu, nkyerɛ ahodoɔ anaa nsɛnnennen. Wubetumi agyae bere biara, na sɛ wagyae wɔ ne mfiase mu no, ɛyɛ ɔkwan pa a wobɛtumi de awie so."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Dɛn sɛ yɛpaw asɛmfua foforo?",
+        "a": "Dwumadi no kyerɛ asɛmfua no awiei a ɛte sɛ nea wɔtete, afei ɛkɔ nkɔmmɔ so. Nkontaabu nni hɔ, na asɛmfua a ɛyɛ soronko nso yɛ."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ɛyɛ akyɛdeɛ, na ɛhia sɛ mede me din to mu anaa?",
+        "a": "Yiw, ɛyɛ akyɛdeɛ, na ɛnhia akaunt, to mu anaa sɛ wobɛdownload ade. Ɛyɛ adwuma wɔ web browser so wɔ fon, tablet anaa komputa so."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Asɛmfua hwehwɛmu a nkyerɛwde kɛse",
+    "seoTitle": "Asɛmfua Hwehwɛmu a Nkyerɛwde Kɛse ma Dementia, a Wobɛtumi Atwa Dwa",
+    "h1": "Asɛmfua Hwehwɛmu a Nkyerɛwde Kɛse",
+    "description": "Asɛmfua hwehwɛmu a ɛyɛ akyɛdeɛ, nkyerɛwde kɛse ma nkulaa ne nnipa a wɔwɔ dementia. Nsɛm kakra, nkyerɛwde kɛse, nsɛm a ɛkɔ mpɔtam ne tutu nko ara. Wobetumi aka wɔ online anaa wobetumi atwa dwa.",
+    "short": "Nkyerɛwde kɛse, nsɛm kakra, mpɔtam ne tutu nko ara. Wobetumi atwa dwa nso.",
+    "players": "Nnipa 1 anaa 2",
+    "intro": "Kɔtɔnkɔ kakra a nkyerɛwde kɛse ne nsɛm kakra wɔ mu, na nsɛm no nyinaa kɔ mpɔtam anaa tutu. Tia asɛmfua a wobɛhwehwɛ no mfiase, afei tia ne awiei. Wopɛ krataa? Twa dwa kɔtɔnkɔ foforo wɔ baabi biara.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Paw insɛm ne kɔtɔnkɔ kɛseɛ.",
+      "Hwɛ asɛmfua mu nsɛm no. Nsɛm no kɔ mpɔtam (fi nifa kɔ benkum) anaa tutu (fi soro kɔ fam).",
+      "Tia asɛmfua no mfiase, afei tia ne awiei.",
+      "Asɛmfua a wohu no bɛyɛ kɔkɔɔ na wɔatwe no fi list no mu.",
+      "Fa \"Twa dwa yi\" de krataa a wɔde pen anaa pencil bɛka ho."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Kyerɛ asɛmfua a ɛwɔ list no so, na hwehwɛ ne mfiase ano nyinaa.",
+      "Wɔ krataa so no, highlighter ka ho yɛ den sen pencil.",
+      "Kasa wɔ asɛmfua a ɛfa tebea ho no ho. Aduane nsɛm yɛ ɔkwan a ɛfa so ma nkaeɛ a ɛfa nkotoɔ, aduanehyɛ anaa afiase ho ba."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ɛwɔ bere anaa nkontaabu?",
+        "a": "Dabi. Ɛnni bere, nkontaabu, nkyerɛ ahodoɔ anaa nsɛnnennen. Wubetumi agyae bere biara, na sɛ wagyae wɔ ne mfiase mu no, ɛyɛ ɔkwan pa a wobɛtumi de awie so."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Metumi atwa asɛmfua hwehwɛmu no dwa?",
+        "a": "Yiw. Fa \"Twa dwa yi\" de twa kɔtɔnkɔ a ɛwɔ hɔ seesei no dwa wɔ nkyerɛwde kɛse, asɛmfua list no wɔ ase. Kɔtɔnkɔ foforo biara yɛ soronko."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ɛyɛ akyɛdeɛ, na ɛhia sɛ mede me din to mu anaa?",
+        "a": "Yiw, ɛyɛ akyɛdeɛ, na ɛnhia akaunt, to mu anaa sɛ wobɛdownload ade. Ɛyɛ adwuma wɔ web browser so wɔ fon, tablet anaa komputa so."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Krataa a wɔbɛhoho",
+    "seoTitle": "Krataa a Wɔbɛhoho ma Nnipa a Wɔwɔ Dementia (Akyɛdeɛ)",
+    "h1": "Krataa a Wɔbɛhoho",
+    "description": "Krataa a wobetumi ahoho, a ɛwɔ mu nneɛma kɛse ne nkyerɛase pɛpɛɛpɛ, ma nkulaa: paw ahoho, afei fa ɛno bɔ mfonini no bi mu. Ɛnni nkyɛ, ɛnni ahoho a ɛnyɛ yie, na wobetumi atwa krataa biara dwa akyɛdeɛ.",
+    "short": "Paw ahoho, afei fa ɛno bɔ mfonini no bi mu. Wobetumi atwa krataa dwa nso.",
+    "players": "Nnipa 1 anaa 2",
+    "intro": "Krataa a nneɛma kɛse ne nkyerɛase pɛpɛɛpɛ wɔ mu: aburokyire a ɛwɔ ase, fie, tii kɔfi, ɛpɛnsɛ ne ɔsare. Paw ahoho, afei fa ɛno bɔ mfonini no bi mu de hyɛ ma ɛwɔ ahoho. Ahoho biara nni bɔne.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Paw krataa.",
+      "Paw ahoho. Ahoho biara wɔ din a wɔakyerɛw so.",
+      "Fa ahoho no bɔ mfonini no bi mu de hyɛ ma ɛwɔ ahoho.",
+      "Sɛ wosesa wo adwene bere biara a, fa ahoho foforo bɔ bio.",
+      "Fa \"Twa dwa krataa yi\" de krataa a ɛnni ahoho bi ama wo nkaa pencil anaa pen."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Ma wɔn ahoho abien a wɔbɛpaw mmom sen ahoho nyinaa sɛ paw no yɛ den.",
+      "Dua a ɛyɛ ahabammono ne owia a ɛyɛ bibiriwa yɛ ahoho a ɛyɛ. Ɛfa ahoho a ɛdi dwuma ne ahonyade ho, ɛnyɛ nokorɛ.",
+      "Krataa a wɔatwa dwa fa ahoho a ɛyɛ kɛse anaa kraayon a ɛyɛ den yɛ adwuma yie ma nsa ka."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ɛwɔ bere anaa nkontaabu?",
+        "a": "Dabi. Ɛnni bere, nkontaabu, nkyerɛ ahodoɔ anaa nsɛnnennen. Wubetumi agyae bere biara, na sɛ wagyae wɔ ne mfiase mu no, ɛyɛ ɔkwan pa a wobɛtumi de awie so."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Krataa yi yɛ mmofra ahoho paa?",
+        "a": "Dabi. Yɛyɛɛ nneɛma a ɛyɛ dwodwo ne mmerɛ, na ɛnyɛ mmofra nhwɛsoɔ, ama krataa no fata nnipa. Nneɛma kɛse ma ahoho no yɛ mmerɛ, nanso ɛnyɛ ɔkwan a ɛte sɛ mmofra."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ɛyɛ akyɛdeɛ, na ɛhia sɛ mede me din to mu anaa?",
+        "a": "Yiw, ɛyɛ akyɛdeɛ, na ɛnhia akaunt, to mu anaa sɛ wobɛdownload ade. Ɛyɛ adwuma wɔ web browser so wɔ fon, tablet anaa komputa so."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Nkɔmmɔ krataa",
+    "seoTitle": "Nkɔmmɔ Mfiase ma Dementia: Krataa a Ɛwɔ Mfonini",
+    "h1": "Nkɔmmɔ Krataa",
+    "description": "Krataa a ɛwɔ mfonini ne nkɔmmɔ mfiase a ɛyɛ mmerɛ ma nnipa a wɔwɔ dementia: ɛnni nsɛmmisa, ɛnni nnuani a wɔbɛtwe ase. Fa ɛno di dwuma wɔ ɔsɔ so anaa twa krataa nyinaa dwa.",
+    "short": "Krataa a ɛwɔ mfonini ne nsɛmmisa a ɛyɛ mmerɛ. Ɛnni nsɛmmisa a wɔbɛbisa.",
+    "players": "Nnipa 2 anaa ɔkuw",
+    "intro": "Krataa biara ka mfonini a wohu yiye ne nkɔmmɔ a wɔbɛfrɛ wo sɛ wo nkasa, sɛ \"Ɛdɛn na wo pɛ wɔ ewiase tebea mu?\" Nnuani biara nni hɔ, na ɛnni ntease a wobɛkae. Paw tebea anaa twa krataa nyinaa dwa.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Paw tebea, anaa ma \"Krataa nyinaa\" ka hɔ.",
+      "Kenkan nsɛm no ma wɔn tie, na hwɛ mfonini no mu bom.",
+      "Tie, ka wo ankasa mmuae, na ma nkɔmmɔ no nam so.",
+      "Fa \"Krataa a ɛdi so\" bere a woayɛ, anaa tena krataa baako so bere a wopɛ.",
+      "Fa \"Twa krataa nyinaa dwa\" de krataa a wɔatwa dwa ma wo."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Ka wo ankasa mmuae nso. Ɛte sɛ nkɔmmɔ, ɛnyɛ nsɛmmisa.",
+      "Di akwan a nkɔmmɔ no kɔ so, na nyɛ nsɛm a wɔaka pɛpɛɛpɛ no. Sɛ nkyerɛkyerɛ no sesa a, ɛyɛ yie.",
+      "Sɛ krataa bi kɔ ahosɛ bi so a, gye ho adwene na kɔ krataa foforo so mmɔden."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Adɛn nti na nsɛmmisa a ɛfa \"Wokae…?\" nni hɔ?",
+        "a": "Nsɛmmisa a ɛsɔ wo mmɔden sɛ ɛyɛ sɔhwɛ ka ho, na ɛbɛma wo ayɛ anifere. Nkɔmmɔ a ɛfrɛ sɛ \"Ka me ho…\" ma obiara tumi aka ho, wɔ adwene a wɔwɔ biara."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Metumi atwa krataa no dwa?",
+        "a": "Yiw. \"Twa krataa nyinaa dwa\" twa krataa nyinaa dwa wɔ nkyerɛwde kɛse, krataa pii wɔ krataa biara so, ɛyɛ ma wɔatwe."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ɛyɛ akyɛdeɛ, na ɛhia sɛ mede me din to mu anaa?",
+        "a": "Aane, ɛnni ho sika biara, na ɛnhia account, sign-up anaa download. Ɛyɛ adwuma wɔ web browser a ɛwɔ foon, tablet anaa komputa so."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Mfonini abien",
+    "seoTitle": "Yɛ Ahyɛdeɛ a Ɛfa Wo Abusua Mfonini So: Mfonini Abien Ntwerɛ",
+    "h1": "Mfonini Abien: Hyɛ Wo Ankasa Mfonini Ne Nkabom",
+    "description": "Sesa wo ankasa abusua mfonini ayɛ ahyɛdeɛ a ɛyɛ dodo a wobɛhyɛ ho nkabom. Paw mfonini 2 kɔsi 6 wɔ wo foon, tablet anaa komputa so; wɔbɛtena wo browser mu na wɔnnsoma kɔ baabi biara.",
+    "short": "Paw wo ankasa mfonini na hyɛ wɔn ho nkabom. Wɔnnsoma biribiara.",
+    "players": "Nnipa 2, wɔ wɔn ho abɛn",
+    "intro": "Paw mfonini mmienu kɔsi mmienu (2 kɔsi 6) fi wo foon, tablet anaa komputa so, na ɛbɛyɛ ahyɛdeɛ a ɛwɔ mfonini kɛse, a wɔhu ntɛm. Wɔda mfonini no adi wɔ saa nkyerɛwee yi mu nko ara. Wɔnnsoma, wɔnnkora anaa wɔnnkyerɛ obi, na wɔbɛtwam bere a wotwe saa nkyerɛwee no.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Fa \"Paw mfonini\" so, na paw mfonini 2 kɔsi 6.",
+      "Mfonini biara bɛba ne ho mmienu wɔ mpɛn mu. Fa biako, afei fa ne dwa so.",
+      "Kasa fa mfonini biara ho bere a wohu no.",
+      "Sɛ woawie a, tew saa nkyerɛwee no anaa fa \"Yi mfonini no\" so. Biribiara nnkora."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Paw mfonini a ɛyɛ mpɛn, a ɛfa nneɛma a wɔn ho yɛ hɔ: aboa, turo, baabi a ɔpɛ, anaa da a ɔware.",
+      "Mfonini a ɛfa baabi ne nneɛma yɛ fɛ sen anifuraa, na ɛnhyɛ obi so ahohia sɛ ɔbɛka din.",
+      "Gyae mfonini a ɛfa nnipa a wɔawu no ho, sɛ ɛbɛma ɔyaw kɛse ba ntɛm, gyae sɛ wunim sɛ ɛde ahomegyé ba."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Wɔsoma me mfonini baabi biara anaa?",
+        "a": "Daabi. Saa nkyerɛwee no kenkan mfonini a wopaw wɔ wo browser mu na ɛda wɔn ano wɔ wo ahyia so. Wɔnnsoma kɔ yɛn anaa obiara nkyɛn, na wɔbɛtwam bere a wotwe anaa wosan de saa nkyerɛwee no bɛba."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ɛwɔ bere anaa nkontaabu?",
+        "a": "Daabi. Ɛnni bere, nkontaabu, nkyerɛ ɔkwan, anaa ɔhwere. Wotumi aguan bere biara, na ɛnyɛ basaa sɛ wogyae ayɛ mfinimfini; ɛyɛ ɔkwan pa a wobɛfa ato hɔ."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Metumi asie ahyɛdeɛ no ama bere a edi hɔ?",
+        "a": "Daabi wɔ browser mu, sɛdeɛ wɔayɛ no, ɛnam sɛ wɔnkora biribiara a ɛyɛ wo dea. Golden Moments app a ɛwɔ iPhone ne iPad so no tumi kora mfonini a woapaw bi wɔ wo foon so."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Mfonini bingo",
+    "seoTitle": "Mfonini Bingo ma Mpanyimfo a Dementia Wɔ Ho: Nnwuma a Wobɛtumi Aprint",
+    "h1": "Mfonini Bingo ma Nnipa Nkabom",
+    "description": "Mfonini bingo a wobɛtumi aprint free ma memory care ne mpanyimfo nkabom. Mfonini kɛse wɔ nsɛm ne ho, mpɔn 9 anaa 16, a wɛnhia kenkan.",
+    "short": "Mfonini bingo kaad a wobɛtumi aprint ne skrini kɛse a ɛfrɛ nkabom.",
+    "players": "Nnipa 2 kɔsi 30",
+    "intro": "Bingo a ɛte sɛ ɛtɔ da, nanso mfonini na ɛwɔ baabi a nɔma wɔ. Enti obiara nhia sɛ ɔkenkan nsɛm ketewa. Print kaad a ɛnyɛ pɛ, afei fa caller a ɛwɔ skrini so de kyerɛ mfonini biara kɛse wɔ TV, laptop anaa tablet so.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Paw mpɔn 9 anaa 16 wɔ kaad biara mu, ne nnipa dodow.",
+      "Fa \"Print kaad\" so. Kaad biara yɛ soronko.",
+      "Bue caller no wɔ skrini kɛse so. Fa \"Mfonini a edi so\" so de kyerɛ mfonini biara ne din.",
+      "Nnipa no bɛkata mfonini a ɛtɔ da no so wɔ wɔn kaad so, de sika, bɔtɔn anaa mmara.",
+      "Obiara a ɔma ɔkwan biako anaa kaad nyinaa ma no ayeyi. Wɔnnsɛe obiara wɔ saa version yi mu; toa so kɔsi sɛ obiara wɔ ɔkwan biako."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Fa nkɔsoɔ kɛse-kɛse, te sɛ checkers anaa bottle caps. Bɔtɔn ketewa yɛ den sɛ wobɛtumi akyer.",
+      "Ka mfonini no din na ka biribi fa ho: \"Ɔpoma. Hena wɔ ho nyinaa ayɛ mmoa?\"",
+      "Fa nnipa a wɔhu ntɛm nni ho ma wɔtena skrini no ho ahyɛ, na fa mmoafo ka wɔn a wɔhia wɔn.",
+      "Mpɔn 9 ɛboro ma nnipa pii. Ma nhyiam no nkɔ mmɔden 20 kɔsi 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Sɛn na mɛyɛ mfonini bingo wɔ adwumayɛbea a wɔhwɛ nnipa so?",
+        "a": "Print kaad biako ma obiara, de caller no kɔ skrini a ɛkɛse sen biara a wowɔ no so, na frɛ mfonini no mmɔden, de din a ɛbɛka biara. Kɔ so kɔsi sɛ obiara wɔ ɔkwan biako, na obiara nnyina mu."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Ɛyɛ free sɛ metumi aprint?",
+        "a": "Aane. Print kaad a ɛho hia, bere a wopɛ, ma wo ankasa anaa ma nnipa a wɔne wo, sɛ ɛyɛ personal anaa nkabom."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Nnipa tumi tɔ a wɔnkenkan?",
+        "a": "Aane. Mpɔn biara yɛ mfonini kɛse, ne din wɔ ase ma wɔn a wɔpɛ nsɛm."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Ahome a ɛyɛ dodo",
+    "seoTitle": "Ahome Dodo Ho Bere ma Mpanyimfo ne Obi a Ohwɛ So",
+    "h1": "Ahome Dodo Ho Bere",
+    "description": "Ahome a ɛyɛ dodo a wobɛhyɛ ho nkabom: mpɔn kɛse a ɛba ase ne ɛkɔ ase wɔ ahome mmɔden 6 mu. Wo na wɔfi ase, na wotumi gyae bere biara.",
+    "short": "Mpɔn a wobɛhome ne so. Fi ase anaa gyae sɛdeɛ wopɛ.",
+    "players": "Nnipa 1 anaa 2",
+    "intro": "Ɛbaa mu sɛ ahyɛdeɛ a ɛyɛ papa ne dodo bere. Fa \"Fi ase\" so, hom bere a mpɔn no kɛse, na gyae bere a ɛba ase. Wotumi paw ntɛm anaa ntɛm nketewa. Ɛnyɛ ayaresa; ɛyɛ dodo bere a wobɛgye di.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Tena ase wɔ mpɛn mu bere a ɛyɛ fɛ.",
+      "Paw ntɛm: dodo anaa ntɛm.",
+      "Fa \"Fi ase\" so. Hom bere a mpɔn no kɛse, na gyae bere a ɛba ase.",
+      "Ɛbɛgyae ne ho wɔ mmɔden 6 ... anaa fa \"Gyae\" so bere biara a wopɛ."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Fa nsa ka ne nsa anaa de nsa ka obi abɔ, sɛ ɛyɛ papa.",
+      "Mmɔ mmɔdenbɔ. Sɛ wɔpɛ sɛ wɔhwɛ nko ara a, ɛyɛ.",
+      "Sɛ obi wɔ ahome ho ɔhaw a, hom sɛdeɛ wɔyɛ bio na hwɛ mpɔn no nko. Bisa dɔkota ahome ho asɛm biara."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ɛyɛ ahome a ɛfa ayaresa ho?",
+        "a": "Daabi. Ɛyɛ bere a ɛyɛ ɔkwan, nea wɔpaw, ma ahomegyinaa ne nkitahodi. Ɛnyɛ ayaresa ma ahosu anaa yadeɛ biara. Kasa ne dɔkota ho yare nsɛm."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Mpɔn no tu bere a metumi aka ... anaa?",
+        "a": "Dabi. Biribiara nnyin kɔsi sɛ woapɛ Fi ase, na ɛbɛgyae wɔ ahome nsia akyi anaa sɛ woapɛ Gyae. Sɛ wo device no ma nneyɛe a, nsɛm no sesa a ɔkɔ so nnyin."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ɛyɛ free, na ɛsɛ sɛ meyɛ akaunt?",
+        "a": "Aane, ɛyɛ free, na ɛnhia akaunt, sign-up anaa download. Ɛyɛ adwuma wɔ web browser a ɛwɔ foonsɛ, tablet anaa komputa so."
       }
     ]
   }

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Ata tutusa",
+    "seoTitle": "Taaloga Tutusa mo le Dementia: Ata Tutusa",
+    "h1": "Ata Tutusa: Se Taaloga Tutusa e Mālie",
+    "description": "Se taaloga tutusa e sa'oloto ma e mālie mo tagata o lo'o ola ma le dementia. O ata tetele e tumau ona va'aia, e leai se taimi po o se sikoa, ma e mafai ona e filifili mai le 4 i le 12 fa'ailoga.",
+    "short": "Su'e ata e lua e tutusa. E mafai ona tumau ata e va'aia.",
+    "players": "1 po'o 2 tagata, e tu fa'atasi",
+    "intro": "Pa'i i se ata, ona pa'i lea i le ata e tutusa ma lea. E tumau ata e va'aia e fa'aletonu, o lea e leai ai se mea e tatau ona manatua. A fa'atasi ata e lua, e iai se pito auro ma se fa'ailoga sie'ke.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Filifili le aofa'i o fa'ailoga e fa'aaoga. Fa o se amataga mālie.",
+      "Pa'i i so'o se ata. E iai lona pito auro.",
+      "Pa'i i le ata e foliga tutusa. O le pa'ū e tumau fa'atasi ma se fa'ailoga sie'ke.",
+      "Afai e eseese ata e lua, e leai se mea leaga e tupu. Pa'i toe pe a sa'o ai outou.",
+      "Filifili “Ata e natia” naʻo le taimi e fiafia ai outou uma i le taaloga e tuʻu lalo ai ata."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Ta'u fa'atasi le igoa o ata ma talanoa e uiga i ai: “Se ipu tī mumū. E te inu tī ma susu?”",
+      "Ia faia e le tagata e te tausia le pa'iga, e ui lava i le umi. Fa'aali atu i le ata nai lo le pa'i mo ia.",
+      "Tumau i fa fa'ailoga seia oo i le taimi e mālie ai. Fa'ailoga e sili atu o se filifiliga, e leai se tulaga e tatau ona ausia.",
+      "Fa'auma le taaloga a o fiafia pea. Se taaloga e tasi o se galuega atoatoa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E iai ea se taimi po o se sikoa?",
+        "a": "Leai. E leai se uati, sikoa, faitau pa'iga po o le faia'ina. E mafai ona e taofi i so'o se taimi, ma le taofi i le ogatotonu o se mea lelei fo'i e fa'auma ai."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Aisea e tumau ai ata e va'aia?",
+        "a": "O le tumauina o ata e va'aia e suia ai le taaloga i le matamata ma le fa'atutusa nai lo le manatua. E toatele e maua ai le mālie. E mafai ona e suia i ata e natia i le pa'i e tasi pe a e mana'o."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sa'oloto ea, ma e tatau ona ou lesitala?",
+        "a": "Ioe, e sa'oloto, ma e leai se pulega, lesitala po o se download. E galue i le browser o le initaneti i se telefoni, tepulete po o se komepiuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "E mafai ona matou fa'aaoga ata o le aiga?",
+        "a": "Ioe. Taumafai i “Ata Tutusa mai Ata o le Aiga”, lea e mafai ai ona e filifili ata mai lau masini. E tumau ata i lau browser ma e le lafoina i luga o le initaneti."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Su'e le tutusa",
+    "seoTitle": "Su'e le Ata Tutusa: Taaloga Faigofie mo le Dementia",
+    "h1": "Su'e le Ata Tutusa",
+    "description": "Se ata i luga, e lua i le fa i lalo. Pa'i i le tasi e tutusa. Se taaloga ata e mālie ma sa'oloto mo tagata o lo'o ola ma le dementia, e leai se taimi.",
+    "short": "Va'ai i le ata i luga ma pa'i i le tutusa i lalo.",
+    "players": "1 po'o 2 tagata",
+    "intro": "E tu se ata e tasi i le pito i luga o le mata. I lalo e lua, e tolu po'o le fa. Pa'i i le tasi e tutusa. E filifiliga e tasi i le taimi, ma le avanoa e talanoa ai.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Filifili e lua, e tolu po'o le fa ata e filifili mai ai. E lua o le faigofie lava.",
+      "Va'ai fa'atasi i le ata i luga.",
+      "Pa'i i le ata tutusa i lalo. E fa'aalia e se fa'ailoga sie'ke ma ni upu vevela.",
+      "Afai e pa'ia se ata eseese, e ta'u atu e le taaloga lona igoa ma faatali. Ia faamalie.",
+      "Pa'i “Ata Isi” pe a sa'o ai outou mo se isi."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Talanoa e uiga i ata a o le'i filifili: lanu, faitioga, o le a e va'aia ai ia mea.",
+      "E lua filifiliga e le o le “faigofie tele”. Le sini o le mālie, e le o se luitau.",
+      "Afai e faigata le pa'i, e mafai e le tagata ona fa'aali atu, ma e mafai e oe ona pa'i mo ia."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E iai ea se taimi po o se sikoa?",
+        "a": "Leai. E leai se uati, sikoa, faitau pa'iga po o le faia'ina. E mafai ona e taofi i so'o se taimi, ma le taofi i le ogatotonu o se mea lelei fo'i e fa'auma ai."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "E tupu se mea leaga pe a pa'ia se ata sese?",
+        "a": "Leai se mea e le mālie. E leai se pu, se fa'ailoga mumū po o le lulu. O le taaloga e ta'u atu le igoa o le ata na pa'iina ma faatali mo le pa'i isi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E sa'oloto ea, ma e tatau ona ou lesitala?",
+        "a": "Ioe, e sa'oloto, ma e leai se pulega, lesitala po o se download. E galue i le browser o le initaneti i se telefoni, tepulete po o se komepiuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Fa'atutusa malu",
+    "seoTitle": "Taaloga Fa'atutusa Malu mo le Dementia: E Sa'oloto i le Initaneti",
+    "h1": "Fa'atutusa Malu: Se Taaloga Ata e Mālie",
+    "description": "Se malu pōuliuli i luga, e lua i le fa ata i lalo. Pa'i i le ata e fai ai le malu. Se taaloga fa'atutusa malu e sa'oloto ma e mālie mo le dementia, e leai se taimi.",
+    "short": "Va'ai i le malu ma pa'i i le ata e fai ai.",
+    "players": "1 po'o 2 tagata",
+    "intro": "O le fa'atutusa malu o se gaioiga e iloa mai pepa a'oa'oga, ae o lenei e ata tetele ma e leai se pepa e tatau ona lolomi. E tu se malu malulu i le pito i luga o le mata ma ata e lua, e tolu po'o le fa e fa'atali i lalo. Pa'i i le ata e fai ai le malu. E faigofie fo'i ona talanoa e uiga i mea e pei o le pasikala, le faʻalava po o le ipu tī.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Filifili e lua, e tolu po'o le fa ata e filifili mai ai. E lua o le faigofie lava.",
+      "Va'ai fa'atasi i le malu. O le a le foliga o ia? E maualuga pe e lapopo'a?",
+      "Pa'i i le ata e fai ai le malu. O lona igoa e aliali i lalo o le malu.",
+      "Afai e pa'ia se ata eseese, e ta'u atu e le taaloga lona igoa ma faatali. Ia faamalie.",
+      "Pa'i “Malu Isi” pe a sa'o ai outou mo se isi."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Siaki le tuʻuga o le malu i le tamatamai ma talanoa e uiga i le foliga.",
+      "Afai e faigata malu i le aso, liliu i “Su'e le tutusa”, lea e tutusa foliga o ata.",
+      "Talanoa e uiga i le ata pe a maua: “Matou te i ai se faʻalava e pei o lea.”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E iai ea se taimi po o se sikoa?",
+        "a": "Leai. E leai se uati, sikoa, faitau pa'iga po o le faia'ina. E mafai ona e taofi i so'o se taimi, ma le taofi i le ogatotonu o se mea lelei fo'i e fa'auma ai."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "E lelei ea le faʻatusaina o ata mo tagata e ola ma le dementia?",
+        "a": "E mafai ona avea ma gaioiga faigofie e fiafia ai nisi tagata, aemaise lava i vaitaimi muamua. E sili ona faigofie ona iloa foliga nai le upu. O le taʻaloga mo le fiafia ma le talanoaga, e le o se suʻesuʻega, ma e le ola ai po o faaitiitia ai le dementia. Afai e oo i le faanoanoa, taumafai le Suʻe le mea e tutusa, poʻo tilotilo faatasi i ata."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "O le a le mea e tupu pe a pa'iina le ata sese?",
+        "a": "E leai se mea e leaga. E leai se leo faalavelave, se faailoga mumu poʻo se gaosiga. O le taʻaloga e faaigoa ai le ata na pa'iina ma faatali mo le pa'i i le isi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E saoloto ea, ma e manaʻomia ea le resitala poʻo le download?",
+        "a": "Ioe, e saoloto, ma e leai se pusa, resitala poʻo download. E mafai ona faagaoioi i le upegatafaafaga i se telefoni, tablet poʻo komipiuta."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Faavasega faatasi",
+    "seoTitle": "Taʻaloga Faavasega mo le Dementia: Faavasega Faatasi",
+    "h1": "Faavasega Faatasi: Se Gaioiga Faavasega Ata",
+    "description": "Pa'i se ata, ona pa'i lea i le ipu e tatau ai: fale kukama poʻo faatoʻā, fua poʻo manu. Se gaioiga faavasega filemu, saoloto mo tagata e ola ma le dementia.",
+    "short": "Tuu ata uma i lona ipu: fale kukama poʻo faatoʻā, ma isi.",
+    "players": "1 poʻo 2 tagata",
+    "intro": "Faavasega o se galuega masani e lagona ai le manuia, e pei o le tuʻuina o oloa i totonu o le fale poʻo le fetaʻiina o soʻo. Pa'i se ata, ona pa'i lea i le ipu e tatau ai. E leai se faavavevave, e leai foi se ala sese.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Filifili se autu: fale kukama ma faatoʻā, fua ma manu, poʻo fale ma malaga.",
+      "Pa'i se ata. E maua ai se pito auro.",
+      "Pa'i le ipu e tatau ai. O le ata e alu i totonu o lena ipu.",
+      "Afai e tatau ona alu i le isi ipu, e fai mai le taʻaloga i le faamalieni ma faatali.",
+      "A uma ona faavasega ata uma, va'ai faatasi i ipu."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "I le olaga moni, e masani ona leai ni tali sese. Afai e fai mai se ipu vai e tatau i le fale kukama, fesili pe aisea. E mafai ona e maua se tala lelei.",
+      "Faaaoga ata e fai ai se fesili: \"Na e totō se mea i lou faatoʻā?\"",
+      "Faavasega oloa moni, e pei o ipu ma fooka, poʻo sosoo e ala i lanu, o se faaiuga lelei pe a tuua le ataata."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E iai ea se taimi poʻo se sikoa?",
+        "a": "Leai. E leai se uati, sikoa, faitau o gaioiga poʻo le faatoʻilo. E mafai ona e taofi i so o se taimi, ma o le taofi i le ogatotonu o se auala lelei foi e faaiu ai."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Aisea le faavasega?",
+        "a": "E tele tagata e fiafia i le faavasega aua e lagona e aoga ma masani. E faigofie foi ona talanoa e uiga i ata a o faia."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E saoloto ea, ma e manaʻomia ea le resitala poʻo le download?",
+        "a": "Ioe, e saoloto, ma e leai se pusa, resitala poʻo download. E mafai ona faagaoioi i le upegatafaafaga i se telefoni, tablet poʻo komipiuta."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle ata",
+    "seoTitle": "Puzzle Faigofie mo le Dementia: 4 poʻo le 9 Vaega",
+    "h1": "Puzzle Ata: Puzzle Faigofie",
+    "description": "Puzzle faigofie i luga o le initaneti mo tagata e ola ma le dementia: 4 poʻo le 9 vaega tetele, e tumau ai le ata atoatoa e vaaia, ma e te pa'i vaega e lua e suia ai.",
+    "short": "Pa'i vaega e lua e suia ai seia atoatoa le ata.",
+    "players": "1 poʻo 2 tagata",
+    "intro": "O se ata lelei e vaevaeina i vaega tetele e fa poʻo iva ma faafefiloi. E tumau le ata atoatoa e vaaia e avea ma taʻiala. Pa'i se vaega, ona pa'i lea i se isi, ona suia ai nofoaga. E leai se toso e manaʻomia.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Filifili se ata ma le 4 poʻo le 9 vaega. Le 4 o se amataga faigofie.",
+      "Vaai i le ata atoatoa i le pito i luga.",
+      "Pa'i se vaega, ona pa'i lea i le nofoaga e tatau ai. Vaega e lua e suia.",
+      "O vaega o loo i le nofoaga saʻo e maua ai se faailoga laiti o le siaki.",
+      "A atoatoa le ata, fiafia faatasi, ona filifili lea i se isi."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "O le pa'i vaega e lua e suia ai e sili ona faigofie nai le toso mo le tele o tagata.",
+      "Talanoa e uiga i le ata a o faatasi: \"O le fale mumu lena.\"",
+      "O se puzzle lauti tele e 12 i le 24 vaega e matagofie foi i luga o le laulau."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E iai ea se taimi poʻo se sikoa?",
+        "a": "Leai. E leai se uati, sikoa, faitau o gaioiga poʻo le faatoʻilo. E mafai ona e taofi i so o se taimi, ma o le taofi i le ogatotonu o se auala lelei foi e faaiu ai."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "E tatau ea ona toso vaega?",
+        "a": "Leai. Pa'i se vaega, ona pa'i lea i se isi, ona suia ai nofoaga. E sili ona faigofie pe a mafatia lima poʻo se ata laiti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E saoloto ea, ma e manaʻomia ea le resitala poʻo le download?",
+        "a": "Ioe, e saoloto, ma e leai se pusa, resitala poʻo download. E mafai ona faagaoioi i le upegatafaafaga i se telefoni, tablet poʻo komipiuta."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Faaiu le faataoto",
+    "seoTitle": "Faaiu le Faataoto: Taʻaloga o Faataoto mo Toeaina",
+    "h1": "Faaiu le Faataoto",
+    "description": "Faataoto masani e leai le upu mulimuli. Pa'i se filifiliga poʻo faaali le faaiuga, ona talanoa lea e uiga i ai.",
+    "short": "Faatasi ia faaiu faataoto masani, ona talanoa lea e uiga i ai.",
+    "players": "1, 2 poʻo se vaega",
+    "intro": "O faataoto anamua e masani ona iloa i le olaga atoa. O ia ata e faaalia ai se faataoto masani e leai le upu mulimuli, filifiliga e tolu, ma se pusa \"Faaali le faaiuga\". A maeʻa le faaiuga, o se fesili malulu e valaau ai i talanoaga.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Faitau le faataoto i leo tele faatasi.",
+      "Pa'i le upu e faaiu ai, poʻo pa'i \"Faaali le faaiuga\".",
+      "Faitau le faataoto atoa i le toe faavaei ma talanoa e uiga i ai e faaaoga ai le fesili.",
+      "Pa'i \"Faataoto i le isi\" pe a e sauni."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Faitau malie ma tuʻu se malulu aʻo leʻi o le upu mulimuli. Masani ona fai mai tagata le upu a o leʻi uma lou faaiuina.",
+      "Afai e tali mai se isi faaiuga, ia fiafia i ai. E eseese faataoto i aiga poʻo itumalo.",
+      "I se vaega, o le tasi e faitau ma o le vaega uma e faatasi i le faaiuga."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E iai ea se taimi poʻo se sikoa?",
+        "a": "Leai. E leai se uati, se sikoa, se faitau o gaioiga, po se faaumatiaga. E mafai ona e taofi i so o se taimi, ma o le taofi i le ogatotonu o se auala lelei foi e faaiuina ai."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "E ui ina filifili i se upu eseese?",
+        "a": "E faaali e le taaloga le faaiuga e masani ai, ona sosoo ai lea i le talanoaga. E leai se sikoa, ma e talia foi se tali eseese."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E saoloto ea, ma e manaʻomia ea le lesitala?",
+        "a": "Ioe, e saoloto, ma e leai se pulega (account), lesitala, po se download. E mafai ona galue i le upega tafaʻilagi i se telefoni, se ipad, po se komepiuta."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Taʻaloga o upu ma mataitusi tetele",
+    "seoTitle": "Taʻaloga o Upu ma Mataitusi Tetele mo le Dementia, e Mafai ona Lolomi",
+    "h1": "Taʻaloga o Upu ma Mataitusi Tetele",
+    "description": "Se taʻaloga o upu ma mataitusi tetele e saoloto mo tagata matutua ma tagata o loo ola ma le dementia. Ni upu itiiti, mataitusi tetele, ma upu e faasolo i le itu agavale po i lalo na o ia. Taalo i luga o le initaneti po lolomi.",
+    "short": "Mataitusi tetele, ni upu itiiti, na o upu e faasolo i le itu agavale ma i lalo. E mafai foi ona lolomi.",
+    "players": "1 po le 2 tagata",
+    "intro": "Se kiliate laiti ma mataitusi tetele ma ni nai upu na o le faasolo i le itu agavale po i lalo. Taʻi le mataitusi muamua o se upu, ona taʻi lea le mataitusi mulimuli. Ua e manaʻo i le pepa? Lolomi se taʻaloga fou i le taimi e tasi.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Filifili se autu ma le tele o le kiliate.",
+      "Vaai i le lisi o upu. E faasolo upu i le itu agavale (mai le agavale i le taumatau) po i lalo (mai luga i lalo).",
+      "Taʻi le mataitusi muamua o se upu, ona taʻi lea le mataitusi mulimuli.",
+      "O se upu ua maua e faamamafaina ma e tuʻu ai se laina i luga o lona igoa i le lisi.",
+      "Taʻi \"Lolomi lenei taʻaloga\" e taalo ai i le pepa ma se pene po se maka."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Taʻi se upu i le lisi ma vaai faatasi i lona mataitusi muamua.",
+      "I luga o le pepa, e sili le maka faamamafa nai lo le pene.",
+      "Talanoa e uiga i upu o le autu. Upu o fua e mafai ona faʻaulu ai le talanoaga i manatu o le toʻonaʻi, o le faʻafefe, po o maketi."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E i ai ni taimi po se sikoa?",
+        "a": "Leai. E leai se uati, se sikoa, se faitau o gaioiga, po se faaumatiaga. E mafai ona e taofi i so o se taimi, ma o le taofi i le ogatotonu o se auala lelei foi e faaiuina ai."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "E mafai ona ou lolomi le taʻaloga o upu?",
+        "a": "Ioe. Taʻi \"Lolomi lenei taʻaloga\" e lolomi ai le kiliate o loo i ai i mataitusi tetele, ma le lisi o upu i lalo. O kiliate fou taʻitasi e eseese."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E saoloto ea, ma e manaʻomia ea le lesitala?",
+        "a": "Ioe, e saoloto, ma e leai se pulega (account), lesitala, po se download. E mafai ona galue i le upega tafaʻilagi i se telefoni, se ipad, po se komepiuta."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Ata e valiina",
+    "seoTitle": "Ata e Valiina mo Tagata Matutua ma le Dementia (Saoloto)",
+    "h1": "Ata e Valiina",
+    "description": "Ata e valiina faigofie mo tagata matutua, ma vaega tetele: taʻi se lanu, ona taʻi lea i se vaega o le ata. E leai se palapala, e leai se lanu sese, ma e mafai ona lolomi ata uma saoloto.",
+    "short": "Taʻi se lanu, ona taʻi se vaega o le ata. E mafai foi ona lolomi ata.",
+    "players": "1 po le 2 tagata",
+    "intro": "Ata ma foliga tetele ma faigofie: se fugalaau i se ipu, se fale, se ipu tee, se pepe, ma se vaa malaga. Taʻi se lanu, ona taʻi se vaega o le ata e tumu ai. E leai se lanu sese.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Filifili se ata.",
+      "Taʻi se lanu. O lanu taʻitasi o loo tusia ai lona igoa.",
+      "Taʻi se vaega o le ata e tumu ai i le lanu ua filifilia.",
+      "Taʻi i so o se taimi e suia ai lou manatu, ona tumu lea i se lanu eseese.",
+      "Taʻi \"Lolomi lenei ata\" mo se ata e leai se mea i ai, e valiina i pene po maka."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Ofo ni lanu se lua e filifili ai, nai lo le seti atoa, pe a faigata le filifili.",
+      "Laau lanu enaena ma lagi lanumoana e talia. O le taua o le fiafia i lanu, e le o le saʻo.",
+      "Ata lolomi e lelei ai maka lanu tetele po pene lanu, ona e faigofie ona uu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E i ai ni taimi po se sikoa?",
+        "a": "Leai. E leai se uati, se sikoa, se faitau o gaioiga, po se faaumatiaga. E mafai ona e taofi i so o se taimi, ma o le taofi i le ogatotonu o se auala lelei foi e faaiuina ai."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "E matua tamaitiiti ea nei ata?",
+        "a": "Na matou tusi ata filemu ma faigofie, e le o ata tala, ina ia fetaui ma tagata matutua. Vaega tetele e faigofie ai le valiina, e aunoa ma le faia o se mea tamaitiiti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E saoloto ea, ma e manaʻomia ea le lesitala?",
+        "a": "Ioe, e saoloto, ma e leai se pulega (account), lesitala, po se download. E mafai ona galue i le upega tafaʻilagi i se telefoni, se ipad, po se komepiuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Pepa talanoaga",
+    "seoTitle": "Amataga o Talanoaga mo le Dementia: Pepa Ata",
+    "h1": "Pepa Talanoaga",
+    "description": "Pepa ata ma fesili filemu e amata ai talanoaga mo tagata o loo ola ma le dementia: e leai ni fesili fuafua, e leai ni tali saʻo. Faaaoga i luga o le sikelini po lolomi le seti atoa.",
+    "short": "Pepa ata ma fesili tuwea ma filemu. E leai ni fesili fuafua.",
+    "players": "2 tagata po se vaega",
+    "intro": "O pepa taʻitasi e faafesootai ai se ata e lauiloa ma se valaaulia tuwea e talanoa ai, e pei o \"O le fea lou ituaiga o le tau e sili ai?\" E leai ni tali saʻo, ma e leai se mea e tatau ona manatua. Filifili se autu, po fefiloi i latou uma.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Filifili se autu, po tumau i \"Pepa uma\".",
+      "Faitau le fesili leo malosi ma vaai faatasi i le ata.",
+      "Faalogo, faasoa lou lava tali, ma tuu le talanoaga e alu lava ia.",
+      "Taʻi \"Pepa sosoo\" pe a sauni, po tumau i se pepa seʻi vagana ai le taimi e te manaʻo ai.",
+      "Taʻi \"Lolomi pepa uma\" e tipi ai se seti pepa."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Tali foi i le fesili lou lava. E foliga mai e talanoa, e le o se faatalanoaga fesili.",
+      "Mulimuli i le tala, e le o faamaoniga. Afai e suia ni faamatalaga, e lelei lava.",
+      "Afai e fesoʻotai se pepa ma se mea e faanoanoa ai, faaalia le lagona ma faamolemole ona alu i se isi pepa."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Aisea e leai ai ni fesili e pei o \"E te manatua…?\"",
+        "a": "O fesili e suʻesuʻe ai le manatu e mafai ona foliga mai e pei o se suʻesuʻega, ma mafua ai le faanoanoa. O valaaulia tuwea e pei o \"Taʻu mai le mea e uiga i…\" e mafai ai i so o ai ona auai, e tusa po o le a le mea e manatua."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "E mafai ona ou lolomi pepa?",
+        "a": "Ioe. \"Lolomi pepa uma\" e lolomi ai le seti atoa i mataitusi tetele, e tele pepa i le itulau e tasi, e sauni ai le tipi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E saoloto ea, ma e manaʻomia ea le lesitala?",
+        "a": "Ioe, e tau le totogi, ma e leai se faamatalaga, se enrol po o se download. E mafai ona faaaogaina i le upega tafaʻilagi i se telefoni, teleporo pe komepiuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Ata fa'atusatusa",
+    "seoTitle": "Faia se Taaloga Fa'atusatusa mai Ata o le Aiga",
+    "h1": "Ata Fa'atusatusa: Fa'atusatusa Au Ata",
+    "description": "Liliuina ata o lou aiga i se taaloga fa'atusatusa malie. Filifili ata e 2 i le 6 i lau masini; e nofo ia i lau browser ma e leai ni ata e lafoina i fafo.",
+    "short": "Filifili au ata ma fa'atusatusa. E leai se mea e lafoina.",
+    "players": "tagata e 2, e nofo tafatafa",
+    "intro": "Filifili ata e lua i le ono mai lau telefoni, teleporo pe komepiuta, ona liliu ai lea i se taaloga fa'atusatusa ma ata tetele e faigofie ona vaaia. E faaalia ata naʻo i totonu o lenei itulau. E le lafoina, e le teuina, e le faasoaina, ma e mou pe a tapuni le itulau.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tapu i le \"Filifili ata\" ma filifili ata e 2 i le 6.",
+      "E faaalia ata taʻitasi e lua. Tapu i le tasi, ona tapu lea i lona paaga.",
+      "Talanoa e uiga i ata a o e maua i ai.",
+      "Pe a uma, tapuni le itulau pe tapu i le \"Ave ese ata\". E leai se mea e teuina."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Filifili ata manino o mea e fiafia ai ma o loo e iloa: se manu, se faatoaga, se nofoaga e te fiafia i ai, se aso faaipoipoga.",
+      "Ata o nofoaga ma mea e sili ona faigofie nai lo ata o tagata, ma e le faamanatu ai se manaʻoga e taʻu ai igoa o tagata.",
+      "Aua le aumaia ata o tagata ua maliu pe a e fefe e aumai ai le faanoanoaga faafuase, sei vagana ua e iloa e faafiafia ai."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "E lafoina ea au ata i so'o se mea?",
+        "a": "Leai. E faitau e le itulau ata ua e filifili i lau browser ma faaalia i lau mata. E le lafoina i matou pe i so'o se isi tagata, ma e ave ese pe a tapuni pe toe faafou le itulau."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "E iai ea se taimi pe se sikoa?",
+        "a": "Leai. E leai se uati, sikoa, faitaga o fetuʻutuʻuga po o le faaumatiaina. E mafai ona e taofi i so'o se taimi, ma o le taofi i le ogatotonu o le taaloga e mafai lava ona faaiuga lelei."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "E mafai ona ou teuina le taaloga mo le taimi e sosoo ai?",
+        "a": "Leai i le browser, ona o le mea lea na fuafuaina ai, ina ia le teuina so'o se mea faalilolilo. O le Golden Moments app mo iPhone ma iPad e mafai ona teu ai kopi o ata ua e filifilia i lau masini."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ata",
+    "seoTitle": "Bingo Ata mo Tagata Matutua ma Tagata o Loo Ola ma le Dementia: e Mafai ona Lolomiina",
+    "h1": "Bingo Ata mo Vaega o Tagata",
+    "description": "Bingo ata e mafai ona lolomiina e le totogi mo nofoaga tausiga ma vaega o tagata matutua, ma se valaau tetele i luga o le mata. Ata tetele ma upu, faitoʻā e 9 pe 16, e leai se faitauga e manaʻomia.",
+    "short": "Pepa bingo ata e mafai ona lolomiina ma se valaau tetele mo vaega o tagata.",
+    "players": "Se vaega o tagata e 2 i le 30",
+    "intro": "Bingo masani ma ata nai lo numera, ina ia le manaʻomia e so'o se tasi ona faitau upu laiti. Lolomiina se seti o pepa e ese ai, ona faaaoga lea o le valaau e faaalia ai ata taʻitasi tetele i luga o le TV, laptop pe tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Filifili faitoʻā e 9 pe 16 i pepa taʻitasi, ma le aofaʻi o tagata o le taaloga.",
+      "Tapu i le \"Lolomiina pepa\". E eseese pepa taʻitasi.",
+      "Tatala le valaau i se mata tetele. Tapu i le \"Ata o le isi\" e faaalia ai ata taʻitasi ma lona igoa.",
+      "Tagata o le taaloga e ufi le ata tutusa i lana pepa ma se mea e pei o se tupe, pateni po o se faailoga.",
+      "O i latou uma e faatumu se laina, po o le pepa atoa, e tautala ai ma se olioli. E leai ni tagata faaumatia i lenei taaloga: faaauau le taaloga seʻia oʻo ina maua e tagata uma se laina."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Faaaoga mea tetele e pei o faamaumau dama po o pulou u'amea. O mea laiti e faigata ona aumaia.",
+      "Taʻu le igoa o le ata ma faamatala se mea e uiga i ai: \"O se vaa malaga. O ai ua malaga i luga o se vaa?\"",
+      "Nofoia tagata e faigata ona vaai i latou latalata i le mata, ma faapaʻia fesoasoani ma tagata e manaʻomia ai.",
+      "Iva faitoʻā e lava mo le tele o vaega. Tumau le taaloga e tusa ma le 20 i le 30 minute."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "E faapefea ona ou faia bingo ata i se fale tausiga?",
+        "a": "Lolomiina se pepa mo tagata taʻitasi, tuʻu le valaau i le mata sili ona tetele e te maua, ma valaau ata i le faalelei, taʻuina igoa taʻitasi. Taaloga seʻia oʻo ina maua e tagata uma se laina, ina ia leai se tasi e tuua i tua."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "E totogi ea le lolomiina?",
+        "a": "Leai. Lolomiina le tele o pepa e manaʻomia, e faatele pe a e manaʻo, mo le faaaogaina o le tagata lava ia po o se vaega."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "E mafai ea ona taaloga tagata e aunoa ma le faitau?",
+        "a": "E mafai. O faitoʻā taʻitasi o se ata tetele, ma igoa o loo i lalo mo i latou e fiafia i upu."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Taimi filemu o le manava",
+    "seoTitle": "Se Taimi Filemu o le Manava mo Tagata Matutua ma Tagata e Tausia",
+    "h1": "Se Taimi Filemu o le Manava",
+    "description": "Se taimi manava malie ma filemu e faasoa ai: se porotaʻa e tupu ma faaitiitia mo manava e ono. E e amata, ma e mafai ona e taofi i so'o se taimi.",
+    "short": "Se porotaʻa malie e manava faatasi ai. Amata po o le taofi pe a e manaʻo.",
+    "players": "tagata e 1 pe 2",
+    "intro": "I nisi taimi o le gaioiga sili lea o se taimi filemu. Tapu i le \"Amata\", ona manava lea a o tupu le porotaʻa ma manava ese a o faaitiitia. Filifili le saosaoaga: malie pe fiafia. E le o se togafitiga, naʻo se taimi filemu e faasoa ai.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Nofo lelei tafatafa.",
+      "Filifili le saosaoaga: malie pe fiafia.",
+      "Tapu i le \"Amata\". Manava i le taimi e tupu ai le porotaʻa, ma ese i le taimi e faaitiitia ai.",
+      "E taofi lava ia pe a uma manava e ono, pe tapu i le \"Taofi\" pe a e manaʻo."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Fa'ataoto lima, pe tu'u se lima i luga o le lima o le tagata pe a e iloa e talia ai.",
+      "Aua le faamalosia. Afai e sili ona latou matamata, e lelei lava.",
+      "Afai o loo i ai se tagata e faigata i le manava, manava e pei o le masani ma matamata naʻo le porotaʻa. Fesili i se foma'i e uiga i ni popolega o le manava."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "O se faamalositino manava faaleforomeaina lenei?",
+        "a": "Leai. O se taimi faigofie, filifilia, e filemu ma faasoa ai. E le o se togafitiga mo le popolega pe so'o se faamaʻi. Talanoa i se foma'i e uiga i popolega o le soifua maloloina."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "E gaoi ea le porotaʻa pe a le amata e aʻu?",
+        "a": "Leai. E leai se mea e faagaoioi seʻi e pa'i i le Amata, ma e taofi pe a uma ni manava e ono, pe a e pa'i i le Taofi. Afai ua setiina lau masini e faaitiitia ai le faagaoioina, e suia upu ae le tupu le porotu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "E saoloto ea, ma e tatau ea ona ou resitala?",
+        "a": "Ioe, e saoloto, ma e leai se pusa faamaumau, se resitalaga po se faapipiiga. E galue i le upega tafatafa i luga o se telefoni, teupu po se komepiuta."
       }
     ]
   }

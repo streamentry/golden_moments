@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Рәсем парлары",
+    "seoTitle": "Деменция өчен парлы уен: Рәсем парлары",
+    "h1": "Рәсем парлары: тыныч парлау уены",
+    "description": "Деменция белән яшәүче кешеләр өчен бушлай, тыныч парлау уены. Зур рәсемнәр күренеп тора, вакыт саклагыч та, очко да юк, сез 4дән 12гә кадәр плитка сайлыйсыз.",
+    "short": "Бер үк ике рәсемне табыгыз. Рәсемнәр күренеп торырга мөмкин.",
+    "players": "1 яки 2 кеше, янәшә",
+    "intro": "Рәсемгә басыгыз, аннан аңа охшаган рәсемгә басыгыз. Рәсемнәр алдан ук күренеп тора, шуңа күрә хәтердә тотарга кирәк түгел. Ике рәсем бергә туры килгәч, алар алтын чик һәм тикшерү билгесе белән аерылып тора.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Нинди күп плитка кулланырга сайлагыз. Дүрт плитка — тыныч башлангыч.",
+      "Теләсә кайсы рәсемгә басыгыз. Ул алтын чик белән билгеләнәчәк.",
+      "Охшаган рәсемгә басыгыз. Пар тикшерү билгесе белән бергә калачак.",
+      "Ике рәсем төрле булса, бернинди начарлык та булмый. Әзер булгач, яңадан басыгыз.",
+      "«Яшерелгән рәсемнәр»не бары тик икегез дә борынгы, йөзе аска таба яткан версияне яратсагыз гына кушыгыз."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Рәсемнәрнең исемнәрен бергә кычкырып әйтегез һәм алар турында сөйләшегез: «Кызыл чәй чынысы. Чәегезгә сөт саласызмы?»",
+      "Карап торган кешегә басарга ирек бирегез, бераз вакыт алса да. Аның урынына басмыйча, күрсәтегез.",
+      "Дүрт плитка белән шул кадәр уйнагыз, ничек рәхәт булса. Күбрәк плитка — сайлау, ирешергә тиеш булган дәрәҗә түгел.",
+      "Әле рәхәт булганда тәмамлагыз. Бер уен — тулы эш."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Вакыт саклагыч яки очко бармы?",
+        "a": "Юк. Сәгать, очко, хәрәкәт санагыч яки җиңелү юк. Теләсә кайсы вакытта туктарга мөмкин, һәм яртысында туктау да тәмамлауның яхшы ысулы."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Рәсемнәр ни өчен күренеп тора?",
+        "a": "Рәсемнәр күренеп торганда, уен хәтерләү түгел, карау һәм парлау була. Күпләр моны тынычрак дип саный. Әгәр шулай яратсагыз, яшерелгән рәсемнәргә бер басу белән күчәргә мөмкин."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бушлаймы, теркәлергә кирәкме?",
+        "a": "Әйе, бушлай. Хисап язу, теркәлү яки йөкләү кирәк түгел. Телефон, планшет яки компьютерда веб-браузерда эшли."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Безнең гаилә фотолары белән уйнарга мөмкинме?",
+        "a": "Әйе. «Фото парлары»н карагыз, ул сезгә җайланмадан фотолар сайларга мөмкинлек бирә. Фотолар браузерда кала һәм йөкләнми."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Бер үк рәсем",
+    "seoTitle": "Бер үк рәсемне табу: деменция өчен гади уен",
+    "h1": "Бер үк рәсемне табыгыз",
+    "description": "Өстә бер рәсем, аста ике-дүрт рәсем. Бер үк булганына басыгыз. Деменция белән яшәүче кешеләр өчен вакытсыз, тыныч, бушлай рәсем уены.",
+    "short": "Өстәге рәсемгә карап, аста шундый ук рәсемгә басыгыз.",
+    "players": "1 яки 2 кеше",
+    "intro": "Экранның өстендә бер генә рәсем тора. Аның астында ике, өч яки дүрт рәсем. Бер үк булганына басыгыз. Бер вакытта бер генә сайлау, сөйләшер өчен киң урын бар.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Сайларга ике, өч яки дүрт рәсем сайлагыз. Ике — иң гади.",
+      "Өстәге рәсемгә бергә карагыз.",
+      "Аста шундый ук рәсемгә басыгыз. Ул тикшерү билгесе һәм бер-ике җылы сүз белән билгеләнәчәк.",
+      "Башка рәсемгә басылса, уен аны гына атап әйтә һәм көтә. Вакыт алыгыз.",
+      "Яңа рәсемгә әзер булгач, «Киләсе рәсем»гә басыгыз."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Сайлаганчы һәр рәсем турында сөйләшегез: төсе, формасы, сез аны кайда күргән булырга мөмкин.",
+      "Ике сайлау «бик гади» түгел. Максат — рәхәт мизгел, авыр бирем түгел.",
+      "Басу кыен булса, кеше күрсәтә ала, ә сез аның урынына баса аласыз."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Вакыт саклагыч яки очко бармы?",
+        "a": "Юк. Сәгать, очко, хәрәкәт санагыч яки җиңелү юк. Теләсә кайсы вакытта туктарга мөмкин, һәм яртысында туктау да тәмамлауның яхшы ысулы."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Дөрес булмаган рәсемгә басылса, нәрсә була?",
+        "a": "Бернинди начар нәрсә булмый. Ни тавыш, ни кызыл крест, ни селкенү юк. Уен басылган рәсемне атап әйтә һәм киләсе басуны көтә."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бушлаймы, теркәлергә кирәкме?",
+        "a": "Әйе, бушлай. Хисап язу, теркәлү яки йөкләү кирәк түгел. Телефон, планшет яки компьютерда веб-браузерда эшли."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Күләгә белән туры килү",
+    "seoTitle": "Күләгә белән туры килү уены деменция өчен: бушлай онлайн",
+    "h1": "Күләгә туры килү: тыныч рәсем уены",
+    "description": "Өстә караңгы күләгә, аста ике-дүрт рәсем. Күләгәне барлыкка китергән рәсемгә басыгыз. Деменция өчен бушлай, тыныч күләгә туры килү уены, вакыт саклагычсыз.",
+    "short": "Күләгәгә карап, аны барлыкка китергән рәсемгә басыгыз.",
+    "players": "1 яки 2 кеше",
+    "intro": "Күләгә белән туры килтерү — басмадан эшләнгән эш кәгазьләреннән таныш гадәт, монда исә зур рәсемнәр бар, бернәрсә дә бастырырга кирәкми. Экранның өстендә йомшак күләгә, аста ике, өч яки дүрт рәсем көтә. Күләгәне барлыкка китергән рәсемгә басыгыз. Велосипед, зонтик яки чәй чынысы кебек формалар турында сөйләшү дә җиңел.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Сайларга ике, өч яки дүрт рәсем сайлагыз. Ике — иң гади.",
+      "Күләгәгә бергә карагыз. Ул нинди формада? Озынмы, түгәрәкме?",
+      "Күләгәне барлыкка китергән рәсемгә басыгыз. Аның исеме күләгә астында күренә.",
+      "Башка рәсемгә басылса, уен аны гына атап әйтә һәм көтә. Вакыт алыгыз.",
+      "Яңа күләгәгә әзер булгач, «Киләсе күләгә»гә басыгыз."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Күләгә контурын бармак белән иңләгез һәм форма турында сөйләшегез.",
+      "Бүген күләгәләр кыен тоелса, рәсемнәре охшаган «Бер үк рәсем»гә күчегез.",
+      "Рәсем табылгач, аның турында сөйләшегез: «Безнең андый зонтик бар иде»."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Вакыт саклагыч яки очко бармы?",
+        "a": "Юк. Сәгать, очко, хәрәкәт санагыч яки җиңелү юк. Теләсә кайсы вакытта туктарга мөмкин, һәм яртысында туктау да тәмамлауның яхшы ысулы."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Күләге буенча туры китерү уены дементия белән яшәүче кешеләр өчен яхшымы?",
+        "a": "Кайбер кешеләр өчен, аеруча авыруның башлангыч чорында, бу гади һәм рәхәт шөгыль булырга мөмкин. Формаларны сүзләргә караганда танырга җиңелрәк. Ул рәхәтлек һәм сөйләшү өчен, тест түгел, һәм дементияне дәвалый яки әкренәйтми. Әгәр бу ачу китерсә, «Шундыйны табыгыз» уенын яки рәсемнәргә бергәләп карауны сынап карагыз."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Дөрес булмаган рәсемгә басылса, нәрсә булыр?",
+        "a": "Берни дә ошамаган нәрсә булмый. Сигнал, кызыл крест яки селкенү юк. Уен басылган рәсемнең исемен әйтә һәм киләсе басуны көтә."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бу бушлаймы, һәм теркәлергә кирәкме?",
+        "a": "Әйе, бушлай, һәм аккаунт, теркәлү яки йөкләү кирәкми. Телефонда, планшетта яки компьютерда веб-браузерда эшли."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Бергәләп тәртипкә салу",
+    "seoTitle": "Дементия өчен тәртипкә салу уены: бергәләп тәртипкә салыгыз",
+    "h1": "Бергәләп тәртипкә салыгыз: рәсемнәрне тәртипкә салу шөгыле",
+    "description": "Рәсемгә басыгыз, аннары ул караган савытка басыгыз: кухня яки бакча, җиләк-җимеш яки хайваннар. Дементия белән яшәүче кешеләр өчен тыныч, бушлай тәртипкә салу шөгыле.",
+    "short": "Һәр рәсемне үз савытына салыгыз: кухня яки бакча һәм башкалар.",
+    "players": "1 яки 2 кеше",
+    "intro": "Тәртипкә салу — таныш, канәгатьлек бирүче көндәлек эш, мәсәлән, азык-төлекне урнаштыру яки оекбашларны пар итү кебек. Рәсемгә басыгыз, аннары ул урнашырга тиешле савытка басыгыз. Ашыкмыйсыз, дөрес булмаган адым да юк.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Тема сайлагыз: кухня һәм бакча, җиләк-җимеш һәм хайваннар, яки йорт һәм сәяхәт.",
+      "Рәсемгә басыгыз. Ул алтын чик белән билгеләнә.",
+      "Ул салынырга тиешле савытка басыгыз. Рәсем шул савытка күчә.",
+      "Әгәр ул икенче савытка керергә тиеш булса, уен моны йомшак кына әйтә һәм көтә.",
+      "Барлык рәсемнәр тәртипкә салынгач, савытларны бергәләп карап чыгыгыз."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Чынлыкта еш кына дөрес булмаган җавап юк. Әгәр кеше су сипкечне кухняга куя дисә, сорагыз: ни өчен? Бик матур хикәя ишетергә мөмкин.",
+      "Рәсемнәрне сорау өчен кулланыгыз: «Бакчада нәрсә үстердегез?»",
+      "Чын әйберләр белән тәртипкә салу, мәсәлән, кашык һәм чәнечкеләр яки төймәләрне төсе буенча бүлү, экрансыз дәвам итү өчен бик яхшы."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер яки балл барымы?",
+        "a": "Юк. Сәгать, балл, адым санагыч яки җиңелү юк. Теләсә кайсы вакытта туктарга мөмкин, һәм яртысында туктау — тәмамлаудың бик яхшы ысулы."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Ни өчен тәртипкә салу?",
+        "a": "Күпләр тәртипкә салуны ошата, чөнки ул файдалы, таныш эш кебек тоела. Шулай ук эш барганда рәсемнәр турында сөйләшү җиңел."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бу бушлаймы, һәм теркәлергә кирәкме?",
+        "a": "Әйе, бушлай, һәм аккаунт, теркәлү яки йөкләү кирәкми. Телефонда, планшетта яки компьютерда веб-браузерда эшли."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Рәсемле пазл",
+    "seoTitle": "Дементия өчен җиңел пазл: 4 яки 9 кисәк",
+    "h1": "Рәсемле пазл: җиңел җыелма",
+    "description": "Дементия белән яшәүче кешеләр өчен җиңел онлайн пазл: 4 яки 9 зур кисәк, бөтен рәсем күренеп тора, ике кисәкне алыштыру өчен аларны басыгыз.",
+    "short": "Рәсем тулы булганчы ике кисәкне алыштыру өчен аларны басыгыз.",
+    "players": "1 яки 2 кеше",
+    "intro": "Танышлы рәсем дүрт яки тугыз зур кисәккә бүленә һәм катнаштырыла. Бөтен рәсем йөрешкә ярдәм итеп күренеп тора. Бер кисәккә басыгыз, аннан икенчесенә — алар урыннарын алыштыралар. Сөйрәү кирәкми.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Рәсем һәм 4 яки 9 кисәк сайлагыз. Дүртлек — йомшак башлангыч.",
+      "Өстәге бөтен рәсемгә карагыз.",
+      "Кисәккә басыгыз, аннары аның урын булырга тиешле җиренә басыгыз. Ике кисәк урын алыштыра.",
+      "Дөрес урында торган кисәкләр кечкенә билге белән күрсәтелә.",
+      "Рәсем тулы булгач, бергә рәхәтләнеп карагыз, аннары башкасын сайлагыз."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Кисәкләрне сөйрәү урынына, ике кисәкне басып алыштыру күп кеше өчен бик җиңел.",
+      "Рәсем җыелган саен сөйләшегез: «Монда кызыл түбә бар.»",
+      "12дән 24кә кадәр зур кисәкле чын агач пазл да өстәл шөгыле буларак бик матур."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер яки балл барымы?",
+        "a": "Юк. Сәгать, балл, адым санагыч яки җиңелү юк. Теләсә кайсы вакытта туктарга мөмкин, һәм яртысында туктау — тәмамлаудың бик яхшы ысулы."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Кисәкләрне сөйрәргә кирәкме?",
+        "a": "Юк. Бер кисәккә басыгыз, аннары икенчесенә — алар урын алыштыра. Кул калтыраса яки экран кечкенә булса, бу гади."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бу бушлаймы, һәм теркәлергә кирәкме?",
+        "a": "Әйе, бушлай, һәм аккаунт, теркәлү яки йөкләү кирәкми. Телефонда, планшетта яки компьютерда веб-браузерда эшли."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Әйтемне тәмамла",
+    "seoTitle": "Әйтемне тәмамлау: картлар өчен әйтемнәр уены",
+    "h1": "Әйтемне тәмамлагыз",
+    "description": "Танышлы әйтемнәр, соңгы сүзе юк: мәсәлән, «Ничек салсаң, шулай ___». Вариант басыгыз яки ахырын күрсәтегез, аннары сөйләшегез.",
+    "short": "Танышлы әйтемнәрне бергәләп тәмамлагыз, аннары сөйләшегез.",
+    "players": "1, 2 яки төркем",
+    "intro": "Борынгы әйтемнәрне кеше гомер буе белә. Һәр карточкада танышлы әйтем, соңгы сүзе юк, өч вариант һәм «Ахырын күрсәтү» төймәсе бар. Ахырдан соң йомшак сорау сөйләшүгә чакыра.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Әйтемне бергәләп тавыш чыгарып укыгыз.",
+      "Аны тәмамлый торган сүзгә басыгыз, яки «Ахырын күрсәтү» төймәсенә басыгыз.",
+      "Әйтемне тагын бер тапкыр укыгыз һәм сорау буенча сөйләшегез.",
+      "Әзер булгач, «Киләсе әйтем» төймәсенә басыгыз."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Әкрен укыгыз һәм соңгы сүз алдыннан паузa калдырыгыз. Еш кына кеше сүзне сезгә кадәр әйтеп бетерә.",
+      "Әгәр кеше башка ахыр әйтсә, аның белән рәхәтләнегез. Әйтемнәрнең төрле вариантлары гаиләгә яки төбәккә карап үзгәрә.",
+      "Төркемдә бер кеше укый, барысы да ахырга кушыла."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер яки балл барымы?",
+        "a": "Юк. Монда вакыт санагычы, балл, адымнар санагычы яки җиңелү юк. Теләсә кайсы вакытта туктарга була, һәм яртысында туктау да — яхшы тәмамлау ысулы."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Башка сүз сайласак нәрсә буласы?",
+        "a": "Уен гадәти төгәлләнешне күрсәтеп, сөйләшүгә күчә. Балл юк, һәм башка җавап та яхшы."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бушмы һәм теркәлергә кирәкме?",
+        "a": "Әйе, бушка. Исәп язу, теркәлү яки йөкләү кирәкми. Телефонда, планшетта яки компьютерда интернет браузерда эшли."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Зур хәрефле сүзләр табу уены",
+    "seoTitle": "Дементия өчен зур хәрефле сүзләр табу уены, басма өчен",
+    "h1": "Зур хәрефле сүзләр табу",
+    "description": "Өлкән яшьтәге кешеләр һәм дементия белән яшәүчеләр өчен бушлай зур хәрефле сүзләр табу уены. Аз сүз, зур хәрефләр, сүзләр юлдан һәм баганадан гына. Онлайн уйнагыз яки бастырыгыз.",
+    "short": "Зур хәрефләр, аз сүз, юлдан һәм баганадан гына. Аны кәгазьгә дә бастырырга була.",
+    "players": "1 яки 2 кеше",
+    "intro": "Зур хәрефләр һәм бары берничә сүз булган кечкенә кыр. Барлык сүзләр юлдан яки баганадан укыла. Сүзнең беренче хәрефенә, аннары соңгы хәрефенә басыгыз. Кәгазьдә уйнарга яратасызмы? Бер баскычта яңа басма төшерегез.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Тематика һәм кыр зурлыгын сайлагыз.",
+      "Сүзләр исемлеген карагыз. Сүзләр сулдан уңга яки өстән аска укыла.",
+      "Сүзнең беренче хәрефенә басыгыз, аннары соңгы хәрефенә басыгыз.",
+      "Табылган сүз ассызыклана һәм исемлектән сызыла.",
+      "Кәгазьдә карандаш яки маркер белән уйнау өчен «Бу басманы бастыру» төймәсенә басыгыз."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Исемлектәге сүзгә күрсәтеп, аның беренче хәрефен бергә карагыз.",
+      "Кәгазьдә хайлайтер карандашка караганда тотуга җайлырак.",
+      "Тематик сүзләр турында сөйләшегез. Җиләк-җимеш сүзләре җыю, пешерү яки базар хатирәләренә табигый юл була ала."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер яки балл бармы?",
+        "a": "Юк. Монда вакыт санагычы, балл, адымнар санагычы яки җиңелү юк. Теләсә кайсы вакытта туктарга була, һәм яртысында туктау да — яхшы тәмамлау ысулы."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Сүз табу уенын бастырып буламы?",
+        "a": "Әйе. «Бу басманы бастыру» төймәсенә басыгыз — хәзерге кыр зур хәрефләр белән, астында сүзләр исемлеге белән басылыр. Һәр яңа басма башка була."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бушмы һәм теркәлергә кирәкме?",
+        "a": "Әйе, бушка. Исәп язу да, йөкләү дә кирәкми. Телефонда, планшетта яки компьютерда браузерда эшли."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Буяу битләре",
+    "seoTitle": "Дементия белән яшәүче өлкәннәр өчен буяу битләре (бушлай)",
+    "h1": "Буяу битләре",
+    "description": "Зур мәйданнары булган гади, өлкәннәр өчен буяу битләре: төс сайлагыз, аннары рәсемгә басыгыз. Пычрану юк, дөрес булмаган төс юк, һәр битне бушлай бастырырга була.",
+    "short": "Төс сайлагыз, аннары рәсемнең бер өлешенә басыгыз. Битләрне бастырырга да була.",
+    "players": "1 яки 2 кеше",
+    "intro": "Зур, гади формалы битләр: тубыл чәчәк, йорт, чәй чынысы, күбәләк һәм парус көймәсе. Төс сайлагыз, аннары рәсемнең бер өлешенә басып тутырыгыз. Дөрес булмаган төс юк.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Битне сайлагыз.",
+      "Төс сайлагыз. Һәр төснең исеме үзендә язылган.",
+      "Аны тутыру өчен рәсемнең бер өлешенә басыгыз.",
+      "Фикерегезне теләсә кайсы вакытта үзгәртергә мөмкин — яңадан тутырыгыз.",
+      "Карандаш яки маркер белән буяу өчен буш бит алу өчен «Бу битне бастыру» төймәсенә басыгыз."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Бөтен төсләр җыелмасы урынына, сайлау артык авыр булса, ике төс тәкъдим итегез.",
+      "Бинәфш төсендәге агачлар һәм зәңгәр кояшлар да рәхим ителә. Монда максат — төс белән рәхәтләнү, дөреслек түгел.",
+      "Басылган битләргә калын маркерлар яки мом карандашлар бик килешә, аларны тоту җайлырак."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Таймер яки балл бармы?",
+        "a": "Юк. Монда вакыт санагычы, балл, адымнар санагычы яки җиңелү юк. Теләсә кайсы вакытта туктарга була, һәм яртысында туктау да — яхшы тәмамлау ысулы."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Бу битләр бала кебек булмыймы?",
+        "a": "Без мультфильм түгел, тыныч, гади әйберләр сурәтләдек, шуңа күрә битләр өлкәннәргә туры килә. Зур формалар буяуны җиңел итә, ләкин балаларча итми."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бушмы һәм теркәлергә кирәкме?",
+        "a": "Әйе, бушка. Исәп язу да, йөкләү дә кирәкми. Телефонда, планшетта яки компьютерда браузерда эшли."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Сөйләшү карточкалары",
+    "seoTitle": "Дементия өчен сөйләшүне башлау: рәсемле карточкалар",
+    "h1": "Сөйләшү карточкалары",
+    "description": "Дементия белән яшәүчеләр өчен йомшак сөйләшү башлангычлары булган рәсемле карточкалар: сорау-җавап юк, дөрес җавап юк. Экранда кулланыгыз яки тулы комплектын бастырыгыз.",
+    "short": "Ачык, йомшак сорауларлы рәсемле карточкалар. Сорау-җавап юк.",
+    "players": "2 кеше яки төркем",
+    "intro": "Һәр карточка таныш рәсемне һәм сөйләшү өчен ачык чакыruны берләштерә, мәсәлән: «Сезнең иң яраткан һава торышы нинди?» Дөрес җаваплар юк, иҫтә калдырырга нәрсә дә юк. Тема сайлагыз яки барысын аралаштырыгыз.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Тема сайлагыз яки «Барлык карточкалар»ны калдырыгыз.",
+      "Соравны тавыш чыгарып укыгыз һәм рәсемгә бергә карагыз.",
+      "Тыңлагыз, үз җавабыгызны әйтегез, сөйләшү үзе агылсын.",
+      "Әзер булганда «Киләсе карточка» төймәсенә басыгыз, яки бер карточкада теләсә кадәр калыгыз.",
+      "Кәгазь комплект кисәр өчен «Барлык карточкаларны бастыру» төймәсенә басыгыз."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Сорауга үзегез дә җавап бирегез. Бу сорау-җавап түгел, сөйләшү кебек булсын.",
+      "Хикәяне тыңлагыз, фактларны түгел. Детальләр үзгәрсә, бу да ярый.",
+      "Карточка кайгылы нәрсәгә кагылса, хисне таныгыз һәм йомшак кына башка карточкага күчегез."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Ни өчен «Хәтерлисезме…?» сораулары юк?",
+        "a": "Хәтерне тикшерә торган сораулар имтихан кебек тоелырга һәм оятка калдырырга мөмкин. «Миңа … турында сөйләгез» кебек ачык чакырулар кем генә булса да кушылырга мөмкинлек бирә, нәрсә исендә булуына карамастан."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Карточкаларны бастырып буламы?",
+        "a": "Әйе. «Барлык карточкаларны бастыру» төймәсе тулы комплектны зур хәрефләр белән, битенә берничә карточка итеп бастыра, кисәргә әзер."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бушмы һәм теркәлергә кирәкме?",
+        "a": "Әйе, ул бушлай, аккаунт, теркәлү яки йөкләп алу кирәкми. Телефонда, планшетта яки компьютерда веб-браузерда эшли."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Фото парлары",
+    "seoTitle": "Гаилә фотоларыннан парлы уен ясау",
+    "h1": "Фото парлары: үз фотоларыгызны табыгыз",
+    "description": "Үз гаилә фотоларыгызны йомшак парлы уенга әверелдерегез. Җайланмагызда 2дән 6га кадәр фото сайлагыз; алар браузерда гына кала һәм беркайда да йөкләнми.",
+    "short": "Үз фотоларыгызны сайлагыз һәм табыгыз. Беркайда да йөкләнми.",
+    "players": "2 кеше, янәшә утырып",
+    "intro": "Телефоннан, планшеттан яки компьютердан 2дән 6га кадәр фото сайлагыз, һәм алар зур, күренеп торган сурәтләр белән парлы уенга әверелер. Фотолар бу битнең эчендә генә күрсәтелә. Аларны йөкләмибез, саклamыйбыз һәм беркемгә бирмибез; бит ябылгач, алар юкка чыга.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "«Фотолар сайлау» төймәсенә басыгыз һәм 2дән 6га кадәр фото сайлагыз.",
+      "Һәр фото ике тапкыр күрсәтелә. Берсенә басыгыз, аннары аның парына басыгыз.",
+      "Һәр фотоны тапканда, анда нәрсә күрсәтелгәнен сөйләшегез.",
+      "Эш беткәч, битне ябыгыз яки «Фотоларны бетерү» төймәсенә басыгыз. Берни дә саклanmый."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Ачык, таныш һәм күңелле фотолар сайлагыз: йорт хайваны, бакча, яраткан урын, туй көне.",
+      "Кешеләр йөзеннән бигрәк, урыннар һәм әйберләр фотолары җиңелрәк булырга мөмкин; алар кешеләрнең исемен атарга мәҗбүр итми.",
+      "Кинәт кайгы китерергә мөмкин булган вафат кешеләр фотоларын кертмәгез, әгәр алар юаныч китерәчәген белмәсәгез."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Фотоларым кайда да йөкләнәме?",
+        "a": "Юк. Бит сез сайлаган фотоларны туры браузерда укый һәм экранда күрсәтә. Аларны безгә яки башка беркемгә җибәрмибез; бит ябылганда яки яңадан йөкләнгәндә алар юкка чыга."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Вакыт яки балл бармы?",
+        "a": "Юк. Вакыт, балл, адымнар саны яки җиңелү юк. Теләсә кайсы вакытта туктарга мөмкин, һәм уртада туктау — тәмамлауның тулы бер ысулы."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Уенны киләсе тапкыр саклап калырга була мыни?",
+        "a": "Браузерда юк, максат шулай: шәхси нәрсә саклану юк. iPhone һәм iPad өчен бушлай Golden Moments кушымтасы сайланган фотоларның күчермәләрен җайланмада саклый ала."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Сурәтле бинго",
+    "seoTitle": "Дементия белән яшәүче өлкәннәр өчен сурәтле бинго: басып чыгару өчен",
+    "h1": "Төркем өчен сурәтле бинго",
+    "description": "Төркемнәр һәм карау өчен бушлай басма сурәтле бинго, экранда зур алып баручы белән. Исем язылган зур сурәтләр, 9 яки 16 квадрат, укырга кирәкми.",
+    "short": "Төркемнәр өчен басма сурәтле бинго карточкалары һәм зур экран алып баручысы.",
+    "players": "2дән 30га кадәр кешедән торган төркем",
+    "intro": "Саннар урынына сурәтләр белән классик бинго, шуңа күрә беркем дә кечкенә текстны укырга тиеш түгел. Уникаль карточкаларны басып чыгарыгыз, аннары экрандагы алып баручы белән һәр сурәтне ТВ, ноутбук яки планшетта зур итеп күрсәтегез.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Һәр карточкада 9 яки 16 квадрат һәм кешеләр санын сайлагыз.",
+      "«Карточкаларны басып чыгару» төймәсенә басыгыз. Һәр карточка башкача.",
+      "Алып баручыны зур экранда ачыгыз. Һәр сурәтне исеме белән күрсәтү өчен «Киләсе сурәт» төймәсенә басыгыз.",
+      "Катнашучылар карточкада охшаш сурәтне тәңкә, төймә яки билгеләү белән каплыйлар.",
+      "Бер юлны яки бөтен карточканы тутырган һәрбер кеше алкышка ия. Бу версиядә җиңелүчеләр юк: барысының да юлы булганчы уйнагыз."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Шашкалар яки кызыл капкачлар кебек зур фишкалар кулланыгыз. Кечкенә төймәләрне алу читен булырга мөмкин.",
+      "Сурәтнең исемен әйтегез һәм аның турында бер нәрсә сөйләгез: «Яхта. Кем яхтада йөргән?»",
+      "Күрүе начаррак кешеләрне экранга иң якын утыртыгыз, һәм ярдәм кирәк булганнарга ярдәмчеләр билгеләгез.",
+      "Күпчелек төркемнәр өчен 9 квадрат җитә. Утырышны якынча 20-30 минут итеп тотыгыз."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Карау йортында сурәтле бингону ничек уйнарга?",
+        "a": "Һәр катнашучыга бер карточка басып чыгарыгыз, алып баручыны иң зур экранга куегыз һәм сурәтләрне әкрен генә, исемнәрен әйтеп, чакырыгыз. Беркем калмасын өчен, барысының да юлы булганчы уйнагыз."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Басып чыгару бушлаймы?",
+        "a": "Әйе. Шәхси яки төркем файдалану өчен теләгән кадәр карточка басып чыгарыгыз, теләгән кадәр еш."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Кешеләр укымыйча уйный аламы?",
+        "a": "Әйе. Һәр квадрат — зур сурәт, аның исеме астында язылган, сүзләр яратучылар өчен."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Тыныч сулыш алу",
+    "seoTitle": "Өлкәннәр һәм карап торучылар өчен тыныч сулыш алу паузасы",
+    "h1": "Тыныч сулыш алу паузасы",
+    "description": "Бергә уртаклашырга тын гына сулыш алу паузасы: йомшак түгәрәк алты сулыш вакытында зурая һәм кечерәя. Сез башлыйсыз, теләсә кайсы вакытта туктарга мөмкин.",
+    "short": "Бергәләп сулыш алырга өчен әкрен түгәрәк. Теләсә вакытта башлагыз һәм туктатыгыз.",
+    "players": "1 яки 2 кеше",
+    "intro": "Кайвакыт иң яхшы эш — тын пауза. «Башлау» төймәсенә басыгыз, аннары түгәрәк зурайганда сулыш алыгыз, кечерәйгәндә чыгарыгыз. Тизлекне әкрен яки йомшак итеп сайлап була. Бу дәва түгел, бары тик уртаклашырга тыныч мизгел.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Янәшә рәхәтләнеп утырыгыз.",
+      "Тизлек сайлагыз: әкрен яки йомшак.",
+      "«Башлау» төймәсенә басыгыз. Түгәрәк зурайганда сулыш алыгыз, кечерәйгәндә чыгарыгыз.",
+      "Алты сулыштан соң ул үзе туктый, яки теләсә вакытта «Туктату» төймәсенә басыгыз."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Кеше теләсә, кулыгызны тотыгыз яки аның беләгенә куегыз.",
+      "Беркайчан да мәҗбүр итмәгез. Алар карап торырга теләсә, бу да яхшы.",
+      "Әгәр кемдәдер сулыш алу проблемалары булса, гади сулыш алыгыз һәм түгәрәккә карагыз. Сулыш белән бәйле борчулар турында табибтан сорагыз."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Бу медицина сулыш алу күнегүе беренчеме?",
+        "a": "Юк. Бу тынычлык һәм компания өчен гади, теләге буенча пауза. Ул борчылу яки бернинди авыру өчен дә дәва түгел. Сәламәтлек турында табиб белән сөйләшегез."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Түгәрәк мин башламыйча хәрәкәт итәме?",
+        "a": "Юк. «Старт» төймәсенә басмыйча берни дә хәрәкәт итми, алты тын алгач яки «Туктату» төймәсенә басканда туктый. Әгәр җайланмада хәрәкәтне киметү көйләнгән булса, түгәрәк зурайманы, ә сүзләр генә үзгәрә."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Бушлаймы, һәм теркәлергә кирәкме?",
+        "a": "Әйе, бушлай. Аккаунт, теркәлү яки йөкләү кирәкми. Телефонда, планшетта яки компьютерда веб-браузерда эшли."
       }
     ]
   }

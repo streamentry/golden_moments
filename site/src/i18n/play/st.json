@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Bala ka lentsoe le phahameng",
+      "stopReading": "Emisa ho bala",
+      "region": "Papali",
+      "restart": "Qala hape",
+      "soundOn": "Medumo e bonolo e tsoe",
+      "soundOff": "Medumo e bonolo e thibile",
+      "done": "Ho phethile ha joale",
+      "feedbackQuestion": "Na sena se thusitse kajeno?",
+      "feedbackYes": "Ee",
+      "feedbackNo": "Hoo, ha ho joalo",
+      "feedbackThanks": "Ke leboha hore u re bolelletse."
+    },
+    "tile": {
+      "named": "{name}, sebaka sa {n}",
+      "hidden": "Setšoantšo se patiloeng, sebaka sa {n}",
+      "withState": "{label}, {state}",
+      "matched": "E tsamaisane",
+      "selected": "E khethiloe",
+      "picture": "Setšoantšo",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Dipaere kaofela di hammoho. Bapala hape kapa u phomole.",
+      "photoPair": "Paere ea lifoto, hammoho.",
+      "picturePair": "Lifoto tse peli tsa {name|lower}, hammoho.",
+      "selected": "{name}. Joale fumana setšoantšo sa eona.",
+      "mismatch": "Nka nako ea hao. Tobetsa setšoantšo ho tsoela pele.",
+      "mismatchNamed": "{a} le {b}. Nka nako ea hao. Tobetsa setšoantšo ho tsoela pele."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tobetsa setšoantšo, ebe u tobetsa se tšoanang le sona.",
+      "guidanceHidden": "Tobetsa libaka tse peli ho li fetola. Batla tse peli tse tšoanang.",
+      "restart": "Litšoantšo tse ncha",
+      "sizeLegend": "Libaka tse kae",
+      "size": {
+        "one": "{n} sebaka",
+        "other": "{n} libaka"
+      },
+      "viewLegend": "Mokhoa oa ho bapala",
+      "viewShowing": "Litšoantšo li bonahala",
+      "viewHidden": "Litšoantšo li patiloe",
+      "playAgain": "Bapala hape ka litšoantšo tse ncha",
+      "talk": "Bua ka litšoantšo hammoho"
+    },
+    "choose": {
+      "countLegend": "Litšoantšo tse kae",
+      "count": "{n} tse khethoang",
+      "thatOne": "Eo ke {name|lower}. Nka nako ea hao."
+    },
+    "findTheSame": {
+      "guidance": "Sheba setšoantšo se holimo. Tobetsa se tšoanang le sona se tlase.",
+      "yes": "Ee, {name|lower} e tšoanang.",
+      "next": "Setšoantšo se latelang"
+    },
+    "shadowMatch": {
+      "guidance": "Sheba moriti o holimo. Tobetsa setšoantšo se etsang moriti oo.",
+      "yes": "Ee, {name|lower} e etsa moriti oo.",
+      "next": "Moriti o latelang",
+      "shadowAlt": "Moriti oa ho tsamaisa",
+      "foundAlt": "Moriti oa {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tobetsa setšoantšo, ebe u tobetsa lenaka leo se leng ka lona.",
+      "restart": "Litšoantšo tse ncha",
+      "themeLegend": "Sehlooho",
+      "selected": "{name}. Joale tobetsa lenaka leo e leng la lona.",
+      "pickFirst": "Pele tobetsa setšoantšo, ebe u tobetsa lenaka.",
+      "hint": "{name|lower} e ka kena ka lenaka la \"{basket}\". Tobetsa lenaka leo ho e beha moo.",
+      "placed": "{name|lower} e lenakeng la \"{basket}\".",
+      "sorted": "Tsohle li arotsoe. Sheba lenaka ka lenaka hammoho, kapa leka sehlooho se seng.",
+      "basket": {
+        "one": "Lenaka la {basket}, setšoantšo se le {count} ka hare",
+        "other": "Lenaka la {basket}, litšoantšo tse {count} ka hare"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tobetsa karolo e le 'ngoe, ebe u tobetsa e 'ngoe. Li fetola sebaka.",
+      "restart": "Hlakola hape",
+      "pictureLegend": "Setšoantšo",
+      "pictures": {
+        "sailboat": "Sekepe",
+        "house": "Ntlo",
+        "balloon": "Balone",
+        "sunflower": "Sonobolo",
+        "lighthouse": "Lebone la leoatle",
+        "cat": "Katse"
+      },
+      "sizeLegend": "Likarolo",
+      "size": {
+        "one": "{n} karolo",
+        "other": "{n} likarolo"
+      },
+      "pickedUp": "Karolo e nkiloe. Joale tobetsa sebaka sa eona.",
+      "whole": "{name|lower} e felletse hape. Khetha setšoantšo se seng ha u rata.",
+      "swapped": {
+        "one": "Li fetotsoe. {correct} ho {total} karolo e sebakeng sa eona.",
+        "other": "Li fetotsoe. {correct} ho {total} likarolo lia sebakeng sa tsona."
+      },
+      "guideAlt": "Setšoantšo sohle: {name}",
+      "guideText": "Setšoantšo se shebahala joalo ha se felletse.",
+      "piece": "Karolo e sebakeng sa {place}",
+      "pieceInPlace": ", e sebakeng se nepahetseng",
+      "piecePickedUp": ", e nkiloe",
+      "places4": [
+        "holimo ho le letšehali",
+        "holimo ho le letona",
+        "tlase ho le letšehali",
+        "tlase ho le letona"
+      ],
+      "places9": [
+        "holimo ho le letšehali",
+        "holimo bohareng",
+        "holimo ho le letona",
+        "bohareng ho le letšehali",
+        "bohareng",
+        "bohareng ho le letona",
+        "tlase ho le letšehali",
+        "tlase bohareng",
+        "tlase ho le letona"
+      ],
+      "done": "Setšoantšo se felletse hape. Bapala hape kapa u phomole.",
+      "playAgain": "Hlakola hape"
+    },
+    "finishTheSaying": {
+      "guidance": "Balang polelo hammoho, ebe u tobetsa lentsoe le phethelang ho yona.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ee, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" le eona e loketse. Polelo e tloaelehileng e phetha ka \"{end}\".",
+      "revealed": "Polelo ke \"{start} {end}.\"",
+      "choicesLabel": "Khetha lentsoe la ho qetela",
+      "show": "Bontša qetello",
+      "talk": "Bua ka sona: ",
+      "next": "Polelo e latelang"
+    },
+    "wordSearch": {
+      "guidance": "Mantsoe a tsamaea ka lebelo kapa ka holimo-tlase. Tobetsa tlhaku ea pele ea lentsoe, ebe u tobetsa ea ho qetela.",
+      "restart": "Puzzle e ncha",
+      "themeLegend": "Sehlooho",
+      "sizeLegend": "Boholo ba lenane",
+      "size": {
+        "one": "{n} ka {n} ({words} lentsoe)",
+        "other": "{n} ka {n} ({words} mantsoe)"
+      },
+      "print": "Hatisa puzzle ena",
+      "letterChosen": "Tlhaku {letter} e khethiloe. Joale tobetsa tlhaku ea ho qetela ea lentsoe.",
+      "found": "{word} e fumanoe.",
+      "foundAll": "{word} e fumanoe. Ke mantsoe kaofela. Bapala hape kapa u phomole.",
+      "tryAgain": "Nka nako ea hao. Tobetsa tlhaku ea pele ea lentsoe, ebe u tobetsa ea ho qetela.",
+      "gridLabel": "Lenane la litlhaku, mela {n} ea litlhaku tse {n}. Sebelisa linotlolo tsa motsu ho tsamaea lipakeng tsa litlhaku.",
+      "cell": "{letter}, mola {row}, kholomo {col}",
+      "cellFound": ", karolo ea lentsoe le fumanoeng",
+      "wordsHeading": "Mantsoe a batloang",
+      "wordFound": " (e fumanoe)",
+      "sheetTitle": "Puzzle ea mantsoe: {theme}",
+      "sheetNote": "Mantsoe a tsamaea ka lebelo kapa ka holimo-tlase.",
+      "unavailable": "Lenane la litlhaku ha le loanele puo ena, kahoo puzzle ea mantsoe ha e fumanehe mona. Leka lipapali tsa litšoantšo."
+    },
+    "coloring": {
+      "guidance": "Tobetsa mmala, ebe u tobetsa karolo ea setšoantšo.",
+      "restart": "Hlakola mebala",
+      "cleared": "Leqephe le hlakile hape.",
+      "pageLegend": "Leqephe",
+      "print": "Hatisa leqephe lena",
+      "colorsLabel": "Mebala",
+      "paintChosen": "{paint} e khethiloe.",
+      "painted": "{part} e se e le {paint|lower}.",
+      "artLabel": "{page}, likarolo tse {count} tsa ho penta",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ha e so penteloe",
+      "paints": {
+        "red": "Khubelu",
+        "orange": "Lamunu",
+        "yellow": "Mosehla",
+        "green": "Botala",
+        "blue": "Putsoa",
+        "purple": "Pherese",
+        "pink": "Pinki",
+        "brown": "Bolou",
+        "sky-blue": "Putsoa ea leholimo",
+        "cream": "Lebese",
+        "gray": "Tšehla",
+        "white": "Tšoeu"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Bala karata ka lentsoe le phahameng. Ha ho na likarabo tse nepahetseng.",
+      "position": "Karata ea {n} ho {total}",
+      "themeLegend": "Sehlooho",
+      "next": "Karata e latelang",
+      "previous": "Karata e fetileng",
+      "print": "Hatisa likarata tsohle",
+      "sheetTitle": "Likarata tsa puisano"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Qala ka ho khetha lifoto tsa hao.",
+      "guidance": "Tobetsa foto, ebe u tobetsa e tšoanang le eona.",
+      "restart": "Li hlakole hape",
+      "intro": "**Khetha lifoto tse 2 ho tse 6** ho sesebelisoa sena. Li bontšoa leqepheng lena feela, ha li kenngoe kapa ho bolokoa.",
+      "choose": "Khetha lifoto",
+      "chooseDifferent": "Khetha lifoto tse ling",
+      "clear": "Hlakola lifoto",
+      "cleared": "Lifoto li hlakotsoe leqepheng lena.",
+      "atLeastTwo": "Ka kopo khetha lifoto tse ka bang peli ho fokolang.",
+      "usingFirst": "Ho sebelisoa lifoto tsa pele tse {max}.",
+      "skipped": {
+        "one": "Faele e le 'ngoe e ne e se foto eo re ka e bontšang.",
+        "other": "Lifaele tse {count} ha se lifoto tseo re ka li bontšang."
+      },
+      "playAgain": "Bapala hape ka lifoto tsena",
+      "empty": "Lifoto tsa hao li tla hlaha mona, e 'ngoe le e 'ngoe habeli."
+    },
+    "pictureBingo": {
+      "guidance": "Hatisa likarata pele. Joale bontša mohala ona sebakeng se seholo ka ho fetisisa seo u nang le sona.",
+      "called": {
+        "one": "{name}. Setšoantšo se le {called} ho {total} se bitsitsoe.",
+        "other": "{name}. Litšoantšo tse {called} ho {total} li bitsitsoe."
+      },
+      "start": "Tobetsa \"Setšoantšo se latelang\" ho bitsa setšoantšo sa pele.",
+      "restart": "Qala papali e ncha",
+      "squaresLegend": "Mahlakore a karata e 'ngoe",
+      "squares": "Mahlakore a {n} ({side} ka {side})",
+      "cardsLegend": "Likarata tse kae tse hatisoang",
+      "cards": {
+        "one": "{n} karata",
+        "other": "{n} likarata"
+      },
+      "print": {
+        "one": "Hatisa karata e {n} ea bingo",
+        "other": "Hatisa likarata tse {n} tsa bingo"
+      },
+      "ready": "E loketse ha u loketse",
+      "next": "Setšoantšo se latelang",
+      "allCalled": "Setšoantšo sohle se bitsitsoe",
+      "alreadyCalled": "Se bitsitsoe pele",
+      "sheetTitle": "Bingo ea litšoantšo · karata {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Hemela ha sekhahla se ntse se hola, 'me u hemisa ha se ntse se nyane. Se emisa ka boeona kamora mehemo e tšeletseng.",
+      "paceLegend": "Potlako",
+      "paceSlow": "Butle (metsotsoana e 5 ka mohato)",
+      "paceGentle": "Bonolo (metsotsoana e 4 ka mohato)",
+      "ready": "U ka qala ha u se u lokile",
+      "in": "Hema ka hare",
+      "hold": "Phomola",
+      "out": "Hema ka ntle",
+      "start": "Qala",
+      "stop": "Emisa",
+      "started": "U qalile. Hema ka hare ha sekhahla se hola.",
+      "stopped": "U emisitse.",
+      "finished": "Eo e ne e le mehemo e tšeletseng e butle. Qala hape ha u rata."
+    }
+  },
+  "pictures": {
+    "teacup": "Kopi ea tee",
+    "kettle": "Ketele",
+    "bread": "Bohobe",
+    "frying-pan": "Pane ea ho pheha e nang le lehe",
+    "cake": "Kuku ea letsatsi la tsoalo",
+    "sunflower": "Palesa ea letsatsi",
+    "tulip": "Tulipa e khubelu",
+    "watering-can": "Kene ea ho nosetsa",
+    "potted-plant": "Limela ka pitsa",
+    "tree": "Sefate",
+    "bird": "Nonyana lekhalong la sefate",
+    "butterfly": "Seboko",
+    "dog": "Ntja",
+    "cat": "Katse",
+    "fish": "Hlapi ea khauta",
+    "apple": "Apole e khubelu",
+    "pear": "Peari",
+    "strawberry": "Sitoberi",
+    "banana": "Banana",
+    "lemon": "Lemone",
+    "cherries": "Lichere",
+    "house": "Ntlo",
+    "lamp": "Lebone la tafoleng",
+    "armchair": "Setulo sa matsoho",
+    "key": "Senotlolo se khale",
+    "umbrella": "Seambrela",
+    "sailboat": "Sekepe",
+    "car": "Koloi ea khale",
+    "bicycle": "Baesekele",
+    "balloon": "Balune ea moea o chesang",
+    "lighthouse": "Lehaka la lebone",
+    "sun": "Letsatsi",
+    "moon": "Khoeli le linaleli",
+    "teapot": "Pitsa ea tee",
+    "apple-pie": "Pie ea apole",
+    "honey-jar": "Pitsana ea mahe a linotsi",
+    "boiled-egg": "Lehe sekotlolong sa lehe",
+    "toaster": "Toaster",
+    "cheese": "Seripa sa chisi",
+    "milk-jug": "Kannete ea lebese",
+    "cupcake": "Kuku e nyane",
+    "orange": "Lamunu",
+    "grapes": "Mohlape oa morara",
+    "watermelon": "Seripa sa phatekhe",
+    "pineapple": "Pinapole",
+    "peach": "Pitse",
+    "rose": "Rose",
+    "daisies": "Mahlaba",
+    "mushroom": "Mokhobe",
+    "wheelbarrow": "Wilebari",
+    "birdhouse": "Ntlo ea linonyana",
+    "cactus": "Kakese ka pitsa",
+    "acorn": "Acorn",
+    "autumn-leaf": "Lekhasi la hoetla",
+    "rabbit": "Potlana",
+    "duck": "Dake",
+    "hen": "Khoho",
+    "sheep": "Phofu",
+    "owl": "Oule",
+    "ladybird": "Ladybird",
+    "snail": "Snail",
+    "frog": "Chere",
+    "bee": "Pitsi",
+    "clock": "Clock ea setulo",
+    "vase-of-flowers": "Pitsa ea lipalesa",
+    "radio": "Seea-mafolofolo sa khale",
+    "books": "Libuka tse kopaneng",
+    "candle": "Kerese",
+    "glasses": "Liseiche tsa ho bala",
+    "telephone": "Fono",
+    "ball-of-wool": "Bolo ea boea",
+    "straw-hat": "Kepi ea letsatsi",
+    "train": "Terene ea mouoane",
+    "bus": "Bese",
+    "airplane": "Sefofane",
+    "suitcase": "Kofa ea leeto",
+    "tractor": "Thrakotara",
+    "rowing-boat": "Sekepe sa ho pesa",
+    "rainbow": "Lerata",
+    "rain-cloud": "Leru la pula",
+    "snowflake": "Lehloa",
+    "kite": "Kaete",
+    "sunrise": "Letsatsi le hlaha holim'a lithaba"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGHIKLMNOPRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Litholoana",
+          "words": [
+            "APOLE",
+            "PEARI",
+            "PULUMO",
+            "LEMONE",
+            "MORARA",
+            "PITSE",
+            "MELONE",
+            "LAIME",
+            "FIKO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Serapeng",
+          "words": [
+            "ROSE",
+            "TULIPA",
+            "PEO",
+            "SEFATE",
+            "METSI",
+            "PITSI",
+            "MOLAPO",
+            "LEHOLO",
+            "NOKA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kichine",
+          "words": [
+            "KOPI",
+            "SPUNE",
+            "BOHOBE",
+            "PANE",
+            "KOTLO",
+            "PLATE",
+            "TEE",
+            "OVENE",
+            "FOKO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Boemo ba leholimo",
+          "words": [
+            "KHANYA",
+            "PULA",
+            "LEHLOA",
+            "MOEA",
+            "LERU",
+            "SEFEFO",
+            "LEFIFI",
+            "BONOLO",
+            "PHEHO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Liphoofolo",
+          "words": [
+            "KATA",
+            "HLAPI",
+            "PERE",
+            "KHOMO",
+            "DAKE",
+            "POLI",
+            "KHOHO",
+            "PHOFU",
+            "TAU"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ntlo",
+          "words": [
+            "LEMATI",
+            "SETULO",
+            "LAMPE",
+            "BEDE",
+            "KOTARA",
+            "SOFA",
+            "KHLOKO",
+            "TAFOLE",
+            "KHIE"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Likarete tsohle",
+        "food": "Lijo",
+        "home": "Ntlo",
+        "outdoors": "Ka ntle",
+        "animals": "Liphoofolo",
+        "travel": "Ho etela",
+        "work": "Mosebetsi le lithabiso",
+        "music": "Mmino le thabo",
+        "seasons": "Linako"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ke monko ofe oa kichine o ratang ho feta ka ho fetisisa?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ke kuku efe eo u ka e khethang bakeng sa mokete?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ka kopo mpolelle ka pie kapa lijo tse monate tsa litholoana tseo u li ratang."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "U rata tee kapa kofi ka mokhoa ofe?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ke eng e etsang hore lijo tsa hoseng li be monate haholo?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Na u kile ua khetha litholoana ka kotloloho ho tsoa semeleng?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Ke ea bomong kapa ea monate: u rata ea efe ho feta?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ke lijo life tse nkang lehlabula ka tatso ea tsona?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Mpolelle ka ntlo eo u neng u e rata ho phela ho eona."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ke sebaka sefe seo u ratang ho ikhutsa ho sona?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "U rata ho etsa eng mantsiboeeng a khutsitseng?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ke ntho efe eo u ka e bolokang lebokoseng le khethehileng?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ke mang eo u ka mo memelang ho noa tee?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "U rata ho etsa eng letsatsing la pula?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "U ka jala lipalesa life serapeng?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Mpolelle ka sefate kapa paka eo u e ratang."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Ke karolo efe e molemo ka ho fetisisa ea ho ba serapeng?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "U rata lipalesa tse mebala efe ka ho fetisisa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "U rata ho ba le limela ka hare ntlong?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Letsatsi le phethehileng la hao le shebahala joang?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Mpolelle ka ntja eo u kileng ua e tseba."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Likatse kapa lintja, kapa ha ho le ka hona? U rata eng ho tsona?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Ke linonyana life tseo u li bonang kapa u li utloang ka ntle?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Na u kile ua tšoasa hlapi, kapa ua boloka tanka ea hlapi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ke phoofolo efe eo u e bonileng e le e khabane ka ho fetisisa?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Mpolelle ka koloi eo u neng u e rata."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Na u ka rata ho qeta letsatsi bopong la lewatle kapa lithabeng?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "U rata ho ea hokae ka baesekele?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Haeba u ka fofa holim'a sebaka sefe kapa sefe, e ka ba sefe?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ke leeto lefe leo u le thabileng?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "U rata mosebetsi oa mofuta ofe?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ke thabiso efe eo u ka e etsang lihora tse ngata?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ke ntho efe eo u neng u tsejoa ka ho e etsa kapa ho e lokisa?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "U ka fa motho e monyane ea qalang mosebetsi keletso efe?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ke mofuta ofe oa mmino o etsang hore u otle maoto?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ke eng e etsang hore mokete o be monate?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ke mohoebi ofe eo u ratang ho mo mamela?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ke filimi kapa thelevishene efe eo u ratang ho e shebella hape?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "U rata ka ho fetisisa eng ka lehlabula?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "U thabela eng ka hoetla?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ke ntho efe e monate ea ho etsa mariha bosiung?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Ke matšoao afe a pele a selemo ho uena?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Lehloa, pula kapa letsatsi: u khetha life?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Palesa ka pitsa",
+          "regions": {
+            "sky": "Mokhahlelo",
+            "table": "Tafole",
+            "stem": "Kutu",
+            "leaf-left": "Lekhasi la ka letšehali",
+            "leaf-right": "Lekhasi la ka ho le letona",
+            "petal-1": "Petale 1",
+            "petal-2": "Petale 2",
+            "petal-3": "Petale 3",
+            "petal-4": "Petale 4",
+            "petal-5": "Petale 5",
+            "petal-6": "Petale 6",
+            "petal-7": "Petale 7",
+            "petal-8": "Petale 8",
+            "center": "Bohareng ba palesa",
+            "pot": "Pitsa",
+            "pot-rim": "Molomo oa pitsa"
+          }
+        },
+        "house": {
+          "name": "Ntlo",
+          "regions": {
+            "sky": "Leholimo",
+            "sun": "Letsatsi",
+            "grass": "Joang",
+            "chimney": "Sechemi",
+            "walls": "Marako",
+            "roof": "Lerulo",
+            "door": "Monyako",
+            "window-left": "Fensetere ea ka letšehali",
+            "window-right": "Fensetere ea ka ho le letona",
+            "path": "Tsela"
+          }
+        },
+        "teacup": {
+          "name": "Kopi ea tee",
+          "regions": {
+            "background": "Mokhahlelo",
+            "saucer": "Sosa",
+            "handle": "Sebopa",
+            "cup": "Kopi",
+            "band": "Mola kopeng",
+            "tea": "Tee"
+          }
+        },
+        "butterfly": {
+          "name": "Seboko",
+          "regions": {
+            "background": "Mokhahlelo",
+            "wing-top-left": "Lebaba le holimo ka letšehali",
+            "wing-top-right": "Lebaba le holimo ka ho le letona",
+            "wing-bottom-left": "Lebaba le tlase ka letšehali",
+            "wing-bottom-right": "Lebaba le tlase ka ho le letona",
+            "spot-left": "Lentsoe la lebaba ka letšehali",
+            "spot-right": "Lentsoe la lebaba ka ho le letona",
+            "body": "Mmele"
+          }
+        },
+        "sailboat": {
+          "name": "Sekepe",
+          "regions": {
+            "sky": "Leholimo",
+            "sea": "Lewatle",
+            "sail-big": "Sail e kholo",
+            "sail-small": "Sail e nyane",
+            "mast": "Mopeta",
+            "hull": "Sekepe",
+            "flag": "Folaga"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kichine le serapeng",
+          "baskets": [
+            "Ka kichineng",
+            "Ka serapeng"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Litholoana le liphoofolo",
+          "baskets": [
+            "Litholoana",
+            "Liphoofolo"
+          ]
+        },
+        "home-travel": {
+          "label": "Ntlo le leeto",
+          "baskets": [
+            "Malapeng",
+            "Ka ntle ho ntlo"
+          ]
+        }
+      }
+    }
+  }
+}

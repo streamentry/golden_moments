@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "ብድምጺ ኣንብቡ",
+      "stopReading": "ንባብ ኣቁሙ",
+      "region": "ጸወታ",
+      "restart": "እንደገና ጀምሩ",
+      "soundOn": "ቀሊል ድምጺታት ኣብሩ",
+      "soundOff": "ቀሊል ድምጺታት ኣጥፍኡ",
+      "done": "ለአሁን ይኸውን",
+      "feedbackQuestion": "ዛሬ ነዚ ሓጋዚ ኮይኑ ድዩ?",
+      "feedbackYes": "እወ",
+      "feedbackNo": "ብዙሕ ኣይኮነን",
+      "feedbackThanks": "ስለ ዝነገርኩምና የቐንየለይ።"
+    },
+    "tile": {
+      "named": "{name}፣ ሰሌዳ {n}",
+      "hidden": "ዝተሸፈነ ስእሊ፣ ሰሌዳ {n}",
+      "withState": "{label}፣ {state}",
+      "matched": "ተመሳሲሉ",
+      "selected": "ተመርጹ",
+      "picture": "ስእሊ",
+      "photoNumber": "ፎቶ {n}"
+    },
+    "pairs": {
+      "allTogether": "ኩሎም ጥንድታት ተጣቢቖም። እንደገና ተጻወቱ ወይ ዕረፉ።",
+      "photoPair": "ጥንዲ ፎቶታት ብሓባር።",
+      "picturePair": "ክልተ ስእልታት {name|lower} ብሓባር።",
+      "selected": "{name}። ሕጂ ጥንዱ ድለዩ።",
+      "mismatch": "ብቐስታ ኩኑ። ንምቕጻል ስእሊ ጠውቑ።",
+      "mismatchNamed": "{a} ከምኡ'ውን {b}። ብቐስታ ኩኑ። ንምቕጻል ስእሊ ጠውቑ።"
+    },
+    "picturePairs": {
+      "guidanceShowing": "ስእሊ ጠውቑ፣ ድሕሪኡ ዝመሳሰሎ ጠውቑ።",
+      "guidanceHidden": "ክልተ ሰሌዳታት ንምግላብ ክልተ ጠውቑ። ክልተ ዝመሳሰሉ ድለዩ።",
+      "restart": "ሓድሽ ስእልታት",
+      "sizeLegend": "ስንቲ ሰሌዳታት",
+      "size": {
+        "one": "{n} ሰሌዳ",
+        "other": "{n} ሰሌዳታት"
+      },
+      "viewLegend": "ብኸመይ ክትጻወቱ",
+      "viewShowing": "ዝርአዩ ስእልታት",
+      "viewHidden": "ዝተሸፈኑ ስእልታት",
+      "playAgain": "ብሓድሽ ስእልታት እንደገና ተጻወቱ",
+      "talk": "ብዛዕባ ስእልታት ብሓባር ተዘራረቡ"
+    },
+    "choose": {
+      "countLegend": "ስንቲ ስእልታት",
+      "count": "ንምምራፅ {n} ኣሎ",
+      "thatOne": "እዚ {name|lower} ኢዩ። ብቐስታ ኩኑ።"
+    },
+    "findTheSame": {
+      "guidance": "ኣብ ላዕሊ ዘሎ ስእሊ ርአዩ። ኣብ ታሕቲ ዝርከብ ተመሳሳሊ ስእሊ ጠውቑ።",
+      "yes": "እወ፣ ተመሳሳሊ {name|lower} ኢዩ።",
+      "next": "ቀጺሉ ስእሊ"
+    },
+    "shadowMatch": {
+      "guidance": "ኣብ ላዕሊ ዘሎ ጸላል ርአዩ። ነቲ ጸላል ዝገብር ስእሊ ጠውቑ።",
+      "yes": "እወ፣ {name|lower} እቲ ጸላል ይገብር።",
+      "next": "ቀጺሉ ጸላል",
+      "shadowAlt": "ዘመሳስል ጸላል",
+      "foundAlt": "ጸላል {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "ስእሊ ጠውቑ፣ ድሕሪኡ ስእሊ ዝኸውን ቅርጫት ጠውቑ።",
+      "restart": "ሓድሽ ስእልታት",
+      "themeLegend": "ርእሰ ጉዳይ",
+      "selected": "{name}። ሕጂ ናይ ዝኣትዎ ቅርጫት ጠውቑ።",
+      "pickFirst": "ቀዳማይ ስእሊ ጠውቑ፣ ድሕሪኡ ቅርጫት ጠውቑ።",
+      "hint": "{name|lower} ኣብ \"{basket}\" ክኣቱ ይኽእል። ኣብኡ ንምእታው እቲ ቅርጫት ጠውቑ።",
+      "placed": "{name|lower} ኣብ \"{basket}\" ኣሎ።",
+      "sorted": "ኩሉ ተመዲቡ ኣሎ። ቅርጫታት ብሓባር ተመልከቱ ወይ ካልእ ርእሰ ጉዳይ ፈትኑ።",
+      "basket": {
+        "one": "ቅርጫት {basket}፣ ኣብ ውሽጡ {count} ስእሊ",
+        "other": "ቅርጫት {basket}፣ ኣብ ውሽጡ {count} ስእልታት"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "ሓደ ቁራጺ ጠውቑ፣ ድሕሪኡ ካልእ ጠውቑ። ቦታ ይቐያየራ።",
+      "restart": "እንደገና ኣቀላቕል",
+      "pictureLegend": "ስእሊ",
+      "pictures": {
+        "sailboat": "ጀልባ",
+        "house": "ቤት",
+        "balloon": "ፊኛ",
+        "sunflower": "ጸሓይ ኣበባ",
+        "lighthouse": "ዓምዲ ብርሃን",
+        "cat": "ድሙ"
+      },
+      "sizeLegend": "ቁራጺታት",
+      "size": {
+        "one": "{n} ቁራጺ",
+        "other": "{n} ቁራጺታት"
+      },
+      "pickedUp": "ቁራጺ ተወሲዱ። ሕጂ ናብ ዝኽእል ቦታ ጠውቑ።",
+      "whole": "{name|lower} ሕጂ ምሉእ ኢዩ። ዝደለኹምዎ ካልእ ስእሊ ምረፁ።",
+      "swapped": {
+        "one": "ተቐያዪሩ። {correct} ካብ {total} ቁራጺ ኣብ ቦታኡ ኣሎ።",
+        "other": "ተቐያዪሮም። {correct} ካብ {total} ቁራጺታት ኣብ ቦታኦም ኣለዉ።"
+      },
+      "guideAlt": "ምሉእ ስእሊ፡ {name}",
+      "guideText": "ስእሊ ምሉእ ምስ ኮነ ከምዚ ይመስል።",
+      "piece": "ቁራጺ ኣብ {place}",
+      "pieceInPlace": "፣ ኣብ ቦታኡ",
+      "piecePickedUp": "፣ ተወሲዱ",
+      "places4": [
+        "ላዕሊ ጸጋም",
+        "ላዕሊ የማን",
+        "ታሕቲ ጸጋም",
+        "ታሕቲ የማን"
+      ],
+      "places9": [
+        "ላዕሊ ጸጋም",
+        "ላዕሊ ማእከል",
+        "ላዕሊ የማን",
+        "ማእከላይ ጸጋም",
+        "ማእከል",
+        "ማእከላይ የማን",
+        "ታሕቲ ጸጋም",
+        "ታሕቲ ማእከል",
+        "ታሕቲ የማን"
+      ],
+      "done": "ስእሊ ሕጂ ምሉእ ኢዩ። እንደገና ተጻወቱ ወይ ዕረፉ።",
+      "playAgain": "እንደገና ኣቀላቕሉ"
+    },
+    "finishTheSaying": {
+      "guidance": "ብሓባር ምስላ ኣንብቡ፣ ድሕሪኡ ዝዛዝም ቃል ጠውቑ።",
+      "gap": " ",
+      "ending": "{end}።",
+      "yes": "እወ፣ \"{start} {end}።\"",
+      "otherEnding": "\"{word}\" ድማ ይሰርሕ። ዝለመደ ምስላ ብ\"{end}\" ይዛዝም።",
+      "revealed": "ምስላ \"{start} {end}።\" ኢዩ።",
+      "choicesLabel": "እቲ ደዃኒ ቃል ምረጹ",
+      "show": "ዝዛዝም ኣርእዩ",
+      "talk": "ብዛዕባኡ ተዘራረቡ፦ ",
+      "next": "ቀጺሉ ምስላ"
+    },
+    "wordSearch": {
+      "guidance": "ቃላት ብጎድን ወይ ብቑልቁል ይኸዱ። ቀዳማይ ፊደል ቃል ጠውቑ፣ ድሕሪኡ ደዃናይ ፊደል።",
+      "restart": "ሓድሽ ጸወታ",
+      "themeLegend": "ርእሰ ጉዳይ",
+      "sizeLegend": "ዓቕሊ ፍርጊ",
+      "size": {
+        "one": "{n} ብ {n} ({words} ቃል)",
+        "other": "{n} ብ {n} ({words} ቃላት)"
+      },
+      "print": "እዚ ጸወታ ኣትም",
+      "letterChosen": "ፊደል {letter} ተመሪጹ። ሕጂ ደዃናይ ፊደል ቃል ጠውቑ።",
+      "found": "{word} ተረኺቡ።",
+      "foundAll": "{word} ተረኺቡ። ኩሎም ቃላት ተረኺቦም። እንደገና ተጻወቱ ወይ ዕረፉ።",
+      "tryAgain": "ብቐስታ ኩኑ። ቀዳማይ ፊደል ቃል ጠውቑ፣ ድሕሪኡ ደዃናይ ፊደል።",
+      "gridLabel": "ፍርጊ ፊደላት፣ {n} ሓራት ብ {n} ፊደላት። ብቐስታት ብዛ ፊደላት ተንቀሳቐሱ።",
+      "cell": "{letter}፣ ሓራ {row}፣ ዓምዲ {col}",
+      "cellFound": "፣ ካብ ዝተረኸበ ቃል",
+      "wordsHeading": "ዝርከቡ ቃላት",
+      "wordFound": " (ተረኺቡ)",
+      "sheetTitle": "ቃላት ምድላይ፡ {theme}",
+      "sheetNote": "ቃላት ብጎድን ወይ ብቑልቁል ይኸዱ።",
+      "unavailable": "ፍርጊ ፊደላት ንዚ ቋንቋ ኣይሰማማዕን እዩ፣ ስለዚ ኣብዚ ቃላት ምድላይ ኣይቐርብን። ብኡ ኣቢሉ ናይ ስእሊ ጸወታታት ፈትኑ።"
+    },
+    "coloring": {
+      "guidance": "ሓደ ቀለም ጠውቑ፣ ድሕሪኡ ሓደ ክፋል ስእሊ ጠውቑ።",
+      "restart": "ቀለማት ኣጽርዩ",
+      "cleared": "ገጹ ሕጂ ባዶ ኢዩ።",
+      "pageLegend": "ገጽ",
+      "print": "እዚ ገጽ ኣትም",
+      "colorsLabel": "ቀለማት",
+      "paintChosen": "{paint} ተመሪጹ።",
+      "painted": "{part} ሕጂ {paint|lower} ኢዩ።",
+      "artLabel": "{page}፣ {count} ክፋላት ንምልዓል",
+      "partPainted": "{part}፣ {paint|lower}",
+      "partBlank": "{part}፣ ዘይተቐብዐ",
+      "paints": {
+        "red": "ቀይሕ",
+        "orange": "ብርትኳናማ",
+        "yellow": "ቢጫ",
+        "green": "ኣረንጓዴ",
+        "blue": "ሰማያዊ",
+        "purple": "ሓምራዊ",
+        "pink": "ሮዝ",
+        "brown": "ቡናማ",
+        "sky-blue": "ሰማይ ሰማያዊ",
+        "cream": "ክሬም",
+        "gray": "ግራጫ",
+        "white": "ጻዕዳ"
+      }
+    },
+    "conversationCards": {
+      "guidance": "ካርዲ ብድምጺ ኣንብቡ። ቅኑዕ መልሲ የለን።",
+      "position": "ካርድ {n} ካብ {total}",
+      "themeLegend": "ርእሰ ጉዳይ",
+      "next": "ቀጺሉ ካርድ",
+      "previous": "ቀዳማይ ካርድ",
+      "print": "ኩሎም ካርድታት ኣትም",
+      "sheetTitle": "ካርድታት ዘረባ"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "ቀዳማይ ፎቶታትኩም ብምምራፅ ጀምሩ።",
+      "guidance": "ፎቶ ጠውቑ፣ ድሕሪኡ ዝመሳሰሎ ጠውቑ።",
+      "restart": "እንደገና ኣቀላቕሎም",
+      "intro": "**ካብዚ መሳርሒ ካብ 2 ክሳብ 6 ፎቶታት ምረፁ።** ኣብዚ ገጽ ጥራይ ይርአ፣ ኣይጽዓንን ኣይዓቀበን።",
+      "choose": "ፎቶታት ምረፁ",
+      "chooseDifferent": "ካልኦት ፎቶታት ምረፁ",
+      "clear": "ፎቶታት ኣጽርዩ",
+      "cleared": "ፎቶታት ካብዚ ገጽ ተጸሪዮም።",
+      "atLeastTwo": "በጃኹም ብዝተሓተ ክልተ ፎቶታት ምረፁ።",
+      "usingFirst": "ናይ ቀዳሞም {max} ፎቶታት ንጥቀም ኣሎና።",
+      "skipped": {
+        "one": "{count} ፋይል ፎቶ ዘይኮነ ስለዝኾነ ኣይርአን።",
+        "other": "{count} ፋይላት ፎቶ ዘይኮኑ ስለዝኾኑ ኣይርአዩን።"
+      },
+      "playAgain": "ብዚ ፎቶታት እንደገና ተጻወቱ",
+      "empty": "ፎቶታትኩም ኣብዚ ክርአ እዩ፣ ነፍሲ ሓደ ክልተ ግዜ።"
+    },
+    "pictureBingo": {
+      "guidance": "መጀመርያ ካርድታት ኣትሙ። ድሕሪኡ እዚ ጸዊዑ ዝርአ ዓቢ ስክሪን ኣብ ዘለካ ኣርእዮ።",
+      "called": {
+        "one": "{name}። {called} ካብ {total} ስእሊ ተጸዊዑ።",
+        "other": "{name}። {called} ካብ {total} ስእልታት ተጸዊዖም።"
+      },
+      "start": "መጀመርያ ስእሊ ንምጽዋዕ \"ቀጺሉ ስእሊ\" ጠውቑ።",
+      "restart": "ሓድሽ ጸወታ ጀምሩ",
+      "squaresLegend": "ኣብ ነፍሲ ካርድ ዝርከቡ ካሬታት",
+      "squares": "{n} ካሬታት ({side} ብ {side})",
+      "cardsLegend": "ስንቲ ካርድታት ኣትም",
+      "cards": {
+        "one": "{n} ካርድ",
+        "other": "{n} ካርድታት"
+      },
+      "print": {
+        "one": "ካርድ ቢንጎ {n} ኣትም",
+        "other": "ካርድታት ቢንጎ {n} ኣትም"
+      },
+      "ready": "ዝደለኹም ግዜ ድሉው ኢና",
+      "next": "ቀጺሉ ስእሊ",
+      "allCalled": "ኩሎም ስእልታት ተጸዊዖም",
+      "alreadyCalled": "ቀዲሙ ተጸዊዑ",
+      "sheetTitle": "ስእል ቢንጎ · ካርድ {n}"
+    },
+    "calmBreathing": {
+      "guidance": "ክበቡ ኣብ ዝዓቢ ግዜ ትንፋስ ስሓቡ፣ ኣብ ዝንእስ ግዜ ድማ ትንፋስ ፍሰሱ። ድሕሪ ሽድሽተ ትንፋሳት ብባዕሉ ይቁም።",
+      "paceLegend": "ፍጥነት",
+      "paceSlow": "ዝድሓን (5 ሰከንድ ኣብ ነፍሲ ወከፍ ወገን)",
+      "paceGentle": "ሰላማዊ (4 ሰከንድ ኣብ ነፍሲ ወከፍ ወገን)",
+      "ready": "ድልዋን ምስ ኮንኩም",
+      "in": "ትንፋስ ስሓቡ",
+      "hold": "ዕረፉ",
+      "out": "ትንፋስ ፍሰሱ",
+      "start": "ጀምሩ",
+      "stop": "ኣቁሙ",
+      "started": "ጀሚርኩም። ክበቡ ዝዓቢ ከሎ ትንፋስ ስሓቡ።",
+      "stopped": "ቆሚኹም።",
+      "finished": "ሽድሽተ ዝድሓን ትንፋሳት ነይርኩም። ኣብ ዝደለኹምዎ ግዜ ደጊምኩም ጀምሩ።"
+    }
+  },
+  "pictures": {
+    "teacup": "ኩባያ ሻሂ",
+    "kettle": "ድስቲ ማይ",
+    "bread": "ዳቦ",
+    "frying-pan": "ምጣድ ብእንቁላል",
+    "cake": "ኬክ ልደት",
+    "sunflower": "ኣበባ ፀሓይ",
+    "tulip": "ቱሊፕ ቀይሕ",
+    "watering-can": "ማፍሰሲ ማይ",
+    "potted-plant": "ኣትክልቲ ኣብ ድስቲ",
+    "tree": "ዛፊ",
+    "bird": "ዓፋ ኣብ ቅርንጫፍ",
+    "butterfly": "ቢራቢሮ",
+    "dog": "ከልቢ",
+    "cat": "ድሙ",
+    "fish": "ዓሳ ወርቂ",
+    "apple": "ፖም ቀይሕ",
+    "pear": "ዕንቁ",
+    "strawberry": "ስትራውበሪ",
+    "banana": "ሙዝ",
+    "lemon": "ሎሚ",
+    "cherries": "ቼሪ",
+    "house": "ገዛ",
+    "lamp": "መብራሕ ጠረጴዛ",
+    "armchair": "ወንበር",
+    "key": "ቁልፊ",
+    "umbrella": "ጃንጥላ",
+    "sailboat": "መርከብ ሸራ",
+    "car": "መኪና",
+    "bicycle": "ብስክሌት",
+    "balloon": "ፊኛ ብሞቕ ኣየር",
+    "lighthouse": "ቤት ብርሃን",
+    "sun": "ጸሓይ",
+    "moon": "ወርሒን ከዋኽብቲን",
+    "teapot": "ድስቲ ሻሂ",
+    "apple-pie": "ፓይ ፖም",
+    "honey-jar": "ዓቅሚ ማር",
+    "boiled-egg": "እንቁላል ኣብ ዓቅሚ",
+    "toaster": "ቶስተር",
+    "cheese": "ኣይብ",
+    "milk-jug": "ዓቅሚ ወተት",
+    "cupcake": "ኬክ ንኢሽ",
+    "orange": "ብርትኳን",
+    "grapes": "ዓጽፊ ወይኒ",
+    "watermelon": "ሓብሓብ ቁራጽ",
+    "pineapple": "ኣናናስ",
+    "peach": "ኮክ",
+    "rose": "ጽጌረዳ",
+    "daisies": "ኣበባ ዳይዚ",
+    "mushroom": "ፈንገስ",
+    "wheelbarrow": "ጋሪ",
+    "birdhouse": "ቤት ዓፋ",
+    "cactus": "ቁልቋል ኣብ ድስቲ",
+    "acorn": "ኣኮርን",
+    "autumn-leaf": "ቅጠል ክሰመት",
+    "rabbit": "ጥንቸል",
+    "duck": "ዳክዬ",
+    "hen": "ዶሮ",
+    "sheep": "በግዒ",
+    "owl": "ጉጉት",
+    "ladybird": "ጥንዚዛ ቀይሕ",
+    "snail": "ኣውጣ ቀንድ",
+    "frog": "ሓምበሪ",
+    "bee": "ንቢ",
+    "clock": "ሰዓት",
+    "vase-of-flowers": "ዓቅሚ ኣበባ",
+    "radio": "ራዲዮ",
+    "books": "መጻሕፍቲ ክምር",
+    "candle": "ሻማ",
+    "glasses": "መነጽር",
+    "telephone": "ቴሌፎን",
+    "ball-of-wool": "ጥሕሊ ሱፍ",
+    "straw-hat": "ባርኔጣ",
+    "train": "ባቡር",
+    "bus": "ኣውቶቡስ",
+    "airplane": "ኣውሮፕላን",
+    "suitcase": "ሻንጣ",
+    "tractor": "ትራክተር",
+    "rowing-boat": "መርከብ መቕዘፊ",
+    "rainbow": "ቀስተ ደመና",
+    "rain-cloud": "ደመና ዝናብ",
+    "snowflake": "ቁራጽ በረዶ",
+    "kite": "ካይት",
+    "sunrise": "ጸሓይ ምውጻእ ኣብ ጎባጥ"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ሀለመረሰበነከወገፈቀተዘ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "ፍራፍሬ",
+          "words": [
+            "ማንጎ",
+            "ወይኒ",
+            "ኣናናስ",
+            "ሓብሓብ",
+            "ብርትኳን",
+            "ኣቮካዶ",
+            "ኮኮናት",
+            "ሮማን",
+            "ተምር"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "ዓጸድ",
+          "words": [
+            "ጽጌረዳ",
+            "ቱሊፕ",
+            "ዘርኢ",
+            "ኣፈር",
+            "ቅጠል",
+            "ኣትክልቲ",
+            "ዓጸድ",
+            "ድስቲ",
+            "ቅርንጫፍ"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "ኩሽና",
+          "words": [
+            "ኩባያ",
+            "ማንኪያ",
+            "እንጀራ",
+            "ምጣድ",
+            "ሳሕን",
+            "ሰሓን",
+            "ምድፊት",
+            "ጀበና",
+            "ፍሪጅ"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "ኣየር ኩነታት",
+          "words": [
+            "ጸሓይ",
+            "ዝናብ",
+            "በረዶ",
+            "ነፋስ",
+            "ደመና",
+            "ማዕበል",
+            "ጭጋግ",
+            "ሙቐት",
+            "ቀዝቃዛ"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "ኣራዊት",
+          "words": [
+            "ከልቢ",
+            "ኣንበሳ",
+            "ኣዕዋፍ",
+            "ሽኮኮ",
+            "ፈረስ",
+            "ላሕሚ",
+            "ዳክዬ",
+            "ፍየል",
+            "ጦጢት"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "ገዛ",
+          "words": [
+            "ኣፍደገ",
+            "ወንበር",
+            "መብራሕ",
+            "ኣልጋ",
+            "ምንጣፍ",
+            "ሰዓት",
+            "ጠረጴዛ",
+            "ቁልፊ",
+            "ግድግዳ"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "ኩሉ ካርዲ",
+        "food": "ምግቢ",
+        "home": "ገዛ",
+        "outdoors": "ወጻኢ",
+        "animals": "ኣራዊት",
+        "travel": "ጉዕዞ",
+        "work": "ስራሕን ተግባራትን",
+        "music": "ሙዚቃን ሓጎስን",
+        "seasons": "ወቕቲ ዓመት"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "ኣብ ኩሽና ዝፈቱዎ ሽታ እንታይ እዩ፧"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "ንበዓል ዝመረጹት ዓይነት ኬክ እንታይ እዩ፧"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "ዝፈቱዎ ፍረ ዘለዎ ፓይ ወይ ጣፋጭ ንገሩኒ።"
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "ሻሂ ወይ ቡን ብኸመይ ትፈቱዎ፧"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "ጽቡቕ ቁርሲ ዝገብር እንታይ እዩ፧"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "ፍረ ብቐጥታ ካብ ዕፅዊ ቀቲፍኩም ዀይንኩም ዲኹም፧"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "ጥዑም ወይ ኮምጣጥ፧ ዝያዳ ዝፈቱዎ እንታይ እዩ፧"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "ከም ክረምቲ ዝስምዖም ምግቢ እንታይ እዩ፧"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "ብዛዕባ ዝነበርኩምሉ ዝፈቱዎ ገዛ ንገሩኒ።"
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "ዝፈቱዎ ቦታ ንምቕማጥን ንምዕራፍን ኣበይ እዩ፧"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "ኣብ ጸጥታዊ ምሸት እንታይ ምግባር ትፈቱ፧"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "ኣብ ፍሉይ ሳጹን ክትሕዝዎ ትደልዩ ዝኾነ ዋጋ ዘለዎ ነገር እንታይ እዩ፧"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "ንሻሂ ኣብ ቤትኩም ክትጽውዕዎ ትደልዩ ሰብ መን እዩ፧"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "ኣብ ዝዘንበበሉ መዓልቲ እንታይ ምግባር ትፈቱ፧"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "ኣብ ዓጸድ ኣየነት ኣበባ ክትዘርኡ ትደልዩ፧"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "ብዛዕባ ዝፈቱዎ ዛፊ ወይ ፓርክ ንገሩኒ።"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "ኣብ ዓጸድ ምህላው ዝበለጸ ክፋል እንታይ እዩ፧"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "ዝበለጸ ዝፈቱዎ ሕብሪ ኣበባ እንታይ እዩ፧"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "ኣብ ገዛ ኣትክልቲ ምህላው ትፈቱዎ ዲኹም፧"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "ፍጹም ጸሓያም መዓልቲ ኣብ ሓሳብኩም እንታይ ይመስል፧"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "ብዛዕባ ዝፈለጥኩምዎ ከልቢ ንገሩኒ።"
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "ድሙ ወይ ከልቢ፣ ወይ ኣየናይ ውን ኣይኮነን፧ ብኸመይ ትፈቱዎም፧"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "ኣብ ወጻኢ ኣየናይ ኣዕዋፍ ትርእዩ ወይ ትሰምዑ፧"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "ዓሳ ምግዳፍ ወይ ኣብ ቤት ናይ ዓሳ ጎድጓድ ሒዝኩም ፈሊጥኩም ዲዩ፧"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "ዝበለጸ ውበት ዘለዎ ኣራዊት ዝረኣኩምዎ እንታይ እዩ፧"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "ብዛዕባ ዝፈተኩምዎ መኪና ንገሩኒ።"
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "መዓልቲ ኣብ ጠፍሪ ባሕሪ ወይ ኣብ ኣኽራን ምውዓል ትመርጹ ዲኹም፧"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "ብብስክሌት ኣበይ ክትከዱ ትደልዩ፧"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "ኣብ ዝደለኹምዎ ቦታ ብፊኛ ክትበርሩ እንተ ዀንኩም ኣበይ ይኸውን፧"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "ዝፈተኩምዎ ጉዕዞ እንታይ ነበረ፧"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "ዝፈተኩምዎ ዓይነት ስራሕ እንታይ ነበረ፧"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "ሰዓታት ክትሰርሕሉ ዝኽእል ዝፈቱዎ ሓደ ተግባር እንታይ እዩ፧"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "ብምስራሕ ወይ ብምጽጋን ዝፍለጥኩምሉ ነገር እንታይ ነበረ፧"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "ስራሕ ንዝጅምር ንወጣት እንታይ ምኽሪ ክትህቡ ትደልዩ፧"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "ኣእጋርኩም ክትንቀጥቀጡ ዝገብር ዓይነት ሙዚቃ እንታይ እዩ፧"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "ጽቡቕ ፓርቲ እንታይ ይገብሮ፧"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "ንምስማዕ ዝፈቱዎ ዘፋኒ መን እዩ፧"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "ንድጊም ንምርኣይ ዝፈቱዎ ፊልም ወይ ተኸታታሊ ፕሮግራም እንታይ እዩ፧"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "ብዛዕባ ሓጋይ ዝበለጸ ዝፈቱዎ እንታይ እዩ፧"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "ብዛዕባ ክሰመት እንታይ ዝፈቱዎ፧"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "ኣብ ክረምቲ ምሸት ምቹ ዝኾነ ነገር እንታይ ምግባር ትፈቱ፧"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "ንዓኹም ቀዳማይ ምልክታት ጸደይ እንታይ እዮም፧"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "በረዶ፣ ዝናብ ወይ ጸሓይ፧ እንታይ ትመርጹ፧"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "ኣበባ ኣብ ድስቲ",
+          "regions": {
+            "sky": "ዳራ",
+            "table": "ጠረጴዛ",
+            "stem": "ግንዲ",
+            "leaf-left": "ግራ ቅጠል",
+            "leaf-right": "የማን ቅጠል",
+            "petal-1": "ቅጠል ኣበባ 1",
+            "petal-2": "ቅጠል ኣበባ 2",
+            "petal-3": "ቅጠል ኣበባ 3",
+            "petal-4": "ቅጠል ኣበባ 4",
+            "petal-5": "ቅጠል ኣበባ 5",
+            "petal-6": "ቅጠል ኣበባ 6",
+            "petal-7": "ቅጠል ኣበባ 7",
+            "petal-8": "ቅጠል ኣበባ 8",
+            "center": "ማእከል ኣበባ",
+            "pot": "ድስቲ",
+            "pot-rim": "ጠርዚ ድስቲ"
+          }
+        },
+        "house": {
+          "name": "ገዛ",
+          "regions": {
+            "sky": "ሰማይ",
+            "sun": "ጸሓይ",
+            "grass": "ሳር",
+            "chimney": "ጭስ መውጽኢ",
+            "walls": "ግድግዳታት",
+            "roof": "ጣራ",
+            "door": "ኣፍደገ",
+            "window-left": "ግራ መስኮት",
+            "window-right": "የማን መስኮት",
+            "path": "ጎደና"
+          }
+        },
+        "teacup": {
+          "name": "ኩባያ ሻሂ",
+          "regions": {
+            "background": "ዳራ",
+            "saucer": "ሳውሰር",
+            "handle": "መኽተፊ",
+            "cup": "ኩባያ",
+            "band": "መስመር ኣብ ኩባያ",
+            "tea": "ሻሂ"
+          }
+        },
+        "butterfly": {
+          "name": "ቢራቢሮ",
+          "regions": {
+            "background": "ዳራ",
+            "wing-top-left": "ላዕላዋይ ግራ ክንፊ",
+            "wing-top-right": "ላዕላዋይ የማን ክንፊ",
+            "wing-bottom-left": "ታሕታዋይ ግራ ክንፊ",
+            "wing-bottom-right": "ታሕታዋይ የማን ክንፊ",
+            "spot-left": "ነጥቢ ኣብ ግራ ክንፊ",
+            "spot-right": "ነጥቢ ኣብ የማን ክንፊ",
+            "body": "ሰውነት"
+          }
+        },
+        "sailboat": {
+          "name": "መርከብ ሸራ",
+          "regions": {
+            "sky": "ሰማይ",
+            "sea": "ባሕሪ",
+            "sail-big": "ዓቢ ሸራ",
+            "sail-small": "ንኢሽ ሸራ",
+            "mast": "ዓምዲ",
+            "hull": "ኣካል መርከብ",
+            "flag": "ባንዴራ"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "ኩሽናን ዓጸድን",
+          "baskets": [
+            "ኣብ ወጥሒ ቤት",
+            "ኣብ ኣትክልቲ"
+          ]
+        },
+        "fruit-animals": {
+          "label": "ፍርያትን እንስሳትን",
+          "baskets": [
+            "ፍሬ",
+            "እንስሳት"
+          ]
+        },
+        "home-travel": {
+          "label": "ቤትን ጉዕዞን",
+          "baskets": [
+            "ኣብ ቤት",
+            "ናብ ወጻኢ"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Eja ho litaba tse ka sehloohong",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Mesebetsi ea dementia",
+    "homeLabel": "Lehae la Golden Moments",
+    "mainNav": "Tse ka sehloohong",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Sesotho",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: linepe tse kholo le tse monate tsa kopi ea tee, letsatsi le ntja",
+    "languages": "Puo",
+    "englishOnly": "(Senyesemane)",
+    "machineTranslated": "Leqephe lena le fetoletsoe ka mochine, 'me ha ho motho ea buang puo ea habo ea le hlahlobileng hona joale.",
+    "readOriginal": "Bala tokomane ea pele ka Senyesemane",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Lipapali",
+      "activities": "Mesebetsi",
+      "caregiving": "Tlhokomelo",
+      "brainHealth": "Bophelo ba kelello"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Lipotso le likarabo",
+    "breadcrumb": "Tsela ea mehato",
+    "home": "Lehae",
+    "lastUpdated": "E ntlafalitsoe ka ho fetisisa",
+    "topics": "Lihlooho",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Boholo ba mongolo",
+      "smaller": "Mongolo o tloaelehileng",
+      "larger": "Mongolo o moholo",
+      "contrast": "Ho khanya ho phahameng"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Bapala",
+    "picturePairs": "Lipaere tsa linepe",
+    "conversationCards": "Likarolo tsa puisano",
+    "pictureBingo": "Bingo ea linepe",
+    "allGames": "Lipapali tsohle",
+    "pictures": "Linepe tsa ho hatisa",
+    "activityIdeas": "Maikutlo a mesebetsi",
+    "ideas101": "Maikutlo a mesebetsi a 101",
+    "lateStage": "Mesebetsi ea mohato oa morao",
+    "printable": "Mesebetsi ea ho hatisoa",
+    "allActivities": "Mesebetsi eohle",
+    "forCaregivers": "Bakeng sa bahlokomeli",
+    "playTogether": "Mokhoa oa ho bapala hammoho",
+    "selfCare": "Ho itlhokomela",
+    "brainHealth": "Lipatlisiso tsa bophelo ba kelello",
+    "faq": "Lipotso le likarabo",
+    "about": "Ka rona",
+    "approach": "Mokhoa oa rona",
+    "howWeWrite": "Kamoo re ngolang ka teng",
+    "organizations": "Bakeng sa mekhatlo",
+    "app": "Application ea Golden Moments",
+    "appHelp": "Thuso ea application",
+    "support": "Tšehetso",
+    "legal": "Molao",
+    "sitePrivacy": "Lekunutu la webosaete",
+    "appPrivacy": "Leano la lekunutu la application",
+    "privacyChoices": "Likhetho tsa lekunutu",
+    "terms": "Melao le laesense ea application",
+    "safety": "Polokeho le merero e reretsoeng",
+    "accessibility": "Ho fumana habonolo",
+    "healthNotice": "Tsebiso ea tlhaiso-leseling ea bophelo",
+    "allLegal": "Tlhaiso-leseling eohle ea molao",
+    "note": "Golden Moments e fana ka mesebetsi e bonolo ea ho bapala hammoho bakeng sa thabo. Ha se keletso ea bongaki, ha se tlhahlobo, leha e le kalafo, 'me ha e hlahlobe, e lekanye kapa e fane ka linotlolo ho motho ofe kapa ofe. Bakeng sa lipotso tsa bophelo, buisana le ngaka. Maemong a tšohanyetso, letsetsa 112.",
+    "publisher": "E phatlalalitsoe ke Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Lipapali le mesebetsi ea Dementia le Alzheimer's | Golden Moments",
+    "description": "Lipapali tsa linepe tse bonolo, tse bolokang khutso, tse bapaloang marang-rang ka mahala, le maikutlo a mesebetsi bakeng sa batho ba phelang le dementia kapa Alzheimer's le bahlokomeli ba bona. Ha ho ngolisoa, ha ho nako kapa linotlolo.",
+    "eyebrow": "Mahala · Ha ho lipapatso · Ha ho ngoliso · Ha ho nako kapa linotlolo",
+    "h1": "Lipapali tse bolokang khutso le mesebetsi bakeng sa batho ba nang le dementia",
+    "lede": "Lipapali tse bonolo tsa linepe, linepe tse tsebahalang, le mesebetsi eo le ka e thabelang hammoho—ka lebelo la lona.",
+    "playGame": "Bapala papali",
+    "findIdeas": "Fumana maikutlo a mesebetsi",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "E sebetsa ka selefouno, ka tablet le ka komporo",
+      "Linepe tse kholo tse lulang li hlaha",
+      "Emisa neng kapa neng; ha ho letho le lokelang ho hlola"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Ke application e mahala ea iPhone, iPad le Android, e nang le linepe tsa lelapa la hao",
+    "albumNote": "“Linepe tse peli tsa kopi ea tee, li hammoho.”",
+    "gamesEyebrow": "Bapala ka browser",
+    "gamesTitle": "Lipapali tseo u ka li bapalang hona joale",
+    "gamesLede": "E 'ngoe le e 'ngoe e bolokehile, e batho ba baholo 'me e qala kapele. Khetha e le 'ngoe, lehlanye ka thoko, 'me le nke lihato ho tobetsa.",
+    "seeAllGames": "Bona lipapali tsohle tse {count}",
+    "howTitle": "Se sebetsa joang",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Khetha ntho e tsebahalang",
+        "text": "Linepe tsa likopi tsa tee, mabala, liphoofolo le likoloi tsa metsing. Ha ho hlokahale ho bala kapa ho ithuta melao pele."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Lehlanye ka thoko",
+        "text": "Le lumelle ba tobetse. Buisanang ka linepe. Ha pikitlo e sa tšoane e emela ho tobetsa ho latelang feela."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Emisa ha ho ntse ho monate",
+        "text": "Papali e le 'ngoe ke mosebetsi o felletseng. “Ho tšoarella ha joale” ho lula ho le skrineng."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Kantle ho skrine",
+    "stageTitle": "Maikutlo a mesebetsi bakeng sa mehato eohle",
+    "stageLede": "Mmino, mesebetsi ea letsatsi le letsatsi, ho hopola le metsoako e bonolo ea maikutlo, e lokisitsoe ho ya ka se monate hona joale.",
+    "ideas101": "Maikutlo a mesebetsi a 101",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Mohato oa pele",
+        "text": "Tsoelang pele ho etsa seo ba se ratang, ka liphetoho tse nyane: libaka tsa thabo, mekhahlelo, lipapali tsa mantsoe le ho rera hammoho.",
+        "label": "Maikutlo a mohato oa pele"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Mohato o bohareng",
+        "text": "Mesebetsi e bonolo le e tloaelehileng e arotsoe ka mehato: ho paka liaparo, ho arola, mmino, lipapali tsa linepe le mekhahlelo e mekhutšoanyane.",
+        "label": "Maikutlo a mohato o bohareng"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Mohato oa morao",
+        "text": "Khutso le kopano ka ho ama, molumo le pono: tlhokomelo ea matsoho, lipina tse ratoang, linepe le ho ba hammoho.",
+        "label": "Maikutlo a mohato oa morao"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Na u batla ntho e itseng? Leka <a href=\"/activities/alzheimers/\">mesebetsi le lipapali tsa Alzheimer's</a>, <a href=\"/activities/memory-games/\">lipapali tse bonolo tsa ho hopola</a>, <a href=\"/activities/trivia/\">lipotso tse bonolo tsa tsebo</a> kapa <a href=\"/activities/puzzles/\">lipapali tsa mathata</a>.",
+    "approachEyebrow": "Mokhoa oa rona",
+    "approachTitle": "Mosebetsi o mong oa kopano, eseng teko ea mohopolo",
+    "approachLede": "Lipapali tse ngata tsa “kelello” li hahiloe ho potlaka, linotlolo le ho tsoela pele ka tatellano. Bakeng sa motho ea phelang le dementia sena se ka bonahala e le tlhahlobo. Rona re entse ka tsela e fapaneng.",
+    "approachLink": "Hobaneng re rera ka tsela ena",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ha ho letho le lokelang ho hlola",
+        "text": "Ha ho nako, ha ho linotlolo, ha ho lipatlisiso kapa ho hlōla. Setšoantšo se fapaneng ke phomolo, eseng phoso."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Linepe li lula li hlaha",
+        "text": "Ho tseba ho feta ho hopola. Ho kopanya ho qala ka sefahleho se hodimo, kahoo ha ho letho le lokelang ho hopolwa."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Ea batho ba baholo le ea hlompheha",
+        "text": "Mantsoe a bonolo, a hlakileng le linepe tsa lefatše la sebele. Ha ho lipoleiti kapa puo ea bana."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Lekunutu ka moralo",
+        "text": "Ha ho akhaonte kapa lipapatso. Linepe tsa hao ha li tlohe sebakeng sa hao."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Bakeng sa bahlokomeli",
+    "guidesTitle": "Litataiso tsa tlhokomelo ea letsatsi le letsatsi",
+    "allCaregiving": "Litataiso tsohle tsa tlhokomelo",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Mokhoa oa ho bapala lipapali hammoho",
+        "text": "Ho itokisa, lebelo, le seo u lokelang ho se etsa ha papali e se e sa monate."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Ha ba re ke ke ho mosebetsi",
+        "text": "Mabaka a atileng a ho hana, le mekhoa e bonolo ea ho leka hape ka nako e tlang."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Ho seta tablet",
+        "text": "Mongolo o moholo, ho nyenyefatsoa ho fokolang le skrine e le 'ngoe e bonolo ea lehae."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Mesebetsi ea mahala ea ho hatisoa",
+        "text": "Lipatlisiso tsa mantsoe tse ngotsoeng ka mongolo o moholo, mapheo a mebala, bingo le likarolo tsa puisano."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Bophelo ba kelello: lipatlisiso li bolela eng ka nnete",
+    "researchText": "Na dementia e ka thibeloa? Na lipapali tsa kelello li thusa? Ho bolelang ka ho ikhoeletsa, lijo, boroko le ho utloa? Likarabo tse hlakileng le tse nang le mehloli, ho kenyeletsoa le moo bopaki bo fokolang ka teng.",
+    "researchLink": "Bala lithuto tsa lipatlisiso",
+    "appEyebrow": "Hape ke application",
+    "appTitle": "Golden Moments ho iPhone, iPad le Android",
+    "appText": "Application e mahala e sebetsa ntle le marang-rang 'me e ka sebelisa linepe tsa lelapa leo u le khethang, e bolokiloe e le likopi lisebelising tsa hao. Moralo o ts'oanang o khutsitseng: lithaelese tse 'nè tse kholo, ha ho nako, ha ho linotlolo.",
+    "aboutApp": "Ka application",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ke lipapali life tse ntle bakeng sa batho ba nang le dementia?",
+        "a": "Lipapali tse ntle li bonolo, li tloaelehile ebile ha li na khatello: lifoto tse kholo tsa ho kopanya, ho arola, lipuzzle tse bonolo, ho phethela maele a tsebahalang, ho khanna, bingo ea lifoto le likarete tsa puisano. Khetho e ntle ke e motho eo a e thabelang kajeno. Qoba linako, lintlha le ntho leha e le efe e utloahalang joaloka teko."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Na lipapali tsa dementia ke tsa mahala?",
+        "a": "Ee. Papali le lenaneo le leng le le leng Golden Moments ke tsa mahala, ntle le akhaonte, ho ingolisa kapa ho khoasolla. Lipapali li sebetsa selaong sa webo sa mohala, thablete kapa komporo."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Na lipapali tsa kelello li thibela dementia?",
+        "a": "Ha ho papali e kileng ea bontšoa ho thibela dementia, mme Golden Moments ha e itšepise ho alafa kapa ho thibela ntho efe kapa efe. Lipapali tsa rona ke tsa monate le nako e sebelisanoang. Karolo ea rona ea bophelo ba kelello e hlalosa seo lipatlisiso li se bontšang le se sa se bontšeng."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Na lipapali tsena li loketse motho ea nang le Alzheimer?",
+        "a": "Ee. Lefu la Alzheimer ke sesosa se atileng ka ho fetisisa sa dementia, mme lipapali li entsoe bakeng sa lona: lifoto tse kholo tse sala li bonahala, likhetho tse fokolang, le ho se be le letho la ho hopola kapa ho fosahala. Ho kopanya, ho arola le ho phethela maele a tsebahalang ho itšetleha ka tsebo e nang le eena nako e telele ho e-na le ho ithuta ntho e ncha."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Na motho ea nang le dementia ea mokhahlelo oa ho qetela a ka sebelisa mesebetsi ena?",
+        "a": "Hangata ee, ha ho e-na le motho eo a lulang haufi. Qala ka Fumana ea tšoanang ka lifoto tse peli, Lipheo tsa lifoto ka matlapa a mane, leqephe la ho khanna kapa sebaka sa ho phefumoloha ka khutso. Boloka nako e khutšoane, latela seo a se ratang, mme u emise ha a se a khathetse."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Na lintlha tsa ka li sireletsehile?",
+        "a": "Sebaka sena ha se na li-akhaonte mme ha se na lipapatso. Re sebelisa Google Analytics ho utloisisa likhasi tse etelloang. Lifoto tseo u li khethang bakeng sa Lipheo tsa lifoto li bonoa feela selaong sa hau, mme ha li laeloe."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Golden Moments e etsoa ke mang?",
+        "a": "Golden Moments ke sehlopha se senyane se entseng lithupelo tse khutsitseng tsa lifoto tsa batho ba baholo bakeng sa malapa le bahlokomeli, webong le e le app ea mahala. Ha re bo-ngaka, mme ha ho letho mona le leng le leng e leng keletso ea bongaka."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "pele",
+    "middle": "bohareng",
+    "late": "ho qetela",
+    "hintOne": "E atisa ho loana le mokhahlelo oa {list}",
+    "hintMany": "E atisa ho loana le mekhahlelo ea {list}",
+    "labelEarly": "Mokhahlelo oa pele",
+    "labelMiddle": "Mokhahlelo oa bohareng",
+    "labelLate": "Mokhahlelo oa ho qetela"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Ka papali ena",
+    "printable": "Ho hatisoa",
+    "play": "Bapala {name} →",
+    "readGuide": "Bala tataiso"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Na u itokiselitse papali e bonolo?",
+    "text": "Lifoto tse kholo, ntle le nako, ntle le lintlha le ntle le ho ingolisa. Bapalang hammoho selaong sa hau.",
+    "play": "Bapala papali",
+    "all": "Bona lipapali tsohle",
+    "aria": "Bapala papali"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Nka lipapali tsena le uena",
+    "text": "App ea mahala ea Golden Moments bakeng sa iPhone, iPad le Android: matlapa a maholo a lifoto, lipapali tse nang le lifoto tsa lelapa la hau, le lipakete tsa lifoto tse sebetsang ntle le Wi‑Fi. Ha ho akhaonte, lipapatso, nako kapa lintlha.",
+    "appStore": "E fumane App Store",
+    "googlePlay": "E fumane Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Ka app ena",
+    "aria": "Fumana app"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Lits'ebetso",
+      "title": "Mesebetsi bakeng sa Batho ba nang le Dementia",
+      "seo": "Mesebetsi bakeng sa Batho ba nang le Dementia: Maikutlo a ho ea ka Mokhahlelo",
+      "description": "Maikutlo a mesebetsi bakeng sa batho ba phelang le dementia mekhahlelong eohle: 'mino, ho hopola, mesebetsi ea letsatsi le letsatsi, lintho tsa ho utloa, boqapi, kantle le lifoto tsa mahala tse hatisoang.",
+      "lede": "Mosebetsi o nang le moelelo ke ntho leha e le efe e tlisang khutso, morero kapa nako ea khokahano. Qala ka seo motho a ntse a se rata ka nako tsohle, mme u se fetole ho ea ka kajeno."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Tlhokomelo",
+      "title": "Litataiso tsa Tlhokomelo",
+      "seo": "Litataiso tsa Tlhokomelo ea Dementia: Thuso e Bonolo ea Letsatsi le Letsatsi",
+      "description": "Litataiso tse bonolo le tse mosa bakeng sa bahlokomeli ba dementia: ho bapala lipapali hammoho, puisano, ho hana, khatello ea mantsiboea, lithapelo, ho sebelisa app le ho ikhathalla.",
+      "lede": "Thuso e bonolo le e sebetsang bakeng sa linako tsa letsatsi le letsatsi tsa ho hlokomela motho ea phelang le dementia, ho kenyeletsa le ho ikhathalla ka bobeli."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Bophelo ba kelello",
+      "title": "Bophelo ba Kelello: Seo Lipatlisiso li se Buang",
+      "seo": "Bophelo ba Kelello le Kotsi ea Dementia: Seo Lipatlisiso li se Buang",
+      "description": "Na dementia e ka thibeloa? Litataiso tse hlahlobiloeng tse nang le mehloli ka mabaka a kotsi ea dementia, lipapali tsa kelello, ho ikoahla, lijo, boikoetliso, boroko, ho utloa le matšoao a pele a tšoso.",
+      "lede": "Lithuto tse kholo li bontša eng ka ho fokotsa kotsi ea dementia, li hlalosoa ka mokhoa o bonolo, ho kenyeletsa moo bopaki bo fokolang kapa bo sa lumellaneng. Tlhaiso-leseling e akaretsang, eseng keletso ea bongaka."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "E ntlafalitsoe",
+    "minuteRead": "Ho bala metsotso e {n}",
+    "byTeam": "Ke sehlopha sa Golden Moments",
+    "howWeWrite": "Re ngola joang",
+    "shortAnswer": "Karabo e khutšoane",
+    "onThisPage": "Leqepheng lena (likarolo {n})",
+    "commonQuestions": "Lipotso tse tloaelehileng",
+    "sources": "Mehloli",
+    "sourcesNote": "Re fana ka likhokahano tsa mekhatlo le lithuto tseo leqephe lena le itšetlehileng ka tsona. E 'ngoe le e 'ngoe e hlahlobiloe ha leqephe le ntlafatsoa.",
+    "tryTogether": "Leka hammoho",
+    "relatedGuides": "Litataiso tse amanang le tsena",
+    "related": "Tse amanang",
+    "startHere": "Qala mona"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Tsebiso ea tlhaiso-leseling ea bophelo",
+    "title": "Tlhaiso-leseling e akaretsang, eseng keletso ea bongaka",
+    "textHtml": "Leqephe lena le hlalosa lipatlisiso tse hatisitsoeng bakeng sa malapa. Ha le khone ho u bolella seo se loketseng motho e mong le e mong. Buisana le ngaka pele o fetola lijo, boikoetliso, boroko, meriana kapa lithuso tsa lijo. Bakeng sa ho nyahama ka potlako kapa liphetoho tse potlakileng tse ling, batla thuso ea bongaka hang-hang. <a href=\"/medical-disclaimer/\">Bala tsebiso ea rona ea tlhaiso-leseling ea bophelo</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Papali e Arolelanoang, Eseng Teko ea Memori",
+      "seoTitle": "Ka Golden Moments: Mokhoa oa Rona",
+      "description": "Hobaneng lipapali tsa Golden Moments li se na linako, lintlha kapa litatelo, hobaneng lifoto li lula li bonahala, le seo re tla se bolelang le seo re ke ke ra se bolela ka dementia.",
+      "crumb": "Mokhoa oa rona",
+      "lede": "Golden Moments e etsa lits'ebetso tse khutsitseng tsa lifoto tsa batho ba baholo tseo mohlokomeli le motho ea phelang le dementia ba ka li thabelang ka thoko ho e 'ngoe.",
+      "bodyHtml": "<h2>Seo re se tšepang</h2><p>Morero oa papali ke nakoana ka boyona: puisano, letsoho la ho nyenyeletsa, thabo ea ho beha lifoto tse peli hammoho, kapa feela ho lula haufi. Ha se ho lekanya motho, ho mo sunya hole kapa ho paka ntho efe kapa efe.</p><p>Lisebelisoa tse ngata tsa ho koetlisa bongoaho li entsoe ka potlako, lintlha, litatelano le maemo. Bakeng sa motho ea phelang le lefu la ho lebala, sena se ka utloahala joalo ka tlhahlobo eo a sa kang a e fetang. Rona re entse ho fapana le sena, mme re ipoloka ka melao ena:</p><ul><li><strong>Ha ho na ho hloleha.</strong> Ha ho nako, lintlha, palo ea mohato, matla a bophelo, litatelano, lifetswana kapa palo ea ho theoha ka sekrineng leha e le efe.</li><li><strong>Ho hlokomoloha ho feta ho hopola.</strong> Lifoto li lula li bonahala ka mokhoa oa pele. Litaelo li memela puisano mme ha li botse mabitso kapa mehopolo ka lipotso.</li><li><strong>E kholo, e bonolo mme e tsitsitse.</strong> Mongolo le lifoto tse kholo, phapang e kholo ea mebala, le lisebelisoa tse lulang sebakeng se tšoanang.</li><li><strong>Seriti sa batho ba baholo.</strong> Lifoto tsa nnete le mantsoe a bonolo, a mofuthu. Ha ho litšoantšo tsa bana, ha ho ho bongoa ka lipina, ha ho meputso ea liemoji.</li><li><strong>Mokhoa o bonolo oa ho tlohela.</strong> “Ke phetile hona joale” e lula e bonahala ka nako eohle. Ho emisa ha ntse ho le bohareng ke sephetho se setle.</li><li><strong>Lekunutu ka mokhoa oa pele.</strong> Ha ho li-akhaonte kapa lipapatso. Lifoto tseo u li khethang li lula sesebelisoaneng sa hao.</li></ul><h2>Seo re sa se bolelelang</h2><p>Lipapali tsa rona li bakeng sa thabo le kamano. Ha li hlahlobe, li lekanye, li alafe, li liehe kapa li thibe lefu la ho lebala kapa lefu la Alzheimer’s, mme ha ho motho ea lokelang ho li khetha ka lebaka leo. Ha re ngola ka lipatlisiso mabapi le <a href=\"/brain-health/\">maqephe a rona a bophelo ba kelello</a>, re bolela ka botlalo hore bopaki bo fokola hokae, mme ha re li hokahanye le lipapali tsa rona.</p><h2>Ke rona ba leng kae</h2><p>Golden Moments ke sehlopha se senyenyane se ikemetseng. Ha re bong-kliniki. Litataiso tsa rona li ngoloa ho latela litataiso tse phatlalalitsoeng ke mekhatlo joalo ka National Institute on Aging le Alzheimer’s Association, mme litataiso tsohle li hlahisa methopo ea tsona. Bala <a href=\"/editorial-policy/\">kamoo re ngolang le ho hlahloba maqephe a rona ka teng</a>.</p><h2>Re bolelle se thusang</h2><p>Re ka thabela ho utloa seo se sebetsang ho uena le seo se sa sebetseng, haholo-holo ho batho ba phelang le lefu la ho lebala, bahlokomeli ba malapa le basebetsi ba mesebetsi ea ho ikhohomosa. Romela imeile ho <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Kamoo Re Ngolang le Ho Hlahloba Maqephe a Rona Ka Teng",
+      "seoTitle": "Leano la Bahlophisi",
+      "description": "Golden Moments e batlisisa, e ngola, e hlahisa methopo le ho ntlafatsa maqephe a eona a mesebetsi ea lefu la ho lebala le bophelo ba kelello joang, le seo re ke ke ra se hatisa ka mohla.",
+      "crumb": "Leano la bahlophisi",
+      "bodyHtml": "<h2>Methopo ea rona</h2><p>Litataiso tsa rona li ipapisitse le litataiso tse phatlalalitsoeng ke mekhatlo joalo ka National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance le NHS, le lipatlisiso tse hlahlobiloeng ke litsebi tse kang Cochrane reviews le liteko tse khōlō tsa kliniki. Litataiso tsohle li hlahisa methopo eo li e sebelisang. Re bula mohloli ka mong pele re o bolela, mme re tlaleha feela seo o se buang ka sebele.</p><h2>Kamoo re ngolang ka teng</h2><ul><li>Ho sebetsa pele: seo o ka se etsang kajeno, ka puo e bonolo.</li><li>Ho bolela nnete ka bopaki: re bolela “e hokahane le”, “e ka” le “bopaki bo kopane” ha ho le joalo ka nnete.</li><li>Ho hlompha: re ngolla batho ba phelang le lefu la ho lebala e le batho ba baholo, mme ha re sebelise mantsoe a botsang lipotso kapa a hlabisang lihlong.</li><li>Ha ho litaba tse qapiloeng: ha ho lipalo tse qapiloeng, lipolelo, litsebi, lithuto, litlhahlobo kapa litlhahiso tse qapiloeng.</li></ul><h2>Ke mang ea hlahlobang maqephe a rona</h2><p>Maqephe a ngoloa mme a hlahlojoa ke sehlopha sa Golden Moments, ka thuso ea lisebelisoa tsa AI bakeng sa lipatlisiso le ho ngola moralo. Leqephe le leng le le leng le hlahlojoa ho ea ka methopo ea lona ke sehlopha. Maqephe a rona <strong>ha a so</strong> a hlahlojoe ke ngaka kapa mohlokomeli oa bongaka, mme ha re bolele ka tsela e fapaneng. Ke tlhahisoleseling e akaretsang, eseng keletso ea bongaka.</p><h2>Seo re ke ke ra se hatisa ka mohla</h2><ul><li>Litlhaloso tsa hore papali, lijo, lisebelisoa tsa phepo, ho ikhatholla lijo kapa mokhoa oa letsatsi o thibela, o alafa, o liehisa kapa o fodisa lefu la ho lebala.</li><li>Diteko, lipotso kapa lintlha tse bontšang hore motho o na le lefu la ho lebala, kapa ha a na le lona.</li><li>Keletso ea ho qala, ho emisa kapa ho fetola moriana ofe kapa ofe.</li><li>Lipapatso kapa litaba tse tšehetsoeng tse iketsang litataiso.</li></ul><h2>Lintlafatso le ho lokisa</h2><p>Leqephe le leng le le leng le bontša letsatsi le ileng la ntlafatsoa ka lona ho qetela. Haeba u fumana phoso kapa mohloli o fetileng nako, ka kopo romela imeile ho <a href=\"mailto:{email}\">{email}</a> mme re tla e hlahloba kapele.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Lipotso le Likarabo",
+      "seoTitle": "Lipapali le Mesebetsi ea Lefu la ho Lebala: Lipotso le Likarabo",
+      "description": "Likarabo tsa lipotso tse atileng mabapi le lipapali le mesebetsi ea lefu la ho lebala: lipapali tseo u ka li leka, nako ea papali, mehopolo ea hamorao, bophelo ba kelello le lekunutu.",
+      "crumb": "Lipotso le likarabo",
+      "lede": "Likarabo tse khutšoanyane, tse bonolo ho lipotso tseo bahlokomeli ba li botsang haholo.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Ka lipapali",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Ke lipapali life tse molemohali bakeng sa motho ea nang le lefu la ho lebala?",
+              "a": "Lipapali tse molemohali ke tse tsebahalang, tse bonolo le tse se nang khatello, mme ea nepahetseng ke ea motho eo a e thabelang kajeno. Papali ea ho kopanya lifoto tse bonahalang, ho arola, lipuzzle tse bonolo, ho phetha mantsoe a tsebahalang, ho khoaela mebala le bingo ea lifoto li sebetsa hantle ho batho ba bangata. Qoba linako, lintlha le ntho leha e le efe e utloahalang joalo ka teko."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Na lipapali li hlile li le mahala?",
+              "a": "Ee. Lipapali tsohle le lipampiri li mahala, ntle le akhaonte, ho ingolisa, ho kenya libakeng kapa litaeletso."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Ke hobaneng ha ho se na lintlha, maemo kapa linako?",
+              "a": "Potlako le lintlha li fetola ketsahalo e monate hore e be tlhahlobo, 'me e ka tlisa lihlong kapa matšeliso. Re tsepamisa maikutlo holim'a monyetla le nako eo re e abelanang, e le hore ho se be le ho hloleha, 'me u ka emisa ka nako leha e le efe."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Ke lisebelisoa life tse sebetsang hantle ka ho fetisisa?",
+              "a": "Fono efe kapa efe, tablete kapa komporo e nang le borauzi ea sejoale-joale. Tablete e emeng setulong tafoleng hangata ke tsela e bonolo ka ho fetisisa bakeng sa batho ba babeli ho bapala ka thoko ho e mong. Laptop e hokelletsoeng le TV e sebetsa hantle bakeng sa lihlopha."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Na re ka bapala ka lifoto tsa lelapa la rona?",
+              "a": "Ee. Lipalo tsa lifoto li fetola lifoto tse 2 ho ea ho tse 6 tseo u li khethang ho ba papali ea ho kopanya. Lifoto li lula borauzing ea hau, ha li kenngoe marang-rang kapa ha li bolokoe."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Liketsahalo le tlhokomelo",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Ketsahalo e lokela ho nka nako e kae?",
+              "a": "Hangata metsotso e 10 ho ea ho e 20 e lekane, 'me ka linako tse ling metsotso e 2 ke katleho. Shebella matšoao a khathala kapa a tepella, 'me u emise ha ho ntse ho monate. Ha ho na palo e nepahetseng."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Ha ba sa batle ho etsa ketsahalo, ho etsa joang?",
+              "a": "Hlompha ho hana, 'me u leke hape ka nako e 'ngoe kapa ka tsela e fapaneng. Ho hana ho ka tsoa ho khathala, bohloko, ho ikutloa ba sa tsebe kapa ho se be le thahasello feela. Bona tataiso ea rona mabapi le seo u lokelang ho se etsa ha ba hana."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Ke liketsahalo life tse loketseng boemo bo tsoetseng pele ba dementia?",
+              "a": "Matšeliso le maikutlo: ho mamela 'mino oa bona oa ka sehloohong, ho hlakola matsoho ka lotion, ho shebella lifoto hammoho, ho tšoara kobo e bonolo, ho lula kantle, kapa papali e bonolo ea setšoantšo le motho e mo lulang ka thoko. Tataiso ea rona ea boemo bo tsoetseng pele e na le mehopolo e mengata e meng."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Na ho na le liketsahalo tsa lihlopha lehae la ho hlokomela batho?",
+              "a": "Ho na le. Bingo ea setšoantšo e na le likarata tse ka hatisoang le mohoeletsi ea bonts'oang sekrineng, 'me Feletsa seemahale le Likarata tsa puisano li sebetsa hantle ha li balloa ka lentsoe. Tataiso ea rona ea lihlopha tsa lehae la ho hlokomela e hlalosa boholo ba sehlopha, ho bea ka bohlale le ho fetolela batho ba nang le bokhoni bo fapaneng."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Bophelo ba kelello",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Na lipapali li ka thibela kapa ha liehisa dementia?",
+              "a": "Ha ho papali e kileng ea bontšoa e thibela dementia, 'me lipapali tsa rona ha lia etsa tlhaiso joalo. Ho kopanngoa ha kelello sebakeng sa sechaba ho bontšitse melemo e menyenyane lipatlisisong bakeng sa batho ba nang le dementia e nyenyane ho e mahareng, empa sena ke sa mohlala o fapaneng le papali e thibelang lefu. Re fana ka lipapali bakeng sa boithabiso le kopano."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Na dementia e ka thibeloa?",
+              "a": "Ha ho bonnete. Lipatlisiso li kopanya lintlha tse 14 tsa bophelo le mekhoa ea bophelo le kotsi ea dementia, joalo ka ho hloka tlhaho ea ho utloa, khatello ea mali e phahameng, ho se sebetse ka 'mele le ho ikhula ho batho. Ho rarolla lintlha tsena ho ka fokotsa kotsi bakeng sa batho ba bang, empa batho ba bangata ba etsang sohle ka nepo ba ntse ba hola ba e-ba le dementia. Ha ho mohla e leng molato oa motho e mong."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Na ho lapa ka linako tse ikhethileng ho molemo bakeng sa bophelo ba kelello?",
+              "a": "Bopaki ba batho bo fokola 'me bo sa tsoa qala, 'me lipatlisiso tse ngata li entsoe liphoofolong. Ho lapa ho ka ba kotsi bakeng sa batho ba baholo, haholo ha ba nka meriana ea mafu a tsoekere kapa ba lahleheloa ke boima ba 'mele ntle le ho rera. Ha ho khothalletsoe batho ba phelang le dementia. Buisana le ngaka pele u fetola mokhoa oa ho ja."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Sephiri le polokeho",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Na le bokella tlhaiso efe kapa efe?",
+              "a": "Ha ho na liakhaonte kapa lipapatso. Re sebelisa Google Analytics ho bala ho etela le ho bona likhasi tse thusang, 'me borauzi ba hao bo gopola hore na u butse melumo e bonolo. Lifoto tseo u li khethang bakeng sa Lipalo tsa lifoto ha lia ka ka of'a kenngoa marang-rang. Bona Tsebiso ea Sephiri bakeng sa lintlha tse ling."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Na ena ke keletso ea bongaka?",
+              "a": "Che. Golden Moments e bakeng sa boithabiso le tlhaiso-leseling e akaretsang. Bakeng sa lipotso tsa bophelo, buisana le ngaka, 'me bakeng sa maemo a tšohanyetso bitsa 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Lintlha tse ling: <a href=\"/caregiving/how-to-play-together/\">ho bapala hammoho</a>, <a href=\"/caregiving/when-they-say-no/\">ha ba hana</a>, <a href=\"/activities/late-stage/\">liketsahalo tsa boemo bo tsoetseng pele</a> le <a href=\"/brain-health/can-dementia-be-prevented/\">na dementia e ka thibeloa?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Lipapali tse Mahala, tse Bonolo bakeng sa Batho ba Phelang le Dementia",
+      "seoTitle": "Pampiri e Hatisoang: Lipapali tsa Dementia tse Mahala Marang-rang",
+      "description": "Pampiri e le leqephe le le leng e hatisoang bakeng sa malapa le babolokeli ka lipapali tse mahala, tse bonolo tsa setšoantšo bakeng sa batho ba phelang le dementia, bakeng sa lihlopha tsa tšehetso le lipakete tsa tlhokomelo.",
+      "crumb": "Pampiri e hatisoang",
+      "lede": "Hatisa leqephe lena bakeng sa lihlopha tsa tšehetso, pakete ea tlhokomelo kapa lebota la sehatsetsi. Sebelisa taelo ea Hatisa ea borauzi ba hao; manyeha le likonopo li tlosoa ho pampiri e hatisitsoeng.",
+      "introHtml": "<p>Lifoto tse kholo, mantsoe a bonolo le ntho e sa hloleheng. Mahala ho fono, tablete kapa komporo, ntle le ho ingolisa, ntle le lentsoe la ho lula, ntle le linako le ntle le lintlha. Lulang ka thoko ho e mong 'me le nke menyetla ka ho fetolana.</p>",
+      "gamesTitle": "Lipapali tseo u ka leka tsona hammoho",
+      "restHtml": "<h2>Likeletso tse 'maloa</h2><ul><li>Khetha nako ea letsatsi eo motho a ikutloang a le hantle ka eona.</li><li>Qala ka boemo bo bonolo ka ho fetisisa. Mesaletsa e 4 e lekane.</li><li>Buisana ka lifoto. Puisano hangata ke karolo e monate ka ho fetisisa.</li><li>Emisa ha ho ntse ho monate. Ho emisa esale pele ke sephetho se setle.</li></ul><h2>Le ho sebaka sa marang-rang</h2><ul><li>Lipampiri tse mahala tse hatisoang: patlo ea mantsoe e nang le mengolo e meholo, litebatebo tsa ho pentela, likarata tsa puisano le bingo ea setšoantšo.</li><li>Maikutlo a liketsahalo bakeng sa mohato o mong le o mong, le litataiso tsa ho bapala hammoho le ho hlokomela bophelo ba hao.</li></ul><p class=\"muted\">Bakeng sa boithabiso le nako ea ho ba le batho. Ha se tataiso ea bongaka, tlhahlobo kapa kalafo. Golden Moments e hatisitsoe ke Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Bakeng sa Malapa a Tlhokomelo, Mabenkele a Libuka le Lihlopha tsa Tšehetso",
+      "seoTitle": "Liketso Tse Mahala tsa Lefu la Dementia bakeng sa Matlo a Tlhokomelo le Lihlopha",
+      "description": "Mokhoa oa matlo a tlhokomelo, mananeo a letsatsi a baholo, libaka tsa libuka, mekhatlo ea tlhokomelo ea baholo le lihlopha tsa tšehetso li sebelisa lipapali tsa rona tsa lefu la dementia tse mahala, hammoho le mokhoa oa ho re kenya lenaneng la lisebelisoa tsa lihlopha.",
+      "crumb": "Bakeng sa mekhatlo",
+      "lede": "Sebaka sena sohle se sebelisoa ka mahala ke baahi, litho le basebelisi ba tšebeletso, ntle le akhaonte, lalense kapa tefo. Leqephe lena le hlalosa seo ho leng teng le kamoo u ka se arolelanang ka eona.",
+      "shortText": "{name}: lipapali tse bonolo, tse mabifi tsa lifoto le litataiso tsa liketso bakeng sa batho ba nang le lefu la dementia le batlhokomeli ba bona. Ha ho ngoliso, ha ho nako e bekiloeng, ha ho liphetho.",
+      "longText": "{name} ({domain}) e fana ka lipapali tse {count} tsa browser tse mahala tse entsetsoeng batho ba nang le lefu la dementia, ho kenyelletsa lipapiso tse tšoanang tse ntseng li hlahane, puzzle e bonolo, ho arola lintho, mafoko a tloaelehileng le bingo ea lifoto e nang le likarata tse hatisoang. Ha ho akhaonte, ha ho litšebeletso tsa papatso, ha ho nako kapa lintlha. Sebaka se boetse se na le litataiso tsa liketso tse hlalosoang ka puo e bonolo bakeng sa mohato o mong le o mong oa lefu la dementia, tse buang ka National Institute on Aging le Alzheimer's Association.",
+      "useTitle": "Seo mekhatlo e ka se sebelisang",
+      "gamesItemHtml": "<strong>lipapali tsa browser tse {count}</strong> tse sebetsang komporong ea laptop, thablete kapa thelevishene e hokahantsoeng le komporo. Ha ho hlophisoa, ha ho akhaonte, ha ho jarolloa. Bona <a href=\"/games/\">lipapali tsohle</a>.",
+      "printablesLabel": "Lintho tse {count} tse hatisoang:",
+      "printablesAfter": "Sebelisa konopo ea “Print” leqepheng le leng le le leng.",
+      "moreItemsHtml": "<li><strong>Mefuta ea sehlopha:</strong> <a href=\"/games/picture-bingo/\">Bingo ea lifoto</a> e na le likarata tse hatisoang le mohala oa ho hoeletsa skrineng, ’me <a href=\"/activities/trivia/\">trivia e bonolo</a> e na le lipotso tse 50 tse nang le likhetho tsa karabo le lintlha tsa puisano.</li><li><strong>Litataiso tsa liketso</strong> bakeng sa basebetsi le malapa, ka mohato le ka mofuta, tse ngotsoeng ka puo e bonolo le mehloli. Qala ka <a href=\"/activities/ideas/\">mehopolo e 101 ea liketso</a> kapa <a href=\"/activities/care-home-groups/\">liketso tsa lihlopha matlong a tlhokomelo</a>.</li>",
+      "restHtml": "<h2>Lihlopha li e sebelisa joang</h2><ul><li><strong>Matlo a tlhokomelo le tlhokomelo ea memori:</strong> bingo ea lifoto kapa ho qeta polelo thelevisheneng ea kamore e kopanelang, le motho e mong a tobetsang bakeng sa sehlopha.</li><li><strong>Mananeo a letsatsi a baholo:</strong> sebaka sa thablete se nang le Lipapiso tse tšoanang ka matlapa a mane, bakeng sa nako e khutšoanyane ea motho ea mong le ea mong.</li><li><strong>Libaka tsa libuka tsa sechaba:</strong> lipatlisiso tsa mantsoe tse hatisitsoeng le likarata tsa puisano lipakeng tsa lipakete tsa memori, le sebaka sa webosaete se bolokiloeng ka thablete tsa laebrari.</li><li><strong>Lihlopha tsa tšehetso ea batlhokomeli le likopano tsa kofi tsa memori:</strong> <a href=\"/handout/\">khatiso e le leqephe le le leng e hatisoang</a> bakeng sa malapa a ka e isang gae.</li><li><strong>Dihlopha tsa bongaka le ba rarang kalafo:</strong> khatiso e lipakeng tsa lipakete tsa batlhokomeli, bakeng sa ntho e khutsitseng ea ho etsa gae kapa ka thōko ha setša.</li></ul><h2>Seo re sa se etseng</h2><p>Lipapali li bakeng sa thabo le nako e sebelisanoang. Ha li hlahlobe, ha li nke lintlha, ha li phekole kapa ha li liehise dementia, ’me re kopa mekhatlo hore e se hlalose ka tsela eo. Ha ho papatso, ’me lipapali ha li kope mabitso, lintlha tsa bophelo kapa lifoto hore li kenngoe. Sebaka sena se sebelisa Google Analytics ho bala ketelo; <a href=\"/privacy/\">tsebiso ea lekunutu</a> ea rona e hlalosa seo e se bokellang. Lifoto tse sebelisitsoeng ho <a href=\"/games/photo-pairs/\">Lifoto tse tšoanang</a> li lula ka browser.</p><h2>Re kenye lenaneng la hau la lisebelisoa</h2><p>Haeba u boloka lenane la lisebelisoa bakeng sa batlhokomeli, u amohetsoe ho hokela ho <a href=\"/\">{domain}</a>. U ka kopi tlhaloso ka e ngoe ea tse peli.</p>",
+      "shortTitle": "Tlhaloso e khutšoanyane",
+      "longTitle": "Tlhaloso e telele",
+      "linksHtml": "<p>Maqephe a sebetsang ao u ka a hokelang ka kotloloho: <a href=\"/games/\">lipapali tse mahala</a>, <a href=\"/activities/printable/\">lintho tse mahala tse hatisoang</a>, <a href=\"/activities/alzheimers/\">liketso tsa Alzheimer's</a> le <a href=\"/caregiving/how-to-play-together/\">mokhoa oa ho bapala hammoho</a>.</p><h2>Lipotso kapa ho lokisa</h2><p>Haeba ho na le ntho e fosahetseng kapa e sa hlakang sebakeng sena, kapa haeba tlhokeho ea mohlokomeloa e sa fihletsoe ke seo se teng mona, re kopa u re tsebise ho <a href=\"mailto:{email}\">{email}</a>. Ka kopo, se romele lintlha tsa botho kapa tsa bophelo ba baahi kapa ba hlokomeloang.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Sesebelisoa sa Golden Moments",
+      "seoTitle": "Sesebelisoa sa Golden Moments bakeng sa iPhone le Android",
+      "description": "Sesebelisoa sa mahala sa Golden Moments: ho tšoana ka lifoto ka matlapa a mane a maholo, lifoto tsa lelapa li bolokiloe setsing sa hau, lipakete tsa litšoantšo tse sebetsang ntle le marang-rang, ’me ha ho akhaonte.",
+      "crumb": "Sesebelisoa",
+      "lede": "Tsohle eo u e ratang webosaeteng, ka sesebelisoa se sebetsang ntle le marang-rang 'me se ka sebelisa lifoto tsa lelapa tseo u li khethileng.",
+      "worksOn": "E sebetsa ho {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Qala ka monyane</h2><p>Qala ka matlapa a mane a maholo le litšoantšo tseo u li tsebang. Boloka litšoantšo li bonahala, kapa u li pate ha ho utloahala hantle. Mokhoa oa ho bapala ha o na nako, lintlha kapa kotlo. Khetha matlapa a 4, 6, 8 kapa 12.</p><h2>E etse hore e be ea hao</h2><p>Khetha lifoto tsa lelapa ka sekhetho sa lifoto sa sesebelisoa sa hao. App e boloka likopi tse nyane bakeng sa mesebetsi ea yona. Ha e skene laeborari ea hao kapa ha e fetole lifoto tsa hao tsa mantlha, 'me e boloka lifoto tse ka sehloohong tse 24 sehlopheng se le seng.</p><h2>Shebang hammoho feela</h2><p>Shebang setšoantšo se seng ka nako. Lintlha tsa puisano tse khethoang li thusa ntle le ho kopa motho ho hopola mabitso kapa ho fana ka karabo e nepahetseng. Ho shebana feela ho lekane.</p><h2>Ntle le marang-rang moo ho hlokahalang</h2><p>Litšoantšo tsa qalo le lipakete tsohle tse robeli tsa litšoantšo li kenyelelitsoe ho app. Likopi tsa lifoto tse kentsoeng li sebetsa ntle le inthanete. Ho khetha foto e bolokiloeng iCloud feela ho ka hloka inthanete.</p><h2>Ha ho akhaonte, ha ho seva ea ho kopanya lifoto</h2><p>Likopi tsa lifoto tsa lelapa li lula ho app sesebelisong. U ka tlosa likopi ntle le ho hlakola lifoto tsa mantlha. Likopo tsa sesebelisoa li kanna tsa kenyelletsa data ea app. Bala <a href=\"/app-privacy/\">leano la lekunutu la app</a>, 'me <a href=\"/help/\">thuso ea app</a> e u tataisa mohato ka mohato.</p>",
+      "disclaimer": "Golden Moments e bakeletsoe boiphomolo le puisano e arolelanoang. Ha e hlahlobe, ha e phekole, ha e thibele, 'me ha e lekanye dimenshia kapa lefu la Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Lipapali tsa Dimenshia le Alzheimer tse Mahala Inthaneteng",
+    "description": "Lipapali tse mahala inthaneteng bakhulu ba phelang le dimenshia kapa Alzheimer: ho kopanya litšoantšo, lipuzzle tse bonolo, ho arola, maele, ho pentha, bingo. Ha ho ngolisoe, ha ho nako kapa lintlha.",
+    "crumb": "Lipapali",
+    "h1": "Lipapali tse Bonolo bakeng sa Batho ba nang le Dimenshia",
+    "lede": "Lipapali tse {count} tse mahala tseo le ka li bapalang hammoho ka browser. Litšoantšo tse kholo, mantsoe a bonolo, 'me ha ho letho le ka hlolehang: ha ho nako, ha ho lintlha, ha ho ngolisoe.",
+    "listName": "Lipapali tse bonolo bakeng sa batho ba nang le dimenshia",
+    "byStageTitle": "Ho khetha papali ka mohato",
+    "byStageLede": "Mehato ke tataiso e fokolang feela. Latela seo motho a se thabelang le seo se utloahalang kajeno.",
+    "stageCol": "Mohato",
+    "gamesCol": "Lipapali tse atisang ho loketseng",
+    "moreHtml": "Maikutlo a mang ntle le skrine: <a href=\"/activities/ideas/\">mesebetsi e 101 bakeng sa batho ba nang le dimenshia</a>, <a href=\"/activities/alzheimers/\">mesebetsi le lipapali bakeng sa Alzheimer</a>, <a href=\"/activities/memory-games/\">lipapali tse bonolo tsa memori</a> le <a href=\"/activities/puzzles/\">lipuzzle</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Re qale ka papali efe?",
+        "a": "Lipaere tsa litšoantšo tse matlapa a 4 ke khetho e khutsitseng ea pele. Haeba ho khetha pakeng tsa litšoantšo ho utloahala e le ho ngata, leka Fumana se tšoanang ka litšoantšo tse peli. Bakeng sa sehlopha, leka Bingo ea litšoantšo."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Na lipapali li sebetsa ho iPad kapa ho founo?",
+        "a": "Ee. Papali e 'ngoe le e 'ngoe e sebetsa ka browser ho mehala ea matsoho, litablete le likhomphutha, 'me litšoantšo li hola ho tlatsa skrine. Tablete e beilweng sehlahla hangata e bonolo ho batho ba babeli."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Na lipapali tsena li molemo bakeng sa motho ea nang le Alzheimer?",
+        "a": "Ee. Li entsoe bakeng sa batho ba phelang le dimenshia, ho kenyelletsa Alzheimer, eo e leng sesosa se atileng ka ho fetisisa. Litšoantšo li lula li bonahala, ho na le likhetho tse seng kae feela, 'me ha ho nako kapa lintlha, kahoo lipapali li shebile ho hlokomela lintho tse tloaelehileng ho e-na le ho hopola tse ncha."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Na ke lipapali tsa memori bakhulu ba lilemo?",
+        "a": "Ke lipapali tsa ho kopanya le litšoantšo tseo bakhulu ba lilemo bohle ba ka li thabelang, empa li entsoe ho se lekole memori: lipaereng tsa litšoantšo litšoantšo li lula li bonahala ntle le haeba u khetha ho fapana. Tataiso ea rona ea lipapali tsa memori bakhulu ba nang le dimenshia e hlalosa mokhoa oa ho boloka papali efe kapa efe ea memori e bonolo."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Na ho na le lipapali tsa lihlopha ntlong ea ho hlokomela?",
+        "a": "Ee. Bingo ea litšoantšo e na le likarete tse ka hatisoang le motho ea bitsang ka skrineng, 'me Qetella polelo le likarete tsa puisano li sebetsa hantle ha li balloa ka lentsoe sehlopheng."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad le Android",
+    "requirements": "iOS 15 kapa ho feta; Android 7.0 kapa ho feta",
+    "summary": "App e mahala bakeng sa iPhone, iPad le Android, e nang le ho kopanya litšoantšo tse bonolo ho matlapa a 4 ho isa ho a 12 a maholo, ho kopanya le ho shebana ka lifoto tsa lelapa tseo u li khethang, le lipakete tse robeli tsa litšoantšo tse kenyelelitsoeng tse sebetsang ntle le inthanete. Ha ho akhaonte, litsebiso tsa khoebo, nako kapa lintlha.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Ho kopanya litšoantšo tse bonolo ka matlapa a 4, 6, 8 kapa 12 a maholo; litšoantšo li lula li bonahala ntle le haeba u khetha ho li pata",
+      "Lifoto tsa lelapa tseo u li khethang li kopitsoa ho app bakeng sa ho kopanya le ho shebana ka tsona",
+      "Shebang hammoho: setšoantšo se seng ka nako le lintlha tsa puisano tse khethoang",
+      "Lipakete tse robeli tsa litšoantšo li kenyelelitsoe ho app; li sebetsa ntle le inthanete",
+      "Ha ho akhaonte, litsebiso tsa khoebo, lintho tse reker ka har'a app, nako, lintlha kapa kotlo"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Na ho na le app ea mesebetsi ea dimenshia?",
+        "a": "Ee. Golden Moments (e thathamisitsoeng e le \"{storeName}\") e mahala ho App Store le Google Play. E fana ka ho kopanya litšoantšo tse bonolo ka matlapa a maholo, lipapali tsa lifoto tsa lelapa tseo u li khethang, le lipakete tsa litšoantšo tse sebetsang ntle le inthanete."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Na app ea Golden Moments e mahala?",
+        "a": "Ee. E mahala ho e kenya, ha ho litsebiso tsa khoebo, akhaonte kapa lintho tse reker ka har'a app."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Na app e sebetsa ntle le inthanete?",
+        "a": "Ee. Litšoantšo tsa qalo le lipakete tsohle tse robeli tsa litšoantšo li kenyelelitsoe ho app, 'me lifoto tsa lelapa li sebetsa ntle le inthanete hang kamora hore li kopitsoe ho app. Ho khetha foto e bolokiloeng iCloud feela ho ka hloka khokahano."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Na ke ka sebelisa lifoto tsa rona tsa lelapa?",
+        "a": "Ee. Khetha lifoto ka sebali sa lifoto sa sesebediswa sa hao. App e boloka likopi tse nyane sesebelisong bakeng sa liketso tsa eona, ha e li romele, 'me ha e fetole lifoto tsa pele. U ka tlosa likopi ka nako efe kapa efe."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Na ke app ea ho matlafatsa kelello kapa ea teko ea memori?",
+        "a": "Che. Golden Moments e bakeng sa thabo le nako e sebetsoang hammoho. Ha e na lintlha kapa liteko, 'me ha e hlahlobe, e phekole, e thibele kapa e lekanye lefu la memori kapa lefu la Alzheimer’s."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "E sebetsa lisebelisoa life?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Na ho na le mofuta oa app oa papali ena?",
+      "a": "Ee. App ea mahala ea Golden Moments bakeng sa iPhone, iPad le Android e na le papali e bonolo ea ho kopanya lifoto, e ka sebelisa lifoto tsa lelapa tseo u li khethileng, 'me e sebetsa ntle le marang-rang. Ha ho na akhaonte, lipapatso kapa lintlha."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Na ho na le mofuta oa app oa papali ena?",
+      "a": "Eseng ea papali ena. App ea mahala ea Golden Moments bakeng sa iPhone, iPad le Android e na le papali e bonolo ea ho kopanya lifoto tse kholo le lifoto tsa lelapa tseo u li khethileng, 'me e sebetsa ntle le marang-rang. Papali ena e lula e le mahala mona ho browser ea hau."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: lifoto tse kholo, tse thabisang",
+    "noscript": "Papali ena e hloka hore JavaScript e be bulehile ho browser ea hau. Malebela a ka tlase a sebetsa ntle le eona.",
+    "about": "Mabapi le {name}",
+    "aboutAria": "Mabapi le papali ena",
+    "noTimer": "Ha ho nako kapa lintlha",
+    "printable": "Ea ho hatisa",
+    "howTo": "Mokhoa oa ho bapala {name}",
+    "tips": "Malebela a ho bapala hammoho",
+    "newToPlayingHtml": "Na u qala ho bapala le motho ea nang le lefu la memori? Bala <a href=\"/caregiving/how-to-play-together/\">mokhoa oa ho bapala lipapali hammoho</a>, ho kenyeletsoa seo u ka se etsang haeba a lahla thahasello.",
+    "moreAria": "Lintho tse ling tsa ho batlisisa",
+    "helpfulGuides": "Lithuto tse thusang",
+    "appTitle": "Bapala ka app",
+    "appText": "App ea mahala ea Golden Moments e na le papali e bonolo ea ho kopanya lifoto tse kholo le lifoto tsa lelapa la hau, 'me e sebetsa ntle le Wi‑Fi. iPhone, iPad le Android.",
+    "photoAppTitle": "Boloka lifoto tsa hau li lokile",
+    "photoAppText": "Ho app ea mahala ea Golden Moments, lifoto tseo u li khethileng li lula sesebelisong sa hao bakeng sa nako e latelang, 'me lipapali li sebetsa ntle le Wi‑Fi. iPhone, iPad le Android.",
+    "goodToKnow": "Ho molemo ho tseba",
+    "goodToKnowText": "Papali ena e bakeng sa thabo le nako e sebetsoang hammoho. Ha e hlahlobe, ha e lekanye, ha e phekole letho.",
+    "moreGames": "Lipapali tse ling tse bonolo",
+    "crumb": "Lipapali"
   }
 }

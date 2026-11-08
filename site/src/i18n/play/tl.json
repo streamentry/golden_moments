@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Basahin nang malakas",
+      "stopReading": "Itigil ang pagbasa",
+      "region": "Laro",
+      "restart": "Magsimula ulit",
+      "soundOn": "Mahinang tunog: bukas",
+      "soundOff": "Mahinang tunog: nakapatay",
+      "done": "Tapos muna sa ngayon",
+      "feedbackQuestion": "Nakatulong ba ito ngayon?",
+      "feedbackYes": "Oo",
+      "feedbackNo": "Hindi masyado",
+      "feedbackThanks": "Salamat sa pagsasabi sa amin."
+    },
+    "tile": {
+      "named": "{name}, tile {n}",
+      "hidden": "Nakatagong larawan, tile {n}",
+      "withState": "{label}, {state}",
+      "matched": "Naitugma na",
+      "selected": "Napili",
+      "picture": "Larawan",
+      "photoNumber": "Larawan {n}"
+    },
+    "pairs": {
+      "allTogether": "Magkakatugma na ang lahat ng pares. Maglaro ulit o magpahinga muna.",
+      "photoPair": "Isang pares ng larawan, magkasama.",
+      "picturePair": "Dalawang larawan ng {name|lower}, magkasama.",
+      "selected": "{name}. Ngayon hanapin ang kapares nito.",
+      "mismatch": "Dahan-dahan lang. Pindutin ang isang larawan para magpatuloy.",
+      "mismatchNamed": "{a} at {b}. Dahan-dahan lang. Pindutin ang isang larawan para magpatuloy."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Pindutin ang isang larawan, tapos pindutin ang katulad nito.",
+      "guidanceHidden": "Pindutin ang dalawang tile para ibukas ang mga ito. Hanapin ang dalawang magkapareho.",
+      "restart": "Mga bagong larawan",
+      "sizeLegend": "Ilang tile",
+      "size": {
+        "one": "{n} tile",
+        "other": "{n} na tile"
+      },
+      "viewLegend": "Paano maglaro",
+      "viewShowing": "Nakikitang larawan",
+      "viewHidden": "Nakatagong larawan",
+      "playAgain": "Maglaro ulit gamit ang mga bagong larawan",
+      "talk": "Pag-usapan nang sama-sama ang mga larawan"
+    },
+    "choose": {
+      "countLegend": "Ilang larawan",
+      "count": "{n} na mapipili",
+      "thatOne": "Iyan ang {name|lower}. Dahan-dahan lang."
+    },
+    "findTheSame": {
+      "guidance": "Tingnan ang larawan sa itaas. Pindutin ang parehong larawan sa ibaba.",
+      "yes": "Oo, parehong {name|lower} iyan.",
+      "next": "Susunod na larawan"
+    },
+    "shadowMatch": {
+      "guidance": "Tingnan ang anino sa itaas. Pindutin ang larawang gumawa nito.",
+      "yes": "Oo, ang {name|lower} ang gumawa ng anino na iyan.",
+      "next": "Susunod na anino",
+      "shadowAlt": "Anino na itutugma",
+      "foundAlt": "Anino ng {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Pindutin ang isang larawan, tapos pindutin ang basket kung saan ito nababagay.",
+      "restart": "Mga bagong larawan",
+      "themeLegend": "Tema",
+      "selected": "{name}. Ngayon pindutin ang basket kung saan ito ilalagay.",
+      "pickFirst": "Unahin munang pindutin ang isang larawan, tapos ang isang basket.",
+      "hint": "Ang {name|lower} ay maaaring nasa basket na “{basket}”. Pindutin ang basket na iyon para doon ilagay.",
+      "placed": "Ang {name|lower} ay nasa basket na “{basket}”.",
+      "sorted": "Nakaayos na ang lahat. Tingnan nang sama-sama ang mga basket, o sumubok ng ibang tema.",
+      "basket": {
+        "one": "Basket na {basket}, {count} larawan sa loob",
+        "other": "Basket na {basket}, {count} na larawan sa loob"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Pindutin ang isang piraso, tapos pindutin ang isa pa. Magpapalitan sila ng puwesto.",
+      "restart": "Haluin ulit",
+      "pictureLegend": "Larawan",
+      "pictures": {
+        "sailboat": "Bangkang may layag",
+        "house": "Bahay",
+        "balloon": "Lobo",
+        "sunflower": "Mirasol",
+        "lighthouse": "Parola",
+        "cat": "Pusa"
+      },
+      "sizeLegend": "Mga piraso",
+      "size": {
+        "one": "{n} piraso",
+        "other": "{n} na piraso"
+      },
+      "pickedUp": "Naangat ang piraso. Ngayon pindutin kung saan ito dapat ilagay.",
+      "whole": "Buo na ulit ang {name|lower}. Pumili ng ibang larawan kailan mo gusto.",
+      "swapped": {
+        "one": "Napalitan. {correct} sa {total} piraso ang nasa tamang lugar.",
+        "other": "Napalitan. {correct} sa {total} na piraso ang nasa tamang lugar."
+      },
+      "guideAlt": "Buong larawan: {name}",
+      "guideText": "Ganito ang itsura ng larawan kapag buo.",
+      "piece": "Piraso sa {place}",
+      "pieceInPlace": ", nasa tamang lugar",
+      "piecePickedUp": ", naangat",
+      "places4": [
+        "kaliwang itaas",
+        "kanang itaas",
+        "kaliwang ibaba",
+        "kanang ibaba"
+      ],
+      "places9": [
+        "kaliwang itaas",
+        "gitnang itaas",
+        "kanang itaas",
+        "kaliwang gitna",
+        "gitna",
+        "kanang gitna",
+        "kaliwang ibaba",
+        "gitnang ibaba",
+        "kanang ibaba"
+      ],
+      "done": "Buo na ulit ang larawan. Maglaro ulit o magpahinga muna.",
+      "playAgain": "Haluin ulit"
+    },
+    "finishTheSaying": {
+      "guidance": "Basahin nang sama-sama ang salawikain, tapos pindutin ang salitang tatapos nito.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Oo, “{start} {end}.”",
+      "otherEnding": "“{word}” ay puwede rin. Ang karaniwang salawikain ay nagtatapos sa “{end}”.",
+      "revealed": "Ang salawikain ay “{start} {end}.”",
+      "choicesLabel": "Piliin ang huling salita",
+      "show": "Ipakita ang dulo",
+      "talk": "Pag-usapan natin: ",
+      "next": "Susunod na salawikain"
+    },
+    "wordSearch": {
+      "guidance": "Ang mga salita ay pahalang o pababa. Pindutin ang unang letra ng salita, tapos ang huling letra.",
+      "restart": "Bagong palaisipan",
+      "themeLegend": "Tema",
+      "sizeLegend": "Laki ng grid",
+      "size": {
+        "one": "{n} x {n} ({words} salita)",
+        "other": "{n} x {n} ({words} na salita)"
+      },
+      "print": "I-print ang palaisipang ito",
+      "letterChosen": "Napili ang letrang {letter}. Ngayon pindutin ang huling letra ng salita.",
+      "found": "Nahanap ang {word}.",
+      "foundAll": "Nahanap ang {word}. Ito na ang lahat ng salita. Maglaro ulit o magpahinga muna.",
+      "tryAgain": "Dahan-dahan lang. Pindutin ang unang letra ng salita, tapos ang huling letra.",
+      "gridLabel": "Grid ng letra, {n} hanay na tig-{n} letra. Gamitin ang mga arrow key para lumipat sa pagitan ng mga letra.",
+      "cell": "{letter}, hanay {row}, kolum {col}",
+      "cellFound": ", bahagi ng nahanap na salita",
+      "wordsHeading": "Mga salitang hahanapin",
+      "wordFound": " (nahanap na)",
+      "sheetTitle": "Palaisipang salita: {theme}",
+      "sheetNote": "Ang mga salita ay pahalang o pababa.",
+      "unavailable": "Hindi angkop ang grid ng letra para sa wikang ito, kaya hindi ito iniaalok dito. Subukan na lang ang mga larong may larawan."
+    },
+    "coloring": {
+      "guidance": "Pindutin ang isang kulay, tapos pindutin ang bahagi ng larawan.",
+      "restart": "Burahin ang mga kulay",
+      "cleared": "Blangko ulit ang pahina.",
+      "pageLegend": "Pahina",
+      "print": "I-print ang pahinang ito",
+      "colorsLabel": "Mga kulay",
+      "paintChosen": "Napili ang {paint}.",
+      "painted": "Naging {paint|lower} na ang {part}.",
+      "artLabel": "{page}, {count} bahagi na kukulayan",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, hindi pa nakukulayan",
+      "paints": {
+        "red": "Pula",
+        "orange": "Kahel",
+        "yellow": "Dilaw",
+        "green": "Berde",
+        "blue": "Asul",
+        "purple": "Lila",
+        "pink": "Rosas",
+        "brown": "Kayumanggi",
+        "sky-blue": "Asul-langit",
+        "cream": "Krema",
+        "gray": "Abo",
+        "white": "Puti"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Basahin nang malakas ang card. Walang tamang sagot.",
+      "position": "Card {n} ng {total}",
+      "themeLegend": "Tema",
+      "next": "Susunod na card",
+      "previous": "Nakaraang card",
+      "print": "I-print lahat ng card",
+      "sheetTitle": "Mga card para sa pag-uusap"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Magsimula sa pagpili ng inyong mga larawan.",
+      "guidance": "Pindutin ang isang larawan, tapos ang katulad nito.",
+      "restart": "Haluin ulit",
+      "intro": "**Pumili ng 2 hanggang 6 na larawan** mula sa device na ito. Ipinapakita lang ang mga ito sa pahinang ito at hindi kailanman ina-upload o sine-save.",
+      "choose": "Pumili ng mga larawan",
+      "chooseDifferent": "Pumili ng ibang larawan",
+      "clear": "Burahin ang mga larawan",
+      "cleared": "Nabura na ang mga larawan sa pahinang ito.",
+      "atLeastTwo": "Pakipili ng hindi bababa sa dalawang larawan.",
+      "usingFirst": "Ginagamit ang unang {max} na larawan.",
+      "skipped": {
+        "one": "Ang {count} file ay hindi larawang maipapakita namin.",
+        "other": "Ang {count} na file ay hindi larawang maipapakita namin."
+      },
+      "playAgain": "Maglaro ulit gamit ang mga larawang ito",
+      "empty": "Lalabas dito ang inyong mga larawan, bawat isa ay dalawang beses."
+    },
+    "pictureBingo": {
+      "guidance": "I-print muna ang mga card. Pagkatapos, ipakita ang tumatawag na ito sa pinakamalaking screen na mayroon kayo.",
+      "called": {
+        "one": "{name}. Natawag na ang {called} sa {total} na larawan.",
+        "other": "{name}. Natawag na ang {called} sa {total} na larawan."
+      },
+      "start": "Pindutin ang “Susunod na larawan” para tawagin ang unang larawan.",
+      "restart": "Magsimula ng bagong laro",
+      "squaresLegend": "Mga parisukat sa bawat card",
+      "squares": "{n} na parisukat ({side} x {side})",
+      "cardsLegend": "Ilang card ang iimprenta",
+      "cards": {
+        "one": "{n} card",
+        "other": "{n} na card"
+      },
+      "print": {
+        "one": "I-print ang {n} bingo card",
+        "other": "I-print ang {n} na bingo card"
+      },
+      "ready": "Handa kapag kayo na",
+      "next": "Susunod na larawan",
+      "allCalled": "Natawag na ang bawat larawan",
+      "alreadyCalled": "Natawag na",
+      "sheetTitle": "Picture bingo · card {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Huminga nang dahan-dahan habang lumalaki ang bilog, at bumuga habang lumiliit ito. Hihinto ito nang kusa pagkatapos ng anim na paghinga.",
+      "paceLegend": "Bilis",
+      "paceSlow": "Mabagal (5 segundo bawat isa)",
+      "paceGentle": "Banayad (4 na segundo bawat isa)",
+      "ready": "Handa kapag handa na kayo",
+      "in": "Huminga papasok",
+      "hold": "Pahinga",
+      "out": "Bumuga palabas",
+      "start": "Simulan",
+      "stop": "Itigil",
+      "started": "Nagsimula na. Huminga habang lumalaki ang bilog.",
+      "stopped": "Itinigil.",
+      "finished": "Iyon ay anim na mabagal na paghinga. Magsimula ulit kailan ninyo gusto."
+    }
+  },
+  "pictures": {
+    "teacup": "Tasa ng tsaa",
+    "kettle": "Takure",
+    "bread": "Tinapay",
+    "frying-pan": "Kawali na may itlog",
+    "cake": "Cake ng kaarawan",
+    "sunflower": "Mirasol",
+    "tulip": "Pulang tulip",
+    "watering-can": "Lata ng pandilig",
+    "potted-plant": "Halaman sa paso",
+    "tree": "Puno",
+    "bird": "Ibon sa sanga",
+    "butterfly": "Paru-paro",
+    "dog": "Aso",
+    "cat": "Pusa",
+    "fish": "Gintong isda",
+    "apple": "Pulang mansanas",
+    "pear": "Peras",
+    "strawberry": "Strawberry",
+    "banana": "Saging",
+    "lemon": "Lemon",
+    "cherries": "Seresa",
+    "house": "Bahay",
+    "lamp": "Lampara sa mesa",
+    "armchair": "Upuang may bisig",
+    "key": "Lumang susi",
+    "umbrella": "Payong",
+    "sailboat": "Bangkang may layag",
+    "car": "Klasikong kotse",
+    "bicycle": "Bisikleta",
+    "balloon": "Lobo ng mainit na hangin",
+    "lighthouse": "Parola",
+    "sun": "Araw",
+    "moon": "Buwan at mga bituin",
+    "teapot": "Tsarera",
+    "apple-pie": "Pie na mansanas",
+    "honey-jar": "Garapon ng pulot",
+    "boiled-egg": "Nilagang itlog sa lalagyan",
+    "toaster": "Toaster",
+    "cheese": "Hiwa ng keso",
+    "milk-jug": "Pitsel ng gatas",
+    "cupcake": "Cupcake",
+    "orange": "Dalandan",
+    "grapes": "Kumpol ng ubas",
+    "watermelon": "Hiwa ng pakwan",
+    "pineapple": "Pinya",
+    "peach": "Milokoton",
+    "rose": "Rosas",
+    "daisies": "Mga margarita",
+    "mushroom": "Kabute",
+    "wheelbarrow": "Kareta",
+    "birdhouse": "Bahay-ibon",
+    "cactus": "Kaktus sa paso",
+    "acorn": "Bunga ng oak",
+    "autumn-leaf": "Dahon sa taglagas",
+    "rabbit": "Kuneho",
+    "duck": "Itik",
+    "hen": "Inahing manok",
+    "sheep": "Tupa",
+    "owl": "Kuwago",
+    "ladybird": "Ladybug",
+    "snail": "Suso",
+    "frog": "Palaka",
+    "bee": "Bubuyog",
+    "clock": "Orasan sa mantel",
+    "vase-of-flowers": "Plorera ng bulaklak",
+    "radio": "Lumang radyo",
+    "books": "Tumpok ng libro",
+    "candle": "Kandila",
+    "glasses": "Salamin sa pagbabasa",
+    "telephone": "Telepono",
+    "ball-of-wool": "Bola ng lana",
+    "straw-hat": "Sombrero",
+    "train": "Lumang tren de-singaw",
+    "bus": "Bus",
+    "airplane": "Eroplano",
+    "suitcase": "Maleta",
+    "tractor": "Traktora",
+    "rowing-boat": "Bangkang de-sagwan",
+    "rainbow": "Bahaghari",
+    "rain-cloud": "Maitim na ulap",
+    "snowflake": "Kristal ng niyebe",
+    "kite": "Saranggola",
+    "sunrise": "Pagsikat ng araw sa mga burol"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Prutas",
+          "words": [
+            "SAGING",
+            "PAPAYA",
+            "UBAS",
+            "PERAS",
+            "PAKWAN",
+            "IGOS",
+            "DUHAT",
+            "LIMON",
+            "MELON"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Hardin",
+          "words": [
+            "ROSAS",
+            "TULIP",
+            "BINHI",
+            "LUPA",
+            "DAHON",
+            "PUNO",
+            "DAMO",
+            "TUBIG",
+            "PALA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kusina",
+          "words": [
+            "TASA",
+            "SANDOK",
+            "KAWALI",
+            "PLATO",
+            "TSAA",
+            "OBEN",
+            "KALAN",
+            "KANIN",
+            "KAPE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Panahon",
+          "words": [
+            "ARAW",
+            "ULAN",
+            "NIYEBE",
+            "SIMOY",
+            "ULAP",
+            "BAGYO",
+            "HAMOG",
+            "MAINIT",
+            "KIDLAT"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Hayop",
+          "words": [
+            "ASO",
+            "PUSA",
+            "IBON",
+            "ISDA",
+            "KABAYO",
+            "BAKA",
+            "PATO",
+            "MANOK",
+            "KUNEHO"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Bahay",
+          "words": [
+            "PINTO",
+            "UPUAN",
+            "ILAW",
+            "KAMA",
+            "BANIG",
+            "SOFA",
+            "ORASAN",
+            "MESA",
+            "SUSI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Lahat ng card",
+        "food": "Pagkain",
+        "home": "Bahay",
+        "outdoors": "Sa labas",
+        "animals": "Hayop",
+        "travel": "Pamamasyal",
+        "work": "Trabaho at libangan",
+        "music": "Musika at saya",
+        "seasons": "Mga panahon"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ano po ang paborito ninyong amoy mula sa kusina?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Anong klaseng cake po ang pipiliin ninyo para sa isang handaan?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ikwento po ninyo sa akin ang paborito ninyong pie o panghimagas na may prutas."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Paano po ninyo gustong inumin ang tsaa o kape?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ano po ang nagpapasarap sa isang tunay na almusal?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Nakapitas na po ba kayo ng prutas diretso sa halaman?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Matamis o maasim: alin po ang mas gusto ninyo?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Anong pagkain po ang para sa inyo ay lasang tag-init?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ikwento po ninyo sa akin ang isang bahay na nagustuhan ninyong tirhan."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Saan po ninyo gustong maupo at magpahinga?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ano po ang gusto ninyong gawin sa isang tahimik na gabi?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Anong kayamanan po ang itatago ninyo sa isang espesyal na kahon?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Sino po ang gusto ninyong anyayahan para uminom ng tsaa?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ano po ang gusto ninyong gawin kapag maulan?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Anong mga bulaklak po ang itatanim ninyo sa hardin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ikwento po ninyo sa akin ang isang puno o parke na gusto ninyo."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Ano po ang pinakamagandang bahagi ng pagiging nasa hardin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Anong kulay ng bulaklak po ang pinakagusto ninyo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Gusto po ba ninyo ng mga halaman sa bahay?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ano po ang inyong pangarap na maaraw na araw?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ikwento po ninyo sa akin ang isang aso na nakilala ninyo."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Pusa o aso, o wala sa dalawa? Ano po ang gusto ninyo sa kanila?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Anong mga ibon po ang nakikita o naririnig ninyo sa labas?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Nakapangisda na po ba kayo, o nagkaroon ng aquarium na may isda?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ano po ang pinakamagandang hayop na nakita ninyo?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ikwento po ninyo sa akin ang isang kotseng nagustuhan ninyo."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Mas gusto po ba ninyong magpalipas ng araw sa dalampasigan o sa bundok?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Saan po ninyo gustong magbisikleta?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Kung makakalipad po kayo sa ibabaw ng kahit saang lugar, saan po iyon?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ano po ang isang biyahe na nagustuhan ninyo?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Anong klase ng trabaho po ang nagustuhan ninyong gawin?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ano po ang libangang kaya ninyong gugulin ng maraming oras?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ano po ang isang bagay na kilala kayo sa paggawa o pag-aayos?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Anong payo po ang ibibigay ninyo sa batang nagsisimulang magtrabaho?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Anong klaseng musika po ang nagpapaindak sa inyo?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ano po ang nagiging masaya sa isang magandang handaan?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Sino po ang mang-aawit na gusto ninyong pakinggan?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ano po ang paborito ninyong pelikula o palabas sa TV na gusto ninyong panoorin ulit?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Ano po ang pinakagusto ninyo tungkol sa tag-init?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Ano po ang nagugustuhan ninyo sa taglagas?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ano po ang masarap gawin sa malamig na gabi ng taglamig?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Ano po ang mga unang palatandaan ng tagsibol para sa inyo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Niyebe, ulan o sikat ng araw: alin po ang mas gusto ninyo?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Bulaklak sa paso",
+          "regions": {
+            "sky": "Likuran",
+            "table": "Mesa",
+            "stem": "Tangkay",
+            "leaf-left": "Kaliwang dahon",
+            "leaf-right": "Kanang dahon",
+            "petal-1": "Talulot 1",
+            "petal-2": "Talulot 2",
+            "petal-3": "Talulot 3",
+            "petal-4": "Talulot 4",
+            "petal-5": "Talulot 5",
+            "petal-6": "Talulot 6",
+            "petal-7": "Talulot 7",
+            "petal-8": "Talulot 8",
+            "center": "Gitna ng bulaklak",
+            "pot": "Paso",
+            "pot-rim": "Gilid ng paso"
+          }
+        },
+        "house": {
+          "name": "Bahay",
+          "regions": {
+            "sky": "Langit",
+            "sun": "Araw",
+            "grass": "Damo",
+            "chimney": "Tsimenea",
+            "walls": "Dingding",
+            "roof": "Bubong",
+            "door": "Pinto",
+            "window-left": "Kaliwang bintana",
+            "window-right": "Kanang bintana",
+            "path": "Daanan"
+          }
+        },
+        "teacup": {
+          "name": "Tasa",
+          "regions": {
+            "background": "Likuran",
+            "saucer": "Platito",
+            "handle": "Hawakan",
+            "cup": "Tasa",
+            "band": "Guhit sa tasa",
+            "tea": "Tsaa"
+          }
+        },
+        "butterfly": {
+          "name": "Paru-paro",
+          "regions": {
+            "background": "Likuran",
+            "wing-top-left": "Kaliwang pakpak sa itaas",
+            "wing-top-right": "Kanang pakpak sa itaas",
+            "wing-bottom-left": "Kaliwang pakpak sa ibaba",
+            "wing-bottom-right": "Kanang pakpak sa ibaba",
+            "spot-left": "Batik sa kaliwang pakpak",
+            "spot-right": "Batik sa kanang pakpak",
+            "body": "Katawan"
+          }
+        },
+        "sailboat": {
+          "name": "Bangkang may layag",
+          "regions": {
+            "sky": "Langit",
+            "sea": "Dagat",
+            "sail-big": "Malaking layag",
+            "sail-small": "Maliit na layag",
+            "mast": "Palo",
+            "hull": "Bangka",
+            "flag": "Watawat"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kusina at hardin",
+          "baskets": [
+            "Sa kusina",
+            "Sa hardin"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Prutas at hayop",
+          "baskets": [
+            "Prutas",
+            "Hayop"
+          ]
+        },
+        "home-travel": {
+          "label": "Tahanan at biyahe",
+          "baskets": [
+            "Sa bahay",
+            "Sa labas"
+          ]
+        }
+      }
+    }
+  }
+}
