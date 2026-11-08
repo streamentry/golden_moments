@@ -19,13 +19,13 @@ physical device is listed under "Not verified" and is not scored, not a blocker.
 
 Overall = sum of weight x score.
 
-## Score after Round 7 high contrast & forced colors pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
+## Score after Round 8 dead-end elimination pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
 
 | # | Dimension | Measured | Score |
 | --- | --- | --- | --- |
 | 1 | Plain language | app 441 of 441 strings conform after the six fixes; site play copy 0 long sentences | 10.0 |
 | 2 | Type and contrast | floor and 200% tests pass 10; body 15.1:1 gives 10; secondary 8.1:1 gives 10; primary 6.33:1 gives 9.0; high contrast mode & forced colors reinforced = 10 | 9.75 |
-| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; shape-conforming focus rings on tiles, puzzle pieces and baskets = 10; touch & tremor resilience = 10; print action button on handout = 10 | 10.0 |
+| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; shape-conforming focus rings on tiles, puzzle pieces and baskets = 10; touch & tremor resilience = 10; print action button on handout = 10; zero dead-ends in all games with completion cards = 10 | 10.0 |
 | 4 | Structure and semantics | axe on all 3,921 built pages clean (0 violations); heading skips 0; landmarks fixed; app semantics tests pass | 10.0 |
 | 5 | Reflow and large text | site 1,512 of 1,512 runs clean = 10; app 200% tests pass = 10 | 10.0 |
 | 6 | Localization completeness | app keys 100%; site ui keys 100% (64 of 64 languages have footer.pictures); games keys 100%; guides 100%; picture names 68.8% (44 of 64) | 9.38 |
@@ -47,7 +47,7 @@ Lowest dimension: localization at 9.38 (floor is 7.0). **The bar (above 8.6, non
 1. Localization (9.38): picture names for the 20 languages left in English (needs a translator; machine output there is unreliable).
 2. Type and contrast (9.75): primary gold text at 6.33:1 (brand decision, kept).
 
-History (round 7): Web High Contrast & Forced-Colors Architecture for Visual & Figure-Ground Decline. Dementia alters visual cortex pathways and contrast perception, causing "figure-ground confusion" where buttons and cards blend into the canvas. Added `@media (prefers-contrast: more)` reinforcing borders to 2px-3px solid across all games, buttons, chips, and content cards. Added `@media (forced-colors: active)` mapping active/selected states to system `Highlight`, and critically adding `forced-color-adjust: none` to the Coloring palette (`.swatch__dot`) and artwork regions so Windows Contrast Themes do not wipe out color options or user drawings into uniform blank shapes.
+History (round 8): Dead-End Elimination & Auditory Completion Feedback (Picture Bingo & Coloring). Eliminated caller dead end in `PictureBingo.tsx` when all cards are called by replacing the inert button with a calm `.game__done` card and primary restart button calling `newGame()`; added immediate sensory completion feedback (`sounds.done()`) when Picture Bingo finishes and when all regions in `Coloring.tsx` are colored.
 
 History (round 5): Dementia-Friendly Print Architecture & Dedicated Handout Action. Print activities (word search, coloring, picture bingo, conversation cards) and caregiver guides are frequently printed onto paper by family members, memory care coordinators, and support groups. Upgraded print sheets with high-contrast `#000`/`#222`/`#333` borders replacing faint `#999`/`#777` borders that wash out for older adults with cataract/contrast loss; upgraded bingo text to 16pt large print. Added print-break protection (`break-after: avoid` on headings, `break-inside: avoid` on cards/answers/tables, `orphans: 3`, `widows: 3`). Stripped digital clutter and app promotion banners (`.cta-band`, `.article-aside`, `.app-cta`, `.play-cta`, `.toc`) from printed output and expanded articles to full paper width. Added a dedicated `.no-print` print action button to `/handout/` across all 64 languages so caregivers can print with one tap without digging through browser menus.
 

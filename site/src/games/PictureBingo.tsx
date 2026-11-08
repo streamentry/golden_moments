@@ -36,8 +36,13 @@ export default function PictureBingo(props: PlayProps) {
   const current = called > 0 ? calls[called - 1] : undefined;
   const next = () => {
     if (called >= calls.length) return;
-    sounds.tap();
-    setCalled((n) => n + 1);
+    const nextCalled = called + 1;
+    setCalled(nextCalled);
+    if (nextCalled >= calls.length) {
+      sounds.done();
+    } else {
+      sounds.tap();
+    }
   };
 
   const squareChoices = SQUARES.map((n) => ({ value: n, label: fill(ui.pictureBingo.squares, { n, side: Math.sqrt(n) }) }));
@@ -80,9 +85,18 @@ export default function PictureBingo(props: PlayProps) {
           ) : (
             <p className="caller__name">{ui.pictureBingo.ready}</p>
           )}
-          <button type="button" className="btn btn--primary btn--hero" onClick={next} aria-disabled={called >= calls.length}>
-            {called >= calls.length ? ui.pictureBingo.allCalled : ui.pictureBingo.next}
-          </button>
+          {called >= calls.length ? (
+            <div className="game__done">
+              <p>{ui.pictureBingo.allCalled}</p>
+              <button type="button" className="btn btn--primary btn--hero" onClick={newGame}>
+                {ui.pictureBingo.restart}
+              </button>
+            </div>
+          ) : (
+            <button type="button" className="btn btn--primary btn--hero" onClick={next}>
+              {ui.pictureBingo.next}
+            </button>
+          )}
           {called > 1 ? (
             <div>
               <h2 className="caller__heading">{ui.pictureBingo.alreadyCalled}</h2>
