@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Групавыя заняткі пры дэменцыі для дамоў догляду"
+seoTitle: "Групавыя заняткі пры дэменцыі: бінга, песні, гісторыі"
+description: "Групавыя заняткі для дамоў догляду і дзённых цэнтраў: карцінкавае бінга, песні разам, групы ўспамінаў і парады пра размяшчэнне і колькасць людзей."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Добрыя групавыя заняткі ў догляду і дзённых цэнтрах кароткія, знаёмыя і
+  лёгкія для ўдзелу на любым узроўні: карцінкавае бінга, песні разам, групы
+  ўспамінаў, просты рух і агульныя словесныя гульні. Калі можна, трымайце
+  групы маленькімі, садзіце людзей так, каб усе бачылі і чулі, давайце адзін
+  выразны крок за раз і прадумайце лягчэйшую ролю і ціхі выхад для таго, каму
+  гэта патрэбна.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Меншыя групы часта працуюць лепш за адну вялікую імпрэзу, і яны дазваляюць большай колькасці людзей удзельнічаць, а не толькі глядзець."
+  - "Садзіце людзей колам або падковай, бліжэй да вядучага, з улікам праблем са слыхам і зрокам і пры выключаным фонавым шуме."
+  - "Плануйце кожнае заданне на два-тры ўзроўні, каб людзі з рознымі магчымасцямі маглі ўдзельнічаць."
+  - "Не ладзьце выпрабаванняў, не ўлічвайце ачкі і не выбірайце пераможцаў. Карцінкавае бінга можна гуляць так, каб усе скончылі з поўнай карткай."
+  - "Выхад раней, назіранне або дрымота — гэта нармальна. Памочнік павінен быць гатовы падтрымаць таго, хто хоча ціхага месца."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Якая добрая колькасць людзей для заняткаў пры дэменцыі?"
+    a: "Адзінага правільнага ліку няма, і ён залежыць ад пражываючых, памяшкання і колькасці персаналу. Многія каманды лічаць, што маленькія групы дазваляюць усім бачыць, чуць і ўдзельнічаць, а вялікія залы часцей пакідаюць людзей у ролі гледачоў. Калі вы праводзіце вялікую імпрэзу, дадайце персанал або валянцёраў, якія могуць сядзець сярод пражываючых і дапамагаць аднаму-двум чалавекам кожны."
+  - q: "Як весці групу з людзьмі з рознымі магчымасцямі?"
+    a: "Плануйце больш за адзін спосаб далучыцца да кожнага заняткі. У песнях адны спяваюць кожнае слова, другія пляскаюць або гудуць, трэція трымаюць шэйкер. У карцінкавым бінга адны самі знаходзяць карцінкі, а памочнік паказвае для іншых. Людзей, якім патрэбна больш дапамогі, садзіце побач з персаналам або валянцёрам."
+  - q: "Як гуляць у карцінкавае бінга без спаборніцтва?"
+    a: "Называйце кожную карцінку, пакуль картка кожнага не запоўніцца, каб ніхто не застаўся без увагі. Размаўляйце пра кожную карцінку, калі яна выпадае, і не ўручайце прызоў пераможцам — або дайце ўсім аднолькавы невялікі падарунак. Мэта — агульная ўвага і размова, а не тое, хто хутчэй скончыць."
+  - q: "Ці можна выкарыстоўваць вашы гульні на вялікім экране для групы?"
+    a: "Так. Нашы гульні працуюць у вэб-браўзеры, таму вы можаце адкрыць іх на наўтбуку або планшэце, падключаным да тэлевізара або праектара. Карцінкавае бінга ўключае карткі для друку і экраннага вядучага. «Закончы прымаўку» і «Пары карцінак» таксама добра працуюць на вялікім экране, калі адзін чалавек націскае для ўсёй групы."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Этот дапаможнік для кіраўнікоў заняткаў, каманд догляду і кіраўнікоў дзённых цэнтраў для дарослых. Ён расказвае пра фарматы групавых заняткаў, якія добра працуюць, пра размяшчэнне ў пакоі, пра тое, як адаптаваць адно заданне для людзей з рознымі магчымасцямі, і пра выкарыстанне нашага друкаванага бінга і гульняў на вялікім экране. Усё тут накіравана на камфорт, сувязь і выбар. Гэта не тэст.
 
-## What makes a group activity work in memory care?
+## Што робіць групавое заданне карысным у догляду для людзей з дэменцыяй?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Добрае групавое заданне знаёмае, кароткае, лёгкае для ўдзелу на любым узроўні і без ціску. Рэкамендацыі па догляду ад Асацыяцыі Альцгеймера, [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf), апісваюць значную ўцягнутасць як тое, што падтрымлівае інтарэсы і перавагі чалавека, дае выбар і магчымасць атрымаць поспех, нават калі дэменцыя цяжкая. У гэтым жа дакуменце адзначаецца, што традыцыйныя праграмы часта абапіраюцца на адно-два вялікія групавыя мерапрыемствы на дзень, дзе пражываючыя часта толькі пасіўна ўдзельнічаюць.
 
-That points to a few practical rules:
+З гэтага вынікае некалькі практычных правілаў:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Знаёмае важней за новае.** Песні, прымаўкі, карцінкі і прадметы з юнацтва людзей лягчэй прыняць.
+- **Кароткае важней за доўгае.** Плануйце прыблізна столькі, колькі звычайна трымаецца ўвага вашай групы, з натуральнай паўзай.
+- **Дзеянне важней за назіранне.** Дайце кожнаму нешта ўзяць у рукі, пастукаць, выбраць або сказаць.
+- **Адно заданне, розныя ўзроўні.** Закладвайце лягчэйшыя і складаныя спосабы ўдзелу.
+- **Без пераможцаў і ачкоў.** Спаборніцкія формы прымушаюць некаторых людзей думаць, што яны «праваліліся».
 
-## How big should the group be?
+## Якая група павінна быць па колькасці?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Меншая група звычайна зручнейшая. Асацыяцыя Альцгеймера адзначае, што чалавек, які адчувае перагрузку ў вялікім сходзе, можа ўзаемадзейнічаць паспяхова ў меншай групе. Адзінага правільнага ліку няма. Усё залежыць ад пражываючых, памяшкання і колькасці персаналу і валянцёраў.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Карысная праверка: ці бачыць кожны ўдзельнік твар кіраўніка, ці добра чуе і ці можа хто-небудзь з памочнікаў падысці да яго за некалькі секунд? Калі не, падзяліце групу, дадайце памочнікаў або перайдзіце ў меншы пакой.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Для вялікай імпрэзы, напрыклад святочнага канцэрту, садзіце персанал і валянцёраў сярод пражываючых, а не ўздоўж сцен.
 
-## How should I set up the room and seating?
+## Як размясціць пакой і месцы?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Круг або падкова.** Рэкамендацыі па практыцы апісваюць круг для абмену як найлепшы варыянт у прасторы, дзе ўсе могуць сесці колам без фонавага шуму.
+- **Кіраўнік блізка і на ўзроўні вачэй.** Сядзьце, калі магчыма, а не стойце.
+- **Слых і зрок — у першую чаргу.** Людзей са слабым слыхам садзіце бліжэй да кіраўніка, бокам, які лепш чуе. Пераканайцеся, што акуляры і слыхавыя апараты на месцы. Асацыяцыя Альцгеймера адзначае, што праблемы са зрокам і слыхам могуць ускладняць зносіны.
+- **Святло ззаду пражываючых, а не ззаду вас.** Не садзеце нікога тварам да яркага акна.
+- **Выключыце тэлевізар і радыё.** Асацыяцыя Альцгеймера рэкамендуе прыбіраць сыходныя гукі падчас музычных заняткаў.
+- **Адна размова адначасова.** Перакрыжаваныя размовы цяжкія для людзей з дэменцыяй і для людзей са слабым слыхам, як адзначае Асацыяцыя Альцгеймера ў сваіх [рэкамендацыях на свята](https://www.alz.org/help-support/caregiving/holidays).
+- **Вольныя выхады і ціхі куток.** Той, хто хоча выйсці, павінен мець магчымасць зрабіць гэта лёгка, з персаналам, які пойдзе побач.
 
-## Group activity ideas
+## Ідэі групавых заняткаў
 
-### Picture bingo
+### Карцінкавае бінга
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Карцінкавае бінга замяняе лічбы выразнымі карцінкамі, напрыклад чайнік, сабака або ружа, таму нікому не трэба сачыць за доўгім лікам або чытаць дробны шрыфт.
 
-**How to run it:**
+**Як весці:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Надрукуйце адну картку на аднаго ўдзельніка са старонкі [Карцінкавае бінга](/games/picture-bingo/), выкарыстоўваючы кнопку друку. Цяжкі папера зручнейшая. Для паўторнага выкарыстання ламінуйце.
+2. Дайце вялікія маркеры, якія лёгка ўзяць, напрыклад фішкі, каронкі ад бутэлек або вырэзаныя квадраты картону.
+3. Выкарыстоўвайце экраннага вядучага на тэлевізары або праектары, каб усе бачылі карцінку, пакуль вы называеце яе.
+4. Пасля кожнай карцінкі рабіце паўзу і запрашайце каротка выказацца: «Ці хто-небудзь хацеў бы расказаць пра сабаку, якога ведаў?» або «Што вы заўважаеце на гэтай карцінцы?»
+5. Называйце, пакуль кожная картка не запоўніцца. Усе заканчваюць.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Адаптацыя:** Для людзей, якім поўная картка здаецца занадта складанай, выкарыстоўвайце менш квадратаў. Памочнік можа паказаць патрэбную карцінку. Некаторыя могуць аддаць перавагу трымаць картку вядучага і паказваць яе групе.
 
-### Sing-alongs
+### Песні разам
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Музыка — адно з самых шырока любімых групавых заняткаў. Асацыяцыя Альцгеймера адзначае, што нават на позніх стадыях чалавек можа [прыстукваць у такт або спяваць песню з дзяцінства](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Як весці:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Выбірайце песні, з якімі раслі пражываючыя, а не ўлюбёныя песні кіраўніка. Спытайцеся ў сем'яў, што любіў кожны.
+- Выкарыстоўвайце музыку без рэкламы, бо, як адзначае Асацыяцыя, яна можа блытаць.
+- Друкуйце тэксты вялікім шрыфтам для тых, хто чытае, але не патрабуйце гэтага.
+- Прапануйце шэйкеры, ручныя барабаны або шалікі, каб махаць.
+- Заахвочвайце пляскаць і рухацца, і трымайце гучнасць камфортнай.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Адаптацыя:** Хтосьці будзе спяваць кожнае слова, хтосьці будзе гудзець, хтосьці будзе стукаць нагой, а хтосьці проста слухаць. Усё гэта мае значэнне. Больш — у нашым [дапаможніку па музычных заняткаах](/activities/music/).
 
-### Reminiscence groups
+### Групы ўспамінаў
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Група ўспамінаў збіраецца вакол тэмы, напрыклад школьныя гады, першыя аўтамабілі, кухні або лета, з выкарыстаннем фота, прадметаў і музыкі. Мэта — прыемная размова, а не дакладнае ўзгадванне.
 
-**How to run it:**
+**Як весці:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Выберыце адну тэму і прынясіце некалькі прадметаў, якія можна ўзяць у рукі: ручны міксер, бейсбольную рукавіцу, капялюш, каталог насення.
+2. Перадавайце па адным прадмеце. Задавайце адкрытыя пытанні: «Раскажыце пра гэта», «Што вы заўважаеце?», «Хто карыстаўся чымсьці падобным?»
+3. Прымайце кожны адказ. Ніколі не выпраўляйце дату або факт.
+4. Накіроўвайце размову да цёплых успамінаў. Рэкамендацыі па практыцы ўказваюць, што людзі, якія дбаюць, павінны накіроўваць успаміны да станоўчых, а не да тых, што могуць выклікаць расстройства.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Карткі для размовы](/games/conversation-cards/) — гэта друкаваныя карткі з карцінкамі і адкрытымі пытаннямі па тэмах, якія добра падыходзяць для абмеркавання. Больш ідэй — у нашым [дапаможніку па ўспамінах](/activities/reminiscence/).
 
-### Finish the saying
+### Закончы прымаўку
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Знаёмыя прымаўкі запрашаюць усіх прамовіць канцоўку разам. Пакажыце [Закончы прымаўку](/games/finish-the-saying/) на вялікім экране і дайце групе адказваць адным голасам. Пасля кожнай прымаўкі ёсць пытанне для размовы. Калі ніхто не назаве канцоўку, пакажыце яе і рухайцеся далей. Няма правільнага або няправільнага адказу.
 
-### Large-print word search, together
+### Пошук слоў разам вялікім шрыфтам
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Выведзіце вялікі [Пошук слоў](/games/word-search/) на экран і шукайце словы разам у групе або надрукуйце копіі для тых, хто любіць працаваць самастойна за сталом. Словы размешчаны толькі злева направа і зверху ўніз.
 
-### Gentle movement
+### Лёгкі рух
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Сядзячыя расцяжкі, перадача мяккага мяча або паветранага шара, танцы на крэслах пад знаёмую музыку. Паказвайце кожны рух, а не толькі апісвайце яго.
 
-### Sorting and matching at the table
+### Сартаванне і падбор за сталом
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Маленькія сталы на тры-чатыры чалавекі могуць разам сартаваць карцінкі, узоры тканіны або сталовыя прыборы. На экране [Пары карцінак](/games/picture-pairs/) можна гуляць з адкрытымі карцінкамі: адзін чалавек націскае, а стол абмяркоўвае кожную карцінку.
 
-## How do I use your games on a big screen?
+## Як выкарыстоўваць нашы гульні на вялікім экране?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Нашы гульні працуюць у вэб-браўзеры, таму вы можаце выкарыстоўваць іх на тэлевізары або праектары без усталявання чаго-небудзь.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Адкрыйце гульню на наўтбуку або планшэце, падключаным да экрана кабелем або праз трансляцыю.
+2. Зрабіце браўзер на ўвесь экран і выстаўце гук на камфортны ўзровень.
+3. Адзін вядучы націскае, а група называе варыянты. Або перадайце планшэт пражываючаму, які хоча мець свой ход.
+4. Спыняйцеся, калі група гатова. У гульнях няма таймера, ачкоў і прымусовага завяршэння.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Карцінкавае бінга](/games/picture-bingo/), [Закончы прымаўку](/games/finish-the-saying/), [Пары карцінак](/games/picture-pairs/) і [Карткі для размовы](/games/conversation-cards/) звычайна лепш за ўсё падыходзяць групам. Усе варыянты — на нашай [старонцы гульняў](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Як адаптаваць адно заданне для розных магчымасцей?
 
-Plan at least three ways to join every activity.
+Плануйце не менш за тры спосабы ўдзелу ў кожным заданні.
 
-| Activity | More independent | Some support | Most support |
+| Заданне | Больш самастойна | З невялікай падтрымкай | Найбольш падтрымкі |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Карцінкавае бінга | Знаходзіць і закрывае свае карцінкі | Памочнік паказвае; чалавек закрывае | Трымае картку з карцінкай; слухае і глядзіць |
+| Песні разам | Спявае, выбірае наступную песню | Гудзе, пляскае, карыстаецца шэйкерам | Слухае, трымае шалік, прыкладае руку |
+| Успаміны | Расказвае гісторыі | Адказвае «так» або «не» ці паказвае | Трымае прадмет і адчувае яго |
+| Пошук слоў | Працуе з уласнай друкаванай копіяй | Знаходзіць словы на вялікім экране з памочнікам | Слухае, як словы зачытваюцца ўголас |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Для пражываючых на позніх стадыях NHS адзначае, што заняткі звычайна павінны быць прасцейшымі і больш накіраванымі на пачуцці, напрыклад на музыку, прадметы для дотыку і масаж рук. Індывідуальная хвіліна падчас або пасля групы можа падыходзіць ім больш, чым сама група. Гл. [заняткі на позняй стадыі](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Як кіраўнікам гаварыць падчас групы?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Прадстаўляйцеся кожны раз і называйце кожнага па імені, якім ён хоча.
+- Гаварыце павольна, давайце адзін крок адначасова і спачатку пакажыце, потым раскажыце.
+- Задавайце адкрытыя запрашэнні («Раскажыце пра...») або простыя выбары, ніколі не задавайце пытанні-экзамены («Ці памятаеце вы...?»).
+- Не выпраўляйце. Дзякуйце за кожны ўклад.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Больш на гэтую тэму — у нашых [парадах па зносінах](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Як добра завяршыць і даць людзям магчымасць пайсці
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Спыненне — гэта добры вынік. Сачыце за прыкметамі стомы, неспакою або засмучэння і папрасіце памочніка прапанаваць прагулку або ціхае месца ў іншым пакоі. Калі хтосьці задрамаў падчас песень, магчыма, яму проста ўтульна.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Заканчвайце кожную групу аднолькава, знаёмай песняй або простым дзякуй, каб заканчэнне было спакойным і прадказальным. Пасля запішыце, што спрацавала і каму што спадабалася. Гэтыя запісы зробяць наступнае заданне лепшым.

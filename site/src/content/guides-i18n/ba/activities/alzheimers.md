@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Альцгеймер сирле кешеләр өсөн эшмәкәрлек һәм уйындар"
+seoTitle: "Альцгеймер эшмәкәрлеге: этаптар буйынса идеялар"
+description: "Альцгеймер сирле кешеләр өсөн этаптарға ярашлы эшмәкәрлек һәм уйындар, озаҡ һаҡланған күнекмәләргә һәм истәлектәргә нигеҙләнгән, бергәләп уйнау өсөн бушлай уйындар менән."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Альцгеймер сирле кешегә яҡшы эшмәкәрлек иң оҙаҡ һаҡланғанға таяна: оҙаҡ
+  өйрәнелгән күнекмәләргә, иҫке йырҙарға, таныш эштәргә һәм сенсорға. Башта
+  карталар, таҡта уйындары, ашарға бәйле эштәр һәм сәйәхәттәр күп осраҡта еңел
+  була. Урта этапта төрөү, айырыу, йырлау, фотоальбомдар һәм ябай рәсем уйындары
+  ярай. Сирҙең һуңғы этабында иң мөһиме — музыка, тейеү һәм иптәшлек. Ҡарарҙы
+  кешенең бөгөнгө хәлен күҙ уңында тотоп ҡабул итегеҙ.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Альцгеймер — деменцияның иң йышы осрай торған сәбәбе, шуға күрә деменция өсөн эшмәкәрлек идеялары уға ла ҡағыла."
+  - "Яңы мәғлүмәт, ғәҙәттә, иң тәүге булып ауыр була, ә бик иртә өйрәнелгән күнекмәләр һәм йырҙар оҙағыраҡ һаҡлана. Шуға таянығыҙ."
+  - "Этаптар бер-береһе менән инә, һәм яҡшы һәм ауыр көндәр — ғәҙәти хәл. Бөгөн кешенең нимә эшли алыуын һәм нимәне яратыуын ҡарағыҙ."
+  - "Ваҡыт, иҫәп йәки һорауҙар булмаған уйындарҙы һайлағыҙ, һүрәттәр күренеп торһон."
+  - "Ҡарау, нимәлер тотоу йәки бергә генә ултырыу ҙа ҡатнашыу тип һанала."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Альцгеймер сирле кешегә нинди эшмәкәрлек яҡшы?"
+    a: "Таныш эштәр, уларҙы бер аз еңеләйтеп: кейем йыйыу, өҫтәл әҙерләү, бергә ашарға пешереү, музыка һәм йырлау, фотоларға ҡарау, йөрөү, баҡсала эшләү һәм йәнлек менән ваҡыт үткәреү. Ябай рәсем уйындары, еңел йыйылған һүрәттәр һәм һөйләшеү карталары ла күптәргә яраҡлы. Кешенең борондан яратҡанын һайлағыҙ һәм уның янында эшләгеҙ."
+  - q: "Уйындар Альцгеймер сирле кешегә файҙалымы?"
+    a: "Әгәр кеше яратһа, уйындар бергә ваҡыт үткәрергә матур юл була ала. Һис бер уйын Альцгеймерҙы дауаламай, әкренләтмәй һәм туҡтатмай тип иҫбатланмаған. Шуға күрә уйындарҙы рәхәтләнеү өсөн һайлағыҙ: эре рәсемдәр, аҙ һайлау, ваҡыт, иҫәп йәки дөрөҫ булмаған яуап тауышы булмаған уйындар."
+  - q: "Деменция эшмәкәрлеге менән Альцгеймер эшмәкәрлеге айырыламы?"
+    a: "Күпселек осраҡта юҡ. Альцгеймер сиреше — деменцияның иң йышы сәбәбе, һәм эш идеялары шул уҡ. Альцгеймерҙа ярҙам итә торған нәмә — яҡынғы арала булған хәтирәләр ғәҙәттә иң тиҙ юғала, шуға ла иҫке күнекмәләргә, йырҙарға һәм ғәҙәти тәртипкә таянған эштәр еңелерәк бара."
+  - q: "Һуңғы этаптағы Альцгеймер сирле кеше нимә менән рәхәтләнә ала?"
+    a: "Яратҡан музыка, йомшаҡ кул массажы, йылы, йомшаҡ нәмәләр тотор өсөн, уҡып бирелгән хикәйә, тышта ултырыу һәм ышанған кеше менән булыу. Ҡыҫҡа һәм тыныс булһын, һәм уның йөҙөнә, тәненә ҡарап, нимә яратыуын күҙәтегеҙ."
+  - q: "Альцгеймер сирле кешене эшмәкәрлеккә ҡыҙыҡһындырыр өсөн нишләргә?"
+    a: "Эшмәкәрлекте иғлан итмәй, ярҙам һорағыҙ; алда бар нәмәне әҙерләгеҙ һәм үҙегеҙ башлағыҙ, шул саҡта ул ҡушыла ала. Көндөң уның иң яҡшы хәлендә булған ваҡытын һайлау бик ныҡ ярҙам итә. Ул «юҡ» тиһә, һуңыраҡ яңынан тәҡдим итегеҙ йәки кәмерәк варианты менән алмаштырығыҙ."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Яратҡан кешегеҙҙең Альцгеймер сиреше булһа, бәлки инде күргәнһегеҙҙер: кайһы нәмәләр тиҙ юғала, ә икенселәре һаҡлана. Ул бөгөн иртән телефон аша һөйләшкәнде оноторға мөмкин, ә гимнды бөтә һүҙҙәре менән йырлай, кейемен элекке кеүек ҡатлап йыя, йәки карталарҙы уйлап тормай таратыр. Яҡшы эшмәкәрлек ошондай һаҡланған күнекмәләргә нигеҙләнә. Был биттә шул хаҡта аңлатма бар, һәм һәр этап өсөн идеялар, шулай уҡ был сайттағы бушлай уйындар бирелә.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Альцгеймер эшмәкәрлек хаҡында деменциянан айырыламы?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Күпселек осраҡта айырылмай. Деменция — дөйөм атама, ә Альцгеймер сиреше уның иң йышы сәбәбе: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) фекеренсә, ул деменция осраҡтарының 60-тан 80 процентына тиклемен тәшкил итә. Деменция эшмәкәрлегенә арналған теләһә ниндәй яҙма Альцгеймерға ла ҡағыла, шул иҫәптән беҙҙең [101 эшмәкәрлек идеяһы](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Файҙалыһы — үҙгәрештәрҙең ғәҙәти тәртибен белеү. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) аңлатыуынса, Альцгеймер башта мейеләге хәтер өлөшөн зарарлай, һуңынан теле, фекерләү һәм ғәмәлдәр тәртибенә лә үтә. Alzheimer's Association билдәләүенсә, иң йышы беренсе билдә — яңы белгән мәғлүмәтте иҫтә тота алмау. Һәр кеше төрлө, күп кешеләрҙә бер нисә сәбәп бергә була, ләкин был ҡалып эш итеүгә йоғонто яһай.
 
-## What kinds of activities suit Alzheimer's best?
+## Альцгеймер өсөн нинди эшмәкәрлек иң яраҡлы?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Борондан яҡшы өйрәнелгән белемгә таянған эштәр, яңы нәмәне өйрәнергә һәм иҫтә тотарға кәрәк булғандарға ҡарағанда, ғәҙәттә, тыныраҡ бара.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Оҙаҡ өйрәнелгән күнекмәләр.** Alzheimer's Association билдәләүенсә, кеше йылдар элек пианинола өйрәнгән ябай көйҙәрҙе әле лә уйнай ала. Бәйләү бәйләү, ағас ышыҡлау, карталарҙы ҡушып һуғыу, ашлама ҡамыр баҫыу һәм кейем йыйыу — шундай эштәр.
+- **Иҫке йырҙар һәм таныш музыка.** Күп кешеләр үҫмер һәм йәш саҡта йырланған йырҙарҙың һәр һүҙен белә, шулай уҡ ғибәҙәт йырҙарын һәм туйҙа йырланғанды ла. Ҡарағыҙ: [музыка эшмәкәрлеге](/activities/music/).
+- **Көнүҙәк эштәр, маҡсаты менән.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) йыуыуҙы, өҫтәл әҙерләүҙе, оҙон сораҡтарҙы айырыуҙы һәм кейем йыйыуҙы кешеләр яратырға мөмкин эштәр рәтенә индерә. Файҙалы булыу мөһим.
+- **Танып алыу, иҫкә төшөрөү түгел.** Исемен әйтеп бирергә ҡарағанда, оҡшаш рәсемде күрһәтеү еңелерәк. Шуға күрә һәммәһе күренеп торған рәсем уйындары һорауҙарға ҡарағанда яҡшыраҡ.
+- **Сенсорҙар.** Тукыма, еҫ, йылылыҡ, тәм һәм тауыш — һүҙҙәр ауырлашҡас та мәғәнәле ҡала. Ҡарағыҙ: [сенсор эшмәкәрлек](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Нимә яҡшы бармай: ваҡыт, яңы ҡағиҙәләр өйрәнергә кәрәк булған, күп аҙымдарҙы иҫтә тотарға тура килгән эштәр, йәки хәтерҙе һынаған һорауҙар, мәҫәлән, «Был кешене иҫләйһеңме?» Улар Альцгеймерҙың ауыр яғын алға сығара.
 
-## Activities for early-stage Alzheimer's
+## Альцгеймерҙың башланғыс этабы өсөн эшмәкәрлек
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Башланғыс этапта [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) билдәләүенсә, кеше әле машина йөрөтә, эшләй һәм социаль сараларҙа ҡатнаша ала, ә таныш һүҙҙәрҙе йәки нәмәләрҙең урынын онотоуҙарын ҡайһы саҡ күрә. Иң яҡшы ҡараш — хеҙмәттәшлек: нимә эшләргә теләүен һәм ниндәй ярҙам кәрәк булыуын һорағыҙ.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Элекке хобби менән дауам итегеҙ.** Гольф, бридж, ҡолтоҡ ҡыстырыу, хор һәм сиркәү төркөмдәре — бәләкәй төҙәтмәләр менән, мәҫәлән, кәмерәк төркөмдәр һәм тыныраҡ ваҡыт.
+2. **Таныш карта һәм таҡта уйындарын уйнағыҙ.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) башланғыс этап өсөн викторина, һүҙ эҙләү, карта һәм таҡта уйындарын атай. Иҫәп тотоу ҡыйынлыҡ тыуҙырһа, команда булып уйнағыҙ йәки иҫәпте бөтөнләй ташлағыҙ.
+3. **Бергә пешерегеҙ.** Һеҙ рецепттарҙы уҡырға шөғөлләнегеҙ, ә ул белгән тәмде үҙе йүнәлтһен.
+4. **Тормош тарихы проекты башлағыҙ.** Фото, рецепттар һәм хикәйәләр — уның үҙе йүнәлтеп торған альбомда. Ҡарағыҙ: [иҫкә төшөрөү эшмәкәрлеге](/activities/reminiscence/).
+5. **Сәйәхәткә сығығыҙ.** Яратҡан ресторан тыныс сәғәттә, музейҙа ҡыҫҡа ғына ҡарап сығыу, паркта йөрөү.
+6. **Үҙе һайлаған фекер уйындары.** Эре хәрефле кроссворд, һүҙ эҙләү һәм пазлдар. Ҡарағыҙ: [деменция өсөн головоломкалар](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Тағы идеялар: [башланғыс этап эшмәкәрлеге](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Альцгеймерҙың урта этабы өсөн эшмәкәрлек
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association урта этапты ғәҙәттә иң оҙонона һанай һәм ул күп йылға һуҙылырға мөмкин, тип яҙа. Һүҙҙәр ҡарышып китә, ризаһыҙлыҡ еңелерәк килә, кешегә күберәк ярҙам кәрәк. Alzheimer's Foundation of America өҫтәй, күп кешегә эшмәкәрлекте башлар йәки дауам итер өсөн ярҙам кәрәк. Һеҙҙең роль ҡулайлаштырыуға, аңлатыу түгел, күрһәтеүгә һәм ауыр өлөштө үҙегеҙгә алыуға күсә.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Төрөгөҙ, айырығыҙ, оҡшатығыҙ.** Ҡулъяулыҡтар, ойоҡтар, ашау ҡорамалдары, төймәләр төҫө буйынса. Яңы булмаған, бергә башҡарылған эш.
+2. **Йырлағыҙ һәм музыка буйынса хәрәкәт итегеҙ.** Ҡул шаҡығыҙ, бейегеҙ, ашханәлә бейеп алығыҙ. Үҙегеҙ йырлай башлағыҙ һәм уны ҡушылырға рөхсәт итегеҙ.
+3. **Фотоальбомдарға ҡарағыҙ.** Күргәндәрегеҙҙе һүрәтләгеҙ һәм хикәйәләр һорағыҙ: «Ниндәй машина ул. Миңә һөйләп бир.» Ул ҡулланған исемдәргә ҡушылығыҙ.
+4. **Ябай рәсем уйындары уйнағыҙ.** [Picture pairs](/games/picture-pairs/) — дүрт-алты плитка һәм рәсемдәр күренеп торғанда, йәки [Find the same](/games/find-the-same/) — ике-өс һайлау менән.
+5. **Таныш әйтемдәрҙе тамамлағыҙ.** «Ут булмаһа, ...» Ҡасандыр өйрәнелгән әйтемдәр еңел килә. [Finish the saying](/games/finish-the-saying/) уйнағыҙ — бер баҫыу менән теләһә ниндәй осло күрһәтергә мөмкин.
+6. **Һыу һибегеҙ, үҫемлектәргә ҡарағыҙ.** Бүлмә ҡулдары йәки бағсаның бер баҫыуында, бәләкәй һыу һибеү сүмсығы менән.
+7. **Ғаиләнең фотоларынан оҡшатыу уйыны яһағыҙ.** [Photo pairs](/games/photo-pairs/) — һеҙҙең ҡоролмаҡтағы һайлаған рәсемдәр менән; улар ҡоролмаңыҙҙан сыҡмай.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Тағы идеялар: [урта этап эшмәкәрлеге](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Альцгеймерҙың һуңғы этабы өсөн эшмәкәрлек
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Alzheimer's Association билдәләүенсә, һуңғы этапта кеше тирә-яҡҡа яуап бирә алмай, һөйләшеүҙе дауам итә алмай, ә ҡайһы бер һүҙҙәрҙе әйтергә мөмкин. Ошо ваҡытта эшмәкәрлек — тыныслыҡ һәм аралашыу, кеше ятҡан урында.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Яратҡан музыканы тыныс ҡуйығыҙ,** телевизор бәхәсләшмәһен.
+2. **Йомшаҡ кул массажы яһағыҙ,** уның яратҡан еҫле майлығы менән.
+3. **Тотор өсөн йомшаҡ нәмәләр бирегеҙ:** йылы пледтар, флис, тигеҙ таш.
+4. **Ҡысҡырып уҡығыҙ.** Забур, шиғыр йәки таныш хикәйә. Ритм мәғәнәнән дә мөһимерәк.
+5. **Тышта ултырығыҙ.** Күләгәлә, йәки ҡоштар ҡарап торған тәҙрә янында.
+6. **Бергә бер эре рәсемгә ҡарағыҙ.** Ҡояшбаш сәскә йәки планшет экранын тултырған эт, һеҙ күргәнде әйтеп.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Тағы идеялар: [һуңғы этап эшмәкәрлеге](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Альцгеймер сирле кешегә нинди уйындар яраҡлы?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Уңышһыҙлыҡ булмаған уйындарҙы һайлағыҙ. Был сайттағы һәр уйын бушлай, браузерҙа эшләй һәм ваҡыт, иҫәп йәки теркәлеү талап итмәй.
 
-| Game | What you do | Often suits |
+| Уйын | Нимә эшләнә | Ҡайһы этапҡа тура килә |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Эре рәсемдәрҙе оҡшатығыҙ; улар өҫкә ҡарап ята ала | Башланғыс һәм урта этап |
+| [Find the same](/games/find-the-same/) | Өҫтәге рәсемгә оҡшаған рәсемде баҫығыҙ | Урта һәм һуңғы этап, ярҙам менән |
+| [Finish the saying](/games/finish-the-saying/) | Таныш әйтемдең һуңғы һүҙен һайлағыҙ йәки күрһәтегеҙ | Башланғыс һәм урта этап |
+| [Picture puzzle](/games/picture-puzzle/) | Рәсем күренеп торғанда 4 йәки 9 ҡиҫәкте урынына ҡуйығыҙ | Башланғыс һәм урта этап |
+| [Conversation cards](/games/conversation-cards/) | Һөйләшергә рәсем һәм асыҡ һорау | Теләһә ниндәй этап, һөйләшерлек кеше менән |
+| [Photo pairs](/games/photo-pairs/) | Үҙегеҙҙең фотоларҙан яһалған оҡшатыу уйыны | Башланғыс һәм урта этап |
+| [Coloring](/games/coloring/) | Төҫ һайлағыҙ, һуңынан рәсемдең бер өлөшөн баҫығыҙ; йәки баҫтырып алығыҙ | Теләһә ниндәй этап, ярҙам менән |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Нисек бергә ултырырға, ҡайһы сиктә ярҙам итергә һәм ҡасан туҡтарға кәрәк — [деменциялы кеше менән уйындар уйнау](/caregiving/how-to-play-together/) тураһында уҡығыҙ. «Хәтер уйындары» тураһында уйлаһағыҙ, ҡарағыҙ: [деменциялы өлкән кешеләр өсөн хәтер уйындары](/activities/memory-games/).
 
-## How to make any activity easier
+## Теләһә ниндәй эшмәкәрлекте еңелерәк итеү
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA кәңәше берничә ғәҙәткә килә: эшмәкәрлекте кешенең нимә эшли алыуына ярашлы итеү, башларға ярҙам итеү, ризаһыҙлыҡты күҙәтеү, уңышлы булыуын тәьмин итеү, һәм яратҡан булһа, ул күҙәтеүсе булып ҡалһын.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Көндөң иң яҡшы ваҡытын һайлағыҙ,** һәм сессияларҙы ҡыҫҡа тотоғоҙ.
+- **Алда бар нәмәне әҙерләгеҙ,** шул саҡта дарҡыу башлай алаһығыҙ.
+- **Һорағыҙ, бойорманығыҙ.** «Миңә ҡул ярҙамы бирә алаһыңмы?» тигән һүҙ «Эшмәкәрлек ваҡыты.» тигәндән яҡшыраҡ.
+- **Беренсе аҙымды үҙегеҙ яһағыҙ,** һәм ул ҡушылһын.
+- **Бер ваҡытта бер аҙым һәм бер һайлау тәҡдим итегеҙ.**
+- **Уның ысулы менән ҡалһын.** Ҡыйшайған ҡулъяулыҡтар ҙа ярай.
+- **Әле ҡыуаныс менән тамамлағыҙ.** Иртә туҡтау — уңыш, уңышһыҙлыҡ түгел. Әгәр ул баш тартһа, ҡарағыҙ: [деменциялы кеше «юҡ» тигәндә](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ябай әйтә: иғтибарҙы ҡаҙаныш түгел, ҡыуаныс өҫтөнә ҡуйығыҙ.

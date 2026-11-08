@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Сандаўнінг: спакойныя заняткі ў другой палове дня"
+seoTitle: "Сандаўнінг: спакойныя заняткі ўвечары"
+description: "Спакойны распарадак, змены ў пакоі і ціхія заняткі, якія могуць палегчыць вечаровае неспакойства пры дэменцыі, а таксама калі варта звярнуцца да ўрача."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Сандаўнінг — гэта неспакойства, блытанііна ў думках або раздражнёнасць, якія
+  пачынаюцца або паглыбляюцца ў другой палове дня ці ўвечары. Практычныя крокі,
+  якія могуць дапамагчы: сталы распарадак дня, святло і актыўнасць у першай
+  палове дня, менш позніх дрэмаў, менш кофеіну, яркае свята ў пакоі да змяркання,
+  ціхая атмасфера ў доме і спакойныя заняткі, напрыклад музыка, фота або складанне
+  бялізны. Новыя або пагаршальныя сімптомы патрабуюць агляду ў ўрача.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Сандаўнінг — гэта неспакойства або блытаніна, якія пачынаюцца або пагаршаюцца па меры змяркання."
+  - "Складаныя справы, выхады з дому і купанне лепш планаваць на ранак або пачатак дня."
+  - "Дзённае святло, штодзённая прагулка, менш позніх дрэмаў і менш кофеіну ўвечары могуць зрабіць вечары спакайнейшымі."
+  - "Уключайце святло да змяркання, знізьце гук і пераходзьце да спакойных, знаёмых заняткаў."
+  - "Вядзіце запісы, каб заўважаць прычыны, і захоўвайце спакой і супакойлівы тон, калі пачынаецца неспакойства."
+  - "Звярніцеся да ўрача пры новых або пагаршальных сімптомах: боль, інфекцыя або лекі могуць адыгрываць сваю ролю."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "У які час дня звычайна бывае сандаўнінг?"
+    a: "Звычайна ён пачынаецца або паглыбляецца ў другой палове дня ці ўвечары, па меры змяркання. Дакладны час у кожнага свой, таму можа дапамагчы кароткі запіс на тыдзень ці два."
+  - q: "Якія заняткі дапамагаюць пры сандаўнінгу?"
+    a: "Спакойныя, знаёмыя заняткі з невялікімі патрабаваннямі, як правіла, лепш спрацоўваюць ува второй палове дня: ціхая музыка, раглядванне фота, любімы тэлевізійны серыял або фільм, складанне бялізны, кароткая прагулка ці разам перакусіць. Новыя або складаныя заняткі лепш пакінуць на першую палову дня."
+  - q: "Ці можа сандаўнінг быць прыкметай медычнай праблемы?"
+    a: "Яго могуць узмацняць праблемы са здароўем: боль, інфекцыі, напрыклад інфекцыі мачавых шляхоў, праблемы са сном або пабочныя эфекты лекаў. Калі неспакойства новае, раптоўнае або пагаршаецца, звярніцеся да ўрача гэтага чалавека."
+  - q: "Ці варта пыталіся ў ўрача пра лекі ад сандаўнінгу?"
+    a: "Гэта размова для ўрача. Alzheimer's Association піша, што безмедыкаментозныя падыходы звычайна выбіраюць у першую чаргу, а лекі ад вечаровага неспакойства варта разглядаць толькі пасля ацэнкі рызык і карысці. Гэтая старонка не дае парад па лекам."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Многія сем'і заўважаюць адну і тую ж карціну: раніцай стан даволі ўраўнаважаны, але ў другой палове дня чалавек з дэменцыяй пачынае неспакойнічаць, трывожыцца, блытацца ў думках або раздражняцца. Ён можа хадзіць з кута ў кут, прасіць «ісці дадому» нават тады, калі ўжо дома, або лёгка засмучацца. Гэта часта называюць сандаўнінгам.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Адзінага рашэння няма, але змены ў рытме дня, у пакоі і ў тым, якія заняткі вы прапануеце, могуць зрабіць вечары спакайнейшымі. Гэтая старонка ўтрымлівае практычныя немедыцынскія парады з National Institute on Aging і Alzheimer's Association. Гэта не медычная кансультацыя. Калі сімптомы новыя, раптоўныя або пагаршаюцца, пагутарыце з лекарам гэтага чалавека.
 
-## What is sundowning?
+## Што такое сандаўнінг?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Сандаўнінг — гэта неспакойства, узбуджэнне, раздражняльнасць або блытаніна, якія пачынаюцца або паглыбляюцца па меры змяркання, у другой палове дня ці ўвечары. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) адзначае, што залішняя стомленасць можа ўзмацняць вечаровае неспакойства.
 
-## What can make late-day restlessness worse?
+## Што можа пагоршыць неспакойства ўвечары?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Некалькі фактараў могуць дзейнічаць разам. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) называе, сярод іншага:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- знясіленне пасля доўгага дня;
+- новае або незразумелае асяроддзе;
+- «ўнутраны гадзіннік», які збіўся: чалавек сонны днём і не спіць ноччу;
+- слабае святло і цені, якія могуць збіваць з толку;
+- адчуванне напружання або расчаравання ў людзей побач;
+- меншая патрэба ў сне, што тыповае для пажылых людзей.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA дадае агульныя прычыны неспакойства: боль, дэпрэсію або стрэс, недастатак адпачынку, запоры, занадта шмат гуку або людзей, а таксама некаторыя лекі і іх узаемадзеянне.
 
-## How can I plan the day to make evenings calmer?
+## Як распланаваць дзень, каб вечары былі спакайнейшыя?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Складаныя справы перанясіце на раней, а другую палову дня трымайце мяккай і прадказальнай. І NIA, і Alzheimer's Association рэкамендуюць рэгулярны распарадак. Прыклад дня, які можна адаптаваць:
 
-| Time | What may help |
+| Час | Што можа дапамагчы |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Раніца | Прыёмы ў лекара, купанне, выхады і любая праца, якая патрабуе намаганняў, калі большасць людзей найбольш сабраныя |
+| Позняя раніца | Час на свежым паветры або каля сонечнага акна; прагулка ці іншае заняткі |
+| Поўдзень | Больш сытны абед (Alzheimer's Association раіць большы абед і лягчэйшую вячэру) |
+| Пачатак дня пасля абеду | Адпачынак, калі патрэбен, але без доўгіх дрэмаў ўвечары |
+| Сярэдзіна — канец дня | Спакойныя, знаёмыя заняткі; перакус і пітво; без кофеіну |
+| Перад змярканнем | Уключыце святло ў доме і зачыніце шторы да таго, як сцямнее |
+| Вечар | Лягчэйшая вячэра, ціхая музыка, мала стымулаў, ўстойлівы распарадак перад сном |
 
-A few specific points from the sources:
+Некалькі канкрэтных момантаў з крыніц:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Дзённае святло.** NIA раіць штодзень праводзіць час на вуліцы або каля акна, дзе ёсць сонца.
+- **Рух, але не занадта шмат.** Старайцеся штодзень быць фізічна актыўнымі, але не запланоўвайце занадта многа спраў, кажа NIA.
+- **Напоі пасля абеду.** Пазбягайце алкаголю і напояў з кофеінам, такіх як кава або кола, увечары (NIA). Alzheimer's Association таксама згадвае нікацін.
+- **Дрэмы.** Не дазваляйце доўгіх дрэмаў і драмоты ўвечары (NIA). Alzheimer's Association раіць абмяжоўваць дзённыя дрэмы, калі праблемы са сном ўначы.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Больш пра пабудову стабільнага дня — у [заняткам па распарадку дня](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Як зрабіць дом спакайнейшым у другой палове дня?
 
-Reduce noise, add light and keep familiar things close.
+Знізьце гук, дадайце святла і трымайце блізка знаёмыя рэчы.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Яркае, роўнае святло.** Alzheimer's Association рэкамендуе ўвечары дастаткова асвятляць дом. Асвятліце прастору, перш чым з'явяцца цені.
+- **Менш гуку.** Выключыце або знізьце гук тэлевізара і радыё, абмяжуйце наведвальнікаў і шумную хатнюю работу ў гэты час. Alzheimer's Association раіць зніжаць вечаровыя стымулы, такія як тэлевізар, работа па доме і гучная музыка.
+- **Знаёмыя рэчы для камфорту.** NIA раіць ціхую музыку і любімыя прадметы і фота па ўсім доме.
+- **Праверка камфорту.** Alzheimer's Association рэкамендуе праверыць, ці няма болю, голаду, смагі, запораў, перапоўненага пухіра, стомленасці, інфекцый і раздражнення скуры, а таксама падтрымліваць у пакоі камфортную тэмпературу.
+- **Ваш уласны настрой.** Людзі адчуваюць напружанне. NIA раіць запаволіцца і паспрабаваць расслабіцца, калі вашы ўласныя турботы могуць павялічваць напружанне.
 
-## What calm activities can we do in the late afternoon?
+## Якія спакойныя заняткі можна рабіць у другой палове дня?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Выбірайце заняткі, якія знаёмыя, неспяшыя і лёгка спыняюцца. Alzheimer's Association раіць ціхія заняткі, такія як спакойная музыка, фота або любімы фільм, а таксама сумесную прагулку, каб зняць неспакойства. NIA раіць перакус ці напітак, любімы тэлевізійны серыял, музыку, прагулку, чытанне або просты хатні занятак, напрыклад складанне бялізны.
 
-Ideas to try:
+Ідэі, якія можна паспрабаваць:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Складаць бялізну разам.** NIA раіць такі просты хатні занятак. Ручнікі лёгка браць у рукі, а задача мае зразумелы канец.
+2. **Ставіць любімую музыку.** Знаёмыя песні з ранейшых гадоў, ціха. Падспяванне таксама падыходзіць. Больш ідэй у [заняткам з музыкай](/activities/music/).
+3. **Раглядаць фота.** Фотаальбом або некалькі сямейных здымкаў у [Фота-пары](/games/photo-pairs/), з бачнымі карцінкамі, могуць выклікаць ціхую размову.
+4. **Кароткая прагулка.** Па садзе, вуліцы або каridоры, пакуль яшчэ не цямнее.
+5. **Разам перакусіць і выпіць.** Што-небудзь простае, цёплае і без кофеіну, за сталом разам.
+6. **Мяккія пары.** [Пары малюнкаў](/games/picture-pairs/) з чатырма плітка і бачнымі карцінкамі лёгка пачаць і лёгка спыніць.
+7. **Раскрашванне.** [Раскрашванне](/games/coloring/) на экране або на раздрукаванай старонцы, без мэты дагэтуль дайсці да канца.
+8. **Разгляданне і размова.** [Карткі для размовы](/games/conversation-cards/) даюць карцінку і адкрытае пытанне. Для пачатку дастаткова проста разглядаць.
+9. **Паўза для дыхання.** [Спакойнае дыханне](/games/calm-breathing/) — гэта павольная ціхая паўза, якую вы самі пачынаеце і спыняеце.
+10. **Заняткі для рук.** Сартаванне гузікаў або шкарпэтак, разгладжванне мяккага покрыва або трыманне знаёмага прадмета. Гл. [заняткі для органаў пачуццяў](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Пазбягайце новых гульняў, шумных выхадаў і ўсяго, што патрабуе шмат памяці або канцэнтрацыі ўвечары. Такія заняткі лепш пакінуць на ранак.
 
-## What should I do when restlessness starts?
+## Што рабіць, калі пачынаецца неспакойства?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Захоўвайце спакой, супакойвайце і мякка перанакіроўвайце ўвагу. NIA раіць гаварыць спакойна, слухаць тое, што турбуе чалавека, не спрачацца, запэўніваць, што ён у бяспецы, і пры неабходнасці выкарыстоўваць мяккі дотык. Затым паспрабуйце адцягнуць увагу: перакус, напітак, музыку або прагулку.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association раіць такія фразы, як «Тут вы ў бяспецы» і «Мне шкада, што вы засмучаныя», а таксама дадаць святла, запаволіцца і абмежаваць стымулы. Не загоняйце, не аточвайце і не стрымлівайце чалавека і не спрачайцеся з ім.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Калі чалавек становіцца агрэсіўным, NIA раіць заставацца на бяспечнай адлегласці, пакуль паводзіны не спыняцца. У надзвычайнай сітуацыі тэлефануйце 112 і патлумачце, што ў чалавека дэменцыя.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Больш пра словы, якія супакойваюць, — у нашых дапаможніках па [зносінах](/caregiving/communication-tips/) і [тым, што рабіць, калі кажуць «не»](/caregiving/when-they-say-no/).
 
-## How do I find the triggers?
+## Як знайсці прычыны?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Вядзіце кароткі запіс на тыдзень ці два. Alzheimer's Association раіць адсочваць, што адбываецца перад эпізодамі сандаўнінгу, каб выявіць прычыны. Запісвайце, у які час пачалося неспакойства, што адбылося за гадзіну да гэтага, дрэмы, ежу і напоі, наведвальнікаў, гук і святло. Пакажыце запіс урачу. NIA адзначае, што запісы змен у паводзінах могуць дапамагчы апекунам і медыкам заўважыць заканамернасць.
 
-## When should I call a doctor about sundowning?
+## Калі звяртацца да ўрача са скаргамі на сандаўнінг?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Звярніцеся да ўрача гэтага чалавека, калі неспакойства новае, раптоўна пагоршылася або суправаджаецца іншымі зменамі. NIA кажа, што раптоўныя або хутка змяняюцца змены ў паводзінах, асабліва пасля інфекцыі або нядаўняй змены лекаў, трэба неадкладна паказаць урачу.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Папрасіце ўрача праверыць тое, што можа ўскладняць вечары. Alzheimer's Association згадвае фізічныя праблемы, такія як інфекцыі мачавых шляхоў, недаўтрыманне мачы, сіндром неспакойных ног і апное сну, і раіць спытаць, у які час сутак прымаць кожны прэпарат. NIA называе сярод магчымых прычын неспакойства боль, запоры і пабочныя эфекты або ўзаемадзеянне лекаў.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association піша, што для праблем са сном, звязаных з хваробай Альцгеймера, звычайна спачатку выбіраюць безмедыкаментозныя падыходы, а лекі ад вечаровага неспакойства варта разглядаць толькі тады, калі яны не дапамагаюць, пасля ацэнкі рызык і карысці. Гэтае рашэнне застаецца за ўрачом. Не пачынайце, не спыняйце і не мяняйце ніякія лекі, снатворныя або харчовыя дабаўкі без медычнай парады.
 
-## How do I get through the evenings myself?
+## Як перажыць вечары самому?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Другая палова дня часта бывае самай цяжкай для апекуна. Калі можаце, папрасіце члена сям'і, сябра або аплачвальнага памочніка пабыць з чалавекам у другой палове дня некалькі дзён на тыдзень, хоць бы гадзіну. Наш дапаможнік па [догляду за сабой для апекуна](/caregiving/caregiver-self-care/) апісвае варыянты часовай замены і бясплатныя мясцовыя службы падтрымкі для апекуноў.

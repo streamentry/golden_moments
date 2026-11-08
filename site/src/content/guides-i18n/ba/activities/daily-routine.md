@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Деменциялы кеше өсөн йомшаҡ көндәлек тәртип"
+seoTitle: "Деменция: көндәлек режим, өлгө көн"
+description: "Деменциялы кеше өсөн өлгө көн: ашау, эшмәкәрлек һәм ял тыныс темп менән, шулай уҡ үҙегеҙҙекен ҡалай төҙөргә һәм ауыр көндәрҙә уны ҡалай мөгәмәлләштерергә."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Йомшаҡ көндәлек режим уяныуҙы, ашауҙы, шәхси яҡлауҙы һәм ятыу ваҡытын
+  якынса бер үк ваҡытта тота, төп эшмәкәрлекте кеше иң уяу саҡта урынлаштыра
+  һәм активлыҡты ял менән теңгәләй. Уны кешенең бөтә ғүмерлек ғәҙәттәренән
+  төҙөгөҙ, тығыҙ түгел, ә ҡурсаулы итеп тотоғоҙ, һәр көн көнөн һәм хәрәкәтен
+  һаҡлағыҙ һәм көн талап иткәндә планды иркенләп үҙгәртегеҙ.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Уяныу, ашау, ҡарау һәм ятыу өсөн даими ваҡыт көнгә таныш форма бирә."
+  - "Төп эшмәкәрлекте кешенең иң яҡшы ваҡытына ҡуйығыҙ, күп осраҡта иртәнге ваҡытҡа."
+  - "Һәр минутты тултырмағыҙ. Ял һәм тыныс ваҡыт режимдың өлөшө."
+  - "Яҡтылыҡ, көн һайынғы хәрәкәт һәм оҙон, һуҡ ял итеү йоҡолары менән кофеинан тыйылыу кискә ҡаршы тынысһыҙлыҡҡа ярҙам итергә мөмкин."
+  - "Режим — ҡағиҙә түгел, юлланма. Ауыр көндәрҙә теләһә нәмәне алыштырығыҙ, ҡыҫҡартығыҙ йәки ҡалдырығыҙ."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Деменциялы кешегә режим ни өсөн файҙалы?"
+    a: "Алдан билдәле көн азыраҡ ҡарарҙар һәм көтмәгән хәлдәр килтерә, шуға күп деменциялы кешеләр уны тынысландырыусы итеп ҡабул итә. Alzheimer's Association билдәләүенсә, планлаштырылған көн һеҙгә нимә эшләргә тип уйланыу өсөн аҙыраҡ ваҡыт, ә икегеҙгә оҡшаған шөғөлдәргә күберәк ваҡыт бирә. Ул ҡарағысы кеше өсөн үҙ көнөн дә еңелерәк бүлеүгә ярҙам итә."
+  - q: "Деменциялы кеше өсөн яҡшы көндәлек графиктың ниндәй булыуы кәрәк?"
+    a: "Бер генә дөрөҫ график юҡ. Яҡшыһы — уяныу, ашау һәм ятыу ваҡытын якынса бер үк итеп тота, шәхси яҡлауҙы һәм төп эшмәкәрлекте кешенең иң яҡшы саҡтарына ҡуя, тышта йәки тәҙрә янында ваҡыт ҡалдыра һәм ял өсөн урын бирә. Уны кешенең элек нисек йәшәгәненә ярашлы төҙөгөҙ."
+  - q: "Деменциялы кеше көндөҙ йоҡлап алырға тейешме?"
+    a: "Ҡыҫҡа ял файҙалы булырға мөмкин, айырыуса төшкө аштан һуң. National Institute on Aging оҙон йоҡоларҙан һәм кискә ҡарай мөйөшләүҙән тыйылырға маслаҳат итә, сөнки арыу йәки яҡшы ял итмәү кискә ҡаршы тынысһыҙлыҡты арттыра ала. Әгәр йоҡо менән ысын проблема булһа, уларҙың табибы менән һөйләшегеҙ."
+  - q: "Әгәр улар режимға эйәрергә теләмәһә, нишләргә?"
+    a: "Хәҙергә ебәрегеҙ, һуңыраҡ йәки башҡа рәүештә яңынан тырышығыҙ. Баш тартыу арыу, ауырыу, ауырттыра торған хәл йәки әҙер булмау менән бәйле булырға мөмкин. Режим көндө еңелләтер өсөн тора, шуға уны мәжбүр итмәй, ә ҡулайлаштырығыҙ."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Йомшаҡ режим көнгә таныш форма бирә: уяныу, ашау, бәләкәй эшмәкәрлек, ял һәм ятыу — тап ошо ваҡыттарҙа, тип тиерлек. Ул ҡарарҙар һәм көтмәгән хәлдәрҙе кәметә, һәм ҡайһы мәлдә «нимә эшләргә?» тип уйлаған ваҡытығыҙҙа план бирә. Түбәндәге режим — өлгө, ҡағиҙә түгел. Уны башлангыс нөктә итеп файҙаланығыҙ һәм ҡарағыҙ кешенең ихтыяжына ҡарап үҙгәртегеҙ.
 
-## Why does a daily routine help?
+## Көндәлек режим ни өсөн ярҙам итә?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Таныш тәртиптәр яңыларына ҡарағанда еңелерәк үтәлә, шуға режим ярҙам итә. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) планлаштырылған көн — нимә эшләргә тип аҙыраҡ уйлап, күберәк оҡшаған шөғөлдәргә ваҡыт бирергә мөмкинлек, тип әйтә; уяу һәм ятыу ваҡытын даими тотоу йоҡо проблемалары менән кискә ҡаршы тынысһыҙлыҡты еңеләйтергә ярҙам итергә мөмкин, тип иҫкәртә. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) юыныу, кейенеү һәм ашауҙы көн һайын бер үк ваҡытта итеүҙе тыныс йорт тормошоноң өлөшө итеп тәҡдим итә, ә [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) шулай уҡ даими тәртипте һаҡлауҙы маслаҳат итә.
 
-## A sample gentle day
+## Өлгө тыныс көн
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Ваҡыттар — өлгө генә. Бөтә көндө кешенең үҙ темпына ярашлы алдараҡ йәки һуңыраҡ күсерегеҙ.
 
-| Time | What happens | Ideas | On a harder day |
+| Ваҡыт | Нимә була | Фекерҙәр | Ауыр көндә |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 иртә | Уяныу, юыныу, кейенеү | Һәр көн бер тәртиптә; кейемдәрҙе кейеү тәртибендә әҙерләп ҡуйығыҙ | Ҡайғыны ябай тотоғоҙ; таҙа күлдәк етә |
+| 8:45 иртә | Иртәнге аш | Кофе һәм гәзит юғарыға уҡып, йәки радио | Тыныс ашағыҙ, һөйләшергә мәжбүр итмәгеҙ |
+| 9:30 иртә | Төп эшмәкәрлек | Йыуылған кейемдәрҙе йыйыу, пешереү, баҡсала эш, ҡыҫҡа сығыш йәки йөрөү | Ҡыҫҡараҡ вариант, йәки кеше һеҙҙе күҙәтеп ултырһын |
+| 10:30 иртә | Тыныс ваҡыт | Музыка, фотоальбом, тәҙрә янында ултырыу | Үҙенә оҡшаған урындыҡта ял итеү |
+| 11:00 | Төшкө ашҡа ярҙам | Яшелсә йыуыу, өҫтәл әҙерләү | Һеҙ пешерәһегеҙ; кеше йәнәшәлә булһын |
+| 12:00 көндөз | Төшкө аш һәм йыйыштырыу | Өҫтәлде һөртөү, бер нисә тәлинкә һөртөү | Эштәрҙе ҡалдырығыҙ |
+| 1:00 көндөз | Ҡыҫҡа ял | Аяҡтар күтәрелгән, йомшаҡ музыка | Шул уҡ |
+| 2:00 көндөз | Тышта йәки актив | Йөрөү, майҙанда ултырыу, сәскәләргә һыу һибеү, шарҙы ыҫтырыу | Ҡояшлы тәҙрә янында ултырыу |
+| 3:00 көндөз | Социаль йәки ижади | Ҡунаҡ, шылтыратыу, [картинкалы парлар](/games/picture-pairs/), буяу, карталар | Бергә эсемлек һәм бәләкәй аш |
+| 4:30 көндөз | Тынысланыу ваҡыты | Пәрҙәләр ябыла, ут яғыла, ябай эш, мәҫәлән, юыныу сепрәктәрен бөклөү | Таныш музыка, тын шау-шыу |
+| 5:30 кис | Кисен аш | Ашарға ярҙам итеү, өҫтәл әҙерләү | Ябай, таныш ризыҡ |
+| 6:30 кис | Кисен бергә | Десерт ваҡытында иҫтәлектәр, карталар, яратҡан тапшырыу, ҡул массажы | Тыныс компания |
+| 8:00 кис | Йоҡоға әҙерләнеү | Ваннаға инеү йәки юыныу, пижама, йомшаҡ музыка, һүнек ут | Бөтәһен ҡыҫҡартығыҙ; тыныслыҡ — беренсе урында |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Был өлгө Alzheimer's Association-тың үҙ өлгө планының формаһын ҡабатлай (башлангыс һәм урта этаптар өсөн): шәхси яҡлау һәм иртәнге аштан башлап, эштәр, йөрөү, музыка, ял һәм ҡунаҡтар аша кисендәге аш, иҫтәлектәр һәм йоҡоға әҙерләнеүгә тиклем.
 
-## How do you build your own routine?
+## Үҙегеҙҙекен ҡалай төҙөргә?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Башта диаграмманан түгел, кешенең элек нисек йәшәгәненән башлағыҙ. Alzheimer's Association планлаштырыр алдынан түбәндәгеләрҙе уйлап ҡарарға тәҡдим итә:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Уның ярата һәм ярата алмаған нәрсәләре, көслө яҡтары һәм ҡыҙыҡһыныуҙары.**
+- **Ул көнөн элек нисек үткәргән.** Иртә торған, эт менән һәр көн иртән йөрөгән кеше иртә йөрөргә тейеш. Төнгө кеше, бәлки, сәғәт 8-дә башларға ярата алмаҫ.
+- **Уның иң яҡшы ваҡыты.** Юыныу, сығыш һәм төп эшмәкәрлекте шунда ҡуйығыҙ.
+- **Етерлек ваҡыт** ашау, юыныу һәм кейенеү өсөн, шулай итеп бер нәмә ашыҡмаһын.
+- **Даими уяныу һәм ятыу ваҡыттары.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Шул уҡ сығанаҡ өй эштәре, ашау, шәхси яҡлау, ижади шөғөлдәр, физик активлыҡ, социаль ваҡыт, рухи шөғөл һәм көтмәгән мәлдәрҙе — мәҫәлән, дуҫтың килеүен — үҙ эсенә алған тулы ҡаплауҙы тәҡдим итә.
 
-### Try it for a week, then adjust
+### Бер аҙна һынап ҡарағыҙ, аҙаҡ төҙәтегеҙ
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Һәр көн ҡыҫҡа яҙма алып барығыҙ. Alzheimer's Association ҡайһы шөғөлдәр иң яҡшы эшләүен һәм ни өсөн, ҡайһы ваҡытта бик күп йәки бик аҙ эш булыуын, көтмәгән пландар ҡыуаныс килтерҙеме йәки борсолоу тыуҙырҙымы — шуны теркәргә тәҡдим итә. Эшләгәнде ҡалдырығыҙ, эшләмәгәнде үҙгәртегеҙ.
 
-### Make it visible
+### Күренеп торһон
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Кеше әле уҡый ала икән, көндәге план яҙылған аҡ таҡта йәки ҙур хәрефле карточка тынысландырырға мөмкин. Ҡыҫҡа ғына яҙығыҙ: «Ашау. Сара менән йөрөү. Аш. Ял.» Ҡайһы кешеләргә алдан белеү кәрәкмәй. Family Caregiver Alliance әгәр планды алдан һөйләү борсолоу тыуҙырһа, уны эш башланғанға тиклем әйтмәҫкә маслаҳат итә.
 
-## How to adapt the routine
+## Режимды ҡалай мөгәмәлләштерергә
 
-### Leave room to breathe
+### Тын алырға урын ҡалдырығыҙ
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Һәр минутты тултырмағыҙ. Alzheimer's Association кешегә активлыҡ менән ял араһындағы теңгәлек кәрәк булыуын һәм йышыраҡ өҙөлөштәр кәрәк булыуы ихтимал икәнен баҫым яһай. Әгәр ул ыңғайһыҙ, иғтибарһыҙ йәки асыулы күренә икән, шөғөлдө йәки ялды алыштырығыҙ.
 
-### Protect the late afternoon
+### Кискә ҡаршы ваҡытты һаҡлағыҙ
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Күп кеше көндөҙ яҡтылыҡ кәмегәндә тынысһыҙлана. NIA көн һайын ҡояш яҡтылығы алыу өсөн тышта йәки тәҙрә янында булырға, көн һайын активлыҡ менән, артығын планламайынса, кискә ҡарай кофеин менән алкогольдән тыйылырға һәм кисә оҙон йоҡолардан тыйылырға тәҡдим итә. Кайһы ғаиләләр шулай уҡ раҫлай: кояш байығансы пәрҙәләрҙе ябыу һәм ут яғыу ярҙам итә. Ҡарағыҙ: [кискә ҡаршы тынысһыҙлыҡ](/caregiving/late-day-restlessness/) һәм [йоҡо](/brain-health/sleep/).
 
-### Change it as needs change
+### Ихтыяжтар үҙгәргәндә үҙгәртегеҙ
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Башлангыс этап:** режимды бергә планлағыҙ. Кеше үҙе идара итә алған яҙма графикты теләйәсәк.
+- **Урта этап:** һеҙ күберәк етәкләйһегеҙ. Ҡыҫҡараҡ шөғөлдәр, күберәк ял һәм күп таныш эштәр; ҡарағыҙ: [урта этап эшмәкәрлеге](/activities/middle-stage/).
+- **Һуңғы этап:** режим тыныслыҡҡа, ашауға һәм яҡлауға нигеҙләнә, араларында музыка йәки ҡул массажы кеүек ҡыҫҡа сенсор мәлдәре булһын; ҡарағыҙ: [һуңғы этап эшмәкәрлеге](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Эшмәкәрлекте үҙгәртегеҙ, рәүешне түгел
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Ашауҙы, ялды һәм ятыуҙы тотороҡло тотоғоҙ, араларындағы шөғөлдәрҙе әйләндереп тороғоҙ. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) төрлө көндәрҙә төрлө шөғөлдәр менән ҡыҙыҡлы булырға тәҡдим итә. Мәҫәлән, бер көндө пешереү, икенсеһендә баҡсала эшләү, өсөнсөһөндә фотоларға ҡарау. Беҙҙең [101 эшмәкәрлек фекере](/activities/ideas/) һәм [өй эштәре](/activities/household-tasks/) был ваҡыттарҙы тултыра ала.
 
-## When the day goes sideways
+## Көн ҡыйралашҡанда
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Ҡайһы көндәр бер план менән бармаҫ. Ауырыу, төнө ауыр үтеү, табип килеү йәки һауа үҙгәреше барыһын да боҙа ала. Планды ташлағыҙ, нигеҙҙәрен (ашау, эсеү, ял, тыныслыҡ) һаҡлағыҙ һәм иртәгәһенән яңынан башлағыҙ. Әгәр кеше ниндәйҙер нәмәне кире ҡаға икән, ҡарағыҙ: [ул «юҡ» тигәндә](/caregiving/when-they-say-no/). Бергә [тын алыу](/games/calm-breathing/) кеүек ҡыҫҡа тынысланыу мәле икегеҙҙе ҡабаттан тынысландырырға ярҙам итә ала.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Һеҙҙең үҙегеҙҙең режим ҙә мөһим. Үҙегеҙгә өҙөлөштәр ҡуйығыҙ, һәм ғаиләнән йәки ҡарауҙы алыштырыусы хеҙмәттән даими ял итеү өсөн ваҡыт тороуын һорағыҙ. Ҡарағыҙ: [ҡарауысыларҙың үҙ-үҙен ҡарауы](/caregiving/caregiver-self-care/).

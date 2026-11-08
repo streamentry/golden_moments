@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Сон і здароўе мозгу: што кажуць даследаванні"
+seoTitle: "Сон і дэменцыя: што кажуць даследаванні"
+description: "Што даследаванні кажуць пра сон і рызыку дэменцыі, чаму навука пра «ачыстку» мозгу пакуль ранняя і якія звычкі сну дапамагаюць пажылым людзям і апекунам."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Некаторыя доўгатэрміновыя даследаванні звязваюць кароткі сон у сярэднім веку з больш высокай
+  рызыкай дэменцыі, а лабараторныя даследаванні паказваюць, што сон можа дапамагаць мозгу
+  выводзіць адходы. Гэтыя доказы пакуль ранння, а Лансэцкая камісія ў 2024 годзе не назвала
+  сон фактарам рызыкі, на які можна паўплываць. Рэгулярныя звычкі сну дапамагаюць самаадчуванню
+  кожны дзень. Парушэнні сну пры дэменцыі распаўсюджаны і варты таго, каб абмеркаваць іх з урачом.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Брытанскае даследаванне, у якім назіралі за каля 8 000 людзей на працягу 25 гадоў, звязала сон працягласцю шэсць гадзін і менш у сярэднім веку з больш высокай рызыкай дэменцыі."
+  - "Змены ў сне могуць быць і ранняй прыметай дэменцыі, таму цяжка сказаць, што з'яўляецца прычынай, а што наступствам."
+  - "Даследаванні таго, як сон выводзіць бэта-амілоід з мозгу, рэальныя, але ранннія, і большасць з іх праведзена на мышах."
+  - "Апноэ сну распаўсюджанае, паддаецца лячэнню і ў даследаваннях звязана з дэменцыяй; гучны храп і дзённая сонлівасць варты ўвагі."
+  - "Ніколі не пачынайце, не спыняйце і не мяняйце снатворныя прэпараты або сродкі для сну без парады ўрача."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Ці выклікае кепскі сон хваробу Альцгеймера?"
+    a: "Гэта не даказана. Некаторыя даследаванні звязваюць кароткі сон з больш высокай рызыкай дэменцыі, але сама дэменцыя парушае сон, часта за гады да пастаноўкі дыягназу. Лансэцкая камісія 2024 года палічыла доказы занадта няўстойлівымі, каб назваць сон фактарам рызыкі, на які можна паўплываць."
+  - q: "Колькі сну патрэбна пажылым людзям?"
+    a: "Нацыянальны інстытут старэння ЗША (NIA) піша, што пажылым людзям патрэбна прыблізна столькі ж, колькі і іншым дарослым, — ад 7 да 9 гадзін у ноч. Многія пажылыя людзі пачынаюць ляжаць і прачынацца раней, чым раней, і гэта звычайна."
+  - q: "Чаму чалавек з дэменцыяй спіць днём і не спіць ноччу?"
+    a: "Дэменцыя можа ўплываць на біялагічны гадзіннік арганізма, таму час сну і бадзяння блытаецца. Таксама ролю могуць адыгрываць боль, нуда, голад або пабочныя эфекты лекаў. Дзённае святло, штодзённая актыўнасць і спакойны вечаровы распарадак могуць дапамагчы. Урач можа знайсці прычыны, якія можна вылечыць."
+  - q: "Ці можна даваць чалавеку, пра якога я клапачуся, сродак для сну?"
+    a: "Спачатку пагаварыце з яго ўрачом, у тым ліку пра сродкі, якія можна купіць без рэцэпта. NIA звяртае ўвагу, што некаторыя снатворныя могуць павялічваць рызыку галавакружэння, падзенняў і blytaniny ў людзей з хваробай Альцгеймера."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Сон і здароўе мозгу відавочна звязаныя, але тое, як менавіта яны звязаны, пакуль вывучаецца. Некаторыя даследаванні звязваюць кароткі сон з больш высокай рызыкай дэменцыі. У сваю чаргу дэменцыя часта парушае сон. На гэтай старонцы тлумачыцца, што паказваюць і чаго не паказваюць даследаванні, даюцца практычныя парады па сне і разглядаюцца праблемы са сном, якія пры дэменцыі сустракаюцца часта. Тут няма парад па снатворных прэпаратах: гэтую размову варта весці з урачом.
 
-## Is poor sleep linked with dementia?
+## Ці звязаны кепскі сон і дэменцыя?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Некаторыя доўгатэрміновыя даследаванні звязваюць кароткі сон з больш высокай рызыкай дэменцыі, але доказы пакуль не вычарпальныя.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Брытанскае даследаванне на працягу 25 гадоў.** Даследчыкі назіралі за каля 8 000 дарослых у рамках [даследавання Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Людзі, якія спалі шэсць гадзін і менш у 50 або 60 гадоў, пазней мелі больш высокую рызыку дэменцыі, чым тыя, хто спаў сем гадзін. Тыя, хто спаў шэсць гадзін і менш у 50, 60 і 70 гадоў, мелі прыблізна на 30% большую рызыку, чым тыя, хто рэгулярна спаў сем гадзін. Гэта было назіральнае даследаванне, таму яно паказвае сувязь, а не прычыну.
+- **Пункт гледжання Лансэцкай камісіі.** [Лансэцкая камісія 2024 года](https://doi.org/10.1016/S0140-6736(24)01296-0) не дадала сон у свой спіс з 14 фактараў рызыкі, на якія можна паўплываць. Камісія палічыла, што доказы недастаткова паслядоўныя. Адна з прычын — «зваротная прычынна-выніковая сувязь»: змены ў мозгу пры дэменцыі пачынаюцца за гады да дыягназу і могуць парушаць сон. У адным вялікім даследаванні сувязь паміж доўгім сном і дэменцыяй знікла пасля таго, як выключылі першыя пяць гадоў назірання.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Таму адна кароткая ноч час ад часу — не падстава для трывогі. Рэгулярны сон добрай якасці варта спрабаваць наладзіць, бо ён дапамагае настрою, пільнасці і бяспецы ўжо сёння.
 
-## What is the "brain-clearing" sleep research?
+## Што гаворыцца ў даследаваннях пра «ачыстку» мозгу ў сне?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Вы маглі чытаць, што сон «ачышчае» мозг. Гэтая ідэя грунтуецца на сапраўдных даследаваннях, але яны ранднія.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **На мышах.** Даследаванне 2013 года, [апісанае NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), паказала, што прастора паміж нервовымі клеткамі ў мышэй падчас сну павялічвалася прыблізна на 60%. Вадкасць лягчэй цыркулявала праз мозг, па так званай глімфатычнай сістэме. Бэта-амілоід, бялок, звязаны з хваробай Альцгеймера, хутчэй выводзіўся з мозгу спячых мышэй.
+- **На людзях.** Невялікае [даследаванне 2018 года](https://www.pnas.org/doi/10.1073/pnas.1721694115) прасканавала мозг 20 здаровых дарослых ва ўзросце ад 22 да 72 гадоў пасля звычайнай ночы і пасля ночы без сну. Пасля ночы без сну сігнал бэта-амілоіду на скане вырас прыблізна на 5% у абласці, якая ўключае гіпакамп, структуру мозгу, важную для памяці. Аўтары назвалі гэта папярэднімі доказамі. Яны не ведаюць, ці знікае змена пасля адпачынку і ці адлюстроўвае яна павольнейшае выведжанне або большую выпрацоўку амілоіду.
+- **Сувязь працуе ў два бакі.** Лансэцкая камісія адзначае, што накапленне амілоіду само можа парушаць сон у пажылых людзей.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Гэтыя высновы тлумачаць, чаму даследчыкі цікавяцца сном. Але яны не паказваюць, што лепшы сон прадухіляе хваробу Альцгеймера.
 
-## What sleep habits may help?
+## Якія звычкі сну могуць дапамагчы?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Паводле [Нацыянальнага інстытута старэння ЗША (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults), пажылым людзям патрэбна прыблізна 7–9 гадзін сну ў суткі, гэтаксама як і іншым дарослым. Яго парады:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Трымайцеся рэгулярнага раскладу.** Ладзіцца і ўставайце ў адзін і той жа час кожны дзень, нават у выхадныя.
+- **Стварыце вечаровы распарадак.** Перад сном можна пачытаць, паслухаць спакойную музыку або прыняць цёплую ванну.
+- **Зрабіце спальню зручнай,** не занадта гарачай і не занадта халоднай.
+- **Абмяжуйце кафеін ува ўтор другой палове дня.** Кава, гарбата, газіроўка і шакалад могуць не даваць заснуць.
+- **Пазбягайце алкаголю,** нават у невялікіх колькасцях, раяць у NIA.
+- **Не ешце шмат за два–тры гадзіны да сну** і не піце многа вадкасці позна ўвечары.
+- **Займайцеся фізічнымі практыкаваннямі рэгулярна, але не менш чым за 3 гадзіны да сну.** Гл. наш [дапаможнік па фізічных практыкаваннях](/brain-health/exercise/).
+- **Не трымайце экранаў у спальні.** NIA раіць не глядзець там тэлевізар і не карыстацца камп'ютарам, тэлефонам або планшэтам.
+- **Па магчымасці пазбягайце дрымоты ў другой палове дня і ўвечары.**
 
-## Sleep problems in dementia
+## Праблемы са сном пры дэменцыі
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Змены ў сне пры дэменцыі — з'ява звычайная. [NIA пералічвае](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) доўгі або, наадварот, кароткі сон, частыя прачынанні ўночы і шмат дрымоты днём. Там жа апісваецца і «захад сонца»: неспакой, узбуджэнне або блытаніна, якія пачынаюцца або пагаршаюцца па меры змяркання.
 
-Caregiver tips from the NIA include:
+Парады NIA для апекуноў:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Бярыце дзённае святло і рухайцеся раніцай.** Выходзьце на вуліцу або сядзьце ля акна ўдзень і дапамагайце чалавеку рухацца кожны дзень. Яркае святло можа дапамагчы наладзіць біялагічны гадзіннік.
+2. **Плануйце актыўныя заняткі на раніцу.** Паспрабуйце купаць чалавека раніцай або рабіць самы сытны прыём ежы ў поўдзень.
+3. **Робіце дрымоту кароткай і раннай.** Абмяжуйце сон пазней за днём.
+4. **Зрабіце вечар спакойным.** Прыцішыце святло, зменшыце шум і уключыце спакойную музыку, калі яна падабаецца чалавеку. Нашы парады пра [вечаровы неспакой](/caregiving/late-day-restlessness/) змяшчаюць больш ідэй.
+5. **Трымайцеся пастаяннага вечаровага распарадку.** Прыкладам NIA служыць чытанне ўслых у адзін і той жа час кожны вечар. Таксама дапамагае [стабільны штодзённы распарадак](/activities/daily-routine/).
+6. **Абмяжуйце кафеін і алкаголь.**
+7. **Карыстайцеся начнікамі** ў спальні, калідоры і ванным пакоі.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Калі чалавек прачынаецца ўночы, NIA ў сваіх [парадах па бяспецы дома](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) раіць начнікі або светлавыя датчыкі, поручні ў ванным пакоі, яркую колеравую стужку на краях прыступак і ўстанаўліваць лекі ў замкнёнае месца.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Кароткае і ціхае заняткі ўвечары могуць дапамагчы вам абаім супакоіцца. Паспрабуйце павольную паўзу [«Спакойнае дыханне»](/games/calm-breathing/) або некалькі расслабленых [«Картак для размовы»](/games/conversation-cards/). Пазбягайце чаго-небудзь узбуджальнага перад сном і спыняйцеся, калі чалавек стаміўся.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Парушаны сон таксама выматвае апекуноў. Наш [дапаможнік па самадбанні для апекуноў](/caregiving/caregiver-self-care/) расказвае, як адпачыць і знайсці падтрымку.
 
-## What about sleep apnea?
+## Што з апноэ сну?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Апноэ сну выклікае кароткія паўзы ў дыханні падчас сну, часта многа разоў за ноч. NIA піша, што без лячэння яно можа прывесці да такіх праблем, як высокі ціск, інсульт або страта памяці. Прыметы — гучны храп і сонлівасць днём, і многія людзі не ведаюць, што ў іх ёсць гэта. Лансэцкая камісія апісвае агляд 11 даследаванняў, у якіх у людзей з апноэ сну рызыка дэменцыі была прыблізна на 43% вышэйшай. Аднак у большасці гэтых даследаванняў не ўлічвалася вага, таму сувязь застаецца няпэўнай.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Апноэ сну можна дыягнаставаць і лячыць. NIA адзначае, што CPAP-апарат амаль заўсёды дапамагае. Калі вы або чалавек, пра якога вы клапоціцеся, гучна храпе, спыняе дыханне ўначы або вельмі сонны днём, расскажыце пра гэта ўрачу.
 
-## A note about sleep medicines
+## Пра снатворныя прэпараты
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Мы не даём парад па снатворных прэпаратах або харчовых дабаўках. NIA звяртае ўвагу, што снатворныя могуць дапамагчы на кароткі час, але не вылечваюць бессані. Таксама адзначаецца, што некаторыя прэпараты, якія даюць людзям з хваробай Альцгеймера для сну, могуць павялічваць рызыку галавакружэння, падзенняў і блытаніны. Не пачынайце, не спыняйце і не мяняйце ніякі снатворны прэпарат, у тым ліку сродкі для сну, што купляюцца без рэцэпта, без размовы з урачом або фармацэўтам.
 
-## Talk with a doctor
+## Пагаварыце з урачом
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Звярніцеся да ўрача, калі вы або чалавек, пра якога вы клапоціцеся, заўсёды стаміліся, большасць ночаў дрэнна спіце, гучна храпеце або ўначы бываюць паўзы ў дыханні. Калі праблемы са сном пры дэменцыі не праходзяць, [NIA раіць](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) звярнуцца па медыцынскую параду. Агляд у ўрача можа выявіць прычыны, такія як боль, іншы парушэнне сну, хвароба або пабочны эфект лекаў. Раптоўная блытаніна або раптоўная змена сну разам з блытанінай патрабуюць неадкладнай дапамогі. Прачытайце, [калі трэба звяртацца да ўрача](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Гэтая старонка змяшчае агульную інфармацыю, а не медыцынскую параду. Гл. наша [медыцынскае застарогу](/medical-disclaimer/).

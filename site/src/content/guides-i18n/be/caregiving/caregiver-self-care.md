@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Догляд за сабой: адпачынак, падтрымка і прыкметы выгарання"
+seoTitle: "Догляд за сабой для апекуноў: адпачынак і падтрымка"
+description: "Прыкметы выгарання ў апекуна, адпачынак, групы падтрымкі і бясплатныя ў ЗША лініі дапамогі: 24/7 Helpline Асацыяцыі Альцгеймера і Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Догляд за чалавекам з дэменцыяй — цяжкая праца, і клопат пра сябе — яе частка.
+  Звяртайце ўвагу на трывожныя прыкметы: знясіленне, раздражняльнасць, дрэнны сон
+  і адыход ад сяброў. Прасіце канкрэтнай дапамогі, карыстайцеся кароткачасовым
+  доглядам, каб адпачыць, і далучайцеся да групы падтрымкі. Бясплатная дапамога ў
+  ЗША ўключае 24/7 Helpline Асацыяцыі Альцгеймера па тэлефоне 1-800-272-3900 і
+  Eldercare Locator па тэлефоне 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Выгаранне часта выяўляецца як знясіленне, раздражняльнасць, дрэнны сон, смутак і занядбанне ўласнага здароўя."
+  - "Кароткачасовы догляд (respite care) дае вам перапынак — ад некалькіх гадзін да некалькіх тыдняў — дома або ў догляднай установе."
+  - "Прасіце дапамогі з канкрэтнымі задачамі: многія хочуць дапамагчы, але не ведаюць, як."
+  - "24/7 Helpline Асацыяцыі Альцгеймера (1-800-272-3900) у ЗША дае бясплатную канфідэнцыйную падтрымку ў любы час."
+  - "Eldercare Locator (1-800-677-1116) у ЗША звязвае вас з мясцовымі службамі, у тым ліку з мясцовай агенцыяй па справах старэючых (Area Agency on Aging)."
+  - "Калі вы ў крызісе, патэлефануйце па 112. Калі хтосьці ў непасрэднай небяспецы, таксама патэлефануйце па 112."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Якія прыкметы выгарання ў апекуна?"
+    a: "Часты прыкметы: адчуванне знясілення, перагрузкі або трывогі, лёгкая злосць і нецярпенне, праблемы са сном, смутак або безнадзейнасць, адыход ад сяброў, частыя галаўныя болі або болі ў целе, прапушчаныя ўласныя прыёмы ежы, фізічныя практыкаванні або медычная дапамога. Калі такія прыкметы паўтараюцца, пагаварыце з урачом."
+  - q: "Як знайсці кароткачасовы догляд побач з домам?"
+    a: "Пачніце з Eldercare Locator (1-800-677-1116 або eldercare.acl.gov), каб звязацца з мясцовай агенцыяй па справах старэючых, з ARCH National Respite Locator Service або з даведачнай лініяй Асацыяцыі Альцгеймера па тэлефоне 1-800-272-3900. Адпачынак ад догляду могуць даць таксама сваякі, сябры і валанцёры."
+  - q: "Ці аплачвае Medicare кароткачасовы догляд?"
+    a: "Для чалавека, які атрымлівае хоспіс, Medicare (амерыканская праграма медыцынскага страхавання) пакрывае большую частку коштаў да пяці наступных дзён запар кароткачасовага догляду ў бальніцы або кваліфікаванай догляднай установе, паводле Нацыянальнага інстытута старэння. Большасць прыватных медыцынскіх страховак кароткачасовы догляд не пакрывае; дапамагчы могуць Medicaid і некаторыя планы страхавання доўгатэрміновага догляду."
+  - q: "Ці праўда, што даведачная лінія Асацыяцыі Альцгеймера бясплатная і працуе ўначы?"
+    a: "Так. Асацыяцыя Альцгеймера кажа, што яе даведачная лінія па тэлефоне 1-800-272-3900 бясплатная, канфідэнцыйная і працуе круглыя суткі, 365 дзён у годзе, з дапамогай на многіх мовах. Для рэтрансляцыйнай службы набярыце 711."
+  - q: "Ці эгаістычна браць перапынак ад догляду?"
+    a: "Не. Адпачынак дапамагае вам працягваць клапаціцца, а кароткачасовы догляд можа даць і чалавеку, за якім вы даглядаеце, новыя зносіны і занятак. Многія апекуны потым кажуць, што хацелі б папрасіць дапамогі раней."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Калі вы даглядаеце чалавека, які жыве з дэменцыяй, вы, напэўна, чытаеце гэта позна ўвечары, стомлены і з пералікам спраў, якія не паспелі зрабіць. Гэта нармальна. Клопат пра сябе — не раскош і не ўзнагарода за тое, каб закончыць усё. Гэта тое, што дае вам сілы працягваць.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Гэтая старонка расказвае пра трывожныя прыкметы выгарання, як атрымаць сапраўдны адпачынак, дзе знайсці падтрымку і якія бясплатныя тэлефоны дапамогі ў ЗША можна набраць сёння.
 
-## What are the signs of caregiver burnout?
+## Якія прыкметы выгарання ў апекуна?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Выгаранне часта прыходзіць павольна, таму карысна ведаць свае трывожныя прыкметы. [Нацыянальны інстытут старэння (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) называе такія прыкметы стрэсу ў апекуна:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- адчуванне знясілення, перагрузкі або трывогі;
+- лёгкая злосць і нецярпенне;
+- пачуццё адзіноты або адарванасці ад іншых;
+- праблемы са сном або недастатак сну;
+- смутак, безнадзейнасць або страта цікавасці да таго, што раней радавала;
+- частыя галаўныя болі, болі або іншыя фізічныя праблемы;
+- няма часу на фізічныя практыкаванні або на здаровую ежу для сябе;
+- занядбанне асабістай гігіены і іншага догляду за сабой;
+- ужыванне алкаголю або наркотыкаў, у тым ліку лекаў па рэцэпце.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Асацыяцыя Альцгеймера](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) дадае такія прыкметы, як адмаўленне хваробы, злосць на чалавека («ён проста ўпарты»), трывога пра будучыню, цяжкасці з канцэнтрацыяй і праблемы са здароўем, якія адбіваюцца на вас. Яна раіць гаварыць з урачом, калі такія прыкметы паўтараюцца.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Порада NIA — не чакаць, пакуль вы цалкам перагружаныя. Заўважайце прыкметы рана і рэагуйце на іх.
 
-## What can I do today, in five minutes?
+## Што я магу зрабіць сёння, за пяць хвілін?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Нават маленькія перапынкі маюць значэнне. Ніводны з іх не вылечыць выгаранне, але яны могуць дапамагчы пераżыць цяжкі дзень.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Выйдзіце на паветра.** Пасядзіце на ганку або прайдзіцеся да паштовай скрынкі, пакуль чалавек у бяспецы і спакойны.
+- **Дыхайце павольна.** Некалькі павольных удыхаў, перш чым адказаць на складанае пытанне. Разам з чалавекам, за якім вы даглядаеце, можна зрабіць паўзу з практыкай [«Спакойнае дыханне»](/games/calm-breathing/).
+- **Выпіце вады і з'ешце што-небудзь.** Лёгка забыць пра ўласны прыём ежы.
+- **Напішыце аднаму сябру.** Не каб папрасіць пра нешта, а проста каб звязацца.
+- **Скажыце сабе нешта добрае.** [Кіраўніцтва NIA па догляду за сабой](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) прапануе фразы накшталт «Я раблю ўсё, што магу», «Я не ідэальны, і гэта нармальна» і «Я буду цаніць моманты, калі мы можам пабыць разам у спакоі».
 
-## What is respite care, and how do I get it?
+## Што такое кароткачасовы догляд і як яго атрымаць?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Кароткачасовы догляд (respite care) — гэта кароткатэрміновы догляд за чалавекам, якога вы апекуеце, каб вы маглі адпачыць. [Старонка NIA пра кароткачасовы догляд](https://www.nia.nih.gov/health/caregiving/what-respite-care) тлумачыць, што ён можа доўжыцца ад некалькіх гадзін да некалькіх тыдняў і адбывацца дома, у медыцынскай установе або ў цэнтры дзённага догляду для дарослых.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Асацыяцыя Альцгеймера](https://www.alz.org/help-support/caregiving/care-options/respite-care) апісвае распаўсюджаныя віды:
 
-| Type | What it is |
+| Від | Што гэта |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Дапамога дома | Сябар, сваяк, валанцёр або платны памочнік прыходзіць у дом |
+| Дзённы цэнтр для дарослых | Запланаваныя заняткі, напрыклад музыка і мастацтва, у бяспечнай групе; часта прапануюць транспарт і харчаванне |
+| Начлег або кароткае знаходжанне | Установа доўгатэрміновага догляду клапоціцца пра чалавека адну ноч, некалькі дзён або некалькі тыдняў |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Хто плаціць?** Паводле NIA, кароткачасовы догляд ад сям'і, сяброў або валанцёраў можа не каштаваць нічога. Прафесійныя паслугі звычайна аплачваюць за гадзіну або за дзень. Для чалавека, які атрымлівае хоспіс, Medicare пакрывае большую частку коштаў да пяці наступных дзён запар кароткачасовага догляду ў бальніцы або кваліфікаванай догляднай установе. Medicaid можа дапамагчы. Большасць прыватных медыцынскіх страховак кароткачасовы догляд не пакрывае, хоць некаторыя планы страхавання доўгатэрміновага догляду пакрываюць.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Парада:** Асацыяцыя Альцгеймера раіць паспрабаваць пастаўшчыкоў кароткачасовага догляду ў спакойны час, каб яны былі гатовыя, калі раптам спатрэбіцца дапамога.
 
-## Where can I find help near me?
+## Дзе знайсці дапамогу побач з вамі?
 
-Several free US services can point you to local help.
+Некалькі бясплатных службаў у ЗША могуць падказаць мясцовую дапамогу.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **24/7 Helpline Асацыяцыі Альцгеймера: 1-800-272-3900.** [Даведачная лінія](https://www.alz.org/help-support/resources/helpline) бясплатная і канфідэнцыйная, працуе круглыя суткі кожны дзень у годзе, з дапамогай на больш чым 200 мовах праз двухмоўных супрацоўнікаў або перакладчыкаў. Для рэтрансляцыйнай службы набярыце 711. Можна абмеркаваць змены ў паводзінах, стрэс апекуна, варыянты адпачынку, мясцовыя праграмы і многае іншае, а таксама папрасіць больш доўгую размову з кансультантам па догляду. Супрацоўнікі медычных парад не даюць.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) — публічная служба Упраўлення па справах жыцця суполкі (Administration for Community Living) — звязвае з паслугамі для пажылых людзей і іх сем'яў. Можна тэлефанаваць, пісаць тэкставыя паведамленні, размаўляць анлайн або пісаць на электронную пошту навучаным супрацоўнікам, а таксама шукаць па месцы. Служба можа падказаць мясцовую агенцыю па справах старэючых (Area Agency on Aging).
+- **ARCH National Respite Locator Service.** [Пашук ARCH](https://archrespite.org/caregiver-resources/respitelocator/) дапамагае знайсці пастаўшчыкоў кароткачасовага догляду па штатах і раіць спачатку звярнуцца ў дзяржаўную кааліцыю кароткачасовага догляду (State Respite Coalition) або праграму Lifespan Respite, калі такая ёсць у штаце. ARCH адзначае, што не правярае пастаўшчыкоў, таму вывучыце іх вопыт і даныя самі.
 
-## How do I find a support group?
+## Як знайсці групу падтрымкі?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Спытайце ў даведачнай лініі або пашукайце групы побач анлайн. [Асацыяцыя Альцгеймера арганізоўвае групы падтрымкі](https://www.alz.org/help-support/community/support-groups) для апекуноў і людзей, якія жывуць з дэменцыяй, — ачна і анлайн, пад кіраўніцтвам навучаных вядучых. Многія месцы таксама маюць спецыялізаваныя групы, напрыклад для дарослых апекуноў або для людзей, якія жывуць з ранняй стадыяй хваробы Альцгеймера. Асацыяцыя таксама мае ALZConnected — бясплатную анлайн-суполку, дзе апекуны дзеляцца парадамі.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Групы падтрымкі могуць стаць месцам, дзе можна выгаварыцца без асуджэння, пачуць практычныя парады ад тых, хто сам гэта перажыў, і адчуць, што вы не адзін. Калі першая група не падыходзіць, паспрабуйце іншую.
 
-## How do I ask family and friends for help?
+## Як папрасіць сям'ю і сяброў аб дапамозе?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Будзьце канкрэтныя. Многія хочуць дапамагчы, але не ведаюць, што прапанаваць. NIA раіць:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Складзіце спіс** задач, якія могуць узяць на сябе іншыя, і дайце людзям выбраць.
+- **Пачніце з малога**, калі прасіць цяжка.
+- **Падбірайце задачу да чалавека.** Стрыечны брат, які любіць гатаваць, прыносіць вячэру па чацвярах. Сусед, добры ў паперах, дапамагае з дакументамі.
+- **Напішыце sms або лісты на электронную пошту**, калі размаўляць тварам да твару нязручна.
+- **Прадумайце адказ** на выпадак, калі хтосьці прапануе дапамогу: «Дзякуй, што спыталі. Вось што вы можаце зрабіць».
+- **Чакайце некаторых «не»** і старайцеся не браць іх блізка да сэрца.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Іншыя ідэі: папрасіць каго-небудзь пабыць з чалавекам адзін другі на тыдзень, узяць яго на кароткую прагулку або прыйсці ў госці і разам паіграць. Наш [дапаможнік па сумесных гульнях](/caregiving/how-to-play-together/) лёгка даслаць гасцям.
 
-## What if something happened to me?
+## Што, калі нешта здарыцца са мной?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Зрабіце просты план рэзервовай дапамогі зараз. NIA раіць вырашыць разам з сям'ёй або блізкімі сябрамі, хто падменіць вас, і весці нататнік з экстранымі нумарамі, лекамі, парадамі па паводзінах, якія працуюць, і любімымі заняткамі. Асацыяцыя Альцгеймера таксама раіць трымаць пад рукой медычныя кантакты чалавека і актуальны спіс лекаў.
 
-## When should I get professional or urgent help?
+## Калі патрэбна прафесійная або тэрміновая дапамога?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Пагаварыце з урачом, калі прыкметы стрэсу паўтараюцца, калі вы адчуваеце дэпрэсію або вам цяжка спраўляцца. Скажыце ўрачу, што вы апекун. NIA адзначае, што псіхолагі і сацыяльныя работнікі могуць дапамагчы з цяжкімі пачуццямі і планаваннем, а Medicare, Medicaid і некаторыя прыватныя страхоўкі могуць пакрываць частку коштаў псіхічнага здароўя.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Калі вы ў крызісе або думаеце пра нанясенне шкоды сабе, неадкладна патэлефануйце па 112 або звярніцеся да спецыяліста. У ЗША таксама працуе бясплатная лінія [988 Suicide & Crisis Lifeline](https://988lifeline.org/) — тэлефанаваць або пісаць на 988 можна круглыя суткі. Калі хтосьці ў непасрэднай небяспецы, патэлефануйце па 112.
 
-## Can shared activities give me a break too?
+## Ці могуць сумесныя заняткі даць і вам перапынак?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Часам так. Спакойныя заняткі, якія падабаюцца вам абодвум, могуць зрабіць дзень мякчэйшым і для вас, і для чалавека, за якім вы даглядаеце: слуханне старых песень, разгляданне фотаздымкаў або гульня накшталт [«Карткі для размовы»](/games/conversation-cards/), дзе няма правільных адказаў. Калі чалавеку падабаецца кампанія, групавое заняткі з [«Бінга з карцінкамі»](/games/picture-bingo/) у цэнтры для старэючых або ў праграме дзённага догляду могуць даць вам гадзіну адпачынку. Пра ідэі глядзіце [заняткі для груп у дамах догляду](/activities/care-home-groups/).

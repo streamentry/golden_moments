@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Jan ist'aña ukat demencia: Yatiñanakax kunsa uñacht'ayi"
+seoTitle: "Jan ist'aña ukat demencia: Yatiñanakax"
+description: "Kunatsa jan ist'aña demencia ukan wali jan walt'äwi uñacht'ayi, ACHIEVE yatichäwix kunsa uñacht'äna, ukat kunjamasa ist'awinak apaqañ ukat parlañ suma sarnaqañ."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Lancet Commission 2024 yatiyirix jan ist'aña demencia wakiskir chiqanakan maynit jark'asiñ utji sañ uñacht'ayi. ACHIEVE yatichäwin ist'awinakax taqi jaqinakan jan kuna cambiopkiti, ukampisa wali jan walt'äwi jaqinakax suma cambionak uñjapxäna. Ist'awinakax parlañ ukat uru sarnaqañ yanapt'apxi, ukatwa ukax yatiñamaw. Ist'aña uñjapxam, ist'awinak amtasipxam, ukat doctor parlapxam.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission yatiyirix jan ist'aña jaqinakan demencia 7% kipkaki sasaw amtaraki, 14 wakiskir chiqanakan ukax maynikam jach'a parti."
+  - "ACHIEVE yatichäwin 977 jach'a mayni jaqinakan, ist'awinakax kimsa maranakan demencia jan walt'äwi jan kuna cambiopkiti."
+  - "Jisk'a wali jan walt'äwi jaqinakan ACHIEVE ukan, ist'awinakampi jan walt'äwi 48% jisk'aki sasaw uñjatäna; ukax yatiñamaw chiqapar uñacht'añasa."
+  - "Oct. 2022 mara qalltasina, US jaqinakax jan wali jan ist'aña sañ amuyapxi ukanakax FDA yanapt'ata ist'awinak janiw doctor qillqat mayisiñ jaysapxi."
+  - "2024 maranx jan wali uñjaña demencia wakiskir chiqaru yapxatäna, ukatwa uñ uñjañax wali wakiskiriwa."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "¿Ist'awinakax demencia jarkaraspati?"
+    a: "Janiw chiqapar uñacht'äkiti. ACHIEVE yatichäwix kimsa maranakan jan kuna cambiopkiti sasaw uñacht'äna, ukampisa jan wali sarnaqiri jaqinakax suma cambionak uñjapxäna. Ist'awinakax parlañ, jan ukax sarnaqañ wali sum sarnaqañatakix yanapt'apxi, ukatwa amuyasiñawa."
+  - q: "¿Khitinakas OTC ist'awinak mayisiñ atipxi?"
+    a: "FDA yatiyirix 18 maranakat sipansa jaqinakax, jan wali jan ist'aña sañ amuyapxi ukanakax, doctor qillqat janiw mayisiñ ukat tiendanakan jan ukax internetan mayisiñ atipxañapa sasaw yatiyi. Ukax jach'a jan ist'aña ukatakix janiw kunapachati. Ch'uxña ch'iwiyañ, kunapachatix lakat jaqsuñ, jilt'añ jan ukax sumankañ jan walt'äwiw utjki ukhaxa, doctor parlañ wali sum."
+  - q: "¿Jan ist'aña ukax demencia uñtasa?"
+    a: "Mayni kutiw. National Institute on Aging yatiyirix jan wali ist'ir awkinakax amuyu jan walt'äwi jan ukax jan yanapt'ñ jaqinakaw sasaw amuyasipxi. Kunapachatix jaqi jiwasaxat wiskt'iri jan ukax parlatanakax jan amuyasa ukhaxa, ist'awi uñjañax suma ukax yatiñawa."
+  - q: "¿Kuna kutiw awkinakax nayranakap uñjañapa?"
+    a: "National Institute on Aging yatiyirix 60 maranakat qalltasina, maranakan jan ukax kimsa maranakan uñ uñjaña wali sum. Shuga yapuchañ ukat wila ruspaña jan walt'äwi utjki jaqinakax maynit maranak uñjañapa."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Jan ist'aña wali sapa jaqinakan mä jan walt'äwi utjarakiwa, ukat yatiririnakax ukar wali amuyapxi demencia wakiskir chiqa sasaw. Ukax janiw ist'awinakax demencia jarkañ chiqapar yanapt'apxi sasaw sañäkiti; jach'a yatichäwix jan wali uñacht'ayatanakampi. Ukhamaw uka qillqatax uñacht'ayi, yatiñanakax kunsa uñacht'ayi, US ist'awi jan doctor qillqat mayisiñ ukat kunjamasa parlañ suma sarnaqañ.
 
-## Why does hearing matter for brain health?
+## ¿Kunatsa ist'aña jiwasan amuyuru wali wakiskiri?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Jan ist'aña demencia jarkañ jani walt'ir jaqinakan wali jach'a wakiskiwa. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) yatiyirix, jan ist'aña demencia 7% kipkaki sasaw amtaraki. Ukax 14 wakiskir chiqanakan, [UCL yatiyañ qillqatan](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) uñacht'ayatänwa, high LDL cholesterol ukampi maynikam jach'a parti.
 
-Key findings from the Commission:
+Commission yatiyañanakan jisk'a uñjañanakax:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Jan ist'aña, jach'a wakiski.** Pusi wali sum yatichäwinak mä chiqar sapxata, jan ist'aña jaqinakax jan ist'ir jaqinakat 37% sipansa jach'a demencia wakiski.
+- **Juk'amp jan ist'aña, juk'amp wakiski.** Jan ist'aña kunjam jach'a ukax yatiñanakax uñacht'ayapxi, ukhamarak wakiskix jilxatañapa.
+- **Ukax yatiñamawa, chiqapar janiw uñacht'äkiti.** Amuyunakax ukhamawa: jaqi jisk'achäwi, lupi, amuyu lup'iña ukat jan ist'añ mayt'asiñ.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Jan ist'aña wali sapa jaqinakan. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) yatiyirix, kimsa paqallq jach'a jaqinakan jan ist'aña utjaraki, ukat maranakax jilxataspati wakiski.
 
-## What did the ACHIEVE hearing aid trial find?
+## ¿Kunsa ACHIEVE ist'awi yatichäwix uñacht'äna?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE ukax jan ist'aña ukat amuyu jan walt'äwi chiqan ist'awinakan mayni yatichäwiwa. Jupa yatiñanakax wali jan sum qillqatäpxi, ukatwa [yatichäwin qillqatapat](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) kunsa uñacht'ayañ munta.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Khitinakas mayacht'apxäna:** 70 maranakat 84 maranakkamaki 977 jaqinakaw, jan ist'aña mayisiñ jan ist'äna ukat amuyu jan walt'äwi janiw utjkänti, US pusi chiqan.
+- **Kuns uñjasipxäna:** Phisqhat chiqax ist'awinak ukat audiólogo yatichäwinakampi yanapt'asipxäna. Maya phisqhat chiqax sarnaqañ suma yatichäwi sipxäna.
+- **Taqi uñacht'äwi:** Kimsa maranakan, kimsa chiqanakan amuyu jan walt'äwix janiw jan kuna cambiopkiti.
+- **Jisk'a chiqan uñacht'äwi:** Yatichäwix pusi chiqat mayacht'asiwayäna. 238 jaqinakax wali sum amuyu jan walt'äwi chiqat ARIC sañ yatichäwit mayacht'apxäna, ukhamata jach'a wakiskir jaqinakawa. Ukan ist'awinakampi jan walt'äwi 48% jisk'aki. Ukampisa 739 wali sumi jaqinakan janiw chiqapar uñjatäkiti.
 
-How to read this honestly:
+Kunjamas chiqapar amuyañ:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Taqi uñacht'äwix janiw kuna cambiopkiti.
+- Jisk'a chiqan uñacht'äwix nayrar yatichatäna, ukampisa jisk'a jaqinakan yatiñanakan qillqatawa. Yaqhip yatichäwinakan chiqapar uñacht'añasa.
+- Mayacht'ir jaqinakax kuna yatichäwin utjki ukanakax yatipxäna, ukax uñacht'äwinakar jan kuna mayi.
+- Lancet Commission amuyañapax: ist'awinakax jan ist'aña ukampi maynit jan walt'äwi jaqinakar wali yanapt'apxi.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Chiqa jaltanx: ist'awinakax demencia jarkañ chiqapar yanapt'apxi sasaw janiw uñacht'äkiti. Ukampisa jaqinakar ist'añ, parlañ ukat sarnaqañ yanapt'apxi, ukatwa amuyasiñawa.
 
-## How do I know if hearing should be checked?
+## ¿Kunjamas yatsna ist'aña uñjañapa?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA yatiyirix, khitisa jumampi jan ukax jumax jan ist'aña jaqi uñjasa ukhaxa doctor parlañ sasaw sapxi:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Telefonon parlañanakax jan ist'añ
+- Mayni jaqinakan parlañ jan amuyañ
+- Ch'uxña ch'iwiyañ jaqinakar jaysaña
+- Televisor jach'a turuntañ, ukatxa mayninakax jaysapxi
+- Sarnaqäwi jaq'añ jan amuyañ
+- Mayninakax lakani parlapxi sasaw amuyaña
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Mä atipt'ir doctor (primary care) parlañ, ukatxa audiólogo (ist'awi yatiri) jan ukax oído, nariz ukat garganta doctor sapxam. Ch'uxña wali sapa jan ist'aña chiqan, doctor uñjañ wali sum. **Uka rato jan ist'aña wali jach'a jan walt'äwi**, ukhamasti NIA yatiyirix doctor parlañ ukat ch'iqapacha sapxi.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Jan ist'aña jaqi amuyu jan walt'äwi sasaw amuyasipxi. NIA yatiyirix, jan ist'ir awkinakax amuyu jan walt'äwi jan ukax jan yanapt'ñ jaqinakaw sasaw amuyasipxi. Kunapachatix jumax uñjasta jaqi jisk'achasiri jan ukax jan ist'añ, ist'awi uñjañax suma nayrar sarañ.
 
-## What are over-the-counter hearing aids?
+## ¿Kunas tiendan ist'awinakax OTC?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Oct. 17, 2022 mara qalltasina, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ukax over-the-counter (OTC) ist'awinak mayisiñ yatichäna. Kunjamas prescripción ist'awinakat sipansa:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Feature | OTC ist'awinak | Prescripción ist'awinak |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Khitinakatakis | 18 maranakat sipansa jaqinakatakix, wali sapa jan ist'aña mayni jan wali | Kuna jan ist'aña, kuna maranakan |
+| Kawkhan mayisiñ | Tiendanakan jan ukax internetan, janiw doctor qillqat mayisiñ | Ist'awi yatiri mayni |
+| Ist'awi churaña | Jumax nayraqat calibrar, aplicación ukampi | Yatiri jaqi jumatakix churaña |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA yatiyirix OTC ist'awinak jach'a jan ist'aña ukatakix janiw kunapachati. Mayisiñ nayrar, ch'iwiyañ jan ukax oído, nariz ukat garganta doctor parlañ sapxi, kunapachatix:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Oído ch'iwiyañ jan ukax jan suma
+- Oídot lakat, lipi jan ukax wila jurt'añ kimsa phaxsinak ukhamarak
+- Ist'añ jan walt'äwi jilxatañ jan ukax jan wali
+- Mä oído jan ist'añ jan ukax mä oídot juk'a jan ist'añ
+- Q'ara jan ukax sarnaqañ jan walt'äwi
+- Oídot jach'a oído lakat
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Ist'awinak uñjañax lup'iñ mayi, ukatwa FDA yatiyirix mayisiñ nayrar, mayisiñ kutin ch'uxña uñjañ. NIA yatiyirix seguro churañ jan ukax mä phuqhañ yanapt'ayañ. Jaqi amuyu jan walt'äwi jaqi uñjañ ukhaxa, audiólogo jumanakar yanapt'añapa kuna ist'awi ukat suma churañ sarnaqañ wali sum.
 
-## How can I talk more easily with someone who has hearing loss?
+## ¿Kunjamas jan ist'aña jaqi parlañ?
 
-The NIA suggests:
+NIA yatiyirix:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Jaqi uñjañ ukat ñawinaka uñjasiñ**, wali k'anchaña, ukhamasti lakaman, uñjañanaka uñjapxi.
+2. **Ch'uxña chiqa uñjañ.** Televisor apaqañ jan ukax jaysaña jaqi.
+3. **Juk'a jach'a parlañ, ukampisa jan q'äñuñ.** Sum parlañ, ukatxa suma sarnaqañ.
+4. **Lakam ch'uxña.** Jan manq'añ, jan kawkhan ch'uxña jan ukax lakam jan q'äqañ.
+5. **Yaqha arunak parlañ** jan ist'apxi ukhaxa, jan kutin parlañ.
+6. **Mä jaqi mä kutiw.** Mayni jaqinakan, jaqi jan ist'añ ukar uñjañ.
+7. **Jaysaña ukat jawsaña kunsa yanapt'ayañ.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Uka yatiñanakax [demencia parlañ yatiñanakampi](/caregiving/communication-tips/) sum sarnaqapxi. Uñjañ ukar sarnaqañanakax ist'añ jan sum wakiskiñ jist'arapxi. [Picture Pairs](/games/picture-pairs/) ukat [Conversation Cards](/games/conversation-cards/) uñjañ ukat parlañ yanapt'apxi, [Finish the Saying](/games/finish-the-saying/) ukax arunak uñacht'ayañ yanapt'i. Telefono jan ukax video parlañatakix, [telefono ukat video parlañ](/activities/phone-and-video-calls/) uñjañ.
 
-## Vision matters too
+## Uñ uñjañax wali wakiskiriwa
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 maranx Lancet Commission jan wali uñjaña jan walt'äwi, mayni wakiskir chiqa sasaw yapxatäna. UCL yatiyirix, ukax demencia 2% kipkaki sasaw amtaraki, ukat Commission uñ uñjañ ukat walt'ayañ taqinakan sarnaqañ sasaw yatiyi. [NIA yatiyirix](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) 60 maranakat qalltasina, maranakan jan ukax kimsa maranakan dilated uñ uñjaña wali sum, ukat lentes qillqatanakan uñjañ. Juk'a uñ jan walt'äwi jiwasan jaltañ wakiski.
 
-## Talk with a doctor
+## Doctor parlañ
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Jan ist'aña, uñ jan walt'äwi uñjasiñ, doctor ist'awi ukat uñ uñjaña jawsañ. Ch'iqapacha uñjañ, kunapachatix jan ist'aña ch'iqapacha, oído lakat jan ukax oído ch'iwiyañ. Khitinakas demencia jarkañ jaqi uñjapxta ukhaxa, jupanakan doctorar jan ist'aña jan ukax uñ jan walt'äwi parlañ, ukax amuyu, sarnaqañ ukat mayninakan yanapt'ayañ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Uka qillqatax taqi amuyunakan yatiyañawa, janiw doctor yatiyañakiti. Uñjañ [medical disclaimer](/medical-disclaimer/) uñjañ. Mayni yatiñanakax [jaqinakan parlañ ukat amuyu sum](/brain-health/social-connection/) uñjañ.

@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Нежна дневна рутина за човек с деменция"
+seoTitle: "Дневна рутина при деменция: гъвкав примерен ден"
+description: "Гъвкав примерен ден за човек с деменция: хранене, дейности и почивка в спокоен ритъм, плюс как да съставите собствен и да го адаптирате при по-трудни дни."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Нежната дневна рутина държи събуждането, храненето, грижата за личната
+  хигиена и лягането приблизително в едно и също време, поставя основната
+  дейност тогава, когато човекът е най-бодър, и балансира активността с
+  почивка. Изградете я според житейските навици на човека, оставете я
+  по-свободна, а не натъпкана, осигурявайте дневна светлина и движение всеки
+  ден и променяйте плана свободно, когато денят го изисква.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Постоянното време за събуждане, хранене, грижа и лягане дава на деня познат ред."
+  - "Поставете основната дейност в най-доброто време на деня за човека, често сутрин."
+  - "Не запълвайте всяка минута. Почивката и тихото време са част от рутината."
+  - "Дневната светлина, ежедневното движение и избягването на дълги късни дрямки и късно кафе може да помогнат при неспокойствие в късния следобед."
+  - "Рутината е насока, а не правило. Разменете, скъсете или пропуснете нещо при по-трудни дни."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Защо рутината е полезна за човек с деменция?"
+    a: "Предвидимият ден означава по-малко решения и изненади, което много хора с деменция намират за успокояващо. Alzheimer's Association отбелязва, че планираният ден ви позволява да отделите по-малко време за това какво да правите и повече за неща, които и двамата обичате. Той помага и на близките да организират по-спокойно собствения си ден."
+  - q: "Какъв е добър дневен график за човек с деменция?"
+    a: "Няма един правилен график. Добрият график държи събуждането, храненето и лягането приблизително в едно и също време, поставя грижата за личната хигиена и основната дейност тогава, когато човекът е в най-добра форма, включва време на открито или близо до прозорец и оставя място за почивка. Изградете го около начина, по който човекът е живял досега."
+  - q: "Трябва ли човек с деменция да дреме през деня?"
+    a: "Кратката почивка може да помогне, особено след обяд. National Institute on Aging препоръчва да се избягват дълги дрямки и дрямане късно през деня, тъй като прекаленото уморяване или лошият сън могат да засилят неспокойството в късния следобед. Ако съньлът е реален проблем, говорете с лекаря на човека."
+  - q: "Какво да правя, ако човекът откаже да спазва рутината?"
+    a: "Оставете го за момента и опитайте по-късно или по друг начин. Отказът може да означава умора, неразположение, болка или просто че човекът не е готов. Рутината съществува, за да улесни деня, затова я огъвайте, а не я налагайте със сила."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Нежната рутина придава на деня познат облик: ставане, хранене, малко дейност, почивка и лягане приблизително в едни и същи часове. Тя намалява броя на решенията и изненадите и ви дава план за моментите, в които иначе бихте се чудили какво да правите после. Рутината по-долу е примерна, а не правило. Използвайте я като отправна точка и я оформете според човека, за когото се грижите.
 
-## Why does a daily routine help?
+## Защо дневната рутина помага?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Постоянната рутина помага, защото познатите модели се следват по-лесно от новите. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) казва, че планираният ден означава по-малко време за решения какво да се прави и повече време за приятни дейности, и отбелязва, че редовното време за ставане и лягане може да помогне при проблеми със съня и неспокойство в късния следобед. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) препоръчва къпане, обличане и хранене в едно и също време всеки ден като част от спокойния дом, а [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) също препоръчва запазване на едни и същи рутини.
 
-## A sample gentle day
+## Примерен спокоен ден
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Часовете са само примерни. Преместете целия ден по-рано или по-късно, за да съвпадне с ритъма на човека.
 
-| Time | What happens | Ideas | On a harder day |
+| Час | Какво се случва | Идеи | В по-труден ден |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 ч. | Събуждане, измиване, обличане | Един и същ ред всеки ден; подредете дрехите в реда, в който се обличат | Грижата да е проста; свежа риза е достатъчна |
+| 8:45 ч. | Закуска | Кафе и вестник, прочетени на глас, или радио | Хапнете заедно спокойно, без натиск за разговор |
+| 9:30 ч. | Основна дейност | Сгъване на пране, печене, градина, кратка разходка или излизане | По-кратък вариант или нека ви гледат как я вършите |
+| 10:30 ч. | Тихо време | Музика, албум със снимки или седене до прозорец | Почивка в любимия стол |
+| 11:00 ч. | Помощ при обяда | Измиване на зеленчуци, сервиране на масата | Вие готвите; те ви правят компания |
+| 12:00 ч. | Обяд и почистване | Бършене на масата, подсушаване на няколко чинии | Пропуснете домакинските задачи |
+| 1:00 ч. | Кратка почивка | Крака повдигнати, тиха музика | Същото |
+| 2:00 ч. | Навън или активност | Разходка, време на верандата, поливане на растения, хвърляне на балон | Седене на слънчев прозорец |
+| 3:00 ч. | Социално или творческо | Посещение, обаждане, [картинни двойки](/games/picture-pairs/), оцветяване, карти | Напитка и закуска заедно |
+| 4:30 ч. | Време за успокояване | Спуснати завеси, включени лампи, спокойна задача като сгъване на кърпи | Познata музика, малко шум |
+| 5:30 ч. | Вечеря | Помощ при бъркане или сервиране на масата | Просто, познато ястие |
+| 6:30 ч. | Вечер заедно | Спомени над десерт, карти, любим сериал, масаж на ръцете | Тиха компания |
+| 8:00 ч. | Вечерна рутина | Баня или измиване, пижама, тиха музика, приглушена светлина | Скъсете всичко; първо комфорт |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Този пример следва структурата на собствения примерен план на Alzheimer's Association за ранния и средния етап. Той минава от лична хигиена и закуска през домакински задачи, разходки, музика, почивка и посещения до вечеря, спомени и подготовка за лягане.
 
-## How do you build your own routine?
+## Как да съставите собствена рутина?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Започнете от начина, по който човекът винаги е живял, а не от таблица. Alzheimer's Association предлага да обмислите следното, преди да планирате:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Харесвания, неприятни неща, силни страни и интереси.**
+- **Как човекът е прекарвал деня си досега.** Ранобудник, който винаги е извеждал кучето сутрин, трябва да продължи така. Нощна птица може никога да не се радва на начало в 8 сутринта.
+- **Най-доброто му време за деня.** Поставете там къпането, излизанията и основната дейност.
+- **Достатъчно време** за хранене, измиване и обличане, така че нищо да не се бърза.
+- **Редовно време за ставане и лягане.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Същият източник препоръчва да се включат смес от домакински задачи, хранене, грижа за личната хигиена, творчески дейности, физическа активност, социално време, духовна дейност и спонтанни моменти, например когато приятел мине на посещение.
 
-### Try it for a week, then adjust
+### Изпробвайте една седмица, после коригирайте
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Водете кратки бележки всеки ден. Alzheimer's Association предлага да си отбелязвате кои дейности са вървели най-добре и защо, дали е имало моменти с твърде много събития или твърде малко за правене и дали спонтанните планове са били приятни или са причинили безпокойство. Запазете това, което работи, и променете останалото.
 
-### Make it visible
+### Направете го видимо
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Ако човекът все още може да чете, бяла дъска или голям шрифт с плана за деня може да успокои. Пишете кратко: „Закуска. Разходка със Сара. Обяд. Почивка.“ Някои хора се справят по-добре, когато не знаят много напред; Family Caregiver Alliance предлага да не обсъждате плановете преди самото им изпълнение, ако това предизвиква тревога.
 
-## How to adapt the routine
+## Как да адаптирате рутината
 
-### Leave room to breathe
+### Оставете място за дишане
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Не запълвайте всяка минута. Alzheimer's Association подчертава, че човекът се нуждае от баланс между активност и почивка и може да има нужда от по-чести паузи. Ако изглежда отегчен, разсеян или раздразнителен, сменете дейността или направете почивка.
 
-### Protect the late afternoon
+### Пазете късния следобед
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Мнозина стават все по-неспокойни, когато дневната светлина залязва. NIA препоръчва всеки ден време на открито или до прозорец за слънчева светлина, ежедневна активност без да се планира твърде много, избягване на кофеин и алкохол късно през деня и избягване на дълги дрямки късно през деня. Някои семейства откриват, че помага да затварят завесите и да включват лампите преди здрач. Вижте [неспокойството в късния следобед](/caregiving/late-day-restlessness/) и [съня](/brain-health/sleep/).
 
-### Change it as needs change
+### Променяйте я, когато се променят нуждите
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Ранен етап:** планирайте рутината заедно. Човекът може да иска писан график, който сам управлява.
+- **Среден етап:** вие водите повече. По-кратки дейности, повече почивка и много познати задачи; вижте [дейности за средния етап](/activities/middle-stage/).
+- **Късен етап:** рутината се съсредоточава върху комфорта, храненето и грижата, с кратки сетивни моменти като музика или масаж на ръцете между тях; вижте [дейности за късния етап](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Сменяйте дейностите, не рамката
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Пазете храненето, почивката и лягането постоянни и редувайте дейностите между тях. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) препоръчва да опитвате различни дейности в различни дни, за да остане интересно. Можете да печете в понеделник, да работите в градината във вторник и да гледате снимки в сряда. Нашите [101 идеи за дейности](/activities/ideas/) и [домакински задачи](/activities/household-tasks/) могат да запълнят времето.
 
-## When the day goes sideways
+## Когато денят се обърка
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Някои дни няма да следват никакъв план. Болест, лоша нощ, посещение при лекаря или промяна във времето могат да объркат всичко. Оставете плана настрана, запазете основното (храна, течност, почивка, комфорт) и опитайте отново на следващия ден. Ако човекът откаже нещо, вижте [когато казват „не“](/caregiving/when-they-say-no/). Заедно една спокойна дихателна пауза, като [спокойното дишане](/games/calm-breathing/), може да помогне и на двамата да се успокоите.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Собствената ви рутина също има значение. Включете почивки за себе си и помолете семейството или услуга за временна почивка да поеме редовно време, когато имате нужда да отсъствате. Вижте [грижата за себе си като близък](/caregiving/caregiver-self-care/).

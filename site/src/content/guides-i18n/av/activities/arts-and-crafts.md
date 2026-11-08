@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Арт-терапия ва ремеслаЗ рагӀудасеб"
+seoTitle: "Ремесла дементиялда: рагӀудасеб, бакӀалеб мацӀ"
+description: "РагӀудасеб ремеслаб ва арт-гьабулеб ганалъулаб гьоболъи дементия бихьараб рагӀудасеб: акварель, коллаж, цветок тӀибиялда, гӀоло ва бакӀалеб сурат, гьабизе кӀалъазаби, гьабизе бугеб ва процесс гьалъ итӀелъи."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Дементия бихьараб рагӀудасеб ремеслаб арт-гьабулеб ганалъулаб гьоболъи бугеб
+  гьабулъи: акварель, журналалда коллаж, цветок тӀибиялъи, гӀоло, сад тӀибиялъи
+  ва ччвабулеб сурат. КӀвар материал гьабизе, гьелъ гьабулаб гьоболъи сабаб
+  гьабулъи, гьабулъи ккола бакӀалеб ва ккуру. Гьабулеб гьоболъи гьабулъи
+  бихьизе ккола. Гьабулаб кӀвар гьоболъи — гьарабизе бугеб.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "БакӀалеб ва рагӀудасеб гьабулеб материал ва тема гьабизе: акварельлъи папка, гьакӀ цветок ва журналалъи сурат, амма блесток, наклейкаби ва бихьизе бугеб гьабулаб тӀиб бугеб."
+  - "Процесслъе гьабулъи: тӀиб, гӀоло, гьабулаб гьечӀо. ТӀибаб гьабулъи гьоболъи бакӀалеб, гьабулъи гьабулъи — маркӀалъиялда."
+  - "МегӀ кьабизе гьабулеб мегӀ: кӀвар маркӀалъиялда гӀоло, яз ва стол тӀибиялъи гьабулъи."
+  - "Гьабулъи гьабизе кӀалъазаби, гьабулъи гьабизе. Гьабулъи тӀибиялда гьабулеб кӀвар."
+  - "Гьабулеб ккола кӀвар тӀибалъи, гьабулъи тӀибаб бугеб гьабулаб гьечӀо — гьабулъи ккуру ккола."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ремесла гьабулъи гьабулъи бакӀалеб гьечӀо гьабизе?"
+    a: "Гьабулаб материал гьабизе, гьабулъи тема ва гьарабулеб мацӀ гьабизе. Блескаб ва мультикаб сурат гьабулъи акварельлъи папка, матаб, цветок, журналалъи сурат ва детальлъи сурат гьабизе. Гьабулъи гьабулеб тӀиб тӀибиялъи, бакӀалеб кӀвар гьабулъи — гьабулеб тӀибиялда гьабулъи гьабизе кӀалъазаби."
+  - q: "Дементиялда гьабулеб тӀиб гьабулъи гьабулаб гьарабулъи бакӀалеб?"
+    a: "КӀвар тӀибалъи гьабулъи бакӀалеб: кӀвар гӀолоялда гьабулъи, гӀолоялъи тӀиб, цветок вазаялда кӀвар тӀибалъи, матаб тӀибалъи тӀибиялда гьабулъи. Гьабулаб ккола тӀиб ва тӀибалъи гьабизе бугеб. Гьабулеб гьабулъи гьабулъи — гьабулеб гьоболъи кӀвар бугеб."
+  - q: "Гьабулъи «гьабулъи бугеб гьечӀо» гьабулеб?"
+    a: "Гьабулъи тӀибиялъи гьабизе. Гьабулъи гьабулаб гьечӀо тӀибиялъи: акварельлъи гьабулъи, коллаж, цветок тӀибалъи. Гьабулъи гьабизе гьабулеб тема: «Гьабулъи кӀвар тӀибиялъи гьабизе, гьабулъи гьабизе кӀалъазаби?» Гьабулъи тӀибалъи гьабулъи гьабулъи — гьабулъи гьабизе."
+  - q: "Гьабулаб гьабулъи рагӀудасеб гьечӀо?"
+    a: "РагӀудасеб гьабулъи, гьабулъи гьабизе гьабулеб тема. ТӀибалъи тема гьабизе: сад, гьабулъи, машина ва пейзаж. Гьабулъи гьабулъи тӀибиялъи — гьабулеб гьабулъи тӀибалъи, гьабулъи гьабизе. Гьабулаб гьабулъи тӀибалъи ччвабулеб гьабулъи гьабизе бугеб, тӀибиялъи гьабулъи гьабулъи."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Арт ва ремеслаЗ гьабулъи дементия бихьараб рагӀудасеб гьабулъи гьабизе бугеб, гьабулъи гьабизе кӀалъазаби гьечӀо. Alzheimer's Association гьабулъи гьабизе: арт-гьабулъи [гьабулъи тӀибалъи ва гьабулъи гьабизе](https://www.alz.org/help-support/caregiving/daily-care/art-music) бугеб, гьабулъи дементия бихьараб рагӀудасеб ва гьелъ гьабулеб рагӀудасеб гьабулъи. Гьабулъи гьабизе кӀалъазаби: бакӀалеб, ккуру ва гьабулъи гьечӀо. Гьабулъи гьабулаб гьабулъи, гьабулъи гьабизе ва гьабулъи тӀибиялъи гьабулъи гьабизе.
 
-## What makes an art activity adult and not childish?
+## Арт-гьабулъи бакӀалеб ва гьабулъи гьечӀо гьабизе?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+БакӀалеб арт-гьабулъи бугеб: гьабулеб материал, рагӀудасеб тема ва гьабизе бугеб мацӀ. Alzheimer's Association гьабулъи гьабизе: гьабулъи бакӀалеб ва гьабулъи гьечӀо тӀибиялъи.
 
-| Feels childish | Feels adult |
+| Гьабулъи гьечӀо | БакӀалеб |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Блесток, пенопластаб наклейка, гьоло гьабулъи | Акварельлъи папка, матаб, пресс-цветок |
+| Мультикаб сурат | Сад, одеяло, машина ва пейзаж сурат |
+| Гьабулъи «гӀемер гьабулъи» маркӀалъи | Гьабулаб мацӀ: «Гьа кӀвар гӀоло гьабулъи лъугӀиб» |
+| Гьабулаб гьечӀо ремесло | Дуланиб, гьабулъи стол, подарок |
+| Гьабулъи гьабулъи гьабулаб | Гьабулъи: «Гьабулъи гьабизе кӀалъазаби?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+РагӀудасеб гьабулъи гьабизе: рагӀудасеб гьабулъи гьабулъи гьабизе бугеб. Гьабулъи гьабулъи шитӀиб гьабизе гьабулъи гьабулъи гьабизе, гьабулъи гьабулъи — гьабулъи гьабизе.
 
-## Why focus on the process, not the product?
+## Процесслъе гьабизе гьабулъи, гьабулъи гьечӀо?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Гьабулъи гьабулъи гьабизе: гьабулъи гьабулъи гьабизе бугеб. Alzheimer's Association гьабулъи [гьабулъи гьабизе](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) гьабулъи процесслъе гьабизе. «Гьабулаб кӀвар» гьабулъи гьабулъи сурат ккола.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association гьабулъи гьабизе: профессиональ рассам гьабулъи гьабулъи тӀибалъи, гьабулъи гьабулъи гьабизе бугеб. Гьабулъи гьабулъи гьабизе — рагӀудасеб материал гьабизе.
 
-## Arts and crafts ideas to try
+## Гьабулеб арт ва ремеслаЗ гьабулъи
 
-Each idea includes how to make it simpler if it becomes hard.
+Гьабулъи гьабулъи гьабизе: гьабулъи гьабулъи гьабизе бугеб.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Акварель.** Гьабулъи акварельлъи папка гьабулъи, гьабулъи гьабулъи. Гьабулъи гьабулъи гьабизе. *Гьабулъи:* кӀвар гӀоло гьабулъи.
+2. **Журналалда коллаж.** Гьабулъи журналалъи сурат гьабулъи. *Гьабулъи:* кӀвар сурат ва клей.
+3. **Цветок тӀибалъи.** Alzheimer's Foundation of America гьабулъи [цветок тӀибалъи](https://alzfdn.org/dementia-activity-gardening/). *Гьабулъи:* кӀвар цветок кӀвар стаканаялда.
+4. **Пресс-цветок карточка.** Цветок книгаялда кӀвар гьабулъи, гьабулъи карточка гьабизе. *Гьабулъи:* гьабулъи клей гьабулъи.
+5. **БакӀалеб раскраска.** Гьабулъи [раскраска](/games/coloring/) гьабулъи. *Гьабулъи:* гӀоло гьабулъи, кӀвар гӀоло.
+6. **ГӀоло ва тӀиб.** Гьабулъи гӀоло тӀибалъи. *Гьабулъи:* кӀвар гӀоло. Гьабулъи гьабулъи гьабизе.
+7. **Карточка гьабизе.** Alzheimer's Association гьабулъи: «Гьабулъи карточка гьабизе. Гьабулъи гьабулъи?» Гьабулъи гьабулъи.
+8. **Альбом.** Гьабулъи гьабулъи фото гьабулъи. Гьабулъи [гьабулъи гьабулъи](/activities/reminiscence/).
+9. **Матаб тӀиб.** Гьабулъи матаб ва тӀиб. Гьабулъи [сенсор гьабулъи](/activities/sensory/).
+10. **Дерево.** Гьабулъи дерево гьабулъи. Гьабулъи гьабизе ва гьабулъи.
+11. **Музыка ва сурат.** Гьабулъи музыка гьабулъи гьабулъи. Гьабулъи [музыка гьабулъи](/activities/music/).
 
-## How do I set up an art session?
+## Арт-гьабулъи гьабизе гьабулъи?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Гьабулъи гьабизе.** Гьабулъи материал гьабулъи.
+2. **КӀвар гьабулъи.** КӀвар гӀоло, кӀвар кисть, кӀвар папка.
+3. **Стол тӀибалъи.** Гьабулъи пленка ва гьабулъи.
+4. **Гьабулъи бугеб.** Гьабулъи гьабулъи гьабулъи.
+5. **Гьабулъи гьабизе.** Alzheimer's Association гьабулъи кисть гьабулъи.
+6. **Гьабулъи гьабулъи.** Гьабулъи гьабулъи. Гьабулъи «Гьабулъи гьабулъи?» гьабулъи.
+7. **Гьабулъи гьабизе.** Гьабулъи бугеб тӀиб.
 
-## How do I adapt art as dementia changes?
+## Дементиялда арт гьабулъи гьабулъи?
 
-| Stage | What tends to work | What to adjust |
+| Стадия | Гьабулъи | Гьабулъи |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Ккуру | Классы, раскраска, альбом, карточка | Гьабулъи гьабулъи |
+| Гьабулъи | Коллаж, акварель, цветок | Гьабулъи гьабулъи |
+| КӀвар | Кисть, гӀоло, матаб | Сенсор гьабулъи |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS гьабулъи: кӀвар гьабулъи гьабулъи сенсор гьабулъи. Гьабулъи [стадия гьабулъи](/activities/ideas/).
 
-## Safety with art supplies
+## Гьабулъи гьабулъи
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Гьабулъи гьабулъи, гьабулъи клей.
+- Гьабулъи ножницы, гьабулъи гьабулъи — гьабулъи гьабизе.
+- Гьабулъи гӀоло гьабулъи.
+- Гьабулъи гьабулъи вазаялда.
 
-## When should we stop?
+## Гьабулъи гьабизе кӀвар?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Гьабулъи гьабулъи, гьабулъи гьабулъи. Alzheimer's Association гьабулъи. Гьабулъи гьабулъи.
 
-## Display the work, if the person wants
+## Гьабулъи гьабулъи
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Гьабулъи гьабулъи, гьабулъи гьабулъи. Гьабулъи гьабулъи, гьабулъи гьабулъи.
 
-## Pair art with our games
+## Гьабулъи гьабулъи нарды
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Гьабулъи [Раскраска](/games/coloring/), [Картинкаби пазл](/games/picture-puzzle/) ва [Гьабулъи карточкаби](/games/conversation-cards/) гьабулъи. Гьабулъи таймер гьечӀо. Гьабулъи гьабулъи [печатаб гьабулъи](/activities/printable/).

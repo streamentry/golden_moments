@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Як гуляць у гульні з тым, хто жыве з дэменцыяй"
+description: "Практычны дапаможнік: як гуляць з тым, хто жыве з дэменцыяй, — падрыхтоўка, тэмп, ніколі не выпраўляць, спрашчаць гульню і ведаць, калі спыніцца."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Ставцеся да гульні як да часу разам, а не як да праверкі. Выберыце спакойную пару дня, сядзьце побач у ціхім пакоі і прапануйце адну простую гульню. Дайце чалавеку самому задаваць тэмп, ніколі не выпраўляйце бяскрыўдныя памылкі, пры першым жа знаку напружання спрашчайце гульню і ператварайце карцінкі ў размову. Спыняйцеся, пакуль усё яшчэ добра. Скончыць раней або проста разам паглядзець — добры вынік.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Мэта — радасць і сувязь, а не праходжанне гульні або правільныя адказы."
+  - "Спачатку падрыхтоўка: ціхі пакой, добрае святло, акуляры і слыхавыя апараты на месцы, тэлевізар выключаны, адна гульня гатовая."
+  - "Не выпраўляйце бяскрыўдныя памылкі. Скажыце «Давайце зробім інакш» або проста працягвайце."
+  - "Спрасціце гульню, пакуль не ўзнікла расчараванне: менш карцінак, менш варыянтаў, карцінкі застаюцца відавочнымі."
+  - "Выкарыстоўвайце карцінкі як пачатак гісторыі з «Распавядзіце мне пра...» замест «Вы памятаеце...?»"
+  - "Спыніцеся пры першых прыкметах стомленасці або засмучэння. Ранняе спыненне — поспех, а не няўдача."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Як доўга гуляць у гульню?"
+    a: "Адзінай правільнай працягласці няма. Для многіх дастаткова некалькіх хвілін, а часам досыць аднаго раўнда. Глядзіце на чалавека, а не на гадзіннік, і спыняйцеся, пакуль ён яшчэ выглядае расслаблена."
+  - q: "Ці варта даваць выйграць або рабіць выгляд, што не бачу памылак?"
+    a: "У агульнай спакойнай гульні няма ні перамогі, ні паразы. Калі памылка не турбуе чалавека, дайце ёй прайсці. Калі здаецца, што яна яго засмучае, ціхенька дапамажыце або спрасціце гульню, не паказваючы на памылку."
+  - q: "Што, калі яны хочуць проста глядзець, як я гуляю?"
+    a: "Гэта добра. National Institute on Aging раіць дазволіць чалавеку проста назіраць, калі яму гэта здаецца прыемней. Расказвайце, што бачыце, і запрашайце паказаць або выбраць, калі захочацца."
+  - q: "Ці гэтыя гульні — спосаб праверыць памяць?"
+    a: "Не. Нашы гульні — простыя агульныя заняткі для задавальнення і размовы. Яны не з'яўляюцца праверкай памяці, нічога не вымяраюць і не з'яўляюцца лячэннем дэменцыі."
+  - q: "З якой гульні лепш пачаць?"
+    a: "Пачніце з самай простай, якая падыходзіць чалавеку. Picture Pairs з чатырма плітачкамі і відавочнымі карцінкамі або Find the Same з двума варыянтамі — ласкавыя пачаткі. Conversation Cards добра падыходзяць, калі чалавеку больш падабаецца гутарыць, чым націскаць."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Добрая гульня з тым, хто жыве з дэменцыяй, выглядае не як спаборніцтва. Яна выглядае так: два чалавекі сядзяць побач, паказваюць на карцінкі, смяюцца з прыказкі і гавораць пра ўсё, што ўзнікне. Гульня — проста нагода праводзіць час разам.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+У гэтым кіраўніцтве расказваецца, як падрыхтавацца, як задаваць тэмп гульні, што казаць, калі нешта «пайшло не так», як зрабіць любую гульню прасцейшай або трохі складанейшай, як перайсці да размовы і як зразумець, калі спыніцца. Яно падыходзіць і для нашых [гульняў](/games/), і для картак, пазлаў ці настольных гульняў, якія ў вас ужо ёсць.
 
-## What is the best way to play a game with someone who has dementia?
+## Што з'яўляецца лепшым спосабам гуляць з тым, хто жыве з дэменцыяй?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Засяродзьцеся на задавальненні, а не на дасягненні. Гэта галоўная парада з [рэкамендацый Alzheimer's Association па занятках](https://www.alz.org/help-support/caregiving/daily-care/activities): абапірайцеся на навыкі, якія чалавек яшчэ захоўвае, дапамагайце пачаць, самі заканчвайце цяжкія часткі і не крытыкуйце і не выпраўляйце бяскрыўдныя заняткі.
 
-In practice that means:
+На практыцы гэта азначае:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Сядзьце побач, а не насупраць.** Сядзячы поруч, вы абое бачыце экран або стол, і дапамога выглядае як сумеснае занятак, а не нагляд.
+- **Прапануйце адну гульню адначасова.** Меню варыянтаў можа ператварыцца ў экзамен яшчэ да пачатку.
+- **Ідзіце за іх ініцыятывай.** Калі чалавек хоча націскаць карцінкі ў сваім парадку, дзесяць хвілін гаварыць пра адну карцінку або спыніцца пасля двух ходаў, гэта і ёсць гульня на сёння.
+- **Лічыце добрыя моманты, а не скончаныя раўнды.** Усмешка, гісторыя або спакойныя паўгадзіны — вось вынік, да якога вы імкняцеся.
 
-## How do I set up before we start?
+## Як падрыхтавацца перад пачаткам?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Некалькі хвілін падрыхтоўкі прадухіляюць большасць расчаравання, якое людзі прыпісваюць самой гульні.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Выберыце лепшую пару дня.** [Нацыянальны інстытут старэння (NIA) у сваіх рэкамендацыях па адаптацыі заняткаў](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) раіць планаваць выхады і заняткі на той час дня, калі чалавек пачуваецца найлепш. Многім лепш у сярэдзіне ранку. Ва ўторай палове дня часта цяжэй; глядзіце [спакойныя заняткі ў другой палове дня](/caregiving/late-day-restlessness/).
+2. **Зрабіце пакой ціхім.** Выключыце тэлевізар і радыё і зачыніце дзверы, калі можаце. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) рэкамендуе абмежаваць шум і адцягненні, перш чым пачынаць размову.
+3. **Праверце зручнасць.** Пітво побач, паход у туалет загадзя, зручнае крэсла, акуляры і слыхавыя апараты на месцы.
+4. **Добра асвятліце прастору.** Яркае роўнае святло без адбіткаў на экране дапамагае лепш бачыць карцінкі.
+5. **Падрыхтуйце гульню, перш чым сесці.** Адкрыйце яе, абярыце налады і гучнасць самі. Потым павярніце экран да чалавека. Парады па планшэце глядзіце ў [наладжванні планшэта або тэлефона](/caregiving/tablets-and-screens/).
+6. **Замацуйце прыладу.** Падстаўка або чахол, які трымае планшэт роўна, азначае, што ніхто не павінен яго трымаць, і паказваць на яго лягчэй.
 
-## How do I invite them without pressure?
+## Як запрасіць без ціску?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Запрашайце нязмушана і так, каб было лёгка адмовіцца. Некаторыя фразы звычайна добра спрацоўваюць:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Вось некалькі карцінак з садам. Паглядзім разам?»
+- «Дапаможаце мне з гэтым пазлам? Нешта не атрымліваецца.»
+- «Вы сёння хочаце кветкі ці птушак?» (выбар з двух варыянтаў лягчэй, чым адкрытае пытанне)
+- «Я раблю паштоўку для вашай сястры. Які колер ёй падыдзе?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association раіць тлумачыць мэту занятку, напрыклад, што робіцца паштоўка для сябра, бо прычына надае сэнс. Просьба аб дапамозе таксама працуе, бо дае чалавеку адчуць сябе карысным.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Калі яны адмовяцца, прымайце адмову. Паспрабуйце пазней або прапануйце што-небудзь іншае. Наш дапаможнік [што рабіць, калі яны кажуць «не»](/caregiving/when-they-say-no/) разглядае гэта глыбей.
 
-## How long should a game last, and how fast should we go?
+## Як доўга павінна доўжыцца гульня і як хутка рухацца?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Дайце чалавеку задаваць тэмп і плануйце кароткія сесіі. Навукова абгрунтаванай ідэальнай працягласці агульнай гульні не існуе. Дзве–пяць спакойных хвілін могуць быць цалкам завершаным заняткам.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Чакайце даўжэй, чым здаецца натуральным.** NIA раіць даваць больш часу на адказ і старацца не перарываць. Палічыце ў думках да дзесяці, перш чым дапамагчы.
+- **Адзін крок за раз.** Дайце адну кароткую інструкцыю («Націсніце на карцінку») і чакайце. Паказвайце, а не тлумачыце: пакажыце пальцам, куды націскаць.
+- **Рабіце паўзы без патрэбы спяшацца.** Калі чалавек спыняецца, каб пагаварыць пра карцінку, гульня можа пачакаць. Спяшацца няма куды.
+- **Дайце ім назіраць.** NIA адзначае, што некаторыя людзі аддаюць перавагу назіраць, і гэта правамерны выбар.
 
-## Should I correct wrong answers?
+## Ці варта выпраўляць няправільныя адказы?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Не. Калі вы раз за разам мяккa выпраўляеце чалавека, гэта дае зразумець, што ён не спраўляецца, нават калі вы маеце добрыя намеры. Alzheimer's Association раіць не крытыкаваць і не выпраўляць бяскрыўдныя заняткі. У гульні амаль кожная памылка бяскрыўдная.
 
-| Instead of | Try |
+| Замест таго каб | Паспрабуйце |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Не, гэта няправільна.» | «Давайце зробім інакш.» (прыклад, які дае NIA) |
+| «Гэта не пара. Паглядзіце яшчэ раз.» | Нічога не кажыце і зрабіце наступны ход або «Ага, абедзве чырвоныя». |
+| «Вы памятаеце, хто гэта?» | «Раскажыце мне пра гэту карцінку.» |
+| «Вы ўжо гэта рабілі.» | «Гэта добра. Зробім яшчэ раз.» |
+| «Ну давайце, вы ж ведаеце.» | «Паказаць вам канец?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Калі памылка яўна расчароўвае, дапамагайце ціхенька. Паказвайце на правільную карцінку, зрабіце ход самі або спрасціце гульню ў наступным раўндзе. Калі прыказка заканчваецца смешным няправільным завяршэннем, смейцеся разам. Іх варыянт можа быць нават лепшым.
 
-## How do I make a game easier or harder?
+## Як зрабіць гульню прасцей або складаней?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Наладжвайце гульню пад чалавека на сёння, а не пад «стадыю». Той жа чалавек можа патрабаваць прасцейшай версіі ўвечары, чым раніцай. Першая парада NIA — адпавядаць заняткам таму, што чалавек можа зрабіць, і даваць адчуць поспех.
 
-| Game | Make it easier | Make it a little harder |
+| Гульня | Зрабіць прасцей | Зрабіць трохі складаней |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Пачніце з 4 плітачак і пакіньце карцінкі відавочнымі | Больш плітачак або схаваць карцінкі, калі так зручней |
+| [Find the Same](/games/find-the-same/) | 2 варыянты | Да 4 варыянтаў |
+| [Sort Together](/games/sort-together/) | Вы трымаеце карцінку, яны паказваюць на кошык | Яны самі націскаюць і карцінку, і кошык |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 кавалкі, спачатку пагаварыце пра ўсю карцінку | 9 кавалкаў |
+| [Finish the Saying](/games/finish-the-saying/) | Пакажыце заканчэнне, потым кажыце разам | Дайце ім сказаць заканчэнне, перш чым націскаць |
+| [Word Search](/games/word-search/) | Раздрукуйце, шукайце адно слова разам, паказвайце на першую літару | Дайце ім выбраць наступнае слова для пошуку |
+| [Coloring](/games/coloring/) | Вы выбіраеце два колеры, яны выбіраюць паміж імі | Яны выбіраюць усе колеры |
+| [Conversation Cards](/games/conversation-cards/) | Проста разглядайце карцінку разам | Выкарыстоўвайце адкрытыя пытанні з карткі |
+| [Photo Pairs](/games/photo-pairs/) | Некалькі любімых сямейных фота | Дадайце яшчэ фота |
+| [Picture Bingo](/games/picture-bingo/) | Памочнік сядзіць з кожным гульцом | Гульцы адзначаюць свае карткі самі |
+| [Calm Breathing](/games/calm-breathing/) | Проста сядзіце і глядзіце разам | Дыхайце разам павольна |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Прыкметы, што гульня занадта складаная: доўгія паўзы, якія выглядаюць трывожнымі, а не задумлівымі, паўтаральнае «не магу», адсоўванне прылады або памылкі, якія іх засмучаюць. Прыкметы, што можа быць занадта проста: сумаванне або словы, што гэта дзіцячае. Калі так, паважайце гэта і пераключыцеся на нешта, што выглядае дарослым, напрыклад, пошук слоў, пазл з рэальнай фатаграфіі або размову пра карцінку з іх былой працы.
 
-## How do I turn a game into a conversation?
+## Як ператварыць гульню ў размову?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Выкарыстоўвайце кожную карцінку як запрашэнне да размовы і ставцеся да ўсяго, што яны скажуць, як да добрага адказу. Для многіх сем'яў гэта лепшая частка гульні.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Задавайце адкрытыя пытанні без няправільных адказаў.** «Што вы заўважаеце?» «Якая вам падабаецца?» «Раскажыце пра кухню, падобную на гэтую.»
+- **Дзеліцеся першымі.** «У маёй бабулі быў такі сабака.» Ваша гісторыя палягчае ім падзяліцца сваёй.
+- **Ідзіце за адступленнем ад тэмы.** Калі карцінка машыны прыводзіць да гісторыі пра падарожжа, гісторыя і ёсць занятак. Гульню спыніце.
+- **Не правяраеце факты.** У рэміністэнцыі прыемная размова важней за дакладныя дэталі. Калі гісторыя змянілася ў параўнанні з мінулым разам, радуйцеся новай версіі.
+- **Выкарыстоўвайце ўбудаваныя падказкі.** [Finish the Saying](/games/finish-the-saying/) дае размоўную падказку пасля кожнай прыказкі, а [Conversation Cards](/games/conversation-cards/) створаны менавіта для гэтага. [Photo Pairs](/games/photo-pairs/) выкарыстоўвае вашы сямейныя фота, якія часта выклікаюць самыя багатыя гісторыі.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Больш ідэй ёсць у нашых дапаможніках па [занятках з успамінамі](/activities/reminiscence/) і [парадах па зносінах](/caregiving/communication-tips/).
 
-## When should we stop?
+## Калі спыняцца?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Спыняйцеся пры першых прыкметах стомленасці або засмучэння, а лепш трохі раней. Alzheimer's Association раіць спыняць або мяняць заняткі, калі ўвага слабне або расце раздражненне.
 
-Watch for:
+Сачыце за:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- пазяханнем, абвісшымі плячамі або позіркам, які блукае ад экрана;
+- круцёжам, устаннем або просьбай пайсці;
+- уздыханнем, кароткімі адказамі або «Я ў гэтым нічога не разумею»;
+- выпадковым націскам або адсоўваннем прылады;
+- слязьмі, раздражненнем або раптоўнай зменай настрою.
 
-How to stop well:
+Як спыняцца правільна:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Скончыце чым-небудзь лёгкім.** Адзін апошні супадзенне, якое яны могуць зрабіць, або апошняя карцінка для любавання.
+- **Скажыце пра сябе.** «Я б вып'ю гарбаты. Спынімся?» не дае ніякага намёку, што яны працавалі дрэнна.
+- **Перайдзіце да фізічнага або заспакаяльнага.** Кароткая прагулка, перакус, складанне бялізны або музыка.
+- **Скажыце нешта цёплае.** «Мне прыемна было гэта рабіць з вамі.» Без пахвалы за «правільна», толькі радасць ад часу разам.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Скончыць раней, змяніць планы або адмовіцца ад гульні і проста пасядзець разам — усё гэта добрыя вынікі.
 
-## Can we play in a group or over a video call?
+## Ці можна гуляць у групе або па відэазванку?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Так, з невялікай дадатковай падрыхтоўкай. У групе трымайце колькасць людзей невялікай, садзіце памочнікаў побач з тымі, каму яны патрэбныя, і выбірайце гульню з яснай агульнай мэтай. [Picture Bingo](/games/picture-bingo/) мае карткі для друку і вядучага на экране для групаў. Больш — у [занятках для групаў у доглядных установах](/activities/care-home-groups/).
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Падчас відэазванка чалавек на званку можа апісваць карцінку, а хтосьці ў пакоі паказвае і націскае. Трымайце званкі кароткімі і знаёмымі. Нашы парады па [тэлефонных і відэазванках](/activities/phone-and-video-calls/) дадаюць больш падказак.
 
-## What if a game just isn't working?
+## Што рабіць, калі гульня проста не падыходзіць?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Бывае, што нічога не спрацоўвае, і гэта не адлюстроўвае ні вас, ні іх. Адкладзіце гульню і паспрабуйце іншы час дня, іншую гульню або без гульні зусім. Многія добрыя заняткі не маюць нічога агульнага з экранамі: музыка, складанне ручнікоў, праглядванне фотаальбома або кароткая прагулка. Больш ідэй — у [ідэях для заняткаў](/activities/ideas/).

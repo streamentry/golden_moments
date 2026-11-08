@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Деменцияның алғы билдәләре һәм табипҡа ҡасан барырға"
+seoTitle: "Деменцияның алғы билдәләре һәм табипҡа ҡасан барырға"
+description: "Деменцияның йыш осраған алғы билдәләре, уларҙың йәшкә бәйле үҙгәрештән айырмалығы, дауаланырлыҡ хәтер сәбәптәре һәм табип ҡабул итеүенә әҙерлек."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Көндәлек тормошҡо комачаулаған хәтер юғалыуы, таныш эштәрҙе башҡарыуҙа ҡыйынлыҡ, ваҡыт йәки урын
+  тураһында шикләнеү, шулай уҡ кәйеф йәки фекерләү үҙгәреше деменцияның алғы билдәләре булырға мөмкин.
+  Башҡа күп шарттар, шул исәптән ҡалҡанһымон бизмә проблемалары, B12 витамины етmәүе, дарыу яндашыуҙары,
+  депрессия һәм йоҡо проблемалары ла шундай үҙгәрештәр килтерергә мөмкин. Диагнозды тик квалификацияға
+  эйә табип ҡуя ала. Кинәт аңҡыу килһә, шұғыл медицина ярҙамы кәрәк.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Йәш менән бергә ваҡытташ онотоу йыш осрай; көндәлек тормошҡо комачаулаған үҙгәрештәрҙе тикшерергә кәрәк."
+  - "Alzheimer's Association 10 ҡурҡыныс билдәне һүрәтләй, һәр береһе янында йәшкә бәйле typical үҙгәреш күрһәтелгән."
+  - "Ҡалҡанһымон бизмә проблемалары, B12 витаминының етмәүе, дарыу яндашыуҙары, депрессия, инфекциялар һәм йоҡо проблемалары хәтергә йоғонто яһай ала, улар араһында дауаланырлыҡтары ла бар."
+  - "Деменцияны тик квалификацияға эйә табип ҡуя ала; онлайн тест һәм үҙ-үҙеңде тикшереү быны ҡуя алмай."
+  - "Сәғәттәр йәки көндәр эсендә кинәт барлыҡҡа килгән аңҡыу делирий булырға мөмкин һәм шұғыл медицина ярҙамын талап итә."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Онотоусанлыҡ картайыуҙың тәбиғи өлөшөме?"
+    a: "Бер аҙ шулай. National Institute on Aging әйтеүенсә, ара-тирә нәмәне юғалтыу йәки счетты онотоу, ғәҙәттә, еңел, йәшкә бәйле онотоусанлыҡ. Деменция картайыуҙың тәбиғи өлөшө түгел. Машина йөрөтөү, телефон ҡулланыу йәки өйгә юлды табыу кеүек көндәлек эштәрҙе ҡыйынлаштырған хәтер проблемалары табип менән тикшерелергә тейеш."
+  - q: "Хәтер проблемаларын деменциянан башҡа нәмә лә сәбәпсе булырға мөмкинме?"
+    a: "Эйе. National Institute on Aging ҡалҡанһымон бизмә, бөйөр йәки бауыр проблемалары, дарыу яндашыуҙары, депрессия һәм борсолоу, B12 витаминының етмәүе, алкоголдән артыҡ файҙаланыу, йоҡо проблемалары, инфекциялар һәм баш миһы эҙемтәләре кеүек сәбәптәрҙе һанай. Улар араһынан ҡайһылары дауаланғас яҡшыра, шуға күрә медицина тикшереүе мөһим."
+  - q: "Кемдеңдер деменцияһын өйҙә тикшерергә мөмкинме?"
+    a: "Юҡ. Деменцияны тик квалификацияға эйә табип ҡуя ала: ул медицина тарихын, физик тикшереүҙе, хәтер һәм фекерләү тестарын, лаборатория анализдарын һәм кәрәк саҡта мейе һүрәтен ҡарай. Табиптар ҡулланған ҡыҫҡа тестар ҙа үҙ аллы ғына деменцияны асыҡлау өсөн етерлек түгел."
+  - q: "Кемдер кинәт аңҡыһа, нимә эшләргә?"
+    a: "Шұғыл медицина ярҙамы һорағыҙ. Кинәт аңҡыу делирий булырға мөмкин, уны National Health Service-тың ҡаршылыҡһыҙ мөрәжәғәт кеүек ҡарау дөрөс түгел, ә VA уны медицина шәрәйләнеше тип һанай. Шунда уҡ кешенең һаулыҡ һаҡлау хеҙмәткәренә шылтыратығыҙ йәки 112 номерына шылтыратығыҙ, янында булығыҙ һәм ҡабул иткән дарыуҙарын яҙып ҡуйығыҙ."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Үҙегеҙҙең йәки яратҡан кешегеҙҙең хәтеренән үҙгәреш күреү курҡыныс булырға мөмкин. Был бит табипҡа ҡасан барырға кәрәклеген асыҡларға һәм әҙерләнергә ярҙам итә ала. Ул кемдәлер деменция бар-юҡлығын әйтә алмай. **Деменцияны тик квалификацияға эйә табип ҡуя ала**, һәм хәтер проблемаһына килтергән күп шарттар һис тә деменция түгел. Зинһар, онлайн тесттарға йәки үҙ-үҙеңде тикшереүгә таянмағыҙ.
 
-## What are the early signs of dementia?
+## Деменцияның алғы билдәләре нимәләр?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) 10 алғы билдәне һүрәтләй. Һәр береһен сағыштырыу өсөн йәшкә бәйле typical үҙгәреш менән бергә килтерә. Беҙ был мәғлүмәтте үҙебеҙ һүҙҙәре менән бирәбеҙ:
 
-| Sign worth checking | More typical with age |
+| Тикшерергә лайыҡ билдә | Йәш менән йыш осрай |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Көндәлек тормошҡо комачаулаған хәтер юғалыуы, мәҫәлән, яҡынғы ваҡиғаларҙы онотоу йәки бер үк нәмәне ҡабат-ҡабат һорау | Исемде йәки осрашыуҙы онотоу, әммә һуңыраҡ иҫкә төшөрөү |
+| Пландаштырыуҙа йәки мәсьәләне сисеүҙә ҡыйынлыҡ, мәҫәлән, таныш ашарҙы әҙерләүҙе йәки счеттарҙы иҫәпләүҙе онотоу | Хужалыҡ счеттарында ара-тирә хата җибәреү |
+| Өйҙә, эшендә йәки сығып китеп таныш эштәрҙе тамамлауҙа ҡыйынлыҡ | Микротолҡынлы мейестең көйләүен йәки телевизор программаһын яҙырға ҡулланыу өсөн ярҙам кәрәк булыуы |
+| Ваҡытты, айҙарҙы йәки үҙегеҙҙең урыныгеҙҙы онотоу | Аҙнаның көнөн хаталы әйтеү, һуңынан үҙе асыҡлау |
+| Ераҡлыҡты баһалауҙа, уҡыуҙа йәки төҫтәрҙе айырыуҙа яңы ҡыйынлыҡ | Катаракта арҡаһында күреү үҙгәреше |
+| Һүҙҙәрҙә яңы проблемалар, мәҫәлән, һөйләшеү осонда туҡтау йәки нәмәне дөрөҫ булмаған исем менән атау | Ара-тирә дөрөҫ һүҙҙе табыуҙа ҡыйналыу |
+| Нәмәләрҙе ғәҙәттән тыш урында ҡуйыу һәм үҙ эҙҙәрен яңынан табыу мөмкинлеге булмауы | Ара-тирә нәмәне юғалтыу, әммә эҙҙәрҙе ҡайтарып табыу |
+| Насар хөкөм, мәҫәлән, аҡса менән эшләгәндә йәки шәхси сафлыҡ тураһында | Ара-тирә насар ҡарар ҡабул итеү |
+| Хобби, эш йәки йәмғиәт сараларынан ситләшеү | Ғаиләләге йәки йәмғиәт саралайында ҡатнашырға теләмәү ара-тирә |
+| Кәйеф йәки шәхестә үҙгәреш, мәҫәлән, аңҡыу, шиклеләнеү, ҡурҡыу йәки борсолоу | Ғәҙәттәге тәртипкә күнеккән булыу һәм режим боҙолғанда асыуланыу |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Бер генә билдә деменцияны аңлатмай. Мөһиме — ул кеше өсөн **ғәҙәттәгенән үҙгәреш**, айырыуса ул көндәлек тормошто ҡыйыныраҡ иткәндә.
 
-## How is normal aging different from dementia?
+## Тәбиғи картайыу деменциянан нимә менән айырыла?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) әйтеүенсә, күп өлкән кешеләр мәғлүмәтте әкрен иҫкә төшөрәләрен, ара-тирә нәмәне юғалтыуын йәки счетты онотоуын күрә. Был, ғәҙәттә, еңел онотоусанлыҡтың билдәһе. **Деменция картайыуҙың тәбиғи өлөшө түгел.** Ауыр хәтер проблемалары көндәлек эштәрҙе ҡыйынлаштыра, мәҫәлән, машина йөрөтөү, телефон ҡулланыу йәки өйгә юлды табыу.
 
-The NIA suggests talking with a doctor if someone:
+NIA кемдер булһа, табип менән һөйләшергә кәңәш итә:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Бер үк һорауҙы ҡабат-ҡабат бирә
+- Элек яҡшы белгән урындарҙа юлдан яңыла
+- Ашарҙы әҙерләүҙе йәки юлды аңлауҙа ҡыйналыуы
+- Ваҡыт, кешеләр һәм урындар тураһында шикләнеүе арта
+- Үҙенә ҡарауҙы туҡтата, мәҫәлән, нығыраҡ ашамай, йыуынмай йәки хәүефле эш ҡыла
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Ҡайһы бер кешеләрҙә **еңел когнитив ҡыйынлыҡ (MCI)** була. Был — үҙ йәшендәгеләрҙән күберәк хәтер йәки фекерләү проблемаһы, әммә кеше һаман көндәлек тормошто алып бара. NIA әйтеүенсә, MCI Alzheimer-дың алғы билдәһе булырға мөмкин, әммә MCI булған һәр кешеҙә ул барлыҡҡа килмәй.
 
-## What else can cause memory problems?
+## Хәтер проблемаларын нимә тағы ла килтерә ала?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Деменциянан тыш күп нәмә хәтергә йоғонто яһай ала, ә ҡайһыһы дауалау менән яҡшыра. NIA түбәндәгеләрҙе һанай:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Ҡалҡанһымон бизмә, бөйөр йәки бауыр проблемалары**
+- **Дарыу яндашыуҙары**
+- **Депрессия һәм борсолоу**
+- **B12 витаминының етмәүе** йәки һаулыҡлы аш аҙ ашау
+- **Йоҡо проблемалары**
+- **Алкоголде йәки наркотикты дөрөҫ булмаған файҙаланыу**
+- **Инфекциялар, ҡан һыҙылыуҙары йәки мейегә шеш**
+- **Баш миһына бәреү**, мәҫәлән, сотрясение
+- **Ҡаты стресс йәки ҡайғы**, мәҫәлән, пенсияға сығыу йәки парыңды юғалтыу
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Ишетеү һәм күреү проблемалары ла аңҡыу булып аңлашыла ала; беҙҙең [ишетеү буйынса күрһәтмәгә](/brain-health/hearing/) ҡарағыҙ. Шуға күрә медицина тикшереүе мөһим. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) әйтеүенсә, табиптар ҡанды тикшереүгә ҡушып, ҡалҡанһымон бизмә проблемаларын, витамин етмәүен һәм инфекцияны ҡарай. [Йоҡо](/brain-health/sleep/) һәм депрессияны дауалау тураһында ла һөйләшергә көнөнә.
 
-## Sudden confusion is an emergency
+## Кинәт аңҡыу — авария хәле
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Сәғәттәр йәки көндәр эсендә тиҙ барлыҡҡа килгән аңҡыу шұғыл медицина ярҙамын талап итә.** Был делирий булырға мөмкин. [VA делирийҙы](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) медицина авариһы тип атай һәм кешенең һаулыҡ һаҡлау хеҙмәткәренә шунда уҡ шылтыратырға йәки 112 номерына шылтыратырға кәңәш итә. Билдәләре:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Аң-нәфис фекерләү һәләтендә үҙгәреүсән хәл
+- Иғтибарҙы тупларға ҡыйынлыҡ
+- Фекерҙең тәртипһеҙлеге
+- Ғәҙәттән тыш йоҡлау йәки ғәҙәттән тыш тын алмау, борсолоу
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Был теләһә кемдә, шул иҫәптән деменция менән йәшәгән кешеләрҙә лә булырға мөмкин. [NHS](https://www.nhs.uk/symptoms/confusion/) мәғлүмәтенсә, йыш сәбәптәр араһында инфекциялар (өлкәндәрҙә сидек юлдары инфекциялары йыш осрай), инсульт, сәхрә шәкәре түбән булыу (шәкәр диабеты булғанда), баш миһына бәреү һәм ҡайһы бер дарыулар бар. Ярҙам килгәнсе, кеше янында булығыҙ һәм ҡыҫҡа, ябай һүҙҙәр менән тынысландырығыҙ. Күп һорау бирмәгеҙ, ә ҡабул иткән дарыуҙарын яҙып ҡуйығыҙ.
 
-## How do I prepare for the doctor's appointment?
+## Табип ҡабул итеүенә нисек әҙерләнергә?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Яҡшы ҡабул итеү яҡшы яҙмаларҙан башлана. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) түбәндәгеләрҙе алып барырға кәңәш итә:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Хәтерҙәге, кәйеф һәм тәртиптәге үҙгәрештәр исемлеге**, конкрет миҫалдар һәм ҡасан башланыуы тураһында яҙмалар менән
+2. **Элек һәм хәҙер булған һаулыҡ проблемалары**, шул иҫәптән ғаиләлә хәтер проблемалары булыуы
+3. **Бөтә рецепт буйынса һәм рецептһыҙ дарыуҙар**
+4. **Бөтә витаминдар йәки өҫтәмәләр**
+5. **Һеҙҙең һорауҙарығыҙ**, мәҫәлән, нинди тикшереүҙәр үтәсәк, улар нисә көн алыр һәм һөҙөмтәләр ҡасан әҙер булыр
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Кешене яҡшы белгән ғаилә әғзаһын йәки дустын ергә алыу ҙа файҙалы. [NIA аңлатыуынса](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), табиптар кешенән дә, ғаилә әғзаһынан да һаулыҡ, дарыулар, көндәлек эштәр һәм тәртиптәге үҙгәрештәр тураһында һорай ала. Табиптар шулай уҡ:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Хәтер, мәсьәлә сисеү, иғтибар, һанау һәм телмәр тестарын үткәрә ала
+- Башҡа сәбәптәрҙе табыу өсөн ҡан, сидек һәм башҡа анализдарҙы буйыртырға мөмкин
+- Депрессияны йәки башҡа психик һаулыҡ шарттарын тикшерә ала
+- CT йәки MRI кеүек мейе һүрәттәрен буйыртыу мөмкин
+- Гериатр, невролог, геронтопсихиатр йәки нейропсихолог кеүек белгесгә ебәрә ала
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA әйтеүенсә, когнитив баһалау йыллыҡ профилактик тикшереүҙең (Annual Wellness Visit) кәрәкле өлөшө, шуға ла ул борсоуҙы күтәреү өсөн уңай ваҡыт була ала. Табиптар ҡулланған ҡыҫҡа тестар ҙа үҙ аллы ғына деменцияны асыҡлау өсөн етерлек түгел. Улар тулыраҡ баһалауға тәүге аҙым, ә диагноз бер ҡабул итеүҙән күберәк ваҡыт алырға мөмкин. NIA хәтер проблемалары булған кешеләрҙе һәр 6–12 айҙа табипҡа ҡайтырға кәңәш итә.
 
-## Raising the subject kindly
+## Был темаһын игелек менән күтәреү
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Башҡа кеше тураһында борсолһағыҙ, тыныс, шәхси мәл һайлағыҙ. Конкрет күргән нәмәләр тураһында һөйләшегеҙ, был ғәйепләү түгел, ә уның һаулығы өсөн борсолоу тип әйтегеҙ. Гомуми профилактик тикшереүгә барырға тәҡдим итеү ҡурҡыныс булмаған итеп ҡабул ителергә мөмкин. Кешене ҡарарҙарға ҡушығыҙ һәм уға тап үҙ тормошон алып барған өлкән кеше булараҡ мөрәжәғәт итегеҙ. Беҙҙең [аралашыу кәңәштәре](/caregiving/communication-tips/) ярҙам итергә мөмкин.
 
-## Talk with a doctor
+## Табип менән һөйләшегеҙ
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Хәтердә, фекерләүҙә, кәйеттә йә көндәлек һәләттәрҙә яңы һәм дауам иткән үҙгәрештәр күрһәгеҙ, беренсел медицина табибына яҙылығыҙ. Кинәт аңҡыу булһа, шунда уҡ 112 номерына йәки кешенең һаулыҡ һаҡлау хеҙмәткәренә шылтыратығыҙ. Иртә тикшерелгәндә дауаланырлыҡ сәбәптәр табылырға мөмкин, ә деменция булһа, plánлаштырырға һәм ярҙам табырға ваҡыт күберәк була. Был осорҙа үҙегеҙгә лә иғтибар бүләгеҙ; беҙҙең [ҡарағансы үҙ-үҙеңде ҡарау буйынса күрһәтмә](/caregiving/caregiver-self-care/) менән танышығыҙ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Был бит гомуми мәғлүмат, медицина кәңәше түгел. [Медицина иҫкәртеүен](/medical-disclaimer/) ҡарағыҙ.

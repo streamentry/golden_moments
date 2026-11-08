@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Demencia uñtat jaqinakatakix arte ukat manualidades"
+seoTitle: "Demenciatakix arte: jaqinakjam, wawanakjam jan"
+description: "Demencia uñtat jaqinakatakix jaqinakjam arte ideanaka: akuarela, collage, flores, arcilla ukat tarjetanaka. Ukanakan lurañ, mayjt'ayañ ukat lurañat sipansa thakhi amtañ."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Demencia uñtat jaqinakatakix sumaja arte ukat manualidades jaqinakjam
+  sarnaqañapa ukat jaqinakjam uñjasiñapa: akuarela, revistanakat collage,
+  flores ch'uqiña, arcilla, sasa tarjeta lurañ ukat jaqinakjam colorear.
+  Qillqa sapa ch'iqhi materialanaka churañamawa, yanapt'añamawa qalltañan,
+  lurañan parlañamawa ukat uka pacha chikaru kuna sum lurañ sapakiñapawa.
+  Lurat lurañ jan wali sañax jani.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Jaqinakjam uñjat materialanaka ukat tuqinakjam ajllimi, sañ akuarela qillqa, revistanakan uñtat jaqinaka ukat chuymaxat flores, jan glitter, jan sticker ni dibujo wawanakan uñtat."
+  - "Lurañ thakhi amtañamawa: colores, arcillan q'ipi, parlañ. Lurat lurañax jan wali, yanapawa, jan amtañapäkiti."
+  - "Kunatakis lurañ utji sapa uka pacha, sañ tarjeta ch'iqi wawanakatakix jan ukax mesa ch'iqi churañatakix."
+  - "Qalltañan yanapt'am, ukat jikxatañamawa. Akuarela ch'iqi jikxat yanapt'añax wali sum."
+  - "Lurañanakax jani mayni pachana tukuyañapäkiti, ukat qhipt'añax kunapachas munaski jan sum sañax jani."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "¿Kunjams arte lurañanakax wawanakjam jan uñtatäñapataki?"
+    a: "Chiqpach arte materialanaka ocupa, jaqinakjam uñtat tuqinaka ukat chuymaxat parlañ. Glitter ukat dibujo wawanakan uñtat jan ocupañamawa; akuarela qillqa, panu, flores, revista uñtat ukat detallado colorear uñtat lurañamawa. Wawanakan lurañapat jan alabañamawa; jaqi masimpi parlañjam parlañamawa."
+  - q: "¿Kuna arte lurañanakas tukuyat qhiparunakan walikipuniwa?"
+    a: "Sasa, sentidonakar yanapt'ir lurañanakawa wali sum: brocha anchu ocupaña, arcilla ch'usuña, pä flores florero ukan churaña, jan ukax panu ch'iqinaka ch'uqiña. Jikxat sarnaqañat yanapt'añamawa. Lurat uñjañam ukat colores parlañamawa, ukax luräwipaw."
+  - q: "¿Kunas jupanakax sasa janiw lurañ puedkiti?"
+    a: "Jan kuna ch'axwañ utjkiti sasaw uñtayañama. Janiw kuna chiqapa uñtañjam lurañanakax utjkiti, sañ akuarela, collage ukat flores churañ sarnaqañamawa. Mä yanapt'a mayipxitaw sañ colores ajllañan, ukat lurañax favor uñtataw, jan examen."
+  - q: "¿Colorear uñtat jaqinakatakix wawanakjam janiti?"
+    a: "Janiw, jaqinakatakix lurat ukhapachaxa. Jaqinakjam uñtat tuqinaka ajllimi, sañ quchanaka, autonakaxa, uraqinaka jan ukax jardinanaka, ukat chuymaxat sarnaqañatakix uñtañamawa, jan yatichäwit sarnaqañatakix. Nuestras páginas para colorear jan ukax tableta patxanxa colorear ukat imprimir ukat."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Arte ukat manualidades jaqinakar demencia uñtat jaqinakar amuyunakap sañ sarnaqañ, arsutanakan jan jaytañapkiti. Alzheimer's Association sarakiwa: lurañanakax [logro ukat amtanakaru](https://www.alz.org/help-support/caregiving/daily-care/art-music) yanapt'apxi, ukat chuymanakap qhanañ utjarakiwa, demencia uñtat jaqitakix ukhamarak uk yanapt'iri jaqitakix. Sum sañax, jaqinakjam, sasa ukat jan ch'axwañ lurañanakaw utjañapa. Akhamawa uka qillqa: lurañ sasa lurañanakaw uñacharakiwa, kunjamas yanapt'añapa ukat kunjams mayjt'ayañapa uka pachanakan.
 
-## What makes an art activity adult and not childish?
+## ¿Kunsa arte lurañax jaqinakjam uñjata ukat wawanakjam janiw?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Jaqinakjam arte lurañax chiqpach materialanakampi, jaqinakjam tuqinakampi ukat sum parlañampi lurasi. Alzheimer's Association yatichi jaqinakjam lurañanak lurañatakix ukat kuna wawanakjam uñjat sasa lurañanak jarkañatakix.
 
-| Feels childish | Feels adult |
+| Wawanakjam uñjasi | Jaqinakjam uñjasi |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Glitter, espuma sticker, ojos de juguete | Akuarela panu, panu, flores ch'uqi |
+| Dibujo wawanakan colorear | Jardinanaka, quilt, autonaka jan ukax uraqinaka colorear |
+| "Sum lurawayi" sañ alabaña mä ch'iqi lurat | Chiqpach parlañ: "Ukax sum ch'iyara ukax qala ch'iyaranakampi" |
+| Mä lurañ janiw kunatakis utjkiti | Mä tarjeta amigorux, mesa ch'iqi, mä regalo |
+| Yatichawinakax mä clase uñtasi | Mä mayni: "¿Yanapt'ama uka lurañ?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Jaqin kuna munañapa amtañamawa. Costura munirir jaqix panu ch'uqiñ munaspawa. Ingeniero jupax piezanaka jak'a kit ukat hardware ch'iqi lurañ munaspawa. Yatichirix tarjetanaka lurañ munaspawa.
 
-## Why focus on the process, not the product?
+## ¿Kunatsa lurat lurañ sipansa, lurañ thakhi amtaña?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Sasa, pacha chikaw jiwasan lurasiñax wali sum. Alzheimer's Association sarakiwa [wasitat lurañanakan](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) lurañ thakhi amtañapa, janiw lurat lurañ. Mä akuarela "sapa azul" sañapax akuarela jupax. Kimsa chiqa collage jupax collage.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Asoción sarakiwa, mä chiqa pintor jaqix uñtatanakap mayjt'añapatakix ch'axwasiñapa, mä jani yatiri jaqix mayt'a thakhi amtañapawa. Mä chiqa artista uñtasi jaqi ukhapachaxa, mayni medio uñtañapa, mä comparación uñtat sipansa juego uñtat.
 
-## Arts and crafts ideas to try
+## Arte lurañanaka sarnaqañatakix
 
-Each idea includes how to make it simpler if it becomes hard.
+Sapa ideax jan wali ukax kunjams sayt'añapa uka qillqa.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Akuarela ch'iyara.** Mä panu akuarela pesado ch'uqiña, jaqi brocha anchu ukampi colores churañapa. Colores uñt'añapa, janiw jan wali lurañ. *Ukhapachaxa:* kimsa colores churaña, jan ukax panu ch'iyar ukan agua ukampi lurañ.
+2. **Revista collage.** Revistanakat imágenes jaytapkama ajlli: jardinería, cocina, autos, viajes jan ukax jaqin sapa uñt'at ch'iqinaka. Jaqi ajllpxapxañapa ukat cartulina ukan churañapa. *Ukhapachaxa:* pusi imagen ukat goma, jupanakampi ch'uxñataw.
+3. **Flores florero.** Alzheimer's Foundation of America sarakiwa [flores ukat ch'uqi ch'uqinaka](https://alzfdn.org/dementia-activity-gardening/) pacha chikaru ch'uqiña. Mä pesado, sayt'asi florero ukat tallo ch'uqi ukanakampi. *Ukhapachaxa:* mä jisk'a jarra ukan mä tallo mä mä churaña.
+4. **Flores prensadas tarjetanaka.** Flores ramo ukat libro qillqanakan mä uru jaytañapa, ukat cartulina doblada ukan goma ukampi churaña. *Ukhapachaxa:* nayax gomaw churaña, jupax flor ch'uqi.
+5. **Colorear uñtat tuqinaka jaqinakatakix.** Uñtat tuqinaka qhanani ukat chiqa tuqinakampi ajllimi. Nuestras [páginas para colorear](/games/coloring/) pantalla patxan colorear ukat imprimir ukat. *Ukhapachaxa:* jisk'a jisk'a sectoranaka, jisk'a colores, marcador anchu.
+6. **Arcilla jan ukax masa blanda.** Arcilla ch'uqi, ch'uqi ukat lurañ. Mä laphi arcilla ukan mä huyu ch'uqiña, mä jisk'a tejamuncha lurañ. *Ukhapachaxa:* sapa ch'uqiña ukat ch'uqiña wali. Jaqix arcilla ukanakax jan uñjasiñapa ukat jan manq'añapawa.
+7. **Tarjeta lurañ.** Alzheimer's Association sarakiwa chiqpach lurañar uñtañamawa: "Mä amigorux tarjeta sartanaka, ¿yanapt'ama?" Cartulina ch'uqi ukat flores sticker jan ukax sellos wali sum.
+8. **Álbum de recuerdos.** Wasitat fotonaka, postal ukat boleto qillqanaka álbum ukan churaña. Sapa mä ukat parlañamawa. Nuestra [guía de recuerdos](/activities/reminiscence/) uñt'aña, jaya uruw parlañ.
+9. **Panu ukat textura tablero.** Corduroy, terciopelo, arpillera ukat seda panunaka cartón qhuru ukan churaña. Lurañax lurañawa; ukat ch'uqiñax mayni lurañawa. Mayni ideanaka [guía sensorial](/activities/sensory/) ukan.
+10. **Madera lurañ sencillo.** Madera lurat jaqitakix, woodworking munat jaqitakix, mä madera ch'uqi ch'uqiña jan ukax birdhouse kit pintar. Herramientanaka jan ch'axwañapataki ukat uñjañamawa.
+11. **Música ukat pintura.** Mä munat disco uñt'añamawa, ukat jaqinakjam colores jan ukax figuras lurañamawa. Mä chiqa ukat mä musical ukat. [Actividades de música](/activities/music/) uñt'aña.
 
-## How do I set up an art session?
+## ¿Kunsa arte sesión lurañ?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Naya qalltañamawa.** Kuna materialanakas ch'uqi, ch'ampi churañamawa, jaqi jutañ sapa. Tijera jikxat sarnaqañax pacha ch'alla.
+2. **Jisk'a ch'uqi.** Kimsa jan ukax paya colores, mä brocha, mä panu paya. Askinaka ajlliñax jaqi jan walik.
+3. **Mesa ch'iqi.** Plástico jan ukax sábana tuqinaka mesa patxan churañamawa, ukat ch'axwañ jan utjañapataki.
+4. **Mayt'ata chiqan sarnaqaña.** Nayan lurat lurañ jaqi chiqan. Yanapt'añ pampachañ, ukat chiqpachaw sarnaqañ.
+5. **Qalltañ yanapt'aña.** Alzheimer's Association sarakiwa brocha jaqi masimpi qalltañapa. Qalltasiñ, walja jaqinakax sarnaqapxi.
+6. **Lurasa parlañ.** Colores ukat textura parlañ, jan ukax arte parlañapa. Preguntanaka jan ukax quiz tuqinaka, sañ "¿Kunalaykutï?" jan sañamawa.
+7. **Pacha walja churañamawa.** Lurañax mä pacha ukan tukuyañapa jan wali.
 
-## How do I adapt art as dementia changes?
+## ¿Kunjams arte mayjt'añ demencia mayjt'asiñapata?
 
-| Stage | What tends to work | What to adjust |
+| Etapa | Kunsa wali sarnaqaña | Kunsa mayjt'añ |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Qalltañ | Clase, colorear detallado, álbum, tarjetanaka, foto ukat pintura | Ajllita lurañanaka churañ; jaqin ch'uqi ukat jaqinakjam |
+| Taypi | Collage precortado, akuarela ch'iyara, flores ch'uqi, colorear anchu sectoranaka | Mä mä lurañ; cortar ukat goma nayan |
+| Qhipa | Brocha anchu ukhamaxa, arcilla ch'usuña, panu ch'uqiña, uñjat lurat | Sentidonakar yanapt'añ; ch'iqi yanapt'añ, jaqi munat ukhamaxa |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS sarakiwa qhipa etapanakan lurañanakax jisk'achasi ukat sentidonakar yanapt'ayi. Mayni jaqi pintasi uñjañax, colores parlañax, mä chiqpach sarnaqañawa. Mayni etapa ideanakax [actividades para cada etapa](/activities/ideas/) ukan.
 
-## Safety with art supplies
+## Arte suministrosan jan ch'axwañapa
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Jan toxico pintura, marcador ukat goma ajllimi.
+- Tijera, cuchilla ukat pistola de calor jan manq'añapataki qhipaxa uñjañamawa. Cortar nayan sapa.
+- Arcilla, pintura jan ukax jisk'a lurañanakax jan ch'uqiña uñjañamawa.
+- Agua ukat florero pesado ukat sayt'asi churañamawa.
 
-## When should we stop?
+## ¿Kuna pachan tukuyañax?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Atención jaytañ jan ukax ch'axwañ uñt'at tukuyañamawa. Alzheimer's Association sarakiwa lurañ tukuyañ ukat mayjt'ayañ atención jaytasi jan ukax ch'axwañ walt'asi. Lurañ sum uka chiqar churañamawa, ukat wali samarañ mayi. Qhipa uruw kutt'anixa, janiw kutt'anixa. Ambos wali.
 
-## Display the work, if the person wants
+## Lurañ uñt'ayañ, munat ukhamaxa
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Lurañ uñt'ayañ jan ukax collage ukan lurañ mä jaqi qamir uñt'ayañawa. Jaqi munañ jach'a uñtañamawa. Walja jaqinakax uñt'asi, mayninakax janiw munapkiti.
 
-## Pair art with our games
+## Jugalla arte ukat juegonakampi
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Pintura churañ jan munat urunakan, [Colorear](/games/coloring/) tableta patxan jan ch'axwañ lurasi. [Rompecabezas de imágenes](/games/picture-puzzle/) uñt'at ch'iqi jan sayt'asi. [Tarjetas de conversación](/games/conversation-cards/) jaqin uñtat ukat parlañ mayi. Mayni jan tiempo jan puntaje utjkiti. Nuestra colección [actividades imprimibles](/activities/printable/) ukat imprimir ukat.

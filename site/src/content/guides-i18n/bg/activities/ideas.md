@@ -1,34 +1,30 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Дейности за хора с деменция: 101 прости идеи"
+seoTitle: "Идеи за дейности при деменция: 101 прости занимания"
+description: "101 прости дейности за възрастни хора с деменция, от сгъване на кърпи до музика и снимки, с насоки как да ги адаптирате, когато стане по-трудно."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Добрите дейности за хора с деменция са познати, подходящи за възрастни и лесни за споделяне: сгъване на пране, сортиране, готвене, музика, разглеждане на снимки, разходки, градинарство, време с домашен любимец и прости игри. Изберете това, което човекът винаги е обичал, поемете трудните части и спрете, когато се уморят. Приятното време заедно е по-важно от това да довършите нещо.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Започнете от собствения живот на човека: работата, хобитата, вярата и любимата музика са най-добрият ориентир."
+  - "Направете всяка дейност по-малка, когато е нужно: по-малко стъпки, по-малко избори, вие вършите трудната част."
+  - "Гледането, държането на нещо или просто седенето наблизо също се броят като участие."
+  - "Спрете или сменете дейността, когато забележите умора, раздразнение или скука. Ранното прекратяване е добър резултат."
+  - "Заедно е по-важно, отколкото да е направено правилно."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Какви дейности са подходящи за човек с деменция?"
+    a: "Познати дейности, които човекът е вършил години наред, но малко опростени: сгъване на пране, сервиране на масата, готвене, музика, разглеждане на снимки, разходки, градинарство и време с домашен любимец. Избирайте неща, които изглеждат подходящи за възрастни и полезни, и ги правете заедно."
+  - q: "Колко дълго трябва да трае една дейност?"
+    a: "Няма правилна продължителност. Няколко минути сгъване на кърпи може да са достатъчни един ден, а час в градината може да мине леко на друг. Оставете човека сам да определя темпото и да приключва, докато все още е приятно."
+  - q: "Какво да направя, ако човекът откаже да участва в дейност?"
+    a: "Не настоявайте. Отказът може да означава, че задачата изглежда твърде трудна, времето не е подходящо или човекът е уморен или неудобно му е. Опитайте по-късно, предложете по-малка версия или започнете задачата сами наблизо и поканете човека да помогне."
+  - q: "Полезни ли са игрите за ума при хора с деменция?"
+    a: "Игрите могат да бъдат приятен начин да прекарате време заедно, но никоя игра не е доказано да лекува, забавя или спира деменцията. Избирайте игри без таймер, без точки и без звуци при грешен отговор и ги третирайте като споделено занимание, а не като тест."
+  - q: "Как да не звучат дейностите детински?"
+    a: "Използвайте истински материали за възрастни: истински кърпи, истински рецепти, музика и художествени материали за възрастни и снимки с теми, подходящи за възрастни. Представяйте задачите като помощ, от която наистина се нуждаете, и говорете с човека като с възрастния, какъвто е."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +46,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Най-добрата дейност за човек с деменция обикновено е нещо, което вече знае как да прави, леко опростено и правено заедно с някой, на когото има доверие. По-долу са 101 идеи, групирани по вид, всяка с начин на подготовка и с насоки как да я направите по-лесна, когато стане по-трудна. Не са нужни специални пособия и не е нужно да довършвате нищо. Един добър следобед може да е една кошница с кърпи и чаша кафе заедно.
 
-## How do you choose the right activity?
+## Как да изберете подходящата дейност?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Изберете според човека, а не според списъка: започнете с това, което винаги е харесвал, и с това, което може удобно да прави днес.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Мислете за работата и хобитата му.** [Асоциацията на Алцхаймер](https://www.alz.org/help-support/caregiving/daily-care/activities) предлага, че бивш служител в офис може да се радва на сортиране на монети или на подготовка на пощенски пратки, а градинарят може да се радва на работа в двора.
+- **Забелязвайте какво вече прави.** Ако баща ви мете верандата всяка сутрин, без да сте го молили, включете това в деня му.
+- **Планирайте според ограниченията.** Умората, зрението, слухът, болезнените ръце и равновесието имат значение.
+- **Следете настроението.** Шумните, оживени дейности подхождат на едни хора и плашат други.
+- **Дайте й смисъл.** Сгъването на салфетки за църковна вечеря изглежда по-ценно от упражнение, направено заради самото упражнение.
 
-### A rough guide by stage
+### Груби насоки по етап
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Деменцията често се описва с ранен, среден и късен етап. Това са свободни етикети, а не кутии, и мнозина имат по-добри и по-трудни дни, затова се ръководете от това, което виждате днес. [Списъкът по етапи на Алцхаймер фондация на Америка](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) следва подобен модел.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Тема | Ранен етап | Среден етап | Късен етап |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Какво може да забележите | Предимно самостоятелен; планирането, новите имена и оживените места стават по-трудни | Има нужда от помощ при започване и при стъпките; думите идват по-трудно | Има нужда от помощ при повечето ежедневни грижи; сетивата са най-важни |
+| Дейности, които често подхождат | Карти, настолни игри, готвене, градинарство, дневник, излети, клубове | Сгъване на пране, сортиране, прости стъпки при готвене, пеене, фотоалбуми, водени разходки | Любима музика, масаж на ръце, меки неща за държане, четене на глас, седене на открито |
+| Вашата роля | Партньор: попитайте каква подкрепа иска | Подгответе, покажете, поемете трудните части | Донесете дейността при него; вашата компания е самата дейност |
+| Още идеи | [Ранен етап](/activities/early-stage/) | [Среден етап](/activities/middle-stage/) | [Късен етап](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Как да започнете дейност с човек с деменция?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Започнете бавно, заедно с човека, и улеснете отговора „да“. Мнозина още искат да участват, но им е трудно да планират или да започнат.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Изберете най-доброто му време,** често сутринта.
+2. **Подгответе всичко предварително,** за да можете да започнете веднага.
+3. **Помолете за помощ, а не за изпълнение:** „Може ли да ми помогнете с тези?“
+4. **Започнете сами.** Сгънете първата кърпа и оставете човека да се включи. Показването работи по-добре от обясняването.
+5. **Предлагайте по една стъпка наведнъж.**
+6. **Поемете най-трудната част.** Асоциацията на Алцхаймер предлага сами да отмерите продуктите, а после да дадете лъжицата за разбъркване.
+7. **Оставете го да го направи по своему.** Кърпите, сгънати по различен начин, са наред.
+8. **Спрете, когато престане да е приятно.** Неспокойството, мръщенето или „не мога“ са знак да сменете дейността или да спрете за почивка.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Вижте също [как да играете заедно](/caregiving/how-to-play-together/) и [съвети за общуване](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Ежедневни задачи у дома
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Домакинските задачи са познати и полезни, което ги прави естествено начало. [Националният институт за стареене](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) сред дейностите, които хората може да харесват, изброява миенето на чинии, сервирането на масата, метенето, сортирането на поща и сгъването на пране. Повече в [домакинските задачи](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Сгъвайте топли кърпи.** Изсипете кошницата от сушилнята на масата и сгъвайте една до друга. По-късно изглаждането и подреждането на купчина са също толкова полезни.
+2. **Съчетавайте чорапи.** Започнете с много различни цветове. По-късно сортирането на светли от тъмни е достатъчно.
+3. **Сервирайте масата.** Давайте по един вид предмет наведнъж. Сложете сами едно място като пример.
+4. **Мийте или подсушавайте чинии.** Топла сапунена вода и чинии, които не се чупят. Подсушаването седнал е по-леко за краката.
+5. **Избършете масата.** Дайте влажна кърпа след хранене. Това е истинска работа за неспокойни ръце.
+6. **Сортирайте пощата.** Каталозите и ненужната поща в „за запазване“ и „за рециклиране“. Истинските сметки не давайте.
+7. **Изрязвайте купони.** Ножици с закръглен връх и търговски брошури. По-късно обикалянето на любимите храни също върши работа.
+8. **Сортирайте монети.** Подреждайте дребните в чашки или ги навивайте в опаковки. Пропускайте дребни предмети, ако човекът слага неща в устата си.
+9. **Метете или бършете прах.** Лека метла на верандата или дълга четка за прах, използвана седнал.
+10. **Помогнете при приготвянето на ястие.** Миене на зеленчуци, късане на маруля, бъркане. Вие се грижите за ножовете и за котлона.
+11. **Изпечете семейна рецепта.** Използвайте картичката с рецептата, написана с неговия почерк, ако я имате. По-късно той може да бъде дегустаторът.
+12. **Свършете канцеларска работа.** Сгъвайте писма, пълнете и лепете марки на пликове или запишете заедно списъка за пазаруване.
 
-## Music
+## Музика
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Познатата музика може да достигне до хората, дори когато думите са трудни. [Съветите на Асоциацията на Алцхаймер за музика](https://www.alz.org/help-support/caregiving/daily-care/art-music) препоръчват познати песни, без реклами и с изключен телевизор. Вижте [дейности с музика](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Съставете лична плейлиста.** Музика от юношеството и младостта, от сватбата, от църквата и от културата му.
+14. **Пейте заедно.** Започнете да пеете сами. Тихото тананикане или слушането също се броят.
+15. **Следвайте ритъма.** Пляскайте, потупвайте по коленете или удряйте ръчен барабан. Може да се прави седнал и в късните етапи.
+16. **Танцувайте.** Бавен танц в кухнята или люлеене седнал, като се държите за ръце.
+17. **Пуснете цял албум.** Любима плоча от начало до край, с кафе и без нищо друго на фон.
+18. **Говорете за музиката.** Поканете към разкази, а не към факти: „Разкажи ми за танците, на които ходеше.“
+19. **Гледайте филмиран мюзикъл или концерт.** Шоу, което е обичал, прави хубава вечер. Спирайте когато пожелаете.
+20. **Посвирете на познат инструмент.** Бивш пианист може да се радва на прости пиеси; по-късно – на няколко ноти заедно.
+21. **Слушайте жива музика.** Кратък общностен концерт или репетиция на хор. Седнете близо до изхода.
 
-## Reminiscence: photos, objects and stories
+## Спомени: снимки, предмети и разкази
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Преживейте миналото заедно, без да го изпитвате. Пропускайте „Помниш ли...?“ и „Кой е този?“ и вместо това поканете с отворени въпроси. Вижте [дейности за спомени](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Разгледайте фотоалбум.** Казвайте какво виждате: „Каква рокля. Разкажи ми за този ден.“ Съгласявайте се с имената, които използва.
+23. **Направете кутия със спомени.** Кутия за обувки с неща от живота му, като служебна карта или картичка с рецепта. Вадете по един предмет.
+24. **Започнете книга за живота му.** Няколко снимки на страница с едри надписи. Помага на новите помощници да опознаят човека.
+25. **Използвайте картички за разговор.** [Картичките за разговор](/games/conversation-cards/) свързват картина с отворен въпрос.
+26. **Направете семейна игра със снимки.** [Двойки снимки](/games/photo-pairs/) превръща вашите снимки в игра за съпоставяне.
+27. **Гледайте домашни филми или стари предавания.** Коментирайте заедно, вместо да задавате въпроси.
+28. **Пипайте предмети от работата му.** Ключ, стетоскоп, счетоводна книга. Ръцете често водят разказа.
+29. **Сгответе ястие от детството.** Може да бърка, да опитва или просто да седи в кухнята с вас.
+30. **Разгледайте карта на местата, където е живял.** Проследявайте познати пътища в голям атлас, докато говорите.
 
-## Creative activities
+## Творчески дейности
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Изкуството е в правенето, а не в готовото произведение. Пазете материалите подходящи за възрастни и безопасни. Вижте [изкуство и занаяти](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Рисувайте с акварел.** Дебела хартия, няколко цвята. Ако започването е трудно, водете първите щрихи заедно.
+32. **Оцветявайте шарки за възрастни.** Цветя или орнаменти, а не анимационни герои. Нашите [страници за оцветяване](/games/coloring/) работят на екрана или печатно.
+33. **Направете колаж.** Откъсвайте картинки от списания – градини, коли или храна – и ги залепете. По-късно самото избиране на картинки е достатъчно.
+34. **Подредете цветя.** Букет от магазина и ваза. По-късно няколко стръка в буркан.
+35. **Плетете или връзвайте на една кука заедно.** Прости редове на големи игли. По-късно навиване на прежда на кълбета.
+36. **Правете картички за семейството.** Печатайте, подписвайте или украсявайте картички за рождени дни и за оздравяване за истински хора.
+37. **Оформяйте глина, която съхне на въздух.** Натиснете малка купичка. Използвайте нетоксични материали и останете наблизо.
+38. **Шлайфайте и боядисвайте дърво.** Предварително изрязан комплект за птича къщичка и шкурка, без електроинструменти. Вижте [дейности за мъже](/activities/for-men/).
+39. **Напишете или продиктувайте писмо.** На внук или стар приятел. Ако писането е трудно, той говори, а вие пишете.
 
-## Outdoors and gardening
+## На открито и градинарство
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Свежият въздух и дневната светлина са добра компания. Вижте [дейности на открито и в градината](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Поливайте растения.** Малка кана и няколко саксии. Ежедневното поливане дава на деня ритъм.
+41. **Засадете саксия.** Сложете я на масата, за да не се налага никой да коленичи. Разсадът е по-лесен от семената.
+42. **Плевете или премахвайте увехналите цветове.** Ръкавици и по една малка леха наведнъж.
+43. **Гребете листа.** Една малка площ. По-късно държането на отворена торба е истинска работа.
+44. **Минете по познат маршрут.** Около блока или до пощенската кутия. По-краткото е наред.
+45. **Седнете заедно навън.** Стол на верандата в мил ден. Гледайте облаците или минувачите.
+46. **Хранете птиците.** Напълнете хранилка заедно и наблюдавайте от прозореца.
+47. **Измийте колата.** Кофа, гъба, топъл следобед. Изплакването на джантите е добра работа с една стъпка.
 
-## Sensory activities
+## Сетивни дейности
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Докосването, миризмата, вкусът, звукът и зрението стават по-важни с напредването на деменцията. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) споменава музика, предмети за пипане и масаж на ръце за по-късните етапи. Първо проверете за алергии и рискове от задавяне; вижте [сетивни дейности](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Направете масаж на ръце.** Първо попитайте и използвайте малко крем. Изберете без аромат, ако не сте сигурни за кожата или за алергии.
+49. **Опипвайте платове.** Кошница с кадифе, рипсено кадифе, вълна и сатен за галене и сгъване.
+50. **Помирисайте билки и кафе.** Разтрийте между пръстите си прясна мента или розмарин. Пропускайте силните аромати при проблеми с дишането.
+51. **Сресвайте косата му.** Бавно и нежно, ако това му харесва.
+52. **Споделете топла кърпа.** За ръце и лице в студен ден. Първо проверете температурата.
+53. **Разгледайте престилка с дейности.** Големи копчета и цип, пришити здраво. Проверете дали нищо не може да се откачи.
+54. **Опитайте любимо лакомство.** Малка лъжичка в текстура, която може безопасно да яде.
+55. **Пуснете звуците на природата.** Дъжд, вълни или птича песен на тих звук.
+56. **Гледайте нещо бавно.** Аквариум, филм за природата или падащ сняг.
 
-## Games and puzzles
+## Игри и пъзели
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Игрите работят, когато няма таймер, точки или натиск. Ако някоя започне да прилича на тест, приберете я. Вижте [избор на приложения и игри](/caregiving/choosing-apps-and-games/) и [игри за ума](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Съпоставяйте картинки.** [Двойки картинки](/games/picture-pairs/) оставя картинките с лицето нагоре, така че става дума за забелязване, а не за запомняне.
+58. **Намерете същата картинка.** [Намерете същата](/games/find-the-same/) предлага от две до четири възможности. Говорете за всяка картинка.
+59. **Сортирайте в кошници.** [Сортирайте заедно](/games/sort-together/) е като сортиране на чорапи на екрана.
+60. **Сглобете пъзел с големи части.** Картини за възрастни, лек брой части. [Картинен пъзел](/games/picture-puzzle/) показва цялата картина. Повече в [пъзели при деменция](/activities/puzzles/).
+61. **Играйте стара карти игра.** Каквато е играл години. По-късно сортирането на тестето по цвят е игра сама по себе си.
+62. **Играйте домино.** Съвпадайте краищата. По-късно нареждането на плочките също е наред.
+63. **Опитайте думичка с голям шрифт.** Нашата [думичка](/games/word-search/) има думи само хоризонтално и вертикално и се печата.
+64. **Довършвайте познати поговорки.** [Довършете поговорката](/games/finish-the-saying/) ви позволява да покажете края по всяко време.
+65. **Играйте картинно бинго.** [Картинното бинго](/games/picture-bingo/) подхожда на семейства и групи. Помагайте свободно при отбелязването.
+66. **Играйте шашки.** Правилата нека са свободни. Местенето на фигурите, докато разговаряте, се брои.
 
-## Movement
+## Движение
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA предлага разходки, стационарно колело, еластични ленти, хвърляне на мека топка или балон, вдигане на консерви със супа и видеа с упражнения за възрастни. Консултирайте се с лекар, преди да започнете нещо ново, особено при проблеми с равновесието.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Хвърляйте балон.** Седнете един срещу друг. Той се движи бавно, затова е лесно да се хване.
+68. **Следвайте видео с упражнения седнал,** направено за възрастни, като седите един до друг.
+69. **Разтягайте се с лента.** Нежни издърпвания на ръцете с лека лента, седнал.
+70. **Вдигайте консерви със супа.** Бавно повдигане на ръцете, може би под музика.
+71. **Карайте стационарно колело.** Няколко леки минути, с вас наблизо.
+72. **Танцувайте с шалове.** Размахвайте леки шалове под музика, седнал или прав.
+73. **Ходете с цел.** До пощата да изпратите писмо или да купите кафе. Причина да излезете прави всичко по-естествено.
+74. **Споделете дихателна пауза.** Успокойте се заедно с [спокойно дишане](/games/calm-breathing/).
 
-## Social activities
+## Социални дейности
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Компанията има значение, дори когато имената са трудни, а малките групи са по-лесни от големите. NIA отбелязва, че човек може да не помни кой е посетителят, но често пак се радва на компанията. Вижте [посещения](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Приемайте един или двама посетители наведнъж.** Кратки посещения в тиха стая със снимки за разглеждане.
+76. **Правете видеообаждане със семейството.** Кратки разговори, по един глас наведнъж. Вижте [телефонни и видеообаждания](/activities/phone-and-video-calls/).
+77. **Опитайте кафене за памет.** Неформални срещи за хора с деменция и техните близки. Попитайте в местните социални служби или в центъра за възрастни хора какво има наблизо.
+78. **Излезте да хапнете в спокойно време.** NIA предлага познат тих ресторант извън пиковите часове, с маса близо до тоалетната.
+79. **Посетете дневен център за възрастни.** Компания за него и почивка за вас.
+80. **Прекарайте време с деца.** Кратко, спокойно посещение от внуци или четене на детска книжка на малко дете.
+81. **Споделете вестника над кафето.** Четете заглавията на глас. Ритуалът е по-важен от новините.
+82. **Помогнете на някой друг.** Сгънете църковни програми или направете картичка за съсед.
 
-## Faith and spiritual activities
+## Вяра и духовни дейности
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Следвайте собствената традиция на човека или никоя. NIA предлага познати служби, четения, духовна музика, молитва, медитация и празнични ритуали.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Посетете позната служба.** Изберете по-тиха, седнете близо до пътеката и кажете на хората там за деменцията.
+84. **Гледайте служба онлайн** в дни, когато излизането е твърде трудно.
+85. **Молете се или четете заедно.** Познати думи, четени бавно. Може да се включва в частите, които знае.
+86. **Пейте химни или духовна музика** от неговата традиция.
+87. **Пазете празничните ритуали.** Свещи с батерии, благославяне, украсите, които винаги са използвали.
+88. **Споделете тихо време.** Седнете в градината или гледайте залеза заедно.
 
-## Pets and animals
+## Домашни любимци и животни
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA предлага да храните, закачате, разхождате или седите и да държите домашен любимец.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Четкайте спокойно куче или котка** с дълги, бавни движения.
+90. **Нахранете любимеца заедно.** Вие мерите, той налива.
+91. **Разходете кучето заедно.** Вие държите каишката.
+92. **Дръжте любимеца в скута.** Спокойна котка върху одеяло може да успокои много.
+93. **Посрещайте посещаващи животни.** Някои домове за грижи и дневни програми организират посещения на животни. Попитайте на място.
+94. **Предложете реалистично меко животниче.** Ако няма домашен любимец, някои хора се радват да държат реалистична плюшена котка или куче. Предлагайте го просто, никога като играчка, и приемайте отказ.
 
-## Seasonal activities
+## Сезонни дейности
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Запазете традициите, но по-прости. NIA препоръчва да сте реалистични и да имате тихо място за почивка по време на натоварените празници.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Украсете за сезона.** Тиква, венец или свежи цветя на масата.
+96. **Направете празнично лакомство.** Разточете тесто или глазирайте бисквити. Вие се грижите за фурната.
+97. **Окачете украси.** Нечупливи украси, подавани по една наведнъж.
+98. **Отидете да видите светлините.** Кратка вечерна разходка с кола не иска нищо освен компания.
+99. **Засадете пролетни луковици.** Натиснете луковиците в саксия през есента и гледайте как излизат кълновете.
+100. **Белете царевица или шелете грах.** Лятна работа на верандата с купа в скута.
+101. **Адресирайте празнични картички.** Той подписва, слага марки или запечатва; вие пишете адресите.
 
-## What if an activity is not working?
+## Какво да направите, ако една дейност не върви?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Спрете и опитайте нещо друго някой друг път. NIA препоръчва да забелязвате раздразнението и да оставите човека просто да гледа, ако предпочита. Отказът често означава, че задачата е твърде трудна, времето не е подходящо или нещо друго го притеснява, например болка, глад или шум. Направете я по-малка, опитайте по-рано през деня или започнете сами и вижте дали той се включва. Вижте [когато казват „не“](/caregiving/when-they-say-no/) и [неспокойство в късния следобед](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+За да вмъкнете дейности между храненията и почивката, вижте [нежен ежедневен режим](/activities/daily-routine/). За неща, които да имате подготвени, вижте [дейности за печат](/activities/printable/), а ако водите група, [групови дейности в домове за грижи](/activities/care-home-groups/). Вашата собствена почивка също е важна: вижте [грижа за себе си за близките](/caregiving/caregiver-self-care/).

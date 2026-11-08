@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Alzheimer jaqiru uñjañ: kunas lurañ ukat apañ"
+seoTitle: "Alzheimer jaqiru uñjañ: kunas lurañ ukat apañ"
+description: "Alzheimer jaqiru uñjañ utanakan, jan wali uta mantañanakan ukat hospitalan kunas lurañ, kunas apañ, sapa phaxsi uñjañanaka ukat sumankaña sarañ."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Alzheimer jaqi uñjktan utan jan ukax hospitalan, sum sarnaqañ: sutim
+  sumañ mistuñ, uñjañ yatiñani ukat ukanakan jaqichasiña. Kunanaks apañ,
+  uñjañ fotonaka, taqi uñjañ takinaka jan ukax jumax yatiyasiñ sum
+  uñjañ munañanaka. Mä kuti jan ukax mä phaxsin mä kuti uñjañanakax
+  juk'ampinix aski utjaspa. Sarañ pachan sumankaña lurañ, ukhamat ukanakax
+  jumanakatakix jan llakisiñani.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Jaqi sutimp sumañ mistuñ ukat kunas jumax utjta uka yatiyañ, ukhamat janiw yatiñapkiti: 'Kamisaraki Mama, nayax Susan, jumaru wawam.'"
+  - "Mä jan ukax paya takinak apañ, taqi uñjañ yatiñani: fotonaka, munat taqi uñjañ, mä lanux awayu jan ukax utan uñjirinakax sum uñtasiwayi ukhamaraki mä uñtañ manq'a."
+  - "Juk'ampinix mä kuti uñjañanakax, suma sapa kuti uñjañanakat aski utjaspa. Jumax uñjañamax jumax parlañ sipansa sum utjaspa."
+  - "Hospitalan, uñjirinakar mä hoja qillqatax jaqi tuqi yatiyasiñ, doktoruru ukat tuqi ch'ama yatiyaraki kuna jan walt'awi mistki ukax."
+  - "Sarañ pachan amtaña: ukhamat uñjañ mä chiqa utjañ sipansa ukat sarañ pachan mä ukham chiqa parlañ, jan jiwasa."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Kunas apañ Alzheimer jaqiru uñjkta ukhaxa?"
+    a: "Mä kuna yatiyañ sipansa mä kuna uñjañ apañ. Mä juk'a fotonaka, munat taqi uñjañ takinaka, mä lanux awayu, amp jan ukax mä magasina uka jaqix mayni lurañanakar sarnaqatapa uka, jan ukax uñjirinakax yatiyasiñ mä manq'a. Utan uñjañ ukanx, familian fotonaka ukat yatiyata takinakax utax jaqinakar sum utjañapataki yanaptañi."
+  - q: "Kunjamas Alzheimer jaqiru uñjañ sarañ ukax?"
+    a: "Janiw kuna jakhu sarañ chiqapuniw. Walja familianakax juk'ampinix mä kuti uñjañanakax, jupanakan jiwasanakan jan ukax sumpi sarañanaka sipansa aski utjaspa sasa amuyapxi, jupanakax ch'ama jaysapxi ukat janiw kunjamas suma sarañsa yatapkaspa. Jaqix ch'amax tukusi ukhax, uñjañ sum utjaspki ukax mayt'añ."
+  - q: "Kunas sasaw parlañ, jupax 'Utaruw sarañ munta' sasa?"
+    a: "Parlañ sipansa amuyañ ukar arst'añ. 'Utaruw sarañ munta' sasax sapa kutiw 'Janiw sum sarnaqapkti ukax jan ukax jan waliw jaqitapi' sasiwa. Yatiyam: 'Utam kuns sumaw ukat yatiyam,' jan ukax fotonaka uñjam, jan ukax sariñ, mä manq'a. Jan jank'akiw jaqix janiw sarañ atipkaspati sasa yatiyañax, ch'amax juk'ampi."
+  - q: "Jupax janiw nayar uñt'kiti ukhaxa?"
+    a: "Llakisiñ utjaspa, ukampisa janiw 'Janiw nayar uñtkatati?' sasa jan ukax jupar k'achañ manq'a. Sum mistuñ ukat sum jaqichasiña, uñjañ pachax sumankañ mayt'añ. Walja jaqinakax jan kunas uñjapxi ukhapxi uñjirinakan sumankañap uñt'apxi."
+  - q: "Hospitalan qhiparu kunjamas yanapaña?"
+    a: "Sapa kuti jupan sayt'ayañ, manq'a umañ ukat ukhamaraki fotonaka taqi uñjañ takinak apañ. Uñjirinakar mä hoja qillqat churañ, ukanx jaqin lurañanakap, sutip, munañanakap, janiw munañanakap, ch'amanakap ukat ñanqha sum uñt'añ apañ. Jupax ch'ama jan ukax juk'ampi jan walt'aski ukax, ch'ama doktorurux yatiyañ, sasa jan yatiñ mistuñax jan waltʼañ utjaspa."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Alzheimer jaqi uñjañ utan, jan ukax hospitalan jumax munasir jaqi uñjkta ukhax, walja amuyunaka utji. Kunsa parlañ, kunsa apañ jan ukax uñjañax aski utjaspas sasa jan yatiñ utjaspa, jupax janiw yatiñapkiti ukhamarak. Ukampisa aski utjaspa. National Institute on Aging yatiyi, Alzheimer ukan jakir jaqinakax [juk'ampinix uñjirinakar sum uñtasipxi](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), jupanakax jan yatiñapkaspasa. Akax sarañ sipansa, uñjañ ukat qhipa pachan yanapt'awinak uñacharakiwa, hospitalan qhiparu uñjañ ukhamarak.
 
-## How do I get ready for a visit?
+## Uñjañatakix kunjamas jaqunaka?
 
-A little planning makes the visit easier for both of you.
+Mä juk'a amtañax ukax jumanakatakix sumawa.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Suma pacha ajllim.** Dementia Australia yatiyi, jaqix juk'ampinix ch'ukiñ ukat jach'a phaxsi uñjañ ukax sum uñjaspa, sasa. Family Caregiver Alliance yatiyi, uta amtañanakap yatiñ ukat uñjañ pachan jan ukax [sarañ pachan janiw lurañ pachan](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) uñjañ sum utjaspa.
+- **Uñjirinakampi parlañ.** Jumax jaqix kunjamas sarnaqapkaspa uka jisk'a yatiyasiñ, ukat kuna manq'a, uywa jan ukax sarañ uñacharañ amtañanakap uñjam.
+- **Jisk'a uñjañ wayt'a apañ.** Mä jan ukax paya takinak apañ, sapa kuti (uka uñacharañanakax jaqhipan).
+- **Parlañ tuqinakap amtam.** Jaqix janiw kunas yatiyañ utjkiti, ukhamasti jumax ch'ama tuqinak apañ: familia tuqi, phaxsi pacha, sapa uywa ukat jan ukax sum nayrar uñjañ.
+- **Jumaru suytañ suytañ mayt'am.** Mä uñjañanakax sum utjaspa, mä kutinakax jan ukax phiñasiñ utjaspa. Ukanakax taqi ukhamaw.
 
-## What should I bring?
+## Kunas apañ?
 
-Bring things to share, not things that test. Good choices include:
+Yanapt'añ takinak apañ, jan jaquntañ takinak janiw. Aski takinakax:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Mä juk'a fotonaka wayt'a,** sum uñjañ, jisk'a jan ukax juk'a qillqatanakampi. Uñjirinakatakix qilqañ qhipa.
+- **Mä munat taqi uñjañ** celular ukan, jisk'a parlañ jan ukax juk'a parlañ ukampi.
+- **Mä lanux taqi,** kunjamas mä manta, mä ch'aka, jan ukax mä llik'i uka jaqi munat.
+- **Manq'a lurañ nayra,** ukat wali anat kawkhanti ukax, jaqi munaspa jan ukax janiw.
+- **Mä magasina jan ukax mä yatiyata uñjañ** jaqi nayra lurañanakat, kunjamas uywa, awtu, p'isaqanaka jan ukax manq'a lurañ.
+- **Mä manq'a,** uñjirinakax ukar yatiyasa.
+- **Utan uñjañ takinak.** Family Caregiver Alliance yatiyi, phiru, uywa, familian fotonaka jan ukax jayp'u uñjañ, jan ukax nayra familian fotonaka mä jach'a afisha.
+- **Mä tablet,** familian fotonaka uñjañatakix jan ukax mä jisk'a jaqichasiñ juego ukan.
 
-## What can we do together during a visit?
+## Uñjañ ukan kuna lurañ tuqi?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Mayni lurañ jaqichasiñ sum utjaspa. Dementia Australia yatiyi, fotonaka uñjañ, mä jisk'a lurañ, achunaka phuqañ, munat taqi uñjañ, manq'a mayt'añ jan ukax utanakan sarañ. Yaqha ideanak:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Fotonaka uñjañ.** Kuntix uñjaskta uk uñacharam: "Uka ch'uyan uñjam." "Uka qota ch'iyar sum uñjasi." Jaqix mayt'añ. Janiw "Akax kunawa?" sasa jisk'achañ.
+2. **Munat taqi uñjañ ukat taquñ.** Yatiñ munat taqinakax suma amuyunaka churapxi, parlañ jan puedeñ pachanakan ukhamarak.
+3. **Jisk'a sarañ.** Family Caregiver Alliance yatiyi, uta chiqapan jan ukax uñjirinakan qala sarañ, sapa jardin utjaspa ukanx. Silla ruwadamp sarañax jukhun.
+4. **Amparan sumpi t'aqa.** Mä lanux ukat sum sut'a sarañ amparanakan calmaraki.
+5. **Jaqi aljañ.** Dementia Australia yatiyi, sikilmp sumpi, uñjkt uñjañ pachan, jan ukax munat isi ukar churañ, jaqi munaspa.
+6. **Mä jisk'a juego.** Family Caregiver Alliance yatiyi, naipi, dominó jan ukax jaqi sarnaqat uka juegonak. Tablet ukan, [Picture Pairs](/games/picture-pairs/) jan tiempo uñjañ fotonak uñjasa sarañ. [Photo Pairs](/games/photo-pairs/) ajllit fotonakam juego mayt'iri ukar tukuyi, fotonak nayraqata navegadormanx utjaspa.
+7. **Mä uñjañ jukhu uñjañ.** Family Caregiver Alliance yatiyi, katuqañ mä jan ukax wali uñjañ. Jaqix jan ukax yatiyañ jan utjkiti, jumax sum uñjañ ukat uñjañ pacha uñjañ.
+8. **Mä jach'a parlañ.** Mä jisk'a jaya, munat yatiñ jan ukax familia uywa qillqat.
+9. **Jumax sum uñjañ.** Alzheimer's Association yatiyi, kuntix parlañ sumpi jan ukax jan yatiñax jan walt'awi ukat jumax uñjañ ukax jach'a yatiñawa.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) yanapt'awa kuna parlañ jan utjaspa ukhax. Sapa cartax mä uñjañ ukat mä jisk'a parlañ mayt'awi.
 
-## How should I talk during the visit?
+## Uñjañ ukan kunjamas parlañ?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Sapa kuti sutim sumañ.** "Kamisaraki Tata, nayax Mark, jumaru yuqam." NIA yatiyi, uñjirinakax jisk'a sutip sumañ parlañ qalltañataki.
+- **Nayra sayt'añ** ukat silla ukan ñanqha uñjañ sum uñjañ.
+- **Janiw k'achañ jan ukax phiñasiñ.** NIA yatiyi, jaqi jan ukax yatiñ jan ukax kuna ch'iyar sum uñjañ ukhax janiw k'achañ.
+- **Suytañ suytañ.** Kunjamas parlañ jan puedeñ ukax, aski pacha churam.
+- **Amuyunak uñjañ.** Jaqix llakisiñ jan ukax jan walt'aski ukax, nayra uñt'am ukat ukat tuqi parlam.
+- **Yatiñ tuqi jisk'a jaytañ jan ukax "Nayar uñt'atati?" jan ukax "Kuna manq'a lurataxa?" sasa jisk'achañ.**
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Akax [parlañ yanapt'awinakax](/caregiving/communication-tips/) uñjañ.
 
-## What do I do when they say "I want to go home"?
+## Kunas lurañ “Utar sarañ munta” sasa?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Parlañ ukan amuyañ uñjañ (sapa mä [yatiyañax jaqix utar sarañ munaspa](/caregiving/asking-to-go-home/) uka yatiñanakar). Family Caregiver Alliance yatiyi, "Utar sarañ munta" sasax sapa kutiw "Janiw sum sarnaqapkti" sasiwa, ukat yatiyi, "Utamat parlam" jan ukax "Utan kuna sumas munta?" sasa. Dementia Australia yatiyi, "utan" sasax mä pacha jan ukax mä uta uka jaqix sum sarnaqapkaspa uka jupanakatakix sañ jach'a sarañ, sapa wawanakanx.
 
-Try:
+Yatiyasiñ:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- amuyasiñ uñt'am: "Utam munaspa sasa amuyapxtam."
+- sum amparampi mayt'añ, munaspa ukhax
+- fotonaka uñjañ jan ukax familian utapat parlañ
+- sarañ, umañ jan ukax manq'a mayt'añ
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Janiw k'achañ jan ukax kunatakix sarañ jan puedeñ sasa yatiyañ. Jan yanapt'añ ukat ch'amanakax juk'ampi.
 
-## How long should a visit be?
+## Uñjañ ukax kunjam sarañ?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Juk'ampinix mä kuti uñjañax sum utjaspa. Family Caregiver Alliance yatiyi, jaqix janiw amuyapkaspa jumax pisi jan ukax phisqa jach'a pachan uñjañ, sapa kuti kimsa juk'a uñjañ mä jach'a uñjañat sum utjaspa sasa. Dementia Australia yatiyi, janiw kuna pachas jan ukax kuna kutis uñjañ chiqapuniw.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Mä uta mantañ qhipa, Family Caregiver Alliance yatiyi, nayra mä kuti uñjañ jan ukax uñjañ sapa pacha, ukat qhipat mä amtañ sarañ.
 
-## How do I leave without upsetting them?
+## Kunjamas jaqi jan llakisiñ sarañ?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Sarañax jukhun jakisiña. Dementia Australia yatiyi:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Uñjañ qalltañ, kunas sarañ ukax parlañ.** "Mä hora qhipar sarañ, ukat ch'ampi sarañ."
+- **Mä lurañ mä tukuñ uñacharañ.** "Akax tukusaxa, ukat sarañ."
+- **Mä manq'a jan ukax lurañ mayt'añ,** jan ukax uñjirinakar jaqi yanapañ.
+- **Sarañ juk'a ukat kunjamas sapa kuti chiqa.** Sarañ qhipa llakisiñ jan ukax "juk'a qhipat" sasa qhipa ukax sarañ jukhun.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Sarañ qhipa, llakisiñ utjaspa. Jumax samar. Jaqix phiñasi ukhax, uñjirinakax juk'a qhipat amuyapxiwa.
 
-## Visiting someone with dementia in the hospital
+## Alzheimer jaqiru hospitalan uñjañ
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Hospital ukax ch'ama, janiw yatiñaniwa ukat jaqinakampi jakañawa, ukax Alzheimer jakir jaqitakix sum jan wali utjaspa. NIA yatiyi, [Alzheimer jaqi hospitalar apañ](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ukat yatiñ:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Jaqi jupan uñjañ** sum utjaspa: familia, yatiñani amigo jan ukax yanapt'iri.
+- **Uñjirinakar mä hoja qillqat churañ,** kunjamas sarnaqapkaspa, sutip, munañanakap, janiw munañanakap, kuntix jan walt'ayi, ukat ñanqha sumpi jan parlasa jan walt'awi uñt'aña. Uta ukan ukhamarak uñjirinakan mesanakan uchañ.
+- **Manq'a umañ yanapaña.** Jach'a jaqinakax hospitalan manq'a jan utjaspa. Jisk'a qhipa, manq'a yanapt'am, mä chiqat manq'a ch'aka, umañ.
+- **Jan kuna lurañ uñt'añ apañ,** kunjamas fotonaka jan ukax khuyapayasiña.
+- **Jisk'achañ.** Televisor apaqam, teléfono jan ukax intercom jisk'achañ.
+- **Suma amuyañ lurañanaka,** kunjamas munat taqi uñjañ, lanux, mayt'añ, taquñ, jan ukax fotonak uñjañ.
+- **Sarañ sum uñjañ,** uñjirinakan yatiyasiñapata.
+- **Jaqi ch'ama jan ukax jan walt'aski ukax, ch'ama doktorurux yatiyaraki.** NIA yatiyi, ch'ama yatiñ mistuñ, delirium sasa, infección, fiebre, ch'ukiña jan ukax yanapt'awi ukhamar jan walt'awi ukat yatiñ uñt'añ.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Mä jisk'a, jupaki uñjañ, mä uñt'asi jaqi ukat mä munat taqi uñjañ, hospital pacha ukan sum kuna uñjañaw utjaspa.
 
-## Bringing children on a visit
+## Wawanak uñjañ ukan apaña
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Wawanakax walja sum apapxi. Jupanakar jisk'a, chiqa parlañ yatiyam, uñjañ jisk'a utjaspa, ukat jupanakar mä lurañ churam, sapa mä qillqa uñacharañ jan ukax mä fotonaka churañ. NIA yatiyi, wawanakax Alzheimer jaqi jupanakampi jisk'a lurañanaka lurapxi, sapa mä fotonak uñjañ jan ukax taquñ. Dementia Australia yatiyi, wawanakar mä jisk'a manq'a jan ukax suma lurañ takinak apañ, jupanakax jisk'a sarañ jukhun.
 
-## Take care of yourself too
+## Juma pachpat amparam uñjam
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Uñjañax jukhu ukat llakisiñaw utji, khititix jaqi walja mayi ukhax. Janiw kuna sarañ chiqa sapa kutiw jumax uñjañatakix utjaspa, jan ukax amigo apañ, jan ukax jan walt'aski pacha jisk'a sarañ. Juma amparam uñjañatakix [amparam uñjañ](/caregiving/caregiver-self-care/) uñjam. Jumax jaya jaqinakax jayp'u uñjañ, [teléfono ukat video llamadanakax](/activities/phone-and-video-calls/) uñjam.

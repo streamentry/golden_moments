@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Страта слыху і рызыка дэменцыі: што паказваюць даследаванні"
+seoTitle: "Страта слыху і дэменцыя: што кажуць даследаванні"
+description: "Чаму страта слыху з'яўляецца важным фактарам рызыкі дэменцыі, што паказала выпрабаванне слыхавых апаратаў ACHIEVE і як праверыць слых і лягчэй размаўляць."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Камісія Lancet у 2024 годзе называе страту слыху адным з найбольш значных фактараў рызыкі дэменцыі, якія можна змяніць. У выпрабаванні ACHIEVE слыхавыя апараты ў цэлым не запаволілі спад пазнавальных здольнасцей, але ў падгрупе з больш высокай рызыкай спад быў меншым. Слыхавыя апараты так ці інакш дапамагаюць у размове і ў штодзённым жыцці. Праверце слых, разгледзьце апараты, у тым ліку тыя, што продаюцца без рэцэпта, і параіцеся з урачом.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Камісія Lancet ацэньвае, што страта слыху абумоўлівае каля 7% выпадкаў дэменцыі ва ўсім свеце. Гэта найбольшая доля сярод 14 фактараў, разам з высокім узроўнем халестэрыну LDL."
+  - "У выпрабаванні ACHIEVE з 977 пажылых людзей слыхавыя апараты за тры гады не змянілі спад пазнавальных здольнасцей у цэлым."
+  - "У меншай групе з больш высокай рызыкай у ACHIEVE спад пазнавальных здольнасцей быў на 48% павольнейшым пры карыстанні слыхавымі апаратамі. Гэта трэба пацвердзіць."
+  - "З кастрычніка 2022 года дарослыя ў ЗША з адчутнай лёгкай або сярэдняй стратай слыху могуць купіць слыхавыя апараты без рэцэпта, якія рэгулюе FDA."
+  - "Страта зроку, якая не лечыцца, у 2024 годзе была дададзена як фактар рызыкі дэменцыі, таму агляд вачэй таксама важны."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Ці прадухіляюць слыхавыя апараты дэменцыю?"
+    a: "Гэта не даказана. Выпрабаванне ACHIEVE не выявіла агульнага ўплыву на спад пазнавальных здольнасцей за тры гады, хоць адна група з больш высокай рызыкай выглядала лепш. Слыхавыя апараты ўсё роўна варта разгледзець, бо яны палягчаюць размову, бяспеку і штодзённае жыццё."
+  - q: "Хто можа купіць слыхавыя апараты без рэцэпта?"
+    a: "FDA дазваляе дарослым ад 18 гадоў з адчутнай лёгкай або сярэдняй стратай слыху купляць такія апараты ў крамах або праз інтэрнэт без рэцэпта. Яны не прызначаны для цяжкай страты слыху. Калі ёсць боль у вуху, выдзяленні з вуха, галавакружэнне або раптоўныя змены слыху, спачатку звярніцеся да ўрача."
+  - q: "Ці можа страта слыху быць падобнай на дэменцыю?"
+    a: "Часам так. Нацыянальны інстытут старэння (NIA) адзначае, што пажылых людзей, якія дрэнна чуюць, часам памылкова лічаць збянтэжанымі або нешматслоўнымі. Праверка слыху — разумны крок, калі чалавек пачынае замыкацца ў сабе або не чуе, што яму кажуць."
+  - q: "Як часта пажылым людзям варта правяраць вочы?"
+    a: "NIA рэкамендуе праходзіць агляд вачэй з расшырэннем зрэнкі кожны год або раз у два гады пасля 60 гадоў або так, як раіць ваш акулiст. Людзям з дыябетам або высокім ціскам звычайна патрэбны такі агляд не радзей за адзін раз у год."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Страта слыху ў пажылым узросце — з'ява распаўсюджаная, і даследчыкі ставяцца да яе сур'ёзна як да фактара рызыкі дэменцыі. Але гэта не значыць, што слыхавыя апараты — даказаны спосаб прадухіліць дэменцыю: найлепшае на сёння выпрабаванне дало неадназначныя вынікі. На гэтай старонцы тлумачыцца, што паказваюць даследаванні, як праверыць слых, што ўяўляюць сабой слыхавыя апараты, якія можна купіць без рэцэпта ў ЗША, і як зрабіць размову прасцейшай.
 
-## Why does hearing matter for brain health?
+## Чаму слых важны для здароўя мозгу?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Страта слыху звязана з больш высокай рызыкай дэменцыі. [Камісія Lancet 2024 года](https://doi.org/10.1016/S0140-6736(24)01296-0) ацэньвае, што на яе прыходзіцца каля 7% выпадкаў дэменцыі ва ўсім свеце. Гэта ставіць яе ў адзін шэраг з высокім узроўнем халестэрыну LDL як фактар з найбольшай доляй сярод 14 фактараў рызыкі, якія можна змяніць, па мадэлі Камісіі. Пра гэта піша [рэзюмэ справаздачы ад UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Асноўныя высновы Камісіі:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Вышэйшая рызыка пры страце слыху.** У аб'яднаным аналізе шасці якасных даследаванняў людзі са стратай слыху мелі прыкладна на 37% вышэйшую рызыку дэменцыі, чым людзі з нармальным слыхам.
+- **Чым большая страта, тым большая рызыка.** Даследаванні, якія разглядалі ступень страты, паказалі, што рызыка расце па меры пагаршэння слыху.
+- **Магчымыя прычыны, але не даказаныя.** Сярод версій — адзінота і замкнёнасць, дэпрэсія, менш стымулаў для мозгу і дадатковае напружанне, якое патрабуе слуханне.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Страта слыху сустракаецца часта. [Нацыянальны інстытут старэння (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) піша, што ёю пакутуе каля адной траcouth пажылых дарослых, і верагоднасць яе ўзрастае з вiekam.
 
-## What did the ACHIEVE hearing aid trial find?
+## Што паказала выпрабаванне слыхавых апаратаў ACHIEVE?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE было першым рандомізаваным выпрабаваннем слыхавых апаратаў і спаду пазнавальных здольнасцей. Яго вынікі часта перадаюцца няправільна, таму вось дэталі з [апублікаванай справаздачы](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Хто ўдзельнічаў:** 977 дарослых ва ўзросце ад 70 да 84 гадоў з неляченай стратай слыху і без значных праблем з мысленнем, на чатырох амерыканскіх месцах супольнасці.
+- **Што параўноўвалі:** Палова атрымлівала слыхавыя апараты і кансультацыі аўдыёлага. Другая палова — праграму адукацыі пра здаровае старэнне.
+- **Галоўны вынік:** Праз тры гады розніцы ў спадзе пазнавальных здольнасцей паміж групамі ў цэлым **не было**.
+- **Вынік падгрупы:** Удзельнікаў набіралі з двух крыніц. 238 чалавек прыйшлі з доўгатэрміновага даследавання здароўя сэрца (ARIC), і як група яны мелі больш высокую рызыку спаду пазнавальных здольнасцей. У гэтай групе спад быў на **48% павольнейшым** пры карыстанні слыхавымі апаратамі. Сярод 739 здаровых добраахвотнікаў з суполкі яснага ўплыву не выявілі.
 
-How to read this honestly:
+Як чытаць гэтыя вынікі сумленна:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Агульны адказ — уплыву няма.
+- Вынік падгрупы быў запланаваны загадзя, але атрыманы ў выніку другаснага аналізу меншай групы. Яго трэба пацвердзіць у іншых даследаваннях.
+- Удзельнікі ведалі, у якой праграме яны ўдзельнічаюць, а гэта можа паўплываць на вынікі.
+- Камісія Lancet трактуе дадзеныя так, што слыхавыя апараты, па ўсім выглядзе, асабліва карысныя людзям са стратай слыху, у якіх ёсць і іншыя фактары рызыкі дэменцыі.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Выснова: слыхавыя апараты — не даказаны спосаб прадухіліць дэменцыю. Але яны дапамагаюць чуць, удзельнічаць у размовах і заставацца на сувязі з людзьмі, і гэтага дастаткова, каб іх разгледзець.
 
-## How do I know if hearing should be checked?
+## Як даведацца, ці трэба правяраць слых?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA раіць звярнуцца да ўрача, калі вы або чалавек, за якім вы даглядаеце:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Цяжка разумее людзей па тэлефоне
+- Цяжка сачыць за размовай, калі гавораць два ці больш чалавек
+- Часта просіць паўтарыць
+- Гучна ўключае тэлевізар, так што іншыя скардзяцца
+- Цяжка разумее мову пры фонавым шуме
+- Лічыць, што іншыя гавораць нявыразна
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Пачніце з участковага ўрача, які можа накіраваць вас да аўдыёлага (спецыяліста па слыху) або ЛОР-урача (па вуху, горлу і носе). Наяўнасць шчыльнай шчаціны ў вуху — адна з частых прычын страты слыху, якую ўрач можа праверыць. **Раптоўная страта слыху — гэта медыцынская неадкладнасць**, і NIA раіць неадкладна звярнуцца да ўрача.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Страту слыху могуць прыняць за збянтэжанасць. NIA адзначае, што пажылых людзей, якія дрэнна чуюць, часам памылкова лічаць збянтэжанымі, неадчувальнымі або нешматслоўнымі. Калі ваш блізкі здаецца замкнёным у сабе або не разумее, што яму кажуць, праверка слыху — добры першы крок.
 
-## What are over-the-counter hearing aids?
+## Што такое слыхавыя апараты, якія можна купіць без рэцэпта?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+З 17 кастрычніка 2022 года [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) у ЗША дазваляе купляць слыхавыя апараты без рэцэпта (OTC). Вось як яны параўноўваюцца з апаратамі па рэцэпце:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Характарыстыка | Апараты без рэцэпта | Апараты па рэцэпце |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Для каго | Дарослыя ад 18 гадоў з адчутнай лёгкай або сярэдняй стратай слыху | Любая ступень страты слыху, любы ўзрост |
+| Дзе купіць | У крамах або праз інтэрнэт, без агляду і рэцэпта | Праз ліцэнзаванага спецыяліста па слыху |
+| Наладка | Вы самі наладжваеце параметры, часта праз праграму | Спецыяліст налажае апарат пад ваш слых |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA піша, што апараты без рэцэпта не прызначаны для цяжкай або глыбокай страты слыху. Перад пакупкай FDA раіць звярнуцца да ўрача, пераважна ЛОР-спецыяліста, калі ў вас ёсць:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Боль або дыскамфорт у вуху
+- Вадкасць, гной або кроў з вуха за апошнія шэсць месяцаў
+- Раптоўныя або змянлівыя змены слыху
+- Горшы слых на адно вуха або звон толькі ў адным вуху
+- Галавакружэнне або круцяжы
+- Шмат шчаціны ў вуху
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Да слыхавых апаратаў трэба прывыкнуць, таму, як раіць FDA, перад пакупкай праверце ўмовы вяртання тавару. NIA раіць спытаць, ці пакрывае страхоўка частку кошту. Для чалавека, які жыве з дэменцыяй, аўдыёлаг можа дапамагчы выбраць тып апарата і наладку, якія будзе прасцей карыстацца штодня.
 
-## How can I talk more easily with someone who has hearing loss?
+## Як лепш размаўляць з чалавекам, які дрэнна чуе?
 
-The NIA suggests:
+NIA раіць:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Глядзіце на чалавека і трымайце зрокавы кантакт** пры добрым святле, каб ён бачыў вашы вусны і міміку.
+2. **Знайдзіце ціхае месца.** Выключыце тэлевізар або адыдзіце ад шуму.
+3. **Гаварыце трохі гучней, але не крычыце.** Гаварыце натуральна і ў спакойным тэмпе.
+4. **Не закрывайце рот.** Не jedzcie, не жуйце гумку і не прыкрывайце вусны, калі гаворыце.
+5. **Перафармулюйце, а не паўтарайце дзяслоў у тым жа выглядзе,** калі нешта не пачулі.
+6. **Адзін чалавек — адна размова.** У групе свядома ўключайце чалавека ў гутарку.
+7. **Будзьце цярплівыя і спытайце, як можна дапамагчы.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Гэтыя парады добра спалучаюцца з нашымі [парадамі па зносінах пры дэменцыі](/caregiving/communication-tips/). Заняткі з карцінкамі таксама зніжаюць нагрузку на слых. [Пары карцінак](/games/picture-pairs/) і [Карткі для размовы](/games/conversation-cards/) абапіраюцца на тое, што бачыш, а [Дакончыце прыказку](/games/finish-the-saying/) дазваляе паказаць заканчэнне, а не прагаварыць яго. Для званкоў гл. нашы парады па [тэлефонных і відэазванках](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Зрок таксама важны
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+У 2024 годзе Камісія Lancet дадала страту зроку, якая не лечыцца, як новы фактар рызыкі. Рэзюмэ UCL ацэньвае яго прыкладна ў 2% выпадкаў дэменцыі, а Камісія раіць зрабіць праверку і лячэнне праблем са зрокам даступнымі для ўсіх. [NIA раіць](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) праходзіць агляд вачэй з расшырэннем зрэнкі кожны год або раз у два гады пасля 60 гадоў, а таксама правяраць рэцэпт на акуляры. Нават нязначныя змены зроку могуць павялічыць рызыку падзенняў.
 
-## Talk with a doctor
+## Пагаварыце з урачом
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Спытайце ўрача пра праверку слыху і зроку, калі вы заўважылі любыя з прыкметаў, пералічаных вышэй. Адразу звярніцеся па дапамогу пры раптоўнай страце слыху, болі ў вуху або выдзяленнях з вуха. Калі вы даглядаеце чалавека з дэменцыяй, расскажыце яго ўрачу пра змены слыху або зроку: яны могуць паўплываць на настрой, бяспеку і на тое, наколькі добра чалавек можа ўдзельнічаць у жыцці.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Гэтая старонка — агульная інфармацыя, а не медыцынская парада. Гл. наш [медыцынскі дыскламер](/medical-disclaimer/). Больш чытайце пра [сацыяльныя сувязі і здароўе мозгу](/brain-health/social-connection/).

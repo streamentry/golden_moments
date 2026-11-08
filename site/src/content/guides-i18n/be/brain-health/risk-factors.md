@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Фактары рызыкі дэменцыі: 14, названых Камісіяй Lancet"
+seoTitle: "Фактары рызыкі дэменцыі: 14 фактараў Lancet"
+description: "14 фактараў рызыкі дэменцыі, якія можна змяніць, паводле Камісіі Lancet 2024 года: па этапах жыцця, што сцвярджаюць даследаванні і пра што параіцца з урачом."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Камісія Lancet у 2024 годзе назвала 14 патэнцыйна зменных фактараў рызыкі
+  дэменцыі: меншую адукацыю, страту слыху, высокі халестэрын ЛПНШ, дэпрэсію,
+  траўму галавы, неактыўнасць, дыябет, курэнне, высокі крывяны ціск, ажырэнне,
+  моцнае піццё, сацыяльную ізаляцыю, забруджанае паветра і нелячаную страту
+  зроку. Разам яны звязаны з каля 45% выпадкаў у свеце, але гарантыі для
+  аднаго канкрэтнага чалавека няма.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "14 фактараў ахопліваюць усё жыццё: адзін у ранім узросце, дзесяць у сярэднім і тры ў пажылым."
+  - "Страта слыху і высокі халестэрын ЛПНШ у сярэднім узросце звязаны кожны з каля 7% выпадкаў дэменцыі ў свеце — найбольшая доля сярод усіх асобных фактараў."
+  - "Гэтыя адсоткі — ацэнкі для насельніцтва, якія мяркуюць прычыннасць. Некаторыя сувязі могуць быць толькі часткова прычыннымі."
+  - "Узрост і гены, якія нельга змяніць, таксама з'яўляюцца асноўнымі фактарамі рызыкі. Зніжэнне 14 рызык не гарантуе, што хто-небудзь пазбегне дэменцыі."
+  - "Большасць крокаў, напрыклад праверка ціску, слыху і зроку, карысныя для здароўя і ў іншых адносінах і вартыя абмеркавання з урачом."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Якія 14 зменных фактараў рызыкі дэменцыі?"
+    a: "Камісія Lancet 2024 года назвала: меншую адукацыю, страту слыху, высокі халестэрын ЛПНШ, дэпрэсію, траўму галаўнога мозгу, фізічную неактыўнасць, дыябет, курэнне, высокі крывяны ціск, ажырэнне, залішні алкаголь, сацыяльную ізаляцыю, забруджанае паветра і нелячаную страту зроку. Разам яны звязаны з амаль паловай выпадкаў дэменцыі ў свеце."
+  - q: "Які фактар рызыкі дэменцыі самы важны?"
+    a: "Камісія ацаніла, што для ўсяго насельніцтва свету страта слыху і высокі халестэрын ЛПНШ у сярэднім узросце звязаны кожны з каля 7% выпадкаў, далей ідуць меншая адукацыя і сацыяльная ізаляцыя — каля 5% кожны. Якія фактары важныя для аднаго чалавека, залежыць ад яго ўласнага здароўя, таму лепшы дарадца — урач."
+  - q: "Ці дадаліся два новыя фактары рызыкі ў 2024 годзе?"
+    a: "Так. У справаздачы 2024 года да 12 фактараў, названых у 2020 годзе, дадалі высокі халестэрын ЛПНШ («благі» халестэрын) у сярэднім узросце і нелячаную страту зроку ў пажылым узросце. Камісія звязала іх з каля 7% і 2% выпадкаў адпаведна."
+  - q: "Ці з'яўляецца ўзрост зменным фактарам рызыкі?"
+    a: "Не. Узрост — самы вялікі вядомы фактар рызыкі хваробы Альцгеймера, і яго нельга змяніць. Гены таксама маюць значэнне. 14 фактараў на гэтай старонцы — тыя, якія, паводле даследаванняў, патэнцыйна могуць быць зменены."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Фактар рызыкі — гэта тое, што звязана з большым шансам развіцця захворвання. Ён не з'яўляецца прычынай у кожным выпадку, і наяўнасць аднаго фактара не азначае, што ў вас развіецца дэменцыя. Гэтая старонка пералічвае 14 фактараў рызыкі дэменцыі, якія, па словах Камісіі Lancet 2024 года, патэнцыйна могуць быць зменены, а таксама тое, што з імі звязваюць даследаванні, і тое, пра што можна параіцца з урачом.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Для больш поўнай карціны, у тым ліку пра тое, што паказалі вялікія выпрабаванні, пачніце з артыкула [Ці можна прадухіліць дэменцыю? Што кажуць даследаванні](/brain-health/can-dementia-be-prevented/). Гэта агульная інфармацыя, а не медыцынская параða; глядзіце наш [медыцынскі адмоўнік](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Якія 14 фактараў рызыкі дэменцыі?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Камісія Lancet 2024 года](https://doi.org/10.1016/S0140-6736(24)01296-0), у якой удзельнічалі 27 даследчыкаў дэменцыі, ацаніла, што 14 патэнцыйна зменных фактараў рызыкі разам прыпадаюць на каля 45% выпадкаў дэменцыі ў свеце. Адсотак для кожнага фактара ніжэй — гэта ацэнка Камісіі долі выпадкаў у свеце, звязаных з ім, акруглёная да цэлых лічбаў. Лічбы часткова накладваюцца, бо многія людзі маюць некалькі рызык адначасова, таму яны складаюцца ў 45%, а не ў больш.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Фактар рызыкі | Этап жыцця | Доля выпадкаў | Што сведчаць даследаванні | Што можна зрабіць |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Меншая адукацыя | Ранні ўзрост | 5% | Менш гадоў навучання звязана з вышэйшай рызыкай. Разумовая актыўнасць у сярэднім узросце, здаецца, таксама засцерагае, нават у людзей з невялікай адукацыяй. | Вучыцца і займацца разумова актыўнымі справамі ў любым узросце: чытаць, займацца хобі, хадзіць на курсы, гуляць у гульні з іншымі. |
+| Страта слыху | Сярэдні ўзрост | 7% | Нелячаная страта слыху звязана з вышэйшай рызыкай. Даследаванні, якія назіраюць за людзьмі на працягу часу, звязваюць карыстанне слыхавымі апаратамі з меншай рызыкай. | Праверце слых. Спытайцеся, ці дапамогуць слыхавыя апараты, і карыстайцеся імі, калі іх прызначылі. Абараняйце вушы ад гучнага шуму. |
+| Высокі халестэрын ЛПНШ | Сярэдні ўзрост (з каля 40 гадоў) | 7% | Высокі халестэрын ЛПНШ («благі» халестэрын) у сярэднім узросце звязаны з вышэйшай рызыкай. Назіральныя даследаванні звязваюць прыём статынаў з меншай рызыкай, але выпрабаванні ў пажылым узросце гэтага не паказалі. | Спытайцеся ў ўрача, ці варта праверыць халестэрын і што, калі наогул што-небудзь, з ім рабіць. |
+| Дэпрэсія | Сярэдні ўзрост | 3% | Дэпрэсія звязана з вышэйшай рызыкай. У пажылым узросце дэпрэсія таксама можа быць ранняй прыкметай дэменцыі. | Скажыце ўрачу пра сумны настрой або страту цікавасці, якія трываюць больш за два тыдні. Дэпрэсію можна лячыць. |
+| Траўма галаўнога мозгу | Сярэдні ўзрост | 3% | Траўма галавы ў любым узросце і ад любой прычыны, у тым ліку ад кантактных відаў спорту, звязана з вышэйшай рызыкай. | Надзявайце шлем пры яздзе на веласіпедзе і ў кантактных відах спорту. Пытайцеся пра прафілактыку падзенняў. Адпачывайце і праверцеся ў медыка пасля траўмы галавы. |
+| Фізічная неактыўнасць | Сярэдні ўзрост | 2% | Людзі, якія займаюцца фізкультурай і спортам, радзей развіваюць дэменцыю. Доказы з выпрабаванняў яшчэ абмежаваныя. | Пытайцеся, якая актыўнасць для вас бяспечная, і знайдзіце тое, што вам падабаецца. Глядзіце наш [дапаможнік па фізічнай актыўнасці](/brain-health/exercise/). |
+| Дыябет | Сярэдні ўзрост | 2% | Дыябет, асабліва калі ён пачаўся ў сярэднім узросце або трываў доўга, звязаны з вышэйшай рызыкай. | Праверце ўзровень цукру ў крыві. Калі ў вас дыябет, разам з лячэбнай камандай кіруйце ім бяспечна. |
+| Курэнне | Сярэдні ўзрост | 2% | Курэнне звязана з вышэйшай рызыкай. Даследаванні паказваюць, што колішнія курцы не маюць той самай павышанай рызыкі, што людзі, якія працягваюць курыць. | Пытайцеся пра падтрымку, каб кінуць. Кінуць варта ў любым узросце. |
+| Высокі крывяны ціск | Сярэдні ўзрост | 2% | Высокі крывяны ціск у сярэднім узросце звязаны з вышэйшай рызыкай. Выпрабаванні лекаў ад ціску паказваюць нязначна меншую рызыку дэменцыі або кагнітыўных парушэнняў. | Ведайце свае лічбы. Камісія раіць верхні ціск 130 або менш з каля 40 гадоў; спытайцеся, якая мэта падыходзіць вам. |
+| Ажырэнне | Сярэдні ўзрост | 1% | Ажырэнне ў сярэднім узросце звязана з вышэйшай рызыкай, а таксама павялічвае рызыку дыябету. | Спытайцеся ў урача пра здаровую вагу для вас. Людзі пажылога ўзросту не павінны садзіцца на дыету для схуднення без медыцынскай парады. |
+| Залішні алкаголь | Сярэдні ўзрост | 1% | Моцнае піццё звязана з вышэйшай рызыкай. Памяншэнне моцнага піцця звязана з меншай рызыкай. | Спытайцеся, якая бяспечная норма менавіта для вас, асабліва калі вы прымаеце лекі. |
+| Сацыяльная ізаляцыя | Пажылы ўзрост | 5% | Рэдкія зносіны з людзьмі звязаны з вышэйшай рызыкай. | Падтрымлівайце сувязь з людзьмі тымі спосабамі, якія вам падабаюцца. Глядзіце наш [дапаможнік па сацыяльных сувязях](/brain-health/social-connection/). |
+| Забруджанае паветра | Пажылы ўзрост | 3% | Жыццё ў больш забруджаным паветры звязана з вышэйшай рызыкай. Даследаванні звязваюць чыстае паветра з меншай рызыкай. | У большай ступені гэта пытанне дзяржаўнай палітыкі. Сачыце за папярэджаннямі пра якасць паветра і абмяжоўвайце час на вуліцы ў вельмі забруджаныя дні. |
+| Нелячаная страта зроку | Пажылы ўзрост | 2% | Непрыцягнутыя праблемы са зрокам звязаны з вышэйшай рызыкай. Адно вялікае даследаванне ў ЗША звязала аперацыю па катаракце з меншай рызыкай. | Рэгулярна праходзьце агляд у акуліста. Спытайцеся, ці можна лячыць такія праблемы, як катаракта. |
 
-## How should I read these percentages?
+## Як чытаць гэтыя адсоткі?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Уважліва. Сама справаздача Камісіі падкрэслівае некалькі момантаў, якія варта памятаць:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Яны апісваюць групы людзей, а не канкрэтных людзей.** [Зводка справаздачы](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ад University College London адзначае, што зніжэнне рызыкі працуе для насельніцтва ў цэлым і не гарантуе, што які-небудзь канкрэтны чалавек пазбегне дэменцыі.
+- **Яны мяркуюць прычыннасць.** Аўтары ўключылі толькі фактары з пераканаўчымі доказамі, але кажуць, што некаторыя сувязі могуць быць толькі часткова прычыннымі.
+- **Гэта сусветныя лічбы.** Большасць даных паходзіць з краін з высокім даходам, і рэальная доля для кожнай краіны або суполкі будзе іншай.
+- **Нязначныя адсоткі ўсё роўна важныя.** Фактар, звязаны з 2% выпадкаў у свеце, усё роўна ўплывае на вельмі вялікую колькасць людзей.
 
-## Which risk factors were added in 2024?
+## Якія фактары рызыкі дадалі ў 2024 годзе?
 
-The 2024 report added two factors to the 12 named in 2020:
+У справаздачы 2024 года дадалі два фактары да 12, названых у 2020 годзе:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Высокі халестэрын ЛПНШ у сярэднім узросце**, звязаны з каля 7% выпадкаў.
+- **Нелячаная страта зроку ў пажылым узросце**, звязаная з каля 2% выпадкаў.
 
-## What risk factors cannot be changed?
+## Якія фактары рызыкі нельга змяніць?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Нацыянальны інстытут старэння кажа, што [узрост — самы вялікі вядомы фактар рызыкі хваробы Альцгеймера](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), і ніхто не можа яго змяніць. Гены таксама маюць значэнне; адзін добра вядомы ген, які ўплывае на рызыку хваробы Альцгеймера, называецца APOE. НІА дадае, што навукоўцы пакуль не да канца разумеюць, што выклікае хваробу Альцгеймера ў большасці людзей. Камісія Lancet адзначае, што патэнцыйна зменныя рызыкі можна зніжаць незалежна ад генетычнай схільнасці чалавека.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Паколькі ўзрост і гены маюць такое вялікае значэнне, многія людзі, у якіх няма ніводнага з 14 фактараў, усё роўна развіваюць дэменцыю. Гэта ні на кога не ўскладаецца віна.
 
-## What does the trial evidence say about changing these risks?
+## Што кажуць выпрабаванні пра змяненне гэтых рызык?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Звязаць фактар рызыкі з дэменцыяй — не тое самае, што даказаць, што яго змяненне зніжае рызыку дэменцыі. Некалькі прыкладаў таго, дзе стаяць доказы з выпрабаванняў:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Крывяны ціск.** У выпрабаванні SPRINT MIND ніжэйшая мэта па ціску істотна знізіла лёгкае кагнітыўнае парушэнне. Яна не знізіла істотна верагодную дэменцыю, хаця выпрабаванне магло быць занадта малым, каб гэта паказаць ([SPRINT MIND у JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Слыхавыя апараты.** Камісія Lancet апісвае трохгадовае выпрабаванне слыхавых апаратаў, якое не выявіла агульнага ўплыву на мысленне, але выявіла карысць у падгрупе людзей з вышэйшай рызыкай. Даследаванні, якія назіраюць за людзьмі на працягу часу, звязваюць карыстанне слыхавымі апаратамі з меншай рызыкай. Больш — у нашым [дапаможніку па слыху](/brain-health/hearing/).
+- **Фізічная актыўнасць.** Нацыянальны інстытут старэння кажа, што доказаў з клінічных выпрабаванняў недастаткова, каб зрабіць выснову, што фізкультура можа прадухіляць або запавольваць лёгкае кагнітыўнае парушэнне або хваробу Альцгеймера, хаця некаторыя даследаванні паказваюць, што яна можа дапамагаць пры звязаных з узростам зменах ([НІА пра прафілактыку хваробы Альцгеймера](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Доўгія выпрабаванні, якія чакаюць, пакуль развіецца дэменцыя, павольныя і дарагія, таму для многіх фактараў лепшыя доказы і далей будуць паступаць з даследаванняў, якія назіраюць за людзьмі на працягу гадоў. Гэтыя доказы карысныя, але яны слабейшыя за выпрабаванне.
 
-## What about sleep and diet?
+## А што наконт сну і харчавання?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Камісія разгледзела сон і харчаванне, але не дадала іх у спіс, бо доказы не былі дастаткова моцнымі або паслядоўнымі. Нашы дапаможнікі па [сне](/brain-health/sleep/) і [харчаванні](/brain-health/diet/) тлумачаць, што вядома.
 
-## Talk with a doctor
+## Пагаварыце з урачом
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Штогадовы агляд — добры час, каб узняць гэтыя тэмы. Можна ўзяць з сабой гэты спіс і спытаць:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Якія ў мяне лічбы ціску, цукру ў крыві і халестэрыну, і ці патрабуе якая-небудзь увагі?
+- Ці варта мне праверыць слых і зрок?
+- Ці бяспечная і дастатковая актыўнасць, якую я раблю?
+- Ці могуць некаторыя мае лекі ўплываць на памяць або мысленне?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Перад зменай лекаў, харчавання, посту, фізічных практыкаванняў або харчовых дабавак спачатку параіцеся з урачом. Калі ў вас або ў таго, пра каго вы клапоціцеся, з'явілася раптоўнае збянтэжанасць, слабасць з аднаго боку або праблемы з мовай, тэлефануйце ў хуткую дапамогу па нумары 103.

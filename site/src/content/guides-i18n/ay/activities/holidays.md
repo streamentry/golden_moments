@@ -1,33 +1,35 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Navidad ukat Año Nuevo: demencia uñjat jaqinakatakix lurañanaka"
+seoTitle: "Navidad ukat Año Nuevo lurañanaka demencia uñjatanakatakix"
+description: "Demencia uñjat jaqinakatakix sasa lurañanaka: manq'a lurañ, adorno, taqi uñt'añanaka ukat sum Navidad jan ukax Año Nuevo sarañataki amuyt'añanaka."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Fiesta urunakax juk'amp sasa, qhipürux uñtañ pacha ukat jaqin sapa uru
+  sarnaqañaparu sum sarañ. Jupar chiqpach ukat wali sasa lurañ churañamawa,
+  kunjamasa manq'a churañ, lurañ jan ukax adorno sayañ. Yatiyata taqi
+  yatiyata t'aqanaka ukat walja uñt'ayañanaka uñt'ayañamawa, jutirinakar
+  sum amuyt'añamawa, ukat ch'ulla sarnaqañ utaru ch'uqt'añamawa. Jumar
+  chiqpach lurañanakaru ch'amañchasiñamawa; juk'a, jan ch'iqhi fiesta sum
+  fiesta ukhamawa.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Qhipürux uñtañ pachan fiesta lurañamawa, kunjamasa almuerzo jan ukax desayuno, uñjatanakax qhipürux ch'iqhi sarnaqañ wakiskiwa."
+  - "Chiqpach lurañanaka churañamawa: manq'a churañ, uma q'ara wali sayañ, aykañ jan ukax postre churañ."
+  - "Yatiyata t'aqanaka, Navidad jach'a t'aqanaka ukat walja uñt'ayañanaka sasa mayt'añ thakinakawa."
+  - "Jutirinakaru yatiyañamawa, jupanakaru uñt'ayañamawa sapa jaqi jut'ata uñtasiñataki."
+  - "Ch'ulla sarnaqañ utaru manta jach'a ch'uqt'añamawa, uñt'ayañanaka jaqinaka sapa kuti ch'iqhiwa."
+  - "Jan sasa lurañanaka mayt'añamawa, janiw k'achhu uñjañanakaru ni wali k'achhu ch'iyar k'ankanakaru."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "¿Kunsa demencia uñjat jaqix Navidad uru lurañ puedi?"
+    a: "Jupar ch'ulla ukat sum lurañ churañamawa, jichhürunakan lurañ puedi ukar: uma q'ara wali sayañ, manq'a ch'aqhañ, manq'a churañ, servilleta t'aqhisiñ jan ukax postre plato churañ. Qhipharux, awkinakan uñt'añ photonaka uñtañamawa jan ukax taqi yatiyata t'aqanaka t'aqañamawa. Fiesta uru jakañan askinakapa, lurañan kunjamas tukuñapa uka janiw wakiskiti."
+  - q: "¿Jani jach'a familia tantachañ wakiskiti?"
+    a: "Sum puedi ukhax tantachañ. Walja jaqinaka ukat k'achhu jan ch'iqhi, ukhamaw walja familia qhipürux ukat ch'ulla tantachañ, jan ukax jutirinakax juk'ampinaka mantañ. Alzheimer's Association ukax wakiskiriwa ukhamaraki jupanakan puedi ukar sum lurañ jan jaqhachañataki."
+  - q: "¿Kunjamasa mayni familia, jan jutapxitu ukanakar, amuyt'añ?"
+    a: "Jutapxañ uru sañamawa, kuna uñjañanaka uñjapxañ ukanakan, ukanakax demencia nayrat uñtasiñ mayapxi, jan jaqi lurañat. Jupanakaru mayaña, jan chiqapar sarañ jan jan ukax jan uñjasiñ, sapa kuti parlañ, ukat parlañat mayt'añ."
+  - q: "¿Kunas Navidad uru demencia uñjat jaqinakatakix sum?"
+    a: "Ch'ulla, lurañ askinaka jichhüruw kusisiñataki: wali sum manq'a, ch'uxña kumbri jan ukax suwiyira, awki ukat familia uñt'ayañanaka. Jan k'achhu aparatonaka, jan ukax jaqinaka sum uñjañ jan ukax jaqhachañ jaqi uñt'ayañanaka jan lurañamawa. Jupanakaru irnaqañ, kunjamasa regalo wakhtañ jan ukax galletas wakhtañ, jupanakar ch'uqt'añ kuna regalo ukhamawa."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +42,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Fiesta urunakax qhipürux uñtañanakaw apt'ani, ukhamarak jaqhar jaqhunaka, k'achhu ukat uru sarnaqañanakan mayjt'awinakaw utjaspa. Demencia uñjat jaqitakix allin fiestanakax juk'amp sasa, juk'amp sum sarnaqañ ukat jupanakan puedi ukar lurañanakan sarnaqatawa. Aka yatiyatanakax Navidad, Año Nuevo, familiankir cumpleaños ukanakan sum irnaqapxi.
 
-## How do I plan a calmer holiday?
+## ¿Kunjamasa sum fiesta lurasma?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Jaqin sarnaqañapar qalltasma, uru lurañanakax ukar sarnaqañapat. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) ukax yatichañ: fiesta qhipürux uñtañ pachan lurañamawa, kunatix ch'iqhi ukat jan amuyt'añ qhipa uru ukat tuqi uru mayjt'awinakaw. Qhipürux almuerzo jan ukax desayuno, qhipa uru wali sasa mantañ sum.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Chiqpach tamaña lurañ.** Ch'ulla, jan k'achhu tantachañ jan ukax jutirinakax juk'ampinaka mantañ, walja jaqinaka mesa uñt'añat sasa.
+- **Irnaqañanaka churañ.** Jutirinakar mayt'añamawa: manq'a aptañ, uma q'ara lurañ jan ukax jaqi uñt'añ kuna lurañ wakisi uka.
+- **Adornonaka ch'ulla tukuñ.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) ukax yatichañ, k'ankanak ch'iqhi ch'uqt'asi, ukat dulce jan ukax fruta artificial uñjasa jan chiqpach mantañ uñjatäpxi.
+- **Kuna jan lurañ ukanakax jaytañ.** Sasa mayni yatiyata jan ukax uñt'ayañ jan wali sañ ukanakax jaytañ, ch'ulla ukat jan sasa uka lurañ ukanakax sum.
 
-## What holiday activities can we do together?
+## ¿Kuna fiesta lurañanakas tantachasa lurasma?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Jaqin puedi ukar lurañanaka ajllista, kunatix jichhüruw lurañ puedi ukanakaw. Jupan kuna lurañ tukuñapa ukat janiw wakiskiti, jupa fiesta uru sarañaw wakisi.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Mesa tantachasa churasma.** Qalltanx platonak, ukat servilletanak, ukat qalanak churasma. Servilleta t'aqhisiña tuqi ch'iqhi sarañ.
+2. **Uma q'ara ukat wali ch'uqt'asma.** Papa mayt'asa jan ukax ch'uyñu uma q'ara sañ uru, mesa uñjañ, walja jaqinakatakix sum ukat yatiri ukhamawa.
+3. **Ch'aqhañ, aptañ jan ukax plato churañ.** Arándano salsa ch'aqhañ, ch'ulla massa aptañ jan ukax galletas plato churañ, amparanakax k'achhu ukat cuchillu jiwasat sayt'asi.
+4. **Regalo wayt'añ.** Papel ukat cinta ch'uqt'asma, jaqi tuqinkaña ukat ch'amañchasiña. Wali wayt'añ janiw wakiskiti.
+5. **Juk'a adornonaka churañ.** Jan t'aq'asiñ ornamentonaka ukat juk'a sitio, sasa corona jan ukax juk'a aliso sarañ.
+6. **Ch'ulla manualanaka lurañ.** Papel cadenanaka, qhulla collage jan ukax estampillanakampi Navidad kartilla. Jilan [arts and crafts guide](/activities/arts-and-crafts/) ukanx walja yatiyatanakaw utji.
+7. **Taqi jan ukax t'aqañ.** Walja Navidad t'aqanaka sasa thakhinakaw, jaqi jan walja parlañ puedi ukhanakax mayt'añ puedi. Playlist lurañatakix [music guide](/activities/music/) ukar uñtasma.
+8. **Nayra fiesta uñt'ayañanaka uñjaña.** Mayjt'awinakar album apasma, ukat ist'añ mayt'asma ("Aka mesa ukat yatiyasiñamawa") janiw "Kuna jaqisa?" sasa. [reminiscence guide](/activities/reminiscence/) ukax kunjamasa lurañ yatichi.
+9. **Juk'a grupo juego lurañ.** [Picture bingo](/games/picture-bingo/) ukax minutonakan imprimirasiñ puedi, taqi jaqinakatakix sum, ukat [conversation cards](/games/conversation-cards/) ukax taqinakar parlañ yatiyatanakaw churi.
+10. **Chiqpach colorear.** Sasa [coloring pages](/games/coloring/) imprimisma, wawanakampi jilanakampi mesa uñjañataki.
+11. **Navidad uñt'ayaña kuna uñt'asma.** Walja uñt'ayañ jaqinakaru sum, jan taqi uñt'asiñ ukat sasa uñt'asma.
+12. **Juk'a sarañ luces uñtañataki.** Jan walja jaqi uñt'ayañ ukat jach'a adornonak uñjañ juk'a sarañ, ukax jan ch'iqhi ukat sum.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Jaqix sukat lurañanakan sarnaqatatäna ukhax, [household tasks as activities](/activities/household-tasks/) ukax cocina lurañ sum ukat sum amuyt'añ yatichi.
 
-## How do I prepare guests?
+## ¿Kunjamasa jutirinakar amuyasma?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Jutapxañ uru jutirinakar yatiyasma, jupanakax jan jutapkañ nayranakan. Alzheimer's Association ukax yatichañ: uñjañanakax jaqi lurañat jan ukax demencia nayrat utjatapa yatichañamawa.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Juk'a yatiyawinaka churasma:** sapa kuti parlasma, lurañ tukuñ pacha churasma, jan jan ukax jan uñjasiñ, jaqi parlañ jan wali ukhax uñt'asma.
+- **Kuna sum ukat kuna jan sum uk yatichasma.** Jan ist'añ ch'iqhi jan ukax jan utjaña uñjañanaka sarnaqañ jan wali ukhax, uk yatichasma.
+- **Jutirinakar qalltanx yatichasma.** Jutapxañ jaqinakan uñt'ayañanakap uñjasma, jan ukax juk'a telefono jan ukax video llamada qalltanx lurasma.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Jilan [communication tips](/caregiving/communication-tips/) ukax walja yatiyatanakaw utji.
 
-## What if it gets to be too much?
+## ¿Kunas jan ch'iqhi ukhax lurasma?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Qalltanx ch'uxña, jan walja jaqi utjañ, aka utanx sarnaqañ, awkinakan kumbri jan ukax suwiyira ukat ch'ulla juego ukhamaw utjañ. Sum sasa jaqhachasiñ jan utjañataki, jupa jaqi qalltat, jiwasan ist'añanakas mayt'añ.
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Mesa sarañ, nayra puraña jan ukax juk'a lurañ jaytañ, janiw jan askiti. Jaqi ch'iqhi ukhax, sum ist'añ, uñt'ayañ ukat juk'a sarañ jan ukax taqi amuyt'añat sum. Jilan [late-day restlessness](/caregiving/late-day-restlessness/) ukax qhipa uru ukanakan yatiyatanakaw utji.
 
-## How can family far away take part?
+## ¿Kunjamasa sayt'ata familia jutañapa?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Video llamada ukhamax jaqinakax tantachañ jan walja jaqi mantañ. Alzheimer's Association ukax yatichañ: llamada ukanakax sum sarañ, kunjamasa Navidad t'aqanaka t'aqañ, nayra fiesta uñt'ayañanaka uñtañ, jan ukax chiqpach mayni lurañ sum ukhamaw. Llamada juk'a ukat sapa kuti parlañ, sasa parlañ ukat ist'añ wakiskiti. Jilan [phone and video call guide](/activities/phone-and-video-calls/) ukax sasa yatiyatanakaw utji.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Jaqix residencia uñjañ jan ukax memory care utanx utjatäna ukhax, visita policy uñjasma ukat trabajadornakar yanapt'añ mayt'asma. [visiting someone in memory care](/activities/visiting/) ukax kuna apañ ukat kunjamasa sum sarañ yatichi.
 
-## What gifts suit someone with dementia?
+## ¿Kuna regalos demencia uñjat jaqinakatakix sum?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Ch'ulla, lurañ askinaka jichhüruw kusisiñataki sum: wali sum manq'a, ch'uxña kumbri jan ukax suwiyira, t'aqanaka, juk'a letra calendario ukat familia uñt'ayañ album. Alzheimer's Association ukax yatichañ: jan k'achhu herramientanaka, jan jaqhachañ aparatonaka ukat jan jaqhachañ juegonaka jan lurañamawa.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Regalo churañax jupanakar apañ kuna askiw. Jupa yanapt'ata galletas apañ jan ukax jupar regalo wayt'añ, jupa pacha tantachasiñataki sum. [photo pairs](/games/photo-pairs/) ukax familia uñt'ayañanakampi juego lurañ ukat jupanakar sum.
 
-## Look after yourself too
+## Jumapachas amuyt'asma
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Fiesta urunakax jaqi uñjañ lurañanakaw walt'ayi. Jutirinakar lurañ churasma, jan wali lurañanakar sisma, ukat jupanakax jaqi uñjasa jumaxa samar sartañ. Jumax jan allinkaspa jan ukax jaqi uñjata jan allinkaspa ukhax, jan jutasiñ jan ukax video llamada jupanakar uñjañaw sum. [caregiver self-care](/caregiving/caregiver-self-care/) ukax walja yanapt'awinakaw utji.

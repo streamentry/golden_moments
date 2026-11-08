@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Demencia uñt'at jaqi jan munasaw ukhamarak phiñasiw ukax"
+seoTitle: "Demencia uñt'at jaqi jan munasaw ukax"
+description: "Demencia uñt'at jaqi kunatsa jan munasaw jan ukax phiñasiw utjaspa, kunsa yatiyaña, kunsa uñjaña, ukat kunapachas doctor sarañapataki."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Demencia uñt'at jaqi jan sañamp, jan ukax "janiw" sañamp, chiqpachaw
+  jisktasiñ: wali sapa ukham uñjañamawa, ukat qhipa pachan jan ukax yaqha
+  luräwi uñjañamawa. Jan jark'añamp, jan ukax jan munaskakiñamp. Lurawi
+  sasinak p'iqinchaña, paqallqu ajlliñ uñjañamawa, jan ukax yanapt'añamp
+  mayt'añamawa. Chiqpach suma jan ukax jaqichasiw kunapachas askichañ, mayjt'a
+  jan ukax machaq ampara luräwinakampi, doctor chiqapar uñjañ munaskiwa.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Jan sañax jupan yatiñapa ukax respetañawa, janiw jark'añ luräwiki."
+  - "Jan munasiñax yaqha chiqat utjaski: wali jark'aki, wawanakjam sasa, qarjatäki, jan wali sasa, jan ukax jiwasa jukhutäki."
+  - "Jisk'achañ, suytañ, jan ukax qhipa pachan yaqha ukhamarakiw uñjañ, jan ukax sasinakaw luraña."
+  - "Yanapt'añ mayt'añat sipansa, jupanakan yanapaw askiwa."
+  - "Jan jark'añ, jan munaskañ, jan yatiyañ, jan kunanakas amuyañ. Jumax jank'akiñ jan ukax jaqichañ uñjañamawa."
+  - "Chiqpach jan ukax machaq ampara luräwinaka, jan ukax machaq ampara ukax, doctor sarañapawa."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "¿Walikiñax jupanakax lurañanakas jan lurañapataki?"
+    a: "Ov, uru sapaki. Chikaru qhuñusiña, taqi kuna sarañ uñjaña jan ukax sataña ukax wali. Sapa sapa jaqi kunanakas jan munasiñ phuqañ munaski ukhaxa, doctor uñjañapawa, kunatixa qarjatäki, jan wali sasa ukax yaqha ampara sasinakax jikxatañapataki."
+  - q: "¿Kunatsa jan munasiñ wali munat luräwinakat?"
+    a: "Mayjt'a luräwiw jan ukax wali ch'uxñaski, demencia ukax jan ukax yatiñanakax jaktañ uñjañapataki, jupax jan ukax ch'axwañ utjaspa. Mayjt'añ sasinak luraña, dibujo ukat uñjañ, jan ukax p'iqinchiri qhuñusiña."
+  - q: "¿Jupanakar yatiyañamp?"
+    a: "Janiw. Demencia uñt'at jaqi jan luraña ukar yatiyañax phiñasiñ jark'aruwa. Jan munasiñ ukar sayt'añamawa, tuqitaki ch'axwañ uñjaña, jan ukax qhipa pacha yaqha thakiw mayjt'aña."
+  - q: "¿Kunapachas sasin uñjañamp jan ukax chiqapar yanapt'añ?"
+    a: "Peligro utjaspa jan ukax suma jan waltañ ukax, emergencia numerom jawsañamawa. Muspharañ ukat kunapachas pacha jan ukax sapa uru machaq uñjasa, kunapachas fiebre, infeccion jan ukax machaq ampara uñjasa, doctor chiqapar jawsañamawa."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,86 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Ukhamawa, taqi kuna amtañanak lurasa, jan ukax paseo jan ukax luräwi, "Janiw" sasaw ist'ta. Jan ukax luräwi qalltasaw, jupa phiñasaw jan ukax qharuta ch'iqhi jan ukax ch'axwatw tukuyi. Jan kuna, jan ukax llakisiñ sasaw utji, ukax wali sapakiw. Jan munasiñ ukax jaqi yatiyasiñawa, janiw lurawi kuna lurañapawa. Kunanaks yatiñ ukax khitin jupanakan lurañapa amuyañ yanapaspawa.
 
-## Why does someone with dementia refuse activities?
+## ¿Kunatsa demencia uñt'at jaqi jan luraña munkiti?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Ukax jupanakan yatiñapa, jan ukax chiqapar sasa, jan ukax utjaspa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sasaw uñacht'ayi: jan munasiña ukax jaqi jan luraña jan ukax mantañ ch'axwañ utjaspa. Kunanaks utji:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Wali jark'aki.** Luräwi ukax demencia jark'achi yatiñanakaw munaski, ukat jaqi pä jani ukax p'iqinchi.
+- **Wawanakjam sasa.** Jaqinakax dibujo jan ukax sataña wawanakjam uñjaski, jan ukax wawanakatakiw luräwinaka.
+- **Qhuñusiña.** Jaqinakax qhipa pachan jisk'a kallpa utji. Uñjañ: [qhipa pachan jisk'a luräwinaka](/caregiving/late-day-restlessness/).
+- **Janchi jan walt'äwi.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) sasaw: janchi, jan suytaña, jan uñjaña jan ukax jan ist'aña, ch'amañ, uma jan ukax machaq ampara lurawinak phiñasiñ utjaspa.
+- **Qhuñusiña luräwinaka.** Jank'aki ukax, qhiri jaqinaka jan ukax jupa qhuñusiñawa.
+- **Jan kusisiña.** Mayjt'añ, wali chiqpach jan kusisiñax doctor yatiyañawa, kunatixa depresión utjaspa.
+- **Jupanakax jan munapxiwa.** Jaqinakax "janiw" sañ munañapawa.
 
-## What should I try when they say no?
+## ¿Kunanak lurañ janiw sañ ist'aspa?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Jan sañ suma ist'a, ukat khitin jaqi sapa mayjt'a: pacha, luräwi, wali jark'aki jan ukax kunjamarak mayt'asa.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Jupa sapa phuqaña.** "Jan waltaspa. Qhipat sañani." Ukatw yaqha luräwiw sarañ.
+2. **Qhipa pachan yaqha.** Alzheimer's Association sasaw qhipa pachan jan ukax uru yaqha pachan yantasa.
+3. **Jisk'achañ.** Jisk'a amtañ, wali jisk'a lurañ. Jisk'a uñjañanaka, jisk'a ajllañanaka.
+4. **Paqallqu ajlliñanaka.** "¿Aka aywanak uñjañ jan ukax taqi kunaw ist'añ?" Ajlliña ukax jaqi yatiñ sapa ch'amañanakaw utji.
+5. **Yanapt'añ mayt'añ.** "¿Jumax yanapäta?" jan ukax "¿Khitin colorax suma?" Yanapt'añ wali kusisiñawa, jan ukax jank'aki.
+6. **Jupa qalltaña.** Jupan wali jupanakan q'uchuna qalltañ, jan mayt'asa. Yaqhipanakax luräwi ch'iqhiwa jan ukax uñjañ sarañapa.
+7. **Yaqha sasin luraña.** Jisk'a sarañ, ist'añ, manq'a jan ukax ropa qhuñuña, jan ukax [suytañ](/games/calm-breathing/). NIA sasaw: ist'añ, lupi jan ukax sarañ.
+8. **Jupanakan thakip luraña.** Jupanak jan ukax jupanakan thakip luraña ukax askiwa. Alzheimer's Association sasaw wali mayjt'añ.
 
-## What should I say when they get frustrated?
+## ¿Kunsa sañ phiñasiñ?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Jisk'achasa, jaqichasa, sañamp. [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) sasaw: sayt'aña, jan ukax mayt'añ, jan ukax suma sasinakampi, jan ukax paqallqu ajlliñampi. Ukanakax:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Walikiw, aka luräwi jan askiwa. Sayt'añani."
+- "Walikiw sapxäta. Nayax sarakistwa."
+- "¿Yanapt'añ munäta, yaqha luräwinakan?"
+- "¿Juk'ampi tea umaña munäta?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Ukat luräwi tukuyañ, janiw wali jach'a lurañ. [Communication tips](/caregiving/communication-tips/) ukax yaqhipa sasinak yatiyi.
 
-## What should I avoid?
+## ¿Kunanak jan lurañ?
 
-Some natural reactions tend to make things worse.
+Yaqha luräwinakax jan askiwa.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Jark'aña jan ukax mayt'aña.** "Jaysa, jisk'a mayni" jan ukax "Ukax munasmawa" sasaw janiw yanapkiti.
+- **Yatiyaña jan ukax chiqachaña.** "Ukax kunawa, ¿yatiskätati?" jan ukax "Janiw, ukax jan chiqapaw" sasaw phiñasiñ yapuchi.
+- **Jupar jan amuyañ.** NIA sasaw: suytañax demencia lurañawa, janiw jaqin lurañapa.
+- **Ch'axwañ jan ukax jank'añ.** Alzheimer's Association sasaw: jan jach'ar sañ, jan jisk'achasa, jan jaqir sayt'añ, jan jaqir jark'añ.
+- **Ch'iqhiñ.** "Nayax aka taqi luräwi lurasktwa" sasaw jupanakan jan walt'ayi.
+- **Jisk'achañ.** "Jan ukax jupax jan yatiyiti" sasaw yanapt'añ jan ukax jaqichañ.
 
-## How can I find out what is behind repeated refusals?
+## ¿Kunsa jan munasiñ ukax jikxatañ?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Pä jan ukax kimsa phajsi qillqatañ. NIA sasaw: qillqatañax jaqinakan thakip jikxatañ ukat jiwasa yatiñ sayt'añ.
 
-Jot down:
+Qillqañ:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- uru pacha;
+- kunsa mayt'ta ukat kunjamarak mayt'ta;
+- kunsa muspharañ (jark'a, jaqinaka, TV);
+- kunjamarak jamasi, manq'asi, umasi ukat kunapachas jan ukax p'iqinchi;
+- machaq ampara jan ukax jan walt'äwi.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Ukanakax wali chiqapar jikxatañ: jan munasiñ 4 p.m. qhipat, jan ukax jaqi luräwi jan ukax TV utjkipan. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sasaw: janiw jupa jaqi mayjt'añax, ukampis jiwasan lurawinakasa jan ukax muspharañas mayjt'añ.
 
-## When should I talk to a doctor about refusal or frustration?
+## ¿Kunapachas doctor sarañ jan munasiñ ukat phiñasiñ?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Chiqpach doctor sarañ, pacha ukax wali mayjt'asa, jan ukax jan walt'äwinakampi utjaspa. NIA sasaw: chiqpach mayjt'asa, machaq ampara infeccion jan ukax machaq ampara ch'amañanak ukat, doctor yatiyañapawa.
 
-Contact their doctor promptly if you notice:
+Doctor sarañ mayt'añ, jumax uñjasa:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- chiqpach phuqhasiña jan ukax wali mayjt'äwi uru jan ukax pachanakan;
+- llakisiñ jan ukax jan q'añu jan ukax mayni ch'ina jan ukax ch'amañ;
+- fiebre jan ukax infeccion uñjañanaka;
+- machaq ampara jan ukax mayjt'ata ch'amañanak, ukat luräwi mayjt'asa;
+- taqi kuna jan kusisiña, llakisiña jan ukax jaqinakat jaytasiña, marka kimsa phajsit sipansa;
+- manq'a jan ukax uma jan umaña.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association sasaw: jan walt'äwi jaqinakax, wali chiqapar jan ukax chiqpachaw doctor uñjañapa. Family Caregiver Alliance sasaw: doctor yatiyañamawa, jan ukax jan walt'äwi ukax janchi jan walt'äwiw jikxatañ. Janiw ch'amañ mayjt'añamp, jan ukax doctor jan ukax farmaceutico yatiyañ janïr.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Peligro utjaspa jan ukax emergencia numerom jawsañamawa. NIA sasaw: emergencia numerom jawsasa, jupa demencia uñt'aspa sañamawa.
 
-## Is it okay if we do nothing at all?
+## ¿Janiw kunas lurañ ukax askiwa?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Jisk'a ukax askiwa. Yaqhipa uruw wali luräwi janiw lurañ: chikaru qhuñusiña, amparanakampi sayt'añ, kusisiñ ist'añ jan ukax jaqsu uñjañ. Ukax janiw jan waltañ. [Guide to playing together](/caregiving/how-to-play-together/) ukax yatiyi, kunapachas jisk'a mayt'añ jan ukax janiw qalltañ askiwa.
