@@ -153,7 +153,6 @@ Chinese and Arabic; and under-indexed in French, Spanish and Portuguese, where
 searchers type *Alzheimer*. Keep *Golden Moments* as the device label and lead
 the local subtitle and keywords with the local Alzheimer or activities phrase.
 
-<!-- cspell:enable -->
 ## 6. Website search and link tiers (decided 2026-11-08)
 
 The website is one domain, so links to any language's pages build authority for
@@ -190,6 +189,7 @@ Rules:
 - **Outside the US,** localized store listings bring installs more directly than
   the website; treat non-English pages as support for those listings.
 
+<!-- cspell:enable -->
 ## 7. Not verified
 
 Per-country App Store revenue ranks beyond the US and China; Alzheimer Europe
