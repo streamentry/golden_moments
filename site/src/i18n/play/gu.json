@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "મોટેથી વાંચો",
+      "stopReading": "વાંચન બંધ કરો",
       "region": "રમત",
       "restart": "ફરી શરૂ કરો",
       "soundOn": "હળવા અવાજ ચાલુ",

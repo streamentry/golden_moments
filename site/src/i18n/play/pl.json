@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Czytaj na głos",
+      "stopReading": "Zatrzymaj czytanie",
       "region": "Gra",
       "restart": "Zacznij od nowa",
       "soundOn": "Ciche dźwięki włączone",

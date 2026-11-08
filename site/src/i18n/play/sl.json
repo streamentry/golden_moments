@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Preberi na glas",
+      "stopReading": "Ustavi branje",
       "region": "Igra",
       "restart": "Začni znova",
       "soundOn": "Tihi zvoki vklopljeni",

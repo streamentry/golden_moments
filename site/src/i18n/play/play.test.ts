@@ -137,7 +137,8 @@ describe('component text keys', () => {
   it('every ui string in en.json is used by a component', () => {
     const used = [...usedPaths('ui')];
     const unused = leaves(en.ui).filter((leaf) => !used.some((u) => leaf === u || leaf.startsWith(`${u}.`)));
-    expect(unused).toEqual([]);
+    // Joined so a failure names the unused keys.
+    expect(unused.join(', ')).toBe('');
   });
 
   it('every content key a component reads exists in en.json', () => {

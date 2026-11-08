@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Sagalee olfaan dubbisi",
+      "stopReading": "Dubbisuu dhaabi",
       "region": "Taphaa",
       "restart": "Irra deebi’aa jalqabaa",
       "soundOn": "Sagaleen laafaan banameera",

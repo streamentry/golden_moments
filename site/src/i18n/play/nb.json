@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Les høyt",
+      "stopReading": "Stopp opplesing",
       "region": "Spill",
       "restart": "Start igjen",
       "soundOn": "Myke lyder på",

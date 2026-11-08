@@ -1,6 +1,8 @@
 {
   "ui": {
     "frame": {
+      "readAloud": "Citește cu voce tare",
+      "stopReading": "Oprește citirea",
       "region": "Joc",
       "restart": "Începeți din nou",
       "soundOn": "Sunete line activate",
