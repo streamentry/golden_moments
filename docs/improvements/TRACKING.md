@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 27 / 100 completed**
+**Progress: 28 / 100 completed**
 
 ---
 
@@ -37,6 +37,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 25 | 2026-11-08 | `869ce46` | Gallery Vestibular Tilt Suppression, Picture Card Contrast Framing & FAQ Accordion Focus Architecture | Musa et al. (2023) Touchscreen Guidelines, AbilityNet (2025), WCAG 2.3.3 & WCAG 2.4.7: Neutralized playful rotation tilts (`rotate(-1.5deg)`, etc.) under `prefers-reduced-motion: reduce` (`transform: none !important;`) on `/pictures/` to protect users with vestibular sensitivity; reinforced `.pic-print` drawing cards with 2px solid `#000000` / system `CanvasText` and hover focus outlines; framed `.pic-jump a` category pills with `ButtonText` and `Highlight` focus outlines in Windows Forced Colors; added dedicated `:focus-visible` ring (3px primary, 4px offset) to FAQ accordion toggle (`.faq summary`); reinforced the `+` / `−` expansion state circle (`.faq summary::after`) with 3px solid black in high-contrast mode and system `CanvasText` in forced-colors mode. | Web Pages & Components (`pictures/index.astro`, `components.css`) | Done |
 | 26 | 2026-11-08 | `193dc28` | Translation Notice Architecture, English Preference Persistence & Brand Mark High-Contrast Framing | Alzheimer's Australia Vic (2015), ISO 21801-1, W3C COGA Obj 1 & 4: Established dedicated responsive architecture for the machine-translation notice (`.mt-notice`) with clean typographic scale (`var(--text-sm)`), accessible link styling, and high-contrast / forced-colors adaptations; attached preference persistence hook in `LanguageChoice.astro` to `.mt-notice a[hreflang]` so tapping "Read the original in English" saves the reader's English cookie and avoids repeated redirects; added print suppression (`display: none !important;` on `.mt-notice`) preventing digital translation notices from cluttering paper printouts; reinforced brand emblem (`.brand__mark`) in forced colors (`forced-color-adjust: none; border: 1px solid CanvasText;`) and high contrast (2px black) with tailored `:focus-visible` ring. | Web Architecture & Header (`LanguageChoice.astro`, `components.css`) | Done |
 | 27 | 2026-11-08 | `889ef53` | Interactive Card Focus Architecture, Quotable Answer Bar Contrast & Small Print Touch Target Guidance | W3C COGA Obj 1 & 4, ISO 21801-1, WCAG 2.4.7: Added `.card:has(.card__link:focus-visible)` with 3px primary outline and 4px offset (4px solid black in high contrast; 3px Highlight in forced colors) while suppressing redundant inner heading outlines, framing entire interactive card surfaces in `GameCard` and `GuideCard`; reinforced `.card__more` action link text in high-contrast (`#000000`, font-weight 800) and forced colors (`LinkText`); elevated `.answer::before` quotation accent bar to solid black (`#000000`) and system `Highlight` (with `forced-color-adjust: none;`) to prevent accent washout; elevated `.answer__label` to `#000000` font-weight 800; added shape-conforming `:focus-visible` ring on standalone `a.small-print` links; suppressed background radial gradients on `.cta-band` in high contrast mode with solid `#FFFFFF` for glare-free readability. | Web Cards & Prose (`components.css`) | Done |
+| 28 | 2026-11-08 | `c4bfe68` | Library Back Path Guard (Test) | Alzheimer's Society checklist 2.1 and 2.2 (read through the view-only sheet summary) and DESIGN.md "keep Back visible": a code trace found no library screen that hides Back or blocks pop (no `automaticallyImplyLeading: false`, no `canPop: false`). Added `back_path_test.dart`, which checks that the category list, pack page and picture game each show one Back control of at least 48 px and that tapping it returns. Verified by hiding Back on the game page: the test fails. No user-facing change; a device check of the back path (backlog G6) is still pending. | App tests (`test/features/legacy_library/`) | Done |
 
 ---
 
@@ -44,5 +45,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 28 | *Next in queue* | Pending |
-| 29–100 | Planned one by one | Pending |
+| 29 | *Next in queue* | Pending |
+| 30–100 | Planned one by one | Pending |
