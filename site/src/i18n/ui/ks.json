@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "اہم موادس کُن وژھِو",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "ڈیمینشیاہس سۭتہِ زندگی گزارن والؠن خٲطرٕ سرگرمِیہِ",
+    "homeLabel": "Golden Moments ہوم پیج",
+    "mainNav": "اہم مینوٗ",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "كشميري",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: چائے کِس پیالس، آفتاب گرٛد پھولس تہٕ کُنٛدلس ہٕنٛز بٔڑؠ تہٕ دوستانہٕ تصویرٕ",
+    "languages": "زبان",
+    "englishOnly": "(اَنٛگریٖزی)",
+    "machineTranslated": "یہِ صفحہٕ چھُ خودبخود ترجمہٕ کرنہٕ آمُت تہٕ کانٛہہ کٲشُر بولن وٲلس چھُنہٕ یہِ وُنہِ جانچ کٔرمٕژ۔",
+    "readOriginal": "اصلی مواد اَنٛگریٖزیس منٛز پَرِو",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "گیمہٕ",
+      "activities": "سرگرمِیہِ",
+      "caregiving": "دیکھ بھال",
+      "brainHealth": "دماغی صحت"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "سوالات تہٕ جوابات",
+    "breadcrumb": "نیویگیشن ٹریک",
+    "home": "ہوم",
+    "lastUpdated": "آخری بار تازٕ کٔرمُت",
+    "topics": "موضوعات",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "متنُک سایز",
+      "smaller": "عام متن",
+      "larger": "بوٚڑ متن",
+      "contrast": "زیٛادٕ کنٹراسٹ"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "گِنٛدِو",
+    "picturePairs": "تصویرن ہٕنٛدؠ جوڈٕ",
+    "conversationCards": "کتھ باتھ کارڈ",
+    "pictureBingo": "تصویر بنٛگو",
+    "allGames": "سٲری گیمہٕ",
+    "pictures": "چھاپنہٕ خٲطرٕ تصویرٕ",
+    "activityIdeas": "سرگرمی ہٕنٛدؠ خَیالات",
+    "ideas101": "101 سرگرمی ہٕنٛدؠ خَیالات",
+    "lateStage": "پتھمی مرحلس خٲطرٕ سرگرمِیہِ",
+    "printable": "پرنٹ کرن یوٚگ سرگرمِیہِ",
+    "allActivities": "سٲری سرگرمِیہِ",
+    "forCaregivers": "نگہداشت کرن والؠن خٲطرٕ",
+    "playTogether": "رٔلؠ مِلؠ کیٚنٛہہ گِنٛدنُک طریقہٕ",
+    "selfCare": "پَنُن خیال تھاوُن",
+    "brainHealth": "دماغی صحت متعلق تحقیق",
+    "faq": "سوالات تہٕ جوابات",
+    "about": "اسہِ متعلق",
+    "approach": "سأنؠ سوچ",
+    "howWeWrite": "عسؠ کِتھ کَنہِ چھِ لیکھان",
+    "organizations": "تنظیٖمن خٲطرٕ",
+    "app": "Golden Moments ایپ",
+    "appHelp": "ایپ خٲطرٕ مدد",
+    "support": "مدد تہٕ رہنُمٲیی",
+    "legal": "قانونی معلوٗمات",
+    "sitePrivacy": "ویب سائٹ رازدارٕ",
+    "appPrivacy": "ایپ رازدارٕ پالیسی",
+    "privacyChoices": "رازدارٕ چونکؠ اِختیارات",
+    "terms": "شرائط تہٕ ایپ لائسنس",
+    "safety": "حفاظت تہٕ مقصود اِستعمال",
+    "accessibility": "رسائی",
+    "healthNotice": "طبی معلوٗماتُک نوٹس",
+    "allLegal": "سٲری قانونی معلوٗمات",
+    "note": "Golden Moments چھُ خۄشی حٲصل کرنہٕ خٲطرٕ سادٕ رٔلؠ مِلؠ کرن والؠن سرگرمی ہُنٛد اِنتظام کران۔ یہِ چُھنہٕ کانٛہہ ڈاکٹری مشوَرٕ، ٹیسٹ یا علاج، تہٕ نہ چھُ یہِ کانٛہہ تشخیص کران یا نمبر دِوان۔ صحت کین سوالن خٲطرٕ کٔرِو ڈاکٹرس سۭتہِ کتھ۔ ہنگامی صورتحالس منٛز کٔرِو 112 یس پؠٹھ فون۔",
+    "publisher": "شایع کران چھِ Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "ڈیمینشیا تہٕ الزائمرس سۭتہِ زندگی گزارن والؠن خٲطرٕ گیمہٕ تہٕ سرگرمِیہِ | Golden Moments",
+    "description": "ڈیمینشیا یا الزائمرس سۭتہِ زندگی گزارن والؠن تہٕ تِہنٛزن نگہداشت کرن والؠن خٲطرٕ مُفت، نرم تصویرٕ والی آن لائن گیمہٕ تہٕ سرگرمِین ہٕنٛدؠ خَیالات۔ نہ کانٛہہ سائن اَپ، نہ وقتٕچ پابندی، نہ نمبر۔",
+    "eyebrow": "مُفت · کانہہ اِشتہار نہٕ · کانہہ سائن اَپ نہٕ · نہ ٹائمر نہ سکور",
+    "h1": "ڈیمینشیا سۭتہِ زندگی گزارن والؠن خٲطرٕ نرم گیمہٕ تہٕ سرگرمِیہِ",
+    "lede": "سادٕ تصویرن ہٕنٛز گیمہٕ، زاننہٕ آمٕژ تصویرٕ، تہٕ پننِس رؠواجس مطٲبق سۭتہِ لُطف اَنٛدوز گژھنہٕ خٲطرٕ سرگرمِیہِ۔",
+    "playGame": "گیم گِنٛدِو",
+    "findIdeas": "سرگرمی ہٕنٛدؠ خَیالات ژھانٛڈِو",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "فون، ٹیبلٹ تہٕ کمپیوٹرس پؠٹھ چلان چھُ",
+      "بٔڑؠ تصویرٕ یِم سکرین پؠٹھ برٛونٛہہ کُن روزان چھِ",
+      "کانٛہہ تہِ وقتہٕ رُکِو؛ ہارنُک کانٛہہ ڈر چھُنہٕ"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "iPhone، iPad تہٕ Android خٲطرٕ تہِ چُھ اَکھ مُفت ایپ، پَننؠن خاندانی تصویرن سۭتہِ",
+    "albumNote": "«چائے کِس پیالس ہٕنٛزٕ زٕ تصویرٕ، سۭتہِ۔»",
+    "gamesEyebrow": "پننِس براؤزرس منٛز گِنٛدِو",
+    "gamesTitle": "گیمہٕ یِم توٚہہِ وۄنکیٚنس گِنٛدِتھ ہیٚکِو",
+    "gamesLede": "پرؠتھ اَکھ گیم چھےٚ پُرسکون، بالغن لائق تہٕ جلدی شُروٗع گژھن واجین۔ کانہہ اَکھ ژارِو، سۭتہِ بہِو، تہٕ واری وار ٹَیپ کٔرِو۔",
+    "seeAllGames": "سٲری {count} گیمہٕ وُچھِو",
+    "howTitle": "یہِ کِتھ کَنہِ چھُ کٲم کران",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "کانٛہہ زاننہٕ آمٕژ چیز ژارِو",
+        "text": "چائے کؠن پیالن، باغاتن، پالتو جانورن تہٕ ناون ہٕنٛزٕ تصویرٕ۔ نہ کانٛہہ پرَھنُک ضرورت تہٕ نہ اصول رٹنہٕ ہِنٛز۔"
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "سۭتہِ سۭتہِ بہِو",
+        "text": "تِمن کرنہٕ دِیِو ٹیپ۔ تصویرن پؠٹھ کٔرِو کتھ باتھ۔ اَگر جوڈٕ نہ مِلی، گیم چھےٚ دۆیمہِ ٹیپُک اِنتظار کران۔"
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "یوٚتتھ تام مزٕ یِیہِ، توٚتتھ تام گِنٛدِو",
+        "text": "اَکھ گیم چھےٚ پانے اَکھ پوٗرٕ سرگرمی۔ سکرین پؠٹھ چھُ ہمیشہٕ «ازس خٲطرٕ بس» موٗجوٗد آسان۔"
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "سکرین نش علاوہ",
+    "stageTitle": "پرؠتھ مرحلس خٲطرٕ سرگرمی ہٕنٛدؠ خَیالات",
+    "stageLede": "موٗسیٖقی، روٗزمرہٕ کؠن کاپن، پُرانی یادٕ تہٕ پُرسکون حِسی لمحہٕ، یِم وۄنکیٚنکِس اِطمینانس مطٲبق ترتیب دِنہٕ آمٕتؠ چھِ۔",
+    "ideas101": "101 سرگرمی ہٕنٛدؠ خَیالات",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "گوڈنُک مرحلہٕ",
+        "text": "تِم کامہِ جٲری تھاوِو یِم تِمن پَسند چھِ، لوکٹن بدلن سۭتہِ: مشغلہٕ، نیبر نؠرُن، لفظن ہٕنٛزٕ گیمہٕ تہٕ رٔلؠ مِلؠ منصوبہٕ بنٲوُن۔",
+        "label": "گوڈنکس مرحلس خٲطرٕ خَیالات"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "منٛزمُت مرحلہٕ",
+        "text": "سادٕ تہٕ مانوٗس کامہِ یِم مختلف حصن منٛز تقسیم آسَن: کپڑٕ وٹُن، ترتیٖب دِیُن، موٗسیٖقی، تصویرن ہٕنٛزٕ گیمہٕ تہٕ لۄکٹی چکر۔",
+        "label": "منٛزمس مرحلس خٲطرٕ خَیالات"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "پتھمُت مرحلہٕ",
+        "text": "چھوہنہٕ، بوٗزنہٕ تہٕ وُچھنہٕ کہِ ذریعہٕ سکوٗن تہٕ رٲبطہٕ: اتھن ہٕنٛز دیکھ بھال، پسندیدہ بٲتھ، تصویرٕ تہٕ سۭتہِ روزُن۔",
+        "label": "پتھمس مرحلس خٲطرٕ خَیالات"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "کانٛہہ خاص چیز ژھانٛڈان چھِوا؟ وُچھِو <a href=\"/activities/alzheimers/\">الزائمرس خٲطرٕ سرگرمِیہِ تہٕ گیمہٕ</a>، <a href=\"/activities/memory-games/\">آرام دہ یاداشتچ گیمہٕ</a>، <a href=\"/activities/trivia/\">سادٕ سوالات</a> یا <a href=\"/activities/puzzles/\">پزل</a>۔",
+    "approachEyebrow": "سأنؠ سوچ",
+    "approachTitle": "رٔلؠ مِلؠ اَکھ سرگرمی، نہ کہِ یاداشتُک امتحان",
+    "approachLede": "واریاہ «دماغی گیمہٕ» چھِ تیزی، سکور تہٕ تسلسلس پؠٹھ مبنی آسان۔ ڈیمینشیاہس سۭتہِ زندگی گزارن والؠن ہِیکہِ یہِ اَکھ امتحان ہِیوٚ لاگِتھ۔ عسؠ بنٲو اَمیک بلکُل اُلٹ۔",
+    "approachLink": "عسؠ کیازِ چھِ اَتھ اَتھ اندازس منٛز ڈیزائن کران",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "ناکام گژھنُک کانہہ ڈر نہٕ",
+        "text": "نہ کانہہ گھڑی، نہ سکور، نہ زِندگی تہٕ نہ ہار۔ مُختلف تصویر چھِ محض اَکھ رُکاو، کانٛہہ غلطی نہٕ۔"
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "تصویرٕ چھِ سکرین پؠٹھ برٛونٛہہ کُن روزان",
+        "text": "یاد کرنہٕ کھۄتہٕ زانُن چھُ اَہَم۔ جوڈٕ رلاوُن چھُ تصویرن ہٕنٛزٕ وُچھنہٕ سۭتہِ شروٗع گژھان، لہٰذا کینٛہہ یاد تھاونٕچ ضرورت چھےٚ نہٕ۔"
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "بالغن ہِنٛدِ وقار مطٲبق",
+        "text": "شائستہ، سادٕ اَلفاظ تہٕ اصل دُنیاہچ تصویرٕ۔ کٔڑہن تہِ کارٹون یا شُرؠن ہِش کتھ باتھ نہٕ۔"
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "رازدارٕ ہُنٛد خاص خیال",
+        "text": "نہ کانہہ کھاتہٕ تہٕ نہ اِشتہار۔ تُہنٛزٕ تصویرٕ نؠرَن نہ کٔڑہن تہِ تُہنٛدِ آلہٕ منٛزٕ نیبر۔"
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "نگہداشت کرن والؠن خٲطرٕ",
+    "guidesTitle": "روٗزمرہ دیکھ بھال خٲطرٕ عملی رہنُمٲیی",
+    "allCaregiving": "دیکھ بھال ہٕنٛزٕ سٲری رہنُمٲیی گائیڈز",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "رٔلؠ مِلؠ گیمہٕ کِتھ کَنہِ گِنٛدٕو",
+        "text": "تیاری، رفتار، تہٕ سُہ وقت ییلہِ گیم مزٕ دِیُن بنٛد کرِ، تیلہِ کیا کرُن۔"
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "ییلہِ تِم کُنہِ سرگرمی کُن نہٕ ونَن",
+        "text": "انکار کرنٕک عام وجوہات، تہٕ پتہٕ شائستگی سۭتہِ دوبارٕ کوٗشش کرنُک طریقہٕ۔"
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "ٹیبلٹ کِتھ کَنہِ تیار کٔرِو",
+        "text": "بوٚڑ متن، کم خلل تہٕ اَکھ سادٕ ہوم سکرین۔"
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "مُفت پرنٹ کرن لائق سرگرمِیہِ",
+        "text": "بٔڑس متن کؠن لفظن ہٕنٛز تلاش، رَنٛگ بھَرن کؠ صفحہٕ، بنٛگو تہٕ کتھ باتھ کارڈ۔"
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "دماغی صحت: تحقیق اصلس منٛز کیا چھےٚ ونان",
+    "researchText": "کیا ڈیمینشیاہس نش بچُن مُمکن چُھ؟ کیا دماغی گیمہٕ مددگار ثابت گژھان چھےٚ؟ فاقہٕ، خوراک، نِندر تہٕ بوٗزن کِس اثرس متعلق کیا خبر چھےٚ؟ اصل حوالن سۭتہِ سادٕ جوابات، یمن منٛز یہِ تہِ شٲمل چھُ زِ کمجایَن ثبوٗت کمزور چھِ۔",
+    "researchLink": "تحقیقی مواد پَرِو",
+    "appEyebrow": "ایپ تہِ چھےٚ دستیاب",
+    "appTitle": "iPhone، iPad تہٕ Android پؠٹھ Golden Moments",
+    "appText": "مُفت ایپ چھےٚ اِنٹرنیٹ بغیر چلان تہٕ تُہنٛدِ پسندیدہ خاندانی تصویرن سۭتہِ کٲم کٔرِتھ ہؠکان چھےٚ، یِم تُہنٛدس آلس منٛز بطور کاپی محفوٗظ روزان چھِ۔ ہیوی پُرسکون ڈیزائن: ژور بٔڑؠ ٹائل، نہ کانہہ ٹائمر، نہ سکور۔",
+    "aboutApp": "ایپ کِس بارس منٛز",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "ڈیمینشیاہس سۭتہِ زندگی گزارن والؠن خٲطرٕ کم گیمہٕ چھےٚ جان؟",
+        "a": "جانہِ گێمہِ چھِ سَہل، زانہِ-پانہِ تہٕ کُنہِ دباوَ ورٲے آسان: رَلٲوِتھ جوڈٕ بنٛاونہٕ خٲطرٕ بٔڈؠ تصویٖر، تَرتیٖب دِیُن، آسان جِگسا، مشہوٗر کہاوژَن پوٗرٕ کَرُن، رَنٛگ بَرُن، تصویٖر بِنٛگو تہٕ کَتھ باتھ کَرنٕکۍ کارڈ۔ ساروٕے کھۄتہٕ بَہتر اِنتِخاب چھُ سۄے یَتھ منٛز سُہ اِنسان اَز لُطُف تُلِ۔ ٹایمَر، نمبر یا پرؠتھ سۄ چیٖز نِش دُوٗر روٗزِو یۄس اِمتحان ہِش باسی۔"
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "کیاہ دیمینشیا ہٕنٛزٕ یہِ گێمہِ چھا مُفت؟",
+        "a": "آ، بالکل۔ Golden Moments پؠٹھ چھِ پرؠتھ گێم تہٕ پرِنٛٹ کَرن وول مواد مُفت، کُنہِ کھاتہٕ (اکاؤنٹ)، سائن اَپ یا ڈاؤنلوڈ ورٲے۔ یہِ گێمہِ چھِ فوٗنس، ٹیبلٹس یا کَمپیوٗٹرس پؠٹھ وؠب براؤزرس منٛز چَلان۔"
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "کیاہ دماغی گێمہِ چھا دیمینشیا نِش بچاوان؟",
+        "a": "کانٛہہ تہِ گێم چھَنہٕ ثابت کٔرِتھ زِ یہِ چھِ دیمینشیا رکاوَن، تہٕ Golden Moments چھُنہٕ کُنہِ چیٖزٕچ عِلاج یا بچاوُک دعوا کَران۔ سٲنؠ گێمہِ چھِ صِرِف تفریٖح تہٕ اَکھ أکِس سٟتؠ وقت گُزارنہٕ خٲطرٕ۔ سانوٗن دماغی صِحَتھ وول حِصہٕ چھُ واضح کَران زِ تَحقیٖق کیاہ چھِ وٕچھناوَن تہٕ کیاہ نہٕ۔"
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "کیاہ یہِ گێمہِ چھا الزائمرس سٟتؠ زِندَگی گُزارَن وٲلؠ کٲنسہِ خٲطرٕ مُناسِب؟",
+        "a": "آ، بالکل۔ الزائمرس بێمٲری چھِ دیمینشیا ہٕنٛز ساروٕے کھۄتہٕ عام وجہ، تہٕ یہِ گێمہِ چھِ امہِ خٲطرٕ بناونہٕ آمٕژ: بٔڈؠ تصویٖر یِم سامنٕے چھِ روزان، کَم اِنتِخاب، تہٕ یاد تھاونہٕ یا غلط گژھنہٕ خٲطرٕ کینٛہہ نہٕ۔ جوڈٕ رلاوُن، تَرتیٖب دِیُن تہٕ زانہِ-پانہِ کہاوژَن پُوٗرٕ کَرُن چھُ نوِ ہؠچھنہٕ بٔدلہِ پُرانِس علمَس پؠٹھ اِنحصار کَران۔"
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "کیاہ پٔتِمِس مرحلس منٛز دیمینشیا سٟتؠ زِندَگی گُزارَن وول کانہہ شخص ہؠکہِ یہِ سرگرمِیہِ اِستِعمال کٔرِتھ؟",
+        "a": "اکثر آ، پَننِس دٔچھنِس یا پٔتھ کَنہِ سٲتھی اَکھ اِنسان آسنس سٟتؠ۔ زَن زٕ تصویٖرَن سٟتؠ 'اَکوٗے ژھارِو'، ژورو ٹایلَن سٟتؠ 'تصویٖرَن ہٕنٛزٕ جوڈٕ'، رَنٛگ بَرنُک صَفہٕ یا پُرسکوٗن ساہ تُلنٕکۍ وقفہٕ سٟتؠ شروٗع کٔرِو۔ اَتھ تھاوِو لۄکُٹ، تِمن پَتھ پَتھ پَکِو تہٕ ییٚلہِ تِم تھکن یا کٲفی باسی، تَتھۍ جایہِ رُکِو۔"
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "کیاہ مےٚ ہٕنٛز معلوٗمات چھا نِجی تہٕ محفوٗظ؟",
+        "a": "اَتھ سایٹہِ پؠٹھ چھُنہٕ کانہہ کھاتہٕ تہٕ کانہہ اِشتِہار۔ أسؠ چھِ صِرِف یہِ زاننہٕ خٲطرٕ Google Analytics اِستِعمال کَران زِ کٔمؠ صَفَن پؠٹھ چھُ یِوان۔ 'فوٹو جوڈٕ' خٲطرٕ یِم تصویٖر تۄہی ژارِو تِم چھِ صِرِف تۄہنٛدِس براؤزرس منٛز وٕچھنہٕ یِوان تہٕ کٔڈہنٛہہ تہِ اَپلوڈ گَژھان نہٕ۔"
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Golden Moments کَم چھِ بَناوان؟",
+        "a": "Golden Moments چھُ اَکھ لۄکُٹ ٹھیٖم یُس خانٛدانَن تہٕ دیکھ بھال کَرن والؠن خٲطرٕ وؠب پؠٹھ تہٕ اَکہِ مُفت ایپ کِس روٗپَس منٛز پُرسکوٗن تصویٖری سَرگرمِیہِ بَناوان چھُ۔ أسؠ چھِنہٕ ڈاکٹَر یا طِبی ماہر، تہٕ ییٚتی کینٛہہ تہِ طِبی مَشورٕ چھُنہٕ۔"
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "شروٗعٲتی",
+    "middle": "درمیٲنی",
+    "late": "پٔتِیُم",
+    "hintOne": "اکثر چھُ {list} مرحلَس خٲطرٕ مُناسِب",
+    "hintMany": "اکثر چھُ {list} مَراحِلَن خٲطرٕ مُناسِب",
+    "labelEarly": "شروٗعٲتی مَرحلہٕ",
+    "labelMiddle": "درمیٲنی مَرحلہٕ",
+    "labelLate": "پٔتِیُم مَرحلہٕ"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "اَتھ گێمہِ مُتعلِق",
+    "printable": "پرِنٛٹ کَرنہٕ یوگ",
+    "play": "{name} گِنٛدِو →",
+    "readGuide": "رہنُما پَرِو"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "اَکہِ سَہل تہٕ پُرسکوٗن گێمہِ خٲطرٕ تیّار چھِوا؟",
+    "text": "بٔڈؠ تصویٖر، نہٕ ٹایمَر، نہٕ نمبر تہٕ نہٕ کُنہِ سائن اَپُک چکر۔ پَننِس براؤزرس منٛز گِنٛدِو اَکھ أکِس سٟتؠ۔",
+    "play": "گێم گِنٛدِو",
+    "all": "سٲری گێمہِ وُچھِو",
+    "aria": "گێم گِنٛدِو"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "یہِ گێمہِ نِیِو پانہٕ سٟتؠ",
+    "text": "iPhone، iPad تہٕ Android خٲطرٕ مُفت Golden Moments ایپ: بٔڈؠ تصویٖری ٹایل، پَننؠن خاندانی فوٹووَن سٟتؠ گێمہِ، تہٕ تصویٖرَن ہٕنٛدؠ پؠک یِم وائی فائی ورٲے تہِ کٲم چھِ کَران۔ کانہہ کھاتہٕ، اِشتِہار، ٹایمَر یا نمبر چھُنہٕ۔",
+    "appStore": "App Store پؠٹھ حٲصِل کٔرِو",
+    "googlePlay": "Google Play پؠٹھ حٲصِل کٔرِو",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "ایپَس مُتعلِق",
+    "aria": "ایپ حٲصِل کٔرِو"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "سَرگرمِیہِ",
+      "title": "دیمینشیا سٟتؠ زِندَگی گُزارَن والؠن لوٗکَن خٲطرٕ سَرگرمِیہِ",
+      "seo": "دیمینشیا سٟتؠ زِندَگی گُزارَن والؠن لوٗکَن خٲطرٕ سَرگرمِیہِ: مرحلہٕ وار تَجاویٖز",
+      "description": "پرؠتھ مرحلس منٛز دیمینشیا سٟتؠ زِندَگی گُزارَن والؠن لوٗکَن خٲطرٕ سَرگرمی ہٕنٛدؠ خیالات: موٗسیٖقی، پُرانؠن یادَن ہُنٛد ذکر، روزمرہ کٲم، حِسی لَمحات، دَستکٲری، نیبَرُک ماحول تہٕ مُفت پرِنٛٹ کَرن وول مواد۔",
+      "lede": "معنی خیز سَرگرمی چھِ پرؠتھ سۄ چیٖز یۄس سُکوٗن، مقصد یا اَکھ أکِس سٟتؠ جوڈٕ دِوان چھِ۔ اَتھ چیٖزٕ سٟتؠ شروٗع کٔرِو یَتھ منٛز اِنسانَن ہمیش لُطُف ہۆت، تہٕ امِس کٔرِو از کِس حالَس مُطٲبِق ڈَھالِتھ۔"
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "دیکھ بھال",
+      "title": "دیکھ بھال ہٕنٛزٕ رہنُمٲیی",
+      "seo": "دیمینشیا کٕچ دیکھ بھال ہٕنٛزٕ رہنُمٲیی: روزمرہ ہٕنٛز عملی مَدَتھ",
+      "description": "دیمینشیا ہٕنٛز دیکھ بھال کرن والؠن خٲطرٕ عملی تہٕ ہمدردانہ رہنُمٲیی: اَکھ أکِس سٟتؠ گێمہِ گِنٛدُن، کَتھ باتھ، اِنکارس سٟتؠ نِپٹُن، شام کِس وَقتٕچ بے چینی، ٹیبلٹ، ایپ ژارُن تہٕ پَنٕنؠ دیکھ بھال۔",
+      "lede": "دیمینشیا سٟتؠ زِندَگی گُزارَن والؠن ہٕنٛز دیکھ بھال کرنہٕ کین روزمرہ لَمحاتَن خٲطرٕ سادٕ، عملی مَدَتھ، یَتھ منٛز پَنٕنؠ دیکھ بھال تہِ شٲمِل چھِ۔"
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "دماغی صِحَتھ",
+      "title": "دماغی صِحَتھ: تَحقیٖق کیاہ چھِ وَنان",
+      "seo": "دماغی صِحَتھ تہٕ دیمینشیا ہُنٛد خَطرٕ: تَحقیٖق کیاہ چھِ وَنان",
+      "description": "کیاہ دیمینشیا نِش بچاو مُمکِن چھا؟ دیمینشیا کین خَطرٕکَن، دماغی گێمَن، فاقہٕ کَشن، غذا، ورزش، نِندَر، بوزنٕچ صَلاحِیَتھ تہٕ شروٗعٲتی نِشانَن پؠٹھ باوثوق، مَنصفانہٕ رہنُمٲیی۔",
+      "lede": "دیمینشیا ہُنٛد خَطرٕ کَم کرنہٕ مُتعلِق بٔڈؠ سِٹڈِیز اصلَس منٛز کیاہ چھِ وٕچھناوَن، سادٕ اندازَس منٛز بیان، یَتھ منٛز یہِ تہِ شٲمِل چھُ زِ شواہد کَتھ جایہِ کمزور یا مِکس چھِ۔ عام معلوٗمات، نہٕ طِبی مَشورٕ۔"
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "تَجدید شُدٕ",
+    "minuteRead": "{n} مِنَٹُک پَڑھُن",
+    "byTeam": "Golden Moments ٹھیٖمہِ طَرفہٕ",
+    "howWeWrite": "أسؠ کِتھ کَنہِ چھِ لؠکھان",
+    "shortAnswer": "مُختَصَر جَواب",
+    "onThisPage": "اَتھ صَفَس پؠٹھ ({n} حِصہٕ)",
+    "commonQuestions": "عام سوالات",
+    "sources": "ذرایع",
+    "sourcesNote": "أسؠ چھِ تِمَن اِدارَن تہٕ تَحقیٖقاتَن ہٕنٛدؠ لِنک دِوان یِمَن پؠٹھ یہِ صَفہٕ مَبنی چھُ۔ صَفٕچ تَجدید کَرنہٕ وَقٕت آو پرؠتھ اَکھ جاچنہٕ۔",
+    "tryTogether": "رٔلِتھ کوٗشِش کٔرِو",
+    "relatedGuides": "مُتعلِقہٕ رہنُمٲیی",
+    "related": "مُتعلِقہٕ",
+    "startHere": "یَتَن پؠٹھ کٔرِو شروٗع"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "صِحتٕچ معلوٗمات ہُنٛد نوٹس",
+    "title": "عام معلوٗمات، کانہہ طِبی مَشورٕ نہٕ",
+    "textHtml": "یہِ صَفہٕ چھُ خانٛدانَن خٲطرٕ شایَع گٔمٕژ تَحقیٖق خُلاصہٕ کَران۔ یہِ ہؠکہِ نہٕ تۄہہِ ونِتھ زِ کُنہِ مَخصوٗص اِنسانَس خٲطرٕ کیاہ صٔحیٖح چھُ۔ غذا، ورزش، نِندَر، دوا یا سپلیمؠنٛٹَن منٛز تبدیلی کَرنہٕ برٛونٛہہ کٔرِو ڈاکٹَرَس سٟتؠ کَتھ۔ اَچانَک پرٛؠتھ باسنَس یا باقٕے اچانک بدلاوَن ہٕنٛز صوٗرتَس منٛز تُرنت طِبی مَدَتھ حٲصِل کٔرِو۔ <a href=\"/medical-disclaimer/\">سانوٗن صِحتٕچ معلوٗمات ہُنٛد نوٹس پَرِو</a>۔"
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "اَکھ مُشتَرکہٕ سَرگرمی، نہٕ کانہہ یادداشتُک اِمتحان",
+      "seoTitle": "Golden Moments مُتعلِق: سانوٗن طَریٖقہٕ کار",
+      "description": "Golden Moments گێمَن منٛز کِیازی چھُنہٕ ٹایمَر، نمبر یا سِٹریٖک آسان، تصویٖر کِیازی چھِ سامنَس پؠٹھ روزان، تہٕ أسؠ دیمینشیا کِس بارَس منٛز کٔمؠ کَتھُک دعوا کَران چھِ تہٕ کٔمؠ کَتھُک نہٕ۔",
+      "crumb": "سانوٗن طَریٖقہٕ کار",
+      "lede": "Golden Moments چھُ پُرسکوٗن، بالِغَن خٲطرٕ تصویٖری سَرگرمِیہِ بَناوان یَتھ منٛز دیکھ بھال کَرن وول تہٕ دیمینشیا سٟتؠ زِندَگی گُزارَن وول اِنسان اَکھ أکِس سٟتؠ بٔہِتھ لُطُف تُلِتھ ہؠکَن۔",
+      "bodyHtml": "<h2>اَسہِ کٔتھؠ پؠٹھ چھُ یٔقیٖن</h2><p>کانٛہہ تہِ مَشغوٗلِیَتھ اَنجام دِنُک اصل مَقصَد چھُ سُہ پَل پانہٕ: کَتھ باتھ، اَکھ مُسکراہَٹ، زٕ تصویٖرٕ اَکِوِ کِس رَلاونُک سُکوٗن، یا صِرِف نَزدیٖک بٔہِتھ وَقٕت گُزارُن۔ اَمُک مَقصَد چھُ نہٕ کٲنٛسہِ ہٕنٛز قٲبلِیَتھ ناپٕنؠ، تِمَن پؠٹھ زور تَراشُن، یا کانٛہہ چیز ثٲبِت کَرُن۔</p><p>دؠماغی مشقَن ہٕنٛدیٚن واریاہَن ایپَن مَنٛز چھُ رفتار، نَمبَر، سِٹریٖک تہٕ درجاتَن پؠٹھ زور آسان۔ دؠمؠنشیا سٟتؠ زِندگی گُزارَن وٲلِس کٲنٛسہِ تہِ شَخصَس خٲطِرٕ ہؠکِہ یِہ اَکھ اِمتِحان باسیٖتھ یَتھ مَنٛز سُہ پاس گَژھِتھ ہؠکَن نہٕ۔ اَسہِ بَنٲو اَمِہ برعکس چِیٖز، تہٕ اَسہِ چھِ پانہٕ خٲطِرٕ یِم اُصوٗل طَے کٔرِمٕتؠ:</p><ul><li><strong>پھؠل گَژھنُک کانٛہہ خَدشہٕ نہٕ۔</strong> کانٛہہ تہِ گھٔڑی، نَمبَر، چال گَنٛدنُک حِساب، زندگیاں (لائیوز)، سِٹریٖک، جَشنٕک پُھلجھٔڑؠ یا اُلٹی گِنتی کانٛہہ تہِ سکرینَس پؠٹھ چھَنہٕ۔</li><li><strong>یاد آسنَس پؠٹھ زاننَس اَہَمِیَتھ۔</strong> تصویٖرٕ چھِ سکرینَس پؠٹھ ہَمیشہٕ ظٲہِر رَوزان۔ کَتھ باتھ خٲطِرٕ چھِ آسان اِشارٕ دِنہٕ یِوان، کِتھِہ پٲٹھؠ تہِ ناون یا یادداشتٕک اِمتِحان نہٕ۔</li><li><strong>بوٚڈ، سادٕ تہٕ پُختہٕ۔</strong> بَڈؠ اَکھر تہٕ بَڈؠ تصویٖرٕ، صاف رَنٛگ، تہٕ بٹَن یِم ہَمیشہٕ اَکوی جایہِ رَوزان چھِ۔</li><li><strong>بالِغ وقار۔</strong> اَصلی دُنیاہٕچ تصویٖرٕ تہٕ سادٕ، پیار بٔرِتھ اَلفاظ۔ کانٛہہ تہِ کارٹوٗن، بَچگانہٕ تعریٖف، یا اِموجی اِنعامات چھَنہٕ۔</li><li><strong>رُکنُک آسان طٔریٖقہٕ۔</strong> ”رُکُن وۄنؠ کٲفی چھُ“ ہَمیشہٕ سکرینَس پؠٹھ ظٲہِر رَوزان۔ ادھَس پؠٹھ رُکُن چھُ اَکھ جان نتیجہٕ۔</li><li><strong>شُروعے پؠٹھ راز داری۔</strong> کانٛہہ تہِ کھاتہٕ (اکاؤنٹ) یا اِشتہار نہٕ۔ یِم تصویٖرٕ تُہؠ ژارِو، تِم چھِ صرف تُہنٛدِس ڈیوائسَس پؠٹھ رَوزان۔</li></ul><h2>اَسہِ کٔمیُک دَعویٰ چھَنہٕ کَران</h2><p>سٲنؠ کھیل چھِ لُطُف اَندوز گَژھنہٕ تہٕ پاٹھ پٲٹھؠ جُڑنہٕ خٲطِرٕ۔ یِم چھِ نہٕ دؠمؠنشیا یا الزائمر بؠمٲرؠ ہٕنٛز تَشخیٖص کَران، ٹیسٹ کَران، اَمُک عِلاج کَران، اَمِچ رفتار سُست کَران یا اَتھ روکان، تہٕ کٲنٛسہِ تہِ گَژھِ نہٕ اَتھ وَجہہ سٟتؠ یِم ژارٕنؠ۔ ییٚلہِ اَسؠ پَننؠن <a href=\"/brain-health/\">دؠماغی صِحَت والؠن صَفحَن</a> پؠٹھ رِسرچ مُتعلِق لیٚکھان چھِ، اَسؠ چھِ صَفا وَنان زِ کَتھ جایہِ چھِ ثُبوٗت کمزور، تہٕ اَسؠ چھِ نہٕ زانٛہہ تہِ اَتھ پَننیٚن کھیلَن سٟتؠ جوڑان۔</p><h2>اَسؠ کَم چھِ</h2><p>Golden Moments چھُ اَکھ لۄکُٹ خۄدمُختار گرۆپ۔ اَسؠ چھَنہٕ ڈاکٹَر یا طِبی ماہِر۔ سٲنؠ رَہنُمٲیی کتابچہٕ چھِ نیشنل اِنسٹیٹیوٗٹ آن ایجِنگ تہٕ الزائمرز ایسوسی ایشن ہِویٚن تنظیٖمَن ہٕنٛزِ شایع شُدٕ رہنُمٲیی پؠٹھ لؠکھنہٕ آمٕتؠ، تہٕ پرؠتھ اَکھ رَہنُمایہِ چھِ پَننؠن مآخذَن ہُنٛد ذِکر کَران۔ پَرِو زِ <a href=\"/editorial-policy/\">اَسؠ کِتھکَن پَننؠن صَفحَن لیٚکھان تہٕ جانچ کَران چھِ</a>۔</p><h2>اَسہِ بَناوِو زِ کیا ہؠکِہ مددگار ثٲبِت گٔژھِتھ</h2><p>اَسہِ بوٗزِتھ بٔڑ خوٗشی میٚلہِ زِ تُہنٛدِ خٲطِرٕ کیا چھُ کارآمد روزان تہٕ کیا نہٕ، خاص پٲٹھؠ دؠمؠنشیا سٟتؠ زِندگی گُزارَن وٲلؠ، خانٛدانی دؠکھ بھال کَرَن وٲلؠ، تہٕ مشغوٗلِیَتھ ہُنٛد عَمَلہٕ۔ اِی میل کٔرِو <a href=\"mailto:{email}\">{email}</a> پؠٹھ۔</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "اَسؠ کِتھکَن چھِ پَننؠن صَفحَن لیٚکھان تہٕ جانچان",
+      "seoTitle": "اِداراتی پٲلِسی",
+      "description": "Golden Moments کِتھکَن چھُ دؠمؠنشیا ہٕنٛدیٚن کھیلَن تہٕ دؠماغی صِحَت ہٕنٛدیٚن صَفحَن ہٕنٛز تَحقیٖق، لؠکھٲیی، حَوالہٕ تہٕ تَجدیٖد کَران، تہٕ اَسؠ کیا زانٛہہ شایع کَرَن نہٕ۔",
+      "crumb": "اِداراتی پٲلِسی",
+      "bodyHtml": "<h2>سٲنؠ مآخذ</h2><p>سٲنؠ رَہنُمٲیی کتابچہٕ چھِ نیشنل اِنسٹیٹیوٗٹ آن ایجِنگ، CDC، الزائمرز ایسوسی ایشن، الزائمرز فاؤنڈیشن آف امریکہ، فیملی کیئر گِوَر الائنس تہٕ NHS ہِویٚن تنظیٖمَن ہٕنٛزِ عَوٲمی رہنُمٲیی پؠٹھ، تہٕ کوکرین ریویووز تہٕ بٔڑؠن کِلینِکل ٹرائلَن ہِویَن تَحقیٖقی مَقالَن پؠٹھ مَبنی۔ پرؠتھ اَکھ رَہنُمایہِ چھِ تِمَن مآخذَن ہُنٛد ذِکر کَران یِمَن پؠٹھ یِہ مَبنی چھُ۔ اَسؠ چھِ حَوالہٕ دِنہٕ بَروٛنٹھ پرؠتھ اَکھ مآخذ پَرَن، تہٕ اَسؠ چھِ صِرِف سُہ بیان کَران یُس اَتھ مَنٛز دَر حَقیٖقَت لؠکھِتھ چھُ۔</p><h2>اَسؠ کِتھکَن چھِ لیٚکھان</h2><ul><li>عَملی چِیٖز گوڈٕ: اَز کیا کَرُن چھُ، سادٕ زَبانہِ مَنٛز۔</li><li>ثُبوٗتَن مُتعلِق دیانت دٲری: اَسؠ چھِ ”تعلُق ٲسِتھ“، ”ہؠکِہ ٲسِتھ“، تہٕ ”ثُبوٗت چھِ مِلا جُلا“ ییٚلہِ سۄ حَقیٖقَت آسہِ۔</li><li>باوقار: اَسؠ چھِ دؠمؠنشیا سٟتؠ زِندگی گُزارَن والؠن بالِغ اِنٛسان پٲٹھؠ پیش کَران، تہٕ اَسؠ چھَنہٕ زانٛہہ تہِ اِمتحانی یا شَرَم سٲری زَبان اِستِعمال کَران۔</li><li>کانٛہہ تہِ مَن گَھڑَت مواد نہٕ: کانٛہہ تہِ بَناوٕٹؠ شُمار، اَقوال، ماہِر، تَحقیٖق، جائزے یا گواہی چھَنہٕ۔</li></ul><h2>سٲنؠ صَفحہٕ کَم چھِ جانچان</h2><p>صَفحہٕ چھِ Golden Moments ٹیٖم لؠکھان تہٕ جانچان، یَتھ مَنٛز تَحقیٖق تہٕ مَسودٕ بَناونَس خٲطِرٕ AI لیٚکھنہٕ کؠن ٹوٗلَن ہٕنٛز مَدَتھ لَبنہٕ چھِ یِوان۔ پرؠتھ اَکھ صَفحہٕ چھُ ٹیٖم پَننؠن مآخذَن سٟتؠ مِلاوِتھ جانچان۔ سٲنؠ صَفحہٕ چھِ <strong>نہٕ</strong> کٲنٛسہِ ڈاکٹَر یا کِلینِکل ماہِرَن جانچ کٔرِمٕتؠ، تہٕ اَسؠ چھَنہٕ اَمِہ برعکس کانٛہہ دَعویٰ کَران۔ یِم چھِ عام مولوٗمات، کانٛہہ طِبی مَشوَرٕ نہٕ۔</p><h2>اَسؠ کیا زانٛہہ شایع کَرَن نہٕ</h2><ul><li>یِم دَعویٰ زِ کانٛہہ کھیل، کھؠن، سَپلیمینٹ، فاقہٕ یا معمول چھُ دؠمؠنشیا روکان، اَمُک عِلاج کَران، اَتھ سُست کَران یا اَتھ صَحَت یاب کَران۔</li><li>ٹیسٹ، کُوِز یا نَمبَر یِم یہِ ظٲہِر کَرَن زِ کٲنٛسہِ چھُ، یا چھَنہٕ، دؠمؠنشیا۔</li><li>کانٛہہ تہِ دَوا شُروٗع کَرنُک، بَنٛد کَرنُک یا بَدلاونُک مَشوَرٕ۔</li><li>رہنُمٲیی ہِنٛدِس بھیسَس مَنٛز اِشتِہار یا سپانسر شُدٕ مواد۔</li></ul><h2>تَجدیٖد تہٕ درستی</h2><p>پرؠتھ اَکھ صَفحہٕ چھُ ہاوَن زِ اَتھ ٲخرس پؠٹھ کٔتھ تٲریخہِ تَجدیٖد کَرنہٕ ٲس آمٕژ۔ اَگَر تُہؠ کانٛہہ غلطی یا پُرانہٕ مآخذ وُچھِو، مہرَبٲنی کٔرِتھ اِی میل کٔرِو <a href=\"mailto:{email}\">{email}</a> پؠٹھ تہٕ اَسؠ کَرُو جلد اَمِچ جانچ۔</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "سُوال تہٕ جَواب",
+      "seoTitle": "دؠمؠنشیا کھیل تہٕ مَشغوٗلِیات: سُوال تہٕ جَواب",
+      "description": "دؠمؠنشیا ہٕنٛدیٚن کھیلَن تہٕ مَشغوٗلِیَتَن مُتعلِق عام سُوالَن ہٕنٛدؠ جَواب: کٔمؠ کھیل گٔژھَن آزماوٕنؠ، کوٗتہِ کال گینٛدُن چھُ، ٲخرس پؠٹھ کِتھ پٲٹھؠ مَدَتھ کَرُن، دؠماغی صِحَت تہٕ راز داری۔",
+      "crumb": "سُوال تہٕ جَواب",
+      "lede": "دؠکھ بھال کَرَن والؠن ہٕنٛدیٚن اَکثَر پُژھنہٕ یِنہٕ والؠن سُوالَن ہٕنٛدؠ لۄکٕٹؠ، سادٕ جَواب۔",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "کھیلَن مُتعلِق",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "دؠمؠنشیا سٟتؠ زِندگی گُزارَن وٲلِس اِنٛسانَس خٲطِرٕ بَہتَریٖن کھیل کٔمؠ چھِ؟",
+              "a": "بَہتَریٖن کھیل چھِ یِم زانہٕ مانِہ، سادٕ تہٕ دباؤ نِش مُکتھ ٲسِن، تہٕ اصل کھیل چھُ سُہ یَمِہ سٟتؠ سُہ شَخص اَز لُطُف اَندوز گَژھِ۔ سکرینَس پؠٹھ ظٲہِر تصویٖرٕ مِلاوٕنؠ، ژارٕنؠ، آسان جِگسا پَزَل، زانہٕ مانِہ کَتھہٕ پوٗرٕ کَرٕنؠ، رَنٛگ بھَرُن تہٕ تصویٖر بینگو واریاہَن لوٗکَن خٲطِرٕ اصل کٲم چھِ کَران۔ ٹائمر، نَمبَر، تہٕ پرؠتھ تَمِہ چِیٖز نِش پَریٖز کٔرِو یۄس اِمتِحان باسی۔"
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "کیا کھیل چھِ پۆز پٲٹھؠ مُفت؟",
+              "a": "آ۔ سٲری کھیل تہٕ پرنٹ کرن لائق مواد چھِ مفت، کُنہِ اکاؤنٹ، سائن اَپ، ڈاؤن لوڈ یا اِشتہار بگٲر۔"
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "سکور، لیول یا ٹائمر کیازِ چھنہٕ؟",
+              "a": "تیزی تہٕ سکور چھِ اَکہِ خوشگوار سرگرمی اِمتحانَس منٛز بدلناوان، ییٚمہِ سٟتؠ شرمندگی یا بیزاری ہیکہِ پٲدٕ گٔژھِتھ۔ اَسہِ چھُ ساروٕے کھۄتہٕ زِیٛادٕ دھیان لُطف تُلس تہٕ اَکوَٹہِ وقت گُزارنس پؠٹھ تھاومُت، تاکہ ناکام گژھنُک کانٛہہ خوف آسہِ نہٕ تہٕ تُہؠ ہیکِو ییٚلہِ یژھِو تیٚلہِ بند کٔرِتھ۔"
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "کۆس آلہٕ چھُ ساروٕے کھۄتہٕ اصل کٲم کران؟",
+              "a": "کانٛہہ تہِ فون، ٹیبلٹ یا کمپیوٹر یَتھ منٛز جدید ویب براؤزر آسہِ۔ میزس پؠٹھ کُنہِ سٹینڈس پؠٹھ تھاومُت ٹیبلٹ چھُ دۆن نفرن خٲطرٕ أکِس بئیِس سٟتؠ بہِتھ گنٛدنُک ساروٕے کھۄتہٕ آرام دہ طریقہٕ۔ گروپَن خٲطرٕ چھُ ٹی وی یَس سٟتؠ جوڈِتھ لیپ ٹاپ اصل کٲم کران۔"
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "کیاہ اَسہِ ہیکو پننؠن خاندٲنی تصویرن سٟتؠ گنٛدِتھ؟",
+              "a": "آ۔ فوٹو پیئرز چھُ تُہنٛدِ طرفہٕ ژارنہٕ آمٕژن 2 پیٚٹھٕ 6 تصویرَن اَکہِ مِلَن وٲلِس کھیلَس منٛز بدلناوان۔ تصویرٕ چھِ تُہنٛدِس براؤزرَس منٛزٕے روزان تہٕ یِم چھنہٕ نہ اپ لوڈ یِوان کرنہٕ نہ محفوٗظ۔"
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "سرگرمیہٕ تہٕ دیکھ بھال",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "اَکھ سرگرمی کژھس کالس پَزِ روزٕنؠ؟",
+              "a": "اکثر چھُ 10 پیٚٹھٕ 20 منٹ کٲفی آسان، تہٕ کیٚنٛہہ لَٹہِ چھُ 2 منٹ تہِ اَکھ کامیابی آسان۔ تھکاوٹ یا بیزاری ہٕنٛز علامتن پؠٹھ نظر تھٲوِو تہٕ یۆتام مَزٕ یِوان آسہِ تتی چھِ رکاونُک۔ کُنہِ طے شدٕ وقتٕچ ضروٗرت چھنہٕ۔"
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "اگر تِم کانٛہہ سرگرمی کرُن نہ یژھَن تیٚلہِ کیاہ کَرُن؟",
+              "a": "اِنکارُک احترام کٔرِو، تہٕ پتہٕ یا کُنہِ بیٚیِس طریقہٕ سٟتؠ کوٗشش کٔرِو۔ اِنکار ہیکہِ تھکاوٹ، دَگ، بے یقینی یا صِرف دِلچسپی نہ آسَن کِنؠ ٲسِتھ۔ ییٚلہِ تِم نہٕ ونَن تیٚلہِ کیاہ کَرُن، اَتھ بارَس منٛز وُچھِو سانہِ رَہنُمٲیی ہُنٛد صفحہٕ۔"
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "ڈیمینشیاہٕکؠ ٲخری مرحلَن خٲطرٕ کَم سرگرمیہٕ چھِ مُناسِب؟",
+              "a": "سکون تہٕ حواس: پسندیدہ موٗسیٖقی بوزٕنؠ، لوشن سٟتؠ اتھن مالش کرٕنؠ، اَکوَٹہِ تصویرٕ وُچھٕنؠ، نرم کَمبَل اَتھس منٛز رٹٕنؠ، نیبر بہُن، یا کٲنٛسہِ سٟتؠ بہِتھ بالکُل سادہ تصویری کھیل گنٛدُن۔ سانہِ ٲخری مرحلٕچ رَہنُمٲیی منٛز چھِ مزیٖد واریاہ تدبیرٕ۔"
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "کیاہ کیئر ہومَن منٛز گروپَن خٲطرٕ تہِ سرگرمیہٕ چھا؟",
+              "a": "آ۔ پکچر بینگووَن منٛز چھِ پرنٹ کرن لائق کارڈ تہٕ سکرین کالر، تہٕ فِنش دی سیئنگ تہٕ گفتگو ہٕنٛدِ کارڈ چھِ بٔڑِس آوازِ منٛز پرنہٕ سٟتؠ اصل کٲم کران۔ سانہِ کیئر ہوم گروپ گائیڈس منٛز چھُ گروپٕچ تعداد، بہنہٕ چہِ ترتیب تہٕ مختلف صَلاحِیَتَن مُطٲبِق کٲم کرُن درٕج۔"
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "دِماغٕچ صِحَت",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "کیاہ کھیل ہیکَن ڈیمینشیا رکٲوِتھ یا سُست کٔرِتھ؟",
+              "a": "کانٛہہ تہِ کھیل چھنہٕ یِژھ ثٲبِت گٔمٕژ یۄس ڈیمینشیا رۆکٲوِتھ ہیکہِ، تہٕ سٲنؠ کھیل چھنہٕ اَہۆو کانٛہہ دعویٰ کران۔ سمٲجی ماحولَس منٛز ذہنی محرکَن چھُ معتدل پیٚٹھٕ درمیانہ ڈیمینشیا سٟتؠ زِندگی گُزارَن والؠن لوٗکَن خٲطرٕ کینٛہہ لۄکٕٹ فائِدٕ ظٲہِر کٔرمٕتؠ، مگر سۄ کتھ چھےٚ کھیل کہِ طرفہٕ بؠمٲرِ رُکاونہٕ نِش بِلکُل اَلگ۔ اَسہِ چھِ کھیل صِرف خۄشی تہٕ اَپسی تال میل خٲطرٕ پیش کران۔"
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "کیاہ ڈیمینشیا نِش بچاؤ مُمکِن چھا؟",
+              "a": "یقین سان نہٕ۔ تٔحقیٖق چھِ 14 صِحَت تہٕ طرزِ زِندگی ہٕنٛدؠ عوامل ڈیمینشیا کہِ خطرہٕ سٟتؠ جوڈان، مِثال کے طور پٲٹھؠ بوزنٕچ کمزوری، بلڈ پریشر، جِسمٲنی سُستی تہٕ سمٲجی تنہائی۔ یِمن پؠٹھ توجُہ دِنہٕ سٟتؠ ہیکہِ کیٚنٛہہ لوٗکَن خٲطرٕ خطرہٕ کم گٔژھِتھ، مگر واریاہ لۆکھ یِم سٲری چیز صحیح چھِ کران تِمن تہِ ہیکہِ ڈیمینشیا گٔژھِتھ۔ یہِ چھنہٕ زانٛہہ تہِ کٲنٛسہِ ہُند قُصوٗر آسان۔"
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "کیاہ وقفے وقفے سان فاقہٕ (انٹرمٹنٹ فاسٹنگ) دِماغٕچ صِحَت خٲطرٕ اصل چھا؟",
+              "a": "انسانن پؠٹھ ثبوٗت چھِ محدود تہٕ شروعاتی، تہٕ زیٛادٕ تَر تٔحقیٖق چھےٚ جانورن پؠٹھ گٔمٕژ۔ فاقہٕ ہیکہِ وڈؠن لۆکَن خٲطرٕ خطرناک سٲبِت گٔژھِتھ، خاص طور شوگر چہِ دوائین سٟتؠ یا غٲر اِرادی وزن کَم گژھنس منٛز، تہٕ ڈیمینشیا سٟتؠ زِندگی گُزارَن والؠن خٲطرٕ چھنہٕ یہِ تجویز کرنہٕ یِوان۔ کھؠن چہِ عادتن منٛز تبدیلی اننہٕ برٛونٛہہ ڈاکٹرس سٟتؠ کتھ باتھ کٔرِو۔"
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "راز دٲری تہٕ حِفاظَت",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "کیاہ تُہؠ چھِو کانٛہہ معلوٗمات جمع کران؟",
+              "a": "نہ کانٛہہ اکاؤنٹ نہ اِشتہار۔ اَسہِ چھِ وِزِٹ گننے تہٕ کَم صفحات مددگار چھِ یہِ وُچھنہٕ خٲطرٕ Google Analytics اِستِعمال کران، تہٕ تُہنٛد براؤزر چھُ یہِ یاد تھاوان زِ کیاہ تُہؠ چھِ نرم آواز آن کٔرمٕژ۔ فوٹو پیئرز خٲطرٕ ژارنہٕ آمٕژ تصویرٕ چھنہٕ زانٛہہ اپ لوڈ گژھان۔ تفصیٖلاتَن خٲطرٕ وُچھِو پرائیویسی نوٹس۔"
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "کیاہ یہِ چھا طِبی مشوَرٕ؟",
+              "a": "نہٕ۔ Golden Moments چھُ صِرف تفریح تہٕ عام معلوٗمات خٲطرٕ۔ صِحَت متعلق سوالَن خٲطرٕ، ڈاکٹرس سٟتؠ کتھ باتھ کٔرِو، تہٕ ہنگامی صورتحالَس منٛز کٔرِو 112 پؠٹھ کال۔"
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "مزیٖد تفصیلات: <a href=\"/caregiving/how-to-play-together/\">اَکوَٹہِ کِتھ کَنِ گنٛدُن</a>، <a href=\"/caregiving/when-they-say-no/\">ییٚلہِ تِم نہٕ ونَن</a>، <a href=\"/activities/late-stage/\">ٲخری مرحلٕچ سرگرمیہٕ</a> تہٕ <a href=\"/brain-health/can-dementia-be-prevented/\">کیاہ ڈیمینشیا نِش بچاؤ مُمکِن چھا؟</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "ڈیمینشیا سٟتؠ زِندگی گُزارَن والؠن خٲطرٕ مۆفَت، نرم کھیل",
+      "seoTitle": "پرنٹ کرن لائق ہینڈ آؤٹ: آن لائن مفت ڈیمینشیا کھیل",
+      "description": "خاندانن تہٕ دیکھ بھال کرن والؠن خٲطرٕ اَکھ صفحُک پرنٹ کرن لائق ہینڈ آؤٹ، یَتھ منٛز سپورٹ گروپَن تہٕ کیئر پیکٹن خٲطرٕ ڈیمینشیا سٟتؠ زِندگی گُزارَن والؠن خٲطرٕ مۆفَت، نرم تصویری کھیل درج چھِ۔",
+      "crumb": "پرنٹ کرن لائق ہینڈ آؤٹ",
+      "lede": "یہِ صفحہٕ کٔرِو کُنہِ سپورٹ گروپ، کیئر پیکٹ یا فریج کس دروازس پؠٹھ لاگنہٕ خٲطرٕ پرنٹ۔ پننِس براؤزرٕچ پرنٹ کمانڈ اِستِعمال کٔرِو؛ مینو تہٕ بٹن چھِ پرنٹ آؤٹ منٛزٕ کڑنہٕ یِوان۔",
+      "introHtml": "<p>بٔڑ تصویرٕ، سادٕ الفاظ تہٕ ناکام گژھنُک کانٛہہ خوف نہٕ۔ فون، ٹیبلٹ یا کمپیوٹرس پؠٹھ مۆفَت، کُنہِ سائن اَپ، اِشتہار، ٹائمر یا سکور بغٲر۔ أکِس بئیِس سٟتؠ بٔہِتھ پننؠ وٲرِ گنٛدِو۔</p>",
+      "gamesTitle": "اَکوَٹہِ گنٛدنہٕ چہِ کوٗشش خٲطرٕ کھیل",
+      "restHtml": "<h2>کیٚنٛہہ مشورٕ</h2><ul><li>دوہُک سُہ وقت ژٲرِو ییٚلہِ سۄ شخص ساروٕے کھۄتہٕ اصل محسوٗس کران آسہِ۔</li><li>ساروٕے کھۄتہٕ آسان سیٹنگ سٟتؠ شروٗع کٔرِو۔ ژور ٹائلہٕ چھِ کٲفی۔</li><li>تصویرن مُتعلِق کتھ باتھ کٔرِو۔ گفتگو چھےٚ اکثر ساروٕے کھۄتہٕ جان حِصہٕ آسان۔</li><li>یۆتام مَزٕ یِوان آسہِ تتی کٔرِو بنٛد۔ جلدی ختم کَرُن چھُ اَکھ اصل نٔتیٖجہٕ۔</li></ul><h2>ویب سایٹَس پؠٹھ بیٚیہِ کیاہ چھُ</h2><ul><li>مۆفَت پرنٹ کرن لائق مواد: بٔڑن اکھرن منٛز لفظ ژھارُن، رنگ برنہٕ چہِ پنہٕ، گفتگو ہٕنٛدِ کارڈ تہٕ پکچر بینگو۔</li><li>پرؠتھ مرحلس خٲطرٕ سرگرمی ہٕنٛدِ خیالات، تہٕ اَکوَٹہِ گنٛدنہٕ تہٕ پنُن خیال تھاونس پؠٹھ رَہنُمٲیی۔</li></ul><p class=\"muted\">صِرف خۄشی تہٕ اَکوَٹہِ وقت گُزارنہٕ خٲطرٕ۔ کانٛہہ طِبی مشوَرٕ، ٹیسٹ یا علاج نہٕ۔ Golden Moments چھُ Cloudjet Solutions Pte. Ltd. شایع کَران۔</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "کیئر ہومَن، لائبریریَن تہٕ سپورٹ گروپَن خٲطرٕ",
+      "seoTitle": "کیئر ہومَن تہٕ گرٛوپن خٲطرٕ ڈیمینشیا ہٕنٛز مُفت سرگرمیہِ",
+      "description": "کیئر ہوم، بوٚڑَن ہٕنٛد ڈے پروگرام، لائبریریہِ، عمر رسیدہ لوٗکَن ہٕنٛز ایجنسِیہِ تہٕ مددگار گرٛوپ کیٚنٛہہ پٲٹھؠ چھِ سانہِ مُفت ڈیمینشیا کھیل اِستِعمال کران، تہٕ اَسی وسٲیل فِہرِستس مَنٛز شٲمِل کرنہٕ خٲطرٕ متن۔",
+      "crumb": "تنظیٖمَن خٲطرٕ",
+      "lede": "یَتھ سائٹَس پؠٹھ موجود پرؠتھ چیٖز چھُ یَتَن وٲلؠ لوٗکَن، رُکنَن تہٕ کلاینٹَن سٟتؠ اِستِعمال کرنہٕ خٲطرٕ مُفت، یَتھ مَنٛز کُنہِ اکاؤنٹ، لائسنس یا فیٖسٕچ ضروٗرت چھِ نہٕ۔ یہِ صفحہٕ چھُ واضح کران کہِ ییٚتہِ کِیاہ چھُ تہٕ یہِ کیٚنٛہہ پٲٹھؠ چھُ بٲگِرُن۔",
+      "shortText": "{name}: ڈیمینشیا سٟتؠ زِندگی گزٲری وٲلؠ لوٗکَن تہٕ تِمن ہٕنٛدیٚن دؠکھ بھال کرن والؠن خٲطرٕ مُفت، نرم تصویر کھیل تہٕ سرگرمی ہٕنٛز رہنمٲیی۔ نہٕ کانہہ سائن اَپ، نہٕ کانہہ ٹائمر، نہٕ کانہہ سکور۔",
+      "longText": "{name} ({domain}) چھُ ڈیمینشیا سٟتؠ زِندگی گزٲری وٲلؠ لوٗکَن خٲطرٕ بناونہٕ آمٕتؠ {count} مُفت براؤزر کھیل پیش کران، یَتھ مَنٛز تصویرَن ہٕنٛز رلنہٕ وٲلؠ جوڑہِ یِم برٛونٛہہ کُن ہٲوِتھ چھِ آسان، اکھ سَہل جِگسا، ترتیٖب دِین، معروٗف کہاوتہِ تہٕ پرِنٛٹ گژھن وٲلؠ کارڈَن سٟتؠ تصویر بِنٛگو شٲمِل چھِ۔ یَتھ مَنٛز کانہہ اکاؤنٹ، اِشتہار، ٹائمر یا سکور چھُ نہٕ۔ یہِ سائٹ چھِ ڈیمینشیا کِس پرؠتھ مرحلس خٲطرٕ سادٕ زبان مَنٛز سرگرمی ہٕنٛز رہنمٲیی تہِ پیش کران یَتھ مَنٛز National Institute on Aging تہٕ Alzheimer's Association کِس حوالَن ہُنٛد ذِکِر چھُ۔",
+      "useTitle": "تنظیٖم کِیاہ ہؠکَن اِستِعمال کٔرِتھ",
+      "gamesItemHtml": "<strong>{count} براؤزر کھیل</strong> یِم لیپ ٹاپ، ٹیبلٹ یا کَمپیوٗٹرس سٟتؠ جوڑنہٕ آمٕتِس ٹی وی یَس پؠٹھ چلان چھِ۔ کانہہ اِنسٹال، اکاؤنٹ یا ڈاؤن لوڈ چھُ نہٕ۔ وُچھِو <a href=\"/games/\">سٲری کھیل</a>۔",
+      "printablesLabel": "{count} پرِنٛٹ گژھن وٲلؠ مواد:",
+      "printablesAfter": "پرؠتھ صَفحَس پؠٹھ پرِنٛٹ بٹن اِستِعمال کٔرِو۔",
+      "moreItemsHtml": "<li><strong>گرٛوپ ترتیٖب:</strong> <a href=\"/games/picture-bingo/\">تصویر بِنٛگو</a> مَنٛز چھِ پرِنٛٹ گژھن وٲلؠ کارڈ تہٕ سکرینَس پؠٹھ کالر، تہٕ <a href=\"/activities/trivia/\">سَہل معلومات</a> مَنٛز چھِ جوابَن ہٕنٛدیٚن اِنتِخابَن تہٕ کتھ باتھ ہٕنٛدیٚن نُکتَن سٟتؠ 50 سوال۔</li><li>عملہٕ تہٕ خاندانَن خٲطرٕ مرحلہٕ وار تہٕ قسمہٕ وار <strong>سرگرمی ہٕنٛز رہنمٲیی</strong>، یۄس وسٲیلَن سٟتؠ سادٕ زبان مَنٛز لؠکھنہٕ آمٕژ چھِ۔ شروٗع کٔرِو <a href=\"/activities/ideas/\">101 سرگرمی ہٕنٛدؠ خیالات</a> یا <a href=\"/activities/care-home-groups/\">کیئر ہومَن خٲطرٕ گرٛوپ سرگرمیہِ</a> سٟتؠ۔</li>",
+      "restHtml": "<h2>گرٛوپ یہِ کیٚنٛہہ پٲٹھؠ چھِ اِستِعمال کران</h2><ul><li><strong>کیئر ہوم تہٕ یادداشت ہٕنٛز دؠکھ بھال:</strong> عام کمرٕ کِس ٹی وی یَس پؠٹھ تصویر بِنٛگو یا کہاوت پوٗرٕ کرُن، یَتھ مَنٛز اکھ نفر پوٗرٕ گرٛوپس خٲطرٕ ٹیپ کران چھُ۔</li><li><strong>بوٚڑَن ہٕنٛد ڈے پروگرام:</strong> ژورَن ٹائلَن پؠٹھ سیٹ کرنہٕ آمٕژ تصویر جوڑہِ سٟتؠ اکھ ٹیبلٹ سَٹیشن، لۄکٹؠن انفرادی سؠشنَن خٲطرٕ۔</li><li><strong>عوامی لائبریریہِ:</strong> میموری کِٹس مَنٛز پرِنٛٹ کٔرِتھ لفظَن ہٕنٛز تلاش تہٕ کتھ باتھ ہٕنٛد کارڈ، تہٕ لائبریری ٹیبلٹَن پؠٹھ سائٹ بُک مارک کرنہٕ آمٕژ۔</li><li><strong>دؠکھ بھال کرن والؠن ہٕنٛدؠ حمایتی گرٛوپ تہٕ میموری کیفے:</strong> خاندانَن خٲطرٕ گَرِ نِنہٕ خٲطرٕ <a href=\"/handout/\">اکھ صَفحہٕ پرِنٛٹ گژھن وول ہینڈ آؤٹ</a>۔</li><li><strong>ہسپتال تہٕ ڈِسچارج پلانر:</strong> دؠکھ بھال کرن والؠن ہٕنٛدیٚن پیکٹَن مَنٛز ہینڈ آؤٹ، تاکہِ گَرَس مَنٛز یا بسترس نزدیٖک کانہہ پُرسکوٗن کامہِ کٔرِتھ ہیٚکَن۔</li></ul><h2>اَسی کِیاہ چھِ نہٕ کران</h2><p>کھیل چھِ لُطف اَنٛدوز گژھنہٕ تہٕ اکھ کٔٹِھ وقت گُزارنہٕ خٲطرٕ۔ یِم چھِ نہٕ ڈیمینشیا ہٕنٛز تَشخیٖص کران، ٹیسٹ کران، سکور دِوان، عِلاج کران یا اَتھ سُست بناوان، تہٕ اَسی چھِ تنظیٖمَن نِش گُزارِش کران زِ تِم اِمَن یِتھ پٲٹھؠ بیان نہٕ کَرَن۔ ییٚتہِ کانہہ اِشتہار چھُ نہٕ، تہٕ کھیل چھِ نہٕ ناو، صحتٕچ معلوٗمات یا فوٹو اپ لوڈ کرنہٕ خٲطرٕ ونان۔ ویب سائٹ چھِ زیارتَن ہٕنٛز گنتری خٲطرٕ Google Analytics اِستِعمال کران؛ سانہِ <a href=\"/privacy/\">رازدٲری ہٕنٛز نوٹس</a> مَنٛز چھُ وضاحت دِنہٕ آمٕژ زِ یہِ کِیاہ جمع چھُ کران۔ <a href=\"/games/photo-pairs/\">فوٹو پیئرز</a> مَنٛز اِستِعمال گژھن وٲلؠ فوٹو چھِ براؤزرس مَنٛز ہی روزان۔</p><h2>اَسی پَننِس وسٲیل فِہرِستس مَنٛز شٲمِل کٔرِو</h2><p>اگر تُہؠ دؠکھ بھال کرن والؠن خٲطرٕ وسٲیلَن ہٕنٛز اکھ فِہرِست تھاوان چھِو، تُہؠ چھِو خوش آمدید زِ تُہؠ کٔرِو <a href=\"/\">{domain}</a> سٟتؠ لِنک۔ تُہؠ ہؠکِو دونونی منٛزٕ کانہہ تہِ تفصیل نقل کٔرِتھ۔</p>",
+      "shortTitle": "مختصر تفصیل",
+      "longTitle": "تفصیلی وضاحت",
+      "linksHtml": "<p>براہِ راست لنک کرنہٕ خٲطرٕ فٲئدٕ منٛد صَفحہٕ: <a href=\"/games/\">مُفت کھیل</a>، <a href=\"/activities/printable/\">مُفت پرِنٛٹ گژھن وول مواد</a>، <a href=\"/activities/alzheimers/\">الزائمر خٲطرٕ سرگرمیہِ</a> تہٕ <a href=\"/caregiving/how-to-play-together/\">اکھ کٔٹِھ کیٚنٛہہ پٲٹھؠ گیٚندُن</a>۔</p><h2>سوال یا درُستگِیہِ</h2><p>اگر سائٹَس پؠٹھ کانہہ چیٖز غلط یا غیر واضح چھُ، یا یَتَن وٲلؠ کٲنٛسہِ شخصٕنٛز ضروٗرت یَتھ پؠٹھ پوٗرٕ چھِ نہٕ گژھان، مہربٲنی کٔرِتھ ؤنِو اَسہِ <a href=\"mailto:{email}\">{email}</a> پؠٹھ۔ مہربٲنی کٔرِتھ سوزِو نہٕ یَتَن وٲلؠن یا کلاینٹَن ہٕنٛز ذٲتی یا صحتٕچ معلوٗمات۔</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Golden Moments ایپ",
+      "seoTitle": "آئی فون تہٕ اینڈرائیڈ خٲطرٕ Golden Moments ایپ",
+      "description": "مُفت Golden Moments ایپ: ژورَن بوٚڑَن ٹائلَن سٟتؠ نرم فوٹو ملناوُن، تُہنٛدِس ڈیوائسس پؠٹھ محفوٗظ عَیالٕچ تصویرٕ، آف لائن تصویر پیک تہٕ کانہہ اکاؤنٹ نہٕ۔",
+      "crumb": "ایپ",
+      "lede": "سائٹُک سۄ سٲری چیٖز یۄس تُہؠ پسند چھِو کران، اکہِ اَیوٚتھ ایپَس مَنٛز یۄس آف لائن کامہِ چھِ کران تہٕ یَتھ مَنٛز تُہنٛزِ ژارنہٕ آمٕژ خاندانی تصویرٕ اِستِعمال گژھِتھ ہؠکَن۔",
+      "worksOn": "{platforms} ({requirements}) پؠٹھ چھُ کٲم کران۔",
+      "bodyHtml": "<h2>لوٚکُٹ شروٗع کٔرِو</h2><p>ژورو بٔڑؠو ٹائلَو تہٕ زانٛنَہہ ہار تصویرو سٟتؠ شروٗع کٔرِو۔ تصویر تھٲوِو سَمنے، یا ییٚلہِ سَہَل باسی تَلہِ چھُپٲوِو۔ نرم اندازس منٛز چھُ نہٕ کانٛہہ ٹائمر، سکور یا کَم نمبَر میلان۔ 4، 6، 8 یا 12 ٹائل چُنِو۔</p><h2>امِس دِیو پنُن پَن</h2><p>پننہِ ڈیوائسٕکؠ فوٹو پِکَر ذٔریعہٕ کٔرِو خاندانک فوٹو اِنتخاب۔ یہِ ایپ چھِ سرگرمیَن خٲطرٕ لوٚکچہِ کاپِیہٕ مَحفوٗظ تھاوان۔ یہِ چھُ نہٕ تُہنٛز لائبِریری سکین کران یا اصل تصویرن بدلاوان، تہٕ اَکہِ کَلیکشن منٛز چھِ 24 تام فوٹو تھاوان۔</p><h2>صِرف رَلتھ وُچھِو</h2><p>اَکہِ وقتہٕ وُچھِو اَکھ تصویر۔ اِختیاری کَتھ باتھ کٔرنٕکؠ سوال چھِ گفتگو ہُنٛد موقعہٕ دِوان، بغیر کٲنٛسہِ ناو یاد تھاونک یا صٔحیح جواب دِنُک دباو دِتھ۔ صِرف وُچھُن چھُ کٲفی۔</p><h2>ضرورتس پیٚٹھ بغیر اِنٹرنیٹہٕ</h2><p>شروٗعاتی تصویر تہٕ سٲری اَٹھ تصویر پیک چھِ ایپس منٛز شٲمِل۔ لانہٕ آمٕژَن تصویرن ہٕنٛزِ کاپِیہٕ چھِ بغیر اِنٹرنیٹہٕ چلان۔ اگر کانٛہہ اصل فوٹو صِرف iCloud منٛز آسہِ، تَلہِ ہؠکہِ اِنٹرنیٹ کَنیکشنٕچ ضرورت پؠتھ۔</p><h2>نہ کانٛہہ اکاونٛٹ، نہ فوٹو سِنک سرور</h2><p>خاندانک فوٹوَن ہٕنٛزِ کاپِیہٕ چھِ ڈیوائسس پیٚٹھ ایپس اندر روزان۔ تُہؠ ہؠکِو اصل فوٹو مٹاونہٕ ورٲے یہِ کاپِیہٕ ہٹٲوِتھ۔ ڈیوائس بیک اپس منٛز ہؠکہِ ایپک ڈیٹا شٲمِل ٲسِتھ۔ <a href=\"/app-privacy/\">ایپ رازدٲری ہٕنٛز پالیسی</a> پَرِو، تہٕ <a href=\"/help/\">ایپ مدد</a> چھِ پرٛؠتھ قَدَم سمجاوَن منٛز رہنُمٲیی کران۔</p>",
+      "disclaimer": "Golden Moments چھُ تَفرِیح تہٕ پانہٕ وٲنی کَتھ باتھ خٲطرٕ۔ یہِ چھُ نہٕ ڈیمینشیا یا الزائمر بؠمٲرؠ ہٕنٛز تَشخِیٖص، عِلاج، روک تھام یا پیمٲیِش کران۔",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "ڈیمینشیا تہٕ الزائمر خٲطرٕ مُفت آن لائن گیمز",
+    "description": "ڈیمینشیا یا الزائمر سٟتؠ زندگی گزارَن وٲلؠن بٔڑؠن خٲطرٕ مُفت آن لائن گیمز: تصویر رلاوُن، سَہَل جِگسا پزل، چھانٹُن، کہاوتہٕ، رنٛگ بَرُن، بِنٛگو۔ نہ کانٛہہ سائن اَپ، ٹائمر یا سکور۔",
+    "crumb": "گیمز",
+    "h1": "ڈیمینشیا سٟتؠ زندگی گزارَن وٲلؠن خٲطرٕ نرم گیمز",
+    "lede": "پننِس براؤزرس منٛز رَلتھ گِنٛدنہٕ خٲطرٕ {count} مُفت گیمز۔ بٔڈؠ تصویر، سَہَل الفاظ، تہٕ ناکام گژھنُک کانٛہہ خوف نہ: نہ ٹائمر، نہ سکور، نہ سائن اَپ۔",
+    "listName": "ڈیمینشیا سٟتؠ زندگی گزارَن وٲلؠن خٲطرٕ نرم گیمز",
+    "byStageTitle": "مَرحلہٕ مُطٲبِق گیم چُنُن",
+    "byStageLede": "مَرحلہٕ چھِ صِرف اَکھ سَہَل رہنُمٲیی۔ امِہ کَتھہِ پیٚٹھ توجہ دِیو زِ تُہنٛد پیارو کیاہ چھُ پسند کران تہٕ اَز امِس کی٘ا چھُ سَہَل باسان۔",
+    "stageCol": "مَرحلہٕ",
+    "gamesCol": "گیمز یِم اکثر مُناسِب چھِ آسان",
+    "moreHtml": "سکرین نِش دوٗر بیٚیہِ تجویز: <a href=\"/activities/ideas/\">ڈیمینشیا سٟتؠ زندگی گزارَن وٲلؠن خٲطرٕ 101 سرگرمی</a>، <a href=\"/activities/alzheimers/\">الزائمر خٲطرٕ سرگرمی تہٕ گیمز</a>، <a href=\"/activities/memory-games/\">نرم یاداشت گیمز</a> تہٕ <a href=\"/activities/puzzles/\">پزل</a>۔",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "اَسہِ کٔمؠ گیمہِ سٟتؠ شروٗع کَرُن پَزِ؟",
+        "a": "ژورو ٹائلَو سٟتؠ تصویر جوڑٕ اَکھ پُرسکوٗن شروٗعٲتی اِنتخاب چھُ۔ اگر تصویرن منٛزٕ چُنُن بوٗجھ باسی، تَلہِ دوٚن تصویرن سٟتؠ ’ہِوی ژھانٛڈِو‘ آزمٲوِو۔ جَماتھ خٲطرٕ، تصویر بِنٛگو آزمٲوِو۔"
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "کیاہ یہِ گیمز چھا آئی پیڈ یا فونَس پیٚٹھ کٲم کران؟",
+        "a": "آ۔ پرٛؠتھ کانٛہہ گیم چھِ فون، ٹیبلٹ تہٕ کمپیوٹر کِس براؤزرس منٛز چلان، تہٕ تصویر چھِ بٔڈؠ گژھِتھ پوٗرٕ سکرین بھَران۔ سٚٹینڈس پیٚٹھ ٹیبلٹ تھاوُن چھُ اکثر دۄیو نَفرَن خٲطرٕ ساروی کھۄتہٕ آرام دہ آسان۔"
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "کیاہ یہِ گیمز چھا الزائمر وٲلؠ کٲنٛسہِ شخصہٕ خٲطرٕ اصل؟",
+        "a": "آ۔ یہِ چھِ ڈیمینشیا سٟتؠ زندگی گزارَن وٲلؠن خٲطرٕ بناونہٕ آمٕژ، یَتھ منٛز الزائمر تہِ شٲمِل چھُ یُس امیک ساروی کھۄتہٕ عام سبب چھُ۔ تصویر چھِ سامنے روزان، اِنتخاب چھِ کم آسان، تہٕ نہ چھُ کانٛہہ وقتُک دباو یا سکور، لہٰذا یہِ گیمز چھِ نٔوؠ چیٖز یاد تھاونہٕ بَدلہٕ زانٛنَہہ ہار چیٖزن ہٕنٛز پَژھان پیٚٹھ اِنحصار کران۔"
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "کیاہ یہِ چھا بٔڑؠن خٲطرٕ یاداشتٕچ گیمز؟",
+        "a": "یہِ چھِ جوڑٕ رلاونٕچ تہٕ تصویرن ہٕنٛزِ گیمز یِمَن سٟتؠ کانٛہہ تہِ بٔڑ نَفَر لُطُف ہؠتھ چھُ ہؠکان، مگر یہِ چھِ نہٕ یاداشتُک اِمتحان لِنہٕ خٲطرٕ بناونہٕ آمٕژ: تصویر جوڑَن منٛز چھِ تصویر سامنے روزان یوتان نہ تُہؠ پانہٕ تِم چھُپاونُک اِنتخاب کٔرِو۔ ڈیمینشیا سٟتؠ بٔڑؠن خٲطرٕ یاداشت گیمز ہُنٛد اسانٛدا رہنُما چھُ سمجاوان زِ کانٛہہ تہِ یاداشت گیم کِتھ کَن ہؠکِو نرم تھٲوِتھ۔"
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "کیاہ کیئر ہومَس منٛز گروپن یا جَماتھ خٲطرٕ گیمز چھا؟",
+        "a": "آ۔ تصویر بِنٛگو منٛز چھِ پرِنٛٹ گژھَن وٲلؠ کارڈ تہٕ سکرین کالر، تہٕ کہاوت پوٗرٕ کٔرِو تہٕ گفتگو کارڈ چھِ جَماتھ مَنٛز کَنڈِ پڑھنہٕ سٟتؠ واریاہ اَصل کٲم کران۔"
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone، iPad تہٕ Android",
+    "requirements": "iOS 15 یا پتہٕ؛ Android 7.0 یا پتہٕ",
+    "summary": "iPhone، iPad تہٕ Android خٲطرٕ اَکھ مُفت ایپ یَتھ منٛز ژورو پیٚٹھٕ باہَن بٔڑؠن ٹائلَن پیٚٹھ نرم تصویر رلاوُن، تُہنٛدؠن چُننہٕ آمٕتؠن خاندانک فوٹوَن سٟتؠ جوڑٕ رلاوُن تہٕ وُچھُن، تہٕ اَٹھ شٲمِل تصویر پیک چھِ یِم بغیر اِنٹرنیٹہٕ کٲم کران چھِ۔ نہ کانٛہہ اکاونٛٹ، اِشتِہار، ٹائمر یا سکور۔",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "4، 6، 8 یا 12 بٔڑؠو ٹائلَو سٟتؠ نرم تصویر رلاوُن؛ تصویر چھِ سامنے روزان یوتان نہ تُہؠ تِم چھُپاونُک اِنتخاب کٔرِو",
+      "تُہنٛدؠ چُننہٕ آمٕتؠ خاندانک فوٹو چھِ رلاونہٕ تہٕ رَلتھ وُچھنہٕ خٲطرٕ ایپس منٛز کاپی گژھان",
+      "رَلتھ وُچھِو: اَکہِ وقتہٕ اَکھ تصویر، اِختیاری کَتھ باتھ کٔرنٕکؠن سوالن سٟتؠ",
+      "ایپس سٟتؠ اَٹھ تصویر پیک شٲمِل؛ یِم چھِ بغیر اِنٹرنیٹہٕ چلان",
+      "نہ کانٛہہ اکاونٛٹ، اِشتِہار، ایپ اَندر خٔریٖدٲری، ٹائمر، سکور یا جُرمانہٕ"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "کیاہ ڈیمینشیا ہٕنٛزن سرگرمیَن ہٕنٛز کانٛہہ ایپ چھا؟",
+        "a": "آ۔ Golden Moments (یُس \"{storeName}\" ناوٕ سٟتؠ درج چھُ) چھُ App Store تہٕ Google Play پیٚٹھ مُفت۔ یہِ چھُ بٔڑؠن ٹائلَن سٟتؠ نرم تصویر رلاوُن، تُہنٛدؠن چُننہٕ آمٕتؠن خاندانک فوٹوَن سٟتؠ گیمز، تہٕ بغیر اِنٹرنیٹہٕ چَلَن وٲلؠ تصویر پیک پیش کران۔"
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "کیاہ Golden Moments ایپ چھا مُفت؟",
+        "a": "آ۔ یہِ چھِ ڈاؤن لوڈ کرنہٕ خٲطرٕ مُفت، بغیر کٲنٛسہِ اِشتِہار، اکاونٛٹ یا ایپ اَندر خٔریٖدٲری۔"
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "کیاہ یہِ ایپ چھا بغیر اِنٹرنیٹہٕ کٲم کران؟",
+        "a": "آ۔ شروٗعاتی تصویر تہٕ سٲری اَٹھ تصویر پیک چھِ ایپس سٟتؠ شٲمِل، تہٕ ایپس منٛز کاپی گژھنہٕ پتہٕ چھِ خاندانک فوٹو بغیر اِنٹرنیٹہٕ کٲم کران۔ اگر کانٛہہ فوٹو صِرف iCloud منٛز آسہِ، تَلہِ امِہ چُننہٕ خٲطرٕ ہؠکہِ اِنٹرنیٹ کَنیکشنٕچ ضرورت پؠتھ۔"
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "کیاہ بہٕ ہؠکا پننِس خاندانک فوٹو اِستعمال کٔرِتھ؟",
+        "a": "آ۔ پننِس ڈیوائسَس منٛزٕ چُنِو فوٹو۔ یہِ ایپ چھِ سرگرمین خٲطرٕ ڈیوائسَس پؠٹھ فوٹوین ہٕنٛز لۄکٕٹ کاپیاہ تھاوان، یِم چھِ نہٕ کُن اپلوڈ کَران تہٕ اصلی فوٹوین چھِ نہٕ زانٛہہ بَدلاوان۔ تُہۍ ہؠکِو یِم کاپیاہ کُنہِ تہِ وقتہٕ ہٹٲوِتھ۔"
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "کیاہ یہِ چھا دِماغَس ٹرین کَرنٕچ یا یاداشت پَرکھنٕچ کانٛہہ ایپ؟",
+        "a": "نہٕ۔ Golden Moments چھُ خوشی تہٕ اکھ وٹہِ وقت گُزارنہٕ خٲطرٕ۔ اَتھ منٛز چھُ نہٕ کانٛہہ سکور یا ٹیسٹ، تہٕ یہِ چھُ نہٕ ڈیمینشیا یا الزائمر بیماری ہُنٛد نہ تشخیص کَران، نہ عِلاج کَران، نہ اَمہِ نِش بَچاوَک دعویٰ کَران تہٕ نہ چھُ اَتھ ناپان۔"
       },
       {
-        "q": "Which devices does it work on?",
-        "a": "{platforms}: {requirements}."
+        "q": "یہِ چھُ کٔمن ڈیوائسن پؠٹھ کٲم کَران؟",
+        "a": "{platforms}: {requirements}۔"
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "کیاہ اَتھ کھیلَس چھا کانٛہہ ایپ ورژَن تہِ موجوٗد؟",
+      "a": "آ۔ iPhone، iPad تہٕ Android خٲطرٕ مُفت Golden Moments ایپَس منٛز چھُ یُتھٕے پٲٹھۍ تصویرٕ مِلاونک نرم کھیل، اَتھ منٛز چھِ تُہنٛزِ مرضی ہٕنٛدؠ عِیالٕکؠ فوٹو تہِ اِستعمال گژھان، تہٕ یہِ چھِ انٹرنیٹہٕ ورٲے کٲم کَران۔ اَتھ منٛز چھُ نہٕ کانٛہہ اکاؤنٹ، اِشتہار یا سکور۔"
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "کیاہ اَتھ کھیلَس چھا کانٛہہ ایپ ورژَن تہِ موجوٗد؟",
+      "a": "اَتھ کھیلَس نہٕ۔ iPhone، iPad تہٕ Android خٲطرٕ مُفت Golden Moments ایپَس منٛز چھِ بٔڑؠن ٹائلَن س٭تۍ تصویرٕ مِلاونک نرم کھیل تہٕ تُہنٛدِ عِیالٕکؠ چُننہٕ آمٕتۍ فوٹو، تہٕ یہِ چھِ انٹرنیٹہٕ ورٲے کٲم کَران۔ یہِ کھیل رۆزِ ییٚتین تُہنٛدِس براؤزرَس منٛز مُفت۔"
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: بٔڑؠ، دل پسند تصویرٕ",
+    "noscript": "اَتھ کھیلَس خٲطرٕ چھُ تُہنٛدِس براؤزرَس منٛز جاوا سکرپٹ (JavaScript) چالو آسُن ضروٗری۔ بۄنہِ کَنہِ دِنہٕ آمٕتۍ مشورٕ چھِ اَمہِ ورٲے تہِ کٲم کَران۔",
+    "about": "{name} مُتعلِق",
+    "aboutAria": "اَتھ کھیلَس مُتعلِق",
+    "noTimer": "نہٕ کانٛہہ ٹائمر تہٕ نہٕ سکور",
+    "printable": "پرنٹ کرنہٕ لائق",
+    "howTo": "{name} کِتھ کَنہِ گِنٛدُن",
+    "tips": "اکھ وٹہِ گِنٛدنہٕ خٲطرٕ مشورٕ",
+    "newToPlayingHtml": "ڈیمینشیا س٭تۍ زندگی گُزارن وٲلؠ شَخصَس س٭تۍ چھِوا گۄڈنچہِ لٹہِ گِنٛدان؟ پَرِو <a href=\"/caregiving/how-to-play-together/\">اکھ وٹہِ کھیل کِتھ کَنہِ گِنٛدُن</a>، اَتھ منٛز چھُ یہِ تہِ درج زِ اگر تِمن دِلچسپی رۆزِ نہٕ تیٚلہِ کیاہ کَرُن۔",
+    "moreAria": "مٔزید کھوجنٕچ چیٖزٕ",
+    "helpfulGuides": "مفید رہنمائی",
+    "appTitle": "ایپَس منٛز گِنٛدِو",
+    "appText": "مُفت Golden Moments ایپَس منٛز چھِ بٔڑؠن ٹائلَن س٭تۍ تصویرٕ مِلاونک نرم کھیل تہٕ تُہنٛدِ عِیالٕکؠ فوٹو، تہٕ یہِ چھِ وائی فائی (Wi‑Fi) ورٲے کٲم کَران۔ iPhone، iPad تہٕ Android۔",
+    "photoAppTitle": "پننؠن فوٹوین تھاوِو تیّار",
+    "photoAppText": "مُفت Golden Moments ایپَس منٛز، تُہنٛدِ چُننہٕ آمٕتۍ فوٹو چھِ دۆبارٕ خٲطرٕ تُہنٛدِس ڈیوائسَس پؠٹھ رۆزان، تہٕ کھیل چھِ وائی فائی (Wi‑Fi) ورٲے کٲم کَران۔ iPhone، iPad تہٕ Android۔",
+    "goodToKnow": "زانُن چھُ اَہَم",
+    "goodToKnowText": "یہِ کھیل چھُ لُطف انٛدوز گژھنہٕ تہٕ اکھ وٹہِ وقت گُزارنہٕ خٲطرٕ۔ یہِ چھُ نہٕ کُنہِ چیٖزٕچ جانچ کَران، نہ ناپان تہٕ نہ عِلاج کَران۔",
+    "moreGames": "مٔزید نرم کھیل",
+    "crumb": "کھیل"
   }
 }
