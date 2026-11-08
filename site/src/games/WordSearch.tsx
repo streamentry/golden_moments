@@ -122,7 +122,7 @@ function WordSearchGame(props: PlayProps) {
           message ||
           (allFound
             ? fill(ui.wordSearch.foundAll, { word: '' })
-            : `${ui.wordSearch.guidance}. ${grid.words.filter((w) => !found.includes(w)).join(', ')}.`)
+            : `${ui.wordSearch.guidance}. ${grid.words.filter((w) => !found.includes(w.word)).map((w) => w.word).join(', ')}.`)
         }
         message={message}
         onRestart={() => {
