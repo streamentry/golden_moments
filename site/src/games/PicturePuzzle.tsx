@@ -80,6 +80,16 @@ export default function PicturePuzzle(props: PlayProps) {
           <ChoiceChips legend={ui.picturePuzzle.sizeLegend} choices={sizes} value={size} onChange={(v) => setSize(v as 2 | 3)} />
         </>
       }
+      footer={
+        solved ? (
+          <div className="game__done">
+            <p>{ui.picturePuzzle.done}</p>
+            <button type="button" className="btn btn--primary" onClick={() => setRound((r) => r + 1)}>
+              {ui.picturePuzzle.playAgain}
+            </button>
+          </div>
+        ) : null
+      }
     >
       <div className="puzzle-guide">
         <img src={url} alt={fill(ui.picturePuzzle.guideAlt, { name: pictureName(picture) })} width={96} height={96} />
@@ -107,14 +117,6 @@ export default function PicturePuzzle(props: PlayProps) {
           );
         })}
       </div>
-      {solved ? (
-        <div className="game__done">
-          <p>{ui.picturePuzzle.done}</p>
-          <button type="button" className="btn btn--primary" onClick={() => setRound((r) => r + 1)}>
-            {ui.picturePuzzle.playAgain}
-          </button>
-        </div>
-      ) : null}
     </GameFrame>
   );
 }

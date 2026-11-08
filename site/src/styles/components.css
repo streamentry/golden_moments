@@ -299,8 +299,14 @@
   display: inline-block;
   padding-block: 10px;
 }
+.breadcrumbs a:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
 .breadcrumbs [aria-current='page'] {
-  color: var(--gm-on-surface-variant);
+  color: var(--gm-on-surface);
+  font-weight: 700;
   padding-block: 10px;
   display: inline-block;
 }
@@ -879,6 +885,13 @@ summary {
   .answer {
     border: 2px solid #222222 !important;
   }
+  .breadcrumbs [aria-current='page'] {
+    color: #000000;
+    font-weight: 800;
+  }
+  .breadcrumbs li:not(:last-child)::after {
+    color: #222222;
+  }
   :focus-visible {
     outline-width: 4px !important;
     outline-offset: 2px !important;
@@ -899,5 +912,8 @@ summary {
   .faq details,
   .answer {
     border: 2px solid CanvasText;
+  }
+  .breadcrumbs [aria-current='page'] {
+    font-weight: 800;
   }
 }
