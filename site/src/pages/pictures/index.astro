@@ -135,6 +135,53 @@ const count = PICTURES.length;
       box-shadow: var(--shadow-raised);
     }
   }
+  @media (prefers-reduced-motion: reduce) {
+    .pic-print,
+    .pic-print--0,
+    .pic-print--1,
+    .pic-print--2,
+    .pic-print--3 {
+      transform: none !important;
+    }
+  }
+  @media (prefers-contrast: more) {
+    .pic-jump a {
+      border: 3px solid #000000;
+      color: #000000;
+    }
+    .pic-jump a:hover,
+    .pic-jump a:focus-visible {
+      border-color: #000000;
+      background: #000000;
+      color: #FFFFFF;
+    }
+    .pic-print {
+      border: 2px solid #000000;
+    }
+    .pic-print:hover,
+    .pic-print:focus-visible {
+      border-color: #000000;
+      outline: 2px solid #000000;
+    }
+  }
+  @media (forced-colors: active) {
+    .pic-jump a {
+      border: 2px solid ButtonText;
+    }
+    .pic-jump a:hover,
+    .pic-jump a:focus-visible {
+      border-color: Highlight;
+      outline: 2px solid Highlight;
+    }
+    .pic-print {
+      border: 2px solid CanvasText;
+    }
+    .pic-print:hover,
+    .pic-print:focus-visible {
+      border-color: Highlight;
+      outline: 2px solid Highlight;
+    }
+  }
   @media print {
     .pic-jump { display: none; }
     .pic-grid { grid-template-columns: repeat(3, 1fr); }

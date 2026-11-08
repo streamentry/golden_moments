@@ -615,6 +615,11 @@
   cursor: pointer;
   list-style: none;
 }
+.faq summary:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 4px;
+  border-radius: var(--radius-sm);
+}
 .faq summary::-webkit-details-marker {
   display: none;
 }
@@ -907,6 +912,15 @@ summary {
   .answer {
     border: 2px solid #222222 !important;
   }
+  .faq summary::after {
+    border: 3px solid #000000;
+    color: #000000;
+    font-weight: 800;
+  }
+  .faq summary:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 4px;
+  }
   .cta-band {
     border: 2px solid #000000;
   }
@@ -1003,6 +1017,14 @@ summary {
   .faq details,
   .answer {
     border: 2px solid CanvasText;
+  }
+  .faq summary::after {
+    border: 2px solid CanvasText;
+    color: CanvasText;
+  }
+  .faq summary:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 4px;
   }
   .cta-band {
     border: 2px solid CanvasText;
