@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Laulau hegeregere",
+    "seoTitle": "Lalo-boio Gorere Taudia Edia Gedegede: Laulau Hegeregere",
+    "h1": "Laulau Hegeregere: Gedegede Manoka Ta",
+    "description": "Davana lasi bona manoka gedegede, lalo-boio gorere idia abia taudia totona.",
+    "short": "Laulau rua hegeregere oi tahua. Laulau be do idia hedinarai noho diba.",
+    "players": "Taunimanima 1 eiava 2, badibadinai",
+    "intro": "Laulau ta oi daua, bena hegeregere laulau ma oi daua. Laulau be do idia hedinarai noho dainai, gau ta laloatao be auka lasi. Bema laulau rua idia hegeregere, golo heto isena bona mak namona do ia hedinarai.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Laulau hida oi ura hegaulaia oi abia hidi. Laulau foa be namo nega ginigunana totona.",
+      "Laulau ta oi daua. Golo heto isena do ia abia.",
+      "Hegeregere laulau ma oi daua. Laulau ruaosi be do idia noho hebou mai mak namona ida.",
+      "Bema laulau rua idia idau, dika ta lasi. Oi noho hegaegea neganai, oi daua lou diba.",
+      "\"Laulau hunia\" oi kehoa bema umui ruaosi emui ura be laulau gahuia dalana."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Laulau edia ladana umui gwauraia hebou bona herevahereva: \"Ti kap kakarukana. Oi be ti lalonai mirik oi atoa a?\"",
+      "Oi naria tauna be sibona laulau baine daua, ena be nega sisina baine abia. Idia totona oi duduia, to oi daua lasi.",
+      "Laulau foa dekenai umui noho bema ia namo. Laulau momo be emui ura, to auka dalana ta lasi.",
+      "Umui moale noho neganai gedegede umui dokoa. Gedegede tamona be hegeregere namonamo."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kloki eiava mak ia noho a?",
+        "a": "Lasi. Kloki, mak, namba idia duahia gauna, eiava moru dalana ta lasi. Nega ibounai oi dokoa diba, bona padiranai dokoa danu be dalanai namo."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Dahaka dainai laulau be do idia hedinarai noho?",
+        "a": "Laulau idia hedinarai neganai, ia be itaia bona hahegeregere dalana, to laloatao dalana lasi. Taunimanima momo idia moale unai heto. Oi ura neganai, daua tamona dekenai laulau oi hunia diba."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ia be davana lasi a, bona lada atoa be namo a?",
+        "a": "Oibe, davana lasi, bona akaun, sain-ap, eiava dounlod lasi. Ia be fon, tablet, eiava kompiuta edia web brausa lalonai ia karaia diba."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Ita edia famili piksa ita hegaulaia diba a?",
+        "a": "Oibe. Laulau hegeregere oi tohoa, emu fon eiava kompiuta amo piksa oi abia diba. Piksa be emu brausa lalonai do idia noho, bona ataiai idia siaia lasi."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Hegeregere gauna tahua",
+    "seoTitle": "Hegeregere Laulau Tahua: Lalo-boio Gorere Edia Gedegede Manoka",
+    "h1": "Hegeregere Laulau Tahua",
+    "description": "Ataiai laulau tamona, bona henunai laulau rua ela bona foa. Hegeregere laulau oi daua.",
+    "short": "Ataiai laulau oi itaia, bena henunai hegeregere laulau oi daua.",
+    "players": "Taunimanima 1 eiava 2",
+    "intro": "Laulau tamona be skrin ataiai ia noho. Henunai be laulau rua, toi, eiava foa idia noho. Hegeregere laulau oi daua. Ia be abia hidi manoka tamona nega tamona ai, bona herevahereva totona nega bada ia noho.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Laulau rua, toi, eiava foa oi abia hidi. Laulau rua be manoka herea.",
+      "Ataiai laulau umui itaia hebou.",
+      "Henunai hegeregere laulau oi daua. Mak namona bona hereva namona do ia hedinarai.",
+      "Bema idau laulau oi daua, gedegede ese ladana mo ia gwauraia bona ia naria. Nega oi abia manoka.",
+      "Ma ta totona oi hegaegae neganai, \"Laulau ma ta\" oi daua."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Do umui abia hidi lasi neganai, laulau totona umui hereva: kala, toana, bona edeseni ai do umui itaia.",
+      "Abia hidi rua be \"manoka momo\" lasi. Tahua gauna be nega moalena, to auka heheni lasi.",
+      "Bema daua be auka, tau eiava hahine ese baine duduia bona oi ese ia totona oi daua diba."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kloki eiava mak ia noho a?",
+        "a": "Lasi. Kloki, mak, namba idia duahia gauna, eiava moru dalana ta lasi. Nega ibounai oi dokoa diba, bona padiranai dokoa danu be dalanai namo."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kerere laulau ita daua neganai, dahaka ia vara?",
+        "a": "Gau dika ta ia vara lasi. Gana regena, kros kakarukana, eiava auki lasi. Gedegede ese oi daua laulau ena ladana mo ia gwauraia bona daua ma ta totona ia naria."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ia be davana lasi a, bona lada atoa be namo a?",
+        "a": "Oibe, davana lasi, bona akaun, sain-ap, eiava dounlod lasi. Ia be fon, tablet, eiava kompiuta edia web brausa lalonai ia karaia diba."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kerumukerumu hegeregere",
+    "seoTitle": "Kerumukerumu Hegeregere Lalo-boio Gorere Totona: Intanet Davana Lasi",
+    "h1": "Kerumukerumu Hegeregere: Laulau Gedegede Manoka",
+    "description": "Ataiai be kerumukerumu koremana, bona henunai be laulau rua ela bona foa. Kerumukerumu ia karaia laulau oi daua.",
+    "short": "Kerumukerumu oi itaia bona ia karaia laulau oi daua.",
+    "players": "Taunimanima 1 eiava 2",
+    "intro": "Kerumukerumu hegeregere be pepa amo ita diba gauna, to iniseni ai be laulau badadia bona pepa printia lasi. Kerumukerumu manoka be skrin ataiai ia noho, bona henunai be laulau rua, toi, eiava foa idia naria. Kerumukerumu ia karaia laulau oi daua. Baisikel, ambrela, eiava ti kap heto toadia totona herevahereva be auka lasi danu.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Laulau rua, toi, eiava foa oi abia hidi. Laulau rua be manoka herea.",
+      "Kerumukerumu umui itaia hebou. Ia be dahaka toana? Lada daekau eiava kubolu?",
+      "Kerumukerumu ia karaia laulau oi daua. Ena ladana be kerumukerumu henunai do ia hedinarai.",
+      "Bema idau laulau oi daua, gedegede ese ladana mo ia gwauraia bona ia naria. Nega oi abia manoka.",
+      "Ma ta totona oi hegaegae neganai, \"Kerumukerumu ma ta\" oi daua."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Ima kwakikwakina amo kerumukerumu isena oi tohotuhoia bona toana totona umui herevahereva.",
+      "Bema hari dina kerumukerumu be auka sisina, Hegeregere gauna tahua dekenai umui lao, unuseni ai laulau be hegeregere.",
+      "Laulau umui davaria neganai, unai totona umui herevahereva: \"Guna ita be mai eda ambrela inai heto.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kloki eiava mak ia noho a?",
+        "a": "Lasi. Kloki, mak, namba idia duahia gauna, eiava moru dalana ta lasi. Nega ibounai oi dokoa diba, bona padiranai dokoa danu be dalanai namo."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Laulau kerehai hegeregere gadara be namo lalo-boio gorere idia abia taudia edia dekenai?",
+        "a": "Ia be gadara namona bona harahevana taunimanima haida totona, matamaia neganai hegeregere. Toana be ita diba haraga, hereva hegeregere lasi. Ia be moale bona herevahereva totona, henanadai gwauraia lasi, bona ia ese lalo-boio gorere ia hamauria eiava ia hametaua lasi. Bema ia ese lalo-hekwarahi ia havaraia, Find the same tohoa eiava laulau henia hebou mo."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Dahaka ia vara bema laulau kererena oi tohoa?",
+        "a": "Dahaka dika lasi. Gado dika, satauro kakana eiava tataru lasi. Gadara ese laulau oi tohoa ena ladana ia gwauraia bona tohoa iharuana ia naria."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ia be davana lasi, bona lau ladana torea be hegeregere?",
+        "a": "Oibe, ia be davana lasi, bona akaun, ladana torea eiava hekokoroku lasi. Ia be web browser lalonai fon, teblet eiava kompiuta ai gaukara diba."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Hapararaia hebou",
+    "seoTitle": "Hapararaia Gadara Lalo-boio Totona: Hapararaia Hebou",
+    "h1": "Hapararaia Hebou: Laulau Hapararaia Gaukara",
+    "description": "Laulau ta tohoa, bena ena bosea korikori tohoa: ruma ruma lalonai eiava uma gabu, aniani huahua eiava boroma/manu.",
+    "short": "Laulau ta ta ena bosea lalonai atoa: ruma ruma lalonai eiava uma gabu, bona ma haida.",
+    "players": "Taunimanima 1 eiava 2",
+    "intro": "Gau hapararaia be dina ibounai gaukara namona bona hegeregere, aniani atoa eiava sokisi hegeregere gogoa bamona. Laulau ta tohoa, bena ena bosea korikori tohoa. Lalo-hagaia lasi bona kerere lasi.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Uru ta abia hidi: ruma ruma lalonai bona uma gabu, huahua bona boroma/manu, eiava ruma bona laolao.",
+      "Laulau ta tohoa. Golo isena ia abia.",
+      "Ena bosea korikori tohoa. Laulau be unai bosea lalonai ia lao.",
+      "Bema ia be bosea ta totona, gadara ese manoka ia herevaia bona ia naria.",
+      "Laulau ibounai oi hapararaia vaitani neganai, bosea lalonai gadoi hebou."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Dina ibounai mauri lalonai haere kererena lasi. Bema tauna ia gwau ranu henia kapusi be ruma lalonai ia noho, henanadai dahaka dainai. Hereva namona do oi kamonai diba.",
+      "Laulau gaukaralaia hereva hamatamaia totona: \"Emui uma gabu lalonai dahaka oi hadoa?\"",
+      "Gau korikoridia hapararaia, sipunu bona pata eiava auki kaladia hegeregere, be skrin murimurinai gaukara namona danu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Klok eiava poini ia noho?",
+        "a": "Lasi. Klok, poini, numera duahia eiava moru lasi. Nega ibounai oi doko diba, bona huanai oi hadokoa be dala namo herea."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Dahaka dainai hapararaia?",
+        "a": "Taunimanima momo ese hapararaia idia moalelaia badina ia be gaukara namona bona hegeregere bamona. Laulau herevaherevalaia danu be haraheva negana ai."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ia be davana lasi, bona lau ladana torea be hegeregere?",
+        "a": "Oibe, ia be davana lasi, bona akaun, ladana torea eiava hekokoroku lasi. Ia be web browser lalonai fon, teblet eiava kompiuta ai gaukara diba."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Laulau hegeregere gadara",
+    "seoTitle": "Haraheva Pasolo Lalo-boio Totona: Kahana 4 eiava 9",
+    "h1": "Laulau Pasolo: Haraheva Gadara",
+    "description": "Haraheva intanet pasolo lalo-boio gorere idia abia taudia totona: kahana badadia 4 eiava 9, laulau idoinai ia hedinarai noho, bona kahana rua oi tohoa.",
+    "short": "Kahana rua tohoa gabu senisia totona ela bona laulau ia hegeregere.",
+    "players": "Taunimanima 1 eiava 2",
+    "intro": "Laulau namona be kahana bada foa eiava nain ai utua bona miroia hebou. Laulau idoinai be ataiai ia noho dainai ita diba. Kahana ta tohoa, bena ma ta, idia ese gabu idia senisia. Veria be lasi.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Laulau ta abia hidi bona kahana 4 eiava 9. Foa be matamaia harahevana.",
+      "Laulau idoinai ataiai itaia.",
+      "Kahana ta tohoa, bena gabu ia lao gabuna tohoa. Kahana ruaosi gabu idia senisia.",
+      "Kahana gabu korikorinai ia noho neganai, toana maragina ia hedinarai.",
+      "Laulau ia hegeregere vaitani neganai, moalelaia hebou, bena ma ta abia hidi."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Kahana rua tohoa gabu senisia totona be haraheva herea, veria hegeregere lasi taunimanima momo dekenai.",
+      "Laulau hegeregere neganai ia herevalaia: \"Unai be guhi kakana.\"",
+      "Au pasolo korikori mai kahana badadia 12 ela 24 be tebolo ataiai gaukara namo herea danu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Klok eiava poini ia noho?",
+        "a": "Lasi. Klok, poini, numera duahia eiava moru lasi. Nega ibounai oi doko diba, bona huanai oi hadokoa be dala namo herea."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Kahana do lau veria be namo?",
+        "a": "Lasi. Kahana ta tohoa, bena ma ta tohoa, idia gabu idia senisia. Inai be haraheva bema ima ia hekwarahi eiava skrin maragina lalonai."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ia be davana lasi, bona lau ladana torea be hegeregere?",
+        "a": "Oibe, ia be davana lasi, bona akaun, ladana torea eiava hekokoroku lasi. Ia be web browser lalonai fon, teblet eiava kompiuta ai gaukara diba."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Hereva hadokoa",
+    "seoTitle": "Hereva Hadokoa: Aonega Herevadia Gadara Mauri Buruka Totona",
+    "h1": "Hereva Hadokoa",
+    "description": "Hereva hegeregeredia mai hereva dokona ia boio, \"Moni maragina oi naria be moni maragina ___\" bamona. Abia hidi ta tohoa eiava dokona hahedinaraia, bena herevalaia.",
+    "short": "Hereva hegeregeredia hadokoa hebou, bena herevalaia.",
+    "players": "1, 2 eiava orea ta",
+    "intro": "Hereva gunadia be mauri lalonai ita diba momo. Kasi ta ta ese hereva ia hahedinaraia mai dokona ia noho lasi, abia hidi toi, bona \"Dokona hahedinaraia\" batona. Dokona murinai, henanadai manokana ese herevahereva ia veria mai.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Hereva duahia henia hebou.",
+      "Hereva ia hadokoa tohoa, eiava \"Dokona hahedinaraia\" tohoa.",
+      "Hereva idoinai duahia lou bona henanadai amo herevahereva.",
+      "Oi hegaegae neganai \"Hereva ma ta\" tohoa."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Duahia metau bona doho maragimaragi hereva dokona do oi gwauraia lasi neganai. Nega momo taunimanima idia gwauraia guna.",
+      "Bema tauna ta ese dokona idau ia henia, moalelaia. Hereva haida be ruma bese eiava gabu idauidau hegeregere idau.",
+      "Orea lalonai, tauna ta ia duahia bona ibounai ese dokona idia gwauraia hebou."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Klok eiava poini ia noho?",
+        "a": "Lasi. Orona, mak, namba idia duahia gauna eiava kwalimu lasi karana be lasi. Nega ibounai oi doko diba, bona huanai oi doko be ia namo momokani hegeregere dokona."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Bema hereva idau ta ita abia, dahaka do ia vara?",
+        "a": "Gadou ese dokona hegeregerena do ia hedinarai bona herevahereva do ia hamatamaia. Namba helaidia be lasi, bona haere idau ta be ia namo hegeregere."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ia be davana lasi, bona egu ladana lau torea be namo?",
+        "a": "Oibe, ia be davana lasi, bona akaun, ladana torea eiava dounlod karana be lasi. Ia be web brausa lalonai ia karaia diba, fon, tablet eiava kompiuta latanai."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Leta badadia hereva tahua",
+    "seoTitle": "Leta Badadia Hereva Tahua Lalo-boio Gorere Taudia Totona, Pepa Latanai Torea Diba",
+    "h1": "Leta Badadia Hereva Tahua",
+    "description": "Davana lasi leta badadia hereva tahua gadouna buruka taudia bona lalo-boio gorere idia abia taudia totona.",
+    "short": "Leta badadia, hereva sisina mo, hekure bona hekei mo. Pepa latanai torea diba danu.",
+    "players": "Taunimanima 1 eiava 2",
+    "intro": "Maua maragina mai leta badadia bona hereva sisina mo, iboudiai be hekure eiava hekei idia heau. Hereva ena leta ginigunana tupua, bena ena leta dokona tupua. Pepa oi ura? Nega tamona tupua bona pepa matamata torea.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Hereva ena dala bona maua ena bada abia hidi.",
+      "Hereva lista itaia. Hereva be hekure (lauri dekena amo idiba kahana) eiava hekei (ataia amo henunai) idia heau.",
+      "Hereva ena leta ginigunana tupua, bena ena leta dokona tupua.",
+      "Oi davaria herevana be kala idau do ia abia bona lista amo do ia kokia.",
+      "\"Print this puzzle\" tupua pepa latanai gadara totona, pensil eiava maka amo."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Lista lalonai hereva ta duduia bona ena leta ginigunana tahua hebou.",
+      "Pepa latanai, maka badana dogoatao be mai manokana, pensil hegeregerena lasi.",
+      "Hereva idia gwauraia gaudia herevalaia. Huahua herevadia ese gau dabuia, nadua eiava maketi laloatao dalana idia kehoa diba."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Orona eiava namba helaidia be idia noho?",
+        "a": "Lasi. Orona, mak, namba idia duahia gauna eiava kwalimu lasi karana be lasi. Nega ibounai oi doko diba, bona huanai oi doko be ia namo momokani hegeregere dokona."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Lau ese hereva tahua gadouna pepa latanai lau torea diba?",
+        "a": "Oibe. \"Print this puzzle\" tupua inai maua leta badadia bona henunai noho hereva lista pepa latanai torea totona. Gadou matamata iboudiai be idauidau."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ia be davana lasi, bona egu ladana lau torea be namo?",
+        "a": "Oibe, ia be davana lasi, bona akaun, ladana torea eiava dounlod karana be lasi. Ia be web brausa lalonai ia karaia diba, fon, tablet eiava kompiuta latanai."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Kala henia rauadia",
+    "seoTitle": "Kala Henia Rauadia Lalo-boio Gorere Abia Taudia Totona (Davana Lasi)",
+    "h1": "Kala Henia Rauadia",
+    "description": "Kala henia rauadia hegeregere badadia taumatoi totona: kala ta tupua, bena laulau tupua.",
+    "short": "Kala ta tupua, bena laulau kahana ta tupua. Pepa latanai torea diba danu.",
+    "players": "Taunimanima 1 eiava 2",
+    "intro": "Raua mai toana badadia bona manokadia: heuro uro lalonai, ruma, ti kapuna, bebebe bona bouti. Kala ta tupua, bena laulau kahana ta tupua kala henia totona. Kala kererekerere be lasi.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Raua ta abia hidi.",
+      "Kala ta tupua. Kala ta ta be mai ena ladana torea.",
+      "Laulau kahana ta tupua unai kala henia totona.",
+      "Nega ibounai emu laloa giroa diba ma kala idau henia lou amo.",
+      "\"Print this page\" tupua raua kavakava pepa latanai torea totona, pensil eiava maka amo kala henia totona."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Bema kala momo abia hidi be auka, kala rua mo henia idia amo abia hidi totona.",
+      "Au mai kala paapol bona dina mai kala kakarukakaru be idia namo. Inai be moale abia kala dekenai, momokani karana lasi.",
+      "Pepa toreadia be maka eiava kreon tubutubudia ida namo, badina dogoatao be manoka."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Orona eiava namba helaidia be idia noho?",
+        "a": "Lasi. Orona, mak, namba idia duahia gauna eiava kwalimu lasi karana be lasi. Nega ibounai oi doko diba, bona huanai oi doko be ia namo momokani hegeregere dokona."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Inai rauadia be memero kekeni edia gaudia sibona?",
+        "a": "Ai ese gaudi kava lasi to gaudia mai manokadia bona maino ai tulaia, unai dainai idia be hegeregere taumatoi totona. Toa badadia ese kala henia karana ia hamaoromaoroa bona maragidia edia gauna bamona ia hahedinaraia lasi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ia be davana lasi, bona egu ladana lau torea be namo?",
+        "a": "Oibe, ia be davana lasi, bona akaun, ladana torea eiava dounlod karana be lasi. Ia be web brausa lalonai ia karaia diba, fon, tablet eiava kompiuta latanai."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Herevahereva kadi",
+    "seoTitle": "Herevahereva Hamatamaia Gaudi Lalo-boio Gorere Taudia Totona: Laulau Kadi",
+    "h1": "Herevahereva Kadi",
+    "description": "Laulau kadi mai herevahereva hamatamaia hegeregerena lalo-boio gorere idia abia taudia totona: henanadai auka lasi, haere maorona mo lasi.",
+    "short": "Laulau kadi mai henanadai manokadia bona kehodia. Henanadai aukadia be lasi.",
+    "players": "Taunimanima 2 eiava orea ta",
+    "intro": "Kadi ta ta ese diba laulauna bona herevahereva kehoa henanadaina ia henia, hegeregere \"Emu ura bada medu eiava dina negana be dahaka?\" Haere maorona sibona lasi bona gau ta laloatao be auka lasi. Hereva ena dala abia hidi eiava iboudiai buloa.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Hereva ena dala abia hidi, eiava \"All cards\" dogoatao.",
+      "Henanadai gado bada amo duahia bona laulau itaia hebou.",
+      "Kamonai, emu haere henia, bona herevahereva do ia lao hehereva.",
+      "\"Next card\" tupua negana oi hegaegae, eiava kadi tamona dekenai noho nega daudau emu ura hegeregerena.",
+      "\"Print all cards\" tupua pepa kadi utua totona."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Oi sibona danu henanadai haerelaia. Ia be herevahereva bamona do ia noho, henanadai gwauraia heheni karana lasi.",
+      "Sivarai murinai raka, gau momokanidia lasi. Bema gaudia idia idau, ia namo.",
+      "Bema kadi ese lalo-hisihisi gauna ia haginia, unai hemami abia dae bona metairametaira kadi ta dekenai lao."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Dahaka dainai \"Oi laloatao diba...?\" henanadaidia be idia lasi?",
+        "a": "Laloatao tohoa henanadaidia ese henanadai auka hegeregerena henia diba bona hemarai havaraia diba. Hereva kehodia hegeregere \"Lau hadibaia inai gauna dainai...\" ese taunimanima iboudiai kahanai henia diba, dahaka idia laloatao be ia hegeregere."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Lau ese kadi pepa latanai lau torea diba?",
+        "a": "Oibe. \"Print all cards\" ese kadi iboudiai leta badadia amo pepa latanai ia torea, raua tamona lalonai kadi haida, utua totona hegaegae."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ia be davana lasi, bona egu ladana lau torea be namo?",
+        "a": "Obe, ia be davana lasi, bona akaun, ladana torea eiava download be lasi. Ia be fon, tablet eiava kompiuta ena web browser lalonai e karaiamu."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Laulau hegeregere",
+    "seoTitle": "Famili ena Laulau amo Hahegeregere Gadara Karaia",
+    "h1": "Laulau Hegeregere: Emu Laulau Korikori Hahegeregere",
+    "description": "Emu ruma-bese ena laulau halaoa gadara manoka-manoka ta ai. Emu misini lalonai laulau 2 ela 6 abia hidi; idia be emu browser lalonai e miamu bona internet.",
+    "short": "Emu laulau korikori abia hidi bona hahegeregere. Gau ta asie heautoniamu.",
+    "players": "Taunimanima 2, badibadinai",
+    "intro": "Emu fon, tablet eiava kompiuta amo laulau rua ela tauratoi abia hidi, bena idia na hahegeregere gadara badadia bona hedinarai laulaudia ai baela. Laulau be inai rau lalonai sibona e hedinaraimu. Asie heautoniamu, asie hedogomu eiava asie hehenimu, bona rau o kouamu neganai e boiomu.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"Laulau abia hidi\" bapatua bona laulau rua ela tauratoi abia hidi.",
+      "Laulau ta ta na nega rua e hedinaraimu. Ta bapatua, bena iena hegeregere bapatua.",
+      "Laulau o davariamu neganai, ia herevalia.",
+      "O ore neganai, rau koua eiava \"Laulau kokia\" bapatua. Gau ta asie dogoamu."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Moale bona diba momo gaudia edia laulau hekaha abia hidi: sisia eiava pusi, uma, gabu namona ta, headava dinana.",
+      "Gabu bona gau edia laulau be aonega hegeregere, vaira laulaudia hegeregerena lasi, bona ladadia gwauraia hekwarahina e hekokorokumu.",
+      "Mase taudia edia laulau gwau kau, bema idia ese lalo-hisihisi e mailaiamu, a bema lalo-namo e henimu be hegeregere."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Egu laulau be gabu ta ai e heautoniamu?",
+        "a": "Lasi. Rau ese oi o abia hidi laulaudia na emu browser lalonai e duahimu bona emu skrin ai e hahedinaraimu. Idia na ai eiava tau ta dekenai asie hesiahi henimumu, bona rau o kouamu eiava o hahekahamu lou neganai e ore."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Nege e toana klok eiava poin be mia?",
+        "a": "Lasi. Klok, poin, namba eiava kwadogona be lasi. Nega ibounai oi hegeregere ba hadokoa, bona bogaragosi ai dokona danu be dalanana namona."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Nega gabeai totona gadara na baine hedogomu?",
+        "a": "Browser lalonai be lasi, bona unuhetomana dainai hehuni gauna ta asie hedogomu. Davana lasi Golden Moments app be iPhone bona iPad totona emu misini ai laulau kopidia e naria henimu."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Laulau bingo",
+    "seoTitle": "Lalo-boio Gorere Ida E Nohomu Tau Badadia Totona Laulau Bingo: Torea Pepa",
+    "h1": "Orea Totona Laulau Bingo",
+    "description": "Lalo-boio gorere e abia taudia bona tau badadia edia orea totona davana lasi torea pepa laulau bingo, skrin badana ai laulau e hedinaraimu.",
+    "short": "Torea pepa laulau bingo kadia bona orea totona skrin badana hahedinarai henia gauna.",
+    "players": "Orea taunimanima 2 ela 30",
+    "intro": "Bingo korikori namba lasi a laulau ida, bona taunimanima be leta maraḡidia i-duahina asie hekwarahimu. Kadi idau-idau torea henia, bena skrin badana hahedinarai henia gauna amo laulau badadia hahedinaraia TV, laptop eiava tablet ai.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Kadi ta ta ai kubolu 9 eiava 16 abia hidi bona gadara taudia hida.",
+      "\"Kadi torea\" bapatua. Kadi ta ta na idau-idau.",
+      "Skrin badana ai e hedinaraimu gauna kehoa. \"Laulau ma ta\" bapatua bena laulau ta ta mai ladana ida hahedinaraia.",
+      "Gadara taudia ese idia edia kadi ai hegeregere laulauna e hekoupumu moni, baton eiava maka amo.",
+      "Irena ta e hahonuamu tauna, eiava kadi idoinai, e hemoalemu. Inai gadara lalonai kwalimu lasi tauna ta lasi: gadara ela bona iboudiai irena ta e abiamu."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Koupa gaudia badadia ḡaukaralaia, hegeregere botolo koudia. Baton maraḡidia i-abi-hisina na auka.",
+      "Laulau ladana gwauraia bona ia herevalia: \"Boti heau. Daika boti ai e guhi vaduani?\"",
+      "Mata dika taudia skrin badibadinai haheladaidia, bona durua taudia na hegogo taudia ida haboudia.",
+      "Kubolu 9 be orea momo totona hegeregere momokani. Nega hegeregere miniti 20 ela 30 bamona."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Naria rumana lalonai laulau bingo ede bana karaiatoma?",
+        "a": "Gadara tauna ta kadi ta torea henia, hahedinarai gauna na emui skrin badana ai atoa, bona laulau na metairametaira gwauraia, ta ta ladana gwauraia. Gadara ela bona iboudiai irena ta e abiamu, bona ta asine henegeamu."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Pepani torea be davana lasi?",
+        "a": "Obe. Emu ura kadi momo torea henia, nega momo, oi sibona eiava orea totona."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Taunimanima na asie duahiduahimu a hegeregere bae gadara?",
+        "a": "Obe. Kubolu ta ta be laulau badana ta, bona hehuanai ladana e toreamu, revareva e uramu taudia totona."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Lalo-manoka hodi abia",
+    "seoTitle": "Tau Badadia bona Naria Taudia Totona Lalo-manoka Hodi Abia Lagani",
+    "h1": "Lalo-manoka Hodi Abia Lagani",
+    "description": "Metairametaira bona mai regeregena lasi hodi abia lagani haboua: kubolu manokana e badamu bona e maragimu nega tauratoi hodi abia lalonai.",
+    "short": "Kubolu metairametaira ida hodi abia hegeregere. Emu ura negana hamatamaia bona hadokoa.",
+    "players": "Taunimanima 1 eiava 2",
+    "intro": "Nega haida gadara namona herea be lagani mai regeregena lasi. \"Hamatamaia\" bapatua, bena hodi lalonai abia negana kubolu e badamu bona hodi murimuri negea negana kubolu e maragimu. Heau metairametaira eiava haraḡa abia hidi. Ia be gorere muramurana lasi, a mai lalo-mainona ida noho negana henia karana sibona.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Mai noho-namona ida badibadinai helai.",
+      "Heau dalana abia hidi: metairametaira eiava manoka.",
+      "\"Hamatamaia\" bapatua. Kubolu e badamu neganai hodi lalonai abia, bona kubolu e maragimu neganai hodi murimuri negea.",
+      "Ia sibona baine doko hodi abia tauratoi murinai, eiava \"Hadokoa\" bapatua emu ura negana."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Imadia dogoatao eiava oi naria tauna imana ai oi imamu atoa bema ia na e uramu.",
+      "Asio hekwarahi henia. Bema ia e uramu baine itaia sibona, be hegeregere.",
+      "Bema taunimanima ta na hodi abia hekwarahina e abiamu, namona na mai manokana ida baine hodi abia bona kubolu sibona baine itaia. Dokta nanadaia bema hodi abia lalonai hekwakwanai haida e miamu."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Inai be dokta ena hodi abia gaukarana?",
+        "a": "Lasi. Ia be lalo-maino bona tura karaia totona lagani manokana sibona. Ia be lalo-hekwarahi eiava gorere ta muramurana lasi. Hekwakwanai totona dokta ida herevahereva."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Kubolu be ia sibona e mareremu a lau asina hamatamaia?",
+        "a": "Lasi. Gau ta se marere ela bona Start oi tuia, bona ia doko hahodi 6 murinai eiava Stop oi tuia neganai. Bema emu masini ai marere oi hamaragia, hereva idia haidau to hekei se bada."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ia be davana lasi, bona egu ladana lau torea be namo?",
+        "a": "Oibe, ia be davana lasi, bona akaunti, ladana torea eiava daunlod lasi. Ia be web browser lalonai ia gaukara foun, tablet eiava kompiuta ai."
       }
     ]
   }

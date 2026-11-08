@@ -66,6 +66,11 @@ export function removeNote(notes: readonly Note[], id: string): Note[] {
   return notes.filter((n) => n.id !== id);
 }
 
+/** Toggles a situation selection: selecting the currently chosen one deselects it. */
+export function toggleSituation(current: SituationId | null, next: SituationId): SituationId | null {
+  return current === next ? null : next;
+}
+
 /** Notes grouped by day, newest day first, keeping the order within each day. */
 export function byDay(notes: readonly Note[]): Day[] {
   const days = new Map<string, Note[]>();

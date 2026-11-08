@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Ta'anga jojáva",
+    "seoTitle": "Ñembosarái Ta'angakuéra Mbojojaha Tapicha oguerekóva Demencia-pe g̃uarã: Ta'anga Jojáva",
+    "h1": "Ta'anga Jojáva: Peteĩ Ñembosarái Piro'y Mbojoja rehegua",
+    "description": "Peteĩ ñembosarái reiete ha ipiro'ýva ta'angakuéra mbojoja rehegua, tapicha oikóva demencia ndive g̃uarã.",
+    "short": "Ejuhu mokõi ta'anga ojojavaite. Ta'angakuéra ikatu opyta ojehecha.",
+    "players": "1 térã 2 tapicha, oñondivepa",
+    "intro": "Epoko peteĩ ta'angáre, upéi epoko pe ijojaháre. Ta'angakuéra opyta ojehechávo ijehegui, upévare natekotevẽi nemandu'a mba'evére. Mokõi ta'anga oñomoĩ porãvo oñondive, oñemomba'e yke itaju ha peteĩ jehai hekopetéva.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Eiporavo mboy pehẽnguépa reiporúta. Irundy pehẽngue ha'e peteĩ hendá py'aguapýpe oñepyrũ hag̃ua.",
+      "Epoko oimeraẽva ta'angáre. Oguerekóta yke itaju.",
+      "Epoko pe ta'anga ojoguaitévare. Pe par opytáta oñondive peteĩ jehai hekopetéva reheve.",
+      "Mokõi ta'anga iñambuéramo, ndaipóri mba'eve ivaíva ojehúva. Epoko jey reĩ vove hekopete.",
+      "Emyendy \"Ta'anga okañýva\" peẽ mokõivéva peguerohorýramo añónte pe ñembosarái ymaguare ojehovapýva."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Pembohéra ta'angakuéra hatãme oñondive ha peñemongeta hesekuéra: \"Peteĩ tása pytã. ¿Reipuru kamby nde tépe?\"",
+      "Eheja pe tapicha reñangarekóva hese topoko, jepe hi'aremi. Ehechauka chupe ipoguype epoko rangue hendaguépe.",
+      "Epyta irundy pehẽnguéndi peve peñanduhápe porã. Pehẽngue hetavéva ha'e peteĩ jeporavo, naha'éi peteĩ nivel rehupytyva'erã.",
+      "Emohu'ã pevy'a aja gueteri. Peteĩ ñembosarái ha'éma peteĩ tembiapo hekopetéva."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Oĩpa aravo'i térã puntos?",
+        "a": "Nahániri. Ndaipóri aravo'i, puntos, papaha ñemomýi rehegua térã ñeperde. Ikatúta repytu'u oimeraẽva jave, ha remohu'ãramo mbyte rupi iporãitereíma avei."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "¿Mba'érepa ta'angakuéra opyta ojehechávo?",
+        "a": "Ta'angakuéra ojehecha meméramo, pe ñembosarái oiko maña ha mbojoja rehegua, naha'éi mandu'a rehegua. Heta tapichápe g̃uarã kóva ipiro'yve. Ikatúta remoambue ta'anga okañývape peteĩ poko añóme reipotáramo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Kóva piko reiete, ha tekotevẽpa aike che rérape?",
+        "a": "Hẽe, reiete, ha natekotevẽi cuenta, réra jehai térã ñemboguejy. Omba'apo navegador web-pe pumbyry, tablet térã mohendahápe."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "¿Ikatúpa roipuru ore ta'angakuéra rogapypegua?",
+        "a": "Hẽe. Eipuru Ta'anga jojáva rogapypegua, rehejáva ndéve reiporavo ta'anga ne mba'e'okágui. Umi ta'anga opyta ne navegador-pe ha ndojepupíri mamove."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Ejuhu ijojaha",
+    "seoTitle": "Ejuhu Ta'anga Ijojaha: Ñembosarái Mbyky Demencia-pe g̃uarã",
+    "h1": "Ejuhu Ta'anga Ijojaha",
+    "description": "Peteĩ ta'anga yvatévo, mokõi guive irundy peve iguýpe. Epoko pe ijojaháre.",
+    "short": "Emaña pe ta'anga yvateguáre ha epoko pe ijojaháre iguýpe.",
+    "players": "1 térã 2 tapicha",
+    "intro": "Peteĩ ta'anga añónte opyta pantalla yvatévo. Iguýpe oĩ mokõi, mbohapy térã irundy ta'anga. Epoko pe ijojaháre. Ha'e peteĩ jeporavo mbykymi peteĩteĩva jave, heta pa'ũ reheve oñeñemongeta hag̃ua.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Eiporavo mokõi, mbohapy térã irundy ta'anga apytégui reiporavo hag̃ua. Mokõi ha'e pe ipiro'yvéva.",
+      "Pemaña pe ta'anga yvateguáre oñondive.",
+      "Epoko pe ta'anga ijojaháre iguýpe. Oñemomba'e peteĩ jehai hekopetéva ha ñe'ẽ akãrapu'ã reheve.",
+      "Oñepokóramo ambue ta'angáre, pe ñembosarái ombohéra añónte pe ta'anga ha oha'arõ. Ani rejapura.",
+      "Epoko \"Ambue ta'anga\" reĩ vove hekopete resegise hag̃ua."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Peñemongeta káda ta'angáre reiporavo mboyve: sa'ykuéra, ysaja, moõpa ikatu rehecha.",
+      "Mokõi jeporavo naha'éi \"hasy'ietereíva\". Pe meta ha'e peteĩ momento hekove porãva, naha'éi peteĩ desafio.",
+      "Hasy ramo repoko hag̃ua, pe tapicha ikatu ohechauka ikũme ha nde repoko hendaguépe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Oĩpa aravo'i térã puntos?",
+        "a": "Nahániri. Ndaipóri aravo'i, puntos, papaha ñemomýi rehegua térã ñeperde. Ikatúta repytu'u oimeraẽva jave, ha remohu'ãramo mbyte rupi iporãitereíma avei."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "¿Mba'épa ojehu oñepokóramo ta'anga hendape'ỹvare?",
+        "a": "Ndaipóri mba'eve ivaíva. Ndaipóri tyapu vai, kurusu pytã térã roryry. Pe ñembosarái ombohéra añónte pe ta'anga oñepoko hague ha oha'arõ pe ambue poko."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Kóva piko reiete, ha tekotevẽpa aike che rérape?",
+        "a": "Hẽe, reiete, ha natekotevẽi cuenta, réra jehai térã ñemboguejy. Omba'apo navegador web-pe pumbyry, tablet térã mohendahápe."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kuarahy'ã jojaha",
+    "seoTitle": "Ñembosarái Kuarahy'ã Mbojojaha Demencia-pe g̃uarã: Reiete Online",
+    "h1": "Kuarahy'ã Jojaha: Peteĩ Ñembosarái Piro'y Ta'angakuéra rehegua",
+    "description": "Peteĩ kuarahy'ã hũva yvatévo, mokõi guive irundy peve ta'anga iguýpe. Epoko pe ta'anga ojapóvare pe kuarahy'ã.",
+    "short": "Emaña pe kuarahy'ãre ha epoko pe ta'anga ojapóvare.",
+    "players": "1 térã 2 tapicha",
+    "intro": "Kuarahy'ã mbojoja ha'e peteĩ tembiapo ojekuaa porãva kuatia rogue ñembosaráigui, ko'ápe ta'anga guasukuéra reheve ha natekotevẽi oñembohasa kuatiápe. Peteĩ kuarahy'ã piro'y opyta pantalla yvatévo ha mokõi, mbohapy térã irundy ta'anga oha'arõ iguýpe. Epoko pe ta'anga ojapóvare pe kuarahy'ã. Ysajakuéra peteĩ vyeleta, aramboha térã tása té rehegua ndahasýi avei oñeñemongeta hag̃ua hesekuéra.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Eiporavo mokõi, mbohapy térã irundy ta'anga apytégui reiporavo hag̃ua. Mokõi ha'e pe ipiro'yvéva.",
+      "Pemaña pe kuarahy'ãre oñondive. ¿Mba'e ysajápa oguereko? ¿Ivate térãpa ijapu'a?",
+      "Epoko pe ta'anga ojapóvare pe kuarahy'ã. Héra ojekuaáta pe kuarahy'ã guýpe.",
+      "Oñepokóramo ambue ta'angáre, pe ñembosarái ombohéra añónte pe ta'anga ha oha'arõ. Ani rejapura.",
+      "Epoko \"Ambue kuarahy'ã\" reĩ vove hekopete resegise hag̃ua."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Ehasa nde kuã pe kuarahy'ã rembére ha peñemongeta pe ysajáre.",
+      "Kuarahy'ãkuéra hasýramo ko árape, embohasa pe Ejuhu ijojahápe, upépe ta'angakuéra ojojoguaite.",
+      "Peñemongeta pe ta'angáre ojejuhu rire: \"Jaguereko va'ekue peteĩ aramboha péichagua.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Oĩpa aravo'i térã puntos?",
+        "a": "Nahániri. Ndaipóri aravo'i, puntos, papaha ñemomýi rehegua térã ñeperde. Ikatúta repytu'u oimeraẽva jave, ha remohu'ãramo mbyte rupi iporãitereíma avei."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Mbojoja kuarahy'ã iporãpa tapichakuéra orekóva demencia-pe g̃uarã?",
+        "a": "Ikatu ha'e peteĩ tembiapo rory ha ndahasýiva heta tapichápe g̃uarã, ko'ýte iñepyrũmbyve jave. Ta'anga ysaja niko ifasilve ojekuaa hag̃ua ñe'ẽnguéragui. Kóva ha'e oñevy'a ha oñeñomongeta hag̃ua, ndaha'éi peteĩ ñeha'ã, ha nomonguerái térã nombopya'evéi demencia. Oimérõ ombopochy chupe, ikatu peha'ã Ejuhu ojueheguáva térã pehechante ta'angakuéra oñondivepa."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Mba'épa oiko oñepoko vaírõ ta'angáre?",
+        "a": "Ndaipóri mba'eve ivaíva. Ndaipóri tyapu vai, kurusu pytã térã rryryi. Ko ñembosarái he'i pe ta'anga oñepoko hague réra ha oha'arõ pe oñepoko jey peve hese."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hepy'ỹrepa, ha tekotevẽpa añemboscribe?",
+        "a": "Si, ndehepýi, ha ndatekotevẽi cuenta, ñembohéra térã mboguejy. Oiko porã navegador web-pe pumbyry, tablet térã computadorape."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Mboja'o oñondive",
+    "seoTitle": "Ñembosarái Mboja'o rehegua Demencia-pe g̃uarã: Mboja'o oñondive",
+    "h1": "Mboja'o oñondive: Tembiapo Ta'anga Mboja'o rehegua",
+    "description": "Epoko peteĩ ta'angáre, upéi epoko pe ajaka ohohápe: kosina térã yvotyty, yva térã mymba.",
+    "short": "Emoĩ peteĩteĩ ta'anga iajakápe: kosina térã yvotyty, ha hetave mba'e.",
+    "players": "1 térã 2 tapicha",
+    "intro": "Mboja'o niko peteĩ tembiapo ojekuaáva ha ombovy'áva ára ha ára, taha'e ñongatu hi'upyrã térã media mbojuapy. Epoko peteĩ ta'angáre, upéi epoko pe ajaka ohohápe. Ndaipóri jepya'e ha ndaipóri tape vai.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Eiporavo peteĩ téma: kosina ha yvotyty, yva ha mymba, térã óga ha viahe.",
+      "Epoko peteĩ ta'angáre. Ojekuaáta hese peteĩ korá oroguigua.",
+      "Epoko pe ajaka ohohápe. Pe ta'anga ohasa upépe.",
+      "Oimérõ oho ambue ajakápe, pe ñembosarái he'i mbeguekatu ha oha'arõ.",
+      "Oñemboja'opávo opaite ta'anga, pema'ẽ oñondive umi ajakáre."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Tekove añeteguápe py'ỹinte ndaipóri mbohovái vai. Oimérõ oĩ he'íva pe regadera ohoha kosinápe, eporandu chupe mba'érepa. Ikatu omombe'u ndéve peteĩ tembiasakue iporãva.",
+      "Eiporu ta'angakuéra peñomongeta hag̃ua: «Mba'épa reñotỹ va'ekue nde yvotytyrépe?»",
+      "Emboja'o mba'e añeteguáva, ha'eháicha kuimbe ha tenedor térã botón isa'y rupive, iporãiterei avei pantalla mboypýri."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Oĩpa aravo térã punto?",
+        "a": "Nahániri. Ndaipóri reló, punto, papaha térã ñehundi. Ikatu repytu'u oimeraẽ jave, ha rembopa mbyte rupi katu avei iporãmbaitéma."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Mba'érepa tembiapo mboja'o rehegua?",
+        "a": "Heta tapichápe ombovy'a emboja'o mba'e, oñandúgui peteĩ mba'apoháicha ojekuaáva ha iporãva. Avei ifasil peñomongeta ta'angakuéra rehe pejapo aja."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hepy'ỹrepa, ha tekotevẽpa añemboscribe?",
+        "a": "Si, ndehepýi, ha ndatekotevẽi cuenta, ñembohéra térã mboguejy. Oiko porã navegador web-pe pumbyry, tablet térã computadorape."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Ta'anga rompecabezas",
+    "seoTitle": "Rompecabezas ndahasýiva Demencia-pe g̃uarã: 4 térã 9 pehẽngue",
+    "h1": "Ta'anga Rompecabezas: peteĩ rompecabezas ndahasýiva",
+    "description": "Peteĩ rompecabezas online ndahasýiva tapichakuéra orekóva demencia-pe g̃uarã: 4 térã 9 pehẽngue tuicháva, pe ta'anga oñemomba'éva opyta ojekuaa, ha repoko.",
+    "short": "Epoko mokõi pehẽnguére remoambue hag̃ua hendague pe ta'anga oĩmba peve.",
+    "players": "1 térã 2 tapicha",
+    "intro": "Peteĩ ta'anga porã oñekytĩ irundy térã porundy pehẽngue tuichávape ha oñembojehe'a. Pe ta'anga oĩmbáva opyta ojekuaa ohechauka hag̃ua mba'éichapa oĩ va'erã. Epoko peteĩ pehẽnguére, upéi ambuére, ha omoambue hendague. Ndatekotevẽi rembotyryry.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Eiporavo peteĩ ta'anga ha 4 térã 9 pehẽngue. Irundy iporã eñepyrũ mbeguekatu hag̃ua.",
+      "Ema'ẽ pe ta'anga oĩmbávare yvate.",
+      "Epoko peteĩ pehẽnguére, upéi pe hendarãre. Mokõive pehẽngue omoambue hendague.",
+      "Umi pehẽngue opytáva hendápe ohechauka peteĩ señal michĩva.",
+      "Pe ta'anga oĩmbávo, pevy'a hese oñondive, upéi peiporavo ambue."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Repoko mokõi pehẽnguére remoambue hag̃ua hendague ifasilve heta tapichápe g̃uarã rembotyryry rangue.",
+      "Peñomongeta pe ta'angáre oñemoĩmba aja: «Amóva oĩ pe techado pytã».",
+      "Peteĩ rompecabezas yvyraguigua añeteva 12 guive 24 pehẽngue peve tuicháva ha'e avei peteĩ tembiapo porã mesa ári."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Oĩpa aravo térã punto?",
+        "a": "Nahániri. Ndaipóri reló, punto, papaha térã ñehundi. Ikatu repytu'u oimeraẽ jave, ha rembopa mbyte rupi katu avei iporãmbaitéma."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Tekotevẽpa ambotyryry umi pehẽngue?",
+        "a": "Nahániri. Epoko peteĩ pehẽnguére, upéi ambuére, ha omoambue hendague. Kóva ifasilve po rryryi reheve térã pantalla michĩvape."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hepy'ỹrepa, ha tekotevẽpa añemboscribe?",
+        "a": "Si, ndehepýi, ha ndatekotevẽi cuenta, ñembohéra térã mboguejy. Oiko porã navegador web-pe pumbyry, tablet térã computadorape."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Moĩmba pe ñe'ẽnga",
+    "seoTitle": "Moĩmba pe Ñe'ẽnga: Ñembosarái Ñe'ẽnga rehegua Tapicha Guasúpe g̃uarã",
+    "h1": "Moĩmba pe Ñe'ẽnga",
+    "description": "Ñe'ẽnga ojekuaáva opyta'ỹre ipaha ñe'ẽ, ha'eháicha «A penny saved is a penny ___». Epoko peteĩ mbohovái térã ehechauka ipaha, upéi peñomongeta hese.",
+    "short": "Pemoĩmba oñondive ñe'ẽnga ojekuaáva, upéi peñomongeta hesekuéra.",
+    "players": "1, 2 térã aty",
+    "intro": "Umi ñe'ẽnga ymaguare niko ojekuaa tapiaite tekove pukukue. Peteĩteĩ tarjeta ohechauka peteĩ ñe'ẽnga ojekuaáva noĩmbáiva ipaha ñe'ẽ, mbohapy poravo, ha peteĩ botón «Ehechauka ipaha». Ojehechauka rire ipaha, peteĩ porandu mbeguekatu oipe'a tape ñomongetarã.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Pemoñe'ẽ hatã pe ñe'ẽnga oñondivepa.",
+      "Epoko pe ñe'ẽ ombopávare, térã epoko «Ehechauka ipaha».",
+      "Pemoñe'ẽ jey pe ñe'ẽnga oĩmbáva ha peñomongeta hese pe porandu rupive.",
+      "Epoko «Ambue ñe'ẽnga» peĩmbávo."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Emoñe'ẽ mbeguekatu ha epytu'u michĩmi pe paha ñe'ẽ mboyve. Py'ỹinte umi tapicha he'íma voi rembopa mboyve.",
+      "Oimérõ oĩ he'íva ambue paha, pevy'ante hese. Oĩ ñe'ẽnga omoambuéva hogaygua térã táva rupive.",
+      "Peteĩ atýpe, peteĩ tapicha omoñe'ẽ ha opavave he'i oñondive pe paha."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Oĩpa aravo térã punto?",
+        "a": "Nahániri. Ndaipóri aravo'i, puntos, jepapa térã ñeperde. Ikatu repytu'u oimeraẽ jave, ha remohu'ãramo mbytépe jepe, oĩ porãitereíma."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "¿Mba'épa oikóta jaiporavóramo ambue ñe'ẽ?",
+        "a": "Ñembosarái ohechauka pe ñemohu'ã jepigua ha upéi ikatu peñemongeta. Ndaipóri puntos, ha ambue mbohovái oĩ porã avei."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Nderehepyme'ẽi piko, ha tekotevẽ amboheraguapy che réra?",
+        "a": "Hẽe, nderehepyme'ẽi mba'eve, ha natekotevẽi emomba'apo cuenta, emboheraguapy nde réra térã emboguejy mba'eve. Oiko kuatiarenda ñandutípe pumbyry, tablet térã mohendahápe."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ñe'ẽ jeheka tai tuichávape",
+    "seoTitle": "Ñe'ẽ Jeheka Tai Tuicháva Demencia Orekóvape g̃uarã, Oñembokuatia Kuaáva",
+    "h1": "Ñe'ẽ jeheka tai tuichávape",
+    "description": "Peteĩ ñe'ẽ jeheka nderehepyme'ẽiva tai tuichándi, oñembosako'íva tapicha kakuaa ha tapicha oikóva demencia ndive g̃uarã.",
+    "short": "Tai tuicha, sa'i ñe'ẽ, yke gotyo ha yvatégui yvýpe añónte. Ikatu avei emonguatia.",
+    "players": "1 térã 2 tapicha",
+    "intro": "Peteĩ kuatia'i tai tuicháva ha sa'imi ñe'ẽndive, oñemohendáva yke gotyo térã yvatégui yvýpe. Epoko pe tai ñepyrũre, ha upéi ipaha rehegua. ¿Reipotaséve kuatiápe? Emonguatia peteĩ ñembosarái pyahu epoko sapy'ánte.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Eiporavo peteĩ téma ha mba'e tuichakuepa reipota.",
+      "Emaña ñe'ẽ rysýire. Ñe'ẽnguéra oñemoñe'ẽ asu guive akatúa gotyo, térã yvatégui yvýpe.",
+      "Epoko pe tai ñepyrũre, ha upéi pe tai paha rehe.",
+      "Rejuhu jave peteĩ ñe'ẽ, ohesape ha oñembogue pe rysýigui.",
+      "Epoko \"Emonguatia ko ñembosarái\" rehe reñembosarái hag̃ua kuatiápe lápiz térã marcador ndive."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Ehechauka peteĩ ñe'ẽ rysýipe ha peheka oñondive pe tai ñepyrũha.",
+      "Kuatiápe, peteĩ resaltador ivevúive ha iporãve jejoko hag̃ua lápiz rangue.",
+      "Peñemongeta umi ñe'ẽ téma reheguáre. Techapyrã, yva réra ikatu ogueru mandu'a kokuépe jepo'o, tatakua térã merkádo rehe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Oĩ piko aravo'i térã puntos?",
+        "a": "Nahániri. Ndaipóri aravo'i, puntos, jepapa térã ñeperde. Ikatu repytu'u oimeraẽ jave, ha remohu'ãramo mbytépe jepe, oĩ porãitereíma."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "¿Ikatúpa amonguatia ko ñe'ẽ jeheka?",
+        "a": "Hẽe. Epoko \"Emonguatia ko ñembosarái\" rehe emonguatia hag̃ua tai tuicháva ndive, ha ñe'ẽ rysýi iguýpe. Opaite ñembosarái pyahu iñambue."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Nderehepyme'ẽi piko, ha tekotevẽ amboheraguapy che réra?",
+        "a": "Hẽe, nderehepyme'ẽi mba'eve, ha natekotevẽi emomba'apo cuenta, emboheraguapy nde réra térã emboguejy mba'eve. Oiko kuatiarenda ñandutípe pumbyry, tablet térã mohendahápe."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Ta'anga oñembosa'y hag̃ua",
+    "seoTitle": "Ta'anga Oñembosa'y Hag̃ua Kakuaa Oikóva Demencia Ndive g̃uarã (Nderehepyme'ẽiva)",
+    "h1": "Ta'anga oñembosa'y hag̃ua",
+    "description": "Ta'anga ndahasyietéva kakuaape g̃uarã hendá tuicháva reheve: epoko peteĩ sa'y rehe, ha upéi ta'anga rehe.",
+    "short": "Epoko peteĩ sa'y rehe, ha upéi peteĩ hendápe ta'anga rehe. Ikatu avei emonguatia.",
+    "players": "1 térã 2 tapicha",
+    "intro": "Ta'anga tuicha ha hesakãva: peteĩ yvoty mba'yrúpe, peteĩ óga, peteĩ kalaku'i, peteĩ panambi ha peteĩ várko yvytúpe oikóva. Epoko peteĩ sa'y rehe, ha upéi ta'anga pehẽngue rehe emyenyhẽ hag̃ua sa'ýpe. Ndaipóri sa'y naiporãiva.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Eiporavo peteĩ kuatia.",
+      "Epoko peteĩ sa'y rehe. Peteĩteĩ sa'y oguereko héra iñapysẽva hese.",
+      "Epoko ta'anga pehẽngue rehe emyenyhẽ hag̃ua upe sa'ýpe.",
+      "Reñandúramo ambue hendáicha, ikatu emyenyhẽ jey oimeraẽ jave.",
+      "Epoko \"Emonguatia ko kuatia\" rehe rehupyty hag̃ua kuatia morotĩ rembosa'y hag̃ua lápiz térã marcador ndive."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Eme'ẽ mokõi sa'y añónte oiporavo hag̃ua opaite sa'y rangue, hetaitereíramo chupe.",
+      "Yvyramáta sa'yjuvy térã kuarahy hovy oĩ porãiterei. Kóva ha'e oñembovy'a hag̃ua sa'y reheve, ndaha'éi ojejapo porãmbaitévo.",
+      "Umi kuatia oñemonguatiáva iporãiterei marcadores anambusu térã crayones ndive, ivevúive jejoko hag̃ua."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Oĩ piko aravo'i térã puntos?",
+        "a": "Nahániri. Ndaipóri aravo'i, puntos, jepapa térã ñeperde. Ikatu repytu'u oimeraẽ jave, ha remohu'ãramo mbytépe jepe, oĩ porãitereíma."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "¿Kóva piko mitã mba'éicha reiete?",
+        "a": "Romoha'anga tembiporu ha mba'e tekoha jepigua, ndaha'éi dibujitos animado, ikatu hag̃uáicha oĩ porã kakuaápe g̃uarã. Umi hendá tuicháva ombovevúi ñembosa'y, ha ndaha'éi mitãme g̃uarãicha."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Nderehepyme'ẽi piko, ha tekotevẽ amboheraguapy che réra?",
+        "a": "Hẽe, nderehepyme'ẽi mba'eve, ha natekotevẽi emomba'apo cuenta, emboheraguapy nde réra térã emboguejy mba'eve. Oiko kuatiarenda ñandutípe pumbyry, tablet térã mohendahápe."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Kuatia'atã ñomongetarã",
+    "seoTitle": "Ñomongeta Ñepyrũha Demencia Ndive g̃uarã: Ta'anga Kuatia'atãme",
+    "h1": "Kuatia'atã ñomongetarã",
+    "description": "Kuatia'atã ta'angandive peñomongeta vevúi hag̃ua tapicha oikóva demencia ndive: ndaha'éi porandu jejoko hag̃ua, ndaipóri mbohovái oĩporãva añónte.",
+    "short": "Kuatia'atã ta'angandive ha porandu vevúi oñemongeta hag̃ua. Ndaha'éi examen.",
+    "players": "2 tapicha térã atýpe",
+    "intro": "Peteĩteĩ kuatia'atã oguereko peteĩ ta'anga ojekuaáva ha peteĩ ñehenói vevúi ñomongetarã, techapyrã \"¿Mba'eichagua árapa pe reguerohoryvéva?\" Ndaipóri mbohovái oĩ porãva añónte ha natekotevẽi nemandu'a mba'evére. Eiporavo peteĩ téma térã emosarambi opavave.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Eiporavo peteĩ téma, térã eheja \"Opaite kuatia'atã\" rehe.",
+      "Emoñe'ẽ pe porandu hatãmi ha pemaña ta'anga rehe oñondive.",
+      "Ehendu, emombe'u nde mbohovái avei, ha peheja toiko pe ñomongeta.",
+      "Epoko \"Kuatia'atã oúva\" rehe peĩma vove, térã pepytu'u peteĩ kuatia'atãre peipotaha peve.",
+      "Epoko \"Emonguatia opaite kuatia'atã\" rehe ikatu hag̃uáicha reikytĩ kuatiápe."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Embohovái nde avei pe porandu. Upéicha oñeñandúta peteĩ ñomongetaháicha, ndaha'éi peteĩ porandupa jejapo ramo.",
+      "Emoirũ pe tembiasa, ndaha'éi umi marandu añetegua añónte. Oñemoambuéramo mba'emimi, oĩ porã.",
+      "Peteĩ kuatia'atã oguerúramo vy'a'ỹ, ehechakuaa pe temiandu ha mbeguekatumi pehasa ambue kuatia'atãme."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "¿Mba'érepa ndaipóri porandu he'íva \"¿Nemandu'ápa…?\"?",
+        "a": "Umi porandu oporandúva mandu'a rehegua ikatu oñeñandu peteĩ examen ramo ha ome'ẽ otĩ. Umi ñehenói jurujái techapyrã \"Eremína chéve…\" oheja oimeraẽva toñomongeta, taha'e ha'éva imandu'aha."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "¿Ikatúpa amonguatia umi kuatia'atã?",
+        "a": "Hẽe. \"Emonguatia opaite kuatia'atã\" omonguatia opavave tai tuichávape, heta kuatia'atã peteĩ kuatiápe, oñekytĩ hag̃uáicha."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Nderehepyme'ẽi piko, ha tekotevẽ amboheraguapy che réra?",
+        "a": "Heẽ, reiete voi, ha natekotevẽi emomba'apo kuenta, eñemboheraguapy térã emboguejy mba'eve. Oiko navegador web-pe pumbyry, tablet térã kombutadóra rupive."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Ta'anga par",
+    "seoTitle": "Ejapo peteĩ ñembosarái ta'anga mbojojaha rehegua nde rogayguakuéra ra'angandi",
+    "h1": "Ta'anga par: Embojoja nde ra'angakuéra tee",
+    "description": "Emoambue nde rogayguakuéra ra'anga peteĩ ñembosarái py'aguapýpe. Eiporavo 2 guive 6 peve ta'anga nde tembipurúpe; opytánte nde navegadórpe ha araka'eve.",
+    "short": "Eiporavo nde ra'angakuéra ha embojoja chupekuéra. Ndojupi mba'eveve hendápe.",
+    "players": "2 tapicha, ojoykére",
+    "intro": "Eiporavo mokõi guive poteĩ peve ta'anga nde pumbyry, tablet térã kombutadóragui, ha oikóta chuguikuéra peteĩ ñembosarái mbojoja rehegua ta'anga tuicha ha hesakãva ndive. Ko'ã ta'anga ojehecha ko kuatiarogue ryepýpente. Ndojupíri, noñeñongatúi ha noñembohasái avavépe, ha ogue opaite emboty vove ko kuatiarogue.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Ejopy \"Eiporavo ta'angakuéra\" ha eiporavo mokõi guive poteĩ peve ta'anga.",
+      "Peteĩteĩ ta'anga osẽ mokõi jey. Ejopy peteĩ, ha upéi ejopy iñirũ.",
+      "Eñe'ẽ umi ta'anga rehe ejuhu jave chupekuéra.",
+      "Epa vove, emboty ko kuatiarogue térã ejopy \"Embogue ta'angakuéra\". Ndoñeñongatúi mba'eve."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Eiporavo ta'anga hesakãva mba'e vy'apavẽ ha ojekuaa porãva rehegua: peteĩ mymba rerekopy, yvotyty, tenda eipotavéva, térã peteĩ menda ára.",
+      "Tenda ha mba'e ra'anga ikatu hasy'ive tova ra'angagui, ha avei ndoiporúi jepy'apy oñembohéra hag̃ua tapichakuérape.",
+      "Ani emoĩ umi tapicha omanómava ra'anga ikatúramo ogueru vy'a'ỹ sapy'aitépe, reikuaa porãnte ramo katu ogueruha py'aguapy."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "¿Ojupípa che ra'angakuéra oimeraẽva hendápe?",
+        "a": "Nahániri. Ko kuatiarogue omoñe'ẽ umi ta'anga eiporavóva nde navegadórpente voi ha ohechauka nde pantállape. Ndojerohasái oréve térã avave ambuépe, ha oguepaite emboty térã emoheñói jey vove ko kuatiarogue."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Oĩpa aravopapaha térã puntuación?",
+        "a": "Nahániri. Ndaipóri reló, puntuación, jepapa térã ñeperde. Ikatu epytu'u oimeraẽva jave, ha epytu'úramo mbyte rupi katu iporãiterei avei opa hag̃ua."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "¿Añongatu katu piko ko ñembosarái ambue jeýpe g̃uarã?",
+        "a": "Navegadórpe nahániri, péicha ojejapo ani hag̃ua oñeñongatu mba'eve mba'etee rehegua. Pe tembipuru'i reigua Golden Moments iPhone ha iPad-pe g̃uarã ikatu oñongatu umi ta'anga eiporavopyre copia nde tembipurúpe."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ta'angáva",
+    "seoTitle": "Bingo ta'angáva tapicha kakuaa hesaráiva ohóvope g̃uarã: Emonguatia hag̃ua",
+    "h1": "Bingo ta'angáva atyguápe g̃uarã",
+    "description": "Bingo ta'angáva reigua emonguatia hag̃ua tapicha hesaráiva ohóva ha tapicha kakuaa atýpe g̃uarã, ta'anga moherakuãha guasu pantalla reheve.",
+    "short": "Kárta bingo ta'angáva emonguatia hag̃ua ha ta'anga moherakuãha pantalla guasúpe atyguápe g̃uarã.",
+    "players": "Peteĩ aty 2 guive 30 tapicha peve",
+    "intro": "Bingo tapiagua ta'anga reheve papapykuéra rekovia, ikatu hag̃uáicha avave natekotevẽi omoñe'ẽ kuatiañe'ẽ michĩva. Emonguatia kárta opaichagua, ha upéi eiporu pe ta'anga moherakuãha pantállape ehechauka hag̃ua peteĩteĩ ta'anga tuichaháicha peteĩ televisión, laptop térã tablet-pe.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Eiporavo 9 térã 16 koty'i kárta kápe ha mboy tapichápa ombosaráita.",
+      "Ejopy \"Emonguatia kártakuéra\". Peteĩteĩ kárta iñambue ojuehegui.",
+      "Eike pe moherakuãhápe pantalla guasúpe. Ejopy \"Ta'anga oúva\" ehechauka hag̃ua peteĩteĩ ta'anga héra ndive.",
+      "Umi oñembosaráiva omo'ã pe ta'anga ojuehegua ikártagui peteĩ pirapire mirĩ, botón térã marcador ndive.",
+      "Maymáva omyenyhẽva peteĩ líña, térã kárta pukukue, ovy'apáta. Ndaipóri operdéva ko ñembosaráipe: eñembosarái opa peve opavave oguereko peve peteĩ líña."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Eiporu mba'e tuichavéva oñemoĩ hag̃ua ári, taha'e damas térã tapita. Botón michĩva ikatu hasy jejapyhy hag̃ua.",
+      "Embohéra pe ta'anga ha ere peteĩ mba'e hesehegua: \"Peteĩ yga yvytu rehegua. ¿Mávapa oiko kuri yga rupi?\"",
+      "Emohenda umi tapicha ndohecha porãivape pantalla ypete, ha emoirũ pytyvõhára umi oikotevẽvandi.",
+      "Porundy koty'i hekopeguaitéma hetave atýpe g̃uarã. Emoha'ã pe ñembosarái 20 guive 30 aravo'i rupi."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "¿Mba'éichapa amba'apo bingo ta'angáva reheve peteĩ óga oñeñangarekohápe tapicha kakuaáre?",
+        "a": "Emonguatia peteĩ kárta peteĩteĩ tapichápe g̃uarã, emoĩ pe moherakuãha pe pantalla tuichavéva reguerekóvape, ha emombe'u mbeguekatu umi ta'anga, embohéravo peteĩteĩva. Peñembosarái opavave oguereko peve peteĩ líña, ani hag̃ua avave opyta tapykuépe."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "¿Reiete piko oñemonguatia hag̃ua?",
+        "a": "Heẽ. Emonguatia kárta eikotevẽhaichaite, eipotaháicha jey, ndejehegui térã atyguápe g̃uarã."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "¿Ikatúpa oñeñembosarái oñemoñe'ẽ'ỹre?",
+        "a": "Heẽ. Peteĩteĩ koty'i oguereko peteĩ ta'anga tuicháva, héra iguy gotyo umi ohayhúvape g̃uarã ñe'ẽnguéra."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Pytuhẽ py'aguapýpe",
+    "seoTitle": "Pytu'u pytuhẽ py'aguapýpe tapicha kakuaa ha ñangarekohárape g̃uarã",
+    "h1": "Pytu'u pytuhẽ py'aguapýpe",
+    "description": "Peteĩ pytu'u mbeguekatu ha kirirĩ rehegua reipytuhẽ hag̃ua oñondive: peteĩ mba'apu'a py'aguapy oñembotuicha ha oñemomichĩ poteĩ pytuhẽ aja.",
+    "short": "Peteĩ mba'apu'a mbeguekatu eipytuhẽ hag̃ua hendive. Emoñepyrũ ha embopa eipotaháicha.",
+    "players": "1 térã 2 tapicha",
+    "intro": "Sapy'ánte tembiapo iporãvéva ha'e peteĩ pytu'u kirirĩme. Ejopy \"Ñepyrũ\", upéi eipyhy pytuhẽ pe mba'apu'a oñembotuicha jave ha emondo pe pytuhẽ oñemomichĩ jave. Eiporavo pya'eve térã mbegueve. Ko'ãva ndaha'éi pohãno, peteĩ aravo'i py'aguapy rehegua añoite pehasa hag̃ua oñondive.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Peguapy porã ojoykére.",
+      "Eiporavo mba'éichapa: mbeguekatu térã py'aguapýpe.",
+      "Ejopy \"Ñepyrũ\". Eipyhy pytuhẽ pe mba'apu'a oñembotuicha jave, ha emondo pe mba'apu'a oñemomichĩ jave.",
+      "Opytu'u ijehegui poteĩ pytuhẽ rire, térã ejopy \"Pytu'u\" eipotaháicha jave."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Pejejopy po térã emoĩ nde po pe tapicha jyva ári oiméramo oguerohory.",
+      "Araka'eve ani reñemomba'e hese. Ohechase reínteramo katu, iporãiterei avei.",
+      "Oiméramo oĩ hasýva ipytuhẽme, toipytuhẽ hekopete ha toma'ẽnte pe mba'apu'a rehe. Eporandu peteĩ pohanohárape oimeraẽva jepy'apy eguerekóva pytuhẽ rehegua."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "¿Kóva piko peteĩ pytuhẽ pohãnohára rehegua?",
+        "a": "Nahániri. Ha'e peteĩ pytu'u hekopegua ha eipotárõguinte py'aguapy ha irũrã. Ndaha'éi peteĩ pohãno py'atarova térã oimeraẽva mba'asýpe g̃uarã. Eñe'ẽ peteĩ pohanohára ndive tesãi rehegua jepy'apýre."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "¿Omýipa pe mba'apu'a che amoñepyrũ'ỹre?",
+        "a": "Nahániri. Mba'eve nomýiri ejopy meve Start, ha opyta poteĩ pytuhẽ rire térã ejopy vove Stop. Ne tembipuru oñemohendáramo omboguejy hag̃ua myi, umi ñe'ẽ oñemoambue pe apu'a tuichave'ỹre."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Reipuru reípa, ha tekotevẽpa eñemboheraguapy?",
+        "a": "Heẽ, reipuru rei, ha ndaipóri cuenta, ñemboheraguapy térã ñemboguejy. Oiko ñanduti kundahárape pumbyry, tablet térã mohendahápe."
       }
     ]
   }

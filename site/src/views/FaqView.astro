@@ -17,6 +17,7 @@ const all = p.groups.flatMap((g) => g.items);
 ---
 <PageLayout title={p.title} seoTitle={p.seoTitle} description={p.description} path="/faq/" crumb={p.crumb} lede={p.lede} jsonLd={[faqPage(all)]} lang={lang} available={PUBLISHED.map((l) => l.code)}>
   <nav aria-label={t.common.topics} class="toc">
+    <p class="toc__title" aria-hidden="true">{t.common.topics}</p>
     <ol>
       {p.groups.map((g) => <li><a href={`#${g.id}`}>{g.title}</a></li>)}
     </ol>

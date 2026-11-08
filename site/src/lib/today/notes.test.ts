@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { MAX_NOTES, MAX_TEXT, addNote, byDay, loadNotes, parseNotes, removeNote, removeNoteAriaLabel, saveNotes, type Note } from './notes';
+import { MAX_NOTES, MAX_TEXT, addNote, byDay, loadNotes, parseNotes, removeNote, removeNoteAriaLabel, saveNotes, toggleSituation, type Note } from './notes';
 
 const note = (over: Partial<Note> = {}): Note => ({
   id: 'a',
@@ -82,5 +82,11 @@ describe('notes', () => {
     expect(removeNoteAriaLabel('Asking to go home')).toBe('Remove note for Asking to go home');
     expect(removeNoteAriaLabel(undefined)).toBe('Remove note');
     expect(removeNoteAriaLabel('')).toBe('Remove note');
+  });
+
+  it('toggles situation selection', () => {
+    expect(toggleSituation(null, 'go-home')).toBe('go-home');
+    expect(toggleSituation('go-home', 'go-home')).toBe(null);
+    expect(toggleSituation('go-home', 'wandering')).toBe('wandering');
   });
 });
