@@ -16,6 +16,12 @@
   font-weight: 700;
   margin-bottom: var(--space-md);
 }
+.read-aloud {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-xs);
+  margin-bottom: var(--space-md);
+}
 .game__board {
   min-height: 18rem;
 }

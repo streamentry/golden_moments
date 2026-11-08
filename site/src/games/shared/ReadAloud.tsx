@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { readAloud, speechOf, stopReading, type SpeechLike } from '../../lib/games/readAloud';
 import type { PlayUi } from '../../i18n/play';
+import { Icon } from './Icon';
 
 interface ReadAloudProps {
   ui: PlayUi;
@@ -46,6 +47,7 @@ export function ReadAloud({ ui, lang, text }: ReadAloudProps) {
 
   return (
     <button type="button" className="btn btn--quiet read-aloud" aria-pressed={speaking} onClick={toggle}>
+      <Icon name={speaking ? 'soundOff' : 'sound'} />
       {speaking ? ui.frame.stopReading : ui.frame.readAloud}
     </button>
   );

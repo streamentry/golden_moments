@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 9 / 100 completed**
+**Progress: 10 / 100 completed**
 
 ---
 
@@ -19,6 +19,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 7 | 2026-11-08 | `e753de6` | Dead-End Elimination & Auditory Completion Feedback (Picture Bingo & Coloring) | W3C COGA Objective 7 & Smart Interface Design Patterns: Eliminated caller dead end in `PictureBingo.tsx` when all cards are called by replacing inert button with calm `.game__done` card and primary restart button; added immediate sensory completion feedback (`sounds.done()`) when Picture Bingo finishes and when all regions in `Coloring.tsx` are colored. | Web Games (`PictureBingo.tsx`, `Coloring.tsx`) | Done |
 | 8 | 2026-11-08 | `c62262b` | Spoken Guidance via Browser Speech Synthesis (Read Aloud) | Cannings et al. (2024, JMIR Aging): Audible verbal prompts assist task completion for older adults with cognitive impairment. Added an optional "Read aloud" button under guidance using the browser's native SpeechSynthesis API (rate 0.85, localized in 65 languages) without any external SDK or tracking. | Web Games (`ReadAloud.tsx`, `GameFrame.tsx`, `play/*.json`) | Done |
 | 9 | 2026-11-08 | `8042e9e` | Layout Consistency, Audio Setting Feedback & Breadcrumb Orientation | DEEP Guides, Alzheimer's Society UK Heuristics 2.1 & 2.2, W3C COGA Obj 2 & 4: Normalized GameFrame layout order across all activities by moving action buttons in `FinishTheSaying.tsx` and completion cards in `PicturePuzzle.tsx` to `footer`, ensuring polite live status announcements always precede actions; added immediate auditory confirmation chime on sound enable; elevated breadcrumb active page contrast (`color: var(--gm-on-surface); font-weight: 700;`) and `:focus-visible` ring to prevent navigational disorientation. | Web Games & Components (`FinishTheSaying.tsx`, `PicturePuzzle.tsx`, `GameFrame.tsx`, `components.css`) | Done |
+| 10 | 2026-11-08 | `e29476b` | Multimodal Action Signalling & Forced-Colors Active State Architecture | DESIGN.md Principle 3 ("Every icon has a word, and every action has an icon AND a label"), W3C COGA Objective 3 & 5: Paired ReadAloud speech toggle with `<Icon name={speaking ? 'soundOff' : 'sound'} />` for immediate cognitive cueing; added `.read-aloud` inline layout styling; reinforced `.site-nav` active link states in Windows High Contrast Mode (`border: 2px solid Highlight; outline: 1px solid Highlight;`) and `@media (prefers-contrast: more)` where `box-shadow` is ignored by contrast themes. | Web UI & Navigation (`ReadAloud.tsx`, `games.css`, `components.css`) | Done |
 
 ---
 
@@ -26,5 +27,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 10 | *Next in queue* | Pending |
-| 11–100 | Planned one by one | Pending |
+| 11 | *Next in queue* | Pending |
+| 12–100 | Planned one by one | Pending |
