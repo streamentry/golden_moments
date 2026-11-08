@@ -246,6 +246,18 @@ export function isIndexable(code: string): boolean {
 
 const BY_CODE = new Map(LOCALES.map((l) => [l.code, l]));
 const BY_PREFIX = new Map(LOCALES.filter((l) => l.prefix).map((l) => [l.prefix, l]));
+const BY_LOWER_CODE = new Map(LOCALES.map((l) => [l.code.toLowerCase(), l.code]));
+
+/**
+ * The language of a content folder such as `guides-i18n/pt-BR/`, from the
+ * first segment of a collection entry id. Astro's glob loader lowercases
+ * entry ids (`pt-BR/activities/music.md` becomes `pt-br/activities/music`),
+ * so an exact match would silently drop every guide in pt-BR, pt-PT, zh-Hans
+ * and zh-Hant. Returns undefined for a folder that is not a language.
+ */
+export function localeOfContentDir(dir: string): string | undefined {
+  return BY_LOWER_CODE.get(dir.toLowerCase());
+}
 
 export function localeInfo(code: string): LocaleInfo {
   return BY_CODE.get(code) ?? (BY_CODE.get(DEFAULT_LOCALE) as LocaleInfo);
