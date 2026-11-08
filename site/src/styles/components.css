@@ -123,6 +123,11 @@
 .brand:hover {
   color: var(--gm-on-surface);
 }
+.brand:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 4px;
+  border-radius: var(--radius-md);
+}
 .brand__mark {
   width: 44px;
   height: 44px;
@@ -200,6 +205,28 @@
   html[data-text-size='large'] .site-nav ul {
     grid-template-columns: minmax(0, 1fr);
   }
+}
+
+/* ---------- Machine translation notice ---------- */
+.mt-notice {
+  font-size: var(--text-sm);
+  color: var(--gm-on-surface-variant);
+  padding-block: var(--space-xs);
+  margin-block: var(--space-xs) var(--space-sm);
+  border-bottom: 1px solid var(--gm-surface-sunken);
+}
+.mt-notice a {
+  color: var(--gm-primary);
+  font-weight: 700;
+  text-decoration: underline;
+}
+.mt-notice a:hover {
+  color: var(--gm-on-surface);
+}
+.mt-notice a:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
 }
 
 /* ---------- Footer ---------- */
@@ -767,6 +794,7 @@
   .site-header,
   .site-footer,
   .breadcrumbs,
+  .mt-notice,
   .no-print,
   .btn,
   .cta-band,
@@ -984,6 +1012,31 @@ summary {
   .site-footer {
     border-top: 4px solid #FFFFFF;
   }
+  .brand__mark {
+    border: 2px solid #000000;
+    border-radius: 12px;
+  }
+  .brand__tag {
+    color: #000000;
+    font-weight: 700;
+  }
+  .brand:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 4px;
+  }
+  .mt-notice {
+    color: #000000;
+    border-bottom: 2px solid #000000;
+  }
+  .mt-notice a {
+    color: #000000;
+    font-weight: 800;
+    text-decoration-thickness: 2px;
+  }
+  .mt-notice a:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 2px;
+  }
   :focus-visible {
     outline-width: 4px !important;
     outline-offset: 2px !important;
@@ -1085,6 +1138,25 @@ summary {
     color: LinkText;
   }
   .site-footer a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
+  }
+  .brand__mark {
+    forced-color-adjust: none;
+    border: 1px solid CanvasText;
+    border-radius: 12px;
+  }
+  .brand:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 4px;
+  }
+  .mt-notice {
+    border-bottom: 1px solid CanvasText;
+  }
+  .mt-notice a {
+    color: LinkText;
+  }
+  .mt-notice a:focus-visible {
     outline: 3px solid Highlight;
     outline-offset: 2px;
   }
