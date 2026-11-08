@@ -1,32 +1,31 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "घर के काम: डिमेंशिया वाला लोग खातिर गतिविधि"
+seoTitle: "डिमेंशिया खातिर घरेलू गतिविधि: रोज के काम"
+description: "तह लगावल, छांटल, टेबल लगावल आ आसान खाना बनावल डिमेंशिया वाला लोग खातिर अर्थपूर्ण गतिविधि हो सकेला। एकरा कइसे सेट करीं, ढालीं आ सुरक्षित रखीं।"
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  रोज के घरेलू काम, जइसे तौलिया तह लगावल, मोजा छांटल, टेबल लगावल, काउंटर पोंछल,
+  पौधा में पानी देल आ निगरानी में आसान खाना बनावल, डिमेंशिया वाला व्यक्ति के
+  असली तरीका से मदद करे के मौका दे सकेला। काम जाना-पहचाना चुनीं, एक-एक कदम में
+  बांटीं, तेज या गरम खतरा हटाईं, आ “सही” से जादा हिस्सा लेवे के कीमत समझीं।
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "जाना-पहचाना घरेलू काम व्यक्ति के उपयोगी आ घर के हिस्सा होखे के एहसास दे सकेला, जवन अक्सर काम कतना ठीक भइल ओकरा से जादा मायने रखेला।"
+  - "हर काम के एक-एक कदम में बांटीं, बताए से जादा देखाईं, आ जवन कदम मुश्किल हो गइल ओकरा चुपचाप खुद संभाल लीं।"
+  - "सफाई के सामान आ डिटर्जेंट पॉड ताला में रखीं, आ साथ में खाना बनावे से पहिले चूल्हा नॉब कवर या अपने से बंद होखे वाला स्विच लगाईं।"
+  - "तह लगावल तौलिया व्यक्ति के सामने दोबारा तह लगावे के जरूरत नइखे। जरूरी होखे त बाद में, नजर से दूर होके करीं।"
+  - "काम से चिढ़ होखे त आसान कदम पर जाईं, दोसरा दिन फेर कोशिश करीं, या बस साथ में बइठ जाईं।"
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "डिमेंशिया वाला व्यक्ति अब्बो कवन घरेलू काम में मदद कर सकेला?"
+    a: "बहुत लोग अब्बो कपड़ा तह लगा सकेलें, मोजा मिला सकेलें, चम्मच छांट सकेलें, टेबल लगा सकेलें, काउंटर पोंछ सकेलें, धूल झाड़ सकेलें, झाड़ू लगा सकेलें, पौधा में पानी दे सकेलें या घोल हिला सकेलें। ओह व्यक्ति के पहिले के काम चुनीं आ आज के हालत से मिलाईं। बाद के चरण में, जइसे रूमाल चिकन करे जइसन एक दोहराए वाला हरकत भी काफी हो सकेला।"
+  - q: "डिमेंशिया वाला व्यक्ति के रसोई में मदद करल सुरक्षित बा?"
+    a: "हो सकेला, नजदीकी निगरानी आ ठीक इंतजाम के साथ। छुरी, सफाई के सामान आ गरम चीज पहुंच से दूर रखीं, चूल्हा नॉब कवर या अपने से बंद होखे वाला स्विच लगाईं, आ व्यक्ति के सुरक्षित काम दीं, जइसे सब्जी धोवल, हिलावल या थाली लगावल। चूल्हा चालू रहत घरी उनका अकेला मत छोड़ीं।"
+  - q: "अगर ऊ तह गलत लगावस या गड़बड़ कर दें त?"
+    a: "छोड़ दीं। मकसद बा साथ में समय आ उपयोगी होखे के एहसास, एकदम सही नतीजा ना। अगर सच में दोबारा करे के जरूरत बा त बाद में, जब व्यक्ति देखत ना होखे, तब करीं, ताकि उनका लागे कि उनके सुधारल जात बा।"
+  - q: "अगर ऊ मदद से मना कर दें त?"
+    a: "“ना” के मतलब हो सकेला कि काम अभी उनके बहुत मुश्किल, उलझन वाला या थकावट वाला लागत बा। जबरदस्ती मत करीं। आसान रूप आजमाईं, उनके साथ बइठे खातिर कहीं, या दिन के कवनो बढ़िया समय पर फेर पूछीं।"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +44,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+रउआ जिनगी भर घर चलवले, परिवार पलले या दफ्तर सम्हरले बानी, ई बहुत लोग खातिर सही बा। असल घरेलू काम में हाथ बंटावे के कहला से ओह व्यक्ति के एहसास होखेला कि “रउआ अबहियो एह घर के हिस्सा बानी”। ए पन्ना में बतावल गइल बा कि कवन काम ठीक चलेला, ओकरा कइसे सेट कइल जाला, बदलत हालत में कइसे ढालल जाला, आ रसोई आ कपड़ा धोवे वाला जगह के सुरक्षित कइसे राखल जाला।
 
-## Why do everyday chores work well as activities?
+## घरेलू काम गतिविधि के रूप में काहे ठीक बा?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+काम जाना-पहचाना होला आ ओकर साफ मकसद होला, इहे एकर ताकत बा। नेशनल इंस्टीट्यूट ऑन एजिंग बरतन धोवल, टेबल लगावल, झाड़ू लगावल, धूल झाड़ल, डाक छांटल, कपड़ा तह लगावल आ कूड़ा अलग करे जइसन काम उन दैनिक गतिविधि में गिनावत बा, जवन [अल्जाइमर वाला लोग मजा से कर सकेलें](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)। Alzheimer's Association कहत बा कि टेबल लगावे जइसन काम से व्यक्ति [घर के एगो कीमती हिस्सा होखे के एहसास](https://www.alz.org/help-support/caregiving/daily-care/activities) कर सकेला।
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+काम खुदे शुरू करे के कारण भी देला। “ए तौलिया में तनी हाथ बंटाईब?” कहल “गतिविधि करब?” पूछला से आसान बा।
 
-## Which household tasks are good to try?
+## कवन घरेलू काम कोशिश करे लायक बा?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+जवन काम व्यक्ति पहिले करत रहले, ओहि से शुरू करीं, फेर आज ओह के जवन करे के हालत बा ओकरा से मिलाईं।
 
-### Laundry and linens
+### कपड़ा आ बिछौना
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **तौलिया आ वॉशक्लॉथ तह लगावल।** छोट, सपाट चीज के टोकरी दीं। तौलिया में कवनो गलत तरीका नइखे।
+- **मोजा मिलावल।** मिलल-जुलल ढेर मेज पर रखीं। जोड़ा पहचानल मुश्किल होखे त दू-तीन बहुत अलग रंग के मोजा रखीं।
+- **सपाट करल आ ढेर लगावल।** रूमाल, तकिया गिलाफ या पोंछा सपाट करके एक पर एक रखल जा सकेला। जब तह लगावल बहुत कदम वाला हो जाला, तब ई काम बढ़िया बा।
 
-### Table and kitchen
+### टेबल आ रसोई
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **टेबल लगावल।** एगो थाली-सेट नमूना लगाईं आ व्यक्ति के कॉपी करे दीं। अगर ईहो ढेर बा त एक-एक चीज दीं: “ई हर थाली खातिर एक चम्मच बा।”
+- **चम्मच-कांटा छांटल।** साफ कांटा, चम्मच आ छोट चाकू एगो टब में मिला के बांटल ट्रे में छांटे दीं। तेज छुरी बाहर छोड़ दीं।
+- **बरतन पोंछल।** प्लास्टिक या ना टूटे वाला बरतन आ मुलायम तौलिया से ई सुरक्षित काम हो जाला।
+- **टेबल या काउंटर पोंछल।** गीला कपड़ा आ साफ सतह। Alzheimer's Association सुझावत बा कि अगर केहू पहिलहीं हाथ से टेबल रगड़त बा त ओकरा कपड़ा दीं; अस्थिर हरकत एगो उपयोगी काम में बदल जाई।
 
-### Around the house
+### घर के आसपास
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **धूल झाड़ल।** मुलायम झाड़न आ कुछ मजबूत सतह, जइसे कॉफी टेबल या किताब के आलमारी।
+- **डाक छांटल।** बेकार चिट्ठी आ विज्ञापन के ढेर बना के छांटे दीं: रखे के, कूड़ा के, बाद में खोले के। असली बिल आ चेक दोसर जगह रखीं।
+- **कूड़ा अलग करल।** साफ डब्बा, बोतल आ कागज अलग-अलग कूड़ा डब्बा में डलवाईं।
+- **झाड़ू लगावल।** अगर संतुलन ठीक बा त आंगन या रसोई के फर्श पर छोट झाड़ू से।
+- **पौधा में पानी देल।** छोट, हल्का पानी के डब्बा आ कुछ पौधा जे आसानी से पहुंच में होखे।
 
-### Simple cooking with supervision
+### निगरानी में आसान खाना
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+खाना बनावे से पुरान, सुखद एहसास लौट सकेला। NIA सुझावत बा कि व्यक्ति सामान जुटावे, नापे, मिलावे आ ढारे दीं, या सिर्फ कवनो दोसर के मनपसंद रेसिपी बतावे दीं। ठीक काम ई बा:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- सब्जी या फल धोवल
+- घोल या ठंडा सलाद हिलावल
+- सलाद के पत्ता तोड़ल
+- कुंद छुरी से टोस्ट पर मक्खन लगावल
+- कुकी के आटा ट्रे पर रखल
+- पिज्जा पर टॉपिंग रखल
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+नापल मुश्किल होखे त Alzheimer's Association सुझावत बा कि रउआ नापे के काम खुद पूरा कर लीं, फेर कवनो दोसर काम, जइसे हिलावल, दीं।
 
-## How do I set up a chore so it goes well?
+## कइसे सेट करीं कि काम ठीक से चले?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **सही समय चुनीं।** दिन के उ हिस्सा चुनीं जब व्यक्ति आराम में आ शांत रहेला। बहुत लोग खातिर ई सबेरे होखेला।
+2. **जगह साफ करीं।** एक काम, एक सतह, टेबल पर कुछ अउर ना।
+3. **न्योता दीं, हुकुम ना।** “हमरा ई में थोड़ा हाथ चाहीं” कहल “अब तह लगावे के समय बा” कहला से बढ़िया बा।
+4. **पहिला खुद देखाईं।** एक तौलिया धीरे-धीरे तह करीं, फेर अगला दीं। देखावल बतावला से साफ होला।
+5. **एक बार में एक कदम दीं।** एक साथ बहुत निर्देश से लोग घबरा सकेला। एक कदम पूरा होखे के बाद अगला बताईं।
+6. **साथ-साथ काम करीं।** बगल में एक ही काम करत रहला से साथ के एहसास होला, निगरानी ना।
+7. **नतीजा ना, काम पर बात करीं।** “ई कतना मुलायम बा” या “रउआ लिनन के आलमारी कइसे सजावत रहनी, बताईं” बातचीत बढ़ावेला, बिना कवनो जांच के।
 
-## How do I adapt chores as abilities change?
+## हालत बदलला पर काम कइसे ढालीं?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+हालत समय के साथ बदलेला, कबो-कबो एक दिन से दोसरा दिन भी। Alzheimer's Association सुझावत बा कि बीमारी बढ़ला पर सरल आ बार-बार होखे वाला काम पर जाईं।
 
-| If this has become hard | Try this instead |
+| अब मुश्किल लागत बा | ए के बदले एहकर कोशिश करीं |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| बड़ चादर तह लगावल | वॉशक्लॉथ तह लगावल या रूमाल चिकन करल |
+| पूरा टेबल लगावल | हर सीट पर एक रूमाल रखल |
+| चिट्ठी के श्रेणी में छांटल | लिफाफा एक ढेर में रखल |
+| रेसिपी के पालन करल | हिलावल, या खाना बनत घरी देखल आ चखल |
+| पूरा फर्श झाड़ल | एक छोट टेबल पोंछल |
+| काम बिल्कुल ना कर पावल | आपके साथ बइठ के काम के दौरान साथ देल |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+देखल भी गिनती में आवेला। NIA कहत बा कि कुछ लोग खाली देखे में मजा लेवेलें, आ ई भी हिस्सा लेवे के एगो ठीक तरीका बा।
 
-## How do I keep household tasks safe?
+## घरेलू काम सुरक्षित कइसे राखीं?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+सुरक्षा सबसे पहिले आवेला, खासकर रसोई में। NIA के [अल्जाइमर देखभाल करे वालन खातिर घर सुरक्षा सुझाव](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) में ई सब बा:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- सफाई के सामान बंद करके या हटा के राखीं, कपड़ा धोवे वाला डिटर्जेंट पॉड भी, जवन मिठाई जइसन लाग सकेला।
+- छुरी, कैंची आ बिजली के औजार ताला वाला जगह में रखीं।
+- चूल्हा में सुरक्षा नॉब आ अपने से बंद होखे वाला स्विच लगाईं।
+- ओवन, टोस्टर आ इस्त्री के पास “रुकीं” या “बहुत गरम” के संकेत लगाईं, अइसन जगह कि आग ना पकड़े।
+- पानी गरम करे वाला यंत्र 120°F पर सेट करीं, जलल से बचे खातिर।
+- नकली फल आ खाना जइसन चुंबक हटा दीं, जवन खाए लायक लाग सकेला।
 
-A few more practical habits help:
+कुछ अउर व्यावहारिक आदत भी मदद करेला:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- चूल्हा, ओवन या तेज औजार चलत रही त कमरा में रुकीं।
+- सुखावे आ टेबल लगावे खातिर ना टूटे वाला बरतन रखीं।
+- फर्श झाड़त या पोंछत घरी फर्श सूखा आ साफ राखीं।
+- अगर व्यक्ति पहिले औजार चलावत रहले त Alzheimer's Association सुझावत बा कि खतरनाक चीज वर्कशॉप से हटा दीं, ताकि लकड़ी रेत के चिकन करे जइसन सुरक्षित काम अब्बो मजा से हो सके।
 
-## What if they do it "wrong"?
+## अगर ऊ "गलत" करस त?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+छोड़ दीं। तीन तह वाला तौलिया भी, आधा तह वाला के मुकाबले, तह लगावल तौलिए बा। Alzheimer's Association साफ कहत बा: जरूरी बात बा साथ में समय बितावल आ व्यक्ति के उपयोगी लागल, तौलिया ठीक से तह भइल कि ना, ई ना। अगर सच में दोबारा करे के जरूरत बा त बाद में, नजर से दूर होके करीं।
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+मौके पर सुधारल कबो-कबो सुखद काम के उ याद दिला सकेला जवन खो गइल बा। “धन्यवाद, ई बड़ा मदद भइल” कहल लगभग हमेशा ठीक बा।
 
-## When should we stop?
+## कब रोकल चाही?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+थकावट, चिढ़ या मन ना लागे के संकेत दिखे त रोक दीं या बदल दीं। जल्दी रुकल असफलता ना, अच्छा नतीजा ह। रउआ ई कर सकेनी:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- आसान कदम पर बदल जाईं
+- संगीत या चाय जइसन आराम वाला चीज पर जाईं
+- बाद में या दोसरा दिन फेर कोशिश करीं
+- बस साथ में बइठ जाईं
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+अगर व्यक्ति मना करे त जबरदस्ती मत करीं। [मना करे पर का करीं](/caregiving/when-they-say-no/) में नरम तरीका बतावल बा।
 
-## Low-effort extras for a quieter moment
+## कम मेहनत वाला सहायक गतिविधि, शांत समय खातिर
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+जब शारीरिक काम संभव ना होखे, त बइठ के भी छांटल आ मिलावल हो सकेला। [Sort Together](/games/sort-together/) में रसोई या बगइचा के टोकरी में तस्वीर टैप करे के बा, आ [Picture Pairs](/games/picture-pairs/) बड़ तस्वीर वाला, बिना टाइमर के नरम मिलान वाला खेल ह। [Conversation Cards](/games/conversation-cards/) में घर आ परिवार के बारे में खुला सवाल बा, जवन काम खतम होखे पर चाय के साथे बढ़िया लागेला।
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+दिन में काम जोड़े में मदद खातिर [शांत दैनिक दिनचर्या](/activities/daily-routine/) वाला गाइड देखीं। चरण के हिसाब से ढेर विचार खातिर [मध्य चरण की गतिविधि](/activities/middle-stage/) देखीं।

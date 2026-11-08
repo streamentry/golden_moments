@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "क्या डिमेंशिया रोकल जा सकेला? रिसर्च का कहत बा"
+seoTitle: "क्या डिमेंशिया रोकल जा सकेला? रिसर्च का बतावत बा"
+description: "2024 के Lancet Commission आ बड़ ट्रायल में डिमेंशिया के जोखिम घटावे के बारे में का मिलल, का ना मिलल, आ डॉक्टर से बात करे लायक कदम।"
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  कवनो आदमी ई वादा ना कर सकेला कि डिमेंशिया रोकल जाई। 2024 के Lancet
+  Commission के अनुमान बा कि दुनिया भर में लगभग आधा डिमेंशिया के मामला 14
+  जोखिम कारक से जुड़ल बा, जेके शायद बदलल जा सकेला, जइसे हाई ब्लड प्रेशर,
+  सुनाई कम पड़ल आ कम चलल-फिरल। ट्रायल में सोच-समझ के जांच में छोट असर देखल
+  गइल, बाकिर ई साबित ना भइल कि डिमेंशिया के मामला कम होखेला। कइ लोग जे सब
+  कुछ “सही” करेला, उनको भी डिमेंशिया हो जाला, आ एमे केहू के दोस ना बा।
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 के Lancet Commission के कहनाम बा कि दुनिया भर में लगभग 45% डिमेंशिया के मामला 14 जोखिम कारक से जुड़ल बा, जेके शायद बदलल जा सके। ई पूरा आबादी के अनुमान बा, कवनो एक आदमी खातिर पक्का गारंटी ना।"
+  - "जोखिम घटावे के मतलब बा कि पूरा आबादी में खतरा घटे। एकर मतलब ई ना ह कि कवनो एक आदमी डिमेंशिया से बच जाई।"
+  - "FINGER, US POINTER आ SPRINT MIND जइसन बड़ ट्रायल में सोच-समझ के जांच या हल्की संज्ञानात्मक कमजोरी में थोड़ सुधार देखल गइल, बाकिर केहू ई साबित ना कइल कि जीवनशैली के कार्यक्रम डिमेंशिया रोकेला।"
+  - "अल्ज़ाइमर खातिर उमिर सबसे बड़ जाने वाला जोखिम कारक बा, आ एके बदलल ना जा सकेला। कइ लोग जे सेहत के आदत ठीक रखले बा, उनको भी डिमेंशिया हो जाला।"
+  - "जे उपाय सबसे जादा अध्ययन में आइल, जइसे ब्लड प्रेशर के इलाज, सुनने वाला मशीन आ सक्रिय रहल, ओकरा पर डॉक्टर से बात करे लायक बा, काहे कि ई सेहत में दोसरो तरह से मदद करेला।"
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "क्या डिमेंशिया रोकल जा सकेला?"
+    a: "कवनो एक आदमी खातिर डिमेंशिया रोके के साबित तरीका नइखे। रिसर्च बतावेला कि ब्लड प्रेशर, बिना इलाज के सुनाई कम पड़ल आ सिगरेट जइसन कुछ जोखिम घटावला से पूरा आबादी में डिमेंशिया के खतरा कम हो सकेला, या ई देर से शुरू हो सकेला। ई संभावना बा, पक्का वादा ना।"
+  - q: "Lancet Commission के 45% आंकड़ा के मतलब का बा?"
+    a: "2024 के Lancet Commission के अनुमान बा कि दुनिया भर में लगभग 45% डिमेंशिया के मामला 14 जोखिम कारक से जुड़ल बा, जेके सिद्धांत में बदलल जा सकेला। ई अनुमान मानत बा कि ई कारक डिमेंशिया के कारण बा, आ लेखक लोग कहत बा कि कुछ जुड़ाव आंशिक कारण भी हो सकेला। ई पूरा आबादी के बारे में बा, कवनो एक आदमी के खतरा ना बतावेला।"
+  - q: "अगर हमार माई-बाबूजी के सेहतमंद जीवनशैली रहे, त उनके डिमेंशिया काहे भइल?"
+    a: "उमिर, जीन आ अइसन बहुत कारक जेपर केहू के बस ना चलेला, डिमेंशिया में बड़ भूमिका निभावेला। Lancet Commission के लेखक कहत बा कि पूरा आबादी में जोखिम घटावला से कवनo एक आदमी के डिमेंशिया से बचे के गारंटी ना मिलेला। डिमेंशिया के पता चलल ई ना दिखावेला कि केहू से चूक भइल।"
+  - q: "65 साल के बाद डिमेंशिया के जोखिम घटावल देर हो गइल का?"
+    a: "Lancet Commission कहत बा कि जोखिम घटावे खातिर ना त बहुत जल्दी होखेला, ना बहुत देर। बाकिर ढेर सबूत अधेड़ उमिर के बारे में बा। सुनाई आ आंख के समस्या के इलाज, सक्रिय रहल आ लोग से जुड़ल रहल, बाद के उमिर के उपाय के रूप में अध्ययन कइल गइल बा। रउआ के सेहत के हिसाब से का ठीक बा, एकरा पर डॉक्टर से बात करीं।"
+  - q: "का दिमागी खेल या खास खाना-पीना डिमेंशिया रोकेला?"
+    a: "कवनो खेल, खाना, सप्लीमेंट या खाना-पीना के तरीका डिमेंशिया रोके खातिर साबित नइखे भइल। MIND diet के तीन साल के ट्रायल में कंट्रोल डाइट के मुकाबले सोच-समझ में कवनो खास फर्क ना मिलल, आ बाजार में बिकेवाला दिमागी ट्रेनिंग ऐप्स के उहे असर नइखे देखावल गइल जे रिसर्च ट्रायल में दिखल।"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+अगर रउआ डिमेंशिया वाला केहू के देखभाल करत बानी, या माई-बाबूजी के डिमेंशिया के साथे जीयत देखले बानी, त रउआ सोचले होखब कि ई रोकल जा सकत रहे, आ का रउआ के भी ई हो सकेला। ई पेज बतावेला कि रिसर्च असल में का कहत बा, सरल भाषा में। छोट जवाब ई बा: केहू पक्का वादा ना कर सकेला कि डिमेंशिया रोकल जाई। बाकिर रिसर्च बतावेला कि कुछ जोखिम घटावल जा सकेला, आ पूरा आबादी में ई घटावला से डिमेंशिया के मामला कम हो सकेला, या बाद में हो सकेला।
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+ई सामान्य जानकारी बा, चिकित्सा सलाह ना। कृपया हमार [चिकित्सा अस्वीकरण](/medical-disclaimer/) पढ़ीं आ अपना सेहत पर डॉक्टर से बात करीं।
 
-## Can dementia be prevented?
+## क्या डिमेंशिया रोकल जा सकेला?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+कवनो एक आदमी खातिर डिमेंशिया रोके के साबित तरीका नइखे। नेशनल इंस्टीट्यूट ऑन एजिंग (NIA) कहेला कि [अभी तक अल्ज़ाइमर रोके खातिर कुछऊ साबित नइखे भइल](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), बाकिर वैज्ञानिक कुछ आशाजनक तरीका खोज चुकल बाड़न, आ पता लगा रहल बाड़न कि का काम कर सकेला आ का ना।
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+रिसर्च ई जरूर देखावेला कि कुछ सेहत के स्थिति आ आदत के साथे डिमेंशिया के खतरा ढेर होखेला। जब ई जोखिम पूरा आबादी में कम होखेला, त शायद कम लोग डिमेंशिया के शिकार होखे, या बाद में होखे। ई गारंटी ना ह।
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+एगो आशा के बात: 2024 के Lancet Commission बतावत बा कि अमेरिका आ ब्रिटेन जइसन कुछ अमीर देशन में बुजुर्गन में डिमेंशिया के हिस्सा घटल बा। लेखक लोग के लागत बा कि एकर कारण शायद बेहतर शिक्षा, बेहतर स्वास्थ्य सेवा आ जिनगी भर खून के नली पर कम नुकसान बा। ई [University College London के सारांश](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) में बतावल गइल बा।
 
-## What did the 2024 Lancet Commission find?
+## 2024 Lancet Commission का पावल?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission on dementia prevention, intervention and care डिमेंशिया रोके, इलाज आ देखभाल पर काम करे वाला 27 डिमेंशिया वैज्ञानिकन के समूह बा, जे कुछ साल पर सबूत के समीक्षा करेला। ओकर 2024 के रिपोर्ट में **14 जोखिम कारक** गिनावल गइल, जेके शायद बदलल जा सकेला। ओकर अनुमान बा कि ई सब मिलके **दुनिया भर के लगभग आधा (करीब 45%) डिमेंशिया के मामला** से जुड़ल बा। लेखक लोग के कहनाम बा कि ई मामला *सिद्धांत में* रोकल या टाल जा सकेला, अगर ई जोखिम हटावल जाव ([2024 Lancet Commission रिपोर्ट](https://doi.org/10.1016/S0140-6736(24)01296-0))।
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 कारक, जीवन के चरण के हिसाब से, जेकरा खातिर सबूत सबसे मजबूत बा:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **बचपन:** कम पढ़ाई।
+- **अधेड़ उमिर (लगभग 40 से 65 साल):** सुनाई कम पड़ल, हाई LDL (“खराब”) कोलेस्ट्रॉल, उदासी, सिर में चोट, कम शारीरिक सक्रियता, डायबिटीज, सिगरेट, हाई ब्लड प्रेशर, मोटापा, आ ढेर शराब पियल।
+- **बाद के उमिर में:** समाज से अलग हो जाए, हवा के प्रदूषण, आ बिना इलाज के आंख के रोशनी कम होखल।
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 में नया जोड़ल गइल दू गो चीज रहल: हाई LDL कोलेस्ट्रॉल आ बिना इलाज के आंख के कमजोरी। सबसे जादा मामला से जुड़ल कारक रहल सुनाई कम पड़ल आ हाई LDL कोलेस्ट्रॉल (दुनो लगभग 7%), फिर कम पढ़ाई आ समाज से अलग होखल (दुनो लगभग 5%)।
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+हमार [जोखिम कारक गाइड](/brain-health/risk-factors/) में सब 14 के एगो तालिका में समझावल गइल बा, जेमे बा कि रिसर्च का जोड़ता आ रउआ का कर सकेनी।
 
-### What the 45% figure does not mean
+### 45% आंकड़ा का ना मतलब देला
 
-It is easy to misread this number, so it helps to be precise:
+ई संख्या के गलत समझल आसान बा, एसे साफ-साफ जानल जरूरी बा:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **ई पूरा आबादी के अनुमान ह।** ई दुनिया भर के डिमेंशिया के मामला के बारे में बा, रउआ या रउआ के माई-बाबूजी के खतरा के बारे में ना।
+- **ई कारण-प्रभाव मानत बा।** लेखक लोग कहत बा कि उ सिर्फ मजबूत सबूत वाला जोखिम कारक शामिल कइले बा, बाकिर कुछ जुड़ाव आंशिक कारण भी हो सकेला। जइसे बाद के उमिर में उदासी कबो-कबो डिमेंशिया के पहिला लक्षण हो सकेला, कारण ना।
+- **ई केहू खातिर पक्का गारंटी ना देला।** UCL के सारांश बतावेला कि जोखिम घटावल पूरा आबादी के स्तर पर काम करेला, आ ई पक्का नइखे करेला कि कवनो एक आदमी डिमेंशिया से बच जाई।
+- **बाकी आधा के बारे में ई कारक ना बतावेला।** उमिर, जीन आ ओ कारण जेके वैज्ञानिक अभी पूरा ना समझल बाड़न, बाकी हिस्सा बनावेला।
 
-## What is the difference between "risk reduction" and "prevention"?
+## “जोखिम घटावल” आ “रोकथाम” में का फर्क बा?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**जोखिम घटावल** के मतलब बा खतरा कम कइल। अगर बड़ समूह के लोग अपना ब्लड प्रेशर कम करे, त बहुत साल में ओमे से कम लोग के डिमेंशिया हो सकेला, जतना बिना एकरा के होखे। ओह समूह के कुछ लोग तबो एकरा के शिकार हो सकेला।
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**रोकथाम** के मतलब बा कवनो चीज के होखे से पूरी तरह रोकल। डिमेंशिया खातिर आज के रिसर्च केहू से ई वादा नइखे कर सकत।
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+वैज्ञानिक **देर से होखल** के बात भी करेलन। Lancet Commission के नया सबूत बतावेला कि जोखिम घटावला से डिमेंशिया के शुरुआत पीछे खिसक सकेला, आ जिनगी में बीमारी के साथे जीये वाला समय छोट हो सकेला। कुछ साल के देरी भी आदमी आ ओकर परिवार खातिर बहुत मायने रख सकेला।
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+ई साइट पर हम जानबूझ के “जोखिम घटावल” आ “से जुड़ल” लिखत बानी। जब केहू उत्पाद, सप्लीमेंट या कार्यक्रम के “अल्ज़ाइमर रोकेला” कहे, त ओकरा से सावधान रहीं। NIA सलाह देला कि कवनो गोली या इलाज आजमावे से पहिले डॉक्टर से पूछीं, जे अल्ज़ाइमर रोके के वादा करेला, काहे कि ई असुरक्षित, बेकार, या दुनो हो सकेला।
 
-## What have large trials found?
+## बड़ ट्रायल का पावल गइल?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+अवलोकन अध्ययन (जेमे लोग के समय के साथे देखल जाला) जुड़ाव देखा सकेला। रैंडमाइज्ड ट्रायल, जेमे लोग के मौका से कवनो कार्यक्रम या तुलना समूह में बांटल जाला, ज्यादा मजबूत जांच होखेला। इहाँ कुछ सबसे चर्चित ट्रायल के नतीजा बा।
 
-### FINGER (Finland)
+### FINGER (फिनलैंड)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER ट्रायल में 60 से 77 साल के 1,260 वयस्क शामिल भइलन, जे डिमेंशिया के ज्यादा खतरा में रहलन। आधा लोग के दू साल के कार्यक्रम मिलल: खान-पान के सलाह, कसरत, कंप्यूटर वाला दिमागी अभ्यास आ दिल आ खून के नली के सेहत के जांच। बाकी आधा के सामान्य सेहत के सलाह मिलल। कार्यक्रम वाला समूह सोच-समझ वाला जांच में थोड़ बेहतर रहल, छोट लेकिन आंकड़ा के हिसाब से महत्वपूर्ण अंतर ([The Lancet में FINGER ट्रायल](https://pubmed.ncbi.nlm.nih.gov/25771249/))। ट्रायल में जांच के नतीजा नापल गइल, डिमेंशिया के पुष्टि ना।
 
-### US POINTER (United States)
+### US POINTER (संयुक्त राज्य अमेरिका)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER में 60 से 79 साल के 2,111 वयस्क शामिल भइलन, जे कम सक्रिय रहलन, खाना कम सेहतमंद रहल आ दोसरो जोखिम रहल। दुनु समूह के प्रोत्साहित कइल गइल कि शारीरिक आ दिमागी रूप से सक्रिय रहस, ठीक खाना खास, लोग से जुड़ल रहस आ दिल के सेहत पर नजर रखस। एक समूह के संरचित, कोच वाला कार्यक्रम मिलल; दोसर समूह खुद से मार्गदर्शन लेलस। दू साल में सोच-समझ वाला जांच के नतीजा **दुनु** समूह में सुधरल, आ संरचित समूह में थोड़ जादा ([JAMA में US POINTER ट्रायल](https://pubmed.ncbi.nlm.nih.gov/40720610/))। लेखक लोग कहत बाड़न कि ई जानेला खातिर अउर समय के निगरानी चाहीं कि ई फर्क रोजमर्रा के जिनगी में मायने रखेला कि ना। कवनो “कुछ मत करीं” वाला समूह ना रहल, एसे ट्रायल ई ना बता सकेला कि दुनु कार्यक्रम कतना मदद कइल, बिना कवनो बदलाव के मुकाबला में।
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (ब्लड प्रेशर)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND में 50 साल आ ओकरा से ऊपर के 9,361 अमेरिकी वयस्क के अध्ययन कइल गइल, जिनकर ब्लड प्रेशर हाई रहल। उनके या त कम ब्लड प्रेशर के लक्ष्य (ऊपर वाला नंबर 120 से कम) देहल गइल, या सामान्य लक्ष्य (140 से कम)। कम लक्ष्य से **हल्की संज्ञानात्मक कमजोरी** में खास कमी आइल। ई याददाश्त आ सोचे-समझे के समस्या के एक अवस्था ह, जे डिमेंशिया से पहिले आ सकेला। **संभावित डिमेंशिया** खातिर कम लक्ष्य वाला समूह में मामला कम रहल, बाकिर ई फर्क आंकड़ा के हिसाब से महत्वपूर्ण ना रहल। ट्रायल जल्दी रोकल गइल आ उम्मीद से कम डिमेंशिया के मामला रहल, एसे ई सवाल के जवाब देवे खातिर शायद ई छोट रहे ([JAMA में SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/))।
 
-### What the reviews add up to
+### रिव्यू का कहत बा
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 के Cochrane रिव्यू में नौ बड़ ट्रायल के, जे एके साथे कई जोखिम पर काम करे वाला कार्यक्रम रहलन, आ 18,000 से जादा लोग के नतीजा जोड़ल गइल। सोच-समझ वाला जांच में थोड़ फायदा मिलल, बाकिर दू ट्रायल में, जे डिमेंशिया नापलन, ओमे केतना लोग के डिमेंशिया भइल, एमे **कवनो साफ फर्क ना** मिलल ([Cochrane रिव्यू, कई क्षेत्र वाला हस्तक्षेप](https://pubmed.ncbi.nlm.nih.gov/34748207/))।
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 में National Academies of Sciences, Engineering, and Medicine के रिव्यू, जेके NIA सारांशित कइले बा, में तीन तरीका खातिर “उत्साहजनक लेकिन निष्कर्षहीन” सबूत मिलल: हाई ब्लड प्रेशर के नियंत्रण, शारीरिक गतिविधि बढ़ावल, आ संज्ञानात्मक अभ्यास।
 
-## Does it matter when you start?
+## शुरुआत कब करे के बा, एकर फर्क पड़ेला का?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet Commission के सलाह बा कि जोखिम जतना जल्दी हो सके घटावल जाव, आ जतना लंबा हो सके कम रखल जाव: “जेतना जल्दी, ओतना बढ़िया” आ “जेतना लंबा, ओतना बढ़िया।” ई भी कहत बा कि जोखिम घटावे खातिर कबो बहुत जल्दी या बहुत देर ना होखेला। ढेर सबूत अधेड़ उमिर, लगभग 40 से 65 साल, के बारे में बा। बाकिर कुछ कारक, जइसे आंख के रोशनी कम होखल आ समाज से अलग होखल, बाद के उमिर के जोखिम बा, जेमे कदम उठावल अभियो ठीक बा।
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+रिपोर्ट कहेला कि अब ई बात के मजबूत सबूत बा कि कवनो जोखिम के लंबा समय तक असर भारी होखेला। जइसे अधेड़ उमिर में शुरू भइल डायबिटीज, बाद में शुरू भइल डायबिटीज से जादा मायने रखेला।
 
-## Is dementia risk the same for everyone?
+## का डिमेंशिया के खतरा सबके बराबर बा?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+ना। Commission पावल कि कम आ मध्यम आय वाला देशन के लोग, अल्पसंख्यक समूह के लोग आ कम पइसा वाला लोग अक्सर ई जोखिम जादा उठावेलन, एसे डिमेंशिया कम उमिर में शुरू होखे के संभावना होखेला। ढेर जोखिम उ चीज से जुड़ल बाड़न जे लोग के खुद के चुनल ना होखे, जइसे बचपन में मिलल पढ़ाई के गुणवत्ता, जहाँ हम रहत बानी उहाँ के हवा, आ सेहतमंद खाना पास में आ सस्ता बा कि ना।
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+एही से Commission के सिफारिश व्यक्ति से जादा सरकार खातिर भी बा: सब बच्चा खातिर अच्छा शिक्षा, साफ हवा, सिगरेट घटावे के उपाय, दुकान आ रेस्टोरेंट में बिकेवाला खाना में कम चीनी आ नमक, आ जेके जरूरत बा ओकरा खातिर सुनने वाला मशीन। व्यक्तिगत कोशिश मायने रखेला, बाकिर उ दुनिया भी मायने रखेला जेमे लोग रहत बा। एही से डिमेंशिया के पता चलला पर केहू के दोस ना देवे के एगो और कारण बा।
 
-## What are the honest limits of this research?
+## एह रिसर्च के ईमानदार सीमा का बा?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **डिमेंशिया के विकसित होखे में दशक लागेला**, बाकिर ढेर ट्रायल दू से पांच साल तक चलेला। डिमेंशिया खुद नापे खातिर, सिर्फ टेस्ट के नतीजा ना, बहुत लंबा आ बहुत बड़ अध्ययन चाहीं।
+- **ढेर ट्रायल सोच-समझ वाला टेस्ट नापेला।** टेस्ट में छोट सुधार के मतलब ई ना होखेला कि कम लोग डिमेंशिया के शिकार होई, या रोजमर्रा के जिनगी आसान हो जाई।
+- **स्वयंसेवक अक्सर आम लोग से जादा सेहतमंद** आ जादा पढ़ल-लिखल होखेलन। Lancet Commission बतावेला कि ढेर सबूत अबहिन उच्च आय वाला देशन से बा, आ अल्पसंख्यक समूह कम दिखल बाड़न।
+- **कुछ जुड़ाव दूनो तरफ से होखेला।** कम सक्रिय रहल या समाज से कटल, डिमेंशिया के शुरुआती असर हो सकेला, खाली कारण ना।
+- **खान-पान के ट्रायल अब तक निराशाजनक रहल।** MIND diet के तीन साल के ट्रायल में कंट्रोल डाइट के मुकाबले सोच-समझ में कवनो खास फर्क ना मिलल। हमार [खान-पान गाइड](/brain-health/diet/) देखीं।
+- **दिमागी खेल डिमेंशिया रोके खातिर साबित नइखे।** हमार [दिमागी खेल आ डिमेंशिया](/brain-health/brain-games/) गाइड देखीं।
+- **उपवास के इंसानन पर बहुत कम सबूत बा**, आ बड़ उमिर के लोग खातिर ई जोखिम भी हो सकेला। हमार [उपवास गाइड](/brain-health/fasting/) देखीं।
 
-## If someone did everything "right", why did they still get dementia?
+## अगर केहू सब कुछ “सही” कइले रहे, त डिमेंशिया काहे भइल?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+काहे कि डिमेंशिया खाली चुनाव के नतीजा ना ह। NIA कहेला कि [उमिर अल्ज़ाइमर के सबसे बड़ जाने वाला जोखिम कारक ह](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), आ एके केहू बदल ना सकेला। जीन के भी हाथ बा। आ वैज्ञानिक अबहिन ढेर लोग में अल्ज़ाइमर के कारण पूरा ना समझ पावल बाड़न। अगर सब 14 जोखिम कारक हटा दिहल जाव, तबो Lancet Commission के अपने अनुमान से आधा से जादा मामला बिना वजह के रही।
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+त अगर रउआ कवनो अइसन आदमी के देखभाल करत बानी, जे कसरत कइले, ठीक खाइल, कबो सिगरेट ना पियल, आ तबो डिमेंशिया हो गइल, त ओकर या रउआ के कवनो गलती ना रहल। अगर रउआ खुद डिमेंशिया के साथे जीयत बानी, त ई रउआ के दोस ना ह। परिवार में अपराधबोध आम बा, बाकिर ऊ मिलेके लायक ना ह। अब जरूरी बा आराम, जुड़ाव आ अच्छा दिन। हमार [गतिविधि के विचार](/activities/ideas/) आ [देखभाल करे वाला के अपना देखभाल गाइड](/caregiving/caregiver-self-care/) शुरू करे खातिर बढ़िया जगह बाड़े।
 
-## What steps can you talk over with a doctor?
+## कवन कदम डॉक्टर से बात कर सकेनी?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+ई ओ क्षेत्र ह जेपर सबसे जादा अध्ययन भइल बा। जांच में एकरा पर बात करे लायक बा, काहे कि ई ढेर सेहत, मूड आ स्वतंत्र रहे में भी मदद करेला, डिमेंशिया पर असर जे भी होखे।
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **ब्लड प्रेशर।** पूछीं कि रउआ के नंबर का बा आ रउआ खातिर कवन लक्ष्य ठीक बा। Lancet Commission लगभग 40 साल से शुरू करके ऊपर वाला नंबर 130 या ओकरा से कम रखे के सुझाव देला, बाकिर बड़ उमिर वाला के सही लक्ष्य उनकर कुल सेहत पर निर्भर करेला।
+2. **सुनाई।** सुनाई के जांच करावे के आ ई पूछे के कि सुनने वाला मशीन मदद करी कि ना। हमार [सुनाई गाइड](/brain-health/hearing/) रिसर्च समझावेला।
+3. **आंख।** नियमित आंख के जांच करावीं, आ पूछीं कि मोतियाबिंद जइसन समस्या के इलाज हो सकेला कि ना।
+4. **कोलेस्ट्रॉल।** पूछीं कि LDL कोलेस्ट्रॉल के जांच होखे के चाही कि ना, आ कुछ बदले के चाही कि ना।
+5. **ब्लड शुगर।** अगर रउआ के डायबिटीज बा, त पूछीं कि एकरा सुरक्षित तरीका से कइसे संभाले।
+6. **मूड।** उदासी आम बा आ इलाज होखेला। अगर दू हफ्ता से जादा मन उदास रहे, या चीज में मन ना लागे, त डॉक्टर के बताईं।
+7. **सिगरेट आ शराब।** सिगरेट छोड़े खातिर मदद आ शराब के सुरक्षित सीमा के बारे में पूछीं।
+8. **चलल-फिरल।** पूछीं कि रउआ खातिर कवन तरह के कसरत सुरक्षित बा। हमार [व्यायाम गाइड](/brain-health/exercise/) में विचार बा।
+9. **सिर के रक्षा।** साइकिल चलावे आ संपर्क वाला खेल में हेलमेट पहिनीं, आ गिरे से बचाव के बारे में पूछीं।
+10. **जुड़ल रहल।** दोसर लोग के साथे समय बितावल सेहतमंद जिनगी के हिस्सा ह। हमार [सामाजिक जुड़ाव गाइड](/brain-health/social-connection/) देखीं, आ [नींद](/brain-health/sleep/) भी।
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+दवाई, खान-पान, सप्लीमेंट, उपवास या कसरत बदले से पहिले डॉक्टर से बात करीं, खासकर अगर रउआ के दिल के बीमारी, डायबिटीज, गिरे के इतिहास बा, या पहिलहीं डिमेंशिया के साथे जीयत बानी।
 
-## Talk with a doctor
+## डॉक्टर से बात करीं
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+अगर रउआ में या केहू में याददाश्त या सोच-समझ में बदलाव देखाई दे, जे चिंता के बात बा, त अपॉइंटमेंट लीं। NIA बतावेला कि [याददाश्त के समस्या के दोसर कारण भी हो सकेला](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), जइसे दवाई के साइड इफेक्ट, थायराइड के समस्या, उदासी या विटामिन B12 के कमी। ओमे से कुछ इलाज भइला पर ठीक हो जाला। हमार [चेतावनी संकेत गाइड](/brain-health/warning-signs/) बतावेला कि का देखे के बा।
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**तुरंत मदद लीं** अचानक बदलाव खातिर: अचानक भ्रम, एक तरफ कमजोरी या सुन्नपन, बोले में दिक्कत, या बहुत तेज सिर दर्द, ई स्ट्रोक या कवनो दोसर आपात स्थिति के संकेत हो सकेला। **112** पर फोन करीं।
 
-## Where Golden Moments fits
+## Golden Moments कहाँ फिट होखेला
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments सरल साझा गतिविधि बनावेला, जइसे [बातचीत कार्ड](/games/conversation-cards/), [चित्र बिंगो](/games/picture-bingo/) आ [शांत साँस लेवे के विराम](/games/calm-breathing/)। ई मन बहलावे आ साथ समय बितावे खातिर बा। ई इलाज ना ह, आ ई डिमेंशिया रोके या धीमा करे खातिर ना बा।

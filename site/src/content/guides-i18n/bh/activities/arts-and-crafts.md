@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "डिमेंशिया वाला लोग खातिर कला आ शिल्प"
+seoTitle: "डिमेंशिया खातिर कला: बड़ लोग खातिर, बचपना ना"
+description: "डिमेंशिया वाला बड़ लोग खातिर कला आ शिल्प के विचार, वाटरकलर आ कोलाज से लेके फूल सजावट तक। तैयारी, अनुकूलन आ नतीजा से जादा प्रक्रिया पर ध्यान देवे के सुझाव।"
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  डिमेंशिया वाला बड़ लोग खातिर बढ़िया कला आ शिल्प बड़ लागे आ महसूस होखे:
+  वाटरकलर, पत्रिका से कोलाज, फूल सजावट, मिट्टी, साधारण कार्ड बनावल या बड़ लोग
+  खातिर रंग भरे वाला पन्ना। कुछ सामान सजाईं, पहिला ब्रश के स्ट्रोक ज़रूरत पड़े
+  त साथ मिलके शुरू करीं, काम करत बात करीं, आ साथ बितावल समय के असली बात
+  मानीं। तैयार चीज़ बनावल जरूरी नइखे।
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "ऐसन सामान आ विषय चुनीं जे बड़ लागे, जइसे वाटरकलर कागज, असली फूल आ पत्रिका के तस्वीर, चमकी, स्टिकर या कार्टून वाला वर्कशीट ना।"
+  - "प्रक्रिया पर ध्यान दीं: रंग, मिट्टी के महसूस, बातचीत। तैयार चीज़ बोनस ह, लक्ष्य ना।"
+  - "जब हो सके त कौनो मकसद दीं, जइसे नाती-पोता खातिर कार्ड या मेज खातिर गुलदस्ता।"
+  - "शुरुआत में मदद करीं, फिर पीछे हट जाईं। साथ में ब्रश के पहिला स्ट्रोक लगावल अक्सर काफी होला।"
+  - "काम एक बइठकी में पूरा होखे के जरूरत नइखे, आ जल्दी रुक जाए में कौनो हर्ज ना बा।"
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "कला के काम बचकाना ना लागे, ई कइसे रखीं?"
+    a: "असली कला सामान इस्तेमाल करीं, बड़ विषय आ आदर वाला लहजा रखीं। चमकी आ कार्टून पन्ना के जगह वाटरकलर कागज, कपड़ा, फूल, पत्रिका के फोटो आ बारीक रंग भरे वाला पन्ना दीं। बच्चा के चित्र जइसन तारीफ ना करीं; जइसे कौनो बड़ दोस्त से बात होखे, ओइसे ओकरा पर बात करीं।"
+  - q: "बाद के चरण वाला डिमेंशिया में कवन कला काम आवेले?"
+    a: "बाद में सरल, इंद्रिय से जुड़ल काम सबसे बढ़िया होला: बड़ ब्रश से मोट-मोट स्ट्रोक लगावल, नरम मिट्टी दबावल, गुलदान में कुछ फूल सजावल या कपड़ा के नमूना छू के छांटल। हाथ के हरकत शायद साथ में शुरू करे के पड़े। रउरा के पेंट करत देखल आ रंग के बारे में बात करल भी हिस्सा लेवे के एक तरीका बा।"
+  - q: "अगर ऊ कहे कि चित्र बनावे ना आवेला त?"
+    a: "दबाव कम करीं। ऐसन काम आज़माईं जेमे कौनो सही जवाब ना होखे, जइसे वाटरकलर के धोवन, कोलाज या फूल सजावल। रउरा ई भी कह सकत बानी कि कार्ड खातिर रंग चुने में मदद चाहीं, जइसे कौनो खास काम, ताकि काम परीक्षा ना लगे बल्कि एगो एहसान लागे।"
+  - q: "का रंग भरे वाला पन्ना बड़ लोग खातिर बचकाना होला?"
+    a: "ना, जब ऊ बड़ लोग खातिर बनल होखे। बड़ विषय वाला पन्ना चुनीं, जइसे बगइचा, रजाई, गाड़ी या लैंडस्केप, आ ओकरा सबक ना बल्कि आराम खातिर पेश करीं। हमार रंग भरे वाला पन्ना छपल जा सकेला या टैबलेट पर रंगल जा सकेला।"
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+कला आ शिल्प से डिमेंशिया वाला लोग के अपना मन के बात कहे के मौका मिलेला, आ ओकरा खातिर सही शब्द खोजे के जरूरत ना पड़े। Alzheimer's Association के कहनाम बा कि कला के काम से [पूरा होखे के एहसास आ मकसद](https://www.alz.org/help-support/caregiving/daily-care/art-music) मिल सकेला, आ अपना मन के बात कहे के मौका भी। ई फायदा देखभाल करे वाला के भी होखेला, आ डिमेंशिया वाला के भी। जरूरी बात ई बा कि चीज़ बड़ रहे, सरल रहे आ दबाव ना रहे। ई पन्ना खास काम, ओकरा सेट करे के तरीका आ बदलत हालत में ओकरा अनुकूल बनावे के बारे में बतावत बा।
 
-## What makes an art activity adult and not childish?
+## कला के काम बड़ आ बचकाना का से होला?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+बड़ लोग खातिर कला के काम असली सामान, बड़ विषय आ आदर वाला लहजा से बनेला। Alzheimer's Association सलाह देला कि काम बड़ स्तर के रखल जाव आ ओकरा से बचल जाव जे बचकाना या अपमानजनक लागे।
 
-| Feels childish | Feels adult |
+| बचकाना लागेला | बड़ लागेला |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| चमकी, फोम के स्टिकर, गोल-गोल आंख वाला सजावट | वाटरकलर कागज, कपड़ा, दबावल फूल |
+| कार्टून वाला रंग भरे के पन्ना | बगइचा, रजाई, गाड़ी या लैंडस्केप के रंग भरे वाला पन्ना |
+| हर निशान पर "बहुत बढ़िया" कहल | असली बात: "ई नीला रंग हरियर के बगल में बड़ सुंदर लागत बा" |
+| बेकार के शिल्प | कौनो दोस्त खातिर कार्ड, मेज के सजावट, उपहार |
+| हिदायत जइसे कौनो सबक पढ़ल जात होखे | न्योता: "का रउरा ई काम में हमरा के मदद करब?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+ओकरा अपना पसंद पर ध्यान दीं। जेकरा सिलाई-कढ़ाई पसंद रहे, ऊ कपड़ा छूए में खुश हो सकेला। कवनो रिटायर इंजीनियर बड़ हिस्सा वाला मॉडल किट या छांटे खातिर हार्डवेयर पसंद कर सकेलें। कवनो पूर्व शिक्षक के कार्ड बनावल पसंद आ सकेला।
 
-## Why focus on the process, not the product?
+## प्रक्रिया पर ध्यान काहे, तैयार चीज़ पर काहे ना?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+काहेकि साथ बितावल समय ही असली बात ह। Alzheimer's Association के [घर पर गतिविधि](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) वाला गाइड कहेला कि नतीजा से जादा प्रक्रिया पर ध्यान दीं। खाली नीला रंग से भरल पन्ना भी चित्र ही ह। तीन तस्वीर वाला कोलाज भी कोलाज ही ह।
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+संस्था ई भी कहेला कि जे पेशेवर कलाकार रहे, ओकरा अपना काम में आइल बदलाव से निराशा हो सकेला, जबकि शौकिया लोग के नया मौका से खुशी मिल सकेला। अगर व्यक्ति कुशल कलाकार रहे, त ओकरा जाने वाला माध्यम से अलग कौनो माध्यम आज़माईं, ताकि ई तुलना ना होके खेल लागे।
 
-## Arts and crafts ideas to try
+## कला के काम के विचार जे आज़माइल जा सकेला
 
-Each idea includes how to make it simpler if it becomes hard.
+हर विचार के साथ ई भी बतावल गइल बा कि मुश्किल होखला पर ओकरा कइसे आसान कइल जाव।
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **वाटरकलर के धोवन।** मोटा वाटरकलर कागज भिंगाईं आ व्यक्ति के बड़ ब्रश से रंग गिरावे दीं। रंग अपने फैल जाला, त कौनो गलत नतीजा ना होखे। *आसान बनावे खातिर:* बस दू रंग दीं, या गाढ़ा कागज पर खाली पानी से चित्र बनावे दीं, जेमे गीला निशान दिखे।
+2. **पत्रिका से कोलाज।** बागवानी, खाना बनावल, गाड़ी, यात्रा या पुरान शौक से जुड़ल पत्रिका से पहिले से तस्वीर काट लीं। व्यक्ति चुनी आ कार्ड स्टॉक पर चिपकावे। *आसान बनावे खातिर:* चार पहिले से कटल तस्वीर आ एगो गोंद के छड़ी दीं, आ चिपकावे के काम साथ में करीं।
+3. **फूल सजावल।** Alzheimer's Foundation of America [कटल फूल आ हरियर पत्ती](https://alzfdn.org/dementia-activity-gardening/) के साधारण मौसमी सजावट में लगावे के सुझाव देला। भारी आ स्थिर गुलदान लीं, आ डंठल पहिले से छांटल रहे। *आसान बनावे खातिर:* एक-एक करके कुछ डंठल छोट कप में लगावल जाव।
+4. **दबावल फूल वाला कार्ड।** कौनो गुलदस्ता से फूल एक हफ्ता खातिर किताब के पन्ना में दबाईं, फेर मोड़ल कार्ड स्टॉक पर चिपकाईं। *आसान बनावे खातिर:* गोंद रउरा लगाईं, फूल व्यक्ति दबाव।
+5. **बड़ लोग खातिर रंग भरे वाला पन्ना।** साफ रेखा आ असली विषय वाला पन्ना चुनीं। हमार [रंग भरे वाला पन्ना](/games/coloring/) छपल भी जा सकेला, आ स्क्रीन पर रंग चुन के चित्र के हिस्सा पर टैप करके भी रंगल जा सकेला। *आसान बनावे खातिर:* बड़ हिस्सा, कम रंग, मोटा मार्कर।
+6. **मिट्टी या नरम आटा।** हवा में सूखे वाली मिट्टी या नरम मॉडलिंग आटा के गोल करीं, दबावीं आ आकार दीं। मिट्टी में पत्ता दबावल से साधारण छाप वाला टुकड़ा बन जाला। *आसान बनावे खातिर:* सिर्फ दबावल आ गोल करल भी पूरा काम ह। ध्यान राखीं कि व्यक्ति मिट्टी, रंग या छोट चीज़ मुंह में ना डाले।
+7. **कार्ड बनावल।** Alzheimer's Association सलाह देला कि एकरा असली काम के रूप में पेश कीं: "हम कौनो दोस्त खातिर स्वास्थ्य-लाभ के कार्ड भेजत बानी। का रउरा मदद करब?" पहिले से कटल कार्ड स्टॉक आ फूल या मोहर वाला कुछ स्टिकर बढ़िया काम करेला।
+8. **स्क्रैपबुक।** पुरान फोटो, पोस्टकार्ड या टिकट के कॉपी एल्बम के पन्ना पर साथ में लगावीं। हर चीज़ पर बात करत जाईं। अतीत के बारे में नरमी से बात करे के तरीका खातिर हमार [यादगार गाइड](/activities/reminiscence/) देखीं।
+9. **कपड़ा आ बनावट वाला बोर्ड।** कॉर्डुरॉय, वेलवेट, बोरा के कपड़ा आ रेशम के टुकड़ा मजबूत कार्ड पर चिपकाईं। बनावल ही काम ह; बाद में ओकरा छूवल एगो अलग अनुभव ह। अउरी विचार हमार [इंद्रिय गतिविधि गाइड](/activities/sensory/) में बा।
+10. **साधारण लकड़ी के काम।** जेकरा लकड़ी के काम पसंद रहे, ओकरा खातिर लकड़ी के चिकन ब्लॉक घिसल या चिरई के घर के किट रंगल जाना-पहचाना लाग सकेला। तेज औजार हटाईं आ साथ रहीं।
+11. **संगीत पर रंगाई।** कौनो मनपसंद गाना बजाईं आ मूड से मेल खात आकार या रंग बनाईं। एहसे दू गतिविधि जुड़ जाला जे बहुत लोग के पसंद होला। [संगीत गतिविधि](/activities/music/) देखीं।
 
-## How do I set up an art session?
+## कला के सत्र कइसे सेट करीं?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **पहिले तैयारी करीं।** व्यक्ति के बोलावे से पहिले सब कुछ काट, छांट आ सजा लीं। कैंची खोजत-खोजत मौका गंवावल ठीक ना।
+2. **छोट रखीं।** दू-तीन रंग, एक ब्रश, एक कागज। बहुत विकल्प से मन भारी हो सकेला।
+3. **मेज के बचाईं।** प्लास्टिक के चादर या पुरान चादर बिछाईं, त गंदगी के चिंता ना रही।
+4. **साथ-साथ बइठीं।** व्यक्ति के बगल में अपना काम पर लागीं। ई साझा लागी, निगरानी जइसन ना।
+5. **शुरू करे में मदद करीं।** Alzheimer's Association के कहनाम बा कि शायद ब्रश के पहिला हरकत व्यक्ति के साथ शुरू करे के पड़े। एक बार शुरू हो गइल, त बहुत लोग खुद आगे बढ़ जाला।
+6. **काम करत बात करीं।** रंग आ बनावट पर टिप्पणी करीं, या कला से कहानी निकले दीं। "ई का ह?" जइसन परीक्षा वाला सवाल से बचीं।
+7. **खूब समय दीं।** काम एक बइठकी में पूरा होखे के जरूरत नइखे।
 
-## How do I adapt art as dementia changes?
+## डिमेंशिया बदलला पर कला के अनुकूल कइसे बनावल जाव?
 
-| Stage | What tends to work | What to adjust |
+| चरण | का आम तौर पर काम करेला | का बदलल जाव |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| शुरुआती | क्लास, बारीक रंग भरल, स्क्रैपबुक, कार्ड बनावल, फोटो देख के चित्र | काम के चुनाव दीं; मेल-जोल बनल रहे |
+| बीच के | पहिले से कटल कोलाज, वाटरकलर के धोवन, फूल सजावल, बड़ हिस्सा वाला रंग भरल | एक-एक कदम; कटाई-चिपकाई रउरा संभालीं |
+| बाद के | मोट ब्रश स्ट्रोक, मिट्टी दबावल, कपड़ा छूवल, रउरा के पेंट करत देखल | इंद्रिय पर ध्यान; अगर मंजूर होखे त हाथ के नरमी से मार्गदर्शन करीं |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS सुझाव देला कि बाद के चरण में गतिविधि अक्सर सरल कइल जाला आ इंद्रिय पर ध्यान दिहल जाला। कवनो दूसरा के पेंट करत देखल, आ रंग पर बात करल भी हिस्सा लेवे के असली तरीका ह। चरण-दर-चरण अउरी विचार खातिर [हर चरण के गतिविधि](/activities/ideas/) देखीं।
 
-## Safety with art supplies
+## कला सामान के सुरक्षा
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- गैर-विषैला रंग, मार्कर आ गोंद के छड़ी चुनीं।
+- कैंची, क्राफ्ट चाकू आ गरम गोंद वाली बंदूक पहुंच से दूर रखीं। काटे के काम खुद पहिले से कर लीं।
+- ध्यान राखीं कि कोई मिट्टी, रंग या छोट चीज़ मुंह में ना डाले।
+- पानी आ गुलदान खातिर स्थिर, भारी बर्तन इस्तेमाल करीं।
 
-## When should we stop?
+## कब रोकल जाव?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+जब ध्यान भटके या झुंझलाहट दिखे, तब रोक दीं। Alzheimer's Association सलाह देला कि ध्यान कम होखे या झुंझलाहट बढ़े त गतिविधि खतम कर दीं या बदल दीं। काम के कौनो सुरक्षित जगह पर रख दीं आ कुछ आराम वाला चीज़ दीं। काम के कल फेर से कर सकेनी, या कबो ना भी। दुनु ठीक बा।
 
-## Display the work, if the person wants
+## अगर व्यक्ति चाहे त काम के देखा दीं
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+फ्रिज पर चित्र सटावल या कोलाज के फ्रेम में लगावल, सम्मान देखावे के एगो शांत तरीका ह। पहिले पूछ लीं। कुछ लोग के अपना काम दीवार पर देखल बढ़िया लागेला; कुछ लोग ना चाहेलें।
 
-## Pair art with our games
+## कला के साथे हमार खेल जोड़ीं
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+जेह दिन रंग सजावल बहुत मुश्किल लागे, त [रंग भरल](/games/coloring/) टैबलेट पर बिना गंदगी के चल सकेला। [चित्र पहेली](/games/picture-puzzle/) में टुकड़ा बदलत रउरा पूरा चित्र मार्गदर्शक के रूप में देखल जा सकेला। [बातचीत कार्ड](/games/conversation-cards/) खुला सवाल देला, जे तस्वीर से कहानी तक ले जा सकेला। ए सबमें कौनो टाइमर या स्कोर नइखे। हमार [छपे वाला गतिविधि](/activities/printable/) संग्रह से पन्ना भी छाप सकत बानी।

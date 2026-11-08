@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "आखिरी चरण के डिमेंशिया: बिछौना आ कुर्सी खातिर गतिविधि"
+seoTitle: "आखिरी चरण के डिमेंशिया गतिविधि: बिछौना आ कुर्सी के सुझाव"
+description: "आखिरी चरण के डिमेंशिया खातिर कोमल गतिविधि, बिछौना या कुर्सी पर बइठल आदमी खातिर भी: संगीत, छुअन, जोर से पढ़ल, आवाज आ साथ बइठल, सुरक्षा के बात के साथ।"
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  आखिरी चरण के डिमेंशिया में गतिविधि इंद्रियन पर आ रउआ के साथ पर टिकल रहेला:
+  मनपसंद संगीत बजावल, हाथ पकड़ल, धीरे-धीरे हाथ के मालिश, जोर से पढ़ल, फोटो
+  देखल, प्रकृति के आवाज सुनल, आ खिड़की या बाहर बइठल। ई सब बिछौना या कुर्सी
+  पर भी हो सकेला। सत्र छोटा राखीं, चेहरा आ हाथ देखत रहीं कि आराम बा कि ना,
+  आ इ याद राखीं कि साथ बइठल खुद में एगो गतिविधि बा।
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "जुड़ाव अबहियो हो सकेला। आखिरी चरण में दुनिया मुख्य रूप से इंद्रियन के रास्ते अनुभव होले।"
+  - "संगीत, कोमल छुअन, जानल आवाज आ नरम चीज पकड़ल अक्सर उहाँ तक पहुँचेला, जहाँ शब्द ना पहुँचे।"
+  - "इहाँ लगभग हर सुझाव बिछौना या कुर्सी पर बइठल आदमी खातिर काम कर सकेला।"
+  - "चेहरा, हाथ आ साँस में आराम या तकलीफ के निशानी देखीं, आ कवनो परेशानी के संकेत पर रुक जाईं।"
+  - "छोटा चीज से बचीं, आ खाना-पानी तबे दीं जब देखभाल टीम कहे, काहे कि निगलल असुरक्षित हो सकेला।"
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "आखिरी चरण के डिमेंशिया वाला आदमी बिछौना पर बा, त कवन गतिविधि कर सकेनी?"
+    a: "उनकर मनपसंद गाना बजाईं, हाथ पकड़ीं, लोशन लगाके धीरे-धीरे हाथ मालिश करीं, उनकर पसंद के किताब या प्रार्थना जोर से पढ़ीं, फोटो दिखाईं या कोमल प्रकृति के आवाज चलाईं। खिड़की के परदा खोल दीं, जिससे उ बाहर देख सकसु। छोटा, शांत सत्र, एक बेर में एक चीज, अक्सर सबसे बढ़िया काम करेला।"
+  - q: "का आखिरी चरण के डिमेंशिया वाला लोग अबहियो संगीत के मजा ले सकेलन?"
+    a: "बहुत लोग ले सकेलन। Alzheimer's Association बतावेला कि आखिरी चरण में भी कवनो आदमी ताल पर थपकी दे सकेला या बचपन के गाना संग गा सकेला। उहे संगीत चुनीं जेकर उ जवानी में सुनत रहलन, आ आवाज धीमा राखीं।"
+  - q: "कइसे पता चली कि उ कवनो गतिविधि में खुश बाड़न?"
+    a: "छोटा-छोटा संकेत देखीं: कंधा ढीला, चेहरा नरम, आँख मिलावल, गुनगुनाइल, हाथ दबावल या साँस धीरे होखل। मुँह बनावल, हाथ छुड़ावल, बेचैनी या कराहल तकलीफ या दरद के संकेत हो सकेला। ई देखीं त रुक जाईं, आ अगर ई जारी रहे त देखभाल टीम के बताईं।"
+  - q: "का अब हमरा के पहचानत नइखन, तबो मिलल जरूरी बा?"
+    a: "हँ, जरूरी बा। National Institute on Aging बतावेला कि बस रउआ के मौजूदगी से भी मन शांत हो सकेला, आ आखिरी चरण के डिमेंशिया में भी छुअन, संगीत आ कहानी आराम दे सकेला। रउआ के नाम भले ना याद होखे, बाकिर रउआ के आवाज आ छुअन जानल लागल हो सकेला।"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+आखिरी चरण के डिमेंशिया में जेकर देखभाल रउआ करत बानी उ शायदे बोल पावत होखस, रोजमर्रा के हर काम में मदद चाहीं, आ दिन के ज्यादातर समय बिछौना या कुर्सी पर बीतत होई। अइसन में लागेला कि अब साथ मिल के करे खातिर कुछऊ नइखे। बाकिर बा। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) बतावेला कि आदमी के मन के कुछ हिस्सा अबहियो बचल रहेला, आ ई चरण में दुनिया मुख्य रूप से इंद्रियन के रास्ते अनुभव होले। संगीत, छुअन, जानल आवाज आ रउआ के शांत साथ से अबहियो आराम आ जुड़ाव के पल मिल सकेला।
 
-## What activities help in late-stage dementia?
+## आखिरी चरण में कवन गतिविधि मदद करेला?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+इ चरण में सरल इंद्रिय वाला गतिविधि आ शांत साथ सबसे बेसी काम आवेला। Alzheimer's Association सुझावेला कि मनपसंद संगीत बजावल, अर्थपूर्ण किताब के हिस्सा पढ़ल, मनपसंद खुशबू वाला लोशन से हाथ में मालिश, आ कवनो सुहावन दिन बाहर साथ बइठल। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) के मुताबिक कहानी सुनावल, फोटो दिखावल, कोमल छुअन या मालिश, आ संगीत, सफेद शोर या प्रकृति के आवाज भी जोड़ल जा सकेला। NIA इहो कहेला कि रउआ के बस मौजूदगी भी मन शांत कर सकेला।
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) बतावेला कि आखिरी चरण में अक्सर केहू के कवनो चीज कस के पकड़े के मन करेला, आ इ सुझावेला कि सरल इंद्रिय वाला गतिविधि, हल्का खिंचाव, दुपट्टा या स्कार्फ हिलावल, संगीत, जानवर के साथ, छुअन, आ बिना नियम के चित्रकारी।
 
-## Activities for someone in bed or a chair
+## बिछौना या कुर्सी पर बइठल आदमी खातिर गतिविधि
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **उनकर संगीत बजाईं।** जवानी के दिन, आस्था या परिवार के गाना चुनीं। आवाज धीमा राखीं आ पास में बइठीं। अबहियो कुछ लोग अंगुली से ताल दे सकेलन या गुनगुना सकेलन। देखीं [संगीत वाला गतिविधि](/activities/music/)।
+2. **हाथ पकड़ीं।** बस हाथ पकड़ल, अंगूठा से धीरे सहलावल भी एगो गतिविधि ह। पहिले बता दीं कि रउआ का करे जा रहल बानी।
+3. **धीरे-धीरे हाथ के मालिश करीं।** हथेली में थोड़ा लोशन लगाईं आ कलाई से अंगुली के सिरा तक धीरे सहलाईं। बिना खुशबू वाला लोशन चुनीं, या उनकर मनपसंद खुशबू, अगर उनकर त्वचा ओकरा सह सकेला।
+4. **जोर से पढ़ीं।** कवनो मनपसंद कविता, कवनो प्रिय किताब के अंश, धर्मग्रंथ या खेल के पन्ना। रउआ के आवाज के लय शब्द से बेसी मायने रखेला।
+5. **कहानी सुनाईं।** परिवार के कवनो यात्रा या उ दिन के बात करीं जब उनकर बियाह भइल रहे। जवाब के जरूरत नइखे।
+6. **फोटो दिखाईं।** एक बेर में एक बड़ा फोटो आँख के सीध में पकड़ीं आ प्रेम से ओकर बारे में बताईं। ई मत पूछीं कि फोटो में के बा।
+7. **कुछ नरम चीज पकड़े खातिर दीं।** मोड़ल तौलिया, फ्लीस के टुकड़ा या नरम खिलौना। NIA सुझावेला कि जब उनके उठावल या घुमावल जाए, तब उनके कपड़ा पकड़े खातिर दीं, जिससे उ रउआ या फर्नीचर के ना पकड़स।
+8. **प्रकृति के आवाज चलाईं।** धीमा आवाज में बारिश, लहर या चिरई के चहचहाहट कोलाहल वाला कमरा के नरम बना सकेला।
+9. **बाहर के चीज भीतर लाईं।** परदा खोल दीं, खिड़की के बाहर चिरई के दाना-पानी रखीं, या कुछ ताजा फूल या पत्ती लाके देखे आ छुए खातिर दीं।
+10. **बाहर ले जाईं।** अगर उ व्हीलचेयर पर बइठ सकेलन, त सुहावन दिन में छाँव में कुछ मिनट बइठल बहुत सुहावन लागेला।
+11. **बाल सँवारीं या गरम कपड़ा से पोछीं।** धीरे-धीरे आ कोमल सफाई, आ हाथ-मुँह खातिर गरम तौलिया से पोछल, देखभाल वाला लागेला।
+12. **संगीत संग कोमल हिलल-डुलल करीं।** मिल के हल्का दुपट्टा हिलाईं, या गाना के ताल पर हाथ झुलाईं। खिंचाव आ जोड़ के हरकत खातिर पहिले फिजियोथेरेपिस्ट या नर्स से सही आ सुरक्षित तरीका देखल लीं।
+13. **बिना नियम के चित्रकारी करीं।** बड़ा कागज पर स्पंज या हाथ से गैर-जहरीला रंग लगाईं, रउआ के हाथ के सहारे। कवनो सही नतीजा जरूरी नइखे।
+14. **जानवर के आवे दीं।** शांत पालतू जानवर बिछौना या गोदी में, अगर उनके जानवर पसंद रहे आ जगह इजाजत देत होखे।
+15. **साथ धीरे-धीरे साँस लीं।** पास बइठ के धीरे आ सुनाई देवे वाला साँस लीं। [शांत साँस वाला खेल](/games/calm-breathing/) रउआ दुनु के ताल दे सकेला, आ रउआ ही ओकरा शुरू आ बंद करब।
+16. **बस पास रहीं।** लगे बइठीं, गुनगुनाईं, बुनाई करीं या चुपचाप पढ़ीं। रउआ के मौजूदगी ही काफी बा।
 
-## How to share an activity at this stage
+## ई चरण में गतिविधि कइसे बाँटल जाए
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **सामने से पास जाईं।** उनकर नाम आ अपना नाम बोलीं, छुए से पहिले धीरे आ नरम आवाज में बात करीं।
+- **एक बेर में एक चीज दीं।** संगीत बजावे से पहिले टीवी बंद करीं। एक बेर में एक इंद्रिय पर ध्यान दीं।
+- **छोटा राखीं।** कुछ मिनट भी बहुत हो सकेला। दिन में कई छोटा-छोटा पल एक लमहर सत्र से बेहतर होला।
+- **पहिले आराम दीं।** जाँच लीं कि उ ठीक से सहारा पर बाड़न। NIA सुझावेला कि बइठावे पर लैप बोर्ड लगाईं, जेसे बाँह आ ऊपरी शरीर के सहारा मिले।
+- **प्रतिक्रिया देखीं।** हाथ ढीला, चेहरा नरम, आँख मिलावल या गुनगुनाइल आराम के संकेत हो सकेला। NIA बतावेला कि कराहल, मुँह बनावल, शरीर के कवनो हिस्सा बचावल या अचानक बेचैनी दरद के संकेत हो सकेला। रुक जाईं, आ देखभाल टीम के बताईं।
 
-## A quick guide by sense
+## इंद्रिय के हिसाब से एक त्वरित मार्गदर्शिका
 
-| Sense | Ideas | Take care |
+| इंद्रिय | सुझाव | ध्यान राखीं |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| सुनल | मनपसंद संगीत, रउआ के पढ़ल आवाज, प्रकृति के आवाज | आवाज धीमा राखीं; एक बेर में एक आवाज |
+| छुअन | हाथ के मालिश, हाथ पकड़ल, नरम कपड़ा, गरम तौलिया | पहिले पूछीं या बता दीं; देखीं कि त्वचा दुखत या फटल त नइखे |
+| देखल | फोटो, फूल, खिड़की से दिखे वाला नजारा, धीमा प्रकृति वीडियो | चीज आँख के सीध में पकड़ीं; अच्छा रोशनी, चमक ना |
+| सूँघल | मनपसंद लोशन, ताजा फूल, पास में बनत चाय या कॉफी | तेज खुशबू से बचीं; एलर्जी आ साँस पर ध्यान दीं |
+| स्वाद | मनपसंद स्वाद के थोड़ा सा चीज | सिर्फ उहे खाना आ बनावट जेके देखभाल टीम सुरक्षित कहे |
 
-## Safety at this stage
+## ई चरण में सुरक्षा
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+आखिरी चरण में निगलल मुश्किल हो सकेला, आ NIA चेतावेला कि एसे गला में अटके के खतरा बढ़ेला। छोटा चीज उनकर पहुँच में मत राखीं, आ खाना-पानी सिर्फ उहे बनावट आ स्थिति में दीं जवन देखभाल टीम बतावे। छुअन वाला गतिविधि में त्वचा पर धीरे ध्यान दीं, काहे कि त्वचा आसानी से फट सकेला या चोट लाग सकेला। सुरक्षित इंद्रिय वाला सुझाव खातिर देखीं [इंद्रिय वाला गतिविधि](/activities/sensory/)।
 
-## Looking after yourself too
+## अपनो ख्याल रखीं
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+आखिरी चरण के देखभाल शारीरिक आ भावनात्मक रूप से थकावे वाला होला, चाहे घर पर होखे या केयर होम में मिले खातिर जाए के। हॉस्पिस आ पैलिएटिव केयर टीम आराम, सहयोग आ योजना में मदद कर सकेली, आ NIA उनकरा के मदद के स्रोत में गिनावेला। छोटा, शांत मुलाकात भी कीमती होला; देखीं [डिमेंशिया वाला आदमी से मिलल](/activities/visiting/)। अगर रउआ समूह चलाईं, त [केयर होम के समूह गतिविधि](/activities/care-home-groups/) में सत्र के ढालल के सुझाव बा। आ कृपया [देखभाल करे वाला के अपन ख्याल](/caregiving/caregiver-self-care/) पढ़ीं: आराम भी ठीक से देखभाल के हिस्सा ह।

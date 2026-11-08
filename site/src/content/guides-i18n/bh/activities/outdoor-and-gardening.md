@@ -1,32 +1,28 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "डिमेंशिया वाला लोग खातिर बगइचा आ बाहर के गतिविधि"
+seoTitle: "डिमेंशिया खातिर बगइचा आ बाहर के गतिविधि"
+description: "डिमेंशिया के साथ जीयत लोग खातिर बगइचा आ बाहर के गतिविधि के सुझाव। ऊँचा क्यारी, गमला वाला बगइचा आ गरमी, धूप आ भटके के खतरा से बचे के उपाय भी बा।"
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  डिमेंशिया के साथ जीयत लोग खातिर बगइचा आ समय बाहर बितावल एगो शांत आ जानल-पहचानल काम हो सकेला। पानी देहल, जड़ी-बूटी गमला में लगावल, सूखल फूल तोड़ल, या घेरल आंगन में थोड़ दूर टहलल आजमाईं। ऊँचा क्यारी या टेबुल इस्तेमाल करीं ताकि केहू के घुटना ना टेके पड़े, तेज औजार आ जहरीला पौधा से बचीं, ठंडा समय में बाहर जाईं, आ हमेशा जेकर देखभाल रउआ करत बानी ओकरा साथे रहीं।
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "पानी देहल, बीज गमला में लगावल, जड़ी-बूटी सूंघल आ फूल तोड़ल जइसन आसान काम खड़ा होके या बइठ के कइल जा सकेला।"
+  - "ऊँचा क्यारी, गमला आ ढकल टेबुल से बगइचा कमर के ऊँचाई पर आ जाला, आ गिरे के खतरा कम हो जाला।"
+  - "तेज औजार, काँटेदार या जलन करे वाला पौधा, आ कउनो जहरीला चीज से बचीं। ध्यान राखीं कि माटी के खाना समझ के ना खाईल जाव।"
+  - "बुजुर्ग लोग खातिर गरमी खतरनाक हो सकेला। भोर या शाम में बाहर जाईं, पानी आ छाँह साथे राखीं, आ तकलीफ के पहिला निशानी दिखे त तुरंत भीतर आ जाईं।"
+  - "डिमेंशिया के साथ जीयत बहुत लोग कबो ना कबो भटक जाला। बाहर जेकर देखभाल रउआ करत बानी ओकरा साथे रहीं आ हाल के एगो फोटो आ पहचान पत्र पास राखीं।"
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "डिमेंशिया वाला व्यक्ति कवन बगइचा के काम कर सकेला?"
+    a: "पानी देहल, छोट गमला में बीज लगावल, जड़ी-बूटी सूंघल आ छूअल, सूखल फूल तोड़ल, सब्जी तोड़ल, कटल फूल सजावल आ रास्ता बहारल सब ठीक चुनाव बा। घर के भीतर खिड़की पर जड़ी-बूटी के गमला, या ढकल टेबुल पर माटी के ट्रे भी बढ़िया काम करेला। काम ओकरे हिसाब से चुनीं जवन व्यक्ति पहिले पसंद करत रहे आ जवन अब आराम से कर सके।"
+  - q: "गरमी में डिमेंशिया वाला व्यक्ति के कइसे सुरक्षित रखल जाव?"
+    a: "बाहर के समय ठंडा भोर या शाम खातिर रखीं, छोट रखीं, आ बार-बार पानी दीं। छाँह, चउड़ा किनारी वाला टोपी, हल्का ढीला कपड़ा आ सनस्क्रीन चुनीं। बुजुर्ग लोग के गरमी से बीमारी के खतरा जादा होला। उलझन, चक्कर या मतली दिखे त ई चेतावनी हो सकेला, त तुरंत भीतर जाईं आ ठंडा होखे दीं।"
+  - q: "अगर उनका भटके के आदत बा त बाहर कइसे जाईं?"
+    a: "हर घड़ी ओकरा साथे रहीं, फाटक में कुंडी वाला घेरल आंगन या बगइचा इस्तेमाल करीं, आ पक्का करीं कि ऊ पहचान के बैंड पहिने या पहचान पत्र साथे रखे। हाल के फोटो पास राखीं। अगर व्यक्ति गायब हो जाव त Alzheimer's Association के सलाह बा कि 15 मिनट में ना मिले त 112 पर फोन करीं।"
+  - q: "बगइचा ना होखे त?"
+    a: "बरामदा पर कुछ गमला, खिड़की के डिब्बा, या रसोई के टेबुल पर जड़ी-बूटी के ट्रे भी काफी बा। पार्क, सार्वजनिक बगइचा या सामुदायिक बगइचा भी जा सकत बानी। बाहर बइठ के चिरई के आवाज सुनल भी बाहर के गतिविधि ही गिनल जाई।"
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +47,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+अनेक लोग खातिर बगइचा सबसे जानल-पहचानल जगह होला। खोदल, पानी देहल आ फूल तोड़ल ऊ हुनर ह जवन बहुत पहिले सीखल गइल रहे, आ बाहर रहला से ताजा हवा, धूप आ चिरई के चहचहाहट मिलेला। National Institute on Aging बतावेला कि पौधा के देखभाल, फूल आ सब्जी लगावल, आ [पौधा कइसे बढ़ रहल बा ओ पर बात कइल](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ऊ गतिविधि बा जवन Alzheimer's वाला लोग के पसंद आ सकेला। ई पेज बतावेला कि का आजमाईं, बगइचा के इस्तेमाल आसान कइसे बनावल जाव, आ गरमी, धूप आ भटके से कइसे सुरक्षित रहल जाव।
 
-## What outdoor and gardening activities work well?
+## बाहर आ बगइचा के कवन गतिविधि नीमन काम करेले?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+सबसे बढ़िया काम सरल, जानल-पहचानल होखेला आ खड़ा होके या बइठ के कइल जा सकेला। ओही हिसाब से चुनीं जवन व्यक्ति पहिले पसंद करत रहे।
 
-### In the garden
+### बगइचा में
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **पानी देहल।** एगो छोट, हल्का डिब्बा या नरम नली के नोजल आ कुछ गमला पहुँच में। पानी देहल के साफ शुरुआत आ अंत होखेला, आ एकरा गलत करे के मौका कम होला।
+2. **गमला में बीज लगावल।** Alzheimer's Foundation of America सुझाव देले बा कि छोट गमला में बीज लगावल जाव आ [ओकर बढ़त देखल जाव](https://alzfdn.org/dementia-activity-gardening/)। बड़ बीज जइसे सेम, सूरजमुखी या मटर संभाले में आसान होला।
+3. **सूखल फूल तोड़ल।** मुरझाइल फूल हाथ से तोड़ल एगो नरम, दोहराव वाला काम ह। काँटा ना वाला पौधा चुनीं।
+4. **सब्जी या जड़ी-बूटी तोड़ल।** चेरी टमाटर, सेम आ जड़ी-बूटी तोड़े में आसान होला आ खाए में नीक लागेला। दुपहरिया के खाना खातिर भीतर ले आईं।
+5. **जड़ी-बूटी सूंघल आ छूअल।** रोज़मेरी, पुदीना आ लैवेंडर के तेज, सुहावन गंध होला। पत्ती उंगली में रगड़ के हाथ से ले जाईं।
+6. **रास्ता या आंगन बहारल।** समतल, सूखल जगह पर हल्का झाड़ू, अगर संतुलन ठीक बा।
+7. **चिरई के दाना-पानी भरल।** फेर साथे बइठ के देखीं कि कउन चिरई आवत बिया।
 
-### Indoors, when going out is not possible
+### भीतर, जब बाहर जाइल संभव ना होखे
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **खिड़की पर जड़ी-बूटी के बगइचा।** तुलसी, धनिया या हरा प्याज के।
+- **ढकल टेबुल पर गमला भरल।** AFA सुझाव देला कि कैफेटेरिया वाला ट्रे इस्तेमाल करीं ताकि माटी एके जगह रहे, आ छोट कप से माटी उठाईं।
+- **फूल सजावल,** बगइचा या दुकान से कटल फूल आ हरियाली से।
+- **दबावल फूल,** जवन गुलदस्ता से लेके बाद में कार्ड पर चिपकावल जाई। अउर खातिर [कला आ शिल्प](/activities/arts-and-crafts/) देखीं।
+- **लैवेंडर या गुलाब के सैशे बनावल,** AFA के एगो अउर विचार, जवन बगइचा के गंध घर में रखेला।
 
-### Getting out and about
+### बाहर घूमल
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **छोट टहल** मोहल्ला, पार्क या गार्डन सेंटर के चारों ओर, धीरे चाल में, बइठे के जगह के साथ।
+- **बाहर बइठल** बरामदा या बेंच पर, चिरई सुनत आ हवा महसूस करत। ई अपने में पूरा गतिविधि बा।
+- **सार्वजनिक बगइचा** में शांत समय में जाईं। NHS बतावेला कि कुछ जगह पर सेंसरी गार्डन होला, जहाँ सुगंधित पौधा, अलग-अलग बनावट आ पानी के फुहारा होखे ला।
+- **तालाब पर बत्तख के खाना खियावल या चिरई देखल,** पानी के किनारा से सुरक्षित दूरी पर।
 
-## How do I make a garden easier to use?
+## बगइचा के इस्तेमाल आसान कइसे बनाईं?
 
-Bring the garden up to the person, not the other way around.
+बगइचा के व्यक्ति तक ले आईं, उनका के बगइचा तक ना दौड़ावे के पड़े।
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **ऊँचा क्यारी या लमहर गमला** कमर के ऊँचाई पर, ताकि घुटना ना टेके आ झुके ना पड़े।
+- **टेबुल पर गमला** ओह लोग खातिर जे व्हीलचेयर इस्तेमाल करेला या बइठल पसंद करेला।
+- **चउड़ा, समतल रास्ता** बिना ढीला पत्थर या पाइप बिछल, ताकि ठोकर लगे के खतरा कम होखे।
+- **हत्था वाला बेंच आ छाँह** रास्ता में, ताकि आराम करे के मौका हमेशा रहे।
+- **मोट, नरम हत्था वाला औजार** जे आसानी से पकड़ में आवे। कैंची, चाकू आ कउनो तेज चीज से बचीं।
+- **घेरल जगह, फाटक में कुंडी,** जहाँ व्यक्ति आजाद रूप से घूम सके, आ रउआ पास रहीं।
 
-## Which plants should I avoid?
+## कवन पौधा से बचे के चाहीं?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+ओह पौधा चुनीं जवन छूए में सुरक्षित होखे आ, आदर्श रूप से, चखे पर भी सुरक्षित होखे। AFA सलाह देला कि ओह पौधा के इस्तेमाल करीं जवन आम तौर पर चमड़ी में जलन ना करे, एलर्जी जाँचीं, आ उन पर नजर रखीं जे माटी के खाना समझ सकेला। NIA के घर के सुरक्षा सलाह में कहल गइल बा कि जहरीला पौधा हटाईं या बंद करके रखीं।
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- काँटेदार गुलाब, नागफनी, आ चमड़ी में जलन करे वाला रस वाला पौधा से बचीं।
+- जउन पौधा के बारे में शक होखे ओकर जाँच लगावे से पहिले जहर नियंत्रण केंद्र या स्थानीय बगइचा दुकान से करीं।
+- जानल-पहचानल पसंदीदा चीज से नीमन भाव जाग सकेला। AFA गुलाब आ क्रिसमस कैक्टस के उदाहरण देला। काँटा ना वाला किस्म चुनीं।
+- खाद, कीटनाशक आ खरपतवार नाशक ताला में रखीं, आ ओह जगह पर ना इस्तेमाल करीं जहाँ व्यक्ति पहुँच सके।
 
-## How do I stay safe in the heat and sun?
+## गरमी आ धूप में सुरक्षित कइसे रहीं?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+बाहर के समय मौसम के हिसाब से तय करीं। NIA बतावेला कि बुजुर्ग लोग खातिर [गरमी से जुड़ल बीमारी](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) के खतरा जादा होला, कुछ हद तक इसलिए कि शरीर तापमान के बदलाव से कम ढल पावेला, आ कुछ दवा शरीर के गरमी संभाले के तरीका पर असर डाल सकेला।
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **भोर या शाम में बाहर जाईं।** गरम महीना में दुपहरिया से बचीं। सिर्फ तापमान ना, गरमी सूचकांक (heat index) भी देखीं।
+- **बार-बार पानी दीं।** व्यक्ति के कहे के इंतजार मत करीं कि ऊ प्यास बा। गरमी में शराब आ कैफीन वाला पेय से बचीं।
+- **मौसम के हिसाब से कपड़ा।** हल्का रंग, ढीला कपड़ा, चउड़ा किनारी वाला टोपी आ चश्मा।
+- **सनस्क्रीन लगाईं।** NIA broad-spectrum SPF 15 या ओकरा से ऊपर के सलाह देला, दिन में फेर से लगावल।
+- **छाँह चुनीं।** टेबुल पेड़ या छाता के नीचे लगाईं।
+- **छोट रखीं।** कुछ देर बाहर भी काफी हो सकेला, खासकर गरम दिन में।
+- **चेतावनी के निशानी पर नजर रखीं।** NIA सिर दर्द, उलझन, चक्कर या मतली के गरमी से बीमारी के संभावित निशानी बतावेला। डिमेंशिया वाला व्यक्ति शायद ना बताई कि ऊ ठीक नइखे, त ओकर चेहरा आ व्यवहार पर ध्यान दीं। भीतर जाईं, पानी आ ठंडा कपड़ा से ठंडा कराईं, आ जल्दी सुधार ना होखे त डॉक्टरी मदद लीं। लू (heat stroke) में बेहोशी, उलझन, या सूखल, लाल चमड़ी जइसन निशानी होला, ई डॉक्टरी आपात स्थिति ह: 112 पर फोन करीं।
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+ठंड भी मायने रखेला। जाड़ा में बाहर के समय छोट रखीं आ पक्का करीं कि हाथ-गोड़ गरम आ सूखल रहे।
 
-## How do I handle wandering when we go outside?
+## बाहर जाए में भटके के कइसे संभालीं?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+जब व्यक्ति बाहर होखे, त हमेशा ओकरा साथे रहीं। [Alzheimer's Association कहेला](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) कि डिमेंशिया वाला दस में से छह लोग कम से कम एक बार भटक सकेला, आ कई लोग एक बार से जादा भटकेला। ई कउनो भी चरण में हो सकेला।
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA के [भटके आ रास्ता भुलाए पर सलाह](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) में ई सब शामिल बा:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- पक्का करीं कि व्यक्ति के पहचान या मेडिकल बैंड पर नाम, पता आ रउआ फोन नंबर रहे, या कपड़ा पर नाम लिखल होखे।
+- व्यक्ति के हाल के फोटो या वीडियो रखीं।
+- पड़ोसी के बताईं कि व्यक्ति भटक सकेला।
+- आंगन के घेरा आ ताला वाला फाटक से सुरक्षित करीं।
+- जेकरा भटके के इतिहास बा, ओकरा के अकेले मत छोड़ीं।
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association ई भी सुझाव देला कि घर के भीतर आ बाहर सुरक्षित रूप से घूमे लायक जगह बनावल जाव, आ गतिविधि ओह समय के हिसाब से तय कइल जाव जब बेचैनी सबसे जादा होखेला। घेरल, सुरक्षित बगइचा में टहल शाम के बेचैनी खातिर ठीक हो सकेला। [शाम के बेचैनी](/caregiving/late-day-restlessness/) पर हमार गाइड देखीं।
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+अगर व्यक्ति सच में गायब हो जाव, त Alzheimer's Association के सलाह बा कि तुरंत आस-पास खोजीं आ 15 मिनट में ना मिले त 112 पर फोन करीं। पुलिस के बताईं कि व्यक्ति के डिमेंशिया बा।
 
-## How do I adapt gardening as things change?
+## बदलाव के साथे बगइचा कइसे ढालीं?
 
-| If this has become hard | Try this instead |
+| अगर ई अब मुश्किल हो गइल बा | त ई आजमाईं |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| पूरा क्यारी लगावल | एक गमला में एक बीज लगावल |
+| निराई (खरपतवार आ पौधा के पहचान) | पानी देहल, या साफ मुरझाइल फूल तोड़ल |
+| बगइचा में घूमल | टेबुल पर माटी के ट्रे आ एक पौधा लेके बइठल |
+| बिल्कुल बाहर जाइल | रसोई के टेबुल पर जड़ी-बूटी के गमला, या खुली खिड़की के किनारे बइठल |
+| कउनो काम करे के | साथे बाहर बइठ के सुनल आ देखल |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+कुछ लोग रउआ के काम करत देखल पसंद करेला। NIA बतावेला कि अगर व्यक्ति के ई पसंद बा, त खाली देखल भी ठीक बा।
 
-## When should we head inside?
+## कब भीतर जाईं?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+जब व्यक्ति थाकल, गरम, ठंडा, बेचैन या खतम करे के मन होखे, तब भीतर चलल जाव। एक नीमन दस मिनट उ लंबा दुपहरिया से बढ़िया बा जवन परेशानी में खतम होखे। जल्दी रुक जाईं, ई भी अच्छा नतीजा ह।
 
-## Bring the garden indoors on screen
+## बगइचा के सुख स्क्रीन पर घर में लाईं
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+बरसात के दिन में, [Sort Together](/games/sort-together/) में बगइचा के टोकरी बा जहाँ तस्वीर छाँटल जा सकेला, आ [Conversation Cards](/games/conversation-cards/) में खुला सवाल बा जवन बगइचा के कहानी तक ले जा सकेला। गरमी से आइल आ हड़बड़ी लागत होखे, त [Calm Breathing](/games/calm-breathing/) में धीरे, शांत ठहराव बा जवन रउआ दुनु साथे कर सकत बानी। छूअल, सूंघल आ आवाज पर आधारित अउर विचार खातिर [सेंसरी गतिविधि गाइड](/activities/sensory/) देखीं।

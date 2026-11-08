@@ -1,32 +1,31 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "स्मृति-गतिविधियाँ: याद वाला डिब्बा, जीवन की कहानी और फोटो"
+seoTitle: "डिमेंशिया के लिए स्मृति-गतिविधियाँ: बिना सवाल-जवाब के आइडिया"
+description: "डिमेंशिया के साथ जी रहल व्यक्ति से बिना सवाल-जवाब के पुरान यादें बाँटे के तरीका: फोटो पर बतकही, याद वाला डिब्बा आ जीवन की कहानी वाली किताब।"
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  स्मृति-बतकही मतलब फोटो, चीज, गाना आ कहानी से साथ मिल के बीतल दिन के मज़ा लेनी।
+  याद वाला डिब्बा बनाईं, जीवन की कहानी की सादा किताब बनाईं, या फोटो साथ-साथ देखीं।
+  कभी सवाल-जवाब मत करीं: “याद बा?” आ “इ के ह?” मत पूछीं। “एकरा बारे में बताईं” जइसन खुला न्योता दीं।
+  गर्म बतकही सही तथ्य से जादा जरूरी बा।
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "स्मृति-बतकही एगो बातचीत ह, इम्तिहान ना। सही होखल जरूरी नइखे; मज़ा लेनी जरूरी बा।"
+  - "‘याद बा...?’ आ ‘इ के ह?’ के जगह टिप्पणी आ न्योता दीं, जइसे ‘उ दिन के बारे में बताईं।’"
+  - "व्यक्ति की जिनगी के चीज वाला याद के डिब्बा हाथ आ बतकही खातिर कुछ पकड़े लायक देला।"
+  - "जीवन की कहानी वाली किताब परिवार, मेहमान आ देखभाल करे वाला स्टाफ के व्यक्ति के जाने में मदद करेला, सिर्फ बीमारी के नाम ना।"
+  - "कवनो याद से दुख होखे त पहिले आराम दीं, फेर धीरे से दूसरा बात पर चल जाईं।"
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "डिमेंशिया वाला व्यक्ति खातिर स्मृति-बतकही का होला?"
+    a: "स्मृति-बतकही मतलब फोटो, चीज, गाना या वीडियो के सहारे पुरान यादें आ अनुभव बाँटल। ई एक-एक करके भी हो सकेला आ समूह में भी। एकर मकसद बा सुहावन आ अर्थपूर्ण बतकही, व्यक्ति के याददाश्त जाँचल ना।"
+  - q: "‘याद बा?’ काहे ना पूछल चाहीं?"
+    a: "जाँच वाला सवाल से व्यक्ति के शरम या घबराहट हो सकेला, खासकर जब जवाब ना आवे। National Institute on Aging उ बात गिनावेला जवन से बचे के चाहीं: व्यक्ति से पूछल कि उ कवनो बात या कवनो आदमी के याद बा कि ना। एकर जगह जवन आप देखत बानी ओकरा पर टिप्पणी करीं, आ व्यक्ति के जवन मन करे उ जोड़े दीं।"
+  - q: "याद वाला डिब्बा में का रखीं?"
+    a: "व्यक्ति के जिनगी से जुड़ल मजबूत आ सुरक्षित चीज चुनीं: काम के सामान, शौक के औजार, मनपसंद गमछा या स्कार्फ, पोस्टकार्ड, नुस्खा वाला कार्ड, खेल के यादगार चीज या फोटो के कॉपी। नुकीला सामान, छोट चीज जवन निगलल जा सकेला, आ जवन फेर कबहूँ ना मिली असली चीज से बचीं।"
+  - q: "अगर उ बात गलत बोले त?"
+    a: "छोड़ दीं। अगर आपकी माई कहेली कि फोटो में उनकर बहिन बाड़ी, जबकि उ उनकर ममेरी बहिन होखी, त ठीक बा। सुधारला से गर्म पल इम्तिहान बन जाला। उनकर बात के पीछे चलीं आ साथ में मज़ा लीं।"
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +40,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+स्मृति-बतकही के मतलब बस साथ मिल के बीतल दिन के मज़ा लेनी। डिमेंशिया के साथ जी रहल बहुत लोग खातिर दशकों पहिले के यादें आजु सुबह के बात से जादा साफ रहेली। फोटो, जानल-पहचानल चीज, गाना आ कहानी ई यादें खोल सकेलन आ आपके साथ बाँटे खातिर कुछ गर्म चीज दे सकेलन। एक नियम: ई बतकही ह, कवनो सवाल-जवाब ना।
 
-## What is reminiscence, and how is it different from quizzing?
+## स्मृति-बतकही का ह, आ सवाल-जवाब से कइसे अलग बा?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+स्मृति-बतकही मतलब फोटो, चीज, गाना या वीडियो से यादें बाँटल, व्यक्ति के अपना रफ्तार से। [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) एकरा अइसे बतावेला कि फोटो, चीज, वीडियो या गाना के सहारे, किताब में या टैबलेट पर, बीतल अनुभव आ कहानी बाँटल जाला। सवाल-जवाब अलग बा: उ व्यक्ति से सही जवाब माँगेला, आ एसे शरम हो सकेला, मज़ा ना।
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) उ बात गिनावेला जवन से बचे के चाहीं: व्यक्ति से पूछल कि उ कवनो बात या कवनो आदमी के याद बा कि ना। [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) सुझाव देला कि अइसन सवाल से बचीं जेकर जवाब छोट याददाश्त पर टिकल होखे, आ जादा पुरान अतीत के बारे में बतियाईं।
 
-| Instead of | Try |
+| इ कहला के बदले | इ कहीं |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "इ फोटो याद बा?" | "इ त खुशी के दिन लागत बा। एकरा बारे में बताईं।" |
+| "इ के ह?" | "इ आपकी मौसी गुलाब हईं, समुंदर किनारे। उनकर टोपी देखीं।" |
+| "इ कवन साल के फोटो ह?" | "इ पुरान घर लागत बा। उहाँ रहल कइसन रहल?" |
+| "नाहीं, उ बिल ना, फ्रैंक हवें।" | "उ बड़ा मज़ेदार लागत बाड़न।" |
+| "ई त आप पहिलहीं बता चुकल बानी।" | "हमके उ कहानी बहुत पसंद बा।" |
 
-## How do you talk about photos without quizzing?
+## फोटो पर सवाल-जवाब बिना कइसे बतियाईं?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+पहिले उहे बात कहीं जवन आप देखत बानी, फेर व्यक्ति खातिर कुछ जोड़े के जगह छोड़ीं अगर उ चाहस।
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **साथ-साथ बइठीं।** एल्बम दुनो बीच रखीं ताकि दुनो साथ देखत होखीं, टेबल के आर-पार जाँच ना होखे।
+2. **कुछ फोटो चुनीं।** पाँच बढ़िया फोटो पूरा डिब्बा से नीमन होली। बड़ा आ साफ प्रिंट सबसे नीक बा।
+3. **लोग के नाम खुद बताईं।** “इ आप आ बाबूजी बाड़न, आपके बियाह के दिन” से दबाव खतम हो जाला।
+4. **बारीकी पर टिप्पणी करीं।** कपड़ा, गाड़ी, खाना, मौसम, चेहरा। “कवन गाड़ी बा! बड़ा चमकत बा।”
+5. **न्योता दीं, माँगी मत।** “एकरा बारे में बताईं…” या “का-का देखत बानी?” चुप्पी भी ठीक बा।
+6. **उनकर बात पर चलीं।** अगर उ पूरा अलग बात करे लागस, त ओही बात पर चलीं।
+7. **मज़ा रहत खानी रोकीं।** थकावट आवे से पहिले एल्बम बंद कर दीं।
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+तैयार चित्र वाला सवाल खातिर [बातचीत कार्ड](/games/conversation-cards/) आज़माईं। अपना परिवार के फोटो से नरम मिलान वाला खेल बनावे खातिर [फोटो जोड़ी](/games/photo-pairs/) आज़माईं; जवन फोटो आप चुनब उ आपके ब्राउज़र में रहेली।
 
-## How do you make a memory box?
+## याद वाला डिब्बा कइसे बनाईं?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+याद वाला डिब्बा मतलब व्यक्ति के जिनगी के चीजन के एगो डिब्बा, जेके छू के आ ओकरा बारे में बतियावल जा सके।
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **मजबूत डिब्बा चुनीं** जेके खोलल आसान होखे, जइसे जूता वाला डिब्बा, टोपी वाला डिब्बा या छोट लकड़ी के संदूक।
+2. **एगो विषय या मिश्रण चुनीं।** काम, शौक, कवनो जगह, कवनो दशक, या थोड़ा-थोड़ा सब कुछ।
+3. **सुरक्षित चीज जुटाईं।** शुरू में पाँच से दस चीज काफी बा।
+4. **कीमती चीज के कॉपी लीं।** अनमोल फोटो आ कागज के कॉपी बनाईं, असली चीज सुरक्षित रखीं।
+5. **एक-एक करके चीज निकालीं।** एक चीज थमाईं, ओकरा बारे में कुछ कहीं, आ देखीं बतकही कहाँ जाला।
 
-Ideas to include:
+इ सब शामिल कर सकेनी:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **काम:** नाम वाला बैज, छोट औजार, वर्दी के पैच, खाता-बही, नर्स के पिन, ढाबा के पुरान नुस्खा किताब।
+- **घर:** उनकर हाथ के लिखल नुस्खा कार्ड, तौलिया, मनपसंद गमछा या टाई।
+- **शौक:** बिना कांटा के मछली के चारा, बेसबॉल, ऊन के गोला, बीज के पैकेट।
+- **जगह:** पोस्टकार्ड, नक्शा, पर्यटन स्मारिका, उनकर गाँव-शहर के अखबार के कतरन।
+- **परिवार:** फोटो के कॉपी, बच्चा के बनावल चित्र, बियाह के निमंत्रण।
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+नुकीला सामान, छोट चीज जवन निगलल जा सकेला, आ जवन दरद वाली याद जगा सकेला, ओकरा से बचीं जब तक जानकारी ना होखे कि उ स्वागत बा।
 
-## How do you make a life-story book?
+## जीवन की कहानी वाली किताब कइसे बनाईं?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+जीवन की कहानी वाली किताब व्यक्ति के जिनगी के फोटो आ छोट-छोट लिखल बात के सादा एल्बम ह। इ साथ मिल के देखे खातिर बा, आ मेहमान आ देखभाल करे वाला स्टाफ के पूरा व्यक्ति देखे में मदद करेला।
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **रूप चुनीं।** स्लीव वाला बाइंडर, छपल फोटो किताब, या टैबलेट पर स्लाइड शो।
+2. **कुछ हिस्सा तय करीं।** बचपन, पढ़ाई, काम, परिवार, रहल जगह, धरम, शौक, मनपसंद खाना आ गाना।
+3. **हर पन्ना पर एक-दू फोटो** आ छोट, बड़ा अक्षर वाला लिखल बात: “मेरी – 22 बरिस के उमिर, बैंक में पहिला दिन।”
+4. **पसंद आ रोज के आदत जोड़ीं।** “दूध वाला चाय पसंद बा। रविवार के भजन बहुत नीक लागेला। तेज टीवी से मन ना लागे।” इ सब देखभाल करे वाला के मदद करेला।
+5. **व्यक्ति के शामिल करीं** जतना उ चाहस: फोटो चुनल, कहानी सुनावल, या बस बनत देखल।
+6. **जोड़त रहीं।** पूरा होखे के जरूरत नइखे, तबो उपयोगी बा।
 
-## More reminiscence ideas
+## अउरी स्मृति-बतकही के आइडिया
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **उनकर जवानी के गाना बजाईं** आ बतावल कि उ गाना उनके कहाँ ले जाला। [गाना वाली गतिविधि](/activities/music/) देखीं।
+- **घर के वीडियो या पसंद के दशक के टीवी शो देखीं।**
+- **बचपन के कवनो पकवान बनाईं** आ महक के बतकही के रास्ता देवे दीं।
+- **उनकर गाँव-शहर के नक्शा देखीं** आ जानल सड़क पर अंगुली चलाईं।
+- **पुरान कैटलॉग या पत्रिका देखीं** आ दाम, फैशन आ गाड़ियन के बारे में बतियाईं।
+- **उनकर कहानी रिकॉर्ड करीं**, उनकर इजाजत से फोन पर, परिवार खातिर।
+- **फोन या वीडियो कॉल में बाँटीं।** कॉल में एगो फोटो दिखाईं; देखीं [फोन और वीडियो कॉल](/activities/phone-and-video-calls/)।
+- **मिले जाईं त फोटो या चीज ले जाईं।** मिलन में आसान ध्यान मिल जाई; देखीं [मिलना-जुलना](/activities/visiting/)।
 
-## What if a memory is painful?
+## कवनो याद दुखद होखे त का कईल जाव?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+कुछ याद दुख, पछतावा या डर लेके आवेली। अगर व्यक्ति परेशान हो जाव, त रुकीं, उनके आराम दीं आ धीरे से बात या गतिविधि बदल दीं। जवन भइल ओकरा पर बहस मत करीं। Family Caregiver Alliance सलाह देला कि व्यक्ति के समझावे के कोशिश ना करीं कि उ गलत बा, बल्कि उनकर भावना पर जवाब दीं, जवन असली बा। अगर उ कवनो गुजर गइल आदमी के बारे में अइसे बोलस जइसे उ जिंदा होखस, त भावना पर जवाब दीं: “आपके उनकर याद आवत बा। उनकर बारे में बताईं।”
 
-## What does the research say?
+## शोध का कहेला?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane की स्मृति-बतकही पर समीक्षा](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), जवन 22 परीक्षण आ 1,972 लोग पर आधारित बा, पावल कि नतीजा अलग-अलग, छोट आ जगह आ तरीका के हिसाब से बदलल। एमे डिमेंशिया वाला लोग के नुकसान के कवनो सबूत ना मिलल। स्मृति-बतकही के सुझाव इलाज के रूप में ना, बल्कि इसलिए दिहल जाला कि इ साथ में गर्म आ अर्थपूर्ण समय दे सकेला। आसान बतकही के बारे में अउरी जाने खातिर [बातचीत के सुझाव](/caregiving/communication-tips/) देखीं।

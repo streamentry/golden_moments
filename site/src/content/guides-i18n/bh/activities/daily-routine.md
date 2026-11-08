@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+एक कोमल दिनचर्या से दिन की एक जानी-पहचानी शक्ल बनती है: उठना, खाना, थोड़ी गतिविधि, आराम और सोना, लगभग एक ही समय पर। इससे फैसले कम करने पड़ते हैं और अचानक आने वाली उलझन भी कम होती है। नीचे दी गई दिनचर्या एक नमूना है, नियम नहीं। इसे शुरुआत मान लीजिए और फिर इसे उस व्यक्ति के हिसाब से ढालिए जिनकी देखभाल आप करत बानी।
 
-## Why does a daily routine help?
+## दिनचर्या से मदद क्यों मिलती है?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+जानी-पहचानी आदतों का पालन करना नई आदतों से आसान होता है, इसलिए स्थिर दिनचर्या मददगार होती है। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) के अनुसार योजना वाले दिन में यह सोचने में कम समय लगता है कि क्या करना है, और आनंद वाली गतिविधियों के लिए ज़्यादा समय बचता है। इसमें यह भी बताया गया है कि जागने और सोने का नियमित समय नींद की दिक्कत और शाम की बेचैनी में मदद कर सकता है। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) सुझाता है कि नहाना, कपड़े पहनना और खाना रोज़ एक ही समय पर हो, जिससे घर का माहौल शांत रहे। [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) भी एक जैसी दिनचर्या रखने की सलाह देता है।
 
-## A sample gentle day
+## एक कोमल नमूना दिन
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+समय सिर्फ़ उदाहरण के लिए हैं। पूरे दिन को आगे या पीछे खिसकाइए, ताकि वह व्यक्ति की अपनी लय से मेल खाए।
 
-| Time | What happens | Ideas | On a harder day |
+| समय | क्या होता है | सुझाव | कठिन दिन पर |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| सुबह 8:00 | उठना, मुँह-हाथ धोना, कपड़े पहनना | हर दिन एक ही क्रम; कपड़े उसी क्रम में रखिए जिसमें पहने जाते हैं | देखभाल सादी रखिए; एक साफ़ कमीज़ काफ़ी है |
+| सुबह 8:45 | नाश्ता | चाय और अख़बार ज़ोर से पढ़िए, या रेडियो चलाइए | चुपचाप साथ में खाइए, बात करने का दबाव न डालिए |
+| सुबह 9:30 | मुख्य गतिविधि | कपड़े तह करना, कुछ बनाना, बागवानी, छोटी सैर या टहलना | उसका छोटा रूप करिए, या उन्हें आपको करते देखने दीजिए |
+| सुबह 10:30 | शांत समय | संगीत, फ़ोटो एल्बम, या खिड़की के पास बैठना | पसंदीदा कुर्सी पर आराम |
+| सुबह 11:00 | दोपहर के खाने में मदद | सब्ज़ी धोना, थाली लगाना | आप खाना बनाइए; वे साथ दें |
+| दोपहर 12:00 | दोपहर का खाना और सफ़ाई | मेज़ पोंछना, कुछ बर्तन सुखाना | घर के काम छोड़ दीजिए |
+| दोपहर 1:00 | थोड़ा आराम | पैर ऊपर रखकर लेटना, हल्का संगीत | वही |
+| दोपहर 2:00 | बाहर या सक्रिय समय | टहलना, बरामदे में बैठना, पौधों को पानी देना, गुब्बारा उछालना | धूप वाली खिड़की के पास बैठना |
+| दोपहर 3:00 | मिलना-जुलना या रचनात्मक काम | कोई मिलने आए, फ़ोन पर बात हो, [तस्वीर जोड़ी](/games/picture-pairs/), रंग भरना, पत्ते खेलना | साथ में पानी और कुछ हल्का खाना |
+| शाम 4:30 | शांत होने का समय | परदे बंद करना, बत्तियाँ जलाना, छोटा काम जैसे वॉशक्लॉथ तह करना | जाना-पहचाना संगीत, कम शोर |
+| शाम 5:30 | रात का खाना | हिलाने या थाली लगाने में मदद | सादा और जाना-पहचाना खाना |
+| शाम 6:30 | शाम का साथ | मिठाई के साथ पुरानी बातें याद करना, पत्ते खेलना, पसंदीदा शो, हाथ की मालिश | चुपचाप साथ बैठना |
+| रात 8:00 | सोने की तैयारी | नहाना या हाथ-मुँह धोना, कपड़े बदलना, धीमा संगीत, मद्धम रोशनी | सब कुछ छोटा करिए; आराम सबसे पहले |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+यह नमूना Alzheimer's Association की अपनी नमूना योजना के ढाँचे जैसा है, जो शुरुआती और बीच की अवस्था के लिए है। उसमें निजी देखभाल और नाश्ते से शुरू होकर घर के काम, सैर, संगीत, आराम और मुलाक़ात होते हुए रात के खाने, पुरानी बातों और सोने की तैयारी तक जाया जाता है।
 
-## How do you build your own routine?
+## अपनी दिनचर्या कैसे बनाएँ?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+चार्ट से नहीं, व्यक्ति की ज़िंदगी से शुरू करिए। Alzheimer's Association योजना बनाने से पहले इन बातों पर सोचने की सलाह देता है:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **उनकी पसंद, नापसंद, ख़ूबियाँ और रुचियाँ।**
+- **वे दिन कैसे बिताते थे।** जो सुबह जल्दी उठते थे और रोज़ कुत्ते को घुमाते थे, उन्हें अब भी सुबह जल्दी टहलाना अच्छा लगेगा। रात में जागने वाले को शायद सुबह 8 बजे का काम कभी अच्छा न लगे।
+- **दिन का उनका सबसे अच्छा समय।** नहाना, बाहर जाना और मुख्य गतिविधि उसी समय रखिए।
+- **पर्याप्त समय**, ताकि खाना, नहाना और कपड़े पहनना जल्दबाज़ी में न हो।
+- **जागने और सोने का नियमित समय।**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+इसी स्रोत के अनुसार घर के काम, खाना, निजी देखभाल, रचनात्मक गतिविधियाँ, शारीरिक हलचल, मिलना-जुलना, आध्यात्मिक गतिविधि और अचानक होने वाले पल, जैसे किसी दोस्त का घर आ जाना, इन सबका मेल रखना अच्छा है।
 
-### Try it for a week, then adjust
+### एक हफ़्ते आज़माइए, फिर बदलिए
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+हर दिन एक छोटा नोट रखिए। Alzheimer's Association सुझाता है कि सोचिए कौन-सी गतिविधि सबसे अच्छी रही और क्यों, किन समयों पर बहुत ज़्यादा चल रहा था या बहुत कम करने को था, और अचानक बनी योजनाएँ अच्छी लगीं या चिंता की वजह बनीं। जो काम करे उसे रखिए, जो न करे उसे बदलिए।
 
-### Make it visible
+### उसे दिखने वाला बनाइए
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+अगर व्यक्ति अब भी पढ़ सकते हैं, तो दिन की योजना वाला व्हाइटबोर्ड या बड़े अक्षरों वाला कार्ड तसल्ली दे सकता है। उसे छोटा रखिए: "नाश्ता। सारा के साथ सैर। दोपहर का खाना। आराम।" कुछ लोग दूर की योजना जाने बिना बेहतर रहते हैं। Family Caregiver Alliance सुझाता है कि अगर योजना से चिंता होती हो, तो उसकी बात ठीक पहले तक न करें।
 
-## How to adapt the routine
+## दिनचर्या को कैसे ढालें
 
-### Leave room to breathe
+### साँस लेने की जगह छोड़िए
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+हर मिनट भरने की कोशिश न करें। Alzheimer's Association ज़ोर देता है कि व्यक्ति को गतिविधि और आराम का संतुलन चाहिए, और उन्हें बार-बार ब्रेक की ज़रूरत पड़ सकती है। अगर वे ऊबे हुए, बेध्यान या चिड़चिड़े लगें, तो गतिविधि बदलिए या आराम करवाइए।
 
-### Protect the late afternoon
+### देर दोपहर से शाम तक का ख़याल रखिए
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+कई लोग दिन ढलते ही ज़्यादा बेचैन हो जाते हैं। NIA सुझाता है कि रोज़ थोड़ी देर बाहर या खिड़की के पास धूप में रहें, हर दिन सक्रिय रहें पर बहुत ज़्यादा योजना न बनाएँ, देर शाम को चाय-कॉफी और शराब से बचें, और दिन के आख़िरी हिस्से में लंबी झपकी से बचें। कुछ परिवारों को यह भी मदद करता है कि शाम होने से पहले परदे बंद करें और बत्तियाँ जला दें। देखिए [शाम की बेचैनी](/caregiving/late-day-restlessness/) और [नींद](/brain-health/sleep/)।
 
-### Change it as needs change
+### ज़रूरत बदले तो दिनचर्या बदलिए
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **शुरुआती अवस्था:** दिनचर्या साथ मिलकर बनाइए। व्यक्ति चाहें तो लिखा हुआ कार्यक्रम ख़ुद संभाल सकते हैं।
+- **बीच की अवस्था:** अब आप ज़्यादा आगे रहिए। छोटी गतिविधियाँ, ज़्यादा आराम और जाने-पहचाने काम; देखिए [बीच की अवस्था की गतिविधियाँ](/activities/middle-stage/)।
+- **आख़िरी अवस्था:** दिनचर्या आराम, खाने और देखभाल के इर्द-गिर्द रहती है, बीच-बीच में संगीत या हाथ की मालिश जैसे छोटे, इंद्रियों को छूने वाले पल रखिए; देखिए [आख़िरी अवस्था की गतिविधियाँ](/activities/late-stage/)।
 
-### Vary the activities, not the frame
+### गतिविधियाँ बदलिए, ढाँचा नहीं
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+खाना, आराम और सोने का समय स्थिर रखिए, और बीच की गतिविधियाँ बदलते रहिए। [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) सुझाता है कि अलग-अलग दिनों पर अलग गतिविधियाँ आज़माइए, ताकि सब कुछ दिलचस्प लगे। जैसे सोमवार को कुछ बनाना, मंगलवार को बागवानी और बुधवार को फ़ोटो देखना। हमारे [101 गतिविधि विचार](/activities/ideas/) और [घर के काम](/activities/household-tasks/) इन समयों को भर सकते हैं।
 
-## When the day goes sideways
+## जब दिन ठीक न चले
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+कुछ दिन किसी योजना पर नहीं चलते। बीमारी, रात की ख़राब नींद, डॉक्टर का आना या मौसम बदलना, सब कुछ उलट-पुलट कर सकता है। योजना छोड़ दीजिए, बुनियादी बातें बनाए रखिए (खाना, पानी, आराम, तसल्ली) और कल फिर कोशिश कीजिए। अगर व्यक्ति कुछ करने से मना करें, तो देखिए [जब वे मना करें](/caregiving/when-they-say-no/)। साथ मिलकर धीरे-धीरे साँस लेना, जैसे [शांत साँस](/games/calm-breathing/), दोनों को फिर से संभलने में मदद कर सकता है।
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+आपकी अपनी दिनचर्या भी मायने रखती है। अपने लिए भी ब्रेक रखिए, और परिवार या किसी राहत सेवा से नियमित छुट्टी के लिए मदद माँगिए। देखिए [देखभाल करने वाले की अपनी देखभाल](/caregiving/caregiver-self-care/)।

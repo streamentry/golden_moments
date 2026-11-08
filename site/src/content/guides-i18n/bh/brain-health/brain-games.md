@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "ब्रेन गेम्स से डिमेंशिया रुकता है? सबूत क्या कहते हैं"
+seoTitle: "ब्रेन गेम्स डिमेंशिया रोकते हैं? सबूत क्या हैं"
+description: "ब्रेन गेम्स और डिमेंशिया पर रिसर्च क्या कहती है: कॉग्निटिव स्टिमुलेशन, कंप्यूटर ब्रेन ट्रेनिंग, ACTIVE ट्रायल और FTC का Lumosity मामला, सीधी भाषा में।"
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  कोई भी ब्रेन गेम डिमेंशिया रोकने के लिए साबित नहीं हुआ है। कंप्यूटर पर
+  ब्रेन ट्रेनिंग ज़्यादातर उन्हीं कामों में सुधार दिखाती है जिनका लोग
+  अभ्यास करते हैं। ACTIVE ट्रायल के एक अध्ययन में एक खास स्पीड ट्रेनिंग और
+  बूस्टर सेशन के साथ 20 साल में कम डिमेंशिया निदान जुड़े पाए गए, जो एक सीमित
+  नतीजा है। जो लोग पहले से डिमेंशिया के साथ जी रहे हैं, उनमें समूह में
+  कॉग्निटिव स्टिमुलेशन से छोटे, अस्थायी फायदे दिखे हैं। खेल सबसे अच्छे तब
+  हैं जब उनका मज़ा लिया जाए और साथ का आनंद मिले।
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "ब्रेन-ट्रेनिंग के अध्ययन दिखाते हैं कि लोग जिन कामों का अभ्यास करते हैं उनमें बेहतर हो जाते हैं, पर यह रोज़मर्रा की ज़िंदगी तक पहुँचता है, इसके सबूत बहुत कम हैं।"
+  - "ACTIVE ट्रायल में केवल वे लोग, जिन्होंने एक खास स्पीड ट्रेनिंग के साथ बूस्टर सेशन किए, 20 साल में कम डिमेंशिया निदान वाले पाए गए। बिना बूस्टर की स्पीड ट्रेनिंग, और याददाश्त या तर्क की ट्रेनिंग में यह नतीजा नहीं दिखा।"
+  - "2016 में Lumosity बनाने वाली कंपनी ने FTC के आरोपों को निपटाने के लिए $2 million देने पर सहमति दी। आरोप था कि कंपनी के पास डिमेंशिया को टालने के दावों के लिए विज्ञान नहीं था।"
+  - "हल्के से मध्यम डिमेंशिया वाले लोगों के लिए समूह कॉग्निटिव स्टिमुलेशन में सोचने की क्षमता में छोटे, अस्थायी फायदे और बातचीत व सामाजिक मेलजोल में साफ़ सुधार दिखे हैं।"
+  - "Golden Moments के खेल मज़े और साथ के समय के लिए हैं। ये कोई इलाज नहीं हैं और न डिमेंशिया को रोकते हैं, न धीमा करते हैं।"
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "क्या ब्रेन गेम्स अल्ज़ाइमर रोकते हैं?"
+    a: "नहीं। कोई भी ब्रेन गेम अल्ज़ाइमर या किसी और डिमेंशिया को रोकने के लिए साबित नहीं हुआ है। National Institute on Aging कहता है कि व्यावसायिक ब्रेन-ट्रेनिंग ऐप्स में वैसे असर होने के पर्याप्त सबूत नहीं हैं, जैसे रिसर्च ट्रायल में दिखे। फिर भी खेल समय बिताने का सुखद तरीका हो सकते हैं।"
+  - q: "ACTIVE ट्रायल में स्पीड ट्रेनिंग और डिमेंशिया के बारे में क्या मिला?"
+    a: "2026 के एक विश्लेषण में ACTIVE के प्रतिभागियों को 20 साल तक Medicare रिकॉर्ड से जोड़ा गया। जिन लोगों ने स्पीड-ऑफ-प्रोसेसिंग ट्रेनिंग और कम से कम एक बूस्टर सेशन किया, उनमें डिमेंशिया निदान की दर उस समूह से कम थी जिसने कोई ट्रेनिंग नहीं ली। बिना बूस्टर की स्पीड ट्रेनिंग, और याददाश्त या तर्क की ट्रेनिंग, में कोई साफ़ असर नहीं दिखा।"
+  - q: "क्या पहेलियाँ और खेल ऐसे व्यक्ति के लिए अच्छे हैं जिसे पहले से डिमेंशिया है?"
+    a: "हो सकते हैं, अगर व्यक्ति को उनमें मज़ा आए। समूह कॉग्निटिव स्टिमुलेशन में शब्द-खेल, पहेलियाँ, संगीत और बातचीत शामिल होते हैं। इससे सोचने में छोटे, अस्थायी फायदे और बातचीत व मेलजोल में साफ़ फायदे दिखे हैं। लक्ष्य मज़ा होना चाहिए, किसी टेस्ट का नतीजा नहीं।"
+  - q: "FTC ने Lumosity पर जुर्माना क्यों लगाया?"
+    a: "2016 में Federal Trade Commission ने आरोप लगाया कि Lumos Labs ने अपने खेलों के बारे में दावे किए, जिनमें उम्र से जुड़ी गिरावट और डिमेंशिया को टालने की बात थी, जबकि उनके पीछे भरोसेमंद विज्ञान नहीं था। कंपनी $2 million देने और भविष्य में ऐसे दावों से पहले ठोस वैज्ञानिक सबूत रखने पर सहमत हुई।"
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+ब्रेन गेम हर जगह मिलते हैं, और उनमें से कई दावा करते हैं कि वे आपके दिमाग़ को जवान रखेंगे। अगर आप डिमेंशिया वाले किसी व्यक्ति की देखभाल करते हैं, या अपनी याददाश्त को लेकर फिक्र है, तो यह सोचना स्वाभाविक है कि इन्हें खेलने से कुछ मदद मिल सकती है। यहाँ वह बताया गया है जो रिसर्च सच में दिखाती है, इसके अच्छे पहलू और वे पहलू भी जो उतने अच्छे नहीं हैं।
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+यह सामान्य जानकारी है, डॉक्टरी सलाह नहीं। देखें हमारा [मेडिकल डिसक्लेमर](/medical-disclaimer/)।
 
-## Do brain games prevent dementia?
+## क्या ब्रेन गेम्स डिमेंशिया रोकते हैं?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+कोई भी ब्रेन गेम डिमेंशिया रोकने के लिए साबित नहीं हुआ है। National Institute on Aging (NIA) लोगों को सलाह देता है कि कंप्यूटर और ऑनलाइन खेलों से याददाश्त सुधरने के दावों से सावधान रहें। उसका कहना है कि किसी भी व्यावसायिक ब्रेन-ट्रेनिंग ऐप में वैसा असर होने के पर्याप्त सबूत नहीं हैं, जैसा क्लिनिकल ट्रायल में आजमाई गई ट्रेनिंग में दिखा ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))।
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+इसका मतलब यह नहीं कि खेल बेकार हैं। इनकी कीमत मज़े, साथ और दिनचर्या में है, किसी को डिमेंशिया से बचाने में नहीं।
 
-## What is "near transfer", and why does it matter?
+## "नियर ट्रांसफर" क्या है, और यह क्यों मायने रखता है?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+जब आप किसी काम का अभ्यास करते हैं, तो आप आमतौर पर उसी काम में बेहतर हो जाते हैं। रिसर्चर इसे ट्रेनिंग इफ़ेक्ट कहते हैं। असली सवाल यह है कि क्या यह सुधार दूसरी चीज़ों तक पहुँचता है: मिलते-जुलते कामों तक (नियर ट्रांसफर) या रोज़मर्रा की ज़िंदगी तक, जैसे अपॉइंटमेंट याद रखना या पैसों का हिसाब रखना (फ़ार ट्रांसफर)।
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016 की एक बड़ी समीक्षा में उन अध्ययनों को देखा गया जिन्हें ब्रेन-ट्रेनिंग कंपनियाँ अपना सबसे अच्छा सबूत बताती थीं। उसमें पाया गया कि लोग ट्रेन किए गए कामों में बेहतर होते हैं, पर उनमें से करीब से जुड़े कामों में सुधार के सबूत कम हैं, और रोज़मर्रा की सोच में सुधार के सबूत लगभग नहीं हैं। इनमें से कई अध्ययनों के डिज़ाइन में भी खामियाँ थीं, जिससे पक्का निष्कर्ष निकालना मुश्किल था ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983))।
 
-## What do reviews say about computer brain training?
+## कंप्यूटर ब्रेन ट्रेनिंग पर समीक्षाएँ क्या कहती हैं?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane समीक्षाएँ सबसे अच्छे उपलब्ध ट्रायल को एक साथ देखती हैं। उन्होंने कम से कम 12 हफ़्ते चलने वाली कंप्यूटर ट्रेनिंग को देखा है:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **65 साल और उससे ऊपर के स्वस्थ बुज़ुर्ग:** आठ ट्रायल, 1,183 लोग। सबूत कम या बहुत कम गुणवत्ता के थे। ट्रेनिंग के तुरंत बाद हल्का फायदा हो सकता है, पर यह टिकता है, इसका साफ़ सबूत नहीं है ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/))।
+- **हल्की संज्ञानात्मक कमज़ोरी (mild cognitive impairment) वाले लोग:** आठ ट्रायल, 660 लोग। किसी भी ट्रायल ने यह नहीं बताया कि लोग आगे चलकर डिमेंशिया के शिकार हुए या नहीं, और सबूत निष्कर्ष निकालने लायक नहीं थे ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/))।
 
-## What did the ACTIVE trial find?
+## ACTIVE ट्रायल में क्या मिला?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE अमेरिका का एक बड़ा ट्रायल है, जो 1998 में 65 साल और उससे ऊपर के 2,802 वयस्कों के साथ शुरू हुआ। ये लोग अपने दम पर रहते थे और उन्हें याददाश्त या सोचने में कोई बड़ी समस्या नहीं थी। प्रतिभागियों को तीन तरह की छोटे-समूह ट्रेनिंग में से किसी एक में, या एक ऐसे समूह में रखा गया जिसे कोई ट्रेनिंग नहीं दी गई। ट्रेनिंग पाँच से छह हफ़्ते में अधिकतम दस सेशन की थी। जिन लोगों ने ज़्यादातर सेशन पूरे किए, उनमें से कुछ को लगभग एक और तीन साल बाद **बूस्टर सेशन** के लिए भी यादृच्छिक रूप से चुना गया।
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+स्पीड ट्रेनिंग में दृश्य जानकारी को छोटी और छोटी झलकों में पहचानना और समझना होता था, और इसका स्तर लोगों के सुधरने के साथ अपने-आप बदलता था।
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 में रिसर्चरों ने 2,021 प्रतिभागियों को 20 साल के Medicare रिकॉर्ड से जोड़ा ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/))। उन्होंने जो पाया, वह यह है:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **स्पीड ट्रेनिंग और कम से कम एक बूस्टर सेशन:** नो-ट्रेनिंग समूह की तुलना में डिमेंशिया निदान की दर कम (hazard ratio 0.75, जिसका मोटे तौर पर मतलब है लगभग 25% कम दर)।
+- **बिना बूस्टर की स्पीड ट्रेनिंग:** दर में कोई कमी नहीं।
+- **याददाश्त या तर्क की ट्रेनिंग:** डिमेंशिया निदानों पर कोई साफ़ असर नहीं।
+- **हर ट्रेनिंग समूह को पूरे तौर पर नो-कॉन्टैक्ट समूह से देखें तो:** दर कम होने की ओर झुकाव, पर वह सांख्यिकीय रूप से महत्वपूर्ण नहीं।
 
-### The limits of this finding
+### इस नतीजे की सीमाएँ
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- यह **एक खास तरह की निगरानी वाली स्पीड ट्रेनिंग और बूस्टर सेशन** पर लागू होता है, ब्रेन गेम्स आमतौर पर पर नहीं।
+- महत्वपूर्ण नतीजा एक **उपसमूह** से आया (जिन्होंने पहले सेशन के ज़्यादातर हिस्से पूरे किए और जिन्हें बूस्टर की पेशकश हुई), पूरे स्पीड समूह से नहीं।
+- डिमेंशिया को **Medicare क्लेम के डायग्नोसिस कोड** से मापा गया, हर व्यक्ति की जाँच करके नहीं। मूल प्रतिभागियों में से लगभग एक चौथाई को बाहर रखा गया, क्योंकि वे Medicare Advantage में थे, जिसमें पूरे क्लेम रिकॉर्ड नहीं होते।
+- प्रतिभागियों को शुरू में सोचने में कोई बड़ी समस्या नहीं थी। नतीजे उन गेम्स के बारे में कुछ नहीं कहते जो **पहले से डिमेंशिया के साथ जी रहे** लोगों के लिए हों।
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+यह दिलचस्प नतीजा है और इस पर और रिसर्च होनी चाहिए। पर यह इस बात का सबूत नहीं है कि कोई ऐप डिमेंशिया रोकता है।
 
-## What did the FTC say about Lumosity?
+## FTC ने Lumosity के बारे में क्या कहा?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+जनवरी 2016 में Lumos Labs, जो Lumosity बनाती है, भ्रामक विज्ञापन के Federal Trade Commission के आरोपों को निपटाने के लिए $2 million देने पर सहमत हुई। FTC ने कहा कि कंपनी ने बिना पर्याप्त विज्ञान के दावे किए कि उसके खेल काम और स्कूल में प्रदर्शन सुधार सकते हैं और उम्र से जुड़ी गिरावट, हल्की संज्ञानात्मक कमज़ोरी, डिमेंशिया और अल्ज़ाइमर को टाल सकते हैं। आदेश के मुताबिक कंपनी को भविष्य में ऐसे दावे करने से पहले सक्षम और भरोसेमंद वैज्ञानिक सबूत रखने होंगे ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program))।
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+परिवारों के लिए सबक: किसी भी खेल, ऐप या कार्यक्रम से सावधान रहें जो याददाश्त की रक्षा करने या डिमेंशिया रोकने का वादा करे।
 
-## Can games help someone who already has dementia?
+## क्या खेल पहले से डिमेंशिया वाले व्यक्ति की मदद कर सकते हैं?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+ये अच्छे दिन में कुछ जोड़ सकते हैं, और यह बहुत मायने रखता है। सबसे अच्छी तरह अध्ययन किया गया तरीका है **कॉग्निटिव स्टिमुलेशन**: मज़ेदार समूह गतिविधियाँ, जैसे चर्चा, पुरानी यादें ताज़ा करना, शब्द-खेल, पहेलियाँ और संगीत, आमतौर पर किसी संचालक की अगुवाई में छोटे समूह में।
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 की एक Cochrane समीक्षा में हल्के से मध्यम डिमेंशिया वाले 2,766 लोगों के 37 ट्रायल देखे गए। उसमें पाया गया ([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- सोचने की जाँच में **छोटा, अस्थायी फायदा** (मध्यम गुणवत्ता के सबूत);
+- बातचीत और सामाजिक मेलजोल में **व्यावहारिक रूप से मायने रखने वाले सुधार** (उच्च गुणवत्ता के सबूत, पर कम अध्ययनों से);
+- जीवन की गुणवत्ता, मूड और व्यवहार में **हल्के फायदे**।
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+फायदे ज़्यादातर लगभग दस हफ़्ते के कार्यक्रमों के तुरंत बाद मापे गए, और बहुत कम अध्ययनों ने जाँचा कि ये टिकते हैं या नहीं। कॉग्निटिव स्टिमुलेशन एक व्यवस्थित समूह कार्यक्रम है, इसलिए ये नतीजे अपने-आप उस व्यक्ति पर लागू नहीं होते जो अकेले टैबलेट पर गेम खेल रहा है।
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024 का Lancet Commission भी कहता है कि डिमेंशिया वाले लोगों के लिए गतिविधि कार्यक्रम ज़रूरी हैं, ताकि आनंद और जीवन में उद्देश्य बना रहे ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0))।
 
-## What are games actually good for?
+## खेल असल में किसके लिए अच्छे हैं?
 
-When chosen well, games can offer:
+सही चुने जाएँ तो खेल ये दे सकते हैं:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **आनंद।** आधा घंटा सुखद बीतना अपने-आप में कीमती है।
+- **जुड़ाव।** साथ-साथ खेलना उस समय कुछ आसान साझा करने को देता है जब बातचीत मुश्किल हो। देखें [साथ कैसे खेलें](/caregiving/how-to-play-together/)।
+- **दिनचर्या।** हर दिन एक ही समय पर कोई जानी-पहचानी गतिविधि सुकून दे सकती है।
+- **आत्मविश्वास।** ऐसी गतिविधियाँ जो व्यक्ति अब भी अच्छी तरह कर सकता है, उसे सक्षम महसूस कराती हैं, जाँचा हुआ नहीं।
+- **बातचीत।** एक तस्वीर या कोई जानी-पहचानी कहावत कहानी शुरू करा सकती है। आज़माएँ [बातचीत कार्ड](/games/conversation-cards/) या [कहावत पूरी करें](/games/finish-the-saying/)।
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+किनसे बचें: टाइमर, स्कोर, लगातार सफलता की गिनती और ऐसी कोई भी चीज़ जो याददाश्त की परीक्षा जैसी लगे। अगर व्यक्ति परेशान हो, तो रुक जाएँ। जल्दी खत्म करना, या बस साथ बैठना, भी एक अच्छा नतीजा है। [ऐप और गेम चुनने](/caregiving/choosing-apps-and-games/) की हमारी गाइड में एक चेकलिस्ट है।
 
-## Where Golden Moments fits
+## Golden Moments कहाँ फिट होता है
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments के खेल, जैसे [तस्वीर जोड़े](/games/picture-pairs/), [तस्वीर पहेली](/games/picture-puzzle/) और [बड़े अक्षरों वाला शब्द-खोज](/games/word-search/), मज़े और साथ के समय के लिए बने हैं। इनमें कोई घड़ी नहीं और कोई स्कोर नहीं। ये **कोई इलाज नहीं** हैं, और ये डिमेंशिया को **न रोकते हैं, न धीमा करते हैं।** हम आपको साफ़-साफ़ यह बताना बेहतर समझते हैं, बजाय ऐसा वादा करने के जो कोई खेल पूरा नहीं कर सकता।
 
-## Talk with a doctor
+## डॉक्टर से बात करें
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+अगर आप खुद या जिस व्यक्ति की देखभाल करते हैं, उसकी याददाश्त में बदलाव को लेकर चिंतित हैं, तो ऐप पर भरोसा करने के बजाय डॉक्टर से मिलें। डॉक्टर इलाज योग्य कारणों की जाँच कर सकते हैं और सबसे अच्छे सबूतों वाले कदमों पर बात कर सकते हैं, जैसे ब्लड प्रेशर संभालना और सुनने की जाँच कराना। ज़्यादा जानने के लिए देखें [क्या डिमेंशिया रोका जा सकता है?](/brain-health/can-dementia-be-prevented/)। अचानक भ्रम या अन्य अचानक बदलावों के लिए तुरंत चिकित्सा सहायता लें।
