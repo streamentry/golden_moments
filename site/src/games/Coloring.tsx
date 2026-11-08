@@ -27,8 +27,14 @@ export default function Coloring(props: PlayProps) {
   }, [pageId]);
 
   const paintPart = (id: string) => {
-    setFills((f) => ({ ...f, [id]: paint.value }));
-    sounds.tap();
+    const nextFills = { ...fills, [id]: paint.value };
+    setFills(nextFills);
+    const isCompleted = page.regions.every((r) => Boolean(nextFills[r.id]));
+    if (isCompleted) {
+      sounds.done();
+    } else {
+      sounds.tap();
+    }
     setMessage(fill(ui.coloring.painted, { part: partName(id), paint: paintName(paint) }, lang));
   };
 
