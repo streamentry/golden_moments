@@ -56,4 +56,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | # | Improvement Slot | Status |
 |---|---|---|
 | 39 | Loop run 2026-11-08 (research pass) and follow-up 2026-11-09 | Research pass: no code change, candidates and two decisions in [loop-2026-11-08.md](loop-2026-11-08.md). Follow-up: accessibility statement now lists the header text-size and contrast controls and the 6.3 to 1 default gold contrast (English only). See the follow-up section there |
-| 40–100 | Planned one by one | Pending |
+| 40 | 2026-11-09 | none (not shipped) | Reading-text line height 1.4 to 1.5 (WCAG 1.4.12; NIA checklist via secondary source) | Found that the app's body text is 1.4 while the earlier audit called it conforming. A red test and token change to 1.5 passed the design tests, but five 200% layout tests failed on three screens (Picture Puzzle, Photo Together, photo collection). Reverted. Needs layout work and device checks, see [loop-2026-11-09.md](loop-2026-11-09.md) | App (`DESIGN.md`, `lib/design_system.dart`) | Measured, not shipped |
+| 41–100 | Planned one by one | Pending |
