@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Soma mu ddoboozi",
+      "stopReading": "Lekera awo okusoma",
+      "region": "Omuzannyo",
+      "restart": "Ddamu buto",
+      "soundOn": "Teekako amaloboozi ag'empola",
+      "soundOff": "Ggyako amaloboozi ag'empola",
+      "done": "Kikome awo kaakano",
+      "feedbackQuestion": "Kino kiyambyeko leero?",
+      "feedbackYes": "Yee",
+      "feedbackNo": "Si nnyo",
+      "feedbackThanks": "Webale kututegeeza."
+    },
+    "tile": {
+      "named": "{name}, akatiba {n}",
+      "hidden": "Ekifaananyi ekikwese, akatiba {n}",
+      "withState": "{label}, {state}",
+      "matched": "Kifaanaganye",
+      "selected": "Kirondedwa",
+      "picture": "Ekifaananyi",
+      "photoNumber": "Ekifaananyi {n}"
+    },
+    "pairs": {
+      "allTogether": "Bipya byonna bikwataganye. Zzamu ozannye oba wummulamu.",
+      "photoPair": "Ebifaananyi bibiri ebifaanagana, biri wamu.",
+      "picturePair": "Ebifaananyi bibiri ebya {name|lower}, biri wamu.",
+      "selected": "{name}. Kaakano noonya ekinaakyo.",
+      "mismatch": "Gira mpola. Nyiga ku kifaananyi okweyongerayo.",
+      "mismatchNamed": "{a} ne {b}. Gira mpola. Nyiga ku kifaananyi okweyongerayo."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Nyiga ku kifaananyi, oluvannyuma onyige ku kifaanagana nakyo.",
+      "guidanceHidden": "Nyiga ku butiba bubiri obigalule. Noonyamu ebyo ebibiri ebifaanagana.",
+      "restart": "Ebifaananyi ebiggya",
+      "sizeLegend": "Omuwendo gw'obutiba",
+      "size": {
+        "one": "Akatiba {n}",
+        "other": "Obutiba {n}"
+      },
+      "viewLegend": "Engeri y'okuzannyiramu",
+      "viewShowing": "Ebifaananyi ebireebeka",
+      "viewHidden": "Ebifaananyi ebikwese",
+      "playAgain": "Zzamu ozannye n'ebifaananyi ebiggya",
+      "talk": "Munyuumyeeko ku bifaananyi bino wamu"
+    },
+    "choose": {
+      "countLegend": "Omuwendo gw'ebifaananyi",
+      "count": "{n} eby'okulondako",
+      "thatOne": "Ekyo kye {name|lower}. Gira mpola."
+    },
+    "findTheSame": {
+      "guidance": "Kebera ekifaananyi ekiri waggulu. Nyiga ku kifaanagana nakyo wansi.",
+      "yes": "Yee, {name|lower} kye kimu.",
+      "next": "Ekifaananyi ekiddako"
+    },
+    "shadowMatch": {
+      "guidance": "Kebera ekisiikirize ekiri waggulu. Nyiga ku kifaananyi ekikola ekisiikirize ekyo.",
+      "yes": "Yee, {name|lower} kye kikola ekisiikirize ekyo.",
+      "next": "Ekisiikirize ekiddako",
+      "shadowAlt": "Ekisiikirize eky'okukwataganya",
+      "foundAlt": "Ekisiikirize kya {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Nyiga ku kifaananyi, oluvannyuma onyige ku kisero mwe kigendera.",
+      "restart": "Ebifaananyi ebiggya",
+      "themeLegend": "Omulamwa",
+      "selected": "{name}. Kaakano nyiga ku kisero mwe kigenda.",
+      "pickFirst": "Sooka onyige ku kifaananyi, olyoke onyige ku kisero.",
+      "hint": "{name|lower} kisobola okugenda mu \"{basket}\". Nyiga ku kisero ekyo okukiteekamu.",
+      "placed": "{name|lower} kuli mu \"{basket}\".",
+      "sorted": "Bikwataganyiziddwa byonna. Mubitunuulire wamu mu bisero, oba mugezeko omulamwa omulala.",
+      "basket": {
+        "one": "Ekisero kya {basket}, mulimu ekifaananyi {count}",
+        "other": "Ekisero kya {basket}, mulimu ebifaananyi {count}"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Nyiga ku kitundu kimu, oluvannyuma onyige ku kirala. Bijja kukyusaganya ebifo.",
+      "restart": "Tabaatabamu buto",
+      "pictureLegend": "Ekifaananyi",
+      "pictures": {
+        "sailboat": "Ekyombo",
+        "house": "Ennyumba",
+        "balloon": "Bbaluuni",
+        "sunflower": "Kimuli kya kasana",
+        "lighthouse": "Minaala y'ennyanja",
+        "cat": "Kkapa"
+      },
+      "sizeLegend": "Ebitundu",
+      "size": {
+        "one": "Ekitundu {n}",
+        "other": "Ebitundu {n}"
+      },
+      "pickedUp": "Ekitundu kikitiddwa. Kaakano nyiga w'olina okukiteeka.",
+      "whole": "{name|lower} kifaananye buto bulungi. Londa ekifaananyi ekirala wonna w'oba oyagalidde.",
+      "swapped": {
+        "one": "Bikyusiddwa. Ekitundu {correct} ku {total} kiri mu kifo kyakyo kituufu.",
+        "other": "Bikyusiddwa. Ebitundu {correct} ku {total} biri mu bifo byabyo bituufu."
+      },
+      "guideAlt": "Ekifaananyi kyonna: {name}",
+      "guideText": "Bw'kiti ekifaananyi bwe kifaanana nga kijjudde.",
+      "piece": "Ekitundu ekiri mu {place}",
+      "pieceInPlace": ", mu kifo ekituufu",
+      "piecePickedUp": ", kikitiddwa",
+      "places4": [
+        "waggulu ku kkono",
+        "waggulu ku ddyo",
+        "wansi ku kkono",
+        "wansi ku ddyo"
+      ],
+      "places9": [
+        "waggulu ku kkono",
+        "waggulu wakati",
+        "waggulu ku ddyo",
+        "wakati ku kkono",
+        "wakati",
+        "wakati ku ddyo",
+        "wansi ku kkono",
+        "wansi wakati",
+        "wansi ku ddyo"
+      ],
+      "done": "Ekifaananyi kijjudde buto. Zzamu ozannye oba wummulamu.",
+      "playAgain": "Tabaatabamu buto"
+    },
+    "finishTheSaying": {
+      "guidance": "Musomere wamu olugero luno, oluvannyuma onyige ku kigambo ekirumaliriza.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Yee, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" nakyo kituukana bulungi. Olugero olutera okukozesebwa lukomekkereza na \"{end}\".",
+      "revealed": "Olugero luno luli nti \"{start} {end}.\"",
+      "choicesLabel": "Londa ekigambo ekisembyeyo",
+      "show": "Laga enkomerero",
+      "talk": "Mubinyumyeeko wamu: ",
+      "next": "Olugero oluddako"
+    },
+    "wordSearch": {
+      "guidance": "Ebigambo biri bukiika oba busimba. Nyiga ku nnukuta esooka ey'ekigambo, n'olyoka onyiga ku nnukuta esembayo.",
+      "restart": "Omuzannyo omuggya",
+      "themeLegend": "Omulamwa",
+      "sizeLegend": "Obunene bw'olukalala",
+      "size": {
+        "one": "{n} ku {n} (ekigambo {words})",
+        "other": "{n} ku {n} (ebigambo {words})"
+      },
+      "print": "Fulumya omuzannyo guno",
+      "letterChosen": "Ennukuta {letter} erondeddwa. Kaakano nyiga ku nnukuta esembayo ey'ekigambo.",
+      "found": "{word} kisangiddwa.",
+      "foundAll": "{word} kisangiddwa. Ebigambo byonna biweddeyo. Zzamu ozannye oba wummulamu.",
+      "tryAgain": "Gira mpola. Nyiga ku nnukuta esooka ey'ekigambo, n'olyoka onyiga ku esembayo.",
+      "gridLabel": "Olutimbe lw'ennukuta, ennyiriri {n} ez'ennukuta {n}. Kozesa obusale okutambula wakati w'ennukuta.",
+      "cell": "{letter}, olunyiriri {row}, empagi {col}",
+      "cellFound": ", kitundu ku kigambo ekisangiddwa",
+      "wordsHeading": "Ebigambo eby'okunoonya",
+      "wordFound": " (kisangiddwa)",
+      "sheetTitle": "Okunoonya ebigambo: {theme}",
+      "sheetNote": "Ebigambo biri bukiika oba busimba.",
+      "unavailable": "Olukalala lw'ennukuta terunnyonnyoka bulungi mu lulimi luno, n'olwekyo okunoonya ebigambo tekuli wano. Gezako emizannyo gy'ebifaananyi mu kifo ky'ekyo."
+    },
+    "coloring": {
+      "guidance": "Nyiga ku langi, oluvannyuma onyige ku kitundu ky'ekifaananyi.",
+      "restart": "Ggyamu langi zonna",
+      "cleared": "Olupapula lwererezeddwa buto.",
+      "pageLegend": "Olupapula",
+      "print": "Fulumya olupapula luno",
+      "colorsLabel": "Langi",
+      "paintChosen": "Langi ya {paint} erondeddwa.",
+      "painted": "{part} kaakano kuli mu langi ya {paint|lower}.",
+      "artLabel": "{page}, ebitundu {count} eby'okusiiga",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, tekusiigiddwa",
+      "paints": {
+        "red": "Emyufu",
+        "orange": "Kakiikina",
+        "yellow": "Kyenvu",
+        "green": "Kiragala",
+        "blue": "Bbulu",
+        "purple": "Kakobe",
+        "pink": "Ppinka",
+        "brown": "Kitaka",
+        "sky-blue": "Bbulu ow'eggulu",
+        "cream": "Kkiimu",
+        "gray": "Kikuusikuusu",
+        "white": "Enyeru"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Soma kaada eno mu ddoboozi ery'omwanguka. Tewali kuddamu kutuufu kwokka.",
+      "position": "Kaada {n} ku {total}",
+      "themeLegend": "Omulamwa",
+      "next": "Kaada eddako",
+      "previous": "Kaada eyise",
+      "print": "Fulumya kaada zonna",
+      "sheetTitle": "Kaada ez'okunyumyako"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Tandika n'okulonda ebifaananyi byammwe.",
+      "guidance": "Nyiga ku kifaananyi, oluvannyuma onyige ku kifaanagana nakyo.",
+      "restart": "Tabaatabamu buto",
+      "intro": "**Londa ebifaananyi 2 okutuuka ku 6** okuva ku kyuma kino. Biragibwa ku lupapula luno lwokka era tebitikkibwa ku mutimbagano oba okuterekebwa.",
+      "choose": "Londa ebifaananyi",
+      "chooseDifferent": "Londa ebifaananyi ebirala",
+      "clear": "Ggyamu ebifaananyi",
+      "cleared": "Ebifaananyi biggiddwa ku lupapula luno.",
+      "atLeastTwo": "Bambi londa ebifaananyi ebitakka wansi wa bibiri.",
+      "usingFirst": "Tukozesa ebifaananyi {max} ebisooka.",
+      "skipped": {
+        "one": "Fayiro {count} teyabadde kifaananyi kye tusobola okulaga.",
+        "other": "Fayiro {count} tezaabadde bifaananyi bye tusobola okulaga."
+      },
+      "playAgain": "Zzamu ozannye n'ebifaananyi bino",
+      "empty": "Ebifaananyi byammwe bijja kulabikira wano, buli kimu emirundi ebiri."
+    },
+    "pictureBingo": {
+      "guidance": "Sooka ofulumye kaada zino. Oluvannyuma olage omulangizi ono ku sikuliini esinga obunene gy'olina.",
+      "called": {
+        "one": "{name}. Ekifaananyi {called} ku {total} kiyitiddwa.",
+        "other": "{name}. Ebifaananyi {called} ku {total} biyitiddwa."
+      },
+      "start": "Nyiga ku \"Ekifaananyi ekiddako\" okuyita ekifaananyi ekisooka.",
+      "restart": "Tandika omuzannyo omuggya",
+      "squaresLegend": "Obusenge obuli ku buli kaada",
+      "squares": "Obusenge {n} ({side} ku {side})",
+      "cardsLegend": "Omuwendo gwa kaada ezinaafulumizibwa",
+      "cards": {
+        "one": "Kaada {n}",
+        "other": "Kaada {n}"
+      },
+      "print": {
+        "one": "Fulumya kaada {n} eya bingo",
+        "other": "Fulumya kaada {n} eza bingo"
+      },
+      "ready": "Tuli beetegefu nga mwetegefu",
+      "next": "Ekifaananyi ekiddako",
+      "allCalled": "Buli kifaananyi kiyitiddwa",
+      "alreadyCalled": "Kyamaze okuyitibwa",
+      "sheetTitle": "Bingo ey'ebifaananyi · kaada {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Ssa omukka munda ekyetoolo bwe kiba kigaziwa, era osse ebweru bwe kiba kikendera. Kiyimirira kyokka oluvannyuma lw'okussa emirundi mukaaga.",
+      "paceLegend": "Emisinde",
+      "paceSlow": "Mpolampola (sikonda 5 buli luuyi)",
+      "paceGentle": "Mpolamu (sikonda 4 buli luuyi)",
+      "ready": "Tuli beetegefu buli lw'oba mwetegefu",
+      "in": "Ssa omukka munda",
+      "hold": "Wummulamu",
+      "out": "Ssa omukka ebweru",
+      "start": "Tandika",
+      "stop": "Yimiriza",
+      "started": "Kitandise. Ssa omukka munda ekyetoolo bwe kiba kigaziwa.",
+      "stopped": "Kiyimiriziddwa.",
+      "finished": "Gano gabadde masooba mukaaga ag'ompolampola. Tandika nate buli lw'oba oyagadde."
+    }
+  },
+  "pictures": {
+    "teacup": "Kikopo kya caayi",
+    "kettle": "Buliika",
+    "bread": "Mugaati",
+    "frying-pan": "Ppaani erimu eggi",
+    "cake": "Keeki ey'amazaalibwa",
+    "sunflower": "Kimuli kya kanyombya",
+    "tulip": "Tulipu emmyufu",
+    "watering-can": "Kasansiro k'amazzi",
+    "potted-plant": "Kimera mu kasuwa",
+    "tree": "Muti",
+    "bird": "Kanyonyi ku ttabi",
+    "butterfly": "Kiwojjolo",
+    "dog": "Mbwa",
+    "cat": "Kkapa",
+    "fish": "Kyennyanja kya zaabu",
+    "apple": "Ppeesi emmyufu",
+    "pear": "Peya",
+    "strawberry": "Stroberi",
+    "banana": "Ryenvu",
+    "lemon": "Ndimu",
+    "cherries": "Keri",
+    "house": "Nyumba",
+    "lamp": "Ttaala ey'okummeeza",
+    "armchair": "Ntebe ey'emikono",
+    "key": "Kisumuluzo eky'edda",
+    "umbrella": "Manvuuli",
+    "sailboat": "Lyato ly'amatanga",
+    "car": "Mmotoka ey'edda",
+    "bicycle": "Ggaali",
+    "balloon": "Baluni ey'omukka omubugumu",
+    "lighthouse": "Minaala y'ennyanja",
+    "sun": "Njuba",
+    "moon": "Mwezi n'emmunyeenye",
+    "teapot": "Buliika ya caayi",
+    "apple-pie": "Paayi y'appeesi",
+    "honey-jar": "Ggirasi y'omubisi gw'enjuki",
+    "boiled-egg": "Ggi mu kakopo",
+    "toaster": "Kyuma ky'omugaati",
+    "cheese": "Cizi",
+    "milk-jug": "Kikopo ky'amata",
+    "cupcake": "Kakeeki",
+    "orange": "Mucungwa",
+    "grapes": "Zabbibu",
+    "watermelon": "Wotameroni",
+    "pineapple": "Nanasi",
+    "peach": "Pici",
+    "rose": "Looza",
+    "daisies": "Bimuli bya deesi",
+    "mushroom": "Katiko",
+    "wheelbarrow": "Wilibalo",
+    "birdhouse": "Kanyumba k'ebinyonyi",
+    "cactus": "Kaktasi mu kasuwa",
+    "acorn": "Nsigo y'omuti ogw'ooki",
+    "autumn-leaf": "Koola eryagala okukunkumuka",
+    "rabbit": "Kamyu",
+    "duck": "Mbata",
+    "hen": "Nkoko enkazi",
+    "sheep": "Ndiga",
+    "owl": "Kiwuugulu",
+    "ladybird": "Kasaana",
+    "snail": "Kkovu",
+    "frog": "Kikere",
+    "bee": "Njuki",
+    "clock": "Ssaawa ey'oku kabada",
+    "vase-of-flowers": "Kasuwa ak'ebimuli",
+    "radio": "Laddiyo ey'edda",
+    "books": "Bitabo ebituuliddeganye",
+    "candle": "Musumaali gw'ettaala",
+    "glasses": "Ggalubindi ezisoma",
+    "telephone": "Ssimu",
+    "ball-of-wool": "Kazinga ka wulu",
+    "straw-hat": "Kkofira ey'omusana",
+    "train": "Ggaali y'omukka",
+    "bus": "Bbaasi",
+    "airplane": "Nnyonyi",
+    "suitcase": "Kkese",
+    "tractor": "Ttulakita",
+    "rowing-boat": "Lyato ly'enkasi",
+    "rainbow": "Musoke",
+    "rain-cloud": "Kire ky'enkuba",
+    "snowflake": "Kamyufu k'omuziira",
+    "kite": "Kkaayiti",
+    "sunrise": "Njuba ng'evaayo ku nsozi"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGKLMNOPRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Ebibala",
+          "words": [
+            "PEERA",
+            "YEMBE",
+            "NDIMU",
+            "CUNGWA",
+            "PAPALI",
+            "NDIZI",
+            "BOGOYA",
+            "GONJA",
+            "PEESI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Olusuku",
+          "words": [
+            "KIMULI",
+            "TTAKA",
+            "NSIGO",
+            "KOOLA",
+            "MUTI",
+            "NJUKI",
+            "MUDDO",
+            "TTABI",
+            "KIDIBA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Effumbiro",
+          "words": [
+            "KOPO",
+            "GIIKO",
+            "SOWANI",
+            "WUUMA",
+            "KASO",
+            "CAAYI",
+            "SIGIRI",
+            "MUGATI",
+            "SUWA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Obudde",
+          "words": [
+            "NKUBA",
+            "NJUBA",
+            "MUSANA",
+            "KIRE",
+            "MPEWO",
+            "LADDU",
+            "GGULU",
+            "ZIIRA",
+            "KASANA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Ebisolo",
+          "words": [
+            "MBWA",
+            "KAPA",
+            "NYONYI",
+            "NGEGE",
+            "NTE",
+            "MBUZI",
+            "MBATA",
+            "NKOKO",
+            "NKIMA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Amaka",
+          "words": [
+            "LUGGI",
+            "NTEBE",
+            "TAALA",
+            "BULIRI",
+            "MUKEKA",
+            "DIRISA",
+            "NYUMBA",
+            "MEEZA",
+            "KABADA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kkaada zonna",
+        "food": "Ebyokulya",
+        "home": "Eka",
+        "outdoors": "Ebweru",
+        "animals": "Ebisolo",
+        "travel": "Engendo",
+        "work": "Emirimu n'ebisanyusa",
+        "music": "Ennyimba n'essanyu",
+        "seasons": "Ebiseera by'omwaka"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Kawoowo ki akava mu ffumbiro akakusingira obulungi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kika ki ekyo keeki kye wandironze ku mbaga oba omukolo?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Mbulirako ku byokulya ebiwoomerera oba kaccungiro k'ebibala by'osinga okwagala."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Otera otya okunywa caayi oba kaawa wo?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Kiki ekireetera ekyenkya okuba ekirungi ennyo?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Wali onogoddeko ekibala butereevu okuva ku muti oba ku kimera?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Ebiwoomerera oba ebikaawaatira: biki ebikusingira obulungi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kyakulya ki ekikujjukiza ebbugumu oba ekiseera eky'omusana?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Mbulirako ku nnyumba gye wanyumirwa okubeeramu."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Wawa w'osinga okwagala okutuula n'owummulamu?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Kiki ky'oyagala okukola mu kawungeezi akateefu?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Kintu ki eky'omuwendo kye wandikuumidde mu ssanduuko ey'enjawulo?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ani gwe wandiyiseeyo mu maka go okunywa naye akakopo ka caayi?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Kiki ky'otera okwagala okukola ku lunaku olw'enkuba?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Bimuli ki bye wandisimbye mu lusuku lwo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Mbulirako ku muti oba ekifo eky'omuddo ky'osinga okwagala."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Kiki ekisinga okusanyusa ng'oli mu lusuku?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Langi ki ey'ebimuli gy'osinga okwagala?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Onyumirwa okuba n'ebimera munda mu nnyumba?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Olwolunaku olw'omusana omulungi kiki kye lwandibadde kiriko?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Mbulirako ku mbwa yonna gye wali olabyeko oba gye wamanyiko."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kkapa oba mbwa, oba tewali n'emu? Kiki ky'ozagalamu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Binyonyi ki by'otera okulaba oba okuwulira ebweru?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Wali ovubyeko ebyennyanja, oba okulunda ebyennyanja mu ggirasi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kisolo ki ekisinga obulungi kye wali olabyeko?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Mbulirako ku mmotoka gye wali wayagala."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Wandyagadde kumala lunaku ku lubalama lw'ennyanja oba ku nsozi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Wawa we wandyagadde okugenda nga mutambulako?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Singa wali osobola okubuuka waggulu w'ekifo kyonna, wandironze wa?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Lugendo ki lwe wanyumirwako ennyo?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Mulimu ki gwe wanyumirwako okukola?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Kintu ki eky'okwesanyusaamu kye wandimazeeko essaawa nnyingi ng'okikola?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Kintu ki kye wamanyirwako okukola oba okuddaabiriza?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Magezi ki ge wandiwadde omuvubuka atandika emirimu?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kika ki eky'ennyimba ekikukubisa amagulu olw'essanyu?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Kiki ekireetera akabaga okuba akanvumu era akanyuvu?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Muyimbi ki gw'osinga okwagala okuwuliriza?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Firimu ki oba pulogulaamu ki ey'oku ttivi gy'osinga okwagala okuddamu okulaba?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Kiki ky'osinga okwagala mu biseera eby'omusana?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Kiki ekikusanyusa mu biseera ebikunkumula amakoola?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Kintu ki ekikuleetera ebbugumu ky'oyagala okukola mu kawungeezi aka mpewo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Bubonero ki obusooka okukulaga nti ebyengera bitandise?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Omuziira, enkuba oba omusana: kiki ky'osinga okwagala?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Kimuli mu kasuwa",
+          "regions": {
+            "sky": "Enbega",
+            "table": "Mmeeza",
+            "stem": "Kiti ky'ekimuli",
+            "leaf-left": "Koola erya kkono",
+            "leaf-right": "Koola erya ddyo",
+            "petal-1": "Kikoola ky'ekimuli 1",
+            "petal-2": "Kikoola ky'ekimuli 2",
+            "petal-3": "Kikoola ky'ekimuli 3",
+            "petal-4": "Kikoola ky'ekimuli 4",
+            "petal-5": "Kikoola ky'ekimuli 5",
+            "petal-6": "Kikoola ky'ekimuli 6",
+            "petal-7": "Kikoola ky'ekimuli 7",
+            "petal-8": "Kikoola ky'ekimuli 8",
+            "center": "Wakati w'ekimuli",
+            "pot": "Kasuwa",
+            "pot-rim": "Omumwa gw'akasuwa"
+          }
+        },
+        "house": {
+          "name": "Nyumba",
+          "regions": {
+            "sky": "Ggulu",
+            "sun": "Njuba",
+            "grass": "Muddo",
+            "chimney": "Mulyango gw'omukka",
+            "walls": "Bisenge",
+            "roof": "Kasolya",
+            "door": "Luggi",
+            "window-left": "Ddirisa erya kkono",
+            "window-right": "Ddirisa erya ddyo",
+            "path": "Kkubo"
+          }
+        },
+        "teacup": {
+          "name": "Kikopo kya caayi",
+          "regions": {
+            "background": "Enbega",
+            "saucer": "Ssowaani entono",
+            "handle": "Mukono gw'akakopo",
+            "cup": "Kikopo",
+            "band": "Musipi ku kikopo",
+            "tea": "Caayi"
+          }
+        },
+        "butterfly": {
+          "name": "Kiwojjolo",
+          "regions": {
+            "background": "Enbega",
+            "wing-top-left": "Kkiwaawaatiro kya waggulu ku kkono",
+            "wing-top-right": "Kkiwaawaatiro kya waggulu ku ddyo",
+            "wing-bottom-left": "Kkiwaawaatiro kya wansi ku kkono",
+            "wing-bottom-right": "Kkiwaawaatiro kya wansi ku ddyo",
+            "spot-left": "Katonnyeze ku kkiwaawaatiro kya kkono",
+            "spot-right": "Katonnyeze ku kkiwaawaatiro kya ddyo",
+            "body": "Mubiri"
+          }
+        },
+        "sailboat": {
+          "name": "Lyato ly'amatanga",
+          "regions": {
+            "sky": "Ggulu",
+            "sea": "Nnyanja",
+            "sail-big": "Ttanga eddene",
+            "sail-small": "Ttanga ettone",
+            "mast": "Muti gw'ettanga",
+            "hull": "Lyato",
+            "flag": "Bbendera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Effumbiro n'olusuku",
+          "baskets": [
+            "Mu ffumbiro",
+            "Mu nnimiro"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Ebibala n'ebisolo",
+          "baskets": [
+            "Ebibala",
+            "Ebisolo"
+          ]
+        },
+        "home-travel": {
+          "label": "Awaka n'engendo",
+          "baskets": [
+            "Awaka",
+            "Ebweru"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Haart virliesen",
+      "stopReading": "Ophale mat liesen",
+      "region": "Spill",
+      "restart": "Nei ufänken",
+      "soundOn": "Leis Téin un",
+      "soundOff": "Leis Téin aus",
+      "done": "Fir elo fäerdeg",
+      "feedbackQuestion": "Huet dat haut gehollef?",
+      "feedbackYes": "Jo",
+      "feedbackNo": "Net wierklech",
+      "feedbackThanks": "Merci, datt Dir eis Bescheed sot."
+    },
+    "tile": {
+      "named": "{name}, Plätterchen {n}",
+      "hidden": "Verstoppt Bild, Plätterchen {n}",
+      "withState": "{label}, {state}",
+      "matched": "Passt zesummen",
+      "selected": "Ausgewielt",
+      "picture": "Bild",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "All Puerer sinn zesummen. Spillt nach eng Kéier oder maacht eng Paus.",
+      "photoPair": "E Puer Fotoen, zesummen.",
+      "picturePair": "Zwee Biller mat {name|lower}, zesummen.",
+      "selected": "{name}. Fannt elo dat passend Bild dozou.",
+      "mismatch": "Huelt Iech Zäit. Tippt op e Bild, fir weiderzemaachen.",
+      "mismatchNamed": "{a} an {b}. Huelt Iech Zäit. Tippt op e Bild, fir weiderzemaachen."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tippt op e Bild an duerno op dat Bild, dat dozou passt.",
+      "guidanceHidden": "Tippt op zwee Plättercher, fir se ëmzedréinen. Kuckt no zwee, déi d'selwecht sinn.",
+      "restart": "Nei Biller",
+      "sizeLegend": "Wéi vill Plättercher",
+      "size": {
+        "one": "{n} Plätterchen",
+        "other": "{n} Plättercher"
+      },
+      "viewLegend": "Wéi ee spillt",
+      "viewShowing": "Biller opgedeckt",
+      "viewHidden": "Biller verstoppt",
+      "playAgain": "Nach eng Kéier spille mat neie Biller",
+      "talk": "Zesummen iwwer d'Biller schwätzen"
+    },
+    "choose": {
+      "countLegend": "Wéi vill Biller",
+      "count": "{n} fir auszewielen",
+      "thatOne": "Dat do ass {name|lower}. Huelt Iech Zäit."
+    },
+    "findTheSame": {
+      "guidance": "Kuckt d'Bild uewen un. Tippt ënnen op dat selwecht Bild.",
+      "yes": "Jo, datselwecht: {name|lower}.",
+      "next": "Nächst Bild"
+    },
+    "shadowMatch": {
+      "guidance": "Kuckt de Schiet uewen un. Tippt op d'Bild, dat dee Schiet mécht.",
+      "yes": "Jo, {name|lower} mécht dee Schiet.",
+      "next": "Nächste Schiet",
+      "shadowAlt": "E Schiet, dee passt",
+      "foundAlt": "De Schiet vu {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tippt op e Bild an duerno op de Kuerf, an deen et gehéiert.",
+      "restart": "Nei Biller",
+      "themeLegend": "Thema",
+      "selected": "{name}. Tippt elo op de Kuerf, an deen et kënnt.",
+      "pickFirst": "Tippt fir d'éischt op e Bild, an dann op e Kuerf.",
+      "hint": "{name|lower} kéint an de Kuerf \"{basket}\" goen. Tippt op dee Kuerf, fir et dohin ze leeën.",
+      "placed": "{name|lower} ass elo am Kuerf \"{basket}\".",
+      "sorted": "Alles ass sortéiert. Kuckt d'Kierf zesummen duerch, oder probéiert en anert Thema.",
+      "basket": {
+        "one": "Kuerf \"{basket}\", {count} Bild dran",
+        "other": "Kuerf \"{basket}\", {count} Biller dran"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tippt op ee Stéck an dann op en anert. Si wiesselen d'Plaz.",
+      "restart": "Erëm duercherneenbréngen",
+      "pictureLegend": "Bild",
+      "pictures": {
+        "sailboat": "Seegelboot",
+        "house": "Haus",
+        "balloon": "Ballon",
+        "sunflower": "Sonneblumm",
+        "lighthouse": "Liichttuerm",
+        "cat": "Kaz"
+      },
+      "sizeLegend": "Stécker",
+      "size": {
+        "one": "{n} Stéck",
+        "other": "{n} Stécker"
+      },
+      "pickedUp": "Stéck ausgewielt. Tippt elo dohinner, wou et hikënnt.",
+      "whole": "D'Bild {name|lower} ass erëm ganz. Wielt en anert Bild, wann Dir Loscht hutt.",
+      "swapped": {
+        "one": "Gewiesselt. {correct} vun {total} Stéck ass op der richteger Plaz.",
+        "other": "Gewiesselt. {correct} vun {total} Stécker sinn op der richteger Plaz."
+      },
+      "guideAlt": "Dat ganzt Bild: {name}",
+      "guideText": "Esou gesäit d'Bild aus, wann et ganz ass.",
+      "piece": "Stéck {place}",
+      "pieceInPlace": ", op der richteger Plaz",
+      "piecePickedUp": ", ausgewielt",
+      "places4": [
+        "uewe lénks",
+        "uewe riets",
+        "ënne lénks",
+        "ënne riets"
+      ],
+      "places9": [
+        "uewe lénks",
+        "uewen an der Mëtt",
+        "uewe riets",
+        "an der Mëtt lénks",
+        "an der Mëtt",
+        "an der Mëtt riets",
+        "ënne lénks",
+        "ënnen an der Mëtt",
+        "ënne riets"
+      ],
+      "done": "D'Bild ass erëm ganz. Spillt nach eng Kéier oder maacht eng Paus.",
+      "playAgain": "Erëm duercherneenbréngen"
+    },
+    "finishTheSaying": {
+      "guidance": "Liest d'Spréchwuert zesummen, an tippt dann op dat Wuert, dat et fäerdeg mécht.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Jo, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" passt och. Dat gewinnt Spréchwuert hält mat \"{end}\" op.",
+      "revealed": "D'Spréchwuert heescht: \"{start} {end}.\"",
+      "choicesLabel": "Wielt dat lescht Wuert aus",
+      "show": "D'Enn weisen",
+      "talk": "Schwätzt doriwwer: ",
+      "next": "Nächst Spréchwuert"
+    },
+    "wordSearch": {
+      "guidance": "D'Wierder ginn no riets oder no ënnen. Tippt op deen éischte Buschtaf vun engem Wuert an duerno op dee leschten.",
+      "restart": "Neit Rätsel",
+      "themeLegend": "Thema",
+      "sizeLegend": "Gréisst vum Gitter",
+      "size": {
+        "one": "{n} op {n} ({words} Wuert)",
+        "other": "{n} op {n} ({words} Wierder)"
+      },
+      "print": "Dëst Rätsel drécken",
+      "letterChosen": "Buschtaf {letter} ausgewielt. Tippt elo op dee leschte Buschtaf vum Wuert.",
+      "found": "{word} fonnt.",
+      "foundAll": "{word} fonnt. Dat waren all d'Wierder. Spillt nach eng Kéier oder maacht eng Paus.",
+      "tryAgain": "Huelt Iech Zäit. Tippt op deen éischte Buschtaf vun engem Wuert an duerno op dee leschten.",
+      "gridLabel": "Buschtawegitter, {n} Reie mat {n} Buschtawen. Benotzt d'Pfeiltasten, fir tëschent de Buschtawen ze wiesselen.",
+      "cell": "{letter}, Rei {row}, Kolonn {col}",
+      "cellFound": ", Deel vun engem fonnte Wuert",
+      "wordsHeading": "Wierder fir ze sichen",
+      "wordFound": " (fonnt)",
+      "sheetTitle": "Wierdersich: {theme}",
+      "sheetNote": "D'Wierder ginn no riets oder no ënnen.",
+      "unavailable": "E Buschtawegitter passt net gutt fir dës Sprooch, dofir gëtt d'Wierdersich hei net ugebueden. Probéiert amplaz d'Billerspiller aus."
+    },
+    "coloring": {
+      "guidance": "Tippt op eng Faarf an duerno op en Deel vum Bild.",
+      "restart": "D'Faarwen ewechhuelen",
+      "cleared": "D'Säit ass erëm eidel.",
+      "pageLegend": "Säit",
+      "print": "Dës Säit drécken",
+      "colorsLabel": "Faarwen",
+      "paintChosen": "{paint} ausgewielt.",
+      "painted": "{part} ass elo {paint|lower}.",
+      "artLabel": "{page}, {count} Deeler fir unzemolen",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, net ugemoolt",
+      "paints": {
+        "red": "Rout",
+        "orange": "Orange",
+        "yellow": "Giel",
+        "green": "Gréng",
+        "blue": "Blo",
+        "purple": "Mof",
+        "pink": "Rosa",
+        "brown": "Brong",
+        "sky-blue": "Himmelblo",
+        "cream": "Crème",
+        "gray": "Gro",
+        "white": "Wäiss"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Liest d'Kaart haart vir. Et gëtt keng richteg Äntwerten.",
+      "position": "Kaart {n} vun {total}",
+      "themeLegend": "Thema",
+      "next": "Nächst Kaart",
+      "previous": "Vireg Kaart",
+      "print": "All Kaarte drécken",
+      "sheetTitle": "Gespréichskaarten"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Fänkt u mat Fotoen auswielen.",
+      "guidance": "Tippt op eng Foto an duerno op déi Foto, déi dozou passt.",
+      "restart": "Erëm mëschen",
+      "intro": "**Wielt 2 bis 6 Fotoen** vun dësem Apparat aus. Si ginn nëmmen op dëser Säit gewisen a ginn ni eropgelueden oder gespäichert.",
+      "choose": "Fotoen auswielen",
+      "chooseDifferent": "Aner Fotoen auswielen",
+      "clear": "Fotoen ewechhuelen",
+      "cleared": "D'Fotoe goufe vun dëser Säit ewechgeholl.",
+      "atLeastTwo": "Wielt w.e.g. op d'mannst zwou Fotoen aus.",
+      "usingFirst": "Déi éischt {max} Fotoe gi benotzt.",
+      "skipped": {
+        "one": "{count} Fichier war keng Foto, déi mir weise kënnen.",
+        "other": "{count} Fichiere ware keng Fotoen, déi mir weise kënnen."
+      },
+      "playAgain": "Nach eng Kéier spille mat dëse Fotoen",
+      "empty": "Är Fotoen erschéngen hei, all Foto zweemol."
+    },
+    "pictureBingo": {
+      "guidance": "Dréckt fir d'éischt d'Kaarten aus. Weist dës Säit dann um gréisste Bildschierm, deen Dir hutt.",
+      "called": {
+        "one": "{name}. {called} vun {total} Bild opgeruff.",
+        "other": "{name}. {called} vun {total} Biller opgeruff."
+      },
+      "start": "Tippt op \"Nächst Bild\", fir dat éischt Bild opzeruffen.",
+      "restart": "En neit Spill ufänken",
+      "squaresLegend": "Felder op all Kaart",
+      "squares": "{n} Felder ({side} op {side})",
+      "cardsLegend": "Wéi vill Kaarten ze drécken",
+      "cards": {
+        "one": "{n} Kaart",
+        "other": "{n} Kaarten"
+      },
+      "print": {
+        "one": "{n} Bingokaart drécken",
+        "other": "{n} Bingokaarte drécken"
+      },
+      "ready": "Bereet, wann Dir et sidd",
+      "next": "Nächst Bild",
+      "allCalled": "All d'Biller goufen opgeruff",
+      "alreadyCalled": "Scho genannt",
+      "sheetTitle": "Billerbingo · Kaart {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Otemt an, wann de Krees méi grouss gëtt, an aus, wann e méi kleng gëtt. No sechs Otemzich hält et vu selwer op.",
+      "paceLegend": "Tempo",
+      "paceSlow": "Lues (5 Sekonnen eran an eraus)",
+      "paceGentle": "Sanft (4 Sekonnen eran an eraus)",
+      "ready": "Bereet, wann Dir et sidd",
+      "in": "Otemt an",
+      "hold": "Raschten",
+      "out": "Otemt aus",
+      "start": "Ufänken",
+      "stop": "Ophalen",
+      "started": "Et geet lass. Otemt an, wann de Krees méi grouss gëtt.",
+      "stopped": "Gestoppt.",
+      "finished": "Dat ware sechs lues Otemzich. Fänkt erëm un, wann Dir Loscht hutt."
+    }
+  },
+  "pictures": {
+    "teacup": "Teetass",
+    "kettle": "Waasserkocher",
+    "bread": "Brout",
+    "frying-pan": "Pan mat engem Ee",
+    "cake": "Gebuertsdagskuch",
+    "sunflower": "Sonneblumm",
+    "tulip": "Rout Tulp",
+    "watering-can": "Gisskan",
+    "potted-plant": "Planz am Dëppen",
+    "tree": "Bam",
+    "bird": "Routbrëschtchen um Aascht",
+    "butterfly": "Päiperlek",
+    "dog": "Hond",
+    "cat": "Kaz",
+    "fish": "Goldfësch",
+    "apple": "Rouden Apel",
+    "pear": "Bir",
+    "strawberry": "Äerdbier",
+    "banana": "Banan",
+    "lemon": "Zitroun",
+    "cherries": "Kéisen",
+    "house": "Haus",
+    "lamp": "Dëschluucht",
+    "armchair": "Fotell",
+    "key": "Ale Schlëssel",
+    "umbrella": "Prabbeli",
+    "sailboat": "Seegelboot",
+    "car": "Oldtimer",
+    "bicycle": "Vëlo",
+    "balloon": "Heissloftballon",
+    "lighthouse": "Liichttuerm",
+    "sun": "Sonn",
+    "moon": "Mound a Stären",
+    "teapot": "Teekann",
+    "apple-pie": "Äppeltaart",
+    "honey-jar": "Hunnegglas",
+    "boiled-egg": "Ee am Eeërbecher",
+    "toaster": "Toaster",
+    "cheese": "Kéis",
+    "milk-jug": "Mëllechkännchen",
+    "cupcake": "Cupcake",
+    "orange": "Orange",
+    "grapes": "Drauwen",
+    "watermelon": "Waassermeloun",
+    "pineapple": "Ananas",
+    "peach": "Péisch",
+    "rose": "Rous",
+    "daisies": "Margréidercher",
+    "mushroom": "Pilz",
+    "wheelbarrow": "Schubbkar",
+    "birdhouse": "Vullekëscht",
+    "cactus": "Kaktus am Dëppen",
+    "acorn": "Echel",
+    "autumn-leaf": "Hierschtblat",
+    "rabbit": "Hues",
+    "duck": "Int",
+    "hen": "Hong",
+    "sheep": "Schof",
+    "owl": "Kauz",
+    "ladybird": "Himmelsdéierchen",
+    "snail": "Schleek",
+    "frog": "Fräsch",
+    "bee": "Binn",
+    "clock": "Kamäinsauer",
+    "vase-of-flowers": "Blummevaas",
+    "radio": "Ale Radio",
+    "books": "Bicherstous",
+    "candle": "Käerz",
+    "glasses": "Liesbrëll",
+    "telephone": "Telefon",
+    "ball-of-wool": "Wollknäil",
+    "straw-hat": "Stréihutt",
+    "train": "Dampzuch",
+    "bus": "Bus",
+    "airplane": "Fliger",
+    "suitcase": "Koffer",
+    "tractor": "Trakter",
+    "rowing-boat": "Rudderboot",
+    "rainbow": "Reebou",
+    "rain-cloud": "Reewollek",
+    "snowflake": "Schnéiflack",
+    "kite": "Draach",
+    "sunrise": "Sonnenopgang iwwer den Hiwwelen"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Uebst",
+          "words": [
+            "APEL",
+            "BIR",
+            "PROM",
+            "FIIK",
+            "MELOUN",
+            "KÉISCH",
+            "PÉISCH",
+            "DRAUF",
+            "KIWI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Gaart",
+          "words": [
+            "ROUS",
+            "TULP",
+            "SOM",
+            "BLUMM",
+            "BLAT",
+            "BUMM",
+            "ÄERD",
+            "DÄICH",
+            "BINN"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kichen",
+          "words": [
+            "TASS",
+            "LÄFFEL",
+            "BROUT",
+            "PANZ",
+            "TELER",
+            "GAFEL",
+            "MESSER",
+            "UEWEN",
+            "TEE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Wieder",
+          "words": [
+            "SONN",
+            "REEN",
+            "SCHNÉI",
+            "WAND",
+            "WOLLEK",
+            "STUERM",
+            "NIWWEL",
+            "ÄIS",
+            "HËTZ"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Déieren",
+          "words": [
+            "HOND",
+            "KAZ",
+            "VULL",
+            "FËSCH",
+            "PÄERD",
+            "KOU",
+            "INT",
+            "SCHOF",
+            "HUES"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Doheem",
+          "words": [
+            "DIER",
+            "STULL",
+            "LAMP",
+            "BETT",
+            "SOFA",
+            "AUER",
+            "DËSCH",
+            "BILD",
+            "SPIGEL"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "All Kaarten",
+        "food": "Iessen",
+        "home": "Doheem",
+        "outdoors": "Dobaussen",
+        "animals": "Déieren",
+        "travel": "Ënnerwee",
+        "work": "Aarbecht an Hobbyen",
+        "music": "Musek a Spaass",
+        "seasons": "Joreszäiten"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Wat fir ee Geroch aus der Kichen hutt Dir am léifsten?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Wat fir ee Kuch géift Dir fir e Fest eraussichen?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Verzielt mer gär vun enger Uebsttaart oder engem Dessert, deen Dir gär iesst."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Wéi drénkt Dir Ären Téi oder Kaffi am léifsten?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Wat gehéiert fir Iech zu engem gudde Kaffisdësch?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Hutt Dir schonn emol Uebst direkt vum Bam oder vum Strauch gepléckt?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Séiss oder sauer: Wat hutt Dir léiwer?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Wat fir en Iesse schmaacht fir Iech no Summer?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Verzielt mer gär vun engem Haus, an deem Dir gär gewunnt hutt."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Wou sëtzt Dir am léifsten, fir Iech z'erhuelen?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Wat maacht Dir gär un engem gemittlechen Owend?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Wat fir e klenge Schatz géift Dir an enger spezieller Këscht versuergen?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Wie géift Dir gär op eng Taass Téi invitéieren?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Wat maacht Dir gär un engem verreenten Dag?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Wat fir Blumme géift Dir an e Gaart planzen?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Verzielt mer gär vun engem Bam oder engem Park, deen Iech gefält."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Wat gefält Iech am beschten, wann Dir an engem Gaart sidd?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Wat fir eng Blummefaarf hutt Dir am léifsten?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Hutt Dir gär Planzen am Haus?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Wéi gesäit fir Iech e perfekte sonnegen Dag aus?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Verzielt mer gär vun engem Hond, deen Dir kannt hutt."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kazen oder Honn, oder guer kenger: Wat gefält Iech un hinnen?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Wat fir Vigel gesitt oder héiert Dir dobaussen?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Waart Dir schonn emol fëschen, oder hat Dir en Aquarium?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Wat ass dat schéinst Déier, dat Dir jeemools gesinn hutt?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Verzielt mer gär vun engem Auto, deen Dir gär hat."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Gitt Dir léiwer en Dag op d'Plage oder an d'Bierger?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Wou géift Dir gär eng Kéier eng Tour maachen?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Wann Dir iwwer all Plaz fléie kéint: Wou géif et higoen?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Verzielt mer gär vun engem Ausfluch oder enger Rees, déi Iech gefall huet."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Wat fir eng Aarbecht hutt Dir am Liewe gär gemaach?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Bei wat fir engem Hobby kënnt Dir d'Zäit ganz vergiessen?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Wat hutt Dir fréier gär selwer gemaach oder gefléckt?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Wat fir e Rot géift Dir engem jonke Mënsch ginn, deen ufänkt mat schaffen?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Bei wat fir enger Musek wippt Dir direkt mat de Féiss mat?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Wat gehéiert fir Iech zu engem gelongene Fest?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Wéi ee Sänger oder wéi eng Sängerin lauschtert Dir gär?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Wat fir e Film oder eng Emissioun kuckt Dir ëmmer erëm gär?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Wat hutt Dir am Summer am léifsten?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Wat gefält Iech am Hierscht am beschten?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Wat maacht Dir gär, fir et Iech un engem Wanterowend gemittlech ze maachen?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Wat sinn fir Iech déi éischt Zeeche vum Fréijoer?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Schnéi, Reen oder Sonneschäin: Wat hutt Dir am léifsten?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Blumm am Dëppen",
+          "regions": {
+            "sky": "Hannergrond",
+            "table": "Dësch",
+            "stem": "Still",
+            "leaf-left": "Lénkst Blat",
+            "leaf-right": "Rietst Blat",
+            "petal-1": "Bléieblat 1",
+            "petal-2": "Bléieblat 2",
+            "petal-3": "Bléieblat 3",
+            "petal-4": "Bléieblat 4",
+            "petal-5": "Bléieblat 5",
+            "petal-6": "Bléieblat 6",
+            "petal-7": "Bléieblat 7",
+            "petal-8": "Bléieblat 8",
+            "center": "Bléiemëtt",
+            "pot": "Dëppen",
+            "pot-rim": "Rand vum Dëppen"
+          }
+        },
+        "house": {
+          "name": "Haus",
+          "regions": {
+            "sky": "Himmel",
+            "sun": "Sonn",
+            "grass": "Gras",
+            "chimney": "Kamäin",
+            "walls": "Maueren",
+            "roof": "Dach",
+            "door": "Dier",
+            "window-left": "Lénkst Fënster",
+            "window-right": "Rietst Fënster",
+            "path": "Wee"
+          }
+        },
+        "teacup": {
+          "name": "Teetass",
+          "regions": {
+            "background": "Hannergrond",
+            "saucer": "Ënnertass",
+            "handle": "Hänk",
+            "cup": "Tass",
+            "band": "Sträif op der Tass",
+            "tea": "Téi"
+          }
+        },
+        "butterfly": {
+          "name": "Päiperlek",
+          "regions": {
+            "background": "Hannergrond",
+            "wing-top-left": "Ieweschte lénkse Flillek",
+            "wing-top-right": "Ieweschte rietse Flillek",
+            "wing-bottom-left": "Ënneschte lénkse Flillek",
+            "wing-bottom-right": "Ënneschte rietse Flillek",
+            "spot-left": "Lénkse Punkt",
+            "spot-right": "Rietse Punkt",
+            "body": "Kierper"
+          }
+        },
+        "sailboat": {
+          "name": "Seegelboot",
+          "regions": {
+            "sky": "Himmel",
+            "sea": "Mier",
+            "sail-big": "Grousst Seegel",
+            "sail-small": "Klengt Seegel",
+            "mast": "Mast",
+            "hull": "Boot",
+            "flag": "Fändel"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kichen a Gaart",
+          "baskets": [
+            "An der Kichen",
+            "Am Gaart"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Uebst an Déieren",
+          "baskets": [
+            "Uebst",
+            "Déieren"
+          ]
+        },
+        "home-travel": {
+          "label": "Doheem a Reesen",
+          "baskets": [
+            "Doheem",
+            "Ënnerwee"
+          ]
+        }
+      }
+    }
+  }
+}

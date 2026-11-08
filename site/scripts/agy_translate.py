@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import itertools
 import json
 import re
 import subprocess
@@ -78,21 +79,43 @@ MAX_JOBS = 5  # never more than 5 agy processes at once
 slots = threading.BoundedSemaphore(MAX_JOBS)
 
 
+_rr = itertools.count()
+BACKENDS = ['agy', 'opencode']
+
+
+def _call(backend: str, prompt: str, cwd: str, timeout: int):
+    if backend == 'agy':
+        return subprocess.run(['agy', '--model', MODEL, f'-p={prompt}'], capture_output=True, text=True, cwd=cwd, timeout=timeout)
+    return subprocess.run(['opencode', 'run', prompt], capture_output=True, text=True, cwd=cwd, timeout=timeout)
+
+
 def agy(prompt: str, timeout: int = 900) -> str:
-    """One agy call. Quota/rate errors (429) wait and retry with backoff instead of failing."""
+    """One translation call, alternating agy and opencode. A quota/rate error (429)
+    switches to the other backend; only when both are limited does it wait."""
     wait = 60
     while True:
-        with slots, tempfile.TemporaryDirectory() as cwd:
-            r = subprocess.run(['agy', '--model', MODEL, f'-p={prompt}'], capture_output=True, text=True, cwd=cwd, timeout=timeout)
-        out = r.stdout + r.stderr
-        if 'RESOURCE_EXHAUSTED' in out or 'code 429' in out:
-            print(f'quota hit, waiting {wait}s', flush=True)
+        start = next(_rr)
+        limited = 0
+        for i in range(len(BACKENDS)):
+            be = BACKENDS[(start + i) % len(BACKENDS)]
+            with slots, tempfile.TemporaryDirectory() as cwd:
+                try:
+                    r = _call(be, prompt, cwd, timeout)
+                except subprocess.TimeoutExpired:
+                    continue
+            out = r.stdout + r.stderr
+            if re.search(r'RESOURCE_EXHAUSTED|code 429|rate.?limit|quota', out[:2000], re.I) and len(r.stdout) < 400:
+                limited += 1
+                continue
+            if r.returncode != 0 and not r.stdout.strip():
+                continue
+            return r.stdout
+        if limited:
+            print(f'quota hit on all backends, waiting {wait}s', flush=True)
             time.sleep(wait)
             wait = min(wait * 2, 900)
-            continue
-        if r.returncode != 0 and not r.stdout.strip():
-            raise RuntimeError(r.stderr[-300:])
-        return r.stdout
+        else:
+            raise RuntimeError('no backend produced output')
 
 
 def extract_json(text: str):

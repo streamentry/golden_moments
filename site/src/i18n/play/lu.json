@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Bala kulu",
+      "stopReading": "Lekela dibala",
+      "region": "Manaya",
+      "restart": "Banga kabidi",
+      "soundOn": "Patuisha miadi mifuke",
+      "soundOff": "Jima miadi mifuke",
+      "done": "Tujikije bua lelu",
+      "feedbackQuestion": "Bualu ebu buakuambulwishi lelu anyi?",
+      "feedbackYes": "Eyowa",
+      "feedbackNo": "Nansha kakese",
+      "feedbackThanks": "Tuasakidila bua ditwambila."
+    },
+    "tile": {
+      "named": "{name}, kakese {n}",
+      "hidden": "Tshimfuanyi tshisokoka, kakese {n}",
+      "withState": "{label}, {state}",
+      "matched": "Bidi bipetangane",
+      "selected": "Mbisungula",
+      "picture": "Tshimfuanyi",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Bia bibidi bionso bikadi pamue. Nunaye kabidi anyi nuikishe kakese.",
+      "photoPair": "Foto ibidi pamue.",
+      "picturePair": "Bimfuanyi bibidi bia {name|lower}, pamue.",
+      "selected": "{name}. Mpindieu keba tshikuabo tshia munkatshi.",
+      "mismatch": "Kuenza lukasa to. Kosa pa tshimfuanyi bua kutungunuka.",
+      "mismatchNamed": "{a} ne {b}. Kuenza lukasa to. Kosa pa tshimfuanyi bua kutungunuka."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Kosa pa tshimfuanyi, pashishe kosa pa tshidi tshipetangana natshi.",
+      "guidanceHidden": "Kosa pa tukese tubidi bua kutukudimuna. Keba tubidi tufuanangane.",
+      "restart": "Bimfuanyi bipiatshipia",
+      "sizeLegend": "Bungi bua tukese",
+      "size": {
+        "one": "Kakese {n}",
+        "other": "Tukese {n}"
+      },
+      "viewLegend": "Mushindu wa kunaya",
+      "viewShowing": "Bimfuanyi bidi bimueneka",
+      "viewHidden": "Bimfuanyi bisokoka",
+      "playAgain": "Nayanayi kabidi ne bimfuanyi bipiabipia",
+      "talk": "Yukulayi pamue pa bimfuanyi"
+    },
+    "choose": {
+      "countLegend": "Bungi bua bimfuanyi",
+      "count": "{n} bia kusungula munkatshi",
+      "thatOne": "Atshi ke {name|lower}. Kuenza lukasa to."
+    },
+    "findTheSame": {
+      "guidance": "Tangila tshimfuanyi tshidi kuulu. Kosa pa tshidi tshimfuane kuinshi eku.",
+      "yes": "Eyowa, {name|lower} ya muomumue.",
+      "next": "Tshimfuanyi tshidi tshilonda"
+    },
+    "shadowMatch": {
+      "guidance": "Tangila mundidimbi udi kuulu. Kosa pa tshimfuanyi tshidi tshienzenza mundidimbi au.",
+      "yes": "Eyowa, {name|lower} ke idi yenza mundidimbi au.",
+      "next": "Mundidimbi udi ulonda",
+      "shadowAlt": "Mundidimbi wa kupetangaja",
+      "foundAlt": "Mundidimbi wa {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Kosa pa tshimfuanyi, pashishe kosa pa tshisaka tshitshidi tshiakanyine kubuela.",
+      "restart": "Bimfuanyi bipiatshipia",
+      "themeLegend": "Mutwe wa bualu",
+      "selected": "{name}. Mpindieu kosa pa tshisaka tshitshidi tshiya.",
+      "pickFirst": "Anji kosa pa tshimfuanyi, pashishe kosa pa tshisaka.",
+      "hint": "{name|lower} idi mua kubuela mu \"{basket}\". Kosa pa tshisaka atshi bua kutshitekamu.",
+      "placed": "{name|lower} ikadi mu \"{basket}\".",
+      "sorted": "Bintu bionso bikadi bilongolola. Tangilayi pamue mu bisaka, anyi nukebe mutwe wa bualu mukuabo.",
+      "basket": {
+        "one": "Tshisaka tshia {basket}, munda mudi tshimfuanyi {count}",
+        "other": "Tshisaka tshia {basket}, munda mudi bimfuanyi {count}"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Kosa pa tshitupa tshimue, pashishe kosa pa tshikuabo. Bidi bipinganangana pa muaba.",
+      "restart": "Sampanya kabidi",
+      "pictureLegend": "Tshimfuanyi",
+      "pictures": {
+        "sailboat": "Bwato bua luseba",
+        "house": "Nzubu",
+        "balloon": "Mupila wa lupepele",
+        "sunflower": "Dilolo",
+        "lighthouse": "Tshimunyi tshia mbuya",
+        "cat": "Kanyamu"
+      },
+      "sizeLegend": "Bitupa",
+      "size": {
+        "one": "Tshitupa {n}",
+        "other": "Bitupa {n}"
+      },
+      "pickedUp": "Tshitupa tshiangata. Mpindieu kosa pa muaba utshidi tshiakanyine kuya.",
+      "whole": "{name|lower} idi milongoloke kabidi yonso pamue. Sungula tshimfuanyi tshikuabo dîba dionso diudi musue.",
+      "swapped": {
+        "one": "Mbipinganangane. Tshitupa {correct} pa {total} tshikadi pa muaba watshi muimpe.",
+        "other": "Mbipinganangane. Bitupa {correct} pa {total} bikadi pa miaba yabi mimpe."
+      },
+      "guideAlt": "Tshimfuanyi tshijima: {name}",
+      "guideText": "Mudi tshimfuanyi tshimueneka padi bionso bikumbane.",
+      "piece": "Tshitupa tshia mu {place}",
+      "pieceInPlace": ", pa muaba muimpe",
+      "piecePickedUp": ", tshiangata",
+      "places4": [
+        "kuulu ku dia bakaji",
+        "kuulu ku dia balume",
+        "kuinshi ku dia bakaji",
+        "kuinshi ku dia balume"
+      ],
+      "places9": [
+        "kuulu ku dia bakaji",
+        "kuulu pankatshi",
+        "kuulu ku dia balume",
+        "pankatshi ku dia bakaji",
+        "pankatshi menemene",
+        "pankatshi ku dia balume",
+        "kuinshi ku dia bakaji",
+        "kuinshi pankatshi",
+        "kuinshi ku dia balume"
+      ],
+      "done": "Tshimfuanyi tshikadi tshima kabidi tshitupu. Nayanayi kabidi anyi nuikishe kakese.",
+      "playAgain": "Kudimuna kabidi bitupa"
+    },
+    "finishTheSaying": {
+      "guidance": "Balayi lusumuinu pamue, pashishe kosa pa muaku udi ulujikija.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Eyowa, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" udi wenza kabidi bimpe. Kadi lusumuinu lutubu bamanye lutu lujika ne \"{end}\".",
+      "revealed": "Lusumuinu ludi lamba ne \"{start} {end}.\"",
+      "choicesLabel": "Sungula muaku wa ndekelu",
+      "show": "Leja nshikidilu watshi",
+      "talk": "Yukulayi pa bualu ebu: ",
+      "next": "Lusumuinu ludi lulonda"
+    },
+    "wordSearch": {
+      "guidance": "Miaku idi yenda bululame anyi ipueka. Kosa pa mulemba wa kumpala wa muaku, pashishe pa mulemba wa ndekelu.",
+      "restart": "Manaya mapiamapia",
+      "themeLegend": "Mutwe wa bualu",
+      "sizeLegend": "Bungi bua mikabu",
+      "size": {
+        "one": "{n} pa {n} (muaku {words})",
+        "other": "{n} pa {n} (miaku {words})"
+      },
+      "print": "Tshapa manaya aa",
+      "letterChosen": "Mulemba {letter} musungula. Mpindieu kosa pa mulemba wa ndekelu wa muaku.",
+      "found": "{word} mupeteka.",
+      "foundAll": "{word} mupeteka. Miaku yonso ikadi mipeteke. Nayanayi kabidi anyi nuikishe kakese.",
+      "tryAgain": "Kuenza lukasa to. Kosa pa mulemba wa kumpala wa muaku, pashishe pa mulemba wa ndekelu.",
+      "gridLabel": "Mikabu ya malemba, milongo {n} ya malemba {n}. Enza mudimu ne tusoni bua kuenda pankatshi pa malemba.",
+      "cell": "{letter}, mulongo {row}, mukabu {col}",
+      "cellFound": ", tshitupa tshia muaku mupeteka",
+      "wordsHeading": "Miaku ya kukeba",
+      "wordFound": " (mupeteke)",
+      "sheetTitle": "Kukeba miaku: {theme}",
+      "sheetNote": "Miaku idi yenda butambalale anyi bupwekele.",
+      "unavailable": "Mikabu ya malemba kayena yakanyine muakulu eu to, nunku manaya a kukeba miaku kaena muaba ewu to. Numanye bimfuanyi bikwabo."
+    },
+    "coloring": {
+      "guidance": "Kosa pa langi, pashishe kosa pa tshitupa tshia tshimfuanyi.",
+      "restart": "Jima malangi onso",
+      "cleared": "Dibeji dikadi dipite kabidi butoke.",
+      "pageLegend": "Dibeji",
+      "print": "Tshapa dibeji edi",
+      "colorsLabel": "Malangi",
+      "paintChosen": "Langi wa {paint} musungula.",
+      "painted": "{part} ukadi ne langi wa {paint|lower}.",
+      "artLabel": "{page}, bitupa {count} bia kupenta",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, kayi mupentela",
+      "paints": {
+        "red": "Mukunze",
+        "orange": "Lalanji",
+        "yellow": "Mpondo",
+        "green": "Mutshiishi",
+        "blue": "Bululu",
+        "purple": "Kashikila",
+        "pink": "Mukunze mutekete",
+        "brown": "Maron",
+        "sky-blue": "Bululu bwa diulu",
+        "cream": "Mabele",
+        "gray": "Buto",
+        "white": "Mutoke"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Bala karte aka kulu. Kakwena mandamuna makanyine anyi mabi to.",
+      "position": "Karte {n} pa {total}",
+      "themeLegend": "Mutwe wa bualu",
+      "next": "Karte kadi kalonda",
+      "previous": "Karte ka kumpala",
+      "print": "Tshapa tuarte tuonso",
+      "sheetTitle": "Tuarte tua miyuki"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Bangila ku disungula foto yenu.",
+      "guidance": "Kosa pa foto, pashishe kosa pa idi ipetangana nayi.",
+      "restart": "Kudimuna kabidi",
+      "intro": "**Sungulayi foto 2 too ne ku 6** mu tshiamu etshi. Bidi bimueneka anu pa dibeji edi nkayadi ne kabiena bitekibua anyi bilamibua kukuabo to.",
+      "choose": "Sungula foto",
+      "chooseDifferent": "Sungula foto mikuabo",
+      "clear": "Umusha foto",
+      "cleared": "Foto yonsene ikadi miumushibue pa dibeji edi.",
+      "atLeastTwo": "Nudi nulombibue bua kusungula foto ibidi anyi kupita apu.",
+      "usingFirst": "Tudi tuenza mudimu ne foto {max} tsa kumpala.",
+      "skipped": {
+        "one": "Fishe {count} kayivua foto itudi mua kuleja to.",
+        "other": "Mfishe {count} kayivua foto itudi mua kuleja to."
+      },
+      "playAgain": "Nayanayi kabidi ne foto eyi",
+      "empty": "Foto yenu neyisanganyike muaba ewu, yonso misangu ibidi."
+    },
+    "pictureBingo": {
+      "guidance": "Anji tshapayilayi tuarte. Pashishe lejayilayi tshiamu etshi pa skrini munene unudi nende.",
+      "called": {
+        "one": "{name}. Tshimfuanyi {called} pa {total} bikadi bikidila.",
+        "other": "{name}. Bimfuanyi {called} pa {total} bikadi bikidila."
+      },
+      "start": "Kosa pa \"Tshimfuanyi tshidi tshilonda\" bua kubikila tshimfuanyi tshia kumpala.",
+      "restart": "Banga manaya mapiamapia",
+      "squaresLegend": "Tukese pa karte konso",
+      "squares": "Tukese {n} ({side} pa {side})",
+      "cardsLegend": "Bungi bua tuarte tua kutshapa",
+      "cards": {
+        "one": "Karte {n}",
+        "other": "Tuarte {n}"
+      },
+      "print": {
+        "one": "Tshapa karte {n} ka bingo",
+        "other": "Tshapa tuarte {n} tua bingo"
+      },
+      "ready": "Tukadi badilongolole padi benu bateka",
+      "next": "Tshimfuanyi tshidi tshilonda",
+      "allCalled": "Bimfuanyi bionso bikadi bikidila",
+      "alreadyCalled": "Bikadi bikidila kale",
+      "sheetTitle": "Bingo wa bimfuanyi · karte {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Puyila munda padi mudingilu uvula, pashishe upatulelu padiye ukepela. Bidi biimana nkayabi kunyima kua bipuapuila bisambombo.",
+      "paceLegend": "Lubilu",
+      "paceSlow": "Bitupa bitupa (segonde 5 kumpala ne kunyima)",
+      "paceGentle": "Bitekete (segonde 4 kumpala ne kunyima)",
+      "ready": "Kadi kalongolola panudi badiakaje",
+      "in": "Puyila munda",
+      "hold": "Ikisha",
+      "out": "Patula muoyo",
+      "start": "Banga",
+      "stop": "Imanyika",
+      "started": "Bidi bibange. Puyila munda padi mudingilu uvula.",
+      "stopped": "Bidi biimane.",
+      "finished": "Kuvua bipuapuila bitekete bisambombo. Nudi mua kubangulula dîba dionso dinudi basue."
+    }
+  },
+  "pictures": {
+    "teacup": "Lupanza lua tiyi",
+    "kettle": "Katidire",
+    "bread": "Mukate",
+    "frying-pan": "Lupanu ne dîyi",
+    "cake": "Gato wa disankidila diledibua",
+    "sunflower": "Diloba dia dîba",
+    "tulip": "Tulipe mukunze",
+    "watering-can": "Kasasidi ka mayi",
+    "potted-plant": "Mutshi mu bupawu",
+    "tree": "Mutshi",
+    "bird": "Kayunyi pa lutayi",
+    "butterfly": "Cipukapuka",
+    "dog": "Mbua",
+    "cat": "Kasumu",
+    "fish": "Mushipa wa ngolo",
+    "apple": "Pome mukunze",
+    "pear": "Poire",
+    "strawberry": "Fraise",
+    "banana": "Ditoki",
+    "lemon": "Lelumu",
+    "cherries": "Cerise",
+    "house": "Nzubu",
+    "lamp": "Lampu wa pa mesa",
+    "armchair": "Kasaalu ka matuishi",
+    "key": "Nsapi wa kale",
+    "umbrella": "Lusalampasu",
+    "sailboat": "Buatu bua lupuishi",
+    "car": "Mashinyi a kale",
+    "bicycle": "Kakinga",
+    "balloon": "Mbulumpuka wa lupepele",
+    "lighthouse": "Tshibimbi tshia miinda ku luela lua mayi",
+    "sun": "Dîba",
+    "moon": "Ngondo ne mitoto",
+    "teapot": "Nzubu wa tiyi",
+    "apple-pie": "Gato wa mapome",
+    "honey-jar": "Mulele wa buishi",
+    "boiled-egg": "Dîyi mu lupanza luadi",
+    "toaster": "Tshioshero tshia mikate",
+    "cheese": "Tshitupa tshia fromaje",
+    "milk-jug": "Mbuela wa mabele",
+    "cupcake": "Kakate kakese",
+    "orange": "Lilala",
+    "grapes": "Nzenze",
+    "watermelon": "Ikipe wa pasteke",
+    "pineapple": "Nanasi",
+    "peach": "Peshe",
+    "rose": "Losa",
+    "daisies": "Maloba a pakiite",
+    "mushroom": "Bowu",
+    "wheelbarrow": "Kikukulu",
+    "birdhouse": "Kanzubu ka nyunyi",
+    "cactus": "Kakaktusi mu lupasu",
+    "acorn": "Tshimuma tshia mutshi wa tshene",
+    "autumn-leaf": "Dibeji dia mu tshikondo tshia matamba",
+    "rabbit": "Kandolu",
+    "duck": "Diyoyo",
+    "hen": "Nsolo",
+    "sheep": "Mukoko",
+    "owl": "Cisusuku",
+    "ladybird": "Kakishi ka mvula",
+    "snail": "Nsonkololo",
+    "frog": "Cula",
+    "bee": "Nyuki",
+    "clock": "Nsonga ya pa mudibu",
+    "vase-of-flowers": "Lupawu lua maloba",
+    "radio": "Ladiyo wa kale",
+    "books": "Mukungu wa mikanda",
+    "candle": "Musenyela",
+    "glasses": "Mandondo a kubadila nawu",
+    "telephone": "Nshinga wa kuikila",
+    "ball-of-wool": "Mubungilulu wa wule",
+    "straw-hat": "Tshipele tshia bisoso",
+    "train": "Kawulu ka kanyinganyinga",
+    "bus": "Bisi",
+    "airplane": "Ndeke",
+    "suitcase": "Valise",
+    "tractor": "Traktere",
+    "rowing-boat": "Kabuatu ka nkashi",
+    "rainbow": "Mukongolo",
+    "rain-cloud": "Ditutu dia mvula",
+    "snowflake": "Katupa ka mwele",
+    "kite": "Kaserpanente",
+    "sunrise": "Kutshia kua dîba pa mikuna"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGILMNOPRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Mamuma",
+          "words": [
+            "POME",
+            "POIRE",
+            "TOKI",
+            "LALA",
+            "LEMU",
+            "PESHE",
+            "NZENZE",
+            "BOBO",
+            "NANSI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Budimi",
+          "words": [
+            "LOSA",
+            "MBUTU",
+            "BULABA",
+            "BEJI",
+            "MUTSHI",
+            "MAYI",
+            "NYUKI",
+            "LOBA",
+            "LUSWA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Nzubu wa lukuata",
+          "words": [
+            "PANZA",
+            "LUTAPU",
+            "KATE",
+            "LPANU",
+            "LONGA",
+            "TIYI",
+            "KASU",
+            "KAPIA",
+            "FOSHO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Lupepele ne mvula",
+          "words": [
+            "DIBA",
+            "MVULA",
+            "MWELE",
+            "PEPE",
+            "TUTU",
+            "KONGOLO",
+            "LUBINGU",
+            "TUDI",
+            "KUBA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Nyama",
+          "words": [
+            "MBUA",
+            "KASUMU",
+            "NYUNYI",
+            "SHIPA",
+            "KABALU",
+            "NGOMBE",
+            "YOYO",
+            "MBUJI",
+            "NSOLO"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Mu nzubu",
+          "words": [
+            "TSHIBI",
+            "KASAALU",
+            "LAMPU",
+            "BULALU",
+            "KILAMBA",
+            "SOFA",
+            "NSONGA",
+            "MESA",
+            "NSAPI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Tukarta tuonso",
+        "food": "Bia kudia",
+        "home": "Ku nzubu",
+        "outdoors": "Pambelu",
+        "animals": "Nyama",
+        "travel": "Luendu",
+        "work": "Mudimu ne bidi bisankisha",
+        "music": "Misambu ne disanka",
+        "seasons": "Bikondo bia tshidimu"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Munya kaye ka mu nzubu wa lukuata kanudi banange bikole?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ngato kayi unudi mua kusungula bua tshibilu tshia disanka?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Tulongolwelayi bualu bua tshimuma anyi gato ka mamuma kanudi banange."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Nudi basue kunua tiyi anyi kafe mushindu kayi?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Mbintu kayi bidi bienza biakudia bia pa dinda bilenga menemene?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Kukadi kumpala kukapuila tshimuma pa mutshi watshi anyi?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Bikole ku buuki anyi kubaba, nudi banange kayi kupita kukuabu?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Tshiakudia kayi tshidi tshinuvuluija tshikondo tshia munya ne disanka?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Tulongolwelayi bualu bua nzubu umwe u nuakavua banange kusombelamu."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Mmuaba kayi unudi basue kusomba bua kuikisha?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Nudi basue kuenza tshinyi dilolo padi bintu bipole?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Mbintu kayi bia mushinga unudi mua kulama mu kashibo ka pa buaku?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Muntu kayi unudi mua kubikila bua kunua nende lupanza lua tiyi?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Nudi basue kuenza tshinyi dituku didi mvula uloka?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Mmaloba kayi anudi mua kukuna mu budimi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Tulongolwelayi bualu bua mutshi anyi mpata muaba u mudi banange."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Ntshinyi tshidi tshisankisha bikole panudi mu budimi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Nudi banange maloba a langi kayi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Nudi basue kuikala ne bisoso bidi munda mua nzubu anyi?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Dituku dilenga dia munya dionso didi bimpe mushindu kayi kuudi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Tulongolwelayi bualu bua mbua unuvua bamanye."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Tusumu anyi mbua, anyi kakuena nansha umue? Ntshinyi tshinudi banange kudibu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Tunyanyi kayi tunudi numona anyi numvua pambelu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Kukadi kumpala kuya kukuata mishipa, anyi kulama mishipa mu tshisolo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Munyama kayi mulenga kupita bonso unuvua bamone?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Tulongolwelayi bualu bua mashinyi anuvua banange."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Nudi basue kupitshisha dituku ku luela lua mayi anyi ku mikuna?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Nudi basue kuya kwendakana ne kakinga kuweba kumpala?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Bu nuenu mua kuburuka mu lupepele kuulu kua muaba kampanda, muaba kayi unudi mua kusungula?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Muluendu kayi luakunusankisha bimpe?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Mmudimu kayi unuvua basue kuenza bikole?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ntshisankisho kayi tshinudi mua kupitshisha natshi mêba a bungi?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Mbualu kayi buvua bantu banumanyine nabu bua kulongolola anyi kuluka?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Mmuoyo kayi unudi mua kupeshilangana nsonga udi ubanga mudimu?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Mmusambu kayi udi unusankisha bua kutua mikolo panshi?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ntshinyi tshidi tshivuija feti kuikala ya nsombelu muimpe?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Mmwimbi kayi unudi basue kuteleja misambu yende?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Tshilambu anyi filme kayi tshinudi basue kutangila kabidi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Ntshinyi tshinudi banange bikole mu tshikondo tshia munya?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Ntshinyi tshidi tshinusankisha padi mabeji apoloka ku mitshi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ntshinyi tshia lutulu tshinudi basue kuenza dilolo dia mashika?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Bimanyinu kayi bia kumpala bidi binuleja ne tshikondo tshia mvula ne lupuishi bidi bibanga?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Mwele wa mashika, mvula anyi munya wa dîba: nudi basue kayi?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Diloba mu bupawu",
+          "regions": {
+            "sky": "Luseke lua kunyima",
+            "table": "Mesa",
+            "stem": "Kashishi ka diloba",
+            "leaf-left": "Dibeji dia ku dia bakaji",
+            "leaf-right": "Dibeji dia ku dia balume",
+            "petal-1": "Ditondu 1",
+            "petal-2": "Ditondu 2",
+            "petal-3": "Ditondu 3",
+            "petal-4": "Ditondu 4",
+            "petal-5": "Ditondu 5",
+            "petal-6": "Ditondu 6",
+            "petal-7": "Ditondu 7",
+            "petal-8": "Ditondu 8",
+            "center": "Pankatshi pa diloba",
+            "pot": "Bupawu",
+            "pot-rim": "Munyololo wa bupawu"
+          }
+        },
+        "house": {
+          "name": "Nzubu",
+          "regions": {
+            "sky": "Diulu",
+            "sun": "Dîba",
+            "grass": "Misonhi",
+            "chimney": "Muaba wa muishi",
+            "walls": "Bimano",
+            "roof": "Musakilu",
+            "door": "Tshibi",
+            "window-left": "Dididishi dia ku dia bakaji",
+            "window-right": "Dididishi dia ku dia balume",
+            "path": "Kashila"
+          }
+        },
+        "teacup": {
+          "name": "Lupanza lua tiyi",
+          "regions": {
+            "background": "Luseke lua kunyima",
+            "saucer": "Kalongelwe",
+            "handle": "Mukwate",
+            "cup": "Lupanza",
+            "band": "Musoko pa lupanza",
+            "tea": "Tiyi"
+          }
+        },
+        "butterfly": {
+          "name": "Cipukapuka",
+          "regions": {
+            "background": "Luseke lua kunyima",
+            "wing-top-left": "Dipepu dia kuulu dia ku dia bakaji",
+            "wing-top-right": "Dipepu dia kuulu dia ku dia balume",
+            "wing-bottom-left": "Dipepu dia kuinshi dia ku dia bakaji",
+            "wing-bottom-right": "Dipepu dia kuinshi dia ku dia balume",
+            "spot-left": "Ditoba dia ku dia bakaji",
+            "spot-right": "Ditoba dia ku dia balume",
+            "body": "Mubidi"
+          }
+        },
+        "sailboat": {
+          "name": "Buatu bua lupuishi",
+          "regions": {
+            "sky": "Diulu",
+            "sea": "Mbuya",
+            "sail-big": "Kilamba tshinene",
+            "sail-small": "Kilamba tshikese",
+            "mast": "Mutshi wa kilamba",
+            "hull": "Buatu",
+            "flag": "Bendera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Nzubu wa lukuata ne budimi",
+          "baskets": [
+            "Mu tshikuku",
+            "Mu budimi"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Bimuma ne nyama",
+          "baskets": [
+            "Bimuma",
+            "Nyama"
+          ]
+        },
+        "home-travel": {
+          "label": "Kumbelu ne luendu",
+          "baskets": [
+            "Kumbelu",
+            "Pambelu"
+          ]
+        }
+      }
+    }
+  }
+}
