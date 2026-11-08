@@ -395,6 +395,13 @@
   inset: 0;
   border-radius: inherit;
 }
+.card:has(.card__link:focus-visible) {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 4px;
+}
+.card__link:focus-visible {
+  outline: none;
+}
 .card__link:hover {
   color: var(--gm-on-surface);
 }
@@ -885,6 +892,11 @@ a.small-print {
   align-items: center;
   min-height: 48px;
 }
+a.small-print:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
 .narrow {
   max-width: var(--content-max);
 }
@@ -940,6 +952,29 @@ summary {
   .answer {
     border: 2px solid #222222 !important;
   }
+  .card:has(.card__link:focus-visible) {
+    outline: 4px solid #000000;
+    outline-offset: 4px;
+  }
+  .card__more {
+    color: #000000;
+    font-weight: 800;
+  }
+  .answer::before {
+    background: #000000;
+  }
+  .answer__label {
+    color: #000000;
+    font-weight: 800;
+  }
+  a.small-print:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 2px;
+  }
+  .cta-band {
+    border: 2px solid #000000;
+    background: #FFFFFF;
+  }
   .faq summary::after {
     border: 3px solid #000000;
     color: #000000;
@@ -948,9 +983,6 @@ summary {
   .faq summary:focus-visible {
     outline: 4px solid #000000;
     outline-offset: 4px;
-  }
-  .cta-band {
-    border: 2px solid #000000;
   }
   .notice {
     border: 2px solid #000000;
@@ -1070,6 +1102,25 @@ summary {
   .faq details,
   .answer {
     border: 2px solid CanvasText;
+  }
+  .card:has(.card__link:focus-visible) {
+    outline: 3px solid Highlight;
+    outline-offset: 4px;
+  }
+  .card__more {
+    color: LinkText;
+  }
+  .answer::before {
+    forced-color-adjust: none;
+    background: Highlight;
+  }
+  .answer__label {
+    color: CanvasText;
+    font-weight: 800;
+  }
+  a.small-print:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
   }
   .faq summary::after {
     border: 2px solid CanvasText;
