@@ -8,6 +8,7 @@ type Json = string | number | boolean | null | Json[] | { [key: string]: Json };
 
 const files = import.meta.glob<{ default: Json }>('./ui/*.json', { eager: true });
 
+
 function isObject(value: unknown): value is Record<string, Json> {
   return typeof value === 'object' && value !== null && !Array.isArray(value);
 }

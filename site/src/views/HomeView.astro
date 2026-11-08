@@ -10,7 +10,7 @@ import { pictureUrl } from '../data/pictures';
 import { SITE } from '../lib/site';
 import { playStoreUrl } from '../lib/store-links';
 import { faqPage, organization, website } from '../lib/schema';
-import { localePath, localizeHtml } from '../i18n/locales';
+import { isIndexable, localePath, localizeHtml } from '../i18n/locales';
 import { localizedGames } from '../i18n/games';
 import { PUBLISHED, fill, ui } from '../i18n/ui';
 
@@ -23,7 +23,7 @@ const h = t.home;
 const l = (path: string) => localePath(lang, path);
 const games = localizedGames(lang);
 const featured = games.filter((g) => g.featured).slice(0, 6);
-const jsonLd = [website(), organization(), faqPage(h.faq)];
+const jsonLd = [website(PUBLISHED.filter((p) => isIndexable(p.code)).map((p) => p.bcp47)), organization(), faqPage(h.faq)];
 const collage = ['teacup', 'sunflower', 'dog', 'sailboat'];
 ---
 <BaseLayout title={h.title} rawTitle description={h.description} jsonLd={jsonLd} available={PUBLISHED.map((p) => p.code)}>

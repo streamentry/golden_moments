@@ -3,11 +3,18 @@ import { getCollection } from 'astro:content';
 import { GAMES } from '../data/games';
 import { APP, APP_FAQ, appFaqFor } from '../lib/app';
 import { SITE } from '../lib/site';
+import { isIndexable } from '../i18n/locales';
+import { PUBLISHED } from '../i18n/ui';
 
 /** Self-contained answers from every page, for AI answer engines to quote accurately. */
 export const GET: APIRoute = async () => {
   const guides = (await getCollection('guides')).sort((a, b) => a.id.localeCompare(b.id));
+  const languages = PUBLISHED.filter((l) => isIndexable(l.code)).length;
   const out: string[] = [`# ${SITE.name}: summaries of every page`, '', `Source: ${SITE.url}`, ''];
+  out.push(
+    `Language: these summaries are the English originals. The site is also published in ${languages - 1} other languages as unreviewed machine translations under a language prefix (for example ${SITE.url}/es/); see ${SITE.url}/llms.txt for every language and what each one contains.`,
+    '',
+  );
   out.push('## The Golden Moments app', `URL: ${SITE.url}/app/`, '', APP.summary, '', ...APP.features.map((x) => `- ${x}`), '');
   out.push(`App Store: ${SITE.appStoreUrl}`, `Google Play: ${SITE.playStoreUrl}`, '');
   for (const q of APP_FAQ) out.push(`Q: ${q.q}`, `A: ${q.a}`, '');

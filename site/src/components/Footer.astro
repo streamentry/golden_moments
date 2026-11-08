@@ -18,6 +18,7 @@ const t = ui(lang);
 const f = t.footer;
 const year = new Date(SITE.updated).getFullYear();
 const en = lang !== 'en' ? ` ${t.common.englishOnly}` : '';
+const current = PUBLISHED.find((l) => l.code === lang) ?? PUBLISHED[0]!;
 
 const columns = [
   {
@@ -94,29 +95,35 @@ const columns = [
     </div>
     {
       PUBLISHED.length > 1 && (
-        <nav class="lang-menu" aria-label={t.common.languages}>
-          <h2>{t.common.languages}</h2>
-          <ul>
-            {PUBLISHED.map((l) => (
-              <li>
-                <a
-                  href={localePath(l.code, available.includes(l.code) ? path : '/')}
-                  hreflang={l.bcp47}
-                  lang={l.bcp47}
-                  aria-current={l.code === lang ? 'true' : undefined}
-                >
-                  {l.code === lang && <Icon name="check" size={20} />}
-                  {l.name}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </nav>
+        <details class="lang-menu">
+          <summary>
+            <h2>{t.common.languages}</h2>
+            <span class="lang-menu__current" lang={current.bcp47}>{current.name}</span>
+            <Icon name="arrow" size={20} class="lang-menu__chevron" />
+          </summary>
+          <nav aria-label={t.common.languages}>
+            <ul class="lang-menu__grid">
+              {PUBLISHED.map((l) => (
+                <li>
+                  <a
+                    href={localePath(l.code, available.includes(l.code) ? path : '/')}
+                    hreflang={l.bcp47}
+                    lang={l.bcp47}
+                    aria-current={l.code === lang ? 'true' : undefined}
+                  >
+                    {l.code === lang && <Icon name="check" size={20} />}
+                    {l.name}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        </details>
       )
     }
     <div class="footer-note">
       <p>{f.note}</p>
-      <p>© {year} {t.common.brandName} · {f.publisher} · {SITE.domain}</p>
+      <p>© {year} {t.common.brandName} · {SITE.domain}</p>
     </div>
   </div>
 </footer>

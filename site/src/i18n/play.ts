@@ -71,7 +71,7 @@ const TRANSLATIONS = new Map(
  * Scripts where a letter-by-letter grid does not work well. A translation can
  * still turn the word search on by setting `content.wordSearch.available`.
  */
-export const NO_LETTER_GRID: readonly string[] = ['zh-Hans', 'zh-Hant', 'ja', 'ko', 'th', 'my', 'yo'];
+export const NO_LETTER_GRID: readonly string[] = ['zh-Hans', 'zh-Hant', 'ja', 'ko', 'th', 'my', 'yo', 'lo', 'ii', 'bo', 'dz', 'km', 'zh'];
 
 /**
  * Languages that leave Finish the saying out because a translator could not
@@ -80,7 +80,7 @@ export const NO_LETTER_GRID: readonly string[] = ['zh-Hans', 'zh-Hant', 'ja', 'k
  * dementia, so the game is omitted instead (no page, card or hreflang) until a
  * native speaker adds real ones and removes the language from this list.
  */
-export const NO_SAYINGS_GAME: readonly string[] = ['ha', 'fil', 'pa', 'ne', 'az', 'kn', 'am', 'my', 'uz', 'or', 'as', 'ps', 'yo', 'ig', 'zu', 'so', 'om', 'su', 'sd', 'mn'];
+export const NO_SAYINGS_GAME: readonly string[] = ['ha', 'fil', 'pa', 'ne', 'az', 'kn', 'am', 'my', 'uz', 'or', 'as', 'ps', 'yo', 'ig', 'zu', 'so', 'om', 'su', 'sd', 'mn', 'aa', 'ab', 'ae', 'af', 'ak', 'an', 'av', 'ay', 'azb', 'ba', 'be', 'bg', 'bh', 'bi', 'bm', 'bo', 'br', 'bs', 'ce', 'ch', 'co', 'cr', 'cu', 'cv', 'cy', 'dv', 'dz', 'ee', 'eo', 'et', 'eu', 'ff', 'fj', 'fo', 'fy', 'ga', 'gd', 'gl', 'gn', 'gv', 'ho', 'ht', 'hy', 'hz', 'ia', 'ie', 'ii', 'ik', 'io', 'is', 'iu', 'ka', 'kg', 'ki', 'kj', 'kk', 'kl', 'km', 'kr', 'ks', 'ku', 'kv', 'kw', 'ky', 'la', 'lb', 'lg', 'li', 'ln', 'lo', 'lt', 'lu', 'lv', 'mg', 'mh', 'mi', 'mk', 'mt', 'na', 'nd', 'ng', 'nn', 'no', 'nr', 'nv', 'ny', 'oc', 'oj', 'os', 'pi', 'pt', 'qu', 'rm', 'rn', 'rw', 'sa', 'sc', 'se', 'sg', 'si', 'sm', 'sn', 'sq', 'sr', 'ss', 'st', 'tg', 'ti', 'tk', 'tl', 'tn', 'to', 'ts', 'tt', 'tw', 'ty', 'ug', 've', 'vo', 'wa', 'wo', 'xh', 'yi', 'za', 'zh'];
 
 /** `ui` sections every game uses (the frame and picture tiles). */
 export const SHARED_UI: readonly (keyof PlayUi)[] = ['frame', 'tile'];

@@ -11,14 +11,14 @@ const SITE = 'https://dementiaactivities.games';
 const width = (s) => [...s].reduce((n, ch) => n + (/\p{M}/u.test(ch) ? 0 : /[\u1100-\u115f\u2e80-\ua4cf\uac00-\ud7a3\uf900-\ufaff\ufe30-\ufe4f\uff00-\uff60\uffe0-\uffe6]/.test(ch) ? 2 : 1), 0);
 /** URL prefixes of translated languages; keep in step with src/i18n/locales.ts. */
 // Languages written right to left; the checker expects dir="rtl" on exactly these.
-const RTL_PREFIXES = new Set(['ar', 'fa', 'ur', 'ps', 'sd', 'he']);
+const RTL_PREFIXES = new Set(['ar', 'fa', 'ur', 'ps', 'sd', 'he', 'azb', 'dv', 'ks', 'ug', 'yi']);
 // The language prefix at the start of a path (`vi`, `fil`, `zh-hans`), or undefined. Only registered
 // prefixes count, so /app/ and /faq/ are never mistaken for languages.
 const prefixIn = (path) => {
   const found = path.match(/^\/?([a-z]{2,3}(?:-[a-z]{2,4})?)\//)?.[1];
   return found && LOCALE_PREFIXES.has(found) ? found : undefined;
 };
-const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th', 'bn', 'fa', 'ha', 'ur', 'mr', 'te', 'ta', 'gu', 'pa', 'fil', 'ro', 'ms', 'sw', 'kn', 'ml', 'ne', 'az', 'am', 'my', 'uz', 'or', 'as', 'ps', 'yo', 'ig', 'zu', 'so', 'om', 'jv', 'su', 'sd', 'ca', 'cs', 'da', 'el', 'fi', 'he', 'hr', 'hu', 'nb', 'pt-pt', 'sk', 'sl', 'sv', 'mn']);
+const LOCALE_PREFIXES = new Set(['es', 'pt-br', 'fr', 'de', 'it', 'nl', 'pl', 'ru', 'uk', 'tr', 'ar', 'hi', 'ja', 'ko', 'zh-hans', 'zh-hant', 'vi', 'id', 'th', 'bn', 'fa', 'ha', 'ur', 'mr', 'te', 'ta', 'gu', 'pa', 'fil', 'ro', 'ms', 'sw', 'kn', 'ml', 'ne', 'az', 'am', 'my', 'uz', 'or', 'as', 'ps', 'yo', 'ig', 'zu', 'so', 'om', 'jv', 'su', 'sd', 'ca', 'cs', 'da', 'el', 'fi', 'he', 'hr', 'hu', 'nb', 'pt-pt', 'sk', 'sl', 'sv', 'mn', 'aa', 'ab', 'ae', 'af', 'ak', 'an', 'av', 'ay', 'azb', 'ba', 'be', 'bg', 'bh', 'bi', 'bm', 'bo', 'br', 'bs', 'ce', 'ch', 'co', 'cr', 'cu', 'cv', 'cy', 'dv', 'dz', 'ee', 'eo', 'et', 'eu', 'ff', 'fj', 'fo', 'fy', 'ga', 'gd', 'gl', 'gn', 'gv', 'ho', 'ht', 'hy', 'hz', 'ia', 'ie', 'ii', 'ik', 'io', 'is', 'iu', 'ka', 'kg', 'ki', 'kj', 'kk', 'kl', 'km', 'kr', 'ks', 'ku', 'kv', 'kw', 'ky', 'la', 'lb', 'lg', 'li', 'ln', 'lo', 'lt', 'lu', 'lv', 'mg', 'mh', 'mi', 'mk', 'mt', 'na', 'nd', 'ng', 'nn', 'no', 'nr', 'nv', 'ny', 'oc', 'oj', 'os', 'pi', 'pt', 'qu', 'rm', 'rn', 'rw', 'sa', 'sc', 'se', 'sg', 'si', 'sm', 'sn', 'sq', 'sr', 'ss', 'st', 'tg', 'ti', 'tk', 'tl', 'tn', 'to', 'ts', 'tt', 'tw', 'ty', 'ug', 've', 'vo', 'wa', 'wo', 'xh', 'yi', 'za', 'zh']);
 
 /** Phrases that would make a medical or performance claim. Matched case-insensitively. */
 const BANNED = [
