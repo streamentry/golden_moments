@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 18 / 100 completed**
+**Progress: 19 / 100 completed**
 
 ---
 
@@ -28,6 +28,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 16 | 2026-11-08 | `6424cfa` | Word Search & Paced Breathing Visuomotor Targeting, Focus & Vestibular Stability Architecture | Musa et al. (2023), AbilityNet (2025), WCAG 2.3.3 & W3C COGA: Added hover boundary guidance and 3px focus-visible outline on Word Search cells; differentiated start selection from solved words in high contrast and forced-colors; stabilized Calm Breathing under `prefers-reduced-motion` to eliminate jarring 0.01ms jumps while maintaining pacing; framed matched tile badges with `Highlight` in forced-colors; added auditory confirmation on Word Search restart and Calm Breathing toggle. | Web Games (`games.css`, `WordSearch.tsx`, `CalmBreathing.tsx`) | Done |
 | 17 | 2026-11-08 | `ac12eb5` | Spoken Card Prompt & In-Activity Verbal Assistance Architecture (Read Aloud) | Cannings et al. (2024, JMIR Aging), Alzheimer's Australia Vic (2015), and W3C COGA Objectives 1, 3 & 4: Upgraded `GameFrame.tsx` to support `readAloudText?: string` and added automatic speech cancellation on text changes in `ReadAloud.tsx`. Integrated dynamic spoken prompts: Conversation Cards speaks `card.prompt`; Finish the Saying speaks `saying.start` before reveal and full saying plus conversation prompt after reveal; Picture Bingo speaks called picture name; Find the Same and Shadow Match speak target item names. | Web Games (`GameFrame.tsx`, `ReadAloud.tsx`, `ConversationCards.tsx`, `FinishTheSaying.tsx`, `PictureBingo.tsx`, `FindTheSame.tsx`, `ShadowMatch.tsx`) | Done |
 | 18 | 2026-11-08 | `4dbf511` | Button Pill Focus Conformity, Quiet Action Contrast & Photo Picker High-Contrast Architecture | WCAG 2.4.7, ISO 21801-1, AbilityNet (2025): Fixed rectangular focus outline clipping on pill buttons by adding `.btn:focus-visible` with `border-radius: var(--radius-full)`; eliminated invisible/washed-out `.btn--quiet` under high contrast with reinforced 2px borders; preserved `.btn[aria-pressed='true']` in Windows Forced Colors with system `Highlight` outline; reinforced `.photo-pick` with dashed high contrast borders and shape-conforming focus outlines; added auditory feedback on Photo Pairs restart. | Web Components & Games (`components.css`, `games.css`, `PhotoPairs.tsx`) | Done |
+| 19 | 2026-11-08 | `c4bfe68` | Library Back Path Guard (Test) | Alzheimer's Society checklist 2.1 and 2.2 (read through the view-only sheet summary) and DESIGN.md "keep Back visible": a code trace found no library screen that hides Back or blocks pop (no `automaticallyImplyLeading: false`, no `canPop: false`). Added `back_path_test.dart`, which checks that the category list, pack page and picture game each show one Back control of at least 48 px and that tapping it returns. Verified by hiding Back on the game page: the test fails. No user-facing change; a device check of the back path (backlog G6) is still pending. | App tests (`test/features/legacy_library/`) | Done |
 
 ---
 
@@ -35,5 +36,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 19 | *Next in queue* | Pending |
-| 20–100 | Planned one by one | Pending |
+| 20 | *Next in queue* | Pending |
+| 21–100 | Planned one by one | Pending |
