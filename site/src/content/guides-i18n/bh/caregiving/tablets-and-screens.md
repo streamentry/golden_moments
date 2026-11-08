@@ -1,34 +1,29 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "डिमेंशिया के साथ जी रहल लोग खातिर टैबलेट भा फोन सेट कइल"
+seoTitle: "डिमेंशिया खातिर टैबलेट भा फोन कइसे सेट करीं"
+description: "डिमेंशिया के साथ जी रहल लोग खातिर टैबलेट भा फोन सेट करे के आसान तरीका: एगो एप पर लॉक कइल, बड़हन लिखाई, कम नोटिफिकेशन आ सादा होम स्क्रीन।"
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  टैबलेट भा फोन केहू के हाथ में देवे से पहिले ओकरा के आसान बना लीं। आईपैड आ आईफोन पर गाइडेड एक्सेस (Guided Access) भा एंड्रॉइड पर एप पिनिंग (app pinning) के मदद से ओकरा के एगो एप पर लॉक करीं, भा आसान लेआउट खातिर एप्पल के असिस्टिव एक्सेस (Assistive Access) के इस्तेमाल करीं। लिखाई के साइज बड़ करीं, नोटिफिकेशन बंद करीं, होम स्क्रीन पर बस कुछे जरूरी एप रखीं, आवाज (वॉल्यूम) तय करीं, स्टैंड के इस्तेमाल करीं, आ एप के परमिशन सीमित रखीं। एकर इस्तेमाल मिल-जुल के करीं, आ स्क्रीन के अलावे बाकी कामन में भी साथ दीं।
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "गाइडेड एक्सेस (iPhone, iPad) आ एप पिनिंग (Android) स्क्रीन के तबे ले एगो एप पर रखेला जब ले कि रउआ ओकरा के अनलॉक ना करीं।"
+  - "एप्पल के असिस्टिव एक्सेस दिमाग भा याददाश्त के दिक्कत से जूझ रहल लोग खातिर एगो सादा आ आसान लेआउट देवेला।"
+  - "लिखाई के साइज बड़ करीं आ नोटिफिकेशन आ पॉप-अप बंद क दीं ताकि कवनो रुकावट भा भरम ना होखे।"
+  - "होम स्क्रीन पर बस कुछे जानल-पहचानल एप रखीं, आ शुरू करे से पहिले आवाज सही कर लीं।"
+  - "एगो स्टैंड आ चार्ज करे के तय जगह से डिवाइस के खोजल आ इस्तेमाल कइल आसान हो जाला।"
+  - "एप के परमिशन आ डेटा शेयरिंग के जांच करीं: निजी डिवाइस पर रखल जानकारी आमतौर पर कवनो खास कानून से सुरक्षित ना रहेला।"
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "डिमेंशिया से जूझ रहल केहू के आईपैड पर एप से बाहर जाए से कइसे रोकीं?"
+    a: "Settings > Accessibility > Guided Access में जाके गाइडेड एक्सेस चालू करीं आ एगो पासकोड तय करीं। एप खोलीं, ऊपर वाला बटन (भा पुरान आईपैड पर होम बटन) के तीन बेर दबाईं, आ Start पर टैप करीं। जब ले पासकोड ना डालल जाव, आईपैड ओही एप में रही।"
+  - q: "एंड्रॉइड टैबलेट के कइसे एगो एप पर लॉक करीं?"
+    a: "Settings एप में जाके एप पिनिंग चालू करीं, ई आमतौर पर Security (कबहूँ-कबहूँ Security & location) > Advanced > App pinning में मिलेला। फेर एप खोलीं, Overview खोलीं, ऊपर एप के आइकन पर टैप करीं आ Pin दबाईं। पिन हटावे खातिर राउर पिन (PIN), पैटर्न भा पासवर्ड के जरूरत पड़ी।"
+  - q: "का फोन के मालिक खातिर गाइडेड एक्सेस के इस्तेमाल कइल सुरक्षित बा?"
+    a: "सावधानी बरतीं। एप्पल के कहना बा कि गाइडेड एक्सेस चालू रहला पर क्रैश डिटेक्शन आ इमरजेंसी सर्विस काम ना करेला। अगर ऊ बेकती आपातकालीन फोन खातिर अपने फोन पर निर्भर बाड़न, त गाइडेड एक्सेस के इस्तेमाल तबे करीं जब रउआ उनुका साथे बानी, भा ओकरा जगह असिस्टिव एक्सेस के इस्तेमाल पर विचार करीं।"
+  - q: "डिमेंशिया के साथ जी रहल लोग खातिर केतना स्क्रीन टाइम सही बा?"
+    a: "एकर कवनो तय समय ना होला। अकेले ढेर देर स्क्रीन देखला से बढ़िया बा कि छोट-छोट समय खातिर साथे इस्तेमाल कइल जाव, आ साथ में टहलल, गाना सुनल, घर के काम आ बातचीत के भी शामिल कइल जाव। अगर डिवाइस से झुंझलाहट होखे भा बाकी काम छूटे लागे, त एकर इस्तेमाल कम कर दीं।"
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +60,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+टैबलेट फोटो, संगीत आ आसान खेल साझा करे के एगो बहुत नीक साधन हो सकेला। बाकिर ई भरमावे वाला भी हो सकेला: गलती से छूइ गइला पर कवनो दोसर एप खुल जाला, कवनो नोटिफिकेशन आ जाला, लिखाई बहुत छोट होखेला, भा खेल के बीचे में स्क्रीन बंद हो जाला। राउर तनी-मानी तैयारी एहमें से जादेतर समस्या ठीक कर सकेला।
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+एह तरीका में iPhone, iPad आ Android के अंदर मौजूद सेटिंग के इस्तेमाल कइल गइल बा। सॉफ्टवेयर के वर्जन आ कंपनी के हिसाब से मेनू के नाम बदल सकेला, एहसे अगर कवनो चीज अलग लउके, त अपना डिवाइस खातिर जोड़ल गइल Apple भा Google के पेज देखीं। जब रउआ संगे बइठीं, ओकरा से पहिलहीं ई सेटिंग अपने से कर लीं।
 
-## Should someone with dementia use a tablet or phone?
+## का डिमेंशिया के साथ जी रहल लोग के टैबलेट भा फोन के इस्तेमाल करे के चाहीं?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+ई हर इंसान पर निर्भर करेला। बहुत लोग के तब टैबलेट चलावे में आनंद आवेला जब केहू उनुका संगे बइठल होखे, भले ही ऊ अकेले ना चला पावत होखें। बस एगो एप खोल के, कुछ मिनट खातिर एक संगे इस्तेमाल से शुरुआत करीं। अगर एहसे खुशी मिले आ बातचीत बढ़े, त आगे बढ़ाईं। अगर एकरा से भरम भा झुंझलाहट पैदा होखे, त फोटो एलबम, छापल पन्ना भा संगीत उनुका खातिर जादे सही हो सकेला। हमनी के [प्रिंट करे जोग गतिविधि](/activities/printable/) एकर एगो विकल्प बा।
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+टैबलेट आमतौर पर फोन से आसान होला: एकर स्क्रीन आ फोटो बड़हन होला, आ आपातकालीन जरूरत खातिर ई फोन जइसन अकेला सहारा भी ना होला।
 
-## How do I lock a tablet or phone to one app?
+## कवनो टैबलेट भा फोन के एगो एप पर कइसे लॉक करीं?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+iPhone आ iPad पर गाइडेड एक्सेस (Guided Access), भा Android पर एप पिनिंग (app pinning) के इस्तेमाल करीं। ई दुनो स्क्रीन के तब ले एके गो एप पर रोक के रखेला जब ले कि रउआ कवनो कोड ना डालीं, एहसे अनजाने में छुअइला भा स्वाइप भइला पर कवनो दोसर चीज ना खुली।
 
-### iPad and iPhone: Guided Access
+### iPad आ iPhone: गाइडेड एक्सेस (Guided Access)
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple के गाइडेड एक्सेस निर्देश](https://support.apple.com/en-us/111795) के अनुसार:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. **Settings** खोलीं, **Accessibility** पर टैप करीं, फेर **Guided Access** पर जाके ओकरा के चालू करीं।
+2. **Passcode Settings** में जाके गाइडेड एक्सेस खातिर पासकोड बनाईं। रउआ Face ID भा Touch ID के भी छूट दे सकत बानी।
+3. मर्जी होखे त: **Display Auto-Lock** में ई तय करीं कि सेशन के दौरान स्क्रीन केतना जल्दी लॉक होखे, ताकि खेल के बीचे में स्क्रीन बुझा ना जाव।
+4. जवन एप चलावे के बा, ओकरा के खोलीं।
+5. साइड बटन (iPhone), ऊपर वाला बटन (iPad), भा पुरान डिवाइस पर होम (Home) बटन के तीन बेर लगातार दबाईं।
+6. मर्जी होखे त: स्क्रीन के जवन हिस्सा छूवे से रोके के बा, ओकरा पर गोल घेरा बना दीं। आवाज के बटन बंद करे भा स्क्रीन के घूमे से रोके खातिर **Options** (भा **Session Settings**) पर टैप करीं।
+7. **Start** पर टैप करीं।
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+ई सेशन खतम करे खातिर, उहे बटन फेर से तीन बेर दबाईं, पासकोड डालीं, आ **End** पर टैप करीं। Apple बतावेला कि कुछ पुरान सॉफ्टवेयर में तीन बेर के जगह दू बेर दबावे के पड़ेला।
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**जरूरी बात:** Apple के कहना बा कि गाइडेड एक्सेस चालू रहला पर क्रैश डिटेक्शन (Crash Detection) आ इमरजेंसी सर्विस काम ना करेला। अइसन फोन पर गाइडेड एक्सेस चालू मत छोड़ीं जेकर जरूरत उनुका आपातकालीन फोन करे खातिर पड़ सकेला।
 
-### Android: app pinning
+### Android: एप पिनिंग (app pinning)
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[स्क्रीन पिन करे खातिर Google Android मदद](https://support.google.com/android/answer/9455138?hl=en) के अनुसार:
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. **Settings** एप खोलीं।
+2. **Security** (भा **Security & location**) पर टैप करीं, फेर **Advanced**, फेर **App pinning** पर जाईं। अगर ई ना लउके, त अपना डिवाइस बनावे वाली कंपनी के हेल्प पेज देखीं।
+3. **App pinning** चालू करीं। अनपिन (हटावे) खातिर राउर PIN, पैटर्न भा पासवर्ड के जरूरत पड़ी।
+4. जवन एप चाहीं, ओकरा के खोलीं। स्क्रीन के बीच ले ऊपर स्वाइप क के दबा के रखीं ताकि Overview खुल जाव (भा 3-बटन नेविगेशन में Overview पर टैप करीं)।
+5. एप के झलक (preview) के ऊपर, एप के आइकन पर टैप करीं, फेर **Pin** पर टैप करीं।
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+जेस्चर नेविगेशन में अनपिन करे खातिर, ऊपर स्वाइप क के दबा के रखीं। 3-बटन नेविगेशन में, Back आ Overview के एक साथ दबा के रखीं। 2-बटन नेविगेशन में, Back आ Home के एक साथ दबा के रखीं। फेर आपन PIN, पैटर्न भा पासवर्ड डालीं।
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## का पूरा iPhone भा iPad खातिर कवनो अउरी आसान तरीका बा?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+हाँ। Apple के असिस्टिव एक्सेस (Assistive Access) आम होम स्क्रीन के जगह एगो बहुत आसान स्क्रीन ला देवेला। [Apple एकरा बारे में बतावेला](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) कि एकरा के दिमाग भा याददाश्त के दिक्कत से जूझ रहल लोग खातिर बनावल गइल बा, ताकि ऊ लोग बड़हन आकार आ सीधा-सादा फीचर के मदद से खुद से iPhone चला सके। Apple [iPad पर भी ई सुविधा](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) देवेला।
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **के सेट करी:** Apple के सलाह बा कि कवनो भरोसेमंद मददगार, जइसे कि परिवार के सदस्य भा देखभाल करे वाला जे उनुका के नीक से जानत होखे, ऊ एप आ फीचर चुने में मदद करे।
+- **कहाँ से शुरू करीं:** **Settings > Accessibility > Assistive Access** में जाईं, **Set Up Assistive Access** पर टैप करीं, फेर **Continue** दबाईं।
+- **एप:** रउआ खुद चुनीं कि स्क्रीन पर कवन एप लउकी। Apple के कुछ एप खातिर खास आसान रूप उपलब्ध बा, आ बाकी जादेतर एप अपना आम रूप में जोड़ल जा सकेला।
+- **लेआउट (सजावट):** **Rows** (पढ़े में आसान सूची) भा **Grid** (बड़हन खाना, जेहमे फोटो आ आइकन पर जादे ध्यान रहेला) में से चुनीं।
+- **पासकोड:** एकरा में जाए, बाहर निकले भा सेटिंग बदले खातिर एगो अलग असिस्टिव एक्सेस पासकोड बनावे के पड़ेला। Apple सेट करे के दौरान रिकवरी Apple Account जोड़े के सलाह देवेला, काहे कि एकरा बिना पासकोड भुला गइला पर डिवाइस के पूरा रिसेट करे के पड़ जाई।
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+असिस्टिव एक्सेस ओह लोग खातिर सही हो सकेला जे रोज आपन डिवाइस इस्तेमाल करेला। साथे मिल के खेल खेले खातिर गाइडेड एक्सेस भा एप पिनिंग जादे तेज आ आसान होला।
 
-## How do I make text and pictures bigger?
+## लिखाई आ फोटो के साइज बड़ कइसे करीं?
 
-Increase the text and display size, then check that buttons still fit on screen.
+लिखाई (टेक्स्ट) आ डिस्प्ले के साइज बढ़ाईं, फेर जांच लीं कि बटन स्क्रीन पर ठीक से लउकत बाड़न कि ना।
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone आ iPad:** [Apple के फॉन्ट साइज निर्देश](https://support.apple.com/en-us/102453) के मुताबिक, **Settings > Display & Brightness > Text Size** में जाके स्लाइडर के आगे बढ़ाईं। अउरी बड़ लिखाई खातिर, **Settings > Accessibility > Display & Text Size > Larger Text** में जाईं। Apple बतावेला कि बहुत ढेर बड़ लिखाई भइला पर कुछ बटन दबावे में दिक्कत हो सकेला, एहसे जरूरत के हिसाब से ठीक करीं।
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android:** [Google के टेक्स्ट आ डिस्प्ले सेटिंग मदद](https://support.google.com/accessibility/android/answer/11183305?hl=en) के मुताबिक, **Settings** खोलीं आ **Font size** खोज के स्लाइडर बढ़ाईं। स्क्रीन के सब चीज बड़ करे खातिर **Display size** खोजीं। रउआ **Accessibility > Display size and text** में जाके **Bold text** भी चालू कर सकत बानी। कुछ एप एह सेटिंग के हिसाब से काम ना करेला।
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+[Picture Pairs](/games/picture-pairs/) आ [Find the Same](/games/find-the-same/) जइसन खेलन में, रउआ कम टाइल भा कम विकल्प भी चुन सकत बानी, जेहसे स्क्रीन पर सब कुछ आसान रहेला।
 
-## How do I stop notifications and pop-ups?
+## नोटिफिकेशन आ पॉप-अप के कइसे रोकीं?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+गैर-जरूरी एप के नोटिफिकेशन बंद क दीं, आ गतिविधि के दौरान डू नॉट डिस्टर्ब (Do Not Disturb) के इस्तेमाल करीं।
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone आ iPad:** **Settings > Notifications** में जाईं, **Notification Style** के नीचे कवनो एप पर टैप करीं, आ **Allow Notifications** बंद क दीं ([Apple के नोटिफिकेशन सेटिंग गाइड](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios))। कुछ देर खातिर फोन कॉल, अलर्ट आ नोटिफिकेशन शांत करे खातिर, Control Center खोलीं आ **Focus** बटन में जाके **Do Not Disturb** चालू करीं ([Apple के Do Not Disturb मदद](https://support.apple.com/en-us/105112))। रउआ **Settings > Focus > Do Not Disturb > Set a Schedule** में जाके एकर समय भी तय कर सकत बानी।
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android:** स्क्रीन के ऊपर से नीचे स्वाइप करीं आ **Do Not Disturb** पर टैप करीं, भा **Settings > Modes > Do Not Disturb** में जाईं ([Google के Do Not Disturb मदद](https://support.google.com/android/answer/9069335?hl=en))। **Notification filters** में रउआ चुन सकत बानी कि कवन लोग भा एप के संदेश आवे के छूट रहे। अलग-अलग कंपनी के डिवाइस में ई सेटिंग अलग हो सकेला।
 
-## How do I make a simple home screen?
+## होम स्क्रीन के सादा आ आसान कइसे बनाईं?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+एके गो स्क्रीन पर कुछे जानल-पहचानल एप रखीं आ बाकी सब हटा दीं। एकरा खातिर कवनो एगो सेटिंग नइखे; बस फालतू चीज हटावे के बात बा।
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **तीन से छह गो एप चुनीं:** जइसे कि फोटो, गाना, वीडियो कॉल करे वाला एगो एप आ एगो खेल।
+- **ओकरा के पहिले स्क्रीन पर रखीं,** हर बेर एके जगह पर, आ बाकी सब दोसरा स्क्रीन भा फोल्डर में भेज दीं।
+- **सादा, साफ लउके वाला वॉलपेपर लगाईं,** जइसे कि कवनो एक रंग भा कवनो जानल-पहचानल फोटो, ताकि आइकन साफ लउके।
+- **गैर-जरूरी एप हटा दीं:** कम एप के मतलब बा भरम के कम मौका आ डेटा के कम चोरी।
+- **असिस्टिव एक्सेस पर विचार करीं:** अगर रउआ Apple डिवाइस पर चाहत बानी कि ई काम अपने-आप हो जाव।
 
-## What about volume and sound?
+## आवाज (वॉल्यूम) आ साउंड खातिर का करे के चाहीं?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+डिवाइस हाथ में देवे से पहिलहीं आवाज के सही स्तर पर सेट कर लीं। गाइडेड एक्सेस में रउआ आवाज के बटन बंद कर सकत बानी ताकि गतिविधि के बीचे में आवाज ना बदले। ई भी जांच लीं कि कान के मशीन (हियरिंग एड) लागल बा आ ठीक से काम करत बा।
 
-## Where should the tablet live?
+## टैबलेट के कहाँ राखे के चाहीं?
 
-Give it a stand and a permanent charging spot.
+एगो स्टैंड आ चार्ज करे के एगो पक्की जगह तय करीं।
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **एगो स्टैंड भा केस** जे मेज पर टैबलेट के सोझ खड़ा रखे, एहसे केहू के पकड़े के ना पड़ेला आ उंगली से इशारा कइल आसान हो जाला।
+- **चार्ज करे के एगो तय जगह** जे कबो ना बदले, बढ़िया होई कि रोज इस्तेमाल होखे वाला कमरा के मेज पर चार्जिंग स्टैंड होखे। एहसे टैबलेट हमेशा चार्ज रही आ हमेशा एके जगह पर मिली।
+- **चमक कम करीं:** स्क्रीन के तेज रोशनी वाली खिड़की से दूर रखीं ताकि ओपर चमक ना पड़े।
 
-## How much screen time is okay?
+## केतना देर स्क्रीन देखना सही बा?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+मिनट के कवनो तय गिनती नइखे। पूरा दिन में छोट-छोट समय खातिर साथे डिवाइस इस्तेमाल करे के लक्ष्य रखीं, जेहमे चहल-पहल, संगीत, घर के काम, बातचीत आ बाहर घूमे के भी शामिल होखे। साँझ के ढेर हलचल से संझावेरा के बेचैनी बढ़ सकेला, एहसे स्क्रीन वाला काम दिन में पहिलहीं करे पर विचार करीं। देखीं [साँझ के शांत गतिविधि](/caregiving/late-day-restlessness/)।
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+टैबलेट के अकेले छोड़ देवे के जगह साथे इस्तेमाल कइला से जुड़ाव बनल रहेला। हमनी के गाइड [एके साथे खेल कइसे खेलीं](/caregiving/how-to-play-together/) में एकर तरीका बतावल गइल बा।
 
-## How do I protect their privacy on the device?
+## डिवाइस पर उनुकर गोपनीयता (प्राइवेसी) कइसे सुरक्षित राखीं?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+एप जवन जानकारी जुटावेला ओकरा के सीमित करीं, आ ई मत मान लीं कि सेहत से जुड़ल प्राइवेसी कानून एकरा के सुरक्षित राखेला। अमेरिकी स्वास्थ्य विभाग U.S. Department of Health and Human Services (HHS) [बतावेला](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) कि निजी फोन भा टैबलेट पर राखल भा देखल गइल सेहत संबंधी जानकारी पर HIPAA के नियम आमतौर पर लागू ना होला। जादेतर मामिला में, निजी इस्तेमाल वाला एप में डालल डेटा के HIPAA तब ले सुरक्षित ना राखेला जब ले कि ऊ एप कवनो अधिकृत अस्पताल, डॉक्टर भा स्वास्थ्य बीमा योजना से ना जुड़ल होखे।
 
-HHS suggests:
+HHS के सलाह बा:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- गैर-जरूरी भा अनजान एप, खास क के "मुफ्त" वाला एप से बचीं;
+- जब ले सचहू जरूरत ना होखे (जइसे कि मैप), तब ले एप के लोकेशन के परमिशन मत दीं।
 
-Also consider:
+ईहो ध्यान में राखीं:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **डिवाइस पर पासकोड लगाईं,** आ ओकरा के कवनो सुरक्षित जगह पर लिख के रखीं।
+- फोटो, कैमरा, माइक्रोफोन, फोन नंबर आ लोकेशन के **परमिशन के जांच करीं,** आ जवना के जरूरत ना होखे ओकरा के बंद क दीं।
+- इंस्टॉल करे से पहिले **जांच लीं कि एप का जानकारी बटोरेला।** हमनी के गाइड [डिमेंशिया खातिर एप आ खेल के चुनाव](/caregiving/choosing-apps-and-games/) में प्राइवेसी से जुड़ल एगो चेकलिस्ट बा।
+- **पारिवारिक फोटो के लेके सतर्क रहीं:** ओही फोटो के साझा करीं जेहमे ऊ सहज महसूस करसु, आ जानीं कि एप ओह फोटो के कहाँ रखेला। [Photo Pairs](/games/photo-pairs/) में राउर चुनल फोटो राउर ब्राउजर में ही रहेला।
+- **एप के भीतर खरीदारी बंद करीं** भा उनुका इस्तेमाल वाला खाता से बैंक भा भुगतान के जानकारी हटा दीं।

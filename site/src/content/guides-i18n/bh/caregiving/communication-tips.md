@@ -1,33 +1,29 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "डिमेंशिया के साथ जी रहल लोग से बातचीत के सुझाव"
+seoTitle: "डिमेंशिया में बातचीत के सुझाव: का कहीं आ का ना कहीं"
+description: "डिमेंशिया के साथ जी रहल लोग से बात करे के आसान तरीका: बातचीत कईसे शुरू करीं, सवाल पूछे या गलती सुधारे के जगह का कहीं, आ ध्यान से कईसे सुनीं।"
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  कवनो शांत जगह पर बात करीं, उनकरा सोझा रहीं, उनकर नाम लेके बोलाईं, आ छोट-छोट आसान वाकयन में धीरे-धीरे बोलीं। एक बेर में एके गो सवाल पूछीं, खुला सवालन के जगह दू गो विकल्प दीं, आ जवाब खातिर धीरज से इंतजार करीं। बहस मति करीं, गलती मति सुधारीं आ ना ही इम्तिहान लीं। शब्दन के पाछे के भाव के समझीं, आ जब बोले में दिक्कत होखे लागे त छू के, तस्वीर भा इशारा के सहारा लीं।
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "बातचीत शुरू करे से पहिले आस-पास के शोर कम करीं आ नजर से नजर मिलाईं।"
+  - "छोट-छोट वाक्य बोलीं, एक बेर में एके बात कहीं, आ उ या ई कहे के जगह नाम लीं।"
+  - "खुला सवालन के जगह दू गो विकल्प दीं, भा अइसन सवाल पूछीं जेकर जवाब 'हाँ' भा 'ना' में होखे।"
+  - "जवाब खातिर धीरज से रुकीं। अगर बात समझ ना आवे, त उहे शब्द दोहराईं, फेरु दोसरा शब्दन में समझाईं।"
+  - "बहस मति करीं आ ना ही गलती सुधारीं। उ जे कह रहल बानी, ओकरा पाछे के भावना के समझीं।"
+  - "जब शब्द कम होखे लागें, त छू के, आवाज के मिठास से, चेहरा के भाव आ संग में तस्वीर देख के बात करीं।"
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "डिमेंशिया के साथ जी रहल लोग से का ना कहे के चाहीं?"
+    a: "इम्तिहान लिहला जइसन सवाल (\"का रउआ इयाद बा...?\"), गलती सुधारल (\"ई गलत बा\"), बात भुला गइला के इयाद दियावल (\"हम पहिले ही बता देले रहीं\") आ उनकरा सोझा अइसन बात कइल जइसे कि उ उहाँ बाड़े ही ना, एह सबसे बचीं। बचकानी बोली में बात मति करीं। एह सब से बिना कवनो मदद मिलले उनकरा शर्मिंदगी भा परेशानी हो सकेला।"
+  - q: "का जब उ लोग कवनो बात गलत कहे त हमरा सुधारे के चाहीं?"
+    a: "आमतौर पर ना। अगर कवनो गलत बात से कवनो नुकसान नइखे, त ओकरा के जाने दीं। बहस कइला से उनकर विचार सायदे कबो बदले, बलुक उ परेसान हो सके बानी। एह बात पर ध्यान दीं कि एह घरी उ कइसन महसूस कर रहल बानी आ उनकरा कवना चीज के जरूरत बा।"
+  - q: "जब उनकरा कवनो शब्द ना सूझत होखे त हम का करीं?"
+    a: "पहिले त उनकरा सोचे के समय दीं। अगर उ सचहूं परेशानी में बाड़ी भा बाड़े, त प्यार से कवनो शब्द सुझावल भा उनकर मतलब भांप के पूछल ठीक बा। इशारा कइल, हाथ के संकेत भा तस्वीर देखावल भी मददगार हो सकेला।"
+  - q: "डिमेंशिया के आखिरी दौर में जब बात कइल बहुत कम हो जाला, तब बातचीत कईसे करीं?"
+    a: "सोझा से आईं, बताईं कि रउआ के बानी, आ शांत आवाज आ नरमी से छू के बात करीं। उनकर भावना समझे खातिर चेहरा के भाव आ हाव-भाव देखीं। बिना शब्दन के भी रउआ के लगे रहल, कवनो जानल-पहचानल गीत गुनगुनावल भा हाथ थामल बहुत कुछ कह देला।"
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +39,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+डिमेंशिया के चलते सही शब्द खोजल, लंबा वाक्य समझल, भा आस-पास के शोरगुल के अनदेखा कइल मुश्किल हो सकेला। बाकिर एकर ई मतलब ना हवे कि ऊ लोग जुड़ाव ना चाहेला। बातचीत के माहौल बनावे, बोले आ सुने के तरीका में छोट-छोट बदलाव कइला से रउआ दुनु जने खातिर बातचीत बहुते आसान आ शांत हो सकेला।
 
-## What are the most important tips for talking with someone who has dementia?
+## डिमेंशिया के साथ जी रहल लोग से बात करे के सबसे जरूरी सुझाव का बाड़ें?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+उनकर ध्यान अपनी ओर खींचीं, बात आसान राखीं, आ धीरज धरीं। अगर रउआ सिर्फ पाँच गो बात इयाद रखल चाहत बानी:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **कमरा के शांत राखीं आ उनकरा सोझा रहीं।** टीवी बंद क दीं, आँख के सीध में बइठीं, आ उनकर नाम लेके बोलाईं।
+2. **एक बेर में एके बात कहीं।** छोट-छोट वाक्य, एक गो विचार, एक गो सवाल।
+3. **दू गो में से चुने के विकल्प दीं।** "चाह चाहीं कि कॉफी?" पूछल "रउआ का चाहीं?" पूछे से ढेर आसान होला।
+4. **इंतजार करीं।** जवाब देवे खातिर सामान्य से तनिका जादे समय दीं, आ बीचे में टोके से बचीं।
+5. **बहस भा इम्तिहान मत लीं।** बात सही बा कि गलत एह पर ना, बलुक उनकर भावना कइसन बा एह पर ध्यान दीं।
 
-## How should I start a conversation?
+## बातचीत के शुरुआत कईसे करे के चाहीं?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+माहौल अइसन बनाईं कि जेकर रउआ देखभाल कर रहल बानी उ पूरा ध्यान रउआ पर लगा सकें। [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) सलाह देला कि पहिले शोरगुल कम करीं: रेडियो भा टीवी बंद क दीं, परदा भा दरवाजा बंद करीं, भा कवनो शांत जगह पर चली जाईं।
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **सोझा से आईं।** पाछे से भा बगल से अचानक अइला पर उ डरा सकें बानी।
+- **बताईं कि रउआ के बानी।** "प्रणाम बाबूजी, हम सारा हईं, रउआ बेटी।" एकरा से उनकरा रउआ नाम सोचे के माथापच्ची ना करे के पड़ी।
+- **उनकरा बराबर आईं।** अगर उ बइठल बानी, त बइठ जाईं भा घुटना के बल होईं ताकि रउआ आँख उनकर नजर के बराबर रहे।
+- **आपन आवाज आ चेहरा के भाव जांचीं।** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) सलाह देला कि आपन आवाज, बोली के धीमापन, चेहरा के भाव आ शरीर के भाषा पर ध्यान दीं, आ बातचीत में अपनापन आ सहजता राखीं।
+- **जांच लीं कि चश्मा आ कान के मशीन लगल होखे।** जवना बातचीत के पूरा तरह से देख भा सुन ना सकल जाव, ओकरा के समझल बहुत मुस्किल होला।
 
-## How should I phrase what I say?
+## हम अपनी बात के कइसे रखीं?
 
-Use simple words, short sentences and a calm, low voice.
+आसान शब्द, छोट वाक्य आ शांत, धीमा आवाज के इस्तेमाल करीं।
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **एक वाक्य में एके बात।** "आईं कोट पहिन लीं। ओकरा बाद हमनी के बाहर चलल जाई।" दुनू बात एकही सांस में मत बोलीं।
+- **सर्वनाम के जगह नाम लीं।** "ऊ फोन कइले रहली" के जगह "काकी फोन कइले रहली" कहना जादे साफ होला।
+- **आवाज भारी राखीं, चिखीं मत।** Family Caregiver Alliance जोर से चिल्लाए के जगह शांत आ धीमा आवाज में बोले के सलाह देला।
+- **पहिले दोहराईं, फेरु दोसरा तरह से कहीं।** अगर बात समझ में ना आइल होखे, त उहे शब्द एक बेर फेरु कहीं। अगर तबो बात ना बने, त तनी रुक के दोसरा शब्दन में समझाईं।
+- **बोले के साथ-साथ दिखाईं भी।** कप के तरफ इशारा करीं, दुनू स्वेटर उठा के दिखाईं, भा पहिला कदम क के देखाईं।
+- **उनकरा से बात करीं, उनकरा बारे में दोसरा से ना।** NIA चेतावेला कि उनकरा सोझा अइसन बात मति करीं जइसे उ उहाँ बानी ही ना, आ लरिकन जइसन बोली बोले से बचीं।
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA आम सवालन के आसान तरीका से पूछे के सलाह देला। ओह आधार पर कुछ उदाहरण ई बाड़ें:
 
-| Instead of | Try |
+| एकरा जगह | ई कह के देखीं |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "रात के खाना में का खाए के मन बा?" | "मछरी चाहीं कि चिकन?" |
+| "कैसन लागत बा?" | "का रउआ थकावट लागत बा?" |
+| "का भूख लागल बा?" | "खाना बस पाँच मिनट में तइयार हो जाई।" |
+| "ई अइसन ना कइल जाला।" | "आईं, एकरा के एह तरह से क के देखीं।" |
+| "का रउआ झील वाला घूमल इयाद बा?" | "हम अपनी झील वाली सैर के बारे में सोचत रहीं। बताईं ना कि रउआ ओह में सबसे बढ़िया का लागल रहे?" |
+| "हम पहिले ही बता देले रहीं।" | फेरु से प्यार से जवाब दीं, जइसे कि पहिला बेर बतावत होखीं। |
 
-## How do I listen well?
+## ध्यान से सुने के तरीका का बा?
 
-Listen for the meaning and the feeling, not just the words.
+सिर्फ शब्दन पर ना, ओकरा पाछे के मतलब आ भावना पर ध्यान दीं।
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **इंतजार करीं।** चुप रहल अक्सर सोचे के समय होला। बीचे में बोले से पहिले मन ही मन दस तक गिनती गिनीं।
+- **तबे शब्द सुझाईं जब उ अटक रहल बाड़े।** Family Caregiver Alliance कहेला कि जब केहू शब्द खोजे में परेसान होखे, त प्यार से शब्द सुझावल ठीक बा।
+- **जवना बात सुननी, ओकर तसल्ली करीं।** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) सलाह देला कि उनकर बात के पाछे के मतलब समझीं आ उहे बात दोहरा के पक्का करीं कि रउआ सही समझनी कि ना। "का रउआ गाड़ी के लेके चिंता बा?"
+- **उनकर चेहरा आ शरीर के हाव-भाव देखीं।** NIA बतावेला कि जब बोले में दिक्कत होखे लागेला, त उदासी, गुस्सा भा बेचैनी शब्दन के तुलना में चेहरा के भाव से ढेर साफ लउके लागेला।
+- **उनकर चिंता के गंभीरता से लीं।** भले ही कवनो चिंता गलतफहमी पर आधारित होखे, बाकिर उनकर महसूस कइल एकदम सच होला।
 
-## What if they say something that is not true?
+## अगर उ लोग कवनो अइसन बात कहें जवन सच ना होखे त का करीं?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+बहस मति करीं। बहस जीतल मुश्किल बा, आ हो सकेला कि सामने वाला शर्मिंदा भा डेराइल महसूस करे लागो। एकरा जगह, उनकर भावना के समझीं, आ फेरु प्यार से बात आगे बढ़ा दीं।
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance सलाह देला कि बात दोसरा तरफ मोड़े से पहिले भावना के स्वीकार करीं। जइसे कि, अगर माई कहे लगें कि उनकरा लरिकन के स्कूल से ले आवे के बा:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- एकरा जगह: "माई, रउआ लरिका अब सयान हो गइल बाड़ें। ई चालिस साल पहिले के बात हवे।"
+- ई कह के देखीं: "रउआ हमेशा से एतना ध्यान राखे वाली माई रहनी। हमरा के बताईं ना कि रउआ उनकरा के कइसे ले आवे जात रहनी। का पहिले हमनी के कुछ नाश्ता क लीं?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association भी ई सलाह देला कि जवना बात से रउआ सहमत नइखीं, ओकरा पर बहस मति करीं। मौका समझीं: अगर कवनो गलत बात से कवनो नुकसान नइखे, त ओकरा के अनसुना क दीं।
 
-## How does communication change as dementia progresses?
+## डिमेंशिया जइसे-जइसे बढ़ेला, बातचीत कइसे बदले लागेला?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+समय के साथ जरूरत बदले लागेला, एहसे आपन तरीका भी बदलीं। Alzheimer's Association एकरा के तीन गो बड़ दौर में बतवले बा:
 
-| Stage | What helps |
+| दौर | का मदद करेला |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| शुरुआती | ई मत मान लीं कि उ बात नइखन कर सकत। उनकरा के बातचीत में शामिल करीं, सीधे उनकरा से बात करीं, पूछीं कि उनकरा कइसन मदद चाहीं, आ अगर बात बने त हँसी-मजाक के सहारा लीं। |
+| बीच के दौर | कवनो शांत जगह पर आमने-सामने बात करीं। धीरे-धीरे बोलीं, नजर मिलाईं, 'हाँ' भा 'ना' वाले सवाल पूछीं, एक-एक कदम करके समझाईं, आ नुकस मति निकालीं भा गलती मति सुधारीं। |
+| आखिरी दौर | सोझा से आईं आ बताईं कि रउआ के बानी। हाथ के इशारा आ संकेत के बढ़ावा दीं। छू के, आवाज, देख के आ सूंघ के जुड़ाव बनाईं। कबो अइसन बात मति करीं जइसे उ उहाँ बाड़े ही ना। |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+हर इंसान अलग होला, आ एके इंसान खातिर कवनो दिन बढ़िया त कवनो दिन भारी हो सकेला। उ एह घरी कइसन बानी ओकरा हिसाब से व्यवहार करीं, कवनो बीमारी के नाम के हिसाब से ना।
 
-## Can pictures and activities make conversation easier?
+## का तस्वीर आ खेल-कूद से बातचीत आसान हो सकेला?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+हाँ। साथे मिल के तस्वीर देखला से दबाव कम हो जाला आ रउआ दुनु जने खातिर कुछ देखे आ इशारा करे के मिल जाला।
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **तस्वीर वाला संकेत।** [Conversation Cards](/games/conversation-cards/) अइसन तस्वीर देला जेह में खुला सवाल होलें, जेह में कबो इम्तिहान नइखे लिहल जात।
+- **परिवार के तस्वीर।** [Photo Pairs](/games/photo-pairs/) रउआ चुनल तस्वीरन के एगो सहज मिलान वाला खेल बना देला, जेकरा से अक्सर पुरानी याद ताजा हो जाला।
+- **पहचानल कहावत।** [Finish the Saying](/games/finish-the-saying/) जानल-मानल अमेरिकी कहावत के इस्तेमाल करेला, जेकरा बाद बातचीत शुरू करे के मौका मिलेला।
+- **बातचीत के साथ मिलान खेल।** [Picture Pairs](/games/picture-pairs/) बातचीत करत घरी हाथन के कवनो काम में व्यस्त राखे के मौका देला।
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+अउरी जानकारी खातिर देखीं कि [साथे मिल के खेल कइसे खेलल जाव](/caregiving/how-to-play-together/) आ [पुरानी याद ताजा करे वाली गतिविधि](/activities/reminiscence/)। भेंट-मुलाकात आ फोन खातिर, हमनी के [मुलाकात करे](/activities/visiting/) आ [फोन आ वीडियो कॉल](/activities/phone-and-video-calls/) के निर्देश पढ़ीं।
 
-## What if I lose my patience?
+## अगर हमार धीरज छूट जाए त का करीं?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+ई सभका साथे होला। NIA सलाह देला कि अगर रउआ झुंझलाहट महसूस होखे, त शांत होखे खातिर तनिका समय लीं। दोसरा कमरा में चल जाईं, कुछ लमहर-धीमा सांस लीं, आ जब सहज महसूस होखे तब वापस आईं। रउआ बातचीत दोबारा शुरू कर सकत बानी, आ हो सकेला कि रउआ के शांत देख के ऊहो शांत हो जास। अगर खीझ लगातार बनल रहत बा, त एकर मतलब ई बा कि रउआ अउरी मदद के जरूरत बा, ई ना कि रउआ कवनो कमी बा। हमनी के [देखभाल करे वाला लोग के खुद के देखभाल](/caregiving/caregiver-self-care/) गाइड में मदद पाए के कई जरिया बतावल गइल बा।
