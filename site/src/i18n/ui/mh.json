@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Kōtļo̧k n̄an kōmeļeļe ko ilowa",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "M̧akūtkūt ko n̄an ro ewōr meļo̧kļo̧k ippāer",
+    "homeLabel": "Jikin jinoin an Golden Moments",
+    "mainNav": "Bōkake eo Elap",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Kajin M̧ajeļ",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: pija ko rekilep im em̧m̧an kōn kaab in ti, wūt sunflower, im juon kidu",
+    "languages": "Kajin",
+    "englishOnly": "(Kajin Pālle)",
+    "machineTranslated": "Peij in kar ukōte kōn kōm̧būwōta im ejan̄in em̧m̧an an juon armej in Majōl etale.",
+    "readOriginal": "Riit kōmeļeļe eo jinete ilo Kajin Pālle",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Ikkure ko",
+      "activities": "M̧akūtkūt ko",
+      "caregiving": "Lale armej",
+      "brainHealth": "Ājmour an kōmālolo"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Kajjitōk im uwaak ko",
+    "breadcrumb": "Iaļ eo",
+    "home": "Jikin jinoin",
+    "lastUpdated": "Āliktata an kōkāāl",
+    "topics": "Unin kōnono ko",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Kilep an jeje",
+      "smaller": "Jeje ekkar",
+      "larger": "Jeje rekilepļo̧k",
+      "contrast": "Alikkarļo̧k an kōlla"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
+    "play": "Ikkure",
+    "picturePairs": "Pija ko rej jim̧or",
+    "conversationCards": "Kaat in bwebwenato",
+    "pictureBingo": "Pija in bin̄ko",
+    "allGames": "Aolep ikkure ko",
+    "pictures": "Pija ko n̄an kabbōj",
+    "activityIdeas": "Lōmnak ko kōn m̧akūtkūt",
+    "ideas101": "101 lōmnak ko kōn m̧akūtkūt",
+    "lateStage": "M̧akūtkūt ko ilo iien ko rōm̧wilaļļo̧k",
+    "printable": "M̧akūtkūt ko remaron̄ bōj",
+    "allActivities": "Aolep m̧akūtkūt ko",
+    "forCaregivers": "N̄an ro rej lale armej",
+    "playTogether": "Wāween amiro jim̧or ikkure",
+    "selfCare": "Lale eok mōke",
+    "brainHealth": "Etale ko kōn ājmour an kōmālolo",
+    "faq": "Kajjitōk im uwaak ko",
+    "about": "Kōn kōm",
+    "approach": "Wāween am kōm̧m̧ane",
+    "howWeWrite": "Wāween am jeje",
+    "organizations": "N̄an doulul ko",
+    "app": "App eo an Golden Moments",
+    "appHelp": "Jiban̄ kōn app eo",
+    "support": "Jiban̄",
+    "legal": "Kakkien ko",
+    "sitePrivacy": "Kōjparok pōjrak ilo website in",
+    "appPrivacy": "Kakkien in kōjparok pōjrak ilo app eo",
+    "privacyChoices": "Kāālōt ko am kōn kōjparok",
+    "terms": "Kakkien ko im mālim an app eo",
+    "safety": "Kōjparok im un eo n̄an kōjerbale",
+    "accessibility": "M̧ōkaj im bidodo an jerbal n̄an aolep",
+    "healthNotice": "Kōjeļā kōn meļo̧kļo̧k an ājmour",
+    "allLegal": "Aolep kōmeļeļe ko ikkijeen kakkien",
+    "note": "Golden Moments ej lewaj m̧akūtkūt ko rebidodo n̄an amiro jim̧or m̧ōņōņō kake. Ej jab menin kapilōk kōn takto, jab teej ak uno, im ej jab kapen nan̄inmej, jon̄e ak kōlaajike jabdewōt armej. N̄an kajjitōk ko kōn ājmour, kōnono ippān takto. Ilo jidimkīj, kalōk 911.",
     "publisher": "Published by Cloudjet Solutions Pte. Ltd."
   },
   "home": {
     "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "description": "Ikkure in pija ko rejidimkīj jab, ejjeļo̧k wōņāer n̄an ikkure ilo intōnet im lōmnak kōn m̧akūtkūt n̄an ro ewōr meļo̧kļo̧k ak Alzheimer's ippāer im ro rej lale er. Ejjeļo̧k kaduļo̧k eta, awa ak buin kōttōbar.",
+    "eyebrow": "Ejjeļo̧k wōņāān · Ejjeļo̧k kōllaajrak in wia · Ejjeļo̧k kaduļo̧k eta · Ejjeļo̧k awa ak buin kōttōbar",
+    "h1": "Ikkure im M̧akūtkūt ko Rennem̧an n̄an Ro Ewōr Meļo̧kļo̧k Ippāer",
+    "lede": "Ikkure in pija ko rebidodo, pija ko ejeļā kajjier, im m̧akūtkūt ko n̄an amiro m̧ōņōņō jim̧or kake—ilo iien eo amiro mōke ej em̧m̧an.",
+    "playGame": "Kōm̧m̧an juon Ikkure",
+    "findIdeas": "Pukot lōmnak ko kōn m̧akūtkūt",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Maron̄ jerbal ilo talboon, tablet im kōm̧būwōta",
+      "Pija ko rekilep rej pedpād wōt n̄an lali",
+      "Bōjrak jabdewōt iien; ejjeļo̧k luuj ak bōd"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Bar ewōr juon app ejjeļo̧k wōņāān n̄an iPhone, iPad im Android, kōn pija ko an baamle eo am mōke",
+    "albumNote": "“Pija ko ruo an kaab in ti eo, rej jim̧or.”",
+    "gamesEyebrow": "Ikkure ilo browser eo am",
+    "gamesTitle": "Ikkure ko kwomaron̄ kōm̧m̧ani kiiō wōt",
+    "gamesLede": "Kajjojo iaer rennem̧an, jejjet n̄an rūtto im emōkaj aer jinoe. Kāālet juon, jijet ippān doon, im kōtļo̧k bwe ren jijin̄e kajjojo iien.",
+    "seeAllGames": "Lale aolep ikkure ko {count}",
+    "howTitle": "Wāween an jerbal",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Kāālet men ko kwojeļā kajjier",
+        "text": "Pija ko kōn kaab in ti, jikin kallo, kidu ak kuuj, im wa ko rewa. Ejjeļo̧k riit ak kakkien ko n̄an ekkatak kake m̧okta."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Jijet ituran doon",
+        "text": "Kōtļo̧k aer jijin̄e pija ko. Bwebwenato kōn pija ko. N̄e rej jab ekkar pija ko, ej kōttar wōt bar juon jipin̄."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Bōjrak ilo iien eo ej em̧m̧an wōt bōro",
+        "text": "Juon wōt ikkure ej bwe n̄an juon m̧akūtkūt. Naan eo “Em̧ōj n̄an kiiō” ej pād wōt ioon screen eo."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Men ko ruum̧wijin screen eo",
+    "stageTitle": "Lōmnak ko kōn m̧akūtkūt n̄an jabdewōt iien",
+    "stageLede": "Al, jerbal ko an kajjojo raan, keememej iien ko m̧okta im iien ko rōnnem̧an, kōm̧m̧ani bwe ren ekkar n̄an men ko rej em̧m̧an kiiō.",
+    "ideas101": "101 lōmnak ko kōn m̧akūtkūt",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Jinoin iien",
+        "text": "Wōnm̧aanļo̧k wōt kōn men ko rejitōb ippāer, ak kōm̧m̧an jidik oktak ko: m̧akūtkūt ko rōm̧ōņōņō kake, etal n̄an iaļo ko, ikkure in naan, im karōk ippān doon.",
+        "label": "Lōmnak ko n̄an jinoin iien"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Iolap in iien",
+        "text": "Jerbal ko rebidodo im ejeļā kajjier kōm̧m̧ani kajjojo iien: aolepe nuknuk, aalike men ko, al, ikkure in pija, im etetal kadu.",
+        "label": "Lōmnak ko n̄an iolap in iien"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Iien ko rōm̧wilaļļo̧k",
+        "text": "Kaenōm̧m̧an im bōk konam̧ kōn un̄ūr, ainikien, im loe: lale pā, al ko rōm̧m̧an tata, pija ko, im pād wōt ippān doon.",
+        "label": "Lōmnak ko n̄an iien ko rōm̧wilaļļo̧k"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Kwoj pukot juon men ealikkar ke? Kajjioon <a href=\"/activities/alzheimers/\">m̧akūtkūt im ikkure ko n̄an Alzheimer's</a>, <a href=\"/activities/memory-games/\">ikkure rennem̧an kōn keememej</a>, <a href=\"/activities/trivia/\">kajjitōk ko rebidodo</a> ak <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "approachEyebrow": "Wāween am lale",
+    "approachTitle": "Juon m̧akūtkūt in kōm̧m̧an jim̧or, ej jab juon teej in keememej",
+    "approachLede": "Elōn̄ “ikkure in kōmālolo” rej kōm̧m̧an kōn mōkaj, buin kōttōbar, im ron̄jak in kakkwōj. N̄an juon eo ewōr meļo̧kļo̧k ippān, men in emaron̄ einwōt juon teej. Kōm kar kōm̧m̧ane bwe en jab einwōt men in.",
+    "approachLink": "Etke kōm kar kōm̧m̧ane ilo wāween in",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ejjeļo̧k luuj ak bōd",
+        "text": "Ejjeļo̧k awa, kōttōbar, mour ak luuj. Juon pija eoktak ej jidik kakkije wōt, jab juon bōd."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Pija ko rej pād wōt n̄an lali",
+        "text": "Kile men ko m̧okta jān kakememeji. Pija ko rej pād wōt n̄an lali m̧okta, kōn men in ejjeļo̧k men in n̄an kakememeje."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Ekkar n̄an rūtto im ewōr kōjparok ie",
+        "text": "Naan ko rōnnem̧an, rebidodo im pija ko ilo mour e mol. Ej jab cartoons ak kōnono in ajri."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Kōjparok pōjrak ilo jinoin wōt",
+        "text": "Ejjeļo̧k account ak kōllaajrak in wia. Pija ko am reban jeļo̧k jān talboon ak kōm̧būwōta eo am."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "N̄an ro rej lale armej",
+    "guidesTitle": "Kōmeļeļe ko relukkuun jiban̄ n̄an lale armej ilo raan otemjej",
+    "allCaregiving": "Aolep kōmeļeļe ko kōn lale armej",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Wāween amiro jim̧or ikkure",
+        "text": "Kōpooj, jon̄an iien, im ta eo kwomaron̄ kōm̧m̧ane n̄e ikkure eo ej jab bar m̧ōņōņō ie."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "N̄e rej ba jaab n̄an juon m̧akūtkūt",
+        "text": "Un ko rekka aer kōm̧m̧an bwe ren jab kōņaan, im wāween ko rennem̧an n̄an bar kajjioon tokālik."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Kōpooj juon tablet",
+        "text": "Jeje rekilepļo̧k, dikļo̧k men ko rej kōbōjrak, im juon wōt screen ebidodo."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "M̧akūtkūt ko remaron̄ bōj ejjeļo̧k wōņāer",
+        "text": "Pukot naan ilo jeje rekilep, peij in un̄ūri kōlla, bin̄ko im kaat in bwebwenato."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Ājmour an kōmālolo: ta eo etale ko rej ba",
+    "researchText": "Emaron̄ ke bōprae nan̄inmej in meļo̧kļo̧k? Ikkure in kōmālolo ko rej ke jiban̄? Ak kōn jitlo̧k, m̧ōn̄ā, kiki im ron̄jake? Uwaak ko rebidodo im tōprak jān kam̧ool ko, koba jikin ko me kam̧ool ko rejaab kanooj pedpād ie.",
+    "researchLink": "Riit kōmeļeļe ko jān etale ko",
+    "appEyebrow": "Bar ewōr juon app",
+    "appTitle": "Golden Moments ilo iPhone, iPad im Android",
+    "appText": "App in ejjeļo̧k wōņāān ej jerbal n̄e ejjeļo̧k intōnet im emaron̄ kōjerbal pija ko an baamle eo kwōj kāāleti, rej kōjparok ilo m̧ōttan eo am wōt. Ejja wāween eo wōt: tile ko emān rekilep, ejjeļo̧k awa, ejjeļo̧k buin kōttōbar.",
+    "aboutApp": "Kōn app in",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ta ikkure ko rem̧m̧an n̄an ro ewōr meļo̧kļo̧k ippāer?",
+        "a": "Ikki ko rem̧m̧an rej pidodo, jejeļā kajjieer im ejjeļo̧k inepata ie: pija ko rekilep n̄an kōkobaiki, kōlaajraki men ko, pija in jigsaw repidodo, kadedelo̧k jabōn-kōnnaan ko rebuñbuñ, kōkaļe kōn kōla, bingo in pija im kaat ko n̄an bwebwenato. Kōāālet eo em̧m̧antata ej eo armij eo ej m̧ōņōnō kake rainin. Jab kōjerbal kuro̧o̧k in idiik, bun̄tōn ko, ak jabdewōt men me ej āinwōt juon mālejjon̄."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Ikki kein n̄an armij ro ewōr nañinmej in meļo̧kļo̧k ippāer ejjeļo̧k ke wōņāer?",
+        "a": "Aet. Aolep ikki im peba ko kwomaron̄ printe ilo Golden Moments ejjeļo̧k wōņāer, ejjeļo̧k aikuj n̄an kōm̧m̧an akaun, dāpdep etam̧, ak download e men otemjej. Ikki kein rej jerbal ilo web browser ilo talboon, tablet, ak kom̧pūta."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Ikki ko n̄an kōmālij remaron̄ ke bōbrae nañinmej in meļo̧kļo̧k?",
+        "a": "Ejjeļo̧k juon ikki em̧ōj an kwaļo̧k bwe ej bōbrae nañinmej in meļo̧kļo̧k, im Golden Moments ejjab ba bwe ej kemour ak bōbrae jabdewōt nañinmej. Ikki ko am rej n̄an m̧ōņōnō im pād ippān doon. Ra eo am kōn ājmour in kōmālij ej kōmeļeļeik kōn ta ko ekkatak ko rej kwaļo̧k im ta ko rejjab kwaļo̧k."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Ikki kein rekar ke n̄an juon eo ewōr nañinmej in Alzheimer's ippān?",
+        "a": "Aet. Nañinmej in Alzheimer's ej un eo ekaankata n̄an nañinmej in meļo̧kļo̧k, im em̧ōj kōm̧m̧an ikki kein n̄an e: pija ko rekilep me rej pād wōt im alikar, jidik wōt kōāālet ko, im ejjeļo̧k menin kakeememej ak bōd ie. Kōkobaiki pija ko, kōlaajraki men ko, im kadedelo̧k jabōn-kōnnaan ko jejeļā kake rej kōjerbal jeļāļo̧kjeņ ko me ruto ilo kōmālij ijello̧kun katak men ko rekāāl."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Juon ke eo ej pād ilo jekjek ko tokālik ilo nañinmej in meļo̧kļo̧k emaron̄ kōjerbal makūtkūt kein?",
+        "a": "Ekkā an aet, n̄e ewōr juon armij ippān. Jino kōn Pukot eo āinwōt kōn ruo pija, Pair in pija ko kōn emān tile, juon peba in kōkaļe kōla, ak juon kakkije in menono eaenōm̧m̧an. Kōm̧m̧an bwe en kadu wōt, ļoor aer m̧ōņōnō kake, im kakkije n̄e rebuñbūruwōr ak reaikuj kakkije."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Meļeļe ko aō rej ke dāpdep wōt im nooj?",
+        "a": "Jikin in ejjeļo̧k akaun ie im ejjeļo̧k kōmeļeļe in kakkōt. Kōmij kōjerbal Google Analytics n̄an jeļā peij ta ko armij rej lali. Pija ko kwōj kōāāleti n̄an Photo pairs rej waal wōt ilo browser eo am̧ im rejjab uploadļo̧k."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Wōn ej kōm̧m̧an Golden Moments?",
+        "a": "Golden Moments ej juon kurup edik me ej kōm̧m̧an makūtkūt in pija ko reaenōm̧m̧an n̄an rūtto ro, baam̧le ko, im ri-lale ro, ilo web im āinwōt juon app me ejjeļo̧k wōņāān. Kōmij jab taktō, im ejjeļo̧k menin me ej kapilōk in takto."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "jinoin",
+    "middle": "iōlap",
+    "late": "tokālik",
+    "hintOne": "Ekkā an kar n̄an jekjek eo {list}",
+    "hintMany": "Ekkā an kar n̄an jekjek ko {list}",
+    "labelEarly": "Jekjek eo jinoin",
+    "labelMiddle": "Jekjek eo iōlap",
+    "labelLate": "Jekjek eo tokālik"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Kōn ikki in",
+    "printable": "Maron̄ printe",
+    "play": "Ikkwe {name} →",
+    "readGuide": "Riiti bokin tōl eo"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Kwoj pojak ke n̄an juon ikki eaenōm̧m̧an?",
+    "text": "Pija ko rekilep, ejjeļo̧k kuro̧o̧k in idiik, ejjeļo̧k bun̄tōn, im ejjeļo̧k aikuj n̄an kanne peba. Ikkwe ippān doon ilo browser eo am̧.",
+    "play": "Ikkwe juon Ikki",
+    "all": "Lale aolep ikki ko",
+    "aria": "Ikkwe juon ikki"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Bōk ikki kein ippam̧",
+    "text": "App eo ejjeļo̧k wōņāān an Golden Moments n̄an iPhone, iPad im Android: pija ko rekilep, ikki ko kōn pija ko an baam̧le eo am̧ make, im kōkoba in pija ko me rej jerbal m̧ane ejjeļo̧k Wi‑Fi. Ejjeļo̧k akaun, ejjeļo̧k ad, kuro̧o̧k in idiik, ak bun̄tōn.",
+    "appStore": "Bōke ilo App Store",
+    "googlePlay": "Bōke ilo Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Kōn app in",
+    "aria": "Bōk app in"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Makūtkūt ko",
+      "title": "Makūtkūt ko n̄an Armij ro Ewōr Nañinmej in Meļo̧kļo̧k Ippāer",
+      "seo": "Makūtkūt ko n̄an Armij ro Ewōr Nañinmej in Meļo̧kļo̧k: Lōmņak ko Ekkār n̄an Jekjek Otemjej",
+      "description": "Lōmņak ko kōn makūtkūt n̄an armij ro ewōr nañinmej in meļo̧kļo̧k ippāer ilo kajjojo jekjek: al, kakeemejmej ilo iien ko rūtto, jerbal ko an kajjojo raan, men ko n̄an en̄jake kōn en̄jake ko am̧, jerbal in pein, pād itulik, im peba ko remaron̄ printe me ejjeļo̧k wōņāer.",
+      "lede": "Makūtkūt ko reaorōk rej jabdewōt men me ej bōktok aenōm̧m̧an, kōtōbar, ak juon iien in koba ippān doon. Jino kōn men ko armij eo ear kōm̧m̧an bwe en m̧ōņōnō kake, im kōkkāāle n̄an rainin."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Lale armij",
+      "title": "Bokin Tōl ko n̄an Ri-lale",
+      "seo": "Bokin Tōl ko kōn Lale Armij ro Ewōr Nañinmej in Meļo̧kļo̧k Ippāer: Jipañ ko Rem̧m̧an n̄an Kajjojo Raan",
+      "description": "Bokin tōl ko rem̧m̧an im jo̧rofe n̄an ro rej lale armij ro ewōr nañinmej in meļo̧kļo̧k ippāer: ikkwe ippān doon, kōnono im bwebwenato, n̄e rej m̧akoko, inepata ilo jota, kōjerbal tablet, kōāālet app ko, im lale eok make.",
+      "lede": "Jipañ ko repidodo im jerbal n̄an iien ko an kajjojo raan ilo am̧ lale juon eo ewōr nañinmej in meļo̧kļo̧k ippān, ekoba am̧ lale eok make."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Ājmour in kōmālij",
+      "title": "Ājmour in Kōmālij: Ta ko Ekkatak ko Rej Ba",
+      "seo": "Ājmour in Kōmālij im Kauwōtata in Nañinmej in Meļo̧kļo̧k: Ta ko Ekkatak ko Rej Ba",
+      "description": "Maron̄ ke bōbrae nañinmej in meļo̧kļo̧k? Bokin tōl ko rewetok im ewōr unier kōn men ko remaron̄ kōm̧m̧an kauwōtata n̄an bōk nañinmej in, ikki ko n̄an kōmālij, jitōb, m̧ōn̄ā, kakkōlkōl ānbwin, kiki, ron̄jake, im kakōļļe ko jinoin.",
+      "lede": "Ta ko ekkatak ko rekilep rej kwaļo̧k kōn kōkāātļo̧k kauwōtata in bōk nañinmej in meļo̧kļo̧k, kōmeļeļeiki ilo pidodo, ekoba ijo kein kam̧ool ko rejjab kajoor ie ak erōkoba. Meļeļe ko n̄an aolep, ejjab kapilōk in takto."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Kōkkāāle",
+    "minuteRead": "{n} minit in riit",
+    "byTeam": "Jān tiim eo ilo Golden Moments",
+    "howWeWrite": "Wāween am̧ jeje",
+    "shortAnswer": "Uwaak eo ekaddu",
+    "onThisPage": "Ilo peij in ({n} ra)",
+    "commonQuestions": "Kajjitōk ko rekkā kajjitōk kaki",
+    "sources": "Unin meļeļe ko",
+    "sourcesNote": "Kōmij kōkobaiki n̄an doulul ko im ekkatak ko me peij in ej pedped ioor. Em̧ōj etale kajjojo iien eo me peij in ear kōkkāāl.",
+    "tryTogether": "Kajjioñe ippān doon",
+    "relatedGuides": "Bokin tōl ko rekar",
+    "related": "Men ko rekar",
+    "startHere": "Jinoe ijin"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Kōjjeļā kōn meļeļe in ājmour",
+    "title": "Meļeļe ko n̄an aolep, ejjab kapilōk in takto",
+    "textHtml": "Peij in ej kōkadduikļo̧k ekkatak ko em̧ōj kwaļo̧ki n̄an baam̧le ko. Ejjab maron̄ jiron̄ eok ta eo ej jim̧we n̄an juon wōt armij. Kōnono ippān taktō m̧okta jān am̧ kōkāāle m̧ōn̄ā, kakkōlkōl ānbwin, kiki, uno ko, ak men ko n̄an kakkobaiki ājmour. N̄e ewōr bōkļo̧k kōmālij kōn idik ak oktak ko reidid, pukot jipañ jān takto kiiō wōt. <a href=\"/medical-disclaimer/\">Riiti kōjjeļā eo am̧ kōn meļeļe in ājmour</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Juon Makūtkūt in Ippān Doon, Ejjab juon Mālejjon̄ in Kakeemejmej",
+      "seoTitle": "Kōn Golden Moments: Wāween Kōm̧m̧an eo Am̧",
+      "description": "Etke ikki ko an Golden Moments ejjeļo̧k kuro̧o̧k in idiik, bun̄tōn ko, ak laajrak in kōttan ko ie, etke pija ko rej pād wōt im alikar, im ta ko kōmij ba im jab ba kōn nañinmej in meļo̧kļo̧k.",
+      "crumb": "Wāween kōm̧m̧an eo am̧",
+      "lede": "Golden Moments ej kōm̧m̧an makūtkūt in pija ko reaenōm̧m̧an n̄an rūtto ro me juon ri-lale im juon eo ewōr nañinmej in meļo̧kļo̧k ippān remaron̄ lan̄lōn̄ kake ippān doon.",
+      "bodyHtml": "<h2>Men ko jōj tōmak kaki</h2><p>Unin kajjojo makūtkūt ej kōm̧m̧an bwe en em̧m̧an iien eo ippān doon: kōnono ippān doon, ettōñ, m̧ōņōņō ilo an kobaiki ruo pija ko, ak ilo an baj jijet wōt iturin doon. Ej jab n̄an jon̄e juon armij, kakūm̧ūr er bwe ren kōm̧m̧ani men ko reppen, ak n̄an kam̧ool jabdewōt men.</p><p>Elōn̄ app ko n̄an kōkāāl kōm̧ļo̧k rej kōm̧m̧an kōn m̧ōkaj, buin jān bōk poin, kakoba wōt win ko, im dōrwōj ko reppenļo̧k. N̄an juon armij eo ewōr nañinmej in meļo̧kļo̧k ippān, men in emaron̄ einwōt juon teej eo ejan̄in maron̄ bōke. Kem ar kōm̧m̧ani men kein ilo wāween eo ejab einwōt er, im kemij lale kake kajjojo kien kein:</p><ul><li><strong>Ejeļo̧k luuj.</strong> Ejeļo̧k kūļo̧k, buin poin, buin makūtkūt, mour ko, win ko ijjilōkdoon, confetti ak bwine awa n̄an jem̧ļo̧k, ilo jabdewōt koon.</li><li><strong>Kile jān an aikuj kememej.</strong> Pija ko rej pād wōt alikkar iien otemjej. Kajjitōk ko rej kappeik n̄an kōnono doon im ejjab n̄an kajjitōk kōn āt ko ak kememej ko m̧okta.</li><li><strong>Kileplep, ajeļo̧k im pād wōt juon jikier.</strong> Jeje im pija ko rekilep, ajeļo̧k kōļar ko, im jikin jibwe ko rej pād wōt ilo juon wōt jikin.</li><li><strong>Kautiej armij rūtto.</strong> Pija ko rekam̧ool jān laļ in im naan ko reajeļo̧k im tōpālie. Ejeļo̧k pija in cartoon, al in nōbar einwōt n̄an ajri, ak wōtōm̧ōļ in emoji.</li><li><strong>Pidodo an jem̧ļo̧k.</strong> Naan in “Bōjrak kiiō” ej pād wōt ilo iien otemjej. Bōjrak ilo io̧lapān wōt ej juon jem̧ļo̧k eo em̧m̧an.</li><li><strong>Ettino iien otemjej.</strong> Ejeļo̧k account ak kōllaajrak in wia. Pija ko kwoj kāāleti rej pād wōt ilo kein kōjerbal eo am̧.</li></ul><h2>Ta ko kem jab ba kake</h2><p>Ikkiilbwij ko am rej n̄an m̧ōņōņō im kōm̧m̧an bwe kom̧in pād ippān doon. Rejjab loe jorrāān, teej, jon̄e, kōmour, kōm̧m̧an bwe en rum̧wijļo̧k, ak bōbrae nañinmej in meļo̧kļo̧k ak Alzheimer’s, im ejeļo̧k armij en kāālōt er kōn unin in. Ilo am jeje kōn etale ko ilo am <a href=\"/brain-health/\">peij ko kōn ājmour in kōm̧ļo̧k</a>, kemij kōmeļeļeik ajeļo̧k n̄e kam̧ool ko rejjab kajoor, im kem jab kōbaiki n̄an ikkiilbwij ko am make.</p><h2>Wōn kem</h2><p>Golden Moments ej juon kumi kijdik eo ej make doon. Kem jab dōkto ro. Kappe ko am rej jeje jān meļeļe ko em̧ōj kwalo̧ki jān doulul ko einwōt National Institute on Aging im Alzheimer’s Association, im kajjojo kappe ej kwalo̧k jikin ko kem ar bōki jān er. Riit <a href=\"/editorial-policy/\">wāween am jeje im etale peij ko am</a>.</p><h2>Kwalo̧k n̄an kem ta eo emaron̄ jipañ</h2><p>Kem kōņaan ron̄ ta ko rej jerbal ippām̧ im ta ko rejjab, aolepen jān armij ro ewōr nañinmej in meļo̧kļo̧k ippāer, baamle ro rej lale er, im ro rej kōm̧m̧an makūtkūt ko. Jilkinļo̧k email n̄an <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Wāween Am Jeje im Etale Peij Ko Am",
+      "seoTitle": "Kien in Kōm̧m̧ani Jeje Ko",
+      "description": "Wāween an Golden Moments bukot meļeļe, jeje, bōk jān jikin ko rettiljek, im kakāāl peij ko kōn makūtkūt n̄an nañinmej in meļo̧kļo̧k im ājmour in kōm̧ļo̧k, im ta ko ban kōm̧m̧ani n̄an peij kein.",
+      "crumb": "Kien in jeje",
+      "bodyHtml": "<h2>Jikin ko kem bōk meļeļe jānier</h2><p>Kemij pedped ilo kappe ko am jān meļeļe ko an aolep armij jān doulul ko einwōt National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance im NHS, im etale ko rūtto me ritōļ ro jet rar etale einwōt Cochrane reviews im kōm̧m̧an etale kajjieon̄ ko rekilep. Kajjojo kappe ej kwalo̧k aolep jikin ko ear bōk meļeļe jān er. Kemij kōppelļo̧k kajjojo jikin m̧okta jān am bōk naan ko jān e, im kemij baj kwalo̧k wōt ta eo ej kam̧ool ba.</p><h2>Wāween am jeje</h2><ul><li>Men ko rej jerbal kiiō: ta eo kwo maron̄ kōm̧m̧ane rainin, ilo kajin eo ejeļo̧k.</li><li>M̧ool kōn kam̧ool ko: kemij ba “ekkein koba ippān”, “emaron̄” im “kam̧ool ko reoktak jān doon” n̄e ej men in em̧ool.</li><li>Kautiej: kemij jeje kōn armij ro ewōr nañinmej in meļo̧kļo̧k ippāer einwōt armij rūtto, im kem jab kōjerbal naan ko rej kappeik teej ak kōm̧m̧an jokpeļo̧k.</li><li>Ejeļo̧k bwebwenato ko rej baj kōm̧m̧ani: ejeļo̧k nōmba in etale ko ririab, naan in bōk ko, ro rej jeļā kake, katak ko, etale ko ak naan in kam̧ool ko rejjab m̧ool.</li></ul><h2>Wōn ro rej etale peij ko am</h2><p>Peij ko rej jeje im etale jān kumi eo an Golden Moments, ippān jipañ jān kein jeje in AI n̄an kappok meļeļe im jeje eo jinointa. Kajjojo peij kumi in ej bar etale ippān jikin ko kem ar bōk meļeļe jān er. Peij ko am <strong>rejan̄in</strong> etale jān dōkto ak ri-uno ro, im kem jab ba bwe em̧ōj an dōkto etale. Er rej meļeļe ko baj kappeik wōt, ejjab kappe in uno ak dōkto.</p><h2>Ta ko kem ban kōm̧m̧ani ilo peij kein</h2><ul><li>Naan ko rej ba juon ikkiilbwij, m̧ōn̄ā, supplement, jitōb/haiting ak makūtkūt ej bōbrae, kōmour, kakōm̧anm̧anļo̧k ak kōm̧m̧an bwe en rum̧wijļo̧k nañinmej in meļo̧kļo̧k.</li><li>Teej, kajjitōk ko ak buin poin ko rej kappeik bwe juon armij ewōr, ak ejeļo̧k, nañinmej in meļo̧kļo̧k ippān.</li><li>Rōjan̄ n̄an jinoe, bōjrak jān e, ak kōkāāle jabdewōt uno.</li><li>Wiaik jikin ko ak meļeļe ko em̧ōj kōļļā kake me rej kile bwe rej kappe.</li></ul><h2>Kōkāāl im jim̧we ko</h2><p>Kajjojo peij ej kwalo̧k raan eo ear jem̧ļo̧k an kōkāāl. N̄e kwoj lo juon bōd ak jikin eo meļeļe eo an em̧ōj an mor, joij im email <a href=\"mailto:{email}\">{email}</a> im kem naaj etale ilo m̧ōkaj.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Kajjitōk im Uwaak Ko",
+      "seoTitle": "Ikkiilbwij im Makūtkūt Ko n̄an Nañinmej in Meļo̧kļo̧k: Kajjitōk im Uwaak Ko",
+      "description": "Uwaak ko n̄an kajjitōk ko rekoba kōn ikkiilbwij im makūtkūt ko n̄an ro ewōr nañinmej in meļo̧kļo̧k ippāer: ikkiilbwij ta ko n̄an kajjieon̄i, ewi aitokan an aikuj ikkure, ļōmņak ko n̄an iien ko toļo̧k, ājmour in kōm̧ļo̧k, im ettino.",
+      "crumb": "Kajjitōk im uwaak ko",
+      "lede": "Uwaak ko rekaddu im ajeļo̧k n̄an kajjitōk ko armij ro rej lale rej kajjitōk aolep iien.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Kōn ikkiilbwij ko",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Ikkiilbwij ta ko rem̧m̧antata n̄an juon eo ewōr nañinmej in meļo̧kļo̧k ippān?",
+              "a": "Ikkiilbwij ko rem̧m̧antata rej men ko rejeļā kajiier, pidodo, im ejeļo̧k kajjioñ ak inebata ie, im eo ejim̧wetata ej jabdewōt eo armij eo ej m̧ōņōņō kake rainin. Kobaiki pija ko me rej alikkar wōt, kalōke kajjojo kōļar ak pija, pija ko pidodo n̄an kobaik doon, kadedeikļo̧k naan in kōkaļļe ko me ejeļā kajiier, kōļari pija, im bingo in pija rej jerbal n̄an elōn̄ armij. Jab kōjerbal awa in buin, poin ko, im jabdewōt men me ej einwōt teej."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Ikkiilbwij kein rej m̧ool ke bwe rejjab kōļļā kaki?",
+              "a": "Aet. Aolep ikkure ko im peba ko remaron̄ kōm̧m̧ani bōk ejjeļo̧k wōnāer, im ejjeļo̧k account, kajjitōk in kadiwōj etam̧, dounlood, ak kōjeļā in wia kake."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Etke ejjeļo̧k būlaak in point, level ko, ak kuro̧k in iien?",
+              "a": "M̧ōkaj im point remaron̄ kōm̧m̧an bwe juon kakkije en erom juon teej, eo emaron̄ kōm̧m̧an jook ak inepata. Kōmij dāpij kōttobar eo ilo m̧ōņōn̄ō im koba ippān doon, kōn men in ejjeļo̧k men en kwoj luuji im kwomaron̄ kakkije ilo jabdewōt iien."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Ta kein kōm̧m̧an ko rem̧m̧an tata kōjerbali?",
+              "a": "Jabdewōt talboon, tablet, ak kom̧pituuta eo ewōr broujer ekāāl kake. Juon tablet ilo juon stand ioon tebōl ej wāween eo em̧m̧an tata n̄an ruo armej n̄an koba ikkure ippān doon. Juon laptop ej koba ippān TV em̧m̧an n̄an kumi in armej ro."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Kōm maron̄ ke kōjerbal pija in baam̧le ko am make?",
+              "a": "Aet. Ikkure in pija kein rōkoba (Photo pairs) ej kōjerbal 2 n̄an 6 pija ko kwōj kāāleti n̄an juon ikkure in kakobaba. Pija ko rej pād wōt ilo broujer eo am̧ im ejjeļo̧k en ej uploode ak kakkōpiji."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "M̧akūtkūt ko im lale armej",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Ewi tōre eo ej aikuj aetok kake juon m̧akūtkūt?",
+              "a": "Kajjojo iien 10 n̄an 20 m̧initi em̧ōj an bōk iien, im jet iien 2 m̧initi em̧m̧an wōt. Kalimjōk kōkāālele in m̧ōk ak inepata im kōjparok bwe en kakkije ke ej m̧ōņōn̄ō wōt. Ejjeļo̧k oran iien eo em̧m̧an tata."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Ta n̄e rejjab kōnāān kōm̧m̧ane juon m̧akūtkūt?",
+              "a": "Kautiej aer jab kōnāān, im kajjioon bar juon alen tokelik ak ilo bar juon wāween. An juon armej jab kōnāān emaron̄ itok jān m̧ōk, metak, jab lōke e make, ak baj ejjab itoklimo wōt kake. Lale bokin kōmeļeļe eo am kōn ta ko kwomaron̄ kōm̧m̧ani n̄e rej ba jaab."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Ta m̧akūtkūt ko rem̧m̧an n̄an ro ewōr nan̄inmej in meļo̧kļo̧k ippāer ilo iien ko rōtoklik?",
+              "a": "Aenōm̧m̧an im en̄jake ko: ron̄jake al ko rejitōnbōro, pāj peier kōn lotion, alwōj pija ko ippān doon, dāpij juon kōōj emāni, jijet itulik, ak juon ikkure in pija ebidodo ippān juon armej ituriier. Bokin kōmeļeļe eo am kōn iien ko rōtoklik ewōr elōn̄ļo̧k lōmņak ie."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Ewōr ke m̧akūtkūt ko n̄an kumi ilo jikin jiban̄ im kejparok?",
+              "a": "Aet. Pija in bingo ewōr kaat ko kwomaron̄ printe im juon kanooj ilo jikriin, im ikkure in kadedeļo̧k jabōnkōnnaan ko im kaat in bwebwenato rem̧m̧an n̄an kōnono aolepān kōn ainikien eļap. Bokin kōmeļeļe eo am kōn kumi ilo m̧ōn kejparok ej koba kake uwaan kumi, jikin jijet, im kōkkāāl m̧akūtkūt ko n̄an aolep kain mālim."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Ājmour in kōmālim",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Ikkure ko remaron̄ ke bōprae ak kōrum̧wij nan̄inmej in meļo̧kļo̧k?",
+              "a": "Ejjeļo̧k juon ikkure em̧ōj an kaalikkar bwe ej bōprae nan̄inmej in meļo̧kļo̧k (dementia), im ikkure ko am rejjab ba ke remaron̄ kōm̧m̧ane men in. Katak ko rej kwalo̧k bwe rōjan̄ kōmālim ilo koba ippān doon emaron̄ lelok jidik jiban̄ n̄an ro ewōr jidik m̧ōttan nan̄inmej in meļo̧kļo̧k ippāer, ak eoktak jān an juon ikkure bōprae nan̄inmej. Kōmij letok ikkure kein n̄an leen m̧ōņōn̄ō im koba ippān doon."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Emaron̄ ke bōprae nan̄inmej in meļo̧kļo̧k?",
+              "a": "Ejjab alikkar kōn lukkuun jān jem̧ļo̧k eo. Etale ko rej kwalo̧k koba kōtaan 14 jekjek in mour im ājmour ippān men ko remaron̄ kōm̧m̧an bwe en waļo̧k nan̄inmej in meļo̧kļo̧k, āinwōt jab ron̄jake, bōto̧ktōk eļap, jab m̧akūtkūt, im an juon armej make iaan. Kōkāāl men kein emaron̄ kōkāāle an jab bōk nan̄inmej eo n̄an jet armej, ak elōn̄ armej ro rej kōm̧m̧an men ko rem̧m̧an rej pād wōt ilo nan̄inmej in. Ejjab bōd eo an jabdewōt."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Kōjekdoo̧n m̧ōn̄ā ilo jet iien em̧m̧an ke n̄an ājmour in kōmālim?",
+              "a": "Meļeļe ko jān etale armej rejidik wōt im kōm̧m̧an ilo jinoin, im elōn̄ iaan etale ko rej kōm̧m̧an ilo menninmour ko. Kōjekdoo̧n m̧ōn̄ā emaron̄ kōm̧m̧an kauwōtata n̄an rūtto ro, eļaptata n̄e ewōr uno in tōn̄al ak m̧ōjin an armej rūn̄ļo̧k jān kōm̧m̧an, im rejjab kōkm̧anm̧an bwe en kōm̧m̧an kōn ro ewōr nan̄inmej in meļo̧kļo̧k ippāer. Bwebwenato ippān juon taktō m̧okta jān am̧ ukōt wāween am̧ m̧ōn̄ā."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Dāpij naan im ājmour erreo",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Komiij ke aini jabdewōt meļeļe?",
+              "a": "Ejjeļo̧k account ak kōjeļā in wia. Kōmij kōjerbal Google Analytics n̄an bwine jepeļpeļ ko im lale peij ta ko rej jiban̄, im broujer eo am ej keememej n̄e kwoar kōjerbal ainikien emāni. Pija ko kwōj kāāleti n̄an Photo pairs ejjeļo̧k uploode er. Lale kōjeļā in dāpij naan n̄an meļeļe ko reļapļo̧k."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Meļeļe kein rej ke kakeel in takto?",
+              "a": "Jaab. Golden Moments ej n̄an kakkije im meļeļe ko aolep. Kōn kajjitōk ko kōn ājmour, bwebwenato ippān taktō, im n̄an iien kauwōtata ko kōrōl 911."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Meļeļe ko reļapļo̧k: <a href=\"/caregiving/how-to-play-together/\">ejei amiro koba ikkure</a>, <a href=\"/caregiving/when-they-say-no/\">n̄e rej ba jaab</a>, <a href=\"/activities/late-stage/\">m̧akūtkūt ko n̄an iien ko rōtoklik</a> im <a href=\"/brain-health/can-dementia-be-prevented/\">emaron̄ ke bōprae nan̄inmej in meļo̧kļo̧k?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Ikkure ko Reidik im Ejjeļo̧k Wōnāer n̄an Ro Ewōr Nan̄inmej in Meļo̧kļo̧k Ippāer",
+      "seoTitle": "Peba in Printe: Ikkure ko Ejjeļo̧k Wōnāer n̄an Nan̄inmej in Meļo̧kļo̧k ilo Online",
+      "description": "Juon peba emaron̄ printe n̄an baam̧le im ro rej lale kōn ikkure in pija ko reidik im ejjeļo̧k wōnāer n̄an ro ewōr nan̄inmej in meļo̧kļo̧k ippāer, n̄an kumi in jiban̄ im bōkake in jiban̄.",
+      "crumb": "Peba emaron̄ printe",
+      "lede": "Printe peba in n̄an kumi in jiban̄, peba in kejparok, ak dāpij ioon kōjām in aijbokij. Kōjerbal kien Printe ilo broujer eo am̧; būtin ko im bwidej ko rejjab maron̄ pād ilo peba eo.",
+      "introHtml": "<p>Pija reļļap, naan rebidodo im ejjeļo̧k men kwomaron̄ luuji ie. Ejjeļo̧k wōnāer ilo talboon, tablet ak kom̧pituuta, ejjeļo̧k kōm̧m̧an account, ejjeļo̧k kōjeļā in wia, ejjeļo̧k kuro̧k in iien im ejjeļo̧k būlaak in point. Jijet ippān doon im bōk iien.</p>",
+      "gamesTitle": "Ikkure ko kwomaron̄ kajjiooni koba ippān doon",
+      "restHtml": "<h2>Jet kōmeļeļe ko</h2><ul><li>Kāālet juon iien ilo raan eo ke armej eo ej pād ilo an kanooj m̧m̧an būruon.</li><li>Jino kōn jekjek eo ebidodo tata. Emān pāāk ko ebwe.</li><li>Bwebwenato kōn pija ko. Bwebwenato eo kajjojo iien ej m̧ōttan eo em̧m̧an tata.</li><li>Kakkije ke ej m̧ōņōn̄ō wōt. Kōm̧m̧an jem̧ļo̧k m̧okta ej juon men em̧m̧an.</li></ul><h2>Pād bar ilo website in</h2><ul><li>Peba ko printe ejjeļo̧k wōnāer: kapukot naan kōn jeje reļļap, peba in kalōk, kaat in bwebwenato im pija in bingo.</li><li>Lōmņak ko kōn m̧akūtkūt n̄an aolep iien, im bokin kōmeļeļe kōn koba ikkure im lale kwe make.</li></ul><p class=\"muted\">N̄an m̧ōņōn̄ō im iien koba ippān doon. Ejjab kakeel in taktō, teej, ak wāween taktō. Golden Moments ej kejeļāik jān Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "N̄an M̧ōn Jiban̄ Rūtto ro, Im̧ōn Bōk ko im Kumi in Jiban̄",
+      "seoTitle": "Makūtkūt ko Ejjeļo̧k Oņāer kōn Nan̄inmej in Meļo̧kļo̧k ñan M̧ōn Lale Rūtto ro im Kumi ko",
+      "description": "Wāween an m̧ōn lale rūtto ro, jikin pād ilo raan ñan rūtto ro, m̧ōn jeje ko, opij ko an rūtto ro, im kumi in jipan̄ ko kōjerbal ikkure ko am ejjeļo̧k oņāer kōn nan̄inmej in meļo̧kļo̧k, barāinwōt naan ko ñan kobaiktok kōm ilo laajrak in jipan̄ ko am.",
+      "crumb": "Ñan doulul ko",
+      "lede": "Aolep men ko ilo jikin in ejjeļo̧k oņāer ñan kōjerbali ippān ro rej jokwe ilo m̧ōko, membōr ro, im armej ro kwoj jipan̄ er, ejjeļo̧k account, laijen, ak wōņāān. Peij in ej kōmeļeļeik ta ko rej pād ijoko im wāween am maron̄ ajeji.",
+      "shortText": "{name}: ikkure in pija ko reainem̧m̧an im ejjeļo̧k oņāer im laajrak in tōl kōn makūtkūt ko ñan armej ro rej mour kōn nan̄inmej in meļo̧kļo̧k im ro rej lale er. Ejjeļo̧k sign-up, ejjeļo̧k awa in ikkure, ejjeļo̧k bōnbōn in point.",
+      "longText": "{name} ({domain}) ej kōm̧m̧an bwe en pād {count} ikkure ko ilo browser me ejjeļo̧k oņāer im kar kōm̧m̧ani ñan armej ro rej mour kōn nan̄inmej in meļo̧kļo̧k, koba kakonono pija ko kōn aer pād wōt pija ko me maron̄ loi, jigsaw me ebidodo, kainbōk men ko, naan in kōkāāl ko me jele kaki, im picture bingo ippān kaat ko me maron̄ printi. Ejjeļo̧k account, kakōļļe in kakkwōjkwōj, awa in kōm̧akoko, ak point. Barāinwōt jikin in ej letok laajrak in tōl kōn makūtkūt ko ilo kajin ebwe an meļeļe kōn kajjojo iien ko ilo nan̄inmej in meļo̧kļo̧k me rej kōjerbal bōk naan jān National Institute on Aging im Alzheimer's Association.",
+      "useTitle": "Men ko doulul ko remaron̄ kōjerbali",
+      "gamesItemHtml": "<strong>{count} ikkure ilo browser</strong> me rej jerbal ilo laptop, tablet, ak TV eo em̧ōj kobaiki ñan computer. Ejjeļo̧k install, account, ak download. Lale <a href=\"/games/\">aolep ikkure</a>.",
+      "printablesLabel": "{count} men ko maron̄ printi:",
+      "printablesAfter": "Kōjerbal butten eo me ej ba Print ilo kajjojo peij.",
+      "moreItemsHtml": "<li><strong>Wāween ikkure ilo kumi:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> ewōr kaat ko maron̄ printi im juon eo ej kūr kōn pija ilo screen, im <a href=\"/activities/trivia/\">easy trivia</a> ewōr 50 kajjitōk ko ippān kāālet in uwaak ko im men ko ñan kōnono kaki.</li><li><strong>Laajrak in tōl kōn makūtkūt ko</strong> ñan ri-jerbal ro im baam̧le ko, ekkar ñan kajjojo jekjek im kajjojo kain, kar je ilo kajin ebidodo an meļeļe ippān jikin ko kwaļo̧k naan jān er. Jinoe kōn <a href=\"/activities/ideas/\">101 lomņak kōn makūtkūt</a> ak <a href=\"/activities/care-home-groups/\">makūtkūt ko an kumi ñan m̧ōn lale rūtto ro</a>.</li>",
+      "restHtml": "<h2>Wāween an kumi ko kōjerbali</h2><ul><li><strong>M̧ōn lale rūtto im jikin lale nan̄inmej in meļo̧kļo̧k:</strong> picture bingo ak kadedeikļo̧k naan in kōkāāl ko ilo TV eo ilo ruum̧ eo an aolep, ippān juon armej ej jidikdik kōn pein ñan kumi eo.</li><li><strong>Purokram̧ ko an rūtto ilo raan:</strong> juon jikin tablet kōn Picture pairs em̧ōj kōm̧m̧ane ñan emān pija, ñan iien ko rekaddok ñan armej ruo.</li><li><strong>M̧ōn jeje ko an aolep:</strong> pukot naan ko em̧ōj printi im kaat in bwebwenato ilo bakej in keememej ko, im kakōļļeik jikin in ilo tablet ko an m̧ōn jeje.</li><li><strong>Kumi in jipan̄ an ro rej lale armej im memory café ko:</strong> juon <a href=\"/handout/\">peba in meļeļe me maron̄ printe</a> ñan an baam̧le ko bōke ñan m̧weo.</li><li><strong>Aujpitōl ko im ro rej kōpooj armej ñan jeorļo̧k jān jikin taktō:</strong> peba in meļeļe ilo bōkōj ko an ro rej lale armej, bwe en wōr juon men eainem̧m̧an ñan kōm̧m̧ane ilo m̧weo ak iturin peet eo.</li></ul><h2>Men ko jej jab kōm̧m̧ani</h2><p>Ikkure kein rej ñan lañlōn̄ im pād ippān doon. Rej jab ekkatak kōn nan̄inmej, jab māletlet, jab bōnbōn point, jab kōmour ak jab bōbrae an nan̄inmej in meļo̧kļo̧k kōkkūkļo̧k, im kōmij kajjitōk ippān doulul ko bwe ren jab kōmeļeļeiki ilo wāween in. Ejjeļo̧k kakōļļe in kakkwōjkwōj, im ikkure kein rej jab kajjitōk kōn āt, meļeļe kōn ājmour, ak pija ko ñan upload er. Web jikin in ej kōjerbal Google Analytics ñan bōnbōn armej ro rej lotok; am <a href=\"/privacy/\">kōmeļeļe kōn jānōk</a> ej kwaļo̧k ta ko ej aini. Pija ko rej kōjerbali ilo <a href=\"/games/photo-pairs/\">Photo pairs</a> rej pād wōt ilo browser eo.</p><h2>Kobaiktok kōm ilo laajrak in jipan̄ ko am</h2><p>Eļan̄n̄e ewōr am laajrak in jipan̄ ko ñan ro rej lale armej, kwoj maron̄ link ñan <a href=\"/\">{domain}</a>. Kwoj maron̄ kōpii jabdewōt iaan kōmeļeļe kein.</p>",
+      "shortTitle": "Kōmeļeļe ekaddu",
+      "longTitle": "Kōmeļeļe eaitokļo̧k",
+      "linksHtml": "<p>Peij ko reaurōk ñan link ñani jim̧or: <a href=\"/games/\">ikkure ko ejjeļo̧k oņāer</a>, <a href=\"/activities/printable/\">men ko maron̄ printi me ejjeļo̧k oņāer</a>, <a href=\"/activities/alzheimers/\">makūtkūt ko kōn Alzheimer's</a> im <a href=\"/caregiving/how-to-play-together/\">wāween ikkure ippān doon</a>.</p><h2>Kajjitōk ko ak men ko ñan kōkāāl</h2><p>Eļan̄n̄e ewōr men ebaad ak ejab alikkar ilo jikin in, ak men ko rej pād ijoko rej jab tōpar aikuj ko an ro rej jokwe ilo m̧ōko, jouj im ba maii ilo <a href=\"mailto:{email}\">{email}</a>. Jouj im jab jilkintok meļeļe ko an armej kajjojo ak meļeļe kōn ājmour an ro rej jokwe ak kiliin ro.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "App eo an Golden Moments",
+      "seoTitle": "App eo an Golden Moments ñan iPhone im Android",
+      "description": "App eo an Golden Moments me ejjeļo̧k oņāān: kakonono pija eainem̧m̧an kōn emān pija rekileplep, pija ko an baam̧le rej pād wōt ilo device eo am̧, bōkōj in pija ko me kwoj maron̄ kōjerbali n̄e ejjeļo̧k intōnēt, im ejjeļo̧k account.",
+      "crumb": "App eo",
+      "lede": "Aolep men ko kwoj kōņaan kaki ilo website eo, ilo juon app me ej jerbal n̄e ejjeļo̧k intōnēt im emaron̄ kōjerbal pija ko an baam̧le me kwoj kāāleti.",
+      "worksOn": "Ej jerbal ilo {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Jinoe jidik</h2><p>Jino kōn emān teiļ rekilep im pija ko me kwoj jeļā kajjier. Kōm̧m̧an bwe pija ko ren alikkar wōt, ak noji n̄e em̧m̧anļo̧k. Ilo wāween eo epidodo ejjeļo̧k awa, jeik ak kaje. Kāālōt 4, 6, 8 ak 12 teiļ.</p><h2>Kōm̧m̧an bwe en an am̧ baamle</h2><p>Kāālōt pija ko an baamle kōn jikin kāālōt pija ilo tūrinpeba eo am̧. App in enaaj kōjparok kōpe ko redik n̄an m̧akūtkūt ko an. Eban etale aolep pija ko am̧ ak ukōt pija ko am̧ jān jinoin, im emaron̄ kōjparok n̄an 24 pija ilo juon jikin.</p><h2>Kalimjōk ippān doon wōt</h2><p>Kalimjōk juon wōt pija ilo juon iien. Ewor kajjitōk ko me remaron̄ kōkōm̧anm̧an bwebwenato me ejjeļo̧k menin aikuj n̄an kemejmej etan armij ak leļo̧k uwaak eo ejim̧we. Kalimjōk wōt em̧ōj an bōk jikin.</p><h2>Kōjerbale n̄e ejjeļo̧k intōrnet</h2><p>Pija ko n̄an jinoe im aolepen ralitōk kumi in pija ko rej koba kake ilo app in. Kōpe in pija ko em̧ōj kōpād er ilo app in rej jerbal n̄e ejjeļo̧k intōrnet. Kāālōt pija ko me rej pād wōt ilo iCloud emaron̄ aikuj intōrnet.</p><h2>Ejjeļo̧k akaun, ejjeļo̧k jikin kōjparok pija ilo nōtwōk</h2><p>Kōpe in pija ko an baamle rej pād wōt ilo app in ilo tūrinpeba eo am̧. Kwomaron̄ jeorļo̧k kōpe ko kōn am̧ jab kōm̧adiki pija ko jān jinoin. Men ko em̧ōj kōjparoki ilo tūrinpeba eo am̧ remaron̄ kobaik kōmeļeļe ko an app in. Riiti <a href=\"/app-privacy/\">kakien ko kōn kōjparok kōmeļeļe ilo app</a>, im <a href=\"/help/\">jiban̄ an app in</a> enaaj kwaļo̧k aolep m̧akūtkūt ko.</p>",
+      "disclaimer": "Golden Moments ej n̄an kakkije im bwebwenato ippān doon. Ejab n̄an kile, kōmour, kōjparok jān, ak jōn̄e jorreen in meļo̧kļo̧k ak nan̄inmej in Alzheimer’s.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Ikkure ko ilo Intōrnet n̄an Jorreen in Meļo̧kļo̧k im Alzheimer's me Ejjeļo̧k Oņāer",
+    "description": "Ikkure ko ejjeļo̧k oņāer ilo intōrnet n̄an rūtto ro rej mour kōn jorreen in meļo̧kļo̧k ak Alzheimer's: kōpooļ pija, jikjo repidodo, kumiik men ko, jānnaan ko, kōkaļe, bin̄ko. Ejjeļo̧k kadiwōj etam̧, awa ak jeik.",
+    "crumb": "Ikkure ko",
+    "h1": "Ikkure ko Repidodo n̄an Armij ro rej Mour kōn Jorreen in Meļo̧kļo̧k",
+    "lede": "{count} ikkure ko ejjeļo̧k oņāer n̄an ikkure ippān doon ilo browser eo am̧. Pija rekilep, naan repidodo, im ejjeļo̧k men kwoj luuji: ejjeļo̧k awa, ejjeļo̧k jeik, im ejjeļo̧k kadiwōj etam̧.",
+    "listName": "Ikkure ko repidodo n̄an armij ro rej mour kōn jorreen in meļo̧kļo̧k",
+    "byStageTitle": "Kāālōt juon ikkure ekkar n̄an jo̧o̧r eo",
+    "byStageLede": "Jo̧o̧r ko rej juon wōt meļeļe eidik. Lale wōt ta eo armij eo kwoj lale ej m̧ōņōņō kake im ta eo ej em̧m̧an n̄an e rainin.",
+    "stageCol": "Jo̧o̧r",
+    "gamesCol": "Ikkure ko me em̧m̧an n̄an er",
+    "moreHtml": "Eļapļo̧k lōmņak ko ijoko jab ilo kiirin: <a href=\"/activities/ideas/\">101 m̧akūtkūt ko n̄an armij ro rej mour kōn jorreen in meļo̧kļo̧k</a>, <a href=\"/activities/alzheimers/\">m̧akūtkūt im ikkure ko n̄an Alzheimer's</a>, <a href=\"/activities/memory-games/\">ikkure ko repidodo n̄an kemejmej</a> im <a href=\"/activities/puzzles/\">pajōl ko</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Ta ikkure eo jej aikuj jino kake?",
+        "a": "Pija ko rejekpeļo̧k kōn emān teiļ ej juon kāālōt eo em̧m̧an n̄an jinoe. N̄e kāālōt ikōtaan pija ko ekanooj pen, kajjieon̄ Kaluuji eo ejoon kōn ruo pija. N̄an juon kumi, kajjieon̄ Bin̄ko in pija."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Ikkure kein rej jerbal ke ilo iPad ak teļpōn?",
+        "a": "Aet. Aolep ikkure rej jerbal ilo browser ilo teļpōn, teblet im kom̧puutōr, im pija ko rej kilepļo̧k n̄an kanooj nooj kiirin eo. Juon teblet ioon jikin kajutak ej juon men eo ekanooj em̧m̧an n̄an ruo armij."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Ikkure kein rem̧m̧an ke n̄an juon eo ej mour kōn Alzheimer's?",
+        "a": "Aet. Rōkōm̧m̧ani n̄an armij ro rej mour kōn jorreen in meļo̧kļo̧k, ekoba Alzheimer's, eo me eļap an waļo̧k. Pija ko rej pād wōt im alikkar, jejjo wōt kāālōt ko, im ejjeļo̧k awa ak jeik, kōn menin ikkure kein rej pedped ioon kile men ko me em̧ōj jeļā kajjier ijello̧kun aer kemejmej men ko rekāāl."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Ikkure kein rej ikkure in kemejmej ke n̄an rūtto ro?",
+        "a": "Rej ikkure in kōpooļ im pija ko me jabdewōt rūtto emaron̄ m̧ōņōņō kaki, ak rōkōm̧m̧an er bwe ren jab mālejjon̄ kemejmej: ilo Pija ko rejekpeļo̧k pija ko rej ajeeded wōt ijello̧kun n̄e kwoj kāālōt bwe ren noje er. Kōmeļeļe eo am̧ n̄an ikkure in kemejmej n̄an rūtto ro rej mour kōn jorreen in meļo̧kļo̧k ej kōmeļeļeik ewi wāween kōm̧m̧an bwe jabdewōt ikkure en pidodo wōt."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Ewor ke ikkure ko n̄an kumi ilo m̧ōn lale rūtto ro?",
+        "a": "Aet. Bin̄ko in pija ewor kaat ko kwomaron̄ pūriintiki im juon ri-kūr ilo kiirin eo, im Kadedeikļo̧k naan eo im Kaat in bwebwenato rej jerbal em̧m̧an n̄e kwonaaj riit er kōn ainikien eļap n̄an juon kumi."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad im Android",
+    "requirements": "iOS 15 ak tokālik; Android 7.0 ak tokālik",
+    "summary": "Juon app ejjeļo̧k oņāān n̄an iPhone, iPad im Android kōn ikkure in kōpooļ pija repidodo ilo emān n̄an jon̄oul ruo teiļ rekilep, kōpooļ im kalimjōk pija ko an baamle me kwoj kāālōti, im ralitōk kumi in pija ko koba kake me rej jerbal n̄e ejjeļo̧k intōrnet. Ejjeļo̧k akaun, kōjjeļā in wia, awa ak jeik.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Kōpooļ pija repidodo kōn 4, 6, 8 ak 12 teiļ rekilep; pija ko rej alikkar wōt ijello̧kun n̄e kwoj kāālōt bwe ren noje er",
+      "Pija ko an baamle me kwoj kāālōti renaaj kōpe n̄an ilo app in n̄an kōpooļi im kalimjōki ippān doon",
+      "Kalimjōk ippān doon: juon pija ilo juon iien kōn kajjitōk ko me remaron̄ jiban̄ kōm̧anm̧an bwebwenato",
+      "Ralitōk kumi in pija ko koba kake ilo app in; rej jerbal n̄e ejjeļo̧k intōrnet",
+      "Ejjeļo̧k akaun, kōjjeļā in wia, men in wia ilo app, awa, jeik ak kaje"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Ewor ke juon app in m̧akūtkūt n̄an jorreen in meļo̧kļo̧k?",
+        "a": "Aet. Golden Moments (alikkar āinwōt \"{storeName}\") ejjeļo̧k oņāān ilo App Store im Google Play. Ej leļo̧k ikkure in kōpooļ pija repidodo kōn teiļ rekilep, ikkure ko kōn pija ko an baamle me kwoj kāālōti, im kumi in pija ko me rej jerbal n̄e ejjeļo̧k intōrnet."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Ejjeļo̧k ke oņāān app in Golden Moments?",
+        "a": "Aet. Ejjeļo̧k oņāān n̄an buuki, ejjeļo̧k kōjjeļā in wia, akaun ak men in wia ilo app."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "App in ej jerbal ke n̄e ejjeļo̧k intōrnet?",
+        "a": "Aet. Pija ko n̄an jinoe im ralitōk kumi in pija ko rej koba kake ilo app in, im pija ko an baamle rej jerbal n̄e ejjeļo̧k intōrnet n̄e em̧ōj kōpeik er n̄an ilo app in. Kāālōt juon pija me ej pād wōt ilo iCloud emaron̄ aikuj intōrnet."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Imaron̄ ke kōjerbal pija ko an am baamle make?",
+        "a": "Aet. Kāālet pija ko kōn jikin kālet pija ilo tiwaij eo am̧. App in ej dāpij kōpe ko reddikļo̧k ilo tiwaij eo n̄an makūtkūt ko an, ej jab upload e er im ejjab ukōt pija ko rejinointa. Kwomaron̄ jolo̧k kōpe ko ilo jabdewōt iien."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Ej ke juon app in kamminene kōmļo̧kjen ak teej e kemeemej?",
+        "a": "Jaab. Golden Moments ej n̄an m̧ōnōnō im kōm̧m̧an iien ippān doon. Ejeļo̧k skoor ak teej ie, im ej jab kalikkar nan̄inmej, kōmour, bōbrae, ak jōn̄e dementia ak nan̄inmej in Alzheimer’s."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Ejerbal ilo tiwaij ta ko?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Ewōr ke juon app in ikkure in?",
+      "a": "Aet. App eo ejjeļo̧k wōņāān an Golden Moments n̄an iPhone, iPad im Android ewōr juon wōt wāween kobaiki pija ilo ineemman, emaron̄ kōjerbal pija in baam̧le ko kwoj kāāleti, im ej jerbal ilo an ejjeļo̧k intōnet. Ejjeļo̧k akaun, kōjjeļā in wia, ak skoor."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Ewōr ke juon app in ikkure in?",
+      "a": "Jaab n̄an ikkure in. App eo ejjeļo̧k wōņāān an Golden Moments n̄an iPhone, iPad im Android ewōr kobaiki pija ilo ineemman kōn taikōļ ko rekilep im pija in baam̧le ko kwoj kāāleti, im ej jerbal ilo an ejjeļo̧k intōnet. Ikkure in ej pād wōt n̄an ejjeļo̧k wōņāān ijin ilo browser eo am̧."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: pija ko rekilep im aenōm̧m̧an",
+    "noscript": "Ikkure in ej aikuj bwe en kōppāp JavaScript ilo browser eo am̧. Melele ko ilaļ rej jerbal ilo an ejjeļo̧k e.",
+    "about": "Kōn {name}",
+    "aboutAria": "Kōn ikkure in",
+    "noTimer": "Ejjeļo̧k jōn̄e iien ak skoor",
+    "printable": "Maron̄ print e",
+    "howTo": "Wāween ikkure ilo {name}",
+    "tips": "Kōkapilōk ko n̄an ikkure ippān doon",
+    "newToPlayingHtml": "Kāāl ke ilo am̧ ikkure ippān armij eo ewōr an nan̄inmej in meļo̧kļo̧k (dementia)? Riit <a href=\"/caregiving/how-to-play-together/\">wāween ikkure ippān doon</a>, ekoba ta eo kwomaron̄ kōm̧m̧ane n̄e ejako aer itoklimo.",
+    "moreAria": "Eļapļo̧k n̄an etale",
+    "helpfulGuides": "Kōmeļeļe ko rejipan̄",
+    "appTitle": "Ikkure ilo app eo",
+    "appText": "App eo ejjeļo̧k wōņāān an Golden Moments ewōr kobaiki pija ilo ineemman kōn taikōļ ko rekilep im pija in baam̧le ko am̧ make, im ej jerbal ilo an ejjeļo̧k Wi‑Fi. iPhone, iPad im Android.",
+    "photoAppTitle": "Kōpooj pija ko am̧",
+    "photoAppText": "Ilo app eo ejjeļo̧k wōņāān an Golden Moments, pija ko kwoj kāāleti rej pād wōt ilo tiwaij eo am̧ n̄an bar juon iien, im ikkure ko rej jerbal meñe ejjeļo̧k Wi‑Fi. iPhone, iPad im Android.",
+    "goodToKnow": "Em̧m̧an n̄an jeļā",
+    "goodToKnowText": "Ikkure in ej n̄an m̧ōnōnō im kōm̧m̧an iien ippān doon. Ej jab teej e, jōn̄e, ak kōmour jabdewōt men.",
+    "moreGames": "Bar jet ikkure ko reineemman",
+    "crumb": "Ikkure ko"
   }
 }

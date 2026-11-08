@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Riit kōn ainikien",
+      "stopReading": "Bōjrak riit",
+      "region": "Ikkure",
+      "restart": "Bar jinoe",
+      "soundOn": "Kōjerbal ainikien edik",
+      "soundOff": "Kun ainikien edik",
+      "done": "Jem̧ļo̧k kiiō",
+      "feedbackQuestion": "Ekar ke jipan̄ rainin?",
+      "feedbackYes": "Aaet",
+      "feedbackNo": "Jab lukkuun",
+      "feedbackThanks": "Kōm̧m̧ool kōn am̧ kōmeļeļeik kōm."
+    },
+    "tile": {
+      "named": "{name}, teiļ {n}",
+      "hidden": "Pija ennooj, teiļ {n}",
+      "withState": "{label}, {state}",
+      "matched": "Jokkun wōt juon",
+      "selected": "Kāālot",
+      "picture": "Pija",
+      "photoNumber": "Pija {n}"
+    },
+    "pairs": {
+      "allTogether": "Aolep pea rej koba ippān doon. Ikkure bar juon alen ak kakkije jidik.",
+      "photoPair": "Pean pija ko, koba ippān doon.",
+      "picturePair": "Ruo pija in {name|lower}, koba ippān doon.",
+      "selected": "{name}. Kiiō pukot pean.",
+      "mismatch": "M̧ōkadjok jab bōk am̧ iien. Jir̄ik pija eo n̄an wōnm̧aanļo̧k.",
+      "mismatchNamed": "{a} kab {b}. M̧ōkadjok jab bōk am̧ iien. Jir̄ik pija eo n̄an wōnm̧aanļo̧k."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Jir̄ik juon pija, innām jir̄ik pija eo juon me ej jokkun wōt juon ippān.",
+      "guidanceHidden": "Jir̄ik ruo teiļ n̄an kōļļe e er. Pukot ruo me rej jokkun wōt juon.",
+      "restart": "Pija ko rōkāāl",
+      "sizeLegend": "Jete teiļ",
+      "size": {
+        "one": "{n} teiļ",
+        "other": "{n} teiļ"
+      },
+      "viewLegend": "Wāween am̧ ikkure",
+      "viewShowing": "Pija ko rej ajeeded",
+      "viewHidden": "Pija ko rennooj",
+      "playAgain": "Bar ikkure kōn pija ko rōkāāl",
+      "talk": "Kōnono ippān doon kōn pija kein"
+    },
+    "choose": {
+      "countLegend": "Jete pija",
+      "count": "{n} pija n̄an kāālot jān er",
+      "thatOne": "Eņ ej {name|lower}. M̧ōkadjok jab bōk am̧ iien."
+    },
+    "findTheSame": {
+      "guidance": "Lale pija eo ilōn̄. Jir̄ik pija eo ej jokkun wōt juon ippān ilaļ.",
+      "yes": "Aaet, {name|lower} eo jokkun wōt juon.",
+      "next": "Pija eo juon"
+    },
+    "shadowMatch": {
+      "guidance": "Lale anōn̄nōn̄ eo ilōn̄. Jir̄ik pija eo me ej kōm̧m̧ane anōn̄nōn̄ in.",
+      "yes": "Aaet, {name|lower} eo ej kōm̧m̧ane anōn̄nōn̄ eņ.",
+      "next": "Anōn̄nōn̄ eo juon",
+      "shadowAlt": "Juon anōn̄nōn̄ n̄an pukot pean",
+      "foundAlt": "Anōn̄nōn̄ in {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Jir̄ik juon pija, innām jir̄ik jānkō eo ej deļo̧n̄ ie.",
+      "restart": "Pija ko rōkāāl",
+      "themeLegend": "Kain pija ko",
+      "selected": "{name}. Kiiō jir̄ik jānkō eo me ej deļo̧n̄ ie.",
+      "pickFirst": "M̧okta jir̄ik juon pija, innām jir̄ik juon jānkō.",
+      "hint": "{name|lower} emaron̄ deļo̧n̄ ilo \"{basket}\". Jir̄ik jānkō eņ n̄an likūt ie.",
+      "placed": "{name|lower} eo ebar pād ilo \"{basket}\".",
+      "sorted": "Aolep men ko em̧ōj aenōļo̧k er. Koba ippān doon n̄an lale jānkō ko, ak kajjioon kōn bar juon kain.",
+      "basket": {
+        "one": "Jānkō in {basket}, {count} pija iloan",
+        "other": "Jānkō in {basket}, {count} pija iloan"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Jir̄ik juon m̧ōttan, innām jir̄ik bar juon m̧ōttan. Rej bōk jikin doon.",
+      "restart": "Bar kobaiki ippān doon",
+      "pictureLegend": "Pija",
+      "pictures": {
+        "sailboat": "Wa kōrkōr",
+        "house": "Em̧",
+        "balloon": "Baluun",
+        "sunflower": "Wūtiebbaļ",
+        "lighthouse": "Im̧ōn kōkkaļōļ",
+        "cat": "Kuuj"
+      },
+      "sizeLegend": "M̧ōttan ko",
+      "size": {
+        "one": "{n} m̧ōttan",
+        "other": "{n} m̧ōttan ko"
+      },
+      "pickedUp": "Bōk m̧ōttan eo. Kiiō jir̄ik jikin eo ej aikuj pād ie.",
+      "whole": "{name|lower} eo ebar koba ippān doon. Kāālot bar juon pija jabdewōt iien kōņaan.",
+      "swapped": {
+        "one": "Em̧ōj kōm̧ōttan bōk jikin doon. {correct} jān {total} m̧ōttan epād ilo jikin eo ejejjet.",
+        "other": "Em̧ōj kōm̧ōttan bōk jikin doon. {correct} jān {total} m̧ōttan ko repād ilo jikin eo ejejjet."
+      },
+      "guideAlt": "Pija eo ebo̧o̧r: {name}",
+      "guideText": "Āindein pija in an em̧m̧an n̄e ej aolep.",
+      "piece": "M̧ōttan eo epād ilo {place}",
+      "pieceInPlace": ", epād ilo jikin eo ejejjet",
+      "piecePickedUp": ", bōk m̧ōttan",
+      "places4": [
+        "iōn̄ anmiiŋ",
+        "iōn̄ anmoon",
+        "irowan anmiiŋ",
+        "irowan anmoon"
+      ],
+      "places9": [
+        "iōn̄ anmiiŋ",
+        "iōn̄ ilo iōlap",
+        "iōn̄ anmoon",
+        "iōlap anmiiŋ",
+        "iōlap",
+        "iōlap anmoon",
+        "irowan anmiiŋ",
+        "irowan ilo iōlap",
+        "irowan anmoon"
+      ],
+      "done": "Pija eo ebar em̧m̧an aolepān. Bar ikkure ak kakkije jidik.",
+      "playAgain": "Bar ajeededi m̧ōttan ko"
+    },
+    "finishTheSaying": {
+      "guidance": "Riit jabōnkōnnaan in ippān doon, innām jir̄ik naan eo ej kadedeļo̧k.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Aaet, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" emaron̄ em̧m̧an barāinwōt. Jabōnkōnnaan eo ekaameletļo̧k ej jem̧ļo̧k kōn \"{end}\".",
+      "revealed": "Jabōnkōnnaan in ej \"{start} {end}.\"",
+      "choicesLabel": "Kāālot naan eo āliktata",
+      "show": "Kālōke jem̧ļo̧kin",
+      "talk": "Kōnono kake: ",
+      "next": "Jabōnkōnnaan eo juon"
+    },
+    "wordSearch": {
+      "guidance": "Naan ko rej wōnm̧aanļo̧k kōtaan ak etal ilaļ. Jir̄ik leta eo jinointata ilo naan eo, innām leta eo āliktata.",
+      "restart": "Pajjōl ekāāl",
+      "themeLegend": "Kain naan ko",
+      "sizeLegend": "Jete kōtaan",
+      "size": {
+        "one": "{n} kōn {n} ({words} naan)",
+        "other": "{n} kōn {n} ({words} naan ko)"
+      },
+      "print": "Pōriin pajjōl in",
+      "letterChosen": "Leta {letter} em̧ōj kāālōte. Kiiō jir̄ik leta eo āliktata ilo naan eo.",
+      "found": "Lo {word}.",
+      "foundAll": "Lo {word}. Em̧ōj lo aolep naan ko. Bar ikkure ak kakkije jidik.",
+      "tryAgain": "M̧ōkadjok jab bōk am̧ iien. Jir̄ik leta eo jinointata ilo naan eo, innām leta eo āliktata.",
+      "gridLabel": "Peba in leta, {n} lain in {n} leta ko. Kōjerbal aŗo ko n̄an kobaiki kōtaan leta ko.",
+      "cell": "{letter}, lain {row}, būreejt {col}",
+      "cellFound": ", m̧ōttan juon naan me em̧ōj loe",
+      "wordsHeading": "Naan ko n̄an pukot",
+      "wordFound": " (em̧ōj loe)",
+      "sheetTitle": "Pukot naan: {theme}",
+      "sheetNote": "Naan ko rej wōnm̧aanļo̧k kōtaan ak etal ilaļ.",
+      "unavailable": "Jikin leta ej jab jeļā ilo kajin in, kōn menin ikkure in pukot naan ejjeļo̧k ijin. Kajjioon ikkure in pija ko."
+    },
+    "coloring": {
+      "guidance": "Jir̄ik juon ko̧o̧ļo̧r, innām jir̄ik juon m̧ōttan ilo pija eo.",
+      "restart": "Jolo̧k ko̧o̧ļo̧r ko",
+      "cleared": "Peba eo ebar rōrro̧.",
+      "pageLegend": "Peba",
+      "print": "Pōriin peba in",
+      "colorsLabel": "Ko̧o̧ļo̧r ko",
+      "paintChosen": "{paint} em̧ōj kāālōte.",
+      "painted": "{part} kiiō ej {paint|lower}.",
+      "artLabel": "{page}, {count} jikin n̄an kōko̧o̧ļo̧r",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ejjaab kōko̧o̧ļo̧r",
+      "paints": {
+        "red": "Būrōrō",
+        "orange": "Mooto",
+        "yellow": "Bāļoolo",
+        "green": "Kūrin",
+        "blue": "Bulu",
+        "purple": "Kōrātōl",
+        "pink": "Pin̄k",
+        "brown": "Būraun",
+        "sky-blue": "Bulu imejatoto",
+        "cream": "Kūriim",
+        "gray": "Bōro̧",
+        "white": "Mour"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Riit kaat in ilo ainikien kanooj. Ejjeļo̧k uwaak me ebōd.",
+      "position": "Kaat {n} jān {total}",
+      "themeLegend": "Kain naan ko",
+      "next": "Kaat eo juon",
+      "previous": "Kaat eo m̧okta",
+      "print": "Pōriin aolep kaat ko",
+      "sheetTitle": "Kaat in bwebwenato ippān doon"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Jinoe kōn am̧ kāālot pija ko am̧.",
+      "guidance": "Jir̄ik juon pija, innām jir̄ik pija eo me ej pean.",
+      "restart": "Bar ajeeded er",
+      "intro": "**Kāālot 2 n̄an 6 pija ko** jān kein jerbal in am̧. Rej ajeeded wōt ilo peba in im ejako aer u̧kļoot ak kakonkon.",
+      "choose": "Kāālot pija ko",
+      "chooseDifferent": "Kāālot pija ko roktak",
+      "clear": "Jolo̧k pija ko",
+      "cleared": "Em̧ōj kōm̧ōj pija ko jān peba in.",
+      "atLeastTwo": "Joij im kāālot kajjojo ruo pija.",
+      "usingFirst": "Kōjerbal pija ko {max} m̧oktata.",
+      "skipped": {
+        "one": "{count} fail ej jab juon pija me jemaron̄ kōjerbale.",
+        "other": "{count} fail ko rej jab juon pija me jemaron̄ kōjerbale."
+      },
+      "playAgain": "Bar ikkure kōn pija kein",
+      "empty": "Pija ko am̧ renaaj ajeeded ijin, kajjojo er ruo alen."
+    },
+    "pictureBingo": {
+      "guidance": "Pōriin kaat ko m̧okta. Innām kwaļo̧k ri-kūra in ilo jikin alwōj eo eļaptata ippām̧.",
+      "called": {
+        "one": "{name}. {called} jān {total} pija em̧ōj kūr kake.",
+        "other": "{name}. {called} jān {total} pija ko em̧ōj kūr kaki."
+      },
+      "start": "Jir̄ik \"Pija eo juon\" n̄an kūr pija eo jinointata.",
+      "restart": "Jinoe juon ikkure ekāāl",
+      "squaresLegend": "Kwōpej ko ilo kajjojo kaat",
+      "squares": "{n} kwōpej ko ({side} kōn {side})",
+      "cardsLegend": "Jete kaat n̄an pōriin",
+      "cards": {
+        "one": "{n} kaat",
+        "other": "{n} kaat ko"
+      },
+      "print": {
+        "one": "Pōriin {n} kaat in bin̄go",
+        "other": "Pōriin {n} kaat in bin̄go ko"
+      },
+      "ready": "M̧ōkadjok wōt n̄e kwōpojak",
+      "next": "Pija eo juon",
+      "allCalled": "Aolep pija em̧ōj kūr kaki",
+      "alreadyCalled": "Em̧ōj kūr kake",
+      "sheetTitle": "Bin̄go in pija · kaat {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Menono tok ilo an kileplọk jikin kōbaļ eo, im menono ļọk ilo an jidikļọk. Enaaj make bōjrak ālkin jiljino alen am menono.",
+      "paceLegend": "M̧ōkaj",
+      "paceSlow": "M̧ōkajdik (5 jikōn kajjojo iaer)",
+      "paceGentle": "Em̧m̧an wōt (4 jikōn kajjojo iaer)",
+      "ready": "Pojak jabdewōt iien kwōpojak",
+      "in": "Menono tok",
+      "hold": "Kakkije",
+      "out": "Menono ļọk",
+      "start": "Jinoe",
+      "stop": "Bōjrak",
+      "started": "E jino. Menono tok ilo an kileplọk jikin kōbaļ eo.",
+      "stopped": "E bōjrak.",
+      "finished": "E m̧ōj jiljino alen am menono m̧ōkajdik. Kwomaroñ bar jinoe jabdewōt iien kwōkōņaan."
+    }
+  },
+  "pictures": {
+    "teacup": "Kāāp in ti",
+    "kettle": "Kiitōl",
+    "bread": "Pilawa",
+    "frying-pan": "Bōlai ippān lip",
+    "cake": "Keek in ļo̧to̧k",
+    "sunflower": "Wūti al",
+    "tulip": "Kanto bōrōrō",
+    "watering-can": "Bōkōt in dānnin wūjke",
+    "potted-plant": "Wōjke ilo jikin eddek",
+    "tree": "Wōjke",
+    "bird": "Bao ioon raan wōjke",
+    "butterfly": "Babbūb",
+    "dog": "Kīdu",
+    "cat": "Kuj",
+    "fish": "Ek bōrōrō",
+    "apple": "Apeļ bōrōrō",
+    "pear": "Pāer",
+    "strawberry": "Strawberry",
+    "banana": "Banana",
+    "lemon": "Lāimon",
+    "cherries": "Jerī ko",
+    "house": "Mweo",
+    "lamp": "Lāām ioon tebo̧",
+    "armchair": "Jeea in kakkije",
+    "key": "Kīi moro",
+    "umbrella": "Am̧būlela",
+    "sailboat": "Wa kōto",
+    "car": "Kaa jekjekin etto",
+    "bicycle": "Baajkōļ",
+    "balloon": "Balun kōto bwil",
+    "lighthouse": "Im̧ōn meram",
+    "sun": "Al",
+    "moon": "Allōñ im iju ko",
+    "teapot": "Tiipot",
+    "apple-pie": "Baai in apeļ",
+    "honey-jar": "Bāāt in hani",
+    "boiled-egg": "Lip ilo kāāp",
+    "toaster": "Majiin in pilawa",
+    "cheese": "M̧ōttan jiij",
+    "milk-jug": "Bāāt in dānnin tutu",
+    "cupcake": "Kapkēk",
+    "orange": "Wōran̄",
+    "grapes": "Buñin kūreep",
+    "watermelon": "M̧ōttan watermelon",
+    "pineapple": "Pinapōļ",
+    "peach": "Piij",
+    "rose": "Rooj",
+    "daisies": "Wūti daisy",
+    "mushroom": "M̧ajrum̧",
+    "wheelbarrow": "Wilbaro",
+    "birdhouse": "Im̧ōn bao",
+    "cactus": "Kaktōj ilo jikin eddek",
+    "acorn": "Leen wōjke",
+    "autumn-leaf": "Bōlōk mōrā",
+    "rabbit": "Kuku",
+    "duck": "Dak",
+    "hen": "Bao kōrā",
+    "sheep": "Jiip",
+    "owl": "Owl",
+    "ladybird": "Babbūb jidikdik",
+    "snail": "Jijoor",
+    "frog": "Bōrok",
+    "bee": "Bii",
+    "clock": "Kulōk ioon tebo̧",
+    "vase-of-flowers": "Bāāt in kanto",
+    "radio": "Redio moro",
+    "books": "Bōk ko",
+    "candle": "Kāndōļ",
+    "glasses": "Glaaj in riit",
+    "telephone": "Tālepoon",
+    "ball-of-wool": "Bōōl in wūūl",
+    "straw-hat": "Hat in al",
+    "train": "Tūrein in batbat",
+    "bus": "Bōōj",
+    "airplane": "Balun",
+    "suitcase": "Keej in ettal",
+    "tractor": "Tūraktōr",
+    "rowing-boat": "Korkor",
+    "rainbow": "Iālele",
+    "rain-cloud": "Kōdo̧ in wōt",
+    "snowflake": "Ais in sno̧",
+    "kite": "Kāāt",
+    "sunrise": "Takļo̧k an al"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEIKLMNOPRSTUW",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Leen wōjke",
+          "words": [
+            "APEĻ",
+            "BŌB",
+            "PAIA",
+            "KURUP",
+            "LĀIN",
+            "ORAN̄",
+            "PIIJ",
+            "MEN̄GO",
+            "PINAT"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Jikin kōkkan",
+          "words": [
+            "ROOJ",
+            "WŌJKE",
+            "BŌLŌK",
+            "INEE",
+            "BŌL",
+            "OKAR",
+            "KANTO",
+            "JAAK",
+            "BWE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Jikin kōmat",
+          "words": [
+            "KĀĀP",
+            "JIBUN",
+            "PĀĀN",
+            "BOOĻ",
+            "BŌLAI",
+            "BŪKWE",
+            "PĀĀLE",
+            "POK",
+            "PILAWA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Kōto im lan̄",
+          "words": [
+            "WŌT",
+            "KŌTO",
+            "KŌDO̧",
+            "AN̄Ō",
+            "LAN̄",
+            "MERO",
+            "TAB",
+            "AIS",
+            "BWIIL"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Menin mour",
+          "words": [
+            "KĪDU",
+            "KUJ",
+            "BAO",
+            "BABI",
+            "KUUT",
+            "KOU",
+            "ORIS",
+            "DAK",
+            "BŌROK"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Mweo",
+          "words": [
+            "KOOJ",
+            "JEEA",
+            "TEBO̧",
+            "LĀĀM",
+            "KŌJĀM",
+            "WAAL",
+            "KULŌK",
+            "ROUM",
+            "MĀĀT"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kāāt ko otemjej",
+        "food": "M̧ōn̄ā",
+        "home": "Mweo",
+        "outdoors": "Itulik",
+        "animals": "Menin mour",
+        "travel": "Ettal ilo jikin ko",
+        "work": "Jerbal im m̧akūtkūt ko",
+        "music": "Al im m̧ōņōņō",
+        "seasons": "Iien ko ilo iiō"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ta bōbwōj eo kwōmāāniļo̧k ilo jikin kōmat?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kāin keek tōrerein ta kwōnaaj kāālete ñan juon iien kean̄?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Kōnono m̧ōk kōn juon kāin baai leen wōjke ak menin kaņōņō kwōj m̧ōņōņō kake."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Ewi wāween am kōņaan idaak ti ak kōpe am?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ta m̧ōn̄ā in jibbon̄ eo em̧m̧an tata ippam̧?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Kwaar ke maron̄ būki leen wōjke jān rāin wōjke eo make?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Eneņo ak ekōmjaļa: ta eo kwōj m̧ōņōņōļo̧k kake?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ta m̧ōn̄ā eo kakeememej eok kōn iien bwil?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Kōnono m̧ōk kōn juon em̧ kwōkar m̧ōņōņō in jokwe ie."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Iia jikin eo em̧m̧an tata ippam̧ ñan jijet im kakkije ie?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ta eo kwōj kōņaan kōm̧m̧ane ilo juon jota in ainem̧m̧an?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ta men eo eaorōk ippam̧ kwōnaaj kōjparoke ilo juon bōkōt em̧m̧an?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Wōn eo kwōnaaj kōņaan kajjitōk kake bwe en koba ippam̧ ñan juon kāāp in ti?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ta eo kwōj m̧ōņōņō in kōm̧m̧ane ilo juon raan in wōt?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Kāin ut ta ko kwōnaaj kōņaan kōkkāi ilo juon jikin kōkkan?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Kōnono m̧ōk kōn juon wōjke ak jikin kakkije kwōj m̧ōņōņō kake."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Ta eo em̧m̧an tata ilo am pād ilo jikin kōkkan?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kāin kaļa in ut ta eo em̧m̧an tata ippam̧?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Kwōj ke m̧ōņōņō ne eor wōjke ko ilowaan mweo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ewi wāween juon raan in al eo em̧m̧an tata ippam̧?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Kōnono m̧ōk kōn juon kīdu kwōjeļā kajeen."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kuj ak kīdu, ak ejjeļo̧k iaer? Ta eo kwōj m̧ōņōņō kake kōn er?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Kāin bao ta ko kwōj loi ak ron̄jaki itulik?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Kwaar ke eọn̄ōd, ak doon ek ilo juon aen ek?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ta menin mour eo eaiboojoj tata kwaar loe?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Kōnono m̧ōk kōn juon kaa kwaar m̧ōņōņō kake."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Kwōkōņaan ke kōm̧m̧an juon raan ilo arno̧ ak ilo tol ko?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Iia kwōkōņaan ettal ñane ilo am kabbelwaļo̧k?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Eļan̄n̄e kwōmaron̄ kōkāāt kōbaak ioon jabdewōt jikin, enaaj kar iia?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ta juon ettal ak tōreep kwaar em̧m̧an am pād ie?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Kāin jerbal ta ko kwaar m̧ōņōņō in kōm̧m̧ani?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ta juon m̧akūtkūt in kakkije kwōmaron̄ kōm̧m̧ane ilo iien ko rōtoot?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ta juon men kwaar jeļā kōm̧m̧ane ak kōkkar e?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ta kālet kwōnaaj leļo̧k ñan juon em̧m̧an ak jiron̄ ej jino jerbal?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kāin al ta ej kōm̧m̧an bwe kwōn kōņaan m̧akūtkūt neēm̧?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ta ej kōm̧m̧an bwe juon iien kuk ak pati en em̧m̧an tata?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Wōn juon ri-al kwōj m̧ōņōņō in ron̄jake?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ta juon filim ak pōrokūram̧ ilo tiibi kwōkōņaan bar alwōje?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Ta eo kwōj m̧ōņōņō tata kake ilo iien an bwil kōto?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Ta eo kwōj m̧ōņōņō kake ilo iien mōrāikier?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ta juon m̧akūtkūt in kōttōbōb kwōj m̧ōņōņō in kōm̧m̧ane ilo juon jota in m̧ōļo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Ta mōttan ko rejinowōt me rej kwaļọk bwe iien maroro ej itok?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Sno̧, wōt, ak meramin al: ta eo kwōj m̧ōņōņōļo̧k kake?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Ut ilo jikin eddek",
+          "regions": {
+            "sky": "Liklikin",
+            "table": "Tebo̧",
+            "stem": "Kaan ut",
+            "leaf-left": "Bōlōk turin anmiin̄",
+            "leaf-right": "Bōlōk turin anbiiñ",
+            "petal-1": "Bōlōkin ut 1",
+            "petal-2": "Bōlōkin ut 2",
+            "petal-3": "Bōlōkin ut 3",
+            "petal-4": "Bōlōkin ut 4",
+            "petal-5": "Bōlōkin ut 5",
+            "petal-6": "Bōlōkin ut 6",
+            "petal-7": "Bōlōkin ut 7",
+            "petal-8": "Bōlōkin ut 8",
+            "center": "Iolapin ut",
+            "pot": "Bōkōt",
+            "pot-rim": "Tōrerein bōkōt"
+          }
+        },
+        "house": {
+          "name": "Mweo",
+          "regions": {
+            "sky": "Lan̄",
+            "sun": "Al",
+            "grass": "Ujoj",
+            "chimney": "Jum̧ni",
+            "walls": "Woor ko",
+            "roof": "Wōpjan̄",
+            "door": "Kōjām",
+            "window-left": "Wūntō turin anmiin̄",
+            "window-right": "Wūntō turin anbiiñ",
+            "path": "Iālwōj"
+          }
+        },
+        "teacup": {
+          "name": "Kāāp in ti",
+          "regions": {
+            "background": "Liklikin",
+            "saucer": "Pāāle jidikdik",
+            "handle": "Dāer",
+            "cup": "Kāāp",
+            "band": "Kōro ioon kāāp eo",
+            "tea": "Ti"
+          }
+        },
+        "butterfly": {
+          "name": "Babbūb",
+          "regions": {
+            "background": "Liklikin",
+            "wing-top-left": "Pā iļōn̄ turin anmiin̄",
+            "wing-top-right": "Pā iļōn̄ turin anbiiñ",
+            "wing-bottom-left": "Pā iļaļ turin anmiin̄",
+            "wing-bottom-right": "Pā iļaļ turin anbiiñ",
+            "spot-left": "Tōt turin anmiin̄",
+            "spot-right": "Tōt turin anbiiñ",
+            "body": "Ānbwin"
+          }
+        },
+        "sailboat": {
+          "name": "Wa kōto",
+          "regions": {
+            "sky": "Lan̄",
+            "sea": "Lojin̄e",
+            "sail-big": "Wōjke kileplep",
+            "sail-small": "Wōjke jidikdik",
+            "mast": "Kiju",
+            "hull": "Wa",
+            "flag": "Būlaak"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Jikin kōmat im jikin kōkkan",
+          "baskets": [
+            "Ilo kuujin",
+            "Ilo jikin kallib"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Leen wōjke im menninmour",
+          "baskets": [
+            "Leen wōjke",
+            "Menninmour"
+          ]
+        },
+        "home-travel": {
+          "label": "M̧weo im iaļo",
+          "baskets": [
+            "Ilo m̧weo",
+            "Ilo iaļ"
+          ]
+        }
+      }
+    }
+  }
+}
