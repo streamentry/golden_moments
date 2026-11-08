@@ -4,6 +4,7 @@ import { boldRuns, fill, plural } from '../i18n/play/format';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
 import { PairsBoard } from './shared/PairsBoard';
+import { sounds } from './shared/sound';
 
 const MAX_PHOTOS = 6;
 const MAX_BYTES = 40 * 1024 * 1024;
@@ -56,6 +57,7 @@ export default function PhotoPairs(props: PlayProps) {
   };
 
   const clear = () => {
+    sounds.tap();
     setUrls([]);
     setMessage(ui.photoPairs.cleared);
     setNote('');

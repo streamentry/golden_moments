@@ -115,7 +115,11 @@ export default function Coloring(props: PlayProps) {
               type="button"
               className="swatch"
               aria-pressed={p.value === paint.value}
-              onClick={() => { setPaint(p); setMessage(fill(ui.coloring.paintChosen, { paint: paintName(p) })); }}
+              onClick={() => {
+                sounds.tap();
+                setPaint(p);
+                setMessage(fill(ui.coloring.paintChosen, { paint: paintName(p) }));
+              }}
             >
               <span className="swatch__dot" data-paint={p.id} aria-hidden="true" />
               {paintName(p)}

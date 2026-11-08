@@ -51,6 +51,7 @@ export default function PicturePuzzle(props: PlayProps) {
       sounds.tap();
       setMessage(ui.picturePuzzle.pickedUp);
     } else if (before === slot) {
+      sounds.tap();
       setMessage('');
     } else if (isSolved(store.state)) {
       sounds.done();
@@ -95,7 +96,7 @@ export default function PicturePuzzle(props: PlayProps) {
         <img src={url} alt={fill(ui.picturePuzzle.guideAlt, { name: pictureName(picture) })} width={96} height={96} />
         <p className="m-0">{ui.picturePuzzle.guideText}</p>
       </div>
-      <div className="puzzle" data-size={state.size}>
+      <div className="puzzle" data-size={state.size} data-has-selected={state.selected !== null ? 'true' : undefined}>
         {state.order.map((piece, slot) => {
           const row = Math.floor(piece / state.size);
           const col = piece % state.size;

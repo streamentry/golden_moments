@@ -70,6 +70,7 @@ function WordSearchGame(props: PlayProps) {
       return;
     }
     if (start[0] === r && start[1] === c) {
+      sounds.tap();
       setStart(null);
       setMessage('');
       return;
@@ -87,6 +88,7 @@ function WordSearchGame(props: PlayProps) {
         setMessage(fill(ui.wordSearch.found, { word: w.word }));
       }
     } else {
+      sounds.tap();
       setMessage(ui.wordSearch.tryAgain);
     }
   };
