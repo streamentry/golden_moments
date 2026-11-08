@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Ol pija pea",
+    "seoTitle": "Gêm blong matjem pija blong olgeta we oli gat sik blong foget: Ol pija pea",
+    "h1": "Ol pija pea: Wan kwaet gêm blong faenem sem pija",
+    "description": "Wan fri gêm we i kwaet blong faenem tu pija we i sem mak, blong olgeta we oli stap laef wetem sik blong foget.",
+    "short": "Faenem tu pija we tufala i sem mak. Ol pija oli save stap soem olsem nomo.",
+    "players": "1 o 2 man, stap saed long saed",
+    "intro": "Taepem wan pija, biaen taepem narawan we i sem mak long hem. Ol pija oli stap soem olsem nomo blong i no nid blong rimemba wan samting. Taem tu pija i kam wanples, tufala i kasem wan gol laen raonem olgeta mo wan mak blong tik.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Jusum hamas tael yu wantem yusum. Foa tael i wan kwaet ples blong stat.",
+      "Taepem eni pija. Wan gol laen bambae i kamaot raonem hem.",
+      "Taepem pija we i sem mak. Tufala pija ya bambae i stap wanples wetem wan mak blong tik.",
+      "Sipos tufala pija i no sem mak, i no gat wan nogud samting i hapen. Taepem bakegen taem yu rere.",
+      "Onem \"Ol haed pija\" nomo sipos yutufala i laekem fasin blong pas blong tanem pija i fesdaon."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Singaot nem blong ol pija tugeta mo storian smol long olgeta: \"Wan red kap ti. Yu stap putum melek long ti blong yu?\"",
+      "Lekem man we yu stap lukaotem hem i taepem skrin, nomata i tekem smol taem. Poyntem nomo long fingga, no taepem long ples blong hem.",
+      "Stap wetem foa tael olsem we i harem gud. Moa tael i wan jus nomo, i no wan mak we yu mas kasem.",
+      "Finis taem yutufala i glad yet. Wan gêm nomo i wan ful aktiviti finis."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gat wan taem o mak blong gêm ya?",
+        "a": "No. I no gat klok, mak, namba blong kaontem ol muf, o fasin blong lus. Yu save stop long eni taem, mo blong stop hafwei i wan gudfala fasin blong finisim tu."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "From wanem ol pija oli stap soem fes blong olgeta oltaem?",
+        "a": "Taem ol pija oli stap soem, hemia i mekem gêm i kam blong lukluk mo faenem sem mak, i no blong rimemba samting. Plante man oli faenem se fasin ya i moa kwaet. Yu save jenisim i go long ol haed pija wetem wan taep nomo sipos yu wantem."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hemia i fri, mo mi nid blong saenap?",
+        "a": "Yes, hem i fri, mo i no gat akaon, saenap, o daonlod. Hem i wok gud long web braosa long fon, tablet, o kompiuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Mifala i save yusum ol foto blong famili blong mifala?",
+        "a": "Yes. Traem Foto pea, we i letem yu jusum ol foto long divaes blong yu. Ol foto oli stap nomo long braosa blong yu mo oli no apload i go long naraples."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Faenem sem pija",
+    "seoTitle": "Faenem sem pija: Isi gêm blong sik blong foget",
+    "h1": "Faenem sem pija",
+    "description": "Wan pija antap, tu kasem foa pija daon. Taepem pija we i sem mak. Wan kwaet mo fri gêm blong pija blong olgeta we oli stap laef wetem sik blong foget, we i no gat taem.",
+    "short": "Lukluk pija antap mo taepem pija we i sem mak daon.",
+    "players": "1 o 2 man",
+    "intro": "Wan pija nomo i stap antap long skrin. Daon long hem i gat tu, tri, o foa pija. Taepem pija we i sem mak. Hem i wan isi jus nomo long wan taem, wetem fulap taem blong toktok tugeta.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Jusum tu, tri, o foa pija blong jus long olgeta. Tu pija i moa isi.",
+      "Lukluk pija antap tugeta.",
+      "Taepem pija we i sem mak daon. Bambae i gat wan mak blong tik mo sam kaen toktok i kamaot.",
+      "Sipos yu taepem wan narafala pija, gêm ya i talem nem blong hem nomo mo i wet. Tekem taem blong yu.",
+      "Taepem \"Nekis pija\" taem yu rere blong luk narafala."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Toktok long ol pija bifo yu jusum: ol kala, ol sep, mo wea ples yu save luk hem.",
+      "Tu jus i no \"isi tumas\". Stael blong hem i blong harem gud long wan naes taem, i no blong givim hadwok.",
+      "Sipos i had blong taepem, man ya i save poyntem nomo mo yu save taepem long ples blong hem."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gat wan taem o mak blong gêm ya?",
+        "a": "No. I no gat klok, mak, namba blong kaontem ol muf, o fasin blong lus. Yu save stop long eni taem, mo blong stop hafwei i wan gudfala fasin blong finisim tu."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Wanem i stap hapen sipos man i taepem rong pija?",
+        "a": "I no gat wan samting we i mekem man i harem nogud. I no gat saon blong basa, red kros, o seking. Gêm i talem nem blong pija we yu taepem nomo mo i wet blong narafala taep."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hemia i fri, mo mi nid blong saenap?",
+        "a": "Yes, hem i fri, mo i no gat akaon, saenap, o daonlod. Hem i wok gud long web braosa long fon, tablet, o kompiuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Matjem sedo",
+    "seoTitle": "Gêm blong matjem sedo blong sik blong foget: Fri onlaen",
+    "h1": "Matjem sedo: Wan kwaet gêm blong pija",
+    "description": "Wan blaek sedo antap, tu kasem foa pija daon. Taepem pija we i mekem sedo ya. Wan fri mo kwaet gêm blong matjem sedo blong sik blong foget, we i no gat taem.",
+    "short": "Lukluk sedo mo taepem pija we i mekem sedo ya.",
+    "players": "1 o 2 man",
+    "intro": "Fasin blong matjem sedo i wan aktiviti we plante man i save finis long ol pepa blong wok, be long ples ya i gat ol bigfala pija mo i no gat nid blong printim wan samting. Wan kwaet sedo i stap antap long skrin mo tu, tri, o foa pija i stap wet daon. Taepem pija we i mekem sedo ya. Ol samting olsem wan baesikol, wan ambrela, o wan kap ti oli isi blong storian long olgeta tu.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Jusum tu, tri, o foa pija blong jus long olgeta. Tu pija i moa isi.",
+      "Lukluk sedo tugeta. Wanem sep blong hem? Hem i longfala o raon?",
+      "Taepem pija we i mekem sedo ya. Nem blong hem bambae i kamaot ananit long sedo.",
+      "Sipos yu taepem wan narafala pija, gêm ya i talem nem blong hem nomo mo i wet. Tekem taem blong yu.",
+      "Taepem \"Nekis sedo\" taem yu rere blong luk narafala."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Folem laen raonem sedo wetem fingga mo storian long sep blong hem.",
+      "Sipos sedo i luk had smol tede, jenis i go long Faenem sem pija, we ol pija oli luk sem mak.",
+      "Toktok long pija taem yu faenem finis: \"Bifor yumi bin gat wan ambrela olsem ya.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gat wan taem o mak blong gêm ya?",
+        "a": "No. I no gat klok, mak, namba blong kaontem ol muf, o fasin blong lus. Yu save stop long eni taem, mo blong stop hafwei i wan gudfala fasin blong finisim tu."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Majelem ol sewo i wan gudfala aktiviti blong olgeta we oli stap laef wetem dementia?",
+        "a": "I save wan naes mo isi aktiviti blong sam man, speseli long stat blong sik ia. I moa isi blong luksave ol seip bitim ol toktok. Hemia i blong mekem man i harem gud mo blong storian, i no wan tes, mo i no tritimgia o mekem se dementia i go slo. Sipos i mekem man i harem kros o taed, traem Faenem sem samting o jes lukluk ol pija tugeta nomo."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Wanem bambae i hapen sipos yu tajem rong pija?",
+        "a": "I no gat wan samting we i no naes bambae i hapen. I no gat noes blong kros, red kros o seksek. Gem i talem nem blong pija we yu bin tajem mo i wet blong yu tajem nekiswan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "I fri, mo mi mas saenap?",
+        "a": "Yes, i fri nomo, mo i no gat akaon, saenap o daonlod. I stap wok long web braosa long wan telefon, tablet o kompiuta."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sotem tugeta",
+    "seoTitle": "Gem blong Sotem Samting blong Dementia: Sotem Tugeta",
+    "h1": "Sotem Tugeta: Wan Aktiviti blong Sotem ol Pija",
+    "description": "Tajem wan pija, biaen tajem basket we i mas go long hem: kijin o garen, frut o anamol.",
+    "short": "Putum evri pija long basket blong hem: kijin o garen, mo sam narafala moa.",
+    "players": "1 o 2 man",
+    "intro": "Sotem samting i wan evridei wok we yumi save gud mo i mekem man i harem gud, olsem blong putum ol kakae blong stoa long ples blong olgeta o joenem ol soks. Tajem wan pija, biaen tajem basket we i mas go long hem. I no gat hariap mo i no gat rong rod.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Jusum wan tim: kijin mo garen, frut mo anamol, o haos mo travel.",
+      "Tajem wan pija. Wan gol laen bambae i kamaot raonem hem.",
+      "Tajem basket we i mas go long hem. Pija i muv i go insaed long basket ia.",
+      "Sipos hem i blong narafala basket, gem i talem long kwaet fasin mo i wet.",
+      "Taem evri pija i stap long stret ples blong olgeta, lukluk insaed long ol basket tugeta."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Plante taem i no gat rong ansa long ril laef. Sipos wan man i talem se tin blong wotarem garen i mas go long kijin, askem hem from wanem. Yu save harem wan gudfala stori.",
+      "Yusum ol pija blong statem storian: \"Wanem samting yu bin planem long garen blong yu?\"",
+      "Blong sotem ol ril samting, olsem spun mo fok o baten folem kala, hem i wan nambawan samting blong mekem afta we yu no stap long skrin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gat taema o skoa?",
+        "a": "No. I no gat klok, skoa, kaonta blong haomas taem yu muv, o lus. Yu save stop long eni taem, mo blong stop hafwei nomo i wan gudfala wei blong finis."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "From wanem blong sotem samting?",
+        "a": "Plante man oli laekem blong sotem samting from we i olsem wan gudfala wok we oli save gud. Mo tu i isi blong storian abaot ol pija taem yutufala i stap mekem."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "I fri, mo mi mas saenap?",
+        "a": "Yes, i fri nomo, mo i no gat akaon, saenap o daonlod. I stap wok long web braosa long wan telefon, tablet o kompiuta."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Pasel blong pija",
+    "seoTitle": "Isi Jikso Pasel blong Dementia: 4 o 9 Pis",
+    "h1": "Pasel blong Pija: Wan Isi Jikso",
+    "description": "Wan isi onlaen jikso blong olgeta we oli stap laef wetem dementia: 4 o 9 bigfala pis, ful pija i stap klia blong luk, mo yu tajem tu pis nomo blong.",
+    "short": "Tajem tu pis blong senisem ples blong tufala go kasem we ful pija i kam klia.",
+    "players": "1 o 2 man",
+    "intro": "Wan naesfala pija oli katem long fo o naen bigfala pis mo miksimap olgeta. Ful pija i stap klia yet antap blong halpem yu. Tajem wan pis, biaen narafala pis, mo tufala i senisem ples. Yu no nid blong pulum ol pis.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Jusum wan pija mo 4 o 9 pis. Fo i wan isi stat.",
+      "Lukluk ful pija antap.",
+      "Tajem wan pis, biaen tajem ples we i mas go long hem. Tu pis ia bambae tufala i senisem ples.",
+      "Ol pis we oli stap long stret ples oli gat wan smol mak blong jek.",
+      "Taem pija i kam fulwan, harem gud long hem tugeta, biaen jusum narafala pija."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Blong tajem tu pis nomo blong senisem ples blong tufala i moa isi bitim blong pulum olgeta blong plante man.",
+      "Storian abaot pija taem i stap kam tugeta: \"I gat red ruf ia.\"",
+      "Wan ril wud jikso we i gat 12 kasem 24 bigfala pis i wan naesfala tebol aktiviti tu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gat taema o skoa?",
+        "a": "No. I no gat klok, skoa, kaonta blong haomas taem yu muv, o lus. Yu save stop long eni taem, mo blong stop hafwei nomo i wan gudfala wei blong finis."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Mi mas pulum ol pis?",
+        "a": "No. Tajem wan pis, biaen tajem narafala pis, mo tufala i senisem ples. Hemia i moa isi sipos han i stap seksek o long wan smol skrin."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "I fri, mo mi mas saenap?",
+        "a": "Yes, i fri nomo, mo i no gat akaon, saenap o daonlod. I stap wok long web braosa long wan telefon, tablet o kompiuta."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Finisim toktok",
+    "seoTitle": "Finisim Toktok: Gem blong Ol Proveb blong Ol Olfala",
+    "h1": "Finisim Toktok",
+    "description": "Ol toktok blong Amerika we man i save gud we las wod i no stap, olsem \"A penny saved is a penny ___\". Tajem wan joes o soem finis blong hem, biaen storian abaot hem.",
+    "short": "Mekem ol toktok we yufala i save gud i kam fulwan tugeta, biaen storian abaot olgeta.",
+    "players": "1, 2 o wan grup",
+    "intro": "Plante taem ol olfala toktok oli samting we man i save gud long ful laef blong hem. Evri kad i soem wan toktok we yu save gud wetem las wod we i no stap, trifala joes, mo wan baten we i talem \"Soem finis blong hem\". Afta long finis blong hem, wan kwaet kwestin i invaetem storian.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Ridim toktok ia strong tugeta.",
+      "Tajem wod we i finisim hem, o tajem \"Soem finis blong hem\".",
+      "Ridim ful toktok bakegen mo storian abaot hem wetem kwestin ia.",
+      "Tajem \"Nekis toktok\" taem yu rere."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Rid slo mo wet smol bifo yu talem las wod. Plante taem ol man oli talem finis bifo yu finis.",
+      "Sipos wan man i givim wan narafala finis, harem gud long hem. Sam veson blong ol toktok oli defren long famle o eria.",
+      "Long wan grup, wan man i rid mo evriwan i joen blong talem finis blong hem."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gat taema o skoa?",
+        "a": "No. I no gat klok, poen, namba blong muv, o we man i lus. Yu save stop long eni taem, mo blong stop hafwei nomo i wan gudfala wei tu blong finisim plei."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Olsem wanem sipos yumi jusum wan narafala wod?",
+        "a": "Gem i soemaot stret haf we i stap klosap mo i gohed stret long storian. I no gat poen, mo eni narafala ansa i oraet nomo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "I fri nomo, mo mi nid blong saenap?",
+        "a": "Yes, i fri nomo, mo yu no nidim akaont, saenap, o daonlodem eniting. I stap wok stret insaed long web braosa long fon, tablet, o kompiuta."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Wod sej wetem bigfala leta",
+    "seoTitle": "Wod Sej Wetem Bigfala Leta Blong Olgeta We Oli Gat Sik Blong Fogetfoget, Save Printim",
+    "h1": "Wod Sej Wetem Bigfala Leta",
+    "description": "Wan fri gem blong lukaotem wod wetem ol bigfala leta blong ol olfala mo olgeta we oli gat sik blong fogetfoget.",
+    "short": "Ol bigfala leta, smol wod nomo, go stret mo godaon nomo. Save printim tu.",
+    "players": "1 o 2 man",
+    "intro": "Wan smol boks wetem ol bigfala leta mo smol wod nomo, we evriwan i go stret o godaon nomo. Taepem fas leta blong wan wod, afta taepem las leta blong hem. Yu wantem pepa? Printim wan niufala pasel wantaem nomo.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Jusum wan tim mo saes blong boks.",
+      "Lukluk lis blong ol wod. Ol wod i go stret (left i go raet) o godaon (antap i godaon).",
+      "Taepem fas leta blong wan wod, afta taepem las leta blong hem.",
+      "Taem yu faenem wan wod, kala i kam antap long hem mo i kros maot long lis.",
+      "Taepem \"Print this puzzle\" blong plei long pepa wetem pensil o maka."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Poenem wan wod long lis mo lukaotem fas leta blong hem tugeta.",
+      "Long pepa, wan haelaeta i moa isi blong holem i bitim pensil.",
+      "Storian abaot ol wod ya. Ol wod blong frut oli wan isi wei blong wekemap ol memori blong pikimap frut, kukum kakae, o go long maket."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gat taema o poen?",
+        "a": "No. I no gat klok, poen, namba blong muv, o we man i lus. Yu save stop long eni taem, mo blong stop hafwei nomo i wan gudfala wei tu blong finisim plei."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Mi save printim wod sej ya?",
+        "a": "Yes. Taepem \"Print this puzzle\" blong printim boks we i stap wetem ol bigfala leta, mo lis blong ol wod i stap daon long hem. Evri niufala pasel i defren."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "I fri nomo, mo mi nid blong saenap?",
+        "a": "Yes, i fri nomo, mo yu no nidim akaont, saenap, o daonlodem eniting. I stap wok stret insaed long web braosa long fon, tablet, o kompiuta."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Ol pej blong kala",
+    "seoTitle": "Ol Pej Blong Kala Blong Ol Bigman We Oli Gat Sik Blong Fogetfoget (Fri)",
+    "h1": "Ol Pej Blong Kala",
+    "description": "Ol simpol pej blong kala blong ol bigman wetem ol bigfala spes: taepem wan kala, afta taepem pija.",
+    "short": "Taepem wan kala, afta taepem wan pat blong pija. Save printim ol pej tu.",
+    "players": "1 o 2 man",
+    "intro": "Ol pej wetem ol bigfala mo simpol sep: wan flaoa insaed long pot, wan haos, wan kap ti, wan bataflae, mo wan bot we i gat sel. Taepem wan kala, afta taepem wan pat blong pija blong fulumap. I no gat rong kala.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Jusum wan pej.",
+      "Taepem wan kala. Nem blong evri kala i stap raet long hem.",
+      "Taepem wan pat blong pija blong fulumap wetem kala ya.",
+      "Yu save jenisim tingting blong yu enitaem taem yu putum wan narafala kala bakegen.",
+      "Taepem \"Print this page\" blong karem wan waet pej blong kala wetem pensil o maka."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Givim tu kala nomo blong jusum i bitim we yu soem evriwan, sipos i luk olsem i had tumas blong mekem jus.",
+      "Tri we i pabol mo san we i blu i oraet evriwan. Samting ya i blong harem gud long kala nomo, i no blong mekem i stret olsem tru laef.",
+      "Ol pej we yu printim oli gud wetem ol bigfala maka o kreyon, we i moa isi blong holem."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gat taema o poen?",
+        "a": "No. I no gat klok, poen, namba blong muv, o we man i lus. Yu save stop long eni taem, mo blong stop hafwei nomo i wan gudfala wei tu blong finisim plei."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Ol pej ya oli olsem samting blong pikinini tumas?",
+        "a": "Mifala i droem ol simpol samting we i kwaet, i no ol katun, blong mekem se ol pej i stret gud long ol bigman. Ol bigfala sep oli mekem se i isi blong kala, be i no luk olsem samting blong pikinini."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "I fri nomo, mo mi nid blong saenap?",
+        "a": "Yes, i fri nomo, mo yu no nidim akaont, saenap, o daonlodem eniting. I stap wok stret insaed long web braosa long fon, tablet, o kompiuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Ol kad blong storian",
+    "seoTitle": "Ol Wei Blong Statem Storian Blong Olgeta We Oli Gat Sik Blong Fogetfoget: Ol Pija Kad",
+    "h1": "Ol Kad Blong Storian",
+    "description": "Ol pija kad wetem ol isi kwestin blong statem storian blong olgeta we oli gat sik blong fogetfoget: i no blong testim man, i no gat stret ansa.",
+    "short": "Ol pija kad wetem ol kwestin we i open mo isi. I no blong testim man.",
+    "players": "2 man o wan grup",
+    "intro": "Evri kad i gat wan pija we man i save gud wetem wan open kwestin blong toktok, olsem \"Wanem kaen weda we yu laekem moa?\" I no gat stret ansa mo i no gat samting we yu mas rimemba. Jusum wan tim o miksimap olgeta evriwan.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Jusum wan tim, o livim long \"All cards\".",
+      "Ridim kwestin i go antap mo lukluk pija tugeta.",
+      "Harem gud, serem ansa blong yu tu, mo letem storian i gohed fri nomo.",
+      "Taepem \"Next card\" taem yutufala i redi, o stap wetem wan kad long eni taem we yutufala i wantem.",
+      "Taepem \"Print all cards\" blong katemaot wan set long pepa."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Ansa long kwestin ya yu wan tu. Hemia i mekem i fil olsem wan storian, i no olsem intaviu.",
+      "Folem stori nomo, i no ol smosmol tru samting. Sipos ol ditel i jenis, i oraet nomo.",
+      "Sipos wan kad i tajem wan samting we i mekem man i harem nogud, luksave filing ya mo slo muv i go long wan narafala kad."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "From wanem i no gat ol kwestin olsem \"Yu rimemba…\"?",
+        "a": "Ol kwestin we oli stap testim memori oli save mekem man i harem olsem wan eksam mo mekem hem i sem. Ol open kwestin olsem \"Storian long mi abaot…\" i letem eni man i save joen, nomata wanem samting we oli tingbaot."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Mi save printim ol kad ya?",
+        "a": "Yes. \"Print all cards\" i printim ful set wetem ol bigfala leta, sam kad long wan pej, we i redi blong katemaot."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "I fri nomo, mo mi nid blong saenap?",
+        "a": "Yes, hem i fri nomo, mo yu no nidim akaon, saen-ap o daonlodem wan samting. Hem i stap wok stret long web braosa long mobael fon, tablet o kompiuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Ol pea blong peksa",
+    "seoTitle": "Mekem wan gem blong faenem semak foto blong famle",
+    "h1": "Ol pea blong peksa: Mejem ol prapa foto blong yu",
+    "description": "Jenjem ol prapa foto blong famle blong yu i kam wan isi gem blong faenem ol pea.",
+    "short": "Jusum ol prapa foto blong yu mo mejem olgeta. I no gat samting i go long intanet.",
+    "players": "2 man, we tufala i sidaon klosap",
+    "intro": "Jusum tu kasem sikis foto long fon, tablet o kompiuta blong yu, nao oli kam wan gem blong mejem ol peksa we oli bigwan mo klia. Ol foto ya oli soemaot insaed long pej ya nomo. Oli no save go long intanet, sevem o serem, mo oli lus taem yu sarem pej ya.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tajem \"Choose photos\" mo jusum tu kasem sikis foto.",
+      "Efj wan foto i kamaot tu taem. Tajem wan, biaen tajem pea blong hem.",
+      "Storian long wanwan foto taem yutufala i faenem.",
+      "Taem yutufala i finis, sarem pej ya o tajem \"Clear photos\". I no gat samting i stap biaen."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Jusum ol klia foto blong ol samting we oli mekem man i glad mo oli save gud: wan anamol long haos, wan garen, wan ples we oli laekem, o dei blong mared.",
+      "Ol peksa blong ol ples mo samting oli save isi moa bitim fes blong man, mo oli mekem se man i no harem se oli fosem hem blong kolem nem blong man.",
+      "Lekavt ol foto blong olgeta we oli ded finis sipos oli save mekem man i harem nogud kwiktaem, be i oraet sipos yu save se oli givim pis long tingting blong hem."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ol foto blong mi oli go long eni nara ples long intanet?",
+        "a": "No. Pej ya i ridim ol foto we yu jusum stret insaed long braosa blong yu mo soemaot long skrin blong yu. Oli no save sendem i go long mifala o long eni narafala man, mo oli lus taem yu sarem o rilodem pej ya."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "I gat wan taemem o skoa?",
+        "a": "No. I no gat klok, skoa, kaontem muv o lus. Yu save stop long eni taem, mo stop hafwei i wan gudfala wei blong finis tu."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Mi save sevem gem ya blong nekis taem?",
+        "a": "No insaed long braosa, from we oli wokem olsem blong no sevem ol samting blong praevet laef. Fri app blong Golden Moments blong iPhone mo iPad i save holem sam kopi blong foto we yu jusum long divaes blong yu."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo blong peksa",
+    "seoTitle": "Bingo blong peksa blong ol olfala we tingting i stap lus: Printim",
+    "h1": "Bingo blong peksa blong ol grup",
+    "description": "Fri bingo blong peksa we yu save printim blong ol senta we oli lukaot long tingting mo ol grup blong olfala, wetem wan bigfala skrin blong kolem peksa.",
+    "short": "Ol kad blong bingo blong peksa we yu save printim mo skrin blong kolem peksa blong ol grup.",
+    "players": "Wan grup blong 2 kasem 30 man",
+    "intro": "Bingo we i yusum peksa be i no namba, mekem se i no gat man i nid blong ridim ol smol leta. Printim ol kad we oli no semak, biaen yusum skrin blong kolem peksa blong soemaot bigwan long wan televisin, laptop o tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Jusum 9 o 16 skwea long wan kad mo hamas man bae i plei.",
+      "Tajem \"Print cards\". Wanwan kad i defren.",
+      "Opnem skrin blong kolem peksa long wan bigfala skrin. Tajem \"Next picture\" blong soemaot wanwan peksa wetem nem blong hem.",
+      "Ol man we oli plei oli kavremap peksa we i semak long kad blong olgeta wetem wan selen, baten o maka.",
+      "Evriwan we i fulumap wan laen, o ful kad, oli glad wetem olgeta. I no gat man i lus long fasin ya: gohed blong plei kasem we evriwan i gat wan laen."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Yusum ol bigfala samting olsem kokonas sel, brikis o tap blong botel. Ol smol baten oli save had blong pikimap.",
+      "Kolem nem blong peksa mo talem wan samting long hem: \"Wan bot we i gat sel. Hu i bin go aot long bot bifo?\"",
+      "Putum olgeta we ae blong olgeta i no lukluk klia klosap moa long skrin, mo putum ol halpa wetem ol man we oli nidim help.",
+      "Naen skwea i naf gud long plante grup. Mekem taem ya i stap raonabaot 20 kasem 30 minit."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Olsem wanem nao mi save mekem bingo blong peksa insaed long wan haos blong lukaotem ol olfala?",
+        "a": "Printim wan kad long wanwan man we i plei, putum skrin blong kolem peksa long bigfala skrin we yu gat, mo kolem ol peksa sloslo, wetem nem blong olgeta. Plei go kasem we evriwan i kasem wan laen, blong no gat man i stap biaen."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "I fri nomo blong printim?",
+        "a": "Yes. Yu save printim hamas kad we yu nidim, plante taem we yu wantem, blong yu wan o blong grup."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Ol man oli save plei nomata oli no save rid?",
+        "a": "Yes. Wanwan skwea i gat wan bigfala peksa, wetem nem blong hem aninit blong olgeta we oli laekem ol wod."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Pulum win kwaet",
+    "seoTitle": "Wan kwaet taem blong pulum win blong ol olfala mo ol man we oli stap lukaot long olgeta",
+    "h1": "Wan kwaet taem blong pulum win",
+    "description": "Wan sloslo mo kwaet taem blong pulum win tugeta: wan sotfala raonwan sekol i kam bigwan mo kam smol blong sikis taem blong pulum win.",
+    "short": "Wan sekol we i muv sloslo blong pulum win folem hem. Statem mo stopem taem yu wantem.",
+    "players": "1 o 2 man",
+    "intro": "Samtaem, bes samting blong mekem hem i blong stap kwaet lelebet nomo. Tajem \"Start\", biaen pulum win taem sekol i kam bigwan mo letem win i go aot taem hem i kam smol. Jusum spid we i sloslo o isi. Hem i no wan tritmen, hem i wan kwaet taem nomo blong stap tugeta.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Sidaon gud klosap long tufala.",
+      "Jusum spid: sloslo o isi nomo.",
+      "Tajem \"Start\". Pulum win taem sekol i kam bigwan, mo letem win i go aot taem hem i kam smol.",
+      "Hem i stopem hem wan afta sikis taem blong pulum win, o tajem \"Stop\" taem yu wantem."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Holem han o putum han long han blong man ya sipos hem i glad long hem.",
+      "Neva fosem hem. Sipos hem i wantem lukluk nomo, hemia i oraet nomo.",
+      "Sipos wan man i gat problem blong pulum win, pulum win olsem we yu stap mekem mo lukluk nomo long sekol ya. Toktok wetem wan dokta long eni wari long saed blong pulum win."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Hemia wan eksasaes blong pulum win blong medisin?",
+        "a": "No. Hem i wan isi taem nomo blong spel blong mekem tingting i kwaet mo blong stap tugeta. Hem i no wan tritmen blong wari tumas o eni sik. Toktok wetem wan dokta long saed blong eni wari long helt."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Sekol ya i muv hem wan nomo we mi no statem?",
+        "a": "No. I no gat samting we i muv kasem taem yu tajem Start, mo hem i stop afta long sikis pulum win o taem yu tajem Stop. Sipos divaes blong yu i set blong katem daon muvman, ol wod oli jenis be sekil ya i no kam bigwan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hem i fri, mo mi nid blong saenap?",
+        "a": "Yes, hem i fri nomo, mo i no gat wan akaon, saenap o daonlod. Hem i wok nomo long web braosa long wan fon, tablet o kompiuta."
       }
     ]
   }

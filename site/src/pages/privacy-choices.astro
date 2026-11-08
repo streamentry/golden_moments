@@ -1,5 +1,6 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
+import Icon from '../components/Icon.astro';
 import { SITE } from '../lib/site';
 ---
 <PageLayout
@@ -12,6 +13,7 @@ import { SITE } from '../lib/site';
   lede="You can stop, remove a copy or delete the app. Your original photos are separate and stay where they are."
 >
   <aside class="notice" aria-labelledby="choices-summary">
+    <Icon name="info" />
     <div>
       <strong id="choices-summary">Two things to know first</strong>
       <ul>

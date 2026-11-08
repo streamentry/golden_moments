@@ -68,7 +68,7 @@
   },
   "home": {
     "title": "Leikir og samverustundir við heilabilun og Alzheimersjúkdómi | Golden Moments",
-    "description": "Ókeypis, rólegir myndaleikir á netinu og hugmyndir að samverustundum fyrir fólk með heilabilun eða Alzheimersjúkdóm og aðstandendur þess. Engin skráning, engin tímamörk eða stigatalning.",
+    "description": "Ókeypis, rólegir myndaleikir á netinu og hugmyndir að samverustundum fyrir fólk með heilabilun eða Alzheimersjúkdóm og aðstandendur þess.",
     "eyebrow": "Ókeypis · Engar auglýsingar · Engin skráning · Engin tímamörk eða stig",
     "h1": "Rólegir leikir og samverustundir fyrir fólk með heilabilun",
     "lede": "Einfaldir myndaleikir, kunnuglegar ljósmyndir og afþreying til að njóta saman – á ykkar eigin hraða.",
@@ -252,21 +252,21 @@
       "label": "Viðfangsefni",
       "title": "Viðfangsefni fyrir fólk með heilabilun",
       "seo": "Viðfangsefni fyrir fólk með heilabilun: Hugmyndir eftir stigum",
-      "description": "Hugmyndir að viðfangsefnum fyrir fólk með heilabilun á öllum stigum: tónlist, upprifjun minninga, dagleg verk, skynjun, handmennt, útivera og ókeypis útprentanlegt efni.",
+      "description": "Hugmyndir að viðfangsefnum fyrir fólk með heilabilun á öllum stigum: tónlist, upprifjun minninga, dagleg verk, skynjun, handmennt, útivera og ókeypis.",
       "lede": "Gefandi viðfangsefni er hvaðeina sem veitir vellíðan, tilgang eða samverustund. Byrjaðu á því sem viðkomandi hefur alltaf haft gaman af og lagaðu það að deginum í dag."
     },
     "caregiving": {
       "label": "Umönnun",
       "title": "Leiðbeiningar fyrir aðstandendur",
       "seo": "Leiðbeiningar um umönnun við heilabilun: Hagnýt dagleg aðstoð",
-      "description": "Hagnýtar og hlýlegar leiðbeiningar fyrir aðstandendur fólks með heilabilun: að spila saman, samskipti, þegar viðkomandi neitar, óróleiki síðdegis, spjaldtölvur, val á smáforritum og að huga að sjálfum sér.",
+      "description": "Hagnýtar og hlýlegar leiðbeiningar fyrir aðstandendur fólks með heilabilun: að spila saman, samskipti, þegar viðkomandi neitar, óróleiki síðdegis.",
       "lede": "Einföld og hagnýt aðstoð fyrir hversdagslegar stundir við umönnun einstaklings með heilabilun, þar á meðal að huga að sjálfum sér."
     },
     "brain-health": {
       "label": "Heilaheilsa",
       "title": "Heilaheilsa: Hvað segja rannsóknir?",
       "seo": "Heilaheilsa og hætta á heilabilun: Hvað segja rannsóknir?",
-      "description": "Er hægt að koma í veg fyrir heilabilun? Heiðarlegar, heimildarýndar leiðbeiningar um áhættuþætti heilabilunar, heilaleiki, föstu, mataræði, hreyfingu, svefn, heyrn og fyrstu viðvörunarmerki.",
+      "description": "Er hægt að koma í veg fyrir heilabilun? Heiðarlegar, heimildarýndar leiðbeiningar um áhættuþætti heilabilunar, heilaleiki, föstu, mataræði, hreyfingu.",
       "lede": "Hvað stórar rannsóknir sýna í raun um að draga úr líkum á heilabilun, útskýrt á mannamáli, þar á meðal hvar vísbendingar eru veikar eða misvísandi. Almennar upplýsingar, ekki læknisfræðileg ráðgjöf."
     }
   },
@@ -309,7 +309,7 @@
     "faq": {
       "title": "Spurningar og svör",
       "seoTitle": "Leikir og samverustundir við heilabilun: Spurningar og svör",
-      "description": "Svör við algengum spurningum um leiki og samverustundir við heilabilun: hvaða leiki er gott að prófa, hversu lengi á að spila, hugmyndir fyrir síðari stig, heilaheilsa og persónuvernd.",
+      "description": "Svör við algengum spurningum um leiki og samverustundir við heilabilun: hvaða leiki er gott að prófa, hversu lengi á að spila, hugmyndir fyrir síðari stig.",
       "crumb": "Spurningar og svör",
       "lede": "Stutt og skýr svör við þeim spurningum sem aðstandendur spyrja oftast.",
       "groups": [
@@ -427,7 +427,7 @@
     "app": {
       "title": "Golden Moments appið",
       "seoTitle": "Golden Moments appið fyrir iPhone og Android",
-      "description": "Ókeypis Golden Moments appið: rólegur myndasamstæðuleikur með fjórum stórum reitum, fjölskyldumyndir geymdar í tækinu þínu, myndapakkar án nettengingar og enginn aðgangur.",
+      "description": "Ókeypis Golden Moments appið: rólegur myndasamstæðuleikur með fjórum stórum reitum, fjölskyldumyndir geymdar í tækinu þínu, myndapakkar án nettengingar og.",
       "crumb": "Appið",
       "lede": "Allt það góða af vefnum í appi sem virkar án nettengingar og getur notað fjölskyldumyndir sem þú velur.",
       "worksOn": "Virkar á {platforms} ({requirements}).",
@@ -438,7 +438,7 @@
   },
   "gamesIndex": {
     "title": "Ókeypis netleikir fyrir fólk með heilabilun og Alzheimer",
-    "description": "Ókeypis netleikir fyrir eldra fólk með heilabilun eða Alzheimer: samstæðuleikir, einföld púsl, flokkun, málshættir, litun og bingó. Engin nýskráning, engir tímateljarar og engin stig.",
+    "description": "Ókeypis netleikir fyrir eldra fólk með heilabilun eða Alzheimer: samstæðuleikir, einföld púsl, flokkun, málshættir, litun og bingó.",
     "crumb": "Leikir",
     "h1": "Rólegir leikir fyrir fólk með heilabilun",
     "lede": "{count} ókeypis leikir til að spila saman í vafranum. Stórar myndir, einfalt mál og ekkert sem hægt er að mistakast í: engir tímateljarar, engin stig og engin nýskráning.",

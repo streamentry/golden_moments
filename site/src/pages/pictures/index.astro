@@ -76,6 +76,11 @@ const count = PICTURES.length;
     border-color: var(--gm-primary);
     color: var(--gm-primary);
   }
+  .pic-jump a:focus-visible {
+    outline: 3px solid var(--gm-primary);
+    outline-offset: 3px;
+    border-radius: var(--radius-full);
+  }
   .pic-groups {
     padding-block: var(--space-xl) var(--space-2xl);
   }
@@ -137,11 +142,13 @@ const count = PICTURES.length;
   }
   @media (prefers-reduced-motion: reduce) {
     .pic-print,
+    .pic-print:hover,
     .pic-print--0,
     .pic-print--1,
     .pic-print--2,
     .pic-print--3 {
       transform: none !important;
+      transition: none !important;
     }
   }
   @media (prefers-contrast: more) {

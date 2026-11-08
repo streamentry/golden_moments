@@ -255,6 +255,11 @@
 .site-footer :focus-visible {
   outline-color: var(--gm-primary-container);
 }
+.site-footer a:focus-visible {
+  outline: 3px solid var(--gm-primary-container);
+  outline-offset: 3px;
+  border-radius: var(--radius-sm);
+}
 .footer-grid {
   display: grid;
   gap: var(--space-xl);

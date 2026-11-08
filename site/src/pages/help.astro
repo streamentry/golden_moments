@@ -1,5 +1,6 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
+import Icon from '../components/Icon.astro';
 import { SITE } from '../lib/site';
 ---
 <PageLayout
@@ -12,6 +13,7 @@ import { SITE } from '../lib/site';
   lede="Start small, follow the person’s interests and stop whenever you like."
 >
   <aside class="notice" aria-labelledby="help-version">
+    <Icon name="info" />
     <div>
       <strong id="help-version">Check your version first</strong>
       <p>

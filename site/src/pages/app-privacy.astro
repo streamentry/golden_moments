@@ -1,5 +1,6 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
+import Icon from '../components/Icon.astro';
 import { SITE } from '../lib/site';
 ---
 <PageLayout
@@ -12,6 +13,7 @@ import { SITE } from '../lib/site';
   lede="Your photos are personal. Here is what the Golden Moments app does with them, what it does not do, and how to make your own choices."
 >
   <aside class="notice" aria-labelledby="app-privacy-summary">
+    <Icon name="info" />
     <div>
       <strong id="app-privacy-summary">The short version</strong>
       <ul>

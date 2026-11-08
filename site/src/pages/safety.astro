@@ -1,5 +1,6 @@
 ---
 import PageLayout from '../layouts/PageLayout.astro';
+import Icon from '../components/Icon.astro';
 import { SITE } from '../lib/site';
 ---
 <PageLayout
@@ -12,6 +13,7 @@ import { SITE } from '../lib/site';
   lede="A pleasant moment is enough. No one needs to remember a name, get an answer right or finish a game."
 >
   <aside class="notice" aria-labelledby="safety-summary">
+    <Icon name="info" />
     <div>
       <strong id="safety-summary">Before you play</strong>
       <ul>
