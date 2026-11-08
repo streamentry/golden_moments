@@ -321,6 +321,8 @@ void main() {
     ) async {
       final pack = await bundledPack(tester, 'nature_mountains');
       await openPage(tester, GamePage(gamePack: pack));
+      // The control sits under the board; bring it into view before tapping.
+      await tester.ensureVisible(find.byTooltip('Sound and options'));
       await tester.tap(find.byTooltip('Sound and options'));
       await tester.pumpAndSettle();
       expect(find.text('Options'), findsOneWidget);
