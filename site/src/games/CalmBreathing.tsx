@@ -73,6 +73,7 @@ export default function CalmBreathing(props: PlayProps) {
       ui={ui}
       lang={lang}
       guidance={ui.calmBreathing.guidance}
+      readAloudText={message || (running ? words[phase] : ui.calmBreathing.guidance)}
       message={message}
       options={<ChoiceChips legend={ui.calmBreathing.paceLegend} choices={paces} value={pace} onChange={(v) => { setPace(v); setPhase('ready'); setBreath(0); }} />}
     >

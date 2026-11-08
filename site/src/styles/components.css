@@ -123,6 +123,11 @@
 .brand:hover {
   color: var(--gm-on-surface);
 }
+.brand:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 4px;
+  border-radius: var(--radius-md);
+}
 .brand__mark {
   width: 44px;
   height: 44px;
@@ -200,6 +205,28 @@
   html[data-text-size='large'] .site-nav ul {
     grid-template-columns: minmax(0, 1fr);
   }
+}
+
+/* ---------- Machine translation notice ---------- */
+.mt-notice {
+  font-size: var(--text-sm);
+  color: var(--gm-on-surface-variant);
+  padding-block: var(--space-xs);
+  margin-block: var(--space-xs) var(--space-sm);
+  border-bottom: 1px solid var(--gm-surface-sunken);
+}
+.mt-notice a {
+  color: var(--gm-primary);
+  font-weight: 700;
+  text-decoration: underline;
+}
+.mt-notice a:hover {
+  color: var(--gm-on-surface);
+}
+.mt-notice a:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
 }
 
 /* ---------- Footer ---------- */
@@ -367,6 +394,13 @@
   position: absolute;
   inset: 0;
   border-radius: inherit;
+}
+.card:has(.card__link:focus-visible) {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 4px;
+}
+.card__link:focus-visible {
+  outline: none;
 }
 .card__link:hover {
   color: var(--gm-on-surface);
@@ -615,6 +649,11 @@
   cursor: pointer;
   list-style: none;
 }
+.faq summary:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 4px;
+  border-radius: var(--radius-sm);
+}
 .faq summary::-webkit-details-marker {
   display: none;
 }
@@ -762,6 +801,7 @@
   .site-header,
   .site-footer,
   .breadcrumbs,
+  .mt-notice,
   .no-print,
   .btn,
   .cta-band,
@@ -852,6 +892,11 @@ a.small-print {
   align-items: center;
   min-height: 48px;
 }
+a.small-print:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
 .narrow {
   max-width: var(--content-max);
 }
@@ -907,8 +952,37 @@ summary {
   .answer {
     border: 2px solid #222222 !important;
   }
+  .card:has(.card__link:focus-visible) {
+    outline: 4px solid #000000;
+    outline-offset: 4px;
+  }
+  .card__more {
+    color: #000000;
+    font-weight: 800;
+  }
+  .answer::before {
+    background: #000000;
+  }
+  .answer__label {
+    color: #000000;
+    font-weight: 800;
+  }
+  a.small-print:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 2px;
+  }
   .cta-band {
     border: 2px solid #000000;
+    background: #FFFFFF;
+  }
+  .faq summary::after {
+    border: 3px solid #000000;
+    color: #000000;
+    font-weight: 800;
+  }
+  .faq summary:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 4px;
   }
   .notice {
     border: 2px solid #000000;
@@ -967,6 +1041,34 @@ summary {
     border: 2px solid #000000;
     box-shadow: inset 0 -4px 0 #000000;
   }
+  .site-footer {
+    border-top: 4px solid #FFFFFF;
+  }
+  .brand__mark {
+    border: 2px solid #000000;
+    border-radius: 12px;
+  }
+  .brand__tag {
+    color: #000000;
+    font-weight: 700;
+  }
+  .brand:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 4px;
+  }
+  .mt-notice {
+    color: #000000;
+    border-bottom: 2px solid #000000;
+  }
+  .mt-notice a {
+    color: #000000;
+    font-weight: 800;
+    text-decoration-thickness: 2px;
+  }
+  .mt-notice a:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 2px;
+  }
   :focus-visible {
     outline-width: 4px !important;
     outline-offset: 2px !important;
@@ -1000,6 +1102,33 @@ summary {
   .faq details,
   .answer {
     border: 2px solid CanvasText;
+  }
+  .card:has(.card__link:focus-visible) {
+    outline: 3px solid Highlight;
+    outline-offset: 4px;
+  }
+  .card__more {
+    color: LinkText;
+  }
+  .answer::before {
+    forced-color-adjust: none;
+    background: Highlight;
+  }
+  .answer__label {
+    color: CanvasText;
+    font-weight: 800;
+  }
+  a.small-print:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
+  }
+  .faq summary::after {
+    border: 2px solid CanvasText;
+    color: CanvasText;
+  }
+  .faq summary:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 4px;
   }
   .cta-band {
     border: 2px solid CanvasText;
@@ -1052,5 +1181,34 @@ summary {
   .site-nav a[data-active='true'] {
     border: 2px solid Highlight;
     outline: 1px solid Highlight;
+  }
+  .site-footer {
+    border-top: 4px solid CanvasText;
+  }
+  .site-footer a {
+    color: LinkText;
+  }
+  .site-footer a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
+  }
+  .brand__mark {
+    forced-color-adjust: none;
+    border: 1px solid CanvasText;
+    border-radius: 12px;
+  }
+  .brand:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 4px;
+  }
+  .mt-notice {
+    border-bottom: 1px solid CanvasText;
+  }
+  .mt-notice a {
+    color: LinkText;
+  }
+  .mt-notice a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
   }
 }
