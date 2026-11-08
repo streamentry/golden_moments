@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 13 / 100 completed**
+**Progress: 14 / 100 completed**
 
 ---
 
@@ -23,6 +23,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 11 | 2026-11-08 | `1dd60b3` | Auditory Overload Prevention, Skip Link Contrast & High-Contrast Focus Architecture | BrainXchange / JMIR Aging Auditory Dementia Guidelines & WCAG 1.4.11 Non-text Contrast: Suppressed runaway audio by cancelling speech synthesis on game restart and exit in `GameFrame.tsx`; upgraded skip link focus ring to 15.1:1 dual ring (`outline: 3px solid var(--gm-background); box-shadow: 0 0 0 5px var(--gm-on-surface);`); added high-contrast and forced-colors focus outlines for ChoiceChips and active ReadAloud buttons. | Web Games & Accessibility (`GameFrame.tsx`, `base.css`, `games.css`) | Done |
 | 12 | 2026-11-08 | `4f014a2` | Multisensory Selection Affordance, Tactile Elevation & Forced-Colors Check Architecture | Musa et al. (2023) Touchscreen Guidelines, W3C COGA Obj 1 & 4, AbilityNet (2025): Added tactile elevation (`transform: scale(1.04); box-shadow: 0 4px 12px rgba(60, 44, 10, 0.25);`) to picked up puzzle pieces; added swap candidate affordance (`data-has-selected="true"`) to unselected puzzle pieces; eliminated silent taps across activities (deselection in `PicturePuzzle` and `WordSearch`, invalid word attempt in `WordSearch`, next/prev in `ConversationCards`, color swatch tap in `Coloring`, clear in `PhotoPairs`); preserved completion checkmarks in Windows Contrast Themes with `forced-color-adjust: none` and system `Highlight` borders. | Web Games (`PicturePuzzle.tsx`, `WordSearch.tsx`, `ConversationCards.tsx`, `Coloring.tsx`, `PhotoPairs.tsx`, `games.css`) | Done |
 | 13 | 2026-11-08 | `bc1957e` | Error Recovery, Orientation Preservation & High-Contrast Navigation Architecture | W3C COGA Obj 1 & 4, DEEP Guides & Windows High Contrast Guidelines: Added language-aware 404 recovery preserving caregiver language preferences across routes; fixed "Play a game" sentence case; added active-state outlines & borders for text size buttons, breadcrumbs, and language menu in forced-colors and high-contrast modes. | Web Navigation & Recovery (`404.astro`, `TextSize.astro`, `language-choice.ts`, `components.css`) | Done |
+| 14 | 2026-11-08 | `7a2f96c` | Accessible Coloring Visuomotor Guidance, Region Targeting & Focus Architecture | Musa et al. (2023), AbilityNet (2025) & W3C COGA Obj 1 & 4: Added pre-contact hover targeting to SVG coloring regions; upgraded focus stroke from invisible walnut to 8px primary (and 10px in high contrast mode; system Highlight in forced-colors mode); added missing focus ring on palette swatches; dynamically surfaced primary restart button upon picture completion eliminating dead ends. | Web Games (`Coloring.tsx`, `games.css`) | Done |
 
 ---
 
@@ -30,5 +31,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 14 | *Next in queue* | Pending |
-| 15–100 | Planned one by one | Pending |
+| 15 | *Next in queue* | Pending |
+| 16–100 | Planned one by one | Pending |
