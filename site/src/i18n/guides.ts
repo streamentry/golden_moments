@@ -1,5 +1,5 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
-import { DEFAULT_LOCALE, LOCALES } from './locales';
+import { DEFAULT_LOCALE, LOCALES, localeOfContentDir } from './locales';
 import { PUBLISHED } from './ui';
 
 export type GuideEntry = CollectionEntry<'guides'> | CollectionEntry<'guidesI18n'>;
@@ -22,8 +22,9 @@ export async function allGuides(): Promise<LocalGuide[]> {
   const english = (await getCollection('guides')).map((entry) => ({ id: entry.id, lang: DEFAULT_LOCALE, entry }));
   const translated = (await getCollection('guidesI18n'))
     .map((entry) => {
-      const [code, ...rest] = entry.id.split('/');
-      return { id: rest.join('/'), lang: code as string, entry };
+      // Entry ids arrive lowercased (`pt-br/...`); map the folder back to its code (`pt-BR`).
+      const [dir, ...rest] = entry.id.split('/');
+      return { id: rest.join('/'), lang: localeOfContentDir(dir as string) ?? '', entry };
     })
     .filter((g) => CODES.has(g.lang) && PUBLISHED_CODES.has(g.lang) && english.some((e) => e.id === g.id));
   cache = [...english, ...translated];

@@ -208,6 +208,23 @@ for (const file of htmlFiles) {
 for (const [key, pages] of titles) if (pages.length > 1) err(pages.join(', '), `duplicate title "${key.split('|').slice(1).join('|')}"`);
 for (const [desc, pages] of descriptions) if (pages.length > 1) err(pages.join(', '), `duplicate description`);
 
+// Every translated guide written for a published language must be built. Folder names keep their
+// case (pt-BR, zh-Hant) while the URL prefix is lowercase; a case mismatch once dropped all 40
+// guides in four languages without any other check noticing.
+const SRC = new URL('../src/', import.meta.url).pathname;
+const GUIDES_I18N = join(SRC, 'content/guides-i18n');
+const englishGuides = new Set(
+  walk(join(SRC, 'content/guides')).filter((f) => f.endsWith('.md')).map((f) => relative(join(SRC, 'content/guides'), f).replace(/\.md$/, '')),
+);
+for (const lang of existsSync(GUIDES_I18N) ? readdirSync(GUIDES_I18N) : []) {
+  const prefix = lang.toLowerCase();
+  if (!LOCALE_PREFIXES.has(prefix) || !existsSync(join(SRC, 'i18n/ui', `${lang}.json`))) continue;
+  for (const file of walk(join(GUIDES_I18N, lang)).filter((f) => f.endsWith('.md'))) {
+    const id = relative(join(GUIDES_I18N, lang), file).replace(/\.md$/, '');
+    if (englishGuides.has(id) && !existsSync(join(DIST, prefix, id, 'index.html'))) err(`${prefix}/${id}/`, `translated guide ${lang}/${id}.md was not built`);
+  }
+}
+
 // One sitemap per language, all listed by the index at /sitemap.xml:
 // /sitemap-en.xml for English, /<prefix>/sitemap.xml for the rest.
 const sitemapName = (prefix) => (prefix ? `${prefix}/sitemap.xml` : 'sitemap-en.xml');
