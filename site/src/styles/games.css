@@ -1143,6 +1143,18 @@
   .called li:hover img {
     outline: 2px solid #000000;
   }
+  .say-card__blank {
+    border-bottom: 4px solid #000000;
+    color: #000000;
+    font-weight: 800;
+  }
+  .say-prompt {
+    border: 2px solid #000000;
+  }
+  .talk-card__theme {
+    color: #000000;
+    font-weight: 800;
+  }
 }
 
 @media (forced-colors: active) {
@@ -1260,5 +1272,15 @@
   }
   .called li:hover img {
     outline: 2px solid Highlight;
+  }
+  .say-card__blank {
+    border-bottom: 4px solid CanvasText;
+    color: Highlight;
+  }
+  .say-prompt {
+    border: 2px solid CanvasText;
+  }
+  .talk-card__theme {
+    color: CanvasText;
   }
 }

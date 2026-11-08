@@ -118,6 +118,12 @@ function WordSearchGame(props: PlayProps) {
         ui={ui}
         lang={lang}
         guidance={ui.wordSearch.guidance}
+        readAloudText={
+          message ||
+          (allFound
+            ? fill(ui.wordSearch.foundAll, { word: '' })
+            : `${ui.wordSearch.guidance}. ${grid.words.filter((w) => !found.includes(w)).join(', ')}.`)
+        }
         message={message}
         onRestart={() => {
           sounds.tap();

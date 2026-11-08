@@ -967,6 +967,9 @@ summary {
     border: 2px solid #000000;
     box-shadow: inset 0 -4px 0 #000000;
   }
+  .site-footer {
+    border-top: 4px solid #FFFFFF;
+  }
   :focus-visible {
     outline-width: 4px !important;
     outline-offset: 2px !important;
@@ -1052,5 +1055,15 @@ summary {
   .site-nav a[data-active='true'] {
     border: 2px solid Highlight;
     outline: 1px solid Highlight;
+  }
+  .site-footer {
+    border-top: 4px solid CanvasText;
+  }
+  .site-footer a {
+    color: LinkText;
+  }
+  .site-footer a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
   }
 }

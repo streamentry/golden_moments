@@ -72,6 +72,7 @@ export default function PhotoPairs(props: PlayProps) {
       ui={ui}
       lang={lang}
       guidance={hasPhotos ? ui.photoPairs.guidance : ui.photoPairs.guidanceEmpty}
+      readAloudText={message || (hasPhotos ? ui.photoPairs.guidance : ui.photoPairs.guidanceEmpty)}
       message={message}
       onRestart={
         hasPhotos

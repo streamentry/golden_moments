@@ -63,7 +63,14 @@ export default function ConversationCards(props: PlayProps) {
               <Icon name="back" />
               {ui.conversationCards.previous}
             </button>
-            <button type="button" className="btn" onClick={() => window.print()}>
+            <button
+              type="button"
+              className="btn"
+              onClick={() => {
+                sounds.tap();
+                window.print();
+              }}
+            >
               <Icon name="print" />
               {ui.conversationCards.print}
             </button>
