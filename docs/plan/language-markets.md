@@ -154,7 +154,43 @@ searchers type *Alzheimer*. Keep *Golden Moments* as the device label and lead
 the local subtitle and keywords with the local Alzheimer or activities phrase.
 
 <!-- cspell:enable -->
-## 6. Not verified
+## 6. Website search and link tiers (decided 2026-11-08)
+
+The website is one domain, so links to any language's pages build authority for
+every language. Local-language links mainly help rankings in that country, and
+only once those pages are good enough to rank. With few earned links so far and
+search data not yet collected, effort goes where it can be written, checked and
+pitched by the maintainer, and where the install goal is.
+
+| Tier | Languages | Effort | Why |
+| --- | --- | --- | --- |
+| 1 | English: US first, then UK, Canada, Australia | About 80% of link and content effort | US install goal and the largest caregiver population (section 1); the only language the maintainer can write, check and pitch in; English links also lift every other language |
+| 2 | Two or three, chosen from Search Console data. Current guesses: Spanish, Japanese, German; French next | Native review first, then a few local links | Spanish also reaches US caregivers and es-MX is searchable in the US store (section 2); Japan has 4.71M people with dementia, the highest iOS share and a neutral term (認知症); *Demenz Spiele* matches the brand. French also serves Canada |
+| 3 | Every other language | None beyond indexing and hreflang | Pages stay indexed (maintainer decision 2026-11-01); no outreach |
+
+Rules:
+
+- **Tier 1 links.** Ask organization resource pages (Area Agencies on Aging,
+  libraries, memory cafés, adult day programs, state aging departments) before
+  blogs. About 14 asks went out on 2026-10-25 ([tracker](../strategy/link-building.md));
+  take the plan's test (at least 3 listings from 20 asks within 30 days) only after
+  at least 20.
+- **Choosing Tier 2.** After Search Console and Bing are verified, wait 6 to 8
+  weeks, then promote the languages that already get non-brand impressions without
+  links, even if they are not the guesses above.
+- **Tier 2 links.** The national association in section 4 is the one link to seek.
+  Ask only after a native speaker has reviewed that language's pages
+  ([native review](../engineering/native-review.md)), because the link sends people
+  there.
+- **Tier 3 risk check.** About 40 guides in 50 languages is roughly 2,000
+  unreviewed machine-translated pages on a new domain, which Google may treat as
+  low-value content produced at scale. About 3 months after verification, set
+  `noindex` on any language whose pages Google is not indexing or that has no
+  impressions; this protects the English pages and costs nothing.
+- **Outside the US,** localized store listings bring installs more directly than
+  the website; treat non-English pages as support for those listings.
+
+## 7. Not verified
 
 Per-country App Store revenue ranks beyond the US and China; Alzheimer Europe
 2025 country rows (aggregator); Russia, Türkiye, Vietnam, Indonesia and Egypt
