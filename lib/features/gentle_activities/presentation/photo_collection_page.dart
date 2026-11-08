@@ -184,6 +184,8 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
           if (await _confirm(
             l10n.photosRecoveredTitle,
             l10n.photosRecoveredMessage,
+            confirmLabel: l10n.photosRecoveredConfirm,
+            keepLabel: l10n.photosNotNow,
           )) {
             await _saveFiles(recovered);
           }
