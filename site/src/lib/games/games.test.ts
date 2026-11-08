@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { createRng, shuffle } from './random';
 import { boardColumns, createPairs, isComplete, matchedPairs, tapPair, tileVisualState } from './pairs';
 import { correctCount, createPuzzle, isSolved, tapPiece } from './puzzle';
-import { cellsOf, createWordSearch, lettersOf, normalizeWord, wordBetween } from './wordsearch';
+import { cellsOf, createWordSearch, lettersOf, normalizeWord, wordBetween, wordsLeft } from './wordsearch';
 import { createBingoCards } from './bingo';
 import { createSort, dropInBasket, isSorted, selectItem } from './sorting';
 import { SHADOW_IDS, createShadowRound } from './shadow';
@@ -132,6 +132,15 @@ describe('puzzle', () => {
 
 describe('word search', () => {
   const words = ['APPLE', 'PEAR', 'LEMON', 'PLUM'];
+
+  it('lists the words still to find as plain words, for reading aloud', () => {
+    const grid = createWordSearch(words, 7, createRng(2));
+    const [first, ...rest] = grid.words.map((w) => w.word);
+    expect(wordsLeft(grid, [])).toEqual([first, ...rest]);
+    expect(wordsLeft(grid, [first as string])).toEqual(rest);
+    expect(wordsLeft(grid, grid.words.map((w) => w.word))).toEqual([]);
+    expect(wordsLeft(grid, []).join(', ')).not.toContain('[object');
+  });
 
   it('places words across or down only, readable forwards', () => {
     const grid = createWordSearch(words, 7, createRng(2));

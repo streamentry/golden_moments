@@ -2,7 +2,7 @@ import { useEffect, useRef, useState, type KeyboardEvent } from 'react';
 import type { PlayProps } from '../i18n/play';
 import { fill, plural } from '../i18n/play/format';
 import { createRng, randomSeed, sample } from '../lib/games/random';
-import { cellsOf, createWordSearch, wordBetween, type WordGrid } from '../lib/games/wordsearch';
+import { cellsOf, createWordSearch, wordBetween, wordsLeft, type WordGrid } from '../lib/games/wordsearch';
 import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
 import { Icon } from './shared/Icon';
@@ -122,7 +122,7 @@ function WordSearchGame(props: PlayProps) {
           message ||
           (allFound
             ? fill(ui.wordSearch.foundAll, { word: '' })
-            : `${ui.wordSearch.guidance}. ${grid.words.filter((w) => !found.includes(w)).join(', ')}.`)
+            : `${ui.wordSearch.guidance}. ${wordsLeft(grid, found).join(', ')}.`)
         }
         message={message}
         onRestart={() => {

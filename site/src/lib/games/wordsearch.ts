@@ -45,6 +45,11 @@ export function cellsOf(w: PlacedWord): [number, number][] {
   return lettersOf(w.word).map((_, i) => (w.dir === 'across' ? [w.row, w.col + i] : [w.row + i, w.col]));
 }
 
+/** The words not yet found, in list order, as plain text (for the list and reading aloud). */
+export function wordsLeft(grid: WordGrid, found: readonly string[]): string[] {
+  return grid.words.map((w) => w.word).filter((word) => !found.includes(word));
+}
+
 /**
  * Places words across (in reading order) and down (top to bottom) only, never
  * backwards or diagonal. Words that do not fit are skipped.
