@@ -8,8 +8,16 @@ const { lang = 'en' } = Astro.props;
 const t = ui(lang);
 ---
 <div class="text-size" role="group" aria-label={t.common.textSize.label} data-text-size>
-  <button type="button" class="text-size__btn" data-size="standard" aria-pressed="true">{t.common.textSize.smaller}</button>
-  <button type="button" class="text-size__btn" data-size="large" aria-pressed="false">{t.common.textSize.larger}</button>
+  <button type="button" class="text-size__btn" data-size="standard" aria-pressed="true" aria-label={t.common.textSize.smaller} title={t.common.textSize.smaller}>
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M2.5 19 7.5 8l5 11M4.2 15.2h6.6" />
+    </svg>
+  </button>
+  <button type="button" class="text-size__btn" data-size="large" aria-pressed="false" aria-label={t.common.textSize.larger} title={t.common.textSize.larger}>
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M1 21 9.5 2l8.5 19M3.8 14.5h11.4" />
+    </svg>
+  </button>
   <button type="button" class="text-size__btn" data-contrast-toggle aria-pressed="false">{t.common.textSize.contrast}</button>
 </div>
 
@@ -88,19 +96,29 @@ const t = ui(lang);
     flex-wrap: wrap;
   }
   .text-size__btn {
-    min-height: 48px;
-    padding: 0 var(--space-sm);
+    display: inline-grid;
+    place-items: center;
+    width: 48px;
+    height: 48px;
+    padding: 0;
     border: 2px solid var(--gm-outline);
     border-radius: var(--radius-full);
     background: var(--gm-surface-raised);
     color: var(--gm-on-surface);
-    font: inherit;
-    font-size: 1rem;
     cursor: pointer;
+  }
+  .text-size__btn svg {
+    width: 24px;
+    height: 24px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2.25;
+    stroke-linecap: round;
+    stroke-linejoin: round;
   }
   .text-size__btn[aria-pressed='true'] {
     border-color: var(--gm-on-surface);
-    font-weight: 700;
+    box-shadow: inset 0 0 0 2px var(--gm-on-surface);
   }
   .text-size__btn:focus-visible {
     outline: 3px solid var(--gm-primary);

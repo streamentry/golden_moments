@@ -10,6 +10,7 @@ import JsonLd from '../components/JsonLd.astro';
 import Analytics from '../components/Analytics.astro';
 import { SITE, absoluteUrl } from '../lib/site';
 import { fontPreloads } from '../lib/fonts';
+import { composeTitle } from '../lib/seo-title';
 import { DEFAULT_LOCALE, isIndexable, localeInfo, localePath, splitLocale } from '../i18n/locales';
 import { PUBLISHED, ui } from '../i18n/ui';
 
@@ -50,7 +51,8 @@ const available = Astro.props.available ?? [DEFAULT_LOCALE];
 const blockIndexing = noindex || !isIndexable(lang);
 // A noindex page advertises no alternates; neither does any page for a language held from the index.
 const alternates = blockIndexing ? [] : PUBLISHED.filter((l) => available.includes(l.code) && isIndexable(l.code));
-const fullTitle = rawTitle ? title : `${title}${t.common.titleSuffix}`;
+// The brand suffix gives way when it would push the title past what search results show.
+const fullTitle = rawTitle ? title : composeTitle(title, t.common.titleSuffix);
 const canonical = absoluteUrl(Astro.url.pathname);
 const ogImage = absoluteUrl(image);
 const altText = imageAlt ?? t.common.defaultImageAlt;

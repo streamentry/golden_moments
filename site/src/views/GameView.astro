@@ -8,7 +8,7 @@ import Icon from '../components/Icon.astro';
 import { appFaqFor } from '../lib/app';
 import type { GameInfo } from '../data/games';
 import { breadcrumbs, faqPage, game as gameSchema } from '../lib/schema';
-import { localePath, localizeHtml } from '../i18n/locales';
+import { localeInfo, localePath, localizeHtml } from '../i18n/locales';
 import { gameLanguages, localStageHint, localizeGame, localizedGames } from '../i18n/games';
 import { findGuide } from '../i18n/guides';
 import { playProps } from '../i18n/play';
@@ -60,7 +60,7 @@ const guides = (
 const ogImage = `/og/games/${game.slug}.png`;
 const faq = [...game.faq, appFaqFor(game.slug, lang)];
 const jsonLd = [
-  gameSchema({ path, name: game.name, description: game.description, image: ogImage, isGame: !NON_GAMES.has(game.slug) }),
+  gameSchema({ path, name: game.name, description: game.description, image: ogImage, isGame: !NON_GAMES.has(game.slug), lang: localeInfo(lang).htmlLang }),
   breadcrumbs(crumbs, lang),
   faqPage(faq),
 ];

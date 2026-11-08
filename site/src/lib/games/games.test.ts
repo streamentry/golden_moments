@@ -1,8 +1,8 @@
 import { describe, expect, it } from 'vitest';
 import { createRng, shuffle } from './random';
-import { boardColumns, createPairs, isComplete, matchedPairs, tapPair } from './pairs';
+import { boardColumns, createPairs, isComplete, matchedPairs, tapPair, tileVisualState } from './pairs';
 import { correctCount, createPuzzle, isSolved, tapPiece } from './puzzle';
-import { cellsOf, createWordSearch, lettersOf, normalizeWord, wordBetween } from './wordsearch';
+import { cellsOf, createWordSearch, lettersOf, normalizeWord, wordBetween, wordsLeft } from './wordsearch';
 import { createBingoCards } from './bingo';
 import { createSort, dropInBasket, isSorted, selectItem } from './sorting';
 import { SHADOW_IDS, createShadowRound } from './shadow';
@@ -74,6 +74,34 @@ describe('pairs', () => {
     expect(boardColumns(4, true)).toBe(2);
     expect(boardColumns(12, false)).toBe(3);
   });
+
+  it('determines tile visual state for resting, hidden, selected, mismatch, and matched', () => {
+    let state = createPairs(['a', 'b'], createRng(3));
+    expect(tileVisualState(state, 0, false)).toBe('resting');
+    expect(tileVisualState(state, 0, true)).toBe('hidden');
+    expect(tileVisualState(state, 999, false)).toBe('resting');
+
+    // Select a tile
+    state = tapPair(state, 0);
+    expect(tileVisualState(state, 0, false)).toBe('selected');
+    expect(tileVisualState(state, 0, true)).toBe('selected');
+    expect(tileVisualState(state, 1, true)).toBe('hidden');
+
+    // Mismatch
+    const different = state.tiles.findIndex((t) => t.value !== state.tiles[0]?.value);
+    state = tapPair(state, different);
+    expect(tileVisualState(state, 0, true)).toBe('mismatch');
+    expect(tileVisualState(state, different, true)).toBe('mismatch');
+    const third = state.tiles.findIndex((_, i) => i !== 0 && i !== different);
+    expect(tileVisualState(state, third, true)).toBe('hidden');
+    expect(tileVisualState(state, third, false)).toBe('resting');
+
+    // Match
+    const matchPair = findPair(state, 0);
+    state = tapPair(tapPair(state, 0), matchPair);
+    expect(tileVisualState(state, 0, false)).toBe('matched');
+    expect(tileVisualState(state, matchPair, true)).toBe('matched');
+  });
 });
 
 describe('puzzle', () => {
@@ -104,6 +132,15 @@ describe('puzzle', () => {
 
 describe('word search', () => {
   const words = ['APPLE', 'PEAR', 'LEMON', 'PLUM'];
+
+  it('lists the words still to find as plain words, for reading aloud', () => {
+    const grid = createWordSearch(words, 7, createRng(2));
+    const [first, ...rest] = grid.words.map((w) => w.word);
+    expect(wordsLeft(grid, [])).toEqual([first, ...rest]);
+    expect(wordsLeft(grid, [first as string])).toEqual(rest);
+    expect(wordsLeft(grid, grid.words.map((w) => w.word))).toEqual([]);
+    expect(wordsLeft(grid, []).join(', ')).not.toContain('[object');
+  });
 
   it('places words across or down only, readable forwards', () => {
     const grid = createWordSearch(words, 7, createRng(2));

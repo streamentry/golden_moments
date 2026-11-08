@@ -2,9 +2,9 @@ import { useCreateStore, useSelector } from '@tanstack/react-store';
 import { useEffect } from 'react';
 import type { PlayProps } from '../../i18n/play';
 import { fill } from '../../i18n/play/format';
-import { boardColumns, createPairs, isComplete, tapPair, type PairsState } from '../../lib/games/pairs';
+import { boardColumns, createPairs, isComplete, tapPair, tileVisualState, type PairsState } from '../../lib/games/pairs';
 import { createRng, randomSeed } from '../../lib/games/random';
-import { PictureTile, pictureNamer, type TileState } from './PictureTile';
+import { PictureTile, pictureNamer } from './PictureTile';
 import { sounds } from './sound';
 import { useWide } from './useWide';
 
@@ -17,15 +17,6 @@ interface PairsBoardProps {
   round: number;
   onMessage: (message: string) => void;
   onComplete: () => void;
-}
-
-function tileState(state: PairsState, i: number, hidden: boolean): TileState {
-  const t = state.tiles[i];
-  if (!t) return 'resting';
-  if (t.matched) return 'matched';
-  if (state.mismatch?.includes(i)) return 'mismatch';
-  if (state.selected === i) return 'selected';
-  return hidden ? 'hidden' : 'resting';
 }
 
 export function PairsBoard({ play, values, hidden, photos = false, round, onMessage, onComplete }: PairsBoardProps) {
@@ -92,7 +83,7 @@ export function PairsBoard({ play, values, hidden, photos = false, round, onMess
           photo={photos}
           name={label(t.value)}
           position={i + 1}
-          state={tileState(state, i, hidden)}
+          state={tileVisualState(state, i, hidden)}
           onTap={() => onTap(i)}
         />
       ))}

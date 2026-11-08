@@ -34,14 +34,15 @@ export function organization(): Node {
   };
 }
 
-export function website(): Node {
+/** The site as a whole; `languages` lists every language it is published in (BCP 47). */
+export function website(languages: readonly string[] = []): Node {
   return {
     '@type': 'WebSite',
     '@id': SITE_ID,
     name: SITE.name,
     alternateName: 'Dementia Activities Games',
     url: SITE.url,
-    inLanguage: 'en-US',
+    inLanguage: languages.length > 1 ? [...languages] : 'en-US',
     publisher: ORG_REF,
   };
 }
@@ -114,6 +115,8 @@ export interface GameInput {
   name: string;
   description: string;
   image: string;
+  /** BCP 47 tag of the page language; English (US) when omitted. */
+  lang?: string;
 }
 
 export function game(input: GameInput): Node {
@@ -128,7 +131,7 @@ export function game(input: GameInput): Node {
     ...(input.isGame ? { genre: ['Casual', 'Puzzle'], gamePlatform: 'Web browser' } : {}),
     operatingSystem: 'Any',
     browserRequirements: 'Requires JavaScript',
-    inLanguage: 'en-US',
+    inLanguage: input.lang ?? 'en-US',
     isAccessibleForFree: true,
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
     publisher: ORG_REF,

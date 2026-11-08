@@ -30,6 +30,7 @@ export function PictureTile({ ui, value, photo = false, name, position, state, o
     <button
       type="button"
       className={`tile tile--${state}`}
+      data-state={state}
       onClick={onTap}
       aria-label={stateWord ? fill(ui.tile.withState, { label: spoken, state: stateWord }) : spoken}
       aria-pressed={state === 'selected' ? true : undefined}

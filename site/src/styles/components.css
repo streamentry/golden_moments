@@ -132,6 +132,9 @@
   width: 44px;
   height: 44px;
   flex: none;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--gm-outline) 40%, transparent);
 }
 .brand__text {
   display: flex;
@@ -174,6 +177,11 @@
 .site-nav a[data-active='true'] {
   background: var(--gm-primary-container);
   box-shadow: inset 0 -3px 0 var(--gm-primary);
+}
+.site-nav a:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 2px;
+  border-radius: var(--radius-full);
 }
 @media (max-width: 719px) {
   .site-nav {
@@ -279,25 +287,62 @@
   max-width: 60em;
 }
 
-/* Language menu: a wrapping row of names, not a 50-row list. The current
+/* Language menu: a disclosure that shows the current language and, when
+   opened, every language as a multi-column list. All links stay in the HTML,
+   so search engines still crawl them with or without script. The current
    language is marked by a check and weight, never by colour alone. */
 .lang-menu {
   margin-top: var(--space-xl);
   padding-top: var(--space-lg);
   border-top: 1px solid var(--gm-on-surface-variant);
 }
-.lang-menu h2 {
-  font-size: var(--text-title-lg);
-  color: var(--gm-on-primary);
-  margin-bottom: var(--space-sm);
-}
-.lang-menu ul {
+.lang-menu > summary {
   display: flex;
   flex-wrap: wrap;
-  gap: 0 var(--space-lg);
+  align-items: center;
+  gap: var(--space-xs) var(--space-md);
+  min-height: var(--target-min);
+  cursor: pointer;
+  list-style: none;
+}
+.lang-menu > summary::-webkit-details-marker {
+  display: none;
+}
+.lang-menu > summary:focus-visible {
+  outline: 3px solid var(--gm-primary-container);
+  outline-offset: 4px;
+  border-radius: var(--radius-md);
+}
+.lang-menu h2 {
+  margin: 0;
+  font-size: var(--text-title-lg);
+  color: var(--gm-on-primary);
+}
+.lang-menu__current {
+  font-size: var(--text-md);
+  color: var(--gm-on-surface);
+}
+.lang-menu__chevron {
+  flex: none;
+}
+.lang-menu:not([open]) .lang-menu__chevron {
+  transform: rotate(90deg);
+}
+.lang-menu[open] .lang-menu__chevron {
+  transform: rotate(-90deg);
+}
+.lang-menu nav {
+  margin-top: var(--space-md);
+}
+.lang-menu__grid {
+  columns: 9rem;
+  column-gap: var(--space-lg);
   list-style: none;
   padding: 0;
   margin: 0;
+}
+.lang-menu__grid li {
+  break-inside: avoid;
 }
 .lang-menu a {
   display: inline-flex;
@@ -323,9 +368,10 @@
   font-size: var(--text-md);
 }
 .breadcrumbs li:not(:last-child)::after {
-  content: '/';
+  content: '/' / '';
   margin-inline-start: var(--space-sm);
   color: var(--gm-outline);
+  speak: never;
 }
 .breadcrumbs a {
   display: inline-block;
@@ -1021,6 +1067,18 @@ summary {
     color: #000000;
     text-decoration-thickness: 4px;
   }
+  .breadcrumbs a {
+    color: #000000;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+  }
+  .breadcrumbs a:hover {
+    text-decoration-thickness: 3px;
+  }
+  .breadcrumbs a:focus-visible {
+    outline: 3px solid #000000;
+    outline-offset: 2px;
+  }
   .breadcrumbs [aria-current='page'] {
     color: #000000;
     font-weight: 800;
@@ -1030,10 +1088,26 @@ summary {
     color: #000000;
     font-weight: 800;
   }
+  .lang-menu > summary:focus-visible {
+    outline: 3px solid #FFFFFF;
+    outline-offset: 4px;
+  }
   .lang-menu a[aria-current] {
     text-decoration: underline;
     text-decoration-thickness: 3px;
     outline: 2px solid #FFFFFF;
+    outline-offset: 2px;
+  }
+  .site-nav a {
+    color: #000000;
+  }
+  .site-nav a:not([aria-current='page']):not([data-active='true']):hover,
+  .site-nav a:not([aria-current='page']):not([data-active='true']):focus-visible {
+    border: 2px solid #000000;
+    background: #FFFFFF;
+  }
+  .site-nav a:focus-visible {
+    outline: 3px solid #000000;
     outline-offset: 2px;
   }
   .site-nav a[aria-current='page'],
@@ -1044,9 +1118,33 @@ summary {
   .site-footer {
     border-top: 4px solid #FFFFFF;
   }
+  .site-footer a {
+    color: #FFFFFF;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+  }
+  .site-footer a:hover {
+    color: #FFFFFF;
+    text-decoration-thickness: 4px;
+  }
+  .site-footer :focus-visible,
+  .site-footer a:focus-visible {
+    outline: 3px solid #FFFFFF;
+    outline-offset: 3px;
+  }
+  .skip-link {
+    background: #000000;
+    color: #FFFFFF;
+    border: 3px solid #FFFFFF;
+  }
+  .skip-link:focus-visible {
+    outline: 3px solid #000000;
+    outline-offset: 3px;
+    box-shadow: none;
+  }
   .brand__mark {
     border: 2px solid #000000;
-    border-radius: 12px;
+    border-radius: var(--radius-lg);
   }
   .brand__tag {
     color: #000000;
@@ -1166,6 +1264,16 @@ summary {
   a:hover {
     color: Highlight;
   }
+  .breadcrumbs a {
+    color: LinkText;
+  }
+  .breadcrumbs a:hover {
+    color: Highlight;
+  }
+  .breadcrumbs a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
+  }
   .breadcrumbs [aria-current='page'] {
     font-weight: 800;
     border-bottom: 2px solid Highlight;
@@ -1173,8 +1281,22 @@ summary {
   .breadcrumbs li:not(:last-child)::after {
     color: CanvasText;
   }
+  .lang-menu > summary:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 4px;
+  }
   .lang-menu a[aria-current] {
     outline: 2px solid Highlight;
+    outline-offset: 2px;
+  }
+  .site-nav a {
+    color: CanvasText;
+  }
+  .site-nav a:hover {
+    color: Highlight;
+  }
+  .site-nav a:focus-visible {
+    outline: 3px solid Highlight;
     outline-offset: 2px;
   }
   .site-nav a[aria-current='page'],
@@ -1188,14 +1310,28 @@ summary {
   .site-footer a {
     color: LinkText;
   }
+  .site-footer a:hover {
+    color: Highlight;
+  }
   .site-footer a:focus-visible {
     outline: 3px solid Highlight;
     outline-offset: 2px;
   }
+  .skip-link {
+    forced-color-adjust: none;
+    background: Highlight;
+    color: HighlightText;
+    border: 2px solid HighlightText;
+  }
+  .skip-link:focus-visible {
+    outline: 2px solid Highlight;
+    outline-offset: 3px;
+    box-shadow: none;
+  }
   .brand__mark {
     forced-color-adjust: none;
     border: 1px solid CanvasText;
-    border-radius: 12px;
+    border-radius: var(--radius-lg);
   }
   .brand:focus-visible {
     outline: 3px solid Highlight;

@@ -58,6 +58,17 @@ export function matchedPairs(state: PairsState): number {
   return state.tiles.filter((t) => t.matched).length / 2;
 }
 
+export type TileVisualState = 'resting' | 'selected' | 'matched' | 'hidden' | 'mismatch';
+
+export function tileVisualState(state: PairsState, i: number, hidden: boolean): TileVisualState {
+  const t = state.tiles[i];
+  if (!t) return 'resting';
+  if (t.matched) return 'matched';
+  if (state.mismatch?.includes(i)) return 'mismatch';
+  if (state.selected === i) return 'selected';
+  return hidden ? 'hidden' : 'resting';
+}
+
 /** Columns that keep the whole board on one screen without tiny tiles. */
 export function boardColumns(tileCount: number, wide: boolean): number {
   if (tileCount <= 4) return 2;
