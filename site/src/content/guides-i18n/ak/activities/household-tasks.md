@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Efie Adwuma sɛ Anigyeɛ ma Nnipa a Wɔwɔ Dementia"
+seoTitle: "Efie Adwuma ma Dementia: Adwuma a Yɛbɛyɛ Da Biara"
+description: "Ntoma a wɔsɔ, nneɛma a wɔkyekyɛ, ahyehyɛ ne nnuan ayaayaa boa nnipa a wɔwɔ dementia ma wɔnya anigyeɛ. Sɛnea wobɛhyehyɛ, sesa ne ho ne sɛnea wobɛtena ase ahobanbɔ mu."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Efie adwuma a yɛyɛ da biara, te sɛ ntoma a wɔsɔ, nkyekyɛ nsɔfo, ahyehyɛ
+  aduane, ntwa ahwɛfoɔ, nsuo a wɔgugu nnua so ne nnuan a ɛyɛ mmerɛw, bɛboa
+  onipa a wɔwɔ dementia ma ɔnya ɔkwan a ɔfa so boa. Paw adwuma a ɔnim, fa
+  ntam ɔkwan biako biako mu, yi nsɛmmɔnedeɛ a ebi wɔ hɔ ne nneɛma a ɛhyew
+  anaa ɛhye fi hɔ, na ma ɔkwan a ɔfa so yɛ adwuma no yɛ hwee sɛ ɛho hia
+  sen sɛ ɔyɛ no "yie".
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Adwuma a ɔnim bɛboa onipa no ma ɔnya ahoɔden sɛ ɔboa, na ɔyɛ ɔfie ho ayɔnkofa, na eyi nso hia sen sɛ wɔyɛ adwuma no yie anaa."
+  - "Kyekyɛ adwuma biara ma ɛyɛ nsɛnkyerɛ biako biako, kyerɛ no sɛnea wɔyɛ, na fa wo nsa tɔ nea ɛyɛ den no ahyɛ no nsa aba akwantuo."
+  - "Hyɛ akyi nkrante, nsuo a wɔde sra ntadeɛ ne nsuo ayete ntumi, na fa nkukuo ahyɛ ɔkɔɔ hɔ anaa ɔkɔɔ anaa ɔkɔɔ bi a ɔde ahoɔ bɛka ntɔ ase ansa na woreyɛ adwuma."
+  - "Nea wɔapow ahyɛ ntoma a wɔayɛ yie no mu ansa na onipa no ahwɛ. Sɛ ɛsɛ sɛ woyɛ bio a, yɛ no akyiri wɔ baabi a ɔnhwɛ."
+  - "Sɛ adwuma bi de awerɛhyɛmu ba a, sesa kɔ ɔkwan a ɛyɛ mmerɛw so, san bɔ bio ankasa anaa mmom fa ho hɔ."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Adwuma bɛn na onipa a wɔwɔ dementia betumi aboa wɔ?"
+    a: "Nnipa pii betumi aboa wɔ ntoma a wɔsɔ, atamfo a wɔkyekyɛ, nkyekyɛ nsɔfo, ahyehyɛ aduane, ntwa ahwɛfoɔ, dusting, nsuo a wɔgugu nnua so anaa wɔ fufuo a wɔrekɔ so. Yɛ adwuma a onipa no yɛe bi da ne sɛ ɔyɛ no ansa na ɔrenyɛ no nyinaa. Nnansa yi, adwuma biako a wɔsan yɛ da biara, te sɛ mpapahwe a wɔtetɛw, betumi aboa."
+  - q: "Ɛyɛ nea ɛsɛ sɛ onipa a wɔwɔ dementia boa wɔ kɔkɔɔ mu?"
+    a: "Ebetumi aba, sɛ wohwɛ no yie na wɔahyehyɛ ade yie. Hyɛ akyi nkrante, nneɛma a wɔde sra ntadeɛ ne nneɛma a ɛhye fi hɔ, de nkukuo ahyɛ ɔkɔɔ hɔ anaa ɔkɔɔ anaa ɔkɔɔ bi a ɔde ahoɔ bɛka ntɔ ase, na ma no adwuma a ɛyɛ ahobammɔ, te sɛ nkɔhwɛ nwoma, nkyekyɛ nnuan anaa ahyehyɛ nsɔfo. Nnyɛ no ɛ tumi nkɔ na ɔnnhwɛ kɔkɔɔ no so."
+  - q: "Dɛn na ɛbɛyɛ sɛ wɔyɛ adwuma no nkyɛw anaa wɔbɛyɛ asaase?"
+    a: "Gyina hɔ. Adwuma no ho nhia ne bere a wɔbɛfa ho ne ɔfie ho ahonyade, na ɛnyɛ nea ɛyɛ pɛpɛɛpɛ. Sɛ ɛho hia sɛ wosan yɛ ade no a, yɛ no akyiri, wɔ bere a onipa no nhwɛ, na ɛnyɛ ma ɔnte sɛ wɔrekamfo no."
+  - q: "Dɛn na ɛbɛyɛ sɛ wɔpo sɛ wɔrenboa?"
+    a: "Sɛ ɔpo a, ebia adwuma no ateɛ sɛ ɛyɛ den, ɛyɛ nea ɛnyɛ no yie, anaa ɛde ɔhaw bi ba ɔnkyɛ. Nhyɛ no mmɔden. Sɔ ɔkwan a ɛyɛ mmerɛw ahwɛ anaa kɔ fa wo ho ɔmpɛ, anaa bisa no bio wɔ bere a ɛyɛ no yie mu."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Nnipa pii a wɔwɔ dementia adi afe pii di fie ho adwuma, mmofra abusua, anaa adwuma a wɔyɛ wɔ adwumaden mu. Sɛ wɔka kyerɛ wɔn sɛ wɔmmoa wɔn wɔ fie adwuma mu a, ɛbɛka sɛ "wɔda so ara ne fie ho ayɔnkofa" wɔ ɔkwan a ɛyɛ anigyeɛ, a ɛyɛ den sɛ adwuma foforo bi bɛka saa. Saa kyerɛwsɛm yi ka adwuma a ɛyɛ yie, sɛnea wɔbɛhyehyɛ, sɛnea wɔbɛsesa ho bere a nneɛma rehyɛ mu, ne sɛnea wɔbɛtena ase ahobammɔ wɔ kɔkɔɔ ne nkɔhwɛ nwoma mu.
 
-## Why do everyday chores work well as activities?
+## Adwuma a yɛyɛ da biara ne nneɛma a ɛyɛ anigyeɛ ma nnipa yi bɛyɛ dɛn?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Efie adwuma yɛ anigyeɛ esiane sɛ wɔn ho yɛ nea onipa no ahyɛ da, na wɔwɔ ntease a ɛda so. National Institute on Aging ka sɛ nneɛma te sɛ nsuo a wɔsɔ aboɔden, ahyehyɛ aduane, nkyekyɛ, dusting, mmara a wɔkyekyɛ ne nkyekyɛ a wɔkyekyɛ ntoma ka [nneɛma a nnipa a wɔwɔ Alzheimer's betumi anya anigyeɛ wɔ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mu. Alzheimer's Association ka sɛ adwuma te sɛ ahyehyɛ aduane betumi ama onipa no [ate sɛ ɔyɛ fie ho nnipa a wɔpɛ wɔn](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Adwuma nso wɔ ne nsɛnkyerɛ a ɛma ɛyɛ den sɛ wobɛfi ase. "Ma me mmoa me nsa wɔ aboɔden yi mu" yɛ ade a ɛyɛ mmerɛw sɛ wobɛka ko ɔkwan a ɛfa so bisa "Wopɛ sɛ yɛyɛ adwuma bi?"
 
-## Which household tasks are good to try?
+## Adwuma a fie ho bɛn na ɛyɛ yie sɛ wɔsɔ hwɛ?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Fi adwuma a onipa no yɛe bere a atwam ase, na afei fa nneɛma a ɔtumi yɛ nnɛ no toto ho.
 
-### Laundry and linens
+### Ntoma ne nsoromma
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Sɛ wɔkyekyɛ aboɔden ne nsɔfo.** Hyɛ akyirideɛ a ɛyɛ nketenkete a ɛwɔ nneɛma a ɛyɛ nketenkete mu wɔ ne nsa mu. Aboɔden yɛ adwuma a ɛnyɛ den; biribi biara nni ɔkwan a ɛnyɛ yie a wɔbɛkyekyɛ so.
+- **Sɛ wɔbɛhwehwɛ nsoromma a ɛfa ho.** Gyina sɛ nsoromma a wɔadi ho wɔ tebɔ so. Sɛ ɛyɛ den sɛ wɔhunu nsoromma no a, fa nsoromma abien anaa abiasa a ɛyɛ ahoɔfɛ a ɛne mu soa.
+- **Sɛ wɔbɛyɛ nsoromma ateɛ ne sɛ wɔbɛhyehyɛ.** Nsoromma, nsɔfo anaa aboɔden a wɔde ka ho betumi ayɛ ateɛ na wɔahyehyɛ. Eyi yɛ adwuma a ɛyɛ yie bere a wɔrenkyekyɛ ntoma bio ankasa.
 
-### Table and kitchen
+### Tebɔ ne aduane
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Sɛ wɔbɛhyehyɛ tebɔ.** Hyehyɛ ɔkwan biako sɛ ɛyɛ nhwehwɛmu, na ma onipa no nni so. Sɛ ɛyɛ den a, ma no nneɛma biako biako: "Yɛhyɛ sbɔnnwa ma tamfo biara."
+- **Sɛ wɔbɛkyekyɛ aduane.** Fa ahyehyɛ nneɛma a ɛyɛ mmerɛw, mpaboa ne mpaboa a ɛyɛ ɔkwan, ka wɔ ɔkwan a ɛyɛ nketenkete mu. Gyae nneɛma a ɛyɛ ɔkɔɔ anaa nneɛma a ɛyɛ den sɛ wɔde bɛhyehyɛ.
+- **Sɛ wɔbɛhohoro nneɛma.** Nneɛma a wɔamfa ho ankasa a ɛyɛ nea ɛnyɛ den ma wɔdi ho, nneɛma a ɛyɛ ahoɔfɛ, anaa aboɔden a wɔde ka ho, yɛ adwuma a ɛyɛ ahobammɔ.
+- **Sɛ wɔbɛpɔw tebɔ anaa nkukuo.** Nsuo a ɛyɛ mmerɛw ne tebɔ a wɔapow. Alzheimer's Association ka sɛ sɛ onipa de ne nsa rebɔ tebɔ a, ma no aboɔden, na ɛbɛma ne nsa tu afiri bi mu ayɛ adwuma a ɛyɛ.
 
-### Around the house
+### Fie ho nneɛma nso
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Sɛ wɔbɛhohoro fie.** Dusting ne aboɔden a ɛyɛ mmerɛw ne nneɛma a ɛyɛ den, te sɛ tebɔ a ɛwɔ fie anaa nkɔhwɛ nwoma.
+- **Sɛ wɔbɛkyekyɛ nkrante.** Ma onipa no nkyekyɛ nkrante ne nnwoma a ɛnyɛ den sɛ ɛbɛyɛ ntadeɛ mu. Kyekyɛ mu sɛ: ɛho hia, ɛsɛ sɛ wɔpow, anaa ɛsɛ sɛ wɔkenkan akyiri. Sika ne nkrante a ɛho hia sɛ wɔhwɛ no, kɔ baabi a ɛyɛ mmerɛw.
+- **Sɛ wɔbɛkyekyɛ nneɛma a wɔde bɛyɛ fofor.** Hohoro nneɛma a wɔafi mu, nnwoma ne nkɔhwɛ nwoma, a wɔde bɛkɔ mmoadoma ananmu.
+- **Sɛ wɔbɛtetɛw.** Ntoma a ɛyɛ mmerɛw wɔ ɔkwan a ɛyɛ den a, sɛ ɔkwan a ɔnam so tumi gyina so.
+- **Sɛ wɔbɛsoa nsuo.** Nsuo ntadeɛ a ɛyɛ mmerɛw ne nnua a wɔbɛtumi atena mu.
 
-### Simple cooking with supervision
+### Nnuan ayaayaa a wɔde hwɛ
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Nnuan nnuan betumi asakra anigyeɛ a ɛyɛ den. National Institute on Aging ka sɛ ma onipa no nnoa nneɛma, nsrɛ, nnuan nneɛma anaa nkɔ so ka nsɛnkyerɛ a ɛfa ne ho ankasa no kyerɛ obiara. Adwuma a ɛyɛ yie ne:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- sohwɛ nkwan anaa nhwɛɛ
+- nnuan aboa anaa ahyehyɛ ahoɔfɛ
+- nkyekyɛ aboɔden
+- nkyekyɛ ntadeɛ wɔ piɛ mu
+- ntoma a wɔde kyekyɛ aboɔden a ɛmu mmerɛw
+- kɔ aboɔden ne pɔw a wɔde hyehyɛ pizza so
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Sɛ ɛyɛ den sɛ wɔbɛsukuu nneɛma no a, Alzheimer's Association ka sɛ wo ara fa nneɛma no a wɔde sukuu so, na afei ma onipa no adwuma foforo, te sɛ nnuan.
 
-## How do I set up a chore so it goes well?
+## Sɛnea mebɛhyehyɛ adwuma sɛ ɛbɛkɔ yie?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Yiyi bere a ɛyɛ.** Paw bere a onipa no ada ho yie na ɔyɛ komm. Ma ɛbɛyɛ nnipa pii anyinasɛm bere a ɛyɛ anɔpa.
+2. **Yi baabi no ho ahwɛ.** Adwuma biako, baabi biako, na nneɛma foforo nni tebɔ no so.
+3. **Frɛ, na nnye ahyɛ adwuma.** "Mehia mmoa wɔ nsoromma yi mu" yɛ ɛpa sen "Ɛberɛ sɛ yɛkyekyɛ ntoma."
+4. **Yɛ nea edi kan no wɔ hɔ.** Kyekyɛ aboɔden baako nkɔsɛ, na afei ma no nea edi hɔ. Ɛyɛ mmerɛw sɛ wokyerɛ adwuma no sɛnea wɔyɛ sen sɛ wobɛkyerɛkyerɛ.
+5. **Ma nsɛnkyerɛ biako biako.** Nsɛnkyerɛ pii bɛyɛ den ma nnipa. Di ntam kɔ akyi ansa na woaka nea edi hɔ.
+6. **Yɛ adwuma bɛn ho.** Adwuma pɛ a wɔbɛyɛ bɛn ho ma ɛyɛ nnipa mu, na ɛnyɛ sɛ wɔrehwɛ.
+7. **Ka adwuma no ho asɛm, na ɛnyɛ nea ɛba.** "Eyi yɛ nhyira" anaa "Ka kyerɛ me sɛnea wopɛɛ sɛ wohwɛ ntoma a wɔde kɔ hɔ" ma ɛyɛ nkɔaso a ɛnnhwɛ obiara.
 
-## How do I adapt chores as abilities change?
+## Sɛnea mebɛsesa adwuma sɛ ntease sesa?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Ntease sesa bere ne bere, na ɛbɛyɛ ɛda biara. Alzheimer's Association ka sɛ ɛfa nneɛma a ɛyɛ mmerɛw ne nneɛma a wɔsan yɛ da biara sɛ dwumadie no kɔ anim.
 
-| If this has become hard | Try this instead |
+| Sɛ eyi ayɛ den | Yɛ eyi sɛ ɔkwan a ɛbɛyɛ |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Sɛ wɔbɛkyekyɛ ntoma kɛseɛ | Sɛ wɔbɛkyekyɛ aboɔden a ɛyɛ nketenkete anaa sɛ wɔbɛtetɛw nsoromma |
+| Sɛ wɔbɛhyehyɛ tebɔ ma ɛyɛ mmoa | Sɛ wɔbɛhyehyɛ akyirideɛ biako wɔ tebɔ biara so |
+| Sɛ wɔbɛhyehyɛ nkrante wɔ nkyɛn | Sɛ wɔbɛtie nkrante ketewa a wɔde wɔ baako |
+| Sɛ wɔbɛdi nkyerɛwde | Sɛ wɔbɛyɛ nnuan anaa wɔbɛhwɛ wɔ bere a wɔrekɔ so |
+| Sɛ wɔbɛtetɛw fie nyinaa | Sɛ wɔbɛtetɛw tebɔ ketewa biako |
+| Sɛ adwuma no nyinaa ayɛ den | Sɛ wotena wo akyi na woyɛ wɔ bere a ɔrekɔ so |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Ɛyɛ bere a wɔhwɛ nso. National Institute on Aging ka sɛ nnipa bi ani gye sɛ wɔhwɛ nneɛma, na ɛyɛ ɔkwan pa sɛ wobɛtena ase.
 
-## How do I keep household tasks safe?
+## Sɛnea mebɛkyerɛ sɛ adwuma no yɛ ahobammɔ?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Ahobammɔ ne nea edi kan, titiriw wɔ kɔkɔɔ mu. National Institute on Aging [nkɔhwɛ kɔkɔɔ a ɛyɛ Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) mu ka sɛ:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Hyɛ akyi anaa yi nneɛma a wɔde sra ntadeɛ, na ɛhyɛ mu nso nneɛma a wɔde sukuu nso, na ɛwɔ mu nso nneɛma a wɔde sra ntadeɛ a ɛbɛyɛ mmerɛw sɛ nʼadeɛ.
+- Hyɛ nkrante, nkyekyɛ nsɔfo ne nneɛma a wɔde yɛ adwuma a ɛyɛ den wɔ baabi a wɔahyɛ akyi.
+- Fa ahobammɔ nneɛma a wɔde sɔ kɔkɔɔ so, ne nea ɛyɛ akyi a wɔde bɛhyɛ ɔkɔɔ ne ɔkɔɔ anaa akyi.
+- Fa "Gyina" anaa "Ɛyɛ ɔhyew paa" nsɛnkyerɛ bɛhyɛ ɔkɔɔ, ɔkɔɔ anaa nkaa a ɛbɛyɛ ɔkɔɔ no hɔ, na ɛnyɛ ɔkwan a ɛbɛma ɛtɔ ase.
+- Sɛ wɔde ngoan 120°F (49°C) ahyɛ nsuo nkɔhwɛ ahyɛ mu, na ɛbɛtumi ayɛ kɔkɔɔ.
+- Yi ɛfɔ nhwɛ ne nsuo a ɛyɛ nneɛma a ɛte sɛ nneɛma a wɔde di so, na ɛnyɛ nneɛma a wɔde di.
 
-A few more practical habits help:
+Nneɛma foforo a ɛyɛ mmerɛw nso boa:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Gyina dan no mu bere a wɔde kɔkɔɔ, ɔkɔɔ anaa nkrante a ɛyɛ den rekɔ so.
+- Fa nneɛma a ɛnyɛ den sɛ wɔbɛpow ne tebɔ no so.
+- Ma asaase no nyɛ wɔ baabi a ɛyɛ mmerɛw sɛ wobɛtetɛw anaa wobɛtwa.
+- Sɛ onipa no ada nneɛma so, Alzheimer's Association ka sɛ wo yi nneɛma a ɛyɛ mmerɛw fi adwumadan mu, na adwuma a ɛyɛ ahobammɔ, te sɛ nkɔwɔ dua ho, betumi ayɛ anigyeɛ.
 
-## What if they do it "wrong"?
+## Dɛn na ɛbɛyɛ sɛ wɔyɛ no "nkɔɔ"?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Gyae no. Ntoma a wɔyɛɛ mu baabi nkyɛ no mu nyinaa ne ntoma a wɔayɛ yie. Alzheimer's Association ka no pefee sɛ nea ɛho hia ne bere a wɔde bɛkɔ ne nkɔhwɛ ne sɛ onipa no ne fie ho ayɔnkofa, na ɛnyɛ sɛ ntoma no yɛ pɛpɛɛpɛ. Sɛ ɛho hia sɛ wɔsan yɛ ade no a, yɛ no akyiri, bere a ɛyɛ ɔkwan a wɔnhwɛ.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Sɛ wɔkyerɛkyerɛ no wɔ bere no mu a, adwuma a ɛyɛ anigyeɛ betumi aba nkaeɛ a ɛtwe adwene kɔ nea wɔayɛ wɔ akyi. "Medaase, wo boa me kɛse" yɛ asɛm a ɛyɛ yie daa.
 
-## When should we stop?
+## Ɛberɛ bɛn na yɛbɛgyae?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Gyae anaa sesa adwuma bere a wuhu sɛ onipa no ayɛ den, ɔyɛ komm, anaa ne ani agye adwuma no. Ɛyɛ nea ɛyɛ yie sɛ wɔgyae ntɛm; ɛnyɛ nkogu. Wobetumi:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- sesa kɔ ɔkwan a ɛyɛ mmerɛw
+- kɔ nneɛma a ɛma ɔnya ahomegyeɛ, te sɛ nnwom anaa kɔfi
+- san bɛyɛ bere foforo anaa da foforo
+- sɛ wobɛtena ase
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Sɛ onipa no ka dabi a, nhyɛ no mmɔden. Hwɛ [nea wɔbɛyɛ sɛ ɔka dabi](/caregiving/when-they-say-no/) ma ɔkwan a ɛyɛ mmerɛw a wɔbɛtumi adi so.
 
-## Low-effort extras for a quieter moment
+## Adwuma a ɛyɛ mmerɛw bere a ɔyɛ komm
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Sɛ adwuma a ɛfa nipadua ho ntumi nyɛ a, sɛ wɔbɛkyekyɛ nneɛma ne wɔbɛhyehyɛ wɔ ɔkwan a wɔtena ase so ka. [Sort Together](/games/sort-together/) ma wotumi tɔ mfonin wɔ kɔkɔɔ anaa nsuaa mu, na [Picture Pairs](/games/picture-pairs/) yɛ akwan a ɛyɛ mmerɛw a ɛfa mfonin kɛseɛ ho na ɛnni bere. [Conversation Cards](/games/conversation-cards/) wɔ nsɛmmisa a ɛfa fie ne abusua ho, na ɛyɛ mmerɛw sɛ wobɛkɔ ne kɔfi ka ho bere a adwuma no awie.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Sɛ wopɛ boa sɛ wobɛtete adwuma wɔ da mu a, hwɛ yɛn [nkɔhwɛ bere a wɔyɛ komm](/activities/daily-routine/). Sɛ wopɛ adwuma foforo sɛnea ɛbɛyɛ wɔ mpɛn a ɛsɛ mu, hwɛ [adwuma a ɛyɛ mpɛn a ɛsɛ mu](/activities/middle-stage/).

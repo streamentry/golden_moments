@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Nnwuma wɔ Fon ne Video Call so ma Obi a Dementia Wɔ Ho"
+seoTitle: "Video Call Nnwuma ma Dementia"
+description: "Video call ne fon nnwuma ma abusua a wɔwɔ akyirikyiri fi obi a Dementia wɔ ho: nkyerɛ biribi, kenkan nwoma, dwene, ne mmoa a wɔbɛyɛ wɔ abɔnten so, ne mmuae ma wɔn a wɔboa."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Frɛ a wofrɛ obi a ɔwɔ Dementia ho no yɛ papa sɛ ɛyɛ tiaa, ɛbɛba daa daa, na
+  wɔahyehyɛ ho sɛ wobɛyɛ biribi wɔ ho bom, te sɛ nkyerɛ wɔn anwannwanee anaa
+  wo kuruwa, hwɛ mfonini, kenkan nwoma, dwene anigye dwene a wɔpɛ, anaa yɛ
+  abɔnten kakra wɔ abɔnten so. Frɛ no wɔ bere koro so sɛ wubetumi, ma obi biako
+  nkasa bere biara, na kɔ abusua a ɔwɔ hɔ so nka wo ho boa.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Nnwuma bi ma frɛ no kwan na ɛma nkɔmhyɛ nyɛ den. Hyehyɛ biribi a ɛyɛ mmerɛ a mo nyinaa bɛfa."
+  - "Frɛ a ɛyɛ tiaa, a wɔfrɛ bere koro so, boa sen frɛ a ɛyɛ tenten nanso ɛnyɛ daa."
+  - "Obi biako na ɔkasa bere biara. Frɛ a nnipa pii ka ho ne nkasa a ɛnyɛ ɛnkyene ye sɛ obi tee, titiriw sɛ ɔtie yiye."
+  - "Obi a ɔwɔ hɔ betumi ahyehyɛ fon no, atena ase ne obi, na ayɛ 'nsa' ma adeɛ biara a ɛwɔ abɔnten anaa mfonini."
+  - "Sɛ frɛ no nyɛ yie nnɛ, kyerɛ no ayamyɛ. Ɛyɛ yie sɛ wosan bɔ bio ɔkyena."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Dɛn na metumi ayɛ wɔ video call so wɔ obi a ɔwɔ dementia ho?"
+    a: "Hyehyɛ nnwuma koro a ɛyɛ mmerɛ: kyerɛ wo turo, wo akraman anaa wo ɛdan; hwɛ mfonini a ɛyɛ dedaw bɛyɛ; kenkan asɛm tiaa anaa nkrasɛm a wɔkyerɛw; kenka dwene a wɔpɛ; anaa yɛ nnuadzeɛ bi a ɛyɛ mmerɛ wɔ abɔnten so. Nnwuma ma frɛ no wɔ akwan, enti obi no nhia sɛ ɔde nkasa nyinaa ahyɛ mu."
+  - q: "Frɛ a ɛsɛ sɛ ɛyɛ tenten sɛn?"
+    a: "Ɛdɛn a wo ani gye ne sɛ ɛsɛ sɛ ɛyɛ tenten sen sɛ wobɛhwɛ. Nkɔmhyɛ nkakrankakra a ɛyɛ anigye betumi ayɛ, titiriw sɛ obi no ahwe ahwe. Frɛ a ɛba daa daa wɔ bere koro so betumi asɛe sen frɛ bere tenten."
+  - q: "Dɛn na ɛbɛyɛ sɛ wɔn anyɛ mfiri anaa wɔn ani agu video call so?"
+    a: "Nnipa bi hu sɛ anipa a ɛwɔ abɔnten so yɛ nsɛnsɛn. Hwehwɛ fon a ɛyɛ pɛpɛɛpɛ, video nkrasɛm a wobetumi akyerɛ wɔ bere a ɛyɛ ahomeka, anaa nkyerɛwde ne mfonini a wɔde kɔ mail. Sɛ frɛ no kɔ yie, yɛ ayamyɛ, na sɛ wosan bɔ bio nna foforɔ anaa bere foforɔ."
+  - q: "Sɛn na metumi aboa me maame ma ɔnyɛ video call bere a ɔntumi nnyina fon so?"
+    a: "Srɛ abusuafoɔ, ɔboafoɔ a ɔbɛboa ne fi ha, anaa adwumayɛfoɔ wɔ ɔhyehyɛfie no mu sɛ wɔnhyɛ frɛ no ase na wɔnkura anaa wɔnhyɛ abɔnten no so. Ɛbarima bi ahyehyɛfie boa abusua wɔ video call mu, enti bisa wɔn nea wɔbɛma. Tablet a ɛwɔ stand so, a ɛyɛ kɛse na ne nne yɛ kɛse, ma nyinaa tie yie."
+  - q: "Yɛbetumi ayɛ agyinamu bi wɔ video so?"
+    a: "Yiw. Akwan a ɛyɛ mmerɛ ne sɛ obi biako ma ne screen wɔ video app no so, na obi foforɔ ka kyerɛ no sɛnea ɔbɛtɔ mfonini a ɛsɛ. Anaa ɔboafoɔ a ɔwɔ hɔ betumi abue agyinamu koro bi wɔ tablet so, na ɔnhyɛ mu ma ɔno, bere a wo ne no reka ho asɛm. Paw agyinamu a ɛnni bere anaa dwetɛ biara."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Sɛ wo te akyirikyiri fi obi a ɔwɔ dementia ho a, ɛbɛyɛ sɛ wo ho nni ho nnaadaa. Fon ne video call ntumi nnyina ayɛ ahyɛaseɛ, nanso sɛ wohyehyɛ yie a, ebetumi ama mo ne ho nkitahodie a ɛyɛ nokware. Nsakrae ne sɛ wunnyɛ adwene sɛ wobɛkasa sɛnea wɔkasa daa, na mmom hyehyɛ biribi a ɛyɛ mmerɛ a mo nyinaa bɛfa. Saa nkyekyɛmu yi kyerɛ nnwuma a wɔyɛ wɔ video ne fon so, sɛnea wɔbɛhyehyɛ frɛ no, ne nea obi a ɔwɔ hɔ betumi ayɛ sɛ oboa.
 
-## Why plan an activity for a call?
+## Dɛnsɛ na ɛsɛ sɛ wohyehyɛ nnwuma ma frɛ no?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Nnwuma ma frɛ no kwan. "Ɛte sɛn? Dɛn na woyɛe nnɛ?" bisa obi sɛ ɔnkae na ɔnkyerɛ, ɛyɛ den na ɛma ɔhaw. "Hwɛ, nkwan no abɛyɛ kokoo" nni biribiara a ɛsɛ sɛ ɔyɛ.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association kyerɛ sɛ nkɔmhyɛ a nnipa pii wɔ mu wɔ video so yɛ den, na wɔtrɛw [sɛ wɔde nhyehyɛe ka frɛ no ho](https://www.alz.org/help-support/caregiving/holidays) sɛ wɔbɛkenkan nnwom anaa wɔbɛda mfonini.
 
-## What activities work on a video call?
+## Nnwuma bɛn na yɛ wɔ video call so?
 
-### Show and tell
+### Kyerɛ na ka
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Fa wo wiase kɔ wɔn nkyɛn. Tow kamera no kɔ wo turo mu brɛoo, fa ɔdwan no kyerɛ wɔn, ka wo nnipa a wɔwɔ fie no, kyerɛ nea woreyɛ wɔ kuruwa, fa nkyerɛwde a ɔba no ayɛ no bra, anaa kyerɛ fon no kɔ dwiraframa so sɛ sintɔ aba. Ka nea wuhu wɔ nsɛm a ɛyɛ kokoo na gyae hɔ kakra ma wɔabue. Ɛnhia sɛ wobisa nsɛmmisa.
 
-### Look at photos together
+### Hwɛ mfonini bom
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Fa mfonini tɛtrɛw bi kɔ kamera so, anaa fa wo screen kyerɛ mfonini kɛse kakraa nkyɛn ɔkyena. Ka nea wuhu: "Hwɛ Papa ntoma." Monkɔ "Hwan ni yi?" anaa "Wokae anaa?" Sɛ obi no kyerɛ din a ɛnyɛ nokware a, ka ho asɛm no. Hwehwɛ yɛn [kwan a yɛbɛfa so akae](/activities/reminiscence/) ma nkyerɛase a ɛyɛ mmerɛ.
 
-### Read aloud
+### Kenkan nwoma
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Kenkan asɛm tiaa, nnwom a wɔfrɛ no Psalm, nwoma a wɔkenkan ma mmofra, nkrasɛm a obi bi kyerɛw wɔn, anaa nkyekyɛmu a ɔpɛ wɔ nwoma a ɔpɛ. Kenkan nwoma ma obi no tie biribi a ɛyɛ dɔ a ɔnhia sɛ ɔbua.
 
-### Sing or listen to music together
+### Dwene anaa tie nnwom
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Dwene nnwom a wɔte yie, anaa gyina nnwom a wɔpɛ wɔ wo fam. Ɛyɛ mmerɛ ma nkurɔfoɔ pii sɛ wɔbɛdwene sen sɛ wɔbɛka. Hwehwɛ yɛn [kwan a ɛfa dwene](/activities/music/) so.
 
-### Cook or bake at the same time
+### Yɛ aduane anaa tɔ bɔfoɔ wɔ bere koro so
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association kyerɛ sɛ wohyehyɛ video call sɛ wobɛyɛ aduane bi a wɔpɛ anaa wobɛtɔ bɔfoɔ. Hyehyɛ frɛ no wɔ abɔfie mmienu so. Obi a ɔwɔ hɔ betumi ahyɛ aduane anaa ahwɛ sɛ ɛyɛ dɛn bere a wo nso wo ntɛtɛ a wodi wɔn nwɔnwɔ kuku ano.
 
-### Watch something together
+### Hwɛ bere a ɛnyɛ dɛn
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Alzheimer's Association nso kyerɛ sɛ wɔhyehyɛ sɛ wobɛhwɛ sini a ɛyɛ dɛ bere koro so wɔ mmeae nkaa mu, na wɔka nkɔmhyɛ anaa video so. Ma obi a ɔwɔ dementia ho no, ɛbɛyɛ sɛ video tiaa, TV episode a ɛyɛ dedaw, anaa agyinamu bi a ɛyɛ mmerɛ ye sen sini kɛse.
 
-### Play a gentle game on a shared screen
+### Yɛ agyinamu bi a ɛyɛ mmerɛ wɔ screen a wɔfa so
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Video call app pii ma wobetumi de wo screen akyerɛ nnipa. Wobue agyinamu no na wotow; obi no ka kyerɛ wo nea wɔpɛ sɛ wɔpaw wɔ mfonini no mu, anaa ɔdan ne nsa so kyerɛ. Anaa, ɔboafoɔ a ɔwɔ hɔ betumi abue agyinamu koro no wɔ tablet so, na ɔtow ma ɔno bere a wo ne no reka ho asɛm.
 
-Games that work well this way:
+Agyinamu a ɛyɛ yie wɔ saa akwan yi so ne:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** wobɛkenkan mmuaeɛ a wɔte, na obi kyerɛ awiei, na wɔde asɛm a ɛbɛma wɔkasa di so.
+- **[Picture Pairs](/games/picture-pairs/):** agyinamu a ɛyɛ mmerɛ a wɔde mfonini kɛse toto, a ɛntumi nkɔ, ɛnni bere, na ɛnni nkyɛmu.
+- **[Conversation Cards](/games/conversation-cards/):** mfonini ne asɛmmisa a wɔbɛkasa fa so.
+- **[Photo Pairs](/games/photo-pairs/):** agyinamu a wɔde mfonini a wopaw wɔ wo so fɛ toto. Mfonini no te wo browser mu, na obi no hwɛ wɔn wɔ wo screen a wɔfa so.
 
-### Recorded messages
+### Nkrasɛm a wɔakyerɛ
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Sɛ ɛyɛ den sɛ wobɛfrɛ wɔ ahyɛnsɛ a, kyerɛ video tiaa: nhyiam, dwene, anaa nea wo ho dwo wɔ wo kurom. Ɔboafoɔ betumi abɔ no bere a ɛyɛ ahomeka, na ɛbɛyɛ bɛn bere a obi no pɛ. Alzheimer's Association ka nkyerɛ ne nkɔmmɔ ahorow a wɔsoma, te sɛ mmofra a wɔbue mpanyinfoɔ ho.
 
-## What about plain phone calls?
+## Ɛdeɛn na ɛwɔ fon nkasa so?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Fon nkasa wɔ hia. Dementia Australia kyerɛ sɛ [wofrɛ bere koro so](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) na woanyɛ ntɛntɛ, efisɛ nnipa a wɔwɔ dementia ho betumi afa bere ntɛm sɛ wɔbɛka. Wɔ fon so:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Ka wo din ne wo abusua wɔ mfiase: "Ao Papa, ɛyɛ Jenny, wo babaa."
+- Ka nkɔm mmɔden, nsɛm a ɛyɛ nketewa, na nsɛm koro biara wɔ ne ho.
+- Kyerɛ wɔn nsɛm a ɛyɛ fɛ, na mma wɔn nkɔ so bisa: "Ɛnnɛ anadwo, mede wo nkyene ntoma nneɛma yɛɛ."
+- Kenkan asɛm tiaa, anaa kenkan nkyekyɛmu a wo nnwom a ɔpɛ mu.
+- Ma ɛnyɛ tenten, na sɛ woreyɛ wo nkyekyɛ no, yɛ dɔ.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia nso ka sɛ video call betumi aboa bere a nkasa ayɛ den, efisɛ obi no betumi ahwɛ wo ani. Sɛ fon nkasa ma wɔn nsɛnsɛn a, hwehwɛ video, anaa yɛ tebea a ɛsɛ sɛ ɛyɛ.
 
-## How do I set up a video call that works?
+## Ɛdeɛn na metumi ahyehyɛ video call a ɛbɛyɛ yie?
 
-**Before the call:**
+**Ansa na frɛ no aba:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Paw bere a ɛyɛ mmerɛ** a obi no adi ahome yiye, na ɛnyɛ bere a ɔnnyinaa, na mmɔ ho mu. Nhyehyɛe boa.
+2. **Ka ho asɛm ne ɔboafoɔ a ɔwɔ hɔ.** Nkrasɛm a wode kɔma no ɛdɛnkan da a edi kan no boa wɔn sɛ wɔnhyehyɛ.
+3. **Hwɛ fon no.** Tablet a ɛwɔ stand so yɛ mmerɛ sen fon a wɔdi wɔ nsa mu. Hwɛ sɛ ɔhyehyɛ mu, screen no yɛ hann, na nne no yɛ kɛse ma wotie. Fa captions so sɛ app no ma wɔ, na obi no kenkan yiye.
+4. **Hyehyɛ biribi koro** na nyinaa nni hɔ.
 
-**During the call:**
+**Bere a frɛ no rekɔ so:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Ka kɔ kamera nkyɛn wɔ hann mu,** na ɛnyɛ sɛ ɔwɔ wo akyi.
+- **Ka wo ho daa daa** wɔ bere biara, de wo din ne wo abusuakuo.
+- **Obi biako na ɔkasa bere.** Alzheimer's Association ka sɛ nkasa a nnipa pii ka ho yɛ den ma nnipa a wɔwɔ dementia ho ne nnipa a wɔtie yiye. Sɛ abusuafoɔ pii ba frɛ no mu a, momfa bere ma obiara ka anaa mmra abusuafoɔ baanu anaa baasa.
+- **Bisa asɛmmisa biako bere biara.** Family Caregiver Alliance kyerɛ sɛ [wobisa asɛmmisa a ɛyɛ mmerɛ a wɔbɛbua "ao" anaa "daabi"](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), na sɛ wobetumi a, ma wɔn nhwɛso.
+- **Ma bere tenten ma nsɛnkyerɛ.** Tena ase ma wɔbua. Ɛyɛ mmerɛ sɛ woboa nsɛm bi sɛ wɔhwehwɛ asɛm.
+- **Fa wo ani ne wo nne.** Ma wo ani nsɛe, de wo nne nyin ma wo nne ayɛ dɔ. Nkyerɛ ani mu ka nsɛm pii.
+- **Mma nkyerɛ mu.** Sɛ obi no ka biribi a ɛnyɛ nokware a, ma ɛnkɔ so.
 
-**Ending the call:**
+**Frɛ no awiei:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Wɔ frɛ no awiei ansa na obi no abrɛ, na ɛyɛ sɛ ɛwɔ anigye mu.
+- Fa nsɛm a ɛyɛ pɛ bɔ wɔ wɔn bra biara mu: "Mɛfrɛ wo ɔkyena anɔpa. Medɔ wo."
+- Mma ɛnkɔ tenten.
 
-## Tips for the helper on site
+## Nkyerɛaseɛ ma ɔboafoɔ a ɔwɔ hɔ
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Sɛ wo ne ɔkunu, ɔboafoɔ, nuabarima anaa ɔdwumayɛfoɔ a ɔboa wɔ frɛ no mu no, wo na woma ɛyɛ.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Hyehyɛ beaeɛ a ɛnyɛ nnyɛe.** Gyae TV no na tow ɔpon no.
+- **Fi ase frɛ no wo ho,** na lam tablet a ɛwɔ stand so anaa kyerɛ obi no wɔ anim.
+- **Tena wɔn akyi, na nnyɛ wɔn anim.** Wo ho ma wɔn nsa ahoɔden. Sɛ ɛhia a, kɔ nkɔmmɔ bi ase ahyɛ no ahyɛ: "Hwɛ, ɛyɛ Jenny."
+- **Yɛ nsa.** Kyerɛ mfonini, tow agyinamu, twe tablet no kɔ fie no mu.
+- **Hwɛ sɛ ɔbɔ mmɔden anaa ɔnyɛ fɛ,** na ka kyerɛ obi a ɔfrɛ no sɛ ɛberɛ a wɔbɛgyae.
+- **Ka kyerɛ obi a ɔfrɛ no nea ɛyɛɛ yie.** "Ɔpɛɛ ɔkraman" boa wɔ nea ɛbɛba ɔkyena.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA ka sɛ abusuafoɔ a wɔwɔ akyirikyiri betumi aboa ɔpanyin sɛ ɔsua [nea fon no yɛ](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), te sɛ video call. Bere a ɔyare no kɔ akyiri no, ɔboafoɔ no bɛhwehwɛ fon no nyinaa. Ɛyɛ yie.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Sɛ obi no te ɔhyehyɛfie mu a, Alzheimer's Foundation of America ka sɛ ebia wobɛbisa sɛ hyehyɛfie no boa abusuafoɔ wɔ video nkɔmmɔ mu. AFA nso ka sɛ abusuafoɔ betumi asoma mfonini ne adwumayɛfoɔ a wɔwɔ hɔ, na wɔnsoma nnuadzeɛ a wɔpɛ anaa nneɛma ketewa a ɛde anigye, bere a wɔahwehwɛ nea hyehyɛfie no ma.
 
-## What if the call doesn't go well?
+## Dɛn na mɛyɛ sɛ frɛ no nyɛ yie?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Frɛ bi betumi ayɛ nsɛnsɛn, ɛnyɛ anigye, anaa ɛnyɛ yie. Eyi nyɛ wo nsɛm, na ɛnkyerɛ sɛ frɛ no nni ho hia.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Sɛ obi no te sɛ ɔnte ase wɔ screen no ho a, sesa kɔ fon frɛ anaa nkyerɛwde a wɔakyerɛ.
+- Sɛ ɔbɔ mmɔden a, gye wɔn oboɔ tom, ka nsɛm a ɛma wɔn ahome, na gyae ahyɛnsɛ.
+- Sɛ wɔn ho ntaa, ka sɛ wo ho nni ho, na yɛ dɔ bere a wɔbɛgyae.
+- Sɛ wɔrowo sɛ wo nnye obi foforɔ a, gye too mu bɔ ɔmpɛ a yɛ dɔ.
 
-It is fine to end early. A short, warm call is a good outcome.
+Ɛyɛ yie sɛ wogyae ntɛntɛ. Frɛ a ɛyɛ tiaa na ɛyɛ dɔ yɛ nea ɛyɛ.
 
-## Between calls
+## Frɛ ne frɛ ntam
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Ka wo ho ba wɔn nkyɛn akwan foforɔ so. Dementia Australia ka sɛ wɔnsoma nkrasɛm, email, mfonini anaa nneɛma ketewa. Kɔsɛ a ɛyɛ mfonini kɛse ne nkyerɛwde ketewa bi nso betumi akenkan bio ne bio. Wɔ [conversation cards](/games/conversation-cards/) a wobetumi asoma kɔ ɔboafoɔ no nso betumi ama frɛ a ɛdi so no nea wɔbɛkasa ho asɛm.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Sɛ wopɛ sɛ wukɔ tablet a wɔde yɛ no ho ade so ne sɛnea wɔbɛhyehyɛ no, hwɛ [tablets and screens](/caregiving/tablets-and-screens/). Sɛ wopɛ sɛ wubɛba obi nkyɛn, hwɛ yɛn kwan a ɛfa [visiting](/activities/visiting/) so.

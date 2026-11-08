@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Nneɛma a Mmarima a Dementia Wɔ Mu Bɛyɛ"
+seoTitle: "Nneɛma a Mmarima a Dementia Wɔ Mu Bɛyɛ: Asetena Mu Nhwehwɛmu"
+description: "Nneɛma a yɛbɛyɛ ma mmarima a dementia wɔ wɔn mu, a wɔfa wɔn adwuma dedaw, anigyeɛ ne daa daa nneyɛe so, na ɛnyɛ ntease. Ɛna wɔ akwankyerɛ a ɛboa sɛ wobɛsesa biribiara yiye."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Nneɛma a ɛyɛ mmarima a dementia wɔ mu yiye no fi ne ankasa asetena mu: adwuma a
+  ɔyɛe, anigyeɛ a ɔdɔ, ne daa daa nneyɛe a ɔdiiɛ. Adwumfo a ɔyɛ adwuma wɔ
+  adwumaden mu bɛpɛ sɛ ɔbɛsie nkɔm, ɔkwadusɛfoɔ bɛpɛ sɛ ɔbɛhwɛ nnwinnwen a ɛyɛ
+  pɛpɛɛpɛ, na ɔbɔfoɔ bɛpɛ sɛ ɔbɛhwɛ asɛnka a wɔsan de too ne ho. Nneyɛe a
+  ɔmmarima pɛ no ɛsesa fi barima bi go barima bi, enti fi onipa no ankasa ase na
+  yɛfi aseɛ, ɛnyɛ fi ne barima ho.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Fi ɔbarima no ankasa asetena ase: ne adwuma, ne anigyeɛ, ne daa daa nneyɛe ne nea ɔhyɛ no ase."
+  - "Adwuma a ɛwɔ botae pa, te sɛ nkaebɔ a ɛnyɛ mu, ɔdan a yɛsɔ so, anaa wood a yɛsɛe, di nʼani so pɛ sen nneyɛe a ɛte sɛ sukuu."
+  - "Ɛnyɛ mmarima nyinaa pɛ nnwinnwen anaa akwadaa. Barima bebree pɛ aduane, nnwom, afuw, adepa anaa sɛ wobɛboa afoforo. Bisa, hwɛ, na di ne kwan so."
+  - "Yɛ adwuma a ɛyɛ sɛ nnwinnwen yi safe denam sɛ wobɛyi nneɛma a ɛyɛ nwini, na wobɛhwɛ so. Sesa ho sɛ ne tumi sesa."
+  - "Ɛyɛ mmara sɛ ɔpɛ se nea. Ma no dwumadi, ɛnyɛ dwumadi a wɔde ma no, na san sɔ bio da foforo."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Nneyɛe bɛn na mmarima a dementia wɔ mu pɛ?"
+    a: "Nneyɛe biara nni nhyehyɛe a wɔde ama no, efisɛ mmarima pɛ nneyɛe sɛ onipa biara. Ɛhyɛ a ɛboa ara ne adwuma a ɔyɛe dedaw, te sɛ nhyehyɛe mpapahwɛ anaa nsawɔ nneɛma a ɛyɛ nketewa, ne anigyeɛ a ɔdɔ, te sɛ aduane, kar, nnwom, aduane ayɛ anaa afuw. Hwɛ nea ɔyɛ ankasa ne ho, na fa sɛ wobɛkɔ so."
+  - q: "Me papa mpo nnwinnwen a ɛyɛ mu. Dɛn na metumi ayɛ?"
+    a: "Nnipa bebree, mmarima ne mmaa, mpo gyina nneyɛe a ɛte sɛ sukuu anaa ɛyɛ akwadaa so. Sɔ adwuma bi ma no: “Wobɛtumi aboa me ahyehyɛ eyi?” Nnipa kakraa anaa wo ne no bɛwɔ ankasa mu nso bɛyɛ no ahodo sen dan kɛse bi mu."
+  - q: "Ɛyɛ safe sɛ ɔde nnwinnwen di dwuma?"
+    a: "Ɛyɛ safe kɛse sɛ wɔhwɛ so na nneɛma a ɛyɛ safe ara na ɔde di dwuma. Yi nneɛma a wɔde ahoma di dwuma, nsaa a ɛyɛ nwini ne biribiara a ɛyɛ nwini, na sɔ adwuma bi ma no, te sɛ wood a wɔsɛe, nneɛma a ɛyɛ pɛpɛɛpɛ a wɔsan de too ne ho, anaa nsaa kɛse a wɔde nsa sɛe. Alzheimer's Association kyerɛ sɛ wɔyi nneɛma a ɛyɛ mfomsoɔ a ɛwɔ adwumaden mu, na sɛ wɔyɛ saa a, wɔsɛe wood bɛyɛ adwuma a wɔbɛtumi ani agye ne mu safe."
+  - q: "Ɔyɛ adwumfo a ɔyɛ no yiye. Nneyɛe a ɛyɛ nwanwa bɛyɛ no ahodo anaa?"
+    a: "Ɛbɛtumi ayɛ, sɛ wɔka sɛ ɛyɛ adwuma a ɛnni nsɛm. Ka sɛ ɛyɛ mmoa a ɔbɛboa, fa nneɛma a onipa kɛse de di dwuma, na paw biribi a ɛbɛn ne dwumadi a ɔyɛe bi, te sɛ ɔhwɛ nkrataa bi so, ɔhyehyɛ faele bi anaa ɔboa wɔ asɛnka bi a wɔde kɔ so mu. Sɛ ɔyɛ adwuma bi yiye a, adwuma a ɛte saa ne a ɛnyɛ saa no ɛbɛtumi ayɛ no ahodo sua sen sɛ ɔbɛtoto ne ho."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,81 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Nnipa bebree hwehwɛ “nneɛma a mmarima a dementia wɔ mu bɛyɛ” efisɛ nneyɛe a wɔka kyerɛ no nni ɔbarima a wɔwɔ wɔ wɔn asetena mu ho. Eyi yɛ nsɛm a ɛsɛ sɛ wɔsusuw ho. Nanso mmuae no nyɛ “nneyɛe a ɛyɛ mmarima” bi nhwehwɛmu. Ɛyɛ sɛ wofi ɔbarima yi ankasa ase: adwuma bɛn na ɔyɛe, ɔyɛɛ dɛn wɔ ne awiei da mu, ne nea ɛma ɔhunuu sɛ ɔboa. Onipa biara anigyeɛ yɛ ne ankasa. Mmarima bebree dɔ sɛ wɔbɛyɛ aduane, afuw, ahodoɔ anaa nnwom, na mmaa bebree nso dɔ kar ne afutuo.
 
-## How do I find activities he will actually enjoy?
+## Ɛdeɛn na mehunu nneyɛe a ɔbɛpɛ?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Fi ne asetena ase. Alzheimer's Association kyerɛ sɛ wɔhyehyɛ [daa daa nhyehyɛe](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) denam onipa no nea ɔpɛ, nea ɔmpɛ, ne ahoɔden ne ne anigyeɛ so, ne sɛnea ɔhyehyɛɛ ne da no mu. Bisa wo ankasa:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Adwuma bɛn na ɔyɛe?** Adwumaden, afuo, adwumaden, ɔdwumfo, asraafo, ɔsɔfoɔ, nkyerɛkyerɛfo, kar, anaa fie adwuma?
+- **Dɛn na ɔyɛ wɔ ne nnaadaa mu?** Afuw, kaa, nkratiaa, adepa, nnwom, aduane ayɛ, kar a ɛwɔ adan mu?
+- **Dɛn ne ne daa daa nneyɛe?** Kɔfi ne nkrataa wɔ anɔpa biara? Ɔhwɛ mframa? Ɔsare kar ne ho da Memenda?
+- **Dɛn na ɔhyɛ ase ankasa?** Association no kyerɛ sɛ sɛ onipa fi aseɛ adwuma a wɔantwe no, te sɛ adan a ɔtwa, ɛbɛyɛ daa daa nneyɛe.
+- **Dɛn na ɔpɛ sɛ ɔtwe ne ho fi?** Afoforo pɛ sɛ wɔhwɛ afahyɛ, nanso afoforo ntease ne nnwom ne nea ɛyɛ no hu. Hwɛ bere a ɔyɛ anigyeɛ, ɔsuro anaa ɔbɔ nwonwa.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Ka ho asɛm kyerɛ abusuafo ne nkɔmhyɛ mmoaboa. Wobetumi akae nneyɛe a efi ne daa daa asetena mu atwe ase.
 
-## Activity ideas based on past work
+## Nneyɛe a ɛfa adwuma a ɔyɛe ho
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association de ɔkwan pa bi ama: adwumfo a ɔyɛ adwuma wɔ adwumaden mu bɛtumi ani agye akwan a wɔhyehyɛ nneɛma so, te sɛ sika wɔ sika ahyɛ mu, nkrataa a wɔsɛe, anaa asɛnka a wɔde kɔ so, bere a ɔkuafoɔ a ɔyɛ kuayɛ bɛtumi aguare afuw. Saa ara na ɛte wɔ adwuma pii mu.
 
-| Past work | Activity ideas | Simpler version |
+| Adwuma a ɔyɛe dedaw | Nneyɛe a wobetumi ayɛ | Nneyɛe a ɛyɛ nwanwa |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Adwumaden anaa dwumadie | Nkrataa a wɔhyehyɛ wɔ mfuw mu, sɛ nsamanpɛ, asɛnka a wɔde kɔ so, nkrataa a wɔsesa | Nsamanpɛ a wɔde hyehyɛ; nkyekyɛ a wɔde hyɛ bokitie mu |
+| Adwumaden anaa mechanics | Nneɛma a ɛyɛ pɛpɛɛpɛ a wɔsan de too ne ho, nnwinnwen a ɛyɛ kɛse nam nsa so; nkuran a ɛwɔ adwumadie mu | Ahyehyɛ ayɛ wɔ mpaboa mu sɛ ɛyɛ kɛse anaa nketewa |
+| Kuayɛ anaa ayaresa | Nsuo, nkyene a wɔde gu mu, ɛgyeɛ nhaban, hwɛ kuayɛ | Ɔte fie anaa ɔhwɛ nneɛma a yɛreyɛ; kura nkyene |
+| Asraafo | Ahoma pɛpɛɛpɛ, hyehyɛ nsaa bi, ɔyɛ asɛnka wɔ nhwɛso | Ɔtena awu wɔ nea ɛyɛ mmere no; kyerɛ nnwom a ɛda no ho |
+| Nkyerɛkyerɛ | Kenkan nkrataa, hyehyɛ nkrataa, hyehyɛ mfonini wɔ asɛm mu | Hwɛ mfonini nkrataa mu bom |
+| Ɔkwan anaa adwuma | Hwɛ mpɔw anaa nkrataa ho, sare kar | Tena ɔpon so, hwɛ kar a ɛfa so |
+| Fie ne abusua | Pete awu, hyehyɛ ɛpon, boa wɔ anɔpa | Pete mpaboa; hyɛ nsuo |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Ebinom nkaebɔ, te sɛ asraafo, betumi de nneyɛe a ɛyɛ mu ba. Di ne kwan so, ma nsɛm a ɛfa nnansa ho nyɛ fɛ, na sesa asɛm no nkɔ afoforo sɛ ɔyɛ mmerɛ.
 
-## Activity ideas based on hobbies
+## Nneyɛe a ɛfa anigyeɛ ho
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Adwuma wɔ kyɛw mu.** Pete abɔ kɛse anaa dwuma atan. Alzheimer's Association kyerɛ sɛ, sɛ wɔsɛe wood mu no, wɔyi nneɛma a ɛyɛ mfomsoɔ anaa nnwinnwen a ɛyɛ nwini no, na adwuma te sɛ sɛe wood no bɛyɛ anigyeɛ na safe.
+2. **Aduane.** Hyehyɛ aduane a wɔadwene so mu wɔ atɛntɛn mu, hwɛ aduane mu nkrataa, anaa tena nsuo ano.
+3. **Kar.** Kar, tenam kɔɔ, anaa hwɛ nea ɔwɔ mu. Dwumadie a ɛyɛ nwanwa, na ɛnyɛ nʼaseɛ.
+4. **Nkɔsoɔ.** Akwan a wɔda so: ɔkwan a wɔfa so pɛ ɔkwan a ɔyɛe bi, anaa ɔkwan a ɔyɛ ayɛ bi mu. Ɔyɛ sɛ ɛnyɛ nnwinnwen a wɔbɛyɛ ayɛ.
+5. **Nnwinnwen a wɔdi.** Nneɛma a ɛyɛ nwini a wɔde gu no, nhwɛso wɔ asɛnka a wɔde kɔ so mu, anaa sɛ ɔkɔ dɔɔ mu.
+6. **Ɔsɛe.** Akwadaa, nnwinnwen a ɛyɛ nwini, anaa ɛdeɛ a wɔde kɔ so. Sɛ wɔka nnwinnwen a ɔnyɛ nwini, nneyɛe biara ayɛ ahoɔden.
+7. **Aduane ayɛ anaa aboɔden nkɔmhyɛ.** Hwɛ [nnwom nneyɛe akwankyerɛ](/activities/music/).
+8. **Dwumadi a wɔyɛ nkwan.** Hyɛ nkwan, hwie nsuo, ɔyɛ nkwan a ɔnyɛ tɛwuo, anaa ka nkɔmhyɛ a ɔyɛ wɔ akwantuo mu.
+9. **Ayɛ.** Alzheimer's Association kyerɛ sɛ onipa a ɔkenkan nkrataa daa, betumi akenkan nkrataa wɔ anɔpa, sɛ ɔnte ase pɛpɛɛpɛ mpo. Kɔfi ne nkrataa betumi aka ne anɔpa mu.
+10. **Ɔhwɛ ade bi.** Ma aboa ɛdi, hyɛ aboa ɛpɔ ɛpɔ, anaa hyɛ nnua nsuo. NIA kyerɛ sɛ nneyɛe a ɛte sɛ [ɛkwan ayɛ, aboa ɔhwɛ anaa nantew kɔ aboa ne ho](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ka nnipa bebree anigyeɛ.
 
-## How do I offer an activity without it feeling like busywork?
+## Ɛdeɛn na metumi ama ɔbarima no ahyɛ nneyɛe a ɛmmoa no ahunu sɛ ɔbɛyɛ adwuma kɛse?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Ka sɛ ɛyɛ mmoa. Alzheimer's Association kyerɛ sɛ wobisa, “Mesrɛ wo, boa me?” na wɔfa adwuma ne botae ho. Hwɛ saa mu:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- “Pɛ sɛ yɛhyehyɛ eyi?” (ɛte sɛ sɔhwɛ)
+- “Mituraa nneɛma a ɛyɛ nwini a ɛyɛ nwini, na ɛsɛ sɛ mehyehyɛ no ansa na mesiesie kɔkɔɔ no. Wobɛtumi aboa me?” (ɛte sɛ adwuma)
 
-Other tips:
+Nkɔmhyɛ a ɛboa:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Fa nneɛma a onipa kɛse de di dwuma.** Nnwinnwen a ɛyɛ nyinaa, nkuran a ɛyɛ nyinaa, nkrataa a ɛyɛ nyinaa.
+- **Yɛ adwuma ne ho.** Nnipa baanu a wɔreyɛ adwuma bi ne ho yɛ kwan, nanso obi a ɔhwɛ afoforo yɛ adwuma ho sɛ wɔrehwɛ.
+- **Nkɔ so nkɔka.** Sɛ nkyene a wɔde gu wɔ kwan a ɛnsɛ so a, ɛnsɛ sɛ wosakra. Nea ɛsɛ ne bere a mo wɔ ho ne anigyeɛ sɛ ɔboa.
+- **Boa no ɛhyɛ ase.** Alzheimer's Association kyerɛ sɛ nnipa bebree wɔ ɔpɛ sɛ wɔyɛ adwuma, nanso wɔn ho yɛ den sɛ wɔbɛhyehyɛ na wɔahyɛ ase. Yɛ nea edi kan no ne ho.
 
-## How do I adapt as things change?
+## Ɛdeɛn na metumi asesa bere a nneɛma sesa?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Sɛ dementia kɔ anim no, Alzheimer's Association kyerɛ sɛ, fa nneyɛe a ɛyɛ nwanwa ne nea wɔsan yɛ daa daa bra, na sɛ ɔbɛyɛ akwankyerɛ a ɔnyɛ den. Ɔbarima a ɔtaa siesie kɔkɔɔ no betumi ayɛ ne ho anigyeɛ denam sɛ ɔkyɛ nsa a ɛyɛ nwini sɛ ɔtwe ne nsa nkɔ, anaa ɔhwɛ wo sɛ wɔyɛ adwuma. Hwɛ no nso yɛ adwuma.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Sɛ ɔyɛ adwuma bi yiye a, ɛbɛtumi ayɛ no ahodo sen sɛ ɔbɛyɛ adwuma a ɔyɛe dedaw no ankasa. Association no kyerɛ sɛ adwumfo a ɔyɛ nwoma a ɔwɔ nhwɛso ahunu nʼadwuma sesa a ɔbɛyɛ ahodo, na ɔyɛ nea ɔyɛ ɔkwan ankasa no betumi agye nʼani a ɔbɛyɛ foforo. Saa ara na ɛte ma adwumfo a ɔyɛ mmaa ho.
 
-## Safety with work-style tasks
+## Ahobammɔ wɔ adwuma a ɛte sɛ nnwinnwen mu
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Yi nnwinnwen a ɛde ɔhyeɛ, nsaa, nnaadaa anaa nneɛma a ɛwɔ nsa nkyirinn a ɛyɛ nwini.
+- Kyekye pɛnti tɛna, gasolin ne nnuro a ɛyɛ nwini.
+- Sɛ ɔnnɔn bio a, kyekye kar nkyene no fi ahu.
+- Hwɛ wɔ adwumaden ne afuo mu adwuma nyinaa so.
+- Paw nneɛma kɛse a wɔntumi nnye.
 
-## What if he says no?
+## Dɛn na ɛbɛyɛ sɛ ɔka dabi?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Gyina ne so. Dabi betumi ayɛ sɛ adwuma no yɛ den, ɛyɛ no ahodo, anaa ɛnyɛ ne bere ha nnɛ. Alzheimer's Association kyerɛ sɛ wɔmfa ntaa mma. Yɛ adwuma foforo, bere foforo, anaa sɛ mowɔ ho bere tiaa. Hwɛ [dɛn na wobɛyɛ bere a wɔka dabi](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Agyinne ne nkɔmmɔ a ɛfata
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) de ɛkasa a wɔka daa daa de kɔ nkɔmmɔ mu. [Conversation Cards](/games/conversation-cards/) wɔ nsɛm a ɛmfa mmara nni, a wɔde ma wɔka ho asɛm sɛnea ɛte wɔ mmere ne ahodoɔ ho, na ɛbɛtumi abue nsɛm a ɛfa adwuma ne anigyeɛ ho. [Picture Puzzle](/games/picture-puzzle/) ma mfonini no nyinaa hu bere a wɔrekɔ so, na [Word Search](/games/word-search/) a nkrataa ne nkyerɛwde kɛse no betumi aprint na wɔayɛ wɔ aduan ntoma so. Sɛ wopɛ kwan a wobɛkasa afa ne dwamu so a ɛnyɛ sɛ wɔrehwɛ no, hwɛ [ne nkaebɔ akwankyerɛ](/activities/reminiscence/).

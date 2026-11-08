@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Ada ne Adwene Yare: Nhwehwɛmu Kyerɛ ne Nea Boa"
+seoTitle: "Ada ne Dementia: Nea Nhwehwɛmu Kyerɛ"
+description: "Nea nhwehwɛmu kyerɛ wɔ ada ne dementia asiane ho, adeɛ a ɛbɛn ɔsoro nhwehwɛmu a ɛfa ntini ho, ne ada nhyehyɛe a ebetumi aboa ma wo ne wo a wohwɛ no."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Nhwehwɛmu a wɔyɛ mmere pii bi kyerɛ sɛ ada a ɛyɛ tiaa wɔ wo mfeɛ a ɛreba mu ka ho sɛ dementia
+  asiane bɛkɔ so, na adwumayɛ bi wɔ nhwehwɛmu a wɔyɛ wɔ mmoa mu kyerɛ sɛ ada ebetumi aboa ntini
+  sɛ ɔbɛpopa nneɛma a ɛyɛ bɔne wɔ adwene mu. Nhwehwɛmu yi ka ho nnɛ, na 2024 Lancet Commission
+  amfa ada nkɔ nea ɛma asiane bɛkɔ so no mu. Ada a wɔde ayɛ daa boa ɔbarima anaa ɔbaa ne nkitahodie
+  da biara da. Ada ho haw wɔ dementia mu yɛ mmerɛ, na ɛsɛ sɛ wobɛka kyerɛ dokota.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Nhwehwɛmu a wɔyɛ UK wɔ mfe 25 bi kyerɛ sɛ nnipa bi, mpempem 8 bi, a wɔdaa mmere 6 anaa ɛsɛ ntem wɔ wɔn mfe a wɔwɔ mfe 50 ne 60 mu no, asiane dementia kɔ so pii."
+  - "Ada nsakra nso betumi aba sɛ dementia ahyɛ wɔ ase, enti ɛyɛ den sɛ wobɛhu nea ɛde ba ne nea ɛba akyiri."
+  - "Nhwehwɛmu a ɛkyerɛ sɛ ada yi beta-amyloid afi ntini mu yɛ nokware nanso ɛrehyɛ ase; ɛboro so wɔ mmoa mu."
+  - "Sleep apnea yɛ mmerɛ, wɔbɛtumi asan ayɛ ho yiye, na nhwehwɛmu bi kyerɛ sɛ ɛka ho ne dementia; ɛsɛ sɛ wohwɛ sɛ wo nnɛn yɛ mmerɛ anaa wo ada yɛ wo nwene ɛnkɔ so."
+  - "Ɛnsɛ sɛ wo anaa wo a wohwɛ no fi ada ayaayaa dwuma, gyae anaa sesa ada ayaayaa biara, gye sɛ dokota aka ho."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Ada a ɛyɛ bɔne ma Alzheimer's ba anaa?"
+    a: "Wɔnhunu saa nneɛma yi nni hɔ. Nhwehwɛmu bi kyerɛ sɛ ada a ɛyɛ tiaa ka ho sɛ dementia asiane bɛkɔ so, nanso dementia ankasa ma ada nni yiye, na ɛtɔ mfe pii ansa na wɔaka sɛ obi wɔ yaw no. Nhwehwɛmu a wɔyɛ wɔ 2024 Lancet Commission kyerɛɛ sɛ nsɛm no nni mu yie sɛ wobɛka ada sɛ ɛbɛyɛ asiane a wɔbɛtumi asesa."
+  - q: "Mfeɛ nkɔ, ada dɛn na nnipa a wɔn mfe ayɛ wɔn de hia?"
+    a: "National Institute on Aging ka sɛ nnipa a wɔn mfe ayɛ wɔn de ada sɛ nnipa a wɔnyɛ wɔn mfe, nea ɛyɛ dɔnhwa 7 kɔsi 9 wɔ anadwo biara. Nnipa pii a wɔn mfe ayɛ wɔn daa ne sɛ wɔda anadwo nna ansa na wɔayɛ, na wɔsatɔ ansa na wɔaba, nea ɛyɛ nneɛma a ɛwɔ hɔ daa."
+  - q: "Adɛn nti na obi a ɔwɔ dementia da ɛda na ɔsatɔ anadwo?"
+    a: "Dementia betumi ano nhyehyɛe a ɔfa ne nneɛma ho, enti ada ne sɔre bere bɛyera. Ɔyare, abotiri, ɔkɔm anaa aduru a ɛyɛ nsunsuma nso betumi ayɛ adwuma mu. Owia, adwuma a ɛyɛ da biara ne nhyehyɛe a ɛyɛ dwodwo anadwo betumi aboa. Dokota betumi ahwehwɛ nneɛma a ɛma ɛyɛ den a wobetumi asesa."
+  - q: "Ɛsɛ sɛ me de ada aduru ma obi a mehwɛ no?"
+    a: "Kasa wɔ ne dokota nkyɛn ansa na wobɛyɛ, ɛmfa ho sɛ aduru no yɛ nea wotɔ wɔ aduaban so. National Institute on Aging ka sɛ aduru bi a wɔde ma ada betumi de nsunsuma, nnaadaa ne ɔkwan a ɛyɛ nwene ma nnipa a wɔwɔ Alzheimer's."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Ada ne adwene yare wɔ hokwan a ɛda mu, nanso sɛnea ɛyɛ no hɔ ka ho ɛda so. Nhwehwɛmu bi kyerɛ sɛ ada a ɛyɛ tiaa ka ho sɛ dementia asiane bɛkɔ so. Dementia nso de, ɛtwa ada so pii. Saa kyerɛwsɛm yi kyerɛkyerɛ nea nhwehwɛmu kyerɛ ne nea ɛnkyerɛ, ɛma ada nhyehyɛe a ɛyɛ mfaso, ne ada ho haw a ɛba dementia mu daa. Ɛnka aduru ada ho nsɛm; saa nsɛm no ho kasa ne dokota.
 
-## Is poor sleep linked with dementia?
+## Ɛnyɛ sɛ ada a ɛyɛ bɔne ka ho sɛ dementia ba anaa?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Nhwehwɛmu bi a wɔyɛ mfe pii kyerɛ sɛ ada a ɛyɛ tiaa ka ho sɛ dementia asiane bɛkɔ so, nanso nsɛm no nni mu yie.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Mfe 25 UK nhwehwɛmu.** Nhwehwɛfo daa nnipa bi, mpempem 8 bi, so wɔ [Whitehall II nhwehwɛmu](https://www.nature.com/articles/s41467-021-22354-2) mu. Nnipa a wɔdaa mmere 6 anaa ɛsɛ ntem wɔ wɔn mfe 50 anaa 60 no, dementia kɔ so pii akyiri yi, sɛ wɔn a wɔdaa mmere 7 daa. Nnipa a wɔdaa mmere 6 anaa ɛsɛ ntem wɔ wɔn mfe 50, 60 ne 70 no, asiane no ne ɔha 30 bi pii sɛ wɔn a wɔdaa mmere 7 daa. Saa nhwehwɛmu yi yɛ nhwɛso, enti ɛkyerɛ ntam kɔ, nanso ɛnkyerɛ sɛ ɛyɛ nea ɛde ba.
+- **Lancet Commission adwene.** [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) amfa ada nkɔ ne nneɛma 14 a wɔbɛtumi asesa a wɔaka no mu. Wɔkaa sɛ nsɛm no nni mu yie sɛ ɛbɛyɛ. Ɛyɛ biribi ne sɛ "reverse causation": dementia a ɛba ntini mu ansa na wɔaka sɛ obi wɔ yaw no betumi ayɛ ada ho haw. Nhwehwɛmu kɛse bi mu no, ada a ɛyɛ tenten ne dementia ntam ntenenee no wie sɛ wɔpo mfe abien a ɛdi kan no.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Enti ɛnyɛ ade a ɛsɛ sɛ wosuro sɛ wodaa anadwo tiaa daa daa. Ada a ɛyɛ daa, a ɛyɛ mfaso, yɛ nea ɛsɛ sɛ yɛpɛ, efisɛ ɛboa adwene ahoɔden, nkaeɛ ne ahobammɔ nnɛ.
 
-## What is the "brain-clearing" sleep research?
+## Nea "ntini popa" ada nhwehwɛmu ne dɛn?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Wɔabɔ wo ho ban sɛ ada "popa" ntini. Saa adwene no fi nhwehwɛmu nokware mu, nanso ɛrehyɛ ase.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Mmoa mu.** Afe 2013 nhwehwɛmu bi [a NIH kyerɛɛ](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) kyerɛɛ sɛ ntini nkaaboa a ɛda ntam wɔ ntini mu kɔɔ so ɔha 60 bi bere a mmoa daa. Nsuo kɔ ntini mu yiye wɔ nea wɔfrɛ glymphatic system mu, na beta-amyloid, protein a ɛka ho ne Alzheimer's, fii ntini a mmoa a wɔdaa no mu ntɛmntɛm.
+- **Nnipa.** Afe 2018 nhwehwɛmu ketewa bi [ho](https://www.pnas.org/doi/10.1073/pnas.1721694115) hwɛɛ nnipa a wɔyɛ ahoɔden 20, a wɔn mfe yɛ 22 kɔsi 72, bere a wɔdaa mmere a ɛyɛ daa anadwo no ne bere a wɔantɔ mmere anadwo biara. Bere a wɔantɔ mmere no, ntini scan no beta-amyloid nsɛnkyerɛnne kɔɔ so ɔha 5 bi wɔ ntini mpɔn bi mu, ebinom a ɛboa ma mmerɛ, a ɛyɛ hippocampus, a ɛyɛ ntini kwan a ɛho hia ma nkaeɛ. Nhwehwɛfo no frɛɛ no adanse a ɛreba mu. Wɔanka sɛ wonnim sɛ nsakra yi bɛkɔ wɔ nna a wɔadi so anaa sɛ ɛkyerɛ sɛ ntini popa yɛ mmerɛ anaa amyloid a wɔreyɛ pii.
+- **Ɛyɛ ɔkwan abien.** Lancet Commission ka sɛ amyloid a ɛboaboa nso betumi abɔ ada ho haw wɔ nnipa a wɔn mfe ayɛ wɔn mu.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Saa nhwehwɛmu yi boa ma yɛte nea nhwehwɛfo pɛ ada no. Ɛnkyerɛ sɛ ada a ɛyɛ yiye twa Alzheimer's.
 
-## What sleep habits may help?
+## Ada nhyehyɛe bɛn na ebetumi aboa?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Nnipa a wɔn mfe ayɛ wɔn hia ada dɔnhwa 7 kɔsi 9 wɔ anadwo biara, sɛnea nnipa foforɔ hia, sɛnea [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) ka. Ne nkyerɛkyerɛ mu bi ne yei:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Di nhyehyɛe a ɛte nka.** Da na sɔre bere ko da biara, sɛ ɛyɛ awoada mpɛn so.
+- **Yɛ anadwo a ɛbɛma wo ho adwo.** Kenkan, tie nnwom a ɛma wo ho ayɛ dɛ anaa fɔ nsuo a ɛyɛ hyew ansa na woda.
+- **Ma wo dadan nyɛ fɛ,** nkwanta ne nhyew nso.
+- **Gyae kɔfi a ɛwɔ anadwo.** Kɔfi, tii, soda ne sokɔlɛte betumi ama wɔn ho nnyae.
+- **Gyae nsã,** ɛmfa ho sɛ ɛyɛ sɛ nsã ketewa, NIA kyerɛ.
+- **Gyae aduane kɛse ɛberɛ a ɛbɛyɛ nkɔnsɔ 2 kɔsi 3 ansa na wodaa, ne nsuo kɛse anadwo.**
+- **Di adwuma mu da biara, nanso nnyɛ no nkɔnsɔ 3 ansa na wodaa.** Hwɛ yɛn [exercise guide](/brain-health/exercise/).
+- **Ma nhwehwɛmu ahoɔfɛ nnkɔ dadan mu.** NIA ka sɛ ɛnsɛ sɛ wohwɛ TV anaa de computer, foon anaa tablet di adwuma wɔ hɔ.
+- **Gyae nna anadwo anaa nna a ɛyɛ nkyɛnkyɛn ɛberɛ a ɛbɛyɛ.**
 
-## Sleep problems in dementia
+## Ada ho haw wɔ dementia mu
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Ada ho nsakrae yɛ mmerɛ wɔ dementia mu. [NIA kyerɛ](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sɛ ada pii anaa ada kakraa, sɛ wosɔre anadwo mpɛn pii, ne sɛ wodaa nna pii wɔ awia. Ɛka nso sundowning ho: ahonyadeɛ, ahohiahia anaa adwene a ɛyɛ den a ɛfiri ahyɛ ase anaa ɛyɛ kɛse bere a owia reguu.
 
-Caregiver tips from the NIA include:
+NIA akwankyerɛ ma wɔn a wɔhwɛ nnipa ni:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Nya owia ne nneyɛe anɛ.** Fi dadan mu kɔ awiri anaa tena dadaso hɔ wɔ awia mu, na boa ɔno ma ɔyɛ adwuma da biara. Owia pɛpɛɛpɛ betumi aboa ma nipadua anadwo ne awia ntam ahyehyɛ mu.
+2. **Hyehyɛ adwuma a ɛyɛ den ma anɛ.** Sɔ hwɛ sɛ wobɛsu anɛ anaa wobɛdi aduane kɛse awia mpanyinfoɔ.
+3. **Ma nna a wɔda mpɛn yɛ ketewa na ɛyɛ anɛ.** Gyae dadaa wɔ nna a ɛyɛ akyiri.
+4. **Ma anadwo nyɛ dɛ.** Ma hann nyɛ kumaa, yɛ nnwom a ɛma ho ayɛ dɛ sɛ ɔpɛ. Yɛn [late-day restlessness guide](/caregiving/late-day-restlessness/) wɔ adwene foforɔ.
+5. **Di sɔre bere a ɛyɛ pɛpɛɛpɛ.** NIA ka sɛ ɛyɛ mfaso sɛ wokenkan nkyɛn anadwo bere koro. [Nhyehyɛe a ɛte nka da biara](/activities/daily-routine/) boa nso.
+6. **Gyae kɔfi ne nsã.**
+7. **Fa nkanea hyerɛn** wɔ dadan, awia ne nsuo dan mu.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Sɛ obi sɔre anadwo a, [NIA home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ka sɛ ɛsɛ sɛ wɔfa nkanea anaa nkanea a ɛyɛ adwuma sɛ ɔbɛn, ɛbɛyɛ den wɔ nsuo dan mu, wɔnkɔ ntem a ɛyɛ kɔ wɔ ɛsɔ no, na wɔkora aduru wɔ beaeɛ a wɔde hwammɔ ho.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Anadwo kakraa a ɛyɛ dwodwo ne ahomaa betumi ama mo mmienu ahomaa. Sɔ hwɛ [Calm Breathing](/games/calm-breathing/) a ɛyɛ nkɔso anaa [Conversation Cards](/games/conversation-cards/) a ɛyɛ dwodwo. Gyae biribi a ɛbɛma adwene ahoɔden wɔ dadan ho, na gyae bere a obi no ayɛ ɔhoa.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Ada a ɛyɛ mmerɛ nso bɛma wɔn a wɔhwɛ nnipa ayɛ abɛn. Yɛn [caregiver self-care guide](/caregiving/caregiver-self-care/) kyerɛkyerɛ nneɛma a ebetumi aboa wo ma wonya ahomaa ne boa.
 
-## What about sleep apnea?
+## Sleep apnea ho nsɛm ne dɛn?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sleep apnea de ntɛntɛn ahome a ɛyɛ tiaa ba ada mu, ɛbɛyɛ mpɛn pii anadwo biara. NIA ka sɛ sɛ wɔmfa ho kyɛ a, ebetumi de nsɛm a ɛyɛ mmerɛ te sɛ mogya kɔ so pii, strok anaa adwene a ɛyɛ mmerɛ. Nsɛnkyerɛnne ne nsukɔ a ɛyɛ den ne ɛdeɛ a wosɔre so wɔ awia mu, na nnipa pii nnim sɛ wɔwɔ saa yare yi. Lancet Commission kyerɛ nhwehwɛmu 11 bi a ɛkyerɛɛ sɛ nnipa a wɔwɔ sleep apnea no, dementia asiane kɔɔ so ɔha 43 bi. Nanso, nhwehwɛmu bi amfa ɔhaw ho nni hwɛ, enti ɛnyɛ nokware koraa.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Wobetumi adwene sleep apnea na wɔayɛ ho yiye. NIA ka sɛ CPAP machine yɛ mmoa daa. Sɛ wo anaa obi a wohwɛ no nsuo mpɛn pii anadwo, sɛ ɔhome gyae anadwo, anaa ɔsɔre a ɛyɛ den wɔ awia mu, ka kyerɛ dokota.
 
-## A note about sleep medicines
+## Nsɛm ho wɔ ada aduru ho
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Yɛnnkyerɛ akwankyerɛ wɔ ada aduru anaa nnuro ho. NIA ka sɛ ada aduru betumi aboa ma bere tiaa, nanso ɛnyɛ yare sesa biara wɔ insomnia mu. Ɛka nso sɛ aduru bi a wɔde ma nnipa a wɔwɔ Alzheimer's ada no betumi ama wɔn ayɛ abotiri, ahwɛ sɛ wɔrekɔ fam, anaa adwene a ɛyɛ mmerɛ. Mma wo nnyɛ ada aduru biara, ɛmfa ho sɛ ɛyɛ aduru a wɔtɔ aduaban so, nnyae anaa nsesa biara, a worennka kyerɛ dokota anaa aduru hwɛfo.
 
-## Talk with a doctor
+## Ka kyerɛ dokota
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Hwɛ dokota sɛ wo anaa obi a wohwɛ no daa daa ayɛ mmerɛ, ɔsɔre anadwo pii, ɔsɔre ntɛm wɔ anadwo, anaa ɔhome gyae anadwo. Sɛ ada ho haw wɔ dementia mu toa so a, [NIA kyerɛ sɛ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) wohwehwɛ ɔyaresa boasetɔ. Nsɛm bi a ɛbɛyɛ den a nsɛnkyerɛnne a wobɛhunu wɔ nhwehwɛmu mu betumi aka no ne ɔhaw, ada yare foforɔ, yare anaa aduru ho nneyɛe. Adwene a ɛyɛ mmerɛ pɛn, anaa ada ho nsakrae a ɛba adwene mmerɛ ho, hia ayaresa vinyɛn. Read [when to see a doctor](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Saa kyerɛwsɛm yi yɛ nkyerɛkyerɛ a ɛfa nneɛma a ɛyɛ daa, ɛnyɛ yaresa akwankyerɛ. Hwɛ yɛn [medical disclaimer](/medical-disclaimer/).

@@ -1,32 +1,34 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Dementia Akyiri Stage: Nneɛma a Wobɛyɛ wɔ Mmɔden So"
+seoTitle: "Dementia Akyiri Stage Nneɛma: Mmɔden ne Hyɛn So Adwene"
+description: "Dɛ nneɛma ma dementia akyiri stage: nnwom, nsɛm ka, nneɛma a wobɛhwɛ ne nsa, ne mmɔden anaasɛ hyɛn so. Ahobammɔ nkyerɛkyerɛ nso wɔ mu."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Wɔ dementia akyiri stage mu no, nneɛma no twa nipa no nnwinnwen ne wo
+  ankasa wo ho so: nnwom a ɔpɛ, nsa a wobɛkyerɛ no ahoɔfɛ, ahoɔ a wobɛyɛ
+  ahyɛ bi, nsɛm a wobɛka kɔkɔɔ, wɔn ahoɔ ntokuo a wobɛhwɛ, nkɔsoɔ, ne wo ne
+  ɔno wɔ ntoma mu. Saa nneɛma yi tumi yɛ mmɔden anaasɛ hyɛn so. Ka mmere
+  tiaa, hwɛ ɔno anim ne ne nsa hwɛ sɛ ɔyɛ ahoɔfɛ, na sɛ ɔda adanse a ɛkyerɛ
+  ɔyaw so a, gyae. Ɛnyɛ nneɛma nko ara na ɛboa, wo ankasa wo hɔ no nso yɛ
+  nneɛma no ankasa.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Nkitahodie hɔ da so. Wɔ akyiri stage mu no, wiase no hu kɛse wɔ nnwinnwen so."
+  - "Nnwom, nsa a ɛyɛ dɛ, nsɛm a ɔte aseɛ, ne nneɛma a ɔbɛkyere mu ka no bɛma nipa no ani tɔ, bere a nsɛm no nnye ɔnim."
+  - "Nneɛma a yɛde aba ha no nyinaa tumi yɛ adwuma ma nipa a ɔwɔ mmɔden anaasɛ ɔte hyɛn so."
+  - "Hwɛ ahoɔfɛ ne ahoyaw wɔ ɔno anim, nsa ne ne home mu, na gyae wɔ bere biara a ɛda ɔyaw adanse so."
+  - "Fa nneɛma a ɛbɛyɛ ɔkɔm ba ara ara, na sɛ wɔ nnuan a ɛbɛyɛ ɔkɔm ba so; nea ɔbɛnom ne nsuo nso yɛ sɛ ɔhwɛ kwan sɛ nnipa a wɔhwɛ no akyerɛ, efisɛ ɛbɛyɛ ɔkɔm sɛ ɔnkɔ ne nsɔ yiye."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Nneɛma bɛn na ɛyɛ, wɔ dementia akyiri stage mu, nipa a ɔte mmɔden so?"
+    a: "Tu nnwom a ɔpɛ, kyekyere ne nsa, hwɛ ne nsa yiye ne ɛnyinasɛm a wɔde nsuo a ɛyɛ wɔ ho, kenkan bɔɔk anaasɛ mpaebɔ a ɔdɔ, kyerɛ no nsɛm, ma no nwoma ne aseɛ, anaasɛ gyina nsa ho ma no bisa bere a ɔwɔ hɔ. Bue ɔpon ma ɔhwɛ wiase. Mmere tiaa, ahoɔden ase nneɛma a ɛyɛ baako, ɛyɛ nneɛma a ɛboa."
+  - q: "Nipa a ɔwɔ dementia akyiri stage ka ɛbɛtumi ani agye nnwom?"
+    a: "Bebree tumi. Alzheimer's Association kyerɛ sɛ wɔ stage no akyiri mu no, nipa bi tumi tɔ mmɔ anaasɛ aka nnwom a ɔtee wɔ ne mmerɛ mu. Paw nnwom a ɔdɔ wɔ ne mmerɛ mu, na ma nnwom no nnyɛ den."
+  - q: "Ɛte sɛn na mahunu sɛ ɔnni nneɛma no ani?"
+    a: "Hwɛ nsakrae ketewa: ne mpan a ɛyɛ dɛ, ne anim a ɛyɛ dɛ, ne ani a ɛhwɛ wo, ne nsɛm ntɔ, anaasɛ ne home a ɛdi ase. Ɔyaw anaasɛ ne nsa a ɔtwe kɔ nʼakyi, ne ahohuo, anaasɛ ne nkaeɛ a ɛka ho no kyerɛ sɛ ɔyɛ den anaasɛ ɔwɔ ɔyaw. Sɛ wohunu saa nneɛma yi a, gyae na ka kyerɛ nnipa a wɔhwɛ no sɛ ɛreba so."
+  - q: "Ɛyɛ sɛ mebɛsrɛ no sɛ ɔnte me ase nso?"
+    a: "Ɛyɛ. National Institute on Aging kyerɛ sɛ nnipa a wɔwɔ hɔ no bɛma ɔdwodwo, na nneɛma te sɛ hyɛn, nnwom ne nsɛm a wɔka bɛma ahoɔfɛ wɔ dementia akyiri stage mu. Wo nne ne wo tadeɛ nso bɛyɛ wo a ɔnim, bere a ne din anto."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +50,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Wɔ dementia akyiri stage mu no, nipa a ɔwɔ ho bɛkasa kakra, ɔbɛhia boa wɔ ne nneɛma nyinaa mu, na ɔbɛtena mmɔden anaasɛ hyɛn so bere pii. Ɛbɛyɛ sɛ nneɛma a mobɛyɛ bom no aba awiei. Nanso ɛwɔ hɔ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) kyerɛ sɛ nipa no ho ankasa kakra bi tra hɔ, na wɔ saa stage yi mu no, wiase no hu kɛse wɔ nʼahoɔ so. Nnwom, nsa a ɛtena nʼahoɔ, nsɛm a ɔte ne nkyɛn, ne wo ne ɔno a wodi ne ho ahoɔdɛn no bɛtumi de ahoɔfɛ ne nkitahodie aba.
 
-## What activities help in late-stage dementia?
+## Nneɛma bɛn na ɛboa wɔ dementia akyiri stage mu?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Nneɛma a ɛfa nsɛn ho ne ahoɔfɛ a ɛyɛ dɛ boa paa wɔ akyiri stage mu. Alzheimer's Association ka sɛ wobɛtumi atu nnwom a ɔpɛ, kenkan nwoma bi a ɛwɔ ne nkaeɛ mu, de nnuro a ɔdɔ hyɛ ne honam so, na wɔ ɛberɛ a ɛyɛ fɛ no mu, mmɛfa wo ne ɔno ntena wɔ abɔnten. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ka sɛ nsɛm a wɔka, nifa a wɔde hwɛ, honam a wɔde ahoɔfɛ bɔ, nnwom, mmoa a ɛyɛ nwonwa, anaasɛ nsuo a ɛreyɛ wɔ mmuaemu mu no nso yɛ adwuma, na sɛ wo ankasa wo hɔ nso bɛma ɔdwo.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kyerɛ sɛ nipa a ɔwɔ akyiri stage mu no, ɛbu sɛ ɔkyekyere biribi a ɔbɛhyɛ ne mu ma ahoɔfɛ, na ɛtaa ka nneɛma a ɛyɛ dɛ ho: nneɛma a ɛfa nsɛn ho, honam a wɔyɛ nkɔsoɔ ketewa, nnwom, mmoa a wɔde bɛba, nipa ahoɔ a wɔde ahoɔdɛn bɔ, ne nsɛnkyerɛnne a ɛnyɛ nea wɔayɛ ho nhyehyɛe.
 
-## Activities for someone in bed or a chair
+## Nneɛma a wobɛyɛ ma nipa a ɔte mmɔden anaasɛ hyɛn so
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Gyina ne nnwom so.** Paw nnwom a ɔtee wɔ ne mmerɛ mu, ne nnwom a ɛfa ne gyidi anaasɛ ne abusua ho. Ma nnwom no nnyɛ den, na tena ne akyi. Ɛwom sɛ ɛnnɛ, nipa bi ka ne nsa ntɔ anaasɛ ɔmmɔ mmɔ. Hwɛ [nnwom ho nneɛma](/activities/music/).
+2. **Kyekyere ne nsa.** Ɛwom sɛ wode ne nsa bɛyɛ ho nko no, ɛyɛ adwuma. Kyerɛ no ankasa nea woreyɛ kan.
+3. **Hyɛ ne honam so nkɔsoɔ mmɔfra.** Fa lotion kakra hyɛ wo nsa mu, na twa ne nsa so fi ne nsa mu ano kɔ ne nsa nsoa. Paw lotion a ɛnnyɛ ahoɔfɛ, anaasɛ ahoɔfɛ a ɔdɔ no sɛ ne honam ntumi nnyɛ no ɔyaw.
+4. **Kenkan nneɛma kɛse.** Ɛbɛyɛ mpaebɔ a ɔdɔ, nwoma ne nsɛm bi a ɛwɔ ne mmerɛ mu, Nyankopɔn asɛm anaasɛ krataa mu nneɛma a ɔpɛ. Wo nne ne nsɛm a ɛfa ne ho no ho ahoɔden sen nsɛm no ankasa.
+5. **Ka nsɛm.** Ka wɔn abusuafo anantwie anaasɛ da a wɔware. Ɛnhia sɛ ɔbua wo.
+6. **Da nsɛnkyerɛnne.** Gyina ɔpɛ kɛse baako mu, ma no ɛfa ne ani so, na ka no ahoɔfɛ. Mmisa no sɛ ɔnkyerɛ wo wɔn a ɛwɔ mu.
+7. **Ma no biribi a ɛyɛ dɛ a ɔbɛkyekyere.** Ɛbɛyɛ ntoma a wɔaboa, fleece a ɛyɛ nwini, anaasɛ mmoa a ɛyɛ dɛ. National Institute on Aging kyerɛ sɛ wobɛtumi ama nipa no ntoma bi a ɔbɛkyekyere bere a wɔrehyɛ no, na ɛbɛma ɔrenkyekyere wo anaasɛ agyapadeɛ no.
+8. **Gye nnuro a ɛwɔ wiase.** Osutɔ, nsuo a ɛreboa anaasɛ mmoa a ɛreto nnwom wɔ fitaa mu tumi ma efie a ɛyɛ nnwom kɛse no tɔ.
+9. **Fa wiase no ba fie.** Bue ɔpon, de nsoromma bi a ɛyɛ bird feeder hyɛ ɔpon no akyi, anaasɛ fa nsuo nkaeɛ anaasɛ nhaban bi ba fie ma ɔnhwɛ na ɔbɛtwe.
+10. **Fi fie kɔ wiase.** Sɛ nipa no tumi tete wheelchair mu a, nkɔsoɔ kakra wɔ ɔsuo ase wɔ ɛberɛ a ɛyɛ fɛ no mu, nea ɛwɔ mu no bɛyɛ fɛ.
+11. **Hyɛ ne tirim ano anaasɛ fa nsuo a ɛyɛ hyew ma no.** Ntoma a wɔde ɛyɛ ne nsa ne ne mmɛn, a ɛyɛ nkɔsoɔ, ɛbɛyɛ ahoɔfɛ.
+12. **Fa nnwom nkɔsoɔ.** Fa ntoma nsõ kɔ, anaasɛ twa ne nsa wɔ nnwom a ɔpɛ no ano. Sɛ wopɛ nkɔsoɔ a ɛfa honam ne mpɔnsɛ so a, srɛ ɔyarefo anaasɛ ɔbɔnyansafo no ma ɔnkyerɛ wo ɛkwan a ɛyɛ nokware kan.
+13. **Yɛ nsɛnkyerɛnne a wobɛyɛ wo ho.** Fa bɔɔfo a ɛyɛ nwini ne nsa anaasɛ ne nsa ntwa pentɛ a ɛnnwuo, de hyɛ krataa kɛse so. Biribiara nni ntwerɛ a ɛyɛ nokware.
+14. **Ma mmoa mmɛba.** Ɔsoro a ɛyɛ dɛ a ɔbɛtena ɔda so anaasɛ ne kuro so, sɛ nipa no pɛ mmoa na ɛmfa hɔ nnyɛ hɔhoɔ.
+15. **Hɔ ahome bom.** Mo ne ne ho hyɛn so, na monhome ahoɔfɛ, monsɛ ɔnkyerɛ mo ho ankasa. [Calm breathing](/games/calm-breathing/) boa mo nyinaa sɛ mobɛma mo ho ahoɔfɛ, na mo ara mo ntumi aguanhu.
+16. **Ɔnyɛ ɔsɛnkyerɛnne wɔ hɔ.** Tena ne nkyɛn, bom hum, ka krataa anaasɛ kenkan nwoma akyɛ. Ɛnyɛ ɛdeɛ hia ankasa ankasa, wo ho ahyɛ no ahoɔfɛ.
 
-## How to share an activity at this stage
+## Ɛte sɛn na wobɛkyekye nneɛma wɔ stage yi mu
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Fi ne anim baa.** Ka ne din ne wo din, na ka nsɛm a ɛyɛ dɛ, ɛnam ne nkyɛn, ansa na woreyɛ ne honam.
+- **Ma biribi baako pɛɛ.** Gyae TV no ansa na woreyɛ nnwom. Yɛ ahoɔ biako, na wɔ ahotɔ mu.
+- **Ma ɛnyɛ tenten.** Nkɔsoɔ kakra no bɛtumi ayɛ ɔkɔm. Mmere kakra a wɔkyekye da no mu ye sen bere tenten koro.
+- **Ma ɔne ho nyɛ ahoɔfɛ ansa.** Hwɛ sɛ ɔwɔ nkɔsoɔ a ɛyɛ dɛ. National Institute on Aging kyerɛ sɛ lap board bi a ɛma nsa ne ɔfã a ɛwɔ soro no ho ahoɔfɛ, ɛboa wɔ sɛ ɔrekɔ soro.
+- **Hwɛ nea ɔrekyerɛ.** Nsa a ɛyɛ dɛ, anim a ɛyɛ dɛ, ani a ɛhwɛ wo, anaasɛ ɔmmɔ mmɔ kyerɛ sɛ ɔyɛ ahoɔfɛ. National Institute on Aging ka sɛ ɔyaw nnwiriw, anim ntɔ, ne honam a ɔbɛkyere mu, anaasɛ ahohuo a ɛntɔ mmiɛnsa no nso yɛ adanse a ɛkyerɛ ɔyaw. Gyae, na ka kyerɛ ɔnnipa a wɔhwɛ no.
 
-## A quick guide by sense
+## Nneɛma a ɛfa ahoɔ ho kɔ so
 
-| Sense | Ideas | Take care |
+| Ahoɔ | Nneɛma | Hwɛ yiye |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Tie | Nnwom a ɔpɛ, wo nne a wɔkenkan, nnuro a ɛwɔ wiase | Ma nnuro no nnyɛ den; nnuro baako pɛɛ |
+| Honam | Nsa a wɔhyɛ so nkɔsoɔ, nsa a wɔkyekyere, ntoma a ɛyɛ dɛ, nsuo a ɛyɛ hyew | Bisa anaasɛ ka kyerɛ ansa; hwɛ sɛ honam no nyɛ yaw anaasɛ ɔnyɛ ɔwɔ mu |
+| Ahuhuɛ | Krataa, nnuro, wiase a ɛwɔ ɔpon ano, video a ɛyɛ dɛ a ɛfa nnuro ho | Hyɛ nneɛma wɔ anim kɛse; hann a ɛyɛ dɛ, na hyɛ wɔ hɔ a ɛnyɛ nea ɛbɔ ahuhuɛ |
+| Ahoɔfɛ | Nsuo a ɔpɛ, nnuro, mmoa a ɛboa, nsuo a ɛyɛ dɛ a ɛreka | Ɛfiri nkɛntɛnsɛm ankasa; hwɛ sɛ ahoɔfɛ nnyɛ den ne ahome |
+| Nkwan | Nkwan a ɔpɛ kakra, sɛ ɔda wo so | Fa nneɛma a ɛboa kɛse ne nneɛma a ɔyɛ dɛ a ɔyare wɔ hɔ ka kyerɛ no |
 
-## Safety at this stage
+## Ahobammɔ wɔ stage yi mu
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Nkɔsoɔ ne nsɛm a ɛfa nsa so mu nso bɛyɛ den wɔ akyiri stage mu, na National Institute on Aging ka sɛ eyi ma ɛyɛ mmerɛw sɛ ɔbɛtɔ nneɛma a ɛyɛ hyɛ ɔkɔm. Nnfa nneɛma ketewa a ɔrebɛfa nkɔɔ ne nsa mu. Fa nnuan anaasɛ nsuo a ɛfata nkyerɛkyerɛ a nnipa a wɔhwɛ no akyerɛ ma no. Hwɛ ne honam pa sɛ wobɛyɛ nkɔsoɔ a ɛfa honam so ho. Ɛwɔ sɛ honam no ntumi nni, na ɛyɛ ntɛm sɛ ɛbɛpaa anaasɛ ɛbɛboboa. Ma wo nni [nneɛma a ɛfa ahoɔ ho](/activities/sensory/) ho nkɔsoɔ, nkyerɛ nneɛma a ɛyɛ dɛ.
 
-## Looking after yourself too
+## Hwɛ wo ho nso
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Dementia akyiri stage mu hwɛ no yɛ adwuma wɔ honam ne adwene mu, sɛ wɔ fie anaasɛ wɔ ɛberɛ a wɔrekɔ hɔ baa abusua a wɔwɔ fie a wɔhwɛ wɔn no mu. Hospice ne palliative care nnipa a wɔboa wɔ ahoɔfɛ, nkyerɛkyerɛ ne nhyehyɛe ho, na National Institute on Aging kyerɛ sɛ wɔyɛ boafo. Mmere tiaa, nkɔsoɔ a ɛyɛ dɛ wɔ hɔ bɛyɛ fɛ; hwɛ [dementia ho ne nnipa a wɔhwɛ ɔyaresa so](/activities/visiting/). Sɛ wodi asɔfohwɛ mu, [nneɛma a wɔyɛ wɔ asɔfohwɛ mu](/activities/care-home-groups/) wɔ nneɛma a ɛboa sɛ wobɛsesa ɛkwan. Na ka [wo ho hwɛ](/caregiving/caregiver-self-care/) ho nkɔsoɔ: ahomegyebɔ ne ɛyɛ wo ho adwuma a ɛyɛ ɛpɛ.

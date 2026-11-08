@@ -1,33 +1,32 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Nneyɛe a Nnipa Pii Di Ho ma Dwiriw Yare: Akwankyerɛ"
+seoTitle: "Dwiriw Yare Nneyɛe Nnipa Pii: Bingo, Nnwom, Ɔkyerɛkyerɛ"
+description: "Nneyɛe a nnipa pii di ho ma dwiriw yare hwɛ, ahoɔfasedan ne da nhyehyɛe: picture bingo, nnwom a wɔka bom ne nkaeɛ ho asɛm, ne nhyehyɛe ho nkyerɛkyerɛ."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Nneyɛe pa a nnipa pii di ho wɔ dwiriw yare ne da nhyehyɛe mu yɛ tebea a ɛyɛ
+  mmere tiaa, ɛyɛ nea wɔahunu, ne obiara tumi nnyina ho ma ɔbɛka, ɛnam ntam
+  so: picture bingo, nnwom a wɔka bom, nkaeɛ ho asɛm, ahoɔfasedan nneyɛe ne
+  nsɛm a wɔka bom. Ma nnipa ɛmfa nkɔ, na ma obiara nya baabi a ɔbɛfiri ase sɛ
+  ɔrepɛ, na fa ɔkwan a ɛyɛ mmerɛ a obi bɛtumi ayɛ ho ma wɔn.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Nnipa kakraa bi a wɔka ho ne nneyɛe kɛse a nnipa pii di ho, ɛyɛ nea ɛboa ma nnipa pii bɛka ho, ɛnte sɛ nea wɔhwɛ nkutoo."
+  - "Fa nnipa ntena kurow anaa ntena kɔ so, bɛn panyin, na hu sɛ wɔtie ne wɔhunu ahodoɔ, na nnyɛ nnwonnwoɔ a ɛyɛ wɔ akyi."
+  - "Hyehyɛ nneyɛe ma mmerɛ abien anaa abiasa, sɛnea nnipa a wɔwɔ tumi a ɛyɛ ahodoɔ nyinaa tumi nka ho."
+  - "Mma mmisa, nhwehwɛmu ne ɔdeɛ a ɔbɛnya ne nkɛntɛnso. Picture bingo tumi ayɛ sɛ obiara bɛnya kaadi a ɛmaa no ahyɛ ma."
+  - "Ɛyɛ yie sɛ obi bɛfi kwan ntɛmpɛ, ahunu anaa ɔbɛda ase. Fa obi a ɔtwe adwene sɛ ɔpɛ baabi a ɛdwoo no ka ho."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Nnipa dodow bɛn na ɛyɛ mmerɛ ma dwiriw yare nneyɛe?"
+    a: "Ɛnni dodow koro a ɛteɛ, ɛfa nnipa, dan no ne wɔn adwumayɛfo a ɛwɔ hɔ ho. Nkurɔfo bebree hu sɛ nnipa kakraa bi ma obiara hunu, tie ne ka ho, nanso nneyɛe kɛse a ɛwɔ dan kɛse mu no, nnipa bebree bɛhwɛ nkutoo. Sɛ wo de nneyɛe kɛse bɛyɛ a, fa adwumayɛfo anaa aboafoɔ a wɔbɛtena nnipa ntam na wɔaboa baanu anaa abien biara ka ho."
+  - q: "Ɛdeɛn na mede ahodoɔ a ɛnyɛ pɛpɛɛpɛ ahyɛ nkitahodie ne ka ho?"
+    a: "Hyehyɛ ɔkwan a ɛboro baako so ma obi ka ho wɔ nneyɛe biara mu. Wɔ nnwom a wɔka bom mu, obi bi ka asɛm nyinaa, obi bi bɛbɔ mmɔden anaa ɔbɛhome, na obi bi nyan ɔkɔto. Wɔ picture bingo mu, obi bi hwehwɛ ne ho mfonini, na obi bi nam aboafoɔ a ɔbɛkyerɛ no so. Fa nnipa a wɔhia boafoɔ akyi ne adwumayɛfo anaa aboafoɔ."
+  - q: "Ɛdeɛn na mɛyɛ picture bingo a ɛnyɛ ɔkwan a ɛma obi bɛtɔ ne ho?"
+    a: "Frɛ mfonini nyinaa kosi sɛ kaadi a obiara wɔ no ahyɛ ma, sɛnea obiara renka ho nkɔ akyi. Ka mfonini biara ho asɛm bere a ɛba, na mma nnwuma ano nkɔ nhwɛ ɔdom anaa ma obiara nya ade kakra koro. Ɛho hia ne ahunu a ɛka bom ne nkɔmhyɛ, na ɛnyɛ nea ɔdi kan."
+  - q: "Metumi de yɛn nneyɛe ayɛ wɔ nkyerɛwde kɛse so wɔ nnipa ntam?"
+    a: "Yiw. Yɛn nneyɛe yɛ adwuma wɔ web browser so, enti wotumi bue wɔn wɔ laptop anaa tablet a ɛka TV anaa projector ho. Picture Bingo wɔ kaadi a wotumi printe ne frɛfoɔ a ɔwɔ screen so. Finish the Saying ne Picture Pairs nso yɛ adwuma yie wɔ nkyerɛwde kɛse so, ɛnam obi a ɔbɛtɔ ma nnipa nyinaa so."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +51,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Akwankyerɛ yi ma nhyehyɛe panyin, dwiriw yare ahwɛyiye mpanyinfo ne da nhyehyɛe akyerɛkyerɛfo. Ɛka nneyɛe a ɛyɛ adwuma wɔ nnipa ntam, nhyehyɛe a wɔde hyehyɛ dan no, sɛnea wɔbɛyɛ nneyɛe biara ma nnipa a wɔwɔ ahoɔdɛn a ɛyɛ soronko, ne sɛnea wɔbɛde yɛn nkrataa a wɔbɛprinte bingo ne yɛn nneyɛe a wɔde kɔmputa ahunu so ayɛ adwuma. Ɛnyɛ ɔsɔre. Ɛwɔ hɔ ma ahoɔfasedan, nkitahodie ne ɔkwan a obi bɛpɛ.
 
-## What makes a group activity work in memory care?
+## Dɛn na ɛma nneyɛe a nnipa pii di ho yɛ adwuma wɔ dwiriw yare mu?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Nneyɛe a nnipa pii di ho a eye ne nea wɔahunu, tiaa, obiara tumi ka ho wɔ ne tebea biara mu, na ɛnni ahohiahia biara. Alzheimer's Association [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ka sɛ nneyɛe a ɛyɛ nea ɛsom ahoɔfasedan no ka nnipa ani ne ahopɛ ho asɛm, ɛma wɔwɔ ɔkwan a wɔpɛ, ɛne ɔkwan a wɔbɛtumi asɛe, bere a dwiriw yare ayɛ den paa. Saa krataa koro no kyerɛ sɛ nhyehyɛe a wɔde hyehyɛ nneyɛe bebree ka ho, wɔ nneyɛe kɛse baako anaa mmienu da biara, a nnipa bebree dwene hɔ nkutoo.
 
-That points to a few practical rules:
+Ɛno ma yɛwɔ nkyerɛkyerɛ kakraa bi a yɛde bɛyɛ adwuma:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Ɛyɛ nea wɔahunu ka sen foforo.** Nnwom, nsɛmmisa, mfonini ne nneɛma a efi wɔn mmerante mu no, ɛyɛ mmerɛ ma obi ka ho.
+- **Ɛyɛ tiaa ka tenten.** Hyehyɛ nneyɛe a ɛbɛtena nnipa a wɔn ani nna ho kɔ so nkɔsi bere a ɛwɔ hɔ, na ɛwɔ baabi a ɛyɛ mmerɛ sɛ wobɛtu ano.
+- **Ɛyɛ nea wobɛyɛ ka sen nea wobɛhwɛ.** Ma obiara wɔ biribi a ɔbɛkyeree, ɔbɛtɔ, ɔbɛpaw anaa ɔbɛka.
+- **Nneyɛe biara, mmerɛ bebree.** Hyehyɛ ɔkwan a ɛyɛ mmerɛ ne ɔkwan a ɛyɛ den ma nnipa ka ho.
+- **Ɛnni ɔdesɛe, ɛnni mmuae.** Nneyɛe a wɔde ahoɔden ko so ma nnipa bi ahu sɛ wɔantumi.
 
-## How big should the group be?
+## Nnipa dodow bɛn na ɛyɛ mmerɛ?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Nnipa kakraa bi na ɛyɛ mmerɛ. Alzheimer's Association ka sɛ obi a ɔhu sɛ nnipa kɛse ka ho yɛ den no, ɔbɛtumi ako ne nneyɛe yie wɔ nnipa kakraa bi ntam. Ɛnni dodow koro a ɛteɛ. Ɛfa nnipa, dan no ne adwumayɛfo ne aboafoɔ a wɔwɔ hɔ ho.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Ɔkwan a ɛboa ne sɛ: ɔkyerɛkyerɛfo no anim no, obi biara tumi hunu, tie yie, na obi bi tumi aboa no wɔ nkɛntɛnso mmienu mu? Sɛ ɛnyɛ saa a, kyekyɛ mpɔtam, fa adwumayɛfo anaa aboafoɔ ka ho, anaa kɔ dan ketewa mu.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Sɛ nneyɛe kɛse bi yɛ, te sɛ dwoda nnwom anaa nneyɛe ho, fa adwumayɛfo ne aboafoɔ ntena nnipa ntam, ɛnyɛ wɔ mfikyɛn ho.
 
-## How should I set up the room and seating?
+## Dɛn na mɛyɛ ma dan no ne nhyehyɛe ho?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Kurow anaa ntena kɔ so.** Saa mmara a wɔde hyehyɛ nnwom mu no ka sɛ ɛyɛ mmerɛ sɛ wɔfa kurow a ɛyɛ kɛse a obiara tumi ntena mu, na ɛnni nne a ɛyɛ nnwonnwoɔ.
+- **Ɔkyerɛkyerɛfo bɛn ne wɔn ani.** Ntena sɛ wobɛtumi sɛ wo ntena mmom.
+- **Tie ne hunu ntɛm.** Fa nnipa a wɔtie ɛtɔ no bɛn ɔkyerɛkyerɛfo no, wɔ wɔn ntisie so. Hwɛ sɛ wɔde wɔn ahunu ahodoɔ ne tuntum a wɔbɛhunu ne wɔn nhoma ahyɛ ho. Alzheimer's Association ka sɛ tiefoɔ ne hunuefoɔ a ɛyɛ wɔn ho yaw ka ɛma nkɔmhyɛ ayɛ den.
+- **Ɛnnyɛ hann a ɛwɔ ntɔ ɔfa nnipa ho.** Mma obi ntena ɔkwan a hann bɛfa ne ani ho.
+- **Ma TV ne radio nkɔ.** Alzheimer's Association ka sɛ nnwom nneyɛe mu no, ɛho hia sɛ wɔyi nne a ɛbɔ nnwom ntam ho nkɔ.
+- **Asɛm baako bere biara.** Nnipa a wɔn ho yɛ hwee ne nnipa a wɔtie ɛtɔ no nnim sɛ asɛm a ɛyɛ mmere bebree ka ho yɛ den, sɛnea Alzheimer's Association kyerɛ wɔ ne [holiday guidance](https://www.alz.org/help-support/caregiving/holidays) mu.
+- **Kwan a ɛyɛ mmerɛ sɛ wobɛfi hɔ ne baabi a ɛyɛ nwonwa.** Obiara a ɔpɛ sɛ ɔfi hɔ no tumi kɔ yie, na ɔdamfo bi bɛnantew no.
 
-## Group activity ideas
+## Nneyɛe a wɔbɛyɛ wɔ mmoa ho
 
 ### Picture bingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Picture bingo de mfonini a ɛda adi, te sɛ tiikyɛn, kraman anaa nkwadaa, dane nɔma, enti obiara nhia sɛ ɔde ne adwene si nɔma tenten anaa ɔkenkan nkyerɛwde a ɛyɛ sakraa.
 
-**How to run it:**
+**Sɛnea wobɛyɛ no:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Printe kaadi baako ma obiara fi yɛn [Picture Bingo](/games/picture-bingo/) hɔ de Print bɔtoni no. Krataa a ɛyɛ den yɛ mmerɛ sɛ wobɛfa, na wotumi de laminate no ama wɔasan de no.
+2. Ma nnipa akɔnnɔ a ɛyɛ kɛse, a wɔbɛtumi de ahwehwɛ, te sɛ poker chips, bottle caps anaa kraxer a wɔtwa ase.
+3. Fa on-screen caller a ɛwɔ TV anaa projector so no, ma obiara ahunu mfonini no bere a wobɛka ne din.
+4. Gyina bere biara a mfonini bi ba, na frɛ obi ka tebea bi ho nkyerɛase ketewa: "Obi bɛpɛ sɛ yɛte ne ho asɛm wɔ ɔkraman a ɔnim no ho?" anaa "Ɛdeɛn na wohu wɔ eyi mu?"
+5. Frɛ mfonini no kɔ so kosi sɛ kaadi nyinaa ahyɛ ma. Obiara bɛgyae.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Sɛnea wobɛsesa no:** Fa nkrataa a ɛdɔɔso ma nnipa a kaadi a ɛma ahyɛ ma no ka ho sɛ ɛyɛ den. Obi bi tumi kyerɛ mfonini a ɛfata ma obi a ɔhia boafoɔ. Nnipa bi ka pɛ sɛ wɔde mfonini a ɔkyerɛkyerɛfo no wɔ no ma ɔkyerɛ nkurɔfo.
 
-### Sing-alongs
+### Nnwom a wɔka bom
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Nnwom yɛ nneyɛe a nnipa bebree di ho kɛse wɔ nnipa ntam. Alzheimer's Association ka sɛ, ɛwom sɛ ɛrekɔ mfe a ɛtwa so pɛɛpɛɛ de, obi bi tumi de ne nsa agyiri anaa aka dwom a efi ne mmofra mmere mu [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Sɛnea wobɛyɛ no:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Paw nnwom a nnipa a wɔwɔ hɔ dwane wɔn so, na ɛnyɛ ɔkyerɛkyerɛfo no pɛ. Bisa mmusua sɛ dɛn na obiara dɔ.
+- Fa nnwom a ɛnni nkɔsoɔ nkyerɛkyerɛ ho, Association no ka sɛ ɛtumi ma nnipa ahu ɔhaw.
+- Printe nkrataa a nsɛm no wɔ so kɛse ma wɔn a wɔkenkan, nanso ɛnhia sɛ obiara kenkan.
+- Ma nnipa akɔnnɔ, ntɔ ne ntoma a wɔbɛwe so, anaa nsaho ma wɔawe.
+- Fa nsa mpɛn ne nneyɛe ka ho, na ma ɔsɔ nnwom no yɛ ɔkwan a ɛyɛ anigye.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Sɛnea wobɛsesa no:** Obi bi bɛka nnwom nyinaa, obi bi bɛbɔ mmɔden, obi bi bɛtɔ ne nan, na obi bi bɛtie nkutoo. Eyi nyinaa yɛ adwuma. Hwehwɛ yɛn [music activities guide](/activities/music/) ama nsɛm a ɛyɛ pii.
 
-### Reminiscence groups
+### Nkaeɛ ho nneyɛe
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Nkaeɛ ho nneyɛe bi ɛyɛ nhyiam a wɔbɔ ho ɔkwan biako, te sɛ mmerante, nneɛma a wɔde ayɛ adwuma anaa kɔnkɔn, nnwom ne nneɛma a wɔsen ahyɛ ahwɛ so. Ɛno ara ne nea ɛma ahyɛ ahoɔ, nanso ɛnyɛ nea ɛnam nkaeɛ a ɛyɛ pɛpɛɛpɛ so.
 
-**How to run it:**
+**Sɛnea wobɛyɛ no:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Paw ɔkwan koro biara, te sɛ mmerante, mpɔtam no ho, anaa ɔkwan a wɔde ayɛ aduane, na ɛnnyɛ nneɛma a ɛyɛ den. Fa nneɛma kakraa a nnipa tumi kyere ne ho ba: asaase mmoa, nsa, aduane a wɔde ayɛ, anaa nhoma a ɛka nneɛma.
+2. Ma nneɛma biako nkɔ ɔfa ɔfa. Bisa nsɛmmisa a ɛma ɔkasa: "Ka ho asɛm," "Ɛdeɛn na wohu?" "Hena na ɔde ɛte saa ade no yɛe?"
+3. Gye asɛm biara. Nkɔ asɛm a ɛfa da anaa nneɛma ho nni nsakra.
+4. Kɔ kasa a ɛyɛ ahoɔdɛn so. Akwankyerɛ a ɛfa nneyɛe ho ka sɛ, nnipa a wɔyɛ adwuma a wɔhwɛ nnipa no, ɛsɛ sɛ wɔkyerɛ nkaeɛ no ɔkwan a ɛyɛ anigye ntam sen nea ɛbɛma nnipa anya ahohiahia.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) ma mfonini a wotumi printe a ɛwɔ nsɛmmisa a ɛwɔ ɔkwan ho a ɛboa ma nkɔmmɔ ahyɛ ase. Nneyɛe a ɛboro saa so wɔ yɛn [reminiscence guide](/activities/reminiscence/) mu.
 
 ### Finish the saying
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Nsɛm a wɔka bebree, te sɛ "Sika a wɔakora ne sika a wɔakora..." frɛ obiara sɛ ɔnka ne nea ɛtwa so no ho. Fa [Finish the Saying](/games/finish-the-saying/) hɔ wɔ nkyerɛwde kɛse so, na ma nnipa nyinaa ka mmuae no baako. Bere biara a wɔka nsɛm bi no, ɛwɔ asɛm a ɛfrɛ sɛ wɔka ho asɛm. Sɛ obiara nka nea ɛtwa so a, da no hɔ na kɔ so. Ɛnni nea ɛteɛ anaa nea ɛnteɛ.
 
-### Large-print word search, together
+### Nkyerɛwde kɛse word search, ka ho bom
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Fa [Word Search](/games/word-search/) a nkyerɛwde ne kɛse wɔ screen so, na nnipa nyinaa nhwehwɛ nsɛm bom, anaa printe kɔpi ma wɔn a wɔpɛ sɛ wɔyɛ adwuma wɔn ho wɔ ɔsɔfo so. Nsɛm no kɔ nkɔ nkɔ anaa nkɔ fam nkutoo.
 
-### Gentle movement
+### Nneyɛe a ɛyɛ mmerɛ ma nipa
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Ɛdeɛ a wɔtena mu nkɔ so, sɛ wobɛpɛ mmoa, anaa wobɛsan anyan mmoa bi nkɔ, anaa wɔde nnwom a nnipa dɔ no ho na wobɛsan ɛbɛgyina. Ka nneyɛe biara ho sɛ wɔbɛyɛ, na nhwɛ ne so, ɛnyɛ kɔkɔbɔ.
 
-### Sorting and matching at the table
+### Nneɛma a wɔbɛsesa wɔ ɔsɔfo so
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Mpɛn nsia anaa nnan kɔ so, nnipa ɛsɛ sɛ wɔsesa nneɛma te sɛ mfonini, akwadaa fɛfɛ anaa nneɛma a wɔde sɛ ɛte sɛ kɛsɛ a wɔde hyehyɛ. Wɔ screen so, [Picture Pairs](/games/picture-pairs/) betumi ayɛ adwuma bere a mfonini wɔ hɔ ahyɛnnyin, na obi biako tɔ no bere a ɔsɔfo no ka mfonini biara ho asɛm.
 
-## How do I use your games on a big screen?
+## Dɛn na mɛyɛ ma me nneyɛe ayɛ wɔ nkyerɛwde kɛse so?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Yɛn nneyɛe yɛ adwuma wɔ web browser so, enti wotumi de wɔn ayɛ adwuma wɔ TV anaa projector so a ɛnhia sɛ wodi nhyehyɛe biara.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Bue nneyɛe no wɔ laptop anaa tablet a ɛka screen no ho wɔ kɔnnɛkɔ anaa casting so.
+2. Ma browser no ayɛ full screen, na hyehyɛ nne no kɔ ɔkwan a ɛyɛ mmerɛ.
+3. Ma ɔkyerɛkyerɛfo biako nto nea wɔpaw, na nnipa ntam frɛ nea wɔpɛ. Anaa de tablet no ma obi a ɔpɛ sɛ ɔyɛ ne bere.
+4. Gyina bere biara a nnipa no ayɛ yie. Nneyɛe no nni bere, nhwɛ anaa ɔkwan a wɔde bɛtwe ase.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) ne [Conversation Cards](/games/conversation-cards/) yɛ ade a ɛfata nnipa kɛse ho pa. Hwɛ nneyɛe nyinaa wɔ yɛn [games page](/games/) so.
 
-## How do I adapt one activity for mixed abilities?
+## Dɛn na mɛyɛ ma nneyɛe biako ayɛ ma nnipa a ɛyɛ nsusuw nwonwa?
 
-Plan at least three ways to join every activity.
+Hyehyɛ ɔkwan a ɛboro baako so ma obiara ka ho wɔ nneyɛe biara mu.
 
-| Activity | More independent | Some support | Most support |
+| Nneyɛe | Ɔkwan a ɔyɛ ne ho ankasa | Mmoa bi | Mmoa pii |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Picture bingo | Hwehwɛ ne ho mfonini na ɔkata ho | Obi kyerɛ; ɔde ne ho ka | Gyina kaadi a mfonini wɔ so; tie ne hwɛ |
+| Nnwom a wɔka bom | Ka, paw dwom a edi so | Hyɛ nkɔ anaa nka nsa, de shaker | Tie, gyina ntoma, tɔ nsa a ɔbɛtɔ |
+| Nkaeɛ ho asɛm | Ka ne nkaeɛ | Ka aane anaa Yiw/Daabi anaa kyerɛ | Gyina nneɛma no na ɔtwe ase |
+| Word search | Ɔyɛ ne ho kɔpi a wɔaprinte | Hwehwɛ nsɛm wɔ screen kɛse no so ne obi | Tie bere a wɔka nsɛm no |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Wɔ nnipa a wɔwɔ ɔkyɛ ɔdwuma mu no, NHS ka sɛ nneyɛe ɛsɛ sɛ ɛyɛ yie na ɛsɛ sɛ ɛkyerɛ nneɛma a ɛfa nsɛnkyerɛnne ho sen, te sɛ nnwom, nneɛma a wɔtɔ ne nneɛma a wɔde nsa mmɔ ho ntoto. Nkitahodie biako bere a nnipa redi nneyɛe no ho anaa akyi no betumi aboa wɔn sen nneyɛe a ɛyɛ mmoa pii. Hwɛ [late-stage activities](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Dɛn na ɔkyerɛkyerɛfo kyerɛ bere a nneyɛe reyɛ?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Ka wo din bere biara, na frɛ obi wɔ ne din a ɔpɛ.
+- Kasa ntɛm, ma nkyerɛkyerɛ biako bere biara, na kyerɛ ade kan ansa na wobɛka.
+- Frɛ nnipa sɛ wɔnka ho asɛm ("Ka ho asɛm...") anaa ma wɔnnwen biribi, na ɛnnyɛ nsɛmmisa a ɛyɛ sɛ wobɛka asɛm ("Wo kae...?").
+- Mma nsakra, ma obiara ayɛ ade a ɔyɛ. Ka sɛ ɛyɛ.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Nsɛm a ɛka ho wɔ yɛn [communication tips](/caregiving/communication-tips/) mu.
 
-## Ending well, and letting people leave
+## Nneyɛe a ɛyɛ yie na ɛma obi tumi kɔ
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Ɛyɛ mmuae a ɛyɛ yie sɛ obi tumi kɔ. Hwɛ nsɛnkyerɛnne a ɛkyerɛ sɛ obi abrɛ, ɔnnye ne ho anaa ɔrenya anigye, na ma boafoɔ no nhyɛ no sɛ ɔnkɔ ntaban anaa ɔnkɔtena baabi a ɛdwoo. Obi a ɔda ase bere a wɔreyɛ nnwom bom no betumi ayɛ ɔkwan a ɔyɛ anigye.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Ma nneyɛe biara ayɛ wiase wɔ ɔkwan koro so, de nnwom a wɔka dada anaa ɛnam ayamyeɛ kakra so, sɛnea ɛbɛyɛ mmerɛ ma obiara. Akyiri no, kyerɛw nea ɛyɛ yie ne obi a ɔdɔ nneɛma bi. Saa nkyerɛwde no boa ma nneyɛe a ɛdi so no ayɛ yie.

@@ -1,33 +1,32 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Ntease Nneɛma ma Nnipa a Wɔwɔ Dementia"
+seoTitle: "Dementia Ntease Nneɛma: Nkyerɛkyerɛ ne Ahobammɔ"
+description: "Ntease nneɛma ma nnipa a wɔwɔ dementia, efi nsa so ne aduane so kosi nkotodwe ne nkɔnsɔnkɔnsɔn, nhoma ne nhwɛso ho, nea ɛbɛboa wo ma wo nhwɛ ahobammɔ."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Ntease nneɛma de ntease nnan ahyɛ adwuma: nsa so a ɛyɛ brɛoo, ntoma a ɛyɛ
+  nwoma, nhwɛ a ɛwɔ mmɔbɔ, nteɛm a ɛfa wɔ ɔhyɛn, anaa nhwɛ mmoa a wɔrehwɛ wɔ
+  adaboɔ so. Wɔnhwɛ kwan a ɛwɔ ɔhaw a wɔbɛgye ho, ahodoɔ, nkwa a ɛwɔ ahoɔ
+  ho, ne nhwɛ a ɛyɛ ahoɔden. Hwɛ ho ntɛm, ma ɛyɛ biribi biako pɛɛpɛɛ, na sɛ
+  obi no nnye ho yie a, gyae.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Ntease nneɛma nni mmuae a ɛyɛ nokorɛ, enti wɔyɛ adwuma wɔ asasetɔ biara mu, ɛwom sɛ ɛbɛyɛ wɔ mpa so anaa wɔ ntebe so."
+  - "Fa ntease biako ka ho bere biara wɔ adaduan a ɔnteɛm mu, na bisa anaa ka ansa na wobɛtɔ obi."
+  - "Gyina nneɛma kakraa ne nneɛma a ɛte sɛ aduane nanso ɛnyɛ aduane, esiane sɛ nnipa bi de nneɛma kɔ wɔn anom."
+  - "Hwɛ ahodoɔ, nhoma ho yaw ne ahome ho ɔhaw ansa na wode hwɛ ntoma, aduane anaa nneɛma a wɔde ahoɔ."
+  - "Nhwɛso a wɔka sɛ aromatherapy boa dementia ho nneyɛe nni ahoɔden a ɛyɛ nokorɛ; fa honhom a ɛyɛ dɔ de ma ɔnnye ho, sɛ ɛwɔ hɔ a."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Dɛn ne ntease nneɛma a ɛyɛ papa ma obi a ɔwɔ dementia?"
+    a: "Nneɛma a ɛyɛ mmerɛ ni ne nsa so a ɛyɛ brɛoo de ntoma a ɛwɔ nkwan, honhom a ɛfa nhwɛ anaa kɔfi, nteɛm a ɛfa nnwom a ɔpɛ anaa nteɛm a ɛfa mmoa, nhwɛ mmoa anaa nkɔnsɔnkɔnsɔn a ɛwɔ hyɛ, ne aduane a ɔpɛ a ɛwɔ nkwan a ɛyɛ mmerɛ mu. Fa ntease biako ka ho bere biara na hwɛ sɛdeɛ ɔnnye ho."
+  - q: "Ntease nneɛma yɛ ahobammɔ ma obi a ɔde nneɛma kɔ ne anom?"
+    a: "Ɛbɛyɛ, sɛ wohwɛ yie. Fa nneɛma kɛse a wontumi nnan nko ara, ntwe nneɛma kakraa anaa nneɛma a ɛbɛbu, na de nhoma, sopɔ ne nneɛma a ɛwɔ honhom sɛ wobɛtu akyiri no ahyɛ kwan a wɔnnhwɛ. Tena ne nkyɛn bere nyinaa."
+  - q: "Aromatherapy boa dementia anaa?"
+    a: "Cochrane nhwehwɛmu a wɔyɛe no hunuu nsɛmmisa a ɛda adi a ɛkyerɛ sɛ aromatherapy boa nnipa a wɔwɔ dementia, nanso nhwehwɛmu no yɛ ketewa na nea ɛba mu no nyɛ pɛ. Sɛ obi pɛ honhom a ɛyɛ dɔ a ɔhunu dada a, ɛyɛ; nanso fa honhom a ɛyɛ den, titiriw sɛ ɔwɔ ahome ho ɔhaw anaa ahodoɔ, nkɔ so."
+  - q: "Dɛn ne fidget anaa activity apron?"
+    a: "Ɛyɛ ntoma, apron anaa kɔtɔn a wɔde nneɛma a wɔbɛkyere nsa ho sɛ wobɛdi ho ayɛ den, sɛ nkotodwe kɛse, zippers, ribbons ne nkɔnsɔnkɔnsɔn a wɔde ahyɛ. Ɛma nsa a ɛnnyina adwuma nni biribi a ɛbɛma wɔdi ho nhwehwɛ. Hwɛ ho bere bebree sɛ biribi nni hɔ a ɛbɛyera anaa ɛbɛtu."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +47,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Ntease nneɛma de adwene a ɛyɛ nnipa ahoɔden nnan ahyɛ adwuma: ntease, honhom, ɛdɛ, nteɛm ne ahuhu. Wɔnhia nkaebɔ, anammɔn biara anaa mmuae a ɛyɛ nokorɛ, enti wɔbɛtumi ayɛ wɔn wɔ asasetɔ biara mu. Ɛho hia paa akyiri yi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ka sɛ wɔ asasetɔ a ɛtwa toɔ mu no, wiase de ahoɔden nnan na ɛhyɛ adwuma, na wobetumi adi ɔdɔ wɔ nsa so, nteɛm, ahuhu, ɛdɛ ne honhom so. Nhwɛso kakraa a wɔhwɛ ansa na wɔayɛ no ma nnwuma yi yɛ ahomegyeɛ ma obiara.
 
-## What are sensory activities for dementia?
+## Dɛn ne ntease nneɛma ma dementia?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Ntease nneɛma yɛ nneyɛe a ɛyɛ mmerɛ a wɔde ntease biako ka ho, sɛdeɛ ɛbɛyɛ sɛ wobɛpapaa ntoma, wobɛhonhom nhwɛ anaa wobɛtie osutɔ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ka sɛ nnwuma a wɔyɛ wɔ asasetɔ a ɛtwa toɔ mu no hia sɛ ɛfa ntease so, na ɛfa nnwom, nneɛma a wɔbɛtie na wɔde nsa ahwɛ, ne nsa so a ɛyɛ brɛoo. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ka sɛ nnipa a wɔwɔ asasetɔ a ɛtwa toɔ mu no betumi ahia biribi a wɔbɛkyere ho de ahome ma wɔn.
 
-## Sensory ideas, sense by sense
+## Ntease nneɛma, ntease biako biako
 
-### Touch
+### Nsa so
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Nsa so brɛoo.** Hyew ntɛm nkakrɛ nhwɛ wɔ wo nsa mu, na pue nsa no fi asennua kɔsi nsateaa so brɛoo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ka sɛ wobetumi de nkakrɛ a wɔnhwɛ honhom no so nsa so ama ahome.
+- **Ntoma kɛseɛ a wɔde nhyɛ mu.** Ntoma kɛse a wɔde ahyɛ mu, a ɛyɛ velvet, corduroy, fleece, satin ne wool, a wobɛkɔ so pue, ayɛ ntuanee na aka ho asɛm.
+- **Nsuo a ɛyɛ hyew.** Ɛyɛ ntoma a ɛyɛ nsuo mu a ɛyɛ hyew, de ma nsa ntɛmtɛm, sɛ ɛyɛ ahuhuru bere. Sɔ wo nsa ano ansa na wode ahyɛ.
+- **Apron anaa kɔtɔn a wɔde nsa ahwɛ.** Nkotodwe kɛse, zippers, ribbons ne nkɔnsɔnkɔnsɔn a wɔde ahyɛ mu yiye.
+- **Ntwentwen ne nkyekyeɛ.** Ntoma a ɛyɛ teɛteɛ, nsa ntɛmtɛm anaa ntwentwen, a wobɛkyekye, nhyɛ ne bɔ mu bio.
+- **Biribi a wɔbɛkyere.** Ntoma nsɔnsɔn, ntoma a ɛyɛ ɔkɔkɔɔ anaa ɔdwera a wɔde ma no ntɛm, a wɔnnsɛ sɛ ɛyɛ mpaboa.
 
-### Smell
+### Honhom
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Ahuhuruw.** Pue mmɔdenbɔ a ɛyɛ foforɔ ntɛmtɛm wɔ nsa mu, na wɔbɛtwe nsa so.
+- **Aduane a ɛde honhom.** Kɔfi a ɔrehyew, paanoo a ɔrehyew, sinamon anaa ɛbɛnam a wɔrehwe ɛbɛn.
+- **Nhwiren.** Fa nhwiren foforɔ bi fi afuw anaa adwadan so.
+- **Sɔapo anaa ahodoɔ a wɔpɛ.** Sɔapo anaa ahodoɔ a wɔde di dwuma daa, sɛ ne ahoɔ tumi gye a.
 
-### Taste
+### Ɛdɛ
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Ɛdɛ a wɔpɛ.** Nsuanyɛ kakraa a obi pɛ, te sɛ apple sauce, pudding anaa ice cream, wɔ ahoɔ a wɔbɛtumi adi so yie.
+- **Boa wɔ bobe mu.** Nhwɛ aba anaa sugar krim a ɛwɔ mu bere a moreyɛ bobe mu.
+- **Ɛdɛ a ɛfa bere ho.** Nsuo mmɔbɔ wɔ osutɔ bere, kɔfi a ɛyɛ hyew wɔ ɔhyɛn bere, wɔ ahoɔ a ɛyɛ mmerɛ ma obi nnwene.
 
-### Sound
+### Nteɛm
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Nnwom a obi pɛ.** Nnwom a wɔatie dada wɔ nteɛm a ɛyɛ brɛoo; hwɛ [nnwuma a ɛfa nnwom ho](/activities/music/).
+- **Mmoa ne nsuo nteɛm.** Osu, mpoma anaa nnomaa dwenenemu. NIA ka sɛ nnwom, nteɛm a ɛte sɛ mframa anaa nteɛm a ɛfa wiase ho boa obi bi ahome.
+- **Wo nne.** Kenkan anaa hwɛ bere a wodi asɛm, anaa ka anansesɛm.
+- **Nkɔmmɔ nneɛma a ɛyɛ mmerɛ.** Nkɔmmɔ kakraa, nsuo a wɔde gu, anaa aka a wɔde bɔ nteɛm ka nnwom ho.
 
-### Sight
+### Ahuhu
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Nhwɛ nkrasɛm wɔ afuw so.** Nnomaa a wɔde aduane ama wɔ afuw a ɛwɔ ankɔnsɔ, mmofra a ɛrepɛ fie, anaa kɔm a ɛrebɔ.
+- **Akwadaa anaa vidio a ɛyɛ brɛoo.** Ntɛmtɛm a ɛnnyɛ nteɛm a ɛyɛ den.
+- **Mfonini kɛseɛ.** Mfonini a ɛyɛ teɛteɛ baako bere, a wɔde ma nkyɛn ahunu.
+- **Nsɔhwɛ ne nsɛnsɛn.** Nkyekyɛ nkyerɛnkyerɛ a ɛyɛ nsɛnsɛn, nnomaa anaa nsɔnsɔn a wɔkyekyɛ, anaa [nsɛnkyerɛ a ɛfa ntɛmtɛm a wɔde yɛ](/games/coloring/).
+- **Wɔ ɔhyɛn so.** NHS ka sɛ wobetumi de nnua a ɛyɛ ɛdɛ, nneɛma a wɔbɛtumi asi nsa ho ne nsuo a ɛtene wɔ wɔ nnua mu. Hwɛ [nnwuma a ɛfa ɔhyɛn ne nnua ho](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Sɛdeɛ wobɛyɛ ntease adekyee
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Yi insɛnsɛmfa a ɛfa obi nkwa ho**, te sɛ ɛpo, ɔhyɛn, aduane, nnuadzi anaa nsɛnsɛn.
+2. **Yi nneɛma baanu anaa abien, nneɛma kɛse a ɛyɛ nsa a ɛnyɛ basabasa,** sɛdeɛ ɛbɛyɛ ɛponkyɛn kɛse, ɔdɔ a wɔde ahyɛ mu, ɛdwene a ɛyɛ dwiriw, anaa ɛwɔ bɔ ahyɛ mu.
+3. **Hwɛ nneɛma biara** hwɛ sɛ ɛwɔ nneɛma kakraa, ntwe a ɛyɛ mmerɛ, ntoma a ɛyɛ nsrɛ anaa nneɛma a ɛbɛbu.
+4. **Fa nneɛma biako biako bra.** Fa kɔ ne nsa mu, ka ho asɛm, na ma obi no nnwene.
+5. **Fa adekyee no to baabi bio bere a woawie.** Saa ara na ɛbɛda so yɛ kronkron na wɔbɛhwɛ nneɛma no bio ansa na wɔde bɛsan adi.
 
-## Safety first
+## Ahobammɔ ne nea ɛdi kan
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Ntease nneɛma yɛ mmerɛ, nanso nsɛnkyerɛ bi wɔ hɔ a ɛho hia. Nnipa a wɔwɔ dementia bi betumi asusuw nneɛma a wɔnnyɛ aduane sɛ aduane, na nnan so ɛbɛyɛ den akyiri yi; NIA kaa sɛ ɔhaw a ɛwɔ nnan so wɔ asasetɔ a ɛtwa toɔ mu no de kwan ma nkotodwe.
 
-| Risk | What to do |
+| Ɔhaw | Dɛn na wobɛyɛ |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Nkotodwe | Fa nneɛma a ɛyɛ kɛse a wontumi nnan nko ara. Nkotodwe, ɔdɔ, sika, nsuwa anaa nneɛma a ɛyɛ nkɔnsɔnkɔnsɔn ammɔ adekyee mu. Ma aduane nko ara wɔ ɔkwan a ɔsɛ a wɔsɔ hwɛ ka sɛ ɛyɛ ahobammɔ no mu. |
+| Nneɛma a ɛte sɛ aduane | NIA ka sɛ fa nsuo ahoɔden, sopɔ, shampoo ne ahonhom a ɛte sɛ aduane, a ɛbɛyɛ sɛ nneɛma a ɛte sɛ aduane anaa ɛwɔ honhom, ɛde ankɔ akyiri anaa ɔbɔ nneɛma a wɔyɛ ayɛ anaa ayɛ a ɛyɛ nnipa a wɔyɛ. Fa nneɛma a wɔde ayɛ ntease adwuma no ahyɛ kwan a wɔnnhwɛ wɔ dwumadie akyi. |
+| Ahodoɔ | Hwɛ sɛ ɛwɔ ahodoɔ a ɛfa nkuku, latex, wool, nnuadzi anaa honhom ho ansa na woreyɛ. |
+| Honhom a ɛyɛ den | Fa honhom a ɛyɛ den, te sɛ ahonhom ne aduru a ɛyɛ ɛnyinase, nkɔ akyi, titiriw sɛ ɔwɔ ahome ho ɔhaw anaa ɔhaw a ɛfa ahome ho. Honhom a ɛyɛ hyew ne ɔkwan a ɛyɛ mmerɛ ye ankasa. |
+| Pɔw | Hwɛ sɛ pɔw, nhwɛ anaa pɔw a ɛyɛ den ntwa ansa na wobɛyɛ nsa so. Fa nsa so ahoɔ a ɛyɛ mmerɛ, na gyae sɛ wɔsɛnkɔ anaa wɔnnye ho. |
+| Ahyew | Sɔ hyew nsuo ne nsuo a wɔbɛnom wo nsa ano ansa na woreyɛ. |
+| Nneɛma a ɛyɛ den anaa a ɛyɛ nsɛe | Ma nneɛma a ɛyɛ den, nsuo a wɔde pɛɛ, anaa nneɛma a ɛyɛ nsɛe a wɔde yɛ adwuma nnyɛ. |
 
-## Does aromatherapy help?
+## Aromatherapy boa anaa?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Ɛrenyɛ nokorɛ sɛ ɛboa ankasa. [Cochrane nhwehwɛmu a wɔyɛe wɔ aromatherapy ho ma dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) hwehwɛɛ nhwehwɛmu 13 a nnipa 708 wɔ mu, a wɔwɔ asasetɔ mu nyinaa, na wohunuu sɛ nsɛmmisa a ɛda adi a ɛkyerɛ sɛ ɛboa nni hɔ. Nhwehwɛmu no yɛ ketewa, nea ɛba mu no nkɔ tɛ, na wɔankyerɛ nsɛnkyerɛ a ɛyɛ nsɛe yie. Sɛ obi pɛ honhom a ɛyɛ dɔ a ɔhunu dada, te sɛ ahonhom a wɔfa afuw so no, ɛyɛ biribi a wobetumi de ma no; ɛnyɛ ɔyaresɛm.
 
-## How to offer a sensory activity
+## Sɛdeɛ wobɛma ntease adwuma
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Yi bere a ɛyɛ kyɛn** na guan TV no.
+- **Bɛn no fi kwan a ɔrehwɛ wo so,** frɛ no din, na bisa anaa ka ansa na woreto no: "Mewɔ lotion. Wopɛ sɛ mehwɛ wo nsa?"
+- **Fa ntease biako ka ho bere biara** sɛnea ɛrennya ɔhaw.
+- **Hwɛ sɛdeɛ ɔbɛda so.** Ɔano a ɛyɛ mmerɛ, nsa a ɛnyɛ den anaa ɛseɛ a ɔbɛseɛ yɛ nsɛnkyerɛ pa. Sɛ ɔyi ne nsa fi wo nsa mu, ɔnye ho anaa ɔbɛyɛ nneyɛe a ɛnyɛ mmerɛ a, gyae.
+- **Ma ɛnyɛ ɛkɔ ɛkyɛ.** Nnɔnsɔ nkakrɛ anaa ɛyɛ mmerɛ ɛyɛ nnwuma a ɛyɛ.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Ɔhyɛ nkakrɛ a ɛyɛ mmerɛ, te sɛ [nkwa mu ahome](/games/calm-breathing/), ne ɛbɛboa sɛ wodi ɛbɛtwa. Sɛ wopɛ nkyerɛkyerɛ foforɔ a ɛfa mpa so ho, hwɛ [asasetɔ a ɛtwa toɔ mu nnwuma](/activities/late-stage/), na sɛ ɔhaw a ɛfa anadwo ho a, hwɛ [anadwo ahoɔden](/caregiving/late-day-restlessness/).
