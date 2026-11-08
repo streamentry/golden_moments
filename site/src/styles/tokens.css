@@ -228,10 +228,23 @@
   --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-/* Higher contrast (the site's control): the gold used for text and links
-   becomes Deep Antique, 8.7:1 on the page instead of 6.3:1. */
+/* Higher contrast (the site's control). Text goes to black, secondary text to
+   Ink, every tappable border to Ink, and the gold used for text and links to
+   Deep Antique (8.7:1 instead of 6.3:1). The page lightens to Print White and
+   hairlines darken so edges stay visible. */
 html[data-contrast='high'] {
   --gm-primary: #5f4300;
+  --gm-primary-deep: #4a3400;
+  --gm-secondary: #0e4d69;
+  --gm-background: #fffdf7;
+  --gm-surface: #fbf6ec;
+  --gm-surface-raised: #ffffff;
+  --gm-surface-sunken: #b8a98f;
+  --gm-secondary-outline: #4f7a8f;
+  --gm-on-surface: #000000;
+  --gm-on-surface-variant: #222222;
+  --gm-outline: #222222;
+  --gm-on-ink-variant: #f3ead9;
 }
 
 @media (min-width: 600px) {

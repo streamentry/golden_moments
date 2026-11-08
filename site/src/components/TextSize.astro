@@ -18,7 +18,13 @@ const t = ui(lang);
       <path d="M1 21 9.5 2l8.5 19M3.8 14.5h11.4" />
     </svg>
   </button>
-  <button type="button" class="text-size__btn" data-contrast-toggle aria-pressed="false">{t.common.textSize.contrast}</button>
+  <button type="button" class="text-size__btn text-size__btn--label" data-contrast-toggle aria-pressed="false">
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <circle cx="12" cy="12" r="9" />
+      <path class="text-size__fill" d="M12 3a9 9 0 0 1 0 18Z" />
+    </svg>
+    <span>{t.common.textSize.contrast}</span>
+  </button>
 </div>
 
 <script>
@@ -67,15 +73,16 @@ const t = ui(lang);
       b.setAttribute('aria-pressed', String(high));
     });
   }
-  const contrastButton = document.querySelector<HTMLButtonElement>('[data-contrast-toggle]');
-  contrastButton?.addEventListener('click', () => {
-    const high = root.dataset.contrast !== 'high';
-    try {
-      localStorage.setItem(CONTRAST_KEY, high ? 'high' : 'standard');
-    } catch {
-      /* storage blocked: the choice lasts for this page only */
-    }
-    applyContrast(high);
+  document.querySelectorAll<HTMLButtonElement>('[data-contrast-toggle]').forEach((b) => {
+    b.addEventListener('click', () => {
+      const high = root.dataset.contrast !== 'high';
+      try {
+        localStorage.setItem(CONTRAST_KEY, high ? 'high' : 'standard');
+      } catch {
+        /* storage blocked: the choice lasts for this page only */
+      }
+      applyContrast(high);
+    });
   });
   applyContrast(contrastSaved());
 
@@ -92,6 +99,7 @@ const t = ui(lang);
 <style>
   .text-size {
     display: flex;
+    align-items: center;
     gap: var(--space-xs);
     flex-wrap: wrap;
   }
@@ -115,6 +123,27 @@ const t = ui(lang);
     stroke-width: 2.25;
     stroke-linecap: round;
     stroke-linejoin: round;
+  }
+  /* The labelled toggle is a pill that grows with its words, never a circle. */
+  .text-size__btn--label {
+    display: inline-flex;
+    gap: var(--space-sm);
+    width: auto;
+    min-width: 48px;
+    height: auto;
+    min-height: 48px;
+    padding: var(--space-xs) var(--space-md) var(--space-xs) var(--space-sm);
+    font: inherit;
+    font-size: var(--text-sm);
+    line-height: var(--leading-tight);
+    text-align: start;
+  }
+  .text-size__btn--label svg {
+    flex: none;
+  }
+  .text-size__btn .text-size__fill {
+    fill: currentColor;
+    stroke: none;
   }
   .text-size__btn[aria-pressed='true'] {
     border-color: var(--gm-on-surface);
