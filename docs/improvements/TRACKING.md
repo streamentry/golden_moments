@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 22 / 100 completed**
+**Progress: 23 / 100 completed**
 
 ---
 
@@ -32,6 +32,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 20 | 2026-11-08 | `5f96f22` | Activity Card Visual Framing Architecture, Silhouette Contrast & Universal Sensory Feedback | Alzheimer's Society UK & AbilityNet (2025), Musa et al. (2023), W3C COGA Obj 1 & 4: Reinforced visual container framing in high contrast (`border: 2px solid #000`) and forced colors (`border: 2px solid CanvasText`) across `.caller`, `.caller__print`, `.target__print`, `.say-card`, `.talk-card`, and catalog `.game-card__print`; elevated shadow silhouette contrast to 100% full opacity under high contrast mode (`opacity: 1 !important;`); added interactive outline and tooltip title discovery to Picture Bingo called history (`.called li:hover img`); eliminated silent action taps across Picture Pairs, Picture Bingo, Find the Same, Shadow Match, and Finish the Saying (`sounds.tap()`); extended spoken guidance (`readAloudText`) to Picture Pairs. | Web UI & Games (`games.css`, `components.css`, `PicturePairs.tsx`, `PictureBingo.tsx`, `FindTheSame.tsx`, `ShadowMatch.tsx`, `FinishTheSaying.tsx`) | Done |
 | 21 | 2026-11-08 | `9efb1d6` | Caregiver Today Decision Tool, Game Stage & CTA Band High-Contrast Architecture & Dementia Appointment Print Protection | W3C COGA Objectives 1, 4 & 7, Alzheimer's Society / Dementia UK Caregiver Guidelines: In `today.astro` ("What is hardest today?"), reinforced selected situation buttons (`.today__choice[aria-pressed='true']`) with 4px high-contrast borders and system `Highlight` outline so active selection survives Windows Contrast Themes; framed `.today__answer`, urgent `.today__help` ("When to get help"), and `.today__text` with high-contrast borders and focus rings; added appointment print protection (`break-inside: avoid; page-break-inside: avoid;` on `.today__day` and `.today__day li`) preventing personal notes from slicing across printed page breaks; framed `.game-stage`, `.cta-band`, `.notice`, and `.tag` under high contrast (2px `#000`/`#222`) and forced colors (`CanvasText`); added `ButtonText` and `Highlight` focus outlines to `.text-size__btn`. | Web Tools & Layout (`today.astro`, `GameView.astro`, `TextSize.astro`, `components.css`) | Done |
 | 22 | 2026-11-08 | `9a0e7b9` | Caregiver Status Affirmation, Markdown Prose Architecture & High-Contrast Article Structure | W3C COGA Objectives 1, 4 & 5, AbilityNet (2025): Upgraded `.today__status` in `Today.tsx` with clear visual confirmation container (`--gm-primary-container`, 1px solid `--gm-primary`, rounded badge, checkmark icon, high-contrast border and forced-colors `Highlight`), ensuring caregivers immediately recognize saved/removed observations; framed `.toc` (Table of Contents) with 2px solid `#000000` / `CanvasText`; reinforced `.prose blockquote` with 4px solid `#000000` replacing low-contrast gold accent; reinforced `.prose table` headers, cell dividers (2px black / CanvasText), focus rings, and list markers (`.prose li::marker`); reinforced body links (`a`) with high-contrast underline thickness and system `LinkText` in forced-colors mode. | Web Tools & Content (`Today.tsx`, `today.astro`, `components.css`) | Done |
+| 23 | 2026-11-08 | `4db7697` | Basket Items Cognitive Inspection, Puzzle Container Framing & Vestibular Tap Stability Architecture | Musa et al. (2023), AbilityNet (2025), WCAG 2.3.3 & W3C COGA Obj 1 & 4: In `SortTogether.tsx`, placed items inside `.basket__items` previously had `alt=""` and no `title` tooltip with disabled pointer events. Updated to descriptive `alt={label}` and `title={label}`, removed `pointer-events: none;`, and added `border: 1px solid var(--gm-outline)` so caregivers and participants can inspect placed items. Framed `.puzzle` container in 2px baseline border (`--gm-outline-variant`), and reinforced both `.puzzle` and `.basket__items img` with 2px solid `#000000` under `@media (prefers-contrast: more)` and `CanvasText` under `@media (forced-colors: active)`. Under `@media (prefers-reduced-motion: reduce)`, suppressed bouncy `:active` transforms on `.tile:active` and `.piece:active` (`transform: none;`) and removed transition delays (`.tile, .piece, .called img { transition: none; }`) to protect users with vestibular sensitivity and motor tremors. | Web Games & Styles (`SortTogether.tsx`, `games.css`) | Done |
 
 ---
 
@@ -39,5 +40,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 23 | *Next in queue* | Pending |
-| 24–100 | Planned one by one | Pending |
+| 24 | *Next in queue* | Pending |
+| 25–100 | Planned one by one | Pending |
