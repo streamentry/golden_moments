@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Bifwanisu ya zole-zole",
+    "seoTitle": "Nsaka ya kufwanisa bifwanisu sambu na bantu yina ke vilakanaka mambu: Bifwanisu ya zole-zole",
+    "h1": "Bifwanisu ya zole-zole: nsaka ya pima ya kufwanisa",
+    "description": "Nsaka ya ofele mpi ya pima ya kufwanisa bifwanisu sambu na bantu yina ke zinga ti maladi ya kuvilakana mambu. Bifwanisu ya nene ke monikaka kaka, ntangu ya kubaluka to bansoba ya kutanga kele ve, mpi nge lenda pona bika 4 tii 12.",
+    "short": "Sosa bifwanisu zole yina kele mutindu mosi. Bifwanisu lenda bikala ya kumonika.",
+    "players": "Muntu 1 to bantu 2, penepene",
+    "intro": "Finama kifwanisu mosi, mpi finama yina ke fwanana ti yau. Bifwanisu ke bikalaka ya kumonika, yo yina kima ya kusosa kukangila na ntu kele ve. Kana bifwanisu zole me vukana, yo ke bakaka ndilu ya wolo ti kidimbu ya kundima.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Pona bika ya bifwanisu ikwa ya kusadila. Bika iya kele luyantiku ya pima.",
+      "Finama kifwanisu konso yina. Yo ke baka ndilu ya wolo.",
+      "Finama kifwanisu yina kele mutindu mosi. Bifwanisu zole yina ke bikala kumosi ti kidimbu ya kundima.",
+      "Kana bifwanisu yina zole me swaswana, kima ya mbi ke salama ve. Finama diaka na ntangu yina nge me yilama.",
+      "Pona « Bifwanisu ya kubumbana » kaka kana beno zole ke zolaka nsaka ya kubumba ti kutendula."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Beno tanga bazina ya bifwanisu na ndinga ya ngolo kumosi mpi beno solula sambu na yau: « Kopo ya tiya ya mbwaki. Keti nge ke nwaka miliki na tiya na nge? »",
+      "Bika muntu yina nge ke lungaka kafinama yandi mosi, ata yo lenda baka mwa ntangu. Songa yandi na musapi na kisika ya kufinama sambu na yandi.",
+      "Bikala ti bika iya na ntangu yonso yina yo ke pesa kiese. Bika mingi kele kupona na beno, kansi kifu to kiyekulu ya kuluta ve.",
+      "Manisa na ntangu kiese kele kaka. Nsaka mosi kele kisalu ya kulunga mbote."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Keti montire to bansoba ya kutanga kele?",
+        "a": "Ve. Montire, bansoba, mutindu ya kutanga bitambi to kufwa kele ve. Nge lenda pemisa na konso ntangu, mpi kupemisa na kati-kati kele mutindu ya mbote mpenza ya kumanisa."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Sambu na nki bifwanisu ke bikalaka ya kumonika?",
+        "a": "Kubika bifwanisu ya kumonika ke kumisa nsaka kisalu ya kutala mpi kufwanisa na kisika ya kukangila na ntu. Bantu mingi ke monaka nde yo ke pesaka pima. Nge lenda soba sambu bifwanisu kubumbana kaka na kufinama mbala mosi kana nge me zola."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Keti yo kele ya ofele, mpi keti mono fwete sonama?",
+        "a": "Ee, yo kele ya ofele, mpi konte, nsonikisi ya zina to kukulumusa kima kele ve. Yo ke salaka na navigatere ya web na telefone, tableti to ordinatere."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Keti beto lenda sadila bafoto na beto mosi ya dibuta?",
+        "a": "Ee. Meka Bafoto ya zole-zole, yina ke pesaka nzila ya kupona bafoto na apareyi na nge. Bafoto ke bikalaka kaka na navigatere na nge mpi yo ke mataka ve na internete."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Sosa yina ke fwanana",
+    "seoTitle": "Sosa kifwanisu ya mutindu mosi: Nsaka ya pete sambu na maladi ya kuvilakana",
+    "h1": "Sosa kifwanisu ya mutindu mosi",
+    "description": "Kifwanisu mosi na zulu, zole tii iya na nsi. Finama yina kele mutindu mosi. Nsaka ya pima mpi ya ofele ya bifwanisu sambu na bantu yina ke zinga ti maladi ya kuvilakana mambu, kukonda ntangu ya kubaluka.",
+    "short": "Tala kifwanisu yina kele na zulu mpi finama yina kele mutindu mosi na nsi.",
+    "players": "Muntu 1 to bantu 2",
+    "intro": "Kifwanisu mosi kele na zulu ya ekra. Na nsi na yo kele ti bifwanisu zole, tatu to iya. Finama yina kele mutindu mosi. Yo kele kupona kima mosi ya pete na mbala mosi, ti ntangu mingi ya kusolula.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Pona bifwanisu zole, tatu to iya ya kusadila. Zole kele ya pete mpenza.",
+      "Tala kifwanisu ya zulu kumosi.",
+      "Finama kifwanisu ya mutindu mosi na nsi. Yo ke bakaka kidimbu ya kundima mpi mwa bangogo ya lulendo ti kiese.",
+      "Kana nge finama kifwanisu ya swaswana, nsaka ke tubaka kaka zina na yo mpi ke vingilaka. Baka ntangu na nge.",
+      "Finama « Kifwanisu ya ke landa » kana nge me yilama sambu na kifwanisu ya nkaka."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Beno solula sambu na konso kifwanisu na ntwala ya kupona: balangi, bifwani, kisika nge lenda mona yo.",
+      "Baponelo zole kele ve « kima ya pete kibeni ». Lukanu kele kuvanda na kiese, kansi kutana na nkaka ya mpasi ve.",
+      "Kana kufinama kele mpasi, muntu yina lenda songa na musapi mpi nge lenda finamina yandi."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Keti montire to bansoba ya kutanga kele?",
+        "a": "Ve. Montire, bansoba, mutindu ya kutanga bitambi to kufwa kele ve. Nge lenda pemisa na konso ntangu, mpi kupemisa na kati-kati kele mutindu ya mbote mpenza ya kumanisa."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Inki ke salamaka kana muntu me finama kifwanisu ya mbote ve?",
+        "a": "Kima ya mbi ke salamaka ve. Soneri ya ngolo, kuloa ya mbwaki to kunikana kele ve. Nsaka ke tubaka zina ya kifwanisu yina me finamana mpi ke vingilaka mbala ya nima."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Keti yo kele ya ofele, mpi keti mono fwete sonama?",
+        "a": "Ee, yo kele ya ofele, mpi konte, nsonikisi ya zina to kukulumusa kima kele ve. Yo ke salaka na navigatere ya web na telefone, tableti to ordinatere."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Kufwanisa ti kini",
+    "seoTitle": "Nsaka ya kufwanisa ti kini sambu na bantu yina ke vilakanaka: Ofele na internete",
+    "h1": "Kufwanisa ti kini: Nsaka ya pima ya bifwanisu",
+    "description": "Kini ya ndombe na zulu, bifwanisu zole tii iya na nsi. Finama kifwanisu yina ke salaka kini yina. Nsaka ya ofele mpi ya pima ya kufwanisa kini sambu na bantu yina ke zinga ti maladi ya kuvilakana mambu, kukonda ntangu ya kubaluka.",
+    "short": "Tala kini mpi finama kifwanisu yina ke basisaka yo.",
+    "players": "Muntu 1 to bantu 2",
+    "intro": "Kufwanisa kini kele kisalu yina bantu me zaba mbote na bapapie ya kusonika, kansi awa ti bifwanisu ya nene mpi kima ya kubimisa na papie kele ve. Kini ya pima kele na zulu ya ekra mpi bifwanisu zole, tatu to iya ke vingilaka na nsi. Finama yina ke salaka kini yina. Bifwani bonso velo, dipapluie to kopo ya tiya kele mpi pete sambu na kusolula.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Pona bifwanisu zole, tatu to iya ya kusadila. Zole kele ya pete mpenza.",
+      "Beno tala kini kumosi. Inki mutindu yo kele? Keti yo kele ya nda to ya kinkete?",
+      "Finama kifwanisu yina ke salaka kini. Zina na yo ke monikaka na nsi ya kini yina.",
+      "Kana nge finama kifwanisu ya nkaka, nsaka ke tubaka kaka zina na yo mpi ke vingilaka. Baka ntangu na nge.",
+      "Finama « Kini ya ke landa » kana nge me yilama sambu na kini ya nkaka."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Benda musapi na nzyetolo ya kini mpi beno solula sambu na kifwani na yo.",
+      "Kana makini ke monika mpasi bubu yai, soba na Sosa yina ke fwanana, kisika bifwanisu ke fwananaka mpenza.",
+      "Beno solula sambu na kifwanisu kana beno me mona yo: « Beto vandaka ti dipapluie ya mutindu yina. »"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Keti montire to bansoba ya kutanga kele?",
+        "a": "Ve. Montire, bansoba, mutindu ya kutanga bitambi to kufwa kele ve. Nge lenda pemisa na konso ntangu, mpi kupemisa na kati-kati kele mutindu ya mbote mpenza ya kumanisa."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Kukangisa kifwanisu ti kini na yo kele mbote sambu na bantu yina ke zinga ti maladi ya kuvila mambu?",
+        "a": "Yo lenda vanda kisalu mosi ya kitoko mpi ya pete sambu na bantu yankaka, mingi-mingi na luyantiku ya maladi. Bidimbu ke vandaka pete na kuzaba kuluta bangogo. Yo kele sambu na kiese mpi masolo, yo kele ve ekzamɛ, mpi yo ke belulaka ve to ke kulumusaka ve maladi ya kuvila mambu. Kana yo ke tula kifuuku, meka Sosa yina me fwana to botala kaka bifwanisu kintwadi."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Inki ke salamaka kana bo me fina kifwanisu ya kifu?",
+        "a": "Kima mosi ve ya mbi ke salamaka. Makelele ya sonɛti kele ve, kulusu ya mbwaki kele ve, mpi kima ke nikana ve. Nsaka ke tangaka zina ya kifwanisu yina bo me fina mpi ke vingilaka finisa ya nkaka."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Keti yo kele ya ofele, mpi keti mono fwete sonikisa zina?",
+        "a": "Ee, yo kele ya ofele, mpi kanti kele ve, kusonikisa zina to kukotisa kima na telefone kele ve. Yo ke salaka na site internet na telefone, tablete to ordinatere."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Kabula kintwadi",
+    "seoTitle": "Nsaka ya Kukabula Bima sambu na Maladi ya Kuvila Mambu: Kabula Kintwadi",
+    "h1": "Kabula Kintwadi: Kisalu ya Kukabula Bifwanisu",
+    "description": "Fina kifwanisu, na nima fina kitunga yina fwana na yo: kuku to bilanga, bambuma to bambisi. Kisalu ya kukabula bima ya pima mpi ya ofele sambu na bantu yina ke zinga ti maladi ya kuvila mambu.",
+    "short": "Tula konso kifwanisu na kitunga na yo: kuku to bilanga, mpi ya nkaka.",
+    "players": "Muntu 1 to 2",
+    "intro": "Kukabula bima kele kisalu ya konso kilumbu yina beto me zaba mpi ke pesaka kiese, bonso kubumba bima ya zando to kukangisa masokisi. Fina kifwanisu, na nima fina kitunga yina fwana na yo. Ntangu ke luta ve mpi kifu kele ve.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Pona ntu-diambu: kuku ti bilanga, bambuma ti bambisi, to nzo ti nzietelo.",
+      "Fina kifwanisu mosi. Yo ke baka mukaba ya langi ya wolo.",
+      "Fina kitunga yina fwana na yo. Kifwanisu ke kota na kitunga yina.",
+      "Kana yo fwete kota na kitunga ya nkaka, nsaka ke tubaka yo na malembe mpi ke vingilaka.",
+      "Ntangu bifwanisu yonso me kabwana, tala kintwadi na kati ya bitunga."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Mbala mingi mvutu ya kifu ke vandaka ve na luzingu ya kieleka. Kana muntu me tuba nde kitubu-masa fwete kota na kuku, yula yandi sambu na nki. Nge lenda kuwa lisolo mosi ya kitoko.",
+      "Sadila bifwanisu sambu na kuyantika masolo: \"Inki nge kunaka na bilanga na nge?\"",
+      "Kukabula bima ya kieleka, bonso malutu ti bafurshete to babuto na kutadila balangi, kele mpi ndongisila ya mbote na nganda ya telefone to ordinatere."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Keti ntangu to banoti kele?",
+        "a": "Ve. Saa kele ve, banoti kele ve, kutanga konso lutanu kele ve, mpi kuvidisa kele ve. Nge lenda pema na konso ntangu, mpi kusuka na kati-kati kele nzila ya mbote ya kumanisa."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Sambu na nki kukabula bima?",
+        "a": "Bantu mingi ke sepelaka kukabula bima sambu yo ke monanaka bonso kisalu ya mfunu mpi ya me zabana. Yo ke vandaka mpi pete na kusolula sambu na bifwanisu ntangu beno ke sala."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Keti yo kele ya ofele, mpi keti mono fwete sonikisa zina?",
+        "a": "Ee, yo kele ya ofele, mpi kanti kele ve, kusonikisa zina to kukotisa kima na telefone kele ve. Yo ke salaka na site internet na telefone, tablete to ordinatere."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle ya bifwanisu",
+    "seoTitle": "Puzzle ya Pete sambu na Maladi ya Kuvila Mambu: Bitini 4 to 9",
+    "h1": "Puzzle ya Bifwanisu: Puzzle ya Pete",
+    "description": "Puzzle ya pete na internet sambu na bantu yina ke zinga ti maladi ya kuvila mambu: bitini 4 to 9 ya nene, kifwanisu ya mvimba ke bikalaka ya kumonana, mpi nge ke finaka bitini zole sambu na kusoba bisika na yo.",
+    "short": "Fina bitini zole sambu na kusoba bisika na yo tii kuna kifwanisu ta vanda ya mvimba.",
+    "players": "Muntu 1 to 2",
+    "intro": "Kifwanisu mosi ya kitoko me zengama na bitini iya to uvwa ya nene mpi me vukana. Kifwanisu ya mvimba ke bikalaka ya kumonana bonso ndongisila. Fina kitini mosi, na nima fina ya nkaka, mpi yo ke soba bisika. Yo ke lomba ve kubenda bitini.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Pona kifwanisu mpi bitini 4 to 9. Bitini iya kele luyantiku ya malembe.",
+      "Tala kifwanisu ya mvimba na zulu.",
+      "Fina kitini mosi, na nima fina kisika yina yo fwete kwenda. Bitini zole yina ke soba bisika.",
+      "Bitini yina me vanda na kisika ya mbote ke bakaka kidimbu ya fioti.",
+      "Ntangu kifwanisu me vanda ya mvimba, sepela na yo kintwadi, na nima pona ya nkaka."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Kufina bitini zole sambu na kusoba bisika na yo kele pete mingi kuluta kubenda sambu na bantu mingi.",
+      "Solula sambu na kifwanisu ntangu yo ke kuma ya mvimba: \"Mudiata ya mbwaki yina.\"",
+      "Puzzle ya kieleka ya mabaya ti bitini 12 tii 24 ya nene kele mpi kisalu ya kitoko na zulu ya mesa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Keti ntangu to banoti kele?",
+        "a": "Ve. Saa kele ve, banoti kele ve, kutanga konso lutanu kele ve, mpi kuvidisa kele ve. Nge lenda pema na konso ntangu, mpi kusuka na kati-kati kele nzila ya mbote ya kumanisa."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Keti mono fwete benda bitini?",
+        "a": "Ve. Fina kitini mosi, na nima fina ya nkaka, mpi yo ke soba bisika. Yo kele pete mingi kana diboko ke tekita to na ecran ya fioti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Keti yo kele ya ofele, mpi keti mono fwete sonikisa zina?",
+        "a": "Ee, yo kele ya ofele, mpi kanti kele ve, kusonikisa zina to kukotisa kima na telefone kele ve. Yo ke salaka na site internet na telefone, tablete to ordinatere."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Manisa kingana",
+    "seoTitle": "Manisa Kingana: Nsaka ya Bingana sambu na Bambuta",
+    "h1": "Manisa Kingana",
+    "description": "Bingana ya me zabanaka yina ngogo ya nsuka me konda, bonso \"Mbongo yina nge me bumba kele mbongo yina nge me ___\". Fina diponami mosi to monisa nsuka na yo, na nima solula sambu na yo.",
+    "short": "Manisa bingana ya me zabana kintwadi, na nima solula sambu na yo.",
+    "players": "Muntu 1, 2 to kimvuka",
+    "intro": "Bingana ya ntama ke bikalaka ya kuzabana na luzingu ya mvimba. Konso karte ke monisaka kingana ya me zabana yina ngogo ya nsuka me konda, maponami tatu, mpi buto \"Monisa nsuka\". Na nima ya nsuka, ngiufula mosi ya malembe ke tindaka na masolo.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Tanga kingana na ndinga ya ngolo kintwadi.",
+      "Fina ngogo yina ke manisaka yo, to fina \"Monisa nsuka\".",
+      "Tanga diaka kingana ya mvimba mpi solula sambu na yo na nsadisa ya ngiufula.",
+      "Fina \"Kingana ya ke landa\" ntangu beno me yilama."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Tanga na malembe mpi tula mwa ntangu ya pima na ntwala ya ngogo ya nsuka. Mbala mingi bantu ke tubaka yo na ntwala nge manisa.",
+      "Kana muntu me pesa nsuka ya nkaka, sepela na yo. Bampila yankaka ya bingana ke sobaka na kutadila mabuta to babwala.",
+      "Na kimvuka, muntu mosi ke tangaka mpi bantu yonso ke vukanaka sambu na nsuka."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Keti ntangu to banoti kele?",
+        "a": "Ve. Ntangu, bapwen, kutanga bansonsolo to kukonda ata kima ve. Nge lenda bikisa na konso ntangu, mpi kubikisa na kati-kati kele mutindu ya mbote ya kumanisa."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Inki ta salama kana beto pona mpova ya nkaka?",
+        "a": "Nsaka ke songaka nsuka yina me zabana mpi ke landaka na masolo. Bapwen kele ve, mpi mvutu ya nkaka kele kaka mbote."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kele ya ofele, mpi yo ke lomba kusonamisa zina?",
+        "a": "Ee, kele ya ofele, mpi konte, kusonamisa zina to kukotisa kima kele ve. Yo ke salaka na site ya internet na telefone, tableti to ordinatere."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Kusosa bampova na bisono ya nene",
+    "seoTitle": "Kusosa bampova na bisono ya nene sambu na bantu yina ke vilakanaka, ya kunyema",
+    "h1": "Kusosa Bampova na Bisono ya Nene",
+    "description": "Nsaka ya ofele ya kusosa bampova na bisono ya nene sambu na bambuta mpi bantu yina ke zinga ti mpasi ya kuvilakana mambu. Bampova fioti, bisono ya nene, bampova ke lutaka kaka na lweka mpi na nsi. Saka na internet to nyema yo.",
+    "short": "Bisono ya nene, bampova fioti, kaka na lweka mpi na nsi. Lenda nyema yo mpi.",
+    "players": "Muntu 1 to 2",
+    "intro": "Kitini ya fioti ti bisono ya nene mpi bampova fioti kaka, yonso ke tangamaka kaka na lweka to na nsi. Fieta kisono ya ntete ya mpova, na manima fieta kisono na yo ya nsuka. Nge me zola mukanda? Nyema nsaka ya mpa na mbala mosi kaka.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Pona ntu-diambu mpi kiteso ya bupapani.",
+      "Tala liste ya bampova. Bampova ke tangamaka na lweka (kukatuka na diboko ya kimama tii na ya kibakala) to na nsi (kukatuka na zulu tii na nsi).",
+      "Fieta kisono ya ntete ya mpova, na manima fieta kisono na yo ya nsuka.",
+      "Mpova yina me monana ke tulama langi mpi ke katuka na liste.",
+      "Fieta \"Nyema nsaka yayi\" sambu na kusakana na papie ti kreyo to feutre."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Songa mpova mosi na liste mpi sosa kisono na yo ya ntete kumosi.",
+      "Na zulu ya papie, feutre ya nene ke vandaka pete na kusimba kuluta kreyo.",
+      "Solula sambu na bampova ya ntu-diambu. Bampova ya bambuma ke pesaka nzila ya kiese ya kuyindula kukatula bambuma, kulamba to zandu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ntangu to bapwen kele?",
+        "a": "Ve. Ntangu, bapwen, kutanga bansonsolo to kukonda ata kima ve. Nge lenda bikisa na konso ntangu, mpi kubikisa na kati-kati kele mutindu ya mbote ya kumanisa."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Keti mono lenda nyema nsaka ya kusosa bampova?",
+        "a": "Ee. Fieta \"Nyema nsaka yayi\" sambu na kunyema tablo ya ntangu yayi ti bisono ya nene, ti liste ya bampova na nsi. Konso nsaka ya mpa ke vandaka ya kuswaswana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kele ya ofele, mpi yo ke lomba kusonamisa zina?",
+        "a": "Ee, kele ya ofele, mpi konte, kusonamisa zina to kukotisa kima kele ve. Yo ke salaka na site ya internet na telefone, tableti to ordinatere."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Bapapie ya kutula langi",
+    "seoTitle": "Bapapie ya Kutula Langi Sambu na Bambuta Yina Ke Vilakanaka (Ya ofele)",
+    "h1": "Bapapie ya Kutula Langi",
+    "description": "Bapapie ya pete ya kutula langi sambu na bambuta ti bitini ya nene: fieta langi, na manima fieta kifwanisu. Bosoto kele ve, langi ya mbimbi kele ve, mpi konso papie lenda nyemama ya ofele.",
+    "short": "Fieta langi, na manima fieta kitini ya kifwanisu. Lenda nyema mpi bapapie.",
+    "players": "Muntu 1 to 2",
+    "intro": "Bapapie ti baforme ya nene mpi ya pete: fololo na kati ya nkopo, nzo, kopo ya ti, mpepela mpi masuwa ya mupepe. Fieta langi, na manima fieta kitini ya kifwanisu sambu na kufulusa yo. Langi ya mbimbi kele ve.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Pona papie mosi.",
+      "Fieta langi. Konso langi kele ti zina na yo yina me sonama na zulu.",
+      "Fieta kitini ya kifwanisu sambu na kufulusa yo ti langi yina.",
+      "Soba ngindu na konso ntangu na kutula diaka langi ya nkaka.",
+      "Fieta \"Nyema papie yayi\" sambu na kubaka papie ya mpamba ya kutula langi ti kreyo to feutre."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Pesa balangi zole ya kupona na kisika ya kupesa yonso kana kupona ke monana mpasi.",
+      "Banti ya langi ya viyolet mpi ntangu ya ble kele mbote. Mfunu kele kusepela ti balangi, kansi kusala kaka mutindu ya masonga ve.",
+      "Bapapie yina me nyemama ke vuandaka mbote ti bafeutre ya nene to bakreyo, yina kele pete na kusimba."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ntangu to bapwen kele?",
+        "a": "Ve. Ntangu, bapwen, kutanga bansonsolo to kukonda ata kima ve. Nge lenda bikisa na konso ntangu, mpi kubikisa na kati-kati kele mutindu ya mbote ya kumanisa."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Keti bapapie yayi kele bonso ya bana fioti mingi?",
+        "a": "Beto salaka bifwanisu ya bima ya bupolo mpi ya pete na kisika ya ba dessin animé, sambu bapapie kuvanda ya kubonga sambu na bambuta. Baforme ya nene ke salaka nde kutula langi kuvanda pete kukonda kukumisa yo bonso ya bana fioti."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kele ya ofele, mpi yo ke lomba kusonamisa zina?",
+        "a": "Ee, kele ya ofele, mpi konte, kusonamisa zina to kukotisa kima kele ve. Yo ke salaka na site ya internet na telefone, tableti to ordinatere."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Bakarte ya masolo",
+    "seoTitle": "Bima ya Kuyantika Masolo Sambu na Bantu Yina Ke Vilakanaka: Bakarte ya Bifwanisu",
+    "h1": "Bakarte ya Masolo",
+    "description": "Bakarte ya bifwanisu ti bitumbula-masolo ya pete sambu na bantu yina ke zinga ti mpasi ya kuvilakana mambu: kufula banzikisa ve, mvutu ya kieleka mpi ve. Sadila na apareyi to nyema karte yonso.",
+    "short": "Bakarte ya bifwanisu ti bangyufula ya kufunguka mpi ya pete. Kufula banzikisa ve.",
+    "players": "Bantu 2 to kimvuka",
+    "intro": "Konso karte ke vukisaka kifwanisu yina me zabana ti mbila ya pima sambu na kusolula, bonso \"Inki mutindu ya ntangu nge ke zolaka mingi?\" Mvutu ya kieleka kele ve mpi kima ya kuyindula na ngolo kele ve. Pona ntu-diambu to vukisa yo yonso kumosi.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Pona ntu-diambu, to bika \"Bakarte yonso\".",
+      "Tanga ngyufula na ndinga ya ngolo mpi tala kifwanisu kumosi.",
+      "Wila mbote, pesa mvutu na nge mosi, mpi bika masolo kukwenda malembe.",
+      "Fieta \"Karte ya ke landa\" ntangu nge me yilama, to bikala ti karte mosi ntangu yina nge me zola.",
+      "Fieta \"Nyema bakarte yonso\" sambu na kuzenga bakarte ya papie."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Vutula ngyufula nge mosi mpi. Yo ke vuandaka bonso masolo, kansi bonso kufula banzikisa ve.",
+      "Landa disolo, kansi makambu ya sikisiki ve. Kana bima ya nkaka me soba, yo kele kaka mbote.",
+      "Kana karte mosi me simba kima ya mawa, ndima kiese ve yina mpi luta na karte ya nkaka na bupolo."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Sambu na nki bangyufula bonso \"Keti nge ke yibuka...?\" kele ve?",
+        "a": "Bangyufula yina ke mekaka nsemo ya mabanza lenda monana bonso ekzame mpi kupesa nsoni. Bangyufula ya kupesa nzila bonso \"Songa mono sambu na...\" ke pesaka konso muntu nzila ya kuvukana, ata kima yina yandi ke yibuka."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Keti mono lenda nyema bakarte?",
+        "a": "Ee. \"Nyema bakarte yonso\" ke nyemaka bakarte yonso na bisono ya nene, bakarte mingi na papie mosi, ya kuyilama sambu na kuzenga."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Kele ya ofele, mpi yo ke lomba kusonamisa zina?",
+        "a": "Ee, yo kele ya ofele, mpe kusala konte, kudisonkisa to kukotisa kima kele ve. Yo ke salaka na site internet na telefone, tablete to ordinatere."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Bafoto ya mapasa",
+    "seoTitle": "Sala nsaka ya kukangisa bafoto ya dibuta",
+    "h1": "Bafoto ya mapasa: Kangisa bafoto na nge mosi",
+    "description": "Kitula bafoto ya dibuta na nge nsaka ya pete ya kukangisa bafoto. Sola bafoto 2 tii 6 na apareyi na nge; yo ke bikalaka kaka na site internet na nge mpe bo ke tindaka yo ata kisika mosi ve.",
+    "short": "Sola bafoto na nge mosi mpe kangisa yo. Ata kima mosi ve ke tindamaka.",
+    "players": "Bantu 2, muntu ti muntu pene-pene",
+    "intro": "Sola bafoto zole tii sambanu na telefone, tablete to ordinatere na nge, mpe yo ta kuma nsaka ya kukangisa bafoto ya nene mpe ya pwelele. Bafoto ke monanaka kaka na kati ya lutiti yayi. Bo ke tindaka yo ve, ke bumbaka yo ve, to ke kabilaka yo ve ti bantu ya nkaka, mpe yo ke vilaka ntangu nge ke kanga lutiti yayi.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Finika \"Sola bafoto\" mpe pona bafoto zole tii sambanu.",
+      "Konso foto ke basika mbala zole. Finika mosi, na manima finika foto ya nkaka ya mutindu mosi ti yo.",
+      "Solula sambu na konso foto ntangu nge ke mona yo.",
+      "Ntangu beno me manisa, kanga lutiti to finika \"Katula bafoto\". Ata kima mosi ve ke bikalaka."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Sola bafoto ya pwelele ya bima ya kiese mpe ya mezana: kibulu ya nzo, bilanga, kisika yina muntu ke zolaka mingi, to kilumbu ya lukwelo.",
+      "Bafoto ya bisika mpe ya bima lenda vanda pete kuluta ya baluse, mpe yo ke tulaka ve muntu na mpasi ya kusosa kutanga bazina ya bantu.",
+      "Bika bafoto ya bantu yina me fwaka kana yo lenda natila muntu mawa ya kintulumukina, katula kaka kana nge zaba ti yo ke pesaka yandi kikesa."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Keti bo ke tindaka bafoto na mono na kisika mosi buna?",
+        "a": "Ve. Lutiti yayi ke tangaka bafoto yina nge me sola kaka na site internet na kireti na nge. Bo ke tindaka yo ve na beto to na muntu ya nkaka, mpe yo ke vilaka ntangu nge ke kanga to ke tula lutiti diaka ya mpa."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Keti kele ti montresi to manoti?",
+        "a": "Ve. Kele ve ti montresi, manoti, kutanga banzietolo to kuvidisa. Beno lenda bika na konso ntangu, mpe kubika na kati-kati kele mutindu mosi ya mbote ya kumanisa."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Keti mono lenda bumba nsaka yayi sambu na mbala ya nkaka?",
+        "a": "Ve na site internet yayi, sambu kima mosi ve ya kinsweki kubikala ya kubumbama. Kansi aplikasio ya ofele ya Golden Moments sambu na iPhone mpe iPad lenda bumba bafoto yina nge me sola na apareyi na nge."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo ya bifwanisu",
+    "seoTitle": "Bingo ya bifwanisu sambu na bambuta yina kele ti mpasi ya kuvila mambu: Ya kuniata",
+    "h1": "Bingo ya bifwanisu sambu na bimvuka",
+    "description": "Bingo ya bifwanisu ya ofele ya kuniata sambu na bisika ya kusansila mpe bimvuka ya bambuta, ti kireti ya nene ya kubingila. Bifwanisu ya nene ti bangogo, kare 9 to 16, mpe kutanga kele ve mfunu.",
+    "short": "Bakarte ya bingo ya bifwanisu ya kuniata mpe kireti ya nene sambu na kubinga na kimvuka.",
+    "players": "Kimvuka ya bantu 2 tii 30",
+    "intro": "Nsaka ya bingo ya me zabana kansi ti bifwanisu na kisika ya bansinga ya numelo, sambu muntu ata mosi ve kuvanda ti mpasi ya kutanga bisono ya fioti. Niata bakarte ya kuswaswana, na manima sadila kireti sambu na kusonga konso kifwanisu na nene na televizio, ordinatere to tablete.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Sola kare 9 to 16 na karte mosi mosi mpe ntalu ya babwisi.",
+      "Finika \"Niata bakarte\". Konso karte kele ya kuswaswana.",
+      "Kangula kisika ya kubingila na kireti ya nene. Finika \"Kifwanisu ya ke landa\" sambu na kusonga konso kifwanisu ti zina na yo.",
+      "Babwisi ke fikaka kifwanisu ya mutindu mosi na karte na bo ti mbongo ya kiti, buto to kima ya nkaka.",
+      "Muntu nionso yina me fulusa molongo to karte ya mvimba ke bakaka milolo ya kiese. Muntu ya kuvidisa kele ve na nsaka yayi: landa kubwisa tii muntu nionso ta vanda ti molongo mosi."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Sadila bima ya nene bonso bibulo ya buteye to bibulo ya dame. Babuto ya fioti lenda vanda mpasi na kusimba.",
+      "Tanga zina ya kifwanisu mpe tuba kima mosi sambu na yo: \"Masuwa ya mupepe. Nani me salaka dezia nzietolo na masuwa?\"",
+      "Vandisa bantu yina ke monaka mbote ve pene-pene na kireti, mpe tula basadisi pene-pene na babwisi yina kele ti mfunu na bo.",
+      "Bakare 9 me fwana sambu na bimvuka mingi. Bika nsaka kusalama kiteso ya miniti 20 tii 30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Inki mutindu mono lenda sala nsaka ya bingo ya bifwanisu na nzo ya kusansila bambuta?",
+        "a": "Niata karte mosi sambu na konso mbwisi, tula kisika ya kubingila na kireti ya nene kuluta yina beno kele na yo, mpe binga bifwanisu malembe-malembe, ti kutanga zina ya konso kifwanisu. Bwisa tii muntu nionso ta vanda ti molongo mosi, sambu muntu mosi ve kubikala na nima."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Keti yo kele ya ofele na kuniata?",
+        "a": "Ee. Niata bakarte mingi ya nge kele na yo mfunu, na konso ntangu ya nge me zola, sambu na nge mosi to sambu na kimvuka."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Keti bantu lenda bwisa kukonda kutanga?",
+        "a": "Ee. Konso kare kele kifwanisu ya nene, ti zina na yo na nsi sambu na bayina ke zolaka bangogo."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Kupema na ngemba",
+    "seoTitle": "Ntangu ya kupema na ngemba sambu na bambuta mpe basansi",
+    "h1": "Ntangu ya kupema na ngemba",
+    "description": "Ntangu ya pete mpe ya pima ya kupema sambu na kukabula: kizungidila mosi ya pete ke kumaka nene mpe ke kumaka fioti sambu na bampema sambanu. Nge ke yantikaka yo, mpe nge lenda kanga yo na konso ntangu.",
+    "short": "Kizungidila ya malembe sambu na kupema ti yo. Yantika mpe bika ntangu nge me zola.",
+    "players": "Muntu 1 to 2",
+    "intro": "Bantangu ya nkaka kisalu ya mbote kuluta kele ntangu ya kupema na pima. Finika \"Yantika\", na manima benda mupepe ntangu kizungidila ke kuma nene mpe basisa mupepe ntangu yo ke kuma fioti. Sola vitesi ya malembe to ya nswalu fioti. Yo kele ve lusansu, kansi kaka ntangu ya ngemba sambu na kukabula na kintwadi.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Vanda mbote muntu ti muntu pene-pene.",
+      "Sola vitesi: ya malembe to ya pima.",
+      "Finika \"Yantika\". Benda mupepe ntangu kizungidila ke kuma nene, mpe basisa mupepe ntangu yo ke kuma fioti.",
+      "Yo ke kangamaka yo mosi na manima ya bampema sambanu, to finika \"Kanga\" na konso ntangu ya nge me zola."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Simba maboko to tula diboko na diboko ya muntu kana yandi me zola yo.",
+      "Kupusa muntu na kani ve. Kana yandi me zola kaka kutala, yo kele mbote mingi.",
+      "Kana muntu kele ti mpasi ya kupema, pema mutindu nge ke pemaka mpe tala kaka kizungidila. Yula munganga sambu na konso mpasi ya kupema."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Keti yayi kele ngalasisi ya munganga ya kupema?",
+        "a": "Ve. Yo kele kaka ntangu ya kupema ya pete sambu na kuvanda na ngemba mpe kintwadi. Yo kele ve lusansu sambu na basusi to maladi mosi buna. Solula ti munganga sambu na mavimpi na nge."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Keti kizungidila ke tambulaka kukonda mono kuyantika yo?",
+        "a": "Ve. Kima mosi ve ketambula tii una ofinga Start, mpe kisukaka nsima ya kupema mbala sambanu to kana ofingi Stop. Kana apareyi na nge yatulama sambu na kulembisa kunikana, bampova kesobaka kansi kizunga kenena ve."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Keti yo kele ya ofele, mpe keti mfwete sonama?",
+        "a": "Ee, yo kele ya ofele, mpe konte mosi ve, kusonama to kukulumusa kima ve. Yo kesalaka na browser ya telefone, tablete to ordinatere."
       }
     ]
   }
