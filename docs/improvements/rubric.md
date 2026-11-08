@@ -19,18 +19,18 @@ physical device is listed under "Not verified" and is not scored, not a blocker.
 
 Overall = sum of weight x score.
 
-## Score after Round 15 accessible coloring visuomotor guidance & focus pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
+## Score after Round 16 Web Speech API native utterance & deterministic end state pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
 
 | # | Dimension | Measured | Score |
 | --- | --- | --- | --- |
 | 1 | Plain language | app 441 of 441 strings conform after the six fixes; site play copy 0 long sentences; 404 sentence case confirmed | 10.0 |
 | 2 | Type and contrast | floor and 200% tests pass 10; body 15.1:1 gives 10; secondary 8.1:1 gives 10; primary 6.33:1 gives 9.0; high contrast mode & forced colors reinforced = 10; breadcrumb active state 15.1:1 bold & border-bottom = 10; site-nav active high contrast borders = 10; skip link non-text contrast 15.1:1 dual ring = 10; puzzle piece completion check forced-color-adjust preserved = 10; text-size switcher active outline = 10; lang-menu active outline = 10; coloring region focus 8px primary & swatch focus ring = 10 | 9.75 |
-| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; every action pairs icon and label (including ReadAloud) = 10; shape-conforming focus rings on tiles, puzzle pieces, baskets, breadcrumb links, chips and swatches = 10; touch & tremor resilience = 10; print action button on handout = 10; zero dead-ends in all games with completion cards (including coloring restart action) = 10; uniform layout order across all 12 games = 10; tactile puzzle elevation & swap destination candidate affordance = 10; language-aware 404 error recovery = 10; visuomotor hover region targeting = 10 | 10.0 |
+| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; every action pairs icon and label (including ReadAloud) = 10; shape-conforming focus rings on tiles, puzzle pieces, baskets, breadcrumb links, chips and swatches = 10; touch & tremor resilience = 10; print action button on handout = 10; zero dead-ends in all games with completion cards (including coloring restart action) = 10; uniform layout order across all 12 games = 10; tactile puzzle elevation & swap destination candidate affordance = 10; language-aware 404 error recovery = 10; visuomotor hover region targeting = 10; instant deterministic ReadAloud button state recovery = 10 | 10.0 |
 | 4 | Structure and semantics | axe on all 3,921 built pages clean (0 violations); heading skips 0; landmarks fixed; app semantics tests pass | 10.0 |
 | 5 | Reflow and large text | site 1,512 of 1,512 runs clean = 10; app 200% tests pass = 10 | 10.0 |
 | 6 | Localization completeness | app keys 100%; site ui keys 100% (64 of 64 languages have footer.pictures); games keys 100%; guides 100%; picture names 68.8% (44 of 64) | 9.38 |
 | 7 | Product integrity | gentle-mode and claims guard tests all pass; zero failure sounds; all user interactions paired with gentle tap sounds | 10.0 |
-| 8 | Verification health | Flutter 668 pass; analysis clean; site 683 pass; build 3,921 pages and check-site 0 errors | 10.0 |
+| 8 | Verification health | Flutter 668 pass; analysis clean; site 686 pass; build 3,921 pages and check-site 0 errors | 10.0 |
 
 Weighted overall: 1.000 + 1.4625 + 1.000 + 1.500 + 1.500 + 1.407 + 1.000 + 1.000 = **9.87**.
 Lowest dimension: localization at 9.38 (floor is 7.0). **The bar (above 8.6, none below 7.0) is met.**
@@ -46,6 +46,8 @@ Lowest dimension: localization at 9.38 (floor is 7.0). **The bar (above 8.6, non
 
 1. Localization (9.38): picture names for the 20 languages left in English (needs a translator; machine output there is unreliable).
 2. Type and contrast (9.75): primary gold text at 6.33:1 (brand decision, kept).
+
+History (round 16): Web Speech API Native Utterance Architecture & Deterministic End State. In `site/src/lib/games/readAloud.ts`, passing plain JS objects to `synth.speak()` caused TypeError in standard browsers requiring `SpeechSynthesisUtterance`. Added native `createUtterance` with fallback, attached deterministic `onend`/`onerror` hooks to restore button state instantly upon speech completion, and added full vitest unit test coverage.
 
 History (round 15): Accessible Coloring Visuomotor Guidance, Region Targeting & Focus Architecture. In `games.css`, added `:hover` targeting on `.color-page [data-region]` (`stroke: var(--gm-primary); stroke-width: 6;`) for pre-tap confirmation; upgraded keyboard `:focus-visible` stroke to 8px high-contrast primary (10px in high contrast mode; system `Highlight` in forced-colors mode); added missing `:focus-visible` ring on `.swatch:focus-visible` (3px primary outline with 3px offset); dynamically surfaced primary restart button upon picture completion eliminating dead ends in `Coloring.tsx`.
 
