@@ -18,6 +18,7 @@ const t = ui(lang);
       <path d="M1 21 9.5 2l8.5 19M3.8 14.5h11.4" />
     </svg>
   </button>
+  <button type="button" class="text-size__btn" data-contrast-toggle aria-pressed="false">{t.common.textSize.contrast}</button>
 </div>
 
 <script>
@@ -49,6 +50,34 @@ const t = ui(lang);
       /* storage blocked: the choice lasts for this page only */
     }
   }
+
+  // Higher contrast deepens the gold used for text and links (6.3:1 to 8.7:1).
+  const CONTRAST_KEY = 'gm-contrast';
+  function contrastSaved(): boolean {
+    try {
+      return localStorage.getItem(CONTRAST_KEY) === 'high';
+    } catch {
+      return false;
+    }
+  }
+  function applyContrast(high: boolean) {
+    if (high) root.dataset.contrast = 'high';
+    else delete root.dataset.contrast;
+    document.querySelectorAll<HTMLButtonElement>('[data-contrast-toggle]').forEach((b) => {
+      b.setAttribute('aria-pressed', String(high));
+    });
+  }
+  const contrastButton = document.querySelector<HTMLButtonElement>('[data-contrast-toggle]');
+  contrastButton?.addEventListener('click', () => {
+    const high = root.dataset.contrast !== 'high';
+    try {
+      localStorage.setItem(CONTRAST_KEY, high ? 'high' : 'standard');
+    } catch {
+      /* storage blocked: the choice lasts for this page only */
+    }
+    applyContrast(high);
+  });
+  applyContrast(contrastSaved());
 
   apply(saved());
   document.querySelectorAll<HTMLButtonElement>('[data-text-size] [data-size]').forEach((b) => {

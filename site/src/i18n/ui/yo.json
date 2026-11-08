@@ -25,7 +25,8 @@
     "textSize": {
       "label": "Iwọn ọrọ",
       "smaller": "Ọrọ deede",
-      "larger": "Ọrọ tobi jù"
+      "larger": "Ọrọ tobi jù",
+      "contrast": "Ìyàtọ̀ tó ga jù"
     }
   },
   "footer": {

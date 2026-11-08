@@ -25,7 +25,8 @@
     "textSize": {
       "label": "የጽሑፍ መጠን",
       "smaller": "መደበኛ ጽሑፍ",
-      "larger": "ትልቅ ጽሑፍ"
+      "larger": "ትልቅ ጽሑፍ",
+      "contrast": "ከፍተኛ ንፅፅር"
     }
   },
   "footer": {

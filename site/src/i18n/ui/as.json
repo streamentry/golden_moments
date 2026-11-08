@@ -25,7 +25,8 @@
     "textSize": {
       "label": "আখৰৰ আকাৰ",
       "smaller": "সাধাৰণ আখৰ",
-      "larger": "ডাঙৰ আখৰ"
+      "larger": "ডাঙৰ আখৰ",
+      "contrast": "উচ্চ কনট্ৰাস্ট"
     }
   },
   "footer": {

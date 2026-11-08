@@ -25,7 +25,8 @@
     "textSize": {
       "label": "Szövegméret",
       "smaller": "Normál szöveg",
-      "larger": "Nagyobb szöveg"
+      "larger": "Nagyobb szöveg",
+      "contrast": "Nagyobb kontraszt"
     }
   },
   "footer": {

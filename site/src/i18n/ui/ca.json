@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Mida del text",
       "smaller": "Text estàndard",
-      "larger": "Text més gran"
+      "larger": "Text més gran",
+      "contrast": "Contrast més alt"
     }
   },
   "footer": {

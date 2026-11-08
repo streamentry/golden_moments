@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Usayizi wombhalo",
       "smaller": "Umbhalo ojwayelekile",
-      "larger": "Umbhalo omkhulu"
+      "larger": "Umbhalo omkhulu",
+      "contrast": "Ukuphambanisa okuphezulu"
     }
   },
   "footer": {

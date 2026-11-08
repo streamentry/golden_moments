@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Guddina barreeffamaa",
       "smaller": "Barreeffama idil-bu'aa",
-      "larger": "Barreeffama guddaa"
+      "larger": "Barreeffama guddaa",
+      "contrast": "Walxaxaa ol-aanaa"
     }
   },
   "footer": {

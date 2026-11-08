@@ -26,7 +26,8 @@
     "textSize": {
       "label": "متن جي ماپ",
       "smaller": "معياري متن",
-      "larger": "وڏو متن"
+      "larger": "وڏو متن",
+      "contrast": "وڌيڪ ڪنٽراسٽ"
     }
   },
   "footer": {

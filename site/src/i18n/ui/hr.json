@@ -25,7 +25,8 @@
     "textSize": {
       "label": "Veličina teksta",
       "smaller": "Standardni tekst",
-      "larger": "Veći tekst"
+      "larger": "Veći tekst",
+      "contrast": "Veći kontrast"
     }
   },
   "footer": {

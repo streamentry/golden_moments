@@ -25,7 +25,8 @@
     "textSize": {
       "label": "Dimensiunea textului",
       "smaller": "Text standard",
-      "larger": "Text mai mare"
+      "larger": "Text mai mare",
+      "contrast": "Contrast mai mare"
     }
   },
   "footer": {

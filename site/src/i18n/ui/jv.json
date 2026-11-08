@@ -26,7 +26,8 @@
     "textSize": {
       "label": "Ukuran teks",
       "smaller": "Teks standar",
-      "larger": "Teks luwih gedhe"
+      "larger": "Teks luwih gedhe",
+      "contrast": "Kontras luwih dhuwur"
     }
   },
   "footer": {
