@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Адеменциа змау ауаа рзы амузикатә усқәа"
+seoTitle: "Адеменциа змау рзы амузика: асиақәеи аидеақәеи"
+description: "Адеменциа змау ауаҩы амузика изцыжәзеиҭартә еиԥш: хаҭалатәи аплейлист аԥҵара, 15 мариоу амузикатә ус, еиуеиԥшым аамҭақәа рзы абжьагарақәа."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Амузика — адеменциа змау ауаҩы шәара ицны шәзыҟало зегь раасҭа имариоу усқәа
+  ируакуп. Уи иқәыԥшра, идин, иҭаацәара ирхылҵуа ашәақәа рыла хаҭалатәи
+  аплейлист еиқәыршәа, рекламада, аҿыцтәи абжьықәа ада иаҳәа, шәашәа,
+  шәнапқәа шәаба, еиқәшәало шәҵәца ма цас иазыӡырыр шәылшоит. Аамҭа иақәшәо
+  аҭынч ма агәырӷьара зҵоу амузика алышәх, абжьы лас иҟашәҵа, ашәа ауаҩы
+  дргәамҵыр уи шәаанкыла.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Хаҭалатәи амузика зегь раасҭа еиӷьуп: иқәыԥшраан бзиа ирбоз астильқәа, иара убас рдин, ркультура, рҭаацәаратә ныҳәақәа рмузика."
+  - "Иаҳәажәо амузика ак заҵәык иазыӡыршәыр, рекламада, ателевизор шәамыркызар еиӷьуп."
+  - "Ашәаҳәара, анапабара, аҵәцара, ма азыӡырра заҵәыкгьы — ари зегь даара бзиахоит."
+  - "Агәы ҭынчыртә аҭынч музыка шәхы иашәырхәа, агәырӷьара азы агәышьҭыхлатәи, ауаҩы ихымҩаԥгарагьы шәахәаԥшла."
+  - "Амузикатә сеансқәа рганахьала ҭҵаарақәа маҷуп; ҳара амузика хәышәтәраны акәымкәа, игуапароу еицырзеиҭаратә уск аҳасабала иаҳҳәоит."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Адеменциа змау ауаҩы изы зегь раасҭа ибзиоу зеиԥш амузикоузеи?"
+    a: "Ауаҩы раԥхьа инаркны бзиа ирбо, иеицырдыруа амузика — лассы рқәыԥшраан, рдин, ркультура, рҭаацәаратә ныҳәақәа рмузика. Алшара ыҟазар, дара иалырхла. Ргәы иахәо збан ауаҩы ихаҿи ицәеижьи шәрыхәаԥшла, ргәы зырҭысра иашаӡо зегьы аанкыла."
+  - q: "Анаушникқәа шәхы иашәырхәалароума?"
+    a: "Шьоукы анаушникқәа бзиа ирбоит бжьы бзианы иахылаԥшуа азы, егьырҭ рзы уи иԥсыжәҵәыкхоит ма рхы еимырдоит. Раԥхьа аколонка шәҽазышәшәа, шәара еицны шәазыӡырҭә еиԥш. Анаушникқәа шәхы иашәырхәозар, абжьы лас иҟашәҵа, азааигәара шәыҟазаала."
+  - q: "Амузика агәҭынчымра ма агәаалра иацхраар алшома?"
+    a: "Аҭынчи ирдыруеи амузика аҭынч атмосфера аԥҵара иацхраар алшоит, Alzheimer's Association амузика шәара ишәҭаху аҭагылазаашьа аԥҵара иахәаԥшуеит. Ус шакәугьы, ари еснагь аус ауам. Ауаҩы дгәҭынчымзар, ихьуа, дамлаз, абжьқәа, ма дшаԥшаахыз шәахәаԥш."
+  - q: "Адеменциа аҵыхәтәантәи аетап аҿы амузика бзиа ирбар алшома?"
+    a: "Ауаа рацәа илшоит. Alzheimer's Association ишҳәо ала, аҵыхәтәантәи аетап аҟны иҟоу ауаҩы иара убас анапабара ма ихәыҷраантәи ашәа ахьӡҳәара илшоит. Азааигәа шәтәа, амузика лас иҟашәҵа, инапы шәымазар ма еиқәшәало шәҵәца."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Амузика — адеменциа змау ауаҩы ицны шәзыҟало зегь раасҭа имариоу усқәа ируакуп. Уи акгьы аҭахра амам: ииашоу аҭакқәа, ма шьҭахь аус аԥҵара аҭахӡам. Ирдыруа ашәа аччара, ашьапы анапабара, ма ажәақәа кьаҿқәа рыхьӡҳәара аанарԥшыр алшоит, ацәажәара уадаҩу амш агьы. Шәара ишәҭаху ари ауаҩы иақәшәо амузикеи, уи иазыӡырҭә аҭынч амшеи заҵәык ауп.
 
-## What music activities work for people with dementia?
+## Изеиԥшроу амузикатә усқәоу адеменциа змау ауаа рзы ибзиоу?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Азыӡырра, ашәаҳәара, анапабара, аҵәцара, амузика ахцәажәара зегь бзианы аус ауеит. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) амузика арҳәара, амузикеи асахьаҭыхҩи рганахьала ацәажәара, еицырдыруа ашәақәа рыла ашәаҳәара ма акәашара, аконцертқәа рахь ма амузикатә программақәа рахь ацара абжьанагоит. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) иазгәанаҭоит анапабара ма акәашара еиԥш иҟоу аҽаҭыхрақәа агәырӷьара шацҵо, ажәақәа уадаҩхалакгьы амузика аимадара аԥҵаразы бзиоу амҩаны ишҟало.
 
-## How do you build a personal playlist?
+## Шаҟа бзианы шәырхиар шәылшозеи хаҭалатәи аплейлист?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Зегь раасҭа ихәарҭоу уск — ари ауаҩы изы ҵакы змоу амузикатә плейлист аԥҵара ауп. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) иара убас хаҭалатәи ҵакы змоу амузика азгәанаҭоит. Абантәи шәара имариоу амҩа шәԥшаар шәылшоит.
 
-### Start with their life
+### Рира шәалага
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Рқәыԥшра амшқәа.** Дара рқәыԥшраан арадио аҟны, акәашарақәа рҿы, акиноқәа рҿы излацәажәоз шәхәыц.
+- **Аныҳәа дуқәа.** Рчара, раԥхьатәи акәашара, рҭаацәаратә аныҟәарақәа рзы бзиа ирбоз альбомарҭа.
+- **Адинтәи акультуратәи ҭагылазаашьа.** Адинтә шәақәа, адинтә музика, ма раԥхьатәи рбызшәала иҟоу ашәақәа.
+- **Аусуреи аррауреи.** Амарштә оркестрқәа, аусуратә шәақәа, ма арра аамҭа иадҳәалоу амузика.
+- **Аҭаацәа еиқәырхаз.** Ршьоура, рхәыҷқәа, рҩызцәа иргәалашәо, еснагь ирҳәоз ма ззыӡырҩоз шәразҵаа.
 
-### Think in genres, not just songs
+### Ашәақәа рыда, ажанрқәагьы шәрыхәыц
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Иахьынтәи шәалагаша шәзымдыруазар, абарҭ рҟынтә шәааиԥмырҟьаӡакәа хәыҷык шәазыӡыршәыр, рреакциа шәахәаԥш: биг-бенди свинги, ду-уоп, моторни соули, раԥхьатәи рок-н-ролл, кантрии вестерни, блуграсс, адинтә шәақәеи агимнақәеи, Бродвеитәи ашоуқәа рашәақәа, аджазтә стандартқәа, латинатәи амузика (болеро ма мариачи), полка, ажәлартәи аклассикатәи музика. Аччара ма анапабара зырҿио аанкыла; ргәы зырхызра аашәмыркын.
 
-### Make it easy to play
+### Арҳәара марианы иҟашәҵа
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Рекламада.** Alzheimer's Association иазгәанаҭоит ареклама ахьеибаркуа шылшо. Иҭагалоу амузика, CD-дискқәа, пластинкақәа ма реклама змам асервис шәхы иашәырхәа.
+- **Имариоу ак дивайс.** Акнопка ду зку аколонка, ма ихиоу аплейлист, даргьы иарбанзаалак ауаҩы иласны иарҳәарц азы.
+- **Ҩ-сиак кьаҿык.** Агәыҭынчразы аҭынч сиа, агәырӷьара азы агәышьҭыхлатәи сиа.
+- **Ианышәҵа.** Ауаҩы ихьӡи «бзиа ирбо амузика» ҳәа адивайс аҿы ианышәҵа, аҭаацәеи ахылаԥшцәеи иахьахәо иарҳәарц азы.
 
-## 15 music activities to try
+## 15 музикатә уснагӡратә
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Еицышәазыӡырыр.** Егьырҭ аусқәа шәаҟәыҵны еицны шәтәа. Азыӡырра заҵәык иахәо уснагӡрауп.
+2. **Ашәа еицыжәҳәа.** Шәара шәхаҭа ашәаҳәара шәалага. Абжьы маҷла ахьӡҳәарагьы даара бзиоуп.
+3. **Анапабара ма аритм ашьҭашәара.** Ашьапы ма астол шәаса, ма ахәыҷы барабан ма шеикер шәхы иашәырхәа.
+4. **Аҭынч кәашара.** Шәнапқәа еибакыны акыҭын аҿы шәҵәца, ма шәтәаны шәнапқәа еиқәшәало шәырҵәца.
+5. **Ахҭарԥақәа рыла акәашара.** Амузика иақәыршәаны ласоу ахҭарԥақәа шәырҵәца, шәтәаны ма шәгыланы.
+6. **Амузика ахцәажәара.** Шәааԥхьа, шәрымыршәшәан: «Ари акәашара ҭыԥ иеиԥшуп. Акәашарақәа шәызлацәажәа». «Ари ашәа шәгәалашома?» ҳәа ахаан шәрызмырҵааит.
+7. **Альбом зегь арҳәара.** Бзиа ирбоз апластинка анҵамҭа алагамҭа инаркны аҵыхәтәанинӡа арҳәара, акаҳуа шәҭыцызтә.
+8. **Альбом асахьақәа рахәаԥшра.** Ажәытә пластинкақәа рсахьақәа амодеи, амашьынақәеи, ахаҿқәеи рыхцәажәаразы даара бзиоуп.
+9. **Мюзикл ахәаԥшра.** Рқәыԥшра аамҭа иатәу амюзикл ма аконцерт ахәаԥшра ахәылбжы бзиа аԥнаҵоит. Аԥсшьаразы аанкыларақәа ҟашәҵа.
+10. **Ирдыруа аинструмент арҳәара.** Пианист ма гитарист иакәыз ауаҩы имариоу ахәмарра иахәар ҟалоит. Анаҩс, хәыҷык анотақәа еицыжәҳәаргьы иазыхоит.
+11. **Аусураан амузика арҳәара.** Амаҭәа агәылцара ма астол ахиара аамҭазы бзиа ирбо ашәақәа шәырҳәа.
+12. **Шьыжьтәи ашәа.** Аеснагьтә шьыжь агәырӷьаратә шәа заҵәыкла шәалагала.
+13. **Адинтә шәақәа рыҳәара.** Рдин иатәу амузика арҳәара, еицны ашәаҳәара.
+14. **Ашәаҳәаратә гәыԥ аҿы аҽалархәра.** NHS ишҳәо ала, ашәаҳәаратә гәыԥқәа агәҭынчреи агәышьҭыхрази бзиоуп. Шәраигәара адеменциа змау рзы ихәарҭоу ахорқәа шәразҵаа.
+15. **Аԥсы зхоу амузика ахәаԥшра.** Аҭыԥантәи аконцерт кьаҿқәа ма амҩаду аҿы иҟоу аоркестр. Аҭыҵырҭа азааигәа шәтәа, ишәҭахыу аамҭазы шәца.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Ирдыруа ажәақәа рыла имариоу ахәмарразы, [finish the saying](/games/finish-the-saying/) шәҽазышәшәа, уаҟа аҵыхәтәа еснагь аарԥшра алшоит.
 
-## Matching music to the moment
+## Аамҭа иақәшәо амузика алыхша
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association абжьанагоит шәара ишәҭаху агәаҳәара аԥҵаразы амузика ахархәара: аҭынч атмосферазы аҭынч музика, агәышьҭыхразы ауаҩы иқәыԥшра аамҭа иатәу агәырӷьаратә шәа.
 
-| Moment | Try | Tip |
+| Аамҭа | Шәҽазышәшәа | Абжьагара |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Ашьыжь аҿыхра | Ирдыруа, агәырӷьаратә шәа | Ацыхәтәантәи еснагь иҟоу ашәа ахьӡҳәара имариоу дырганы иҟалоит |
+| Аҩны аусурақәа | Бзиа ирбо агәышьҭыхлатәи шәақәа | Амузика аусура аҩыза ҟанаҵар алшоит |
+| Афараан | Ласоу аинструменталтә музика | Афара иаԥырхагамхарц азы абжьы маҷ иҟашәҵа |
+| Агәылбжы алагамҭазы | Бзианы иарлашоу аҭыԥ аҿы аҭынчи ирдыруеи амузика | Шәахәаԥш [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Ацәара аамҭазы | Имырласӡо, ласоу амузика | Абжьи алашеи еицны шәырласла |
+| Аҵыхәтәантәи аетап | Зегь раасҭа бзиа ирбо ашәақәа, даара лас иҟаҵаны | Азааигәа шәтәа, инапы шәымазаала |
 
-## Tips for a good experience
+## Ибзиоу аԥышәа аиуразы абжьагарақәа
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Егьырҭ абжьқәа шәырҵәах.** Alzheimer's Association абжьанагоит амузика заҵәык иаҳәартә еиԥш аԥенџьырқәеи ашәқәеи рыркра, ателевизор аҿыхра.
+- **Абжьы лас иҟашәҵа.** Амузика бжьы ду аламкәа, игуапароуп. Ауаҩы азыӡырратә аппарат ихы иаирхәозар, уи аҿакузар бзианы аус ауазар шәахәаԥш; шәахәаԥш [hearing](/brain-health/hearing/).
+- **Агәкаҳара зырҿио ашәақәа шәырцәахьча.** Шьоукы ашәақәа агәаалра, аибашьра, ма аԥсыҽра ргәаланаршәоит. Ашәа ргәы иахәамзар, шәырҭынч, ашәа шәаԥсах.
+- **Дара иалырхла.** Алшара ыҟазар, ауаҩы амузика далырхла, «мап» аниҳәагьы уи шәақәшаҳаҭха.
+- **Иарбан аамҭазгьы аанкылара шәылшоит.** Ху минуҭк амузикагьы ԥышәа бзиоуп. Аҿыхрагьы, ҭынч аҭагылазаашьагьы убас бзиоуп.
 
-## What does the research say about music and dementia?
+## Иарбан хықәкқәоу иаҳҳәо аҭҵаарақәа амузикеи адеменциеи рганахьала?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Ашьақәырӷәӷәарақәа маҷуп. [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) агәыԥқәа рҿы еиҿкаау 30 музикатә ҭҵаара ирыхәаԥшит. Урҭ асеансқәа егьырҭ ахылаԥшра еиԥш иҟоу аҭагылазаашьа иаҿурԥшуаз адепрессиатә дыргақәа маҷк ирԥсыҽуаз ҟалап ҳәа иазгәанаҭеит, аха агәҭынчымра, агәабзиара, ма ахәыцреи агәалашәареи рҿы иарбанзаалак аҵак ду шамам, асеансқәа ранҵәа ашьҭахьгьы акгьы шанымхаз аанарԥшит.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Ҳара амузика ахархәара аҳәара ахьаҳҭо хәышәтәраны акәымкәа, игуапароу, уадаҩра змам еицырзеиҭаратә уск аҳасабала ауп. Агәыԥтә ҭагылазаашьақәа рзы, шәахәаԥш [care home group activities](/activities/care-home-groups/); афотосахьақәеи аҭоурыхқәеи инарыцны амузика ахархәаразы, шәахәаԥш [reminiscence activities](/activities/reminiscence/).

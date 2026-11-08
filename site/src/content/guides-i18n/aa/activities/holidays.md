@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Kas-dago Luk Yan Numuk Iiditteh Taamoomi"
+seoTitle: "Kas-dago Luk Yan Numuk Iiditteh Malitte"
+description: "Kas-dago luk yan numuk iiditteh sabab taamoomi: bilqo, muusika, suwora kee vidiyo esseroora, aydoodi salfan luk dooran gita."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Iiditte celtiseh dagoomu, ayro maqaaneh koboxisaay numuk umman taamoomi
+  geytima gidah xabbaqisa. Salfan luk yan taama kaah yaceen: xaqma maadisa,
+  qadurre kalqala, haddiya faasisa hiddov bilqo kaxxaayisa. Taaxigeenimih
+  muusika kee wadir suwora edde gacisa, saayisootah elle yabsaay, qasbi maliino
+  buxa axceen. Xiqtaanam xiqtan; uqunxaay sabab yan iid maqaaneh tan.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Carra kas-dagiyyo taamite tekkek, iid saaku ayroh gexsit kee laqoh wakti aba."
+  - "Numma taamoomi kaah yaceen: xaqmah kurro bilqisa, qadurre kalqala, haddiya duuga, hiddov xalxalisa."
+  - "Yaaxigeenimih muusika kee wadir suworitte aydoodi edde xayyowtamih sabab gita."
+  - "Saayiso yamaateenimih ayti kaah yaceen, numuk yamaate marih suwora kaat yaasisen."
+  - "Qasbi maliino buxa kaxxam yaaxigeenih tan godba luk diwisisa, saayisoota koboxisa waan."
+  - "Kaxxa gititte kee taqbi luk yan bilqo, xaqmah celtiya luk yan bilqitte kalqala."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Kas-dago luk yan num kaxxa iidil maay abaam duddah?"
+    a: "Asha duddah yan sabab taama kaah yaceen: qadurre xiqla, xaqmah suugo sissikah koboxisa, taabilah kura bilqisa, mandafeera xalxalisa hiddov maaqo sahankal daacisa. Tohik lakat, buxah wadir suwora waraara hiddov yaaxigeenih tan baaroora ittalluk abbaxaanam dudda. Saaku edde yan marih celta taama akkinnay taamak meqem kaxxam celtisa."
+  - q: "Kaxxa buxah maro ittalluk gaaboynam faxximtaa?"
+    a: "Xiqtam duddan tekkek dibuk aba. Caxayti kee kaxxa qasbi numuk taqbi tawayik, maggo maro dagoomu, salfan yan gital, hiddov dago-dagooh yamaateenim xiqtam dooraana. Alzheimer's Association dacrisak geytimta mara xiqtaanimi kee salfan yan gital abbaxa axceen."
+  - q: "Dheera wakti gaba kalah suge buxah mara mannal dacrisiyya aban?"
+    a: "Yamaateenik aamawuk numuk geytimta kas-dagneh calat elle waraara, toh biyaakak yemeeteemiy numuk akke kaluk. Ayti kaah yaceen kas-sissikah cato kalak, inki-inkih yaboonuuy, gaba-kalto yaheen gidih wakti kaah yaceen. Yamaate marih suwora kaat yaasisenim kaxxam qokolta."
+  - q: "Kas-dago luk yan numuk iidil maahaddiita meqetee?"
+    a: "Salfan, saliiqah yan xiqtam duddan haddiita: kaxxam yakke caw, ruffo iyya godba hiddov buudiyya, yaaxigeenih tan muusika, hiddov buxah suworitteh kitaaba. Gibdi elektroniks, daqar taamoomi kee cawkaari abte gita kalqala. Haddiita duugam hiddov kookis kaah cato abaanam isih kaxxa haddiya."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Iiditte kaxxam meqe wadir kassititte gacissam duddah, kinnih immay kaxxa qasbi, maro kee umman saakuh calat baxaabaxsa luk yamaate. Kas-dago luk yan numuk, meqe iiditte dagoomu, salfan luk yan gital kaat meqeemik abaanam kinni. A malitte Kaxxa Iidi, Kirismas, Hanukkah, Kusaaqih Sanat kee buxah maroh aydoodih duddam kinni.
 
-## How do I plan a calmer holiday?
+## Sabab yan iid mannal malkaaxisan?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Numuk umman saakuh taamoomi geytimta gital abbaxaay, aydoodi kaah malkaaxisa. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) iiditte saaku laqoh wakti abaanam qokolta, maacis carra kee saytun saaku kas-dagiyyo kaxxaaba yamaateemik sabbatah. Iidih laqo carrah maaqok kaxxam sabaf luk tani.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Dago maro edde gila.** Dagoomu, salfan yan maro, hiddov saayisoota dago-dagooh yamaateenim kaxxa kurroh marok salfan luk tani.
+- **Taamoomi feera.** Buxah mara maaqo baahaanaah, gabaah taamoomi abaanaah, hiddov atu maaqo bilqisa wakti numuk kaat sugam essera.
+- **Bilqo sabab gital xabbaqisa.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) bilqih noori caxxayta kas-dagiyyo baaham duddaaxay, xaqmah celtiya bilqo maaqoh yaaloonum warsa.
+- **Taqbi luk yan taama caba.** Iidih abto taqbi luk tekkek, cabaanam hiddov salfan gital gacanamaay meqe gitay.
 
-## What holiday activities can we do together?
+## Ittalluk abnam duddah tan iid taamoomi maaneeti?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Asha numuk abam dudda taamoomi doora. Saakuh gaba-kalto taama tekkem taamak meqem kaxxam celtisa.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Maadisa xaqmah kurro ittalluk bilqisa.** Sahankal qimbisa, tohik lakat mandafeera, tohik lakat koobayte daacisa.
+2. **Qadurre xiqlaay kurra.** Badaatiita xiqlaay qadurre sissikah kurraanamaay numuk yaaxigeenih tan gita.
+3. **Maaqo koboxisa hiddov xalxalisa.** Cranberry sauce koboxisa, keekeh garqo bilqisa hiddov sahanal kookis daacisa gila.
+4. **Haddiya faasisa.** Waraqata kee teyp qimbisaay kaah dacay, numuk xalxalisam kee duugam caba.
+5. **Dago bilqitte xalxalisa.** Kaxxa gibdi maliino bilqitte kee inki uqunxa caral bilqisa.
+6. **Sabab yan gaba-taama aba.** Waraqatah cawwal, xagar bilqo hiddov iidih kaardi bilqisa. Nanu [arts and crafts guide](/activities/arts-and-crafts/) maggo malitte luk yani.
+7. **Muusika oobaay baara.** Yaaxigeenih tan iidih baaroora ittalluk abbaxaanam dudda. Nanu [music guide](/activities/music/) playlist abtan gita luk yani.
+8. **Wadir iidih suwora waraara.** Wadir iiditteh suworitte eweqisaay yalluk yabisa ("A kurroh xaagak yoh wara") iyyaanam akke kaluk numuk migaq essera kaluk. Nanu [reminiscence guide](/activities/reminiscence/) elle facrisa.
+9. **Meqe maroh cawkar aba.** [Picture bingo](/games/picture-bingo/) daqiiqal tabsaay inkih yan maroh meqe, [conversation cards](/games/conversation-cards/) maroh yab geyta.
+10. **Ittalluk ranga aba.** Sabab [coloring pages](/games/coloring/) baxaabaxsaleh xaylo kee kaxxa maroh ittalluk tabsaanah duddan.
+11. **Kaxxam kaxxa iidih filmi waraara.** Yaaxigeenimih filmi carra salfan gita, gaba-kalto gita waraaraanam duudusse.
+12. **Bilqih noori yaabalen gidih gaarih gexa.** Bilqisoonu buxooxah gexsit kaxxa maroh koboxuk salfan luk tani.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Maaqo bilqisam kaxxa taama numuk tekkek, nanu [household tasks as activities](/activities/household-tasks/) kikiinih taamoomi mannal meqe gital aban gita facrisa.
 
-## How do I prepare guests?
+## Saayisoota mannal dacrisan?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Saayisootah yamaateenik aamawuk waraara, kaxxam dheera wakti gaba kalah suge buxah mara. Alzheimer's Association kas-dagne kee abtooti biyaakak yamaateemiy numuk akke kaluk warsaanam qokolta.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Dago sabab malitte warsa:** inki-inkih yaba, yab duudusam kaah caba, kas-sissikah cato kalak, yabaam gibdi tekkek kaah ooba.
+- **Meqem kee taqbi baaham waraara.** Kaxxa qasbi, sissikah taama hiddov gibdi yab tekkek, aytil kaah yaceen.
+- **Saayisoota aamawuk yaasisen.** Numuk yamaate marih suwora kaat yaasisen hiddov aamawuk fonih yab abaanam qokolta.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Nanu [communication tips](/caregiving/communication-tips/) maggo xaagitte luk yani.
 
-## What if it gets to be too much?
+## Kaxxa gibdaabina tekkek mannal aban?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Saayiso yamaatek aamawuk qasbi maliino buxa kaxxam diwisisa, kaxxam yaaxigeenih tan godba, buudiyya hiddov sabab yan taama luk. Sissikah kaat xayyow: "Qasbi maliino buxal dagoomuk maay gexna?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Kurrok eweqaanaah, sissikah diinaanaah, hiddov iidih inki gita cabaanam meqe gita kinni. Numuk kas-dagiyyo tekkek, salfan qasbi, yaaxigeenih tan baaro hiddov aka buxah gexsit kaxxam qokolta. Nanu [late-day restlessness](/caregiving/late-day-restlessness/) carrah taqbih malitte luk yani.
 
-## How can family far away take part?
+## Xeeri buxah mari mannal edde yaaguren?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Vidiyo fon buxah mari kaxxa koboxu edde heekaleh edde yaaguren gita yacee. Alzheimer's Association vidiyo fonih taama malkaaxisaanam qokolta, ceelalloh iidih baaroora baaraanaah, wadir suwora ittat yaasiseenaah, maaqo inki gital bilqisaanaah, hiddov inki wakti filmi waraaraanama. Vidiyo fon uqunxisaay, inki-inkih yaboonuuy, maroh qasbi gabat gacaamak. Nanu [phone and video call guide](/activities/phone-and-video-calls/) gititte luk yani.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Num memory care buxal sugay tekkek, saayisootah seeriyya waraaraay qokol essera. Nanu [visiting someone in memory care](/activities/visiting/) baahaanam kee koboxisaanama facrisa.
 
-## What gifts suit someone with dementia?
+## Kas-dago luk yan numuk maahaddiita meqetee?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Salfan, saliiqah yan xiqtam duddan haddiita: kaxxam yakke caw, ruffo iyya godba hiddov buudiyya, yaaxigeenih tan muusika, kaxxa kitaabah ayroora, hiddov buxah suworitteh kitaaba. Alzheimer's Association cawkaari abte gita, gibdi elektroniks kee daqar taamoomi kalqala iyyaana.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Haddiya yaceenim kee geyaanaam inki celta. Kookis kaah cato abaanam hiddov haddiya faasisaanam isih kaxxa haddiya kinni. Buxah suworitteh cawkar aka gita: [photo pairs](/games/photo-pairs/) dooraanam braawseril meqe maroh cawkar tewqe.
 
-## Look after yourself too
+## Isih cato edde geytam dudda
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Iiditte dacrisiyyah taamal kaxxa taama xayyowta. Aka num kaxxa koboxu bilqisay, gibdi aydoodih maale iyyaay, aka mari numuk suga wakti atu cato gey. Atu hiddov ku mikat yan num biyaakite tekkek, xeerik salaamata yaceenim hiddov vidiyo fon kaxxam meqe gita. Nanu [caregiver self-care](/caregiving/caregiver-self-care/) maggo cato luk yani.

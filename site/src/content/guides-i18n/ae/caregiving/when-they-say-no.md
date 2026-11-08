@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Yaδa Nā Vīmanaŋha Śyōθnem Nōit Vasiti Ayāp Tbišyaiti"
+seoTitle: "Yaδa Nā Vīmanaŋha Śyōθnem Nōit Vasiti"
+description: "Čim nā vīmanaŋha śyōθnem nōit vasiti, čiš tarō carōi, čiš paiti-yānəm, yaδaca bēšazəm āsitō caraiti."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Yaδa nā vīmanaŋha "nōit" paiti-mravaiti, rāmən stūi paiti-gərəmbayehi,
+  tarōca pascaēta paiti-yāsa ayāp anyō paiti-bara. Nōit-vasnā bā vīciθrem
+  dāiti: śyōθnem dərəzraŋhō ayāp apərənāyuš asti, šē śkənda, vī-xrūnara,
+  xušaŋha ayāp xratu-dāra. Mā paiti-ərəzyōi, mā arəm paiti-dārayōi.
+  Frāyō nyānke, duva vīciθra paiti-bara, ayāp avaŋhō yāsa. Yezica
+  varəz-vīciθra āsitō vī-taraiti pasca ruxtīm ayāp baēšazem,
+  bēšazahe paiti-zbayōi drasu.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "\"Nōit\" asti paiti-saŋha yō aša-bərəti-vasnā, nōit arəθra yim tarō-carōi."
+  - "Nōit-vasnā aētahmi cə̄-vərəzəm: dərəzrō, apərənāyu-stō, šikənda, a-drva, arata ayāp gərəzda."
+  - "Apa-gasa, dāra pasca, tarōca pascaēta kərənu, ayāp nyānkō-kərətayā."
+  - "Avaŋhō yāsaiti vahištō asti yaδa frasa-dāite śyōθnahe."
+  - "Mā paiti-pərəsa, mā dərəzyōi, mā arəm carōi. Hva-harətayā mā spasyōi mā zbayōi."
+  - "Varəz āsitō paiti-tācaiti, pasca ruxtīm ayāp hāu baēšazem, bēšazəm zbayōi drasu."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Bavāiti yaδa a-śyōθna vispō caraiti?"
+    a: "Bavāiti, aētahmī ayān. Hadha āsna, gaošāyā sravō srvīyeiti, ayāp dāmīm spasyeti bawainti. Yezica nā vispāiti a-xšnūto vištaraiti haptaθaēšu, bēšazāi mrūhi; mana-vīcāra, bīši ayāp a-drvatāt bā paiti-caraiti."
+  - q: "Čim nōit vasiti yā parō zaošō āha?"
+    a: "Parō-zaoša paiti-tbišiti yaδa hunarā yā dužxratu-kərəta dərəzrō bavāiti, nāca paiti-xrapaiti. Śyōθnahe nyānkō dāsa: gaozda vī-cina tarō tūyete, ayāp vara-patara spasya tarō varaiti."
+  - q: "Vasəmi aēibyo paiti-mraocayeiti?"
+    a: "Nōit. Dərəzra-kərəta aētahmī yim vīmanaŋha a-kərəti dāiti paiti-gərəzaiti. \"Nōit\" paiti-gərəmbaya, gōiθīm anyō-kərənu, pascaēta tarō bara ayāp anya-patara."
+  - q: "Kaδa varəzahe vītarəti āsitō yānəm asti?"
+    a: "Zbayōi 911 yezica duš-kərəti asti ayāp bēšazahe āsitō caraiti. Āsitō pərətu-manah ayāp varəz yā asū tācaiti antarə asnya ayāp xšafna, haca tafnō, ruxti ayāp nava-baēšaza, bēšazəm zbayōi drasu."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Vispem hąm-dārayehi, urvāzəm ayāp gātum paiti-barahi, āat srvīyeiti "Nōit." Ayāp śyōθnem vohu paurvim caraiti, pascaēta paity-aoxta tablet apa-nīšti uγraca vačō. Hāu a-zōrəm asti, manaca pouru-gātum. Nōit-vasnā tbišyacā asti saŋha, nōit staxta-manah. Yezica vīcayehi čiš hāu saŋha asti, pascaēta paiti-dīši čiš tarō carōi.
 
-## Why does someone with dementia refuse activities?
+## Čim nā vīmanaŋha śyōθnem nōit vasiti?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Bavāiti bā vīciθrem, yezica nā nōit vī-vaci paiti-mraoti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) saŋhaiti yaδa paiti-ricyeti bavāiti a-kərəitīm ayāp tarshtim śyōθnahe. Pouru carəti aēte:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Dərəzrō zbayāiti.** Śyōθnem nū hunarā yāsaiti yā dužxratu-kərəta dərəzrō bavāiti, a-kərəti pasca cašmanō paiti-xrapaiti.
+- **Apərənāyuš manaiti.** Narō avacašāt patara apərənāyu-stō, apərənāyu-srava, śyōθnaca yā apərənāyu-dātā bavaiti.
+- **Škənda.** Pouru māraka nūra tarō asni a-zōrō bavaiti. Dīsa [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+- **Tanu-arata.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) paiti-caiti bīšīm, a-xvafnem, a-spashtīm, a-gaošīm, šuši, xušanhe, tarašnhe, nava-baēšazaheca a-vərəzīm yaδa bīš-kərətayō.
+- **Pouru-varəz.** Uγra TV, pouru gaoš-srava, ayāp pouru-nāra nmānem rāmən apa-baraiti.
+- **Dərəzra-kərəta.** NIA saŋhaiti yaδa dərəzrō caraiti śyōθnem yim Alzheimer a-kərəti dātā, ayāp paiti-zbayōi paiti-stīm ayāp māraka, tbišīm dāiti.
+- **Mana-nyānka.** Ava-gərəzda zaošahe bavāiti dakhyu-drvatāt, yim bēšazāi mrūhi.
+- **Hva-vasnā nōit vasiti.** Narō dātem asti "nōit" mravōi.
 
-## What should I try when they say no?
+## Čiš carōi yaδa "nōit" paiti-mraoti?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Rāmən "nōit" paiti-gərəmbaya, pascaēta vī-caro: zrvānem, śyōθnem, dərəzrīm, ayāp paθem yā paiti-barahi.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Apa-haca aētahmī.** "Vohu asti. Tarō pasca." Pascaēta anyō śyōθnahe cara a-staoma.
+2. **Pascaēta paiti-yāsa.** Alzheimer's Association saŋhaiti paiti-yāsaiti tarō zrvāne, ayāp anyahmī asni zrvāne.
+3. **Nyānko kərənu.** Aēva hąm-dāta tarō vispem urvāzem. Aēva vastra tarō vispem vastra-cithrem. Kamna patara, kamna vīciθra, patara dīšti vīspāiti.
+4. **Duva vīciθra paiti-bara.** "Vasəhi vī-dīti vīš-patara ayāp sraošem sravahe?" Vīciθra rāzahe dātem paiti-dāiti.
+5. **Avaŋhō yāsa tarō pərəse.** "Bavāiti yaδa mām avaŋhō paiti-barahi vī-cina?" ayāp "Maza vaŋhō raočas paiti-vaēnahi?" Avaŋhō yāsaiti vī-taraiti yaδa pərəsetayā.
+6. **Hva-paurva kərənu.** Frā-cara śyōθnem hadha a-pərəsa. Pouru māraka paiti-hācaiti yaδa śyōθnem caraiti, yezica nōit paiti-hācaiti, hadha zrvānem carəta.
+7. **Tanu-śyōθnem ayāp rāzarəm paiti-bara.** Nyānka gātu, sravō, xᵛarəθem, vastra-hąm-dāti, ayāp hadha [calm breathing](/games/calm-breathing/) rāmən. NIA saŋhaiti paiti-naya manah sravāi, drafšāi, ayāp gātau.
+8. **Hva-paθā dāsa.** Yezica tarō urvāzaiti yaδa rāza saŋhaiti, hadha gata. Alzheimer's Association saŋhaiti nərə-carəm bavāiti.
 
-## What should I say when they get frustrated?
+## Čiš mravōi yaδa tbišyaiti?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Nyānko kərənu, gaoš-srava apa-naya, rāmənca dāiti. [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) saŋhaiti apa-gasa, dātem yāsa, vohu rāma-vačō mravōi, duvaca vīciθra paiti-bara. Vačō aētahmī manahi:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Xšnūto, aēm śyōθnem tbišyaiti. Apa-stāma."
+- "Vohu carahi. Azəm idat asti."
+- "Zrvānem dārayehi mām anyahmī avaŋhō dāite?"
+- "Bavāiti yaδa cayem xᵛarāma?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Pascaēta śyōθnem apa-dāra a-mərəzān. Amāxšəm [communication tips](/caregiving/communication-tips/) pouru vačō paiti-dāiti.
 
-## What should I avoid?
+## Čiš paiti-ricyāi?
 
-Some natural reactions tend to make things worse.
+Katāra-carəti a-vohu bavāiti:
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Paiti-ərəzyōi ayāp dərəzyōi.** "Āyasa, aēva anyō" ayāp "Imam zaošō dārayehi" nōit avaiti.
+- **Pərəsatayā ayāp arəmo-kərənu.** "Vaēda čiš aēm asti" ayāp "Nōit, aēm a-vərəzyō" dərəzrīm dāiti.
+- **Tanu-gərəzda carōi.** NIA paiti-zbayaiti harətarə yaδa aēm bīši, nōit narō, aētahmi vī-kərəta dāiti.
+- **Uγro gātus ayāp āsī-caraiti.** Alzheimer's Association saŋhaiti mā uγro gaoš-srava zbayōi, mā tarshtīm dīši, mā staxto-gātu kərənu, mā a-paiti-dīti, mā tbišyōi, mā asu-caraiti apa cašmanō.
+- **A-vohu dārayeiti.** "Azəm vispem tvahmī kərənva" yezica duva a-xšnūto bavāiti.
+- **Nāmēn saŋha.** "Staxto" ayāp "dərəzro" arəθra apa-gouzeti.
 
-## How can I find out what is behind repeated refusals?
+## Čiš paθā vaēdōi čiš pasca paiti-ricyeti dāiti?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Aēva-dvaya haptaθa nyānko nibərəza dāraya. NIA saŋhaiti varəzahe nibərəzaiti harətarahe bēšazaheca avaiti rāzem vaēdōi arəθremca hąm-dāite.
 
-Jot down:
+Nibərəza:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- zrvānem asne;
+- čiš paiti-barahi paθaca yā pərəse;
+- čiš paiti-stāt caraiti (gaoš-srava, yāsāra, TV);
+- yaδa xvafnaiti, xᵛaraiti, vī-xᵛaraiti, kaδaca šuši caraiti;
+- nava-baēšaza ayāp asū ruxtīm.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Rāzo asū paity-āiti: nōit-vasnā yā pasca 4 p.m. caraiti, aēva aēahmī urvāze, ayāp yaδa TV vərəzyaiti. Family Caregiver Alliance [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rāzəm paiti-mraoti: nōit narəm vī-carəma, bā hva-carətīm paiti-stātīmca vī-carəma.
 
-## When should I talk to a doctor about refusal or frustration?
+## Kaδa bēšazāi mravōi haca nōit-vasnā ayāp tbišīm?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Bēšazāi mrūhi yaδa varəz āsitō, asū, ayāp hadha bīši-dīštīm vī-taraiti. NIA saŋhaiti āsitō ayāp asū vī-tarəti varəzahe, kasu yezica ruxtīm ayāp nava-baēšazəm dāiti, drasu bēšazahe paiti-zbayōi.
 
-Contact their doctor promptly if you notice:
+Bēšazəm drasu paiti-zbaya yezica:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- āsitō pərətu-manah ayāp maza vī-tarəti antarə asnya ayāp asne;
+- bīši-dīštīm, yaδa tanu-gərəzda, tanu-dārayeti, ayāp a-śyōθna;
+- tafnō ayāp anyo ruxtīm;
+- nava ayāp vī-carəta baēšaza pasca varəzahe vī-tarəti;
+- vīspāiti zaošahe apa-gasa, gərəzda ayāp apa-stāt tarō duva haptaθa;
+- xᵛarəθem ayāp xᵛarətīm nōit vasiti.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association saŋhaiti vīspe bēšazahe paiti-spasyeti yaδa varəzahe dīštīm asū āiti. Family Caregiver Alliance paiti-dāiti paurva bēšazəm pərəsa, arəθra bā bēšaza-kərəta asti. Mā paurva, mā apa, mā vī-cara baēšaza a-bēšaza a-frasa.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Yezica nā duš-kərəti asti ayāp bēšazahe āsitō caraiti, zbayōi 911. NIA saŋhaiti zbayārai mrūhi yaδa nā vīmanaŋha asti.
 
-## Is it okay if we do nothing at all?
+## Bavāiti yaδa a-śyōθna vispō carama?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Bavāiti. Aētahmī asni vahišta śyōθnem asti a-śyōθnem: hadha āsna, zasta hąm-dāraya, sravo srvīyeiti, ayāp vīš-spasya haca rōčana. Aētahmi nōit asti a-kərəti. Amāxšəm [guide to playing together](/caregiving/how-to-play-together/) paiti-dāiti čim asū apa-stāt, ayāp a-paurva, aša-bərəti asti.

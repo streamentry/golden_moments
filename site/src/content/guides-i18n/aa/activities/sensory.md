@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Dementia le Marah Damqit Aban Caalateena"
+seoTitle: "Dementia le Marah Damqi Caalateena: Yaalitte kee Nagaynan"
+description: "Dementia le marah damqit aban caagiditte, gaba maxaaxuk kaaduk suufe kee ugagih tan sugeenit fanah, nagaynan kacanoodi leluk."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Damqi caagiditte konoy damqit taamitta: ibbixiyya, sunso, tamoo, aabbi kee
+  yabalo. Kas-le gaba maxaaxo, lafaftu le maroh salata, ur le cusub caxxa,
+  ugagih aabbittite, hinnay takkit haada wagittaana. Kulli baaxo kee addat
+  meqem kinnuk, aala dadal addat mangoh tuxiq le. Naharat laqasitoh kacano,
+  allergy, gogih dhibi kee uruh tan caddeeti qellisa, kullumuk inki iim
+  cedeisa, kaaduk num madaqqo waaqay tekkeh kalta.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Damqi caagiditte faxximta cato meceelak ma-faxxa, taamissek kulli dafat addat taamitta, sarir kee korsi addal yan waqdi kaaduk."
+  - "Gaab le qari addal inki damqi inki waqdi cedeisa, kaaduk gaba haak naharat essera hinnay warisa."
+  - "Uqqunhuk yan iimitte kee maaqoh ceelo le hinnay maaqo ur le iimittek xeqa, mara afoh addal heeleenimik sabbatah."
+  - "Kareemitte, ur le iimitte hinnay maaqo cedeisak naharat allergy, gogih dhibitte kee faagih dhibitte qellisa."
+  - "Aromatherapy dementia astootit qoklaaxah daacisiyya le asti aneewayta; ur le iimitte axawah fayxit elle abtaanah tekkeh akke waytek."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Dementia le numuh meqe damqi caagiditte miyya?"
+    a: "Sarraab le yaalitte: kareemil gaba kas-le maxaaxo abiyya, lafaftu le maro ibbixiyya, cusub caxxi ur hinnay bun ur sunsuniyya, kacan le muuziqah hinnay ugagih aabbitte ankaciyya, haada hinnay kulli tanki wagittaana, kaaduk kacan le maaqo nagaynan le dafat tammoomi. Inki iim inki waqdi cedeisa kaaduk num elle yabalo dacrisa."
+  - q: "Afoh addal iimitte haa numuh damqi caagiditte nagaynan liyo?"
+    a: "Dacrisiyyah lih meqe takkeemik xiqta. Laqasitoonum duude wayta kaxxa iimitte calli elle taamita, uqqunhuk yan hinnay kaskassoota iimitte xeqa, kaaduk sarrah kareemitte, saamun kee ur le iimitte gabak xeqa, maaqo celtam hinnay maaqo urteemik sabbatah. Kulli waqdi numuh garil suga."
+  - q: "Aromatherapy dementia addat qokolaa?"
+    a: "Cochrane qellisiisa aromatherapy dementia le mara qoklaah iyyamih daacisiyya le asti mageyinna, tunsussuqitte uqqun kee sissik waytik sugeenimih sabbatah. Num meqe, aaxiguk yan urik fayxi geyek, too tamih meqe, takkay immay gibdi zaytittek xeqa, xalaalay faagih dhibi hinnay allergy yan waqdi."
+  - q: "Fidget hinnay taamoomi apron miyya?"
+    a: "Kaadu maroh xalu, apron hinnay korsi korat iimitte elle urrumtah tanim kinni, kaxxa ziraaritte, zipper, ribboonitte kee lafaftu le maroqoota elle suunissimeteh tan. Taamoomi le gabobah koroosite iimitte yacee. Fanti-fantal furrumteeh korisaanam xiqta iimitte qellisa."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -52,83 +52,83 @@ related: [activities/late-stage, activities/music, activities/outdoor-and-garden
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Damqi caagiditte konoy damqit taamitta: ibbixiyya, sunso, tamoo, aabbi kee yabalo. Kas-le kassit, kas-le kaloota kee kas-le gari cato ma-faxxa, toomah sabbatah kulli dafat addat taamitaanam xiqtaanih. Aala dadal addat mangoh tuxiq le. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) warissam aala dafat addat baaxo aalaak damqootit geytimtam kinnuk, kaaduk ibbixiyya, aabbi, yabalo, tamoo kee sunsol gacsim qellisaanam xiqtaana. Dagoon nagaynan qellisiisitte ta caagiditte kulli numuh rarraq leemih abta.
 
-## What are sensory activities for dementia?
+## Dementia le marah damqi caagiditte miyya?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Damqi caagiditte inki damqih gubal gintam kinni, maro ibbixiyya, cusub caxxa sunsuniyya hinnay rob aabbitte ankaciyya innaah. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) warissam aala dafat caagiditte aalaak damqootit baxxaagisso faxxam, kaaduk muuziqa, ibbixaanah gaba haan iimitte kee gabah maxaaxo elle tembeedde. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) warissam aala dafat addat yan marat rarraq geyooh iimitte xayiik ibbixaanaah faxo lem xiqta.
 
-## Sensory ideas, sense by sense
+## Damqi yaalitte, damqik damqih fanah
 
-### Touch
+### Ibbixiyya
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Gabah maxaaxo.** Dagoon kareem gabal qariirisa kaaduk gaba-kibirik fan gabah faro fan kas-luk maxaaxa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) rarraqah ur wayta kareemil maxaaxiyya tembeedde.
+- **Maroh salata.** Velvet, corduroy, fleece, satin kee wool kaxxa maroqoota ibbixaanaah, alifaanaah kaaduk elle yaabaanaah.
+- **Lafta maro.** Qabbow yanim ayro gabobah lafta, dagal cafafe maro. Qariiro naharat ku gaba-kibiril qellisa.
+- **Taamoomi apron hinnay korsi kora.** Kaxxa ziraaritte, zipper, ribboonitte kee lafaftu le maroqoota gibdik elle suunissimteh tan.
+- **Alifiyya kee soolisiya.** Culan maroqootah salata alifaanaah, sissikuk hannaasoonaah.
+- **Ibbixaanah lafaf le iim.** Fleece throw, cushion hinnay ceelo le lafaftu qidim, axawah yaceenim, qidimih abbaxak akke kalak.
 
-### Smell
+### Sunso
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Cusub caxxa.** Naanaaq, rosemary, basil hinnay lavender ayti faro fantiitil xisisaah cedeisa.
+- **Kushiina ur.** Bun axcaanih yan waqdi, gaqambo toocem, qirfa hinnay burtukaan xayiik korisan waqdi.
+- **Kacanuubitte.** Madaarakaak hinnay suuqik cusub kacan le kacanuubitte baaha.
+- **Aaxigeenim ur.** Usun kulli waqdi elle taamitan saamun hinnay kareem, gogi qoklek.
 
-### Taste
+### Tamoo
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Kacan le tamoo.** Usun kican maaqok uqqun maqlaga, applesauce, pudding hinnay ice cream innaah, nagaynan le dafat alxaanoonum duudan.
+- **Kareebat qokol.** Xuun caxxa hinnay dagoon sokkor tamoo isin maaqo inkih abtan waqdi.
+- **Waqdih maaqo.** Karmat watermelon, gilalil lafta cider, nagaynan le qariirot cedeisan.
 
-### Sound
+### Aabbi
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Kacan le muuziqa.** Aaxigan kacan le gita meqe dafat; wagita [music activities](/activities/music/).
+- **Ugagih aabbitte.** Rob, daaciyyi hinnay haadah aabbitte. NIA warissam muuziqa, white noise kee ugagih aabbitte tu mara rarraqisaah ceelata.
+- **Ku aabbi.** Kaxxa aabbit akriyo, daacaano, hinnay sheeka warisaana.
+- **Sarraab le insturmentitte.** Gabah kabal, shaker hinnay kooleeta muuziqat ankaxiseeniik abaanam.
 
-### Sight
+### Yabalo
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Takkit wagittaana.** Takkik afal haadah maaqo haanaah, xayiik taturta xaylo, hinnay caxaabaano radam wagittaana.
+- **Kullih tanki hinnay kas-le video.** Sissik wayta maymuca kaxxa aabbi malelek.
+- **Kaxxa suuritte.** Inki baxxaagisso le suura inki waqdi, intiih meceelat ibbixaana.
+- **Kalu kee ceelo.** Doolan le maro xalitte, kacanuubitte hinnay doolan le maroqoota fanti-fantal haysiyya, hinnay nanu le [coloring](/games/coloring/) addak sarraab le kalu karraasitaana.
+- **Baxaaxik yan buxa.** NHS sugusem damqi madaarak ur le caxxa, lafaftu kee leeh calat elle yan. Wagita [outdoor and gardening activities](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Damqi saanduq mannal ginaana
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Madqa doora** numih manot xayiik tanim: bahari, madaara, kushiina, taamah qari, suunisiyya.
+2. **Koonu hinnay lici kaxxa, nagaynan le iimitte doora,** kaxxa bahar-qaxu, caxxi maqlaga, lafaf le shal, alifte lavander kora, hinnay biluulic caxxi bilok innaah.
+3. **Kulli iim qellisa** uqqunhuk yan agle, qawke le carfeena, furrumte maro kee kaskassoota iimitte geytimewaytaah.
+4. **Inki iim inki waqdi yawqeem.** Gabaxta, elle yaaba, kaaduk num gaba haamih caba.
+5. **Saanduq sarrah alifa** baxaaxik le yaaba akkeeh, kaaduk sarralih abaanak naharat iimitte kas-luk qellisaanaah.
 
-## Safety first
+## Nagaynan naharat
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Damqi caagiditte kas-leey rarraq leem kinnuk, dagoon kacanooni faxximta. Dementia le mari tu gaba maaqo hinnaah tan iimitte maaqo axceh laqasaanam duudan, kaaduk laqasito aala dafat addat gibdi takkem xiqta; NIA qellisiiseem aala dafat addat laqasitoh gabbooti laqasitoh kacanoodi dadlisam duudam.
 
-| Risk | What to do |
+| Kacano | Macah abna |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Laqasito | Laqasoonum duude wayta kaxxa iimitte calli elle taamita. Ziraaritte, luul, lakqo, tiira hinnay uqqun qidimitte saanduq addat laaleh aneewaytay. Maaqo dacrisiyyah gaba nagaynan liyoh iyyen dafat callil yaceen. |
+| Maaqo celta iimitte | NIA kassiiseem kareemitte, saamun, shampoo kee qushuub alifaanaah heeleenim faxximtam, maaqo celtaanam hinnay maaqo urtaanam duudaanih sabbatah, kaaduk gintoh caxxa kalanaah. Taamisseenik sarrah damqi iimitte xeqa. |
+| Allergies | Qumburo, latex, wool, caxxa hinnay ur le iimittek allergy yan waqdi naharat qellisa. |
+| Gibdi ur | Gibdi qushuub kee zaytittek xeqa, xalaalay faagih dhibi hinnay waraara yan waqdi. Dagoon, ugagih ur meqe. |
+| Gogi | Maxaaxok naharat koboxe, dhibte hinnay lafafti le gogi qellisa. Kas-le kibir haana kaaduk rarraq wayteh kalta. |
+| Qariiro | Lafta maro kee cabbaana naharat ku gabat qellisa. |
+| Qawke le hinnay summi le iimitte | Qawke le qulbaab, kaskas hinnay summi le agle aneewaytay. |
 
-## Does aromatherapy help?
+## Aromatherapy qokolaa?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Meeqaamih astil qokol aneewaytam xiqta. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) 13 tunsussuq kee 708 num dacrisiyyah qaariitik qellise, kaaduk tuxiq leeh axceh daacisiyya le asti mageyinna. Tunsussuqitte uqqun takkem kee catooti inkih maleh sugeenim, kaaduk tu kak radde caagiditte meqeh ma-warisinna. Num meqe aaxiguk yan urik fayxi geyek, madaarak geytinta lavender innaah, toomah cedeisaanam meqe. Daawa hinna.
 
-## How to offer a sensory activity
+## Damqi caagate mannal cedeisaana
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Gaab le waqdi doora** kaaduk TV alifa.
+- **Foocak gaca,** migaq deeqa, kaaduk gaba haak naharat essera hinnay warisa: "Kareem liyo. Gabah maxaaxo kiccintaa?"
+- **Inki iim inki waqdi cedeisa** num mabarsiise kalak.
+- **Wabalo dacrisa.** Lafafe fooca, rarraq le gabobah hinnay taamula meqe astooti kinni. Gaba kalto, fooca cissiyya hinnay madaqqo waaye tekkeh kalta.
+- **Uqqunhuk caba.** Konoy daqiiqah rarraq meqe waqdi kinni.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Sissik wayta faagi inkih cato, [calm breathing](/games/calm-breathing/) innaah, gaba kaloonuh meqe gita takkeem xiqta. Sarir dafat addat yaalitte geyooh wagita [late-stage activities](/activities/late-stage/), kaaduk carrah rarraq wayte caalat addat wagita [late-day restlessness](/caregiving/late-day-restlessness/).

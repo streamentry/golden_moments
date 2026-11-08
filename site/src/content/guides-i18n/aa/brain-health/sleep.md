@@ -1,31 +1,31 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Xinto kee Samadi Caafiyat: Goron Yabtam kee Qokolteem"
+seoTitle: "Xinto kee Kas Daggow: Goron Yabtam"
+description: "Xinto kas daggowuk le xagnut goron yabtam kee idaltit kee dacayri marak diino gexsit qokolta yaaba."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Tu-gacta baritti daqaara-wadir daggom xiina mara kas daggow geyaanam meqeemit culusak
+  yableen, lab fakkintit xinto samadak caxay saytunnoytam qokoltam tascasse. Ta sumaq fooca-wayti
+  le, 2024 Lancet Commission xinto korsa duudan sababih maysanin. Dalka le diinoh amol koo qokola.
+  Kas daggow le marat diinoh kalaluwa taturteemit daktarak koboxxaanam faxximta.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "UK fakkintit 25 sanatak 8,000 num wadir gexxeedda daqaaral lellec 6 saaqat akke kal xiina mara kas daggowik xagna leemit culsan."
+  - "Diinoh korsa kas daggowih fooca-sumaq akku duudamih sabbatah, sababa kee wadir-garuc meqennal baxsaniim taqabi kinni."
+  - "Xinto samadak beta-amyloid saytunnoytam fakkintit numtinwa le kinnuk, fooca-wayti leeh maggoom kutaatal tekkeem kinni."
+  - "Diinoh san-sullux (sleep apnea) taturteemi, darmanto leeh kas daggowuk xagana leemit culsan; gari-xinto kee carra xiinaanam daktarat taceenim faxximta."
+  - "Diinoh dawwa doktori kak abba hayte kal matatrayina, macidbina, makorsina."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Uma diino Alzheimer sababtaah?"
+    a: "Toh ma-tascasse. Tu-gacta barittooti daggom xiinaanam kas daggowik xagna lem culsan, kinnih immay kas daggow isi nafsi diino kalala, maggo sanoota daktar koboxxak fooca. 2024 Lancet Commission ta sumaq madaq koboxissuh gari-celta aalle kal caben."
+  - q: "Idaltit manna diino faxximtaah?"
+    a: "National Institute on Aging idaltit kalah yan maggo mara celtaah, barta 7 ille 9 saaqat faxximtam yeceen. Maggo idaltit carra xiinaanam kee carra ugutaanaah, toh taturteem kinni."
+  - q: "Kas daggow le num macah carra xiinaah bartat ugtam?"
+    a: "Kas daggow numtinih saaqata kalalta, diino kee ugut waqdi gari-garul taturta. Qandho, buuluma, qoloo kee dawwih radu meqe sababa akku duudan. Ayro-afka, amih gexsit kee caraata dacayri qokolu duuda. Daktar tu-korsiyyah tan sabab gorrisu duuda."
+  - q: "Dacayri kah aba numuh diinoh dawwa acuw waa?"
+    a: "Daktarah fooca yaaba, edde yaxxeceeni dawwa cato luk. National Institute on Aging gari diinoh dawwooti Alzheimer le marat dhiiba, raddo kee kas-hadam gacisam tascasse."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +56,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Xinto kee samadi caafiyat baxsa luk ittat xagnisan, kinnih immay mannal ittal xagnisam wadir-garuk gari-gorrisaanam kinni. Tu-gacta barittooti daggom xiinaanam kas daggowik mangal xaganta lem tascasse. Kas daggow, isi amol, maggo waqdi diino kalala. Ta maxqo fakkintit maani tascassehmey ma-tascassem fahamta, xintoh meqe gexsit taceeh, kas daggow le marat diinoh kalaluwa warrayta. Diinoh dawwih warrayti garcinna ma-taca; ta yaaba doktoral gexxam faxximta.
 
-## Is poor sleep linked with dementia?
+## Uma xinto kas daggowulluk xagana liinoh?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Tu-gacta dheero fakkintit daggom xiinaanam kas daggowik mangal culsan, kinnih immay sumaq meqe madaq ma-celle.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **25 sanatih UK baritto.** Fakkintoytiit 8,000 num [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2) wadir gexsen. 50 hinnay 60 sanatih lellec 6 saaqat akke kal xiina mara wadir kas daggow geyaanam 7 saaqat xiina marak mangak sugeen. 50, 60 kee 70 sanatal 6 saaqat akke kal xiina mara 30% celta kaxxa xagna leen 7 saaqat dalka luk xiina marak. Tah wagtitto baritto kinni, toh sabbatah xagna tascasse kalah sababa ma-tascasse.
+- **Lancet Commission kobox.** [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) xinto 14 korsa duudan sababo lih ma-calsinna. Sumaq ittat ma-celta iyyen. Teetik tii sababa "korsa gacay": kas daggowik samadi korsa daktar koboxxak sanoota fooca tammuttaah diino kalaltu duuda. Kaxxa barittot, dheero diino kee kas daggowik xagna fooca 5 sanata cabeenik kalte.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Toh sabbatah daggom xiina bar ma-xannasa. Dalka le, meqe xinto koo qokoltam kas geyto, kobox kee amoli caafiyat assagolluh.
 
-## What is the "brain-clearing" sleep research?
+## "Samad saytunnoysa" xiinto fakkintit maani?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Xinto samad "saytunnoytam" tankirriyem akku duudda. Toh numtin fakkintik temeetem kinnih immay, fooca-wayti le.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Kutaatal.** 2013 baritto [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) kutaata xiinta waqdi samadi caalat caddoyta 60% mangootam geyte. Lee samad addat meqennal tature, fakkintoytiit glymphatic system kah iyyan bagul. Beta-amyloid, Alzheimer-uk xagana le protein, xiinta kutaatih samadak sissikuk kalte.
+- **Marat.** Qunxixxi [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) 20 caafiyat le mara wagitte (22 ille 72 sanata) meqe barik lakat kee diino maleh taturte barik lakat. Diino maleh taturte barik lakat, samadi qasbal beta-amyloid 5% mangotte hippocampus addat, kas-aalluh kaxxa bagu kinniimi. Fakkintoytiit fooca sumaq kah iyyen. Ta korsa narafik lakat keltam hinnay samadak baxa-luk kalteem ma-aaxiginon.
+- **Namma baguk gexxa.** Lancet Commission amyloid mangoom isi amol idaltit xinto kalaltam tascasse.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ta geytooti fakkintoytiit macah xintot meqe kas leenim tascasse. Meqe xinto Alzheimer korsa tekkeem ma-tascasse.
 
-## What sleep habits may help?
+## Annah yan diinoh gexsit qokolu duuda?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Idaltit 7 ille 9 saaqat barta diino faxximta, kalah yan marah innal, [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) kah iyyam bagul. Tacee kasis:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Dalka le saaqat aalla.** Kulli ayro tii saaqatal xiinaah uguta, aydurti barootat beluk.
+- **Caraata gabat-kobox abisina.** Kitaaba ankiriya, meqe maqaane ankisa hinnay diinoh fooca qariira leet kalisa.
+- **Xiina carqo meqe abina,** kaxxam ma-qaamitaah ma-xabbaaca.
+- **Caffeine carra-wadir caba.** Buna, shaayi, soda kee chocolate koo ugtisu duudan.
+- **Alcohol xabbaasa,** qunxixxiyya teetik beluk, NIA kassissa.
+- **Kaxxa maaqo caba diinoh 2 ille 3 saaqat fooca,** kee kaxxa lee cabaq carraat.
+- **Caxa gexsa, immay diinoh 3 saaqat fooca mabbina.** Ni [exercise guide](/brain-health/exercise/) wagita.
+- **TV kee tilifon carqok kalisa.** NIA TV wagitaanam hinnay tablet carqot aalle waytam qokolta iyye.
+- **Carraat xinto cabina** duuddan tet tekkeek.
 
-## Sleep problems in dementia
+## Kas daggow le marat diinoh kalaluwa
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Diinoh korsa kas daggow le marat maggo waqdi tamurruqe. [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) kaxxam xiinaanam hinnay daggom xiinaanam, bartat maggo waqdi ugutaanam, kee carra maggoom xiinaanam tascasse. Toh sundowning warrayta: ayro korta waqdi agartiyya, qandho hinnay kas-hadam tamurruqeemi.
 
-Caregiver tips from the NIA include:
+Dacayri marak NIA kasis:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Ayro-afka kee caraata gexsit aalla.** Carra amol gexa hinnay tagut gari gaxa, ku dacayrik tan num kulli ayro caxa gexsu qokola. Ifo body clock sissikuk gactuh qokolu duuda.
+2. **Kaxxa abto carraat abina.** Carraat kalisaanam hinnay kaxxa maaqo ayro-caddol xagaanam.
+3. **Carraat xinto qunxixxeeh carraat abina.** Carra-wadir xiinaanam kalisa.
+4. **Caraata salaamat abina.** Ifo daggowsa, huuro cabaah meqe maqaane ankisa is taanam kicnah tet tekkeek. Ni [late-day restlessness](/caregiving/late-day-restlessness/) maxqo kalah yan yaaba le.
+5. **Dalka le diinoh abto haysita.** Kulli bar kitaaba tankiriyem tii NIA tacee ceelallo kinni. [steady daily routine](/activities/daily-routine/) meqennal qokola.
+6. **Caffeine kee alcohol kalisa.**
+7. **Bar ifo acuwwa** carqot, daqaral kee lee-qarot.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Bartat ugutuh, NIA-k [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) bar ifo acuwwa, lee-qarot ibi-xabbaco, daqaara-waddir tape kaxxa ifot aallaah, dawwa alifte aracal culsaanam kassiisa.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Caraatat qunxixxi, salaam le abto numma koo qokola. [Calm Breathing](/games/calm-breathing/) abina hinnay [Conversation Cards](/games/conversation-cards/) wagita. Diinoh garul kaxxa huuro caba, ku dacayrik tan num gaba-kaltam kicnah tekkeek caba.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Kalalte diino dacayri mara kaxxam buulussa. Ni [caregiver self-care guide](/caregiving/caregiver-self-care/) naraf kee cato geyaanam tascasse.
 
-## What about sleep apnea?
+## Xintot fursa xabbacow (sleep apnea) warray?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sleep apnea xiina waqdi fursa gaba-kalta, maggo waqdi bartat. NIA iyyam teetit darmanto aalle kalenik, dhiibo kaxxa, stroke hinnay kas-baye fan gexxa. Tacee sumaq kaxxa gari-xinto kee carra xiinaanam, maggo mara aaxige kal sugan. Lancet Commission 11 baritto tascasse edde sleep apnea le mara kas daggowik 43% mangal leen. Ta barittootik daggom numtinih dhiibo wagitteh, toh sabbatah xagna numma ma-akkina.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sleep apnea daktarat koboxxaanam kee darmanto geyaanam duudan. NIA CPAP maashin meqennal qokoltam tascasse. Atu hinnay ku dacayrik tan num kaxxa gari-xinto luk sugeek, xiina waqdi fursa gaba-kaltek, hinnay carra kaxxam xiineek, daktarah ixxica.
 
-## A note about sleep medicines
+## Diinoh dawwih warrayti meqe yaaba
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Nanu diinoh dawwooti warraytit kasis ma-naca. NIA diinoh dawwooti qunxixxi waqdih qokoltam kinnih immay insomnia darmanto hinnay iyya. Toh kal, Alzheimer le marah diinoh taceen dawwooti raddo, dhiiba kee kas-hadam gacissam tascasse. Diinoh dawwa ma-tammutina, ma-cabina, ma-korsina doktori hinnay pharmacist-uk yaabak fooca.
 
-## Talk with a doctor
+## Doktoral gexa
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Daktarak yaaba atu hinnay ku dacayrik tan num kulli waqdi buuluk sugeek, xiinah taqabi leek, gari-xinto kaxxa leek, hinnay bartat fursa gaba-kaltek. Kas daggow le marat diinoh kalaluwa sugtay tekkeek, [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) daktarak koboxxaanam kassiisa. Daktar qandho, kalah yan diinoh kalaluwa, biyak hinnay dawwih radu geyu duuda. Sissik kas-hadam, hinnay sissik diinoh korsa kas-hadam luk, sissik daktar faxxam kinni. Ni [when to see a doctor](/brain-health/warning-signs/) tankiriya.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ta maxqo gari caafiyat yaaba kinni, daktar kasis hinna. Ni [medical disclaimer](/medical-disclaimer/) wagita.

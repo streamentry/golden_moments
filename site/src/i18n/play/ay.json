@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Jach'at liyt'aña",
+      "stopReading": "Liyt'añ sayt'ayaña",
+      "region": "Anatawi",
+      "restart": "Wasitat qalltaña",
+      "soundOn": "Sampu sonidonak naktayaña",
+      "soundOff": "Sonidonak jiwt'ayaña",
+      "done": "Jichhax aka kamakiwa",
+      "feedbackQuestion": "¿Jichhürux aka anatawix walikitï?",
+      "feedbackYes": "Jïsa",
+      "feedbackNo": "Janiw sintiti",
+      "feedbackThanks": "Yuspagara yatiyapxistawa."
+    },
+    "tile": {
+      "named": "{name}, {n} kaña t'aqa",
+      "hidden": "Imat jamuqa, {n} kaña t'aqa",
+      "withState": "{label}, {state}",
+      "matched": "Kikipachatawa",
+      "selected": "Ajtllatawa",
+      "picture": "Jamuqa",
+      "photoNumber": "{n} kaña foto"
+    },
+    "pairs": {
+      "allTogether": "Taqpach paninaka mayachataxiwa. Wasitata anatt'asmawa jan ukax samart'asmawa.",
+      "photoPair": "Pä foto, mayachata.",
+      "picturePair": "Pä {name|lower} jamuqanaka, mayachata.",
+      "selected": "{name}. Jichhax yanapachap thaqtam.",
+      "mismatch": "K'achata. Mayamp jamuqat llimp'iyt'am sarantaskakiñataki.",
+      "mismatchNamed": "{a} ukhamarak {b}. K'achata. Mayamp jamuqat llimp'iyt'am sarantaskakiñataki."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Mä jamuqat llimp'iyt'am, ukatx kikipach jamuqarurak llimp'iyt'am.",
+      "guidanceHidden": "Pä t'aqanakat llimp'iyt'am kuttayasiñapataki. Kikipachjam uñtatanak thaqtam.",
+      "restart": "Machaq jamuqanaka",
+      "sizeLegend": "Qawqha t'aqanaka",
+      "size": {
+        "one": "{n} t'aqa",
+        "other": "{n} t'aqanaka"
+      },
+      "viewLegend": "Kunjams anataña",
+      "viewShowing": "Uñjkay jamuqanaka",
+      "viewHidden": "Imat jamuqanaka",
+      "playAgain": "Machaq jamuqanakamp wasitata anatt'aña",
+      "talk": "Jamuqanakxat mayacht'asisa aruskipapxañani"
+    },
+    "choose": {
+      "countLegend": "Qawqha jamuqanaka",
+      "count": "{n} jamuqanakat ajlliñataki",
+      "thatOne": "Ukax {name|lower} jamuqawa. K'achata."
+    },
+    "findTheSame": {
+      "guidance": "Alaxpachankir jamuq uñtam. Aynachankir kikipach jamuqar llimp'iyt'am.",
+      "yes": "Jïsa, kikipakiwa {name|lower}.",
+      "next": "Jutir jamuqa"
+    },
+    "shadowMatch": {
+      "guidance": "Alaxpachankir ch'iwu uñtam. Uka ch'iwuni jamuqar llimp'iyt'am.",
+      "yes": "Jïsa, {name|lower} jamuqawa uka ch'iwurux uñtayi.",
+      "next": "Jutir ch'iwu",
+      "shadowAlt": "Kikipachaykay ch'iwu",
+      "foundAlt": "{name|lower} ch'iwupa"
+    },
+    "sortTogether": {
+      "guidance": "Mä jamuqat llimp'iyt'am, ukatx chiqankir kanastaru llimp'iyt'am.",
+      "restart": "Machaq jamuqanaka",
+      "themeLegend": "Yatiñanaka",
+      "selected": "{name}. Jichhax kawkir kanastaruts mantani ukar llimp'iyt'am.",
+      "pickFirst": "Nayraqatax mä jamuqat llimp'iyt'am, ukatx kanastarurak llimp'iyt'am.",
+      "hint": "{name|lower} jamuqax \"{basket}\" kanastaruw mantsna. Uka kanastarur llimp'iyt'am ukar uchañataki.",
+      "placed": "{name|lower} jamuqax \"{basket}\" kanastaranxiwa.",
+      "sorted": "Taqpachaniw askichataxi. Kanastanaka mayacht'asis uñjapxam, jan ukax yaqha temas anatt'apxasmawa.",
+      "basket": {
+        "one": "\"{basket}\" kanasta, manqhanx {count} jamuqa utji",
+        "other": "\"{basket}\" kanasta, manqhanx {count} jamuqanakaw utji"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Mä t'aqat llimp'iyt'am, ukatx yaqhar llimp'iyt'am. Chiqapanak turkayasipxaniwa.",
+      "restart": "Mayamp ch'axwiyasin anataña",
+      "pictureLegend": "Jamuqa",
+      "pictures": {
+        "sailboat": "Wapuri",
+        "house": "Uta",
+        "balloon": "Phukuña",
+        "sunflower": "Inti panqara",
+        "lighthouse": "Qhana uta",
+        "cat": "Phisi"
+      },
+      "sizeLegend": "T'aqanaka",
+      "size": {
+        "one": "{n} t'aqa",
+        "other": "{n} t'aqanaka"
+      },
+      "pickedUp": "T'aqax aytataxiwa. Jichhax kawkirus uchatäni ukar llimp'iyt'am.",
+      "whole": "{name|lower} jamuqax wasitat sumachataxiwa. Kunjapachas munasax yaqha jamuq ajllismawa.",
+      "swapped": {
+        "one": "Turkayataxiwa. {total} t'aqat {correct} t'aqaw askichatäxi.",
+        "other": "Turkayataxiwa. {total} t'aqanakat {correct} t'aqanakaw askichatäxi."
+      },
+      "guideAlt": "Taqpacha jamuqa: {name}",
+      "guideText": "Aka jamuqax akham uñstaspawa kunapachatix phuqhachatäxi ukhaxa.",
+      "piece": "{place}ankir t'aqa",
+      "pieceInPlace": ", chiqapar uchatäxiwa",
+      "piecePickedUp": ", aytataxiwa",
+      "places4": [
+        "alax ch'iqa tuqi",
+        "alax kupi tuqi",
+        "aynach ch'iqa tuqi",
+        "aynach kupi tuqi"
+      ],
+      "places9": [
+        "alax ch'iqa tuqi",
+        "alax taypi",
+        "alax kupi tuqi",
+        "taypi ch'iqa tuqi",
+        "chikatanpacha taypi",
+        "taypi kupi tuqi",
+        "aynach ch'iqa tuqi",
+        "aynach taypi",
+        "aynach kupi tuqi"
+      ],
+      "done": "Jamuqax wasitat phuqhachataxiwa. Mayamp anatt'asmawa jan ukax samart'asmawa.",
+      "playAgain": "Wasitat ch'axwiyasin anataña"
+    },
+    "finishTheSaying": {
+      "guidance": "Aru mayacht'asis liyt'apxam, ukatx tukuyir arut llimp'iyt'am.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Jïsa, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" arumpis walikirakiwa. Yatit sarawinx \"{end}\" arumpiw tukuyi.",
+      "revealed": "Arusti akhamawa \"{start} {end}.\"",
+      "choicesLabel": "Tukuyir aru ajlltam",
+      "show": "Tukuyañ aru uñacht'ayaña",
+      "talk": "Akat aruskipapxañani: ",
+      "next": "Jutir sawka aru"
+    },
+    "wordSearch": {
+      "guidance": "Arunakax sayt'ata jan ukax jalxtat sarapxi. Nayrïr qillqat llimp'iyt'am, ukatx tukuyir qillqar llimp'iyt'am.",
+      "restart": "Machaq anatawi",
+      "themeLegend": "Yatiñanaka",
+      "sizeLegend": "Qillqa kaxan tantiyapa",
+      "size": {
+        "one": "{n} x {n} ({words} aru)",
+        "other": "{n} x {n} ({words} arunaka)"
+      },
+      "print": "Aka anatawi liq'iña",
+      "letterChosen": "{letter} qillqax ajllitawa. Jichhax arun tukuyir qillqapar llimp'iyt'am.",
+      "found": "{word} arux jikxatataxiwa.",
+      "foundAll": "{word} arux jikxatataxiwa. Taqpach arunakaw jikxatataxi. Wasitata anatt'asmawa jan ukax samart'asmawa.",
+      "tryAgain": "K'achata. Arun nayrïr qillqapar llimp'iyt'am, ukatx tukuyir qillqapar llimp'iyt'am.",
+      "gridLabel": "Qillqan kaxapa, {n} siqiraki {n} qillqanakaraki. Flechanakamp qillqanak taypin sarnaqasmawa.",
+      "cell": "{letter}, {row} siqi, {col} kolumna",
+      "cellFound": ", jikxatat arun qillqapawa",
+      "wordsHeading": "Jikxatañ arunaka",
+      "wordFound": " (jikxatataxiwa)",
+      "sheetTitle": "Aru thaqhaña: {theme}",
+      "sheetNote": "Arunakax jalxtata jan ukax sayt'ataw sarapxi.",
+      "unavailable": "Qillqa kaxax janiw aka arutakikiti, ukatwa aru thaqhañax aka arunx jan utjkiti. Jamuqamp anatawinak yant'apxam."
+    },
+    "coloring": {
+      "guidance": "Mä samit llimp'iyt'am, ukatx jamuqan mä chiqapar llimp'iyt'am.",
+      "restart": "Saminak chhaqhayaña",
+      "cleared": "Laphex wasitat ch'usa qhantataxiwa.",
+      "pageLegend": "Laphina",
+      "print": "Aka laphina liq'iña",
+      "colorsLabel": "Saminaka",
+      "paintChosen": "{paint} samix ajllitawa.",
+      "painted": "{part} chiqatx {paint|lower} samimp saminchataxiwa.",
+      "artLabel": "{page}, {count} chiqanakaw saminchañataki utji",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, jan saminchata",
+      "paints": {
+        "red": "Wila",
+        "orange": "Churi",
+        "yellow": "Q'illu",
+        "green": "Ch'uxña",
+        "blue": "Larama",
+        "purple": "Kulli",
+        "pink": "Janq'u wila",
+        "brown": "Ch'umpi",
+        "sky-blue": "Janq'u larama",
+        "cream": "Janq'u q'illu",
+        "gray": "Uqi",
+        "white": "Janq'u"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Tarjetax jach'at liyt'apxam. Janiw pantjasiñanakax utjkiti.",
+      "position": "{total} tarjetat {n} kaña tarjeta",
+      "themeLegend": "Yatiñanaka",
+      "next": "Jutir tarjeta",
+      "previous": "Nayrïr tarjeta",
+      "print": "Taqpacha tarjetanak liq'iña",
+      "sheetTitle": "Aruskipaw tarjetanaka"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Nayraqatx fotonakamat ajllt'asisa qalltam.",
+      "guidance": "Mä fotot llimp'iyt'am, ukatx kikipach fotoparurak llimp'iyt'am.",
+      "restart": "Wasitat fotonak ch'axwiyasin anataña",
+      "intro": "Aka aparatudxat **2 ukat 6 kamak fotonak ajllt'am**. Aka laphinakiw uñstapxani, janiw kawksarus imatäkiti janirakiw kawkirus apayatäkiti.",
+      "choose": "Fotonak ajlliña",
+      "chooseDifferent": "Yaqha fotonak ajlliña",
+      "clear": "Fotonak chhaqhayaña",
+      "cleared": "Aka laphitx fotonakax chhaqhayataxiwa.",
+      "atLeastTwo": "Mirä, pä fotonak mayjt'as ajllt'am.",
+      "usingFirst": "Nayrïr {max} fotonakampiw anatasini.",
+      "skipped": {
+        "one": "{count} archivox janiw uñjkay fotokiti.",
+        "other": "{count} archivonakax janiw uñjkay fotonakäkiti."
+      },
+      "playAgain": "Aka fotonakamp wasitata anatt'aña",
+      "empty": "Fotonakamax akanx uñstanipxaniwa, sapa maynix pä kutiw uñstani."
+    },
+    "pictureBingo": {
+      "guidance": "Nayraqatax tarjetanak liq'ipxam. Ukatx jach'a pantallaman aka jawstir uñacht'ayapxam.",
+      "called": {
+        "one": "{name}. {total} jamuqat {called} jamuqaw jawst'atäxi.",
+        "other": "{name}. {total} jamuqanakat {called} jamuqanakaw jawst'atäxi."
+      },
+      "start": "\"Jutir jamuqa\" ukar llimp'iyt'am nayrïr jamuq jawst'añataki.",
+      "restart": "Machaq anatawi qalltaña",
+      "squaresLegend": "Sapa tarjetan kuwaturunakapa",
+      "squares": "{n} kuwaturunaka ({side} x {side})",
+      "cardsLegend": "Qawqha tarjetanakas liq'itaspawa",
+      "cards": {
+        "one": "{n} tarjeta",
+        "other": "{n} tarjetanaka"
+      },
+      "print": {
+        "one": "{n} bingo tarjeta liq'iña",
+        "other": "{n} bingo tarjetanak liq'iña"
+      },
+      "ready": "Wakichataw juman wakichatätax ukhaxa",
+      "next": "Jutir jamuqa",
+      "allCalled": "Taqpacha jamuqanakaw jawst'ataxi",
+      "alreadyCalled": "Jawst'ataxiwa",
+      "sheetTitle": "Jamuqa bingo · {n} kaña tarjeta"
+    },
+    "calmBreathing": {
+      "guidance": "Muyu jach'aptipan manqharu samsuwayam, jisk'aptipansti anqaru samsusumaya. Suxta kuti samsüwiparuw sapak sayt'ani.",
+      "paceLegend": "Samsuñ pacha",
+      "paceSlow": "K'achata (5 segundunaka sapa kutita)",
+      "paceGentle": "Suma k'achata (4 segundunaka sapa kutita)",
+      "ready": "Wakicht'atawa munatamataruxa",
+      "in": "Manqharu samsum",
+      "hold": "Samart'am",
+      "out": "Anqaru samsum",
+      "start": "Qalltaña",
+      "stop": "Sayt'ayaña",
+      "started": "Qalltxiwa. Muyu jach'aptipan manqharu samsuwayam.",
+      "stopped": "Sayt'ayatawa.",
+      "finished": "Suxta k'acha samsuñanakax phuqhasiwayiwa. Kunjamtix munktax wasitat qalltasmawa."
+    }
+  },
+  "pictures": {
+    "teacup": "Tasa",
+    "kettle": "Caldera",
+    "bread": "T'anta",
+    "frying-pan": "Sarten k'awnampi",
+    "cake": "Torta",
+    "sunflower": "Inti panqara",
+    "tulip": "Tulipán wila",
+    "watering-can": "Regadera",
+    "potted-plant": "Panqara macetana",
+    "tree": "Quqa",
+    "bird": "Jamach'i k'allk'una",
+    "butterfly": "Pilpintu",
+    "dog": "Anu",
+    "cat": "Phisi",
+    "fish": "Challwa q'illu",
+    "apple": "Manzana wila",
+    "pear": "Pera",
+    "strawberry": "Frutilla",
+    "banana": "Plátano",
+    "lemon": "Limuna",
+    "cherries": "Guindas",
+    "house": "Uta",
+    "lamp": "Lampara mesataki",
+    "armchair": "Sillun",
+    "key": "Llave nayra",
+    "umbrella": "Paraguas",
+    "sailboat": "Wampu",
+    "car": "Autu nayra",
+    "bicycle": "Bicicleta",
+    "balloon": "Globo alaxpachankiri",
+    "lighthouse": "Faro",
+    "sun": "Inti",
+    "moon": "Phaxsi waranwaranakampi",
+    "teapot": "Tetera",
+    "apple-pie": "Pastel manzanampi",
+    "honey-jar": "Misk'i putu",
+    "boiled-egg": "K'awna k'awnachañana",
+    "toaster": "Tostadora",
+    "cheese": "Qhisu t'aqa",
+    "milk-jug": "Jarra lechempi",
+    "cupcake": "Queque jisk'a",
+    "orange": "Naranja",
+    "grapes": "Uvas wayu",
+    "watermelon": "Sandía t'aqa",
+    "pineapple": "Piña",
+    "peach": "Durazno",
+    "rose": "Rusa panqara",
+    "daisies": "Margaritanaka",
+    "mushroom": "Kallampa",
+    "wheelbarrow": "Carretilla",
+    "birdhouse": "Jamach'i uta",
+    "cactus": "Kari macetana",
+    "acorn": "Quqa achu",
+    "autumn-leaf": "Awti pachan laphi",
+    "rabbit": "Wank'u",
+    "duck": "Pili",
+    "hen": "Wallpa",
+    "sheep": "Uwija",
+    "owl": "Juku",
+    "ladybird": "Muruq'u k'uti",
+    "snail": "Chhuru",
+    "frog": "K'ayra",
+    "bee": "Wayrunchu",
+    "clock": "Reloj mesankiri",
+    "vase-of-flowers": "Florero panqaranakampi",
+    "radio": "Radio nayra",
+    "books": "Pankanaka palltata",
+    "candle": "Vela",
+    "glasses": "Lentes uñt'añataki",
+    "telephone": "Telefono",
+    "ball-of-wool": "Murumuru q'aytu",
+    "straw-hat": "Sombrero intitaki",
+    "train": "Tren",
+    "bus": "Autobus",
+    "airplane": "Avión",
+    "suitcase": "Maleta",
+    "tractor": "Tractor",
+    "rowing-boat": "Wampu remompi",
+    "rainbow": "Kurmi",
+    "rain-cloud": "Jallu qinaya",
+    "snowflake": "Khunu ch'iwi",
+    "kite": "Volador",
+    "sunrise": "Inti jalsu qullunakaru"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "AIJKLMNPQRSTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Achunaka",
+          "words": [
+            "MANZAN",
+            "PERA",
+            "TUNA",
+            "LIMA",
+            "PAKAY",
+            "ACHU",
+            "UVA",
+            "PIÑA",
+            "MANGO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Panqaranaka",
+          "words": [
+            "RUSA",
+            "TULIPA",
+            "JATHA",
+            "URAQI",
+            "LAPHI",
+            "QUQA",
+            "QUTA",
+            "WAYRU",
+            "PANQAR"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Phayawi",
+          "words": [
+            "TASA",
+            "WISLLA",
+            "TANTA",
+            "PHUKHU",
+            "CHUWA",
+            "JAYU",
+            "UMA",
+            "KAWNA",
+            "KANKA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Pacha",
+          "words": [
+            "INTI",
+            "JALLU",
+            "KHUNU",
+            "THAYA",
+            "QINAYA",
+            "CHHIWI",
+            "URU",
+            "CHHURU",
+            "JUNTU"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Uywanaka",
+          "words": [
+            "ANU",
+            "PHISI",
+            "WALLPA",
+            "PILI",
+            "WANKU",
+            "JUKU",
+            "UWIJA",
+            "WAKA",
+            "LLAMA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Uta",
+          "words": [
+            "PUNKU",
+            "QUNUÑA",
+            "MESA",
+            "IKIÑA",
+            "PANKA",
+            "LLAVE",
+            "UTASA",
+            "VELA",
+            "PISU"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Taqpacha tarjetanaka",
+        "food": "Manq'anaka",
+        "home": "Uta",
+        "outdoors": "Anqaxanxa",
+        "animals": "Uywanaka",
+        "travel": "Sarnaqawinaka",
+        "work": "Irnaqawi ukat samart'awinaka",
+        "music": "Jaylli ukat kusist'awi",
+        "seasons": "Mara pachanakapa"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Phayaña utat misturi, kawkïr suma q'apxis jumatakix wali sumaxa?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Mä kusisiwi urutakixa, kawkïr tortat ajllt'asma?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Kawkïr misk'i achump lurt'at manq'atsa arxayt'ita."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Té jan ukax cafexa, kunjam ch'umt'asiñs jumatakix sumaxa?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Mä alwa suma manq'asiñatakixa, kunas jumatakix wali sumaxa?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Quqapatpach achu pallt'iwayxatati?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Misk'i jan ukax k'allk'u: kawkïris jumatakix juk'amp sumaxa?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Kawkïr manq'as junt'u pachan k'uchiki amtatayktamxa?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Mä uta jakawi munatamat qhanancht'ita."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Samart'añatakixa, kawkïr k'uchus jumatakix wali askixa?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Mä jayp'u samart'añanxa, kun lurañas jumatakix k'uchirt'ayiri?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Mä suma imañ kajanxa, kun sumsa imt'asma?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Mä vaso té umaniñatakixa, khitirus utamar jawst'asma?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Jallu purïpachanxa, kun lurawis k'uchiki uñjasiñatakix sumaxa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Mä jardinanxa, kawkïr panqaranaks yapucht'asma?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Mä quqata jan ukax plazata munatamata arxayt'ita."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Jardinan sarnaqasinx, kunas jumatakix wali sumaxa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Kawkïr samini panqaranaks juk'amp sum uñjtamxa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Uta manqhan panqaranak uñt'ayañax kusisiyituti?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Mä suma inti uruxa, kunjamas jumatakix wali sumaxa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Mä uñt'at anu uñt'atamata arxayt'ita."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Phisinaka jan ukax anunaka: jumanakarux kunas juk'amp askixa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Anqanxa, kawkïr jamach'inakars ist'ta jan ukax uñjta?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Challwa katusis sarnaqirïxatati, jan ukax challwanak uñjt'irïtatati?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Kawkïr suma uywat uñjawaytam taqinits juk'amp sumaxa?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Mä munat autumata arxayt'ita."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Quta thiyana jan ukax qullunakas mä uru samart'añax sumaxa?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Kawkins sarnaqir sarañas jumatakix k'uchirt'ayirispaxa?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Alaxpachnam jalnaqasma ukhaxa, kawkïr thakhins sarnaqasma?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Kawkïr sarawimas wali k'uchi amtatayktamxa?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Kawkïr irnaqawinaks kusisisa phuqhañax sumätayna?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Kawkïr kusist'awis jumatakix pacha t'aqañapkam lurt'añax wali askixa?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Kunas aski luririta jan ukax askicht'irita uñt'atapäxtaxa?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Mä wayna jan ukax tawaqu irnaqañ qalltiriruxa, kamsasmamsa?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Kawkïr q'uchus kayunakam thitist'ayañ munkatamxa?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Mä kusisiwi urux wali suma phuqhasiñapatakixa, kunas askixa?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Khitir q'uchiris ist'asiñax jumatakix sumaxa?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Kawkïr uñt'at peliculsa jan ukax televisionana uñjasis wasitat uñjañ munasma?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Junt'u pachanxa, kunas jumatakix juk'amp askixa?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Awti pachanxa, kunas jumatakix k'uchirt'ayiri?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Juyphi pachan jayp'uruxa, kun luras k'uchiki jakasiñax sumaxa?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Panqara pachax purini ukhaxa, kunas nayraqat amuyt'ayktamxa?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Khunu, jallu jan ukax inti: kawkïris jumatakix wali sumaxa?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Panqara macetana",
+          "regions": {
+            "sky": "Qhipäxa",
+            "table": "Mesa",
+            "stem": "Kallu",
+            "leaf-left": "Ch'iqa laphi",
+            "leaf-right": "Kupi laphi",
+            "petal-1": "Laphi panqara 1",
+            "petal-2": "Laphi panqara 2",
+            "petal-3": "Laphi panqara 3",
+            "petal-4": "Laphi panqara 4",
+            "petal-5": "Laphi panqara 5",
+            "petal-6": "Laphi panqara 6",
+            "petal-7": "Laphi panqara 7",
+            "petal-8": "Laphi panqara 8",
+            "center": "Panqaran chika",
+            "pot": "Maceta",
+            "pot-rim": "Macetan thiya"
+          }
+        },
+        "house": {
+          "name": "Uta",
+          "regions": {
+            "sky": "Alaxpacha",
+            "sun": "Inti",
+            "grass": "Ch'iji",
+            "chimney": "Chimenea",
+            "walls": "Pirqanaka",
+            "roof": "Techu",
+            "door": "Punku",
+            "window-left": "Ch'iqa ventana",
+            "window-right": "Kupi ventana",
+            "path": "Thakhi"
+          }
+        },
+        "teacup": {
+          "name": "Tasa",
+          "regions": {
+            "background": "Qhipäxa",
+            "saucer": "Tasan platillupa",
+            "handle": "Katuña",
+            "cup": "Tasa",
+            "band": "Tasan llinphipa",
+            "tea": "Té"
+          }
+        },
+        "butterfly": {
+          "name": "Pilpintu",
+          "regions": {
+            "background": "Qhipäxa",
+            "wing-top-left": "Alax ch'iqa chhikhanqa",
+            "wing-top-right": "Alax kupi chhikhanqa",
+            "wing-bottom-left": "Aynach ch'iqa chhikhanqa",
+            "wing-bottom-right": "Aynach kupi chhikhanqa",
+            "spot-left": "Ch'iqa chhikhanqan ch'ikhi",
+            "spot-right": "Kupi chhikhanqan ch'ikhi",
+            "body": "Janchi"
+          }
+        },
+        "sailboat": {
+          "name": "Wampu",
+          "regions": {
+            "sky": "Alaxpacha",
+            "sea": "Quta",
+            "sail-big": "Jach'a vela",
+            "sail-small": "Jisk'a vela",
+            "mast": "Mástil",
+            "hull": "Wampu",
+            "flag": "Wiphala"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Phayaña utampi jardimpi",
+          "baskets": [
+            "Phayañ utana",
+            "Yapuna"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Muxsa achunaka uywanakampi",
+          "baskets": [
+            "Muxsa achunaka",
+            "Uywanaka"
+          ]
+        },
+        "home-travel": {
+          "label": "Utampi sarañampi",
+          "baskets": [
+            "Utana",
+            "Anqana"
+          ]
+        }
+      }
+    }
+  }
+}

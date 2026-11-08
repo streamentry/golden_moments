@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Wilika vakadomoilevu",
+      "stopReading": "Muduka na wiliwili",
+      "region": "Qito",
+      "restart": "Tekivu tale",
+      "soundOn": "Rorogo malumu e waqa",
+      "soundOff": "Bokoca na rorogo malumu",
+      "done": "Oti mada ena gauna qo",
+      "feedbackQuestion": "E vukei kemudrau beka qo nikua?",
+      "feedbackYes": "Io",
+      "feedbackNo": "Sega sara",
+      "feedbackThanks": "Vinaka vakalevu na nomuni tukutuku mai."
+    },
+    "tile": {
+      "named": "{name}, tiki {n}",
+      "hidden": "Iyaloyalo vunitaki, tiki {n}",
+      "withState": "{label}, {state}",
+      "matched": "Kena isa kunei",
+      "selected": "Digitaki",
+      "picture": "Iyaloyalo",
+      "photoNumber": "Itaba {n}"
+    },
+    "pairs": {
+      "allTogether": "Sa kunei kece na kedra isa. Qito tale se vakacegu mada.",
+      "photoPair": "E rua na itaba erau isa vata.",
+      "picturePair": "E rua na iyaloyalo ni {name|lower}, erau isa vata.",
+      "selected": "{name}. Qai vaqara na kena isa.",
+      "mismatch": "Vakacegu mada ka tovolea tale. Tabaka e dua na iyaloyalo mo tomana kina.",
+      "mismatchNamed": "{a} kei na {b}. Vakacegu mada ka tovolea tale. Tabaka e dua na iyaloyalo mo tomana kina."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tabaka e dua na iyaloyalo, qai tabaka na kena e tautauvata kaya.",
+      "guidanceHidden": "Tabaka e rua na tikina me vukici. Vaqara e rua erau tautauvata.",
+      "restart": "Iyaloyalo vovou",
+      "sizeLegend": "E vica na tikina",
+      "size": {
+        "one": "{n} na tikina",
+        "other": "{n} na tikina"
+      },
+      "viewLegend": "iValavala ni qito",
+      "viewShowing": "Rai tu na iyaloyalo",
+      "viewHidden": "Vunitaki tu na iyaloyalo",
+      "playAgain": "Qito tale ena iyaloyalo vovou",
+      "talk": "Veitalanoataka vata na iyaloyalo"
+    },
+    "choose": {
+      "countLegend": "E vica na iyaloyalo",
+      "count": "{n} me digitaki mai kina",
+      "thatOne": "Oqori na {name|lower}. Toitoya ga."
+    },
+    "findTheSame": {
+      "guidance": "Rai mada ena iyaloyalo e cake. Tabaka na kena e tautauvata kaya e ra.",
+      "yes": "Io, na {name|lower} vata ga.",
+      "next": "Iyaloyalo tarava"
+    },
+    "shadowMatch": {
+      "guidance": "Rai mada ena yaloyalo butobuto e cake. Tabaka na iyaloyalo e vakavuna.",
+      "yes": "Io, na {name|lower} e vakavuna na yaloyalo qori.",
+      "next": "Yaloyalo butobuto tarava",
+      "shadowAlt": "E dua na yaloyalo butobuto me vakatautauvatataki",
+      "foundAlt": "Na yaloyalo butobuto ni {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tabaka e dua na iyaloyalo, qai tabaka na basikete e dodonu me biu kina.",
+      "restart": "Iyaloyalo vovou",
+      "themeLegend": "Ulutaga",
+      "selected": "{name}. Tabaka sara na basikete me lai biu kina.",
+      "pickFirst": "Tabaka taumada e dua na iyaloyalo, qai tabaka na basikete.",
+      "hint": "E rawa ni biu na {name|lower} ena \"{basket}\". Tabaka na basikete qori me biu kina.",
+      "placed": "Sa biu na {name|lower} ena \"{basket}\".",
+      "sorted": "Sa wasei vakaoti kece. Raica vata na loma ni veibasikete, se tovolea e dua tale na ulutaga.",
+      "basket": {
+        "one": "Basikete {basket}, {count} na iyaloyalo e loma",
+        "other": "Basikete {basket}, {count} na iyaloyalo e loma"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tabaka e dua na tikina, qai tabaka e dua tale. Erau na veisau itutu.",
+      "restart": "Veicurumaki tale",
+      "pictureLegend": "Iyaloyalo",
+      "pictures": {
+        "sailboat": "Waqa vakalaca",
+        "house": "Vale",
+        "balloon": "Paluni",
+        "sunflower": "Senisiga",
+        "lighthouse": "Vale ni cina",
+        "cat": "Vusi"
+      },
+      "sizeLegend": "Tikina",
+      "size": {
+        "one": "{n} na tikina",
+        "other": "{n} na tikina"
+      },
+      "pickedUp": "Sa laveti na tikina. Tabaka sara na vanua me na biu kina.",
+      "whole": "Sa taucoko tale na {name|lower}. Digitaka e dua tale na iyaloyalo ena gauna ga drau vinakata kina.",
+      "swapped": {
+        "one": "Sa veisau. E {correct} mai na {total} na tikina sa tu donu ena kena itutu.",
+        "other": "Sa veisau. E {correct} mai na {total} na tikina sa tu donu ena kena itutu."
+      },
+      "guideAlt": "Na iyaloyalo taucoko: {name}",
+      "guideText": "Qo na kena irairai ni sa taucoko tu na iyaloyalo.",
+      "piece": "Tiki ni iyaloyalo ena {place}",
+      "pieceInPlace": ", sa tu donu ena kena itutu",
+      "piecePickedUp": ", sa laveti cake",
+      "places4": [
+        "imawi e cake",
+        "imatau e cake",
+        "imawi e ra",
+        "imatau e ra"
+      ],
+      "places9": [
+        "imawi e cake",
+        "loma e cake",
+        "imatau e cake",
+        "imawi e loma",
+        "loma donu",
+        "imatau e loma",
+        "imawi e ra",
+        "loma e ra",
+        "imatau e ra"
+      ],
+      "done": "Sa taucoko tale na iyaloyalo. Qito tale se vakacegu mada.",
+      "playAgain": "Veicurumaki tale"
+    },
+    "finishTheSaying": {
+      "guidance": "Wilika vata na ivosavosa, qai tabaka na vosa me vakacavara.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Io, \"{start} {end}.\"",
+      "otherEnding": "E donu tale ga na \"{word}\". Ia na ivosavosa matau e cava ena \"{end}\".",
+      "revealed": "Na ivosavosa oya na \"{start} {end}.\"",
+      "choicesLabel": "Digitaka na vosa me tinia",
+      "show": "Vakaraitaka na kena icavacava",
+      "talk": "Veitalanoataka mada: ",
+      "next": "Ivosavosa tarava"
+    },
+    "wordSearch": {
+      "guidance": "Na vosa e vakatikitiki se vakadodonu sobu. Tabaka na imatai ni matanivola, qai tabaka na kena iotioti.",
+      "restart": "Qito vou ni vaqara vosa",
+      "themeLegend": "Ulutaga",
+      "sizeLegend": "Levu ni teveli",
+      "size": {
+        "one": "{n} ena {n} ({words} na vosa)",
+        "other": "{n} ena {n} ({words} na vosa)"
+      },
+      "print": "Tabaka na vaqara vosa qo",
+      "letterChosen": "Sa digitaki na matanivola {letter}. Tabaka sara na iotioti ni matanivola ni vosa.",
+      "found": "Sa kune na {word}.",
+      "foundAll": "Sa kune na {word}. Sa kunei kece na vosa. Qito tale se vakacegu mada.",
+      "tryAgain": "Vakacegu ga ka tovolea tale. Tabaka na imatai ni matanivola ni vosa, qai tabaka na kena iotioti.",
+      "gridLabel": "Teveli ni matanivola, {n} na iyatu e cake ka {n} na matanivola ena dua na iyatu. Vakayagataka na kiyi ni tavula me tosoi kina na matanivola.",
+      "cell": "{letter}, iyatu {row}, kolumu {col}",
+      "cellFound": ", tiki ni dua na vosa sa kune",
+      "wordsHeading": "Vosa me vaqarai",
+      "wordFound": " (sa kune)",
+      "sheetTitle": "Vaqara vosa: {theme}",
+      "sheetNote": "Na vosa e vakatikitiki se vakadodonu sobu.",
+      "unavailable": "E sega ni ganita vinaka na noda vosa na teveli ni matanivola qo, oya gona e sega kina ni tiko na vaqara vosa. Tovolea mada na qito ni iyaloyalo."
+    },
+    "coloring": {
+      "guidance": "Tabaka e dua na roka, qai tabaka na vanua ena iyaloyalo me boroi.",
+      "restart": "Bokoca na roka kece",
+      "cleared": "Sa lala tale na tabana.",
+      "pageLegend": "Tabana",
+      "print": "Tabaka na tabana qo",
+      "colorsLabel": "Veiroka",
+      "paintChosen": "Sa digitaki na {paint}.",
+      "painted": "Sa {paint|lower} oqo na {part}.",
+      "artLabel": "{page}, {count} na tikina me boroi",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, se bera ni boroi",
+      "paints": {
+        "red": "Damudamu",
+        "orange": "Molikakana",
+        "yellow": "Dromodromo",
+        "green": "Drokadroka",
+        "blue": "Karakarawa",
+        "purple": "Lokaloka",
+        "pink": "Damudamu mamada",
+        "brown": "Rokaniqele",
+        "sky-blue": "Karakarawa ni lomalagi",
+        "cream": "Kirimi",
+        "gray": "Dravudravua",
+        "white": "Vulavula"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Wilika vakadomoilevu na kadi. E sega ni dua na kena isau dodonu se cala.",
+      "position": "Kadi {n} mai na {total}",
+      "themeLegend": "Ulutaga",
+      "next": "Kadi tarava",
+      "previous": "Kadi sa oti",
+      "print": "Tabaka na kadi kece",
+      "sheetTitle": "Kadi ni veitalanoa"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Tekivu ena nomudrau digitaka na nomudrau itaba.",
+      "guidance": "Tabaka e dua na itaba, qai tabaka na kena e tautauvata kaya.",
+      "restart": "Veicurumaki tale",
+      "intro": "**Digitaka e 2 ina 6 na itaba** mai na misini qo. Ena vakaraitaki ga ena tabana qo ka sega sara ni vakavodoki se maroroi e dua na vanua.",
+      "choose": "Digitaka na itaba",
+      "chooseDifferent": "Digitaka eso tale na itaba",
+      "clear": "Kauta laivi na itaba",
+      "cleared": "Sa kau laivi na itaba mai na tabana qo.",
+      "atLeastTwo": "Kerekere digitaka me rua mada ga na itaba.",
+      "usingFirst": "Vakayagataki tiko na imatai ni {max} na itaba.",
+      "skipped": {
+        "one": "E {count} na faile e sega ni rawa ni vakaraitaki me vaka e dua na itaba.",
+        "other": "E {count} na faile e sega ni rawa ni vakaraitaki me vaka e dua na itaba."
+      },
+      "playAgain": "Qito tale ena itaba vata ga qo",
+      "empty": "Ena basika eke na nomudrau itaba, ka na vakaraitaki vakarua yadua."
+    },
+    "pictureBingo": {
+      "guidance": "Tabaka taumada na kadi. Qai vakaraitaka na dau kacikaci qo ena skrin levu duadua e tiko vei kemudrau.",
+      "called": {
+        "one": "{name}. Sa kacivi e {called} mai na {total} na iyaloyalo.",
+        "other": "{name}. Sa kacivi e {called} mai na {total} na iyaloyalo."
+      },
+      "start": "Tabaka na \"Iyaloyalo tarava\" me kacivi kina na imatai ni iyaloyalo.",
+      "restart": "Tekivuna e dua na qito vou",
+      "squaresLegend": "Veitikina ena kadi yadua",
+      "squares": "{n} na tikina ({side} ena {side})",
+      "cardsLegend": "E vica na kadi me tabaki",
+      "cards": {
+        "one": "{n} na kadi",
+        "other": "{n} na kadi"
+      },
+      "print": {
+        "one": "Tabaka e {n} na kadi ni bingo",
+        "other": "Tabaka e {n} na kadi ni bingo"
+      },
+      "ready": "Vakarau tu ena gauna drau sa vakarau kina",
+      "next": "Iyaloyalo tarava",
+      "allCalled": "Sa kacivi oti kece na iyaloyalo",
+      "alreadyCalled": "Sa kacivi oti",
+      "sheetTitle": "Bingo ni iyaloyalo · kadi {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Cegu i loma ni tubu cake na mokimokiti, ka cegu ki tuba ni lailai mai. Ena cegu ga vakataki koya ni oti e ono na cegu.",
+      "paceLegend": "Totolo ni cegu",
+      "paceSlow": "Vakamalua (5 na sekodi ena veisau)",
+      "paceGentle": "Malumu (4 na sekodi ena veisau)",
+      "ready": "Sa vakarau tu ena gauna oni vakarau kina",
+      "in": "Cegu i loma",
+      "hold": "Vakacegu",
+      "out": "Cegu ki tuba",
+      "start": "Tekivu",
+      "stop": "Vakamudua",
+      "started": "Sa tekivu. Cegu i loma ni tubu cake na mokimokiti.",
+      "stopped": "Sa mudu.",
+      "finished": "Sa oti oya e ono na cegu vakamalua. Tekivu tale ena gauna cava ga oni gadreva kina."
+    }
+  },
+  "pictures": {
+    "teacup": "Bilo tii",
+    "kettle": "Tikitili",
+    "bread": "Madrai buli",
+    "frying-pan": "Bani vata kei na yaloka",
+    "cake": "Keke ni siganisucu",
+    "sunflower": "Senisiga",
+    "tulip": "Tiulipi damudamu",
+    "watering-can": "Kava ni livi wai",
+    "potted-plant": "Kau tei ena kuro",
+    "tree": "Vunikau",
+    "bird": "Manumanuvuka ena taba ni kau",
+    "butterfly": "Bebe",
+    "dog": "Koli",
+    "cat": "Pusi",
+    "fish": "Iqa koula",
+    "apple": "Apolo damudamu",
+    "pear": "Pea",
+    "strawberry": "Sitroperi",
+    "banana": "Jaina",
+    "lemon": "Moli",
+    "cherries": "Seri",
+    "house": "Vale",
+    "lamp": "Cina ni tebeli",
+    "armchair": "Idabedabe malumu",
+    "key": "Ki makawa",
+    "umbrella": "Ivakaruru",
+    "sailboat": "Waqa vakalaca",
+    "car": "Motoka makawa",
+    "bicycle": "Basikeli",
+    "balloon": "Paluni vuka",
+    "lighthouse": "Vale ni cina",
+    "sun": "Siga",
+    "moon": "Vula kei na kalokalo",
+    "teapot": "Tikitili ni tii",
+    "apple-pie": "Pai apolo",
+    "honey-jar": "Tavaya oni",
+    "boiled-egg": "Yaloka ena bilo",
+    "toaster": "Itavu madrai",
+    "cheese": "Tiki ni jisi",
+    "milk-jug": "Bilo ni sucu",
+    "cupcake": "Keke lailai",
+    "orange": "Moli unisi",
+    "grapes": "Isoso waini",
+    "watermelon": "Tiki ni mereni",
+    "pineapple": "Vainavolo",
+    "peach": "Piti",
+    "rose": "Seni rosa",
+    "daisies": "Senikau tesi",
+    "mushroom": "Dravidravi",
+    "wheelbarrow": "Uilibaro",
+    "birdhouse": "Vale ni manumanuvuka",
+    "cactus": "Kakatisi ena kuro",
+    "acorn": "Vua ni oka",
+    "autumn-leaf": "Draunikau dromodromo",
+    "rabbit": "Rabete",
+    "duck": "Gaga",
+    "hen": "Toa yalewa",
+    "sheep": "Sipi",
+    "owl": "Lulu",
+    "ladybird": "Kukuto damudamu",
+    "snail": "Sici",
+    "frog": "Boto",
+    "bee": "Oni",
+    "clock": "Kaloko ni tebeli",
+    "vase-of-flowers": "Tavaya senikau",
+    "radio": "Retio makawa",
+    "books": "Bini ivola",
+    "candle": "Kandeli",
+    "glasses": "Iloilo ni mata",
+    "telephone": "Talevoni",
+    "ball-of-wool": "Bolo vutika",
+    "straw-hat": "Isala ni siga",
+    "train": "Sitima ni vanua",
+    "bus": "Basi",
+    "airplane": "Waqavuka",
+    "suitcase": "Kato ni gade",
+    "tractor": "Tereketa",
+    "rowing-boat": "Velovelo",
+    "rainbow": "Drodrolagi",
+    "rain-cloud": "O ni uca",
+    "snowflake": "Ucacevata",
+    "kite": "Kaiti",
+    "sunrise": "Cadra ni siga ena ulunivanua"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEGIKLMNOPQRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Vuata",
+          "words": [
+            "MAQO",
+            "UTO",
+            "VUDI",
+            "NIU",
+            "WELEI",
+            "IVI",
+            "MOLE",
+            "APOLO",
+            "KAVIKA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Were",
+          "words": [
+            "SENI",
+            "DRAU",
+            "KAU",
+            "QELE",
+            "SORE",
+            "DRANO",
+            "WERE",
+            "ROSA",
+            "ONI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Valenikuro",
+          "words": [
+            "BILO",
+            "KURO",
+            "MADRAI",
+            "SELE",
+            "DARI",
+            "VELETI",
+            "LOVO",
+            "TII",
+            "ITAKI"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Draki",
+          "words": [
+            "SIGA",
+            "UCA",
+            "CAGI",
+            "KABU",
+            "CAVA",
+            "LILIWA",
+            "DRAKI",
+            "LADA",
+            "CILA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Manumanu",
+          "words": [
+            "KOLI",
+            "PUSI",
+            "IQA",
+            "TOA",
+            "OSE",
+            "GAGA",
+            "VONU",
+            "BOTO",
+            "BEKA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Vale",
+          "words": [
+            "KATUBA",
+            "IBO",
+            "CINA",
+            "TEBELI",
+            "KALOKO",
+            "KATO",
+            "LOKA",
+            "VALE",
+            "TIA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kadi kece",
+        "food": "Kakana",
+        "home": "Vale",
+        "outdoors": "E tautuba",
+        "animals": "Manumanu",
+        "travel": "Gade ki na veivanua",
+        "work": "Cakacaka kei na ka ni marau",
+        "music": "Sere kei na marau",
+        "seasons": "Veigauna ni yabaki"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Na iboi cava ni kakana mai valenikuro oni dau taleitaka duadua?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Na mataqali keke cava oni na digitaka me baleta e dua na soqo ni marau?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Ni vakamacalataka mada mai e dua na kemuni kakana kamikamica oni dau taleitaka."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Oni dau taleitaka vakacava na kemuni tii se kofi?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Na cava e dau vakamarautaki kemuni ena katalau ni mataka?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Oni sa bau betia mai e dua na vuanikau mai na vuna?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Na kamikamica se na wiwi: na cava oni taleitaka cake?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Na kakana cava e dau vakananuma vei kemuni na vulaikatakata?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ni talanoataka mada mai e dua na vale oni a taleitaka na bula kina."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Evei na vanua oni dau taleitaka duadua me oni dabe ka vakacegu kina?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Na cava oni dau taleitaka me caka ena dua na yakavi vagagalu?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Na iyau talei cava oni na maroroya ena dua na kato dokai?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "O cei oni na sureta me mai gunu tii vata kei kemuni?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Na cava oni dau taleitaka me caka ena dua na siga uca?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Na senikau cava soti oni na tea ena loma ni were?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Ni talanoataka mada mai e dua na vunikau se vanua ni gade oni dau taleitaka."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Na cava na ka oni dau taleitaka duadua ena nomuni tiko ena were?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Na roka ni senikau cava oni taleitaka duadua?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Oni taleitaka me tiko eso na senikau ena loma ni vale?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Na cava oni na cakava ena dua na siga cila vinaka?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Ni talanoataka mada mai e dua na koli oni a kila vinaka."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Na pusi se koli, se rau sega ruarua? Na cava oni dau taleitaka vei rau?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Na manumanuvuka cava soti oni dau raica se rogoca e tautuba?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Oni sa bau qoli, se maroroya eso na iqa ena bilo iloilo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Na manumanu cava oni raica e totoka duadua vei kemuni?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Ni talanoataka mada mai e dua na motoka oni a taleitaka."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Oni na taleitaka cake me tiko ena matasawa se ena ulunivanua?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Evei na vanua oni na taleitaka me oni gade kina?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Kevaka oni rawa ni vuka ena macawa, na vanua cava oni na via raica sobu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Na ilakolako cava oni a marautaka sara vakalevu?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Na mataqali cakacaka cava oni a dau taleitaka na kena caka?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Na ka ni marau cava oni rawa ni vakayagataka kina e levu na auwa?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Na cava e dua na ka oni a kilai tani kina ena kena tara se vakavinakataki?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Na ivakasala cava oni na solia vua e dua na itabagone e se qai tekivu cakacaka?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Na mataqali sere cava e dau vakatubu marau me danisi kina na yavamuni?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Na cava e dau vakavuna me marautaki sara e dua na soqo?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "O cei e dua na daunivakasere oni dau taleitaka me rogoca?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Na iyaloyalo yavala cava oni na via sarava tale?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Na cava oni taleitaka duadua ena vulaikatakata?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Na cava oni dau marautaka ena gauna e dau lutu kina na draunikau?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Na cava e dua na ka vinaka me caka ena dua na yakavi batabata?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Na ivakatakilakila cava e dau vakaraitaka taumada vei kemuni na gauna ni tubu vou?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Na ucacevata, na uca, se na cila ni siga: na cava oni taleitaka cake?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Senikau ena kuro",
+          "regions": {
+            "sky": "Dakuna",
+            "table": "Tebeli",
+            "stem": "Tolona",
+            "leaf-left": "Drauna ena mawi",
+            "leaf-right": "Drauna ena matau",
+            "petal-1": "Tebetebena 1",
+            "petal-2": "Tebetebena 2",
+            "petal-3": "Tebetebena 3",
+            "petal-4": "Tebetebena 4",
+            "petal-5": "Tebetebena 5",
+            "petal-6": "Tebetebena 6",
+            "petal-7": "Tebetebena 7",
+            "petal-8": "Tebetebena 8",
+            "center": "Loma ni senikau",
+            "pot": "Kuro",
+            "pot-rim": "Bati ni kuro"
+          }
+        },
+        "house": {
+          "name": "Vale",
+          "regions": {
+            "sky": "Lomalagi",
+            "sun": "Siga",
+            "grass": "Co",
+            "chimney": "Salani-kubou",
+            "walls": "Lalaga",
+            "roof": "Dela ni vale",
+            "door": "Katuba",
+            "window-left": "Katubaleka ena mawi",
+            "window-right": "Katubaleka ena matau",
+            "path": "Salatu"
+          }
+        },
+        "teacup": {
+          "name": "Bilo tii",
+          "regions": {
+            "background": "Dakuna",
+            "saucer": "Veleti lailai",
+            "handle": "Dia ni bilo",
+            "cup": "Bilo",
+            "band": "Toqa ena bilo",
+            "tea": "Tii"
+          }
+        },
+        "butterfly": {
+          "name": "Bebe",
+          "regions": {
+            "background": "Dakuna",
+            "wing-top-left": "Taba i cake ena mawi",
+            "wing-top-right": "Taba i cake ena matau",
+            "wing-bottom-left": "Taba i ra ena mawi",
+            "wing-bottom-right": "Taba i ra ena matau",
+            "spot-left": "Toqa ena taba mawi",
+            "spot-right": "Toqa ena taba matau",
+            "body": "Yagona"
+          }
+        },
+        "sailboat": {
+          "name": "Waqa vakalaca",
+          "regions": {
+            "sky": "Lomalagi",
+            "sea": "Wasa",
+            "sail-big": "Laca levu",
+            "sail-small": "Laca lailai",
+            "mast": "Vana",
+            "hull": "Waqa",
+            "flag": "Kuila"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Valenikuro kei na were",
+          "baskets": [
+            "Ena valenikuro",
+            "Ena were"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Vuanikau kei na manumanu",
+          "baskets": [
+            "Vuanikau",
+            "Manumanu"
+          ]
+        },
+        "home-travel": {
+          "label": "Vale kei na veilakoyaki",
+          "baskets": [
+            "E vale",
+            "Ena veilakoyaki"
+          ]
+        }
+      }
+    }
+  }
+}

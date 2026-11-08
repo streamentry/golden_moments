@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Альцгеимер змоу ауаа рзы аусқәеи ахәмаррақәеи"
+seoTitle: "Альцгеимер змоу рзы аусқәа: аетапқәа рла аидеиақәа"
+description: "Альцгеимер змоу ауаа рзы есы-етап ахәмаррақәеи аусқәеи, иаанхо абаҩхатәреи агәалашәарақәеи ирылхны, ихарҷгоу ахәмаррақәа ғыцны рзы."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Альцгеимер змоу ауаҩы изы бзиоу аусқәа зегь раасҭа акырӡа иаанхо
+  иршьаҭоуп: раԥхьатәи абаҩхатәрақәа, ажәытә ашәақәа, есымшатәи аусқәа,
+  анкьалатәи адыррақәа. Алагамҭаз акартқәа, аҭахәмаррақәа, афатә ҟаҵара,
+  адәылҵрақәа лассы-лассы ихьчоит. Абжьаратәи аетап аҟны аиҵыхәра, аилкаара,
+  ашәаҳәара, афотоальбомқәа, амариа сахьатә хәмаррақәа рҿаԥшыра ҟалоит. Ахәра
+  аҵыхәтәаны амузыка, адкьысра, аҩызцәара зегь раасҭа ихәарҭоуп. Иахьа ауаҩы
+  шыҟоу шәазнеи.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Альцгеимер адеменциа ахыҵхырҭақәа рахьтә зегь раасҭа ихардоуп, убри аҟнытә адеменциа рзы аусқәа арагьы ихарҷгоит."
+  - "Аҿыц дыррақәа раԥхьа ицәгьоуп, аха раԥхьаӡа иҵабыргхоз абаҩхатәрақәеи ашәақәеи акыр иаанхоит. Урҭ шәыршьаҭа."
+  - "Аетапқәа еиԥхьашәоит, амш бзиақәеи уадаҩқәеи шыҟоу ҵасхоит. Иахьа ауаҩы иҟаиҵар илшо, игәы изырхьуа шьаҭас иаалышәх."
+  - "Асаҳаҭ, ахыԥхьаӡара, аҵара змам ахәмаррақәа алышәх, асахьақәа убартә иааныжьны."
+  - "Ахәаԥшра, ак амазара, ма еицаатәара заҵәыгьы алахәра ҳәа иԥхьаӡоуп."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Иарбан усқәоу Альцгеимер змоу ауаҩы изы бзиоу?"
+    a: "Имарианы иҟаҵоу есымшатәи аусқәа: ахылпаҵәрақәа реиҵыхәра, астол арккаара, еицыфатәҟаҵара, амузикеи ашәаҳәареи, афотоқәа рахәаԥшра, адәылҵра, абаҳча аҟны аусура, аҩнытә ԥстәқәа рахь адкьысра. Имариоу асахьатә хәмаррақәа, амариа пазлқәа, ацәажәаратә картқәагьы рацәаҩнык ирыцхраауеит. Ауаҩы еснагь игәаԥхоз алышәх, иварцәгьы иҟашәҵа."
+  - q: "Ахәмаррақәа Альцгеимер змоу ауаа рзы бзиоума?"
+    a: "Ахәмаррақәа еицырцыхәтәоу аамҭа ахьӡаразы бзиоуп, ауаҩы игәаԥхозар. Акагь ахәмарра Альцгеимер ихәшәхоит, иаанкылоит ҳәа ишам дыруеит, убри аҟнытә агәырӷьаразы ахәмаррақәа алышәх: дуу асахьақәа, маҷк алыхрақәа, асаҳаҭда, хыԥхьаӡарада, амҵаршәа бжьыда."
+  - q: "Адеменциеи Альцгеимери рзы аусқәа реиԥшымзаара шыҟоу уи?"
+    a: "Зегь раасҭа мап. Альцгеимер адеменциа ахыҵхырҭақәа рахьтә зегь раасҭа ихардоуп, убри аҟнытә аусқәагьы еиԥшуп. Альцгеимер аҟны ихадоу аҿыц гәалашәарақәа раԥхьа ишыцәгьоу адырра ауп, убри аҟнытә ажәытә баҩхатәрақәеи, ашәақәеи, аҵасқәеи ирышьаҭоу аусқәа еиҳа имариоит."
+  - q: "Аҵыхәтәантәи аетап аҟны Альцгеимер змоу ауаҩы иарбан усқәоу игәаԥхо?"
+    a: "Бзиа ирбо амузыка, анапақәа рымасаж лас, хьаа змам амаҭәарқәа рымазара, аԥхьара азыӡырҩра, адәахьы аӡбатәара, згәы рзыроу ауаҩы изва аҟазара. Икьаҿны, ҭынч иҟашәҵа, урҭ рхаҿи рцәеижьи шәрыхәаԥш, ргәаԥхара шәабарц."
+  - q: "Шьҭа Альцгеимер змоу ауаҩы аус даласырхәар сшәар сылшо?"
+    a: "«Аус ҳаҟаҵоит» ҳәа шәамҳәан, ацхыраара шәаҳәа, зегь раԥхьа шәырхианы, шәхаҭа иалаго, дара шәацлаларц. Урҭ ргәы бзиахо аамҭа алыхра даара ихәарҭоуп. Мап рҳәозар, анаҩс шәаҽазышәшәа, ма еиҳа имариоу авариант рзаалышәх."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Шәара бзиа шәырбо ауаҩы Альцгеимер ихьӡ зху ачымазара змоузар, шьоукы ахәҭақәа лассы ирхашҭуагьы, егьырҭ шыхьчо шәарбозар ҟалоит. Урҭ ецырҩашьтәи аҭелҭынчара ирхашҭзар ҟалоит, аха адиншәа аҳәаақәа зегь хыршарада ихьчоит, ахылпаҵәра еснагь ишыҟарҵоз иеиҵырхәоит, ма акартқәа хшыҩда ирылаҩоит. Бзиоу аусқәа урҭ иаанхо абаҩхатәрақәа ирышьаҭоуп. Ари адаҟьа избан уи шыҟоу еилнаркаауеит, анаҩс аетапқәа рзы аидеиақәеи ари асаит аҟны иҟоу уи иахәҭоу ихарҷгоу ахәмаррақәеи шәырнаҭоит.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Аусқәа раан Альцгеимер адеменциа иаҿурԥшуазар еиԥшымзаара ду имоума?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Даара еиԥшымзаара ҟам. Адеменциа зегьызку термин ауп, Альцгеимер ачымазара уи ахыҵхырҭақәа рахьтә зегь раасҭа ихардоуп: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ишаҳәо ала, уи адеменциа 60-80 процент аҟынӡа иаҵанакуеит. Адеменциа змоу рзы аусқәа ртәы иҩу зегь Альцгеимер изыгь ихарҷгоит, ҳ-[101 аусқәа раидеиақәа](/activities/ideas/) налаҵаны.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Аԥсахрақәа рриатә риашара адырра даара ихәарҭоуп. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) еиҭанагоит, Альцгеимер раԥхьа агәалашәара ахәҭақәа ихьчо, анаҩс абызшәа, ахшыҩ, ауаажәларратә ҟазшьақәа ирыҵалоит. Alzheimer's Association ишаҳәо ала, раԥхьатәи асимптомқәа рахьтә зегь раасҭа ихардоу аҿыц дыррақәа ргәалашәара ауадаҩра ауп. Зегьы еиԥшым, рацәаҩныкгьы еилаԥсоу ахыҵхырҭақәа рымоуп, аха ари асистема аус зуа аилкаара иацхраауеит.
 
-## What kinds of activities suit Alzheimer's best?
+## Иарбан ҟазшьа змоу усқәоу Альцгеимер изы зегь раасҭа еиҳа ибзиоу?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Ажәытә, бзианы иҵоу адыррақәа ирышьаҭоу аусқәа еиҳа имарианы имҩаԥысуеит, аҿыц дыррақәа рҵареи рхынкылареи зҭаху аасҭа.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Раԥхьаӡа иҵабыргхоз абаҩхатәрақәа.** Alzheimer's Association иазгәанаҭоит, ауаҩы акыр шықәса раԥхьа пианинола иҵаз имариоу ашәақәа аҳәара дахьчозар ҟалоит. Ахылпаҵәрақәа реиҵыхәра, аҵыҵра, амашьына иаку акартқәа рылаҩра, ача аҭаҵәара, аԥархь арыцқьара еиԥшуп.
+- **Ажәытә шәақәеи есымшатәи амузикеи.** Рацәаҩнык рҿараантәи ашәақәа, адиншәақәа, ма рчара иаҳәоз ашәақәа зегь рҳәаақәа ихьчоит. Шәахәапш [амузикатә усқәа](/activities/music/).
+- **Ахықәкы змоу есымшатәи аусқәа.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) аԥшьқәа рӡәӡәара, астол арккаара, ацуқәа реилкаара, ахылпаҵәрақәа реиҵыхәра ауаа ргәаԥхо аусқәа ҳәа инаҵанакуеит. Ахәарҭа амазара дууп.
+- **Агәалашәара аасҭа аилкаара.** Иеиԥшу асахьа аҳәара аасҭа анапала уахь аарԥшра еиҳа имариоуп. Убри аҟнытә зегь убартә иҟоу асахьатә хәмаррақәа атестқәа раасҭа еиҳа ибзиоуп.
+- **Адыррақәа (асенсор).** Аҵара, аԥшшәи, аԥхарра, ахәра, абжьы ажәақәа уадаҩхангьы акыр аамҭа рыҵакра ихьчоит. Шәахәапш [адырратә усқәа](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Иуадаҩхо: асаҳаҭ зцу зегьы, аҿыц ҵасқәа, рацәа аетапқәа ргәалашәара, ма агәалашәара згәаҭо азҵаарақәа, убас «Угәалашәома ари дарбан?» реиԥш иҟоу. Урҭ Альцгеимер ауадаҩрақәа зегь раԥхьа иргылоит.
 
-## Activities for early-stage Alzheimer's
+## Альцгеимер араԥхьатәи аетап аҟны аусқәа
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Араԥхьатәи аетап аҟны [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) ишаҳәо ала, ауаҩы амашьына анаԥхьеи, аус ауреи, ауаажәларратә усқәа рлахәреи дахьчозар ҟалоит, аха адыррақәа рхашҭра, ажәақәеи амаҭәарқәеи ртәы агәалашәара уадаҩхозар ҟалоит. Зегь раасҭа бзиоу ҩызаратә еимадароуп: иарбан усқәоу рҿаԥшыра зҭаху, иарбан цхыраароу зҭаху шәазҵаа.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Иҟоу агәаԥхарақәа рыхьчара.** Гольф, бридж, аҵыҵра, ахор, адинтә гәыԥқәа, маҷк аԥсахрақәа ҟаҵаны: еиҳа ихәыҷу агәыԥқәа, еиҳа иҭынчу аамҭа.
+2. **Есымшатәи акартқәеи аҭахәмаррақәеи.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) араԥхьатәи аетап азы авикторинақәа, ажәақәа рыԥшаара, акарттә хәмаррақәа, аҭахәмаррақәа ирыланархәоит. Ахыԥхьаӡара ахшыҩ аԥырхагахозар, командала шәахәмар, ма ахыԥхьаӡара шәаԥых.
+3. **Еицыфатәҟаҵара.** Дара хшыҩла ирдыруа афатә ҟарҵааит, шәара аетапқәа рԥхьара шәрыцхраа.
+4. **Аԥсҭазааратә ҭоурых апроект алагара.** Афотоқәа, арецептқәа, аҭоурыхқәа дара зхаҭа ирышьаҭоу альбом аҟны. Шәахәапш [агәалашәаратә усқәа](/activities/reminiscence/).
+5. **Адәылҵрақәа.** Бзиа ирбо аресторан ҭынч аамҭазы, амузеи кьаҿны аҭаара, апарк аҟны аҩыра.
+6. **Дара ирылхыз апазлқәа.** Дуу шьрифттә кроссвордқәа, ажәақәа рыԥшаара, апазлқәа. Шәахәапш [адеменциа зцу рзы апазлқәа](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Еиҳа аидеиақәа: [араԥхьатәи аетап азы аусқәа](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Альцгеимер абжьаратәи аетап аҟны аусқәа
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association абжьаратәи аетап зегь раасҭа идууп ҳәа иаҳәоит, уи акыр шықәса иҟазар ҟалоит. Ажәақәа еилаԥсоит, аԥырхага лассы иҟалоит, ауаҩы еиҳа ахъилара иҭахуп. Alzheimer's Foundation of America иацнаҵоит, рацәаҩнык аусқәа ралагареи рынагӡареи рзы ацхыраара рыҭахуп. Шәара шәроль зегь аҽырхиара, еилркаара аасҭа аарԥшра, ауадаҩрақәа шәнапахьы раагара ауп.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Аиҵыхәра, аилкаара, аԥшаара.** Ахылпаҵәрақәа, ацуқәа, аԥшьқәа, аԥшшәқәа рыла амаҭәарқәа. Еицҟаҵоу ииашоу аусқәа.
+2. **Ашәаҳәареи амузика иацны аҵысреи.** Анапаҿакра, аҩны ашәаҳәара ма акәашара. Шәара шәхаҭа ашәа аҳәара шәалагеит, дара шәацлаларц.
+3. **Афотоальбомқәа рахәаԥшра.** Ишәырбо шәаҳәа, аҭоурыхқәа рахь шәрыԥхьо: «Шаҟа машьина бзиоу. Саҳәа уи атәы.» Иарбан хьӡык рҳәозар, убри шәаԥхьашәа.
+4. **Имариоу асахьатә хәмаррақәа.** Ԥшьба ма фба таил змоу, асахьақәа убартә иааныжьу [Picture pairs](/games/picture-pairs/), ма ҩба-хԥа алыхра змоу [Find the same](/games/find-the-same/).
+5. **Есымшатәи аҳәамҭақәа рыҵыхәтәа арккаара.** «Аҵәа есымша...» Раԥхьаӡа иҵаз аҳәамҭақәа лассы ирхашҭӡом. Шәаҽазышәшәа [Finish the saying](/games/finish-the-saying/), аҵыхәтәа заҵәык аҟны унапа анакьысрала уаҳәар узылшо.
+6. **Аҵиаақәа рӡы аҭаҵәареи рыхъилареи.** Аҩнытә аҵиаақәа ма абаҳча хәыҷы, ихәыҷу адәықьла.
+7. **Аҭаацәаратә фотоқәа рыла еиԥшу хәмарра аҟаҵара.** [Photo pairs](/games/photo-pairs/) шәара шәдеваисла иалышәхыз асахьақәа рхархәоит, урҭ уаҟынтә анҭыҵ башагьы имҩаԥысӡом.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Еиҳа аидеиақәа: [абжьаратәи аетап азы аусқәа](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Альцгеимер аҵыхәтәантәи аетап аҟны аусқәа
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Аҵыхәтәантәи аетап аҟны Alzheimer's Association ишаҳәо ала, ауаа ргола иҟоу аԥсабара аҭак аҭареи ацәажәара мҩаԥгареи рылшом, аха ажәақәа ма ажәаҳәақәа лассы-лассы ирҳәоит. Уажәы аус ҳәа иԥхьаӡоу аҭынчреи агәакьреи роуп, ауаҩы дызхьчо аҭыԥ ахь иаагоу.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Бзиа ирбо амузыка шәаҳәа** ҭынч, ателевизор бжьыда.
+2. **Анапақәа рымасаж ҟашәҵа** ргәаԥхо аԥшшәи зцу алосьонла.
+3. **Хьаа змам амаҭәарқәа рымазаразы шәырҭа:** ԥхатәи аҩнаҭа, ахьаа ҭышәнтә, имариоу ахаҳә.
+4. **Бжьыдула шәаԥхьа** аԥсаломқәа, ажәеинраалақәа, ма есымшатәи аҭоурых. Аҵакра аасҭа аритм еиҳа ихәарҭоуп.
+5. **Адәахьы шәаатәа** агәылшьап аҵаҟа, ма аԥсаатәқәа рахәаԥшразы аԥенџьыр иаварцә.
+6. **Дуу сахьак еицышәахәапш.** Апланшет аекран иаку амра ашәҭ ма аҩнытә ла, шәара ишәырбо шәаҳәо.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Еиҳа аидеиақәа: [аҵыхәтәантәи аетап азы аусқәа](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Иарбан хәмаррақәоу Альцгеимер змоу ауаҩы изы иаԥсоу?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Агха ҟамло ахәмаррақәа алышәх. Ари асаит аҟны иҟоу ахәмаррақәа зегь харҷгоуп, браузерла аус руеит, асаҳаҭда, хыԥхьаӡарада, аҭаҩрадагьы.
 
-| Game | What you do | Often suits |
+| Ахәмарра | Иҟашәҵо | Лассы-лассы иаԥсоуп |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Дуу асахьақәа реиԥшра; урҭ убартә иаанхоит | Араԥхьатәии абжьаратәии аетапқәа |
+| [Find the same](/games/find-the-same/) | Хыхь иҟоу иеиԥшу асахьа шәақәыӷәӷәа | Абжьаратәии аҵыхәтәантәии аетапқәа, ацхыраарала |
+| [Finish the saying](/games/finish-the-saying/) | Есымшатәи аҳәамҭа аҵыхәтәантәи ажәа алышәх, ма шәаарԥш | Араԥхьатәии абжьаратәии аетапқәа |
+| [Picture puzzle](/games/picture-puzzle/) | Асахьа ҟазаарынӡа 4 ма 9 хәҭак рҭыԥ шәаԥсах | Араԥхьатәии абжьаратәии аетапқәа |
+| [Conversation cards](/games/conversation-cards/) | Асахьеи ацәажәаразы ааԥхьареи | Есы-етап, даҽаӡәи дцәажәозар |
+| [Photo pairs](/games/photo-pairs/) | Шәара шәхаҭа шәфотоқәа рыла иҟаҵоу еиԥшу хәмарра | Араԥхьатәии абжьаратәии аетапқәа |
+| [Coloring](/games/coloring/) | Аԥшшәи шәақәыӷәӷәа, анаҩс асахьа ахәҭа; ма икьыԥхьтәуп | Есы-етап, ацхыраарала |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Еицаатәара, шаҟа ацхыраара шәырҭаша, анбаанымкылаша азы шәаԥхьа [адеменциа змоу ауаҩы ицны ахәмарра шымҩаԥысуа](/caregiving/how-to-play-together/). «Агәалашәаратә хәмаррақәа» шәызхшыҩузар, шәахәапш [адеменциа змоу аиҳабацәа рзы агәалашәаратә хәмаррақәа](/activities/memory-games/).
 
-## How to make any activity easier
+## Иарбан усзаалакгьы еиҳа имарианы иҟаҵара шыҟало
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA абжьгарақәа маҷк ҵасқәа рахь иаауеит: ауаҩы илшо иақәшәо аус алышәх, ралагара шәрыцхраа, аԥырхага шәахәаԥш, агәырӷьара роурц шәаҽазышәшәа, ргәаԥхозар башагьы рхәаԥшыртә шәааныжь.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Урҭ ргәы зегь раасҭа бзиахо амш аамҭа алышәх,** аамҭагьы кьаҿны ишыҟоу шәааныжь.
+- **Зегь раԥхьа шәырхиа,** уажәгьы шәалагартә.
+- **Шәааԥхьа, ҵас шәырмыҭан.** «Шәара исцхраартә шәылшома?» еиҳа ибзиоуп, «Аус аамҭа ааит» аасҭа.
+- **Раԥхьатәи ашьаҿа шәхаҭа шәҟашәҵа,** дара шәацлаларц.
+- **Аамҭакала заҵәык ашьаҿеи заҵәык алыхреи шәырҭа.**
+- **Дара ишрылшо еиԥш иҟаларц шәааныжь.** Ииашамкәа иеиҵыхәу ахылпаҵәрақәагьы бзиоуп.
+- **Игәырӷьо иаанкыла.** Аамҭа цаанӡа аанкылара гхаӡам, бзиоу алҵшоуп. Мап рҳәозар, шәахәапш [адеменциа змоу ауаҩы мап аниҳәо](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) имарианы иаҳәоит: агәырӷьара шьаҭас иаалышәх, аихьӡарақәа раасҭа.

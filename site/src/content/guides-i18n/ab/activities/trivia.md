@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Адеменциа змау аиҳабацәа рзы имариоу авикторина"
+seoTitle: "Адеменциа змау рзы имариоу авикторина: 50 зҵаара"
+description: "Адеменциа змау аиҳабацәа рзы 50 мариоу зҵаара, аҭакқәеи атемақәеи рыцны, убас акәылхылара ҟамлартә еиԥш авикторина амҩаԥгашьа."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Адеменциа змау аиҳабацәа рзы имариоу авикторина акзаара амоуп уи цәажәараны
+  ианыҟоу, ԥышәараны акәымкәа. Раԥхьатәи аамҭақәа рзтәи атемақәа рыла азҵаарақәа
+  ҟашәҵа, иаҳҳәап, ажәытә ашәақәа, ажәамаанақәа, аныҳәақәа, есымшатәи аԥсҭазаара,
+  еснагь ҩба мамзаргьы хԥа ҭак алхратәы иҟашәҵа. Аҭак шәара шәхаҭа марианы
+  иҳәалатәуп, макьана акгьы ахьыӡбамкәа, хыԥхьаӡара ҟамҵакәа, аҭакцыԥхьаӡа
+  аҿцәажәара алагаразы ахархәара аҭатәуп. «Ари мамзаргьы уи» ҳәа зҵаарақәа,
+  ииашам ҭак змам, аҵыхәтәантәи аэтапқәа рзы даара ибзиоуп.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Раԥхьаӡатәи, шәацынхаз атемақәа рыла азҵаарақәа ҟашәҵа: ашәақәа, ажәамаанақәа, аныҳәақәа, афатә, раԥхьатәи аамҭақәа рзтәи есымшатәи аԥсҭазаара."
+  - "Ҩба мамзаргьы хԥа ҭак алхратәы иҟашәҵа, ауаҩы ихшылоу иақәымшәакәа, аҭак ахьӡ аниаҳа рацәак имцырккәа иазхаҵартә еиԥш."
+  - "Аҭак гәыбылрала шәҳәа, анаҩс ишәца. Аҿцәажәара хазҵо маҷк ииашам аҭакгьы бзиоуп."
+  - "Қәра ахьӡбам, агәыԥқәа реиндаҭлара ыҟам, хаҭалатәи уаҩык изҵаара ҟамҵатәум. Аҭакқәа зегьы реилазаара иаалыҵлатәуп."
+  - "Аҭакқәа ралхра уадаҩхалак, ииашам ҭак змам «ари мамзаргьы уи» ҳәа азҵаарақәа рахь шәиас."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Адеменциа змау ауаа рзы авикторинақәа хәарҭоума?"
+    a: "Абас иҟоу ахәмаррақәа хәарҭара рымазар ауеит, хьаас иҟамҵакәа, ласы-ласы имҩаԥыргозар. Америка адеменциа афонд (Alzheimer's Foundation of America) авикторина раԥхьатәи аэтап аҿы хәарҭоу уснагьырақәа ирыҵаркуеит. Азҵаарақәа еицырдыруа атемақәа ирызкузароуп, алхрақәа ҟаҵатәуп, хаҭалатәи ауаҩы хьыӡбара иззымҩаԥгакәа, аҭакқәа цәажәарала аиԥылара аҿиара иазкзароуп."
+  - q: "Адеменциа змау рзы авикторинақәа рҿы иарбан темақәоу еиҳа ибзиоу?"
+    a: "Ажәытә аамҭақәа рзы ирҵаз еиҳа бзианы иргәалашәоит: ауаҩы иқәра маҷаҵәҟьа аамҭазы ирызҿлымҳаз ашәақәеи ашәаҳәаҩцәеи, еицырдыруа ажәамаанақәа, аныҳәақәа, афатә, аспорт, ажәытә есымшатәи аԥсҭазаара (иаҳҳәап, ахшыр аҩныҟа аргареи адиалтә телефонқәеи). Аҵыхәтәантәи аамҭа иатәу ажәабжьқәеи, аиԥылара алагамҭазы иҳәаз агәалартәра зҭаху атемақәеи шәрыцәца."
+  - q: "Ауаа рзы аԥсшьарҭаҿы ауаҩы игәы мкамыршәартә еиԥш авикторина шпоугӡатәу?"
+    a: "Азҵаарацыԥхьаӡа агәыԥ зегьы рахь иҳәатәуп, алхратә ҭакқәа дырбатәуп мамзаргьы иҳәатәуп, дарбан заалакгьы иҭак ԥхьаӡатәуп. Хаҭалатәи ауаҩы изҵаара ҟамҵатәум, ақәрагьы ӡбатәум. Иарбан ҭакызаалакгьы, лахьынҵарала ииашоу аҭак шәҳәа, анаҩс аҿцәажәара шәалагеит, иаҳҳәап: «Шәара шәхыла ажәытә кинотеатрқәа шәырҭахьама?»"
+  - q: "Адеменциа аҵыхәтәантәи аэтапқәа рҿы авикторина ацынхәрас иҟаҵатәузеи?"
+    a: "Ииашам ҭак змам азҵаарақәа рахь шәиас, иаҳҳәап «Акофе мамзаргьы ачаи?» ма «Амшын аԥшаҳәа мамзаргьы ашьхақәа?». Убасгьы еицырдыруа ажәамаанақәеи ашәақәеи реихшара ацынҵара, асахьақәа рахәаԥшреи рыӡбахә аҳәареи бзианы иацхраауеит."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Авикторина — ауаа рзы аԥсшьарҭақәеи аҽныҭбааратә центрқәеи рҿы зегь реиҳа иргәаԥхо агәыԥтә усқәа ируакуп, убас аҭаацәарақәа рацәаны аҩны астол аҿгьы ихәмаруеит. Аха шамахамзар имҩаԥырго еиԥш, ахыԥхьаӡара ахьӡбо, хаҭалатәи ауаҩы аҭак аниҭо, адеменциа змау ауаҩы хьыӡбара ду амоушәа игәы ихәар ҟалоит. Агәыбылрала имҩаԥгазар, уи аҿцәажәара ласы-ласы иазыҟало, хаҿыда ажәабжьқәа раҳаразы алшара ҟанаҵоит. Аҵаҟа иаагоуп алхрақәеи аҿцәажәаразы атемақәеи зцу 50 мариоу зҵаара, анаҩс — авикторина бзианы амҩаԥгашьа.
 
-## How do you make trivia work for someone with dementia?
+## Ишԥаҟаҵатәу авикторина адеменциа змау ауаҩы изы ахәарҭа амазартә еиԥш?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Уи ажәытә аамҭақәа рахынҳәреи рыргәаларазы алшареи иазкзароуп, аҭакцыԥхьаӡагьы патуқәҵарала иаднакылароуп.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Ажәытә аамҭақәа шәрызҵаа.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ишаҳәо ала, Альцгеимер ихьӡ зху ачымазара раԥхьатәи асимптомоуп ҿыц ирҵаз аинформациа агәалашәара ауадаҩра. Ажәытә аамҭатәи ашәақәа, ажәамаанақәа, есымшатәи аԥсҭазаара уи аамҭазы еиҳа иалкаау ҭакыс иҟалоит.
+2. **Еснагь алхрақәа ҟашәҵа.** Ҩба мамзаргьы хԥа ҭак рахьтә ииашоу алхра, хыбгала аҭак аԥшаараасҭа даара имариоуп.
+3. **Азҵаарақәа бжьыҭарала шәрыԥхьа, дуны идырба.** Адоска ду мамзаргьы апланшет ахархәара бзианы ицхраауеит хшылра змам ауаа.
+4. **Аҭак шәара шәхаҭа марианы иҳәалатәуп.** Аӡәгьы имдырзар, гәыбылрала иҳәатәуп, анаҩс шәцароуп. Ахаан «Уа, уара уи бзианы иудыруанӡа» ҳәа шәымҳәалан.
+5. **Ақәра ахьӡбатәум.** Хаҭалатәи уаҩык изы акәзааит, астолқәа рзы акәзааит. Ауаа ахыԥхьаӡара иашьҭазар, агәыԥ зегьы рзы ак зеиԥш ҳәа иҟашәҵа.
+6. **Хаҭалатәи ауаҩы аҭак изҵаарым.** Аҭак агәыԥ аҟынтә дарбан заалакгьы иаауазар ауеит. Ҩыџьа ракәзар, еицышәҳәа: «Сара апианино ауп сҳәоит. Уара ишԥауԥхьаӡо?»
+7. **Аҿцәажәаразы атема шәахәаԥш.** Аҭак — алагамҭа ауп, аҵыхәа акәӡам. Зегь реиҳа хадароу хықәкыс иҟоу — ажәабжьқәа раҳара ауп.
+8. **Икьаҿзароуп.** Ажәабжьқәа зцу жәаба зҵаара ахыбра нагӡаны иазхоит.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) хадаратә ԥҟараны иаҳәоит: ауаҩы игәы мкамыршәартә еиԥш дшыҟоу шәахәаԥш, ақәҿиара шимаз дубартә еиԥш иҟашәҵа. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) авикторина раԥхьатәи аэтап аҿы ахәарҭа змоу уснагьырақәа ирыҵанакуеит ҳәа иазгәанаҭоит. Агәҭатәи аэтап аҿы ҩба алхра мацара шәахьынӡамҩаԥга, аҿцәажәара атемақәа шәрыцхраа. Анаҩстәи аамҭазы — аҵаҟа иаагоу «ари мамзаргьы уи» ҳәа азҵаарақәа рахь шәиас.
 
-## Music and entertainment trivia
+## Амузикеи агәырҿыхарақәеи рзы авикторина
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Ииашоу аҭак **ибжабжьоу шрифттәуп**. Урҭ ауаҩы ихшылра ишақәшәо еиԥш шәырԥш: Мотаун ашәақәа ирзыӡырҩуаз ауаҩы егьырҭ ашәаҳәаҩцәа дрышьҭоит, джаз бэндқәа згәаԥхоз иреиԥшымкәа.
 
-| Question | Choices | Talk about |
+| Азҵаара | Алхрақәа | Аҿцәажәаразы |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Дызусҭада «Рок-н-ролл аҳ» ҳәа изышьҭамыз? | **Элвис Пресли**, Франк Синатра, Бинг Кросби | Элвис телевизорла дубацызма? |
+| Иарбан шәаҳәаҩда «Ol' Blue Eyes» («Ҵаула-иацәоу аблақәа») ҳәа ахьӡ хьӡыс измаз? | Дин Мартин, **Франк Синатра**, Перри Комо | Синатра ишәақәа рахьтә иарбану уара еиҳа ибзианы иубо? |
+| Бинг Кросби игәы иҭан шкәакәа... | **Ашықәс ҿыц (Christmas)**, ачара, аҩны | Цәаҳәак еицышәҳәа |
+| Луи Армстронг иҳәеит «What a Wonderful...» («Шаҟа иԥшӡоу...») | Day, **World**, Life | Иарбан хадароу уара узы адунеи ԥшӡа иҟазҵо? |
+| Иарбан фильм аҿоу Џьуди Гарленд «Over the Rainbow» ашәа ахьлыҳәаз? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Иарбан кинотеатрқәа рҿоу бзиа иубоз афильмқәа уахьырхәаԥшуаз? |
+| Дызусҭада «I Love Lucy» сериал аҿы Лиуси лроль назыгӡоз? | **Лиусиль Болл**, Дорис Деи, Бетти Уаит | Шәҭаацәара еицырхәаԥшуаз иарбан передачақәоу? |
+| Иарбан ковбоида Триггер зыхьӡыз аҽы згатәоз? | **Рои Роџьерс**, Џьин Отри, Џьон Уеин | Шәхәыҷраан ковбойцәас шәхәмаруамаз? |
+| Дызусҭада «The Tonight Show» 30 шықәса инеиԥынкыланы имҩаԥызгоз? | Эд Салливан, **Џьонни Карсон**, Боб Хоуп | Телевизор ахәаԥшразы уахынла шәаахуамаз? |
+| Иарбан инструмент ауп 88 клавиш змоу? | Агитара, **апианино**, аторба | Шәҭаацәара рҟынтә амузика ихәмаруаз ыҟамаз? |
+| Иарбан кәашароу «ак-ҩба-хԥа, ак-ҩба-хԥа» ҳәа хыԥхьаӡарала имҩаԥысуа? | **Авальс**, твист, танго | Иабашәцоз шәара шәкәашарц? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Амузика иазкы еиҳаны шәаԥхьар шәҭахзар, шәахәаԥш [адеменциа змау рзы амузикатә усқәа](/activities/music/).
 
-## Everyday life trivia
+## Есымшатәи аԥсҭазаара иазку авикторина
 
-| Question | Choices | Talk about |
+| Азҵаара | Алхрақәа | Аҿцәажәаразы |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Ахолодильникқәа ҟалаанӡа, афатә цқьазарц иахьарԥшырҭаз... | **Аҵәца ҭарҭа (Icebox)**, агуфка, асарай | Аҵәца дуузгоз дызусҭада? |
+| Астекло шишақәа рыла ахшыр ашә аҿы иаазгоз дызусҭада? | Апочтальон, **ахшырзаагаҩ**, агазеҭазаагаҩ | Даҽа акгьы аҩныҟа иаашәыргомаз? |
+| Ишԥарцәажәоз ажәытә адиалтә телефон ала? | Аҟәыдқәа рықәыӷәӷәарала, **адиал аргьежьрала**, ацәажәарала | Шәҩны иҟаз ателефон аӡбахә шәыҳәа |
+| Иарбан компаниоу Model T машьына ҟазҵоз? | **Форд**, Шевроле, Бьюик | Бзиа иубоз амашьына аӡбахә ҳаиҭаҳәа |
+| «Сода-джерк» ҳәа изышьҭаз уаҩы иабаумбартә иҟаз? | **Асода кафе аҿы**, ачарҭаҿы, абанкаҿы | Астол аҿы иарбан фатәу шәаҳәоз? |
+| Иарбан хәмаргоу амч иацу, аҿаҟәарақәа рахьла ихәмаруа? | Ио-ио, **Слинки (апружына)**, хула-хуп | Иарбан хәмаргоу шәхәыҷраан бзиа шәырбоз? |
+| Драйв-ин кинотеатр аҿы иарбан усоу ҟарҵоз... | **Машьынала афильм ахәаԥшра**, аболла ахәмарра, апарадқәа | Дарбан шәара шәацыз? |
+| Долларктәи аԥара аҿы дзусҭада ихьӡ асахьа зну? | Линкольн, **Џьорџь Вашингтон**, Џьефферсон | Усҭантәи аамҭазы долларк иаҳәоз зеиԥшроузеи? |
+| Пенни цент монета аҿы дзусҭада ихьӡ асахьа зну? | **Авраам Линкольн**, Вашингтон, Франклин | Аԥара маҷ-маҷ абанк аҿы шәеизгомаз? |
+| Иарбан ԥштоу ашколтә автобус шамахамзар иамоу? | Иҟаԥшьу, **иҩежьу**, ииацәоу | Шәара шәшколшәахь ишԥашәцоз? |
 
-## Holidays, nature and places
+## Аныҳәақәа, аԥсабара, аҭыԥқәа
 
-| Question | Choices | Talk about |
+| Азҵаара | Алхрақәа | Аҿцәажәаразы |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Абҵара аԥшьбатәи ахаша аҽны иарбан ныҳәоу имҩаԥырго? | Аусура амш, **Аҭабуп ҳәара амш (Thanksgiving)**, Агәалашәара амш | Шәстол аҿы еснагь иҟаз иарбан фатәу? |
+| Џьек-о-лентерн (акаба асахьа) иарбан ныҳәазы иҟарҵозеи? | **Хэллоуин**, Апасха, Ашықәс ҿыц | Шәхәыҷраан уи аныҳәа шымҩаԥысуаз ҳаиҭашәҳәа |
+| Ԥхынгәы 4 аҽны иазгәарҭоит Декларациа иазку... | Азинқәа, **Ахьыԥшымра**, Ахақәиҭра | Асалиут иабашәахәаԥшуаз? |
+| Анцәа рымш иарбан мзоу ианыҟоу? | Мшаԥы, **Лаҵара**, Рашәара | Шәҭаацәара ишԥариазгәарҭоз? |
+| Америкатәи абираҟ аҿы шаҟа еҵәа ыҟоузеи? | 48, **50**, 52 | 1959 ш. рҟынӡа 48 еҵәа ыҟан. Аҩ-ҭакгьы агәалашәаразы бзиоуп |
+| Иарбан океаноу Мрагыларатәи аԥшаҳәаҿы иҟоу? | Аҭынч океан, **Атлантикатә океан**, Арктикатә океан | Амшын аԥшаҳәахь шәцахьама? |
+| Иарбан қалақь аҿоу Ахақәиҭра Амонумент згылоу? | Бостон, **Ниу-Иорк**, Филадельфиа | Ниу-Иорк шәҟахьама? |
+| Ажьқәа иарбан хамҭоу иҟарҵо? | Ахшыр, **ацха**, аҳазыр | Ацха чала шәфома, ма чаила шәжәома? |
+| Ажә лхәыҷы хьӡыс иамоузеи? | Аҽыхәыҷ, **ахәаҷа**, аџьма | Аферма азааигәара шәынхомаз? |
+| Иарбан шәҭ дуу амра ахь ихьежьуа? | Ароза, **амрашәҭ**, аҭиульпан | Шәбаӷча аҿы иарбан шәҭқәоу ишәҵоз? |
+| Ашықәс ду (високосный год) аҿы шаҟа мшы ыҟоузеи? | 365, **366**, 360 | Шәгәы инхаз шәира амш аӡбахә ҳаиҭашәҳәа |
+| Аӡын анаҩс иарбан аамҭоу ауаҩы иԥыло? | Аҿаҳатәра, **ааԥын**, аԥхын | Зегь реиҳа бзиа иубо ашықәс аамҭа иарбану? |
 
-## Food and sports trivia
+## Афатәи аспорти рзы авикторина
 
-| Question | Choices | Talk about |
+| Азҵаара | Алхрақәа | Аҿцәажәаразы |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Аизюм — уи иҩоу... | Ахәа, **ажь**, аҵәа | Ашколшәахь аизюм шәыркуамаз? |
+| Ачернослив — уи иҩоу... | **Ахәа**, асмоква, аҵәа | Шәҭаацәара рҟынтә чернослив бзиа избоз дызусҭада? |
+| Аарахистә масцеи... | **Аџьам (варенье)**, ахәша, ажьы | Иҵарӡуа ма имариоу шәбзиа ижәбо? |
+| Гуакамоле хадарала иалырхуеит... | Агорох, **авокадо**, акьарахә | Аныҳәақәа рҿы иарбан соусқәоу шәырҭоз? |
+| Аҭабуп ҳәара амш азы зегь реиҳа бзиа ирбо апирог иарбану? | **Акабатә**, алимонтә, аҵәатә | Иарбан пирогоу шәара еиҳа ишәҵоз? |
+| Беисбол команда аҵаҟа шаҟа уаҩы ыҟоузеи ахәмарра аҭыԥ аҿы? | 7, **9**, 11 | Иарбан команда шәара шәазҿлымҳаз? |
+| Беисбол аҿы аут ҟаларц шаҟа страик аҭахузеи? | Ҩба, **хԥа**, ԥшьба | Шәара аболла шәхәмаруамаз? |
+| Беиб Рут иарбан спорт аҿоу еицырдыруаз? | Абокс, **абеисбол**, агольф | Шәара аматчқәа шәырҭахьама? |
+| Гольф хәмарра иашоу аҿы шаҟа ԥшаҳәа (лунка) ыҟоузеи? | 9, **18**, 24 | Гольф мамзаргьы мини-гольф шәхәмарахьама? |
+| Иарбан спорт аҿоу тачдаун (touchdown) ҳәа хыԥхьаӡара ахьыҟарҵо? | **Америкатә футбол**, ахоккеи, абаскетбол | Шәҩны афутбол ихәаԥшуаз дызусҭада? |
 
-## Familiar sayings
+## Еицырдыруа ажәамаанақәа
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Ажәамаана ахыркәшара ажәытә аамҭақәа рзы ирҵаз абызшәа ауп иахьахынҳәуа, убри аҟынтә марианы иаауеит. Ҳара ҳтәы [Finish the saying](/games/finish-the-saying/) ахәмарра аҿы еиҳа рацәаны иҟоуп, ақәыӷәӷәарала аҵыхәа дырбар ауеит.
 
-| Saying | Choices | Talk about |
+| Ажәамаана | Алхрақәа | Аҿцәажәаразы |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Есымша ҵәак уфозар, уара узы уадаҩхоит... | **Аҳақьым дыԥшаара**, ақәа аура, ацгәы аԥшаара | Уи ажәа шәара шәыжәҳәоз дызусҭада? |
+| Иаарласны иҩашьо аԥсаатә иаанакхалоит... | Автобус, **аҵыс (ахәаша)**, аԥхьарҭа | Шәара шәхыла еснагь иаарласны шәҩашома? |
+| Аҵысқәа шәрымыԥхьаӡан, урҭ... | **Ианымҩасуа (ианымырхыз)**, ианымцәо, ианымҳәо | Шәҭаацәара акаҭақәа рымазма? |
+| Монетак ухы ианумырхьо, монетак... | **Уԥшааит**, уӡит, ухархәеит | Шәҭаацәара аԥара ибзианы изхәыцуаз дызусҭада? |
+| Аҩны — уи уара угуы... | Абаӷча ахьыҟоу, **ахьыҟоу**, аҩны ахьыҟоу | Иарбан хадароу аҩны шәҩны иҟазҵо? |
+| Еиҳа бзиоуп ишахьаз... | Иаарласны, **ахаан иҟамлацыз**, уахынла | Еснагь шәҭаацәара иахьашьомыз дызусҭада? |
+| Цәаакгьы иҟам... | **Араӡны ԥштәы змам**, афатә змам, аԥара змам | Шәԥсҭазаараҿы иҟалаз бзиарак аӡбахә ҳаиҭашәҳәа |
+| Аусқәа еиҳа бзианы иҳәоит... | **Ажәақәа раасҭа**, амузика аасҭа, адиал аасҭа | Уи ажәа зҳәоз уаҩык аӡбахә ҳаиҭашәҳәа |
 
-## This-or-that questions with no wrong answer
+## Ииашам ҭак змам «ари мамзаргьы уи» ҳәа азҵаарақәа
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Абарҭ азҵаарақәа этапцыԥхьаӡа иақәшәоит, аҵыхәтәантәиқәа рҿгьы, избан акәзар ииашам ҭак ыҟаӡам. Шәазҵаа, шәрыӡырҩ, шәара шәхаҭа шәҭакгьы шәҳәа.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Акофе мамзаргьы ачаи?
+- Амшын аԥшаҳәа мамзаргьы ашьхақәа?
+- Алақәа мамзаргьы ацгәықәа?
+- Аԥхын мамзаргьы аӡын?
+- Апирог мамзаргьы аторҭ?
+- Акәашара мамзаргьы ахәаԥшра?
+- Амра агылара мамзаргьы амра алара?
+- Аҩны аԥхьатәи аверанда мамзаргьы аҩны аҵыхәтәантәи абаӷча?
+- Арадио мамзаргьы апластинкақәа?
+- Аблинқәа мамзаргьы акәатақәа?
+- Арозақәа мамзаргьы аромашкақәа?
+- Амашьынала аныҟәара мамзаргьы аҳаирпланла?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Асахьақәа зцу аҿцәажәаразы атемақәа рахьтә шәахәаԥш ҳара ҳкартақәа [Conversation cards](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Ишԥамҩаԥгатәу авикторина аԥсшьарҭаҿы ма агәыԥ аҿы?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Ауаа еиҵаргыла бзианы ирбарҭау, ираҳарҭау еиԥш.** Аҳаҳарҭа аппаратқәа шәырҵа, ачкиқәа шьҭышәх, телевизор шәамырхын.
+2. **Аҿцәажәара ҳәа шәалага.** «Ажәытә аамҭақәа рзы зҵаарақәак сымоуп, сара сыздыруа аасҭа шәара шәарацәаны ишәдыруеит ҳәа сгәы иаанагоит».
+3. **Азҵаарацыԥхьаӡа ҩынтә шәаԥхьа, алхрақәа дуны идырба.**
+4. **Иарбан ҭакызаалакгьы иаашәҳәа.** Ибзиоу аҭакқәа шәрырҳәа егьырҭгьы ираҳарц.
+5. **Аҭак зегьы рахь иҳәатәуп,** анаҩс атема агәыԥ зегьы шәрыдшәалоит.
+6. **Амч ахьыҟоу шәашьҭаца.** Азҵаарак жәа минут рацәа аҿцәажәара хазнарцыр, марианы уи шәаҿыцәажәа.
+7. **Ашәала мамзаргьы «ари ма уи» раундла шәхыркәша,** ауаа зегьы имариоу ак ала ргәы ҭынчны инхарц.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Егьырҭ агәыԥтә формақәа, асахьақәа рыла бингои ашәаҳәареи уҳәа, шәахәаԥш [group activities for care homes](/activities/care-home-groups/).
 
-## When to change the plan
+## Аплан аԥсахра анеиҭаху
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Аӡәы игәы каҳазар, дҭынчымхар, ма «Исымдыруеит» ҳәа ҩынтә иҳәазар, еиҳа имариа шәҟашәҵа: ҩба алхра мацара шәахьынӡамҩаԥга, еицышәҳәа, мамзаргьы «ари мамзаргьы уи» ҳәа азҵаарақәа рахь шәиас. Агәыԥ ахәылбыж зегьы зҵаарак аҿцәажәара иазкар, уигьы қәҿиароуп. Хықәкыс иҟаз ахаан ииашоу аҭакқәа ракәӡамызт. Хықәкыс иҟаз — бзиабаралеи патуқәҵаралеи аамҭа аицыртгара ауп.

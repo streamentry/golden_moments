@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Ciglisak akriy",
+      "stopReading": "Akriye wagaysiis",
+      "region": "Kooqu",
+      "restart": "Qusbak qimbis",
+      "soundOn": "Siki xinto fak",
+      "soundOff": "Siki xinto alif",
+      "done": "Ta saaqatah gaba kalte",
+      "feedbackQuestion": "Tah asaaku qokol koo geysee?",
+      "feedbackYes": "Yeey",
+      "feedbackNo": "Mangoh hinna",
+      "feedbackThanks": "Nee warsiteenih gadda geyita."
+    },
+    "tile": {
+      "named": "{name}, moofa {n}",
+      "hidden": "Qellitte sumaq, moofa {n}",
+      "withState": "{label}, {state}",
+      "matched": "Ittit catti",
+      "selected": "Doorante",
+      "picture": "Sumaq",
+      "photoNumber": "Sumaq {n}"
+    },
+    "pairs": {
+      "allTogether": "Lamma lamma koboxte. Qusbak dibuk kooqit kee hinnay afoocat kobox.",
+      "photoPair": "Lamma sumaq, ittat lakat.",
+      "picturePair": "Lamma sumaq {name|lower} edde yan, ittat lakat.",
+      "selected": "{name}. Kaadu teetik kobox gey.",
+      "mismatch": "Ku wakti qeeda. Sumaq tabbixak wadirah gex.",
+      "mismatchNamed": "{a} kee {b}. Ku wakti qeeda. Sumaq tabbixak wadirah gex."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Sumaq tibbix, tohuk lakal ittat gactaah catti tabbix.",
+      "guidanceHidden": "Lamma moofa korobtubuk tabbix. Lamma inki sumaq le doora.",
+      "restart": "Qusba sumaqitte",
+      "sizeLegend": "Moofittek mangina",
+      "size": {
+        "one": "{n} moofa",
+        "other": "{n} moofitte"
+      },
+      "viewLegend": "Akah kooqitan inna",
+      "viewShowing": "Tambulle sumaqitte",
+      "viewHidden": "Qellitte sumaqitte",
+      "playAgain": "Qusba sumaqittel qusbak kooqi",
+      "talk": "Sumaqitteh wadir ittat yaaba"
+    },
+    "choose": {
+      "countLegend": "Sumaqittek mangina",
+      "count": "{n} dooranah tan",
+      "thatOne": "Woo sumaq kinni {name|lower}. Ku wakti qeeda."
+    },
+    "findTheSame": {
+      "guidance": "Amol tan sumaq fan waxagila. Gubal tan inki sumaq tabbix.",
+      "yes": "Yeey, woo inki {name|lower} kinni.",
+      "next": "Gacta sumaq"
+    },
+    "shadowMatch": {
+      "guidance": "Amol tan qaxanto fan waxagila. Teeti baxsa sumaq tabbix.",
+      "yes": "Yeey, {name|lower} woo qaxanto hayta.",
+      "next": "Gacta qaxanto",
+      "shadowAlt": "Ittit catta qaxanto",
+      "foundAlt": "{name|lower} qaxanto"
+    },
+    "sortTogether": {
+      "guidance": "Sumaq tibbix, tohuk lakal gacta gubba tabbix.",
+      "restart": "Qusba sumaqitte",
+      "themeLegend": "Kobox",
+      "selected": "{name}. Tohuk lakal teetit catta gubba tabbix.",
+      "pickFirst": "Urguk sumaq tibbix, tohuk lakal gubba tabbix.",
+      "hint": "{name|lower} \"{basket}\" addat gaxa maraay. Woo gubba tabbix teetit heeh.",
+      "placed": "{name|lower} \"{basket}\" addal tan.",
+      "sorted": "Kullim yaffareenih yan. Gubbitteh adda ittat wagitay, hinnay aka araca doora.",
+      "basket": {
+        "one": "{basket} gubba, {count} sumaq addal le",
+        "other": "{basket} gubba, {count} sumaqitte addal le"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Inki fooca tibbix, tohuk lakal aka fooca tabbix. Ittat maadan.",
+      "restart": "Qusbak ittal hay",
+      "pictureLegend": "Sumaq",
+      "pictures": {
+        "sailboat": "Doyli",
+        "house": "Ari",
+        "balloon": "Baaluun",
+        "sunflower": "Ayro floore",
+        "lighthouse": "Baxaari fanuus",
+        "cat": "Domburu"
+      },
+      "sizeLegend": "Baxsiiteynaani",
+      "size": {
+        "one": "{n} baxsi",
+        "other": "{n} baxsiiteynaani"
+      },
+      "pickedUp": "Baxsi tibbixe. Tohuk lakal gaxa araca tabbix.",
+      "whole": "{name|lower} duddeemihi yan. Waktik teetih fantaaxagin aka sumaq doora.",
+      "swapped": {
+        "one": "Ittat maadeenih yan. {total} baxsiik {correct} aracat yan.",
+        "other": "Ittat maadeenih yan. {total} baxsiik {correct} aracat yaniinih."
+      },
+      "guideAlt": "Dudda sumaq: {name}",
+      "guideText": "Sumaq duddam waydo akah tambulle inna tah kinni.",
+      "piece": "{place} addal tan baxsi",
+      "pieceInPlace": ", massakat tan aracat",
+      "piecePickedUp": ", tibbixeemihi yan",
+      "places4": [
+        "amo gari",
+        "amo misso",
+        "guba gari",
+        "guba misso"
+      ],
+      "places9": [
+        "amo gari",
+        "amo fana",
+        "amo misso",
+        "fana gari",
+        "fana",
+        "fana misso",
+        "guba gari",
+        "guba fana",
+        "guba misso"
+      ],
+      "done": "Sumaq qusbak duddeeme. Qusbak kooqi hinnay saqaq kobox.",
+      "playAgain": "Qusbak ittal may"
+    },
+    "finishTheSaying": {
+      "guidance": "Kassiisi ittat akriya, tohuk lakal tet duddussa qangara tabbix.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Yeey, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" takkeemihi tan. Dudda kassiisi \"{end}\" edde yabala.",
+      "revealed": "Kassiisi tah kinni: \"{start} {end}.\"",
+      "choicesLabel": "Gaba kalta qangara doora",
+      "show": "Gaba kalto yuybulluy",
+      "talk": "Ittat yaaba: ",
+      "next": "Gacta kassiisi"
+    },
+    "wordSearch": {
+      "guidance": "Qangara gariik missóh hinnay amook gubáh gexxa. Qangarah naharsi herfi tabbix, tohuk lakal gaba kaltooh herfi tabbix.",
+      "restart": "Qusba kooqu",
+      "themeLegend": "Kobox",
+      "sizeLegend": "Grid mangina",
+      "size": {
+        "one": "{n} x {n} ({words} qangara)",
+        "other": "{n} x {n} ({words} qangara)"
+      },
+      "print": "Ta kooqu daqbisa",
+      "letterChosen": "Herfi {letter} doorante. Kaadu qangarah gaba kaltooh herfi tabbix.",
+      "found": "{word} geytime.",
+      "foundAll": "{word} geytime. Kullim geytimeenih yan. Qusbak kooqi hinnay saqaq kobox.",
+      "tryAgain": "Ku wakti qeeda. Qangarah naharsi herfi tabbix, tohuk lakal gaba kaltooh herfi tabbix.",
+      "gridLabel": "Herfitteh grid, {n} fantaaxag {n} herfi le. Saqaytaanih teeti fanak kaloota.",
+      "cell": "{letter}, roo {row}, kolum {col}",
+      "cellFound": ", geytimte qangarak gabat tan",
+      "wordsHeading": "Geytima qangaraara",
+      "wordFound": " (geytime)",
+      "sheetTitle": "Qangara gurrus: {theme}",
+      "sheetNote": "Qangaraara sirat kee amook gubáh gexxa.",
+      "unavailable": "Herfitteh grid ta afak faxxintimtam hinna, tohuk ugusak qangara gurrus maanaane akke wayta. Sumaqitteh kooqu kooqi."
+    },
+    "coloring": {
+      "guidance": "Liini tabbix, tohuk lakal sumaqak gabat tabbix.",
+      "restart": "Liini qid",
+      "cleared": "Waraqata qusbak qado tekke.",
+      "pageLegend": "Waraqata",
+      "print": "Ta waraqata daqbisa",
+      "colorsLabel": "Liinite",
+      "paintChosen": "{paint} doorante.",
+      "painted": "{part} {paint|lower} tekke.",
+      "artLabel": "{page}, {count} gaba liinitanta",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, liini male",
+      "paints": {
+        "red": "Qasa",
+        "orange": "Burtukaani",
+        "yellow": "Assal",
+        "green": "Caxatto",
+        "blue": "Balaw",
+        "purple": "Weyni",
+        "pink": "Qas-qado",
+        "brown": "Bunni",
+        "sky-blue": "Samawii balaw",
+        "cream": "Kriim",
+        "gray": "Bora",
+        "white": "Qado"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Karto ciglisak akriya. Inki massakat tan jaawab mayan.",
+      "position": "Karto {n} / {total}",
+      "themeLegend": "Kobox",
+      "next": "Gacta karto",
+      "previous": "Duma karto",
+      "print": "Kulli karto daqbisa",
+      "sheetTitle": "Ittat yaabah kaartoora"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Naharat ku sumaqitte doora.",
+      "guidance": "Sumaq tibbix, tohuk lakal ittat gactam tabbix.",
+      "restart": "Qusbak ittal hay",
+      "intro": "Ta aalatik **2ik 6 fanah tan sumaqitte doora**. Usun ta waraqatal tubbillem kal kaadu ma-dagnaay ma-koxxuma.",
+      "choose": "Sumaqitte doora",
+      "chooseDifferent": "Aka sumaqitte doora",
+      "clear": "Sumaqitte qid",
+      "cleared": "Sumaqitte ta arakatuk xinte.",
+      "atLeastTwo": "Xayuk lamma sumaq doora.",
+      "usingFirst": "Naharsi {max} sumaqittat taamitta.",
+      "skipped": {
+        "one": "{count} fayil nanu yaybulluweeni sumaq maane.",
+        "other": "{count} fayil nanu yaybulluweeni sumaqite maane."
+      },
+      "playAgain": "Ta sumaqittel qusbak kooqi",
+      "empty": "Ku sumaqitte kullim lamma adda ta aracal tambullee."
+    },
+    "pictureBingo": {
+      "guidance": "Naharat kaartoora daqbisa. Tohuk lakal ta secayna koboxut kaxxa iskriinil yuybulluy.",
+      "called": {
+        "one": "{name}. {total} sumaqik {called} seecan.",
+        "other": "{name}. {total} sumaqittek {called} seecan."
+      },
+      "start": "\"Gacta sumaq\" tabbix naharsi sumaq seecuh.",
+      "restart": "Qusba kooqu qimbis",
+      "squaresLegend": "Kulli kartoh addal tan murabbaqiite",
+      "squares": "{n} murabbaq ({side} x {side})",
+      "cardsLegend": "Daqbisiyyah kartootak mangina",
+      "cards": {
+        "one": "{n} karto",
+        "other": "{n} kaartoora"
+      },
+      "print": {
+        "one": "{n} biingo karto daqbisa",
+        "other": "{n} biingo kaartoora daqbisa"
+      },
+      "ready": "Kok koboxte waqdi koboxte",
+      "next": "Gacta sumaq",
+      "allCalled": "Kulli sumaq seecan",
+      "alreadyCalled": "Dumaak seecan",
+      "sheetTitle": "Sumaq biingo · karto {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Goroy kaxxaawak nifsa kobox, cindawak nifsa eweeqis. Laca buufutik lakal isi nafsik solosita.",
+      "paceLegend": "Kaskas",
+      "paceSlow": "Sasik (kullummo 5 sikinit)",
+      "paceGentle": "Salih (kullummo 4 sikinit)",
+      "ready": "Atu madaqqoowte waqdi madaqqaane",
+      "in": "Nifsa kobox",
+      "hold": "Soli",
+      "out": "Nifsa eweeqis",
+      "start": "Qimbis",
+      "stop": "Solis",
+      "started": "Qimbisime. Goroy kaxxaawak nifsa kobox.",
+      "stopped": "Solisime.",
+      "finished": "Taah laca sasik buufut tekke. Faxxe waqdi qimbisiyya duddah."
+    }
+  },
+  "pictures": {
+    "teacup": "Kubbaaya",
+    "kettle": "Bared",
+    "bread": "Gaabo",
+    "frying-pan": "Tawaa qanqalo lih",
+    "cake": "Keeki",
+    "sunflower": "Ayro cankalo",
+    "tulip": "Qasa cankalo",
+    "watering-can": "Lee-qasbiya",
+    "potted-plant": "Muuqa caxxa",
+    "tree": "Caxxa",
+    "bird": "Haada moro dumaat",
+    "butterfly": "Kallambilloota",
+    "dog": "Kuta",
+    "cat": "Adur",
+    "fish": "Kullum",
+    "apple": "Qasa tufac",
+    "pear": "Amruud",
+    "strawberry": "Istrawberi",
+    "banana": "Moos",
+    "lemon": "Limun",
+    "cherries": "Karas",
+    "house": "Cari",
+    "lamp": "Tawla tiri",
+    "armchair": "Barsi",
+    "key": "Kulfi",
+    "umbrella": "Xabalooba",
+    "sailboat": "Dooni",
+    "car": "Makiina",
+    "bicycle": "Baskilit",
+    "balloon": "Baaluun",
+    "lighthouse": "Fanaar",
+    "sun": "Ayro",
+    "moon": "Alsa kee cutuk",
+    "teapot": "Shaahi bared",
+    "apple-pie": "Tufac fatoori",
+    "honey-jar": "Malabo dabba",
+    "boiled-egg": "Qanqalo",
+    "toaster": "Gaabo-cibsiya",
+    "cheese": "Farmaajo",
+    "milk-jug": "Han-kassoa",
+    "cupcake": "Kape-keeki",
+    "orange": "Bortukal",
+    "grapes": "Cinab",
+    "watermelon": "Xabxab",
+    "pineapple": "Ananas",
+    "peach": "Kok",
+    "rose": "Wardi",
+    "daisies": "Cankalo",
+    "mushroom": "Ulukko",
+    "wheelbarrow": "Kariyool",
+    "birdhouse": "Haada cari",
+    "cactus": "Dagar",
+    "acorn": "Caxxi fato",
+    "autumn-leaf": "Caxxi aley",
+    "rabbit": "Wallocco",
+    "duck": "Daggatu",
+    "hen": "Bako",
+    "sheep": "Illa",
+    "owl": "Guguctu",
+    "ladybird": "Cankaali buuro",
+    "snail": "Qonxollo",
+    "frog": "Canaqle",
+    "bee": "Eyxalo",
+    "clock": "Saaca",
+    "vase-of-flowers": "Cankali faza",
+    "radio": "Raadiyo",
+    "books": "Kitaabitte",
+    "candle": "Shamqa",
+    "glasses": "Mankaar",
+    "telephone": "Telefoon",
+    "ball-of-wool": "Koorri suuf",
+    "straw-hat": "Koofi",
+    "train": "Baabur",
+    "bus": "Otoobis",
+    "airplane": "Tayyaara",
+    "suitcase": "Shanxa",
+    "tractor": "Tiraktar",
+    "rowing-boat": "Dooni",
+    "rainbow": "Roobi qasalo",
+    "rain-cloud": "Roobi gubli",
+    "snowflake": "Baraf",
+    "kite": "Kite",
+    "sunrise": "Ayro mawqa"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Muxo",
+          "words": [
+            "TIFAC",
+            "AMRUD",
+            "MOOS",
+            "LIMUN",
+            "CINAB",
+            "MANGO",
+            "BAPAY",
+            "ANANAS",
+            "TIIN"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Baxso",
+          "words": [
+            "WARDI",
+            "CAXXA",
+            "ROOB",
+            "AYRO",
+            "ALEY",
+            "DARO",
+            "CAFI",
+            "UBUK",
+            "XALAY"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Madqa",
+          "words": [
+            "KAS",
+            "MOOQO",
+            "GAABO",
+            "TAWAA",
+            "SAHAN",
+            "DISTI",
+            "SAHI",
+            "SHUKU",
+            "BARET"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Ayyanti",
+          "words": [
+            "AYRO",
+            "ROOB",
+            "BARAF",
+            "CACO",
+            "GACRI",
+            "DIBU",
+            "KACLI",
+            "CAWLE",
+            "BARA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Ugaac",
+          "words": [
+            "KUTA",
+            "ADUR",
+            "HAADA",
+            "KULLUM",
+            "FARAS",
+            "SAGI",
+            "LACO",
+            "BAKO",
+            "DANAN"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Cari",
+          "words": [
+            "DABA",
+            "BARSI",
+            "TIRI",
+            "SARIR",
+            "TAWLA",
+            "FENET",
+            "SAACA",
+            "KULFI",
+            "KOOTI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kullimmo kaarditte",
+        "food": "Maqo",
+        "home": "Cari",
+        "outdoors": "Daqar",
+        "animals": "Ugaac",
+        "travel": "Gexsit",
+        "work": "Taama kee dooqaysit",
+        "music": "Wacyi kee harsa",
+        "seasons": "Waqdi wakhtitte"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Madqak yawqeeh koo cule sunsuk mayya kicih?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Kaxxa ayrok keekik ma caynat dooritak tenne?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Koo cule muxoy fatoorik yoo bixiisaay?"
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Shaahi hinnay bun mannal cabbaaha?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Saaku maqo meqem aseeh mayya?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Caxxak diqlek muxo miigiteh tanek warisaay?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Caskay hinnay cammo: ma caynat kicih?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Gilal koo kassisa maqok mayya kicih?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Dabqeek koo cule carik yoo bixiisaay."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Daffeynaay aytakuk koo cule carrik anne?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Deffeyte saqdi carrik ma taama abak tekkene?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Kaxxam meqe sanduuqut ma xinto haytak tenne?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Shaahi kubbaayah iyya seecitak tenne?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Roobi ayro cari fanat ma taama abiyya kicih?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Baxsot ma cankalo abaysitak tenne?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Koo cule caxxak hinnay baxsok yoo bixiisaay."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Baxsot geytimtu meqeemik mayya?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Ma bisoh cankalo kaxxam kicih?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Carit caxxa hayyo kicihaa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ayro ley ayro meqeemik ku kassit mannak tanii?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Taaxigek koo cule kutak yoo bixiisaay."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Adur kee kuta, hinnay kal? Keenik ma caynat kicih?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Daqarat tableh hinnay oobbe haadak ma caynattu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Kullum ibbaabisseh hinnay kullumi lee daccarsitteh?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Tableemik kaxxam bilqaalu ley ugaac ma tiya?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Koo cule makiinak yoo bixiisaay."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Baddi afat hinnay qaleelak ma carrit wakti daffeera kicih?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Baskiliitil ma fan gexa kicih?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Qaranal haadak ma carri bagul gexa kicih?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Koo cule gexsitik yoo bixiisaay."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Abak koo cule taamak yoo bixiisaay."
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Saaqaddi abak mawaagisa dooqa ma tiya?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Abaanamal hinnay xisaanamal ku sumaq leemik mayya?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Taama qimbisak yan saytunnummo ma kassiis acuyuk tenne?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Iba kaxxam duyyisa wacyik ma caynat kicih?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Kaxxam meqe kaxxa ayro abtu waytam mayya?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Oobbiyya kicih tan xannaanik ma numu?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Wagitto kicih tan filmi hinnay tifi barnaamik ma tiya?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Gilalik kaxxam koo culeemik mayya?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Karmuk koo culeemik yoo bixiisaay."
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Xabi ayro kaxxam harsa ley abto ma tiya?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Koo fanat qasa roobi qimmo tasgalleemik mayya?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Baraf, roob hinnay ayro: ma tiya kicih?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Cankalo mukurut tan",
+          "regions": {
+            "sky": "Derre",
+            "table": "Tawla",
+            "stem": "Caxxi moro",
+            "leaf-left": "Gura aley",
+            "leaf-right": "Miga aley",
+            "petal-1": "Qasa cankalo 1",
+            "petal-2": "Qasa cankalo 2",
+            "petal-3": "Qasa cankalo 3",
+            "petal-4": "Qasa cankalo 4",
+            "petal-5": "Qasa cankalo 5",
+            "petal-6": "Qasa cankalo 6",
+            "petal-7": "Qasa cankalo 7",
+            "petal-8": "Qasa cankalo 8",
+            "center": "Cankali fanti",
+            "pot": "Mukur",
+            "pot-rim": "Mukuri af"
+          }
+        },
+        "house": {
+          "name": "Cari",
+          "regions": {
+            "sky": "Qaran",
+            "sun": "Ayro",
+            "grass": "Cafi",
+            "chimney": "Buxeeqa",
+            "walls": "Kallite",
+            "roof": "Cari alfi",
+            "door": "Daba",
+            "window-left": "Gura fenet",
+            "window-right": "Miga fenet",
+            "path": "Gita"
+          }
+        },
+        "teacup": {
+          "name": "Kubbaaya",
+          "regions": {
+            "background": "Derre",
+            "saucer": "Sahan",
+            "handle": "Ibbiima",
+            "cup": "Kubbaaya",
+            "band": "Kubbaayi bagul sirri",
+            "tea": "Shaahi"
+          }
+        },
+        "butterfly": {
+          "name": "Kallambilloota",
+          "regions": {
+            "background": "Derre",
+            "wing-top-left": "Iro gura koona",
+            "wing-top-right": "Iro miga koona",
+            "wing-bottom-left": "Guba gura koona",
+            "wing-bottom-right": "Guba miga koona",
+            "spot-left": "Gura kooni kurto",
+            "spot-right": "Miga kooni kurto",
+            "body": "Moor"
+          }
+        },
+        "sailboat": {
+          "name": "Dooni",
+          "regions": {
+            "sky": "Qaran",
+            "sea": "Baddi",
+            "sail-big": "Kaxxa qasba",
+            "sail-small": "Cina qasba",
+            "mast": "Dooni moro",
+            "hull": "Dooni baga",
+            "flag": "Bandera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Madqa kee baxso",
+          "baskets": [
+            "Gira qaril",
+            "Bustaanal"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Caxa-mixa kee bahayim",
+          "baskets": [
+            "Caxa-mixa",
+            "Bahayim"
+          ]
+        },
+        "home-travel": {
+          "label": "Buxa kee safar",
+          "baskets": [
+            "Buxal",
+            "Safaral"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,35 +1,35 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Katha vīcinahi app-yača rāmanača maršnahe"
+seoTitle: "Katha vīcinahi app-yača rāmanača maršnahe: Handarzō-patō"
+description: "Handarzō-paitiš bərəjandō app-yača rāmanača vīcīdayeiti: arəθa paiti pāt, zrvān-framānača spasyā, gūzrīm vaēn, vīdvā-framanača hu-citi frada."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Fratom arəθa vīcīna yim app vərəzyāt: nərəfš cašti-dāiti, maršnō-paiti-smərəti,
+  šiti ayā haxədra. Pasca aēm vərənav yō martiyahe yim bərəjayehi ahmī ayan vyāxman
+  aŋhat, masitāiš patikaraēibiš, an-antarə zrvān, a-marəza, an-fra-xrīnāiti,
+  vasō-ārāmīmca. Vaēda yā dāta hañkərəiti yāca yā māvaya janya. Hu-manah aŋhō paiti
+  framana ya app maršnīm paiti-dārayāt; aēva handarzana nōit haθya-varəz asti.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Fratom arəθa vīcīna: baodō-framana, paiti-smərəti, šiti ayā haxədra vībarətō app-yā caxrən."
+  - "Ahmī ayan martiyahe yim bərəjayehi vyāxman aipi-da, nōit daxšta, framānāca hu-dāman dara."
+  - "Apa-kərənta app-yā yā zrvān, marəza, gaya, xri-framana ayā fra-xrīnāiti dārayeinti."
+  - "Dāta-hañkərəiti, baxšiti marašnaca vaēda. HIPAA hā-zāta vī-xrīna app-yā nōit paitiš-pāiti."
+  - "Hu-citi aŋhō paiti „maršnīm paiti-pāiti“ framana. Aēva āzrāiti ayā vanhō marəza nōit haθya asti."
+  - "Golden Moments rāmano-varəz asti. Baēšaza-framana nōit fravacaiti."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Yā manas-rāmana maršnīm paiti-dārayeinti?"
+    a: "Nōit asti vanhuš dašnō ya fra-xrīna manas-rāmana maršnīm paiti-dārayan ayā taršnayan. National Institute on Aging mraoti ku nōit drafšō pərəna asti ya fra-xrīna baodō-kərəti app-yā ham-arəta aŋhat yaθa masita āzrātā vərəzyāte. App-yā rāmanahe haxədrahyāca cīna, nōit baēšazahe."
+  - q: "Aēm maršnō-app paiti HIPAA aiwi-gəurvayeiti?"
+    a: "Yatha paiti, nōit. HIPAA baēšazyān, baēšaza-kərəta haca paiti-mərəte aipi-baraiti. App yim xvatō nijate nōit HIPAA paitiš-pāiti, yezi nōit aēibyo dātō asti. FTC-he Health Breach Notification Rule pouru baēšaza-app paiti-baraiti yā HIPAA nōit dārayeiti."
+  - q: "Vanhauš maršnō-rāmana katha daidīta?"
+    a: "Masitāiš hu-bānu patikaraēibiš ca sahvarəca, aēva hu-vaēna vərəzyā aipi pašnā, an-antarə zrvānam marəzamca, an-sraoma vīnāθahe, a-fra-xrīnāiti, vasō-ārāmīmca. Mazantanam martiyanam dāmō daidīta, bītīmca narəm haxədra varəzaiti."
+  - q: "Golden Moments paiti-vacaiti maršnīm spasyāt?"
+    a: "Nōit. Golden Moments fra-daidīti ramano-varəz haxədrahyāca vacō-dāityāica. Nōit maršnīm aiwi-vaēdayeiti, baēšazayeiti, paiti-dārayeiti ayā marəzayeiti, vaēmca manō maršnaheca framana nōit dādayāmahi."
+  - q: "App-he maršnahe a-xrīto gərəzayāne?"
+    a: "Fratom an-xrīta app-yā āzrāvaya, dīdīca katha martiya yim bərəjayehi aipi-paiti duye haptahe. Xrīnahe vazra nōit app vanhō kərənaoiti. Vaēda katha apa-kərənuyāt yāvara an-xrīto dārahi."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +60,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+App-gāθā pərena santi rāmanaēibiš yōi mazantanam, maršnahe ayā maršnīm dārayandanam martiyanam nāmō dārayeinti. Tācīt hu-kərəta santi. Anyā baēšaza-sahvəm fra-mruyeinti, zrvān-framāna yā rāmanam paiti-pərəsa kərənaoiti, ayā fra-xrīnāitim dāta-hañkərəitimca. Aēm paitiš thwąm fradaidīti katha app vīcīdayehi. Nōit anya dāmana marəzayāmahi.
 
-## What should I decide before choosing a dementia app?
+## Čim vīcīdayāna para maršnō-app vərənavāne?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Arəθa fratom vīcīna yim app vərəzyāt. „Mātarahe rāmana“ vībarətam sahviti, aēvahmi arəθe vanhuš cīti anyahmi a-vərəzya aŋhat.
 
-| Goal | What it looks like | What to look for |
+| Arəθa | Yaθa vaēnaiti | Čim paiti-vaēnāna |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Nərəfš cašti-dāiti | Ham-dāiti, vī-sraoma, rāzō-fraŋharzana, vācō-rāmana | Vasō-dranghaya, patikara yōi nōit apa-šyavanti, an-antarə zrvān |
+| Maršnō-paiti-smərəti | Parō patikara, xvaē-patō vacō, yuvanam husravah | Xva-patikara, vī-dūra vacō, an-pərəsanāiti |
+| Šiti | Ərəzvō patikara, sūš sraoma, ā-šnasa, daqyāuš | Hu-hañkərəniti ārāmīmca, an-raocana, an-duš-citi |
+| Haxədra | Ham-rāmana ham-vaciti, zasta-zasta ayā patikara-daštara | Dvaye narāne kərəta, vacō-dāiti haxədrahyāica |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Drafša-pərəsa maršnīm dārayandanam martiyanam „baodō-cašti“ paiti pouru-nara handāsa dārayeiti yā hā-karana sarā dārayeinti, ham-vaciti, vācō-rāmana, fraŋharzana, gāθāhu, dāmi-kərəti. Aēva [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) kamna vanhu-dāiti aiwi-vaēdayeiti, vībarəto āzrātāhu. Haomō pouru-nara patha nōit aēvō app ham-paiti asti; aipi app yaθa aēva haxədra-varəz tarō pouru dāra.
 
-## How do I know if an app fits the person's abilities?
+## Katha vaēdaya yezi app vyāxman martiyahe yim bərəjayehi aŋhat?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Vaēnaya yaθa aēte paiti-vacanti, nōit daxšta ayā marəza-dāiti paiti šyavō. Dvā martiyā ahmī daxšte vībarəta aŋhən cašman, sraoma, zasta-vərəz, vacō ayā pašnō-hañkərəiti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) framraoti ku parō-zaniti nūra-vyāxman paiti-dāra, rāmanahe paiti hu-manah aŋhō nōit marəzahe.
 
-Signs of a good fit:
+Daxšta vanhauš ham-dāityā:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- an-azdata hañkərəyeinti ayā aipi-jasaiti;
+- xšmarda, vācim dādayeinti ayā fra-srute;
+- vīnāθa nōit aēibyo taršnayeiti;
+- šyāta ārāmayeiti yaθa zrvān aŋhat.
 
-Signs it is a poor fit:
+Daxšta a-vanhauš ham-dāityā:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- paiti-mraoti „nōit tūiryeiti“ ayā „aēm a-raθya asti“;
+- duš-manah katha pašnā zastō dāite;
+- an-ramana, duš-sahva ayā app-daštar apa-spayeiti;
+- aēva vərəzyaiti yezi tū vispəm vərəzyahi.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Duš-sahva daxšta asti, nōit aēm yim tarō-šyavāne. Vaēna [what to do when they say no](/caregiving/when-they-say-no/). Para-daxštanam varəzanam tarō app, vaēna [early-stage](/activities/early-stage/) haca [late-stage](/activities/late-stage/) varəz.
 
-## What design features should I look for or avoid?
+## Kē kərəti-daxšta vaēnayāna ayā apa-spasyāna?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Rāmahe, hu-dāman, mazantan martiyanan kərəti paiti-vaēna, apa-spasa vispəm yim dranghayam fra-dadāiti.
 
-| Look for | Be wary of |
+| Paiti-vaēnāna | Apa-spasyāna |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Masitāiš patikaraēibiš sahvarəca, hu-vaēna | Kasvāiš daxštāiš, pouru-gāθāiš pašnā |
+| Aēva hu-vaēna vərəzyā aipi pašnā | Pouru tastō, handāsa, pouru-pathō framana |
+| An-antarə zrvānam, ayā zrvān yim apa-kərənuya | Zrvān-marəza, asu-vaŋhu, „tarō-dūra zrvānam“ |
+| An-antarə marəzam, ayā nərəfš paiti-vaciti | Marəza, gaya, drangha, nīdātō, „manas-āyu“ |
+| Vīnāθa sūš paiti-baraiti | Garəza, daoma X daxšta, „a-rasta“ vācō |
+| Mazantanam martiyanam patikara | Aparanam ayā kuru-dāmō daidīta |
+| An-daxta vərəzyaiti, an-dāiti paitiš-pāite | Para aipi-da, aipi-yāhi ayā dātam nijata |
+| Hu-paitiš-dāiti ārāmīmca | Us-tastō yā pərəsan paiti-rāmaya ayā app-marəza |
+| An-fra-xrīnāiti, hu-vaēna aēva-vāro ayā zrvān-xrīna | Fra-xrīnāiti, xrīnō-gāθa, pouru xrī-framana |
+| Dvaye narāne hu-haxədra | Aēvō-nara aēva, ham-marəzō kərəti |
 
-Ads and purchase prompts are easy to tap by accident.
+Fra-xrīnāiti xrī-framanaca asu a-vaēna zastō janyante.
 
-## How do I check an app's privacy?
+## Katha gūzrō-dātam app-he paiti-vaēnaya?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Paiti-vaēna čim app hañkərənaoiti, kahmi baxšaiti, yāca yezi apa-kərənuyehi. Para nijayahi:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Dātar-gāθahe gūzrō-handarzam paiti-pata.** Google Play-he [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) App Store-heca [privacy information section](https://support.apple.com/en-us/102399) dātam yim app hañkərənuyāt fra-daidīti. Duve mruyeinti ku dātārō aēvō aēm fra-dadanti, pasca aēm hañkərəniti asti, nōit drafša.
+2. **Pərəsa yezi aipi-dahe caxrən.** Yezi app aēva patikaram ayā rāmanam fra-daidīti, nōit arəθa asti nāma, paθa ayā zātam vaēdayeiti.
+3. **Paiti-dāra framānanam.** Ham-patikara rāmana gāθam, haxidran, sraotram ayā vispəm patikara-gāθam caxrən? Apa-kərənta yā nōit arəθe santi.
+4. **Vaēnaya fra-xrīnāitim dāta-hañkərəitimca.** Fra-xrīna vərəzyā dātam katha app vərəzyāte anyaēibyo fradaite.
+5. **Vaēda kuta patikara šyavanti.** Yezi nmānahe patikaran addāhi, daštarō dārayeinti ayā parō-vīcarayeinti? Vasō-apa-kərənuyehi?
+6. **Apa-kərənūitim vaēda.** Gūzrō-dāte vaēda katha dātam aipi-dahica apa-kərənuyehi. App yō mraoti dātam nōit apa-kərənyāte masita hu-manah asti, yezi patikara ayā baēšaza-dātam dārayeiti.
+7. **Gūzrō-dātam paiti-pata** pərəna paiti-vaciti paiti čim hañkərənaoiti, čiš arəθa, cva zrvān, kahmica baxšaiti.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA dātam maršnō-app paiti-pāiti?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Yatha paiti, nōit. U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ku HIPAA baēšazyān, baēšaza-paitiš-pān, haca aēibyo dāta-hañkərəti paitiš-pāiti. Pouru gāθāhu nōit dātam paitiš-pāiti yim tū xvatō app-he nijahi, yezi nōit aēibyo baēšaza-dātaribyo dātō asti. „Maršnō-app“ dātar-gāθāhu parō HIPAA asti, yezi baēšaza-sahvō vācim dādayeiti.
 
-### What protects health data in apps that HIPAA does not cover?
+### Čiš baēšaza-dātam paiti-pāiti yezi HIPAA nōit paitiš-paiti?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission-he Health Breach Notification Rule pouru aēibyō paiti-baraiti. Ahmī 2024 sarəda FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) fravacat ku aēm vərəz baēšaza-app tarō HIPAA aipi-gəurvayeiti. „Breach“ an-dātō baxšiti dārayeiti, nōit aēva duš-nijātō, kamca martiyanam FTC-ca paiti-vaēdayeiti. Aēm paitiš-pātō asti pasca duš-kərəta, nōit framana ku app aēva arəθa-dātam hañkərənaoiti.
 
-## How should I read claims about research and evidence?
+## Katha pərəsanam drafša-framana paiti-patāne?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Vīdvā-framana sūš paiti-pata, mazanta framanāhu a-haθya spasyā. Pərəsan yā pərəsehi:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Čim haθya āzrāyata?** Aēva āzrāiti nōit fra-daidīti ku vispa rāmana app-he ham-arəta vərəzyanti.
+- **Kō āzrāyata?** Druvantanam mazantanam drafša nōit maršnīm dārayandanam martiyanam ham-arəta aŋhat.
+- **Čim marəzayanta?** Vanhō rāmanahe kərəti vībarəta asti haca ayan-gaya, ham-vaciti, manō ayā xva-dāiti.
+- **Cva drafša aēm asti?** Randomized controlled trial (RCT) app-vərəzyandanam a-vərəzyandanamca ham-dāite. Vanhauš kərəti asti, aēva kasva RCT nōit pərəna haθya asti. Pouru āzrāitin haca vībarəta framandaribyo paiti-vaēna.
+- **Fravacaiti ku daxštam apa-nayāt?** Āzrāiti yā kasva vanhu-dāitim daidīti nōit dašnō asti ku app maršnīm taršnayeiti, paiti-dārayeiti ayā baēšazayeiti.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging-he paitiš paiti [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) masita NIH-dāta āzrāitim baodō-kərəti paiti fra-srute, pasca paiti-pāiti paiti framana ku rāmana manō maršnīmca vanhō kərənaoiti. Mraoti ku nōit pərəna drafšō asti ya fra-xrīna baodō-app ham-arəta aŋhat yaθa āzrāitīhu vərəzyāta. Tū parō paiti-patayehi ahmī handarzō [brain games and the evidence](/brain-health/brain-games/) haca [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Čiš vyāxmana daxšta a-raθya framanahe asti?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Ahmī Vī-Zrvāne 2016, FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity dātaribyo, „baodō-kərəti“ rāmana. FTC framraoti ku dātārō a-drafša fravacanta ku rāmana zrvān-baodō taršnaiti paitiš-pāitica tarō maršnīm haca Alzheimer-daxštam. Dātārō 2 million dāmō aipi-baranta haθyaca drafša dāraya para framana fravacanti. Aēm daxšta paiti-smara ku vī-xrīna vacō nōit haθya asti.
 
-### Which words are red flags?
+### Kē vācō taro-takō sahveinti?
 
-Be cautious when an app or ad says it:
+Hu-citi aŋhō yezi app ayā fra-xrīna mraoti:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- „paiti-pāiti“, „apa-vərəte“, „ārāmayeiti“ ayā „baēšazayeiti“ maršnīm ayā Alzheimer;
+- „baēšaza-haθya“ an-nāmō āzrāiti, kō ahmī aŋhat, čimca marəzayanta;
+- „baodō-āyu“ ayā maršnō-marəzam daidīti ya daxštam sahviti;
+- manō „tižayeiti“, „vazrayeiti“ ayā „kərənaoiti“;
+- martiyanam vācim yaθa haθya spasyāti.
 
-If you are unsure about a claim, ask the person's doctor.
+Yezi a-vaēda aŋhe, baēšazam pərəsa martiyahe yim bərəjayehi.
 
-## Where does Golden Moments fit?
+## Katha Golden Moments hakarət aŋhat?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments hu-dāman haxədra-varəz fra-daidīti, nōit maršnō-pərəsa, baēšaza ayā baēšazya handarzana. Rāmana amāxəm, yaθa [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) haca [Calm Breathing](/games/calm-breathing/), rāmanahe vacō-dāityāica dāmō santi. Nōit maršnīm aiwi-vaēdayeinti, baēšazayeinti, paiti-dārayeinti ayā marəzayeinti, vaēmca manō maršnaheca framana nōit dādayāmahi.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Vaēm an-xrīta app vərəzyāmahi, [Golden Moments for iPhone, iPad and Android](/app/). Aēm hu-dāman patikara-hamdāiti masitāiš patikaraēibiš dārayeiti, nmānahe patikara yim tū vīcīnahi, dātam an-daxta vərəzyaiti, an-aipi-da, an-fra-xrīnāiti, an-antarə zrvān marəzamca. Haomō handarzō aŋhat: App Store-he gūzrō-daxšta sahviti „Data Not Collected“, [app privacy policy](/app-privacy/) fra-daidīti kuta patikara dārayeinti.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Vaēm vasō dādayāmahi ku tū amāxəm paiti-vaēnayehi. Paiti-pata ahmī handarzō-patō, gūzrō-dātam [privacy page](/privacy/) paiti-pata [medical disclaimer](/medical-disclaimer/) haca, apa-kərənu vispəm, amāxəmca, yezi nōit martiyahe yim bərəjayehi ham-dāite.
 
-## What is a sensible way to try a new app?
+## Čiš hu-citi patha nava-app āzrāvahe?
 
-Try it together for a couple of weeks and watch what happens.
+Duye haptahe ham-rāmaya, vaēnaya yaθa aēte paiti-vacanti.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Fratom paitiš-da** amāxəm [tablet and phone setup guide](/caregiving/tablets-and-screens/) paiti, asišta patha fratom vərənav.
+2. **Kambīm zrvānam dāra,** xšmarda, ham-vaciti ārāmīmca vaēnaya, vanhō zrvān ārāmīmca kərənu.
+3. **Apa-spasa yezi an-ramana daidīti,** yaθa masita nāmō dārayeiti.

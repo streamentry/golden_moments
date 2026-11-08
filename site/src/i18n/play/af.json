@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lees hardop",
+      "stopReading": "Hou op lees",
+      "region": "Speletjie",
+      "restart": "Begin weer",
+      "soundOn": "Sagte klanke aan",
+      "soundOff": "Sagte klanke af",
+      "done": "Klaar vir nou",
+      "feedbackQuestion": "Het dit vandag gehelp?",
+      "feedbackYes": "Ja",
+      "feedbackNo": "Nie regtig nie",
+      "feedbackThanks": "Dankie dat u ons laat weet het."
+    },
+    "tile": {
+      "named": "{name}, teël {n}",
+      "hidden": "Versteekte prent, teël {n}",
+      "withState": "{label}, {state}",
+      "matched": "Gepas",
+      "selected": "Gekies",
+      "picture": "Prent",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Al die pare is bymekaar. Speel weer of neem ’n blaaskans.",
+      "photoPair": "’n Paar foto’s, bymekaar.",
+      "picturePair": "Twee prente van die {name|lower}, bymekaar.",
+      "selected": "{name}. Soek nou sy maat.",
+      "mismatch": "Neem u tyd. Tik op ’n prent om voort te gaan.",
+      "mismatchNamed": "{a} en {b}. Neem u tyd. Tik op ’n prent om voort te gaan."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tik op ’n prent, en tik dan op die een wat daarby pas.",
+      "guidanceHidden": "Tik op twee teëls om hulle om te draai. Soek twee wat dieselfde is.",
+      "restart": "Nuwe prente",
+      "sizeLegend": "Hoeveel teëls",
+      "size": {
+        "one": "{n} teël",
+        "other": "{n} teëls"
+      },
+      "viewLegend": "Hoe om te speel",
+      "viewShowing": "Prente sigbaar",
+      "viewHidden": "Versteekte prente",
+      "playAgain": "Speel weer met nuwe prente",
+      "talk": "Gesels saam oor die prente"
+    },
+    "choose": {
+      "countLegend": "Hoeveel prente",
+      "count": "{n} om van te kies",
+      "thatOne": "Daardie een is die {name|lower}. Neem u tyd."
+    },
+    "findTheSame": {
+      "guidance": "Kyk na die prent boaan. Tik op dieselfde een hieronder.",
+      "yes": "Ja, dieselfde {name|lower}.",
+      "next": "Volgende prent"
+    },
+    "shadowMatch": {
+      "guidance": "Kyk na die skaduwee boaan. Tik op die prent wat dit maak.",
+      "yes": "Ja, die {name|lower} maak daardie skaduwee.",
+      "next": "Volgende skaduwee",
+      "shadowAlt": "’n Skaduwee om te pas",
+      "foundAlt": "Die skaduwee van die {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tik op ’n prent, en tik dan op die mandjie waarin dit hoort.",
+      "restart": "Nuwe prente",
+      "themeLegend": "Tema",
+      "selected": "{name}. Tik nou op die mandjie waarin dit hoort.",
+      "pickFirst": "Tik eers op ’n prent, en tik dan op ’n mandjie.",
+      "hint": "Die {name|lower} kan in \"{basket}\" gaan. Tik op daardie mandjie om dit daarin te sit.",
+      "placed": "Die {name|lower} is in \"{basket}\".",
+      "sorted": "Alles is gesorteer. Kyk saam deur die mandjies, of probeer ’n ander tema.",
+      "basket": {
+        "one": "{basket}-mandjie, {count} prent binne-in",
+        "other": "{basket}-mandjie, {count} prente binne-in"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tik op een stukkie, en tik dan op ’n ander een. Hulle ruil plekke om.",
+      "restart": "Skommel weer",
+      "pictureLegend": "Prent",
+      "pictures": {
+        "sailboat": "Seilboot",
+        "house": "Huis",
+        "balloon": "Ballon",
+        "sunflower": "Sonneblom",
+        "lighthouse": "Vuurtoring",
+        "cat": "Kat"
+      },
+      "sizeLegend": "Stukkies",
+      "size": {
+        "one": "{n} stukkie",
+        "other": "{n} stukkies"
+      },
+      "pickedUp": "Stukkie opgetel. Tik nou waar dit moet kom.",
+      "whole": "Die {name|lower} is weer heel. Kies gerus ’n ander prent wanneer u wil.",
+      "swapped": {
+        "one": "Omgeruil. {correct} van {total} stukkie is op sy plek.",
+        "other": "Omgeruil. {correct} van {total} stukkies is op hul plek."
+      },
+      "guideAlt": "Die hele prent: {name}",
+      "guideText": "Só lyk die prent wanneer dit heel is.",
+      "piece": "Stukkie {place}",
+      "pieceInPlace": ", op die regte plek",
+      "piecePickedUp": ", opgetel",
+      "places4": [
+        "links bo",
+        "regs bo",
+        "links onder",
+        "regs onder"
+      ],
+      "places9": [
+        "links bo",
+        "middel bo",
+        "regs bo",
+        "links in die middel",
+        "middel",
+        "regs in die middel",
+        "links onder",
+        "middel onder",
+        "regs onder"
+      ],
+      "done": "Die prent is weer heel. Speel weer of neem ’n blaaskans.",
+      "playAgain": "Skommel weer"
+    },
+    "finishTheSaying": {
+      "guidance": "Lees die gesegde saam, en tik dan op die woord wat dit voltooi.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ja, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" werk ook. Die gewone gesegde eindig met \"{end}\".",
+      "revealed": "Die gesegde is \"{start} {end}.\"",
+      "choicesLabel": "Kies die laaste woord",
+      "show": "Wys die einde",
+      "talk": "Gesels daaroor: ",
+      "next": "Volgende gesegde"
+    },
+    "wordSearch": {
+      "guidance": "Woorde loop dwars of af. Tik op die eerste letter van ’n woord, en dan op die laaste letter.",
+      "restart": "Nuwe woordsoektog",
+      "themeLegend": "Tema",
+      "sizeLegend": "Roostergrootte",
+      "size": {
+        "one": "{n} by {n} ({words} woord)",
+        "other": "{n} by {n} ({words} woorde)"
+      },
+      "print": "Druk hierdie woordsoektog",
+      "letterChosen": "Letter {letter} gekies. Tik nou op die laaste letter van die woord.",
+      "found": "{word} gevind.",
+      "foundAll": "{word} gevind. Dit is al die woorde. Speel weer of neem ’n blaaskans.",
+      "tryAgain": "Neem u tyd. Tik op die eerste letter van ’n woord, en dan op die laaste letter.",
+      "gridLabel": "Letterrooster, {n} rye van {n} letters. Gebruik die pyltjietoetse om tussen letters te beweeg.",
+      "cell": "{letter}, ry {row}, kolom {col}",
+      "cellFound": ", deel van ’n gevinde woord",
+      "wordsHeading": "Woorde om te soek",
+      "wordFound": " (gevind)",
+      "sheetTitle": "Woordsoektog: {theme}",
+      "sheetNote": "Woorde loop dwars of af.",
+      "unavailable": "’n Letterrooster pas nie by hierdie taal nie, so die woordsoektog word nie hier aangebied nie. Probeer gerus eerder die prentspeletjies."
+    },
+    "coloring": {
+      "guidance": "Tik op ’n kleur, en tik dan op ’n deel van die prent.",
+      "restart": "Maak kleure skoon",
+      "cleared": "Die bladsy is weer skoon.",
+      "pageLegend": "Bladsy",
+      "print": "Druk hierdie bladsy",
+      "colorsLabel": "Kleure",
+      "paintChosen": "{paint} gekies.",
+      "painted": "{part} is nou {paint|lower}.",
+      "artLabel": "{page}, {count} dele om in te kleur",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, nie ingekleur nie",
+      "paints": {
+        "red": "Rooi",
+        "orange": "Oranje",
+        "yellow": "Geel",
+        "green": "Groen",
+        "blue": "Blou",
+        "purple": "Pers",
+        "pink": "Pienk",
+        "brown": "Bruin",
+        "sky-blue": "Hemelblou",
+        "cream": "Room",
+        "gray": "Grys",
+        "white": "Wit"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lees die kaartjie hardop. Daar is geen regte antwoorde nie.",
+      "position": "Kaartjie {n} van {total}",
+      "themeLegend": "Tema",
+      "next": "Volgende kaartjie",
+      "previous": "Vorige kaartjie",
+      "print": "Druk alle kaartjies",
+      "sheetTitle": "Gesprekskaartjies"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Begin deur u foto’s te kies.",
+      "guidance": "Tik op ’n foto, en tik dan op die een wat daarby pas.",
+      "restart": "Skommel hulle weer",
+      "intro": "**Kies 2 tot 6 foto’s** vanaf hierdie toestel. Hulle word net op hierdie bladsy gewys en word nooit opgelaai of gestoor nie.",
+      "choose": "Kies foto’s",
+      "chooseDifferent": "Kies ander foto’s",
+      "clear": "Verwyder foto’s",
+      "cleared": "Foto’s is van hierdie bladsy verwyder.",
+      "atLeastTwo": "Kies asseblief ten minste twee foto’s.",
+      "usingFirst": "Die eerste {max} foto’s word gebruik.",
+      "skipped": {
+        "one": "{count} lêer was nie ’n foto wat ons kan wys nie.",
+        "other": "{count} lêers was nie foto’s wat ons kan wys nie."
+      },
+      "playAgain": "Speel weer met hierdie foto’s",
+      "empty": "U foto’s sal hier verskyn, elkeen twee keer."
+    },
+    "pictureBingo": {
+      "guidance": "Druk eers die kaarte. Wys dan hierdie uitroeper op die grootste skerm wat u het.",
+      "called": {
+        "one": "{name}. {called} van {total} prent uitgeroep.",
+        "other": "{name}. {called} van {total} prente uitgeroep."
+      },
+      "start": "Tik op \"Volgende prent\" om die eerste prent uit te roep.",
+      "restart": "Begin ’n nuwe speletjie",
+      "squaresLegend": "Blokkies op elke kaart",
+      "squares": "{n} blokkies ({side} by {side})",
+      "cardsLegend": "Hoeveel kaarte om te druk",
+      "cards": {
+        "one": "{n} kaart",
+        "other": "{n} kaarte"
+      },
+      "print": {
+        "one": "Druk {n} bingokaart",
+        "other": "Druk {n} bingokaarte"
+      },
+      "ready": "Gereed wanneer u is",
+      "next": "Volgende prent",
+      "allCalled": "Elke prent is uitgeroep",
+      "alreadyCalled": "Reeds uitgeroep",
+      "sheetTitle": "Prentbingo · kaart {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Asem in soos die sirkel groter word, en uit soos dit kleiner word. Dit stop vanself na ses asemhalings.",
+      "paceLegend": "Tempo",
+      "paceSlow": "Stadig (5 sekondes elk)",
+      "paceGentle": "Rustig (4 sekondes elk)",
+      "ready": "Gereed wanneer jy reg is",
+      "in": "Asem in",
+      "hold": "Rus",
+      "out": "Asem uit",
+      "start": "Begin",
+      "stop": "Stop",
+      "started": "Begin. Asem in soos die sirkel groter word.",
+      "stopped": "Gestop.",
+      "finished": "Dit was ses rustige asemhalings. Begin weer wanneer jy wil."
+    }
+  },
+  "pictures": {
+    "teacup": "Teekoppie",
+    "kettle": "Ketel",
+    "bread": "Brood",
+    "frying-pan": "Braaipan met 'n eier",
+    "cake": "Verjaardagkoek",
+    "sunflower": "Sonneblom",
+    "tulip": "Rooi tulp",
+    "watering-can": "Gieter",
+    "potted-plant": "Potplant",
+    "tree": "Boom",
+    "bird": "Voël op 'n tak",
+    "butterfly": "Skoenlapper",
+    "dog": "Hond",
+    "cat": "Kat",
+    "fish": "Goudvis",
+    "apple": "Rooi appel",
+    "pear": "Peer",
+    "strawberry": "Aarbei",
+    "banana": "Piesang",
+    "lemon": "Suurlemoen",
+    "cherries": "Kersies",
+    "house": "Huis",
+    "lamp": "Tafellamp",
+    "armchair": "Leunstoel",
+    "key": "Ou sleutel",
+    "umbrella": "Sambreel",
+    "sailboat": "Seilboot",
+    "car": "Klassieke motor",
+    "bicycle": "Fiets",
+    "balloon": "Lugballon",
+    "lighthouse": "Vuurtoring",
+    "sun": "Son",
+    "moon": "Maan en sterre",
+    "teapot": "Teepot",
+    "apple-pie": "Appeltert",
+    "honey-jar": "Heuningpot",
+    "boiled-egg": "Eier in 'n eierkelkie",
+    "toaster": "Broodrooster",
+    "cheese": "Stuk kaas",
+    "milk-jug": "Melkbeker",
+    "cupcake": "Kolwyntjie",
+    "orange": "Lemoen",
+    "grapes": "Tros druiwe",
+    "watermelon": "Waatlemoenskyf",
+    "pineapple": "Pynappel",
+    "peach": "Perske",
+    "rose": "Roos",
+    "daisies": "Madeliefies",
+    "mushroom": "Sampioen",
+    "wheelbarrow": "Kruiwa",
+    "birdhouse": "Voëlhuisie",
+    "cactus": "Kaktus in 'n pot",
+    "acorn": "Akker",
+    "autumn-leaf": "Herfsblaar",
+    "rabbit": "Konyn",
+    "duck": "Eend",
+    "hen": "Hen",
+    "sheep": "Skaap",
+    "owl": "Uil",
+    "ladybird": "Liewenheersbesie",
+    "snail": "Slak",
+    "frog": "Padda",
+    "bee": "By",
+    "clock": "Kaggelhorlosie",
+    "vase-of-flowers": "Vaas met blomme",
+    "radio": "Ou radio",
+    "books": "Stapel boeke",
+    "candle": "Kers",
+    "glasses": "Leesbril",
+    "telephone": "Telefoon",
+    "ball-of-wool": "Bol wol",
+    "straw-hat": "Sonhoed",
+    "train": "Stoomtrein",
+    "bus": "Bus",
+    "airplane": "Vliegtuig",
+    "suitcase": "Tas",
+    "tractor": "Trekker",
+    "rowing-boat": "Roeiboot",
+    "rainbow": "Reënboog",
+    "rain-cloud": "Reënwolk",
+    "snowflake": "Sneeuvlokkie",
+    "kite": "Vlieër",
+    "sunrise": "Sonsopkoms oor die heuwels"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Vrugte",
+          "words": [
+            "APPEL",
+            "PEER",
+            "PRUIM",
+            "LEMOEN",
+            "PERSKE",
+            "MELOEN",
+            "DRUIF",
+            "BESSIE",
+            "MANGO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Tuin",
+          "words": [
+            "ROOS",
+            "TULP",
+            "BLOM",
+            "BOOM",
+            "BLAAR",
+            "SAAD",
+            "GROND",
+            "GRAS",
+            "HARK"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kombuis",
+          "words": [
+            "KOPPIE",
+            "LEPEL",
+            "BROOD",
+            "PAN",
+            "BORD",
+            "TEE",
+            "OOND",
+            "VURK",
+            "POT"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Weer",
+          "words": [
+            "SON",
+            "WIND",
+            "SNEEU",
+            "WOLK",
+            "STORM",
+            "MIS",
+            "HITTE",
+            "DOU",
+            "DONDER"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Diere",
+          "words": [
+            "HOND",
+            "KAT",
+            "VIS",
+            "PERD",
+            "KOEI",
+            "EEND",
+            "BOK",
+            "HEN",
+            "SKAAP"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Huis",
+          "words": [
+            "DEUR",
+            "STOEL",
+            "LAMP",
+            "BED",
+            "MAT",
+            "BANK",
+            "TAFEL",
+            "KAS",
+            "KAMER"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Alle kaarte",
+        "food": "Kos",
+        "home": "Huis",
+        "outdoors": "Buite",
+        "animals": "Diere",
+        "travel": "Op reis",
+        "work": "Werk en stokperdjies",
+        "music": "Musiek en pret",
+        "seasons": "Seisoene"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Watter reuk uit die kombuis is vir jou die lekkerste?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Watter soort koek sou jy kies vir 'n feesviering?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Vertel my van 'n gunstelingvrugtetert of nagereg waarvan jy baie hou."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Hoe drink jy graag jou tee of koffie?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Wat maak 'n ontbyt vir jou regtig heerlik?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Het jy al ooit vrugte vars van die boom of plant af gepluk?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Soet of suur: waarvan hou jy die meeste?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Watter kos laat jou sommer dadelik aan die somer dink?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Vertel my van 'n huis waar jy baie lekker gewoon het."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Waar sit en ontspan jy die heel lekkerste?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Wat doen jy graag op 'n stil aand?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Watter kosbare ding sou jy in 'n spesiale kissie bêre?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Wie sal jy graag nooi vir 'n koppie tee?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Wat doen jy graag op 'n reënerige dag?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Watter blomme sal jy graag in 'n tuin plant?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Vertel my van 'n boom of park waarvan jy hou."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Wat is vir jou die lekkerste deel van in die tuin wees?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Watter kleur blomme is jou gunsteling?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Hou jy daarvan om plante in die huis te hê?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Hoe lyk 'n volmaakte sonnige dag vir jou?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Vertel my van 'n hond wat jy geken het."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katte of honde, of dalk nie een nie? Waarvan hou jy van hulle?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Watter voëls sien of hoor jy buite?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Het jy al ooit visgevang, of dalk 'n vistenk gehad?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Wat is die mooiste dier wat jy al gesien het?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Vertel my van 'n motor waarvan jy gehou het."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Sal jy eerder 'n dag by die see of in die berge wil deurbring?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Waarheen sal jy graag wil gaan vir 'n lekker rit?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "As jy oor enige plek kon vlieg, waar sou dit wees?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Vertel van 'n reis of uitstappie wat jy baie geniet het."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Watter soort werk het jy nog altyd geniet om te doen?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Watter stokperdjie kan jy ure lank mee besig wees?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Waarvoor was jy bekend om te maak of reg te maak?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Watter raad sou jy gee vir 'n jongmens wat begin werk?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Watter soort musiek laat jou sommer dadelik saamtik met jou voete?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Wat maak 'n partytjie vir jou regtig gesellig?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Na watter sanger luister jy graag?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Watter gunstelingrolprent of TV-program sal jy graag weer wil kyk?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Waarvan hou jy die meeste in die somer?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Wat geniet jy van die herfs?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Wat is vir jou iets lekker knus om op 'n winteraand te doen?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Wat is vir jou die eerste tekens van die lente?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Sneeu, reën of sonskyn: waarvan hou jy die meeste?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Blom in 'n pot",
+          "regions": {
+            "sky": "Agtergrond",
+            "table": "Tafel",
+            "stem": "Stengel",
+            "leaf-left": "Linkerblaar",
+            "leaf-right": "Regterblaar",
+            "petal-1": "Blomblaar 1",
+            "petal-2": "Blomblaar 2",
+            "petal-3": "Blomblaar 3",
+            "petal-4": "Blomblaar 4",
+            "petal-5": "Blomblaar 5",
+            "petal-6": "Blomblaar 6",
+            "petal-7": "Blomblaar 7",
+            "petal-8": "Blomblaar 8",
+            "center": "Middel van die blom",
+            "pot": "Pot",
+            "pot-rim": "Potrand"
+          }
+        },
+        "house": {
+          "name": "Huis",
+          "regions": {
+            "sky": "Lug",
+            "sun": "Son",
+            "grass": "Gras",
+            "chimney": "Skoorsteen",
+            "walls": "Mure",
+            "roof": "Dak",
+            "door": "Deur",
+            "window-left": "Linkervenster",
+            "window-right": "Regtervenster",
+            "path": "Paadjie"
+          }
+        },
+        "teacup": {
+          "name": "Teekoppie",
+          "regions": {
+            "background": "Agtergrond",
+            "saucer": "Piering",
+            "handle": "Handvatsel",
+            "cup": "Koppie",
+            "band": "Streep op die koppie",
+            "tea": "Tee"
+          }
+        },
+        "butterfly": {
+          "name": "Skoenlapper",
+          "regions": {
+            "background": "Agtergrond",
+            "wing-top-left": "Boonste linkervlerk",
+            "wing-top-right": "Boonste regtervlerk",
+            "wing-bottom-left": "Onderste linkervlerk",
+            "wing-bottom-right": "Onderste regtervlerk",
+            "spot-left": "Kol op linkervlerk",
+            "spot-right": "Kol op regtervlerk",
+            "body": "Lyf"
+          }
+        },
+        "sailboat": {
+          "name": "Seilboot",
+          "regions": {
+            "sky": "Lug",
+            "sea": "See",
+            "sail-big": "Groot seil",
+            "sail-small": "Klein seil",
+            "mast": "Mas",
+            "hull": "Boot",
+            "flag": "Vlag"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kombuis en tuin",
+          "baskets": [
+            "In die kombuis",
+            "In die tuin"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Vrugte en diere",
+          "baskets": [
+            "Vrugte",
+            "Diere"
+          ]
+        },
+        "home-travel": {
+          "label": "Huis en reis",
+          "baskets": [
+            "By die huis",
+            "Op pad"
+          ]
+        }
+      }
+    }
+  }
+}

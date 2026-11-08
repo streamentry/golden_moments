@@ -1,32 +1,34 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Kassis Dambiyyi Lih Yan Marah Qari Derre Taamaama"
+seoTitle: "Kassis Dambi Lih Yan Marah Buqre kee Dera Taama"
+description: "Kassis dambi lih yan marah buqre kee dera taamah meqennuuta: fayya itte buqre, daacoyis, kaxxa qeebi, ayro kee bayissoocisa dacayri meqennuuta."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Buqre taamitaanam kee derre yawqeenim kassis dambiyyi lih yan numuh
+  assagoliyya le, kasat taaxago le taama takkem duuda. Caxayti baaxó miyeynaanam,
+  caro le qisbi daacoytat yaburenim, buxaado caylaanam hinnay kobox le dariifal
+  inikih dagoo gedda gacanayim meqe. Fayya iyye buqre hinnay xarre afat hayen
+  tarabeeza fayuukumaanam cinaanamih xiqtam kol ma kalta, laqo le meqeetita kee
+  sun le buqre dambisa, ayró xabbaacitta wakti yawqeenim kee numuk baxxaqih
+  dura maraanam aysuk raqta.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Xabac le buqre taamaama, wadir miyeynaanam, daacoytat carra yaburenim, carole qisbi suusiseenim kee buxaado caylaanam soluk hinnay dafeyuk aban taamoomi kinni."
+  - "Fayya itte buqre, daacoyit kee amol baxxaabaxxi le tarabeeza buqre qaraarat hayta, kaxxa radimih cindilliyya kalta."
+  - "Laqo le qulaaba, qasara le hinnay qari sussa haa buqre, sun le maxcooc dambisa. Baaxo maaqoh akah massakinnaanam dacrisa."
+  - "Kaxxa qeebi kaxxa mararak kaxxa digir le. Saaku carraay hinnay carra-carra yawqeenim, lee kee daas le arooca gacanayim, warraytah cindilliyya tublek ussul buxah culaanam faxximta."
+  - "Kassis dambiyyi lih yan marak maggo mari teyna wakti bayissoocan. Numuk raqte kal derre yawqeenim kee dagoo wagtih suura kee nagaytih waraaqat gabaal hayya hayyaanam faxximta."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Kassis dambi lih yan num buqrel maay abam duuda?"
+    a: "Buqre lee taceenim, cindii daacoyit addat carra yaburenim, caro le qisbi suusiseenim kee gabaal yaburenim, buxaado caylaanam, xanxooc kee qasbooc caylaanam, gaciseen buxaado dookanat hayya hayyaanam kee git amó haadanaam meqe doorititi kinni. Buxah addal, fadhisa afih aroocal daacoyta hayya hayyaanam hinnay tarabeeza amol baaxó le saxan hayya hayyaanam kaxxa meqe. Taama num numuk duma kaxxa kicnih sugeemit kee ta waqdi gabâ lih abam duudamih addal doora."
+  - q: "Kassis dambi lih yan num kaxxa qeebik mannal dacrisiyyo?"
+    a: "Dera yawqeenimik saaku cawwal hinnay carra-carra aysuk warrayta wakti gacisa, wagti dagoo hayya haya, lee maggo gedda yaceenim faxximta. Daas le arooca doora, xabaca le koofiyya, qasbi le daggoosotta saraay, ayro dacayri kreemi xisa. Kaxxa mari kaxxa qeebih dambiyyal kaxxa radimat yanin, amó-tewqey, kas-garcit hinnay alayta dacayri astooti kinni, toh tubleenik ussul buxah culaay qabbowta aroocal suga."
+  - q: "Num bayissoocat yaadeenik derre mannal yawqennoo?"
+    a: "Kassiisi wagtik numuk baxxaqih dura mara, kobox le dariif hinnay dafee le alfenta le garo doora, num nagaytih saqatta hinnay suura gabaal hayya hayyaanam yallawisiisa. Kassis dagoo suura gabaal cisa. Num bayek, Alzheimer's Association 15 daqiiqat geeweenik ussul amansul maqaaneh (17) seecaanam fayuukuta."
+  - q: "Buqre aalle waynek mannal abennoo?"
+    a: "Buxah afat dagoo daacoyit haytaanam, fadhisa garidit baaxo haytaanam hinnay keeni carrat caro le qisbi le saaxan tarabeezal haytaanam xiqta. Aytil gufne baaxol yan buqre, ummatta buqre hinnay reeda buqreh gacanayim xiqta. Buxah derrel dafeyuk haada cawke aytikalisiyya derah taama kinni."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +53,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Maggo marah buqre kassiisi wagtik kasat taaxago le aroocaak teyna kinni. Baaxó qotowtaanam, lee taceenim kee buxaado caylaanam duma barteenimih taamoomi kinni, derre yawqeenim carole caacee, ayró ifo kee haadoocih maxco bahta. National Institute on Aging caxaytah dacayri abaanam, buxaado kee laaqo yaburenim, kee [caxayti mannal yaburu yan warrayan](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) Alzheimer's lih yan mara kaxxa asgalla ittam kassiisiyya haa. Ta aracal abaanam duudan taamaama, buqre mannal xabbaciseenim kee qeebi, ayró kee bayissok mannal dacrisaanam qaddossa.
 
-## What outdoor and gardening activities work well?
+## Qari derre kee buqrel maay meqe taamoomi taamita?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Aysuk meqe taamaama cindiiy, kasat taaxago ley, soluk hinnay dafeyuk aban taamoomi kinni. Num duma kaxxa kicnih sugeemit gaba hayya haya.
 
-### In the garden
+### Buqrel
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Lee taceenim.** Cindii, xabaca le lee-kora hinnay xabac le laastoogo kee daggowte daacoyit gabal guffa. Lee taceenim qimbó kee gaba-cabbiyya le, madaqit abaanam cindiiy.
+2. **Carra daacoytat yaburenim.** Alzheimer's Foundation of America carra cindii daacoyit addat yaburaanaah [mannal kuraanaah yabarraanam wagan](https://alzfdn.org/dementia-activity-gardening/) fayuukuta. Kaxxa carra, bakkela, ayró buxaado hinnay atar gabat gaba hayya hayyaanam xabbaaciyya le.
+3. **Mule buxaado caylaanam.** Daggowte, qabbowte buxaado gabat daggisaanam xabaca le, giddik giddil aban taama kinni. Qasara kak aneewayta buqre doora.
+4. **Laaqo hinnay qasbooc caylaanam.** Cindii tamaate, baaqila kee qasbooc caylaanam xabbaaciyya le, tammoysaanaah maqaane le. Buxah addal culaanamih saaku-laqol gacisa.
+5. **Caro le qasbooc suusiseenim kee tabisenim.** Rozmaari, naqnaq kee laafander kaxxa maqaane le caro le. Caxayti aytot gabâ farroocit hoxayisaay numuh gaba taca.
+6. **Git amó hinnay dafeena haadanaam.** Xabaca le haadisa qulula, qaxmeeqe aroocal gaba hayya haya, solim digirteek.
+7. **Haadoocih kobox maaqó axagoonuysaanam.** Tohik lakal inikih dafeyak iyya temeetek wagita.
 
-### Indoors, when going out is not possible
+### Buxah addal, derre yawqeenim xiqeewayteek
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Fadhisa afal caro le qasbi buqre** baasilik, baqdunis hinnay qandoota.
+- **Tarabeeza amol daacoytat taamitaanam.** AFA baaxó elle digirta tarabeeza amol saxan hayya hayyaanam kee cindii finjaanat baaxó gacisaanam aysuk fayuukuta.
+- **Buxaado dookanat hayya hayyaanam** derik hinnay suuqik bahteen buxaado kee caxayti aytok.
+- **Kalaame buxaado** koboxut sugeek lakal kaardit amol qumusa. Warray [arts and crafts](/activities/arts-and-crafts/) addal wagita.
+- **Laafander hinnay wardi kisasooc abaanam**, AFA buqreh suusisa buxah addal tayece meqe meqenno kinni.
 
-### Getting out and about
+### Derre yawqeenim kee gacanayim
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Cindii gedda** buxah derrel, magaalat hinnay buqre suuqil, xabaca le taatubit dafeena le garil.
+- **Derrel dafeyaanam** carbi amol hinnay kursil haadoocih cawke aytikalisaanaah caacee tammoyseenim. Ta taama isih taama kaxxa meqe.
+- **Ummatta buqrel gacanaanam** saaku warraytah wakti. NHS qari arooca caro le buqre, gabat tabisan caxayti aytoota kee lee le arooca aalle wayta axce waytam tanoome.
+- **Daggooba maaqó yaceenim hinnay haadooc wagitaanam** kobox le leel, leeih cindilliyyak daggowuk maraanam faxximta.
 
-## How do I make a garden easier to use?
+## Buqre taamitaanam xabbaacissah mannal abiyyo?
 
-Bring the garden up to the person, not the other way around.
+Buqre numul baaha, num buqrel gacisaanam aysuk cina.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Fayya itte buqreh arooca** qaraarat guffaah gurrut koromiseenim hinnay dafeyaanam gaba kalta.
+- **Tarabeeza amol yan daacoyit** makina kursi luk yan marah hinnay dafeyaanam kicina marah meqe.
+- **Fidhin, qasbi le gititte** laqo le xeena hinnay laastoogo gital aneewaytam radimih cindilliyya kalta.
+- **Gaba le kursitte kee daas** gital hayya haya, takkelle warrayta dambisaanam dooraanama.
+- **Buxxa, xabaca le gaba le qulaaba** gabat tabisen. Magassiise, qamballoota kee laqo leemik mara.
+- **Kobox le dariif alfenta le garo luk** num kassiisi xabbaacisiyyat gacanayam duuda isin gariil sugak.
 
-## Which plants should I avoid?
+## Maay buqre dambisiyyo?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Gabat tabisenim meqem, aysuk tammoysaanaah kas-baye waytam doora. AFA gabá sussa haawam dambisaanam, dambi le qeebi wagitaanam, kee num baaxó maaqot akah xageewaamal dacrisaanaah fayuukuta. NIA buxah dacayri sun le buqre kalanaam hinnay alfan aroocal hayya hayyaanam kassiisiyya haa.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Qasara le wardi, kaaktos, kee xabbacisa caraq sussa haa buqre dambisa.
+- Kas-garcit liton buqre sun dacayri maaqabuh hinnay buqre suuqih cawwaya yabuuraanamik duma.
+- Kasat taaxago le buqre meqe kasat-bahta bahteem duudda. AFA wardi kee Christmas cactus meqennuh gaba hayta. Qasara maleeyta doora.
+- Buqreh maada, diidi kalti sun, kee qasba sun alfenta le aroocal haya, num gabal guffam duuda aroocal ma hayina.
 
-## How do I stay safe in the heat and sun?
+## Qeebi kee ayrok mannal dacrisiyyo?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Ayró kee caaceeh wagtit dera yawqeenim meqeysa. NIA kaxxa mari [qeebih dambiyyal](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) kaxxa radimat yanin axce kassiisiyya haa, qarih qaafiyat amó-qeebik dambiyya le daabano kaltaah dawooci amó-qeebi gaba-kalta.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Saaku carraay hinnay carra-carra ewqa.** Qasbo le saakut barak amol mawqina. Qeebi wagti wagita, dagoo numuk baxxaqih.
+- **Lee maggo gedda yaca.** Num lee faxak innam ma wagitinna. Qeebil khamri kee bun xiba dambisa.
+- **Xabaca le sara sara.** Qaddu, xabaca le sara, kaxxa koofiyya kee ayro kuraabiti.
+- **Ayro dacayri kreemi xisa.** NIA SPF 15 hinnay tohuk fayya iyye doora, saakut giddil giddil xisa iyya.
+- **Daas doora.** Caxaytah daas hinnay daas le aroocal tarabeeza haya.
+- **Wagti cindii haya.** Dera dagoo daqiiqat suguk kaxxa xiqta, kaxxa qasbo le saakut.
+- **Astootik dacrisa.** NIA amó-tewqey, kas-garcit, amó-alala hinnay alayta qeebih dambiyyah astooti kinni axce kassiisiyya haa. Kassis dambi lih yan num dambiyya leem sinah mayacca, aroocal wagita. Buxah cula, lee kee xabbaca le saqqat qabbowsa, ussul qaafiyat maqaane geewaytek dawoyna gaca. Kaxxa qeebih dambi (heat stroke), num bayissoocaah, qulula laqo lih amansul maqaane: 17 seeca.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Qabboba wagtit dacrisa. Qabbowtit, dera dagoo daqiiqat haya, gaba kee ibitte qabbi kee xiiba aneewaytaamal dacrisa.
 
-## How do I handle wandering when we go outside?
+## Derre yawqeenik bayisso mannal dacrisiyyo?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Numuk baxxaqih dura mara derre yanin wagti inkih. Alzheimer's Association [10 numuk 6 kassis dambi lih yan mari](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) inki gedda bayissoocan, maggo mari maggo gedda aban axce kassiisiyya haa. Ummaan wagtir abam duudan.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA [bayisso kee garcit warraytah meqennuuta](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) elle qaddowtam:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Num migaq, buxah derri kee bilbil koo le waraaqat hinnay saqatta gabal haawam, hinnay sarak amol kutba hayya hayyaanam yallawisiisa.
+- Dagoo wagtih suura hinnay fiilm numuk hayya haya.
+- Ollah mara num bayissoocam duudaamal kassiisa.
+- Kobox le dariif dafee le alfenta luk diggisa.
+- Bayissooca num dibuk ma kabxina.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association buxah adda kee derrel dacayri le arooca dooraanam, kee carra-carra ganoogane kaxxa takke wagtir taama hayya hayyaanam fayuukuta. Kobox le buqrel cindii gacanay carra-carra ganooganek meqe gaba-kalta kinni. Neeh katuk [carra-carra ganooganeh giddu](/caregiving/late-day-restlessness/) wagita.
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Num bayissooceek, Alzheimer's Association ussul buxah derri dooraanam kee 15 daqiiqat geeweenik 17 (booliisih) seecaanam fayuukuta. Booliisih num kassis dambi lem qaddowsa.
 
-## How do I adapt gardening as things change?
+## Taamoomi mannal badalsiyyo sissikuk gactek?
 
-| If this has become hard | Try this instead |
+| Taama gibiduk gactek | Ah gaba hayya haya |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Buqre inkih yaburenim | Inki daacoytal inki carra yaburenim |
+| Xaysi kalanaam (xaysi kee buqre baxsisaanam) | Lee taceenim, hinnay mule buxaado caylaanam |
+| Buqre inkih gacanayaanam | Tarabeezal baaxo le saxan kee caxayti gabal dafeyaanam |
+| Derre inkih yawqeenim | Keeni carrat buqre daacoyta, hinnay fakkiite fadhisa afal dafeyaanam |
+| Ummaan taama abaanam | Inikih derrel dafeyaanam, aytikalisaanaah wagitaanam |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Qari mari isin taamitaan wagitaanam kicina. NIA num wagitaanam kicnek toh kaah xiqtam qaddowta.
 
-## When should we head inside?
+## Maay wagtir buxah culnoo?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Num tewqey, qeebi, qabboba, ganoogane hinnay gaba-cabbiyya elle tubleenik buxah cula. Cindii meqe 10 daqiiqat kaxxa gibdi carraak aysuk kaxxa meqe. Qimbók gaba-cabbaanam meqe baxxaqisa.
 
-## Bring the garden indoors on screen
+## Buqre amó-skiriinil buxah addal baha
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Roob le saakut, [Sort Together](/games/sort-together/) buqreh kobox suuroocit baxsa, kee [Conversation Cards](/games/conversation-cards/) buqreh warrayta bahta fakkoyti seecoocti luk yan. Qeebik amó-sissikuk temeeteenik, [Calm Breathing](/games/calm-breathing/) xabbaca le, dafee le warrayta sinah tacee. Gabat-tabsi, caro kee maxcoh meqennuutah, neeh [sensory activities guide](/activities/sensory/) addal wagita.

@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Telefoon- en video-aktiwiteite vir iemand met demensie"
+seoTitle: "Video-oproepaktiwiteite vir demensie"
+description: "Video- en telefoonaktiwiteite vir families op 'n afstand: wys-en-vertel, voorlees, saamsing, speletjies op 'n deelskerm en wenke vir helpers."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Oproepe met iemand wat met demensie leef, werk die beste as dit kort en
+  gereeld is, en gebou is rondom iets om saam te doen, soos om 'n troeteldier of
+  tuin te wys, na foto's te kyk, voor te lees, 'n gunstelingliedjie te sing of
+  'n rustige speletjie op 'n deelskerm te speel. Bel indien moontlik elke dag op
+  dieselfde tyd, laat net een stem op 'n slag praat, en vra iemand daar op die
+  perseel om te help.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "'n Aktiwiteit gee vorm aan 'n oproep en neem die druk van gesprekvoering weg. Beplan een eenvoudige ding om te deel."
+  - "Kort, gereelde oproepe op dieselfde tyd van die dag werk dikwels beter as lang oproepe wat selde plaasvind."
+  - "Een persoon praat op 'n slag. Groepoproepe waar mense deurmekaar praat, is moeilik om te volg, veral met gehoorverlies."
+  - "'n Helper op die toneel kan die toestel opstel, langs die persoon sit en die 'hande' wees vir enige speletjie of foto."
+  - "As 'n oproep vandag nie goed werk nie, sluit dit warm af. Dit is heeltemal reg om môre weer te probeer."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Wat kan ek op 'n video-oproep doen met iemand wat met demensie leef?"
+    a: "Beplan een eenvoudige aktiwiteit: wys jou tuin, troeteldier of kombuis; kyk saam na ou foto's; lees 'n kort gedig of brief hardop voor; sing 'n liedjie waarvan hulle baie hou; kook dieselfde resep op dieselfde tyd; of speel 'n rustige prentjiespeletjie op 'n deelskerm. Aktiwiteite gee die oproep 'n fokus sodat die persoon nie die gesprek hoef te dra nie."
+  - q: "Hoe lank behoort 'n video-oproep te wees?"
+    a: "Gewoonlik korter as wat jy dink. 'n Paar warm minute kan heeltemal genoeg wees, veral as die persoon vinnig moeg word. Om gereeld op dieselfde tyd van die dag te bel, kan meer saak maak as hoe lank elke oproep duur."
+  - q: "Wat as hulle verward of ontsteld raak deur video-oproepe?"
+    a: "Sommige mense vind 'n gesig op 'n skerm verwarrend. Probeer 'n gewone telefoonoproep, 'n voorafopgeneemde videoboodskap wat die helper op 'n rustige oomblik kan speel, of kaartjies en foto's per pos. As 'n oproep sleg verloop, sluit dit vriendelik af en probeer weer op 'n ander dag of op 'n ander tyd."
+  - q: "Hoe kan ek my ma help om 'n video-oproep te maak as sy nie die foon kan gebruik nie?"
+    a: "Vra 'n familielid, tuisversorger of personeellid by die sorgsentrum om die oproep te begin en die toestel vas te hou of staande te maak. Baie sorgomgewings help families met video-oproepe, so vra wat hulle aanbied. 'n Tablet op 'n staander, gestel op 'n groot skerm en hard genoeg om te hoor, maak dit vir almal makliker."
+  - q: "Kan ons saam 'n speletjie oor video speel?"
+    a: "Ja. Die maklikste manier is dat een persoon hul skerm in die video-toepassing deel terwyl die ander een sê watter prentjie om te tik. Of die helper daar kan dieselfde speletjie op 'n tablet oopmaak en namens die persoon tik terwyl jy hulle daardeur gesels. Kies speletjies sonder 'n tydhouer of telling."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Om ver weg te woon van iemand wat met demensie leef, kan jou magteloos laat voel. Telefoon- en video-oproepe vervang nie 'n drukkie nie, maar dit kan steeds opregte oomblikke van verbintenis bring as jy dit goed beplan. Die kuns is om op te hou probeer om 'n gewone geselssessie te hê en eerder iets eenvoudigs te beplan om te deel. Hierdie bladsy dek aktiwiteite wat oor video en telefoon werk, hoe om die oproep in te rig, en wat die persoon op die toneel kan doen om te help.
 
-## Why plan an activity for a call?
+## Waarom 'n aktiwiteit vir 'n oproep beplan?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+'n Aktiwiteit gee die oproep vorm. "Hoe gaan dit? Wat het jy vandag gedoen?" verwag van die persoon om te onthou en verslag te doen, wat moeilik en stresvol kan wees. "Kyk, die tamaties is ryp" verwag niks van hulle nie.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Die Alzheimer's Association merk op dat gesprekke met groter groepe oor video moeilik kan wees, en stel voor om [struktuur aan die oproep te gee](https://www.alz.org/help-support/caregiving/holidays) met dinge soos om liedjies te sing of foto's te deel.
 
-## What activities work on a video call?
+## Watter aktiwiteite werk op 'n video-oproep?
 
-### Show and tell
+### Wys en vertel
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Bring jou wêreld na hulle toe. Beweeg die kamera stadig deur jou tuin, stel die hond voor, wys wat jy kook, hou 'n kleinkind se tekening op, of rig die foon by die venster uit na die reën of bome. Beskryf wat jy sien in eenvoudige woorde en laat stiltes sodat hulle kan reageer. Geen vrae is nodig nie.
 
-### Look at photos together
+### Kyk saam na foto's
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Hou 'n ou afdruk voor die kamera op, of deel jou skerm om 'n paar groot foto's een vir een te wys. Praat oor wat jy raaksien: "Kyk na Oupa se hoed." Vermy "Wie is dit?" of "Onthou jy?" As die persoon iemand verkeerd noem, gaan maar daarmee saam. Sien ons [herinneringsgids](/activities/reminiscence/) vir sagte idees om gesprekke aan te moedig.
 
-### Read aloud
+### Lees hardop voor
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Lees 'n kort gedig, 'n psalm, 'n geliefde kinderboek vir 'n kleinkind op dieselfde oproep, 'n brief van 'n familielid, of 'n bladsy uit 'n boek waarvan hulle gehou het. Om hardop voor te lees gee die persoon iets rustigs om na te luister sonder dat hulle hoef te antwoord.
 
-### Sing or listen to music together
+### Sing of luister saam na musiek
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Sing 'n liedjie wat hulle goed ken, of speel 'n gunstelingplaat aan jou kant. Om saam te sing is vir baie mense makliker as om te praat. Sien ons [gids vir musiekaktiwiteite](/activities/music/).
 
-### Cook or bake at the same time
+### Kook of bak op dieselfde tyd
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Die Alzheimer's Association stel voor om 'n video-oproep te beplan om 'n spesiale resep saam te kook of bak. Stel die oproep in albei kombuise op. Die persoon by die huis kan dalk roer of proe terwyl jy hul ou resepkaart volg.
 
-### Watch something together
+### Kyk saam na iets
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Die vereniging stel ook voor om 'n gunstelingfliek op dieselfde tyd vanuit afsonderlike huise te kyk terwyl julle per telefoon of video gesels. Vir iemand wat met demensie leef, kan 'n kort video, 'n ou TV-episode of 'n sportwedstryd dalk beter werk as 'n vollengte rolprent.
 
-### Play a gentle game on a shared screen
+### Speel 'n rustige speletjie op 'n deelskerm
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Baie video-oproeptoepassings laat jou toe om jou skerm te deel. Jy maak die speletjie oop en tik; die persoon sê vir jou of wys na watter prentjie om te kies. Of die helper op die toneel maak dieselfde speletjie op 'n tablet oop en tik namens hulle terwyl julle gesels.
 
-Games that work well this way:
+Speletjies wat goed op hierdie manier werk:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** jy lees die bekende gesegde voor, hulle sê die einde, en 'n gespreksonderwerp volg.
+- **[Picture Pairs](/games/picture-pairs/):** 'n rustige pasmaatspeletjie met groot prente wat sigbaar kan bly, sonder 'n tydhouer of telling.
+- **[Conversation Cards](/games/conversation-cards/):** 'n prentjie en 'n oop vraag om saam oor te gesels.
+- **[Photo Pairs](/games/photo-pairs/):** 'n pasmaatspeletjie gemaak van foto's wat jy op jou eie toestel kies. Die foto's bly in jou webblaaier, en die persoon sien dit deur jou gedeelde skerm.
 
-### Recorded messages
+### Voorafopgeneemde boodskappe
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Wanneer regstreekse oproepe moeilik is, neem 'n kort video op: 'n groet, 'n liedjie, 'n wandeling in jou tuin. Die helper kan dit op 'n rustige oomblik speel, soveel keer as wat die persoon dit geniet. Die Alzheimer's Association noem die opneem en stuur van spesiale oomblikke, soos kinders wat geskenke oopmaak.
 
-## What about plain phone calls?
+## Wat van gewone telefoonoproepe?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Telefoonoproepe maak steeds saak. Dementia Australia stel voor om [elke dag op dieselfde tyd te bel](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) en nie te haas nie, aangesien mense met demensie tyd kan neem om betrokke te raak. Oor die telefoon:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Sê dadelik jou naam en verhouding: "Hallo Pa, dis Jenny, jou dogter."
+- Praat stadig, in kort sinne, een gedagte op 'n slag.
+- Deel nuus eerder as om vrae te vra: "Ek het gisteraand jou potbraairesep gemaak."
+- Lees 'n kort gedig voor, of sing 'n versie van 'n gunstelingliedjie.
+- Hou dit kort en sluit op 'n warm noot af.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia merk ook op dat video-oproepe kan help wanneer praat moeiliker word, aangesien die persoon jou gesig kan sien. As telefoonoproepe verwarrend raak, probeer video, of andersom.
 
-## How do I set up a video call that works?
+## Hoe rig ek 'n video-oproep in wat werk?
 
-**Before the call:**
+**Voor die oproep:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Kies 'n gereelde tyd** wanneer die persoon gewoonlik uitgerus is, en hou daarby. Roetine help.
+2. **Reël met die helper op die toneel.** 'n Boodskap die vorige dag help hulle om te beplan.
+3. **Gaan die toestel na.** 'n Tablet op 'n staander is makliker as 'n foon wat in die hand gehou word. Maak seker dit is gelaai, die skerm is helder, en die klank is hard genoeg. Skakel onderskrifte aan as die toepassing dit bied en die persoon goed lees.
+4. **Beplan een aktiwiteit** en hou alles gereed.
 
-**During the call:**
+**Tydens die oproep:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Sit naby die kamera** in goeie lig, met jou gesig na 'n venster toe eerder as met die venster agter jou.
+- **Stel jouself elke keer voor,** met jou naam en verhouding.
+- **Een stem op 'n slag.** Die Alzheimer's Association merk op dat deurmekaarpraat moeilik is vir mense wat met demensie leef en mense met gehoorverlies. As verskeie familielede aansluit, maak beurte of beperk dit tot twee of drie mense.
+- **Vra een vraag op 'n slag.** Die Family Caregiver Alliance stel voor om [eenvoudige vrae met ja-of-nee-antwoorde](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) te vra, en keuses te wys waar moontlik.
+- **Laat lang stiltes toe.** Wag vir 'n antwoord. Dit is heeltemal reg om 'n woord voor te stel as hulle daarna soek.
+- **Gebruik jou gesig en stem.** Glimlag, knik en hou jou stemtoon warm. Gesigsuitdrukkings sê dikwels meer as woorde.
+- **Moenie korrigeer nie.** As die persoon iets sê wat nie feitelik akkuraat is nie, laat dit maar so wees.
 
-**Ending the call:**
+**Om die oproep af te sluit:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Sluit af voordat die persoon moeg word, verkieslik op 'n positiewe noot.
+- Gebruik elke keer dieselfde groet: "Ek bel jou môre met middagete. Ek is lief vir jou."
+- Moenie dit uitrek nie.
 
-## Tips for the helper on site
+## Wenke vir die helper op die toneel
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+As jy die gade, versorger, familielid of personeellid is wat met die oproep help, maak jy dit moontlik.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Kies 'n stil plekkie.** Skakel die TV af en maak die deur toe.
+- **Begin self die oproep,** en gee dan vir die persoon 'n tablet op 'n staander aan of hou dit op ooghoogte.
+- **Sit langs hulle, nie voor hulle nie.** Jou teenwoordigheid stel gerus. Gee sagte leidrade indien nodig: "Kyk, dis Jenny."
+- **Wees die hande.** Hou foto's op, tik op die speletjie, draai die tablet om die vertrek te wys.
+- **Hou moegheid of ontsteltenis dop,** en laat die beller weet wanneer dit tyd is om af te rond.
+- **Vertel die beller wat gewerk het.** "Sy was mal oor die hond" help om die volgende oproep te beplan.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+Die NIA stel voor dat familielede wat ver woon 'n ouer persoon kan help om [hul foon se kenmerke te leer ken](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), soos video-oproepe. In latere stadiums sal die helper gewoonlik die toestel heeltemal moet hanteer. Dit is heeltemal normaal.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+As die persoon in 'n versorgingsoord woon, stel die Alzheimer's Foundation of America voor om te vra of die instelling families help met video-oproepe. Die AFA noem ook dat families foto's heen en weer met versorgingspersoneel kan stuur, en gunstelinghappies of klein bederfies kan stuur, nadat hulle gekontroleer het wat die instelling toelaat.
 
-## What if the call doesn't go well?
+## Wat as die oproep nie goed gaan nie?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Sommige oproepe sal verwarrend, plat of ontstellend wees. Dit is nie jou skuld nie, en dit beteken nie dat oproepe nie die moeite werd is nie.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- As die persoon skynbaar verward is oor die skerm, skakel oor na 'n telefoonoproep of 'n voorafopgeneemde boodskap.
+- As hulle ontsteld raak, erken die gevoel, sê iets gerusstellends, en beëindig die oproep saggies.
+- As oproepe dikwels op 'n sekere tyd van die dag swak verloop, probeer 'n ander tyd.
+- As hulle dink jy is iemand anders, gaan vriendelik daarmee saam.
 
-It is fine to end early. A short, warm call is a good outcome.
+Dit is heeltemal reg om vroeg af te sluit. 'n Kort, warm oproep is 'n goeie uitkoms.
 
-## Between calls
+## Tussen oproepe
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Bly op ander maniere teenwoordig. Dementia Australia stel voor om kaartjies, e-posse, foto's of klein geskenkies te stuur. 'n Weeklikse poskaart met een groot foto en 'n kort nota kan weer en weer gelees word. Drukbare [gesprekkaarte](/games/conversation-cards/) wat aan die helper gepos word, kan vir die volgende oproep 'n klaargemaakte onderwerp gee.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Vir wenke oor hoe om 'n tablet te kies en op te stel, sien [tablette en skerms](/caregiving/tablets-and-screens/). Vir kuiertyd in eie persoon, sien ons gids oor [kuier](/activities/visiting/).

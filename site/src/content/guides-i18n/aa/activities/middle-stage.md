@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Fan-Baxi Kas Mabaxxah Taamitte"
+seoTitle: "Fan-Baxi Kas Mabaxxah Taamitte: Xabcin Cissitte"
+description: "Fan-baxi kas mabaxxah xabcin taamitte: tu qokla taamoomi, muuzika, suwarrat kee xabcin meqeenti, xambaqiyyi taamah korissa aracitteluk."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Fan-baxi kas mabaxxal, kaysimta taamitte inki aracal gaba kaltaah taaxige
+  taamoomi kinni: sara xuliyya, sharaabitte baxsa, sahannitte kaalaciyya,
+  gitaaco, qokol luk gital gaca, suwarrat kutuub kee xabcin suwarrat meqeenti.
+  Wakti cisa, naharsi taama aybulla, gibdi aracitte sinam qoklaay taamah
+  fayxa yaceenim meqe. Asta kibal waytam kee yayse waytam fanah abaanam
+  duudan.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Taaxigeenih yanin buxi taamoomi koboxxoh meqe, tu qoklaanam kee kaxxa numih gide leemih taaxaguk."
+  - "Warisaanamak aybulluk abaanam yayse, inki aracal inki taama koboxxuk, fanti esseroorak namma xabcin dooqayshit yaceenim tekkek yayse."
+  - "Gibdi arac sinam qoklaay xaba num meqe aracal gaba culeh abam meqe."
+  - "Xambaqiyyi num tu abaah abinam faxah yanih yan astit kinni. 'Malan' axce kal taama le abnissa cissitte acay."
+  - "Wagitaanam, dalka qoklaanam, hinnay wakti duumak dambisiyyam inkih meqe."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Fan-baxi kas mabaxxah manna taamitte meqe?"
+    a: "Ubbuh gabat aban, xabcin kee taaxigeenih yanin taamitte yayse: fowtitte xuliyya, sharaabitte baxsiyya, sahannitte kaalaciyya, meez caraysiyya, baxaaqite dooqayshih gitaaco, qokol luk gital gaca, suwarrat kutuub wagitaanam kee xabcin suwarrat meqeenti kinni. Inkitti aracal inki taama koboxxuk ittaluk abaanam tekkek yayse."
+  - q: "Kas daggoyta luk yan num taama elle yabaakumuk mannal abaa?"
+    a: "Ubbuk maro massoysaay, atuyyo taama gaba culak 'A fowtit xuliyyat gaba yoh dactaa?' axcuk seec. Kaxxa maro taamat gaba culam faxak qimbisaanam gibiduk tekkek gaba xaban. Naharsi taama aybulluk abaanam warisaanamak yayse."
+  - q: "Inki taama gide caddok gacaasak abaanam tekkek macah abnaa?"
+    a: "Inki taama gacaasak abaanam tu makalittaay, num tu abam faxah yan astit takkeemih danti tan. Sinamak 'mabaatina' axce kal, a taamah lih takke taama acay, fowtit xuliyya hinnay ittaluk gitaaciyyam innah yan taamoomi."
+  - q: "Taama baxaabaxsaleh hinnay calatuk abeenik mannal abnaa?"
+    a: "Tu makalatinnik xaba. Fowtit baxaabaxsaleh xulimeenik hinnay kankillit mawaagitan aracal sugenik dambiyyi mayan. 'Calat tekke' axce kal, usun abaanamih arac yaceenim usun kaxxa taama aboonuh gaba cabta."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Kas mabaxxah fan-baxi gersi waktiik ubbuh derre le arac kinni, tamaahak taamitteh numih qokol kaxxa caagid kinnuk xabbaaha. Qangara koboxxiyya gibiddah, taamah gide laaqitaah, taama qimbisaanam qushuubuk takke. Kaxxa numih gideh qokol kee tu abam faxan cissi immay suga. Dagor massoysiyyal, fan-baxil yan num kaxxa gideh meqem duudah, xalaylit taaxigeenih yanin taamoomi, muuzika kee koo lih ittaluk suwarrat wagitaanam.
 
-## What activities work well in middle-stage dementia?
+## Fan-baxi kas mabaxxal manna taamitte meqe?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Xabcin, taaxigeenih yanin, gabat aban taamitte inki aracal inki taama acayuk koboxxaanam yayse. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) warissam qusba taamitte ginnaanam mafaxaaxinna: taamitte kulla ayróh manoh aracal suge kalta, maaqo ittaluk xabaasisaanam, buxah caxoot caraysiyya, muuzika ankacisaanam hinnay gital gacaanam innah tan taamoomi.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) baxxaqissam tama aracal yan mari tu abaanam kee tu dacrisaanamih cissi koboxxuk yan, taama qimbisaanam kee amol suge waynamih qokol faxan. Fan-baxi taamoomi lih yan sara xuliyya, sahannitte kaalaciyya, sharaabitte baxsiyya, xabcin jismik meqeenti, taaxigeenih yanin muuzikat tullissa, qokol luk gital gaca, ittaluk gitaaco, xabcin koobaabiyya kee suwarrat kutuub wagitaanam kinni.
 
-## How do you set up an activity so it works?
+## Taama mannal massoysaanah meqe aracat gaba caltaa?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Kaxxa taamitte gexsittaam kee gexsi waytam massoysiyyat tani. Ta giddiina, [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) kee [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) kutbeh tanimik, kaxxa baxsa luk tani:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Arac caagidissa.** TV alifa, araca alifaay, taamah faxximtaim inkitti aracal koboxxa.
+2. **Atuyyo qimbis.** Sara xulaamat hinnay xabaasisaamat gaba culaay usun qokoloonuh seec: "A taamat gaba yoh dactaa?" axcuk.
+3. **Aybullu, sarrah qambaal.** Inki gideh taama aybullu. Gabat elle gaca arac aybullu, sahani elle yan arac aybulliyya innah.
+4. **Inki aracal inki taama acay.** "Fanat xul" axceenim "a sara xulaay rangik baxsiyyal daggoy" axceenimak yayse.
+5. **Namma xabcin dooqayshit acay, fanti esseroora maleh.** "A bula fowtitte faxxa mise qadooti?" axceenim "Manna taama abam faxxa?" axceenimak yayse.
+6. **Gibdi arac atuyyo aba.** Atu ciddigta, usun laaqisan. Atu lilta aracat culussa, usun suuf karabisan.
+7. **Taamah sabab acay.** "Ta fowtitte kulla ayróh maaqoh kinni" axceenim taama kaxxa fayxi elle leemih tacee.
+8. **Wagitaanam faxeenik xaba.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) baxxaqissam wagitaanam xalaylit afcalik meqe takkem duudda.
 
-## Activity ideas for the middle stage
+## Fan-baxih taamoomih cissitte
 
-### Useful jobs
+### Tu qokla buxi taamoomi
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Fowtitte kee dafceenit xuliyya.** Xabcin kee sissik tuuyut yayse. Qimbisiyyal fowtit koboxxuk xuliyya, massoysiyyaay gacasak xuliyya duddam.
+- **Sharaabitte baxsiyya.** Baxaabaxsaleh tan sharaabittek qimbisa. Rangi baxsiyyal sugeenik inkih meqe.
+- **Kakki wayta sahannitte kaalaciyya hinnay qasbissa.** Culul leeyi gabat meqe. Dafeyna aracal qasbisaanam tibba yacee.
+- **Meez caraysiyya.** Inki aracal inki tuuya gaban gactaay, koo kaadu inki numih arac massoysak aybullu.
+- **Maaqo xabaasisaanat qoklaanam.** Dinnic kaalaciyya, caxoot koboxxiyya hinnay darsot laaqissa. Gillaafiteh tan tuuy kee girat atuyyo suga.
+- **Buxi faagiyya, buxur kak uyyuqunyiyya.** Meezah maro, dambih dafal xabcin faagiyya.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Gersi taamoomih [household tasks](/activities/household-tasks/) wagita.
 
-### Music and movement
+### Muuzika kee jismik dacrisiyya
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Taaxigeenih yanin gitaacotte gitaaca.** Atuyyo gitaaciyyat qimbis; kaxxa maro sanootak taaxigeenih yanin gitaacottat gaba culan. [music activities](/activities/music/) wagita.
+- **Qokol luk tullissa.** Gabâ kobosiyya hinnay jismik calat luk gitaaco. Dafeynak abaanam meqe.
+- **Baluun gaabissa.** Soolah gactaah dafeyna aracal gaabisaanam sissikuk tekke.
+- **Gital gaca.** Taaxigeenih yanin gital ittaluk gaca, qokol luk gaba giddat qokluk.
 
-### Pictures and stories
+### Suwarrat kee maaqiditte
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Suwarrat kitaab wagitaanam.** Esseroora acayuk kal wagittaamih aytiica: "A mootar wagita. Ta caagid yoh wara." [reminiscence activities](/activities/reminiscence/) wagita.
+- **Walal kaarditte aba.** [Conversation cards](/games/conversation-cards/) suwarrat kee fanti esseroora maleh tan walal luk tani.
+- **Taaxigeenih yanin filmi ittaluk wagitaanam.** Taaxigeenih yanin dooraay, dabqal sugaay dambisiyyah waagisa.
 
-### Simple, pressure-free games
+### Xabcin, gibdaabina maleh meqeenti
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Suwarrat koboxxiyya suwarrat gaba kaltuk.** [Picture pairs](/games/picture-pairs/) suwarrat tambulleek suge kalta, tamaahak kas-waagissak kal wagitaanat tacee.
+- **Inki git elle suwarrat gora.** [Find the same](/games/find-the-same/) inki suwarrat nammaay afrik namma dooqayshi elle yaceenim.
+- **Ittaluk baxsiyya.** [Sort together](/games/sort-together/) shaashat amol sara baxsiyya innah: suwarrat amol dafeynaay koboxxut qidda.
+- **Suwarrat bingo.** [Picture bingo](/games/picture-bingo/) buxah maro ittat gaabowtaah koboxxowtam fanah kaxxa meqeenti kinni.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Meqeenti gibdaabina elle gaba culteek, waagisaay gersi taama aba. [how to play together](/caregiving/how-to-play-together/) wagita.
 
-## Turning restlessness into an activity
+## Xambaqiyyi taamat korsaanaamih gita
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Xambaqiyyi hinnay inki taama gacaasak abaanam sabab luk tanoomih danti tan. Family Caregiver Alliance baxxaqissam, kantaarati amol sugeh tu baahak yan num tu abam faxah yan astit takkem duudda. Alzheimer's Association warissam tama astit kelta taamat korsaanaam yayse, 'mabaatina' axce kal.
 
-| What you see | Something to offer |
+| Wagittaam | Yaceenim meqe taama |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Meez amol gaba xissa hinnay qidda | Caxle maro acayuk meez amol kaalacissaam faxa |
+| Ibi xambaqiyya hinnay qidda | Muuzikah darti luk ibit kobosiyya hinnay gabat koboxxa |
+| Kantaarati hinnay sanduuq baahaanam | Sara fowtitte koboxxuk xuliyyaay baxsiyyah acay |
+| Inki essero gacaasak esseraanam | Yaabisiyya, sarrah gitaaco hinnay buxi taama acay |
+| Gital gacaanak soolaanam | Ittaluk gital gaca, hinnay tu yukqukeenih gacaanama |
+| Ayró gubi qaxi xambaqiyya | Diifu le aracal dagor taama; [late-day restlessness](/caregiving/late-day-restlessness/) wagita |
 
-## When to stop or change course
+## Manna wakti waagisaanaah gersi taamah koraanaam
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Xaynat, gibdaabina, waraqiyya hinnay lafaafe astit table wakti waagisa: gabâ qushuubiyya, fooca qunxissiyya, tuuy derre kalaciyya hinnay "koboxxuh maduuda" axceenik. Alzheimer's Association warissam gersi wakhit gacaasak qimbisaanam hinnay xabcin taamat korsaanaam yayse. Giddiinal mabina. Cabbeynum meesik hinnay taama gibiddamih tekke; [when they say no](/caregiving/when-they-say-no/) wagita.
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Wakti duumak dambisiyyam inkih meqe. Shaah kobbadit ittaluk dafeynaanam kaadu kaxxa fayxi le. Kas daggoyta derre gactek, [late-stage activities](/activities/late-stage/) cissitte yayse, kaadu [101 activities](/activities/ideas/) mangi cissitte luk tani.

@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Kas-dhab Sababitte: Lancet Komision Xayyoose 14 Sababa"
+seoTitle: "Kas-dhab Sababitte: 14 Lancet Sababitte"
+description: "2024 Lancet Komision xayyoose kas-dhab korisa 14 sababa, manô daqaarah, xiinissah gersiik kee dooktor luk walalsitanim."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 Lancet Komision korsimiyya duuda 14 kas-dhab qanbi sababa xayyoose:
+  baran dhab, ayti kale, caxlafe LDL kolesterol, rufto dhab, amô biyaakita,
+  moyyaqu dhab, sukkar biyak, sigaara cabiyya, dhiigiik feyya, mango nabsit,
+  caxlafe farqe cabiyya, marak baxsimiyya, cawoy finqitimte kee urrisiyya
+  male inti dhiiqo. Ittaluk addunyah addat geytima biyakik 45% edde koboxsitaana,
+  kullumuk numuk kalal gaba-kalteh suge waytam luk.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Tama 14 sababa kulli numuk manô gidih tunkulle: inki sababi dago manot, taban sababi manô garbat, kaadu sidiica sababi kaxxa manot."
+  - "Ayti kale kee manô garbal yan caxlafe LDL kolesterol, kulli tiya addunyah kas-dhabik 7% lih koboxsita, inki sababak bahta kaxxa dacsi kinni."
+  - "Ta darsiina addunyah marah yeceen gactek gacta kinni, sabab kee yabto celtaamah. Gari xiqte baxsaleh tan sababak tano duudda."
+  - "Umri kee nasabi (genes), num kaluu deemewam, naba qanbi sababitte kinni. Ta 14 sababa daggoysiyyam num kas-dhabak kalalu duudaaxik baxxaqqa maleh."
+  - "Aban gersi gexsit, dhiigpresser, ayti kee inti dhiiqo dacrisiyya, gersi fayyah kayfi kinni kaadu dooktor luk walalsitanim meqe."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Kas-dhabak korsimiyya duuda 14 sababa iyyaayi?"
+    a: "2024 Lancet Komision xayyoose sababitte: baran dhab, ayti kale, caxlafe LDL kolesterol, rufto dhab, amô biyaakita, moyyaqu dhab, sukkar biyak, sigaara cabiyya, dhiigiik feyya, mango nabsit, caxlafe farqe cabiyya, marak baxsimiyya, cawoy finqitimte kee urrisiyya male inti dhiiqo kinni. Ittaluk addunyah addat geytima kas-dhabik duma-garb edde koboxsitaana."
+  - q: "Kas-dhab sababittek baxaabaxsituk aysuk dambiyyi kaxxa sababi iyyihi?"
+    a: "Addunyah maral, Komision ayti kale kee manô garbal yan caxlafe LDL kolesterol kulli tiya 7% addunyah biyakat koboxsitam ceelisa, tohuk lakal baran dhab kee marak baxsimiyya 5% kulli tiyah edde koboxsita. Numuk iyyi sababi kaxxam kaah fayyah tayse dooktor luk walalu meqe."
+  - q: "2024 sanatal namma cusub sababa edde erreenii?"
+    a: "Yeey. 2024 riporte manô garbal yan caxlafe LDL (uma) kolesterol kee kaxxa manol urrisiyya male inti dhiiqo, 2020 xayyoowte 12 sababat edde oggole. Komision 7% kee 2% biyakat koboxsitam tece."
+  - q: "Umri korsimiyya duuda sababaa?"
+    a: "Maleey. Umri Alzheimer biyakak kaxxa sababa kinni, korsiyya maduuda. Nasabi (genes) kaadu qidda luk yan. Ta warqatal yan 14 sababi xiinissah gersi korsimiyya duuda axcuk xayyooseh yanim kinni."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,80 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Qanbi sababi axceenim biyak numul yemeetem kee kaxxam geytimaanamih gersi kinni. Toh kulli uddur sababa axcek mawaagita, kaadu inki sabab luk sugeenim kas-dhab lito axce kalta. Ta warqat 2024 Lancet Komision korsimiyya duuda axcuk xayyoose kas-dhabak 14 sababa, xiinissah gersi edde koboxsitam, kee dooktor luk walalsitanim kaxxa baxxaqqal tacee.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Kaxxa baxxaqqa geyoomaah, naba farrintitte fanah, [Kas-dhab korsimiyya duudaa? Xiinissa ittam](/brain-health/can-dementia-be-prevented/) gexsitik qimbisa. Ta warqat umman marah tan gersi kinni, dooktorik farrin kalta; ni [dooktorik baxxaqqa](/medical-disclaimer/) gubal yaabe.
 
-## What are the 14 risk factors for dementia?
+## Kas-dhabak 14 sababa iyyaayi?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 Lancet Komision](https://doi.org/10.1016/S0140-6736(24)01296-0),
+27 kas-dhab xiinissah marak gaba-kaltu luk yantifiqeenim, korsimiyya duuda 14 sababa ittaluk addunyah addat geytima kas-dhabik 45% celtaamal baxxaqise. Guba elle tan kulli sababah gersi addunyah koboxsat Komision tece gacta kinni, qaxaamat korsinteh. Gari mari mangom sababa ittat luk yanimih sabbatah, lakqo itta culteh 45% tekke.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Qanbi sababa | Manô daqaara | Kotti gacta | Xiinissa edde koboxsittam | Atu abo duddam |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Baran dhab | Dago mano | 5% | Madrasat dago sanoota sugeenim kaxxa qanbi lih koboxsita. Manô garbal kas luk yan gexsit dacrisiyya korsiyya celta, dago baran luk yan maray akke way. | Kulli umril baritto kee kas korsa gexsit dacrisa: aqriyya, farakka gexsit, baritto, gersî luk digir. |
+| Ayti kale | Manô garba | 7% | Urrinte wayte ayti kale kaxxa qanbi lih koboxsita. Maray uddur gexsitik cata ayti caawiyta faydissam dago qanbi lih koboxsita. | Ku ayti intifiqa. Ayti caawiyta kok cattam essera, yecen tektek edde xaxa. Naba qaagook ayti dacrisa. |
+| Caxlafe LDL kolesterol | Manô garba (40 sanatak warrayak) | 7% | Manô garbal yan caxlafe LDL ("uma") kolesterol kaxxa qanbi lih koboxsita. Statins xatayan mari dago qanbi luk yanim darsiina tascasse, takkay immay kaxxa manol koboxsewayte. | Dooktorik kolesterol intifiqaanim kee tu edde abaanim essera. |
+| Rufto dhab | Manô garba | 3% | Rufto dhab kaxxa qanbi lih koboxsita. Kaxxa manol, rufto dhab kas-dhabih qimbô kasli akke duuda. | Kaxxa rufto dhab namma saamantuk warrayteh tektek dooktorik ixxica. Rufto dhab urrisiyya le. |
+| Amô biyaakita | Manô garba | 3% | Kulli umril yemeete amô biyaakit, isportik yemeetem takkay immay, kaxxa qanbi lih koboxsita. | Baskeel kee isportil amo dacrisiyta xaxa. Radak kalal essera. Amô biyaakitak lakal farta kee intifiqa. |
+| Moyyaqu dhab | Manô garba | 2% | Moyyaqu abaanah isport digira mari kas-dhab geytam dago. Darsiina kah tacee sumaq dagoo kinni. | Ku fayyah meqe moyyaqu dooktorik essera, kaadu kictam geya. Ni [moyyaquh gexsit](/brain-health/exercise/) guba yaabe. |
+| Sukkar biyak | Manô garba | 2% | Sukkar biyak, manô garbal qimbisak hinnay mangoomah sugak, kaxxa qanbi lih koboxsita. | Dhiigik sukkar intifiqa. Sukkar biyak lito tektek, ku dacayuk yan marâ luk dacrisa. |
+| Sigaara cabiyya | Manô garba | 2% | Sigaara cabiyya kaxxa qanbi lih koboxsita. Sigaara cabte mari gari sigaara caba marak dago qanbi luk yanim darsiina tascasse. | Cabaanamih cato essera. Kulli umril cabaanam meqe. |
+| Dhiigiik feyya | Manô garba | 2% | Manô garbal yan dhiigiik feyya kaxxa qanbi lih koboxsita. Dhiig dawâ farrin kas-dhab kee kas dhiiqok dago qanbi leem tascasse. | Ku lakqooba ixxica. Komision 40 sanatak warrayak 130 hinnay gubal sugam tekcem tascasse; kok meqeem dooktorik essera. |
+| Mango nabsit | Manô garba | 1% | Manô garbal yan mango nabsit kaxxa qanbi lih koboxsita, kaadu sukkar biyak bahta. | Ku fayyah meqe nabsit dooktorik essera. Kaxxa umri le mari dooktorih amri maleh nabsit daggoysu male. |
+| Caxlafe farqe cabiyya | Manô garba | 1% | Farqe mango cabiyya kaxxa qanbi lih koboxsita. Farqe daggoysiyya dago qanbi lih koboxsita. | Kok meqe giddi essera, kaxxam ku dawaawit luk. |
+| Marak baxsimiyya | Kaxxa mano | 5% | Marâ luk geytimiyya waynam kaxxa qanbi lih koboxsita. | Marâ luk meqe gexsit dacrisa. Ni [marâ luk geytimiyyah gexsit](/brain-health/social-connection/) guba yaabe. |
+| Cawoy finqitimte | Kaxxa mano | 3% | Cawoy finqitimtel sugeenim kaxxa qanbi lih koboxsita. Saytun cawoy dago qanbi lih koboxsita. | Kaxxa garbi gashshoysiyyah tu kinni. Cawoyh gersi intifiqa kaadu finqiti kaxxa ayroorat barra sugiyya daggoysa. |
+| Urrisiyya male inti dhiiqo | Kaxxa mano | 2% | Kalale wayte inti dhiiqo kaxxa qanbi lih koboxsita. Inki naba US darsit katarakt qamaluyya dago qanbi lih koboxsitam tescesse. | Umman intî intifiqa aba. Katarakt celta dhiiqo urrisiyya duddam essera. |
 
-## How should I read these percentages?
+## Ta darsiina gacta mannal aqriyoonu waytaana?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Kaxxa dacsiluk. Komision tece riporte kasal haytaanam faxximta qadaada xayyoossa:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Marâ baxsal yaabaanaaxik, inki numuk male.** University College London
+  [riporte koboxse warqat](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  qanbi daggoysiyya umman maral gexxa axcaah, inki num kas-dhabak gaba-kalteh suge waytam tascasse.
+- **Sabab kee yabto celtam xabbacaysaanam kinni.** Yantifiqe mari meqe sumaq le sababitte erreeni, immay gari koboxsat sabab inki koti akke duudam iyyeen.
+- **Addunyah kotti gacta kinni.** Naba gersi naba galti le baaxook yemeete, inki baaxo hinnay qellat baxsaluk geytima.
+- **Dago darsiina kaxxam tunkulle duudda.** 2% addunyah biyakat koboxsita sababi, mangom maral tunkullem kinni.
 
-## Which risk factors were added in 2024?
+## 2024 sanatal iyyi sababitte edde erreenii?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 riporte 2020 xayyoowte 12 sababat namma sababa edde erte:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Manô garbal yan caxlafe LDL kolesterol**, 7% addunyah biyakat koboxsita.
+- **Kaxxa manol urrisiyya male inti dhiiqo**, 2% addunyah biyakat koboxsita.
 
-## What risk factors cannot be changed?
+## Korsiyya maduuda sababitte iyyaayi?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging
+[umri Alzheimer biyakak aysuk kaxxa sababa](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)
+kinnoomah num korsiyya maduuda axce. Nasabi (genes) kaadu qidda luk yan; Alzheimer qanbi korta inki naba nasabi APOE deqsita. NIA sayntistitte kas-dhabik mangom maral sababa baxxaqqa luk mayana axce. Lancet Komision numuk nasabi qanbi akkuk yanim takkay immay korsimiyya duuda sababa daggoysaanam meqe axce.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Umri kee nasabi naba qidda lemik sabbatah, ta 14 sababak inki sababa hin mari kas-dhab geytam duuda. Toh numuk zambi hinna.
 
-## What does the trial evidence say about changing these risks?
+## Ta sababitte korsiyyah sumaq mayaaxci?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Kas-dhab qanbi sababa lih koboxsiyaanam kee korsiyya kas-dhab qanbi daggoysam inki kassi hinna. Sumaq elle soola kotiyaak garik:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
+- **Dhiigpresser.** SPRINT MIND darsit, dago dhiigpresser kas dhiiqo daggoysam tescesse. Kas-dhab meqem daggoysaaxik baxxaqqa maleh, darsit kaxxa dacsi luk suge wayteemik sabbatah ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Ayti caawiyta.** Lancet Komision sidiica sanatih ayti caawiyta darsit kasal naba korsiyya abewayteem baxxaqissa, immay kaxxa qanbi le maral cató bahte. Uddur gexsitik maral yantifiqeen darsiina ayti caawiyta xaxiyya dago qanbi lih koboxsitam tascasse. Ni [ayti gexsit](/brain-health/hearing/) gubal mangom le.
+- **Moyyaqu.** National Institute on Aging moyyaqu kas dhiiqo hinnay Alzheimer kalalu duuda axceenimih sumaq darsiinak geyaanaanam dagoom tascasse, takkay immay umriik gari dhiiqo cataam ceelisa
   ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Kas-dhab yemeetem qambala darsiina xalot naba galti le, toohik gersi marat uddur gexsitik cata darsiina meqe sumaq tacee. Toh cató le, immay darsit faylak dago.
 
-## What about sleep and diet?
+## Xiina kee maaqo mannal tani?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Komision xiina kee maaqo takte immay sababat maarisiyya maduudda, sumaq kaxxa koboxsat luk suge wayteemih sabbatah. Ni [xiina](/brain-health/sleep/) kee [maaqoh](/brain-health/diet/) gexsit meqe baxxaqqa tacee.
 
-## Talk with a doctor
+## Dooktor luk yaaba
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Sanatih intifiqa ta gersi yabtaanih meqe uddur kinni. Ta warqat bahteeniih essera:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Yi dhiigpresser, sukkar kee kolesterol mannal tani, dacrisiyya faxximtaam litoo?
+- Yi ayti kee intî intifiqa abu fannaa?
+- Yô meqe moyyaqu abaa kaadu meqee?
+- Yi dawaawit kas hinnay maaqo kalal leem litoo?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Dawaawit, maaqo, sooma, moyyaqu hinnay korsa xatayoona korsaanaak duma dooktor luk walala. Atu hinnay ku dacayuk yan num kas finqisso, inki gari daqiq, hinnay yabih qidda liton tektek, hawaalah 15 dooqoysita.

@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Ацәареи ахшыл агәабзиареи: иаҳҳәо аҭҵаарақәа, ицхыраауа"
+seoTitle: "Ацәареи адеменциеи: иаҳҳәо аҭҵаарақәа"
+description: "Ацәареи адеменциа ашәарҭареи ирызку аҭҵаарақәа, ахшыл арыцқьара атема, иара убас абыргцәеи урҭ рхылаԥшцәеи рзы ацәара аҵасқәа."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Аамҭа рацәала имҩаԥгаз аҭҵаарақәа шьақәдырӷәӷәоит абжьаратәи ақәрахь ацәара маҷра адеменциа аҿиара ашәарҭара ишадҳәалоу, алабораториақәа рҿы имҩаԥгаз аҭҵаарақәа ишаҳдырбо ала ацәара ахшыл арыцқьара иацхраар ауеит. Аха арҭ ахыҵхырҭақәа макьана иҵаулаӡам, 2024 шықәсаз Lancet акомиссиагьы ацәара аԥсахлатәи ашәарҭаратә факторқәа ирыланамҵакит. Ацәара ииашоу аҵасқәа есымша ацәаӷәӷәара аиӷьтәра иацхраауеит. Адеменциа змау ауаа рҿы ацәара апроблемақәа лассы иуԥылоит, урҭ ракәзар аҳаким иабжьгара иаҭахуп.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Британиа Ду амҩаԥгара змаз, 8,000-ҩык ауаа 25 шықәса рыхылаԥшра иазкыз аҭҵаара иаанарԥшит абжьаратәи ақәрахь ф-сааҭк ма уи аасҭа еиҵаны ацәара адеменциа ашәарҭара ишадҳәалоу."
+  - "Ацәара аԥсахрақәа адеменциа алагамҭатә дырганы иҟалар ҟалоит, убри аҟынтә иуадаҩуп ахыҵхырҭеи аҵыхәтәеи реилалкаара."
+  - "Ацәара ахшыл бета-амилоид аҟынтә арыцқьара иацхраауеит ҳәа аҭҵаарақәа ҵакы змоуп, аха макьана иҵаулаӡам, урҭ реиҳарак аҳәынаԥқәа рҿы имҩаԥган."
+  - "Ацәарахьтәи апноэ лассы иуԥылоит, ихәшәтәуеит, аҭҵаарақәа рҿгьы адеменциа иадҳәалоуп; абыржьаӷь ӷәӷәеи амширала ацәакра ӷәӷәеи аҳаким изырбара иаԥсоуп."
+  - "Ахаан аҳаким иабжьгарада ацәаратә хәшәқәа ма ацхыраагьықәа рыҭара уалагар, уаҟәыҵыр, урыԥсахыр ҟалаӡом."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Иахылҿиаауама ацәара уадаҩра Альцгеимер ихьз?"
+    a: "Уи макьана шьақәырӷәӷәаӡам. Шьоукы аҭҵаарақәа ацәара маҷра адеменциа ашәарҭара ишадҳәалоу аадырԥшит, аха адеменциа хаҭалагьы ацәара аԥырхага аиҭоит, лассы адиагноз ҟаҵара шықәсы рацәала иаԥхьа. 2024 шықәсаз Lancet акомиссиа ишаӡбаз ала, арҭ ахыҵхырҭақәа еиҿаргыларц макьана изанамхоит, убри аҟынтә ацәара аԥсахлатәи ашәарҭаратә факторқәа ирыланамҵакит."
+  - q: "Шаҟа сааҭ ицәазар акәзеи ақәра инақәызлаз ауаа?"
+    a: "National Institute on Aging ишазгәанаҭо ала, ақәра инақәызлаз ауаа даҽа қәрак змоу адуцәа реиԥш ацәара рҭахуп, уахык 7–9 сааҭ. Ақәра инақәызлаз ауаа реиҳарак аԥхьа ишыҟаз аасҭа еиҳа ишеицырхуеит, иаагьыҿыц игылоит, уи лассы иҟало хьӡу."
+  - q: "Иахылҿиаауазеи адеменциа змау аӡәы амширала ацәареи уахынла аҿыцгылареи?"
+    a: "Адеменциа ацәеижь абиологиатә сааҭқәа ирԥырхагахар алшоит, убри аҟынтә ацәареи аҿыцгылареи раамҭа еилаҩоит. Убасгьы агәаҟра, ахьаа, амлакра ма ахәшәқәа ргәамбзиарақәа ахаҭа ҵакы ду рымазар ҟалоит. Амш ахырҟьареи, аҽныррала аҽыҭбаареи, ахәылбжыхьтәи аҭынчратә ҵасқәеи ацхыраара рыҭар алшоит. Аҳаким ихәшәтәуа агәабзиаратә мзызқәа ааирт алшоит."
+  - q: "Исыҭалар ҟалома ацәаратә цхыраагьы сзыхылаԥшуа аӡәы?"
+    a: "Аԥхьа аҳаким диацәажәа, рецептда ирҭиуа ахәшәқәагьы уахь иналаҵаны. National Institute on Aging ишазгәанаҭо ала, шьоукы ацәаратә хәшәқәа Альцгеимер ихьз змау ауаа рҿы ахырххара, акаҳареи ахшылеилаҩреи ашәарҭара иазырҳазар ҟалоит."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Ацәареи ахшыл агәабзиареи аимадара бзиа шрымоу еилкаоуп, аха уи шеимадоу макьана ииашаҵәҟьаны иҭырҵаауеит. Шьоукы аҭҵаарақәа ацәара маҷра адеменциа аҿиара ашәарҭара ишадҳәалоу аадырԥшит. Адеменциагьы хаҭала лассы ацәара аԥырхага аиҭоит. Ари адаҟьа иаҳәоит аҭҵаарақәа ирдырбои изырмырбои, ацәаразы ицхыраауа аҵасқәа аанарԥшуеит, убасгьы адеменциа змау ауаа рҿы лассы иуԥыло ацәаратә уадаҩрақәа ирылацәажәоит. Арахьтәи аматериал ацәаратә хәшәқәа ирызку абжьгарақәа рыҭара иазкуӡом; убри аҩызцәа атемақәа аҳаким иҿаԥхьа иқәыргылатәуп.
 
-## Is poor sleep linked with dementia?
+## Иадҳәалоума ацәара уадаҩреи адеменциеи?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Аамҭа рацәала имҩаԥгаз шьоукы аҭҵаарақәа ацәара маҷра адеменциа ашәарҭара ишадҳәалоу аадырԥшит, аха аҭҵаарақәа макьана иҵаулаӡам.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Британиа Ду 25 шықәса ицоз аҭҵаара.** Аҭҵааҩцәа 8,000-ҩык раҟара адуцәа рышьҭашәарыцан [Whitehall II аҭҵаара](https://www.nature.com/articles/s41467-021-22354-2) аҿы. 50 ма 60 шықәса рыхыҵуаз, ф-сааҭк ма уи аасҭа еиҵаны изцәоз ауаа рҿы анаҩс адеменциа аҿиара ашәарҭара бжь-сааҭ изцәоз аасҭа еиҳауп ҳәа аанарԥшит. 50, 60, 70 шықәса рыхыҵуаз ф-сааҭк ма уи аасҭа еиҵаны изцәоз ауаа рҿы, еснагь бжь-сааҭ изцәоз раасҭа ари ашәарҭара 30% раҟара еиҳауп. Ари ахылаԥшратә ҭҵааран, убри аҟынтә иаанарԥшыз аимадара ауп, ахылҿиаақәа ракәӡам.
+- **Lancet акомиссиа агәаанагара.** [2024 шықәсаз Lancet акомиссиа](https://doi.org/10.1016/S0140-6736(24)01296-0) ацәара 14 аԥсахлатәи ашәарҭаратә факторқәа рсиа иаламҵакит. Уи ишаӡбаз ала, ахыҵхырҭақәа макьана иҵаулаӡам. Зыхҟьо акакәны иаанарԥшуеит «аимадара ҿакны»: адеменциа иахылҿиаауа ахшыл аԥсахрақәа адиагноз ҟаҵара шықәсы рацәала иаԥхьа иалагоит, уигьы ацәара аԥырхага аиҭар алшоит. Дуӡӡа аҭҵаарак аҿы, раԥхьатәи хә-шықәсаз ахылаԥшра иахырҟьаны ахәшьара анирҭа, ацәара рацәеи адеменциеи реимадара ыӡит.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Убри аҟынтә, еилаҳауа уахык-ҩбак ацәара маҷхар агәҭынчымра ҟалаӡом. Аха еснагьтәи, ибзиоу ацәара иашьҭазаара иаԥсоуп, избанзар уи уажәгьы агәырӷьара, агәазыҳәара, ашәарҭадара аиӷьтәра иацхраауеит.
 
-## What is the "brain-clearing" sleep research?
+## Иаанагозеи ахшыл «арыцқьара» иазкыз аҭҵаарақәа?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Ишәыԥхьазар ҟалоит ацәара ахшыл «ирыцқьоит» ҳәа. Уи агәаанагара ииашоу аҭҵаарақәа ирхылҿиааит, аха макьана иҵаулаӡам.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Аҳәынаԥқәа рҿы.** 2013 шықәсаз [NIH ишаанарԥшыз](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) аҭҵаара иаанарԥшит аҳәынаԥқәа аницәоз ахшылақәра рклеткақәа рыбжьара аҭыԥ 60% раҟара ишазхаз. Аҭҵааҩцәа глимфатикатә система ҳәа изышьҭоу асистем ала ахшыл аҿы аӡахәа еиҳа иласны ицо иалагеит. Бета-амилоид, Альцгеимер ихьз иадҳәалоу абелок, ицәоз аҳәынаԥқәа рахшыл аҟынтә еиҳа иласны ицәцан.
+- **Ауаа рҿы.** 2018 шықәсаз [маҷӡа имҩаԥгаз аҭҵаара](https://www.pnas.org/doi/10.1073/pnas.1721694115) аҿы 22 инаркны 72 шықәса зхыҵуаз 20-ҩык агәабзиара бзиа змоу адуцәа рхшыл аскан ҟарҵеит ацәара бзиа ашьҭахьи ацәарада уахык ашьҭахьи. Ацәарада уахык ашьҭахь, агәалашәаразы хадароу арегион гиппокамп инадыркны, бета-амилоид аскан иаҳнарбо асигнал 5% раҟара иазхеит. Аавторцәа ари раԥхьатәи дырганы иахәаԥшит. Урҭ ирзеилкааӡацыз аԥсшьара ашьҭахь ари аԥсахра ыӡуама, мамзаргьы уи еиҳа ипасуа арыцқьара акәу, ма еиҳа бета-амилоид аҿиара акәу.
+- **Ҩ-ганкгьы иҟоуп.** Lancet акомиссиа ишазгәанаҭо ала, амилоид еизҳара хаҭалагьы ақәра инақәызлаз ауаа рҿы ацәара аԥырхага аиҭар алшоит.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Арҭ аҭҵаарақәа ирҳәоит избан аҭҵааҩцәа ацәара аҭҵаара зыхьыԥшу. Аха урҭ иаадырԥшуам еиӷьу ацәара Альцгеимер ихьз аԥырҟәҟәаара ишацхраауа.
 
-## What sleep habits may help?
+## Иарбан цәаратә ҵасқәоу ицхыраар зылшо?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) ишазгәанаҭо ала, ақәра инақәызлаз ауаа даҽа қәрак змоу адуцәа реиԥш уахык 7–9 сааҭ ацәара рҭахуп. Уи аабжьгарақәа ирылоуп:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Еснагьтәи аграфик шәымазарц.** Есымша, убри аналсгьы аԥсшьарамшқәа раан, еиԥшу аамҭазы ацәара шәалаго, шәгьыҿыцгыло.
+- **Ацәарахь аҽазыҟаҵара ҵасқәа шәырҿиа.** Ацәара шәаламҵацыԥхьаза шәаԥхьа, агәаҭынчырҭатә аура шәаӡырҩ, мамзаргьы аӡы ԥшӡа шәыӡәӡәа.
+- **Ацәарҭа ҭыԥ бзианы еиқәыршәа,** еиҳа ишоураӡамкәа, иагьаӡӡамкәа.
+- **Амш анҵәамҭаз кофеин злоу афатәқәа маҷтәлатәуп.** Аҟәа, ачаи, агаз змоу аӡқәа, ашоколад ацәара шәырԥырхагахар алшоит.
+- **Аалкоголь ахархәара шәаҟәыҵла,** маҷк анаҩсгьы, NIA ишабжьанаго ала.
+- **Ацәара шәаламҵацыԥхьаза ҩ-сааҭк-х-сааҭк раԥхьа фатә ду шәымфалан,** уахынлагьы ӡы рацәа шәымжәлан.
+- **Еснагь аспортивтә еиҭаҵрақәа шәаҿыз, аха ацәара 3 сааҭ шагу шәымҩаԥыргон.** Шәахәаԥш ҳәа ҳара ҳ-[аспортивтә еиҭаҵрақәа рзы ахҳәаа](/brain-health/exercise/).
+- **Ацәарҭаҿы аекранқәа рхархәара маҷтәлатәуп.** NIA ишабжьанаго ала, уа телевизор шәымхәаԥшлан, акомпьютер, ателефон, апланшет шәыхымхархәлан.
+- **Ахәылбжыхь мамзаргьы амш анҵәамҭаз ацәакра шәацәцар алшар.**
 
-## Sleep problems in dementia
+## Адеменциа змау ауаа рҿы ацәара апроблемақәа
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Адеменциа змау ауаа рҿы ацәара аԥсахрақәа лассы иуԥылоит. [NIA иаанарԥшуеит](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) рацәаӡаны ма маҷӡаны ацәара, уахынла лассы-лассы аҿыцгылара, амширала ацәакра. Уи убасгьы ахәылбжыхьтәи аҭынчымра (sundowning) аанарԥшуеит: амш ахырҟьацыԥхьаза иалаго ма иӷәӷәахо аҭынчымра, агәҭынчымра, ахшылеилаҩра.
 
-Caregiver tips from the NIA include:
+Зхылаԥшра шәаҿоу ауаа рхылаԥшцәа рзы NIA иҟанаҵо абжьгарақәа ирылоуп:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Амш алашареи аиҭаҵреи аагьыҿыц шәыхы иашәырхәа.** Амширала амҩахь шәыцәца, мамзаргьы аԥенџьыр аҿы шәтәа, убасгьы аӡәы есымша иҽнирҭбааларц шәицхраа. Илашоу алашара ацәеижь абиологиатә сааҭқәа ргәыҵхаара иацхраар ауеит.
+2. **Еиҳа ӷәӷәала иҟаҵатәу аусқәа шамаҭла шәазгәаҭала.** Шамаҭла аӡы аӡәӡәара, мамзаргьы амш агәҭаны афатә ду афара шәаҽазышәшәа.
+3. **Амширатә цәакра кьаҿны, аагьыҿыц шәымазарц.** Амш анҵәамҭаз ацәакра маҷтәлатәуп.
+4. **Ахәылбжыхь ҭынчратә ҭагылазаашьа шәаԥҵа.** Алашара шәырласы, абжьы шәырҵәца, убасгьы аӡәы бзиа ирбозар агәаҭынчырҭатә аура шәыргала. Ҳара ҳ-[хәылбжыхьтәи аҭынчымра иазкыз ахҳәаа](/caregiving/late-day-restlessness/) аҿы еиҳа ирацәаны аидеақәа ыҟоуп.
+5. **Еснагьтәи ацәаратә ҵасқәа шәхьчала.** Есыуах еиԥшу аамҭазы шәа бзиала аԥхьара NIA иаанарԥшо аҿырԥштәқәа иреиуоуп. [Еснагьтәи есымшатәи аграфик](/activities/daily-routine/) ацхыраара ду ҟанаҵоит.
+6. **Акофеини аалкоголи маҷтәлатәуп.**
+7. **Уахынлатәи аҵәцалашарақәа шәрыхәаԥш** ацәарҭаҿы, акоридор аҿы, аӡәӡәарҭаҿы.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Уахынла аҿыцгылара аан, NIA [аҩны ашәарҭадара иазкыз абжьгарақәа](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) рҿы иаанарԥшуеит уахынлатәи аҵәцалашарақәа ма алашара аавтоматтә датчикқәа, аӡәӡәарҭаҿы аанкыларҭақәа, ашьхампақәа рыкәаԥқәа рҿы илашоу алентақәа, убасгьы ахәшәқәа ааркны аркыра.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Ахәылбжыхь кьаҿу, ҭынчу ахҭыс шәара шәҩыџьагьы аҭынчра шәазааргар алшоит. Шәаҽазышәшәа апауза [Calm Breathing](/games/calm-breathing/) кьаҿ, мамзаргьы маҷк [Conversation Cards](/games/conversation-cards/). Ацәара иазааигәаны агәазыҳәара ӷәӷәа зҭо аусқәа шәацәца, аӡәы ибашаз иҵахит ҳәа шәбозар шәаҟәыҵла.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Еилаҳауа ацәара ахылаԥшцәагьы аԥсыбаара рнаҭоит. Ҳара ҳ-[ахылаԥшҩы ихы ахылаԥшра иазкыз ахҳәаа](/caregiving/caregiver-self-care/) аҿы аԥсшьареи ацхыраареи раиура амҩақәа аарԥшуп.
 
-## What about sleep apnea?
+## Иаҳҳәар ҳалшозеи ацәарахьтәи апноэ иазкны?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Ацәарахьтәи апноэ ацәара аан аԥсышьҭыхра кьаҿны аанкылара ахылҿиаауеит, лассы уахык иалагӡаны рацәажәаны. NIA ишазгәанаҭо ала, уи ихәшәтәымзар, ашьақәыӷәӷәара ӷәӷәа, инсульт, мамзаргьы агәалашәара аӡра реиԥш иҟоу ауадаҩрақәа рахь икнагар алшоит. Адыргақәа ирылоуп абыржьаӷь ӷәӷәеи амширала ацәакра ӷәӷәеи, ауаа рацәагьы уи шрымау рхаҭагьы ирдыруам. Lancet акомиссиа иаанарԥшуеит 11 аҭҵаарақәа ргәаҭара, уа ацәарахьтәи апноэ змаз ауаа рҿы адеменциа аҿиара ашәарҭара 43% раҟара еиҳаун. Аха арҭ аҭҵаарақәа реиҳарак рҿы ауаҩы икапан хшыҩзышьҭра азнамҭазтәи, аимадара макьана ииашаӡаны еилкааӡам.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Ацәарахьтәи апноэ адиагноз арҭар, ихәшәтәыр ауеит. NIA ишазгәанаҭо ала, CPAP-аппарат еснагь раҟара ацхыраара аҭоит. Шәара ма ишәыхылаԥшуа аӡәы ӷәӷәала абыржьаӷь ицозар, ацәара аан аԥсышьҭыхра аангылозар, мамзаргьы амширала ацәакра ӷәӷәа имоузар, аҳаким шәиацәажәа.
 
-## A note about sleep medicines
+## Ацәаратә хәшәқәа ирызку агәаҭара
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ҳара ацәаратә хәшәқәеи абиологиатә тҟәацқәеи ирызку абжьгарақәа ҟаҳҵомызт. NIA ишазгәанаҭо ала, ацәаратә хәшәқәа аамҭа кьаҿк ацхыраара рыҭар алшоит, аха ацәарамра хәшәтәыгас иамоуӡом. Уи убасгьы иаанарԥшуеит Альцгеимер ихьз змау ауаа рцәаразы ирырҭо шьоукы ахәшәқәа ахырххара, акаҳара, убасгьы ахшылеилаҩра ашәарҭара иазырҳазар шалшо. Аҳаким ма афармацевт диацәажәада ацәаратә хәшәқәа, рецептда ирҭиуагьы уахь иналаҵаны, рыҭара шәаламган, шәаҟәымҵлан, шәгьырмыԥсахлан.
 
-## Talk with a doctor
+## Аҳаким шәиацәажәа
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Аҳаким шәиацәажәа шәара ма ишәыхылаԥшуа аӡәы еснагь аԥсшьаара шагузар, уахынла лассы ацәара уадаҩра имазар, ӷәӷәала абыржьаӷь ицозар, мамзаргьы уахынла аԥсышьҭыхра аангылозар. Адеменциа змау ауаа рҿы ацәара апроблемақәа иацырҵозар, [NIA иаабжьанагоит](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) амедицинатә цхыраара шәашьҭазарц. Аҳаким иҭагарала ахылҿиаақәа ааирт алшоит: ахьаа, даҽа цәаратә уадаҩрак, ачымазара, ма ахәшә агәамбзиарақәа. Ӵыдала иҟалаз ахшылеилаҩра, мамзаргьы уи аҩыза ахшылеилаҩреи ацәара аԥсахра ӷәӷәеи иацырҵозар, иласны аҳаким ихьӡырхратәуп. Шәаԥхьа [аҳаким изырбара аамҭа аншықәу](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ари адаҟьа зегьы ирзеиԥшу информациоуп, аҳакиртә бжьгара акәӡом. Шәахәаԥш ҳәа ҳара ҳ-[медицинатә ҷыдалатәи агәаҭара](/medical-disclaimer/).

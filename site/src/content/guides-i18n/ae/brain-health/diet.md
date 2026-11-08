@@ -1,33 +1,32 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Xᵛarəθa MIND uta Mediterranean: Čiš Ištiš Mraoti"
+seoTitle: "Xᵛarəθa MIND: Čiš Ištiš Mraoti"
+description: "Čiš ištiš paiti xᵛarəθa MIND uta Mediterranean mraoti, uta čišna martiyāi yō manō-našta-vaite jvaiti xᵛarəθəm vahištəm dāiti."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Ištayō vīspāiš aipi xᵛarəθa Mediterranean uta MIND paiti kasu-āzātahe manō-naštahe
+  hanjamayeinti, aẟa nōit hamaiθīm. Yā skənda-paršti paiti xᵛarəθahe MIND thri-sarəda
+  yā bərəjyeite 2023 nōit aipivacahīm vīciθəm paiti manahō aγəm vā aipi dārayaŋhe
+  hištata. Nōit cišca xᵛarəθəm vā baēšazəm manō-naštəm tarō-dāiti. Martiyāi yō
+  manō-uruuaēse jvaiti, xᵛarəθəm uta xšviθəm baonəm vahištəm asti.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Katāro, aẟa nōit vīspe, ištiš paiti nərəbiš zruuane xᵛarəθa Mediterranean uta MIND paiti kasu-āzātahe manō-uruuaēsahe hamjamayeinti."
+  - "Paiti 2023 skənda-paršti paiti 604 mazō-zrvanta martiya, yōi xᵛarəθəm MIND xᵛarən nōit vahištō paiti manahō-paršti vā usnō-vīciθe bvan yaiθya yōi paiti sruiti-xᵛarəθa thri-sarəda."
+  - "Hanjamana National Institute on Aging mraoti ku mānō nōit cistim asti ku xᵛarəθəm cišca vā tarō-xᵛarəθəm Alzheimer paiti-pāiti, uta nōit baēšazəm tarō-dāyeiti."
+  - "Xᵛarəθa pouru-urvarā, zaošąs-urvarā, dāna uta masyā zərədahe drvatātem baireiti uta vohū paiti vərəzō vohū-vaxtahe uta vohū-xšvīθahe."
+  - "Martiyāi yō manō-uruuaēse jvaiti, aŋgušta-xᵛarəθa, tarsu-tasta, rāma-zamanō uta yaoxšti-hvarəti pouru-vahištō asti."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Xᵛarəθa MIND manō-uruuaēsahe paiti-pāyeiti?"
+    a: "Nōit vi-vaocaite. Paša-dātahe ištiš xᵛarəθəm MIND paiti kasu-duzmanahīm hamjamayən, aẟa skənda-paršti yā 2023 bərəjyeite nōit masanəm vīciθəm paiti manahō-paršti vā usnō-vīciθe dāsta. Cituš ca hazaoša bvan uta ham-naptīm apāsyən."
+  - q: "Čiš vīciθō asti antare xᵛarəθəm MIND uta Mediterranean?"
+    a: "Xᵛarəθa Mediterranean pouru-urvarā, zaošąs-urvarā, yavō, masyā uta raogna olive vaocaite, kasu vohu-gauš uta rāθyā. Xᵛarəθa MIND yā ham-dātahe DASH paiti vohū-vaxtəm dāraya, pouru zaranya-urvarā uta zaoša-dāna vaocaite, uta nōit pouru gaom, panīra, raogna uta sūx-xᵛarəθəm xᵛarəiti."
+  - q: "Asti xᵛarəθəm vā baēšazəm yō Alzheimer paiti-pāiti?"
+    a: "Nōit. National Institute on Aging mraoti ku nōit cistim asti ku cišca xᵛarəθəm Alzheimer paiti-pāiti, uta nōit cišca baēšazəm vā vitamin paiti-drvatātem daẟāti. Paiti baēšazahe zaoša parsa para baēšazahe xᵛaranai."
+  - q: "Katāra xᵛarəθa vahišta asti martiyāi yō manō-uruuaēse jvaiti?"
+    a: "Aŋgušta-xᵛarəθa, yaθa sandwich-kərəntā, vīyaxna-kərəntā, zaošō-urvarā vā haptō-urvarā vahišta asti para tijō-xᵛarəθa. Yezi xšaθrahe vā vī-zə̄rəmbayahe duzvārəm asti, narm-xᵛarəθa yaθa aoga-taxta, saoca-dāna vā narma-panīra upama asti. Baēšazəm paiti-parsa yezi xᵛarəte stərəθwa vā tusaiti."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +57,93 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Thwā paiti-pārahe ku xᵛarəθəm "manō-drvātəm" Alzheimer tarō-dāyeiti. Aẟa arš-daxštahe kasu asti. Katāro xᵛarəθa paiti kasu-āzātahe ištiš hamjamayeinti paiti martiya yōi zruuane paša-dayante, aẟa vahišta skənda-paršti nōit vīspō-vīciθəm vīnda. Ayəm paiti-dātahe vi-vaocaite, uta pasca aipi dāiti čiš martiyāi yō manō-uruuaēse jvaiti pouru-vahištō asti: xᵛarəte uta xšviθe baonəm, uta zaošahe han-dārayaŋhe.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Ayəm vīspō-daxštahe asti, nōit baēšazahe sruitiš. Baēšazəm vā xᵛarəθa-frāxšne paiti-parsa para xᵛarəθahe thwōi vā anyahe haurvayeiti. Vīdahe mākam [medical disclaimer](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Čiš asti xᵛarəθa Mediterranean uta MIND?
 
-The National Institute on Aging (NIA) describes them this way
+National Institute on Aging (NIA) aētada mraoti
 ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Xᵛarəθa Mediterranean:** pouru zaošąs-urvarā, urvarā, yavō, dāna, masyā uta zraya-jva, uta raogna olive, kasu vohu-gauš, aoga uta rāθyā.
+- **Xᵛarəθa MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  ham-dāiti xᵛarəθahe Mediterranean uta DASH paiti vohū-vaxtahe. Pouru urvarā,
+  zaranya-urvarā; zaoša-dāna; yavō; dāna; aza-dāna; masyā vīspāiš saptāhīm;
+  uta raogna olive. Kasu vohu-gauš, rāθyā, panīra, raogna uta sūx-xᵛarəθəm.
 
-## Do these diets lower dementia risk?
+## Ete xᵛarəθa manō-uruuaēsahe kasu-āzātem dān?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Vī-sruitiš aipi spənta asti. NIA mraoti ku katāro, aẟa nōit vīspe, paša-dātahe ištiš xᵛarəθa Mediterranean uta MIND paiti kasu-āzātahe manō-uruuaēsahe hamjamayeinti yaθa paiti aoi xᵛarəθa Western yā pouru gauš, raogna uta sūkrəm.
 
-The 2024 Lancet Commission reviewed the research in more detail
+Yā 2024 Lancet Commission ištim sruitihe pouru-frāsa vaoca
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Aēva sruitiš paiti cohort ištiš vohū-xᵛarəθəm paiti 20% kasu-āzātem manō-uruuaēsahe hamjamayən.
+- Masanəm sruitiš paiti thri cohort dāsta ku xᵛarəθa MIND ham-drvatātem daẟāti.
+- Aẟa sruitiš Sweden yā 28,025 madəma-zruvan martiya paiti 20 sarəda paša-dasta nōit kasu-āzātem vīnda paiti aēte xᵛarəθa.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Paša-dātahe ištiš nōit cistim uta aipi-dātem paurvō-daẟāti. Martiyāi yōi aētada xᵛarən anyāi vīciθō dārayeinti, yaθa xšaθra, frā-cisti, aspa-vərəza uta baēšaza-handravān. Commission vaoca ku nōit baonəm cistim asti ku xᵛarəθa vahišta manō-uruuaēsem tarō-dāiti, aẟa pouru zaošąs-urvarā uta urvarā drvatātahe vahištō asti paiti vohū-vaxtəm uta vohū-xšvīθəm. Nōit xᵛarəθəm aoi [14 risk factors](/brain-health/risk-factors/) dāsta.
 
-## What did the 2023 MIND diet trial find?
+## Čiš yā 2023 MIND xᵛarəθahe skənda-paršti vī-vaoca?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
+Vahišta paršti yā bərəjyeite paiti New England Journal of Medicine paiti 2023
 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Kō:** 604 mazō-zrvanta martiya 65 sarədahe paiti Chicago uta Boston, a-duzmanahīm, yōi friya manō-uruuaēse dārayən, mazō-tanu, uta nōit drvanta xᵛarəθəm dārayən.
+- **Čiš:** thri-sarəda, nəmō xᵛarəθəm MIND xᵛarən uta nəmō haozan xᵛarəθəm. Vīspe 250 kasu calories xᵛarən uta baēšazahe xᵛarəθa-frāxšne han-daẟān.
+- **Aipi-dāta:** manahō-paršti kasu vahištō bvat paiti **duva** handamana. Vīciθō nōit masanō bvat uta **nōit statistike bərəjya**. Usnō-vīciθe ham-daxšta bvat paiti duva handamana.
+- **Tanu-drājah:** duva handamana yaθa 5 kg (11 pounds) tanu apāsyən.
 
-### Why might the trial have found no difference?
+### Čiš-vat paršti nōit vīciθəm vīnda?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Ištayō vahištəm daxštəm vaocan. Handamana dārayaŋhe xᵛarəθəm vahištō dāsta, yōi ham-tanu apāsyən. Paiti-paršti manahō vahištō bavainti yaiθya martiya hazd bavaiti. Thri-sarəda kasu asti. Martiyāi pouru European bvan, aẟa aētada nōit aoi vīspe ham-dāyeiti.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Arš-vacah asti: xᵛarəθa MIND nōit tarō-vīnda kasu-calorie xᵛarəθəm thri-sarədahe. Aētada nōit mraoti ku vohū-xᵛarəθəm tusō asti. Mraoti ku nōit cišca xᵛarəθəm manō-uruuaēsem tarō-dāiti.
 
-## What about specific foods and supplements?
+## Čiš paiti vī-daθana xᵛarəθa uta baēšaza?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
+NIA mraoti ku nōit cistim asti ku cišca xᵛarəθəm vā tarō-xᵛarəθəm Alzheimer paiti-pāyeiti. Xšviθa-urvarā uta zard-cūba paiti-parštān, aẟa a-cistim. NIA aipi mraoti ku nōit baēšazəm vā vitamin Alzheimer tarō-dāiti, uta nōit sruitiš dāsta. NIA paurvō-mraoti ku a-cisti xᵛarəθa dāiti duz-drvatātem vā spənta-zrūm, uta baēšazahe duz-dāiti, aẟa baēšazahe zaoša parsa para xᵛarəte
 ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Či-θwa xᵛarəθəm drvatātahe uta rāmahe dārayaŋhe?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Paiti mazō-zruvan martiya, tōxma asti xᵛarəθəm xšnūto, haozan uta vohū, nōit tkaēša-dāiti:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Xᵛarəθəm dāraya paiti zaoša** yaθa Mediterranean: urvarā, zaošąs-urvarā, dāna, yavō, masyā uta raogna olive.
+- **Haozan xᵛarəθəm pāti.** Zaoša uta hvarəti masanō asti paiti mazō-zrvante.
+- **Haθra xᵛara** yaiθya vīndahi. Hanjamana-xᵛarəθa rāmahe asti.
+- **Haθra paka.** Snāyeiti urvarā vā dārayeiti paka-tasta vohū-vərəza asti; vīdahe [household tasks](/activities/household-tasks/). Frā-dāna haozan aipi [reminiscence](/activities/reminiscence/) dāiti.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Mazō-zruvan nōit calories apāsyān para baēšazahe sruiti, uta fasting duz-āzātem baireiti. Vīdahe mākam [fasting guide](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Či-θwa martiyāi yō manō-uruuaēse jvaiti vohū xᵛarəte upama daẟāhi?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
+Martiyāi yō manō-uruuaēse jvaiti, xᵛarəte uta xšviθe **baonəm** pouru-vahištō asti. Alzheimer's Association daxštəm dāyeiti ku martiya aipi-marəzaiti xᵛarəti, vā manayeiti ku xᵛasta, vā pouru-vīciθe bavaiti, uta kasu-xᵛarəθa aŋhu-uruuaēsem uta tanu-apāsīm dāiti
 ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Aēte handravān dāiti Alzheimer's Association, NIA uta Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
+1. **Aŋgušta-xᵛarəθa daẟāhi.** Kasu-kərəntā yaθa sandwich-kərəntā, vīyaxna-kərəntā, masyā-kərəntā, zaošō-urvarā vā broccoli, dāyeiti martiyāi xᵛarəti a-tijō.
+2. **Tarsu-tasta paiti mēza dāraya.** Cisti dōiθrahe duzvāra dāiti vī-dāiti xᵛarəθahe paiti tasta. Kasu-taxta tasta paiti tarsu-mīza vohū asti. Tarō-dāiti pouru-raŋha tasta.
+3. **Aēva vā duva xᵛarəθa daẟāhi.** Pouru-tasta duzvāra bavaiti.
+4. **Rāma-zamanō dāraya.** TV vī-tācaya, mēza rāma dāraya, uta zruuane dāẟa. NIA mraoti ku nōit arəθa vā spənti.
+5. **Kasu-xᵛarəθa pouru-vīspāiš daẟāhi.** NIA mraoti ku kasu uta pouru-zruvan xᵛarəθa vohū asti yezi martiya nōit baonəm xᵛarəiti
    ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+6. **Xšviθe upama daẟāhi.** Kasu-kāsa āpō daẟāhi zruuane, uta pouru-āp xᵛarəθa yaθa zaošąs-urvarā, sūra, xšvīra uta smoothie. Yezi martiya nōit āpəm zaošati, NIA mraoti ku juice, zaoša-āp, sūra, vā coffee nōit caffeine daẟāhi.
+7. **Garmō-dātem paša-daya.** Martiya aipi nōit paiti-dāyeiti ku xᵛarəθəm vā xšvīθəm pouru-garma asti.
+8. **Kāsa uta xᵛarəθa-dānam vərəzayeiti.** Tasta, spūna mazō-dāraya, uta kāsa paiti-pāyeiti xᵛarəti vohū dān. Nōit zaoša paiti rāma-tasta dāraya.
+9. **Narma-xᵛarəθa daẟāhi.** Kərənta xᵛarəθəm kasu vā narma daẟāhi. Yezi martiya tusaiti vā stərəθwa bavaiti, baēšazāi vaoca.
+10. **Nōit spənta-xᵛarəθa daẟāhi.** NIA daxštəm dāyeiti ku hvarəti tarō-bavaiti paiti pasca-zruvanhe Alzheimer.
 
-### Signs to tell the doctor about
+### Daxshta yā baēšazāi vaocōi
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
+Tanu-apāsīm, tarō-xᵛarəθəm, stərəna vā a-xšaθra daxšta asti ku martiya nōit baonəm xᵛarəiti. Alzheimer's Society mraoti ku danta-duzvāra, manō-stərəna, vərəza-dāta uta baēšaza-vīciθō hvarətem apāsyeinti
 ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
+Daxshta a-āpō NIA vaocaite yaθa huška-zəfa, sarō-vīciθa, garma-zərəd uta manō-vīθəma
 ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Paiti baēšazahe zaoša parsa
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Para mazō-vīciθəm paiti xᵛarəθahe thwōi vā anyahe, baēšazahe vā xᵛarəθa-frāxšne paiti-parsa, pouru-vahištō yezi sugar-duzvāra, hāma-duzvāra, stərəθwa vā tanu-apāsīm dārayahi. Martiyāi yō manō-uruuaēse jvaiti, parsa čvat xᵛarən uta xšvīθən zruuane, uta yezi baēšazəm upama dāyeiti.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Baēšazəm han-dāraya yezi martiya tusaiti, vā hazaoša a-manah, mazō sarō-vīciθa vā spənta-stərəna bavaiti.

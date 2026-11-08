@@ -1,0 +1,798 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lenn a vouezh uhel",
+      "stopReading": "Paouez da lenn",
+      "region": "C'hoari",
+      "restart": "Kregiñ en-dro",
+      "soundOn": "Sonioù dous war enaou",
+      "soundOff": "Sonioù dous lazhet",
+      "done": "Echu evit ar wech-mañ",
+      "feedbackQuestion": "Sikouret en deus hiziv?",
+      "feedbackYes": "Ya",
+      "feedbackNo": "Ket re",
+      "feedbackThanks": "Trugarez da vezañ lavaret deomp."
+    },
+    "tile": {
+      "named": "{name}, kellig {n}",
+      "hidden": "Skeudenn guzhet, kellig {n}",
+      "withState": "{label}, {state}",
+      "matched": "Kenglotet",
+      "selected": "Diuzet",
+      "picture": "Skeudenn",
+      "photoNumber": "Luc'hskeudenn {n}"
+    },
+    "pairs": {
+      "allTogether": "Kavet eo an holl barioù. Gallout a rit c'hoari en-dro pe ober un ehan.",
+      "photoPair": "Ur par luc'hskeudennoù, a-gevret.",
+      "picturePair": "Div skeudenn eus an {name|lower}, a-gevret.",
+      "selected": "{name}. Klaskit e bar bremañ.",
+      "mismatch": "Kemerit hoc'h amzer. Stokit war ur skeudenn evit kenderc'hel.",
+      "mismatchNamed": "{a} ha {b}. Kemerit hoc'h amzer. Stokit war ur skeudenn evit kenderc'hel."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Stokit war ur skeudenn, ha goude war an hini a glot ganti.",
+      "guidanceHidden": "Stokit war ziv gellig evit o zreiñ. Klaskit div heñvel.",
+      "restart": "Skeudennoù nevez",
+      "sizeLegend": "Pet kellig",
+      "size": {
+        "one": "{n} gellig",
+        "two": "{n} gellig",
+        "few": "{n} c'hellig",
+        "many": "{n} a gelligoù",
+        "other": "{n} kellig"
+      },
+      "viewLegend": "Penaos c'hoari",
+      "viewShowing": "Skeudennoù war wel",
+      "viewHidden": "Skeudennoù kuzhet",
+      "playAgain": "C'hoari en-dro gant skeudennoù nevez",
+      "talk": "Kaozeal diwar-benn ar skeudennoù asambles"
+    },
+    "choose": {
+      "countLegend": "Pet skeudenn",
+      "count": "{n} da zibab",
+      "thatOne": "An {name|lower} eo an hini-se. Kemerit hoc'h amzer."
+    },
+    "findTheSame": {
+      "guidance": "Sellit ouzh ar skeudenn e laez. Stokit war an hevelep hini dindan.",
+      "yes": "Ya, an hevelep {name|lower}.",
+      "next": "Skeudenn da-heul"
+    },
+    "shadowMatch": {
+      "guidance": "Sellit ouzh ar skeud e laez. Stokit war ar skeudenn a ra ar skeud-se.",
+      "yes": "Ya, an {name|lower} a ra ar skeud-se.",
+      "next": "Skeud da-heul",
+      "shadowAlt": "Ur skeud da genglotañ",
+      "foundAlt": "Skeud an {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Stokit war ur skeudenn, ha goude war ar baner a zere ganti.",
+      "restart": "Skeudennoù nevez",
+      "themeLegend": "Tem",
+      "selected": "{name}. Stokit bremañ war ar baner ma ya e-barzh.",
+      "pickFirst": "Stokit war ur skeudenn da gentañ, ha goude war ur baner.",
+      "hint": "Gallout a rafe an {name|lower} mont e « {basket} ». Stokit war ar baner-se evit he lakaat e-barzh.",
+      "placed": "Emañ an {name|lower} e « {basket} ».",
+      "sorted": "Rummet eo pep tra. Sellit ouzh ar paneroù asambles, pe esaeit un tem all.",
+      "basket": {
+        "one": "Paner {basket}, {count} skeudenn e-barzh",
+        "two": "Paner {basket}, {count} skeudenn e-barzh",
+        "few": "Paner {basket}, {count} skeudenn e-barzh",
+        "many": "Paner {basket}, {count} a skeudennoù e-barzh",
+        "other": "Paner {basket}, {count} skeudenn e-barzh"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Stokit war un tamm, ha goude war unan all. Kemmañ a reont plas.",
+      "restart": "Meskañ en-dro",
+      "pictureLegend": "Skeudenn",
+      "pictures": {
+        "sailboat": "Bag-oueli",
+        "house": "Ti",
+        "balloon": "Balonenn",
+        "sunflower": "Tro-heol",
+        "lighthouse": "Tour-tan",
+        "cat": "Kazh"
+      },
+      "sizeLegend": "Tammoù",
+      "size": {
+        "one": "{n} tamm",
+        "two": "{n} damm",
+        "few": "{n} zamm",
+        "many": "{n} a dammoù",
+        "other": "{n} tamm"
+      },
+      "pickedUp": "Kemeret eo an tamm. Stokit bremañ el lec'h ma rank mont.",
+      "whole": "A-bezh emañ an {name|lower} en-dro. Dibabit ur skeudenn all pa garoc'h.",
+      "swapped": {
+        "one": "Kemmet eo ar plas. {correct} diwar {total} tamm a zo en e blas.",
+        "two": "Kemmet eo ar plas. {correct} diwar {total} damm a zo en o flas.",
+        "few": "Kemmet eo ar plas. {correct} diwar {total} zamm a zo en o flas.",
+        "many": "Kemmet eo ar plas. {correct} diwar {total} a dammoù a zo en o flas.",
+        "other": "Kemmet eo ar plas. {correct} diwar {total} tamm a zo en o flas."
+      },
+      "guideAlt": "Ar skeudenn a-bezh: {name}",
+      "guideText": "Sed aze penaos e tiskouez ar skeudenn pa vez a-bezh.",
+      "piece": "Tamm e {place}",
+      "pieceInPlace": ", en e blas reizh",
+      "piecePickedUp": ", kemeret",
+      "places4": [
+        "krec'h a-gleiz",
+        "krec'h a-zehoù",
+        "traoñ a-gleiz",
+        "traoñ a-zehoù"
+      ],
+      "places9": [
+        "krec'h a-gleiz",
+        "krec'h e-kreiz",
+        "krec'h a-zehoù",
+        "kreiz a-gleiz",
+        "e-kreiz",
+        "kreiz a-zehoù",
+        "traoñ a-gleiz",
+        "traoñ e-kreiz",
+        "traoñ a-zehoù"
+      ],
+      "done": "A-bezh emañ ar skeudenn en-dro. Gallout a rit c'hoari en-dro pe ober un ehan.",
+      "playAgain": "Meskañ en-dro"
+    },
+    "finishTheSaying": {
+      "guidance": "Lennit al lavarenn asambles, ha goude stokit war ar ger a echu anezhi.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ya, « {start} {end}. »",
+      "otherEnding": "Mat eo « {word} » ivez. Al lavarenn voas a echu gant « {end} ».",
+      "revealed": "Al lavarenn eo « {start} {end}. »",
+      "choicesLabel": "Dibabit ar ger diwezhañ",
+      "show": "Diskouez an dibenn",
+      "talk": "Kaozeal diwar-benn kement-se: ",
+      "next": "Lavarenn da-heul"
+    },
+    "wordSearch": {
+      "guidance": "Mont a ra ar gerioù a-blaen pe a-serzh. Stokit war lizherenn gentañ ur ger, ha goude war e lizherenn ziwezhañ.",
+      "restart": "C'hoari gerioù nevez",
+      "themeLegend": "Tem",
+      "sizeLegend": "Ment ar gael",
+      "size": {
+        "one": "{n} war {n} ({words} ger)",
+        "two": "{n} war {n} ({words} c'her)",
+        "few": "{n} war {n} ({words} ger)",
+        "many": "{n} war {n} ({words} a c'herioù)",
+        "other": "{n} war {n} ({words} ger)"
+      },
+      "print": "Moullañ ar c'hoari-mañ",
+      "letterChosen": "Diuzet eo al lizherenn {letter}. Stokit bremañ war lizherenn ziwezhañ ar ger.",
+      "found": "{word} kavet.",
+      "foundAll": "{word} kavet. Kavet eo an holl c'herioù. Gallout a rit c'hoari en-dro pe ober un ehan.",
+      "tryAgain": "Kemerit hoc'h amzer. Stokit war lizherenn gentañ ur ger, ha goude war e lizherenn ziwezhañ.",
+      "gridLabel": "Kael lizherennoù, {n} linenn a {n} lizherenn. Implijit ar biroù evit mont a lizherenn da lizherenn.",
+      "cell": "{letter}, linenn {row}, bann {col}",
+      "cellFound": ", lodenn eus ur ger kavet",
+      "wordsHeading": "Gerioù da gavout",
+      "wordFound": " (kavet)",
+      "sheetTitle": "Klask gerioù: {theme}",
+      "sheetNote": "Mont a ra ar gerioù a-blaen pe a-serzh.",
+      "unavailable": "Ne zere ket ur gael lizherennoù ouzh ar yezh-mañ, setu ne vez ket kinniget ar c'hlask gerioù amañ. Gallout a rit c'hoari gant ar skeudennoù en o flas."
+    },
+    "coloring": {
+      "guidance": "Stokit war ul liv, ha goude war un tamm eus ar skeudenn.",
+      "restart": "Dilemel al livioù",
+      "cleared": "Goulo eo ar bajenn en-dro.",
+      "pageLegend": "Pajenn",
+      "print": "Moullañ ar bajenn-mañ",
+      "colorsLabel": "Livioù",
+      "paintChosen": "{paint} diuzet.",
+      "painted": "Emañ {part} e {paint|lower} bremañ.",
+      "artLabel": "{page}, {count} lodenn da livañ",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, diliv",
+      "paints": {
+        "red": "Ruz",
+        "orange": "Orañjez",
+        "yellow": "Melen",
+        "green": "Gwer",
+        "blue": "Glas",
+        "purple": "Mouk",
+        "pink": "Roz",
+        "brown": "Gell",
+        "sky-blue": "Glas-oabl",
+        "cream": "Koaven",
+        "gray": "Louet",
+        "white": "Gwenn"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lennit ar gartenn a vouezh uhel. N'eus respont reizh resis ebet.",
+      "position": "Kartenn {n} diwar {total}",
+      "themeLegend": "Tem",
+      "next": "Kartenn da-heul",
+      "previous": "Kartenn gent",
+      "print": "Moullañ an holl gartennoù",
+      "sheetTitle": "Kartennoù kaozeal"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Krogit en ur zibab ho luc'hskeudennoù.",
+      "guidance": "Stokit war ul luc'hskeudenn, ha goude war an hini a glot ganti.",
+      "restart": "Meskañ anezho en-dro",
+      "intro": "**Dibabit etre 2 ha 6 luc'hskeudenn** diwar an ardivink-mañ. Diskouezet e vezont war ar bajenn-mañ hepken ha ne vezont biken kaset na miret e lec'h ebet.",
+      "choose": "Dibab luc'hskeudennoù",
+      "chooseDifferent": "Dibab luc'hskeudennoù all",
+      "clear": "Dilemel al luc'hskeudennoù",
+      "cleared": "Dilemet eo al luc'hskeudennoù diwar ar bajenn-mañ.",
+      "atLeastTwo": "Dibabit div luc'hskeudenn da nebeutañ mar plij.",
+      "usingFirst": "Oc'h implijout ar c'hentañ {max} luc'hskeudenn.",
+      "skipped": {
+        "one": "Ne oa ket {count} restr ul luc'hskeudenn a c'haller diskouez.",
+        "two": "Ne oa ket {count} restr ul luc'hskeudenn a c'haller diskouez.",
+        "few": "Ne oa ket {count} restr ul luc'hskeudenn a c'haller diskouez.",
+        "many": "Ne oa ket {count} a restroù luc'hskeudennoù a c'haller diskouez.",
+        "other": "Ne oa ket {count} restr ul luc'hskeudenn a c'haller diskouez."
+      },
+      "playAgain": "C'hoari en-dro gant al luc'hskeudennoù-mañ",
+      "empty": "Amañ e teuio ho luc'hskeudennoù war wel, div wech pep hini."
+    },
+    "pictureBingo": {
+      "guidance": "Moullit ar c'hartennoù da gentañ. Goude-se diskouezit ar galver war ar skramm brasañ a zo ganeoc'h.",
+      "called": {
+        "one": "{name}. {called} skeudenn diwar {total} galvet.",
+        "two": "{name}. {called} skeudenn diwar {total} galvet.",
+        "few": "{name}. {called} skeudenn diwar {total} galvet.",
+        "many": "{name}. {called} a skeudennoù diwar {total} galvet.",
+        "other": "{name}. {called} skeudenn diwar {total} galvet."
+      },
+      "start": "Stokit war « Skeudenn da-heul » evit gervel ar c'hentañ skeudenn.",
+      "restart": "Kregiñ gant ur c'hoari nevez",
+      "squaresLegend": "Karrezioù war bep kartenn",
+      "squares": "{n} c'harrez ({side} war {side})",
+      "cardsLegend": "Pet kartenn da voullañ",
+      "cards": {
+        "one": "{n} gartenn",
+        "two": "{n} gartenn",
+        "few": "{n} c'hartenn",
+        "many": "{n} a gartennoù",
+        "other": "{n} kartenn"
+      },
+      "print": {
+        "one": "Moullañ {n} gartenn vingo",
+        "two": "Moullañ {n} gartenn vingo",
+        "few": "Moullañ {n} c'hartenn vingo",
+        "many": "Moullañ {n} a gartennoù bingo",
+        "other": "Moullañ {n} kartenn vingo"
+      },
+      "ready": "Prest pa viot prest",
+      "next": "Skeudenn da-heul",
+      "allCalled": "Galvet eo bet an holl skeudennoù",
+      "alreadyCalled": "Galvet dija",
+      "sheetTitle": "Bingo dre skeudennoù · kartenn {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Alanit e-barzh pa gresk ar c'helc'h, hag er-maez pa vihana. Chom a raio a-sav e-unan goude c'hwec'h alanadenn.",
+      "paceLegend": "Lusk",
+      "paceSlow": "Gorrek (5 eilenn bep tro)",
+      "paceGentle": "Sioul (4 eilenn bep tro)",
+      "ready": "Prest pa gerzhot",
+      "in": "Alanit e-barzh",
+      "hold": "Diskuizhit",
+      "out": "Alanit er-maez",
+      "start": "Kregiñ",
+      "stop": "Paouez",
+      "started": "Kroget eo. Alanit e-barzh pa gresk ar c'helc'h.",
+      "stopped": "Paouezet eo.",
+      "finished": "Graet eo ar c'hwec'h alanadenn c'horrek. Gallout a rit kregiñ en-dro pa gerzhot."
+    }
+  },
+  "pictures": {
+    "teacup": "Koupenn de",
+    "kettle": "Kokomik",
+    "bread": "Torzh vara",
+    "frying-pan": "Paelonad gant ur vi",
+    "cake": "Gwastell benn-bloaz",
+    "sunflower": "Tro-heol",
+    "tulip": "Tulipezenn ruz",
+    "watering-can": "Pod-skuilh",
+    "potted-plant": "Plantenn e pod",
+    "tree": "Gwezenn",
+    "bird": "Boc'hruz war ur skourr",
+    "butterfly": "Balafenn",
+    "dog": "Ki",
+    "cat": "Kazh",
+    "fish": "Pesk aour",
+    "apple": "Aval ruz",
+    "pear": "Perenn",
+    "strawberry": "Sivienn",
+    "banana": "Bananenn",
+    "lemon": "Sitronenn",
+    "cherries": "Kerez",
+    "house": "Ti",
+    "lamp": "Gouleuier taol",
+    "armchair": "Kador-vrec'h",
+    "key": "Alc'hwez kozh",
+    "umbrella": "Disglavier",
+    "sailboat": "Bag-dre-lien",
+    "car": "Karr kozh",
+    "bicycle": "Marc'h-houarn",
+    "balloon": "Balon-aer",
+    "lighthouse": "Tour-tan",
+    "sun": "Heol",
+    "moon": "Loar ha stered",
+    "teapot": "Pod-te",
+    "apple-pie": "Tartezenn avaloù",
+    "honey-jar": "Podad mel",
+    "boiled-egg": "Vi en ur c'houlourd",
+    "toaster": "Grilh-bara",
+    "cheese": "Tamm keuz",
+    "milk-jug": "Pod-laezh",
+    "cupcake": "Gwastell vihan",
+    "orange": "Orañjezenn",
+    "grapes": "Rezin",
+    "watermelon": "Tamm pastekezenn",
+    "pineapple": "Ananazezenn",
+    "peach": "Persegenn",
+    "rose": "Rozenn",
+    "daisies": "Bokedoù-laezh",
+    "mushroom": "Kabell-touseg",
+    "wheelbarrow": "Karrigell",
+    "birdhouse": "Tiig evned",
+    "cactus": "Kaktuz en ur pod",
+    "acorn": "Mezenn",
+    "autumn-leaf": "Delienn diskar-amzer",
+    "rabbit": "Konifl",
+    "duck": "Houad",
+    "hen": "Yar",
+    "sheep": "Dañvad",
+    "owl": "Kaouenn",
+    "ladybird": "Buoc'hig-Doue",
+    "snail": "Maligorn",
+    "frog": "Glesker",
+    "bee": "Gwenanenn",
+    "clock": "Horolaj",
+    "vase-of-flowers": "Bravig bleunioù",
+    "radio": "Skingomzer kozh",
+    "books": "Bern levrioù",
+    "candle": "Koulaouenn",
+    "glasses": "Lunedoù-lenn",
+    "telephone": "Pellgomzer",
+    "ball-of-wool": "Pelotenn gloan",
+    "straw-hat": "Tog-heol",
+    "train": "Tren-aezhenn",
+    "bus": "Karr-boutin",
+    "airplane": "Karr-nij",
+    "suitcase": "Valizenn",
+    "tractor": "Traktour",
+    "rowing-boat": "Bag-roeñvoù",
+    "rainbow": "Kanevedenn",
+    "rain-cloud": "Koumoulenn c'hlav",
+    "snowflake": "Fulenn-erc'h",
+    "kite": "Sarpant-nij",
+    "sunrise": "Sav-heol war an torgennoù"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGHIKLMNOPRSTUVZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frouezh",
+          "words": [
+            "AVAL",
+            "PER",
+            "PRUN",
+            "KEREZ",
+            "MELON",
+            "SIVI",
+            "ORANJ",
+            "FIEZ",
+            "BANAN"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Liorzh",
+          "words": [
+            "ROZ",
+            "TULIP",
+            "HAD",
+            "DOUAR",
+            "GEOT",
+            "GWEZ",
+            "BOD",
+            "DOUR",
+            "LILIZ"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kegin",
+          "words": [
+            "TAZ",
+            "LOA",
+            "BARA",
+            "PLAD",
+            "BOL",
+            "FORN",
+            "AMANN",
+            "LAEZH",
+            "PAELON"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Amzer",
+          "words": [
+            "HEOL",
+            "GLAV",
+            "AVEL",
+            "ARNEV",
+            "MORENN",
+            "TOMM",
+            "YEN",
+            "SKORN",
+            "AMZER"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Loened",
+          "words": [
+            "KAZH",
+            "PESK",
+            "EVN",
+            "LOEN",
+            "DANVAD",
+            "YAR",
+            "HOUAD",
+            "GAVR",
+            "KONIFL"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Er gêr",
+          "words": [
+            "DOR",
+            "KADOR",
+            "LAMP",
+            "GWELE",
+            "KAMBR",
+            "TAOL",
+            "MOGER",
+            "TOENN",
+            "LESTR"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "An holl gartennoù",
+        "food": "Boued",
+        "home": "Er gêr",
+        "outdoors": "Er-maez",
+        "animals": "Loened",
+        "travel": "Mont ha dont",
+        "work": "Labour ha dudioù",
+        "music": "Sonerezh ha plijadur",
+        "seasons": "Ar c'houlzoù-amzer"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Peseurt c'hwezh a blij deoc'h ar muiañ er gegin?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Peseurt gwastell a zibafec'h evit ur gouel?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Kontit din diwar-benn un dartezenn pe un dibenn-pred a blij deoc'h kalz."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Penaos e plij deoc'h evañ ho te pe ho kafe?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Petra a ra ur pred-mintin a-feson hervezoch?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Dastumet hoc'h eus frouezh war ar blantenn dija?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "C'hwek pe sur: petra a blij deoc'h ar muiañ?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Peseurt meuz a laka ac'hanoc'h da soñjal en hañv?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Kontit din diwar-benn un ti hoc'h eus bet plijadur o vevañ ennañ."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Pelec'h e plij deoc'h azezañ evit diskuizhañ?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Petra a blij deoc'h ober e-pad un nozvezh sioul?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Peseurt teñzor a virfec'h en ur voest a-zoare?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Piv a bedfec'h evit evañ ur banne te asambles?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Petra a blij deoc'h ober pa vez glav?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Peseurt bleunioù a blantfec'h en ul liorzh?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Kontit din diwar-benn ur wezenn pe ur park a blij deoc'h."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Petra a blij deoc'h ar muiañ pa vezoc'h el liorzh?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Peseurt liv bleunioù a blij deoc'h ar muiañ?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Hag eñ e plij deoc'h kaout plant er gêr?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Penaos e vefe un devezh heoliet a-zoare hervezoch?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Kontit din diwar-benn ur c'hi hoc'h eus anavezet mat."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kizhier pe chas, pe hini ebet? Petra a blij deoc'h enno?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Peseurt evned a welit pe a glevit er-maez?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Hag eñ oc'h bet o pesketa dija, pe hoc'h eus bet pesked en un dourva?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Peseurt loen kaerañ hoc'h eus gwelet biskoazh?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Kontit din diwar-benn ur c'harr a blije deoc'h."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Gwelloc'h e vefe ganeoc'h tremen un devezh war an aod pe er menezioù?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Pelec'h e karfec'h mont d'ober un droiad?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Ma c'hallfec'h nijal a-us d'ul lec'h bennak, da belec'h ez afec'h?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Kontit din diwar-benn ur veaj a zo chomet soñj mat ganeoc'h."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Peseurt labour hoc'h eus bet plijadur oc'h ober?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Peseurt dudi a c'hallfec'h tremen eurvezhioù gantañ?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Petra a oac'h boas da sevel pe da dresañ gwechall?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Peseurt kuzul a rofec'h d'un den yaouank a grog gant e vicher?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Peseurt sonerezh a laka ac'hanoc'h da skeiñ ho troad gant al lusk?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Petra a ra ur fest a-feson hervezoch?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Piv eo ar c'haner pe ar ganerez a blij deoc'h selaou?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Peseurt film pe abadenn skinwel a garfec'h gwelet en-dro?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Petra a blij deoc'h ar muiañ e-pad an hañv?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Petra a blij deoc'h e-pad an diskar-amzer?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Petra a blij deoc'h ober d'en em dommañ e-pad un nozvezh goañv?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Peseurt sinoù kentañ a ziskouez deoc'h emañ an nevez-amzer o tont?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Erc'h, glav pe heol: petra a gav gwell deoc'h?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Bleunienn en ur pod",
+          "regions": {
+            "sky": "Drekleur",
+            "table": "Taol",
+            "stem": "Garenn",
+            "leaf-left": "Delienn a-gleiz",
+            "leaf-right": "Delienn a-zehou",
+            "petal-1": "Petalenn 1",
+            "petal-2": "Petalenn 2",
+            "petal-3": "Petalenn 3",
+            "petal-4": "Petalenn 4",
+            "petal-5": "Petalenn 5",
+            "petal-6": "Petalenn 6",
+            "petal-7": "Petalenn 7",
+            "petal-8": "Petalenn 8",
+            "center": "Kreiz ar vleunienn",
+            "pot": "Pod",
+            "pot-rim": "Bord ar pod"
+          }
+        },
+        "house": {
+          "name": "Ti",
+          "regions": {
+            "sky": "Oabl",
+            "sun": "Heol",
+            "grass": "Geot",
+            "chimney": "Siminal",
+            "walls": "Mogerioù",
+            "roof": "Toenn",
+            "door": "Dor",
+            "window-left": "Prenestr a-gleiz",
+            "window-right": "Prenestr a-zehou",
+            "path": "Gwenodenn"
+          }
+        },
+        "teacup": {
+          "name": "Koupenn de",
+          "regions": {
+            "background": "Drekleur",
+            "saucer": "Iskell",
+            "handle": "Dornell",
+            "cup": "Koupenn",
+            "band": "Roudenn war ar goupenn",
+            "tea": "Te"
+          }
+        },
+        "butterfly": {
+          "name": "Balafenn",
+          "regions": {
+            "background": "Drekleur",
+            "wing-top-left": "Askell grec'h a-gleiz",
+            "wing-top-right": "Askell grec'h a-zehou",
+            "wing-bottom-left": "Askell draoñ a-gleiz",
+            "wing-bottom-right": "Askell draoñ a-zehou",
+            "spot-left": "Pik a-gleiz",
+            "spot-right": "Pik a-zehou",
+            "body": "Korf"
+          }
+        },
+        "sailboat": {
+          "name": "Bag-dre-lien",
+          "regions": {
+            "sky": "Oabl",
+            "sea": "Mor",
+            "sail-big": "Gouel vras",
+            "sail-small": "Gouel vihan",
+            "mast": "Gwern",
+            "hull": "Bag",
+            "flag": "Banniel"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kegin ha liorzh",
+          "baskets": [
+            "Er gegin",
+            "El liorzh"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frouezh ha loened",
+          "baskets": [
+            "Frouezh",
+            "Loened"
+          ]
+        },
+        "home-travel": {
+          "label": "Ar gêr hag ar beajoù",
+          "baskets": [
+            "Er gêr",
+            "Er-maez"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Dementia le Kaxxamarih Fanka kee Gabâ Taama"
+seoTitle: "Dementia: Kaxxamarih Fanka kee Gabâ Taama"
+description: "Dementia lih yan maray kaxxamarih fanka kee gabâ taamah yaaloobi, massoysiyyah yaaloobi kee taama elle maaqabbataana."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Dementia lih yan kaxxamarih meqe fanka kee gabâ taama kaxxamarih meqe
+  annah yan: leeleh kooli, jaaridat sawwarittek ittat xiisaana kollaaji,
+  bulayti massoysiyya, luqa, salaam kee gaaboyti kardi abbinoysiyya hantidih
+  kaxxamarih kooli buxaysiyya. Qunxixxi haytam taamisan aracal hayisa, faxximtek
+  naharsi buurisiyyat gacba, taamittan waqdi walala, ittal gactan saqatta
+  cuggaaneh heya. Taama gaba kalum meqe, kinnuk faxximtam mayana.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Kaxxamarih meqe haytam doora, wadir leeleh koolih warqat, nummâ bulayta kee jaaridat sawwaritte; bilbil, istikeri hinnay carfe sawwaritte maleh."
+  - "Taamiyyah gersi xisaabat aalluk ittal gactan saqattat aytika: koolitte, luqah cararra, walal. Gaba kalu duma meqe baxus, kinnuk woh calli mayana."
+  - "Duddaan waqdi sabab kah yeceen taama abisa, celta kardi mixigah hinnay xarabatah tan bulayti massoysiyya inna."
+  - "Numuk qimbisiyyat qokol hayisa, tohik lakal wadirra gaca. Qunxixxi buurisiyya ittal qimbisaanam kobox xiqtah tan."
+  - "Taamoomi tii saqattal gaba kaltaam faxximtam mannu, duma kobox kalinam kobox meqe."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Gabâ taama carfeh ma-celtam mannal daabisna?"
+    a: "Nummâ fankah taamah haytam, kaxxamarih yaaloobi kee caddoh yan qadaalat fayxiikisa. Bilbil kee carfe sawwarittek gaba kaxxa leeleh koolih warqat, fooca, bulayta, jaaridat sawwaritte kee caddoh yan kooli buxaysiyyah kardi hayisa. Carfek celta sawwarah tan galat inna nummaak ma-yicina; kaxxa kataysah taamisan innal walala."
+  - q: "Dementia wadirrih aracal gacta waqdi fan fankah meqe taamoomi miyya?"
+    a: "Simbilih meqe taamoomiy ceyna elle tan meqe: kaxxa buurisiyyat kooli fayeysa, qulula luqa carara, fiore kobocik kuubatal hayisa, hinnay fooca cararrat korisa. Qimbisiyya ittal abtaanam faxximtam xiqtah. Atu buurissam wagitaanam kee koolittet walalaanam addat gaciyyah gersi daqaara."
+  - q: "Sawwara ma-xiqa yeenik maca abna?"
+    a: "Ciggiilak cakkum kalisa. Cakkuk gaba kalte taama doora, leeleh kooli fayeysiyya, ittat xiisaana kollaaji hinnay bulayti massoysiyya inna. Gersi maxcoh gactek, kardi kooli dooriyyat qokol faxak aniyo ixxic, taama qimbiseh yan imtiyaana celtam kal, qokol celtaah yaalooba."
+  - q: "Kooli buxaysiyyah sawwaritte kaxxamarih ceyte carfe taamoo?"
+    a: "Kaxxamarih tekkeh tan waqdi ceytam mannu. Kaxxamarih yaaloobi doorisa, burooti, foocah gaabi, mootoritte hinnay barri caalat inna, taama doxisiyya hinnay barte celtam kal, raaxatah hayisa. Ni kooli buxaysiyyah warqitte [kooli buxaysiyyah](/games/coloring/) print abaanam hinnay teebilal buxisaanam xiqtaana."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Fanka kee gabâ taama dementia lih yan maray kaxxamarih qadaalat itti baxaysiyyah caddoh yan gita kah yacee, meqe maxcooca gorrisiyyat tewqem maleh. Alzheimer's Association yescessekkah fankah taama [taama gaba kalu kee sabab aalle](https://www.alz.org/help-support/caregiving/daily-care/art-music) bahtaah, itti baxaysiyyah yaalooba taamiseynah dumaak dementia lih yan numuh tacee. Kaxxa kalu kaxxamarih meqe, qunxixxi kee cakkuk gaba kalte taama aalleenim kinni. Ta warqat caddoh yan fankah taamoomi, mannal massoysaanam kee caalat gersimta waqdi mannal gersaanam yescessa.
 
-## What makes an art activity adult and not childish?
+## Fankah taama kaxxamarih celtaah carfe ma-celtam abtam miyya?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Kaxxamarih fankah taama nummâ haytam, kaxxamarih yaaloobi kee meqe qadaala aalluk taamitaana. Alzheimer's Association fankah taama kaxxamarih caddol daabisaanaah carfeh celta hinnay xayiysiyya celta imimik waasitaanam kah tascasse.
 
-| Feels childish | Feels adult |
+| Carfeh celta | Kaxxamarih celta |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Bilbil, istikeri, qunxa intiiti | Leeleh koolih warqat, fooca, xara fiore |
+| Carfeh kooli buxaysiyyah warqitte | Burootih, foocah gaabi, mootoritte hinnay barri sawwaritte |
+| Kullim buurisak "magaaqo" yaanam | Nummâ walal: "Ta buluul kooli caxâ qari koolih cuggaaneh kobox meqe" |
+| Nafqe aalle wayta gabâ taama | Kataysah salaam kardi, xarabatah massoyse im, hadiyya |
+| Fantaaxaw barteenik celta | Qokol faxiyya: "Ta taamat yooh qokolta?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Ku gari yan numuk fantaaxaw xisaabat haya. Foocah taama kicina num fooca carariyyat ruffu yaanam xiqtah. Kaxxa injineeriyyah taama luk suge num kaxxa kobox le haytam koboxisaanam hinnay qiddaata massoysiyyat ruffu yaam xiqtah. Kaxxa barsey le num kardi abbinoysiyyat ruffu yaam xiqtah.
 
-## Why focus on the process, not the product?
+## Macah taamiyyah gersi xisaabat aalluk gaba-kaluyyal aytikna?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Ittal gactan saqatta kaxxa cuggaane kinniik sabbatah. Alzheimer's Association guide [dabqil abaanam](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) taamiyyat aytika, gaba kaluyyat calli ma-hayina iyya. Saaxissiyyay "buluul calli" le sawwarak mannu. Sedi sawwar ittat xiisiyya kollaajik mannu.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association gersi maxcoh yescessekkah, fankat kaxxa gita le num taama gersimta waqdi xiqtaamal giirisaam xiqtah, amatorke taamiteynay qokole num itti baxaysiyyat qokolaam xiqtah. Numuk fankat gita leeh sugtek, nummaak ixxigek gersi fankah haytam doora, taama ittat gactam kal fantaaxaw celtaah.
 
-## Arts and crafts ideas to try
+## Fanka kee gabâ taamah yaaloobi dooritan
 
-Each idea includes how to make it simpler if it becomes hard.
+Kulli yaalooba caddol kak gersi xiqtaanam kak tascasse.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Leeleh kooli buuriyya.** Leeleh koolih caddoh yan warqat dagan leet sibaah, kaxxa buurisiyyat kooli elle oobisiyyat numuh gacba. Koolitte itti bagul gortaah, cakkuk gaba kalte gaba kalu mayana. *Simbil:* namma kooli calli celta, hinnay duma warqatal leet buuraah leeh xintok ruffu yaana.
+2. **Jaaridat sawwaritte ittat xiisaana.** Jaaridat burooti, alfeen, mootoritte, gari hinnay duma num kicine fantaaxawak sawwaritte duma kobox korisa. Sawwaritte doorak kardi warqatal ittat xiisaanam kah yeceen. *Simbil:* afur sawwar duma korisen kee qasaara yaceen, ittal ittat xiisa.
+3. **Bulayti massoysiyya.** Alzheimer's Foundation of America [bulayta kee caxâ qare massoysiyya](https://alzfdn.org/dementia-activity-gardening/) qunxixxi caalatil massoysaanam kah tascasse. Caddoh yan kuubata kee duma korisak massoowte caxxa hayisa. *Simbil:* qunxa kuubatal tiik tiih caxxa hayisa.
+4. **Xara fioreh kardi.** Bulayta kitaabah afal aytiikisaah tii saftaaxat wadir kardi warqatal ittat xiisa. *Simbil:* atu qasaara hayisa, numuk fiore aytiikisaanam kah yeceen.
+5. **Kaxxamarih kooli buxaysiyyah warqitte.** Caddoh yan gubi kee nummâ sawwaritte le warqitte doora. Ni print abaanam xiqtah tan [kooli buxaysiyyah](/games/coloring/) teebilal buxisaanam xiqtaana, kooli tabak sawwarah gubat qololak buxisaana. *Simbil:* kaxxa araca, qunxa koolitte, kaxxa buurisa haytam.
+6. **Luqa hinnay qulula dara.** Air-dry luqa hinnay qulula dara koboxisa, cararaah massoysa. Caxâ qare luqal aytiikisaanam meqe sawwar yacee. *Simbil:* carariyyi kee koboxisiyyi kaxxa taama kinni. Numuk afal ma-haynam daabisa.
+7. **Kardi abbinoysiyya.** Alzheimer's Association nummâ taamah innal hayisaanaam tascasse: "Kataysah qokol kardi rubnak nanno. Yooh qokolta?" Duma korisen kardi warqat kee qunxa fioreh istikeri meqe.
+8. **Duma sawwaritteh kardi buxa.** Duma sawwaritte, kardiita hinnay tikititte ittal kardi albamal hayisa. Kulli tiit gactan waqdi walala. Ni [duma cuggaanessiyyah warqat](/activities/reminiscence/) dumaak meqe gital walalaanam yescessa.
+9. **Fooca kee cararitteh kardi.** Foocah korik velvet, silk kee bursa kardi warqatal ittat xiisa. Massoysiyyi taama kinni; wadir carariyyi gersi taama. Meqe yaaloobi [simbilih taamoomi](/activities/sensory/) addat yan.
+10. **Caxâ taamah massoysiyya.** Caxâ taama kicine numuh, qunxa caxa silisiyya hinnay haada buxah kooli buurisiyya nummaak ruffu yaam xiqtah. Kaxxa qiddaata kobox kalisaah gari daabisa.
+11. **Muusika luk buuriyya.** Kicine muusika hayisaah koolitte hinnay sawwaritte muusikah ruucal buura. Namma kicine taama ittat gacta. [Muusikah taamoomi](/activities/music/) wagita.
 
-## How do I set up an art session?
+## Fankah taama mannal massoysiyya duddaana?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Duma massoysa.** Numuk seecanik duma kullim kora, massoysaah hayisa. Maqassu gorrisak sugaan waqdi fantaaxaw baytam xiqtah.
+2. **Qunxixxi haya.** Namma hinnay sedi kooli, tii buurisiyya, tii warqat. Kaxxa doora numuk xiqiyya tiggile.
+3. **Xarabata cata.** Pilaastik fooca hinnay duma warqat hayisaah, duura gacaamah giirisiyya mayana.
+4. **Cuggaaneh gaca.** Ku bagul yan numuk cuggaaneh taamita. Taama ittal abtaanama, wagitaanaam celtam mannu.
+5. **Qimbisiyyat qokola.** Alzheimer's Association buurisiyyah qimbisiyya ittal abtaanam faxximtam tascasse. Qimbisaanikkih lakal, kaxxa mari gaba kaluk suga.
+6. **Taamittan waqdi walala.** Koolitte kee cararittet walala, hinnay fanka dumaak gactah tan xaagol bahta. "Toh maca?" iyyaana imtiyaanah esseroora ma-esserina.
+7. **Kaxxa saqatta yaceen.** Taama tii saqattal gaba kaltaam faxximtam mannu.
 
-## How do I adapt art as dementia changes?
+## Dementia gersimta waqdi fanka mannal gersisna?
 
-| Stage | What tends to work | What to adjust |
+| Araca | Meqem | Mannal gersisna |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Naharsi | Darsi, caddoh kooli buxaysiyya, sawwaritteh buxa, kardi abbinoysiyya, sawwarak buurisiyya | Yaaloobi kak doora; ittal gactan saqattat haya |
+| Fanah | Duma korisen kollaaji, leeleh kooli, fiore massoysiyya, kaxxa kooli buxaysiyya | Tii tiih taamita; atu koriyya kee xiisiyya gaba koba |
+| Wadirri | Kaxxa buurisiyyat fayeysa, luqa carara, fooca carara, buurissam wagitaana | Simbilit aytika; gaba caddoh qokol faxek |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS wadirrih aracal taamoomi qunxixxaah simbilih taamoomit aytiktaam tascasse. Gersi num buurisam wagitaanaah koolittet walalaanam addat gaciyyah gersi daqaara. Kulli aracah meqe yaaloobi [kulli aracah taamoomi](/activities/ideas/) addat wagita.
 
-## Safety with art supplies
+## Fankah haytamik nagaynan
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Summe aalle wayta koolitte, markers kee qasaara doora.
+- Maqassu, giid kee kaxxa qasaara kobox kalisa. Koriyya duma gaba koba.
+- Luqa, kooli hinnay qunxa haytam afal ma-hayaanay daabisa.
+- Leeh kuubata kee fioreh kuubata kobox daabisa.
 
-## When should we stop?
+## Manka waqdi daabisna?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Fantaaxaw bayta waqdi hinnay giirisi yemeete waqdi daabisa. Alzheimer's Association fantaaxaw bayta waqdi hinnay giirisi yemeete waqdi taama gersaanam hinnay daabisaanam tascasse. Taama nagaynanal hayisaah raaxatah tan im yaceen. Beera gactaana, hinnay makkiina. Nammaam meqe.
 
-## Display the work, if the person wants
+## Numuk faxek, taama yescessa
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Sawwar firiijil aytiikisaanaam hinnay fanka kardi koboxisaanaam caddoh yan qadaala tascasse. Naharat essera. Gersi mari taama dabal wagitaanam kicina; gersi mari toh ma-faxa.
 
-## Pair art with our games
+## Ni geemitte luk fanka ittat hayisa
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Kooli buurisiyya kaxxa taama tekke ayró, [Kooli buxaysiyya](/games/coloring/) teebilal duur maleh taamitta. [Sawwarah Pazol](/games/picture-puzzle/) sawwar koboxisiyyat gubal yescessa. [Walalah Kardiita](/games/conversation-cards/) sawwarak xaagoh gacta esseroora tacee. Tii saqatta hinnay duma num kah taamite lamma aalle wayta. Ni [print abaanam xiqtaana](/activities/printable/) fankah warqitte print abtaanam xiqtaana.

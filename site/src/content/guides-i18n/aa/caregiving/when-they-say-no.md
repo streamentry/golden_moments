@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Kas-Kallaco Luk Yan Num Qagitto Cinise Yimki"
+seoTitle: "Kas-Kallaco Luk Yan Num Qagitto Cinise Yimki"
+description: "Kas-kallaco luk yan num qagitto ciniseh gibbata sabbata, aakamah aban taamoomi, caddinoonum kee xakkiimih xaqut geytima waktiti."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Kas-kallaco luk yan num maleeyo yoome waqdi, sahhayuk oggolaay sarrah
+  wacyi culus ama aka fantaaxaw kaah hayisa. Ciniyyo fan-faniinik sabbata le:
+  taama gibiduk geytimtam, carok abnissit akah tantaw, dalka, jabu, xala ama
+  caracarak garab-baxo. Cinal maangacinaay macadlisina. Culaalayisa, namma
+  doora kaah hayisa, ama qokol kaak essera. Wakti caddod sissikuk gacta caalat,
+  xagan dhiibi kaxxa bicak sarrah takkem, sissikuk xakkiimih xaqut geytimtam faxximta.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "\"Maleeyo\" cinaay gaba kaak kacan maxco kinni, gibda xaloonu hinna."
+  - "Ciniyyoh sabbata tan: gibidiyya, carok abnisiyya, dalka, dhiiba, manno-way ama caracara."
+  - "Gaba kaak kalah, wadaay sarrah wacyi culus, aka saaqatal ama culaalayise gurral hay."
+  - "Taama abito kaak esserak, qokol kaak essertam baxaabaxsa le afo le."
+  - "Macadlisina, maangacina, massa-massa maabinina. Sissik-maqaaneh kaat mayasaysacina."
+  - "Sissikuk gacta caalat, dhiibiyya ama cusub xarashah sarrah takkem, sissikuk xakkiimil orbisan."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Taamoomik kullum gaba akak kacan mayalla?"
+    a: "Yeey, woo ayro xalayuk. Ittat koboxuuk daffeyan, muuziqa ankacisan ama baaxo tubleeniik xiqtam tekke. Num agar-agarak kulliimtih wacyi waaseek, xakkiimih xaqut iyyi, sabbatah kaxxa rooce-gacsi, jabu ama aka dhiibi elle yan mayalla."
+  - q: "Kulliimik manguk kicnon baaxooya maacinisan?"
+    a: "Qadoh kicnoonu sugeenim dambiik yantuk geytimtam xiqta, kas-kallaco xiqtoota gibdissa waqdi, woo numuk weelo-way elle geytimtam xiqta. Qagittok culaala taama kaah aba, ceelalloh karafitti koboxiyya darat aaxaguk saglaala, ama dareemut bustaan bica tubleeniik aaxaguk daabisa."
+  - q: "Kaah oggolisaamal maangacoo?"
+    a: "Maleey. Kas-kallaco numuk gibdissam kaat mangacisan waqdi, roocak kaxxa cabsi kee gibbat akak tamaate. Maleeyo oggolaay, walal gaca, sarrah aka wacayuk kaah culus ama fantaaxaw dooris."
+  - q: "Caalatih gacaayiti aakamah xakkiimih sissik-gacsi kinni?"
+    a: "Num meesik addat yan waqdi ama sissik dhiiba geytimek 17 lakqoh hayisa. Saaqootak ama ayroorak addat sissikuk gacta kaskas-bayo, bica kaxxa dhiibi ama cusub xarashat geytimtam, sissikuk xakkiimil iyyi."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Kulliim tamxixxige, qagitto ama gexsit kaat culusse, tohik sarrah "Maleeyo" yoome. Ama qagitto meqek tabeeh tablet foocat kak kalisan kee calcal afoh gacta. Taamay roocak cabsi leem kinni, kinnuk manguk geytinta. Ciniyyo kee gibbata fan-faniinik xiqtootu kinni, cina mayan. Woo afoh fan-faniinu aaxaguk geytimaanam sarrah tu akah abtan gurra sin taybulluh xiqta.
 
-## Why does someone with dementia refuse activities?
+## Kas-kallaco luk yan num qagitto maacinisa?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Fan-faniinik sabbata le, woh yaabak xiqe waay yanim takkekkay. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) iyyaanam, ciniyyoh xiqtootu taama abe wayto xiqtam ama abeynah meesitak geytimam takkem xiqta. Ta fan-faniinik xiqta sabbatittek tuut:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Gibiduk geytima.** Qagitto kassiita xiqtoota faxximta, kas-kallaco gibdissam kinni, num foocat duude waynam numut cisaaba le.
+- **Caroh abnissa kinni.** Kaxxa maray kaxxa-marih buxxah bica, caroh afoo kee caroh xiqtah meklit abnaan qagittol aaxagu duddan.
+- **Dalka.** Mangoh yan marih saaqat afoh xiqtootu dagoota. Gubal tuble [assah caroraq wacyi](/caregiving/late-day-restlessness/).
+- **Maysaxxaqayih dhiiba.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) qaddoosam: jabu, xinin wayya, xabuk abalaay ankacisa dhabe waynaanam, baqud-dhab, xala, faqa kee cusub xarashak yamaate dhiiba roocah gibbata akah maata.
+- **Mangoh tan caracara.** Kaxxa TV, mangoh tan marih yaaba ama buxxak koboxi kaxxa kaxxa-garab akah yaake.
+- **Maangaco.** NIA qaddoosam: Alzheimer dhiibik sabbatah gibda taamoomit maangaco, ama taariikaay mara kassisan gurral maangaco roocah xiqtootu kaxxaaxissa.
+- **Roocah daylo.** Kulliimtih wacyi waasaanam roocah dhiibak takkem xiqta, xakkiimih xaqut elle yaabaanam faxximta.
+- **Caxa-kutut wacyi waasaanam.** Kaxxa maray maleeyo iyyam akah oggolam kinni.
 
-## What should I try when they say no?
+## Maleeyo yeenik tu akah maaba?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Maleeyo yaab sahhayuk oggolaay, sarrah baxaabaxsa ab: saaqata, qagitto, culaala gurra ama akah essertan gurra.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Ta saaqatal cinaay cab.** "Meqem, sarrah nakke." Tohik sarrah kaxxa rooce-gacsik maleh aka caalatat gaxa.
+2. **Sarrah wacyi culus.** Alzheimer's Association tascasseemik sarrah ama aka saaqatal wacyi culusan.
+3. **Culaalayisaay daggoysa.** Kulli qagittok tiya qokol. Gaba-sarik tiya qokol. Dago bica, dago doora, bicoosak caddol taturak yabbalan.
+4. **Namma doora kaah hay.** "Haada bica tullu kictaa hinnay muuziqa tankacisu kictaa?" Doorit akah hayteenik doora kaat gactam akah tamxixxige.
+5. **Taama abito kaak esserak, qokol kaak esser.** "Taam koboxiyyat yoo qokoltoo?" ama "Iyya bica kaxxam meqe?" Qokol faxximtam num elle geytintaam kee taamissi kaat abaanam baxaabaxsa le.
+6. **Atu esserak maleh eglisa.** Esserak maleh kaah garabal taama aba. Mangoh yan mari taama eglisek koboxan, eglise waay yaanekkay ittat sugtan waktit geytinta.
+7. **Maysaxxaqah fantaaxaw ama sahhayih taamal gaxa.** Dago gexsit, muuziqa, maaqo, sari bica, ama ittat [sahhayuk fanti-gaca](/games/calm-breathing/) caba. NIA tascasseemik kas-kallaco muuziqat, kitaabal ama gexsiitit gacisaanam xiqtam takke.
+8. **Isih faxa gurral abe kaah oggola.** Qagittok mekla fan-fanik abe kicek, kaat gaxa. Alzheimer's Association fanteenuk caddol tan gurra tascasse.
 
-## What should I say when they get frustrated?
+## Rooca gibbata waqdi tu kaak maaxa?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Sissik-maqaane gaba kaak kelaay, afo qunxoosaay sahhayisa. [Alzheimer's Association agitation gudgud](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) tascasseemik gaba kaak kelaay oggol essera, sahhayu le meqe yaabat gaxa, namma doorik doorit hayisa. Yaaba meqe gurral iyyinam:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Yoo duma, ta qagitto gibda. Cabno."
+- "Atu meqe gurral tanta. Anu kok garabal aniyo."
+- "Aka taamal yoo qokoltu saaqat litoo?"
+- "Aka fantaaxawat shaahi cabnoo?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Tohik sarrah kaxxa xawoh abe kalik qagitto caba. Ni [communication tips](/caregiving/communication-tips/) addat mangoh tan maxcootat geytinta.
 
-## What should I avoid?
+## Tu kak mayasaysacoo?
 
-Some natural reactions tend to make things worse.
+Tenneek yamaate abnissitte caalat mangacissaam takke.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Cadlisiyya ama maangaco.** "Koo, gaba kelaay tiyaaba ab" ama "Kicnitom" iyyam maqaane mayacta.
+- **Esser-esser ama massa-massa.** "Taam taaxige" ama "Maleey, woo tiya kosa" iyyam kaxxa gibbat akah maata.
+- **Koolat haytam.** NIA dacayri abeytiitih tascasseemik kas-kallaco dhiibi kinni, woo num hinna woo abnissak sabbata kinni.
+- **Sissik-baxa ama caddol garab-baxo.** Alzheimer's Association afo qunxoose waynaamak, meesit yubulliyeeniik, caddol baatooyak, caracarak, calcaluk, agag-waynaamak ama cadlisiyyak meesitaanam tascasse.
+- **Rooce-dhabat haytam.** "Koo sabbatah aam bicise" iyyam namma marak rooca waytissa.
+- **Migaqa carit haytam.** "Cina num" ama "Gibda num" iyyam fan-faniin sabbata cawissaay baxsale xalo akah dhabta.
 
-## How can I find out what is behind repeated refusals?
+## Mangoh tan ciniyyoh sabbata mannal garca?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Kulli saaqatal ayroorik tiya ama nammayot warqaqat elle gina. NIA tascasseemik abnissih gacaayiti ginaanamaay dacayri haytam kee xakkiimih mara xalo aaxagu qokla.
 
-Jot down:
+Kutbe:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- ayrok saaqata;
+- kaat culusseenim kee akah essertan gurra;
+- sin garabal sugeem (caracara, daddal-mari, TV);
+- mannal xine, yakme, yacbe kee baqud-dhabat gexe saaqata;
+- cusub xarash ama dhiibi yamaateem.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Kulli gurrak tuut sissikuk caddol yamaate: 4 saaqatak sarrah cinaam, tiya qagittol cinaam, ama TV yaake waqdi cinaam. Family Caregiver Alliance [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) qaddoosam: num mekla madudna, kinnuk ninke abnissa kee sin garab baxaabaxsa abnu duddan.
 
-## When should I talk to a doctor about refusal or frustration?
+## Ciniyyo kee gibbatah caalat xakkiimil mannal yaaban?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Sissikuk, dagal ama dhiibik xiqtootat abnissa gactek xakkiimil yaaba. NIA qaddoosam: sissikuk gacta abnissitte, xagan dhiibi ama cusub xarashak sarrah tekkeemik, sissikuk xakkiimih xaqut orbisan.
 
-Contact their doctor promptly if you notice:
+Taam tubleeniik xakkiimil sissikuk yaaba:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- saaqootak ama ayroorak addat sissik kas-kallaco ama kaxxa gacaayiti;
+- dhiibak xiqtootu, caddol afaaqu, maysaxxaqa aalle waytam ama gexso gibdissam;
+- bica kaxxa dhiibi ama aka xagan xiqtootu;
+- cusub xarashak sarrah abnissih gacaayiti;
+- kulliimtih wacyi waasaanam, rooce-xabiyya ama agag-wayto namma ayroorak dagal tekkeemik;
+- maaqo kee cabti cinam.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association sissikuk yamaate abnissih xakkiimih sakbisiyya tascasse. Family Caregiver Alliance dhiibik sabbatah takkem xiqtaamih sabbatah xakkiimil yaabaanam tascasse. Xakkiimih yaabak maleh xarash maleey yaanaay, cabaay ama baxaabaxsa maabinina.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Num meesik addat yan waqdi ama sissik dhiiba geytimek, 17 lakqoh hayisa. NIA tascasseemik woo num kas-kallaco leem sissikuk qaddoosaanam kinni.
 
-## Is it okay if we do nothing at all?
+## Tu abeek kalah sugnek meqee?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Yeey. Tuut ayroorak addat kulli qagitto dagok sugteenim meqem kinni: ittat daffeyan, gaba ittal haytan, kicnon muuziqa ankacisan, ama daaqatak haada tubleeniik sugtaanam. Toh kallaaku hinna. Ni [guide to playing together](/caregiving/how-to-play-together/) qaddoosem sissikuk cabaay, ama eglise wayto meqe gurra akak takkem kinni.

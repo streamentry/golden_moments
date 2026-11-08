@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Kas bayisso waasisaanam duudan? Xiinisso ittam"
+seoTitle: "Kas bayisso waasimiyya? Xiinisso ittam"
+description: "Lancet Komishiin 2024 kee gulgul xiinisso kas bayisso gabbaaqoytit daggoysiyyah baxxeem, wayteem kee daktar luk yabnam faxximta caagid."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Num kas bayisso waasiselem cakkik ma-xayyoosa. 2024 Lancet Komishiin baaxô
+  bagul kas bayissoh meqe fanti (45% gibdin) 14 gabbaaqoytah sababah lih
+  cindhaanim yeceen, amaa sababoobi korsan duudan waqdit, dhiigih gaba koruk
+  yaniim, ayti kassoowaanam kee sissik miyawoonim cato le. Saynisih xiinissoyli
+  kas xiinissoh tintoobox daggowtam tuybulleem maysax, kas bayisso daggoysiyya
+  meqeeti ma-tascasse. Kulli caalat meqe gurral aban mari mangih kas bayisso
+  luk yanim geytima, kaadu taam numtin maaqiddi hinna.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 Lancet Komishiin baaxô bagul kas bayissoh caalootik 45% cindhaanim korsa duudan 14 gabbaaqoytit lih kalti leem yuskuuden. Taam ummattah kalkalo kinuk, kulli numti cakkik heele gaba hinna."
+  - "Gabbaaqo daggoysiyya iyyaanam inkih yan ummattah garil gabbaaqo daggoysiyya kinni. Numtin inki num kas bayisso akak kalatam duuda iyyaanam ma-tascassa."
+  - "Kaxxa xiinissoyli takkeem FINGER, US POINTER kee SPRINT MIND kas yabooysiyyah tintoobol cindha meqe fanti geyen, takkay immay inki manô garrih porogiram kas bayisso korsa axcuk ma-tascasse."
+  - "Alzheimer biyakah kaxxa gabbaaqoytah aaxigen sabab idaltu kinni, kaadu tet korsa ma-duudan. Fayya le manô gurra luk yaniinim mangi mari kas bayisso luk geytima."
+  - "Mangi addat xiinisen heewenta, dhiigih gaba qidbiyya, ayti qokolitte abituukaa kee sissik-miyawoonim, daktar luk wagsiisiyyah qaxme le, usun kalah tan caafiyatik tan idollal kaxxa cato lennik."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Kas bayisso waasisaanam duudan?"
+    a: "Numtin inki numuh kas bayisso waasisaanam duudaanamaa axcuk tascasse gide mayana. Xiinisso tascasseem tekkeh, dhiigih gaba koruk yan, ayti kassoowaanam kee sigaara qaqiteenim, ummattah addal kas bayissoh fanti daggoysam duuda hido qimbisa waqdi siirisam duuda. Taam kalti gidba kinuk, qahid hinna."
+  - q: "Lancet Komishiin yeceem 45% fanti macah tascassa?"
+    a: "2024 Lancet Komishiin baaxô bagul kas bayissoh caalootik 45% cindhaanim korsa duudan 14 gabbaaqoytit lih kalti leem yuskuuden. Ta kalkalo amaa sababoobi kas bayisso bahha axcuk heeleenimih bagul tanoomik, kutbeh abbiiti gar-kalti inki fanah baaha caagid takkem duudam yuskuuden. Taam ummattah inkittinaane kassissa akke waytek numtin inki numih gabbaaqo ma-kassissa."
+  - q: "Yi idaltu meqe manô garra luk suge koo, macah kas bayisso luk yanim tekke?"
+    a: "Idaltu, genooti kee num gaba kaluuwa waam kas bayissot kaxxa adda le. Lancet Komishiin kutbeh abbiiti ummattah addal gabbaaqo daggoysiyya numtin inki num kas bayisso akak kalatam heela ma-yeceem yuskuuden. Kas bayisso luk yanim num kaxxa garte abeemih tascassit hinna."
+  - q: "65 liggida dabanik lakal kas bayissoh gabbaaqo daggoysiyyah waqdi taturtee?"
+    a: "Lancet Komishiin gabbaaqo daggoysiyya maasaay kaadu waqdi taturtam mayana itta, takkay immay mangi xiinisso manô fanta wagsiisa. Ayti kee inti gabbaaqoytit qidbiyya, sissik miyawoonim kee marâ luk keltaanam idaltut aban heewenta kinni. Sin caafiyatik lih yamqem daktar luk walsita."
+  - q: "Samad qidimitte hido baxsale maaqoobi kas bayisso waasisaanam duudaa?"
+    a: "Inki qidi, maaqo, cato maaqo hido manô garri kas bayisso waasisaanam tascasseem mayana. Sidiica liggidih MIND maaqoh xiinisso kas yabooysiyyagil baxsaale meqe fanti ma-geyne, kaadu fayyissiyyah bayyan computer kas tabsoh porogiramitte xiinissot yembulleh yan meqe fanti leem ma-tuybulle."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,139 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Isin kas bayisso luk yan num qokolak tanton tekkek, hido sin xala luk sugeem tableen tekkek, taam waasisaanam duudak sugteem kee sin bagul gactam waasisaanam duudan caagid kassit akkettoonu waytan. Ta gidba saynisih xiinisso cakkik ittam sorkocobbaxiyyah yabitteh xayyossa. Sissik gaba-kaltu: numtin inki num kas bayisso waasiselem cakkik ma-xayyoosa, takkay immay xiinisso garih yan gabbaaqoytit daggoysan duudaanamaa kee ummattah addal daggooysiyya mangi marat kas bayisso akak waasaanam hido siirisaanam duudam tascasse.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Taam aytikumuy kinuk, daktarih gaba-kaltu hinna. Qaxwol nani [medical disclaimer](/medical-disclaimer/) tankiriyyanam kee sin caafiyat wagsiisaamal daktar luk walsitaanam faxximta.
 
-## Can dementia be prevented?
+## Kas bayisso waasisaanam duudan?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Numtin inki numuh kas bayisso waasisaanam duudaanamaa axcuk tascasse geytimte gide mayana. National Institute on Aging (NIA) ittam
+[Alzheimer waasisaanam duudaanamaa tascasseem waqdi mayana](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+takkay immay xiiniseenit tuxxiq le meqe gurri geyaanamaa kee meqeem kee umam baxsak yaniinim yuskuuden.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Xiinisso *tascasseem* tekkeh, garih yan caafiyat caalooti kee manô koroosiyya kas bayissoh fayya le gabbaaqoyta lih kalti le. Amaa gabbaaqo inkih yan ummattah garil daggowta waqdi, kas bayisso luk yan mari daggowtam duuda, hido idaltut gactam duuda. Taam cakkik heele gaba kinnimik kaxxa baxsa le.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Inki meqe tascassit: 2024 Lancet Komishiin gaba-kaltu baaxô bagul kaxxa qidi le baaxooxil (US kee UK lih) idaltut kas bayisso luk yan mari daggowtam tuybulle. Kutbeh abbiiti taam fayya le baritto, caafiyat dacarsiyya kee dhiigih xali daggowtam bahtam takkem duuda axcuk heleen,
+[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) tascasseemik.
 
-## What did the 2024 Lancet Commission find?
+## 2024 Lancet Komishiin tu-geyem maaciya?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
+Lancet Komishiin kas bayisso waasisaanam, gaba-kaliiyya kee dacarsiyyah fayda 27 xiinisso-abbob kinuk kulli fanti liggidal xiinisso yabooysa mara. Usun 2024 gaba-kaltul korsa duudan **14 gabbaaqoyta** uskuuden, kaadu baaxô bagul **kas bayissoh fanti (45% cindhaanam)** amaa sababoobi lih cindhaanam yeceen. Kutbeh abbiitih yaballih, amaa sababoobi kalanam duudek ta caalooti *fikrih garral* waasisaanam hido siirisaanam duudak sugte
 ([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Amaa 14 gabbaaqoyta manô fanta kaxxa xiinisso le garral baxsuk:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Manô qimbisiyya:** barittoh daggowti.
+- **Manô fanti (40 akak 65 liggidih fan):** ayti kassoowaanam, fayya le LDL ("umi") kolesterol, kas-biyak, amoh booxa, sissik miyawoonim wayti, sukkari, sigaara qaqiteenim, dhiigih gaba koruk yaniim, kibnaan, kee fayya le faranji cabba.
+- **Idaltu waqdi:** marak baxsimiyya, cawoh leelan, kee intih buxo qidbe kaloonim.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 addat osiseen nammay: fayya le LDL kolesterol kee intih buxo qidbe kaloonim. Kaxxa caalooti lih cindha sababoobi ayti kassoowaanam kee fayya le LDL kolesterol (kulli tiya 7% fanti), lakal barittoh daggowti kee marak baxsimiyya (kulli tiya 5% fanti).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Nanu linom [risk factors guide](/brain-health/risk-factors/) kulli 14 gabbaaqoyta teebullal tuybulle, xiinisso ittam kee abtan duudan caagid wagsiisak.
 
-### What the 45% figure does not mean
+### 45% fanti ittam waytaamal kas-leem
 
-It is easy to misread this number, so it helps to be precise:
+Ta lambar gar-garral ankacisaanam sahal kinnik, baxsah aaxaguk faxximta:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Taam ummattah kalkalo kinni.** Baaxô bagul yan kas bayisso wagsiisa, sin hido sin idaltih gabbaaqo ma-kassissa.
+- **Sabab kee tuxxiq bahtam teceen.** Kutbeh abbiiti kaxxa xiinisso le sababoobi fanah qidiseen, takkay immay garih yan sababoobi inki fanah baaham takkem duuda. Timbulluk, idaltut yan kas-biyak kas bayissoh baaham akke waytek, qimbisiyyah tascassit takkem duuda.
+- **Numtin inki numuh heela ma-taca.** UCL gaba-kaltu gabbaaqo daggoysiyya ummattah garil taamita axcuk, numtin inki num kas bayisso akak kalatam ma-tascassa.
+- **Garih yan fanti ta sababoobil ma-baxxaqa.** Idaltu, genooti kee saynis mari aaxige wee sababoobi garih yan fanti baaha.
 
-## What is the difference between "risk reduction" and "prevention"?
+## "Gabbaaqo daggoysiyya" kee "waasisaanam" fanta baxsal leem maaciya?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Gabbaaqo daggoysiyya** iyyaanam gabbaaqo daggoynaanam kinni. Kaxxa ummatta dhiigih gaba daggowta tekkek, usun mangi liggidil kas bayisso luk yan mari daggowtam duuda. Takkay immay amaa marak garih yan mari kas bayisso luk geytima.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Waasisaanam** iyyaanam tu gactam inkinnah kalatam tascasse. Kas bayissoh garral, taam saynisih xiinisso numtin inki numuh cakkik heeleem hinna.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Xiiniseenit **siirisaanam** wagsiisak yaaben. Lancet Komishiin tascasseem tekkeh, gabbaaqo daggoysiyya kas bayisso qimbissam siirisam duuda kaadu num biyakat suga waqdi daggowtam duuda. Cindha liggida siirisaanam num kee buxah maratah kaxxa meqem kinni.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Ta saytil, nanu "gabbaaqo daggoysiyya" kee "lih cindha" axcuk qaxwol fayyisna. "Alzheimer waasisaanam" itta dawwa hido porogiram tableen waqdi, qaxwol heela luk abbaha. NIA daktar luk walsitaanam faxximta itta Alzheimer waasisa itta kinini hido qidbiyya qimbisaanamik duma, usun caafiyat meqee kaloonim hido lakqo habal-owiyya takkem duudanik.
 
-## What have large trials found?
+## Kaxxa xiinissoyli geytem maaciya?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Ummattah caalat wagitan xiinissoyli kalti tascasse. Randomized trials iyyaanama, marak gari porogiramal kaadu gari wagittaamal fanteenim, kaxxa xiinisso kinni. Kaxxa xiinissoyli geyteem taama:
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER xiinisso 60 akak 77 liggid fanah yan 1,260 num kas bayissoh fayya le gabbaaqo lennik culsen. Fanti namma liggidih porogiram (maaqoh gaba-kaltu, gabat-qagita, computer kas tabso kee sorkocobbax dacarsiyya) geye; garih yan fanti ummattah caafiyat aytikumuy geye. Porogiram geye mari kas tintoobol cindha meqe fanti tuybulle, kaxxa baxsa tekkeem maysax
+([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Xiinisso tintooboh gaba-kaltu xiinise akke waytek kas bayisso luk yaniinim ma-xiinisse.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER 60 akak 79 liggid fanah yan 2,111 num sissik-miyawoonim wayti, maaqoh daggowti kee gabbaaqoytit luk suge mara culsen. Nammey fanti sissik-miyawoonim, kas taama, meqe maaqo, marâ luk keltaanam kee sorkocobbax dacarsiyyah qidbeen. Inki fanti kaxxa qokol luk suge; garih yan fanti isi garih abe. Namma liggidal kas tintooboh gaba-kaltu **nammey** fantil meqee tekke, kaadu qokol geye fantil daggowuk meqe
+([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Kutbeh abbiiti ta baxsa kulli ayro manô garral fayda leem aaxaguk wadirih xiinisso faxximta itte. Tu abee kal suge fanti ane weemik, porogiramitte tuxxiq leem kaxxa garral ma-tascasse.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (dhiigih gaba)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
+SPRINT MIND 50 liggida kee dabanik yan 9,361 US mari fayya le dhiigih gaba luk culsen. Usun daggowti dhiigih gaba heela (amo lambar 120 cindha) hido ummattah heela (140 cindha) baxsani. Daggowti heela **cindha kas daggowti** (mild cognitive impairment), kas bayissoh duma tama kassi gabbaaqo, meqe gurral daggoysse. **Kas bayissoh takkem duuda caalat**, daggowti heelah fantil cindha mari geytima, takkay immay baxsa kaxxa xiinissot ma-tuybulle. Xiinisso sissikuk qaqitte kaadu qambalen gide kas bayisso ma-tekke, ta caagid baxxaqisaanamah daggowuk sugte
 ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Xiinissoh gaba-kaltitte baxxeem maaciya?
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
+2021 Cochrane gaba-kaltu sagla kaxxa xiinissoyli 18,000 marak kaxxa luk culsen. Kas tintoobol cindha meqe fanti geyen, takkay immay namma xiinissol **kas bayisso luk yan mari giddah baxsa ma-tuybulle**
 ([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 gaba-kaltu National Academies of Sciences, Engineering, and Medicine abeem, NIA tuybulleem, sidiica garral "meqe takkay immay cakkik tascassee wayta" fanti tuybulle: dhiigih gaba dacarsiyya, sissik miyawoonim fayyisaanam, kee kas tabsiisaanam.
 
-## Does it matter when you start?
+## Qimbisan waqdi tuxxiq lee?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet Komishiin ittam gabbaaqoytit sahal waqdit daggoysaay derreexeh daggowuk sugeenim: "sahalu meqe" kee "derreexu meqe." Kaadu gabbaaqo daggoysiyya inkinnah sahalu wayta hido waqdi taturta axce kaloonim faxximta. Mangi xiinisso manô fanta wagsiisa (40 akak 65 liggid fan), takkay immay inti gabbaaqoytit kee marak baxsimiyya idaltut aban waqdi tuxxiq le.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Gaba-kaltu gabbaaqoyta luk derreexeh sugeenim kaxxa tuxxiq leem tascasse. Timbulluk, manô fantal qimbisa sukkari idaltut qimbisamuk kaxxa adda le.
 
-## Is dementia risk the same for everyone?
+## Kas bayissoh gabbaaqo kulli numuh inki giddah yanii?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Malee. Komishiin geytem tekkeh, cindha kee fanti lakqo le baaxooxil yan mari, cindha marooba kee lakqo wayti le mari ta gabbaaqoytit mangih luk yanim, toomik kas bayisso sahal liggidal geytima. Mangi gabbaaqoytit usun doore ween caalooti lih cindha, timbulluk cindham bariteen baritto, cawoh leelan, kee meqe maaqo sahaluk geytimaanam.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Toomih sabbatah Komishiin gaba-kaltu doolat kee numtin mara lih kassissa: kulli cindhamah meqe baritto, meqe cawo, sigaara daggoysiyya, sukkari kee carbo maaqot daggoysiyya, kee ayti qokol faxximta maratah yeceenim. Kulli numti taama faxximta, takkay immay manol yan baaxo kaxxa adda le. Kas bayisso luk yan num maaqiddi heeweenimih inki sabab taama.
 
-## What are the honest limits of this research?
+## Ta xiinissoh cakkik tan kaxxoobi maaciya?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Kas bayisso gactam mangi liggida abbaha**, takkay immay mangi xiinisso nammak konoyu liggida fan takke. Kas bayisso wagsiisaamal xiinisso derreexe liggiditte faxxa.
+- **Mangi xiinisso kas tintoobox xiinisa.** Tintoobol meqem geyaanam kas bayisso luk yan mari daggowtam hido manô garri sahaluk yanim ma-tascassa.
+- **Xiinisso culan mari mangih caafiyat le** kee baritto le mara. Lancet Komishiin tascasseem mangi xiinisso fayya le lakqo le baaxooxik tama kaadu cindha marooba daggowuk yaniinim.
+- **Garih yan sababoobi nammey garral taamita.** Sissik miyawoonim wayti hido marak baxsimiyya kas bayissoh sabab akke waytek qimbisiyyah tascassit takkem duuda.
+- **Maaqoh xiinissoyli meqe gaba-kaltu ma-baahin.** Sidiica liggidih MIND maaqoh xiinisso kas yabooysiyyagil baxsaale meqe fanti ma-geyne. Nanu linom [diet guide](/brain-health/diet/) wagita.
+- **Samad qidimitte kas bayisso waasisaanam ma-tascasse.** Nanu linom [brain games and dementia](/brain-health/brain-games/) wagita.
+- **Somaanam numtin addal cindha xiinisso le**, kaadu idaltut gabbaaqo takkem duuda. Nanu linom [fasting guide](/brain-health/fasting/) wagita.
 
-## If someone did everything "right", why did they still get dementia?
+## Num kulli caalat "meqe gurral" abek, maacih kas bayisso luk geytima?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Kas bayisso manô dooriti gaba kinnimik kaxxa adda lennik. NIA ittam
+[idaltu Alzheimer biyakah kaxxa gabbaaqoyta](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+kaadu num korsa ma-duuda. Genooti adda le. Saynis mari mangi marat Alzheimer maacih tamaam cakkik ma-aaxiga. Kulli 14 gabbaaqoytit kallek way, Lancet Komishiin fanti kaxxa marat ma-baxxaqa.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Tohuk sabbatah isin qagita abe, meqe maaqo qomme, sigaara qaqite weeh kas bayisso luk yan num qokolak tanton tekkek, sin garik hido ken garik maaqiddi ma-tekke. Isin kas bayisso luk tanton tekkek, taam sin maaqiddi hinna. Guilt hido isi wacaysiyya mangi buxaaxol geytimta, takkay immay toh faxxiime kaltoomi. Kulli ayro faxximtam asgalla, inkittinaane kee meqe ayroora kinni, kaadu nanu linom [activity ideas](/activities/ideas/) kee [caregiver self-care guide](/caregiving/caregiver-self-care/) qimbisiyyah meqe iddo.
 
-## What steps can you talk over with a doctor?
+## Daktar luk wagsiisiyyah qaxme le takkeytit maaciya?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Ta idollal mangi addat xiinisen. Daktar checkup garil wagsiisiyyah qaxme le, usun sorkocobbax, rooci kee isi garih manô qaxme lennik, kas bayissot le fanti maaciyya takkay.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Dhiigih gaba.** Sin lambar maaciya kee sin giddah yamqem essera. Lancet Komishiin 40 liggidal amo lambar 130 hido cindham heela abaanam tascasse, takkay immay idaltuh faxximtam caafiyatik tan.
+2. **Ayti.** Ayti xiinisso essera, kaadu ayti qokoli cato lee essera. Nanu linom [hearing guide](/brain-health/hearing/) xiinisso baxxaqisa.
+3. **Inti.** Intih xiinisso aba, kaadu cataracts hido inti buxo qidbiyya duudaanamaa essera.
+4. **Kolesterol.** LDL kolesterol xiinisaanam faxximtaa kee korsiyya faxximtaa essera.
+5. **Sukkari.** Sukkari luk tanton tekkek, meqe gurral qidbiyya essera.
+6. **Kas-biyak.** Kas-biyak geytima kaadu qidban duuda. Namma saftaak kaxxa kas-daggooti luk sugteenik daktarah warisa.
+7. **Sigaara kee faranji cabba.** Sigaara cabaanamah cato kee faranji cabbah heela essera.
+8. **Miyawoonim.** Sin caafiyatik lih yamqe sissik miyawoonim essera. Nanu linom [exercise guide](/brain-health/exercise/) fikraditte le.
+9. **Amo dacarsiyya.** Baisikil kee gabat-qagitah helmet giga, kaadu radaanam waasisaanam essera.
+10. **Marâ luk keltaanam.** Marâ luk yanoonim meqe manô garra kinni. Nanu linom [social connection](/brain-health/social-connection/) kee [sleep](/brain-health/sleep/) wagita.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Dawwa, maaqo, cato maaqo, somaanam hido gabat-qagita korsa anamik duma, daktar luk duma walsita, sorkocobbax biyak, sukkari, radah taarik, hido kas bayisso luk tanton tekkek.
 
-## Talk with a doctor
+## Daktar luk walsita
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Sin nafsik hido kalah tan numuk kassi hido kas korsiyya tableen tekkek, daktar appointment aba. NIA ittam
+[kassi gabbaaqoytit kalah tan sababoobi lennim duuda](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+timbulluk dawwah gaba, thyroid biyak, kas-biyak hido vitamin B12 daggowti, kaadu ta sababoobi qidbita waqdi kassi gabbaaqoytit gaba kala. Nanu linom [warning signs guide](/brain-health/warning-signs/) wagitan duudan caagid baxxaqisa.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Sissik caafiyat gaba-kaltu geya** sissik garrih korsiyyah: sissik garrih kas-finqilla, inki gabah xiinaana hido qimbisiyya, yabiyyah gibda, hido kaxxa amo-biyak stroke hido kalah tan sissik gabbaaqoytah tascassit takkem duuda. 15 wacaysita.
 
-## Where Golden Moments fits
+## Golden Moments kah cattam anuk tan iddo
 
-Golden Moments makes simple shared activities, such as
+Golden Moments sahaluuk itta luk aban qidimitte xayyossa, timbulluk
 [conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+[picture bingo](/games/picture-bingo/) kee
+[calm breathing pause](/games/calm-breathing/). Usun wallaysiyya kee ittal sugaanama kinni. Usun qidbiyya hinna, kaadu kas bayisso ma-waasisaana kaadu ma-siirisaana.

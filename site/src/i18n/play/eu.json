@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Ozen irakurri",
+      "stopReading": "Irakurtzeari utzi",
+      "region": "Jokoa",
+      "restart": "Berriro hasi",
+      "soundOn": "Soinu leunak piztuta",
+      "soundOff": "Soinu leunak itzalita",
+      "done": "Amaitu dugu oraingoz",
+      "feedbackQuestion": "Lagungarria izan da gaur?",
+      "feedbackYes": "Bai",
+      "feedbackNo": "Ez bereziki",
+      "feedbackThanks": "Eskerrik asko zure iritzia emateagatik."
+    },
+    "tile": {
+      "named": "{name}, {n}. fitxa",
+      "hidden": "Irudi ezkutua, {n}. fitxa",
+      "withState": "{label}, {state}",
+      "matched": "Elkartuta",
+      "selected": "Hautatuta",
+      "picture": "Irudia",
+      "photoNumber": "{n}. argazkia"
+    },
+    "pairs": {
+      "allTogether": "Bikote guztiak elkarrekin daude. Berriro jokatu edo atseden bat har dezakezue.",
+      "photoPair": "Bi argazkiko bikotea, elkarrekin.",
+      "picturePair": "Bi {name|lower} irudi, elkarrekin.",
+      "selected": "{name}. Orain aurkitu bere bikotea.",
+      "mismatch": "Hartu zure denbora. Sakatu irudi bat aurrera jarraitzeko.",
+      "mismatchNamed": "{a} eta {b}. Hartu zure denbora. Sakatu irudi bat aurrera jarraitzeko."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Sakatu irudi bat, eta gero berarekin bat datorrena.",
+      "guidanceHidden": "Sakatu bi fitxa buelta emateko. Bilatu bi irudi berdin.",
+      "restart": "Irudi berriak",
+      "sizeLegend": "Fitxa kopurua",
+      "size": {
+        "one": "{n} fitxa",
+        "other": "{n} fitxa"
+      },
+      "viewLegend": "Nola jokatu",
+      "viewShowing": "Irudiak ikusgai",
+      "viewHidden": "Irudi ezkutuak",
+      "playAgain": "Berriro jokatu irudi berriekin",
+      "talk": "Hitz egin irudiei buruz elkarrekin"
+    },
+    "choose": {
+      "countLegend": "Zenbat irudi",
+      "count": "{n} aukeran",
+      "thatOne": "Hori {name|lower} da. Hartu zure denbora."
+    },
+    "findTheSame": {
+      "guidance": "Begiratu goiko irudiari. Sakatu behean dagoen berdina.",
+      "yes": "Bai, {name|lower} bera.",
+      "next": "Hurrengo irudia"
+    },
+    "shadowMatch": {
+      "guidance": "Begiratu goiko itzalari. Sakatu itzal hori egiten duen irudia.",
+      "yes": "Bai, {name|lower} da itzal hori egiten duena.",
+      "next": "Hurrengo itzala",
+      "shadowAlt": "Elkartzeko itzala",
+      "foundAlt": "{name|lower} irudiaren itzala"
+    },
+    "sortTogether": {
+      "guidance": "Sakatu irudi bat, eta gero dagokion saskia.",
+      "restart": "Irudi berriak",
+      "themeLegend": "Gaia",
+      "selected": "{name}. Orain sakatu dagokion saskia.",
+      "pickFirst": "Lehenik sakatu irudi bat, eta gero saski bat.",
+      "hint": "{name|lower} «{basket}» saskian joan daiteke. Sakatu saski hori bertan jartzeko.",
+      "placed": "{name|lower} «{basket}» saskian dago.",
+      "sorted": "Dena sailkatuta dago. Begiratu saskiei elkarrekin, edo probatu beste gai bat.",
+      "basket": {
+        "one": "«{basket}» saskia, {count} irudi barruan",
+        "other": "«{basket}» saskia, {count} irudi barruan"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Sakatu pieza bat, eta gero beste bat. Lekuz aldatuko dira.",
+      "restart": "Nahastu berriro",
+      "pictureLegend": "Irudia",
+      "pictures": {
+        "sailboat": "Belaontzia",
+        "house": "Etxea",
+        "balloon": "Globoa",
+        "sunflower": "Ekilorea",
+        "lighthouse": "Itsasargia",
+        "cat": "Katua"
+      },
+      "sizeLegend": "Piezak",
+      "size": {
+        "one": "{n} pieza",
+        "other": "{n} pieza"
+      },
+      "pickedUp": "Pieza hautatuta. Orain sakatu nora joan behar duen.",
+      "whole": "{name|lower} osorik dago berriro. Aukeratu beste irudi bat nahi duzunean.",
+      "swapped": {
+        "one": "Lekuz aldatuta. {total} piezatik {correct} bere lekuan dago.",
+        "other": "Lekuz aldatuta. {total} piezetatik {correct} beren lekuan daude."
+      },
+      "guideAlt": "Irudi osoa: {name}",
+      "guideText": "Hala ikusten da irudia osorik dagoenean.",
+      "piece": "{place} dagoen pieza",
+      "pieceInPlace": ", leku egokian",
+      "piecePickedUp": ", hartuta",
+      "places4": [
+        "goian ezkerrean",
+        "goian eskuinean",
+        "behean ezkerrean",
+        "behean eskuinean"
+      ],
+      "places9": [
+        "goian ezkerrean",
+        "goian erdian",
+        "goian eskuinean",
+        "erdian ezkerrean",
+        "erdian",
+        "erdian eskuinean",
+        "behean ezkerrean",
+        "behean erdian",
+        "behean eskuinean"
+      ],
+      "done": "Irudia osorik dago berriro. Berriro jokatu edo atseden bat har dezakezue.",
+      "playAgain": "Nahastu berriro"
+    },
+    "finishTheSaying": {
+      "guidance": "Irakurri esaera elkarrekin, eta gero sakatu amaitzen duen hitza.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Bai, «{start} {end}».",
+      "otherEnding": "«{word}» ere egokia da. Esaera «{end}» hitzarekin amaitu ohi da.",
+      "revealed": "Esaera hau da: «{start} {end}».",
+      "choicesLabel": "Aukeratu azken hitza",
+      "show": "Erakutsi amaiera",
+      "talk": "Hitz egin honi buruz: ",
+      "next": "Hurrengo esaera"
+    },
+    "wordSearch": {
+      "guidance": "Hitzak horizontalki edo bertikalki doaz. Sakatu hitzaren lehen letra, eta gero azkena.",
+      "restart": "Hitz-bila berria",
+      "themeLegend": "Gaia",
+      "sizeLegend": "Sarearen neurria",
+      "size": {
+        "one": "{n} x {n} ({words} hitz)",
+        "other": "{n} x {n} ({words} hitz)"
+      },
+      "print": "Inprimatu hitz-bila hau",
+      "letterChosen": "{letter} letra aukeratuta. Orain sakatu hitzaren azken letra.",
+      "found": "{word} aurkituta.",
+      "foundAll": "{word} aurkituta. Hitz guztiak aurkitu dituzue. Berriro jokatu edo atseden bat har dezakezue.",
+      "tryAgain": "Hartu zure denbora. Sakatu hitzaren lehen letra, eta gero azkena.",
+      "gridLabel": "Letra-sarea, {n} letrako {n} errenkada. Erabili geziak letren artean mugitzeko.",
+      "cell": "{letter}, {row}. errenkada, {col}. zutabea",
+      "cellFound": ", aurkitutako hitz baten parte",
+      "wordsHeading": "Aurkitu beharreko hitzak",
+      "wordFound": " (aurkituta)",
+      "sheetTitle": "Hitz-bila: {theme}",
+      "sheetNote": "Hitzak horizontalki edo bertikalki daude.",
+      "unavailable": "Letra-sarea ez da egokia hizkuntza honetarako, eta beraz ez dago hitz-bilarik hemen. Probatu irudi-jokoak horren ordez."
+    },
+    "coloring": {
+      "guidance": "Sakatu kolore bat, eta gero irudiaren zati bat.",
+      "restart": "Kendu koloreak",
+      "cleared": "Orria zuriz dago berriro.",
+      "pageLegend": "Orria",
+      "print": "Inprimatu orri hau",
+      "colorsLabel": "Koloreak",
+      "paintChosen": "{paint} aukeratuta.",
+      "painted": "{part} orain {paint|lower} kolorekoa da.",
+      "artLabel": "{page}, margotzeko {count} zati",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, margotu gabe",
+      "paints": {
+        "red": "Gorria",
+        "orange": "Laranja",
+        "yellow": "Horia",
+        "green": "Berdea",
+        "blue": "Urdina",
+        "purple": "Morea",
+        "pink": "Arrosa",
+        "brown": "Marroia",
+        "sky-blue": "Zeru-urdina",
+        "cream": "Krema",
+        "gray": "Grisa",
+        "white": "Zuria"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Irakurri txartela ozenki. Ez dago erantzun okerrik.",
+      "position": "{n} / {total} txartela",
+      "themeLegend": "Gaia",
+      "next": "Hurrengo txartela",
+      "previous": "Aurreko txartela",
+      "print": "Inprimatu txartel guztiak",
+      "sheetTitle": "Solasaldiko txartelak"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Hasteko, aukeratu zure argazkiak.",
+      "guidance": "Sakatu argazki bat, eta gero berarekin bat datorrena.",
+      "restart": "Nahastu berriro",
+      "intro": "**Aukeratu 2 eta 6 argazki artean** gailu honetatik. Orri honetan bakarrik erakusten dira, eta ez dira inoiz igotzen ezta gordetzen ere.",
+      "choose": "Aukeratu argazkiak",
+      "chooseDifferent": "Aukeratu beste argazki batzuk",
+      "clear": "Kendu argazkiak",
+      "cleared": "Argazkiak kendu dira orri honetatik.",
+      "atLeastTwo": "Mesedez, aukeratu gutxienez bi argazki.",
+      "usingFirst": "Lehen {max} argazkiak erabiltzen.",
+      "skipped": {
+        "one": "{count} fitxategi ez da erakutsi dezakegun argazki bat.",
+        "other": "{count} fitxategi ez dira erakutsi ditzakegun argazkiak."
+      },
+      "playAgain": "Berriro jokatu argazki hauekin",
+      "empty": "Zure argazkiak hemen agertuko dira, bakoitza birritan."
+    },
+    "pictureBingo": {
+      "guidance": "Lehenik inprimatu kartoiak. Gero, erakutsi deitzaile hau daukazuen pantaila handienean.",
+      "called": {
+        "one": "{name}. {total} iruditik {called} atera da.",
+        "other": "{name}. {total} irudietatik {called} atera dira."
+      },
+      "start": "Sakatu «Hurrengo irudia» lehen irudia ateratzeko.",
+      "restart": "Hasi joko berri bat",
+      "squaresLegend": "Kartoi bakoitzeko laukiak",
+      "squares": "{n} lauki ({side} x {side})",
+      "cardsLegend": "Zenbat kartoi inprimatu",
+      "cards": {
+        "one": "{n} kartoi",
+        "other": "{n} kartoi"
+      },
+      "print": {
+        "one": "Inprimatu {n} bingo-kartoi",
+        "other": "Inprimatu {n} bingo-kartoi"
+      },
+      "ready": "Prest nahi duzunean",
+      "next": "Hurrengo irudia",
+      "allCalled": "Irudi guztiak atera dira",
+      "alreadyCalled": "Atera da jada",
+      "sheetTitle": "Irudi-bingoa · {n}. kartoia"
+    },
+    "calmBreathing": {
+      "guidance": "Hartu arnasa zirkulua handitu ahala, eta bota txikitu ahala. Bere kabuz geldituko da sei arnasaldi egin ondoren.",
+      "paceLegend": "Erritmoa",
+      "paceSlow": "Lasaia (5 segundo bakoitzean)",
+      "paceGentle": "Leuna (4 segundo bakoitzean)",
+      "ready": "Prest zaudenean hasteko",
+      "in": "Hartu arnasa",
+      "hold": "Atsedena",
+      "out": "Bota arnasa",
+      "start": "Hasi",
+      "stop": "Gelditu",
+      "started": "Hasita. Hartu arnasa zirkulua handitu ahala.",
+      "stopped": "Geldituta.",
+      "finished": "Sei arnasaldi lasai izan dira. Hasi berriro nahi duzunean."
+    }
+  },
+  "pictures": {
+    "teacup": "Te-katilua",
+    "kettle": "Ketela",
+    "bread": "Ogia",
+    "frying-pan": "Zartagina arrautzarekin",
+    "cake": "Tarta",
+    "sunflower": "Ekilorea",
+    "tulip": "Tulipa gorria",
+    "watering-can": "Ureztagailua",
+    "potted-plant": "Landarea loreontzian",
+    "tree": "Zuhaitza",
+    "bird": "Txantxangorria adarrean",
+    "butterfly": "Tximeleta",
+    "dog": "Txakurra",
+    "cat": "Katua",
+    "fish": "Arrain gorria",
+    "apple": "Sagar gorria",
+    "pear": "Udarea",
+    "strawberry": "Marrubia",
+    "banana": "Platanoa",
+    "lemon": "Limoia",
+    "cherries": "Gereziak",
+    "house": "Etxea",
+    "lamp": "Lanpara mahaikoa",
+    "armchair": "Besaulkia",
+    "key": "Giltza zaharra",
+    "umbrella": "Aterkia",
+    "sailboat": "Belaontzia",
+    "car": "Auto klasikoa",
+    "bicycle": "Bizikleta",
+    "balloon": "Globo aerostatikoa",
+    "lighthouse": "Itsasargia",
+    "sun": "Eguzkia",
+    "moon": "Ilargia eta izarrak",
+    "teapot": "Teontzia",
+    "apple-pie": "Tarta sagarrarekin",
+    "honey-jar": "Potoa eztiarekin",
+    "boiled-egg": "Arrautza arrautza-ontzian",
+    "toaster": "Txigorgailua",
+    "cheese": "Gazta-zatia",
+    "milk-jug": "Pitxerra esnearekin",
+    "cupcake": "Magdalena",
+    "orange": "Laranja",
+    "grapes": "Mahats-mordoa",
+    "watermelon": "Sandia-zatia",
+    "pineapple": "Anana",
+    "peach": "Melokotoia",
+    "rose": "Arrosa",
+    "daisies": "Margaritak",
+    "mushroom": "Perretxikoa",
+    "wheelbarrow": "Eskurdia",
+    "birdhouse": "Txori-etxola",
+    "cactus": "Kaktusa loreontzian",
+    "acorn": "Ezkurra",
+    "autumn-leaf": "Hostoa udazkenean",
+    "rabbit": "Untxia",
+    "duck": "Ahatea",
+    "hen": "Oiloa",
+    "sheep": "Ardia",
+    "owl": "Hontza",
+    "ladybird": "Marigorringoa",
+    "snail": "Barraskiloa",
+    "frog": "Igela",
+    "bee": "Erlea",
+    "clock": "Erlojua",
+    "vase-of-flowers": "Lore-ontzia loreekin",
+    "radio": "Irrati zaharra",
+    "books": "Liburu-pila",
+    "candle": "Kandela",
+    "glasses": "Betaurrekoak irakurtzeko",
+    "telephone": "Telefonoa",
+    "ball-of-wool": "Artile-mataza",
+    "straw-hat": "Kapela eguzkitarako",
+    "train": "Lurrun-trena",
+    "bus": "Autobusa",
+    "airplane": "Hegazkina",
+    "suitcase": "Maleta",
+    "tractor": "Traktorea",
+    "rowing-boat": "Arraun-ontzia",
+    "rainbow": "Ortzadarra",
+    "rain-cloud": "Hodeia euriarekin",
+    "snowflake": "Elur-maluta",
+    "kite": "Kometea",
+    "sunrise": "Egunsentia mendietan"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGILMNOPRSTUZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frutak",
+          "words": [
+            "SAGAR",
+            "UDARE",
+            "ARAN",
+            "LIMOI",
+            "MAHATS",
+            "MELOI",
+            "PIKU",
+            "ANANA",
+            "SANDIA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Lorategia",
+          "words": [
+            "ARROSA",
+            "TULIPA",
+            "HAZI",
+            "LUR",
+            "HOSTO",
+            "LORE",
+            "BELAR",
+            "ERLE",
+            "ITURRI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Sukaldea",
+          "words": [
+            "KATILU",
+            "OGI",
+            "KAZOLA",
+            "PLATER",
+            "LABE",
+            "BASO",
+            "TETERA",
+            "SARDE",
+            "MAHAI"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Eguraldia",
+          "words": [
+            "EGUZKI",
+            "EURI",
+            "ELUR",
+            "HAIZE",
+            "HODEI",
+            "LANBRO",
+            "TRUMOI",
+            "BERO",
+            "HOTZ"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animaliak",
+          "words": [
+            "TXAKUR",
+            "KATU",
+            "TXORI",
+            "ARRAIN",
+            "ZALDI",
+            "BEHI",
+            "AHATE",
+            "AHUNTZ",
+            "OILO"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Etxea",
+          "words": [
+            "ATE",
+            "AULKI",
+            "OHE",
+            "SOFA",
+            "GILTZA",
+            "LEIHO",
+            "ERLOJU",
+            "ARGIA",
+            "MAHAI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Txartel guztiak",
+        "food": "Janaria",
+        "home": "Etxea",
+        "outdoors": "Natura eta kanpoaldea",
+        "animals": "Animaliak",
+        "travel": "Bidaia eta txangoak",
+        "work": "Lana eta zaletasunak",
+        "music": "Musika eta giro alaia",
+        "seasons": "Urtaroak"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Zein duzu sukaldeko usainik gustukoena?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Zer tarta mota aukeratuko zenuke ospakizun baterako?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Kontaidazu gustuko duzun fruta-opil edo postreren bati buruz."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Nola gustatzen zaizu tea edo kafea hartzea?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Zerk egiten du gosari bat benetan goxoa?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Inoiz bildu al duzu frutarik zuzenean landaretik edo arbolatik?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Gozoa ala garratza: zein duzu nahiago?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Zein janarik ekartzen dizu udaren zaporea gogora?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Kontaidazu bizitzea gustatu zitzaizun etxe bati buruz."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Non duzu eseri eta lasai egoteko lekurik gustukoena?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Zer egitea gustatzen zaizu iluntze lasai batean?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Zer altxor gordeko zenuke kutxa berezi batean?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Nor gonbidatuko zenuke te edo kafe bat hartzera?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Zer egitea gustatzen zaizu euri-egun batean?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Zer lore landatuko zenituzke lorategi batean?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Kontaidazu gustuko duzun zuhaitz edo parke bati buruz."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Zein da lorategi batean egotearen alderdirik ederrena?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Zer koloretako loreak dituzu gustukoen?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Gustatzen al zaizu etxean landareak edukitzea?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Nolakoa litzateke zuretzat egun eguzkitsu perfektu bat?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Kontaidazu ezagutu duzun txakurren bati buruz."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katuak ala txakurrak, ala bietako bat ere ez? Zer duzu gustuko haiengandik?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Zer txori ikusi edo entzuten dituzu kanpoan?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Inoiz ibili al zara arrantzan, edo izan al duzu arrainontzirik?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Zein da ikusi duzun animaliarik ederrena?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Kontaidazu gustuko izan zenuen auto bati buruz."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Nahiago zenuke eguna hondartzan ala mendian igaro?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Nora joatea gustatuko litzaizuke buelta bat ematera?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Edozein lekuren gainetik hegan egiterik bazenu, nongoa aukeratuko zenuke?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Kontaidazu asko gozatu zenuen bidaia baten berri."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Zer lan mota egitea gustatu izan zaizu?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Zer zaletasunekin eman zenitzake orduak eta orduak?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Zer gauza egiten edo konpontzen moldatzen zinen bereziki ondo?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Zer aholku emango zenioke lanean hasi den gazte bati?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Zer musika motak ematen dizu erritmoa hankekin jarraitzeko gogoa?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Zerk bihurtzen du festa bat benetan gogoangarri?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Zein abeslari entzutea gustatzen zaizu?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Zein pelikula edo telesail gustatuko litzaizuke berriro ikustea?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Zer da udan gehien gustatzen zaizuna?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Zer duzu gustuko udazkenean?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Zer gauza goxo egitea gustatzen zaizu neguko iluntze batean?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Zeintzuk dira udaberriaren lehen zantzuak zuretzat?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Elurra, euria ala eguzkia: zein duzu nahiago?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Lorea loreontzian",
+          "regions": {
+            "sky": "Atzealdea",
+            "table": "Mahaia",
+            "stem": "Zurtoina",
+            "leaf-left": "Ezkerreko hostoa",
+            "leaf-right": "Eskuineko hostoa",
+            "petal-1": "1. petaloa",
+            "petal-2": "2. petaloa",
+            "petal-3": "3. petaloa",
+            "petal-4": "4. petaloa",
+            "petal-5": "5. petaloa",
+            "petal-6": "6. petaloa",
+            "petal-7": "7. petaloa",
+            "petal-8": "8. petaloa",
+            "center": "Lorearen erdialdea",
+            "pot": "Loreontzia",
+            "pot-rim": "Loreontziaren ertza"
+          }
+        },
+        "house": {
+          "name": "Etxea",
+          "regions": {
+            "sky": "Zerua",
+            "sun": "Eguzkia",
+            "grass": "Belarra",
+            "chimney": "Tximinia",
+            "walls": "Hormak",
+            "roof": "Teilatua",
+            "door": "Atea",
+            "window-left": "Ezkerreko leihoa",
+            "window-right": "Eskuineko leihoa",
+            "path": "Bidea"
+          }
+        },
+        "teacup": {
+          "name": "Te-katilua",
+          "regions": {
+            "background": "Atzealdea",
+            "saucer": "Platertxoa",
+            "handle": "Heldulekua",
+            "cup": "Katilua",
+            "band": "Katiluaren marra",
+            "tea": "Tea"
+          }
+        },
+        "butterfly": {
+          "name": "Tximeleta",
+          "regions": {
+            "background": "Atzealdea",
+            "wing-top-left": "Goiko ezkerreko hegoa",
+            "wing-top-right": "Goiko eskuineko hegoa",
+            "wing-bottom-left": "Beheko ezkerreko hegoa",
+            "wing-bottom-right": "Beheko eskuineko hegoa",
+            "spot-left": "Ezkerreko hegoko orbana",
+            "spot-right": "Eskuineko hegoko orbana",
+            "body": "Gorputza"
+          }
+        },
+        "sailboat": {
+          "name": "Belaontzia",
+          "regions": {
+            "sky": "Zerua",
+            "sea": "Itsasoa",
+            "sail-big": "Bela handia",
+            "sail-small": "Bela txikia",
+            "mast": "Masta",
+            "hull": "Ontzia",
+            "flag": "Banderatxoa"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Sukaldea eta lorategia",
+          "baskets": [
+            "Sukaldean",
+            "Lorategian"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fruta eta animaliak",
+          "baskets": [
+            "Fruta",
+            "Animaliak"
+          ]
+        },
+        "home-travel": {
+          "label": "Etxea eta bidaiak",
+          "baskets": [
+            "Etxean",
+            "Etxetik kanpo"
+          ]
+        }
+      }
+    }
+  }
+}

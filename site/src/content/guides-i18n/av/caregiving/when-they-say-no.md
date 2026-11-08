@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Деменция бугев чияс инкар гьабуни ялъуни ракӀ хвани"
+seoTitle: "Деменция бугев чияс инкар гьабуни"
+description: "Щай деменция бугев чияс инкар гьабулеб, гьелъул бакӀалда щиб гьабизе бегьулеб, щиб гьабизе бегьулареб ва кида тохтурасухъе ине кколеб."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Деменция бугев чияс «гьечӀо» абуни, гьеб сабурго къабул гьабе ва хадуб цӀидасан
+  хӀалбихьизе яги цогидаб жо цебе лъезе бегьула. Инкар гьабиялъе гӀемерисеб гӀилла
+  букӀуна: хӀалтӀи захӀматаб ялъуни лъималазулаб гӀадин бихьи, свакарав, унтарав,
+  ракъарав вукӀин ялъуни гӀужалда гӀодове вичӀунгутӀи. ДагӀба базе ва тӀалаб
+  гьабизе бегьуларо. ХӀалтӀи бигьалъизабе, кӀиго хӀалтӀудасан цояб бищизе кье яги
+  гьезухъа кумек гьаре. Хасияталда хабар лъачӀого хиса-баси ккани, хасго унти
+  ккун хадуб ялъуни цӀиял дармал цӀалаго, хехго тохтурасухъе вачине ккола.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«ГьечӀо» абураб рагӀи — гьеб адаб гьабизе кколеб жаваб буго, тӀаса инзе кколеб масъала гуро."
+  - "Инкар гьабиялъе гӀемерисеб гӀилла букӀуна: хӀалтӀи захӀматаб буго, лъималазулаб буго, чи свакан вуго, гьесие захӀмалъулеб буго ялъуни шовгъаталда вичӀулеб гьечӀо."
+  - "Къабул гьабе, сабур гьабе ва хадуб цӀидасан, цогидаб заманалда яги бигьаяб формаялда хӀалбихьизе бегьула."
+  - "ХӀалтӀи гьабизе тӀалаб гьабиялдаса гьезухъа кумек гьариялъ лъикӀаб хӀасил кьола."
+  - "Киданиги дагӀба баге, тӀалаб гьабуге, имтихан кьоге ва къагӀида бихьизабуге. Нужго хехлъулел ругищали яги кӀвар цӀикӀкӀинабулеб бугищали хал гьабе."
+  - "Хасият хабар лъачӀого ялъуни хехго хисани, хасго унти ккун хадуб яги цӀиял дармал гьекъолаго, хехго тохтурасухъе вачине ккола."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "ХӀалтӀаби киналго цо къоялъ гьоркьоса риччани бегьулищ?"
+    a: "Бегьула, кинаб букӀаниги къоялъ. Цадахъ гӀодор чӀей, бакъан гуркӀи ялъуни гордухъан дунялалде балагьун чӀейги гӀезе бегьула. Амма чанго анкьида жаниб щибниги бокьулареб хӀал баккани, тохтурасе гьелъул бице; гьелъие гӀилла ракӀ-рокьол къварилъи, унти яги цогидал сахлъиялъул захӀматлъаби букӀине бегьула."
+  - q: "Щай гьезие цебе бокьулеб букӀараб жоялдаса гьанже инкар гьабулеб?"
+    a: "Цебесеб рокьияб ишалъ ракӀ хвезабизе бегьула, щай гурелъул деменция сабаблъун гьелъие хӀажатал махщелал захӀмалъун рукӀине ва гьезие бахчизе бегьула. Гьеб ишалъул бигьаяб бутӀа цебе лъезе хӀалбихьизе бегьула: масала, бицине кколеб бакӀалда тугьмаби ратӀа гьари, ялъуни ах цӀидасан чӀезабиялъул бакӀалда ахазул суратазде балагьи."
+  - q: "Гьел гӀинтӀамизабизе хӀалбихьизе кколищ?"
+    a: "Гуро. Деменциялъ захӀмалъизабураб жо гьабизе чи мажбур гьавияс ракӀ хвезабизе ва гъалатӀизабизе бегьула. «ГьечӀо» абураб къабул гьабе, тема хисе, ва хадуб цоги заманалда ялъуни батӀияб къагӀидаялда цебе лъе."
+  - q: "Хасият хиси кида кутакаб хӀинкъи бугеблъун рикӀкӀине кколеб?"
+    a: "Чи хӀинкъиялда вугони яги тохтурзабазул хехаб кумек хӀажатаб хӀал баккани, 112 телефоналде ахӀе. Чанго сагӀаталда ялъуни къоялда жаниб хӀал хехаб кутакалда хисани, хасго гӀуцӀарулеб мехалъ, унти ккани ялъуни цӀиял дармал цӀалаго, хехго тохтурасухъе кӀвар буссинабе."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Нужеца кинабго хӀадур гьабуна, хӀай ялъуни къватӀире вакки цебе лъуна, амма жаваб бачӀана: «ГьечӀо». Ялъуни хӀалтӀи лъикӀ байбихьун, планшет нахъе цӀай ва квасираб рагӀи абун лъугӀана. Гьелъ ракӀ хвезабула, амма гьеб гӀемерисеб мехалъ кколеб жо буго. Инкар гьаби ва разилъунгутӀи — гьеб чӀалгӀин гуро, гьезул хӀалалъул хабар буго. Гьеб хабар кинаб бугевали бичӀиялъ хадуб щиб гьабизе бегьулебали бихьизабула.
 
-## Why does someone with dementia refuse activities?
+## Щай деменция бугев чияс хӀалтӀабаздаса инкар гьабулеб?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+ГӀемерисеб мехалъ гьелъие гӀилла букӀуна, чиясе гьеб рагӀабазда бицине кӀолеб гьечӀониги. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) идараялъ баян гьабухъе, инкар гьабиялъ бихьизабизе бегьула чиясда хӀалтӀи гьабизе кӀолеб гьечӀолъи ялъуни хӀалбихьизе хӀинкъулеб букӀин. ГӀадатаб гӀиллабазул цо-цоял:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **ХӀалтӀи захӀматаб буго.** Гьанже гьеб хӀалтӀиялъе деменция сабаблъун захӀмалъарал махщелал хӀажатал руго, ва цогидазул цебе бажаричӀого букӀин бахчизе ккола.
+- **Лъималазулаб гӀадин бихьула.** КӀудиял гӀадамазда мультфильмазул гӀадал суратал, лъималазул гӀадал гьаркьал ва лъималазе гьарурал гӀадал хӀалтӀаби рихьула.
+- **Свакай.** ГӀемерисел гӀадамазул къоялъул ахиралда къуват дагьлъула. Ралагье [къоялъул ахиралда сабурал хӀалтӀаби](/caregiving/late-day-restlessness/).
+- **Черхалъул захӀматлъи.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) идараялъ рехсолеб буго унти, кьижарабигьингутӀи, лъикӀ бихьунгутӀи яги рагӀунгутӀи, ракъи, къохьол захӀматлъи, гьекъолеб лъим хӀажалъи ва цӀиял дармазул зарар къварилъиялъе гӀиллалъун букӀине бегьулин.
+- **ГӀемераб шовгъат ва гьоркьохъел.** Гуллараб телевизор, цадахъго чанго хабар ялъуни гӀадамал цӀикӀкӀараб рукъалъ чи вичӀизавизе бегьула.
+- **Мажбур гьавулевлъун рикӀкӀин.** Альцгеймералъул унтиялъ захӀмалъизабураб жо гьабизе ялъуни лъугьа-бахъинал яги гӀадамал ракӀалде щвезаризе мажбур гьави ракӀ хвеялъе гӀилла букӀине бегьулин рикӀкӀуна NIA идараялъ.
+- **РакӀ-рокьол къварилъи.** Ишаздаса марххалил къотӀи депрессиялъул гӀаламат букӀине бегьула, ва гьелъул бицине тохтурасухъе ине бегьула.
+- **Гьезие гӀицӀго бокьун гьечӀо.** КӀудиял гӀадамазе «гьечӀо» абизе ихтияр буго.
 
-## What should I try when they say no?
+## «ГьечӀо» абураб мехалъ щиб гьабизе бегьулеб?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Инкар сабурго къабул гьабе, хадуб цо жо хисе: заман, хӀалтӀи, захӀматлъи ялъуни цӀодорлъи гьабулеб къагӀида.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Гьанжеялде таваккал гьабе.** «ЛъикӀ буго. Хадуб хӀалбихьила». Хадуб ракӀ къварид гьабичӀого цогидаб жоялде руссинабе.
+2. **Хадуб цӀидасан хӀалбихьизе.** Alzheimer's Association идараялъ маслигьат кьола хадуб ялъуни къоялъул батӀияб заманалда цӀидасан хӀалбихьизе.
+3. **ХӀалтӀи дагь гьабе.** ТӀолабго хӀаялъул бакӀалда цо сурат батӀа гьаби. ТӀолабго чурараб ретӀел бугеб къутиялъул бакӀалда цо гъабу. Дагьал суратал, дагьал къагӀидаби, суратал рагьун рукӀине тей.
+4. **КӀиго хӀалтӀудасан цояб бищизе кье.** «ХӀанчӀазул суратазде балагьизе бокьулищ яги бакъан гуркӀизе бокьулищ?» Бищизе ихтияр кьеялъ хӀал контролалда бугин абураб хӀас кьола.
+5. **ХӀалтӀи тӀобитӀизе тӀалаб гьабиялдаса кумек гьаре.** «Гьал ратӀа гьаризе кумек гьариларорищ?» ялъуни «Кинаб кьер берцинаб бугевали абиларорищ?» Кумек хӀажалъиялъул хӀас имтихан кьолеб хӀалалдаса кӀудияб батӀалъи буго.
+6. **Нужго байбихьизе.** Гьезда цӀехачӀого нужго гьезул аскӀове чӀун ишалде тӀамизе. ГӀемерисел гӀадамал иш байбихьун хадуб цадахъ лъугьуна, цадахъ лъугьинчӀониги, нужеца цадахъ заман гӀумруялъе гӀадин бана.
+7. **Черхалъулаб яги сабураб ишалде руссинабизе.** Къокъаб къватӀиве вакки, бакъан, дагьаб квани, ретӀел тӀаде бесси ялъуни цадахъаб [сабураб хӀухьел цӀай](/games/calm-breathing/). NIA идараялъ маслигьат кьола кӀвар бакъаналде, тӀехьалде яги къватӀиве ваккиялде буссинабизе.
+8. **Гьезие бокьараб къагӀидаялда гьабизе тезе.** Гьезие къануназда рекъон гуреб батӀияб къагӀидаялда хӀай гьабизе бокьани, гьеб къабул гьабе. Alzheimer's Association идараялъ гьеб ишалда тавакъалуяб хӀал букӀине маслигьат кьола.
 
-## What should I say when they get frustrated?
+## РакӀ хвараб мехалъ щиб абизе кколеб?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Сабурлъа, гьаракь гӀодоб лъе ва сабурлъизабе. [Alzheimer's Association идараялъул ракӀ хвеялда хурхараб маслигьат](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) буго нахъе къазе ва изну гьаризе, сабурал ва ракӀ бохулел рагӀаби абизе, ва кӀиго хӀалтӀудасан цояб бищизе кьезе. Гьединаб рухӀалда ругел рагӀаби:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Дида бичӀула, гьаб захӀматаб жо буго. ЧӀозе гьабизин».
+- «Дуца кинабго лъикӀ гьабулеб буго. Дур аскӀов йиго/вуго дун».
+- «Цогидаб жоялъе кумек гьабизе заман букӀинарищ дур?»
+- «Гьелъул бакӀалда цо чашка чай гьекъезе бокьинарищ?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Хадуб кӀвар цӀикӀкӀинабичӀого хӀалтӀи лъугӀизабе. Нижер [хабар бициналъул маслигьатал](/caregiving/communication-tips/) бутӀаялда цогидал мисалал руго.
 
-## What should I avoid?
+## Щиб гьабизе бегьулареб?
 
-Some natural reactions tend to make things worse.
+Цо-цо гӀадатаб хӀалалъ захӀматлъи цӀикӀкӀинабула.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **ДагӀба базе ялъуни тӀалаб гьабизе.** «Гьанжеги цояб гьабе» ялъуни «Дуе гьаб бокьулаан гури» абурал рагӀабаз гӀемерисеб мехалъ кумек гьабуларо.
+- **Имтихан кьезе яги къагӀида бихьизабизе.** «Дуда лъала гури гьаб щиб бугевали» ялъуни «Гуро, гьаб мекъи буго» абурал рагӀабаз къварилъи цӀикӀкӀинабула.
+- **Нужедего хурхинабизе.** NIA идараялъ кӀвар кколезе ракӀалде щвезабула хасият чияс гуреб, унтиялъ хисизабулеб букӀин.
+- **ГӀодове вичӀингутӀи яги хехлъи.** Alzheimer's Association идараялъ маслигьат кьола гьаракь борхичӀого рукӀине, хӀинкъи бихьизабичӀого, гӀагаралде къачӀого, къуват хӀалтӀизабичӀого, какичӀого, гӀинтӀамичӀого яги дагӀба бачӀого рукӀине, ва гьезие бихьулареб рахъалда хабар лъачӀого багъаричӀого букӀине.
+- **ГӀайиб чӀвазе.** «Дица гьаб кинабго дуе гӀоло гьабуна» абурал рагӀабаз кӀиязулго ракӀ хвезабула.
+- **КъагӀидаби лъезе.** «ЧӀалгӀаяв» яги «захӀматав» абурал рагӀабаз хӀакъикъияб гӀилла бахчула ва масъала къабул гьабизе захӀмалъизабула.
 
-## How can I find out what is behind repeated refusals?
+## Гьоркьоб къотӀичӀого инкар гьабиялъе гӀилла кин лъазе бегьулеб?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Цо ялъуни кӀиго анкьица бигьаяб тептер хӀалтӀизабе. NIA идараялъ бицухъе, хасияталъул хиса-баси хъван теялъ кӀвар кколезе ва тохтурзабазе гӀилла ва къагӀида бичӀизе кумек гьабизе бегьула.
 
-Jot down:
+Хъван те:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- къоялъул заман;
+- нужеца щиб цебе лъурараб ва кин гьарураб;
+- сверухълъиялда щиб букӀараб (шовгъат, гьоболзаби, телевизор);
+- кин кьижарав, кин квен-тӀех гьабураб, ва кида ахирисеб нухалъ халичаялде арав;
+- цӀиял дармал ялъуни гьанжесел унтаби.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+КъагӀидаби гӀемерисеб мехалъ хехго баянлъула: инкар гьаби гӀицӀго 16:00 заманалдаса хадуб букӀин, гӀицӀго цо хӀаялда хурхун, ялъуни телевизор хӀалтӀулеб мехалъ. Family Caregiver Alliance идараялъул [деменция бугел гӀадамазул хасияталъул маслигьатал](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) тӀехьалда бигьаго хъван буго: нилъеда чи хисизе кӀоларо, амма нилъерго хасият ва сверухълъи хисизе кӀола.
 
-## When should I talk to a doctor about refusal or frustration?
+## Инкар гьабиялъул ялъуни ракӀ хвеялъул хӀасалда тохтурасухъе кида ине кколеб?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Хасият хабар лъачӀого, хехго ялъуни унтиялъул гӀаламатазда цадахъ хисани, тохтурасухъе абизе ккола. NIA идараялъ бицухъе, хасияталъул хабар лъачӀого ялъуни хехго хиса-баси, хасго унти ккун хадуб ялъуни дармал хисун хадуб, хехго тохтурасе лъазабизе ккола.
 
-Contact their doctor promptly if you notice:
+Хехго тохтурасухъе ахӀе, нужеда гьал рихьани:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- чанго сагӀаталда ялъуни къоялда жаниб хабар лъачӀого бичӀунгутӀи яги кӀудияб хиса-баси;
+- унтиялъул гӀаламатал, масала, берал цӀай, черхалъул цо бутӀа цӀуни, яги багъаризе цӀияб захӀматлъи;
+- гӀуцӀари ялъуни цогидал унтиялъул гӀаламатал;
+- цӀиял ялъуни хисарал дармал цӀалаго хасият хиси;
+- кӀиго анкьидаса цӀикӀкӀун мехалъ кинабниги жоялдаса марххалил къотӀи, магӀу чвахи ялъуни жиндиего гӀоло чӀей;
+- квен-тӀехалдаса яги гьекъолеб жоялдаса инкар гьаби.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association идараялъ маслигьат кьола хасияталъул гӀаламатал ругез, хасго гьел хабар лъачӀого баккани, тохтурзабазухъ тӀолабго сахлъи хал гьабизе. Family Caregiver Alliance идараялъги маслигьат кьола тӀоцебе тохтурасухъе ине, щай гурелъул хасияталъул захӀматлъабазул медицинаялъулаб гӀилла букӀине бегьула. Тохтурасухъ ялъуни фармацефтасухъ маслигьат гьабичӀого щибниги дару байбихьизе, чӀезабизе ялъуни хисизе бегьуларо.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Чи хӀинкъиялда вугони ялъуни тохтурзабазул хехаб кумек хӀажатаб хӀал баккани, 112 телефоналде ахӀе. NIA идараялъ маслигьат кьола диспетчерасе чиясул деменция букӀин бицине.
 
-## Is it okay if we do nothing at all?
+## Щибниги гьабичӀого тени бегьулищ?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Бегьула. Цо-цо къоялъ бищун лъикӀаб иш букӀуна щибниги гьабичӀого букӀин: цадахъ гӀодор чӀей, кверал ккун чӀей, рокьияб бакъаналде гӀинтӀами, ялъуни гордухъан хӀанчӀазде балагьун чӀей. Гьеб бергьинчӀолъи гуро. Нижер [цадахъ хӀаялъул маслигьатал](/caregiving/how-to-play-together/) тӀехьалда бицун буго щай ишалде цебе чӀовун лъугӀизаби ялъуни байбихьичӀого тей битӀараб хӀукмулъун букӀине бегьулебали.

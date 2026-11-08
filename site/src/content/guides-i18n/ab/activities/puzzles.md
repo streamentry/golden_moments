@@ -1,32 +1,32 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Адеменциа зцу рзы апазлқәа: асахьақәа, ажәақәа, онлаин"
+seoTitle: "Адеменциа зцу рзы апазлқәа: асахьақәеи ажәақәеи"
+description: "Адеменциа зцу рзы апазлқәа шьаҭакра: ахәҭақәа рышәгаа, асахьақәа, еицыҟаҵара, уадаҩхазар марианы аҟаҵара."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Адеменциа зцу ауаҩы изы зегь реиҳа ибзиоу пазлуп маҷк ихылаԥшны
+  ихыркәшаша, агәырӷьара изаазго. Еиҳа имаҷу, идуу ахәҭақәеи еилкаау
+  асахьеи змоу апазлқәа алышәх, аҵәцақәа раԥхьа еилышәкаа. Ажәақәа
+  рыԥшаареи акросвордқәеи шьоура дула еиҳа ибзиоуп. Ԥшь-хәҭак змоу
+  онлаин-пазлқәа абжьаратә ҩаӡара иақәшәоит. Агәырӷьара шамоу аанкылатәуп.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Аҩаӡара ахьӡ ала акәымкәа, ишыцо ала алышәх: апазл уадаҩхазар, еиҳа имаҷу ахәҭақәа зцу шәажәа."
+  - "Идуу, иӷәӷәоу ахәҭақәеи ииашоу аԥштәқәеи змоу асахьа хәыҷқәеи жәҩан дуи раасҭа еиҳа имариоуп."
+  - "Асахьа дуқәа рзы иҟазароуп: абаҳчақәа, аҩныҵҟа, амашьынақәа, аԥстәқәа, анимациақәа акәымкәа."
+  - "Ахадара заҵәы — еицыҟаҵароуп. Ахәҭақәа шәырҭа, аҵәцақәа еилышәкаа, асахьа шәаԥхьа иҟашәҵа."
+  - "Шьоура ду змоу ажәаԥшаареи 4 ма 9 хәҭак змоу онлаин-пазлқәеи ари асаит аҟны ахәдароуп."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Адеменциа зцу ауаҩы изы апазл шаҟа хәҭа змоу еиҳа ибзиоузеи?"
+    a: "Абра ииашоу хыԥхьаӡарак ыҟаӡам. Раԥхьа 1 000 хәҭа змаз пазлқәа еидызкылоз ауаҩы иалагамҭазы шәкык зцугьы игәаԥхар алшоит, даҽа ӡәыр изы жәаҩа раҟара хәҭа дуқәа еиҳа ибзиоуп. Апазл аус аҩыза иҟалазар ма агәаҟра заазгозар, еиҳа имаҷу ахәҭақәа зцу шәалага. Ҳасаит аҟны иҟоу онлаин-сахьапазл 4 ма 9 хәҭа змоуп."
+  - q: "Апазлқәа адеменциа зцу рзы ибзиоума?"
+    a: "Аӡәырҩы иргәаԥхоит, убри аҵара иалахәыз еиҳарак. Апазл анапқәа аус рнаҭоит, еилкаау хықәкы наҭоит, асахьа атәы аҳәара аамҭа аҭоит. Апазл адеменциа ахәышәтәра ма аанкылара ишацхраауа шьақәырӷәӷәаӡам, убри аҟынтә агәырӷьареи еицаамҭартәреи рзы алышәх."
+  - q: "Ауаҩы апазл еидызкылом ҳәа анаҟала, иҟаҵатәузеи?"
+    a: "Еиҳа имарианы ишәҵа, шәара еиҳа усура шәнапы иаала: хәҭа-хәҭала ирҭа, ма аҵыхәтәантәи маҷк рызгәашәҭ. 4 хәҭак змоу онлаин-пазл шәажәа, аԥштәқәа рыла еилышәкаа, ма хыркәшоу асахьа еицышәхьаԥш."
+  - q: "Акросвордқәеи ажәаԥшаареи адеменциа иақәшәоума?"
+    a: "Иалагамҭатәи аҩаӡарақәа рҟны, шьоура дула иҟазар, иақәшәар алшоит. Ажәақәа ҩадантә ҵаҟеи арӷьарахьтә армарахьеи реиԥш иҟоу еиҳа имариоуп. Ажәақәа бжьыҭны шәаԥхьа, еицышәԥшаа."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +45,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Астол аҟны ишьҭоу апазл — зегь реиҳа имариоу еицыхәмарроуп. Жәаҳәада еицышәтәар алшоит, асахьа ахцәажәаразы амзыз шәнаҭоит, аҵыхәтәантәи ахәҭа аҭыԥ ианықәшәо агәырӷьара шәзаагоит. Аха адеменциа аҽанаԥсахуа, апазлқәагьы аԥсахра рыҭахуп. Иуадаҩу апазл ҭынч ахылҵ дудаҩраны иҟанаҵар алшоит. Ари адаҟьа аҟны шәара ишәбап асахьақәа, ажәақәа, онлаин-пазлқәа шьаҭакра шылшо, иара убас уадаҩхазар иҟаҵатәу.
 
-## Are puzzles good for people with dementia?
+## Ибзиоума апазлқәа адеменциа зцу рзы?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Аӡәырҩы иргәаԥхоит, убри аҵара иалахәыз еиҳарак. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ажәаԥшаара, акартқәа, астолтә хәмаррақәа раԥхьатәи аҩаӡара иахәҭоуп ҳәа иацәажәоит, [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) апланшет аҟны онлаин-пазлқәа алахәхаразы ҭыԥ бзиоуп ҳәа иҳәоит.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Апазлқәа хәышәтәраӡам. Апазл адеменциа ааннакылоит ма еиҳа имаҷнаҵоит ҳәа шьақәырӷәӷәаӡам; ҳара ҳстатиа [хшыҩтә хәмаррақәеи адеменциеи](/brain-health/brain-games/) аҟны ари аҭҵаара иахцәажәоит. Апазл аҵакы — еицыҟазаареи агәырӷьареи роуп. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ишаҳәо еиԥш: агәырӷьара шәахшыҩ азышьҭ, аихьӡарақәа ракәымкәа.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Ишԥалышәхуа адеменциа зцу ауаҩы изы апазл?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Аҩаӡара ахьӡ ала акәымкәа, ауаҩы игәаԥхои аҵыхәтәантәи апазл шыцози шәахшыҩ азышьҭ.
 
-### Number of pieces
+### Ахәҭақәа рхыԥхьаӡара
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ииашоу хыԥхьаӡарак ыҟаӡам. Апазлқәа бзиа избоз ауаҩы иалагамҭазы шәкык зцугьы еидызкылар алшоит, даҽа ӡәыр жәаба-жәаҩа раҟара еиҳа ибзиоуп. Мариоу аԥҟара: аҵыхәтәантәи апазл уадаҩхазар, еиҳа имаҷу хәҭақәа зцу шәалага. Имарданы ихыркәшазар, маҷк еизҳартә еиԥш шәажәа.
 
-### Piece size and feel
+### Ахәҭақәа рышәгааи рҟазшьеи
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Идуу ахәҭақәа** еиҳа иубарҭоуп, анапала агара мариоуп.
+- **Иҭәу, иӷәӷәоу ахәҭақәа** ҭыԥ иқәнаӡоит, икаҳазар угьы имарԥхоит.
+- **Ижәлаӡам ахәҭақәа** алампақәеи аԥенџьырқәеи рлашара акәымкәа еиҳа ибзианы убарҭоуп.
+- **Ихәыҷӡоу ахәҭақәа шәрацәахьа**, адеменциа иахҟьаны ауаҩы ахәҭақәа аҵәцахь инаигар ҟалоит.
 
-### The picture
+### Асахьа
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Адуцәа рзы атемақәа.** Абаҳчақәа, аҩныҵҟа, амашьынақәа, аԥстәқәа, амшын аҿықә, абзиабаратә спорт. Асахьа хәыҷқәа акәымкәа.
+- **Еилкаау аԥштәқәа.** Иҟаԥшьу аҩны, ииаҵәоу аӷба, ииаҵәоу адаҟьа — жәҩан ду зцу раасҭа еиҳа имариоуп.
+- **Идыруа, рхатәы тема.** Рнырра ҭыԥ ма рхәмарра асахьа ахцәажәаразы амзыз шәнаҭоит. Аҭаацәаратә фото апазлны иҟаҵар алшоит.
 
-## How do you do a puzzle together?
+## Ишԥаеицыҟаҵалатәу апазл?
 
-Set it up so the person can get straight to the enjoyable part.
+Ауаҩы даҽакала дахшыҩзышьҭрада агәырӷьара иоурц азы шәахьыӡа.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **ҭыԥ бзиа алышәх.** Ибзиоу алашара, анапы хҭарҭа зцу акьандала, астол.
+2. **Апазл акәробка асахьа** еицышәбарҭоу ҭыԥ шәаԥхьа иқәыргыл.
+3. **Ахәҭақәа зегьы хыхь ирханы** ишьҭашәҵа.
+4. **Аҵәцақәа раԥхьа еилышәкаа**, ма аҵәца шәара еидышәкыла, агәҭа рызгәашәҭ.
+5. **Аԥштәқәа рыла** ахәҭақәа ҭагалара ҷыдақәа рахь шәырҭа.
+6. **Хәҭа-хәҭала ирҭа**, рацәахар: «Ари аҩны ахәҭа акәхоит».
+7. **Асахьа ахцәажәа**, ахыркәшара акәымкәа: «Саб иӷба еиԥшуп».
+8. **Иаанрыжьцыла.** Хымԥада убри аҽны ахыркәшара аҭахӡам.
+9. **Агәырӷьара шамоу аанкылатәуп**, ахәҭа аҭыԥ ианықәшәо.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ишаҳәо еиԥш, ауаҩы иалагамҭазы шәацхраа, агәаҟра шәахшыҩ азышьҭ, игәаԥхозар дахәаԥшуа убас даанрыжь. Шәара шәхәҭақәа ишәыргыло дахәаԥшуа, аҭыԥ ахьыҟоу дшарбогьы — алахәхароуп.
 
-## Easy online puzzles
+## Онлаин-пазл мариақәа
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Апланшет пазл хазы хәарҭарақәа амоуп: ахәҭақәа ӡӡом, аекран идуу асахьақәа амоуп, астол арыцқьара аҭахӡам.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Ҳасаит аҟны иҟоу ахәдаратә [Picture puzzle](/games/picture-puzzle/) асахьа 4 ма 9 хәҭаны иршахоит. Ҩ-хәҭак шәаҿаԥсахуа, асахьа еидышәкылоит. Ихыркәшоу асахьа аекран аҟны ишыҟоу аамҭа амам, шәахьҭаху аан шәаанкылар алшоит. 4 хәҭак змоу пазл абжьаратә ҩаӡара иақәшәоит.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Еиҳагьы имариоу ахәмаррақәа рзы, [Find the same](/games/find-the-same/) шәажәа, уаҟны хыхь иҟоу асахьа еиԥшу шәаԥшаауеит, ма [Sort together](/games/sort-together/), уаҟны асахьақәа абаҳча ма аҩныҵҟа ирхыԥхьаӡалоит.
 
-## Word puzzles: word searches and crosswords
+## Ажәапазлқәа: ажәақәа рыԥшаареи акросвордқәеи
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Ажәапазлқәа ажәақәа бзиа избоз рзы ибзиоуп, еиҳарак адеменциа иалагамҭазы.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Шьоура ду змоу ажәаԥшаара.** Ҳасаит аҟны иҟоу [Word search](/games/word-search/) шьоура дула иҩуп, маҷк ажәақәа амоуп, ҩадантә ҵаҟеи арӷьарахьтә армарахьеи реиԥш ицоит. Аекран аҟны шәахәмар ма икьыԥхьтәуп.
+- **Ажәақәа бжьыҭны шәаԥхьа.** Аӡәы ажәа даԥхьар, даҽа ӡәы диԥшаауеит. Раԥхьатәи анбан аҿакра маҷуп.
+- **Шьоура ду змоу акросвордқәа** раԥхьатәи аҩаӡара иақәшәар алшоит. Азҵаарақәа бжьыҭны шәаԥхьа, акъалам еицышәкыла, аҭакқәа еицышәҩы.
+- **Ажәақәа шәырхцәажәа.** «Абаҳча» ҳәа ажәа аҳаҭламақәа рзы жәа-минуттә хцәажәара хылҵыр алшоит.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Еиҳаны ақаӷьтә хәмаррақәеи ирызку амҩақәеи шәаԥхьарц шәҭахзар, [free printable dementia activities](/activities/printable/) шәахәаԥш.
 
-## Which puzzles suit each stage?
+## Иарбан пазлқәоу аҩаӡарақәа ирықәшәо?
 
-Stages overlap, and good and hard days are normal.
+Аҩаӡарақәа еилоуп, амш бзиақәеи амш уадаҩқәеи аҟазаара ҟалоит.
 
-| Stage | Puzzles that often fit | Your role |
+| Аҩаӡара | Иақәшәо апазлқәа | Шәара шәхылаԥшра |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Раԥхьатәи | Идыруа апазлқәа еиҳа имаҷу ахәҭақәа рыла, шьоура ду змоу акросвордқәеи ажәаԥшаареи, 9 хәҭак змоу онлаин-пазлқәа | Апартниор: хаҭала ирылырх, дшаҳәо ала шәацхраа |
+| Абжьаратәи | Жәаҩа раҟара хәҭа дуқәа зцу апазлқәа, 4 хәҭак змоу онлаин-пазлқәа, еицыԥхьаӡоу ажәаԥшаара | Еиҿкаара, ахәҭақәа реилыкаара, хәҭа-хәҭала арҭара |
+| Аҵыхәтәантәи | Ихыркәшоу асахьа еицыхәаԥшра, Find the same ҩ-сахьак рыла, маҷк ахәҭа дуқәа анапала агара | Шәара шәхаҭа шәырзаага; шәара шәахьыҟоу заҵәык хәмарроуп |
 
-## When should you make a puzzle easier, or stop?
+## Ианбааԥсахлатәу апазл марианы, ма иананкылатәу?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Ауаҩы дахьыԥсыҭуа, ахәҭақәа шьаҿаицаҟьауа, «сылмшоит» ҳәа ишаҳәо шәахшыҩ азышьҭ. Урҭ аԥсахрақәа рдыргоуп, амчла аҟаҵара аҭахӡам.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Еиҳа имаҷны ишәҵа.** Ахәҭақәа маҷ шәырҭа, ма аҵыхәтәантәи маҷк рызгәашәҭ.
+- **Шәара еиҳа усура шәнапы иаала**, дара имариоу ахәҭақәа рыла шәацышәҵа.
+- **Еиҳа имариоу ахь шәахыс:** аԥштәқәа рыла ахәҭақәа реилыкаара, 4 хәҭак змоу онлаин-пазл, ма [coloring](/games/coloring/).
+- **Шәаанкыла.** Иаанрыжьны ача шәжә. Даҽа мшык шәалагар алшоит, ма сахьа шәацәахьар алшоит.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Апазлқәа ауадаҩрақәа шәгәаланаршәозар, иаанрыжь. Еицыҟазааразы даҽа мҩа рацәа ыҟоуп; ҳара ҳкаталог [101 activity ideas](/activities/ideas/) шәахәаԥшыр алшоит.

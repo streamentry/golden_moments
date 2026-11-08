@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Alzheimer Biyok le Marah Abtooti kee Koocitte"
+seoTitle: "Alzheimer Abtooti kee Koocitte: Daqaarak Daqaaral"
+description: "Alzheimer biyok le marah daqaarak daqaaral abtooti kee koocitte, suge kas kee gersi aaxagol bicisiyyak, ittalluk kooceenih gexsit le koocitteh afal."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Alzheimer biyok le numuh meqe abtooti kaxxa wakti cabbaamih kassiisal
+  gexxa: dumaak barsimeenik sugen taama, duma heewom, aaxaguk sugen aracaaca
+  kee maaqaddiita. Naharsi uddurul, kaardi, teebil koocitte, caxari biica kee
+  ayyunti fan yawqeenim maaxaguk gexxa. Fanti uddurul, sara xikiyya,
+  baxxaqqiyya, heewom, suwar albuum kee xabcinih tan suwar koocitte abak
+  gexa. Ellecaboh uddurul, muuzika, xagayyu kee ittalluk sugeenim kaxxa
+  baxsa le. Kulli ayro num kinnimih caalatil gexa.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer kas-biyok kaxxa sabab kinni, toysa kas-biyok le marah yaceen abtootih mala kaah kayik takke."
+  - "Qusba aaxag naharat qandele, wadir duma barteen aaxag kee heewom kaxxa wakti raaqa. Woo kas kee aaxagol xisita."
+  - "Daqaarat ittat gacta, meqe ayrooti kee gibdi ayrooti tanim koboxxaaneeh takke. Kulli ayro numu abuu duudam kee leedam xiqah doora."
+  - "Wakti-laabis, xisab kee esseroti male koocitte doora, suwar yambulleemiik raaquh caddoysa."
+  - "Wagitaanam, tinto xagitaanam hinnay ittalluk daffeyaanam inkih qokol kee gaba-kaltok yangalen."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Alzheimer biyok le numuh maane abtooti meqe?"
+    a: "Aaxaguk sugen abtooti dagol xabbacowta: sara xikiyya, maaqo teebil bicisaana, ittalluk caxari biica, muuzika kee heewom, suwar wagitaana, gexaana, buqre abaana kee dacrisaan lacitte luk sugaana. Xabcinih tan suwar koocitte, xabbaciinih tan jiksoo kee walali kaarditte mangoh tan maray meqem takke. Num dumaak leedeemit sugeem doora kaaduk ittalluk kaâ lih aba."
+  - q: "Koocitte Alzheimer biyok le marah meqe miyaa?"
+    a: "Num elle leeda tekkek koocitte ittalluk wakti taturisaanamih meqe gaba-kalto takkem duudda. Alzheimer qidise, wadir kaah ece hinnay gactisenta axceenih tan kooca aneewayuk, leedah tan koocitte doora: kaxxam tan suwar, dago doorit, kaaduk wakti-laabis, hisab hinnay calat qangara male koocitte takko."
+  - q: "Dementia abtooti kee Alzheimer abtootih fanal baxsa tani miyaa?"
+    a: "Mangoh tan tiyal male. Alzheimer biyok dementia kaxxa sabab kinni, tohuk gexxaamah inki abtootih malah gexxa. Alzheimer le marat qokoluk yaniimih gaba kassiisam, dumaak taturteemik qusbam naharat kasik tewqem aaxigaanam kinni, toysa duma barteen aaxag, heewom kee addat gexsit le abtooti xabbacowteh gexta."
+  - q: "Gabate daqaaral yaniimih Alzheimer le num maaneemit leedam duuda?"
+    a: "Kacanu le muuzika, xabbacowta gaba maasaji, xalibih tan tinto xagitaana, kitaab kaah yakriyeeni, dariifal daffeyaanam, kee yaamineen numu luk sugaana. Dagom kee deqsitaamal heela, kaaduk fooli kee qari xagan wagita kaah leedeemit tanim aaxaguk."
+  - q: "Alzheimer biyok le num abto leeduh mannaah xiqeeyo?"
+    a: "Abto yaabisaanamik gaba-kalto esseraana, naharat inkih tanim bicsaana, kaaduk isin qimbisaana usuk koo katayuh. Ayro wakti usuk elle meqem doorim kaxxa baxsa gactissa. Male yikkek, wadir gactisa hinnay xabbacoyta doolat kaah eca."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Isin kacanuy dacrissaan num Alzheimer biyok luk yekkek, gersi tiya sissikuk gaba-kaltok tewqeeh gersi tiya raaqtam elle kassiiseenih takkoon. Usuk saaku saacatih tilfoon yaaba hawweenam xiqe, kinnih immay dumaak suge heewot kulli qangara heewisitaanam, foote xikiyaanam dumaak sugen innal, hinnay kaarditte fantaqisaanam kas maleh duudam xiqe. Meqe abtooti woo raaqta aaxagol xisinta. Ta warqe sabab baxxaqisa, tohuk lakal daqaarak daqaaral meqe mala kee ta saytil yaniimih gexsit le koocitte kaah meqem tayse.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Abtootil gactek Alzheimer biyok dementia-k baxsa lee?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Mangoh male. Dementia kaxxa migaq kinni, kaaduk Alzheimer biyok kay kaxxa sababa: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) iyye innal dementia koboxxik 60 ilookah 80 takkem kaah gacta. Dementia abtootil yunkuttubeemik mangom Alzheimer biyok le marah taamita, nanu le [101 abtootih mala](/activities/ideas/) kay addat yaniimik.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Aaxaguk meqem korraaqitih gexsit kinni. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) baxxaqisa innal Alzheimer naharat samat kas le arooca baysa, tohuk lakal af yaaba, firsan kee ayyuntih dadal qandellisa. Alzheimer's Association iyye innal naharsi koboxxiyya qusba aaxag kassiisiyyaah tan qandelli kinni. Kulli num baxsa le, mangom maray kal-sabaat le yani, kinnih immay ta gexsit taamittaamih daddal yaaxege.
 
-## What kinds of activities suit Alzheimer's best?
+## Maane cindih tan abtooti Alzheimer-h meqe?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Duma barteen aaxag kee kassit le abtooti, qusba aaxag baritaanaah kasat heelaanam essertaabik xabbacowtak gexta.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Duma barteen aaxag.** Alzheimer's Association baxxaqisa innal num duma sanootak suge biyaano heewom heewisiyyaanam duuda. Rifu abiyya, caxa qambisaana, kaardi fantaqisaana, doro xikiyya kee sara xikiyya inki inna.
+- **Duma heewom kee aaxaguk sugen muuzika.** Mangoh tan mari duma saami sanootak suge heewom, diini heewom kee aroocah heewom kulli qangara aaxaguk raaqa. Wagita [muuzika abtooti](/activities/music/).
+- **Kulli ayroh sabab le taama.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sahnik kaalican, teebil bicsan, kalasi baxxan kee sara xikan abtootik num elle leedam duudamik heele. Taamat gaba kaltam baxsa le.
+- **Aaxagiyya kasik kassiisaanamik tayse.** Suwarik inki inna tannim yambulleem kasik migaq eceenik xabbacowta. Tohuk gexxaamah inkih tan suwar yambulle koocitte esserotik tayse.
+- **Maaqaddiita.** Xagan, sugu, iiba, tamak kee qango af yaaba qandellitamuk wadir kaxxa nafqi leeh raaqta. Wagita [maaqaddiitah abtooti](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Qandeleemik gextam: saacatak yaniim inkih, qusba madqooqi baritaanam, mangoh tan gexsiit kassiisaana, hinnay kas esserta esserooti, ceelalloh "Ta num aaxagtaa?" axceenim. Toh Alzheimer qandelli afat gactissa.
 
-## Activities for early-stage Alzheimer's
+## Naharsi daqaaral Alzheimer-h abtooti
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Naharsi daqaaral, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) iyya innal num mootor korsaanaah, taamitanaah ayyuntih abtootil gaba kaltam xiqe, kinnih immay aaxaguk sugen qangara hinnay buuti elle yaniin arooca hawweenam ceelo kas-daggo yambulle. Tayse gaba-kalto ittalluk taamitaanam kinni: usuk abuu faxam kee maane gaba-kalto faxam essera.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Duma leedeen abtooti gaba-kala.** Golf, bridji, rifu, heewisiyya kee misgiid/kallactoh buttaata, dagom baxsa gactisaanaah dagom tan buttaata kee deqsita waktiyaal aba.
+2. **Aaxaguk sugen kaardi kee teebil koocitte kooca.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) essero-gaba, qangara gurrus, kaardi koocitte kee teebil koocitte naharsi daqaarah heele. Buttat kooceena hisab qandellisa tekkek, hinnay hisab inkih caba.
+3. **Ittalluk caxari biica.** Kasik aaxagen caxari biica usun aboonay isin gexsiiti yakriyoonu waytaana.
+4. **Mano-baxaabaxso daabac qimbisa.** Suwar, caxari xiso kee warari usun dooran kitaabal. Wagita [kassit abtooti](/activities/reminiscence/).
+5. **Dariifal yawqoonu.** Leedan maaqo qar deqsita saacatal, kutub-qar dagom gexak, kobox-aracal gexaana.
+6. **Usun dooran xisaabittitte wagita.** Kaxxam tan qangara-fantaq, qangara gurrus kee jiksoo. Wagita [dementia xisaabittitte](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Gersi mala: [naharsi daqaaral abtooti](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Fanti daqaaral Alzheimer-h abtooti
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association fanti daqaar dumaak kaxxam dheer daqaarah baxxaqisa, mangi sanoota gexam duudam iyya. Qangara fantaqowta, xibbi sissikuk yamaate, kaaduk num kaxxa dacris faxa. Alzheimer's Foundation of America iyya innal mangoh tan mara abtooti qimbisaanam hinnay elle sugaanamih gaba-kalto faxa. Ku dooli bicsiyyah gaca, baxxaqisaanamik suwarisiyyal, kaaduk qandeleemih gaba kaltaanamal gaca.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Xika, baxxisa kee inki inna heela.** Foote, kalasi, teebil qandoodi, buttun kullaalal. Numma taama, itta caxalkat abtaana.
+2. **Heewisita kee muuzikal rufta.** Gaba koca, ruftita hinnay caxari qaral koda. Isin heewot qimbisaay usuk koo katayuh caba.
+3. **Suwar albuum wagita.** Yambulleem warisaay wararah meceela: "Makina kaxxam meqeeh. Kay warar yiih waris." Elle iyyan migaaqay faxem cata.
+4. **Xabcinih tan suwar koocitte kooca.** [Picture pairs](/games/picture-pairs/) aferek leye teebil leeh suwar tambulleeh raaqta, hinnay [Find the same](/games/find-the-same/) lammaak sidoo doorit luk.
+5. **Aaxaguk sugen hebeltoomi gactisa.** "Akkah meqem..." Duma barteen maxcooti sissikuk tamaate. Wagita [Finish the saying](/games/finish-the-saying/), inki xagaytuy ellecaboh yaaba elle taybullu duuddaanal.
+6. **Buqre lee kaalicaay dacrisa.** Qari addat tan buqre hinnay fayya le aracal, cindiyya le barmiilil.
+7. **Keddo suwarak inki inna kooca bicsa.** [Photo pairs](/games/photo-pairs/) ku meqet dooram suwar taamitisa, kaaduk ku meqek ma yawqa.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Gersi mala: [fanti daqaaral abtooti](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Gabate daqaaral Alzheimer-h abtooti
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Gabate daqaaral, Alzheimer's Association iyya innal mari dariifih gacsa aceenim kee walal gexisaanamih xiqtam wayta, kinnih immay qangaraaraaxag axceenim xiqaanay. Abto ta uddurul leeda kee itta caxalka axci kinni, num elle yewqe aroocal baahaana.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Kacanu le muuzika heewisa** deqsitaamal, tilfizyoon kaat gace kalal.
+2. **Gaba maasaji aba** kacanu le sugu le zeytil.
+3. **Xalibih tan tinto kaah eca:** iiba le foote, suuf, xalibih tan xeer.
+4. **Qangor fayya hayak yakriya** diini yaaba, heewom hinnay aaxaguk sugen warari. Kay qangot korraaqiyya kaxxa baxsa le kay yaabik.
+5. **Dariifal daffeya** caalat addat, hinnay dukaankal kimbrooti wagitaanal.
+6. **Inki kaxxa suwar ittalluk wagita.** Ayu-bullo hinnay kuta taablet fanteena kibbaamah, isin yambulleem warisak.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Gersi mala: [gabate daqaaral abtooti](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Maane koocitte Alzheimer le numuh taamitta?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Kallan waytan koocitte doora. Ta saytil yaniimih kulli kooca gexsit maleh kinni, browser addat gexa kaaduk wakti-laabis, hisab hinnay koboxxaane maleh kinni.
 
-| Game | What you do | Often suits |
+| Kooca | Isin abtaanam | Mangi tiyal elle meqe |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Kaxxam tan suwar inki inna heela; yambulleeniik raaqtam duudan | Naharsi kee fanti daqaar |
+| [Find the same](/games/find-the-same/) | Fayyal tan suwarak inki inna tannim xaga | Fanti kee gabate daqaar, qokol luk |
+| [Finish the saying](/games/finish-the-saying/) | Aaxaguk sugen maxcok ellecaboh qangara doora, hinnay taybulluya | Naharsi kee fanti daqaar |
+| [Picture puzzle](/games/picture-puzzle/) | 4 hinnay 9 mirooti aroocal gacsa, suwar tambulleeh | Naharsi kee fanti daqaar |
+| [Conversation cards](/games/conversation-cards/) | Suwar kee walalah fakkiime yaaba | Kulli daqaar, yaaba num luk |
+| [Photo pairs](/games/photo-pairs/) | Sinam suwarak bicseenih tan inki inna kooca | Naharsi kee fanti daqaar |
+| [Coloring](/games/coloring/) | Kullaal xaga, tohuk lakal suwar garab; hinnay dalka | Kulli daqaar, qokol luk |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Ittalluk mannaah daffeyan, mangom mannaah qokol ecan kee ma wakti caban aaxaguh, yakriya [dementia le num luk mannaah koocan](/caregiving/how-to-play-together/). "Kas koocitte" essertaanaah tekkeenik, wagita [dementia le kaxxa marah kas koocitte](/activities/memory-games/).
 
-## How to make any activity easier
+## Faxe abto mannaah xabbacoysan
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA kas-malay taceem dago gexsitil gacta: abto num abuu duudaamit heela, qimbisuh kaah qokola, xibbi wagitak heela, duudeemih leeda kaah eca, kaaduk leedam tekkeh wagitaanam kaah caba.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Ayrok usun elle meqe saacata doora,** kaaduk uddur cindiyoysa.
+- **Naharat inkih tanim bicsa** sissikuk qimbisoonuh.
+- **Meceela, madqa maleh.** "Gaba yoh kaltaa?" axceenim "Abtooti saaqat yekke" axceenik tayse.
+- **Naharsi gexsit isin aba** kaaduk usuk koo katayuh caba.
+- **Inki waktiyal inki gexsit kee inki doorit eca.**
+- **Kay fanteenal taamitam kaah caba.** Makooti foote meqe.
+- **Leeda tantok caba.** Sissikuk cabaanam meqe gacsa kinni, kallan hinna. Usun male yikkeenik, wagita [dementia le num male yikkey](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) xabbacowtak iyya innal: leedal kas gactisa, duudaanamil hinna.

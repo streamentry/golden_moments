@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Parō-marətiš: Taoxmō-vīdāiti, Gaya-sarō, Patarā-ca"
+seoTitle: "Parō-marətayō Nipātə̄e: An-haxta Pərəsa-manō"
+description: "Yaϑa parō-marətīm hača yim pāhi vi-baxšahe an-haxtāi pərəsanāi: patara-vačō, vīdāiti, gaya-puta, vācā-ca yā rāzayeiti."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Parō-marətiš asti haxədra-hazaŋra parō-ayaranąm hača patarāiš, vastra-vastō,
+  hunsravāiš, gaya-vačāiš-ca. Karšō marəti-vīdāitīm, gaya-sarō-putam, aya-vā
+  patarā hača didāra. Mā pərəsa haxta: tarp-ca «Paiti-xšnāsahe?» vā «Kō asti
+  aēm?» vāiti, aδa frā-vāča «Mraoi mē aētahmi paiti.» Uštatātō haxədra
+  frā-yasnō asti, nōit arša-sāčimna.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Parō-marətiš asti haxədra-vačō, nōit handātō-pərəsa. Arš-dātō nōit asaoza; urvāza asaoza asti."
+  - "Paiti-yāsa «Paiti-xšnāsahe... ?» uta «Kō asti aēm?» ahmāi «Mraoi mē aētahmi azan paiti.»"
+  - "Marəti-vīdāiti hača gaozāiš martiyahē zaste vačō-ca aipi-dārayeiti."
+  - "Gaya-sarō-putam haxadrāi, vaēnəmnāi, nipātāribyas-ca sačayeiti martim vīspō, nōit aēva āzūitīm."
+  - "Yadi marətiš duš-manō baraiti, fradama urvaϑa, aδa namrō vi-cara."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Čiš asti parō-marətiš martiyāi yim pāhi?"
+    a: "Parō-marətiš asti haxədra-marətayō parō-ayaranąm, fradama hača patarāiš, vastra-hizvāiš, hunsravāiš vā daxsma-sraotāiš. Aēva aēvō vā haxədrāi bavaiti. Dātō asti rāma-vačō, nōit pərəsa čiš martō paiti-xšnāsahe."
+  - q: "Čiš-rāzi nōit aipi-pərəsahe «Paiti-xšnāsahe?»"
+    a: "Pərəsanā yā marətīm haxte paiti-tāpāiti martim taoxmō-sādrāi yadi paiti-vačō nōit āyaiti. National Institute on Aging pərəsam «paiti-xšnāsahe čištīm vā narəm» aipi-dāti an-varəzānə̄e. Vaēdaya čiš vaēnahi, dā-ca ahmāi vacō yim vasaiti."
+  - q: "Čiš aipi-ni-daϑāne marəti-vīdāitiya?"
+    a: "Vərəzyata vastrā drafšō-vastō hača martiyahē gayāi: vərəz-dāiti, urvāzō-vastra, tiγri, parō-nāmai, xᵛarəϑō-sāstrā, patarā-ca paiti-kərəte. Mā ni-daϑa tiγrā vastrā, kašvīš yā xvaraiti, vā paoiryā yā maēγayeiti."
+  - q: "Čiš yadi aršō-vačō a-yaϑa mruite?"
+    a: "Rāma dāra. Yadi mātā mraoti patarō svasāi asti yim bratūrō-puϑrī asti, aēva nōit duš-manō. Arš-dāiti vartayeiti rāma-haxədra handātāt pərəsa. Paϑa vačō yim mraoti, uta haxədra urvāzaya."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,82 +45,82 @@ related: [activities/ideas, activities/music, activities/visiting, activities/ph
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Parō-marətiš asti rāma-haxədra hača parō-ayara azan. Martiyāi yim pāhi, marətayō parō-sarədō frāyō spāiti bavanti an-haxta ahmāt yā aētahmi sūirē bavaiti. Patarā, xᵛatō-vastrā, hunsravō uta gaya-sarō marətīm frā-vərəzinti, daϑənti-ca rāma-vačō. Aēvō dātō: asti haxədra-vačō, nōit pərəsa-handātō.
 
-## What is reminiscence, and how is it different from quizzing?
+## Čiš asti parō-marətiš, yaϑa-ca an-haxti pərəsa-handātāt?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Parō-marətiš asti vīdāiti marətə̄e hača patarāiš, daxštāiš, hunsravāiš vā daxsma-sraotāiš, yaϑa martō xᵛa-kāma vasaiti. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mraoti aēte asti vīdāiti parō-vərəz-dātanam uta gayanam hača patarāiš, vastrāiš, hunsravāiš-ca potō-vastra vā daxtō-fravahr. Pərəsa-handātō anyō asti: pərəsa haxtəm paiti-vačō, dāiti-ca a-ramatīm nōit urvāzanam.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) mraoti pərəsam yadi martō paiti-xšnāsahe čištīm vā narəm asti an-varəzānəm. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) aipi-daϑe an-pərəsam yā nū-marəti-dāitīm paiti-zbayata, aδa frā-vača hača parō-ayaranąm.
 
-| Instead of | Try |
+| Taršnō | Varəzaya |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «Paiti-xšnāsahe aētada?» | «Aētada šyātō ayarə didāra. Mraoi mē aētahmi paiti.» |
+| «Kō asti aēm?» | «Aēte asti Rose dūda paiti zrayō. Didāra aēm maodrəm.» |
+| «Čvanto sarəda aēta āha?» | «Aētada didāra purva-nmānam. Yaϑa āha dāra nmāne?» |
+| «Nōit, aēm nōit Bill, aēm Frank asti.» | «Hō frā-šyātō didāra.» |
+| «Aēte paiti-mrōi hakarəm.» | «Urvāzayeiti mē aēm sravō.» |
 
-## How do you talk about photos without quizzing?
+## Yaϑa patarāi fravačahi an-aγaošāi pərəsa?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Fradama vaēdaya čiš vaēnahi, aδa dā raočas martiyāi aipi-vačānə̄e yadi vasaiti.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Āsīsa ahmāi aipi.** Dārayata patarō-potam ahmya aipi, aēva nōit handātō paiti mezō.
+2. **Kərənvata kamna patarā.** Panca vaida-patarā vohu asti hača vīspō vīdāitiyāt. Mazantō, vyāxmanō patarā vohu vərəzyeiti.
+3. **Nāma-dāiti xᵛatō.** «Aētada tūm uta Pitarəm paiti zayō-ayarə» harzahyeiti bāδō.
+4. **Vaēdaya daxsmanąm.** Vastrā, vāšā, xᵛarəϑā, vātā, mānayō. «Čiš vāšō. Spiti-didāra bavaiti.»
+5. **Frā-zbaya, mā āsāraya.** «Mraoi mē hača...» vā «Čiš vaēnahi?» Tūšnīš vohu asti.
+6. **Paϑa hō-kāmam.** Yadi mraoti hača anyahmi dātō, varəzaya ahmya paiti.
+7. **Paiti-stāite urvāzanya.** Ganze potam parō squndatāt.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Patarō-vačānə̄e yā rāsta asti, varəzaya [conversation cards](/games/conversation-cards/). Patarō-nmānayeiti paiti rāma-haxədra gātu, varəzaya [photo pairs](/games/photo-pairs/); patarā yā vicinahi dārayānte aētahmi parō-vaēnāi.
 
-## How do you make a memory box?
+## Yaϑa parō-marəti-viǰānam karənava?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Marəti-vīdāitiš asti gaozō vastranąm hača martiyahē gayāi zašta-gərəptə̄e vačāi-ca.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Vicinata drafšō vīdāitīm** yā buje-vohū asti, yaϑa aspa-vīdāiti vā dāru-vīdāiti.
+2. **Vicinata frasna vā vīspō-haxta.** Vərəz-dāiti, urvāza-dāiti, daxštəm, dasa-sarədō, vā kamna vīspahmāt.
+3. **Hąm-barata pātō-vastrā.** Panca aipi dasa vastrā vohu asti pātə̄e.
+4. **Vərəzyata paiti-kərəte aγaošanam.** Paiti-kərəta patarā nāmayā-ca, pātō dārayata paoiryā.
+5. **Nī-bara vastrā aēva-paiti-aēva.** Dā zašta aēvəm, mraoi aipi, vaēnaya yaϑa vačō caraite.
 
-Ideas to include:
+Daxštā vīdātə̄e:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Vərəz-dāiti:** nāmō-daxštəm, kašvō vərəz-zastəm, vərəzō-vastra, dīvān-potō, parō-bān-daxštəm, xᵛarəϑō-potō.
+- **Nmāna:** xᵛarəϑō-sāstrā zašta-nibišta, nmānō-vastra, tiγri vā urvāzō-banda.
+- **Urvāza:** gōra an-tiγra, spāra, bāzu-yāhī, spandō-baxta.
+- **Daxštō-gātava:** parō-nāmai, zamō-patarō, daxtō-daxštəm, parō-ayarō-potō.
+- **Haxta-puϑra:** paiti-kərəta patarā, drafšō-puϑra-kərəta, zayō-framāna.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Mā ni-daϑa tiγrā vastrā, kašvīš yā nərə xᵛaraite, vā aēte yā sādra barayeiti.
 
-## How do you make a life-story book?
+## Yaϑa gayō-vačō-potam karənava?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Gaya-sarō-potam asti rāma-potō hača patarāiš kamna-vačāiš hača martiyahē gayāi. Asti vaēnana haxədrāi, uta sačayeiti vaēnāi nipātāribyas-ca vīspəm martim.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Vicinata potō-kərəitīm.** Banda hača spāiti-kərəte, patarō-potō, vā daxsma-fravaš paiti daxtō-fravahr.
+2. **Kərənvata bāgayō.** Kašvō-āyu, sāstrō-nmāna, vərəz-dāiti, puϑra-nmāna, nmānō-gātava, dēnā, urvāzō-vastrā, xᵛarəϑō uta hunsravō.
+3. **Ni-daϑa aēva vā duyē patarā yān-paiti** hača mazantō nibištāi: «Mary, 22 sarəda, pātayeiti vərəzəm paiti nmāna-dīvān.»
+4. **Ni-daϑa kāmayō uta parō-dātō.** «Xᵛarayeiti kafəm hača xšīra. Urvāzayeiti ayarō-sraotəm. An-kāmyeiti garəz-daxsma.» Aēta sačayeiti vīspāi nipātayeiti.
+5. **Haxədra dāra martim** yaϑa vasaiti: vicinata patarā, mraoi gaya-sravō, aya-vā dīdidāra.
+6. **Frā-bavaiti dāiti.** Nōit asaoza fraša-bavaiti yān aipi-avō.
 
-## More reminiscence ideas
+## Frāyō manayō parō-marətə̄e
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Sraotayeiti hunsravō yavačō** uta vaēdaya kuϑra nayeiti. Vaēnaya [music activities](/activities/music/).
+- **Didāra nmānō-daxsma vā daxsma-fravaš** hača urvāzō-sarədanąm.
+- **Pakata kašvō-āyu xᵛarəϑəm** uta dā boidīm naye vačō.
+- **Didāra zamō-patarō** nmānō-šōiϑrahē, kərəta vīspā vīϑī.
+- **Zašta-gərəpta parō-dīvānō vā potā** uta vaēdaya arəgō, vastrā, vāšā-ca.
+- **Nibiša gayō-sravō** paiti paiti-vacō-dātu, haxədrāi martiyahē kāma, nmānāi.
+- **Vīdāiti paiti zbayānə̄e.** Dāra aēva patarō paiti daxsma-zbāta; vaēnaya [phone and video calls](/activities/phone-and-video-calls/).
+- **Bara patarō vā vastrō vaēnāi.** Dāti vaēnāi rāma-manō; vaēnaya [visiting](/activities/visiting/).
 
-## What if a memory is painful?
+## Čiš yadi marətiš bərəjaiti duš-manō?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Kamna marətayō barənti sādram, manō-tāpam vā tərəsīm. Yadi martō āzūyeiti, paiti-stā, urvaϑa hō, uta namrō vi-cara anyahmāt vačō vā vərəz-dātō. Mā aipi-pərəsa arš-dātāt čiš bavaiti. Family Caregiver Alliance aipi-daϑe an-vāčīm arš-dātō pərəsanāi, aδa dā paiti-vačō manō yim vaēdayeiti, yā arš asti. Yadi mraoti hača parō-iristāi yaϑa jvanti, dā paiti-vačō manahyā: «Tūm aētahmāt sūra kāmahe. Mraoi mē aipi hača ahmāt.»
 
-## What does the research say?
+## Čiš aipi pərəsatō-viδiš mraoti?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Aēm [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), paiti 22 vī-dāiti uta 1,972 martiyā, vindat yaϑa vərəzyā nōit aēva-dātō, kamnəm, vī-baxštō-ca paiti gātu vā vərəz-kərəitīm. Nōit vindat aγam martiyāi yim pāhi. Mā vaēdayāmahi parō-marətīm yaϑa dāiti rāma-urvāza haxədrō ayaranąm, nōit yaϑa bīšaz-dātō. Frāyō haxədra-vačānə̄e, vaēnaya [communication tips](/caregiving/communication-tips/).

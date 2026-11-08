@@ -1,34 +1,34 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Aktiwiteite vir mense met demensie: 101 eenvoudige idees"
+seoTitle: "101 aktiwiteite vir mense met demensie"
+description: "101 eenvoudige aktiwiteite vir mense met demensie, van handdoeke vou tot musiek en foto's, met raad om elkeen aan te pas soos dinge moeiliker word."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Goeie aktiwiteite vir mense met demensie is bekend, volwasse en maklik om
+  saam te geniet: wasgoed vou, sorteer, kosmaak, musiek, na foto's kyk, stap,
+  tuinmaak, tyd met troeteldiere en eenvoudige speletjies. Kies dinge wat die
+  persoon nog altyd geniet het, neem die moeilike dele oor, en stop wanneer hulle
+  moeg word. Aangename tyd saam maak meer saak as om enigiets klaar te maak.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Begin by die persoon se eie lewe: hul werk, stokperdjies, geloof en gunstelingmusiek is die beste riglyn."
+  - "Maak enige aktiwiteit kleiner soos nodig: minder stappe, minder keuses, en jy doen die moeilike deel."
+  - "Om net te kyk, iets vas te hou of bloot naby te sit, tel alles as deelname."
+  - "Stop of verander van plan as jy moegheid, frustrasie of verveeldheid sien. Om vroeg op te hou is 'n goeie uitkoms."
+  - "Om dit saam te doen maak meer saak as om dit reg te doen."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Watter aktiwiteite is goed vir iemand met demensie?"
+    a: "Bekende aktiwiteite wat die persoon jare lank gedoen het, net 'n bietjie eenvoudiger gemaak: wasgoed vou, tafeldek, kosmaak, musiek, na foto's kyk, stap, tuinmaak en tyd saam met 'n troeteldier. Kies dinge wat volwasse en nuttig voel, en doen dit saam."
+  - q: "Hoe lank moet 'n aktiwiteit duur?"
+    a: "Daar is geen regte tydsduur nie. 'n Paar minute se handdoeke vou kan op een dag heeltemal genoeg wees, en 'n uur in die tuin kan op 'n ander dag maklik voel. Laat die persoon die pas bepaal en hou op terwyl dit nog aangenaam is."
+  - q: "Wat as die persoon weier om aan 'n aktiwiteit deel te neem?"
+    a: "Moenie druk uitoefen nie. 'n Nee kan beteken die taak voel te moeilik, die tydsberekening is verkeerd, of hulle is moeg of ongemaklik. Probeer later weer, bied 'n kleiner weergawe aan, of begin self naby met die taak en nooi hulle om te help."
+  - q: "Is breinspeletjies goed vir mense met demensie?"
+    a: "Speletjies kan 'n aangename manier wees om tyd saam deur te bring, maar geen speletjie het al gewys dat dit demensie behandel, vertraag of stop nie. Kies speletjies sonder 'n tydhouer, punte of verkeerde-antwoord-geluide, en beskou dit as 'n gedeelde aktiwiteit, nie 'n toets nie."
+  - q: "Hoe keer ek dat aktiwiteite kinderagtig voel?"
+    a: "Gebruik regte, volwasse materiale: regte handdoeke, regte resepte, volwasse musiek en kunsbenodigdhede, en prente met volwasse temas. Stel take voor as hulp wat jy werklik nodig het, en praat met die persoon soos die volwassene wat hulle is."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Die beste aktiwiteit vir iemand wat met demensie leef, is gewoonlik iets wat hulle reeds weet hoe om te doen, net 'n bietjie eenvoudiger gemaak en gedoen saam met iemand wat hulle vertrou. Hier onder is 101 idees, volgens tipe gegroepeer, elkeen met raad oor hoe om dit op te stel en hoe om dit makliker te maak wanneer dinge moeiliker raak. Jy het nie spesiale toerusting nodig nie, en jy hoef niks klaar te maak nie. 'n Lekker middag kan bloot bestaan uit een mandjie handdoeke en 'n koppie koffie saam.
 
-## How do you choose the right activity?
+## Hoe kies jy die regte aktiwiteit?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Kies volgens die persoon, nie die lys nie: begin by wat hulle nog altyd geniet het en wat hulle vandag met gemak kan doen.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Dink aan hul werk en stokperdjies.** Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) stel voor dat 'n voormalige kantoorwerker dit dalk kan geniet om munte te sorteer of posstukke bymekaar te sit, en 'n tuinier kan van tuinwerk hou.
+- **Let op wat hulle reeds doen.** As jou pa elke oggend sonder dat iemand vra die stoep vee, maak dit deel van die dag.
+- **Beplan rondom beperkings.** Moegheid, sig, gehoor, seer hande en balans maak almal saak.
+- **Hou hul bui dop.** Besige, lawaaierige aktiwiteite pas sommige mense, maar maak ander bang of angstig.
+- **Gee dit 'n doel.** Om servette vir 'n kerkaandete te vou voel meer die moeite werd as 'n oefening ter wille van homself.
 
-### A rough guide by stage
+### 'n Breë gids volgens stadium
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Demensie word dikwels in vroeë, middel- en laat stadiums beskryf. Dit is los riglyne, nie vaste hokkies nie, en baie mense het beter en moeiliker dae; gaan dus volgens wat jy vandag sien. Die [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) volg 'n soortgelyke patroon.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Onderwerp | Vroeë stadium | Middelstadium | Laat stadium |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Wat jy kan opmerk | Meestal onafhanklik; beplanning, nuwe name en besige plekke raak moeiliker | Benodig hulp om te begin en met stappe; woorde kom minder maklik | Benodig hulp met die meeste daaglikse sorg; die sintuie maak die meeste saak |
+| Aktiwiteite wat dikwels pas | Kaarte, bordspeletjies, kosmaak, tuinmaak, joernaal hou, uitstappies, klubs | Wasgoed vou, sorteer, eenvoudige kookstappe, saamsing, fotoalbums, begeleide stappies | Gunstelingmusiek, handmassering, sagte dinge om vas te hou, om na voorlesing te luister, buite sit |
+| Jou rol | Vennoot: vra watter ondersteuning hulle verlang | Sit reg, wys voor, neem die moeilike dele oor | Bring die aktiwiteit na hulle toe; jou geselskap is die aktiwiteit |
+| Nog idees | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Hoe begin jy 'n aktiwiteit met iemand wat demensie het?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Begin klein, begin aan hul sy, en maak dit maklik om ja te sê. Baie mense wil steeds deelneem, maar vind dit moeilik om te beplan of te begin.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Kies hul beste tyd van die dag,** dikwels die oggend.
+2. **Pak alles vooraf uit** sodat julle dadelik kan begin.
+3. **Vra vir hulp, nie vir 'n vertoning nie:** "Kan jy my asseblief 'n hand hiermee gee?"
+4. **Begin dit self.** Vou die eerste handdoek en laat hulle aansluit. Om te wys werk beter as om te verduidelik.
+5. **Bied een stap op 'n slag aan.**
+6. **Neem die moeilikste deel.** Die Alzheimer's Association stel voor dat jy bestanddele self afmeet en dan die lepel aangee om te roer.
+7. **Laat dit op hul manier gedoen word.** Handdoeke wat anders gevou is, is heeltemal reg.
+8. **Stop wanneer dit ophou lekker wees.** Kriewelrigheid, fronsing of "'Ek kan nie'" is tekens om oor te skakel of te rus.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Sien ook [how to play together](/caregiving/how-to-play-together/) en [communication tips](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Alledaagse take by die huis
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Huishoudelike take is bekend en nuttig, wat dit 'n natuurlike beginpunt maak. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lys skottelgoed, tafeldek, vee, pos sorteer en wasgoed vou onder aktiwiteite wat mense kan geniet. Meer in [household tasks](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Vou warm handdoeke.** Gooi 'n mandjie uit die droër op die tafel uit en vou sy aan sy. Later is dit net so waardevol om dit net plat te stryk en op mekaar te pak.
+2. **Paar sokkies bymekaar.** Begin met kleure wat baie verskil. Later is dit heeltemal genoeg om net ligte van donker kleure te skei.
+3. **Dek die tafel.** Gee een soort item op 'n slag aan. Dek self een plek as voorbeeld.
+4. **Was of droog skottelgoed af.** Warm seepwater en breekvaste skottelgoed. Om sittend af te droog is makliker op die bene.
+5. **Vee die tafel af.** Gee 'n klam lap na etes aan. Dit is regte werk vir rustelose hande.
+6. **Sorteer die pos.** Katalogusse en gemorspos in "hou" en "herwin". Hou werklike rekeninge eenkant.
+7. **Knip koepons uit.** Skêre met ronde punte en winkelpamflette. Later werk dit ook om net gunstelingkossies te omkring.
+8. **Sorteer munte.** Sorteer kleingeld in koppies of rol dit in sakkies of houers. Vermy klein voorwerpe as die persoon dinge in die mond steek.
+9. **Vee of stof af.** 'n Ligte besem op die stoep, of 'n stofbesem met 'n lang steel wat vanuit 'n stoel gebruik word.
+10. **Help met maaltye voorberei.** Groente was, blaarslaai breek, roer. Jy hanteer messe en hitte.
+11. **Bak 'n gesinsresep.** Gebruik die reseptekaart in hul eie handskrif as jy dit het. Later kan hulle die proewer wees.
+12. **Doen kantoorwerk.** Vou briewe, sit dit in koeverte en plak seëls op, of skryf die inkopielys saam.
 
-## Music
+## Musiek
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Bekende musiek kan mense bereik selfs wanneer woorde moeilik is. Die [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) stel bekende liedjies voor, sonder advertensies en met die TV af. Sien [music activities](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Bou 'n persoonlike snitlys.** Musiek uit hul tienerjare en twintigs, hul troue, hul kerk en hul kultuur.
+14. **Sing saam.** Begin self sing. Om te neurie of bloot te luister, tel ook.
+15. **Hou die maat.** Klap hande, tik op die knieë of speel op 'n handtrom. Werk sittend en in laat stadiums.
+16. **Dans.** 'n Stadige dansie in die kombuis, of wieg sittend terwyl julle hande vashou.
+17. **Speel 'n hele album.** 'n Gunstelingplaat van begin tot einde, met koffie en niks anders wat aan die gang is nie.
+18. **Praat oor die musiek.** Nooi stories uit, nie feite nie: "Vertel my van die danse waarheen julle gegaan het."
+19. **Kyk na 'n verfilmde musiekblyspel of konsert.** 'n Vertoning waarvan hulle gehou het, maak 'n heerlike aand. Onderbreek enige tyd.
+20. **Speel 'n bekende instrument.** 'n Voormalige pianis kan eenvoudige stukke geniet; later, net 'n paar note saam.
+21. **Luister na lewendige musiek.** 'n Kort gemeenskapskonsert of kooroefening. Sit naby die uitgang.
 
-## Reminiscence: photos, objects and stories
+## Herinneringe: foto's, voorwerpe en stories
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Geniet die verlede saam sonder om dit te toets. Vermy "Onthou jy...?" en "Wie is dit?", en gebruik eerder oop uitnodigings. Sien [reminiscence activities](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Blaai deur 'n fotoalbum.** Sê wat jy sien: "Kyk na daardie rok. Vertel my van hierdie dag." Val in by enige name wat hulle gebruik.
+23. **Maak 'n herinneringskassie.** 'n Skoenboks met items uit hul lewe, soos 'n werkswapen of reseptekaart. Haal items een vir een uit.
+24. **Begin 'n lewensverhaalboek.** 'n Paar foto's per bladsy met byskrifte in groot druk. Dit help nuwe helpers om die persoon te leer ken.
+25. **Gebruik gesprekskaarte.** [Conversation cards](/games/conversation-cards/) koppel 'n prent met 'n oop vraag of gedagte.
+26. **Maak 'n gesinsfotospeletjie.** [Photo pairs](/games/photo-pairs/) verander jou eie foto's in 'n bypasspeletjie.
+27. **Kyk na tuisvideo's of ou TV-programme.** Lewer saam kommentaar eerder as om vrae te vra.
+28. **Hanteer voorwerpe uit hul werkslewe.** 'n Moersleutel, 'n stetoskoop, 'n grootboek. Hande lei dikwels die storie.
+29. **Kook 'n gereg uit hul kinderdae.** Hulle kan roer, proe of bloot saam met jou in die kombuis sit.
+30. **Kyk na 'n kaart van plekke waar hulle gewoon het.** Volg bekende paaie in 'n groot atlas terwyl julle gesels.
 
-## Creative activities
+## Kreatiewe aktiwiteite
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Kuns gaan oor die doen, nie die voltooide stuk nie. Hou materiaal volwasse en veilig. Sien [arts and crafts](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Verf met waterverf.** Dik papier, 'n paar kleure. As dit moeilik is om te begin, lei die eerste hale saam.
+32. **Kleur volwasse ontwerpe in.** Blomme of kwiltpatrone, nie tekenprente nie. Ons [coloring pages](/games/coloring/) werk op die skerm of uitgedruk.
+33. **Maak 'n collage.** Skeur tydskrifprente van tuine, motors of kos uit en plak dit vas. Later is dit genoeg om net prente uit te kies.
+34. **Rangskik blomme.** 'n Bos blomme van die winkel en 'n vaas. Later, 'n paar stele in 'n flessie.
+35. **Brei of hekel saam.** Eenvoudige rye op groot breinaalde. Later, om wol in bolle te rol.
+36. **Maak kaartjies vir familie.** Stempel, teken of versier verjaarsdag- en beterskapkaartjies vir regte mense.
+37. **Vorm lugdroë klei.** Druk 'n klein bakkie uit. Gebruik nie-giftige materiaal en bly naby.
+38. **Skuur en rond hout af.** 'n Voorafgesnyde voëlhouthuisie-stel en skuurpapier, geen kraggereedskap nie. Sien [activities for men](/activities/for-men/).
+39. **Skryf of dikteer 'n brief.** Aan 'n kleinkind of ou vriend. As skryf moeilik is, praat hulle en jy skryf.
 
-## Outdoors and gardening
+## Buitelewe en tuinmaak
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Vars lug en daglig is goeie geselskap. Sien [outdoor and gardening activities](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Gooi plante water.** 'n Klein gieter en 'n paar potte. Daaglikse natgooi gee 'n ritme aan die dag.
+41. **Plant 'n pot.** Sit dit op 'n tafel sodat niemand hoef te kniel nie. Saailinge is makliker as saadjies.
+42. **Verwyder onkruid of dooie blomkoppe.** Sit tuinhandskoene aan, een klein bedding op 'n slag.
+43. **Hark blare bymekaar.** Een klein kolletjie. Later is dit 'n ware bydrae om net die sak oop te hou.
+44. **Stap 'n bekende roete.** Om die blok of na die posbus. Korter is heeltemal goed.
+45. **Sit buite saam.** 'n Stoepstoel op 'n matige dag. Kyk na wolke of verbygangers.
+46. **Voer die voëls.** Maak 'n voëlvoerder saam vol en kyk vanuit 'n venstersitplek.
+47. **Was die motor.** Emmer, spons, 'n lekker warm middag. Om wieldoppe af te spoel is 'n goeie eenstaptaak.
 
-## Sensory activities
+## Sensoriese aktiwiteite
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Aanraking, reuk, smaak, klank en sig raak belangriker soos demensie vorder. Die [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) noem musiek, voorwerpe om te hanteer en handmassering vir latere stadiums. Maak eers seker oor allergieë en verstikkingsgevare; sien [sensory activities](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Gee 'n handmassering.** Vra eers en gebruik 'n bietjie room. Kies 'n ongegeurde een as jy onseker is oor velreaksies of allergieë.
+49. **Voel aan verskillende stowwe.** 'n Mandjie met fluweel, koordfluweel, wol en satyn om te streel en te vou.
+50. **Ruik kruie en koffie.** Vryf vars kruisement of roosmaryn tussen jou vingers. Vermy sterk geure by asemhalingsprobleme.
+51. **Borsel hul hare.** Stadig en sagkens, as hulle dit geniet.
+52. **Deel 'n warm waslap.** Vir hande en gesig op 'n koue dag. Toets eers die temperatuur.
+53. **Verken 'n aktiwiteitsvoorskoot.** Groot knope en ritssluiters wat stewig vasgewerk is. Maak seker niks kan loskom nie.
+54. **Proe 'n gunstelingbederf.** 'n Klein lepeltjie vol, in 'n tekstuur wat hulle veilig kan hanteer.
+55. **Speel natuurklanke.** Reën, golwe of voëlgesang teen 'n lae volume.
+56. **Kyk na iets rustigs.** 'n Vistenk, 'n natuurvideo of vallende sneeu.
 
-## Games and puzzles
+## Speletjies en legkaarte
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Speletjies werk wanneer daar geen tydhouer, telling of druk is nie. As een soos 'n toets begin voel, bêre dit weg. Sien [choosing apps and games](/caregiving/choosing-apps-and-games/) en [brain games](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Pas prente bymekaar.** Met [Picture pairs](/games/picture-pairs/) kan prente oop bly lê, sodat dit gaan oor raaksien, nie onthou nie.
+58. **Vind dieselfde prent.** [Find the same](/games/find-the-same/) bied twee tot vier keuses. Gesels oor elke prent.
+59. **Sorteer in mandjies.** [Sort together](/games/sort-together/) is soos om sokkies op die skerm te sorteer.
+60. **Bou 'n legkaart met groot stukke.** Volwasse beelde, 'n maklike aantal stukke. [Picture puzzle](/games/picture-puzzle/) hou die hele prent sigbaar. Meer in [puzzles for dementia](/activities/puzzles/).
+61. **Speel 'n ou kaartspeletjie.** Wat hulle ook al jare lank gespeel het. Later is dit 'n speletjie op sy eie om net die pak volgens kleur te sorteer.
+62. **Speel domino.** Pas die kante bymekaar. Later is dit heeltemal reg om net blokkies in 'n ry te pak.
+63. **Probeer 'n blokkiesraaisel of woordsoektog in groot druk.** Ons [word search](/games/word-search/) het woorde slegs van links na regs en bo na onder, en kan uitgedruk word.
+64. **Voltooi bekende gesegdes.** [Finish the saying](/games/finish-the-saying/) laat jou toe om die einde enige tyd te wys.
+65. **Speel prentbingo.** [Picture bingo](/games/picture-bingo/) pas gesinne en groepe. Help gerus om kaarte te merk.
+66. **Speel dambord.** Hou die reëls soepel. Om stukke te skuif terwyl julle gesels, tel ook.
 
-## Movement
+## Beweging
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+Die NIA stel stappies, 'n oefenfiets, rekkies vir strekoefeninge, 'n sagte bal of ballon gooi, sopblikke optel en oefenvideo's vir ouer volwassenes voor. Raadpleeg 'n dokter voordat julle enigiets nuuts begin, veral met balansprobleme.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Gooi 'n ballon.** Sit teenoor mekaar. Dit beweeg stadig, so dit is maklik om te vang.
+68. **Volg 'n sittende oefenvideo** wat vir ouer volwassenes gemaak is, sy aan sy.
+69. **Strek met 'n rekkie.** Sagte armtrekoefeninge met 'n ligte rekkie terwyl julle sit.
+70. **Lig sopblikke op.** Stadige armligte, dalk op die maat van musiek.
+71. **Ry op 'n oefenfiets.** 'n Paar maklike minute, met jou naby.
+72. **Dans met serpe.** Swaai ligte serpe op die maat van musiek, sittend of staande.
+73. **Stap met 'n doel.** Om 'n brief te pos of koffie te koop. 'n Rede om te gaan voel natuurlik.
+74. **Deel 'n asemhalingspouse.** Kom saam tot rus met [calm breathing](/games/calm-breathing/).
 
-## Social activities
+## Sosiale aktiwiteite
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Geselskap maak saak selfs wanneer name moeilik is, en klein groepies is makliker as grootes. Die NIA let op dat 'n persoon dalk nie onthou wie 'n besoeker is nie, maar dikwels steeds die geselskap geniet. Sien [visiting](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Ontvang een of twee besoekers op 'n slag.** Kort kuiertjies in 'n stil vertrek, met foto's om na te kyk.
+76. **Maak video-oproepe na familie.** Kort oproepe, een stem op 'n slag. Sien [phone and video calls](/activities/phone-and-video-calls/).
+77. **Probeer 'n geheuekafee.** Informele bymekaarkomplekke vir mense wat met demensie leef en hul versorgers. Vra by 'n plaaslike ondersteuningsgroep of diensorganisasie wat naby beskikbaar is.
+78. **Eet uit op 'n stil tyd.** Die NIA stel 'n bekende, stil restaurant buite besige tye voor, met 'n tafel naby die badkamer.
+79. **Besoek 'n seniorsentrum of dagsorgprogram vir volwassenes.** Geselskap vir hulle en 'n blaaskans vir jou.
+80. **Spandeer tyd saam met kinders.** 'n Kort, rustige kuier van kleinkinders, of lees 'n prenteboek vir 'n kleuter voor.
+81. **Deel die koerant oor koffie.** Lees opskrifte hardop voor. Die ritueel maak meer saak as die nuus.
+82. **Help iemand anders.** Vou kerkblaadjies of maak 'n kaartjie vir 'n buurman.
 
-## Faith and spiritual activities
+## Geloofs- en geestelike aktiwiteite
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Volg die persoon se eie tradisie, of geen tradisie nie. Die NIA stel bekende dienste, voorlesings, gewyde musiek, gebed, meditasie en vakansierituele voor.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Woon 'n bekende diens by.** Kies 'n stiller diens, sit naby die paadjie, en laat mense daar weet van die demensie.
+84. **Kyk 'n diens aanlyn** op dae wanneer dit te veel is om uit te gaan.
+85. **Bid of lees saam.** Bekende woorde, stadig gelees. Hulle kan aansluit by dele wat hulle ken.
+86. **Sing gesange of gewyde musiek** uit hul tradisie.
+87. **Behou vakansierituele.** Batterykersies, 'n seënbede, die versierings wat hulle nog altyd gebruik het.
+88. **Deel stil tyd.** Sit in 'n tuin of kyk saam na die sonsondergang.
 
-## Pets and animals
+## Troeteldiere en diere
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+Die NIA stel voor om 'n troeteldier kos te gee, te versorg, te stap, of daarmee te sit en dit vas te hou.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Borsel 'n rustige hond of kat** met lang, stadige hale.
+90. **Voer die troeteldier saam.** Jy meet af; hulle gooi dit in.
+91. **Stap saam met die hond.** Jy hou die leiband vas.
+92. **Hou 'n troeteldier op die skoot.** 'n Rustige kat op 'n kombers kan baie gerusstellend wees.
+93. **Verwelkom besoekende diere.** Sommige sorgsentrums en dagprogramme reël dierebesoeke. Vra plaaslik navraag.
+94. **Bied 'n lewensgetroue sagte dier aan.** As daar geen troeteldier is nie, geniet sommige mense dit om 'n realistiese sagte kat of hond vas te hou. Bied dit eenvoudig aan, nooit as 'n speelding nie, en aanvaar 'n nee.
 
-## Seasonal activities
+## Seisoenale aktiwiteite
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Behou tradisies, maar eenvoudiger. Die NIA beveel aan om realisties te wees en 'n stil plek te hê vir blaaskanse tydens besige feesdae.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Versier vir die seisoen.** 'n Pampoen, 'n krans of vars blomme op die tafel.
+96. **Maak 'n feestelike bederf.** Rol deeg uit of versier koekies. Jy hanteer die oond.
+97. **Hang versierings op.** Breekvaste ornamente, een vir een aangegee.
+98. **Ry om na die liggies te kyk.** 'n Kort rit in die aand vra niks behalwe geselskap nie.
+99. **Plant lentebolle.** Druk bolle in die herfs in 'n pot en wag vir die lote.
+100. **Stroop mielies of dop ertjies af.** 'n Somerstoepwerkie met 'n bak op die skoot.
+101. **Adresseer feeskaartjies.** Hulle teken, plak seëls of maak koeverte toe; jy hanteer die adresse.
 
-## What if an activity is not working?
+## Wat as 'n aktiwiteit nie werk nie?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Stop, en probeer 'n ander keer iets anders. Die NIA stel voor om op te let na frustrasie en die persoon bloot te laat kyk as hulle verkies. 'n Nee beteken dikwels die taak is te moeilik, die tyd is verkeerd, of iets anders pla hulle, soos pyn, honger of geraas. Maak dit kleiner, probeer vroeër in die dag, of begin self daarmee en kyk of hulle aansluit. Sien [when they say no](/caregiving/when-they-say-no/) en [late-day restlessness](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Om aktiwiteite tussen etes en rus in te pas, sien [a gentle daily routine](/activities/daily-routine/). Vir dinge om gereed te hê, sien [printable activities](/activities/printable/), en as jy 'n groep lei, [care home group activities](/activities/care-home-groups/). Jou eie rus maak ook saak: sien [caregiver self-care](/caregiving/caregiver-self-care/).

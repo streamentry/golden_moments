@@ -1,32 +1,30 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Nəmahitiš Ratuš Ayarō Narōi Yō Manō-Vərəzyeiti"
+seoTitle: "Ayarō Ratuš: Yaθa Yō Ayarō Baraiti"
+description: "Hušitiš ayarō naram yō manō vi-caraiti, xᵛarəθa, š́yaoθna, xᵛafna-ca rāiti. Yaθa handātim karanaoi ahmāi ayāu."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Nəmahitiš ratuš ayarō us-hištat, xᵛarəθa, pātiš azdō, xᵛafna-ca hām-paiti
+  haɱ-bārai, baraiti mazištəm š́yaoθnəm yaδa martō aɱhaiti vohu-manah.
+  Kərənuš ahmāt yaθa haurvatāt ayarə aɱhat, maza-ca raməm paiti-dāta.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ratuš ayarō ušasta, xᵛarəθa, pātiš azdō xᵛafna-ca daδāiti haδa-cāiti."
+  - "Dāta mazištəm š́yaoθnəm yaδa martō vahištō aɱhaiti, yaθa ušahī."
+  - "Mā vispəm zrvānəm pərəna. Rāma xᵛafna-ca aɱhənti baxta ratōuš."
+  - "Raočas ayan, š́yaoθna ayārə xᵛafna-ca darəγa nōit arəδə kərənavaiti xšafnō-āršti."
+  - "Ratuš asti paθa, nōit dātəm. Saocaya ayāu yaθa dāityō aɱhat."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Čiš rādō ratuš ayarō upa-kārayeiti martāi yō manō vi-caraiti?"
+    a: "Dāta ayarō dārayeiti kaməm frašnəm surprises-ca, yaθa vohu aɱhaiti ahmāi yō manō vi-caraiti. Alzheimer's Association gaozaiti yaθa haδō-dātō ayarō radaiti zrvānəm š́yaoθnāi yōiš dōištrāi aɱhənti. Bāram-ca daδāiti haurvō-pānāi."
+  - q: "Čiš asti vahištō ratuš ayarō ahmāi yō manō vi-caraiti?"
+    a: "Nōit asti aēvō ratuš. Vahištō dārayeiti us-hištat, xᵛarəθa, xᵛafna-ca ham-zrvānē, dāiti š́yaoθnəm yaδa nōit arθa aɱhaiti, dārayeiti bərəjō raočahī vi-rāzi, rāməm-ca daδāiti. Kərənuš ahmāt yaθa martō parō jvaiti."
+  - q: "Paitiš ahmāi yō manō vi-caraiti xᵛafsaiti azdē ayārə?"
+    a: "Murduš xᵛafnō upa-kārayeiti, paiti tarō xᵛarəθō-bājim. National Institute on Aging aojaiti mā darəγəm xᵛafnəm kərənavan zrvānē ayārō apərəm, yaθa an-ašnaoiti xšafnō aršti. Yaδa xᵛafnō asti garō, paiti-pərəsa bišazəm."
+  - q: "Čiš kərənva yaδa an-paiti-barənti ratūm?"
+    a: "Haca ahmāt paitī-riča nū, paiti-zbayoi apərəmai. Yaδa mərəγyeiti, aɱhaiti spasiš, xraosahiš, ayāp nōit dāityō. Ratuš asti rāzəm hu-kərəte, nōit arəδa."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +43,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Nəmahitiš ratuš daδāiti ayarō xᵛaēpaite kəhrpəm: us-hištiš, xᵛarəθa, kəməm š́yaoθnəm, rāma, xᵛafna-ca hām-bārai zrvānē. Kamə-dāiti frašna surprises-ca, daδāiti-ca handātəm ahmāi zrvānē yaδa pərəsoi čiš pascaēta vərəzyeiti. Ratuš aδairi asti daxštəm, nōit dātəm. Barō aēvəm yaθa haca-stīm, pascaēta vi-rāzaye ahmāi narōi yōi pānahi.
 
-## Why does a daily routine help?
+## Čiš rādō ratuš ayarō upa-kārayeiti?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Hāmo-paθō ratuš upa-kārayeiti yaθa parō-dātom vohu aɱhaiti paiti-sāstayāi pasca navanəm. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) aojaiti yaθa haδō-dātō ayarō kərənaoiti kaməm zrvānəm pərəsnāi čiš kərənavan, mazištəm-ca š́yaoθnāi hu-zūtayāi, aojaiti-ca hamō-zrvāna ušahī xᵛafnāi-ca upa-kārayeiti xšafnō rāstīm xšafnō-ca arəštīm. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) paiti-daδāiti snātiš, vastra-dātiš xᵛarəθa-ca hamō-zrvānē ayārə ayārə yaθa rāmō-nmānəm kərənavat, [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ahmāi-ca paiti-zbayeiti ham-ratūm dāranāi.
 
-## A sample gentle day
+## Daxštəm nəmahitō ayārə
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Zrvāna aɱhənti aēva daxštā. Frasraya vispəm ayarə parō ayāp pasca yaθa martahē xᵛaēpaite jvāiti aɱhaiti.
 
-| Time | What happens | Ideas | On a harder day |
+| Zrvān | Čiš vərəzyeiti | Manas-ca | Ayārə garəmō-dātē |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Us-hištat, snātiš, vastra | Ham-ratuš ayārə ayārə; dāta vastra yaθa barənti | Dāta kəməm; urvaētiš hušku dāityō asti |
+| 8:45 a.m. | Xᵛarəθō-bājim ušahī | Kapi-xᵛarəθa nāvak-ca yō hācat, ayāp srūtis | Xᵛarə haδa rāmai, nōit arəθa pərəsnāi |
+| 9:30 a.m. | Mazištəm š́yaoθnəm | Hām-kərətiš vastranam, paiti-xᵛāz, aspa-ca rāz, paθa-ayān | Kaməm kərənuš, ayāp dātə dōištrəm yaθa kərənōi |
+| 10:30 a.m. | Rāma zrvānē | Srūtiš, patikara-paoiri, ayāp upa raočanəm | Rāma paiti xᵛa-zasta gātūm |
+| 11:00 a.m. | Upa-karətiš xᵛarəθāi | Snātiš urvaranam, daδāiti miēzəm | Tū xᵛarəθō kərənu; aēte haδa rāmən |
+| 12:00 p.m. | Xᵛarəθəm cāštō hu-kərətiš-ca | Paiti-səŋha miēzəm, huškayō cārunam | Pa-rīca bārəm |
+| 1:00 p.m. | Murduš xᵛafnō | Pāδa pairi, srūtiš nəmahitiš | Hamō |
+| 2:00 p.m. | Bərəjō ayāp š́yaoθnō | Caraiti, upa-dvāra, āpō-dāta urvarāi, paitiš spərə | Hištat upa raočanəm hvarə-dātəm |
+| 3:00 p.m. | Hāmo-jvāt ayāp hunarō | Ayān hāmō-narō, gaozaiti, [picture pairs](/games/picture-pairs/), raŋga, kartā | Xᵛas-xᵛarəθa haδa xᵛarənti |
+| 4:30 p.m. | Paiti-dātō zrvān | Pərəθu pairi-dātom, raočana-dātō, nəmahitō š́yaoθnō | Srūtiš xᵛa-zātō, kamō xšvībrō |
+| 5:30 p.m. | Xᵛarəθəm xšafnō | Upa-karətiš miēzāi ayāp rāzāi | Xᵛarəθəm hu-zātəm, dāityō |
+| 6:30 p.m. | Xšap haδa jvaiti | Hām-daxti over xᵛarəθō-mīzd, kartā, dōištrəm, zasta-snāθəm | Rāma hām-stīš |
+| 8:00 p.m. | Xᵛafnahē ratuš | Snātiš, xšafnō-vastra, murduš srūtiš, kamō raočas | Murdu-kərəte vispəm; rāmō paoiryō |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Aēm daxštō hācaite Alzheimer's Association xᵛaēpaite ratūm paoiryanam miδyanam-ca zrvānam, yō caraiti haca snāti ušahī-ca xᵛarəθō tarō š́yaoθna, caranam, srūtim, rāməm haδa-stīm-ca avi xšafnō xᵛarəθəm, hām-saxšnəm xᵛafnahē-ca hu-kərətīm.
 
-## How do you build your own routine?
+## Yaθa kərənaoši xᵛaēpaite ratūm?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Paoirīm kərənu haca ahmāt yaθa martō vispəm jvātəm jvaiti, nōit haca sāstrayāi. Alzheimer's Association paiti-zbayoi manō-dātanāi aētešam parō handātəm:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Aētešam friyam, an-friyam, aojō interest-ca.**
+- **Yaθa parō jvārayan ayārə.** Ušastara yō spānəm caraiti dāityō carāt ušastaram. Xšafnō-martō nōit kāmāt 8 a.m. stīm.
+- **Vahištō zrvān ayārō.** Dāta snātīm, bərəjo-ayānam mazištəm-ca š́yaoθnəm ahmāi.
+- **Baojiš zrvānē** xᵛarəθāi, snāθāi vastra-dātāi-ca, yaθa nōit taci-barō aɱhaiti.
+- **Hāmo-zrvān us-hištat xᵛafna-ca.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Hām-sāstā paiti-aojaiti hām-bāram nmānō-š́yaoθnanam, xᵛarəθanam, kəhrpō-pānanam, hunarō-vərəzyanam, tanu-š́yaoθnanam, hāmo-martō zrvānam, mainyavanam a-parō-dātanam-ca, yaθa haxayō upa-ayān.
 
-### Try it for a week, then adjust
+### Vərəzye aēvō-hapto, pascaēta vi-rāzaye
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Dāraya kəməm nipištəm ayārə ayārə. Alzheimer's Association aojaiti pərəsnāi čiš š́yaoθnam vahištəm vərəzyeiti čiš rādō, yaθa aɱhən zrvāna haδa mazištəm vərəzyeiti ayāp kaməm š́yaoθnəm, a-parō-dātā-ca rāməm dāsa ayāp spaso-dātəm. Dāraya vahištəm, saocaya an-vahištəm.
 
-### Make it visible
+### Dōištrəm kərənu
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Yaδa martō magau-caraiti paiti-sahvāi, gātu-paiti ayāp mazištō kartō haδa ayārō handātō upa-kārayeiti. Murdu kərənu: "Xᵛarəθō-bājim. Caraiti haδa Sarah. Xᵛarəθəm. Rāma." Yōi nōit dāityō aɱhənti parō-saxšnāi; Family Caregiver Alliance aojaiti mā paiti-mrūite handātəm tarō yaδa dāityō vərəzyeiti yaδa spaso-dātəm barāt.
 
-## How to adapt the routine
+## Yaθa vi-rāzaye ratūm
 
-### Leave room to breathe
+### Dāta zrvānəm sparnāi
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Mā vispəm minūtam pərəna. Alzheimer's Association gaozaiti yaθa martō ahmāi aɱhaiti handātō š́yaoθnahē rāmō-ca, mazištam-ca paiti-xᵛafnam apaitī-kārayat. Yaδa zōr-dātō, vi-caratō ayāp kərəfs-manah aɱhaiti, saocaye š́yaoθnəm ayāp rāmō-dātō.
 
-### Protect the late afternoon
+### Pānaye xšafnō-paoirīm
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Pərəθu marta arəštātarō aɱhənti yaδa raočanəm nisyate. NIA paiti-zbayoi zrvānəm bərəjō ayāp upa raočanəm hvarə raočanāi ayārə ayārə, š́yaoθnō aɱhat an-vispō-handātō, parō-ričat caffeine alcohol-ca xšafnō-paoirīm, an-kārayat darəγəm xᵛafnəm tarō ayārə. Nōit kamō nmānā rāzən pairi-dātam garəzəm raočana-ca sraoθat parō xšafnō. Dōiša [late-day restlessness](/caregiving/late-day-restlessness/) [sleep](/brain-health/sleep/)-ca.
 
-### Change it as needs change
+### Saocaye yaθa apaitīš saocayeiti
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Paoirīš bājiš:** handāta ratūm haδa. Martō kāmāt nipištəm ratūm yō xᵛaēpaite rāzayeiti.
+- **Miδyā bājiš:** tū mazištəm frapayeiti. Murdū š́yaoθna, vahištō rāmō xᵛa-zātā-ca š́yaoθna; dōiša [middle-stage activities](/activities/middle-stage/).
+- **Apərəma bājiš:** ratuš handāte paiti rāmō, xᵛarəθa kəhrpō-pānim, haδa murdu-taoxmanāi yaθa srūtiš zasta-snāθa-ca antarə; dōiša [late-stage activities](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Vi-rāzaye š́yaoθna, nōit kəhrpəm
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Dāraya xᵛarəθa, rāma xᵛafna-ca hām-zrvānē, vi-caraye š́yaoθna antarə. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) aojaiti vərəzyat vi-daēva š́yaoθna vi-daēvō ayārō yaθa vərəzyeiti hu-zūtīš. Xᵛāzahi paiti Dō-šamba, urvaranam paiti Se-šamba, patikara-ca paiti Čahār-šamba. Ahmākanam [101 activity ideas](/activities/ideas/) [household tasks](/activities/household-tasks/)-ca magau pərənan gātu.
 
-## When the day goes sideways
+## Yaδa ayarə an-paθā caraiti
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Yōi ayārə nōit paitī-ayān aēvō handātō. Āzitiš, sarəta xšap, bišazahē ayān, ayāp vātahē saocitiš vispəm vi-carayeiti. Rīča handātəm, dāraya bunəm (xᵛarəθa, āpō, rāmō, hu-stīš), pascaēta paiti-kərənu apara ayārə. Yaδa martō an-dāiti čiš, dōiša [when they say no](/caregiving/when-they-say-no/). Nəmahitō sparo-dātō haδa, yaθa [calm breathing](/games/calm-breathing/), upa-kārayeiti hām-kərətināi.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Xᵛaēpaite ratuš vərəzyeiti ahmāi. Dāta rāməm tava, pərəsa-ca nmānam ayāp paiti-sāstayāi zrvānāi. Dōiša [caregiver self-care](/caregiving/caregiver-self-care/).

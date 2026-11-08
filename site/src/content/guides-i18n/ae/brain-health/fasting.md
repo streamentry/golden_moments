@@ -1,33 +1,32 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Antarə-xᵛarəna uta Vīmanaŋha: Čiš Pərəitiš Vaocē"
+seoTitle: "Antarə-xᵛarəna uta Vīmanaŋha: Čiš Pərəsna Vaocē"
+description: "Mashyākanąm vīduš antarə-anaxᵛarəne uta vīmanahi kamna asti. Hananąm ānāzātəm sax́va uta čim xᵛarəθrem mazōstō."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Nōit asti vohu vīduš yaθa antarə-anaxᵛarənəm vīmanaŋhəm paityāpaitē ayāp taršcaitē.
+  Pouruš pərəitiš pasušu asti, uta mashyānąm hananąm pərəiti kamnā uta drəjahi nōit
+  darəγā. Anaxᵛarənəm hananąm mashyākanąm axti yaona aŋhat: tanū-drāǰiš uta aojiš-nasiš,
+  xšudrō vohuni-xᵛarəθrahe maδa-dāuru, āpō-nasiš uta nipatana. Mashyākanąm yōi vīmanaŋhā
+  jvanti, vohu xᵛarətiš uta nōit kamna paitiš mazistō manayō asti. Paouru bišazē paiti-mrūi.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging vaocaitē yaθa nōit asti bavainti vīduš paiti-sāhvahe čiš-ca anaxᵛarənəm ayāp xᵛarəθrō-kamnatātəm, kasō-ca hanāi mashyāi."
+  - "Pouruš pərəitiš anaxᵛarəne uta zarəδahe hača pasubyō aiti, uta aēte aojišta nōit mashyākaēšu haθrā bavainti."
+  - "Āxtiš hananąm mashyākanąm aŋhat: tanu-drāǰiš nōit kāma, maša-nasiš, kamna vohuni-xᵛarəθrahe hača dāuranąm, āpō-nasiš, sarō-vaγdanəm uta nipatana."
+  - "Mashyāka yōi vīmanaŋhā jvanti pouru-vāre xᵛarəti ayāp pataiti marəzinti, ayāp manhyanti yaθa xᵛarəte. Aēibyō vījasmi xᵛarəθre uta pataine mazōstō asti yaθa kaδā xᵛarənti."
+  - "Mā anaxᵛarənəm mashyāi yō vīmanaŋhā jvaitē varəzaya. Paouru yātu-xᵛarəθrahe haiti-sraoxšane bišaze ayāp xᵛarəθra-vīde paiti-mrūi."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Antarə-anaxᵛarənəm Alzheimer-axtīm paityāpaitē?"
+    a: "Nōit asti vohu vīduš yaθa im paitish. Pouruš pərəitiš hača pasubyō asti, uta mashyānąm pərəsna mazišta drəgahō nōit darəγa, yūnō ayāp pouru-tanūm mashyānąm, uta tanu-kamnatātəm fračaraθri. National Institute on Aging vaocaitē yaθa nōit asti bavainti vīduš anaxᵛarənō-xᵛarəθrahe dāte vīspāi."
+  - q: "Antarə-anaxᵛarənəm hananąm mashyākanąm drvatāt-ca asti?"
+    a: "Nōit aŋhat drvatāt. Anaxᵛarənəm tanu-drāǰiš uta maša-nasiš, āpō-nasiš, sarō-vaγdanəm uta nipatana daδāiti, uta vīxsidra kamna vohuni-xᵛarəθrahe yaēšąm insulin ayāp dāuru xᵛarəntanąm dāiti. Mayo Clinic vaocaitē yaθa nōit aŋhat vaēpa aēibyō yōi asti-nasiš uta nipatana axtīm yanti. Paouru bišazē paiti-mrūi."
+  - q: "Mashyō yō vīmanaŋhā jvaitē anaxᵛarənəm varəzayōit?"
+    a: "Nōit. Mashyāka yōi vīmanaŋhā jvanti pouru-vāre duš-xᵛarəte uta duš-pataiti yanti, uta an-āxᵛarəti šyaoθnanąm axtīm vaxšayāt uta tanu-drāǰiš daδāt. Anaxᵛarənəm axtīm vaxšaitē an-aētahe aojišta. Pouru-bavaiti xᵛarəθre, xᵛarəmanąm yā aēibish rātayenti, uta bavainti pataiti paiti-avaza."
+  - q: "Čiša daxštā yaθa mashyō yō vīmanaŋhā jvaitē nōit bavainti xᵛarəti ayāp pataiti?"
+    a: "Daxštā paitiš: tanu-drāǰiš, vaste fra-vərəte, šaoto-tāt, an-aojastāt, an-āxᵛarənəm, ayāp xᵛarəθrem paiti-mruite. Āpō-nasiš daxštā yaθa hača National Institute on Aging: huška aozra, sarō-vaγdanəm, taxta zrədaya, uta fra-vīmərəte. Paiti-mruite aēšąm bišazē yaδa daxšta vaēnahi."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +54,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Antarə-anaxᵛarənəm, yaθa xᵛarəθrem ašta-asna sāta aēva ayāp kamna-xᵛarəθrem duye ayan haptahe varəzayeiti, pouru manah daδāiti, uta aētaye sravå mrūiti yaθa manas pāraiti. Yezi tū hana mashyō ahi, ayāp paiti mashyāi yō vīmanaŋhā jvaitē thrayahi, ida asti yaθa pərəitiš haθra vaocaitē, uta čim hutaštiš mazōstō.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Aēva asti vīspō-vīduš, nōit bišazya sastiš. Mā anaxᵛarənəm aojaya, ayāp xᵛarəθrem mashyāhe yōm thrayahi vaocahe carətu, an-aojite bišazē ayāp xᵛarəθra-vīde. Vaēna ahmākəm [bišazya-paitišyāstīm](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Antarə-anaxᵛarənəm vīmanaŋhəm paityāpaitē?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Nōit asti vohu vīduš yaθa antarə-anaxᵛarənəm vīmanaŋhəm paityāpaitē ayāp taršcaitē. National Institute on Aging (NIA) vaocaitē yaθa nōit asti bavainti vīduš paiti-sāhvahe čiš-ca xᵛarəθrō-kamnatātəm ayāp anaxᵛarənō-xᵛarəθrem, uta pouru fra-sax́va pərəsna aojiš uta drvatāt, kasō-ca hanāi mashyāi ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Čim vīduš aētada kamna asti
 
-The NIA gives several reasons:
+NIA pouru čim daδāiti:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Mazišta pərəitiš pasušu asti.** Pərəitiš kərəmanąm, maxšīnitem, mūsutem uta varāzanąm sravå daδāiti, aδa aēte nōit mashyākaēšu haθrā bavainti. Pasušu-ca aojišta gumēziyanti; aētaēšu mūsaēšu, xᵛarəθrō-kamnatāt gayō kərəntayōit.
+- **Mashyākanąm pərəsna drəgahō nōit darəγa.** Mazišta kəm-ca haptahō ayāp māho drāǰayanta.
+- **Mazišta mashyākanąm pərəsna tanu-kamnatātəm fračaraθri** pouru-tanūm mashyānąm, nōit marəzō ayāp vīmanaŋhəm.
+- **Hanā mashyāka kamna paiti-yanti.** Pouru pərəsna mashyākō 60 yātu-sarəδō ayāp yūnatarō hanta.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Hāna 2026 vīspō-pərəitiš antarə-anaxᵛarənəm mashyākanąm 60 sarəδō uta hanatarō paity-āpaitē. Vīda yaθa vīduš ahmī yātū-vīharahe kamna aiti, kasu pərəiti, drəgahō nōit darəγa, uta gumēza daθrā. Sravå manahahe uta marəzahe hača yātu-pərəite ayanta, nōit haθra-pərəsnaēibyō. Pərəitiš vaocaitē yaθa kasu xᵛarənahe sāta ayāp darəγa anaxᵛarəna aka daδayanta, uta fra-srāvayīte hutaštīm hananąm mashyākanąm ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Karas-ca pərəsna-kərəta manhyanti yaθa tanū azim-sočayanta anaxᵛarəne manah paityāpat, aδa aēva asti sastiš yā fra-sax́vahe aiti. NIA vaocaitē yaθa vīduš an-aētahe asti.
 
-## What are the risks of fasting for older adults?
+## Čiša ānāzāta anaxᵛarənahe hananąm mashyākanąm?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Anaxᵛarənəm nōit an-āxti pərəsna asti pouru-hanāi mashyāi. Āxtiš aŋhat:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Tanu-drāǰiš nōit kāma.** Xᵛarəti kamna yaθa tanū yāsaitē tanu-drāǰiš uta kamna aojō mašahe daδāiti, yā mashyāi duš-tahməm kərənaoiti.
+- **Maša uta asti-nasiš.** NIA-pātaye duye-sarəδa pərəsne xᵛarəθrō-kamnatāta yūnō uta maδyō-sarəδa mashyākaēšu, paitište kamna asti-drištīm uta tanu-dāuzdrəm daδāiti.
+- **Kamna vohuni-xᵛarəθrahe hača dāuranąm.** Mashyāka yōi insulin ayāp dāuru xᵛarənti, vohuni-xᵛarəθrahe kamnō-drāǰayāt yezi xᵛarəθrem paiti-nasinti ayāp taršcinti, yaθa [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) vaocaitē. Kamna vohuni-xᵛarəθrahe sarō-vaγdanəm, duš-manah uta tbaēšō daδāiti.
+- **Āpō-nasiš.** Yezi pataiti haθrā xᵛarəθrem paiti-nasyeiti, mashyō āpō-nasō bavaiti.
+- **Sarō-vaγdanəm uta nipatana.** Mayo Clinic vaocaitē yaθa antarə-anaxᵛarənəm mashyākanąm šaoto-tāt uta sarō-vaγdanəm daδāiti, uta nōit drvatāt daθra aēibyō yōi asti-nasiš uta nipatana āxtīm yanti ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Anya aojišta.** Mayo Clinic vaocaitē sarō-darda, duš-šyaoθna uta an-āxᵛarənəm, uta vaocaitē vīduš yaθa 16-asna anaxᵛarənəm haθrā 8-asna xᵛarəna zrədaya axtīm vaxšayāt paiti anya xᵛarənahe sāta. Aēva vīduš nōit paity-aēiti.
 
-## Why is eating enough the bigger concern with dementia?
+## Čim bavainti xᵛarəθrem mazōstō manayō asti vīmanaŋhā?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Mashyāka yōi vīmanaŋhā jvanti, pouru axtiš asti yaθa **bavainti** xᵛarəθrem uta pataiti yāsainti, nōit pouru. Alzheimer's Association fra-srāvayeiti yaθa mashyāka maδyō-ratu uta apa-ratu vīmanaŋhahe xᵛarəθra-vərəzi šaotinti, xᵛarəθrem marəzinti, ayāp manhyanti yaθa xᵛarəte. Uta vaocaitē yaθa duš-xᵛarəti šyaoθnanąm axtīm vaxšayāt uta tanu-drāǰiš daδāt ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society vaocaitē yaθa nōit bavainti xᵛarəti tanu-drāǰiš, kamna maša-aojō, šaoto-tāt uta an-aojastāt daδāiti, mashyāi duš-tahməm kərənaoiti uta an-aojastara hača axti-bišazya ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Aētaēibyō čimebyō, anaxᵛarənəm nōit vohu manayō asti mashyāi yō vīmanaŋhā jvaitē.** Paiti-nasta xᵛarəti vərəzyeiti an-āxᵛarənəm. Čiš-ca haiti-sraoxšana yaθa mashyō vīmanaŋhā jvaitē xᵛaraiti paiti-sāhva bišazē ayāp xᵛarəθra-vīde aŋhat.
 
-## What are the warning signs of poor eating or drinking?
+## Čiša daxštā duš-xᵛarətahe ayāp duš-pataiti?
 
-Watch for:
+Paitiš vaēnaya:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Tanu-drāǰiš**, ayāp vaste fra-vərəte.
+- **Xᵛarəθrem spaya ayāp paiti-mruite**, ayāp aozre xᵛarəθrem dāraya.
+- **Šaoto-tāt ayāp an-aojastāt.**
+- **An-āxᵛarənəm**, yā xᵛarəθra uta āpō-nasiš haθrā aŋhat.
+- **Āpō-nasiš daxštā.** NIA huška aozra, sarō-vaγdanəm, taxta zrədaya, uta fra-vīmərəte daδāiti, yā hača vīmanaŋhahe aŋhat ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Kamna kāmahe pouru čim aŋhat: danta-axtiš ayāp vi-stata danta, nava dāuru, duš-manastāt, an-āxᵛarənəm, kamna šyaoθna, ayāp čašnō uta baodō vərəzayeiti. Paiti-mruite aēšąm bišazē aēta daxštā. Hō čim pərəsaite uta xᵛarəθra-vīde ayāp vohu-xᵛarəθra daδāiti.
 
-## How can you help someone eat and drink enough?
+## Yaθa mashyāi vījasma bavainti xᵛarəte uta pataiti?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Kasu xᵛarəθrem uta xᵛarəma pouru-vāre dāiti**, nōit θrāyo mazantō xᵛarəti.
+- **Friya xᵛarəθra dāiti**, uta carəte yaθa čašma vərəzayeiti. Xᵛāstra xᵛarəθra vohu aŋhat yezi kāma kamna; bišazē pərəsa yezi drvatāt čim asti kamna šakarō.
+- **Pataiti zasto-dāraya** uta kasu tasta vīspe ayan dāiti. Xšudro-xᵛarəθra, mīzda, uta payō-xᵛarəθra haθrā bavainti.
+- **Haθrā xᵛara** kaδa aŋhat. Xᵛarəti asti hāda-caraiti, nōit fra-taxšaiti.
+- **Zasta-xᵛarəθra varəzaya**, yaθa nān, mīzda-kərəta ayāp kahrkāsa-kərəta, yezi tiγra dāuru arəza bavaiti.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Ahmākəm [xᵛarəθra-sastiš](/brain-health/diet/) pouru xᵛarənahe manayō daδāiti. Xᵛarəθrem haθrā handārayata hakat vohu varəza aŋhat; vaēna [nmana-varəza](/activities/household-tasks/).
 
-## Talk with a doctor
+## Paiti-mrūi bišazē
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Paouru tū čiš-ca anaxᵛarənō-varəzayehe, bišazē ayāp xᵛarəθra-vīde paiti-mrūi, kasō-ca yezi dāuru vohuni-xᵛarəθrahe ayāp vohuni-taxšaiti xᵛarahi, tanu-drāǰayahi, ayāp nipatana paiti-ayanta. Mashyāi yō vīmanaŋhā jvaitē, aēšąm bišazē pərəsa čvata xᵛarəθrem uta pataiti vīspe ayan xᵛarənti, nōit anaxᵛarənəm.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Fratarəm bišazya aojō yāsa yezi aka duš-manastāt, fra-vīmərətiš, ayāp kamna vohuni-xᵛarəθrahe daxšta nōit mošu drvaiti.

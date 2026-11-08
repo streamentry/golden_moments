@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Gado bada amo duahia",
+      "stopReading": "Duahia hadokoa",
+      "region": "Gadara",
+      "restart": "Hamatamaia lou",
+      "soundOn": "Regana maragi haboa",
+      "soundOff": "Regana maragi habodoa",
+      "done": "Harihari dokona",
+      "feedbackQuestion": "Inai ese oi ia durua hari dina, a?",
+      "feedbackYes": "Oibe",
+      "feedbackNo": "Lasi momokani",
+      "feedbackThanks": "Tanikiu bada ai dekenai oi hadibaia dainai."
+    },
+    "tile": {
+      "named": "{name}, pepa {n}",
+      "hidden": "Laulau hehunina, pepa {n}",
+      "withState": "{label}, {state}",
+      "matched": "Idia hegeregere",
+      "selected": "Abia vadaeni",
+      "picture": "Laulau",
+      "photoNumber": "Poto {n}"
+    },
+    "pairs": {
+      "allTogether": "Pea ibounai idia hebou vadaeni. Gadaia lou eiava lahi maragi abia.",
+      "photoPair": "Poto rualua, idia hebou.",
+      "picturePair": "Laulau ruaosi {name|lower} ena, idia hebou.",
+      "selected": "{name}. Harihari ena hegeregerena tahua.",
+      "mismatch": "Namo, manau nega abia. Laulau ta taraia bona dohore oi lao.",
+      "mismatchNamed": "{a} bona {b}. Namo, manau nega abia. Laulau ta taraia bona dohore oi lao."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Laulau ta taraia, bena ena hegeregere laulauna taraia.",
+      "guidanceHidden": "Pepa rua taraia idia miro totona. Laulau hegeregere rua tahua.",
+      "restart": "Laulau matamata",
+      "sizeLegend": "Pepa hida",
+      "size": {
+        "one": "Pepa {n}",
+        "other": "Pepa {n}"
+      },
+      "viewLegend": "Edena bamona do oi gadara",
+      "viewShowing": "Laulau idia hedinarai",
+      "viewHidden": "Laulau hehunidia",
+      "playAgain": "Gadaia lou laulau matamatadia ida",
+      "talk": "Laulau herevalaia hebou"
+    },
+    "choose": {
+      "countLegend": "Laulau hida",
+      "count": "{n} do oi abia hidi",
+      "thatOne": "Unai be {name|lower}. Manau nega abia."
+    },
+    "findTheSame": {
+      "guidance": "Ataiai laulauna itaia. Henunai ena hegeregere laulauna taraia.",
+      "yes": "Oibe, inai be {name|lower} hegeregerena.",
+      "next": "Laulau ma ta"
+    },
+    "shadowMatch": {
+      "guidance": "Ataiai kerukeru itaia. Ena laulau korikori taraia.",
+      "yes": "Oibe, {name|lower} ese unai kerukeru ia karaia.",
+      "next": "Kerukeru ma ta",
+      "shadowAlt": "Kerukeru do oi haboua totona",
+      "foundAlt": "{name|lower} ena kerukeru"
+    },
+    "sortTogether": {
+      "guidance": "Laulau ta taraia, bena ena bosea maorona taraia.",
+      "restart": "Laulau matamata",
+      "themeLegend": "Urohehere tema",
+      "selected": "{name}. Harihari ena bosea maorona taraia.",
+      "pickFirst": "Guna laulau ta taraia, bena bosea ta taraia.",
+      "hint": "{name|lower} be bosea \"{basket}\" lalonai do ia vareai diba. Unai bosea taraia ia atoa totona.",
+      "placed": "{name|lower} be bosea \"{basket}\" lalonai ia noho.",
+      "sorted": "Gau ibounai idia hegeregere vadaeni. Bosea lalonai idia noho gaudia itaia hebou, eiava tema ma ta tohoa.",
+      "basket": {
+        "one": "Bosea \"{basket}\", laulau {count} lalonai ia noho",
+        "other": "Bosea \"{basket}\", laulau {count} lalonai idia noho"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Kaha ta taraia, bena kaha ma ta taraia. Idia hegeregere lou.",
+      "restart": "Bulua lou",
+      "pictureLegend": "Laulau",
+      "pictures": {
+        "sailboat": "Vanagi",
+        "house": "Ruma",
+        "balloon": "Baluni",
+        "sunflower": "Sanaflaua",
+        "lighthouse": "Laiti ruma",
+        "cat": "Pusi"
+      },
+      "sizeLegend": "Kahana hida",
+      "size": {
+        "one": "Kaha {n}",
+        "other": "Kaha {n}"
+      },
+      "pickedUp": "Kaha abia vadaeni. Harihari ia lao gabuna taraia.",
+      "whole": "{name|lower} ia hegeregere lou vadaeni. Orena dekenai laulau ma ta abia hidi.",
+      "swapped": {
+        "one": "Idia hegeregere lou. Kaha {correct} gabu maorona lalonai ia noho, kaha ibounai be {total}.",
+        "other": "Idia hegeregere lou. Kaha {correct} gabu maorodia lalodiai idia noho, kaha ibounai be {total}."
+      },
+      "guideAlt": "Laulau korikori: {name}",
+      "guideText": "Laulau be inai bamona do ia hedinarai ia goeva neganai.",
+      "piece": "Kaha {place} dekenai",
+      "pieceInPlace": ", gabu maorona dekenai",
+      "piecePickedUp": ", abia vadaeni",
+      "places4": [
+        "ataiai kaurai",
+        "ataiai idiba",
+        "henunai kaurai",
+        "henunai idiba"
+      ],
+      "places9": [
+        "ataiai kaurai",
+        "ataiai bogaragosi",
+        "ataiai idiba",
+        "bogaragosi kaurai",
+        "bogaragosi",
+        "bogaragosi idiba",
+        "henunai kaurai",
+        "henunai bogaragosi",
+        "henunai idiba"
+      ],
+      "done": "Laulau be ia goeva lou vadaeni. Gadaia lou eiava lahi maragi abia.",
+      "playAgain": "Bulua lou"
+    },
+    "finishTheSaying": {
+      "guidance": "Hereva duahia hebou, bena ia hadokoa herevana taraia.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Oibe, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" danu be namo. To hereva korikori dokona be \"{end}\".",
+      "revealed": "Hereva korikori be \"{start} {end}.\"",
+      "choicesLabel": "Hereva dokona abia hidi",
+      "show": "Dokona hedinaraia",
+      "talk": "Herevalaia hebou: ",
+      "next": "Hereva ma ta"
+    },
+    "wordSearch": {
+      "guidance": "Hereva be sekena dekenai eiava henunai idia lao. Hereva ena leta ginigunana taraia, bena ena dokona letana taraia.",
+      "restart": "Pasil matamata",
+      "themeLegend": "Urohehere tema",
+      "sizeLegend": "Leta tano badana",
+      "size": {
+        "one": "{n} bona {n} (hereva {words})",
+        "other": "{n} bona {n} (hereva {words})"
+      },
+      "print": "Inai pasil prentia",
+      "letterChosen": "Leta {letter} abia vadaeni. Harihari hereva ena dokona letana taraia.",
+      "found": "{word} davaria vadaeni.",
+      "foundAll": "{word} davaria vadaeni. Hereva ibounai vadaeni. Gadaia lou eiava lahi maragi abia.",
+      "tryAgain": "Namo, manau nega abia. Hereva ena leta ginigunana taraia, bena ena dokona letana taraia.",
+      "gridLabel": "Leta tano, laine {n} bona reta {n}. Arou kibodi amo leta lalodiai lao.",
+      "cell": "{letter}, laine {row}, kolam {col}",
+      "cellFound": ", davaria herevana ena leta ta",
+      "wordsHeading": "Hereva do oi tahua totona",
+      "wordFound": " (davaria vadaeni)",
+      "sheetTitle": "Hereva tahua gadara: {theme}",
+      "sheetNote": "Hereva be sekena dekenai eiava henunai idia lao.",
+      "unavailable": "Inai leta grid be gado inai dekenai hegeregere lasi dainai, hereva tahua gadara iniseni lasi. Gau namona be laulau gadaradia tohoa."
+    },
+    "coloring": {
+      "guidance": "Koloa ta taraia, bena laulau kahana ta taraia.",
+      "restart": "Koloa kokia",
+      "cleared": "Rau be kurokuro lou.",
+      "pageLegend": "Rau",
+      "print": "Inai rau prentia",
+      "colorsLabel": "Koloa",
+      "paintChosen": "Koloa {paint} abia vadaeni.",
+      "painted": "{part} be harihari {paint|lower}.",
+      "artLabel": "{page}, pani {count} koloa atoa totona",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, koloa atoa lasi",
+      "paints": {
+        "red": "Kakakaka",
+        "orange": "Aorani",
+        "yellow": "Kerekere",
+        "green": "Gadogado",
+        "blue": "Bulu",
+        "purple": "Papol",
+        "pink": "Piki",
+        "brown": "Buraun",
+        "sky-blue": "Guba buluna",
+        "cream": "Krim",
+        "gray": "Gere",
+        "white": "Kurokuro"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Kada gado bada amo duahia. Haere maorona eiava kererena ta lasi.",
+      "position": "Kada {n} lalonai, ibounai be {total}",
+      "themeLegend": "Urohehere tema",
+      "next": "Kada ma ta",
+      "previous": "Guna kadana",
+      "print": "Kada ibounai prentia",
+      "sheetTitle": "Herevahereva kadadia"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Hamatamaia emu poto abia hidi amo.",
+      "guidance": "Poto ta taraia, bena ena hegeregere potona taraia.",
+      "restart": "Bulua lou",
+      "intro": "**Poto 2 ia lao 6 abia hidi** inai misini amo. Idia be inai rau dekenai sibona idia hedinarai, bona idia siaia lasi eiava naria lasi gabu ta dekenai.",
+      "choose": "Poto abia hidi",
+      "chooseDifferent": "Poto idau abia hidi",
+      "clear": "Poto kokia",
+      "cleared": "Poto be inai rau amo idia kokia vadaeni.",
+      "atLeastTwo": "Mani emu kara poto rua eiava momo abia hidi.",
+      "usingFirst": "Poto ginigunadia {max} gaukaralaia.",
+      "skipped": {
+        "one": "Fael {count} be poto maorona lasi ai hedinaraia diba.",
+        "other": "Fael {count} be poto maorodia lasi ai hedinaraia diba."
+      },
+      "playAgain": "Gadaia lou inai poto ida",
+      "empty": "Emu poto be iniseni do idia hedinarai, tamona ta be nega rua."
+    },
+    "pictureBingo": {
+      "guidance": "Kada guna prentia. Bena inai boiboi tauna hedinaraia emu sikrin badana dekenai.",
+      "called": {
+        "one": "{name}. Laulau {called} boiboi vadaeni, ibounai be {total}.",
+        "other": "{name}. Laulau {called} boiboi vadaeni, ibounai be {total}."
+      },
+      "start": "\"Laulau ma ta\" taraia laulau ginigunana boiboi totona.",
+      "restart": "Gadara matamata hamatamaia",
+      "squaresLegend": "Pepa kuare kada ta ta dekenai",
+      "squares": "Pepa kuare {n} ({side} bona {side})",
+      "cardsLegend": "Kada hida prentia totona",
+      "cards": {
+        "one": "Kada {n}",
+        "other": "Kada {n}"
+      },
+      "print": {
+        "one": "Binko kada {n} prentia",
+        "other": "Binko kada {n} prentia"
+      },
+      "ready": "Oi hegaegae neganai ita hegaegae",
+      "next": "Laulau ma ta",
+      "allCalled": "Laulau ibounai idia boiboi vadaeni",
+      "alreadyCalled": "Boiboi vadaeni",
+      "sheetTitle": "Laulau binko · kada {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Gegea ia bada neganai laga abia, bona ia maragi neganai laga negea. Laga tauratoi murinai ia sibona do ia doko.",
+      "paceLegend": "Haraga bona metau",
+      "paceSlow": "Metau (seken 5 kahana ta ta)",
+      "paceGentle": "Manau (seken 4 kahana ta ta)",
+      "ready": "Oi hegaegae neganai",
+      "in": "Laga abia",
+      "hold": "Laga-ani",
+      "out": "Laga negea",
+      "start": "Hamatamaia",
+      "stop": "Hadokoa",
+      "started": "Ia hamatamaia vadaeni. Gegea ia bada neganai laga abia.",
+      "stopped": "Ia doko vadaeni.",
+      "finished": "Unai be laga metau tauratoi vadaeni. Oi ura neganai oi hamatamaia lou."
+    }
+  },
+  "pictures": {
+    "teacup": "Kapu ti totona",
+    "kettle": "Ketolo",
+    "bread": "Paraoa",
+    "frying-pan": "Pan mai muna ida",
+    "cake": "Keke bodai totona",
+    "sunflower": "Flaua dina",
+    "tulip": "Flaua kakarukaru",
+    "watering-can": "Kane ranu totona",
+    "potted-plant": "Au maragina uro lalonai",
+    "tree": "Au",
+    "bird": "Manu au rigina ai",
+    "butterfly": "Pepepe",
+    "dog": "Sisia",
+    "cat": "Pusi",
+    "fish": "Gwarume",
+    "apple": "Apelo kakarukaru",
+    "pear": "Pea",
+    "strawberry": "Strobeli",
+    "banana": "Biku",
+    "lemon": "Lemani",
+    "cherries": "Seri",
+    "house": "Ruma",
+    "lamp": "Lamepa tebolo totona",
+    "armchair": "Sia helai totona",
+    "key": "Kii gunana",
+    "umbrella": "Tamaru",
+    "sailboat": "Boti lai totona",
+    "car": "Motoka gunana",
+    "bicycle": "Baisikolo",
+    "balloon": "Baluni guba totona",
+    "lighthouse": "Ruma lamepa davara totona",
+    "sun": "Dina",
+    "moon": "Hua bona hisiu",
+    "teapot": "Tipoti",
+    "apple-pie": "Pai apelo totona",
+    "honey-jar": "Uro hani totona",
+    "boiled-egg": "Muna kapu lalonai",
+    "toaster": "Toasta",
+    "cheese": "Tisi",
+    "milk-jug": "Sioka miliki totona",
+    "cupcake": "Keke maragina",
+    "orange": "Arani",
+    "grapes": "Greip",
+    "watermelon": "Meleni ranu",
+    "pineapple": "Painapo",
+    "peach": "Pisi",
+    "rose": "Flaua rosi",
+    "daisies": "Flaua daisy",
+    "mushroom": "Natu",
+    "wheelbarrow": "Uilbaro",
+    "birdhouse": "Ruma manu totona",
+    "cactus": "Au gaginagagina uro ai",
+    "acorn": "Ekon",
+    "autumn-leaf": "Rau kalana idau",
+    "rabbit": "Rabiti",
+    "duck": "Daka",
+    "hen": "Kokoroku hahine",
+    "sheep": "Mamoe",
+    "owl": "Manu bounu",
+    "ladybird": "Bubu maragina",
+    "snail": "Doba",
+    "frog": "Paroka",
+    "bee": "Nani uha totona",
+    "clock": "Kolo tebolo totona",
+    "vase-of-flowers": "Vasi flaua ida",
+    "radio": "Redio gunana",
+    "books": "Buka momo",
+    "candle": "Kando",
+    "glasses": "Galasi matana",
+    "telephone": "Teleponi",
+    "ball-of-wool": "Wulu boroma",
+    "straw-hat": "Peka dina totona",
+    "train": "Tereni",
+    "bus": "Basi",
+    "airplane": "Pleini",
+    "suitcase": "Sutkesi",
+    "tractor": "Traktolo",
+    "rowing-boat": "Boti podele totona",
+    "rainbow": "Kevau",
+    "rain-cloud": "Ori medu totona",
+    "snowflake": "Sinou maragina",
+    "kite": "Manu pepa",
+    "sunrise": "Dina daekau ororo latanai"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Huahua",
+          "words": [
+            "BIKU",
+            "NIU",
+            "APELO",
+            "LEMANI",
+            "MANGO",
+            "PEA",
+            "GREIP",
+            "ORENS",
+            "MELENI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Uma",
+          "words": [
+            "FLAUA",
+            "TANO",
+            "RAU",
+            "RIGINA",
+            "UMA",
+            "URO",
+            "RANU",
+            "ROSI",
+            "TULIP"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kisin",
+          "words": [
+            "KAPU",
+            "NAU",
+            "POKI",
+            "SIPO",
+            "PAN",
+            "PULETI",
+            "LAHI",
+            "OVINI",
+            "PARAO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Guba dalana",
+          "words": [
+            "DINA",
+            "MEDU",
+            "LAI",
+            "ORI",
+            "KERU",
+            "SIAHU",
+            "GAHU",
+            "KEVAU",
+            "SINOU"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Uda gaudia",
+          "words": [
+            "SISIA",
+            "PUSI",
+            "MANU",
+            "HOSI",
+            "BOROMA",
+            "DAKA",
+            "NANI",
+            "MAMOE",
+            "MAGANI"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ruma",
+          "words": [
+            "IDUARA",
+            "SIA",
+            "LAMEPA",
+            "TEBOLO",
+            "GEDA",
+            "KII",
+            "KOLO",
+            "BEDI",
+            "RUMA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kadi ibounai",
+        "food": "Aniani",
+        "home": "Ruma",
+        "outdoors": "Daha kahana",
+        "animals": "Uda gaudia",
+        "travel": "Laolao",
+        "work": "Gaukara bona moale gaudia",
+        "music": "Miusik bona moale",
+        "seasons": "Neganege idauidau"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Kisin lalonai, bonana namona dahaka oi ura henia bada?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Moale dinana totona, keke madi dahaka bamona oi abia hidi?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Huahua pai eiava aniani hehina namona ta mai gado namona gwauraia hedinarai."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Ti eiava kofi oi inua neganai, dahaka bamona oi ura henia bada?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Daba aniani namo herea be dahaka bamona oi laloa?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Au latanai huahua oi hekwaia bona ania negana ta oi gwauraia."
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Aniani mamina hehina eiava hehedala, edena ta oi ura henia bada?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Dina siahu neganai, aniani dahaka oi ura ania bada?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Ruma ta oi noho namo henia guna be mani gwauraia."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Helai bona laga-ani totona, edena gabu oi moale henia bada?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Adorahi manau ai, dahaka kara oi moale henia bada?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Kohu namona ta maua lalonai do oi dogoatao be dahaka bamona?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Kapu ti inua hebou totona, daika do oi boiria mai?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Medu dina ai, ruma lalonai dahaka kara oi ura henia?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Flaua idauidau edena bamona oi ura uma ai hadoa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Au namona eiava tano moale gabuna ta mani gwauraia hedinarai."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Uma lalonai noho neganai, dahaka be mai moale bada herea?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Flaua mai edena kalana oi ura henia bada?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ruma lalonai au maragina bona flaua noho oi laloa namo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Dina namo herea mai siahu ai, oi ura dahaka karaia?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Sisia namona ta oi diba guna mani gwauraia."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Pusi eiava sisia, edena ta oi ura henia, bona badina dahaka?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Manu dahaka idauidau oi itaia eiava edia reirei oi kamonai?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Davara ai haoda eiava gwarume naria kara mani gwauraia."
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Uda gauna mai hairai bada herea oi itaia ta be dahaka?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Motoka namona ta oi ura henia guna mani gwauraia."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Davara isena ai eiava ororo ai dina ta haorea, edena ta oi ura henia bada?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Loaloa totona, edena gabu dekenai laolao oi ura henia bada?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Guba amo gabu ta itaia diho bema hegeregere, edena gabu oi ura itaia?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Laolao namona ta oi karaia guna mani gwauraia hedinarai."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Gaukara edena bamona oi moale henia guna?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Nega daudau lalonai, dahaka moale kara oi ura karaia noho?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Gau ta oi karaia eiava hanamoa namonamo be dahaka bamona?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Gaukara matamata hamatamaia mero eiava kekeni totona, sisiba dahaka do oi henia?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Miusik edena bamona oi kamonai neganai aena hekwaia oi ura?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Moale hebou bada be dahaka ese ia hanamoa bada?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ane abia tauna eiava hahinena edena ta oi kamonai namo henia?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Piksa eiava tiwi program oi ura itaia lou be dahaka?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Dina siahu negana lalonai, dahaka kara oi ura henia bada?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Rau idia moru negana ai, dahaka be mai moale henia bada?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Adorahi keru neganai, ruma lalonai dahaka bamona oi laga-ani namo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Au matamata tubu neganai, dahaka matamata oi itaia guna?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Sinou, medu, eiava dina: edena ta oi moale henia bada?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flaua uro lalonai",
+          "regions": {
+            "sky": "Murina",
+            "table": "Tebolo",
+            "stem": "Auna",
+            "leaf-left": "Rau lauri kahana",
+            "leaf-right": "Rau idiba kahana",
+            "petal-1": "Flaua rauna 1",
+            "petal-2": "Flaua rauna 2",
+            "petal-3": "Flaua rauna 3",
+            "petal-4": "Flaua rauna 4",
+            "petal-5": "Flaua rauna 5",
+            "petal-6": "Flaua rauna 6",
+            "petal-7": "Flaua rauna 7",
+            "petal-8": "Flaua rauna 8",
+            "center": "Flaua huana",
+            "pot": "Uro",
+            "pot-rim": "Uro uduna"
+          }
+        },
+        "house": {
+          "name": "Ruma",
+          "regions": {
+            "sky": "Guba",
+            "sun": "Dina",
+            "grass": "Rei",
+            "chimney": "Simuni",
+            "walls": "Maga",
+            "roof": "Guhi",
+            "door": "Iduara",
+            "window-left": "Gaba lauri kahana",
+            "window-right": "Gaba idiba kahana",
+            "path": "Dala"
+          }
+        },
+        "teacup": {
+          "name": "Kapu",
+          "regions": {
+            "background": "Murina",
+            "saucer": "Pulete kapu totona",
+            "handle": "Kwakwana",
+            "cup": "Kapu",
+            "band": "Maka kapu latanai",
+            "tea": "Ti"
+          }
+        },
+        "butterfly": {
+          "name": "Pepepe",
+          "regions": {
+            "background": "Murina",
+            "wing-top-left": "Hanina ata-lauri",
+            "wing-top-right": "Hanina ata-idiba",
+            "wing-bottom-left": "Hanina henu-lauri",
+            "wing-bottom-right": "Hanina henu-idiba",
+            "spot-left": "Maka lauri kahana",
+            "spot-right": "Maka idiba kahana",
+            "body": "Kopina"
+          }
+        },
+        "sailboat": {
+          "name": "Boti lai totona",
+          "regions": {
+            "sky": "Guba",
+            "sea": "Davara",
+            "sail-big": "Lai dabuana bada",
+            "sail-small": "Lai dabuana maragi",
+            "mast": "Au bada dabuana totona",
+            "hull": "Boti",
+            "flag": "Vekuvalu"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kisin bona uma",
+          "baskets": [
+            "Kuki ruma lalonai",
+            "Uma lalonai"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Huahua bona manumanu",
+          "baskets": [
+            "Huahua",
+            "Animal"
+          ]
+        },
+        "home-travel": {
+          "label": "Ruma bona laolao",
+          "baskets": [
+            "Ruma ai",
+            "Murimuri ai"
+          ]
+        }
+      }
+    }
+  }
+}

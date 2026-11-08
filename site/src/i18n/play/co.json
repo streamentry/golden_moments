@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Leghje à voce alta",
+      "stopReading": "Fermà a lettura",
+      "region": "Ghjocu",
+      "restart": "Ricumincià",
+      "soundOn": "Soni dolci attivati",
+      "soundOff": "Soni dolci disattivati",
+      "done": "Basta per oghje",
+      "feedbackQuestion": "Hè statu d'aiutu oghje ?",
+      "feedbackYes": "Iè",
+      "feedbackNo": "Micca tantu",
+      "feedbackThanks": "Vi ringraziemu per a vostra risposta."
+    },
+    "tile": {
+      "named": "{name}, casella {n}",
+      "hidden": "Fiura piattata, casella {n}",
+      "withState": "{label}, {state}",
+      "matched": "Truvatu",
+      "selected": "Sceltu",
+      "picture": "Fiura",
+      "photoNumber": "Fotò {n}"
+    },
+    "pairs": {
+      "allTogether": "Tutte e coppie sò inseme. Pudete ghjucà torna o fà una pausa.",
+      "photoPair": "Una coppia di fotò, inseme.",
+      "picturePair": "Duie fiure di {name|lower}, inseme.",
+      "selected": "{name}. Avà truvate a so coppia.",
+      "mismatch": "Pigliate u vostru tempu. Tocchete una fiura per cuntinuà.",
+      "mismatchNamed": "{a} è {b}. Pigliate u vostru tempu. Tocchete una fiura per cuntinuà."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tocchete una fiura, po tocchete quella chì li currisponde.",
+      "guidanceHidden": "Tocchete duie caselle per vultà le. Circate duie fiure listesse.",
+      "restart": "Fiure nove",
+      "sizeLegend": "Quantu caselle",
+      "size": {
+        "one": "{n} casella",
+        "other": "{n} caselle"
+      },
+      "viewLegend": "Cumu ghjucà",
+      "viewShowing": "Fiure visibili",
+      "viewHidden": "Fiure piattate",
+      "playAgain": "Ghjucà torna cù fiure nove",
+      "talk": "Parlà inseme di e fiure"
+    },
+    "choose": {
+      "countLegend": "Quantu fiure",
+      "count": "{n} à sceglie",
+      "thatOne": "Quella hè {name|lower}. Pigliate u vostru tempu."
+    },
+    "findTheSame": {
+      "guidance": "Fighjulate a fiura in cima. Tocchete a listessa fiura quì sottu.",
+      "yes": "Iè, hè a listessa fiura : {name|lower}.",
+      "next": "Fiura dopu"
+    },
+    "shadowMatch": {
+      "guidance": "Fighjulate l'ombra in cima. Tocchete a fiura chì li currisponde.",
+      "yes": "Iè, hè {name|lower} chì face st'ombra.",
+      "next": "Ombra dopu",
+      "shadowAlt": "Un'ombra da abbinà",
+      "foundAlt": "L'ombra di {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tocchete una fiura, po tocchete u spurtellu induve và.",
+      "restart": "Fiure nove",
+      "themeLegend": "Tema",
+      "selected": "{name}. Avà tocchete u spurtellu induve và.",
+      "pickFirst": "Prima tocchete una fiura, po tocchete un spurtellu.",
+      "hint": "« {name|lower} » puderia andà in « {basket} ». Tocchete stu spurtellu per mette lu quì.",
+      "placed": "{name|lower} hè in « {basket} ».",
+      "sorted": "Tuttu hè messu à postu. Pudete fighjulà i spurtelli inseme o pruvà un altru tema.",
+      "basket": {
+        "one": "Spurtellu « {basket} », {count} fiura dentru",
+        "other": "Spurtellu « {basket} », {count} fiure dentru"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tocchete un pezzu, po un altru. Si scambieranu di piazza.",
+      "restart": "Rimiscuglià torna",
+      "pictureLegend": "Fiura",
+      "pictures": {
+        "sailboat": "Barca à vela",
+        "house": "Casa",
+        "balloon": "Pallò",
+        "sunflower": "Girasole",
+        "lighthouse": "Faru",
+        "cat": "Gattu"
+      },
+      "sizeLegend": "Pezzi",
+      "size": {
+        "one": "{n} pezzu",
+        "other": "{n} pezzi"
+      },
+      "pickedUp": "Pezzu pigliatu. Avà tocchete induve deve andà.",
+      "whole": "{name|lower} hè torna sana. Pudete sceglie un'altra fiura quandu vo vulete.",
+      "swapped": {
+        "one": "Scambiatu. {correct} pezzu nant'à {total} hè à u so postu.",
+        "other": "Scambiatu. {correct} pezzi nant'à {total} sò à u so postu."
+      },
+      "guideAlt": "A fiura sana : {name}",
+      "guideText": "Eccu cumu si prisenta a fiura quand'ella hè sana.",
+      "piece": "Pezzu {place}",
+      "pieceInPlace": ", à u so postu",
+      "piecePickedUp": ", pigliatu",
+      "places4": [
+        "in cima à manca",
+        "in cima à diritta",
+        "in fondu à manca",
+        "in fondu à diritta"
+      ],
+      "places9": [
+        "in cima à manca",
+        "in cima à mezu",
+        "in cima à diritta",
+        "à mezu à manca",
+        "à u centru",
+        "à mezu à diritta",
+        "in fondu à manca",
+        "in fondu à mezu",
+        "in fondu à diritta"
+      ],
+      "done": "A fiura hè torna sana. Pudete ghjucà torna o fà una pausa.",
+      "playAgain": "Rimiscuglià dinù"
+    },
+    "finishTheSaying": {
+      "guidance": "Leghjite u pruverbiu inseme, po tocchete a parolla chì u compie.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Iè, « {start} {end}. »",
+      "otherEnding": "« {word} » pò andà dinù. Di solitu si dice « {end} ».",
+      "revealed": "U pruverbiu hè « {start} {end}. »",
+      "choicesLabel": "Sceglie l'ultima parolla",
+      "show": "Mustrà a fine",
+      "talk": "Parlà ne inseme : ",
+      "next": "Pruverbiu dopu"
+    },
+    "wordSearch": {
+      "guidance": "E parolle vanu da manca à diritta o da cima à fondu. Tocchete a prima lettera, po l'ultima.",
+      "restart": "Ghjocu novu",
+      "themeLegend": "Tema",
+      "sizeLegend": "Taglia di a griglia",
+      "size": {
+        "one": "{n} per {n} ({words} parolla)",
+        "other": "{n} per {n} ({words} parolle)"
+      },
+      "print": "Stampà stu ghjocu",
+      "letterChosen": "Lettera {letter} scelta. Avà tocchete l'ultima lettera di a parolla.",
+      "found": "« {word} » truvata.",
+      "foundAll": "« {word} » truvata. Sò state truvate tutte e parolle. Pudete ghjucà torna o fà una pausa.",
+      "tryAgain": "Pigliate u vostru tempu. Tocchete a prima lettera di a parolla, po l'ultima.",
+      "gridLabel": "Griglia di lettere, {n} linie di {n} lettere. Aduprate e frecce per passà da una lettera à l'altra.",
+      "cell": "{letter}, linea {row}, colonna {col}",
+      "cellFound": ", face parte d'una parolla truvata",
+      "wordsHeading": "Parolle da truvà",
+      "wordFound": " (truvata)",
+      "sheetTitle": "Ricerca di parolle : {theme}",
+      "sheetNote": "E parolle vanu da manca à diritta o da cima à fondu.",
+      "unavailable": "Una griglia di lettere ùn cunvene micca bè per sta lingua, dunque stu ghjocu ùn hè micca prupostu quì. Pruvate piuttostu i ghjochi cù e fiure."
+    },
+    "coloring": {
+      "guidance": "Tocchete un culore, po tocchete una parte di a fiura.",
+      "restart": "Cancellà i culori",
+      "cleared": "U fogliu hè torna viotu.",
+      "pageLegend": "Fogliu",
+      "print": "Stampà stu fogliu",
+      "colorsLabel": "Culori",
+      "paintChosen": "Culore {paint} sceltu.",
+      "painted": "{part} hè avà {paint|lower}.",
+      "artLabel": "{page}, {count} parte da culurisce",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, micca culuritu",
+      "paints": {
+        "red": "Rossu",
+        "orange": "Aranciu",
+        "yellow": "Ghjallu",
+        "green": "Verde",
+        "blue": "Turchinu",
+        "purple": "Viulinu",
+        "pink": "Rosa",
+        "brown": "Castagninu",
+        "sky-blue": "Celeste",
+        "cream": "Crema",
+        "gray": "Grisgiu",
+        "white": "Biancu"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Leghjite a carta à voce alta. Ùn ci hè micca risposta bona o gattiva.",
+      "position": "Carta {n} nant'à {total}",
+      "themeLegend": "Tema",
+      "next": "Carta dopu",
+      "previous": "Carta prima",
+      "print": "Stampà tutte e carte",
+      "sheetTitle": "Carte per parlà"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Cuminciate puru scegliendu e vostre fotò.",
+      "guidance": "Tocchete una fotò, po tocchete quella chì li currisponde.",
+      "restart": "Rimiscuglià le torna",
+      "intro": "**Sceglite da 2 à 6 fotò** nant'à stu dispusitivu. Sò mustrate solu nant'à sta pagina è ùn saranu mai caricate nè arrregistrate.",
+      "choose": "Sceglie e fotò",
+      "chooseDifferent": "Sceglie altre fotò",
+      "clear": "Caccià e fotò",
+      "cleared": "E fotò sò state cacciate da sta pagina.",
+      "atLeastTwo": "Ci vole à sceglie almenu duie fotò.",
+      "usingFirst": "Sò aduprate e prime {max} fotò.",
+      "skipped": {
+        "one": "{count} schedariu ùn era micca una fotò chì pudemu mustrà.",
+        "other": "{count} schedarii ùn eranu micca fotò chì pudemu mustrà."
+      },
+      "playAgain": "Ghjucà torna cù ste fotò",
+      "empty": "E vostre fotò appariranu quì, ognuna duie volte."
+    },
+    "pictureBingo": {
+      "guidance": "Stampate prima e carte. Dopu mustrate stu schermu nant'à u più grande screnu chì vo avete.",
+      "called": {
+        "one": "{name}. {called} fiura nant'à {total} chjamata.",
+        "other": "{name}. {called} fiure nant'à {total} chjamate."
+      },
+      "start": "Tocchete « Fiura dopu » per chjamà a prima fiura.",
+      "restart": "Cumincià una partita nova",
+      "squaresLegend": "Caselle nant'à ogni carta",
+      "squares": "{n} caselle ({side} per {side})",
+      "cardsLegend": "Quantu carte da stampà",
+      "cards": {
+        "one": "{n} carta",
+        "other": "{n} carte"
+      },
+      "print": {
+        "one": "Stampà {n} carta di u bingo",
+        "other": "Stampà {n} carte di u bingo"
+      },
+      "ready": "Pronti quandu vo vulete",
+      "next": "Fiura dopu",
+      "allCalled": "Tutte e fiure sò state chjamate",
+      "alreadyCalled": "Ghjè dighjà stata chjamata",
+      "sheetTitle": "Bingo di e fiure · carta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Pigliate u rispiru quandu u chjerchju cresce, è cacciatelu quand'ellu rimpicciolisce. S'arresta da per ellu dopu à sei rispiri.",
+      "paceLegend": "Ritmu",
+      "paceSlow": "Lentu (5 seconde per volta)",
+      "paceGentle": "Tranquillu (4 seconde per volta)",
+      "ready": "Prontu quandu vulete",
+      "in": "Pigliate u rispiru",
+      "hold": "Riposu",
+      "out": "Cacciate u rispiru",
+      "start": "Principià",
+      "stop": "Piantà",
+      "started": "Cuminciatu. Pigliate u rispiru quandu u chjerchju cresce.",
+      "stopped": "Piantatu.",
+      "finished": "Eccu sei rispiri lenti. Pudete ricumincià quandu vulete."
+    }
+  },
+  "pictures": {
+    "teacup": "Tazza di tè",
+    "kettle": "Bollidore",
+    "bread": "Pane",
+    "frying-pan": "Teglia cù un ovu",
+    "cake": "Turta d'anniversariu",
+    "sunflower": "Girasole",
+    "tulip": "Tulipanu rossu",
+    "watering-can": "Annacquatoghju",
+    "potted-plant": "Pianta in un vasu",
+    "tree": "Arburu",
+    "bird": "Pettirossu nant'à una rama",
+    "butterfly": "Farfallula",
+    "dog": "Cane",
+    "cat": "Ghjattu",
+    "fish": "Pesciu rossu",
+    "apple": "Mela rossa",
+    "pear": "Pera",
+    "strawberry": "Fraula",
+    "banana": "Banana",
+    "lemon": "Limone",
+    "cherries": "Cirasgie",
+    "house": "Casa",
+    "lamp": "Lampu da tavulinu",
+    "armchair": "Pultrona",
+    "key": "Chjave antica",
+    "umbrella": "Paracqua",
+    "sailboat": "Barca à vela",
+    "car": "Vittura anziana",
+    "bicycle": "Bicicletta",
+    "balloon": "Mungulfiera",
+    "lighthouse": "Faru",
+    "sun": "Sole",
+    "moon": "Luna è stelle",
+    "teapot": "Tettiera",
+    "apple-pie": "Turta di mele",
+    "honey-jar": "Barrottu di mele",
+    "boiled-egg": "Ovu in u purtaovu",
+    "toaster": "Tostapane",
+    "cheese": "Pezzu di casgiu",
+    "milk-jug": "Briccu di latte",
+    "cupcake": "Pastizzolu",
+    "orange": "Aranciu",
+    "grapes": "Gaspa d'uva",
+    "watermelon": "Fetta di cucumera",
+    "pineapple": "Ananassu",
+    "peach": "Pesca",
+    "rose": "Rosa",
+    "daisies": "Margherite",
+    "mushroom": "Fungulu",
+    "wheelbarrow": "Carriola",
+    "birdhouse": "Casuccia per l'acelli",
+    "cactus": "Cactus in un vasu",
+    "acorn": "Ghjandula",
+    "autumn-leaf": "Feglia d'autunnu",
+    "rabbit": "Cunigliulu",
+    "duck": "Anatra",
+    "hen": "Gallina",
+    "sheep": "Pecura",
+    "owl": "Civetta",
+    "ladybird": "Babbarellu",
+    "snail": "Lochja",
+    "frog": "Ranuchja",
+    "bee": "Ape",
+    "clock": "Pendula",
+    "vase-of-flowers": "Vasu di fiori",
+    "radio": "Radiò antica",
+    "books": "Pila di libri",
+    "candle": "Candela",
+    "glasses": "Occhjali da leghje",
+    "telephone": "Telefunu",
+    "ball-of-wool": "Gomitulu di lana",
+    "straw-hat": "Cappellu di paglia",
+    "train": "Trenu à vapore",
+    "bus": "Autubussu",
+    "airplane": "Aviò",
+    "suitcase": "Valisgia",
+    "tractor": "Trattore",
+    "rowing-boat": "Barca à remi",
+    "rainbow": "Arcubalenu",
+    "rain-cloud": "Nulu di piuvita",
+    "snowflake": "Fioccu di neve",
+    "kite": "Aquilone",
+    "sunrise": "Alba nant'à e culline"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHILMNOPRSTUVZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Frutti",
+          "words": [
+            "MELA",
+            "PERA",
+            "PRUNA",
+            "LIMONE",
+            "UVA",
+            "PESCA",
+            "MELONE",
+            "LIMA",
+            "FIGU"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Giardinu",
+          "words": [
+            "ROSA",
+            "TULIPA",
+            "GRANA",
+            "TERRA",
+            "FEGLIA",
+            "ARBURU",
+            "PRATU",
+            "STAGNU",
+            "APE"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cucina",
+          "words": [
+            "TAZZA",
+            "PANE",
+            "TEGLIA",
+            "PIATTU",
+            "FORNU",
+            "FORCA",
+            "SALE",
+            "OLIU",
+            "VASU"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tempu",
+          "words": [
+            "SOLE",
+            "PIOVA",
+            "NEVE",
+            "VENTU",
+            "NULU",
+            "BRUMA",
+            "TEMPU",
+            "CALDU",
+            "GELU"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animali",
+          "words": [
+            "CANE",
+            "ACELLU",
+            "PESCIU",
+            "VACCIA",
+            "CAPRA",
+            "PECURA",
+            "ANATRA",
+            "VOLPE",
+            "LUPU"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Casa",
+          "words": [
+            "PORTA",
+            "SEDIA",
+            "LAMPU",
+            "LETTU",
+            "TAVULA",
+            "MURU",
+            "TETTU",
+            "SALA",
+            "CHJAVE"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Tutte e carte",
+        "food": "U manghjà",
+        "home": "A casa",
+        "outdoors": "A natura",
+        "animals": "L'animali",
+        "travel": "I viaghji",
+        "work": "U travagliu è i passatempi",
+        "music": "A musica è e feste",
+        "seasons": "E staghjone"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Chì ghjè l'odoru di a cucina chì vi piace u più?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Chì tipu di turta sceglieriate per una festa?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Parlatemi d'un dolce o d'una turta di frutti chì vi piace assai."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Cumu vi piace piglià u tè o u caffè?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Chì ci vole per fà una bella cullazione a mane?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "V'hè mai capitatu di coglie a frutta direttamente da l'arburu o da a pianta?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dolce o acitrosu: chì gustu preferite?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Chì manghjusca vi face pinsà subitu à l'estate?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Parlatemi d'una casa duve site statu bè."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Induve vi piace à pusavvi per ripusavvi tranquilli?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Chì vi piace à fà durante una serata tranquilla?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Chì picculu tesoru cunservariete ind'una scatula preziosa?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "À quale inviteriate à sparte una tazza di tè?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Chì vi piace à fà quandu ellu piove?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Chì fiori piantariete ind'un giardinu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Parlatemi d'un arburu o d'un parcu chì vi piace assai."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Chì ghjè ciò chì vi piace di più quandu site ind'un giardinu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Chì culore di fiori preferite?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Vi piace avè piante drentu à a casa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Cumu imaginate una bella ghjurnata di sole?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Parlatemi d'un cane chì avete cunnisciutu."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Ghjatti o cani, o nè l'unu nè l'altru? Chì vi piace in elli?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Chì acelli vidite o sentite fora?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Site mai andatu à piscà, o avete mai avutu un acquariu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Chì ghjè l'animale u più bellu chì avete mai vistu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Parlatemi d'una vittura chì vi piacia assai."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Preferite passà una ghjurnata à u mare o in muntagna?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Induve vi piacerebbe andà à fà una spassighjata?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "S'è voi pudiate bulà sopra à un locu, quale sceglieriate?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Parlatemi d'un viaghju chì v'hà lasciatu una bella mimoria."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Chì travagliu vi hè piaciutu di fà in a vostra vita?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Chì passatempu puderia occupavvi per ore sane?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Chì cosa sapete fabricà o riparà particolarmente bè?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Chì cunsigliu dareste à un ghjovanu chì principia u travagliu?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Chì musica vi dà voglia di movevi o di marchjà à u ritmu?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Chì ci vole per fà una bella festa riesciuta?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Quale hè un cantante o una cantante chì vi piace à stà à sente?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Chì filmu o trasmissione vi piace à rivede vulinteri?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Chì hè ciò chì vi piace di più di l'estate?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Chì vi piace in a staghjone di u vaghjimu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Chì cosa piacevule vi piace à fà ind'una sera d'inguernu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Per voi, da chì si ricunnosce u principiu di a primavera?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "A neve, a pioggia o u sole: chì preferite?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Fiore in un vasu",
+          "regions": {
+            "sky": "Sfondu",
+            "table": "Tavula",
+            "stem": "Gambu",
+            "leaf-left": "Feglia manca",
+            "leaf-right": "Feglia diritta",
+            "petal-1": "Petalu 1",
+            "petal-2": "Petalu 2",
+            "petal-3": "Petalu 3",
+            "petal-4": "Petalu 4",
+            "petal-5": "Petalu 5",
+            "petal-6": "Petalu 6",
+            "petal-7": "Petalu 7",
+            "petal-8": "Petalu 8",
+            "center": "Centru di u fiore",
+            "pot": "Vasu",
+            "pot-rim": "Bordu di u vasu"
+          }
+        },
+        "house": {
+          "name": "Casa",
+          "regions": {
+            "sky": "Celu",
+            "sun": "Sole",
+            "grass": "Erba",
+            "chimney": "Caminera",
+            "walls": "Muri",
+            "roof": "Tettu",
+            "door": "Porta",
+            "window-left": "Finestra manca",
+            "window-right": "Finestra diritta",
+            "path": "Chjassu"
+          }
+        },
+        "teacup": {
+          "name": "Tazza di tè",
+          "regions": {
+            "background": "Sfondu",
+            "saucer": "Sottutazza",
+            "handle": "Mancu",
+            "cup": "Tazza",
+            "band": "Striscia nant'à a tazza",
+            "tea": "Tè"
+          }
+        },
+        "butterfly": {
+          "name": "Farfallula",
+          "regions": {
+            "background": "Sfondu",
+            "wing-top-left": "Ala alta manca",
+            "wing-top-right": "Ala alta diritta",
+            "wing-bottom-left": "Ala bassa manca",
+            "wing-bottom-right": "Ala bassa diritta",
+            "spot-left": "Puntu di l'ala manca",
+            "spot-right": "Puntu di l'ala diritta",
+            "body": "Corpu"
+          }
+        },
+        "sailboat": {
+          "name": "Barca à vela",
+          "regions": {
+            "sky": "Celu",
+            "sea": "Mare",
+            "sail-big": "Vela maiò",
+            "sail-small": "Piccula vela",
+            "mast": "Arburu di a barca",
+            "hull": "Scafu",
+            "flag": "Bandera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cucina è giardinu",
+          "baskets": [
+            "In cucina",
+            "In u giardinu"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frutti è animali",
+          "baskets": [
+            "Frutti",
+            "Animali"
+          ]
+        },
+        "home-travel": {
+          "label": "Casa è viaghji",
+          "baskets": [
+            "In casa",
+            "In giru"
+          ]
+        }
+      }
+    }
+  }
+}

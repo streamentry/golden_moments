@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Leyer en voz alta",
+      "stopReading": "Aturar a lectura",
+      "region": "Chuego",
+      "restart": "Tornar a prencipiar",
+      "soundOn": "Sonius suaus activaus",
+      "soundOff": "Sonius suaus desactivaus",
+      "done": "Feito por agora",
+      "feedbackQuestion": "Ha serviu d'aduya güei?",
+      "feedbackYes": "Sí",
+      "feedbackNo": "No guaire",
+      "feedbackThanks": "Munchas gracias por decir-nos-lo."
+    },
+    "tile": {
+      "named": "{name}, casiella {n}",
+      "hidden": "Imachen amagada, casiella {n}",
+      "withState": "{label}, {state}",
+      "matched": "Emparellada",
+      "selected": "Trigada",
+      "picture": "Imachen",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Totas as parellas chuntas. Puet tornar a chugar u fer una pausa.",
+      "photoPair": "Una parella de fotos, chuntas.",
+      "picturePair": "Dos imachens de {name|lower}, chuntas.",
+      "selected": "{name}. Agora trobe a suya parella.",
+      "mismatch": "Faiga con calma. Toque una imachen ta continar.",
+      "mismatchNamed": "{a} y {b}. Faiga con calma. Toque una imachen ta continar."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Toque una imachen y dimpués toque a que fa parella.",
+      "guidanceHidden": "Toque dos casiellas ta chirar-las. Busque dos que sían iguals.",
+      "restart": "Imachens nuevas",
+      "sizeLegend": "Quantas casiellas",
+      "size": {
+        "one": "{n} casiella",
+        "other": "{n} casiellas"
+      },
+      "viewLegend": "Cómo chugar",
+      "viewShowing": "Imachens a la vista",
+      "viewHidden": "Imachens amagadas",
+      "playAgain": "Tornar a chugar con imachens nuevas",
+      "talk": "Charren chuntos sobre as imachens"
+    },
+    "choose": {
+      "countLegend": "Quantas imachens",
+      "count": "{n} ta trigar",
+      "thatOne": "Ixe ye o {name|lower}. Faiga con calma."
+    },
+    "findTheSame": {
+      "guidance": "Mire a imachen d'alto. Toque a mesma imachen d'abaixo.",
+      "yes": "Sí, ye o mesmo {name|lower}.",
+      "next": "Imachen siguient"
+    },
+    "shadowMatch": {
+      "guidance": "Mire a uembra d'alto. Toque a imachen que la fa.",
+      "yes": "Sí, o {name|lower} fa ixa uembra.",
+      "next": "Uembra siguient",
+      "shadowAlt": "Una uembra ta emparellar",
+      "foundAlt": "A uembra de {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Toque una imachen y dimpués toque a canasta an que va.",
+      "restart": "Imachens nuevas",
+      "themeLegend": "Tema",
+      "selected": "{name}. Agora toque a canasta an que va.",
+      "pickFirst": "Primero toque una imachen y dimpués una canasta.",
+      "hint": "O {name|lower} poderba ir en \"{basket}\". Toque ixa canasta ta meter-lo-ie.",
+      "placed": "O {name|lower} ye en \"{basket}\".",
+      "sorted": "Tot ye clasificau. Miren as canastas chuntos u preben atro tema.",
+      "basket": {
+        "one": "Canasta \"{basket}\", {count} imachen adintro",
+        "other": "Canasta \"{basket}\", {count} imachens adintro"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Toque una pieza y dimpués una atra. Se cambiarán de puesto.",
+      "restart": "Tornar a mezclar",
+      "pictureLegend": "Imachen",
+      "pictures": {
+        "sailboat": "Velero",
+        "house": "Casa",
+        "balloon": "Globo",
+        "sunflower": "Girasol",
+        "lighthouse": "Faro",
+        "cat": "Gato"
+      },
+      "sizeLegend": "Piezas",
+      "size": {
+        "one": "{n} pieza",
+        "other": "{n} piezas"
+      },
+      "pickedUp": "Pieza seleccionada. Agora toque a on ha d'ir.",
+      "whole": "A imachen de {name|lower} ye completa atra vegada. Trigue un'atra imachen quan quiera.",
+      "swapped": {
+        "one": "Cambiada. {correct} de {total} pieza ye en o suyo puesto.",
+        "other": "Cambiadas. {correct} de {total} piezas son en o suyo puesto."
+      },
+      "guideAlt": "A imachen completa: {name}",
+      "guideText": "Así ye como se veye a imachen quan ye completa.",
+      "piece": "Pieza en {place}",
+      "pieceInPlace": ", en o puesto correcto",
+      "piecePickedUp": ", seleccionada",
+      "places4": [
+        "alto a la zurda",
+        "alto a la dreita",
+        "abaixo a la zurda",
+        "abaixo a la dreita"
+      ],
+      "places9": [
+        "alto a la zurda",
+        "alto en o centro",
+        "alto a la dreita",
+        "en meyo a la zurda",
+        "en o centro",
+        "en meyo a la dreita",
+        "abaixo a la zurda",
+        "abaixo en o centro",
+        "abaixo a la dreita"
+      ],
+      "done": "A imachen ye completa atra vegada. Puet tornar a chugar u fer una pausa.",
+      "playAgain": "Tornar a mezclar"
+    },
+    "finishTheSaying": {
+      "guidance": "Leigan o refrán chuntos y dimpués toquen a palabra que lo remata.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Sí, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" tamién vale. O refrán habitual remata con \"{end}\".",
+      "revealed": "O refrán ye \"{start} {end}.\"",
+      "choicesLabel": "Trigue a zaguera palabra",
+      "show": "Amostrar o final",
+      "talk": "Charren sobre ixo: ",
+      "next": "Refrán siguient"
+    },
+    "wordSearch": {
+      "guidance": "As palabras van en horizontal u en vertical. Toque a primera letra d'una palabra y dimpués a zaguera.",
+      "restart": "Nuevo pasatiempos",
+      "themeLegend": "Tema",
+      "sizeLegend": "Mida d'a graella",
+      "size": {
+        "one": "{n} por {n} ({words} palabra)",
+        "other": "{n} por {n} ({words} palabras)"
+      },
+      "print": "Imprentar iste pasatiempos",
+      "letterChosen": "Letra {letter} trigada. Agora toque a zaguera letra d'a palabra.",
+      "found": "{word} trobada.",
+      "foundAll": "{word} trobada. Ya son totas as palabras. Puet tornar a chugar u fer una pausa.",
+      "tryAgain": "Faiga con calma. Toque a primera letra d'una palabra y dimpués a zaguera.",
+      "gridLabel": "Graella de letras, {n} ringleras de {n} letras. Faiga servir as fletas ta mover-se entre as letras.",
+      "cell": "{letter}, ringlera {row}, columna {col}",
+      "cellFound": ", parte d'una palabra trobada",
+      "wordsHeading": "Palabras a trobar",
+      "wordFound": " (trobada)",
+      "sheetTitle": "Sopa de letras: {theme}",
+      "sheetNote": "As palabras van en horizontal u en vertical.",
+      "unavailable": "Una graella de letras no s'adapta bien a iste idioma, por lo que a sopa de letras no ye disponible aquí. Pruebe con os chuegos d'imachens."
+    },
+    "coloring": {
+      "guidance": "Toque una color y dimpués toque una parte d'a imachen.",
+      "restart": "Borrar as colors",
+      "cleared": "A fuella ye en blanco atra vegada.",
+      "pageLegend": "Pachina",
+      "print": "Imprentar ista pachina",
+      "colorsLabel": "Colors",
+      "paintChosen": "Color {paint} trigada.",
+      "painted": "{part} agora ye {paint|lower}.",
+      "artLabel": "{page}, {count} partes ta pintar",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, sin pintar",
+      "paints": {
+        "red": "Royo",
+        "orange": "Narancha",
+        "yellow": "Amariello",
+        "green": "Verde",
+        "blue": "Azul",
+        "purple": "Morau",
+        "pink": "Rosa",
+        "brown": "Marrón",
+        "sky-blue": "Azul claro",
+        "cream": "Crema",
+        "gray": "Gris",
+        "white": "Blanco"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Leigan a tarcheta en voz alta. No bi ha respuestas correctas ni incorrectas.",
+      "position": "Tarcheta {n} de {total}",
+      "themeLegend": "Tema",
+      "next": "Tarcheta siguient",
+      "previous": "Tarcheta anterior",
+      "print": "Imprentar totas as tarchetas",
+      "sheetTitle": "Tarchetas de conversa"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Prencipie trigando as suyas fotos.",
+      "guidance": "Toque una foto y dimpués toque a que fa parella.",
+      "restart": "Tornar a mezclar-las",
+      "intro": "**Trigue entre 2 y 6 fotos** d'iste dispositivo. Solo s'amuestran en ista pachina y nunca no se puyan ni se guardan.",
+      "choose": "Trigar fotos",
+      "chooseDifferent": "Trigar atras fotos",
+      "clear": "Borrar fotos",
+      "cleared": "Fotos borradas d'ista pachina.",
+      "atLeastTwo": "Por favor, trigue a o menos dos fotos.",
+      "usingFirst": "Emplegando as primeras {max} fotos.",
+      "skipped": {
+        "one": "{count} fichero no yera una foto que podamos amostrar.",
+        "other": "{count} fichers no yeran fotos que podamos amostrar."
+      },
+      "playAgain": "Tornar a chugar con istas fotos",
+      "empty": "As suyas fotos amaneixerán aquí, cadaguna dos vegadas."
+    },
+    "pictureBingo": {
+      "guidance": "Imprenten as tarchetas primero. Dimpués amuestren ista pantalla en a pantalla más gran que tiengan.",
+      "called": {
+        "one": "{name}. S'ha cantau {called} de {total} imachen.",
+        "other": "{name}. S'han cantau {called} de {total} imachens."
+      },
+      "start": "Toque \"Imachen siguient\" ta cantar a primera imachen.",
+      "restart": "Prencipiar una partida nueva",
+      "squaresLegend": "Casiellas en cada tarcheta",
+      "squares": "{n} casiellas ({side} por {side})",
+      "cardsLegend": "Quantas tarchetas imprentar",
+      "cards": {
+        "one": "{n} tarcheta",
+        "other": "{n} tarchetas"
+      },
+      "print": {
+        "one": "Imprentar {n} tarcheta de bingo",
+        "other": "Imprentar {n} tarchetas de bingo"
+      },
+      "ready": "A punto quan quiera",
+      "next": "Imachen siguient",
+      "allCalled": "S'han cantau totas as imachens",
+      "alreadyCalled": "Ya cantada",
+      "sheetTitle": "Bingo d'imachens · tarcheta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Aspire a mesura que o cerclo creixe, y expire quan se faiga chicot. Se para solo dimpués de seis respiracions.",
+      "paceLegend": "Ritmo",
+      "paceSlow": "Lento (5 segundos cada vegada)",
+      "paceGentle": "Suau (4 segundos cada vegada)",
+      "ready": "A punto quan quiera",
+      "in": "Aspire",
+      "hold": "Descanse",
+      "out": "Expire",
+      "start": "Prencipiar",
+      "stop": "Aturar",
+      "started": "Prencipiau. Aspire a mesura que o cerclo creixe.",
+      "stopped": "Aturau.",
+      "finished": "Han estau seis respiracions lentas. Torne a prencipiar quan quiera."
+    }
+  },
+  "pictures": {
+    "teacup": "Taza de té",
+    "kettle": "Caldereta",
+    "bread": "Fugaza de pan",
+    "frying-pan": "Sartén con un uego",
+    "cake": "Pastel de cumpleanyos",
+    "sunflower": "Chirasol",
+    "tulip": "Tulipa roya",
+    "watering-can": "Regadera",
+    "potted-plant": "Planta en tiesto",
+    "tree": "Árbol",
+    "bird": "Pitarroi en una branca",
+    "butterfly": "Parpalla",
+    "dog": "Can",
+    "cat": "Gato",
+    "fish": "Peix dorau",
+    "apple": "Mazana roya",
+    "pear": "Pera",
+    "strawberry": "Fraga",
+    "banana": "Plátano",
+    "lemon": "Limón",
+    "cherries": "Ceresas",
+    "house": "Casa",
+    "lamp": "Lámpara de mesa",
+    "armchair": "Butaca",
+    "key": "Clau viella",
+    "umbrella": "Paraugas",
+    "sailboat": "Barco de vela",
+    "car": "Coche clasico",
+    "bicycle": "Bicicleta",
+    "balloon": "Globo aerostatico",
+    "lighthouse": "Faro",
+    "sun": "Sol",
+    "moon": "Luna y estrelas",
+    "teapot": "Tetera",
+    "apple-pie": "Pastel de mazana",
+    "honey-jar": "Tarro de miel",
+    "boiled-egg": "Uego en huevera",
+    "toaster": "Tostadera",
+    "cheese": "Tallo de queso",
+    "milk-jug": "Charra de leit",
+    "cupcake": "Madalena",
+    "orange": "Narancha",
+    "grapes": "Ramo d'uvas",
+    "watermelon": "Tallada de sandía",
+    "pineapple": "Pinya",
+    "peach": "Presco",
+    "rose": "Rosa",
+    "daisies": "Margaritas",
+    "mushroom": "Fongo",
+    "wheelbarrow": "Carretillo",
+    "birdhouse": "Caseta de paixaros",
+    "cactus": "Cactus en tiesto",
+    "acorn": "Glán",
+    "autumn-leaf": "Fuella d'agüerro",
+    "rabbit": "Conello",
+    "duck": "Pato",
+    "hen": "Gallina",
+    "sheep": "Ovella",
+    "owl": "Mochuelo",
+    "ladybird": "Marieta",
+    "snail": "Caragol",
+    "frog": "Granota",
+    "bee": "Abella",
+    "clock": "Reloch de sobremesa",
+    "vase-of-flowers": "Charro con flors",
+    "radio": "Radio viella",
+    "books": "Pila de libros",
+    "candle": "Candela",
+    "glasses": "Gafas de leyer",
+    "telephone": "Telefono",
+    "ball-of-wool": "Madeixa de lana",
+    "straw-hat": "Sombrero de palla",
+    "train": "Tren de vapor",
+    "bus": "Autobús",
+    "airplane": "Avión",
+    "suitcase": "Maleta",
+    "tractor": "Tractor",
+    "rowing-boat": "Barca de remos",
+    "rainbow": "Arco d'iris",
+    "rain-cloud": "Nubre de pluya",
+    "snowflake": "Floco de nieu",
+    "kite": "Milano",
+    "sunrise": "Salida d'o sol en os tozals"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHILMNOPRSTUVZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruita",
+          "words": [
+            "POMA",
+            "PERA",
+            "PRUNA",
+            "LIMON",
+            "UVA",
+            "FIGA",
+            "MELON",
+            "MORA",
+            "PINYA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Chardín",
+          "words": [
+            "ROSA",
+            "TULIPA",
+            "FLOR",
+            "TIERRA",
+            "FUELLA",
+            "ARBOL",
+            "BALSA",
+            "PLANTA",
+            "ABELLA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cocina",
+          "words": [
+            "TAZA",
+            "CULLER",
+            "PAN",
+            "PAELLA",
+            "PLATO",
+            "OLLA",
+            "FORNO",
+            "FORCA",
+            "VASO"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "O tiempo",
+          "words": [
+            "SOL",
+            "PLUYA",
+            "NIEU",
+            "VIENTO",
+            "NUBRE",
+            "BOIRA",
+            "FRED",
+            "CALOR",
+            "TRUENO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animals",
+          "words": [
+            "CAN",
+            "GATO",
+            "PAXARO",
+            "PEIX",
+            "VACA",
+            "PATO",
+            "CRABA",
+            "OVELLA",
+            "GALLO"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Casa",
+          "words": [
+            "PORTA",
+            "SILLA",
+            "LUM",
+            "LEITO",
+            "ESTERA",
+            "SOFA",
+            "RELOCH",
+            "MESA",
+            "CLAU"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Todas as tarchetas",
+        "food": "Comida",
+        "home": "O fogar",
+        "outdoors": "A l'aire libre",
+        "animals": "Animals",
+        "travel": "Viaches",
+        "work": "Treballo y aficions",
+        "music": "Musica y fiesta",
+        "seasons": "Estacions de l'anyo"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Cuál ye a olor d'a cocina que más le fa goyo?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Qué clase de pastel esleyerba ta una celebración?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Conte-me sobre un pastel de fruita u postre que le faiga goyo."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Cómo le fa goyo prener o té u o café?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Qué ye o que fa que un desachuno sía bien bueno?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ha culliu bella vegada fruita dreitament d'a mata u de l'árbol?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dulce u agro: cuál le fa más goyo?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Qué comida le fa recordar o verano?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Conte-me sobre una casa a on le fese goyo vivir."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Cuál ye o suyo puesto preferiu ta posar-se y descansar?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Qué le fa goyo fer en un tardi-ser tranquil?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Qué tresoro guardaría en una caixa especial?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "A qui convidarba a prener una taza de té?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Qué le fa goyo fer en un día de pluya?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Qué flors plantaría en un chardín?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Conte-me sobre bel árbol u parque que le faiga goyo."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Qué ye o millor d'estar en un chardín?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "De qué color le fan más goyo as flors?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Le fa goyo tener plantas en casa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Cómo sería ta vusté un día de sol perfecto?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Conte-me sobre bel can que haiga conoixiu."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Gatos u cans, u garra d'ells? Qué le cuaca d'ells?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Qué paixaros gosa veyer u sentir fuera?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ha iu a pescar bella vegada, u ha teniu un acuario?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Cuál ye l'animal más poliu que ha visto?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Conte-me sobre bel coche que le fese goyo."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Se'n iría antes a pasar o día a la placha u a la montanya?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "A on le ferba goyo ir a dar una vuelta?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Si podese volar por dencima de cualsiquier puesto, cuál esleyerba?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Conte-me sobre bel viache que le fese goyo."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Qué clase de treballo le ha dau más satisfacción?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Con qué afición se pasaría horas y horas?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Qué yera aquello que a vusté se le daba tan bien fer u apanyar?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Qué consello le daría a un choven que prencipia a treballar?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Qué clase de musica le fa mover os piez?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Qué fa que una fiesta sía bien alegre?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Qué cantaire le fa goyo ascuitar?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Cuál ye una pelicula u programa que le faiga goyo tornar a veyer?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Qué ye o que más le fa goyo d'o verano?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Qué ye o que más le cuaca de l'agüerro?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Qué le fa goyo fer en una tarde d'hibierno a o calorico?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Cuáles son ta vusté os primers sinyals d'a primavera?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Nieu, pluya u sol: qué s'estima más?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flor en un tiesto",
+          "regions": {
+            "sky": "Fondo",
+            "table": "Mesa",
+            "stem": "Tallo",
+            "leaf-left": "Fuella ezquierda",
+            "leaf-right": "Fuella dreita",
+            "petal-1": "Petalo 1",
+            "petal-2": "Petalo 2",
+            "petal-3": "Petalo 3",
+            "petal-4": "Petalo 4",
+            "petal-5": "Petalo 5",
+            "petal-6": "Petalo 6",
+            "petal-7": "Petalo 7",
+            "petal-8": "Petalo 8",
+            "center": "Centro d'a flor",
+            "pot": "Tiesto",
+            "pot-rim": "Canto d'o tiesto"
+          }
+        },
+        "house": {
+          "name": "Casa",
+          "regions": {
+            "sky": "Cielo",
+            "sun": "Sol",
+            "grass": "Hierba",
+            "chimney": "Chaminera",
+            "walls": "Paretz",
+            "roof": "Teclau",
+            "door": "Porta",
+            "window-left": "Finestra ezquierda",
+            "window-right": "Finestra dreita",
+            "path": "Camín"
+          }
+        },
+        "teacup": {
+          "name": "Taza de té",
+          "regions": {
+            "background": "Fondo",
+            "saucer": "Platiello",
+            "handle": "Asa",
+            "cup": "Taza",
+            "band": "Francha d'a taza",
+            "tea": "Té"
+          }
+        },
+        "butterfly": {
+          "name": "Parpalla",
+          "regions": {
+            "background": "Fondo",
+            "wing-top-left": "Ala superior ezquierda",
+            "wing-top-right": "Ala superior dreita",
+            "wing-bottom-left": "Ala inferior ezquierda",
+            "wing-bottom-right": "Ala inferior dreita",
+            "spot-left": "Mota d'ala ezquierda",
+            "spot-right": "Mota d'ala dreita",
+            "body": "Cuerpo"
+          }
+        },
+        "sailboat": {
+          "name": "Barco de vela",
+          "regions": {
+            "sky": "Cielo",
+            "sea": "Mar",
+            "sail-big": "Vela gran",
+            "sail-small": "Vela chicota",
+            "mast": "Palo",
+            "hull": "Casco",
+            "flag": "Bandera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cocina y huerto",
+          "baskets": [
+            "En a cocina",
+            "En o chardín"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fruita y animals",
+          "baskets": [
+            "Fruita",
+            "Animals"
+          ]
+        },
+        "home-travel": {
+          "label": "Casa y viaches",
+          "baskets": [
+            "En casa",
+            "Fuera de casa"
+          ]
+        }
+      }
+    }
+  }
+}

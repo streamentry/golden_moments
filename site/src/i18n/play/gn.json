@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Emoñe'ẽ hatã",
+      "stopReading": "Emombyta ñemoñe'ẽ",
+      "region": "Ñembosarái",
+      "restart": "Eñepyrũ jey",
+      "soundOn": "Tyapu mbegue hendy",
+      "soundOff": "Tyapu mbegue ogue",
+      "done": "Oĩmbáma ko'ág̃arã",
+      "feedbackQuestion": "¿Oipytyvõpa ndéve ko árape?",
+      "feedbackYes": "Hẽe",
+      "feedbackNo": "Nahániriiterei",
+      "feedbackThanks": "Aguyje emombe'u haguére oréve."
+    },
+    "tile": {
+      "named": "{name}, vore {n}",
+      "hidden": "Ta'anga okañýva, vore {n}",
+      "withState": "{label}, {state}",
+      "matched": "Ojueheguáma",
+      "selected": "Poravopyre",
+      "picture": "Ta'anga",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Oĩmbáma umi joyvy oñondive. Eñembosarái jey térã epytu'umi.",
+      "photoPair": "Mokõi foto oñondiveguáva, oñondive.",
+      "picturePair": "Mokõi ta'anga {name|lower} rehegua, oñondive.",
+      "selected": "{name}. Ko'ág̃a eheka ijoyvy.",
+      "mismatch": "Ani rejapura. Epoko peteĩ ta'angáre rehove hag̃ua.",
+      "mismatchNamed": "{a} ha {b}. Ani rejapura. Epoko peteĩ ta'angáre rehove hag̃ua."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Epoko peteĩ ta'angáre, upéi epoko upe ojoguávare chupe.",
+      "guidanceHidden": "Epoko mokõi vorére rembojere hag̃ua. Eheka mokõi ojojoguáva.",
+      "restart": "Ta'anga pyahu",
+      "sizeLegend": "Mboy vorépa",
+      "size": {
+        "one": "{n} vore",
+        "other": "{n} vorekuéra"
+      },
+      "viewLegend": "Mba'éichapa reñembosaráita",
+      "viewShowing": "Ta'angakuéra ojehecháva",
+      "viewHidden": "Ta'angakuéra okañýva",
+      "playAgain": "Eñembosarái jey ta'anga pyahúndi",
+      "talk": "Ñañemongeta oñondive umi ta'angáre"
+    },
+    "choose": {
+      "countLegend": "Mboy ta'angápa",
+      "count": "{n} eiporavo hag̃ua",
+      "thatOne": "Amo ha'e {name|lower}. Ani rejapura."
+    },
+    "findTheSame": {
+      "guidance": "Ema'ẽ pe ta'anga yvatéguare. Epoko pe ojoguaitévare chupe iguýpe.",
+      "yes": "Hẽe, pe {name|lower} ha'eteéva.",
+      "next": "Ta'anga oúva"
+    },
+    "shadowMatch": {
+      "guidance": "Ema'ẽ pe kuarahy'ã oĩva yvate. Epoko pe ta'anga ojapóvare chupe.",
+      "yes": "Hẽe, pe {name|lower} ojapo upe kuarahy'ã.",
+      "next": "Kuarahy'ã oúva",
+      "shadowAlt": "Peteĩ kuarahy'ã ejuaju hag̃ua",
+      "foundAlt": "Pe {name|lower} kuarahy'ã"
+    },
+    "sortTogether": {
+      "guidance": "Epoko peteĩ ta'angáre, upéi epoko pe ajaka oĩva'erãhápe.",
+      "restart": "Ta'anga pyahu",
+      "themeLegend": "Mba'e reheguápa",
+      "selected": "{name}. Ko'ág̃a epoko pe ajaka ohohápe.",
+      "pickFirst": "Ñepyrũrã epoko peteĩ ta'angáre, upéi epoko peteĩ ajakáre.",
+      "hint": "Pe {name|lower} ikatu oike \"{basket}\"-pe. Epoko upe ajakáre emoĩ hag̃ua uppe.",
+      "placed": "Pe {name|lower} oĩma \"{basket}\"-pe.",
+      "sorted": "Oñemohendapaitéma. Pema'ẽ oñondive umi ajakakuérare, térã peiporavo ambue mba'e rehegua.",
+      "basket": {
+        "one": "Ajaka {basket}, {count} ta'anga ipype",
+        "other": "Ajaka {basket}, {count} ta'angakuéra ipype"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Epoko peteĩ vorére, upéi epoko ambuére. Omoambue hendaguéra.",
+      "restart": "Embojehe'a jey",
+      "pictureLegend": "Ta'anga",
+      "pictures": {
+        "sailboat": "Ygarata",
+        "house": "Óga",
+        "balloon": "Globo",
+        "sunflower": "Kuarahy yvoty",
+        "lighthouse": "Faro",
+        "cat": "Mbarakaja"
+      },
+      "sizeLegend": "Vorekuéra",
+      "size": {
+        "one": "{n} vore",
+        "other": "{n} vorekuéra"
+      },
+      "pickedUp": "Oñehupi pe vore. Ko'ág̃a epoko moõpa oho va'erã.",
+      "whole": "Pe {name|lower} oĩmbáma jey. Eiporavo ambue ta'anga reipotárõ.",
+      "swapped": {
+        "one": "Oñemoambue. {correct} {total} vorégui oĩ hendaitépe.",
+        "other": "Oñemoambue. {correct} {total} vorekuéragui oĩ hendaitépe."
+      },
+      "guideAlt": "Ta'anga oĩmbáva: {name}",
+      "guideText": "Péicha ojehecha pe ta'anga oĩmba jave.",
+      "piece": "Vore oĩva {place}",
+      "pieceInPlace": ", hendaitépe",
+      "piecePickedUp": ", oñehupíva",
+      "places4": [
+        "yvate asu",
+        "yvate akatúa",
+        "guy asu",
+        "guy akatúa"
+      ],
+      "places9": [
+        "yvate asu",
+        "yvate mbyte",
+        "yvate akatúa",
+        "mbyte asu",
+        "mbyte",
+        "mbyte akatúa",
+        "guy asu",
+        "guy mbyte",
+        "guy akatúa"
+      ],
+      "done": "Pe ta'anga oĩmbáma jey. Eñembosarái jey térã epytu'umi.",
+      "playAgain": "Embojehe'a jey"
+    },
+    "finishTheSaying": {
+      "guidance": "Pemoñe'ẽ pe ñe'ẽnga oñondive, upéi pepoko pe ñe'ẽ omohu'ãvare chupe.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Hẽe, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" oiko avei. Upe ñe'ẽnga jepigua omohu'ã \"{end}\"-pe.",
+      "revealed": "Pe ñe'ẽnga he'i: \"{start} {end}.\"",
+      "choicesLabel": "Eiporavo pe ñe'ẽ pahague",
+      "show": "Ehechauka opaha",
+      "talk": "Ñañemongeta hese: ",
+      "next": "Ñe'ẽnga oúva"
+    },
+    "wordSearch": {
+      "guidance": "Umi ñe'ẽ oho yke gotyo térã iguýpe. Epoko pe tai ñepyrũguáre, upéi pe tai pahaguére.",
+      "restart": "Ñembosarái pyahu",
+      "themeLegend": "Mba'e reheguápa",
+      "sizeLegend": "Kotykuéra tuichakue",
+      "size": {
+        "one": "{n} x {n} ({words} ñe'ẽ)",
+        "other": "{n} x {n} ({words} ñe'ẽnguéra)"
+      },
+      "print": "Embokuatia ko ñembosarái",
+      "letterChosen": "Tai {letter} oñeporavóma. Ko'ág̃a epoko pe tai pahaguére.",
+      "found": "{word} ojejuhúma.",
+      "foundAll": "{word} ojejuhúma. Ojejuhupaitéma umi ñe'ẽ. Eñembosarái jey térã epytu'umi.",
+      "tryAgain": "Ani rejapura. Epoko pe tai ñepyrũguáre, upéi pe tai pahaguére.",
+      "gridLabel": "Tai ryru, {n} rysýi ha {n} tai. Eipuru umi flecha remongu'e hag̃ua umi tai mbytépe.",
+      "cell": "{letter}, rysýi {row}, kolúmna {col}",
+      "cellFound": ", peteĩ ñe'ẽ ojejuhúva vore",
+      "wordsHeading": "Ñe'ẽnguéra reheka va'erã",
+      "wordFound": " (jejuhupyre)",
+      "sheetTitle": "Ñe'ẽ jeheka: {theme}",
+      "sheetNote": "Umi ñe'ẽ oho yke gotyo térã iguýpe.",
+      "unavailable": "Ko ñe'ẽme ndoikoporãi ko tai ryru, upévare noñeme'ẽi ko ñe'ẽ jeheka. Eipuru rangue umi ta'anga ñembosarái."
+    },
+    "coloring": {
+      "guidance": "Epoko peteĩ sa'ýre, upéi epoko pe ta'anga vorére.",
+      "restart": "Embogue umi sa'y",
+      "cleared": "Pe togue ipotĩ jey.",
+      "pageLegend": "Togue",
+      "print": "Embokuatia ko togue",
+      "colorsLabel": "Sa'ykuéra",
+      "paintChosen": "{paint} oñeporavóma.",
+      "painted": "{part} ko'ág̃a isa'y {paint|lower}.",
+      "artLabel": "{page}, {count} vore oñembosa'y hag̃ua",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, isa'y'ỹva",
+      "paints": {
+        "red": "Pytã",
+        "orange": "Narã",
+        "yellow": "Sa'yju",
+        "green": "Hovyũ",
+        "blue": "Hovy",
+        "purple": "Pytãũ",
+        "pink": "Pytãngy",
+        "brown": "Yvyra sa'y",
+        "sky-blue": "Hovyngy",
+        "cream": "Morotĩngy",
+        "gray": "Hũngy",
+        "white": "Morotĩ"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Emoñe'ẽ pe kuatia'atã hatã. Ko'ápe ndaipóri mbohovái oĩ porãva térã iváiva.",
+      "position": "Kuatia'atã {n}, {total}-gui",
+      "themeLegend": "Mba'e reheguápa",
+      "next": "Kuatia'atã oúva",
+      "previous": "Kuatia'atã mboyvegua",
+      "print": "Embokuatia opaite kuatia'atã",
+      "sheetTitle": "Kuatia'atã ñemongetarã"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Eñepyrũ reiporavóvo nde fotokuéra.",
+      "guidance": "Epoko peteĩ fotóre, upéi epoko upe ojoguávare chupe.",
+      "restart": "Embojehe'a jey",
+      "intro": "**Eiporavo 2 guive 6 peve foto** ko tembipurúgui. Ojehecháta ko toguépe añónte ha araka'eve noñemondói térã noñeñongatúi mamove.",
+      "choose": "Eiporavo fotokuéra",
+      "chooseDifferent": "Eiporavo ambue fotokuéra",
+      "clear": "Embogue fotokuéra",
+      "cleared": "Umi foto oñemboguéma ko toguégui.",
+      "atLeastTwo": "Eiporavomína mokõi foto jepe.",
+      "usingFirst": "Oñeporavo umi {max} foto ypykue.",
+      "skipped": {
+        "one": "{count} marandurenda ndaha'éi foto ikatúva jahechauka.",
+        "other": "{count} marandurendakuéra ndaha'éi foto ikatúva jahechauka."
+      },
+      "playAgain": "Eñembosarái jey ko'ã fotóndi",
+      "empty": "Nde fotokuéra ojehecháta ko'ápe, peteĩteĩ mokõi jey."
+    },
+    "pictureBingo": {
+      "guidance": "Ñepyrũrã embokuatia umi kuatia'atã. Upéi ehechauka ko ta'anga rechaukaha pe mba'erechaha tuichavévape reguerekóva.",
+      "called": {
+        "one": "{name}. Oñehenóima {called} ta'anga {total}-gui.",
+        "other": "{name}. Oñehenóima {called} ta'angakuéra {total}-gui."
+      },
+      "start": "Epoko \"Ta'anga oúva\" rehe rehenói hag̃ua pe ta'anga ypykue.",
+      "restart": "Eñepyrũ peteĩ ñembosarái pyahu",
+      "squaresLegend": "Kotymikuéra peteĩteĩ kuatia'atãme",
+      "squares": "{n} kotymi ({side} x {side})",
+      "cardsLegend": "Mboy kuatia'atápa rembokuatiáta",
+      "cards": {
+        "one": "{n} kuatia'atã",
+        "other": "{n} kuatia'atãnguéra"
+      },
+      "print": {
+        "one": "Embokuatia {n} bingo kuatia'atã",
+        "other": "Embokuatia {n} bingo kuatia'atãnguéra"
+      },
+      "ready": "Oĩmbáma reipotávove",
+      "next": "Ta'anga oúva",
+      "allCalled": "Oñehenóipaitéma opaite ta'anga",
+      "alreadyCalled": "Oñehenóimava",
+      "sheetTitle": "Ta'anga bingo · kuatia'atã {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Epytuhe oike pe mba'e apu'a tuichavévo, ha emondo nde pytu michĩvévo. Ijeheguiete opáta poteĩ jey repytuhe rire.",
+      "paceLegend": "Pya'ekue",
+      "paceSlow": "Mbeguekatumi (5 segundo peteĩteĩ)",
+      "paceGentle": "Vevuimi (4 segundo peteĩteĩ)",
+      "ready": "Reimérõ, ikatu ñañepyrũ",
+      "in": "Epytuhe oike",
+      "hold": "Pytu'u",
+      "out": "Emondo nde pytu",
+      "start": "Eñepyrũ",
+      "stop": "Epyta",
+      "started": "Oñepyrũma. Epytuhe oike pe mba'e apu'a tuichavévo.",
+      "stopped": "Opytama.",
+      "finished": "Poteĩ jey repytuhe mbeguekatu. Eñepyrũ jey reipotaháicha."
+    }
+  },
+  "pictures": {
+    "teacup": "Tása tépe guarã",
+    "kettle": "Páva",
+    "bread": "Mbujape",
+    "frying-pan": "Paila ryguasu rupi'a ndive",
+    "cake": "Tórta aramboty pegua",
+    "sunflower": "Kuarahy yvoty",
+    "tulip": "Tulipán pytã",
+    "watering-can": "Regadera",
+    "potted-plant": "Ka'avo mba'yrúpe",
+    "tree": "Yvyra",
+    "bird": "Guyra hakã ári",
+    "butterfly": "Panambi",
+    "dog": "Jagua",
+    "cat": "Mbarakaja",
+    "fish": "Pira sa'yju",
+    "apple": "Manzana pytã",
+    "pear": "Pera",
+    "strawberry": "Frutilla",
+    "banana": "Pakova",
+    "lemon": "Limón",
+    "cherries": "Cereza-kuéra",
+    "house": "Óga",
+    "lamp": "Tataindy mesa arigua",
+    "armchair": "Apyka guasu",
+    "key": "Lláve tuja",
+    "umbrella": "Amasol",
+    "sailboat": "Bárko yvytu pegua",
+    "car": "Auto tuja",
+    "bicycle": "Bicicleta",
+    "balloon": "Globo yvytu haku pegua",
+    "lighthouse": "Faro",
+    "sun": "Kuarahy",
+    "moon": "Jasy ha mbyjakuéra",
+    "teapot": "Tetera",
+    "apple-pie": "Tarta manzana pegua",
+    "honey-jar": "Eíra ryru",
+    "boiled-egg": "Rupi'a ryru'ípe",
+    "toaster": "Tostadora",
+    "cheese": "Kesu vore",
+    "milk-jug": "Kamby ryru",
+    "cupcake": "Masa'i he'ẽva",
+    "orange": "Narã",
+    "grapes": "Uva apytimby",
+    "watermelon": "Sandia vore",
+    "pineapple": "Piña",
+    "peach": "Durazno",
+    "rose": "Rosa",
+    "daisies": "Margarita-kuéra",
+    "mushroom": "Urupẽ",
+    "wheelbarrow": "Karretílla",
+    "birdhouse": "Guyra róga",
+    "cactus": "Kákto mba'yrúpe",
+    "acorn": "Bellota",
+    "autumn-leaf": "Hogue araroguekúi pegua",
+    "rabbit": "Tapiti",
+    "duck": "Ype",
+    "hen": "Ryguasu",
+    "sheep": "Ovecha",
+    "owl": "Urukure'a",
+    "ladybird": "San Antonio'i",
+    "snail": "Jatyta",
+    "frog": "Ju'i",
+    "bee": "Kava",
+    "clock": "Aravopapaha mesa arigua",
+    "vase-of-flowers": "Florero yvoty ndive",
+    "radio": "Radio tuja",
+    "books": "Aranduka aty",
+    "candle": "Tataindy",
+    "glasses": "Lente oñemoñe'ẽ hag̃ua",
+    "telephone": "Pumbyry",
+    "ball-of-wool": "Inimbo apu'a",
+    "straw-hat": "Piri akãngao",
+    "train": "Tren tatatĩ pegua",
+    "bus": "Kolektívo",
+    "airplane": "Aviõ",
+    "suitcase": "Valíha",
+    "tractor": "Tractór",
+    "rowing-boat": "Kanoa",
+    "rainbow": "Tatapỹi",
+    "rain-cloud": "Arai oky hag̃ua",
+    "snowflake": "Yrypy'a pehẽngue",
+    "kite": "Pandorga",
+    "sunrise": "Kuarahy resẽ yvyty ári"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "AEGIJKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Yva",
+          "words": [
+            "PAKOVA",
+            "ARASA",
+            "MANGO",
+            "SANDIA",
+            "PERA",
+            "UVA",
+            "LIMO",
+            "MAMON",
+            "YVA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Yvotyty",
+          "words": [
+            "YVOTY",
+            "YVYRA",
+            "ROGUE",
+            "YVY",
+            "POTY",
+            "ROSA",
+            "TAPE",
+            "TAJY",
+            "KAVA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Tataypy",
+          "words": [
+            "JAPEPO",
+            "KYSE",
+            "KUIMBE",
+            "PLATO",
+            "TATA",
+            "KESU",
+            "TASA",
+            "MESA",
+            "YRYRU"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Ára",
+          "words": [
+            "AMA",
+            "YVYTU",
+            "ARAI",
+            "HAKU",
+            "SUNU",
+            "VERA",
+            "ARA",
+            "PYTU",
+            "JASY"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Mymbakuéra",
+          "words": [
+            "JAGUA",
+            "GUYRA",
+            "PIRA",
+            "KAVAJU",
+            "VAKA",
+            "YPE",
+            "KAVARA",
+            "KURE",
+            "TAPITI"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Óga",
+          "words": [
+            "OKE",
+            "APYKA",
+            "TUPA",
+            "KYHA",
+            "MESA",
+            "KOTY",
+            "OGYKE",
+            "KORAPY",
+            "TATA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Opaite tarjeta",
+        "food": "Tembi'u",
+        "home": "Óga",
+        "outdoors": "Okára",
+        "animals": "Mymbakuéra",
+        "travel": "Jeho ha pasea",
+        "work": "Mba'apo ha vy'arã",
+        "music": "Purahéi ha vy'a",
+        "seasons": "Ára apyrakuéra"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Mba'épa pe tembi'u ryakuã rehayhuvéva osẽ jave tataypýgui?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Mba'ichagua tórpa reiporavóne peteĩ vy'apavẽme g̃uarã?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Emombe'umina chéve peteĩ tarta yvagui térã tembi'u he'ẽ rehayhúva rehegua."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Mba'éichapa nde gustave reho'u pe té térã kafe?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Mba'épa ndofaltái va'erã peteĩ rambosa iporãvape?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Remono'õmípa yva yvyra matágui voi?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "He'ẽva térã hái: mava guipa rehayhuve?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Mba'e tembi'úpa nemomandu'a arahaku árare?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Emombe'umina chéve peteĩ óga reiko hague ha nde gustaitereíva."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Moõpa pe tenda rehayhuvéva reguapy ha repytu'u hag̃ua?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Mba'épa rejaposeve py'aguapýpe peteĩ ka'arumi jave?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Mba'e mba'e repyetépa reñongatúne peteĩ mba'yru porãme?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Mávapepa renóine peho'u hag̃ua oñondive peteĩ tása té?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Mba'épa rejaposeve oky jave?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Mba'ichagua yvotýpa reñotỹne peteĩ yvotyty ryepýpe?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Emombe'umina chéve peteĩ yvyra térã plása nde gustaitereíva rehegua."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Mba'épa pe iporãvéva reime jave peteĩ yvotyty ryepýpe?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Mba'e sa'ýpa nde gustave umi yvotýpe g̃uarã?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Nde gustápa reguereko ka'avo nde róga ryepýpe?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Mba'éichapa oĩne peteĩ ára kuarahy rehegua iporãmbajepéva ndéve g̃uarã?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Emombe'umina chéve peteĩ jagua reikuaa va'ekue rehegua."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Mbarakaja térã jagua, térã mavave? Mba'épa nde gusta hesekuéra?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Mba'ichagua guyra'ípa rehecha térã rehendu okápe?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Repeska va'ekue térãpa reguereko peteĩ pira ryru?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Mba'e mymbápa pe iporãvéva rehecha va'ekue?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Emombe'umina chéve peteĩ auto nde gustaitereíva rehegua."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Moõpa rehasa porãvene peteĩ ára: pe márpe térã yvyty mbytépe?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Moõgotyo guipa rehoséne repasea hag̃ua?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Reveve rire oimeraẽ tenda ári, moõpa rehoséne?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Mba'e viahepa rehasa porãiterei va'ekue?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Mba'ichagua tembiapópa rejaposeve va'ekue vy'apópe?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Mba'e tembiapo vy'arãrepa ikatúne rehasa heta aravo?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Mba'épa pe rejapo térã rematyrõ va'ekue ha opavave nemomba'e hese?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Mba'e konséhopa reme'ẽne peteĩ mitãrusúpe oñepyrũramóva omba'apo?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Mba'ichagua purahéipa nemomýi ha nemboyerokyse?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Mba'épa ojapo peteĩ vy'aguasu iporãmbajepéva?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Máva opurahéivapepa nde gusta rehendu?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Mba'e pelíkula térã téle programa-pa rehechase jey jey?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Mba'épa nde gustave arahakúgui?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Mba'épa nde gusta pe araroguekúi jave?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Mba'épa pe rejaposevéva py'aguapýpe peteĩ araro'y ka'arúpe?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Mba'épa umi mba'e ohechaukáva ndéve oñepyrũmaha pe arapoty?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Yrypy'a, ama térã kuarahy: mava guipa reiporavo?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Yvoty mba'yrúpe",
+          "regions": {
+            "sky": "Hapykuegua",
+            "table": "Mesa",
+            "stem": "Hakã",
+            "leaf-left": "Hogue asugua",
+            "leaf-right": "Hogue akatúagua",
+            "petal-1": "Pétalo 1",
+            "petal-2": "Pétalo 2",
+            "petal-3": "Pétalo 3",
+            "petal-4": "Pétalo 4",
+            "petal-5": "Pétalo 5",
+            "petal-6": "Pétalo 6",
+            "petal-7": "Pétalo 7",
+            "petal-8": "Pétalo 8",
+            "center": "Yvoty mbyte",
+            "pot": "Mba'yru",
+            "pot-rim": "Mba'yru rembe'y"
+          }
+        },
+        "house": {
+          "name": "Óga",
+          "regions": {
+            "sky": "Yvága",
+            "sun": "Kuarahy",
+            "grass": "Kapi'ipe",
+            "chimney": "Tatatimbo rape",
+            "walls": "Ogykepy",
+            "roof": "Óga ahoja",
+            "door": "Okẽ",
+            "window-left": "Ovetã asu pegua",
+            "window-right": "Ovetã akatúa pegua",
+            "path": "Tape"
+          }
+        },
+        "teacup": {
+          "name": "Tása",
+          "regions": {
+            "background": "Hapykuegua",
+            "saucer": "Platito",
+            "handle": "Tása japyhyha",
+            "cup": "Tása",
+            "band": "Tása linia",
+            "tea": "Té"
+          }
+        },
+        "butterfly": {
+          "name": "Panambi",
+          "regions": {
+            "background": "Hapykuegua",
+            "wing-top-left": "Pepe yvate asu pegua",
+            "wing-top-right": "Pepe yvate akatúa pegua",
+            "wing-bottom-left": "Pepe yvy asu pegua",
+            "wing-bottom-right": "Pepe yvy akatúa pegua",
+            "spot-left": "Mba'ekua asugua",
+            "spot-right": "Mba'ekua akatúagua",
+            "body": "Tete"
+          }
+        },
+        "sailboat": {
+          "name": "Bárko yvytu pegua",
+          "regions": {
+            "sky": "Yvága",
+            "sea": "Mar",
+            "sail-big": "Vela tuicháva",
+            "sail-small": "Vela michĩva",
+            "mast": "Yvyra mástel",
+            "hull": "Bárko rete",
+            "flag": "Poyvi"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Tataypy ha yvotyty",
+          "baskets": [
+            "Tataypýpe",
+            "Yvotytype"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Yva ha mymbakuéra",
+          "baskets": [
+            "Yva",
+            "Mymbakuéra"
+          ]
+        },
+        "home-travel": {
+          "label": "Óga ha jeho",
+          "baskets": [
+            "Ógape",
+            "Okápe"
+          ]
+        }
+      }
+    }
+  }
+}

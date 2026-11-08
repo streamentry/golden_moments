@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Адеменциа змау ауаҩы изку иҭынчу амш аплан"
+seoTitle: "Адеменциа змау амш аплан: Иҭынчу аҿырԥштәы"
+description: "Адеменциа змау ауаҩы изку амштә ҿырԥштәы: афара, аусқәа, аԥсшьара, иара убас амш уадаҩқәа рзы аплан аԥсахра шалшо."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Иҭынчу амштә режим ахы шьҭыхра, афара, ахатә гигиена, ацәара аамҭақәа
+  аиԥшра ирҭоит, ихадоу аус ауаҩы иласра рацәоу аамҭа иақәиршәоит,
+  аусқәеи аԥсшьареи аҩбагьы ириашоит. Уи ауаҩы иԥсҭазаара зегь
+  инықәырԥшны иҟашәҵа, аамҭа ԥхасҭада ирҭәыракәа, аԥша ҭареи аҵысреи
+  аамҭа ақәырҵа, амш шаҭаху аҟара аплан ԥсахла.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ахы шьҭыхра, афара, ахылаԥшра, ацәара иаку аамҭақәа амш агәрагара азырҭоит."
+  - "Ихадоу аус ауаҩы иласра рацәоу аамҭа иақәшәыршәа, лассы уи ашамаҭа ауп."
+  - "Аминуҭқәа зегь маԥхьаӡала. Аԥсшьареи аҭынч аамҭеи аплан иахәҭоуп."
+  - "Амратә лашара, амштә ҵысра, хумԥхьа ласы иҟало ацәареи акофеи рмаҷра ахәылбыраз агәҭынчымра ацәцара иацхыраар алшоит."
+  - "Аплан унасхәароуп, ҵасӡам. Амш уадаҩқәа рзы акгьы аԥсахра, аркьаҿра, ма аԥыхра шәалшоит."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Избан аплан адеменциа змау ауаҩы изцхыраауа?"
+    a: "Иеилкаау амш иаанагоит имаҷу аӡбарақәеи агәыхҭысқәеи, уи адеменциа змау рацәа аҭынчра рнаҭоит. Alzheimer's Association ишазгәанаҭо ала, иԥшьоу амш иахарҵәо аамҭа амаҷра азырҟаҵоит уаҳа ихәарҭоу аусқәа раамҭа еиҳауп. Иара убас ауаҩы изиашогьы ихы аамҭа иашьоит."
+  - q: "Иарбан ҽнытә графикоу бзианы иҟоу адеменциа змау изы?"
+    a: "Актәи ииашоу график ыҟаӡам. Ибзиоу аплан ахы шьҭыхра, афара, ацәара аамҭақәа аиԥшра ирҭоит, ахылаԥшреи ихадоу аусқәеи ауаҩы иласра еиӷьу аамҭа иақәнаршәоит, амралашареи аԥсшьареи аамҭа рзаанахуеит. Уи ауаҩы иԥсҭазаара шахьчаз ала еиҿкаатәуп."
+  - q: "Иалшоума адеменциа змау амш аҽны ацәара?"
+    a: "Икьаҿу аԥсшьара ацхыраара алшоит, лассы ашамаҭа уасхәа ашьҭахь. National Institute on Aging ахәылбыра ласы ацәара аҽацәцара аҽазышәца ҳәа иаланарҵоит, избан акәзар агәаҟра ма иуадаҩу ацәара ахәылбыраз агәҭынчымра аррацәоит. Ацәара уадаҩра дуузар, аҳақьым шәиацәажәа."
+  - q: "Аплан ишану аҟаҵара мап ацәиркразар уаҳа ишԥаҟаҵатәу?"
+    a: "Уажәазы иаанрыжь, анаҩс ма даҽакала шәҽазышәшәа. Мап акра иаанагар алшоит ауаҩы дшаԥсхьаз, дычмазаӷыз, ихьуазар, ма дшазхиам. Аплан амш арласра ауп изыҟоу, убри аҟынтә амч ала акгьы шәымҵасаркын."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Иҭынчу аплан амш ибзианы идыру асахьа анаҭоит: ахы шьҭыхра, афара, аусқәа хәыҷы, аԥсшьара, иара убас ацәара аамҭақәа аиԥшра рҭоит. Уи аӡбарақәеи агәыхҭысқәеи имаҷны иҟанаҵоит, анаҩс ишԥаҟаҵатәу шәамдыруа аамҭақәа рзы аплан шәнаҭоит. Аҵаҟа иаагоу аплан ҿырԥштәуп, ҵасӡам. Уи хацыркраны шәхы иашәырхәа, анаҩс ишәзиашо ауаҩы иҭагылазаашьа иақәшәыршәа.
 
-## Why does a daily routine help?
+## Избан амштә план ацхыраара ззауа?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Иҭынчу аплан ацхыраара аҭоит, избан акәзар идыру аҿырԥштәқәа рықәныҟәара еиҳа имариоуп ҿыц иҟало раасҭа. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ишаҳәо ала, иԥшьоу амш иаанагоит уаҳа имаҷу аамҭа аӡбарақәа раԥхьара ахарҵәара, еиҳагьы агәырӷьара зцу аусқәа рзы аамҭа амазаара. Иара убас ишазгәанаҭо ала, ахы шьҭыхреи ацәареи рзы ииашоу аамҭа ацәара уадаҩрақәеи ахәылбыраз агәҭынчымреи рҿы ацхыраара алшоит. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) аӡәӡәра, аҵаҵәахра, афара есымша аамҭа кәада иҟаҵалатәуп ҳәа иазгәанаҭоит аҩны аҭынчра ахьчаларазы, [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) убас ирекомендациа аҭоит еиԥшу амштә режимқәа рыхьчара.
 
-## A sample gentle day
+## Иҭынчу амш аҿырԥштәы
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Аамҭақәа ҿырԥштәуп. Ауаҩы ихатә ритм ишақәшәо ала амш зегь еиҳа иаԥхьа ма еиҳа ихьшәаны ишәырцар алшоит.
 
-| Time | What happens | Ideas | On a harder day |
+| Аамҭа | Иҟалозеи | Аидеақәа | Амш уадаҩ аҽны |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 | Ахы шьҭыхра, аӡәӡәра, аҵаҵәахра | Есымша еиԥшу аиҿкаара; амаҭәа аҵаҵәахра ишаҿу ала ирҭашьалатәуп | Ахылаԥшра имариазарц; акәаба ҿыц акәзар ауп |
+| 8:45 | Ашьыжьтәи афара | Акофеи агазеҭ аԥхьара бжьы дула, ма арадио | Еицафалатәуп ҭынч, ацәажәаразы амч шәымҭан |
+| 9:30 | Ихадоу аус | Амаҭәа аӡәӡәра, ача ажьра, абаҳча аҟаҵара, икьаҿу аҩнытә ҭыҵра ма аныҟәара | Икьаҿу авариант, ма шәара ишәҟаҵо шәахәаԥшлароуп |
+| 10:30 | Аҭынч аамҭа | Амузыка, асахьақәа ральбом, ма аԥенџьыр аԥхьа аҭысра | Абзиабаратә ҭыԥ аҿы аԥсшьара |
+| 11:00 | Аухатәи афара ацхыраара | Аусҭацәа рӡәӡәра, астол аҭашьара | Шәара шәарҵоит; дара гәык-аԥсык шәырҭоит |
+| 12:00 | Афареи аҩны аиқәыршәареи | Астол ашәахәра, ахәышҭаарақәа маҷк рҵәыхра | Аусурақәа шәаԥых |
+| 13:00 | Икьаҿу аԥсшьара | Ашьапы ласра, иҭынчу амузыка | Еиԥшҵәҟьа |
+| 14:00 | Амҩаду ма аҵысра | Аныҟәара, аверанда аҿы аамҭа, аҵиаақәа рыӡхра, ашар ахснырра | Амра зцу аԥенџьыр аԥхьа аҭысра |
+| 15:00 | Ауаажәларратә ма асахьаҭыхратә | Асасра, аҭел, [асахьатә ҩ-елементк](/games/picture-pairs/), аԥшшәы аҭара, акозмалықәа | Еицыжәлатәуп, еицафалатәуп маҷк |
+| 16:30 | Аҭынчра аамҭа | Аԥенџьырхқәа рккра, алашара аҿакра, иҭынчу аус, уи иаҿырԥштәуп ашәҭқәа рӡәӡәра | Идыру амузыка, имаҷу абыржә |
+| 17:30 | Ахәылбыратәи афара | Аҭара ацхыраара ма астол аҭашьара | Имариоу, идыру афатә |
+| 18:30 | Ахәылбыра еицааира | Адесерт аҿы ахәыцра, акозмалықәа, абзиабаратә передача, анапа массаж | Аҭынч еицааира |
+| 20:00 | Ацәара аплан | Аӡәӡәра, апижама, иҭынчу амузыка, имаҷу алашара | Зегь иркьаҿлатәуп; акомфорт раԥхьа |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ари аҿырԥштәы Alzheimer's Association аԥхьатәии абжьаратәии аетапқәа рзы иҟанаҵаз аплан иақәшәоит, уи ахатә гигиенеи ашьыжьтәи афареи инадыркны аусурақәа, аныҟәара, амузыка, аԥсшьара, аҭаарақәа, ахәылбыратәи афара, агәалашәарақәа, убас ацәара аҽазыҟаҵара уҳәа ирықәныҟәоит.
 
-## How do you build your own routine?
+## Ишԥашәылшо шәхатә план аиҿкаара?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Атаблица иахьамырԥшыкәа, ауаҩы иԥсҭазаара шахьчаз ала шәалага. Alzheimer's Association аплан шәмырхиацҳан абарҭ азхьаԥшра шәнаҭоит:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ибзиарбо, ирцәымӷо, рыбжарақәеи ринтересқәеи.**
+- **Амш шәахьа шахарҵәоз.** Есымша еиҳа иаԥхьа ишьҭылоз, ала зныҟәыргоз ауаҩы есымша иаԥхьа дныҟәароуп. Ахәылбыра ицәо ауаҩы 8:00 амш алагара гәырӷьара инамҭар алшоит.
+- **Амш иреиӷьу аамҭа.** Аӡәӡәра, аҭыҵрақәа, ихадоу аусқәа уа иқәшәыршәа.
+- **Аамҭа ԥхасҭада** афара, аӡәӡәра, аҵаҵәахра рзы, акгьы аццакрада иҟаларц.
+- **Ииашоу ахы шьҭыхреи ацәареи рзы аамҭақәа.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Абри ахыҵхырҭа убас иаҳәоит аҩнытә усурақәа, афара, ахатә гигиена, асахьаҭыхратә усура, афизикатә ҵысра, ауаажәларратә аамҭа, адоуҳатә усура, иара убас иԥшьымыз агәыхҭысқәа (уи иаҿырԥштәуп аҩыза дибацҳан дахьааз) еилаганы аҟаҵара.
 
-### Try it for a week, then adjust
+### Мчыбжьык шәахәаԥш, анаҩс еиҭашәырҭаша
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Есымша имариоу азгәаҭарақәа ҟашәҵала. Alzheimer's Association иаланарҵоит шәазыхәыцларц иарбан усқәоу еиҳа ибзианы ицоз насгьы избан, аамҭақәа рацәаны иҭәыз ма имаҷыз ыҟазма, иара убас иԥшьымыз апланқәа агәырӷьара рзаанагозма ма агәҭынчымра. Иусуаз шәахьча, имусуазгьы шәаԥсах.
 
-### Make it visible
+### Иубарҭаны иҟашәҵа
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Ауаҩы уажәгьы аԥхьара илшозар, адоска шкәакәа ма идуу шрифтла иҟоу акарточка амш аплан ала аҭынчра азаанаргоит. Икьаҿны иҟашәҵа: «Ашьыжьтәи афара. Сарах дицынныҟәара. Аухатәи афара. Аԥсшьара.» Шьоукы ауаа еиҳа ирзеиӷьуп иааигәа аамҭазы иҟало амдырра; Family Caregiver Alliance ишаҳәо ала, агәҭынчымра аанаргозар, аусқәа рхыркәшара аԥхьаӡа апланқәа шәырзалымцәажәан.
 
-## How to adapt the routine
+## Ишԥаԥсахо аплан
 
-### Leave room to breathe
+### Аԥсыԥ ласразы аамҭа шәаанрыжь
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Аминуҭқәа зегь маԥхьаӡала. Alzheimer's Association шазгәанаҭо ала, ауаҩы аусқәеи аԥсшьареи реиҟарара иҭахуп, лассы-лассы аԥсшьара ихәар алшоит. Ауаҩы дгәаҟуазар, деиқәыршәазар, ма дгәаазар, аус шәаԥсах ма шәаԥсшьа.
 
-### Protect the late afternoon
+### Ахәылбыра ласы шәахьча
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Амра шалало аҟара уаа рацәа еиҳа агәҭынчымра рцәырҵуеит. NIA иаҳәоит амра лашаразы есымша амҩаду аҿы ма аԥенџьыр аԥхьа аамҭа ахарҵәара, есымша аҵысра амазаара еиҳарак иԥшьымыз апланқәа рда, ахәылбыраз акофеи аалкоголи рмаҷра, иара убас ахәылбыра ласы ацәара аҽацәцара. Шьоукы аҭаацәарақәа убас иргәаԥхоит амра каҳара аԥхьа аԥенџьырхқәа рккреи алашара аҿакреи. Шәахәаԥш [ахәылбыраз агәҭынчымра](/caregiving/late-day-restlessness/) иара убас [ацәара](/brain-health/sleep/).
 
-### Change it as needs change
+### Аҭахрақәа рԥсахра иашьҭанеибашьны аплангьы шәаԥсах
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Аԥхьатәи аетап:** аплан еицышәырхиа. Ауаҩы ихы ала ихьчо аҩыратә график иҭахзар алшоит.
+- **Абжьаратәи аетап:** шәара еиҳа уснагӡарас шәҟалоит. Еиҳа икьаҿу аусқәа, еиҳа аԥсшьара, убас идыру аусурақәа рацәаны; шәахәаԥш [абжьаратәи аетап азы аусқәа](/activities/middle-stage/).
+- **Аҵыхәтәантәи аетап:** аплан акомфорт, афара, ахылаԥшра ирызкуеит, рыбжьара икьаҿу анкьа-ншьа аамҭақәа амазаароуп, иаҳҳәап амузыка ма анапа массаж; шәахәаԥш [аҵыхәтәантәи аетап азы аусқәа](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Аусурақәа шәаԥсахла, арамка акәымкәа
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Афара, аԥсшьара, ацәара аамҭақәа еиԥшны шәахьча, урҭ рыбжьара иҟоу аусурақәа шәаԥсахла. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ишазгәанаҭо ала, аусқәа гәыхҭысхарц амшқәа рҿы еиуеиԥшым аусурақәа шәҽазышәшәа. Шәара ашбжь аҽны ача шәжьыр шәылшоит, аҩаша аҽны абаҳча шәаҿазар, ахаша аҽны асахьақәа шәрыхәаԥшыр. Ҳара ҳаҟынтә [101 аус аидеақәа](/activities/ideas/) иара убас [аҩнытә усурақәа](/activities/household-tasks/) аамҭа аҭәра иацхыраар алшоит.
 
-## When the day goes sideways
+## Амш ишахәҭоу иамцызхар
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Шьоукы амшқәа акыр план иқәныҟәаӡом. Ачмазаара, ицәгьоу ацәара, аҳақьым дибацҳара ма амш аԥсахра зегь еилеигар алшоит. Аплан шәаанрыжь, ихадоу шәахьча (афатә, ажәра, аԥсшьара, акомфорт), уаҵәы еиҭа шәҽазышәшәа. Ауаҩы акгьы мап ацәикразар, шәахәаԥш [мап ахьаҳәо аамҭа](/caregiving/when-they-say-no/). Еицыжәла иҭынчу аԥсы ласра, иаҳҳәап [иҭынчу аԥсыԥ ласра](/games/calm-breathing/), шәҩыџьагьы аҭынчра шәазаанагар алшоит.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Шәхатә план убас ихадоуп. Шәхаҭа шәзы аԥсшьарақәа шәаԥҵа, аҭаацәара ма ацхырааратә маҵзура шәраҳасаб аамҭа ахьчалара шәраҳәа. Шәахәаԥш [ахылаԥшҩы ихы ахьчалара](/caregiving/caregiver-self-care/).

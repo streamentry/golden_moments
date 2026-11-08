@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Aabbi Dagna kee Kas-Dagna: Baaxo Wagitto Ayroosah Tan"
+seoTitle: "Aabbi Dagna kee Kas-Dagna: Wagitto Yab"
+description: "Aabbi dagna kas-dagna xalu macah tekkeh, ACHIEVE takkayin wagitto iyyeem kee aabbi qidda akkaluk yab xannabiyyam."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Lancet Commission 2024 aabbi dagna kas-dagna sababitteh addal kaxxa sababah yece. ACHIEVE takkayinal, aabbi qidda inkih kas-dagna ma-rakaysinna, takkay immay kaxxa xalut yaniinil meqe mawaaxig teelle. Aabbi qidda yab kee saaku mango addat kalta. Aabbi kee doktoor lih yaab.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission aabbi dagna baaxol kas-dagna addak 7% takkem tece, 14 sababtik addal kaxxa doolat gacta."
+  - "ACHIEVE takkayin addal 977 idaltok, aabbi qidda sidoc sanat kas-dagna inkih ma-rakaysinna."
+  - "ACHIEVE addat yan daggo xalu le maral, kas-dagna 48% rakaysiyya teelle; taam elle cabaanam faxximta."
+  - "Oktoobar 2022 wadir, US addat qaduw aabbi dagna le mari FDA idon le aabbi qidda qarkat xayyoowu duudan."
+  - "2024 addat inti dagna kas-dagna sababah osimte, toh sabatah inti qakimi wayti kaxxam faxxiima."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Aabbi qidda kas-dagna tewqee?"
+    a: "Toh ma-sumaqqowinna. ACHIEVE takkayin sidoc sanat inkih kas-dagnah meqe mawaaxig ma-gayinna, takkay immay xalu le mari meqem geyte. Aabbi qidda yab kee maaqidde sissikoysah toh sabatah qaraah kaxxa tuxxiq le."
+  - q: "Miyaay qarkat aabbi qidda xayyoowu duuda?"
+    a: "FDA idol 18 sanat kee woo wadir le maray qaduw aabbi dagna le doktoor xaag maleh xayyoowu duuda. Kaxxa aabbi dagna le marah hinna. Ayti caxxa, aytik dacay, inti garay kee sissik aabbi kalta le mari doktoor geyu faxximta."
+  - q: "Aabbi dagna kas-dagnat tekkeku duudda?"
+    a: "Kulli adda tekke. National Institute on Aging aabbah dagna le idalti mari yaab aabbe waamih sabatah kas-baleeh ittek wadir caban. Num yaab aabbe waytek aabbi wagitto abnam meqe fanah gacta."
+  - q: "Idalti mari intiita manaakelle wagitto abanam faxximta?"
+    a: "National Institute on Aging 60 sanat wadir sanit akah sanit inti dilaalisoh wagitto abanam qambaalta, hebelto suge waytek sukkarih biyaak kee dhiigik le mari sanit kulli adda wagitto abaanam faxximta."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Aabbi dagna idaltot mango adda tekkeeh, wagitto abbaaseyti kas-dagna xalut kaxxam tasgalle. Toh aabbi qidda kas-dagna tewqeeh iyyaanam hinna; takkayin wagitto meqe kee uma mawaaxig le. Ta gubal wagitto yab iyyaam, aabbi wagitto akkaluk abaanam, US addat qarkat xayyoowan aabbi qidda kee yab sahaluk abaanam tunkuttoyye.
 
-## Why does hearing matter for brain health?
+## Aabbi samada qafiyat macah faxxiima?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Aabbi dagna kas-dagna xalu lih gacta. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) aabbi dagna baaxol kas-dagna addak 7% takkem taysikisse. Toh kaxxa kolestorool lih inki gidek 14 sababtik addal kaxxa doolat le, [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) warisseemih gidat.
 
-Key findings from the Commission:
+Commission wagitto kaxxa qambiyya:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Aabbi dagna le maral kaxxa xalu.** Leceh tan wagittoytal, aabbi dagna le mari meqe aabbi le marak 37% kas-dagna xalu mango.
+- **Aabbi kalta mangom, xalu mangom.** Wagitto aabbi mangoyna dagayuk gabaaxek xalu koromtam tuble.
+- **Duudan sababitte, sumaq male.** Kas-kalin, inkiidim, yaabak baxawik, samadah meqe taama wayya kee aabbah kaxxa taama abam teetik gacta.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Aabbi dagna kaxxam mangom. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) idalti marak sidoc kee inki mari aabbi dagna leem kee sanat duma kak mangooma itta.
 
-## What did the ACHIEVE hearing aid trial find?
+## ACHIEVE aabbi qidda takkayin maay geyte?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE aabbi qidda kee kas-dagna wagitto takkayin addal dumaak gaba calan. Mawaaxig faxxiima innal mayabaanara, [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) yab taama:
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Ewqe mari:** 70 ille 84 sanat le 977 idalti maray aabbi kalta leeh takkay immay meqe samad le, US addal affara buxal.
+- **Mawaaxig agaba:** Gide mari aabbi qidda kee aabbi qakimi yaab geyte. Gide mari qafiyat baritto le barnamij geyte.
+- **Kaxxa mawaaxig:** Sidoc sanat wadir, lamma kassiitak addal **baxaabaxsa mayalla** kas-dagnal.
+- **Baxsa le mawaaxig:** 238 mari wadiri wagitto (ARIC) kassiitak yemeete, woo mari kas-dagna xalu mangoyna le mari kinni. Ta maral, kas-dagna **48% rakaysite** aabbi qiddat. 739 qafiyat le maral baxsa le mawaaxig mayalla.
 
-How to read this honestly:
+Taam qadaalatal maay akkiyaanama:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Inkih tan mawaaxig baxaabaxsa maliyye.
+- Baxsa le gabaaxig daggo marak temeeteh, akaa takkayin wagittoytal sumaqqowtaam faxximta.
+- Takkayinit sugte mari leen barnamij yaaxigin, toh mawaaxig kalte.
+- Lancet Commission aabbi qidda aabbi dagna kee aka kas-dagna sababitte le marah kaxxa tuxxiq leem taysikisse.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Qangara cabbaaha, aabbi qidda kas-dagna tewqee iyyaanam ma-sumaqqowinna. Takkay immay mari yaab aabboonuh, yab yaaxigiinik kee qande lih sugoonuh kaxxam kalta.
 
-## How do I know if hearing should be checked?
+## Aabbi wagitto akkaluk abaanam mannal yaaxigeen?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA doktoor geyaanam faxximtam warissa, atu hebelto warrayta num:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Silkih yab aabbuh caagid geyek
+- Lamma numuk sidiica mari yaabak gaba waxegissaah aabbi kalti tekkeyak
+- Marah yab qellisoonuh kaxxam esserik
+- Tilfiziyoon kaxxam qillisak marak xagina geyek
+- Kaxxa dhumo le aracal yab aabbi qidda tekkeyak
+- Aka mari qariirak yaabaaxek
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Buxah doktoorik egeeleenik, usuk aabbi qakima fanah ku rubu duuda. Aytit yan qasli aabbi dagnah inki sababa kinni. **Sissik aabbi dagna kaxxa biyoka**, NIA sissikuk qakimi fanah gacaanam qambaalta.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Aabbi dagna kas-baleh takkayimtu duudda. NIA aabbi dagna le idalti mari yaab aabbe waanah kas-baleeh, cawwalsi maleh hebelto yakkek kassiisaanama taysikisse. Warraytah tan num yab aabbe waytek aabbi wagitto abnam kaxxa sahal le taama.
 
-## What are over-the-counter hearing aids?
+## Qarkat xayyoowan aabbi qidda maca?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+17 Oktoobar 2022 wadir, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) idon le aabbi qidda (OTC) qarkat xayyoowu duudan. Takkay immay qakimi qiddat mannal baxaabaxsa le:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Biyok | Qarkat xayyoowa aabbi qidda | Doktoor geyta aabbi qidda |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Miyaay faxxiimta | 18 sanat kee woo wadir le maray qaduw aabbi dagna le | Kulli aabbi dagna le numuh, kulli sanat |
+| Elle geyan araca | Dukkanoota kee intarneet, qakimi xaag male | Aabbi qakimi gabaak geyan |
+| Tengelem | Isih gabaak meqoysan, telefoon app lih | Qakimi isi gabaak ku aabbih meqoysa |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA qarkat tan aabbi qidda kaxxa aabbi bayla le marah matamma itta. Doktoor fan gacaanam qambaalta:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Ayti biyaak leek
+- Aytik dacay, mala kee dhiig leek
+- Sissik aabbi kalta leek
+- Inki aytik aabbi dagna leek
+- Inti garay leek
+- Kaxxa ayti qasli leek
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Aabbi qidda baritto faxxam sabatah, FDA taysikisse innah gaca idon wagit. NIA qafiyat koofto gacsam esseraanam taysikisse. Kas-dagna le numuh, aabbi qakimi sahaluk qidda dooruh kalu duuda.
 
-## How can I talk more easily with someone who has hearing loss?
+## Aabbi dagna le num lih mannal sahaluk yaabaan?
 
-The NIA suggests:
+NIA taam taysikisse:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Numut gacaah inti gital wagit**, meqe ifot, teeti af kee saami cubbusoonuh.
+2. **Cawwal male araca doora.** Tilfiziyoon qid kee dhumok baxuk suga.
+3. **Yab kaxxaaysa, takkay immay ma-qeriyina.** Meqe gital sahaluk yaaba.
+4. **Af xiq.** Ma-makkalina, gomma ma-qannina, af ma-qambisina.
+5. **Yab qellisek aka qangarat meqoysa.**
+6. **Inki num inki adda.** Kaxxa marat, woo num doolat addat hay.
+7. **Sabri leeh macat koo kaltu iyyaanam essera.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ta doolat ni [dementia communication tips](/caregiving/communication-tips/) lih meqe taama abta. Missoosak yan taama aabbi taama kalta. [Picture Pairs](/games/picture-pairs/) kee [Conversation Cards](/games/conversation-cards/) able waynamal taamita, [Finish the Saying](/games/finish-the-saying/) yabbih xalut gabaak elle tascubben. Silkih yab wagittoytah, [phone and video calls](/activities/phone-and-video-calls/) wagit.
 
-## Vision matters too
+## Inti qafiyat kaxxam faxxiima
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 Lancet Commission inti dagna kas-dagna sababah osisse. UCL wagitto 2% kas-dagna addak tece, inti wagitto kee qafiyat kulli marah geytimtaam faxximtam tece. [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) 60 sanat wadir sanit akah sanit inti dilaaliso abaanam, manaxir wagitto lih. Inti dagna radu xalu mangoyissa.
 
-## Talk with a doctor
+## Doktoor lih yaaba
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Aabbi kee inti wagittoh doktoor essera hebelto asta tubleenik. Sissik aabbi kalta, ayti biyaak kee dacayik sissikuk qakimi fan gaca. Kas-dagna le num warraytak sugeek, aabbi kee inti kalta doktoorut waris, toh gaba kaltaam kee qafiyat tasgalleemih sabatah.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Ta qambara umman caagidih kinni, qakimi farco hinna. Ni [medical disclaimer](/medical-disclaimer/) wagit. Marah yan garay kee samada qafiyat [social connection and brain health](/brain-health/social-connection/) addat akriya.

@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Kassitih Taamoomi: Sanduuqa, Mano Taarik kee Suwitte"
+seoTitle: "Kas-Masnu luk Yan Marah Kassit: Meqsit Maleh Yaaba"
+description: "Kas-masnu luk yan num lih kassit meqsit maleh itiyya lih bicsiyyo: suwitte, kassit sanduuqa kee mano kitaabay salaamatah tan yaaba luk."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Kassit deqsittam tunkube waktih kassit suwitte, miidiyee, muusiiqa kee
+  wacyittel itiyya lih wallowtiyya kinni. Kassitih sanduuq bicisa, mano
+  taarikih kitaab bicisa, hinnay suwitte itta xaqut guba. Gibdi essero
+  kibala: "Kassittaay?" kee "Ah iyyi?" kaliteenik, "Ahim elle tanim yoh waris"
+  iyyaanam xiqtana. Numma timixxigem elle xannootam akke kal, meqe wacyit
+  koboxuk geytimaanam aysuk raqta.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Kassit yaaba kinni, meqsit hinnay fexam hinna. Numma akke waam koboxuh tuxiqe waytek, wallow aysuk raqta."
+  - "'Kassittaay...?' kee 'Ah iyyi?' iyyaanamik xabba haay, 'Ah ayro yoh waris' iyyeenik aysa."
+  - "Numuk manok geytimte miidiyee luk tan kassitih sanduuq gaba kee wacyit qokolta."
+  - "Mano taarikih kitaab buxah mara, tibbina mara kee dacayrih taamabeynih numuk manoo kee qanbi mixigeh yaaboh qokol yaaba."
+  - "Kassit nadaama hinnay rookah kaltek, aawala kaah acwaay garab kaak gaca."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Kas-masnu luk yan marah kassit iyyam macaay?"
+    a: "Kassit deqsittam tunkube kassit kee manoh wacyitte suwitte, miidiyee, muusiiqa hinnay viidiyoh qokoluk itiyya lih wacyit abiyya kinni. Numuk numuh hinnay maruk koboxut abak xiqta. Qaddoosiyyah meqsit akke kal, xannow kee meqe wacyit geyoona elle heeni qasbi kinni."
+  - q: "Maccah 'Kassittaay?' iyyah esseriyyo waynaah?"
+    a: "Kassit fexta esseroora numuk qangara geyo waytek kacan kee wacaysiyya kaah baxxaaxuk dudda. National Institute on Aging num kassitam esseriyyo kalaluunuh tan taamoomih fanat hayte. Elle gubtanim gersi num warisaay, usun elle edde yanim akah oggola."
+  - q: "Kassitih sanduuqut maca heenik aysaah?"
+    a: "Numuk manot geytimte salaamat leeh gibdi miidiyee doora: taamah miidiyee, fayxih miidiyee, doolad, boostah kaardi, maaqoh bicsiyyah kaardi, ispoortih kassit hinnay suwitteh kobiyya. Qoxxoc leem, qamaluk xiqtimtam kee kassiysiyyah duude waytan qariib miidiyee kibaala."
+  - q: "Numma teeti waytek maca abnaah?"
+    a: "Kabay haysa. Inaay tet suwrat say-migaaq tet toobokit ikkek tet toobokowuyte teeti tekkay, meqe. Numma tewqem diggisiyya meqe wacyit meqsit fanah tabaasa. Usun warisan wacyit katalay itiyya lih wallowa."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/music, activities/visiting, activities/ph
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Kassit deqsittam tunkube waktik itiyya lih wallowtiyya kinni. Kas-masnu luk yan marih maggo marat, kaxxa sanatih duma kassit saaku maxico tekkeemit aysuk cawalaay baxxaaxak raqta. Suwitte, yaaxigeeni miidiyee, muusiiqa kee wacyitte woo kassit fakak xiqtaay, koboxih meqe wacyit siinih acuwak dudda. Elle tan tii madqa: ah meqsit hinnay, wacyit yaaba kinni.
 
-## What is reminiscence, and how is it different from quizzing?
+## Kassit macaay, esseroh meqsittek mannal baxsitaah?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Kassit deqsittam suwitte, miidiyee, muusiiqa hinnay viidiyol kassit numuk isi xiqtok itiyya lih gubiyya kinni. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) qaddossam, suwitte, miidiyee, viidiyo hinnay muusiiqah qokoluk kitaabut hinnay taabletit wacyitte itiyya lih bicsiyyo kinni. Esseroh meqsit baxsita: numuk cakkik tan jawable acwa inna axcih meqsiyaanam kinni, toh wallow akke kal kacan bahtam dudda.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) numuk kassit hinnay num yaaxigeemih essero kalaluunuh tan taamah fanal edde heele. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) dagom waktih kassit elle tan esseroora kaliteenik, wadir waktih kassitol yaabaanam taaxigeeh qiddisiyya tece.
 
-| Instead of | Try |
+| Ah iyyah kaltek | Ah geegiisa |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Ahim kassittaay?" | "Ah meqe ayro celta. Elle tanim yoh waris." |
+| "Ah iyyi kinni?" | "Doolad Roza bad xaqut tan. Woo koofiyatal guba." |
+| "Ahi a sanataay?" | "Ah duma dabqah celta. Woo buxat dabqit mannal teneeh?" |
+| "Malee, woo Bilaal hinna, Faraac kinni." | "Usuk kaxxa wallow le numuk celta." |
+| "Ahim dumal yoh wariste." | "A wacyit kaxxa koboxuh kacan liyo." |
 
-## How do you talk about photos without quizzing?
+## Suwittel meqsit maleh mannal yaabaanaa?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Gubtanimil faka, sarrah usun edde heeni fayxi leenik elle oggola.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Itta xaqut guba.** Albom siinik fanat haysitaay, itta lih guba kal, taraabizak xabbowuk fexam meqsitte maabina.
+2. **Dago suwitte doora.** Sanduuq koboxuk koona meqe suwrat aysuk raqta. Kaxxam kee baxxaaxak tan suwitte aysa.
+3. **Migaaq isin qiddisa.** "Ah atu kee Abbah aroocay ayro kinni" axceenik, gibdaabina kak tayseenik aysa.
+4. **Baxxaaxak tan miidiyel yaaba.** Sara, mootora, maaqo, ayroh celta, fooca. "Ah manna mootoraay. Kaxxam carita."
+5. **Kallaca, xiqtuh makattisina.** "Yoh waris..." hinnay "Maca gubta?" Gabbaagab meqe.
+6. **Usun geytiman madqat kataya.** Gersi yaabal gacanik, usun fanah kataya.
+7. **Wallow elle tanik gabagabisa.** Daqaytu amol maatinnaanuk albom alifa.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Bicissimte suwitteh qokolul yaaboh, [wacyitih kaarditte](/games/conversation-cards/) geegiisa. Buxah suwitte itta celta meqeh gacsiyyah taamah bicisoonuh, [suwrat celta](/games/photo-pairs/) geegiisa; doortan suwitte siinih tan burawzerik awqe wayta.
 
-## How do you make a memory box?
+## Kassitih sanduuq mannal bicisaanaa?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Kassitih sanduuq deqsittam numuk isi manok geytimte miidiyeeh sanduuquy gaba kee yaabah bicsaanam kinni.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Gibdi sanduuq doora** fakiyyah salaamat leem, saabaati sanduuq, koofiyah sanduuq hinnay xayi sanduuq.
+2. **Kobox hinnay baxsiyya doora.** Taama, fayxi, baaxo, sanatoota, hinnay umman caddok dagoom.
+3. **Salaamat le miidiyee koboxisa.** Qiddisiyyah koonaak tabanak fanah meqe.
+4. **Kaxxa kassiysiyyah duude waytan miidiyeek kobiyya aba.** Suwitte kee warqitteh kassiysiyya safe heyaay qariib kaak kalita.
+5. **Tiik tiikih teetik awqisa.** Tii gaba acwaay, kaal yaabaay, yaab axce fanah kataya.
 
-Ideas to include:
+Sanduuqul haysitonaanam:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Taama:** migaaqih baaj, dagoo taamah qonxa, unifoom, kitaaba, kalkaaltih pini, maaqoh kitaaba.
+- **Dabqa:** gabaak biykite maaqoh kaardi, shaayih fooca, kacan le doolad hinnay raabta.
+- **Fayxi:** doqol maleh kullaaytih kalu, kura, xiyyit, ayrorti.
+- **Baaxoyisse:** boostah kaarditte, kaarta, duma baaxoh kassiysa, duma gazzexxah qadaf.
+- **Buxah mara:** suwitteh kobiyya, xayloh suwrat, aroocah kallac.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Qoxxoc leem, qamaluk xiqtimtam kee rookah kassiysiyya bahtam kibaala, usun kacan luk elle yaninik sa.
 
-## How do you make a life-story book?
+## Mano taarikih kitaab mannal bicisaanaa?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Mano taarikih kitaab deqsittam suwitte kee dago yaabah kassiysa numuk manok albom kinni. Itiyya lih guboonuh, buxat yamaate maraay dacayrih taamabeynit numuk koboxih mixigey meqe tece.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Formaat doora.** Folfol aliftam, tabqate kitaaba, hinnay taablet amol suwitte.
+2. **Dago baxsiyya bicisa.** Xaylo-waktu, baritto, taama, buxah mara, daabina, diini, fayxi, meqe maaqo kee muusiiqa.
+3. **Qasir tiik nammay suwrat haaya** kaxxa kutbeh wacyi luk: "Mariya, 22 sanatih xiqto, baankit taama qiddise."
+4. **Fayxi kee kacan edde haaya.** "Shaayi qado luk yaaqube. Ahad kacanle muusiiqa kacan le. Kaxxa sagaleh TV makacana." Ah dacayrih mara kaxxam qokola.
+5. **Num edde yanim akah oggola** suwitte dooriyya, wacyit warisiyya hinnay gubiyyat.
+6. **Kibabuk edde korma.** Tuumat xiqtam makicna tuxiqe akke waytek.
 
-## More reminiscence ideas
+## Gersi kassitih meqe taamoomi
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Sarrah waktih muusiiqa faka** kaah wacyit elle abte fanah yaaba. Gub [muusiiqah taamoomi](/activities/music/).
+- **Duma vidiyo hinnay TV guba** kacan le sanatootak.
+- **Xaylo-waktih maaqo bica** carway yaab akah faktu heya.
+- **Kaarta guba** daabina baaxoy daqaari yaaxigeenim kataata.
+- **Duma maajallatte guba** elle yaaba wagteemi, sara kee mootoriteel.
+- **Wacyitte telefoolil koboxisa**, idni luk, buxah marah.
+- **Telefoolil bicsa.** Vidiyoh wacyit amol tii suwrat gicla; gub [telefoo kee vidiyoh wacyit](/activities/phone-and-video-calls/).
+- **Tibbina waktu suwrat hinnay miidiyee luk mara.** Tibbina aysuk fakta; gub [tibbina](/activities/visiting/).
 
-## What if a memory is painful?
+## Kassit nadaama luk yanim tekkay maca abnaah?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Gari kassit rookah, nadaama hinnay meysi luk tekkek dudda. Num rookitak tekkek, gabagabisaay, aawala kaah acwaay, salaamatah tan yaab hinnay taamat gaca. Tunkubeemit maabbina. Family Caregiver Alliance num koroosannuh kalaluunuh teceeh, usun yubleeni ruuclih kassit elle taniyyeh gacisaaxicih tece. Qimmuk rabe num manol yaniyyeh yaabaanik, kassitit gacisa: "Kaa kacan litoh. Kaah yoh waris."
 
-## What does the research say?
+## Qilmik qadafeenim maca iyyaah?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), 22 geegisiyya kee 1,972 mara luk tekkeem, baxsa luk baxsitaah, dago tuxiq leemit geytimte. Kas-masnu luk yan marah madaqqi leemih sumaq mageyinna. Kassit meqe axcuk qiddisnem salaamatah tan wacyit itiyya lih geyoonuh kinni, dacarsiyyah kuras hinnay qandeh hinna. Salaamatah tan wacyit geyoonuh, gub [wacyitih maxcooca](/caregiving/communication-tips/).

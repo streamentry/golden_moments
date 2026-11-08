@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Handāiti Tāblētahe Ayā Fōnahe Narāi Yim Aipicarahe"
+seoTitle: "Handāiti Tāblētahe Ayā Fōnahe Narāi Yim Aipicarahe"
+description: "Paiti-dātō tāblētahe fōnahe ca narāi yim aipicarahe: bandaiti aēvahe āpahe, masan dīpiš, kamna fravāka, aēva dāra-paiti, gaošō ud rāzo-dāiti."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Kərənuš tāblētəm ayā fōnəm hu-vīciϑrəm para hāvanāi. Bandaiti aēvahmi āpē
+  paϑā Guided Access paiti iPad ud iPhone, ayā app pinning paiti Android, ayā
+  varəzayō Apple Assistive Access vīciϑrāi daϑrāi. Kərənuš dīpīš masiyāhīš,
+  xšapō fravākā, dāraya kamnəm āpanąm paiti aēvahmi dāre, nimaite gaošāi,
+  hacaiti paiti-stāna, ud kamna paiti-framānā dāta. Varəzayata haxā, pasca
+  hacā han-kərəitīš yā vī-dāre aŋhən.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ud app pinning (Android) dārayete dārəm aēvahmi āpē yāvata tūm vī-būnjayehi."
+  - "Assistive Access hacā Apple dāiti daϑrəm hu-vīciϑrəm yim han-dātəm narabyō manō-vīcaraiti vīvantabyō."
+  - "Kərənuš dīpīš masiyāhīš ud vī-daus fravākā paiti-tācīš ca yāϑa nōit ciciš paiti-stayeiti nōit fra-marəzaiti."
+  - "Dāraya kamna xšnūta āpa paiti aēvahmi han-dāre, ud ni-sādaya gaošəm para yāϑa haocayehi."
+  - "Paiti-stāno ud cašmō daϑra-suxra yō nōit sravayeiti kərənvaite hāu dravad-dāram nərəbē hu-varəštəm ud hu-vīndəm."
+  - "Paiti-vaēnō āp-framānā ud dāta-baxta: HIPAA hām-bavaiti nōit pāiti təm yim han-jamata paiti xᵛae-paite dravad-dāre."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Katarā paiti-stāmi narəm yim aipicarāmi hacā vī-tāciti āpahe paiti iPad?"
+    a: "Dāraya Guided Access paiti Settings > Accessibility > Guided Access ud ni-dāraya paiti-rāzəm. Paiti-pərəsā āpəm, ϑri-kərəfs paiti bərəz-batanəm (ayā Home batanəm paiti parō iPad), ud cixšnō Start. iPad paiti-stayete aēvahmi āpē yāvata aēte paiti-rāzəm ni-daϑənti."
+  - q: "Katarā bandāmi Android tāblētəm aēvahmi āpē?"
+    a: "Dāraya app pinning paiti Settings, rāzarē paiti Security (ayā Security & location) > Advanced > App pinning. Pasca paiti-pərəsā āpəm, paiti-pərəsā Overview, cixšnō āpahe daxštəm paiti bərəze ud cixšnō Pin. Təva PIN, rāϑa ayā paiti-rāz dārayaite vī-bandanāi."
+  - q: "Asti vā dravō Guided Access paiti xᵛa-fōne narō yim aipicarahe?"
+    a: "Paiti-xšnuya. Apple mrūiti ku Crash Detection ud Emergency Services nōit aŋhən yōi Guided Access varəzayete. Yezi narō fōnəm xᵛastayeiti ayasta-paitīš, varəzaya Guided Access təm aēva hakat tūm hada aēibyo bavaiti, ayā paiti-xšnūya Assistive Access."
+  - q: "Kada masiyō dāra-zrvā asti narāi yim aipicarahe?"
+    a: "Nōit asti ciciš nimaēta marəxa. Kamna hām-zrvānō hada caravāi, sravahi, xᵛa-varəzāi ud paiti-sengha kərənvaite raocəm pourum pasca masi-zrvā aēvō hada dāre. Yezi dravad-dāram ānayeiti a-xšnūtim ayā a-dāiti anyanąm varəzanąm, kamnəm varəzayata."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tāblēto bavāt vaŋhuš paϑō paiti-barənte pata, srava ud hu-vīciϑra yasnā. Bavāt aipi marəxa-dāta: an-aēta cixšnūiti paiti-pərəsaiti anyəm āpəm, fravāka paiti-tāciti, dīpiš kəsuš asti, ayā dārəm tamahe aŋhaiti maiδyō-yasne. Kamna handāiti hacā təvē vi-spa ānayeiti.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Aēte paiti-dātō varəzayinti handātīš yōi paiti iPhone, iPad ud Android dārayente. Paiti-nāmana vī-cārayeiti antare paiti-srūtam ud dravad-dāra-dātāram, pasca yezi ciciš anyā-vaēnaiti, paiti-cara paiti Apple ayā Google parana yō hada dravad-dāre təva bavaiti. Kərənuš handāitīm tūm xᵛaēpaite, para yāϑa hada ni-šīδata.
 
-## Should someone with dementia use a tablet or phone?
+## Narō yōi manō-vīcaraiti vīvante dārayən tāblētəm ayā fōnəm?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Hām-bavaiti hada narəm. Paošanąm naram aipicaraiti varəziti tāblētahe hada aipicāraiti kasō paiti paitiš-arəm, yōi nōit aēvō varəzayən. Paiti-para hada varəzayata, aēva āpa paiti-pərəsa, paiti kamna zrvāna. Yezi dāiti urvāzməm ud paiti-senghəm, dāraya paiti. Yezi dāiti a-xšnūtim ayā marəxāi, pata-dāram, dīpiš-nimaēta ayā srava aŋhaiti aēibyo masitərə. Yōi ahmākam [printable activities](/activities/printable/) asti aēva paiti-varəza.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tāblēto paiti-vīciϑrō asti pasca fōne: dārəm ud pata masiyå aŋhən, ud nōit asti aēte ayasta-fravāka fōnō.
 
-## How do I lock a tablet or phone to one app?
+## Katarā bandāmi tāblētəm ayā fōnəm aēvahmi āpē?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Varəzaya Guided Access paiti iPhone ud iPad, ayā app pinning paiti Android. Duvā dārayente dārəm aēvahmi āpē yāvata paiti-rāzəm ni-daϑehi, pasca a-mātō cixšnūiti ayā karšiti nōit anyəm paiti-pərəsaiti.
 
-### iPad and iPhone: Guided Access
+### iPad ud iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Hacā [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Paiti-pərəsā **Settings**, cixšnō **Accessibility**, pasca cixšnō **Guided Access** ud dāraya.
+2. Paiti **Passcode Settings**, dāraya Guided Access paiti-rāzəm. Aipi bavāt Face ID ayā Touch ID.
+3. Vīcāraya: paiti **Display Auto-Lock**, vīcinu kada draxte dārəm bandayeiti maiδyō zrvāne, yāϑa nōit təmō maiδyō-yasne aŋhaiti.
+4. Paiti-pərəsā āpəm yim vasahi varəziti.
+5. ϑri-kərəfs batanəm cixšnō paiti sparahe (iPhone), bərəz batanəm (iPad), ayā Home batanəm paiti parō dravad-dāre.
+6. Vīcāraya: paiti-karša aēte han-dāsahe yā nōit vasahi cixšnūiti paiti-gərəwnaiti. Cixšnō **Options** (ayā **Session Settings**) yāϑa vī-daus gaoš-batanō ayā vī-daus dāre vartate.
+7. Cixšnō **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Vī-sravanāi, ϑri-kərəfs paiti batanəm cixšnō, ni-dāraya paiti-rāzəm, ud cixšnō **End**. Apple dāiti ku paiti parō softwēre du-kərəfs cixšnō.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Bərəz-dāiti:** Apple mrūiti ku Crash Detection ud Emergency Services nōit varəzayente Guided Access maiδye. Nōit dāraya Guided Access paiti fōne yō narō xᵛastayeiti ayasta-paitīš.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Hacā [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Paiti-pərəsā **Settings** āpəm.
+2. Cixšnō **Security** (ayā **Security & location**), pasca **Advanced**, pasca **App pinning**. Yezi nōit vīndehi, paiti-vaēna dravad-dāra-dātārahē parana.
+3. Dāraya **App pinning**. Təva PIN, rāϑa ayā paiti-rāz dārayaite vī-bandanāi.
+4. Paiti-pərəsā āpəm. Karša bərəze maiδyō dārahe ud dāraya paiti-pərəstāi Overview (ayā cixšnō Overview hada 3-batanē).
+5. Paiti bərəze āpahe vaēna, cixšnō āpahe daxštəm, pasca cixšnō **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Vī-bandanāi hada gesture, karša bərəze ud dāraya. Hada 3-batanē, dāraya Back ud Overview. Hada 2-batanē, dāraya Back ud Home. Pasca ni-dāraya təva PIN, rāϑa ayā paiti-rāzəm.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Asti vā hu-vīciϑro dātō vīspahe iPhone ayā iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Avoi. Assistive Access hacā Apple paiti-dāiti sravatō dārəm hada hu-vīciϑre dāre. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) yō handātō ku iPhone aŋhaiti hu-varəštəm narabyō manō-vīcaraiti vīvantabyō aēva-varəzāi, hada masiyå daxštā ud paϑō. Apple dāiti [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Kō handāiti.** Apple mrūiti ku haxō arš-dātō, mānayo aipi-zanō ayā aipicārō yō narəm xšnāsayiti, paiti-vīcinu āpa ud paϑō.
+- **Kada paiti-para.** Pərəsā **Settings > Accessibility > Assistive Access**, cixšnō **Set Up Assistive Access**, pasca **Continue**.
+- **Āpa.** Tūm vīcinehi katāra āpa vaēnayente. Kamna Apple āpa dārayente hu-vīciϑrā nimaēta, ud vīspe anye āpa paiti-bavanti hada xᵛaēpaite daϑre.
+- **Daϑrō.** Vīcinu **Rows** (hu-pərəstō nāma) ayā **Grid** (masiyå daxštā yōi pata ud daxštəm bərəz-kərənvan).
+- **Paiti-rāz.** Ni-dāraya anyəm Assistive Access paiti-rāzəm pərəstāi, vī-sravanāi ayā vī-dāiti handātīš. Apple paiti-mrūiti handāitīm Apple Account para handātīm, a-haca ku a-marəxtō paiti-rāzo paiti-dāiti dravad-dāram paiti-kərəte.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access bavāt vaŋhuš narāi yō xᵛa-dravad-dāra varəzayiti aēte raoca. Guided Access ayā app pinning asti asu-kərəto hada hām-yasna zrvāne.
 
-## How do I make text and pictures bigger?
+## Katarā kərənum dīpīš ud pata masiyå?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Masitərə kərənuš dīpiš ud dāra-masanəm, pasca paiti-vaēna ku batanō aipi dāre paiti-bavāt.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ud iPad.** Hacā [Apple's font size instructions](https://support.apple.com/en-us/102453), paiti-cara **Settings > Display & Brightness > Text Size** ud karša skandəm. Masiyāhīš dīpīš pərəsa **Settings > Accessibility > Display & Text Size > Larger Text**. Apple dāiti ku masi-dīpiš bavāt kərənu batanəm a-hu-cixšnu, pasca handāraya yezi dāiti.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Hacā [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), paiti-pərəsā **Settings** ud paiti-yaona **Font size**, pasca skandəm paiti-karša. Paiti-yaona **Display size** kərənvai vīspəm masi paiti dāre. Tūm aipi dārayehi **Bold text** paiti **Accessibility > Display size and text**. Kamna āpa nōit paiti-hacinti aēte handātīš.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Paiti yasna yōi mānayo [Picture Pairs](/games/picture-pairs/) ud [Find the Same](/games/find-the-same/), tūm aipi vīcinehi kamna pata ayā vīciϑra, yō dārayeti vīspəm hu-vīciϑrəm paiti dāre.
 
-## How do I stop notifications and pop-ups?
+## Katarā vī-daus fravākā ud paiti-tācīš?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Vī-daus fravākā āpanąm yōi nōit dārayehi, ud varəzaya Do Not Disturb maiδyō han-kərəitīš.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ud iPad.** Paiti-cara **Settings > Notifications**, cixšnō āpəm ada **Notification Style**, ud vī-daus **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Tušnəm kərənvan sravana, fravāka ud daxšta kamna zrvāna, paiti-pərəsā Control Center ud dāraya **Do Not Disturb** hacā **Focus** batanē ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). Tūm aipi handārayehi paiti **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Karša ni hacā bərəz dāre ud cixšnō **Do Not Disturb**, ayā paiti-cara **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Paiti **Notification filters** vīcinehi kō narō ud āpa paiti-tācinti. Handātīš vī-caranti paiti dravad-dāra-dātāram.
 
-## How do I make a simple home screen?
+## Katarā kərənum hu-vīciϑrəm dārəm?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Dāraya kamna xšnūta āpa paiti aēvahmi dāre ud spara anya a-vaēnita. Nōit asti aēva handāiti ahmai; asti vī-marəzan a-vīciϑrahe.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Vīcinu ϑrayō ayā xšvaš āpa.** Mānayo pata, srava, caxra-srava āpəm ud aēva yasna.
+- **Ni-sādaya aēte paiti paoiryō dāre,** aēvahmi dāsahe vīspəm zrvānəm, ud spara anya paiti bityō dāra ayā gāϑa.
+- **Varəzaya hu-vaēna, vī-spašta dāra-vafra,** mānayo aēva raocah-raona ayā aēva xšnūta pata, yāϑa daxštā paiti-xšnūyante.
+- **Vī-marəza āpa yōi nōit dārayehi.** Kamna āpa dāiti kamna marəxa ud kamna dāte han-jamata.
+- **Vīcāraya Assistive Access** paiti Apple dravad-dāre yezi vasahi dravad-dāra kərənvaite ahmai.
 
-## What about volume and sound?
+## Katarā gaošō ud sravana?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Ni-sādaya hu-gaoša gaošəm para yāϑa dāraya dravad-dāram narāi. Hada Guided Access, tūm vī-dāte gaoš-batanō yāϑa nōit vartate maiδyō-yasne. Paiti-vaēna ku gaoša-suxra dārayente ud varəzayente.
 
-## Where should the tablet live?
+## Kada dāraya tāblētəm?
 
-Give it a stand and a permanent charging spot.
+Dāraya paiti-stānəm ud a-srava cašmō daϑra-suxrahe.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Paiti-stāno ayā dāra-vastra** yō dārayeti tāblētəm arš-stātəm paiti myazde kərənvaite ku nōit ciciš paiti-dārayeiti, ud aipicašmō asti hu-kərəto.
+- **Aēva cašmō daϑra-suxrahe** yō nōit vartate, vaŋhuš asti paiti myazde antare han-dāranəm yim varəzayehi vīspe raoca. Tāblēto vīspadā suxro ud aēvahmi dāse asti.
+- **Kamna raocah-təvīš.** Paiti-dāraya dārəm dūrē hacā bərəz-raocanahe.
 
-## How much screen time is okay?
+## Kada masiyō dāra-zrvā asti vaŋhuš?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Nōit asti aršta marəxō zrvānō. Paiti-cara kamna hām-varəza zrvāna aēva baxta pouru raoce yō aipi dārayeti yātum, srava, nmāna-varəzəm, paiti-senghəm ud bərəz-raocah caravāi. Paiti-xšnūya ku pouru-varəz xšapō bavāt paiti-dāiti a-xšnūtim xšapō paiti, dāraya dāra-yasna paoiryō raoce. Paiti-vaēna [calm late-afternoon activities](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Varəzayata tāblētəm hada, nōit mānayo aēva aipicāra, dārayeti hām-bavanim. Ahmākam dāiti paiti [playing games together](/caregiving/how-to-play-together/) sravayeiti katarā.
 
-## How do I protect their privacy on the device?
+## Katarā pāmi rāzo-dāitīm paiti dravad-dāre?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Kamna kərənuš təm yim āpa han-jamayinte, ud nōit manyata ku dravad-dāta pāiti vīspəm. U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ku HIPAA Rules hām-bavaiti nōit pāiti dravat-rāzəm yim han-jamata ayā paiti-pərəsta paiti xᵛa-fōne ud tāblēte. Paiti paoši vīciϑra, HIPAA aipi nōit pāiti dāta yim ni-daϑənti paiti āpe xᵛa-varəzāi kasu yezi āp ānayeiti hacā dravad-dāta dātāre, dravad-plan ayā anya haxō-kərənvan.
 
-HHS suggests:
+HHS paiti-mrūiti:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- a-varəziti an-aēta ayā ciciš āpa, aipi yōi "dāra-vīza";
+- nōit dāiti āpanąm paiti-framānā dāsahe yezi nōit arš-vasanti, mānayo dāra-rāϑa.
 
-Also consider:
+Aipi vīcāraya:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Varəzaya paiti-rāzəm** paiti dravad-dāre, ud dāraya dīpiš aētahe paiti pāto dāse.
+- **Paiti-vaēna paiti-framānā** patahe, cašmahe, gaoša-suxrahe, haxanąm ud dāsahe, ud vī-daus aēte yim āp nōit vasahi.
+- **Paiti-pərəsā katāra āp han-jamayeiti** para ni-dāiti. Ahmākam dāiti paiti [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) dārayeti rāzo-pərəsam.
+- **Paiti-xšnuya hada vīso pata.** Aēva paiti-baxta pata yō narō xšnūtō aŋhaiti, ud xšnāsa kada āp han-jamayeiti. Paiti [Photo Pairs](/games/photo-pairs/), pata yōi vīcinehi dārayente antare təva paiti-cara.
+- **Vī-daus āp-xᵛanva** ayā vī-bərəja xᵛanva-dāta hacā acounta yō narō varəzayiti.

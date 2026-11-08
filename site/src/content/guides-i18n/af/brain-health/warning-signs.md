@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Vroeë tekens van demensie en wanneer om 'n dokter te sien"
+seoTitle: "Vroeë tekens van demensie en wanneer om 'n dokter te sien"
+description: "Algemene vroeë tekens van demensie, hoe dit van gewone veroudering verskil, behandelbare oorsake van geheueprobleme, en voorbereiding vir 'n doktersbesoek."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Geheueverlies wat die daaglikse lewe ontwrig, moeite met bekende take, verwarring oor tyd of plek,
+  en veranderinge in bui of oordeel kan vroeë tekens van demensie wees. Baie ander toestande, insluitend
+  skildklierprobleme, lae vitamien B12, newe-effekte van medikasie, depressie en slaapprobleme, kan
+  soortgelyke veranderinge veroorsaak. Slegs 'n gekwalifiseerde klinikus kan 'n diagnose maak. Skielike verwarring benodig dringende sorg.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Af en toe vergeetagtigheid is algemeen soos 'n mens ouer word; veranderinge wat die alledaagse lewe ontwrig, behoort ondersoek te word."
+  - "Die Alzheimer's Association beskryf 10 waarskuwingstekens, elkeen vergelyk met 'n tipiese ouderdomsverwante verandering."
+  - "Skildklierprobleme, min vitamien B12, newe-effekte van medikasie, depressie, infeksies en slaapprobleme kan almal geheue beïnvloed, en sommige is behandelbaar."
+  - "Slegs 'n gekwalifiseerde klinikus kan demensie diagnoseer; aanlyn vasvrae en selftoetse kan nie."
+  - "Verwarring wat skielik ontstaan, oor ure of dae, kan delirium wees en benodig dringende mediese sorg."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Is vergeetagtigheid 'n normale deel van ouer word?"
+    a: "Tot 'n mate, ja. Die National Institute on Aging sê dat om soms dinge te verplaas of 'n rekening te vergeet, gewoonlik matige, ouderdomsverwante vergeetagtigheid is. Demensie is nie 'n normale deel van veroudering nie. Geheueprobleme wat alledaagse take soos bestuur, telefoonoproepe maak of die pad huis toe vind moeilik maak, behoort met 'n dokter bespreek te word."
+  - q: "Kan geheueprobleme deur iets anders as demensie veroorsaak word?"
+    a: "Ja. Die National Institute on Aging lys onder meer skildklier-, nier- of lewerprobleme, newe-effekte van medikasie, depressie en angs, lae vitamien B12, alkoholmisbruik, slaapprobleme, infeksies en kopbeserings. Sommige hiervan verbeter sodra dit behandel word, en dit is een rede waarom 'n mediese ondersoek so belangrik is."
+  - q: "Kan ek iemand by die huis vir demensie toets?"
+    a: "Nee. Slegs 'n gekwalifiseerde klinikus kan demensie diagnoseer met behulp van 'n mediese geskiedenis, 'n fisiese ondersoek, geheue- en denktoetse, laboratoriumtoetse en soms breinskanderings. Selfs die kort toetse wat dokters gebruik, is op hul eie nie genoeg om demensie te diagnoseer nie."
+  - q: "Wat moet ek doen as iemand skielik verward raak?"
+    a: "Kry dadelik mediese hulp. Skielike verwarring kan delirium wees, wat die VA as 'n mediese noodgeval beskryf. Bel dadelik die persoon se gesondheidsorgverskaffer of skakel die noodnommer (soos 112 of 10177), bly by hulle, en maak 'n nota van enige medikasie wat hulle neem."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Om veranderinge in jou eie geheue op te merk, of by iemand vir wie jy lief is, kan angswekkend wees. Hierdie blad kan jou help om te besluit wanneer om 'n dokter te raadpleeg en hoe om daarvoor voor te berei. Dit kan jou nie sê of iemand demensie het nie. **Slegs 'n gekwalifiseerde klinikus kan demensie diagnoseer**, en baie toestande wat geheueprobleme veroorsaak, is glad nie demensie nie. Moet asseblief nie op aanlyn vasvrae of selftoetse staatmaak nie.
 
-## What are the early signs of dementia?
+## Wat is die vroeë tekens van demensie?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+Die [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) beskryf 10 vroeë tekens. Hulle vergelyk elkeen met 'n tipiese ouderdomsverwante verandering. In ons eie woorde:
 
-| Sign worth checking | More typical with age |
+| Teken wat ondersoek werd is | Meer tipies met ouderdom |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Geheueverlies wat die daaglikse lewe ontwrig, soos om onlangse gebeure te vergeet of dieselfde ding oor en oor te vra | Om soms 'n naam of afspraak te vergeet en dit later te onthou |
+| Moeite om te beplan of probleme op te los, soos om 'n bekende resep te volg of rekeninge by te hou | 'n Af en toe foutjie met die huishoudelike rekeninge |
+| Sukkel om bekende take by die huis, by die werk of buite te voltooi | Om af en toe hulp met 'n mikrogolfoond se verstellings of die opneem van 'n TV-program nodig te hê |
+| Verloor van tyd, seisoene of waar 'n mens jouself bevind | Om die dag van die week verkeerd te hê en dit dan self uit te werk |
+| Nuwe moeite om afstande te skat, te lees of kleure te onderskei | Veranderinge in sig weens katarakte |
+| Nuwe probleme met woorde, soos om midde-in 'n gesprek stil te bly of dinge die verkeerde naam te noem | Om soms te sukkel om die regte woord te kry |
+| Om dinge op ongewone plekke te sit en nie jou treë kan nagaan nie | Om dinge af en toe te verplaas en dit te vind deur jou stappe terug te volg |
+| Swak oordeel, soos met geld of persoonlike versorging | Om af en toe 'n swak besluit te neem |
+| Onttrekking van stokperdjies, werk of sosiale aktiwiteite | Om soms nie lus te wees vir 'n gesins- of sosiale byeenkoms nie |
+| Veranderinge in gemoed of persoonlikheid, soos om verward, agterdogtig, bang of angstig te raak | Om vaste gewoontes te hê en geïrriteerd te voel wanneer 'n roetine ontwrig word |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Een teken op sy eie beteken nie demensie nie. Waarop dit neerkom, is 'n **verandering van wat normaal is vir daardie persoon**, veral een wat die alledaagse lewe moeiliker maak.
 
-## How is normal aging different from dementia?
+## Hoe verskil normale veroudering van demensie?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+Die [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) sê baie ouer volwassenes merk op dat hulle dinge stadiger herroep, of soms dinge verplaas of 'n rekening vergeet. Dit is gewoonlik tekens van ligte vergeetagtigheid. **Demensie is nie 'n normale deel van veroudering nie.** Ernstige geheueprobleme maak alledaagse aktiwiteite moeilik, soos om motor te bestuur, die telefoon te gebruik of die pad huis toe te vind.
 
-The NIA suggests talking with a doctor if someone:
+Die NIA stel voor dat jy met 'n dokter praat as iemand:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Oor en oor dieselfde vrae vra
+- Verdwaal in plekke wat hulle voorheen goed geken het
+- Sukkel om resepte of aanwysings te volg
+- Meer verward raak oor tyd, mense en plekke
+- Ophou om na hulself om te sien, soos om swak te eet, nie te bad nie of onveilig op te tree
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Sommige mense het **ligte kognitiewe inkorting (LKI)**. Dit beteken meer geheue- of denkprobleme as ander van hul ouderdom, terwyl hulle steeds die daaglikse lewe kan hanteer. Die NIA sê LKI kan 'n vroeë teken van Alzheimer se siekte wees, maar nie almal met LKI ontwikkel dit nie.
 
-## What else can cause memory problems?
+## Wat kan nog geheueprobleme veroorsaak?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Baie ander dinge benewens demensie kan die geheue beïnvloed, en sommige verbeter met behandeling. Die NIA lys onder meer:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Skildklier-, nier- of lewerprobleme**
+- **Newe-effekte van medikasie**
+- **Depressie en angs**
+- **Lae vitamien B12** of om nie genoeg gesonde kos te eet nie
+- **Slaapprobleme**
+- **Alkohol- of dwelmmisbruik**
+- **Infeksies, bloedklonte of gewasse** in die brein
+- **Kopbeserings**, soos 'n harsingskudding
+- **Groot stres of rou**, soos aftrede of die verlies van 'n huweliksmaat
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Gehoor- en sigprobleme kan ook met verwarring verwar word; sien ons [gehoorgids](/brain-health/hearing/). Dit is waarom 'n mediese ondersoek saak maak. Volgens die [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) vra dokters dikwels bloedtoetse aan om te toets vir skildklierprobleme, vitaminetekorte en infeksies. Goeie [slaap](/brain-health/sleep/) en die behandeling van depressie is ook die moeite werd om te noem.
 
-## Sudden confusion is an emergency
+## Skielike verwarring is 'n noodgeval
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Verwarring wat vinnig ontstaan, oor ure of dae, benodig dringende mediese sorg.** Dit kan delirium wees. Die [VA beskryf delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as 'n mediese noodgeval en beveel aan om dadelik die persoon se gesondheidsorgverskaffer te kontak of die noodnommer (soos 112 of 10177) te skakel. Tekens sluit in:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Wisseling in die vermoë om helder te dink
+- Sukkel om aandag te gee
+- Gedisorganiseerde denke
+- Ongewoon vaak wees, of buitengewoon rusteloos en ontsteld wees
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Dit kan met enigiemand gebeur, insluitend mense wat reeds met demensie leef. Volgens die [NHS](https://www.nhs.uk/symptoms/confusion/) sluit algemene oorsake infeksies in (blaasinfeksies kom algemeen voor by ouer mense en mense wat met demensie leef), beroerte, lae bloedsuiker by mense met diabetes, kopbeserings en sekere medisyne. Terwyl jy op hulp wag, bly by die persoon en stel hulle gerus met kort, eenvoudige woorde. Moenie baie vrae vra nie, en maak 'n nota van enige medikasie wat hulle neem.
 
-## How do I prepare for the doctor's appointment?
+## Hoe berei ek voor vir die doktersbesoek?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+'n Goeie afspraak begin met goeie notas. Die [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) stel voor dat jy die volgende saambring:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **'n Lys van veranderinge** in geheue, gemoed en gedrag, met spesifieke voorbeelde en min of meer wanneer dit begin het
+2. **Vorige en huidige gesondheidsprobleme**, insluitend enige familiegeskiedenis van geheueprobleme
+3. **Alle voorskrif- en oor-die-toonbank-medisyne**
+4. **Enige vitamiene of aanvullings**
+5. **Jou vrae**, soos watter toetse gedoen sal word, hoe lank dit neem en wanneer uitslae beskikbaar sal wees
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Dit help ook om 'n familielid of vriend saam te neem wat die persoon goed ken. Die [NIA verduidelik](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) dat dokters beide die persoon en 'n familielid kan uitvra oor gesondheid, medikasie, daaglikse aktiwiteite en gedragsveranderinge. Dokters kan ook:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Toetse van geheue, probleemoplossing, aandag, syfervaardigheid en taal afneem
+- Bloed-, urine- en ander toetse aanvra om na ander oorsake te soek
+- Toets vir depressie of ander geestesgesondheidstoestande
+- Breinskanderings soos 'n RT (CT) of MRI aanvra
+- Verwys na 'n spesialis, soos 'n geriater, neuroloog, geriatriese psigiater of neuropsigoloog
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+Die NIA merk op dat 'n kognitiewe assessering 'n vereiste deel van die jaarlikse Medicare-welstandbesoek in die VSA is, wat 'n natuurlike geleentheid bied om kommer te bespreek. Selfs die kort toetse wat dokters gebruik, is op hul eie nie genoeg om demensie te diagnoseer nie. Dit is 'n eerste stap na 'n meer omvattende evaluering, en 'n diagnose kan meer as een besoek neem. Die NIA beveel aan dat mense met geheueprobleme elke 6 tot 12 maande na die dokter terugkeer.
 
-## Raising the subject kindly
+## Om die onderwerp met deernis aan te roer
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+As jy bekommerd is oor iemand anders, kies 'n rustige, private oomblik. Praat oor spesifieke dinge wat jy opgemerk het, ingestel as besorgdheid oor hul gesondheid eerder as kritiek. Om 'n algemene mediese ondersoek voor te stel, kan minder ontstellend voel. Betrek die persoon by besluite en praat met hulle as die volwassene wat hulle is. Ons [kommunikasiewenke](/caregiving/communication-tips/) kan dalk help.
 
-## Talk with a doctor
+## Praat met 'n dokter
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+As jy veranderinge in geheue, denke, bui of alledaagse vermoëns opmerk wat nuut is en aanhou gebeur, maak 'n afspraak met 'n algemene praktisyn. Vir skielike verwarring, skakel dadelik 112 (of 10177) of kontak die persoon se gesondheidsorgverskaffer onmiddellik. Om vroeg ondersoek te word, beteken dat behandelbare oorsake gevind kan word en, as dit wel demensie is, daar meer tyd is om te beplan en ondersteuning te kry. Sorg intussen ook goed vir jouself; sien ons [gids oor selfversorging vir versorgers](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Hierdie blad bevat algemene inligting, nie mediese raad nie. Sien ons [mediese vrywaring](/medical-disclaimer/).

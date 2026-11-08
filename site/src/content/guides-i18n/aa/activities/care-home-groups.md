@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Kas Kassiti le Maroh Buttat Abnitte: Dacarsitoh Gidba"
+seoTitle: "Kas Kassit le Maroh Buttat Abnitte: Bingo kee Qangara"
+description: "Kas dacarashu kee dacarsitoh arot butta abnitte: kassi bingo, gaali qangara kee kassit buttaata, kee dafoh kee kobox keecot yaabe caagida."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Kas dacarashu kee laqoh dacarsitoh prograamittet meqe buttat abnitte
+  gabbaaqo, taaxigeeh kulli gaddal culuh sabab yan: masoocit bingo, gaali
+  qangara, kassi koboxxe, sorkocobbaayih xayyoota kee xayi qangari kuwwata.
+  Buttaata duudan innal caxxeysa, maro kulli num yabeeh yablu duuda innal
+  dafeyisa, kulli warrayti inki xinto xayyowsa, kaadu faxe numuh sabab meqeh
+  tan dooro kee deqsino le awqi meqsita.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Caxxeen buttaata kaxxa koboxuk addafak meqen, kaadu mago mari kalih wagitak amol angaarawuk gexsaanamuh xiqto yallun."
+  - "Maro goli hinnay faras kaboh celta innal, miroctih caxul dafeyisa, yabalaan kee yablin wagitak, derreewi caagid kee wacraarsi koxxisa."
+  - "Kulli abina namma hinnay sidoocah gaddal meqsita, baxiicite xiqto le mari kullum culuh duudan innal."
+  - "Esseroora, xisab kee yayyeeceemik baxay. Masoocit bingo kulli num koboxuk kardi duuduh abaanam xiqtah."
+  - "Sarrak awqiyya, wagitto hinnay xinto tekkek dacay maay. Deqsino le carah faxa numuh qokoluh taamisa num yayyaaqen."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Dementia-le maroh buttat abnittet meqe kobox keeco mannak yanim?"
+    a: "Inki gacsa kinnuk tunkuxxe xisab mantu, kaadu dafa marih xiqto, caxxa kee sinle taamisen maral tankicciyeh. Mago buttaata caxxeen buttaati kulli num yablu, yabeeh angaarawu duuda innam geyan, kaxxa caxxat abaanam mago mara wagitto celta innal cabta. Kaxxa kobox tekkek, dafa marih fanal dafeeniih inki hinnay namma num qokla taamise mara hinnay fedo maray xiqta osisa."
+  - q: "Baxiicite xiqto le marak butta mannal gexsam xiqaa?"
+    a: "Kulli abinal culaanamuh inki gitak baxaabu gititte meqsita. Gaali qangaral, tu mari kulli qangara yaabisa, tu mari gaba takkayikak hinnay damburussa, tu mari qaxxa leem ibbisah. Masoocit bingol, tu mari sin masoocit geyak, tu marak qokoli num ascassisa. Dago qokol faxa mara taamiseyna hinnay fedo numih caxul dafeyisa."
+  - q: "Masoocit bingo yiggiliilisen kalah mannal gexsam xiqaa?"
+    a: "Kulli numuk kardi duudu fanah kulli maso seca, num caban kalah. Kulli maso temeetekkek elle yaaba, yayyeceh baaxo caba hinnay kulli numuh inki celta addafuy xayyowsa. Faxxiima caagid angaaraw kee yaaba kinni, iyye naharat duudusem hinna."
+  - q: "Sin kuwwata kaxxa skeerinil buttat abinnat aalle xiqaa?"
+    a: "Yeey. Ni kuwwata web browser-il taamita, tohuh TV hinnay projector-luk yengedde laptop hinnay tablet-il fakkon duuttan. Masoocit Bingo print abaan karditte kee skeerinil yabloon seecayna le. Qangara Duudusa kee Masoocit Koboxxe kaadu kaxxa skeerinil inki num buttaah cakkak taamita waydam meqe."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Tah dacarsitoh amoh yanim, kas dacarashu buttaata kee laqoh dacarsitoh prograamitteh miroctih gidba kinni. Taamita buttat gideeda, caxxi meqsoota, inki abina baxiicite xiqto le marah mannal gexsaanama, kaadu print abaan bingo karditte kee kaxxa skeerinih kuwwat mannal aallenem qaddoysa. Tellek yan kullim deqsino, angaaraw kee doorot xabbaaxe. Tellek yan tu essero hinna.
 
-## What makes a group activity work in memory care?
+## Kas dacarashut buttat abina mannal meqe taama abtam xiqtaa?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Meqe buttat abina taaxigeeh, gabbaaqo, kulli gaddal culuh sabab yan kaadu giiraso kak aneewaa kinni. Alzheimer's Association-ih [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) meqe angaaraw innam num faxam kee kicnam qoklah, dooro kee xiqto elle gacsa, dementia kaxxa gaddal ten yekkeh gidec. Tosa waraqti qaddoysam, addafak tan prograamitte ayrool inki hinnay namma kaxxa koboxul yangicciyeeniih, tellek dafa mari kalih wagitak suga.
 
-That points to a few practical rules:
+Toh dago meqe caddoosat ascassisa:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Taaxigem cusbamik tayse.** Qangara, maxcooca, masoocit kee maro caxuk yanimuk sugeem culuh sababa.
+- **Gabbaaqom xexsaarik tayse.** Sin butta aalle duudda kassi waktik meqsita, fanal kobox caran kalah gaba kaxxa elle le innal.
+- **Abinam wagitaanamik tayse.** Kulli numuh ibbisaam, cakkaam, dooram hinnay yaabaam acwa.
+- **Mago gadda, inki abina.** Sabab yan gita kee kaxxa gita culuh elle aalle innal bicisa.
+- **Yayyeecem mantu, xisab mane.** Yiggiliili giti tu mara kaloonum celta innal oggoleysa.
 
-## How big should the group be?
+## Butta manna gideh tan keeco leeh faxximta?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Caxxeenim addafak sababa. Alzheimer's Association qaddoysam, kaxxa kobox gaba kak kelta num caxxeen buttat meqe angaaraw geyam xiqta. Inki tunkuxxe xisab mantu. Dafa mara, caxxa kee yan taamisen mara kee fedo mara tankicciyeh.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Meqe wagitto: kulli num miroctih fooca yablu, meqeh yabeeh qokoli num dago sikonil kaafan yooce duudaa? Toh akkewak, butta baxa, qokol mara osisa, hinnay caxxeen caxxat gaxa.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Kaxxa koboxuh, ciid gaali innal, taamisen mara kee fedo mara maroh fanal dafeyisa, caxxi sagal hinna.
 
-## How should I set up the room and seating?
+## Caxxa kee dafoh gita mannal meqsam xiqaa?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Goli hinnay faras kabo.** Meqe gidi recommendations qaddoysam, maro kulli num golil dafoh caxxi kaxxa tekkek, derreewi wacraarsi kak aneewaa golil dafoh tayse.
+- **Miroctu caxul kee inti gaddal sugo.** Soolaanamik duuddan innal dafa.
+- **Yaabbaa kee abla naharat.** Yabalaan dagná le mara miroctih caxul, yayse xagaral dafeyisa. Inti naxaadit kee ayti qokol taamitaam nummaysa. Alzheimer's Association qaddoysam, inti kee aytih ciyyo yaaba kaxxaaysa.
+- **Ifi maroh derrek yamaato, ku derrek hinna.** Num ifan takke tagaarat fooca kak caxxa dafeysaamak baxay.
+- **TV kee raadiyo koxxisa.** Alzheimer's Association gaali abnitteh addat wacraarsi koxxisaanam kas-leemih qaddoyse.
+- **Inki waktil inki yaaba.** Inki maral yaabaanam dementia-le maroo kee yabalaan dagná le maray faxxam kassita, Alzheimer's Association usun [holiday guidance](https://www.alz.org/help-support/caregiving/holidays) addat qaddoyseen innal.
+- **Fakkaate awqi kee deqsino le carah.** Yawqu faxa num sababih yawqu duuda, qokola taamiseyna luk gexa innal.
 
-## Group activity ideas
+## Buttat abnitteh kas-le caagida
 
-### Picture bingo
+### Masoocit bingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Masoocit bingo xisabi caxul qaddowte masoocit hayta, shaah barad, kuta hinnay ubukku celtam, tohuk tekkek num xexxaari xisab kataataama hinnay caxxeen qangara yablu ma faxximta.
 
-**How to run it:**
+**Mannal gexsaanama:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Ni [Picture Bingo](/games/picture-bingo/) maxaqat Print gaba kaxxaayuk kulli numuh inki kardi print aba. Kaxxa waraqti ibbisuh sababa. Qellisa gacaanamuh laminate aba.
+2. Kaxxam, ibbisuh sabab yan ascassissa acwa, poker chips, qarcat qaraara hinnay kardi caxxeen xisaab.
+3. TV hinnay projector-il skeerinil yabloon seecayna hayisa, kulli num maso migaq teceen waqdi yabloh.
+4. Kulli maso lakal dago deqsiyya haysitaah dago yaaba fanah seeca: "Num yaaxige kuta nek qaddoysu faxaa?" hinnay "Taamat macah tablan?"
+5. Kulli kardi duudu fanah secaanih suga. Kulli num duudusa.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Meqsam:** Duudute kardi kaxxam kak takke maroh dago xisaab hayisa. Qokoli num faxa numuh celta maso ascassisa. Tu mari seecaynih masoh kardi ibbiseehe buttaah yabloonem faxon duudan.
 
-### Sing-alongs
+### Gaali qangara
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Gaali qangara kaxxam koboxut kicnoonumuk inki abina kinni. Alzheimer's Association qaddoysam, sarrah gaddal takkeek gidec, num [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music) duudam xiqta.
 
-**How to run it:**
+**Mannal gexsaanama:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Dafa mari elle kaxxe gaali doora, miroctih kicnam hinna. Buqre mara essera kulli num kicnam.
+- Bisiissitte kak aneewa gaali haya, toh Association qaddoysam hablaabala leeh xiqta.
+- Qangara akriya maroh kaxxa harfit print aba, kinnih immay faxxiimaam hinna.
+- Shakers, gaba deebuk kee faasiso xayyowsa.
+- Gaba takkayika kee sorkocobbaaya qokla, kaadu xonxi deqsino leeh haya.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Meqsam:** Tu mari kulli qangara yaabisa, tu mari damburussa, tu mari iba takkayisa, tu mari kalih ayti haysa. Tellek yan kullim xisab le. Osobuh ni [music activities guide](/activities/music/) wagita.
 
-### Reminiscence groups
+### Kassi buttaata
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Kassi butta inki caagidil koboxxah, madrasa ayroora, naharsi mootor, kuusan caritte hinnay ayru waktil, foote, qawalat kee gaali aalleynal. Meqe caagid deqsino le yaaba kinni, tunkuxxe kassi hinna.
 
-**How to run it:**
+**Mannal gexsaanama:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Inki caagid dooraah maro ibbisu duuda dago qawalat baaha: gabah mixer, kooroh gaba-kabal, koofiya, daacoti kardi.
+2. Inki waktil inki qawalat baaha. Fakkaate esseroora essera: "Aam nek qaddoysa," "Macah tablan?" "Ta celtam iyye taamiseh suge?"
+3. Kulli gacsa oggola. Ayro hinnay numma ma mishingaysina.
+4. Yaaba meqe kassit fanah gexsa. Recommendations qaddoysam, dacarsitoh mari kassi meqe kassi fanah gexsaanam faxximta, dhibi baaha kassi fanah hinna.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) print abaan masoh karditte fakkaate esserooral caagidih gaddal meqe yaaba qimbisuh xayyowsa. Osobuh meqe kas-le caagida ni [reminiscence guide](/activities/reminiscence/) addat geytan.
 
-### Finish the saying
+### Qangara duudusa
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Taaxigeen maxcooca kulli num gacsa inki xonxil yaaboonaah seca. [Finish the Saying](/games/finish-the-saying/) kaxxa skeerinil yablaay butta inki xonxil yacayen innal caba. Kulli maxco lakal yaaboh essero tan. Num gacsa iyyewak, yablaay warraya. Meqe hinnay umah yaniim mane.
 
-### Large-print word search, together
+### Kaxxa-harfi qangara gurrus, ittalluk
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Kaxxa-harfi [Word Search](/games/word-search/) skeerinil hayisaay buttal qangara gurrusa, hinnay tarbeetul sinamih taamitam kicna maroh print aba. Qangara fanteen kee gubal gexa kalih ma gexa.
 
-### Gentle movement
+### Dago sorkocobbaaya
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Dafeynak xayyowto, sabab kuta hinnay baaluun yaaceenim, hinnay dafeynak taaxigeen gaalil sarraqwam. Kulli sorkocobbaaya yaabaanamik yaybullenem tayse.
 
-### Sorting and matching at the table
+### Tarbeetul baxsiyya kee geyso
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Sidoocaak affara numle caxxeen tarbeetitte masoocit, sara hinnay gabah qawalat ittalluk baxsu duudan. Skeerinil, [Picture Pairs](/games/picture-pairs/) masoocit yabloon innal cabak abaanam xiqtah, inki num cakkak tarbeetu kulli masot yaaba innal.
 
-## How do I use your games on a big screen?
+## Ni kuwwata kaxxa skeerinil mannal aalle xiqaa?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ni kuwwata web browser-il taamita, tohuh tu install abaan kalah TV hinnay projector-il aalle duuttan.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Kuwwat cable hinnay casting-il skeerinil yengedde laptop hinnay tablet-il fakka.
+2. Browser kaxxa skeerin abaa kaadu xonxi deqsino le gaddal haya.
+3. Inki miroctu cakkaam abay butta dooro secak. Hinnay turno faxa numuh tablet dacarsisa.
+4. Butta gaba kaxxaam kicna waqdi koxxisa. Kuwwat timer, xisab hinnay dirki gaba kaxxa male.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) kee [Conversation Cards](/games/conversation-cards/) buttaatah kaxxam meqe. Kulli dooroita ni [games page](/games/) wagita.
 
-## How do I adapt one activity for mixed abilities?
+## Inki abina baxiicite xiqto le marah mannal meqsam xiqaa?
 
-Plan at least three ways to join every activity.
+Kulli abinal culaanamuh addafak sidoocu gita meqsita.
 
-| Activity | More independent | Some support | Most support |
+| Abina | Isi nafsik xiqto | Dago qokol | Kaxxa qokol |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Masoocit bingo | Isi masoocit geyaa kaadu buula | Qokoli ascassisa; num buula | Masoh kardi ibbisa; ayti haysaa kaadu wagita |
+| Gaali qangara | Yaaba, sarra gaali doora | Damburussa, gaba takkayika, shaker haya | Ayti haysa, faasiso ibbisa, gaba takkayisa |
+| Kassi | Taarikh yaaba | Yeey-hinnay-male gacsa hinnay ascassisa | Qawalat ibbisaay xagga |
+| Qangara gurrus | Isi print abte kardi taamisa | Qokoli luk kaxxa skeerinil qangara geya | Qangara akriyeen waqdi ayti haysa |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Sarrah gaddal yan maroh, NHS qaddoysam abnitte addafak sabab takkeeh kassi qawalat kee xaggot xabbaaxam faxximta, gaali, xaggon qawalat kee gabah massage innal. Buttat addat hinnay lakal inki numih gexsit buttak usunuh tayse. Wagita [late-stage activities](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Mirocti buttat addat mannal yaabaanam faxximtaa?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Kulli waktil isi nafsik qaddoysa, kaadu kulli num kicna migaq aalleyna.
+- Gabbaaqoh yaaba, kulli waktil inki xinto xayyowsa, kaadu warisaanamik naharat yaybullenem tayse.
+- Fakkaate esseroora essera ("Nek qaddoysa...") hinnay sabab dooroita, essero esseroora ("Kassittaa...?") hinna.
+- Ma mishingaysina. Kulli maro acwenteemih faatita.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Osobuh ni [communication tips](/caregiving/communication-tips/) addat yan.
 
-## Ending well, and letting people leave
+## Meqeh gaba kaxxaama, kaadu maro yawqoonaah cabaana
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Gaba kaxxaam meqe caagid kinni. Num daace, wacraare hinnay giirite astooti wagita, kaadu qokoli num gexsit hinnay kalah deqsino le carah dafo xayyowsa innal haya. Gaali addat xinta num kalih deqsino geyeh yanim takkem xiqta.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Kulli butta inki gitak gaba kaxxa, taaxigeen gaali hinnay sabab faatituk, gaba kaxxo deqsino leeh meqeh tan innal. Tohuk lakal, taamiteem kee iyye macah kicnem kutaaba. To waraaqit sarra taama yayseemi abta.

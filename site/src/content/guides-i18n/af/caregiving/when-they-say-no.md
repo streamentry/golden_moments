@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "As iemand met demensie weier of gefrustreerd raak"
+seoTitle: "As iemand met demensie 'n aktiwiteit weier"
+description: "Waarom iemand met demensie dalk 'n aktiwiteit weier, wat om eerder te probeer, wat om te vermy, en wanneer 'n skielike verandering 'n dokter vereis."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Wanneer iemand met demensie nee sê, aanvaar dit rustig en probeer later weer
+  of bied iets anders aan. Om te weier het dikwels 'n rede: die taak voel te
+  moeilik of kinderagtig, die persoon is moeg, verduur pyn, is honger, of voel
+  oorweldig deur geraas. Moenie stry of aandring nie. Maak dit eenvoudiger, bied
+  twee keuses, of vra om hul hulp. Skielike of vinnig veranderende gedrag, veral
+  na 'n infeksie of nuwe medisyne, moet dadelik deur 'n dokter bekyk word.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "'n „Nee” is 'n antwoord om te respekteer, nie 'n probleem om te bowe te kom nie."
+  - "Om te weier het gewoonlik 'n oorsaak: te moeilik, te kinderagtig, moeg, siek, ongemaklik of oorweldig."
+  - "Trek terug, wag 'n rukkie, en probeer later weer, op 'n ander tyd, of met 'n eenvoudiger weergawe."
+  - "Om hul hulp te vra werk beter as om te verwag dat hulle iets moet presteer."
+  - "Moet nooit stry, aandring, uitvra of reghelp nie. Let op dat jy nie jaag of te naby kom nie."
+  - "Skielike of vinnig veranderende gedrag, veral met 'n infeksie of nuwe medisyne, moet dadelik deur 'n dokter bekyk word."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Is dit reg as hulle aktiwiteite heeltemal oorslaan?"
+    a: "Ja, op enige gegewe dag. Om net saam te sit, na musiek te luister of te kyk hoe die lewe verbygaan, kan genoeg wees. As iemand oor 'n verloop van weke ophou om enigiets te geniet, noem dit aan die dokter, aangesien 'n neerslagtige bui, pyn of ander gesondheidsprobleme dalk 'n rol speel."
+  - q: "Waarom weier hulle dinge wat hulle vroeër geniet het?"
+    a: "'n Ou stokperdjie kan frustrerend raak wanneer dit vaardighede verg wat demensie moeiliker gemaak het, en die persoon kan verleë voel. Probeer 'n eenvoudiger deel van dieselfde aktiwiteit, soos om knope te sorteer in plaas van naaldwerk doen, of om na foto's van tuine te kyk in plaas van plant."
+  - q: "Moet ek probeer om hulle te oortuig?"
+    a: "Nee. Om iemand te druk om iets te doen wat demensie moeilik gemaak het, is 'n bekende sneller vir ontsteltenis. Aanvaar die nee, verander die onderwerp, en bied dit later weer of op 'n ander manier aan."
+  - q: "Wanneer is 'n verandering in gedrag 'n noodgeval?"
+    a: "Bel 112 as iemand in gevaar is of tekens van 'n mediese noodgeval toon. Vir skielike verwarring of gedrag wat vinnig oor ure of dae verander, veral met koors, infeksie of nuwe medisyne, kontak dadelik hul dokter."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Jy sit alles reg, stel voor om 'n speletjie te speel of te gaan stap, en hoor „Nee”. Of die aktiwiteit begin goed en eindig met 'n weggestote tablet en 'n skerp woord. Dit is ontmoedigend, en dit gebeur baie gereeld. Om te weier of gefrustreerd te raak is gewoonlik 'n boodskap, nie hardkoppigheid nie. Om uit te vind wat daardie boodskap is, wys dikwels vir jou wat om volgende te probeer.
 
-## Why does someone with dementia refuse activities?
+## Waarom weier iemand met demensie aktiwiteite?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Daar is gewoonlik 'n rede, selfs al kan die persoon dit nie in woorde omsit nie. Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) merk op dat weerstand kan beteken dat die persoon nie die taak kan doen nie of bang is om te probeer. Algemene oorsake sluit in:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Dit voel te moeilik.** Die aktiwiteit vereis nou vaardighede wat demensie bemoeilik het, en om voor iemand anders te misluk is verleentheidwekkend.
+- **Dit voel kinderagtig.** Volwassenes let op wanneer prentjies kinderlik lyk, stemme 'n sing-praat toon het, en aktiwiteite lyk asof dit vir kinders gemaak is.
+- **Moegheid.** Baie mense het later in die dag minder energie. Sien [rustige laatmiddag-aktiwiteite](/caregiving/late-day-restlessness/).
+- **Fisiese ongemak.** Die [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) noem pyn, te min slaap, probleme om te sien of hoor, hardlywigheid, honger, dors en newe-effekte van nuwe medisyne as moontlike oorsake van ontsteltenis.
+- **Te veel dinge gelyktydig.** 'n Harde TV, verskeie gesprekke of 'n vol vertrek kan oorweldigend wees.
+- **Druk ervaar.** Die NIA wys daarop dat wanneer iemand gedwing voel om iets te doen wat Alzheimer se siekte baie moeilik gemaak het, of om gebeure of mense te onthou, dit ontsteltenis kan veroorsaak.
+- **Neerslagtigheid.** Om belangstelling in dinge te verloor kan 'n teken van depressie wees, wat die moeite werd is om met 'n dokter te bespreek.
+- **Hulle wil eenvoudig nie.** Volwassenes mag nee sê.
 
-## What should I try when they say no?
+## Wat kan ek probeer as hulle nee sê?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Aanvaar die nee rustig, en verander dan iets: die tyd, die aktiwiteit, die moeilikheidsgraad of die manier waarop jy dit vra.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Laat dit vir eers daar.** „Dis reg so. Dalk later.” Beweeg dan aan na iets anders sonder om te sug.
+2. **Probeer later weer.** Die Alzheimer's Association stel voor om later weer te probeer, of op 'n ander tyd van die dag.
+3. **Maak dit kleiner.** Een paar wat pas in plaas van 'n hele speletjie. Een handdoek in plaas van die hele wasgoedmandjie. Minder prentjies, minder keuses, en hou prentjies sigbaar.
+4. **Bied twee keuses aan.** „Sal jy graag na die voëlfoto's wil kyk of na musiek luister?” 'n Keuse gee weer 'n gevoel van beheer.
+5. **Vra om hulp in plaas van prestasie.** „Kan jy my dalk help om hierdie te sorteer?” of „Kan jy vir my sê watter kleur die mooiste lyk?” Om nodig te wees voel heel anders as om getoets te word.
+6. **Begin self daarmee.** Begin met die aktiwiteit langs hulle sonder om te vra. Baie mense sluit vanself aan sodra iets reeds aan die gang is, en selfs as hulle dit nie doen nie, het julle steeds tyd saam deurgebring.
+7. **Skakel oor na iets fisies of rustigveilig.** 'n Kort stappie, musiek, 'n ligte peuselhappie, wasgoed opvou, of 'n gesamentlike [rustige asemhaling](/games/calm-breathing/)-pouse. Die NIA stel voor om aandag af te lei na musiek, 'n boek of 'n stappie.
+8. **Laat hulle dit op hul eie manier doen.** As hulle anders wil speel as wat die reëls sê, speel saam. Die Alzheimer's Association raai aan om buigsaam te wees.
 
-## What should I say when they get frustrated?
+## Wat kan ek sê as hulle gefrustreerd raak?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Praat stadiger, praat sagter en stel gerus. Die [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) stel voor om terug te tree en toestemming te vra, kalm, positiewe stellings te gebruik, en 'n gerigte keuse tussen twee opsies aan te bied. Sinspatrone in daardie gees:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- „Ek is jammer, hierdie een is frustrerend. Kom ons stop.”
+- „Jy vaar baie goed. Ek is net hier.”
+- „Het jy dalk tyd om my met iets anders te help?”
+- „Sal ons eerder 'n koppie tee drink?”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Beëindig dan die aktiwiteit sonder om 'n ophef daarvan te maak. Ons [wenke vir kommunikasie](/caregiving/communication-tips/) bied meer idees oor wat om te sê.
 
-## What should I avoid?
+## Wat moet ek vermy?
 
-Some natural reactions tend to make things worse.
+Sommige natuurlike reaksies kan dinge dikwels vererger.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Stry of aandring.** „Komaan, net nog enetjie” of „Jy is dan mal hieroor” help selde.
+- **Toets of reghelp.** „Jy weet mos wat dit is” of „Nee, daardie een is verkeerd” plaas net onnodige druk op die persoon.
+- **Dit persoonlik opneem.** Die NIA herinner versorgers daaraan dat die siekte, nie die persoon nie, hierdie veranderinge veroorsaak.
+- **Hulle oorweldig of aanjaag.** Die Alzheimer's Association raai aan om nie jou stem te verhef nie, geen ontsteltenis te toon nie, die persoon nie vas te keer, te oorweldig, te beperk, te kritiseer, te ignoreer of mee te stry nie, en skielike bewegings buite hul gesigsveld te vermy.
+- **Skuldgevoelens aanwakker.** „Ek het dit alles spesiaal vir jou reggesit” laat albei van julle net slegter voel.
+- **Etikette omhang.** Woorde soos „hardkoppig” of „moeilik” verskuil die werklike rede en maak dit moeiliker om 'n oplossing te vind.
 
-## How can I find out what is behind repeated refusals?
+## Hoe kan ek agterkom wat agter herhaalde weiering sit?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Hou vir 'n week of twee eenvoudige notas by. Die NIA noem dat die aanteken van gedragsveranderinge versorgers en gesondheidswerkers kan help om 'n patroon raak te sien en die oorsaak te vind.
 
-Jot down:
+Maak 'n nota van:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- die tyd van die dag;
+- wat jy aangebied het en hoe jy dit gevra het;
+- wat om julle aangegaan het (geraas, kuiergaste, TV);
+- hoe hulle geslaap, geëet en gedrink het, en wanneer hulle laas badkamer toe was;
+- enige nuwe medisyne of onlangse siekte.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Patrone word dikwels vinnig duidelik: weiering wat slegs na 16:00 gebeur, net met 'n sekere speletjie, of net wanneer die TV aan is. Die Family Caregiver Alliance se [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) stel dit eenvoudig: ons kan nie die persoon verander nie, maar ons kan ons eie gedrag en die omgewing aanpas.
 
-## When should I talk to a doctor about refusal or frustration?
+## Wanneer moet ek met 'n dokter praat oor weiering of frustrasie?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Praat met 'n dokter wanneer gedrag skielik, vinnig, of saam met tekens van siekte verander. Die NIA sê dat skielike of vinnig wisselende veranderinge in gedrag, veral as die persoon 'n infeksie gehad het of onlangs medikasie verander het, dadelik onder 'n dokter se aandag gebring moet word.
 
-Contact their doctor promptly if you notice:
+Kontak hul dokter sonder versuim as jy die volgende opmerk:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- skielike verwarring of 'n groot verandering oor verloop van ure of dae;
+- tekens van pyn, soos om te grimas, 'n deel van die liggaam te beskerm, of nuwe sukkel om te beweeg;
+- koors of ander tekens van 'n infeksie;
+- nuwe of aangepaste medisyne gevolg deur 'n gedragsverandering;
+- verlies aan belangstelling in byna alles, huilerigheid of afsydigheid wat langer as 'n paar weke duur;
+- weiering om te eet of drink.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Die Alzheimer's Association beveel 'n deeglike mediese ondersoek aan vir enigiemand met gedragssimptome, veral as dit skielik verskyn. Die Family Caregiver Alliance beveel ook aan om eers met die dokter te praat, aangesien gedragsprobleme 'n mediese oorsaak kan hê. Moenie enige medisyne begin, stop of verander sonder om met 'n dokter of apteker te praat nie.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+As iemand in gevaar is of daar tekens van 'n mediese noodgeval is, skakel 112. Die NIA stel voor om vir die noodoperateur te noem dat die persoon demensie het.
 
 ## Is it okay if we do nothing at all?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ja. Sommige dae is die beste aktiwiteit geen aktiwiteit nie: om net rustig saam te sit, mekaar se hand vas te hou, na 'n gunstelingplaat te luister, of na die voëls buite die venster te kyk. Dit is glad nie 'n mislukking nie. Ons [gids oor hoe om saam te speel](/caregiving/how-to-play-together/) verduidelik waarom dit soms presies die regte besluit is om vroeër op te hou, of glad nie eers te begin nie.

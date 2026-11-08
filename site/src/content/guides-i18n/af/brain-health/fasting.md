@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Onderbroke vas en demensie: Wat die navorsing sê"
+seoTitle: "Onderbroke vas en demensie: Wat navorsing sê"
+description: "Bewyse oor onderbroke vas en demensie is min en vroeg. Leer oor die risiko's vir ouer volwassenes en hoekom genoeg eet belangriker is."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Daar is geen goeie bewyse dat onderbroke vas demensie voorkom of vertraag
+  nie. Baie van die navorsing is op diere gedoen, en studies op ouer
+  volwassenes is klein en kort. Vas kan riskant wees vir ouer volwassenes:
+  gewigs- en spierverlies, lae bloedsuiker met sekere diabetesmedisyne,
+  dehidrasie en valle. Vir mense wat met demensie leef, is genoeg eet en drink
+  gewoonlik die groter bekommernis. Praat eers met 'n dokter.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Die National Institute on Aging sê daar is nie genoeg bewyse om enige vas- of kaloriebeperkingsdieet aan te beveel nie, veral vir ouer volwassenes."
+  - "Baie van die navorsing oor vas en veroudering kom van diere, en daardie resultate geld nie noodwendig vir mense nie."
+  - "Moontlike risiko's vir ouer volwassenes sluit in onbedoelde gewigsverlies, spierverlies, lae bloedsuiker met sekere diabetesmedisyne, dehidrasie, duiseligheid en valle."
+  - "Mense wat met demensie leef, vergeet dikwels om te eet of te drink, of dink hulle het reeds. Om hulle te help om genoeg te eet en te drink, maak gewoonlik baie meer saak as wanneer hulle eet."
+  - "Moenie vas gebruik vir iemand wat met demensie leef nie. Praat met 'n dokter of geregistreerde dieetkundige voor enige verandering aan eetpatrone."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Voorkom onderbroke vas Alzheimer se siekte?"
+    a: "Daar is geen goeie bewyse dat dit dit doen nie. Baie van die navorsing is op diere gedoen, en toetse op mense was meestal kort, by jonger of oorgewig volwassenes, en gefokus op gewigsverlies. Die National Institute on Aging sê daar is nie genoeg bewyse om vasdiëte aan die publiek aan te beveel nie."
+  - q: "Is onderbroke vas veilig vir ouer volwassenes?"
+    a: "Dit is dalk nie. Vas kan lei tot onbedoelde gewigs- en spierverlies, dehidrasie, duiseligheid en valle, en kan gevaarlik lae bloedsuiker veroorsaak by mense wat insulien of sekere ander diabetesmedisyne gebruik. Mayo Clinic meld dat dit dalk nie geskik is vir mense met 'n hoë risiko vir beenverlies en valle nie. Praat met 'n dokter voordat jy dit probeer."
+  - q: "Moet iemand met demensie probeer vas?"
+    a: "Nee. Mense wat met demensie leef, sukkel dikwels om genoeg te eet en te drink, en swak voeding kan gedragssimptome vererger en gewigsverlies veroorsaak. Vas bring risiko's sonder bewese voordele. Fokus eerder op gereelde etes, versnaperinge wat hulle geniet en genoeg om te drink."
+  - q: "Wat is tekens dat iemand met demensie nie genoeg eet of drink nie?"
+    a: "Let op gewigsverlies, klere wat losser sit, moegheid, swakheid, hardlywigheid, of weiering van kos. Tekens van dehidrasie wat deur die National Institute on Aging gelys word, sluit in 'n droë mond, duiseligheid, 'n vinnige hartklop en hallusinasies. Vertel hul dokter as jy dit opmerk."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Onderbroke vas, soos om slegs binne 'n venster van agt uur te eet of om kalorieë twee dae per week skerp te sny, kry baie aandag, en sommige artikels gee te kenne dat dit dalk die brein kan beskerm. As jy 'n ouer volwassene is, of sorg vir iemand wat met demensie leef, is hier wat die navorsing werklik wys, en hoekom versigtigheid saak maak.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Hierdie is algemene inligting, nie mediese raad nie. Moenie begin vas, of verander hoe iemand vir wie jy sorg eet, sonder om met 'n dokter of 'n geregistreerde dieetkundige te praat nie. Sien ons [mediese vrywaring](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Voorkom onderbroke vas demensie?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Daar is geen goeie bewyse dat onderbroke vas demensie voorkom of vertraag nie. Die National Institute on Aging (NIA) sê daar is nie genoeg bewyse om enige tipe kaloriebeperkings- of vasdieet aan te beveel nie, en dat daar nog baie meer geleer moet word oor die doeltreffendheid en veiligheid daarvan, veral by ouer volwassenes ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Waarom die bewyse so beperk is
 
-The NIA gives several reasons:
+Die NIA gee verskeie redes:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Die meeste studies is op diere gedoen.** Navorsing op wurms, vlieë, muise en ape het interessante resultate gelewer, maar hierdie bevindings geld nie noodwendig vir mense nie. Selfs by diere is die resultate wisselvallig; by sommige muisrasse het kaloriebeperking lewensduur verkort.
+- **Toetse op mense was kort.** Die meeste het net 'n paar weke of maande geduur.
+- **Die meeste toetse op mense het gefokus op gewigsverlies** by oorgewig volwassenes, nie op geheue of demensie nie.
+- **Ouer volwassenes word selde ingesluit.** Baie toetse het mense van 60 jaar of jonger betrek.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+'n Sistematiese oorsig van 2026 het spesifiek gekyk na onderbroke vas by volwassenes van 60 jaar en ouer. Dit het bevind dat die bewyse in hierdie ouderdomsgroep beperk bly, met klein studies, kort opvolgtydperke en gemengde navorsingsontwerpe. Bevindings oor denkvermoë en geheue het uit individuele studies gekom eerder as uit saamgevoegde toetsresultate. Die oorsig het ook opgemerk dat sommige studies baie kort eetvensters of lang vastye met swakker uitkomste verbind het, en die navorsers het gemaan tot versigtigheid vir ouer volwassenes ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Sommige navorsers meen dat die liggaam se oorskakeling na vetverbranding tydens vas die brein kan beïnvloed, maar dit is steeds 'n teorie wat bestudeer word. Die NIA wys daarop dat die wetenskap nog onseker is.
 
-## What are the risks of fasting for older adults?
+## Wat is die risiko's van vas vir ouer volwassenes?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Vas is vir baie ouer mense nie 'n skadelose eksperiment nie. Moontlike risiko's sluit in:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Onbedoelde gewigsverlies.** Om minder te eet as wat die liggaam nodig het, kan lei tot gewigsverlies en minder spierkrag, wat 'n persoon meer broos kan laat.
+- **Spier- en beenverlies.** In 'n tweejaarlange proef met kaloriebeperking by jong en middeljarige volwassenes, ondersteun deur die NIA, het deelnemers geringe afnames in beendigtheid en maer liggaamsmassa getoon.
+- **Lae bloedsuiker met diabetesmedisyne.** Mense wat insulien of sekere ander diabetesmedisyne neem, se bloedsuiker kan te laag daal as hulle etes oorslaan of uitstel, volgens die [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Lae bloedsuiker kan duiseligheid, verwarring en geïrriteerdheid veroorsaak.
+- **Dehidrasie.** As vloeistowwe saam met etes oorgeslaan word, kan 'n persoon ontwater raak.
+- **Duiseligheid en valle.** Mayo Clinic meld dat onderbroke vas kan veroorsaak dat mense baie moeg en duiselig voel, en dat dit dalk nie 'n gesonde patroon is vir mense met 'n hoë risiko vir beenverlies en valle nie ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Ander uitwerkings.** Mayo Clinic noem ook hoofpyne, gemoedswisselings en hardlywigheid, en meld bewyse dat 'n vasperiode van 16 uur met 'n eetvenster van 8 uur die risiko vir hartsiektes kan verhoog in vergelyking met ander eetvensters. Daardie bewyse is nog nie finaal nie.
 
-## Why is eating enough the bigger concern with dementia?
+## Waarom is genoeg eet die groter bekommernis met demensie?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Vir mense wat met demensie leef, is die gewone probleem om **genoeg** kos en drinkgoed in te kry, nie te veel nie. Die Alzheimer's Association verduidelik dat mense in die middel- en latere stadiums oorweldig kan voel deur koskeuses, kan vergeet om te eet, of kan dink hulle het reeds geëet. Dit voeg by dat swak voeding gedragssimptome kan vererger en gewigsverlies kan veroorsaak ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Die Alzheimer's Society wys daarop dat as iemand nie genoeg eet nie, dit kan lei tot gewigsverlies, minder spierkrag, moegheid en swakheid, wat 'n persoon meer broos maak en minder bestand teen infeksies ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Om hierdie redes is vas nie 'n goeie idee vir iemand wat met demensie leef nie.** Etes wat oorgeslaan word, word maklik maaltye wat heeltemal gemis word. Enige verandering aan hoe 'n persoon met demensie eet, moet deur hul dokter of 'n geregistreerde dieetkundige gelei word.
 
-## What are the warning signs of poor eating or drinking?
+## Wat is die waarskuwingstekens van te min eet of drink?
 
-Watch for:
+Let op die volgende:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Gewigsverlies**, of klere wat losser sit.
+- **Kos wat gelos word of weiering van etes**, of om kos in die mond te hou.
+- **Moegheid of swakheid.**
+- **Hardlywigheid**, wat gekoppel kan wees aan dieet en dehidrasie.
+- **Tekens van dehidrasie.** Die NIA lys 'n droë mond, duiseligheid, 'n vinnige hartklop en hallusinasies, wat ook deur demensie self veroorsaak kan word ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+'n Swak eetlus het baie moontlike oorsake: seer tande of los valstande, nuwe medisyne, depressie, hardlywigheid, minder aktiwiteit, of veranderinge in smaak en reuk. Vertel die persoon se dokter van enige van hierdie tekens. Hulle kan na 'n oorsaak soek en dalk 'n dieetkundige of aanvullings voorstel.
 
-## How can you help someone eat and drink enough?
+## Hoe kan jy iemand help om genoeg te eet en te drink?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Bied gereeld klein maaltye en versnaperinge aan**, eerder as drie groot etes.
+- **Sit gunstelingkosse voor**, en wees buigsaam namate smake verander. Soet kosse kan welkom wees as die eetlus laag is; vra die dokter of daar gesondheidsredes is om suiker te beperk.
+- **Hou drinkgoed binne bereik** en bied deur die loop van die dag klein koppies aan. Soppe, vrugte, smoothies en melkskommels tel ook.
+- **Eet saam** wanneer jy kan. Etes is 'n geleentheid vir geselskap, nie 'n taak om deur te jaag nie.
+- **Probeer vingerhappies**, soos toebroodjies, vrugteskywe of stukke hoender, as eetgerei moeilik geword het.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Ons [dieetgids](/brain-health/diet/) het meer idees vir etes. Om te help om kos voor te berei kan ook 'n aangename gedeelde aktiwiteit wees; sien [huishoudelike take](/activities/household-tasks/).
 
-## Talk with a doctor
+## Praat met 'n dokter
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Voordat jy self enige vasplan probeer, praat met jou dokter of 'n geregistreerde dieetkundige, veral as jy medisyne vir diabetes of bloeddruk neem, onlangs gewig verloor het, of al geval het. Vir iemand wat met demensie leef, vra eerder hul dokter oor hoeveel hulle elke dag behoort te eet en drink, in plaas van oor vas.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Kry dringende mediese hulp vir skielike verwarring, floute, of tekens van baie lae bloedsuiker wat nie vinnig verbeter nie.

@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Janngu daande dow",
+      "stopReading": "Dartin jannge",
+      "region": "Fijirde",
+      "restart": "Fuɗɗito",
+      "soundOn": "Huɓɓu daande ɗoyyunde",
+      "soundOff": "Ñif daande ɗoyyunde",
+      "done": "Yoni jooni",
+      "feedbackQuestion": "Mbele ɗum wallii hannde?",
+      "feedbackYes": "Eey",
+      "feedbackNo": "Wonaa no feewi",
+      "feedbackThanks": "A jaaraama e humpito maa."
+    },
+    "tile": {
+      "named": "{name}, kartal {n}",
+      "hidden": "Natal suuɗiingal, kartal {n}",
+      "withState": "{label}, {state}",
+      "matched": "Hawrii",
+      "selected": "Cuɓaangal",
+      "picture": "Natal",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Didi-didi ɗii fof kawrii. Pijitee kadi walla fowto-ɗee.",
+      "photoPair": "Potooji ɗiɗi kawruɗi.",
+      "picturePair": "Nate ɗiɗi {name|lower}, ena kawri.",
+      "selected": "{name}. Jooni yiylo kowdiiɗo mum.",
+      "mismatch": "Heppanaani. Mem natal ngam jokkude.",
+      "mismatchNamed": "{a} e {b}. Heppanaani. Mem natal ngam jokkude."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Mem natal, caggal ɗuum mem ngal kawru-ɗaa e mum.",
+      "guidanceHidden": "Mem karte ɗiɗi ngam waylitde ɗe. Yiylo ɗiɗi nannduɗi.",
+      "restart": "Nate kese",
+      "sizeLegend": "No karte ɗee poti",
+      "size": {
+        "one": "kartal {n}",
+        "other": "karte {n}"
+      },
+      "viewLegend": "No fijirtee",
+      "viewShowing": "Nate peeñɗe",
+      "viewHidden": "Nate cuuɗiiɗe",
+      "playAgain": "Fijitee kadi e nate kese",
+      "talk": "Yeewtidee e ko fayti e nate ɗee"
+    },
+    "choose": {
+      "countLegend": "No nate ɗee poti",
+      "count": "{n} ngam suɓaade",
+      "thatOne": "Ngaloon ko {name|lower}. Heppanaani."
+    },
+    "findTheSame": {
+      "guidance": "Ndaar natal dow ngal. Mem nanndungal e maggal les.",
+      "yes": "Eey, ko {name|lower} gooto o.",
+      "next": "Natal garoowal"
+    },
+    "shadowMatch": {
+      "guidance": "Ndaar ɗowdi dow ndi. Mem natal tagɗungal ndi.",
+      "yes": "Eey, ko {name|lower} tagata ndii ɗowdi.",
+      "next": "Ɗowdi garoori",
+      "shadowAlt": "Ɗowdi ngam hawritde",
+      "foundAlt": "Ɗowdi {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Mem natal, caggal ɗuum mem kankeere nde ngal jeyi hoore mum.",
+      "restart": "Nate kese",
+      "themeLegend": "Fannu",
+      "selected": "{name}. Jooni mem kankeere nde ngal nawtee.",
+      "pickFirst": "Aɗa fuɗɗoo memde natal, caggal ɗuum mema kankeere.",
+      "hint": "{name|lower} ena waawi naatde e \"{basket}\". Mem ndee kankeere ngam waɗde ngal ɗoon.",
+      "placed": "{name|lower} naatii e \"{basket}\".",
+      "sorted": "Fof heɓii nokku mum. Ndaaree e nder kankeeje ɗee wondude, walla ɓonngitee fannu goɗɗo.",
+      "basket": {
+        "one": "Kankeere {basket}, natal {count} ena heen",
+        "other": "Kankeere {basket}, nate {count} ena heen"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Mem feccere wootere, caggal ɗuum mem goɗɗum. Eɗe lomtindira nokkuuji.",
+      "restart": "Jiiɓito kadi",
+      "pictureLegend": "Natal",
+      "pictures": {
+        "sailboat": "Laana ndiyam",
+        "house": "Suudu",
+        "balloon": "Baluŋ",
+        "sunflower": "Pindi naange",
+        "lighthouse": "Fooyre maayo",
+        "cat": "Ullundu"
+      },
+      "sizeLegend": "Pece",
+      "size": {
+        "one": "feccere {n}",
+        "other": "pece {n}"
+      },
+      "pickedUp": "Feccere ɓamtama. Jooni mem ɗo nde foti yahde.",
+      "whole": "{name|lower} timmitii kadi. Cuɓo-ɗee natal goɗngal nde mbelee-ɗon fof.",
+      "swapped": {
+        "one": "Lomtindiraama. Feccere {correct} e nder {total} ena e nokku mum.",
+        "other": "Lomtindiraama. Pece {correct} e nder {total} ena e nokkuuji mum en."
+      },
+      "guideAlt": "Natal timmungal: {name}",
+      "guideText": "Ko nii natal ngal wayi so timmii.",
+      "piece": "Feccere to {place}",
+      "pieceInPlace": ", e nokku mum kaanɗo",
+      "piecePickedUp": ", ɓamtama",
+      "places4": [
+        "dow nano",
+        "dow ñaamo",
+        "les nano",
+        "les ñaamo"
+      ],
+      "places9": [
+        "dow nano",
+        "dow hakkunde",
+        "dow ñaamo",
+        "hakkunde nano",
+        "hakkunde caka",
+        "hakkunde ñaamo",
+        "les nano",
+        "les hakkunde",
+        "les ñaamo"
+      ],
+      "done": "Natal ngal timmitii kadi. Pijitee kadi walla fowto-ɗee.",
+      "playAgain": "Jiiɓito kadi"
+    },
+    "finishTheSaying": {
+      "guidance": "Janngidee tinndol ngol, caggal ɗuum memee konngol timminroowol ngol.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Eey, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" ena moƴƴi kadi. Tinndol heewngol gollireede timmira ko \"{end}\".",
+      "revealed": "Tinndol ngol ko \"{start} {end}.\"",
+      "choicesLabel": "Suɓo konngol cakkitiingol",
+      "show": "Hollu no timmiri",
+      "talk": "Yeewtidee heen: ",
+      "next": "Tinndol garoowol"
+    },
+    "wordSearch": {
+      "guidance": "Kelme ɗee njaari ko bannge walla les. Mem alkulal gadanal ngal konngol, caggal ɗuum ngal sakket.",
+      "restart": "Pijirde hesere",
+      "themeLegend": "Fannu",
+      "sizeLegend": "Mawneeki alluwal",
+      "size": {
+        "one": "{n} e {n} (konngol {words})",
+        "other": "{n} e {n} (kelme {words})"
+      },
+      "print": "Winndito ndee fijirde",
+      "letterChosen": "Alkulal {letter} suɓaama. Jooni mem alkulal cakkitirgal ngal konngol.",
+      "found": "{word} yiytaama.",
+      "foundAll": "{word} yiytaama. Kelme ɗee fof timmii. Pijitee kadi walla fowto-ɗee.",
+      "tryAgain": "Heppanaani. Mem alkulal gadanal ngal konngol, caggal ɗuum ngal sakket.",
+      "gridLabel": "Alluwal alkule, gorle {n} e alkule {n}. Kuutoro butoŋeeji tatiɗi ɗii ngam diwde hakkunde alkule.",
+      "cell": "{letter}, gorol {row}, dentele {col}",
+      "cellFound": ", jeyaaɗo e konngol yiytaangol",
+      "wordsHeading": "Kelme jiylotooɗe",
+      "wordFound": " (yiytaama)",
+      "sheetTitle": "Jiilgol kelme: {theme}",
+      "sheetNote": "Kelme ɗee njaari ko bannge walla les.",
+      "unavailable": "Alluwal alkule jaɓɓaaki ɗemngal ngal, ɗum tagi jiilgol kelme alaa ɗoo. Eto-ɗee fijirde nate ɗee."
+    },
+    "coloring": {
+      "guidance": "Mem noone, caggal ɗuum mem feccere e natal ngal.",
+      "restart": "Ittu noonewuuji ɗii",
+      "cleared": "Hello ngoo laaɓtii kadi.",
+      "pageLegend": "Hello",
+      "print": "Winndito ngoo hello",
+      "colorsLabel": "Noonewuuji",
+      "paintChosen": "{paint} suɓaama.",
+      "painted": "{part} jooni wonti {paint|lower}.",
+      "artLabel": "{page}, pece {count} ngam ɓoornude noone",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, fawaaki noone",
+      "paints": {
+        "red": "Boɗeejum",
+        "orange": "Orayse",
+        "yellow": "Oolojum",
+        "green": "Haakojum",
+        "blue": "Buloojum",
+        "purple": "Koylol",
+        "pink": "Boɗee-daneejum",
+        "brown": "Kirojum",
+        "sky-blue": "Bula asamaan",
+        "cream": "Daneejum-oolo",
+        "gray": "Furɗum",
+        "white": "Daneejum"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Janngu kaartal ngal daande dow. Alaa jaabawol gootol kaanngol.",
+      "position": "Kaartal {n} e nder {total}",
+      "themeLegend": "Fannu",
+      "next": "Kaartal garoowal",
+      "previous": "Kaartal ɓennungal",
+      "print": "Winndito karte ɗee fof",
+      "sheetTitle": "Karte yeewtere"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Fuɗɗoro suɓaade potooji maa.",
+      "guidance": "Mem foto, caggal ɗuum mem ngal kawru-ɗaa e mum.",
+      "restart": "Jiiɓito kadi",
+      "intro": "**Suɓo potooji 2 haa 6** iwde e ngol masiŋel. Ɗi peeñata tan ko e ngoo hello, tee ɗi njaltataa hay nokku walla hisneede.",
+      "choose": "Suɓo potooji",
+      "chooseDifferent": "Suɓo potooji goɗɗi",
+      "clear": "Ittu potooji",
+      "cleared": "Potooji ittama e ngoo hello.",
+      "atLeastTwo": "Mbaas-nee suɓaade fotde potooji ɗiɗi.",
+      "usingFirst": "Kuutortee ko potooji {max} gadani ɗii.",
+      "skipped": {
+        "one": "Fiilde {count} wonaano foto mo min mbaawi hollirde.",
+        "other": "Piille {count} ngonaano potooji ɗi min mbaawi hollirde."
+      },
+      "playAgain": "Fijitee kadi e ɗii potooji",
+      "empty": "Potooji maa maa peeñ ɗoo, heen gooto fof laabi ɗiɗi."
+    },
+    "pictureBingo": {
+      "guidance": "Arta winnditde karte ɗee. Caggal ɗuum holla oo noddoowo e alluwal ɓurnal mawnude ngal jogi-ɗaa.",
+      "called": {
+        "one": "{name}. Natal {called} e nder {total} noddaama.",
+        "other": "{name}. Nate {called} e nder {total} noddaama."
+      },
+      "start": "Mem \"Natal garoowal\" ngam noddude natal gadanal ngal.",
+      "restart": "Fuɗɗo fijirde hesere",
+      "squaresLegend": "Kaare e karte fof",
+      "squares": "Kaare {n} ({side} e {side})",
+      "cardsLegend": "No karte poti winnditeede",
+      "cards": {
+        "one": "kartal {n}",
+        "other": "karte {n}"
+      },
+      "print": {
+        "one": "Winndito kartal biŋgo {n}",
+        "other": "Winndito karte biŋgo {n}"
+      },
+      "ready": "Ena heppani nde mbaɗ-ɗaa fof",
+      "next": "Natal garoowal",
+      "allCalled": "Nate ɗee fof noddaama",
+      "alreadyCalled": "Noddaama kadi",
+      "sheetTitle": "Biŋgo nate · kartal {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Noottitee nde taariindi ndii mawnata, njaltinon poofle nde ndi famɗittoo. Ndi dartoto e hoore majji caggal pooftali jeegom.",
+      "paceLegend": "Yaawre",
+      "paceSlow": "Neeɓɗum (seekonduuji 5 e kala laawol)",
+      "paceGentle": "Deeyɗum (seekonduuji 4 e kala laawol)",
+      "ready": "Heeni kala nde njiɗ-ɗon",
+      "in": "Noottitee",
+      "hold": "Deeynee",
+      "out": "Njaltinee poofle",
+      "start": "Fuɗɗee",
+      "stop": "Dartinee",
+      "started": "Fuɗɗiima. Noottitee nde taariindi ndii mawnata.",
+      "stopped": "Dartiima.",
+      "finished": "Ɗum wonnoo pooftali jeegom deeyɗi. Fuɗɗitee kadi kala nde njiɗ-ɗon."
+    }
+  },
+  "pictures": {
+    "teacup": "Koppu tii",
+    "kettle": "Baraada",
+    "bread": "Buroo",
+    "frying-pan": "Kaanke e ɓoccoonde",
+    "cake": "Gate mawninde",
+    "sunflower": "Pindi naange",
+    "tulip": "Tulipe bodeejo",
+    "watering-can": "Wisaangal leɗɗe",
+    "potted-plant": "Lekki nder loonde",
+    "tree": "Lekki",
+    "bird": "Sondu e calel",
+    "butterfly": "Koorowal",
+    "dog": "Boosi",
+    "cat": "Ullundu",
+    "fish": "Liingu kaŋŋeewu",
+    "apple": "Pom bodeewo",
+    "pear": "Pera",
+    "strawberry": "Fraas",
+    "banana": "Banaana",
+    "lemon": "Lemuun",
+    "cherries": "Seriis",
+    "house": "Suudu",
+    "lamp": "Pitirla taabal",
+    "armchair": "Jooɗorgal deeyal",
+    "key": "Saabi kiɗɗo",
+    "umbrella": "Parapluwi",
+    "sailboat": "Laana henndu",
+    "car": "Wootur ɓooyɗo",
+    "bicycle": "Keke",
+    "balloon": "Balon henndu",
+    "lighthouse": "Suudu manara",
+    "sun": "Naange",
+    "moon": "Lewru e koode",
+    "teapot": "Baraada tii",
+    "apple-pie": "Taartu pom",
+    "honey-jar": "Loonde njuumri",
+    "boiled-egg": "Ɓoccoonde nder korel",
+    "toaster": "Gurnirgal buroo",
+    "cheese": "Fromaas",
+    "milk-jug": "Korel kosam",
+    "cupcake": "Gatoyel",
+    "orange": "Lemuun masar",
+    "grapes": "Resen",
+    "watermelon": "Dandeere",
+    "pineapple": "Ananaas",
+    "peach": "Pees",
+    "rose": "Pindi roos",
+    "daisies": "Pindiiji daneeji",
+    "mushroom": "Kuuɓal leydi",
+    "wheelbarrow": "Buruwet",
+    "birdhouse": "Suudu colli",
+    "cactus": "Kaktus nder loonde",
+    "acorn": "Ɓii-lekki sheen",
+    "autumn-leaf": "Haako dabbunde",
+    "rabbit": "Mbojo",
+    "duck": "Kanaari",
+    "hen": "Gertoogal",
+    "sheep": "Mbaalu",
+    "owl": "Dojal",
+    "ladybird": "Koksinel",
+    "snail": "Kojurol",
+    "frog": "Faaɓru",
+    "bee": "Ñaki",
+    "clock": "Montor galle",
+    "vase-of-flowers": "Loonde pindiiji",
+    "radio": "Raadijo kiiɗɗo",
+    "books": "Tente defte",
+    "candle": "Kandil",
+    "glasses": "Londiinde jannjirɗe",
+    "telephone": "Telifon",
+    "ball-of-wool": "Moobel uuluwol",
+    "straw-hat": "Tangaade huɗo",
+    "train": "Jolngo cuurki",
+    "bus": "Bis",
+    "airplane": "Piroowal",
+    "suitcase": "Waliis",
+    "tractor": "Trakter",
+    "rowing-boat": "Laana awyirka",
+    "rainbow": "Timtimol",
+    "rain-cloud": "Ruuldere toɓo",
+    "snowflake": "Ketul kankiraawi",
+    "kite": "Serwolon",
+    "sunrise": "Fuɗnaange naange dow kooseeje"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Ɓiɓɓe leɗɗe",
+          "words": [
+            "MANGO",
+            "LEMUN",
+            "DUKKU",
+            "JAABI",
+            "DIBI",
+            "BANAN",
+            "GORO",
+            "TAMI",
+            "ANABI"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Jardiin",
+          "words": [
+            "PINDI",
+            "LEKKI",
+            "AAWDI",
+            "LESDI",
+            "HAAKO",
+            "HUDO",
+            "WENDU",
+            "NYAKI",
+            "ROOS"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Defirdu",
+          "words": [
+            "KUUDU",
+            "BUROO",
+            "TASA",
+            "BARME",
+            "SAAHI",
+            "LABI",
+            "KOPPU",
+            "KASOL",
+            "HUURNE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Weeyo",
+          "words": [
+            "NAANGE",
+            "TOBO",
+            "HENNDU",
+            "DUULE",
+            "JAANG",
+            "WULWE",
+            "BIIRE",
+            "CURKI",
+            "CULE"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Kulle",
+          "words": [
+            "RAWAN",
+            "MUUSA",
+            "SONDU",
+            "LIINGU",
+            "PUCCU",
+            "NAGGE",
+            "MBEEWA",
+            "GERTO",
+            "KANAR"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Galle",
+          "words": [
+            "DAMBU",
+            "KOROM",
+            "PITIR",
+            "LEESO",
+            "DAAGO",
+            "SOOFA",
+            "SAAT",
+            "TAABAL",
+            "SAABI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kayeiji fuu",
+        "food": "Ñamri",
+        "home": "Galle",
+        "outdoors": "Yasi",
+        "animals": "Kulle",
+        "travel": "Jahle",
+        "work": "Golle e ko weli",
+        "music": "Fiifiiro e weltaare",
+        "seasons": "Sahaaji hitaande"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Hol uurdi ɓurndi weltinde on nder suudu defirdu?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Hol irin mburu suukara cuɓoto-ɗon ngam weltaare mawnde?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Kaalanee kam ko fayti e ñamri welndi ndi kurnoo-ɗon."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "No njiɗir-ɗon tii walla kafe mon?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Hol ko weltinta on heɓde subaka law?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Aɗon ciwtoroo nde teto-ɗon ɓiɓɓe leɗɗe gila e lekki?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Ko weli walla ko lami: hol ko ɓuri weltinde on?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Hol ñamri siwtintoondi on sahaa nguleefi?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Kaalanee kam ko fayti e galle mo mbelno-ɗon hoɗde heen."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Hol nokku mo ɓuri weltinde on ngam jooɗaade e fooftaade?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Hol ko njiɗ-ɗon waɗde e kikiide ndeeyɗo?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Hol huunde tiiɗnde nde marotonoo nder keesu cuɓaaɗo?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Hol mo njiɗ-ɗon noddude ngam yarde tii wondude?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Hol ko njiɗ-ɗon waɗde e ñalawma toɓo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Hol pindiiji ɗi njiɗ-ɗon aawde nder jardiin mon?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Kaalanee kam ko fayti e lekki walla nokku heese mo nganduno-ɗon."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Hol ko ɓuri weltinde on so on ngoni nder jardiin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Hol noone pindiiji ɓurɗo weltinde on?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Aɗon mbeleti e marde leɗɗel nder galle mon?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "No ñalawma naange belɗo nooni e miijo mon?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Kaalanee kam ko fayti e boosi mo nganduno-ɗon."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Ulluuji walla boosiiji, walla hay gooto majji? Hol ko weltinta on e majji?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Hol colli ɗi njiotonoo walla nanto-ɗon yasi galle?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Aɗon ciwtoroo nde nangatonoo liɗɗi walla marnde liɗɗi nder galle?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Hol dabbaawa ɓurka wooɗde nga nji-ɗon e nguurndam mon?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Kaalanee kam ko fayti e wootur mo mbelno-ɗon no feewi."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Mbele ɓuri weltinde on ko waalande e daande maayo walla dow kooseeje?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Hol to njiɗ-ɗon yahde ngam waɗde yiilorde?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "So on mbaawnoo fiirde dow leydi fuu, hol nokku mo cuɓoto-ɗon?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Kaalanee kam ko fayti e njillu nguu mbelno-ɗon heen."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Hol gollal ngal mbelno-ɗon waɗde no feewi?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Hol ko nguurnto-ɗon e gite mon nde mbaawno-ɗon waɗde waktuuji keewɗi?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Hol huunde nde ngandiraa-ɗon waɗde walla wooɗinde?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Hol wasiya mo ndokkaton suka fuɗɗotooɗo gollal mum?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Hol irin dille wamre ɗe mbonki mon weltortoo?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Hol ko waɗata weltaare ɓurnde welde?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Hol yimoowo mo njiɗ-ɗon heɗaade?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Hol filmo walla kabaaru telee mo mbelno-ɗon ndaarde kadi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Hol ko ɓuri weltinde on e sahaa nguleefi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Hol ko weltinta on e sahaa ceeɗu nde haakooji camata?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Hol ko weltinta on waɗde e kikiide jaangol nde galle wuli?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Hol maandeeji gadani ɗi njiotonoo nde leydi fuɗi kadi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Kankiraawa, toɓo walla naange: hol ko ɓuri weltinde on?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Pindi nder loonde",
+          "regions": {
+            "sky": "Caggal",
+            "table": "Taabal",
+            "stem": "Dombilol",
+            "leaf-left": "Haako nano",
+            "leaf-right": "Haako ñaamo",
+            "petal-1": "Kopel pindi 1",
+            "petal-2": "Kopel pindi 2",
+            "petal-3": "Kopel pindi 3",
+            "petal-4": "Kopel pindi 4",
+            "petal-5": "Kopel pindi 5",
+            "petal-6": "Kopel pindi 6",
+            "petal-7": "Kopel pindi 7",
+            "petal-8": "Kopel pindi 8",
+            "center": "Hakkunde pindi",
+            "pot": "Loonde",
+            "pot-rim": "Komaande loonde"
+          }
+        },
+        "house": {
+          "name": "Suudu",
+          "regions": {
+            "sky": "Kammu",
+            "sun": "Naange",
+            "grass": "Huɗo",
+            "chimney": "Solom cuurki",
+            "walls": "Kokanɗe",
+            "roof": "Kippol",
+            "door": "Baafal",
+            "window-left": "Walannde nano",
+            "window-right": "Walannde ñaamo",
+            "path": "Laawol"
+          }
+        },
+        "teacup": {
+          "name": "Koppu tii",
+          "regions": {
+            "background": "Caggal",
+            "saucer": "Tasayel",
+            "handle": "Nanngirgal",
+            "cup": "Koppu",
+            "band": "Diidol dow koppu",
+            "tea": "Tii"
+          }
+        },
+        "butterfly": {
+          "name": "Koorowal",
+          "regions": {
+            "background": "Caggal",
+            "wing-top-left": "Bilel dow nano",
+            "wing-top-right": "Bilel dow ñaamo",
+            "wing-bottom-left": "Bilel les nano",
+            "wing-bottom-right": "Bilel les ñaamo",
+            "spot-left": "Toɓɓere bilel nano",
+            "spot-right": "Toɓɓere bilel ñaamo",
+            "body": "Ɓandu"
+          }
+        },
+        "sailboat": {
+          "name": "Laana henndu",
+          "regions": {
+            "sky": "Kammu",
+            "sea": "Maayo",
+            "sail-big": "Wudere mawnde",
+            "sail-small": "Wudere famɗunde",
+            "mast": "Pantinirgal",
+            "hull": "Laana",
+            "flag": "Tuutawal"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Defirdu e jardiin",
+          "baskets": [
+            "E nder defirdu",
+            "E nder jubarde"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Ɓiɓɓe leɗɗe e daabaaji",
+          "baskets": [
+            "Ɓiɓɓe leɗɗe",
+            "Daabaaji"
+          ]
+        },
+        "home-travel": {
+          "label": "Galle e jahaale",
+          "baskets": [
+            "E galle",
+            "E yaasi"
+          ]
+        }
+      }
+    }
+  }
+}

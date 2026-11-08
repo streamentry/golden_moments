@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Aktiwiteite vir middelstadium-demensie"
+seoTitle: "Middelstadium-demensie-aktiwiteite: Maklike idees"
+description: "Eenvoudige aktiwiteite vir middelfase-demensie: nuttige take, musiek, foto's en maklike speletjies, met stap-vir-stap-hulp en raad vir rusteloosheid."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  In die middelfase van demensie werk kort, bekende aktiwiteite wat in
+  enkele stappe opgedeel is die beste: wasgoed opvou, sokkies sorteer,
+  skottelgoed was, saamsing, begeleide stappies, fotoalbums en eenvoudige
+  prentjiespeletjies. Sit alles reg, wys die eerste stap, help met die
+  moeilike dele en gee die aktiwiteit 'n doel. Hou op sodra dit nie meer
+  aangenaam is nie.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Bekende huishoudelike takies werk dikwels die beste omdat dit nuttig en volwasse voel."
+  - "Wys eerder as om te verduidelik, bied een stap op 'n slag aan en gee twee eenvoudige keuses in plaas van oop vrae."
+  - "Neem die moeilikste deel oor sodat die persoon die bevredigende deel kan doen."
+  - "Rustelose gedrag beteken dikwels dat die persoon iets soek om te doen. Bied 'n soortgelyke aktiwiteit aan in plaas daarvan om nee te sê."
+  - "Om net te kyk, 'n bietjie te help of vroeg op te hou, is alles heeltemal reg."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Watter aktiwiteite is goed vir die middelfase van demensie?"
+    a: "Kort, bekende, praktiese aktiwiteite werk gewoonlik die beste: handdoeke opvou, kouse bymekaarsit, skottelgoed was, tafeldek, saamsing met ou gunstelinge, begeleide stappies, na fotoalbums kyk en eenvoudige prentjiespeletjies. Deel elkeen in enkele stappe op en doen dit saam."
+  - q: "Hoe kry ek iemand wat met demensie leef om met 'n aktiwiteit te begin?"
+    a: "Kry alles gereed, begin self met die aktiwiteit en nooi hulle dan uit om te help: “Kan jy my dalk 'n hand gee met hierdie handdoeke?” Baie mense wil graag deelneem, maar vind dit moeilik om te begin. Om die eerste stap te wys, werk gewoonlik beter as om dit te verduidelik."
+  - q: "Wat moet ek doen as hulle dieselfde ding oor en oor doen?"
+    a: "Herhaling is dikwels skadeloos en kan 'n teken wees dat die persoon besig wil voel of gerusstelling soek. In plaas daarvan om hulle reg te help, bied 'n aktiwiteit aan wat by die beweging pas, soos 'n mandjie met waslappies om op te vou of 'n liedjie om saam te sing."
+  - q: "Wat as hulle die aktiwiteit verkeerd doen?"
+    a: "As dit geen kwaad doen nie, laat dit maar so. Handdoeke wat anders opgevou is of lepels op die verkeerde plek maak nie saak nie. Om hulle reg te help kan soos kritiek voel, terwyl dit hulle bekwaam en nuttig laat voel as hulle dit op hul eie manier doen."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Die middelfase van demensie is dikwels die langste, en dit is wanneer aktiwiteite werklike ondersteuning begin benodig. Woorde kom moeiliker, stappe raak deurmekaar, en dit kan moeilik voel om met enigiets te begin. Maar die begeerte om nuttig en betrokke te wees, bly gewoonlik behoue. Met 'n bietjie voorbereiding kan 'n persoon in die middelfase steeds verbasend baie geniet, veral bekende takies, musiek en foto's wat sy aan sy saam met jou gedoen word.
 
-## What activities work well in middle-stage dementia?
+## Watter aktiwiteite werk goed in die middelfase van demensie?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Kort, bekende, praktiese aktiwiteite wat in enkele stappe opgedeel is, werk die beste. Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) sê jy hoef nie nuwe dinge uit te dink nie: aktiwiteite kan deel wees van die gewone daaglikse lewe, soos om saam aandete te maak, in die tuin te werk, na musiek te luister of te gaan stap.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+Die [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) merk op dat mense in hierdie fase dikwels 'n sterk behoefte het om doelgerig te voel of vir iets te sorg, en hulp nodig het om met aktiwiteite te begin of daarmee aan te gaan. Hul lys vir die middelfase sluit in: wasgoed opvou, skottelgoed was, kouse sorteer, ligte oefening, dans op bekende musiek, begeleide stappies, saamsing, eenvoudige verfwerk en deur fotoalbums blaai.
 
-## How do you set up an activity so it works?
+## Hoe rig jy 'n aktiwiteit in sodat dit werk?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Die meeste aktiwiteite slaag of misluk met die voorbereiding. Hierdie gewoontes, gegrond op inligting van die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) en die [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), maak die grootste verskil:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Maak die ruimte oop.** Skakel die TV af, maak die deur toe en haal slegs uit wat nodig is vir die aktiwiteit.
+2. **Begin self daarmee.** Begin self opvou of roer en nooi hulle uit: “Kan jy my dalk hiermee help?”
+3. **Wys, en wag dan.** Demonstreer een stap. Wys met die vinger of lei liggies met jou hand, byvoorbeeld om te wys waar die bord moet staan.
+4. **Gee een stap op 'n slag.** “Vou dit in die helfte” is makliker as “vou hierdie op en pak hulle volgens kleur”.
+5. **Bied twee keuses, nie oop vrae nie.** “Die blou handdoeke of die wittes?” is makliker om te antwoord as “Wat wil jy graag doen?”
+6. **Doen die moeilike deel self.** Jy meet af, hulle roer. Jy ryg die naald in, hulle draai die wol op.
+7. **Gee dit 'n doel.** “Hierdie servette is vir Sondag se middagete” laat die takie eg voel.
+8. **Laat hulle kyk as hulle verkies.** Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) noem dat dit ook aangenaam kan wees om bloot toe te kyk.
 
-## Activity ideas for the middle stage
+## Aktiwiteitsidees vir die middelfase
 
-### Useful jobs
+### Nuttige take
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Vou handdoeke en waslappies op.** Klein, plat items is die maklikste. 'n Mandjie warm waslappies kan opgevou, gladgestryk en weer opgevou word.
+- **Sit kouse bymekaar.** Begin met 'n paar pare wat baie verskil. Om net volgens kleur te sorteer, is ook heeltemal reg.
+- **Was of droog breekvaste skottelgoed af.** Warm seepwater voel lekker aan die hande. Om te sit terwyl jy afdroog, is makliker vir die bene.
+- **Dek die tafel.** Gee een soort item op 'n slag aan, en dek self een plek as voorbeeld.
+- **Help met aandete.** Was aartappels, breek blaarslaai of roer in 'n bak. Hanteer self die messe en die stoof.
+- **Vee, stof af of vee af.** 'n Lappie vir die tafel, 'n ligte besem vir die stoep.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Sien [huishoudelike take](/activities/household-tasks/) vir nog baie meer.
 
-### Music and movement
+### Musiek en beweging
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Sing ou gunstelinge.** Begin self sing; baie mense sing spontaan saam met liedjies wat hulle al dekades lank ken. Sien [musiekaktiwiteite](/activities/music/).
+- **Dans vrylik.** Wiebel, klap hande of beweeg soos dit goed voel. Om te sit is ook heeltemal reg.
+- **Gooi 'n ballon.** Dit beweeg stadig en is maklik om vanuit 'n stoel te vang.
+- **Gaan stap saam.** Stap 'n kort, bekende roete saam, arm aan arm as dit help.
 
-### Pictures and stories
+### Prentjies en stories
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Blaai deur 'n fotoalbum.** Lewer kommentaar op wat jy sien eerder as om vrae te vra: “Kyk net daardie motor. Vertel my daarvan.” Sien [herinneringsaktiwiteite](/activities/reminiscence/).
+- **Gebruik gesprek-kaartjies.** [Gesprekskaartjies](/games/conversation-cards/) koppel 'n prentjie aan 'n oop aansporing sonder enige toetsvrae.
+- **Kyk saam na 'n ou rolprent.** Kies 'n bekende een, bly naby en breek gereeld vir 'n blaaskans.
 
-### Simple, pressure-free games
+### Eenvoudige speletjies sonder druk
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Prentjie-pare met oop prentjies.** [Prentjie-pare](/games/picture-pairs/) hou prentjies sigbaar, sodat dit gaan oor raaksien, nie onthou nie.
+- **Soek dieselfde.** [Soek dieselfde](/games/find-the-same/) wys een prentjie en net twee tot vier keuses.
+- **Sorteer saam.** [Sorteer saam](/games/sort-together/) is soos om wasgoed op die skerm te sorteer: raak 'n prentjie en dan sy mandjie.
+- **Prentjie-bingo.** [Prentjie-bingo](/games/picture-bingo/) werk goed vir familiebyeenkomste en groepe.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+As 'n speletjie frustrasie begin veroorsaak, hou op en doen iets anders. Sien [hoe om saam te speel](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Verander rusteloosheid in 'n aktiwiteit
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Rustelose of herhalende gedrag het dikwels 'n rede. Die Family Caregiver Alliance wys daarop dat iemand wat 'n kas aanhoudend leegmaak, dalk probeer om in 'n behoefte te voorsien om besig en produktief te voel. Die Alzheimer's Association stel voor om sulke energie na 'n soortgelyke aktiwiteit te herlei, eerder as om dit net te probeer stop.
 
-| What you see | Something to offer |
+| Wat jy sien | Iets om aan te bied |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Vryf of peuter aan 'n tafel | 'n Klam lap en 'n versoek om die tafel af te vee |
+| Rustelose voete of getik | Musiek met 'n duidelike maat om mee saam te tik of te klap |
+| Kaste of laaie leegmaak | 'n Mandjie klere of waslappies om op te vou en te sorteer |
+| Dieselfde vraag weer vra | Gerusstelling, en dan 'n liedjie of takie om saam te deel |
+| Heen en weer stap | 'n Entjie saam stap, of 'n takie waarby dinge gedra word |
+| Onrustigheid laatmiddag | 'n Rustige, bekende taak in goeie lig; sien [laatmiddag-rusteloosheid](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Wanneer om op te hou of van koers te verander
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Hou op wanneer jy tekens van moegheid, frustrasie, verleentheid of verveling sien, soos gewriemel, frons, dinge wegstoot of sê “Ek kan nie”. Die Alzheimer's Association stel voor om dit weer op 'n ander tyd van die dag te probeer of die aktiwiteit eenvoudiger te maak. Moenie dit forseer nie. Weiering kan spruit uit vrees of omdat die taak te moeilik is; sien [wanneer hulle nee sê](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Om vroeg op te hou is heeltemal reg. Net so is dit ook goed om bloot saam met 'n koppie tee te sit. Soos vermoëns verder verander, pas die idees in [laatfase-aktiwiteite](/activities/late-stage/) dalk beter, en [101 aktiwiteite](/activities/ideas/) bevat nog baie meer om te probeer.

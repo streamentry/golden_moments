@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Xlẽe ɖe go",
+      "stopReading": "Dzudzɔ exlẽxlẽ",
+      "region": "Fefe",
+      "restart": "Gbugbɔe dze egɔme",
+      "soundOn": "Gbe blewuu si",
+      "soundOff": "Gbe blewuu tsi",
+      "done": "Esu na fifia",
+      "feedbackQuestion": "Ðe esia kpe ɖe ŋuwò egbea?",
+      "feedbackYes": "Ɛ̃",
+      "feedbackNo": "Menye tututu o",
+      "feedbackThanks": "Akpe na wò be nèna míenya."
+    },
+    "tile": {
+      "named": "{name}, kpe {n}",
+      "hidden": "Nutata si wobe, kpe {n}",
+      "withState": "{label}, {state}",
+      "matched": "Wosɔ",
+      "selected": "Wotiɛ",
+      "picture": "Nutata",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Wokpɔ wo nɔewo katã. Gbugbɔ fee alo gbɔ ɖe eme.",
+      "photoPair": "Foto eve siwo sɔ, wole afi ɖeka.",
+      "picturePair": "{name|lower} ƒe nutata eve, le afi ɖeka.",
+      "selected": "{name}. Fifia di evelia si sɔ kplii.",
+      "mismatch": "Gbɔ ɖe dziwò. Zi nutata aɖe dzi nàtsɔ ayi edzi.",
+      "mismatchNamed": "{a} kple {b}. Gbɔ ɖe dziwò. Zi nutata aɖe dzi nàtsɔ ayi edzi."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Zi nutata ɖeka dzi, eye emegbe nàzi evelia si sɔ kplii dzi.",
+      "guidanceHidden": "Zi kpe eve dzi nàtrɔ wo. Di eve siwo sɔ kple wo nɔewo.",
+      "restart": "Nutata yeyewo",
+      "sizeLegend": "Kpe nenie",
+      "size": {
+        "one": "kpe {n}",
+        "other": "kpe {n}wo"
+      },
+      "viewLegend": "Alesi woafee",
+      "viewShowing": "Nutatawo dze gaglãa",
+      "viewHidden": "Nutata siwo wobe",
+      "playAgain": "Gbugbɔ fee kple nutata yeyewo",
+      "talk": "Miɖo dze tso nutatawo ŋu ɖekae"
+    },
+    "choose": {
+      "countLegend": "Nutata nenie",
+      "count": "Nutata {n} siwo dome nàtia tso",
+      "thatOne": "Ema nye {name|lower}. Gbɔ ɖe dziwò."
+    },
+    "findTheSame": {
+      "guidance": "Kpɔ nutata si le etame. Zi evelia si sɔ kplii le ete dzi.",
+      "yes": "Ɛ̃, {name|lower} ma tututu ye.",
+      "next": "Nutata si kplɔe ɖo"
+    },
+    "shadowMatch": {
+      "guidance": "Kpɔ vɔvɔli si le etame. Zi nutata si wɔ vɔvɔli ma dzi.",
+      "yes": "Ɛ̃, {name|lower} ye wɔ vɔvɔli ma.",
+      "next": "Vɔvɔli si kplɔe ɖo",
+      "shadowAlt": "Vɔvɔli si sɔ kplii",
+      "foundAlt": "{name|lower} ƒe vɔvɔli"
+    },
+    "sortTogether": {
+      "guidance": "Zi nutata aɖe dzi, eye emegbe nàzi kusi si me wòde dzi.",
+      "restart": "Nutata yeyewo",
+      "themeLegend": "Tanya",
+      "selected": "{name}. Fifia zi kusi si me wòade dzi.",
+      "pickFirst": "Gbã la zi nutata aɖe dzi, emegbe nàzi kusi aɖe dzi.",
+      "hint": "{name|lower} ate ŋu ade \"{basket}\" me. Zi kusi ma dzi nàtsɔe de eme.",
+      "placed": "{name|lower} le \"{basket}\" me.",
+      "sorted": "Nu sia nu le teƒe si sɔ. Mikpɔ kusiwo me ɖekae, alo mite tanya bubu kpɔ.",
+      "basket": {
+        "one": "{basket} ƒe kusi, nutata {count} le eme",
+        "other": "{basket} ƒe kusi, nutata {count}wo le eme"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Zi akpa ɖeka dzi, emegbe nàzi bubu dzi. Woatrɔ teƒe kple wo nɔewo.",
+      "restart": "Gbugbɔ wo tsaka",
+      "pictureLegend": "Nutata",
+      "pictures": {
+        "sailboat": "Avɔʋu",
+        "house": "Xɔ",
+        "balloon": "Balun",
+        "sunflower": "Ŋdɔseƒoƒo",
+        "lighthouse": "Akaɖixɔ",
+        "cat": "Dadi"
+      },
+      "sizeLegend": "Akpawo",
+      "size": {
+        "one": "akpa {n}",
+        "other": "akpa {n}wo"
+      },
+      "pickedUp": "Wofɔ akpa la ɖe dzi. Fifia zi afisi wòade dzi.",
+      "whole": "{name|lower} la gagblɔ blibo. Tia nutata bubu ɣesiaɣi si nèdi.",
+      "swapped": {
+        "one": "Wotrɔ teƒe na wo. Akpa {correct} le {total} me le teƒe si sɔ.",
+        "other": "Wotrɔ teƒe na wo. Akpa {correct} le {total} me le teƒe si sɔ."
+      },
+      "guideAlt": "Nutata blibo la: {name}",
+      "guideText": "Alesi nutata la dzenae ne eblibo enye esia.",
+      "piece": "Akpa si le {place}",
+      "pieceInPlace": ", le teƒe si sɔ",
+      "piecePickedUp": ", wofɔe ɖe dzi",
+      "places4": [
+        "etame le mia me",
+        "etame le ɖusime",
+        "ete le mia me",
+        "ete le ɖusime"
+      ],
+      "places9": [
+        "etame le mia me",
+        "etame titina",
+        "etame le ɖusime",
+        "titina le mia me",
+        "titina",
+        "titina le ɖusime",
+        "ete le mia me",
+        "ete titina",
+        "ete le ɖusime"
+      ],
+      "done": "Nutata la gagblɔ blibo. Gbugbɔ fee alo gbɔ ɖe eme.",
+      "playAgain": "Gbugbɔ wo tsaka ake"
+    },
+    "finishTheSaying": {
+      "guidance": "Mixlẽ lododo la ɖekae, emegbe nàzi nya si wu enu dzi.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ɛ̃, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" hã sɔ. Gake gbedesiaƒe lododo la wua enu kple \"{end}\".",
+      "revealed": "Lododo lae nye \"{start} {end}.\"",
+      "choicesLabel": "Tia nya mamlɛtɔ",
+      "show": "Fia emenuwuwu",
+      "talk": "Miɖo dze tso eŋu: ",
+      "next": "Lododo si kplɔe ɖo"
+    },
+    "wordSearch": {
+      "guidance": "Nyawo to gli me alo tso etame yi ete. Zi ŋɔŋlɔdzesi gbãtɔ dzi, eye nàzi mamlɛtɔ dzi.",
+      "restart": "Fefe yeye",
+      "themeLegend": "Tanya",
+      "sizeLegend": "Aflaga ƒe lolome",
+      "size": {
+        "one": "{n} kple {n} (nya {words})",
+        "other": "{n} kple {n} (nya {words}wo)"
+      },
+      "print": "Taa fefe sia",
+      "letterChosen": "Wotia ŋɔŋlɔdzesi {letter}. Fifia zi nya la ƒe ŋɔŋlɔdzesi mamlɛtɔ dzi.",
+      "found": "Wokpɔ {word}.",
+      "foundAll": "Wokpɔ {word}. Nyawo katã sɔ gbɔ. Gbugbɔ fee alo gbɔ ɖe eme.",
+      "tryAgain": "Gbɔ ɖe dziwò. Zi nya la ƒe ŋɔŋlɔdzesi gbãtɔ dzi, eye nàzi mamlɛtɔ dzi.",
+      "gridLabel": "Ŋɔŋlɔdzesiwo ƒe teƒe, fli {n} kple ŋɔŋlɔdzesi {n}wo. Zã afɔkunɔwo be nàzɔ ŋɔŋlɔdzesiawo dome.",
+      "cell": "{letter}, fli {row}, teƒe {col}",
+      "cellFound": ", nya si wokpɔ ƒe akpa aɖe",
+      "wordsHeading": "Nya siwo nàdi",
+      "wordFound": " (wokpɔe)",
+      "sheetTitle": "Nyadididi: {theme}",
+      "sheetNote": "Nyawo le gli me alo tso etame yi ete.",
+      "unavailable": "Ŋɔŋlɔdzesiwo ƒe tike mesɔ na gbegbɔgblɔ sia o, eya ta nyadididi fefea mele afi sia o. Te nutatafefewo kpɔ boŋ."
+    },
+    "coloring": {
+      "guidance": "Zi amadede aɖe dzi, eye emegbe nàzi nutata la ƒe akpa aɖe dzi.",
+      "restart": "Tutu amadedewo ɖa",
+      "cleared": "Axa la trɔ zu yeye ake.",
+      "pageLegend": "Axa",
+      "print": "Taa axa sia",
+      "colorsLabel": "Amadedewo",
+      "paintChosen": "Wotia {paint}.",
+      "painted": "{part} trɔ zu {paint|lower} fifia.",
+      "artLabel": "{page}, akpa {count} siwo ŋu nàsi amadede ɖo",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, womesi amadede ɖe eŋu o",
+      "paints": {
+        "red": "Dzĩ",
+        "orange": "Akutsa",
+        "yellow": "Aŋutigbe",
+        "green": "Gbemumu",
+        "blue": "Blɔ",
+        "purple": "Damdam",
+        "pink": "Dzĩbɔbɔ",
+        "brown": "Anyigbagbe",
+        "sky-blue": "Dziƒogbe",
+        "cream": "Nɔnɔgbe",
+        "gray": "Afugbe",
+        "white": "Ɣi"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Xlẽ agbalẽvia ɖe go. Ŋuɖoɖo vovovo ɖesiaɖe le nyuie.",
+      "position": "Agbalẽvi {n} le {total} me",
+      "themeLegend": "Tanya",
+      "next": "Agbalẽvi si kplɔe ɖo",
+      "previous": "Agbalẽvi si do ŋgɔ",
+      "print": "Taa agbalẽviawo katã",
+      "sheetTitle": "Dzeɖoɖo ƒe agbalẽviwo"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Dze egɔme kple wò fotowo tiatia.",
+      "guidance": "Zi foto aɖe dzi, eye emegbe nàzi evelia si sɔ kplii dzi.",
+      "restart": "Gbugbɔ wo tsaka ake",
+      "intro": "**Tia foto 2 va se ɖe 6** tso mɔ̃ sia dzi. Woadze le axa sia dzi ko, eye womegaɖoa wo ɖe afi aɖeke alo dzrana wo ɖo gbeɖe o.",
+      "choose": "Tia fotowo",
+      "chooseDifferent": "Tia foto bubuwo",
+      "clear": "Tutu fotowo ɖa",
+      "cleared": "Wotutu fotowo ɖa le axa sia dzi.",
+      "atLeastTwo": "Míeɖe kuku, tia foto eve ya teti.",
+      "usingFirst": "Míele foto {max} gbãtɔwo zãm.",
+      "skipped": {
+        "one": "Faɛl {count} menye foto si míate ŋu afia o.",
+        "other": "Faɛl {count}wo menye foto si míate ŋu afia o."
+      },
+      "playAgain": "Gbugbɔ fee kple foto siawo",
+      "empty": "Wò fotowo adze le afi sia, ɖesiaɖe zi eve."
+    },
+    "pictureBingo": {
+      "guidance": "Taa agbalẽviawo gbã. Emegbe fia nuƒola sia le mɔ̃ ƒe ŋku si lolo wu si le asiwò dzi.",
+      "called": {
+        "one": "{name}. Woyɔ nutata {called} le {total} me.",
+        "other": "{name}. Woyɔ nutata {called} le {total} me."
+      },
+      "start": "Zi \"Nutata si kplɔe ɖo\" dzi nàtsɔ ayɔ nutata gbãtɔ.",
+      "restart": "Dze fefe yeye gɔme",
+      "squaresLegend": "Ablɔwo le agbalẽvi ɖesiaɖe dzi",
+      "squares": "Ablɔ {n} ({side} kple {side})",
+      "cardsLegend": "Agbalẽvi nenie woataa",
+      "cards": {
+        "one": "agbalẽvi {n}",
+        "other": "agbalẽvi {n}wo"
+      },
+      "print": {
+        "one": "Taa bingo gbalẽvi {n}",
+        "other": "Taa bingo gbalẽvi {n}wo"
+      },
+      "ready": "Míedzra ɖo ne èle klalo",
+      "next": "Nutata si kplɔe ɖo",
+      "allCalled": "Woyɔ nutatawo katã vɔ",
+      "alreadyCalled": "Woyɔe xoxo",
+      "sheetTitle": "Nutata bingo · agbalẽvi {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Gbɔ ya ɖe eme ne goea le lolom, eye nàgbɔe do go ne le suem. Atɔ le eɖokui si le gbɔgbɔ zi ade megbe.",
+      "paceLegend": "Gbɔgbɔ ƒe ɖoɖo",
+      "paceSlow": "Blewuu (sekend 5 na akpa sia akpa)",
+      "paceGentle": "Fafɛɛ (sekend 4 na akpa sia akpa)",
+      "ready": "Míele klalo na wò ne èle klalo",
+      "in": "Gbɔ ya ɖe eme",
+      "hold": "Dzudzɔ vie",
+      "out": "Gbɔ ya do go",
+      "start": "Dze egɔme",
+      "stop": "Tɔ",
+      "started": "Edze egɔme. Gbɔ ya ɖe eme ne goea le lolom.",
+      "stopped": "Etɔ.",
+      "finished": "Gbɔgbɔ blewu zi ade vɔ. Àte ŋu agadze egɔme ne èdi."
+    }
+  },
+  "pictures": {
+    "teacup": "Kɔpu",
+    "kettle": "Ketli",
+    "bread": "Bolo blibo",
+    "frying-pan": "Agbavloe kple azi",
+    "cake": "Keki na dzigbezã",
+    "sunflower": "Seƒoƒo gã ɣetɔ",
+    "tulip": "Seƒoƒo dzĩ",
+    "watering-can": "Tsikɔba",
+    "potted-plant": "Ati le ze me",
+    "tree": "Ati",
+    "bird": "Xevi le alɔdzi",
+    "butterfly": "Kpakpaluʋu",
+    "dog": "Avu",
+    "cat": "Dadi",
+    "fish": "Tɔmelã",
+    "apple": "Epul dzĩ",
+    "pear": "Pɛa",
+    "strawberry": "Strobɛri",
+    "banana": "Akɔɖu",
+    "lemon": "Lemumu",
+    "cherries": "Tsɛriwo",
+    "house": "Xɔ",
+    "lamp": "Akaɖi le kplɔ dzi",
+    "armchair": "Zikpui gã",
+    "key": "Safui xoxo",
+    "umbrella": "Tsikeve",
+    "sailboat": "Tɔdziʋu",
+    "car": "Ʋu xoxo",
+    "bicycle": "Keke",
+    "balloon": "Balun gã",
+    "lighthouse": "Mɔfiala-xɔ",
+    "sun": "Ɣe",
+    "moon": "Ɣleti kple ɣletiviwo",
+    "teapot": "Tiize",
+    "apple-pie": "Epul bolo",
+    "honey-jar": "Anyitsike le go me",
+    "boiled-egg": "Azi le agbavie me",
+    "toaster": "Bolo-totomɔ̃",
+    "cheese": "Tsiisi kakɛ",
+    "milk-jug": "Notsigba",
+    "cupcake": "Keki sue",
+    "orange": "Aŋuti",
+    "grapes": "Weintiwo",
+    "watermelon": "Tsimelɔ̃ kakɛ",
+    "pineapple": "Atɔtɔ",
+    "peach": "Piitsi",
+    "rose": "Roziseƒoƒo",
+    "daisies": "Seƒoƒo yɛwo",
+    "mushroom": "Togbe",
+    "wheelbarrow": "Balo",
+    "birdhouse": "Xevixɔ",
+    "cactus": "Ŋuti le ze me",
+    "acorn": "Atikutsu ku",
+    "autumn-leaf": "Aŋgba bibi",
+    "rabbit": "Fɔmizi",
+    "duck": "Kpakpaxe",
+    "hen": "Koklonɔ",
+    "sheep": "Alẽ",
+    "owl": "Fadzi",
+    "ladybird": "Nutsuvie",
+    "snail": "Ablɔkɔe",
+    "frog": "Akpɔkplɔ",
+    "bee": "Anyi",
+    "clock": "Gaƒoƒomɔ̃",
+    "vase-of-flowers": "Seƒoƒoze",
+    "radio": "Radiomɔ̃ xoxo",
+    "books": "Agbale babla",
+    "candle": "Akaɖi",
+    "glasses": "Nkukpɔgɛwo",
+    "telephone": "Kaƒomɔ̃",
+    "ball-of-wool": "Ka gogloe",
+    "straw-hat": "Ketsu kuku",
+    "train": "Keteke",
+    "bus": "Bɔsu",
+    "airplane": "Yameʋu",
+    "suitcase": "Adaka",
+    "tractor": "Agbleʋu",
+    "rowing-boat": "Tɔdziʋu si wokuna",
+    "rainbow": "Anyidɔ",
+    "rain-cloud": "Tsiledzi",
+    "snowflake": "Tsikpe vie",
+    "kite": "Yameʋuvie",
+    "sunrise": "Ɣedzedze le todzi"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGKLMNORSTUVWYZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Atikutsuwo",
+          "words": [
+            "AKUTU",
+            "MANGO",
+            "APLE",
+            "LEMU",
+            "GUAVA",
+            "WEIN",
+            "PAPAYA",
+            "KOKO",
+            "PEA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Abɔ",
+          "words": [
+            "ROZI",
+            "NUKU",
+            "ANYI",
+            "AŊGBA",
+            "ATI",
+            "TƆGBE",
+            "TƆTƆ",
+            "GBE",
+            "SEƑOƑO"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Nuɖaƒe",
+          "words": [
+            "KƆPU",
+            "GBAZI",
+            "BOLO",
+            "FANA",
+            "AGBA",
+            "TII",
+            "GAZE",
+            "TSI",
+            "GAKƆ"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Yame",
+          "words": [
+            "TSI",
+            "AHOM",
+            "ALILĨ",
+            "FAFA",
+            "XƆDZO",
+            "ƔEKO",
+            "TSIDZA",
+            "KEKELI",
+            "ANYIDƆ"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Lãwo",
+          "words": [
+            "AVU",
+            "DADI",
+            "XEVI",
+            "NYI",
+            "GBƆ",
+            "KOKLO",
+            "ALẼ",
+            "KPAKPA",
+            "TƆMELÃ"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Aƒeme",
+          "words": [
+            "ƲƆTRƆ",
+            "ZIKPUI",
+            "ABA",
+            "AKAÐI",
+            "SAFUI",
+            "KPLƆ",
+            "GLI",
+            "XƆTA",
+            "ADAKA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kartawo katã",
+        "food": "Nuɖuɖu",
+        "home": "Aƒeme",
+        "outdoors": "Gota",
+        "animals": "Lãwo",
+        "travel": "Mɔzɔzɔ",
+        "work": "Dɔwɔwɔ kple modzakaɖeɖe",
+        "music": "Hadzidzi kple dzidzɔkpɔkpɔ",
+        "seasons": "Ɣeyiɣiwo"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Nuɖuɖu ƒe ʋeʋẽ kae doa dzidzɔ na wò wu le nuɖaƒe?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Keki ka ƒomevie nàtso na azãɖuɖu aɖe?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Gblɔ kutsetse bolo alo nu vivi aɖe si nyoa ŋuwò la ŋuti nya na me."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Alekee nàdi be woaɖa tii alo kɔfi na ye?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Nukae nana ŋdikɔnu dona dzidzɔ na ame ŋutɔ?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ètse kutsetse tso ati dzi kpɔa?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Nu vivi alo nu vɛ̃ɛ: kae doa dzidzɔ na wò wu?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Nuɖuɖu kae ɖoa ŋku ɣeɖoɣiwo dzi na wò?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Gblɔ aƒe aɖe si me nɔnɔ nyo ŋuwò la ŋuti nya na me."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Afi kae nyoa ŋuwò wu be nàbɔbɔ nɔ agbɔ ɖe eme?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Nukae nyoa ŋuwò be nàwɔ le fiẽ kpoo aɖe me?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Nukae nye nu xɔasi aɖe si nàde adaka tɔxe aɖe me adzra ɖo?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Amekae nàkpe be wòava no tii kpli ye?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Nukae nyoa ŋuwò be nàwɔ le gbe si gbe tsi le dzam?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Seƒoƒo kawoe nàdo ɖe abɔ me?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Gblɔ ati alo modzakaɖeƒe aɖe si doa dzidzɔ na wò ŋu nya na me."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Nukae doa dzidzɔ na ame wu le abɔ me nɔnɔ me?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Seƒoƒo ƒe amadede kae nyoa ŋuwò wu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Èkpɔa dzidzɔ ne seƒoƒowo le aƒe me na wòa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ŋkeke si me ɣe dze nyuie la, nukae nyoa ŋuwò be nàwɔ?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Gblɔ avu aɖe si nènya kpɔ la ŋu nya na me."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Dadiwo alo avuwo, alo wo dometɔ aɖeke o? Nukae nyoa ŋuwò le wo ŋu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Xevi kawoe nèkpɔna alo sena le gota?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Èlé tɔmelã kpɔ, alo ènyɛ tɔmelã le ze me kpɔa?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Lã kae nye tugbetɔ kekeake si nèkpɔ kpɔ?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Gblɔ ʋu aɖe si nyo ŋuwò kpɔ la ŋu nya na me."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Àdi be yeanɔ ƒuta gbe ɖeka alo le todzi wu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Afi kae nàdi be yeayi ado modzaka kple keke?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Ne ɖe nàte ŋu adzo to teƒe aɖe dzi la, afi kae wòanye?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Mɔzɔzɔ kae do dzidzɔ na wò ŋutɔ?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Dɔ ka ƒomevi wɔwɔe do dzidzɔ na wò?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Modzakaɖeɖe kae nàte ŋu azã gaƒoƒo gbogbowo ɖe eŋu?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Nukae nèwɔna alo dzrana ɖo si amewo nya wò ɖe eŋu?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Aɖaŋuɖoɖo kae nàna sɔhɛ aɖe si le dɔ gɔme dzem?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Hadzidzi ka ƒomevie nana nèɖea afɔ kple dzidzɔ?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Nukae nana aglotutu dona dzidzɔ na ame ŋutɔ?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Hadzila kae nyoa ŋuwò be nàse eƒe gbe?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Sinima alo televiziɔn dzi wɔna kae nàgate ŋu akpɔ kple dzidzɔ?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Nukae doa dzidzɔ na wò wu le ŋkeke xɔdzoɣiwo me?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Nukae doa dzidzɔ na wò le ɣeyiɣi si me aŋgbawo le gege me?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Nukae doa vivisese na ame le fiẽ fafɛ aɖe me?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Dzesi kawoe fiana wò gbã be ɣeyiɣi yeye dze egɔme?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Tsikpe, tsi alo ɣeko: kae nyoa ŋuwò wu?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Seƒoƒo le ze me",
+          "regions": {
+            "sky": "Megbe",
+            "table": "Kplɔ",
+            "stem": "Ati",
+            "leaf-left": "Aŋgba miatɔ",
+            "leaf-right": "Aŋgba ɖusitɔ",
+            "petal-1": "Aŋgba vie 1",
+            "petal-2": "Aŋgba vie 2",
+            "petal-3": "Aŋgba vie 3",
+            "petal-4": "Aŋgba vie 4",
+            "petal-5": "Aŋgba vie 5",
+            "petal-6": "Aŋgba vie 6",
+            "petal-7": "Aŋgba vie 7",
+            "petal-8": "Aŋgba vie 8",
+            "center": "Seƒoƒoa ƒe titina",
+            "pot": "Ze",
+            "pot-rim": "Zeto"
+          }
+        },
+        "house": {
+          "name": "Xɔ",
+          "regions": {
+            "sky": "Dziƒo",
+            "sun": "Ɣe",
+            "grass": "Gbe",
+            "chimney": "Dzodzoƒoxɔ",
+            "walls": "Gliwo",
+            "roof": "Xɔta",
+            "door": "Ʋɔtrɔ",
+            "window-left": "Fesre miatɔ",
+            "window-right": "Fesre ɖusitɔ",
+            "path": "Mɔ"
+          }
+        },
+        "teacup": {
+          "name": "Kɔpu",
+          "regions": {
+            "background": "Megbe",
+            "saucer": "Agbavie",
+            "handle": "Kɔpukasi",
+            "cup": "Kɔpu",
+            "band": "Flidzi le kɔpua ŋu",
+            "tea": "Tii"
+          }
+        },
+        "butterfly": {
+          "name": "Kpakpaluʋu",
+          "regions": {
+            "background": "Megbe",
+            "wing-top-left": "Awa mia dzi tɔ",
+            "wing-top-right": "Awa ɖusi dzi tɔ",
+            "wing-bottom-left": "Awa mia te tɔ",
+            "wing-bottom-right": "Awa ɖusi te tɔ",
+            "spot-left": "Tɔtɔ̃ le awa mia dzi",
+            "spot-right": "Tɔtɔ̃ le awa ɖusi dzi",
+            "body": "Ŋutilã"
+          }
+        },
+        "sailboat": {
+          "name": "Tɔdziʋu",
+          "regions": {
+            "sky": "Dziƒo",
+            "sea": "Atsiaƒu",
+            "sail-big": "Avɔ gã",
+            "sail-small": "Avɔ sue",
+            "mast": "Avɔti",
+            "hull": "Ʋua",
+            "flag": "Aflaŋga"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Nuɖaƒe kple abɔ me",
+          "baskets": [
+            "Le dzodoƒe",
+            "Le abɔ me"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Atikutsetsewo kple lãwo",
+          "baskets": [
+            "Atikutsetsewo",
+            "Lãwo"
+          ]
+        },
+        "home-travel": {
+          "label": "Aƒeme kple mɔzɔzɔ",
+          "baskets": [
+            "Le aƒeme",
+            "Le mɔ dzi"
+          ]
+        }
+      }
+    }
+  }
+}

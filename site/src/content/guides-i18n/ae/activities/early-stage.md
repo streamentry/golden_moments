@@ -1,32 +1,31 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Š́yaoθnā paiti pouru-ratūm manō-vaŋhanāiti"
+seoTitle: "Pouru-ratu š́yaoθnā: ānā-arəθa yā hu-dātam"
+description: "Š́yaoθnanąm arəθa paiti pouru-ratūm: urvāsman, ramən, š́iieiti, haxmən-ca, yōi tanūm rāman-haca vīspō-vyāxmanəm dārayeinti."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Paiti pouru-ratūm zaranō manō-vaŋhanāiti, pouru narō yā š́yātō hātam būra darəgəm
+  š́yeinti: urvāsmō-š́yaoθnā, rāma, hu-xšnuta, vərəzyā, yātu, haxədra ca.
+  Kasu kasu fra-sāsta, vazdrəm nəmō, nuro haxədra-ca haca ā-bərəta
+  vahištəm paiti-mainti. Pərəsō narəm cīš́ upastąm vasə, aēibiiō paiti-barō.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Pouru narō paiti pouru-ratūm xᵛaēpaite š́yeinti. Š́yaoθnā nu kasu vī-ciθra hañkārayeinti, nōit vī-spānayeinti."
+  - "Pərəsō aēibiiō cit upastąm vasəntē, uiti-ca daxštəm hazaoša haca dāte."
+  - "Kasava haxədra, nūra asūra vī-zāra, drājištəm š́yaoθnō-bərəte vahištəm fradāiti."
+  - "Aēte zruua vahišta narāi xᵛaēpaite zīzanō-fravaš́īm paiti-fraoxti haŋkārayeite."
+  - "Rāmanəhe haca š́yaoθnā vərəzyōite. Nōit parā-ciθra yā paiti-pərəstīm manayeinte."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Katarā š́yaoθnā vahišta paiti pouru-ratūm manō-vaŋhanāiti?"
+    a: "Vahištā aēca yā nōit parō dōiθra-ca xᵛasnuta: rāman, urvāzma, pars-paoirīti, vərəzya, caraman, sravayan, haxmən, vərəzyan-ca. Kasu arəzahva, ramna, hu-dātam fra-cāraite. Nibištayeiti, fra-fraoxti, xᵛaēpaite gayō-nibištayā vahišta vərəzyā paiti aēte ratūm."
+  - q: "Cā mąm upastayeiti yō nōit fra-tarō framruye?"
+    a: "Pərəsō aēte cit upastayeiti vasən, paiti-pərəsō-ca. Hu-daxštəm vāca vā sarō-nijanā vā hazaoša frāyōite yezi vācəm vā nāmanəm haca ava-jasaiti. Yezi drvahe a-viθištayeite, xᵛaēpaite rāθa dāte, yaθaca darəgō-zruuānąm bavaiti."
+  - q: "Yō paiti pouru-ratūm manō-vaŋhanāiti, nava š́yaoθnā vi-cārayōite?"
+    a: "Bavaiti, yezi vasi. Pouru yō parō xᵛasta raoxš́na aiti, bā aipi nava š́yaoθna yōi hazaoša, yaθā haxədra caramana, sravayan-ca, paiti-friyō bavaiti. Hācarə vī-āzanō vyāxmayeiti."
+  - q: "Manō-sūnā app-framana vahišta paiti pouru-ratūm?"
+    a: "Nara pouru manō-pərəstīm rāmayeinti, aēca rāma vasnō asti. Nōit nava framana š́yaoθna vā daxštəm vī-dāraite yō manō-vaŋhanāiti vi-nāθayeite vā paiti-darayeite. Yezi aēte ānā-arəθa aŋhō-zōšti bavaiti, fra-kərətuya."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +47,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Paiti pouru-ratūm manō-vaŋhanāiti, pouru narō yaθā parō gayēhe hu-dātam š́yeinti. Vərəzyeinti, vī-zārayeinti, haxidrąm paiti-vaēnanti, ayan-ca xᵛaēpaite frayānayeinti. Š́yaoθnā nōit tarō-dātam vasən; kasu vī-ciθra yā ramnəm dārayeinti. Xᵛaš́tō ahmāi yaθā haxō, nōit aŋha yaθā sāra-pa: yō ahmāi upa-stāiti, hañkārayeite, ahmāica vasə yā paiti-mraomi.
 
-## What activities are good in early-stage dementia?
+## Katarā š́yaoθnā vahišta paiti pouru-ratūm manō-vaŋhanāiti?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Vahištā š́yaoθnā paiti pouru-ratūm aēca yā naro parō vaza-xšnuta, kasu fravərəθa-haca. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) vī-mraomi š́yaoθna yaθā rāma-kata, vāca-ciθra, carəman, raoxtō-vərəzya, urvarō-dātay, sravayāna, gayō-fraoxti, nibištayeiti, fra-fraoxti, hu-xšnuta-ca.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Yā vī-carənti aēca thmana asti, nōit š́yaoθna. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) framruye narō paiti pouru-ratūm kasu parā-aiti haca yā parō xšnuta, yaθā yō vyāxmane mazišta arəzahva aipi kasū vyāxmanəm vahištəm caraiti. Hu-vāca pərəsō cit a-huš́ita bavaiti, hazaoša-ca paiti-kərənuya.
 
-## Ask first, and agree on how to help
+## Paoirīm pərəsō, uiti-ca daxštəm hazaoša haca dāte
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) fra-sāyeiti dātom yā š́yaoθnahva vərəzyeiti:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Arəzō pərəsō.** "Cīš́ ahmāi fradāiti paiti gāθanəm?" fradāθəm hu-ciθra vaēnaiti.
+- **Manya aēte vərəzyeiti.** Yezi drvahe a-viθištayeite, dāte narəm caraiti, a-vī-xštō upastāite.
+- **Daxštəm dāte.** Hu-vaca vā nijanā vā vī-cinōite yā mruye "nūra upastāite," yaθā yezi nāmanəm vī-mruyāiti.
+- **Paiti-pərəsō vīspō-zru.** Pərəsō yezi upastā vahištō, mazō, vā kasu bavaiti.
 
-## Activity ideas for the early stage
+## Š́yaoθnō-arəθa paiti pouru-ratūm
 
-### Keep up roles and hobbies
+### Dāraye ratūm ca xᵛasnuta ca
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Dāraya gātu-bərəte.** Ayarō-ratūm hañkārayeite, sravayan vā haxədra vā yā māhyanąm rāzarəm dadāiti. Yezi a-xšnuta bavaiti, kasu haxədra vā ramna vahišta asti.
+- **Xᵛarəθa ham-fravaxš́ya.** Yezi vī-cinayen paiti xᵛarəθō-vīcāra a-xšnuta bavaiti, Alzheimer's Association mruye pərəsō narəm menu-bərəte ham-fravaxš́yeiti, nibištayeiti-ca.
+- **Pačite uiti-ca hu-xšnuta.** Xᵛaēpaite hu-pəša ham-pačite. Paoirīm vispa vidāta paurva dāte, yaθā vīspā gātuš́ hu-vaēnāite.
+- **Urvarō-stāna.** Urvaranəm dāraya, vīza vā urvara ham-cinōite, vərəzyā-ca ham-carənti. Nibištayeiti ayan-vərəzyanąm upastayeiti.
+- **Dastō-vərəzya dāraya.** Dāuru-vərəzya, thūna-vərəzya vā nōit vī-spānayeiti yezi hu-raoxš́na dātem-ca fra-cāraite.
 
-### Games for enjoyment
+### Rāman paiti xšnuta
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Rāma paiti kata vā taxta.** Xᵛaēpaite rāma vahišta asti. Ham-bərəte caraiti yaθā nōit aēvō uz-varəzeiti, ānā-mārayen rāmayeiti.
+- **Hu-dātam vāca-ciθra.** Nōit yā a-huš́ita [word search](/games/word-search/) paiti darəš́tayeite vā paiti-nibištayeite paiti ramnəm.
+- **Aŋhō-ciθra jigsaw.** Nōit parā-mąsta, aipi ramna pərəti-vidāta vī-cinōite. [Picture puzzle](/games/picture-puzzle/) kasu rāma paiti dōiθra asti, uiti-ca [puzzles for dementia](/activities/puzzles/) paurva fra-sāyeiti.
+- **Haxədra trivia paiti rāma.** Narō ham-vyāxmanəm trivia xšnuta bavaiti. Yezi manō-pərəstīm bavaiti, aēca fra-kərətuya, vā [easy trivia questions](/activities/trivia/) caraiti, yā hu-dāta a-māraya paiti-bərənti.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Rāman paiti aēte rāštam asti. Nōit rāma manō-vaŋhanāiti vi-nāθayeite vā paiti-darayeite; paiti-fraoxti paiti [brain games: what the research says](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Nibištayeiti, manyeite ca haŋkārayeite
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Nibištayeiti gayō.** Alzheimer's Association mruye nibištayeiti vahišta rāθa asti paiti manō-sūram. Kasu vāca ayarəm vasnō asti.
+- **Frabərəte gayō-fraoxti nava.** Pouru-ratu vahištō zruua asti narāi xᵛaēpaite dōiθra vī-cinōite, gayō-vərəzya-ca nibištayeiti. Vaēna [reminiscence activities](/activities/reminiscence/).
+- **Nāmayeiti nibištayeiti.** Nibištam ahmāi pouru-puthra, zaranō haxō vā vərəzyō-haxō vahištam aŋhuye dadāiti.
+- **Paiti-vaēnō dōiθra.** [Photo pairs](/games/photo-pairs/) dōiθra-haca rāman hu-dātam kərənaoiti, uiti-ca [conversation cards](/games/conversation-cards/) vācəm hu-raθəm dāti.
 
-### Go out and move
+### Paiti-fravaza ca urvāzma
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fra-sāyeiti rātəm carati yaθa tē nōit a-xšnuta bavainti. Vahištō ayarō-zru vī-cinōite, nōit darəgəm dārayeiti.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Kasu sādrō-cara.** Fradāθa, māhya vā uz-daēza paiti asūra zru.
+- **Snayeiti.** NIA mruye snanəm paiti ramna zru vahištəm asti.
+- **Carəman vyāxmanəm ca raoxta.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) framruye raoxta, tai chi, yoga, snayan ca carəm-vyāxman, yaθā haxədra a-duš́-manahi paiti-fraoxta.
+- **Sravayana ca manō-cafés.** Ramna vyāxman yōi narō paiti manō-vaŋhanāiti haxō-ca paiti-vaēnanti yōi aēvam gayēhe carənti.
 
-## Small changes that keep activities enjoyable
+## Kasu vī-ciθra yā š́yaoθnā ramnəm dārayeinti
 
-| If this is getting harder | Try this |
+| Yezi aēte a-huš́ita bavaiti | Vərəzyōite aēca |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Mazō arəzahva vā sūra-gātu | Carōite ramna zru, kasu vyāxmanəm vī-cinō, gātūm paiti sraya dāraye |
+| Nava nāmō dōiθra | Paiti vīspa nāmanəm fra-mruye; vyāxmane nāma-nibištam pərəsō |
+| Paoirīm gātu fra-sāsta | Gātum nibištaye, vā vīspā paurva vidāta dāraya |
+| Tānūm uz-varəzeiti | Kasu carati, rāmno paiti-zru, nōit anya paiti aēte ayan |
+| Mārayeiti paiti rāma | Ham-bərəte caraiti, dātam kasu kərənuya, nōit mārayeiti |
+| Vācō vīndaiti | Zru dāraya; vācəm mruye yezi hazaoša-daxštəm aipi-jasayeiti |
 
-## When to slow down
+## Yenhē parā-yāta
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Paiti-dāraya vā vī-cinōite š́yaoθna yezi a-xšnuta frāyōite yim rāma. Paiti-pərəstī, urvāzma tarō-aiti, vā "azəm nōit nūra carāmi" mraomi, hu-vāca pərəsō, nōit uz-dāra. Bā kasu vərəzya aēvahe š́yaoθna vahištam asti. Yezi narō upastąm mazō vasə gātūm fra-cāraite, š́yaoθnā paiti [middle-stage activities](/activities/middle-stage/) vahištam caraiti. Paiti hu-vāca upastāite, vaēna [communication tips](/caregiving/communication-tips/), anya š́yaoθna paiti [101 activities](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Haxa-ca upastąm vasə. Pouru-ratu vahištō zruua asti xᵛaēpaite haxədra ham-kərənuite; vaēna [caregiver self-care](/caregiving/caregiver-self-care/).

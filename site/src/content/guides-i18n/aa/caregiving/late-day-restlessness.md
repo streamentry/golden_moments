@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Carra Carra: Kas Gaba Luk Yan Maroh Aymisaan Taamaami"
+seoTitle: "Carra Carra: Aymisaan Taamaami"
+description: "Carra carra hangada qokoltam duuda taamaami, dariifat aban mablooli kee kacanuk taqabi yewqe wak doogtor seecan wacyi."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Carra carra hangada, kaskasso hinnay qansar ayro korotuk gaba kaqooma wak qimbitta hinnay aagitta taqabi kinni. Qokoltam duuda qadaat: saaku taamaami kee ayroh ifo akah geyan inna abaama, carra xinti yaaxagoonu, bun kee shaahi dagan abaama, ayro koruk duma buxah ifo duqu abaanama, aymisaan buxa kee muusika, suworaari hinnay sara carrisiyya innaah yan qusbubut abaanama kinni. Qusba taqabi yewqek cakiim geyaanam faxximta.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Carra carra hangada iyim ayro qimbot kaqooma wak qimbitta hinnay aagitta kaskasso kinni."
+  - "Gibdi taamaami, dibuk awqiyya kee qaxli saaku hinnay ayro giddu caba."
+  - "Ayroh ifo, saaku gexso, carra xinti yiggiliqeenim kee shaah/bun dagan abaanam carra aymisaanah abaanaah qokoltam duuda."
+  - "Ayro kortak duma ifo maaqanda, gaca dagan aba, aymisaan taamaamit gaca."
+  - "Ugussa sababo taaxigeenih kitaabat gaba koboxa, kaskasso qimbitta wak aymisaanaah diggi iyya."
+  - "Qusba taqabi hinnay aagitta kaskassoh doogtor geya: dhiibi, bukqa hinnay daawom sabab takkem duudak tengek."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Carra carra hangada carra manna wak qimbitta?"
+    a: "Doolat carra carra hinnay ayro qimbot kaqooma wak qimbitta hinnay aagitta. Wakhti numuk numul sissikah baxsimam duuda, toh sabatah tiya ayro hinnay lamma saftih kitaabal heeleenim qokolta."
+  - q: "Manna taamaami carra carra hangadah qokolta?"
+    a: "Aymisaan, yaaxigeenih yan, gibda maleh yan taamaami meqe: aymisaan muusika, suworaari wagitaanaama, kaxxam kicina filmi, sara carrisiyya, dagan gexso hinnay maaqo ittak lakat qalaanama. Qusba hinnay gibdi taamaami saakul caba."
+  - q: "Carra carra hangada caafiyat taqabih astah takkem duuddoo?"
+    a: "Caafiyat taqabi aagisam duuda, dhiibi, saala (afuroh bukqa), xiinah taqabi hinnay daawot sabab takkem duuda. Hangada qusbatah takkek hinnay aagittak, doogtorih seeca."
+  - q: "Carra carra hangadah daawok doogtor esseroo faxximta?"
+    a: "Toh doogtor luk walalan xisaaba kinni. Alzheimer's Association daawo maleh yan qokol duma koboxaanam tayse iyya, carra hangadah daawo gacsam tu taaxigeenik lakal takkem faxximta iyya. Ta kutbeh gaba daawot fasri mahayta."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Mangom garab inki xala wagitta: saaku aymisaanah yan, kinnih immay carra carra gaba kaqooma wak kas gaba luk yan num kaskassooba, hangadita, garayita hinnay qansara. Gexsacita, buxal yaniinim fanah "buxah gexna" iyyam duuda, hinnay sissikah xiqtam duuda. Ta xaloot doolat carra carra deqsitah geytimta.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Inki furrayna malik immay, ayroh maaqandat aban mablooli, dariifa aymisoonu kee aban dambal baxsa abaanam carra carra aymisaanah abtam duuda. Ta kutbe National Institute on Aging kee Alzheimer's Association geytime caafiyat aymisaan xisaab koboxxa. Tey caafiyat fasri hinna. Taqabi qusba yakkek hinnay aagittak, cakiimik walala.
 
-## What is sundowning?
+## Carra carra hangada iyim kinni?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Carra carra hangada iyim ayro qimbot gaba kaqooma wak, carra hinnay ayro korotuk hangada, kaskasso hinnay garay qimbitta hinnay aagitta wacyi kinni. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) kaxxam daqaraay yanim carra hangada aagisitam duudam yescesse.
 
-## What can make late-day restlessness worse?
+## Carra carra hangada aagisan duudam maanna?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Manga sababi ittal gaba heeleenih aagisan duuda. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ta sababo koboxxa:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- Ayro elle gexxem kaxxam daqaraama;
+- Qusba hinnay maaxigan dariifa;
+- Buxah "rubda saaqat" mablol baxisey ayrol xiinaah baral yewqeem;
+- Dagan ifo kee cirkiila, kaskasso bahtam duudaama;
+- Buxah marih hangada kee garay yabbixeenima;
+- Dagan xiina faxaanama, kaxxa maral geytimtam.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA kaskassoh sabbatah dhiibi, raba-garay, daqara, xiina wayya, bagih qari, kaxxa gaca hinnay mangom marih tanim, kee garu daawom yeceenim warisse.
 
-## How can I plan the day to make evenings calmer?
+## Carra aymisaanah yakkek ayro mannal maysasoonu duuda?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Gibdi taamaami saakul heela, carra carra kalah aymisaanaah yaaxigeenih caba. NIA kee Alzheimer's Association inki gidik ayro maysasoonu meqe iyyaana. Taway wagittoonu duudan misaal:
 
-| Time | What may help |
+| Wakhti | Qokoltam duudam |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Saaku | Cakiim geyiyya, qaxli, awqiyya kee gibdi taamaami, kas garah meqennal |
+| Saaku gersi | Ayroh ifol raaqaanaama, dirriyo window koboxaanaama, gexso |
+| Ayro cawwal | Meqe qasro (Alzheimer's Association kaxxa qasro kee carra dagan maaqo meqe iyya) |
+| Carra qimbot | Faxximtek cilaaloosa, kinnih immay dhiikuk yan xinti carral maabaana |
+| Carra carra | Aymisaan, yaaxigeenih yan taamaami; maaqo kee cabto; bun kee shaahi maleh |
+| Ayro kortak duma | Ayro kortak duma buxah ifo duqu abaay koro xaleh fafta |
+| Carra | Dagan maaqo, aymisaan muusika, dagan gaca, diggi heele xiinah saaqat |
 
-A few specific points from the sources:
+Kutbeh gaba koboxxe meqe gari:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Ayroh ifo.** NIA ayro kuraanaah dirriyo window fanal ayroh ifol raaqaanam meqe iyya.
+- **Ayro gexso, kinnih immay gibdi hinna.** Ayro koboxxa taamaami dhiiku waytam dambal abaanaah yakkek tayse, NIA iyya.
+- **Carra cabto.** Alkol kee kafeen luk yan cabto, bun kee kookaa innaah yan carral dagan aba (NIA). Alzheimer's Association sigaara elle warisa.
+- **Cilaaloot.** Carra dhiikuk yan cilaaloosa dagan aba (NIA). Alzheimer's Association barik xiinah taqabi tekkek ayroh cilaaloot dagan abaanam tayse iyya.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Ayro maysasoonuh mangom [daily routine activities](/activities/daily-routine/) wagittoonu duudan.
 
-## How can I make the home calmer in the late afternoon?
+## Buxa carra carra mannal aymisam abnu duuda?
 
-Reduce noise, add light and keep familiar things close.
+Gaca dagan aba, ifo duqu aba, yaaxigeenih yan meqe tiya gaba koboxa.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Duqu yan ifo.** Alzheimer's Association buxa carra carra meqennal ifisoonu koboxxa. Cirkiila yewqek duma ifisa.
+- **Dagan gaca.** TV kee raadiyow kalisa hinnay daggoysa, maro koboxiyya carral dagan aba. Alzheimer's Association carra gaca, taamaami kee kaxxa muusika daggoysaanam tayse iyya.
+- **Kicin meqe tiya.** NIA aymisaan muusika kee kicina suworaari buxal heeleenim tayse iyya.
+- **Kacanu wagitaanaama.** Alzheimer's Association dhiibi, qoloo, baxaaba, bagih qari, afuroh bukqa, daqara kee caracarak wagittoonu koboxxa, dariifah diqla meqennal heela.
+- **Ku nafsi rooci.** Mari hangada yabbixa. NIA gaba daggoysaay nafsih aymisaanaay ku hangada dagan abaanam meqe iyya.
 
-## What calm activities can we do in the late afternoon?
+## Carra carra maay aymisaan taamaami abnu duuda?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Yaaxigeenih yan, sissik maleh yan, sissikah kalisan taamaami doorita. Alzheimer's Association aymisaan muusika, suworaari hinnay kicina filmi, dagan gexso ittal gexaanam hangada qokolta iyya. NIA maaqo hinnay cabto, kicina TV, muusika, gexso, aqraayay hinnay sara carrisiyya innaah yan qusbubut koboxxa.
 
-Ideas to try:
+Abtookah doortan gari:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Sara ittal carrisa.** NIA ta dambal meqe iyya. Fowtaari sissikah carrisan, taamaami fanteena le.
+2. **Kicina muusika fana.** Qusba wakhtik kicine qango, dagan gacal. Dagan koriyya meqe. Mangom [music activities](/activities/music/) wagita.
+3. **Suworaari wagita.** Suworah kitaab, hinnay garabih suworaari [Photo Pairs](/games/photo-pairs/) addat tambulleenih, aymisaan walal bahta.
+4. **Dagan gexso.** Dariifal, buxah afal hinnay alfeenat, ayro kortak duma.
+5. **Maaqo kee cabto ittal qala.** Aymisaan, bun kee shaahi maleh yan xinto, tarabeesal ittal gaba heela.
+6. **Meqe baxisiyya.** [Picture Pairs](/games/picture-pairs/) affara suwora luk tambulleenih sissikah qimbisaanaah sissikah kalsan duudan.
+7. **Kaloor hayiyya.** [Coloring](/games/coloring/) askriinil hinnay warqatal, gaba caloosan giddu maleh.
+8. **Wagittoonu kee walaltoonu.** [Conversation Cards](/games/conversation-cards/) suwor kee meqe essero bahta. Wagitaanaam kaxxam meqe.
+9. **Kacanuk afuufa koboxa.** [Calm Breathing](/games/calm-breathing/) aymisaan, dagan afuufa koboxaanam kinni.
+10. **Gabah taama.** Kuluulo koboxa, lacafta carrisa, hinnay yaaxigeenih yan tiya abbixa. [sensory activities](/activities/sensory/) wagit.
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Qusba dambal, gibdi awqiyya kee kaxxa kas faxa taamaami carra carral maabina. Toh saakul heela.
 
-## What should I do when restlessness starts?
+## Hangada qimbitta wak maanna abiyyu faxximta?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Aymisaana, diggi iyya, gaba meqennal baxis. NIA aymisaanah yabtoonu, faxam tassagaggoonu, giddit waytoonu, salaamat yanim warissoonu kee meqennal tabbixoonu qokolta iyya. Tohuk lakal: maaqo, cabto, muusika hinnay gexso koboxa.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association "Taamiyyah salaamat lito" kee "Garayteemih garaba lee" iyyi iyya, ifo duqu abaay, daqara daggoysa iyya. Maro kaxxa gibda maabina, maagiddisina.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Num qansara yakkek, NIA aymisaan gexxoolat raaqaanaah aagisenna fan wagittoonu koboxxa. Kaxxa taqabil, ammaniyyah numbrik seeca (18 hinnay 17) kaaduk kas gaba luk yanim warisa.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Nanu heele [communication](/caregiving/communication-tips/) kee [what to do when they say no](/caregiving/when-they-say-no/) addat aymisaan yaba wagitta.
 
-## How do I find the triggers?
+## Hangada ugussa sababo mannal baarisna?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Tiyeey ayro hinnay lamma saftih kitaabal heeleenim meqe. Alzheimer's Association carra carra duma maanna tekkeem wagitoonu koboxxa. Hangada qimbitte saaqat, saaqat kaak duma tekkeem, cilaaloot, maaqo kee cabto, yemeete mari, gaca kee ifo kitaabal heela. Cakiimih tekkek bayissa. NIA dambal heeleenim doogtor kee dacrisaa numih qokolta iyya.
 
-## When should I call a doctor about sundowning?
+## Carra carra taqabih doogtor koboxiyya mannal faxximta?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kas gaba luk yan numih doogtor geya hangada qusbatah takkek, sissikah aagittak hinnay gersi taqabi luk temeetek. NIA sissikah gacta taqabi, bukqaak lakal hinnay daawo baxsitak lakal takkem sissikah doogtor koboxaanam faxximta iyya.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Carra aagissa taqabih doogtor essera. Alzheimer's Association afuroh bukqa, kaskasso luk yan raba-garay kee xiinah taqabi warissa, daawot saaqat doogtor esseroonu meqe iyya. NIA dhiibi, bagih qari kee daawot taqabi hangada baham duudam warisse.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association daawo maleh yan qokol Alzheimer's xiinah meqe iyya, carra hangadah daawo gacsam toh caloosek lakal doogtor luk walalaanam faxximta iyya. Toh doogtorih fanteena kinni. Doogtorih fasri maleh daawo maqimbisina, makalisina, mabaxisina.
 
-## How do I get through the evenings myself?
+## Yooba carra saaqat mannal kuuxisa?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Carra carra dacrisaa maroh gibdi saaqat takkem duuda. Duuddek, buxah num, kataysa hinnay qokola num carra saaqat inki saaqatak gaba koboxuh seeca. Nanu heele [caregiver self-care](/caregiving/caregiver-self-care/) qokol fan kee Alzheimer's Association 24/7 Helpline warisse.

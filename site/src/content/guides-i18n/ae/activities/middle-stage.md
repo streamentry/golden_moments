@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Š́iiaoθana Maidyehe Zrvānō"
+seoTitle: "Maidya-Zrvān Š́iiaoθana: Frāčō Vərəz"
+description: "Frāčō šiiaoθana maidyehe zrvānō: vərəzyōtātō, srōtra, paēsa uta urvāsna, dāitīm vərəzinti ana aipi-dāna yim pairi-barahi."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Maidyehe zrvānō narāi yim pairi-barahi šiiaoθana mərəzu, xšnūta uta aēva-gāmō
+  vahišta hanti: vastrā snayeiti, vastrā handārayeiti, tašta yōždaθeiti,
+  gāθā srāvayeiti, aipi-yāna, paēsa-putikā uta frāčā ramana. Ham-dāraya,
+  paoirīm gāməm cisti fravaoca, kašva-vərəzəm tūm vərəzya, uta ahmāi š́iiaoθanāi
+  arəθəm daδāhi. Asta karana yadā ahmāi nōit urvāzišta bavaiti.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Nmanahe vərəzō xšnūtō vahištō bavaiti yō arəθavaiti uta naravahe manō daδāiti."
+  - "Fra-daxšaya naēdaṯ fravāca, aēvəm gāməm zrvāne dāta, uta duva frāčō vərəzō pərəsahi naēdaṯ vispa-pərəsa."
+  - "Kašvatəməm tūm vərəzya yōi ana narəm xšnūtō šiiaoθanəm vərəzyāt."
+  - "Yadā tanuš an-āštā vā vī-manō bavaiti, ahmāi š́iiaoθanəm vərəzyata naēdaṯ tarō-mati fravaoca."
+  - "Dōiθrīm vaēna, kamnəm upa-kərəti, aipi-stāiti vā vispəm vərəzyaṯ hubada hanti."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Katarā šiiaoθana maidyehe zrvānō vahišta hanti?"
+    a: "Mərəzūti, xšnūti, zastō-vərəzō šiiaoθana aēva-gāma ham-baxšta vahišta hanti: vastrā handārayeiti, vastrā han-kərənaoiti, tašta snayeiti, xᵛarəθō-mīza han-dārayeiti, pouruiiā gāθā srāvayeiti, ham-pataiti, paēsa vaēnaite uta frāčā ramana vərəzyeiti. Aēva-gāməm aēvəm barəte uta haca vərəzyata."
+  - q: "Cifva narəm yim pairi-barāhi ahmāi š́iiaoθanāi fra-daxšayahi?"
+    a: "Vispəm para-daδāhi, pascaēca tūm vərəzəm paoirīm vərəzya uta narəm kərəte zbaiia: 'Tūm maibya upa-kərənuyā aēibyō vastrābyō?' Pouru narō haurva vərəzyata baoduš hanti baδa daxšta paoirīm gāməm barəte. Paoirīm gāməm fra-daxšaiti vahištō haca fravacaiti."
+  - q: "Cifva vərəzyahi yadā narō aēvəm š́iiaoθanəm yāvaṯ paitišmaraiti?"
+    a: "Paitišmarənəm baδa an-āhitəm hanti, uta baδa vāsa manō tyehe narō vərəzīm vā aipi-dānəm cašti. Naēdaṯ tarō-mati fravaoca, bā ahmāi han-gata š́iiaoθanəm fra-dāha, yaθa vastrā snāiti vā gāθā srūtīm haca zbaiia."
+  - q: "Cifva yadā narō ana-dāitīm š́iiaoθanəm vərəzyeiti?"
+    a: "Yadā an-āhitəm bavaiti, aipi-dāraya. Vastrā tarō-handārita vā tašta an-arəθe dāta nōit duš-arəθa hanti. Tarō-vacah dōiθra tarsnahe daδāiti, bā ahmya daite vərəzya narəm tušnāmaca uta arəθavaitīm dāiti."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Maidya-zrvānō manō-rixtahe zrvānəm dərəgōtəməm baδa bavaiti, uta ahmya zrvāne š́iiaoθana haθra-vərəzəm cašti. Vāca kamnō-vīda bavainti, gāmā ham-baxšta bavainti, uta š́iiaoθanəm paoirīm barəte kašva manāite. Bā vāsa arəθavaiti uta haθra-vərəza ahmya nare manaiti. Kamnəm para-dānāi, narō maidyehe zrvānō pouru šiiaoθana frāčō vərəzyāt, yezī nmānahe vərəzō, srōtra uta paēsa ahmāi haθra thwā vərəzyente.
 
-## What activities work well in middle-stage dementia?
+## Katarā šiiaoθana maidyehe zrvānō vahišta hanti?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Mərəzūti, xšnūti, zastō-vərəzō šiiaoθana aēva-gāməm baxšta vahišta bavainti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) fravaoce nōit pouru navəm arəθəm dāiti: š́iiaoθana gaēθyāi jīvatō haurva bavainti, yaθa xᵛarəθəm haca kərənaoiti, pairi-daēzəm vərəzyeiti, srōtrəm gušaite vā aipi-pataiti.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) aipi-vaoca tyehe ahmya zrvāne narō baδa vāsa arəθavahe cašti uta dāidīm thrayeiti, uta upa-kərətim paoirīm cašti. Ahmya maidyehe zrvānō namō-dāta vastrā handārayeiti, tašta snayeiti, vastrā han-kərənaoiti, frāčō kəhrp-vərəzō, xšnūtəm fra-raqsaite, ham-pataiti, haθra-srūtīm, frāčō paēsa-kərəti uta paēsa-putikā vaēnaite.
 
-## How do you set up an activity so it works?
+## Cifva š́iiaoθanəm para-daδāhi yaθa vərəzyāt?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Vispa šiiaoθana ahmya para-dāne hubada vā a-hubada bavainti. Aēte dāiti haca [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) uta [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) fra-daxšta masitəm vahištātəm daδāiti:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Gātum yōždaθa.** Paēsa-raonahe daoxšməm paiti-dara, dvarəm paiti-gəuruza, uta aēva ahmāi š́iiaoθanāi dāiti paiti-daδāhi.
+2. **Tūm paoirīm vərəzya.** Tūm handāraya vā xᵛarəθəm handāzaya, pascaēca narəm zbaia: "Tūm maibya ahmya upa-kərənuyā?"
+3. **Fra-daxšaya, pasca paiti-mara.** Aēvəm gāməm kərənuya. Zastā fra-daxšaya, yaθa taštahe gātum vaēnaite.
+4. **Aēvəm gāməm zrvāne daδāhi.** "Aēvəm paiti-bərəta" frāčō haca "vispa aēte handāraya uta raoŋhe paiti stāraya."
+5. **Duva vərəzō pərəsahi, nōit vispa-pərəsā.** "Kasvi vā spiti vastrā?" frāčō paiti-mrūite haca "Katarəm vərəzəm tūm vāš?"
+6. **Kašvatəməm tūm vərəzya.** Tūm handāzayehi, ahmāi vərəzyeiti. Tūm sūcīm rāzayehi, ahmāi maodəm karšnayeiti.
+7. **Arəθəm ahmāi daδāhi.** "Aēte vastrā māhyehe sūre hanti" vərəzəm arəθavaitīm kərənaoiti.
+8. **Dōiθrīm vaēnāt yezī vāši.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) cašti tyehe aēva vaēniti baδa urvāzištəm bavaiti.
 
-## Activity ideas for the middle stage
+## Š́iiaoθana maidyehe zrvānō
 
-### Useful jobs
+### Vərəzyōtātō dāityō-kərəta
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Vastrā uta snāiti-vastrā handāraya.** Kasvi, pərəθu vastrā frāčō hanti. Tāpta vastrā handārayeiti, frā-stārayeiti uta paiti handārayeiti.
+- **Pāδa-vastrā han-kərənaoiti.** Kamnāi vī-kərəta pāδa-vastrā para-daδāhi. Raoŋhe paiti aēva vi-kərəti hubada hanti.
+- **Tašta an-axtō snayeiti vā huškəm kərənaoiti.** Xᵛarō-āp urvāzišti zastābyō bavaiti. Gātō hušk-kərəti pāδābyō frāčō hanti.
+- **Xᵛarəθō-mīza handāraya.** Aēvəm dāityō-kərətim zrvāne dāha, uta tūm aēvəm dāitīm frā-mərəza.
+- **Xᵛarəθəm kərəte upa-kərənuya.** Alu snayeiti, varəkəm cišyeiti vā taštəm raozayeiti. Tūm kaṟtō uta ātrəm thrayehi.
+- **Vī-snāiti, paršnəm vī-dāra.** Paiti-mīzāi vastrəm, frā-dvare raθmīm daδāhi.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Vaēna [household tasks](/activities/household-tasks/) pouru ahmāi.
 
-### Music and movement
+### Gāθā uta kəhrp-vərəza
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Pouruiiā gāθā srāvaya.** Tūm paoirīm srāvaya; pouru narō ahmya gāθābyō yā dərəgəm xšnūtā hanti ham-zbayente. Vaēna [music activities](/activities/music/).
+- **Fravorəne fra-raqsaite.** Vī-pataiti, zastā snaoiti vā kəhrpəm urvāzaya. Gātō vərəzyeiti hubada hanti.
+- **Vāto-dānəm vī-apa.** Mərəzu pataiti uta gātō haca frāčō grabayeiti.
+- **Ham-pataiti.** Mərəzūm xšnūtəm ham-patara haθra, bāzū-dāra yezī upa-kərənaoiti.
 
-### Pictures and stories
+### Paēsa uta sravā
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Paēsa-putikā vaēna.** Paiti-vaēna fravaoca naēdaṯ pərəsahi: "Vaēna aom vāzəm. Maibya ahmāt srava." Vaēna [reminiscence activities](/activities/reminiscence/).
+- **Pərəsa-kardā dāraya.** [Conversation cards](/games/conversation-cards/) paēsa haθra a-pərəsa paiti-mrūiti daδāiti.
+- **Pouruiiəm dōiθrəm haθra vaēna.** Xšnūtəm dōiθrəm stāra, nōit dūre gātum dāha uta hakarə aipi-stāiti.
 
-### Simple, pressure-free games
+### Frāčā a-kašva ramana
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Paēsa-ham-dāiti paēsa vaēnaiti.** [Picture pairs](/games/picture-pairs/) paēsa a-guzdō dārayeiti, yaθa vaēnāi nōit paitišmarāi bavaiti.
+- **Han-dāiti vaēna.** [Find the same](/games/find-the-same/) aēvəm paēsa uta duva vā caθwārō vī-dāiti fra-daxšayeiti.
+- **Haθra vī-baxša.** [Sort together](/games/sort-together/) yaθa vastrā paiti paēsa-dōiθrəm baxšaiti: ahmya paēsa tūm caša, pasca karandəm.
+- **Paēsa-bingo.** [Picture bingo](/games/picture-bingo/) nmānahe uta han-jamanāi vahištō hanti.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Yezī ramana duš-manō dāiti, aipi-stāra uta aniiō vərəzya. Vaēna [how to play together](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## An-āštātəm šiiaoθanəm kərənaoiti
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+An-āštā vā paitišmarana tanuš arəθəm cašti. Family Caregiver Alliance fra-daxšaiti tyehe narō yō paitišmaranāi darəzəm vī-dārayeiti vāsa arəθavahe cašti. Alzheimer's Association cašti aētam aoji ham-gata š́iiaoθane raoθayeiti, naēdaṯ stārayeiti.
 
-| What you see | Something to offer |
+| Yim tūm vaēnahi | Ahmāi š́iiaoθanəm dāiti |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Mīzəm paršta vā grabayeiti | Nəmra vastra uta mīzəm snayeiti pərəsaiti |
+| Pāδa an-āštō vā pataiti | Gāθā vācā-dāta zastō-snaoiti vā pataiti |
+| Darəzəm vā paiti-dānəm vī-dārayeiti | Vastrā karandō handārayeiti uta vī-baxšaiti |
+| Aēvəm pərəsa paitišmaraiti | Aipi-dāna, pascaēca gāθā vā vərəzō haθra |
+| Pataiti | Haθra ham-pataiti, vā vərəzō tyehe barəte dāiti |
+| Hū-frāšmō-dāitīm an-urvātō | Tušnām xšnūtəm š́iiaoθanəm raoče; vaēna [late-day restlessness](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Yadā aipi-stāra vā tarō-kərənaoiti
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Aipi-stāra yadā šnāiti, duš-manah, arəma vā an-urvāzəm vaēnahi, yaθa an-āštātəm, paiti-cišti, an-arəθəm vā mrūiti "Nōit tuianē." Alzheimer's Association cašti aniiāi zrvāne ayān paiti-vərəzya vā š́iiaoθanəm frāčatəməm kərənuya. Nōit paiti-stāiti aoji. Paiti-mraoca tarsnāt vā kašvatātāt aoi-bavaiti; vaēna [when they say no](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Frā-stāra hubada hanti. Haθra gātum dāraya xᵛarə-āpe haθra hubada hanti. Yadā aojō tarō-bavaiti, aēte vərəzō ahmya [late-stage activities](/activities/late-stage/) vahišta hanti, uta [101 activities](/activities/ideas/) pouru aniiō ahmāi fra-daδāiti.

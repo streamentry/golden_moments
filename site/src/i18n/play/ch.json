@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Taitai fuera",
+      "stopReading": "Basta manaitai",
+      "region": "Huegu",
+      "restart": "Tutuhon ta'lo",
+      "soundOn": "Na'lå'la' i suåbi na sunidu",
+      "soundOff": "Na'påra i suåbi na sunidu",
+      "done": "Esta para på'go",
+      "feedbackQuestion": "Kao manayuda este på'go?",
+      "feedbackYes": "Hunggan",
+      "feedbackNo": "Ti mampus",
+      "feedbackThanks": "Si Yu'os ma'åse' pot i sinangan-miyu."
+    },
+    "tile": {
+      "named": "{name}, kuådro {n}",
+      "hidden": "Månha na litråtu, kuådro {n}",
+      "withState": "{label}, {state}",
+      "matched": "Pares",
+      "selected": "Ma'ayek",
+      "picture": "Litråtu",
+      "photoNumber": "Fotografia {n}"
+    },
+    "pairs": {
+      "allTogether": "Mandanña' todu i pares. Hugando ta'lo pat diskansa håtsa.",
+      "photoPair": "Pares na fotografia, mandanña'.",
+      "picturePair": "Dos na litråtun i {name|lower}, mandanña'.",
+      "selected": "{name}. På'go aligao i parehu-ña.",
+      "mismatch": "Despåsio ha'. Yengyon un litråtu ya un kontinua.",
+      "mismatchNamed": "{a} yan {b}. Despåsio ha'. Yengyon un litråtu ya un kontinua."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Yengyon un litråtu, despues yengyon i parehu-ña.",
+      "guidanceHidden": "Yengyon dos na kuådro ya u falingka. Aligao dos ni pumarehu.",
+      "restart": "Nuebu na litråtu siha",
+      "sizeLegend": "Kuantos na kuådro",
+      "size": {
+        "one": "{n} na kuådro",
+        "other": "{n} na kuådro siha"
+      },
+      "viewLegend": "Håfa para un cho'gue",
+      "viewShowing": "Litråtu siha ni manannok",
+      "viewHidden": "Litråtu siha ni manmånha",
+      "playAgain": "Hugando ta'lo yan nuebu na litråtu siha",
+      "talk": "Kuentusi i litråtu siha huntus"
+    },
+    "choose": {
+      "countLegend": "Kuantos na litråtu",
+      "count": "{n} para u ma'ayek",
+      "thatOne": "Ayu i {name|lower}. Despåsio ha'."
+    },
+    "findTheSame": {
+      "guidance": "Atan i litråtu gi hilo'. Yengyon i pumarehu gi papa'.",
+      "yes": "Hunggan, i pumarehu na {name|lower}.",
+      "next": "Mamaila' na litråtu"
+    },
+    "shadowMatch": {
+      "guidance": "Atan i anunu gi hilo'. Yengyon i litråtu ni lumålåla' ayu.",
+      "yes": "Hunggan, i {name|lower} lumåla' ayu na anunu.",
+      "next": "Mamaila' na anunu",
+      "shadowAlt": "Un anunu para u mapares",
+      "foundAlt": "I anunun i {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Yengyon un litråtu, despues yengyon i kånasta anai para u falågo.",
+      "restart": "Nuebu na litråtu siha",
+      "themeLegend": "Tema",
+      "selected": "{name}. På'go yengyon i kånasta anai debi di u hålom.",
+      "pickFirst": "Fine'nana yengyon un litråtu, despues yengyon un kånasta.",
+      "hint": "Siña i {name|lower} humålom gi \"{basket}\". Yengyon ayu na kånasta para un po'lo.",
+      "placed": "Gaige esta i {name|lower} gi \"{basket}\".",
+      "sorted": "Maresibe todu gi kånasta. Atan i kånasta siha huntus, pat chagi otro na tema.",
+      "basket": {
+        "one": "Kånastan {basket}, {count} litråtu gi sanhalom",
+        "other": "Kånastan {basket}, {count} litråtu siha gi sanhalom"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Yengyon un pidåsu, despues yengyon otro. U satba lugåt.",
+      "restart": "Batbuka ta'lo",
+      "pictureLegend": "Litråtu",
+      "pictures": {
+        "sailboat": "Galaide'",
+        "house": "Guma'",
+        "balloon": "Globu",
+        "sunflower": "Flores yat-sol",
+        "lighthouse": "Fåro",
+        "cat": "Katu"
+      },
+      "sizeLegend": "Pidåsu siha",
+      "size": {
+        "one": "{n} na pidåsu",
+        "other": "{n} na pidåsu siha"
+      },
+      "pickedUp": "Mahaña' i pidåsu. På'go yengyon månu debi di u falågo.",
+      "whole": "Entiro ta'lo i {name|lower}. Ayek otro litråtu maseha ngai'an na malago'-mu.",
+      "swapped": {
+        "one": "Matulaika. Gaige {correct} gi {total} na pidåsu gi maolek na lugåt.",
+        "other": "Matulaika. Manganana' {correct} gi {total} na pidåsu siha gi maolek na lugåt."
+      },
+      "guideAlt": "I entiro na litråtu: {name}",
+      "guideText": "Taiguini kalang-ña i litråtu yanggen entiro.",
+      "piece": "Pidåsu gi {place}",
+      "pieceInPlace": ", gaige gi pròpiu na lugåt",
+      "piecePickedUp": ", mahaña'",
+      "places4": [
+        "sanlagu akague",
+        "sanlagu agapa'",
+        "sanhaya akague",
+        "sanhaya agapa'"
+      ],
+      "places9": [
+        "sanlagu akague",
+        "sanlagu talo'",
+        "sanlagu agapa'",
+        "talo' akague",
+        "talo'",
+        "talo' agapa'",
+        "sanhaya akague",
+        "sanhaya talo'",
+        "sanhaya agapa'"
+      ],
+      "done": "Entiro ta'lo i litråtu. Hugando ta'lo pat diskansa båba.",
+      "playAgain": "Batbuka ta'lo"
+    },
+    "finishTheSaying": {
+      "guidance": "Taitai i sinangan huntus, despues yengyon i palabra ni para u na'funhayan.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Hunggan, \"{start} {end}.\"",
+      "otherEnding": "Kao maolek lokkue' \"{word}\". Lao i kuttumbren sinangan monhayan gi \"{end}\".",
+      "revealed": "I sinangan kumeke'ilek-ña \"{start} {end}.\"",
+      "choicesLabel": "Ayek i uttimo na palabra",
+      "show": "Fannue'i i uttimon-ña",
+      "talk": "Kuentusi este: ",
+      "next": "Mamaila' na sinangan"
+    },
+    "wordSearch": {
+      "guidance": "I palabra siha manmåfana' despatsa pat fannana' gi papa'. Yengyon i fine'nana na letra, despues i uttimo na letra.",
+      "restart": "Nuebu na pasel",
+      "themeLegend": "Tema",
+      "sizeLegend": "Minanggong i kuådro",
+      "size": {
+        "one": "{n} pot {n} ({words} na palabra)",
+        "other": "{n} pot {n} ({words} na palabra siha)"
+      },
+      "print": "Emprenta este na pasel",
+      "letterChosen": "Ma'ayek i letran {letter}. På'go yengyon i uttimo na letran i palabra.",
+      "found": "Masoda' i palabra {word}.",
+      "foundAll": "Masoda' i palabra {word}. Masoda' todu i palabra siha. Hugando ta'lo pat diskansa håtsa.",
+      "tryAgain": "Despåsio ha'. Yengyon i fine'nana na letran un palabra, despues i uttimo na letra.",
+      "gridLabel": "Lålasen letra siha, {n} hilera yan {n} na letra siha. Usa i flecha gi teclao para un ginanahi gi entre i letra siha.",
+      "cell": "{letter}, hilera {row}, kolumna {col}",
+      "cellFound": ", påtte gi masoda' na palabra",
+      "wordsHeading": "Palabra siha para u masoda'",
+      "wordFound": " (masoda')",
+      "sheetTitle": "Inaligao palabra: {theme}",
+      "sheetNote": "I palabra siha manmånana' a'agapa' pat fannana' gi papa'.",
+      "unavailable": "Ti fotmat i lalasen letra para este na lengguåhi, enao mina' tåya' inaligao palabra guini. Chagi i huegun litråtu siha."
+    },
+    "coloring": {
+      "guidance": "Yengyon un kulot, despues yengyon un påtte gi litråtu.",
+      "restart": "Gusgusi todu i kulot siha",
+      "cleared": "Tåya' kulot-ña i påhina ta'lo.",
+      "pageLegend": "Påhina",
+      "print": "Emprenta este na påhina",
+      "colorsLabel": "Kulot siha",
+      "paintChosen": "Ma'ayek {paint}.",
+      "painted": "I {part} kulot {paint|lower} på'go.",
+      "artLabel": "{page}, {count} na påtte para u makulot",
+      "partPainted": "{part}, kulot {paint|lower}",
+      "partBlank": "{part}, trabia ti makulot",
+      "paints": {
+        "red": "Agaga'",
+        "orange": "Kahet",
+        "yellow": "Amariyu",
+        "green": "Betde",
+        "blue": "Asut",
+        "purple": "Morådu",
+        "pink": "Rosa",
+        "brown": "Chukulåti",
+        "sky-blue": "Asut langhet",
+        "cream": "Krima",
+        "gray": "Åpu",
+        "white": "Å'paka'"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Taitai fuera i tåhheta. Tåya' linachi na inepe.",
+      "position": "Tåhheta {n} gi {total}",
+      "themeLegend": "Tema",
+      "next": "Mamaila' na tåhheta",
+      "previous": "Hulog na tåhheta",
+      "print": "Emprenta todu i tåhheta siha",
+      "sheetTitle": "Tåhhetan kuentos"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Tutuhon yan i inayek-mu fotogråfia siha.",
+      "guidance": "Yengyon un fotogråfia, despues yengyon i parehu-ña.",
+      "restart": "Batbuka ta'lo siha",
+      "intro": "**Ayek 2 asta 6 na fotogråfia** ginen este na ramienta. Manmåfannue' ha' gi este na påhina ya ni ngai'an manmayute' pat manmasatba.",
+      "choose": "Ayek fotogråfia siha",
+      "chooseDifferent": "Ayek otro na fotogråfia siha",
+      "clear": "Na'suha fotogråfia siha",
+      "cleared": "Munasuha i fotogråfia siha gi este na påhina.",
+      "atLeastTwo": "Pot fabot ayek mås ki dos na fotogråfia.",
+      "usingFirst": "Mauyusa i fine'nana na {max} na fotogråfia siha.",
+      "skipped": {
+        "one": "{count} na atkibu ti fotogråfia ni siña tafanannok.",
+        "other": "{count} na atkibu siha ti fotogråfia ni siña tafanannok."
+      },
+      "playAgain": "Hugando ta'lo yan este siha na fotogråfia",
+      "empty": "U fanannok i fotogråfia-mu guini, kada unu ddos biåhi."
+    },
+    "pictureBingo": {
+      "guidance": "Emprenta i tåhheta siha fine'nana. Despues na'annok este na tagalo' gi mås dangkulo na pantåya.",
+      "called": {
+        "one": "{name}. {called} gi {total} na litråtu ma'ågang.",
+        "other": "{name}. {called} gi {total} na litråtu siha ma'ågang."
+      },
+      "start": "Yengyon \"Mamaila' na litråtu\" para u ma'ågang i fine'nana.",
+      "restart": "Tutuhon nuebu na huegu",
+      "squaresLegend": "Kuådro siha gi kada tåhheta",
+      "squares": "{n} na kuådro siha ({side} pot {side})",
+      "cardsLegend": "Kuantos na tåhheta para u ma'emprenta",
+      "cards": {
+        "one": "{n} na tåhheta",
+        "other": "{n} na tåhheta siha"
+      },
+      "print": {
+        "one": "Emprenta {n} na tåhhetan bingo",
+        "other": "Emprenta {n} na tåhheta siha para bingo"
+      },
+      "ready": "Listo yanggen preparao hao",
+      "next": "Mamaila' na litråtu",
+      "allCalled": "Todu i litråtu siha esta manma'ågang",
+      "alreadyCalled": "Esta ma'ågang",
+      "sheetTitle": "Bingon litråtu · tåhheta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Håsngot hålom mientras dumadångkolo i redondu, ya håsngot huyong mientras dumidikike'. U påra gi maisa despues di sais na hinåsngot.",
+      "paceLegend": "Kompås",
+      "paceSlow": "Dipåspasio (5 segundos kada bånda)",
+      "paceGentle": "Mames (4 segundos kada bånda)",
+      "ready": "Listo yanggen listo hao",
+      "in": "Håsngot hålom",
+      "hold": "Deskånsa",
+      "out": "Håsngot huyong",
+      "start": "Tutuhon",
+      "stop": "Påra",
+      "started": "Tutuhon. Håsngot hålom mientras dumadångkolo i redondu.",
+      "stopped": "Pumåra.",
+      "finished": "Sais na dipåspasio na hinåsngot ennao. Tutuhon ta'lo maseha ngai'an na malago' hao."
+    }
+  },
+  "pictures": {
+    "teacup": "Tasan cha",
+    "kettle": "Tetera",
+    "bread": "Pan",
+    "frying-pan": "Såtset kon chåda'",
+    "cake": "Kèk kumpliåños",
+    "sunflower": "Flores åtdao",
+    "tulip": "Tulipån agaga'",
+    "watering-can": "Regadot hånom",
+    "potted-plant": "Tinanom gi maseta",
+    "tree": "Trongko",
+    "bird": "Påharu gi ramas",
+    "butterfly": "Ababang",
+    "dog": "Gå'lagu",
+    "cat": "Katu",
+    "fish": "Guihan kulot oru",
+    "apple": "Månsana agaga'",
+    "pear": "Pera",
+    "strawberry": "Fresas",
+    "banana": "Chotda",
+    "lemon": "Limon",
+    "cherries": "Seresas",
+    "house": "Guma'",
+    "lamp": "Kåndit lamasa",
+    "armchair": "Siya",
+    "key": "Llabe biha",
+    "umbrella": "Payu",
+    "sailboat": "Sakman",
+    "car": "Kåreton bihu",
+    "bicycle": "Bisikleta",
+    "balloon": "Balon aire",
+    "lighthouse": "Fåru",
+    "sun": "Åtdao",
+    "moon": "Pilan yan puti'on",
+    "teapot": "Teteran cha",
+    "apple-pie": "Pai månsana",
+    "honey-jar": "Fråsku kon miet",
+    "boiled-egg": "Chåda' gi kopa",
+    "toaster": "Tostadot",
+    "cheese": "Kesu",
+    "milk-jug": "Pitchel letche",
+    "cupcake": "Kèk dikike'",
+    "orange": "Kahet",
+    "grapes": "Ubas",
+    "watermelon": "Kandiha",
+    "pineapple": "Piña",
+    "peach": "Melokoton",
+    "rose": "Rosas",
+    "daisies": "Margaritas",
+    "mushroom": "Payu katu",
+    "wheelbarrow": "Karetan kåne'",
+    "birdhouse": "Guma' påharu",
+    "cactus": "Kaktus gi maseta",
+    "acorn": "Semiyan hayu",
+    "autumn-leaf": "Hågon poddong",
+    "rabbit": "Kunehu",
+    "duck": "Nåtu",
+    "hen": "Klueka",
+    "sheep": "Kinilu",
+    "owl": "Buho",
+    "ladybird": "Mariquita",
+    "snail": "Sali",
+    "frog": "Kårpeta",
+    "bee": "Sasata",
+    "clock": "Relos lamasa",
+    "vase-of-flowers": "Floreru kon flores",
+    "radio": "Radio bihu",
+    "books": "Lepblo siha",
+    "candle": "Kåndila",
+    "glasses": "Ante'ohos tinaitai",
+    "telephone": "Tilifon",
+    "ball-of-wool": "Bolan hilu",
+    "straw-hat": "Tupak åtdao",
+    "train": "Tren guafi",
+    "bus": "Guagua",
+    "airplane": "Batkon aire",
+    "suitcase": "Maleta",
+    "tractor": "Traktot",
+    "rowing-boat": "Boti kon botse",
+    "rainbow": "Isa",
+    "rain-cloud": "Mapu uchan",
+    "snowflake": "Nipi",
+    "kite": "Papaloti",
+    "sunrise": "Hinanom åtdao gi hilo' tano'"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGHIKLMNOPRSTUY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruta",
+          "words": [
+            "LEMAI",
+            "DUGDU",
+            "UBAS",
+            "PERA",
+            "LIMON",
+            "MANGA",
+            "KAHET",
+            "CHOTDA",
+            "PINA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Håtdin",
+          "words": [
+            "FLORES",
+            "ROSAS",
+            "HAGON",
+            "SEMIYA",
+            "ODA",
+            "RAMAS",
+            "OBEHA",
+            "LIRIO",
+            "TRONKO"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kusina",
+          "words": [
+            "TASA",
+            "PLATO",
+            "SATEN",
+            "FOTNO",
+            "KAFE",
+            "KESU",
+            "LECHE",
+            "CHADA",
+            "ASIGA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tiempo",
+          "words": [
+            "ATDAO",
+            "UCHAN",
+            "MANGLO",
+            "MAPU",
+            "PAKYO",
+            "ISA",
+            "RAYU",
+            "KALOR",
+            "HUMET"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Gå'ga'",
+          "words": [
+            "GALAGU",
+            "KATU",
+            "MANOK",
+            "GUIHAN",
+            "NATU",
+            "KABAYU",
+            "BAKA",
+            "CHIBA",
+            "BABUI"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Guma'",
+          "words": [
+            "GUMA",
+            "SIYA",
+            "KAMA",
+            "PETTA",
+            "LAMASA",
+            "RELOS",
+            "LLABE",
+            "KANDIT",
+            "SALA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Todu i tåheta siha",
+        "food": "Nengkanno'",
+        "home": "Guma'",
+        "outdoors": "Sanhiyong",
+        "animals": "Gå'ga' siha",
+        "travel": "Hinanau",
+        "work": "Cho'cho' yan dibision",
+        "music": "Músika yan minagof",
+        "seasons": "Tiempo siha"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Håfa i muna'magof hao na pångot ginen i kusina?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Håfa na klåsin kèk un ayik para un gupot?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Kuentusi yo' put i gof ya-mu na pai fruta pat postre."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Taimanu ya-mu i cha pat i kafe-mu?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Håfa muna'gof mågof i amotsa?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Kao esta un koti fruta direkto ginen i trongko pat i tinanom?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Mames pat måksne': håfa muna'mås ya-mu?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Håfa na nengkanno' muna'håhasso hao put tiempo maipe?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Kuentusi yo' put un guma' na gof ya-mu sumaga."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Månu i gof ya-mu na sågån matå'chong yan deskånsa?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Håfa ya-mu cho'gue gi un silensio na pupuenge?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Håfa na tåson pat güinaha un po'lo gi un espesiåt na kåha?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Håyi un kombida para un tåsan cha?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Håfa ya-mu cho'gue gi un ha'ånen uchan?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Håfa na klåsin flores un tånom gi un håtdin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Kuentusi yo' put un trongko pat påtke na gof ya-mu."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Håfa i mas mågof na patte gi un håtdin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Håfa na kulot flores mas ya-mu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Kao ya-mu mananom flores pat tinanom gi halom guma'?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Taimanu para hågu i maolek na ha'ånen åtdao?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Kuentusi yo' put un gå'lagu na un tungo'."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Katu pat gå'lagu, pat ni håfa? Håfa ya-mu nu siha?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Håfa na påharu siha un li'e' pat un hungok gi sanhiyong?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Kao esta humanao hao peska, pat gina'ga' guihan gi tångke?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Håfa i mas bunitu na gå'ga' un li'e'?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Kuentusi yo' put un kåreton na gof ya-mu."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Mås ya-mu guma'gas un ha'åne gi kåntun tåsi pat gi ekso'?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Månu ya-mu humanao mama'gasi pat pumasehu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Yangkanno' na siña hao manggupu gi hilo' maseha månu na lugåt, månu na bånda un ayik?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Kuentusi yo' put un biahi na gof un gohte minagof."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Håfa na klåsin cho'cho' un gof gosa mancho'gue?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Håfa na dibision na siña un usa meggai na oras guenao?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Håfa un matungo' put fina'tinas pat inadelånta?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Håfa na konsehu un naye un patgon hoben ni tutuhon mancho'cho'?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Håfa na klåsin músika muna'malago' hao bumaila pat kumihat i addeng-mu?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Håfa muna'gof mannge' yan mågof un gupot?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Håyi na kumåkanta ya-mu unekkungok?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Håfa na mubi pat prugråman telebision ya-mu un li'e' ta'lo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Håfa i mas ya-mu put i tiempo maipe?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Håfa ya-mu put i tiempun manpoddong hågon?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Håfa na minagof un cho'gue gi un mangingeng na pupuenge?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Håfa i primet na señåt siha para hågu na humanao i manengheng ya mandokko' i flores?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Niebe, uchan, pat somnak: håfa mas ya-mu?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flores gi maseta",
+          "regions": {
+            "sky": "Fondo",
+            "table": "Lamasa",
+            "stem": "Pakiang",
+            "leaf-left": "Akague na hågon",
+            "leaf-right": "Agbap na hågon",
+            "petal-1": "Petalo 1",
+            "petal-2": "Petalo 2",
+            "petal-3": "Petalo 3",
+            "petal-4": "Petalo 4",
+            "petal-5": "Petalo 5",
+            "petal-6": "Petalo 6",
+            "petal-7": "Petalo 7",
+            "petal-8": "Petalo 8",
+            "center": "Talo' flores",
+            "pot": "Maseta",
+            "pot-rim": "Kånkun maseta"
+          }
+        },
+        "house": {
+          "name": "Guma'",
+          "regions": {
+            "sky": "Langhet",
+            "sun": "Åtdao",
+            "grass": "Chåguan",
+            "chimney": "Chiminia",
+            "walls": "Ligåt",
+            "roof": "Atof",
+            "door": "Petta",
+            "window-left": "Akague na bentåna",
+            "window-right": "Agbap na bentåna",
+            "path": "Chålan"
+          }
+        },
+        "teacup": {
+          "name": "Tasan cha",
+          "regions": {
+            "background": "Fondo",
+            "saucer": "Platito",
+            "handle": "Kåne'",
+            "cup": "Tasa",
+            "band": "Raya gi tasa",
+            "tea": "Cha"
+          }
+        },
+        "butterfly": {
+          "name": "Ababang",
+          "regions": {
+            "background": "Fondo",
+            "wing-top-left": "Sanpalo akague na papapa",
+            "wing-top-right": "Sanpalo agbap na papapa",
+            "wing-bottom-left": "Sanpapa' akague na papapa",
+            "wing-bottom-right": "Sanpapa' agbap na papapa",
+            "spot-left": "Mancha gi akague na papapa",
+            "spot-right": "Mancha gi agbap na papapa",
+            "body": "Tataotao"
+          }
+        },
+        "sailboat": {
+          "name": "Sakman",
+          "regions": {
+            "sky": "Langhet",
+            "sea": "Tåsi",
+            "sail-big": "Dångkolo na layak",
+            "sail-small": "Dikike' na layak",
+            "mast": "Palu",
+            "hull": "Boti",
+            "flag": "Bandera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kusina yan håtdin",
+          "baskets": [
+            "Gi kusina",
+            "Gi huetto"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fruta yan gå'ga'",
+          "baskets": [
+            "Fruta",
+            "Gå'ga'"
+          ]
+        },
+        "home-travel": {
+          "label": "Guma' yan biahi",
+          "baskets": [
+            "Gi guma'",
+            "Gi sanhiyong"
+          ]
+        }
+      }
+    }
+  }
+}

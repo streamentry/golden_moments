@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Amuy sarparayatanakataki anqan huerta lurañanaka"
+seoTitle: "Huerta Lurañanaka Amuy Sarparayatanakataki"
+description: "Amuy sarparayata jaqinakataki huerta anqan lurañ amtanaka: patat kallinaka, lupita jark'aqasiña, ukhamaraki jan chhaqhañataki amtayirinaka."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Huerta yapuchaña anqan utjañasa amuy sarparayata jach'a jaqitakix sumakiwa,
+  uñt'ata lurañarakiwa. Uma warxataña, macetan qullanak yapuchaña, phanchatanak
+  pantaña jan ukax jark'at uta anqan jisk'a sarnaqaña yant'asmawa. Patat
+  kallinaka jan ukax mesanak apnaqañawa jan killpt'asiñataki, k'ullphunakatsa
+  veneno yapunakatsa jithiqtañawa, thaya pachana mistuña, ukatx jupan
+  jak'apankapuniñawa.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Huertan jisk'a lurañanaka, sañäni uma churaña, jatha satantaña, qulla mukhiña, panqara pallasiñasa, sayt'ata jan ukax qunt'ata lurasispa."
+  - "Patat kallinaka, macetanaka ukat qhant'at mesanaka apisiñax huertaru taykaru puriyi, ukhamat tinquñanak jark'i."
+  - "Aris lurañanakata, chhapinakat jan ukax qarwayir yapunakat jithiqtañawa. Ukhamaraki uraqi jan manq'amp mayjt'ayañataki uñjañawa."
+  - "Lupixa jach'a jaqinakataki sinti ch'amaspawa. Alwata jan ukax jayp'uta mistuñawa, uma ch'iwimp apasiña, ukat jan walikiski ukhax utaru kutt'añawa."
+  - "Walja amuy sarparayata jaqinakawa sarnaqasa chhaqharayapxi. Anqankasax jupan jak'apankapunim, jichha fotopampi sutip qillqatampi apasim."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "¿Kawkïr huerta lurañanaksa amuy sarparayata jaqix luraspa?"
+    a: "Ali umaxaña, jisk'a macetanakaru jatha sataña, qullanaka mukhiña llamkt'aña, waña panqaranak pantaña, achunak palliña, panqaranak wakichaña, thaki pichthapiñasa wali askiwa. Uta manqhankasax, ventana jak'an jisk'a macetampi jan ukax mesxaru uraqimpi trayamp lurañax walikiskiwa. Nayra kusist'awipata jichha suma lurañjamapata lurañanak ajllt'añawa."
+  - q: "¿Kunjamatsa lupin amuy sarparayata jaqirux sum uñjasispa?"
+    a: "Anqaru mistuñatakix alwa thayanakaru jan ukax jayp'uru amtañawa, jisk'a pachaki mistuña, ukatx sapa kuti uma churañawa. Ch'iwiru qunt'aña, jach'a sombreroni, phisna isimpi ukhamaraki protector solarni. Jach'a jaqinakatakix lupix usuchiyaspawa; p'iqi muyuñas, llamp'u amuyu jan ukax karpañ amuyatax uñacht'ayiriwa, ukham uñjasax utaru kutt'asa thayt'ayañawa."
+  - q: "¿Kunjamatsa anqaru mistuspa jaqitix chhaqhaña munaspa ukhaxa?"
+    a: "Jupan jak'apankapunim, jark'at uta anqana jan ukax llavintat punkuni huertana katuñawa, sutipani brazaletenïspa jan ukax carnet apasispawa. Jichhaki apsut fotop amparankaniñapawa. Jaqitix chhaqhasispa ukhaxa, Alzheimer's Association tuqitx 15 minutot jan jikxatatax 110 ukar jawsasiñapawa sapxiwa."
+  - q: "¿Janitix huertaniykstanjja, kamachsnasa?"
+    a: "Punku jak'an mä qawqha macetanaka, ventana kantun macetanaka, jan ukax manq'a mesa patan qullanakampis walikiskiwa. Ukhamaraki parquiru, markan huertaparu jan ukax ayllun huertaparu sarsna. Anqan qunt'asis jamach'inak ist'añasa anqa pachan lurañarakiwa."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Walja jaqinakatakixa, huertax wali uñt'at cheqapuniwa. Allsuña, uma churaña, panqara palliñanakaxa nayratpach yatiqatanakawa, ukatx anqankanixa phisna thaya, lupi ukat jamach'inakan q'uchupaw juti. National Institute on Aging tuqinkiwinakaxa, ali uñjaña, panqaranak verduras yapuchaña, ukat [kunjamas yapunakax jili ukxat parlt'asiña](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ukanakax Alzheimer usuni jaqinakan kusist'awipäspawa sasaw yatiyi. Aka pankanxa kawkïrinakas yant'asispa, kunjamsa huerta jasakaptaysna, ukat lupitsa chhaqhañatsa kunjamsa jark'aqassna ukaw qhanañchasi.
 
-## What outdoor and gardening activities work well?
+## ¿Kawkïr anqan huerta lurañanakasa wali askixa?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Aski lurañanakax jisk'akiwa, uñt'atarakiwa, sayt'ata jan ukax qunt'ata lurasispa. Nayrax jupan kusist'awipatakjam ajllt'añawa.
 
-### In the garden
+### Huertana
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Uma churaña.** Mä jisk'a phisna regaderampi jan ukax llamp'u mangwerampi, jak'an jisk'a macetanakaru. Uma churañax qalltani tukuyanirakiwa, janiw pantjasiñakiti.
+2. **Macetanakaru jatha sataña.** Alzheimer's Foundation of America tuqinkirinakax jisk'a macetanakaru jatha sataña ukat [kunjamas jilapxi uk uñch'ukiña](https://alzfdn.org/dementia-activity-gardening/) amtayapxi. Jach'a jathanaka, sañäni jawasa, inti panqara jan ukax arwisa, llamkt'añax juk'amp jasakiwa.
+3. **Waña panqaranak pantaña.** Amparampiki waña panqaranak apsuña llamp'u kutikuti lurañawa. Chhapinakani jan utjir yapunak ajlliñawa.
+4. **Verduranak jan ukax qullanak palliña.** Jisk'a tomatenaka, ch'uxña jawasanaka, qulla yapunakas palliñax jasakiwa, manq'añasa wali sumawa. Almursuru apantañatakix utaru apañawa.
+5. **Qullanak mukhiña llamkt'añasa.** Romero, menta ukat lavandax q'apkir sumapuniwa. Mä laphit luk'ananakamamp qhuyt'asin juparu katuyañawa.
+6. **Thaki jan ukax patio pichiña.** Phisna pichañampi paqall patan waña uraqiru pichiña, sum sayt'asiñjamächi ukhaxa.
+7. **Jamach'in manq'a churaña.** Ukatx mayacht'ata qunt'asis khitinakas jutapxi uk uñch'ukiñawa.
 
-### Indoors, when going out is not possible
+### Uta manqhana, anqaru jan mistuñjamäki ukhaxa
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Ventana jak'an qulla huerta**, albahaca, perejil jan ukax chives ukanakampi.
+- **Qhant'at mesaxaru macetan luraña.** AFA tuqinkirinakax bandeja apnaqañ amtayapxi uraq jan jalsuyañataki, ukat jisk'a vasitunakamp uraq katuyañataki.
+- **Panqaranak suma katuyaña**, anqat apanit jan ukax alwirat alata panqaranakampi laphanakampi.
+- **Panqaranak ch'iwt'ata**, qhipat tarjetas ukar lip'katayañataki. Juk'amp yatxatañatakix [amparamp lurañanaka](/activities/arts-and-crafts/) uñxatt'am.
+- **Lavanda jan ukax rosas bolsitanak luraña**, AFA tuqit yaqha amtäwiwa huertan sum q'apoxpach uta manqharu katuyañataki.
 
-### Getting out and about
+### Anqaru saraña sarnaqañasa
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Jisk'a sarnaqawi**, uta muyta, parquiru jan ukax yapu alir cheqaru, k'achata sarnaqasa qunt'asiñani cheqaru.
+- **Anqan qunt'asiña**, puyu patan jan ukax bancopi jamach'inak ist'añataki thaya jikxatañataki. Akhama qunt'asiñax wali suma lurañarakiwa.
+- **Markan huertaparu tumpiri saraña**, jani sinti jaqin pachanxa. NHS yatiyiwa yaqhip cheqanakanx huertas sensoriales ukaniwa, q'apkir yapunakani, llamkt'añani ukat umampi kusist'añanaka.
+- **Patonakaru manq'a churaña jan ukax jamach'inakar uñch'ukiña** qotanxaru, uman cantupat sum jithiqtata.
 
-## How do I make a garden easier to use?
+## ¿Kunjamatsa huertax juk'amp jasaki lurañjamaptayaspa?
 
-Bring the garden up to the person, not the other way around.
+Huertaru jaqin jak'aparu apaniñawa, janiw juparux huerta aynacht'ayañakiti.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Patat kallinaka jan ukax sayt'at macetanaka**, tayka chakan purt'ata, ukhamat jani killpt'asiñasa k'umuñasa wakiskiti.
+- **Mesxaru macetanaka uskuña**, rueda sillani jaqinakataki jan ukax qunt'asiña munirinakatakix walikiskiwa.
+- **Jach'a, paqall thakinaka**, jan jalnaqir qalampi jan ukax katxart'at mangwerampi, ukhamat jan t'ijt'añataki.
+- **Ampar katuñani qunt'añanaka ukat ch'iwimpi**, thakhin utjañapawa samart'asiñataki.
+- **Llamp'u, jach'a katuñani herramientas**, sum amparampi katuñjamawa. Tijeras, kuchillonaka jan ukax k'ullphunaka janiw uskuñakiti.
+- **Jark'at uraqi llavintat punkuni**, jaqix anqan sarnaqaspa, jumax jak'apankapunisina.
 
-## Which plants should I avoid?
+## ¿Kawkïr yapunakatjja jithiqtañasa?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Llamkt'añatakis manq'añatakis jan walt'ayir yapunak ajlliñawa. AFA tuqinkirinakax janchir jan qarwayir yapunak apnaqañ amtayapxi, alirjiyanaka uñjaña, ukat uraq jan manq'amp mayjt'ayañapataki sum uñch'ukiñawa. NIA tuqit utankir aski amuyunaka katuqasaxa veneno yapunak apsuñawa jan ukax llavintañawa.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Chhapini rosas, sank'ayunaka (cactos), ukat janchir qarwayir lichiñ yapunakat jithiqtañawa.
+- Jan uñt'at yapunakxat qullañ utampi jan ukax yapuchirinakampi jiskt'asiñawa satañ nayraqata.
+- Uñt'at munat yapunakaxa suma amuyunaka kutt'ayaspawa. AFA tuqinkirinakax rosas ukat cactus de Navidad ukanakat parliwa. Chhapiniskir jan utjir ajlliñawa.
+- Abonos, pesticidas ukat qura qullayirinak llavintata imañawa, ukat janiw jupan purit cheqanakan apnaqañakiti.
 
-## How do I stay safe in the heat and sun?
+## ¿Kunjamatsa lupitsa junt'utsa jark'aqassna?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Pachan thayanakapatjam anqaru mistuñ amtañawa. NIA qhanañchiwa, jach'a jaqinakatakix [lupi usunakax](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) sinti ch'amaspawa, janchi junt'ump thapimpi jan aski mayjt'ayaspati ukat yaqhip qullanakas jan waliruw aptayaraki.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Alwata jan ukax jayp'uta mistuña.** Junt'u phaxsinakanx chika urut jithiqtañawa. Lupit indice uñxattañawa, janiw termómetro sapaki uñjañakiti.
+- **Sapa kuti uma churaña.** Janiw pharjatax sasipana suyatäkiti. Lupinx alcoholsa cafésa janiw churañakiti.
+- **Aski isimpi isthapt'aña.** Janq'u jan ukax phisna colorani isi, allpi isi, jach'a sombreroni ukat lentes de sol apnaqañawa.
+- **Protector solar apnaqaña.** NIA tuqinkirinakax SPF 15 jan ukax juk'amp jach'ani apnaqañ amtayapxi, urump kutin lip'katayañataki.
+- **Ch'iwir quntaña.** Mesa yapuchañatakixa mä quqa manqharu jan ukax sombrillan manqhaparu uskuñawa.
+- **Jisk'a pachaki anqankasiña.** Jisk'a tiempoki mistuña walikiskiwa, juk'ampis junt'u urunakanxa.
+- **Jan wali uñacht'ayirinak uñjaña.** NIA tuqixa p'iqi usu, amuy t'aqhi, p'iqi muyu jan ukax karpañ amuyat lupi usutap yatiyi. Amuy sarparayata jach'a jaqixa janiw usuw saspati, ukata ajanupsa lurañanakapsa sum uñch'ukiñawa. Utaru mantasin thayt'ayañawa umampi ukat thaya trapitumpi, jan usukiptasiri ukhaxa qullañ utaruw jawsasiñawa. Golpe de calor, sañäni tiñquña, amuy mayjt'awi, jan ukax waña ch'uqi janchi uñstaspa ukhax sinti jan wali usüwa: 110 ukar jawsasim.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Thaya pachasa uñjañarakiwa. Jallu pachan jan ukax juyphi pachanxa, anqan jisk'a pachaki sarnaqañawa, amparanakamp kayunakampis junt'u waña katuña.
 
-## How do I handle wandering when we go outside?
+## ¿Kunjamatsa anqaru mistusax chhaqhaña jark'aqassna?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Anqankapxani ukhaxa jupan jak'apankapunim. Alzheimer's Association yatiyiwa [tunkat suxta amuy sarparayata jaqinaka](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) mä kutis sarnaqasa chhaqhapxiwa, waljanirakiw mayampsa sarapxaraki. Kuna etapas lurasispawa.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA tuqinkirinakan [chhaqhañat sarnaqañat amtayirinakapaxa](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) akanakawa:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Jaqixa sutipa, utapa ukat telefonoma qillqatan brazalete apasispawa, jan ukax isipxaruw qillqt'añawa.
+- Jupan jichha fotop jan ukax videop imañawa.
+- Jak'an utjirinakar yatiyañawa jaqix sarnaqasax chhaqhasispawa sasa.
+- Uta anqaru sum pirqampi jark'aña, punku llavintata katuña.
+- Nayrax sarnaqasa chhaqhir jaqirux janiw sapak jaytañakiti.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association tuqinkirinakax uta manqhansa anqansa sum jark'at cheqanak sarnaqañataki wakichañ amtayaraki, ukhamaraki jayp'u kutin jan amuyaniñ pachan lurañanak amtañataki. Jark'at huertana sarnaqañax jayp'u llamp'u amuyu t'aqhisiñataki wali askispawa. Jiwasan [jayp'u llamp'u amuyu panka](/caregiving/late-day-restlessness/) uñxatt'am.
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Jaqitix chhaqhasispa ukhaxa, Alzheimer's Association jak'an jank'aki thaqhaña amti, ukat 15 minutot jan jikxatasispa ukhax 110 ukar jawsasiñawa. Policíaru yatiyam jupax amuy sarparayatawa sasa.
 
-## How do I adapt gardening as things change?
+## ¿Kunjamatsa mayjt'awinakatjam huerta lurañanak wakichasna?
 
-| If this has become hard | Try this instead |
+| Aka lurañax ch'amäxi ukhaxa | Aka lurañ yant'am |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Taqpach kallir yapuchaña | Mä jathampi mä macetaru sataña |
+| Qura apsuña (qura alit uñt'aña) | Uma churaña, jan ukax waña panqaranak pantaña |
+| Huertan muytas sarnaqaña | Mesxaru qunt'asiña uraq trayampi ukat alimpi |
+| Anqaru mistuña | Manq'a mesa patan mä maceta qulla, jan ukax ventana jak'an qunt'asiña |
+| Kuna lurañas ch'amawa | Anqan mayacht'at qunt'asiña, ist'asa uñch'ukisa |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Yaqhip jaqinakax jumax lurañam uñch'ukiñaki munapxi. NIA yatiyiwa jaqir uñch'ukiyañaki jaytañax walikiskiwa jupatix uk munchi ukhaxa.
 
-## When should we head inside?
+## ¿Kunapch'isa utaru mantxañasa?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Jaqix qaritäkipan, junt'uchasipan, thayjasipan, llakitakipan jan ukax tukuyxañ munasipana utaru mantxañawa. Tunka suma minuto lurañax juk'amp askiwa sinti pacha t'aqhisisa tukuyata sipanxa. Jank'aki tukusiñax wali askiwa.
 
-## Bring the garden indoors on screen
+## Huertaru pantallamp uta manqharu apaniña
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Jallu urunakanxa, [Sort Together](/games/sort-together/) ukanx huerta canastaniwa fotonak ajllt'añataki, ukat [Conversation Cards](/games/conversation-cards/) ukanx aruskipäwinak qalltañ amtanakaniwa huertat parlt'añataki. Lupit t'ijt'asa mantasaxa, [Calm Breathing](/games/calm-breathing/) k'achata amuyamp samart'añ churistam. Llamkt'awi, mukhiwi ukat ist'awit juk'amp amtanakatakixa, jiwasan [sensory activities guide](/activities/sensory/) uñxatt'am.

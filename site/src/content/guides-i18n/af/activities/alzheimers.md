@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Aktiwiteite en speletjies vir mense met Alzheimer"
+seoTitle: "Alzheimer-aktiwiteite en speletjies: Idees per stadium"
+description: "Aktiwiteite en speletjies vir mense met Alzheimer in elke stadium, gebaseer op vaardighede wat dikwels bly, met gratis speletjies om saam te speel."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Goeie aktiwiteite vir iemand met Alzheimer bou voort op dit wat die langste
+  bly: vaardighede wat lank gelede ingeoefen is, ou liedjies, bekende take en
+  die sintuie. Vroeg in die siekte werk kaarte, bordspeletjies, kook en
+  uitstappies dikwels nog goed. In die middelfase kan 'n mens probeer om wasgoed
+  te vou, dinge te sorteer, te sing, na fotoalbums te kyk en eenvoudige
+  prentspeletjies te speel. Laat in die siekte maak musiek, aanraking en
+  geselskap die meeste saak. Pas aan by hoe die persoon vandag voel.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer se siekte is die algemeenste oorsaak van demensie, so idees vir demensie-aktiwiteite geld ook hier."
+  - "Nuwe inligting is gewoonlik eerste die moeilikste, terwyl vaardighede en liedjies van lank gelede dikwels langer bly. Bou daarop voort."
+  - "Stadiums oorvleuel en goeie en moeilike dae is normaal. Kies volgens wat die persoon vandag kan doen en geniet."
+  - "Kies speletjies sonder 'n tydtoets, puntetelling of vrae, en laat prente sigbaar bly."
+  - "Om net te kyk, iets vas te hou of eenvoudig saam te sit, tel alles as deelname."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Watter aktiwiteite is goed vir iemand met Alzheimer?"
+    a: "Bekende aktiwiteite wat effens eenvoudiger gemaak is: wasgoed vou, tafeldek, saam kosmaak, musiek en sing, na foto's kyk, stap, tuinmaak en tyd saam met 'n troeteldier. Eenvoudige prentspeletjies, maklike legkaarte en gesprekkaartjies werk ook vir baie mense. Kies dinge wat die persoon nog altyd geniet het en doen dit saam met hulle."
+  - q: "Is speletjies goed vir mense met Alzheimer?"
+    a: "Speletjies kan 'n aangename manier wees om tyd saam deur te bring as die persoon dit geniet. Geen speletjie het al gewys dat dit Alzheimer behandel, vertraag of stop nie, so kies speletjies vir die genot: groot prente, min keuses, en geen tydtoets, puntetelling of klanke vir verkeerde antwoorde nie."
+  - q: "Is daar 'n verskil tussen demensie-aktiwiteite en Alzheimer-aktiwiteite?"
+    a: "Grootliks nie. Alzheimer se siekte is die algemeenste oorsaak van demensie, en dieselfde aktiwiteitsidees is van toepassing. Wat help met Alzheimer, is om te weet dat onlangse herinneringe gewoonlik eerste vervaag, sodat aktiwiteite wat op ouer vaardighede, liedjies en roetines steun, dikwels makliker verloop."
+  - q: "Wat kan iemand in die laat stadium van Alzheimer nog geniet?"
+    a: "Gunstelingmusiek, 'n sagte handmassering, sagte voorwerpe om vas te hou, om na iemand te luister wat voorlees, buite sit, en die geselskap van iemand wat hulle vertrou. Hou dit kort en rustig, en let op hul gesig en lyftaal om te sien wat hulle geniet."
+  - q: "Hoe kry ek iemand met Alzheimer geïnteresseerd in 'n aktiwiteit?"
+    a: "Vra vir hulp eerder as om 'n aktiwiteit aan te kondig, pak alles vooraf reg, en begin self daarmee sodat hulle kan aansluit. Om 'n tyd van die dag te kies wanneer hulle op hul beste is, maak 'n groot verskil. As hulle nee sê, probeer later weer of bied 'n kleiner weergawe aan."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+As iemand vir wie jy lief is Alzheimer het, het jy waarskynlik al opgemerk dat sommige dinge vinnig vervaag terwyl ander behoue bly. Hulle vergeet dalk van vanoggend se telefoonoproep, maar sing steeds elke woord van 'n gesang, vou 'n handdoek presies soos altyd, of deel kaarte uit sonder om te dink. Goeie aktiwiteite bou voort op daardie vaardighede wat bly. Hierdie bladsy verduidelik hoekom, en gee dan idees vir elke stadium asook die gratis speletjies op hierdie webwerf wat daarby pas.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Verskil Alzheimer van demensie wanneer dit by aktiwiteite kom?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Nie regtig nie. Demensie is die oorkoepelende term, en Alzheimer se siekte is die algemeenste oorsaak daarvan: die [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) sê dit maak 60 tot 80 persent van alle demensiegevalle uit. Byna alles wat oor aktiwiteite vir demensie geskryf is, geld ook vir Alzheimer, insluitend ons [101 aktiwiteitsidees](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Wat nuttig is om te weet, is die gewone verloop van verandering. Die [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) verduidelik dat Alzheimer eers die dele van die brein beskadig wat by geheue betrokke is, en later taal, redenering en sosiale gedrag beïnvloed. Die Alzheimer's Association sê die algemeenste vroeë simptoom is probleme om nuwe inligting te onthou. Almal is verskillend, en baie mense het gemengde oorsake, maar hierdie patroon wys wat geneig is om te werk.
 
-## What kinds of activities suit Alzheimer's best?
+## Watter tipe aktiwiteite pas die beste by Alzheimer?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Aktiwiteite wat staatmaak op ou, bekende kennis verloop gewoonlik baie gladder as dinge waar iets nuuts geleer en onthou moet word.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Vaardighede wat lank gelede aangeleer is.** Die Alzheimer's Association merk op dat 'n persoon dalk steeds eenvoudige liedjies kan speel wat jare gelede op die klavier geleer is. Breiwerk, hout skuur, kaarte skommel, deeg knie en wasgoed vou werk op dieselfde manier.
+- **Ou liedjies en bekende musiek.** Baie mense ken steeds elke woord van liedjies uit hul tiener- en twintigjare, geestelike liedere en die musiek van hul troue. Sien [musiekaktiwiteite](/activities/music/).
+- **Alledaagse take met 'n doel.** Die [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) noem skottelgoedwas, tafeldek, sokkies sorteer en wasgoed vou onder die aktiwiteite wat mense dalk kan geniet. Om nuttig te voel maak saak.
+- **Herkenning eerder as herroeping.** Om na die bypassende prentjie te wys, is makliker as om dit uit die geheue te benoem. Daarom werk prentspeletjies waar alles sigbaar bly beter as vasvrae.
+- **Die sintuie.** Tekstuur, geur, warmte, smaak en klank bly betekenisvol lank nadat woorde moeilik word. Sien [sintuiglike aktiwiteite](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Wat geneig is om minder goed te gaan: enigiets met 'n tydtoets, nuwe reëls om te leer, baie stappe om te onthou, of vrae wat die geheue toets, soos "Onthou jy wie dit is?" Dit plaas die moeilike deel van Alzheimer reg voorop.
 
-## Activities for early-stage Alzheimer's
+## Aktiwiteite vir die vroeë stadium van Alzheimer
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+In die vroeë stadium sê die [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) dat 'n persoon dalk steeds kan bestuur, werk en aan sosiale aktiwiteite kan deelneem, terwyl hulle geheueverliese opmerk soos om bekende woorde te vergeet of waar dinge lê. Die beste benadering is vennootskap: vra wat hulle graag wil aanhou doen en watter hulp hulle wil hê.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Gaan voort met bestaande stokperdjies.** Gholf, brug, kwiltwerk, koor en kerkgroepe, met klein aanpassings soos kleiner groepe en stiller tye.
+2. **Speel bekende kaart- en bordspeletjies.** Die [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lys vasvrae, woordsoekers, kaartspeletjies en bordspeletjies vir die vroeë stadium. Speel as 'n span as die telling begin pla, of los die telling heeltemal uit.
+3. **Kook saam.** Laat hulle 'n resep maak wat hulle uit hul kop ken terwyl jy help om die stappe te lees.
+4. **Begin 'n lewensverhaal-projek.** Foto's, resepte en stories in 'n plakboek onder hulle leiding. Sien [herinneringsaktiwiteite](/activities/reminiscence/).
+5. **Gaan op uitstappies.** 'n Gunstelingrestaurant op 'n stil tyd, 'n museum vir 'n kort besoek, 'n wandeling in die park.
+6. **Probeer legkaarte en raaisels wat hulle self kies.** Blokkiesraaisels met groot druk, woordsoekers en legkaarte. Sien [raaisels vir demensie](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Nog idees: [aktiwiteite vir die vroeë stadium](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Aktiwiteite vir die middelfase van Alzheimer
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Die Alzheimer's Association beskryf die middelfase as gewoonlik die langste stadium, en sê dit kan baie jare duur. Woorde raak deurmekaar, frustrasie ontstaan makliker, en die persoon het meer sorg nodig. Die Alzheimer's Foundation of America voeg by dat baie mense hulp nodig het om aktiwiteite te begin of daarmee voort te gaan. Jou rol verskuif daarna om dinge reg te sit, eerder te wys as om te verduidelik, en die moeiliker dele oor te neem.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Vou, sorteer en pas bymekaar.** Handdoeke, sokkies, eetgerei, knope volgens kleur. Werklike take, sy aan sy gedoen.
+2. **Sing en beweeg op musiek.** Klap hande, wieg of dans in die kombuis. Begin self sing en laat hulle inval.
+3. **Blaai deur fotoalbums.** Beskryf wat jy sien en nooi stories uit: "Kyk net daardie kar. Vertel my daarvan." Gaan saam met watter name hulle ook al gebruik.
+4. **Speel eenvoudige prentspeletjies.** [Prentpare](/games/picture-pairs/) met vier tot ses teëls en prente wat oop bly lê, of [Soek dieselfde](/games/find-the-same/) met twee of drie keuses.
+5. **Voltooi bekende gesegdes.** "'n Appel 'n dag hou die..." Gesegdes wat lank gelede geleer is, kom dikwels vanself. Probeer [Voltooi die gesegde](/games/finish-the-saying/), waar jy enige einde met een tik kan wys.
+6. **Gee plante water en versorg hulle.** Binnehuise potplante of 'n verhoogde bedding, met 'n klein gietertjie.
+7. **Maak 'n pasmaatspeletjie van familiefoto's.** [Fotopare](/games/photo-pairs/) gebruik foto's wat jy op jou toestel kies, en hulle verlaat dit nooit nie.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Nog idees: [aktiwiteite vir die middelfase](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Aktiwiteite vir die laat stadium van Alzheimer
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+In die laat stadium sê die Alzheimer's Association dat mense die vermoë verloor om op hul omgewing te reageer en 'n gesprek te voer, hoewel hulle dalk steeds woorde of frases kan sê. Aktiwiteit beteken nou vertroosting en verbintenis, gebring na waar die persoon ook al rus.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Speel hul gunstelingmusiek** sagkens, sonder dat die televisie meeding.
+2. **Gee 'n handmassering** met 'n room waarvan hulle die geur geniet.
+3. **Bied sagte voorwerpe om vas te hou:** 'n warm kombers, sagte vag, of 'n gladde klip.
+4. **Lees hardop voor** uit die psalms, gedigte of 'n bekende verhaal. Die ritme maak meer saak as die betekenis.
+5. **Sit buite** in die skaduwee, of by 'n venster waar daar voëls is om dop te hou.
+6. **Kyk saam na een groot prent.** 'n Sonneblom of 'n hond wat 'n tablet se skerm vul, terwyl jy vertel wat jy sien.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Nog idees: [aktiwiteite vir die laat stadium](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Watter speletjies werk vir iemand met Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Kies speletjies waar 'n mens nie kan misluk nie. Elke speletjie op hierdie webwerf is gratis, werk in 'n webblaaier en het geen tydtoets, puntetelling of registrasie nie.
 
-| Game | What you do | Often suits |
+| Speletjie | Wat jy doen | Dikwels geskik vir |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Prentpare](/games/picture-pairs/) | Pas groot prente bymekaar; hulle kan oop bly lê | Vroeë en middelfase |
+| [Soek dieselfde](/games/find-the-same/) | Tik op die prent wat pas by die een boaan | Middel- en laat stadium, met hulp |
+| [Voltooi die gesegde](/games/finish-the-saying/) | Kies die laaste woord van 'n bekende sêding, of wys dit | Vroeë en middelfase |
+| [Prentlegkaart](/games/picture-puzzle/) | Ruil 4 of 9 stukke terug op hul plek, met die prent sigbaar | Vroeë en middelfase |
+| [Gesprekkaartjies](/games/conversation-cards/) | 'n Prent en 'n oop vraag om oor te gesels | Enige stadium, saam met iemand om mee te praat |
+| [Fotopare](/games/photo-pairs/) | 'n Pasmaatspeletjie gemaak van jou eie foto's | Vroeë en middelfase |
+| [Inkleur](/games/coloring/) | Tik op 'n kleur, dan op 'n deel van die prent; of druk dit uit | Enige stadium, met hulp |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Vir raad oor hoe om saam te sit, hoeveel om te help en wanneer om op te hou, lees [hoe om speletjies saam met iemand met demensie te speel](/caregiving/how-to-play-together/). As jy wonder oor "geheuespeletjies", kyk na [geheuespeletjies vir bejaardes met demensie](/activities/memory-games/).
 
-## How to make any activity easier
+## Hoe om enige aktiwiteit makliker te maak
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Die NIA se raad kom neer op 'n paar gewoontes: pas die aktiwiteit aan by wat die persoon kan doen, help hulle aan die gang kom, wees op die uitkyk vir frustrasie, maak seker hulle voel suksesvol, en laat hulle bloot kyk as dit is wat hulle geniet.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Kies die tyd van die dag wanneer hulle op hul beste is,** en hou sessies kort.
+- **Pak alles vooraf reg** sodat julle dadelik kan begin.
+- **Nooi uit, moenie opdragte gee nie.** "Kan jy my gou help?" werk beter as "Tyd vir 'n aktiwiteit."
+- **Doen die eerste stap self** en laat hulle inval.
+- **Bied een stap en een keuse op 'n slag aan.**
+- **Laat dit op hulle manier gedoen word.** Handdoeke wat skeef gevou is, maak glad nie saak nie.
+- **Hou op terwyl dit nog aangenaam is.** Om vroeg op te hou is 'n goeie uitkoms, nie 'n mislukking nie. As hulle weier, kyk na [wanneer iemand met demensie nee sê](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) stel dit eenvoudig: fokus op genot, nie op prestasie nie.

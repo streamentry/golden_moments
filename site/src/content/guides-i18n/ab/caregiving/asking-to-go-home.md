@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Адеменциа змау ауаҩы ҩныҟа ицора анаҭаху"
+seoTitle: "Адеменциа змау ҩныҟа дцарц анҭаху: иҳәатәу"
+description: "Избан адеменциа змау ҩныҟа дшыҟоугьы ҩныҟа дцарц зыҭаху, иҳәатәу, имариоу аусқәа, насгьы димцарц ашәарҭадара шьақәырӷәӷәатәу."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Адеменциа змау ауаҩы ҩныҟа дцарц канҭахуа, «аҩны» ҳәа анаҳәо аҩны аҭыӡқәа ракәӡом изызхәыцуа, ашәарҭадареи аҭынчреи ма аԥсҭазаара аԥхьатәи аамҭақәа ракәзар ҟалоит. ҩныҟа дшыҟоу аимак маҷамырҭын. Ицәанырра дицҵа, ашәарҭадара дшало иҳәа, иҩны аӡбахә иазҵаа, анаҿ асахьақәа, амузика, ачара, амҩахәасра ма имариоу аусқәа уиаҵәа. Иагозар амла, аӡы, атуалет ма ахьаа гәаҭа. Уи ӷәӷәала иалабжьазҭгьы, аҳаким иахь шьҭахьа.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Сара сҩныҟа сцарц сҭахуп» иаанаго еснагь адрескәа ракәӡом, «аҭынчра ма ашәарҭадара сымаӡам» ҳәа ауп."
+  - "ҩныҟа дшыҟоу уимакизар, игәаҟра еиҳа иӷәӷәахар ҟалоит. Иажәақәа ракәымкәа, ицәанырра уаҿлымҳазааит."
+  - "Иҩны аӡбахә уиҳәарц уаҳәа, анаҿ асахьақәа, амузика, аӡы, амҩахәасра ма имариоу аусқәа урыдигала."
+  - "Ириашатәу аганахьала гәаҭа: амлакра, аӡҭахара, атуалет, ахьаа, аԥхарра ма ахьҭа, ашара, ауадаҩра."
+  - "Ахәылбысхара еснагь акәзар, уи ахәылбысхатә ҭынчмызроуп; аиԥшылоу рафик акала аԥшаара еиӷьхоит."
+  - "Дцарц иҽаниазҵәо ашәарҭадара ухылаԥш, ицәырҵуа аиҭакра ӷәӷәақәа раан аҳаким диҳәа."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Избан адеменциа змау сан ҩныҟа дшыҟоугьы ҩныҟа дцарц заҭаху?"
+    a: "Адеменциа иахҟьаны аҩны уадақәа бзиаӡаны иахьидыруаз ҿыц ицәырҵуа ҟалоит, убасгьы уаҩы дихәыцуазар ҟалоит аԥсҭазаара еиҳа ираԥхьатәи аамҭаҿ дшыҟоу. «Аҩны» иаанагозар ҟалоит ихәыҷра аҩны ма шәарҭадарала аҟазаара ацәанырра. Даншыҟоу аилкаара аасҭа, ицәанырра иаҭаартәа уҿцәажәар еиӷьуп."
+  - q: "Иҳәатәузеи ҩныҟа дцарц аниҳәо?"
+    a: "Ус аҳәара шәалшоит: «Ара шәарҭадара умоуп, сара уцны сахьыҟоуп», нас: «Уҩны аӡбахә суҳәа». Изыӡырҩ, асахьа ма ашәа дидгала, аӡы диржә ма имаҷны шәахәас. «Уахьыҟоу уҩны ауп» ҳәа уириашар машәыршәа, иуҳәа иаҵанакуеит уи ииашамзаршәа."
+  - q: "«Анаҿ ҳацоит» ҳәа аҳәара ҟалома?"
+    a: "Аҭаацәеи адеменциа аганахьала аспециалистцәеи ари аиԥшымкәа иазнеиуеит. Раԥхьа ииашоу аҭынчреи егьырҭ аусқәа рахь аиагареи хадароуп, аха уи иаҭаху аамҭақәа раан маҷк амҵҳәара ахархәара ҟалоит, аиаша агәаҟра еиҳа иацумырзар. Шәалырхуа иаҳәашьа еснагь патуқәҵарала иҟазароуп, ауаҩы идунеихәаԥшышьа шәаламшәашаит."
+  - q: "Аҩны аҟынтәи дцозар иҟаҵатәузеи?"
+    a: "Шәгәы шәырҭынч, димԥыжәакәа дицны шәца; имаҷны шәцын шәхәасар уи иҽаниазҵәо дҭынчхар алшоит. Аԥхьаҟа ашәарҭадара азхәыц: ахьӡ зну абирка, ашә аҿы асигнал, асахьа ҿыц. Диӡзар, уажәнатә шәиԥшаара шәалаге, минут 15 рыҩнуҵҟа шәимбазар 112 шәаси, ауаҩы адеменциа шимоу шәҳәа."
+  - q: "Аҳаким дзысԥхьатәузеи?"
+    a: "Ари аҭахра ма аилкаамра ӷәӷәала ицәырҵзар ма сааҭқәак рыҩнуҵҟа еиҳа ихьанҭахар, аҳаким иахь дылга, еиҳарак аԥхарра ахьыҟоу, ахәшә ҿыцқәа анырҭо ма ахшара ацәырҵра асимптомқәа аныҟоу. Ӷәӷәала ицәырҵуа аилкаамра делириум акәзар ҟалоит, уи цхыраара иаҭахуп. Ашәарҭара ҟазар, иаразнак 112 шәаси."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +62,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Сара сҩныҟа сцарц сҭахуп.» Аҭаацәарақәа рацәа рзы ари аҳаракырақәа рахьтә иуадаҩӡоу ак ауп, еиҳарак ухаҭа изхылаԥшуа ауаҩы ихаҭа иҩны дтәаны даныҟоу. Ари адеменциа анҵыра асахьа амоуп, шамахамзар иарбан ეტапызгьы ицәырҵыр алшоит, уи аҭынчреи аҭакрақәеи рыла аҭак аҭара шәылшоит. Ари адаҟьа иаҳнарбоит урҭ ажәақәа ирыбжьу, шәиҳәаша, уажәнатә еиӷьхар алшо ахәмаррақәа, насгьы ашәарҭадара шьақәырӷәӷәаша.
 
-## Why does someone with dementia keep asking to go home?
+## Избан адеменциа змау ауаҩы ҩныҟа дцарц зыҭаху?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Еиҳарак «аҩны» ҳәа анаҳәо аҭыԥ аасҭа ацәанырра ауп. Alzheimer's Society ари аҭынчреи ашәарҭадареи рцәанырра ҳәа иазнеиуеит, ма аԥсҭазаара аԥхьатәи аамҭақәа рахьтә аҩны. Адеменциа иахҟьаны аҩны уадақәа бзиаӡаны иахьидыруаз ҿыц ицәырҵуа ҟалоит, насгьы уаҩы дихәыцуазар ҟалоит ихәыҷра аҩны дшыҟоу ма ихәыҷқәа данреиҳабжьаз аамҭаҿ.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Убасгьы урҭ ажәақәа уажәи аамҭазы даҽакы шыҟоу удырбор алшоит: амлакра, аӡҭахара, атуалет аҭахра, ахьаа, аԥхарра ма ахьҭа, ауадаҩра, ма ашара ацәанырра. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) аҭынчмызра зыхҟьо ирыԥхьаӡоит ахьаа, ашара, ахәшәқәа рыԥсахра, насгьы агәрарцара.
 
-## What should I say when they ask to go home?
+## Иҳәатәузеи ҩныҟа дцарц аниҳәо?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Иажәақәа ракәымкәа, ицәанырра уаҿлымҳазааит. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) агәра гаара шаԥырҵо аадырԥшуеит: ицәанырра ииашоуп, убри аҟынтә раԥхьа аҭынчреи ашәарҭадареи днарга, анаҿ егьырҭ аусқәа рахь шәиага.
 
-Phrases that often help:
+Ацхыраара зҭо ажәақәа:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Ацәанырра ахьӡ аҭара.** «Уҩны уахәыцуа иҟоушәа убоит.»
+- **Агәраргара.** «Ара шәарҭадара умоуп, сара уцны сахьыҟоуп.» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) имариоу ажәақәа уҳәарц шәаднагалоит: «Ара шәарҭадара умоуп.»
+- **Агәалашәарақәа рахь аԥхьара.** «Уҩны аӡбахә суҳәа. Уҩны аҩныҵҟа ишԥаҟаз?» Аԥхьатәи аамҭақәа рӡбахә агара еиҳа иманшәалоуп иахьатәи амш аасҭа.
+- **Ацҵара алабжьара.** «Раԥхьа ачаи ҳажәыр ҳхәасит», ма «Ари ахылԥақәа рыҭыхраҿ усыцхраама?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Шьҭахьтәи абыжь бзиеи анапахьы аҵакра маҷки, дирхәозҭгьы, ажәақәа раасҭа еиҳа иҵабыргуп.
 
-## What should I avoid?
+## Иҟаҵатәымзеи?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Аимак ма аиҿцәажәара.** «Уара ара унхоит» ма «Ара 40 шықәса унхоит» аҳәара адеменциа змау ауаҩы иадыркыларц ауадаҩра ду иаҭахуп, уи ииашамзаршәа данырбоит.
+- **Азҵаарақәа рыҭара.** «Иугәалашәоума?» ма «Адрес шәазеи?» ҳәа аҳәара ахьанҭара ацнарҵоит.
+- **Ашә аҿы аԥыжәара.** Дцарц иҽаниазҵәо, шәгәы шәырҭынч, дицны шәхәас. Аицхәасра маҷ уи иҽаниазҵәо дҭынчхар алшоит.
+- **Агәырӷьра.** Уҩны аӡбахә уиҳәарц аамҭа иҭа, анаҿ атема шәыԥсах.
 
-## Activities that can help in the moment
+## Уажәи аамҭазы ицхырааша аусқәа
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Ацәанырра шәабалак ашьҭахь, аҭынч, еицырдыруа аусқәа агәраргара аԥсахуеит.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Аҭаацәеи аҩни рсахьақәа рахь ахәаԥшра.** Адаҟьақәа шәарԥа, акомментариқәа ҟашәҵа («Ари абахча гәаҭа»), азҵаарақәа маҷ шәҭа. Асмартфон ма планшет аҿы, [Photo pairs](/games/photo-pairs/) шәхаҭа шәҭаацәа рсахьақәа рла ахәмарра шәаднагалоит, асахьақәагьы шәгәы иҭынчны шәтелефон аҿы инхоит.
+2. **Аҩны аӡбахә ацәажәара.** [Conversation cards](/games/conversation-cards/) аҩны, агуманитарра, агәылацәа, абайрамқәа рганахьала азҵаарақәа амоуп, ииашоу аҭакқәа дара-дара иаҭахӡам.
+3. **Бзиа иибо амузика аҿакра.** National Institute on Aging аҭынч амузика агәаҟра аԥырхадара иалшо акакәны иаанарԥшуеит. Шәахәаԥш ҳ-[music activities](/activities/music/).
+4. **Аӡы ма афатә маҷк аҭара.** Амлакреи аӡҭахареи аҭынчмызра иеиԥшхар ҟалоит. Ачаи ма бзиа иибо афатә аҩны аҭынчра ацәанырра иацуп.
+5. **Амҩахәасра ма амраҿы аҭгылара.** Аныҟәареи алашареи ацхыраара ҟанаҵоит, еиҳарак аҽны.
+6. **Еицырдыруа аус иҭара.** Амаҭәа аиҵарҳәара, аԥсақәа ргәаҭара ма ашәҭқәа ӡы рыҭара аҩны ахадара ацәанырра еиҭа рзаанарԥшыр ҟалоит.
+7. **Зегьы аҭынчра.** Ателевизор шәаҿых, ашареи аԥхарреи шәырмаҷ, насгьы аицҭынчразы [calm breathing](/games/calm-breathing/) шәахәаԥш.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Акы шәҽазышәшәар имцазар, ашьҭахь даҽакы шәҽазышәшәа. Аҭынч аицтәарагьы алҵшәа бзиоуп.
 
-## Check for a cause you can fix
+## Ириашатәу аганахьала агәаҭара
 
-| Check | What to try |
+| Агәаҭара | Иҟаҵатәу |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Амлакра ма аӡҭахара | Аӡи афатә маҷки шәиҭа |
+| Атуалет аҭахра | Атуалет шәиага, аҭынчрала, аимадарақәа рыда |
+| Ахьаа ма агәаҟра | Ихы дамыхьӡозар, ахәҭақәа дрыкәшозар, аҳаким иҳәа |
+| Аԥхарра ду ма ахьҭа | Амаҭәа ԥсах ма ауада атемпература иашаҵа |
+| Ашара ма ауаа рацәара | Иҭынчу ауадахь шәиага, ателевизор шәаҿых |
+| Ауадаҩра ма аԥхасҭа | Аԥсшьара, ауада маҷк алашара аҵакра, амузика |
+| Ахәылбысхара | Ахәылбысхатә ҭынчмызра ахәҭа шәахәаԥш |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society аамҭақәа ргәаҭара шәаднагалоит: афара аԥхьа, асасцәа ршьҭахь ма ахәылбысха. Ари аԥхьаҟа шәпланқәа еиҳа ириашоит.
 
-## Is it okay to tell a white lie?
+## Маҷк амҵҳәара ҟалома?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Ари аиҿцәажәара дууп, аҭаацәарақәагьы иара аиԥшымкәа иазнеиуеит. Alzheimer's Society иҳәоит акзаатәи аҭак шыҟам: амҵҳәара ауаҩы игуманитарра еиҳа иԥырхазар ҟалоит, убри аҟынтә ауаҩы изы зегь раасҭа еиӷьу шәхәыц. Penn Memory Center аҿы аҳакимцәа ирыԥхьаӡоит аиаша хадароуп, аха маҷк амҵҳәара аҭынчра иахьаҵанакуа аамҭақәа раан ауп иахьахәҭоу, ауаҩы идунеихәаԥшышьагьы шәаламшәашаит.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Аҭаацәа рацәа агәҭатәи амҩа иалхуеит: ииашоу аҭынчреи егьырҭ аусқәа рахь аиагареи («Иахьа ара ҳаанхоит, сара уцны сахьыҟоуп»), аҩны ахьыҟоу аимак маҷамырҭын.
 
-## What if it happens every afternoon or evening?
+## Ахәылбысхара еснагь иҟалозар иҟаҵатәузеи?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Ахәылбысхара аҭынчмызра еиҳа иӷәӷәахар sundowning ҳәа иашьҭоуп. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) аиԥшылоу рафик, амра ашара, амҩахәасра, ахәылбысха аԥсшьара маҷкра, кофеи алкоголи аҟәыхра аларҵоит. Лашара аҿакрагьы ацхыраара ҟанаҵоит. Ҳ-[calm late-afternoon activities](/caregiving/late-day-restlessness/) аҿы еиҳа рацәаны иҟоуп.
 
-## Keeping them safe if they try to leave
+## Димцарц ашәарҭадара шьақәырӷәӷәатәу
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+ҩныҟа дцарц аниҳәо диӡыр ҟалоит. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) аҳәарала, адеменциа змау ауаа 10 рахьтә 6 диӡуеит шамахамзар знык.
 
-**Prepare ahead:**
+**Аԥхьаҟа шәазыхиазар:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Ихьӡи шәтелефон номери зну абирка ма абраслет, амаҭәа аҿы апаспорт. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) апрограммақәа ирылацәажәоит.
+- Ашә аҿы асигнал, шәырҭадара аԥсахрақәа. Ауаҩы ихала данҭарку дшәымцын.
+- Асахьа ҿыц, насгьы дцар алшо аҭыԥқәа рсиа.
+- Агәра зго агәылацәа шәырҳәа, шәтелефон шәырҭа.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Диӡзар:** иаразнак аԥшаара шәалаге; Alzheimer's Association иаҳнарбоит ауаа рацәа 1.5 миль (2.4 км) рыҩнуҵҟа шырԥшаауа. Минут 15 рыҩнуҵҟа шәимбазар, 112 шәаси, ауаҩы адеменциа шимоу шәҳәа. Ашәарҭара ду ҟазар, иаразнак 112 шәаси.
 
-## When should I call a doctor?
+## Аҳаким дзысԥхьатәузеи?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Ари аҭахра ма аилкаамра ӷәӷәала ицәырҵзар ма сааҭқәак рыҩнуҵҟа еиҳа ихьанҭахар, аҳаким иахь дылга. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) иҳәоит ӷәӷәала ицәырҵуа аҭагылазаашьа, еиҳарак аинфекциа ма ахәшә ҿыцқәа рышьҭахь, иаразнак гәаҭароуп ҳәа. Ӷәӷәала ицәырҵуа аилкаамра делириум акәзар ҟалоит, [NHS](https://www.nhs.uk/symptoms/confusion/) ишаҳнарбо ала уи цхыраара иаҭахуп; ахшаратә инфекциақәа еиҳа ихьанҭоу сентиаҿ ицәырҵуеит.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Убасгьы аҳаким диԥылара аан аҭынчмызра асиа аадырԥшыр бзиоуп, ахьаа, агәкаҳара, ацәара ауадаҩрақәа ма ахәшәқәа рахьтә ицәырҵуа агәаҟрақәа рҿы.
