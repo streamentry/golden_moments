@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Pari de imaji",
+    "seoTitle": "Ludo di asociar por dementio: Pari de imaji",
+    "h1": "Pari de imaji: dola ludo di asociar",
+    "description": "Senkosta, dola ludo di asociar por personi vivanta kun dementio. Granda imaji restas videbla, ne existas temporizilo o punti, e vu selektas inter 4 e 12 plaki.",
+    "short": "Trovez la du imaji qui esas la sama. La imaji povas restar videbla.",
+    "players": "1 o 2 personi, flanko che flanko",
+    "intro": "Tushez imajo, pose tushez ta qua esas la sama. La imaji restas videbla kustumale, do nulo devas esar memorata. Kande du imaji konkordas, li recevas orea bordo e kontrol-marko.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Selektez quante multa plaki vu deziras uzar. Quar plaki esas trankila komenco.",
+      "Tushez irga imajo. Ol recevas orea bordo.",
+      "Tushez la imajo qua esas la sama. La paro restas kune kun kontrol-marko.",
+      "Se la du imaji esas diferanta, nulo mala eventas. Tushez itere kande vu esas pronta.",
+      "Aktivez \"Celita imaji\" nur se vi amba prizas la klasika versiono kun imaji inversigita."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Nomez la imaji laute kune e konversez pri li: \"Reda te-taso. Ka vu drinkas teo kun lakto?\"",
+      "Permisez a la persono quan vu flegas tushar la imaji, mem se to prenas kelka tempo. Monstrez per fingro vice tushar por lu.",
+      "Restez kun quar plaki tante longe kam to semblas agreabla. Plura plaki esas selekto, nultempe nivelo atingenda.",
+      "Finez dum ke ol esas ankore agreabla. Un ludo esas ja kompleta agado."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ka existas temporizilo o punti?",
+        "a": "No. Ne existas horlojo, punti, movo-kontilo o perdar. Vu povas haltigar la ludo irgakande, e haltar meze de ol esas tute bona fasono por finar."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Pro quo la imaji restas videbla?",
+        "a": "Mantenar la imaji videbla transformas la ludo aden regardar ed asociar, vice memorar. Multa personi trovas to plu trankiliga. Vu povas chanjar a celita imaji per un sola tusho se vu preferas."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ka ol esas senkosta, e ka me mustas enrejistrar me?",
+        "a": "Yes, ol esas senkosta, e ne existas konto, enrejistrado o deskargo. Ol funcionas en la ret-navigilo sur telefonilo, tabuleto o komputoro."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Ka ni povas uzar nia propra familiala fotografuri?",
+        "a": "Yes. Probez Fotografala pari, qua permisas a vu selektar fotografuri de vua aparato. La fotografuri restas en vua ret-navigilo e ne esas sendata a la reto."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Trovez la sama",
+    "seoTitle": "Trovez la sama imajo: simpla ludo por dementio",
+    "h1": "Trovez la sama imajo",
+    "description": "Un imajo supre, du til quar infre. Tushez ta qua esas la sama. Trankila, senkosta imajala ludo por personi vivanta kun dementio, sen temporizilo.",
+    "short": "Regardez la imajo supre e tushez la sama infre.",
+    "players": "1 o 2 personi",
+    "intro": "Unika imajo trovesas supre sur la skreno. Infre ol esas du, tri o quar imaji. Tushez ta qua esas la sama. Esas un simpla selekto ye foyo, kun ampla spaco por konversar.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Selektez du, tri o quar imaji kom selektebli. Du esas la maxim simpla.",
+      "Regardez la imajo supre kune.",
+      "Tushez la sama imajo infre. Ol esas markizita per kontrol-marko e kelka afabla vorti.",
+      "Se diferanta imajo esas tushata, la ludo simple nomas ol ed atendas. Prenez vua tempo.",
+      "Tushez \"Sequanta imajo\" kande vu esas pronta por sequanta."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Konversez pri singla imajo ante selektar: kolori, formi, e ube on povus vidar ol.",
+      "Du selekti ne esas \"tro facila\". La skopo esas agreabla momento, ne defio.",
+      "Se tushar esas desfacila, la persono povas monstrar per fingro e vu povas tushar por lu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ka existas temporizilo o punti?",
+        "a": "No. Ne existas horlojo, punti, movo-kontilo o perdar. Vu povas haltigar la ludo irgakande, e haltar meze de ol esas tute bona fasono por finar."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Quo eventas se ne-korekta imajo esas tushata?",
+        "a": "Nulo malagreabla. Ne existas zumilo, reda kruco o sukusado. La ludo nomas la imajo qua esis tushata ed atendas la sequanta tusho."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ka ol esas senkosta, e ka me mustas enrejistrar me?",
+        "a": "Yes, ol esas senkosta, e ne existas konto, enrejistrado o deskargo. Ol funcionas en la ret-navigilo sur telefonilo, tabuleto o komputoro."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Ombro-asocio",
+    "seoTitle": "Ludo di asociar ombri por dementio: senkosta enrete",
+    "h1": "Ombro-asocio: dola imajala ludo",
+    "description": "Obskura ombro supre, du til quar imaji infre. Tushez la imajo qua kreas la ombro. Senkosta, trankila ludo di asociar ombri por dementio, sen temporizilo.",
+    "short": "Regardez la ombro e tushez la imajo qua kreas ol.",
+    "players": "1 o 2 personi",
+    "intro": "Asociar ombri esas konocata agado de imprimita labor-folii, hike kun granda imaji e nulo imprimenda. Dola ombro trovesas supre sur la skreno e du, tri o quar imaji atendas infre. Tushez ta qua kreas la ombro. Formi quale biciklo, parapluvo o te-taso esas anke facila por konversar pri li.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Selektez du, tri o quar imaji kom selektebli. Du esas la maxim simpla.",
+      "Regardez la ombro kune. Quala formo ol havas? Ka ol esas alta o ronda?",
+      "Tushez la imajo qua kreas la ombro. Olua nomo aparas sub la ombro.",
+      "Se diferanta imajo esas tushata, la ludo simple nomas ol ed atendas. Prenez vua tempo.",
+      "Tushez \"Sequanta ombro\" kande vu esas pronta por sequanta."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Spurez la konturo dil ombro per fingro e konversez pri la formo.",
+      "Se ombri semblas desfacila cadie, chanjez a Trovez la sama, ube la imaji esas simila.",
+      "Konversez pri la imajo kande ol trovesas: \"Ni havis tala parapluvo.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ka existas temporizilo o punti?",
+        "a": "No. Ne existas horlojo, punti, movo-kontilo o perdar. Vu povas haltigar la ludo irgakande, e haltar meze de ol esas tute bona fasono por finar."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Ka parigar ombri esas bona por personi vivanta kun dementio?",
+        "a": "Olu povas esar agreabla e simpla agado por kelka personi, precipue en la plu frua standi. Formi esas plu facile rikonocebla kam vorti. Olu esas por plezuro e konversado, ne kom exameno, ed olu ne kuracas o lentigas dementio. Se olu produktas frustraciono, probez Trovez la sama o simple regardez imaji kune."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Quo eventas se on tushetas la neyusta imajo?",
+        "a": "Nulo desagreabla. Ne existas bruisilo, reda kruco o sukeso. La ludo nomizas la imajo tushetita ed vartas la sequanta tusheto."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ka lo esas gratuita, e ka me mustas registragar me?",
+        "a": "Yes, olu esas gratuita, e ne existas konto, registrago o deskargado. Olu funcionas en la ret-navigilo sur telefono, tabuleto o komputoro."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Klasigar kune",
+    "seoTitle": "Klasigo-Ludo por Dementio: Klasigar Kune",
+    "h1": "Klasigar Kune: Agado por Klasigar Imaji",
+    "description": "Tushetez imajo, pose tushetez la korbo a qua olu apartenas: koqueyo o gardeno, frukti o bruti. Trankvila e gratuita klasigo-agado por personi vivanta kun dementio.",
+    "short": "Metez singla imajo aden sua korbo: koqueyo o gardeno, ed altraji.",
+    "players": "1 o 2 personi",
+    "intro": "Klasigar esas familiara e kontentiganta omnadiala tasko, quale ordinar nutrivi o parigar kalzi. Tushetez imajo, pose tushetez la korbo a qua olu apartenas. Ne existas hasto e ne existas erora voyo.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Selektez temo: koqueyo e gardeno, frukti ed animali, o hemo e voyajo.",
+      "Tushetez imajo. Olu recevas orea bordo.",
+      "Tushetez la korbo a qua olu apartenas. La imajo moveskas aden ta korbo.",
+      "Se olu apartenas a la altra korbo, la ludo dicas to afable ed vartas.",
+      "Kande singla imajo esas klasigita, regardez tra la korbi kune."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "En la reala vivo ofte ne existas nekorekta respondi. Se ulu dicas ke arozilo apartenas a la koqueyo, demandez pro quo. Vu forsan audos bona rakonto.",
+      "Uzez la imaji kom instigo: \"Quon vu plantacis en vua gardeno?\"",
+      "Klasigar reala objekti, quale kulieroj e forketi o butoni segun koloro, esas ecelanta sequanta agado for la skreno."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ka existas tempizilo o puntaro?",
+        "a": "No. Ne existas horlojo, puntaro, movo-kontilo o perdado. Vu povas cesar en irga momento, e cesar mezvoye esas perfekte bona maniero finar."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Pro quo klasigar?",
+        "a": "Multa personi prizas klasigar pro ke olu semblas utila e familiara laboro. Esas anke facila parolar pri la imaji dum ke vu progresas."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ka lo esas gratuita, e ka me mustas registragar me?",
+        "a": "Yes, olu esas gratuita, e ne existas konto, registrago o deskargado. Olu funcionas en la ret-navigilo sur telefono, tabuleto o komputoro."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Imajo-puzlo",
+    "seoTitle": "Facila Puzlo por Dementio: 4 o 9 Peci",
+    "h1": "Imajo-Puzlo: Facila Puzlo",
+    "description": "Facila retala puzlo por personi vivanta kun dementio: 4 o 9 granda peci, la tota imajo restas videbla, e vu tushetas du peci por kambiar lia plaso.",
+    "short": "Tushetez du peci por kambiar lia plaso til ke la imajo esas integra.",
+    "players": "1 o 2 personi",
+    "intro": "Agrabla imajo esas tranchita aden quar o non granda peci e mixita. La tota imajo restas videbla kom guidilo. Tushetez un peco, pose altra, e li kambia sua plasi. Tirado ne esas bezonata.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Selektez imajo e 4 o 9 peci. Quar peci esas dolca komenco.",
+      "Regardez la tota imajo ye la suprajo.",
+      "Tushetez peco, pose tushetez la plaso ube olu debas irar. La du peci kambia sua plasi.",
+      "Peci en la yusta plaso recevas mikra marko di korekteso.",
+      "Kande la imajo esas integra, goyigez pri olu kune, pose selektez altra."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Tushetar du peci por kambiar lia plaso esas multe plu facila kam tirar por multa personi.",
+      "Parolez pri la imajo dum ke olu asembleskas: \"Yen la reda tekto.\"",
+      "Reala ligna puzlo kun 12 til 24 granda peci esas anke charmiva tablo-agado."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ka existas tempizilo o puntaro?",
+        "a": "No. Ne existas horlojo, puntaro, movo-kontilo o perdado. Vu povas cesar en irga momento, e cesar mezvoye esas perfekte bona maniero finar."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Ka me mustas tirar la peci?",
+        "a": "No. Tushetez un peco, pose tushetez altra, e li kambia sua plasi. To esas plu facila por tremanta manuo o sur mikra skreno."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ka lo esas gratuita, e ka me mustas registragar me?",
+        "a": "Yes, olu esas gratuita, e ne existas konto, registrago o deskargado. Olu funcionas en la ret-navigilo sur telefono, tabuleto o komputoro."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Finez la dicajo",
+    "seoTitle": "Finez la Dicajo: Proverbo-Ludo por Seniori",
+    "h1": "Finez la Dicajo",
+    "description": "Familiara dicaji kun la lasta vorto mankanta, quale \"Un moneto sparata esas un moneto ___\". Tushetez selekto o montrez la fino, pose parolez pri olu.",
+    "short": "Kompletez familiara dicaji kune, pose parolez pri li.",
+    "players": "1, 2 o grupo",
+    "intro": "Anciena dicaji esas ofte konocata dum tota vivo. Singla karto montras familiara dicajo kun la lasta vorto mankanta, tri selekti, e butono \"Montrez la fino\". Pos la fino, afabla questiono invitas a konversado.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Lektez la dicajo laute kune.",
+      "Tushetez la vorto qua finas olu, o tushetez \"Montrez la fino\".",
+      "Lektez la tota dicajo itere e parolez pri olu uzante la instigo.",
+      "Tushetez \"Sequanta dicajo\" kande vu esas pronta."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lektez lente e lastez pauzo ante la lasta vorto. Ofte personi dicas olu ante ke vu finas.",
+      "Se ulu donas diferanta fino, goyigez pri to. Kelka versioni di dicaji varias segun familio o regiono.",
+      "En grupo, un persono lektas ed omni unionas su por la fino."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ka existas tempizilo o puntaro?",
+        "a": "No. Ne existas horlojo, punti, movo-kontilo nek perdero. Vu povas haltar en irga momento, e haltar duavoye esas perfekte bona maniero finar."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Quo se ni selektas diferanta vorto?",
+        "a": "La ludo montras la kustumala fino e duras a konversado. Ne existas punti, e diferanta respondo esas tote bona."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ka lo esas senpaga, e ka me bezonas enrejistrar me?",
+        "a": "Yes, lo esas senpaga, e ne existas konto, enrejistro nek deskargo. Lo funcionas en la ret-navigilo per telefonilo, tabuleto o komputoro."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Vorto-serchado kun granda literi",
+    "seoTitle": "Vorto-serchado kun granda literi por personi kun demenco, imprimabla",
+    "h1": "Vorto-serchado kun granda literi",
+    "description": "Senpaga vorto-serchado kun granda literi por olduli e personi vivanta kun demenco. Poka vorti, granda literi, vorti nur horizontale e vertikale. Ludez enrete o primez.",
+    "short": "Granda literi, poka vorti, nur horizontale e vertikale. Imprimez ol anke.",
+    "players": "1 o 2 personi",
+    "intro": "Mikra greto kun granda literi e nur poka vorti, omni lektebla horizontale o vertikale. Frapetez la unesma litero di vorto, pose lua lasta litero. Ka vu preferas papero? Imprimez nova puzlo per un sola frapeto.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Selektez temo e greto-dimensiono.",
+      "Regardez la listo de vorti. Vorti lektesas horizontale (de sinistre a dextre) o vertikale (de supre a infre).",
+      "Frapetez la unesma litero di vorto, pose frapetez lua lasta litero.",
+      "Trovita vorto reliefigesas e kancelesas de la listo.",
+      "Frapetez «Imprimez ca puzlo» por ludar sur papero per krayono o felto-stilo."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Indikez vorto en la listo e serchez kune lua unesma litero.",
+      "Sur papero, reliefigilo esas plu facile tenebla kam krayono.",
+      "Konversez pri la tema vorti. Vorti pri frukti esas naturala voyo a memori pri koliado, fornobakado o merkati."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ka existas tempizilo o punti?",
+        "a": "No. Ne existas horlojo, punti, movo-kontilo nek perdero. Vu povas haltar en irga momento, e haltar duavoye esas perfekte bona maniero finar."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ka me povas imprimar la vorto-serchado?",
+        "a": "Yes. Frapetez «Imprimez ca puzlo» por imprimar la nuna greto per granda literi, kun la listo de vorti sube. Singla nova puzlo esas diferanta."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ka lo esas senpaga, e ka me bezonas enrejistrar me?",
+        "a": "Yes, lo esas senpaga, e ne existas konto, enrejistro nek deskargo. Lo funcionas en la ret-navigilo per telefonilo, tabuleto o komputoro."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Kolorigala pagini",
+    "seoTitle": "Kolorigala pagini por adulti kun demenco (senpaga)",
+    "h1": "Kolorigala pagini",
+    "description": "Simpla kolorigala pagini por adulti kun granda spaci: frapetez koloro, pose frapetez la imajo. Nula desordino, nula erora kolori, e singla pagino povas imprimesar senpage.",
+    "short": "Frapetez koloro, pose parto di la imajo. Imprimez anke pagini.",
+    "players": "1 o 2 personi",
+    "intro": "Pagini kun granda, simpla formi: floro en vazo, domo, te-taso, papiliono e seglobato. Frapetez koloro, pose frapetez parto di la imajo por plunigar ol. Ne existas erora kolori.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Selektez pagino.",
+      "Frapetez koloro. Singla koloro havas sua nomo skribita sur ol.",
+      "Frapetez parto di la imajo por plunigar ol per ta koloro.",
+      "Chanjez vua opino en irga momento per itere plunigar ol.",
+      "Frapetez «Imprimez ca pagino» por blanka pagino kolorigebla per krayoni o felto-stili."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Ofertez du kolori por selektar vice la tota ensemblo, se selektar semblas tro desfacila.",
+      "Purpuroza arbori e blua suni esas bonvenanta. Co koncernas juar la koloro, ne la exakteso.",
+      "Imprimita pagini funcionas bone kun dika felto-stili o pasteli, qui esas plu facile kaptebla."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ka existas tempizilo o punti?",
+        "a": "No. Ne existas horlojo, punti, movo-kontilo nek perdero. Vu povas haltar en irga momento, e haltar duavoye esas perfekte bona maniero finar."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Ka ca pagini esas tro infantala?",
+        "a": "Ni desegnis trankvila, simpla objekti vice desegnita filmeto-figuri, do la pagini konvenas ad adulti. Granda formi mantenas la kolorigo facila sen igar ol infantala."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ka lo esas senpaga, e ka me bezonas enrejistrar me?",
+        "a": "Yes, lo esas senpaga, e ne existas konto, enrejistro nek deskargo. Lo funcionas en la ret-navigilo per telefonilo, tabuleto o komputoro."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Konversala karti",
+    "seoTitle": "Konverso-komencili por personi kun demenco: Imajo-karti",
+    "h1": "Konversala karti",
+    "description": "Imajo-karti kun dolca konverso-komencili por personi vivanta kun demenco: nula inquesto, nula justa respondi. Uzez sur skreno o primez la tota ensemblo.",
+    "short": "Imajo-karti kun aperta, dolca questioni. Nula inquesto.",
+    "players": "2 personi o grupo",
+    "intro": "Singla karto parigas familiara imajo kun aperta invito a konversar, quale «Kala esas vua preferata vetero?» Ne existas justa respondi e nulo por memorar. Selektez temo o permutez omni.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Selektez temo, o mantenez «Omna karti».",
+      "Lektez la questiono laute e regardez la imajo kune.",
+      "Ascoltez, partigez vua propra respondo, e lasez la konverso libere fluar.",
+      "Frapetez «Sequanta karto» kande vu esas pronta, o restez che un karto tam longe kam vu deziras.",
+      "Frapetez «Imprimez omna karti» por talyar papera ensemblo."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Respondez anke vu ipsa a la questiono. To sentesas kom konversado, ne kom interviuvo.",
+      "Sequez la rakonto, ne la fakti. Se detali chanjas, to esas tote bona.",
+      "Se karto tushas ulo trista, agnoskez la sentimento e dolce pasirez ad altra karto."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Pro quo ne existas questioni «Ka vu memoras…?»",
+        "a": "Questioni qui testas la memoro povas sentesar kom exameno e produktar embaraso. Aperta inviti quale «Rakontez a me pri…» posibligas ad omni partoprenar, quonulkunke li memoras."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ka me povas imprimar la karti?",
+        "a": "Yes. «Imprimez omna karti» imprimas la tota ensemblo per granda literi, plura karti po pagino, pronta por talyar."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ka lo esas senpaga, e ka me bezonas enrejistrar me?",
+        "a": "Yes, ol esas senkosta, e ne esas konto, enrejistro o deskargo. Ol funcionas en la ret-navigilo sur telefono, tabuleto o komputoro."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Foto-pari",
+    "seoTitle": "Kreez parig-ludo ek familiala foti",
+    "h1": "Foto-pari: parigez vua propra foti",
+    "description": "Konvertez vua propra familiala foti aden tranquiliganta parig-ludo. Selektez 2 til 6 foti sur vua aparato; oli restas en vua ret-navigilo e nultempe sendesas adsur la reto.",
+    "short": "Selektez vua propra foti e parigez oli. Nulo sendesas adsur la reto.",
+    "players": "2 personi, un apud l'altra",
+    "intro": "Selektez du til sis foti de vua telefono, tabuleto o komputoro, ed oli divenas parig-ludo kun granda, bone videbla imaji. La foti montresas nur interne di ca pagino. Oli ne sendesas adsur la reto, ne registragas e ne partigesas, ed oli desaparas kande vu klozas la pagino.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tushez \"Selektar foti\" e prenez du til sis foti.",
+      "Singla foto aparas dufoye. Tushez un, pose tushez olua paro.",
+      "Parolez pri singla foto kande vu trovas ol.",
+      "Kande vu finis, klozez la pagino o tushez \"Efacez foti\". Nulo konservesas."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Selektez klara foti de felica, familiara kozi: hemanimalo, gardeno, preferata loko, mariaj-dio.",
+      "Imaji pri loki ed objekti povas esar plu facila kam vizaji, ed oli evitas preseso por nomizar personi.",
+      "Omisez foti di personi qui mortis se oli povus efektigar subita chagreno, eceptute se vu savas ke oli adportas konsolo."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ka mea foti sendesas adsur la reto?",
+        "a": "No. La pagino lektas la foti quin vu selektis direte en vua navigilo e montras oli sur vua skreno. Oli ne sendesas a ni o ad irgu altra, ed oli desaparas kande vu klozas o ri-kargas la pagino."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ka esas temporizilo o punti?",
+        "a": "No. Ne esas horlojo, punti, movo-kontilo o perdar. Vu povas haltigar irgakande, e haltigar a mi-voyo esas perfekte bona maniero finar."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ka me povas salvar la ludo por la venonta foyo?",
+        "a": "Ne en la navigilo, pro projeto, por ke nulo privata registragas. La senkosta apliko Golden Moments por iPhone ed iPad povas gardar kopiuri di selektita foti sur vua aparato."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Imaj-bingo",
+    "seoTitle": "Imaj-bingo por seniori kun demenco: imprimabla",
+    "h1": "Imaj-bingo por grupi",
+    "description": "Senkosta imprimabla imaj-bingo por memoro-flegado e seniora grupi, kun granda surskrena vokilo. Granda imaji kun vorti, 9 o 16 quadrati, sen bezono lektar.",
+    "short": "Imprimabla karti di imaj-bingo e grand-skrena vokilo por grupi.",
+    "players": "Grupo de 2 til 30",
+    "intro": "Klasika bingo kun imaji vice di nombri, tale ke nulu bezonas lektar mikra literi. Imprimez aro de unika karti, pose uzez la surskrena vokilo por montrar singla imajo grande sur televiziono, portebla komputoro o tabuleto.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Selektez 9 o 16 quadrati po karto e la quanto di ludanti.",
+      "Tushez \"Imprimez karti\". Singla karto esas diferanta.",
+      "Apertez la vokilo sur granda skreno. Tushez \"Sequanta imajo\" por montrar singla imajo kun olua nomo.",
+      "Ludanti kovras la korespondanta imajo sur sua karto per monetopeco, butono o markilo.",
+      "Omnu qua kompletigas lineo, o la tota karto, recevas aklamo. Ne esas perdanti en ca versiono: durigez ludar til ke omnu havas lineo."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Uzez granda disketi quale dam-ludala diski o botelo-kovrili. Mikra butoni povas esar desfacila por reprenar.",
+      "Nomizez la imajo e dicez ulo pri ol: \"Seglo-navo. Qua ja voyajis sur batelo?\"",
+      "Sidez personi kun vidala desfacilesi maxim proxim la skreno, e parigez helpanti kun ludanti qui bezonas li.",
+      "Non quadrati suficas por la maxim multa grupi. Mantenez la sesiono cirkum 20 til 30 minuti."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Kiel me duktas imaj-bingo en flegeyo?",
+        "a": "Imprimez un karto po ludanto, pozez la vokilo sur la maxim granda skreno quan vu havas, e vokez imaji lante, nomizante singla ek oli. Ludez til ke omnu havas lineo, tale ke nulu obliviesas."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Ka imprimir esas senkosta?",
+        "a": "Yes. Imprimez tante multa karti quante vu bezonas, tam ofte kam vu deziras, por personala o grupala uzo."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Ka personi povas ludar sen lektar?",
+        "a": "Yes. Singla quadrato esas granda imajo, kun olua nomo sube por ti qui prizas vorti."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Tranquila respirado",
+    "seoTitle": "Tranquila respir-pauzo por seniori e fleganti",
+    "h1": "Tranquila respir-pauzo",
+    "description": "Lenta, quieta respir-pauzo por partigar: mola cirklo kreskas e mikreskas dum sis respiri. Vu startas ol, e vu povas haltigar irgakande.",
+    "short": "Lenta cirklo por respirar kune. Startez e haltigez kande vu deziras.",
+    "players": "1 o 2 personi",
+    "intro": "Kelkafoye la maxim bona agado esas quieta pauzo. Tushez \"Startar\", pose enspirez kande la cirklo kreskas ed ekspirez kande ol mikreskas. Selektez plu lenta o plu rapida ritmo. Ol ne esas kuracado, nur pacoza momento por partigar.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Sidez komfortoze un apud l'altra.",
+      "Selektez ritmo: lenta o mola.",
+      "Tushez \"Startar\". Enspirez dum ke la cirklo kreskas, ed ekspirez dum ke ol mikreskas.",
+      "Ol haltas su-propra pos sis respiri, o tushez \"Haltar\" irgakande vu deziras."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Tenez la manui o reposez manuo sur la brakio di la persono se to esas bonvenanta.",
+      "Nultempe insistez. Se la persono preferas nur spektar, to esas tote bona.",
+      "Se ulu havas respirala problemi, respirez normale e simple spektéz la cirklo. Konsultez mediko pri irga respirala dubo."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ka ca esas medicinala respir-exercado?",
+        "a": "No. Ol esas simpla, fakultativa pauzo por tranquileso e kun-eso. Ol ne esas kuracado por anxieso o por irga stando. Parolez kun mediko pri sanesala sucii."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Ka la cirklo movas sen ke me startas ol?",
+        "a": "No. Nulo movas til ke vu tuchetas Start, ed ol haltas pos sis respiri o kande vu tuchetas Stop. Se vua aparato esas agordita por reduktar la movado, la vorti chanjas sen ke la cirklo kreskas."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ka lo esas gratuita, e ka me bezonas enskribar me?",
+        "a": "Yes, ol esas gratuita, e ne existas konto, enskribo o deskargo. Ol funcionas en la ret-navigilo sur telefono, tabuleto o komputoro."
       }
     ]
   }

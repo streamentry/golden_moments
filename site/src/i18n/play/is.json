@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lesa upphátt",
+      "stopReading": "Hætta að lesa",
+      "region": "Leikur",
+      "restart": "Byrja aftur",
+      "soundOn": "Lágvær hljóð á",
+      "soundOff": "Slökkt á lágværum hljóðum",
+      "done": "Búið í bili",
+      "feedbackQuestion": "Hjálpaði þetta í dag?",
+      "feedbackYes": "Já",
+      "feedbackNo": "Ekki beint",
+      "feedbackThanks": "Takk fyrir að láta okkur vita."
+    },
+    "tile": {
+      "named": "{name}, reitur {n}",
+      "hidden": "Fulin mynd, reitur {n}",
+      "withState": "{label}, {state}",
+      "matched": "Samstæða",
+      "selected": "Valið",
+      "picture": "Mynd",
+      "photoNumber": "Ljósmynd {n}"
+    },
+    "pairs": {
+      "allTogether": "Allar samstæður komnar saman. Spilið aftur eða takið hvíld.",
+      "photoPair": "Ljósmyndapar, saman.",
+      "picturePair": "Tvær myndir af {name|lower}, saman.",
+      "selected": "{name}. Finnið nú samstæðuna.",
+      "mismatch": "Gefið ykkur góðan tíma. Ýtið á mynd til að halda áfram.",
+      "mismatchNamed": "{a} og {b}. Gefið ykkur góðan tíma. Ýtið á mynd til að halda áfram."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Ýtið á mynd og ýtið svo á þá sem passar við hana.",
+      "guidanceHidden": "Ýtið á tvo reiti til að snúa þeim við. Leitið að tveimur eins.",
+      "restart": "Nýjar myndir",
+      "sizeLegend": "Hversu margir reitir",
+      "size": {
+        "one": "{n} reitur",
+        "other": "{n} reitir"
+      },
+      "viewLegend": "Hvernig á að spila",
+      "viewShowing": "Myndir sem snúa upp",
+      "viewHidden": "Fuldar myndir",
+      "playAgain": "Spila aftur með nýjum myndum",
+      "talk": "Ræðið saman um myndirnar"
+    },
+    "choose": {
+      "countLegend": "Hversu margar myndir",
+      "count": "{n} til að velja úr",
+      "thatOne": "Þetta er {name|lower}. Gefið ykkur góðan tíma."
+    },
+    "findTheSame": {
+      "guidance": "Horfið á myndina efst. Ýtið á eins mynd fyrir neðan.",
+      "yes": "Já, alveg eins {name|lower}.",
+      "next": "Næsta mynd"
+    },
+    "shadowMatch": {
+      "guidance": "Horfið á skuggann efst. Ýtið á myndina sem varpar honum.",
+      "yes": "Já, {name|lower} varpar þessum skugga.",
+      "next": "Næsti skuggi",
+      "shadowAlt": "Skuggi sem á að para",
+      "foundAlt": "Skugginn af {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Ýtið á mynd og ýtið svo á körfuna sem hún á heima í.",
+      "restart": "Nýjar myndir",
+      "themeLegend": "Þema",
+      "selected": "{name}. Ýtið nú á körfuna sem hún á að fara í.",
+      "pickFirst": "Ýtið fyrst á mynd og svo á körfu.",
+      "hint": "{name|lower} gæti farið í „{basket}“. Ýtið á þá körfu til að setja hana þangað.",
+      "placed": "{name|lower} er komin í „{basket}“.",
+      "sorted": "Allt er komið á sinn stað. Skoðið körfurnar saman eða prófið annað þema.",
+      "basket": {
+        "one": "Karfan „{basket}“, {count} mynd í henni",
+        "other": "Karfan „{basket}“, {count} myndir í henni"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Ýtið á einn bita og ýtið svo á annan. Þeir skipta um stað.",
+      "restart": "Blanda aftur",
+      "pictureLegend": "Mynd",
+      "pictures": {
+        "sailboat": "Seglbátur",
+        "house": "Hús",
+        "balloon": "Blaðra",
+        "sunflower": "Sólblóm",
+        "lighthouse": "Viti",
+        "cat": "Köttur"
+      },
+      "sizeLegend": "Bitar",
+      "size": {
+        "one": "{n} biti",
+        "other": "{n} bitar"
+      },
+      "pickedUp": "Biti valinn. Ýtið nú þangað sem hann á að fara.",
+      "whole": "Myndin af {name|lower} er heil á ný. Veljið aðra mynd hvenær sem þið viljið.",
+      "swapped": {
+        "one": "Skipt um stað. {correct} af {total} bita er á réttum stað.",
+        "other": "Skipt um stað. {correct} af {total} bitum eru á réttum stað."
+      },
+      "guideAlt": "Öll myndin: {name}",
+      "guideText": "Svona lítur myndin út þegar hún er heil.",
+      "piece": "Biti í {place}",
+      "pieceInPlace": ", á réttum stað",
+      "piecePickedUp": ", valinn",
+      "places4": [
+        "efst til vinstri",
+        "efst til hægri",
+        "neðst til vinstri",
+        "neðst til hægri"
+      ],
+      "places9": [
+        "efst til vinstri",
+        "efst fyrir miðju",
+        "efst til hægri",
+        "fyrir miðju til vinstri",
+        "í miðjunni",
+        "fyrir miðju til hægri",
+        "neðst til vinstri",
+        "neðst fyrir miðju",
+        "neðst til hægri"
+      ],
+      "done": "Myndin er heil á ný. Spilið aftur eða takið hvíld.",
+      "playAgain": "Blanda aftur"
+    },
+    "finishTheSaying": {
+      "guidance": "Lesið málsháttinn saman og ýtið svo á orðið sem lýkur honum.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Já, „{start} {end}.“",
+      "otherEnding": "„{word}“ gengur líka. Málshátturinn endar vanalega á „{end}“.",
+      "revealed": "Málshátturinn er „{start} {end}.“",
+      "choicesLabel": "Veljið síðasta orðið",
+      "show": "Sýna endann",
+      "talk": "Ræðið saman: ",
+      "next": "Næsti málsháttur"
+    },
+    "wordSearch": {
+      "guidance": "Orðin liggja lárétt eða lóðrétt. Ýtið á fyrsta staf orðsins og svo á þann síðasta.",
+      "restart": "Ný þraut",
+      "themeLegend": "Þema",
+      "sizeLegend": "Stærð reitaborðs",
+      "size": {
+        "one": "{n} sinnum {n} ({words} orð)",
+        "other": "{n} sinnum {n} ({words} orð)"
+      },
+      "print": "Prenta þessa þraut",
+      "letterChosen": "Stafurinn {letter} valinn. Ýtið nú á síðasta staf orðsins.",
+      "found": "{word} fundið.",
+      "foundAll": "{word} fundið. Öll orðin eru fundin. Spilið aftur eða takið hvíld.",
+      "tryAgain": "Gefið ykkur góðan tíma. Ýtið á fyrsta staf orðsins og svo á þann síðasta.",
+      "gridLabel": "Stafaborð, {n} raðir með {n} stöfum. Notið örvatakkana til að færast á milli stafa.",
+      "cell": "{letter}, röð {row}, dálkur {col}",
+      "cellFound": ", hluti af fundnu orði",
+      "wordsHeading": "Orð sem á að finna",
+      "wordFound": " (fundið)",
+      "sheetTitle": "Orðaleit: {theme}",
+      "sheetNote": "Orðin liggja lárétt eða lóðrétt.",
+      "unavailable": "Stafaborð hentar ekki þessu tungumáli og því er orðaleit ekki í boði hér. Prófið frekar myndaleikina."
+    },
+    "coloring": {
+      "guidance": "Ýtið á lit og ýtið svo á hluta af myndinni.",
+      "restart": "Hreinsa liti",
+      "cleared": "Síðan er auð aftur.",
+      "pageLegend": "Síða",
+      "print": "Prenta þessa síðu",
+      "colorsLabel": "Litir",
+      "paintChosen": "{paint} valinn.",
+      "painted": "{part} er nú {paint|lower}.",
+      "artLabel": "{page}, {count} hlutar til að lita",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ólitað",
+      "paints": {
+        "red": "Rauður",
+        "orange": "Appelsínugulur",
+        "yellow": "Gulur",
+        "green": "Grænn",
+        "blue": "Blár",
+        "purple": "Fjólublár",
+        "pink": "Bleikur",
+        "brown": "Brúnn",
+        "sky-blue": "Himinblár",
+        "cream": "Kremlitaður",
+        "gray": "Grár",
+        "white": "Hvítur"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lesið spjaldið upphátt. Það eru engin rétt eða röng svör.",
+      "position": "Spjald {n} af {total}",
+      "themeLegend": "Þema",
+      "next": "Næsta spjald",
+      "previous": "Fyrra spjald",
+      "print": "Prenta öll spjöld",
+      "sheetTitle": "Samræðuspjöld"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Byrjið á því að velja myndirnar ykkar.",
+      "guidance": "Ýtið á ljósmynd og ýtið svo á þá sem passar við hana.",
+      "restart": "Blanda þeim aftur",
+      "intro": "**Veljið 2 til 6 myndir** úr þessu tæki. Þær birtast eingöngu á þessari síðu og eru aldrei vistaðar eða sendar annað.",
+      "choose": "Velja myndir",
+      "chooseDifferent": "Velja aðrar myndir",
+      "clear": "Fjarlægja myndir",
+      "cleared": "Myndir fjarlægðar af þessari síðu.",
+      "atLeastTwo": "Vinsamlegast veljið að minnsta kosti tvær myndir.",
+      "usingFirst": "Notum fyrstu {max} myndirnar.",
+      "skipped": {
+        "one": "{count} skrá var ekki ljósmynd sem við getum sýnt.",
+        "other": "{count} skrár voru ekki ljósmyndir sem við getum sýnt."
+      },
+      "playAgain": "Spila aftur með þessum myndum",
+      "empty": "Myndirnar ykkar birtast hér, hver um sig tvisvar."
+    },
+    "pictureBingo": {
+      "guidance": "Prentið spjöldin fyrst. Sýnið svo útkallið á stærsta skjánum sem þið hafið.",
+      "called": {
+        "one": "{name}. {called} af {total} mynd kölluð út.",
+        "other": "{name}. {called} af {total} myndum kallaðar út."
+      },
+      "start": "Ýtið á „Næsta mynd“ til að kalla upp fyrstu myndina.",
+      "restart": "Byrja nýjan leik",
+      "squaresLegend": "Reitir á hverju spjaldi",
+      "squares": "{n} reitir ({side} sinnum {side})",
+      "cardsLegend": "Hversu mörg spjöld á að prenta",
+      "cards": {
+        "one": "{n} spjald",
+        "other": "{n} spjöld"
+      },
+      "print": {
+        "one": "Prenta {n} bingóspjald",
+        "other": "Prenta {n} bingóspjöld"
+      },
+      "ready": "Tilbúin þegar þið eruð tilbúin",
+      "next": "Næsta mynd",
+      "allCalled": "Búið er að kalla allar myndirnar út",
+      "alreadyCalled": "Nú þegar kallað út",
+      "sheetTitle": "Myndabingó · spjald {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Andaðu inn þegar hringurinn stækkar og út þegar hann minnkar. Hann stöðvast af sjálfu sér eftir sex andardrætti.",
+      "paceLegend": "Hraði",
+      "paceSlow": "Hægur (5 sekúndur hvora leið)",
+      "paceGentle": "Rólegur (4 sekúndur hvora leið)",
+      "ready": "Allt tilbúið þegar þú vilt",
+      "in": "Anda inn",
+      "hold": "Hvíla",
+      "out": "Anda út",
+      "start": "Byrja",
+      "stop": "Stöðva",
+      "started": "Byrjað. Andaðu inn þegar hringurinn stækkar.",
+      "stopped": "Stöðvað.",
+      "finished": "Þetta voru sex rólegir andardrættir. Byrjaðu aftur hvenær sem þú vilt."
+    }
+  },
+  "pictures": {
+    "teacup": "Tebolli",
+    "kettle": "Ketill",
+    "bread": "Brauðhleifur",
+    "frying-pan": "Steikarpanna með eggi",
+    "cake": "Afmæliskaka",
+    "sunflower": "Sólblóm",
+    "tulip": "Rauður túlipani",
+    "watering-can": "Vökvunarkanna",
+    "potted-plant": "Pottaplanta",
+    "tree": "Tré",
+    "bird": "Rauðbrystingur á grein",
+    "butterfly": "Fiðrildi",
+    "dog": "Hundur",
+    "cat": "Köttur",
+    "fish": "Gullfiskur",
+    "apple": "Rautt epli",
+    "pear": "Pera",
+    "strawberry": "Jarðarber",
+    "banana": "Banani",
+    "lemon": "Sítróna",
+    "cherries": "Kirsuber",
+    "house": "Hús",
+    "lamp": "Borðlampi",
+    "armchair": "Hægindastóll",
+    "key": "Gamall lykill",
+    "umbrella": "Regnhlíf",
+    "sailboat": "Seglbátur",
+    "car": "Fornbíll",
+    "bicycle": "Reiðhjól",
+    "balloon": "Loftbelgur",
+    "lighthouse": "Viti",
+    "sun": "Sól",
+    "moon": "Tungl og stjörnur",
+    "teapot": "Tekanna",
+    "apple-pie": "Eplabaka",
+    "honey-jar": "Hunangskrukka",
+    "boiled-egg": "Egg í eggjaglasi",
+    "toaster": "Brauðrist",
+    "cheese": "Oststykki",
+    "milk-jug": "Mjólkurkanna",
+    "cupcake": "Bollakaka",
+    "orange": "Appelsína",
+    "grapes": "Vínberjaklasi",
+    "watermelon": "Vatnsmelónusneið",
+    "pineapple": "Ananas",
+    "peach": "Ferskja",
+    "rose": "Rós",
+    "daisies": "Fagurfíflar",
+    "mushroom": "Sveppur",
+    "wheelbarrow": "Hjólbörur",
+    "birdhouse": "Fuglahús",
+    "cactus": "Kaktus í potti",
+    "acorn": "Eikarta",
+    "autumn-leaf": "Haustlauf",
+    "rabbit": "Kanína",
+    "duck": "Önd",
+    "hen": "Hæna",
+    "sheep": "Kind",
+    "owl": "Ugla",
+    "ladybird": "Maríubjalla",
+    "snail": "Snigill",
+    "frog": "Froskur",
+    "bee": "Býfluga",
+    "clock": "Borðklukka",
+    "vase-of-flowers": "Vasi með blómum",
+    "radio": "Gamalt útvarp",
+    "books": "Bókastafla",
+    "candle": "Kerti",
+    "glasses": "Lesgleraugu",
+    "telephone": "Sími",
+    "ball-of-wool": "Garnhnykill",
+    "straw-hat": "Sólhattur",
+    "train": "Gufulest",
+    "bus": "Strætisvagn",
+    "airplane": "Flugvél",
+    "suitcase": "Ferðataska",
+    "tractor": "Dráttarvél",
+    "rowing-boat": "Róðrarbátur",
+    "rainbow": "Regnbogi",
+    "rain-cloud": "Regnský",
+    "snowflake": "Snjókorn",
+    "kite": "Flugdreki",
+    "sunrise": "Sólarupprás yfir hæðum"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGHIKLMNOPRSTUV",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Ávextir",
+          "words": [
+            "EPLI",
+            "PERA",
+            "PLÓMA",
+            "BANANI",
+            "VÍNBER",
+            "MELÓNA",
+            "MANGÓ",
+            "FIKJA",
+            "BER"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Garður",
+          "words": [
+            "RÓS",
+            "BLÓM",
+            "TRÉ",
+            "FRÆ",
+            "MOLD",
+            "LAUF",
+            "GRAS",
+            "RUNNI",
+            "TJÖRN"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Eldhús",
+          "words": [
+            "BOLLI",
+            "SKEIÐ",
+            "BRAUÐ",
+            "PANNA",
+            "SKÁL",
+            "DISKUR",
+            "KAFFI",
+            "OFN",
+            "HNÍFUR"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Veður",
+          "words": [
+            "SÓL",
+            "REGN",
+            "SNJÓR",
+            "VINDUR",
+            "SKÝ",
+            "ÞOKA",
+            "FROST",
+            "LOGN",
+            "KULDI"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Dýr",
+          "words": [
+            "HUNDUR",
+            "KÖTTUR",
+            "FUGL",
+            "FISKUR",
+            "HESTUR",
+            "KÝR",
+            "ÖND",
+            "GEIT",
+            "HÆNA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Heimili",
+          "words": [
+            "HURÐ",
+            "STÓLL",
+            "LAMPI",
+            "RÚM",
+            "MOTTA",
+            "SÓFI",
+            "KLUKKA",
+            "BORÐ",
+            "LYKILL"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Öll spjöld",
+        "food": "Matur",
+        "home": "Heimilið",
+        "outdoors": "Útivera",
+        "animals": "Dýr",
+        "travel": "Á ferð og flugi",
+        "work": "Vinna og áhugamál",
+        "music": "Tónlist og gleði",
+        "seasons": "Árstíðir"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Hvaða ilmur úr eldhúsinu finnst þér bestur?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Hvers konar köku myndir þú velja fyrir veislu?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Segðu mér frá uppáhalds ávaxtaböku eða eftirrétti."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Hvernig finnst þér best að drekka teið eða kaffið þitt?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Hvað finnst þér gera morgunmatinn sérstaklega góðan?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Hefur þú einhvern tímann tínt ber beint af runnanum?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Sætt eða súrt: hvort finnst þér betra?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Hvaða matur minnir þig mest á sumarið?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Segðu mér frá húsi sem þér þótti gott að búa í."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Hvar finnst þér notalegast að setjast niður og hvílast?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Hvað finnst þér notalegt að gera á rólegu kveldi?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Hvaða dýrgrip vilt þú geyma í sérstöku skríni?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Hverjum myndir þú bjóða í heimsókn í tebolla?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Hvað finnst þér gaman að dunda við þegar rignir?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Hvaða blóm myndir þú vilja planta í garð?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Segðu mér frá tré eða garði sem þér þykir vænt um."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Hvað er skemmtilegast við að vera úti í garði?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Hvernig blómalitir finnast þér fallegastir?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Finnst þér gott að hafa blóm eða plöntur inni á heimilinu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Hvernig er fullkominn sólardagur að þínu mati?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Segðu mér frá hundi sem þú hefur kynnst."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kettir eða hundar, eða hvorugt? Hvað finnst þér heillandi við þau?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Hvaða fugla sérðu eða heyrirðu í úti?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Hefur þú farið á sjó, veitt fisk eða átt fiskabúr?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Hvert er fallegasta dýr sem þú hefur séð?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Segðu mér frá bíl sem þér þótti vænt um."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Hvort myndir þú frekar vilja verja deginum við sjóinn eða til fjalla?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Hvert langar þig að fara í hjólatúr eða bíltúr?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Ef þú gætir flogið yfir hvaða stað sem er, hvert myndirðu fljúga?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Segðu mér frá ferðalagi sem þú hafðir gaman af."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Hvers konar vinnu hefur þér þótt ánægjulegt að sinna?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Hvaða áhugamáli gætirðu dundað við tímunum saman?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Hvað hafðir þú orð á þér fyrir að búa til eða laga?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Hvaða ráð myndir þú gefa ungu fólki sem er að hefja störf?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Hvers konar tónlist kemur þér í gott skap eða fær þig til að dilla tánum?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Hvað gerir veislu virkilega eftirminnilega?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Hvaða söngvara finnst þér gott að hlusta á?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Hvaða bíómynd eða sjónvarpsþátt finnst þér alltaf gaman að horfa á aftur?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Hvað finnst þér best við sumarið?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Hvað finnst þér heillandi við haustið?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Hvað finnst þér notalegt að gera á dimmu vetrarkvöldi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Hver eru fyrstu vortáknin að þínu mati?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Snjór, regn eða sólskin: hvað kýst þú helst?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Blóm í potti",
+          "regions": {
+            "sky": "Bakgrunnur",
+            "table": "Borð",
+            "stem": "Stöngull",
+            "leaf-left": "Vinstra blað",
+            "leaf-right": "Hægra blað",
+            "petal-1": "Krónublað 1",
+            "petal-2": "Krónublað 2",
+            "petal-3": "Krónublað 3",
+            "petal-4": "Krónublað 4",
+            "petal-5": "Krónublað 5",
+            "petal-6": "Krónublað 6",
+            "petal-7": "Krónublað 7",
+            "petal-8": "Krónublað 8",
+            "center": "Blómamiðja",
+            "pot": "Pottur",
+            "pot-rim": "Pottbrún"
+          }
+        },
+        "house": {
+          "name": "Hús",
+          "regions": {
+            "sky": "Himinn",
+            "sun": "Sól",
+            "grass": "Gras",
+            "chimney": "Reykháfur",
+            "walls": "Veggir",
+            "roof": "Þak",
+            "door": "Hurð",
+            "window-left": "Vinstri gluggi",
+            "window-right": "Hægri gluggi",
+            "path": "Stígur"
+          }
+        },
+        "teacup": {
+          "name": "Tebolli",
+          "regions": {
+            "background": "Bakgrunnur",
+            "saucer": "Undirskál",
+            "handle": "Hanki",
+            "cup": "Bolli",
+            "band": "Rönd á bolla",
+            "tea": "Te"
+          }
+        },
+        "butterfly": {
+          "name": "Fiðrildi",
+          "regions": {
+            "background": "Bakgrunnur",
+            "wing-top-left": "Efri vinstri vængur",
+            "wing-top-right": "Efri hægri vængur",
+            "wing-bottom-left": "Neðri vinstri vængur",
+            "wing-bottom-right": "Neðri hægri vængur",
+            "spot-left": "Vinstri vængblettur",
+            "spot-right": "Hægri vængblettur",
+            "body": "Bolur"
+          }
+        },
+        "sailboat": {
+          "name": "Seglbátur",
+          "regions": {
+            "sky": "Himinn",
+            "sea": "Sjór",
+            "sail-big": "Stórt segl",
+            "sail-small": "Lítið segl",
+            "mast": "Sigla",
+            "hull": "Bátur",
+            "flag": "Fáni"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Eldhús og garður",
+          "baskets": [
+            "Í eldhúsinu",
+            "Í garðinum"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Ávextir og dýr",
+          "baskets": [
+            "Ávextir",
+            "Dýr"
+          ]
+        },
+        "home-travel": {
+          "label": "Heima og á ferðinni",
+          "baskets": [
+            "Heima",
+            "Á ferðinni"
+          ]
+        }
+      }
+    }
+  }
+}

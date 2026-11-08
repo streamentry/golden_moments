@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lesa mokule",
+      "stopReading": "Isa okulesa",
+      "region": "Otjinyando",
+      "restart": "Uturura",
+      "soundOn": "Pana omiwi omihure",
+      "soundOff": "Zimisa omiwi",
+      "done": "Pa pu nai",
+      "feedbackQuestion": "Ihi tje ku vaterere ndino?",
+      "feedbackYes": "Ii",
+      "feedbackNo": "Kakuripo nawa",
+      "feedbackThanks": "Okuhepa tji we tu raere."
+    },
+    "tile": {
+      "named": "{name}, okaara {n}",
+      "hidden": "Otjisano tji tja horekwa, okaara {n}",
+      "withState": "{label}, {state}",
+      "matched": "Vya patana pamwe",
+      "selected": "Tja toorwa",
+      "picture": "Otjisano",
+      "photoNumber": "Eperendero {n}"
+    },
+    "pairs": {
+      "allTogether": "Ovingi avihe vya patana pamwe. Nyanda rukwao poo suva kakatiti.",
+      "photoPair": "Omaperendero yevari pamwe.",
+      "picturePair": "Ovisano vivari vyotji {name|lower}, pamwe.",
+      "selected": "{name}. Nai konga otjikwao tji tji sana natjo.",
+      "mismatch": "Kondja kakatiti. Toroma motjisano kutja u tware komurungu.",
+      "mismatchNamed": "{a} na {b}. Kondja kakatiti. Toroma motjisano kutja u tware komurungu."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Toroma otjisano tjimwe, o toroma tji tji sana natjo.",
+      "guidanceHidden": "Toroma tuvari kutja u tu pirure. Konga tuvari tu twa sana.",
+      "restart": "Ovisano ovipe",
+      "sizeLegend": "Otuingi twootutuu",
+      "size": {
+        "one": "Okaara {n}",
+        "other": "Ootuara {n}"
+      },
+      "viewLegend": "Omuano wokunyanda",
+      "viewShowing": "Ovisano vi munika",
+      "viewHidden": "Ovisano vya horekwa",
+      "playAgain": "Nyanda rukwao novisano ovipe",
+      "talk": "Kuhameye ovisano pamwe"
+    },
+    "choose": {
+      "countLegend": "Otuingi twovisano",
+      "count": "{n} vyokutoora muvyo",
+      "thatOne": "Ito otjo {name|lower}. Hina oruhanda."
+    },
+    "findTheSame": {
+      "guidance": "Tara otjisano tji tji ri kombanda. Toroma tji tja sana natjo kehi.",
+      "yes": "Ii, otjisano tjimwe tjo {name|lower}.",
+      "next": "Otjisano tji tja landako"
+    },
+    "shadowMatch": {
+      "guidance": "Tara omuzire kombanda. Toroma otjisano tji tji u ningira.",
+      "yes": "Ii, o {name|lower} tji tji eta omuzire mbo.",
+      "next": "Omuzire tji wa landako",
+      "shadowAlt": "Omuzire wokupatisa pamwe",
+      "foundAlt": "Omuzire wo {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Toroma otjisano, nu o toroma otjimbale tji tji ku roole.",
+      "restart": "Ovisano ovipe",
+      "themeLegend": "Epango",
+      "selected": "{name}. Nai toroma otjimbale tjo ku twa mo.",
+      "pickFirst": "Uta okutoroma otjisano, o toroma otjimbale.",
+      "hint": "{name|lower} matji i motjimbale tjo \"{basket}\". Toroma otjimbale ho oku tji twa mo.",
+      "placed": "{name|lower} tji ri motjimbale tjo \"{basket}\".",
+      "sorted": "Avihe vya pangwa pamwe. Tarere momazimbale amwe nu, poo mu toore epango epe.",
+      "basket": {
+        "one": "Otjimbale tjo {basket}, mu na otjisano {count}",
+        "other": "Otjimbale tjo {basket}, mu novisano {count}"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Toroma oruhanda rumwe, o toroma arwe. Mave pingene po.",
+      "restart": "Pikisa rukwao",
+      "pictureLegend": "Otjisano",
+      "pictures": {
+        "sailboat": "Owatjimbwembwe",
+        "house": "Ondjuwo",
+        "balloon": "Eboro",
+        "sunflower": "Onganga yeyuwa",
+        "lighthouse": "Ondjuwo yomuriro womeva",
+        "cat": "Ombimbirize"
+      },
+      "sizeLegend": "Otupingene",
+      "size": {
+        "one": "Oruhanda {n}",
+        "other": "Otuhanda {n}"
+      },
+      "pickedUp": "Oruhanda rwa toorwa. Nai toroma pu maru i.",
+      "whole": "{name|lower} ya pongoroka rukwao. Toora otjisano tjarwe tji mo vanga.",
+      "swapped": {
+        "one": "Vya pingenwa po. Oruhanda {correct} mo {total} ru ri poruveze rwaro.",
+        "other": "Vya pingenwa po. Otuhanda {correct} mo {total} tu ri poruveze rwato."
+      },
+      "guideAlt": "Otjisano atjihe tja pongoka: {name}",
+      "guideText": "Ihi otjo muano otjisano tji tji munika tji tja pwa.",
+      "piece": "Oruhanda rwo {place}",
+      "pieceInPlace": ", ru ri pomahina maro omusemba",
+      "piecePickedUp": ", rwa toorwa",
+      "places4": [
+        "kehi yombanda komesho yeko",
+        "kehi yombanda komurungu wonene",
+        "kehi yokombanda yoko",
+        "kehi yomurungu wonene"
+      ],
+      "places9": [
+        "kombanda komesho yeko",
+        "kombanda pokati",
+        "kombanda komurungu wonene",
+        "pokati komeho yeko",
+        "pokati",
+        "pokati komurungu wonene",
+        "kehi komesho yeko",
+        "kehi pokati",
+        "kehi komurungu wonene"
+      ],
+      "done": "Otjisano tja pwa nawa. Nyanda rukwao poo suva kakatiti.",
+      "playAgain": "Pikisa rukwao"
+    },
+    "finishTheSaying": {
+      "guidance": "Leseye ohorangi pamwe, o toroma embo ndi mari mane ohorangi ndjo.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Ii, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" ri vatera wina. Nungwari ohorangi ya yanda na \"{end}\".",
+      "revealed": "Ohorangi ndjo i tja \"{start} {end}.\"",
+      "choicesLabel": "Toora embo rokuisako",
+      "show": "Raisa omano",
+      "talk": "Hungireye muvyo: ",
+      "next": "Ohorangi ndja landako"
+    },
+    "wordSearch": {
+      "guidance": "Omambo ye yenda ko mikuma poo kehi. Toroma eruwa etete rembo, o toroma eruwa rero rokisako.",
+      "restart": "Otjinyando otipe",
+      "themeLegend": "Epango",
+      "sizeLegend": "Ouunene wetara",
+      "size": {
+        "one": "{n} ko {n} (embo {words})",
+        "other": "{n} ko {n} (omambo {words})"
+      },
+      "print": "Tjanga otjinyando hi kombapira",
+      "letterChosen": "Eruwa {letter} rwa toorwa. Nai toroma eruwa rokisako rembo.",
+      "found": "{word} ra munika.",
+      "foundAll": "{word} ra munika. Omambo aehe ya munika. Nyanda rukwao poo suva kakatiti.",
+      "tryAgain": "Hina oruhanda. Toroma eruwa etete rembo, o toroma eruwa rero rokisako.",
+      "gridLabel": "Etara romaruwa, omikuma {n} vyomaruwa {n}. Ungurisa oviyendisi komaruwa.",
+      "cell": "{letter}, omukuma {row}, okamba {col}",
+      "cellFound": ", oruhanda rwembo ndi ra munika",
+      "wordsHeading": "Omambo wokukonga",
+      "wordFound": " (ra munika)",
+      "sheetTitle": "Okukonga omambo: {theme}",
+      "sheetNote": "Omambo ye yenda ko mikuma poo kehi.",
+      "unavailable": "Etara romaruwa kari vatera eraka ndi, oño okukonga omambo ka ku yandjwa mba. Rorera ovinyando vyovisano."
+    },
+    "coloring": {
+      "guidance": "Toroma oruvara, o toroma oruhanda rwotjisano.",
+      "restart": "Zimisa omaruvara",
+      "cleared": "Embapira ra vaza rukwao he.",
+      "pageLegend": "Efo",
+      "print": "Tjanga efo ndi kombapira",
+      "colorsLabel": "Omaruvara",
+      "paintChosen": "{paint} rwa toorwa.",
+      "painted": "{part} nai rwa kara {paint|lower}.",
+      "artLabel": "{page}, otuhanda {count} twokurukisa",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ka tji ya rukwa",
+      "paints": {
+        "red": "Otjiserandu",
+        "orange": "Otjorandji",
+        "yellow": "Engombombari",
+        "green": "Omuzure",
+        "blue": "Otjimbwimbwi",
+        "purple": "Opurpura",
+        "pink": "Otjipinki",
+        "brown": "Otjingundu",
+        "sky-blue": "Otjimbwimbwi otjiheyuka",
+        "cream": "Outjemba",
+        "gray": "Otjiputu",
+        "white": "Otjitjemba"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lesa okaara mokule. Kakuna ombatero ya posoka.",
+      "position": "Okaara {n} mo {total}",
+      "themeLegend": "Epango",
+      "next": "Okaara tji tja landako",
+      "previous": "Okaara tji tja ziko",
+      "print": "Tjanga otuara atuhe kombapira",
+      "sheetTitle": "Otuara twozombongarero"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Uta mokutoora omaperendero yoye.",
+      "guidance": "Toroma eperendero, o toroma tji tja sana nalyo.",
+      "restart": "Pikisa rukwao",
+      "intro": "**Toora omaperendero 2 nga 6** motjitungo hi. Ye raisirwa mefo ndi erike nu kaye twarewa poo okupungurwa.",
+      "choose": "Toora omaperendero",
+      "chooseDifferent": "Toora omaperendero omarwe",
+      "clear": "Isamo omaperendero",
+      "cleared": "Omaperendero ya iswamo mefo ndi.",
+      "atLeastTwo": "Arikana toora omaperendero yevari katiti.",
+      "usingFirst": "Maku ungurisiwa omaperendero yetete {max}.",
+      "skipped": {
+        "one": "Omaperendero {count} ka tji tja vaza okuraisirwa.",
+        "other": "Omaperendero {count} ka ye ya vaza okuraisirwa."
+      },
+      "playAgain": "Nyanda rukwao nomaperendero nga",
+      "empty": "Omaperendero yoye maye munika mba, auhe twa vari."
+    },
+    "pictureBingo": {
+      "guidance": "Uta nokutjanga otuara kombapira. O raisa omuisane kokatara okanene ku u na nako.",
+      "called": {
+        "one": "{name}. Otjisano {called} mo {total} tja isanewa.",
+        "other": "{name}. Ovisano {called} mo {total} vya isanewa."
+      },
+      "start": "Toroma \"Otjisano tji tja landako\" okutona otjisano etete.",
+      "restart": "Uta otjinyando etjipe",
+      "squaresLegend": "Otupa kokaara auhe",
+      "squares": "Otupa {n} ({side} ko {side})",
+      "cardsLegend": "Otuara tongapi twokutjanga",
+      "cards": {
+        "one": "Okaara {n}",
+        "other": "Otuara {n}"
+      },
+      "print": {
+        "one": "Tjanga okaara {n} ko bingo",
+        "other": "Tjanga otuara {n} two bingo"
+      },
+      "ready": "Maku utwa tji wa rongo",
+      "next": "Otjisano tji tja landako",
+      "allCalled": "Ovisano avihe vya isanewa",
+      "alreadyCalled": "Vya isanewa nale",
+      "sheetTitle": "Bingo yovisano · okaara {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Huura mo indu otjiyingo tji matji kuru, nu u huure pondje tji matji titi. Matji zikama owatjo kombunda yomihuuro ihamboumwe.",
+      "paceLegend": "Oruveze",
+      "paceSlow": "Kakatukire (ozosekondi 5 komuhuuro auhe)",
+      "paceGentle": "Ouporote (ozosekondi 4 komuhuuro auhe)",
+      "ready": "Mwe rirongere indu tji mwa vanga",
+      "in": "Huura mo",
+      "hold": "Suzira",
+      "out": "Huura pondje",
+      "start": "Utisa",
+      "stop": "Zikama",
+      "started": "Twa utu. Huura mo indu otjiyingo tji matji kuru.",
+      "stopped": "Kwe zikama.",
+      "finished": "Oyo ya ri omihuuro ihamboumwe omiporote. Utisa rukwao indu tji mo vanga."
+    }
+  },
+  "pictures": {
+    "teacup": "Okakopi kotji",
+    "kettle": "Oketera",
+    "bread": "Omboroto",
+    "frying-pan": "Opana neyi",
+    "cake": "Okeki yombazu",
+    "sunflower": "Ongozondu",
+    "tulip": "Ondjembe yoserandu",
+    "watering-can": "Ekana rokunjukira",
+    "potted-plant": "Omenye morutjiwo",
+    "tree": "Omuti",
+    "bird": "Okazila kombavi",
+    "butterfly": "Ombimbi",
+    "dog": "Ombwa",
+    "cat": "Okaze",
+    "fish": "Osi yozonoro",
+    "apple": "Eapula eserandu",
+    "pear": "Epere",
+    "strawberry": "Ostrowberi",
+    "banana": "Epanana",
+    "lemon": "Oremuna",
+    "cherries": "Ozotjeri",
+    "house": "Ondjuwo",
+    "lamp": "Orampi yotafewa",
+    "armchair": "Otjihavero otjizewa",
+    "key": "Orapi ekuru",
+    "umbrella": "Otjambirela",
+    "sailboat": "Oskepi yombepo",
+    "car": "Otuwa ekuru",
+    "bicycle": "Obaisikili",
+    "balloon": "Eparona",
+    "lighthouse": "Ondjuwo yomuriro",
+    "sun": "Eyuva",
+    "moon": "Omweze nozonyose",
+    "teapot": "Oketera yotji",
+    "apple-pie": "Oterete yeapula",
+    "honey-jar": "Orutjiwo rwoutji",
+    "boiled-egg": "Eyi morutjiwo",
+    "toaster": "Omasini yomboroto",
+    "cheese": "Otjisi",
+    "milk-jug": "Okasuto komaihi",
+    "cupcake": "Okakeki",
+    "orange": "Erimuna",
+    "grapes": "Omidimbira",
+    "watermelon": "Ekatji",
+    "pineapple": "Eyinaporo",
+    "peach": "Epitji",
+    "rose": "Orose",
+    "daisies": "Ozondjembe ozotjoke",
+    "mushroom": "Owova",
+    "wheelbarrow": "Okorobani",
+    "birdhouse": "Okandjuwo kozila",
+    "cactus": "Otjikaktusa morutjiwo",
+    "acorn": "Ombuta yomuti",
+    "autumn-leaf": "Erakaye",
+    "rabbit": "Orumbundu",
+    "duck": "Ombambara",
+    "hen": "Ondera",
+    "sheep": "Ondu",
+    "owl": "Otjikunguru",
+    "ladybird": "Okazimbere",
+    "snail": "Okakorowa",
+    "frog": "Ezumo",
+    "bee": "Onyutji",
+    "clock": "Owiri",
+    "vase-of-flowers": "Orutjiwo rwozondjembe",
+    "radio": "Oradio ekuru",
+    "books": "Omambo",
+    "candle": "Ekandera",
+    "glasses": "Omaspiro wokulesa",
+    "telephone": "Ongodji",
+    "ball-of-wool": "Eporo ryowola",
+    "straw-hat": "Ekori reyeva",
+    "train": "Oshitima",
+    "bus": "Obisi",
+    "airplane": "Ondjira yozombepo",
+    "suitcase": "Okisi",
+    "tractor": "Otrakitora",
+    "rowing-boat": "Owati",
+    "rainbow": "Otai",
+    "rain-cloud": "Ekumbakumba",
+    "snowflake": "Okakoko",
+    "kite": "Okabapira",
+    "sunrise": "Okupiti keyuva kozondundu"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKMNOPRSTUVWYZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Ovihape",
+          "words": [
+            "EPERE",
+            "EAPULA",
+            "EPITJI",
+            "EKATJI",
+            "OZOMBE",
+            "ONDJE",
+            "EVIU",
+            "OMAPU",
+            "OMBORE"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Otjikunino",
+          "words": [
+            "OMUTI",
+            "OMBUTA",
+            "OMEVA",
+            "EVI",
+            "ERAKA",
+            "ORUTE",
+            "ORUHO",
+            "OKUTI",
+            "EZUMO"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Okombisa",
+          "words": [
+            "OTJI",
+            "OPANA",
+            "OKOPI",
+            "EYI",
+            "EVIHA",
+            "EHORO",
+            "OMAIHI",
+            "ONYAMA",
+            "OMUNU"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Ombepo",
+          "words": [
+            "EYUVA",
+            "OMBURA",
+            "OMBEPO",
+            "EIRE",
+            "OMUMU",
+            "OUPYU",
+            "ORAVI",
+            "OUPORO",
+            "OTAI"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Ozonyama",
+          "words": [
+            "OMBWA",
+            "OKAZE",
+            "OZILA",
+            "OSI",
+            "ONDU",
+            "ONDERA",
+            "EZUMO",
+            "ONGWE",
+            "OMBIMBI"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ondjuwo",
+          "words": [
+            "OMBETE",
+            "ORAMPI",
+            "ORAPI",
+            "OWIRI",
+            "OKISI",
+            "EKUNDA",
+            "EMBO",
+            "EHORO",
+            "EVIHA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Omakarata aehe",
+        "food": "Ovikurya",
+        "home": "Ondjuwo",
+        "outdoors": "Pondje",
+        "animals": "Ozonyama",
+        "travel": "Okuyenda",
+        "work": "Oviungura nozondando",
+        "music": "Omuziki nonyando",
+        "seasons": "Omihingo vyombura"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Omunuko wovikurya mokombisa ndu mu suvera unene ouwe?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Okeki yomutundu uṋe ndu mamu toorora kotjiungura tjombazu?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Tu raere ohunga notjihape tji mu suvera poo otjikurya otjitjatikise."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Omuhingo uṋe wotji poo okafe ngamu suvera?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ovikurya vyomuhuka oviwa tjinene ovikeṋa?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Mwa toorora ko rukwao ovihape komuti owatjo?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Otjityati poo otjiluru: mu suvera kwi unene?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Otjikurya tjiṋe tji tji mu zemburukisa oruveze rweyuva?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Tu raere ohunga nondjuwo ndje mu tjaterwe okukara mu yo."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Orweze rweṋe ndu mu suvera okukara no kusuzira?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ovikwaze mbi mu suvera okuyungura mongurova yombembe?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Otjiṋa tji mu tji tara ngotjiwa tjinene tji mamu pake mokisi?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Owani ngumamu isana opo mu nwe pamwe okakopi kotji?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Otjikeṋa tji mu suvera okuyungura meyuva rombura?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ozondjembe zeṋe ndu mamu kune motjikunino?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Tu raere ohunga nomuti poo oruveze rwehi ndu mu suvera."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Otjikeṋa otjiwa tjinene tji mu tji muna motjikunino?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Omuhingo wekara rwozondjembe ndu mu suvera unene owuṋe?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Mu suvera okukara nozimanye mondjuwo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Eyuva reyuva ewa tjinene kowenu ri kara vi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Tu raere ohunga nombwa ndji mwa i tire nawa."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Ozombisi poo ozombwa? Otjikeṋa tji mu tji suvera ku zo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Ozonzira zeṋe ndu mamu munu poo okuza pondje?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Mwa yasa ko rukwao ozosi poo okukara nazo mondjuwo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Onyama yombazu ndje mu munine ndji ya ri ombiwa tjinene oiṋe?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Tu raere ohunga notuwa ndju mwa suverere."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Mu vanga okukara peyuva romeva omeharari poo kozondundu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Opi pu mamu vanga okuyenda no kukazingona?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Andu mwa tura okutuka kombanda yehi, mamu toorora pi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ouende uṋe ngwe mu tjaterere tjinene?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Oviungura vyomutundu uṋe mbi mwa suverere okuyungura?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Otjiungura tjiṋe tjonyando tji matji mu pe oruveze orure tji mu tji tjata?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Otjikeṋa tji mwa tjiukilwe okutjita poo okuturura?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ondunge yeṋe ndu mamu pe omutanda ngu ma utu oviungura?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Omuziki uṋe ngu u mu pa onyando yokunyanda?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Otjikeṋa tji tji tjita opiti oikahu notjiposa?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Omwimbise uṋe ngumu suvera okumuzuva?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ofilimi poo otjiperendero tjiṋe tji mamu vanga okutara rukwao?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Otjikeṋa tji mu tji suvera unene peyuva rokupya?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Otjikeṋa tji mu tji tjata indu omawi tji maye yuruka?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Otjikeṋa otjiwa tji mamu tjiti mongurova youtalasu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Otjikeṋa tji tji mu raera kutya ombura yovimanye ye ya?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Oukoko, ombura poo eyuva: mu suvera kwi?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Ondjembe morutjiwo",
+          "regions": {
+            "sky": "Kombanda",
+            "table": "Otafewa",
+            "stem": "Orute",
+            "leaf-left": "Eraka rokumoho",
+            "leaf-right": "Eraka rokuraneno",
+            "petal-1": "Eraka rondjembe 1",
+            "petal-2": "Eraka rondjembe 2",
+            "petal-3": "Eraka rondjembe 3",
+            "petal-4": "Eraka rondjembe 4",
+            "petal-5": "Eraka rondjembe 5",
+            "petal-6": "Eraka rondjembe 6",
+            "petal-7": "Eraka rondjembe 7",
+            "petal-8": "Eraka rondjembe 8",
+            "center": "Pokati kondjembe",
+            "pot": "Orutjiwo",
+            "pot-rim": "Omuromo worutjiwo"
+          }
+        },
+        "house": {
+          "name": "Ondjuwo",
+          "regions": {
+            "sky": "Eyuru",
+            "sun": "Eyuva",
+            "grass": "Ohozu",
+            "chimney": "Omuhungiro womwitha",
+            "walls": "Omazoze",
+            "roof": "Oruvi",
+            "door": "Omuvero",
+            "window-left": "Ekende rokumoho",
+            "window-right": "Ekende rokuraneno",
+            "path": "Ondjila"
+          }
+        },
+        "teacup": {
+          "name": "Okakopi kotji",
+          "regions": {
+            "background": "Konyima",
+            "saucer": "Opareta",
+            "handle": "Omuhate",
+            "cup": "Okakopi",
+            "band": "Omukoka kokakopi",
+            "tea": "Otji"
+          }
+        },
+        "butterfly": {
+          "name": "Ombimbi",
+          "regions": {
+            "background": "Konyima",
+            "wing-top-left": "Evava rokombanda komoho",
+            "wing-top-right": "Evava rokombanda koraneno",
+            "wing-bottom-left": "Evava rokehi komoho",
+            "wing-bottom-right": "Evava rokehi koraneno",
+            "spot-left": "Etondo rokumoho",
+            "spot-right": "Etondo rokuraneno",
+            "body": "Orutu"
+          }
+        },
+        "sailboat": {
+          "name": "Oskepi yombepo",
+          "regions": {
+            "sky": "Eyuru",
+            "sea": "Emeva",
+            "sail-big": "Esaili enene",
+            "sail-small": "Esaili esupi",
+            "mast": "Omuti woskepi",
+            "hull": "Oskepi",
+            "flag": "Ependero"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Okombisa notjikunino",
+          "baskets": [
+            "Mokombitha",
+            "Motjikunino"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Ovihape novinamwinyo",
+          "baskets": [
+            "Ovihape",
+            "Ovinamwinyo"
+          ]
+        },
+        "home-travel": {
+          "label": "Eumbo nouyenda",
+          "baskets": [
+            "Peumbo",
+            "Mouyenda"
+          ]
+        }
+      }
+    }
+  }
+}

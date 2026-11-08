@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Oviperendero mbi sana",
+    "seoTitle": "Omunyando wokuhasana oviperendero kwoovandu mbe nomauzeu wokuzemburuka: Oviperendero mbi Sana",
+    "h1": "Oviperendero mbi Sana: Omunyando omuporote wokuhasana",
+    "description": "Omunyando womure omuporote wokuhasana oviperendero kwoovandu mbe nomauzeu wokuzemburuka. Oviperendero ovinene vi kara oviyeuke apehe, kapena otjiwiri poo omaraneno, nu mo sokutoorora otuvara 4 nga 12.",
+    "short": "Vaza oviperendero vivari mbi sana pamwe. Oviperendero vi yenena okukara vi munika apehe.",
+    "players": "Omundu 1 poo 2, va turamana pombinga",
+    "intro": "Tonya kotjiperendero, nu tji pa piti opo o tonya kwihi tji tji sana na tjo. Oviperendero vi kara oviyeuke oukahu, ngandu aaku kapena tji matji hepa okuzemburukwa. Tji pwa sana oviperendero vivari, vi pewa omukoka wokangondo nokamanyikiso kokuina.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Toorora otukonde tji tji ri po. Otukonde tune oruveze oruporote rwokutaara.",
+      "Tonya kotjiperendero ngamwa atjihe. Tji pewa omukoka wokangondo.",
+      "Tonya kotjiperendero tji tji sana na tjo. Ovivari vi kaza pamwe nokamanyikiso kokuina.",
+      "Tji vi ri pekepeke, kapena otjihihameno tji tji tjitwa. Tonya rukwao ngunda u ri tyike.",
+      "Munisa \"Oviperendero mbya horeka\" ngunda amuhe aveve amu yakura omukaro oukuru wovipapera mbi tondama."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Tamuna oviperendero kounene pamwe nu amu hungire kombinga yavyo: \"Etemba rokopi etjize. Ove u nwa omavele motee?\"",
+      "Yandjera omundu ngu u tekura ma tonye mwini, nandarire tji ma ku kutu oruveze. Ulike nongunino pendje nokumutonyena.",
+      "Karee notukonde tune ngunda atji tji uwa. Otukonde ovingi eororero kaku ri ondondo yokuvaza.",
+      "Manena ngunda atji ri ombango ondengu. Omunyando umwe otjitjitwa otjirungamene."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pena otjiwiri tjoruveze poo omaraneno?",
+        "a": "Koko. Kapena otjiwiri, omaraneno wondando, okubarurisa omahinano poo okutoniswa. Mo yenene okusuva potuveze ngamwa atuhe, nu okusuva pokati ongondorero osemba yokumanena."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Oviperendero ovikenya mbi zikira ovirarere?",
+        "a": "Okuyandjera oviperendero vi munike ku tjita kutja omunyando au kare wokutara nokuhasana pendje nokuzemburuka. Ovandu ovangi ve vaza kutja ihi otjiporote tjinene. Mo yenene okupindukira koviperendero mbya horeka motutonye ngamwa umwe tji u vanga."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Itji tjomure, nu mbi hepa okurisirisisa?",
+        "a": "Iiyo, otjomure, nu kapena omaisasaneno, erisirisiso poo okutorora. Matji ungura moukuhukise woyeva kongodji, otableta poo okompiuta."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Matu yenene okuungurisa omapeka weṱe oveni veṱundu?",
+        "a": "Iiyo. Rora Omapeka mbi sana, ngu me ku yandjere okutoorora omapeka motjitungi tjoye. Omapeka ye zikira moukuhukise woye nungwari ka ye twawa koutjiwike."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Vaza tji tji sana",
+    "seoTitle": "Vaza Otjiperendero Tji Tji Sana: Omunyando Omupuku kwoovandu mbe nomauzeu wokuzemburuka",
+    "h1": "Vaza Otjiperendero Tji Tji Sana",
+    "description": "Otjiperendero tjimwe kombanda, vivari nga vine kehi. Tonya kwihi tji tji sana na tjo. Omunyando womure omuporote woviperendero kwoovandu mbe nomauzeu wokuzemburuka, aape he ri otjiwiri.",
+    "short": "Tara otjiperendero tji tji ri kombanda nu o tonye kwihi tji tji sana na tjo kehi.",
+    "players": "Omundu 1 poo 2",
+    "intro": "Otjiperendero tjimwe tji kara kombanda yotjitarero. Kehi yatjo pena oviperendero vivari, vitatu poo vine. Tonya kwihi tji tji sana na tjo. Etoororo rimwe epuku poruveze rumwe, noruveze oruingi rwokuhungira.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Toorora oviperendero vivari, vitatu poo vine mbi u toora mu vyo. Vivari ovipuku tjinene.",
+      "Tareye otjiperendero tji tji ri kombanda pamwe.",
+      "Tonya kotjiperendero tji tji sana na tjo kehi. Tji zemburukwa nokamanyikiso kokuina nomambo ombahu.",
+      "Tji pwa tonywa otjiperendero tjarwe, omunyando u tamuna ena ratjo uriri nu aundju. Kaa handunuke.",
+      "Tonya \"Otjiperendero tji matji kongorere\" tji wa zikamene tjarwe."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Hungireye kombinga yotjiperendero atjihe ngunda amu he ya toorora: omirari vyovakara, ovihape, noruveze amu tji muna.",
+      "Ovihororwa vivari kavi ri \"ovipuku kounene\". Ondando oruveze oruwa, nungwari kaku ri erorero.",
+      "Tji pe nomauzeu wokutonya, omundu ma yenene okuurika nongunino nu ove otonyere po."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pena otjiwiri tjoruveze poo omaraneno?",
+        "a": "Koko. Kapena otjiwiri, omaraneno wondando, okubarurisa omahinano poo okutoniswa. Mo yenene okusuva potuveze ngamwa atuhe, nu okusuva pokati ongondorero osemba yokumanena."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Otjike tji tji tjitwa tji pwa tonywa otjiperendero tji he ri tjo?",
+        "a": "Kapena otjihihameno natjimwe. Kapena orutoni, omukorosi omutjize poo okuengenga. Omunyando u tamuna otjiperendero tji tji twa tonywa nu au undju etonyo etenga."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Itji tjomure, nu mbi hepa okurisirisisa?",
+        "a": "Iiyo, otjomure, nu kapena omaisasaneno, erisirisiso poo okutorora. Matji ungura moukuhukise woyeva kongodji, otableta poo okompiuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Okuhepera omuzire",
+    "seoTitle": "Omunyando wokuhasana omizire kwoovandu mbe nomauzeu wokuzemburuka: Womure kOintaneta",
+    "h1": "Okuhepera omuzire: Omunyando omuporote woviperendero",
+    "description": "Omuzire omumbwimbwi kombanda, oviperendero vivari nga vine kehi. Tonya kotjiperendero tji tji tjita omuzire mbo. Omunyando womure omuporote wokuhasana omizire kwoovandu mbe nomauzeu wokuzemburuka, aape he ri otjiwiri.",
+    "short": "Tara komuzire nu o tonye kotjiperendero tji tji u tjita.",
+    "players": "Omundu 1 poo 2",
+    "intro": "Okuhepera omuzire otjitjitwa tji tji tjiukwa nawa okuza komapapera womanyando, mba pe noviperendero ovinene nu kapena tji matji purintwa. Omuzire omuporote u ri kombanda yotjitarero nu oviperendero vivari, vitatu poo vine vi undja kehi. Tonya kwihi tji tji tjita omuzire. Ovihape tjimuna okambasikera, otjiwambarara poo etemba rotee ovipuku okuhungirira po pamwe.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Toorora oviperendero vivari, vitatu poo vine mbi u toora mu vyo. Vivari ovipuku tjinene.",
+      "Tareye omuzire pamwe. Orupe ru ri vi? Orusehame poo oruringine?",
+      "Tonya kotjiperendero tji tji tjita omuzire. Ena ratjo mari munika kehi yomuzire.",
+      "Tji pwa tonywa otjiperendero tjarwe, omunyando u tamuna ena ratjo uriri nu aundju. Kaa handunuke.",
+      "Tonya \"Omuzire tji mau kongorere\" tji wa zikamene urwe."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Hina kongorera omukoka womuzire nomunwe nu amu hungire kombinga yorupe.",
+      "Tji omizire mavi munika ovizeu ndino, pindukira ku Vaza tji tji sana, ku ku kara oviperendero mbi sana kourira.",
+      "Hungireye kombinga yotjiperendero tji tja vazewa: \"Eṱe twa ri notjiwambarara tjimuna ihi.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pena otjiwiri tjoruveze poo omaraneno?",
+        "a": "Koko. Kapena otjiwiri, omaraneno wondando, okubarurisa omahinano poo okutoniswa. Mo yenene okusuva potuveze ngamwa atuhe, nu okusuva pokati ongondorero osemba yokumanena."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Okupatanisa omitunhu noviperendero ouwa kovandu mbe nomauzeu wokuzemburuka?",
+        "a": "Matji sokukara otjiungura omatjatje nu otjipupu kovandu vamwe, unene pomautiro womauzeu ingo. Omitunhu ovikukutu vi parapara okuzemburukwa pu nomambo. Ovitjiungura viovyo vyokumuna onyanya nomizambero, katjiri omatwiriro wezeu, nu kavitjevere poo okukakaterisa oukekombepo wokuzemburuka. Tji tjeeta omanyando, rorera ko Okumuna otjingeto poo tara koviperendero pamwe uriri."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Tjike tji tji tjitwa tji pa kumiwa otjiperendero tji he ri tjo?",
+        "a": "Kapena otjiṋa tji tjikumisa poo tji tji uvisa omihihamo. Kapena omitunu vyokunwisa, otjikuruse otjizeru poo okuningina. Otjinyandwa matji tamene otjiperendero tji tja kumiwa nu matji undjire kokukuma ku komurungu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Otjotjomahala, nu me hepa okulirisaerisa?",
+        "a": "Iiyo, otjotjomahala, nu kapena okaundi, okulirisaerisa poo okunanena pehi. Matji ungura mouparanyene worungovi rongodji, otablete poo okombuyuta."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Hangunurire pamwe",
+    "seoTitle": "Otjinyandwa tjokuhangunura tjo vazeu wokuzemburuka: Hangunurire pamwe",
+    "h1": "Hangunurire pamwe: Oviungura vyokuhangunura oviperendero",
+    "description": "Kuma otjiperendero, ngono o kumu otjimbale mu tji sokuhina: mokombitha poo motjikunino, ovihape poo ovimuna. Otjiungura otjiporote nu otjotjomahala tjokuhangunura kovandu mbe nomauzeu wokuzemburuka.",
+    "short": "Tura otjiperendero atjihe motjimbale tjatjo: kombitha poo tjikunino, na vyarwe mbya kapitako.",
+    "players": "Omundu umwe poo vevari",
+    "intro": "Okuhangunura ootjiungura tjo paye tji tji tjiukwa nawa nu tji tjieta ombwaneno, tjimuna okutura oviungurisiwa komavanda poo okuripa ovindjato pekepeke. Kuma otjiperendero, ngono o kumu otjimbale mu tji sokuenda. Kapena okuhahizika nu kapena ondjira ya popi.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Toora otjiungura: okombitha notjikunino, ovihape novimuna, poo monganda nouyenda.",
+      "Kuma otjiperendero. Matji kondo noutjiwa wotjingorodo.",
+      "Kuma otjimbale mu tji hepa okuyenda. Otjiperendero matji twara motjimbale ngo.",
+      "Tji tji hepa okuyenda motjimbale tjikwao, otjinyandwa matji raere noupore nu tji undjire.",
+      "Tji pe manuka okuhangunurwa oviperendero avihe, tareye pamwe movimbale mbyo."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Mouparanga womuhoko kape nomaziriro omapopi. Omundu tji ma tja otjikotora tjomeva tji hepa okukara mokombitha, pura kutja ongwaye. Mape ya o munu ehokololo ewa.",
+      "Ungurisa oviperendero okuhinda ozombongarero: \"Ove wa kurisa tjike motjikunino tjoye?\"",
+      "Okuhangunura oviungurisiwa tyatyi, tjimuna omatoo nozondjupa poo ozombando kolukara rwazo, ouwa u tja vi koutara peke nombapara."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pe notjivareki tjomurungu poo ozombano?",
+        "a": "Kako. Kapena oiri, ozombano, omavarero wovirunduriro poo okunyandwa. Move ya okupwisa oruveze aruhe, nu okuzira pokati oondjira ombwa yo kumanisa."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Ongwaye okuhangunura?",
+        "a": "Ovandu ovengi ve yorokera okuhangunura orondu matji munika tjimuna otjiungura tji tji tjiukwa nawa. Nu wina oshipupu okuhungira koviperendero ngunda mu li motjiungura."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Otjotjomahala, nu me hepa okulirisaerisa?",
+        "a": "Iiyo, otjotjomahala, nu kapena okaundi, okulirisaerisa poo okunanena pehi. Matji ungura mouparanyene worungovi rongodji, otablete poo okombuyuta."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Otjinyandwa tjotjiperendero",
+    "seoTitle": "Otjinyandwa tjotjiperendero otjipupu tjovazeu wokuzemburuka: Oupese 4 poo 9",
+    "h1": "Otjinyandwa tjotjiperendero: Otjipupu tjokupatanisa",
+    "description": "Otjinyandwa tjotjiperendero tjokungovi otjipupu kovandu mbe nomauzeu wokuzemburuka: oupese ovatano ovakananḓu 4 poo 9, otjiperendero atjihe matji kara tji munika, nu mo kumu oupese vevari okuzipinganisa.",
+    "short": "Kuma oupese vevari okuzipinganisa nganduu otjiperendero atjihe tji tja koma pamwe.",
+    "players": "Omundu umwe poo vevari",
+    "intro": "Otjiperendero otjiwa tji ketwa moupesi ovakananḓu vine poo ymuwe nu atji wirasanyiwa. Otjiperendero atjihe matji munika kombanda tjimuna omuhongere. Kuma kapese kamwe, o kumu karwe, nu owo mave pinganisa ovikaro. Kapena ehepero rokunana.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Toora otjiperendero noupese 4 poo 9. Vine omatangero omaporote.",
+      "Tara kotjiperendero atjihe peke kombanda.",
+      "Kuma kapese, ngono o kumu poruveze pu ka sokukara. Oupese vevari mave pinganisa.",
+      "Oupese mbu wa kara poruveze rwawo pouwa mave kondo notjiraisiro otjititi.",
+      "Otjiperendero tji tja koma, nyandeye pamwe, ngono amu toora tjarwe."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Okukuma oupese vevari okuzipinganisa otjipupu unene kombanda yokunana kovandu ovengi.",
+      "Hungireye kotjiperendero tji matji komasanyiwa: \"Otyo tjihehero otjizeru tjeri peina.\"",
+      "Otjinyandwa tjotjiperendero tjiti tji nomiti vyo 12 nganduu 24 wina otjiungura otjiporote kotjitaavere."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pe notjivareki tjomurungu poo ozombano?",
+        "a": "Kako. Kapena oiri, ozombano, omavarero wovirunduriro poo okunyandwa. Move ya okupwisa oruveze aruhe, nu okuzira pokati oondjira ombwa yo kumanisa."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Mbi sokunana oupese?",
+        "a": "Kako. Kuma kapese kamwe, ngono o kumu karwe, nu owo mave pinganisa ovikaro. Ihi otjipupu tji pe neke rimwe tji ri ningina poo kokatara okaṱiṱi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Otjotjomahala, nu me hepa okulirisaerisa?",
+        "a": "Iiyo, otjotjomahala, nu kapena okaundi, okulirisaerisa poo okunanena pehi. Matji ungura mouparanyene worungovi rongodji, otablete poo okombuyuta."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Mana otjiheve",
+    "seoTitle": "Mana otjiheve: Otjinyandwa tjomiano vyovakuru",
+    "h1": "Mana otjiheve",
+    "description": "Oviheve mbi tjiukwa nawa mbya hepa embo erikotokero, tjimuna \"A penny saved is a penny ___\". Kuma etooro poo raisa emano rwayo, ngono amu hungire ko.",
+    "short": "Maneye oviheve mbi mwa yeva pamwe, ngono amu hungire ko.",
+    "players": "1, 2 poo otjimbumba",
+    "intro": "Oviheve vyonare oruvingi vi tjiukwa omuinyo auhe. Okakarata akehe ka raisa otjiheve tji tji tjiukwa nawa tji tja pumbwa embo ra koka pehi, omatoorero yetatu, nekonde ro \"Raisa emano\". Kombunda yemano, epuriro eporote mari nwine omahungi.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Leseye otjiheve pamwe nomundu mukwenyu noutukiriro.",
+      "Kuma embo ndi ma ri mana otjiheve, poo kuma \"Raisa emano\".",
+      "Leseye otjiheve atjihe rukwao nu amu hungire koutire wokukuma.",
+      "Kuma \"Otjiheve tji ma tji landere\" tji mwa rire nawa."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Lesa nahuhu nu u tare oruvingi ngunda ohiyakurisa embo rokotokero. Ovingi ovandu ve ri tona ngunda o hinamane.",
+      "Omundu tji ma yandja emano peke, riyandjereye kuro. Omitango vyoviheve vimwe vi pongoroka pokati komapanga poo orukondwa.",
+      "Motjimbumba, omundu umwe ma lesa nu avehe mave hepa okuza pamwe kemano."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pe notjivareki tjomurungu poo ozombano?",
+        "a": "Kako. Kakuna oiri, outa, okubarura omikambo poo okutaura. Ove mo yenene okukatura moruveze aruhe, nu okutura pokati ondjira ombwa tjinene yokumanina."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Indu tji twatoorora embo rarwe?",
+        "a": "Onyando mai raisa emaneno nga pa tjiukwa nu aihingi komurungu nomuhungiro. Kakuna outa, neziriro rarwe oro eri nawa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oyo oyowala, nu mbi hepa okurisjanga?",
+        "a": "Ii, oyowala, nu kakuna okaungura, okurisjanga poo okutona kehi. Oyo i ungura mombapira yetanatero yointaneta kongodhi, otapleta poo okopiuta."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Okupaha omambo momasorondondo omanene",
+    "seoTitle": "Okupaha Omambo momasorondondo Omanene kOvandu mbe nomauzeu wokuzembako, i piritwa",
+    "h1": "Okupaha Omambo momasorondondo Omanene",
+    "description": "Onyando yowala yokupaha omambo momasorondondo omanene kovanene novandu mbe nomauzeu wokuzembako. Omambo omaṱiti, omaso omanene, omambo mayerwa porweyo nokehi erike. Nyanda kointaneta poo piritisa.",
+    "short": "Omasorondondo omanene, omambo omaṱiti, porweyo nokehi erike. Piritisa wina.",
+    "players": "Omundu 1 poo 2",
+    "intro": "Orukaze orutiṱi ndu nomasorondondo omanene nomambo omaṱiti uriri, aehe mayerwa porweyo poo nokehi. Nya eposiro etenga rembo, okuzambo unya eposiro rayo rokumanina. Mo vanga ombapira? Piritisa onyando ombe monyanyo imwe.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Toorora otjiungura nongaro yorukaze.",
+      "Tara komutanda womambo. Omambo mayerwa porweyo (kumoho kokuoko kokunene) poo nokehi (kombanda kuya kehi).",
+      "Nya eposiro etenga rembo, okuzambo unya eposiro rayo rokumanina.",
+      "Embo ndi maraara mariraisiwa nu aridikwamo momutanda.",
+      "Nya \"Piritisa onyando indji\" kutja u nyande kombapira nopeni poo opensela."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Raisa embo momutanda nu mu pahe eposiro rarjo etenga pamwe.",
+      "Kombapira, openi yomara ohepu okukwata kombanda yopensela.",
+      "Hungireye komambo wotjiungura hi. Omambo womiti vyokurya ondjiro yombwa yokupatununa omazemburukiro wokutora, okuteleka poo komatara."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pena oiri poo outa?",
+        "a": "Kako. Kakuna oiri, outa, okubarura omikambo poo okutaura. Ove mo yenene okukatura moruveze aruhe, nu okutura pokati ondjira ombwa tjinene yokumanina."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Mbi yenene okupiritisa okupaha kwomambo oku?",
+        "a": "Ii. Nya \"Piritisa onyando indji\" okupiritisa orukaze rwanambano momasorondondo omanene, nomutanda womambo kehi yaro. Onyando ombe aihe ya panguka."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oyo oyowala, nu mbi hepa okurisjanga?",
+        "a": "Ii, oyowala, nu kakuna okaungura, okurisjanga poo okutona kehi. Oyo i ungura mombapira yetanatero yointaneta kongodhi, otapleta poo okopiuta."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Omapandja wokurambika omara",
+    "seoTitle": "Omapandja Wokurambika Omara kOvakuru mbe nomauzeu wokuzembako (Yowala)",
+    "h1": "Omapandja Wokurambika Omara",
+    "description": "Omapandja omapu wokurambika omara wovakuru nge nomahina omanene: nya ovara, okuzambo unya otjisurande. Kakuna ondovazu, kakuna ovara ehavi, nepandja arihe ri piritwa owala.",
+    "short": "Nya ovara, okuzambo unya orupa rwotjisurande. Piritisa omapandja wina.",
+    "players": "Omundu 1 poo 2",
+    "intro": "Omapandja nge nomitiro ovinene nu ovipepuke: ongono motee, ondjuwo, okakopi kotyee, ombapira nowato. Nya ovara, okuzambo unya orupa rwotjisurande okurizuzisa. Kakuna omara ehavi.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Toorora epandja.",
+      "Nya ovara. Ovara arihe rena ena rarjo ra sjangwapo.",
+      "Nya orupa rwotjisurande okurizuzisa novara mbo.",
+      "Rundurura ombango yoye moruveze aruhe mokuzuzisa rukwao.",
+      "Nya \"Piritisa epandja ndi\" okupeta epandja erirangata okurambika nopensela poo openi."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Yandja omara yevari wokutoororapo komurungu yomara ayehe indu okutoorora tji maku munika auri ku tumba.",
+      "Omiti vyoviola nomatango wousorere oviwa uriri. Ihi otjokutara komanyando womara, kape nousemba wopoutende.",
+      "Omapandja nga piritwa yaungura nawa noopeni omazeu poo outende wokurambika, mbi hepu okukwata momake."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pena oiri poo outa?",
+        "a": "Kako. Kakuna oiri, outa, okubarura omikambo poo okutaura. Ove mo yenene okukatura moruveze aruhe, nu okutura pokati ondjira ombwa tjinene yokumanina."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Omapandja nga owoutuku tjinene?",
+        "a": "Twa sura oviṋa ovihoze nu ovipepuke moruveze rwootjatji, kutja omapandja ye yane kovakuru. Omitiro ovinene vi tjita kutja okurambika omara ku kare ouhepu aahiri tjitwa otjoviṋa vyovanatje."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oyo oyowala, nu mbi hepa okurisjanga?",
+        "a": "Ii, oyowala, nu kakuna okaungura, okurisjanga poo okutona kehi. Oyo i ungura mombapira yetanatero yointaneta kongodhi, otapleta poo okopiuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Outuha twomuhungiro",
+    "seoTitle": "Omapatununiro Womuhungiro kOvandu mbe nomauzeu wokuzembako: Outuha twOvisurande",
+    "h1": "Outuha twOmuhungiro",
+    "description": "Outuha twozisurande mbu nomapatununiro ovihoze vyomuhungiro kovanene novandu mbe nomauzeu wokuzembako: kakuna omapuriro womarorero, kakuna omayandjiro omasemba woposyo. Ungurisa kosikrina poo piritisa otjiungura atjihe.",
+    "short": "Outuha twozisurande mbu nomapuriro omapatunuke nu ovihoze. Kakuna omarorero.",
+    "players": "Ovandu 2 poo otjimbumba",
+    "intro": "Kahuze kayehe kena otjisurande tji tjiukwa pamwe nombatero yokuhepa okuhungira, otja \"Oombepo zaye nde ku ningira komutima?\" Kakuna omayandjiro omasemba nu kakuna otjiṋa tji mo hepa okuzemburuka. Toorora otjiungura poo hanganisa aehe pamwe.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Toorora otjiungura, poo tura pu \"Outuha aehe\".",
+      "Lesa epuriro kombanda nu mu tare kotjisurande pamwe.",
+      "Zuva, handja ezuvire roye omuini, nu mu yandjere omuhungiro uhinge nawina.",
+      "Nya \"Kahuze komurungu\" tji wa ripurire, poo kara pamwe nokahuze kamwe oruveze ndu wa vanga.",
+      "Nya \"Piritisa outuha aehe\" okutenda orukondwa rwombapira."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Zira epuriro ove omuini wina. Iri tjiukwa otjomuhungiro, aahi otjopuriro tyomatatere.",
+      "Konga ehungi, kape notjiṋa noviṋa viozondunge zotjili uriri. Oviṋa tji vya runduruka, iho otjiwa uriri.",
+      "Kahuze tji ka kutura otjiṋa tji tji nomuinyo omuzandu, yakura ombango ndjo nu mu hinge nawa kokahuze karwe."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Ongwaye tji ku hina omapuriro nga \"Mo zemburuka...?\"",
+        "a": "Omapuriro nge rora omazemburukiro ye yenene okumunika aayo omarorero nu aye eta ohoni. Omapatununiro nga \"Mbutira ohunga na...\" ye yandjera omundu auhe okuhangana momuhungiro, kehi yomazemburukiro we."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Mbi yenene okupiritisa outuha?",
+        "a": "Ii. \"Piritisa outuha aehe\" i piritisa otjiungura atjihe momasorondondo omanene, outuha ouvingi kepandja rimwe, aari ripurire okutendwa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Oyo oyowala, nu mbi hepa okurisjanga?",
+        "a": "Ii, otjo tjipereta tjimwe, nu kapena o-akhauti, omerisasaneno poo okutoora ko. Tji ungura momburausa yongongo mongodi, motablet poo mokompiuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Oviperendero mbi patasana",
+    "seoTitle": "Ungura Otjinyando Tjokupatasana novi-oto vyOmbwaneno yOye",
+    "h1": "Oviperendero mbi Patasana: Patasisa ovi-oto vyOye Omuini",
+    "description": "Tjita ovi-oto vyombwaneno yoye omuini vi rire otjinyando omatjire tjokupatasana. Toorora ovi-oto 2 nga ku 6 motjirungura tjoye; vi kara momburausa yoye nu kavina pu vi tuminwa koutjiro.",
+    "short": "Toorora ovi-oto vyoye omuini nu vi patasise. Kapena tji tuminwa koutjiro.",
+    "players": "Ovandu 2, oruvingo noruvingo",
+    "intro": "Toorora ovi-oto vi vari nga ku vi hamboumwe mongodi yoye, tablet poo mokompiuta, nu vi rire otjinyando tjokupatasana novi-oto ovinene mbi munika nawa. Ovi-oto vi munika moperendero ndwi uriri. Kavi tuminwa koutjiro, kavi tuurwa orure poo okutjindilwa kowarwe, nu vi zemburuka kure indu tji wa pata epandja.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Twa omunwe pu \"Toorora ovi-oto\" nu u toorore ovi-oto vi vari nga ku vi hamboumwe.",
+      "Otji-oto atjihe tji munika ruvari. Twa omunwe putjimwe, okuzambo twa omunwe potjikwao tji tji patasana natjo.",
+      "Hungirei kombinga yotji-oto atjihe ngunda amu tji munu.",
+      "Indu tji mwa manuka, pata epandja ndwi poo twa omunwe pu \"Isako ovi-oto\". Kapena tji tji tuurwa orure."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Toorora ovi-oto mbi munika nawa vyoviṋa vyosorote nombwaneno: okanamuinyo kombo, otjikunino, oruveze ndu hoza tjinene, poo eyuva lyokuhukisirwa.",
+      "Oviperendero vyomavaze noviṋa vi yenena okurira oupepu pu omarama wovandu, nu vi ekeza omuhingo wokutokomisa omundu okutumbula omana wovandu.",
+      "Essa ovi-oto vyovandu mba koka tji mape ya avi eta oruhoze rotjivarero, ngatu tji mo tjiwa nawa kutja vi eta omuhoko nombepo ombwaneno."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Ovi-oto vyandje vi tuminwa pu rimwe koutjiro?",
+        "a": "Kako. Epandja rilesa ovi-oto mbi wa toorora motjirungura tjoye omuini nu vi raisa posikirini yoye. Kavi tuminwa ketwe poo komundu warwe auhe, nu vi pwa po indu tji wa pata poo okututa epandja rukwao."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Pena o-iri yoruveze poo ombaro yomanaku?",
+        "a": "Kako. Kapena o-iri, ombaro, omatjindiriro poo okutaura. U yenena okupa oruveze aruhe ndu wa vanga, nu okupa pokati omuano omumbwa tjinene wokumanuka."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Mbi yenena okutjangira otjinyando oruveze tji matji ya?",
+        "a": "Komburausa yako, otja tji tja ungurwa opo pahe ku ha tuurwa oviṋa vyoye vyouriri. Okambapira ka Golden Moments kokuha-futa ka iPhone na iPad ka yenena okutuura ovi-oto mbi wa toorora motjirungura tjoye."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo yoviperendero",
+    "seoTitle": "Bingo yOviperendero yOvakurupe mbe nOmbazu yOkuimbwa: Otjipurintwa",
+    "h1": "Bingo yOviperendero yOtjimbumba",
+    "description": "Bingo yoviperendero yokuhepa efuto yokupurinda yotjimbumba tjovakurupe nomatjeverero wozondangero, nomuraisire omuinene posikirini. Oviperendero ovinene pamwe nomambo, ozosikuere 9 poo 16, kapena hepero yokulesa.",
+    "short": "Otukarta twobingo twoviperendero twokupurinda nomuraisire woposikirini onene yotjimbumba.",
+    "players": "Otjimbumba tjovandu 2 nga ku 30",
+    "intro": "Bingo yotjiposa novi-oto komurungu womano, opo ape ha kara omundu ngu ma lesa otutwiti. Purinda otukarta pekepeke, nu u ungurise omuraisire woposikirini okuraisa otji-oto atjihe tjinene po-TV, laptop poo tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Toorora ozosikuere 9 poo 16 kokarta akehe na indu kutja penovanyande vengapi.",
+      "Twa omunwe pu \"Purinda otukarta\". Okarta akehe peke na kako.",
+      "Patulura omuraisire posikirini onene. Twa omunwe pu \"Otji-oto tji tji landako\" okuraisa otji-oto atjihe pamwe nena ratjo.",
+      "Ovanyande vasivisa otji-oto tji tji patasana kokarta kawo nosente, ombopi poo otjitwaye.",
+      "Auhe ngu ma urisa omukweyo, poo okarta akehe, u muna omarangariro. Kapena ovataure momuano mbwi: kayende komurungu nokunyanda nganduu auhe a kare nomukweyo."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Ungurisa ovitwaye ovinene tjimuna outji wokunyandisa poo ovikupiko vyozondjupa. Ombopi ozotwiti mazi yenene okutinda okutoora.",
+      "Tumbula ena rotjiperendero nu u hungire tjimwe kombinga yatjo: \"Owoato yomeva. Ouṋi ngwa kondere mo-woato?\"",
+      "Hakarisa ovandu mbe nomatendo wokumuna popezi nosikirini, nu u kute ovavatere pamwe novanyande mbe hepa ombatero.",
+      "Ozosikuere omuvyu ozingi rotjimbumba otjiingi. Kara noruveze rwominute 20 nga ku 30 uriri."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Mbi tjiti vi bingo yoviperendero monganda yomatjeverero?",
+        "a": "Purinda okarta kamwe komunyande auhe, tura omuraisire posikirini onene ndji u na yo, nu u isane oviperendero katiti katiti, amutumbula ena ra tjihe. Nyandei nganduu auhe a mune omukweyo, opo ape ha siwa omundu kombunda."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Okatjipereta okupurinda?",
+        "a": "Ii. Purinda otukarta otuingi otja tji mo hepa, oruveze aruhe ndu wa vanga, kombwaneno yoye omuini poo yotjimbumba."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Ovandu mave yenena okunyanda nokuhina okulesa?",
+        "a": "Ii. Osikuere aihe otjiperendero otjinene, pamwe nena ratjo kehi ya tjo kwoowo mbe vanga omambo."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Omusuwiro wombepo ombwaneno",
+    "seoTitle": "Orupa Rwomusuwiro Ombwaneno kOvakurupe nOvatjevere",
+    "h1": "Orupa Rwomusuwiro Ombwaneno",
+    "description": "Oruveze rwomusuwiro ombwaneno nowakwi wokuhanewa: orungoneno orwongundiparise ru kura nu aru teka momisuwiro ihamuhawe. Ove u tji uta, nu u yenena okupa oruveze aruhe.",
+    "short": "Orungoneno orwongundiparise rwokusuvira pamwe natjo. Uta nu u pe oruveze ndu wa vanga.",
+    "players": "Omundu 1 poo 2",
+    "intro": "Pena oruveze pu tji ri nawa okusuva katiti mwakwi. Twa omunwe pu \"Uta\", okuzambo hita nomuinyo indu orungoneno tji maru kuru nu u pise omupo indu tji maru teka. Toorora omusuwiro womangovindo poo wouparise. Ka muti wonduriro, omuhingo wombepo yomuhoko wokuhanewa uriri.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Kuramei nawa noutjire oruvingo noruvingo.",
+      "Toorora omusuwiro: womangovindo poo wouparise.",
+      "Twa omunwe pu \"Uta\". Hita nomuinyo indu orungoneno tji maru kuru, nu u pise indu tji maru teka.",
+      "Tji ripa owini kombunda yomisuwiro ihamuhawe, poo u twe omunwe pu \"Peka\" oruveze aruhe ndu wa vanga."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Kwatei komaoko poo u ture eke keoko romundu ngu u tjevera tji tji ri nawa ku ye.",
+      "O kakondjisa. Tji mave vanga okutara uriri, otjo tji ri nawa.",
+      "Tji pe nomundu ngu nomizeze momusuwiro, nga suve oukukutu nu a tare korungoneno uriri. Pura kondjita kombinga yomizeze ayohe yomusuwiro."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Ihi otjinyando tjounganga tjomusuwiro?",
+        "a": "Kako. Oruveze oruhape uriri rwombepo nomuhoko. Keri epango romuinyo omuserekarise poo omutjise auhe. Hungira nondjita kombinga yozongendo zourumbu woye."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Orungoneno maru rinyanga aapo ami hima uta?",
+        "a": "Kako. Kakuna tji matji nyinganyinga nga tji wa tona Start, nu matji kurama kombunda yomahihero hamboumwe poo tji wa tona Stop. Tji ebe otjiungurisiwa tjoye tja terekwa okututura omahenyo, omambo maye runduruka aapo otjimbulungundu katji kurire ko."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Hapo otjotjali, nu mbi hepa okuritjangisa?",
+        "a": "Ii, otjotjali, nu kakuna okaawundi, okuritjangisa poo okunanena mo. Matji ungura mombrowser yoweve mongodji, motablet poo mokompiyuta."
       }
     ]
   }
