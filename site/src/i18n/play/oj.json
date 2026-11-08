@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Gaagiigido",
+      "stopReading": "Gaawiin gaagiigidoosiin",
+      "region": "Giigidowin",
+      "restart": "Ayaamagad dash",
+      "soundOn": "Ginoondiwin wiikaa",
+      "soundOff": "Ginoondiwin gaawiin",
+      "done": "Gaawiin dash giiwe",
+      "feedbackQuestion": "Ganawaabamaa ezhichigeyan kiyaa?",
+      "feedbackYes": "Ahaa",
+      "feedbackNo": "Gaawiin gaa-kiinendaasiin",
+      "feedbackThanks": "Miigwech gii-dibaajimigoyan."
+    },
+    "tile": {
+      "named": "{name}, tile {n}",
+      "hidden": "Hidden picture, tile {n}",
+      "withState": "{label}, {state}",
+      "matched": "Matched",
+      "selected": "Selected",
+      "picture": "Picture",
+      "photoNumber": "Photo {n}"
+    },
+    "pairs": {
+      "allTogether": "All pairs together. Play again or take a break.",
+      "photoPair": "A pair of photos, together.",
+      "picturePair": "Two pictures of the {name|lower}, together.",
+      "selected": "{name}. Now find its pair.",
+      "mismatch": "Take your time. Tap a picture to continue.",
+      "mismatchNamed": "{a} and {b}. Take your time. Tap a picture to continue."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tap a picture, then tap the one that matches it.",
+      "guidanceHidden": "Tap two tiles to turn them over. Look for two the same.",
+      "restart": "New pictures",
+      "sizeLegend": "How many tiles",
+      "size": {
+        "one": "{n} bibaagaan",
+        "other": "{n} bibaagaanan"
+      },
+      "viewLegend": "How to play",
+      "viewShowing": "Pictures showing",
+      "viewHidden": "Hidden pictures",
+      "playAgain": "Play again with new pictures",
+      "talk": "Talk about pictures together"
+    },
+    "choose": {
+      "countLegend": "How many pictures",
+      "count": "{n} to choose from",
+      "thatOne": "That one is the {name|lower}. Take your time."
+    },
+    "findTheSame": {
+      "guidance": "Look at the picture at the top. Tap the same one below.",
+      "yes": "Yes, the same {name|lower}.",
+      "next": "Next picture"
+    },
+    "shadowMatch": {
+      "guidance": "Look at the shadow at the top. Tap the picture that makes it.",
+      "yes": "Yes, the {name|lower} makes that shadow.",
+      "next": "Next shadow",
+      "shadowAlt": "A shadow to match",
+      "foundAlt": "The shadow of the {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tap a picture, then tap the basket it belongs in.",
+      "restart": "New pictures",
+      "themeLegend": "Theme",
+      "selected": "{name}. Now tap the basket it goes in.",
+      "pickFirst": "First tap a picture, then tap a basket.",
+      "hint": "The {name|lower} could go in \"{basket}\". Tap that basket to put it there.",
+      "placed": "The {name|lower} is in \"{basket}\".",
+      "sorted": "Everything is sorted. Look through the baskets together, or try another theme.",
+      "basket": {
+        "one": "{basket} basket, {count} picture inside",
+        "other": "{basket} basket, {count} pictures inside"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tap one piece, then tap another. They swap places.",
+      "restart": "Mix up again",
+      "pictureLegend": "Picture",
+      "pictures": {
+        "sailboat": "Jiimaan",
+        "house": "Wiigiwaam",
+        "balloon": "Bagijiganaak",
+        "sunflower": "Giizhigaans",
+        "lighthouse": "Waaseyaa-wiigiwaam",
+        "cat": "Pishiw"
+      },
+      "sizeLegend": "Pieces",
+      "size": {
+        "one": "{n} giigaan",
+        "other": "{n} giigaanan"
+      },
+      "pickedUp": "Piece picked up. Now tap where it should go.",
+      "whole": "The {name|lower} is whole again. Choose another picture whenever you like.",
+      "swapped": {
+        "one": "Swapped. {correct} of {total} piece is in place.",
+        "other": "Swapped. {correct} of {total} pieces are in place."
+      },
+      "guideAlt": "The whole picture: {name}",
+      "guideText": "This is how the picture looks when it is whole.",
+      "piece": "Piece in the {place}",
+      "pieceInPlace": ", in the right place",
+      "piecePickedUp": ", picked up",
+      "places4": [
+        "ishkwaa-biidaaboo-ogaa",
+        "ishkwaa-biidaaboo-ogaa-zhaawanong",
+        "akiing-biidaaboo-ogaa",
+        "akiing-biidaaboo-ogaa-zhaawanong"
+      ],
+      "places9": [
+        "ishkwaa-biidaaboo-ogaa",
+        "ishkwaa-biidaaboo-ogaa-agaaming",
+        "ishkwaa-biidaaboo-ogaa-zhaawanong",
+        "agaming-ogaa",
+        "agaming",
+        "agaming-ogaa-zhaawanong",
+        "akiing-biidaaboo-ogaa",
+        "akiing-biidaaboo-ogaa-agaaming",
+        "akiing-biidaaboo-ogaa-zhaawanong"
+      ],
+      "done": "The picture is whole again. Play again or take a break.",
+      "playAgain": "Mix it up again"
+    },
+    "finishTheSaying": {
+      "guidance": "Read the saying together, then tap the word that finishes it.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Yes, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" works too. The usual saying ends with \"{end}\".",
+      "revealed": "The saying is \"{start} {end}.\"",
+      "choicesLabel": "Choose the last word",
+      "show": "Show the ending",
+      "talk": "Talk about it: ",
+      "next": "Next saying"
+    },
+    "wordSearch": {
+      "guidance": "Words go across or down. Tap the first letter of a word, then its last letter.",
+      "restart": "New puzzle",
+      "themeLegend": "Theme",
+      "sizeLegend": "Grid size",
+      "size": {
+        "one": "{n} by {n} ({words} word)",
+        "other": "{n} by {n} ({words} words)"
+      },
+      "print": "Print this puzzle",
+      "letterChosen": "Letter {letter} chosen. Now tap the last letter of the word.",
+      "found": "{word} found.",
+      "foundAll": "{word} found. That is every word. Play again or take a break.",
+      "tryAgain": "Take your time. Tap the first letter of a word, then its last letter.",
+      "gridLabel": "Letter grid, {n} rows of {n} letters. Use the arrow keys to move between letters.",
+      "cell": "{letter}, row {row}, column {col}",
+      "cellFound": ", part of a found word",
+      "wordsHeading": "Words to find",
+      "wordFound": " (found)",
+      "sheetTitle": "Word search: {theme}",
+      "sheetNote": "Words go across or down.",
+      "unavailable": "A letter grid does not suit this language, so the word search is not offered here. Try the picture games instead."
+    },
+    "coloring": {
+      "guidance": "Tap a color, then tap a part of the picture.",
+      "restart": "Clear the colors",
+      "cleared": "The page is blank again.",
+      "pageLegend": "Page",
+      "print": "Print this page",
+      "colorsLabel": "Colors",
+      "paintChosen": "{paint} chosen.",
+      "painted": "{part} is now {paint|lower}.",
+      "artLabel": "{page}, {count} parts to color",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, not colored",
+      "paints": {
+        "red": "Miskwi",
+        "orange": "Oranj",
+        "yellow": "Zhaawanaak",
+        "green": "Ozhaawashkwaa",
+        "blue": "Ginebig",
+        "purple": "Miskwi-ginebig",
+        "pink": "Miskwi-waabigwan",
+        "brown": "Makwa",
+        "sky-blue": "Giizhig-ginebig",
+        "cream": "Waabigwan",
+        "gray": "Ziigwaan",
+        "white": "Waabizii"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Read the card out loud. There are no right answers.",
+      "position": "Card {n} of {total}",
+      "themeLegend": "Theme",
+      "next": "Next card",
+      "previous": "Previous card",
+      "print": "Print all cards",
+      "sheetTitle": "Conversation cards"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Start by choosing your photos.",
+      "guidance": "Tap a photo, then tap the one that matches it.",
+      "restart": "Mix them again",
+      "intro": "**Choose 2 to 6 photos** from this device. They are shown only on this page and are never uploaded or saved.",
+      "choose": "Choose photos",
+      "chooseDifferent": "Choose different photos",
+      "clear": "Clear photos",
+      "cleared": "Photos cleared from this page.",
+      "atLeastTwo": "Please choose at least two photos.",
+      "usingFirst": "Using the first {max} photos.",
+      "skipped": {
+        "one": "{count} file was not a photo we can show.",
+        "other": "{count} files were not a photo we can show."
+      },
+      "playAgain": "Play again with these photos",
+      "empty": "Your photos will appear here, each one twice."
+    },
+    "pictureBingo": {
+      "guidance": "Print the cards first. Then show this caller on the biggest screen you have.",
+      "called": {
+        "one": "{name}. {called} of {total} picture called.",
+        "other": "{name}. {called} of {total} pictures called."
+      },
+      "start": "Tap \"Next picture\" to call the first picture.",
+      "restart": "Start a new game",
+      "squaresLegend": "Squares on each card",
+      "squares": "{n} squares ({side} by {side})",
+      "cardsLegend": "How many cards to print",
+      "cards": {
+        "one": "{n} card",
+        "other": "{n} cards"
+      },
+      "print": {
+        "one": "Print {n} bingo card",
+        "other": "Print {n} bingo cards"
+      },
+      "ready": "Ready when you are",
+      "next": "Next picture",
+      "allCalled": "Every picture has been called",
+      "alreadyCalled": "Already called",
+      "sheetTitle": "Picture bingo · card {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Neseng mekwach mangishkaamagak wawiyeyaa, mii dash gweneseng mekwach agaasaamagak. Ningodwaaswi dazhing gaa-ineseyan giga-boonii.",
+      "paceLegend": "Epiichi-gichi-neseng",
+      "paceSlow": "Bekaaji (5 seconds ako-dazhindamang)",
+      "paceGentle": "Dagoning (4 seconds ako-dazhindamang)",
+      "ready": "Giizhiitaa apii giin giizhiitaayan",
+      "in": "Neseng biinjayi'ii",
+      "hold": "Anwebin",
+      "out": "Gweneseng agwajiing",
+      "start": "Maajitaadaa",
+      "stop": "Booniin",
+      "started": "Maajitaamagad. Neseng mekwach mangishkaamagak wawiyeyaa.",
+      "stopped": "Gibooshkaamagad.",
+      "finished": "Mii iwe ningodwaaswi bekaaji gaa-ineseyan. Minawaa maajitaan apii weweni enendaman."
+    }
+  },
+  "pictures": {
+    "teacup": "Oniigaans",
+    "kettle": "Akikons",
+    "bread": "Bakwezhigan",
+    "frying-pan": "Zaasokwaan gaa-dagoniged waawan",
+    "cake": "Tibishkoo-bakwezhigan",
+    "sunflower": "Gichi-waabigwan",
+    "tulip": "Miskwaabigwan",
+    "watering-can": "Zhiginaagans",
+    "potted-plant": "Gitigaanens madowanensikang",
+    "tree": "Mitig",
+    "bird": "Opichi mitigong",
+    "butterfly": "Memengwaa",
+    "dog": "Animosh",
+    "cat": "Gaazhagens",
+    "fish": "Ozaawigigoons",
+    "apple": "Miskwimin",
+    "pear": "Biiyaas-mishiimin",
+    "strawberry": "Ode'imin",
+    "banana": "Wagaajiimin",
+    "lemon": "Zhiiwimin",
+    "cherries": "Okaaminag",
+    "house": "Waakaa'igan",
+    "lamp": "Waasiganens doopwining",
+    "armchair": "Apabiwin gaa-onizhishing",
+    "key": "Gichi-abaabika'igan",
+    "umbrella": "Agawaate'on",
+    "sailboat": "Giba'ige-jiimaan",
+    "car": "Odaabaan mewinzha",
+    "bicycle": "Dibaabaanens",
+    "balloon": "Ombashige-mishi-mashkimod",
+    "lighthouse": "Waasigan-waakaa'igan",
+    "sun": "Giizis",
+    "moon": "Tibiki-giizis miinawaa anangoog",
+    "teapot": "Anitiikaan-akikons",
+    "apple-pie": "Mishiimin-baashkiminasigan",
+    "honey-jar": "Aamoo-ziinzibaakwad atoowin",
+    "boiled-egg": "Waawan atoowinikang",
+    "toaster": "Abwenzo-makakons",
+    "cheese": "Waagosh-wiisiniwin",
+    "milk-jug": "Doodooshaaboo-atowin",
+    "cupcake": "Bakwezhigaans",
+    "orange": "Ozaawimin",
+    "grapes": "Zhoominag",
+    "watermelon": "Mishi-shkiigimin",
+    "pineapple": "Chi-shooshkomin",
+    "peach": "Misiminens",
+    "rose": "Ogiini-waabigwan",
+    "daisies": "Waabishki-waabigwaniin",
+    "mushroom": "Wazhashkwedoo",
+    "wheelbarrow": "Goonii-odaabaanens",
+    "birdhouse": "Bineshiiyens-waakaa'igan",
+    "cactus": "Gaa-miinikaag gitigaanens",
+    "acorn": "Mitigomin",
+    "autumn-leaf": "Dagwaagi-aniibiish",
+    "rabbit": "Waabooz",
+    "duck": "Zhiishiib",
+    "hen": "Baaka'aakwe",
+    "sheep": "Maanishtaanish",
+    "owl": "Gookooko'oo",
+    "ladybird": "Misko-manidoons",
+    "snail": "Bima'aajiish",
+    "frog": "Omakakii",
+    "bee": "Aamoo",
+    "clock": "Diba'igiiziswans",
+    "vase-of-flowers": "Waabigwaniin atoowinikang",
+    "radio": "Mewinzha boodawaaganens",
+    "books": "Mazina'iganiin",
+    "candle": "Waasiganens",
+    "glasses": "Agawaate-shkiinjigookaan",
+    "telephone": "Ganoonidiwin",
+    "ball-of-wool": "Maanishtaanishooweg-biiwabikoons",
+    "straw-hat": "Giiziso-wiiwakwaan",
+    "train": "Ishkode-odaabaan",
+    "bus": "Gichi-odaabaan",
+    "airplane": "Ombashige-jiimaan",
+    "suitcase": "Gichi-mashkimodens",
+    "tractor": "Gitigaane-odaabaan",
+    "rowing-boat": "Ajemone-jiimaan",
+    "rainbow": "Nagweyaab",
+    "rain-cloud": "Gimiwan-aanakwad",
+    "snowflake": "Zoogipowinens",
+    "kite": "Ombashichigan",
+    "sunrise": "Mooka'am giizis wajiwing"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "A B D E G H I K M N O P S T W Y Z",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Miinan",
+          "words": [
+            "MIIN",
+            "ODEIM",
+            "MISKWI",
+            "BOOTA",
+            "OZAWI",
+            "ZHOOM",
+            "WAGAJ",
+            "ZHIW",
+            "PIYA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Gitigaan",
+          "words": [
+            "MITIG",
+            "ANIIP",
+            "WAABI",
+            "ASIS",
+            "AKI",
+            "OJIPI",
+            "BASHK",
+            "MIISH",
+            "AAMO"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Jiibaakwewin",
+          "words": [
+            "EMKWAN",
+            "ONAGAN",
+            "BANA",
+            "AKIK",
+            "ANIT",
+            "TESIN",
+            "ANIBI",
+            "WIISIN",
+            "BODWE"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Gizhigate",
+          "words": [
+            "GIMI",
+            "ZOOGI",
+            "NODIN",
+            "GIISI",
+            "ANAK",
+            "AWAAN",
+            "KIZHO",
+            "DAKAYA",
+            "WASHO"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Awesiinyag",
+          "words": [
+            "ANIM",
+            "GAAZH",
+            "BINES",
+            "GIGO",
+            "WABOZ",
+            "ZHISH",
+            "AMIK",
+            "MAING",
+            "OMAK"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Endaayang",
+          "words": [
+            "ISHKW",
+            "APAB",
+            "NIBAG",
+            "WAASE",
+            "GIZHI",
+            "TESA",
+            "ABAAB",
+            "DOOPW",
+            "AGIBA"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kakina mazina'iganoonsan",
+        "food": "Mijim",
+        "home": "Endaayang",
+        "outdoors": "Agwajiing",
+        "animals": "Awesiinyag",
+        "travel": "Babaamaadiziwin",
+        "work": "Anokiiwin miinawaa minwendamowinan",
+        "music": "Nagamon miinawaa baapinenimowin",
+        "seasons": "Gookooshki-biboong miinawaa niibing"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Aaniin enandago-minomaagwak gegoo jiibaakwewigamigong wenji-minwendaman?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Aaniin dinowa bakwezhigan waa-onandaman apii mina-izhiwebizi-giizhigak?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Dibaajimaowishin aaniin iwe baashkiminasigan maagizhaa wiishkobaaboo memindagej gaa-minwandaman."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Aaniin ezhinikaazoyin gid-anitii maagizhaa gi-makade-mshkikiwaaboo?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Aaniin ge-onizhishing kigizhieb-wiisiniwin gikinoo'amaadiwinikang?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Aankobii-ina gaa-mawaandoonan miinan debishkoo gitigaanensikang wenji-zaagaking?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Wiishkoban maagizhaa zhiiwamagak: aaniin gaa-nawaaj minwandaman?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Aaniin miijim ezhi-minopogwak debishkoo niibinong apii miijiyan?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Dibaajimaowishin bezhig waakaa'igan gaa-minwandaman gi-daayan."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Aaniindi wenji-minwendaman anwebiyan miinawaa namadabiyan?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Aaniin enakamigiziyan apii bekaaji-onaagoshig endaayan?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Aaniin gichi-inendaagwak gegoo ge-atooyan onizhishi-makakong?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Aweenen waa-wiindamaadwaad bi-minikwed anitii giin maawandoogamigong?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Aaniin enakamigiziyan apii gimiwang?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Aaniin dinowa waabigwaniin waa-gitigaadaman gidigaaning?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Dibaajimaowishin mitig maagizhaa gitigaani-wenda'oong gaa-minwandaman."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Aaniin ezhi-gichi-onizhishing mekwach ayaayan gitigaaning?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Aaniin dinowa ezhi-miskwang waabigwaniin memindagej gaa-minwandaman?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Giminwendaan ina gitigaanensag daawaad biinjayi'ii endaayan?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Aaniin ezhiwebak gwayak gichi-minogeezhig mekwach zaagaatewising?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Dibaajimaowishin animosh mewinzha gaa-gikendamad."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Gaazhagensag maagizhaa animoshag, maagizhaa gaawiin bezhig? Aaniin wenji-minwandamawadwaad?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Aaniin bineshiiyag bi-waabamadwaad maagizhaa noondamadwaad agwajiing?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Gii-wewebinaabi ina mewinzha, maagizhaa giga-ganawaabandam gigoonsag gaa-ayaawaad zhaabwaabiikang?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Aaniin awesiinh gaa-michi-onizhishid gaa-waabamad?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Dibaajimaowishin odaabaan gaa-minwandaman mewinzha."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Gidaa-nawaaj-ina minwendaan agaming ayaayan maagizhaa wajiwing?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Aaniindi daa-wii-izhaayan mekwach bibaamibizoyan?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Gishpin daa-bimiseyan agwajiing daji-mishi-akiing, aaniindi waa-izhaayan?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Aaniin babaamaadiziwin gaa-gichi-minwendaman mewinzha?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Aaniin dinowa anokiiwin gaa-minwendaman mekwach anokiiyan?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Aaniin gegoo minwandaman ji-dazhiikaman ginwezh apii ginwenzh dazhindaman?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Aaniin iwe gegoo gaa-ojitooyan maagizhaa gaa-onizhitoodwaad wenda-gikendagoziyan?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Aaniin gagiikwewin daa-miizhoshkin oshki-anokiinini oshki-maajitaad?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Aaniin nagamon wenji-wii-gaashkigwaadayegozid gidzidang?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Aaniin wenda-onizhishid maawandobiwin mino-izhiwebak?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Aweenen nagamowinini maagizhaa nagamo-ikwe gaa-minwandamawad bizindamad?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Aaniin mazinaatesechigan maagizhaa mazinatesichigaans minawaa gaa-wii-ganawaabandaman?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Aaniin memindagej gaa-minwendaman apii niibing?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Aaniin minwendaman apii dagwaagig?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Aaniin onizhishid ge-izhi-anwebiyan biboong onaagoshig endaayan?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Aaniin nitam gaa-inaabandaman apii ziigwangi gikinoo'amaadiwinikang?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Goon, gimiwan, maagizhaa zaagaate: aaniin gaa-nawaaj minwandaman?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Waabigwan atowinikang",
+          "regions": {
+            "sky": "Ishpiming / Agwajiing",
+            "table": "Doopwin",
+            "stem": "Mitigoons",
+            "leaf-left": "Namunj aniibiish",
+            "leaf-right": "Gichi-ningwa'anung aniibiish",
+            "petal-1": "Waabigwanibag 1",
+            "petal-2": "Waabigwanibag 2",
+            "petal-3": "Waabigwanibag 3",
+            "petal-4": "Waabigwanibag 4",
+            "petal-5": "Waabigwanibag 5",
+            "petal-6": "Waabigwanibag 6",
+            "petal-7": "Waabigwanibag 7",
+            "petal-8": "Waabigwanibag 8",
+            "center": "Naawayi'ii waabigwaning",
+            "pot": "Akikons",
+            "pot-rim": "Zaagiji-akikoons"
+          }
+        },
+        "house": {
+          "name": "Waakaa'igan",
+          "regions": {
+            "sky": "Giizhig",
+            "sun": "Giizis",
+            "grass": "Mashkosiw",
+            "chimney": "Boodawaan-oodenaang",
+            "walls": "Gibaakwaganak",
+            "roof": "Apakwaan",
+            "door": "Ishkwaandem",
+            "window-left": "Namunj waasechigan",
+            "window-right": "Gichi-ningwa'anung waasechigan",
+            "path": "Miikanaans"
+          }
+        },
+        "teacup": {
+          "name": "Oniigaans",
+          "regions": {
+            "background": "Agwajiing / Ishkweyayi'ii",
+            "saucer": "Onaaganaans",
+            "handle": "Dagonigan",
+            "cup": "Oniigaans",
+            "band": "Biindaabik ezhinaagwak",
+            "tea": "Anitii"
+          }
+        },
+        "butterfly": {
+          "name": "Memengwaa",
+          "regions": {
+            "background": "Agwajiing / Ishkweyayi'ii",
+            "wing-top-left": "Ishpiming namunj ningwiigan",
+            "wing-top-right": "Ishpiming gichi-ningwa'anung ningwiigan",
+            "wing-bottom-left": "Taabashish namunj ningwiigan",
+            "wing-bottom-right": "Taabashish gichi-ningwa'anung ningwiigan",
+            "spot-left": "Namunj ningwiiganing mazina'igan",
+            "spot-right": "Gichi-ningwa'anung ningwiiganing mazina'igan",
+            "body": "Wiiyaw"
+          }
+        },
+        "sailboat": {
+          "name": "Giba'ige-jiimaan",
+          "regions": {
+            "sky": "Giizhig",
+            "sea": "Gichigami",
+            "sail-big": "Mishi-ningwiiganashk",
+            "sail-small": "Agaasaa-ningwiiganashk",
+            "mast": "Giba'ige-mitig",
+            "hull": "Jiimaan",
+            "flag": "Gikinoowabiigan"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Jiibaakwewigamig miinawaa gitigaan",
+          "baskets": [
+            "Miijim-wiigiwaaming",
+            "Mashkiki-akiing"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Miskomin miinawaa animanag",
+          "baskets": [
+            "Miskomin",
+            "Animanag"
+          ]
+        },
+        "home-travel": {
+          "label": "Wiigiwaaming miinawaa giiwewin",
+          "baskets": [
+            "Wiigiwaaming",
+            "Giiwe-maajaa"
+          ]
+        }
+      }
+    }
+  }
+}

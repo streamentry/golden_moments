@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Pèrs da maletgs",
+    "seoTitle": "Gieu da coordinar per persunas cun demenza: Pèrs da maletgs",
+    "h1": "Pèrs da maletgs: in gieu quiet da coordinar",
+    "description": "In gieu gratuit e quiet da coordinar per persunas che vivan cun demenza. Gronds maletgs restan visibels, i na dat nagin tempimeter ni puncts, e Vus pudais tscherner tranter 4 e 12 cartas.",
+    "short": "Tschertgar ils dus maletgs che correspundan. Ils maletgs pon restar visibels.",
+    "players": "1 u 2 persunas, ina sper l'autra",
+    "intro": "Tutgai in maletg, lura tutgai quel che correspunda. Da standard restan ils maletgs visibels, uschia che nagut na sto vegnir memorisà. Cura che dus maletgs van ensemen, survegnan els in ur dad aur ed in segn da controlla.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Tscherni quantas cartas che Vus vulais duvrar. Quatter cartas è in bun punct da partenza quiet.",
+      "Tutgai in maletg qualossas. El survegn in ur dad aur.",
+      "Tutgai il maletg che para medem. Il pèr resta ensemen cun in segn da controlla.",
+      "Sche ils dus maletgs èn differents, na capita nagut da nausch. Tutgai danovamain cur che Vus essas pronts.",
+      "Actessai «Maletgs zuppads» mo sche Vus omadus avais plaschair da la versiun classica cuvrida."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Numnai ils maletgs ad auta vusch ensemen e discurrai da quels: «Ina tazza da té cotschna. As plascha té cun latg?»",
+      "Lassai la persuna che Vus pertgirais tutgar il maletg, era sche quai cuzza in mument. Pli baud mussar cun il daint che tutgar per ella.",
+      "Restai tar quatter cartas uschè ditg sco quai fa bain. Dapli cartas è ina pussaivladad, mai in nivel che sto vegnir cuntanschì.",
+      "Terminai uschè ditg ch'i fa anc plaschair. Gia in gieu è ina bella activitad cumpletta."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Datti in tempimeter u puncts?",
+        "a": "Na. I na dat nagin'ura, nagins puncts, nagin quintadour da moviments e nagin perder. Vus pudais chalar da tut temp, e chalar amez è ina fitg buna moda da finir."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Pertge restan ils maletgs averti?",
+        "a": "Cura ch'ils maletgs restan visibels, sa mida il gieu en contemplar e coordinar enstagl da memorisar. Bleras persunas resentan quai sco pli quiet. Vus pudais midar sin maletgs zuppads cun in sulet tutgar, sche Vus preferis quai."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "È quai gratuit e stoli m'annunziar?",
+        "a": "Gea, quai è gratuit, ed i na dovra nagin conto, nagina registraziun e nagin telechargiament. I funcziuna directamain en il navigatur d'internet sin in telefonin, in tablet u in computer."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Pudains nus duvrar atgnas fotografias da famiglia?",
+        "a": "Gea. Emprovai Pèrs da fotografias, nua che Vus pudais tscherner fotografias da Voss apparat. Las fotografias restan en Voss navigatur e na vegnan betg chargiadas si."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Tschertgar il medem",
+    "seoTitle": "Tschertgar il medem maletg: gieu simpel per persunas cun demenza",
+    "h1": "Tschertgar il medem maletg",
+    "description": "In maletg sura, dus enfin quatter sutvart. Tutgai quel che correspunda. In gieu da maletgs quiet e gratuit per persunas che vivan cun demenza, senza tempimeter.",
+    "short": "Guardai il maletg sura e tutgai il medem sutvart.",
+    "players": "1 u 2 persunas",
+    "intro": "In sulet maletg sa chatta sura sin il visur. Sutvart datti dus, trais u quatter maletgs. Tutgai quel che correspunda. Igl è ina simpla decisiun a la giada, cun bler spazi per discurrer.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Tscherni dus, trais u quatter maletgs per tscherner. Dus è il pli simpel.",
+      "Guardai ensemen il maletg sura.",
+      "Tutgai il medem maletg sutvart. El vegn marcà cun in segn da controlla e cun paucs pleds cordials.",
+      "Sche in auter maletg vegn tutgà, numna il gieu simplamain quel e spetga. Prendai Voss temp.",
+      "Tutgai «Proxim maletg» cura che Vus essas pronts per in proxim."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Discurrai da mintga maletg avant che tscherner: colurs, furmas, nua ch'ins pudess vesair quai.",
+      "Duas opziuns na muntan betg «massa simpel». La finamira è in mument agreabel, betg ina sfida.",
+      "Sche tutgar fa fadia, po la persuna mussar cun il daint e Vus pudais tutgar per ella."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Datti in tempimeter u puncts?",
+        "a": "Na. I na dat nagin'ura, nagins puncts, nagin quintadour da moviments e nagin perder. Vus pudais chalar da tut temp, e chalar amez è ina fitg buna moda da finir."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Tge capita sche in auter maletg vegn tutgà?",
+        "a": "Nagut da displaschaivel. I na dat nagin tun d'avertiment, nagina crusch cotschna e nagin squass. Il gieu numna il maletg che è vegnì tutgà e spetga sin il proxim tutgar."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "È quai gratuit e stoli m'annunziar?",
+        "a": "Gea, quai è gratuit, ed i na dovra nagin conto, nagina registraziun e nagin telechargiament. I funcziuna directamain en il navigatur d'internet sin in telefonin, in tablet u in computer."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Coordinar sumbrivas",
+    "seoTitle": "Gieu da coordinar sumbrivas per persunas cun demenza: gratuit online",
+    "h1": "Coordinar sumbrivas: in gieu quiet da maletgs",
+    "description": "Ina sumbriva stgira sura, dus enfin quatter maletgs sutvart. Tutgai il maletg che tutga tar la sumbriva. In gieu quiet e gratuit da coordinar sumbrivas per persunas cun demenza, senza tempimeter.",
+    "short": "Guardai la sumbriva e tutgai il maletg che tutga tar ella.",
+    "players": "1 u 2 persunas",
+    "intro": "Coordinar sumbrivas è ina activitad bainenconuschenta ord fegls da lavur stampads, qua cun gronds maletgs e senza stuair stampar insatge. Ina sumbriva clera sa chatta sura sin il visur e dus, trais u quatter maletgs spetgan sutvart. Tutgai quel che tutga tar la sumbriva. Furmas sco in velo, in paraplie u ina tazza da té dattan era bunas occasiuns da discurrer.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Tscherni dus, trais u quatter maletgs per tscherner. Dus è il pli simpel.",
+      "Guardai ensemen la sumbriva. Tge furma ha ella? È ella auta u radunda?",
+      "Tutgai il maletg che tutga tar la sumbriva. Sia num cumpara sut la sumbriva.",
+      "Sche in auter maletg vegn tutgà, numna il gieu simplamain quel e spetga. Prendai Voss temp.",
+      "Tutgai «Proxima sumbriva» cura che Vus essas pronts per ina proxima."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Suandai la lingia da la sumbriva cun in daint e discurrai da la furma.",
+      "Sche sumbrivas pareschan grevas oz, midai sin Tschertgar il medem, nua ch'ils maletgs sumeglian in l'auter.",
+      "Discurrai dal maletg cur ch'el è chattà: «Nus avevan in tal paraplie.»"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Datti in tempimeter u puncts?",
+        "a": "Na. I na dat nagin'ura, nagins puncts, nagin quintadour da moviments e nagin perder. Vus pudais chalar da tut temp, e chalar amez è ina fitg buna moda da finir."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "È la cumparegliaziun d'ombras buna per persunas che vivan cun demenza?",
+        "a": "Ella po esser ina activitad gentila e simpla per part da las persunas, spezialmain en las fasas pli baivas. Furmas èn pli simplas da reconuscher che pleds. Ella è per plaschair e per conversar, betg per in test, e na guarescha ni na ralentescha la demenza. Sche ella chaschuna frustraziun, pudais Vus emprovar «Chatta medem» u simplamain guardar ensemen las maletgas."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Tge capita sch'ins tutga la maletga sbagliada?",
+        "a": "Nagut disagreabel. Nagin sun, nagina crusch cotschna e nagin tremblar. La partida nomna la maletga tutgada e spetga sin la proxima tutgada."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "È ella gratuita, e stuais Vus s'annunziar?",
+        "a": "Gea, ella è gratuita, e na serva nagin conto, nagina annunzia ni nagin telechargiament. Ella funcziunescha en il navigatur web sin in telefon, tablet u computer."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sortar ensemen",
+    "seoTitle": "Partida da sortar per demenza: Sortar ensemen",
+    "h1": "Sortar ensemen: ina activitad da sortar maletgas",
+    "description": "Tutgai ina maletga, lura tutgai la chascha nua ch'ella sa collocha: la cuschina u l'urtgaglia, la fruscha u las bestgias. Ina activitad quieta e gratuita da sortar per persunas che vivan cun demenza.",
+    "short": "Mettai mintga maletga en sia chascha: la cuschina u l'urtgaglia, e blers auters.",
+    "players": "1 u 2 persunas",
+    "intro": "Sortar è ina lavur familiara e sadisfatta da mintga di, sco metter a plaz las victualias u cumpignar las chaussettas. Tutgai ina maletga, lura tutgai la chascha nua ch'ella sa collocha. Na dat nagina fretta e nagin pass fals.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Tschernai in tema: cuschina e urtgaglia, fruscha e bestgias, u chasa e viadi.",
+      "Tutgai ina maletga. Ella survegn in confin d'aur.",
+      "Tutgai la chascha nua ch'ella sa collocha. La maletga va en quella chascha.",
+      "Sche ella sa collocha en l'autra chascha, la partida al descha cun delicatezza e spetga.",
+      "Cur che tut las maletgas èn sortadas, guardai ensemen tenor las chaschas."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "En la vita reala na dat savens nagins resultats fals. Sche qualchün di che ina bugliola da plantar appartegna en la cuschina, dumandai pertge. Vus pudais survegnir ina buna históra.",
+      "Duvrai las maletgas sco incitaziun: «Tge avais Vus crescì en l'urtgaglia?»",
+      "Sortar objects reals, sco cuvierts e furchettas u buttuns tenor colur, è ina bella continuaziun lontan da l'apparat."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Datti in cronometer u ina punctaziun?",
+        "a": "Na. Na datti nagin cronometer, nagina punctaziun, nagin contadur da moviments e nagina perdita. Vus pudais surstar en mintga mument, e surstar a mesa via è in modi perfetgamain bun da finir."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Pertge sortar?",
+        "a": "Blers persunas giodan da sortar perquai ch'il lavur para util e familiar. È er facil da discurrer davart las maletgas durant ch'ins fa quai."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "È ella gratuita, e stuais Vus s'annunziar?",
+        "a": "Gea, ella è gratuita, e na serva nagin conto, nagina annunzia ni nagin telechargiament. Ella funcziunescha en il navigatur web sin in telefon, tablet u computer."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Puzzle da maletgas",
+    "seoTitle": "Puzzle facil per demenza: 4 u 9 pezs",
+    "h1": "Puzzle da maletgas: in puzzle facil",
+    "description": "In puzzle facil online per persunas che vivan cun demenza: 4 u 9 pezs grands, la maletga entira resta visibla, e Vus tutgai dus pezs per als midar.",
+    "short": "Tutgai dus pezs per als midar, fin ch'la maletga è entira.",
+    "players": "1 u 2 persunas",
+    "intro": "Ina maletga amiaivla vegn tagliada en quatter u nov pezs grands e mischedada. La maletga entira resta visibla sco guida. Tutgai in pezs, lura auter, e lur midan lur plazza. Na dat nagin bisogn da trair.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Tschernai ina maletga e 4 u 9 pezs. Quatter è in start suave.",
+      "Guardai la maletga entira en la part superiura.",
+      "Tutgai in pezs, lura la plazza nua ch'el dovess esser. Ils dus pezs sa midan.",
+      "Pezs en la plazza giusta survegnan in pitschen segn da control.",
+      "Cur che la maletga è entira, giodai ensemen, lura tschernai ina nova."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Tutgar dus pezs per als midar è per blers persunas bler pli facil che trair.",
+      "Discurrei da la maletga cur ch'ella cumpara: «Qua è il tetg cotschen.»",
+      "In veritabel puzzle da lain cun 12 fin 24 pezs grands è er ina bella activitad sin maisa."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Datti in cronometer u ina punctaziun?",
+        "a": "Na. Na datti nagin cronometer, nagina punctaziun, nagin contadur da moviments e nagina perdita. Vus pudais surstar en mintga mument, e surstar a mesa via è in modi perfetgamain bun da finir."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Stuais Vus trair ils pezs?",
+        "a": "Na. Tutgai in pezs, lura tutgai in auter, e lur midan lur plazza. Quai è pli facil cun ina mauna tremblanta u sin in pitschen apparat."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "È ella gratuita, e stuais Vus s'annunziar?",
+        "a": "Gea, ella è gratuita, e na serva nagin conto, nagina annunzia ni nagin telechargiament. Ella funcziunescha en il navigatur web sin in telefon, tablet u computer."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Cumplettar il proverb",
+    "seoTitle": "Cumplettar il proverb: partida cun proverbs per persunas anzianas",
+    "h1": "Cumplettar il proverb",
+    "description": "Proverbs enconuschents cun l'ultima pleida manca. Tutgai ina tscherna u mussai la fin, lura discurrai da quai, cun la dumonda gentila sin la charta.",
+    "short": "Cumplettai ensemen proverbs enconuschents, lura discurrai da quels.",
+    "players": "1, 2 u in gruppa",
+    "intro": "Ils vegls proverbs èn blers gadas enconuschents per tut la vita. Mintga charta mussa in proverb enconuschent cun l'ultima pleida manca, trais tschernas e la buttuna «Mussar la fin». Suenter la fin fa ina dumonda gentila la conversaziun.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Legai il proverb ensemen cun vusch auta.",
+      "Tutgai la pleida che al finischa, u tutgai «Mussar la fin».",
+      "Legai puspè tut il proverb e discurrai davart quai cun la dumonda.",
+      "Tutgai «Proverb suenter» cur che Vus essas pronts."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Legai lent e lasciai ina pausa avant l'ultima pleida. Savens dizza la persuna ella stessa l'ultima pleida avant che Vus finias.",
+      "Sche qualchün dat ina autra fin, gudagnai da quai. Versiuns dad proverbs variaivlan tenor famiglia u regiun.",
+      "En ina gruppa legia ina persuna, e tuts pigliai part en la fin."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Datti in cronometer u ina punctaziun?",
+        "a": "Na. Nagin temp da mesirar, nagina punctegiaziun, nagin contader da moviments e nagin perder. Vus pudais smetter en mintga mument, e smetter a mesadad è era ina buna moda da chapitgar."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Che capita, sche nus tschernin in auter pled?",
+        "a": "Il gieu mussa la fin usitada e cuntinuescha lura cun la conversaziun. Nagina punctegiaziun exista, ed ina autra resposta va bain."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "È il gieu gratuit, e stuschi jau crear in conto?",
+        "a": "Gie, è gratuit, e na dovri nagin conto, nagina registraziun ni nagina telechargiada. Funcziona en il navigatur da la rait sin in telefonin, in tablet u in computer."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Tschercar pleds en stampa grossa",
+    "seoTitle": "Tschercar pleds en stampa grossa per persunas cun demenza, da stampar",
+    "h1": "Tschercar pleds en stampa grossa",
+    "description": "Tschercar pleds gratuit en stampa grossa per persunas anzianas e persunas che vivan cun demenza. Paucs pleds, littras grondas, be en lunghezza e en colonna. Giugar sin internet u stampar.",
+    "short": "Littras grondas, paucs pleds, be en lunghezza e en colonna. Stampar era.",
+    "players": "1 u 2 persunas",
+    "intro": "In taul pitschen cun littras grondas e be in pèr pleds, tuts en lunghezza u en colonna. Tutgai la prima littra d'in pled, lura l'ultima littra. Preferis carta? Stampai ina nova partida cun ina sola tutgada.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Tschernai in tema e la grondezza da la taul.",
+      "Guardai la glista da pleds. Ils pleds van da sanester a dretga u da sura a sut.",
+      "Tutgai la prima littra d'in pled, lura tutgai ses'ultima littra.",
+      "Il pled chattà vegn sligiadà e spustà da la glista.",
+      "Tutgai «Stampar questa partida» per giugar sin carta cun ina stifta."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Mussai in pled da la glista e tschercai insembel ses prima littra.",
+      "Sin carta è in marcader pli facil da tegnair en maun che ina stifta.",
+      "Discurrai dals pleds da la tema. Pleds da fritgs èn ina buna via per ir en ils memorias da cuglir, da cuschinar u dals marchads."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Exista in temp limitau u ina punctegiaziun?",
+        "a": "Na. Nagin temp da mesirar, nagina punctegiaziun, nagin contader da moviments e nagin perder. Vus pudais smetter en mintga mument, e smetter a mesadad è era ina buna moda da chapitgar."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Pos jau stampar il tschercar da pleds?",
+        "a": "Gie. Tutgai «Stampar questa partida» per stampar la taul actuala en stampa grossa, cun la glista da pleds sut. Mintga nova partida è differenta."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "È il gieu gratuit, e stuschi jau crear in conto?",
+        "a": "Gie, è gratuit, e na dovri nagin conto, nagina registraziun ni nagina telechargiada. Funcziona en il navigatur da la rait sin in telefonin, in tablet u in computer."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Paginas da colorar",
+    "seoTitle": "Paginas da colorar per adults cun demenza (gratuit)",
+    "h1": "Paginas da colorar",
+    "description": "Paginas da colorar simplas per adults, cun surfatgas grondas: tutgai ina colur, lura tutgai l'image. Nagina sporcaglia, naginas colurs falsas, e mintga pagina po vegnir stampada gratuitamente.",
+    "short": "Tutgai ina colur, lura ina part da l'image. Stampar era paginas.",
+    "players": "1 u 2 persunas",
+    "intro": "Paginas cun furmas grondas e simplas: ina bluma en in vasut, ina chasa, ina tasa da tè, ina pampalina e ina barca a vela. Tutgai ina colur, lura tutgai ina part da l'image per emplenir ella. Nagina colur è falsa.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Tschernai ina pagina.",
+      "Tutgai ina colur. Mintga colur ha ses num scrit sor ella.",
+      "Tutgai ina part da l'image per emplenir ella cun questa colur.",
+      "Cambiai vossa opiniun en mintga mument, emplenind ella puspè.",
+      "Tutgai «Stampar questa pagina» per ina pagina vida da colorar cun stiftas u pinnas da colurs."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Offrai dus colurs tar la tscherna, pli tgunsch che l'intga parada, sche tschernir para memia greiv.",
+      "Arbres viols e sulegls blaus èn bainvegnids. Il focus è sin il plaschair da colur, betg sin l'exactitud.",
+      "Paginas stampadas funcziunan bain cun pinnas grossas u stiftas da cera, che èn pli facilas da tegnair."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Exista in temp limitau u ina punctegiaziun?",
+        "a": "Na. Nagin temp da mesirar, nagina punctegiaziun, nagin contader da moviments e nagin perder. Vus pudais smetter en mintga mument, e smetter a mesadad è era ina buna moda da chapitgar."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Èn questas paginas memia infantilas?",
+        "a": "Nus avain pitturà objects calms e simpels e betg figurs da cartun, uschia che las paginas èn adattadas per adults. Furmas grondas fan il colurar facil, senza che el paia infantil."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "È il gieu gratuit, e stuschi jau crear in conto?",
+        "a": "Gie, è gratuit, e na dovri nagin conto, nagina registraziun ni nagina telechargiada. Funcziona en il navigatur da la rait sin in telefonin, in tablet u in computer."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Chartas da conversaziun",
+    "seoTitle": "Impuls per conversaziuns en caussa da demenza: chartas cun images",
+    "h1": "Chartas da conversaziun",
+    "description": "Chartas cun images e impuls gentils per la conversaziun per persunas che vivan cun demenza: nagins examens, nagins resultats gista. Duvrar sin l'auto u stampar l'intga part.",
+    "short": "Chartas cun images e dumondas avertas e gentilas. Nagins examens.",
+    "players": "2 persunas u in gruppa",
+    "intro": "Mintga charta collia ina image familiara cun in'invitaziun avert da discurrer, sco «Tge sort da temp preferis Vus?». Na dat'ei nagina resposta giusta e nagut da memorisar. Tschernai ina tema u mischedai tuttas.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Tschernai ina tema, u mantegnai «Tutgas chartas».",
+      "Legí la dumonda cun lingua auta e guardai l'image insembel.",
+      "Scoltai, cumpartegiai vossa atgna resposta e laschai la conversaziun ir ses chemin.",
+      "Tutgai «Charta suandanta» quant che Vus essas pront, u restai cun ina charta uschelunga sco Vus vulais.",
+      "Tutgai «Stampar tuttas chartas» per tagliar ina seria da papir."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Respunda Vus era a la dumonda. Il stgir è ina conversaziun, betg in examen.",
+      "Suandai la historia, betg ils fatgs. Sch'ils detagls càmbian, è quai bun.",
+      "Sche ina charta tutga ina chosa trista, renconuscai il sentiment e passai gentilmain a l'autra charta."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Pertge na dat'ei naginas dumondas sco «Vus v'algordais...?»",
+        "a": "Dumondas che testan la memoria paun sebassar sco in examen e pon chaschunar embarassament. Invitaziuns avertas sco «Raquintai-me da...» lasch a mintgin participar, independentemain da tge che la memoria cuntegn."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Pos jau stampar las chartas?",
+        "a": "Gie. «Stampar tuttas chartas» stampa l'intga seria en stampa grossa, pliras chartas per pagina, pronta per tagliar."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "È il gieu gratuit, e stuschi jau crear in conto?",
+        "a": "Gea, ei è gratuit, e na dovra nagin conto, nagina registraziun u nagin download. Ei funcziunescha en il navigatur da internet sin in telefon, in tablet u in computer."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Pêrs da fotografias",
+    "seoTitle": "Crear in gieu da pêrs cun fotografias da famiglia",
+    "h1": "Pêrs da fotografias: associai Vossas atgnas fotografias",
+    "description": "Transformai Vossas atgnas fotografias da famiglia en in gieu d'associaziun quiet. Tschernai da 2 fins 6 fotografias sin Vossa apparatura; ellas restan en Vossa navigaziun e na vegnan mai chargiadas sin internet.",
+    "short": "Tschernai Vossas atgnas fotografias e associai ellas. Nagina chargiada.",
+    "players": "2 persunas, ina datier l'autra",
+    "intro": "Tschernai da duas fins sis fotografias da Vossa telefonina, tablet u computer; ellas datti en in gieu d'associaziun cun images grondas e cleras. Las fotografias vegnan mostradas be en questa pagina. Ellas na vegnan betg chargiadas, memorisadas u parteschadas, e svanischan cura che Vus serrais la pagina.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tippai sur «Tschernai fotografias» e tschernai da duas fins sis fotografias.",
+      "Mintga fotografia cumparescha dus giadas. Tippai ina, lura tippai ses pêr.",
+      "Discurrai da mintga fotografia cura che Vus la chattais.",
+      "Cura che Vus essas a fin, serrai la pagina u tippai «Stizzar las fotografias». Nagut vegn memorisà."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Tschernai fotografias clli da chaussas cuntschaintas e legreivlas: in animal, in giardin, in lieu preferì, in di da nozzas.",
+      "Fotografias da lieus e da chaussas pon esser pli facilas che fatschas, e evitan la pressiun da dar nums a persunas.",
+      "Laschai ir fotografias da persunas morttas, sch'ellas pudessan prender ploranza subita, grazia ch'Vus savais che ellas dattan confort."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Vegnan miu fotografias chargiadas insomma?",
+        "a": "Na. La pagina legia las fotografias che Vus tschernais directamain en Vossa navigaziun e las mussa sin Voss ecran. Ellas na vegnan betg tramessas a nus u a nagin auter, e svanischan cura che Vus serrais u chargiais la pagina da nov."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Exista in cronometer u in punteggi?",
+        "a": "Na. Na dat nagin cronometer, nagin punteggi, nagin contadur da moviments e nagin perdegiar. Vus pudais smetter en mintga mument, e smetter a mez è ina fin bun."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Pos jau memorisar il gieu per la proxima giada?",
+        "a": "Na en la navigaziun, applitgadamain, uschia che nagut privat vegn memorisà. L'app gratuita Golden Moments per iPhone e iPad po memorisar sin Voss apparat copias tschernidas da fotografias."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo cun images",
+    "seoTitle": "Bingo cun images per persunas anzianas cun demenza: stampabel",
+    "h1": "Bingo cun images per gruppas",
+    "description": "Bingo cun images stampabel e gratuit per gruppas en l'assistenza da la memoria e per persunas anzianas, cun in chamader grond sin ecran. Images grondas cun pleds, 9 u 16 chaschas, nagin basegn da leger.",
+    "short": "Chartas da bingo cun images stampablas ed in chamader sin grond ecran per gruppas.",
+    "players": "Ina gruppa da 2 fins 30",
+    "intro": "Bingo classic cun images invezza da numers, uschia che nagin sto leger caratteras pitschnas. Stampai ina sequenza da chartas unicas, lura durmi il chamader sin ecran per mussar mintga image grond sin in TV, in computer u in tablet.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Tschernai 9 u 16 chaschas per chartina e quantas persunas che giogan.",
+      "Tippai sur «Stampar chartas». Mintga chartina è differenta.",
+      "Avrii il chamader sin in ecran grond. Tippai «Proxima image» per mussar mintga image cun ses nom.",
+      "Las persunas cuvran l'image correspondenta sin lur chartina cun in pezzet, in buton u in marcader.",
+      "Mintgin che emplenescha ina lingia u l'entira chartina survegn in applaus. Na dat nagins perdants en questa versiun: cuntinuai a giugar, fin che tuts han ina lingia."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Dovrai pezzets grands sco damas u chapellas da flaschas. Buttuns pitschens pon esser difficils da prender.",
+      "Nominai l'image e dai in pensum: «In bartgas a vela. Cui è gia navigà cun in bartgas?»",
+      "Poseschai las persunas che vesan mal il pli datier vi da l'ecran, e cumbinai ajutants cun giugaders che han basegn d'els.",
+      "Nov chaschas basta per la gronda part da las gruppas. Mantegnai la sessiun enturn 20 fins 30 minutas."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Co pon jau far bingo cun images en ina chasa d'assistenza?",
+        "a": "Stampai ina chartina per persuna, mettai il chamader sin il pli grond ecran che Vus avais, e clamai las images pausadamain, nominond mintga ina. Giogai fin che tuts han ina lingia, uschia che nagin resta enfin."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Stat il stampar gratuit?",
+        "a": "Gea. Stampai uschè bleras chartas sco che Vus avais dadas, uschè spess sco Vus vulais, per diever persunal u en gruppa."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Pon persunas giugar senza leger?",
+        "a": "Gea. Mintga chaschetta è ina image grond, cun ses nom sut ella per quels che preferischan pleds."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Respiraziun quieta",
+    "seoTitle": "Ina pausa da respiraziun quieta per persunas anzianas e per persunas che accumpagnan",
+    "h1": "Ina pausa da respiraziun quieta",
+    "description": "Ina pausa da respiraziun lenta e quieta da cundivider: in cerchel gentil crescha e sa restringa per sis respiraziuns. Vus l'entschaivais, e Vus pudais smetter en mintga mument.",
+    "short": "In cerchel lent per respirar insembel. Entschaiva e smetta sco Vus vulais.",
+    "players": "1 u 2 persunas",
+    "intro": "Insumma, ina pausa quieta po esser l'activitad la meglra. Tippai «Entschaiva», lura inspirai cur che il cerchel crescha e expirai cur ch'el sa restringa. Tschernai in pass pli lent u pli spert. Quai na è betg ina terapia, mo mo in mument pacific da cundivider.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Sesseschai cumadaivel da cuort, l'un datier l'auter.",
+      "Tschernai in pass: lent u suave.",
+      "Tippai «Entschaiva». Inspirai cur ch'il cerchel crescha, ed expirai cur ch'el sa restringa.",
+      "El s'arresta automaticamain suenter sis respiraziuns, u tippai «Stop» cura che Vus volais."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Tegnai las mauns insembel u mettai la mauna sin il bratsch da la persuna, sch'i è bainvis.",
+      "Na insistai mai. Sch'ella preferescha guardar, è quai bun.",
+      "Sch'ina persuna ha problems da respirar, respirai normalmain e guardai be il cerchel. Discutai tut las dumondas da respiraziun cun in medi."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Èsi quai in exercizi medicinal da respiraziun?",
+        "a": "Na. Quai è ina pausa simpla e facultativa per calma e cumpagnia. Quai na è betg ina terapia per anxietad u per nagina malsaina. Discutai las dumondas da sanadad cun in medi."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Sa mova il cerchel senza che jau al entschaiva?",
+        "a": "Na. Nagut na sa mova fin che Vus tutgais sin «Start», ed i s'arresta suenter sis respiraziuns u cura che Vus tutgais sin «Stop». Sche Voss apparat è configurà per reducir ils moviments, sa midan ils pleds senza ch'il rudè creschia."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "È quai gratuit e sto jau m'inscriver?",
+        "a": "Gea, quai è gratuit, ed i na dat nagin conto, nagina inscripziun e nagin telechargiament. I funcziuna en il navigatur dal web sin in telefonin, ina tabletta u in computer."
       }
     ]
   }

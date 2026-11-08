@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Soma mu ijwi riranguruye",
+      "stopReading": "Hagarika gusoma",
+      "region": "Umukino",
+      "restart": "Ongera utangire",
+      "soundOn": "Fungura amajwi mato",
+      "soundOff": "Zimya amajwi mato",
+      "done": "Birahagije aka kanya",
+      "feedbackQuestion": "Ese ibi byagufashije uyu munsi?",
+      "feedbackYes": "Yego",
+      "feedbackNo": "Oya si cyane",
+      "feedbackThanks": "Urakoze kutubwira."
+    },
+    "tile": {
+      "named": "{name}, ikarita ya {n}",
+      "hidden": "Ifoto ihishe, ikarita ya {n}",
+      "withState": "{label}, {state}",
+      "matched": "Byahuje",
+      "selected": "Yahiswemo",
+      "picture": "Ifoto",
+      "photoNumber": "Ifoto ya {n}"
+    },
+    "pairs": {
+      "allTogether": "Amashusho yose ahuye. Ongera ukine cyangwa uruhukeko gato.",
+      "photoPair": "Amafoto abiri asa, ari kumwe.",
+      "picturePair": "Amafoto abiri ya {name|lower}, ari kumwe.",
+      "selected": "{name}. Noneho shakisha ifoto isa nayo.",
+      "mismatch": "Fata umwanya wawe. Kanda ku ifoto kugira ngo ukomeze.",
+      "mismatchNamed": "{a} na {b}. Fata umwanya wawe. Kanda ku ifoto kugira ngo ukomeze."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Kanda ku ifoto, hanyuma ukande ku yindi isa nayo.",
+      "guidanceHidden": "Kanda ku makarita abiri uyubure. Shakisha amakarita abiri asa.",
+      "restart": "Amafoto mashya",
+      "sizeLegend": "Umubare w'amakarita",
+      "size": {
+        "one": "Ikarita {n}",
+        "other": "Amakarita {n}"
+      },
+      "viewLegend": "Uburyo bwo gukina",
+      "viewShowing": "Amafoto agaragara",
+      "viewHidden": "Amafoto ahishe",
+      "playAgain": "Ongera ukine ukoresheje amafoto mashya",
+      "talk": "Kuganira ku mafoto muri kumwe"
+    },
+    "choose": {
+      "countLegend": "Umubare w'amafoto",
+      "count": "Amafoto {n} yo guhitamo",
+      "thatOne": "Iyo ni {name|lower}. Fata umwanya wawe."
+    },
+    "findTheSame": {
+      "guidance": "Reba ifoto yo hejuru. Kanda ku ifoto isa nayo yo hasi.",
+      "yes": "Yego, ni {name|lower} isa nayo.",
+      "next": "Ifoto ikurikira"
+    },
+    "shadowMatch": {
+      "guidance": "Reba igicucu cyo hejuru. Kanda ku ifoto ikigira.",
+      "yes": "Yego, {name|lower} niyo igira icyo gicucu.",
+      "next": "Igicucu gikurikira",
+      "shadowAlt": "Igicucu cyo guhuza",
+      "foundAlt": "Igicucu cya {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Kanda ku ifoto, hanyuma ukande ku gaseke ikwiriye kujyamo.",
+      "restart": "Amafoto mashya",
+      "themeLegend": "Insanganyamatsiko",
+      "selected": "{name}. Noneho kanda ku gaseke ikwiriye kujyamo.",
+      "pickFirst": "Banza ukande ku ifoto, hanyuma ukande ku gaseke.",
+      "hint": "{name|lower} yajya muri \"{basket}\". Kanda kuri ako gaseke kugira ngo uyishyiremo.",
+      "placed": "{name|lower} iri muri \"{basket}\".",
+      "sorted": "Byose byashyizwe mu myanya yabyo. Musuzumire hamwe ibiri mu duseke, cyangwa muhitemo indi nsanganyamatsiko.",
+      "basket": {
+        "one": "Agaseke ka {basket}, karimo ifoto {count}",
+        "other": "Agaseke ka {basket}, karimo amafoto {count}"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Kanda ku gace kamwe, hanyuma ukande ku kandi. Birahinduranya imyanya.",
+      "restart": "Ongera uvange",
+      "pictureLegend": "Ifoto",
+      "pictures": {
+        "sailboat": "Ubwato bugendera ku muyaga",
+        "house": "Inzu",
+        "balloon": "Umupira wo mu kirere",
+        "sunflower": "Ururabo rw'izuba",
+        "lighthouse": "Umunara w'amatara",
+        "cat": "Injangwe"
+      },
+      "sizeLegend": "Uduce",
+      "size": {
+        "one": "Agace {n}",
+        "other": "Uduce {n}"
+      },
+      "pickedUp": "Agace katoranyijwe. Noneho kanda aho kagomba kujya.",
+      "whole": "{name|lower} yongeye kuba yose. Hitamo indi foto igihe cyose ubishakiye.",
+      "swapped": {
+        "one": "Bihinduranyijwe imyanya. Agace {correct} kuri {total} kari mu mwanya wako.",
+        "other": "Bihinduranyijwe imyanya. Uduce {correct} kuri {total} turi mu mwanya watwo."
+      },
+      "guideAlt": "Ifoto yuzuye: {name}",
+      "guideText": "Uko ifoto isa iyo yuzuye neza.",
+      "piece": "Agace ko mu {place}",
+      "pieceInPlace": ", kari mu mwanya wako",
+      "piecePickedUp": ", katoranyijwe",
+      "places4": [
+        "hejuru ibumoso",
+        "hejuru iburyo",
+        "hasi ibumoso",
+        "hasi iburyo"
+      ],
+      "places9": [
+        "hejuru ibumoso",
+        "hejuru hagati",
+        "hejuru iburyo",
+        "hagati ibumoso",
+        "hagati na hagati",
+        "hagati iburyo",
+        "hasi ibumoso",
+        "hasi hagati",
+        "hasi iburyo"
+      ],
+      "done": "Ifoto yongeye kuba yose. Ongera ukine cyangwa uruhukeko gato.",
+      "playAgain": "Ongera uvange"
+    },
+    "finishTheSaying": {
+      "guidance": "Musomere hamwe umugani, hanyuma ukande ku jambo riwusoza.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Yego, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" nayo irakora. Umugani usanzwe urangira na \"{end}\".",
+      "revealed": "Umugani uvuga uti \"{start} {end}.\"",
+      "choicesLabel": "Hitamo ijambo rya nyuma",
+      "show": "Erekana uko urangira",
+      "talk": "Kuganira kuri uyu mugani: ",
+      "next": "Umugani ukurikira"
+    },
+    "wordSearch": {
+      "guidance": "Amagambo atambitse cyangwa ahagaze. Kanda ku nyuguti ya mbere y'ijambo, hanyuma ukande ku ya nyuma.",
+      "restart": "Umukino mushya",
+      "themeLegend": "Insanganyamatsiko",
+      "sizeLegend": "Ingano y'urubuga",
+      "size": {
+        "one": "{n} kuri {n} (ijambo {words})",
+        "other": "{n} kuri {n} (amagambo {words})"
+      },
+      "print": "Sohora uyu mukino mu mpapuro",
+      "letterChosen": "Inyuguti ya {letter} yatoranyijwe. Noneho kanda ku nyuguti ya nyuma y'ijambo.",
+      "found": "{word} ryabonetse.",
+      "foundAll": "{word} ryabonetse. Amagambo yose yabonetse. Ongera ukine cyangwa uruhukeko gato.",
+      "tryAgain": "Fata umwanya wawe. Kanda ku nyuguti ya mbere y'ijambo, hanyuma ukande ku ya nyuma.",
+      "gridLabel": "Urubuga rw'inyuguti, imirongo {n} ifite inyuguti {n}. Koresha utwambi two kuri mudasobwa kugira ngo ugende hagati y'inyuguti.",
+      "cell": "{letter}, umurongo wa {row}, inkingi ya {col}",
+      "cellFound": ", igice cy'ijambo ryabonetse",
+      "wordsHeading": "Amagambo yo gushakisha",
+      "wordFound": " (ryabonetse)",
+      "sheetTitle": "Gushakisha amagambo: {theme}",
+      "sheetNote": "Amagambo atambitse cyangwa ahagaze.",
+      "unavailable": "Urubuga rw'inyuguti ntirubereye uru rurimi, bityo gushakisha amagambo ntibiri hano. Kina imikino y'amashusho mu mwanya wabyo."
+    },
+    "coloring": {
+      "guidance": "Kanda ku ibara, hanyuma ukande ku gice cy'ifoto.",
+      "restart": "Guhanagura amabara",
+      "cleared": "Urupapuro rwongeye kuba rwera.",
+      "pageLegend": "Urupapuro",
+      "print": "Sohora uru rupapuro mu mpapuro",
+      "colorsLabel": "Amabara",
+      "paintChosen": "Ibara rya {paint} ryatoranyijwe.",
+      "painted": "{part} noneho ifite ibara rya {paint|lower}.",
+      "artLabel": "{page}, ibice {count} byo gusiga amabara",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ntirasigwa ibara",
+      "paints": {
+        "red": "Umutuku",
+        "orange": "Oronji",
+        "yellow": "Umuhondo",
+        "green": "Icyatsi",
+        "blue": "Ubururu",
+        "purple": "Viyole",
+        "pink": "Roza",
+        "brown": "Ikawa",
+        "sky-blue": "Ubururu bwerurutse",
+        "cream": "Kireme",
+        "gray": "Imvi",
+        "white": "Umweru"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Musomere ikarita mu ijwi riranguruye. Nta bisubizo bitari byo bibaho.",
+      "position": "Ikarita ya {n} kuri {total}",
+      "themeLegend": "Insanganyamatsiko",
+      "next": "Ikarita ikurikira",
+      "previous": "Ikarita ibanza",
+      "print": "Sohora amakarita yose mu mpapuro",
+      "sheetTitle": "Amakarita yo kuganiriraho"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Banza uhitemo amafoto yawe.",
+      "guidance": "Kanda ku ifoto, hanyuma ukande ku isa nayo.",
+      "restart": "Ongera uyavange",
+      "intro": "**Hitamo amafoto kuva kuri 2 kugeza kuri 6** kuri iki gikoresho. Agaragara gusa kuri uru rupapuro kandi ntashyirwa kuri murandasi cyangwa ngo abikwe.",
+      "choose": "Hitamo amafoto",
+      "chooseDifferent": "Hitamo ayandi mafoto",
+      "clear": "Kuraho amafoto",
+      "cleared": "Amafoto yakuwe kuri uru rupapuro.",
+      "atLeastTwo": "Nyabuneka hitamo byibura amafoto abiri.",
+      "usingFirst": "Hakoreshejwe amafoto {max} ya mbere.",
+      "skipped": {
+        "one": "Dosiye {count} ntiyari ifoto dushobora kwerekana.",
+        "other": "Dosiye {count} ntizari amafoto dushobora kwerekana."
+      },
+      "playAgain": "Ongera ukine ukoresheje aya mafoto",
+      "empty": "Amafoto yawe azagaragara hano, buri rimwe ryikubye kabiri."
+    },
+    "pictureBingo": {
+      "guidance": "Banza usohore amakarita mu mpapuro. Hanyuma werekane iki gikoresho cyo guhamagara kuri ecran nini ufite.",
+      "called": {
+        "one": "{name}. Ifoto {called} kuri {total} yahamagawe.",
+        "other": "{name}. Amafoto {called} kuri {total} yahamagawe."
+      },
+      "start": "Kanda \"Ifoto ikurikira\" kugira ngo uhamagare ifoto ya mbere.",
+      "restart": "Tangira umukino mushya",
+      "squaresLegend": "Uduce kuri buri karita",
+      "squares": "Uduce {n} ({side} kuri {side})",
+      "cardsLegend": "Umubare w'amakarita yo gusohora mu mpapuro",
+      "cards": {
+        "one": "Ikarita {n}",
+        "other": "Amakarita {n}"
+      },
+      "print": {
+        "one": "Sohora ikarita {n} ya bingo mu mpapuro",
+        "other": "Sohora amakarita {n} ya bingo mu mpapuro"
+      },
+      "ready": "Biteguye igihe cyose waba witeguye",
+      "next": "Ifoto ikurikira",
+      "allCalled": "Buri foto yahamagawe",
+      "alreadyCalled": "Yaramaze guhamagarwa",
+      "sheetTitle": "Bingo y'amashusho · ikarita ya {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Shyira umwuka mu gihe uruziga rwaguka, hanyuma ukuremo umwuka mu gihe rugabanuka. Uruziga rwiyahagarika wenyine nyuma y'ihumeka esheshatu.",
+      "paceLegend": "Umuvuduko",
+      "paceSlow": "Buhoro (amasegonda 5 buri ruhande)",
+      "paceGentle": "Witonze (amasegonda 4 buri ruhande)",
+      "ready": "Witeguye igihe cyose ubishakiye",
+      "in": "Injiza umwuka",
+      "hold": "Ruhuka",
+      "out": "Sohora umwuka",
+      "start": "Tangira",
+      "stop": "Hagarara",
+      "started": "Watangiye. Injiza umwuka uruziga rwaguka.",
+      "stopped": "Warahagaze.",
+      "finished": "Ibyo byari ihumeka esheshatu ritinze. Ongera utangire igihe cyose ubishakiye."
+    }
+  },
+  "pictures": {
+    "teacup": "Igikombe cy'icyayi",
+    "kettle": "Iketiri",
+    "bread": "Umugati",
+    "frying-pan": "Isafuriya n'igi",
+    "cake": "Keke y'isabukuru",
+    "sunflower": "Ururabyo rw'izuba",
+    "tulip": "Tulipe itukura",
+    "watering-can": "Ikibindi cyo kuhira",
+    "potted-plant": "Igiti mu nkono",
+    "tree": "Igiti",
+    "bird": "Inyoni ku ishami",
+    "butterfly": "Ikinyugunyugu",
+    "dog": "Imbwa",
+    "cat": "Injangwe",
+    "fish": "Ifi ya zahabu",
+    "apple": "Pome itukura",
+    "pear": "Ipera",
+    "strawberry": "Sitiroberi",
+    "banana": "Igitoki",
+    "lemon": "Indimu",
+    "cherries": "Serise",
+    "house": "Inzu",
+    "lamp": "Itara ryo ku meza",
+    "armchair": "Intebe y'ikiruhuko",
+    "key": "Urufunguzo rwa kera",
+    "umbrella": "Umutaka",
+    "sailboat": "Ubwato bw'umuyaga",
+    "car": "Imodoka ya kera",
+    "bicycle": "Igare",
+    "balloon": "Ballon y'umwuka ushyushye",
+    "lighthouse": "Umunara w'urumuri",
+    "sun": "Izuba",
+    "moon": "Ukwezi n'inyenyeri",
+    "teapot": "Ikibindi cy'icyayi",
+    "apple-pie": "Pie ya pome",
+    "honey-jar": "Ikibindi cy'ubuki",
+    "boiled-egg": "Igi mu gikombe",
+    "toaster": "Igikoresho cyo kokeresha umugati",
+    "cheese": "Agace k'ifromaje",
+    "milk-jug": "Ikibindi cy'amata",
+    "cupcake": "Keke ntoya",
+    "orange": "Ironji",
+    "grapes": "Ikirumbo cy'inzabibu",
+    "watermelon": "Agace k'ikinyomoro",
+    "pineapple": "Inanasi",
+    "peach": "Peshi",
+    "rose": "Roze",
+    "daisies": "Indabo z'umweru",
+    "mushroom": "Igihumyo",
+    "wheelbarrow": "Ikiziga cyo gutwaramo ibintu",
+    "birdhouse": "Inzu y'inyoni",
+    "cactus": "Kaktusi mu nkono",
+    "acorn": "Imbuto y'igiti",
+    "autumn-leaf": "Ikibabi cy'umuhindo",
+    "rabbit": "Urukwavu",
+    "duck": "Ibata",
+    "hen": "Inkoko",
+    "sheep": "Intama",
+    "owl": "Igikona",
+    "ladybird": "Ikinyenzi cy'umutuku",
+    "snail": "Igikyerere",
+    "frog": "Igikeri",
+    "bee": "Inzuki",
+    "clock": "Isaha ya kera",
+    "vase-of-flowers": "Ikibindi cy'indabo",
+    "radio": "Radiyo ya kera",
+    "books": "Ibitabo bishyizwe hamwe",
+    "candle": "Buji",
+    "glasses": "Amadarubindi yo gusoma",
+    "telephone": "Telefoni",
+    "ball-of-wool": "Umupira w'ubudodo",
+    "straw-hat": "Ingofero y'izuba",
+    "train": "Gari ya moshi",
+    "bus": "Bisi",
+    "airplane": "Indege",
+    "suitcase": "Isanduku y'urugendo",
+    "tractor": "Trakiteri",
+    "rowing-boat": "Ubwato bw'amahemba",
+    "rainbow": "Umukororombya",
+    "rain-cloud": "Igicu cy'imvura",
+    "snowflake": "Agahuru k'urubura",
+    "kite": "Ikite",
+    "sunrise": "Izuba rirasa hejuru y'imisozi"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHIKLMNOPRSTUVWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Imbuto",
+          "words": [
+            "POME",
+            "IPERA",
+            "INDIMU",
+            "AVOKA",
+            "ORANJE",
+            "PAPAYE",
+            "ZABIBU",
+            "PESHI",
+            "IMBUTO"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Ubusitani",
+          "words": [
+            "ROZE",
+            "TULIPE",
+            "UMBEGU",
+            "ITAKA",
+            "IBABI",
+            "IGITI",
+            "ICYUZI",
+            "INZUKI",
+            "AMAZI"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Igikoni",
+          "words": [
+            "ICYAYI",
+            "UMUNYU",
+            "AMATA",
+            "ICYUMA",
+            "INYAMA",
+            "ISUPU",
+            "IKOMBE",
+            "UBUKI",
+            "AMAGI"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Ikirere",
+          "words": [
+            "IZUBA",
+            "IMVURA",
+            "INKUBI",
+            "IGICU",
+            "UMWUKA",
+            "UKWEZI",
+            "IBICU",
+            "INZUBA",
+            "SHYUHE"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Inyamaswa",
+          "words": [
+            "IMBWA",
+            "INKOKO",
+            "INYONI",
+            "AMAFI",
+            "INKA",
+            "IHENE",
+            "INTAMA",
+            "INTARE",
+            "INZOKA"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Urugo",
+          "words": [
+            "URUGI",
+            "INTEBE",
+            "ITARA",
+            "ITAPI",
+            "ITANDA",
+            "SOFA",
+            "ISAHA",
+            "IMESA",
+            "INZU"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Ibibazo byose",
+        "food": "Ibiryo",
+        "home": "Urugo",
+        "outdoors": "Hanze",
+        "animals": "Inyamaswa",
+        "travel": "Ingendo",
+        "work": "Akazi n'ibyo ukunda gukora",
+        "music": "Umuziki n'ibyishimo",
+        "seasons": "Ibihe by'umwaka"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ni uwuhe mwuka wo mu gikoni ukunda cyane?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ni keke y'ubwoko ki wahitamo mu birori?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Mwambwira ku kiryo cy'imbuto cyangwa ku kiryoshye ukunda."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Ukunda icyayi cyangwa ikawa gute?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ni iki gituma ifunguro ry'igitondo riryoha cyane?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Wigeze usoroma imbuto ku gihingwa ukayirya uhise?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Uburyohe cyangwa ubusharire: ni ubuhe ukunda kurusha?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ni ikiryo ki kikwibutsa impeshyi?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Mwambwira ku nzu wakundaga kubamo."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ni hehe ukunda kwicara ukaruhuka?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ukunda gukora iki mu mugoroba utuje?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ni ikihe kintu cy'agaciro wabika mu gasanduku gahariye?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ni nde wakwifuza gutumira ngo musangire icyayi?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ukunda gukora iki ku munsi w'imvura?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ni izihe ndabo wateraga mu busitani?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Mwambwira ku giti cyangwa parike ukunda."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Ni iki cyiza cyane mu kuba mu busitani?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Ni ayahe mabara y'indabo ukunda kurusha?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ukunda kugira ibimera mu nzu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ni iki wumva ari umunsi mwiza w'izuba?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Mwambwira ku mbwa wigeze umenya."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Injangwe cyangwa imbwa, cyangwa nta na imwe? Ni iki ukunda kuri zo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Ni izihe nyoni wumva cyangwa ubona hanze?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Wigeze ujya kuroba, cyangwa wigeze ugira ikigega cy'amafi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ni iyihe nyamaswa nziza wigeze ubona?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Mwambwira ku modoka wakundaga."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Wahitamo kumara umunsi ku nyanja cyangwa mu misozi?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Wakwifuza kujya he ugendeye ku igare?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Iyo wabasha kuguruka hejuru y'ahantu hose, wahitamo he?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ni uruzinduko wishimiye?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Ni uwuhe murimo wishimiye gukora?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ni ikihe kintu ukunda gukora ukagimaramo amasaha?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ni iki wari uzwiho gukora cyangwa gusana?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Wagira izihe nama umuntu muto utangiye akazi?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ni uwuhe muziki utuma ushaka gukandagira ibirenge?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ni iki gituma ibirori biba byiza?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ni uwuhe muhanzi ukunda kumva?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ni iyihe filime cyangwa ikiganiro cya televiziyo ukunda kureba kenshi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Ni iki ukunda cyane mu mpeshyi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Ni iki ukunda mu gihe cy'umuhindo?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ni iki gishimishije gukora nimugoroba mu gihe cy'ubukonje?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Ni ibihe bimenyetso bya mbere by'igihe gishya ubona?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Ubukonje, imvura cyangwa izuba: ni iki wakunda kurusha?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Indabo mu nkono",
+          "regions": {
+            "sky": "Inyuma",
+            "table": "Ameza",
+            "stem": "Umugogo",
+            "leaf-left": "Ikibabi cy'ibumoso",
+            "leaf-right": "Ikibabi cy'iburyo",
+            "petal-1": "Petali 1",
+            "petal-2": "Petali 2",
+            "petal-3": "Petali 3",
+            "petal-4": "Petali 4",
+            "petal-5": "Petali 5",
+            "petal-6": "Petali 6",
+            "petal-7": "Petali 7",
+            "petal-8": "Petali 8",
+            "center": "Hagati y'ururabyo",
+            "pot": "Inkono",
+            "pot-rim": "Umunwa w'inkono"
+          }
+        },
+        "house": {
+          "name": "Inzu",
+          "regions": {
+            "sky": "Ikirere",
+            "sun": "Izuba",
+            "grass": "Ubwatsi",
+            "chimney": "Umuyoboro w'umwotsi",
+            "walls": "Inkuta",
+            "roof": "Igisenge",
+            "door": "Urugi",
+            "window-left": "Idirishya ry'ibumoso",
+            "window-right": "Idirishya ry'iburyo",
+            "path": "Inzira"
+          }
+        },
+        "teacup": {
+          "name": "Igikombe cy'icyayi",
+          "regions": {
+            "background": "Inyuma",
+            "saucer": "Isahani rito",
+            "handle": "Igikoresho cyo gufata",
+            "cup": "Igikombe",
+            "band": "Umurongo ku gikombe",
+            "tea": "Icyayi"
+          }
+        },
+        "butterfly": {
+          "name": "Ikinyugunyugu",
+          "regions": {
+            "background": "Inyuma",
+            "wing-top-left": "Iphaba ry'ibumoso hejuru",
+            "wing-top-right": "Iphaba ry'iburyo hejuru",
+            "wing-bottom-left": "Iphaba ry'ibumoso hepfo",
+            "wing-bottom-right": "Iphaba ry'iburyo hepfo",
+            "spot-left": "Akadomo k'iphaba ry'ibumoso",
+            "spot-right": "Akadomo k'iphaba ry'iburyo",
+            "body": "Umubiri"
+          }
+        },
+        "sailboat": {
+          "name": "Ubwato bw'umuyaga",
+          "regions": {
+            "sky": "Ikirere",
+            "sea": "Inyanja",
+            "sail-big": "Ipavire nini",
+            "sail-small": "Ipavire rito",
+            "mast": "Igiti cy'ubwato",
+            "hull": "Ubwato",
+            "flag": "Ibendera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Igikoni n'ubusitani",
+          "baskets": [
+            "Mu gikoni",
+            "Mu busitani"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Imbuto n'inyamaswa",
+          "baskets": [
+            "Imbuto",
+            "Inyamaswa"
+          ]
+        },
+        "home-travel": {
+          "label": "Mu rugo n'ingendo",
+          "baskets": [
+            "Mu rugo",
+            "Hanze y'urugo"
+          ]
+        }
+      }
+    }
+  }
+}

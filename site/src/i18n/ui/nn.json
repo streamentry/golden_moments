@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Gå rett til hovudinnhaldet",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Aktivitetar ved demens",
+    "homeLabel": "Heim – Golden Moments",
+    "mainNav": "Hovudmeny",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Norsk nynorsk",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: store, venlege bilete av ein tekopp, ei solsikke og ein hund",
+    "languages": "Språk",
+    "englishOnly": "(Engelsk)",
+    "machineTranslated": "Denne sida er omsett automatisk og er ikkje gått gjennom av ein person med nynorsk som morsmål enno.",
+    "readOriginal": "Les originalen på engelsk",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Spel",
+      "activities": "Aktivitetar",
+      "caregiving": "Omsorg",
+      "brainHealth": "Hjernehelse"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Spørsmål og svar",
+    "breadcrumb": "Navigasjonssti",
+    "home": "Heim",
+    "lastUpdated": "Sist oppdatert",
+    "topics": "Tema",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Tekststorleik",
+      "smaller": "Vanleg tekst",
+      "larger": "Større tekst",
+      "contrast": "Høgare kontrast"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Spel",
+    "picturePairs": "Biletpar",
+    "conversationCards": "Samtalekort",
+    "pictureBingo": "Biletbingo",
+    "allGames": "Alle spel",
+    "pictures": "Bilete til utskrift",
+    "activityIdeas": "Aktivitetsidéar",
+    "ideas101": "101 aktivitetsidéar",
+    "lateStage": "Aktivitetar i sein fase",
+    "printable": "Aktivitetar til utskrift",
+    "allActivities": "Alle aktivitetar",
+    "forCaregivers": "For pårørande",
+    "playTogether": "Korleis spele saman",
+    "selfCare": "Ta vare på deg sjølv",
+    "brainHealth": "Forsking på hjernehelse",
+    "faq": "Spørsmål og svar",
+    "about": "Om oss",
+    "approach": "Vår tilnærming",
+    "howWeWrite": "Korleis vi skriv",
+    "organizations": "For organisasjonar",
+    "app": "Golden Moments-appen",
+    "appHelp": "Hjelp med appen",
+    "support": "Brukarstøtte",
+    "legal": "Juridisk",
+    "sitePrivacy": "Personvern på nettstaden",
+    "appPrivacy": "Personvernerklæring for appen",
+    "privacyChoices": "Personvernval",
+    "terms": "Vilkår og app-lisens",
+    "safety": "Tryggleik og tiltenkt bruk",
+    "accessibility": "Tilgjengelegheit",
+    "healthNotice": "Merknad om helseinformasjon",
+    "allLegal": "All juridisk informasjon",
+    "note": "Golden Moments tilbyr enkle fellesaktivitetar til glede og hygge. Dette er ikkje medisinsk rådgjeving, ein test eller ei behandling, og stiller ingen diagnose, måling eller poengsum for nokon. Snakk med ein lege ved helsespørsmål. Ring 113 i ein naudsituasjon.",
+    "publisher": "Gjeve ut av Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Spel og aktivitetar ved demens og Alzheimers | Golden Moments",
+    "description": "Gratis, rolege biletspel på nett og aktivitetsidéar for personar med demens eller Alzheimers og dei pårørande. Utan innlogging, tidsfristar eller poeng.",
+    "eyebrow": "Gratis · Utan reklame · Utan innlogging · Utan tidsfristar eller poeng",
+    "h1": "Rolege spel og aktivitetar for personar med demens",
+    "lede": "Enkle biletspel, kjende fotografi og aktivitetar de kan hyggje dykk med saman – i dykkar eige tempo.",
+    "playGame": "Spel eit spel",
+    "findIdeas": "Finn idéar til aktivitetar",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "Fungerer på mobil, nettbrett og datamaskin",
+      "Store bilete som blir ståande på skjermen",
+      "Avslutt når som helst; ingenting ein kan gjere feil"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Også ein gratis app for iPhone, iPad og Android, med eigne familiebilete",
+    "albumNote": "«To like bilete av tekoppen saman.»",
+    "gamesEyebrow": "Spel rett i nettlesaren",
+    "gamesTitle": "Spel du kan spele med ein gong",
+    "gamesLede": "Kvart spel er roleg, laga for vaksne og kjem raskt i gang. Vel eit spel, set dykk side om side og trykk etter tur.",
+    "seeAllGames": "Sjå alle dei {count} spela",
+    "howTitle": "Slik fungerer det",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Vel noko kjent",
+        "text": "Bilete av tekoppar, hagar, kjæledyr og seglbåtar. Inga lesing eller reglar de må lære først."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Set dykk side om side",
+        "text": "Lat den andre trykkje. Snakk om bileta saman. Viss dei ikkje passar saman, ventar spelet berre roleg på neste trykk."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Gje dykk medan det enno er kjekt",
+        "text": "Eitt spel er ein heil aktivitet i seg sjølv. Knappen «Ferdig for no» er alltid synleg på skjermen."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Utanfor skjermen",
+    "stageTitle": "Aktivitetsidéar for alle fasar",
+    "stageLede": "Musikk, kvardagsgjeremål, gode minne og fredelege sanseopplevingar, tilpassa det som kjennest trygt og godt no.",
+    "ideas101": "101 aktivitetsidéar",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Tidleg fase",
+        "text": "Hald fram med det dei er glade i, med små tilpassingar: hobbyar, småturar, ordleikar og planlegging saman.",
+        "label": "Idéar for tidleg fase"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Mellomfase",
+        "text": "Enkle, kjende gjeremål delte inn i små steg: bretting, sortering, musikk, biletspel og korte spaserturar.",
+        "label": "Idéar for mellomfasen"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Sein fase",
+        "text": "Tryggleik og nærleik gjennom berøring, lyd og syn: handpleie, kjære songar, bilete og berre det å vere saman.",
+        "label": "Idéar for sein fase"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Ser du etter noko bestemt? Prøv <a href=\"/activities/alzheimers/\">aktivitetar og spel ved Alzheimers</a>, <a href=\"/activities/memory-games/\">rolege minnespel</a>, <a href=\"/activities/trivia/\">enkle spørjeleikar</a> eller <a href=\"/activities/puzzles/\">puslespel</a>.",
+    "approachEyebrow": "Vår tilnærming",
+    "approachTitle": "Ein felles aktivitet, ikkje ein minnetest",
+    "approachLede": "Mange «hjernetrimspel» handlar om fart, poeng og uavbrotne sigersrekkjer. For ein person med demens kan det kjennast som ein eksamen. Vi har laga det motsette.",
+    "approachLink": "Kvifor vi lagar det slik",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ingenting å mislukkast med",
+        "text": "Inga klokke, ingen poeng, liv eller tap. Eit ulikt bilete er berre ein pause, ikkje ein feil."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Bileta blir ståande",
+        "text": "Gjenkjenning framfor hugsing. Brikkene ligg med biletet opp frå starten av, så det er ingenting ein må hugse."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Vakse og verdig",
+        "text": "Varme, enkle ord og bilete frå verkelegheita. Aldri teikneseriar eller barnespråk."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Personvern i botnen",
+        "text": "Ingen brukarkontoar eller reklame. Bileta dine forlèt aldri eininga di."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "For pårørande",
+    "guidesTitle": "Praktiske rettleiingar for kvardagen",
+    "allCaregiving": "Alle rettleiingar for pårørande",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Korleis spele saman",
+        "text": "Førebuing, tempo og kva de kan gjere om spelet ikkje er morosamt lenger."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Når dei seier nei til ein aktivitet",
+        "text": "Vanlege grunnar til å seie nei, og varlege måtar å prøve igjen på seinare."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Klargjering av eit nettbrett",
+        "text": "Større tekst, færre forstyrringar og ein enkel heimeskjerm."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Gratis aktivitetar til utskrift",
+        "text": "Ordleitar med stor skrift, fargeleggingssider, bingo og samtalekort."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Hjernehelse: kva forskinga eigentleg seier",
+    "researchText": "Kan demens førebyggjast? Hjelper hjernetrim? Kva med faste, kosthald, søvn og høyrsle? Enkle, kjeldebelagde svar, også der forskingsgrunnlaget er svakt.",
+    "researchLink": "Les artiklane om forsking",
+    "appEyebrow": "Finst også som app",
+    "appTitle": "Golden Moments på iPhone, iPad og Android",
+    "appText": "Den gratis appen fungerer utan internett og kan bruke familiebilete du vel sjølv, lagra trygt som kopiar på eininga di. Same rolege utforming: fire store ruter, utan tidsfrist, utan poeng.",
+    "aboutApp": "Om appen",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Kva for spel passar godt for personar med demens?",
+        "a": "Gode spel og aktivitetar er enkle, kjende og utan press: store bilete å setje saman, sortering, enkle puslespel, å fullføre kjende ordtak, fargelegging, biletbingo og samtalespel. Det beste valet er det personen har glede av i dag. Unngå tidsfristar, poeng og alt som kan kjennast som ein test."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Er desse demensspela gratis?",
+        "a": "Ja. Alle spel og utskriftsark på Golden Moments er gratis, utan konto, registrering eller nedlasting. Spela fungerer direkte i nettlesaren på telefon, nettbrett eller datamaskin."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Kan hjernetrim førebyggje demens?",
+        "a": "Ingen spel har vist seg å førebyggje demens, og Golden Moments hevdar ikkje å behandle eller førebyggje noko. Spela våre er meinte for hygge og felles stunder. Seksjonen vår om hjernehelse forklarer kva forskinga viser og ikkje viser."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Høver desse spela for nokon med Alzheimers sjukdom?",
+        "a": "Ja. Alzheimers sjukdom er den vanlegaste årsaka til demens, og spela er tilpassa dette: store bilete som blir ståande framme, få val og ingenting ein må hugse eller kan gjere feil. Å finne like bilete, sortere og fullføre kjende ordtak byggjer på kunnskap ein har hatt lenge, i staden for ny læring."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Kan nokon i eit seinare stadium av demens vere med på desse aktivitetane?",
+        "a": "Ofte ja, saman med ein annan person. Start gjerne med Finn like med to bilete, Biletpar med fire brikker, ei teikning til fargelegging eller ei roleg pustepause. Hald stunda kort, følg takta deira og avslutt når dei har fått nok."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Er personvernet mitt verna?",
+        "a": "Nettstaden har ingen brukarkontoar og ingen annonsar. Vi brukar Google Analytics for å forstå kva sider som blir besøkte. Bilete du vel til Biletpar, blir berre viste i nettlesaren din og blir aldri lasta opp."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Kven lagar Golden Moments?",
+        "a": "Golden Moments er eit lite team som lagar rolege biletaktivitetar for vaksne, tilrettelagde for familiar og pårørande – på nettet og som ein gratis app. Vi er ikkje helsepersonell, og ingenting her er meint som medisinske råd."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "tidleg",
+    "middle": "mellom",
+    "late": "seinare",
+    "hintOne": "Høver ofte for {list} stadium",
+    "hintMany": "Høver ofte for {list} stadium",
+    "labelEarly": "Tidleg stadium",
+    "labelMiddle": "Mellomstadium",
+    "labelLate": "Seinare stadium"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Om dette spelet",
+    "printable": "Til utskrift",
+    "play": "Spel {name} →",
+    "readGuide": "Les rettleiinga"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Klar for eit roleg spel?",
+    "text": "Store bilete, inga tidtaking, ingen poeng og ingenting å registrere seg for. Spel saman i nettlesaren.",
+    "play": "Spel eit spel",
+    "all": "Sjå alle spela",
+    "aria": "Spel eit spel"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Ta med deg spela",
+    "text": "Den gratis appen Golden Moments for iPhone, iPad og Android: store biletbrikker, spel med eigne familiebilete og biletpakkar som fungerer utan nett. Utan konto, annonsar, tidtaking eller poeng.",
+    "appStore": "Hent i App Store",
+    "googlePlay": "Hent på Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Om appen",
+    "aria": "Hent appen"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Aktivitetar",
+      "title": "Aktivitetar for personar med demens",
+      "seo": "Aktivitetar for personar med demens: Idear for kvart stadium",
+      "description": "Aktivitetsidear for personar med demens på alle stadium: musikk, minnearbeid, kvardagssyslar, sanseopplevingar, forming, friluftsliv og gratis utskriftsark.",
+      "lede": "Ein meiningsfull aktivitet er alt som gjev ro, meining eller ei god stund saman. Ta utgangspunkt i kva personen alltid har likt, og tilpass det til kvardagen i dag."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Omsorg",
+      "title": "Rettleiarar for pårørande",
+      "seo": "Rettleiarar for pårørande ved demens: Praktisk hjelp i kvardagen",
+      "description": "Praktiske og omtenksame rettleiarar for pårørande: samspel og spel, kommunikasjon, motstand, kveldsuro, nettbrett, val av appar og eigenomsorg.",
+      "lede": "Enkel og praktisk hjelp i kvardagen for deg som tek vare på nokon med demens – inkludert det å ta vare på deg sjølv."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Hjernehelse",
+      "title": "Hjernehelse: Kva seier forskinga?",
+      "seo": "Hjernehelse og risiko for demens: Kva seier forskinga?",
+      "description": "Kan demens førebyggjast? Ærlege, kjeldebelagde artiklar om risikofaktorar for demens, hjernetrim, faste, kosthald, fysisk aktivitet, søvn, hørsel og tidlege teikn.",
+      "lede": "Kva store studiar faktisk viser om å redusere risikoen for demens, forklart på ein enkel måte, også der dokumentasjonen er svak eller sprikjande. Generell informasjon, ikkje medisinske råd."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Oppdatert",
+    "minuteRead": "{n} min lesetid",
+    "byTeam": "Av Golden Moments-teamet",
+    "howWeWrite": "Korleis vi skriv",
+    "shortAnswer": "Kort fortalt",
+    "onThisPage": "På denne sida ({n} avsnitt)",
+    "commonQuestions": "Vanlege spørsmål",
+    "sources": "Kjelder",
+    "sourcesNote": "Vi lenkjer til organisasjonane og studiane denne sida byggjer på. Kvar kjelde vart kontrollert då sida vart oppdatert.",
+    "tryTogether": "Prøv saman",
+    "relatedGuides": "Relaterte rettleiingar",
+    "related": "Relatert",
+    "startHere": "Start her"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Varsel om helseinformasjon",
+    "title": "Generell informasjon, ikkje medisinske råd",
+    "textHtml": "Denne sida oppsummerer publisert forsking for familiar. Ho kan ikkje seie kva som er rett for einskildpersonar. Snakk med ein lege før de gjer endringar i kosthald, fysisk aktivitet, søvn, medisinar eller kosttilskot. Ved brå forvirring eller andre akutte endringar må du søkje medisinsk hjelp straks. <a href=\"/medical-disclaimer/\">Les meldinga vår om helseinformasjon</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Ei felles stund, ikkje ein minnetest",
+      "seoTitle": "Om Golden Moments: Vår tilnærming",
+      "description": "Kvifor spela frå Golden Moments er utan tidtaking, poeng eller uavbrotne speleradar, kvifor bileta blir ståande framme, og kva vi hevdar og ikkje hevdar om demens.",
+      "crumb": "Vår tilnærming",
+      "lede": "Golden Moments lagar rolege biletaktivitetar for vaksne, som ein pårørande og ein person med demens kan ha glede av side om side.",
+      "bodyHtml": "<h2>Det vi trur på</h2><p>Poenget med ein aktivitet er sjølve augneblinken: ein samtale, eit smil, gleda over å setje saman to bilete, eller berre å sitje tett inntil kvarandre. Det er ikkje for å måle nokon, presse dei lenger eller bevise noko.</p><p>Mange hjernetreningsappar er bygde rundt fart, poeng, rekordar og nivå. For ein person som lever med demens kan det kjennast som ein eksamen ein ikkje kan bestå. Vi har laga det motsette, og vi held oss til desse reglane:</p><ul><li><strong>Ingenting å mislykkast i.</strong> Ingen klokke, poeng, teljar for trekk, liv, rekordar, konfetti eller nedtelling, på nokon skjerm.</li><li><strong>Kjenne att framfor hugse.</strong> Bileta blir synlege som standard. Oppgåvene inviterer til samtale og spør aldri etter namn eller minne.</li><li><strong>Stort, enkelt og roleg.</strong> Stor tekst og store bilete, sterk kontrast, og knappar som står på same stad.</li><li><strong>Vaksen verdigheit.</strong> Bilete frå kvardagen og enkle, varme ord. Ingen teiknefilmar, barnsleg rosing eller emoji-belønningar.</li><li><strong>Ein lett måte å stoppe på.</strong> «Ferdig for no» er alltid synleg. Å stoppe halvvegs er eit godt resultat.</li><li><strong>Privat som standard.</strong> Ingen kontoar og ingen annonsar. Bilete du vel, blir verande på eininga di.</li></ul><h2>Det vi ikkje hevdar</h2><p>Spela våre er for glede og samvær. Dei set ikkje diagnose, testar, måler, behandlar, bremsar eller førebygger demens eller Alzheimers sjukdom, og ingen bør velje dei av den grunnen. Når vi skriv om forsking på <a href=\"/brain-health/\">sidene om hjernehelse</a>, seier vi klart kor svak forskinga er, og vi koplar henne aldri til spela våre.</p><h2>Kven vi er</h2><p>Golden Moments er eit lite, uavhengig team. Vi er ikkje klinikarar. Rettleiarane våre er skrivne ut frå publisert råd frå organisasjonar som National Institute on Aging og Alzheimer’s Association, og kvar rettleiar listar opp kjeldene sine. Les <a href=\"/editorial-policy/\">korleis vi skriv og kontrollerer sidene våre</a>.</p><h2>Fortel oss kva som ville hjelpt</h2><p>Vi vil gjerne høyre kva som fungerer for deg og kva som ikkje gjer det, særleg frå folk som lever med demens, pårørande og tilsette i aktivitetstilbod. Send e-post til <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Korleis vi skriv og kontrollerer sidene våre",
+      "seoTitle": "Redaksjonell retningslinje",
+      "description": "Korleis Golden Moments undersøkjer, skriv, kjeldeset og oppdaterer sidene sine om aktivitetar ved demens og hjernehelse, og kva vi aldri vil publisere.",
+      "crumb": "Redaksjonell retningslinje",
+      "bodyHtml": "<h2>Kjeldene våre</h2><p>Vi baserer rettleiarane våre på offentleg råd frå organisasjonar som National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance og NHS, og på fagfellevurdert forsking som Cochrane-oversikter og store kliniske studiar. Kvar rettleiar listar opp kjeldene han byggjer på. Vi opnar kvar kjelde før vi siterer henne, og vi melder berre det kjelda faktisk seier.</p><h2>Korleis vi skriv</h2><ul><li>Praktisk først: kva ein kan gjere i dag, i enkelt språk.</li><li>Ærlege om forskinga: vi seier «heng saman med», «kan» og «forskinga er blanda» når det er sanninga.</li><li>Respektfulle: vi skriv om menneske som lever med demens som vaksne, og vi bruker aldri spørjande eller skamfulle formuleringar.</li><li>Ikkje oppdikta innhald: ingen oppdikta statistikk, sitat, ekspertar, studiar, oversikter eller vitnemål.</li></ul><h2>Kven som går over sidene våre</h2><p>Sidene blir skrivne og kontrollerte av Golden Moments-teamet, med hjelp frå KI-verktøy til søk og utkast. Teamet kontrollerer kvar side mot kjeldene. Sidene våre har <strong>ikkje</strong> vore gjennomgåtte av lege eller anna klinikar, og vi hevdar ikkje noko anna. Dei er generell informasjon, ikkje medisinsk råd.</p><h2>Det vi aldri vil publisere</h2><ul><li>Påstandar om at eit spel, eit mat, eit kosttilskot, ei fasting eller ein fast rutine førebygger, behandlar, bremsar eller kurerer demens.</li><li>Testar, quizar eller poeng som tyder på at nokon har, eller ikkje har, demens.</li><li>Råd om å starte, stoppe eller endre noko medisin.</li><li>Reklame eller sponsa innhald som er kledd ut som råd.</li></ul><h2>Oppdateringar og rettingar</h2><p>Kvar side viser datoen for sist oppdatering. Om du finn ei feil eller ei utdatert kjelde, send e-post til <a href=\"mailto:{email}\">{email}</a>, så kontrollerer vi det raskt.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Spørsmål og svar",
+      "seoTitle": "Demensspel og -aktivitetar: Spørsmål og svar",
+      "description": "Svar på vanlege spørsmål om demensspel og -aktivitetar: kva spel ein kan prøve, kor lenge ein bør spele, idéar for seinare stadium, hjernehelse og personvern.",
+      "crumb": "Spørsmål og svar",
+      "lede": "Korte, enkle svar på spørsmåla pårørande stiller oftast.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Om spela",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Kva er dei beste spela for ein person med demens?",
+              "a": "Dei beste spela er kjende, enkle og utan press, og det rette er det personen har lyst til i dag. Å finne att bilete med synlege bilete, sortering, enkle puslespel, å fullføre kjende ordtak, fargelegging og bildebingo fungerer godt for mange. Unngå klokker, poeng og alt som kjennest som ein test."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Er spela verkeleg gratis?",
+              "a": "Ja. Alle spel og utskriftsark er gratis, utan konto, registrering, nedlasting eller annonsar."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Kvifor finst det ingen poeng, nivå eller tidtakarar?",
+              "a": "Fart og poeng gjer ei hyggeleg stund om til ein prøve, og det kan gje skam eller frustrasjon. Vi held fokus på gleda og tida saman, så det finst ingenting å stryke på, og du kan stoppe når som helst."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Kva einingar fungerer best?",
+              "a": "Kva som helst mobil, nettbrett eller datamaskin med ein moderne nettlesar. Eit nettbrett på eit stativ ved eit bord er ofte det mest komfortable for to personar som speler ved sida av kvarandre. Ein bærbar datamaskin kopla til ein TV fungerer godt for grupper."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Kan vi spele med våre eigne familiebilete?",
+              "a": "Ja. Biletpar gjer om 2 til 6 bilete du vel til eit parspel. Bileta blir verande i nettlesaren din og blir ikkje lasta opp eller lagra."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Aktivitetar og omsorg",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Kor lenge bør ein aktivitet vare?",
+              "a": "Ofte er 10 til 20 minutt nok, og somme gonger er 2 minutt ein suksess. Sjå etter teikn på trøytheit eller frustrasjon, og stopp medan det framleis kjennest bra. Det finst ingen rett mengd."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Kva om vedkomande ikkje vil gjere ein aktivitet?",
+              "a": "Respekter nei-et, og prøv igjen seinare eller på ein annan måte. Motvilje kan koma av trøytheit, smerte, usikkerheit eller rett og slett manglande interesse. Sjå rettleiinga vår om kva du kan gjere når dei seier nei."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Kva aktivitetar passar ved seinare stadium av demens?",
+              "a": "Trøyst og sansane: å lytte til favorittmusikk, handmassasje med krem, sjå på bilete saman, halde eit mjukt teppe, sitje ute, eller eit svært enkelt biletspel med nokon ved sida av seg. Rettleiinga vår for seinare stadium har fleire idear."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Finst det aktivitetar for grupper på sjukeheim?",
+              "a": "Ja. Biletbingo har utskriftbare kort og ein oppropar på skjermen, og Fullfør ordtaket og Samtalekort fungerer godt når dei blir lesne høgt. Rettleiinga vår for grupper på sjukeheim tek for seg gruppestorleik, plassering og tilpassing for ulike evner."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Hjernehelse",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Kan spel førebyggje eller bremse demens?",
+              "a": "Ingen spel har vist seg å førebyggje demens, og spela våre har ikkje slike påstandar. Kognitiv stimulering i sosiale samanhengar har i forsking vist små fordelar for folk med lett til moderat demens, men det er noko anna enn at eit spel førebyggjer sjukdom. Vi tilbyr spel for glede og samvær."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Kan demens førebyggjast?",
+              "a": "Ikkje med sikkerheit. Forsking knyter 14 helse- og livsstilsfaktorar til risiko for demens, til dømes hørselstap, høgt blodtrykk, fysisk inaktivitet og sosial isolasjon. Å ta tak i dei kan kanskje senke risikoen for somme, men mange som gjer alt rett, får likevel demens. Det er aldri nokon sin skuld."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Er periodisk faste bra for hjernehelsa?",
+              "a": "Kunnskapen frå menneske er avgrensa og tidleg, og mykje av forskinga er gjord på dyr. Faste kan vere risikabelt for eldre, særleg ved diabetesmedisin eller utilsikta vektnedgang, og det blir ikkje tilrådd for folk som lever med demens. Snakk med lege før du endrar kosthaldet."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Personvern og tryggleik",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Samlar de inn nokon informasjon?",
+              "a": "Ingen kontoar eller annonsar. Vi bruker Google Analytics for å telje besøk og sjå kva sider som hjelper, og nettlesaren din hugsar om du har slått på mjuke lydar. Bilete du vel for Biletpar blir aldri lasta opp. Sjå personvernerklæringa for meir informasjon."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Er dette medisinsk råd?",
+              "a": "Nei. Golden Moments er for rekreasjon og generell informasjon. For helsespørsmål, snakk med lege, og ved nødsituasjonar ring 113 eller 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Meir informasjon: <a href=\"/caregiving/how-to-play-together/\">korleis spele saman</a>, <a href=\"/caregiving/when-they-say-no/\">når dei seier nei</a>, <a href=\"/activities/late-stage/\">aktivitetar for seinare stadium</a> og <a href=\"/brain-health/can-dementia-be-prevented/\">kan demens førebyggjast?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Gratis, milde spel for folk som lever med demens",
+      "seoTitle": "Utskriftsvennleg hefte: Gratis demensspel på nett",
+      "description": "Eit eittsidig utskriftsvennleg hefte for familie og omsorgspersonar om gratis, milde biletspel for folk som lever med demens, til støttegrupper og omsorgspakkar.",
+      "crumb": "Utskriftsvennleg hefte",
+      "lede": "Skriv ut denne sida til ei støttegruppe, ein omsorgspakke eller kjøleskapsdøra. Bruk nettlesaren sin utskriftskommando; menyar og knappar er tekne bort frå utskrifta.",
+      "introHtml": "<p>Store bilete, enkle ord og ingenting å stryke på. Gratis på mobil, nettbrett eller datamaskin, utan registrering, annonsar, tidtakarar eller poeng. Sit ved sida av kvarandre og ta tur.</p>",
+      "gamesTitle": "Spel å prøve saman",
+      "restHtml": "<h2>Nokre råd</h2><ul><li>Vel ei tid på dagen då vedkomande er på sitt beste.</li><li>Start med det enklaste nivået. Fire brikker er nok.</li><li>Snakk om bileta. Samtalen er ofte det beste.</li><li>Stopp medan det framleis kjennest godt. Å avslutte tidleg er eit godt resultat.</li></ul><h2>Også på nettstaden</h2><ul><li>Gratis utskriftsark: ordsøk med stor skrift, fargeleggingsark, samtalekort og biletbingo.</li><li>Aktivitetsidear for alle stadium, og rettleiingar om å spele saman og om å ta vare på seg sjølv.</li></ul><p class=\"muted\">For glede og samvær saman. Ikkje medisinsk råd, test eller behandling. Golden Moments er utgitt av Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "For sjukeheimar, bibliotek og støttegrupper",
+      "seoTitle": "Gratis demensaktivitetar for sjukeheimar og grupper",
+      "description": "Korleis sjukeheimar, dagtilbod, bibliotek, eldretenester og støttegrupper bruker dei gratis demensspela våre, og tekst for å legge oss til i ei ressursliste.",
+      "crumb": "For organisasjonar",
+      "lede": "Alt på denne nettstaden kan brukast gratis saman med beboarar, medlemmar og brukarar, utan konto, lisens eller avgift. Denne sida forklarer kva som finst her, og korleis du kan dele det.",
+      "shortText": "{name}: gratis, milde bildespel og aktivitetsvegleiingar for personar med demens og pårørande. Ingen registrering, ingen tidtakarar, ingen poeng.",
+      "longText": "{name} ({domain}) tilbyr {count} gratis nettspel laga for personar med demens, mellom anna parspel med bilete som står att synleg, eit enkelt puslespel, sortering, kjende ordtak og bildebingo med kort til utskrift. Det finst ingen konto, reklame, tidtakar eller poeng. Nettstaden har òg vegleiingar i klart språk for kvart stadium av demens, med kjelder frå National Institute on Aging og Alzheimer's Association.",
+      "useTitle": "Kva organisasjonar kan bruke",
+      "gamesItemHtml": "<strong>{count} nettspel</strong> som køyrer på ein bærbar datamaskin, nettbrett eller eit TV-apparat kopla til ei datamaskin. Ingen installering, konto eller nedlasting. Sjå <a href=\"/games/\">alle spela</a>.",
+      "printablesLabel": "{count} til utskrift:",
+      "printablesAfter": "Bruk utskriftsknappen på kvar side.",
+      "moreItemsHtml": "<li><strong>Gruppeformat:</strong> <a href=\"/games/picture-bingo/\">Bildebingo</a> har kort til utskrift og ein opplesar på skjermen, og <a href=\"/activities/trivia/\">enkel kviss</a> har 50 spørsmål med svaralternativ og samtaleemne.</li><li><strong>Aktivitetsvegleiingar</strong> for tilsette og familiar, etter stadium og etter type, skrivne i klart språk med kjelder. Start med <a href=\"/activities/ideas/\">101 aktivitetsidear</a> eller <a href=\"/activities/care-home-groups/\">gruppeaktivitetar for sjukeheimar</a>.</li>",
+      "restHtml": "<h2>Korleis grupper brukar det</h2><ul><li><strong>Sjukeheimar og minneavdelingar:</strong> bildebingo eller fullfør ordtaket på TV-en i fellesstova, med éin person som trykkjer for gruppa.</li><li><strong>Dagtilbod for vaksne:</strong> ein nettbrettstasjon med Bildepar sett til fire brikker, for korte samtalar éin til éin.</li><li><strong>Offentlege bibliotek:</strong> utskrivne ordsøkjer og samtalekort i minnesett, og nettstaden lagra som bokmerke på bibliotekets nettbrett.</li><li><strong>Støttegrupper for pårørande og minnecafé:</strong> eit <a href=\"/handout/\">eittsidig handout til utskrift</a> som familiane kan ta med heim.</li><li><strong>Sjukehus og utskrivingsplanleggarar:</strong> handoutet i pakkar til pårørande, for noko roleg å gjere heime eller ved senga.</li></ul><h2>Det vi ikkje gjer</h2><p>Spela er til glede og for samvær. Dei set ikkje diagnose, testar, gir ikkje poeng, behandlar ikkje og bremsar ikkje demens, og vi ber organisasjonar om ikkje å skildre dei slik. Det finst ingen reklame, og spela ber ikkje om namn, helseopplysningar eller opplasting av bilete. Nettstaden brukar Google Analytics for å telje besøk; <a href=\"/privacy/\">personvernerklæringa</a> vår forklarer kva det samlar inn. Bilete som blir brukte i <a href=\"/games/photo-pairs/\">Fotopar</a> blir verande i nettlesaren.</p><h2>Legg oss til i ressurslista di</h2><p>Om du har ei liste over ressursar for pårørande, er du velkommen til å lenkje til <a href=\"/\">{domain}</a>. Du kan kopiere begge skildringane.</p>",
+      "shortTitle": "Kort skildring",
+      "longTitle": "Lengre skildring",
+      "linksHtml": "<p>Nyttige sider å lenkje direkte til: <a href=\"/games/\">gratis spel</a>, <a href=\"/activities/printable/\">gratis utskriftsmateriale</a>, <a href=\"/activities/alzheimers/\">aktivitetar for Alzheimer's</a> og <a href=\"/caregiving/how-to-play-together/\">korleis spele saman</a>.</p><h2>Spørsmål eller rettingar</h2><p>Om noko på nettstaden er feil eller uklart, eller om det som finst her ikkje dekker behova til ein beboar, så fortel oss det på <a href=\"mailto:{email}\">{email}</a>. Ver snill å ikkje send personlege eller helseopplysningar om beboarar eller brukarar.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Golden Moments-appen",
+      "seoTitle": "Golden Moments-appen for iPhone og Android",
+      "description": "Den gratis Golden Moments-appen: milde bildepar med fire store brikker, familiebilete som blir lagra på eininga di, bildepakkar som verkar utan nett og ingen konto.",
+      "crumb": "Appen",
+      "lede": "Alt du likar på nettstaden, i ein app som verkar utan nett og kan bruke familiebilete du sjølv vel.",
+      "worksOn": "Verkar på {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Byrja i det små</h2><p>Byrja med fire store brikker og kjende bilete. Lat bileta liggja synlege, eller gøym dei når det kjennest trygt og greitt. Skånsam modus har korkje tidtaking, poeng eller straff. Vel 4, 6, 8 eller 12 brikker.</p><h2>Gjer det personleg</h2><p>Vel familiebilete med biletveljaren på eininga di. Appen lagrar mindre kopiar til aktivitetane. Han skannar ikkje biletbiblioteket ditt og endrar aldri originalbileta, og han tek vare på opptil 24 bilete i éi samling.</p><h2>Berre sjå saman</h2><p>Sjå på eitt bilete om gongen. Valfrie samtalestartarar inviterer til ein god prat utan krav om å hugsa namn eller svara rett. Det er meir enn nok berre å sjå saman.</p><h2>Fungerer utan nett der det tel</h2><p>Startbilete og alle dei åtte biletpakkane følgjer med i appen. Kopiar av henta bilete fungerer utan internett. Å velja originalar som berre er lagra i iCloud, kan krevja nettsamband.</p><h2>Ingen brukarkonto, ingen tenar for biletsynkronisering</h2><p>Kopiar av familiebilete blir verande i appen på eininga di. Du kan ta bort kopiane utan å sletta originalane. Sikkerheitskopiar av eininga kan innehalda appdata. Les <a href=\"/app-privacy/\">personvernerklæringa for appen</a>, og <a href=\"/help/\">hjelpesidene for appen</a> går gjennom kvart steg.</p>",
+      "disclaimer": "Golden Moments er meint for hygge og gode samtalar saman. Appen stiller ikkje diagnosar, og verken behandlar, førebyggjer eller måler demens eller Alzheimers sjukdom.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Gratis nettspel for personar med demens og Alzheimer",
+    "description": "Gratis nettspel for eldre som lever med demens eller Alzheimer: biletpar, enkle puslespel, sortering, faste uttrykk, fargelegging og bingo. Utan registrering, tidtaking eller poeng.",
+    "crumb": "Spel",
+    "h1": "Skånsame spel for personar med demens",
+    "lede": "{count} gratis spel de kan spela saman i nettlesaren. Store bilete, enkle ord og ingenting ein kan gjera feil: inga tidtaking, ingen poeng og inga registrering.",
+    "listName": "Skånsame spel for personar med demens",
+    "byStageTitle": "Å velja spel etter stadium",
+    "byStageLede": "Stadia er berre ei grov rettleiing. Følg det personen har glede av og kva som kjennest trygt og godt i dag.",
+    "stageCol": "Stadium",
+    "gamesCol": "Spel som ofte passar",
+    "moreHtml": "Fleire idear utanfor skjermen: <a href=\"/activities/ideas/\">101 aktivitetar for personar med demens</a>, <a href=\"/activities/alzheimers/\">aktivitetar og spel ved Alzheimer</a>, <a href=\"/activities/memory-games/\">skånsame minnespel</a> og <a href=\"/activities/puzzles/\">puslespel</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Kva for eit spel bør me byrja med?",
+        "a": "Biletpar med fire brikker er eit roleg og trygt fyrsteval. Dersom det blir for mykje å velja mellom fleire bilete, kan de prøva Finn like med to bilete. Til ei gruppe høver Biletbingo godt."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Fungerer spela på iPad eller telefon?",
+        "a": "Ja. Alle spela fungerer i nettlesaren på telefon, nettbrett og datamaskin, og bileta veks for å fylla skjermen. Eit nettbrett i eit stativ er ofte det mest behagelege når to sit saman."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Passar desse spela for ein som har Alzheimer?",
+        "a": "Ja. Dei er laga for personar som lever med demens, inkludert Alzheimer, som er den vanlegaste årsaka. Bileta ligg framme heile tida, det er få val, og ingenting går på tid eller poeng. Difor byggjer spela på å kjenna att kjende ting framfor å måtta hugsa nye."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Er dette minnespel for eldre?",
+        "a": "Det er par- og biletspel som alle eldre kan ha glede av, men dei er forma ut for ikkje å testa minnet: i Biletpar ligg bileta med biletet opp så sant du ikkje vel noko anna. Rettleiaren vår for minnespel for eldre med demens forklarar korleis alle minnespel kan haldast skånsame."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Finst det spel for grupper på sjukeheim?",
+        "a": "Ja. Biletbingo har brett som kan skrivast ut og ein oppropar på skjermen, og Fullfør ordtaket og Samtalekort fungerer fint når dei blir lesne høgt for ei gruppe."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad og Android",
+    "requirements": "iOS 15 eller nyare; Android 7.0 eller nyare",
+    "summary": "Ein gratis app for iPhone, iPad og Android med skånsam biletparing på fire til tolv store brikker, paring og biletvising med familiebilete du sjølv vel, og åtte medfølgjande biletpakkar som fungerer utan internett. Utan brukarkonto, reklame, tidtaking eller poeng.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Skånsam biletparing med 4, 6, 8 eller 12 store brikker; bileta ligg synlege så sant du ikkje vel å gøyma dei",
+      "Familiebilete du vel ut, blir kopierte inn i appen til biletparing og for å sjå på saman",
+      "Sjå saman: eitt bilete om gongen med valfrie spørsmål som inviterer til samtale",
+      "Åtte biletpakkar følgjer med appen; dei fungerer utan internett",
+      "Utan brukarkonto, reklame, kjøp i appen, tidtaking, poeng eller straff"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Finst det ein aktivitetsapp for personar med demens?",
+        "a": "Ja. Golden Moments (oppført som «{storeName}») er gratis i App Store og på Google Play. Han tilbyr skånsam biletparing med store brikker, spel med familiebilete du sjølv vel ut, og biletpakkar som fungerer utan internett."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Er appen Golden Moments gratis?",
+        "a": "Ja. Han er gratis å lasta ned, utan reklame, brukarkonto eller kjøp i appen."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Fungerer appen utan internett?",
+        "a": "Ja. Startbileta og alle dei åtte biletpakkane følgjer med i appen, og familiebileta fungerer utan nett så snart dei er kopierte inn i appen. Å velja eit originalbilete som berre er lagra i iCloud, kan krevja nettsamband."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Kan me bruka våre eigne familiebilete?",
+        "a": "Ja. Vel bilete med biletveljaren på eininga di. Appen lagrar mindre kopiar på sjølve eininga til aktivitetane sine, lastar dei aldri opp nokon stad og endrar aldri originalane. Du kan fjerne kopiane når som helst."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Er dette ein app for hjernetrim eller minnetesting?",
+        "a": "Nei. Golden Moments er til for hygge og felles stunder. Appen har verken poeng eller testar, og han verken stiller diagnose, behandlar, førebyggjer eller måler demens eller Alzheimers sjukdom."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Kva for einingar fungerer appen på?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Finst det ein app-versjon av dette spelet?",
+      "a": "Ja. Den gratis Golden Moments-appen for iPhone, iPad og Android har den same rolege biletmatchinga, kan bruke familiebilete du vel sjølv, og fungerer utan nett. Utan brukarkonto, reklame eller poeng."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Finst det ein app-versjon av dette spelet?",
+      "a": "Ikkje av akkurat dette spelet. Den gratis Golden Moments-appen for iPhone, iPad og Android har roleg biletmatching med store brikker og familiebilete du vel sjølv, og fungerer utan nett. Dette spelet er framleis heilt gratis her i nettlesaren."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: store, venlege bilete",
+    "noscript": "Dette spelet treng at JavaScript er slått på i nettlesaren din. Råda nedanfor fungerer likevel.",
+    "about": "Om {name}",
+    "aboutAria": "Om dette spelet",
+    "noTimer": "Inga tidtaking eller poeng",
+    "printable": "Kan skrivast ut",
+    "howTo": "Slik spelar de {name}",
+    "tips": "Tips for å spele saman",
+    "newToPlayingHtml": "Er det uvant å spele med nokon som har demens? Les <a href=\"/caregiving/how-to-play-together/\">korleis de kan spele saman</a>, og kva du kan gjere dersom den andre mister interessa.",
+    "moreAria": "Meir å utforske",
+    "helpfulGuides": "Nyttige rettleiingar",
+    "appTitle": "Spel i appen",
+    "appText": "Den gratis Golden Moments-appen har roleg biletmatching med store brikker og eigne familiebilete, og han fungerer utan Wi‑Fi. iPhone, iPad og Android.",
+    "photoAppTitle": "Ha bileta klare",
+    "photoAppText": "I den gratis Golden Moments-appen blir bileta du vel, liggjande på eininga til neste gong, og spela fungerer utan Wi‑Fi. iPhone, iPad og Android.",
+    "goodToKnow": "Godt å vite",
+    "goodToKnowText": "Dette spelet er til for hygge og samvær. Det verken testar, måler eller behandlar noko som helst.",
+    "moreGames": "Fleire rolege spel",
+    "crumb": "Spel"
   }
 }

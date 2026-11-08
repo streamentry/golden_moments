@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Legir a votz auta",
+      "stopReading": "Arrestar la lectura",
+      "region": "Jòc",
+      "restart": "Tornar començar",
+      "soundOn": "Sons doces activats",
+      "soundOff": "Sons doces desactivats",
+      "done": "Fini per ara",
+      "feedbackQuestion": "Aquò vos a ajudat uèi?",
+      "feedbackYes": "Òc",
+      "feedbackNo": "Pas tant",
+      "feedbackThanks": "Mercés de nos o dire."
+    },
+    "tile": {
+      "named": "{name}, carrèu {n}",
+      "hidden": "Imatge amagada, carrèu {n}",
+      "withState": "{label}, {state}",
+      "matched": "Parièr trobat",
+      "selected": "Seleccionat",
+      "picture": "Imatge",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Totas las parièras son trobadas. Tornatz jogar o prenètz un repaus.",
+      "photoPair": "Una parièra de fotos, amassa.",
+      "picturePair": "Doas imatges de {name|lower}, amassa.",
+      "selected": "{name}. Ara trobatz sa parièra.",
+      "mismatch": "Prenètz vòstre temps. Tocatz una imatge per contunhar.",
+      "mismatchNamed": "{a} e {b}. Prenètz vòstre temps. Tocatz una imatge per contunhar."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tocatz una imatge, puei tocatz aquela que correspond.",
+      "guidanceHidden": "Tocatz doas cartas per las virar. Cercatz doas parièras.",
+      "restart": "Imatges novèlas",
+      "sizeLegend": "Nombre de carrèus",
+      "size": {
+        "one": "{n} carrèu",
+        "other": "{n} carrèus"
+      },
+      "viewLegend": "Coma se jòga",
+      "viewShowing": "Imatges visiblas",
+      "viewHidden": "Imatges amagadas",
+      "playAgain": "Tornar jogar amb d'imatges novèlas",
+      "talk": "Parlar d'imatges amassa"
+    },
+    "choose": {
+      "countLegend": "Nombre d'imatges",
+      "count": "{n} per triar",
+      "thatOne": "Aquò es {name|lower}. Prenètz vòstre temps."
+    },
+    "findTheSame": {
+      "guidance": "Agachatz la imatge de dessús. Tocatz la mèma en bas.",
+      "yes": "Òc, es la mèma imatge : {name|lower}.",
+      "next": "Imatge seguenta"
+    },
+    "shadowMatch": {
+      "guidance": "Agachatz l'ombra de dessús. Tocatz la imatge que la fa.",
+      "yes": "Òc, aquò es l'ombra de {name|lower}.",
+      "next": "Ombra seguenta",
+      "shadowAlt": "Una ombra per assortir",
+      "foundAlt": "L'ombra de {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tocatz una imatge, puei tocatz lo panièr ont va.",
+      "restart": "Imatges novèlas",
+      "themeLegend": "Tèma",
+      "selected": "{name}. Ara tocatz lo panièr ont va.",
+      "pickFirst": "Tocatz primièr una imatge, puei un panièr.",
+      "hint": "Podèm metre {name|lower} dins lo panièr \"{basket}\". Tocatz aqueste panièr per i metre.",
+      "placed": "{name|lower} es dins lo panièr \"{basket}\".",
+      "sorted": "Tot es triat. Agachatz los paniers amassa, o provatz un autre tèma.",
+      "basket": {
+        "one": "Panièr {basket}, {count} imatge a dins",
+        "other": "Panièr {basket}, {count} imatges a dins"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tocatz un tròç, puei un autre. Càmbian de plaça.",
+      "restart": "Tornar mesclar",
+      "pictureLegend": "Imatge",
+      "pictures": {
+        "sailboat": "Velièr",
+        "house": "Ostal",
+        "balloon": "Globus",
+        "sunflower": "Girasòl",
+        "lighthouse": "Far",
+        "cat": "Gat"
+      },
+      "sizeLegend": "Tròces",
+      "size": {
+        "one": "{n} tròç",
+        "other": "{n} tròces"
+      },
+      "pickedUp": "Tròç ramassat. Ara tocatz on deu anar.",
+      "whole": "L'imatge de {name|lower} es tornada entièra. Triatz una autra quand vos agrada.",
+      "swapped": {
+        "one": "Permutat. {correct} de {total} tròç es a la bona plaça.",
+        "other": "Permutat. {correct} de {total} tròces son a la bona plaça."
+      },
+      "guideAlt": "L'imatge sencera : {name}",
+      "guideText": "Aquí es coma es l'imatge quand es sencera.",
+      "piece": "Tròç en {place}",
+      "pieceInPlace": ", a la bona plaça",
+      "piecePickedUp": ", ramassat",
+      "places4": [
+        "naut a esquèrra",
+        "naut a drecha",
+        "bas a esquèrra",
+        "bas a drecha"
+      ],
+      "places9": [
+        "naut a esquèrra",
+        "naut al mièg",
+        "naut a drecha",
+        "al mièg a esquèrra",
+        "al mièg",
+        "al mièg a drecha",
+        "bas a esquèrra",
+        "bas al mièg",
+        "bas a drecha"
+      ],
+      "done": "L'imatge es tornada entièra. Tornatz jogar o prenètz un repaus.",
+      "playAgain": "Tornar mesclar"
+    },
+    "finishTheSaying": {
+      "guidance": "Legissètz lo provèrbi amassa, puei tocatz lo mot que l'acabe.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Òc, « {start} {end}. »",
+      "otherEnding": "« {word} » tanben va. Lo provèrbi acostumat acaba per « {end} ».",
+      "revealed": "Lo provèrbi es « {start} {end}. »",
+      "choicesLabel": "Triatz lo darrièr mot",
+      "show": "Mostrar la fin",
+      "talk": "Parlatz-ne : ",
+      "next": "Provèrbi seguent"
+    },
+    "wordSearch": {
+      "guidance": "Los mots van de travèrs o de naut en bas. Tocatz la primièra letra d'un mot, puei la darrièra.",
+      "restart": "Novèl jòc",
+      "themeLegend": "Tèma",
+      "sizeLegend": "Talha de la grasilha",
+      "size": {
+        "one": "{n} per {n} ({words} mot)",
+        "other": "{n} per {n} ({words} mots)"
+      },
+      "print": "Imprimir aquesta grasilha",
+      "letterChosen": "Letra {letter} triada. Ara tocatz la darrièra letra del mot.",
+      "found": "{word} trobat.",
+      "foundAll": "{word} trobat. Son totes los mots. Tornatz jogar o prenètz un repaus.",
+      "tryAgain": "Prenètz vòstre temps. Tocatz la primièra letra d'un mot, puei la darrièra.",
+      "gridLabel": "Grasilha de lètras, {n} lignas de {n} lètras. Utilizatz las flechas per anar d'una lètra a l'autra.",
+      "cell": "{letter}, linha {row}, colonha {col}",
+      "cellFound": ", part d'un mot trobat",
+      "wordsHeading": "Mots a trobar",
+      "wordFound": " (trobat)",
+      "sheetTitle": "Grasilha de lètras : {theme}",
+      "sheetNote": "Los mots van de travèrs o de naut en bas.",
+      "unavailable": "Una grasilha de lètras convèn pas a aquesta lenga, donc la grasilha de mots es pas proposada aquí. Ensajatz los jòcs d'imatges a la plaça."
+    },
+    "coloring": {
+      "guidance": "Tocatz una color, puei tocatz una part de l'imatge.",
+      "restart": "Efaçar las colors",
+      "cleared": "La pagina es tornada vuèja.",
+      "pageLegend": "Pagina",
+      "print": "Imprimir aquesta pagina",
+      "colorsLabel": "Colors",
+      "paintChosen": "{paint} triat.",
+      "painted": "{part} es ara {paint|lower}.",
+      "artLabel": "{page}, {count} parts a colorar",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, pas colorat",
+      "paints": {
+        "red": "Roge",
+        "orange": "Irange",
+        "yellow": "Jaune",
+        "green": "Verd",
+        "blue": "Blau",
+        "purple": "Violet",
+        "pink": "Rosa",
+        "brown": "Marron",
+        "sky-blue": "Blau cèl",
+        "cream": "Crèma",
+        "gray": "Gris",
+        "white": "Blanc"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Legissètz la carta a votz auta. I a pas de bona responsa.",
+      "position": "Carta {n} de {total}",
+      "themeLegend": "Tèma",
+      "next": "Carta seguenta",
+      "previous": "Carta precedenta",
+      "print": "Imprimir totas las cartas",
+      "sheetTitle": "Cartas de conversacion"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Començatz per triar vòstras fotos.",
+      "guidance": "Tocatz una foto, puei tocatz aquela que correspond.",
+      "restart": "Tornar mesclar",
+      "intro": "**Triatz 2 a 6 fotos** d'aqueste aparelh. Son mostradas unicament sus aquesta pagina e mai son pas mandadas ni salvagardadas.",
+      "choose": "Triar las fotos",
+      "chooseDifferent": "Triar d'autras fotos",
+      "clear": "Levar las fotos",
+      "cleared": "Fotos levadas d'aquesta pagina.",
+      "atLeastTwo": "Triatz al mens doas fotos, se vos plai.",
+      "usingFirst": "Utilizam las {max} primièras fotos.",
+      "skipped": {
+        "one": "{count} fichièr es pas una foto que podèm mostrar.",
+        "other": "{count} fichièrs son pas de fotos que podèm mostrar."
+      },
+      "playAgain": "Tornar jogar amb aquestas fotos",
+      "empty": "Vòstras fotos apareisseràn aquí, cadun dos cops."
+    },
+    "pictureBingo": {
+      "guidance": "Imprimissètz primièr las cartas. Puei mostrar aqueste sortidor sus l'ecran mai grand que vos aguèssetz.",
+      "called": {
+        "one": "{name}. {called} de {total} imatge sortida.",
+        "other": "{name}. {called} de {total} imatges sortidas."
+      },
+      "start": "Tocatz « Imatge seguenta » per sortir la primièra imatge.",
+      "restart": "Començar un nòu jòc",
+      "squaresLegend": "Cases per carta",
+      "squares": "{n} cases ({side} per {side})",
+      "cardsLegend": "Nombre de cartas a imprimir",
+      "cards": {
+        "one": "{n} carta",
+        "other": "{n} cartas"
+      },
+      "print": {
+        "one": "Imprimir {n} carta de bingo",
+        "other": "Imprimir {n} cartas de bingo"
+      },
+      "ready": "Quand vos sentissètz prèst",
+      "next": "Imatge seguenta",
+      "allCalled": "Totas las imatges son sortidas",
+      "alreadyCalled": "Ja sortida",
+      "sheetTitle": "Bingo d'imatges · carta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Inspiratz quand lo cercle grossís, e expiratz quand se tiny. Se planta solament après sièis respiracions.",
+      "paceLegend": "Ritme",
+      "paceSlow": "Lent (5 segondas cada sens)",
+      "paceGentle": "Doç (4 segondas cada sens)",
+      "ready": "Prèst quand vos agrada",
+      "in": "Inspiratz",
+      "hold": "Pausa",
+      "out": "Expiratz",
+      "start": "Començar",
+      "stop": "Arrestar",
+      "started": "Començat. Inspiratz quand lo cercle grossís.",
+      "stopped": "Arrestat.",
+      "finished": "Aquò fa sièis respiracions lentas. Tornatz començar quand vos agrada."
+    }
+  },
+  "pictures": {
+    "teacup": "Tassa de te",
+    "kettle": "Bolhidor",
+    "bread": "Pan de forn",
+    "frying-pan": "Padena amb un uòu",
+    "cake": "Gastèu d'aniversari",
+    "sunflower": "Girasòl",
+    "tulip": "Tulipa roja",
+    "watering-can": "Arrosador",
+    "potted-plant": "Planta en pòt",
+    "tree": "Arbre",
+    "bird": "Pitròt sus una branca",
+    "butterfly": "Papalhon",
+    "dog": "Chin",
+    "cat": "Gat",
+    "fish": "Peis d'aur",
+    "apple": "Pomo roja",
+    "pear": "Pera",
+    "strawberry": "Fragassa",
+    "banana": "Banana",
+    "lemon": "Limon",
+    "cherries": "Cerasas",
+    "house": "Ostau",
+    "lamp": "Lampa de taula",
+    "armchair": "Fautuèl",
+    "key": "Clau vielha",
+    "umbrella": "Parapluèja",
+    "sailboat": "Veleir",
+    "car": "Veitura classica",
+    "bicycle": "Bicicleta",
+    "balloon": "Globe aerostatic",
+    "lighthouse": "Far",
+    "sun": "Solelh",
+    "moon": "Lua e estelas",
+    "teapot": "Teiera",
+    "apple-pie": "Tarta de pomas",
+    "honey-jar": "Pòt de mèl",
+    "boiled-egg": "Uòu dins un porta-uòu",
+    "toaster": "Grilhador",
+    "cheese": "Pèça de formatge",
+    "milk-jug": "Pòt de lach",
+    "cupcake": "Pitit gastèu",
+    "orange": "Irange",
+    "grapes": "Ramada de rasim",
+    "watermelon": "Morcèu de melon d'aiga",
+    "pineapple": "Ananas",
+    "peach": "Persec",
+    "rose": "Ròsa",
+    "daisies": "Margaridas",
+    "mushroom": "Bolet",
+    "wheelbarrow": "Carretona",
+    "birdhouse": "Caseta d'aucèls",
+    "cactus": "Cactus en pòt",
+    "acorn": "Glan",
+    "autumn-leaf": "Fuelha d'autonn",
+    "rabbit": "Conilh",
+    "duck": "Anèth",
+    "hen": "Polla",
+    "sheep": "Fedòu",
+    "owl": "Ciuta",
+    "ladybird": "Cocinèla",
+    "snail": "Cargòl",
+    "frog": "Granolha",
+    "bee": "Abelha",
+    "clock": "Relòtge de chiminèia",
+    "vase-of-flowers": "Vas de flors",
+    "radio": "Vielha ràdio",
+    "books": "Pila de libres",
+    "candle": "Candèla",
+    "glasses": "Lunetas de legir",
+    "telephone": "Telefòn",
+    "ball-of-wool": "Peloton de lana",
+    "straw-hat": "Capèl de sol",
+    "train": "Tren a vapor",
+    "bus": "Autobús",
+    "airplane": "Avion",
+    "suitcase": "Valisa",
+    "tractor": "Tractor",
+    "rowing-boat": "Barca a rems",
+    "rainbow": "Arc de Sant Martin",
+    "rain-cloud": "Nívol de plueja",
+    "snowflake": "Flocon de nèu",
+    "kite": "Papagai",
+    "sunrise": "Lever de solelh sus los costièrs"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEFGMNPRSTUV",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruch",
+          "words": [
+            "POMO",
+            "PRUNA",
+            "LIMON",
+            "RASIM",
+            "PERSEC",
+            "MELON",
+            "CERASA",
+            "FIGA",
+            "IRANGE"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Jardin",
+          "words": [
+            "ROSA",
+            "TULIPA",
+            "GRANA",
+            "TERRA",
+            "FUELHA",
+            "ARBRE",
+            "FLOR",
+            "ESTANH",
+            "ABELHA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cosina",
+          "words": [
+            "TASSA",
+            "CULER",
+            "PAN",
+            "BOL",
+            "PLAT",
+            "FORN",
+            "FORCHA",
+            "PADENA",
+            "TEIERA"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Temps",
+          "words": [
+            "SOLELH",
+            "PLUEJA",
+            "NEU",
+            "VENT",
+            "NIVOL",
+            "BOIRA",
+            "FREG",
+            "CAUD",
+            "AIGA"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Bèstias",
+          "words": [
+            "CHIN",
+            "GAT",
+            "AUCEL",
+            "PEIS",
+            "CHIVAL",
+            "VACA",
+            "CABRA",
+            "POLLA",
+            "PORC"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ostau",
+          "words": [
+            "PORTA",
+            "TAULA",
+            "LAMPA",
+            "TAPIS",
+            "CANAPE",
+            "BUREU",
+            "CLAU",
+            "OSTAU",
+            "FOC"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Totas las cartas",
+        "food": "Manjar",
+        "home": "Ostau",
+        "outdoors": "Defòra",
+        "animals": "Bèstias",
+        "travel": "Viatjar",
+        "work": "Trabalh e passa-temps",
+        "music": "Musica e divertiment",
+        "seasons": "Sasons"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Quina odor de cosina vos agrada mai?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Quin gastèu triariatz per una festa?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Contatz-me una tarta de fruta o un dessert que vos agradava."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Cossí vos agrada lo te o lo cafè?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Qu'es que fa un bon esmorzar?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Avètz jamai cuelhut de la fruta dirèctament de la planta?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dolç o agre: qual vos agrada mai?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Quin manjar vos rapèla l'estiu?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Contatz-me d'un ostau ont vos agradava viure."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ont vos agrada mai sètre per vos repausar?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Qu'es que vos agrada far un vèspre tranquil?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Qu'es un tresaur que gardariatz dins una caissa especiala?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Qui invitariatz per beure un te?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Qu'es que vos agrada far un jorn de plueja?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Quelas flors plantariatz dins un jardin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Contatz-me d'un arbre o d'un parc que vos agrada."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Qu'es la melhor part d'èstre dins un jardin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "De quina color de flors vos agrada mai?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Vos agrada aver de plantas dins l'ostau?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Qu'es vòstra idèa d'un jorn de solelh perfièit?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Contatz-me d'un chin que coneissiatz."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Gats o chins, o cap? Qu'es que vos agrada en elses?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Quins aucèls vesètz o auçatz defòra?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Avètz jamai pescat, o gardat un aquari de peis?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Quina es la bèstia la mai polida que avètz vista?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Contatz-me d'una veitura que vos agradava."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Prefeririatz passar un jorn a la mar o a la montanha?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ont vos agradaria anar en velocipèda?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Se poviatz volar sus qualque luòc, quin seria?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Qu'es un viatge que vos agradèt?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Quin travai vos a agradat far?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Qual passa-temps poiriatz far pendent oras?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Qu'es quicòm que fasiatz o reparavatz mai que degun?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Quin conselh donariatz a un jove que comença de trabalhar?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Quina musica vos fa venir ganas de bategar lo pè?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Qu'es que fa una bona festa?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Qual cantaire vos agrada escotar?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Quin film o emission de television vos agrada tornar veire?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Qu'es que vos agrada mai de l'estiu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Qu'es que vos agrada de la tardor?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Qu'es una causa agradabla de far un vèspre d'ivèrn?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Quins son los primièrs signes de la primavèra per vos?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Nèu, plueja o solelh: qual preferissètz?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flor en pòt",
+          "regions": {
+            "sky": "Fons",
+            "table": "Taula",
+            "stem": "Tija",
+            "leaf-left": "Fuelha esquèrra",
+            "leaf-right": "Fuelha drecha",
+            "petal-1": "Petal 1",
+            "petal-2": "Petal 2",
+            "petal-3": "Petal 3",
+            "petal-4": "Petal 4",
+            "petal-5": "Petal 5",
+            "petal-6": "Petal 6",
+            "petal-7": "Petal 7",
+            "petal-8": "Petal 8",
+            "center": "Centre de la flor",
+            "pot": "Pòt",
+            "pot-rim": "Bòrd del pòt"
+          }
+        },
+        "house": {
+          "name": "Ostau",
+          "regions": {
+            "sky": "Cèl",
+            "sun": "Solelh",
+            "grass": "Erba",
+            "chimney": "Chiminèia",
+            "walls": "Parets",
+            "roof": "Teulada",
+            "door": "Porta",
+            "window-left": "Fenèstra esquèrra",
+            "window-right": "Fenèstra drecha",
+            "path": "Camin"
+          }
+        },
+        "teacup": {
+          "name": "Tassa de te",
+          "regions": {
+            "background": "Fons",
+            "saucer": "Soquet",
+            "handle": "Anse",
+            "cup": "Tassa",
+            "band": "Banda de la tassa",
+            "tea": "Te"
+          }
+        },
+        "butterfly": {
+          "name": "Papalhon",
+          "regions": {
+            "background": "Fons",
+            "wing-top-left": "Ala dessús esquèrra",
+            "wing-top-right": "Ala dessús drecha",
+            "wing-bottom-left": "Ala dejós esquèrra",
+            "wing-bottom-right": "Ala dejós drecha",
+            "spot-left": "Taca de l'ala esquèrra",
+            "spot-right": "Taca de l'ala drecha",
+            "body": "Còrs"
+          }
+        },
+        "sailboat": {
+          "name": "Veleir",
+          "regions": {
+            "sky": "Cèl",
+            "sea": "Mar",
+            "sail-big": "Vela grand",
+            "sail-small": "Vela petita",
+            "mast": "Mast",
+            "hull": "Barca",
+            "flag": "Bandièra"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cosina e jardin",
+          "baskets": [
+            "Dins la cosina",
+            "Dins lo jardin"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fruchs e animals",
+          "baskets": [
+            "Fruchs",
+            "Animals"
+          ]
+        },
+        "home-travel": {
+          "label": "Ostal e viatges",
+          "baskets": [
+            "A l'ostal",
+            "Defòra"
+          ]
+        }
+      }
+    }
+  }
+}

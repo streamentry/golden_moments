@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Izibhangqwana zezithombe",
+    "seoTitle": "Umdlalo Wokufanisa Wabantu Abaphila Nesifo Sokulibala: Izibhangqwana Zezithombe",
+    "h1": "Izibhangqwana Zezithombe: Umdlalo Wokufanisa Othulile",
+    "description": "Umdlalo wokufanisa osimahla, othulile wabantu abaphila nesifo sokulibala. Izithombe ezinkulu zihlala zibonakala, akukho sikhathi noma amaphuzu, futhi wena ukhetha amathayili angu-4 kuya ku-12.",
+    "short": "Thola izithombe ezimbili ezifanayo. Izithombe zingahlala zibonakala.",
+    "players": "Umuntu oyedwa noma ababili, eceleni komunye",
+    "intro": "Thepha isithombe, bese uthepha esifanayo naso. Izithombe zihlala zibonakala ngokuzenzakalelayo, ngakho akudingeki ukuthi kukhunjulwe lutho. Lapho izithombe ezimbili zihambisana, zithola umngcele wegolide kanye nophawu lokuhlola.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Khetha inani lamathayili ozowasebenzisa. Amathayili amane yindawo ethulile yokuqala.",
+      "Thepha noma yisiphi isithombe. Sizothola umngcele wegolide.",
+      "Thepha isithombe esifana nalesi. Lababili bazohlala ndawonye banophawu lokuhlola.",
+      "Uma izithombe ezimbili zihlukile, akukho okubi okwenzekayo. Thepha futhi uma usulungele.",
+      "Vula “Izithombe ezifihliweyo” kuphela uma nina nobabili nithanda inguqulo yakudala ezifihlwe ngobuso phansi."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Bizani izithombe ngokuzwakalayo ndawonye nixoxe ngazo: “Indebe ebomvu yetiye. Ngabe uyifaka ubisi kutiyi yakho?”",
+      "Vumela umuntu onakekelayo athephe, noma kuthathe isikhathi eside. Khomba esikhundleni sokuthepha ngesakhe.",
+      "Hlala namathayili amane isikhathi eside esizwakala kahle. Amathayili amaningi yisinqumo, hhayi izinga okufanele lifinyelelwe.",
+      "Qedani ngesikhathi usathokoza. Umdlalo owodwa usuyimisebenzi ephelele."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kukhona isikhathi noma amaphuzu yini?",
+        "a": "Cha. Akukho iwashi, amaphuzu, isibali-zinyathelo noma ukulahlekelwa. Ungayima noma nini, futhi ukuyeka uphakathi nendlela kuyindlela elungile yokuqeda."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Kungani izithombe zihlala zibonakala?",
+        "a": "Ukugcina izithombe zibonakala kwenza umdlalo ube ngokubukisisa nokufanisa, hhayi ngokukhumbula. Abanye abantu bathola lokhu kuthula kakhulu. Ungashintsha ube yizithombe ezifihliweyo ngokuthepha kanye uma uthanda kunjalo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ingabe kuyamahhala, ngidinga ukubhalisa yini?",
+        "a": "Yebo, kuyamahhala, akudingeki i-akhawunti, ukubhalisa noma ukulanda. Kusebenza kwisiphequluli sewebhu esiselucingweni, ethebulethini noma ekhompyutheni."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Singasebenzisa izithombe zomndeni wethu?",
+        "a": "Yebo. Zama “Izibhangqwana zezithombe zakho”, okukuvumela ukuthi ukhethe izithombe esisemshinini wakho. Izithombe zihlala kusiphequluli sakho futhi azilayishwa."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Thola okufanayo",
+    "seoTitle": "Thola Isithombe Esifanayo: Umdlalo Olula Wabantu Abaphila Nesifo Sokulibala",
+    "h1": "Thola Isithombe Esifanayo",
+    "description": "Isithombe esisodwa phezulu, ezimbili kuya kwezine ngezansi. Thepha esifanayo. Umdlalo wezithombe osimahla, othulile wabantu abaphila nesifo sokulibala, ngaphandle kwesikhathi.",
+    "short": "Bheka isithombe esiphezulu uthephe esifanayo ngezansi.",
+    "players": "Umuntu oyedwa noma ababili",
+    "intro": "Isithombe esisodwa sihlala phezulu kwiskrini. Ngezansi kukhona ezimbili, ezintathu noma ezine. Thepha esifanayo. Kuyinqumo elula ngesikhathi esisodwa, nendawo eyanele yokukhuluma.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Khetha ezimbili, ezintathu noma ezine zokukhetha kuzo. Ezimbili ziyinto elula kakhulu.",
+      "Bhekani isithombe esiphezulu ndawonye.",
+      "Thepha isithombe esifanayo ngezansi. Sizobe sesimakwe ngophawu lokuhlola namazwi ambalwa ashisayo.",
+      "Uma kuthephwe esihlukile, umdlalo uzosichaza bese uyalinda. Thatha isikhathi sakho.",
+      "Thepha “Isithombe esilandelayo” uma usulungele esinye."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Khulumani ngesithombe ngasinye ngaphambi kokukhetha: imibala, izimo, lapho ningasibona khona.",
+      "Ukukhetha kwezimbili akusho ukuthi “kulula kakhulu”. Injongo ngumzuzu omuhle, hhayi inselele.",
+      "Uma kunzima ukuthepha, umuntu angakhomba futhi wena ungathepha ngesakhe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kukhona isikhathi noma amaphuzu yini?",
+        "a": "Cha. Akukho iwashi, amaphuzu, isibali-zinyathelo noma ukulahlekelwa. Ungayima noma nini, futhi ukuyeka uphakathi nendlela kuyindlela elungile yokuqeda."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kwenzekani uma kuthephwe isithombe esingafanele?",
+        "a": "Akukho okubi okwenzekayo. Akukho ukhala, isiphambano esibomvu noma ukunyakaza. Umdlalo uchaza isithombe esithephiwe bese ulinda ukuthepha okulandelayo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ingabe kuyamahhala, ngidinga ukubhalisa yini?",
+        "a": "Yebo, kuyamahhala, akudingeki i-akhawunti, ukubhalisa noma ukulanda. Kusebenza kwisiphequluli sewebhu esiselucingweni, ethebulethini noma ekhompyutheni."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Ukufanisa ngomthunzi",
+    "seoTitle": "Umdlalo Wokufanisa Ngomthunzi Wabantu Abaphila Nesifo Sokulibala: Mahhala Ku-inthanethi",
+    "h1": "Ukufanisa Ngomthunzi: Umdlalo Wezithombe Othulile",
+    "description": "Umthunzi omnyama phezulu, izithombe ezimbili kuya kwezine ngezansi. Thepha isithombe esenza umthunzi. Umdlalo wokufanisa ngomthunzi osimahla, othulile wabantu abaphila nesifo sokulibala, ngaphandle kwesikhathi.",
+    "short": "Bheka umthunzi uthephe isithombe esiwenzayo.",
+    "players": "Umuntu oyedwa noma ababili",
+    "intro": "Ukufanisa ngomthunzi kungomunye umsebenzi owaziwayo ezinkombisweni eziphrintiwe, kodwa lapha kukhona izithombe ezinkulu futhi akudingeki ukuphrinta lutho. Umthunzi othambile uhlala phezulu kwiskrini, bese kulindele izithombe ezimbili, ezintathu noma ezine ngezansi. Thepha eyenza umthunzi. Izimo ezinjengebhayisikili, isambulela noma indebe yetiye nazo zilula ukukhuluma ngazo.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Khetha ezimbili, ezintathu noma ezine. Ezimbili ziyinto elula kakhulu.",
+      "Bhekani umthunzi ndawonye. Uyisimo esinjani?Ude noma uzungezile?",
+      "Thepha isithombe esenza umthunzi. Igama lazo lizovela ngaphansi komthunzi.",
+      "Uma kuthephwe esihlukile, umdlalo uzosichaza bese uyalinda. Thatha isikhathi sakho.",
+      "Thepha “Umthunzi olandelayo” uma usulungele omunye."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Landelela ngomunwe umugqa womthunzi bese nixoxa ngesimo.",
+      "Uma imithunzi inzima ngalolu suku, shintshela ku-“Thola okufanayo”, lapho izithombe zifana khona.",
+      "Xoxani ngesithombe nisitholile: “Sasinesambulela esinjalo.”"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kukhona isikhathi noma amaphuzu yini?",
+        "a": "Cha. Akukho iwashi, amaphuzu, isibali-zinyathelo noma ukulahlekelwa. Ungayima noma nini, futhi ukuyeka uphakathi nendlela kuyindlela elungile yokuqeda."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Ingabe ukufanisa isithunzi kuyasiza abantu abaphila ne-dementia?",
+        "a": "Kungaba umsebenzi omuhle nolula kwabanye abantu, ikakhulu ezigabeni zokuqala. Izimo ziyalula ukuzibona kunamagama. Kwenzelwe injabulo nokuxoxa, hhayi ukuhlolwa, futhi akwelaphi noma kunciphise i-dementia. Uma kubangela ukucasula, zama i-Find the same noma ubheke izithombe ndawonye."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Yini uma kuthintwa isithombe esingalungile?",
+        "a": "Akukho okubi okwenzekayo. Akukho umsindo, isiphambano esibomvu noma ukunyakaza. Umdlalo utshela igama lesithombe esithintiwe bese ulinda ukuthinta okulandelayo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ingabe kuyamahhala, futhi kudingeka ubhalise?",
+        "a": "Yebo, kuyamahhala, futhi akudingeki i-akhawunti, ukubhalisa noma ukulanda. Kusebenza kusiphequluli sewebhu efonini, ethebhulethini noma ekhompyutheni."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Hlela ndawonye",
+    "seoTitle": "Umdlalo Wokuhlela Wedementia: Hlela Ndawonye",
+    "h1": "Hlela Ndawonye: Umsebenzi Wokuhlela Izithombe",
+    "description": "Thinta isithombe, bese uthinta ibhasikidi esifanele: ekhishini noma egadeni, izithelo noma izilwane. Umsebenzi onokuthula nomahhala wokuhlela wabantu abaphila ne-dementia.",
+    "short": "Beka isithombe ngasinye ebhasikidini layo: ekhishini noma egadeni, nokunye.",
+    "players": "1 noma 2 abantu",
+    "intro": "Ukuhlela ngumsebenzi ojwayelekile nowanelisayo wansuku zonke, njengokubeka izinto ezithengiwe endaweni yazo noma ukuhlanganisa amasokisi. Thinta isithombe, bese uthinta ibhasikidi lapho silungele khona. Akukho ukuphuthuma futhi akukho ndlela engalungile.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Khetha itimu: ekhishini nasegadeni, izithelo nezilwane, noma ekhaya nasohambweni.",
+      "Thinta isithombe. Sizoba nomngcele wegolide.",
+      "Thinta ibhasikidi lapho silungele khona. Isithombe sizongena kuleyo basikidi.",
+      "Uma silungele ibhasikidi elinye, umdlalo uzokutshela ngobumnene bese uyalinda.",
+      "Uma zonke izithombe sezihlelekile, bhekelani ndawonye ebhasikidini."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Empilweni yangempela azikho impendulo ezingalungile njalo. Uma umuntu esho ukuthi isinkwazi sokuthela amanzi silungele ekhishini, buza ukuthi kungani. Ungathola indaba enhle.",
+      "Sebenzisa izithombe njengesikhumbuzo: \"Yini oyikhulile egadeni lakho?\"",
+      "Ukuhlela izinto zangempela, njengezipuni namafolokhwe noma amanebe ngombala, kuyisilandeli esihle ngaphandle kwesikrini."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ingabe kukhona isikhathi noma amaphuzu?",
+        "a": "Cha. Akukho iwashi, amaphuzu, isibali sokunyakaza noma ukulahlekelwa. Ungayeka noma nini, futhi ukuyeka phakathi nendawo kungumphumela omuhle nje."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Kungani ukuhlela?",
+        "a": "Abantu abaningi bayajabulela ukuhlela ngoba kuzwakala njengomsebenzi osebenzisekayo nowaziwayo. Kuphinde kube lula ukuxoxa ngezithombe njengoba nihlela."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ingabe kuyamahhala, futhi kudingeka ubhalise?",
+        "a": "Yebo, kuyamahhala, futhi akudingeki i-akhawunti, ukubhalisa noma ukulanda. Kusebenza kusiphequluli sewebhu efonini, ethebhulethini noma ekhompyutheni."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Ipuzzle yesithombe",
+    "seoTitle": "Ipuzzle Elula Yedementia: Izingcezu ezi-4 noma ezi-9",
+    "h1": "Ipuzzle Yesithombe: Ipuzzle Elula",
+    "description": "Ipuzzle elula ku-inthanethi yabantu abaphila ne-dementia: izingcezu ezi-4 noma ezi-9 ezinkulu, isithombe sonke sihlala sibonakala, futhi uthinta izingcezu ezimbili ukuze uzishintshe.",
+    "short": "Thinta izingcezu ezimbili ukuze uzishintshe kuze kube isithombe siphelele.",
+    "players": "1 noma 2 abantu",
+    "intro": "Isithombe esihle sinqunyelwa ezingcezwini ezi-4 noma ezi-9 ezinkulu futhi siyaxutshwa. Isithombe sonke sihlala sibonakala njengesiqondiso. Thinta ingcezu eyodwa, bese kwelinye, bese zishintsha izindawo. Akudingeki ukudonsa.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Khetha isithombe nezingcezu ezi-4 noma ezi-9. Ezi-4 kuwukuqala okuthambileyo.",
+      "Bheka isithombe sonke phezulu.",
+      "Thinta ingcezu, bese uthinta indawo lapho kufanele khona. Izingcezu ezimbili ziyashintsha.",
+      "Izingcezu ezisendaweni efanele zithola uphawu oluncane lokuqinisekisa.",
+      "Isithombe sesiphelele, nijabulele ndawonye, bese nikhetha esinye."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Ukuthinta izingcezu ezimbili ukuzishintsha kulula kakhulu kunokuzidonsela kwabanye abantu.",
+      "Xoxani ngesithombe njengoba sihlanganisa: \"Nansi uphahla olubomvu.\"",
+      "Ipuzzle yangempela yokhuni enezingcezu ezi-12 kuya kwezi-24 ezinkulu ilungile nakakhulu etafuleni."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ingabe kukhona isikhathi noma amaphuzu?",
+        "a": "Cha. Akukho iwashi, amaphuzu, isibali sokunyakaza noma ukulahlekelwa. Ungayeka noma nini, futhi ukuyeka phakathi nendawo kungumphumela omuhle nje."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Ngidinga ukudonsa izingcezu?",
+        "a": "Cha. Thinta ingcezu eyodwa, bese uthinta enye, bese zishintsha izindawo. Lokhu kulula kakhulu uma isandla sinyathelisa noma uma isikrini sincane."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ingabe kuyamahhala, futhi kudingeka ubhalise?",
+        "a": "Yebo, kuyamahhala, futhi akudingeki i-akhawunti, ukubhalisa noma ukulanda. Kusebenza kusiphequluli sewebhu efonini, ethebhulethini noma ekhompyutheni."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Qeda isisho",
+    "seoTitle": "Qeda Isisho: Umdlalo Wezaga Zabadala",
+    "h1": "Qeda Isisho",
+    "description": "Izisho ezijwayelekile ezinegama lokugcina elingekho. Thinta okukhethwa noma bonisa isiphelo, bese nixoxa ngakho.",
+    "short": "Qedani izisho ezijwayelekile ndawonye, bese nixoxa ngazo.",
+    "players": "1, 2 noma iqembu",
+    "intro": "Izisho zasendulo zivame ukwaziwa impilo yonke. Ikhadi ngalinye linesisho esijwayelekile esinegama lokugcina elingekho, izinketho ezintathu, nenkinobho ethi \"Bonisa isiphelo\". Ngemva kwesiphelo, umbuzo onobumnene uyakhuthaza ukuxoxa.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Funda isisho ngokuzwakalayo ndawonye.",
+      "Thinta igama elisiqedayo, noma thinta \"Bonisa isiphelo\".",
+      "Funda isisho lonke futhi uxoxe ngalo usebenzisa umbuzo.",
+      "Thinta \"Isisho esilandelayo\" uma usulungele."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Funda kancane ushiye ukuthula ngaphambi kwegama lokugcina. Abantu bavame ukusho igama ngaphambi kokuthi uqede.",
+      "Uma umuntu enikeza isiphelo esihlukile, kujabulise. Izinguqulo zezisho ziyahlukahluka ngomndeni noma ngesifunda.",
+      "Eqenjini, umuntu oyedwa ufunda, bonke bajoyine esiphelweni."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Ingabe kukhona isikhathi noma amaphuzu?",
+        "a": "Awa. Akukho iwashi, amaphuzu, inani lezinyathelo noma ukwehluleka. Ungayeka noma nini, futhi ukuyeka phakathi nendlela enhle yokuphetha."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Yini uma sikhetha elinye igama?",
+        "a": "Umdlalo ubonisa isiphetho esijwayelekile bese uqhubeka ngengxoxo. Akukho amaphuzu, futhi impendulo ehlukile iyamukeleka."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ingabe kuyamahhala, futhi kuyadingeka ukubhalisa?",
+        "a": "Yebo, kuyamahhala, futhi akudingeki i-akhawunti, ukubhalisa noma ukulanda. Isebenza kwisiphequluli sewebhu efonini, ethebhulethini noma ekhompyutheni."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Umdlalo wamagama ngemibhalo emikhulu",
+    "seoTitle": "Umdlalo Wamagama Wemibhalo Emikhulu Wesifo Sokulibala, Ongaprintwa",
+    "h1": "Umdlalo Wamagama Wemibhalo Emikhulu",
+    "description": "Umdlalo wamagama mahhala wemibhalo emikhulu wabadala nabantu abaphila nesifo sokulibala. Amagama ambalwa, imibhalo emikhulu, afundwa ngokuthi aye nangokuthi phansi kuphela. Dlala ku-inthanethi noma uprinte.",
+    "short": "Imibhalo emikhulu, amagama ambalwa, aya nasezansi kuphela. Uyiprinte nayo.",
+    "players": "1 noma abantu aba-2",
+    "intro": "Igridi elincane lemibhalo emikhulu nezinhlamvu ezimbalwa kuphela, onke afundwa aya noma aphansi. Thepha inhlamvu yokuqala yegama, bese uthepha inhlamvu yokugcina. Uthanda ephepheni? Printa ipuzzle entsha ngokuthepha kanye.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Khetha isihloko nosayizi wegridi.",
+      "Bheka uhlu lwamagama. Amagama afundwa aya (kwesokunxele kuya kwesokudla) noma phansi (phezulu kuya phansi).",
+      "Thepha inhlamvu yokuqala yegama, bese uthepha inhlamvu yokugcina.",
+      "Igama otholiwe liyakhanyiswa libe seliyasuswa ohlwini.",
+      "Thepha “Printa le puzzle” ukudlala ephepheni ngopensile noma nge-marker."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Khomba igama ohlwini bese nibheka inhlamvu yalo yokuqala ndawonye.",
+      "Ephepheni, i-highlighter ilula ukuyibamba kunopensile.",
+      "Xoxani ngamagama esihloko. Amagama ezithelo ayindlela elula yokungena ezikhumbulweni zokuvuna, ukubhaka nezimakethe."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kukhona iwashi noma amaphuzu?",
+        "a": "Awa. Akukho iwashi, amaphuzu, inani lezinyathelo noma ukwehluleka. Ungayeka noma nini, futhi ukuyeka phakathi nendlela enhle yokuphetha."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Ngingaprinta umdlalo wamagama?",
+        "a": "Yebo. Thepha “Printa le puzzle” ukuprinta igridi yamanje ngohlamvu olukhulu, nohlu lwamagama ngaphansi kwayo. Yonke ipuzzle entsha iyahlukile."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ingabe kuyamahhala, futhi kuyadingeka ukubhalisa?",
+        "a": "Yebo, kuyamahhala, futhi akudingeki i-akhawunti, ukubhalisa noma ukulanda. Isebenza kwisiphequluli sewebhu efonini, ethebhulethini noma ekhompyutheni."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Amaphepha okupenda",
+    "seoTitle": "Amaphepha Okupenda Abadala Abanesifo Sokulibala (Mahhala)",
+    "h1": "Amaphepha Okupenda",
+    "description": "Amaphepha alula okupenda abadala, anezindawo ezinkulu: thepha umbala, bese uthepha isithombe. Akukho ukungcola, akukho imibala engalungile, futhi wonke amaphepha angaprintwa mahhala.",
+    "short": "Thepha umbala, bese uthepha ingxenye yesithombe. Uwaprinte namaphepha.",
+    "players": "1 noma abantu aba-2",
+    "intro": "Amaphepha anezimo ezinkulu nezilula: iluba esitsheni, indlu, inkomishi yetiye, ibhabhathane nesikepe esinesela. Thepha umbala, bese uthepha ingxenye yesithombe ukuyigcwalisa. Azikho imibala engalungile.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Khetha ipheshana.",
+      "Thepha umbala. Umbala ngamunye unegama lawo elibhalwe kuwo.",
+      "Thepha ingxenye yesithombe ukuyigcwalisa ngalowo mbala.",
+      "Shintsha umqondo nanoma nini ngokuyigcwalisa futhi.",
+      "Thepha “Printa leli phepha” uthole ipheshana elingenalutho lokupenda ngopensile noma nge-marker."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Nika umuntu imibala emibili yokukhetha esikhundleni sesethi yonke uma ukukhetha sekuzwakala kukhulu.",
+      "Imithi eluhlaza emfusa kanye namalanga aluhlaza ayamukeleka. Lokhu kungokujabulela umbala, hhayi ukunemba.",
+      "Amaphepha aprintiwe asebenza kahle nama-marker amakhulu noma ama-crayon, alula ukuwabamba."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kukhona iwashi noma amaphuzu?",
+        "a": "Awa. Akukho iwashi, amaphuzu, inani lezinyathelo noma ukwehluleka. Ungayeka noma nini, futhi ukuyeka phakathi nendlela enhle yokuphetha."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Ingabe lawa maphepha akhulula kakhulu kubantu abadala?",
+        "a": "Sadweba izinto ezithule nezilula, hhayi amakhathuni, ngakho amaphepha afanele abadala. Izimo ezinkulu zenza ukupenda kube lula ngaphandle kokwenza kube ngokwabantwana."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ingabe kuyamahhala, futhi kuyadingeka ukubhalisa?",
+        "a": "Yebo, kuyamahhala, futhi akudingeki i-akhawunti, ukubhalisa noma ukulanda. Isebenza kwisiphequluli sewebhu efonini, ethebhulethini noma ekhompyutheni."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Amakhadi engxoxo",
+    "seoTitle": "Izisusa Zengxoxo Zesifo Sokulibala: Amakhadi Ezithombe",
+    "h1": "Amakhadi Engxoxo",
+    "description": "Amakhadi ezithombe anezisusa zengxoxo ezithambileyo zabantu abaphila nesifo sokulibala: akukho ukubuza, akukho izimpendulo ezilungileyo. Sebenzisa esikrinini noma uprinte isethi egcwele.",
+    "short": "Amakhadi ezithombe anemibuzo evulekile nethambileyo. Akukho ukubuzwa imibuzo yokuhlola.",
+    "players": "abantu aba-2 noma iqembu",
+    "intro": "Ikhadi ngalinye lihlanganisa isithombe esijwayelekile nesimemo esivulekile sokukhuluma, njenga “Yisiphi isimo sezulu osithandayo?” Akukho izimpendulo ezilungileyo, futhi akukho okudingeka ukukukhumbula. Khetha isihloko noma xuba zonke.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Khetha isihloko, noma gcina “Wonke amakhadi”.",
+      "Funda umbuzo ngokuzwakalayo bese nibheka isithombe ndawonye.",
+      "Lalela, wabelane ngempendulo yakho, bese uvumela ingxoxo ihambe.",
+      "Thepha “Ikhadi elilandelayo” uma usulungele, noma hlala nekhadi elilodwa isikhathi esifunayo.",
+      "Thepha “Printa wonke amakhadi” ukusika isethi yephepha."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Phendula umbuzo nawe. Kuzwakala njengengxoxo, hhayi udliwano.",
+      "Landela indaba, hhayi amaqiniso. Uma imininingwane ishintsha, kulungile.",
+      "Uma ikhadi lithinta into edabukisayo, vuma umzwelo bese ngobumnene ushintshela kwelinye ikhadi."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Kungani kungekho imibuzo ethi “Uyakhumbula…?”",
+        "a": "Imibuzo evivinya inkumbulo ingazwakala njengovivinyo futhi ibangele ukuhlazeka. Izimemo ezivulekile njenga “Ngitshele nge…” zivumela noma ubani ukujoyina, nanoma yini ayikhumbulayo."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Ngingaprinta amakhadi?",
+        "a": "Yebo. “Printa wonke amakhadi” iprinta isethi egcwele ngohlamvu olukhulu, amakhadi amaningi ngephepha ngalinye, alungele ukusikwa."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ingabe kuyamahhala, futhi kuyadingeka ukubhalisa?",
+        "a": "Yebo, kuyamahhala, akudingeki i-akhawunti, ukubhalisa noma ukulanda. Iyasebenza kusiphequluli seweb ocingweni, ethabhulethini noma ekhompyutheni."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Izithombe ezifanayo",
+    "seoTitle": "Yenza Umdlalo Wokufanisa Ngezithombe Zomndeni",
+    "h1": "Izithombe Ezifanayo: Fanisa Izithombe Zakho",
+    "description": "Guqula izithombe zakho zomndeni zibe umdlalo wokufanisa onobumnene. Khetha izithombe ezi-2 kuya kwezi-6 kwidivayisi yakho; zihlala kusiphequluli sakho futhi azikaze zilayishwe.",
+    "short": "Khetha izithombe zakho uzifanise. Azikho ezilayishwayo.",
+    "players": "Abantu aba-2, besebhekene",
+    "intro": "Khetha izithombe ezi-2 kuya kwezi-6 ocingweni, kwithabhulethi noma ekhompyutheni, zibe umdlalo wokufanisa onezithombe ezinkulu nezibonakalayo. Izithombe zibonakala kuphela kulelikhasi. Azilayishwa, azigcinwa, futhi azabelwani ngazo, zinyamalale lapho uvala ikhasi.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Cofa \"Khetha izithombe\" ukhethe izithombe ezi-2 kuya kwezi-6.",
+      "Isithombe ngasinye sivela kabili. Cofa esinye, bese ucofa okufanayo naso.",
+      "Khuluma ngesithombe ngasinye njengoba usithola.",
+      "Lapho usuqedile, vala ikhasi noma cofa \"Sula izithombe\". Akukho okugcinwayo."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Khetha izithombe ezicacile zezinto ezijabulisayo nezaziwayo: isilwane sasekhaya, ingadi, indawo oyithandayo, usuku lomshado.",
+      "Izithombe zezindawo nezinto zingaba lula kunobuso, futhi azinakho ukucindezela ukuthi umuntu abize amagama abantu.",
+      "Gwema izithombe zabantu abasebashonile uma zingaletha ukudabuka okungazelelwe, ngaphandle kokuthi wazi ukuthi ziletha induduzo."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Izithombe zami zilayishelwa noma yiphi indawo?",
+        "a": "Cha. Ikhasi lifunda izithombe ozikhethile ngqo kusiphequluli sakho futhi lizibonise esikrinini sakho. Azithunyelwa kithi noma kunoma ubani omunye, futhi ziyanyamalala uma uvala noma uvuselela ikhasi."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Kukhona isikhathi noma amaphuzu?",
+        "a": "Cha. Akukho iwashi, amaphuzu, isibali sokunyakaza noma ukulahlekelwa. Ungayeka noma nini, futhi ukuyeka phakathi nendlela kuyindlela efanele yokuqeda."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Ngingalonga umdlalo ukuze ngiwusebenzise ngesikhathi esizayo?",
+        "a": "Hhayi kusiphequluli, ngenhloso, ukuze kungagcinwa lutho olucashile. I-app yamahhala ye-Golden Moments yeyi-iPhone ne-iPad ingagcina amakhophi ezithombe ezikhethiwe kudivayisi yakho."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Ibingo yezithombe",
+    "seoTitle": "Ibingo Yezithombe Yabadala Abaphila Nesifo Sokukhohlwa: Okungashicilelwa",
+    "h1": "Ibingo Yezithombe Yamaqembu",
+    "description": "Ibingo yezithombe yamahhala okungashicilelwa yamaqembu okunakekelwa nabadala, nomlaleli omkhulu esikrinini. Izithombe ezinkulu namagama, izikwele ezi-9 noma ezi-16, akudingeki ukufunda.",
+    "short": "Amakhadi ebingo yezithombe okungashicilelwa nomlaleli omkhulu esikrinini samaqembu.",
+    "players": "Iqembu labantu aba-2 kuya kwabangu-30",
+    "intro": "Ibingo lakudala ngezithombe esikhundleni samanani, ukuze kungadingeki muntu afunde okubhalwe kancane. Shicilela isethi yamakhadi ahlukile, bese usebenzisa umlaleli ukubonisa isithombe ngasinye sikhulu kuthelevishini, kulaptopu noma kuthabhulethi.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Khetha izikwele ezi-9 noma ezi-16 ekhadini ngalinye nenani labadlali.",
+      "Cofa \"Shicilela amakhadi\". Ikhadi ngalinye liyahluka.",
+      "Vula umlaleli esikrinini esikhulu. Cofa \"Isithombe esilandelayo\" ukubonisa isithombe ngasinye negama laso.",
+      "Abadlali bamboza isithombe esifanayo ekhadini labo ngesiqandisi, inkinobho noma uphawu.",
+      "Wonke umuntu ogcwalisa umugqa, noma ikhadi lonke, uthola ukuhalalisela. Kulolu hlobo akukho olahlekelwayo: qhubeka udlala size wonke umuntu abe nomugqa."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Sebenzisa amathokheni amakhulu afana namanye ama-checker noma amakepisi ebhodlela. Izinkinobho ezincane zingaba nzima ukuzithatha.",
+      "Thi igama lesithombe usho okuthile ngaso: \"Isikebhe esihamba olwandle. Ubani owake wahamba ngesikebhe?\"",
+      "Hlala abantu abanobunzima bokubona eduze kakhulu nesikrini, futhi ubhangqanise abasizi nabadlali abayidingayo.",
+      "Izikwele ezi-9 zanele amaqembu amaningi. Gcina isikhathi cishe imizuzu engu-20 kuya kwengu-30."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Ngiyisebenzisa kanjani ibingo yezithombe endlini yokunakekelwa?",
+        "a": "Shicilela ikhadi elilodwa ngomdlali ngamunye, faka umlaleli esikrinini esikhulu kakhulu oyinakho, ubize izithombe kancane, uthi igama ngalinye. Dlala size wonke umuntu abe nomugqa, ukuze kungabikho oshiywayo."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Ukushicilela kumahhala yini?",
+        "a": "Yebo. Shicilela amakhadi amaningi onawadingayo, njalo lapho ufuna, ngokomuntu siqu noma ngeqembu."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Abantu bangadlala ngaphandle kokufunda?",
+        "a": "Yebo. Isikwele ngasinye siyisithombe esikhulu, negama laso ngaphansi kwaso ngabathanda amagama."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Ukuphefumula ngokuthula",
+    "seoTitle": "Ukuphumula Ngokuphefumula Ngokuthula Kubadala Nabanakekeli",
+    "h1": "Ukuphumula Ngokuphefumula Ngokuthula",
+    "description": "Ukuphumula okuncane nokuthulile ngokuphefumula okwabelwanwa ngakho: umjikelezo omncane ukhula futhi uncipha ngemiphefumulo eyisithupha. Wena uqala, futhi ungayeka noma nini.",
+    "short": "Umjikelezo oncane okuphefumula ngawo. Qala uyeke lapho ufuna.",
+    "players": "Abantu aba-1 noma aba-2",
+    "intro": "Ngezinye izikhathi umsebenzi omuhle kakhulu ukuphumula ngokuthula. Cofa \"Qala\", bese uphefumula ngenkathi umjikelezo ukhula, uphume ngenkathi uncipha. Khetha isivinini esiphansi noma esisheshayo. Akusona ukwelashwa, kuphela ukuphumula okuthulile okwabelwana ngakho.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Hlala ngokuthula eduze komunye.",
+      "Khetha isivinini: esiphansi noma esithambile.",
+      "Cofa \"Qala\". Phefumula ngenkathi umjikelezo ukhula, uphume ngenkathi uncipha.",
+      "Uyima ngokwawo ngemiphefumulo eyisithupha, noma cofa \"Yima\" nanoma nini ofuna."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Bamba izandla noma ubeke isandla esingalweni lomuntu uma kwamukeleka.",
+      "Ungaphoqi. Uma befuna ukubukela, kulungile.",
+      "Uma umuntu enenkinga yokuphefumula, phefumula njengejwayelekile futhi ubuke umjikelezo. Buza udokotela ngazo zonke izinkinga zokuphefumula."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Lokhu kuwumthambo wokuphefumula wezokwelapha yini?",
+        "a": "Cha. Kuyikhefu elula, elikhethekayo lokuthula nokuba nomuntu. Akusona ukwelashwa kokukhathazeka noma noma yisiphi isimo. Khuluma nodokotela ngezinkinga zempilo."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Umjikelezo unyakaza yini ngaphandle kokuthi mina ngiwuqalise?",
+        "a": "Cha. Akukho nto ehamba uze uthinte Qala, futhi iyeka emva kokuphefumula isithupha noma uma uthinta Yeka. Uma idivayisi yakho imiselelwe ukunciphisa ukunyakaza, amagama ayashintsha kodwa isiyingi asikhuli."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Ingabe kuyamahala, futhi kufuneka ngibhalise?",
+        "a": "Yebo, kuyamahala, futhi akudingeki i-akhawunti, ukubhalisa noma ukulanda. Isebenza kusiphequluli sewebhu kucingo, kuthebhulethi noma kukhompyutha."
       }
     ]
   }

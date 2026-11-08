@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Gi na gbungo tî tënë",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Ye tî ndo ti zo so a yeke na maladi tî Alzheimer",
+    "homeLabel": "Ndâ tî Golden Moments",
+    "mainNav": "Ndâ tî gbungo",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Yângâ tî sängö",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: sioni ti kafe, ti tournesol na ti ngbâ, nzoni na ahinga",
+    "languages": "Yângâ",
+    "englishOnly": "(Angle)",
+    "machineTranslated": "Ye so asara ni na yângâ tî Angle, ala sara ni na kodro tî nzapa. Ala ko sara ni na tongana ti zo so ayeke na yângâ tî sängö ti tënë.",
+    "readOriginal": "Mä sioni tî yângâ Angle",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Ye tî ndoro",
+      "activities": "Ye tî ndo",
+      "caregiving": "Ti tënë ti zo so a yeke na ngangu",
+      "brainHealth": "Ngangu tî yeke tî mémoire"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Ye so ahinga ayeke ti nzapa na ye so a tene",
+    "breadcrumb": "Ndâ tî ye",
+    "home": "Ndâ",
+    "lastUpdated": "Asara ni na",
+    "topics": "Ye tî tënë",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Kötä tî yângâ",
+      "smaller": "Yângâ tî ngbâ",
+      "larger": "Yângâ tî kötä",
+      "contrast": "Ndo tî ye ti kötä"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "Ndoro",
+    "picturePairs": "Sioni ti mbeni",
+    "conversationCards": "Kaâdi ti tënë",
+    "pictureBingo": "Bingo ti sioni",
+    "allGames": "Ye tî ndoro kue",
+    "pictures": "Sioni ti sala na papier",
+    "activityIdeas": "Ye tî ndo ti sala",
+    "ideas101": "101 ye tî ndo ti sala",
+    "lateStage": "Ye tî ndo ti ngia ti nduru",
+    "printable": "Ye tî ndo so a lingbi ti sala na papier",
+    "allActivities": "Ye tî ndo kue",
+    "forCaregivers": "Ti zo so a yeke na ngangu",
+    "playTogether": "Tongana ti ndoro nga mbeni",
+    "selfCare": "Tongana ti bata ngangu tî mo",
+    "brainHealth": "Ngangu tî yeke tî mémoire, tongana ti tënë",
+    "faq": "Ye so ahinga ayeke ti nzapa na ye so a tene",
+    "about": "Ti tënë tî Golden Moments",
+    "approach": "Tongana so e sala ti tënë",
+    "howWeWrite": "Tongana so e tene",
+    "organizations": "Ti ndâ tî ngia",
+    "app": "Application tî Golden Moments",
+    "appHelp": "Mbeni tî application",
+    "support": "Mbeni",
+    "legal": "Ye tî sioni",
+    "sitePrivacy": "Nzoni tî ye na site",
+    "appPrivacy": "Politique tî nzoni tî application",
+    "privacyChoices": "Ye so mo lingbi ti yeke tî nzoni",
+    "terms": "Ye tî tënë na lisansi tî application",
+    "safety": "Nzoni na tongana so a lingbi ti sala",
+    "accessibility": "Tongana ti ye ti zo so a yeke na ngangu",
+    "healthNotice": "Tënë tî ngangu tî kodro",
+    "allLegal": "Ye tî sioni kue",
+    "note": "Golden Moments ayeke ye tî ndo ti nzoni nga mbeni, ti ndoro. Ayeke ye ti kodro ti ngangu ko, ayeke test ko, ayeke ti kura ko, na ayeke ko ti sara ni tongana na mbeni. Tongana mo yeke na tënë ti ngangu, tene na gbia ti kodro. Tongana ngangu ti kiri, tene aye ti kodro tî ngangu.",
+    "publisher": "Asara na Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Ye tî ndoro na ndo tî dementia na Alzheimer | Golden Moments",
+    "description": "Ye tî ndoro ti sioni na ndo ti nzoni, ti ndoro na yâ tî nzoni, na ye tî ndo ti zo so a yeke na dementia wala Alzheimer na ti zo so a yeke na ngangu ti tënë. Ayeke ti ndoro ti ngu ni, ko na kiri, ko na ngu tî ngangu wala ye tî ngangu.",
+    "eyebrow": "Ayeke ti ndoro · Ayeke ti sioni ko · Ayeke ti ndoro ko · Ayeke ti kiri ko",
+    "h1": "Ye tî ndoro nzoni na ye tî ndo ti zo so a yeke na dementia",
+    "lede": "Ye tî ndoro ti sioni ti nzoni, sioni so a sara, na ye tî ndo ti ndoro nga mbeni, na ngangu tî mo.",
+    "playGame": "Ndoro ye ti ndoro",
+    "findIdeas": "Ye tî ndo ti sala",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "A lingbi ti sala na téléphone, tablette na ordinateur",
+      "Sioni ti kötä so asara nga ti ngu",
+      "Mo lingbi ti gi ngu kue; ayeke ko na mbeni ti kiri"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Ayeke application ti ndo ti ngu na iPhone, iPad na Android, na sioni tî zo tî mo",
+    "albumNote": "“Sioni mbeni tî kafe, nga mbeni.”",
+    "gamesEyebrow": "Ndoro na browser tî mo",
+    "gamesTitle": "Ye tî ndoro so a lingbi ti ndoro sô",
+    "gamesLede": "Mbeni na mbeni ayeke nzoni, ti zo tî ngu, na ayeke ti gi vite. Hunda mbeni, mo na zo nga mbeni na yâ, na mo na ala tene ti ti sala kpe ti sioni.",
+    "seeAllGames": "Mä ye tî ndoro {count} kue",
+    "howTitle": "Tongana so a sala",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Hunda ye so a yeke na yâ",
+        "text": "Sioni ti kafe, ti ngbâ, ti zo na ti bateau. Ayeke ko ti tene wala ti zi ye tî ndoro kozo."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Mo na zo nga mbeni na yâ",
+        "text": "Mä zo a sala. Tene na sioni. Sioni so a yeke ti mbeni ko ayeke ti ngu tî ngbâ tî tapa so ngia."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Gi tongana ye ayeke nzoni na yâ",
+        "text": "Ndoro mbeni ayeke ye tî ndo kue. “Mo gi ni sô” ayeke na ecran tongana lo ngbâ."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Na pëpe tî ecran",
+    "stageTitle": "Ye tî ndo ti ngu na ngu",
+    "stageLede": "Mbi tî ngoi, ye tî ti na kodro kue, tënë tî ngu na ye tî ngangu, na ye tî yâ ti sioni, ti sala tongana ye ayeke nzoni na ngoi so.",
+    "ideas101": "101 ye tî ndo ti sala",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Ngu tî kuâ",
+        "text": "Mä zo a sala ye so lo yeke na ye tî ndo ti lo, na mbeni kötä tî ye: ye tî ndo, ye tî zo ti nzoni, ndoro tî tënë na tënë ti kodro nga mbeni.",
+        "label": "Ye tî ndo ti ngu tî kuâ"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Ngu tî kodro",
+        "text": "Ye tî ndo ti nzoni na ye so a yeke na yâ, a sara ni na tapa: mbi, ti sala sioni, mbi na gbanga ti ndo kêkê.",
+        "label": "Ye tî ndo ti ngu tî kodro"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Ngu tî ngia",
+        "text": "Nzoni na tënë na yâ, na ye tî ngbâ, na sioni: ti sala ngangu tî ndo, ti sioni so a yeke, zo ti nzoni, na mo na ala ti ngu nga mbeni.",
+        "label": "Ye tî ndo ti ngu tî ngia"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Ti sese na ye so mo yeke sä? Gi na <a href=\"/activities/alzheimers/\">ye tî ndo na ye tî ndoro ti Alzheimer</a>, <a href=\"/activities/memory-games/\">ye tî ndoro tî mémoire ti nzoni</a>, <a href=\"/activities/trivia/\">ye tî tënë ti nzoni</a> wala <a href=\"/activities/puzzles/\">ye tî ndoro tî tapa</a>.",
+    "approachEyebrow": "Tongana so e sala",
+    "approachTitle": "Ye tî ndo ti zo nga mbeni, ko ye tî ndoro tî mémoire",
+    "approachLede": "Ye tî ndoro tî “ngangu tî yeke” ayeke na vitesse, ye tî ngu, na ye tî mbeni. Mo so a yeke na dementia lo lingbi ti sara ni tongana ye tî ndoro. Mbi sala ye so ayeke tongana na yâ.",
+    "approachLink": "Tongana nyen so mbi sala tongana so",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "Ayeke na yâ ti zo ko",
+        "text": "Ayeke na ngoi ko, ngu ko, na tapa ko, na ti gi ko. Sioni so ayeke ti mbeni ayeke ti ngbâ, ayeke ko ti sala ti tënë."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Sioni ayeke na yâ",
+        "text": "Ti gi sioni so a yeke na yâ. Ti mbeni ayeke na ti sioni ti ngbâ, na ayeke ko ti gi ye ti tënë ti zi."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Ti zo ti kötä na nzoni",
+        "text": "Tënë ti nzoni, ti yângâ ti ye, na sioni ti kodro ti tî nga. Ayeke ko ti sioni ti zo ti ngu wala tënë tî ngoi ti ngu."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Nzoni na ndo ti yeke",
+        "text": "Ayeke ko na compte wala ye tî ndo. Sioni tî mo ayeke ko ti kiri na pëpe tî mo."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Ti zo so a yeke na ngangu",
+    "guidesTitle": "Ye tî ndo ti nzoni tî tënë ti ngu na ngu",
+    "allCaregiving": "Ye tî ndo kue tî tënë ti zo so a yeke na ngangu",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Tongana ti ndoro nga mbeni",
+        "text": "Ti sala, ngoi, na ye so a sala tongana ndoro ayeke ko nzoni mingi."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Tongana lo tene “mbi ye ko” na ndo",
+        "text": "Ye tî ndo so a tene ti “mbi ye ko”, na mbeni ye ti nzoni ti tënë kpe ngoi ngia."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "Ti sala tablette",
+        "text": "Yângâ tî kötä, ye tî ngbâ tî yâ, na mbeni ecran tî ndâ nzoni."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Ye tî ndo so a lingbi ti sala na papier",
+        "text": "Recherche tî mot na yângâ tî kötä, sioni ti sala na kolo, bingo, na kaâdi ti tënë."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Ngangu tî yeke tî mémoire: ye so ti nzoni ayeke na yâ",
+    "researchText": "Lo lingbi ti dementia ti ngbâ ti? Ye tî ndoro ti mémoire ayeke na nzoni ti? Na ye tî ngbâ, tî zo, tî ngoi tî lo, na tî ngoi tî lo tî ndo? Tënë ti nzoni na ye so a sara ni, na ye so tënë ayeke na yeke ti ngbâ.",
+    "researchLink": "Gi na guide tî ye tî ngangu tî mémoire",
+    "appEyebrow": "Ayeke application nga",
+    "appTitle": "Golden Moments na iPhone, iPad na Android",
+    "appText": "Application ti ndo ayeke ti ndo na ngoi ti internet ko, na lo lingbi ti sala na sioni tî zo tî mo so mo sara. Sioni ayeke na device tî mo. Ayeke na sioni tî ndo ti kötä ti nzoni, ko ngu ko, ko tapa ko.",
+    "aboutApp": "Ti tënë tî application",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ye so ahinga ayeke ti nzoni ti zo so a yeke na dementia?",
+        "a": "Nzönî ngîâ ayeke sô akpa pëpe, sô zo ahinga nî nzönî na pusu ayeke dä pëpe: akotâ fötö tî haka nî, sôrôngö aye, akêtê puzzle sô ayeke kpô, hunzîngö atënë tî ândö sô ahinga nî mingi, fîngö kûlëre na fötö, bingo tî afötö na akarte tî lisoro. Nzönî sôro ayeke ngîâ sô anzere na zo nî lasô. Gbanzi alê tî ngbonga, aköndo na aye kue sô akpa tara tî li."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Angîâ sô tî azo sô ayeke na kobela tî girisângo li ayeke senge senge?",
+        "a": "En-in. Angîâ kue na ambeti sô alingbi mo sigi na nî na ndö tî Golden Moments ayeke senge senge, compte ayeke dä pëpe, hûndango tî sû iri ayeke dä pëpe, wala tî téléchargé ye pëpe. Angîâ nî ayeke tambela na yâ tî navigateur internet na ndö tî téléphone, tablette wala ordinateur."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Angîâ tî bibe alingbi tî kanga lege na kobela tî girisângo li?",
+        "a": "Mbeni ngîâ oko afa pëpe sô alingbi tî kanga lege na kobela tî girisângo li, na Golden Moments atene lâ oko pëpe sô lo sö wala lo kanga lege na mbeni ye. Angîâ tî e ayeke gi tî duti na ngîâ na tî duti place oko. Mbage tî e sô abâ seni tî li afa ye sô agi-ndâ-tî-ye afa na ye sô afa pëpe."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Angîâ sô alingbi na mbeni zo sô ayeke na kobela tî Alzheimer?",
+        "a": "En-in. Kobela tî Alzheimer ayeke ye sô aga mingi na kobela tî girisângo li, na e leke angîâ sô ngbanga tî lo: akotâ fötö sô angbâ tî bâ nî, asôro ayeke gbä pëpe, na mbeni ye tî bata na bê wala tî sara fôte ayeke dä pëpe. Hakango afötö, sôrôngö aye na hunzîngö atënë tî ândö abâ ye sô zo ahinga ândö na mbage tî finî mandango ye."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Mbeni zo sô kobela tî girisângo li tî lo alï mingi awe alingbi tî sara akua tî ngîâ sô?",
+        "a": "Mingini, en-in, sô zo ayeke na terê tî lo. To ndâ nî na Gi sô akpa mba na afötö use, Amba tî fötö na akarte osïo, mbeni lembi tî fîngö kûlëre wala kêtê ngoi tî hôngö pupu kpô. Sara si ngoi nî aningba pëpe, mû lege sô lo ye, na kaî na ngoi sô lo wara nî alingbi awe."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "A yeke bata atënë tî mbi nzönî?",
+        "a": "Site nî ayeke na account pëpe na publicité ayeke dä pëpe. E yeke sara kua na Google Analytics tî hinga alembi sô azo ague dä. Afötö sô mo sôro ngbanga tî Amba tî fötö ayeke sigi gi na yâ tî navigateur tî mo na e yeke gue na nî na ndö tî internet lâ oko pëpe."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Azo wa la aleke Golden Moments?",
+        "a": "Golden Moments ayeke kêtê ekîpe tî azo sô aleke akua tî ngîâ na afötö sô ayeke kpô ngbanga tî afami na azo sô abâ lege tî amba tî âla, na ndö tî internet na tongana application tî senge senge. E yeke awadottoro pëpe, na mbeni tënë sô ayeke ge ayeke wango tî dottoro pëpe."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "tî kôzo",
+    "middle": "tî popo nî",
+    "late": "tî ndâ nî",
+    "hintOne": "Alingbi mingi na ngbonga {list}",
+    "hintMany": "Alingbi mingi na angbonga {list}",
+    "labelEarly": "Ngbonga tî kôzo",
+    "labelMiddle": "Ngbonga tî popo nî",
+    "labelLate": "Ngbonga tî ndâ nî"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Tënë na ndö tî ngîâ sô",
+    "printable": "Ye sô alingbi tî imprimer",
+    "play": "Sara ngîâ {name} →",
+    "readGuide": "Diko mbeti tî fango lege"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "Mo yeke prêt ngbanga tî mbeni ngîâ sô ayeke kpô?",
+    "text": "Akotâ fötö, lê tî ngbonga ayeke dä pëpe, kondo ayeke dä pëpe na mbeni ye tî sû iri dä ayeke dä pëpe. Sara ngîâ place oko na yâ tî navigateur tî mo.",
+    "play": "Sara mbeni ngîâ",
+    "all": "Bâ angîâ kue",
+    "aria": "Sara mbeni ngîâ"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Gue na angîâ sô na mo",
+    "text": "Application tî Golden Moments tî senge senge ngbanga tî iPhone, iPad na Android: akotâ fötö, angîâ na afötö tî sewa tî mo mveni, na abungbi tî fötö sô akua sân Wi‑Fi. Compte, publicité, lê tî ngbonga wala kondo ayeke dä pëpe.",
+    "appStore": "Wara nî na App Store",
+    "googlePlay": "Wara nî na Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Tënë na ndö tî application nî",
+    "aria": "Wara application nî"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Akua tî ngîâ",
+      "title": "Akua tî ngîâ ngbanga tî azo sô ayeke na kobela tî girisângo li",
+      "seo": "Akua tî ngîâ ngbanga tî azo sô ayeke na kobela tî girisângo li: Abibe na lege tî angbonga nî",
+      "description": "Abibe tî kua tî ngîâ ngbanga tî azo sô ayeke na kobela tî girisângo li na angbonga kue: mizîki, dango bê na aye tî ândö, akua tî lâ na lâ, angoi tî bango ye na mabôko, akua tî mabôko, sigingo na gigi na ambeti tî senge senge sô alingbi tî imprimer.",
+      "lede": "Kua tî ngîâ sô ayeke na nda nî ayeke ye kue sô amû dëngö-bê, nda tî ye wala kêtê ngoi tî büngbi oko. To ndâ nî na ye sô anzere na zo nî lâ kue, na leke nî alingbi na lasô."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "Bângo lege tî zo",
+      "title": "Ambeti tî fango lege tî bângo lege tî zo",
+      "seo": "Ambeti tî fango lege tî bângo lege tî kobela tî girisângo li: Mungo mabôko tî lâ na lâ",
+      "description": "Ambeti tî fango lege sô ayeke nzönî na tî nzoni-bê ngbanga tî azo sô abâ lege tî azo tî kobela tî girisângo li: sarango ngîâ place oko, sarango lisoro, kengo sarango ye, kirikiri tî ndapanda, atablette, sôrôngö a-application na bângo lege tî terê tî mo mveni.",
+      "lede": "Mungo mabôko sô ayeke kpô na tî biani ngbanga tî angoi tî lâ na lâ tî bângo lege tî zo sô ayeke na kobela tî girisângo li, nga na bângo lege tî terê tî mo mveni."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Seni tî li",
+      "title": "Seni tî li: Ye sô agi-ndâ-tî-ye atene",
+      "seo": "Seni tî li na kpale tî kobela tî girisângo li: Ye sô agi-ndâ-tî-ye atene",
+      "description": "A lingbi tî kanga lege na kobela tî girisângo li? Ambeti tî tâ tënë sô alondo na anzönî ndo na ndö tî aye sô aga na kpale tî kobela tî girisângo li, angîâ tî bibe, kengo kobe, kobe tî tengo, sarango ngangu tî terê, lango, mängo ye na akêtê fä tî kôzo.",
+      "lede": "Ye sô akotâ mandango ye afa biani na ndö tî kîtisângo kpale tî kobela tî girisângo li, sô afa nî polele, nga na ndo sô afä ayeke ngangu pëpe wala ayeke kirikiri. Tënë tî sango senge senge, wango tî dottoro pëpe."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "A leke nî finî nî",
+    "minuteRead": "Dikingö nî amû minute {n}",
+    "byTeam": "Na mabôko tî ekîpe tî Golden Moments",
+    "howWeWrite": "Lege sô e yeke sû na mbeti",
+    "shortAnswer": "Kêtê kiringo tënë nî",
+    "onThisPage": "Na ndö tî lembi sô (ambage {n})",
+    "commonQuestions": "Ahûndango tënë sô azo ahûnda mingi",
+    "sources": "Ando sô atënë alondo dä",
+    "sourcesNote": "E zia akamba sô ague na abungbi na amandango ye sô lembi sô alondo dä. E bâ ala kue na ngoi sô e leke lembi sô finî nî.",
+    "tryTogether": "Tara place oko",
+    "relatedGuides": "Ambeti tî fango lege sô ague oko",
+    "related": "Ye sô ague oko",
+    "startHere": "To ndâ nî ge"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Sango na ndö tî seni",
+    "title": "Tënë tî sango senge senge, wango tî dottoro pëpe",
+    "textHtml": "Lembi sô afa ndurü tënë tî agi-ndâ-tî-ye ngbanga tî asewa. Alingbi pëpe tî tene ye sô alingbi na zo oko oko. Sara lisoro na dottoro kôzo sô mo gbian kobe tî mo, sarango ngangu tî terê, lango, ayorö wala ambeni ye tî seni. Tongana li tî zo agirisa gbä hio wala ambeni ye agbian hio na terê tî lo, gi dottoro hio mingi. <a href=\"/medical-disclaimer/\">Diko sango tî e na ndö tî seni</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Mbeni kua tî ngîâ place oko, a yeke tara tî li pëpe",
+      "seoTitle": "Tënë na ndö tî Golden Moments: Lege tî tambela tî e",
+      "description": "Ngbanga tî nyen angîâ tî Golden Moments ayeke na lê tî ngbonga pëpe, kondo pëpe wala molongo tî ngîâ pëpe, ngbanga tî nyen afötö angbâ tî bâ nî lâ kue, na ye sô e yeke tene na ye sô e yeke tene lâ oko pëpe na ndö tî kobela tî girisângo li.",
+      "crumb": "Lege tî tambela tî e",
+      "lede": "Golden Moments aleke akua tî ngîâ na afötö sô ayeke kpô ngbanga tî ambutu sô zo sô abâ lege tî mbeni zo na zo sô ayeke na kobela tî girisângo li alingbi tî sara nî terê na terê.",
+      "bodyHtml": "<h2>Ye so ahé mbi hinga</h2><p>Ye ti ahé ayeke ye so ayeke na lâ ni: tënë, ngia, mbeni ye ti kpe so ayeke na ye ti pâte, wala ndo hon ti ngbanga kâ. Ayeke sô ti tâ ndo, ti tâ ndo ti hinga, wala ti fa ye so ahé mbi lingbi.</p><p>Ngia ti ndo ti ahé ayeke ye ti kua ti fa ye ti ngangu, ti gbe ti nzoni, ti sara ye ti ngangu. Mo na ndo ti dementia, a lingbi ayeke ye ti ngangu so a lingbi ti bâ ye. Ahé lingbi ti sara ye so ahé mbi hinga na ndo ti ahé:</p><ul><li><strong>Ayeke na ye ti ngangu ti ngbanga.</strong> Pa ngu, pa nzoni ti kua, pa ye ti gbe, pa mbeni ngia, pa ye ti ngangu, mbeni ye ti bâ kua ti tâ, na mbeni pâte.</li><li><strong>Ti kpe ye so a mû ti tâ.</strong> Pâte ayeke na ye ti ngangu ti tâ. Ye ti tënë ayeke ti sara tënë, pa ti wara ndo ti tâ lâ na ye ti tâ.</li><li><strong>Ye ti kpe, ti nzoni, na ti pëpe.</strong> Tënë ti kpe na pâte ti kpe, ti yeke ti nzoni, ti fa ye ti yeke na ye ti kpe.</li><li><strong>Ndo ti ngia ti zo ti mo.</strong> Pâte ti ye ti ndo ayeke na lâ ti sô, na tënë ti nzoni ti zo ti mo. Pa ye ti ngangu, pa ye ti kongo, pa ye ti ngia ti ye ti kua ti sô kua.</li><li><strong>Mbeni mbï ti ndo ti gbe.</strong> “Ahé ayeke na lâ so” ayeke na lâ pëpe. Gbe ti ndo ti lingbi ti mbi kpe ahé ayeke ye ti nzoni.</li><li><strong>Ye ti gbe ayeke na lâ.</strong> Ayeke ye ti sara ye ti ngangu ti kua ti ahé lo ti kua. Ye so ahé ayeke na ndo ti ngangu.</li></ul><h2>Ye so ahé pa sara tënë ti mo ti yeke</h2><p>Ye ti ahé ayeke ye ti ndo ti ngia, ti ndo ti tâ, ti hinga. Ye ti ahé pa yeke ye ti ndo ti yeke ye ti zo wala ti tâ ye. Ye so ahé sara na <a href=\"/brain-health/\">pâge ti ye ti hinga ti lâ</a> ayeke ye ti kpe, ahé ayeke tënë ti nzoni ti ye ti ahé ti tâ, ahé pa sara tënë ti ye so ahé ti ngangu na ye ti ahé.</p><h2>Ahé mo ayeke</h2><p>Golden Moments ayeke kodro ti ndo ti ahé ti mbeni kua, ahé ayeke ndo ti ye ti hinga pëpe. Ye ti ahé ayeke tënë so a sara na ye ti ndo ti nzoni ti tâ, ti kpe na ye ti ndo ti tâ ti kua. Ye ti ahé ayeke tënë ti ye so a hinga na ye ti ndo ti nzoni ti tâ. Mbi nga ti tâ ye ti <a href=\"/editorial-policy/\">ndo so ahé sara na ye ti pâge ti ahé na ye ti tâ ti ahé</a>.</p><h2>Tënë ti ye so a lingbi ti mbi kpe</h2><p>Ahé lingbi ti hon tënë ti ye so a yeke ti nzoni na ye so a yeke ti ngangu, mbeni ndo mo ayeke na ndo ti dementia, ndo ti ahé ti ngangu ti gbe, na ndo ti ye ti kua ti sara ye. Tongana ayeke ti ngangu, mbi lingbi ti sara tënë na <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Ndo so ahé sara na ye ti pâge ti ahé",
+      "seoTitle": "Ye ti tënë ti ahé",
+      "description": "Ndo so Golden Moments ayeke sara ye ti ngangu, ahé ayeke tâ ye, ahé ayeke sara tënë ti ye, ahé ayeke sara ye ti pâge ti ahé ti ye ti dementia na ti ye ti hinga ti lâ, na ye so ahé pa lingbi ti sara.",
+      "crumb": "Tënë ti ye ti pâge ti ahé",
+      "bodyHtml": "<h2>Ye ti ahé ti tâ</h2><p>Ahé ayeke sara ye ti pâge ti ahé na tënë ti ye ti ndo ti nzoni, ti ndo ti tâ, ti kpe na Ndo ti Hinga ti Lâ ti Bâ, ti Ndo ti Yâ ti Mbeni ti Alzheimer, ti Ndo ti Dementia ti Amerika, ti Ndo ti Kua ti Gbe ti Ahé, na NHS, na ye ti hinga ti yeke na ye ti ngangu ti zo ti tâ, mbeni ti Cochrane na ye ti ndo ti ngia ti lâ. Pâge ti ahé ayeke sara ye ti ahé ti tâ. Ahé ayeke bâ ye ti ndo tî mbeni ye ti tâ kâ, ahé ayeke tënë ye so a tâ.</p><h2>Ahé ayeke sara tënë nga</h2><ul><li>Ye ti nzoni ayeke na mbeni lâ: ye so a lingbi ti sara lâ, na tënë ti kpe.</li><li>Ahé ayeke tënë ti ye ti hinga: ahé ayeke tënë “ayeke kpe na”, “lingbi” na “ye ti hinga ayeke ti ngangu” tongana ayeke tî ye ti nzoni.</li><li>Ahé ayeke gbe ti ndo: ahé ayeke tënë ti ndo ti dementia ti ndo ti ngia, na ahé pa sara tënë ti ngangu wala ti fa ye.</li><li>Ye ti ahé pa yeke ti sara: pa ye ti ngia ti tâ, pa tënë ti ndo, pa ndo ti hinga, pa ye ti hinga wala ye ti kua ti hon ti ndo.</li></ul><h2>Ndo so ayeke tâ pâge ti ahé</h2><p>Pâge ti ahé ayeke sara na ndo ti kodro ti Golden Moments, na mbeni ye ti ndo ti AI ti sara tënë ti ye ti hinga na tënë ti ye. Ndo ti kodro ayeke tâ pâge kpe na ye ti ahé ti tâ. Pâge ti ahé <strong>pa</strong> ayeke tâ na dokotoro wala ndo ti kua ti ye ti hinga, na ahé pa tënë ti ye so. Ayeke ye ti tënë ti hinga tî ye, pa ye ti ndo ti dokotoro.</p><h2>Ye so ahé pa lingbi ti hon pâge ti ahé</h2><ul><li>Tënë ti ye ti mbeni ye, ti ndo, ti mbeni ngia ti kua, ti pâte, wala ti kua ti ngu, ti sara ti zo ti tâ, wala ti sara ti yeke na lâ, ti tâ, ti nzoni, ti hon wala ti tâ ti dementia.</li><li>Pâte, tënë ti ye ti ngu, wala ye ti ndo so ayeke tënë ti ye ti ngangu ti zo ti tâ ti dementia, wala ti tâ ti zo ti tâ pëpe.</li><li>Tënë ti sara wala ti hon mbeni ye ti ngangu ti tâ ti ahé.</li><li>Ye ti kua ti sara ye ti ngangu ti tâ mbeni kua so ayeke tënë ti ye ti hinga.</li></ul><h2>Ye ti hon na ye ti ngangu ti tâ</h2><p>Pâge kpe ayeke fa lâ so a hon tâ ni. Tongana a ye ti ngangu wala ye ti kua ti pâge ti ahé ayeke ti ngangu, mbi sara tënë na <a href=\"mailto:{email}\">{email}</a>, ahé ayeke tâ ni na ngia.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Ye so a lingbi ti tâ na ye so ahé ayeke tënë",
+      "seoTitle": "Jeux na activité ti dementia: Ye so a tâ na ye so ahé ayeke tënë",
+      "description": "Tënë ti ye so a tâ mingi na ye ti jeux na activité ti dementia: jeux so a lingbi ti sara, lâ so a lingbi ti sara, ye ti lâ ti tënë, ye ti hinga ti lâ na ye ti kpe.",
+      "crumb": "Ye so a tâ na ye so ahé ayeke tënë",
+      "lede": "Tënë ti kpe na ye ti nzoni, ye so ndo ti ahé ayeke tâ mingi.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Tënë ti jeux",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Jeux so nzoni mingi tî ndo so ayeke na dementia ayeke jeux wa?",
+              "a": "Jeux so nzoni mingi ayeke jeux so a mû ti tâ, so ayeke ti kpe, na so pa yeke na ngangu. Ye so ndo ayeke sara ayeke ye so ndo ayeke ngia na lâ. Mbeni pâte ti kpe, ti sara ye na mbeni ye ti ngangu, ti wara mbeni sese ye ti tâ, ti zia tënë ti ye ti tâ, ti sara kongo ti ye ti ngia, ti sara pâte ti ye ti ngu, ayeke jeux so ayeke nzoni tî ndo mingi. Pa sara ngu, ye ti ngangu, wala ye so ayeke tënë ti ngangu."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Jeux ni ayeke pëpe kua ti ngu tî ahé ayeke na lâ?",
+              "a": "Ee. Yanga kue na yanga ti ngu hunda ayeke pëpe na ndo ti ngu: a yeke pëpe ti sara akonte, pëpe ti zia nda, pëpe ti kiri ngu, na pëpe publicité."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Na nyen la a yeke ape ti score, niveau nga timer?",
+              "a": "Vitesse nga score ayeke sara yanga nzapa ti examen, so ayeke mû sioni nga ngangu ti azo. Mbeni ti ngangu ayeke ti nzapa na ngia ti ngo ti kpe, na ti sara ye ti ngu ti lo nzoni. Mo lo ayeke ti zia ye na ndo kue ti lo ye ti ngu ape ti lo."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Ngu nyen so ayeke nzoni mingi?",
+              "a": "Telefon, tablette nga ordinateur so ayeke na navigateur ti web ti sô ti ndara. Tablette so ayeke na support na tablé ayeke nzoni mingi ti azo ôko na ôko ti nzapa ye ti ngu na ndo ti tabla. Ordinateur so ayeke na télé ayeke nzoni ti azo ti ngu ti ngbâ."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Mbeni nzapa ti ngu na photo ti mbeni ti ngu ti ndo nga?",
+              "a": "Ee. Jeu ti photo pairs ayeke sara 2 na 6 photo so mo lo ayeke sô ti sara jeu ti kâ ti ngu. Photo ayeke na navigateur ti mo nga ayeke ti ngu ape ti ngu nga ayeke ti zia ape."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Yanga ti ngu nga ti ngbâ azo",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Yanga so ayeke ti lo na tere ti ngu ayeke mingi nga?",
+              "a": "Ngu ayeke sara 10 na 20 minute ayeke ti nzoni, na mbeni ngu 2 minute ayeke ti nzoni mingi. Tene ti sioni ti lo ti kpe ngangu nga ti ndoro, na zia na ngu ti lo ayeke mû ye ti nzoni. Ndo ti tene ti lo ti ngu ape ti na tere ti nzapa."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Tongana ala ayeke mû yanga ape ti ngu?",
+              "a": "Mo lo ayeke mû ti ala ngangu ti ngu ye ti ngbâ so ala ayeke ti lo ye ape, na mo lo ayeke ti sara ti lo na ngu ti nzapa na ndo ti hon. Ala ayeke ti mû ye ape na ngbanga ti kpe ngangu, ngbanga ti tâ ti nzoni, ngbanga ti sioni ti ndoro, ala ayeke ti mû ye ape ti ngu. Tene [pe ti pekoro ti na kua ti tene ti azo ti mo nga: a ayeke ti mû ye tongana nzoni na ngbanga ti nzoni]."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Yanga nyen so ayeke nzoni ti azo na maladi ti dementia ti kpale?",
+              "a": "Ngangu nga sioni: ti mû ndâ ti music so ala ayeke yeke ti ngu, ti ngbâ ti ngbâ ti ndo ti lotion, ti sara photo ti ngu ti kâ, ti mû ti ngia ti nzoni ti pindi, ti zia na kodro ti ndo, wala jeu ti photo so ayeke nzapa mingi na mbeni mo ayeke ti ngu. Guide ti lo ti maladi ti kpale ayeke sara ye ti ngbâ mingi."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Mbeni yanga ti ngbâ azo na ngu ti kodro ti sioni ti ngangu?",
+              "a": "Ee. Picture bingo ayeke na karte ti ngu so a ye ti zia na ndo ti ngu, na ngbâ ti kpe ti ngu. Finish the saying na Conversation cards ayeke nzoni ti ngu ti sara ye na ndo ti tene. Guide ti lo ti groupes na foyer ayeke sara ye ti azo ti ngbâ, ti ngu ti tâ, na yanga ti ngbâ ti azo ti ngbâ tongana ti ala."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Ngangu ti sioni",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Jeu wala ngu ayeke kpe wala ngbâ dementia ape?",
+              "a": "Jeu ôko ti ngu ape a sara ye ti fa ti kpe dementia, na jeu ti biso ayeke sara ye ti tene ape pëpe. Stimulation ti sioni na ndo ti azo ayeke fa ndoro ti nzoni ti ngu na recherche ti azo so ayeke na maladi ti dementia ti kete na ti ngbâ, mais ye so ayeke pëpe ti jeu ti kpe maladi. Ambeni jeu ayeke ti ngu na ngangu ti mbeni na kua ti ngu."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "A ayeke mû ti kpe dementia ape?",
+              "a": "Ape na ngbanga ti nzapa. Recherche ayeke fa 14 yanga ti ngangu nga ti lo ti azo so ayeke linked na risque ti dementia, tongana kpe ti ndoro, pression ti ngangu ti ndo, ndo ti ngu pëpe, na ngbâ ti kiri. Ti ngbâ yanga so ayeke mû ti risque ti lo ti kpe mbeni azo, mais ambeni azo so ayeke sara ye hunda nzoni ayeke ti ngbâ dementia tongana ala. Ndo ti ye ti mbeni azo ape ayeke ti lo ye."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Intermittent fasting ayeke nzoni ti ngangu ti sioni nga?",
+              "a": "Ye ti azo ayeke kete na ayeke ti ngu ti ye ti animal. Fasting ayeke risque ti azo ti kete ti ngbâ, mingi tongana ti medicament ti diabète wala tongana ti ndo ti kpe ti mo ti ngu ape. Ayeke pëpe ti tene ti azo so ayeke na dementia. Tene ti doctor kue ti lo ti yeke ti tâ ngu ti kua nga ti ndo."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Ngangu nga sioni ti lo",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "A ayeke zia ye ti nzapa nga?",
+              "a": "Akonte pëpe, publicité pëpe. Mbi ayeke na Google Analytics ti tene ye ti azo so ayeke ti sara ngu, na ti tene page so ayeke nzoni. Navigateur ti mo ayeke tene ti soni so mo ayeke fa mû wala pëpe. Photo so mo ayeke sô ti Photo pairs ayeke kue pëpe ti ... ti kpe pëpe. Tene privacy notice ti zo ti tene ti nzapa."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Ye so ayeke conseil ti medical ?",
+              "a": "Ape. Golden Moments ayeke ti ngu nga ti ngbâ ye ti nzapa. Mbeni ye ti ngangu ti sioni, tene ti doctor. Mbeni kpale, zia secours ti peyi ti mo na ndo ti lo."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Nzapa ti ngangu: <a href=\"/caregiving/how-to-play-together/\">tongana ti ngu ndo na ndo</a>, <a href=\"/caregiving/when-they-say-no/\">tongana ala ayeke sô ape</a>, <a href=\"/activities/late-stage/\">yanga ti ngu ti maladi ti kpale</a> na <a href=\"/brain-health/can-dementia-be-prevented/\">a ayeke mû ti kpe dementia ape?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Ngu ti nzapa nga ti azo so ayeke na maladi ti dementia",
+      "seoTitle": "Papier ti sara: Jeu ti dementia ti nzapa na internet",
+      "description": "Papier ti sara ti mbeni page ti famille na azo so ayeke ti ngbâ, sur jeu ti photo ti nzapa na ti ngangu ti azo so ayeke na maladi ti dementia, ti group ti support na panier ti ngbâ.",
+      "crumb": "Papier ti sara",
+      "lede": "Sara page so na papier ti group ti support, panier ti ngbâ wala ti porte ti frigo. Mû commande ti Print ti navigateur ti mo; menu na bouton ayeke zia na papier.",
+      "introHtml": "<p>Photo ti tî mingi, mots ti nzapa, na mbeni ye ape ti sara ti ngbâ. Ayeke nzapa na telefon, tablette wala ordinateur, pëpe akonte, pëpe publicité, pëpe timer, pëpe score. Tene ti ngu na ndo na ndo, na zia ti tâ ngu.</p>",
+      "gamesTitle": "Jeu so ayeke ti ngu ti ndo",
+      "restHtml": "<h2>Ambeni conseil</h2><ul><li>Yeke ngu na ngia so azo ayeke na ngangu ti nzoni.</li><li>Zia na mbeni tere so ayeke nzapa mingi. Tuile 4 ayeke ti nzoni.</li><li>Tene ti photo. Tene ti ndo ayeke sara yanga ti nzoni mingi.</li><li>Zia ti ngu na ngia so ayeke nzoni ti sioni. Zia ngu na kete ayeke ye ti nzoni.</li></ul><h2>Ayeke na site ti lo kue</h2><ul><li>Papier ti sara pëpe: mot ti ngu ti tâ, papier ti ngu ti kulu, karte ti tene, na picture bingo.</li><li>Ndoro ti yanga ti ngu ti kue ti ngangu, na guide ti ngu ti ndo na ti tene ti lo ye ti nzoni.</li></ul><p class=\"muted\">Ti ngu na ndo na ndo. Ayeke pëpe conseil ti medical, pëpe test wala traitement. Golden Moments ayeke publié na Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Ti foyer, bibliothèque na groupe ti support",
+      "seoTitle": "Activités gi mbeni fango ti demence pour ndö ti yanga na kodro ti azo",
+      "description": "Tambela so ndö ti yanga ti kota kodro, ndö ti kota azo, bibliothèque, ndö ti azo ti kpengbê na ndö ti yanga ti zo ti demence ayeke tongana sara fango ti jeux ti kota, na ndo ti tokala ti tongana mbi tene ti sara na tele liste ti tî ndö.",
+      "crumb": "Pour ndö ti yanga",
+      "lede": "Ti kpe ni nzoni na site so gi mbeni fango na azo ti kota kodro, azo ti kpengbê na azo ti ndö ti yanga, pëpe na compte, pëpe na licence, pëpe na mbeni fango. Page so ayeke tene ti nga ti ngangu na tongana ti sara na azo.",
+      "shortText": "{name}: jeux ti ndo ti picture gi mbeni fango na guide ti sara ti tongana ti azo ti yanga demence na azo ti kpengbê ti ndo. Pëpe ti tënë compte, pëpe ti ngu, pëpe ti score.",
+      "longText": "{name} ({domain}) ayeke na jeux ti browser {count} gi mbeni fango, so asara pour azo ti yanga demence, gi matching pairs na picture so ayeke kpe na yê, jigsaw ti nzoni, sorting, sango ti tâ ti na lo na picture bingo na kâdo ti imprimer. Pëpe compte, pëpe publicité, pëpe ngu, pëpe score. Site ayeke na guide ti sara ti tongana na langue ti nzoni, so ayeke na zo ti stage ti demence ti nga na mbeni, ti sara ti National Institute on Aging na Alzheimer's Association.",
+      "useTitle": "Ye so ndö ti yanga a lingbi ti sara",
+      "gamesItemHtml": "<strong>{count} jeux ti browser</strong> so ayeke sara na laptop, tablette wala TV so a kpe na ordinateur. Pëpe installation, compte wala download. Tene <a href=\"/games/\">jeux ti ndo</a> ti kota.",
+      "printablesLabel": "{count} kâdo ti imprimer:",
+      "printablesAfter": "Sara na bouton Imprimer na page kota kota.",
+      "moreItemsHtml": "<li><strong>Tongana ti kpengbê:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> ayeke na kâdo ti imprimer na mbeni azo ti kiri na screen, na <a href=\"/activities/trivia/\">trivia ti nzoni</a> ayeke na question 50 na choix ti tâ na ye ti tene.</li><li><strong>Guide ti sara</strong> pour azo ti ndö na azo ti yanga, ti stage na ti kind ti sara, ti sango ti nzoni na sources. Tambela na <a href=\"/activities/ideas/\">101 ideas ti sara</a> wala <a href=\"/activities/care-home-groups/\">sara ti kpengbê na ndö ti kota kodro</a>.</li>",
+      "restHtml": "<h2>Tongana kpengbê ayeke sara na yâ</h2><ul><li><strong>Ndö ti kota kodro na ndö ti demence:</strong> picture bingo wala finish-the-saying na TV ti salon ti kpengbê, na mbeni azo ayeke tapa ti kpengbê ti sara.</li><li><strong>Programme ti azo ti kota ndö na lo:</strong> mbeni station na tablette na Picture pairs ti tile 4, pour sessions ti nzoni ti mbeni na mbeni.</li><li><strong>Bibliothèque ti kpengbê:</strong> word searches ti imprimer na kâdo ti tënë na kit ti demence, na site so a sara bookmark na tablette ti bibliothèque.</li><li><strong>Groupe ti kpale ti yanga na café ti demence:</strong> <a href=\"/handout/\">handout ti imprimer ti mbeni page</a> pour azo ti yanga ti zi na yâ ti ndo.</li><li><strong>Hôpital na azo ti sara sewa ti kiri:</strong> handout na paquet ti azo ti yanga, pour mbeni sala ti nzoni ti kpe na yâ ti ndo wala na kâ ti malade.</li></ul><h2>So e kpe pëpe sara</h2><p>Jeux ayeke pour ndo na lê ti kpengbê. Ayeke pëpe ti tene, ti sara test, ti score, ti sara fango wala ti kiri demence, na e ayeke ti ndo ti ndö ti kpengbê pëpe ti tene tongana so. Pëpe publicité, na jeux ayeke ti tene pëpe nom, tënë ti yanga wala picture ti a tene ti tongana ti ndö. Site ayeke sara na Google Analytics ti kpale ti zo ti ndö; <a href=\"/privacy/\">note ti bê</a> ayeke tene ni nzoni so a kpale. Picture so a sara na <a href=\"/games/photo-pairs/\">Photo pairs</a> ayeke na browser kue.</p><h2>Të nga na liste ti ndö ti kpengbê</h2><p>Tongana i sara liste ti ndö pour azo ti yanga, i lingbi ti tene <a href=\"/\">{domain}</a>. I lingbi ti kpe mbeni description na so.</p>",
+      "shortTitle": "Description ti kiri",
+      "longTitle": "Description ti ngangu",
+      "linksHtml": "<p>Page ti nzoni so i lingbi ti tene na link: <a href=\"/games/\">jeux ti ndo</a>, <a href=\"/activities/printable/\">kâdo ti imprimer ti ndo</a>, <a href=\"/activities/alzheimers/\">sara pour Alzheimer</a> na <a href=\"/caregiving/how-to-play-together/\">tongana ti ndo nga na tâ</a>.</p><h2>Question wala ti tiri ti nzoni</h2><p>Tongana mbeni nzapa na site ayeke pëpe nzoni wala ayeke pëpe kpe, wala tongana ye ti azo ti kota ayeke pëpe na ye so ayeke na site, a lingbi ti tene e na <a href=\"mailto:{email}\">{email}</a>. Tënë pëpe tënë ti yanga wala tënë ti azo ti kota ti yanga ti azo ti kota kodro.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Application Golden Moments",
+      "seoTitle": "Application Golden Moments pour iPhone na Android",
+      "description": "Application Golden Moments so ayeke ti fango: matching ti picture na tile 4 ti kue, picture ti familie so ayeke na appareil ti i, pack ti picture so ayeke sara pëpe na internet, na pëpe compte.",
+      "crumb": "Application",
+      "lede": "Ye kue so i ye na site, na mbeni application so ayeke sara pëpe na internet na so ayeke kpe picture ti familie so i yeke ti tiri.",
+      "worksOn": "Ayeke sara na {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Tâ na ndâ mbênî</h2><p>Mo sâra ti tâ na ndâ-ndâ 4 ti kodro so ayeke tî sö. Kodro lo lingbi ayeke na yâ ti mo, wala mo lingbi ti zi kodro lo tongana ayeke ye na lo. Gbâ ti tâ ndâ ayeke na tongaso: ngu tî ndâ ti ndo ayeke ndâ ti ngangu ni, wala ndo tî mbi ayeke na lo. Ndâ-ndâ so mo lingbi ti yeke aduti ayeke 4, 6, 8 wala 12.</p><h2>Sara ni ti mo tâ lo</h2><p>Mo lingbi ti yeke fôto ti lo so mo hon na ndo tî telefôn ti mo. Yanga ayeke sara fôto ti lo lo ti tâ ndâ. A yeke bâ ndo ti fôto tî mo yeke ti sïngö ti lo, a yeke sara fôto ti mo kue tî nzoni tongana ti gbâ ti lo. A yeke hunda fôto 24 na ndo ôko.</p><h2>Tâ ndo ti kodro ti lo</h2><p>Mo lingbi ti tâ kodro ôko na ôko na ndo ôko. Ndâ tî tënë ti mo ayeke tâ ngbâ ti tënë na lo, ayeke sara ni ti mo lingbi ti tënë ti hon ti lo ti kodro tî lo, na ndo tî mo. Mo lingbi ti sara fôto ti lo tongana lo ayeke sara ye na lo.</p><h2>Lo lingbi ayeke na ndo ti mo ti yanga</h2><p>Kodro ti ndâ ti mbeni nga na ndo tî app, na kodro ti ndâ ti 8 tî ngbâ ayeke kue na app. Fôto so mo sara ayeke sara na ndo tî app a lingbi ayeke tâ na lo kue na tongana ayeke na ndo tî lo. Fôto so ayeke na iCloud gi kue a lingbi ayeke na ndo tî ndo ti internet.</p><h2>Ndo ti hunda ni, ndo ti sara fôto ti ndo ti lo ayeke ti sara ti mo</h2><p>Fôto ti mo ayeke na ndo ti app ni na ndo tî telefôn. Mo lingbi ti zia fôto ti mo na ndo tî app ni, a sara ti hunda lo na ndo tî fôto ti ndo ti lo. Ndo ti sara ti telefôn lingbi ayeke ni fôto ti app. Tâ tënë na <a href=\"/app-privacy/\">app privacy policy</a>, na <a href=\"/help/\">app help</a> ayeke tâ ndâ ti mo ti sara kue.</p>",
+      "disclaimer": "Golden Moments ayeke ti gbâ ti mbeni ye ti tâ ngbâ na tënë ti kodro. Lo ayeke diagnostic, ayeke sara ti mbeni wala ayeke ngbâ na dementia wala maladi Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Jeux dementia & Alzheimer ti ndâ tî gbâ na ligne",
+    "description": "Jeux ti ndâ tî gbâ na ligne mbeni ni ti zo so ayeke na dementia wala Alzheimer: ngbâ kodro, puzzle ti ndâ, tongana ti sara ndo, tongana ti ndo ti sara, bingo. Mo sara ni ti hunda, ngu ti tâ, wala ti sara ye.",
+    "crumb": "Jeux",
+    "h1": "Jeux ti ndâ ti zo ti ngbâ ti dementia",
+    "lede": "{count} jeux ti ndâ tî gbâ na ligne ti tâ na ndo ôko. Kodro ti tî sö, tënë ti tî ngbâ, nzoni ni ayeke ndo ti ngbâ: ngu ti tâ, ngu ti sara ye, wala ti sara ni ti hunda.",
+    "listName": "Jeux ti ndâ ti zo ti ngbâ ti dementia",
+    "byStageTitle": "Tâ jeux na ndo ti ndâ ti lo",
+    "byStageLede": "Ndo ti ndâ ayeke ngbâ ti tâ ti ndâ kue. Tâ ni so zo lo yeke tî gbâ na lo, na so ayeke nzoni na lo lôndo.",
+    "stageCol": "Ndo",
+    "gamesCol": "Jeux so ayeke ngbâ ti lo",
+    "moreHtml": "Ndâ tî hunda na ndo ti ekran: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> na <a href=\"/activities/puzzles/\">puzzles</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Jeux so mo lingbi ti tâ ndo ti kanga?",
+        "a": "Kodro ôkô na ôkô ti kodro usïö ayeke ndo nzoni ti tâ. Tongana ngbâ kodro ayeke ti ngu na lo, mo lingbi ti tâ Find the same na kodro ûse. Tongana zo ayeke na ngbâ ti tënë, mo lingbi ti tâ Picture bingo."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Jeux ayeke sara ye na iPad wala telefôn?",
+        "a": "Ee. Jeux kue ayeke sara ye na navigateur na telefôn, tablette na ordinateur, na kodro ayeke yanga ti hunda ekran. Tablette ayeke na support ayeke nzoni tongana zo ôko na ûse ayeke ngbâ."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Jeux ni ayeke nzoni na zo so ayeke na maladi Alzheimer?",
+        "a": "Ee. A sara ni na ndo ti zo so ayeke ngbâ na dementia, na Alzheimer kue, so ayeke maladi ti ngbâ kue. Kodro ayeke hunda, ndo ti ngu ayeke ti ngbâ ti lo, ngu ti tâ wala ti sara ye ayeke ti ngbâ, nzoni ayeke na tâ yâ so lo hon ti lo na ngbanga ti tâ kodro so a sara fôto ti yâ so a tî ngbâ ti lo."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Jeux ti ngbâ ti zo ti yâ kue ayeke jeux ti ngbâ ti ngangu?",
+        "a": "Ayeke jeux ti kodro ti ngbâ so zo ti yâ kue lo lingbi ti gbâ, me a sara ni ti ngangu lo ti lo. Na Picture pairs, kodro ayeke na ndo ti lo tî kodro so mo tâ ti lo nzoni. Guide ti mbi na memory games for seniors with dementia ayeke tâ ndâ ti sara jeux ti ngangu ti ngu."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Jeux ni ayeke na ndo ti zo mingi na ndo ti lo ti dëngö?",
+        "a": "Ee. Picture bingo ayeke na kaart ti tî ngbâ na ekran ni ayeke ngbâ kodro, na Finish the saying na Conversation kaart ayeke nzoni tongana ti tënë na ndo ti zo mingi."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad na Android",
+    "requirements": "iOS 15 wala ndo ti sô; Android 7.0 wala ndo ti sô",
+    "summary": "App ti ndâ ti tî gbâ na iPhone, iPad na Android, na ngbâ kodro ti zo ti sara ye na ndâ-ndâ 4 to 12, ngbâ na tâ fôto ti mo so mo yeke ngbâ, na kodro ti 8 so ayeke na app ni ayeke sara ye na ndo ti internet. Ngu ti kodro wala ngu ti tâ.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "Ngbâ kodro ti zo na ndâ-ndâ 4, 6, 8 wala 12; kodro ayeke na ndo ti ekran tongana mo tî zi lo",
+      "Fôto ti mo so mo yeke sara ayeke sara na app ni ti ngbâ na ti tâ",
+      "Tâ ndo ti hunda: kodro ôkô na ôkô, na tënë ti sara ye kue",
+      "Kodro ti 8 ayeke na app; ayeke sara ye na ndo ti internet",
+      "Ngu ti yâ ti sara, ti sâra ti ngbâ, ti tâ, ngu ti kodro wala ngu ti tâ"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Ayeke app ti dementia ti sara ye?",
+        "a": "Ee. Golden Moments (na ndo ti App Store na Google Play, tî lo « {storeName} ») ayeke ti ndâ ti tî gbâ. Lo ayeke ngbâ kodro ti zo na kodro ti ndâ, jeux na fôto ti mo so mo yeke sara, na kodro ti ndo ti internet ayeke sara ye."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Golden Moments app ayeke ti ndâ ti tî gbâ?",
+        "a": "Ee. Ayeke ti ndâ ti tî gbâ, pëpe na ngu ti tâ, pëpe na compte, pëpe na ngu ti sara ye na app."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "App ayeke sara ye na ndo ti internet pëpe?",
+        "a": "Ee. Kodro ti ndâ ti zo na kodro ti 8 so ayeke na app ayeke sara ye ti ngbâ na ndo ti internet, na fôto ti mo ayeke sara ye ti ngbâ tongana ayeke tâ na app. Fôto so ayeke na iCloud gi kue a lingbi ayeke na ndo ti internet."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Mo lingbi ti sara fôto ti yâ ti mo ti sara?",
+        "a": "Ee. Mo lingbi nda photo ti mo na outil ti choisir photo ti ye ti mo. App ayeke sara copie ti photo ni na ye ti mo, nzoni ti jeux ti ni, nga lo ayeke kiri ti tene ti photo ti tâ ni. Lo ayeke ti ngbâ photo ti mo na nzoni ti ni. Mo lingbi zia copie ni na ngoi so mo mû."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Ayeke app ti ngbâ ye ti tene ti ngangu ti ngbâ?",
+        "a": "Ahon. Golden Moments ayeke ti ye ti nzoni nga ti ngoi ti gbele ti ala. A yeke ti ye ti tene ti ngangu, ni ayeke ti ngbâ ye ti tene, nga lo ayeke diagnostiquer, soigner, gbâ ye ti nzoni na maladie ti ngangu, walo ti ngbâ ye ti maladie d’Alzheimer."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "Ye ti mo lingbi ti ye ti jeux ti ni ayeke wa?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Ayeke version app ti jeux so wa?",
+      "a": "Ee. App Golden Moments ti ye ti gbele, ti iPhone, iPad nga Android, ayeke na jeux ti ye ti nzoni ti photo ti tene ti zo, lo lingbi nda photo ti mo ti kiri, nga lo lingbi sara na ndo ti Internet ti ye ti ngbâ. Ayeke sara nzoni, ayeke kua ye ti compte, ni ayeke kua publicité nga ye ti ye ti score."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Ayeke version app ti jeux so wa?",
+      "a": "Ahon, ayeke app ti jeux so ti kiri. App Golden Moments ti gbele, ti iPhone, iPad nga Android, ayeke na jeux ti photo ti nzoni ti ye ti tene ti ngangu nga photo ti mo ti kiri, nga lo lingbi sara na ndo ti Internet ti ye ti ngbâ. Jeux so ayeke gbele ti nda na ye ti mo na navigateur ti ye ti mo."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: photo ti ngangu nga nzoni",
+    "noscript": "Jeux so ayeke ti yeke JavaScript na navigateur ti mo. Ye ti ni na tene ti ngbâ ayeke sara walo na JavaScript ahon.",
+    "about": "Ye ti tene na {name}",
+    "aboutAria": "Ye ti tene na jeux so",
+    "noTimer": "Kua ngoi walo score",
+    "printable": "Lingbi ti kpe na papier",
+    "howTo": "Na nzoni ti sara {name}",
+    "tips": "Ye ti ngbâ ti sara na ala mbeni",
+    "newToPlayingHtml": "Mo ayeke so ngangu ti sara jeux na zo so a yeke na démence? Mo lingbi ngbâ <a href=\"/caregiving/how-to-play-together/\">na nzoni ti sara jeux na ala mbeni</a>, nga ye so mo lingbi sara tongana a kpe ye ti ngbâ.",
+    "moreAria": "Ye ti ngbâ ti ngangu",
+    "helpfulGuides": "Ye ti tene ti nzoni",
+    "appTitle": "Sara na app",
+    "appText": "App Golden Moments ti gbele ayeke na jeux ti photo ti nzoni ti ye ti tene nga photo ti mo ti kiri, lo lingbi sara na ndo ti Wi‑Fi ti kua. iPhone, iPad nga Android.",
+    "photoAppTitle": "Zia photo ti mo na ndo ti ngangu",
+    "photoAppText": "Na app Golden Moments ti gbele, photo so mo choisi ayeke na ye ti mo na ngoi ti nga, nga jeux ayeke sara na ndo ti Wi‑Fi ti kua. iPhone, iPad nga Android.",
+    "goodToKnow": "Ye so mo lingbi ngbâ",
+    "goodToKnowText": "Jeux so ayeke ti ye ti nzoni nga ti ngoi ti gbele ti ala. A kua ti tâ ye, a kua ti ngbâ, nga a kua ti zia ngangu.",
+    "moreGames": "Jeux ti nzoni ti ngangu",
+    "crumb": "Jeux"
   }
 }

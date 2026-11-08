@@ -1,0 +1,780 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Lohke jienastit",
+      "stopReading": "Sihkkit lohkama",
+      "region": "Speallu",
+      "restart": "Álggo fas",
+      "soundOn": "Hiljas jienat leat ásahuvvon",
+      "soundOff": "Hiljas jienat leat eret",
+      "done": "Heaitit dál",
+      "feedbackQuestion": "Lea go dát odne veahkkin?",
+      "feedbackYes": "Jo",
+      "feedbackNo": "Ii nu hui",
+      "feedbackThanks": "Giitu go muitalit."
+    },
+    "tile": {
+      "named": "{name}, ruvdnu {n}",
+      "hidden": "Gihppojuvvon govva, ruvdnu {n}",
+      "withState": "{label}, {state}",
+      "matched": "Gávnnahuvvon pár",
+      "selected": "Válljejuvvon",
+      "picture": "Govva",
+      "photoNumber": "Govva {n}"
+    },
+    "pairs": {
+      "allTogether": "Buot párat leat ovttas. Spela fas dahje vuoset.",
+      "photoPair": "Govvepár, ovttas.",
+      "picturePair": "Guokte govva {name|lower}, ovttas.",
+      "selected": "{name}. Gávnnat dan párra.",
+      "mismatch": "Váldde áigi. Čuoggát govvii joatkit.",
+      "mismatchNamed": "{a} ja {b}. Váldde áigi. Čuoggát govvii joatkit."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Čuoggát govvii, ja de čuoggát das mii lea seamma.",
+      "guidanceHidden": "Čuoggát guokte ruvdnui go fal čuoskkodat. Gávnnat guokte seamma.",
+      "restart": "Ođđa govat",
+      "sizeLegend": "Man ollu ruvdnu",
+      "size": {
+        "one": "{n} ruvdnu",
+        "two": "{n} ruvdnu",
+        "other": "{n} ruvdnu"
+      },
+      "viewLegend": "Mo spelat",
+      "viewShowing": "Govat čájehuvvojit",
+      "viewHidden": "Gihppojuvvon govat",
+      "playAgain": "Spela fas ođđa govaiguin",
+      "talk": "Muitalit govaid birra ovttas"
+    },
+    "choose": {
+      "countLegend": "Man ollu govat",
+      "count": "{n} válljemis",
+      "thatOne": "Dat lea {name|lower}. Váldde áigi."
+    },
+    "findTheSame": {
+      "guidance": "Geahča govvi ovddas. Čuoggát seamma govvi alde.",
+      "yes": "Jo, seamma {name|lower}.",
+      "next": "Boahtte govva"
+    },
+    "shadowMatch": {
+      "guidance": "Geahča šaddu ovddas. Čuoggát govvi mii dakkár šaddu ráhkada.",
+      "yes": "Jo, {name|lower} ráhkada dan šaddu.",
+      "next": "Boahtte šaddu",
+      "shadowAlt": "Šaddu mii galgá čuoggát",
+      "foundAlt": "{name|lower} šaddu"
+    },
+    "sortTogether": {
+      "guidance": "Čuoggát govvii, ja de čuoggát gorbmái mii dan gulla.",
+      "restart": "Ođđa govat",
+      "themeLegend": "Fáddá",
+      "selected": "{name}. Čuoggát dál gorbmái gos dat galgá.",
+      "pickFirst": "Vuosttaš čuoggát govvii, ja de čuoggát gorbmái.",
+      "hint": "{name|lower} sáhttá gulla gorbmái «{basket}». Čuoggát dan gorbmái go biddjot dan doppe.",
+      "placed": "{name|lower} lea gorbmis «{basket}».",
+      "sorted": "Buot leat sorterejuvvon. Geahča gorbmiid ovttas, dahje vállje eará fáddá.",
+      "basket": {
+        "one": "{basket} gorbmi, {count} govva siskkilt",
+        "two": "{basket} gorbmi, {count} govva siskkilt",
+        "other": "{basket} gorbmi, {count} govat siskkilt"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Čuoggát okta bihttá, ja de nuppi. Sii vaihtet sajiid.",
+      "restart": "Sekkat fas",
+      "pictureLegend": "Govva",
+      "pictures": {
+        "sailboat": "Purjebáhti",
+        "house": "Viessu",
+        "balloon": "Ballon",
+        "sunflower": "Solrossa",
+        "lighthouse": "Fyrtárn",
+        "cat": "Bissi"
+      },
+      "sizeLegend": "Bihttát",
+      "size": {
+        "one": "{n} bihtta",
+        "two": "{n} bihtta",
+        "other": "{n} bihtta"
+      },
+      "pickedUp": "Bihtta vázzojuvvon. Dál čuoggát dan sajái gos dat galgá.",
+      "whole": "{name|lower} lea fas bajás ollis. Vállje eará govva go háliidat.",
+      "swapped": {
+        "one": "Vaihkkojuvvon. {correct} av {total} bihtta lea rivttes sajis.",
+        "two": "Vaihkkojuvvon. {correct} av {total} bihtta lea rivttes sajis.",
+        "other": "Vaihkkojuvvon. {correct} av {total} bihttá leat rivttes sajis."
+      },
+      "guideAlt": "Buot govva: {name}",
+      "guideText": "Dat lea nu govva go lea bajás ollis.",
+      "piece": "Bihtta, {place}",
+      "pieceInPlace": ", rivttes sajis",
+      "piecePickedUp": ", vázzojuvvon",
+      "places4": [
+        "ovddas gurut",
+        "ovddas nuortta",
+        "alde gurut",
+        "alde nuortta"
+      ],
+      "places9": [
+        "ovddas gurut",
+        "ovddas badjel",
+        "ovddas nuortta",
+        "gaskkas gurut",
+        "gaskkas",
+        "gaskkas nuortta",
+        "alde gurut",
+        "alde badjel",
+        "alde nuortta"
+      ],
+      "done": "Govva lea fas bajás ollis. Spela fas dahje vuoset.",
+      "playAgain": "Sekkat fas"
+    },
+    "finishTheSaying": {
+      "guidance": "Lohke vuostáiváldi ovttas, de čuoggát sánnii mii dan loahpaha.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Jo, «{start} {end}.»",
+      "otherEnding": "«{word}» maid joatká. Dábálaš vuostáiváldi loahpahuvvo «{end}».",
+      "revealed": "Vuostáiváldi lea «{start} {end}.»",
+      "choicesLabel": "Vállje loahpa sána",
+      "show": "Čájet loahpa",
+      "talk": "Muitala dasa ovttas: ",
+      "next": "Boahtte vuostáiváldi"
+    },
+    "wordSearch": {
+      "guidance": "Sánit leat badjel dahje alde. Čuoggát sáni vuosttaš boastii, de dan maŋimus boastii.",
+      "restart": "Ođđa sátnespeallu",
+      "themeLegend": "Fáddá",
+      "sizeLegend": "Rivnnu stuorra",
+      "size": {
+        "one": "{n} × {n} ({words} sátni)",
+        "two": "{n} × {n} ({words} sátni)",
+        "other": "{n} × {n} ({words} sátnit)"
+      },
+      "print": "Prentte dán speallu",
+      "letterChosen": "Boastta {letter} válljejuvvon. Dál čuoggát sáni maŋimus boastii.",
+      "found": "{word} gávnnahuvvon.",
+      "foundAll": "{word} gávnnahuvvon. Dat leat buot sánit. Spela fas dahje vuoset.",
+      "tryAgain": "Váldde áigi. Čuoggát sáni vuosttaš boastii, de dan maŋimus boastii.",
+      "gridLabel": "Boastturuoktu, {n} rádi gos {n} boastta. Geavat nuolanappiid go áddet boastta gaskkas.",
+      "cell": "{letter}, rádi {row}, bealgi {col}",
+      "cellFound": ", oassi gávnnahuvvon sáni",
+      "wordsHeading": "Sánit mat gávnnahuvvojit",
+      "wordFound": " (gávnnahuvvon)",
+      "sheetTitle": "Sátnespeallu: {theme}",
+      "sheetNote": "Sánit leat badjel dahje alde.",
+      "unavailable": "Boastturuoktu ii heive dán gielas, ja danne sátnespeallu ii leat dás. Čuoggát govvespeallui."
+    },
+    "coloring": {
+      "guidance": "Vállje lohppi, de čuoggát govvi oassái.",
+      "restart": "Nolle lohpit",
+      "cleared": "Siidu lea fas čielgas.",
+      "pageLegend": "Siidu",
+      "print": "Prentte dán siidu",
+      "colorsLabel": "Lohpit",
+      "paintChosen": "{paint} válljejuvvon.",
+      "painted": "{part} lea dál {paint|lower}.",
+      "artLabel": "{page}, {count} oassi lohpidit",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ii leat lohpit",
+      "paints": {
+        "red": "Čearga",
+        "orange": "Oranša",
+        "yellow": "Gállo",
+        "green": "Ruoksu",
+        "blue": "Sinni",
+        "purple": "Purpur",
+        "pink": "Rosá",
+        "brown": "Bruna",
+        "sky-blue": "Taivosinni",
+        "cream": "Kreema",
+        "gray": "Hármmá",
+        "white": "Čielgas"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Lohke kárta jienas. Eai leat rivttes vástádusat.",
+      "position": "Kárta {n} av {total}",
+      "themeLegend": "Fáddá",
+      "next": "Boahtte kárta",
+      "previous": "Ovddit kárta",
+      "print": "Prentte buot kártat",
+      "sheetTitle": "Muitalankártat"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Álggahat válljemiin govaid.",
+      "guidance": "Čuoggát govvii, ja de čuoggát mii dan lea seamma.",
+      "restart": "Sekkat fas",
+      "intro": "**Vállje 2–6 govva** dán ládjus. Dat čájehuvvojit dušše dán siidduin, eai go sáddejuvvo dahje vurke.",
+      "choose": "Vállje govat",
+      "chooseDifferent": "Vállje eará govat",
+      "clear": "Nolle govat",
+      "cleared": "Govat nollojuvvojedje dán siiddus.",
+      "atLeastTwo": "Vállje vuollimusat guokte govva.",
+      "usingFirst": "Geavahuvvojit vuosttaš {max} govva.",
+      "skipped": {
+        "one": "{count} fiila ii leat govva mii sáhttit čájehit.",
+        "two": "{count} fiila eai leat govat mat sáhttit čájehit.",
+        "other": "{count} fiila eai leat govat mat sáhttit čájehit."
+      },
+      "playAgain": "Spela fas dáiguin govaiguin",
+      "empty": "Govat čájehuvvojit dán siidduin, juohke okta guokte geardde."
+    },
+    "pictureBingo": {
+      "guidance": "Prentte kárttat vuosttaš. Dan maŋŋá čájet dán stuorimus skearmis maid leat.",
+      "called": {
+        "one": "{name}. {called} av {total} govva jienastuvvon.",
+        "two": "{name}. {called} av {total} govva jienastuvvon.",
+        "other": "{name}. {called} av {total} govat jienastuvvon."
+      },
+      "start": "Deaddil «Boahtte govva» go jienastat vuosttaš govva.",
+      "restart": "Álggo ođđa spealu",
+      "squaresLegend": "Ruvdnut juohke kártas",
+      "squares": "{n} ruvdnu ({side} × {side})",
+      "cardsLegend": "Man ollu kártta prentet",
+      "cards": {
+        "one": "{n} kárta",
+        "two": "{n} kárta",
+        "other": "{n} kárttat"
+      },
+      "print": {
+        "one": "Prentte {n} bingokárta",
+        "two": "Prentte {n} bingokárta",
+        "other": "Prentte {n} bingokárttat"
+      },
+      "ready": "Valmis go don leat",
+      "next": "Boahtte govva",
+      "allCalled": "Buot govat leat jienastuvvon",
+      "alreadyCalled": "Jienastuvvon jo",
+      "sheetTitle": "Govabingo · kárta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Hivvat sisa go čirkkis stuorrá, ja olggos go dat unnu. Dat lohpá ieš maŋŋel guđa hivvu.",
+      "paceLegend": "Tempo",
+      "paceSlow": "Hitá (5 sekundda juohke suunnas)",
+      "paceGentle": "Ráfi (4 sekundda juohke suunnas)",
+      "ready": "Valmis go don leat",
+      "in": "Hivvat sisa",
+      "hold": "Orro",
+      "out": "Hivvat olggos",
+      "start": "Álgga",
+      "stop": "Bodde",
+      "started": "Álggahuvvui. Hivvat sisa go čirkkis stuorrá.",
+      "stopped": "Bođii.",
+      "finished": "Dat ledje guđa hitá hivvu. Álgga go don háliidat."
+    }
+  },
+  "pictures": {
+    "teacup": "Teakopp",
+    "kettle": "Kanna",
+    "bread": "Láibi",
+    "frying-pan": "Pánni ja muna",
+    "cake": "Bursdágagáhkku",
+    "sunflower": "Solsikke",
+    "tulip": "Ráddjá tulipána",
+    "watering-can": "Čáhcekanna",
+    "potted-plant": "Potteplanta",
+    "tree": "Muorra",
+    "bird": "Rødstrupe oksas",
+    "butterfly": "Sommerfugl",
+    "dog": "Vázzi",
+    "cat": "Beassát",
+    "fish": "Gullfisk",
+    "apple": "Ráddjá appel",
+    "pear": "Pære",
+    "strawberry": "Jordbær",
+    "banana": "Banána",
+    "lemon": "Sitrun",
+    "cherries": "Kiršát",
+    "house": "Viessu",
+    "lamp": "Bordlampa",
+    "armchair": "Lenestol",
+    "key": "Boares čoavgi",
+    "umbrella": "Paraply",
+    "sailboat": "Segelbåt",
+    "car": "Gamal bil",
+    "bicycle": "Sykkel",
+    "balloon": "Ballong",
+    "lighthouse": "Fyr",
+    "sun": "Beaivi",
+    "moon": "Mánnu ja stjerna",
+    "teapot": "Teakanne",
+    "apple-pie": "Appelpai",
+    "honey-jar": "Hunigkrukka",
+    "boiled-egg": "Muna ja eggkopp",
+    "toaster": "Brødrister",
+    "cheese": "Ost",
+    "milk-jug": "Mjølkekanna",
+    "cupcake": "Smágáhkku",
+    "orange": "Appelsiidna",
+    "grapes": "Druivaklasa",
+    "watermelon": "Vannmellonskiiva",
+    "pineapple": "Ananas",
+    "peach": "Persikka",
+    "rose": "Rosa",
+    "daisies": "Gáseblomma",
+    "mushroom": "Sohppo",
+    "wheelbarrow": "Trillebår",
+    "birdhouse": "Fuglehus",
+    "cactus": "Kaktus i potta",
+    "acorn": "Eikenøtt",
+    "autumn-leaf": "Čakča lehppo",
+    "rabbit": "Gihppár",
+    "duck": "Ánse",
+    "hen": "Henne",
+    "sheep": "Ávži",
+    "owl": "Ugla",
+    "ladybird": "Marihøne",
+    "snail": "Snigel",
+    "frog": "Froska",
+    "bee": "Bihpá",
+    "clock": "Klokka",
+    "vase-of-flowers": "Vasa ja blomma",
+    "radio": "Gamal radio",
+    "books": "Girjebunka",
+    "candle": "Lys",
+    "glasses": "Lesebrillet",
+    "telephone": "Telefon",
+    "ball-of-wool": "Villakerra",
+    "straw-hat": "Solhatta",
+    "train": "Damptog",
+    "bus": "Buss",
+    "airplane": "Fly",
+    "suitcase": "Kofferta",
+    "tractor": "Traktor",
+    "rowing-boat": "Roddbáhtu",
+    "rainbow": "Suoidnegáisá",
+    "rain-cloud": "Bassičuovga",
+    "snowflake": "Snøfnokke",
+    "kite": "Drage",
+    "sunrise": "Beaivečuohppan duolbmiid badjel"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABEFGHKLMNSTUVŠ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruktta",
+          "words": [
+            "APPEL",
+            "BANÁNA",
+            "MELLON",
+            "PLOMMA",
+            "KIRŠÁ",
+            "LIMA",
+            "MANGO",
+            "DRUIVA",
+            "SITRUN"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Gárddi",
+          "words": [
+            "ROSA",
+            "TULIPA",
+            "SIEMEN",
+            "MULLU",
+            "LEHPPO",
+            "MUORRA",
+            "ČIEKŊA",
+            "LAMPI",
+            "BIHPÁ"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Gihkka",
+          "words": [
+            "KOPP",
+            "SPUNÁ",
+            "LÁIBI",
+            "PÁNNI",
+            "BOLLE",
+            "TALLER",
+            "TEA",
+            "OVNA",
+            "GAFFEL"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Dálki",
+          "words": [
+            "BEAIVI",
+            "BASSI",
+            "ČUOIGU",
+            "BIEGGA",
+            "PILVI",
+            "STORMA",
+            "ČUOVGA",
+            "ČÁHCI",
+            "ÁIGI"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Eallit",
+          "words": [
+            "VÁZZI",
+            "KATTI",
+            "LOTTÁ",
+            "GUOLLI",
+            "HEŠŠA",
+            "GOHCU",
+            "ÁNSE",
+            "GEAHČI",
+            "HENNE"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Ruovttu",
+          "words": [
+            "UKSA",
+            "STOLA",
+            "LAMPA",
+            "SÁŊGI",
+            "MATTA",
+            "SOHVA",
+            "KLOKKA",
+            "PULPA",
+            "ČOVGI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Buot kárttat",
+        "food": "Borramuš",
+        "home": "Ruovttu",
+        "outdoors": "Olggobealde",
+        "animals": "Eallit",
+        "travel": "Matkat",
+        "work": "Bargu ja harrastusat",
+        "music": "Musihkka ja ilo",
+        "seasons": "Jahkeáigit"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Mii lea du buoremus lávdi gihkkas?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Makkár gáhkku válljet go juhkkodat lea?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Muitte fruktapaja dahje desserta mii du mielas lei."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Mo don háliidat teá dahje kaffe?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Maid dahká ihtinborramuša hui buorren?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Leatgo goassege borran fruktta go lei ođđa?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Suovva dahje geasta: mii du mielas lea buoremus?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Mii lea borramuš mii duhtta du geasi?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Muitte viessu mas du lei hui buorre orrut."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Gos don šaddát orrot buorre?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Maid don dahkat hiljat ihttis?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Mii lea árvu maid don háliidat gáhttet?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Guhte don háliidat boahtit teá juhkkat?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Maid don dahkat bassi beaivvis?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Makkár čiekŋat don šaddat gárddis?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Muitte muorra dahje báikki mii du mielas lea."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Mii lea buorimus oasi go lea gárddis?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Makkár várrogiekŋat leat du mielas buorimusat?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Leatgo du mielas čiekŋat ruovttus?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Makkár lea du buorre beaivi go lea čiegu?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Muitte vázzi maid don leat dovdan."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Beassát dahje vázzit, dahje ii ko? Mii dat lea du mielas?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Makkár lottát don oaidnit dahje gullat olggos?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Leatgo goassege guolástan dahje guollevuovdi?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Mii lea buoremus eallin maid don leat oaidnán?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Muitte bila maid don liikkat."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Háliidat go beaivvi mearra vuolde dahje várri?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Gos don háliidat fárret sykkelain?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Jos don sáhtát lentit, gos lea dat?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Mii lea matka maid don lei hui buorre?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Makkár bargu don leat ilus?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Mii lea harrastus maid sáhtát máŋgga tiimma ánii?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Maid don lei dovden dahkat dahje njuollat?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Makkár rávisolmmoš don addát nuori olbmui go álgá bargat?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Makkár musihkka čalmmaid don sihkat dansat?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Mii dahká buori fierpmádaga?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Guhte sáŋgár don háliidat čuovvut?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Makkár filbma dahje TV-čájehus don háliidat geahčadit ođđasit?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Maid don liikot geasis buoremusat?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Maid don liikot čakčas?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Mii lea bures dahkat talve ihttis?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Makkár leat du ovdamearkkat go giđđa boahtá?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Čuoigu, bassi dahje beaivi: mii don dárbbát buoremusat?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Čiekŋa potta",
+          "regions": {
+            "sky": "Duopmu",
+            "table": "Bodda",
+            "stem": "Vuoddu",
+            "leaf-left": "Gurut lehppo",
+            "leaf-right": "Riekta lehppo",
+            "petal-1": "Blomsterblad 1",
+            "petal-2": "Blomsterblad 2",
+            "petal-3": "Blomsterblad 3",
+            "petal-4": "Blomsterblad 4",
+            "petal-5": "Blomsterblad 5",
+            "petal-6": "Blomsterblad 6",
+            "petal-7": "Blomsterblad 7",
+            "petal-8": "Blomsterblad 8",
+            "center": "Čiekŋa gaskka",
+            "pot": "Potta",
+            "pot-rim": "Pottarahpi"
+          }
+        },
+        "house": {
+          "name": "Viessu",
+          "regions": {
+            "sky": "Čielga",
+            "sun": "Beaivi",
+            "grass": "Ruohtta",
+            "chimney": "Skorstein",
+            "walls": "Seinat",
+            "roof": "Takk",
+            "door": "Uksa",
+            "window-left": "Gurut láhkku",
+            "window-right": "Riekta láhkku",
+            "path": "Gierdu"
+          }
+        },
+        "teacup": {
+          "name": "Teakopp",
+          "regions": {
+            "background": "Duopmu",
+            "saucer": "Tallerken",
+            "handle": "Hanku",
+            "cup": "Kopp",
+            "band": "Stripe kopppas",
+            "tea": "Teá"
+          }
+        },
+        "butterfly": {
+          "name": "Sommerfugl",
+          "regions": {
+            "background": "Duopmu",
+            "wing-top-left": "Ovddit gurut fláhppa",
+            "wing-top-right": "Ovddit riekta fláhppa",
+            "wing-bottom-left": "Alit gurut fláhppa",
+            "wing-bottom-right": "Alit riekta fláhppa",
+            "spot-left": "Gurut punktta",
+            "spot-right": "Riekta punktta",
+            "body": "Čuvgi"
+          }
+        },
+        "sailboat": {
+          "name": "Segelbåt",
+          "regions": {
+            "sky": "Čielga",
+            "sea": "Mearra",
+            "sail-big": "Stuorra segel",
+            "sail-small": "Unna segel",
+            "mast": "Masta",
+            "hull": "Bátni",
+            "flag": "Fána"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Gihkka ja gárddi",
+          "baskets": [
+            "Kiekkas",
+            "Gárddis"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frukta ja eallit",
+          "baskets": [
+            "Frukta",
+            "Eallit"
+          ]
+        },
+        "home-travel": {
+          "label": "Ruovttu ja mátkkit",
+          "baskets": [
+            "Ruovttus",
+            "Olggos ja mátkkis"
+          ]
+        }
+      }
+    }
+  }
+}

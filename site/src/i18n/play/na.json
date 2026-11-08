@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Ekaiko kāmaro",
+      "stopReading": "Ekaiko ā ibwe",
+      "region": "Ekagāmeno",
+      "restart": "Tōre ṉa ekaiko",
+      "soundOn": "Ṉa eō ekē ṉaṉ mēni",
+      "soundOff": "Ṉa eō ekē ṉaṉ mēni ibwe",
+      "done": "Ekōmi ṉaṉ tōre",
+      "feedbackQuestion": "Eā tōre ṉa ekaṅ ṉaṉ ṉaigo?",
+      "feedbackYes": "Eeo",
+      "feedbackNo": "Ēr ekēi",
+      "feedbackThanks": "Tōmi kōṉaṉ ṉaṉ ekaiko ṉaṉ mā."
+    },
+    "tile": {
+      "named": "{name}, tile {n}",
+      "hidden": "Hidden picture, tile {n}",
+      "withState": "{label}, {state}",
+      "matched": "Matched",
+      "selected": "Selected",
+      "picture": "Picture",
+      "photoNumber": "Photo {n}"
+    },
+    "pairs": {
+      "allTogether": "Ekabāṉ ṉa pea ṉaṉ mā. Tōre ṉa ekaiko ā ekōṉaṉ ḷaṅ.",
+      "photoPair": "Pea ṉaṉ ṉā ṉi ṉaṉ mā.",
+      "picturePair": "Pea ṉaṉ ṉā ṉi ṉaṉ {name|lower}, ṉaṉ mā.",
+      "selected": "{name}. Ṉaiko ṉa ekeo pea ṉaṉ.",
+      "mismatch": "Ekōṉaṉ ṉa taṅ. Tap ṉa ṉi ekaṅ ṉaṉ ṉaigo.",
+      "mismatchNamed": "{a} ā {b}. Ekōṉaṉ ṉa taṅ. Tap ṉa ṉi ekaṅ ṉaṉ ṉaigo."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tap ṉa ṉi, ā tap ṉa ṉi ekaṅ ṉaṉ ṉaigo.",
+      "guidanceHidden": "Tap ṉa rua ṉaṉ tōre ekaṅ. Ṉaiko ṉa rua ṉaṉ ṉaigo.",
+      "restart": "Pictures ṉaṉ ṉaigo",
+      "sizeLegend": "Ṉā tile ṉaṉ mā",
+      "size": {
+        "one": "{n} tile",
+        "other": "{n} tiles"
+      },
+      "viewLegend": "Eō ekaiko",
+      "viewShowing": "Pictures ṉaṉ ekeo",
+      "viewHidden": "Pictures ṉaṉ tōre",
+      "playAgain": "Ekagāmeno ḷaṅ ā pictures ṉaigo",
+      "talk": "Ekaiko ṉaṉ pictures ṉaṉ mā"
+    },
+    "choose": {
+      "countLegend": "Ṉā pictures ṉaṉ mā",
+      "count": "{n} ṉaṉ ekeo",
+      "thatOne": "Ekaṅ ṉaṉ {name|lower}. Ekōṉaṉ ṉa taṅ."
+    },
+    "findTheSame": {
+      "guidance": "Ṉaiko picture ṉaṉ ekaṅ ṉaṉ ṉa ṉi. Tap ṉa ekaṅ ṉaṉ ṉaigo ṉaṉ ṉi.",
+      "yes": "Eeo, {name|lower} ṉaṉ ekaṅ.",
+      "next": "Picture ṉaṉ ṉaigo"
+    },
+    "shadowMatch": {
+      "guidance": "Ṉaiko ṉa shadow ṉaṉ ṉa ṉi. Tap picture ṉaṉ ekaṅ ṉaṉ shadow.",
+      "yes": "Eeo, {name|lower} ekaṅ ṉaṉ shadow.",
+      "next": "Shadow ṉaṉ ṉaigo",
+      "shadowAlt": "Shadow ṉaṉ ṉa ekeo ṉaṉ pea",
+      "foundAlt": "Shadow ṉaṉ {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tap picture ṉaṉ ṉi, ā tap basket ṉaṉ ekaṅ ṉaṉ ṉaigo.",
+      "restart": "Pictures ṉaṉ ṉaigo",
+      "themeLegend": "Ekaiko",
+      "selected": "{name}. Tap basket ṉaṉ ekaṅ ṉaṉ ṉaigo.",
+      "pickFirst": "Tap picture ṉaṉ ṉi tōre, ā tap basket.",
+      "hint": "{name|lower} ekaṅ ṉaṉ basket \"{basket}\". Tap basket ṉaṉ ṉa ekaṅ ṉaṉ ṉi.",
+      "placed": "{name|lower} ekaṅ ṉaṉ basket \"{basket}\".",
+      "sorted": "Ekabāṉ ṉa sorted. Ekaiko ṉa baskets ṉaṉ mā, ā tōre ṉa ekaiko ḷaṅ.",
+      "basket": {
+        "one": "Basket {basket}, {count} picture ṉaṉ ekeo",
+        "other": "Basket {basket}, {count} pictures ṉaṉ ekeo"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tap ṉa ṉi piece, ā tap ṉa ṉaigo. Ṉa ekaṅ ṉaṉ ṉa swap.",
+      "restart": "Ekaiko ṉaṉ ḷaṅ",
+      "pictureLegend": "Picture",
+      "pictures": {
+        "sailboat": "Bōti",
+        "house": "Imwi",
+        "balloon": "Bulun",
+        "sunflower": "Sanflawa",
+        "lighthouse": "Laitahaus",
+        "cat": "Pusi"
+      },
+      "sizeLegend": "Pieces",
+      "size": {
+        "one": "{n} piece",
+        "other": "{n} pieces"
+      },
+      "pickedUp": "Piece ṉaṉ ṉi tap ṉa. Tap ṉa ekaṅ ṉaṉ ṉaigo ṉaṉ ṉi.",
+      "whole": "{name|lower} ṉa ṉi ekabāṉ ḷaṅ. Ṉaiko picture ṉaṉ ṉaigo ṉaṉ mā.",
+      "swapped": {
+        "one": "Swapped. {correct} of {total} piece ekaṅ ṉaṉ ṉa.",
+        "other": "Swapped. {correct} of {total} pieces ekaṅ ṉaṉ ṉa."
+      },
+      "guideAlt": "Picture ṉaṉ ekabāṉ: {name}",
+      "guideText": "Ekaṅ ṉaṉ picture ṉa ekeo ṉaṉ ekabāṉ.",
+      "piece": "Piece ṉaṉ ekaṅ ṉaṉ {place}",
+      "pieceInPlace": ", ṉa ekaṅ ṉaṉ ṉa",
+      "piecePickedUp": ", ṉa ṉi ṉaṉ",
+      "places4": [
+        "ṉaṉ ṉi ṉaigo",
+        "ṉaṉ ṉi ṉaigo ṉaṉ mā",
+        "ṉaṉ ṉi ṉaṉ tōre",
+        "ṉaṉ ṉi ṉaṉ tōre ṉaigo"
+      ],
+      "places9": [
+        "ṉaṉ ṉi ṉaigo",
+        "ṉaṉ ṉi ekaṅ",
+        "ṉaṉ ṉi ṉaigo ṉaṉ mā",
+        "ṉaṉ ekaṅ ṉaigo",
+        "ekaṅ",
+        "ṉaṉ ekaṅ ṉaṉ mā",
+        "ṉaṉ tōre ṉaigo",
+        "ṉaṉ tōre ekaṅ",
+        "ṉaṉ tōre ṉaṉ mā"
+      ],
+      "done": "Picture ṉa ṉi ekabāṉ ḷaṅ. Tōre ṉa ekaiko ḷaṅ ā ekōṉaṉ ḷaṅ.",
+      "playAgain": "Ekaiko ṉaṉ ḷaṅ"
+    },
+    "finishTheSaying": {
+      "guidance": "Ekaiko ṉa ṉaṉ ṉaigo ekabāṉ, ā tap ṉa ekaṅ ṉaṉ ṉaigo ṉaṉ ṉi.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Eeo, \"{start} {end}.\"",
+      "otherEnding": "\"{word}\" ekeo ṉaṉ mā. Ṉaṉ ekaṅ ṉaṉ ṉaigo ekaiko ṉa \"{end}\".",
+      "revealed": "Ṉaṉ ekaṅ ṉaṉ ṉaigo ṉa \"{start} {end}.\"",
+      "choicesLabel": "Ṉā ṉaṉ ṉaigo ṉaṉ mā",
+      "show": "Eō ṉaṉ ekaṅ",
+      "talk": "Ekaiko ṉaṉ ṉa: ",
+      "next": "Ṉaṉ ṉaigo ṉaṉ mā"
+    },
+    "wordSearch": {
+      "guidance": "Ṉaṉ ekeo ṉa ṉi ā ṉa ṉaigo. Tap ṉa letter ṉaṉ ṉi ṉaṉ word, ā tap ṉa letter ṉaṉ ṉaigo.",
+      "restart": "Puzzle ṉaṉ ṉaigo",
+      "themeLegend": "Ekaiko",
+      "sizeLegend": "Ṉā grid",
+      "size": {
+        "one": "{n} by {n} ({words} word)",
+        "other": "{n} by {n} ({words} words)"
+      },
+      "print": "Print ṉa puzzle ṉaṉ",
+      "letterChosen": "Letter {letter} ekaṅ ṉa ṉi. Tap ṉa letter ṉaṉ ṉaigo ṉaṉ word.",
+      "found": "{word} ekaṅ ṉa ekeo.",
+      "foundAll": "{word} ekaṅ ṉa ekeo. Ekabāṉ ṉa word ṉaṉ mā. Tōre ṉa ekaiko ḷaṅ ā ekōṉaṉ ḷaṅ.",
+      "tryAgain": "Ekōṉaṉ ṉa taṅ. Tap letter ṉaṉ ṉi ṉaṉ word, ā tap letter ṉaṉ ṉaigo.",
+      "gridLabel": "Grid ṉaṉ letters, {n} rows ṉaṉ {n} letters. Ṉaiko arrow keys ṉaṉ ekaiko ṉa letters.",
+      "cell": "{letter}, row {row}, column {col}",
+      "cellFound": ", ṉa ekaṅ ṉaṉ word ṉaṉ ekaṅ ṉa ekeo",
+      "wordsHeading": "Words ṉaṉ ṉaigo ṉaṉ mā",
+      "wordFound": " (ekaṅ ṉa ekeo)",
+      "sheetTitle": "Word search: {theme}",
+      "sheetNote": "Words ṉaṉ ekeo ṉa ṉi ā ṉa ṉaigo.",
+      "unavailable": "Grid ṉaṉ letters ṉa ekeo ṉaṉ ṉa ekaiko ṉaṉ naoero, ā ekaṅ ṉaṉ word search ṉa ekeo ṉaṉ mā. Tōre ṉa pictures ṉaṉ ekagāmeno."
+    },
+    "coloring": {
+      "guidance": "Tap ṉa color, ā tap ṉa ekaṅ ṉaṉ picture.",
+      "restart": "Ekaiko ṉaṉ colors",
+      "cleared": "Page ṉa ṉi ṉa blank ḷaṅ.",
+      "pageLegend": "Page",
+      "print": "Print ṉa page ṉaṉ",
+      "colorsLabel": "Colors",
+      "paintChosen": "{paint} ekaṅ ṉa ṉi.",
+      "painted": "{part} ṉa ṉi {paint|lower}.",
+      "artLabel": "{page}, {count} ṉaṉ parts ṉaṉ color",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, ekōṉaṉ color",
+      "paints": {
+        "red": "Red",
+        "orange": "Ōrenj",
+        "yellow": "Yelo",
+        "green": "Grīn",
+        "blue": "Blū",
+        "purple": "Pāpol",
+        "pink": "Pinki",
+        "brown": "Brāun",
+        "sky-blue": "Blū ṉaṉ laŋi",
+        "cream": "Krīm",
+        "gray": "Grē",
+        "white": "Waet"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Ekaiko ṉa card ṉaṉ ekeo ṉaṉ mā. Ekaṅ ṉaṉ ṉa ekaiko ṉaṉ ṉa ekaṅ ṉaṉ ṉaigo.",
+      "position": "Card {n} ṉaṉ {total}",
+      "themeLegend": "Ekaiko",
+      "next": "Card ṉaṉ ṉaigo",
+      "previous": "Card ṉaṉ mā ṉaṉ tōre",
+      "print": "Print ṉa cards ekabāṉ",
+      "sheetTitle": "Cards ṉaṉ ekaiko"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Tōre ṉa ekaiko ṉa ṉaṉ photos ṉaṉ ṉi.",
+      "guidance": "Tap ṉa photo, ā tap ṉa ekaṅ ṉaṉ ṉaigo.",
+      "restart": "Ekaiko ṉaṉ ḷaṅ",
+      "intro": "**Ekaiko ṉa 2 ṉaṉ 6 photos** ṉaṉ device ṉa ṉi. Ekeo ṉa ṉaṉ page ṉaṉ mā, ā ekōṉaṉ ṉa upload ā save.",
+      "choose": "Ekaiko ṉa photos",
+      "chooseDifferent": "Ekaiko ṉa photos ṉaṉ ekaṅ",
+      "clear": "Eō ṉaṉ photos",
+      "cleared": "Photos ṉaṉ ṉi ṉa ekeo ṉaṉ page ṉaṉ mā.",
+      "atLeastTwo": "Ekōṉaṉ ṉa ṉi ekaiko ṉa rua photos ṉaṉ mā.",
+      "usingFirst": "Ekaiko ṉa ṉaṉ {max} photos ṉaṉ ṉi.",
+      "skipped": {
+        "one": "{count} file ekōṉaṉ ṉa photo ṉaṉ ekeo ṉaṉ mā.",
+        "other": "{count} files ekōṉaṉ ṉa photos ṉaṉ ekeo ṉaṉ mā."
+      },
+      "playAgain": "Ekagāmeno ḷaṅ ā photos ṉaṉ",
+      "empty": "Photos ṉaṉ ṉi ṉa ekeo ṉa, ṉaṉ rua ekaṅ ekaṅ."
+    },
+    "pictureBingo": {
+      "guidance": "Print ṉa cards tōre. Ṉaigo, ekeo ṉa caller ṉaṉ ṉa screen ṉaṉ mā.",
+      "called": {
+        "one": "{name}. {called} of {total} picture ṉa ekaṅ ṉaṉ ekaiko.",
+        "other": "{name}. {called} of {total} pictures ṉa ekaṅ ṉaṉ ekaiko."
+      },
+      "start": "Tap \"Picture ṉaṉ ṉaigo\" ṉaṉ ekaiko ṉa picture ṉaṉ ṉi.",
+      "restart": "Ekaiko ṉa game ṉaṉ ḷaṅ",
+      "squaresLegend": "Squares ṉaṉ card ṉaṉ ekeo",
+      "squares": "{n} squares ({side} by {side})",
+      "cardsLegend": "Ṉā cards ṉaṉ print",
+      "cards": {
+        "one": "{n} card",
+        "other": "{n} cards"
+      },
+      "print": {
+        "one": "Print {n} bingo card",
+        "other": "Print {n} bingo cards"
+      },
+      "ready": "Ekeo ṉa ṉaṉ tōre",
+      "next": "Picture ṉaṉ ṉaigo",
+      "allCalled": "Picture ṉaṉ mā ekabāṉ ekaiko ṉa.",
+      "alreadyCalled": "Ekaiko ṉa ṉi",
+      "sheetTitle": "Picture bingo · card {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Ang ko koreng ni mwerar, ko ang bwin mwerar eng ni bibi. Ko rin ang bwin eng 6 erem ko bed.",
+      "paceLegend": "Ebwe ko",
+      "paceSlow": "Pirepire (5 sekon kake ebwe)",
+      "paceGentle": "Bwin (4 sekon kake ebwe)",
+      "ready": "Ibwe ko ang bwin mwerar",
+      "in": "Mwerar ang ko",
+      "hold": "Mwerarer",
+      "out": "Mweng ang ko",
+      "start": "Tuban",
+      "stop": "Tumwe",
+      "started": "Ko tuban. Mwerar ang ko ni bwin mwerar.",
+      "stopped": "Ko tumwe.",
+      "finished": "Ko 6 bwin mwerar pirepire. Tuban erem ko ang ibwe ko."
+    }
+  },
+  "pictures": {
+    "teacup": "Kap tii",
+    "kettle": "Kettle",
+    "bread": "Breade",
+    "frying-pan": "Pan ni egg",
+    "cake": "Keik ni birthday",
+    "sunflower": "Sunflower",
+    "tulip": "Tulip ni red",
+    "watering-can": "Watering can",
+    "potted-plant": "Tree ni pot",
+    "tree": "Tree",
+    "bird": "Bird ni branch",
+    "butterfly": "Butterfly",
+    "dog": "Dog",
+    "cat": "Kat",
+    "fish": "Goldfish",
+    "apple": "Apol ni red",
+    "pear": "Pear",
+    "strawberry": "Strawberry",
+    "banana": "Banana",
+    "lemon": "Lemon",
+    "cherries": "Cherries",
+    "house": "House",
+    "lamp": "Lamp ni table",
+    "armchair": "Armchair",
+    "key": "Key ni old",
+    "umbrella": "Umbrella",
+    "sailboat": "Sailboat",
+    "car": "Car ni classic",
+    "bicycle": "Bicycle",
+    "balloon": "Balloon ni hot air",
+    "lighthouse": "Lighthouse",
+    "sun": "San",
+    "moon": "Moon ma stars",
+    "teapot": "Teapot",
+    "apple-pie": "Pie ni apol",
+    "honey-jar": "Jar ni honey",
+    "boiled-egg": "Egg ni egg cup",
+    "toaster": "Toaster",
+    "cheese": "Cheese ni wedge",
+    "milk-jug": "Milk jug",
+    "cupcake": "Cupcake",
+    "orange": "Orange",
+    "grapes": "Grapes ni bunch",
+    "watermelon": "Watermelon ni slice",
+    "pineapple": "Pineapple",
+    "peach": "Peach",
+    "rose": "Rose",
+    "daisies": "Daisies",
+    "mushroom": "Mushroom",
+    "wheelbarrow": "Wheelbarrow",
+    "birdhouse": "House ni bird",
+    "cactus": "Cactus ni pot",
+    "acorn": "Acorn",
+    "autumn-leaf": "Leaf ni autumn",
+    "rabbit": "Rabbit",
+    "duck": "Dak",
+    "hen": "Hen",
+    "sheep": "Sheep",
+    "owl": "Owl",
+    "ladybird": "Ladybird",
+    "snail": "Snail",
+    "frog": "Frog",
+    "bee": "Bee",
+    "clock": "Clock ni mantel",
+    "vase-of-flowers": "Vase ni flowers",
+    "radio": "Radio ni old",
+    "books": "Books ni pile",
+    "candle": "Candle",
+    "glasses": "Glasses ni reading",
+    "telephone": "Telephone",
+    "ball-of-wool": "Ball ni wool",
+    "straw-hat": "Hat ni sun",
+    "train": "Train ni steam",
+    "bus": "Bus",
+    "airplane": "Aeroplane",
+    "suitcase": "Suitcase",
+    "tractor": "Tractor",
+    "rowing-boat": "Boat ni rowing",
+    "rainbow": "Rainbow",
+    "rain-cloud": "Cloud ni rain",
+    "snowflake": "Snowflake",
+    "kite": "Kite",
+    "sunrise": "Sunrise ma hills"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABDEGIKMNORTUWY",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruit",
+          "words": [
+            "APOL",
+            "MANGO",
+            "ORANGE",
+            "BANANA",
+            "KIWI",
+            "TOMATO",
+            "DATE",
+            "BERRY",
+            "NUT"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Garden",
+          "words": [
+            "TREE",
+            "BEE",
+            "GARDEN",
+            "WATER",
+            "BUD",
+            "ROOT",
+            "DIRT",
+            "DEW",
+            "TUBER"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Kitchen",
+          "words": [
+            "KAP",
+            "SPUN",
+            "BREDE",
+            "PAN",
+            "BOL",
+            "PLET",
+            "TII",
+            "OBEN",
+            "FOK"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Weather",
+          "words": [
+            "SAN",
+            "REIN",
+            "SNO",
+            "WIND",
+            "KLAUD",
+            "STOM",
+            "FOK",
+            "MAILD",
+            "WAM"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animals",
+          "words": [
+            "DOG",
+            "KAT",
+            "BIRD",
+            "FIS",
+            "HOS",
+            "KAU",
+            "DAK",
+            "GOT",
+            "HEN"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Home",
+          "words": [
+            "DOA",
+            "SEA",
+            "LAMP",
+            "BED",
+            "RAG",
+            "SOFA",
+            "KLOK",
+            "DEK",
+            "KI"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Kart uma",
+        "food": "Ekaiyb",
+        "home": "Ekaiyb ni nang",
+        "outdoors": "Ma ebwe ni mweng",
+        "animals": "Ekaiyb",
+        "travel": "Ibwe ni eman",
+        "work": "Ekaiyb ni work ma hobbies",
+        "music": "Music ma fun",
+        "seasons": "Ekaiyb"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Ko ang bwin ang kitchen ni ekaiyb ni bibi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Ko ang keik ni ekaiyb ni birthday ma?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Kaiyb ang apol pie ma dessert ni bibi."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Ko ang bwin tii ma kofi?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ekaiyb ang breakfast ni bibi?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ko ang ebwe fruit ni plant?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Sweet ma sour: ko ang bwin ni bibi?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Ekaiyb ang ekaiyb ni tase ni summer ni ko?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Kaiyb ang house ni ko ang bwin ni ibwe ni bibi?"
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Ekaiyb ang bwin ni ko ni mwerar ma relax?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ko ang bwin ni ekaiyb ni evening ni mwerar?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Ekaiyb ang treasure ni ko ang ebwe ni special box?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Ekaiyb ang ko ang ebwe ni kap tii?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ko ang bwin ni ekaiyb ni rain day?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Ekaiyb ang flowers ni ko ang ebwe ni garden?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Kaiyb ang tree ma park ni ko ang bwin."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Ekaiyb ang best part ni ibwe ma garden?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Ekaiyb ang color ni flowers ni ko ang bwin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Ko ang bwin ni plants ni house?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Ekaiyb ang ko ang idea ni sunny day?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Kaiyb ang dog ni ko ang kanikanim."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Kat ma dog, ma ekaiyb? Ko ang bwin ni ekaiyb?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Ekaiyb ang bird ni ko ang kanikanim ma ko ang ngaiy outside?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ko ang ebwe ni fishing, ma ko ang fish tank?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Ekaiyb ang animal ni bibi ni ko ang ngaiy?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Kaiyb ang car ni ko ang bwin."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Ko ang ebwe ni beach ma mountains?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Ekaiyb ang ko ang ebwe ni ride?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Ko ang ebwe ni fly ma ekaiyb ni place?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Ekaiyb ang trip ni ko ang bwin?"
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Ekaiyb ang work ni ko ang bwin?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Ekaiyb ang hobby ni ko ang ebwe ni hours?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ekaiyb ang ko ang bwin ni making ma fixing?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Ekaiyb ang advice ni ko ang ebwe ni young person ni work?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Ekaiyb ang music ni ko ang bwin ni tap ni feet?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ekaiyb ang party ni ko ang bwin?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Ekaiyb ang singer ni ko ang bwin ni listen?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Ekaiyb ang movie ma TV show ni ko ang bwin ni watch again?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Ekaiyb ang ko ang bwin ni summer?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Ekaiyb ang ko ang bwin ni fall?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Ekaiyb ang cozy ni ko ang ebwe ni winter evening?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Ekaiyb ang first signs ni spring ni bibi?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Snow, rain ma sunshine: ko ang bwin ni ekaiyb?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flower ni pot",
+          "regions": {
+            "sky": "Background",
+            "table": "Table",
+            "stem": "Stem",
+            "leaf-left": "Leaf ni left",
+            "leaf-right": "Leaf ni right",
+            "petal-1": "Petal 1",
+            "petal-2": "Petal 2",
+            "petal-3": "Petal 3",
+            "petal-4": "Petal 4",
+            "petal-5": "Petal 5",
+            "petal-6": "Petal 6",
+            "petal-7": "Petal 7",
+            "petal-8": "Petal 8",
+            "center": "Center ni flower",
+            "pot": "Pot",
+            "pot-rim": "Rim ni pot"
+          }
+        },
+        "house": {
+          "name": "House",
+          "regions": {
+            "sky": "Sky",
+            "sun": "Sun",
+            "grass": "Grass",
+            "chimney": "Chimney",
+            "walls": "Walls",
+            "roof": "Roof",
+            "door": "Door",
+            "window-left": "Window ni left",
+            "window-right": "Window ni right",
+            "path": "Path"
+          }
+        },
+        "teacup": {
+          "name": "Kap tii",
+          "regions": {
+            "background": "Background",
+            "saucer": "Saucer",
+            "handle": "Handle",
+            "cup": "Kap",
+            "band": "Stripe ni kap",
+            "tea": "Tii"
+          }
+        },
+        "butterfly": {
+          "name": "Butterfly",
+          "regions": {
+            "background": "Background",
+            "wing-top-left": "Wing ni top left",
+            "wing-top-right": "Wing ni top right",
+            "wing-bottom-left": "Wing ni bottom left",
+            "wing-bottom-right": "Wing ni bottom right",
+            "spot-left": "Spot ni left wing",
+            "spot-right": "Spot ni right wing",
+            "body": "Body"
+          }
+        },
+        "sailboat": {
+          "name": "Sailboat",
+          "regions": {
+            "sky": "Sky",
+            "sea": "Sea",
+            "sail-big": "Sail ni big",
+            "sail-small": "Sail ni small",
+            "mast": "Mast",
+            "hull": "Boat",
+            "flag": "Flag"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Kitchen ma garden",
+          "baskets": [
+            "Ran te kitchen",
+            "Ran te garden"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fruit ma animals",
+          "baskets": [
+            "Fruit",
+            "Animals"
+          ]
+        },
+        "home-travel": {
+          "label": "Home ma travel",
+          "baskets": [
+            "Ran home",
+            "Ran outside"
+          ]
+        }
+      }
+    }
+  }
+}

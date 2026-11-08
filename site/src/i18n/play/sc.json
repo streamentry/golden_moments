@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Leghe a boghe arta",
+      "stopReading": "Firma sa letura",
+      "region": "Giogu",
+      "restart": "Torra a comintzare",
+      "soundOn": "Sonos durches ativos",
+      "soundOff": "Sonos durches disativados",
+      "done": "Acabbadu pro como",
+      "feedbackQuestion": "Est istadu de agiudu oe?",
+      "feedbackYes": "Eja",
+      "feedbackNo": "No meda",
+      "feedbackThanks": "Gràtzias pro nos lu nàrrere."
+    },
+    "tile": {
+      "named": "{name}, casella {n}",
+      "hidden": "Figura cuada, casella {n}",
+      "withState": "{label}, {state}",
+      "matched": "Abbinada",
+      "selected": "Seberada",
+      "picture": "Figura",
+      "photoNumber": "Foto {n}"
+    },
+    "pairs": {
+      "allTogether": "Totu sas còpias sunt unidas. Gioga torra o faghe una pàusa.",
+      "photoPair": "Una còpia de fotos, unidas.",
+      "picturePair": "Duas figuras de {name|lower}, unidas.",
+      "selected": "{name}. Como agata sa còpia sua.",
+      "mismatch": "Pìgadi su tempus tuo. Toca una figura pro sighire.",
+      "mismatchNamed": "{a} e {b}. Pìgadi su tempus tuo. Toca una figura pro sighire."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Toca una figura, a pustis toca cussa chi est cumpagna.",
+      "guidanceHidden": "Toca duas casellas pro che dhas furriare. Chirca duas figuras uguales.",
+      "restart": "Figuras noas",
+      "sizeLegend": "Cantas casellas",
+      "size": {
+        "one": "{n} casella",
+        "other": "{n} casellas"
+      },
+      "viewLegend": "Comente si giogat",
+      "viewShowing": "Figuras a bista",
+      "viewHidden": "Figuras cuadas",
+      "playAgain": "Gioga torra cun figuras noas",
+      "talk": "Faeddade paris de sas figuras"
+    },
+    "choose": {
+      "countLegend": "Cantas figuras",
+      "count": "{n} de seberare",
+      "thatOne": "Cussa est {name|lower}. Pìgadi su tempus tuo."
+    },
+    "findTheSame": {
+      "guidance": "Mira sa figura in artu. Toca sa matessi a suta.",
+      "yes": "Eja, sa matessi {name|lower}.",
+      "next": "Figura imbeniente"
+    },
+    "shadowMatch": {
+      "guidance": "Mira s'umbra in artu. Toca sa figura chi la faghet.",
+      "yes": "Eja, {name|lower} faghet cussa umbra.",
+      "next": "Umbra imbeniente",
+      "shadowAlt": "Un'umbra de abbinare",
+      "foundAlt": "S'umbra de {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Toca una figura, a pustis toca su canisteddu in ue andat.",
+      "restart": "Figuras noas",
+      "themeLegend": "Tema",
+      "selected": "{name}. Como toca su canisteddu in ue andat.",
+      "pickFirst": "In antis toca una figura, a pustis toca unu canisteddu.",
+      "hint": "{name|lower} diat pòdere andare in \"{basket}\". Toca cussu canisteddu pro lu pònnere in cue.",
+      "placed": "{name|lower} est in \"{basket}\".",
+      "sorted": "Est totu ordinadu. Mirade sos canisteddos paris, o proade un'àteru tema.",
+      "basket": {
+        "one": "Canisteddu {basket}, {count} figura a intru",
+        "other": "Canisteddu {basket}, {count} figuras a intru"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Toca unu cantu, a pustis toca un'àteru. Si càmbiant de postu.",
+      "restart": "Mèschia torra",
+      "pictureLegend": "Figura",
+      "pictures": {
+        "sailboat": "Barca a vela",
+        "house": "Domo",
+        "balloon": "Pallontzinu",
+        "sunflower": "Girasole",
+        "lighthouse": "Faru",
+        "cat": "Gatu"
+      },
+      "sizeLegend": "Cantos",
+      "size": {
+        "one": "{n} cantu",
+        "other": "{n} cantos"
+      },
+      "pickedUp": "Cantu pigadu. Como toca in ue depet andare.",
+      "whole": "{name|lower} est intrencu torra. Sèbera un'àtera figura cando cheres.",
+      "swapped": {
+        "one": "Cambiadu. {correct} de {total} cantu est a su postu giustu.",
+        "other": "Cambiados. {correct} de {total} cantos sunt a su postu giustu."
+      },
+      "guideAlt": "Sa figura intrenca: {name}",
+      "guideText": "Gasi paret sa figura cando est intrenca.",
+      "piece": "Cantu in {place}",
+      "pieceInPlace": ", a su postu giustu",
+      "piecePickedUp": ", pigadu",
+      "places4": [
+        "in artu a manca",
+        "in artu a dereta",
+        "in bàsciu a manca",
+        "in bàsciu a dereta"
+      ],
+      "places9": [
+        "in artu a manca",
+        "in artu a mesu",
+        "in artu a dereta",
+        "a mesu a manca",
+        "a mesu",
+        "a mesu a dereta",
+        "in bàsciu a manca",
+        "in bàsciu a mesu",
+        "in bàsciu a dereta"
+      ],
+      "done": "Sa figura est intrenca torra. Gioga torra o faghe una pàusa.",
+      "playAgain": "Mèschia torra"
+    },
+    "finishTheSaying": {
+      "guidance": "Leghide su ditzu paris, a pustis tocade su faeddu chi lu cumprit.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Eja, \"{start} {end}.\"",
+      "otherEnding": "Andat bene fintzas \"{word}\". Su ditzu sòlitu finit cun \"{end}\".",
+      "revealed": "Su ditzu est \"{start} {end}.\"",
+      "choicesLabel": "Sèbera s'ùrtimu faeddu",
+      "show": "Mustra sa fine",
+      "talk": "Faeddade de custu: ",
+      "next": "Ditzu imbeniente"
+    },
+    "wordSearch": {
+      "guidance": "Sos faeddos andant in orizontale o in berticale. Toca sa prima lìtera de unu faeddu, a pustis s'ùrtima lìtera.",
+      "restart": "Giogu nou",
+      "themeLegend": "Tema",
+      "sizeLegend": "Mannària de sa grìllia",
+      "size": {
+        "one": "{n} pro {n} ({words} faeddu)",
+        "other": "{n} pro {n} ({words} faeddos)"
+      },
+      "print": "Imprenta custu giogu",
+      "letterChosen": "Lìtera {letter} seberada. Como toca s'ùrtima lìtera de su faeddu.",
+      "found": "{word} agatadu.",
+      "foundAll": "{word} agatadu. Sos faeddos sunt totu agatados. Gioga torra o faghe una pàusa.",
+      "tryAgain": "Pìgadi su tempus tuo. Toca sa prima lìtera de unu faeddu, a pustis s'ùrtima lìtera.",
+      "gridLabel": "Grìllia de lìteras, {n} lìnias de {n} lìteras. Imprea sas frichas pro mòvere intra sas lìteras.",
+      "cell": "{letter}, lìnia {row}, colona {col}",
+      "cellFound": ", parte de unu faeddu agatadu",
+      "wordsHeading": "Faeddos de agatare",
+      "wordFound": " (agatadu)",
+      "sheetTitle": "Chirchende faeddos: {theme}",
+      "sheetNote": "Sos faeddos andant in orizontale o in berticale.",
+      "unavailable": "Una grìllia de lìteras no est adata a custa limba, duncas su giogu de sos faeddos no est a disponimentu inoghe. Proa sos giogos cun figuras."
+    },
+    "coloring": {
+      "guidance": "Toca una colore, a pustis toca una parte de sa figura.",
+      "restart": "Lìmpia sos colores",
+      "cleared": "Sa pàgina est bianca torra.",
+      "pageLegend": "Pàgina",
+      "print": "Imprenta custa pàgina",
+      "colorsLabel": "Colores",
+      "paintChosen": "Colore {paint} seberadu.",
+      "painted": "{part} como est {paint|lower}.",
+      "artLabel": "{page}, {count} partes de colorare",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, sena colore",
+      "paints": {
+        "red": "Ruju",
+        "orange": "Arantzu",
+        "yellow": "Grogu",
+        "green": "Birde",
+        "blue": "Blau",
+        "purple": "Viola",
+        "pink": "Rosa",
+        "brown": "Castàngiu",
+        "sky-blue": "Turchinu",
+        "cream": "Crema",
+        "gray": "Grisu",
+        "white": "Biancu"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Leghide sa carta a boghe arta. No b'at rispostas giustas.",
+      "position": "Carta {n} de {total}",
+      "themeLegend": "Tema",
+      "next": "Carta imbeniente",
+      "previous": "Carta colada",
+      "print": "Imprenta totu sas cartas",
+      "sheetTitle": "Cartas pro faeddare"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Comintza seberende sas fotos tuas.",
+      "guidance": "Toca una foto, a pustis toca cussa chi est cumpagna.",
+      "restart": "Mèschia torra",
+      "intro": "**Sèbera dae 2 a 6 fotos** dae custu dispositivu. Sunt ammustradas petzi in custa pàgina e non benint mai carrigadas o sarvadas.",
+      "choose": "Sèbera sas fotos",
+      "chooseDifferent": "Sèbera àteras fotos",
+      "clear": "Boga sas fotos",
+      "cleared": "Fotos bogadas dae custa pàgina.",
+      "atLeastTwo": "Pro piaghere sèbera a su mancu duas fotos.",
+      "usingFirst": "Impreende sas primas {max} fotos.",
+      "skipped": {
+        "one": "{count} archìviu no fiat una foto chi podimus ammustrare.",
+        "other": "{count} archìvios no fiant fotos chi podimus ammustrare."
+      },
+      "playAgain": "Gioga torra cun custas fotos",
+      "empty": "Sas fotos tuas ant a aparèssere inoghe, cadauna duas bortas."
+    },
+    "pictureBingo": {
+      "guidance": "In antis imprenta sas cartas. A pustis ammustra custu tabellone in s'ischermu prus mannu chi tenes.",
+      "called": {
+        "one": "{name}. {called} de {total} figura mutida.",
+        "other": "{name}. {called} de {total} figuras mutidas."
+      },
+      "start": "Toca \"Figura imbeniente\" pro mutire sa prima figura.",
+      "restart": "Comintza unu giogu nou",
+      "squaresLegend": "Cuadros in cada carta",
+      "squares": "{n} cuadros ({side} pro {side})",
+      "cardsLegend": "Cantas cartas de imprentare",
+      "cards": {
+        "one": "{n} carta",
+        "other": "{n} cartas"
+      },
+      "print": {
+        "one": "Imprenta {n} carta de bingo",
+        "other": "Imprenta {n} cartas de bingo"
+      },
+      "ready": "Prontos cando cheres",
+      "next": "Figura imbeniente",
+      "allCalled": "Totu sas figuras sunt istadas mutidas",
+      "alreadyCalled": "Giai mutida",
+      "sheetTitle": "Bingo cun figuras · carta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Respirade a intro cando su chircu si faghet prus mannu, e bogade s'alenu cando si faghet prus piticu. S'afirmat a solu a pustis de ses respiradas.",
+      "paceLegend": "Ritmu",
+      "paceSlow": "Lentu (5 segundos onzi borta)",
+      "paceGentle": "Dulche (4 segundos onzi borta)",
+      "ready": "Prontos cando cherides",
+      "in": "Respirade a intro",
+      "hold": "Pàusa",
+      "out": "Bogade s'alenu",
+      "start": "Incumentza",
+      "stop": "Firma",
+      "started": "Incumentzadu. Respirade a intro cando su chircu si faghet prus mannu.",
+      "stopped": "Firmadu.",
+      "finished": "Custas fiant ses respiradas lentas. Podides torrare a comintzare cando cherides."
+    }
+  },
+  "pictures": {
+    "teacup": "Tassa de tè",
+    "kettle": "Cùcuma",
+    "bread": "Pane, pagnotta",
+    "frying-pan": "Padella cun un'ou",
+    "cake": "Torta de anniversàriu",
+    "sunflower": "Girasole",
+    "tulip": "Tulipanu ruju",
+    "watering-can": "Annaidore",
+    "potted-plant": "Pranta in su vasu",
+    "tree": "Àrbore",
+    "bird": "Puzoneddu in su ramu",
+    "butterfly": "Mariposa",
+    "dog": "Cane",
+    "cat": "Gatu",
+    "fish": "Pische doradu",
+    "apple": "Mela ruja",
+    "pear": "Pira",
+    "strawberry": "Fràgula",
+    "banana": "Banana",
+    "lemon": "Limone",
+    "cherries": "Cirasas",
+    "house": "Domo",
+    "lamp": "Làmpana de mesa",
+    "armchair": "Cadira de bratzos",
+    "key": "Crae antiga",
+    "umbrella": "Parabba",
+    "sailboat": "Veleru",
+    "car": "Màchina antiga",
+    "bicycle": "Bitzicleta",
+    "balloon": "Mongolfiera",
+    "lighthouse": "Faru",
+    "sun": "Sole",
+    "moon": "Luna e istellas",
+    "teapot": "Teiera",
+    "apple-pie": "Torta de melas",
+    "honey-jar": "Baratolu de mele",
+    "boiled-egg": "Ou in su portaoos",
+    "toaster": "Tostapane",
+    "cheese": "Fita de casu",
+    "milk-jug": "Brocale de late",
+    "cupcake": "Pastigheddu",
+    "orange": "Arantzu",
+    "grapes": "Grapa de àghina",
+    "watermelon": "Fita de sìndria",
+    "pineapple": "Ananasso",
+    "peach": "Pèrsigu",
+    "rose": "Rosa",
+    "daisies": "Margaritas",
+    "mushroom": "Antunna",
+    "wheelbarrow": "Cariola",
+    "birdhouse": "Casedda de puzones",
+    "cactus": "Cactus in su vasu",
+    "acorn": "Lande",
+    "autumn-leaf": "Foza de atunzu",
+    "rabbit": "Conillu",
+    "duck": "Ànadi",
+    "hen": "Gallina",
+    "sheep": "Berbeghe",
+    "owl": "Cuccuveddu",
+    "ladybird": "Mariadedda",
+    "snail": "Lumassa",
+    "frog": "Rana",
+    "bee": "Abe",
+    "clock": "Relògiu de mesa",
+    "vase-of-flowers": "Vasu de frores",
+    "radio": "Ràdiu antiga",
+    "books": "Pila de libros",
+    "candle": "Candela",
+    "glasses": "Ociales de leghere",
+    "telephone": "Telèfonu",
+    "ball-of-wool": "Gòtulu de lana",
+    "straw-hat": "Cappellu de paza",
+    "train": "Trenu a vapore",
+    "bus": "Autobus",
+    "airplane": "Aeroplanu",
+    "suitcase": "Valìsia",
+    "tractor": "Tratore",
+    "rowing-boat": "Barca a remos",
+    "rainbow": "Arcu de chelu",
+    "rain-cloud": "Nue de pròia",
+    "snowflake": "Firrincu de nie",
+    "kite": "Cometa",
+    "sunrise": "Arvèschida subra sas collinas"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHILMNOPRSTUVZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fruta",
+          "words": [
+            "MELA",
+            "PIRA",
+            "FIGU",
+            "LIMONE",
+            "UVA",
+            "PESCA",
+            "MELONE",
+            "MORA",
+            "CIRASA"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Giardinu",
+          "words": [
+            "ROSA",
+            "FIORE",
+            "SEME",
+            "TERRA",
+            "FOZA",
+            "ARBORE",
+            "ERBA",
+            "RAMU",
+            "PRANTA"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Coghina",
+          "words": [
+            "TASSA",
+            "PANE",
+            "PRATU",
+            "FURRU",
+            "MESA",
+            "SALE",
+            "OGIU",
+            "LATTE",
+            "VASU"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Tempus",
+          "words": [
+            "SOLE",
+            "PROA",
+            "NIE",
+            "BENTU",
+            "NUBE",
+            "LAMPU",
+            "NEBIDA",
+            "FRITU",
+            "CALORE"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animales",
+          "words": [
+            "CANE",
+            "GATU",
+            "PUDDA",
+            "PISCHE",
+            "CADDU",
+            "BACCA",
+            "ANADE",
+            "CRABA",
+            "AINU"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Domo",
+          "words": [
+            "PORTA",
+            "CADIRA",
+            "LUGHE",
+            "LETU",
+            "MESA",
+            "CRAE",
+            "MURO",
+            "CAMERA",
+            "QUADRU"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Totu sas cartas",
+        "food": "Màstigu",
+        "home": "Domo",
+        "outdoors": "A s'ària aberta",
+        "animals": "Animales",
+        "travel": "Viàgios",
+        "work": "Traballu e passatempos",
+        "music": "Mùsica e spàssiu",
+        "seasons": "Istagiones"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Cale est su nusco de coghina chi bos praghet de prus?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Cale torta diat èssere sa preferida bosta pro una festa?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Contàdemi de unu durche o de una torta de fruta chi bos ammentades cun praghere."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Comente bos praghet pigare su cafè o su tè?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Ite ddoe cheret pro fàghere una bella cullassione?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Ais mai collidu fruta deretu dae sa mata?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Durghe o agrincu: cale bos praghet de prus?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Cale est unu màstigu chi bos ammentat s'istiu?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Contàdemi de una domo in ue bos est piàghidu a bìvere."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "In ue bos praghet de prus a bos sèdere e reposare?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Ite bos praghet a fàghere in una serena de paghe?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Cale tesoru diat pònnere a intro de una scatula pretziada?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Chie diades cumbidare a pigare una tassa de tè paris?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Ite bos praghet a fàghere cando pròet?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Cales frores diades prantare in unu giardinu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Contàdemi de un'àrbore o de unu parcu chi bos est a coro."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Cale est sa cosa prus bella de istare in unu giardinu?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "De cale colore bos praghent sos frores?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Bos praghet a tènnere prantas a intro de domo?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Comente diat èssere pro bois una die bella de sole?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Contàdemi de unu cane chi ais connotu."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Gatos o canes, o nemos de sos duos? Ite bos praghet de issos?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Cales puzones bides o intendides a foras?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Ais mai piscadu, o àpidu pisches in domo?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Cale est s'animale prus bellu chi ais mai bidu?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Contàdemi de una màchina chi bos fiat piàghida meda."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Diades preferire una die a mare o in monte?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "In ue bos diat piàghere a andare pro una passigiada?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Si pòdiais bolare subra de unu logu cale si siat, cale diades seberare?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Contàdemi de unu viàgiu chi bos at lassadu unu bellu ammentu."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Cale traballu bos est piàghidu a fàghere in sa vida?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Cale est unu passatempu in ue diades pòdere colare oras e oras?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Ite fiat cussa cosa chi faghiais o aconciaiais mègius de totu?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Cale cunsìgiu diades dare a unu zòvanu chi incumentzat a traballare?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Cale mùsica bos faghet bènnere gana de ballare o de sonare su passu?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Ite ddoe cheret pro fàghere una bella festa de amigos?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Cale cantante bos praghet a ascurtare?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Cale film o programma bos diat piàghere a bìdere torra?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Ite bos praghet de prus de s'istiu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Ite bos praghet de s'atunzu?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Cale est una cosa bella de fàghere a s'afissu in una serena de ierru?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Cales sunt sos primos sinnos de su beranu pro bois?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Nie, pròia o sole: ite preferides?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Frore in su vasu",
+          "regions": {
+            "sky": "Fundu",
+            "table": "Mesa",
+            "stem": "Fuste",
+            "leaf-left": "Foza a manu manca",
+            "leaf-right": "Foza a manu dereta",
+            "petal-1": "Pètalu 1",
+            "petal-2": "Pètalu 2",
+            "petal-3": "Pètalu 3",
+            "petal-4": "Pètalu 4",
+            "petal-5": "Pètalu 5",
+            "petal-6": "Pètalu 6",
+            "petal-7": "Pètalu 7",
+            "petal-8": "Pètalu 8",
+            "center": "Tzentru de su frore",
+            "pot": "Vasu",
+            "pot-rim": "Orlu de su vasu"
+          }
+        },
+        "house": {
+          "name": "Domo",
+          "regions": {
+            "sky": "Chelu",
+            "sun": "Sole",
+            "grass": "Erba",
+            "chimney": "Chiminiera",
+            "walls": "Muros",
+            "roof": "Teitu",
+            "door": "Porta",
+            "window-left": "Ventana a manu manca",
+            "window-right": "Ventana a manu dereta",
+            "path": "Camminu"
+          }
+        },
+        "teacup": {
+          "name": "Tassa de tè",
+          "regions": {
+            "background": "Fundu",
+            "saucer": "Pratigheddu",
+            "handle": "Asa",
+            "cup": "Tassa",
+            "band": "Raja subra sa tassa",
+            "tea": "Tè"
+          }
+        },
+        "butterfly": {
+          "name": "Mariposa",
+          "regions": {
+            "background": "Fundu",
+            "wing-top-left": "Ala a subra a manca",
+            "wing-top-right": "Ala a subra a dereta",
+            "wing-bottom-left": "Ala a suta a manca",
+            "wing-bottom-right": "Ala a suta a dereta",
+            "spot-left": "Puntu a manu manca",
+            "spot-right": "Puntu a manu dereta",
+            "body": "Corpu"
+          }
+        },
+        "sailboat": {
+          "name": "Veleru",
+          "regions": {
+            "sky": "Chelu",
+            "sea": "Mare",
+            "sail-big": "Vela manna",
+            "sail-small": "Vela pitica",
+            "mast": "Fuste",
+            "hull": "Barca",
+            "flag": "Bandera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Coghina e giardinu",
+          "baskets": [
+            "In sa cuzina",
+            "In s'ortu"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Frutta e animales",
+          "baskets": [
+            "Frutta",
+            "Animales"
+          ]
+        },
+        "home-travel": {
+          "label": "Domo e viàgios",
+          "baskets": [
+            "In domo",
+            "Foras in giru"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Biletepar",
+    "seoTitle": "Paringsspel for demens: Biletepar",
+    "h1": "Biletepar: eit roleg paringsspel",
+    "description": "Eit gratis, roleg paringsspel for personar som lever med demens. Store bilete står synlege, det finst ingen tidtakar og ingen poeng, og du vel 4 til 12 ruter.",
+    "short": "Finn dei to bileta som er like. Bileta kan stå synlege heile tida.",
+    "players": "1 eller 2 personar, ved sida av kvarandre",
+    "intro": "Trykk på eit bilete, og trykk så på det som passar til. Bileta står synlege som standard, så ingen treng å hugse noko. Når to bilete høyrer saman, får dei ein gylden ramme og ein hakemerkje.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Vel kor mange ruter de vil bruke. Fire ruter er ein roleg stad å starte.",
+      "Trykk på eit bilete. Det får ein gylden ramme.",
+      "Trykk på det biletet som ser likt ut. Paret held seg saman med ein hakemerkje.",
+      "Viss dei to bileta er ulike, skjer ingenting vondt. Trykk igjen når de er klare.",
+      "Slå berre på «Skjulte bilete» viss de begge likar den klassiske versjonen med bileta snudd ned."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Namn bileta høgt saman og prat om dei: «Ein raud tekopp. Drikk du teen din med mjølk?»",
+      "Lat personen du har omsorg for få trykke sjølv, også om det tek ei stund. Peik heller enn å trykke for vedkomande.",
+      "Hald deg til fire ruter så lenge det kjennest bra. Fleire ruter er eit val, aldri eit nivå å nå.",
+      "Avslutt medan det framleis er triveleg. Eitt spel er ei heil aktivitet."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Finst det tidtakar eller poeng?",
+        "a": "Nei. Det finst ingen klokke, ingen poeng, ingen trekkteljar og ingen tap. Du kan stoppe når som helst, og å stoppe halvvegs er ein heilt god måte å avslutte på."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Kvifor står bileta synlege?",
+        "a": "Når bileta er synlege, blir spelet til å sjå og samanlikne i staden for å hugse. Mange synest dette er roligare. Du kan byte til skjulte bilete med eitt trykk viss du føretrekk det."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er det gratis, og må eg registrere meg?",
+        "a": "Ja, det er gratis, og det krevst ingen konto, registrering eller nedlasting. Det verkar i nettlesaren på mobil, nettbrett eller datamaskin."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "Kan vi bruke eigne familiebilete?",
+        "a": "Ja. Prøv Fotopar, der du kan velje bilete frå eininga di. Bileta blir verande i nettlesaren og blir ikkje lasta opp."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Finn det same",
+    "seoTitle": "Finn det same biletet: eit enkelt demensspel",
+    "h1": "Finn det same biletet",
+    "description": "Eitt bilete øvst, to til fire nedst. Trykk på det som er likt. Eit roleg, gratis biletspel for personar som lever med demens, utan tidtakar.",
+    "short": "Sjå på biletet øvst og trykk på det same nedanfor.",
+    "players": "1 eller 2 personar",
+    "intro": "Eitt enkelt bilete står øvst på skjermen. Under det ligg to, tre eller fire bilete. Trykk på det som er likt. Det er eit enkelt val om gangen, med god plass til å prate.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Vel to, tre eller fire bilete å velje mellom. To er enklast.",
+      "Sjå på biletet øvst saman.",
+      "Trykk på same biletet nedanfor. Det blir merkt med ein hake og nokre varme ord.",
+      "Viss eit anna bilete blir trykt på, nemner spelet berre biletet og ventar. Ta deg god tid.",
+      "Trykk på «Neste bilete» når de er klare for eit nytt."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Prat om kvart bilete før de vel: fargar, former, kvar du kan sjå det.",
+      "To val er ikkje «for lett». Målet er ei triveleg stund, ikkje ei utfordring.",
+      "Viss det er vanskeleg å trykke, kan personen peike, og du kan trykke for vedkomande."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Finst det tidtakar eller poeng?",
+        "a": "Nei. Det finst ingen klokke, ingen poeng, ingen trekkteljar og ingen tap. Du kan stoppe når som helst, og å stoppe halvvegs er ein heilt god måte å avslutte på."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kva skjer viss eit feil bilete blir trykt på?",
+        "a": "Ingenting ubehageleg. Det finst ingen summar, raudt kryss eller rysting. Spelet nemner biletet som blei trykt på og ventar på neste trykk."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er det gratis, og må eg registrere meg?",
+        "a": "Ja, det er gratis, og det krevst ingen konto, registrering eller nedlasting. Det verkar i nettlesaren på mobil, nettbrett eller datamaskin."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Skuggeparing",
+    "seoTitle": "Skuggeparingsspel for demens: gratis på nett",
+    "h1": "Skuggeparing: eit roleg biletspel",
+    "description": "Ein mørk skugge øvst, to til fire bilete nedst. Trykk på biletet som lagar skuggen. Eit gratis, roleg skuggeparingsspel for demens, utan tidtakar.",
+    "short": "Sjå på skuggen og trykk på biletet som lagar han.",
+    "players": "1 eller 2 personar",
+    "intro": "Skuggeparing er ein kjend aktivitet frå trykte arbeidsark, her med store bilete og utan noko å skrive ut. Ein mjuk skugge står øvst på skjermen, og to, tre eller fire bilete ventar under. Trykk på det som lagar skuggen. Former som ein sykkel, ein paraply eller ein tekopp er lette å prate om òg.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Vel to, tre eller fire bilete å velje mellom. To er enklast.",
+      "Sjå på skuggen saman. Kva form har han? Er han høg eller rund?",
+      "Trykk på biletet som lagar skuggen. Namnet dukkar opp under skuggen.",
+      "Viss eit anna bilete blir trykt på, nemner spelet berre biletet og ventar. Ta deg god tid.",
+      "Trykk på «Neste skugge» når de er klare for ein ny."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Dra fingeren langs konturen til skuggen og prat om forma.",
+      "Viss skuggar er vanskelege i dag, byt til Finn det same, der bileta ser like ut.",
+      "Prat om biletet når det er funne: «Vi hadde ein paraply slik.»"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Finst det tidtakar eller poeng?",
+        "a": "Nei. Det finst ingen klokke, ingen poeng, ingen trekkteljar og ingen tap. Du kan stoppe når som helst, og å stoppe halvvegs er ein heilt god måte å avslutte på."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "Er skuggematching bra for personar med demens?",
+        "a": "Det kan vere ein hyggeleg, enkel aktivitet for somme, særleg i tidlege stadium. Former er lettare å kjenne att enn ord. Aktiviteten er for kos og samtale, ikkje ein test, og han behandlar eller bremsar ikkje demens. Viss han skapar frustrasjon, prøv «Finn det same» eller berre sjå på bilete saman."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Kva skjer viss det blir trykt på feil bilete?",
+        "a": "Ingenting ubehageleg. Det er ingen summelyd, raudt kryss eller risting. Spelet nemner biletet som vart trykt på, og ventar på neste trykk."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er det gratis, og må eg registrere meg?",
+        "a": "Ja, det er gratis, og det er ingen konto, registrering eller nedlasting. Det fungerer i nettlesaren på mobil, nettbrett eller datamaskin."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Sortere saman",
+    "seoTitle": "Sorteringsspel for demens: Sortere saman",
+    "h1": "Sortere saman: ein aktivitet med bileteskortering",
+    "description": "Trykk på eit bilete, og trykk så på kurven det høyrer heime i: kjøkken eller hage, frukt eller dyr. Ein rolig, gratis sorteringsaktivitet for personar som lever med demens.",
+    "short": "Legg kvart bilete i sin kurv: kjøkken eller hage, og meir.",
+    "players": "1 eller 2 personar",
+    "intro": "Sortering er ei kjend og god kvardagsoppgåve, som å setje vekk handlevarer eller pare sokkar. Trykk på eit bilete, og trykk så på kurven det høyrer heime i. Det er ingen hastverk og ingen gale vegval.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Vel eit tema: kjøkken og hage, frukt og dyr, eller heim og reise.",
+      "Trykk på eit bilete. Det får ein gull ramme.",
+      "Trykk på kurven det høyrer heime i. Biletet flyttar seg inn i den kurven.",
+      "Høyrer det heime i den andre kurven, seier spelet det mildt og ventar.",
+      "Når alle bileta er sorterte, ser de på kurvane saman."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "I det verkelege livet finst det ofte ingen gale svar. Viss nokon seier at ei vatnkanne høyrer heime på kjøkkenet, spør kvifor. Då kan du få ei god historie.",
+      "Bruk bileta som ein start på samtale: «Kva dyrka du i hagen?»",
+      "Å sortere ekte ting, som skjeer og gafler eller knappar etter farge, er ein fin oppfølging borte frå skjermen."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er det tidtakar eller poeng?",
+        "a": "Nei. Det er ingen klokke, poeng, trekkteljar eller tap. Du kan stoppe når som helst, og å stoppe halvvegs er ein heilt god måte å avslutte på."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "Kvifor sortering?",
+        "a": "Mange har glede av å sortere, fordi det kjennest som nyttig og kjend arbeid. Det er òg lett å snakke om bileta undervegs."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er det gratis, og må eg registrere meg?",
+        "a": "Ja, det er gratis, og det er ingen konto, registrering eller nedlasting. Det fungerer i nettlesaren på mobil, nettbrett eller datamaskin."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Bileteputle",
+    "seoTitle": "Enkelt puslespel for demens: 4 eller 9 bitar",
+    "h1": "Bileteputle: eit enkelt puslespel",
+    "description": "Eit enkelt puslespel på nett for personar som lever med demens: 4 eller 9 store bitar, heile biletet er synleg, og du trykker på to bitar for å byte plass.",
+    "short": "Trykk på to bitar for å byte dei, til biletet er heilt.",
+    "players": "1 eller 2 personar",
+    "intro": "Eit vennleg bilete er delt i fire eller ni store bitar og blanda. Heile biletet er synleg som rettleiing. Trykk på éin bit, og så på ein annan, så byter dei plass. Du treng ikkje dra.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Vel eit bilete og 4 eller 9 bitar. Fire er ein mild start.",
+      "Sjå på heile biletet øverst.",
+      "Trykk på ein bit, og trykk så på staden han skal. Dei to bitane byter plass.",
+      "Bitar på rett stad får ein liten hakemerkje.",
+      "Når biletet er heilt, kan de sjå på det saman, og så velje eit nytt."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Å trykke på to bitar for å byte dei er mykje lettare enn å dra, for mange.",
+      "Snakk om biletet medan det blir heilt: «Der er det raude taket.»",
+      "Eit ekte trepuslespel med 12 til 24 store bitar er òg ein fin bordaktivitet."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er det tidtakar eller poeng?",
+        "a": "Nei. Det er ingen klokke, poeng, trekkteljar eller tap. Du kan stoppe når som helst, og å stoppe halvvegs er ein heilt god måte å avslutte på."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "Må eg dra bitane?",
+        "a": "Nei. Trykk på éin bit, og så på ein annan, så byter dei plass. Dette er lettare med skjelvande hand eller på ein liten skjerm."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er det gratis, og må eg registrere meg?",
+        "a": "Ja, det er gratis, og det er ingen konto, registrering eller nedlasting. Det fungerer i nettlesaren på mobil, nettbrett eller datamaskin."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Fullfør ordtaket",
+    "seoTitle": "Fullfør ordtaket: ordtaksspel for eldre",
+    "h1": "Fullfør ordtaket",
+    "description": "Kjende norske ordtak med siste ordet borte, til dømes «Morgonstund har ___ i munnen». Trykk på eit svar eller vis slutten, og snakk så om det.",
+    "short": "Fullfør kjende ordtak saman, og snakk så om dei.",
+    "players": "1, 2 eller ei gruppe",
+    "intro": "Gamle ordtak er ofte godt kjende heile livet. Kvart kort viser eit kjent ordtak med siste ordet borte, tre val og ein knapp «Vis slutten». Etter slutten kjem eit mildt spørsmål som inviterer til samtale.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Les ordtaket høgt saman.",
+      "Trykk på ordet som fullfører det, eller trykk «Vis slutten».",
+      "Les heile ordtaket på nytt, og snakk om det med spørsmålet som er gitt.",
+      "Trykk på «Neste ordtak» når de er klare."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Les sakte, og la det bli ei pause før siste ordet. Ofte seier folk det før du er ferdig.",
+      "Viss nokon gir ein annan slutt, så nyt det. Somme versjonar av ordtak varierer etter familie og landsdel.",
+      "I ei gruppe les éin person, og alle er med på slutten."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er det tidtakar eller poeng?",
+        "a": "Nei. Det finst ingen klokke, poengsum, teljar for trekk eller tap. Du kan stoppe når som helst, og å stoppe halvvegs er ein heilt god måte å avslutte på."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "Kva om vi vel eit anna ord?",
+        "a": "Spelet viser den vanlege avslutninga og går vidare til samtale. Det er ingen poengsum, og eit anna svar er fint."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er det gratis, og må eg registrere meg?",
+        "a": "Ja, det er gratis, og du treng ingen konto, registrering eller nedlasting. Det fungerer i nettlesaren på mobil, nettbrett eller datamaskin."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Ordsøk med stor skrift",
+    "seoTitle": "Ordsøk med stor skrift for demens, til utskrift",
+    "h1": "Ordsøk med stor skrift",
+    "description": "Eit gratis ordsøk med stor skrift for eldre og for folk som lever med demens. Få ord, store bokstavar, berre på tvers og nedover. Spel på nett eller skriv ut.",
+    "short": "Store bokstavar, få ord, berre på tvers og nedover. Skriv det ut òg.",
+    "players": "1 eller 2 personar",
+    "intro": "Eit lite rutenett med store bokstavar og berre nokre få ord, som alle går på tvers eller nedover. Trykk på den første bokstaven i eit ord, og så på den siste. Føretrekk du papir? Skriv ut eit nytt puslespel med eitt trykk.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Vel eit tema og ein rutenettstorleik.",
+      "Sjå på ordlista. Orda går på tvers (frå venstre til høgre) eller nedover (frå topp til botn).",
+      "Trykk på den første bokstaven i eit ord, og trykk så på den siste.",
+      "Eit funne ord blir markert og strøket av lista.",
+      "Trykk på «Skriv ut dette puslespelet» for å spele på papir med blyant eller tusj."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Peik på eit ord i lista og sjå etter første bokstav saman.",
+      "På papir er ein markør lettare å halde enn blyant.",
+      "Snakk om temaorda. Fruktord er ein naturleg veg inn til minne om plukking, baking eller marknader."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Finst det tidtakar eller poeng?",
+        "a": "Nei. Det finst ingen klokke, poengsum, teljar for trekk eller tap. Du kan stoppe når som helst, og å stoppe halvvegs er ein heilt god måte å avslutte på."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "Kan eg skrive ut ordsøket?",
+        "a": "Ja. Trykk på «Skriv ut dette puslespelet» for å skrive ut det noverande rutenettet med stor skrift, med ordlista under. Kvart nytt puslespel er annleis."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er det gratis, og må eg registrere meg?",
+        "a": "Ja, det er gratis, og du treng ingen konto, registrering eller nedlasting. Det fungerer i nettlesaren på mobil, nettbrett eller datamaskin."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Fargeleggingsark",
+    "seoTitle": "Fargeleggingsark for vaksne med demens (gratis)",
+    "h1": "Fargeleggingsark",
+    "description": "Enkle fargeleggingsark for vaksne med store flater: trykk på ein farge, og så på biletet. Ingen søl, ingen feil fargar, og kvart ark kan skrivast ut gratis.",
+    "short": "Trykk på ein farge, og så på ein del av biletet. Skriv ut ark òg.",
+    "players": "1 eller 2 personar",
+    "intro": "Ark med store, enkle former: ein blomst i ein potte, eit hus, ein tekopp, ein sommarfugl og ein seilbåt. Trykk på ein farge, og trykk så på ein del av biletet for å fylle det. Det finst ingen feil fargar.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Vel eit ark.",
+      "Trykk på ein farge. Kvar farge har namnet sitt skrive på seg.",
+      "Trykk på ein del av biletet for å fylle det med den fargen.",
+      "Skift meining når som helst ved å fylle det på nytt.",
+      "Trykk på «Skriv ut dette arket» for eit tomt ark å fargelegge med blyantar eller tusjar."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Tilby to fargar å velje mellom i staden for heile settet, viss det blir for mykje å velje.",
+      "Lilla tre og blå solar er velkomne. Dette handlar om å kose seg med farge, ikkje om presisjon.",
+      "Utskrivne ark fungerer godt med tjukke tusjar eller vokskritt, som er lettare å halde i."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Finst det tidtakar eller poeng?",
+        "a": "Nei. Det finst ingen klokke, poengsum, teljar for trekk eller tap. Du kan stoppe når som helst, og å stoppe halvvegs er ein heilt god måte å avslutte på."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "Er desse arka for barnslege?",
+        "a": "Vi teikna roleg, enkle objekt i staden for teiknefilmfigurar, slik at arka passar vaksne. Store former gjer det lett å fargelegge utan at det blir barnsleg."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er det gratis, og må eg registrere meg?",
+        "a": "Ja, det er gratis, og du treng ingen konto, registrering eller nedlasting. Det fungerer i nettlesaren på mobil, nettbrett eller datamaskin."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Samtalekort",
+    "seoTitle": "Samtaleimpulsar ved demens: bildekort",
+    "h1": "Samtalekort",
+    "description": "Bildekort med milde samtaleimpulsar for folk som lever med demens: ingen spørjing, ingen rette svar. Bruk dei på skjermen eller skriv ut heile settet.",
+    "short": "Bildekort med opne, milde spørsmål. Ingen spørjing.",
+    "players": "2 personar eller ei gruppe",
+    "intro": "Kvart kort parar eit kjent bilete med ei open invitasjon til å snakke, til dømes «Kva slags vêr liker du best?» Det finst ingen rette svar, og ingenting å hugse. Vel eit tema, eller bland alle korta.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Vel eit tema, eller behald «Alle kort».",
+      "Les spørsmålet høgt, og sjå på biletet saman.",
+      "Lytt, del ditt eige svar, og lat samtalen gå der han vil.",
+      "Trykk på «Neste kort» når du er klar, eller bli verande ved eitt kort så lenge du vil.",
+      "Trykk på «Skriv ut alle kort» for å klippe ut eit papirsett."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Svar sjølv på spørsmålet òg. Det kjennes ut som ein samtale, ikkje eit intervju.",
+      "Følg historia, ikkje fakta. Viss detaljar endrar seg, er det greitt.",
+      "Viss eit kort rører ved noko trist, anerkjenn kjensla og gå roleg vidare til eit anna kort."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "Kvifor finst det ingen spørsmål som «Husker du…?»",
+        "a": "Spørsmål som testar minnet kan kjennast ut som ein eksamen og skape pinlegheit. Opne invitasjonar som «Fortel meg om…» lar alle vere med, uansett kva dei hugsar."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "Kan eg skrive ut korta?",
+        "a": "Ja. «Skriv ut alle kort» skriv ut heile settet med stor skrift, fleire kort per side, klare til å klippe ut."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er det gratis, og må eg registrere meg?",
+        "a": "Ja, det er heilt gratis, og du treng korkje brukarkonto, registrering eller nedlasting. Det fungerer rett i nettlesaren på telefon, nettbrett eller datamaskin."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Biletepar",
+    "seoTitle": "Lag eit parspel med eigne familiebilete",
+    "h1": "Biletepar: Finn like bilete blant dine eigne foto",
+    "description": "Gjer eigne familiebilete om til eit roleg parspel. Vel 2 til 6 bilete frå eininga di; dei blir verande i nettlesaren og blir aldri lasta opp.",
+    "short": "Vel eigne bilete og finn para. Ingenting blir lasta opp.",
+    "players": "2 personar, side om side",
+    "intro": "Vel to til seks bilete frå telefonen, nettbrettet eller datamaskina di, så blir dei til eit parspel med store, tydelege bilete. Bileta blir berre viste her på sida. Dei blir ikkje lasta opp, lagra eller delte, og dei forsvinn når du lèt att sida.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Trykk på «Vel bilete» og plukk ut to til seks bilete.",
+      "Kvart bilete kjem opp to gonger. Trykk på eitt, og trykk så på biletet som høyrer til.",
+      "Prat gjerne om kvart bilete etter kvart som de finn dei.",
+      "Når de er ferdige, lèt de att sida eller trykkjer på «Fjern bilete». Ingenting blir lagra."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Vel tydelege bilete av hyggjelege, kjende ting: eit kjæledyr, ein hage, ein favorittstad eller ein bryllaupsdag.",
+      "Bilete av stader og ting kan vere enklare enn andlet, og det tek bort presset om å hugse namn på folk.",
+      "Hopp over bilete av personar som er gått bort dersom det kan vekkje brå sorg, med mindre du veit at dei gjev trøyst."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Blir bileta mine lasta opp nokon stad?",
+        "a": "Nei. Sida les bileta du vel direkte i nettlesaren din og viser dei på skjermen. Dei blir ikkje sende til oss eller nokon andre, og dei er borte så snart du lèt att eller lastar sida på nytt."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Er det tidsfrist eller poeng?",
+        "a": "Nei. Her er det korkje klokke, poeng, trekkteljar eller taparar. De kan avslutte når som helst, og det å gje seg halvvegs er ein like fin måte å fullføre på."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Kan eg lagre spelet til neste gong?",
+        "a": "Ikkje i nettlesaren, og det er med vilje, slik at ingenting privat blir lagra. Den gratis Golden Moments-appen for iPhone og iPad kan ta vare på utvalde kopiar av bilete på eininga di."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Biletebingo",
+    "seoTitle": "Biletebingo for eldre med demens: Til utskrift",
+    "h1": "Biletebingo for grupper",
+    "description": "Gratis biletebingo til utskrift for seniorgrupper og demensomsorg, med ein stor oppropar på skjermen. Store bilete med ord, 9 eller 16 ruter, krev inga lesing.",
+    "short": "Biletebingobrett til utskrift og oppropar på storskjerm for grupper.",
+    "players": "Ei gruppe på 2 til 30",
+    "intro": "Klassisk bingo med bilete i staden for tal, slik at ingen treng å lese lita skrift. Skriv ut eit sett med ulike brett, og bruk opproparen på skjermen til å vise kvart bilete i stort format på ein TV, berbar datamaskin eller eit nettbrett.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Vel 9 eller 16 ruter per brett og kor mange som skal vere med.",
+      "Trykk på «Skriv ut brett». Kvart brett er ulikt.",
+      "Opna opproparen på ein stor skjerm. Trykk på «Neste bilete» for å vise kvart bilete saman med namnet.",
+      "Deltakarane dekkjer over det rette biletet på brettet sitt med ein mynt, ein knapp eller ei brikke.",
+      "Alle som fyller ei rekkje, eller heile brettet, får ein applaus. Det er ingen taparar i denne utgåva: Hald fram med å spele til alle har fått ei rekkje."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Bruk store brikker, som dam-brikker eller bruskorkar. Små knappar kan vere vanskelege å plukke opp.",
+      "Set ord på biletet og sei noko om det: «Ein seglbåt. Kven her har vore ute i båt?»",
+      "Plasser dei som ser dårleg nærast skjermen, og la dei som treng det få sitje saman med ein hjelpar.",
+      "Ni ruter held i massevis for dei fleste grupper. La stunda vare i rundt 20 til 30 minutt."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Korleis arrangerer eg biletebingo på ein sjukeheim?",
+        "a": "Skriv ut eitt brett til kvar deltakar, set opproparen på den største skjermen de har, og vis bileta i roleg tempo medan du nemner kva dei førestiller. Spel heilt til alle har fått ei rekkje, slik at ingen kjenner seg utanfor."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Er det gratis å skrive ut?",
+        "a": "Ja. Skriv ut så mange brett du treng, så ofte du vil, til privat bruk eller for ei gruppe."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Kan ein spele utan å kunne lese?",
+        "a": "Ja. Kvar rute har eit stort bilete, med namnet skrive under for dei som likar ord."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Roleg pust",
+    "seoTitle": "Ein roleg pustepause for eldre og pårørande",
+    "h1": "Ein roleg pustepause",
+    "description": "Ein roleg og fredfull pustepause de kan dele: Ein mjuk sirkel veks og krympar i seks andedrag. Du startar han, og du kan stoppe når som helst.",
+    "short": "Ein roleg sirkel å puste i takt med. Start og stopp når du vil.",
+    "players": "1 eller 2 personar",
+    "intro": "Nokre gonger er den beste aktiviteten ein stille pause. Trykk på «Start», og pust inn når sirkelen veks og ut når han krympar. Vel eit rolegare eller raskare tempo. Dette er inga behandling, berre ei fredeleg stund saman.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Sit godt og behageleg side om side.",
+      "Vel eit tempo: roleg eller varsamt.",
+      "Trykk på «Start». Pust inn medan sirkelen veks, og ut medan han krympar.",
+      "Han stoppar av seg sjølv etter seks andedrag, eller du kan trykkje på «Stopp» når som helst."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Hald hender eller kvil ei hand på armen til den andre dersom det kjennest godt.",
+      "Ikkje mas eller press på. Om vedkomande heller berre vil sjå på, er det heilt i orden.",
+      "Dersom nokon har vanskar med å puste, er det best å puste heilt vanleg og berre sjå på sirkelen. Ta kontakt med lege ved uro kring pusten."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Er dette ei medisinsk pusteøving?",
+        "a": "Nei. Dette er berre ein enkel, frivillig pause for ro og samver. Det er inga behandling mot uro, angst eller andre helsetilstandar. Snakk med ein lege dersom du har helsespørsmål."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Rører sirkelen på seg utan at eg startar han?",
+        "a": "Nei. Ingenting beveger seg før du trykkjer på Start, og det stoppar etter seks pust eller når du trykkjer på Stopp. Viss eininga di er innstilt på å redusere rørsle, skifter orda, men sirkelen veks ikkje."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Er det gratis, og må eg registrere meg?",
+        "a": "Ja, det er gratis, og det krevst ingen konto, registrering eller nedlasting. Det fungerer i nettlesaren på mobil, nettbrett eller datamaskin."
       }
     ]
   }

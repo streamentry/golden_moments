@@ -1,0 +1,771 @@
+{
+  "ui": {
+    "frame": {
+      "readAloud": "Leger ad alta voce",
+      "stopReading": "Smetter da leger",
+      "region": "Gieu",
+      "restart": "Cumenzar darcheu",
+      "soundOn": "Sunadas suaves activadas",
+      "soundOff": "Sunadas suaves deactivadas",
+      "done": "Finit per oz",
+      "feedbackQuestion": "Ha quai gidà oz?",
+      "feedbackYes": "Gea",
+      "feedbackNo": "Betg propi",
+      "feedbackThanks": "Grazia fitg per ch'Vus al avais detg."
+    },
+    "tile": {
+      "named": "{name}, plaun {n}",
+      "hidden": "Maletga cuvretga, plaun {n}",
+      "withState": "{label}, {state}",
+      "matched": "Cumparegià",
+      "selected": "Tschernì",
+      "picture": "Maletga",
+      "photoNumber": "Fotografia {n}"
+    },
+    "pairs": {
+      "allTogether": "Tut ils pèrs èn cumplets. Giogai darcheu u fai ina pausa.",
+      "photoPair": "Ina pèra da fotografias, insembel.",
+      "picturePair": "Duas maletgas da {name|lower}, insembel.",
+      "selected": "{name}. Uss tschertgai sia pèra.",
+      "mismatch": "Pigliai temp. Tutgai ina maletga per cuntinuar.",
+      "mismatchNamed": "{a} e {b}. Pigliai temp. Tutgai ina maletga per cuntinuar."
+    },
+    "picturePairs": {
+      "guidanceShowing": "Tutgai ina maletga, lura tutgai quella che correspunda.",
+      "guidanceHidden": "Tutgai duas plaunchas per als rivoltar. Tschertgai duas medemas.",
+      "restart": "Novas maletgas",
+      "sizeLegend": "Quants plauns",
+      "size": {
+        "one": "{n} plaun",
+        "other": "{n} plauns"
+      },
+      "viewLegend": "Co giogar",
+      "viewShowing": "Maletgas visiblas",
+      "viewHidden": "Maletgas cuvertas",
+      "playAgain": "Giogar darcheu cun novas maletgas",
+      "talk": "Discurrer insembel davart las maletgas"
+    },
+    "choose": {
+      "countLegend": "Quantas maletgas",
+      "count": "{n} per tschernir",
+      "thatOne": "Quella è la {name|lower}. Pigliai temp."
+    },
+    "findTheSame": {
+      "guidance": "Guardai la maletga da sura. Tutgai la medema qua sut.",
+      "yes": "Gea, la medema {name|lower}.",
+      "next": "Proxima maletga"
+    },
+    "shadowMatch": {
+      "guidance": "Guardai l'umbriva da sura. Tutgai la maletga che fa quella umbriva.",
+      "yes": "Gea, la {name|lower} fa quella umbriva.",
+      "next": "Proxima umbriva",
+      "shadowAlt": "Ina umbriva per cumparegiar",
+      "foundAlt": "L'umbriva da la {name|lower}"
+    },
+    "sortTogether": {
+      "guidance": "Tutgai ina maletga, lura tutgai la chasclinna nua ch'ella va.",
+      "restart": "Novas maletgas",
+      "themeLegend": "Tema",
+      "selected": "{name}. Uss tutgai la chasclinna nua ch'ella va.",
+      "pickFirst": "Tutgai emprim ina maletga, lura ina chasclinna.",
+      "hint": "La {name|lower} pudess ir en «{basket}». Tutgai quella chasclinna per als metter là.",
+      "placed": "La {name|lower} è en «{basket}».",
+      "sorted": "Tut è sortì. Guardai las chasclinnas insembel u pruvai in auter tema.",
+      "basket": {
+        "one": "chasclinna da {basket}, {count} maletga en quella",
+        "other": "chasclinna da {basket}, {count} maletgas en quellas"
+      }
+    },
+    "picturePuzzle": {
+      "guidance": "Tutgai in toc, lura tutgai in auter. Els midan lur plazza.",
+      "restart": "Mischedar darcheu",
+      "pictureLegend": "Maletga",
+      "pictures": {
+        "sailboat": "Barca a vela",
+        "house": "Chasa",
+        "balloon": "Balun",
+        "sunflower": "Flur dal sulegl",
+        "lighthouse": "Fanal",
+        "cat": "Gatta"
+      },
+      "sizeLegend": "Tocs",
+      "size": {
+        "one": "{n} toc",
+        "other": "{n} tocs"
+      },
+      "pickedUp": "Toc piglià. Uss tutgai nua ch'el sto ir.",
+      "whole": "La {name|lower} è puspè entira. Tschernai ina autra maletga sch'Vus vulais.",
+      "swapped": {
+        "one": "Midà. {correct} da {total} toc è al lieu just.",
+        "other": "Midà. {correct} da {total} tocs èn als lieus just."
+      },
+      "guideAlt": "La maletga entira: {name}",
+      "guideText": "Uschia para la maletga cura ch'ella è entira.",
+      "piece": "Toc en la {place}",
+      "pieceInPlace": ", en il lieu just",
+      "piecePickedUp": ", piglià",
+      "places4": [
+        "sura a sanester",
+        "sura a dretga",
+        "sut a sanester",
+        "sut a dretga"
+      ],
+      "places9": [
+        "sura a sanester",
+        "sura en mez",
+        "sura a dretga",
+        "en mez a sanester",
+        "en mez",
+        "en mez a dretga",
+        "sut a sanester",
+        "sut en mez",
+        "sut a dretga"
+      ],
+      "done": "La maletga è puspè entira. Giogai darcheu u fai ina pausa.",
+      "playAgain": "Mischedai ella darcheu"
+    },
+    "finishTheSaying": {
+      "guidance": "Leggai insembel la sentenza, lura tutgai la pleida che la finescha.",
+      "gap": " ",
+      "ending": "{end}.",
+      "yes": "Gea, «{start} {end}.»",
+      "otherEnding": "«{word}» va bain era. La sentenza usitada finescha cun «{end}».",
+      "revealed": "La sentenza è «{start} {end}.»",
+      "choicesLabel": "Tschernai l'ultima pleida",
+      "show": "Mussar la fin",
+      "talk": "Discurrai davart: ",
+      "next": "Proxima sentenza"
+    },
+    "wordSearch": {
+      "guidance": "Las paroulas van horizontalmain u vertical. Tutgai la emprima lettera d'ina parola, lura l'ultima.",
+      "restart": "Nov rebus",
+      "themeLegend": "Tema",
+      "sizeLegend": "Grondezza da la tabella",
+      "size": {
+        "one": "{n} per {n} ({words} parola)",
+        "other": "{n} per {n} ({words} paroulas)"
+      },
+      "print": "Stampar quest rebus",
+      "letterChosen": "Lettera {letter} tschernida. Uss tutgai l'ultima lettera da la parola.",
+      "found": "{word} chattada.",
+      "foundAll": "{word} chattada. Quai èn tut las paroulas. Giogai darcheu u fai ina pausa.",
+      "tryAgain": "Pigliai temp. Tutgai la emprima lettera d'ina parola, lura l'ultima.",
+      "gridLabel": "Tabella da lettras, {n} lingias da {n} lettras. Duvrai las sagetas per ir tranter las lettras.",
+      "cell": "{letter}, lingia {row}, colonna {col}",
+      "cellFound": ", part d'ina parola chattada",
+      "wordsHeading": "Paroulas da tschertgar",
+      "wordFound": " (chattada)",
+      "sheetTitle": "Tschertga da paroulas: {theme}",
+      "sheetNote": "Las paroulas van horizontalmain u vertical.",
+      "unavailable": "Ina tabella da lettras na sa para betg a questa lingua, per quai na vegn la tschertga da paroulas betg spassada qua. Pruvai ils gieus cun maletgas."
+    },
+    "coloring": {
+      "guidance": "Tutgai ina colur, lura tutgai ina part da la maletga.",
+      "restart": "Stizzar las coluras",
+      "cleared": "La pagina è puspè vida.",
+      "pageLegend": "Pagina",
+      "print": "Stampar questa pagina",
+      "colorsLabel": "Coluras",
+      "paintChosen": "{paint} tschernida.",
+      "painted": "{part} è uss {paint|lower}.",
+      "artLabel": "{page}, {count} parts da colorar",
+      "partPainted": "{part}, {paint|lower}",
+      "partBlank": "{part}, betg colorada",
+      "paints": {
+        "red": "Ruasch",
+        "orange": "Orange",
+        "yellow": "Gelb",
+        "green": "Verd",
+        "blue": "Blau",
+        "purple": "Violett",
+        "pink": "Roisa",
+        "brown": "Brun",
+        "sky-blue": "Blau cler",
+        "cream": "Crema",
+        "gray": "Grischa",
+        "white": "Alba"
+      }
+    },
+    "conversationCards": {
+      "guidance": "Leggai la chartetta cun vusch auta. Na dat nagina resposta giusta.",
+      "position": "Chartetta {n} da {total}",
+      "themeLegend": "Tema",
+      "next": "Proxima chartetta",
+      "previous": "Precedenta chartetta",
+      "print": "Stampar tut las chartettas",
+      "sheetTitle": "Chartettas da discurrer"
+    },
+    "photoPairs": {
+      "guidanceEmpty": "Cumenzai cun tschernir Vossas fotografias.",
+      "guidance": "Tutgai ina fotografia, lura quella che correspunda.",
+      "restart": "Mischedar ellas darcheu",
+      "intro": "**Tschernì 2 fin 6 fotografias** da questa apparechia. Ellas vegnan mussadas mo sin questa pagina e na vegnan mai chargiadas sin internet u memorisadas.",
+      "choose": "Tschernir fotografias",
+      "chooseDifferent": "Tschernir auter fotografias",
+      "clear": "Stizzar las fotografias",
+      "cleared": "Fotografias stizzadas da questa pagina.",
+      "atLeastTwo": "Tschernai almain duas fotografias, per plaschair.",
+      "usingFirst": "Duvrand las emprimas {max} fotografias.",
+      "skipped": {
+        "one": "{count} datoteca na era betg ina fotografia che nus pudain mussar.",
+        "other": "{count} datotecas na eran betg fotografias che nus pudain mussar."
+      },
+      "playAgain": "Giogar darcheu cun questas fotografias",
+      "empty": "Voss fotografias cumparan qua, mintga ina duas giadas."
+    },
+    "pictureBingo": {
+      "guidance": "Stampai emprim las chartettas. Lura mussai al chamader sin il pli grond schermo che Vus avais.",
+      "called": {
+        "one": "{name}. {called} da {total} maletga chamada.",
+        "other": "{name}. {called} da {total} maletgas chamadas."
+      },
+      "start": "Tutgai «Proxima maletga» per chamar la emprima maletga.",
+      "restart": "Cumenzar in nov giug",
+      "squaresLegend": "Quadrats sin mintga chartetta",
+      "squares": "{n} quadrats ({side} per {side})",
+      "cardsLegend": "Quantas chartettas stampar",
+      "cards": {
+        "one": "{n} chartetta",
+        "other": "{n} chartettas"
+      },
+      "print": {
+        "one": "Stampar {n} chartetta da bingo",
+        "other": "Stampar {n} chartettas da bingo"
+      },
+      "ready": "Pronts, cur che Vus vulais",
+      "next": "Proxima maletga",
+      "allCalled": "Mintga maletga è vegnida chamada",
+      "alreadyCalled": "Gia chamada",
+      "sheetTitle": "Bingo cun maletgas · chartetta {n}"
+    },
+    "calmBreathing": {
+      "guidance": "Respirai en cura che il circul daventa pli grond, e respirai ora cura ch'el daventa pli pitschen. El sa ferma da sez suenter sis respiraziuns.",
+      "paceLegend": "Ritem",
+      "paceSlow": "Plaun (5 secundas per direcziun)",
+      "paceGentle": "Trancuil (4 secundas per direcziun)",
+      "ready": "Pront cura che Vus vulais",
+      "in": "Respirar en",
+      "hold": "Pausa",
+      "out": "Respirar ora",
+      "start": "Entschaiver",
+      "stop": "Fermar",
+      "started": "Entschat. Respirai en cura che il circul daventa pli grond.",
+      "stopped": "Fermà.",
+      "finished": "Quai eran sis respiraziuns calmas. Entschivai danovamain cura che Vus vulais."
+    }
+  },
+  "pictures": {
+    "teacup": "Chicra da te",
+    "kettle": "Caldgera",
+    "bread": "Paun",
+    "frying-pan": "Padella cun in ov",
+    "cake": "Torta d'anniversari",
+    "sunflower": "Flursulagl",
+    "tulip": "Tulipan cotschen",
+    "watering-can": "Dadauna",
+    "potted-plant": "Planta en vasch",
+    "tree": "Planta",
+    "bird": "Pitscherel sin ina roma",
+    "butterfly": "Tgiralla",
+    "dog": "Tgaun",
+    "cat": "Gat",
+    "fish": "Pesch d'aur",
+    "apple": "Pom cotschen",
+    "pear": "Paira",
+    "strawberry": "Fraisa",
+    "banana": "Banana",
+    "lemon": "Citrona",
+    "cherries": "Tschareschas",
+    "house": "Chasa",
+    "lamp": "Lampa da maisa",
+    "armchair": "Sutga a bratscha",
+    "key": "Clav veglia",
+    "umbrella": "Paraplie",
+    "sailboat": "Bartga a vela",
+    "car": "Auto classic",
+    "bicycle": "Velo",
+    "balloon": "Ballun a chalur",
+    "lighthouse": "Far",
+    "sun": "Sulagl",
+    "moon": "Glina e stailas",
+    "teapot": "Bual da te",
+    "apple-pie": "Torta da poms",
+    "honey-jar": "Vasch da mel",
+    "boiled-egg": "Ov en in ovier",
+    "toaster": "Toster",
+    "cheese": "Tschancun da chaschiel",
+    "milk-jug": "Bual da latg",
+    "cupcake": "Turtina",
+    "orange": "Portocla",
+    "grapes": "Graneuls da risada",
+    "watermelon": "Trantscha da melona d'aua",
+    "pineapple": "Ananas",
+    "peach": "Persic",
+    "rose": "Rosa",
+    "daisies": "Margaritas",
+    "mushroom": "Fungia",
+    "wheelbarrow": "Carriola",
+    "birdhouse": "Chaseta dad utschens",
+    "cactus": "Cactus en vasch",
+    "acorn": "Gagl",
+    "autumn-leaf": "Feglia d'atun",
+    "rabbit": "Cunigl",
+    "duck": "Anda",
+    "hen": "Gaglina",
+    "sheep": "Nursa",
+    "owl": "Dua",
+    "ladybird": "Bula da la Marella",
+    "snail": "Lumagrun",
+    "frog": "Rana",
+    "bee": "Avieul",
+    "clock": "Uriloga da maisa",
+    "vase-of-flowers": "Vas cun flurs",
+    "radio": "Radio vegl",
+    "books": "Muntogna da cudeschs",
+    "candle": "Chandaila",
+    "glasses": "Beretgleras da leger",
+    "telephone": "Telefon",
+    "ball-of-wool": "Glumel da lana",
+    "straw-hat": "Chapè da sulagl",
+    "train": "Tren a vapur",
+    "bus": "Postauto",
+    "airplane": "Aviun",
+    "suitcase": "Valisch",
+    "tractor": "Tractur",
+    "rowing-boat": "Bartga da rems",
+    "rainbow": "Artg da la plievgia",
+    "rain-cloud": "Nivla da plievgia",
+    "snowflake": "Flanc da naiv",
+    "kite": "Dragun da palpiri",
+    "sunrise": "Sulagl levond sur las collinas"
+  },
+  "content": {
+    "wordSearch": {
+      "available": true,
+      "fill": "ABCDEFGHILMNOPRSTUVZ",
+      "themes": [
+        {
+          "value": "fruit",
+          "label": "Fridits",
+          "words": [
+            "POM",
+            "PAIRA",
+            "PRIMA",
+            "LIMUN",
+            "PERSIC",
+            "MELONA",
+            "FRAISA",
+            "FIGIA",
+            "ANANAS"
+          ]
+        },
+        {
+          "value": "garden",
+          "label": "Giardin",
+          "words": [
+            "ROSA",
+            "TULIP",
+            "FLUR",
+            "TERRA",
+            "FEGLIA",
+            "PLANTA",
+            "SEMIA",
+            "LAGHET",
+            "AVIEUL"
+          ]
+        },
+        {
+          "value": "kitchen",
+          "label": "Cuschina",
+          "words": [
+            "CHICRA",
+            "CULIER",
+            "PAUN",
+            "PIRUN",
+            "TAZZA",
+            "PLAT",
+            "BUAL",
+            "FURAN",
+            "COLTEL"
+          ]
+        },
+        {
+          "value": "weather",
+          "label": "Aura",
+          "words": [
+            "SULAGL",
+            "NAIV",
+            "VENT",
+            "NIVLA",
+            "NEBLA",
+            "CALIRA",
+            "FREGD",
+            "AURA",
+            "CLAR"
+          ]
+        },
+        {
+          "value": "animals",
+          "label": "Animals",
+          "words": [
+            "TGAUN",
+            "GAT",
+            "PESCH",
+            "ANDA",
+            "CAVAL",
+            "NURSA",
+            "VAURP",
+            "URS",
+            "LUF"
+          ]
+        },
+        {
+          "value": "home",
+          "label": "Chasa",
+          "words": [
+            "ISCH",
+            "SUTGA",
+            "LAMPA",
+            "LETG",
+            "TEPIZ",
+            "MAISA",
+            "CLAV",
+            "TECT",
+            "MUR"
+          ]
+        }
+      ]
+    },
+    "conversation": {
+      "themes": {
+        "all": "Tut las cartas",
+        "food": "Mangiativa",
+        "home": "Da chasa",
+        "outdoors": "En la natira",
+        "animals": "Animals",
+        "travel": "Viagis",
+        "work": "Lavur e passatemps",
+        "music": "Musica e legria",
+        "seasons": "Stagiuns"
+      },
+      "cards": [
+        {
+          "theme": "food",
+          "picture": "bread",
+          "prompt": "Tge savur ord cuschina plascha a Vus il pli fitg?"
+        },
+        {
+          "theme": "food",
+          "picture": "cake",
+          "prompt": "Tge gener da torta schess a Vus per ina festa?"
+        },
+        {
+          "theme": "food",
+          "picture": "apple",
+          "prompt": "Raquintai d'ina turta da fritgs u d'in dessert che Vus mangiais gugent."
+        },
+        {
+          "theme": "food",
+          "picture": "teacup",
+          "prompt": "Co bavais Vus il pli gugent Voss te u café?"
+        },
+        {
+          "theme": "food",
+          "picture": "frying-pan",
+          "prompt": "Tge tutga tar in bun ensolver?"
+        },
+        {
+          "theme": "food",
+          "picture": "strawberry",
+          "prompt": "Avais Vus gia rimnà fritgs directamain da la planta?"
+        },
+        {
+          "theme": "food",
+          "picture": "lemon",
+          "prompt": "Dultsch u asch: tge avais Vus pli gugent?"
+        },
+        {
+          "theme": "food",
+          "picture": "cherries",
+          "prompt": "Tge mangiativa ha per Vus il gust da la stad?"
+        },
+        {
+          "theme": "home",
+          "picture": "house",
+          "prompt": "Raquintai d'ina chasa nua che Vus avais vivì gugent."
+        },
+        {
+          "theme": "home",
+          "picture": "armchair",
+          "prompt": "Nua sesais Vus il pli gugent per As posar?"
+        },
+        {
+          "theme": "home",
+          "picture": "lamp",
+          "prompt": "Tge faschais Vus gugent durant ina saira quieta?"
+        },
+        {
+          "theme": "home",
+          "picture": "key",
+          "prompt": "Tge custaivlezza tegnissas Vus en ina scatla speziala?"
+        },
+        {
+          "theme": "home",
+          "picture": "kettle",
+          "prompt": "Tgi envidassas Vus gugent per ina chicra da te?"
+        },
+        {
+          "theme": "home",
+          "picture": "umbrella",
+          "prompt": "Tge faschais Vus gugent cura ch'i plova?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sunflower",
+          "prompt": "Tge flurs piantassas Vus en in giardin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tree",
+          "prompt": "Raquintai d'ina planta u d'in parc che Vus stimais."
+        },
+        {
+          "theme": "outdoors",
+          "picture": "watering-can",
+          "prompt": "Tge è il pli bel vi dad esser en il giardin?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "tulip",
+          "prompt": "Tge colur da flurs As plascha il pli fitg?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "potted-plant",
+          "prompt": "Avais Vus gugent plantas en chasa?"
+        },
+        {
+          "theme": "outdoors",
+          "picture": "sun",
+          "prompt": "Co vesa ora per Vus in di da sulagl perfetg?"
+        },
+        {
+          "theme": "animals",
+          "picture": "dog",
+          "prompt": "Raquintai d'in tgaun che Vus avais enconuschì."
+        },
+        {
+          "theme": "animals",
+          "picture": "cat",
+          "prompt": "Gats u tgauns, u nagins dad els? Tge As plascha vi dad els?"
+        },
+        {
+          "theme": "animals",
+          "picture": "bird",
+          "prompt": "Tge utschens vesais u udis Vus dadora?"
+        },
+        {
+          "theme": "animals",
+          "picture": "fish",
+          "prompt": "Essas Vus gia stads a pestgar, u avais gì in aquari?"
+        },
+        {
+          "theme": "animals",
+          "picture": "butterfly",
+          "prompt": "Tge è stà il pli bel animal che Vus avais mai vis?"
+        },
+        {
+          "theme": "travel",
+          "picture": "car",
+          "prompt": "Raquintai d'in auto che As plascheva."
+        },
+        {
+          "theme": "travel",
+          "picture": "sailboat",
+          "prompt": "Passassas Vus in di pli gugent a la mar u en las muntognas?"
+        },
+        {
+          "theme": "travel",
+          "picture": "bicycle",
+          "prompt": "Nua giavischassas Vus da far in gir?"
+        },
+        {
+          "theme": "travel",
+          "picture": "balloon",
+          "prompt": "Sche Vus pudessas sgular sur in lieu, tge lieu fiss quai?"
+        },
+        {
+          "theme": "travel",
+          "picture": "lighthouse",
+          "prompt": "Raquintai d'in viadi che Vus avais festivà."
+        },
+        {
+          "theme": "work",
+          "picture": "key",
+          "prompt": "Tge lavur avais Vus fatg gugent en Vossa vita?"
+        },
+        {
+          "theme": "work",
+          "picture": "watering-can",
+          "prompt": "Tar tge passatemp pudessas Vus emblidar il temp?"
+        },
+        {
+          "theme": "work",
+          "picture": "bread",
+          "prompt": "Per tge fessas Vus enconuschents da far u da reparar?"
+        },
+        {
+          "theme": "work",
+          "picture": "house",
+          "prompt": "Tge cussegl dassas Vus ad ina giuvna persuna che entschaiva a lavurar?"
+        },
+        {
+          "theme": "music",
+          "picture": "balloon",
+          "prompt": "Tar tge musica survegnis Vus vargugna da batter il tact cun ils pes?"
+        },
+        {
+          "theme": "music",
+          "picture": "cake",
+          "prompt": "Tge renda ina festa propi empernaivla?"
+        },
+        {
+          "theme": "music",
+          "picture": "lamp",
+          "prompt": "Tgi è in chantadur u ina chantadura che Vus udis gugent?"
+        },
+        {
+          "theme": "music",
+          "picture": "armchair",
+          "prompt": "Tge film u emissiun guardais Vus gugent danovamain?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "sun",
+          "prompt": "Tge As plascha il pli fitg da la stad?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tree",
+          "prompt": "Tge stimais Vus da l'atun?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "moon",
+          "prompt": "Tge fa bain durant ina saira d'unviern?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "tulip",
+          "prompt": "Tge èn per Vus ils emprims segns da la primavaira?"
+        },
+        {
+          "theme": "seasons",
+          "picture": "umbrella",
+          "prompt": "Naiv, plievgia u sulagl: tge avais Vus il pli gugent?"
+        }
+      ]
+    },
+    "coloring": {
+      "pages": {
+        "flower": {
+          "name": "Flur en vasch",
+          "regions": {
+            "sky": "Fund",
+            "table": "Maisa",
+            "stem": "Monel",
+            "leaf-left": "Feglia sanestra",
+            "leaf-right": "Feglia dretga",
+            "petal-1": "Feglietta 1",
+            "petal-2": "Feglietta 2",
+            "petal-3": "Feglietta 3",
+            "petal-4": "Feglietta 4",
+            "petal-5": "Feglietta 5",
+            "petal-6": "Feglietta 6",
+            "petal-7": "Feglietta 7",
+            "petal-8": "Feglietta 8",
+            "center": "Miez da la flur",
+            "pot": "Vasch",
+            "pot-rim": "Ur dal vasch"
+          }
+        },
+        "house": {
+          "name": "Chasa",
+          "regions": {
+            "sky": "Tschiel",
+            "sun": "Sulagl",
+            "grass": "Ierba",
+            "chimney": "Chamin",
+            "walls": "Murs",
+            "roof": "Tect",
+            "door": "Isch",
+            "window-left": "Fanestra sanestra",
+            "window-right": "Fanestra dretga",
+            "path": "Sendadira"
+          }
+        },
+        "teacup": {
+          "name": "Chicra da te",
+          "regions": {
+            "background": "Fund",
+            "saucer": "Sottabuvida",
+            "handle": "Ansa",
+            "cup": "Chicra",
+            "band": "Strivla sin la chicra",
+            "tea": "Te"
+          }
+        },
+        "butterfly": {
+          "name": "Tgiralla",
+          "regions": {
+            "background": "Fund",
+            "wing-top-left": "Ala sura sanestra",
+            "wing-top-right": "Ala sura dretga",
+            "wing-bottom-left": "Ala sut sanestra",
+            "wing-bottom-right": "Ala sut dretga",
+            "spot-left": "Punct da l'ala sanestra",
+            "spot-right": "Punct da l'ala dretga",
+            "body": "Corp"
+          }
+        },
+        "sailboat": {
+          "name": "Bartga a vela",
+          "regions": {
+            "sky": "Tschiel",
+            "sea": "Mar",
+            "sail-big": "Vela gronda",
+            "sail-small": "Vela pitschna",
+            "mast": "Mast",
+            "hull": "Bartga",
+            "flag": "Bandiera"
+          }
+        }
+      }
+    },
+    "sorting": {
+      "themes": {
+        "kitchen-garden": {
+          "label": "Cuschina e giardin",
+          "baskets": [
+            "En la cuschina",
+            "En l'horti"
+          ]
+        },
+        "fruit-animals": {
+          "label": "Fritgs e animals",
+          "baskets": [
+            "Fritgs",
+            "Animals"
+          ]
+        },
+        "home-travel": {
+          "label": "Chasa e viadi",
+          "baskets": [
+            "A chasa",
+            "Fora en viadi"
+          ]
+        }
+      }
+    }
+  }
+}

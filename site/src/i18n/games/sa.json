@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "चित्रयुग्मानि",
+    "seoTitle": "स्मृतिभ्रंशार्थं मेलनक्रीडा: चित्रयुग्मानि",
+    "h1": "चित्रयुग्मानि: मृदु मेलनक्रीडा",
+    "description": "स्मृतिभ्रंशेन सह जीवतां जनानां कृते निःशुल्का मृदु मेलनक्रीडा। बृहन्ति चित्राणि सदा दृश्यन्ते, न कालमापकं न च अङ्कपत्रम्। 4 से 12 फलकानि भवान् चिनोति।",
+    "short": "तौ चित्रौ अन्विष्य स्पृशत यौ समानौ स्तः। चित्राणि दृश्यमानानि तिष्ठन्तु।",
+    "players": "1 या 2 जनाः, पार्श्वयोः उपविष्टाः",
+    "intro": "एकं चित्रं स्पृशत, ततः तत्सदृशं चित्रं स्पृशत। चित्राणि डिफॉल्ट्या दृश्यमानानि तिष्ठन्ति, अतः किमपि स्मर्तव्यं नास्ति। युग्मं मिलति चेत् तयोः स्वर्णवर्णा सीमा चिह्नं च दृश्यते।",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "कति फलकानि उपयोक्तव्यानि इति चिनुत। चत्वारि फलकानि शान्तः आरम्भः।",
+      "कस्मिंश्चित् चित्रे स्पृशत। तस्य सीमा स्वर्णवर्णा भवति।",
+      "तत्सदृशं चित्रं स्पृशत। युग्मं चिह्नेन सह एकत्र तिष्ठति।",
+      "चित्रे भिन्ने चेत् न किमपि अनिष्टं भवति। यदा इच्छथ तदा पुनः स्पृशत।",
+      "\"गूढचित्राणि\" केवलं तदा चालयत यदा उभौ अधोमुखफलकानां पुरातनरूपं रोचेते।"
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "चित्राणि एकत्र उच्चैः नामयत, वार्तालापं च कुरुत: \"रक्तवर्णः चषकः। किं भवान् चायं दुग्धेन सह पिबति?\"",
+      "परिचरणीयः जनः स्वयं स्पृशतु, यद्यपि कालः अधिकः स्यात्। तस्य कृते स्पर्शात् पूर्वं अङ्गुल्या निर्दिशत।",
+      "यावत् सुखं भवति तावत् चत्वारि फलकानि एव उपयोजयत। अधिकानि फलकानि स्वेच्छया भवन्ति, कदापि लक्ष्यं न।",
+      "सुखेन सम्पन्नायां सत्यां क्रीडां समापयत। एका क्रीडा पूर्णं कार्यम् अस्ति।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "किं कालमापकं वा अङ्कपत्रं वा अस्ति?",
+        "a": "नास्ति। न घटी, न अङ्कः, न चालनसङ्ख्या, न पराजयः। यदा इच्छथ तदा विरमितुं शक्यते, अर्धपथे विरामः अपि उत्तमः समापनमार्गः।"
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "चित्राणि सदा दृश्यमानानि किमर्थम्?",
+        "a": "दृश्यमानानि चित्राणि क्रीडां दर्शनात् मेलनं प्रति नयन्ति, स्मरणं प्रति न। बहवः एतत् शान्ततरम् अनुभवन्ति। इच्छा चेत् एकेन स्पर्शेन \"गूढचित्राणि\" इति परिवर्तयितुं शक्यते।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "किं निःशुल्कम्? पञ्जीकरणम् आवश्यकम् किम्?",
+        "a": "आम्, निःशुल्कम्। खाता, पञ्जीकरणं वा अवतरणं (डाउनलोड) न आवश्यकम्। दूरभाषे, स्पर्शफलके वा सङ्गणके जालसंचारके कार्यं करोति।"
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "स्वकीयानां कुटुम्बचित्राणि उपयोक्तुं शक्यानि किम्?",
+        "a": "आम्। \"छायाचित्रयुग्मानि\" इति चिनुत, यत्र स्वस्य उपकरणात् चित्राणि चिनोति। चित्राणि जालसंचारके एव तिष्ठन्ति, न अपलोड्यन्ते।"
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "तत्सदृशम् अन्विष्यताम्",
+    "seoTitle": "तत्सदृशं चित्रम् अन्विष्यताम्: स्मृतिभ्रंशार्थं सरला क्रीडा",
+    "h1": "तत्सदृशं चित्रम् अन्विष्यताम्",
+    "description": "शीर्षे एकं चित्रम्, अधः द्वे अथवा चत्वारि। तत्सदृशं स्पृशत। स्मृतिभ्रंशेन सह जीवतां जनानां कृते शान्ता निःशुल्का चित्रक्रीडा, कालमापकं विना।",
+    "short": "शीर्षस्थं चित्रं पश्यत, अधः तत्सदृशं स्पृशत।",
+    "players": "1 या 2 जनाः",
+    "intro": "पर्दायाः शीर्षे एकं चित्रं तिष्ठति। तस्य अधः द्वे, त्रीणि अथवा चत्वारि चित्राणि सन्ति। तत्सदृशं स्पृशत। प्रतिवारं एकः सरलः चयनः, वार्तालापाय पर्याप्तः अवकाशः।",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "द्वे, त्रीणि अथवा चत्वारि चित्राणि चिनुत। द्वे सरलतमे।",
+      "शीर्षस्थं चित्रं एकत्र पश्यत।",
+      "अधः तत्सदृशं चित्रं स्पृशत। तत् चिह्नेन सह मृदुभिः शब्दैः चिह्नितं भवति।",
+      "यदि भिन्नं चित्रं स्पृश्यते, क्रीडा केवलं तत् नामयति, प्रतीक्षते च। धैर्यं धरत।",
+      "अन्यस्मै चित्राय सज्जाः स्थ चेत् \"अग्रिमं चित्रम्\" स्पृशत।"
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "चयनात् पूर्वं प्रत्येकं चित्रं विषये वदत: वर्णाः, आकाराः, कुत्र तत् दृश्येत।",
+      "द्वे चयनानि \"अतिसरलानि\" न। लक्ष्यं सुखद-क्षणः, आह्वानं न।",
+      "स्पर्शः कठिनः चेत् जनः अङ्गुल्या निर्दिशतु, भवान् तस्य कृते स्पृशतु।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "किं कालमापकं वा अङ्कपत्रं वा अस्ti?",
+        "a": "नास्ति। न घटी, न अङ्कः, न चालनसङ्ख्या, न पराजयः। यदा इच्छथ तदा विरमितुं शक्यते, अर्धपथे विरामः अपि उत्तमः समापनमार्गः।"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "भिन्नं चित्रं स्पृष्टं चेत् किं भवति?",
+        "a": "किमपि अप्रियं न। न ध्वनिः, न रक्तः कुशः, न कम्पः। क्रीडा स्पृष्टं चित्रं नामयति, अग्रिमस्पर्शं च प्रतीक्षते।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "किं निःशुल्कम्? पञ्जीकरणम् आवश्यकम् किम्?",
+        "a": "आम्, निःशुल्कम्। खाता, पञ्जीकरणं वा अवतरणं (डाउनलोड) न आवश्यकम्। दूरभाषे, स्पर्शफलके वा सङ्गणके जालसंचारके कार्यं करोति।"
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "छायामेलनम्",
+    "seoTitle": "छायामेलनक्रीडा स्मृतिभ्रंशार्थम्: निःशुल्का जालक्रीडा",
+    "h1": "छायामेलनम्: मृदु चित्रक्रीडा",
+    "description": "शीर्षे मृदुला छाया, अधः द्वे अथवा चत्वारि चित्राणि। यत् चित्रं छायां करोति तत् स्पृशत। स्मृतिभ्रंशेन सह जीवतां जनानां कृते निःशुल्का शान्ता छायामेलनक्रीडा, कालमापकं विना।",
+    "short": "छायां पश्यत, तां करोति इति चित्रं स्पृशत।",
+    "players": "1 या 2 जनाः",
+    "intro": "छायामेलनं मुद्रितपत्रकेभ्यः परिचितः अभ्यासः, अत्र बृहत्चित्रैः सह, मुद्रणम् आवश्यकं न। पर्दायाः शीर्षे मृदुला छाया तिष्ठति, अधः द्वे, त्रीणि अथवा चत्वारि चित्राणि प्रतीक्षन्ते। यत् चित्रं छायां करोति तत् स्पृशत। छत्रम्, चक्रयानम् अथवा चषकः इत्यादीनि आकृतयः वार्तालापाय सुलभाः।",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "द्वे, त्रीणि अथवा चत्वारि चित्राणि चिनुत। द्वे सरलतमे।",
+      "छायां एकत्र पश्यत। कः आकारः? दीर्घः अथवा वृत्तः?",
+      "छायां करोति तत् चित्रं स्पृशत। तस्य नाम छायायाः अधः दृश्यते।",
+      "भिन्नं चित्रं स्पृष्टं चेत् क्रीडा तत् नामयति, प्रतीक्षते च। धैर्यं धरत।",
+      "अन्यछायायै सज्जाः स्थ चेत् \"अग्रिमा छाया\" स्पृशत।"
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "छायायाः रेखां अङ्गुल्या अनुसरत, आकारविषये वदत।",
+      "अद्य छायाः कठिनाः चेत् \"तत्सदृशम् अन्विष्यताम्\" इति क्रीडां परिवर्तयत, यत्र चित्राणि परस्परं सदृशानि।",
+      "चित्रं लब्धे सति तस्मिन् वदत: \"अस्माकम् एतादृशः छत्रः आसीत्।\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "किं कालमापकं वा अङ्कपत्रं वा अस्ति?",
+        "a": "नास्ति। न घटी, न अङ्कः, न चालनसङ्ख्या, न पराजयः। यदा इच्छथ तदा विरमितुं शक्यते, अर्धपथे विरामः अपि उत्तमः समापनमार्गः।"
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "किं छाया-मेलनं स्मृतिलोपेन सह जीवतां जनानां कृते हितकरम् अस्ति?",
+        "a": "केषाञ्चित् जनानां कृते, विशेषतः आरम्भिके चरणे, एषा एका सुखा सरला च क्रिया भवितुम् अर्हति। शब्दानाम् अपेक्षया आकाराणां परिज्ञानं सुकरं भवति। एतत् केवलम् आनन्दाय सम्भाषणाय च अस्ति, न तु काचित् परीक्षा; तथा च एतेन स्मृतिलोपस्य चिकित्सा वा तस्य गतिन्यूनता वा न भवति। यदि एतेन खेदः उत्पद्यते, तर्हि 'समानं अन्विष्यतु' इति प्रयतन्ताम् अथवा केवलं सहैव चित्राणि पश्यन्तु।"
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "यदि अशुद्धं चित्रं स्पृश्यते तर्हि किं भवति?",
+        "a": "अप्रियं किमपि न घटते। अत्र कोऽपि तीव्रध्वनिः, रक्तवर्णस्य क्रॉस्-चिह्नं वा कम्पनं वा न भवति। इदं क्रीडनं स्पृष्टस्य चित्रस्य नाम उच्चारयति अनन्तरस्पर्शस्य च प्रतीक्षां करोति।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "किम् एतत् निःशुल्कम् अस्ति, किं मया पञ्जीकरणं करणीयम्?",
+        "a": "आम्, एतत् निःशुल्कम् अस्ति, तथा च अत्र न किमपि खाता, न पञ्जीकरणं, न वा अवतरणम् आवश्यकम्। एतत् दूरवाण्यां, पट्टकगणके वा सङ्गणके वा जालगवाक्षे कार्यं करोति।"
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "सहैव वर्गीकुर्वन्तु",
+    "seoTitle": "स्मृतिलोपाय वर्गीकरणक्रीडनम्: सहैव वर्गीकुर्वन्तु",
+    "h1": "सहैव वर्गीकुर्वन्तु: चित्रवर्गीकरणस्य एका क्रिया",
+    "description": "चित्रम् एकं स्पृशन्तु, ततः तत् यत्र योग्यं तस्यां कण्डोलायां स्पृशन्तु: पाकशाला वा उद्यानम्, फलानि वा पशवः। स्मृतिलोपेन सह जीवतां जनानां कृते एषा एका शान्ता, निःशुल्का वर्गीकरणक्रिया।",
+    "short": "प्रत्येकं चित्रं तस्य कण्डोलायां स्थापयन्तु: पाकशाला वा उद्यानम्, अन्यानि च।",
+    "players": "1 वा 2 जनौ",
+    "intro": "वर्गीकरणं परिचितं तृप्तिदायकं च प्रतिदिनस्य कार्यं भवति, यथा शाकादिवस्तूनां यथास्थानं स्थापनं वा पादकोषाणां युगलकरणम्। चित्रं स्पृशन्तु, ततः तत् यत्र योग्यं तस्यां कण्डोलायां स्पृशन्तु। अत्र न किमपि शीघ्रता, न च कोऽपि दोषः।",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "विषयम् एकं चिन्वन्तु: पाकशाला उद्यानञ्च, फलानि पशवश्च, अथवा गृहं यात्रा च।",
+      "चित्रम् एकं स्पृशन्तु। तस्य सुवर्णवर्णीया सीमा दृश्यते।",
+      "तत् यस्यां कण्डोलायां योग्यं तां स्पृशन्तु। चित्रं तस्यां कण्डोलायां गमिष्यति।",
+      "यदि तत् अपरस्यां कण्डोलायां योग्यं भवति, तर्हि क्रीडनं सौम्यतया तद् बोधयति प्रतीक्षां च करोति।",
+      "यदा सर्वाणि चित्राणि वर्गीकृतानि भवन्ति, तदा मिलित्वा कण्डोलासु पश्यन्तु।"
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "वास्तविकजीवने प्रायः किमपि उत्तरम् अशुद्धं न भवति। यदि कश्चित् वदति यत् जलसेचनपात्रं पाकशालायां भवितव्यम् इति, तर्हि कारणं पृच्छन्तु। भवद्भिः एका सुन्दरी कथा श्रूयेत।",
+      "चित्राणाम् उपयोगेन सम्भाषणम् आरभन्ताम्: \"भवता स्वोद्याने किं रोपितम् आसीत्?\"",
+      "पटलात् बहिः वास्तविकवस्तूनां वर्गीकरणम्, यथा चमसानां वा वर्णानुसारं गुल्फिकानां, तदनन्तरं कर्तुम् उत्तमा क्रिया अस्ति।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "किम् अत्र समयमापकः वा अङ्काः वा सन्ति?",
+        "a": "न। अत्र न घटी, न अङ्काः, न चाल-गणना, न च पराजयः। भवन्तः कस्मिन्नपि क्षणे विरन्तुं शक्नुवन्ति, तथा च मध्ये एव विरमणम् अपि सम्पूर्णतायाः उत्तमः मार्गः अस्ति।"
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "वर्गीकरणं किमर्थम्?",
+        "a": "बहवः जनाः वर्गीकरणे आनन्दम् अनुभवन्ति यतः एतत् उपयोगी परिचितं च कार्यम् इव भासते। अपि च क्रीडनेन सह चित्राणां विषये वार्तालापः सुलभः भवति।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "किम् एतत् निःशुल्कम् अस्ति, किं मया पञ्जीकरणं करणीयम्?",
+        "a": "आम्, एतत् निःशुल्कम् अस्ति, तथा च अत्र न किमपि खाता, न पञ्जीकरणं, न वा अवतरणम् आवश्यकम्। एतत् दूरवाण्यां, पट्टकगणके वा सङ्गणके वा जालगवाक्षे कार्यं करोति।"
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "चित्र-प्रहेलिका",
+    "seoTitle": "स्मृतिलोपाय सरला चित्र-प्रहेलिका: 4 वा 9 खण्डाः",
+    "h1": "चित्र-प्रहेलिका: एका सरला प्रहेलिका",
+    "description": "स्मृतिलोपेन सह जीवतां जनानां कृते एका सरला अन्तर्जाल-प्रहेलिका: 4 वा 9 बृहन्तः खण्डाः, सम्पूर्णं चित्रं दृश्यमानं तिष्ठति, तथा च परस्परं स्थानपरिवर्तनाय खण्डद्वयं स्पृशन्तु।",
+    "short": "यावत् चित्रं सम्पूर्णं न भवति, तावत् परस्परं स्थानपरिवर्तनाय खण्डद्वयं स्पृशन्तु।",
+    "players": "1 वा 2 जनौ",
+    "intro": "एकं मनोहरं चित्रं चतुर्षु वा नवसु वा बृहत्सु खण्डेषु विभज्य मिश्रितं क्रियते। मार्गदर्शकरूपेण सम्पूर्णं चित्रं दृश्यमानं तिष्ठति। एकं खण्डं स्पृशन्तु, ततः अपरं च, तयोः स्थानपरिवर्तनं भवति। खण्डानाम् आकर्षणं न आवश्यकम्।",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "चित्रम् एकं तथा 4 वा 9 खण्डान् चिन्वन्तु। चत्वारः खण्डाः सरलो सुखदश्च आरम्भः।",
+      "उपरि स्थितं सम्पूर्णं चित्रं पश्यन्तु।",
+      "एकं खण्डं स्पृशन्तु, ततः तत् यत्र गन्तव्यं तत् स्थानं स्पृशन्तु। तयोः खण्डयोः स्थानपरिवर्तनं भवति।",
+      "उचिते स्थाने स्थिताः खण्डाः लघु शुद्धचिह्नं प्राप्नुवन्ति।",
+      "यदा चित्रं सम्पूर्णं भवति, तदा मिलित्वा तस्य आनन्दम् अनुभवन्तु, ततः अन्यत् चिन्वन्तु।"
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "बहूनां जनानां कृते खण्डानाम् आकर्षणापेक्षया केवलं स्पर्शेन स्थानपरिवर्तनं बहु सुलभं भवति।",
+      "चित्रस्य संयोजनेन सह तद्विषये सम्भाषणं कुर्वन्तु: \"तत्र रक्तवर्णीयं छदिः अस्ति।\"",
+      "उत्पीठिकायां 12 तः 24 बृहत्काष्ठखण्डैः युक्ता प्रहेलिका अपि एका मनोहरा क्रिया अस्ति।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "किम् अत्र समयमापकः वा अङ्काः वा सन्ति?",
+        "a": "न। अत्र न घटी, न अङ्काः, न चाल-गणना, न च पराजयः। भवन्तः कस्मिन्नपि क्षणे विरन्तुं शक्नुवन्ति, तथा च मध्ये एव विरमणम् अपि सम्पूर्णतायाः उत्तमः मार्गः अस्ति।"
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "किं मया खण्डाः आकर्षणीयाः?",
+        "a": "न। एकं खण्डं स्पृशन्तु, ततः अपरं स्पृशन्तु, तयोः स्थानपरिवर्तनं भवति। कम्पमानेन हस्तेन वा लघु-पटले वा एतत् अधिकं सुलभं भवति।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "किम् एतत् निःशुल्कम् अस्ति, किं मया पञ्जीकरणं करणीयम्?",
+        "a": "आम्, एतत् निःशुल्कम् अस्ति, तथा च अत्र न किमपि खाता, न पञ्जीकरणं, न वा अवतरणम् आवश्यकम्। एतत् दूरवाण्यां, पट्टकगणके वा सङ्गणके वा जालगवाक्षे कार्यं करोति।"
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "लोकोक्तिं पूरयन्तु",
+    "seoTitle": "लोकोक्तिं पूरयन्तु: ज्येष्ठानां कृते सूक्ति-क्रीडनम्",
+    "h1": "लोकोक्तिं पूरयन्तु",
+    "description": "परिचिताः प्रसिद्धाः लोकोक्तयः यत्र अन्तिमः शब्दः लुप्तः अस्ति, यथा \"रक्षितं धनम् अर्जितं धनम् ___\"। विकल्पम् एकं स्पृशन्तु अथवा अन्तिमं भागं दर्शयन्तु, ततः तद्विषये सम्भाषणं कुर्वन्तु।",
+    "short": "मिलित्वा परिचिताः लोकोक्तीः पूरयन्तु, ततः तासां विषये सम्भाषणं कुर्वन्तु।",
+    "players": "1, 2 वा जनसमूहः",
+    "intro": "पुरातनाः लोकोक्तयः प्रायः जीवनपर्यन्तं स्मृतौ तिष्ठन्ति। प्रत्येकं पत्रकं परिचिताम् एकां लोकोक्तिं दर्शयति यस्याम् अन्तिमः शब्दः लुप्तः अस्ति, त्रीन् विकल्पान्, तथा च \"अन्त्यं दर्शयतु\" इति कुञ्चिकाम्। अन्त्यदर्शनानन्तरम्, एकः सौम्यः प्रश्नः सम्भाषणाय प्रेरयति।",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "मिलित्वा लोकोक्तिम् उच्चैः पठन्तु।",
+      "तां पूरयन्तं शब्दं स्पृशन्तु, अथवा \"अन्त्यं दर्शयतु\" इति स्पृशन्तु।",
+      "सम्पूर्णां लोकोक्तिं पुनः पठन्तु तथा च दत्तस्य प्रश्नस्य साहाय्येन तद्विषये सम्भाषणं कुर्वन्तु।",
+      "यदा सिद्धाः भवन्ति तदा \"अग्रिमा लोकोक्तिः\" इति स्पृशन्तु।"
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "मन्दं पठन्तु तथा च अन्तिमशब्दात् पूर्वं किञ्चित् विरमन्तु। प्रायः भवतां समापनात् पूर्वमेव जनाः तं वदन्ति।",
+      "यदि कश्चित् भिन्नम् अन्त्यं वदति, तर्हि तत्र आनन्दम् अनुभवन्तु। लोकोक्तीनां केचन प्रकाराः कुटुम्बानुसारं प्रदेशानुसारं वा भिन्नाः भवन्ति।",
+      "समूहे, एकः जनः पठति अन्ये सर्वे च अन्तिमे शब्दे सम्मेलन्ति।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "किम् अत्र समयमापकः वा अङ्काः वा सन्ति?",
+        "a": "न। अत्र कालमापकं, अङ्कः, चालगणना वा पराजयः नास्ति। भवान् यदा इच्छति तदा विरमितुं शक्नोति, मध्ये विरामः अपि उत्तमः समाप्तिमार्गः एव अस्ति।"
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "यदि वयं अन्यं शब्दं चिनुमः तर्हि किम्?",
+        "a": "क्रीडा सामान्यम् अन्तं दर्शयति, ततः सम्भाषणं प्रति गच्छति। अङ्कः नास्ति, भिन्नम् उत्तरम् अपि समीचीनम् अस्ति।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "किम् एतत् निःशुल्कम् अस्ति, किं पञ्जीकरणं करणीयम्?",
+        "a": "आम्, एतत् निःशुल्कम् अस्ति; खातं, पञ्जीकरणं वा अवतरणं (डाउनलोड्) न आवश्यकम्। एतत् दूरभाषे, पट्टिकायां (टैब्लेट्) वा सङ्गणके जालाटनीयां (वेब-ब्राउजर्) चलति।"
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "बृहत्-अक्षर-शब्दान्वेषणम्",
+    "seoTitle": "स्मृतिभ्रंशार्थं बृहत्-अक्षर-शब्दान्वेषणम्, मुद्रणयोग्यम्",
+    "h1": "बृहत्-अक्षर-शब्दान्वेषणम्",
+    "description": "स्मृतिभ्रंशेन जीवतां वृद्धानां जनानां कृते निःशुल्कं बृहत्-अक्षर-शब्दान्वेषणम्। अल्पाः शब्दाः, बृहन्तः अक्षराः, केवलं पार्श्वतः दीर्घं च शब्दाः। जालपृष्ठे क्रीडतु अथवा मुद्रयतु।",
+    "short": "बृहन्तः अक्षराः, अल्पाः शब्दाः, केवलं पार्श्वतः अधश्च। इदम् अपि मुद्रयतु।",
+    "players": "1 अथवा 2 जनाः",
+    "intro": "बृहद्भिः अक्षरैः युक्तं लघु फलकं, कतिपयैः शब्दैः सह; सर्वे शब्दाः पार्श्वतः अथवा अधः पठ्यन्ते। शब्दस्य प्रथमम् अक्षरं स्पृशतु, ततः अन्तिमम्। पत्रे रुचिः? एकेन स्पर्शेन नवं क्रीडाफलकं मुद्रयतु।",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "विषयं फलकस्य आकारं च चिनुतु।",
+      "शब्दसूचीं पश्यतु। शब्दाः पार्श्वतः (वामात् दक्षिणम्) अथवा अधः (ऊर्ध्वात् अधः) पठ्यन्ते।",
+      "शब्दस्य प्रथमम् अक्षरं स्पृशतु, ततः अन्तिमम् अक्षरं स्पृशतु।",
+      "लब्धः शब्दः प्रकाशितः भवति, सूचीतः च अपनीयते।",
+      "पत्रे लेखनिना वा मार्कर-लेखन्या क्रीडितुं “इमं क्रीडाफलकं मुद्रयतु” इति स्पृशतु।"
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "सूचीस्थं शब्दं निर्दिशतु, ततः सह तस्य प्रथमम् अक्षरम् अन्विष्यतु।",
+      "पत्रे प्रकाशकलेखनी (हाइलाइटर) लेखन्यपेक्षया सुग्रहा भवति।",
+      "विषयशब्दान् विषये वदतु। फलनामानि चयनस्य, पाकस्य, आपणस्य च स्मृतिषु स्वाभाविकं मार्गं दर्शयन्ति।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "किम् अत्र कालमापकः अथवा अङ्कः अस्ति?",
+        "a": "न। अत्र कालमापकं, अङ्कः, चालगणना वा पराजयः नास्ति। भवान् यदा इच्छति तदा विरमितुं शक्नोति, मध्ये विरामः अपि उत्तमः समाप्तिमार्गः एव अस्ति।"
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "किम् अहं शब्दान्वेषणं मुद्रयितुं शक्नोमि?",
+        "a": "आम्। “इमं क्रीडाफलकं मुद्रयतु” इति स्पृशतु, येन वर्तमानं फलकं बृहत्-अक्षरैः अधः शब्दसूच्या सह मुद्रितं भवेत्। प्रत्येकं नवं क्रीडाफलकं भिन्नं भवति।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "किम् एतत् निःशुल्कम् अस्ति, किं पञ्जीकरणं करणीयम्?",
+        "a": "आम्, एतत् निःशुल्कम् अस्ति; खातं, पञ्जीकरणं वा अवतरणं (डाउनलोड्) न आवश्यकम्। एतत् दूरभाषे, पट्टिकायां (टैब्लेट्) वा सङ्गणके जालाटनीयां (वेब-ब्राउजर्) चलति।"
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "वर्णलेपनपत्राणि",
+    "seoTitle": "स्मृतिभ्रंशयुक्तेभ्यः प्रौढेभ्यः वर्णलेपनपत्राणि (निःशुल्कम्)",
+    "h1": "वर्णलेपनपत्राणि",
+    "description": "प्रौढानां कृते सरलानि, बृहत्-क्षेत्रयुक्तानि वर्णलेपनपत्राणि: वर्णं स्पृशतु, ततः चित्रं स्पृशतु। न मलिनता, न अशुद्धवर्णाः, सर्वाणि पत्राणि निःशुल्कं मुद्रयितुं शक्यन्ते।",
+    "short": "वर्णं स्पृशतु, ततः चित्रस्य अंशं स्पृशतु। पत्राणि अपि मुद्रयतु।",
+    "players": "1 अथवा 2 जनाः",
+    "intro": "बृहत्-सरल-आकारयुक्तानि पत्राणि: कुण्डे पुष्पम्, गृहम्, चायपात्रम्, शलभः (तितली) नौका च। वर्णं स्पृशतु, ततः चित्रस्य अंशं स्पृशतु तं पूरयितुम्। अशुद्धवर्णाः नास्ति।",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "पत्रं चिनुतु।",
+      "वर्णं स्पृशतु। प्रत्येकस्य वर्णस्य नाम तत्र लिखितम् अस्ति।",
+      "चित्रस्य अंशं स्पृशतु, तं तेन वर्णेन पूरयितुम्।",
+      "यदा इच्छा तदा पुनः पूरयित्वा मनः परिवर्तयतु।",
+      "लेखनीभिः अथवा मार्कर-लेखनीभिः वर्णयितुं रिक्तपत्रार्थं “इदं पत्रं मुद्रयतु” इति स्पृशतु।"
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "यदि चयनं भारवत् भाति तर्हि सम्पूर्णवर्णसमूहस्य स्थाने द्वौ वर्णौ प्रस्तुतु।",
+      "बैंगनीवर्णाः वृक्षाः नीलवर्णाः सूर्याः च स्वागताः। अयं वर्णानां सुखेन आस्वादनार्थः, न यथार्थतायाः।",
+      "मुद्रितानि पत्राणि स्थूलैः मार्करैः वा वर्णखण्डैः (क्रेयॉन्) सुष्ठु भवन्ति, येषां ग्रहणं सुलभम्।"
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "किम् अत्र कालमापकः अथवा अङ्कः अस्ति?",
+        "a": "न। अत्र कालमापकं, अङ्कः, चालगणना वा पराजयः नास्ति। भवान् यदा इच्छति तदा विरमितुं शक्नोति, मध्ये विरामः अपि उत्तमः समाप्तिमार्गः एव अस्ति।"
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "किम् एतानि पत्राणि अतिबालिशानि सन्ति?",
+        "a": "वयं व्यङ्गचित्राणां स्थाने शान्तानि सरलानि वस्तूनि अङ्कितवन्तः, अतः पत्राणि प्रौढानाम् उचितानि। बृहत्-आकाराः वर्णलेपनं सुलभं कुर्वन्ति, बालिशं न कुर्वन्ति।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "किम् एतत् निःशुल्कम् अस्ति, किं पञ्जीकरणं करणीयम्?",
+        "a": "आम्, एतत् निःशुल्कम् अस्ति; खातं, पञ्जीकरणं वा अवतरणं (डाउनलोड्) न आवश्यकम्। एतत् दूरभाषे, पट्टिकायां (टैब्लेट्) वा सङ्गणके जालाटनीयां (वेब-ब्राउजर्) चलति।"
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "सम्भाषणपत्रकाणि",
+    "seoTitle": "स्मृतिभ्रंशार्थं सम्भाषणारम्भकाः: चित्रपत्रकाणि",
+    "h1": "सम्भाषणपत्रकाणि",
+    "description": "स्मृतिभ्रंशेन जीवतां जनानां कृते मृदुसम्भाषणारम्भकयुक्तानि चित्रपत्रकाणि: परीक्षा नास्ति, शुद्धोत्तराणि न सन्ति। पर्दे उपयुज्यतु अथवा सम्पूर्णं सङ्ग्रहं मुद्रयतु।",
+    "short": "मृदवः विवृताः प्रश्नाः चित्रपत्रकेषु। परीक्षा नास्ति।",
+    "players": "2 जनाः अथवा समूहः",
+    "intro": "प्रत्येकं पत्रकं परिचितचित्रं सम्भाषणाय विवृतम् आमन्त्रणं च योजयति, यथा “भवतः प्रियः ऋतुः कः?” इति। शुद्धोत्तराणि न सन्ति, स्मर्तव्यं किमपि न। विषयं चिनुतु अथवा सर्वाणि मिश्रयतु।",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "विषयं चिनुतु, अथवा “सर्वाणि पत्रकाणि” इति स्थापयतु।",
+      "प्रश्नं उच्चैः पठतु, सह चित्रं पश्यतु।",
+      "शृणुतु, स्वोत्तरं वदतु, सम्भाषणं यथेच्छं प्रसरतु।",
+      "सज्जः भवन् “अग्रिमं पत्रकम्” इति स्पृशतु, अथवा यावत् इच्छा तावत् एकस्मिन् पत्रके तिष्ठतु।",
+      "पत्रमयं सङ्ग्रहं छेदयितुं “सर्वाणि पत्रकाणि मुद्रयतु” इति स्पृशतु।"
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "प्रश्नस्य उत्तरं स्वयमपि वदतु। एतत् संवादः इव भाति, न साक्षात्कारः इव।",
+      "कथां अनुसरतु, तथ्यम् न। विवरणाः परिवर्तन्ते चेत् तत् सम्यक्।",
+      "यदि पत्रकं किञ्चित् दुःखदं स्पृशति, भावनां स्वीकुरु, मृदु अन्यस्मिन् पत्रके गच्छतु।"
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "कुतः “किं भवान् स्मरति…?” इति प्रश्नाः न सन्ति?",
+        "a": "स्मृतिं परीक्षमाणाः प्रश्नाः परीक्षा इव भासन्ते, लज्जां च जनयन्ति। “मम वदतु…” इत्यादयः विवृताः आमन्त्रणाः कोऽपि यत् स्मरति तेन सह सम्मिलितुं शक्नोति।"
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "किम् अहं पत्रकानि मुद्रयितुं शक्नोमि?",
+        "a": "आम्। “सर्वाणि पत्रकाणि मुद्रयतु” इति सम्पूर्णं सङ्ग्रहं बृहत्-अक्षरैः, प्रतिपत्रं अनेकानि पत्रकानि इति मुद्रयति, छेदनाय सज्जम्।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "किम् एतत् निःशुल्कम् अस्ति, किं पञ्जीकरणं करणीयम्?",
+        "a": "आम्, इदं निःशुल्कम् अस्ति, तथा च अत्र लेखा-पञ्जीकरणं वा किमपि अवतरणं नावश्यकम्। इदं दूरभाषे, पट्टके वा सङ्गणके जाल-अन्वेषके साक्षात् प्रवर्तते।"
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "चित्र-युग्मानि",
+    "seoTitle": "पारिवारिक-चित्रैः युग्म-मेलन-क्रीडां रचयन्तु",
+    "h1": "चित्र-युग्मानि: स्वचित्राणां मेलनं कुर्वन्तु",
+    "description": "स्वस्य पारिवारिक-चित्राणि सरलायां मेलन-क्रीडायां परिवर्तयन्तु। स्वोपकरणे 2 तः 6 चित्राणि चिन्वन्तु; तानि भवताम् अन्वेषके एव तिष्ठन्ति, कुत्रापि न प्रेष्यन्ते।",
+    "short": "स्वचित्राणि चिन्वन्तु तथा मेलयन्तु। किमपि कुत्रापि न प्रेष्यते।",
+    "players": "2 जनौ, पार्श्वे उपविश्य",
+    "intro": "स्वदूरभाषतः, पट्टकात् अथवा सङ्गणकात् द्वौ वा षट् यावत् चित्राणि चिन्वन्तु, तानि बृहत्सु स्पष्टेषु चित्रेषु मेलन-क्रीडारूपेण परिवर्तितानि भविष्यन्ति। चित्राणि केवलम् अस्मिन् पृष्ठे एव दृश्यन्ते। तानि न कुत्रापि प्रेष्यन्ते, न सङ्गृह्यन्ते, न वा अन्यैः सह संविभज्यन्ते; पृष्ठस्य पिधानेन तानि स्वयमेव विलीयन्ते।",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "\"चित्राणि चिन्वन्तु\" इति स्पृशन्तु तथा च द्वौ वा षट् यावत् चित्राणि चिन्वन्तु।",
+      "प्रत्येकं चित्रं वारद्वयं दृश्यते। एकं चित्रं स्पृशन्तु, ततः तस्य युग्मं स्पृशन्तु।",
+      "चित्रस्य प्राप्तावसरं तद्विषये सम्भाषणं कुर्वन्तु।",
+      "समाप्ते सति, पृष्ठं पिदधतु अथवा \"चित्राणि निष्कासयन्तु\" इति स्पृशन्तु। किमपि न रक्ष्यते।"
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "प्रसन्नतापूर्ण-परिचित-विषयाणां स्पष्टानि चित्राणि चिन्वन्तु: यथा गृहपशुः, उद्यानम्, प्रियं स्थानम्, अथवा विवाह-दिनम्।",
+      "मुखेभ्यः स्थानानां वस्तूनां च चित्राणि सरळतराणि भवितुम् अर्हन्ति, तथा च एतेन जनानां नामानि स्मर्तुं कोऽपि दबावः न भवति।",
+      "दिवङ्गतानां व्यक्तीनां चित्राणि यदि अकस्मात् दुःखं जनयितुं शक्नुवन्ति तर्हि तानि त्यजन्तु, यदि तानि मनःशान्तिं सुखं च प्रयच्छन्ति तर्हि योजयितुं शक्नुवन्ति।"
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "किं मम चित्राणि कुत्रापि प्रेष्यन्ते?",
+        "a": "न। इदं पृष्ठं भवद्भिः चितानि चित्राणि साक्षात् भवताम् अन्वेषके एव पठति तथा फलके दर्शयति। तानि न अस्माकं समीपं न वा अन्यस्मै प्रेष्यन्ते, तथा च पृष्ठस्य पिधानेन वा पुनः आरम्भेन तानि विलीयन्ते।"
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "किम् अत्र समय-मापकः अङ्काः वा सन्ति?",
+        "a": "न। अत्र न घटी, न अङ्काः, न चाल-गणना, न वा पराजयः। भवन्तः कस्मिन्नपि क्षणे क्रीडां स्थगयितुं शक्नुवन्ति, तथा च मध्ये एव विरमणमपि क्रीडायाः समाप्तये सर्वथा उचितं भवति।"
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "किम् अहं परवर्तिनः समयस्य कृते क्रीडां रक्षितुं शक्नोमि?",
+        "a": "गोपनीयतायाः रक्षणार्थं जाल-अन्वेषके किमपि न सङ्गृह्यते। iPhone तथा iPad कृते विद्यमानं निःशुल्कं Golden Moments अनुप्रयोगं भवताम् उपकरणे चितानां चित्राणां प्रतिकृतीः रक्षितुं शक्नोति।"
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "चित्र-बिङ्गो",
+    "seoTitle": "स्मृतिलोपेन सह जीवतां ज्येष्ठानां कृते मुद्रण-योग्यं चित्र-बिङ्गो",
+    "h1": "समूहानां कृते चित्र-बिङ्गो",
+    "description": "स्मृति-परिचर्यायाः ज्येष्ठ-समूहानां च कृते निःशुल्कं मुद्रण-योग्यं चित्र-बिङ्गो, फलके बृहता उद्घोषकेन सह। शब्दैः सह बृहन्ति चित्राणि, 9 वा 16 कोष्ठकानि, पठनस्य आवश्यकता नास्ति।",
+    "short": "समूहानां कृते मुद्रण-योग्यानि चित्र-बिङ्गो-पत्राणि बृहत्फलके च उद्घोषकः।",
+    "players": "2 तः 30 जनानां समूहः",
+    "intro": "सङ्ख्यानां स्थाने चित्रैः सह पारम्परिकं बिङ्गो, येन सूक्ष्म-अक्षराणां पठनं नावश्यकं भवति। विशिष्ट-पत्राणां मुद्रणं कुर्वन्तु, ततः दूरदर्शने, लॅपटॉप-सङ्गणके वा पट्टके प्रत्येकं चित्रं बृहद्रूपेण प्रदर्शयितुं फलक-उद्घोषकस्य उपयोगं कुर्वन्तु।",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "प्रत्येकं पत्रे 9 वा 16 कोष्ठकानि तथा क्रीडकानां सङ्ख्यां चिन्वन्तु।",
+      "\"पत्राणि मुद्रयन्तु\" इति स्पृशन्तु। प्रत्येकं पत्रं भिन्नं भवति।",
+      "बृहत्फलके उद्घोषकम् उद्घाटयन्तु। नाम्ना सह प्रत्येकं चित्रं दर्शयितुं \"अग्रिमं चित्रम्\" इति स्पृशन्तु।",
+      "क्रीडकाः स्वपत्रे दृश्यमानं मेलिते चित्रे नाणकेन, गुलिकया वा अङ्ककेन आच्छादयन्ति।",
+      "यः जनः एकां पङ्क्तिं सम्पूर्णं वा पत्रं पूरयति, तस्य प्रोत्साहनं क्रियते। अस्मिन् संस्करणे कोऽपि पराजितः न भवति: यावत् सर्वेषां पङ्क्तिः न सिद्ध्यति तावत् क्रीडन्तु।"
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "क्रीडा-गुटिकाः अथवा कूपिका-पिधानानि इव बृहद्-चिह्नानि उपयुञ्जन्तु। लघूनां गुलिकानां ग्रहणे काठिन्यं भवितुम् अर्हति।",
+      "चित्रस्य नाम वदन्तु तथा तद्विषये किमपि भाषन्ताम्: \"इदं नौका-चित्रम्। कः नौका-विहारं कृतवान्?\"",
+      "येषां दर्शने काठिन्यं वर्तते तान् फलकस्य निकटतमे स्थाने उपवेशयन्तु, येषां साहाय्यम् आवश्यकं तेषां कृते सहायकान् योजयन्तु।",
+      "अधिकांशानां समूहानां कृते नव कोष्ठकानि पर्याप्तानि सन्ति। सत्रं प्रायः 20 तः 30 निमेषात्मकं स्थापयन्तु।"
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "परिचर्या-गृहे चित्र-बिङ्गो कथम् आयोजनीयम्?",
+        "a": "प्रत्येकं क्रीडकस्य कृते एकं पत्रं मुद्रयन्तु, भवत्सु वर्तमाने बृहत्तमे फलके उद्घोषकं स्थापयन्तु, तथा प्रत्येकस्य नाम उच्चारयन्तः मन्दं मन्दं चित्राणि घोषयन्तु। यावत् सर्वेषां पङ्क्तिः न सिद्ध्यति तावत् क्रीडन्तु, येन कोऽपि न वञ्चितः स्यात्।"
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "किम् अस्य मुद्रणं निःशुल्कम् अस्ति?",
+        "a": "आम्। वैयक्तिकाय वा सामूहिकाय उपयोगाय यावन्ति पत्राणि अपेक्षितानि, यदा यदा रोचते तावत् मुद्रयितुं शक्नुवन्ति।"
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "किं जनाः अक्षर-पठनं विना क्रीडितुं शक्नुवन्ति?",
+        "a": "आम्। प्रत्येकं कोष्ठकं बृहत् चित्ररूपेण अस्ति, येषां शब्देषु रुचिः अस्ति तेषां कृते तदधः नाम अपि लिखितम् अस्ति।"
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "प्रशान्त-श्वसनम्",
+    "seoTitle": "ज्येष्ठानां परिचारकाणां च कृते प्रशान्त-श्वसन-विरामः",
+    "h1": "प्रशान्त-श्वसन-विरामः",
+    "description": "परस्परं सहभागाय मन्दः शान्तः च श्वसन-विरामः: षट्-श्वासावधिं यावत् एकं सौम्यं वृत्तं विकसति सङ्कुचति च। भवन्तः इदम् आरभन्ते, तथा कस्मिन्नपि क्षणे स्थगयितुं शक्नुवन्ति।",
+    "short": "श्वसनेन सह मन्दं प्रसरत् वृत्तम्। यथेच्छम् आरभन्तु स्थगयन्तु च।",
+    "players": "1 वा 2 जनौ",
+    "intro": "कदाचित् शान्तः विरामः एव सर्वोत्तमः उपक्रमः भवति। \"आरभ्यताम्\" इति स्पृशन्तु, ततः वृत्तस्य विकासेन सह अन्तः श्वसन्तु, सङ्कोचेन सह बहिः श्वसन्तु। मन्दतरां वा द्रुततरां गतिं चिन्वन्तु। इदं न किमपि औषधं वा चिकित्सा, केवलं सहभागार्थं शान्तः सुखदः क्षणः।",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "सुखेन पार्श्वे उपविशन्तु।",
+      "गतिं चिन्वन्तु: मन्दां वा सौम्यां वा।",
+      "\"आरभ्यताम्\" इति स्पृशन्तु। वृत्तस्य विकासे अन्तः श्वसन्तु, सङ्कोचे च बहिः श्वसन्तु।",
+      "षट्-श्वासानन्तरम् इदं स्वयमेव विरमति, अथवा यथेच्छं \"स्थग्यताम्\" इति स्पृशन्तु।"
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "यदि प्रियजनः इच्छति तर्हि हस्तं गृह्णन्तु अथवा तस्य भुजे हस्तं स्थापयन्तु।",
+      "कदापि आग्रहं मा कुर्वन्तु। यदि ते केवलं द्रष्टुम् इच्छन्ति, तदपि समीचीनम्।",
+      "यदि कस्यचित् श्वसने काठिन्यं भवति, तर्हि सामान्यरूपेण श्वसन्तु केवलं वृत्तं पश्यन्तु च। श्वसन-सम्बन्धि-विषयेषु भिषजा सह सम्भाषन्ताम्।"
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "किम् इदं वैद्यकीयं श्वसन-व्यायामम् अस्ति?",
+        "a": "न। शान्तये सङ्गाय च अयम् एकः सरलः, ऐच्छिकः विरामः अस्ति। इदं चिन्तायाः वा कस्यापि स्थितेः चिकित्सा नास्ति। स्वास्थ्य-सम्बद्ध-विषयेषु चिकित्सकं पृच्छन्तु।"
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "किं मम आरम्भं विना वृत्तं चलति?",
+        "a": "नहि। 'आरम्भ' इति स्पृशतु यावत् किमपि न चलति। षट् श्वासानन्तरं अथवा 'विराम' इति स्पृशतु चेत् तत् स्थगति। यदि भवतः यन्त्रं चलनं न्यूनीकर्तुं विन्यस्तम् अस्ति, तर्हि वृत्तं न वर्धते, केवलं शब्दाः परिवर्तन्ते।"
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "किम् एतत् निःशुल्कम् अस्ति? किं पञ्जीकरणं कर्तव्यम्?",
+        "a": "आम्, एतत् निःशुल्कम् अस्ति। खाता, पञ्जीकरणं वा अवतरणं (डाउनलोड्) आवश्यकं नास्ति। एतत् दूरभाषे, टैब्लेट्-यन्त्रे अथवा सङ्गणके जालाटनी (वेब ब्राउज़र) मध्ये कार्यं करोति।"
       }
     ]
   }

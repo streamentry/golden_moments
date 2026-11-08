@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: a Gentle Matching Game",
-    "description": "A free, gentle matching game for people living with dementia. Large pictures stay visible, there is no timer or score, and you choose 4 to 12 tiles.",
-    "short": "Find the two pictures that are the same. Pictures can stay showing.",
-    "players": "1 or 2 people, side by side",
-    "intro": "Tap a picture, then tap the one that matches it. Pictures stay showing by default, so nothing has to be remembered. When two pictures go together they get a gold border and a check mark.",
+    "name": "Kikin rurukuna",
+    "seoTitle": "Tupachiy pukllay Alzheimer onqoywan kawsaqkunapaq: Kikin rurukuna",
+    "h1": "Kikin rurukuna: llumpay sumaq tupachiy pukllay",
+    "description": "Qispisqa, sumaq tupachiy pukllay Alzheimer onqoywan kawsaq runakunapaq. Hatun rurukunaqa rikukunmi, mana reloj nitaq puntaje kanchu, 4 kama 12 kama tayakunata akllanki.",
+    "short": "Tariy iskay kikin rurukunata. Rurukunaqa rikukuspapas kanman.",
+    "players": "1 utaq 2 runa, chimpa chimpapi",
+    "intro": "Mayqinpas rurukunata llimpuy, chaymantataq chaywan kikin rurukunata llimpuy. Rurukunaqa sapa kutin rikukunmi, chaymi mana yuyariyta munanchu. Iskay kikin rurukuna tinkuqtinqa, qori kiruwan hinaspa check simbolunwan rikuchikunqa.",
     "howTo": [
-      "Choose how many tiles to use. Four tiles is a calm place to start.",
-      "Tap any picture. It gets a gold border.",
-      "Tap the picture that looks the same. The pair stays together with a check mark.",
-      "If the two pictures are different, nothing bad happens. Tap again whenever you are ready.",
-      "Turn on \"Hidden pictures\" only if you both enjoy the classic face-down version."
+      "Imayna tayakunata llamkachiwasqaykita akllay. Tawa tayakuna allin qallariypaqmi.",
+      "Mayqinpas rurukunata llimpuy. Qori kiruyuqmi kanqa.",
+      "Hinallataq kikinta llimpuy. Chaypi iskay kikin rurukunaqa tinkunqa, check simbolunwan.",
+      "Iskay rurukuna hukniraqtinpas mana imapas pasanchu. Kutinpi llimpuy, qampa munayniykiman.",
+      "Pakasqa rurukunata munaspalla \"Pakasqa rurukuna\" nispa kicharuy, chaytaqa qasilla rurukunapaq."
     ],
     "tips": [
-      "Name the pictures out loud together and chat about them: \"A red teacup. Do you take milk in your tea?\"",
-      "Let the person you care for do the tapping, even if it takes a while. Point rather than tap for them.",
-      "Stay with four tiles for as long as it feels good. More tiles are a choice, never a level to reach.",
-      "Finish while it is still enjoyable. One game is a complete activity."
+      "Rurukunata kuska sutinchaspa rimanakuy, chaymantataq parlaychik: \"Puka tasa. ¿Lechewan upyankichu?\"",
+      "Sapa kutipi pay llimpuchun, ancha tiempo pasaspapas. Paypaq mana llimpuspa, wiqiwan rikuchiy.",
+      "Tawa tayakunawanmi qallariy, sumaq kashaspa. Aswan tayakuna kanqa akllaymi, mana hatarinapaq nivel.",
+      "Sumaq kashaspam tukuy. Huk pukllaylla tukuy llamkay."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Reloj utaq puntaje kanchu?",
+        "a": "Manan. Mana reloj, puntaje, kutichiy yupay nitaq pitiy kanchu. Pitapas tukuspaykichis atikunki, chaymi chawpipi tukuyqa allinmi kay."
       },
       {
-        "q": "Why do the pictures stay face up?",
-        "a": "Keeping pictures visible turns the game into looking and matching rather than remembering. Many people find this calmer. You can switch to hidden pictures in one tap if you prefer."
+        "q": "Imarayku rurukuna rikukunmi llimpuspapas?",
+        "a": "Rurukuna rikukuspaqa pukllayqa yuyarinaman mana, rikuyman llimpuyman tikrakun. Askhakunaqa kaywanqa sumaqta sientinku. Munaspaykichis pakasqa rurukunaman huk llimpuwanmi tikrayta atinkichis."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Qolqeqa kanchu, registrakunamanchu?",
+        "a": "Arí, qolqeqa mana kanchu. Cuenta nitaq registro mana munanchu, descarga mana kanchu. Teléfonopi, tabletpi utaq computadorapi web nawpi llamkan."
       },
       {
-        "q": "Can we use our own family photos?",
-        "a": "Yes. Try Photo pairs, which lets you choose photos from your device. The photos stay in your browser and are not uploaded."
+        "q": "¿Ayllunchikmanta fotokunata llamkachisunchu?",
+        "a": "Arí. Foto kikin rurukunata qispichi llamkachiy, chaypim telefonuykipi fotokunata akllanki. Fotokunaqa nawegadorpi waqaychakun, mana hawaman kachunchu."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "One picture at the top, two to four below. Tap the one that is the same. A calm, free picture game for people living with dementia, with no timer.",
-    "short": "Look at the picture at the top and tap the same one below.",
-    "players": "1 or 2 people",
-    "intro": "A single picture sits at the top of the screen. Below it are two, three or four pictures. Tap the one that is the same. It is one simple choice at a time, with plenty of room to talk.",
+    "name": "Kikinta tarikuy",
+    "seoTitle": "Kikin rurukunata tariy: sencillo pukllay Alzheimer onqoywan kawsaqkunapaq",
+    "h1": "Kikin rurukunata tariy",
+    "description": "Hanaqpi huk ruru, uraypi iskay kama tawa kama. Kikinta llimpuy. Qispisqa, sumaq rurukuna pukllay Alzheimer onqoywan kawsaq runakunapaq, mana reloj kaspa.",
+    "short": "Hanaq rurukunata qaway, hinaspa uraypi kikinta llimpuy.",
+    "players": "1 utaq 2 runa",
+    "intro": "Hanaq pantallapi huk ruru sayan. Urayninpi iskay, kimsa utaq tawa rurukuna. Kikinta llimpuy. Sapa kutilla huk akllayllam, anchata rimanakuspa.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the picture at the top together.",
-      "Tap the same picture below. It is marked with a check and a few warm words.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next picture\" when you are ready for another."
+      "Iskay, kimsa utaq tawa rurukunata akllay. Iskaymi sasa.",
+      "Hanaq rurukunata kuska qaway.",
+      "Uraypi kikin rurukunata llimpuy. Check simbolunwan, sumaq rimaywan rikuchikun.",
+      "Hukniraq rurukuna llimpuptinqa, pukllay sapallanmi sutinta niwan hinaspa suyan. Kallpaykita kuska qaway.",
+      "\"Qatiq rurukuna\" tapuy listo kaspaqa, huk rurukunapaq."
     ],
     "tips": [
-      "Talk about each picture before choosing: colors, shapes, where you might see it.",
-      "Two choices are not \"too easy\". The goal is a pleasant moment, not a challenge.",
-      "If tapping is hard, the person can point and you can tap for them."
+      "Akllaspa sapa rurukunata rimanakuy: rikchaqnin, kayanin, maypi rikunki.",
+      "Iskay akllaypaqa \"sasallam\" mana. Munasqanmi sumaq kawsay, mana hatarinapaq.",
+      "Llimpuyqa sasa kaptinqa, runa qawasqanwan rikuchiwaspa, paypaq llimpuy."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Reloj utaq puntaje kanchu?",
+        "a": "Manan. Mana reloj, puntaje, kutichiy yupay nitaq pitiy kanchu. Pitapas tukuspaykichis atikunki, chaymi chawpipi tukuyqa allinmi kay."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "¿Imataq pasan mana kikin rurukunata llimpuspa?",
+        "a": "Mana imapas nanachikunchu. Mana zumbido, mana puka cruz nitaq sacudida kanchu. Pukllay sutinchan llimpusqa rurukunata, hinaspa qatiq llimpuyta suyan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Qolqeqa kanchu, registrakunamanchu?",
+        "a": "Arí, qolqeqa mana kanchu. Cuenta nitaq registro mana munanchu, descarga mana kanchu. Teléfonopi, tabletpi utaq computadorapi web nawpi llamkan."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: a Gentle Picture Game",
-    "description": "A dark shadow at the top, two to four pictures below. Tap the picture that makes the shadow. A free, calm shadow matching game for dementia, with no timer.",
-    "short": "Look at the shadow and tap the picture that makes it.",
-    "players": "1 or 2 people",
-    "intro": "Shadow matching is a familiar activity from printed worksheets, here with large pictures and nothing to print. A soft shadow sits at the top of the screen and two, three or four pictures wait below. Tap the one that makes the shadow. Shapes like a bicycle, an umbrella or a teacup are easy to talk about too.",
+    "name": "Llanthu tupachiy",
+    "seoTitle": "Llanthu tupachiy pukllay Alzheimer onqoywan kawsaqkunapaq: qolqe mana",
+    "h1": "Llanthu tupachiy: sumaq rurukuna pukllay",
+    "description": "Hanaqpi tuta llanthu, uraypi iskay kama tawa kama rurukuna. Llanthuta ruraq rurukunata llimpuy. Qispisqa, sumaq llanthu tupachiy pukllay Alzheimer onqoywan kawsaqkunapaq, mana reloj kaspa.",
+    "short": "Llanthuta qaway, hinaspa llanthuta ruraq rurukunata llimpuy.",
+    "players": "1 utaq 2 runa",
+    "intro": "Llanthu tupachiy, papelpi ruraq llamkaymi karqan, kaywanqa sumaq rurukunawan, mana papelta llank'aspa. Hanaq pantallapi suave llanthu sayan, uraypi iskay, kimsa utaq tawa rurukuna suyanku. Llanthuta ruraq rurukunata llimpuy. Bicicleta, paraguas utaq tasa hina rurukunapipas rimanakuyta atinki.",
     "howTo": [
-      "Choose two, three or four pictures to pick from. Two is the simplest.",
-      "Look at the shadow together. What shape is it? Is it tall or round?",
-      "Tap the picture that makes the shadow. Its name appears under the shadow.",
-      "If a different picture is tapped, the game simply names it and waits. Take your time.",
-      "Tap \"Next shadow\" when you are ready for another."
+      "Iskay, kimsa utaq tawa rurukunata akllay. Iskaymi sasa.",
+      "Llanthuta kuska qaway. ¿Imayna rikchaqmi? ¿Hatunmi utaq muyumi?",
+      "Llanthuta ruraq rurukunata llimpuy. Sutinqa llanthu uraypi rikukunqa.",
+      "Hukniraq rurukuna llimpuptinqa, pukllay sapallanmi sutinta niwan hinaspa suyan. Kallpaykita kuska qaway.",
+      "\"Qatiq llanthu\" tapuy listo kaspaqa, huk llanthupaq."
     ],
     "tips": [
-      "Trace the outline of the shadow with a finger and talk about the shape.",
-      "If shadows feel hard today, switch to Find the same, where the pictures look alike.",
-      "Talk about the picture once it is found: \"We had an umbrella like that.\""
+      "Llanthu muyuntin dedowan ch'uqay hinaspa rikchaqta rimanakuy.",
+      "Llanthu sasa kaptinqa, \"Kikinta tarikuy\" pukllayta akllay, chaypi rurukunaqa kikin rikchaqyuqmi.",
+      "Rurukuna tarisqaña kaptin rimanakuy: \"Chayta hina paraguasniyuq karqanchik.\""
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Reloj utaq puntaje kanchu?",
+        "a": "Manan. Mana reloj, puntaje, kutichiy yupay nitaq pitiy kanchu. Pitapas tukuspaykichis atikunki, chaymi chawpipi tukuyqa allinmi kay."
       },
       {
-        "q": "Is shadow matching good for people with dementia?",
-        "a": "It can be a pleasant, simple activity for some people, especially in the earlier stages. Shapes are easier to recognize than words. It is for enjoyment and conversation, not a test, and it does not treat or slow dementia. If it causes frustration, try Find the same or simply look at pictures together."
+        "q": "¿Allinchu llanthu tupuy demencia nisqawan kawsaq runakunapaq?",
+        "a": "Wakin runakunapaqqa kusikuypaq sasachakuq mana kaq sumaq ruway kanman, astawanqa qallariy pachapi. Rikunakuyqa rimaymanta aswan sasachu. Kusikuypaq, rimanakuypaqmi kachkan, mana tapuypaqchu. Mana qawachinchu, mana allichanchu, mana unquyta sayachinchu. Sasachakuy kaqtinqa, \"Kikin tupuy\" ruwayta llamk'achiychis, icha rikuykunata kuska qawaychis."
       },
       {
-        "q": "What happens if the wrong picture is tapped?",
-        "a": "Nothing unpleasant. There is no buzzer, red cross or shaking. The game names the picture that was tapped and waits for the next tap."
+        "q": "Imataq pasan pantasqa rikuyta llakiptinqa?",
+        "a": "Ima mana allin kanchu. Mana waqaychu, mana puka cruz, mana llamkichu. Pukllay rikuyta sutinchan, hinaspa qayantam suyan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Qolqe kanchu, watiqakuyta munaychu?",
+        "a": "Arí, mana qolqe, mana cuenta, mana churakuy icha haywakuy. Web navegadorninpi llamk'achikunki celular, tablet icha computadorapi."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Kuska ch'aqway",
+    "seoTitle": "Demencia nisqawan kawsaqkunapaq ch'aqway pukllay: Kuska ch'aqway",
+    "h1": "Kuska ch'aqway: rikuykunata ch'aqway ruway",
+    "description": "Sapa rikuyta akllay, chaymanta wayk'uta akllay, chay rikuy kasqan hinata: wasi-chakra, miski-animalkuna. Demencia nisqawan kawsaq runakunapaq sumaq, mana qolqe ch'aqway ruway.",
+    "short": "Sapa rikuyta wayk'unman churay: wasi-chakra, hinallataq aswan.",
+    "players": "1 icha 2 runa",
+    "intro": "Ch'aqway ancha riqsisqa, kusikuq llank'ay, hina yupaychay icha mikhuy wasiman churay hina. Sapa rikuyta akllay, chaymanta wayk'uta akllay, chay rikuy kasqan wayk'uman. Mana apurakuychu, mana pantasqa ruwaypas kanchu.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Huk tema akllay: wasi-chakra, miski-animalkuna, icha wasi-purina.",
+      "Huk rikuyta akllay. Chaymanta qanra quri kinchawan qawachkan.",
+      "Chay rikuy kasqan wayk'uta akllay. Rikuyqa chay wayk'unman yaykun.",
+      "Hukniray wayk'unman kasqa kaptinqa, pukllay allinta willakun, hinaspa suyan.",
+      "Tukuy rikuykuna ch'aqwasqa kaptinqa, wayk'unkunata kuska qawariychis."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Kawsaypi mana tukuy chiqap khutuchu kan. Wakin ninku: regadera wasi-kuchapi kanman, tapuychis imaraykun. Sumaq willakuyta uyarinkichis.",
+      "Rikuykunata yuyaychana hina llamk'achiychis: \"Chakrayki ukhupi imatataq tarpurqanki?\"",
+      "Sut'i mikhuy kutsakuna, chaqchukuna icha phutuchakuna kolorninwan ch'aqwaspa, pukllaymanta hawaman sumaq qatiq ruway."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hora chaqnichu icha puntukunachu kan?",
+        "a": "Mana. Mana reloj, mana puntu, mana cuenta, mana chinkay. Pachata tukuyta atinkichis, hinaspa chawpimanta tukuy kaqqa sumaq tukuy kanmi."
       },
       {
-        "q": "Why sorting?",
-        "a": "Many people enjoy sorting because it feels like useful, familiar work. It is also easy to talk about the pictures as you go."
+        "q": "¿Imaraykun ch'aqway?",
+        "a": "Wakin runakuna kusikun ch'aqwaspa, chay hina llank'ayqa yachasqa, allin kaq hina kanmi. Chaymanta rikuykunamanta rimanakuyqa sasachu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Qolqe kanchu, watiqakuyta munaychu?",
+        "a": "Arí, mana qolqe, mana cuenta, mana churakuy icha haywakuy. Web navegadorninpi llamk'achikunki celular, tablet icha computadorapi."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Rikuy rompecabeza",
+    "seoTitle": "Demencia nisqawan kawsaqkunapaq sasachakuq mana rompecabeza: 4 icha 9 pedazo",
+    "h1": "Rikuy rompecabeza: mana sasa rompecabeza",
+    "description": "Demencia nisqawan kawsaq runakunapaq mana sasa rompecabeza: 4 icha 9 sinchi pedazo, tukuy rikuy qawasqa kanqa, pedazo iskaytam kuska llamk'achiychis.",
+    "short": "Iskay pedazota llamk'achispa, rikuy tukuy kananpaq wartaychis.",
+    "players": "1 icha 2 runa",
+    "intro": "Huk sumaq rikuy 4 icha 9 sinchi pedazokunaman rakisqa, hinaspa wayk'uchisqa. Tukuy rikuyqa qawasqa kanqa yanapakuq hina. Huk pedazota akllay, chaymanta huk pedazota, hinaspa qayantam ch'ankhanku. Mana llapchiy kanchu.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Huk rikuyta akllay, 4 icha 9 pedazo. Tawa kaqqa qallariy sasachakuq mana.",
+      "Hanaq pachapi tukuy rikuyta qawariy.",
+      "Huk pedazota akllay, chaymanta chay pedazo churasqa kaq chaypi akllay. Iskay pedazo ch'ankhanku.",
+      "Chaypi allin churasqa pedazokunaman sapaq chiqap sipasqa kanqa.",
+      "Rikuy tukuy kaptinqa, kuska kusikuychis, chaymanta huk rikuyta akllaychis."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Iskay pedazo ch'ankhay, llapa runakunapaq llapchiyta aswan sasachu.",
+      "Rikuy hunt'akuq hina rimanakuychis: \"Chaypi puka sumaq teja kan.\"",
+      "Wayq'o mana tullu rompecabeza 12 icha 24 sinchi pedazowan mesapi sumaq ruway."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hora chaqnichu icha puntukunachu kan?",
+        "a": "Mana. Mana reloj, mana puntu, mana cuenta, mana chinkay. Pachata tukuyta atinkichis, hinaspa chawpimanta tukuy kaqqa sumaq tukuy kanmi."
       },
       {
-        "q": "Do I need to drag the pieces?",
-        "a": "No. Tap one piece, then tap another, and they swap places. This is easier with a shaky hand or on a small screen."
+        "q": "¿Pedazokunata rastrarinachu?",
+        "a": "Mana. Huk pedazota akllay, hinaspa huktam akllay, chaymanta ch'ankhanku. Kay ruwayqa aswan sasachu chakiq makiwan icha huch'uy pantallawan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Qolqe kanchu, watiqakuyta munaychu?",
+        "a": "Arí, mana qolqe, mana cuenta, mana churakuy icha haywakuy. Web navegadorninpi llamk'achikunki celular, tablet icha computadorapi."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
-    "h1": "Finish the Saying",
-    "description": "Familiar American sayings with the last word missing, like \"A penny saved is a penny ___\". Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "name": "Rimayta tukuy",
+    "seoTitle": "Rimayta tukuy: Yachay rimaykunapaq pukllay wayqekunapaq",
+    "h1": "Rimayta tukuy",
+    "description": "Riqsisqa rimaykuna, qayna simi mana kaspa, hina: \"Ama llulla, ama suwa, ama ___\". Huk akllay icha tukuyta rikuchiy, chaymanta rimanakuychis.",
+    "short": "Riqsisqa rimaykunata kuska tukuychis, chaymanta rimanakuychis.",
+    "players": "1, 2 icha huk ayllu",
+    "intro": "Machu rimaykunaqa wiñaypaq riqsisqa kanku. Sapa tarjetapi huk riqsisqa rimay kan, qayna simi mana, kimsa akllana, hinaspa \"Tukuyta rikuchiy\" phuku. Tukuyta qhawaspa, sasachakuq tapuy rimanakuypaq yanapakun.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Rimayta kuska kallpawan willakuychis.",
+      "Tukuchiq simita akllay, icha \"Tukuyta rikuchiy\" phukuta premiay.",
+      "Tukuy rimayta huk kutipi willakuychis, chaymanta tapuyman hina rimanakuychis.",
+      "Listo kaqtinqa \"Qatiq rimay\" phukuta premiay."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Sumaq willakuy, simi tukuchiq ñawpaqta sapa chawpi shayay. Aswanta runakuna simi tukuchiyta atinku.",
+      "Hukniray tukuyta ninkichis chaypas kusikuychis. Rimaykuna ayllumanta icha llaqtamanta huknirayta kanku.",
+      "Huk ayllu kaqtinqa, huk runa willakun, llapan tukuyman kuska yapakunku."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Hora chaqnichu icha puntukunachu kan?",
+        "a": "Manan. Mana reloj, mana puntaje, mana kutichiy yupay, nitaq pantay kanchu. Qam pachapi saqiyta atinki, chaymi chawpimanta saqisqapas allinmi tukuy."
       },
       {
-        "q": "What if we choose a different word?",
-        "a": "The game shows the usual ending and moves on to conversation. There is no score, and a different answer is fine."
+        "q": "¿Ima kanman huk simita akllaspaqa?",
+        "a": "Pukllay kutin tukuy rikuchin, hinaspa rimanakuyman yaykun. Mana puntaje kanchu, huk simitapas allinmi."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Qispi kanchu, hinaspa cuenta ruwanaq kanchu?",
+        "a": "Arí, qispi. Mana cuenta kanchu, mana registrakuy, nitaq descargay kanchu. Web navegadorpi llamkan celular, tablet icha computadorapi."
       }
     ]
   },
   "word-search": {
-    "name": "Large-print word search",
-    "seoTitle": "Large Print Word Search for Dementia, Printable",
-    "h1": "Large-Print Word Search",
-    "description": "A free large-print word search for seniors and people living with dementia. Few words, big letters, words across and down only. Play online or print.",
-    "short": "Big letters, a few words, across and down only. Print it too.",
-    "players": "1 or 2 people",
-    "intro": "A small grid with large letters and just a handful of words, all reading across or down. Tap the first letter of a word, then its last letter. Prefer paper? Print a fresh puzzle in one tap.",
+    "name": "Hatun qillqa simi tupuy",
+    "seoTitle": "Hatun Qillqa Simi Tupuy demencia nisqawan kawsaqkunapaq, imprimiypaq",
+    "h1": "Hatun Qillqa Simi Tupuy",
+    "description": "Qispi hatun qillqa simi tupuy ancianukunapaq hinaspa demencia nisqawan kawsaq runakunapaq. Pisi simikuna, hatun qillqakuna, hanaqman icha uraymanllataq. Internetpi pukllay icha imprimiy.",
+    "short": "Hatun qillqakuna, pisi simikuna, hanaqpi icha uraypi nomás. Imprimiyta atinkitaqmi.",
+    "players": "1 icha 2 runa",
+    "intro": "Pisi quchka hatun qillqakunawan, pisi simikunawan, tukuy hanaqman icha uraymanllataq qillqasqa. Simi ñawpaq qillqanta chaqray, hinaspa qipa qillqanta chaqray. ¿Papelpi munankichu? Musuq tupuyta huk chaqnaypi imprimiy.",
     "howTo": [
-      "Choose a theme and a grid size.",
-      "Look at the word list. Words read across (left to right) or down (top to bottom).",
-      "Tap the first letter of a word, then tap its last letter.",
-      "A found word is highlighted and crossed off the list.",
-      "Tap \"Print this puzzle\" to play on paper with a pencil or marker."
+      "Huk tema akllay hinaspa quchka tamañuta akllay.",
+      "Simi listata qawariy. Simikuna hanaqman (izquierdamanta derechaman) icha uraymanta (arribamanta abajoman) qillqasqa.",
+      "Huk simipa ñawpaq qillqanta chaqray, hinaspa qipa qillqanta chaqray.",
+      "Tarisqa simi qaqachasqa kanqa hinaspa listamanta ch’usaqsi.",
+      "“Kay tupuyta imprimiy” nispa chaqray, papelpi lapiswan icha marcadorwan pukllanaykipaq."
     ],
     "tips": [
-      "Point to a word in the list and look for its first letter together.",
-      "On paper, a highlighter is easier to hold than a pencil.",
-      "Talk about the theme words. Fruit words are a natural way into memories of picking, baking or markets."
+      "Listapi huk simita rikuchispa, ñawpaq qillqanta maskay.",
+      "Papelpi, resaltador ch’uyaqqa aswan allinmi lapiswan qatiyta.",
+      "Tema simikunamanta rimay. Frutakunamanta simikunaqa yuyaykunata qallarinapaq allin: tarpuy, mikhuy, mercado."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Reloj icha puntaje kanchu?",
+        "a": "Manan. Mana reloj, mana puntaje, mana kutichiy yupay, nitaq pantay kanchu. Qam pachapi saqiyta atinki, chaymi chawpimanta saqisqapas allinmi tukuy."
       },
       {
-        "q": "Can I print the word search?",
-        "a": "Yes. Tap \"Print this puzzle\" to print the current grid in large type, with the word list underneath. Every new puzzle is different."
+        "q": "¿Tupuyta imprimiyman?",
+        "a": "Arí. “Kay tupuyta imprimiy” nispa chaqray, kunan quchkata hatun letrakunawan imprimiyman, simi listata uraypi. Sapa musuq tupuy huk hinan."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Qispi kanchu, hinaspa cuenta ruwanaq kanchu?",
+        "a": "Arí, qispi. Mana cuenta kanchu, mana registrakuy, nitaq descargay kanchu. Web navegadorpi llamkan celular, tablet icha computadorapi."
       }
     ]
   },
   "coloring": {
-    "name": "Coloring pages",
-    "seoTitle": "Coloring Pages for Adults with Dementia (Free)",
-    "h1": "Coloring Pages",
-    "description": "Simple, adult coloring pages with big areas: tap a color, then tap the picture. No mess, no wrong colors, and every page can be printed for free.",
-    "short": "Tap a color, then a part of the picture. Print pages too.",
-    "players": "1 or 2 people",
-    "intro": "Pages with large, simple shapes: a flower in a pot, a house, a teacup, a butterfly and a sailboat. Tap a color, then tap a part of the picture to fill it. There are no wrong colors.",
+    "name": "Rikchaqana láminakuna",
+    "seoTitle": "Rikchaqana láminakuna demencia nisqawan kawsaq runakunapaq (qispi)",
+    "h1": "Rikchaqana Láminakuna",
+    "description": "Pisi, hatun runakunapaq rikchaqana láminakuna, hatun chimpakuna: huk rikchayta akllay, hinaspa láminapi huk chaypi chaqray. Mana llantu, mana pantay rikchay, sapa láminata qispi imprimiy atinki.",
+    "short": "Huk rikchayta akllay, hinaspa láminapi huk chaypi chaqray. Láminatapas imprimiy.",
+    "players": "1 icha 2 runa",
+    "intro": "Hatun, pisi chaykuna láminakuna: huk t’anta mati wayrapi, wasi, té tasa, pillpinto, hinaspa barco. Huk rikchayta akllay, hinaspa láminapi huk chaypi chaqray. Mana pantay rikchaykuna kanchu.",
     "howTo": [
-      "Choose a page.",
-      "Tap a color. Each color has its name written on it.",
-      "Tap a part of the picture to fill it with that color.",
-      "Change your mind any time by filling it again.",
-      "Tap \"Print this page\" for a blank page to color with pencils or markers."
+      "Huk lámina akllay.",
+      "Huk rikchayta akllay. Sapa rikchaypi sutin qillqasqa.",
+      "Huk láminapi chaypi chaqray, chay rikchawan qichunanpaq.",
+      "Yuyayniykita tikray kanman, huknawpi chaqraspa.",
+      "“Kay láminata imprimiy” nispa chaqray, yuraq láminata lapiswan icha marcadorwan rikchaqpaq."
     ],
     "tips": [
-      "Offer two colors to choose from rather than the whole set if choosing feels like too much.",
-      "Purple trees and blue suns are welcome. This is about enjoying color, not accuracy.",
-      "Printed pages work well with thick markers or crayons, which are easier to grip."
+      "Akllanapaq iskay rikchayta qoy, llapa rikchayta mana, akllay sasa kaptinqa.",
+      "Pukapuka sach’akuna, celeste inti allinmi. Kay rikchaypiqa kusikuy kachun, mana chiqniyuq ruway.",
+      "Imprimisqa láminakuna allinmi junt’aq marcadorwan icha crayonwan, aysanapaq aswan sasa kanchu."
     ],
     "faq": [
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "¿Reloj icha puntaje kanchu?",
+        "a": "Manan. Mana reloj, mana puntaje, mana kutichiy yupay, nitaq pantay kanchu. Qam pachapi saqiyta atinki, chaymi chawpimanta saqisqapas allinmi tukuy."
       },
       {
-        "q": "Are these pages too childish?",
-        "a": "We drew calm, simple objects rather than cartoons, so the pages suit adults. Large shapes keep coloring easy without making it babyish."
+        "q": "¿Kay láminakuna wawakunapaqchu?",
+        "a": "Calmana, sencilla runakunaq ruwaykunata rikchaqtinchik, mana dibujos animadoskunata. Hatun chimpakuna rikchayta sasachanakuq, mana wawa hina."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Qispi kanchu, hinaspa cuenta ruwanaq kanchu?",
+        "a": "Arí, qispi. Mana cuenta kanchu, mana registrakuy, nitaq descargay kanchu. Web navegadorpi llamkan celular, tablet icha computadorapi."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Conversation cards",
-    "seoTitle": "Conversation Starters for Dementia: Picture Cards",
-    "h1": "Conversation Cards",
-    "description": "Picture cards with gentle conversation starters for people living with dementia: no quizzing, no right answers. Use on screen or print the full set.",
-    "short": "Picture cards with open, gentle questions. No quizzing.",
-    "players": "2 people or a group",
-    "intro": "Each card pairs a familiar picture with an open invitation to talk, like \"What is your favorite kind of weather?\" There are no right answers and nothing to remember. Choose a theme or shuffle them all.",
+    "name": "Rimanakuy cartakuna",
+    "seoTitle": "Rimanakuy qallariy demenciapaq: rikchaq cartakuna",
+    "h1": "Rimanakuy Cartakuna",
+    "description": "Rikchaq cartakuna sumaq tapukuykunawan demencia nisqawan kawsaq runakunapaq: mana yachaykunata tapuy, mana chiqniyuq. Pantallapi icha imprimiy llapa cartakunata.",
+    "short": "Rikchaq cartakuna kichka, sumaq tapukuykunawan. Mana yachaykunata tapuy.",
+    "players": "2 runa icha huk tantakuna",
+    "intro": "Sapa cartaqa huk riqsisqa rikchawan tupachin, kichka rimanakuyta tapukuywan: “¿Ima timpo munankipaq?” Mana cheqaq kutichiy kanchu, mana yuyanakuy kanchu. Huk temata akllay icha llapanta chaqray.",
     "howTo": [
-      "Choose a theme, or keep \"All cards\".",
-      "Read the question out loud and look at the picture together.",
-      "Listen, share your own answer, and let the talk wander.",
-      "Tap \"Next card\" when you are ready, or stay with one card as long as you like.",
-      "Tap \"Print all cards\" to cut out a paper set."
+      "Huk tema akllay, icha “Llapa cartakuna” waqaychay.",
+      "Tapukuyta qaparispa rikchaqta kuska qawariy.",
+      "Uyariy, qampa rimayniykita willay, hinaspa rimanakuy sapa kaqman puriyachun.",
+      "Listo kaptiyki “Qatiq carta” nispa chaqray, icha huk cartapi kuska qarqay munaspaqa.",
+      "“Llapa cartakuna imprimiy” nispa chaqray, papelpi cartakuna ruwanaykipaq."
     ],
     "tips": [
-      "Answer the question yourself too. It feels like a conversation, not an interview.",
-      "Follow the story, not the facts. If details change, that is fine.",
-      "If a card touches something sad, acknowledge the feeling and gently move to another card."
+      "Tapukuyta qampas kutichiy. Rimanakuy hina kachun, mana tapuykuna hina.",
+      "Willakuyta qatipay, mana cheqaq yachaykunata. Huk detalle tukukuspa, allinmi.",
+      "Huk carta llakiyta tarikuqtinqa, sunqunmanta yuyaychay, kuyuspa huk cartaman tikray."
     ],
     "faq": [
       {
-        "q": "Why are there no \"Do you remember…?\" questions?",
-        "a": "Questions that test memory can feel like an exam and cause embarrassment. Open invitations such as \"Tell me about…\" let anyone join in, whatever they recall."
+        "q": "¿Imanasqataq “¿Yuyankichu…?” nisqa tapukuykuna mana kanchu?",
+        "a": "Yuyaypi chaniyachiy tapukuykunaqa examen hina llakiyta apamun, mana vergüenzata. “Willaway…” nisqa kichka tapukuykunaqa, pipas yuyaynin kaqwan rimanakuyman yaykunanpaq."
       },
       {
-        "q": "Can I print the cards?",
-        "a": "Yes. \"Print all cards\" prints the full set in large type, several cards per page, ready to cut out."
+        "q": "¿Cartakunata imprimiyman?",
+        "a": "Arí. “Llapa cartakuna imprimiy” nispa chaqray, tukuy cartakunata hatun qillqawan imprimin, huk papelpi achka carta, t’aqanaypaq listo."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "¿Qispi kanchu, hinaspa cuenta ruwanaq kanchu?",
+        "a": "Arí, mana qolqeniyuqchu. Mana kuentayuq, mana registrakuyta, mana imatapas descargakuyta munanchu. Celular, tablet utaq computadorapi web navegadorwan llamkan."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Rikch'a parejakuna",
+    "seoTitle": "Ayllu rikch'akunamanta parejakunawan pukllay ruway",
+    "h1": "Rikch'a parejakuna: Qanpa rikch'akunawan parejachay",
+    "description": "Ayllu rikch'akuykiwan sumaq parejachakuy pukllayta ruway. Celularniykipi utaq computadoraykipi 2 kama 6 rikch'ata akllay; navegadorniykipi qhepanqa, manataq hawaman kachakunchu.",
+    "short": "Qanpa rikch'akunata akllay, hinaspa parejachay. Mana imapas hawaman apakunchu.",
+    "players": "2 runa, chimpa-chimpa",
+    "intro": "Celular, tablet utaq computadoraykimanta iskay kama soqta rikch'ata akllay, hinaqtinmi hatun, qawarinapaq rikch'akunawan parejakuna pukllay kanqa. Rikch'akunaqa kay paginapi qhawarillanmi. Manan hawaman apakunchu, mana waqaychakunchu, mana rimasqachu kanqa; paginata wichqaspaykiqa tukukunqa.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "“Rikch'ata akllay” nispa kutichiy, hinaspa iskay kama soqta rikch'ata akllay.",
+      "Sapa rikch'a iskay kutin rikukun. Huk rikch'ata kutichiy, hinaspa paranta kutichiy.",
+      "Sapa rikch'ata tarispaykichis, rimaychis rikch'amanta.",
+      "Tukuspaykichis, paginata wichqay utaq “Rikch'ata qarqay” nispa kutichiy. Mana imapas waqaychakunchu."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Allin qhawariq rikch'akunata akllay, kusikuq, riqsisqa kaqkunamanta: michi, muyu, munasqa chaskisqa, casarakuy p'unchay.",
+      "Pachakunamanta utaq imakunamanta rikch'akunaqa, runakunaq uyanmantaqa aswan sasachu. Chaymi pitapas sutinta rimananpaq manan presionkuchu kanqa.",
+      "Wañusqa runakunaq rikch'akunata ama churaychu, usqhaylla llakita apamuwanman chayqa; allinta kusichiwanqa chayta riqsispaykiqa chaylla churay."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "No. The page reads the photos you choose directly in your browser and shows them on your screen. They are not sent to us or to anyone else, and they are gone when you close or reload the page."
+        "q": "Rikch'ay kuchu hawaman apakunqa?",
+        "a": "Manan. Paginaqa akllasqaykiq rikch'akunata navegadorniykipi qhawarillanmi, pantallaykipi rikuchiwanmi. Manan ñoqanchisman utaq hukkunaman kachakunchu, paginata wichqaspaykiqa utaq yapamanta kallpachaspaykiqa tukukunmi."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "No. There is no clock, score, move counter or losing. You can stop at any moment, and stopping halfway is a perfectly good way to finish."
+        "q": "Tiempo qawaq utaq puntos kanchu?",
+        "a": "Manan. Manan reloj, puntos, movidas yupaq, mana pierdekuypas kanchu. Ima horapipas tukuyta atiwaqchu, chaymi chawpi tukuyqa allin tukuymi."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Not in the browser, by design, so nothing private is stored. The free Golden Moments app for iPhone and iPad can keep selected photo copies on your device."
+        "q": "Pukllayta hukpachakunapaq waqaychayman chu?",
+        "a": "Navegadorpi manan, chaynataq ruwasqa; chaymi manan pisi imapas waqaychakunchu. Golden Moments aplicación iPhone utaq iPad-paq, mana qolqeniyuq, akllasqa rikch'a kopiakunata celularniykipi waqaychayta atinmi."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Rikch'a bingo",
+    "seoTitle": "Rikch'a bingo machu runakunapaq: imprimiyuq",
+    "h1": "Rikch'a bingo huñunakuq runakunapaq",
+    "description": "Mana qolqeniyuq imprimiy rikch'a bingo, yuyaykuna waqaychaq wasikunapaq huk machu runakunapaq. Pantallapi hatun waqyaq kaqwan. Hatun rikch'akuna simikunawan, 9 utaq 16 cuadradonawan, mana qillqata liyispa.",
+    "short": "Imprimiy rikch'a bingo kartakuna, huñunakuq runakunapaq hatun pantalla waqyaqwan.",
+    "players": "2 kama 30 runakama huñunakuq",
+    "intro": "Riqsisqa bingo yupaq kaqpi rikch'akunawan, chaymi pitapas mana sasachu liyinan. Huk kaq kartakunata imprimiy, hinaspa pantalla waqyaq kaqwan sapa rikch'ata televisor, laptop utaq tabletpi hatunta rikuchiy.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Sapa kartapi 9 utaq 16 cuadrado akllay, hinaspa imaynata runakuna pukllanqa.",
+      "“Kartakunata imprimiy” nispa kutichiy. Sapa karta hukniraqmi.",
+      "Hatun pantallapi waqyaqta kicha. “Qatiq rikch'a” nispa kutichiy, sapa rikch'ata sutinwan rikuchinapaq.",
+      "Pukllaqkuna kartanpi tupaq rikch'ata qolqewan, botonwan utaq marcawan tapunqa.",
+      "Huk awqa tuqyaq utaq tukuy karta tuqyaq runakunaq kusi qaparinqa. Kay versionpiqa manan pierdeqkuna kanchu: pukllaychis, llapa huk awqata tuqunankama."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Hatun qolqekunata apaychis, damas utaq botella tapakunata hina. Pisi botonkunata hap'iyqa llakiwanman.",
+      "Rikch'ata sutinwan rimay, hinaspa imatapas rimay: “Velero. Pitaq barcopi purisqa?”",
+      "Mana allintaq qhawaq runakunata pantallaq sapallanpi tiyachiy, yanapaqkunatapas yanapanankupaq pukllaqkunawan paresyachiy.",
+      "9 cuadrado aswan huñunakuqkunapaq allinmi. Pukllayta 20 kama 30 minutokama tiyachiy."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Imaynatataq rikch'a bingota ruwasaq yuyaykuna waqaychaq wasipi?",
+        "a": "Sapa pukllaqpaq huk karta imprimiy, waqyaqta hatun pantallaykipi churay, rikch'akunata usqhallamanta waqyay, sapanta sutinwan. Llapa huk awqata tuqunankama pukllay, chaymi mana pipas mana tarikunqachu."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Yes. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "Imprimiyqa mana qolqeniyuqchu?",
+        "a": "Arí. Imprimiy kartakunata munasqaykiman hina, sapa kutipas, kikiykipaq utaq huñunakuypaq."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Yes. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Runakuna mana liyispachu pukllayta atinku?",
+        "a": "Arí. Sapa cuadrado hatun rikch'a, simikunata munaqkunapaq sutin uraypi kanqa."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Sumaq samay ukuy",
+    "seoTitle": "Huk sumaq samay ukuy samanakuy, machu runakunapaq hinaspa qhawaqkunapaq",
+    "h1": "Huk sumaq samay ukuy samanakuy",
+    "description": "Huk allin samay ukuy samanakuy hukwan kawsakunapaq: muyu hatunchakun hinaspa pisiyan suqta samaykunapaq. Qallariwaq, tukuyta munaspaykiqa tukuy horapi tukuyta atiwanki.",
+    "short": "Hukllawan samaypaq muyu. Munasqaykiman hina qallarichiy utaq tukuy.",
+    "players": "1 utaq 2 runa",
+    "intro": "Kaq kutikunapi allin ruway, upa samanakuy. “Qallariy” nispa kutichiy, hinaspa muyu hatunchakuqtin samay, pisiyaqtin lloqsiy. Akllay utqaylla utaq ch'usaq ritmo. Manan tratamientochu, huk sumaq samaq tiempo kikillanmi hukwan kawsakunapaq.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Hukkuna chimpa-chimpa allinta tiyakuychis.",
+      "Ritmota akllay: utqay utaq sumaq.",
+      "“Qallariy” nispa kutichiy. Muyu hatunchakuqtin samay, pisiyaqtin lloqsiy.",
+      "Suqta samaykuna qhipaman kikinmi tukun, utaq munasqaykiman hina “Tukuy” nispa kutichiy."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Makinkuta tuqllay utaq makiykita runaq makinman churay, chayqa munakuqtin.",
+      "Ama mana munaspa mañakuychu. Qhawayta munaptinqa, allinmi.",
+      "Pipas samay llakiyuq kaptinqa, sapa kutipi hina samaychis, muyuta qhawaychis. Samaypi llakikuykunamanta doctorta tapuychis."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "No. It is a simple, optional pause for calm and company. It is not a treatment for anxiety or any condition. Talk with a doctor about health concerns."
+        "q": "Kayqa medicina samay ruway kanchu?",
+        "a": "Manan. Sasachu, upa samanakuy, munasqaykiman hina, sumaq kananpaq hukwan kaqpaq. Manan tratamientochu llakikuypaq utaq pipas unquypaq. Hampikuq doctorwan rimay hampi llakikuykunamanta."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "No. Nothing moves until you tap Start, and it stops after six breaths or when you tap Stop. If your device is set to reduce motion, the words change without the circle growing."
+        "q": "Qallariwaqtiy mana, muyuqa kikinmi kallpanchakun?",
+        "a": "Mana. Qallariy pulsaspalla imapas kinchakun, hinaspa suqta samay kutinpi utaq Sayachiy pulsaspa tukukun. Sichus aparatuykipi kinchakuyta pisiyachisqa kashan, rimaykunallam t'ikrakun, muyuqa mana hatarinchu."
       },
       {
-        "q": "Is it free, and do I need to sign up?",
-        "a": "Yes, it is free, and there is no account, sign-up or download. It works in the web browser on a phone, tablet or computer."
+        "q": "Qolqe mañakunchu, hinaspa cuenta kichanaypaq ima necesitanichu?",
+        "a": "Ari, qolqe mañakunchu. Mana cuenta, qillqachikuy utaq apariy kanchu. Celularpi, tablet nisqapi utaq computadorapi web qawarichiqpi llamkan."
       }
     ]
   }
