@@ -1,33 +1,32 @@
 ---
-title: "Kassitih Taamoomi: Sanduuqa, Mano Taarik kee Suwitte"
-seoTitle: "Kas-Masnu luk Yan Marah Kassit: Meqsit Maleh Yaaba"
-description: "Kas-masnu luk yan num lih kassit meqsit maleh itiyya lih bicsiyyo: suwitte, kassit sanduuqa kee mano kitaabay salaamatah tan yaaba luk."
+title: "Kassititaano: Kassiti Sanduuqa, Manô Warraytii kee Suwár"
+seoTitle: "Kas Dagna Lemarih Kassititaano: Esseera Maleh Yan Yaab"
+description: "Kas dagna le numuk kassititaano esseera aallekal ittat maaxisen gurra: suwârh yaaba, kassiti sanduuqa kee manô kitaab, yaab xalisa yaaba luk."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kassit deqsittam tunkube waktih kassit suwitte, miidiyee, muusiiqa kee
-  wacyittel itiyya lih wallowtiyya kinni. Kassitih sanduuq bicisa, mano
-  taarikih kitaab bicisa, hinnay suwitte itta xaqut guba. Gibdi essero
-  kibala: "Kassittaay?" kee "Ah iyyi?" kaliteenik, "Ahim elle tanim yoh waris"
-  iyyaanam xiqtana. Numma timixxigem elle xannootam akke kal, meqe wacyit
-  koboxuk geytimaanam aysuk raqta.
+  Kassititaano warrayte araca ittalluk wallagoona suwár, miqiyyi hayteem, koora kee
+  warraytotta luk baxxaqisaana axci koboxa. Kassiti sanduuqa qiba, dagô manô
+  kitaab bicisa, hinnay itti gambit suwár wagita. Esseeroota maabbina: "Kassittaa?"
+  kee "Tah iyya?" axcekal, "Ta aracak yoh waris" innaan yaabak xalisa. Cakkik
+  yaaboona akkaluk ruffo le yaaba aallaanam muxxi kicnih tanim kinni.
 keyPoints:
-  - "Kassit yaaba kinni, meqsit hinnay fexam hinna. Numma akke waam koboxuh tuxiqe waytek, wallow aysuk raqta."
-  - "'Kassittaay...?' kee 'Ah iyyi?' iyyaanamik xabba haay, 'Ah ayro yoh waris' iyyeenik aysa."
-  - "Numuk manok geytimte miidiyee luk tan kassitih sanduuq gaba kee wacyit qokolta."
-  - "Mano taarikih kitaab buxah mara, tibbina mara kee dacayrih taamabeynih numuk manoo kee qanbi mixigeh yaaboh qokol yaaba."
-  - "Kassit nadaama hinnay rookah kaltek, aawala kaah acwaay garab kaak gaca."
+  - "Kassititaano yaaba kinni, mokkoro hinna. Numma akke waytam dambik mayan; wallaguk yaabaanam kinni axwah tanim."
+  - "'Kassittaa...?' kee 'Tah iyya?' axcekal, 'Ta ayrók yoh waris' innaan maxcoota kee fantaaxawwa luk yaaba."
+  - "Numuk manô miqiyyik yibbixeen kassiti sanduuqi, gaboobi kee yaabak yabbixeenim yeceema."
+  - "Manô warrayti kitaabi buxah mara, asgalle mara kee wagittoynaani num kassiise lem yayse yaaxigeenimkeh cato yacee."
+  - "Kassiti rookateenat culteek, qokol gaba heenik xalissuk aka yaabal cula."
 faq:
-  - q: "Kas-masnu luk yan marah kassit iyyam macaay?"
-    a: "Kassit deqsittam tunkube kassit kee manoh wacyitte suwitte, miidiyee, muusiiqa hinnay viidiyoh qokoluk itiyya lih wacyit abiyya kinni. Numuk numuh hinnay maruk koboxut abak xiqta. Qaddoosiyyah meqsit akke kal, xannow kee meqe wacyit geyoona elle heeni qasbi kinni."
-  - q: "Maccah 'Kassittaay?' iyyah esseriyyo waynaah?"
-    a: "Kassit fexta esseroora numuk qangara geyo waytek kacan kee wacaysiyya kaah baxxaaxuk dudda. National Institute on Aging num kassitam esseriyyo kalaluunuh tan taamoomih fanat hayte. Elle gubtanim gersi num warisaay, usun elle edde yanim akah oggola."
-  - q: "Kassitih sanduuqut maca heenik aysaah?"
-    a: "Numuk manot geytimte salaamat leeh gibdi miidiyee doora: taamah miidiyee, fayxih miidiyee, doolad, boostah kaardi, maaqoh bicsiyyah kaardi, ispoortih kassit hinnay suwitteh kobiyya. Qoxxoc leem, qamaluk xiqtimtam kee kassiysiyyah duude waytan qariib miidiyee kibaala."
-  - q: "Numma teeti waytek maca abnaah?"
-    a: "Kabay haysa. Inaay tet suwrat say-migaaq tet toobokit ikkek tet toobokowuyte teeti tekkay, meqe. Numma tewqem diggisiyya meqe wacyit meqsit fanah tabaasa. Usun warisan wacyit katalay itiyya lih wallowa."
+  - q: "Kas dagna le marak kassititaano axci macah yan koboxaa?"
+    a: "Kassititaano warrayte waktik warraytotta ittat maaxisaanam kinni, suwár, miqiyyi, koora hinnay viidiyook cato geyak. Tonnaak num-ke-numuk hinnay koboxut tekkelem takkewwam duuda. Kacanik tan yaaba geyaanam kinni meqe axwah tanim, num kassitaamal mokkoro abaanam hinna."
+  - q: "Maccah 'Kassittaa?' iyyu maaxigoo?"
+    a: "Kassit mokkora esseerooti qellisaanam kee sababi aallekal rammisaanam abbicak tanoo waan xaloot baaha waydu. National Institute on Aging num kassitaa waytaamal esseera abaanam xaban meqeemik yeceen. Taway tablinimik yaaba, wohuk sarra numuk isi gaba kaloonu waan gurral fayxi leem edde osisaanam meqe."
+  - q: "Kassiti sanduuqul macah tan miqiyyi heeyoo?"
+    a: "Amaan le, meqe miqiyyi numuk manô taamal xabbaateh tanim doora: taamâ miqiyyi, saytunnooti, kacnu le shaash, kaartoota, kaxxa-maaqô tabeela, fardi ganoonih taamoota hinnay suwârik qokol suwár. Sibit le miqiyyi, qoltelem kee baxxaqisa wayta fula maheenina."
+  - q: "Numma miqiyyit cakkik aalle waayeenik maccah abiyoo?"
+    a: "Mawaaninina. Ku inna suwuri isi toobokoytak iyyaamak, wuli abba-xala tekkek, tu mawaana. Yayse heem korsaanam kacanik tan waktik mokkoro bicissa. Usun warisaanamik kataataay ittalluk wallaga."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -42,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Kassit deqsittam tunkube waktik itiyya lih wallowtiyya kinni. Kas-masnu luk yan marih maggo marat, kaxxa sanatih duma kassit saaku maxico tekkeemit aysuk cawalaay baxxaaxak raqta. Suwitte, yaaxigeeni miidiyee, muusiiqa kee wacyitte woo kassit fakak xiqtaay, koboxih meqe wacyit siinih acuwak dudda. Elle tan tii madqa: ah meqsit hinnay, wacyit yaaba kinni.
+Kassititaano warrayte saakuut ittalluk wallagaanam kinni. Kas dagna le marak maggo marih warrayte kumootat sugte kassiisi asaaku maaqo gacteelemik gersi waktil yayse gacak raaqa. Suwár, xannaba le miqiyyi, koora kee warraytooti too kassit faakeh ittalluk ruffo le waktî yaaba sin yaceewwam duuda. Inki madqa le: yaaba kinni, mokkoro hinna.
 
-## Kassit macaay, esseroh meqsittek mannal baxsitaah?
+## Kassititaano macah yan koboxaa, esserô mokkorok mannal baxsitaa?
 
-Kassit deqsittam suwitte, miidiyee, muusiiqa hinnay viidiyol kassit numuk isi xiqtok itiyya lih gubiyya kinni. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) qaddossam, suwitte, miidiyee, viidiyo hinnay muusiiqah qokoluk kitaabut hinnay taabletit wacyitte itiyya lih bicsiyyo kinni. Esseroh meqsit baxsita: numuk cakkik tan jawable acwa inna axcih meqsiyaanam kinni, toh wallow akke kal kacan bahtam dudda.
+Kassititaano warrayte saakuuk suwár, miqiyyi, koora hinnay viidiyoot luk numuk isi xalootuk gacisak ittat maaxisaanam kinni. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) tekkem warrayte taama kee warraytooti suwár, miqiyyi, viidiyoot hinnay koorâ cato luk, kitaabal hinnay taableetit ittat maaxisaanam iyyan. Mokkorô esseerooti baxsita: cakki gabaasa yaceenim faxxa, toh kay edde rammisam bahta akke waytek ruffo male.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) numuk kassit hinnay num yaaxigeemih essero kalaluunuh tan taamah fanal edde heele. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) dagom waktih kassit elle tan esseroora kaliteenik, wadir waktih kassitol yaabaanam taaxigeeh qiddisiyya tece.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) numuk tu hinnay num kassitaa innaan esseero esseraanam xaban meqeemik kassiise. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) dagô waktî kassitit celta esseero xabanik, derre gacte warrayti kassitit yaabaanam xiqsissa.
 
-| Ah iyyah kaltek | Ah geegiisa |
+| Ta axcekal | Tah geera |
 | --- | --- |
-| "Ahim kassittaay?" | "Ah meqe ayro celta. Elle tanim yoh waris." |
-| "Ah iyyi kinni?" | "Doolad Roza bad xaqut tan. Woo koofiyatal guba." |
-| "Ahi a sanataay?" | "Ah duma dabqah celta. Woo buxat dabqit mannal teneeh?" |
-| "Malee, woo Bilaal hinna, Faraac kinni." | "Usuk kaxxa wallow le numuk celta." |
-| "Ahim dumal yoh wariste." | "A wacyit kaxxa koboxuh kacan liyo." |
+| "Tah kassittaa?" | "Tah ruffo le ayró celta. Wohuk yoh waris." |
+| "Tah iyya?" | "Koo Aunt Rose badô gariil tan. Too koobiyyata wagit." |
+| "Ta ayró anni sanata?" | "Ta araca kaxxa buxah celta. Too buxal manom mannal sugteeh?" |
+| "Hinna, toh Bill hinna, Frank kinni." | "Usuk kaxxa wallag le numuk celta." |
+| "Toh taway yoh warisseh sugtek." | "Too warrayto kaxxa kacanik liyo." |
 
-## Suwittel meqsit maleh mannal yaabaanaa?
+## Suwárik esseera maleh mannal yaabaanaah?
 
-Gubtanimil faka, sarrah usun edde heeni fayxi leenik elle oggola.
+Tablinimik yaaba, sarra num faxek isi gaba edde haamkeh caxxa le gaba acuy.
 
-1. **Itta xaqut guba.** Albom siinik fanat haysitaay, itta lih guba kal, taraabizak xabbowuk fexam meqsitte maabina.
-2. **Dago suwitte doora.** Sanduuq koboxuk koona meqe suwrat aysuk raqta. Kaxxam kee baxxaaxak tan suwitte aysa.
-3. **Migaaq isin qiddisa.** "Ah atu kee Abbah aroocay ayro kinni" axceenik, gibdaabina kak tayseenik aysa.
-4. **Baxxaaxak tan miidiyel yaaba.** Sara, mootora, maaqo, ayroh celta, fooca. "Ah manna mootoraay. Kaxxam carita."
-5. **Kallaca, xiqtuh makattisina.** "Yoh waris..." hinnay "Maca gubta?" Gabbaagab meqe.
-6. **Usun geytiman madqat kataya.** Gersi yaabal gacanik, usun fanah kataya.
-7. **Wallow elle tanik gabagabisa.** Daqaytu amol maatinnaanuk albom alifa.
+1. **Itti garil koboxuta.** Suwârih albam sin itti fantaaxawwat tabbixeenik ittalluk wagittaana, miizâ gambik itti wagitak mokkorô gurral hinna.
+2. **Dagooma suwár doora.** Konoy meqe suura maggo sanduuqak tayse. Kaxxa, baxxaqqa le suwár tayse.
+3. **Maro ku gabat migaq acuy.** "Koo kee Abbah aroocah ayró taama" axceet kaxxa taama kalta.
+4. **Baxxaqqa leemik yaaba.** Sara, makinaani, maaqo, ayrô xaloota, fooca. "Mannah tan makinaay. Cisa leem celta."
+5. **Kacanik fantaaxawwa acuy, faxe kal.** "Yoh waris..." hinnay "Maccah tableeh?" Gab-axcekal sugaanay faxe waytam maane.
+6. **Kay gabaasa kataata.** Aka yaabal culeenik, woo yaabak ittalluk gaca.
+7. **Ruffo litinik xalisa.** Daacur geytimak suge kal albam alifa.
 
-Bicissimte suwitteh qokolul yaaboh, [wacyitih kaarditte](/games/conversation-cards/) geegiisa. Buxah suwitte itta celta meqeh gacsiyyah taamah bicisoonuh, [suwrat celta](/games/photo-pairs/) geegiisa; doortan suwitte siinih tan burawzerik awqe wayta.
+Bicisse suwârih maaxootah, [conversation cards](/games/conversation-cards/) geera. Ku buxah suwár ittat celta ganoonih tabsiisaanamkeh, [photo pairs](/games/photo-pairs/) geera; dooritan suwár ku braawzerit raaqta.
 
-## Kassitih sanduuq mannal bicisaanaa?
+## Kassiti sanduuqa mannal bicisaanaah?
 
-Kassitih sanduuq deqsittam numuk isi manok geytimte miidiyeeh sanduuquy gaba kee yaabah bicsaanam kinni.
+Kassiti sanduuqi numuk manô miqiyyik yibbixeen, gaba luk yaabaanamkeh tan koboxa kinni.
 
-1. **Gibdi sanduuq doora** fakiyyah salaamat leem, saabaati sanduuq, koofiyah sanduuq hinnay xayi sanduuq.
-2. **Kobox hinnay baxsiyya doora.** Taama, fayxi, baaxo, sanatoota, hinnay umman caddok dagoom.
-3. **Salaamat le miidiyee koboxisa.** Qiddisiyyah koonaak tabanak fanah meqe.
-4. **Kaxxa kassiysiyyah duude waytan miidiyeek kobiyya aba.** Suwitte kee warqitteh kassiysiyya safe heyaay qariib kaak kalita.
-5. **Tiik tiikih teetik awqisa.** Tii gaba acwaay, kaal yaabaay, yaab axce fanah kataya.
+1. **Meqe sanduuq doora** xalissuk fakkiimtam, koobiyyatâ sanduuqa, saaqatâ sanduuqa hinnay qaxarih qasbata.
+2. **Kobox hinnay baxa-baxsal doora.** Taama, saytunno, araca, wuli saakuuta, hinnay inkih dagooma.
+3. **Amaan le miqiyyi gabaasa.** Konooyik taban fanah tan miqiyyi qimboh geytima.
+4. **Qokol suwár kee waraaqat gabaasa.** Maggah tan suwár kee kitaabittek qokol bicisaay kaxxa waraaqitte amaanat heeya.
+5. **Miqiyyi inkitti-inkittuk awqisa.** Inki miqiyyi gaba heenik, kay yaaba acuy, yaab mannal gacaah wagit.
 
-Sanduuqul haysitonaanam:
+Bicisaanâ fanah tan miqiyyi:
 
-- **Taama:** migaaqih baaj, dagoo taamah qonxa, unifoom, kitaaba, kalkaaltih pini, maaqoh kitaaba.
-- **Dabqa:** gabaak biykite maaqoh kaardi, shaayih fooca, kacan le doolad hinnay raabta.
-- **Fayxi:** doqol maleh kullaaytih kalu, kura, xiyyit, ayrorti.
-- **Baaxoyisse:** boostah kaarditte, kaarta, duma baaxoh kassiysa, duma gazzexxah qadaf.
-- **Buxah mara:** suwitteh kobiyya, xayloh suwrat, aroocah kallac.
+- **Taama:** migaq bardi, dagoona taamâ miqiyyi, yunifoormih calaamata, xisabâ waraaqa, kalkalitte, kaxxa-maaqô kitaaba.
+- **Buxa:** qaxarih gabat yente kaxxa-maaqô waraaqa, shaash, foocah faylaata hinnay ruffo le marro.
+- **Saytunnooti:** kusaatâ koboxa, buullâ kubba, doqiyya, xanxuub.
+- **Baxa-baxsale araca:** bostâ kaartoota, kaartá, daqô sooleela, ku baaxô gaazetta.
+- **Buxah maro:** suwârik qokol, urrih taswiira, aroocah doora.
 
-Qoxxoc leem, qamaluk xiqtimtam kee rookah kassiysiyya bahtam kibaala, usun kacan luk elle yaninik sa.
+Sibit le miqiyyi, qoltelem kee rookateenat baaha waam kalteeni meqe, sin celtaamah akke waytek.
 
-## Mano taarikih kitaab mannal bicisaanaa?
+## Manô warrayti kitaab mannal bicisaanaah?
 
-Mano taarikih kitaab deqsittam suwitte kee dago yaabah kassiysa numuk manok albom kinni. Itiyya lih guboonuh, buxat yamaate maraay dacayrih taamabeynit numuk koboxih mixigey meqe tece.
+Manô warrayti kitaabi suwár kee caxxa le waraaqitte luk numuk mano baxxaqisa kitaab kinni. Ittalluk wagitoonuh meqe, tonnaak asgalle maray care abta num inkih yaaxigeenimkeh cato yacee.
 
-1. **Formaat doora.** Folfol aliftam, tabqate kitaaba, hinnay taablet amol suwitte.
-2. **Dago baxsiyya bicisa.** Xaylo-waktu, baritto, taama, buxah mara, daabina, diini, fayxi, meqe maaqo kee muusiiqa.
-3. **Qasir tiik nammay suwrat haaya** kaxxa kutbeh wacyi luk: "Mariya, 22 sanatih xiqto, baankit taama qiddise."
-4. **Fayxi kee kacan edde haaya.** "Shaayi qado luk yaaqube. Ahad kacanle muusiiqa kacan le. Kaxxa sagaleh TV makacana." Ah dacayrih mara kaxxam qokola.
-5. **Num edde yanim akah oggola** suwitte dooriyya, wacyit warisiyya hinnay gubiyyat.
-6. **Kibabuk edde korma.** Tuumat xiqtam makicna tuxiqe akke waytek.
+1. **Kitaabâ cayna doora.** Faayil, pirintik yewqe suwârih kitaaba, hinnay taableetit yaalen viidiyoo.
+2. **Dagooma baxsiyya bicisa.** Qunxaaneyna, madrasa, taama, buxa, sugte araca, iimaana, saytunno, kacnu le maaqo kee koora.
+3. **Inki warqatal inki hinnay namma suura heeya** kaxxa fula luk: "Mary, 22 sanat luk, baankit taama qimbiseh sugte ayró."
+4. **Kacanu leem kee caada heeya.** "Bun caxâ cado luk yaaqube. Ayrobaqó koora kicni. Kaxxa raaq le TV ma-kicna." Tah qokol yacee marak yaaxigeenimkeh cato yacee.
+5. **Num isih faxannal edde heeya**, suwár doorak, warraytoota warisak hinnay wagitak.
+6. **Edde oosaay suga.** Dhumuk taamite waytek kacanik taamata.
 
-## Gersi kassitih meqe taamoomi
+## Gersi kassititaano ganooni
 
-- **Sarrah waktih muusiiqa faka** kaah wacyit elle abte fanah yaaba. Gub [muusiiqah taamoomi](/activities/music/).
-- **Duma vidiyo hinnay TV guba** kacan le sanatootak.
-- **Xaylo-waktih maaqo bica** carway yaab akah faktu heya.
-- **Kaarta guba** daabina baaxoy daqaari yaaxigeenim kataata.
-- **Duma maajallatte guba** elle yaaba wagteemi, sara kee mootoriteel.
-- **Wacyitte telefoolil koboxisa**, idni luk, buxah marah.
-- **Telefoolil bicsa.** Vidiyoh wacyit amol tii suwrat gicla; gub [telefoo kee vidiyoh wacyit](/activities/phone-and-video-calls/).
-- **Tibbina waktu suwrat hinnay miidiyee luk mara.** Tibbina aysuk fakta; gub [tibbina](/activities/visiting/).
+- **Qunxaaneynal sugte koora culaay** too aracak yaaba. Wagit [music activities](/activities/music/).
+- **Warrayte waktik buxah viidiyoo hinnay TV wagit.**
+- **Qunxaaneynal akmiyen maaqo bicisaay** soono luk yaaba.
+- **Ku baaxô kaarta wagitak** yaaxigeen gariil gaba heeya.
+- **Warrayte waraaqat kee kitaab wagitaay** gati, sara kee makinaanik yaaba.
+- **Warisaanam silkik kasba**, sin idni luk, buxah maroh.
+- **Silkih yaabat ittat maaxisa.** Viidiyook yaabat inki suura gaba heeya; wagit [phone and video calls](/activities/phone-and-video-calls/).
+- **Asgallat suura hinnay miqiyyi luk gaca.** Ganoona kaxxa fantaaxawwa geyta; wagit [visiting](/activities/visiting/).
 
-## Kassit nadaama luk yanim tekkay maca abnaah?
+## Kassiti rookat baahek maccah abiyoo?
 
-Gari kassit rookah, nadaama hinnay meysi luk tekkek dudda. Num rookitak tekkek, gabagabisaay, aawala kaah acwaay, salaamatah tan yaab hinnay taamat gaca. Tunkubeemit maabbina. Family Caregiver Alliance num koroosannuh kalaluunuh teceeh, usun yubleeni ruuclih kassit elle taniyyeh gacisaaxicih tece. Qimmuk rabe num manol yaniyyeh yaabaanik, kassitit gacisa: "Kaa kacan litoh. Kaah yoh waris."
+Wuli kassiti rookata, naddom hinnay meesi bahta. Num rammisek, soolaay, xalisaay kacanik aka yaaba hinnay taamat cula. Sugteemik mokkoro ma-abina. Family Caregiver Alliance maro dambit yan iyyeenik yayse amol aalle waam kaslissa, usun yayse heem xabak tan rookati numma kinni axce kassiise. Rabe numuk manot yan innaan yaabak sugeek, xalootul gaca: "Kaa kassitta. Wohuk yoh waris."
 
-## Qilmik qadafeenim maca iyyaah?
+## Taamâ barittoota macah ittaa?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), 22 geegisiyya kee 1,972 mara luk tekkeem, baxsa luk baxsitaah, dago tuxiq leemit geytimte. Kas-masnu luk yan marah madaqqi leemih sumaq mageyinna. Kassit meqe axcuk qiddisnem salaamatah tan wacyit itiyya lih geyoonuh kinni, dacarsiyyah kuras hinnay qandeh hinna. Salaamatah tan wacyit geyoonuh, gub [wacyitih maxcooca](/caregiving/communication-tips/).
+[Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia) 22 mokkoro kee 1,972 numuk geytimte baritto, kassiisih taama baxsa le aracal dagooma baxsiyya luk yembexxeqem geyte. Kas dagna le maral kaxxa dambi luk ma-geytiminna. Kassititaano kacanik tan waktii kee wallag bahta taagah xiqsisna, qaffi daway hinna. Xalisa yaaba kassiisaanamkeh, wagit [communication tips](/caregiving/communication-tips/).

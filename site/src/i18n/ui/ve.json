@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "Fhirelani kha zwi re ngomu zwihulwane",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "Nyito dza dementia",
+    "homeLabel": "Hayani ha Golden Moments",
+    "mainNav": "Zwihulwane",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "Tshivenḓa",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments: zwifanyiso zwihulwane zwavhuḓi zwa khaphu ya tie, ḽuvha ḽa ḓuvha na mmbwa",
+    "languages": "Luambo",
+    "englishOnly": "(Tshiisimane)",
+    "machineTranslated": "Siaṱari heḽi ḽo ṱalutshedzwa nga mutshini nahone a ḽi athu sedzuluswa nga muambo wa damuni.",
+    "readOriginal": "Vhalani tsho ṅwaliwaho tsha u thoma nga Tshiisimane",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "Mitambo",
+      "activities": "Nyito",
+      "caregiving": "U ṱhogomela",
+      "brainHealth": "Mutakalo wa vhuluvhi"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "Mbudziso na phindulo",
+    "breadcrumb": "Nḓila ya siaṱari",
+    "home": "Hayani",
+    "lastUpdated": "Zwo vusuluswa lwa u fhedza nga",
+    "topics": "Thero",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "Vhukando ha maṅwalo",
+      "smaller": "Maṅwalo a maitele",
+      "larger": "Maṅwalo mahulwane",
+      "contrast": "Tshedza tsho engedzeaho"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
+    "play": "Tambani",
+    "picturePairs": "Zwifanyiso zwi no fana",
+    "conversationCards": "Garata dza nyambedzano",
+    "pictureBingo": "Bingo ya zwifanyiso",
+    "allGames": "Mitambo yoṱhe",
+    "pictures": "Zwifanyiso zwa u gandisa",
+    "activityIdeas": "Mihumbulo ya nyito",
+    "ideas101": "Mihumbulo ya nyito ya 101",
+    "lateStage": "Nyito dza tshiimo tsho fhirelaho",
+    "printable": "Nyito dzi no gandisea",
+    "allActivities": "Nyito dzoṱhe",
+    "forCaregivers": "Zwa vhaṱhogomeli",
+    "playTogether": "Nḓila ya u tamba vhoṱhe",
+    "selfCare": "U ḓiṱhogomela",
+    "brainHealth": "Tsedzuluso dza mutakalo wa vhuluvhi",
+    "faq": "Mbudziso na phindulo",
+    "about": "Nga ha riṋe",
+    "approach": "Kuitele kwashu",
+    "howWeWrite": "Nḓila ine ra ṅwala ngayo",
+    "organizations": "Zwa madzangano",
+    "app": "Aplikesheni ya Golden Moments",
+    "appHelp": "Thuso ya aplikesheni",
+    "support": "Thikhedzo",
+    "legal": "Zwa mulayo",
+    "sitePrivacy": "Tshiphiri tsha webusaiti",
+    "appPrivacy": "Mbekanyamushumo ya tshiphiri ya aplikesheni",
+    "privacyChoices": "Khengethedzo dza tshiphiri",
+    "terms": "Milayo na laisenisi ya aplikesheni",
+    "safety": "Tsireledzo na kushumisele kwo teaho",
+    "accessibility": "U swikelelea",
+    "healthNotice": "Ndivhadzo ya mafhungo a mutakalo",
+    "allLegal": "Mafhungo oṱhe a zwa mulayo",
+    "note": "Golden Moments i ṋekedza nyito ṱhukhu dzi no ṱanganelwa u itela dakalo. A si tsivhudzo dza vhadokotela, mulingo kana ngalafho, nahone a i ḓivhisi vhulwadze, a i pimi kana u vhalela muthu nṋe. Kha mbudziso dza mutakalo, ambani na dokotela. Kha vhuimo ha shishi, founelani 112.",
     "publisher": "Published by Cloudjet Solutions Pte. Ltd."
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "Mitambo na Nyito dza Dementia na Alzheimer's | Golden Moments",
+    "description": "Mitambo ya mahala, yo rudzaho ya zwifanyiso ine na nga i tamba kha inthanethe na mihumbulo ya nyito zwa vhathu vhane vha khou tshila na dementia kana Alzheimer's na vhaṱhogomeli vhavho. A hu ṅwaliswi, a hu na zwikale kana mbalelo dza zwikoro.",
+    "eyebrow": "Mahala · A hu na vhashambadzi · A hu ṅwaliswi · A hu na zwikale kana zwikoro",
+    "h1": "Mitambo na Nyito dzo Rudzaho zwa Vhathu Vhane Vha Khou Tshila na Dementia",
+    "lede": "Mitambo ya zwifanyiso i leluwaho, zwifanyiso zwine na zwi ḓivha, na nyito dza u ḓiphina vhoṱhe—nga luvhilo lwaṋu lwo vhofholowaho.",
+    "playGame": "Tambani Mutambo",
+    "findIdeas": "Wanani mihumbulo ya nyito",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "I shuma kha luṱingo, thaḽithe na khomphuyutha",
+      "Zwifanyiso zwihulwane zwine zwa dzula zwi tshi vhonala",
+      "Imisani tshifhinga tshiṅwe na tshiṅwe; a hu na tshine na nga kundwa khatsho"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "Kha ḓi vha na aplikesheni ya mahala ya iPhone, iPad na Android, i re na zwifanyiso zwa muṱa waṋu vhoṋe",
+    "albumNote": "“Zwifanyiso zwivhili zwa khaphu ya tie, zwi vhoṱhe.”",
+    "gamesEyebrow": "Tambani kha burausa yaṋu",
+    "gamesTitle": "Mitambo ine na nga i tamba zwino luno",
+    "gamesLede": "Muṅwe na muṅwe wo dzika, ndi wa vhahulwane nahone u thoma nga u ṱavhanya. Nangani muthihi, dzulani tsini na tsini, nahone ni thikhane u kanda.",
+    "seeAllGames": "Vhonani mitambo yoṱhe ya {count}",
+    "howTitle": "Kushumele kwayo",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "Nangani tshine na tshi ḓivha",
+        "text": "Zwifanyiso zwa dzikhaphu dza tie, ngade, zwifuwo zwa hayani na zwikepe. A hu ṱoḓei u vhala kana u thoma nga u guda milayo."
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "Dzulani tsini na tsini",
+        "text": "Vha litsheni vha kande. Ambani nga ha zwifanyiso. Zwi sa elani zwi sokou lindela u kandwa ha tshi tevhelaho."
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "Imisani musi zwi tshi kha ḓi ḓifha",
+        "text": "Mutambo muthihi ndi nyito yo fhelelaho. “Zwo fhela zwa zwino” zwi dzula zwi tshi vhonala tshikirinini."
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "Nnda ha tshikirini",
+    "stageTitle": "Mihumbulo ya nyito kha tshiimo tshiṅwe na tshiṅwe",
+    "stageLede": "Muzika, mishumo ya ḓuvha ḽiṅwe na ḽiṅwe, u humbula zwa kale na zwifhinga zwo dzikaho zwa u pfa, zwo lugiselelwa zwine zwa ḓifha zwino.",
+    "ideas101": "Mihumbulo ya nyito ya 101",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "Tshiimo tsha u thoma",
+        "text": "Bvelani phanḓa na u ita zwine vha zwi funa, nga thandululo ṱhukhu: zwithu zwa u ḓimvumvusa, u bva nnda, mitambo ya maipfi na u pulana vhoṱhe.",
+        "label": "Mihumbulo ya tshiimo tsha u thoma"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "Tshiimo tsha vhukati",
+        "text": "Mishumo i leluwaho ine vha i ḓivha yo kumedzwaho nga vhukando: u peta, u khethekanya, muzika, mitambo ya zwifanyiso na u tshimbilanyana.",
+        "label": "Mihumbulo ya tshiimo tsha vhukati"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "Tshiimo tsho fhirelaho",
+        "text": "U khuthadza na u kwamana nga u kwama, mulidzo na u vhona: u ṱhogomela zwanḓa, nyimbo dzi funwaho, zwifanyiso na u dzula vhoṱhe.",
+        "label": "Mihumbulo ya tshiimo tsho fhirelaho"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "Naa ni khou ṱoḓa tshiṅwe tshithu tsho livhaho? Lingedzani <a href=\"/activities/alzheimers/\">nyito na mitambo ya Alzheimer's</a>, <a href=\"/activities/memory-games/\">mitambo yo rudzaho ya muhumbulo</a>, <a href=\"/activities/trivia/\">mbudziso dzo leluwaho</a> kana <a href=\"/activities/puzzles/\">phazili</a>.",
+    "approachEyebrow": "Kuitele kwashu",
+    "approachTitle": "Nyito ya u ṱanganela, hu si mulingo wa muhumbulo",
+    "approachLede": "Mitambo minzhi ya “vhuluvhi” yo fhaṱwa kha luvhilo, zwikoro na u bvela phanḓa u sa khakhi. Kha muthu ane a khou tshila na dementia hezwi zwi nga vhonala sa mulingo. Riṋe ro ita zwo fhambanaho na zwenezwo.",
+    "approachLink": "Ndi ngani ri tshi zwi sika nga iyi nḓila",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "A hu na tshine na nga kundwa khatsho",
+        "text": "A hu na watshi, tshikoro, vhutshilo kana u kundwa. Tshifanyiso tshi sa fani tsho sokou vha u ima nyana, hu si vhukhakhi."
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "Zwifanyiso zwi dzula zwi tshi vhonala",
+        "text": "U ḓivha tshi re hone u fhira u humbula. U vhambedza zwi thoma zwo lavhelesa nṱha, nga zwenezwo a hu na tshine na fanela u tshi elelwa."
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "Tsha vhahulwane nahone tshi re na ṱhonifho",
+        "text": "Maipfi a vhuthu, a pfalaho na zwifanyiso zwa zwithu zwa vhukuma. A hu na zwifanyiso zwa khathunu kana maambele a vhana."
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "Tshiphiri tsho vhetshelwaho ngomu",
+        "text": "A hu na dziakhaunthu kana zwishambadzi. Zwifanyiso zwaṋu a zwi bvi kha tshishumiswa tshaṋu."
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "Zwa vhaṱhogomeli",
+    "guidesTitle": "Nyendedzi dza vhuṱhogomeli ha ḓuvha ḽiṅwe na ḽiṅwe",
+    "allCaregiving": "Nyendedzi dzoṱhe dza vhuṱhogomeli",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "Nḓila ya u tamba mitambo vhoṱhe",
+        "text": "U lugiselela, luvhilo, na zwine na nga ita musi mutambo u si tsha takadza."
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "Musi vha tshi hana nyito",
+        "text": "Zwiitisi zwo ḓoweleaho zwa u hana, na nḓila dzo rudzaho dza u dovha na lingedza nga murahu."
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "U lugiselela thaḽithe",
+        "text": "Maṅwalo mahulwane, u thithiswa hu si hunzhi na tshikirini tsha hayani tshi leluwaho."
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "Nyito dza mahala dzi no gandisea",
+        "text": "U ṱoḓa maipfi o ṅwalwaho nga vhuhulwane, masiaṱari a u khalara, bingo na garata dza nyambedzano."
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "Mutakalo wa vhuluvhi: zwine tsedzuluso dza amba zwone zwa vhukuma",
+    "researchText": "Naa dementia i nga thivhelwa? Naa mitambo ya vhuluvhi i a thusa? Hufhani nga ha u ḓidzima zwiḽiwa, zwiḽiwa zwavhuḓi, u eḓela na u pfa? Phindulo dzi pfalaho dzi re na zwiko, u katela na he vhuṱanzi ha vha vhu si na maanḓa.",
+    "researchLink": "Vhalani nyendedzi dza tsedzuluso",
+    "appEyebrow": "Kha ḓi vha na aplikesheni",
+    "appTitle": "Golden Moments kha iPhone, iPad na Android",
+    "appText": "Aplikesheni ya mahala i shuma na hu si na inthanethe nahone i nga shumisa zwifanyiso zwa muṱa zwine na zwi nanga, zwo vhulungwa sa khophi kha tshishumiswa tshaṋu. Tshivhumbeo tsho dzikaho tshi fanaho: zwiṱina zwiṋa zwihulwane, a hu na tshikale, a hu na tshikoro.",
+    "aboutApp": "Nga ha aplikesheni",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "Ndi mitambo ifhio yavhuḓi kha vhathu vhane vha khou tshila na dementia?",
+        "a": "Mitambo yavhuḓi ndi i leluwaho, i ḓoweleaho nahone i si na mutsiko: zwifanyiso zwihulwane zwa u livhanya, u vhekanya nga zwigwada, dziphazili dzi leluwaho, u fhedzisa maambele a ḓivheaho, u vala mivhala, bingo ya zwifanyiso na garaṱa dza u thoma nyambedzano. Tsheo yavhuḓisa ndi ine muthu a khou i takalela ṋamusi. Ivhani kule na zwikombatshifhinga, zwikoro na tshifhio na tshifhio tshine tsha nga mulingo."
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "Naa iyi mitambo ya vhulwadze ha u hangwa ndi ya mahala?",
+        "a": "Ee. Mutambo muṅwe na muṅwe na zwibveledzwa zwine zwa gandisea kha Golden Moments ndi zwa mahala, a hu ṱoḓei akhaundu, u ṅwalisa kana u kopolola. Mitambo i tambiwa kha burawuza ya webu kha lutingo, thafilethe kana khomphyutha."
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "Naa mitambo ya muhumbulo i a thivhela vhulwadze ha u hangwa?",
+        "a": "A hu na mutambo wo sumbedzaho uri u a thivhela vhulwadze ha u hangwa, nahone Golden Moments a i ambi uri i lafha kana u thivhela tshithu. Mitambo yashu ndi ya u ḓiphina na u fhedza tshifhinga noṱhe. Khethekanyo yashu ya mutakalo wa muhumbulo i ṱalutshedza zwine ṱhoḓisiso dza sumbedza zwone na zwine dza sa sumbedze."
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "Naa iyi mitambo i a tea muthu a re na Alzheimer?",
+        "a": "Ee. Vhulwadze ha Alzheimer ndi hone vhune kanzhi ha vhanga vhulwadze ha u hangwa, nahone iyi mitambo yo itelwa honoho: zwifanyiso zwihulwane zwine zwa dzula zwi tshi vhonala, zwikhetho zwi si gathi, nahone a hu na tshine muthu a tea u tshi humbula kana u khakha khao. U livhanya, u vhekanya na u fhedzisa maambele a ḓoweleaho zwi ḓitika nga nḓivho ya kale u fhira u guda zwithu zwiswa."
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "Naa muthu a re kha tshiimo tsha murahu tsha vhulwadze ha u hangwa a nga kona u ita iyi nyito?",
+        "a": "Kanzhi, ee, musi e na muṅwe muthu tsini nae. Thomani nga u Ṱoḓani zwi no fana nga zwifanyiso zwivhili, Mivhili ya zwifanyiso nga zwitiku zwiṋa, siaṱari ḽa u vala mivhala kana u awela lwo thembelelaho nga u fema. Zwi iteni nga tshifhinga tshipfufhi, tevhelani nḓila yavho nahone ni ime musi vho no edzwa."
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "Naa vhuṱanzi hanga vhu tsireledzekile?",
+        "a": "Saitshi iyi a i na dziakhaundu nahone a i na vhushadzisi. Ri shumisa Google Analytics u itela u pfesesa masiaṱari ane a dalelwa. Zwifanyiso zwine na khetha u zwi shumisa kha Mivhili ya zwifanyiso zwi vhonala fhedzi kha burawuza yaṋu nahone a zwi vhuye zwa rumelwa hunwe."
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "Ndi nnyi ane a bveledza Golden Moments?",
+        "a": "Golden Moments ndi tshigwada tshiṱuku tshine tsha bveledza nyito dza zwifanyiso dzo thembelelaho dza vhahulwane dzo itelwaho miṱa na vhaṱhogomeli, kha webu na sa apu ya mahala. A ri vhadokotela, nahone a hu na tshithu hafha tshine tsha vha nyeletshedzo ya zwa mutakalo."
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "u thoma",
+    "middle": "vhukati",
+    "late": "murahu",
+    "hintOne": "Kanzhi zwi tea tshiimo tsha {list}",
+    "hintMany": "Kanzhi zwi tea zwimo zwa {list}",
+    "labelEarly": "Tshiimo tsha u thoma",
+    "labelMiddle": "Tshiimo tsha vhukati",
+    "labelLate": "Tshiimo tsha murahu"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "Nga ha mutambo hoyu",
+    "printable": "Zwine zwa gandisea",
+    "play": "Tambani {name} →",
+    "readGuide": "Vhalani tsumbandila"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "No lugela mutambo wo thembelelaho?",
+    "text": "Zwifanyiso zwihulwane, a hu na tshikombatshifhinga, a hu na zwikoro nahone a hu na zwa u ṅwalisa. Tambani noṱhe kha burawuza yaṋu.",
+    "play": "Tambani Mutambo",
+    "all": "Vhonani mitambo yoṱhe",
+    "aria": "Tambani mutambo"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "Iyani na iyi mitambo na inwi",
+    "text": "Apu ya mahala ya Golden Moments ya iPhone, iPad na Android: zwitiku zwihulwane zwa zwifanyiso, mitambo i re na zwifanyiso zwa muṱa waṋu, na zwiputelo zwa zwifanyiso zwine zwa shuma hu si na Wi‑Fi. A hu na akhaundu, vhushadzisi, tshikombatshifhinga kana zwikoro.",
+    "appStore": "I waneni kha App Store",
+    "googlePlay": "I waneni kha Google Play",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "Nga ha apu",
+    "aria": "Wanani apu"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "Nyito",
+      "title": "Nyito dza Vhathu vhane vha Tshila na Vhulwadze ha u Hangwa",
+      "seo": "Nyito dza Vhathu vhane vha Tshila na Vhulwadze ha u Hangwa: Mihumbulo nga Zwimo",
+      "description": "Mihumbulo ya nyito dza vhathu vhane vha tshila na vhulwadze ha u hangwa kha tshiimo tshiṅwe na tshiṅwe: muzika, u elelwa zwa kale, mishumo ya ḓuvha ḽiṅwe na ḽiṅwe, zwifhinga zwa milozwi, zwa zwandani, nḓa na zwa mahala zwine zwa gandisea.",
+      "lede": "Nyito ya vhuṱhogwa ndi tshifhio na tshifhio tshine tsha ḓisa vhudzulo, ndivho kana tshifhinga tsha u vha tsini na vhaṅwe. Thomani nga zwine muthu a dzula a tshi zwi takalela, nahone ni zwi lulamisetse ṋamusi."
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "U ṱhogomela",
+      "title": "Tsumbandila dza U Ṱhogomela",
+      "seo": "Tsumbandila dza U Ṱhogomela Vha re na Vhulwadze ha u Hangwa: Thuso ya Vhuṱhogwa ya Ḓuvha ḽiṅwe na ḽiṅwe",
+      "description": "Tsumbandila dza vhuṱhogwa na dza vhulenda dza vhaṱhogomeli vha vhathu vha re na vhulwadze ha u hangwa: u tamba mitambo noṱhe, vhudavhidzani, u hana, u sa dzikisa ha madekwana, dziṱhafilethe, u khetha dzi-apu na u ḓiṱhogomela.",
+      "lede": "Thuso i leluwaho nahone ya vhuṱhogwa kha zwifhinga zwa ḓuvha ḽiṅwe na ḽiṅwe zwa u ṱhogomela muthu ane a tshila na vhulwadze ha u hangwa, u katela na u ḓiṱhogomela inwi muṋe."
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "Mutakalo wa muhumbulo",
+      "title": "Mutakalo wa Muhumbulo: Zwine Ṱhoḓisiso dza Amba Zwone",
+      "seo": "Mutakalo wa Muhumbulo na Khombo ya Vhulwadze ha u Hangwa: Zwine Ṱhoḓisiso dza Amba Zwone",
+      "description": "Naa vhulwadze ha u hangwa vhu nga thivhelwa? Tsumbandila dzi fulufhedzeaho dza zwisima nga ha zwithu zwine zwa ḓisa khombo ya vhulwadze ha u hangwa, mitambo ya muhumbulo, u ḓizwima zwiliwa, madaela, nyonyoloso, khofhe, u pfa na zwiga zwa u thoma zwa tsevho.",
+      "lede": "Zwine ngudo khulwane dza vhukuma dza sumbedza nga ha u fhungudza khombo ya vhulwadze ha u hangwa, zwo ṱalutshedzwa nga nḓila i pfalaho, u katela na he vhuṱanzi ha vha hu si na maanḓa kana ho ṱanganyisana. Ndi mafhungo a zwose, a si nyeletshedzo ya zwa mutakalo."
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "Zwo vusuluswa",
+    "minuteRead": "Muvhalo wa miminete ya {n}",
+    "byTeam": "Nga tshigwada tsha Golden Moments",
+    "howWeWrite": "Nḓila ine ra ṅwala ngayo",
+    "shortAnswer": "Phindulo pfufhi",
+    "onThisPage": "Kha siaṱari heḽi (zwipida zwa {n})",
+    "commonQuestions": "Mbudziso dzo ḓoweleaho",
+    "sources": "Zwisima",
+    "sourcesNote": "Ri sumba madzangano na ngudo dze siaṱari heḽi ḽa ḓitika khadzo. Tshiṅwe na tshiṅwe tsho sedzuluswa musi siaṱari ḽi tshi vusuluswa.",
+    "tryTogether": "Lingedzani noṱhe",
+    "relatedGuides": "Tsumbandila dzo yelanaho",
+    "related": "Zwo yelanaho",
+    "startHere": "Thomani hafha"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "Ndivhadzo ya mafhungo a mutakalo",
+    "title": "Mafhungo a zwose, a si nyeletshedzo ya zwa mutakalo",
+    "textHtml": "Siaṱari heḽi ḽi pfufhifhadza ṱhoḓisiso dzo ganḓiswaho u itela miṱa. A ḽi koni u ni vhudza zwine zwa vha zwo teaho muthu muthihi. Ambani na dokotela phanḓa ha u shandukisa madaela a zwiḽiwa, nyonyoloso, khofhe, mishonga kana dzivhithamini. Kha u piringana ha muhumbulo ha tshiṱuhu kana maṅwe mashandukele a tshiṱuhu, wanani thuso ya zwa ngalafho nga u ṱavhanya. <a href=\"/medical-disclaimer/\">Vhalani ndivhadzo yashu ya mafhungo a mutakalo</a>."
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "Nyito ya U Ita Noṱhe, Hu Si Mulingo wa Muhumbulo",
+      "seoTitle": "Nga ha Golden Moments: Nḓila Yashu",
+      "description": "Ndi ngani mitambo ya Golden Moments i si na zwikombatshifhinga, zwikoro kana mutevhe wa mivhalo, ndi ngani zwifanyiso zwi tshi dzula zwi tshi vhonala, na zwine ra ḓo amba na zwine ri nga si zwi ambe nga ha vhulwadze ha u hangwa.",
+      "crumb": "Nḓila yashu",
+      "lede": "Golden Moments i bveledza nyito dza zwifanyiso dzo thembelelaho dza vhahulwane dzine muṱhogomeli na muthu ane a khou tshila na vhulwadze ha u hangwa vha nga ḓiphina ngadzo vhe vhavhili.",
+      "bodyHtml": "<h2>Zwine ra tenda khazwo</h2><p>Ndivho ya zwiito hezwi ndi tshifhinga tshenetsho tshine na vha natsho: nyambedzano, u ṅwethuwa, dakalo ḽa u vhambedza zwifanyiso zwivhili, kana u tou dzula tsini fhedzi. A si u linga muthu, u mu kombetshedza, kana u bvisela khagala zwiṅwe zwithu.</p><p>Dziapp nnzhi dza u gudisa muhumbulo dzo itelwa luvhilo, mawanwa a zwikoro, vhuimo na ngona. Kha muthu ane a khou tshila na dementia, zwenezwo zwi nga tou nga mulingo une a sa kone u u phasa. Riṋe ro ita zwo fhambanaho tshoṱhe na zwenezwo, nahone ri tevhedza milayo heyi:</p><ul><li><strong>A huna tshine tsha kundisa.</strong> A huna watshi, zwikoro, tshivhalo tsha nyito, vhutshilo vhu vhalwaho, makhaṱhe a u phasa, kana watshi i vhalelaho fhasi, kha tshikirini tshifhio na tshifhio.</li><li><strong>U vhona u fhira u humbula.</strong> Zwifanyiso zwi dzula zwi tshi khou vhonala. Zwipikwa zwi ṱuṱuwedza nyambedzano nahone a zwi vhudzisi madzina kana mihumbulo ya kale.</li><li><strong>Zwo vhumbuluwa, zwi leluwa nahone zwo ima zwavhuḓi.</strong> Maipfi na zwifanyiso zwihulwane, mivhala i sa tanganyi maṱo, na zwishumiswa zwine zwa dzula fhethu huthihi.</li><li><strong>Tshirunzi tsha muthu muhulwane.</strong> Zwifanyiso zwa vhukuma zwa vhutshilo ha ḓuvha ḽiṅwe na ḽiṅwe na maipfi a u ḓikhethela a vhuḓi. A huna zwifanyiso zwa khathuni, thendo dza u vhudzisa lwa vhana, kana mawanwa a dzi-emoji.</li><li><strong>Nḓila i leluwaho ya u imisa.</strong> Ipfi ḽine ḽa ri “Zwo lingana zwa zwino” ḽi dzula ḽi tshi vhonala. U imisa vhukati ndi mvelelo yavhuḓi vhukuma.</li><li><strong>Tshiphiri tshashu tsha ndeme.</strong> A huna akhaundi kana zwishushedzo. Zwifanyiso zwine na zwi nanga zwi dzula kha tshishumiswa tshaṋu fhedzi.</li></ul><h2>Zwine ra sa ambe zwone</h2><p>Mitambo yashu yo itelwa u ḓiphina na u vha na vhushaka ha vhuḓi. A i ṱatuvhi, a i lingi, a i elanyi, a i elafhi, a i dzingisi kana u thivhela vhulwadze ha dementia kana Alzheimer’s, nahone a hu na muthu ane a fanela u i khetha nga nṱhani ha zwenezwo. Musi ri tshi ṅwala nga ha ndingedzo dza ṱhoḓisiso kha <a href=\"/brain-health/\">masiaṱari ashu a mutakalo wa vhuluvhi</a>, ri amba zwo tou bva khagala he vhuṱanzi ha sa vhe ha vhukuma, nahone a ri vhambedzi zwenezwo na mitambo yashu.</p><h2>Ri vhonnyi</h2><p>Golden Moments ndi tshigwada tshiṱuku tsho ḓiimisaho nga tshoṱhe. A ri madokotela kana vhashumeli vha zwa mutakalo. Zwiledziso zwashu zwo ṅwaliwa hu tshi khou shumiswa ndaela dzo andadzwaho nga madzangano a ngaho National Institute on Aging na Alzheimer’s Association, nahone tshiṅwe na tshiṅwe tshi na mutevhe wa zwiko zwatsho. Vhalani <a href=\"/editorial-policy/\">nḓila ine ra ṅwala na u sedzulusa ngayo masiaṱari ashu</a>.</p><h2>Ri vhudzeni zwine zwa nga thusa</h2><p>Ri nga takalela u pfa zwine zwa khou shuma khani na zwine zwa sa shume, zwihulwanehe u bva kha vhathu vhane vha tshila na dementia, miraḓo ya muṱa ine ya vha vhaṱhogomeli, na vhashumi vha mishumo ya mitambo. Rumelani imeili kha <a href=\"mailto:{email}\">{email}</a>.</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "Nḓila Ine Ra Ṅwala Na U Ṱola Ngayo Masiaṱari Ashu",
+      "seoTitle": "Mbekanyamushumo ya vhuṅwali",
+      "description": "Nḓila ine Golden Moments ya ita ngayo ṱhoḓisiso, u ṅwala, u wana zwiko na u vusuludza masiaṱari a zwiito zwa dementia na mutakalo wa vhuluvhi, na zwine ri nga si vhuye ra zwi andadza.",
+      "crumb": "Mbekanyamushumo ya vhuṅwali",
+      "bodyHtml": "<h2>Zwiko zwashu</h2><p>Ri fhaṱa zwiledziso zwashu kha ndaela dza tshitshavha dzi bvaho kha madzangano a ngaho National Institute on Aging, CDC, Alzheimer’s Association, Alzheimer’s Foundation of America, Family Caregiver Alliance na NHS, na kha ṱhoḓisiso dzo ṱoliwaho nga vhaṅwe vhadivhi dzi ngaho dzi-Cochrane review na ndingedzo khulwane dza vhaongoli. Zwiledziso zwoṱhe zwi vhea zwiko zwine zwa ḓitika ngazwo. Ri thoma ra vula tshiko tshiṅwe na tshiṅwe ri sa athu u tshi bula, nahone ri amba fhedzi zwine tsha amba zwone zwa vhukuma.</p><h2>Nḓila ine ra ṅwala ngayo</h2><ul><li>Zwi shumaho zwone zwa u thoma: zwine na nga zwi ita ṋamusi, nga luambo lu pfalaho zwo leluwa.</li><li>U fulufhedzea nga ha vhuṱanzi: ri amba uri “zwi elana na”, “zwi nga kha ḓi” na uri “vhuṱanzi a vhu bvi khagala” arali zwo ralo.</li><li>Ṱhonifho: ri ṅwala nga ha vhathu vhane vha tshila na dementia sa vhahulwane, nahone a ri shumisi luambo lwa u linga kana u shonisa.</li><li>A huna mafhungo a u tou zwifha: a huna zwitatisitiki zwa u ita, ngano, vhadivhi, pfunzo, ṱholiso kana thendo dzo tou bveledzwaho.</li></ul><h2>Vhane vha ṱola masiaṱari ashu</h2><p>Masiaṱari a ṅwaliwa nahone a ṱolwa nga tshigwada tsha Golden Moments, hu tshi khou thusa zwishumiswa zwa u ṅwala zwa AI kha ṱhoḓisiso na u thoma u luṱa. Siaṱari ḽiṅwe na ḽiṅwe ḽi vhambedzwa na zwiko zwaḽo nga tshigwada. Masiaṱari ashu <strong>a ngoho</strong> ha ngo ṱolwa nga dokotela kana muongoli, nahone a ri ambi zwo fhambanaho na zwenezwo. Ndi zwiṱuṱuwedzi zwa zwoṱhe fhedzi, a si nyeletshedzo ya zwa vhafhati kana vhadokotela.</p><h2>Zwine ri nga si vhuye ra zwi andadza</h2><ul><li>Khumbulelo dza uri mutambo, zwiliwa, dzithuthuwedzi dza mutakalo, u ḓizwima zwiliwa kana kuitele kwa ḓuvha ḽiṅwe na ḽiṅwe zwi thivhela, zwi alafha, zwi fhungudza luvhilo kana u fhodza dementia.</li><li>Milingo, mbudziso kana zwikoro zwine zwa sumbedza uri muthu u na, kana ha na, dementia.</li><li>Nyeletshedzo dza u thoma, u imisa kana u shandukisa mushonga naho u ufhio.</li><li>Zwishushedzo kana zwibveledzwa zwo badelelwaho zwo fukedzwaho unga nyeletshedzo.</li></ul><h2>Mvusuludzo na ndulamiso</h2><p>Siaṱari ḽiṅwe na ḽiṅwe ḽi sumbedza ḓuvha ḽe ḽa ghedziselwa u vusuludzwa ngalo. Arali na wana vhukhakhi kana tshiko tsho fhirelwaho nga tshifhinga, ri humbela uri ni rumele imeili kha <a href=\"mailto:{email}\">{email}</a> nahone ri ḓo zwi ṱola nga u ṱavhanya.</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "Mbudziso na Phindulo",
+      "seoTitle": "Mitambo na Zwiito zwa Dementia: Mbudziso na Phindulo",
+      "description": "Phindulo dza mbudziso dzo ḓoweleaho nga ha mitambo na zwiito zwa dementia: mitambo ine ya nga lingedzwa, tshifhinga tsha u tamba, mahumbulwa a vhuimo ha phanḓa, mutakalo wa vhuluvhi na tshiphiri.",
+      "crumb": "Mbudziso na phindulo",
+      "lede": "Phindulo pfufhi, dzo leluwaho dza mbudziso dzine vhaṱhogomeli vha anzela u vhudzisa.",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "Nga ha mitambo",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "Ndi mitambo ifhio yavhuḓi vhukuma kha muthu ane a tshila na dementia?",
+              "a": "Mitambo yavhuḓi vhukuma ndi ine ya ḓivhea, ya leluwa nahone i si na mutsiko, nahone yo teaho ndi iṅwe na iṅwe ine muthu a ḓiphina ngayo ṋamusi. U vhambedza zwifanyiso zwi khou vhonala, u kheta, dzi-jigsaw dzi leluwaho, u fhedzisa maipfi a maambele a ḓivheaho, u khalara na picture bingo zwoṱhe zwi shuma zwavhuḓi kha vhathu vhanzhi. Iledzani zwitampi zwa tshifhinga, zwikoro na tshiṅwe na tshiṅwe tshine tsha pfala unga mulingo."
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "Mitambo heyi i tou vha ya mahala zwa vhukuma?",
+              "a": "Ee. Mitambo yoṱhe na zwithu zwa u gandisa ndi zwa mahala, a hu ṱoḓei akhaundi, u ṅwalisa, u kopa zwithu inthanetheni kana zwivhambadzi."
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "Ndi ngani hu si na zwikoro, maemo kana zwitimi zwa tshifhinga?",
+              "a": "U gidima na zwikoro zwi shandukisa mushumo u takadzaho wa vha sa mulingo, zwine zwa nga ḓisa u shona kana u sinyuwa. Ri vhea ṱhogomelo kha u ḓiphina na u fhedza tshifhinga noṱhe, nga zwenezwo a hu na tshine tsha kundiwa nahone ni nga ima tshifhinga tshiṅwe na tshiṅwe."
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "Ndi zwishumiswa zwifhio zwine zwa shuma zwavhuḓi vhukuma?",
+              "a": "Lutingo luṅwe na luṅwe, thebulethe kana khomphyutha ine ya vha na burawuza ya musalauno. Thebulethe yo imaganywaho tafulani kanzhi ndi yone nḓila yo vhofholowaho ya uri vhathu vhavhili vha tambe vho dzula tsini na tsini. Khomphyutha yo ṱumanywaho na thelevhishini i shuma zwavhuḓi kha zwigwada."
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "Naa ri nga tamba ri tshi khou shumisa zwifanyiso zwa muṱa washu?",
+              "a": "Ee. Photo pairs i shandukisa zwifanyiso zwa 2 u swika kha zwa 6 zwine na zwi kheta zwa vha mutambo wa u fanyisa. Zwifanyiso zwi dzula kha burawuza yaṋu nahone a zwi dzheniswi inthanetheni kana u vhulungwa."
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "Mishumo na u ṱhogomela",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "Mushumo u tea u dzhia tshifhinga tshingafhani?",
+              "a": "Kanzhi miminete ya 10 u swika kha ya 20 yo lingana zwavhuḓi, nahone nga zwiṅwe zwifhinga miminete mi-2 ndi mvelaphanda. Sedzani zwikombiso zwa u neta kana u vhilaela nahone ni ime musi zwi tshi kha ḓi vha zwavhuḓi. A hu na tshifhinga tsho vhewaho tsho teaho."
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "Hu itea mini arali vha sa ṱoḓi u ita mushumo?",
+              "a": "Ṱhonifhani u hana havho, nahone ni linge hafhu nga murahu kana nga nḓila iṅwe. U hana zwi nga bva kha u neta, vhuṱungu, u sa vha na vhungoho kana u vha fhedzi vha si na dzangalelo. Tolani tsumbandila yashu ya zwa u ita musi vha tshi hana."
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "Ndi mishumo ifhio ine ya tea vhuimo ha murahu ha vhulwadze ha u hangwa?",
+              "a": "Mulalo na maḓipfele: u thetshelesa muzika une vha u funa vhukuma, u sidzwa zwanḓa nga muṱoḓo, u sedza zwifanyiso noṱhe, u fara nguvho yo vuḓaho, u dzula nnḓa, kana mutambo wo leluwaho vhukuma wa zwifanyiso vhe na muṅwe muthu tsini navho. Tsumbandila yashu ya vhuimo ha murahu i na miṅwe mihumbulo minzhi."
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "Naa hu na mishumo ya zwigwada hayani ha u ṱhogomela?",
+              "a": "Ee. Picture bingo i na garaṱa dzine dza gandiswa na muvhidzeleli a re tshikirinini, nahone Finish the saying na garaṱa dza Conversation cards dzi shuma zwavhuḓi musi dzi tshi vhaliwa nga lufhanga. Tsumbandila yashu ya zwigwada zwa mahaya a u ṱhogomela i amba nga ha vhuhulwane ha tshigwada, nḓila ya u dzula na u lugiselela vhukoni ho fhambanaho."
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "Mutakalo wa vhuluvhi",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "Naa mitambo i nga thivhela kana u dzingisa vhulwadze ha u hangwa?",
+              "a": "A hu na mutambo wo sumbedzwaho u thivhela vhulwadze ha u hangwa, nahone mitambo yashu a i ambe ngauralo. U ṱuṱuwedza muhumbulo vhukati ha vhathu zwo sumbedza mbuelo ṱhukhu kha ṱhoḓisiso kha vhathu vhane vha vha na vhulwadze ha u hangwa vhu si ha nṱha vhukuma, fhedzi hezwo zwo fhambana na mutambo une wa thivhela vhulwadze. Ri ṋea mitambo u itela u ḓiphina na u vha vhoṱhe."
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "Naa vhulwadze ha u hangwa vhu nga thivhelwa?",
+              "a": "A zwi ngo ralo nga vhungoho. Ṱhoḓisiso i ṱumanya zwithu zwa 14 zwa mutakalo na matshilele na khombo ya vhulwadze ha u hangwa, zwi ngaho u sa pfa zwavhuḓi nḓevheni, mibvumo ya malofha i re nṱha, u sa tsidza muvhili na u ḓiphandela kule na vhaṅwe. U sedzana nazwo zwi nga fhungudza khombo kha vhaṅwe vhathu, fhedzi vhathu vhanzhi vhane vha ita zwoṱhe zwavhuḓi vha kha ḓi vha na vhulwadze ha u hangwa. A si mulandu wa muthu."
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "Naa u ḓidzima zwiliwa zwa tshifhinganyana zwi luga kha mutakalo wa vhuluvhi?",
+              "a": "Vhutanzi kha vhathu vhu kha ḓi vha vhuṱuku nahone ndi ha mathomo, nahone vhunzhi ha ṱhoḓisiso vhu kha zwipuka. U ḓidzima zwiliwa zwi nga vha na khombo kha vhakegulu na vhakalaha, zwihuluhulu vhane vha shumisa mishonga ya shukela kana vhane vha luza tshileme hu songo lavhelelwa, nahone a zwo ngo themendelwa kha vhathu vhane vha khou tshila na vhulwadze ha u hangwa. Ambani na dokotela musi ni sa athu shandukisa nḓila ine na ḽa ngayo."
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "Tshiphiri na tsireledzo",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "Naa ni kuvhanganya mafhungo maṅwe na maṅwe?",
+              "a": "A hu na dziakhaundi kana zwivhambadzi. Ri shumisa Google Analytics u vhala vhadaleli na u vhona masiaṱari ane a thusa, nahone burawuza yaṋu i elelwa arali no dzhenisa mibvumo i sa dzinginyisi. Zwifanyiso zwine na zwi kheta kha Photo pairs a zwi vhuyi zwa dzheniswa kha inthanethe. Vhonani ndivhadzo ya tshiphiri u itela zwidodombedzwa."
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "Naa hezwi ndi tsivhudzo ya vhudokotela?",
+              "a": "Hai. Golden Moments ndi ya u ḓiphina na mafhungo a zwoṱhe fhedzi. Kha mbudziso dza mutakalo, ambani na dokotela, nahone kha zwa shishi founelani 112."
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "Zwidodombedzwa zwo engedzeaho: <a href=\"/caregiving/how-to-play-together/\">nḓila ya u tamba noṱhe</a>, <a href=\"/caregiving/when-they-say-no/\">musi vha tshi hana</a>, <a href=\"/activities/late-stage/\">mishumo ya vhuimo ha murahu</a> na <a href=\"/brain-health/can-dementia-be-prevented/\">naa vhulwadze ha u hangwa vhu nga thivhelwa?</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "Mitambo ya Mahala na yo Vuḓaho ya Vhathu Vhane Vha Tshila na Vhulwadze ha u Hangwa",
+      "seoTitle": "Bammbiri ḽa u Gandisa: Mitambo ya Mahala ya Vhulwadze ha u Hangwa Kha Inthanethe",
+      "description": "Bammbiri ḽa siaṱari ḽithihi ḽa u gandisa ḽa miṱa na vhaṱhogomeli ḽi ambaho nga ha mitambo ya zwifanyiso ya mahala na yo vuḓaho ya vhathu vhane vha tshila na vhulwadze ha u hangwa, u itela zwigwada zwa u tikedzana na phakhethe dza u ṱhogomela.",
+      "crumb": "Bammbiri ḽa u gandisa",
+      "lede": "Gandisani iḽi siaṱari u itela tshigwada tsha u tikedzana, phakhethe ya u ṱhogomela kana kha vothi ḽa firidzhi. Shumisani ndaela ya u Gandisa ya burawuza yaṋu; menyu na zwikonophi a zwi bveleli kha bammbiri ḽo gandiswaho.",
+      "introHtml": "<p>Zwifanyiso zwihulwane, maipfi o ḓoweleaho nahone a hu na tshine tsha kundiwa. Ndi zwa mahala lutingoni, thebuletheni kana khomphyutheni, a hu na u ṅwalisa, a hu na zwivhambadzi, a hu na zwitimi nahone a hu na zwikoro. Dzulani tsini na tsini ni tshi sielana.</p>",
+      "gamesTitle": "Mitambo ine na nga i lingedza noṱhe",
+      "restHtml": "<h2>Nyeletshedzo dzi si gathi</h2><ul><li>Khethani tshifhinga tsha ḓuvha tshine muthu a vha o takala zwavhuḓi ngatsho.</li><li>Thomani nga vhuimo vhu leluwaho vhukuma. Zwitayela zwiṋa zwo lingana zwavhuḓi.</li><li>Ambani nga ha zwifanyiso. Kanzhi nyambedzano ndi yone tshipiḓa tshi takadzaho vhukuma.</li><li>Imani musi zwi tshi kha ḓi ḓifha. U fhedza nga u ṱavhanya ndi mvelelo yavhuḓi.</li></ul><h2>Zwiṅwe zwi re kha saithi</h2><ul><li>Zwa mahala zwa u gandisa: u ṱoḓa maipfi a maṅwalo mahulwane, masiaṱari a u khalara, garaṱa dza nyambedzano na picture bingo.</li><li>Mihumbulo ya mishumo ya vhuimo vhuṅwe na vhuṅwe, na tsumbandila dza u tamba noṱhe na u ḓiṱhogomela inwi muṋe.</li></ul><p class=\"muted\">Ndi zwa u ḓiphina na u fhedza tshifhinga noṱhe. A si tsivhudzo ya vhudokotela, mulingo kana dzilafho. Golden Moments i anḓadzwa nga Cloudjet Solutions Pte. Ltd.</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "Zwa Mahaya a u Ṱhogomela, Dzirayibulari na Zwigwada zwa u Tikedzana",
+      "seoTitle": "Mishumo ya Mahala ya Vhane vha Tshila na Dementia ya Mahaya a Vhaṱhogomeli na Zwigwada",
+      "description": "Nḓila ine mahaya a vhaṱhogomeli, mbekanyamushumo dza masiari dza vhahulwane, dzilaebhurari, zwiimiswa zwa vhalala na zwigwada zwa thikhedzo zwa shumisa ngayo mitshino yashu ya mahala ya dementia, na maipfi a u ri engedza kha mutevhe wa zwiko.",
+      "crumb": "Kha zwiimiswa",
+      "lede": "Zwoṱhe zwi re kha ino saitshumelo ndi zwa mahala u zwi shumisa na vhadzulapo, miraḓo na vhashumelwa, hu si na akhaundi, laisenthi kana mbadelo. Siatari iḽi ḽi ṱalutshedza zwi re hafha na nḓila ya u zwi kovhela vhaṅwe.",
+      "shortText": "{name}: mitshino ya mahala na i si na vhuhali ya zwifanyiso na zwilevho zwa mishumo zwa vhathu vhane vha khou tshila na dementia na vhaṱhogomeli vhavho. A hu na u ṅwalisa, a hu na tshifhinga tshi vhalwaho, a hu na zwikoro.",
+      "longText": "{name} ({domain}) i ṋea mitshino ya mahala ya bulawuza ya {count} yo itelwaho vhathu vhane vha khou tshila na dementia, u katela u vhambedza zwifanyiso zwi no vhonala, jigsaw i leluwaho, u khethekanya, maambele o ḓoweleaho na bingo ya zwifanyiso i re na garata dzi no phirinthiwa. A hu na akhaundi, vhushavhisi, u vhala tshifhinga kana zwikoro. Saitshumelo i dovha ya vha na zwilevho zwa mishumo zwa luambo lu pfeseseyaho zwa tshiimo tshiṅwe na tshiṅwe tsha dementia zwi no redza National Institute on Aging na Alzheimer's Association.",
+      "useTitle": "Zwine zwiimiswa zwa nga zwi shumisa",
+      "gamesItemHtml": "<strong>Mitshino ya bulawuza ya {count}</strong> ine ya shuma kha lwaputhopu, thabuḽethe kana thelevhishini yo ṱumanywaho na khomphyutha. A hu na u longa, akhaundi kana u daonilouda. Vhonani <a href=\"/games/\">mitshino yoṱhe</a>.",
+      "printablesLabel": "Zwi no phirinthiwa zwa {count}:",
+      "printablesAfter": "Shumisani gonyo ḽa Phirintha kha siatari ḽiṅwe na ḽiṅwe.",
+      "moreItemsHtml": "<li><strong>Fomo dza zwigwada:</strong> <a href=\"/games/picture-bingo/\">Bingo ya zwifanyiso</a> i na garata dzi no phirinthiwa na muvhidzeleli a re kha tshikirini, nahone <a href=\"/activities/trivia/\">mbudziso dzo leluwaho</a> dzi na mbudziso dza 50 dzi re na khetho dza phindulo na zwiambelwa.</li><li><strong>Zwilevho zwa mishumo</strong> zwa vhashumi na miṱa, nga tshiimo na nga lushaka, zwo ṅwaliwaho nga luambo lu leluwaho zwi na zwiko. Thomani nga <a href=\"/activities/ideas/\">mahumbulwa a 101 a mishumo</a> kana <a href=\"/activities/care-home-groups/\">mishumo ya zwigwada ya mahaya a vhaṱhogomeli</a>.</li>",
+      "restHtml": "<h2>Nḓila ine zwigwada zwa i shumisa ngayo</h2><ul><li><strong>Mahaya a vhaṱhogomeli na thikhedzo ya muhumbulo:</strong> bingo ya zwifanyiso kana u fhedzisa maambele kha thelevhishini ya rumo ḽa u dzedza, hu na muthu muthihi a no khou kwama tshikirini vha tshi itela tshigwada.</li><li><strong>Mbekanyamushumo dza masiari dza vhahulwane:</strong> fhethu ha thabuḽethe ho vhewaho Mitshino ya u vhambedza zwifanyiso i re na zwiteṅwa zwiṋa, u itela zwiṱuku zwa muthu na muthu nga muthihi nga muthihi.</li><li><strong>Dzilaebhurari dza tshitshavha:</strong> mishumo yo phirinthiwaho ya u ṱoḓa maipfi na garata dza nyambedzano kha zwishumiswa zwa muhumbulo, na saitshumelo yo vhulungwaho kha thabuḽethe dza laebhurari.</li><li><strong>Zwigwada zwa thikhedzo zwa vhaṱhogomeli na memory café:</strong> <a href=\"/handout/\">bammbiri ḽithihi ḽi no phirinthiwa</a> ḽa uri miṱa i ṱuwe naḽo hayani.</li><li><strong>Zwipeṱele na vharangaphanḓa vha u bvisa vhathu tshipiṱele:</strong> bammbiri ḽi re kha zwifhaṱo zwa vhaṱhogomeli, u itela tshiṅwe tshithu tshi rudzaho mbilu tshine tsha nga itwa hayani kana tsini ha mbede.</li></ul><h2>Zwine ra sa zwi ite</h2><p>Mitshino heyi ndi ya u ḓiphina na u fhedza tshifhinga roṱhe. A i ṱoli, u linga, u ṋea zwikoro, u lafha kana u kaodza dementia, nahone ri humbela zwiimiswa uri zwi songo i ṱalutshedza nga yeneyo nḓila. A hu na vhushavhisi, nahone mitshino a i humbeli madzina, zwidodombedzwa zwa mutakalo kana zwifanyiso uri zwi longelwe khayo. Saitshumelo i shumisa Google Analytics u vhala vhaendelamushumo; <a href=\"/privacy/\">ndivhadzo yashu ya tshiphiri</a> i ṱalutshedza zwine ya zwi kuvhanganya. Zwifanyiso zwi no shumiswa kha <a href=\"/games/photo-pairs/\">Photo pairs</a> zwi sala kha bulawuza.</p><h2>Ri engedzeni kha mutevhe waṋu wa zwiko</h2><p>Arali ni na mutevhe wa zwiko zwa vhaṱhogomeli, no ṱanganedzwa u ṱumanya na <a href=\"/\">{domain}</a>. Ni nga kopa iṅwe na iṅwe ya thaluso idzi.</p>",
+      "shortTitle": "Thaluso pfufhi",
+      "longTitle": "Thaluso ndapfu",
+      "linksHtml": "<p>Masiatari a ndeme ane na nga ṱumanya nawo nga ho livhaho: <a href=\"/games/\">mitshino ya mahala</a>, <a href=\"/activities/printable/\">zwi no phirinthiwa zwa mahala</a>, <a href=\"/activities/alzheimers/\">mishumo ya Alzheimer's</a> na <a href=\"/caregiving/how-to-play-together/\">nḓila ya u tamba vhoṱhe</a>.</p><h2>Mbudziso kana u khakhulula</h2><p>Arali hu na tshiṅwe tshithu tsho khakheaho kana tshi sa pfeseseyi kha saitshumelo, kana ṱhoḓea dza mudzulapo dzi sa khou waniwa kha zwi re hafha, ri humbela uri ni ri vhudze kha <a href=\"mailto:{email}\">{email}</a>. Ri humbela uri ni songo rumela mafhungo a muthu a tshiphiri kana a mutakalo nga ha vhadzulapo kana vhashumelwa.</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Aphu ya Golden Moments",
+      "seoTitle": "Aphu ya Golden Moments ya iPhone na Android",
+      "description": "Aphu ya mahala ya Golden Moments: u vhambedza zwifanyiso zwi re na tile khulwane dziṋa nga nḓila i leluwaho, zwifanyiso zwa muṱa zwi vhulungwa kha tshishumiswa tshaṋu, phakhethe dza zwifanyiso dzi sa ṱoḓi inthanethe nahone a hu na akhaundi.",
+      "crumb": "Aphu",
+      "lede": "Zwoṱhe zwine na zwi takalela kha saitshumelo, zwi re kha aphu ine ya shuma hu si na inthanethe nahone i nga shumisa zwifanyiso zwa muṱa zwine na ḓikhethela.",
+      "worksOn": "I shuma kha {platforms} ({requirements}).",
+      "bodyHtml": "<h2>Thomani nga zwiṱuku</h2><p>Thomani nga zwipiḓa zwiṋa zwihulwane na zwifanyiso zwine na zwi ḓivha. Litshedzani zwifanyiso zwi tshi vhonala, kana ni zwi dzumbe arali zwi tshi vhona zwo tea. Nḓila yo vhofholowaho a i na tshifhinga, maraga kana ndayo. Nangani zwipiḓa zwa 4, 6, 8 kana 12.</p><h2>Zwi iteni zwa vhuṋe haṋu</h2><p>Nangani zwifanyiso zwa muṱa nga tshishumiswa tshaṋu tsha u nanga zwifanyiso. Aplikesheni i vhulunga khophi ṱhukhu u itela nyito dzayo. A i sedzulusi laiburari yaṋu kana u shandukisa zwifanyiso zwaṋu zwa tshirema, nahone i kona u vhulunga zwifanyiso zwiswike 24 kha muvhalo muthihi.</p><h2>U lavhelesa fhedzi noṱhe</h2><p>Sedzani tshifanyiso tshithihi nga tshifhinga. Zwiṅwe zwiṱuṱuwedzi zwi ḓisa nyambedzano hu si na u kombetshedza muthu u elelwa madzina kana u ṋea phindulo yo teaho. U sokou lavhelesa zwo lingana.</p><h2>U shuma naho hu si na inthanethe</h2><p>Zwifanyiso zwa u thoma na mimikwako yoṱhe ya malo ya zwifanyiso zwi wanala henefha kha aplikesheni. Khophi dza zwifanyiso zwe na zwi dzhenisa dzi shuma hu si na inthanethe. U nanga zwifanyiso zwa tshirema zwo vhulungwaho fhedzi kha iCloud zwi nga ṱoḓa vhuṱumani ha inthanethe.</p><h2>A hu na akhaundi, a hu na sevara ya u ṱumanya zwifanyiso</h2><p>Khophi dza zwifanyiso zwa muṱa dzi dzula kha aplikesheni kha tshishumiswa. Ni nga bvisa khophi idzo hu si na u phumula zwifanyiso zwa tshirema. Khophi dza u vhulunga tshishumiswa dzi nga katela zwidodombedzwa zwa aplikesheni. Vhalani <a href=\"/app-privacy/\">mbekanyamaitele ya tshiphiri ya aplikesheni</a>, nahone <a href=\"/help/\">thuso ya aplikesheni</a> i sumbedza vhukando vhuṅwe na vhuṅwe.</p>",
+      "disclaimer": "Golden Moments ndi ya u ḓimvumvusa na u amba noṱhe. A i ṱatuvhi, u lafha, u thivhela kana u pimisa vhulwadze ha u hangwa kana vhulwadze ha Alzheimer.",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "Mitambo ya Mahala ya Inthanetheni ya Vhulwadze ha u Hangwa na Alzheimer",
+    "description": "Mitambo ya mahala ya inthanetheni ya vhalala vhane vha khou tshila na vhulwadze ha u hangwa kana Alzheimer: u fanyisa zwifanyiso, jikso dzi leluwaho, u khethekanya, maambele, u khalara, bingo. A hu na u ṅwalisa, tshifhinga kana maraga.",
+    "crumb": "Mitambo",
+    "h1": "Mitambo yo Vhofholowaho ya Vhathu vhane vha vha na Vhulwadze ha u Hangwa",
+    "lede": "Mitambo ya mahala ya {count} ine na nga tamba noṱhe kha burawuza yaṋu. Zwifanyiso zwihulwane, maipfi o leluwaho, nahone a hu na tshine tsha kundisa: a hu na tshifhinga, maraga, kana u ṅwalisa.",
+    "listName": "Mitambo yo vhofholowaho ya vhathu vhane vha vha na vhulwadze ha u hangwa",
+    "byStageTitle": "U nanga mutambo u ya nga tshiimo",
+    "byStageLede": "Zwiimo zwi sokou vha tsumbandila fhedzi. Tevhelani zwine muthu a zwi takalela na zwine zwa mu vhofholola ṋamusi.",
+    "stageCol": "Tshiimo",
+    "gamesCol": "Mitambo ine ya anzela u tea",
+    "moreHtml": "Mihumbulo miṅwe i si ya kha tskrini: <a href=\"/activities/ideas/\">nyito dza 101 dza vhathu vhane vha vha na vhulwadze ha u hangwa</a>, <a href=\"/activities/alzheimers/\">nyito na mitambo ya Alzheimer</a>, <a href=\"/activities/memory-games/\">mitambo yo vhofholowaho ya muhumbulo</a> na <a href=\"/activities/puzzles/\">phazili</a>.",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "Ri tea u thoma nga mutambo ufhio?",
+        "a": "U fanyisa zwifanyiso nga zwipiḓa zwiṋa ndi tshinangeli tsho vhofholowaho tsha u thoma. Arali u nanga vhukati ha zwifanyiso zwi tshi vhonala zwi tshi konda, lingedzani U wana zwi no fana nga zwifanyiso zwivhili. Kha tshigwada, lingedzani Bingo ya zwifanyiso."
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "Naa mitambo iyi i shuma kha iPad kana lutingo?",
+        "a": "Ee. Mutambo muṅwe na muṅwe u shuma kha burawuza kha lutingo, thebuḽethe na khomphyutha, nahone zwifanyiso zwi hula u ḓadza tskrini. Thebuḽethe yo sedzwaho kha tshiimiswa kanzhi i a vhofholola nga maanḓa kha vhathu vhavhili."
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "Naa mitambo iyi yo luga kha muthu a re na Alzheimer?",
+        "a": "Ee. Yo itelwa vhathu vhane vha khou tshila na vhulwadze ha u hangwa, u katela na Alzheimer, ine ya vha yone tshiitisi tsho ḓoweleaho vhukuma. Zwifanyiso zwi dzula zwi tshi vhonala, hu na tshinangeli tshiṱuku fhedzi, nahone a hu na tshi pimelwaho tshifhinga kana maraga, nga zwenezwo mitambo i ḓitika nga u ṱalukanya zwithu zwine vha zwi ḓivha u fhira u elelwa zwiswa."
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "Naa iyi ndi mitambo ya muhumbulo ya vhalala?",
+        "a": "Ndi mitambo ya u fanyisa na zwifanyiso ine mulala muṅwe na muṅwe a nga i takalela, fhedzi yo itelwa uri i si lingulule muhumbulo: kha U fanyisa zwifanyiso, zwifanyiso zwi dzula zwo livha nṱha nga nnḓa ha musi no nanga zwiṅwe. Tsumbandila yashu ya mitambo ya muhumbulo ya vhalala vhane vha vha na vhulwadze ha u hangwa i ṱalutshedza nḓila ya u ita uri mutambo muṅwe na muṅwe wa muhumbulo u vhe wo vhofholowaho."
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "Naa hu na mitambo ya zwigwada hayani ha u ṱhogomela?",
+        "a": "Ee. Bingo ya zwifanyiso i na garata dzine dza gandisea na muvhidzeleli a re kha tskrini, nahone Fhedzisani maambele na garata dza Nyambedzano zwi shuma zwavhuḓi zwi tshi vhalelwa nṱha kha tshigwada."
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone, iPad na Android",
+    "requirements": "iOS 15 kana ine ya tevhela; Android 7.0 kana ine ya tevhela",
+    "summary": "Aplikesheni ya mahala ya iPhone, iPad na Android ine ya vha na u fanyisa zwifanyiso ho vhofholowaho kha zwipiḓa zwihulwane zwa maṋa u swika kha fumimbili, u fanyisa na u sedza zwifanyiso zwa muṱa zwe na nanga, na mimikwako ya malo ya zwifanyiso yo katelwaho ine ya shuma hu si na inthanethe. A hu na akhaundi, zwiandadzi, tshifhinga kana maraga.",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "U fanyisa zwifanyiso ho vhofholowaho nga zwipiḓa zwihulwane zwa 4, 6, 8 kana 12; zwifanyiso zwi dzula zwi tshi vhonala nga nnḓa ha musi no nanga u zwi dzumba",
+      "Zwifanyiso zwa muṱa zwe na nanga zwi kopiwa kha aplikesheni u itela u fanyisa na u zwi ṱalela noṱhe",
+      "Ṱalelani noṱhe: tshifanyiso tshithihi nga tshifhinga hu na zwiṱuṱuwedzi zwa nyambedzano arali na funa",
+      "Mimikwako ya malo ya zwifanyiso yo katelwa kha aplikesheni; i shuma hu si na inthanethe",
+      "A hu na akhaundi, zwiandadzi, mbadelo dza ngomu aplikeshesheni, tshifhinga, maraga kana ndayo"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "Naa hu na aplikesheni ya nyito dza vhulwadze ha u hangwa?",
+        "a": "Ee. Golden Moments (yo ṅwaliswaho sa \"{storeName}\") ndi ya mahala kha App Store na Google Play. I ṋea u fanyisa zwifanyiso ho vhofholowaho nga zwipiḓa zwihulwane, mitambo ya zwifanyiso zwa muṱa zwe na nanga, na mimikwako ya zwifanyiso ine ya shuma hu si na inthanethe."
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Naa aplikesheni ya Golden Moments ndi ya mahala?",
+        "a": "Ee. Ndi ya mahala u kopa, a i na zwiandadzi, akhaundi kana mbadelo dza ngomu aplikeshesheni."
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "Naa aplikesheni i shuma hu si na inthanethe?",
+        "a": "Ee. Zwifanyiso zwa u thoma na mimikwako yoṱhe ya malo ya zwifanyiso zwi katelwa kha aplikesheni, nahone zwifanyiso zwa muṱa zwi shuma hu si na inthanethe musi zwo no kopiwa ngomu aplikeshesheni. U nanga tshifanyiso tsho vhulungwaho fhedzi kha iCloud zwi nga ṱoḓa vhuṱumani ha inthanethe."
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "Naa ndi nga shumisa zwifanyiso zwashu zwa muṱa?",
+        "a": "Ee. Nangani zwifanyiso ni tshi shumisa tshinangi tsha zwifanyiso tsha tshitshimbidzi tshanu. Apulikesheni iyi i vhulunga khophi ṱhukhu kha tshitshimbidzi u itela nyito dzayo, a i dzi longi kha inthanethe nahone a i vhuyi ya shandukisa zwifanyiso zwa mathomo. Ni nga bvisa dzenedzo khophi nga tshifhinga tshiṅwe na tshiṅwe."
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "Naa ndi apulikesheni ya u gudisa vhuluvhi kana ya u linga muhumbulo?",
+        "a": "Hai. Golden Moments ndi ya u diphina na u fhedza tshifhinga noṱhe. A i na zwikoro kana milingo, nahone a i ṱoli, a i lafhi, a i thivheli kana u pima vhulwadze ha dementia kana Alzheimer’s."
       },
       {
-        "q": "Which devices does it work on?",
+        "q": "I shuma kha zwitshimbidzi zwifhio?",
         "a": "{platforms}: {requirements}."
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "Naa hu na vezhini ya apulikesheni ya mutambo hoyu?",
+      "a": "Ee. Apulikesheni ya mahala ya Golden Moments ya iPhone, iPad na Android i na honohu u vhambedza zwifanyiso ho leluwaho, i nga shumisa zwifanyiso zwa muṱa zwe na nanga, nahone i shuma hu si na inthanethe. A hu na akhaunthu, mbambadzo kana zwikoro."
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "Naa hu na vezhini ya apulikesheni ya mutambo hoyu?",
+      "a": "Hai kha hoyu mutambo. Apulikesheni ya mahala ya Golden Moments ya iPhone, iPad na Android i na u vhambedza zwifanyiso ho leluwaho hu re na zwipiḓa zwihulwane na zwifanyiso zwa muṱa zwe na nanga, nahone i shuma hu si na inthanethe. Mutambo hoyu u dzula u wa mahala hafha kha burawuza yanu."
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}: zwifanyiso zwihulwane zwavhuḓi",
+    "noscript": "Mutambo hoyu u ṱoḓa JavaScript yo vulelwaho kha burawuza yanu. Tsivhudzo dzo bulwaho afho fhasi dzi shuma naho i siho.",
+    "about": "Nga ha {name}",
+    "aboutAria": "Nga ha mutambo hoyu",
+    "noTimer": "A hu na thaimara kana tshikoro",
+    "printable": "Zwi nga gandiswa",
+    "howTo": "Nḓila ya u tamba {name}",
+    "tips": "Tsivhudzo dza u tamba noṱhe",
+    "newToPlayingHtml": "Ndi lwa u thoma u tamba na muthu ane a khou tshila na dementia? Vhalani <a href=\"/caregiving/how-to-play-together/\">nḓila ya u tamba mitambo noṱhe</a>, u katela na zwine na nga ita arali vha si tsha takalela.",
+    "moreAria": "Zwiṅwe zwine na nga zwi ṱola",
+    "helpfulGuides": "Ndaela dzi re na thuso",
+    "appTitle": "Tambani kha apulikesheni",
+    "appText": "Apulikesheni ya mahala ya Golden Moments i na u vhambedza zwifanyiso ho leluwaho hu re na zwipiḓa zwihulwane na zwifanyiso zwa muṱa wa hanu, nahone i shuma hu si na Wi‑Fi. iPhone, iPad na Android.",
+    "photoAppTitle": "Vhulungani zwifanyiso zwanu zwo luga",
+    "photoAppText": "Kha apulikesheni ya mahala ya Golden Moments, zwifanyiso zwe na nanga zwi dzula kha tshitshimbidzi tshanu u itela tshifhinga tshi ḓaho, nahone mitambo i shuma hu si na Wi‑Fi. iPhone, iPad na Android.",
+    "goodToKnow": "Zwa ndeme u zwi ḓivha",
+    "goodToKnowText": "Mutambo hoyu ndi wa u diphina na u fhedza tshifhinga noṱhe. A u lingi, a u pimi, kana u lafha tshithu na tshithihi.",
+    "moreGames": "Mitambo miṅwe yo leluwaho",
+    "crumb": "Mitambo"
   }
 }

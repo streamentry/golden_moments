@@ -1,428 +1,428 @@
 {
   "picture-pairs": {
-    "name": "Picture pairs",
-    "seoTitle": "Matching Game for Dementia: Picture Pairs",
-    "h1": "Picture Pairs: ekeir gemu ni kakoren ko ekeir ni matching",
-    "description": "Gemu ni matching ko ekeir ni kakoren, ni free, ngaran ekeir ko dementia. Ekeir ko boboto ebwe tu ara ngaran, ko timer ma score ren ngaran, ko 4 ma 12 tiles ebwe ko ni taburi.",
-    "short": "Kakoren ekeir ruwe ko ebwe same. Ekeir ebwe tu ara ngaran.",
-    "players": "1 ma 2 ekeir, ngaran ruwe",
-    "intro": "Tap ekeir, ko tap ekeir ni match ren ekeir ko. Ekeir ebwe tu ara ngaran ngaran ekeir, bwe ngaran nei ngaran nana ko. Ekeir ruwe ko ebwe ko gold border ma check mark.",
+    "name": "Pija me erũw",
+    "seoTitle": "Geim in Kaimeroñ Pija ñan Dementia: Pija me Erũw",
+    "h1": "Pija me Erũw: Geim in Kaimeroñ me Omwi",
+    "description": "Aia geim in kaimeroñ me mwiyen me omwi ñan engame me ro bwiema itũrũñ. Pija ro ebaubo ro ba maña, eab eor awa me skor, me kom kũ ñabwi 4 me rop 12 te pija.",
+    "short": "Metu pija me erũw me eñame. Pija ro kũ ba maña.",
+    "players": "1 me e 2 engame, iyubwina",
+    "intro": "Tapun pija e, me e tapun pija me eñame bwe. Pija ro ba maña, bwe eab oboen me aea itũrũñ. Ña pija erũw eñame, eor raran goor ma mak in check.",
     "howTo": [
-      "Ko taburi tiles ko ebwe kamot. Four tiles ebwe ko ni place ni toa.",
-      "Tap ekeir ruwe. Ebwe ko gold border.",
-      "Tap ekeir ko ebwe tu same. Pair ebwe tu ara ngaran ko check mark.",
-      "Ngaran ekeir ruwe ko different, ebwe tu ko bad. Tap ruwe ngaran ko ebwe ko ready.",
-      "Turn on \"Hidden pictures\" ni ngaran ruwe ko ebwe enjoy classic face-down version."
+      "Ñabwi ebaubwen pija me kom ogit bwi. Aia angō me 4 pija ebwaomwi bwe kom owaran.",
+      "Tapun gata pija. E tsimine raran goor.",
+      "Tapun pija me arin eñame. Pija me erũw ro eitũw ma mak in check.",
+      "Ña pija erũw eiyara, eab eor dudu me dogin. Tapun wagan ña kom memeg.",
+      "Katemoñ \"Pija ro etuñ\" ña kom erũw maro geim in aier ñwo."
     ],
     "tips": [
-      "Name ekeir ruwe ko ebwe out loud ma chat ni ngaran ekeir: \"A red teacup. Do you take milk in your tea?\"",
-      "Ngaran ekeir ko ebwe tap, ko ebwe kamot, ngaran tap ko ebwe toa. Point ren ngaran tap.",
-      "Stay ni four tiles ngaran ko ebwe good. More tiles ebwe ko choice, ko level ren ngaran.",
-      "Finish ngaran ko enjoyable. One game ebwe ko complete activity."
+      "Ean iya pija ro me madaura iya: \"Kapen ti me ebumoñ. Kom maro dairin iat ti um?\"",
+      "Komaen amen kom aea bwe e tapun, arame e bwaran aea. Totowi me eab tapun bwe am kor.",
+      "Iyo pija 4 ña e omo am engame. Ebaubo pija e bwet am ñabwi, eab bwe kom eñame aen.",
+      "Aen ña e omo am engame. Geim ekaña e roñ me omo."
     ],
     "faq": [
       {
-        "q": "Ko timer ma score?",
-        "a": "Ko. Ko clock, score, move counter ma losing. Ko ebwe stop ngaran moment, ma stop halfway ebwe ko good way ren finish."
+        "q": "E tsimine awa me skor?",
+        "a": "Eab. Eab eor kurok, skor, etan move me oten. Kom maro aen iat gata ao, me aen iat nũbwa e omo bwe roñ."
       },
       {
-        "q": "Bwe ekeir ebwe tu up?",
-        "a": "Ngaran ekeir ko visible ebwe ko game ren looking ma matching, ko remembering. Ekeir ebwe calm. Ko ebwe switch ren hidden pictures ni one tap ngaran ko prefer."
+        "q": "Bwaran pija ro ro ba maña?",
+        "a": "Bwe pija ro ba maña, geim e eitũw aea ma kaimeroñ me eab oboen aea itũrũñ. Engame ro ebaubo aea e omwi. Kom maro kadudo pija ro etuñ iat tapun ekaña ña kom ogit."
       },
       {
-        "q": "Ko free ma ko sign up?",
-        "a": "Ko, ngaran free, ko account, sign-up ma download. Ebwe work ni web browser ni phone, tablet ma computer."
+        "q": "E mwiyen, me a oboen rejidur?",
+        "a": "Ee, e mwiyen, me eab eor akaunt, rejidur me download. E makur iat web browser iat fon, tablet me kompyuta."
       },
       {
-        "q": "Ebwe ko use ekeir family ami?",
-        "a": "Ko. Tire Photo pairs, ebwe ko choose ekeir ni device ami. Ekeir ebwe tu ni browser ko ma ko upload."
+        "q": "Kam maro aea pija in bwiema kor?",
+        "a": "Ee. Aea Photo pairs, me e komaen kom ñabwi pija ngen am devais. Pija ro ro ba iat browser me eab etu ngen internet."
       }
     ]
   },
   "find-the-same": {
-    "name": "Find the same",
-    "seoTitle": "Find the Same Picture: Simple Dementia Game",
-    "h1": "Find the Same Picture",
-    "description": "Ekeir ruwe ni top, two ma four ni below. Tap ekeir ko same. Gemu ni ekeir ni calm ma free ren ekeir ko dementia, ko timer.",
-    "short": "Look ekeir ni top ma tap ekeir ko same ni below.",
-    "players": "1 ma 2 ekeir",
-    "intro": "Ekeir ruwe ebwe tu ni top ren screen. Ni below ebwe ko two, three ma four ekeir. Tap ekeir ko same. Ko one simple choice ni ngaran time, ma room ren talk.",
+    "name": "Metu me eñame",
+    "seoTitle": "Metu Pija me Eñame: Geim in Pija me Omwi ñan Dementia",
+    "h1": "Metu Pija me Eñame",
+    "description": "Pija ekaña iat pouñ, erũw me rop aeañog iat emwak. Tapun pija me eñame. Geim in pija me mwiyen me omwi ñan engame me ro bwiema itũrũñ, eab eor awa.",
+    "short": "Aea pija iat pouñ me tapun pija me eñame iat emwak.",
+    "players": "1 me e 2 engame",
+    "intro": "Pija ekaña e ba iat pouñ in skrin. Iat emwak e tsimine erũw, aiyiū me e aeañog pija. Tapun pija me eñame. E bwet ñabwi ekaña iat ao, me e tsimine ean me madaura.",
     "howTo": [
-      "Ko choose two, three ma four ekeir ren pick. Two ebwe simplest.",
-      "Look ekeir ni top together.",
-      "Tap ekeir same ni below. Ebwe ko marked ni check ma warm words.",
-      "Ngaran ekeir different ko tapped, gemu ebwe name ekeir ma wait. Take time.",
-      "Tap \"Next picture\" ngaran ko ready ren another."
+      "Ñabwi erũw, aiyiū me e aeañog pija bwe kom ñabwi. Erũw e omwi kakarar.",
+      "Aea pija iat pouñ kom erũw.",
+      "Tapun pija me eñame iat emwak. E tsimine mak in check ma dorer in omo.",
+      "Ña e tapun pija me eiyara, geim e aen iya me e kikiñ. Eab kukur am ao.",
+      "Tapun \"Pija nuka\" ña kom memeg ñan pija epo."
     ],
     "tips": [
-      "Talk ren each ekeir before choosing: colors, shapes, where ko might see it.",
-      "Two choices ko \"too easy\". Goal ko pleasant moment, ko challenge.",
-      "Ngaran tapping ko hard, ekeir ebwe point ma ko ebwe tap ren ekeir."
+      "Madaura pija ro owaran kom ñabwi: kolor, anuan, iyat kom kũ aea.",
+      "Erũw ñabwi eab \"ebarabwan\". E bwet ao in omo, eab bwe kadur.",
+      "Ña tapun e mwejen, amen ro kũ totowi me kom tapun bwe am kor."
     ],
     "faq": [
       {
-        "q": "Ko timer ma score?",
-        "a": "Ko. Ko clock, score, move counter ma losing. Ko ebwe stop ngaran moment, ma stop halfway ebwe ko good way ren finish."
+        "q": "E tsimine awa me skor?",
+        "a": "Eab. Eab eor kurok, skor, etan move me oten. Kom maro aen iat gata ao, me aen iat nũbwa e omo bwe roñ."
       },
       {
-        "q": "Bwe ekeir different ko tapped?",
-        "a": "Ko unpleasant. Ko buzzer, red cross ma shaking. Gemu ebwe name ekeir ko tapped ma wait ren next tap."
+        "q": "Daga e bita ña e tapun pija me iyara?",
+        "a": "Eab eor dudu me dogin. Eab eor buzzer, raran cross me aeañeñ. Geim e aen iya pija me tapun me e kikiñ ñan tapun nuka."
       },
       {
-        "q": "Ko free ma ko sign up?",
-        "a": "Ko, ngaran free, ko account, sign-up ma download. Ebwe work ni web browser ni phone, tablet ma computer."
+        "q": "E mwiyen, me a oboen rejidur?",
+        "a": "Ee, e mwiyen, me eab eor akaunt, rejidur me download. E makur iat web browser iat fon, tablet me kompyuta."
       }
     ]
   },
   "shadow-match": {
-    "name": "Shadow match",
-    "seoTitle": "Shadow Matching Game for Dementia: Free Online",
-    "h1": "Shadow Match: ekeir gemu ni calm",
-    "description": "Shadow ni dark ni top, two ma four ekeir ni below. Tap ekeir ko ebwe tu shadow. Gemu ni free ma calm ren shadow matching ko dementia, ko timer.",
-    "short": "Look shadow ma tap ekeir ko ebwe tu shadow.",
-    "players": "1 ma 2 ekeir",
-    "intro": "Shadow matching ko activity ko familiar ni printed worksheets, ngaran ni large ekeir ma ko print. Shadow ni soft ebwe tu ni top ren screen ma two, three ma four ekeir ebwe wait ni below. Tap ekeir ko ebwe tu shadow. Shapes ke bicycle, umbrella ma teacup ko easy ren talk.",
+    "name": "Kaimeroñ anũan",
+    "seoTitle": "Geim in Kaimeroñ Anũan ñan Dementia: Mwiyen Online",
+    "h1": "Kaimeroñ Anũan: Geim in Pija me Omwi",
+    "description": "Anũan me erũrũ iat pouñ, erũw me rop aeañog pija iat emwak. Tapun pija me e anũan e. Geim in anũan me mwiyen me omwi ñan dementia, eab eor awa.",
+    "short": "Aea anũan me tapun pija me e anũan e.",
+    "players": "1 me e 2 engame",
+    "intro": "Kaimeroñ anũan e aia makur me engame ro omaro iat peba, me ngago e ba iat pija ebaubo me eab ogit print. Anũan me omwi e ba iat pouñ in skrin me erũw, aiyiū me aeañog pija iat emwak. Tapun pija me e anũan e. Pija ro ngen baasiko, ambrera me kapen ti e omo iya madaura.",
     "howTo": [
-      "Ko choose two, three ma four ekeir ren pick. Two ebwe simplest.",
-      "Look shadow together. Shape ko? Tall ma round?",
-      "Tap ekeir ko ebwe tu shadow. Name ren ekeir ebwe appear ni below shadow.",
-      "Ngaran ekeir different ko tapped, gemu ebwe name ma wait. Take time.",
-      "Tap \"Next shadow\" ngaran ko ready ren another."
+      "Ñabwi erũw, aiyiū me e aeañog pija bwe kom ñabwi. Erũw e omwi kakarar.",
+      "Aea anũan kom erũw. E bita arin? E ikũk me e momok?",
+      "Tapun pija me e anũan e. Iyin e ba iat emwak in anũan.",
+      "Ña e tapun pija me eiyara, geim e aen iya me e kikiñ. Eab kukur am ao.",
+      "Tapun \"Anũan nuka\" ña kom memeg ñan anũan epo."
     ],
     "tips": [
-      "Trace outline ren shadow ni finger ma talk ren shape.",
-      "Ngaran shadows ko hard ni day ngaran, switch ren Find the same, ngaran ekeir ebwe alike.",
-      "Talk ren ekeir ngaran found: \"We had an umbrella like that.\""
+      "Towi reben anũan ma baim me madaura arin.",
+      "Ña anũan e mwejen ngago, kadudo ngen Metu me eñame, bwe pija ro ro eñame arin.",
+      "Madaura pija ña e metu: \"Kam tsimine ambrera ngen ñwo omo.\""
     ],
     "faq": [
       {
-        "q": "Ko timer ma score?",
-        "a": "Ko. Ko clock, score, move counter ma losing. Ko ebwe stop ngaran moment, ma stop halfway ebwe ko good way ren finish."
+        "q": "E tsimine awa me skor?",
+        "a": "Eab. Eab eor kurok, skor, etan move me oten. Kom maro aen iat gata ao, me aen iat nũbwa e omo bwe roñ."
       },
       {
-        "q": "Ese mwiniwin shadow matching ngan eda ren dementia?",
-        "a": "E ese dogig ngan eda ko mwin ngaiye, naba ngan eda ren mwin ko dementia. Ren eda e dogig ngan shapes ngan ena ngaiyen ngan words. E ngan ngaiye ma kokoro, ma ese test, ma ese mwiniwin ko dementia ke ese ketheng ko dementia. Ngan ena e kiroa ngaiye ngan eda, tuwen \"Find the same\", ke look at pictures together."
+        "q": "E omo ke shadow matching bwo engame ngago re mwaer inebin?",
+        "a": "E kona ngeni makur ngea e mwamweiy me e omo bwo engame nanga, baji kor ian ngago e kereri. E mwamweiy amin aea pija pumwe dorer. E bita bwo amin maruwei me dorer, eab tes, me eab dober me eab ekog mwaerin ineb. Ngago e kowawa, wo kona aea Find the same me ougoda aea pija ituga."
       },
       {
-        "q": "Ese ko ngaiyeng ngan eda ngan ena ngan picture ko ese tika?",
-        "a": "Ese ko ngaiye ngan ena. Ese buzzer, ese red cross, ese shaking. E ngan ena ngan picture ko eda ebwe tapped, ma e ngan ngaiye ngan tap ko mwin."
+        "q": "Meda e gona ngago wo tepenia pija ngea e se bita?",
+        "a": "Eko meto e kowawa. Eko basa, koros e ebara me eko mwiwi. Gem e ougen egün pija ngea wo tepenia me e ropu bwo tep nanga."
       },
       {
-        "q": "E free ma ese ngan sign up?",
-        "a": "Ae, e free, ma ese account, ese sign-up, ese download. E ngan ena ngan web browser ko phone, tablet ke computer."
+        "q": "E firi ke, me a bo amin sain-ap?",
+        "a": "Eh, e firi, me eko akaun, sain-ap me daunlod. E makur ian web browser ian fon, tebret me kompiuta."
       }
     ]
   },
   "sort-together": {
-    "name": "Sort together",
-    "seoTitle": "Sorting Game for Dementia: Sort Together",
-    "h1": "Sort Together: a Picture Sorting Activity",
-    "description": "Tap a picture, then tap the basket it belongs in: kitchen or garden, fruit or animals. A calm, free sorting activity for people living with dementia.",
-    "short": "Put each picture in its basket: kitchen or garden, and more.",
-    "players": "1 or 2 people",
-    "intro": "Sorting is a familiar, satisfying everyday task, like putting away groceries or pairing socks. Tap a picture, then tap the basket where it belongs. There is no rush and no wrong turn.",
+    "name": "Aetan ituga",
+    "seoTitle": "Gem in Aetan bwo Engame ngago re Mwaer Inebin: Sort Together",
+    "h1": "Sort Together: Makur in Aetan Pija",
+    "description": "Tepenia pija, me tepenia ebwer ngea e bwiida ian: kisin me gadun, wuan eto me man. Bita makur in aetan e mwamweiy me e firi bwo engame ngago re mwaer inebin.",
+    "short": "Aetan iturin pija ian eben ebwer: kisin me gadun, me meto nanga.",
+    "players": "1 me 2 engame",
+    "intro": "Aetan meto bita makur ngea e mwamweiy me roke iat eb, erier animwen aetan katen ian stua me aetan soks. Tepenia pija, me tepenia ebwer ngea e bwiida ian. Eko rupe me eko meto e se bita.",
     "howTo": [
-      "Pick a theme: kitchen and garden, fruit and animals, or home and travel.",
-      "Tap a picture. It gets a gold border.",
-      "Tap the basket it belongs in. The picture moves into that basket.",
-      "If it belongs in the other basket, the game says so gently and waits.",
-      "When every picture is sorted, look through the baskets together."
+      "Ita theme: kisin me gadun, wuan eto me man, me mwenge me fofori.",
+      "Tepenia pija. E bwida an gold border.",
+      "Tepenia ebwer ngea e bwiida ian. Pija e nuwaw ian bita ebwer.",
+      "Ngago e bwiida ian bita ebwer nanga, gem e dorer ian omo me e ropu.",
+      "Ngago e modin aetan pija, aea ian eben ebwer ituga."
     ],
     "tips": [
-      "There are often no wrong answers in real life. If someone says a watering can belongs in the kitchen, ask why. You may get a good story.",
-      "Use the pictures as a prompt: \"What did you grow in your garden?\"",
-      "Sorting real objects, like spoons and forks or buttons by color, is a great follow-up away from the screen."
+      "Iat eb e tsimine bita eko wrong answer. Ngago amen omera e dorer bita watering can e bwiida ian kisin, kiowen dorer bwo meda. Wo kona orre karani dorer e omo.",
+      "Kukuni pija bwo dorer: \"Meda wo aruma ian am gadun?\"",
+      "Aetan meto iat eb, erier spun me fok me baten ian karor, bita makur e omo ngago wo eab aea skrin."
     ],
     "faq": [
       {
-        "q": "Ese ko timer ke score?",
-        "a": "Ese. Ese clock, ese score, ese move counter, ese losing. Ko mwin ngan ena ngan mwiniwin, ke ngan ena ngaiye e ngan kiroa ko mwin ngan ena."
+        "q": "E tsimine ke taima me skoa?",
+        "a": "Eab. Eko kurok, skoa, namban move me eko edae. Wo kona teki ian ga ean, me teki ian nukon e omo kor bwo amin modin."
       },
       {
-        "q": "Ngaiye sorting?",
-        "a": "Eda ren aikanen e ngan sorting naba e mwin ko kokoro ngaiye ngan ena, naba e ngan ko ngaiye ko ngaiyen. E ngan ngaiye ngan kongiye ngan picture ngan ena."
+        "q": "Bwo meda aetan?",
+        "a": "Engame e baji re maruwei aetan bwo erier makur e omo me re roke. E mwamweiy ngeni amin kakairũ bwo pija ngago wo makur."
       },
       {
-        "q": "E free ma ese ngan sign up?",
-        "a": "Ae, e free, ma ese account, ese sign-up, ese download. E ngan ena ngan web browser ko phone, tablet ke computer."
+        "q": "E firi ke, me a bo amin sain-ap?",
+        "a": "Eh, e firi, me eko akaun, sain-ap me daunlod. E makur ian web browser ian fon, tebret me kompiuta."
       }
     ]
   },
   "picture-puzzle": {
-    "name": "Picture puzzle",
-    "seoTitle": "Easy Jigsaw Puzzle for Dementia: 4 or 9 Pieces",
-    "h1": "Picture Puzzle: an Easy Jigsaw",
-    "description": "An easy online jigsaw for people living with dementia: 4 or 9 large pieces, the whole picture stays visible, and you tap two pieces to swap them.",
-    "short": "Tap two pieces to swap them until the picture is whole.",
-    "players": "1 or 2 people",
-    "intro": "A friendly picture is cut into four or nine large pieces and mixed up. The whole picture stays visible as a guide. Tap one piece, then another, and they swap places. No dragging is needed.",
+    "name": "Pija pasro",
+    "seoTitle": "Jigsaw Puzzle e Mwamweiy bwo Engame ngago re Mwaer Inebin: 4 me 9 Pieces",
+    "h1": "Picture Puzzle: Jigsaw e Mwamweiy",
+    "description": "Jigsaw e mwamweiy ian onlain bwo engame ngago re mwaer inebin: 4 me 9 pieces e kowawa, pija e modin e pwerin aea, me wo tepenia aro piece bwo amin ibiwi.",
+    "short": "Tepenia aro piece bwo amin ibiwi me pija e bwiida.",
+    "players": "1 me 2 engame",
+    "intro": "Pija e omo e kateki ian 4 me 9 pieces e kowawa me e kakore. Pija e modin e pwerin aea bwo aeaen. Tepenia a piece, me tepenia nanga, me re ibiwi eben. Eko doren dragging.",
     "howTo": [
-      "Choose a picture and 4 or 9 pieces. Four is a gentle start.",
-      "Look at the whole picture at the top.",
-      "Tap a piece, then tap the place where it should go. The two pieces swap.",
-      "Pieces in the right place get a small check mark.",
-      "When the picture is whole, enjoy it together, then choose another."
+      "Ita pija me 4 me 9 pieces. 4 e omo bwo kererin.",
+      "Aea pija e modin ian pwon.",
+      "Tepenia piece, me tepenia eb ngea e bwiida ian. Aro piece re ibiwi.",
+      "Pieces ngago e bwiida ian eben re orre check mark e eowur.",
+      "Ngago pija e modin, maruwei ituga, me ita pija nanga."
     ],
     "tips": [
-      "Tapping two pieces to swap them is much easier than dragging for many people.",
-      "Talk about the picture as it comes together: \"There is the red roof.\"",
-      "A real wooden jigsaw with 12 to 24 large pieces is a lovely table activity too."
+      "Tepenia aro piece bwo amin ibiwi e mwamweiy kor pumwe dragging bwo engame e baji.",
+      "Dorer bwo pija ngago e bwiida: \"Ngea bita red roof.\"",
+      "Jigsaw in debao iat eb me 12 me 24 pieces e kowawa bita makur ian tebo e omo kor."
     ],
     "faq": [
       {
-        "q": "Ese ko timer ke score?",
-        "a": "Ese. Ese clock, ese score, ese move counter, ese losing. Ko mwin ngan ena ngan mwiniwin, ke ngan ena ngaiye e ngan kiroa ko mwin ngan ena."
+        "q": "E tsimine ke taima me skoa?",
+        "a": "Eab. Eko kurok, skoa, namban move me eko edae. Wo kona teki ian ga ean, me teki ian nukon e omo kor bwo amin modin."
       },
       {
-        "q": "Ese ko drag ngan pieces?",
-        "a": "Ese. Tap ko piece ngaiye, ke tap ko mwin, ke ra swap ngan ena. E mwin ngan eda ren shaky hand ke ngan small screen."
+        "q": "A bo ke amin drag pieces?",
+        "a": "Eab. Tepenia a piece, me tepenia nanga, me re ibiwi eben. E mwamweiy ngago e mwiwi be me ian skrin e eowur."
       },
       {
-        "q": "E free ma ese ngan sign up?",
-        "a": "Ae, e free, ma ese account, ese sign-up, ese download. E ngan ena ngan web browser ko phone, tablet ke computer."
+        "q": "E firi ke, me a bo amin sain-ap?",
+        "a": "Eh, e firi, me eko akaun, sain-ap me daunlod. E makur ian web browser ian fon, tebret me kompiuta."
       }
     ]
   },
   "finish-the-saying": {
-    "name": "Finish the saying",
-    "seoTitle": "Finish the Saying: Proverbs Game for Seniors",
+    "name": "Modin dorer",
+    "seoTitle": "Finish the Saying: Gem in Dorerin Eraro bwo Riring",
     "h1": "Finish the Saying",
-    "description": "Familiar sayings with the last word missing. Tap a choice or show the ending, then talk about it.",
-    "short": "Complete familiar sayings together, then talk about them.",
-    "players": "1, 2 or a group",
-    "intro": "Old sayings are often well known for a lifetime. Each card shows a familiar saying with the last word missing, three choices, and a \"Show the ending\" button. After the ending, a gentle question invites conversation.",
+    "description": "Dorerin eraro me ngago me Amerika ngago e mwaer dorer ian aeaen, erier \"A penny saved is a penny ___\". Tepenia dorer me aea bita modin, me dorer bwo meto nanga.",
+    "short": "Kamodin dorerin eraro ituga, me kakairũ bwo meto nanga.",
+    "players": "1, 2 me koro engame",
+    "intro": "Dorerin ngago re roke iat eb. Katen e aea dorerin eraro me dorer ian aeaen e mwaer, aiji choices, me baten in \"Show the ending\". Ngago e aea modin, dorer in kiowen e omo bwo amin kakairũ.",
     "howTo": [
-      "Read the saying out loud together.",
-      "Tap the word that finishes it, or tap \"Show the ending\".",
-      "Read the whole saying again and talk about it using the prompt.",
-      "Tap \"Next saying\" when you are ready."
+      "Aea dorer ian ituga.",
+      "Tepenia dorer ngea e kamodin, me tepenia \"Show the ending\".",
+      "Aea dorer e modin bwo amin kakairũ.",
+      "Tepenia \"Next saying\" ngago wo bo."
     ],
     "tips": [
-      "Read slowly and leave a pause before the last word. Often people say it before you finish.",
-      "If someone gives a different ending, enjoy it. Some versions of sayings vary by family or region.",
-      "In a group, one person reads and everyone joins in on the ending."
+      "Aea ian mwamwein me ropu iat dorer ian aeaen. Engame re dorer ngago wo eita modin.",
+      "Ngago amen omera e dorer modin nanga, maruwei. Dorerin eraro nanga e bwiida ian mwenge me eb nanga.",
+      "Ian koro engame, eman e aea me engame modin re dorer modin."
     ],
     "faq": [
       {
-        "q": "Ese ko timer ke score?",
-        "a": "Eab. Ekeow tsimin awan, ekeow iko, ekeow bwiema me ekeow eto ian. Wo emarain bita wo magita ian aea reit emago, me aeawa bita wo etet ian e ouga bita dogin."
+        "q": "E tsimine ke taima me skoa?",
+        "a": "Eab. Eke kurok, mak, an wounen nane me erum. O bwiida ian ngago me ngago, me an bwiida ian ubun e magitet an erieri."
       },
       {
-        "q": "Mwa ouga ne a kowen dorer ean?",
-        "a": "Bita makur e aea bita ean dorer me e riringen dorer. Ekeow iko, me dorer ian e ouga me e dogit eb."
+        "q": "Me ekeita me da aen dorer me ijei?",
+        "a": "Aitsiu e aen ijei an erieri me e tsimor dorer. Eke mak, me iwonen an me ijei e omo."
       },
       {
-        "q": "E tor won ribana, me engab ngago aea akawun?",
-        "a": "Io, e tor won ribana, me ekeow akawun, ekeow sain-ap me ekeow dawnlod. E makur ian web braosa ean tefoun, tablet me kompiuta."
+        "q": "E maagur eij, me e magu a an tsiedida?",
+        "a": "Io, e maagur, me eke akaun, eke tsiedida me eke daunrood. E mwir ian web browser ian tepon, tablet me kompiuta."
       }
     ]
   },
   "word-search": {
-    "name": "Makur n dorer ian leta ekaile",
-    "seoTitle": "Makur n Dorer ian Leta Ekaile ibun Engame ñea Erowida Amwa, Eburiin",
-    "h1": "Makur n Dorer ian Leta Ekaile",
-    "description": "Makur n dorer ian leta ekaile e tor won ribana ibun engame riring me engame ñea erowida amwa. Ekeow dorer eba, ekaile leta, dorer e ro reit an me iturin dogin. Makur online me emarain buriin.",
-    "short": "Leta ekaile, e bwi dorer, ro reit iturin me an dogin. Emarain buriin nukan.",
+    "name": "Tsimor dorer iwonen etong",
+    "seoTitle": "Tsimor Dorer Iwonen Etong ñan Dementia, Bwio Ian Bwapepa",
+    "h1": "Tsimor Dorer Iwonen Etong",
+    "description": "Tsimor dorer iwonen etong maagur ñan engame ririd me engame ñaga etsimor me dementia. Eke ebwak dorer, etong reta, dorer e rir me e ebwio. Tsimor online me bwio ian bwapepa.",
+    "short": "Etong reta, eke ebwak dorer, rir me ebwio. Bwio ian bwapepa tsin.",
     "players": "1 me 2 engame",
-    "intro": "Grid etangina ian leta ekaile me e bwi dorer, reiet an me iturin. Tap leta me tap bita ro reit iturin. Wo reit beba? Eburiin bita makur e kowen ian te tap.",
+    "intro": "Grid ekeking me reta etong me eke ebwak dorer, rir me ebwio. Tsinita te reta an ebwa ian dorer, me tsinita an erieri reta. O gobweda bwapepa? Bwio eke aitsiu ian aiquen tsinita.",
     "howTo": [
-      "Aea bita theme me bita size n grid.",
-      "Aea bita list n dorer. Dorer e reiet iturin (ebereit ro reit maik) me reit an (pwer ro reit iturin).",
-      "Tap bita leta ian dogin dorer, me tap bita ro reit magin.",
-      "Dorer bita wo aea e mark me e ro bita list.",
-      "Tap \"Print this puzzle\" bita wo reiet ean beba me bensir me maka."
+      "Aen tema me ekeida grid.",
+      "Aea list in dorer. Dorer e rir (meo ñan atag) me e ebwio (pwer me ijad).",
+      "Tsinita te reta an ebwa ian dorer, me tsinita an erieri reta.",
+      "Dorer ngago o arowa e kakar me e omar ian list.",
+      "Tsinita \"Bwio aitsiu\" bwe o tsimor ian bwapepa me pensir me maka."
     ],
     "tips": [
-      "Aea bita dorer ian list me etamwi bita leta dogin.",
-      "Ean beba, highlighter e marain amwa ngago pencil.",
-      "Dorer ean dorer theme. Dorer n wani e riringen amwa n amwa ngago wani, kuk me maket."
+      "Doreda dorer ian list me irowida reta an ebwa nanga.",
+      "Ian bwapepa, highlighter e mwir an koro me pensir.",
+      "Dorer katsimor tema in dorer. Dorer in wani e katsimor aea in bwer, kok me maket."
     ],
     "faq": [
       {
-        "q": "Tsimin awan me iko ian?",
-        "a": "Eab. Ekeow tsimin awan, ekeow iko, ekeow bwiema me ekeow eto ian. Wo emarain bita wo magita ian aea reit emago, me aeawa bita wo etet ian e ouga bita dogin."
+        "q": "E tsimor kurok me mak?",
+        "a": "Eab. Eke kurok, mak, an wounen nane me erum. O bwiida ian ngago me ngago, me an bwiida ian ubun e magitet an erieri."
       },
       {
-        "q": "A emarain buriin bita makur n dorer?",
-        "a": "Io. Tap \"Print this puzzle\" bita wo buriin grid ian leta ekaile, me list n dorer e iturin. Puzil e kowen ian ngago e kowen."
+        "q": "A ngab bwio tsimor dorer?",
+        "a": "Io. Tsinita \"Bwio aitsiu\" bwe o bwio grid ian reta etong, me list in dorer e pwer. Tsimor dorer me eke tsimor e bwiida me ijei."
       },
       {
-        "q": "E tor won ribana, me engab ngago aea akawun?",
-        "a": "Io, e tor won ribana, me ekeow akawun, ekeow sain-ap me ekeow dawnlod. E makur ian web braosa ean tefoun, tablet me kompiuta."
+        "q": "E maagur eij, me e magu a an tsiedida?",
+        "a": "Io, e maagur, me eke akaun, eke tsiedida me eke daunrood. E mwir ian web browser ian tepon, tablet me kompiuta."
       }
     ]
   },
   "coloring": {
-    "name": "Beba n kala",
-    "seoTitle": "Beba n Kala ibun Engame Riring ñea Erowida Amwa (E tor won ribana)",
-    "h1": "Beba n Kala",
-    "description": "Beba n kala e mada ibun engame riring ian ekaile pija: tap kala, me tap pija. Ekeow mess, ekeow kala eto, me peij me peij emarain buriin e tor won ribana.",
-    "short": "Tap kala, me tap iturin pija. Buriin beba nukan.",
+    "name": "Bwapepa in kakar",
+    "seoTitle": "Bwapepa in Kakar ñan Engame Ririd me Dementia (Maagur)",
+    "h1": "Bwapepa in Kakar",
+    "description": "Bwapepa in kakar ekeking ñan engame ririd me etong tsi: tsinita kala, me tsinita aitsiu. Eke buoita, eke kala me ijei, me aiquen bwapepa e maagur an bwio.",
+    "short": "Tsinita kala, me tsinita aitsiu. Bwio bwapepa tsin.",
     "players": "1 me 2 engame",
-    "intro": "Beba ian pija ekaile me e mada: daborao ian bat, mwengara, tiikap, bebe me bot. Tap kala, me tap iturin pija bita wo riringen. Ekeow kala e toba.",
+    "intro": "Bwapepa me etong tsi ekeking: dugidu ian pod, ebwa, tiikap, bepe me eangan. Tsinita kala, me tsinita aitsiu bwe o kakar. Eke kala me erum.",
     "howTo": [
-      "Aea bita peij.",
-      "Tap kala. Kala me kala e tsimin etan ean.",
-      "Tap iturin pija bita wo riringen ian bita kala.",
-      "Kowen amwa ean tsimin awan bita wo riringen nukan.",
-      "Tap \"Print this page\" bita beba mada wo riringen ian bensir me maka."
+      "Aen bwapepa.",
+      "Tsinita kala. Aiquen kala e torea etam.",
+      "Tsinita aitsiu bwe o omodida me kala.",
+      "O mwir an wounen ngago me ngago ian an kakar ijei.",
+      "Tsinita \"Bwio aitsiu\" bwe o arowa bwapepa kakar me pensir me maka."
     ],
     "tips": [
-      "Kowen aro kala bita e reit aea ngago emarain riring aea me ekeow eba.",
-      "Dabugaga e bwoiy me araubum e buru e dogit eb. Makur e mada ean kala, ekeow aea eto.",
-      "Beba buriin e marain ian maka me kraiyon ekaile, e reit buoian ian bita."
+      "Aean erogo kala bwe en aen me eke magitet aen amuro.",
+      "Dabugbug iwonen karoro me puji iwonen edag e omo. Aitsiu e katsimor kakar, me eke katsimor an bwiida.",
+      "Bwapepa ngago o bwio e omo me maka etong me crayons, bwe e mwir an koro."
     ],
     "faq": [
       {
-        "q": "Tsimin awan me iko ian?",
-        "a": "Eab. Ekeow tsimin awan, ekeow iko, ekeow bwiema me ekeow eto ian. Wo emarain bita wo magita ian aea reit emago, me aeawa bita wo etet ian e ouga bita dogin."
+        "q": "E tsimor kurok me mak?",
+        "a": "Eab. Eke kurok, mak, an wounen nane me erum. O bwiida ian ngago me ngago, me an bwiida ian ubun e magitet an erieri."
       },
       {
-        "q": "Beba kaiki e riringen babiyit eb?",
-        "a": "A kowen pija mada me e gogora ngago cartoon, bita e dogit eb ibun engame riring. Pija ekaile e riringen kala e reit riring me ekeow babiyit eb."
+        "q": "Bwapepa aitsiu e arorong in emwidr?",
+        "a": "Amo kakar etokwog ekeking me eke cartoons, bwe bwapepa e omo ñan engame ririd. Etong tsi e mwir an kakar me eke arorong in emwidr."
       },
       {
-        "q": "E tor won ribana, me engab ngago aea akawun?",
-        "a": "Io, e tor won ribana, me ekeow akawun, ekeow sain-ap me ekeow dawnlod. E makur ian web braosa ean tefoun, tablet me kompiuta."
+        "q": "E maagur eij, me e magu a an tsiedida?",
+        "a": "Io, e maagur, me eke akaun, eke tsiedida me eke daunrood. E mwir ian web browser ian tepon, tablet me kompiuta."
       }
     ]
   },
   "conversation-cards": {
-    "name": "Kat n dorer",
-    "seoTitle": "Kat n Dorer ibun Engame ñea Erowida Amwa: Kat n Pija",
-    "h1": "Kat n Dorer",
-    "description": "Kat n pija ian dorer mada ibun engame ñea erowida amwa: ekeow kietsin n test, ekeow aea dorer eto. Aea ean skrin me buriin full set.",
-    "short": "Kat n pija ian kietsin mada me oñer. Ekeow kietsin n test.",
-    "players": "2 engame me kakarara",
-    "intro": "Kat me kat e tsimin pija me dorer mada bita oñer dorer, ngago \"Mwa meto wara riringen ian ewewit awan?\" Ekeow dorer eto me ekeow bita engab wo amwa. Aea bita theme me shuffle kat.",
+    "name": "Kaat in dorer",
+    "seoTitle": "Katsimor Dorer ñan Dementia: Kaat in Aitsiu",
+    "h1": "Kaat in Dorer",
+    "description": "Kaat in aitsiu me dorer katsimor ñan engame ñaga etsimor me dementia: eke kuits, eke dorer me e omo. Tsimor ian screen me bwio kaat amuro.",
+    "short": "Kaat in aitsiu me eke kuits. Katsimor dorer.",
+    "players": "2 engame me ogona",
+    "intro": "Aiquen kaat e torea aitsiu me katsimor dorer, bwe \"Meda ebwa in ean ngago o gobweda?\" Eke dorer me erum me eke memori. Aen tema me amwirida amuro.",
     "howTo": [
-      "Aea bita theme, me reiet \"All cards\".",
-      "Oñer bita kietsin ian dorer ekaile me aea bita pija.",
-      "Karauwe, dorer amwa, me oñer dorer e kowen.",
-      "Tap \"Next card\" ngago wo reit, me reiet ean te kat ngago wo amwa.",
-      "Tap \"Print all cards\" bita wo tei kat n beba."
+      "Aen tema, me koro \"Kaat amuro\".",
+      "Aea dorer me aea aitsiu nanga.",
+      "Rongerong, katsimor dorer imwim, me koro dorer an mwir.",
+      "Tsinita \"Kaat me ijei\" ngago o gobweda, me o bwiida ian kaat ngago o gobweda.",
+      "Tsinita \"Bwio kaat amuro\" bwe o koto bwapepa."
     ],
     "tips": [
-      "Dorer bita kietsin nukan. E dogit eb ngago dorer, ekeow intaviu.",
-      "Aea bita stori, ekeow bita pwaek. Ne e kowen amwa, e dogit eb.",
-      "Ne kat e reiet dorer n bwarow, karauwe me oñer kowen ro kat e kowen."
+      "Doreda dorer imwim tsin. E arorong in dorer, me eke intabyu.",
+      "Koro dorer in aitsiu, me eke facts. E omo me details e wounen.",
+      "Me kaat e katsimor dorer in kakar, aea an arorong me ean kaat me ijei."
     ],
     "faq": [
       {
-        "q": "Engab ngago ekeow kietsin \"Wo amwa bita…?\"?",
-        "a": "Kietsin n test amwa e reiet ngago exam me e bwarow. Dorer mada ngago \"Oñerita…\" e riringen engame me engame e marain dorer, e ouga bita reit amwa."
+        "q": "Ekeita me eke dorer in \"O nuwawida…\"?",
+        "a": "Dorer ngago o kuits memori e arorong in eksam me e kakar. Katsimor dorer bwe \"Katsimor dorer in…\" e koro aiquen engame an dorer, ian ngago me ngago."
       },
       {
-        "q": "A emarain buriin bita kat?",
-        "a": "Io. \"Print all cards\" e buriin bita full set ian leta ekaile, kat eba ian peij, reit bita wo tei."
+        "q": "A ngab bwio kaat?",
+        "a": "Io. \"Bwio kaat amuro\" e bwio kaat amuro ian reta etong, ebwak kaat ian aiquen bwapepa, bwe o koto."
       },
       {
-        "q": "E tor won ribana, me engab ngago aea akawun?",
-        "a": "Ioh, e free, ma ko account, sign-up ma download. E nara tikim web browser i te phone, tablet ma computer."
+        "q": "E maagur eij, me e magu a an tsiedida?",
+        "a": "E, e pumwe eab, me eke akaun, registe me eab iwiid. E mwitwen nane browser ate terepon, tabret me kompiuta."
       }
     ]
   },
   "photo-pairs": {
-    "name": "Photo pairs",
-    "seoTitle": "Make a Matching Game from Family Photos",
-    "h1": "Photo Pairs: Match Your Own Photos",
-    "description": "Turn your own family photos into a gentle matching game. Choose 2 to 6 photos on your device; they stay in your browser and are never uploaded.",
-    "short": "Choose your own photos and match them. Nothing is uploaded.",
-    "players": "2 people, side by side",
-    "intro": "Choose two to six photos from your phone, tablet or computer, and they become a matching game with large, visible pictures. The photos are shown only inside this page. They are not uploaded, saved or shared, and they disappear when you close the page.",
+    "name": "Pija me pairin",
+    "seoTitle": "Mwakani geim in pair pija ian pija ngen fämili",
+    "h1": "Photo Pairs: Kadurow pija ngam",
+    "description": "Kadurow pija ngen fämili bwe geim in pair e maron me kamie. Kidä 2 ngari 6 pija nane dän ngam; e mimin ian browser ngam me eab upload nane ebwak.",
+    "short": "Kidä pija ngam me kadurow. Eke tsimurin e upload.",
+    "players": "2 engame, ian arowen me arowen",
+    "intro": "Kidä eron 2 ngari 6 pija nane terepon, tabret me kompiuta ngam, me erang geim in pair e obo pija e katsin me aea e mwitwen. Pija kai e mimin ian tei peij. Eab upload, eab sev me eab share, me e gog ian peij e kakat.",
     "howTo": [
-      "Tap \"Choose photos\" and pick two to six photos.",
-      "Each photo appears twice. Tap one, then tap its pair.",
-      "Talk about each photo as you find it.",
-      "When you are done, close the page or tap \"Clear photos\". Nothing is kept."
+      "Tap \"Choose photos\" me kidä 2 ngari 6 pija.",
+      "Ewon pija e obo erua. Tap pija ewon, me tap te pairin.",
+      "Dorer pija ewon ngage amuro aea.",
+      "Ngage amuro amaro, kakat peij me tap \"Clear photos\". Eke pija e koto."
     ],
     "tips": [
-      "Choose clear photos of happy, familiar things: a pet, a garden, a favorite place, a wedding day.",
-      "Pictures of places and objects can be easier than faces, and they avoid any pressure to name people.",
-      "Leave out photos of people who have died if they might bring sudden grief, unless you know they bring comfort."
+      "Kidä pija e katsin ngen kiki e oaten me kabori: pet, garden, te ebwak e oaten, me ran in kabubwiya.",
+      "Pija ngen te ebwak me kiki e maron e katsin ngen pija in ewa, me eab aijebur engame bwe ro nemin engame.",
+      "Dowa pija ngen engame ro ama ngage e bita atumor, aea e bita kamo ngage ro oaten."
     ],
     "faq": [
       {
-        "q": "Are my photos uploaded anywhere?",
-        "a": "Ikai. Te page e nang wiwi te photos me ko choose i te browser ma e nang kamot tikim i te screen. Ikai e kaberang ki mwi ma ki ro aroang, ma e ikai nang i te page me ko close ma reload."
+        "q": "Pija ngak e upload nane ebwak?",
+        "a": "Eab. Tei peij e aea pija nane browser ngam me obo ate skrin ngam. Eab owara ngen awo me ebwak engame, me e gog ngage amuro kakat me reload peij."
       },
       {
-        "q": "Is there a timer or a score?",
-        "a": "Ikai. Ikai clock, score, move counter ma losing. E nara stop i nako aroang, ma stop i waen e ikai ni wa ngaran nang ni finish."
+        "q": "E tsimurin taima me sko?",
+        "a": "Eab. Eke taima, sko, count in mwitwen me eke luus. Amuro maron bwiok ate te taim e oaten, me bwiok ate dabora e katsin me mwitwen bwe amaro."
       },
       {
-        "q": "Can I save the game for next time?",
-        "a": "Ikai i te browser, ni mwi, ke ikai ni store ang mea privacy. Te free app Golden Moments i te iPhone ma iPad e nara keep copies ko mwi i te device."
+        "q": "Ang maron sev geim bwe ngen taim in mwin?",
+        "a": "Eab ian browser, bwe pija e praivet me eab sev. Ap in pumwe eab Golden Moments ngen iPhone me iPad maron sev kopii in pija nane dän ngam."
       }
     ]
   },
   "picture-bingo": {
-    "name": "Picture bingo",
-    "seoTitle": "Picture Bingo for Seniors with Dementia: Printable",
-    "h1": "Picture Bingo for Groups",
-    "description": "Free printable picture bingo for memory care and senior groups, with a large on-screen caller. Big pictures with words, 9 or 16 squares, no reading needed.",
-    "short": "Printable picture bingo cards and a big-screen caller for groups.",
-    "players": "A group of 2 to 30",
-    "intro": "Classic bingo with pictures instead of numbers, so no one needs to read small print. Print a set of unique cards, then use the on-screen caller to show each picture large on a TV, laptop or tablet.",
+    "name": "Bingo in pija",
+    "seoTitle": "Picture Bingo ngen amen korobub me amen memori kabori: Maron print",
+    "h1": "Picture Bingo ngen krup",
+    "description": "Pumwe eab print bingo in pija ngen memory care me krup in amen korobub, me obo caller e katsin ate skrin. Pija e katsin me dorer, 9 ngari 16 skwea, eke aea dorer e bo.",
+    "short": "Kat in bingo in pija maron print me caller ate skrin ngen krup.",
+    "players": "Krup in 2 ngari 30 engame",
+    "intro": "Bingo e katsin ngen pija, eke namba, bwe eke engame e bo bwe aea dorer e riek. Print kat e ibuk, me arowa caller ate skrin bwe obo pija e katsin ate TV, laptop me tabret.",
     "howTo": [
-      "Choose 9 or 16 squares per card and how many players.",
-      "Tap \"Print cards\". Each card is different.",
-      "Open the caller on a large screen. Tap \"Next picture\" to show each picture with its name.",
-      "Players cover the matching picture on their card with a coin, button or marker.",
-      "Everyone who fills a row, or the whole card, gets a cheer. There are no losers in this version: keep playing until everyone has a line."
+      "Kidä 9 ngari 16 skwea ate kat me ian ewo engame ro mwitwen.",
+      "Tap \"Print cards\". Kat ewon e ibuk.",
+      "Kaara caller ate skrin e katsin. Tap \"Next picture\" bwe obo pija ewon me etan.",
+      "Engame ro tabwe pija e kadurow ate kat ngen koen, baten me maka.",
+      "Engame ewon ro amaro lain, ngari kat e bita, ro oaten. Eke luus ian geim tei: mwitwen ngang engame ewon ro bita lain."
     ],
     "tips": [
-      "Use large tokens such as checkers or bottle caps. Small buttons can be hard to pick up.",
-      "Name the picture and say something about it: \"A sailboat. Who has been out on a boat?\"",
-      "Sit people with difficulty seeing closest to the screen, and pair helpers with players who need them.",
-      "Nine squares is plenty for most groups. Keep the session around 20 to 30 minutes."
+      "Arowa tokin e katsin ngen botor kap me checkers. Baten e riek e maron kabori ngen kiid.",
+      "Etan pija me dorer kiki ngen pija: \"Bout in anio. Nga e ibwid ate bout?\"",
+      "Teko engame ro kabori ngen aea arowa skrin, me kadurow amen aroweda ngen engame ro bo ia.",
+      "9 skwea e mwitwen ngen bita krup. Arowa 20 ngari 30 minit bwe mwitwen."
     ],
     "faq": [
       {
-        "q": "How do I run picture bingo in a care home?",
-        "a": "Print one card per player, put the caller on the biggest screen you have, and call pictures slowly, naming each one. Play until everyone has a line, so no one is left out."
+        "q": "Awo maron arowa picture bingo ian care home?",
+        "a": "Print kat ewon ngen engame ewon, arowa caller ate skrin e katsin, me etan pija e maron me kadok. Mwitwen ngang engame ewon ro bita lain, bwe eke engame e dowa."
       },
       {
-        "q": "Is it free to print?",
-        "a": "Ioh. Print as many cards as you need, as often as you like, for personal or group use."
+        "q": "E pumwe eab ngen print?",
+        "a": "E. Print kat ewon amuro oaten, ewon taim, ngen engame ngam ngari krup."
       },
       {
-        "q": "Can people play without reading?",
-        "a": "Ioh. Every square is a large picture, with its name underneath for those who like words."
+        "q": "Engame maron mwitwen ngage eab aea dorer?",
+        "a": "E. Skwea ewon e pija e katsin, me etan e mimin ian eton ngen engame ro oaten aea dorer."
       }
     ]
   },
   "calm-breathing": {
-    "name": "Calm breathing",
-    "seoTitle": "A Calm Breathing Pause for Seniors and Caregivers",
-    "h1": "A Calm Breathing Pause",
-    "description": "A slow, quiet breathing pause to share: a gentle circle grows and shrinks for six breaths. You start it, and you can stop any time.",
-    "short": "A slow circle to breathe along with. Start and stop when you like.",
-    "players": "1 or 2 people",
-    "intro": "Sometimes the best activity is a quiet pause. Tap \"Start\", then breathe in as the circle grows and out as it shrinks. Choose a slower or faster pace. It is not a treatment, just a peaceful moment to share.",
+    "name": "Eamwir e katsin",
+    "seoTitle": "Taim in eamwir e katsin ngen amen korobub me amen aroweda",
+    "h1": "Taim in eamwir e katsin",
+    "description": "Taim in eamwir e maron me katsin ngen share: sakor e tubwa me e riek ngen 6 eamwir. Amuro kaara, me amuro maron bwiok ate te taim amuro oaten.",
+    "short": "Sakor e maron ngen eamwir ian arowen. Kaara me bwiok ngage amuro oaten.",
+    "players": "1 ngari 2 engame",
+    "intro": "Taim ewon mwitwen e katsin e bwiok e maron. Tap \"Start\", me eamwir ian sakor e tubwa me eamwir eow ngage e riek. Kidä e maron ngari e katsin. Eke medesin, e taim in katsin ngen share.",
     "howTo": [
-      "Sit comfortably side by side.",
-      "Choose a pace: slow or gentle.",
-      "Tap \"Start\". Breathe in while the circle grows, and out while it shrinks.",
-      "It stops by itself after six breaths, or tap \"Stop\" whenever you like."
+      "Tekateki e katsin ian arowen me arowen.",
+      "Kidä taim: e maron ngari e katsin.",
+      "Tap \"Start\". Eamwir ian sakor e tubwa, me eamwir eow ngage e riek.",
+      "E bwiok ewon ngage 6 eamwir e bita, ngari tap \"Stop\" ate te taim amuro oaten."
     ],
     "tips": [
-      "Hold hands or rest a hand on the person's arm if that is welcome.",
-      "Never insist. If they would rather watch, that is fine.",
-      "If someone has breathing problems, breathe normally and simply watch the circle. Ask a doctor about any breathing concerns."
+      "Kiid pein ngari dowa pei ate pae ngen amen ngam ngage e oaten.",
+      "Eke kae. Ngage ro oaten aea, e katsin.",
+      "Ngage engame e kabori ngen eamwir, eamwir ngen kiki me aea sakor. Dorer ngen dokta ngage e tsimurin kabori ngen eamwir."
     ],
     "faq": [
       {
-        "q": "Is this a medical breathing exercise?",
-        "a": "Ikai. E simple, optional pause ni calm ma company. Ikai treatment ni anxiety ma ikai condition. Talk ma doctor ni health concerns."
+        "q": "Tei e ekises in medesin ngen eamwir?",
+        "a": "Eab. E taim e maron ngen katsin me mimin ian arowen. Eke medesin ngen anxiety ngari te bita kabori. Dorer ngen dokta ngen kiki in bwiema."
       },
       {
-        "q": "Does the circle move without me starting it?",
-        "a": "Ia. Ena jeni ta ke ko 'Start', ao ena tur ke ko 'Stop' ke eke ruwe nen ebwin. Ma ke aon ebwe aenaki ta, ao ena kobwe kewa ta ke ena ekanai aenaki ebwin kanadi."
+        "q": "Sakor e mwitwen ngage ang eab kaara?",
+        "a": "Deõ. Eko imin nimwemwe ñaga eitsiõk wo tap Start, me e katoki mwurin 6 ònano eke ngaga wo tap Stop. Ña device om e set bwe e reduce motion, dorer nan tsientji me eab eba circle."
       },
       {
-        "q": "Ena kamunin ke e eab ekaiirea ao ena baken ekwe ko ekaiarea?",
-        "a": "Eng, ena kamunin, ao e eab ekai, e eab ekaiirea, ao e eab kalar ko eiii. E ebwe kar kabwe ko web browser ko telefon, tablet ke kompiuta."
+        "q": "E free ñe, me a bita sign up?",
+        "a": "Eh, e free, me eko account, sign-up eke download. E makur eat web browser eat phone, tablet eke computer."
       }
     ]
   }

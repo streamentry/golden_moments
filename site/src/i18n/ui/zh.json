@@ -1,540 +1,541 @@
 {
   "_note": "Source dictionary. Keep keys; translate values. HTML in values is trusted: keep tags and href paths exactly, translate only the text. {name} placeholders must stay.",
   "common": {
-    "skipLink": "Skip to main content",
+    "skipLink": "跳转到主要内容",
     "brandName": "Golden Moments",
-    "brandTag": "Dementia activities",
-    "homeLabel": "Golden Moments home",
-    "mainNav": "Main",
+    "brandTag": "认知症陪伴活动",
+    "homeLabel": "Golden Moments 首页",
+    "mainNav": "主要导航",
     "titleSuffix": " | Golden Moments",
-    "defaultImageAlt": "Golden Moments: large, friendly pictures of a teacup, a sunflower and a dog",
-    "languages": "中文",
-    "englishOnly": "(English)",
-    "machineTranslated": "This page was translated automatically and has not yet been checked by a native speaker.",
-    "readOriginal": "Read the original in English",
+    "defaultImageAlt": "Golden Moments：茶杯、向日葵与小狗的温馨大图",
+    "languages": "语言",
+    "englishOnly": "（英文）",
+    "machineTranslated": "本页面为自动翻译内容，尚未经过人工审核。",
+    "readOriginal": "阅读英文原文",
     "nav": {
-      "games": "Games",
-      "activities": "Activities",
-      "caregiving": "Caregiving",
-      "brainHealth": "Brain health"
+      "games": "小游戏",
+      "activities": "日常活动",
+      "caregiving": "陪伴照护",
+      "brainHealth": "大脑健康"
     },
-    "faqTitle": "Questions and answers",
-    "breadcrumb": "Breadcrumb",
-    "home": "Home",
-    "lastUpdated": "Last updated",
-    "topics": "Topics",
+    "faqTitle": "常见问答",
+    "breadcrumb": "当前位置",
+    "home": "首页",
+    "lastUpdated": "最近更新",
+    "topics": "主题",
     "textSize": {
-      "label": "Text size",
-      "smaller": "Standard text",
-      "larger": "Larger text"
+      "label": "字号大小",
+      "smaller": "标准字号",
+      "larger": "大号字体",
+      "contrast": "高对比度"
     }
   },
   "footer": {
-    "play": "Play",
-    "picturePairs": "Picture pairs",
-    "conversationCards": "Conversation cards",
-    "pictureBingo": "Picture bingo",
-    "allGames": "All games",
-    "pictures": "Pictures to print",
-    "activityIdeas": "Activity ideas",
-    "ideas101": "101 activity ideas",
-    "lateStage": "Late-stage activities",
-    "printable": "Printable activities",
-    "allActivities": "All activities",
-    "forCaregivers": "For caregivers",
-    "playTogether": "How to play together",
-    "selfCare": "Caring for yourself",
-    "brainHealth": "Brain health research",
-    "faq": "Questions and answers",
-    "about": "About",
-    "approach": "Our approach",
-    "howWeWrite": "How we write",
-    "organizations": "For organizations",
-    "app": "The Golden Moments app",
-    "appHelp": "App help",
-    "support": "Support",
-    "legal": "Legal",
-    "sitePrivacy": "Website privacy",
-    "appPrivacy": "App privacy policy",
-    "privacyChoices": "Privacy choices",
-    "terms": "Terms and app license",
-    "safety": "Safety and intended use",
-    "accessibility": "Accessibility",
-    "healthNotice": "Health information notice",
-    "allLegal": "All legal information",
-    "note": "Golden Moments offers simple shared activities for enjoyment. It is not medical advice, a test or a treatment, and it does not diagnose, measure or score anyone. For health questions, talk with a doctor. In an emergency, call 911.",
-    "publisher": "Published by Cloudjet Solutions Pte. Ltd."
+    "play": "游戏体验",
+    "picturePairs": "图片配对",
+    "conversationCards": "聊天卡片",
+    "pictureBingo": "图片宾果",
+    "allGames": "全部小游戏",
+    "pictures": "可打印图片",
+    "activityIdeas": "活动灵感",
+    "ideas101": "101 种活动灵感",
+    "lateStage": "后期舒缓活动",
+    "printable": "可打印活动",
+    "allActivities": "全部活动",
+    "forCaregivers": "给照护者",
+    "playTogether": "如何一起互动",
+    "selfCare": "关爱自己",
+    "brainHealth": "大脑健康研究",
+    "faq": "常见问答",
+    "about": "关于我们",
+    "approach": "设计理念",
+    "howWeWrite": "撰写原则",
+    "organizations": "机构合作",
+    "app": "Golden Moments 应用程序",
+    "appHelp": "应用帮助",
+    "support": "支持与咨询",
+    "legal": "法律信息",
+    "sitePrivacy": "网站隐私政策",
+    "appPrivacy": "应用隐私政策",
+    "privacyChoices": "隐私选项",
+    "terms": "条款与许可",
+    "safety": "安全与设计初衷",
+    "accessibility": "无障碍说明",
+    "healthNotice": "健康信息须知",
+    "allLegal": "全部法律信息",
+    "note": "Golden Moments 提供简单易用的互动活动，旨在带来愉悦与陪伴。本网站不提供医疗建议，不做测试或治疗，也不对任何人进行诊断、评估或打分。如有健康疑问，请咨询专业医生。如遇紧急情况，请拨打急救电话 120。",
+    "publisher": "由 Cloudjet Solutions Pte. Ltd. 出版发行"
   },
   "home": {
-    "title": "Dementia & Alzheimer's Games and Activities | Golden Moments",
-    "description": "Free, gentle picture games to play online and activity ideas for people living with dementia or Alzheimer's and their caregivers. No sign-up, timers or scores.",
-    "eyebrow": "Free · No ads · No sign-up · No timers or scores",
-    "h1": "Gentle Games & Activities for People with Dementia",
-    "lede": "Simple picture games, familiar photos, and activities to enjoy together—at your own pace.",
-    "playGame": "Play a Game",
-    "findIdeas": "Find activity ideas",
+    "title": "认知症与阿尔茨海默病互动游戏与日常活动 | Golden Moments",
+    "description": "专为认知症或阿尔茨海默病人士及其照护者设计的免费温和在线图片游戏与活动灵感。无需注册，没有倒计时或计分。",
+    "eyebrow": "免费 · 无广告 · 无需注册 · 无计时与计分",
+    "h1": "为认知症人士设计的温和游戏与日常活动",
+    "lede": "简单的图片游戏、熟悉的生活照片，以及一起轻松享受的活动——节奏完全由您做主。",
+    "playGame": "体验小游戏",
+    "findIdeas": "寻找活动灵感",
     "facts": [
-      "Works on phone, tablet and computer",
-      "Big pictures that stay showing",
-      "Stop any time; nothing to fail"
+      "适用于手机、平板电脑和电脑",
+      "大图常显，清晰明了",
+      "随时可以停下，没有失败一说"
     ],
-    "heroApp": "Also a free app for iPhone, iPad and Android, with your own family photos",
-    "albumNote": "“Two pictures of the teacup, together.”",
-    "gamesEyebrow": "Play in your browser",
-    "gamesTitle": "Games you can play right now",
-    "gamesLede": "Each one is calm, adult and quick to start. Choose one, sit side by side, and take turns tapping.",
-    "seeAllGames": "See all {count} games",
-    "howTitle": "How it works",
+    "heroApp": "同时提供适用于 iPhone、iPad 和安卓设备的免费应用，可添加属于您自家的家庭合影",
+    "albumNote": "“两张茶杯的图片，放在一起。”",
+    "gamesEyebrow": "在浏览器中直接打开",
+    "gamesTitle": "即开即玩的温和游戏",
+    "gamesLede": "每一款都温和从容、适合成年人且容易上手。挑一个，坐在一起，轮流轻点屏幕。",
+    "seeAllGames": "查看全部 {count} 款游戏",
+    "howTitle": "使用方法",
     "steps": [
       {
-        "title": "Pick something familiar",
-        "text": "Pictures of teacups, gardens, pets and sailboats. No reading or rules to learn first."
+        "title": "挑选熟悉的日常事物",
+        "text": "茶杯、花园、宠物和帆船的真实照片。无需事先阅读文字或学习规则。"
       },
       {
-        "title": "Sit side by side",
-        "text": "Let them tap. Talk about the pictures. A mismatch simply waits for the next tap."
+        "title": "并肩坐在一起",
+        "text": "让他们自己轻点屏幕。边看边聊聊照片中的事物。即便没配对成功，画面也只是静静等待下一次点击。"
       },
       {
-        "title": "Stop while it feels good",
-        "text": "One game is a complete activity. “Done for now” is always on the screen."
+        "title": "在感觉舒心时随时停下",
+        "text": "玩完一局就是一次完整的活动。屏幕上随时都有“先玩到这里”的选项。"
       }
     ],
-    "stageEyebrow": "Beyond the screen",
-    "stageTitle": "Activity ideas for every stage",
-    "stageLede": "Music, everyday tasks, reminiscence and quiet sensory moments, adapted to what feels comfortable now.",
-    "ideas101": "101 activity ideas",
+    "stageEyebrow": "屏幕之外的时光",
+    "stageTitle": "适合各个阶段的活动灵感",
+    "stageLede": "音乐、日常家务、回忆过往以及宁静的感官陪伴，一切都顺应他们当下感到舒适的状态。",
+    "ideas101": "101 种活动灵感",
     "stages": [
       {
         "href": "/activities/early-stage/",
-        "title": "Early stage",
-        "text": "Keep doing what they love, with small adjustments: hobbies, outings, word games and planning together.",
-        "label": "Early-stage ideas"
+        "title": "早期阶段",
+        "text": "稍微做些调整，继续享受他们喜爱的事情：兴趣爱好、外出走走、文字互动以及一起商量日常安排。",
+        "label": "早期活动灵感"
       },
       {
         "href": "/activities/middle-stage/",
-        "title": "Middle stage",
-        "text": "Simple, familiar tasks broken into steps: folding, sorting, music, picture games and short walks.",
-        "label": "Middle-stage ideas"
+        "title": "中期阶段",
+        "text": "把熟悉简单的事情拆解成小步骤：叠衣服、整理归类、听音乐、图片互动以及短途散步。",
+        "label": "中期活动灵感"
       },
       {
         "href": "/activities/late-stage/",
-        "title": "Later stage",
-        "text": "Comfort and connection through touch, sound and sight: hand care, favorite songs, photos and being together.",
-        "label": "Later-stage ideas"
+        "title": "后期阶段",
+        "text": "通过触觉、声音和视觉带来安心与连接：手部护理、熟悉的老歌、翻看照片，以及静静相伴。",
+        "label": "后期活动灵感"
       }
     ],
-    "specificHtml": "Looking for something specific? Try <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a>, <a href=\"/activities/trivia/\">easy trivia</a> or <a href=\"/activities/puzzles/\">puzzles</a>.",
-    "approachEyebrow": "Our approach",
-    "approachTitle": "A shared activity, not a memory test",
-    "approachLede": "Many “brain games” are built around speed, scores and streaks. For someone living with dementia that can feel like an exam. We built the opposite.",
-    "approachLink": "Why we design it this way",
+    "specificHtml": "想找特定类型的活动？不妨看看<a href=\"/activities/alzheimers/\">适合阿尔茨海默病的活动与游戏</a>、<a href=\"/activities/memory-games/\">温和记忆小游戏</a>、<a href=\"/activities/trivia/\">轻松趣味问答</a>或<a href=\"/activities/puzzles/\">益智拼图</a>。",
+    "approachEyebrow": "我们的理念",
+    "approachTitle": "是一起享受的活动，而非记忆测试",
+    "approachLede": "许多“大脑训练游戏”都在强调速度、分数和连胜纪录。对认知症人士来说，这往往更像一场考试。而我们所做的恰恰相反。",
+    "approachLink": "我们为什么这样设计",
     "principles": [
       {
         "icon": "heart",
-        "title": "Nothing to fail",
-        "text": "No clock, score, lives or losing. A different picture is a pause, not a mistake."
+        "title": "没有失败",
+        "text": "没有倒计时、分数、生命限制或失败结果。翻到不同的图片只是一次停顿，并非犯错。"
       },
       {
         "icon": "eye",
-        "title": "Pictures stay showing",
-        "text": "Recognition over recall. Matching starts face up, so there is nothing to remember."
+        "title": "图片始终展现",
+        "text": "注重识别，而非死记硬背。配对从正面朝上开始，完全不需要费心去记。"
       },
       {
         "icon": "people",
-        "title": "Adult and dignified",
-        "text": "Warm, plain words and real-world pictures. Never cartoons or baby talk."
+        "title": "尊重成年人，体面从容",
+        "text": "温和质朴的文字与真实的生活照片。绝无幼稚的卡通画或哄小孩子的言语。"
       },
       {
         "icon": "shield",
-        "title": "Private by design",
-        "text": "No accounts or ads. Your photos never leave your device."
+        "title": "注重隐私保护",
+        "text": "无需注册账号，没有广告。您的照片永远不会离开您的设备。"
       }
     ],
-    "guidesEyebrow": "For caregivers",
-    "guidesTitle": "Practical guides for everyday care",
-    "allCaregiving": "All caregiving guides",
+    "guidesEyebrow": "给照护者",
+    "guidesTitle": "日常照料实用指南",
+    "allCaregiving": "全部照护指南",
     "guides": [
       {
         "href": "/caregiving/how-to-play-together/",
-        "title": "How to play games together",
-        "text": "Set up, pace, and what to do when a game stops being fun."
+        "title": "如何一起互动玩游戏",
+        "text": "准备工作、节奏把控，以及感觉不够尽兴时该如何温和应对。"
       },
       {
         "href": "/caregiving/when-they-say-no/",
-        "title": "When they say no to an activity",
-        "text": "Common reasons for refusing, and gentle ways to try again later."
+        "title": "当他们拒绝参加活动时",
+        "text": "常见的拒绝原因，以及过会儿再温和尝试的方法。"
       },
       {
         "href": "/caregiving/tablets-and-screens/",
-        "title": "Setting up a tablet",
-        "text": "Larger text, fewer interruptions and a single simple home screen."
+        "title": "如何设置平板电脑",
+        "text": "调大字号、减少通知干扰，并保留一个简洁清爽的主屏幕。"
       },
       {
         "href": "/activities/printable/",
-        "title": "Free printable activities",
-        "text": "Large-print word searches, coloring pages, bingo and conversation cards."
+        "title": "免费可打印活动素材",
+        "text": "大字版寻字游戏、填色图纸、宾果与聊天卡片。"
       }
     ],
-    "researchTitle": "Brain health: what the research really says",
-    "researchText": "Can dementia be prevented? Do brain games help? What about fasting, diet, sleep and hearing? Plain, sourced answers, including where the evidence is weak.",
-    "researchLink": "Read the research guides",
-    "appEyebrow": "Also an app",
-    "appTitle": "Golden Moments on iPhone, iPad and Android",
-    "appText": "The free app works offline and can use family photos you choose, kept as copies on your device. Same calm design: four large tiles, no timer, no score.",
-    "aboutApp": "About the app",
+    "researchTitle": "大脑健康：科学研究究竟怎么说",
+    "researchText": "认知症可以预防吗？益智游戏真的有帮助吗？断食、饮食、睡眠和听力影响几何？这里提供通俗易懂且有据可查的解答，包括哪些领域的证据尚不充分。",
+    "researchLink": "阅读科学研究指南",
+    "appEyebrow": "专属移动应用",
+    "appTitle": "适用于 iPhone、iPad 与安卓设备的 Golden Moments",
+    "appText": "这款免费应用支持离线使用，可以选用您挑选的家庭照片（仅作为副本保存在您的设备本地）。同样舒缓从容的设计：四个醒目大卡片，无计时，无计分。",
+    "aboutApp": "了解应用",
     "faq": [
       {
-        "q": "What are good games for people with dementia?",
-        "a": "Good games are simple, familiar and free of pressure: large pictures to match, sorting, easy jigsaws, finishing well-known sayings, coloring, picture bingo and conversation cards. The best choice is the one the person enjoys today. Avoid timers, scores and anything that feels like a test."
+        "q": "哪些游戏适合认知症人士？",
+        "a": "好的互动游戏通常简单、熟悉，而且没有任何压力：大图配对、物品分类、简单拼图、接俗语下半句、涂色、图片宾果以及对话卡片。最好的选择，就是长辈今天玩得开心的那一个。尽量避开倒计时、计分，以及任何让人觉得像在考试的环节。"
       },
       {
-        "q": "Are these dementia games free?",
-        "a": "Yes. Every game and printable on Golden Moments is free, with no account, sign-up or download. The games run in the web browser on a phone, tablet or computer."
+        "q": "这些适合认知症人士的游戏是免费的吗？",
+        "a": "是的。Golden Moments 上的每一款游戏和打印素材都是完全免费的，无需注册账号、登录或下载。通过手机、平板或电脑的网页浏览器即可直接开始。"
       },
       {
-        "q": "Do brain games prevent dementia?",
-        "a": "No game has been shown to prevent dementia, and Golden Moments does not claim to treat or prevent anything. Our games are for enjoyment and time together. Our brain health section explains what research does and does not show."
+        "q": "益智游戏能预防认知症吗？",
+        "a": "目前尚无研究表明任何游戏可以预防认知症，Golden Moments 也从不声称具有治疗或预防功效。我们的游戏旨在带来乐趣与相伴的时光。在脑健康板块中，我们客观介绍了现有研究所证实及尚未证实的内容。"
       },
       {
-        "q": "Are these games suitable for someone with Alzheimer's?",
-        "a": "Yes. Alzheimer's disease is the most common cause of dementia, and the games are made for it: large pictures that stay showing, few choices, and nothing to remember or get wrong. Matching, sorting and finishing familiar sayings lean on long-held knowledge rather than new learning."
+        "q": "这些游戏适合阿尔茨海默病人士吗？",
+        "a": "适合。阿尔茨海默病是导致认知症最常见的原因，我们的游戏正是为此量身设计：画面大且始终显示、选项少，无需刻意记忆，也不会有做错的挫败感。配对、分类和接俗语依靠的是长期积累的记忆与常识，不需要重新学习新技能。"
       },
       {
-        "q": "Can someone with later-stage dementia use these activities?",
-        "a": "Often, yes, with someone beside them. Start with Find the same with two pictures, Picture pairs with four tiles, a coloring page or a calm breathing pause. Keep it short, follow their lead and stop when they have had enough."
+        "q": "处于较后期阶段的认知症人士可以参与这些活动吗？",
+        "a": "通常可以，在身边有家人陪伴的情况下尤为合适。您可以先从两张图的“找相同”、四张卡片的“图片配对”、涂色画纸，或是平静的呼吸练习开始。过程尽量简短，顺着长辈的节奏来，当他们感到疲倦时就随时停下来。"
       },
       {
-        "q": "Is my information private?",
-        "a": "The site has no accounts and no advertising. We use Google Analytics to understand which pages are visited. Photos you choose for Photo pairs are shown only in your browser and are never uploaded."
+        "q": "我的个人信息安全吗？",
+        "a": "本网站没有用户账号，也没有任何广告。我们仅使用 Google Analytics 了解页面的访问情况。您在“照片配对”中选择的照片仅在您的浏览器中显示，绝不会上传。"
       },
       {
-        "q": "Who makes Golden Moments?",
-        "a": "Golden Moments is a small team making calm, adult picture activities for families and caregivers, on the web and as a free app. We are not clinicians, and nothing here is medical advice."
+        "q": "谁制作了 Golden Moments？",
+        "a": "Golden Moments 是一个小团队，致力于通过网站和免费应用程序，为家庭及照护者提供温和、适合成年人的图片互动活动。我们不是临床医生，此处提供的任何内容均不构成医疗建议。"
       }
     ]
   },
   "stage": {
-    "early": "early",
-    "middle": "middle",
-    "late": "later",
-    "hintOne": "Often suits {list} stage",
-    "hintMany": "Often suits {list} stages",
-    "labelEarly": "Early stage",
-    "labelMiddle": "Middle stage",
-    "labelLate": "Later stage"
+    "early": "早期",
+    "middle": "中期",
+    "late": "较后期",
+    "hintOne": "通常适合{list}阶段",
+    "hintMany": "通常适合{list}阶段",
+    "labelEarly": "早期阶段",
+    "labelMiddle": "中期阶段",
+    "labelLate": "较后期阶段"
   },
   "cards": {
-    "aboutGame": "About this game",
-    "printable": "Printable",
-    "play": "Play {name} →",
-    "readGuide": "Read the guide"
+    "aboutGame": "关于本游戏",
+    "printable": "打印素材",
+    "play": "开始玩 {name} →",
+    "readGuide": "阅读指南"
   },
   "playCta": {
-    "title": "Ready for a gentle game?",
-    "text": "Large pictures, no timer, no score and nothing to sign up for. Play together in your browser.",
-    "play": "Play a Game",
-    "all": "See all games",
-    "aria": "Play a game"
+    "title": "准备好开始轻松温和的互动了吗？",
+    "text": "大图显示，没有计时，不计分数，也无需注册。在浏览器中即可一起体验。",
+    "play": "开始游戏",
+    "all": "查看所有游戏",
+    "aria": "开始游戏"
   },
   "appCta": {
-    "title": "Take these games with you",
-    "text": "The free Golden Moments app for iPhone, iPad and Android: large picture tiles, games with your own family photos, and picture packs that work without Wi‑Fi. No account, ads, timer or score.",
-    "appStore": "Get it on the App Store",
-    "googlePlay": "Get it on Google Play",
+    "title": "随身携带这些游戏",
+    "text": "适用于 iPhone、iPad 和 Android 的免费 Golden Moments 应用：大图卡片、支持使用家庭照片自定义游戏，且图包无需 Wi‑Fi 即可使用。无账号、无广告、无计时、不计分。",
+    "appStore": "前往 App Store 下载",
+    "googlePlay": "前往 Google Play 下载",
     "appStoreShort": "App Store",
     "googlePlayShort": "Google Play",
-    "about": "About the app",
-    "aria": "Get the app"
+    "about": "关于该应用",
+    "aria": "下载应用"
   },
   "sections": {
     "activities": {
-      "label": "Activities",
-      "title": "Activities for People with Dementia",
-      "seo": "Activities for People with Dementia: Ideas by Stage",
-      "description": "Activity ideas for people living with dementia at every stage: music, reminiscence, everyday tasks, sensory moments, crafts, outdoors and free printables.",
-      "lede": "Meaningful activity is anything that brings comfort, purpose or a moment of connection. Start with what the person has always enjoyed, and adapt it to today."
+      "label": "日常活动",
+      "title": "适合认知症人士的日常活动",
+      "seo": "适合认知症人士的活动：分阶段活动灵感",
+      "description": "为处于不同阶段的认知症人士准备的活动灵感：音乐、怀旧回忆、日常家务、感官体验、手工艺、户外散步以及免费打印素材。",
+      "lede": "有意义的活动，是任何能带来舒适感、归属感或温情连接的事物。从长辈一直以来的喜好出发，并根据当下的状态灵活调整。"
     },
     "caregiving": {
-      "label": "Caregiving",
-      "title": "Caregiving Guides",
-      "seo": "Dementia Caregiving Guides: Practical Everyday Help",
-      "description": "Practical, kind guides for dementia caregivers: playing games together, communication, refusals, late-day restlessness, tablets, choosing apps and self-care.",
-      "lede": "Plain, practical help for the everyday moments of caring for someone living with dementia, including caring for yourself."
+      "label": "照护指南",
+      "title": "照护实用指南",
+      "seo": "认知症照护指南：日常实用建议与支持",
+      "description": "为认知症照护者提供的实用贴心指南：一同互动游戏、沟通交流、应对抗拒情绪、傍晚烦躁（日落综合征）、平板电脑使用、应用选择以及自我关怀。",
+      "lede": "在照顾认知症长辈的日常点滴中，为您提供平实、实用的帮助，同时也关怀照顾好您自己。"
     },
     "brain-health": {
-      "label": "Brain health",
-      "title": "Brain Health: What the Research Says",
-      "seo": "Brain Health and Dementia Risk: What Research Says",
-      "description": "Can dementia be prevented? Honest, sourced guides to dementia risk factors, brain games, fasting, diet, exercise, sleep, hearing and early warning signs.",
-      "lede": "What large studies actually show about lowering dementia risk, explained plainly, including where the evidence is weak or mixed. General information, not medical advice."
+      "label": "脑健康",
+      "title": "脑健康：科学研究怎么说",
+      "seo": "脑健康与认知症风险：科学研究的真实结论",
+      "description": "认知症可以预防吗？基于权威研究来源的客观解读，涵盖认知症风险因素、益智游戏、断食、饮食、运动、睡眠、听力及早期预警信号。",
+      "lede": "以平实易懂的方式，呈现大型研究在降低认知症风险方面的实际发现，包括证据尚显不足或存在分歧的领域。仅供通识参考，不构成医疗建议。"
     }
   },
   "guide": {
-    "updated": "Updated",
-    "minuteRead": "{n} minute read",
-    "byTeam": "By the Golden Moments team",
-    "howWeWrite": "How we write",
-    "shortAnswer": "The short answer",
-    "onThisPage": "On this page ({n} sections)",
-    "commonQuestions": "Common questions",
-    "sources": "Sources",
-    "sourcesNote": "We link to the organizations and studies this page relies on. Each was checked when the page was updated.",
-    "tryTogether": "Try together",
-    "relatedGuides": "Related guides",
-    "related": "Related",
-    "startHere": "Start here"
+    "updated": "更新于",
+    "minuteRead": "阅读需要 {n} 分钟",
+    "byTeam": "由 Golden Moments 团队撰写",
+    "howWeWrite": "我们的内容编写原则",
+    "shortAnswer": "简要回答",
+    "onThisPage": "本页导读（共 {n} 个部分）",
+    "commonQuestions": "常见问题",
+    "sources": "参考资料与研究来源",
+    "sourcesNote": "我们附上了本页引用的机构与研究链接。在页面更新时均已逐一核对。",
+    "tryTogether": "一起试试",
+    "relatedGuides": "相关指南",
+    "related": "相关推荐",
+    "startHere": "从这里开始"
   },
   "healthNotice": {
-    "aria": "Health information notice",
-    "title": "General information, not medical advice",
-    "textHtml": "This page summarizes published research for families. It cannot tell you what is right for one person. Talk with a doctor before changing diet, exercise, sleep, medicines or supplements. For sudden confusion or other sudden changes, get medical help right away. <a href=\"/medical-disclaimer/\">Read our health information notice</a>."
+    "aria": "健康信息声明",
+    "title": "通识参考信息，非医疗建议",
+    "textHtml": "本页内容旨在为家庭梳理已公开发表的研究成果，无法代表针对特定个人的方案。在调整饮食、运动、睡眠、用药或营养补充剂之前，请咨询医生。若长辈突发意识模糊或出现其他急性变化，请立即寻求专业医疗帮助。<a href=\"/medical-disclaimer/\">阅读健康信息声明全文</a>。"
   },
   "pages": {
     "about": {
-      "title": "A Shared Activity, Not a Memory Test",
-      "seoTitle": "About Golden Moments: Our Approach",
-      "description": "Why Golden Moments games have no timers, scores or streaks, why pictures stay showing, and what we will and will not claim about dementia.",
-      "crumb": "Our approach",
-      "lede": "Golden Moments makes calm, adult picture activities that a caregiver and someone living with dementia can enjoy side by side.",
-      "bodyHtml": "<h2>What we believe</h2><p>The point of an activity is the moment itself: a conversation, a smile, the satisfaction of putting two pictures together, or simply sitting close. It is not to measure anyone, push them further or prove anything.</p><p>Many brain-training apps are designed around speed, scores, streaks and levels. For a person living with dementia that can feel like an exam they cannot pass. We designed the opposite, and we hold ourselves to these rules:</p><ul><li><strong>Nothing to fail.</strong> No clock, score, move counter, lives, streaks, confetti or countdowns, on any screen.</li><li><strong>Recognition over recall.</strong> Pictures stay showing by default. Prompts invite conversation and never quiz names or memories.</li><li><strong>Big, plain and steady.</strong> Large text and pictures, high contrast, and controls that stay in the same place.</li><li><strong>Adult dignity.</strong> Real-world pictures and plain, warm words. No cartoons, sing-song praise or emoji rewards.</li><li><strong>An easy way out.</strong> “Done for now” is always visible. Stopping halfway is a good outcome.</li><li><strong>Private by default.</strong> No accounts or ads. Photos you choose stay on your device.</li></ul><h2>What we do not claim</h2><p>Our games are for enjoyment and connection. They do not diagnose, test, measure, treat, slow or prevent dementia or Alzheimer’s disease, and no one should choose them for that reason. When we write about research on our <a href=\"/brain-health/\">brain health pages</a>, we say plainly where the evidence is weak, and we never connect it to our own games.</p><h2>Who we are</h2><p>Golden Moments is a small independent team. We are not clinicians. Our guides are written from published guidance by organizations such as the National Institute on Aging and the Alzheimer’s Association, and every guide lists its sources. Read <a href=\"/editorial-policy/\">how we write and check our pages</a>.</p><h2>Tell us what would help</h2><p>We would love to hear what works for you and what does not, especially from people living with dementia, family caregivers and activity staff. Email <a href=\"mailto:{email}\">{email}</a>.</p>"
+      "title": "共享陪伴的活动，而非记忆测试",
+      "seoTitle": "关于 Golden Moments：我们的理念",
+      "description": "为什么 Golden Moments 游戏没有计时、计分或连续记录，为什么图片始终显示，以及我们对认知症秉持怎样的客观表述。",
+      "crumb": "我们的理念",
+      "lede": "Golden Moments 致力于打造温和、适合成年人的图片活动，让照护者能与认知症长辈并肩享受轻松愉悦的相伴时光。",
+      "bodyHtml": "<h2>我们的理念</h2><p>一次互动的意义，就在于当下的这一刻：一句简单的交谈、一个微笑、把两张图片拼在一起的满足感，或是安安静静地并肩坐着。活动不是为了衡量谁的能力、催促谁进步，也不是为了证明什么。</p><p>很多健脑应用常常围绕速度、得分、连胜记录和关卡来设计。对于认知障碍人士来说，这往往像是一场通不过的考试。我们的设计恰恰相反，并始终遵循以下原则：</p><ul><li><strong>没有失败这回事。</strong>任何页面都不会出现倒计时、计分、步数限制、生命值、连胜、撒花特效或时间限制。</li><li><strong>认得就好，无需费力回忆。</strong>图片默认保持展开可见。提示语重在开启交流，从不考问人名或过去的记忆。</li><li><strong>大字、清晰、稳定。</strong>文字和图片清晰易读，对比度高，操作按键始终固定在同一位置。</li><li><strong>维护成年人的尊严。</strong>采用贴近生活的真实照片，搭配朴实温和的文字。没有低幼的卡通图画、夸张的表扬语或表情包奖励。</li><li><strong>随时轻松退出。</strong>页面上总能看到“先到这里吧”的退出选项。玩到一半随时停下，本身就是很好的体验。</li><li><strong>注重隐私。</strong>无需注册账号，没有广告。您选择的照片仅保留在您的设备本地。</li></ul><h2>我们不做任何医疗承诺</h2><p>我们的游戏旨在带来乐趣与亲近的陪伴。它们不能诊断、测试、评估、治疗、延缓或预防认知障碍症或阿尔茨海默病，任何人都不应出于这些目的来选择这些游戏。当我们在<a href=\"/brain-health/\">脑健康页面</a>介绍相关研究时，如果证据不足，我们会如实说明，绝不会将研究结论与我们的游戏关联起来。</p><h2>我们是谁</h2><p>Golden Moments 是一个小型独立团队。我们不是临床医生。我们的指南内容均基于 National Institute on Aging 和 Alzheimer’s Association 等机构公开发布的指导资料撰写，每份指南均注明参考来源。请阅读<a href=\"/editorial-policy/\">我们撰写和审核内容的方式</a>。</p><h2>期待您的反馈</h2><p>我们非常想了解哪些设计对您有帮助、哪些体验不够理想，尤其期待收到认知障碍人士、家庭照护者以及活动组织人员的真实想法。欢迎发送邮件至 <a href=\"mailto:{email}\">{email}</a>。</p>"
     },
     "editorial": {
-      "title": "How We Write and Check Our Pages",
-      "seoTitle": "Editorial Policy",
-      "description": "How Golden Moments researches, writes, sources and updates its dementia activity and brain health pages, and what we will never publish.",
-      "crumb": "Editorial policy",
-      "bodyHtml": "<h2>Our sources</h2><p>We base our guides on public guidance from organizations such as the National Institute on Aging, the CDC, the Alzheimer’s Association, the Alzheimer’s Foundation of America, the Family Caregiver Alliance and the NHS, and on peer-reviewed research such as Cochrane reviews and large clinical trials. Every guide lists the sources it relies on. We open each source before citing it, and we only report what it actually says.</p><h2>How we write</h2><ul><li>Practical first: what to do today, in plain language.</li><li>Honest about evidence: we say “linked with”, “may” and “the evidence is mixed” when that is the truth.</li><li>Respectful: we write about people living with dementia as adults, and we never use quizzing or shaming language.</li><li>No invented content: no made-up statistics, quotes, experts, studies, reviews or testimonials.</li></ul><h2>Who reviews our pages</h2><p>Pages are written and checked by the Golden Moments team, with help from AI writing tools for research and drafting. Every page is checked against its sources by the team. Our pages have <strong>not</strong> been reviewed by a doctor or other clinician, and we do not claim otherwise. They are general information, not medical advice.</p><h2>What we will never publish</h2><ul><li>Claims that a game, food, supplement, fast or routine prevents, treats, slows or cures dementia.</li><li>Tests, quizzes or scores that suggest someone has, or does not have, dementia.</li><li>Advice to start, stop or change any medicine.</li><li>Advertising or sponsored content disguised as guidance.</li></ul><h2>Updates and corrections</h2><p>Each page shows the date it was last updated. If you find a mistake or an out-of-date source, please email <a href=\"mailto:{email}\">{email}</a> and we will check it promptly.</p>"
+      "title": "我们如何撰写与审核内容",
+      "seoTitle": "内容编辑准则",
+      "description": "了解 Golden Moments 如何查证、撰写、引用资料并更新认知症活动与脑健康内容，以及我们坚决不予发布的内容原则。",
+      "crumb": "编辑准则",
+      "bodyHtml": "<h2>参考来源</h2><p>我们的指南基于来自 National Institute on Aging、CDC、Alzheimer’s Association、Alzheimer’s Foundation of America、Family Caregiver Alliance 和 NHS 等机构的公开指引，以及 Cochrane reviews 和大型临床试验等经同行评议的研究成果。每篇指南均列出了所依据的参考来源。在引用前，我们会认真查阅每一份原始文献，并且只如实转述其结论。</p><h2>撰写原则</h2><ul><li>注重实用：用通俗易懂的语言，说明当下切实可行的事情。</li><li>实事求是：如实陈述证据，该用“可能”、“与……相关”或“现有证据尚不一致”时绝不夸大。</li><li>尊重成人：始终以成年人的视角对待认知障碍人士，绝不使用考问或令人难堪的措辞。</li><li>绝不编造：绝不杜撰任何数据、引言、专家、研究、评论或用户评价。</li></ul><h2>内容审核</h2><p>所有页面均由 Golden Moments 团队撰写并审核，部分调研与草拟过程使用了人工智能工具辅助。每一页内容都由团队对照原始参考来源仔细核对。我们的内容<strong>未经</strong>医生或其他临床医疗专业人员审核，我们也绝不会谎称通过了此类审核。页面内容仅供一般信息参考，不可替代专业医疗建议。</p><h2>我们坚决不予发布的内容</h2><ul><li>宣称某种游戏、食物、营养补充剂、禁食法或生活习惯可以预防、治疗、延缓或逆转认知障碍症。</li><li>暗示某人是否患有认知障碍症的测试、问答或评分工具。</li><li>关于开始、停止或调整任何药物的建议。</li><li>伪装成实用建议的商业广告或赞助内容。</li></ul><h2>内容更新与纠错</h2><p>每个页面均注明最近更新日期。如果您发现内容有误或引用的来源已过时，请发送邮件至 <a href=\"mailto:{email}\">{email}</a>，我们将尽快核实并修正。</p>"
     },
     "faq": {
-      "title": "Questions and Answers",
-      "seoTitle": "Dementia Games and Activities: Questions and Answers",
-      "description": "Answers to common questions about dementia games and activities: which games to try, how long to play, later-stage ideas, brain health and privacy.",
-      "crumb": "Questions and answers",
-      "lede": "Short, plain answers to the questions caregivers ask most.",
+      "title": "常见问题",
+      "seoTitle": "认知症游戏与活动：常见问题解答",
+      "description": "解答关于认知症游戏与活动的常见疑问：适合尝试哪些游戏、建议玩多长时间、中晚期活动建议、脑健康常识以及隐私保护。",
+      "crumb": "常见问题解答",
+      "lede": "用通俗朴实的语言，回答照护者最常关心的问题。",
       "groups": [
         {
           "id": "games",
-          "title": "About the games",
+          "title": "关于游戏",
           "items": [
             {
-              "q": "What are the best games for someone with dementia?",
-              "a": "The best games are familiar, simple and free of pressure, and the right one is whatever the person enjoys today. Picture matching with visible pictures, sorting, easy jigsaws, finishing familiar sayings, coloring and picture bingo all work well for many people. Avoid timers, scores and anything that feels like a test."
+              "q": "哪些游戏适合认知障碍人士？",
+              "a": "最好的游戏通常简单、熟悉且毫无压力，只要对方今天玩得开心，就是最适合的选择。直观可见的图片配对、物品分类、简单拼图、补全熟悉的谚语俗语、填色涂鸦以及图片宾果等，对许多人来说都非常合适。尽量避免计时、计分或任何让人感觉像在考试的设计。"
             },
             {
-              "q": "Are the games really free?",
-              "a": "Yes. All games and printables are free, with no account, sign-up, download or advertising."
+              "q": "这些游戏真的完全免费吗？",
+              "a": "是的。所有游戏和打印素材完全免费，无需注册账号、登录或下载，也没有任何广告。"
             },
             {
-              "q": "Why are there no scores, levels or timers?",
-              "a": "Speed and scores turn a pleasant activity into an exam, which can bring embarrassment or frustration. We keep the focus on enjoyment and time together, so there is nothing to fail and you can stop at any point."
+              "q": "为什么没有计分、关卡或倒计时？",
+              "a": "计时和计分容易把轻松的活动变成考试，让人感到难堪或沮丧。我们希望大家专注于享受当下的陪伴与快乐，这里没有失败，您随时都可以停下来。"
             },
             {
-              "q": "Which devices work best?",
-              "a": "Any phone, tablet or computer with a modern web browser. A tablet on a stand at a table is often the most comfortable way for two people to play side by side. A laptop connected to a TV works well for groups."
+              "q": "使用什么设备效果最好？",
+              "a": "任何配备现代浏览器的手机、平板电脑或电脑都可以。将平板电脑放在桌上的支架上，通常是两个人并排玩最舒适的方式。多人一起参与时，用笔记本电脑连接电视屏幕效果很好。"
             },
             {
-              "q": "Can we play with our own family photos?",
-              "a": "Yes. Photo pairs turns 2 to 6 photos you choose into a matching game. The photos stay in your browser and are not uploaded or saved."
+              "q": "我们可以用自己家的照片来玩吗？",
+              "a": "可以。照片配对游戏可以将您挑选的 2 到 6 张照片变成配对游戏。照片只保留在您的浏览器本地，绝不会被上传或保存。"
             }
           ]
         },
         {
           "id": "activities",
-          "title": "Activities and caregiving",
+          "title": "日常活动与照护",
           "items": [
             {
-              "q": "How long should an activity last?",
-              "a": "Often 10 to 20 minutes is plenty, and sometimes 2 minutes is a success. Watch for signs of tiredness or frustration and stop while it still feels good. There is no right amount."
+              "q": "一次活动应该持续多久？",
+              "a": "通常 10 到 20 分钟就足够了，有时哪怕只玩 2 分钟也是一次愉快的尝试。请留意对方是否出现疲倦或烦躁的迹象，在大家都还开心的时候停下来就好。活动时间没有固定标准。"
             },
             {
-              "q": "What if they do not want to do an activity?",
-              "a": "Respect the no, and try again later or in a different way. Refusal can come from tiredness, pain, feeling unsure or simply not being interested. See our guide on what to do when they say no."
+              "q": "如果对方不想参与活动怎么办？",
+              "a": "请尊重对方的选择，可以换个时间或换一种方式再试。拒绝可能源于疲倦、身体不适、心里没底，或者单纯不感兴趣。您可以参考我们的指南，了解对方拒绝时的应对建议。"
             },
             {
-              "q": "What activities suit later-stage dementia?",
-              "a": "Comfort and the senses: listening to favorite music, hand massage with lotion, looking at photos together, holding a soft blanket, sitting outside, or a very simple picture game with someone beside them. Our later-stage guide has many more ideas."
+              "q": "哪些活动适合认知症晚期人士？",
+              "a": "重在舒适与感官体验：听听喜欢的音乐、用润肤乳轻轻按摩双手、一起翻看照片、抚摸柔软的毯子、在户外坐坐，或者在有人陪伴下玩非常简单的图片游戏。我们的晚期照护指南中有更多建议。"
             },
             {
-              "q": "Are there activities for groups in a care home?",
-              "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud. Our care home groups guide covers group size, seating and adapting for mixed abilities."
+              "q": "有适合照护机构的集体活动吗？",
+              "a": "有的。图片宾果游戏提供可打印卡片和屏幕报号功能；接谚语和对话卡片也很适合朗读互动。我们的机构团体活动指南详细介绍了活动人数、座位安排以及如何适应不同能力的长辈。"
             }
           ]
         },
         {
           "id": "health",
-          "title": "Brain health",
+          "title": "脑部健康",
           "items": [
             {
-              "q": "Can games prevent or slow dementia?",
-              "a": "No game has been shown to prevent dementia, and our games make no such claim. Cognitive stimulation in a social setting has shown small benefits in research for people with mild to moderate dementia, but that is different from a game preventing disease. We offer games for enjoyment and connection."
+              "q": "玩游戏能预防或延缓认知症吗？",
+              "a": "目前没有任何游戏被证实能够预防认知症，我们的游戏也从不做此类承诺。研究表明，在社交环境中进行的认知刺激对轻度至中度认知症人士有轻微益处，但这与游戏预防疾病截然不同。我们提供这些游戏，是为了给大家带来快乐与陪伴。"
             },
             {
-              "q": "Can dementia be prevented?",
-              "a": "Not with certainty. Research links 14 health and lifestyle factors with dementia risk, such as hearing loss, high blood pressure, physical inactivity and social isolation. Addressing them may lower risk for some people, but many people who do everything right still develop dementia. It is never anyone’s fault."
+              "q": "认知症可以预防吗？",
+              "a": "目前尚无法确定。研究显示，听力下降、高血压、缺乏运动和社交孤立等 14 种健康与生活方式因素与认知症风险相关。改善这些因素可能有助于降低部分人群的风险，但许多生活习惯良好的人依然可能出现认知症。这绝不是任何人的过错。"
             },
             {
-              "q": "Is intermittent fasting good for brain health?",
-              "a": "Human evidence is limited and early, and much of the research is in animals. Fasting can be risky for older adults, especially with diabetes medicines or unintended weight loss, and it is not recommended for people living with dementia. Talk with a doctor before changing how you eat."
+              "q": "间歇性禁食对脑部健康有益吗？",
+              "a": "针对人体的研究证据非常有限且处于早期阶段，大部分研究仅见于动物实验。禁食对老年人可能存在风险，尤其是在服用糖尿病药物或体重无故减轻的情况下，而且不建议认知症人士进行禁食。在改变饮食习惯之前，请咨询医生。"
             }
           ]
         },
         {
           "id": "privacy",
-          "title": "Privacy and safety",
+          "title": "隐私与安全",
           "items": [
             {
-              "q": "Do you collect any information?",
-              "a": "No accounts or ads. We use Google Analytics to count visits and see which pages help, and your browser remembers whether you turned soft sounds on. Photos you choose for Photo pairs are never uploaded. See the privacy notice for details."
+              "q": "你们会收集个人信息吗？",
+              "a": "无需注册账号，也没有广告。我们使用 Google Analytics 统计访问量并了解哪些页面对大家有帮助，您的浏览器会记录您是否开启了柔和音效。您在照片配对游戏中选择的照片绝不会被上传。详情请参阅隐私声明。"
             },
             {
-              "q": "Is this medical advice?",
-              "a": "No. Golden Moments is for recreation and general information. For health questions, talk with a doctor, and for emergencies call 911."
+              "q": "这属于医疗建议吗？",
+              "a": "不属于。Golden Moments 仅用于休闲娱乐和提供一般参考信息。如有健康方面的疑问，请咨询医生；如遇紧急情况，请拨打 120 急救电话。"
             }
           ]
         }
       ],
-      "moreHtml": "More detail: <a href=\"/caregiving/how-to-play-together/\">how to play together</a>, <a href=\"/caregiving/when-they-say-no/\">when they say no</a>, <a href=\"/activities/late-stage/\">later-stage activities</a> and <a href=\"/brain-health/can-dementia-be-prevented/\">can dementia be prevented?</a>"
+      "moreHtml": "了解更多详情：<a href=\"/caregiving/how-to-play-together/\">如何一起玩游戏</a>、<a href=\"/caregiving/when-they-say-no/\">当对方拒绝时</a>、<a href=\"/activities/late-stage/\">晚期活动建议</a>以及<a href=\"/brain-health/can-dementia-be-prevented/\">认知症可以预防吗？</a>"
     },
     "handout": {
-      "title": "Free, Gentle Games for People Living with Dementia",
-      "seoTitle": "Printable Handout: Free Dementia Games Online",
-      "description": "A one-page printable handout for families and caregivers about free, gentle picture games for people living with dementia, for support groups and care packets.",
-      "crumb": "Printable handout",
-      "lede": "Print this page for a support group, care packet or the fridge door. Use your browser's Print command; the menus and buttons are left off the printout.",
-      "introHtml": "<p>Large pictures, plain words and nothing to fail. Free on a phone, tablet or computer, with no sign-up, no ads, no timers and no scores. Sit side by side and take turns.</p>",
-      "gamesTitle": "Games to try together",
-      "restHtml": "<h2>A few tips</h2><ul><li>Choose a time of day when the person is at their best.</li><li>Start with the easiest setting. Four tiles is plenty.</li><li>Talk about the pictures. The conversation is often the best part.</li><li>Stop while it still feels pleasant. Ending early is a good outcome.</li></ul><h2>Also on the site</h2><ul><li>Free printables: large-print word search, coloring pages, conversation cards and picture bingo.</li><li>Activity ideas for every stage, and guides on playing together and on caring for yourself.</li></ul><p class=\"muted\">For enjoyment and time together. Not medical advice, a test or a treatment. Golden Moments is published by Cloudjet Solutions Pte. Ltd.</p>"
+      "title": "适合认知症人士的温和免费小游戏",
+      "seoTitle": "可打印宣传单：免费在线认知症互动游戏",
+      "description": "一份专为家庭和照护者准备的单页可打印资料，介绍适合认知症人士的温和免费图片游戏，适合在互助小组和照护资料包中使用。",
+      "crumb": "可打印资料",
+      "lede": "您可以打印此页面，用于互助小组、照护资料包，或贴在冰箱门上。直接使用浏览器的打印功能即可，菜单和按钮不会出现在打印件上。",
+      "introHtml": "<p>大图片、通俗字词，没有失败的压力。支持手机、平板电脑或电脑免费使用，无须注册，无广告，无倒计时，也不计分。两个人并排坐在一起，轮流互动。</p>",
+      "gamesTitle": "适合一起体验的游戏",
+      "restHtml": "<h2>一些实用建议</h2><ul><li>选择长辈一天中状态最好的时间段。</li><li>从最简单的难度开始，4 张图块就足够了。</li><li>边玩边聊聊图片上的内容，聊天往往是过程中最温馨的部分。</li><li>在大家都还开心时适时结束，提前结束也是很好的体验。</li></ul><h2>网站更多内容</h2><ul><li>免费打印素材：大字版找词游戏、填色图纸、对话卡片以及图片宾果。</li><li>适合不同阶段的活动灵感，以及共同游戏和自我关怀的照护指南。</li></ul><p class=\"muted\">仅用于休闲娱乐与温情陪伴。本内容非医疗建议，非测试，亦非治疗手段。Golden Moments 由 Cloudjet Solutions Pte. Ltd. 发行。</p>"
     },
     "organizations": {
-      "title": "For Care Homes, Libraries and Support Groups",
-      "seoTitle": "Free Dementia Activities for Care Homes and Groups",
-      "description": "How care homes, adult day programs, libraries, aging agencies and support groups use our free dementia games, plus text to add us to a resource list.",
-      "crumb": "For organizations",
-      "lede": "Everything on this site is free to use with residents, members and clients, with no account, license or fee. This page explains what is here and how to share it.",
-      "shortText": "{name}: free, gentle picture games and activity guides for people living with dementia and their caregivers. No sign-up, no timers, no scores.",
-      "longText": "{name} ({domain}) offers {count} free browser games made for people living with dementia, including matching pairs with pictures left showing, an easy jigsaw, sorting, familiar sayings and picture bingo with printable cards. There is no account, advertising, timer or score. The site also has plain-language activity guides for each stage of dementia that cite the National Institute on Aging and the Alzheimer's Association.",
-      "useTitle": "What organizations can use",
-      "gamesItemHtml": "<strong>{count} browser games</strong> that run on a laptop, tablet or a TV connected to a computer. No install, account or download. See <a href=\"/games/\">all games</a>.",
-      "printablesLabel": "{count} printables:",
-      "printablesAfter": "Use the Print button on each page.",
-      "moreItemsHtml": "<li><strong>Group formats:</strong> <a href=\"/games/picture-bingo/\">Picture bingo</a> has printable cards and an on-screen caller, and <a href=\"/activities/trivia/\">easy trivia</a> has 50 questions with answer choices and talking points.</li><li><strong>Activity guides</strong> for staff and families, by stage and by type, written in plain language with sources. Start with <a href=\"/activities/ideas/\">101 activity ideas</a> or <a href=\"/activities/care-home-groups/\">group activities for care homes</a>.</li>",
-      "restHtml": "<h2>How groups use it</h2><ul><li><strong>Care homes and memory care:</strong> picture bingo or finish-the-saying on the common room TV, with one person tapping for the group.</li><li><strong>Adult day programs:</strong> a tablet station with Picture pairs set to four tiles, for short one-to-one sessions.</li><li><strong>Public libraries:</strong> printed word searches and conversation cards in memory kits, and the site bookmarked on library tablets.</li><li><strong>Caregiver support groups and memory cafés:</strong> a <a href=\"/handout/\">one-page printable handout</a> for families to take home.</li><li><strong>Hospitals and discharge planners:</strong> the handout in caregiver packets, for something calm to do at home or at the bedside.</li></ul><h2>What we do not do</h2><p>The games are for enjoyment and time together. They do not diagnose, test, score, treat or slow dementia, and we ask organizations not to describe them that way. There are no ads, and the games do not ask for names, health details or photos to be uploaded. The website uses Google Analytics to count visits; our <a href=\"/privacy/\">privacy notice</a> explains what that collects. Photos used in <a href=\"/games/photo-pairs/\">Photo pairs</a> stay in the browser.</p><h2>Add us to your resource list</h2><p>If you keep a list of resources for caregivers, you are welcome to link to <a href=\"/\">{domain}</a>. You can copy either description.</p>",
-      "shortTitle": "Short description",
-      "longTitle": "Longer description",
-      "linksHtml": "<p>Useful pages to link to directly: <a href=\"/games/\">free games</a>, <a href=\"/activities/printable/\">free printables</a>, <a href=\"/activities/alzheimers/\">activities for Alzheimer's</a> and <a href=\"/caregiving/how-to-play-together/\">how to play together</a>.</p><h2>Questions or corrections</h2><p>If something on the site is wrong or unclear, or a resident's needs are not met by what is here, please tell us at <a href=\"mailto:{email}\">{email}</a>. Please do not send personal or health information about residents or clients.</p>"
+      "title": "供养老院、图书馆和互助小组使用",
+      "seoTitle": "面向照护机构与团体的免费认知症活动",
+      "description": "介绍养老院、日间照料中心、图书馆、老龄机构及互助小组如何使用我们的免费认知症游戏，并提供可添加到资源清单中的简介文字。",
+      "crumb": "机构专区",
+      "lede": "本网站的所有内容均可免费用于照护院舍长者、会员及服务对象，无需注册账号、无需购买授权，亦无任何费用。本页面将向您介绍站内资源及分享方式。",
+      "shortText": "{name}：专为认知症人士及其照护者设计的免费温和图片游戏与活动指南。无需注册，没有倒计时，不设分数。",
+      "longText": "{name}（{domain}）提供 {count} 款专为认知症人士设计的免费网页游戏，包括正面朝上的图片配对、简易拼图、物品归类、熟悉俗语填空，以及附有可打印卡片的图片宾果游戏。无需注册账号，没有广告，不设计时器或得分。网站还提供通俗易懂的各阶段活动指南，内容参考自 National Institute on Aging 与 Alzheimer's Association。",
+      "useTitle": "机构可使用的资源",
+      "gamesItemHtml": "<strong>{count} 款网页游戏</strong>，可在笔记本电脑、平板电脑或连接电脑的电视上运行。无需安装、注册或下载。查看<a href=\"/games/\">全部游戏</a>。",
+      "printablesLabel": "{count} 份可打印资料：",
+      "printablesAfter": "请使用每个页面上的“打印”按钮。",
+      "moreItemsHtml": "<li><strong>团体活动形式：</strong><a href=\"/games/picture-bingo/\">图片宾果</a>配有可打印卡片和屏幕报号器，<a href=\"/activities/trivia/\">简易问答</a>包含 50 道带选项和互动话题的问题。</li><li><strong>活动指南</strong>面向工作人员与家属，按不同阶段和类型分类，用通俗语言写成并注明资料来源。您可以从<a href=\"/activities/ideas/\">101 个活动点子</a>或<a href=\"/activities/care-home-groups/\">养老院团体活动</a>开始了解。</li>",
+      "restHtml": "<h2>各类机构的使用方式</h2><ul><li><strong>养老院与记忆照护机构：</strong>在活动室的电视上运行图片宾果或补全俗语，由一位陪护人员协助操作屏幕。</li><li><strong>日间照料中心：</strong>设置平板电脑活动角，将“图片配对”设置为四张卡片，用于简短的一对一陪伴互动。</li><li><strong>公共图书馆：</strong>将打印好的寻字游戏和交流卡放入记忆关爱包中，并在馆内平板电脑上收藏本网站。</li><li><strong>照护者互助小组与记忆咖啡馆：</strong>提供一份<a href=\"/handout/\">单页可打印资料</a>供家庭带回家中使用。</li><li><strong>医院与出院规划团队：</strong>将资料放入照护者指导包中，为居家或床边陪伴提供一份宁静轻松的活动选择。</li></ul><h2>我们不提供的功能与承诺</h2><p>这些游戏旨在带来乐趣与相伴时光。它们不能诊断、测试、评估、治疗或延缓认知症，我们也恳请各机构不要做此类描述。网站内没有广告，游戏亦不会要求填写姓名、健康信息或上传照片。本网站使用 Google Analytics 统计访问次数；我们的<a href=\"/privacy/\">隐私声明</a>详细说明了相关收集内容。<a href=\"/games/photo-pairs/\">照片配对</a>中使用的照片仅保存在浏览器本地。</p><h2>将我们添加到您的资源清单</h2><p>如果您整理了面向照护者的资源清单，欢迎添加指向 <a href=\"/\">{domain}</a> 的链接。您可以直接复制上方任一段简介文字。</p>",
+      "shortTitle": "简短介绍",
+      "longTitle": "详细介绍",
+      "linksHtml": "<p>建议直接链接的实用页面：<a href=\"/games/\">免费游戏</a>、<a href=\"/activities/printable/\">免费打印资料</a>、<a href=\"/activities/alzheimers/\">适合阿尔茨海默病的活动</a>以及<a href=\"/caregiving/how-to-play-together/\">如何一起玩</a>。</p><h2>疑问或内容勘误</h2><p>如果网站内容有误、表述不清，或者现有内容无法满足长者的需求，请通过 <a href=\"mailto:{email}\">{email}</a> 告知我们。请勿发送长者或服务对象的个人信息或健康隐私资料。</p>"
     },
     "app": {
-      "title": "The Golden Moments App",
-      "seoTitle": "The Golden Moments App for iPhone and Android",
-      "description": "The free Golden Moments app: gentle photo matching with four large tiles, family photos kept on your device, offline picture packs and no account.",
-      "crumb": "The app",
-      "lede": "Everything you like about the website, in an app that works offline and can use family photos you choose.",
-      "worksOn": "Works on {platforms} ({requirements}).",
-      "bodyHtml": "<h2>Start small</h2><p>Begin with four large tiles and familiar pictures. Keep pictures visible, or hide them when that feels comfortable. Gentle mode has no timer, score or penalty. Choose 4, 6, 8 or 12 tiles.</p><h2>Make it personal</h2><p>Select family photos with your device’s photo picker. The app saves smaller copies for its activities. It does not scan your library or change your original photos, and it keeps up to 24 photos in one collection.</p><h2>Just look together</h2><p>View one picture at a time. Optional prompts invite conversation without asking anyone to remember names or give a correct answer. Simply looking is enough.</p><h2>Offline where it matters</h2><p>Starter pictures and all eight picture packs are included with the app. Imported photo copies work offline. Choosing originals stored only in iCloud may need an internet connection.</p><h2>No account, no photo-sync server</h2><p>Family-photo copies stay in the app on the device. You can remove the copies without deleting originals. Device backups may include app data. Read the <a href=\"/app-privacy/\">app privacy policy</a>, and <a href=\"/help/\">app help</a> walks through each step.</p>",
-      "disclaimer": "Golden Moments is for recreation and shared conversation. It does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease.",
+      "title": "Golden Moments 应用",
+      "seoTitle": "适用于 iPhone 和 Android 的 Golden Moments 应用",
+      "description": "免费的 Golden Moments 应用：包含四张大卡片的温和照片配对，家庭照片仅保存在您的设备本地，提供离线图片包，无需注册账号。",
+      "crumb": "应用",
+      "lede": "汇集网站上您喜爱的一切内容，支持离线使用，还可使用您自选的家庭照片。",
+      "worksOn": "支持 {platforms}（{requirements}）。",
+      "bodyHtml": "<h2>从简单开始</h2><p>从4块大图块和熟悉的图片开始。可以让图片一直显示，也可以在感觉合适时将它们盖住。温和模式没有计时、计分或惩罚。可选择4、6、8或12块图块。</p><h2>融入专属回忆</h2><p>使用设备的照片选择器挑选家庭照片。应用会保存较小尺寸的副本用于活动。它不会扫描您的相册，也不会修改原始照片，一个合集中最多可存放24张照片。</p><h2>一起静静欣赏</h2><p>一次只看一张图片。可选的引导提示能自然开启交流，无需去记名字，也不用答出正确答案。哪怕只是静静地看一看，也很美好。</p><h2>离线可用，随时陪伴</h2><p>入门图片和全部8个图片包均已内置于应用中。导入的照片副本完全支持离线使用。如果选择仅储存在iCloud中的原始照片，可能需要连接网络。</p><h2>无需账号，无云端照片同步服务器</h2><p>家庭照片副本仅保存在本设备的应用内。您可以随时删除这些副本，而不会影响原始照片。设备备份可能包含应用数据。欢迎阅读<a href=\"/app-privacy/\">应用隐私政策</a>，也可查看<a href=\"/help/\">应用使用指南</a>了解具体步骤。</p>",
+      "disclaimer": "Golden Moments 仅用于休闲娱乐与日常陪伴交流。本应用不用于诊断、治疗、预防或评估认知障碍症或阿尔茨海默病。",
       "appLanguageNote": ""
     }
   },
   "gamesIndex": {
-    "title": "Free Dementia & Alzheimer's Games Online",
-    "description": "Free online games for seniors living with dementia or Alzheimer's: picture matching, easy jigsaws, sorting, sayings, coloring, bingo. No sign-up, timers or scores.",
-    "crumb": "Games",
-    "h1": "Gentle Games for People with Dementia",
-    "lede": "{count} free games to play together in your browser. Large pictures, plain words, and nothing to fail: no timers, no scores, no sign-up.",
-    "listName": "Gentle games for people with dementia",
-    "byStageTitle": "Choosing a game by stage",
-    "byStageLede": "Stages are only a rough guide. Follow what the person enjoys and what feels comfortable today.",
-    "stageCol": "Stage",
-    "gamesCol": "Games that often suit",
-    "moreHtml": "More ideas away from the screen: <a href=\"/activities/ideas/\">101 activities for people with dementia</a>, <a href=\"/activities/alzheimers/\">activities and games for Alzheimer's</a>, <a href=\"/activities/memory-games/\">gentle memory games</a> and <a href=\"/activities/puzzles/\">puzzles</a>.",
+    "title": "适合认知障碍与阿尔茨海默病长辈的免费在线游戏",
+    "description": "适合认知障碍或阿尔茨海默病长辈的免费在线游戏：图片配对、简单拼图、分类整理、成语俗语、涂色、宾果游戏。无需注册，无计时器，不计分数。",
+    "crumb": "游戏",
+    "h1": "适合认知障碍人士的温和游戏",
+    "lede": "{count} 款可在浏览器中一同游玩的免费游戏。大图呈现，文字通俗易懂，没有挫败感：无需计时、不计分数、无需注册。",
+    "listName": "适合认知症长辈的温和游戏",
+    "byStageTitle": "根据阶段挑选合适的游戏",
+    "byStageLede": "阶段划分仅供大致参考。最重要的是顺应长辈今天的喜好与舒适度。",
+    "stageCol": "阶段",
+    "gamesCol": "通常合适的游戏",
+    "moreHtml": "更多远离屏幕的活动灵感：<a href=\"/activities/ideas/\">适合认知障碍长辈的101种日常活动</a>、<a href=\"/activities/alzheimers/\">阿尔茨海默病活动与游戏</a>、<a href=\"/activities/memory-games/\">温和的记忆游戏</a>以及<a href=\"/activities/puzzles/\">益智拼图</a>。",
     "faq": [
       {
-        "q": "Which game should we start with?",
-        "a": "Picture pairs with four tiles is a calm first choice. If choosing between pictures feels like too much, try Find the same with two pictures. For a group, try Picture bingo."
+        "q": "我们应该从哪款游戏开始？",
+        "a": "4块图块的“图片配对”是一个让人安心的初选。如果觉得在多张图片间挑选有些吃力，可以试试只有两张图片的“找出相同”。如果是多人一起，不妨尝试“图片宾果”。"
       },
       {
-        "q": "Do the games work on an iPad or phone?",
-        "a": "Yes. Every game works in the browser on phones, tablets and computers, and the pictures grow to fill the screen. A tablet on a stand is often the most comfortable for two people."
+        "q": "这些游戏可以在iPad或手机上玩吗？",
+        "a": "可以。每款游戏都可以在手机、平板电脑和电脑的浏览器中运行，图片会自动放大填满屏幕。两人一起玩时，把平板电脑放在支架上通常最舒服。"
       },
       {
-        "q": "Are these games good for someone with Alzheimer's?",
-        "a": "Yes. They were made for people living with dementia, including Alzheimer's, the most common cause. Pictures stay showing, there are only a few choices, and nothing is timed or scored, so the games lean on recognizing familiar things rather than remembering new ones."
+        "q": "这些游戏适合阿尔茨海默病长辈吗？",
+        "a": "适合。这些游戏专为认知障碍人士（包括最常见的阿尔茨海默病）设计。图片会一直显示，选项也很少，没有计时也不计分，让长辈重在认出熟悉的事物，而不是吃力地去记新东西。"
       },
       {
-        "q": "Are these memory games for seniors?",
-        "a": "They are matching and picture games that any older adult can enjoy, but they are built not to test memory: in Picture pairs the pictures stay face up unless you choose otherwise. Our guide to memory games for seniors with dementia explains how to keep any memory game gentle."
+        "q": "这些是给长辈玩的记忆游戏吗？",
+        "a": "它们是任何长辈都能享受的配对与图片游戏，但设计初衷并不是为了考验记忆力：在“图片配对”中，除非您主动选择遮盖，否则图片会始终正面朝上。我们为认知障碍长辈编写的记忆游戏指南中，也介绍了如何让各类记忆活动保持轻松温和。"
       },
       {
-        "q": "Are there games for groups in a care home?",
-        "a": "Yes. Picture bingo has printable cards and an on-screen caller, and Finish the saying and Conversation cards work well read aloud to a group."
+        "q": "照护机构的多人活动有合适的游戏吗？",
+        "a": "有的。“图片宾果”提供可打印的卡片和屏幕报号功能，而“接句游戏”与“对话卡片”也非常适合朗读给多人小组一起互动。"
       }
     ]
   },
   "appFacts": {
-    "platforms": "iPhone, iPad and Android",
-    "requirements": "iOS 15 or later; Android 7.0 or later",
-    "summary": "A free app for iPhone, iPad and Android with gentle picture matching on four to twelve large tiles, matching and viewing with family photos you choose, and eight included picture packs that work without internet. No account, ads, timer or score.",
+    "platforms": "iPhone、iPad 与 Android",
+    "requirements": "iOS 15 或更高版本；Android 7.0 或更高版本",
+    "summary": "一款适用于 iPhone、iPad 和 Android 的免费应用，提供4到12块大图块的温和图片配对，支持挑选家庭照片进行配对和翻看，并内置8个无需网络即可使用的图片包。无需注册账号，无广告，无计时器，也不计分。",
     "features": [
-      "Gentle picture matching with 4, 6, 8 or 12 large tiles; pictures stay visible unless you choose to hide them",
-      "Family photos you select are copied into the app for matching and for looking at together",
-      "Look together: one picture at a time with optional conversation prompts",
-      "Eight picture packs included with the app; they work offline",
-      "No account, ads, in-app purchases, timer, score or penalty"
+      "包含4、6、8或12块大图块的温和图片配对；除非您选择遮盖，否则图片始终保持可见",
+      "所选的家庭照片会复制到应用中，用于配对游戏和一同翻看",
+      "一同翻看：一次显示一张图片，附带可选的日常交流提示",
+      "应用内置8个图片包，完全支持离线使用",
+      "无需账号、无广告、无应用内购买，没有计时、分数或惩罚"
     ],
     "faq": [
       {
-        "q": "Is there a dementia activities app?",
-        "a": "Yes. Golden Moments (listed as \"{storeName}\") is free on the App Store and Google Play. It offers gentle picture matching with large tiles, games with family photos you choose, and picture packs that work offline."
+        "q": "有适合认知障碍长辈的活动应用吗？",
+        "a": "有的。Golden Moments（在应用商店中名称为“{storeName}”）可在 App Store 和 Google Play 免费下载。它提供大图块的温和图片配对、支持自定义家庭照片的互动，以及可离线使用的图片包。"
       },
       {
-        "q": "Is the Golden Moments app free?",
-        "a": "Yes. It is free to download, with no ads, account or in-app purchases."
+        "q": "Golden Moments 应用是免费的吗？",
+        "a": "是的。应用完全免费下载，没有任何广告，无需注册账号，也没有应用内购买。"
       },
       {
-        "q": "Does the app work without internet?",
-        "a": "Yes. The starter pictures and all eight picture packs are included with the app, and family photos work offline once they are copied into the app. Choosing a photo stored only in iCloud may need a connection."
+        "q": "应用在没有网络时可以使用吗？",
+        "a": "可以。入门图片和全部8个图片包均内置于应用中，家庭照片复制到应用后也可离线使用。如果选择仅保存在 iCloud 中的照片，可能需要连接网络。"
       },
       {
-        "q": "Can I use our own family photos?",
-        "a": "Yes. Choose photos with your device’s photo picker. The app keeps smaller copies on the device for its activities, does not upload them and never changes the originals. You can remove the copies at any time."
+        "q": "我们可以使用自己家的照片吗？",
+        "a": "可以。您可以通过设备的照片选择器挑选照片。应用会在设备上保留较小尺寸的副本供活动使用，不会上传这些照片，也绝不会修改原图。您可以随时删除这些副本。"
       },
       {
-        "q": "Is it a brain-training or memory-test app?",
-        "a": "No. Golden Moments is for enjoyment and time together. It has no scores or tests, and it does not diagnose, treat, prevent or measure dementia or Alzheimer’s disease."
+        "q": "这是一款大脑训练或记忆测试应用吗？",
+        "a": "不是。Golden Moments 是为了带来乐趣和共度陪伴时光而设计的。应用中没有评分或测试，也不用于诊断、治疗、预防或评估认知症或阿尔茨海默病。"
       },
       {
-        "q": "Which devices does it work on?",
-        "a": "{platforms}: {requirements}."
+        "q": "它支持哪些设备？",
+        "a": "{platforms}：{requirements}。"
       }
     ],
     "gameFaqYes": {
-      "q": "Is there an app version of this game?",
-      "a": "Yes. The free Golden Moments app for iPhone, iPad and Android has the same gentle picture matching, can use family photos you choose, and works offline. No account, ads or score."
+      "q": "这款游戏有应用版本吗？",
+      "a": "有的。适用于 iPhone、iPad 和 Android 的免费 Golden Moments 应用包含同样温和的图片配对活动，可以使用您挑选的家庭照片，并支持离线使用。无需账号，没有广告，也不设评分。"
     },
     "gameFaqNo": {
-      "q": "Is there an app version of this game?",
-      "a": "Not of this game. The free Golden Moments app for iPhone, iPad and Android has gentle picture matching with large tiles and family photos you choose, and it works offline. This game stays free here in your browser."
+      "q": "这款游戏有应用版本吗？",
+      "a": "这款游戏暂无应用版本。适用于 iPhone、iPad 和 Android 的免费 Golden Moments 应用提供大图块的温和图片配对活动，支持使用您挑选的家庭照片，并且支持离线使用。当前这款游戏则可以一直在浏览器中免费体验。"
     }
   },
   "gamePage": {
-    "imageAlt": "{name}: large, friendly pictures",
-    "noscript": "This game needs JavaScript turned on in your browser. The tips below work without it.",
-    "about": "About {name}",
-    "aboutAria": "About this game",
-    "noTimer": "No timer or score",
-    "printable": "Printable",
-    "howTo": "How to play {name}",
-    "tips": "Tips for playing together",
-    "newToPlayingHtml": "New to playing with someone who has dementia? Read <a href=\"/caregiving/how-to-play-together/\">how to play games together</a>, including what to do if they lose interest.",
-    "moreAria": "More to explore",
-    "helpfulGuides": "Helpful guides",
-    "appTitle": "Play it in the app",
-    "appText": "The free Golden Moments app has gentle picture matching with large tiles and your own family photos, and works without Wi‑Fi. iPhone, iPad and Android.",
-    "photoAppTitle": "Keep your photos ready",
-    "photoAppText": "In the free Golden Moments app, the photos you choose stay on your device for next time, and games work without Wi‑Fi. iPhone, iPad and Android.",
-    "goodToKnow": "Good to know",
-    "goodToKnowText": "This game is for enjoyment and time together. It does not test, measure or treat anything.",
-    "moreGames": "More gentle games",
-    "crumb": "Games"
+    "imageAlt": "{name}：清晰温和的大图",
+    "noscript": "运行此游戏需要浏览器开启 JavaScript。即使未开启，您也可以阅读下方的实用建议。",
+    "about": "关于 {name}",
+    "aboutAria": "关于本游戏",
+    "noTimer": "无计时，无评分",
+    "printable": "可打印",
+    "howTo": "如何游玩 {name}",
+    "tips": "一起游玩的实用建议",
+    "newToPlayingHtml": "初次陪伴患有认知症的家人玩游戏？请阅读<a href=\"/caregiving/how-to-play-together/\">如何一起玩游戏</a>，包括他们失去兴趣时该怎么做。",
+    "moreAria": "探索更多内容",
+    "helpfulGuides": "实用指南",
+    "appTitle": "在应用中体验",
+    "appText": "免费的 Golden Moments 应用包含大图块的温和图片配对活动，可以使用您自己的家庭照片，且无需 Wi‑Fi 即可使用。支持 iPhone、iPad 和 Android。",
+    "photoAppTitle": "随时可以使用您的照片",
+    "photoAppText": "在免费的 Golden Moments 应用中，您挑选的照片会保存在本地设备中供下次使用，游戏也无需 Wi‑Fi 即可游玩。支持 iPhone、iPad 和 Android。",
+    "goodToKnow": "温馨提示",
+    "goodToKnowText": "这款游戏旨在带来乐趣和共度美好时光。它不用于任何测试、评估或治疗。",
+    "moreGames": "更多温和游戏",
+    "crumb": "游戏"
   }
 }
