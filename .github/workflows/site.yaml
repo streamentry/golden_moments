@@ -3,9 +3,12 @@ name: Website
 permissions:
   contents: read
 
+# Pull request runs cancel stale ones. On main a running deploy always
+# finishes: a newer push waits behind it (GitHub keeps only the newest
+# pending run), so frequent pushes cannot cancel every deploy in turn.
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
 on:
   push:
