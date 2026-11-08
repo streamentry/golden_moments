@@ -2,7 +2,11 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
+<<<<<<< HEAD
 **Progress: 19 / 100 completed**
+=======
+**Progress: 21 / 100 completed**
+>>>>>>> origin/main
 
 ---
 
@@ -28,7 +32,13 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 16 | 2026-11-08 | `6424cfa` | Word Search & Paced Breathing Visuomotor Targeting, Focus & Vestibular Stability Architecture | Musa et al. (2023), AbilityNet (2025), WCAG 2.3.3 & W3C COGA: Added hover boundary guidance and 3px focus-visible outline on Word Search cells; differentiated start selection from solved words in high contrast and forced-colors; stabilized Calm Breathing under `prefers-reduced-motion` to eliminate jarring 0.01ms jumps while maintaining pacing; framed matched tile badges with `Highlight` in forced-colors; added auditory confirmation on Word Search restart and Calm Breathing toggle. | Web Games (`games.css`, `WordSearch.tsx`, `CalmBreathing.tsx`) | Done |
 | 17 | 2026-11-08 | `ac12eb5` | Spoken Card Prompt & In-Activity Verbal Assistance Architecture (Read Aloud) | Cannings et al. (2024, JMIR Aging), Alzheimer's Australia Vic (2015), and W3C COGA Objectives 1, 3 & 4: Upgraded `GameFrame.tsx` to support `readAloudText?: string` and added automatic speech cancellation on text changes in `ReadAloud.tsx`. Integrated dynamic spoken prompts: Conversation Cards speaks `card.prompt`; Finish the Saying speaks `saying.start` before reveal and full saying plus conversation prompt after reveal; Picture Bingo speaks called picture name; Find the Same and Shadow Match speak target item names. | Web Games (`GameFrame.tsx`, `ReadAloud.tsx`, `ConversationCards.tsx`, `FinishTheSaying.tsx`, `PictureBingo.tsx`, `FindTheSame.tsx`, `ShadowMatch.tsx`) | Done |
 | 18 | 2026-11-08 | `4dbf511` | Button Pill Focus Conformity, Quiet Action Contrast & Photo Picker High-Contrast Architecture | WCAG 2.4.7, ISO 21801-1, AbilityNet (2025): Fixed rectangular focus outline clipping on pill buttons by adding `.btn:focus-visible` with `border-radius: var(--radius-full)`; eliminated invisible/washed-out `.btn--quiet` under high contrast with reinforced 2px borders; preserved `.btn[aria-pressed='true']` in Windows Forced Colors with system `Highlight` outline; reinforced `.photo-pick` with dashed high contrast borders and shape-conforming focus outlines; added auditory feedback on Photo Pairs restart. | Web Components & Games (`components.css`, `games.css`, `PhotoPairs.tsx`) | Done |
+<<<<<<< HEAD
 | 19 | 2026-11-08 | `c4bfe68` | Library Back Path Guard (Test) | Alzheimer's Society checklist 2.1 and 2.2 (read through the view-only sheet summary) and DESIGN.md "keep Back visible": a code trace found no library screen that hides Back or blocks pop (no `automaticallyImplyLeading: false`, no `canPop: false`). Added `back_path_test.dart`, which checks that the category list, pack page and picture game each show one Back control of at least 48 px and that tapping it returns. Verified by hiding Back on the game page: the test fails. No user-facing change; a device check of the back path (backlog G6) is still pending. | App tests (`test/features/legacy_library/`) | Done |
+=======
+| 19 | 2026-11-08 | `b649cb0` | Picture Puzzle Visuomotor Hover Targeting, Guide High-Contrast Frame & Multisensory Activity Feedback | Musa et al. (2023), AbilityNet (2025), W3C COGA Obj 1, 3 & 4: Added `:hover` border targeting on `.piece`; framed `.puzzle-guide img` reference thumbnail in high-contrast (2px black) and forced-colors (2px CanvasText); eliminated silent taps on restart/play-again in Picture Puzzle and Sort Together; extended spoken in-activity guidance to Picture Puzzle (target name and solve confirmation), Sort Together (basket categories), and Coloring (page name). | Web Games (`games.css`, `PicturePuzzle.tsx`, `SortTogether.tsx`, `Coloring.tsx`) | Done |
+| 20 | 2026-11-08 | `5f96f22` | Activity Card Visual Framing Architecture, Silhouette Contrast & Universal Sensory Feedback | Alzheimer's Society UK & AbilityNet (2025), Musa et al. (2023), W3C COGA Obj 1 & 4: Reinforced visual container framing in high contrast (`border: 2px solid #000`) and forced colors (`border: 2px solid CanvasText`) across `.caller`, `.caller__print`, `.target__print`, `.say-card`, `.talk-card`, and catalog `.game-card__print`; elevated shadow silhouette contrast to 100% full opacity under high contrast mode (`opacity: 1 !important;`); added interactive outline and tooltip title discovery to Picture Bingo called history (`.called li:hover img`); eliminated silent action taps across Picture Pairs, Picture Bingo, Find the Same, Shadow Match, and Finish the Saying (`sounds.tap()`); extended spoken guidance (`readAloudText`) to Picture Pairs. | Web UI & Games (`games.css`, `components.css`, `PicturePairs.tsx`, `PictureBingo.tsx`, `FindTheSame.tsx`, `ShadowMatch.tsx`, `FinishTheSaying.tsx`) | Done |
+| 21 | 2026-11-08 | `9efb1d6` | Caregiver Today Decision Tool, Game Stage & CTA Band High-Contrast Architecture & Dementia Appointment Print Protection | W3C COGA Objectives 1, 4 & 7, Alzheimer's Society / Dementia UK Caregiver Guidelines: In `today.astro` ("What is hardest today?"), reinforced selected situation buttons (`.today__choice[aria-pressed='true']`) with 4px high-contrast borders and system `Highlight` outline so active selection survives Windows Contrast Themes; framed `.today__answer`, urgent `.today__help` ("When to get help"), and `.today__text` with high-contrast borders and focus rings; added appointment print protection (`break-inside: avoid; page-break-inside: avoid;` on `.today__day` and `.today__day li`) preventing personal notes from slicing across printed page breaks; framed `.game-stage`, `.cta-band`, `.notice`, and `.tag` under high contrast (2px `#000`/`#222`) and forced colors (`CanvasText`); added `ButtonText` and `Highlight` focus outlines to `.text-size__btn`. | Web Tools & Layout (`today.astro`, `GameView.astro`, `TextSize.astro`, `components.css`) | Done |
+>>>>>>> origin/main
 
 ---
 
@@ -36,5 +46,10 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
+<<<<<<< HEAD
 | 20 | *Next in queue* | Pending |
 | 21–100 | Planned one by one | Pending |
+=======
+| 22 | *Next in queue* | Pending |
+| 23–100 | Planned one by one | Pending |
+>>>>>>> origin/main

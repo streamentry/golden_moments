@@ -51,7 +51,10 @@ export default function FinishTheSaying(props: PlayProps) {
     setMessage(fill(ui.finishTheSaying.revealed, parts, lang));
   };
 
-  const next = () => setIndex((i) => (i + 1) % deck.length);
+  const next = () => {
+    sounds.tap();
+    setIndex((i) => (i + 1) % deck.length);
+  };
 
   return (
     <GameFrame

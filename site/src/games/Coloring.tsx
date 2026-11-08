@@ -89,6 +89,7 @@ export default function Coloring(props: PlayProps) {
         ui={ui}
         lang={lang}
         guidance={ui.coloring.guidance}
+        readAloudText={`${ui.coloring.guidance}: ${pageName}.`}
         message={message}
         onRestart={() => {
           sounds.tap();

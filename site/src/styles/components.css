@@ -901,10 +901,22 @@ summary {
   }
   .card,
   .guide-card,
+  .game-card__print,
   .aside-box,
   .faq details,
   .answer {
     border: 2px solid #222222 !important;
+  }
+  .cta-band {
+    border: 2px solid #000000;
+  }
+  .notice {
+    border: 2px solid #000000;
+    border-inline-start: 6px solid #000000;
+  }
+  .tag {
+    border: 2px solid #000000;
+    font-weight: 800;
   }
   .breadcrumbs [aria-current='page'] {
     color: #000000;
@@ -954,9 +966,20 @@ summary {
   }
   .card,
   .guide-card,
+  .game-card__print,
   .aside-box,
   .faq details,
   .answer {
+    border: 2px solid CanvasText;
+  }
+  .cta-band {
+    border: 2px solid CanvasText;
+  }
+  .notice {
+    border: 2px solid CanvasText;
+    border-inline-start: 6px solid Highlight;
+  }
+  .tag {
     border: 2px solid CanvasText;
   }
   .breadcrumbs [aria-current='page'] {

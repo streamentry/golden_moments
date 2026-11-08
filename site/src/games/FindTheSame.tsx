@@ -39,6 +39,7 @@ export default function FindTheSame(props: PlayProps) {
   }, [count]);
 
   const next = () => {
+    sounds.tap();
     setRound((r) => newRound(count, r?.target));
     setFound(false);
     setTapped(null);
