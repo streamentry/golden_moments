@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 11 / 100 completed**
+**Progress: 12 / 100 completed**
 
 ---
 
@@ -21,6 +21,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 9 | 2026-11-08 | `8042e9e` | Layout Consistency, Audio Setting Feedback & Breadcrumb Orientation | DEEP Guides, Alzheimer's Society UK Heuristics 2.1 & 2.2, W3C COGA Obj 2 & 4: Normalized GameFrame layout order across all activities by moving action buttons in `FinishTheSaying.tsx` and completion cards in `PicturePuzzle.tsx` to `footer`, ensuring polite live status announcements always precede actions; added immediate auditory confirmation chime on sound enable; elevated breadcrumb active page contrast (`color: var(--gm-on-surface); font-weight: 700;`) and `:focus-visible` ring to prevent navigational disorientation. | Web Games & Components (`FinishTheSaying.tsx`, `PicturePuzzle.tsx`, `GameFrame.tsx`, `components.css`) | Done |
 | 10 | 2026-11-08 | `e29476b` | Multimodal Action Signalling & Forced-Colors Active State Architecture | DESIGN.md Principle 3 ("Every icon has a word, and every action has an icon AND a label"), W3C COGA Objective 3 & 5: Paired ReadAloud speech toggle with `<Icon name={speaking ? 'soundOff' : 'sound'} />` for immediate cognitive cueing; added `.read-aloud` inline layout styling; reinforced `.site-nav` active link states in Windows High Contrast Mode (`border: 2px solid Highlight; outline: 1px solid Highlight;`) and `@media (prefers-contrast: more)` where `box-shadow` is ignored by contrast themes. | Web UI & Navigation (`ReadAloud.tsx`, `games.css`, `components.css`) | Done |
 | 11 | 2026-11-08 | `1dd60b3` | Auditory Overload Prevention, Skip Link Contrast & High-Contrast Focus Architecture | BrainXchange / JMIR Aging Auditory Dementia Guidelines & WCAG 1.4.11 Non-text Contrast: Suppressed runaway audio by cancelling speech synthesis on game restart and exit in `GameFrame.tsx`; upgraded skip link focus ring to 15.1:1 dual ring (`outline: 3px solid var(--gm-background); box-shadow: 0 0 0 5px var(--gm-on-surface);`); added high-contrast and forced-colors focus outlines for ChoiceChips and active ReadAloud buttons. | Web Games & Accessibility (`GameFrame.tsx`, `base.css`, `games.css`) | Done |
+| 12 | 2026-11-08 | `4f014a2` | Multisensory Selection Affordance, Tactile Elevation & Forced-Colors Check Architecture | Musa et al. (2023) Touchscreen Guidelines, W3C COGA Obj 1 & 4, AbilityNet (2025): Added tactile elevation (`transform: scale(1.04); box-shadow: 0 4px 12px rgba(60, 44, 10, 0.25);`) to picked up puzzle pieces; added swap candidate affordance (`data-has-selected="true"`) to unselected puzzle pieces; eliminated silent taps across activities (deselection in `PicturePuzzle` and `WordSearch`, invalid word attempt in `WordSearch`, next/prev in `ConversationCards`, color swatch tap in `Coloring`, clear in `PhotoPairs`); preserved completion checkmarks in Windows Contrast Themes with `forced-color-adjust: none` and system `Highlight` borders. | Web Games (`PicturePuzzle.tsx`, `WordSearch.tsx`, `ConversationCards.tsx`, `Coloring.tsx`, `PhotoPairs.tsx`, `games.css`) | Done |
 
 ---
 
@@ -28,5 +29,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 12 | *Next in queue* | Pending |
-| 13–100 | Planned one by one | Pending |
+| 13 | *Next in queue* | Pending |
+| 14–100 | Planned one by one | Pending |

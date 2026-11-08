@@ -19,17 +19,17 @@ physical device is listed under "Not verified" and is not scored, not a blocker.
 
 Overall = sum of weight x score.
 
-## Score after Round 12 auditory overload prevention & skip link pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
+## Score after Round 13 multisensory selection affordance & tactile elevation pass (2026-11-08; earlier 9.87, 9.86, 9.79, 9.59)
 
 | # | Dimension | Measured | Score |
 | --- | --- | --- | --- |
 | 1 | Plain language | app 441 of 441 strings conform after the six fixes; site play copy 0 long sentences | 10.0 |
-| 2 | Type and contrast | floor and 200% tests pass 10; body 15.1:1 gives 10; secondary 8.1:1 gives 10; primary 6.33:1 gives 9.0; high contrast mode & forced colors reinforced = 10; breadcrumb active state 15.1:1 bold = 10; site-nav active high contrast borders = 10; skip link non-text contrast 15.1:1 dual ring = 10 | 9.75 |
-| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; every action pairs icon and label (including ReadAloud) = 10; shape-conforming focus rings on tiles, puzzle pieces, baskets, breadcrumb links and chips = 10; touch & tremor resilience = 10; print action button on handout = 10; zero dead-ends in all games with completion cards = 10; uniform layout order across all 12 games = 10 | 10.0 |
+| 2 | Type and contrast | floor and 200% tests pass 10; body 15.1:1 gives 10; secondary 8.1:1 gives 10; primary 6.33:1 gives 9.0; high contrast mode & forced colors reinforced = 10; breadcrumb active state 15.1:1 bold = 10; site-nav active high contrast borders = 10; skip link non-text contrast 15.1:1 dual ring = 10; puzzle piece completion check forced-color-adjust preserved = 10 | 9.75 |
+| 3 | Targets and navigation | site controls 48 px 10; app target tests 10; icon-only actions carry a word = 10; every action pairs icon and label (including ReadAloud) = 10; shape-conforming focus rings on tiles, puzzle pieces, baskets, breadcrumb links and chips = 10; touch & tremor resilience = 10; print action button on handout = 10; zero dead-ends in all games with completion cards = 10; uniform layout order across all 12 games = 10; tactile puzzle elevation & swap destination candidate affordance = 10 | 10.0 |
 | 4 | Structure and semantics | axe on all 3,921 built pages clean (0 violations); heading skips 0; landmarks fixed; app semantics tests pass | 10.0 |
 | 5 | Reflow and large text | site 1,512 of 1,512 runs clean = 10; app 200% tests pass = 10 | 10.0 |
 | 6 | Localization completeness | app keys 100%; site ui keys 100% (64 of 64 languages have footer.pictures); games keys 100%; guides 100%; picture names 68.8% (44 of 64) | 9.38 |
-| 7 | Product integrity | gentle-mode and claims guard tests all pass | 10.0 |
+| 7 | Product integrity | gentle-mode and claims guard tests all pass; zero failure sounds; all user interactions paired with gentle tap sounds | 10.0 |
 | 8 | Verification health | Flutter 668 pass; analysis clean; site 681 pass; build 3,921 pages and check-site 0 errors | 10.0 |
 
 Weighted overall: 1.000 + 1.4625 + 1.000 + 1.500 + 1.500 + 1.407 + 1.000 + 1.000 = **9.87**.
@@ -46,6 +46,8 @@ Lowest dimension: localization at 9.38 (floor is 7.0). **The bar (above 8.6, non
 
 1. Localization (9.38): picture names for the 20 languages left in English (needs a translator; machine output there is unreliable).
 2. Type and contrast (9.75): primary gold text at 6.33:1 (brand decision, kept).
+
+History (round 13): Multisensory Selection Affordance, Tactile Elevation & Forced-Colors Check Architecture. Added tactile visual elevation (`transform: scale(1.04); box-shadow: 0 4px 12px rgba(60, 44, 10, 0.25);`) to picked up puzzle pieces in `PicturePuzzle.tsx`, with motion-reduction safety; added swap destination candidate affordance (`data-has-selected="true"`) to unselected puzzle pieces; eliminated silent taps across activities (deselection in `PicturePuzzle` and `WordSearch`, invalid word attempt in `WordSearch`, next/prev in `ConversationCards`, color swatch tap in `Coloring`, clear in `PhotoPairs`); preserved completion checkmarks in Windows Contrast Themes with `forced-color-adjust: none` and system `Highlight` borders.
 
 History (round 12): Auditory Overload Prevention, Skip Link Contrast & High-Contrast Focus Architecture. Suppressed runaway audio by cancelling speech synthesis on game restart and exit in `GameFrame.tsx`; upgraded skip link focus ring to 15.1:1 dual ring (`outline: 3px solid var(--gm-background); box-shadow: 0 0 0 5px var(--gm-on-surface);`); added high-contrast and forced-colors focus outlines for ChoiceChips and active ReadAloud buttons.
 
