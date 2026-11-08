@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { createRng, shuffle } from './random';
-import { boardColumns, createPairs, isComplete, matchedPairs, tapPair } from './pairs';
+import { boardColumns, createPairs, isComplete, matchedPairs, tapPair, tileVisualState } from './pairs';
 import { correctCount, createPuzzle, isSolved, tapPiece } from './puzzle';
 import { cellsOf, createWordSearch, lettersOf, normalizeWord, wordBetween } from './wordsearch';
 import { createBingoCards } from './bingo';
@@ -73,6 +73,34 @@ describe('pairs', () => {
   it('keeps small boards in two columns', () => {
     expect(boardColumns(4, true)).toBe(2);
     expect(boardColumns(12, false)).toBe(3);
+  });
+
+  it('determines tile visual state for resting, hidden, selected, mismatch, and matched', () => {
+    let state = createPairs(['a', 'b'], createRng(3));
+    expect(tileVisualState(state, 0, false)).toBe('resting');
+    expect(tileVisualState(state, 0, true)).toBe('hidden');
+    expect(tileVisualState(state, 999, false)).toBe('resting');
+
+    // Select a tile
+    state = tapPair(state, 0);
+    expect(tileVisualState(state, 0, false)).toBe('selected');
+    expect(tileVisualState(state, 0, true)).toBe('selected');
+    expect(tileVisualState(state, 1, true)).toBe('hidden');
+
+    // Mismatch
+    const different = state.tiles.findIndex((t) => t.value !== state.tiles[0]?.value);
+    state = tapPair(state, different);
+    expect(tileVisualState(state, 0, true)).toBe('mismatch');
+    expect(tileVisualState(state, different, true)).toBe('mismatch');
+    const third = state.tiles.findIndex((_, i) => i !== 0 && i !== different);
+    expect(tileVisualState(state, third, true)).toBe('hidden');
+    expect(tileVisualState(state, third, false)).toBe('resting');
+
+    // Match
+    const matchPair = findPair(state, 0);
+    state = tapPair(tapPair(state, 0), matchPair);
+    expect(tileVisualState(state, 0, false)).toBe('matched');
+    expect(tileVisualState(state, matchPair, true)).toBe('matched');
   });
 });
 

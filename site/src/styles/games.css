@@ -187,6 +187,14 @@
 .tile:hover {
   border-color: var(--gm-primary);
 }
+.tile:not(.tile--matched):hover {
+  border-color: var(--gm-primary);
+  box-shadow: 0 4px 12px rgb(60 44 10 / 15%);
+}
+.tile--matched:hover {
+  border-color: var(--gm-primary);
+  box-shadow: none;
+}
 .tile:focus-visible {
   outline: 3px solid var(--gm-primary);
   outline-offset: 3px;
@@ -425,6 +433,11 @@
   .piece,
   .called img {
     transition: none;
+  }
+  .tile:hover,
+  .tile:not(.tile--matched):hover {
+    box-shadow: none;
+    transform: none;
   }
   .breathe__circle {
     transform: none !important;
@@ -1015,10 +1028,30 @@
   .tile {
     border: 2px solid #000000;
   }
+  .tile:not(.tile--matched):hover {
+    outline: 2px solid #000000;
+    outline-offset: 2px;
+  }
+  .tile:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 3px;
+  }
   .tile--selected::after,
+  .tile--mismatch::after,
   .tile--matched::after {
     border-width: 6px;
     border-color: #000000;
+  }
+  .tile__back {
+    color: #000000;
+  }
+  .tile--hidden {
+    border: 2px solid #000000;
+    background: var(--gm-surface);
+  }
+  .target__name {
+    color: #000000;
+    font-weight: 800;
   }
   .puzzle {
     border: 2px solid #000000;
@@ -1165,9 +1198,24 @@
   .color-page [data-region] {
     forced-color-adjust: none;
   }
+  .tile:not(.tile--matched):hover {
+    outline: 2px solid Highlight;
+    outline-offset: 2px;
+  }
+  .tile:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 3px;
+  }
   .tile--selected::after,
+  .tile--mismatch::after,
   .tile--matched::after {
     border-color: Highlight;
+  }
+  .tile__back {
+    color: ButtonText;
+  }
+  .target__name {
+    color: CanvasText;
   }
   .piece--selected {
     outline-color: Highlight;

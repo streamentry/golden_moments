@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 29 / 100 completed**
+**Progress: 30 / 100 completed**
 
 ---
 
@@ -39,6 +39,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 27 | 2026-11-08 | `889ef53` | Interactive Card Focus Architecture, Quotable Answer Bar Contrast & Small Print Touch Target Guidance | W3C COGA Obj 1 & 4, ISO 21801-1, WCAG 2.4.7: Added `.card:has(.card__link:focus-visible)` with 3px primary outline and 4px offset (4px solid black in high contrast; 3px Highlight in forced colors) while suppressing redundant inner heading outlines, framing entire interactive card surfaces in `GameCard` and `GuideCard`; reinforced `.card__more` action link text in high-contrast (`#000000`, font-weight 800) and forced colors (`LinkText`); elevated `.answer::before` quotation accent bar to solid black (`#000000`) and system `Highlight` (with `forced-color-adjust: none;`) to prevent accent washout; elevated `.answer__label` to `#000000` font-weight 800; added shape-conforming `:focus-visible` ring on standalone `a.small-print` links; suppressed background radial gradients on `.cta-band` in high contrast mode with solid `#FFFFFF` for glare-free readability. | Web Cards & Prose (`components.css`) | Done |
 | 28 | 2026-11-08 | `c4bfe68` | Library Back Path Guard (Test) | Alzheimer's Society checklist 2.1 and 2.2 (read through the view-only sheet summary) and DESIGN.md "keep Back visible": a code trace found no library screen that hides Back or blocks pop (no `automaticallyImplyLeading: false`, no `canPop: false`). Added `back_path_test.dart`, which checks that the category list, pack page and picture game each show one Back control of at least 48 px and that tapping it returns. Verified by hiding Back on the game page: the test fails. No user-facing change; a device check of the back path (backlog G6) is still pending. | App tests (`test/features/legacy_library/`) | Done |
 | 29 | 2026-11-08 | `d558b56` | Breadcrumb Navigation Focus Affordance, Skip Link Forced-Colors Architecture, Dark-Ink Footer Link Contrast & Inactive Nav High-Contrast Hierarchy | Musa et al. (2023), AbilityNet (2025), ISO 21801-1, W3C COGA Obj 1 & 3, WCAG 1.4.11 / 2.4.7: Added shape-conforming `:focus-visible` pill outline on `.site-nav a`; reinforced inactive navigation links in high contrast (`@media (prefers-contrast: more)`) with 2px solid black border and white background on hover/focus so interactive boundaries remain distinct from background; added screen-reader-safe separator syntax `content: '/' / ''; speak: never;` on `.breadcrumbs li:not(:last-child)::after`; added high-contrast breadcrumb underlines and solid black `:focus-visible` outline; eliminated invisible dark-ink footer link focus indicators and high-contrast hover washout with bright white text (`#FFFFFF`), 2px underline, and 3px solid white outline; reinforced `.skip-link` in forced colors (`forced-color-adjust: none; background: Highlight; color: HighlightText; border: 2px solid HighlightText; outline: 2px solid Highlight;`) and high-contrast mode with solid 3px border and outline. | Web Navigation & Components (`components.css`) | Done |
+| 30 | 2026-11-08 | `in-progress` | Picture Pairs & Memory Tile Card-Face Boundary Contrast, Pre-Contact Targeting & Vestibular Stability Architecture | Musa et al. (2023) Touchscreen Guidelines, AbilityNet (2025), ISO 21801-1, W3C COGA Obj 1 & 4, WCAG 2.3.3: Reinforced `.tile--mismatch::after` in high contrast (6px solid black) and Windows Forced Colors (`Highlight`) eliminating mismatch border dropouts; added dedicated `:focus-visible` rings on `.tile` (4px solid black in high contrast; 3px Highlight in forced colors) replacing washed-out green outlines; added pre-contact hover target affordance `.tile:not(.tile--matched):hover` with subtle elevation while keeping matched tiles calm and non-interactive; reinforced hidden tile backs (`.tile__back` with `#000000` / `ButtonText`, `.tile--hidden` with 2px solid black) preventing ornament washout; suppressed hover shadow jitter under `prefers-reduced-motion: reduce`; elevated `.target__name` in Find the Same and Shadow Match to 800-weight black and `CanvasText`; exported testable `tileVisualState` engine with comprehensive test coverage. | Web Games & Styles (`games.css`, `PictureTile.tsx`, `PairsBoard.tsx`, `pairs.ts`, `games.test.ts`) | Done |
 
 ---
 
@@ -46,5 +47,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 30 | *Next in queue* | Pending |
-| 31–100 | Planned one by one | Pending |
+| 31 | *Next in queue* | Pending |
+| 32–100 | Planned one by one | Pending |
