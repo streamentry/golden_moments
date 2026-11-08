@@ -1,46 +1,47 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Kas-Daggoh Gidba Deeroh Abnitte: Firash kee Kursil"
+seoTitle: "Kas-Daggoh Gidba Deeroh Abnitte: Firash kee Kursi"
+description: "Kas-daggoh gidba deero luk yan maroh xabbaco abnitte, firash kee kursi amol: muusika, gaba-tabis, caran tunsiyya, xalay kee elle sugeenih aman-maysis."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Kas-daggoh gidba deerol, abnitte aagartal kee sin lih sugeenit tunkuttoobee:
+  koboxxisiyyah muusika oobbisiyya, gaba qoxoliyya, gaba xabbacuk maasaj abiyya,
+  caran kitooba tankiyya, footoowat wagisiyya, barah xaleela oobbisiyya kee
+  takkiitak cato walalise kalal gactam. Taamat firash kee kursi amol yan numul meqe.
+  Wakteena xabbacoy xiqtolem abita, af kee gabat assacoot wagita, kaadu sin lih
+  sugeenim inkih taama kinniim kassita.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Wadba faxe wakti duudantah tan. Gidba deerol, addunya aagartah gubat fayxi-le innal tameete."
+  - "Maxcooca gaba kalte wakti, muusika, xabbaco gaba-tabis, yaaxigin xaleela kee xabbaco heebiyya marat tatrusam duudan."
+  - "Ta meqe fikraditte inkih firash kee kursi amol yan numuy dacristan meqem takke."
+  - "Af-baxa, gabbiiba kee fayla-rubiyyat assacoot kee qaxbi wagita, qansarisa astootit elle tunkuttuben waqdi taama solu."
+  - "Qunxixxiixiyit kaxxa dacris aba, maaca kee aqo sahati dacriseyna kak edde farhe innal dubuk kaxxanba, maaci-tabsam assacot sinnam takkem duudaah."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Kas-daggoh gidba deerol firash amol yan num lih manna abnitte abaanam duudan?"
+    a: "Koboxxisiyyah muusika oobbisa, gabat qoxola, xabbaco zeytit gaba maasaj aba, koboxxisan kitoobak caran tunsiyya aba, footoowat yaybula, hinnay barah meqe xaleela oobbisa. Takkiitak dawo yaybuleenimkeh pardaafa kulla. Inki wakti inki xabbaco taamat xiqtole wakti abaanam kaxxa meqe."
+  - q: "Kas-daggoh gidba deero luk yan mari muusikak wallitu duudaa?"
+    a: "Mangoomi duudan. Alzheimer's Association baxxaqise innal, gidba deerol belkay, num caran dirab hinnay koboxxise heele duddam duuda. Qunxaaneytih wakti koboxxisen muusika caxa kaadu xalay xabbaco gaba."
+  - q: "Taamat wallitan mara kinnoonum mannal aaxigee?"
+    a: "Qunxixxiixih tan astooti wagita: ruffu iyye garooba, salaamata af-baxa, inti-wagis, xabbaco heele, gaba qansarissa hinnay xabbacoy meqe fayla-rubiyya. Af-makiyya, gaba-soltisiyya, haysiyya maliino hinnay qeebi meqe kaltoomiyya hinnay biak astooti takkem duuda. Tonnaame tublen waqdi, taama sola kaadu sahati dacriseynah warsa."
+  - q: "Is yoo aaxige waay belkay, kaah xaqut gaceenim tuxxiq lee?"
+    a: "Yeey. National Institute on Aging baxxaqise innal, marâ lih sugeenim inkih ruffu-le caalat teceem duudda, kaadu gaba-tabis, muusika kee tunsiyya meqe assacoot naceenim duudan. Sin migaq aaxige way belkay, sin xalay kee gaba-tabis yaaxigeem takkem duudda."
 sources:
-  - title: "Late-Stage Alzheimer's & Dementia Caregiving"
+  - title: "Gidba Deeroh Alzheimer's kee Kas-Daggot Dacrisiyya"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage"
-  - title: "Care in the Last Stages of Alzheimer's Disease"
+  - title: "Alzheimer's Biakih Ellecabo Deerol Dacrisiyya"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease"
-  - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
+  - title: "Alzheimer's Biakih 3 Kaxxa Deeroorah Assacootoh Abnitte"
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
-  - title: "Activities for dementia"
+  - title: "Kas-daggot abnitte"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
-  - title: "Music / Art Therapy, Alzheimer's & Dementia"
+  - title: "Muusika / Naqsu Assacoot, Alzheimer's kee Kas-Daggo"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/daily-care/art-music"
 relatedGames: [calm-breathing, photo-pairs, conversation-cards]
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Kas-daggoh gidba deerol, num mangum yabiyya maaba, ayro kullen dacrisiyyat cato faxa kaadu ayro mangom firash hinnay kursi amol dabqa. Tonnaah lih abaanam inkih qaxmeqe inna kalak yakkeem duuda. Kulliimik gubat abtot yan. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) baxxaqise innal, numuk nafsi qiddo sugtam duudda, kaadu ta deerol addunya aagartah gubat fayxi-le innal tameete. Muusika, gaba-tabis, yaaxigin xalay kee sin meqe xabba sugeenim koboxxisiyya kee wadbah saaqat baaham duudda.
 
-## What activities help in late-stage dementia?
+## Kas-daggoh gidba deerol manna abnitte cattam duudita?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Xabbaco aagartah abnitte kee ruffu-le lih sugeenim ta deerol kaxxa cato tece. Alzheimer's Association koboxxisiyyah muusika oobbisiyya, kitoobak qaxbaabi tunsiyya, goli suuni-le zeytit gaba maasaj abiyya, kee meqe ayrol cato lih gaceenim fayla hayta. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) elle osissam tunsiyya tunkettoobeem, footoowat yaybuleenim, xabbaco gaba-tabis hinnay maasaj, muusika, xaleela oobbisiyya, kaadu sin xaqut sugeenim inkih ruffu-le caalat takkem baxxaqissa.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) baxxaqise innal, gidba deerol yan mari qidat heebiyya heeyisaanam kaxxa fayxi luk yanin, tonnaah xabbaco aagartah abnitte, xabbaco caxa-dambis, carata siksikisiyya, muusika, laahi wagisiyya, sinnamah gaba-tabis kee naqsu taama fayla hayta.
 
-## Activities for someone in bed or a chair
+## Firash kee kursi amol yan numuh abnitte
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Ken muusika oobbisa.** Qunxaaneytih wakti koboxxisen heeleela, diini heeleela hinnay buxah maroh heeleela doora. Xalay xabbaco gaba kaadu xaqut gacca. Ta saaqat belkay, gari mari gaba kassiisa hinnay heele tunkettooba. [Muusikah abnitte](/activities/music/) wagita.
+2. **Gabat qoxola.** Dubuk gaba qoxoliyya, xabbacuk amol gaba tunkettoobisam, taama kinni. Abtaanam gaba kalak warisa.
+3. **Xabbacuk gaba maasaj aba.** Qunxa zeyti gaba amol kaxxaah gaba-kibirik gabi-baxaaxit tunkuttuba. Suuni-male zeyti, hinnay goli boco bayse waytek koboxxisen suuni doora.
+4. **Caran tankiyya.** Koboxxisen caran dirab, kitoobak meqe qaxbaabo, diini aayoota hinnay ispoorti aytimaya. Yabak gubat sin xalayih nidaa kaxxa tuxxiq-le.
+5. **Kissa warisa.** Buxah maroh safar hinnay digib ayrok yabisa. Gacsa faxam maliino.
+6. **Footoowat yaybula.** Inki kaxxa footo inki wakti intih heerol heebiya kaadu meqe innal warisa. Miyaak yan teetil messerina.
+7. **Xabbaco heebiyya yacca.** Kalalu fota, carata hinnay xabbaco baacoytah heebiyya. NIA baxxaqise innal, num mayyansan wakti fota gabat yaceenim meqe, tonnaah sin hinnay fursa qansarisak gaba dambisaanam kalta.
+8. **Barah xaleela oobbisa.** Raaqi xalay, baddah xalay hinnay haadâ xalay xabbaco ruffu haytam duuda.
+9. **Dawo edde yaybula.** Pardaafa kulla, takkiitak cato haadâ maaca hayya, hinnay caddot xaleelo kee xaleela ubleenimkeh edde baaha.
+10. **Bara gaca.** Num kursi amol gaabeem duudek, meqe ayrol ceeloh gubat xiqtole wakti gaceenim muxxole.
+11. **Tamiira fiirisa hinnay laqo carata yacca.** Xabbaco meqe tamiira-fiirisiyya kee gabaafafah kalalu fota meqe dacrisiyya yaybula.
+12. **Muusikat xabbacuk siksika.** Xabbaco carata lih siksika, hinnay heele lih gaba siksikisiyya. Caxa-dambis kee koboxxi-rubiyyah sahati dacriseyna meqe inna warisam taaxigeenim meqe.
+13. **Naqsu abnitta.** Kaxxa waraqat amol gaba hinnay sponjit koxxa-male koola ruka, sin gaba cattam duudda. Elle kabxa waytam mali.
+14. **Laahi wagisiyya meqem.** Ruffu-le baacoyta firash amol hinnay tunsut heebiyya, num baaco koboxxisaah buxah caalat yacee tektek.
+15. **Lih xabbacuk fayla-rubiyya aba.** Xaqut gaccaah oobbisan innal xabbacuk fayla ruba. [Xabbaco fayla-rubiyya](/games/calm-breathing/) sin nammayih nidaa xabbaco haytam duudda, kaadu isin qimbisaah soltisaanam duudan.
+16. **Dubuk xaqut suga.** Xaqut gaca, heela, carata dambisa hinnay caran kitooba tankiyya. Xaqut sugeenim inkih xiqta.
 
-## How to share an activity at this stage
+## Ta deerol abnitta elle cattam duudan inna
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Fokotuk garaya.** Ken migaq kee sin migaq warisa, kaadu gaba kalak xabbacuk yabisa.
+- **Inki wakti inkiim yacca.** Muusika oobbiisa kalak TV caxa. Inki wakti inki aagarta dubuk aba.
+- **Xiqtole wakti aba.** Qunxa daqiiqooti xiqtam duudda. Kulli ayro qunxixxiixik abaanam inki kaxxa waktiik meqe.
+- **Qimbisaak meqe caalat haysita.** Num meqe innal caxa-luk yaanem wagita. NIA baxxaqise innal, dafeenan wakti gaba kee gongo cattam meqe gabat-lafo haysitaanam meqe.
+- **Ken gacsa wagita.** Ruffu iyye gabiiba, salaamata af-baxa, inti-wagis hinnay xabbaco heele meqe assacoot yaybula. NIA baxxaqise innal, af-makiyya, biak astooti hinnay kaxxa qansarisa biak astooti takkem duuda. Tonnaah sola, kaadu sahati dacriseynah warsa.
 
-## A quick guide by sense
+## Aagartat xabbaco cato garayso
 
-| Sense | Ideas | Take care |
+| Aagarta | Fikraditte | Dacris aba |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Oobbisiyya | Koboxxisiyyah muusika, ku xalay tankiyyit, barah xaleela | Xalay dagoo gaba; inki xalay inki wakti |
+| Gaba-tabis | Gaba maasaj, gaba qoxol, xabbaco carata, kalalu laqoota | Yallabuk edde yaabe; goli boco kalteem wagita |
+| Wagisiyya | Footoowat, xaleelo, takkiitak yabalsiyya, xabbaco barah fiidiyo | Intih heerol heebiyya; meqe noori, deero mali |
+| Sunxissiyya | Koboxxisiyyah zeyti, caddeenti xaleelo, qahwah suuni | Kaxxa suuni xaba; kuxuuxu kee faylat dacrisa |
+| Tamoomiyya | Koboxxisen maacat qunxixxiixik tamoomiyya | Sahati dacriseyna meqe iyye maacah inna dubuk |
 
-## Safety at this stage
+## Ta deerol assacoot kee aman
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Kas-daggoh gidba deerol maaci-tabsam qansarisa takkem duudda, kaadu NIA baxxaqise innal maacat dambiyyah qansarisa yan. Qunxixxiixih tan heebiyya ken garil maxabina, kaadu maaca kee aqo sahati dacriseyna fayla heemih innal dubuk yacca. Gaba-tabis abtan wakti goli xabbacuk wagita, goli dambiyya hinnay qasba kaxxa baytam duudak. Xabbaco aagartah fikraditteh, [aagartah abnitte](/activities/sensory/) wagita.
 
-## Looking after yourself too
+## Isin kassiitiyya kaadu dacrisa
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Gidba deerol dacrisiyya caalatal kee nafsi garil kaxxa gibda, buxal yakkay hinnay dacrisiyyah buxat gaceenim yakkay. Sahat dacriseyna kee cato maroh gari ruffu, cato kee misaagak cattam duudan, kaadu NIA ken catoh baaxo kinnim baxxaqissa. Xiqtole, ruffu-le walalitte meqe tuxxiq le; [kas-daggo luk yan num wagisan gactam](/activities/visiting/) wagita. Isin maroh abtot gaba dambiseeniik, [dacrisiyyah buxah maroh abnitte](/activities/care-home-groups/) abnitteh meqe fikraditte luk tan. Kaadu yallabuk [dacriseynah nafsi dacrisiyya](/caregiving/caregiver-self-care/) tankiyya: ruffu hayteenim meqe dacrisiyyah gaba kinni.

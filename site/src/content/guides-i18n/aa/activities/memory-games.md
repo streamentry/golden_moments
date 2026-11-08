@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Kas Dambir Leh Idalti Marih Digiritte: Mokkoro Aalle Wayta Digir"
+seoTitle: "Kas Dambir Leh Idalti Marih Kassitih Digiritte"
+description: "Kas dambir leh idalti marak digiritte: suwarrat xayyowteh, tabeela fanek gacteeh, galtó aalle kal koboruk digira."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Kas dambir leh idalti marih kassitih digiritte meqennal geytimtam kassit
+  gubal radak mannin waqdi. Suwarrat fayya heeh taabolat xayyowta digiritte
+  digira, konoy kee lici kobox edde gacta, koboruk digira kaadu galtó oggola.
+  Suwarrat yaballu kassitak tayseemiik, suwar maraqita kal taabolal raaqa
+  digiritte doora. Walloita geytam kinni doona, natiijak kal.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Tebqemik tan kassitih digiritte kaarditte qellissa, taamat kas dambir gibdinna abtam mokkora. Tohik mannal suwarrat xayyowtak haba."
+  - "Dago kobox, kaxxa suwarrat kee tiik tiyal doortam digir kaxxam qokolteh taysisem."
+  - "Koboruk digira, qokoluk fan gaca kaadu galtó oggola. Numtinwak garqó aalle waytam faxximta."
+  - "Maysan kassitih digir kas dambir urussam, warrayissam hinnay taqabam matummoowinna. Koboruk elle gactan waqdi taturisan qaxmeqe saacatah doora."
+  - "Digir ruffu yaanamal suge kal takkeemik korta. Suwarrat yabaanam meqe taama."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Kas dambir leh numih meqe kassitih digir iyya kinni?"
+    a: "Kaxxa suwarrat leh tan kee nubleemik xayyowta kobox digir meqeta, hebeltoh Picture pairs konoy hinnay lici kobox edde tan doora. Nuble suwarratak kobox geytam ruffu abta, duma kassit mokkora kal. Find the same kayik tayseh dago, numtin suwarrat nammaak lecet tan dooritak geytam kinni."
+  - q: "Kassitih digiritte kas dambir takkay qoklaa?"
+    a: "Maysan kassitih digir kas dambir urussam, warrayissam hinnay taqabam matummoowinna; Cochrane review qimbissem kombiyuter kas-carbi kas dambir waasankeh xannabaay aalle waytam teyseece. Digiritte fanal koboxuk qaxmeqe waqdi taturisan gital takke. Walloytaa kee koboxuk taturisan saacatah doora."
+  - q: "Kas dambir leh numuk tebqemik tan Concentration digir digirnam meqeemii?"
+    a: "Qimbisô waqdi, marih tu kaat ruffu yanam duuda, dago kaarditte edde tan waqdi tayseh. Kaarditte elle sugte kassitam qarqo bahtaama takkek, kaarditte fayya heeh xayyowsaay namma kobox koboruk doora. Toh kassit mokkor kal kobox taysiselem."
+  - q: "Koboxih idalti marak meqe kassitih digiritte iyya kinni?"
+    a: "Picture bingo qilsiisak ekranat xayyowtam, kassiiteenih yan misliita fayya heeh afak duumusan, kee yabih kaarditte koboxik meqeta. Kaarditte inkih koboxe fan digira, iyyi geyeem aaxiguk seecewaay, numuy caran radeh yan aalle kal."
+  - q: "Idalti marak intarneetil bilee kassitih digiritte tanii?"
+    a: "Yeey. Ta saytil tan digiritte, hebeltoh Picture pairs, Find the same, Photo pairs kee Picture puzzle, bileetah tani, qimbis digir matatrusinna, bilbila, taableet kee kombiyuterat meqennal taamita. Saacatah saacissa heewaan kee galtó aalle kal tan."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+«Idalti marih kassitih digiritte» gital gurumata waqdi, geytimtam maggoom kas-carbi fannit faxa marak ginaanim: qellitte kaarditte, saacatah gicla, darajaaja kee galtótta. Kas dambir leh numuk, tahat tan weeloola digir mokkorok gacta, kaxxam gibdi tekkeemil. Kimbik tan digiritte qaxmeqe gital digiram duudan. Ta afo mannal edde digiran tascubbeesa, kaadu kobox kolkal meqe digiritte tayseece.
 
-## Why do classic memory games frustrate people with dementia?
+## Macah tebqemik tan kassitih digiritte kas dambir leh mara qarqoobahtaa?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Ugusiyyaqus cusub kassis gubat haytam faxximtaamih sabbatah kinni, toh Alzheimer kaxxa sabbatah kas dambir duma baysam kinni. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) iyyaanam, Alzheimer qimbisô cillat kusaaqiyyaquk bariteenim kassitam gibdik takkeemil tan. Tebqemik tan Concentration digirat, namma kaardi gacaassa, elle sugteem kassitta, kaadu daqiqa taturte lakal kaat taamitta. Toh cusub kassis kinni, hayteenih duma kassitan.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Saacata, galtó hinnay makina kalkalta qeebi cakkuk haan waqdi, numuk duudewaytam edde cusussa, koboxuk kaxxam kicina numih foocal. Maggo mari cakkuk digiram haba.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Tubleem geytam baxaabaxsa leeh tayse taama kinni. Namma finjaan foocal suge waqdi nammahayto finjaan xayyowsaanam ruffu hayta. Tohik sabbatah fanti, kobox daabisuk kassitih mokkoro oggoloonum kinni.
 
-## How do you make a memory game gentle?
+## Mannal kassitih digir qaxmeqe abnaa?
 
-These adjustments work for card games, board games and games on a screen.
+Ta tasgaada kaardih digirittel, taabolat digiran digirittel kee ekranal tan digirittel meqennal taamita.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Suwarrat fayya heeh xayyowsa.** Tuble suwarrat kobox geytam ruffu abta digir kinni.
+2. **Dago kobox gacta.** Namma hinnay sidiica koboxuk qimbisa. Taysak tan numuk fanti kak taysek dago kobox edde koboxa.
+3. **Kaxxa, aaxigeeniih tan, idalti marih suwarrat doora.** Finjaan, caduk suwara, dooniyya. Karteen hinnay mangom carayte suwarrat hinna.
+4. **Koboruk digira.** «Kacaniyyo doorenno» iyya, «ku fanti» iyyak manninna. Gacluk xayyowsaay qokla.
+5. **Galtó oggola.** Numtuk yayseem mafaxximta. Num yesserek, «koboxuk duudusne» yaanam duudda.
+6. **Saacatah korsa magicina.** Saacata aalle kal, kaadu saacayti fanat korsah maabina.
+7. **Suwarrat yaba.** «Dooni ubca. Atu bari dooniyat gactee?» Yab kaxxam meqe fanti kinni.
+8. **Meqe xalal korta.** Kobox geyten lakal korta, digir ruffu yaanamat suge kal.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) elle yessecennal ta kas meqennal bahta: taama num duudam gubal hayya hawaay, qarqo ubcaay, ruffu yan gital sugaanam taysisa.
 
-## Gentle memory and matching games to try
+## Qaxmeqe kassit kee kobox digiritteh tamqem
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (suwarrat xayyowtak kobox geytam)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) kaxxa suwarrat leeh 4 ilaa 12 kobox edde tan digir kinni. Suwarrat xayyowtak raaqa, tohik sabbatah kobox geytaanama, elle sugteem kassitak kal. Fereey koboxuk qimbisa. Qimbisô cillat kaxxa caagid fanta marak, **Hidden pictures** fan koraanama, kinnih immay ruffu wayte waqdi suwar xayyowsiyyah gaca.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) foocat tii suwaraay gubat nammaak fereey fan doorit tascubbeesa. Tellemmowtam xayyowsa. Saytit tan tayseh xabcin kobox digir kinni, mangom caraytem xalise wayta marak meqeta, fanih cillat yan marak garik num edde suge waqdi meqeta.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (buxah suwarratah kassitih digir)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) atu doorte suwarrat kobox digir fan korsa: kuta, caale, baarih buxa. Aaxigeenih tan foocaaca kee araca maggoom yab duma baha. Suwarrat ku browserit raaqtaay fanah ma-ugsaana.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) ummaan suwara elle gacta leddat haytaanam faxa, hebeltoh kusina hinnay caale. Buxah taama addunyah taamat sugte kassis gubal raqta, cusub kassit gubal hinna.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) tii suwara 4 hinnay 9 caxootat xabbaaza. Namma caxootat gacaassa suwar inki num takke fan. Suwar ekraanat raaqa meqe gital tascubbeesuuh.
 
-### Real cards on the table
+### Taabolal tan cakkih kaarditte
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ekraan mafaxximta. Namma kaardih darajat kobox gactam hebeele kaardi suwarrat koboxuk baaha. Namma koboxuk taabolal fayya heeh xayyowsaay kobox koboruk doora. Lakal, kooraay qidat baxaabaxsa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) qimbisô cillat kaardi kee taabolah digir meqeemik tascubbeesa.
 
-## Which memory games suit each stage?
+## Iyya kassitih digiritte cillat takke?
 
-Stages are loose labels. Go by what the person enjoys today.
+Cilloota gititte kinni. Num asaaku elle ruffu yanam doora.
 
-| Stage | Games that often fit | How to set them up |
+| Cilla | Digiritte elle gactam | Mannal ginnaasitan |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Qimbisa | Picture pairs, Photo pairs, Picture puzzle 9 caxootat leh, aaxigeeniih tan kaardi digir | Yisheenik doora. Ruffu yanam duudanik kobox gacaassan; galtó garqo bahtek haba |
+| Fantaama | Picture pairs 4 ilaa 6 kobox fayya heeh xayyowta, Find the same, Sort together | Suwarrat ummaan waqdi xayyowta. Garil koraay koboruk fan gaca |
+| Dumiisa | Find the same 2 dooritat leh, inki kaxxa suwara koboruk ubcaanam | Kaxxam dagoo waqdi. Taableet atu biyyita; usun xayyowsaana, hinnay ubcaanaay ankacisaana |
 
-## Do memory games help with dementia?
+## Kassitih digiritte kas dambir qoklaa?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Maysan kassitih digir kas dambir urussam, warrayissam hinnay taqabam matummoowinna. [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) kombiyuter kas-carbi kas dambir waasankeh xannabaay aalle waytam teyseece. Ni gita [brain games and dementia](/brain-health/brain-games/) taama macah edde tanoom tascubbeesa.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Toh digiritte habaanamih sababa hinna. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ruffu yaanam doora, natiijat kal. Tabankeyti daqiqa suwarrat koboxuk kaat yabti saacatah meqe fanti kinni.
 
-## What about memory games for seniors without dementia?
+## Kas dambir aalle wayta idalti marih kassitih digirittee?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Kassitih taqabi aalle wayta idalti num saacatah digir, galtó kee gibdi darajaat digiram kicinek, tohat gibdaabina mayana. Kas dambir waasaanamak kaat mataaminoonum kinni; may digir matummoowinna. Fayya heeh tan qaxmeqe gital koboxuk digirtaanama: kas dambir leh kaxxa abbak kee caxbaaki suwarrat koboruk kobox geyan, numtuh mokkor aalle kal.
 
-## When should you stop or change the game?
+## Waqdi mannal digir korta hinnay korsa haanam faxximtaa?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Qeebissa waqdi, taableet derre cabsiyya haan waqdi, «tah ma-abiyyo» iyyak hinnay anqasa geyan waqdi taysisaay korta. Dago kobox hawa, suwarrat fayya heeh xayyowsa, [Find the same](/games/find-the-same/) fan kora, hinnay suwar ubaacaay yaba. Digiram makicinan takkek, toh meqeta. Ni gita [how to play together](/caregiving/how-to-play-together/) saaca taysisiyyaay qokolul maggo kassis le.

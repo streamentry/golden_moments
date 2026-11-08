@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Kas Dooqaysiyya Luk Yan Labhah Taamoomi"
+seoTitle: "Kas Dooqaysiyya Luk Yan Labhah Taamoomi: Caglitte"
+description: "Kas dooqaysiyya luk yan labhah taamoomik yaaba, warrayte taama kee maqaaneetak yawqe qokol, dacrisiyyah gersi yaabitte liyo."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Kas dooqaysiyya luk yan numuh meqe taamoomi isi manok temeeteh tanim kinni:
+  abbinoowak suge taama, kicnih suge fayxitte kee kulli saaku abak suge gersi
+  caalat. Maktabat taamittak suge num warqoota culusiyya kicnoh duuda,
+  makiina bicisak suge num qunxaaneytitte saytunnoonuh geytiisaah kicnoh duuda,
+  kubbat kicnoonu le num gersi kulmi wagitaah kacanoh duuda. Labhah fayxitte
+  baxsaaleh tanikkina, labnumuk akke kal numuk tibbixa.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Tamaa numuk isi manok tibbixay: taama, kicnih sugeem, kulli saaku gersi abina kee isi koh leemik aamineh sugeem."
+  - "Tu gactek tan taamoomi, qunxaaneytitte baxsiyya, makiina xaxaysiyya hinnay qasbi saytunnoysiyya innaanim, baritto koboxik aysuk temeeteh taniyyo duuda."
+  - "Kulli labnum qunxaaneytitte hinnay kubba mikicna. Maggo mari alaaqa, muuziiqa, coox abina, fannu hinnay mara qokoliyya kicna. Essera, wagitaay kay mirocluk gexa."
+  - "Taamak gacta taamoomi qarixiino le qunxaaneytitte kalaluuk kee wagittaamal ammaanisaay, kay dudda gactamal sasayyoysa."
+  - "Malee iyyim duddumta. Taama kay xaqut bicisaay qunxaaneytih maacisina, aka saaku gersi doolat abisa."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Kas dooqaysiyya luk yan labha anniimik taamoomi kicnaa?"
+    a: "Inki digir maxco mintiqo, labhah fayxitte kulli numuk baxsaaleh tanikkina. Meqe tibbix amolladi kay warrayte taama luk gacta taama kinni, warqoota culusiyya hinnay buuruk qunxaaneytitte baxsiyya innaanim, hinnay kallu baxaabaxiyya, makiina, muuziiqa, alaaqa hinnay kubbat kicnoh sugeem. Isi nafsik abba heem wagitaay tet amol tibbixa."
+  - q: "Yimba koboxih taamoomi diraaba. Maca abam daxaa?"
+    a: "Maggo mari, labha kee sayyo tikkiyyiik, koboxik baritto celtam hinnay qaxmeenti innaanam diraaba. Qokolih taama kay xaqut bicisaay aba: 'Taam baxsiyyat yoo qokolu ditta?' Qunxix kobox hinnay inki numuk inki numuh suge saaku koboxuk aysuk tanik duddam le."
+  - q: "Qunxaaneytitte ceytiisaamal ammaan leemii?"
+    a: "Dacrisiyya luk kee ammaan le qunxaaneytittel calli kinni. Qarix le qeedaat, sayfeelle kee qarix leem kalisaay, qasbi fule saytunnoysiyya, saytun qunxaaneytitte baxsiyya, hinnay naba buurut gaba luk culusiyya yeceenim bicisa. Alzheimer's Association workshopuk qarixiino leem kalisaanam meqe iyye, tonnaah qasbi saytunnoysiyya ammaanluk abam duudan."
+  - q: "Usuk kaxxa taama abak suge. Sasay taamoomi kay qaxmeenti celtaa?"
+    a: "Baxaabaxah tan taama celtam takkek too maaqatta abam duuda. Taama nummah tan qokolih xaqut bicisaay, naba marak masooma ceytiisaay, kay taamat gacta taama dooray, kobox culusiyya, warqoota bicisiyya hinnay poostah warqata koboxiyya innaanim. Usuk tu celtaam duddah sugek, tatrusluk tan taama kay qaxmeenti kalak duddam le."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Mari maggo waqdi "kas dooqaysiyya luk yan labhah taamoomi" gurrusan, maxco kulli waqdi yaceen maxco kaxxa numuk manoh xiqtam ma-abta. Too yaaba cakkik yani. Kulli labnumuh "labnumuk taama" yaceen gersi maxco mintiqo. Meqe tibbix kaak tibbixaamal yani: usuk manot maca abak sugee, sabtik maca abak sugee, kay nafsih tu gactaamal maca tetteekkay. Kicnaane kulli numuk baxsaaleh tani. Maggo labhi alaaqa, baaxo bicisiyya, fannu kee gabbaaqo kicna, tonnaah maggo sayyo makiina kee kubba kicna.
 
-## How do I find activities he will actually enjoy?
+## Usuk nummah kacanoh duuda taamoomi mannal geyoo?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Kay mano warraytek tibbix. Alzheimer's Association iyyamal, [saakuh bica](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) numuk kicnaane, dirona, dudda kee kay saakuh manoh caddol bicisaanam faxximta. Isi nafsi essera:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Kay taama maca tekkeh sugtee?** Maktabat, qari-aracal, warshat, gacso, kaskaso, fidinnoysiyya, baritto, makiina xayyoyso, qari adda?
+- **Faaxa saaku maca abak sugee?** Kallu baxaabaxiyya, kaarta, qasbi taama, kubba, salaata/kilisia, muuziiqa, alaaqa, makiina bicisiyya?
+- **Kay kulli saaku caalat maca tekkeh sugtee?** Saaku bun kee gaazeeta akriyo? Ayro caalat wagita? Sabti saaku makiina xaxaysiyya?
+- **Usuk isi gabat maca abba heem leeh?** Association tascasseemil num tu essera kal taama abba heek, buro saytunnoysiyya innaanim, too taamoomi kulli saaku bical gactam duddam le.
+- **Maca kalisaah xabaa?** Gersi mari kubba wagitta kicna; gersi mara tookah ceyya kee sonko yaaxige. Usuk farcac leem, meesi leem hinnay jibis leem wagita.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Buxah mara kee caglitte katuk yaaba. Kulli saaku manot baaxuk suge kicnaane kassiisiyya duddan.
 
-## Activity ideas based on past work
+## Warrayte taamat tibbixte taamoomik yaabitte
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association baxxaqqa le kassiisi yecee: maktabat taamittak suge num warqoota koboxiyya, saara saanduqul culusiyya hinnay kobox bicisiyya kicnoh duuda, coox bicisak suge num baaxol taamitaah kicnoh duuda. Tamaa yaaba maggo taamah gacta.
 
-| Past work | Activity ideas | Simpler version |
+| Warrayte taama | Taamoomik yaabitte | Sasayte caalat |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Maktabat hinnay bayaan | Warqoota faaylil culusiyya, poosta tabbaqisa, liis wagita, teereej bicisa | Poosta amol hayya; warqatih kiliip saanduqul culusiyya |
+| Gacso hinnay makiina | Saytun buur kee qunxaaneytitte baxsiyya; naba buurut gaba luk culusiyya; kitaaba wagita | Qunxa nabaanot namma kuubul baxsiyya |
+| Coox hinnay baaxo | Lee culusiyya, mixiigo culusiyya, coox xabaqo koboxiyya, baaxo wagita | Buxah foocil daffeyak atu taamituk wagita; mixiigoh saanduq ibbixa |
+| Kaskaso | Korbac saytunnooysiyya, teereej bicisa, kaskasoh suurat wagita usuk kican tektek | Too wakti muuziiqa anqasitak daffeya |
+| Fidinnoysiyya hinnay kobox | Mara salaamisa, qunxix maaqo yacee, kuuboon culusiyya | Qari aracal daffeyak salaamisa |
+| Baritto | Naba xagol akriyo, kitaabitte bicisa, suurat baxsiyya | Suurat le kitaaba akah wagita |
+| Makiina xayyoyso | Kaarta wagita hinnay makiinah kitaaba wagita, makiina xaxaysiyya | Qari foocik makiinitte tatruk wagita |
+| Qari kee buxa | Sara koboxiyya, maaqoh sufra bicisa, alaaqa qokola | Mandiil fula; maaqo liqisa |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Gersi kassiisitte, kaskasoh innaanam, naba garab yacen duudan. Kay mirocluk gexa, warraytemik meqe yaaba abaay, kay roohat ceyya tektek yaaba dadduk wadirra.
 
-## Activity ideas based on hobbies
+## Fayxiitak tibbixte taamoomik yaabitte
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Qasbi taama.** Qasbi fule saytunnoysiyya hinnay qunxix gari qasba saytunnoysiyya. Alzheimer's Association qarixiino leem kee qunxaaneytitte workshopuk kalisaanam meqe iyye, tonnaah taama ammaanluk abam duudan.
+2. **Kallu baxaabaxiyya.** Kalluh sanduuqa sayfeelle kalak baxsiyya, kalluh kitaabitte wagita, hinnay lee xaqut daffeya.
+3. **Makiinitte.** Makiina xaxaysiyya, makiina saytunnoysiyya, duma makiinah suurat wagita, hinnay rakiibih makiinat gexa.
+4. **Kubbat.** Duma kulmi wagita, salfa kubba baaxol ceya, hinnay kubbah kaarta baxsiyya.
+5. **Kaarta kee digir.** Eetih kaarta digiriyya, doomiino, hinnay suurat geyiyyah kaarta wadirroysa. Farha luk abaay num tiiro ma-aba.
+6. **Muuziiqa.** Kay qunxaaneytot suge heewooma, kay kicna muuziiqa. Nanu nel tan [muuziiqah taamoomi maybalaalaqa](/activities/music/) wagita.
+7. **Alaaqa kee ciro.** Ciro saytunnoysiyya, sugo liqisa, ciro fula, hinnay usuk mannal alaaqak sugeemik koo warisay atu abak.
+8. **Gaazeeta.** Alzheimer's Association iyyamal, kulli saaku gaazeeta akriyik suge num kacanoh duuda, elle duddam mayanak kaadu. Saakuh bun kee gaazeeta saaku manot sugan duudan.
+9. **Taama bicisiyya.** Naba masooma le qunxix caglitte bicisiyya. Qunxa gaba luk tabbaxu duddan doora.
+10. **Qaxwenta dacrisiyya.** Qaxwenta maaqo yacee, cimbir lee yacee, hinnay coox lee culusiyya. NIA iyyamal [qaxwenta dacrisiyya, saytunnoysiyya hinnay gaxisiyya](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mari kicna taamoomit gacta.
 
-## How do I offer an activity without it feeling like busywork?
+## Mannal taama akah yeceenik qaxmeenti celtam kalisoo?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Nummah tan qokolih xaqut bicisa. Alzheimer's Association iyyamal "Yoo qokolu ditta?" iyyaanam meqe, taama tu gactamal culusak. Wagita:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "Ta buur baxsiyya faxtaa?" (imticaan celta)
+- "Anu namma baxsale qunxaaneytitte yemeeteh liyooh teeti baxsiyya faxo ta shelf bicisak fooca. Gaba luk yoo qokolu ditta?" (taama celta)
 
-Other tips:
+Gersi yaabitte:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Naba marak masooma ceytiisa.** Nummah tan qunxaaneytitte qarix leem kalak, nummah tan kitaabitte, nummah tan poostitte.
+- **Xaqut taamita.** Namma num inki taamal taamitam kobox kinni. Inki num aka num wagitam dacrisiyya kinni.
+- **Mabaabisin.** Buur garci kuubul rooqak, tonnaah kaak caba. Faxxiimeem inki xaqut suge saaku kee kay nafsi meqem kinni.
+- **Usuk tibbixu qokola.** Alzheimer's Association tascasseemil maggo mara taama abina kicnaan luk teeti bicisiyya kee tibbixiyya daggookana. Uguugub inki xaqut aba.
 
-## How do I adapt as things change?
+## Caalat korak gexak mannal bicisoo?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Kas dooqaysiyya korak gexak, Alzheimer's Association sasayte, gaggab le taamoomi yaceenim kee num qunxa qokol luk yaabam duuda. Dumal makiina motor bicisak suge num aakeen saytun qunxaaneytitte ibbixak makiinik yaaba, hinnay koo wagita. Koo wagitam kaadu kobox kinni.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Usuk tu taamitol naba dudda luk sugek, gersi taamat gactam kay duma taamak aysuk temeeteh taniyyo duuda. Association tascasseemil kaxxa fannu le num isi fannul korak gexak jibis geyam duuda, gersi numuk aysuk tanik. Qasbi taamittuh kaadu toominna kinni.
 
-## Safety with work-style tasks
+## Taamah caddol ammaan
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Koorik taamita qunxaaneytitte, sayfeelle, buur kee qarix le buur kalisa.
+- Koola, gaas kee sammi kobox saanduqul cula.
+- Makiina ma-xayyoysek kay makiinah furraytu cula.
+- Workshop kee buxah foocih taamoomi wagitta luk aba.
+- Naba masooma doora num culusu ma-dudda.
 
-## What if he says no?
+## Usuk malee iyyeek maca aboo?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Cakkol ooba. Malee iyyim taama kaak kaxxa gibda celtam, qunxa numuk celtam hinnay asaaku kay saaku hinnaanam axcelem duuda. Alzheimer's Association qasbih taama abam male iyye. Gersi taama, gersi saaku, hinnay inki xaqut daffeyat aba. [Usuk malee iyyeek maca aboo](/caregiving/when-they-say-no/) wagita.
 
-## Games and conversation that fit
+## Digir kee yaaba elle gacta
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) warrayte yaabitte ceytiisaah koboxul koo culusak tan. [Conversation Cards](/games/conversation-cards/) imticaan maleh yaabitte leeh, taama kee kicnaanet kassiisi yacen duudan. [Picture Puzzle](/games/picture-puzzle/) suurat kullim tascasse koo qunxix masooma gaxisak, tonnaah [Word Search](/games/word-search/) warqatal tabbaqisaay sufra amol qalamluk abam duudan. Kay warraytemik imticaan maleh yaaban caalatah, nel tan [warrayte kassiisiyyah maybalaalaqa](/activities/reminiscence/) wagita.

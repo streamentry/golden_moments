@@ -1,43 +1,44 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Kas-Laho Luk Yan Marah Muuziqaa Abtoota"
+seoTitle: "Kas-Lahoh Muuziqaa Abtoota: Dooriyootaa kee Yaada"
+description: "Kas-laho luk yan numuh muuziqaa axaguguk tabsu; isi dooran muuziqaa ginnaan, 15 xabcin abtoota kee kulli udduruh tuxxiqooxik baxxaqisa."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Muuziqaa kas-laho luk yan numu luk tibbixeeh abtan abtootak ixxicah taniinik
+  tiya kinni. Kaadu usun yangalen uddur, din kee buxah maabarah raagittek usun
+  kicnoonu sugeenimih dooqaysit dooriyoo xisa, duma afceela kee kaxxa xaagak
+  kallacuk usun fanah oobisa; qangoowa, gaba kuula, heeleela hinnay usun luk
+  ankacisa. Udduruh giclo luk yaabara hinnay xiqinno luk tan muuziqaa doora,
+  xooqol xabbicowtuh dacrisa, numuk rooce maqarisa teetik sugtek kaadu xabbacisa.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Isi dooran muuziqaa meqe garci heela: xalay uddur kicnoonu sugen cayna, kaadu diinik, aada kee buxah maabarittek tan heela."
+  - "Inki adda inki heela oobisa, duma afceela akkek TV kobox alifa."
+  - "Qangowiyya, gaba kuula, heeleeliyya kee cagalah ankacisiyya kullum tookome waynooma kinni."
+  - "Xabbice muuziqaa ruffoh kaadu xiqinno le heela afah oobise kaadu num elle gactam wagita."
+  - "Xissimtem le muuziqaa korosih geytimte dooqaysit boolale caddol tani; nanu muuziqaa qumrih meqe caalat axaguguh xayyownuk maysoosa hinnay urus akke waytam naaxige."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Kas-laho luk yan numuh maayannu le muuziqaa ixxica?"
+    a: "Numuk meqe gexsit luk digiruk sugen heela, mangiddah xalay kee mayso cayna, diinik tan heela, aada kee buxah maabarittek tan heela kinni. Xiqtek usun isinni cubbussuh xabbacisa. Fooca kee yangalen caalat wagita usun elle ruffootan heela aaxiguh, kaadu rooce kah maqarisaanim cina."
+  - q: "Ayti fayliila (hedfoon) xiqeenaa?"
+    a: "Tolos ayti fayliila kicnoonu kaxxa xaaga kaltamih sabatah, garih garu kaadu xagarah ciyyo hinnay kas-duuma kah tekkemih sabatah cinaana. Qimbot spiker luk axagugak ankacisa. Fayliila xerisseenik, xooqol xabbicowtu heya kaadu xayyol suga."
+  - q: "Muuziqaa kas-boco kee rooce maqarak num qokolaa?"
+    a: "Xabbiceeh ixxicah tan heela assacootu le caalat heya, Alzheimer's Association kaadu muuziqaa fayxitan caalat heynamih xiqto axagugte. Kulli adda taturtam maaqiqta. Numuk rooce maqarite tektek, biyaak, xaloot, kaxxa xaaga hinnay daacur wagita."
+  - q: "Xaloot caddol yan kas-laho luk yan mari muuziqaa ruffot geyaanam duudan?"
+    a: "Mangi mari xiqtam duudan. Alzheimer's Association waristeennal xaloot caddol yan numuk qunxaane heela ankacisak gaba koolisan hinnay afak qangoowam duudan. Xayyol kora, xabbicuk muuziqaa oobisa, gaba tibbixa hinnay inkit heeleela."
 sources:
-  - title: "Music / Art Therapy, Alzheimer's & Dementia"
+  - title: "Muuziqaa / Faani Qokolto, Alzheimer's kee Kas-Laho"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/daily-care/art-music"
-  - title: "Does music-based therapy help people with dementia?"
+  - title: "Muuziqat xissimte qokolto kas-laho luk yan marat xiqto lii?"
     publisher: "Cochrane"
     url: "https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia"
-  - title: "Adapting Activities for People With Alzheimer's Disease"
+  - title: "Alzheimer's Dool luk yan Marah Abtoota Ceeleena Abiyya"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease"
-  - title: "Activities for dementia"
+  - title: "Kas-lahoh abtoota"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [finish-the-saying, calm-breathing, conversation-cards]
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Muuziqaa kas-laho luk yan numu luk axagugto abtaanimih garcik tiya kinni. Kaadu tu essertam male: cakki gacsa, catooti kataata mali. Ixxicah tan heela musqunxiyya, ibak gaba-kuula hinnay yaab kak ciyyo wayta ayrol xabbice qangoowiyya bahta. Isin caddol faxxaanaah celtaam meqe heela numuh xayyowsaanam kee deqsita uddur xissak oobisaanam kinni.
 
-## What music activities work for people with dementia?
+## Kas-laho luk yan marah manna le muuziqaa abtoota taamitaa?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Ankacisiyya, qangowiyya, gaba-kuula, heeleeliyya kee muuziqat yaaba meqennal taamita. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) muuziqaa oobisaanam, heela kee fannaanit yaabaanam, ixxicah tan heelat koofto hinnay heeleelaanam, kaadu aracal aban muuziqaa maabarit gexaah ankacisaanam ceelem yaabak warise. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) kassiisak gaba-kuula hinnay heeleeliyya le ruffo korisaanam, kaadu yaabi ciyyo tekke uddur muuziqaa fanteena luk xiqtam xayyowte.
 
-## How do you build a personal playlist?
+## Isi dooran muuziqaa mannal ginnaan?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Abtan tuxxiq le tiya a numuh tuxxiq le muuziqaa dooqaysit xisiyya kinni. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) kaadu numuh tuxxiq le muuziqaa celtaam warisse. Ah xabbicuh xisaanih dooqaysit kinni.
 
-### Start with their life
+### Usun manok qimbisa
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Xalay kee mayso cayna.** Usun xalay sugen uddur raadiyool, kooraal kee filmit sugeenim cubbusa.
+- **Kaxxa maabaritte.** Arooca, qimbot heeleela, buxa-luk gexaanal kicnoonu sugen muuziqaa.
+- **Diin kee aada.** Diin heela, fayla, quddus heela, hinnay qimbot afak tan heela.
+- **Taama kee xisne.** Koose heela, taamah heela, hinnay qasbi uddur luk tan heelitte.
+- **Buxah mari kassiisam.** Tooboko, xaylo kee duma kacanitte essera usun kulli uddur oobisaak sugen heela aaxiguh.
 
-### Think in genres, not just songs
+### Caynat cubbusa, cagalah inki heelak xabbicak
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Qimmol aaxigo wayteenik, ahak kulli tiyak tuttuq xabbacisaah yangaleenim wagita: kaxxa baand kee swing, doo-wop, Motown kee soul, doomi rock and roll, country kee western, bluegrass, gospel kee diin heela, Broadway fooca, jazz standards, Latin heela hebeltoh boleros hinnay mariachi, polka, aada kee classical. Musqunxiyya hinnay ibak kuula bahtaam dacrisa; rooce maqarisaam kaltisa.
 
-### Make it easy to play
+### Oobisuh xabbicowta abisa
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Duma afceela mali.** Alzheimer's Association duma afceela kas-duuma bahissaam xayyowte. Gadih oobisen muuziqaa, CD, rasiid hinnay duma afceela maleh qokolto luk abisa.
+- **Inki xabbic qidda.** Inki kaxxa kuray luk tan spiker, hinnay dooriyoo xissimteh sugteh, kulli num qimbisam xiqtu.
+- **Nammay gabaacis dooriyoo.** Xabbice dooriyoo assacootuh kaadu xiqinno le dooriyoo rooce korissuh.
+- **Asta hayya.** Numuk migaq kee "kicna heela" qidda elle cokka, gexa buxah mari kee taamursaan mari kaadu oobisam duuduh.
 
-## 15 music activities to try
+## 15 muuziqaa abtoota ceeleena
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Inkit ankacisa.** Fanteena luk garih tu luk abekkal daffeyak ankacisa. Ankacisiyya isi doolat timmirkicite abto kinni.
+2. **Qangowiyya.** Isin qimbisa. Af-siraara hinnay arraba maysuk yaabaanam xiqtam.
+3. **Gaba-kuula hinnay ib-kuula.** Gulub kee gaba kuula, xanxur heya, hinnay qunxa gaba-dibir kee shaker xiqeena.
+4. **Xabbicuk heeleela.** Gaba tibbixak kuxsinul heeleela, hinnay daffeyak gaba inkit yikcineenim.
+5. **Sharfah heeleela.** Sharfa muuziqaa waydo luk oobisak yifficisan, suulak hinnay daffeyak.
+6. **Muuziqat yaaba.** Essera, kassiisaanamit maxisina: "Aha koora araca celta. Koora kassiisa." Maysoosak "A heela kassiittaa?" maicina.
+7. **Timmirkicite album oobisa.** Kicna rasiid qimbok gaba fanah bun luk oobisa.
+8. **Album fooca wagita.** Dumi rasiid fooci saraara, baabura kee maro kassiisuh meqe.
+9. **Filmit tan muuziqaa wagita.** Dumi uddur filmit tan muuziqaa bar meqe gexsit hayta. Xabbice deqsita haysitak gexa.
+10. **Aaxigen muuziqaa qidda qanxisa.** Pyaano hinnay gitaar qanxisaak suge mari xabcin qanxoxik ruffo geyaanam duudan. Sarrah, tuttuq qidda inkit qanxisaanam duudda.
+11. **Taama uddur muuziqaa.** Kicna heela sara tabsaanam kee maaqidi xisaanam luk oobisa.
+12. **Mawqah saaku heela.** Kulli saaku inki ruffo le heelat qimbisa taamah gexsit luk.
+13. **Diin heela qangowiyya.** Diin heela oobisaah inkit qangoowa.
+14. **Qangowiyya maabarit tookoma.** NHS qangowiyya maabaritta meqe rooce kee qaafiyat bahissaam warisse. Kas-laho luk yan marah xayyo le choirs essera.
+15. **Diidi muuziqaa gexa.** Aracal aban qunxa muuziqaa hinnay baraxat aban baand. Mawqah xayyol daffeyaah faxxan uddur kataata.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Af-digir abtoota xabbicuh ixxicah tan maxcooca luk ceeleenik, wagita [finish the saying](/games/finish-the-saying/), elle kulli uddur gaba kalto tasgullu duuddaanah.
 
-## Matching music to the moment
+## Uddur kee muuziqaa giclo hayya
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association muuziqaa fayxitan rooce ginuh taamursaanam xayyoysetta: xabbice muuziqaa assacootuh, kaadu xalay uddur kicna heela rooce korissuh.
 
-| Moment | Try | Tip |
+| Uddur | Ceeleena | Tuxxiq |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Ugut | Ixxicah tan ruffo heela | Kulli saaku inki heela xabbicuk asta tekkem |
+| Taamooma | Xiqinno le kicna heela | Muuziqaa taama catoota elle abtam |
+| Maaqidi | Xabbice qanxo muuziqaa | Xooqol xabbicowta heya maaqat carfa kalekkal |
+| Kaxxa carra | Xabbice, ixxicah tan heela diifu le aracal | Wagita [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Dhiinik uddur | Xabbice, sasla muuziqaa | Xooqol kee diifu inkit wadirisa |
+| Xaloot caddol | Kicno le heela, kaxxa saslak | Xayyol koraah gaba tibbixa |
 
-## Tips for a good experience
+## Meqe gexsitih tuxxiqooxa
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Garih kaxxa xaaga alifa.** Alzheimer's Association taaqoota, daabaaba alifaah TV xabbacisa axagugte, muuziqaa inki xaaga akku.
+- **Xooqol xabbicowtuh dacrisa.** Muuziqaa celtaam akku wayta kaadu kaxxa xaaga mali. Num ayti qokolto luk sugtek, elle taamitaam wagita; wagita [hearing](/brain-health/hearing/).
+- **Rooce maqarisaam wagita.** Garih heela maqar, olbo hinnay bayti kassiissa. Heela numuk rooce maqarisse tektek, qokolaah heela korsisa.
+- **Usun qimbisoonuh xabbacisa.** Xiqtek, a numuh dooraanam xabbacisa, cinoonuk kaadu oggola.
+- **Faxxan uddur xabbacisa.** Konoy daqiqa muuziqaa meqe abto kinni. Xabbacisaah assacootuk daffeyaanam kaadu celta.
 
-## What does the research say about music and dementia?
+## Dooqaysit muuziqaa kee kas-lahot maanna iyyeeh?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Geytimte qokolto boolale caddol tani. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) xissimteh tan 30 dooqaysit wagitte, mangiddah buxaxi kaxxa buxaxil maabar luk abte. Teetit geytimtem a dooqaysit rooce maqar xabbicuk oobissuh celta axagugte, kinnih immay kas-booqeyya, qaafiyat hinnay kas kee kassiisit tammil le xiqto ma-goyna, kaadu abto gaba kaltek sarrah tan xiqto matan.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Nanu muuziqaa axagugnam usun xabbice, assacootu le uddur inkit dabartuh kinni, maysoosak urus caalat hinnay. Maabarit taamursaanam ceeleenik, wagita [care home group activities](/activities/care-home-groups/); suwarrat kee xaagut muuziqaa taamursaanam wagita [reminiscence activities](/activities/reminiscence/).
