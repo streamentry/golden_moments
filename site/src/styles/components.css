@@ -667,6 +667,14 @@
   font-weight: 700;
   cursor: pointer;
 }
+.toc summary:hover {
+  color: var(--gm-primary);
+}
+.toc summary:focus-visible {
+  outline: 3px solid var(--gm-primary);
+  outline-offset: 4px;
+  border-radius: var(--radius-sm);
+}
 .toc ol {
   margin: var(--space-sm) 0 0;
   padding-inline-start: 1.4em;
@@ -694,6 +702,13 @@
   font-weight: 700;
   cursor: pointer;
   list-style: none;
+}
+.faq summary:hover {
+  color: var(--gm-primary);
+}
+.faq summary:hover::after {
+  background: var(--gm-primary-container);
+  color: var(--gm-on-primary-container);
 }
 .faq summary:focus-visible {
   outline: 3px solid var(--gm-primary);
@@ -886,6 +901,8 @@
   }
   .answer,
   .aside-box,
+  .sources,
+  .sources li,
   tr,
   blockquote,
   .faq details,
@@ -1060,6 +1077,41 @@ summary {
   }
   .toc {
     border: 2px solid #000000;
+  }
+  .toc summary:hover {
+    color: #000000;
+    text-decoration: underline;
+  }
+  .toc summary:focus-visible {
+    outline: 4px solid #000000;
+    outline-offset: 4px;
+  }
+  .toc ol a {
+    color: #000000;
+    text-decoration: underline;
+  }
+  .faq summary:hover {
+    color: #000000;
+    text-decoration: underline;
+  }
+  .faq summary:hover::after {
+    background: #000000;
+    color: #FFFFFF;
+  }
+  .sources .publisher {
+    color: #000000;
+  }
+  .sources a {
+    color: #000000;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+  }
+  .sources a:hover {
+    text-decoration-thickness: 3px;
+  }
+  .sources a:focus-visible {
+    outline: 3px solid #000000;
+    outline-offset: 2px;
   }
   .prose blockquote {
     border-inline-start: 4px solid #000000;
@@ -1274,6 +1326,33 @@ summary {
   }
   .toc {
     border: 2px solid CanvasText;
+  }
+  .toc summary:hover {
+    color: Highlight;
+  }
+  .toc summary:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 4px;
+  }
+  .toc ol a {
+    color: LinkText;
+  }
+  .faq summary:hover {
+    color: Highlight;
+  }
+  .faq summary:hover::after {
+    background: Highlight;
+    color: HighlightText;
+  }
+  .sources .publisher {
+    color: CanvasText;
+  }
+  .sources a {
+    color: LinkText;
+  }
+  .sources a:focus-visible {
+    outline: 3px solid Highlight;
+    outline-offset: 2px;
   }
   .prose blockquote {
     border-inline-start: 4px solid Highlight;

@@ -37,7 +37,11 @@ const picks = ['picture-pairs', 'find-the-same', 'finish-the-saying', 'picture-p
 </PageLayout>
 
 <script>
-  document.getElementById('print-handout')?.addEventListener('click', () => window.print());
+  import { sounds } from '../games/shared/sound';
+  document.getElementById('print-handout')?.addEventListener('click', () => {
+    sounds.tap();
+    window.print();
+  });
 </script>
 
 <style>
@@ -49,5 +53,16 @@ const picks = ['picture-pairs', 'find-the-same', 'finish-the-saying', 'picture-p
     font-size: var(--text-h2);
     font-weight: 700;
     color: var(--gm-on-surface);
+  }
+  @media (prefers-contrast: more) {
+    .handout-url {
+      color: #000000;
+      font-weight: 800;
+    }
+  }
+  @media (forced-colors: active) {
+    .handout-url {
+      color: CanvasText;
+    }
   }
 </style>
