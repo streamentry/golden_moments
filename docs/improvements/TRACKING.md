@@ -55,5 +55,5 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 39 | Loop run 2026-11-08 (research pass) | Checked, no code change. Candidates and two maintainer decisions are in [loop-2026-11-08.md](loop-2026-11-08.md) |
+| 39 | Loop run 2026-11-08 (research pass) and follow-up 2026-11-09 | Research pass: no code change, candidates and two decisions in [loop-2026-11-08.md](loop-2026-11-08.md). Follow-up: accessibility statement now lists the header text-size and contrast controls and the 6.3 to 1 default gold contrast (English only). See the follow-up section there |
 | 40–100 | Planned one by one | Pending |
