@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Fina'nu'i na Señåt gi Demensia yan Ngai'an para un Bisita i Doktu"
+seoTitle: "Fina'nu'i na Señåt gi Demensia yan Ngai'an para un Bisita i Doktu"
+description: "Komun na fina'nu'i na señåt gi demensia, taimanu manmadediferensia ginen i amko', na'kåo ni siña ma'amenda, yan taimanu para un prepåra para i bisita."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Inmaleffa ni ha distotba i kada ha'åni na lina'la', chinatsaga gi abituåt na che'cho', chinaleklek
+  put håfa na ora pat lugåt, yan tinilaika gi sentimentu pat disision siña fina'nu'i na señåt gi
+  demensia. Meggai na otro na kondision, tånto komo problema gi tiroide, tåya' bastante na vitamin B12,
+  efektu gi åmot, inestotba yan problema gi ma'igo', siña ha na'guaha parehu na tinilaika. I abogao
+  na kliniku ha' siña ha diagnostika. Chinaleklek ni sen mampos hågas ha tutuhon nesesita hågas na inasistensia.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Lokkue' na inmaleffa siña komùn gi i amko'; tinilaika ni ha distotba i kada ha'åni na lina'la' maolek para u ma'chek."
+  - "I Alzheimer's Association ha deskribi 10 na señåt, kada unu yan un komùn na tinilaika gi amko' para u ma'akompara."
+  - "Problema gi tiroide, tåya' bastante na vitamin B12, efektu gi åmot, inestotba, chetnot yan problema gi ma'igo' siña ha afekta i memoria, yan guaha siña ma'amenda."
+  - "I abogao na kliniku ha' siña ha diagnostika i demensia; i kuestion gi internet yan i testa para hao mismo ti siña."
+  - "Chinaleklek ni sen mampos hågas ha tutuhon, gi oras pat dihas, siña delirium yan nesesita hågas na inasistensia mediku."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Komùn na bånda gi i amko' i inmaleffa?"
+    a: "Guaha lokkue'. I National Institute on Aging sangåni na lokkue' na mamposi kosas pat maleffa un biletu siña ti dångkulo na inmaleffa ni asosiåo yan i amko'. I demensia ti komùn na bånda gi i amko'. Problema gi memoria ni ha na'challeng i che'cho' kada ha'åni, tånto komo manmaneha, u'usa i tilifon pat u sodda' i chalan tåtte para i gima', maolek para u ma'chek yan un doktu."
+  - q: "Siña guaha otro na rason put problema gi memoria, ti demensia?"
+    a: "Hunggan. I National Institute on Aging ha lista problema gi tiroide, riñon pat åtad, efektu gi åmot, inestotba yan inansia, tåya' bastante na vitamin B12, malå'ot na u'usa alkohot, problema gi ma'igo', chetnot yan chetnot gi ilu', yan otro. Guaha gi este siña maolek ta'lo yanggen ma'amenda, ya ese unu na rason sa' impottånte i che'kin mediku."
+  - q: "Siña hu testa un taotao para demensia gi gima'?"
+    a: "Åhe'. I abogao na kliniku ha' siña ha diagnostika i demensia, u'usa i historia mediku, eksamina gi tataotao, testa gi memoria yan hinasso, testa gi laboratoriu yan gi biåhi siña ma'usa imahen gi timo'ka. Asta i kadada' na testa ni ma u'usa i doktu ti nahong ha' para u diagnostika i demensia."
+  - q: "Håfa bai hu cho'gue yanggen un taotao sen mampos hågas ha tutuhon chumaleklek?"
+    a: "Chule' hågas na inasistensia mediku. I chinaleklek ni mampos hågas ha tutuhon siña delirium, ni i VA ha deskribi komu un emehensia mediku. Agang hågas i prohåyi mediku ni' para i taotao pat agang 911, såga yan guiya, yan nota håfa na åmot ha u'usa."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+I ririkonosi tinilaika gi i memoria-mu, pat gi i memoria i taotao ni un guaiya, siña ha na'ma'å'ñao hao. Este na påhina siña ha ayuda hao para un disidi ngai'an para un fa'tinas bisita gi doktu yan taimanu para un prepåra. Ti siña ha sangåni hao kao guaha demensia i hayi. **I abogao na kliniku ha' siña ha diagnostika i demensia**, yan meggai na kondision ni ha na'guaha problema gi memoria ti demensia. Mungnga ma dipende gi kuestion gi internet pat testa para hao mismo.
 
-## What are the early signs of dementia?
+## Håfa i fina'nu'i na señåt gi demensia?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+I [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) ha deskribi 10 na fina'nu'i na señåt. Kada unu ha na'akompara yan un komùn na tinilaika gi amko'. Gi iyomåmi na palabra:
 
-| Sign worth checking | More typical with age |
+| Señåt ni maolek para u ma'chek | Mas komùn gi i amko' |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Inmaleffa ni ha distotba i lina'la' kada ha'åni, tånto komo maleffa håfa ha susedi på'go ha' pat ha faisen i parehu na kosas ta'lo yan ta'lo | Lokkue' maleffa un nå'an pat un bisita, lao ha hasso ta'lo |
+| Chinatsaga para u plånea pat u sulusiona problema, tånto komo u tattiyi un reseta ni abituåt pat u ripåra i biletu | Lokkue' na linachi gi i biletu gi gima' |
+| Chinatsaga para u funhåyan abituåt na che'cho' gi gima', gi che'cho' pat gi sanhiyong | Lokkue' nesesita ayudu put un seting gi microwave pat para u rekodda un prugråma gi TV |
+| Malingo' i ha'åni, i tempo pat månu nai gaige hao | Malachi gi i ha'åni gi simåna, lao ha sodda' ta'lo |
+| Nuebu na chinatsaga para u chule' distansia, u taitai pat u diferensia kulot | Tinilaika gi atadok ni ginen cataratas |
+| Nuebu na problema gi palabra, tånto komo para gi entalu' i kombetsasion pat ha na'an otro na nå'an i kosas | Lokkue' ha sodda' chinatsaga para u sodda' i dinanchi na palabra |
+| Ha po'lo kosas gi ti abituåt na lugåt ya ti siña ha tattiyi i påsu-ña | Lokkue' ha na'malingo' kosas ya ha sodda' yanggen ha tattiyi i påsu-ña |
+| Ti maolek na disision, tånto komo put salåppe' pat inadahi hao mismo | Lokkue' ha cho'gue un ti maolek na disision |
+| Ha na'suhao gui' ginen i gustu-ña, che'cho' pat aktibidåt sosiaåt | Lokkue' ti malago' ha' humånao para un aktibidåt familia pat sosiaåt |
+| Tinilaika gi sentimentu pat kostumbre, tånto komo chumaleklek, dumuda, ma'å'ñao pat inansia | Guaha abituåt na manera para u cho'gue kosas ya ma'udai yanggen ma distotba i rutina |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Unu ha' na señåt ti kumeke'ilekña na demensia. I impottånte na bånda i **tinilaika ginen i normal para ayo na taotao**, låo'ña yanggen ha na'mas challeng i lina'la' kada ha'åni.
 
-## How is normal aging different from dementia?
+## Taimanu ma diferensia i komùn na amko' ginen i demensia?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+I [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) sangåni na meggai na amko' ma ripåra na mas despåsio ma hasso i kosas, pat lokkue' ma na'malingo' kosas pat ma maleffa un biletu. Este siña señåt ti dångkulo na inmaleffa. **I demensia ti komùn na bånda gi i amko'.** Dångkulo na problema gi memoria ha na'challeng i che'cho' kada ha'åni, tånto komo manmaneha, u'usa i tilifon pat u sodda' i chalan tåtte para i gima'.
 
-The NIA suggests talking with a doctor if someone:
+I NIA ha rekomenda para un kombetsasion yan un doktu yanggen un taotao:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Ha faisen i parehu na kuestion ta'lo yan ta'lo
+- Malingo' gi lugåt ni antes abituåt para guiya
+- Ha sodda' chinatsaga para u tattiyi reseta pat direksion
+- Mas chumaleklek put ora, taotao yan lugåt
+- Ha para i inadahi gui' mismo, tånto komo ti maolek na kinnena, ti ma'usa' pat ti siguru na hinemlo'
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Guaha taotao ni guaha **ti dångkulo na inestotba gi hinasso (MCI)**. Kumeke'ilekña na mas problema gi memoria pat hinasso ke otro gi edad-ña, lao siña ha na'funhåyan i che'cho' kada ha'åni. I NIA sangåni na i MCI siña fina'nu'i na señåt put Alzheimer's, lao ti todu i taotao ni guaha MCI siempre u guaha.
 
-## What else can cause memory problems?
+## Håfa otro siña ha na'guaha problema gi memoria?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Megagai na kosas, ti demensia, siña ha afekta i memoria, yan guaha siña maolek ta'lo yanggen ma'amenda. I NIA ha lista:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Problema gi tiroide, riñon pat åtad**
+- **Efektu gi åmot**
+- **Inestotba yan inansia**
+- **Tåya' bastante na vitamin B12** pat ti nahong na nengkanno'
+- **Problema gi ma'igo'**
+- **Malå'ot na u'usa alkohot pat droga**
+- **Chetnot, åtba na håga' pat tumot** gi timo'ka
+- **Chetnot gi ilu'**, tånto komo un konsusion
+- **Dångkulo na estrés pat piniti**, tånto komo riteru pat i finatai i asagua
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Problema gi hungok yan atadok lokkue' siña ma hasso komu chinaleklek; atan i [giya put hungok](/brain-health/hearing/). Put este na rason impottånte i che'kin mediku. Sigun i [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), i doktu siha ma na'orden håga' yan otro na testa para u ma'chek problema gi tiroide, dinidok na vitamin yan chetnot. Maolek lokkue' para un sångan put [maolek na ma'igo'](/brain-health/sleep/) yan inamenda i inestotba.
 
-## Sudden confusion is an emergency
+## I chinaleklek ni sen mampos hågas ha tutuhon emehensia
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Chinaleklek ni sen mampos hågas ha tutuhon, gi oras pat dihas, nesesita hågas na inasistensia mediku.** Siña delirium. I [VA ha deskribi i delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) komu un emehensia mediku yan ha rekomenda para un agang hågas i prohåyi mediku ni' para i taotao pat agang 911. Señåt siha:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Tinilaika gi abilidad para u hasso klaru
+- Chinatsaga para u na'fanatension
+- Ti areklao na hinasso
+- Sen ma'igo'ña ke abituåt, pat sen ti trankilu yan buruka
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Este siña ha susedi para håyi ha', achokka' i taotao esta mañåsaga yan demensia. Sigun i [NHS](https://www.nhs.uk/symptoms/confusion/), komun na rason siha tånto komo chetnot (chetnot gi i chalan mimi' komùn gi amko' yan taotao ni mañåsaga gi demensia), stroku, tåya' bastante na asukat gi håga' para taotao ni guaha diabetes, chetnot gi ilu' yan palu na åmot. Mientras un nanganngan inasistensia, såga yan i taotao ya un na'kumbida gui' yan kadada' yan sempli na palabra. Mungnga mañaisen meggai na kuestion, ya nota håfa na åmot ha u'usa.
 
-## How do I prepare for the doctor's appointment?
+## Taimanu bai hu prepåra i bisita gi doktu?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Maolek na bisita ha tutuhon yan maolek na nota. I [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) ha rekomenda para un chule':
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Un lista put tinilaika** gi memoria, sentimentu yan hinemlo', yan espesifiku na ehemplo yan kuåntu tiempo desde ki ma tutuhon
+2. **Månu na problema mediku på'go yan antes**, kontodu kao guaha historia gi familia put problema gi memoria
+3. **Todu i åmot ni ma resepeta yan i ti ma resepeta**
+4. **Todu i vitamin pat suplemento**
+5. **I kuestion-mu**, tånto komo håfa na testa para u ma cho'gue, kuåntu tiempo, yan ngai'an para un risibi i risuttåo
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Maolek lokkue' para un konne' un membron familia pat abog yan guiya ni tumungo' maolek i taotao. I [NIA ha eksplika](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) na i doktu siña ma faisen i taotao yan un membron familia put hinemlo', åmot, che'cho' kada ha'åni yan tinilaika gi hinemlo'. I doktu lokkue' siña:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Ma na'guaha testa gi memoria, sulusion problema, atension, kuenta yan lengguåhi
+- Ma na'orden testa gi håga', mimi' yan otro para u ma sodda' otro na rason
+- Ma che'chek kao guaha inestotba pat otro na kondision gi hinemlo' mental
+- Ma na'orden imahen gi timo'ka, tånto komo CT pat MRI
+- Ma refere para un espesiålista, tånto komo geriatrisian, neurolohista, geriatric psychiatrist pat neuropsychologist
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+I NIA ha nota na i inasin mediku gi hinasso nesesåriu na bånda gi Medicare Annual Wellness Visit, ni siña maolek na okasion para un sångan i inquetudå-mu. Asta i kadada' na testa ni ma u'usa i doktu ti nahong ha' para u diagnostika i demensia. Fina'nu'i na påsu ha' para un mas kompletu na inasin, yan i diagnosis siña nesesita mas ke unu na bisita. I NIA ha rekomenda na taotao ni guaha problema gi memoria u bira tåtte para i doktu kada 6 asta 12 meses.
 
-## Raising the subject kindly
+## Taimanu para un sångan gi maolek na manera
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Yanggen un inquetuda put otro na taotao, ayek un trankilu yan pribåo na momento. Sångan put espesifiku na kosas ni un ripåra, gi manera ni ha muestra inquetudu put i hinemlo'-ña, ti kritika. Yanggen un rekomenda un håf na che'kin mediku siña mas ti na'ma'å'ñao. Na'setbe i taotao gi disision yan kuentusi gui' komu i amko' na taotao ni iya guiya. I [konsehu put kumunikasion](/caregiving/communication-tips/) siña ha ayuda.
 
-## Talk with a doctor
+## Kuentusi yan un doktu
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Yanggen un ripåra tinilaika gi memoria, hinasso, sentimentu pat abilidad kada ha'åni ni nuebu ya sige ha susedi, fa'tinas un bisita yan un doktu. Para chinaleklek ni sen mampos hågas ha tutuhon, agang 911 pat i prohåyi mediku ni' para i taotao hågas. I che'kin agupa' ha na'posible na u ma sodda' i rason ni siña ma'amenda yan, yanggen demensia, guaha mas tiempo para u ma plånea yan u ma sodda' inasistensia. Adahi hao lokkue' gi durånten este na tiempo; atan i [giya put inadahi i para u inadahi](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Este na påhina håf na infotmasion ha', ti konsehu mediku. Atan i [deklarasion mediku](/medical-disclaimer/).

@@ -1,34 +1,36 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Quandu una persona chì campa cù a dimenza ricusa o si frustra cù una attività"
+seoTitle: "Quandu una persona cù a dimenza ricusa una attività"
+description: "Perchè una persona chì campa cù a dimenza pò ricusà o si turmentà cù una attività, ciò chì pudete pruvà, ciò chì hè megliu à evità, è quandu un cambiamentu subbitu richiede un duttore."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Quandu una persona chì campa cù a dimenza dice di nò, accettatelu cun calma è
+  pruvate torna più tardi o prupunite qualcosa di diversu. U rifiutu hà spessu
+  una ragione: l'attività pare troppu difficiule o troppu zitella, a persona hè
+  stanca, hà dulore, fame, o si sente sopraffatta da u rumore. Ùn discutite è
+  ùn insistite micca. Simplificate, prupunite duie scelte, o dumandateli un
+  colpu di manu. Un cambiamentu subbitu o rapidu di u cumpurtamentu, soprattuttu
+  dopu una infezzione o una medicina nova, deve esse vistu da un duttore senza
+  aspettà.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Un « nò » hè una risposta da rispettà, micca un prublema da vince."
+  - "U rifiutu hà di solitu una causa: troppu difficiule, troppu zitellu, stanchezza, malessere, fastidiu, o troppu stimulazione."
+  - "Fate un passu in daretu, aspettate, è pruvate più tardi, à un altru mumentu, o cù una versione più simplice."
+  - "Dumandà un colpu di manu funziona megliu chè dumandà di fà una prova."
+  - "Ùn discutite mai, ùn insistite micca, ùn fate micca dumande di prova è ùn currigite micca. Fighjate dinù sè vo andate troppu in furia o sè site troppu vicinu."
+  - "Un cambiamentu subbitu o rapidu di u cumpurtamentu, soprattuttu cù una infezzione o medicine nove, deve esse signalatu subbitu à un duttore."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Hè bè di lascialli saltà l'attività cumpletamente?"
+    a: "Iè, per un ghjornu particulare. Stà inseme, ascultà musica o fighjà ciò chì si passa fora pò esse abbastanza. S'è una persona smette di piglià piacè à tuttu per parechje settimane, parlatene à u so duttore, perchè u malumore, u dulore o altri prublemi di salute ponu fà parte di a situazione."
+  - q: "Perchè ricusanu cose chì li piacianu prima?"
+    a: "Un vechju passatempu pò diventà frustrante quandu richiede capacità chì a dimenza hà resu più difficiule, è a persona pò sente vergogna. Pruvate una parte più simplice di a stessa attività, cum'è sorte i bottoni invece di cusge, o fighjà fiure di giardinu invece di piantà."
+  - q: "Devu pruvà à cunvinceli?"
+    a: "Innò. Spinghje qualchissia à fà qualcosa chì a dimenza hà resu difficiule hè una causa cunnisciuta d'agitazione. Accettate u nò, cambiate sughjettu, è prupunite torna più tardi o in un altru modu."
+  - q: "Quandu un cambiamentu di cumpurtamentu hè un'urgenza?"
+    a: "Chjamate u 112 s'è qualchissia hè in periculu o mostra segni d'un'urgenza medica. Per una cunfusione subbita o un cumpurtamentu chì cambia prestu in qualchì ora o qualchì ghjornu, soprattuttu cù frebba, infezzione o una medicina nova, cuntattate subbitu u so duttore."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +52,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Avete preparatu tuttu, prupunite un ghjocu o una spassighjata, è vi sentite risponde « Innò ». O l'attività principia bè è finisce cù una tavuletta alluntanata è una parolla brusca. Hè scuragente, è hè assai cumunu. U rifiutu è a frustrazione sò di solitu un messagiu, micca capatosta. Capisce ciò chì vole dì stu messagiu vi pò spessu aiutà à vede ciò chì pruvà dopu.
 
-## Why does someone with dementia refuse activities?
+## Perchè una persona chì campa cù a dimenza ricusa l'attività?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Di solitu ci hè una ragione, ancu s'è a persona ùn riesce micca à spiegalla cù parolle. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) rimarca chì a resistenza pò vulè dì chì a persona ùn riesce micca à fà u compitu o hà a paura di pruvà. E cause cumune includenu:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Pare troppu difficiule.** L'attività richiede avà capacità chì a dimenza hà resu più difficiule, è ùn riesce micca davanti à qualchissia pò dà vergogna.
+- **Pare troppu zitella.** L'adulti si rendenu contu di l'imaghjini troppu cartunistiche, di e voce cantillanti è di l'attività chì parenu fatte per i zitelli.
+- **Stanchezza.** Parechje persone anu menu energia più tardi in a ghjurnata. Fighjate [attività calme di a fine di dopu meziornu](/caregiving/late-day-restlessness/).
+- **Fastidiu fisicu.** U [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) cita u dulore, a mancanza di sonnu, e difficultà à vede o à sente, a stitichezza, a fame, a sete è l'effetti secundarii di medicine nove cum'è cause pussibule di malessere.
+- **Troppu cose in listessu tempu.** Una televisione forte, parechje cunversazione o una stanza piena ponu esse sopraffattanti.
+- **Si sente spinta.** U NIA indica cum'è causa d'agitazione u fattu d'esse spinta à fà qualcosa chì a malatia d'Alzheimer hà resu assai difficiule, o à ricurdassi avvenimenti o persone.
+- **Malumore.** Perde l'interessu per e cose pò esse un segnu di depressione, è vale a pena di parlà ne cù un duttore.
+- **Simpliciamente ùn vole micca.** L'adulti anu u dirittu di dì di nò.
 
-## What should I try when they say no?
+## Chì possu pruvà quandu dice di nò?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Accettate u nò cun calma, poi cambiate qualcosa: l'ora, l'attività, a difficultà o a manera di dumandà.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Lasciate corre per avà.** « Và bè. Forse più tardi. » Poi passate à qualcosa d'altru senza suspirà.
+2. **Pruvate torna più tardi.** L'Alzheimer's Association suggerisce di pruvà torna più tardi, o à un altru mumentu di a ghjurnata.
+3. **Fate più chjucu.** Una sola associazione invece di un ghjocu sanu. Un solu asciugamanu invece di a cesta di a bughjata. Menu fiure, menu scelte, fiure lasciate à a vista.
+4. **Prupunite duie opzioni.** « Preferite fighjà e fiure d'acelli o ascultà un pocu di musica? » Una scelta rende un sensu di cuntrollu.
+5. **Dumandate aiutu invece di una prova.** « Mi pudete aiutà à sorte què? » o « Mi pudete dì chì culore vi pare u più bellu? » Esse utile si sente assai diversu da esse messu à a prova.
+6. **Principiate voi stessu.** Accuminciate l'attività accantu à elli senza dumandà. Parechje persone si uniscenu quandu qualcosa hè dighjà principiatu, è s'elli ùn si uniscenu micca, avete quantunque passatu un mumentu inseme.
+7. **Passate à qualcosa di fisicu o di calmante.** Una spassighjata corta, musica, un spuntinu, piegà a bughjata, o una pausa inseme di [respirazione calma](/games/calm-breathing/). U NIA suggerisce di ridirige l'attenzione versu a musica, un libru o una spassighjata.
+8. **Lasciateli fà à a so manera.** S'elli volenu ghjucà in un modu diversu da e regule, seguitateli. L'Alzheimer's Association cunsiglia d'esse flessibile.
 
-## What should I say when they get frustrated?
+## Chì devu dì quandu si frustranu?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Rallentate, calate a voce è rassicurate. I [cunsiglii di l'Alzheimer's Association nantu à l'agitazione](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggeriscenu di fà un passu in daretu è di dumandà u permessu, d'usà frasi calme è pusitive, è di prupone una scelta guidata trà duie opzioni. Frasi in stu spiritu:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- « Mi dispiace, questu hè fastidiosu. Firmemu. »
+- « Và bè. Sò quì cù voi. »
+- « Avete un mumentu per aiutammi cù qualcosa d'altru? »
+- « Vulemu piglià una tazza di tè invece? »
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Poi finite l'attività senza fà ne un grande affare. I nostri [cunsiglii di cumunicazione](/caregiving/communication-tips/) anu più idee nantu à ciò chì si pò dì.
 
-## What should I avoid?
+## Chì devu evità?
 
-Some natural reactions tend to make things worse.
+Certi riazzioni naturali anu a tendenza à peggiuà e cose.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Discutisce o insistà.** « Dai, solu un'antra volta » o « Questu vi piace » aiuta di raru.
+- **Fà dumande di prova o currige.** « Sapete ciò chì hè questu » o « Innò, quessa ùn hè micca ghjusta » aghjunghje pressione.
+- **Piglialla cum'è qualcosa di persunale.** U NIA ricorda à e persone chì si occupanu di qualchissia chì hè a malatia, micca a persona, à causà sti cambiamenti.
+- **Esse troppu vicinu o andà troppu in furia.** L'Alzheimer's Association cunsiglia di ùn alzà a voce, di ùn mustrà spaventu, di ùn bluccà, di ùn stringhje, di ùn trattene, di ùn criticà, di ùn ignurà è di ùn discutisce cù a persona, è d'evità i muvimenti bruschi fora di a so vista.
+- **Usà a culpabilità.** « Aghju preparatu tuttu què per voi » face sente peghju à tutti dui.
+- **Mette etichette.** « Capatosta » o « difficiule » nasconde a vera ragione è rende più difficiule di truvà una suluzione.
 
-## How can I find out what is behind repeated refusals?
+## Cumu possu capisce ciò chì ci hè daretu à i rifiuti ripetuti?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Tenite una nota simplice per una o duie settimane. U NIA dice chì seguità i cambiamenti di cumpurtamentu pò aiutà e persone chì si occupanu di qualchissia è i prufessiunali di salute à ricunnosce un mudellu è à capisce a causa.
 
-Jot down:
+Scrivite:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- l'ora di a ghjurnata;
+- ciò chì avete prupostu è cumu l'avete dumandatu;
+- ciò chì si passava intornu à voi (rumore, visite, televisione);
+- cumu anu dormitu, manghjatu è bevutu, è quandu sò andati l'ultima volta à u bagnu;
+- ogni medicina nova o malatia recente.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Spessu i mudelli appariscenu prestu: rifiuti chì accadenu solu dopu à 4 ore di sera, solu cù un certu ghjocu, o solu quandu a televisione hè accesa. A [guida di Family Caregiver Alliance nantu à i cumpurtamenti ligati à a dimenza](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a dice in modu simplice: ùn pudemu micca cambià a persona, ma pudemu cambià u nostru propiu cumpurtamentu è l'ambiente.
 
-## When should I talk to a doctor about refusal or frustration?
+## Quandu devu parlà à un duttore di u rifiutu o di a frustrazione?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Parlate à un duttore quandu u cumpurtamentu cambia di colpu, prestu, o inseme à segni di malatia. U NIA dice chì i cambiamenti subiti o chì fluttuanu rapidamente in u cumpurtamentu, soprattuttu s'è a persona hà avutu una infezzione o cambiamenti recenti di medicine, devenu esse signalati subbitu à un duttore.
 
-Contact their doctor promptly if you notice:
+Cuntattate prestu u so duttore s'è rimarcate:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- cunfusione subbita o un grande cambiamentu in qualchì ora o qualchì ghjornu;
+- segni di dulore, cum'è smorfie, u fattu di prutege una parte di u corpu, o una nova difficultà à move si;
+- frebba o altri segni d'una infezzione;
+- medicine nove o cambiate seguitate da un cambiamentu di cumpurtamentu;
+- perdita d'interessu per guasi tuttu, lacrime o chjusura in sè stessu chì dura più di duie settimane;
+- rifiutu di manghjà o di beie.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+L'Alzheimer's Association racumanda un cuntrollu medicale cumpletu per ogni persona cù sintomi di cumpurtamentu, soprattuttu quandu appariscenu di colpu. Family Caregiver Alliance cunsiglia dinù di verificà prima cù u duttore, perchè i prublemi di cumpurtamentu ponu avè una causa medica. Ùn principiate micca, ùn fermate micca è ùn cambiate micca alcuna medicina senza parlà ne cù un duttore o un farmacista.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+S'è qualchissia hè in periculu o ci sò segni d'un'urgenza medica, chjamate u 112. U NIA suggerisce di dì à l'operatore chì a persona campa cù a dimenza.
 
-## Is it okay if we do nothing at all?
+## Hè bè s'è ùn femu nunda di nunda?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Iè. Certi ghjorni a megliu attività hè ùn fà nisuna attività: stà inseme, tene si per manu, ascultà una canzona preferita, o fighjà l'acelli fora di a finestra. Ùn hè micca un fiascu. A nostra [guida per ghjucà inseme](/caregiving/how-to-play-together/) spiega perchè firmà prestu, o ùn principià mancu, pò esse a scelta ghjusta.

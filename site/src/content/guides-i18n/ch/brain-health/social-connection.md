@@ -1,32 +1,34 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Koneksion Sosia yan Hinemlo' i Tiningo': Minaisa, Inaisao yan Demensia"
+seoTitle: "Minaisa, Inaisao Sosia yan Risku Demensia"
+description: "Håfa taimanu i minaisa yan inaisao sosia umasosia yan risiku demensia, håfa ha sangåni i abisu Surgeon General, yan simpli na manera para u fan konekta hamyo."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Inestudia siha ha na'fanlihengan na i inaisao sosia yan i sininiente maisa gi edåt mas bihu
+  umasosia yan mas takhilo' na risiku demensia. I 2024 Lancet Commission ha estotba na i
+  inaisao ha afekta pot ma'å'ñao 5% na kåso, låo guaha na påtte gi koneksion siña ginen i
+  tutuhon na demensia ni ha na'fanhuyong i taotao. I mantinieti koneksion, aktibidåt siha ni
+  ma fa'tinas hamyo, yan ayudu para i hungok todo ha sostieni i koneksion. Para i taotao siha
+  ni mañisiente yan demensia, i aktibidåt siha ni ma fa'tinas hamyo impottånte para i minagof
+  yan i kualidåt lina'la'; i metgot, koneksion, ti hinemlo' gi cho'cho'.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "I Lancet Commission ha lista i inaisao sosia gi edåt mas bihu komo unu gi 14 na faktot risiku demensia ni siña ma tulaika, pot ma'å'ñao 5% na kåso."
+  - "I abisu 2023 US Surgeon General ha na'asosia i króniku na minaisa yan inaisao yan pot ma'å'ñao 50% mas takhilo' na risiku demensia gi taotao manåmko'."
+  - "Mås na ebidensia guini ginen inestudia ni ma atan ha', yan i tutuhon na demensia siña ha na'i i taotao para u hanao ginen pumalu."
+  - "I prublema gi hungok yan atan, i lina'la' maisa, yan i kuidadu todo siña ha na'mas takhilo' i risiku inaisao."
+  - "Para i taotao siha ni mañisiente yan demensia, i aktibidåt ni ma fa'tinas hamyo yan magof ha sostieni i kualidåt lina'la'; i metgot, koneksion, ti hinemlo' gi cho'cho'."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Kao i minaisa ha na'fanhassuyi demensia?"
+    a: "Ti ma konfitma ennåo. Meggai na inestudia ha na'asosia i minaisa yan inaisao yan mas takhilo' na risiku demensia, låo i tinilaika gi tiningo' gi tutuhon siña lokkue' ha na'i i taotao para u hanao ginen pumalu. I mantinieti koneksion guaha meggai na otru na probecho para i sentimentu yan hinemlo', put ennao maolek ha' para u ma sostieni maseha håfa."
+  - q: "Håfa na diferensia i minaisa yan i inaisao sosia?"
+    a: "Inaisao sosia kumekeilekña na taya' meggai na taotao para u fan å'usa yan håo kada dia. Minaisa i mappot na sininiente na maisa hao pat ma na'suha hao. Siña maisa hao lao ti un sininiente maisa, pat siña un sininiente maisa maseha gaige hao gi meggai na taotao."
+  - q: "Håfa taimanu siña hu ayuda i tata-hu pat nana-hu ni mañisiente yan demensia para u fan konekta?"
+    a: "I kadada' na inagang, maseha kadada', maolek. Chagi un oråriu kada simåna para un ågang pat un video chat, un aktibidåt ni en fa'tinas hamyo gi lamasa, un memory cafe, pat un bisita yan ga'ga' pat nietu. Na'fan dikike' yan trankilu i gurupu, ya sedi i taotao para u na'i i paso-ña."
+  - q: "Månu nai siña hu sodda' ayudu gi lugåt para un taotao manåmko' ni maisa?"
+    a: "I Eldercare Locator, un setbisiu públiku, ha na'konekta i familia yan ofisina siha gi lugåt pot taotao manåmko' yan prugråma siha gi kumunidåt. Siña ma ågang gi 800-677-1116 pat ma bisita gi eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +56,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+I taotao siha ma nesesita kumpañia, ya ti ha tulaika ennåo maseha manåmko' i taotao. Inestudia siha ha na'fanlihengan na i minaisa yan inaisao sosia gi edåt mas bihu umasosia yan mas takhilo' na risiku demensia, yan lokkue' chetnot korason yan triniste. Ti siña ha sangåni klaru i inestudia på'go kuåntu gi koneksion ginen kåusa yan efektu. Este na påhina ha ekstetendi håfa ha fa'nu'i i ebidensia, simpli na manera para u fan konekta hamyo, yan sa' håfa impottånte i aktibidåt ni ma fa'tinas hamyo para i taotao siha ni mañisiente yan demensia.
 
-## Are loneliness and isolation linked with dementia?
+## Kao i minaisa yan i inaisao umasosia yan demensia?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Hunggan, meggai na inestudia ha na'asosia siha, låo ti klaru ha' i direksion. I [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) ha lista i inaisao sosia gi edåt mas bihu komo unu gi 14 na faktot risiku ni siña ma tulaika. I [sinisedi UCL put i ripót](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ha pega gi ma'å'ñao 5% na kåso demensia gi enteru mundo.
 
-What the evidence shows:
+Håfa ha fa'nu'i i ebidensia:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Menos konekta, mas risiku.** I Commission ha deskribi dos na inatan ni ha na'asosia i menos na inagang sosia yan mas takhilo' na risiku demensia. Unu ha sodda' ma'å'ñao 57% mas takhilo' na risiku yan i otru ma'å'ñao 18%.
+- **Minaisa lokkue'.** I minaisa, i sininiente na ma na'suha hao, umasosia lokkue' yan mas takhilo' na risiku demensia gi meggai na inatan.
+- **I hinasson Surgeon General.** Gi Måyu 2023, i US Surgeon General ha na'huyong un [abisu put minaisa yan inaisao](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Ha sangåni na i króniku na minaisa yan inaisao siña ha na'mas takhilo' i risiku demensia pot ma'å'ñao 50% gi taotao manåmko'. Ha na'asosia lokkue' i debi na koneksion sosia yan 29% mas takhilo' na risiku chetnot korason yan 32% mas takhilo' na risiku stroke.
+- **Kuåntu na taotao inafekta.** Un [ripót National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) ha sodda' na ma'å'ñao 24% na taotao gi 65 åños yan mas ni mañisiente gi kumunidåt man maisa sosia.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Un impottånte na avisu: i Lancet Commission ha nota na siña i taotao ma utot i aktibidåt sosia gi tutuhon na tiempon demensia, åntes di ma rekonosi. Kumekeilekña na guaha na påtte gi koneksion siña ginen demensia ni ha na'fan hanao, ti i hinanao ha' ni ha na'mas risiku. Mås na ebidensia guini ginen inestudia ni ma atan ha'.
 
-## What is the difference between loneliness and isolation?
+## Håfa na diferensia i minaisa yan i inaisao?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+I [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) ha eksplika taiguennao. **Inaisao sosia** kumekeilekña na taya' meggai na konekta sosia pat taya' meggai na taotao para u fan å'usa yan håo kada dia. **Minaisa** i mappot na sininiente na maisa hao pat ma na'suha hao. Siña maisa hao lao magof håo, yan siña un sininiente maisa gi un kåtkuet ni bula taotao.
 
-The NIA lists factors that raise the risk of both:
+I NIA ha lista faktot siha ni siña ha na'mas takhilo' i risiku para i dos:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Prublema gi hungok pat atan
+- Chatsaga para u famokkat, pat taya' transportasion
+- Lina'la' maisa, pat un dångkulo na inafekta komu finatai asagua pat ritiro
+- Tinilaika gi hinasso pat tiningo'
+- Kuidadu para un taotao ni un guaiya ya malångu
+- Chatsaga pot salåppe' pat barerå lengguåhi
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+I hungok impottånte. I NIA ha sangåni na i taotao ni ti ma hungok maolek siña ma suha maisa sa' i kombetsasion siña mappot pat nina'mamahlao. I [guia-måmi put hungok yan hinemlo' i tiningo'](/brain-health/hearing/) ha ekstetendi inchek hungok yan over-the-counter na hearing aids.
 
-## Practical ways to stay connected
+## Simpli na manera para u fan konekta hamyo
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+I NIA ha ofresi meggai na ideha. Ayek unu pat dos ni maolek para hågu:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Na'guaha oråriu para inagang.** Na'guaha tiempu kada ha'åni pat kada simåna para un ågang, text, email, pat un karta para familia, abog, pat bisinu.
+- **Usa video call pat smart speaker.** Yanggen nuebu i teknolohia, meggai na biblioteka públika yan sentro kumunidåt ma ofresi klas. Atan i [guia-måmi put ågang gi tilifon yan video call](/activities/phone-and-video-calls/).
+- **Saoñao gi un aktibidåt.** Un klas, kumunidåt hinengge, gurupu famokkat, pat boluntåriu ha na'i håo koneksion yan sentidu na guaha propósitu.
+- **Tutuhon tåtte un guston-mu åntes** pat ekkungok nuebu na aktibidåt yan pumalu.
+- **Famokkat yan pumalu.** Cho'gue ehersisiu yan abog pat gurupu. I [guia-måmi put ehersisiu](/brain-health/exercise/) guaha simpli na opsion.
+- **Konsidera un ga'ga'** yanggen siña un kuidadu.
+- **Usa setbisiu gi lugåt.** I sentro para taotao manåmko', Area Agencies on Aging, yan i Eldercare Locator (800-677-1116) siña ma ayuda håo para un sodda' prugråma yan transportasion.
 
-## Why do shared activities matter in dementia?
+## Sa' håfa impottånte i aktibidåt ni ma fa'titas hamyo gi demensia?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Para un taotao ni mañisiente yan demensia, i koneksion put minagof, kinomodåt, yan sininiente na ma aksepta, ti put para u na'libiånu i risiku. I Lancet Commission ha sangåni na i aktibidåt siha ha ayuda i taotao ni gaige gi demensia para u mantieni minagof yan propósitu. I [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ha nota na, fuera ki ha na'maolek i kualidåt lina'la', i aktibidåt siha siña ha na'libiånu håfa taiguini i mappot na hinanao pat inestrés. I [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ha po'lo lokkue' na i taotao ni gaige gi Alzheimer's nesesita u fan aktibu yan cho'gue håfa ni ma gof ya-ñiha.
 
-Ideas that work well:
+Ideha siha ni maolek:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Atan litråtu hamyo.** [Conversation Cards](/games/conversation-cards/) ha ofresi abiettu na pregunta, taya' eksamen, komu “Sangåni yo' put…” Atan i [guia-måmi put reminiscence](/activities/reminiscence/).
+2. **Huegu gi fi'on-miyu.** [Picture Pairs](/games/picture-pairs/) ha na'fan annok i litråtu ya taya' relos pat puntu, put ennao taya' presiåo. I guia-måmi put [håfa taimanu para en huegu hamyo](/caregiving/how-to-play-together/) guaha konsehu.
+3. **Usa litråtu familia.** [Photo Pairs](/games/photo-pairs/) ha na'i i litråtu ni un ayek para un huegu, ya i litråtu mañåga gi divaisu-mu.
+4. **Na'fan dánña' taotao.** [Picture Bingo](/games/picture-bingo/) maolek para inetnon familia yan [gurupu gi care home](/activities/care-home-groups/).
+5. **Fa'tinas hamyo kånta, che'cho' guma', pat gi hatdin.** Atan [aktibidåt kånta](/activities/music/), [che'cho' gi guma'](/activities/household-tasks/), yan i enteru na lista put [ideha aktibidåt](/activities/ideas/).
+6. **Na'libiånu i bisita.** I [guia-måmi put bisita](/activities/visiting/) ha ekstetendi kadada' yan trankilu na bisita ni maolek para todu.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Na'fan dikike' yan rilaks. Un trankilu na kuåtto yan unu pat dos na taotao mas maolek ki un dångkulo na gurupu. Yanggen i taotao yayas pat ti ha gof ya-ña, maolek ha' para u para. Maolek lokkue' na risuttåo yanggen en tåga' hamyo ya en gimen chå.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Para un taotao ni mañisiente yan demensia ya maisa mañisiente, i NIA ha rekomenda na u sodda' un taotao ni siña ma konfiånsa para u bisita pat u ågang gi video kada dia, yan para u gå'ga' komu kontakto gi emergencia. Ha mensiona lokkue' un memory cafe gi lugåt, un rilaks na lugåt sosia para taotao ni guaha prublema gi hinasso yan i familia-ñiha.
 
-## Caregivers get lonely too
+## I taotao ni ma kuidadu siña lokkue' man maisa
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+I NIA ha lista i kuidadu para un taotao ni un guaiya komu faktot risiku para inaisao. Na'suha un tiempu para i abog-mu, gurupu supotte, yan deskånsa. I [guia-måmi put kuidadu para i taotao ni ma kuidadu](/caregiving/caregiver-self-care/) guaha pråktiku na ideha.
 
-## Talk with a doctor
+## Kuentusi yan mediku
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Yanggen hågu pat un taotao ni un kuidadu sininiente maisa pat inaisao sessu, sangåni i mediku. I NIA ha animu i taotao para u sangan i dångkulo na tinilaika gi lina'la', komu finatai gi familia, para u komprende i mediku i enteru na estoria. Yanggen un sininiente triste gi meggai na simåna, siña depresión ennåo, ya siña ma amte. Yanggen un taotao manåmko' ha tulaika ya ti ha bisita i abog-ña pat ti ha cho'gue i aktibidåt ni ha gof ya-ña åntes, maolek para u ma sangåni i mediku. Taitai [i señåt gi tutuhon yan ngai'an para un hånao gi mediku](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Este na påhina infotmasion ha' para todu, ti konsehun mediku. Atan i [disclaimer mediku-måmi](/medical-disclaimer/).

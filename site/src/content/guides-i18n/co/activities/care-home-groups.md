@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Attività di gruppu per a dimenza: Guida pratica"
+seoTitle: "Attività di gruppu per a dimenza: Ghjochi è canti"
+description: "Attività di gruppu per a memoria in case di cura è centri di ghjornu: tombula cù fiure, canti è gruppi di ricordi, cù cunsiglii per i posti è u gruppu."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  E bone attività di gruppu in i servizii di memoria è in i prugrammi di ghjornu
+  sò corte, famigliari è facili à seguità à ogni livellu: tombula cù fiure,
+  canti inseme, cerchji di ricordi, muvimenti simplici è ghjochi di parolle
+  spartuti. Induve hè pussibule, tenite i gruppi chjuchi, fate pusà e persone
+  in modu chì ognunu possa vede è sente, date un passu chjaru à a volta, è
+  priparate un rolu più faciule è una surtita tranquilla per qualchissia chì ne
+  hà bisognu.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "I gruppi più chjuchi spessu funzionanu megliu cà un grande avvenimentu, è permettenu à più persone di participà attivamente invece di solu fighjà."
+  - "Fate pusà e persone in cerchju o à ferru di cavallu, vicinu à a persona chì guida, tenendu contu di a vista è di l’uditu è spegnendu i rumori di fondu."
+  - "Preparate ogni attività à dui o trè livelli, cusì chì e persone cù capacità diverse possanu tutte participà."
+  - "Evitate e dumande à prova, i punti è i vincitori. A tombula cù fiure si pò ghjucà finu à chì ognunu compie a so carta."
+  - "Andà via prima, fighjà o addurmintassi hè bè. Abbiate un membru di u persunale prontu à accumpagnà qualchissia chì vole un spaziu più tranquillu."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Chì dimensione di gruppu hè bona per l’attività ligate à a dimenza?"
+    a: "Ùn ci hè micca un numeru unicu currettu, è dipende da e persone, da a stanza è da u numeru di persunale dispunibule. Parechje squadre trovanu chì i gruppi chjuchi permettenu à ognunu di vede, sente è participà, mentre l’avvenimenti in sala grande lascianu spessu più persone à fighjà. S’è vo urganizate un grande avvenimentu, aghjunghjite persunale o vuluntarii chì ponu pusà trà e persone è aiutà una o duie persone ognunu."
+  - q: "Cumu possu guidà un gruppu cù capacità diverse?"
+    a: "Preparate più di una manera di participà à ogni attività. In un cantu inseme, certi cantanu ogni parolla, certi battenu e mani o murmureghjanu, è certi tenenu un picculu strumentu. In a tombula cù fiure, certi trovanu e so fiure da per elli, mentre un aiutante indica per altri. Fate pusà e persone chì anu bisognu di più aiutu accantu à un membru di u persunale o à un vuluntariu."
+  - q: "Cumu possu ghjucà à a tombula cù fiure senza rende la cumpetitiva?"
+    a: "Chjamate ogni fiura finu à chì a carta di ognunu hè piena, cusì chì nimu hè lasciatu fora. Parlate d’ogni fiura quandu vene, è evitate i premii per i vincitori, o date à tutti a listessa piccula attenzione. U scopu hè l’attenzione spartuta è a cunversazione, micca quale finisce prima."
+  - q: "Possu aduprà i vostri ghjochi nant’à un grande schermu in gruppu?"
+    a: "Iè. I nostri ghjochi funzionanu in un navigatore web, cusì pudete apre li nant’à un urdinatore purtatile o una tavuletta culligata à una televisione o à un pruiettore. Picture Bingo include carte da stampà è un presentatore nant’à u schermu. Finish the Saying è Picture Pairs funzionanu ancu bè nant’à un grande schermu, cù una persona chì tocca per u gruppu."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Sta guida hè per i responsabili di l’attività, e squadre di cura di a memoria è i capimachja di i prugrammi di ghjornu per l’adulti. Presenta forme di gruppu chì funzionanu, a preparazione di a stanza, cumu adattà una stessa attività à capacità diverse, è cumu aduprà e nostre carte di tombula da stampà è i ghjochi nant’à un grande schermu. Tuttu ciò chì si trova quì hà per scopu u benestà, a relazione è a scelta. Nunda quì hè una prova.
 
-## What makes a group activity work in memory care?
+## Chì face chì una attività di gruppu funziona in a cura di a memoria?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Una bona attività di gruppu hè famigliaria, corta, faciule à seguità à ogni livellu è senza pressione. E [Raccomandazioni per a pratica di cura di a dimenza](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) di l’Alzheimer’s Association descrivenu un impegnu significativu cum’è qualcosa chì sustene l’interessi è e preferenze di una persona è chì lascia spaziu à a scelta è à a riescita, ancu quandu a dimenza hè à un stadiu avanzatu. U listessu documentu nota chì i prugrammi tradiziunali si basanu spessu nant’à unu o dui grandi avvenimenti di gruppu à ghjornu, induve e persone participanu spessu solu in modu passivu.
 
-That points to a few practical rules:
+Da quì venenu qualchì regula pratica:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **U famigliariu hè megliu cà u novu.** I canti, i detti, e fiure è l’uggetti di l’anni più ghjovani di e persone sò più facili à seguità.
+- **U cortu hè megliu cà u longu.** Preparate l’attività secondu u tempu d’attenzione abituale di u vostru gruppu, cù un puntu naturale per piantà à mezu.
+- **Fà hè megliu cà fighjà.** Date à ogni persona qualcosa da tene, toccà, sceglie o dì.
+- **Parechji livelli, una sola attività.** Prevedite manere più facili è più difficili di participà.
+- **Nisun vincitore, nisun puntu.** E forme cumpetitive ponu fà sente à certe persone ch’elli anu fiascatu.
 
-## How big should the group be?
+## Quantu deve esse grande u gruppu?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+I gruppi più chjuchi sò di solitu più facili. L’Alzheimer’s Association nota chì una persona chì si sente sopraffatta da una grande riunione pò participà più facilmente in un gruppu più chjucu. Ùn ci hè micca un numeru unicu currettu. Dipende da e persone, da a stanza è da u numeru di membri di u persunale è di vuluntarii dispunibuli.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Una prova utile: ogni persona pò vede u visu di a persona chì guida, sente chjaramente è esse ghjunta da un aiutante in pochi secondi? S’ellu ùn hè micca cusì, spartite u gruppu, aghjunghjite aiutanti, o andate in una stanza più chjuca.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Per un grande avvenimentu, cum’è un cuncertu di festa, fate pusà i membri di u persunale è i vuluntarii trà e persone, micca longu à i muri.
 
-## How should I set up the room and seating?
+## Cumu devu preparà a stanza è i posti?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Cerchju o ferru di cavallu.** E raccomandazioni di pratica descrivenu un cerchju di scambiu cum’è megliu in un spaziu abbastanza grande per chì tutti possanu pusà in cerchju, senza rumore di fondu.
+- **A persona chì guida vicinu è à l’altezza di l’ochji.** Pusate vi invece di stà in piedi, quandu hè pussibule.
+- **Prima l’uditu è a vista.** Fate pusà e persone cù difficultà d’uditu più vicinu à a persona chì guida, da u so latu megliu. Assicurate vi chì l’ochjali è l’apparechji auditivi sianu messi. L’Alzheimer’s Association nota chì i prublemi di vista è d’uditu ponu rende a cumunicazione più difficiule.
+- **A luce daretu à e persone, micca daretu à voi.** Evitate di fà pusà qualchissia di pettu à una finestra luminosa.
+- **Spegne a televisione è a radiu.** L’Alzheimer’s Association cunsiglia di caccià i rumori chì facenu cumpetizione durante l’attività musicali.
+- **Una sola cunversazione à a volta.** Parlà tutti inseme hè difficiule per e persone chì campanu cù a dimenza è per e persone cù difficultà d’uditu, cum’è l’Alzheimer’s Association indica in a so [guida per e feste](https://www.alz.org/help-support/caregiving/holidays).
+- **Surtite chjare è un cantonu tranquillu.** Qualchissia chì vole andà via deve pudè fà lu facilmente, cù un membru di u persunale per accumpagnà lu.
 
-## Group activity ideas
+## Idee d’attività di gruppu
 
-### Picture bingo
+### Tombula cù fiure
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+A tombula cù fiure rimpiazza i numeri cù fiure chjare, cum’è una teiera, un cane o una rosa, cusì nimu hà bisognu di seguità un numeru longu o di leghje lettere chjuche.
 
-**How to run it:**
+**Cumu guidà la:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Stampate una carta per persona da a nostra pagina [Picture Bingo](/games/picture-bingo/) cù u buttone Stampà. A carta più spessa hè più faciule da manighjà. Plastificate la per riutilizà la.
+2. Distribuite marcatori grandi è facili da piglià, cum’è ghjettoni, tappi o quadrati di cartone.
+3. Aduprate u presentatore nant’à u schermu, nant’à una televisione o un pruiettore, cusì ognunu vede a fiura mentre vo dite u so nome.
+4. Fate una pausa dopu à ogni fiura è invitate à un cummentu cortu: « Qualchissia vole parlà ci d’un cane ch’ellu hà cunnisciutu? » o « Chì rimarcate in sta fiura? »
+5. Cuntinuate à chjamà finu à chì ogni carta hè piena. Ognunu finisce.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Adattà la:** Aduprate menu caselle per e persone chì trovanu una carta piena troppu carica. Un aiutante pò indicà a fiura currispondente per qualchissia chì ne hà bisognu. Certe persone ponu preferisce tene a carta di a fiura è mustrà la à u gruppu.
 
-### Sing-alongs
+### Canti inseme
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+A musica hè una di l’attività di gruppu più apprezzate. L’Alzheimer’s Association nota chì ancu in i stadii avanzati, una persona pò esse capace di [batte un ritmu o cantà una canzona di a so zitellina](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Cumu guidà li:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Sceglite canzone cù e quale e persone sò cresciute, micca e preferite di a persona chì guida. Dumandate à e famiglie ciò chì ogni persona amava.
+- Aduprate musica senza publicità, chì l’Associazione nota pò esse cunfusa.
+- Stampate e parolle in caratteri grandi per quelli chì leghjenu, ma ùn l’imponite micca.
+- Prupunite picculi strumenti, tamburelli à manu o sciarpe da move.
+- Incuragite à batte e mani è à move si, è tenite un vulume còmode.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Adattà li:** Certi canteranu ogni parolla, certi murmuregheranu, certi batteranu un pede, è certi ascolteranu simpliciamente. Tutte ste manere contanu. Vidite a nostra [guida per l’attività musicali](/activities/music/) per sapè ne di più.
 
-### Reminiscence groups
+### Gruppi di ricordi
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Un gruppu di ricordi si riunisce intornu à un tema, cum’è i tempi di a scola, e prime vitture, e cucine o l’estate, aduprendu foto, uggetti è musica. U scopu hè una cunversazione piacevule, micca un ricordu esattu.
 
-**How to run it:**
+**Cumu guidà lu:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Sceglite un tema è purtate qualchì uggettu chì e persone ponu tene: un sbattitore à manu, un guantu di baseball, un cappellu, un catalogu di sementi.
+2. Fate passà un uggettu à a volta. Fate dumande aperte: « Parlà mi di questu », « Chì rimarcate? », « Quale aduprava qualcosa cusì? »
+3. Accogliite ogni risposta. Ùn currigite mai una data o un fattu.
+4. Guidate a cunversazione versu ricordi caldi. E raccomandazioni di pratica notanu chì e persone chì danu cura devenu orientà i ricordi versu memorie pusitive piuttostu chè versu quelle chì ponu causà malessere.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) prupone carte cù fiure da stampà è dumande aperte per tema, chì funzionanu bè cum’è punti di partenza per a discussione. Ci sò più idee in a nostra [guida per i ricordi](/activities/reminiscence/).
 
-### Finish the saying
+### Compie u dettu
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+I detti famigliari (« Chì và pianu, và... ») invitanu tutti à dì a fine inseme. Mustrate [Finish the Saying](/games/finish-the-saying/) nant’à un grande schermu è lasciate risponde u gruppu cù una sola voce. Ci hè una dumanda per parlà dopu à ogni dettu. S’è nimu dice a fine, mustrà tela è passate à l’altru. Ùn ci hè nè bè nè male.
 
-### Large-print word search, together
+### Cerca di parolle in caratteri grandi, inseme
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Pruiettate [Word Search](/games/word-search/) in caratteri grandi nant’à un schermu è circate e parolle in gruppu, o stampate copie per quelli chì preferiscenu travaglià da per elli à a tavula. E parolle vanu solu à traversu è in ghjò.
 
-### Gentle movement
+### Muvimentu dolce
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Stiramenti da pusati, passà una palla o un pallone dolce, o ballà nantu à una sedia cù musica famigliaria. Mustrate ogni muvimentu invece di discrive lu.
 
-### Sorting and matching at the table
+### Classificà è assucià à a tavula
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+E tavule chjuche di trè o quattru persone ponu classificà inseme fiure, pezzi di tela o pusate. Nant’à u schermu, [Picture Pairs](/games/picture-pairs/) si pò ghjucà cù e fiure lasciate visibili, cù una persona chì tocca mentre a tavula parla d’ogni fiura.
 
-## How do I use your games on a big screen?
+## Cumu possu aduprà i vostri ghjochi nant’à un grande schermu?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+I nostri ghjochi funzionanu in un navigatore web, cusì pudete aduprà li nant’à una televisione o un pruiettore senza installà nunda.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Aprite u ghjocu nant’à un urdinatore purtatile o una tavuletta culligata à u schermu cù un cavu o per diffusione.
+2. Mettite u navigatore in pienu schermu è regulate u sonu à un livellu còmode.
+3. Fate chì una persona sola tocchi u schermu mentre u gruppu dice e scelte à voce alta. O passate una tavuletta à una persona chì vole pruvà.
+4. Piantate ogni volta chì u gruppu hè prontu. I ghjochi ùn anu nè timer, nè punti, nè fine furzata.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) è [Conversation Cards](/games/conversation-cards/) sò di solitu i più adatti per i gruppi. Vidite tutte l’opzioni nant’à a nostra [pagina di i ghjochi](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Cumu possu adattà una stessa attività à capacità diverse?
 
-Plan at least three ways to join every activity.
+Preparate almenu trè manere di participà à ogni attività.
 
-| Activity | More independent | Some support | Most support |
+| Attività | Più autonomia | Un pocu d’aiutu | Più aiutu |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Tombula cù fiure | Trova è copre e so fiure | L’aiutante indica; a persona copre | Tene una carta cù a fiura; ascolta è fighja |
+| Cantu inseme | Canta, sceglie a prossima canzona | Murmureghja, batte e mani, usa un strumentu | Ascolta, tene una sciarpa, batte una manu |
+| Gruppu di ricordi | Conta storie | Risponde cù iè o innò o indica | Tene è tocca l’uggettu |
+| Cerca di parolle | Travaglia nant’à a so copia stampata | Trova e parolle nant’à u grande schermu cù un aiutante | Ascolta mentre e parolle sò lette à voce alta |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Per e persone in stadii più avanzati, u NHS nota chì l’attività anu di solitu bisognu d’esse più simplici è di fucalizà si di più nant’à i sensi, cum’è a musica, l’uggetti da toccà è i massaghji di e mani. Un mumentu unu à unu, durante o dopu à u gruppu, pò esse più adattu per elli chè u gruppu stessu. Vidite [attività per i stadii avanzati](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Cumu devenu parlà e persone chì guidanu durante un gruppu?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Presentate vi ogni volta, è aduprate u nome preferitu d’ogni persona.
+- Parlate pianu pianu, date un passu à a volta, è mustrate prima di spiegà.
+- Fate inviti aperti (« Parlà mi di... ») o scelte simplici, mai dumande à prova (« Vi arricurdate...? »).
+- Ùn currigite micca. Ringraziate e persone per ogni cuntribuzione.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Ci sò più infurmazioni in i nostri [cunsiglii per a cumunicazione](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Finisce bè, è lascià andà e persone
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Piantà hè un bonu risultatu. Fighjate i segni chì qualcunu hè stancu, inquietu o turbatu, è fate chì un aiutante li pruponga una spassighjata o un postu tranquillu in altrò. Qualchissia chì s’addurmenta durante un cantu inseme pò esse simpliciamente à l’agiu.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Chjudite ogni gruppu di a listessa manera, cù una canzona famigliaria o un simplice ringraziamentu, cusì chì a fine sia calma è prevista. Dopu, scrivite poche note nant’à ciò chì hà funziunatu è ciò chì ogni persona hà apprezzatu. Sti appunti aiutanu à rende megliu a prossima volta.

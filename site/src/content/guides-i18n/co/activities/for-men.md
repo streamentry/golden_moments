@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Attività per l'omi cù dimenza"
+seoTitle: "Attività per l'omi cù dimenza: idee vere"
+description: "Idee d'attività per l'omi chì campanu cù a dimenza, basate nant'à u travagliu, i passatempi è e routine, cù cunsiglii per adattalle in sicurità."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  E megliu attività per un omu chì campa cù a dimenza venenu da a so propria
+  vita: u travagliu ch'ellu hà fattu, i passatempi ch'ellu hà amatu è e routine
+  di ogni ghjornu. Un anticu impiegatu pò piace d'ordinà carte, un meccanicu pò
+  piace di manighjà arnesi puliti, è un appassiunatu di sport pò piace una vechja
+  partita. I gusti sò diversi da un omu à l'altru, allora partite da a persona,
+  micca da u so generu.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Partite da a storia propria di st'omu: u so travagliu, i so passatempi, e so routine è ciò di chì era fieru."
+  - "I travaglii cù un scopu reale, cum'è classificà ferramenta, lavà a vittura o levigà u legnu, spessu piacenu più chè l'attività chì parenu una lezzione."
+  - "Micca tutti l'omi amanu l'arnesi o u sport. Parechji piacenu cucinà, a musica, u giardinu, l'arte o piglià cura d'altri. Dumandate, fighjate è seguitate ciò ch'ellu vi mostra."
+  - "Rendite sicuri i travaglii di tipu manuale cacciendu l'arnesi taglienti è stendu vicinu, è simplificate li secondu e capacità chì cambianu."
+  - "Hà u dirittu di dì di nò. Prupunite un rolu, micca un compitu, è pruvate torna un altru ghjornu."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Chì attività piacenu à l'omi chì campanu cù a dimenza?"
+    a: "Ùn ci hè micca una lista unica, perchè i gusti di l'omi sò diversi cum'è quelli di tutti. Bon punti di partenza sò i travaglii ligati à ciò ch'ellu facia prima, cum'è ordinà carte o classificà bulloni è dadi, inseme à i passatempi ch'ellu amava, cum'è a pesca, e vitture, a musica, a cucina o u sport. Fighjate ciò ch'ellu face da per ellu è partite da quì."
+  - q: "U mo babbu ricusa l'attività in gruppu. Chì possu fà?"
+    a: "Parechje persone, omi è donne, rifiutanu l'attività chì parenu una lezzione o chì danu l'impressione d'esse infantili. Pruvate à prupone un aiutiu reale: « Mi pudereste aiutà à classificà què? » I gruppi chjuchi o un mumentu solu à solu ponu ancu esse più còmudi chè una sala grande."
+  - q: "Hè sicuru di lasciallu aduprà arnesi?"
+    a: "Solu cù a vostra presenza è arnesi sicuri. Cacciate l'arnesi elettrichi, e lame è tuttu ciò chì taglia, è prupunite travaglii cum'è levigà un bloccu di legnu, classificà ferramenta pulita, o stringhje grossi bulloni à manu. L'Alzheimer's Association cunsiglia di caccià l'uggetti periculosi da un attellu per ch'ellu si possa sempre fà un travagliu cum'è a levigatura in sicurità."
+  - q: "Era un prufessiunale. I travaglii simplici li pareranu offensivi?"
+    a: "Pò esse, s'elli sò presentati cum'è un occupamentu senza scopu. Presentate u travagliu cum'è un veru aiutiu, aduprate materiali d'adultu, è sceglite qualcosa vicinu à u so vechju rolu, cum'è rivede una lista, urganizà un cartulare o aiutà à preparà un inviu postale. S'ellu era assai bravu in qualcosa, un'attività ligata ma diversa pò esse menu paragunata à ciò ch'ellu facia prima."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Spessu e persone cercanu « attività per l'omi cù dimenza » perchè i suggerimenti abituali ùn parenu micca adattati à l'omu di a so vita. Hè una dumanda normale. Ma a risposta ùn hè micca una lista d'attività « da omi ». Hè di partì da st'omu particulare: ciò ch'ellu facia per campà, ciò ch'ellu facia u weekend, è ciò chì li dava u sintimu d'esse utile. I gusti sò diversi per ognunu. Parechji omi amanu cucinà, travaglià in giardinu, dipinghje o cantà, è parechje donne amanu e vitture è u baseball.
 
-## How do I find activities he will actually enjoy?
+## Cumu possu truvà attività chì li piaceranu veramente?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Cuminciate cù a so storia di vita. L'Alzheimer's Association suggerisce di custruisce un [pianu di a ghjurnata](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) intornu à ciò chì a persona piace o ùn piace micca, à i so punti forti è à i so interessi, è à a manera ch'ella avia di urganizà e so ghjurnate. Dumandatevi:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Chì travagliu facia?** Uffiziu, campagna, fabbrica, mistieru, armata, vendita, insignamentu, guida, a casa?
+- **Chì facia in u so tempu liberu?** Pesca, carte, travagliu di legnu, sport, chjesa, musica, cucina, una vittura in u garage?
+- **Chì routine avia?** Caffè è ghjurnale ogni matina? Fighjà u tempu? Lavà a vittura u sabbatu?
+- **Chì cumencia sempre da per ellu?** L'Associazione nota chì, s'una persona principia un compitu senza ch'ellu li sia dumandatu, cum'è spazzà u pavimentu, quellu compitu pò entre in a so routine.
+- **Chì evita?** Certi piacenu fighjà u sport; per d'altri, u ritimu è u rumore ponu esse fastidiosi. Fighjate quandu pare cuntentu, ansiosu o irritatu.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Parlate ancu cù a famiglia è i vechji amichi. Puderanu ramintà interessi chì sò un pocu scurdati in a vita di ogni ghjornu.
 
-## Activity ideas based on past work
+## Idee d'attività basate nant'à u travagliu passatu
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+L'Alzheimer's Association dà un esempiu chjaru: un anticu impiegatu pò piace d'urganizà cose, cum'è mette munete in un portarighjittone, aiutà à preparà un inviu postale o fà una lista di cose da fà, mentre chì un anticu agricultore o giardiniere pò piace di travaglià fora. A stessa idea vale per parechji mistieri.
 
-| Past work | Activity ideas | Simpler version |
+| Travagliu passatu | Idee d'attività | Versione più simplice |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Uffiziu o cummerciu | Classificà carte in cartulari, timbrà buste, rivede una lista, urganizà un tiratore | Impilà buste; mette i tromboni in una scatula |
+| Mistieri o meccanica | Classificà bulloni, dadi è rondelle puliti; stringhje grossi bulloni à manu; fighjà cataloghi d'arnesi | Classificà per taglia in dui tazzi |
+| Agricultura o giardinu | Annaffià, mette piante in vasi, rastrellà foglie, fighjà u giardinu | Stà à pusà fora mentre voi travagliate; tene i sacchetti di sementi |
+| Armata | Lucidà scarpi, mette in ordine un tiratore, fighjà ritratti di u serviziu s'ellu li piace | Ascoltà musica di quellu periodu |
+| Vendita o accolta di u publicu | Salutà i visitori, distribuisce merendelle, classificà cuponi | Stà vicinu à a porta per dì bonghjornu |
+| Insignamentu | Leghje à voce alta, urganizà libri, classificà stampi per tema | Fighjà inseme un libru d'imagine |
+| Guida o trasportu | Fighjà carte o vechje riviste di vitture, lavà a vittura | Fighjà e vitture passà da un purtonu |
+| Casa è famiglia | Piegà a bughjata, mette a tavula, aiutà à preparà cena | Liscià i tovaglioli; girà cù una cucchiara |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Certi ricordi, cum'è u serviziu militare, ponu risveglià emozioni forti. Seguitate ciò ch'ellu vi mostra, mantenite a cunversazione nant'à u passatu in modu pusitivu, è cambiate sughjettu cun dolcezza s'ellu pare turbatu.
 
-## Activity ideas based on hobbies
+## Idee d'attività basate nant'à i passatempi
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Travagliu di legnu.** Levigà un bloccu di legnu lisciu o dipinghje un picculu casottu per l'acelli. L'Alzheimer's Association suggerisce di caccià i materiali è l'arnesi periculosi da l'attellu per ch'ellu si possa fà in sicurità un'attività cum'è a levigatura.
+2. **Pesca.** Classificà una scatula di pesca senza ami, sfogliare riviste di pesca, o stà inseme vicinu à un stagnu.
+3. **Vitture.** Lavà a vittura, lucidà u cromu, fighjà ritratti di vitture d'epica, o fà un giru in vittura cum'è passageru.
+4. **Sport.** Fighjà una vechja partita o i mumenti principali, lancià una palla morbida, mette palle da golf nant'à un tappettu, o classificà carte di baseball.
+5. **Carte è ghjochi.** Una partita simplice d'un ghjocu di carte cunnisciutu, i domino, o vultà carte per truvà una coppia. Mantinite un'aria rilassata è lasciate perde u fattu di cuntà i punti.
+6. **Musica.** Canzone di a so adulescenza è di i so vint'anni, un gruppu preferitu, o un cantu. Fighjate a nostra [guida nant'à l'attività cù a musica](/activities/music/).
+7. **Cucina è grillata.** Lavà ligumi, girà una salsa, furmà hamburger, o caccià li i detaglii di a so famosa ricetta mentre voi a preparate.
+8. **U ghjurnale.** L'Alzheimer's Association nota chì una persona chì hà sempre lettu u ghjurnale pò sempre piace di falla, ancu s'ella ùn riesce più à seguità tuttu u cuntenutu. U caffè è u ghjurnale ponu sempre fà parte di a matina.
+9. **Custruisce.** Kit di mudelli cù pezzi grossi o insemi di custruzzione simplici per adulti. Sceglite pezzi faciuli à piglià in manu.
+10. **Piglià cura di qualcosa.** Dà da manghjà à un animale, riempie a manghjatoghia di l'acelli, o annaffià e piante. U NIA cita [dà da manghjà, accudisce o purtà à spassu un animale](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) trà l'attività chì certe persone ponu piace.
 
-## How do I offer an activity without it feeling like busywork?
+## Cumu possu prupone un'attività senza ch'ella paia un occupamentu senza scopu?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Presentatela cum'è un veru aiutiu. L'Alzheimer's Association suggerisce di dumandà « Mi pudereste aiutà, per piacè? » è di ligà i travaglii à un scopu. Paragunà:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- « Vuleti classificà sti bulloni? » (sona cum'è una prova)
+- « Aghju compru un saccu di ferramenta mista è aghju bisognu di classificalla nanzu di riparà a scaffale. Mi date una manu? » (sona cum'è un aiutiu reale)
 
-Other tips:
+Altri cunsiglii:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Aduprate materiali d'adultu.** Veri arnesi senza parti taglienti, veri cataloghi, vere buste.
+- **Travagliate fiancu à fiancu.** Dui persone chì facenu un travagliu inseme stanu in cumpagnia. Una persona chì fighja l'altra pò avè a sensazione d'esse cuntrollata.
+- **Ùn curregite micca.** S'è i bulloni finiscenu in u tazzu sbagliatu, ùn face nunda. Ciò chì conta hè u tempu passatu inseme è u sintimu d'esse utile.
+- **Aiutatelu à principià.** L'Alzheimer's Association nota chì parechje persone anu sempre a vulintà di fà cose, ma ponu avè difficultà à urganizassi è à cumincià. Fate u primu gestu inseme.
 
-## How do I adapt as things change?
+## Cumu possu adattà l'attività quandu e cose cambianu?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Quandu a dimenza avanza, l'Alzheimer's Association suggerisce di prupone travaglii più simplici è più ripetitivi, è d'esse pronti à chì a persona abbia un rolu menu attivu. Un omu chì riparava mutori pò avà piace di tene una chjave pulita in manu è di parlà di vitture, o di fighjà vi travaglià. Fighjà hè ancu participà.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+S'ellu era assai bravu in qualcosa, un'attività ligata pò esse più piacevule chè u so vechju mistieru. L'Associazione nota chì un artista prufessiunale pò esse frustratu da i cambiamenti in u so travagliu, mentre chì un dilettante pò truvà piacè in una nova manera di fà. A listessa cosa pò vale per un maestru falegname.
 
-## Safety with work-style tasks
+## Sicurità cù i travaglii di tipu manuale
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Cacciate l'arnesi elettrichi, e lame, i chjodi è e viti cù a punta aguzza.
+- Chjudite à chjave diluenti, benzina è prudutti chimichi.
+- Tenite e chjavi di a vittura fora di vista s'ellu ùn guida più.
+- State vicinu durante tutti i travaglii in l'attellu è in giardinu.
+- Sceglite pezzi grossi chì ùn si ponu micca ingolle.
 
-## What if he says no?
+## È s'ellu dice di nò?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Rispettate a so risposta. Un nò pò vulè dì chì u travagliu pare troppu difficiule, troppu infantile o simpliciamente micca adattatu oghje. L'Alzheimer's Association ricumanda di ùn furzà micca. Pruvate un altru travagliu, un altru mumentu, o sempliciamente state inseme. Fighjate [chì fà quandu dice di nò](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Ghjochi è cunversazione adattati
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) adopra sprissioni americane cunnisciute è apre a strada à a cunversazione. [Conversation Cards](/games/conversation-cards/) prupone dumande aperte per tema, senza prova, chì ponu fà nasce ricordi nant'à u travagliu è i passatempi. [Picture Puzzle](/games/picture-puzzle/) lascia l'imagine sana visibile mentre si cambianu i pezzi, è u [Word Search](/games/word-search/) à grandi caratteri pò esse stampatu è fattu cù una penna à a tavula di cucina. Per manere di parlà di u so passatu senza mettelu à a prova, fighjate a nostra [guida nant'à a rievucazione di i ricordi](/activities/reminiscence/).

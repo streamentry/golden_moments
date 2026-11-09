@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Visità à qualchissia cù dimenzia: centru o uspidale"
+seoTitle: "Visità à qualchissia cù dimenzia: chì fà è chì purtà"
+description: "Chì fà quandu visitate una persona cù dimenzia in un centru di cura o à l’uspidale: chì purtà, attività simplici, visite corte è cumu parte bè."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Quandu visitate una persona chì campa cù a dimenzia in un centru di cura o à
+  l’uspidale, fate simplice: dite u vostru nome quandu ghjungnite, purtate
+  qualcosa da sparte cum’è fotò, musica o un spuntinu preferitu, è fate una
+  cosa faciule inseme. E visite più corte è rigulari spessu vanu megliu cà e
+  visite longhe è rare. Preparà un addiu calmu è sempre uguale pò rende più
+  faciule a partenza per voi è per a persona.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Salutà a persona cù u so nome è dite quale site, cusì ùn hà micca da circà di capì: « Salute Mamà, sò Susan, a to figliola »."
+  - "Purtà una o duie cose da sparte, cum’è un album di fotò, a musica preferita, una cuperta dolce o un spuntinu appruvatu da u persunale."
+  - "E visite più corte è rigulari spessu vanu megliu cà e visite longhe è pocu frequenti. A vostra presenza conta più di ciò chì dite."
+  - "À l’uspidale, date à u persunale un fogliu d’una pagina nantu à a persona è dite subitu à u duttore s’ellu ci hè un cambiamentu subitaneu."
+  - "Preparà a vostra partenza: dite quantu tempu pudete stà, aduprate u listessu addiu ogni volta, è partite senza stà troppu à longu."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Chì devu purtà quandu visitu una persona cù dimenzia?"
+    a: "Purtà qualcosa da sparte piuttostu cà qualcosa di chì parlà. Un picculu album di fotò, una lista di e so canzone preferite, una cuperta dolce, una crema per e mani, una rivista nantu à un vechju passatempu, o un spuntinu appruvatu da u persunale vanu bè. In un centru di cura, e fotò di famiglia è l’ogetti familiari ponu ancu aiutà a stanza à parè più cum’è una casa."
+  - q: "Quantu tempu devu stà quandu visitu una persona cù dimenzia?"
+    a: "Ùn ci hè una durata ghjusta. Parechje famiglie trovanu chì e visite più corte è più frequenti vanu megliu cà e visite longhe è rare, perchè a persona pò stancassi prestu è pò ùn si ricurdà micca di quantu tempu site statu. Fighjate i segni di stanchezza è partite mentre a visita si sente sempre bè."
+  - q: "Chì dicu s’ella dumanda di vultà in casa?"
+    a: "Rispondite à u sintimu, micca à e parolle. « Vogliu andà in casa » spessu vole dì « Ùn mi sentu micca à u mio agiu o in sicurità ». Pruvate à dì: « Parlatemi di a vostra casa », fighjà e fotò inseme, o prupone una piccula spassighjata o un spuntinu. Discutà o spiegà perchè ùn pò micca parte di solitu aumenta u malessu."
+  - q: "È s’ella ùn mi ricunnosce micca?"
+    a: "Pò fà male, ma pruvate à ùn a currege micca è à ùn dumandà micca: « Ùn sapete micca quale sò ? » Presentatevi cun calore è simplicità, è prufittate di u mumentu inseme. Parechje persone ponu sempre apprezzà a cumpagnia è sente u calore di una visita, ancu s’elle ùn riescenu micca à ricunnosce quale site."
+  - q: "Cumu possu aiutà durante un sughjornu à l’uspidale?"
+    a: "State cù a persona quandu pudete, aiutetela à manghjà è à beie, è purtate ogetti familiari cum’è fotò. Date à u persunale un fogliu cù a so rutina, u nome ch’ella preferisce, ciò ch’ella li piace, ciò ch’ella ùn li piace micca è i segni di dulore. Dite subitu à u duttore s’ella pare subitaneamente più male o diversa, perchè una cunfusione subitanea pò esse u segnu di un prublema di salute."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Visità una persona cara in un centru per e persone cù dimenzia, in una casa di riposu o à l’uspidale pò suscità parechji sintimi. Pudete dumandavvi ciò chì dì, ciò chì purtà, o s’è a visita conta ancu s’ella ùn si ne ricurderà micca. Conta. U National Institute on Aging nota chì e persone cù a malatia d’Alzheimer [spessu apprezzanu a cumpagnia](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ancu quandu ùn si ricordanu micca di quale hè u visitatore. Sta pagina dà passi pratichi per prima, durante è dopu à una visita, cù cunsiglii particulari per i sughjorni à l’uspidale.
 
-## How do I get ready for a visit?
+## Cumu mi preparu per una visita?
 
-A little planning makes the visit easier for both of you.
+Un pocu di preparazione pò rende a visita più faciule per voi è per a persona.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Sceglite un bonu mumentu.** Dementia Australia suggerisce di visità quandu a persona hè di solitu più attenta, ciò chì per parechje persone hè a matina o versu meziornu. A Family Caregiver Alliance suggerisce d’imparà l’orariu di a struttura è di visità durante [u tempu liberu piuttostu cà durante l’attività](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Verificate cù u persunale.** Dumandate cumu hè stata a persona oghje, è verificate e regule nantu à l’alimentu, l’animali o e surtite.
+- **Preparate una piccula borsa per a visita.** Una o duie cose da sparte sò abbastanza (fighjate a lista quì sottu).
+- **Pensate à qualchì sughjettu.** A persona pò ùn avè micca nutizie da sparte, allora purtate e vostre: nutizie di famiglia, u tempu, una partita, una storia divertente.
+- **Aghjustate e vostre aspettative.** Certi visite seranu calde è piene di parolle. Altre seranu tranquille o più difficiule. E duie cose sò nurmali.
 
-## What should I bring?
+## Chì devu purtà?
 
-Bring things to share, not things that test. Good choices include:
+Purtate cose da sparte, micca cose chì mettenu à prova. E bone scelte includenu:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Un picculu album di fotò** cù fotò grande è chjare. Scrivite l’etichette daretu per u persunale.
+- **Una lista di canzone** preferite nant’à un telefuninu, cù cuffie simplici o un picculu altuparlante.
+- **Qualcosa di dolce da tene,** cum’è una cuperta, una sciarpa o un maglione familiare.
+- **Una crema per e mani** per un massaghju dolce di e mani, s’è a persona li piace u toccu.
+- **Una rivista o un libru d’imagine** nantu à un vechju interessu, cum’è u giardinu, e vitture, l’acelli o a cucina.
+- **Un spuntinu preferitu,** s’è u persunale dice chì hè sicuru.
+- **Ogetti familiari per a stanza.** A Family Caregiver Alliance suggerisce fiori, piante, fotò di famiglia è opere d’arte, o un grande poster cù fotò di famiglia di u passatu.
+- **Una tavuletta,** per fighjà fotò di famiglia o ghjucà inseme à un ghjocu dolce.
 
-## What can we do together during a visit?
+## Chì pudemu fà inseme durante una visita?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Fà qualcosa inseme pò caccià a pressione di a cunversazione. Dementia Australia suggerisce di fighjà fotò, fà un mistieru faciule, piantà piantine, ascultà musica, sparte un spuntinu, o fà una spassighjata in i dintorni. Eccu qualchì altra idea:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Fighjà e fotò.** Dite ciò chì vidite: « Fighjate stu cappellu ». « Sta spiaghja pare bella ». Lasciate guidà a persona. Evitate di dumandà: « Quale hè questu? »
+2. **Mette musica è cantà.** E canzone familiari ponu aiutà l’umore è creà un mumentu spartutu, ancu quandu parlà hè difficiule.
+3. **Fà una spassighjata corta.** A Family Caregiver Alliance suggerisce di spassighjà in a struttura, soprattuttu in u giardinu s’ellu ci n’hè unu. Una spassighjata in sedia à rotule conta dinù.
+4. **Fà un massaghju di e mani.** Un pocu di crema è movimenti lenti nant’à e mani ponu esse calmanti.
+5. **Aiutà cù a cura persunale.** Dementia Australia parla di spazzulà i capelli, pitturà l’unghje o aiutà a persona à mette un vistitu preferitu, s’ella li piace.
+6. **Ghjucà à un ghjocu simplice.** A Family Caregiver Alliance suggerisce carte, dumini, o ciò chì a persona avia l’abitudine di ghjucà. Nant’à una tavuletta, [Picture Pairs](/games/picture-pairs/) si pò ghjucà cù e fiure sempre visibili è senza cronometru. [Photo Pairs](/games/photo-pairs/) trasforma e fotò chì sceglite in un ghjocu d’abbinamentu, è e fotò stanu in u vostru navigatore.
+7. **Fighjà qualcosa inseme.** A Family Caregiver Alliance suggerisce cumedie è vechji filmi. Ancu s’è a persona ùn pò micca seguità a storia, pudete stà vicinu è sparte u mumentu.
+8. **Leghje à voce alta.** Una puesia corta, un passaghju preferitu, o una lettera d’un membru di a famiglia.
+9. **Stà simpliciamente inseme.** Tenesi per manu o stà tranquilli hè una vera visita. L’Alzheimer’s Association nota chì ùn hè micca un prublema s’è ùn sapete micca ciò chì dì, è chì a vostra presenza conta più di tuttu.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) pò aiutà quandu ùn sapete più ciò chì dì. Ogni carta hà una fiura è una dumanda aperta.
 
-## How should I talk during the visit?
+## Cumu devu parlà durante a visita?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Presentatevi ogni volta.** « Salute Babbu, sò Mark, u to figliolu ». U NIA suggerisce à i visitatori di presentassi brevemente per cumincià una cunversazione.
+- **Avvicinatevi da davanti** è pusatevi à u livellu di i so ochji.
+- **Ùn currege micca è ùn discute micca.** U NIA cunsiglia à i visitatori di ùn currege micca a persona s’ella face un sbagliu o si scorda di qualcosa.
+- **Siate paziente** quandu e parolle sò difficiule à truvà. Lasciate abbastanza tempu.
+- **Rispondite à i sintimi.** S’è a persona pare trista o preoccupata, ricunnoscite quessu prima di cambià sughjettu.
+- **Evitate e dumande cum’è un esame**, per esempiu « Vi ricordate di mè? » o « Chì avete manghjatu à meziornu? »
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Fighjate i nostri [cunsiglii di cumunicazione](/caregiving/communication-tips/) per sapè ne di più.
 
-## What do I do when they say "I want to go home"?
+## Chì facciu s’ella dice « Vogliu andà in casa »?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Rispondite à u sintimu daretu à e parolle (a nostra guida nantu à [quandu qualchissia dumanda spessu di vultà in casa](/caregiving/asking-to-go-home/) va più luntanu). A Family Caregiver Alliance spiega chì « Vogliu andà in casa » hè di solitu un modu per dì « Ùn mi sentu micca à u mio agiu », è suggerisce risposte cum’è « Parlatemi di a vostra casa » o « Chì hè a cosa chì preferite in casa ? » Dementia Australia aghjunghje chì « casa » pò significà un tempu o un locu induve a persona si sintia in sicurità, cum’è l’infanzia.
 
-Try:
+Pruvate à:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- ricunnosce u sintimu: « Si vede chì a casa vi manca ».
+- offre cunfortu cù u toccu, s’ella hè d’accunsentu
+- fighjà fotò o parlà di a casa di famiglia
+- prupone una spassighjata, una bevanda o un spuntinu
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Evitate di discute o di spiegà perchè ùn pò micca parte. Questu aiuta di raru è spessu aumenta u malessu.
 
-## How long should a visit be?
+## Quantu deve durà una visita?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Visite più corte è più frequenti spessu vanu megliu. A Family Caregiver Alliance nota chì a persona di solitu ùn si ricorda micca s’è site statu cinque minuti o cinque ore, è suggerisce chì trè visite corte à settimana ponu esse megliu cà una longa. Dementia Australia dice chì ùn ci hè micca un numeru ghjustu di visite nè una durata ghjusta.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+In e prime settimane dopu à un trasferimentu in un centru per e persone cù dimenzia, a Family Caregiver Alliance suggerisce di visità spessu, è po d’installà pianu pianu una rutina regulare. Dumandate à u persunale ciò ch’elli vedenu.
 
-## How do I leave without upsetting them?
+## Cumu partu senza disturballa?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Partè pò esse a parte più difficiule. Dementia Australia suggerisce:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Dite quantu tempu pudete stà quandu ghjungnite.** « Possu stà una ora, è po vogu à fà e spese ».
+- **Aduprate un’attività cum’è una fine naturale.** « Quandu finiscemu sta canzona, partu ».
+- **Sceglite u mumentu di un pasti o d’un’attività,** o dumandate à u persunale d’aiutà a persona à passà à qualcosa d’altru.
+- **Fate un addiu cortu è sempre uguale.** Stà troppu à longu, scusassi o restà « solu un pocu di più » pò rende più difficiuli l’addii à vene.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Dopu à a vostra partenza, hè nurmale di sente tristezza. Lasciatevi ripusà. S’è a persona hè stata disturbata, u persunale pò di solitu aiutalla à calmassi pocu dopu.
 
-## Visiting someone with dementia in the hospital
+## Visità una persona cù dimenzia à l’uspidale
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+L’uspidale hè rumorosu, pocu familiare è pienu di persone scunnisciute, ciò chì pò esse assai difficiule per una persona chì campa cù a dimenzia. A guida di u NIA nantu à [purtà una persona cù a malatia d’Alzheimer à l’uspidale](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ricumanda:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Fate chì qualchissia resti cù a persona** u più pussibule: un membru di a famiglia, un amicu di fiducia o una persona pagata per aiutà.
+- **Date à u persunale un fogliu d’infurmazioni persunale** cù a rutina di a persona, u nome ch’ella preferisce, ciò ch’ella li piace è ciò ch’ella ùn li piace micca, ciò chì pò disturballa, è i segni di dulore senza parolle. Mettite copie in a stanza è à u postu di l’infermieri.
+- **Aiutate cù i pasti è e bevande.** E persone più anziane ponu manghjà o beie menu à l’uspidale. Aprite i cuntenitori, aiutate durante i pasti, manghjate inseme, è prupunite da beie.
+- **Purtate ogetti chì cunfortanu,** cum’è fotò o ogetti spirituali.
+- **Calate u rumore.** Spenghje a televisione è calate u vulume di i telefuni è di l’interfoni.
+- **Pruvate rituali calmanti,** cum’è musica dolce, lettura, preghera, cantu o fighjà vechje fiure.
+- **Incuraghjite a persona à movesi** quantu hè sicuru, cù l’accunsentu di u persunale.
+- **Dite subitu à u duttore s’è a persona pare subitaneamente più male o diversa.** U NIA spiega chì una cunfusione severa subitanea, chjamata delirium, pò esse causata da prublemi cum’è una infezzione, a frebba, a disidratazione o l’effetti di certi medicamenti, è hà bisognu d’attenzione medica.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Una visita corta è calma cù una faccia familiare è una canzona preferita pò esse a parte più cunfortante di una ghjurnata à l’uspidale.
 
-## Bringing children on a visit
+## Purtà i zitelli à una visita
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+I zitelli ponu purtà assai calore. Preparateli nanzu cù parolle simplici è oneste, fate una visita corta, è date li un picculu rolu, cum’è mustrà un disegnu o purtà una fotò. U NIA suggerisce chì i zitelli è e persone cù a malatia d’Alzheimer ponu piacè attività simplici inseme, cum’è fighjà un album di fotò o ascultà musica. Dementia Australia suggerisce di preparà una piccula borsa cù qualchì spuntinu o cose tranquille per tene occupati i zitelli chjuchi.
 
-## Take care of yourself too
+## Occupatevi ancu di voi
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Visità pò esse stancante è pienu d’emuzione, soprattuttu s’è a persona hà cambiatu assai. Và bè di visità menu spessu s’è avete bisognu, di purtà un amicu per sustegnu, o di parte più prestu in una ghjurnata difficiule. Per idee nantu à cumu pigliavvi cura di voi, fighjate [a cura di sè per e persone chì aiutanu](/caregiving/caregiver-self-care/). S’è campate luntanu, fighjate a nostra guida nantu à [e chjame è e videochjame](/activities/phone-and-video-calls/).

@@ -1,32 +1,28 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Trivia faciule per anziani cun dimenzia, senza pressione"
+seoTitle: "Domande di trivia per anziani cun dimenzia, cun risposte"
+description: "50 domande di trivia faciule per anziani cun dimenzia, cun scelte è spunti di discussione, è cumu fà u ghjocu senza mette nimu à u test o lassa fora."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  E domande di trivia faciule per e persone chì vivenu cun dimenzia funziunanu quandu sò una chiacchjerata, micca un test. Dumandate di cose amparate da bellu tempu, cum'è canzoni antiche, detti, feste è a vita di ogni ghjornu, è offrite sempre duie o trè scelte. Date a risposta senza aspittà, ùn mettite mai nimu in evidenza, ùn cuntate i punti, è aduprate ogni risposta per fà nasce un racontu. E dumande "questu o quellu", senza risposta curretta, sò più adatte à i stadi più avanzati.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Dumandate di cose ben cunnisciute: canzoni, detti, feste, alimenti è a vita di ogni ghjornu di l'anni passati."
+  - "Offrite duie o trè scelte, cusì si pò ricunnosce a risposta invece di deve à ramintalla da solu."
+  - "Date a risposta cù gentilezza è passate à a prossima. Ogni supposta chì face nasce un racontu hè una bona risposta."
+  - "Nisunu puntu, nissunu gruppu in corsa, nimu chjamatu à nome. Lasciate chì e risposte venganu da tuttu u gruppu."
+  - "Quandu hè troppu difficiule sceglie trà e scelte, passate à e dumande 'questu o quellu' senza risposta curretta."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Sò e dumande di trivia boni per e persone chì vivenu cun dimenzia?"
+    a: "Ponu esse boni, s'elle sò fatte cù dolcezza. A fundazione Alzheimer di l'America mette e dumande di trivia trà l'attività per u primu stadiu. Cuncentratevi nantu à temi ben cunnisciuti da tantu tempu, offrite scelte, ùn mettite mai nimu in primu pianu, è aduprate e risposte per fà nasce una chiacchjerata piuttostu chè per fà un test."
+  - q: "Chì temi funziunanu megliu in un ghjocu di trivia per a dimenzia?"
+    a: "In generale funziunanu megliu e cose amparate da bellu tempu: e canzoni è i cantanti di a ghjoventù di a persona, i detti cunnisciuti, e feste, l'alimenti, u sport è a vita di ogni ghjornu, cum'è a consegna di u latte o i telefuni à rotella. Evitate l'ultime nutizie è tuttu ciò chì averia bisognu à ramintà qualcosa accadutu pocu fà in a sessione."
+  - q: "Cumu pò esse fattu un ghjocu di trivia in una casa di cura senza mette nimu in imbarazzu?"
+    a: "Leghjite ogni dumanda à tuttu u gruppu, mustrate o dite e scelte, è accettate e risposte da tutti. Ùn chjamate nimu à nome è ùn cuntate i punti. Dite a risposta cù un surrisu, chì un abbia induvinatu currettamente o micca, è fate una seguita, cum'è 'Ci hè statu qualchissia quì chì hè andatu à u cinema à l'automobile?', per fà nasce raconti."
+  - q: "Chì possu fà in vece di trivia in i stadi più avanzati?"
+    a: "Passate à dumande senza risposta curretta, cum'è 'Caffè o tè?' o 'Mare o muntagna?', è finite inseme detti o canzoni ben cunnisciuti. Osservà è discrive inseme e fiure pò ancu funziunà assai."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+U ghjocu di trivia hè unu di l'attività di gruppu più dumandate in e case di cura è in i centri di ghjornu, è parechje famiglie u ghjucanu ancu à a tavula di cucina. S'ellu hè fattu à u modu abituale, cun punti è una sola persona chì risponde, pò mette in primu pianu è imbarazzà una persona chì vive cun dimenzia. S'ellu hè fattu cù dolcezza, diventa un modu vivace per sente raconti. Quì sottu truverete 50 dumande faciule, cun e scelte di risposta è un spuntu di discussione per ognuna, seguitate da cumu fà una sessione.
 
-## How do you make trivia work for someone with dementia?
+## Cumu fà funziunà u trivia per una persona chì vive cun dimenzia?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Bisogna cuncentrassi più nantu à u ricunnosce è à u ramintà e cose di un tempu luntanu, è fà sì chì ogni risposta sia accolta.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Dumandate di u passatu luntanu.** L'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dice chì u primu sintumu più cumunu di u morbu d'Alzheimer hè a difficultà à ramintà e cose imparate di novu. E canzoni, i detti è a vita di ogni ghjornu di parechji decennii fà sò spessu più faciuli à ramintà.
+2. **Date sempre scelte.** Sceglie trà duie o trè risposte hè assai più faciule chè truvà a risposta da zero.
+3. **Leghjite e dumande à voce alta è mustratele in grande.** Una lavagna bianca o una tabletta tenuta alta pò aiutà quelli chì sentenu menu.
+4. **Date a risposta liberamente.** S'ellu nimu ùn a sà, dite cù gentilezza è passate à a prossima. Ùn dite mai: "Andate, a sapete puru".
+5. **Nisunu puntu.** Nè per una persona, nè per un tavulinu. S'ellu ci hè vuluntà di cuntà qualcosa, cuntate solu u gruppu in tuttu.
+6. **Ùn chjamate mai nimu à nome.** Lasciate chì e risposte venganu da tutti. In un scambiu à duie persone, rispondite inseme: "Pensu chì sia u pianoforte. È tu chì ne pensi?"
+7. **Aduprate u spuntu di discussione.** A risposta hè un principiu, micca una fine. I raconti sò u veru scopu.
+8. **Fate pocu.** Dieci dumande, cun raconti trà l'una è l'altra, sò più chè abbastanza.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dice chjaramente: fate casu à a frustrazione è assicuratevi chì a persona si senta capace. L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mette e dumande di trivia trà l'attività per u primu stadiu. In u stadiu mezu, cuntenetevi à duie scelte è appughjavitevi di più nantu à i spunti di discussione. In i stadi più avanzati, passate à e dumande "questu o quellu" chì truverete più à bassu.
 
-## Music and entertainment trivia
+## Trivia di musica è di divertimentu
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+A risposta hè in **nerettu**. Adupratele secondu a persona: à quellu chì hè cresciutu cù a musica Motown ponu piace cantanti sfarenti da quellu chì hè cresciutu cù e bande.
 
-| Question | Choices | Talk about |
+| Dumanda | Scelte | Di chè parlemu |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Quale era chjamatu u rè di u rock and roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Avete mai vistu Elvis in televisione? |
+| Quale cantante era soprannuminatu Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Quale canzona di Sinatra vi piace di più? |
+| Bing Crosby sognava un biancu... | **Natale**, matrimoniu, casa | Cantemu inseme una linea |
+| Louis Armstrong cantava "What a Wonderful..." | Day, **World**, Life | Chì rende u mondu maravigliosu per voi? |
+| "Over the Rainbow" era cantata da Judy Garland in quale film? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Induva avete vistu i vostri filmi preferiti? |
+| Quale ghjucava u rolu di Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Quale spetaculi vidìa a vostra famiglia inseme? |
+| Quale cowboy cavalcava un cavallu chjamatu Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Ghjucavate mai à i cowboys quand'eri zitellu? |
+| Quale hà presentatu "The Tonight Show" per 30 anni? | Ed Sullivan, **Johnny Carson**, Bob Hope | State mai à veghja tardi per vede a televisione? |
+| Quale strumentu hà 88 tasti? | Chitarra, **pianoforte**, tromba | Ci era qualchissia in a famiglia chì u sunava? |
+| Quale ballu si conta unu-due-trè, unu-due-trè? | **Valzer**, twist, tango | Induva andavate à ballà? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Per sapene di più nantu à a musica, vidite [attività di musica per a dimenzia](/activities/music/).
 
-## Everyday life trivia
+## Trivia di a vita di ogni ghjornu
 
-| Question | Choices | Talk about |
+| Dumanda | Scelte | Di chè parlemu |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Nanzu à i frighjori, in parechje case si tenìa u manghjà frescu in un... | **Ghiacciaia di legnu (icebox)**, fornu, soffitta | Quale purtava u ghjacciu? |
+| Quale purtava u latte à a porta in buttiglie di vetru? | U postinu, **u lattaio**, u ghjurnalaio | Chì altru purtavanu à a casa? |
+| Cumu si cumpunìa un telefonu à rotella? | Premendu tasti, **girendu una rota**, parlandu cun ellu | Parlàtemi di u telefonu in casa vostra |
+| Quale casa hà fabricatu a Model T? | **Ford**, Chevrolet, Buick | Parlàtemi di una vittura chì vi piaceva |
+| Induva si truvava un "soda jerk"? | **In un bancone di bevande**, in una panetteria, in una banca | Chì ordinavate à quellu bancone? |
+| Quale ghjucattulu hè una molla metallica chì pò falà e scale? | Yo-yo, **Slinky**, hula hoop | Quale ghjucattuli amate? |
+| Un "drive-in" era un postu per vede... | **Filmi da a vittura**, partite, sfilate | Cù quale ci andavate? |
+| A faccia di quale hè nantu à u bigliettu d'un dollaru? | Lincoln, **George Washington**, Jefferson | Chì si pudia cumprà cun un dollaru tandu? |
+| A faccia di quale hè nantu à un centesimu? | **Abraham Lincoln**, Washington, Franklin | Mettevate mai i centesimi in un vasu? |
+| Di chì culore hè di solitu u scuolabus? | Rossu, **giallu**, turchinu | Cumu andavate à a scola? |
 
-## Holidays, nature and places
+## Feste, natura è lochi
 
-| Question | Choices | Talk about |
+| Dumanda | Scelte | Di chè parlemu |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Quale festa hè u quartu ghjovi di nuvembre? | Festa di u travagliu, **Ringraziamentu**, Memorial Day | Chì ci era sempre nantu à a tavula? |
+| E zucche intagliate si facenu per quale festa? | **Halloween**, Pasqua, Natale | Parlàtemi di Halloween induva siate cresciuti |
+| U 4 di lugliu celebra a Dichjarazione di... | Diritti, **Indipendenza**, Libertà | Induva vedevate i fuochi d'artificiu? |
+| A festa di a mamma hè in quale mese? | Aprile, **Maghju**, Ghjugnu | Cumu a celebrava a vostra famiglia? |
+| Quante stelle ci sò nantu à a bandiera americana? | 48, **50**, 52 | A bandiera hà avutu 48 stelle finu à u 1959. Ogni risposta pò esse un bonu ricordu |
+| Quale oceanu si trova nantu à a costa est? | Pacificu, **Atlanticu**, Articu | Siate mai andati à u mare? |
+| In quale cità si trova a Statua di a Libertà? | Boston, **Nova York**, Filadelfia | Siate mai stati à Nova York? |
+| Chì facenu l'ave? | Latte, **Mele**, Seta | Meli nantu à u pani o in u tè? |
+| Un zitellu di vacca si chjama... | Puledru, **Vitellu**, Caprettu | Avete mai campatu vicinu à una splutazione? |
+| Quale fiore altu è giallu hè famosu per girassi versu u sole? | Rosa, **Girasole**, Tulipanu | Chì cultivavate in u vostru ghjardinu? |
+| Quanti ghjorni hà un annu bisestile? | 365, **366**, 360 | Parlàtemi di un anniversariu chì vi ramintate |
+| Quale staghjone vene dopu à l'inguernu? | Auturnu, **Prima vera**, Istà | Quale hè a vostra staghjone preferita? |
 
-## Food and sports trivia
+## Trivia di alimenti è di sport
 
-| Question | Choices | Talk about |
+| Dumanda | Scelte | Di chè parlemu |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| L'uve secche sò... | Prugne secche, **Uve secche**, Ciliegie secche | Mettevate l'uve secche in u merennu? |
+| E prugne secche sò... | **Prugne secche**, Fichi secchi, Mele secche | Ci era qualchissia in famiglia chì l'amava? |
+| Butiru d'arachide è... | **Gelatina**, Furmagliu, Prisuttu | Crunchy o lisciu? |
+| U guacamole hè fattu soprattuttu da... | Piselli, **Avocati**, Cetrioli | Quale salse si mettevan à e feste? |
+| Quale torta hè preferita à Ringraziamentu? | **Torta di zucca**, Torta di limonu, Torta di ciliegia | Quale torta facìate? |
+| Quanti ghjucatori sò in un squadra di baseball nantu à u campu? | 7, **9**, 11 | Per quale squadra facìate u tifo? |
+| Quanti strike facenu un out in baseball? | Dui, **Trè**, Quattru | Ghjucavate mai à baseball? |
+| Babe Ruth era famosu per quale sport? | Pugilatu, **Baseball**, Golf | Andavate mai à vede partite di baseball? |
+| Quanti buchi ci sò in un campu di golf normale? | 9, **18**, 24 | Avete mai ghjucatu à golf, o à mini golf? |
+| In quale sport si marca un touchdown? | **Football americanu**, Hockey, Basketball | Quale vide u football americanu in casa vostra? |
 
-## Familiar sayings
+## Detti ben cunnisciuti
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Finisce un dettu attiva u linguaghju amparatu da bellu tempu è spessu vene natu. U nostru ghjocu [Finite u dettu](/games/finish-the-saying/) ne hà assai di più, cun a pussibilità di mustrà a fine cù un tappu.
 
-| Saying | Choices | Talk about |
+| Dettu | Scelte | Di chè parlemu |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Una mela à ghjornu tene... | **U duttore luntanu**, a pioggia luntanu, u ghjattu luntanu | Quale vi diceva cusì quand'erate zitellu? |
+| L'acellu matinu... | Piglia l'autubus, **Piglia u viermu**, Piglia u trenu | Sìate più matinu o tardi? |
+| Ùn cuntate e vostre pulcini nanzu ch'elli... | **Sianu nati**, sianu addurmintati, cantinu | A vostra famiglia allevava pulcini? |
+| Un centesimu risparmiatu hè un centesimu... | **Guadagnatu**, persu, spesu | Quale era quellu chì risparmiava in famiglia? |
+| A casa hè induve... | Hè u ghjardinu, **Hè u core**, Hè a cucina | Chì rende un locu veramente casa per voi? |
+| Megliu tardu chè... | Prestu, **Mai**, Scusate | Ci era qualchissia chì era sempre in ritardu? |
+| Ogni nuvola hà un filu d'argentu... | **À u so cunfini**, Un cucchiaru, Una muneta | Parlàtemi di una furtuna chì avete avutu |
+| I fatti parlanu più forte chè... | **E parolle**, A musica, U tonu | Parlàtemi di qualchissia chì l'hà dimustratu cusì |
 
-## This-or-that questions with no wrong answer
+## Dumande "questu o quellu" senza risposta curretta
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Queste sò adatte à tutti i stadi, ancu à quelli più avanzati, perchè ùn ci hè nunda da fà currettu. Dumandate, ascultate, è dite ancu a vostra risposta.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Caffè o tè?
+- Mare o muntagna?
+- Cani o misgi?
+- Istà o inguernu?
+- Torta o sfoglia?
+- Ballà o vede ballà?
+- Alboru o tramontu?
+- Veranda davanti o curtili daretu?
+- Radiu o dischi?
+- Pancake o ova?
+- Rose o margherite?
+- Viaghju in trenu o viaghju in vittura?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Per spunti di chiacchjerata cù e fiure, pruvate i nostri [Carte di chiacchjerata stampabili](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Cumu fà una sessione di trivia in una casa di cura o in gruppu?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Assicuratevi chì tutti ponu vede è sente.** Apparecchi acustichi messi, occhiali purtati, televisione spenta.
+2. **Presentatelu cum'è una chiacchjerata.** "Aghju qualchì dumanda nantu à l'anni passati, è sò sicuru chì ne sapete più di mè."
+3. **Leghjite ogni dumanda duie volte è mustrate e scelte in grande.**
+4. **Accogliete e risposte da tuttu u gruppu.** Ripetite e buone risposte affinchè tutti l'ascultinu.
+5. **Dite a risposta per tutti,** dopu dumandate u spuntu di discussione à tuttu u gruppu.
+6. **Seguitate l'energia.** S'ellu una dumanda face nasce dece minuti di raconti, lasciate chì duri.
+7. **Finite cù una canzona o cù un giru di "questu o quellu",** affinchè tutti finiscinu qualcosa di faciule.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Per altri formati di gruppu, cum'è u bingo di fiure o i canti inseme, vidite [attività di gruppu in e case di cura](/activities/care-home-groups/).
 
-## When to change the plan
+## Quandu cambià u pianu
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+S'ellu qualchissia pare preoccupatu, si tace o dice "ùn sò micca" più di una volta, facitelu più faciule: scendete à duie scelte, rispondite inseme, o passate à e dumande "questu o quellu". S'ellu u gruppu preferisce parlate di una sola dumanda tuttu u dopu meziornu, questu hè un successu. U scopu ùn era mai d'avè tutte e risposte currette. Era di passà un tempu in bona cumpagnia.

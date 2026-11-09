@@ -1,36 +1,37 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Inadahi Para i Kuidadot: Deskånsa, Ayuda yan Señas di Finatai"
+seoTitle: "Inadahi Para Kuidadot: Deskånsa yan Ayuda"
+description: "Señas di finatai para kuidadot, taimanu ma sodda’ deskånsa yan gurupu siha para ayuda, yan numeron ayudu gråtis giya Estados Unidos."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Mappot i che’cho’ para un kuida un taotao ni ma’ina’ñao gi dementia, ya
+  måolikña lokkue’ na un adahi hao. Atan i señas siha taiguihi i sessu na
+  inagot, chinatsaga, ti måolik na maigo’, yan inatrasao ginen i mangga’chong.
+  Gagao ayudu para che’cho’ siha ni klåru, usa i kuidadon deskånsa, yan halom
+  gi un gurupu para ayuda. Ayudu gråtis giya Estados Unidos guaha gi
+  Alzheimer’s Association 24/7 Helpline gi 1-800-272-3900 yan i Eldercare
+  Locator gi 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "I finatai sesso ma li’e’ komu sessu na inagot, chinatsaga, ti måolik na maigo’, triniste yan ti ma atendin i saluda-mu."
+  - "I kuidadon deskånsa ha nå’i hao tiempon deskånsa, ginen unos kuåntos oras asta unos kuåntos simåna, gi gima’ pat gi un lugåt para inadahi."
+  - "Gagao ayudu para che’cho’ siha ni klåru; meggai taotao malago’ umayuda lao ti matungo’ taimanu."
+  - "I Alzheimer’s Association 24/7 Helpline (1-800-272-3900) ha ofresi ayudu gråtis yan konfidensiåt maseha håfa ora."
+  - "I Eldercare Locator (1-800-677-1116) ha konekta hao yan setbision siha gi lugåt-mu, kontodu i Area Agency on Aging."
+  - "Yanggen un sente na guaha krisis, agång pat text gi 988. Gi emerhensia, agång i numeron emerhensia gi lugåt-mu."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Håfa i señas di finatai para kuidadot?"
+    a: "I señas ni sesso masusedi guaha i siniente agot, gof mappot pat nina’ansia, mampos chaddek bumubuya pat ti pasensia, mappot para u maigo’, siniente triste pat tåya esperånsa, inatrasao ginen mangga’chong, sesso puti’ i ilu pat otro na chetnot, yan ti ma chocho’gue i nengkanno’, ehersisio pat inadahin mediku para unu mismo. Yanggen sesso masusedi este na señas siha, ågang i mediku-mu."
+  - q: "Taimanu siña hu sodda’ kuidadon deskånsa gi fi’on-hu?"
+    a: "Tåtte gi Eldercare Locator (1-800-677-1116 pat eldercare.acl.gov) para un sodda’ i Area Agency on Aging gi lugåt-mu, i ARCH National Respite Locator Service, pat i Alzheimer’s Association Helpline gi 1-800-272-3900. I familiå-mu, mangga’chong-mu yan boluntårio siha siña lokkue’ ma nå’i hao deskånsa."
+  - q: "Ha åpåsi kao i Medicare i kuidadon deskånsa?"
+    a: "Para un taotao ni ha risibi inadahin hospice, i Medicare ha kubre i mas meggai gi gaston asta singko dias sigi na kuidadon deskånsa gi espitåt pat skilled nursing facility, sigun i National Institute on Aging. I mas meggai na pribådu na planon saluda ti ha kubre i kuidadon deskånsa; siña ha ayuda i Medicaid yan unos kuåntos planon long-term care insurance."
+  - q: "Magahet na gråtis yan mababa gi puenge i Alzheimer’s Association Helpline?"
+    a: "Hunggan. I Alzheimer’s Association ha sangåni na i Helpline-ña gi 1-800-272-3900 gråtis, konfidensiåt, yan guaha taotao para u ayudu todu i ora, 365 dias gi såkkan, yan siña ma nå’i ayudu gi meggai na lengguåhi. Dial 711 para setbision relay."
+  - q: "Egoísta kao yanggen hu chule’ deskånsa ginen i che’cho’-hu para inadahi?"
+    a: "Åhe’. I deskånsa ha ayudu hao para un sige ha’ kumukuida, ya i kuidadon deskånsa siña lokkue’ ha nå’i i taotao ni un kuidaduyi un nuebu na kumpåñia yan aktibidåt. Meggai na kuidadot mas tåtde ma sangåni na manmalago’ na mañuha’ ayudu mas åntes."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +68,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Yanggen un kuidaduyi un taotao ni ma’ina’ñao gi dementia, buente un taitai este på’go, malågo hao, yan guaha listan che’cho’ ni ti un cho’gue’ trabiha. Normåt este. Ti luhosu pat premiu i inadahi para hågu mismo despues di un funhåyan todu. Este i ha na’siña hao na un sige.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Este na påhina ha kuentusi i señas di finatai, taimanu un chule’ magåhit na deskånsa, månu nai siña un sodda’ ayuda, yan numeron ayudu gråtis giya Estados Unidos ni siña un agång på’go.
 
-## What are the signs of caregiver burnout?
+## Håfa i señas di finatai para kuidadot?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+I finatai sesso måtto despåsio, pues måolik na un tungo’ i señas-mu. I [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ha lista i señas di estrès para kuidadot, kontodu:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- siniente agot, gof mappot pat nina’ansia;
+- mampos chaddek bumubuya pat ti pasensia;
+- siniente maisa pat ti konektao yan otro siha;
+- mappot para u maigo’, pat ti nahong i maigo’;
+- siniente triste pat tåya esperånsa, pat ti interesao gi kosas ni un gof gosa åntes;
+- sesso puti’ i ilu, chetnot pat otro na prubleman kataotao;
+- tåya tiempu para ehersisio pat para un fa’tinas måolik na nengkanno’ para hågu;
+- ti un må’om, pat ti un chocho’gue i inadahin petsonåt;
+- ti dinanche na uson åmang pat droga, kontodu i åmot ni ma receta.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+I [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ha po’lo lokkue’ señas taiguihi i dininañu put i chetnot, binibu kontra i taotao (“gof terko ha’”), nina’ansia put i mámamaila’, mappot para u konsentra, yan prubleman saluda. Ha konseha na un ågang i mediku-mu yanggen sesso masusedi este na señas siha.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+I konsehan i NIA: cha’-mu nangga asta ki gof mappot hao. Ripåra i señas-mu åntes ya cho’gue håfa siña un cho’gue.
 
-## What can I do today, in five minutes?
+## Håfa siña hu cho’gue på’go, gi singko minutu?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+I didide’ na deskånsa impottånte. Tåya ni unu gi este na fumåma’nu i finatai, lao siña ha ayudu hao gi un mappot na pupuenge.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Hånao huyong.** Såga gi bentåna pat hånao asta i kahon kåtta mientras seguru yan trankilu i taotao.
+- **Hagong despåsio.** Unos kuåntos hagong despåsio åntes di un oppe un mappot na kuestion. Siña lokkue’ un fa’tinas un deskånsa gi [Calm Breathing](/games/calm-breathing/) yan i taotao ni un kuidaduyi.
+- **Gimen hånom ya kånno’.** Fåcil un maleffa i nengkanno’-mu.
+- **Na’hålom mensåhi para un ga’chong-mu.** Ti para un gagao håfa, lao para un konekta.
+- **Sangåni hågu mismo ni un kåriñosu na palabra.** I [guía put i inadahi para hågu mismo](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) ginen i NIA ha suheri sinangan taiguihi “Hu chocho’gue i mas måolik ni siña hu cho’gue”, “Ti perfekto yu’, ya måolik ha’”, yan “Bai hu gosa i momentu siha annai siña hit dumeskånsa parehu”.
 
-## What is respite care, and how do I get it?
+## Håfa i kuidadon deskånsa, ya taimanu siña hu chule’?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+I kuidadon deskånsa un tiempu ni otro taotao para u kuida i taotao ni un adadahi, para un dumeskånsa. I [páhina put kuidadon deskånsa](https://www.nia.nih.gov/health/caregiving/what-respite-care) ginen i NIA ha eksplika na siña ginen unos kuåntos oras asta unos kuåntos simåna, ya siña masusedi gi gima’, gi un fasilidåt para inadahi pat gi un sentron inadahi para åmko’.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+I [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) ha deskribi i klåsen kuidadon deskånsa ni sesso masusedi:
 
-| Type | What it is |
+| Klåse | Håfa este |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Ayuda gi gima’ | Un ga’chong, familiå, boluntårio pat un taotao ni ma å’påsi para u ayudu ha bisita i gima’ |
+| Sentron inadahi gi ha’åni | Aktibidåt siha ni ma plånea taiguihi kanta yan åtte gi un seguru na gurupu; sesso guaha transporte yan nengkanno’ |
+| Saga’ gi puenge pat kåtta na tiempu | Un komunidad para inadahi ni apmam ha kuida i taotao gi un puenge, unos kuåntos dias pat unos kuåntos simåna |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Håyi umåpåsi?** Sigun i NIA, i deskånsa ginen familiå, mangga’chong pat boluntårio siha siña tåya gaston-ña. I setbision profisionåt ma kobrara kada ora pat kada ha’åni. Para un taotao ni ha risibi inadahin hospice, i Medicare ha kubre i mas meggai gi gaston asta singko dias sigi na kuidadon deskånsa gi espitåt pat skilled nursing facility. Siña ha ayuda i Medicaid. I mas meggai na pribådu na planon saluda ti ha kubre i kuidadon deskånsa, lao unos kuåntos planon long-term care insurance ha kubre.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Konsehu:** I Alzheimer’s Association ha suheri na un chagi i prubidot kuidadon deskånsa gi un tiempu ni ti emerhensia, para listu siha yanggen guaha nisisidåt derepente.
 
-## Where can I find help near me?
+## Månu nai siña hu sodda’ ayuda gi fi’on-hu?
 
-Several free US services can point you to local help.
+Guaha unos kuåntos setbision gråtis giya Estados Unidos ni siña ha tuchu’ hao para ayuda gi lugåt-mu.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer’s Association 24/7 Helpline: 1-800-272-3900.** I [Helpline](https://www.alz.org/help-support/resources/helpline) gråtis yan konfidensiåt, guaha taotao para u ayudu todu i ora todu i ha’åni gi såkkan, yan guaha ayudu gi mas di 200 na lengguåhi ginen taotao ni dos lengguåhi pat intetprete. Dial 711 para setbision relay. Siña un kuentusi i tinilaika gi kondutta, estrès para kuidadot, opsion siha para kuidadon deskånsa, prugråma gi lugåt-mu yan otro, ya siña un gagao un mas apmam na kombetsasion yan un konsuttåt para inadahi. I taotao gi Helpline ti ma nå’i konsehun mediku.
+- **Eldercare Locator: 1-800-677-1116.** I [Eldercare Locator](https://eldercare.acl.gov/), un setbision públiku ginen i Administration for Community Living, ha konekta hao yan setbision siha para manåmko’ yan i familiå-ñiha. Siña un agång, text, chat online pat email i taotao ni ma na’fanmåolik, pat un aligao sigun lugåt. Siña ha tuchu’ hao para i Area Agency on Aging gi lugåt-mu.
+- **ARCH National Respite Locator Service.** I [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) ha ayudu hao na un sodda’ prubidot kuidadon deskånsa sigun istådu, ya ha suheri na un ågang tåtte’ i State Respite Coalition pat Lifespan Respite program gi istådu-mu yanggen guaha. I ARCH ha sangåni na ti ma chechek i prubidót siha, pues ripåsa i eksperiensia yan i background-ñiha hågu mismo.
 
-## How do I find a support group?
+## Taimanu siña hu sodda’ un gurupu para ayuda?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Gagao ayudu gi Helpline pat aligao online para gurupu siha gi fi’on-mu. I Alzheimer’s Association [ha guiya gurupu siha para ayuda](https://www.alz.org/help-support/community/support-groups) para kuidadot yan taotao ni ma’ina’ñao gi dementia, gi petsona yan online, gi papa’ i direksion taotao ni ma na’fanmåolik. Meggai na lugåt lokkue’ ma ofresi espesiat na gurupu, put ehemplu para kuidadot ni åmko’ pat para taotao ni ma’ina’ñao gi Alzheimer’s ni mas hobin pat gi tutuhon na tiempo. Guaha lokkue’ ALZConnected, un komunidad online gråtis annai i kuidadot siha ma a’a’ayuda nu i konsehu-ñiha.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+I gurupu siha para ayuda siña un lugåt annai siña un kuentos sin minalago’, un sodda’ pråktika na consehu ginen taotao ni ma eksperiensia este, yan un siente na ti maisa hao. Yanggen i fine’nena na gurupu ti parehu para hågu, chagi otro.
 
-## How do I ask family and friends for help?
+## Taimanu siña hu gagao ayudu ginen familiå yan mangga’chong?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Sångan klåramente håfa un nisisita. Meggai na taotao malago’ umayuda lao ti matungo’ håfa siña ma ofresi. I NIA ha suheri:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Na’listan** i che’cho’ siha ni siña ma chule’ otro taotao, ya na’ayek siha.
+- **Tåtte gi didide’** yanggen mappot para un gagao.
+- **Na’parehu i che’cho’ yan i taotao.** I primo-mu ni gof ya-ña fuma’tinas nengkanno’ ha chule’ sena kada Huebes. I bisinu-mu ni gåtbo gi papet ha ayudu gi dokumentu.
+- **Na’hålom text pat email** yanggen ti kumómodo para un gagao gi petsona.
+- **Praktika i ineppe-mu** yanggen guaha ofresi: “Si Yu’os ma’åse’ nu i finaisen-mu. Este siña un cho’gue para yu’.”
+- **Na’listu para i “åhe’”** ya chagi na cha’-mu nina’triste.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Otro na idea: gagao un taotao na u såga yan i taotao gi un pupuenge kada simåna, u konne’ gui’ para un kåtta na biahi, pat u bisita ya u huegu yan gui’. I [guía-måmi put i huegu parehu](/caregiving/how-to-play-together/) fåcil para u ma a’ayuda nu i bisita siha.
 
-## What if something happened to me?
+## Håfa yanggen guaha masusedi nu guåhu?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Fa’tinas un didide’ na plånu på’go. I NIA ha suheri na un disidi yan i familiå-mu pat i mangga’chong-mu ni manhihot håyi para u rimplåsa, ya na’såon un lepblo yan numeron emerhensia, åmot, consehu siha put kondutta ni ma funsiona, yan i aktibidåt siha ni gof ya-ña. I Alzheimer’s Association lokkue’ ha rekomenda na un na’fåcil ma sodda’ i kontakton mediku i taotao yan un lista åmot ni ma atualisa.
 
-## When should I get professional or urgent help?
+## Ngai’an nai debi di hu sodda’ ayudu profisionåt pat emerhensia?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Kuentusi yan i mediku-mu yanggen sesso masusedi i señas di estrès, yanggen un siente triniste, pat yanggen mappot para hågu na un atendi. Sangåni i mediku-mu na kuidadot hao. I NIA ha nota na i konseheru yan i social worker siña ma ayudu hao yan i mappot na siniente yan i plåninu, ya siña i Medicare, Medicaid yan unos kuåntos pribådu na planon saluda ma kubre unos na gaston para saludan hinasso.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Yanggen un sente na guaha krisis pat guaha hinasso para un na’daño hågu mismo, agång pat text gi 988 para un sodda’ i [988 Suicide & Crisis Lifeline](https://988lifeline.org/), gråtis yan mababa 24/7. Yanggen guaha håyi gi piligru på’go, agång i numeron emerhensia gi lugåt-mu.
 
-## Can shared activities give me a break too?
+## Siña ha nå’i yu’ lokkue’ deskånsa i aktibidåt siha ni in cho’gue parehu?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Buente. Un trankilu na aktibidåt ni en gof gosa parehu siña un mas måolik na patte gi ha’åni para hågu yan para i taotao ni un kuidaduyi: ekungok kantan åntes, atan litratu siha, pat un huegu taiguihi [Conversation Cards](/games/conversation-cards/) ni ti nisisita dinanche na ineppe. Yanggen ya-ña i taotao i kumpåñia, un gurupu na sesion yan [Picture Bingo](/games/picture-bingo/) gi sentron manåmko’ pat prugråman inadahi gi ha’åni siña ha nå’i hao un ora na deskånsa. Atan [aktibidåt siha para gurupu gi lugåt inadahi](/activities/care-home-groups/) para mås na idea.

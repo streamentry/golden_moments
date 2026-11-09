@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Cumu sceglie l'app è i ghjochi per a demenza"
+seoTitle: "Cumu sceglie l'app è i ghjochi per a demenza: una lista"
+description: "Una lista per aiutà à sceglie l'app è i ghjochi per a demenza: partite da u vostru scopu, evitate i conti à l'arritrosa è e publicità, verificate a vita privata è leghjite e prumesse cù cura."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Cuminciate da ciò chì vulete chì l'app faccia: una stimulazione dolce,
+  ricordi, calma o mumenti inseme. Dopu sceglite quella chì si adatta à e
+  capacità di a persona oghje, cù stampe maiò, senza contu à l'arritrosa,
+  punti o publicità, è cù un modu faciule per smette. Verificate chì dati
+  raccoglie è s'ellu si pò sguassalli. Fate attenzione à e prumesse chì un'app
+  impedisce o cura a demenza; un solu studiu ùn hè micca una prova.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Decidite prima u scopu: stimulazione, ricordi, calma o mumenti inseme dumandanu app diverse."
+  - "Fighjate e capacità di a persona quellu ghjornu, micca un'etichetta di stadiu, è tenite i cumandamenti simplici."
+  - "Evitate l'app cù conti à l'arritrosa, punti, vite, serie, publicità o pruposte di compra."
+  - "Verificate a raccolta, a spartera è a suppressione di i dati. Di solitu, l'HIPAA ùn cuprenu micca l'app di u grande publicu."
+  - "Siate prudenti cù e prumesse cum'è « impedisce a demenza ». Una sola prova, o risultati megliu in l'app, ùn sò micca una prova."
+  - "Golden Moments hè un'attività recreativa. Ùn face micca prumesse cliniche."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "I ghjochi per u cerbellu ponu impedisce a demenza?"
+    a: "Ùn ci sò micca prove solide chì l'app cummerciale di ghjochi per u cerbellu impediscenu o rallentanu a demenza. U National Institute on Aging dice chì ùn ci sò abbastanza prove chì l'app cummerciale di allenamentu di u cerbellu anu u listessu effettu cà l'allenamentu strutturatu pruvatu in una grande prova di ricerca. Sceglite l'app per u piacè è per i mumenti inseme, micca cum'è una medicina."
+  - q: "Un'app per a demenza hè cuperta da l'HIPAA?"
+    a: "Di solitu, nò. In generale, l'HIPAA s'applicanu à i furnitori di cure di salute, à i piani di salute è à i so partenarii. Un'app chì scaricate voi stessu ùn hè di solitu micca cuperta, salvu s'ella hè furnita da unu d'elli. A regula di a FTC nantu à a nutificazione di e violazioni di dati di salute cuprenu parechje app di salute chì l'HIPAA ùn cuprenu micca."
+  - q: "Cumu deve esse un bonu ghjocu per a demenza?"
+    a: "Stampe è testu maiò è chjari, una sola cosa evidente da fà nantu à ogni schermu, senza contu à l'arritrosa nè punti, senza rumori per i sbagli, senza publicità, è un modu faciule per mette in pausa o smette. Deve parè fatta per l'adulti è esse faciule da aduprà ancu cù una seconda persona."
+  - q: "Golden Moments dice ch'ella aiuta a memoria?"
+    a: "Innò. Golden Moments prupone attività simplici da fà inseme per u piacè è a cunversazione. Ùn face micca diagnosi, ùn cura, ùn impedisce è ùn misura micca a demenza, è ùn femu micca prumesse nantu à a memoria o à u pensamentu."
+  - q: "Devu pagà per un'app per a demenza?"
+    a: "Pruvate prima l'opzioni gratuite o e prove gratuite, è fighjate cumu reagisce a persona per qualchì settimana. Pagà per un'app ùn a rende micca più efficace. Verificate cumu annullà prima di abbunavvi."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+I magazini d'app sò pieni di ghjochi presentati per e persone anziane, per a memoria o per a demenza. Certi sò fatti cù cura. Altri aghjunghjenu prumesse chì parenu medicale, conti à l'arritrosa chì cambianu u ghjocu in una prova, o publicità è raccolta di dati. Sta pagina vi dà un modu per ghjudicà voi stessu ogni app. Ùn femu micca classificazioni è ùn diemu micca ciò chì pensà d'altri prudutti.
 
-## What should I decide before choosing a dementia app?
+## Chì devu decide prima di sceglie un'app per a demenza?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Decidite ciò chì vulete chì l'app faccia. « Un ghjocu per Mamà » pò vulè dì cose assai diverse, è a scelta megliu per un scopu hè spessu una mala scelta per un altru.
 
-| Goal | What it looks like | What to look for |
+| Scopu | Cumu pò esse | Ciò chì circà |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Stimulazione dolce | Abbinate, mette in ordine, puzzle simplici, ghjochi di parolle | Difficoltà chì si pò adattà, stampe chì restanu visibili, senza pressione di tempu |
+| Ricordi | Vechje foto, detti cunnisciuti, musica di a so ghjuventù | E vostre foto, dumande aperte, senza quizz |
+| Calma | Imàgine lente, soni dolci, respirazione, natura | Faciule da principià è da smette, nunda chì lampighjeghja, senza sorprese |
+| Mumenti inseme | Ghjucà o parlà inseme, di persona o in videochjamata | Pensata per duie persone, spunti per a cunversazione |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+A ricerca nantu à a « stimulazione cognitiva » strutturata per e persone chì campanu cù a demenza riguarda soprattuttu sedute in gruppu guidate da persunale furmatu, cù discussioni, ghjochi di parolle, puzzle, musica è attività creative. Una [revisione Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) hà trovu picculi benefizii in media, cù risultati diversi trà i studii. Stu tipu di prugramma suciale è variatu ùn hè micca listessa cosa ch'è un'app aduprata da solu, dunque cunsiderate ogni app cum'è una attività da fà inseme trà parechje altre.
 
-## How do I know if an app fits the person's abilities?
+## Cumu possu sapè s'è un'app si adatta à e capacità di a persona?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Fighjate cumu reagisce a persona, invece di basavvi solu nantu à una diagnosi o un'etichetta di stadiu. Duie persone à u « listessu stadiu » ponu esse assai diverse per a vista, l'uditu, u cuntrollu di e mani, a lingua è u cunfortu cù i schermi. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) cunsiglia di tene contu di l'interessi di prima è di e capacità attuali, è di mette l'accentu nantu à u piacè piuttostu chè nantu à u risultatu.
 
-Signs of a good fit:
+Segni chì l'app si adatta bè:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- a persona principia o participa senza avè bisognu di tanta insistenza;
+- sorride, cummenta o conta una storia;
+- i sbagli ùn parenu micca disturballa;
+- hè cuntenta di smette quandu hè u mumentu.
 
-Signs it is a poor fit:
+Segni chì l'app ùn si adatta micca:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- ripete « Ùn ci la facciu » o « Hè una scimughjine »;
+- ùn capisce micca ciò chì toccà;
+- mostra frustrazione, imbarazzu o alluntana l'apparechju;
+- funziona solu s'è vo fate guasi tuttu.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+U malessere hè un segnu, micca qualcosa da furzà. Videte [ciò chì fà quandu a persona dice di nò](/caregiving/when-they-say-no/). Per idee secondu u stadiu, fora di l'app, videte l'attività per u [stadiu iniziale](/activities/early-stage/) è u [stadiu tardivu](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Chì funzioni devu circà o evità?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Circate un disegnu calmu, simplice è fattu per l'adulti, è evitate tuttu ciò chì aghjunghje pressione.
 
-| Look for | Be wary of |
+| Da circà | Da evità |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Stampe è testu maiò, cun bonu cuntrastu | Icone chjuche, schermi troppu pieni |
+| Una sola azzione chjara per schermu | Tanti buttoni, menu o istruzzioni à parechji passi |
+| Nisunu contu à l'arritrosa, o unu chì si pò spegne | Conti à l'arritrosa, bonus di rapidità, « batte u to tempu » |
+| Nisunu puntu, o risposte dolce | Punti, vite, serie, classificazioni, « età di u cerbellu » |
+| Sbagli trattati cù discrezione | Rumori, croci rosse, messaghji « Sbagliatu » |
+| Stampe realiste è adatte à l'adulti | Temi da zitelli o troppu caricaturali |
+| Funziona fora di linea, senza contu per principià | Bisognu di scrivesi, di cunnette si o di scaricà cuntenutu prima |
+| Pausa è stop facili | Finestre chì dumandanu di cuntinuà à ghjucà o di valutà l'app |
+| Nisuna publicità, prezzu chjaru | Publicità, compra in l'app frequente, pruposte ripetute |
+| Faciule da aduprà à dui | Solu per una persona, cun cuncepimentu cumpetitivu |
 
-Ads and purchase prompts are easy to tap by accident.
+E publicità è e pruposte di compra sò facili da toccà per sbagliu.
 
-## How do I check an app's privacy?
+## Cumu possu verificà a vita privata di un'app?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Verificate ciò chì l'app raccoglie, cù quale sparte i dati, è s'ellu si pò sguassalli. Prima di installà:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Leghjite u riassuntu di a vita privata in u magazinu.** A [sezzione Data safety di Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) è a [sezzione d'infurmazioni nantu à a vita privata di l'App Store](https://support.apple.com/en-us/102399) indicanu i tipi di dati chì un'app pò raccoglie è sparte. E duie cumpagnie dicenu chì sò i sviluppatori à furnisce st'infurmazioni, dunque hè un puntu di partenza, micca una verificazione cumpleta.
+2. **Dumandate vi s'ellu ci vole un contu.** S'è un'app mostra solu stampe o ghjochi simplici, forse ùn hà micca bisognu di u vostru nome, di u vostru indirizzu email o di a vostra data di nascita.
+3. **Verificate i permessi.** Un ghjocu d'abbinate hà veramente bisognu di a pusizione, di i cuntatti, di u microfonu o di tutta a vostra libreria di foto? Disattivate ciò chì ùn serve micca.
+4. **Fighjate s'ellu ci sò publicità è analisi.** L'arnesi di publicità è di seguitu ponu mandà dati nantu à l'usu di l'app à altre cumpagnie.
+5. **Circate di sapè induve vanu e foto.** S'è aghjunghjite foto di famiglia, restanu nantu à l'apparechju o sò caricate nantu à un servitore? Pudete caccialle?
+6. **Verificate a suppressione.** Circate in a pulitica di vita privata o in u riassuntu di i dati cumu sguassà i dati è u contu. Un'app chì dice chì i dati ùn si ponu sguassà merita più prudenza, soprattuttu s'ella cuntene foto o infurmazioni di salute.
+7. **Leghjite a pulitica di vita privata** per avè risposte chjare nantu à ciò chì hè raccoltu, perchè, per quantu tempu, è cù quale hè spartutu.
 
-### Does HIPAA protect information in dementia apps?
+### L'HIPAA pruteghjenu l'infurmazioni in l'app per a demenza?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Di solitu, nò, è questu sorprende parechje persone. U Dipartimentu di a Salute è di i Servizii Umani di i Stati Uniti [spiega](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) chì l'HIPAA s'applicanu à i piani di salute, à a maiò parte di i furnitori di cure di salute, à i centri di scambiu di dati di salute è à i so partenarii. In a maiò parte di i casi, ùn pruteghjenu micca i dati chì inserite in un'app per usu persunale, salvu s'è l'app hè stata furnita da una entità cuperta o da un so partenariu. Un'« app per a demenza » scaricata da un magazinu d'app hè spessu fora di l'HIPAA, ancu s'ella parla di salute.
 
-### What protects health data in apps that HIPAA does not cover?
+### Chì pruteghje i dati di salute in l'app chì l'HIPAA ùn cuprenu micca?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+A regula di a Federal Trade Commission nantu à a nutificazione di e violazioni di dati di salute ne cuprenu parechje. In u 2024, a FTC hà [publicatu cambiamenti](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) chì chjariscenu chì a regula s'applica à l'app di salute è à tecnulugie simili micca cuperte da l'HIPAA. Una « violazione » include ancu a spartera micca autorizata, micca solu l'intrusione informatica, è e cumpagnie devenu avvisà e persone tocche è a FTC. Hè una prutezzione dopu un prublema, micca una prumessa chì un'app raccolga solu ciò chì li serve.
 
-## How should I read claims about research and evidence?
+## Cumu devu leghje e prumesse nantu à a ricerca è e prove?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Leghjite e prumesse nantu à e prove cù calma, è siate soprattuttu prudenti davanti à e prumesse più grande. Dumande utile:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Chì hè statu studiatu esattamente?** Un studiu nantu à un prugramma d'allenamentu ùn mostra micca chì ogni ghjocu in un'app funziona di listessa manera.
+- **Quale hè statu studiatu?** I risultati in persone anziane in bona salute ùn si applicanu forse micca à una persona chì campa cù a demenza.
+- **Chì hè statu misuratu?** Diventà megliu in u ghjocu stessu hè diversu da cambiamenti in a vita d'ogni ghjornu, in a cunversazione, in l'umore o in l'autonomia.
+- **Quantu hè solidu u studiu?** Una prova cuntrullata aleatorizata (RCT) paraguna un gruppu chì usa l'app cù un gruppu chì ùn l'usa micca. Hè un bonu tipu di studiu, ma una sola RCT chjuca o corta ùn hè micca una prova. Circate parechji studii, fatti da circadori indipendenti, chì danu risultati simili.
+- **Dice ch'ella cambia a malatia?** Un studiu chì mostra picculi miglioramenti in una prova ùn prova micca chì un'app rallenta, impedisce o cura a demenza.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+A pagina di u National Institute on Aging nantu à a [salute cognitiva è e persone anziane](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) discrive una grande prova finanziata da i NIH nantu à l'allenamentu cognitivu strutturatu, è poi invita à esse prudenti cù e prumesse chì certi ghjochi per urdinatore o in linea ponu migliurà a memoria è u pensamentu. Dice chì ùn ci sò ancu abbastanza prove chì l'app cummerciale di allenamentu di u cerbellu anu u listessu effettu cà l'allenamentu pruvatu in quella prova. Pudete leghje di più in a nostra guida nantu à i [ghjochi per u cerbellu è e prove](/brain-health/brain-games/) è [ciò chì dice a ricerca nantu à a prevenzione di a demenza](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Chì esempiu publicu ci hè di una prumessa ingannevule?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+In ghjennaghju 2016, a FTC hà [annunziatu un accordu](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) cù i creatori di Lumosity, un prugramma di « allenamentu di u cerbellu ». A FTC hà dettu chì a cumpagnia facia prumesse, senza prove abbastanza solide, chì i so ghjochi pudianu ritardà u calu cognitivu ligatu à l'età è prutege contr'à u calu cognitivu ligeru, a demenza è a malatia d'Alzheimer. A cumpagnia hà accettatu di pagà 2 millioni di dollari è deve avè prove scientifiche cumpetente è affidabile prima di fà tali prumesse in l'avvene. Stu casu ricorda bè chì a lingua di u marketing ùn hè micca una prova.
 
-### Which words are red flags?
+### Chì parolle devenu mette in guardia?
 
-Be cautious when an app or ad says it:
+Siate prudenti quandu un'app o una publicità dice ch'ella:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- « impedisce », « inverte », « ferma » o « guarisce » a demenza o l'Alzheimer;
+- hè « pruvata clinicamente » senza nome di studiu, senza spiegà quale hà participatu è ciò chì hè statu misuratu;
+- dà una « età di u cerbellu » o un puntu di memoria chì pare una diagnosi;
+- pò « affinà », « rinfurzà » o « allenà » u cerbellu;
+- usa testimunianze cum'è prove.
 
-If you are unsure about a claim, ask the person's doctor.
+S'è ùn site micca sicuru di una prumessa, dumandate à u medicu di a persona.
 
-## Where does Golden Moments fit?
+## Induve si mette Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments prupone attività simplici da fà inseme, micca una prova di memoria, una terapia o un cunsigliu medicu. I nostri ghjochi, cum'è [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) è [Calm Breathing](/games/calm-breathing/), sò fatti per u piacè è a cunversazione. Ùn facenu micca diagnosi, ùn curanu, ùn impediscenu è ùn misuranu micca a demenza, è ùn femu micca prumesse nantu à a memoria o à u pensamentu.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Femu ancu un'app gratuita, [Golden Moments per iPhone, iPad è Android](/app/). Prupone ghjochi dolci d'abbinate cù stampe maiò, ghjochi cù e foto di famiglia chì sceglite voi è pacchetti di stampe chì funzionanu fora di linea, senza contu, senza publicità, senza contu à l'arritrosa è senza punti. A listessa lista s'applica: l'etichetta di vita privata di l'App Store dice « Data Not Collected », è a [pulitica di vita privata di l'app](/app-privacy/) spiega induve sò cunservate e copie di e foto.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Preferimu chì ci ghjudichiate piuttostu chè ci fidiate di noi. Aduprate a lista di sta pagina, leghjite a nostra [pagina di vita privata](/privacy/) è a nostra [nota medica](/medical-disclaimer/), è smettite d'aduprà tuttu ciò chì ùn si adatta micca à a persona di a quale vi pigliate cura, cumpresu ciò chì prupunimu noi.
 
-## What is a sensible way to try a new app?
+## Chì hè un modu sensatu per pruvà una nova app?
 
-Try it together for a couple of weeks and watch what happens.
+Pruvatela inseme per qualchì settimana è fighjate ciò chì succede.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Preparate a prima** cù a nostra [guida per mette in postu a tavuletta o u telefunu](/caregiving/tablets-and-screens/), è cuminciate à u livellu più faciule.
+2. **Tenite e sedute corte,** fighjate i sorrisi, a cunversazione è a calma, è finite nantu à un bonu mumentu.
+3. **Lasciate perde s'ella crea frustrazione,** ancu s'ella hè assai apprezzata.

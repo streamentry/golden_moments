@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Digiunu intermittente è dimenza: ciò chì dice a ricerca"
+seoTitle: "Digiunu intermittente è dimenza: ciò chì dice a ricerca"
+description: "E prove nantu à e persone sò poche è à i primi passi. Scuprite i risichi per l'adulti anziani è perchè manghjà abbastanza hè più impurtante."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Ùn ci hè micca una bona prova chì u digiunu intermittente impedisca o rallenti
+  a dimenza. Una grande parte di a ricerca hè fatta nantu à l'animali, è i studii
+  fatti nantu à e persone anziane sò chjuchi è corti. U digiunu pò esse risicatu
+  per l'adulti anziani: perdita di pesu è di musculi, zuccheru bassu in u sangue
+  cù certi medicamenti per a diabete, disidratazione è cascate. Per e persone chì
+  campanu cù a dimenza, manghjà è beie abbastanza hè di solitu a preoccupazione
+  più grande. Parlatene prima cù un duttore.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "U National Institute on Aging dice chì ùn ci hè micca abbastanza prove per ricumandà una dieta di digiunu o di restrizione di calurie, soprattuttu per l'adulti anziani."
+  - "Una grande parte di a ricerca nantu à u digiunu è l'invechjamentu vene da studii nantu à l'animali, è sti risultati ùn si applicanu micca sempre à e persone."
+  - "I risichi pussibuli per l'adulti anziani includenu a perdita di pesu senza vulè, a perdita di musculi, u zuccheru bassu in u sangue cù certi medicamenti per a diabete, a disidratazione, i capogiri è e cascate."
+  - "E persone chì campanu cù a dimenza si scordanu spessu di manghjà o di beie, o pensanu d'avè dighjà fattu. Aiutalle à manghjà è à beie abbastanza hè di solitu assai più impurtante chè l'ora à a quale manghjanu."
+  - "Ùn aduprate micca u digiunu per una persona chì campa cù a dimenza. Parlate cù un duttore o un dietista diplomatu prima di ogni cambiamentu in e manere di manghjà."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "U digiunu intermittente impedisce l'Alzheimer?"
+    a: "Ùn ci hè micca una bona prova chì sia cusì. Una grande parte di a ricerca hè stata fatta nantu à l'animali, è e prove nantu à e persone sò state soprattuttu corte, fatte cù adulti più ghjovani o in sovrappesu, è centrate nantu à a perdita di pesu. U National Institute on Aging dice chì ùn ci hè micca abbastanza prove per ricumandà e diete di digiunu à u publicu."
+  - q: "U digiunu intermittente hè sicuru per l'adulti anziani?"
+    a: "Pò esse chì ùn sia micca cusì. U digiunu pò purtà à una perdita di pesu è di musculi senza vulè, à a disidratazione, à i capogiri è à e cascate, è pò causà un zuccheru in u sangue periculosamente bassu in e persone chì piglianu insulina o certi altri medicamenti per a diabete. A Mayo Clinic nota chì pò ùn esse micca adattu per e persone chì anu un risicu altu di perdita ossea è di cascate. Parlatene cù un duttore prima di pruvà."
+  - q: "Una persona chì campa cù a dimenza duveria pruvà u digiunu?"
+    a: "Innò. E persone chì campanu cù a dimenza anu spessu difficultà à manghjà è à beie abbastanza, è una cattiva nutrizione pò aumentà certi cumpurtamenti difficiuli è causà una perdita di pesu. U digiunu aghjunghje risichi senza benefiziu pruvatu. Hè megliu à cuncentrassi nantu à i pasti regulari, à i spuntini chì li piacenu è à beie abbastanza."
+  - q: "Chì sò i segni chì una persona chì campa cù a dimenza ùn manghja o ùn beie micca abbastanza?"
+    a: "Fate casu à a perdita di pesu, à i vestiti chì diventanu più larghi, à a stanchezza, à a debulezza, à a stitichezza o à u rifiutu di manghjà. I segni di disidratazione indicati da u National Institute on Aging includenu a bocca secca, i capogiri, un battitu di core rapidu è l'allucinazioni. Dite lu à u so duttore s'è vo rimarcate sti segni."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,150 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+U digiunu intermittente, cum'è manghjà solu in un intervallu d'ottu ore o
+riduce assai e calurie dui ghjorni à a settimana, face parlà assai di ellu, è
+certi articuli suggeriscenu ch'ellu puderia prutege u cervellu. S'è vo site un
+adulte anzianu, o s'è vo curate una persona chì campa cù a dimenza, eccu ciò
+chì a ricerca mostra veramente, è perchè ci vole à esse prudenti.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Si tratta d'infurmazioni generale, micca di cunsiglii medichi. Ùn cuminciate
+micca un digiunu, è ùn cambiate micca a manera di manghjà di a persona chì
+curate, senza parlà à un duttore o à un dietista diplomatu. Fighjate a nostra
+[dichjarazione medica](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## U digiunu intermittente impedisce a dimenza?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Ùn ci hè micca una bona prova chì u digiunu intermittente impedisca o rallenti
+a dimenza. U National Institute on Aging (NIA) dice chì ùn ci hè micca
+abbastanza prove per ricumandà alcun tipu di dieta di restrizione di calurie o
+di digiunu, è chì ci vole à amparà assai di più nantu à a so efficacia è a so
+sicurezza, soprattuttu in l'adulti anziani
+([NIA nantu à a restrizione di calurie è u digiunu](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Perchè e prove sò cusì limitate
 
-The NIA gives several reasons:
+U NIA dà parechje ragioni:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **A maiò parte di i studii hè fatta nantu à l'animali.** A ricerca nantu à i
+  vermi, e mosche, i topi è e scimmie hà datu risultati interessanti, ma sti
+  risultati ùn si applicanu micca sempre à e persone. Ancu in l'animali, i
+  risultati sò misti; in certe linee di topi, a restrizione di calurie hà
+  accurtatu a vita.
+- **E prove nantu à e persone sò state corte.** A maiò parte hà duratu qualchì
+  settimana o qualchì mese.
+- **A maiò parte di e prove nantu à e persone era centrata nantu à a perdita di
+  pesu** in adulti in sovrappesu, micca nantu à a memoria o a dimenza.
+- **L'adulti anziani sò rari in sti studii.** Parechje prove anu inclusu
+  persone di 60 anni o menu.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Una rivista sistematica di u 2026 hà guardatu in particulare u digiunu
+intermittente in l'adulti di 60 anni è più. Hà trovu chì e prove in stu gruppu
+d'età restanu limitate, cù studii chjuchi, un seguitu cortu è metudi misti. I
+risultati nantu à u pensamentu è a memoria venianu da studii individuali, micca
+da risultati riuniti di parechje prove. A rivista hà ancu nutatu chì certi
+studii anu ligatu finestre di manghjera assai corte o digiuni longhi à risultati
+peghju, è l'autori anu dumandatu prudenza per l'adulti anziani
+([rivista di u 2026 in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Certi circadori pensanu chì u passaghju di u corpu à brusgià u grassu durante
+un digiunu pò avè un effettu nantu à u cervellu, ma si tratta sempre d'una
+ipotesi in studiu. U NIA nota chì a scienza ùn hè micca chjara.
 
-## What are the risks of fasting for older adults?
+## Chì sò i risichi di u digiunu per l'adulti anziani?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+U digiunu ùn hè micca una prova senza periculu per parechje persone anziane. I
+rischi pussibuli includenu:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
+- **Perdita di pesu senza vulè.** Manghjà menu di ciò chì u corpu hà bisognu pò
+  purtà à una perdita di pesu è à menu forza musculare, ciò chì pò rende una
+  persona più fragile.
+- **Perdita di musculi è d'ossu.** In una prova di dui anni sustenuta da u NIA
+  nantu à a restrizione di calurie in ghjovani adulti è adulti di mezza età, i
+  participanti anu avutu una ligera calata di a densità ossea è di a massa
+  magra.
+- **Zuccheru bassu in u sangue cù medicamenti per a diabete.** E persone chì
+  piglianu insulina o certi altri medicamenti per a diabete ponu avè una calata
+  troppu forte di u zuccheru in u sangue s'elle saltanu o ritardanu i pasti,
+  secondu u
   [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+  Un zuccheru bassu in u sangue pò causà capogiri, cunfusione è irritabilità.
+- **Disidratazione.** S'è e bevande sò saltate inseme cù i pasti, una persona
+  pò disidratassi.
+- **Capogiri è cascate.** A Mayo Clinic nota chì u digiunu intermittente pò fà
+  sente e persone assai stanche è cun capogiri, è chì pò ùn esse micca una
+  manera sana di manghjà per e persone chì anu un risicu altu di perdita ossea
+  è di cascate
+  ([Mayo Clinic nantu à u digiunu intermittente](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Altri effetti.** A Mayo Clinic cita ancu i mal di capu, i cambiamenti
+  d'umore è a stitichezza, è nota chì certe prove suggeriscenu chì un digiunu
+  di 16 ore cù una finestra di manghjera di 8 ore pò aumentà u risicu di
+  malatie di core paragunatu à altre finestre di manghjera. Sti prove ùn sò
+  micca definitive.
 
-## Why is eating enough the bigger concern with dementia?
+## Perchè manghjà abbastanza hè a preoccupazione più grande cù a dimenza?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Per e persone chì campanu cù a dimenza, u prublema abituale hè di riceve
+**abbastanza** cibu è bevande, micca troppu. L'Alzheimer's Association spiega
+chì e persone in i stadi media è tardi ponu esse sopraffatte da e scelte di
+cibu, si scordanu di manghjà, o pensanu d'avè dighjà manghjatu. Aghjunghje chì
+una cattiva nutrizione pò aumentà certi cumpurtamenti difficiuli è causà una
+perdita di pesu
+([Alzheimer's Association nantu à u cibu è i pasti](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+L'Alzheimer's Society nota chì ùn manghjà micca abbastanza pò purtà à una
+perdita di pesu, à menu forza musculare, à a stanchezza è à a debulezza, ciò
+chì pò rende una persona più fragile è menu capace di ripigliassi dopu à
+un'infezzione
+([Alzheimer's Society nantu à l'appetitu](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Per ste ragioni, u digiunu ùn hè micca una bona idea per una persona chì
+campa cù a dimenza.** I pasti saltati ponu facilamente diventà pasti mancati.
+Ogni cambiamentu in a manera di manghjà di una persona chì campa cù a dimenza
+duveria esse guidatu da u so duttore o da un dietista diplomatu.
 
-## What are the warning signs of poor eating or drinking?
+## Chì sò i segni d'avvertimentu di una cattiva alimentazione o idratazione?
 
-Watch for:
+Fate casu à:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **A perdita di pesu**, o i vestiti chì diventanu più larghi.
+- **Lascià u cibu o rifiutà i pasti**, o tene u cibu in bocca.
+- **A stanchezza o a debulezza.**
+- **A stitichezza**, chì pò esse ligata à l'alimentazione è à a disidratazione.
+- **I segni di disidratazione.** U NIA cita a bocca secca, i capogiri, un
+  battitu di core rapidu è l'allucinazioni, chì ponu ancu esse causate da a
+  dimenza stessa
+  ([NIA nantu à i prublemi medichi cumuni](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Un pocu appetitu pò avè parechje cause pussibuli: denti chì facenu male o
+dentere chì si movenu, medicamenti novi, depressione, stitichezza, menu
+attività, o cambiamenti in u gustu è l'odori. Parlate di sti segni à u duttore
+di a persona. Pò circà una causa è pò suggerisce un dietista o supplementi.
 
-## How can you help someone eat and drink enough?
+## Cumu pudete aiutà una persona à manghjà è à beie abbastanza?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Prupunite picculi pasti è spuntini spessu**, piuttostu chè trè pasti grandi.
+- **Sirvite l'alimenti preferiti**, è siate flessibuli quandu i gusti cambianu.
+  L'alimenti dolci ponu esse benvenuti s'è l'appetitu hè bassu; dumandate à u
+  duttore s'ellu ci hè ragioni di salute per limità u zuccheru.
+- **Tenite e bevande à portata di manu** è prupunite picculi bicchieri durante
+  a ghjurnata. E zuppe, a frutta, i frullati è i milkshake contanu ancu.
+- **Manghjate inseme** quandu hè pussibule. I pasti sò un mumentu per stà
+  inseme, micca un compitu da fà in furia.
+- **Pruvate l'alimenti da manghjà cù e mani**, cum'è i panini, i pezzi di
+  frutta o i pezzi di pollu, s'è l'usu di e pusate hè diventatu difficiule.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+A nostra [guida à l'alimentazione](/brain-health/diet/) hà altre idee per i
+pasti. Aiutà à preparà u cibu pò ancu esse una bella attività da fà inseme;
+fighjate [i travagli di casa](/activities/household-tasks/).
 
-## Talk with a doctor
+## Parlate cù un duttore
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Prima di pruvà qualchì pianu di digiunu per voi stessu, parlate cù u vostru
+duttore o un dietista diplomatu, soprattuttu s'è vo pigliate medicamenti per a
+diabete o a pressione di sangue, s'è vo avete persu pesu di pocu, o s'è vo
+site cascatu. Per una persona chì campa cù a dimenza, dumandate à u so duttore
+quantu duveria manghjà è beie ogni ghjornu, piuttostu chè dumandà di u digiunu.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Circate un aiutu medicu urgente in casu di cunfusione subitana, di svenimentu,
+o di segni di zuccheru in u sangue assai bassu chì ùn miglioranu micca
+prestu.

@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzle per a dimenza: jigsaw, parolle è in linea"
+seoTitle: "Puzzle per a dimenza: jigsaw è parolle"
+description: "Cumu sceglie jigsaw, puzzle di parolle è in linea per una persona chì campa cù a dimenza: pezzi, stampi, lettere grande è cumu fà inseme."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  U megliu puzzle per una persona chì campa cù a dimenza hè quellu ch’ella pò
+  compie cù un pocu d’aiutu è gode mentre lu face. Sceglite jigsaw cù menu
+  pezzi, più grandi, è un stampu chjaru per adulti, tenite a stampa di a scatula
+  in vista è cuminciate cù i pezzi di u bordu. I puzzle di parolle vanu megliu
+  in lettere grande. I puzzle faciule in linea cù 4 pezzi ponu andà bè à u
+  stadiu mediu. Firmatevi mentre hè piacevule.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Sceglite secondu cumu và, micca secondu un’etichetta di stadiu: s’ellu pare un travagliu, pruvate cù menu pezzi."
+  - "Pezzi grandi è solidi, cù un stampu chjaru è zone di culore distinti, sò più faciuli ch’è pezzi chjuchi è grandi spazii di celu."
+  - "I stampi per adulti contanu. Giardini, cucine, vitture è animali, micca disegni per zitelli."
+  - "Fallu inseme hè l’impurtante. Passate i pezzi, triate i bordi, tenite u coperchju di a scatula in vista."
+  - "E ricerche di parolle in lettere grande è i puzzle faciule in linea cù 4 o 9 pezzi sò gratuiti nant’à stu situ."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Quantu pezzi di puzzle vanu megliu per una persona chì campa cù a dimenza?"
+    a: "Ùn ci hè micca un numeru unicu ghjustu. Qualchissia chì facia puzzle di 1.000 pezzi pò sempre gode di qualchì centu à l’iniziu, mentre d’altre persone stanu megliu cù una decina di pezzi grandi. S’ellu pare un travagliu o porta frustrazione, passate à menu pezzi. U nostru puzzle Stampu in linea hà 4 o 9 pezzi."
+  - q: "I jigsaw sò una bona attività per e persone chì campanu cù a dimenza?"
+    a: "Parechje persone li godenu, soprattuttu s’elli amavanu i puzzle nanzu. Un puzzle dà qualcosa à fà cù e mani, un scopu chjaru è un stampu di u quale parlà. Nisun puzzle hà dimustratu di trattà o di rallentà a dimenza, dunque scegliteli per u piacè è a cumpagnia."
+  - q: "Chì fà quandu una persona ùn riesce più à fà un jigsaw?"
+    a: "Fatelu più simplice è fate più voi: passate un pezzu à a volta, o lasciate solu l’ultimi pochi pezzi per ella. Pruvate un puzzle in linea di 4 pezzi, trià i pezzi per culore, o simpliciamente fighjà inseme u stampu finitu."
+  - q: "I cruciverba è e ricerche di parolle vanu bè cù a dimenza?"
+    a: "Ponu andà bè à u stadiu iniziale, in lettere grande. E ricerche di parolle cù e parolle solu in orizzuntale è in verticale sò più faciule ch’è quelle cù parolle in diagonale o à l’arritrosa. Lighjite e definizione o a lista di parolle à voce alta è travagliateci inseme."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Un jigsaw stesu nant’à a tavula di a sala da manghjà hè una di l’attività più faciule da sparte. Pudete stà inseme senza avè bisognu di parlà assai, u stampu vi dà qualcosa di chì discorre, è mette l’ultimu pezzu face piacè. I puzzle devenu però cambià mentre a dimenza cambia. Un puzzle troppu difficiule pò trasfurmà un dopu meziornu calmu in un mumentu frustrante. Sta pagina spiega cumu sceglie è preparà jigsaw, puzzle di parolle è puzzle faciule in linea, è ciò chì pudete fà quandu diventanu difficiuli.
 
-## Are puzzles good for people with dementia?
+## I puzzle sò una bona attività per e persone chì campanu cù a dimenza?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Parechje persone li godenu, soprattuttu quelle chì facianu puzzle nanzu. L’[Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) cita e ricerche di parolle, i ghjochi di carte è i ghjochi di tavula trà l’attività per u stadiu iniziale, è u [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mintuveghja i ghjochi è i puzzle in linea nant’à una tavuletta cum’è un modu per stà impegnati.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+I puzzle ùn sò micca un trattamentu. Nisun puzzle hà dimustratu di rallentà o di firmà a dimenza; a nostra guida nant’à [i ghjochi per a mente è a dimenza](/brain-health/brain-games/) spiega a ricerca. A ragione per fà un puzzle hè ch’ellu pò esse un mumentu piacevule è assurbente passatu inseme. L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) a riassume cusì: mette l’accentu nant’à u piacè, micca nant’à u risultatu.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Cumu sceglie un jigsaw per una persona chì campa cù a dimenza?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Fatevi guidà da ciò chì a persona gode è da cumu hè andatu l’ultimu puzzle, micca da un’etichetta di stadiu.
 
-### Number of pieces
+### Numeru di pezzi
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ùn ci hè micca un numeru currettu. Una persona chì hà sempre fattu puzzle pò sempre gode di qualchì centu di pezzi à l’iniziu, mentre un’altra hè più cuntenta cù una decina. Una regula pratica: s’è l’ultimu puzzle hè parutu un travagliu, sceglitene unu cù circa a metà di i pezzi. S’ellu hè statu finitu prestu è a persona ne vulia ancu, pudete cresce un pocu.
 
-### Piece size and feel
+### Dimensione è sensazione di i pezzi
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Pezzi più grandi** sò più faciuli à vede, à piglià è à girà.
+- **Pezzi grossi è solidi** stanu à u so locu è resistenu s’elli cascanu.
+- **Una finitura opaca** riduce i riflessi sottu à e lampade è vicinu à e finestre.
+- **Evitate i pezzi chjuchi** s’è a persona puderia mette l’uggetti in bocca, ciò chì pò accade più tardi cù a dimenza.
 
-### The picture
+### U stampu
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Sughjetti per adulti.** Giardini, cucine, vitture d’epica, animali di a fanga, una cità di mare, un sport preferitu. Micca disegni per zitelli o stampi chì parenu ghjoculi per zitelli.
+- **Zone di culore distinti.** Un granaghju rossu, una barca turchina è un campu verde sò più faciuli ch’è un celu chì occupa a metà di u puzzle.
+- **Familiarità è significatu persunale.** Un stampu d’un locu induve a persona hà campatu o d’un passatempu ch’ella amava vi dà assai cose di chì parlà. Certi stampatori ponu trasfurmà una fottò di famiglia in un jigsaw.
 
-## How do you do a puzzle together?
+## Cumu fà un puzzle inseme?
 
-Set it up so the person can get straight to the enjoyable part.
+Preparate lu in modu chì a persona possa ghjunghje subitu à a parte piacevule.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Sceglite un bonu locu.** Bona luce, una sedia cù i bracciali, è una tavula o un vassoiu induve u puzzle pò stà.
+2. **Mettite u coperchju di a scatula in piedi** induve pudete vederlu tramindui.
+3. **Girate i pezzi à l’insù** prima di cumincià.
+4. **Triate i bordi** voi, o fate prima u bordu è lasciate u mezu per a persona.
+5. **Raggruppate i pezzi per culore** in qualchì piattu o vassoiu pocu prufondu.
+6. **Passate un pezzu à a volta** s’è u mucchju hè troppu. « Mi pare chì questu sia una parte di u granaghju. »
+7. **Parlate di u stampu,** micca di u prugressu. « Quessa mi face pensà à a barca di u mo babbu. »
+8. **Lasciatelu fora.** Pudete vultà ci sopra durante parechji ghjorni. Ùn ci hè micca fretta.
+9. **Firmatevi nant’à una nota bona,** dopu chì un pezzu hè statu messu, mentre hè sempre piacevule.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) cunsiglia d’aiutà a persona à cumincià, di fighjà s’ella si frustra è di lascialla simpliciamente fighjà s’ella preferisce cusì. Fighjà vi mette i pezzi è indicà induve unu puderia andà hè sempre una manera di participà.
 
-## Easy online puzzles
+## Puzzle faciule in linea
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Un puzzle nant’à una tavuletta hà certi vantaghji veri: nimu pezzu persu, stampi grandi chì riempienu u schermu, è nisuna tavula da sparecchià.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+U nostru [Puzzle Stampu](/games/picture-puzzle/) gratuitu taglia un stampu in 4 o 9 pezzi. Tucchate dui pezzi per scambià li finch’è u stampu hè cumpletu. U stampu sanu resta nant’à u schermu cum’è guida, ùn ci hè micca cronometru, è pudete firmà vi in ogni mumentu. Quattru pezzi ponu andà bè per parechje persone à u stadiu mediu cù qualchissia accantu.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Per un ghjocu di stampi ancu più simplice, pruvate [Truvà u listessu](/games/find-the-same/), induve si tocca u stampu chì currisponde à quellu in cima, o [Trià inseme](/games/sort-together/), induve i stampi vanu in paneri cum’è a cucina o u giardinu.
 
-## Word puzzles: word searches and crosswords
+## Puzzle di parolle: ricerche di parolle è cruciverba
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+I puzzle di parolle vanu bè per e persone chì l’anu sempre amati, di solitu più prestu in u corsu di a dimenza.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Ricerca di parolle in lettere grande.** A nostra [Ricerca di parolle](/games/word-search/) gratuita usa lettere grande è solu poche parolle, in orizzuntale è in verticale, mai in diagonale o à l’arritrosa. Pudete ghjucà la nant’à u schermu o stampà la.
+- **Lighjite a lista à voce alta.** Una persona leghje una parolla, l’altra a cerca. Circundà solu a prima lettera va bè dinù.
+- **Cruciverba in lettere grande** di i libri di puzzle ponu andà bè à l’iniziu. Lighjite e definizione à voce alta, spartite a penna è riempite e risposte inseme. I cruciverba faciuli, cù un tema, vanu megliu ch’è quelli criptichi.
+- **Parlate di e parolle.** « Giardinu » pò purtà à dece minuti di discorsu nant’à i pumati.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Per più attività nantu à carta è cumu stampà le per ch’elle sianu faciule à vede è à tene, fighjate [attività gratuite da stampà per a dimenza](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Quali puzzle vanu megliu à ogni stadiu?
 
-Stages overlap, and good and hard days are normal.
+I stadii si sovrapponenu, è i ghjorni boni è difficiuli sò nurmali.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadiu | Puzzle chì spessu vanu bè | U vostru rolu |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Iniziale | Jigsaw familiari cù menu pezzi ch’è nanzu, cruciverba è ricerche di parolle in lettere grande, puzzle in linea di 9 pezzi | Cumpagnu o cumpagna: lasciate sceglie, aiutate quandu hè dumandatu |
+| Mediu | Jigsaw cù una decina di pezzi grandi, puzzle in linea di 4 pezzi, ricerca di parolle letta inseme à voce alta | Preparate, triate i pezzi, passatene unu à a volta |
+| Tardivu | Fighjà inseme un stampu finitu, Truvà u listessu cù dui stampi, manighjà qualchì pezzu grande | Purtate l’attività à a persona; a vostra cumpagnia hè l’attività |
 
-## When should you make a puzzle easier, or stop?
+## Quandu rende un puzzle più faciule, o firmà?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Fighjate i suspiri, i pezzi spinti da cantu, i « ùn ci la facciu » ripetuti o i sguardi preoccupati. Sò segni chì qualcosa deve cambià, micca chì ci vole à insiste.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Fatelu più chjucu.** Menu pezzi, o lasciate solu l’ultimi pochi per a persona.
+- **Fate più voi** è invitate a persona à aiutà cù e parte più faciule.
+- **Passate à qualcosa vicinu:** trià i pezzi per culore, un puzzle in linea di 4 pezzi, o [culurisce](/games/coloring/).
+- **Firmatevi.** Mettite lu da cantu è pigliate una tazza di tè. Pudete vultà ci un altru ghjornu, o micca.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+S’è i puzzle cumincianu à parè un ricordu di ciò chì hè difficiule, va bè di lascià li perde. Ci sò assai altri modi di passà un bellu mumentu inseme; e nostre [101 idee d’attività](/activities/ideas/) sò un bonu locu per circà.

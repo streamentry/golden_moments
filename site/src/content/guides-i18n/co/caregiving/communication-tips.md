@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Cunsiglii di cumunicazione per parlà cù una persona chì hà a dimenza"
+seoTitle: "Cunsiglii di cumunicazione per a dimenza"
+description: "Modi pratichi per parlà cù una persona chì campa cù a dimenza: cumu preparà una cunversazione, ciò chì si pò dì è cumu ascoltà."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Parlate in un locu calmu, fighjate a persona in faccia, chjamate la pè u so
+  nome è parlate pianu, cù frase corte è semplici. Fate una sola dumanda à a
+  volta, prupunite duie scelte invece di dumande aperte, è aspettate più
+  longu ch'è ciò chì pare naturale. Ùn litigate, ùn curregite è ùn fate micca
+  interrugatorii. Rispondite à u sintimu daretu à e parolle, è aduprate u
+  toccu, l'imagine è i gesti quandu e parolle diventanu più difficiule.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Riducite u rumore di fondu è circate u cuntattu visuale nanzu di cumincià à parlà."
+  - "Aduprate frase corte, una sola idea à a volta, è i nomi invece di ellu, ella o elli."
+  - "Prupunite una scelta trà duie cose, o una dumanda à iè o nò, piuttostu ch'è dumande aperte."
+  - "Aspettate una risposta. S'è a persona ùn hè micca capita, ripetite e listesse parolle, è dopu pruvate cù altre."
+  - "Ùn litigate è ùn curregite micca. Rispondite à u sintimu daretu à ciò ch'ella dice."
+  - "Quandu e parolle mancanu, cumunicate cù u toccu, u tonu, l'espressione di u visu è imagine sparte."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Chì ci hè da ùn dì micca à una persona chì hà a dimenza?"
+    a: "Evitate l'interrugatorii (« Vi arricurdate...? »), di currege (« Ùn hè ghjustu »), di ramintà e perdite (« Vi l'aghju dighjà dettu ») è di parlà di a persona cum'è s'ella ùn fussi micca quì. Evitate ancu di parlà cum'è à un zitellu. Sti modi di parlà ponu pruvucà imbarazzu o angoscia senza aiutà."
+  - q: "Devu currege a persona quandu dice qualcosa chì ùn hè micca esatta?"
+    a: "Di solitu, nò. S'è un fattu sbagliatu ùn face male à nimu, hè megliu lascià corre. Litigà cambia di raru l'idea di a persona è spessu a face sente male. Hè megliu cuncentrassi nantu à cumu si sente è à ciò ch'ella hà bisognu avà."
+  - q: "Chì possu fà quandu a persona ùn trova micca a parolla?"
+    a: "Date li prima u tempu. S'ella si vede chjaramente in difficultà, si pò prupone una parolla cù delicatezza o pruvà à capisce ciò ch'ella vole dì è verificà. Indicà cù u ditu, i gesti è l'imagine ponu aiutà dinù."
+  - q: "Cumu possu parlà cù una persona chì hà una dimenza in una fase avanzata è parla pocu?"
+    a: "Avvicinate vi da davanti, dite quale site, è aduprate una voce calma è un toccu dolce. Fighjate u visu è a lingua di u corpu per capisce i sintimi. A vostra presenza, una canzona cunnisciuta o tene a manu pò cumunicà assai, ancu senza parolle."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+A dimenza pò rende più difficiule di truvà e parolle, di seguità una frase longa o di ignurà u rumore di fondu. Tuttu què ùn vole micca dì chì a persona ùn hà più voglia di cumunicà. Picculi cambiamenti in a manera di preparà una cunversazione, di parlà è di ascoltà ponu rende u scambiu più faciule è più calmu per tutti.
 
-## What are the most important tips for talking with someone who has dementia?
+## Chì sò i cunsiglii i più impurtanti per parlà cù una persona chì hà a dimenza?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Attirate a so attenzione, fate simplice, è siate paziente. S'è vi arricurdate solu cinque cose:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Fate silenziu in a stanza è fighjate la in faccia.** Spenghjite a televisione, pichjate vi à l'altura di i so ochji, è chjamate la pè u so nome.
+2. **Dite una sola cosa à a volta.** Frase corte, una sola idea, una sola dumanda.
+3. **Prupunite una scelta trà duie cose.** « Tè o caffè? » hè più faciule ch'è « Chì vulete beie? »
+4. **Aspettate.** Date li più tempu per risponde ch'è ciò chì pare naturale, è pruvate à ùn l'interrompe micca.
+5. **Ùn litigate mai è ùn fate micca interrugatorii.** Rispondite à cumu si sente, micca à s'è i fatti sò ghjusti.
 
-## How should I start a conversation?
+## Cumu devu cumincià una cunversazione?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Preparate a situazione per chì a persona si possa cuncentrà nantu à voi. A [guida di a Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) cunsiglia prima di limità u rumore: spenghjite a radio o a televisione, chjudite e tende o a porta, o andate in un locu più calmu.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Avvicinate vi da davanti.** Ghjunghje da daretu o da u latu pò fà spaventà.
+- **Dite quale site.** « Bonghjornu, babbu, sò Sarah, a to figliola. » Cusì a persona ùn hà micca da circà u vostru nome.
+- **Mettite vi à u so livellu.** S'ella hè pichjata, pichjate vi o inginuchjate vi per avè i ochji à a listessa altura.
+- **Fate casu à a vostra faccia è à u vostru tonu.** U [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) cunsiglia di stà attenti à u tonu, à u vulume, à l'espressione di u visu è à a lingua di u corpu, è di aduttà un modu calmu è naturale.
+- **Verificate l'occhiali è l'apparechji auditivi.** Hè difficiule di seguità una cunversazione chì ùn si pò vede o sente bè.
 
-## How should I phrase what I say?
+## Cumu devu formulà ciò chì dicu?
 
-Use simple words, short sentences and a calm, low voice.
+Aduprate parolle semplici, frase corte è una voce calma è bassa.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Una sola idea per frase.** « Mettimu ci a giacca. Dopu surtimu fora. » Micca e duie cose in un soffiu.
+- **Aduprate i nomi, micca i prunomi.** « A zia Jean hà chjamatu » hè più chjaru ch'è « Ella hà chjamatu ».
+- **Parlate più bassu, micca più forte.** A Family Caregiver Alliance cunsiglia una voce più bassa piuttostu ch'è una voce alzata.
+- **Ripetite, dopu riformulate.** S'è a persona ùn hà micca capitu, ripetite e listesse parolle una volta. S'è què ùn basta, aspettate un mumentu è pruvate cù altre parolle.
+- **Mustrate è ancu dite.** Indicate a tazza, mustrate i dui pulloveri, o fate vede u primu passu.
+- **Parlate cù a persona, micca di a persona.** U NIA mette in guardia contr'à u fattu di parlà di a persona cum'è s'ella ùn fussi micca quì, è contr'à u parlà cum'è à un zitellu.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+U NIA prupone versioni più semplici di dumande cumune. Eccu esempii in stu spiritu:
 
-| Instead of | Try |
+| Invece di | Pruvate cusì |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| « Chì vulete manghjà sta sera? » | « Vulete pesciu o pullastru? » |
+| « Cumu vi sentite? » | « Vi sentite stancu? » |
+| « Avete fame? » | « A cena serà pronta in cinque minuti. » |
+| « Ùn si face micca cusì. » | « Pruvemu cusì. » |
+| « Vi arricurdate di u nostru viaghju à u lavu? » | « Pensava à u nostru viaghju à u lavu. Dite mi ciò chì vi era piaciutu. » |
+| « Vi l'aghju dighjà dettu. » | Rispondite torna, cù gentilezza, cum'è s'ella fussi a prima volta. |
 
-## How do I listen well?
+## Cumu possu ascoltà megliu?
 
-Listen for the meaning and the feeling, not just the words.
+Ascultate u sensu è u sintimu, micca solu e parolle.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Aspettate.** U silenziu hè spessu tempu per pensà. Cuntate pianu pianu finu à dece nanzu d'intervene.
+- **Prupunite una parolla solu s'è a persona hè bluccata.** A Family Caregiver Alliance dice chì hè bè di suggerisce una parolla quandu qualchissia si trova in difficultà.
+- **Verificate ciò chì avete capitu.** A [guida di l'Alzheimer's Association nantu à a cumunicazione](https://www.alz.org/help-support/caregiving/daily-care/communications) cunsiglia di circà u sensu daretu à e parolle è di ripete lu per verificà chì avete capitu. « Vi preoccupate per a vittura? »
+- **Fighjate u so visu è u so corpu.** Quandu parlà diventa più difficiule, u NIA face nutà chì l'espressioni di u visu ponu mostrà tristezza, rabbia o frustrazione più chjaramente ch'è e parolle.
+- **Pigliate i penseri in seriu.** Ancu s'è una preoccupazione nasce da un fattu sbagliatu, u sintimu hè reale.
 
-## What if they say something that is not true?
+## È s'è a persona dice qualcosa chì ùn hè micca vera?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ùn litigate. Hè pocu prubabile chì questu cambi qualcosa, è a persona pò finisce per sente si in imbarazzu o spaventata. Hè megliu cunnette vi cù u sintimu, è dopu passà dolcemente à altru.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+A Family Caregiver Alliance cunsiglia di ricunnosce l'emuzione nanzu di cambià sughjettu. Per esempiu, s'è a vostra mamma insiste ch'ella deve andà à piglià i zitelli à a scola:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Invece di: « Mamma, i to figlioli sò grandi. Era quarant'anni fà. »
+- Pruvate cusì: « Site sempre stata una mamma cusì attenta. Parlà mi di quandu i andavate à piglià. Vulemu manghjà qualcosa prima? »
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+L'Alzheimer's Association cunsiglia dinù di ùn litigà nantu à affirmazioni cù e quale ùn site micca d'accordu. Sceglite i mumenti: s'è un'idea sbagliata ùn face male à nimu, si pò lascià corre.
 
-## How does communication change as dementia progresses?
+## Cumu cambia a cumunicazione quandu a dimenza avanza?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+I bisogni cambianu cù u tempu, allora hè impurtante d'adattà a vostra manera di fà. L'Alzheimer's Association descrive trè grandi fasi:
 
-| Stage | What helps |
+| Fase | Ciò chì pò aiutà |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Principiu | Ùn partite micca da l'idea chì a persona ùn pò più cumunicà. Includite la in e cunversazione, parlate li direttamente, dumandate li chì tippu d'aiutu vole, è aduprate l'umore s'ellu aiuta. |
+| Fase media | Cunversazione à dui in un locu calmu. Parlate pianu, mantenite u cuntattu visuale, fate dumande à iè o nò, date istruzzioni passu à passu, è ùn criticate nè curregite. |
+| Fase avanzata | Avvicinate vi da davanti è dite quale site. Incuragite i gesti è u fattu d'indicà cù u ditu. Aduprate u toccu, i soni, ciò chì si vede è i prufumi. Ùn parlate mai cum'è s'ella ùn fussi micca quì. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Ogni persona hè differente, è a listessa persona pò avè ghjorni più faciuli è ghjorni più difficiuli. Rispondite à cumu si trova avà, micca à una etichetta.
 
-## Can pictures and activities make conversation easier?
+## L'imagine è l'attività ponu rende a cunversazione più faciule?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Iè. Una imagine sparta toglie a pressione è vi dà qualcosa da fighjà è da indicà inseme.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Imagine per cumincià à parlà.** [Conversation Cards](/games/conversation-cards/) prupone imagine cù dumande aperte chì ùn facenu mai interrugatorii.
+- **Fotò di famiglia.** [Photo Pairs](/games/photo-pairs/) trasforma e fotò chì sceglite voi in un ghjocu dolce d'associu, chì spessu face nasce ricordi è storie.
+- **Ditti cunnisciuti.** [Finish the Saying](/games/finish-the-saying/) adopra detti americani ben cunnisciuti, seguitati da una dumanda per parlà inseme.
+- **Giochi d'associu cum'è sustegnu.** [Picture Pairs](/games/picture-pairs/) vi dà qualcosa da fà cù e mani mentre parlate.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Fighjate [cumu ghjucà inseme](/caregiving/how-to-play-together/) è [attività di rimembranza](/activities/reminiscence/) per sapè ne di più. Per e visite è e chjamate, leghjite e nostre guide nantu à [e visite](/activities/visiting/) è [e chjamate è e videocallate](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## È sì mi manca a pacienza?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Succede à tutti. U NIA cunsiglia, s'è vi sentite frustratu, di piglià un pocu di tempu per calmà vi. Andate in un'altra stanza, fate qualchì respiru pianu, è vultate quandu vi sentite più calmu. Pudete sempre ripiglià a cunversazione, è a persona pò risponde megliu à a vostra calma. S'è a frustrazione diventa custante, hè un segnu chì avete bisognu di più sustegnu, micca chì site in sbagliu. A nostra guida nantu à [a cura di sè per e persone chì aiutanu](/caregiving/caregiver-self-care/) prupone lochi induve truvà aiutu.
