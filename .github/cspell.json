@@ -337,7 +337,8 @@
     "xcrun",
     "Zinnia",
     "resvg",
-    "webp"
+    "webp",
+    "Nesta"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",
