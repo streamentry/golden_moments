@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Pan fydd rhywun â dementia eisiau mynd adref"
+seoTitle: "Dementia ac eisiau mynd adref: Beth i'w ddweud"
+description: "Pam mae rhywun sy'n byw gyda dementia yn gofyn am fynd adref hyd yn oed pan fydd gartref, beth i'w ddweud, gweithgareddau tawelu i'w cynnig, a sut i'w gadw'n ddiogel."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Pan fydd rhywun â dementia yn gofyn yn aml am fynd adref, mae “cartref” yn aml
+  yn golygu teimlad o ddiogelwch neu le o'r gorffennol, nid adeilad. Peidiwch â
+  dadlau eu bod gartref. Cydnabyddwch y teimlad, rhowch sicrwydd eu bod yn
+  ddiogel, gofynnwch am eu cartref, ac yna symudwch yn ysgafn at luniau, cerddoriaeth,
+  byrbryd, taith gerdded neu dasg syml. Gwiriwch a ydynt yn llwglyd, yn sychedig,
+  angen y toiled neu mewn poen. Os yw'n dechrau'n sydyn, ffoniwch eu meddyg.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "Mae “Rwyf eisiau mynd adref” yn aml yn golygu “Dydw i ddim yn teimlo'n ddiogel nac yn gartrefol,” nid cais am gyfeiriad."
+  - "Mae dadlau neu geisio profi eu bod gartref fel arfer yn gwneud pethau'n waeth. Ymatebwch i'r teimlad yn lle."
+  - "Gofynnwch iddynt ddweud wrthych am eu cartref, ac yna cynigiwch luniau, cerddoriaeth, byrbryd, taith gerdded neu dasg syml."
+  - "Gwiriwch am rywbeth y gellir ei ddatrys: newyn, syched, angen y toiled, poen, bod yn rhy boeth neu'n rhy oer, sŵn, blinder."
+  - "Os yw'n digwydd bob prynhawn hwyr, gall fod yn gysylltiedig ag aflonyddwch gyda'r nos; gall trefn sefydlog a golau da helpu."
+  - "Cynlluniwch ar gyfer diogelwch os ydynt yn ceisio gadael, a ffoniwch eu meddyg am unrhyw newid sydyn."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Pam mae fy mam â dementia yn dal i ofyn am fynd adref pan mae hi gartref?"
+    a: "Gall dementia wneud i ystafelloedd cyfarwydd deimlo'n ddieithr, ac weithiau gall pobl deimlo eu bod mewn cyfnod cynharach o'u bywyd. Gall “cartref” olygu tŷ plentyndod neu'n syml y teimlad o fod yn ddiogel ac yn gyfforddus. Fel arfer mae ymateb i'r teimlad hwnnw'n gweithio'n well na dangos ble mae hi."
+  - q: "Beth ddylwn i ei ddweud pan fyddant yn gofyn am fynd adref?"
+    a: "Rhowch gynnig ar “Rydych chi'n ddiogel yma, ac rwy'n aros gyda chi,” ac yna “Dywedwch wrthyf am eich cartref.” Gwrandewch, rhannwch lun neu gân, a chynigiwch ddiod neu daith gerdded fer. Ceisiwch osgoi dweud “Rydych chi gartref” fel cywiriad, oherwydd gall hynny wneud iddynt deimlo eu bod yn cael dweud eu bod yn anghywir."
+  - q: "Ydy hi'n iawn dweud y byddwn ni'n mynd adref yn nes ymlaen?"
+    a: "Mae teuluoedd a sefydliadau dementia yn gweld pethau'n wahanol. Mae llawer yn dechrau gyda chysur gonest ac ailgyfeirio, ac yn cadw anwiredd ysgafn ar gyfer adegau pan fyddai'r gwir ond yn achosi gofid na all y person ei drin ar y pryd. Beth bynnag y byddwch yn ei ddewis, byddwch yn garedig ac yn gyson, a pheidiwch byth â gwawdio'r ffordd y mae'r person yn gweld pethau."
+  - q: "Beth os ydynt yn ceisio gadael y tŷ?"
+    a: "Arhoswch yn dawel a cherddwch gyda nhw yn hytrach na'u rhwystro; yn aml mae taith gerdded fer yn tawelu'r ysfa. Rhowch gamau diogelwch ar waith ymlaen llaw, fel breichled adnabod, clychau ar ddrysau a llun diweddar. Os ydynt yn mynd ar goll, dechreuwch chwilio ar unwaith, a ffoniwch 999 os nad ydych wedi dod o hyd iddynt o fewn 15 munud, gan ddweud bod gan y person dementia."
+  - q: "Pryd ddylwn i ffonio meddyg?"
+    a: "Ffoniwch eu meddyg yn fuan os yw'r gofyn neu'r dryswch yn dechrau'n sydyn neu'n gwaethygu llawer dros oriau neu ddyddiau, yn enwedig gyda thwymyn, meddyginiaeth newydd neu arwyddion o haint yn y llwybr wrinol. Gall dryswch sydyn fod yn ddryswch difrifol sydyn (delirium), sydd angen gofal brys. Ffoniwch 999 os oes unrhyw un mewn perygl."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+“Rwyf eisiau mynd adref.” I lawer o deuluoedd, dyma un o'r pethau anoddaf i'w glywed, yn enwedig pan fydd y person rydych yn gofalu amdano yn eistedd yn ei ystafell fyw ei hun. Mae'n beth cyffredin, gall ddigwydd ar unrhyw gam o ddementia, ac mae ffyrdd tawel ac ymarferol o ymateb. Mae'r dudalen hon yn esbonio beth mae'r geiriau'n ei olygu'n aml, beth i'w ddweud, gweithgareddau a all helpu ar y pryd, a sut i gadw pawb yn ddiogel.
 
-## Why does someone with dementia keep asking to go home?
+## Pam mae rhywun â dementia yn dal i ofyn am fynd adref?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Fel arfer, teimlad yn hytrach na lle yw “cartref”. Mae Cymdeithas Alzheimer yn ei ddisgrifio fel ymdeimlad o gysur a diogelwch, neu gartref o'r gorffennol, yn hytrach na'r tŷ ei hun. Gall dementia wneud i ystafelloedd cyfarwydd edrych yn ddieithr, a gall person deimlo ei fod yn byw mewn cyfnod cynharach o'i fywyd, pan oedd cartref yn dŷ plentyndod neu'r lle lle cododd ei blant.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Gall y geiriau hefyd fod yn arwydd bod rhywbeth arall o'i le ar hyn o bryd: efallai eu bod yn llwglyd, yn sychedig, angen mynd i'r toiled, mewn poen, yn rhy boeth neu'n rhy oer, wedi blino, yn unig, ofnus, neu wedi'u llethu gan sŵn. Mae'r [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) yn rhestru poen, sŵn, unigrwydd, newidiadau mewn trefn a meddyginiaethau ymhlith achosion aflonyddwch.
 
-## What should I say when they ask to go home?
+## Beth ddylwn i ei ddweud pan fyddant yn gofyn am fynd adref?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Ymatebwch i'r teimlad, nid i'r geiriau. Mae'r [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) yn cynghori yn erbyn ceisio darbwyllo'r person eu bod yn anghywir: mae eu teimladau'n real, felly atebwch gyda chysur a sicrwydd yn gyntaf, ac yna ailgyfeiriwch yn ysgafn.
 
-Phrases that often help:
+Ymadroddion sy'n aml yn helpu:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Enwch y teimlad.** “Mae'n swnio fel eich bod chi'n hiraethu am gartref.”
+- **Rhowch sicrwydd.** “Rydych chi'n ddiogel yma, ac rwy'n aros gyda chi.” Mae'r [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) yn awgrymu'r geiriau syml “Rydych chi'n ddiogel yma.”
+- **Gwahoddwch atgofion.** “Dywedwch wrthyf am eich cartref. Sut oedd eich cegin?” Fel arfer mae gofyn am y gorffennol pell yn teimlo'n haws na chwestiynau am heddiw.
+- **Cynigiwch rywbeth i'w wneud gyda'ch gilydd.** “Beth am gael paned yn gyntaf,” neu “A wnewch chi fy helpu gyda'r tywelion hyn?”
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Gall tôn gynnes a llaw ar y fraich, os ydynt yn hoffi cael eu cyffwrdd, ddweud mwy na'r geiriau.
 
-## What should I avoid?
+## Beth ddylwn i ei osgoi?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Dadlau neu esbonio.** Mae “Rydych chi'n byw yma nawr” neu “Dyma'ch cartref ers 40 mlynedd” yn gofyn iddynt dderbyn rhywbeth y gall dementia ei gwneud yn anodd ei dderbyn, a gall wneud iddynt deimlo eu bod yn cael dweud eu bod yn anghywir.
+- **Holwylio.** Mae “Onid ydych chi'n cofio?” neu “Beth yw'r cyfeiriad?” yn ychwanegu pwysau.
+- **Rhwystro'r drws mewn dicter.** Os ydynt yn mynd am y drws, arhoswch yn dawel a cherddwch gyda nhw. Yn aml mae taith gerdded fer gyda'ch gilydd yn tawelu'r ysfa.
+- **Brysio.** Rhowch amser iddynt siarad am eu cartref cyn i chi newid y pwnc.
 
-## Activities that can help in the moment
+## Gweithgareddau a all helpu ar y pryd
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Ar ôl i chi gydnabod y teimlad, gall gweithgaredd tawel a chyfarwydd symud eu sylw heb wfftio'r teimlad.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Edrychwch ar luniau o'r cartref a'r teulu.** Trowch y tudalennau a gwnewch sylwadau (“Edrychwch ar yr ardd honno”) yn hytrach na gofyn cwestiynau. Ar ffôn neu dabled, mae [Parau lluniau](/games/photo-pairs/) yn troi eich lluniau teulu chi'n gêm baru ysgafn, ac mae'r lluniau'n aros ar eich dyfais.
+2. **Siaradwch am gartref.** Mae [Cardiau sgwrs](/games/conversation-cards/) yn cynnig cwestiynau agored am dai, ceginau, cymdogion a gwyliau, heb unrhyw atebion cywir.
+3. **Chwaraewch gerddoriaeth y maent yn ei charu.** Mae'r National Institute on Aging yn rhestru cerddoriaeth dawel ymhlith y ffyrdd o dawelu aflonyddwch. Gweler ein [gweithgareddau cerddoriaeth](/activities/music/).
+4. **Cynigiwch fyrbryd neu ddiod.** Gall newyn a syched edrych fel aflonyddwch. Mae paned neu hoff fyrbryd hefyd yn arfer bach sy'n teimlo fel bod gartref.
+5. **Ewch am dro neu eisteddwch y tu allan.** Gall symud a golau dydd helpu, yn enwedig yn gynharach yn y dydd.
+6. **Rhowch dasg gyfarwydd.** Gall plygu dillad, didoli cyllyll a ffyrc, neu ddyfrio planhigion ddod â'r teimlad o redeg cartref yn ôl.
+7. **Arafwch bopeth.** Diffoddwch y teledu, lleihau sŵn a llacharwch, a rhowch gynnig ar saib [anadlu tawel](/games/calm-breathing/) gyda'ch gilydd.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Os nad yw un syniad yn gweithio, rhowch gynnig ar un arall yn nes ymlaen. Mae eistedd yn dawel gyda'ch gilydd hefyd yn ganlyniad da.
 
-## Check for a cause you can fix
+## Gwiriwch am achos y gallwch chi ei ddatrys
 
-| Check | What to try |
+| Gwiriwch | Beth i'w wneud |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Lwglyd neu sychedig | Cynigiwch ddiod a byrbryd bach |
+| Angen y toiled | Cynigiwch ymweliad â'r ystafell ymolchi, yn dawel a heb ffws |
+| Poen neu anghysur | Chwiliwch am arwyddion fel gwincio, dal rhan o'r corff neu gyfyng-der, a dywedwch wrth eu meddyg |
+| Rhy boeth neu'n rhy oer | Addaswch haen o ddillad neu dymheredd yr ystafell |
+| Sŵn neu ormod o bobl | Symudwch i ystafell dawelach, diffoddwch y teledu |
+| Wedi blino neu wedi cael gormod o ysgogiad | Cael gorffwys, pylu'r golau, chwarae cerddoriaeth feddal |
+| Prynhawn hwyr | Gweler yr adran am aflonyddwch gyda'r nos isod |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Mae Cymdeithas Alzheimer yn awgrymu cadw cofnod byr o bryd mae'r gofyn yn digwydd, er enghraifft cyn prydau bwyd, ar ôl ymwelwyr, neu gyda'r nos. Mae patrymau'n ei gwneud hi'n haws cynllunio ymlaen llaw.
 
-## Is it okay to tell a white lie?
+## Ydy hi'n iawn dweud celwydd bach gwyn?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Mae hon yn ddadl wirioneddol, ac mae teuluoedd caredig yn dod i gasgliadau gwahanol. Dywed Cymdeithas Alzheimer nad oes un ateb cywir i bawb: gall anwireddau wneud rhai pobl yn fwy amheus, felly penderfynwch beth sydd er budd y person a byddwch yn gyson. Yng Nghanolfan Cof Penn, barn y cyd-gyfarwyddwr yw mai'r gwir ddylai fod y dewis cyntaf, a bod anwiredd ysgafn yn dderbyniol dim ond pan na all y person drin gwirionedd penodol, ac na ddylech byth wawdio'r ffordd y maent yn gweld pethau.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Mae llawer o ofalwyr yn canfod bod llwybr canol yn gweithio: cysur gonest ac ailgyfeirio yn gyntaf (“Byddwn ni'n aros yma heno, ac rwy yma gyda chi”), heb ddadlau ynglŷn â ble mae cartref.
 
-## What if it happens every afternoon or evening?
+## Beth os yw'n digwydd bob prynhawn neu gyda'r nos?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Yn aml, gelwir aflonyddwch sy'n dechrau neu'n gwaethygu yn hwyr yn y prynhawn yn aflonyddwch gyda'r nos (sundowning). Mae'r [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) yn awgrymu trefn sefydlog, golau dydd a gweithgarwch bob dydd, llai o napiau hwyr, a dim caffein nac alcohol yn hwyr yn y dydd. Gall cynnau'r goleuadau cyn iddi nosi helpu hefyd. Mae mwy yn ein canllaw i [weithgareddau tawel yn hwyr yn y prynhawn](/caregiving/late-day-restlessness/).
 
-## Keeping them safe if they try to leave
+## Eu cadw'n ddiogel os ydynt yn ceisio gadael
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Gall gofyn am fynd adref arwain at grwydro. Mae'r [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) yn amcangyfrif y bydd chwech o bob deg o bobl sy'n byw gyda dementia yn crwydro o leiaf unwaith.
 
-**Prepare ahead:**
+**Paratowch ymlaen llaw:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Breichled adnabod neu freichled feddygol gyda'u henw a'ch rhif ffôn, a labeli yn eu dillad. Mae'r [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) yn sôn am raglen MedicAlert a Safe and Found Cymdeithas Alzheimer, a all gostio arian.
+- Cloch neu larwm ar y drws, a chloeon wedi'u gosod yn uchel neu'n isel. Peidiwch byth â chloi'r person i mewn ar ei ben ei hun.
+- Llun agos diweddar, a rhestr o leoedd y gallent fynd iddynt, fel hen gartref neu hen weithle.
+- Dywedwch wrth gymdogion yr ydych yn ymddiried ynddynt, a rhowch eich rhif iddynt.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Os ydynt yn mynd ar goll:** dechreuwch chwilio ar unwaith; mae'r Alzheimer's Association yn nodi bod llawer o bobl i'w cael o fewn 1.5 milltir. Os nad ydych wedi dod o hyd iddynt o fewn 15 munud, ffoniwch 999 a dywedwch fod gan y person dementia. Ffoniwch 999 ar unwaith os oes unrhyw un mewn perygl.
 
-## When should I call a doctor?
+## Pryd ddylwn i ffonio meddyg?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Ffoniwch eu meddyg yn fuan os yw'r gofyn neu'r dryswch yn dechrau'n sydyn, neu'n gwaethygu llawer dros oriau neu ddyddiau. Dywed y [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) y dylid gwirio ymddygiad sydyn neu sy'n newid yn gyflym ar unwaith, yn enwedig ar ôl haint neu newid mewn meddyginiaeth. Gall dryswch sydyn fod yn ddryswch difrifol sydyn (delirium), y mae'r [GIG](https://www.nhs.uk/symptoms/confusion/) yn dweud bod angen cymorth brys ar ei gyfer; mae heintiau yn y llwybr wrinol yn achos cyffredin ymhlith pobl hŷn.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Mae hefyd yn helpu sôn am batrwm cyson yn yr apwyntiad nesaf, gan y gall poen, iselder, problemau cysgu neu sgil-effeithiau meddyginiaethau i gyd chwarae rhan.

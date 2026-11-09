@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Deietau MIND a Môr y Canoldir a dementia: Yr ymchwil"
+seoTitle: "Deiet MIND a dementia: Beth mae'r ymchwil yn ei ddweud"
+description: "Beth mae'r ymchwil yn ei ddweud am ddeietau MIND a Môr y Canoldir a dementia, pam na chanfuwyd budd clir mewn treial, a sut i helpu rhywun sy'n byw gyda dementia i fwyta'n dda."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Mae astudiaethau arsylwi yn cysylltu patrymau bwyta tebyg i ddeiet Môr y
+  Canoldir a deiet MIND â risg is o dementia, ond nid yn gyson. Canfu treial
+  hap-dreialu tair blynedd ar y deiet MIND, a gyhoeddwyd yn 2023, nad oedd
+  gwahaniaeth arwyddocaol mewn meddwl na sganiau ymennydd o'i gymharu â deiet
+  rheoli. Nid oes unrhyw fwyd na chyflenwad wedi'i brofi i atal dementia. I
+  bobl sy'n byw gyda dementia, mae bwyta ac yfed digon yn bwysicaf.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Mae rhai astudiaethau sy'n dilyn pobl dros amser, ond nid pob un, yn cysylltu patrymau bwyta Môr y Canoldir a MIND â risg is o dementia."
+  - "Mewn treial yn 2023 o 604 o oedolion hŷn, ni wnaeth pobl ar y deiet MIND yn well ar brofion meddwl na sganiau ymennydd na phobl ar ddeiet rheoli ar ôl tair blynedd."
+  - "Dywed y National Institute on Aging nad oes tystiolaeth y gall bwyta neu osgoi bwyd penodol atal clefyd Alzheimer, ac nad oes unrhyw fitamin na chyflenwad wedi'i brofi i'w atal."
+  - "Mae deiet sy'n llawn llysiau, ffrwythau, ffa, grawn cyflawn a physgod yn cefnogi iechyd y galon ac efallai'n helpu gyda risgiau fel pwysedd gwaed uchel a diabetes."
+  - "I bobl sy'n byw gyda dementia, mae bwydydd bys, platiau sy'n gwrthgyferbynnu, amseroedd bwyta tawel a diodydd rheolaidd yn aml yn bwysicach nag unrhyw ddeiet penodol."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "A yw'r deiet MIND yn atal dementia?"
+    a: "Nid yw hynny wedi'i ddangos. Roedd astudiaethau arsylwi yn cysylltu'r deiet MIND â risg is, ond canfu treial hap-dreialu tair blynedd a gyhoeddwyd yn 2023 nad oedd gwahaniaeth arwyddocaol mewn canlyniadau profion meddwl na sganiau ymennydd rhwng pobl ar y deiet MIND a phobl ar ddeiet rheoli. Gwnaeth y ddau grŵp ychydig yn well a chollodd y ddau faint tebyg o bwysau."
+  - q: "Beth yw'r gwahaniaeth rhwng y deiet MIND a deiet Môr y Canoldir?"
+    a: "Mae deiet Môr y Canoldir yn rhoi pwyslais ar lysiau, ffrwythau, grawn cyflawn, ffa, pysgod ac olew olewydd, gydag ychydig iawn o gig coch neu felysion. Mae'r deiet MIND yn ei gyfuno â deiet DASH ar gyfer pwysedd gwaed ac yn rhoi pwyslais ychwanegol ar lysiau gwyrdd deiliog ac aeron, tra'n cyfyngu ar gig coch, melysion, caws, menyn a bwyd wedi'i ffrio."
+  - q: "A oes bwydydd neu gyflenwadau sy'n atal clefyd Alzheimer?"
+    a: "Nac oes. Dywed y National Institute on Aging nad oes tystiolaeth y gall bwyta neu osgoi bwyd penodol atal clefyd Alzheimer na dirywiad gwybyddol sy'n gysylltiedig ag oedran, ac nad oes unrhyw fitamin na chyflenwad wedi'i brofi i atal clefyd Alzheimer. Siaradwch â meddyg cyn cymryd cyflenwadau."
+  - q: "Pa fwydydd sydd hawsaf i rywun gyda dementia eu bwyta?"
+    a: "Mae bwydydd bys maint brathiad fel darnau o frechdanau, darnau o gyw iâr, segmentau oren neu ddarnau o lysiau wedi'u stemio yn aml yn haws na defnyddio cyllyll a ffyrc. Os yw cnoi neu lyncu'n anodd, gall bwydydd meddal fel wyau wedi'u sgramblo, saws afal neu gaws twt helpu. Gofynnwch i'r meddyg am asesiad llyncu os bydd peswch neu dagu."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,90 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Efallai eich bod wedi darllen y gall deiet sy'n "iach i'r ymennydd" gadw clefyd Alzheimer draw. Mae'r gwir yn fwy cymedrol. Mae rhai patrymau bwyta yn gysylltiedig â risg is mewn astudiaethau sy'n dilyn pobl dros amser, ond ni chanfuwyd budd clir yn y treial gorau hyd yma. Mae'r dudalen hon yn esbonio'r ddau, ac yna'n troi at yr hyn sydd fel arfer yn bwysicaf i rywun sydd eisoes yn byw gyda dementia: bwyta ac yfed digon, a mwynhau hynny.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Mae hwn yn wybodaeth gyffredinol, nid cyngor meddygol. Siaradwch â meddyg neu ddeietegydd cofrestredig cyn newid eich deiet chi neu ddeiet rhywun arall. Gweler ein [hysbysiad meddygol](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Beth yw deietau Môr y Canoldir a MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+Mae'r National Institute on Aging (NIA) yn eu disgrifio fel hyn
+([NIA ar ddeiet a chlefyd Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Deiet Môr y Canoldir:** digonedd o ffrwythau, llysiau, grawn cyflawn, ffa, pysgod a bwyd môr, ac olew olewydd, gydag ychydig o gig coch, wyau a melysion.
+- **Deiet MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): cymysgedd o ddeiet Môr y Canoldir a deiet DASH ar gyfer pwysedd gwaed. Mae'n cynnwys llysiau, yn enwedig rhai gwyrdd deiliog; aeron; grawn cyflawn; ffa; cnau; pysgod o leiaf unwaith yr wythnos; ac olew olewydd. Mae'n cyfyngu ar gig coch, melysion, caws, menyn neu fargarîn, a bwyd wedi'i ffrio neu fwyd parod.
 
-## Do these diets lower dementia risk?
+## A yw'r deietau hyn yn lleihau'r risg o dementia?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Mae'r dystiolaeth yn gymysg. Dywed y NIA fod rhai astudiaethau arsylwi, ond nid pob un, wedi cysylltu deietau Môr y Canoldir a MIND â risg is o dementia o'i gymharu â deiet tebyg i ddeiet y Gorllewin sy'n uwch mewn cig coch, braster dirlawn a siwgr.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Adolygodd Comisiwn Lancet 2024 yr ymchwil yn fwy manwl
+([Comisiwn Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Cysylltodd un adolygiad o astudiaethau carfan ansawdd deiet uchel â risg o dementia tua 20% yn is.
+- Cysylltodd dadansoddiad mwy o dri charfan ddilyn y deiet MIND yn agosach â risg is.
+- Ond canfu astudiaeth yn Sweden a ddilynodd 28,025 o bobl ganol oed am tua 20 mlynedd nad oedd risg is gyda naill ai deietau a argymhellir na deiet tebyg i ddeiet Môr y Canoldir.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Ni all astudiaethau arsylwi brofi achos ac effaith. Mae pobl sy'n bwyta fel hyn yn aml yn wahanol mewn ffyrdd eraill hefyd, fel incwm, addysg, ymarfer corff a mynediad at ofal iechyd. Daeth y Comisiwn i'r casgliad nad oes digon o dystiolaeth i ddweud bod deietau iach yn atal dementia yn uniongyrchol, er bod bwyta digon o ffrwythau a llysiau a llai o fwydydd wedi'u prosesu'n helaeth yn dda i lawer o gyflyrau iechyd ac yn effeithio ar ffactorau risg fel gordewdra, diabetes a phwysedd gwaed uchel. Ni ychwanegodd ddeiet at ei restr o [14 o ffactorau risg](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Beth ganfu treial deiet MIND 2023?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Y prawf cryfaf hyd yma oedd treial hap-dreialu a gyhoeddwyd yn y New England Journal of Medicine yn 2023
+([treial deiet MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Pwy:** 604 o oedolion 65 oed a hŷn yn ardaloedd Chicago a Boston, heb broblemau meddwl, gyda pherthynas agos â dementia, a oedd dros bwysau, ac a oedd â deiet llai iach i ddechrau.
+- **Beth:** am dair blynedd, dilynodd hanner y deiet MIND a dilynodd hanner eu deiet arferol. Gofynnwyd i'r ddau grŵp fwyta tua 250 yn llai o galorïau y dydd a chawsant hyfforddiant rheolaidd gan ddeietegwyr cofrestredig.
+- **Canlyniad:** gwnaeth canlyniadau profion meddwl ychydig yn well yn **y ddau** grŵp. Roedd y gwahaniaeth rhwng y grwpiau'n fach ac **ddim yn arwyddocaol yn ystadegol**. Dangosodd sganiau ymennydd newidiadau tebyg yn y ddau grŵp hefyd.
+- **Pwysau:** collodd y ddau grŵp tua 5 cilogram (tua 11 pwys).
 
-### Why might the trial have found no difference?
+### Pam efallai na chanfuwyd gwahaniaeth yn y treial?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Awgrymodd yr ymchwilwyr sawl rheswm. Mae'n debyg bod y grŵp rheoli wedi gwella ei ddeiet hefyd, gan iddo golli tua'r un faint o bwysau. Gall profion dro ar ôl tro wella canlyniadau ar eu pen eu hunain, wrth i bobl ddod i arfer â'r profion. Efallai bod tair blynedd yn rhy fyr. Roedd y rhan fwyaf o'r cyfranogwyr wedi'u haddysgu'n dda ac o dras Ewropeaidd, felly efallai nad yw'r canlyniadau'n berthnasol i bawb.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Felly'r crynodeb gonest yw: ni wnaeth y deiet MIND yn well na deiet synhwyrol gyda llai o galorïau dros dair blynedd. Nid yw hynny'n golygu bod bwyta'n iach yn ddiystyr. Mae'n golygu na ddylai neb ddisgwyl i ddeiet penodol atal dementia.
 
-## What about specific foods and supplements?
+## Beth am fwydydd a chyflenwadau penodol?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Dywed y NIA nad oes tystiolaeth y gall bwyta neu osgoi bwyd penodol atal clefyd Alzheimer na dirywiad gwybyddol sy'n gysylltiedig ag oedran. Mae llus, llysiau gwyrdd deiliog a thyrmerig i gyd wedi'u hastudio, heb brawf. Dywed y NIA hefyd nad oes unrhyw fitamin na chyflenwad wedi'i brofi i atal clefyd Alzheimer, ac nid argymhellir yr un ohonynt at y diben hwnnw. Mae'r NIA yn rhybuddio y gallai cynhyrchion heb eu profi a werthir i atal clefyd Alzheimer fod yn anniogel, yn wastraff arian, neu'r ddau, ac y gallent amharu ar feddyginiaethau presgripsiwn, felly gofynnwch i feddyg cyn rhoi cynnig ar unrhyw beth
+([NIA ar atal clefyd Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Sut gall bwyta aros yn iach ac yn bleserus?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+I'r rhan fwyaf o oedolion hŷn, y nod yw bwyd sy'n faethlon, yn gyfarwydd ac yn bleserus, nid cynllun llym:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Adeiladwch brydau o amgylch bwydydd rydych chi'n eu hoffi** o'r patrwm Môr y Canoldir: llysiau, ffrwythau, ffa, grawn cyflawn, pysgod ac olew olewydd.
+- **Cadwch eich hoff ddanteithion.** Mae mwynhad a chwant bwyd yn bwysig, yn enwedig yn nes ymlaen mewn bywyd.
+- **Bwytëwch gyda phobl eraill** pan allwch chi. Mae prydau ar y cyd yn gwmni da.
+- **Coginiwch gyda'ch gilydd.** Mae golchi llysiau neu droi pot yn weithgaredd da i'w rannu; gweler [tasgau cartref](/activities/household-tasks/). Gall hoff rysáit deuluol hefyd sbarduno [hel atgofion](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Ni ddylai oedolion hŷn dorri ar galorïau na cholli pwysau heb siarad â meddyg, ac mae risgiau ychwanegol gyda ymprydio. Gweler ein [canllaw ymprydio](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Sut gallwch chi helpu rhywun gyda dementia i fwyta'n dda?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+I bobl sy'n byw gyda dementia, bwyta ac yfed **digon** yw'r prif bryder fel arfer. Mae Cymdeithas Alzheimer yn nodi y gallai pobl anghofio bwyta, meddwl eu bod eisoes wedi bwyta, neu deimlo eu bod wedi'u llethu gan ddewisiadau, ac y gall maeth gwael gynyddu symptomau ymddygiad ac achosi colli pwysau
+([Cymdeithas Alzheimer ar fwyd a bwyta](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Mae'r syniadau hyn yn dod gan Gymdeithas Alzheimer, y NIA a Chymdeithas Alzheimer (Alzheimer's Society):
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Cynigiwch fwydydd bys.** Mae darnau maint brathiad sy'n hawdd eu codi, fel darnau o frechdanau, darnau o gyw iâr, ffyn pysgod, segmentau oren neu frocoli wedi'i stemio, yn gadael i berson fwydo ei hun heb gyllyll a ffyrc.
+2. **Defnyddiwch wrthgyferbyniad ar y bwrdd.** Gall newidiadau mewn golwg ei gwneud hi'n anodd gwahaniaethu rhwng bwyd a phlât. Gall platiau neu fowlenni gwyn ar fat bwrdd sy'n gwrthgyferbynnu helpu. Ceisiwch osgoi llestri a lliain bwrdd â phatrwm.
+3. **Gweinwch un neu ddau fath o fwyd ar y tro.** Gall plât llawn fod yn ormod.
+4. **Cadwch amseroedd bwyta'n dawel.** Diffoddwch y teledu, cadwch y bwrdd yn syml, a rhowch ddigon o amser. Mae'r NIA yn awgrymu peidio â brysio nac â gwthio.
+5. **Cynigiwch brydau bach a byrbrydau'n aml.** Mae'r NIA yn awgrymu prydau llai, amlach a byrbrydau llawn calorïau os nad yw'r person yn bwyta digon
+   ([cyngor NIA ar fwyta'n dda](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Helpwch gyda diodydd.** Cynigiwch gwpanau bach o ddŵr neu ddiodydd eraill drwy'r dydd, ynghyd â bwydydd â llawer o ddŵr fel ffrwythau, cawl, ysgytlaeth laeth a smwddis. Os nad yw'r person eisiau dŵr, mae'r NIA yn awgrymu rhoi cynnig ar sudd, dŵr â blas, cawl, llaeth, neu goffi neu de heb gaffein.
+7. **Gwiriwch y tymheredd.** Efallai na fydd person yn sylwi bod bwyd neu ddiod yn rhy boeth.
+8. **Addaswch offer a chwpanau.** Gall bowlenni yn lle platiau, llwyau â dolenni mawr, a chwpanau â chaeadau wneud bwyta'n haws. Peidiwch â phoeni am daclus.
+9. **Gwnewch fwyd yn haws i'w gnoi a'i lyncu.** Torrwch fwyd yn ddarnau bach neu cynigiwch fwydydd meddal. Os bydd y person yn peswch neu'n tagu wrth fwyta, dywedwch wrth ei feddyg.
+10. **Peidiwch â gorfodi rhywun i fwyta.** Mae'r NIA yn nodi bod chwant bwyd yn lleihau'n naturiol yng nghyfnodau hwyr clefyd Alzheimer.
 
-### Signs to tell the doctor about
+### Arwyddion i'w dweud wrth y meddyg
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Gall colli pwysau, gwrthod bwyd, blinder neu wendid fod yn arwyddion nad yw rhywun yn bwyta digon. Mae Cymdeithas Alzheimer (Alzheimer's Society) yn nodi y gall dannedd neu ddanedd gosod poenus, iselder, rhwymedd a newidiadau mewn meddyginiaeth i gyd leihau chwant bwyd
+([Alzheimer's Society ar chwant bwyd](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Mae arwyddion dadhydradu a restrir gan y NIA yn cynnwys ceg sych, pendro, cyfradd curiad calon gyflym a rhithweledigaethau
+([NIA ar broblemau meddygol cyffredin](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Siaradwch â meddyg
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Cyn gwneud newidiadau mawr i'ch deiet eich hun, neu ddeiet unrhyw un arall, siaradwch â meddyg neu ddeietegydd cofrestredig, yn enwedig os oes gennych chi ddiabetes, clefyd yr arennau, problemau llyncu neu os ydych chi wedi colli pwysau'n ddiweddar. I rywun sy'n byw gyda dementia, gofynnwch faint y dylai anelu at ei fwyta a'i yfed bob dydd, ac a allai deietegydd neu gyflenwadau helpu.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Mynnwch help ar frys os yw rhywun yn tagu, neu os oes ganddo ddryswch sydyn, pendro difrifol neu lewyg.

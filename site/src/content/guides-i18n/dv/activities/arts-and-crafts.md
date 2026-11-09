@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "ޑިމެންޝިއާ ހުރި ބޮޑެތި މީހުންނަށް އާޓް އަދި ކްރާފްޓް"
+seoTitle: "ޑިމެންޝިއާއަށް އާޓް އަދި ކްރާފްޓް: ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ"
+description: "ޑިމެންޝިއާއާ އެކު ދިރިއުޅޭ ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ އާޓް އަދި ކްރާފްޓް ޚިޔާލުތައް، ތައްޔާރުކުރުމާއި ބަދަލުތަކާ ގުޅޭ އިރުޝާދުތައް."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  ޑިމެންޝިއާއާ އެކު ދިރިއުޅޭ ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ އާޓް އަދި ކްރާފްޓް މަސައްކަތްތަކަކީ
+  ބަލާއިރު އަދި ކުރާއިރު ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ އެއްޗެހި: ވޯޓަރކަލަރ، މެގަޒިނުން
+  ކޮލާޖް، މަތަކުރުމެއް އެޅުން، ކްލޭ، ސާދާ ކާޑު ހަދާނެއް، ނުވަތަ ބޮޑެތި މީހުންނަށް ހާއްސަ
+  ކުލަ ޖަހާ ޞަފްޙާތައް. މަދު ތަކެތި ތައްޔާރުކޮށް، ބޭނުންނަމަ ފުރަތަމަ ސްޓްރޯކް އަށް އެހީތެރިވެ،
+  މަސައްކަތް ކުރަމުން ވާހަކަ ދައްކާ، އަދި އެއްކޮށް ހޭދަކުރާ ވަގުތަށް މުހިންމުކަން ދީށެވެ.
+  ނިންމި މަސައްކަތެއް އޮންނަން ކަނޑައެޅިފައެއް ނުވެއެވެ.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "ބަލާއިރު ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ ތަކެތި އަދި މައުޟޫތަކެއް ހޮވާށެވެ؛ މިސާލަކަށް ވޯޓަރކަލަރ ކަރުދާސް، ހަގީގީ މަތަކުރުމާއި މެގަޒިން ތަސްވީރުތައް. ގްލިޓަރ، ސްޓިކަރ ނުވަތަ ކާޓޫން ވޯކްޝީޓް ބޭނުން ނުކުރާށެވެ."
+  - "މަސައްކަތް ކުރާ މިންވަރަށް ސަމާލުކަން ދީށެވެ: ކުލަތައް، ކްލޭގެ އަހަރު، ވާހަކަދެއްކުން. ނިންމި މަސައްކަތެއް އަކީ އިތުރު ލިބުމެއް، މަގުސަދެއް ނޫނެވެ."
+  - "މުޅިން ނުވަތަ ބައެއް ފަހަރަށް މަގުސަދެއް ދީށެވެ؛ މިސާލަކަށް ކުޑަދަރިފުޅަކަށް ކާޑެއް ނުވަތަ މޭޒަށް އެޅޭ މަތަކުރުމެއް."
+  - "މީހާ ފަށާން އެހީތެރިވެ، ދެން އަހަރަކު ފަސްވެ ދީށެވެ. އެއްކޮށް ބްރަޝް ސްޓްރޯކެއް ފެށުމަކީ ގިނަ ފަހަރަށް ފުދޭ އެހީއެކެވެ."
+  - "މަސައްކަތްތައް އެއް ވަގުތެއްގައި ނިންމަން ކަނޑައެޅިފައެއް ނުވެއެވެ، އަދި ކުރިން ހުއްޓާލުމަކީ އަބަދުވެސް ރަނގަޅު ކަމެކެވެ."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "ކްރާފްޓް މަސައްކަތް ކުޑަކުދިންނަށް ކުރާ އެއްޗެއް ފަދައިން ނުވާނެ ގޮތަކީ ކޮބައިތޯ؟"
+    a: "ހަގީގީ އާޓް ތަކެތި، ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ މައުޟޫތަކާއި އިޙްތިރާމް އެކުވެރި ބަހުރުވަ ބޭނުން ކުރާށެވެ. ގްލިޓަރ އަދި ކާޓޫން ޞަފްޙާތަކުގެ ބަދަލުގައި ވޯޓަރކަލަރ ކަރުދާސް، ފެބްރިކް، މަތަކުރުމާއި މެގަޒިން ފޮޓޯތަކާއި ތަފްޞީލީ ކުލަ ޖަހާ ޞަފްޙާތައް ބޭނުން ކުރާށެވެ. ކުޑަކުއްޖެއްގެ ކުރެހުމަކަށް ތައުރީފު ކުރާ ގޮތަށް ތައުރީފު ނުކުރާށެވެ؛ އެހެން ބޮޑެތި ރައްޓެހިއަކާ ވާހަކަ ދައްކާ ގޮތަށް ވާހަކަ ދައްކާށެވެ."
+  - q: "ފަހު ފިޔަވަހީގެ ޑިމެންޝިއާއެއްގައި ކޮން އާޓް މަސައްކަތްތައް އެކަށީގެންވޭތޯ؟"
+    a: "ފަހު ފިޔަވަހީގައި ސާދާ، އިހުސާސްތަކަށް ގުޅޭ މަސައްކަތްތައް އެންމެ ރަނގަޅެވެ: ބޮޑު ބްރަޝެއް ބޭނުންކޮށް ފުޅާ ސްޓްރޯކްތަކުން ކުލަ ޖެހުން، ނުރައްކާ ކްލޭ މިރުސްކުރުން، ފްލާވަރ ވޭސްއެއްގައި މަދު މަތަކުރުމެއް އެޅުން، ނުވަތަ ފެބްރިކް ޓުކުޑަތައް އަހަރަށް ބަލައިގެން ތަރުތީބު ކުރުން. ބައެއް ފަހަރަށް ތިބާ އެއްކޮށް ހަރަކާތް ފެށަން ޖެހިދާނެއެވެ. ތިބާ ކުލަ ޖަހަނީ ބަލަމުން ކުލަތަކާ ބެހޭ ގޮތުން ވާހަކަ ދެއްކުމަކީވެސް ބައިވެރިވުމުގެ ގޮތެކެވެ."
+  - q: "އެމީހަކު އަހަރެންނަށް ނުކުރެވޭނެ ބުނެއްޔާ ކީހާ ހެއްޔެވެ؟"
+    a: "ފިތުން ދުރުކޮށްލާށެވެ. ރަނގަޅު ޖަވާބެއް ނެތް މަސައްކަތްތައް އަށް މަސައްކަތް ކުރާށެވެ؛ މިސާލަކަށް ވޯޓަރކަލަރ ވޮޝެއް، ކޮލާޖެއް، ނުވަތަ މަތަކުރުމެއް އެޅުން. ކާޑަކަށް ކުލަ ހޮވުމުގައި އެހީތެރިވުން އެދުން ފަދަ ވަކި ކަމެއްގައި އެހީ އެދިދާނެއެވެ؛ އޭރުން އެކަން އިމްތިހާނެއް ފަދައިން ނުފެންނާނެއެވެ."
+  - q: "ކުލަ ޖަހާ ޞަފްޙާތައް ބޮޑެތި މީހުންނަށް ކުޑަކުދިންނަށް ކުރާ އެއްޗެއް ފަދަތޯ؟"
+    a: "ބޮޑެތި މީހުންނަށް ހަދާފައިވާ ނަމަ އެހެން ނޫނެވެ. ބަގީޗާ، ކުއިލްޓް، ކާރު ނުވަތަ މަންޒަރު ފަދަ ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ މައުޟޫތަކެއް ހޮވާ، އަދި އެއީ ދަރުސެއް ނޫން، އަރާމުކޮށް ކުރާ ކަމެއްގެ ގޮތުގައި ހުށަހަޅާށެވެ. އަޅުގަނޑުމެންގެ ކުލަ ޖަހާ ޞަފްޙާތައް ޕްރިންޓް ކުރެވޭނެ، ނުވަތަ ޓެބްލެޓެއްގައި ކުލަ ޖެހޭނެއެވެ."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+އާޓް އަދި ކްރާފްޓް މަސައްކަތްތަކުން ޑިމެންޝިއާއާ އެކު ދިރިއުޅޭ ބޮޑެތި މީހުންނަށް، ރަނގަޅު ބަސްތައް ހޯދުމަށް ބަރޯސާ ނުކޮށް އެމީހުންގެ ހިތްވަރު ދައްކާލުމުގެ ގޮތެއް ލިބެދާނެއެވެ. Alzheimer's Association ބުނާ ގޮތުގައި އާޓް މަސައްކަތްތަކުން [ކުރެވުނު ކަމެއްގެ އުފާވެރިކަމާއި މަގުސަދެއް](https://www.alz.org/help-support/caregiving/daily-care/art-music) ލިބިދާނެ، އަދި އަމިއްލަ ހިތްވަރު ދައްކާލުމުގެ ފުރުސަތުވެސް ލިބިދާނެއެވެ؛ މިއީ ޑިމެންޝިއާ ހުރި މީހާއަށްވެސް، ބަލަން އެހީތެރިވާ މީހާއަށްވެސް ލިބޭ ފުރުސަތެކެވެ. މުހިންމު ކަމަކީ ކަންތައް ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ ގޮތަށް، ސާދާކޮށް، އަދި ފިތުން ނެތި ބަހައްޓައިގަތުމެވެ. މި ޞަފްޙާގައި ވަކި މަސައްކަތްތައް، އެ ތައްޔާރު ކުރާނެ ގޮތް، އަދި ޙާލަތު ބަދަލުވާއިރު އެ ބަދަލު ކުރާނެ ގޮތް ބަޔާން ކުރެވިފައިވެއެވެ.
 
-## What makes an art activity adult and not childish?
+## އާޓް މަސައްކަތެއް ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ އެއްޗަކަށް ހަދަނީ ކޮން ކަމުންތޯ؟
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ އާޓް މަސައްކަތެއްގައި ބޭނުން ކުރަނީ ހަގީގީ ތަކެތި، ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ މައުޟޫތަކާއި އިޙްތިރާމް އެކުވެރި ބަހުރުވައެވެ. Alzheimer's Association އިރުޝާދު ދެނީ މަސައްކަތްތައް ބޮޑެތި މީހުންގެ ފެންވަރަށް ބަހައްޓައި، އިޙްތިރާމް ނެތް ނުވަތަ ކުޑަކުދިންނަށް ކުރާ އެއްޗެއް ފަދައިން ފެންނާނެ އެއްޗެއް ދުރުކުރަން ބުނެގެންނެވެ.
 
-| Feels childish | Feels adult |
+| ކުޑަކުދިންނަށް ކުރާ އެއްޗެއް ފަދަ | ބޮޑެތި މީހުންނަށް އެކަށީގެންވާ |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| ގްލިޓަރ، ފޯމް ސްޓިކަރ، ގޫގްލީ އައިޒް | ވޯޓަރކަލަރ ކަރުދާސް، ފެބްރިކް، ޕްރެސް ކުރި މަތަކުރުން |
+| ކާޓޫން ކުލަ ޖަހާ ޝީޓް | ބަގީޗާ، ކުއިލްޓް، ކާރު ނުވަތަ މަންޒަރުތަކުގެ ކުލަ ޖަހާ ޞަފްޙާތައް |
+| ކޮންމެ ނިޝާނަކަށް «ވަރަށް ރަނގަޅު» ތައުރީފު | ހަގީގީ ވާހަކަ: «އެ ނޫ ކުލަ ފެހި ކުލައާ އެކު ވަރަށް ރީތި» |
+| ބޭނުމެއް ނެތް ކްރާފްޓެއް | ރައްޓެހިއަކަށް ކާޑެއް، މޭޒު އެޅުމެއް، ހަދިޔާއެއް |
+| ދަރުމެއް ފަދަ އިރުޝާދު | ދައުވަތެއް: «މިކަމުގައި އަހަންނަށް އެހީތެރިވެދެއްވާނެތަ؟» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+އެ މީހާގެ އަމިއްލަ ރުހުމާ ގުޅޭ ގޮތުން ވިސްނާށެވެ. ފޮތްވަންނަން ކަމަށް ރުހުންތެރިވި މީހަކަށް ފެބްރިކް ބޭނުން ކުރުން ކަމަށް ރުހިދާނެއެވެ. ރިޓަޔަރުވެފައިވާ އިންޖިނިއަރަކަށް ބޮޑު ޓުކުޑަތަކުން ހަދާ މޮޑެލް ކިޓެއް ނުވަތަ މަސައްކަތަކަށް ހާޑްވެއާ ތަރުތީބު ކުރުން ކަމަށް ރުހިދާނެއެވެ. ކުރިން މުދައްރިސަކު ކަމުގައި ހުންނެވި މީހަކަށް ކާޑު ހެދުން ކަމަށް ރުހިދާނެއެވެ.
 
-## Why focus on the process, not the product?
+## ނަތީޖާއަށް ވުރެ މަސައްކަތް ކުރާ މިންވަރަށް ސަމާލުކަން ދޭން ޖެހެނީ ކީއްވެ؟
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+އެއްކޮށް ހޭދަ ކުރާ ވަގުތަކީ މުހިންމު ކަމަށް ވާތީއެވެ. Alzheimer's Association ގެ [ގޭގައި ކުރެވޭ މަސައްކަތްތަކާ ބެހޭ އިރުޝާދު](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) ގައި ބުނަނީ ނަތީޖާއަށް ނޫން، މަސައްކަތް ކުރާ މިންވަރަށް ސަމާލުކަން ދޭން ކަމަށެވެ. «ހަމަ ނޫ ކުލަ އެކަން» ވެސް އެއީ ކުޅެވޭ ތަސްވީރެކެވެ. ތިން ތަސްވީރު އެކުލެވިފައިވާ ކޮލާޖެއްވެސް ކޮލާޖެކެވެ.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+އެ ޖަމިއްޔާ އިތުރަށް ބުނަނީ، ވަރަށް ހުނަރުވެރި ފަންނާނަކަށް އެމީހުންގެ މަސައްކަތުގައި އަންނަ ބަދަލުތަކުން ފިތުން އުފެދިދާނެ ނަމަވެސް، ހުނަރެއް ނެތް މީހަކަށް އަމިއްލަ ހިތްވަރު ދައްކާލުމުގެ އާ ފުރުސަތެއް ކަމުގައި އުފާވެރިކޮށް ހޭދަ ކުރެވިދާނެއެވެ. އެ މީހާ ކުރިން ވަރަށް ރަނގަޅަށް ކުރި ހުނަރުވެރި މީހަކު ނަމަ، އެމީހުން ރަނގަޅަށް ދަންނަ މީޑިއާއާ ތަފާތު މީޑިއާއެއް އަށް މަސައްކަތް ކުރާށެވެ؛ އޭރުން އެކަން އަބުރާ ކުރި މަސައްކަތާ އަޅާކިޔުމެއް ނޫން، ކުޅޭ ކަމެއް ފަދައިން އިޙްސާސް ކުރެވޭނެއެވެ.
 
-## Arts and crafts ideas to try
+## އަށް މަސައްކަތް ކުރެވޭ އާޓް އަދި ކްރާފްޓް ޚިޔާލުތައް
 
-Each idea includes how to make it simpler if it becomes hard.
+ކޮންމެ ޚިޔާލަކާ އެކު އެކަން އުނދަގޫ ވެއްޖެ ނަމަ ސާދާ ކުރާނެ ގޮތްވެސް ހިމެނިފައިވެއެވެ.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **ވޯޓަރކަލަރ ވޮޝް.** ބޯ ވޯޓަރކަލަރ ކަރުދާހެއް ތެތްކޮށް، ބޮޑު ބްރަޝެއް ބޭނުންކޮށް ކުލަ އެއްކޮށް ވެއްޓުމަށް ދޫކޮށްލާށެވެ. ކުލަތައް އަމިއްލައަށް ފެތުރޭތީ ނުބައި ނަތީޖާއެއް ނުއުފެދޭނެއެވެ. *ސާދާ ކުރުމަށް:* ދެ ކުލަ އެކަނި ދީށެވެ، ނުވަތަ ތެތް ނިޝާން ފެންނަ ކަޅު ކަރުދާހެއްގައި ފެނުން ކުލަ ޖައްސާށެވެ.
+2. **މެގަޒިން ކޮލާޖް.** ބަގީޗާކުރުން، ކެއުން ތައްޔާރުކުރުން، ކާރު، ދަތުރުފަތުރު ނުވަތަ އެ މީހާގެ ކުރީގެ ޝައުގުވެރިކަންތަކާ ބެހޭ މެގަޒިންތަކުން ކުރިން ތަސްވީރުތައް ކަނޑާލާށެވެ. ކާޑް ސްޓޮކް މަތީގައި ތަސްވީރުތައް ހޮވައި ގުއާ ކުރުމަށް ދޫކޮށްލާށެވެ. *ސާދާ ކުރުމަށް:* ކުރިން ކަނޑާފައިވާ ހަތަރު ތަސްވީރާއި ގުއާ ސްޓިކެއް ދީ، އެއްކޮށް ގުއާ ކުރާށެވެ.
+3. **މަތަކުރުމެއް އެޅުން.** Alzheimer's Foundation of America ހުށަހަޅަނީ [ކަނޑާފައިވާ މަތަކުރުމާއި ފަތްޕިލަ ހިމެނޭ ތަކެތި](https://alzfdn.org/dementia-activity-gardening/) ސާދާ މައުސިމީ އެޅުމެއް ގޮތުގައި އެޅުމަށެވެ. ބޯ، ސްތިރު ވޭސް އަދި ކުރިން ކަނޑާފައިވާ ޑަގަނޑުތައް ބޭނުން ކުރާށެވެ. *ސާދާ ކުރުމަށް:* ކުޑަ ކަޕެއްގައި އެއްކޮށް އެއް ޑަގަނޑެއް ޖަހާށެވެ.
+4. **ޕްރެސް ކުރި މަތަކުރުމުން ކާޑު.** ބުކޭއެއްގެ ގެއްލިތަކުގެ މެދުގައި އެއް ހަފުތާ މަތަކުރުން ޕްރެސް ކޮށް، ދެން ފޯލްޑް ކުރި ކާޑް ސްޓޮކް މަތީގައި ގުއާ ކުރާށެވެ. *ސާދާ ކުރުމަށް:* ތިބާ ގުއާ ޖަހާ، އެމީހާ މަތަކުރުން ފިއްތާށެވެ.
+5. **ބޮޑެތި މީހުންނަށް ކުލަ ޖަހާ ޞަފްޙާތައް.** ސާފު ބޯޑަރާއި ހަގީގީ މައުޟޫތަކެއް ހިމެނޭ ޞަފްޙާތައް ހޮވާށެވެ. އަޅުގަނޑުމެންގެ ޕްރިންޓް ކުރެވޭ [ކުލަ ޖަހާ ޞަފްޙާތައް](/games/coloring/) ސްކްރީނުގައިވެސް ކުލަ ޖެހޭނެއެވެ؛ ކުލައެއް ނަގައި، ދެން ތަސްވީރުގެ ބައެއް ޓެޕް ކުރާށެވެ. *ސާދާ ކުރުމަށް:* ބޮޑެތި ތަންތަން، މަދު ކުލަތައް، ބޯ މާކަރ.
+6. **ކްލޭ ނުވަތަ ނުރައްކާ ޑޯ.** އެއަރ ޑްރައި ކްލޭ ނުވަތަ ނުރައްކާ މޮޑެލިން ޑޯ އެއްކޮށް އެޅުމަށް، ފިއްތުމަށް އަދި ބައްޓަން ހަދައިގަތުމަށް ބޭނުން ކުރާށެވެ. ކްލޭ މަތީގައި ފަތްޕިލައެއް ފިއްތާލުމުން ސާދާ ނިޝާނެއް އެކުލެވޭނެއެވެ. *ސާދާ ކުރުމަށް:* ހަމަ މިރުސްކުރުމާއި އެއްކޮށް އެޅުމަކީވެސް ފުރިހަމަ މަސައްކަތެކެވެ. ކްލޭ އަނގައިގަންނަނީ ކަން ބަލާށެވެ.
+7. **ކާޑު ހެދުން.** Alzheimer's Association ހުށަހަޅަނީ މިކަން ހަގީގީ މަސައްކަތެއް ގޮތުގައި ހުށަހެޅުމަށެވެ: «އަޅުގަނޑުމެން ރައްޓެހިއަކަށް ދުޅަވާލުމުގެ ކާޑެއް ފޮނުވަން ޖެހޭ. އެހީތެރިވެދެއްވާނެތަ؟» ކުރިން ކަނޑާފައިވާ ކާޑް ސްޓޮކާއި މަތަކުރުން ނުވަތަ ސްޓޭމްޕް ސްޓިކަރ އެކަހެރި ރަނގަޅެވެ.
+8. **ސްކްރެޕްބުކް ހެދުން.** ކުރީގެ ފޮޓޯތަކުގެ ކޮޕީ، ޕޯސްޓްކާޑު ނުވަތަ ޓިކެޓް ސްޓަބް އެކުލެވިގެން އެލްބަމް ޞަފްޙާތަކުގައި ޖަހާށެވެ. ކުރަމުން ދާއިރު ކޮންމެ އެއްޗެއްގެ ވާހަކަ ދައްކާށެވެ. މާޒީއާ ބެހޭ ގޮތުން ނުރައްކާކޮށް ވާހަކަ ދެއްކުމަށް އަޅުގަނޑުމެންގެ [ހަނދާން އާކުރުމާ ބެހޭ އިރުޝާދު](/activities/reminiscence/) ބައްލަވާށެވެ.
+9. **ފެބްރިކް އަދި ޓެކްސްޗަރ ބޯޑު.** ކޯޑުރޯއި، ވެލްވެޓް، ބަރލެޕް އަދި ސިލްކް ފަދަ ޓުކުޑަތައް ހަރު ކާޑެއްގައި ގުއާ ކުރާށެވެ. ހެދުމަކީ މަސައްކަތެއް؛ ފަހުން އަތްލުމަކީ އެހެން މަސައްކަތެކެވެ. އިތުރު ޚިޔާލުތައް އަޅުގަނޑުމެންގެ [އިހުސާސްތަކާ ބެހޭ މަސައްކަތްތަކުގެ އިރުޝާދު](/activities/sensory/) ގައި ހުރެއެވެ.
+10. **ސާދާ ލަކުޑި ފިނިޝިން.** ލަކުޑި މަސައްކަތް ކުރަން ކަމަށް ރުހުންތެރިވި މީހަކަށް، ހަމަ ލަކުޑި ފިލާއެއް ސެންޑް ކުރުން ނުވަތަ ދޫނި ގެއެއްގެ ކިޓެއްގައި ކުލަ ޖެހުން އާންމު ކަމެއް ފަދައިން އިޙްސާސް ކުރެވިދާނެއެވެ. ތިފަ އާލާތްތައް ދުރުކޮށް، ބަލަމުން ދާށެވެ.
+11. **މިއުޒިކް އައިސް ކުލަ ޖެހުން.** ކަމަށް ރުހޭ ރެކޯޑެއް ޖައްސަވައި، މޫޑަށް އެކަށީގެންވާ ބައްޓަން ނުވަތަ ކުލަތައް ޖައްސާށެވެ. މިއީ ގިނަ މީހުން ކަމަށް ރުހޭ ދެ މަސައްކަތެއް ގުޅުވައިދޭ ގޮތެކެވެ. [މިއުޒިކް މަސައްކަތްތައް](/activities/music/) ބައްލަވާށެވެ.
 
-## How do I set up an art session?
+## އާޓް ސެޝަނެއް ތައްޔާރު ކުރަނީ ކިހިނެއް؟
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **ކުރިން ތައްޔާރުކޮށްލާށެވެ.** މީހާ ދައުވަތު ކުރުމުގެ ކުރިން ހުރިހާ އެއްޗެއް ކަނޑާ، ކަނޑާލައި ތައްޔާރު ކުރާށެވެ. ކަނޑާނެ ކަތުރު ހޯދަމުން މަޑުކުރަން ޖެހުމުން އެ ވަގުތު ގެއްލިދާނެއެވެ.
+2. **ކުޑަކޮށް ބަހައްޓާށެވެ.** ދެ ނުވަތަ ތިން ކުލަ، އެއް ބްރަޝް، އެއް ކަރުދާސް. އިޚްތިޔާރު މާ ގިނަ ކަމުން ހަލަބޮލި ވެދާނެއެވެ.
+3. **މޭޒު ރައްކާތެރި ކުރާށެވެ.** ޕްލާސްޓިކް ކަވަރެއް ނުވަތަ ކުރީގެ ޝީޓެއް އެޅުމުން ކުނިނުކުރާކަން ބޮޑު މައްސަލައެއް ނުވާނެއެވެ.
+4. **ކައިރިކައިރީގައި އިށީނދެލާށެވެ.** އެމީހުންނާ ކައިރީގައި ތިބާގެ އަމިއްލަ މަސައްކަތެއް ކުރާށެވެ. އެއީ ބަލަމުން ތިއްބުމެއް ނޫން، އެއްކޮށް ކުރުމެއް ފަދައިން އިޙްސާސް ކުރެވޭނެއެވެ.
+5. **ފަށާން އެހީތެރިވާށެވެ.** Alzheimer's Association ބުނާ ގޮތުގައި ބައެއް ފަހަރަށް އެ މީހާއާ އެއްކޮށް ބްރަޝް ހަރަކާތް ފެށަން ޖެހިދާނެއެވެ. ފެށުމުން ފަހު، ގިނަ މީހުން ކުރިއަށް ގެންދާނެއެވެ.
+6. **މަސައްކަތް ކުރަމުން ވާހަކަ ދައްކާށެވެ.** ކުލަތަކާއި ޓެކްސްޗަރާ ބެހޭ ގޮތުން ވާހަކަ ދައްކާ، ނުވަތަ އާޓުން ވާހަކަތަކަށް މަގު ހުޅުވާލާށެވެ. «މިއީ ކޮބައިތޯ؟» ފަދަ އިމްތިހާނު ސުވާލުތައް ނުކުރާށެވެ.
+7. **ފުދޭ ވަގުތު ދީށެވެ.** މަސައްކަތެއް އެއް ވަގުތެއްގައި ނިންމަން ކަނޑައެޅިފައެއް ނުވެއެވެ.
 
-## How do I adapt art as dementia changes?
+## ޑިމެންޝިއާ ބަދަލުވާއިރު އާޓް ބަދަލު ކުރަނީ ކިހިނެއް؟
 
-| Stage | What tends to work | What to adjust |
+| ފިޔަވަހި | ގިނައިން އެކަށީގެންވާ ކަންތައް | ބަދަލު ކުރަން ޖެހޭ ކަންތައް |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| ފުރަތަމަ ފިޔަވަހި | ކްލާސް، ތަފްޞީލީ ކުލަ ޖެހުން، ސްކްރެޕްބުކް، ކާޑު ހެދުން، ފޮޓޯއެއް ބަލައިގެން ކުލަ ޖެހުން | މަސައްކަތް ހޮވުމުގެ އިޚްތިޔާރު ދީށެވެ؛ އެއްކޮށް ކުރެވޭ ކަމެއް ކުރާށެވެ |
+| މެދު ފިޔަވަހި | ކުރިން ކަނޑާފައިވާ ކޮލާޖް، ވޯޓަރކަލަރ ވޮޝް، މަތަކުރުމެއް އެޅުން، ބޮޑެތި ތަންތަން ހުރި ކުލަ ޖެހުން | އެއް ފަހަރަކު އެއް ފިޔަވަހި؛ ކަނޑުމާއި ގުއާ ކުރުން ތިބާ ކުރާށެވެ |
+| ފަހު ފިޔަވަހި | ފުޅާ ބްރަޝް ސްޓްރޯކް، ކްލޭ މިރުސްކުރުން، ފެބްރިކް އަތްލުން، ތިބާ ކުލަ ޖަހަނީ ބަލުން | އިހުސާސްތަކަށް ސަމާލުކަން ދީށެވެ؛ އެދެއްވިއްޔާ ނުރައްކާކޮށް އަތް ދައްކާށެވެ |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS ހުށަހަޅަނީ ފަހު ފިޔަވަހީގައި މަސައްކަތްތައް ގިނަ ފަހަރަށް ސާދާ ކޮށް، އިހުސާސްތަކަށް ސަމާލުކަން ދޭ ގޮތަށް ބަދަލު ކުރަން ކަމަށެވެ. އެހެން މީހަކު ކުލަ ޖަހަނީ ބަލަމުން، ކުލަތަކާ ބެހޭ ގޮތުން ވާހަކަ ދެއްކުމަކީވެސް ހަގީގަތުގައި ބައިވެރިވުމުގެ ގޮތެކެވެ. ފިޔަވަހި އަކަށް ފަހު ފިޔަވަހި އެކަށީގެންވާ އިތުރު ޚިޔާލުތަކަށް [ކޮންމެ ފިޔަވަހިއަކަށް މަސައްކަތްތައް](/activities/ideas/) ބައްލަވާށެވެ.
 
-## Safety with art supplies
+## އާޓް ތަކެތި ބޭނުން ކުރުމުގައި ރައްކާތެރިކަން
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- ޓޮކްސިން ނެތް ކުލަ، މާކަރ އަދި ގުއާ ސްޓިކް ހޮވާށެވެ.
+- ކަތުރު، ކްރާފްޓް ކިނފޭ އަދި ހޫނު ގުއާ ގަން ނުވާ ތަނެއްގައި ބަހައްޓާށެވެ. ކަނޑަން ޖެހޭ ކަންތައް ކުރިން ތިބާ ކަނޑާލާށެވެ.
+- ކްލޭ، ކުލަ ނުވަތަ ކުޑަ ތަކެތި އަނގައި ނުޖެހޭތޯ ބަލާށެވެ.
+- ފެނާއި ވޭސް އަށް ސްތިރު، ބޯ ކޮންޓެއިނަރ ބޭނުން ކުރާށެވެ.
 
-## When should we stop?
+## ހުއްޓަން ޖެހޭނީ ކޮން އިރަކުން؟
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+ސަމާލުކަން ދޭ މިންވަރު ދަށްވެއްޖެ ނަމަ ނުވަތަ ފިތުން ފެށިއްޖެ ނަމަ ހުއްޓާލާށެވެ. Alzheimer's Association ހުށަހަޅަނީ ސަމާލުކަން ދޭ މުއްދަތު ކުރުވެއްޖެ ނަމަ ނުވަތަ ފިތުން އިތުރުވެއްޖެ ނަމަ މަސައްކަތް ހުއްޓާލުމަށް ނުވަތަ ބަދަލު ކުރުމަށެވެ. މަސައްކަތް ރައްކާތެރި ތަނެއްގައި ބަހައްޓައި، އަރާމު ކަމެއް ހުށަހަޅާށެވެ. މާދަމާ އަނބުރާ އެކަމަށް އައިސް ކުރެވޭނެ، ނުވަތަ ދުވަހަކުވެސް ނުކުރެވިދާނެއެވެ. ދެގޮތްމެ ރަނގަޅެވެ.
 
-## Display the work, if the person wants
+## އެ މީހާ ބޭނުންވެއްޖެ ނަމަ މަސައްކަތް ދައްކާލުން
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+ތަސްވީރެއް ފްރިޖުގައި ހަރުކުރުން ނުވަތަ ކޮލާޖެއް ފްރޭމް ކުރުން އިޙްތިރާމް ދައްކާލުމުގެ ހަމަހިމަ ގޮތެއް ވެދާނެއެވެ. ކުރިން އަހާށެވެ. ބައެއް މީހުންނަށް އެމީހުންގެ މަސައްކަތް ފާރުގައި ފެނުން ވަރަށް ކަމަށް ރުހޭނެ؛ އަނެއް ބަޔަކަށް އެހެން ގޮތެއް ބޭނުން ވެދާނެއެވެ.
 
-## Pair art with our games
+## އަޅުގަނޑުމެންގެ ގޭމްތަކާ އެއްކޮށް އާޓް ކުރުން
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+ކުލަ ތަކެތި ތައްޔާރު ކުރުން މާ ބުރަ ކަމެއް ފެންނަ ދުވަސްވަރު، [Coloring](/games/coloring/) ޓެބްލެޓެއްގައި ކުނިނުކުރާ މަސައްކަތް ކުރެވޭނެއެވެ. [Picture Puzzle](/games/picture-puzzle/) ގައި ޓުކުޑަތައް ބަދަލު ކުރަމުން ދާއިރު މުޅި ތަސްވީރު އެއްގޮތަށް ފެންނަން ހުރެއެވެ. [Conversation Cards](/games/conversation-cards/) ގައި ތަސްވީރެއް ބަލައިގެން ވާހަކައަކަށް ގެންދެވޭ ހުޅުވާލެވިފައިވާ ސުވާލުތައް ހުރެއެވެ. މި ހުރިހާ އެއްޗެއްގައި ވަގުތު ކަނޑައެޅިފައިވާ ގަޑިއެއް ނުވަތަ ސްކޯއެއް ނެތެވެ. އަޅުގަނޑުމެންގެ [ޕްރިންޓް ކުރެވޭ މަސައްކަތްތައް](/activities/printable/) ކަލެކްޝަނުންވެސް ޞަފްޙާތައް ޕްރިންޓް ކުރެވޭނެއެވެ.

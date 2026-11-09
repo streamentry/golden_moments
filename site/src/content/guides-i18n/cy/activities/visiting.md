@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Ymweld â Rhywun â Dementia mewn Gofal Cof neu’r Ysbyty"
+seoTitle: "Ymweld â Rhywun â Dementia: Beth i’w Wneud a’i Ddod"
+description: "Beth i’w wneud wrth ymweld â rhywun â dementia mewn gofal cof, cartref nyrsio neu’r ysbyty: beth i’w ddod, gweithgareddau syml, ymweliadau byr a gadael yn dawel."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Pan fyddwch chi’n ymweld â rhywun â dementia mewn gofal cof neu’r ysbyty,
+  cadwch bethau’n syml: dywedwch eich enw wrth gyrraedd, dewch â rhywbeth i’w
+  rannu fel lluniau, cerddoriaeth neu fyrbryd hoff, a gwnewch un peth hawdd gyda’ch
+  gilydd. Yn aml, mae ymweliadau byrrach, rheolaidd yn mynd yn well nag ymweliadau
+  hir, prin. Cynlluniwch ffarwel tawel, cyson fel bod gadael yn haws i’r ddau ohonoch.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Cyfarchwch y person wrth ei enw a dywedwch pwy ydych chi, fel nad oes angen iddo feddwl yn galed: ‘Helo Mam, Susan ydw i, dy ferch.’"
+  - "Dewch ag un neu ddau beth i’w rannu, fel albwm lluniau, hoff gerddoriaeth, blanced feddal neu fyrbryd y mae’r staff wedi’i gymeradwyo."
+  - "Yn aml, mae ymweliadau byr, rheolaidd yn mynd yn well nag ymweliadau hir, anaml. Mae eich presenoldeb yn bwysicach na’r hyn rydych chi’n ei ddweud."
+  - "Yn yr ysbyty, rhowch daflen un dudalen am y person i’r staff a dywedwch wrth y meddyg ar unwaith am unrhyw newid sydyn."
+  - "Cynlluniwch eich ymadawiad: dywedwch faint o amser gallwch chi aros, defnyddiwch yr un ffarwel bob tro, a gadewch heb oedi."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Beth ddylwn i ddod ag ef wrth ymweld â rhywun â dementia?"
+    a: "Dewch â rhywbeth i’w rannu yn hytrach na rhywbeth i siarad amdano. Mae albwm lluniau bach, rhestr ganeuon o’u hoff ganeuon, blanced feddal, eli dwylo, cylchgrawn am hen ddiddordeb, neu fyrbryd y mae’r staff wedi’i gymeradwyo i gyd yn gweithio’n dda. Mewn cartref gofal, gall lluniau teulu a phethau cyfarwydd hefyd helpu’r ystafell i deimlo’n fwy fel cartref."
+  - q: "Am faint ddylwn i aros wrth ymweld â rhywun â dementia?"
+    a: "Does dim hyd cywir. Mae llawer o deuluoedd yn gweld bod ymweliadau byrrach, amlach yn gweithio’n well nag ymweliadau hir, prin, oherwydd gall y person flino’n gyflym ac efallai na fydd yn cofio faint o amser y gwnaethoch chi aros. Gwyliwch am arwyddion blinder a gadewch tra bod yr ymweliad yn dal i deimlo’n dda."
+  - q: "Beth ddywedaf i pan fyddan nhw’n gofyn am fynd adref?"
+    a: "Ymatebwch i’r teimlad, nid y geiriau. Yn aml, mae ‘Rydw i eisiau mynd adref’ yn golygu ‘Dydw i ddim yn teimlo’n gyfforddus nac yn ddiogel.’ Rhowch gynnig ar ddweud, ‘Dweda wrtha i am dy gartref,’ edrychwch ar luniau gyda’ch gilydd, neu cynigiwch dro byr neu fyrbryd. Fel arfer, mae dadlau neu esbonio pam na allant adael yn ychwanegu at y gofid."
+  - q: "Beth os nad ydyn nhw’n fy adnabod i?"
+    a: "Gall hynny frifo, ond ceisiwch beidio â’u cywiro nac gofyn ‘Onid wyt ti’n gwybod pwy ydw i?’ Cyflwynwch eich hun yn gynnes ac yn syml, a mwynhewch yr amser gyda’ch gilydd. Mae llawer o bobl yn dal i fwynhau cwmni ac yn teimlo cynhesrwydd ymweliad hyd yn oed pan na allant gofio pwy ydych chi."
+  - q: "Sut gallaf i helpu yn ystod arhosiad yn yr ysbyty?"
+    a: "Arhoswch gyda’r person pan allwch chi, helpwch nhw i fwyta ac yfed, a dewch â phethau cyfarwydd fel lluniau. Rhowch daflen i’r staff sy’n rhestru eu trefn ddyddiol, yr enw mae’n well ganddynt, pethau maen nhw’n eu hoffi, pethau nad ydyn nhw’n eu hoffi ac arwyddion poen. Dywedwch wrth y meddyg ar unwaith os yw’r person yn ymddangos yn waeth neu’n wahanol yn sydyn, oherwydd gall dryswch sydyn fod yn arwydd o broblem feddygol."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Gall ymweld â rhywun annwyl i chi mewn gofal cof, cartref nyrsio neu’r ysbyty godi llawer o deimladau. Efallai eich bod chi’n meddwl tybed beth i’w ddweud, beth i’w ddod, neu a yw’r ymweliad yn bwysig o gwbl os na fyddan nhw’n ei gofio. Mae’n bwysig. Mae’r National Institute on Aging yn nodi bod pobl sy’n byw gyda chlefyd Alzheimer [yn aml yn mwynhau cwmni](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) hyd yn oed pan nad ydyn nhw’n cofio pwy yw’r ymwelydd. Mae’r dudalen hon yn rhoi camau ymarferol ar gyfer cyn, yn ystod ac ar ôl ymweliad, ynghyd ag awgrymiadau penodol ar gyfer aros yn yr ysbyty.
 
-## How do I get ready for a visit?
+## Sut mae paratoi ar gyfer ymweliad?
 
-A little planning makes the visit easier for both of you.
+Mae ychydig o gynllunio yn gwneud yr ymweliad yn haws i’r ddau ohonoch.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Dewiswch amser da.** Mae Dementia Australia yn awgrymu ymweld pan fydd y person fel arfer ar ei fwyaf effro, sydd i lawer o bobl yn y bore neu tua chanol dydd. Mae’r Family Caregiver Alliance yn awgrymu dysgu amserlen y cartref ac ymweld yn ystod [amser rhydd yn hytrach nag amser gweithgaredd](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Holwch y staff.** Gofynnwch sut mae’r person wedi bod heddiw, a gwiriwch unrhyw reolau am fwyd, anifeiliaid anwes neu deithiau allan.
+- **Paciwch fag ymweld bach.** Mae un neu ddau beth i’w rannu yn ddigon (gweler y rhestr isod).
+- **Cynlluniwch ychydig o bynciau.** Efallai na fydd gan y person newyddion i’w rhannu, felly dewch â’ch rhai chi: newyddion am y teulu, y tywydd, gêm bêl, stori ddoniol.
+- **Gosodwch eich disgwyliadau eich hun.** Bydd rhai ymweliadau’n gynnes ac yn llawn sgwrs. Bydd eraill yn dawel neu’n anodd. Mae’r ddau’n normal.
 
-## What should I bring?
+## Beth ddylwn i ddod ag ef?
 
-Bring things to share, not things that test. Good choices include:
+Dewch â phethau i’w rhannu, nid pethau sy’n profi. Mae dewisiadau da yn cynnwys:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Albwm lluniau bach** gyda lluniau mawr, clir. Labelwch y tu ôl iddynt ar gyfer y staff.
+- **Rhestr ganeuon** o hoff ganeuon ar ffôn, gyda chlustffonau syml neu siaradwr bach.
+- **Rhywbeth meddal i’w ddal,** fel blanced, sgarff neu siwmper gyfarwydd.
+- **Eli dwylo** ar gyfer tylino dwylo ysgafn, os yw’r person yn mwynhau cyffyrddiad.
+- **Cylchgrawn neu lyfr lluniau** am hen ddiddordeb, fel garddio, ceir, adar neu goginio.
+- **Byrbryd hoff**, os yw’r staff yn dweud ei fod yn ddiogel.
+- **Pethau cyfarwydd ar gyfer yr ystafell.** Mae’r Family Caregiver Alliance yn awgrymu blodau, planhigion, lluniau teulu a gwaith celf, neu bosteri mawr o luniau teulu o’r gorffennol.
+- **Tabled**, ar gyfer edrych ar luniau teulu neu chwarae gêm ysgafn gyda’ch gilydd.
 
-## What can we do together during a visit?
+## Beth allwn ni ei wneud gyda’n gilydd yn ystod ymweliad?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Mae gwneud rhywbeth gyda’ch gilydd yn tynnu’r pwysau oddi ar sgwrsio. Mae Dementia Australia yn awgrymu edrych ar luniau, crefft hawdd, plannu eginblanhigion, cerddoriaeth, rhannu byrbryd, neu dro byr o amgylch y gerddi. Dyma ychydig mwy o syniadau:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Edrychwch ar luniau.** Tynnwch sylw at yr hyn rydych chi’n ei weld: „Edrycha ar yr het yna.” „Mae’r traeth hwn yn edrych yn hyfryd.” Gadewch i’r person arwain. Peidiwch â gofyn „Pwy yw hwn?”
+2. **Chwaraewch gerddoriaeth a chanwch.** Gall caneuon cyfarwydd godi’r hwyl a dod â moment i’w rhannu, hyd yn oed pan fydd siarad yn anodd.
+3. **Ewch am dro byr.** Mae’r Family Caregiver Alliance yn awgrymu cerdded o amgylch y cartref, yn enwedig yn yr ardd os oes un. Mae tro mewn cadair olwyn yn cyfrif hefyd.
+4. **Rhowch dyliniad dwylo.** Gall ychydig o eli a strôc araf ar y dwylo fod yn dawelu.
+5. **Helpwch gyda thwtio.** Mae Dementia Australia yn sôn am frwsio gwallt, paentio ewinedd neu helpu’r person i wisgo hoff ddillad, os yw’n mwynhau hynny.
+6. **Chwaraewch gêm syml.** Mae’r Family Caregiver Alliance yn awgrymu cardiau, domino, neu beth bynnag yr oedd y person yn arfer ei chwarae. Ar dabled, gellir chwarae [Picture Pairs](/games/picture-pairs/) gyda’r lluniau’n weladwy a dim cloc. Mae [Photo Pairs](/games/photo-pairs/) yn troi lluniau rydych chi’n eu dewis yn gêm baru, ac mae’r lluniau’n aros yn eich porwr.
+7. **Gwyliwch rywbeth gyda’ch gilydd.** Mae’r Family Caregiver Alliance yn awgrymu comedïau a hen ffilmiau. Hyd yn oed os na all y person ddilyn y stori, gallwch chi eistedd yn agos a rhannu’r amser.
+8. **Darllenwch yn uchel.** Cerdd fer, darn hoff, neu lythyr gan aelod o’r teulu.
+9. **Eisteddwch gyda’ch gilydd yn dawel.** Mae dal dwylo neu eistedd yn ddistaw yn ymweliad go iawn. Mae’r Alzheimer’s Association yn nodi ei bod hi’n iawn peidio â gwybod beth i’w ddweud, a’ch bod chi’n bwysig iawn dim ond drwy fod yno.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+Gall [Conversation Cards](/games/conversation-cards/) helpu pan fyddwch chi’n rhedeg allan o bethau i’w dweud. Mae gan bob cerdyn lun a chwestiwn agored.
 
-## How should I talk during the visit?
+## Sut ddylwn i siarad yn ystod yr ymweliad?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Cyflwynwch eich hun bob tro.** „Helo Dad, Mark ydw i, dy fab.” Mae’r NIA yn awgrymu bod ymwelwyr yn cyflwyno eu hunain yn fyr i ddechrau sgwrs.
+- **Ewch ato o’r blaen** ac eisteddwch ar lefel ei lygaid.
+- **Peidiwch â chywiro na dadlau.** Mae’r NIA yn cynghori ymwelwyr i beidio â chywiro’r person os bydd yn gwneud camgymeriad neu’n anghofio rhywbeth.
+- **Byddwch yn amyneddgar** pan fydd geiriau’n anodd dod o hyd iddynt. Rhowch ddigon o amser.
+- **Ymatebwch i deimladau.** Os yw’r person yn ymddangos yn drist neu’n bryderus, cydnabyddwch hynny cyn newid y pwnc.
+- **Osgowch gwestiynau fel cwis** fel „Wyt ti’n fy nghofio i?” neu „Beth gest ti i ginio?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Gweler ein [hawgrymiadau cyfathrebu](/caregiving/communication-tips/) am ragor.
 
-## What do I do when they say "I want to go home"?
+## Beth ddylen i ei wneud pan fyddan nhw’n dweud „Rydw i eisiau mynd adref”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Ymatebwch i’r teimlad y tu ôl i’r geiriau (mae ein canllaw ar [pan fydd rhywun yn dal i ofyn am fynd adref](/caregiving/asking-to-go-home/) yn mynd ymhellach). Mae’r Family Caregiver Alliance yn esbonio bod „Rydw i eisiau mynd adref” fel arfer yn ffordd o ddweud „Dydw i ddim yn teimlo’n gyfforddus,” ac yn awgrymu ymatebion fel „Dweda wrtha i am dy gartref” neu „Beth yw dy hoff beth gartref?” Mae Dementia Australia yn ychwanegu y gall „cartref” olygu amser neu le lle roedd y person yn teimlo’n ddiogel, fel plentyndod.
 
-Try:
+Rhowch gynnig ar:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- gydnabod y teimlad: „Mae’n swnio fel eich bod chi’n gweld eisiau cartref.”
+- cynnig cysur drwy gyffyrddiad, os yw’n groesawgar
+- edrych ar luniau neu siarad am gartref y teulu
+- cynnig tro, diod neu fyrbryd
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Osgowch ddadlau neu esbonio pam na allant adael. Anaml y bydd hynny’n helpu ac yn aml mae’n ychwanegu at y gofid.
 
-## How long should a visit be?
+## Am faint ddylai ymweliad bara?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Yn aml, mae ymweliadau byrrach, amlach yn gweithio’n well. Mae’r Family Caregiver Alliance yn nodi nad yw’r person fel arfer yn cofio a wnaethoch chi aros am bum munud neu bum awr, ac yn awgrymu y gall tri ymweliad byr yr wythnos fod yn well nag un ymweliad hir. Mae Dementia Australia yn dweud nad oes nifer cywir o ymweliadau na hyd cywir.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Yn ystod yr wythnosau cyntaf ar ôl symud i ofal cof, mae’r Family Caregiver Alliance yn awgrymu ymweld yn aml, ac yna setlo’n raddol i batrwm rheolaidd. Gofynnwch i’r staff beth maen nhw’n ei weld.
 
-## How do I leave without upsetting them?
+## Sut mae gadael heb eu cynhyrfu?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Gall gadael fod y rhan anoddaf. Mae Dementia Australia yn awgrymu:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Dywedwch faint o amser gallwch chi aros pan fyddwch chi’n cyrraedd.** „Gallaf i aros am awr, ac yna rydw i’n mynd i siopa.”
+- **Defnyddiwch weithgaredd fel diwedd naturiol.** „Pan fyddwn ni’n gorffen y gân hon, byddaf i’n mynd.”
+- **Amserwch hynny gyda phryd bwyd neu weithgaredd,** neu gofynnwch i’r staff helpu’r person i setlo i wneud rhywbeth arall.
+- **Cadwch y ffarwel yn fyr ac yn debyg bob tro.** Gall oedi, ymddiheuro neu aros „dim ond ychydig yn hirach” wneud ffarwelion yn y dyfodol yn anoddach.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Ar ôl i chi adael, mae’n normal teimlo’n drist. Gadewch i chi’ch hun orffwys. Os aeth y person i ben ei dennyn, fel arfer gall y staff eu helpu i setlo’n fuan wedyn.
 
-## Visiting someone with dementia in the hospital
+## Ymweld â rhywun â dementia yn yr ysbyty
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Mae ysbyty’n swnllyd, yn anghyfarwydd ac yn llawn dieithriaid, a gall hynny fod yn anodd iawn i rywun sy’n byw gyda dementia. Mae canllaw’r NIA ar [ddod â pherson â chlefyd Alzheimer i’r ysbyty](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) yn argymell:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Cael rhywun i aros gyda’r person** cymaint â phosibl: aelod o’r teulu, ffrind y gellir ymddiried ynddo neu ofalwr cyflogedig.
+- **Rhoi taflen wybodaeth bersonol i’r staff** gyda threfn ddyddiol y person, yr enw mae’n well ganddo, pethau mae’n eu hoffi a phethau nad yw’n eu hoffi, pethau a all achosi gofid, ac arwyddion poen nad ydynt yn eiriau. Rhowch gopïau yn yr ystafell ac wrth ddesg y nyrsys.
+- **Helpu gyda bwyta ac yfed.** Gall oedolion hŷn gael eu tangynhyrchu yn yr ysbyty. Agorwch gynwysyddion, helpwch gyda phrydau bwyd, bwytewch gyda’ch gilydd, a chynigiwch ddiodydd.
+- **Dod â phethau cysurlon** fel lluniau neu eitemau ysbrydol.
+- **Gostwng y sŵn.** Diffoddwch y teledu a gostyngwch sain y ffôn a’r system uchelseinydd.
+- **Rhoi cynnig ar arferion tawelu,** fel cerddoriaeth esmwyth, darllen, gweddïo, canu neu edrych drwy hen luniau.
+- **Annog symud o gwmpas** cymaint ag sy’n ddiogel, gyda chaniatâd y staff.
+- **Dywedwch wrth y meddyg ar unwaith os yw’r person yn ymddangos yn waeth neu’n wahanol yn sydyn.** Mae’r NIA yn esbonio y gall dryswch difrifol sydyn, a elwir yn ddeleriwm, gael ei achosi gan broblemau fel haint, twymyn, diffyg hylif neu sgil-effeithiau meddyginiaeth, ac mae angen sylw meddygol.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Gall ymweliad byr, tawel gydag wyneb cyfarwydd a hoff gân fod y rhan fwyaf cysurlon o ddiwrnod yn yr ysbyty.
 
-## Bringing children on a visit
+## Dod â phlant ar ymweliad
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Gall plant ddod â llawer o gynhesrwydd. Paratowch nhw ymlaen llaw gyda geiriau syml, gonest, cadwch yr ymweliad yn fyr, a rhowch dasg iddynt, fel dangos llun maen nhw wedi’i dynnu neu roi llun i’r person. Mae’r NIA yn awgrymu y gall plant a phobl sy’n byw gyda chlefyd Alzheimer fwynhau gweithgareddau syml gyda’ch gilydd, fel edrych drwy albwm lluniau neu wrando ar gerddoriaeth. Mae Dementia Australia yn awgrymu pacio bag bach o fyrbrydau neu bethau tawel i gadw plant ifanc yn brysur.
 
-## Take care of yourself too
+## Gofalwch amdanoch chi’ch hun hefyd
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Gall ymweld fod yn flinedig ac yn emosiynol, yn enwedig os yw’r person wedi newid llawer. Mae’n iawn ymweld yn llai aml os oes angen, dod â ffrind am gefnogaeth, neu adael yn gynnar ar ddiwrnod anodd. Am syniadau ar ofalu amdanoch chi’ch hun, gweler [hunangofal i ofalwyr](/caregiving/caregiver-self-care/). Os ydych chi’n byw’n bell i ffwrdd, gweler ein canllaw ar [alwadau ffôn a galwadau fideo](/activities/phone-and-video-calls/).

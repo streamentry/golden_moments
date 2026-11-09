@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Pan fydd rhywun â dementia yn gwrthod gweithgaredd"
+seoTitle: "Pan fydd rhywun â dementia yn gwrthod gweithgaredd"
+description: "Pam gall rhywun sy'n byw gyda dementia wrthod gweithgaredd neu deimlo'n flin, beth i'w roi cynnig arno yn lle, beth i'w osgoi, a phryd mae angen meddyg."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Pan fydd rhywun â dementia yn dweud na, derbyniwch hynny'n dawel a rhowch
+  gynnig arall arni'n hwyrach neu cynigiwch rywbeth gwahanol. Yn aml, mae
+  rheswm dros wrthod: mae'r dasg yn teimlo'n rhy anodd neu'n blentynnaidd, mae'r
+  person yn flinedig, mewn poen, yn llwglyd, neu wedi'i lethu gan sŵn. Peidiwch
+  â dadlau nac mynnu. Symleiddiwch y peth, cynigiwch ddau ddewis, neu gofynnwch
+  am eu help. Mae newid sydyn neu gyflym mewn ymddygiad, yn enwedig ar ôl haint
+  neu feddyginiaeth newydd, angen sylw meddyg yn brydlon.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Mae \"na\" yn ateb i'w barchu, nid yn broblem i'w goresgyn."
+  - "Fel arfer mae rheswm dros wrthod: rhy anodd, rhy blentynnaidd, blinder, salwch, anghysur, neu ormod o bethau'n digwydd."
+  - "Camwch yn ôl, arhoswch, a rhowch gynnig arall arni'n hwyrach, ar adeg wahanol, neu gyda fersiwn symlach."
+  - "Mae gofyn am eu help yn gweithio'n well na gofyn iddynt berfformio."
+  - "Peidiwch byth â dadlau, mynnu, holi na chywiro. Edrychwch arnoch chi'ch hun i weld a ydych chi'n brysio neu'n gwasgu."
+  - "Dylai ymddygiad sy'n newid yn sydyn neu'n gyflym, yn enwedig gyda haint neu feddyginiaethau newydd, fynd at feddyg ar unwaith."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Ydy hi'n iawn gadael iddynt hepgor gweithgareddau'n llwyr?"
+    a: "Ydy, ar unrhyw ddiwrnod penodol. Gall eistedd gyda'ch gilydd, gwrando ar gerddoriaeth neu wylio'r byd yn mynd heibio fod yn ddigon. Os bydd rhywun yn rhoi'r gorau i fwynhau popeth dros wythnosau, soniwch amdano wrth eu meddyg, gan y gall hwyliau isel, poen neu broblemau iechyd eraill fod yn rhan o'r darlun."
+  - q: "Pam maen nhw'n gwrthod pethau roedden nhw'n arfer eu caru?"
+    a: "Gall hen hobi ddod yn rhwystredig pan fydd bellach yn gofyn am sgiliau y mae dementia wedi'u gwneud yn anos, ac efallai y bydd y person yn teimlo cywilydd. Rhowch gynnig ar ran symlach o'r un gweithgaredd, fel didoli botymau yn lle gwnïo, neu edrych ar luniau gardd yn lle plannu."
+  - q: "Ddylwn i geisio eu darbwyllo?"
+    a: "Na. Mae gwthio rhywun i wneud rhywbeth y mae dementia wedi'i wneud yn anodd yn sbardun hysbys ar gyfer aflonyddwch. Derbyniwch y \"na\", newidiwch y pwnc, a chynigiwch eto'n hwyrach neu mewn ffordd wahanol."
+  - q: "Pryd mae newid mewn ymddygiad yn argyfwng?"
+    a: "Ffoniwch 999 os yw rhywun mewn perygl neu os oes arwyddion argyfwng meddygol. Os bydd dryswch sydyn neu ymddygiad sy'n newid yn gyflym dros oriau neu ddyddiau, yn enwedig gyda thwymyn, haint neu feddyginiaeth newydd, cysylltwch â'u meddyg ar unwaith."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Rydych chi'n paratoi popeth, yn cynnig gêm neu dro, ac yn clywed "Na". Neu mae'r gweithgaredd yn dechrau'n dda ac yn gorffen gyda thabled yn cael ei gwthio i ffwrdd a gair miniog. Mae'n siomedig, ac mae'n gyffredin iawn. Fel arfer, mae gwrthod a theimlo'n rhwystredig yn neges, nid yn ystyfnigrwydd. Yn aml, mae ceisio deall y neges yn dangos beth i'w roi cynnig arno nesaf.
 
-## Why does someone with dementia refuse activities?
+## Pam mae rhywun â dementia yn gwrthod gweithgareddau?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Fel arfer mae rheswm, hyd yn oed os na all y person ei roi mewn geiriau. Mae [Cymdeithas Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) yn nodi y gall ymwrthedd olygu na all y person wneud y dasg neu ei fod yn ofni rhoi cynnig arni. Mae achosion cyffredin yn cynnwys:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Mae'n teimlo'n rhy anodd.** Mae'r gweithgaredd bellach yn gofyn am sgiliau y mae dementia wedi'u gwneud yn anodd, ac mae methu o flaen rhywun yn achosi cywilydd.
+- **Mae'n teimlo'n blentynnaidd.** Mae oedolion yn sylwi ar luniau cartŵnaidd, lleisiau canuog a gweithgareddau sy'n edrych fel petaen nhw wedi'u gwneud ar gyfer plant.
+- **Blinder.** Mae gan lawer o bobl lai o egni yn hwyrach yn y dydd. Gweler [gweithgareddau tawel yn hwyr yn y prynhawn](/caregiving/late-day-restlessness/).
+- **Anghysur corfforol.** Mae'r [Sefydliad Cenedlaethol ar Heneiddio (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) yn rhestru poen, diffyg cwsg, trafferth gweld neu glywed, rhwymedd, newyn, syched a sgil-effeithiau meddyginiaethau newydd fel achosion posibl o drallod.
+- **Gormod yn digwydd.** Gall teledu uchel, sawl sgwrs neu ystafell orlawn fod yn llethol.
+- **Teimlo dan bwysau.** Mae'r NIA yn enwi cael eich gwthio i wneud rhywbeth y mae clefyd Alzheimer wedi'i wneud yn anodd iawn, neu i gofio digwyddiadau neu bobl, fel achos aflonyddwch.
+- **Hwyliau isel.** Gall colli diddordeb mewn pethau fod yn arwydd o iselder, ac mae'n werth sôn amdano wrth feddyg.
+- **Nid ydyn nhw eisiau gwneud hynny, a dyna ddiwedd arni.** Mae gan oedolion yr hawl i ddweud na.
 
-## What should I try when they say no?
+## Beth ddylwn i ei roi cynnig arno pan fyddan nhw'n dweud na?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Derbyniwch y "na" yn dawel, yna newidiwch rywbeth: yr amser, y gweithgaredd, pa mor anodd ydyw, neu'r ffordd rydych chi'n gofyn.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Gadewch iddo fynd am nawr.** "Mae hynny'n iawn. Efallai'n hwyrach." Yna ewch ymlaen at rywbeth arall heb ochneidio.
+2. **Rhowch gynnig arall arni'n hwyrach.** Mae Cymdeithas Alzheimer yn awgrymu rhoi cynnig arall arni'n hwyrach, neu ar adeg wahanol o'r dydd.
+3. **Gwnewch y peth yn llai.** Un pâr yn lle gêm gyfan. Un dywel yn lle'r fasged dillad. Llai o luniau, llai o ddewisiadau, a'r lluniau'n aros i'w gweld.
+4. **Cynigiwch ddau ddewis.** "Hoffech chi edrych ar y lluniau adar neu wrando ar ychydig o gerddoriaeth?" Mae dewis yn rhoi ymdeimlad o reolaeth yn ôl.
+5. **Gofynnwch am help yn lle perfformiad.** "Allech chi fy helpu i ddidoli'r rhain?" neu "Allwch chi ddweud wrthyf pa liw sy'n edrych orau?" Mae teimlo'n angenrheidiol yn wahanol iawn i deimlo eich bod yn cael eich profi.
+6. **Dechreuwch y gweithgaredd eich hun.** Dechreuwch y gweithgaredd wrth eu hochr heb ofyn. Mae llawer o bobl yn ymuno pan fydd rhywbeth eisoes yn digwydd, ac os nad ydyn nhw'n gwneud hynny, rydych chi wedi treulio amser gyda'ch gilydd beth bynnag.
+7. **Newidiwch at rywbeth corfforol neu dawel.** Tro byr, cerddoriaeth, byrbryd, plygu dillad, neu saib [anadlu tawel](/games/calm-breathing/) gyda'ch gilydd. Mae'r NIA yn awgrymu ailgyfeirio sylw at gerddoriaeth, llyfr neu dro.
+8. **Gadewch iddynt ei wneud yn eu ffordd eu hunain.** Os ydyn nhw eisiau chwarae'n wahanol i'r rheolau, ewch gyda hynny. Mae Cymdeithas Alzheimer yn cynghori bod yn hyblyg.
 
-## What should I say when they get frustrated?
+## Beth ddylwn i ei ddweud pan fyddan nhw'n teimlo'n rhwystredig?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Arafwch, gostyngwch eich llais a rhowch gysur. Mae [canllawiau Cymdeithas Alzheimer ar aflonyddwch](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) yn awgrymu camu'n ôl a gofyn am ganiatâd, defnyddio datganiadau tawel a chadarnhaol, a chynnig dewis dan arweiniad rhwng dau opsiwn. Ymadroddion yn yr ysbryd hwnnw:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Mae'n ddrwg gen i, mae hwn yn annifyr. Gadewch i ni stopio."
+- "Rydych chi'n gwneud yn iawn. Rydw i yma wrth eich ochr."
+- "Oes gennych chi amser i fy helpu gyda rhywbeth arall?"
+- "A gawn ni baned o de yn lle?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Yna gorffennwch y gweithgaredd heb wneud peth mawr ohono. Mae ein [hawgrymiadau cyfathrebu](/caregiving/communication-tips/) yn cynnwys mwy am beth i'w ddweud.
 
-## What should I avoid?
+## Beth ddylwn i ei osgoi?
 
-Some natural reactions tend to make things worse.
+Mae rhai ymatebion naturiol yn tueddu i wneud pethau'n waeth.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Dadlau neu fynnu.** Anaml y bydd "Dewch ymlaen, dim ond un arall" neu "Rydych chi wrth eich bodd â hwn" yn helpu.
+- **Holi neu gywiro.** Mae "Rydych chi'n gwybod beth yw hwn" neu "Na, mae'r un yna'n anghywir" yn ychwanegu pwysau.
+- **Ei gymryd yn bersonol.** Mae'r NIA yn atgoffa gofalwyr mai'r clefyd, nid y person, sy'n achosi'r newidiadau hyn.
+- **Gwasgu neu frysio.** Mae Cymdeithas Alzheimer yn cynghori peidio â chodi eich llais, dangos braw, cornelu, gwasgu, atal, beirniadu, anwybyddu na dadlau â'r person, ac i osgoi symudiadau sydyn y tu allan i'w golwg.
+- **Defnyddio euogrwydd.** Mae "Fe wnes i baratoi hyn i gyd i chi" yn gadael y ddau ohonoch yn teimlo'n waeth.
+- **Labelu.** Mae "ystyfnig" neu "anodd" yn cuddio'r rheswm go iawn ac yn ei gwneud hi'n anos datrys y broblem.
 
-## How can I find out what is behind repeated refusals?
+## Sut gallaf ddarganfod beth sydd y tu ôl i wrthodiadau sy'n digwydd dro ar ôl tro?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Cadwch nodyn syml am wythnos neu ddwy. Dywed yr NIA y gall olrhain newidiadau mewn ymddygiad helpu gofalwyr a darparwyr gofal iechyd i weld patrwm a gweithio allan yr achos.
 
-Jot down:
+Ysgrifennwch:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- amser y dydd;
+- beth gynigioch chi a sut y gwnaethoch chi ofyn;
+- beth oedd yn digwydd o'ch cwmpas (sŵn, ymwelwyr, teledu);
+- sut y gwnaethon nhw gysgu, bwyta ac yfed, a phryd y gwnaethon nhw ddefnyddio'r toiled ddiwethaf;
+- unrhyw feddyginiaethau newydd neu salwch diweddar.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Yn aml, mae patrymau'n ymddangos yn gyflym: gwrthodiadau sy'n digwydd dim ond ar ôl 4 p.m., dim ond gyda gêm benodol, neu dim ond pan fydd y teledu ymlaen. Mae [canllaw Cynghrair Gofalwyr Teulu ar ymddygiadau dementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) yn ei roi'n syml: ni allwn newid y person, ond gallwn newid ein hymddygiad ein hunain a'r amgylchedd.
 
-## When should I talk to a doctor about refusal or frustration?
+## Pryd ddylwn i siarad â meddyg am wrthod neu rwystredigaeth?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Siaradwch â meddyg pan fydd ymddygiad yn newid yn sydyn, yn gyflym, neu ynghyd ag arwyddion salwch. Dywed yr NIA y dylid rhoi sylw meddyg ar unwaith i newidiadau sydyn neu newidiadau cyflym mewn ymddygiad, yn enwedig os yw'r person wedi cael haint neu os yw ei feddyginiaethau wedi newid yn ddiweddar.
 
-Contact their doctor promptly if you notice:
+Cysylltwch â'u meddyg yn brydlon os byddwch chi'n sylwi ar:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- ddryswch sydyn neu newid mawr dros oriau neu ddyddiau;
+- arwyddion poen, fel gwincio, gwarchod rhan o'r corff, neu drafferth newydd i symud;
+- twymyn neu arwyddion eraill o haint;
+- meddyginiaethau newydd neu feddyginiaethau sydd wedi newid, a newid mewn ymddygiad yn dilyn;
+- colli diddordeb ym mron popeth, bod yn ddagrau neu dynnu'n ôl am fwy na phythefnos;
+- gwrthod bwyd neu ddiod.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Mae Cymdeithas Alzheimer yn argymell archwiliad meddygol trylwyr i unrhyw un sydd â symptomau ymddygiadol, yn enwedig pan fyddant yn ymddangos yn sydyn. Mae Cynghrair Gofalwyr Teulu hefyd yn cynghori gwirio gyda'r meddyg yn gyntaf, oherwydd gall problemau ymddygiad fod ag achos meddygol. Peidiwch â dechrau, stopio na newid unrhyw feddyginiaeth heb siarad â meddyg neu fferyllydd.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Os oes unrhyw un mewn perygl neu os oes arwyddion argyfwng meddygol, ffoniwch 999. Mae'r NIA yn awgrymu dweud wrth y sawl sy'n ateb fod gan y person ddementia.
 
-## Is it okay if we do nothing at all?
+## Ydy hi'n iawn os nad ydyn ni'n gwneud dim o gwbl?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ydy. Ar rai diwrnodau, y gweithgaredd gorau yw dim gweithgaredd o gwbl: eistedd gyda'ch gilydd, dal dwylo, gwrando ar hoff record, neu wylio adar drwy'r ffenestr. Nid methiant yw hynny. Mae ein [canllaw ar chwarae gyda'ch gilydd](/caregiving/how-to-play-together/) yn esbonio pam y gall stopio'n gynnar, neu beidio â dechrau o gwbl, fod y peth iawn i'w wneud.

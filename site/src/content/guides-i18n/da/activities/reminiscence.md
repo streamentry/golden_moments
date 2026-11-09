@@ -1,32 +1,32 @@
 ---
-title: "Erindringsaktiviteter: Erindringskasser, livshistorier og fotos"
-seoTitle: "Erindringsaktiviteter ved demens: Idéer uden quiz"
-description: "Sådan deler du minder med en person med demens uden at quizze: samtale om fotos, erindringskasser og livshistoriebøger, med formuleringer, der holder det afslappet."
+title: "Erindringsaktiviteter: Hukommelseskasser, livshistorier og fotos"
+seoTitle: "Erindringsaktiviteter ved demens: Ideer uden quiz"
+description: "Sådan deler du minder med en person, der lever med demens, uden at stille quizspørgsmål: fotosamtaler, hukommelseskasser og livshistoriebøger med rolige sætninger."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Erindring betyder at nyde fortiden sammen gennem fotos, genstande, musik og
-  historier. Lav en erindringskasse, byg en enkel livshistoriebog, eller kig på
-  fotos side om side. Quiz aldrig: Spring »Kan du huske?« og »Hvem er det?« over,
-  og brug åbne invitationer som »Fortæl mig om det her«. En varm samtale betyder
-  mere end at få fakta rigtige.
+  Erindring handler om at nyde fortiden sammen gennem fotos, genstande, musik
+  og historier. Lav en hukommelseskasse, byg en enkel livshistoriebog eller se
+  fotos side om side. Undgå at stille quizspørgsmål som "Kan du huske?" eller
+  "Hvem er det?". Brug i stedet åbne invitationer som "Fortæl mig om dette."
+  En varm samtale betyder mere end at få fakta rigtige.
 keyPoints:
-  - "Erindring er en samtale, ikke en prøve. Præcision betyder ikke noget; glæden gør."
-  - "Erstat »Kan du huske ...?« og »Hvem er det?« med kommentarer og invitationer som »Fortæl mig om den dag«."
-  - "En erindringskasse med genstande fra personens liv giver hænderne og samtalen noget at holde fast i."
-  - "En livshistoriebog hjælper familie, besøgende og plejepersonale med at kende personen, ikke kun diagnosen."
-  - "Hvis et minde giver sorg, så trøst først, og gå blidt videre."
+  - "Erindring er en samtale, ikke en test. Nøjagtighed betyder ikke noget; hyggen gør."
+  - "Erstat 'Kan du huske...?' og 'Hvem er det?' med kommentarer og invitationer som 'Fortæl mig om denne dag.'"
+  - "En hukommelseskasse med genstande fra personens liv giver hænderne og samtalen noget at holde på."
+  - "En livshistoriebog hjælper familie, besøgende og plejepersonale med at kende personen - ikke kun diagnosen."
+  - "Hvis en minder vækker sorg, trøst først og gå forsigtigt videre til noget andet."
 faq:
-  - q: "Hvad er erindring for mennesker med demens?"
-    a: "Erindring er at dele minder og tidligere oplevelser, ofte med hjælp fra fotos, genstande, musik eller videoer. Det kan ske én-til-én eller i en gruppe. Målet er en behagelig, meningsfuld samtale, ikke at teste, hvad personen kan huske."
-  - q: "Hvorfor skal jeg ikke spørge »Kan du huske?«"
-    a: "Spørgsmål, der tester hukommelsen, kan få en person til at føle sig flov eller ængstelig, når svaret ikke kommer. National Institute on Aging nævner at spørge, om nogen husker noget eller nogen, blandt de ting, man bør undgå. Kommentér i stedet det, du ser, og lad personen tilføje, hvad de vil."
-  - q: "Hvad skal jeg lægge i en erindringskasse?"
-    a: "Vælg sikre, robuste genstande, der har forbindelse til personens liv: ting fra arbejdet, hobbyudstyr, et yndlingstørklæde, postkort, opskriftskort, sportssouvenirer eller kopier af fotos. Undgå skarpe genstande, små ting, der kan sluges, og uerstattelige originaler."
-  - q: "Hvad hvis de husker fakta forkert?"
-    a: "Lad det ligge. Hvis din mor siger, at fotoet viser hendes søster, når det er hendes fætter, så er det fint. At rette gør et varmt øjeblik til en prøve. Følg historien, de fortæller, og nyd den sammen."
+  - q: "Hvad er erindring for personer, der lever med demens?"
+    a: "Erindring handler om at dele minder og oplevelser fra fortiden, ofte med hjælp af fotos, genstande, musik eller videoer. Det kan gøres en til en eller i gruppe. Formålet er en hyggelig og meningsfuld samtale, ikke at teste, hvad personen kan huske."
+  - q: "Hvorfor bør jeg ikke spørge 'Kan du huske?'"
+    a: "Spørgsmål, der tester hukommelsen, kan få personen til at føle sig generet eller bekymret, hvis svaret ikke kommer med det samme. National Institute on Aging anbefaler at undgå at spørge, om personen kan huske noget eller nogen. Kommentér i stedet på det, du ser, og lad personen selv føje til, hvad de vil."
+  - q: "Hvad bør jeg lægge i en hukommelseskasse?"
+    a: "Vælg sikre, robuste genstande, der knytter sig til personens liv: arbejdsgenstande, hobbyudstyr, et yndet tørklæde, postkort, opskriftskort, sportsminder eller kopier af fotos. Undgå skarpe genstande, små ting, der kan sluges, og uerstattelige originaler."
+  - q: "Hvad hvis de husker forkerte fakta?"
+    a: "Lad det være. Hvis personen siger, at billedet viser hendes søster, selv om det er hendes kusine, er det helt fint. At rette gør et varmt øjeblik til en test. Følg den historie, personen fortæller, og nyd den sammen."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Erindring betyder simpelthen at nyde fortiden sammen. For mange mennesker, der lever med demens, står minder fra for årtier siden klarere end det, der skete i morges. Fotos, velkendte genstande, musik og historier kan åbne disse minder og give dig noget varmt at dele. Den ene regel: Det er en samtale, aldrig en quiz.
+Erindring handler blot om at nyde fortiden sammen. For mange personer, der lever med demens, er minder fra mange årtier siden ofte klarere end det, der skete i morges. Fotos, velkendte genstande, musik og historier kan hjælpe med at få dem frem og give jer noget varmt at dele. Den eneste regel er, at det er en samtale - aldrig en quiz.
 
-## Hvad er erindring, og hvordan adskiller det sig fra quiz?
+## Hvad er erindring, og hvordan adskiller det sig fra at stille quizspørgsmål?
 
-Erindring er at dele minder gennem fotos, genstande, musik eller video, i personens eget tempo. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) beskriver det som at dele tidligere oplevelser og historier med hjælp fra fotos, genstande, videoer eller musik, i en bog eller på en tablet. Quiz er noget andet: Det beder personen om at fremstille et rigtigt svar, og det kan give flovhed i stedet for glæde.
+Erindring er at dele minder gennem fotos, genstande, musik eller video i personens eget tempo. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) beskriver det som at dele oplevelser og historier fra fortiden med hjælp af fotos, genstande, videoer eller musik, i en bog eller på en tablet. Quizspørgsmål er noget andet: de beder personen om at give det rigtige svar, og det kan skabe forlegenhed fremfor hygge.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) nævner at spørge en person, om de husker noget eller nogen, som noget, man bør undgå. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) foreslår at undgå spørgsmål, der kræver korttidshukommelse, og i stedet tale om den mere fjerne fortid.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) anbefaler at undgå at spørge, om personen kan huske noget eller nogen. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) foreslår at undgå spørgsmål, der bygger på korttidshukommelsen, og i stedet tale om minder fra længere tid tilbage.
 
 | I stedet for | Prøv |
 | --- | --- |
-| »Kan du huske det her?« | »Det her ligner en glad dag. Fortæl mig om den.« |
-| »Hvem er det?« | »Her er tante Rose på stranden. Se på den hat.« |
-| »Hvilket år var det?« | »Det her ligner det gamle hus. Hvordan var det at bo der?« |
-| »Nej, det er ikke Bill, det er Frank.« | »Han ser ud til at have det sjovt.« |
-| »Det har du allerede fortalt mig.« | »Jeg elsker den historie.« |
+| "Kan du huske dette?" | "Dette ser ud til at have været en dejlig dag. Fortæl mig om den." |
+| "Hvem er det?" | "Her er tante Rose på stranden. Se på den hat." |
+| "Hvilket år var dette?" | "Dette ligner det gamle hus. Hvad var det for en tid at bo der?" |
+| "Nej, det er ikke Bill, det er Frank." | "Han ser ud til at have været rigtig sjov." |
+| "Du har allerede fortalt mig det." | "Jeg synes, det er en dejlig historie." |
 
-## Hvordan taler du om fotos uden at quizze?
+## Hvordan taler man om fotos uden at stille quizspørgsmål?
 
-Begynd med det, du ser, og lad så plads til, at personen kan tilføje noget, hvis de vil.
+Start med det, du ser, og lad så plads til, at personen selv kan tilføje noget, hvis de ønsker det.
 
-1. **Sid side om side.** Hold albummet mellem jer, så I kigger sammen og ikke tester over et bord.
-2. **Vælg nogle få fotos.** Fem gode fotos er bedre end en hel kasse. Store, tydelige kopier virker bedst.
-3. **Navngiv folk selv.** »Her er dig og far på jeres bryllupsdag« fjerner presset.
-4. **Kommentér detaljer.** Tøj, biler, mad, vejr, ansigter. »Sikke en bil. Den ser så blank ud.«
-5. **Inviter, kræv ikke.** »Fortæl mig om ...« eller »Hvad lægger du mærke til?« Stilhed er fint.
-6. **Følg deres spor.** Hvis de taler om noget helt andet, så gå med.
-7. **Stop, mens det er behageligt.** Luk albummet, før træthed sætter ind.
+1. **Sid side om side.** Hold albummet mellem jer, så I ser sammen - ikke over for hinanden som ved en prøve.
+2. **Vælg kun få fotos.** Fem gode fotos er ofte bedre end en hel kasse. Store, klare prints fungerer bedst.
+3. **Navngiv selv.** "Her er dig og far på jeres bryllupsdag" fjerner presset.
+4. **Bemærk små detaljer.** Tøj, biler, mad, vejr eller ansigter. "Sikke en bil. Den ser så blank ud."
+5. **Inviter, kræv ikke.** Brug sætninger som "Fortæl mig om..." eller "Hvad lægger du mærke til?" Tavshed er helt okay.
+6. **Følg personens spor.** Hvis samtalen går i en helt anden retning, så følg den.
+7. **Stop, mens det er hyggeligt.** Luk albummet, før personen bliver træt.
 
-Til færdige billedopfordringer, prøv [samtalekort](/games/conversation-cards/). For at lave dine egne familiefotos om til et blidt matchspil, prøv [Fotopar](/games/photo-pairs/); de fotos, du vælger, bliver i din browser.
+Hvis du vil have færdiglavede billedidéer, kan du prøve [samtalekort](/games/conversation-cards/). Vil du lave et roligt parspil af jeres egne familiefotos, kan du prøve [fotopar](/games/photo-pairs/); de fotos, I vælger, bliver kun i jeres browser.
 
-## Hvordan laver du en erindringskasse?
+## Hvordan laver man en hukommelseskasse?
 
-En erindringskasse er en beholder med genstande fra personens liv, som de kan røre ved og tale om.
+En hukommelseskasse er en beholder med genstande fra personens liv, som I kan tage op og tale om.
 
-1. **Vælg en robust kasse**, der er let at åbne, for eksempel en skokasse, en hattæske eller en lille træskrin.
-2. **Vælg et tema eller en blanding.** Arbejde, en hobby, et sted, et årti eller lidt af hvert.
-3. **Saml sikre genstande.** Fem til ti ting er rigeligt til at starte.
-4. **Brug kopier af dyrebare ting.** Kopiér uerstattelige fotos og dokumenter, og gem originalerne i sikkerhed.
-5. **Tag én genstand ud ad gangen.** Giv den til personen, sig noget om den, og se, hvor samtalen går hen.
+1. **Vælg en robust kasse.** En skoæske, hatteæske eller lille trækiste er ofte nem at åbne.
+2. **Vælg et tema eller bland lidt.** Arbejde, en hobby, et sted, et årti eller en blanding af det hele.
+3. **Saml nogle sikre genstande.** Fem til ti genstande er rigeligt til at starte med.
+4. **Brug kopier af dyrebare ting.** Kopiér uerstattelige fotos og papirer, og gem originalerne et sikkert sted.
+5. **Tag én ad gangen.** Ræk én genstand frem, sig noget om den, og se, hvor samtalen fører hen.
 
-Idéer til at putte i:
+Ideer til, hvad I kan lægge i kassen:
 
-- **Arbejde:** et navneskilt, et lille værktøj, et uniformsmærke, en hovedbog, en sygeplejerskebroche, en kogebog fra en café.
-- **Hjem:** et opskriftskort i deres egen håndskrift, et viskestykke, et yndlingstørklæde eller slips.
-- **Hobbyer:** et fiskewobler uden krog, en baseball, et nøgle af garn, en frøpose.
-- **Steder:** postkort, kort, et turistsouvenir, en udklip fra en hjembys avis.
-- **Familie:** kopier af fotos, et barns tegning, en bryllupsinvitation.
+- **Arbejde:** et navneskilt, et lille værktøj, et uniformsmærke, en regnskabsbog, en sygeplejersnål eller en kogebog fra en frokostrestaurant.
+- **Hjemmet:** et opskriftskort med personens håndskrift, et viskestykke, et yndet tørklæde eller slips.
+- **Hobbyer:** en fiskekrog uden barde, en baseball, en nøglegarn eller en frøpose.
+- **Steder:** postkort, kort, en turistgave eller et udriv af avisen fra hjembyen.
+- **Familie:** kopier af fotos, en børnetegning eller en bryllupsinvitation.
 
-Lad skarpe genstande, små ting der kan sluges, og alt, der kan vække smertefulde minder, ligge, medmindre du ved, at det er velkomment.
+Lad være med at lægge skarpe genstande, små ting, der kan sluges, eller noget, der kan vække stærke smerter, medmindre I ved, at det er velkomment.
 
-## Hvordan laver du en livshistoriebog?
+## Hvordan laver man en livshistoriebog?
 
-En livshistoriebog er et simpelt album med fotos og korte billedtekster om personens liv. Det er noget, I kan kigge i sammen, og det hjælper besøgende og plejepersonale med at se hele personen.
+En livshistoriebog er et enkelt album med fotos og korte billedtekster om personens liv. Den kan I se sammen, og den hjælper besøgende og plejepersonale med at se hele personen.
 
-1. **Vælg et format.** En ringbind med plastlommer, en trykt fotobog eller et diasshow på en tablet.
-2. **Planlæg nogle få afsnit.** Barndom, skole, arbejde, familie, steder de har boet, tro, hobbyer, yndlingsmad og musik.
-3. **Tilføj ét eller to fotos pr. side** med en kort billedtekst med stor skrift: »Mary, 22 år, starter i banken.«
-4. **Medtag vaner og rutiner.** »Drikker kaffe med mælk. Elsker søndagens salmer. Kan ikke lide høj tv-lyd.« Det hjælper alle, der passer dem.
-5. **Inddrag personen**, så meget de vil, med at vælge fotos, fortælle historier eller bare se det tage form.
-6. **Bliv ved med at tilføje.** Den behøver ikke være færdig for at være nyttig.
+1. **Vælg format.** En ringbind med plastlommer, en trykt fotobog eller et diasshow på en tablet.
+2. **Planlæg nogle afsnit.** Barndom, skole, arbejde, familie, bosteder, tro, hobbyer, yndlingsmad eller musik.
+3. **Sæt et eller to fotos pr. side** med en kort tekst i stor skrift: "Mary, 22 år, tager hul på sit første arbejde i banken."
+4. **Tilføj små præferencer.** "Drikker kaffe med mælk. Elsker søndagsalmer. Kan ikke lide høj fjernsynslyd." Det kan hjælpe dem, der skal passe på personen.
+5. **Involver personen** så meget, de vil - ved at vælge fotos, fortælle historier eller blot se med, mens bogen bliver til.
+6. **Tilføj løbende.** Den behøver ikke være færdig for at være brugbar.
 
-## Flere erindringsidéer
+## Flere idéer til erindring
 
-- **Spil musik fra deres ungdom**, og tal om, hvor den fører dem hen. Se [musikaktiviteter](/activities/music/).
-- **Se hjemmefilm eller tv-serier** fra deres yndlingsårtier.
-- **Lav en barndomsret**, og lad dufte lede samtalen.
-- **Kig på et kort** over deres hjemby, og følg de velkendte gader.
-- **Læs gamle kataloger eller blade** og tal om priser, mode og biler.
-- **Optag deres historier** på en telefon, med deres tilladelse, til familien.
-- **Del under opkald.** Hold et foto op under et videoopkald; se [telefon- og videoopkald](/activities/phone-and-video-calls/).
-- **Tag et foto eller en genstand med, når du besøger.** Det giver besøget et let fokus; se [besøg](/activities/visiting/).
+- **Spil musik fra deres ungdom** og tal om, hvad den minder dem om. Se [musikaktiviteter](/activities/music/).
+- **Se hjemmevideoer eller tv-programmer** fra deres yndlingsårtier.
+- **Lav en barndomsret** sammen, og lad duften lede samtalen.
+- **Se på et kort** over hjembyen og følg kendte gader.
+- **Bladre i gamle kataloger eller blade** og tal om priser, mode og biler.
+- **Optag deres historier** på telefonen med deres samtykke, så familien kan beholde dem.
+- **Del minder via opkald.** Hold et enkelt foto op under et videoopkald. Se [telefon- og videoopkald](/activities/phone-and-video-calls/).
+- **Tag et foto eller en genstand med på besøg.** Det giver besøget et nemt udgangspunkt. Se [besøg](/activities/visiting/).
 
-## Hvad hvis et minde gør ondt?
+## Hvad hvis en minder vækker smerte?
 
-Nogle minder vækker sorg, anger eller frygt. Hvis personen bliver ked af det, så stop, trøst dem, og skift blidt emne eller aktivitet. Diskutér ikke, hvad der skete. Family Caregiver Alliance råder mod at forsøge at overbevise en person om, at de tager fejl, og foreslår at svare på de følelser, de viser, som er virkelige. Hvis de taler om en, der er død, som om de var i live, så svar på følelsen: »Du savner hende. Fortæl mig om hende.«
+Nogle minder kan vække sorg, fortrydelse eller angst. Hvis personen bliver ked af det, så stop, trøst dem og skift forsigtigt emne eller aktivitet. Gå ikke i debat om, hvad der skete. Family Caregiver Alliance anbefaler ikke at prøve at overbevise personen om, at de tager fejl, men i stedet at reagere på de følelser, de viser - for de er reelle. Hvis personen taler om en, der er død, som om vedkommende stadig var i live, kan du reagere på følelsen: "Du savner hende. Fortæl mig om hende."
 
 ## Hvad siger forskningen?
 
-Et [Cochrane-review af erindring](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), der dækker 22 forsøg og 1.972 personer, fandt, at effekterne var inkonsistente, små og varierede efter miljø og format. Det fandt ingen tegn på skade for mennesker med demens. Vi foreslår erindring, fordi det kan give varm, meningsfuld tid sammen, ikke som en behandling. For mere om en let samtale, se [kommunikationstips](/caregiving/communication-tips/).
+En [Cochrane-oversigt om erindring](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), der dækkede 22 forsøg med 1.972 personer, fandt, at effekterne var uensartede, små og afhængige af rammer og form. Oversigten fandt ingen tegn på skade for personer med demens. Vi foreslår erindring, fordi det kan give varm og meningsfuld tid sammen - ikke som en behandling. For flere idéer til en rolig samtale kan du se [tips til kommunikation](/caregiving/communication-tips/).
